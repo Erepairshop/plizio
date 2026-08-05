@@ -14,11 +14,12 @@ import urllib.error
 import urllib.request
 
 
-INSTRUCTIONS = """Translate every supplied English travel-guide string into natural European Spanish.
-Return only one JSON object with this schema: {"translations":{"input_key":"Spanish text"}}.
+INSTRUCTIONS = """Translate every supplied English travel-guide string into natural {language_name}.
+Return only one JSON object with this schema: {{"translations":{{"input_key":"translated text"}}}}.
 Every input key must occur exactly once; no extra key is allowed. Do not add facts, commentary or markdown.
-Preserve URLs, dates, numbers, units and proper nouns in their established Spanish or local form. Keep concise
-source strings concise. Use correct Spanish punctuation and UTF-8 characters."""
+Preserve URLs, dates, numbers, units and proper nouns in their established target-language or local form. Keep concise
+source strings concise. Preserve every placeholder such as {{place}}, {{country}} or {{name}} exactly, including
+its braces and spelling. Use correct punctuation and UTF-8 characters for the target language."""
 
 
 class RateLimiter:
@@ -59,10 +60,10 @@ def parse_translations(text: str, expected: set[str]) -> dict:
     return {key: item.strip() for key, item in translated.items()}
 
 
-def request_batch(endpoint: str, key: str, deployment: str, task: dict, limiter: RateLimiter, retries: int) -> dict:
+def request_batch(endpoint: str, key: str, deployment: str, language_name: str, task: dict, limiter: RateLimiter, retries: int) -> dict:
     payload = {
         "model": deployment,
-        "instructions": INSTRUCTIONS,
+        "instructions": INSTRUCTIONS.format(language_name=language_name),
         "input": json.dumps(task["items"], ensure_ascii=False, separators=(",", ":")),
         "reasoning": {"effort": "minimal"},
         "max_output_tokens": 12000,
@@ -120,6 +121,7 @@ def main() -> int:
     parser.add_argument("--workers", type=int, default=4)
     parser.add_argument("--rpm", type=float, default=9)
     parser.add_argument("--retries", type=int, default=4)
+    parser.add_argument("--language-name", default="European Spanish")
     args = parser.parse_args()
 
     endpoint = os.environ.get("AZURE_OPENAI_ENDPOINT", "")
@@ -142,7 +144,7 @@ def main() -> int:
     rows = []
     with ThreadPoolExecutor(max_workers=args.workers) as executor:
         futures = {
-            executor.submit(request_batch, endpoint, key, deployment, task, limiter, args.retries): task["id"]
+            executor.submit(request_batch, endpoint, key, deployment, args.language_name, task, limiter, args.retries): task["id"]
             for task in selected
         }
         for future in as_completed(futures):

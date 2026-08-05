@@ -1,6 +1,9 @@
 // "Discover more places" block for POI HTML pages.
 // Shows a stylized continent SVG + headline + secondary country link.
 import { CONTINENT_SVG } from "./continent-svgs";
+import * as _poiHtmlUiNs from "../seo/poi-html-ui";
+const _poiHtmlUi: any = (_poiHtmlUiNs as any).default ?? _poiHtmlUiNs;
+const poiHtmlUiText: typeof import("../seo/poi-html-ui").poiHtmlUiText = (...args) => _poiHtmlUi.poiHtmlUiText(...args);
 
 export type ExploreLang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it";
 
@@ -62,23 +65,27 @@ export function renderExploreBlock(opts: ExploreBlockOpts): string {
   const lang = _lk(opts.lang);
   const continentSlug = COUNTRY_TO_CONTINENT[opts.countryId];
   if (!continentSlug) return "";
-  const continentName = CONTINENT_NAME[continentSlug]?.[lang] ?? CONTINENT_NAME[continentSlug]?.[_langFallback(lang)] ?? continentSlug;
+  const continentFallback = CONTINENT_NAME[continentSlug]?.[lang] ?? CONTINENT_NAME[continentSlug]?.[_langFallback(lang)] ?? continentSlug;
+  const continentName = poiHtmlUiText(lang, `continent.${continentSlug}`, continentFallback);
   const imgSlug = CONTINENT_IMG[continentSlug];
   const visual = imgSlug
     ? `<img src="/geo-images/continents/continent-${imgSlug}.webp" alt="${continentName}" loading="lazy" width="140" height="98"/>`
     : (CONTINENT_SVG[continentSlug] || "");
   if (!visual) return "";
   const c = COPY[lang] ?? COPY.en;
+  const sectionTitle = poiHtmlUiText(lang, "explore.sectionTitle", c.sectionTitle);
+  const discover = poiHtmlUiText(lang, "explore.discover", c.discover(continentName), { continent: continentName });
+  const moreIn = poiHtmlUiText(lang, "explore.moreIn", c.moreIn(opts.countryName), { country: opts.countryName });
   const continentHref = `/${continentSlug}/`;
   const countryLink = opts.countryMapUrl
-    ? `<a class="plz-explore-link" href="${opts.countryMapUrl}">${c.moreIn(opts.countryName)} →</a>`
+    ? `<a class="plz-explore-link" href="${opts.countryMapUrl}">${moreIn} →</a>`
     : "";
-  return `<section class="plz-explore" aria-label="${c.sectionTitle}">
+  return `<section class="plz-explore" aria-label="${sectionTitle}">
   <a class="plz-explore-card" href="${continentHref}">
     <div class="plz-explore-svg">${visual}</div>
     <div class="plz-explore-text">
-      <span class="plz-explore-eyebrow">${c.sectionTitle}</span>
-      <strong>${c.discover(continentName)}</strong>
+      <span class="plz-explore-eyebrow">${sectionTitle}</span>
+      <strong>${discover}</strong>
     </div>
   </a>
   ${countryLink}

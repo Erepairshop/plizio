@@ -1,0 +1,100 @@
+name: Native UI Azure Translation
+
+on:
+  workflow_dispatch:
+    inputs:
+      language_code:
+        description: "Target language code, for example es or pt"
+        required: true
+      language_name:
+        description: "Target language name, for example European Spanish"
+        required: true
+      limit:
+        description: "Pending batches; 0 means all. Partial runs are not applied."
+        required: true
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: native-ui-${{ inputs.language_code }}
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate inputs and build queue
+        env:
+          LANG_CODE: ${{ inputs.language_code }}
+        run: |
+          set -euo pipefail
+          [[ "$LANG_CODE" =~ ^[a-z]{2}(-[a-z]{2})?$ ]] || { echo "Invalid language code" >&2; exit 1; }
+          WORK="/home/erik/plizio-translations/ui-$LANG_CODE"
+          rm -rf "$WORK"
+          python3 scripts/native-rollout/build-ui-translation-queue.py \
+            --language "$LANG_CODE" --output-dir "$WORK"
+
+      - name: Translate through Azure OpenAI
+        env:
+          LANG_CODE: ${{ inputs.language_code }}
+          LANG_NAME: ${{ inputs.language_name }}
+          BATCH_LIMIT: ${{ inputs.limit }}
+        run: |
+          set -euo pipefail
+          WORK="/home/erik/plizio-translations/ui-$LANG_CODE"
+          set -a
+          source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
+          set +a
+          python3 scripts/native-rollout/run-azure-translation.py \
+            --queue "$WORK/queue.json" --output "$WORK/results.jsonl" \
+            --language-name "$LANG_NAME" --limit "$BATCH_LIMIT" --workers 4 --rpm 9
+
+      - name: Apply complete translation and rebuild module
+        if: ${{ inputs.limit == '0' }}
+        env:
+          LANG_CODE: ${{ inputs.language_code }}
+          LANG_NAME: ${{ inputs.language_name }}
+        run: |
+          set -euo pipefail
+          WORK="/home/erik/plizio-translations/ui-$LANG_CODE"
+          python3 scripts/native-rollout/apply-ui-translations.py \
+            --language "$LANG_CODE" --language-name "$LANG_NAME" --work-dir "$WORK"
+          node scripts/native-rollout/build-poi-html-ui-module.mjs
+
+      - name: Validate catalogs
+        if: ${{ inputs.limit == '0' }}
+        run: |
+          set -euo pipefail
+          node scripts/native-rollout/build-poi-html-ui-module.mjs
+          git diff --check
+
+      - name: Commit translated catalog
+        if: ${{ inputs.limit == '0' }}
+        env:
+          LANG_CODE: ${{ inputs.language_code }}
+          LANG_NAME: ${{ inputs.language_name }}
+        run: |
+          set -euo pipefail
+          git config user.name "plizio-translation-bot"
+          git config user.email "borota25@gmail.com"
+          git add "lib/seo/poi-html-ui/catalogs/$LANG_CODE.json" lib/seo/poi-html-ui.generated.ts
+          if git diff --cached --quiet; then
+            echo "Catalog already current"
+            exit 0
+          fi
+          git commit -m "feat(i18n): add $LANG_NAME POI interface copy"
+          git push
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: native-ui-${{ inputs.language_code }}-translation
+          path: |
+            /home/erik/plizio-translations/ui-${{ inputs.language_code }}/manifest.json
+            /home/erik/plizio-translations/ui-${{ inputs.language_code }}/results.jsonl
+          if-no-files-found: warn

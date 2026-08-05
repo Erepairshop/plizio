@@ -28,6 +28,10 @@ import type { POI } from "../lib/visualLab/data/poi";
 import * as _poiImageOverridesNs from "../lib/seo/poiImageOverrides";
 import * as _loaderNs from "./_load-full-pois";
 import { renderPoiImageContribution } from "./lib/render-poi-image-contribution.mts";
+import * as _poiHtmlUiNs from "../lib/seo/poi-html-ui";
+const _poiHtmlUi: any = (_poiHtmlUiNs as any).default ?? _poiHtmlUiNs;
+const poiHtmlUiText: typeof import("../lib/seo/poi-html-ui").poiHtmlUiText = (...args) => _poiHtmlUi.poiHtmlUiText(...args);
+const poiHtmlUiSection: typeof import("../lib/seo/poi-html-ui").poiHtmlUiSection = (...args) => _poiHtmlUi.poiHtmlUiSection(...args);
 const _loader: any = (_loaderNs as any).default ?? _loaderNs;
 const _poiImageOverrides: any = (_poiImageOverridesNs as any).default ?? _poiImageOverridesNs;
 const POI_IMAGE_OVERRIDES: Readonly<Record<string, string>> = _poiImageOverrides.POI_IMAGE_OVERRIDES;
@@ -903,7 +907,16 @@ function buildAutoFaq(
   poi: POI, lang: Lang, name: string, regionName: string, countryName: string,
   descText: unknown, sightNames: string[],
 ): Array<{ q: string; a: string }> {
-  const t = AUTO_FAQ[lang] || AUTO_FAQ.en;
+  const fallback = AUTO_FAQ[lang] || AUTO_FAQ.en;
+  const t = {
+    whereQ: (n: string) => poiHtmlUiText(lang, "autoFaq.whereQ", fallback.whereQ(n), { name: n }),
+    whereA: (n: string, loc: string) => poiHtmlUiText(lang, "autoFaq.whereA", fallback.whereA(n, loc), { name: n, location: loc }),
+    whatQ: (n: string) => poiHtmlUiText(lang, "autoFaq.whatQ", fallback.whatQ(n), { name: n }),
+    whatA: (list: string) => poiHtmlUiText(lang, "autoFaq.whatA", fallback.whatA(list), { list }),
+    whenQ: (n: string) => poiHtmlUiText(lang, "autoFaq.whenQ", fallback.whenQ(n), { name: n }),
+    whenA: (best: string) => poiHtmlUiText(lang, "autoFaq.whenA", fallback.whenA(best), { best }),
+    whyQ: (n: string) => poiHtmlUiText(lang, "autoFaq.whyQ", fallback.whyQ(n), { name: n }),
+  };
   const out: Array<{ q: string; a: string }> = [];
   const loc = (regionName && regionName.toLowerCase() !== name.toLowerCase()) ? `${regionName}, ${countryName}` : countryName;
   if (loc) out.push({ q: t.whereQ(name), a: t.whereA(name, loc) });
@@ -1076,7 +1089,7 @@ function renderKeyFacts(
   poi: POI, lang: Lang, countryName: string,
   topSights: string[], nearby: { name: string; km: number } | null,
 ): string {
-  const L = _KEYFACTS_LABELS[lang] || _KEYFACTS_LABELS.en;
+  const L = poiHtmlUiSection(lang, "keyfacts", _KEYFACTS_LABELS[lang] || _KEYFACTS_LABELS.en);
   const rows: string[] = [];
   // Location: region (if a known region parent) + country
   const r = REGION_BY_ID.get(poi.parent || "");
@@ -1233,7 +1246,7 @@ function renderConstellation(poi: POI, lang: Lang): string {
   });
   const maxR = Math.max(...raw.map((q) => Math.hypot(q.dx, q.dy))) || 1;
   const maxKm = Math.max(...raw.map((q) => q.km)) || 1;
-  const t = CONSTEL_I18N[lang] || CONSTEL_I18N.en;
+  const t = poiHtmlUiSection(lang, "constellation", CONSTEL_I18N[lang] || CONSTEL_I18N.en);
 
   const CX = 50, CY = 37.5, RAD = 0.40; // viewBox 100x75, fractional placement radius
   const placed = raw.map((q) => {
@@ -1420,7 +1433,9 @@ function renderPostcardCta(poi: POI, lang: Lang, countryId: string): string {
     hr: { eyebrow: "Tvoje putovanje, tvoja uspomena", title: `Razglednica iz mjesta ${placeName}`, body: "Pretvori svoju fotografiju u osobnu razglednicu s pečatom mjesta. Besplatno i bez registracije.", button: "Izradi razglednicu", stamp: "Pozdrav iz" },
     it: { eyebrow: "Il tuo viaggio, il tuo ricordo", title: `Una cartolina da ${placeName}`, body: "Trasforma la tua foto in una cartolina personale con il timbro del luogo. Gratis e senza registrazione.", button: "Crea una cartolina", stamp: "Saluti da" },
   };
-  const t = COPY[lang] || COPY.en!;
+  const fallback = COPY[lang] || COPY.en!;
+  const t = poiHtmlUiSection(lang, "postcard", fallback);
+  t.title = poiHtmlUiText(lang, "postcard.title", fallback.title, { place: placeName });
   const params = new URLSearchParams({ place: String(placeName), country: countryName, lang });
   for (const postcardLang of SUPPORTED_LANGS) {
     params.set(`place_${postcardLang}`, String(getLocalized(poi.name, postcardLang) ?? placeName));
@@ -1484,7 +1499,9 @@ function renderMapQuizCta(countryId: string, countryName: string, lang: Lang): s
       button: "Avvia il quiz sulla mappa",
     },
   };
-  const t = COPY[lang] || COPY.en!;
+  const fallback = COPY[lang] || COPY.en!;
+  const t = poiHtmlUiSection(lang, "mapQuiz", fallback);
+  t.title = poiHtmlUiText(lang, "mapQuiz.title", fallback.title, { country: countryName });
 
   return `<section class="plz-map-quiz-cta" aria-labelledby="plz-map-quiz-title">
   <div class="plz-map-quiz-copy">
@@ -1525,9 +1542,9 @@ function renderMapQuizCta(countryId: string, countryName: string, lang: Lang): s
 }
 
 function renderTrustStrip(lang: Lang): string {
-  const t = TRUST_T[lang] || TRUST_T.en;
+  const t = poiHtmlUiSection(lang, "trust", TRUST_T[lang] || TRUST_T.en);
   const mon = (CLIMATE_MON[lang] || CLIMATE_MON.en!)[_BUILD_M] || "";
-  const src = (FOOTER_COPY[lang] || FOOTER_COPY.en).sources;
+  const src = poiHtmlUiText(lang, "footer.sources", (FOOTER_COPY[lang] || FOOTER_COPY.en).sources);
   const sep = `<span aria-hidden="true" style="opacity:.5">·</span>`;
   return `<div class="plz-trust" style="font-size:.8rem;opacity:.68;margin:.1rem 0 .7rem;display:flex;flex-wrap:wrap;gap:.4rem;align-items:center">`
     + `<span>${escapeHtml(t.team)}</span>${sep}`
@@ -1551,7 +1568,13 @@ const TIP_T: Record<string, { head: string; best: (n: string, b: string) => stri
   it: { head: "Il consiglio di Plizio", best: (n, b) => `${n} è particolarmente piacevole nel periodo ${b}.`, sight: (s) => `Non perdere ${s}.`, near: (c, km) => `Per una gita in giornata, ${c} (circa ${km} km) merita una visita.` },
 };
 function renderPlizioTip(poi: POI, lang: Lang, name: string, sightNames: string[], nearbyCity: { name: string; km: number } | null): string {
-  const t = TIP_T[lang] || TIP_T.en;
+  const fallback = TIP_T[lang] || TIP_T.en;
+  const t = {
+    head: poiHtmlUiText(lang, "tip.head", fallback.head),
+    best: (n: string, b: string) => poiHtmlUiText(lang, "tip.best", fallback.best(n, b), { name: n, best: b }),
+    sight: (s: string) => poiHtmlUiText(lang, "tip.sight", fallback.sight(s), { sight: s }),
+    near: (c: string, km: number) => poiHtmlUiText(lang, "tip.near", fallback.near(c, km), { city: c, km }),
+  };
   const best = climateBestStr(poi, lang);
   const topSight = (sightNames || []).find((s) => s && s.length > 1);
   const parts: string[] = [];
@@ -1632,8 +1655,14 @@ function poiPlaceholderSvg(type?: string): string {
 
 // Lang fallback: tr → de, fr → en (most strings only have 4 langs filled).
 function _langFallback(lang: Lang): Lang { return lang === "tr" ? "de" : lang === "fr" || lang === "it" ? "en" : lang; }
-const I = (k: string, lang: Lang) => I18N[k]?.[lang] ?? I18N[k]?.[_langFallback(lang)] ?? k;
-const T = (type: string, lang: Lang) => TYPE_LABEL[type]?.[lang] ?? TYPE_LABEL[type]?.[_langFallback(lang)] ?? type;
+const I = (k: string, lang: Lang) => {
+  const fallback = I18N[k]?.[lang] ?? I18N[k]?.[_langFallback(lang)] ?? k;
+  return poiHtmlUiText(lang, `common.${k}`, fallback);
+};
+const T = (type: string, lang: Lang) => {
+  const fallback = TYPE_LABEL[type]?.[lang] ?? TYPE_LABEL[type]?.[_langFallback(lang)] ?? type;
+  return poiHtmlUiText(lang, `type.${type}`, fallback);
+};
 
 // Lokalizalt footer-linkek. A jogi oldalak lang-prefix nelkuliek (/privacy/, /impressum/,
 // /about/ mind 200) — a regi /${lang}/datenschutz/ + /${lang}/ueber-uns/ 404 volt minden POI-n.
@@ -1648,7 +1677,7 @@ const FOOTER_COPY: Record<string, { privacy: string; about: string; imprint: str
   it: { privacy: "Privacy", about: "Chi siamo", imprint: "Note legali", europe: "Europa", sources: "Fonti dei dati" },
 };
 function footerHtml(lang: Lang): string {
-  const f = FOOTER_COPY[lang] ?? FOOTER_COPY.en;
+  const f = poiHtmlUiSection(lang, "footer", FOOTER_COPY[lang] ?? FOOTER_COPY.en);
   // Home link must point to an existing landing page — extra langs (fr/tr/hr)
   // have no /<lang>/ home, fall back to en.
   const navLang: Lang = SUPPORTED_LANGS.includes(lang) ? lang : ("en" as Lang);
@@ -1893,13 +1922,13 @@ const PINFO_LABELS: Record<string, Record<string, string>> = {
 function renderPracticalInfo(poi: POI, lang: Lang): string {
   const data = loadPractical(poi.id);
   if (!data) return "";
-  const C = PRACTICAL_COPY[lang] || PRACTICAL_COPY.en;
+  const C = poiHtmlUiSection(lang, "practical", PRACTICAL_COPY[lang] || PRACTICAL_COPY.en);
   // --- Pinfo v1 ag (2026-06): {kind, fields:{access:{de,hu,...},...}} alaku
   // sidecar a nem-city POI-kra (_apply_pinfo.py irja). Tipus-csaladonkenti
   // mezosorrend + cimkek; a regi landmark-sema lejjebb valtozatlan.
   if (data.kind && data.fields && typeof data.fields === "object") {
     const order = PINFO_FIELD_ORDER[data.kind] || Object.keys(data.fields);
-    const L = PINFO_LABELS[lang] || PINFO_LABELS.en;
+    const L = poiHtmlUiSection(lang, "pinfo", PINFO_LABELS[lang] || PINFO_LABELS.en);
     const items = order.map((k) => {
       const raw = (data.fields as any)[k];
       if (!raw || typeof raw !== "object") return "";
@@ -2239,9 +2268,9 @@ function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
   // camper data, without a per-page reverse-geocode round-trip.
   const _cid = slugs.getCountryIdStrict(poi.parent);
   const cc = (_cid && slugs.countryIso2(_cid)) || "";
-  const T = RP_COPY[lang] || RP_COPY.en;
-  const V = RP_VEHICLE_COPY[lang] || RP_VEHICLE_COPY.en;
-  const dyn = RP_DYN[lang] || RP_DYN.en;
+  const T = poiHtmlUiSection(lang, "route", RP_COPY[lang] || RP_COPY.en);
+  const V = poiHtmlUiSection(lang, "routeVehicle", RP_VEHICLE_COPY[lang] || RP_VEHICLE_COPY.en);
+  const dyn = poiHtmlUiSection(lang, "routeDynamic", RP_DYN[lang] || RP_DYN.en);
   const stopsOpts = [1, 2, 3, 4, 5, 6, 7, 8].map((n) => `<option${n === 2 ? " selected" : ""}>${n}</option>`).join("");
   const svc = [["water", T.water], ["dump", T.dump], ["power", T.power], ["toilets", T.wc], ["shower", T.shower]]
     .map(([v, l]) => `<label class="plz-rp-svcl"><input type="checkbox" class="plz-rp-svc" value="${v}"> ${escapeHtml(l)}</label>`).join("");
@@ -2338,7 +2367,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   const tier = (poi as { tier?: number }).tier ?? 2;
   const data = loadItinerary(poi.id, tier);
   if (!data || !data.modes) return "";
-  const C = ITIN_COPY[lang] || ITIN_COPY.en;
+  const C = poiHtmlUiSection(lang, "itinerary", ITIN_COPY[lang] || ITIN_COPY.en);
   // "transit" hidden for now: the data is synthetic (15 km/h estimate over the
   // sight stops, no real public-transport lines/stops/schedules) → misleading,
   // especially for small towns with no PT. Re-enable once fed real OSM/GTFS
@@ -2687,7 +2716,7 @@ function renderPlizioGo(poi: POI, lang: Lang, name: string): string {
   const day = renderCityItinerary(poi, lang);      // "" when no itinerary data ("Egy nap a városban")
   const dest = renderRoutePlanner(poi, lang, name); // "" when the POI has no coords
   if (!day && !dest) return "";
-  const T = PG_TABS[lang] || PG_TABS.en;
+  const T = poiHtmlUiSection(lang, "plizioGo", PG_TABS[lang] || PG_TABS.en);
   const head = `<div class="plz-pg-head">${PG_LOGO_SVG}</div>`;
   // Only show the tab bar when BOTH panels exist; otherwise render the single one bare.
   if (!(day && dest)) {
@@ -2890,7 +2919,7 @@ function renderTabNav(lang: Lang, opts: { hasItin: boolean; hasSights: boolean; 
     hr: { overview: "Pregled", itin: "Plan puta", sights: "Znamenitosti", info: "Info" },
     it: { overview: "Panoramica", itin: "Itinerario", sights: "Luoghi", info: "Info" },
   };
-  const t = L[lang] || L.en!;
+  const t = poiHtmlUiSection(lang, "tabs", L[lang] || L.en!);
   const tabs: string[] = [`<a class="plz-tab" href="#sec-overview" data-tab="overview">${t.overview}</a>`];
   if (opts.hasItin) tabs.push(`<a class="plz-tab" href="#sec-itin" data-tab="itin">${t.itin}</a>`);
   if (opts.hasSights) tabs.push(`<a class="plz-tab" href="#sec-sights" data-tab="sights">${t.sights}</a>`);
@@ -2915,7 +2944,7 @@ const _REP_T: Record<string, { btn: string; title: string; ph: string; email: st
   it: { btn: "Segnala un errore", title: "Segnala un errore in questa pagina", ph: "Cosa non va? (dati, immagine, traduzione, link…)", email: "Email (opzionale, per una risposta)", send: "Invia", cancel: "Annulla", thanks: "Grazie per la segnalazione!", err: "Invio non riuscito, riprova più tardi." },
 };
 function renderReportWidget(lang: Lang): string {
-  const t = _REP_T[lang] || _REP_T.en;
+  const t = poiHtmlUiSection(lang, "report", _REP_T[lang] || _REP_T.en);
   const e = escapeHtml;
   return `<button type="button" class="plz-rep-open" aria-label="${e(t.btn)}" title="${e(t.btn)}"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg><span>${e(t.btn)}</span></button>
 <div class="plz-rep-modal" id="plz-rep-modal" role="dialog" aria-modal="true" aria-hidden="true" aria-label="${e(t.title)}">
