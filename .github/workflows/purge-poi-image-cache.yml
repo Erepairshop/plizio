@@ -1,0 +1,68 @@
+name: Purge POI image cache
+
+on:
+  workflow_dispatch:
+    inputs:
+      manifest:
+        description: "Absolute VPS JSONL manifest containing a file field"
+        type: string
+        required: true
+
+jobs:
+  purge:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 10
+    steps:
+      - name: Validate manifest and build URL batches
+        shell: bash
+        env:
+          MANIFEST: ${{ inputs.manifest }}
+        run: |
+          set -euo pipefail
+          ROOT=/home/erik/plizio-audits/poi-only-technical-20260731
+          REAL=$(realpath -e "$MANIFEST")
+          case "$REAL" in
+            "$ROOT"/*.jsonl|"$ROOT"/*/*.jsonl|"$ROOT"/*/*/*.jsonl) ;;
+            *) echo "Manifest outside allowed audit root: $REAL" >&2; exit 1 ;;
+          esac
+          python3 - "$REAL" > /tmp/plizio-poi-image-purge-urls.txt <<'PY'
+          import json
+          import pathlib
+          import sys
+
+          seen = set()
+          for line in pathlib.Path(sys.argv[1]).read_text(encoding="utf-8").splitlines():
+              try:
+                  filename = json.loads(line).get("file")
+              except json.JSONDecodeError:
+                  continue
+              if not filename or pathlib.Path(filename).name != filename or not filename.endswith(".webp"):
+                  raise SystemExit(f"Unsafe image filename: {filename!r}")
+              if filename not in seen:
+                  seen.add(filename)
+                  print(f"https://plizio.com/poi-images/{filename}")
+          if not seen:
+              raise SystemExit("Manifest contains no purgeable image URLs")
+          PY
+          echo "Validated $(wc -l < /tmp/plizio-poi-image-purge-urls.txt) unique image URLs"
+
+      - name: Purge Cloudflare in batches
+        shell: bash
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
+        run: |
+          set -euo pipefail
+          test -n "$CF_API_TOKEN"
+          test -n "$CF_ZONE_ID"
+          split -l 30 /tmp/plizio-poi-image-purge-urls.txt /tmp/plizio-poi-image-purge-batch-
+          for batch in /tmp/plizio-poi-image-purge-batch-*; do
+            payload=$(jq -Rn '[inputs] | {files: .}' < "$batch")
+            response=$(curl -fsS -X POST \
+              "https://api.cloudflare.com/client/v4/zones/$CF_ZONE_ID/purge_cache" \
+              -H "Authorization: Bearer $CF_API_TOKEN" \
+              -H "Content-Type: application/json" \
+              --data "$payload")
+            jq -e '.success == true' >/dev/null <<<"$response"
+          done
+          echo "Cloudflare purge completed"
