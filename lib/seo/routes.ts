@@ -33,6 +33,7 @@ export const SEO_LOCALES: Record<Lang, string> = {
   ro: "ro_RO",
   en: "en_US",
   it: "it_IT",
+  es: "es_ES",
 };
 
 // Sablon-alapú ország-szintű meta (title, description) generálás —
@@ -71,6 +72,13 @@ function templateCopy(countryId: string, lang: Lang): { title: string; descripti
       name,
     };
   }
+  if (lang === "es") {
+    return {
+      title: `Mapa interactivo de ${name}`,
+      description: `Páginas sobre regiones, ciudades, naturaleza, historia y lugares de interés de ${name}.`,
+      name,
+    };
+  }
   return {
     title: `Interactive ${name} Map`,
     description: `Static study pages about regions, cities, nature, history, and landmarks in ${name}.`,
@@ -80,7 +88,7 @@ function templateCopy(countryId: string, lang: Lang): { title: string; descripti
 
 // Kézi (kurátorított) leírás germany/romania/hungary-hez. A többi ország
 // automatikus templateCopy-t kap a getCountryCopy() helperen keresztül.
-export const COUNTRY_COPY: Record<string, Record<Lang, { title: string; description: string; name: string }>> = {
+export const COUNTRY_COPY: Record<string, Partial<Record<Lang, { title: string; description: string; name: string }>>> = {
   germany: {
     de: { title: "Interaktive Deutschlandkarte", description: "Statische Lernseiten zu Bundesländern, Städten, Natur, Geschichte und Sehenswürdigkeiten in Deutschland.", name: "Deutschland" },
     hu: { title: "Németország interaktív térképe", description: "Statikus tanulóoldalak a német tartományokról, városokról, természeti helyekről, történelemről és nevezetességekről.", name: "Németország" },
@@ -192,6 +200,21 @@ export const SEO_COPY = {
     landmarks: "Luoghi d'interesse",
     capital: "Capitale",
   },
+  es: {
+    home: "Inicio",
+    related: "Lugares relacionados",
+    facts: "Datos",
+    geography: "Datos geográficos",
+    openMap: "Abrir en OpenStreetMap",
+    backToMap: "Ver en el mapa",
+    more: "Más información",
+    states: "Regiones",
+    cities: "Ciudades",
+    nature: "Naturaleza",
+    history: "Historia",
+    landmarks: "Lugares de interés",
+    capital: "Capital",
+  },
 } as const;
 
 export function isLang(value: string): value is Lang {
@@ -207,12 +230,17 @@ export function absoluteUrl(path: string) {
 }
 
 export function getCountryAlternates(countryId: string = "germany") {
-  const langs: Lang[] = countryId === "italy" ? [...SUPPORTED_LANGS, "it"] : SUPPORTED_LANGS;
+  const langs: Lang[] = countryId === "italy"
+    ? [...SUPPORTED_LANGS, "it"]
+    : countryId === "spain" ? [...SUPPORTED_LANGS, "es"] : SUPPORTED_LANGS;
   return Object.fromEntries(langs.map((lang) => [lang, absoluteUrl(buildCountryPath(lang, countryId))]));
 }
 
 export function getStateAlternates(stateId: string) {
-  const langs: Lang[] = getCountryId(stateId) === "italy" ? [...SUPPORTED_LANGS, "it"] : SUPPORTED_LANGS;
+  const countryId = getCountryId(stateId);
+  const langs: Lang[] = countryId === "italy"
+    ? [...SUPPORTED_LANGS, "it"]
+    : countryId === "spain" ? [...SUPPORTED_LANGS, "es"] : SUPPORTED_LANGS;
   return Object.fromEntries(langs.map((lang) => [lang, absoluteUrl(buildStatePath(lang, stateId))]));
 }
 

@@ -43,6 +43,13 @@ export async function generateStaticParams() {
     if (getPoisForCountryBucket(countryId, bucket).length < 4) continue;
     out.push({ lang, country, type: typeSlugFor(bucket, lang) });
   }
+  const spanishLang: Lang = "es";
+  const spanishCountryId = "spain";
+  const spanishCountry = countrySlugFor(spanishLang, spanishCountryId);
+  for (const bucket of Object.keys(TYPE_BUCKETS)) {
+    if (getPoisForCountryBucket(spanishCountryId, bucket).length < 4) continue;
+    out.push({ lang: spanishLang, country: spanishCountry, type: typeSlugFor(bucket, spanishLang) });
+  }
   // NOTE: this route deliberately does NOT honor GSP_LIMIT=0. That flag makes the
   // giant per-POI route emit only 1 sample (the static-HTML overlay generates all
   // POI pages instead). These category HUB pages (~400: 12 countries × buckets × 4
@@ -82,7 +89,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
     alternates: {
       canonical: absoluteUrl(`/${r.lang}/${countrySlugFor(r.lang, r.countryId)}/category/${typeSlugFor(r.bucket, r.lang)}/`),
       languages: Object.fromEntries(
-        SUPPORTED_LANGS.map((L) => [L, absoluteUrl(`/${L}/${countrySlugFor(L as Lang, r.countryId)}/category/${typeSlugFor(r.bucket, L as Lang)}/`)])
+        (r.countryId === "italy" ? [...SUPPORTED_LANGS, "it"] : r.countryId === "spain" ? [...SUPPORTED_LANGS, "es"] : SUPPORTED_LANGS)
+          .map((L) => [L, absoluteUrl(`/${L}/${countrySlugFor(L as Lang, r.countryId)}/category/${typeSlugFor(r.bucket, L as Lang)}/`)])
       ),
     },
     openGraph: { title, description, type: "article" },
@@ -116,9 +124,9 @@ export default async function TypeIndexPage({ params }: { params: Promise<{ lang
           {(() => {
             const ms = mapSlugForCountry(r.countryId);
             if (!ms) return null;
-            const mapLang = r.lang === "it" ? "en" : r.lang;
+            const mapLang = r.lang === "it" || r.lang === "es" ? "en" : r.lang;
             const href = `/${ms}-map/${mapLang === "hu" ? "" : mapLang + "/"}`;
-            const label = ({ de: "Auf der interaktiven Karte ansehen", hu: "Megtekintés az interaktív térképen", ro: "Vezi pe harta interactivă", en: "View on the interactive map", it: "Vedi sulla mappa interattiva" } as const)[r.lang as "de" | "hu" | "ro" | "en" | "it"];
+            const label = ({ de: "Auf der interaktiven Karte ansehen", hu: "Megtekintés az interaktív térképen", ro: "Vezi pe harta interactivă", en: "View on the interactive map", it: "Vedi sulla mappa interattiva", es: "Ver en el mapa interactivo" } as const)[r.lang as "de" | "hu" | "ro" | "en" | "it" | "es"];
             return (
               <a href={href} className="mt-4 inline-flex items-center gap-2 rounded-full border border-cyan-400/25 bg-cyan-500/10 px-4 py-1.5 text-sm font-medium text-cyan-100 transition hover:border-cyan-300/50 hover:bg-cyan-500/20">
                 🗺️ {label} →

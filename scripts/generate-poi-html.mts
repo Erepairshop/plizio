@@ -252,6 +252,7 @@ try {
 // poi-hr-native.json merge below; renderFAQ uses it for lang === "hr".
 const HR_FAQS: Record<string, FAQItem[]> = {};
 const IT_FAQS: Record<string, FAQItem[]> = {};
+const ES_FAQS: Record<string, FAQItem[]> = {};
 
 // Climate sidecar — 12-month normals (mean/max temp, precip mm) per 0.5° grid
 // cell (NASA POWER climatology). SSR "best time to visit" block; non-duplicate,
@@ -336,7 +337,7 @@ const REGION_BY_ID = new Map<string, POI>((regions as POI[]).map((r) => [r.id, r
 const FAQ_HEAD: Record<string, string> = {
   de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
   en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
-  hr: "Često postavljana pitanja", it: "Domande frequenti",
+  hr: "Često postavljana pitanja", it: "Domande frequenti", es: "Preguntas frecuentes",
 };
 const FAQ_CHEV = `<svg class="plz-faq-chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>`;
 function pickFaqStr(o: Record<string, unknown> | undefined, lang: Lang): string {
@@ -348,14 +349,16 @@ function pickFaqStr(o: Record<string, unknown> | undefined, lang: Lang): string 
   return "";
 }
 function renderFAQ(poi: POI, lang: Lang): string {
-  const items = lang === "it" && IT_FAQS[poi.id]
-    ? IT_FAQS[poi.id]
+  const items = lang === "es" && ES_FAQS[poi.id]
+    ? ES_FAQS[poi.id]
+    : lang === "it" && IT_FAQS[poi.id]
+      ? IT_FAQS[poi.id]
     : (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
   if (!items || items.length === 0) return "";
   const heading: Record<string, string> = {
     de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
     en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
-    hr: "Često postavljana pitanja", it: "Domande frequenti",
+    hr: "Često postavljana pitanja", it: "Domande frequenti", es: "Preguntas frecuentes",
   };
   const head = heading[lang] || heading.en!;
   const accordion = items.map((it, i) => {
@@ -547,7 +550,7 @@ try {
 } catch {}
 // Build a global id→POI lookup for cross-referencing (e.g. sight name internal links).
 const allById = new Map<string, POI>(pois.filter(p => p?.id).map(p => [p.id, p]));
-type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it";
+type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es";
 
 // hr = native Croatian: merge the poi-hr-native.json sidecar INTO each POI's
 // Record<Lang> fields (name/description/descriptionAdvanced/facts/sights) + faq, so
@@ -611,6 +614,38 @@ try {
   }
 } catch (e: any) {
   console.log(`[generate-poi-html] it-native merge skipped: ${e?.message?.slice(0, 80)}`);
+}
+
+// Spanish is country-scoped, using the same sidecar format as Italian.
+try {
+  const esDir = path.resolve(process.cwd(), "public", "data", "i18n", "es");
+  if (fs.existsSync(esDir)) {
+    let merged = 0;
+    for (const poi of pois) {
+      if (!poi.parent?.startsWith("ES")) continue;
+      const esPath = path.join(esDir, `${poi.id}.json`);
+      if (!fs.existsSync(esPath)) continue;
+      const es = JSON.parse(fs.readFileSync(esPath, "utf-8")) as {
+        name?: string; description?: string; descAdv?: string;
+        descriptionAdvanced?: string; facts?: string[];
+        faq?: { q: string; a: string }[];
+      };
+      const p = poi as unknown as Record<string, any>;
+      if (es.name) { p.name = p.name || {}; p.name.es = es.name; }
+      if (es.description) { p.description = p.description || {}; p.description.es = es.description; }
+      const advanced = es.descriptionAdvanced || es.descAdv;
+      if (advanced) { p.descriptionAdvanced = p.descriptionAdvanced || {}; p.descriptionAdvanced.es = advanced; }
+      if (Array.isArray(es.facts) && es.facts.length) { p.facts = p.facts || {}; p.facts.es = es.facts; }
+      if (Array.isArray(es.faq) && es.faq.length) {
+        ES_FAQS[poi.id] = es.faq.map((f) => ({ q: { es: f.q }, a: { es: f.a } }));
+      }
+      p.esLong = true;
+      merged++;
+    }
+    console.log(`[generate-poi-html] es-native merged into ${merged} POIs`);
+  }
+} catch (e: any) {
+  console.log(`[generate-poi-html] es-native merge skipped: ${e?.message?.slice(0, 80)}`);
 }
 
 // Merge OSM-extra sights (public/data/_sights_extra.json) into THIN POIs that
@@ -678,6 +713,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     tr: ["Gezilecek yerler", "Harita", "Hava durumu", "Haberler", "Tarih"],
     hr: ["Znamenitosti", "Karta", "Vrijeme", "Vijesti", "Povijest"],
     it: ["Attrazioni", "Mappa", "Meteo", "Notizie", "Storia"],
+    es: ["Lugares de interés", "Mapa", "Tiempo", "Noticias", "Historia"],
   },
   castle: {
     de: ["Burg", "Geschichte", "Karte", "Fotos", "Wetter"],
@@ -688,6 +724,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     tr: ["Kale", "Tarih", "Harita", "Fotoğraflar", "Hava durumu"],
     hr: ["Dvorac", "Povijest", "Karta", "Fotografije", "Vrijeme"],
     it: ["Castello", "Storia", "Mappa", "Foto", "Meteo"],
+    es: ["Castillo", "Historia", "Mapa", "Fotos", "Tiempo"],
   },
   mountain: {
     de: ["Wandern", "Karte", "Wetter", "Fotos", "Höhe"],
@@ -698,6 +735,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     tr: ["Yürüyüş", "Harita", "Hava durumu", "Fotoğraflar", "Yükseklik"],
     hr: ["Planinarenje", "Karta", "Vrijeme", "Fotografije", "Visina"],
     it: ["Escursioni", "Mappa", "Meteo", "Foto", "Altitudine"],
+    es: ["Senderismo", "Mapa", "Tiempo", "Fotos", "Altitud"],
   },
   lake: {
     de: ["Strände", "Karte", "Wetter", "Sehenswürdigkeiten", "Fotos"],
@@ -708,6 +746,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     tr: ["Plajlar", "Harita", "Hava durumu", "Gezilecek yerler", "Fotoğraflar"],
     hr: ["Plaže", "Karta", "Vrijeme", "Znamenitosti", "Fotografije"],
     it: ["Spiagge", "Mappa", "Meteo", "Attrazioni", "Foto"],
+    es: ["Playas", "Mapa", "Tiempo", "Lugares de interés", "Fotos"],
   },
   river: {
     de: ["Karte", "Verlauf", "Sehenswürdigkeiten", "Wetter", "Fotos"],
@@ -718,6 +757,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     tr: ["Harita", "Akış", "Gezilecek yerler", "Hava durumu", "Fotoğraflar"],
     hr: ["Karta", "Tok", "Znamenitosti", "Vrijeme", "Fotografije"],
     it: ["Mappa", "Corso", "Attrazioni", "Meteo", "Foto"],
+    es: ["Mapa", "Recorrido", "Lugares de interés", "Tiempo", "Fotos"],
   },
   historical: {
     de: ["Geschichte", "Karte", "Sehenswürdigkeiten", "Fotos", "Besuch"],
@@ -728,6 +768,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     tr: ["Tarih", "Harita", "Gezilecek yerler", "Fotoğraflar", "Ziyaret"],
     hr: ["Povijest", "Karta", "Znamenitosti", "Fotografije", "Posjet"],
     it: ["Storia", "Mappa", "Attrazioni", "Foto", "Visita"],
+    es: ["Historia", "Mapa", "Lugares de interés", "Fotos", "Visita"],
   },
   landmark: {
     de: ["Sehenswürdigkeiten", "Karte", "Fotos", "Geschichte", "Wetter"],
@@ -738,6 +779,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     tr: ["Gezilecek yerler", "Harita", "Fotoğraflar", "Tarih", "Hava durumu"],
     hr: ["Znamenitosti", "Karta", "Fotografije", "Povijest", "Vrijeme"],
     it: ["Attrazioni", "Mappa", "Foto", "Storia", "Meteo"],
+    es: ["Lugares de interés", "Mapa", "Fotos", "Historia", "Tiempo"],
   },
   nature: {
     de: ["Karte", "Wetter", "Wandern", "Fotos", "Natur"],
@@ -748,6 +790,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     tr: ["Harita", "Hava durumu", "Yürüyüş", "Fotoğraflar", "Doğa"],
     hr: ["Karta", "Vrijeme", "Planinarenje", "Fotografije", "Priroda"],
     it: ["Mappa", "Meteo", "Escursioni", "Foto", "Natura"],
+    es: ["Mapa", "Tiempo", "Senderismo", "Fotos", "Naturaleza"],
   },
 };
 const TYPE_ALIAS: Record<string, string> = {
@@ -761,10 +804,10 @@ const TYPE_ALIAS: Record<string, string> = {
 // without them — hurts relevance + CTR), and surface "Events" only when there
 // are dated events. Words match the curated TITLE_KEYWORDS entries per lang.
 const FEATURE_KW: Record<"sights" | "weather" | "news" | "events", Partial<Record<Lang, string>>> = {
-  sights: { de: "Sehenswürdigkeiten", hu: "Látnivalók", ro: "Obiective turistice", en: "Sights", fr: "Sites touristiques", tr: "Gezilecek yerler", hr: "Znamenitosti", it: "Attrazioni" },
-  weather: { de: "Wetter", hu: "Időjárás", ro: "Vremea", en: "Weather", fr: "Météo", tr: "Hava durumu", hr: "Vrijeme", it: "Meteo" },
-  news: { de: "Nachrichten", hu: "Hírek", ro: "Știri", en: "News", fr: "Actualités", tr: "Haberler", hr: "Vijesti", it: "Notizie" },
-  events: { de: "Veranstaltungen", hu: "Programok", ro: "Evenimente", en: "Events", fr: "Événements", tr: "Etkinlikler", hr: "Događanja", it: "Eventi" },
+  sights: { de: "Sehenswürdigkeiten", hu: "Látnivalók", ro: "Obiective turistice", en: "Sights", fr: "Sites touristiques", tr: "Gezilecek yerler", hr: "Znamenitosti", it: "Attrazioni", es: "Lugares de interés" },
+  weather: { de: "Wetter", hu: "Időjárás", ro: "Vremea", en: "Weather", fr: "Météo", tr: "Hava durumu", hr: "Vrijeme", it: "Meteo", es: "Tiempo" },
+  news: { de: "Nachrichten", hu: "Hírek", ro: "Știri", en: "News", fr: "Actualités", tr: "Haberler", hr: "Vijesti", it: "Notizie", es: "Noticias" },
+  events: { de: "Veranstaltungen", hu: "Programok", ro: "Evenimente", en: "Events", fr: "Événements", tr: "Etkinlikler", hr: "Događanja", it: "Eventi", es: "Eventos" },
 };
 type TitleFeats = { hasSights?: boolean; hasWeather?: boolean; hasNews?: boolean; hasEvents?: boolean };
 
@@ -901,6 +944,7 @@ const AUTO_FAQ: Record<string, {
   tr: { whereQ: (n) => `${n}: nerede yer alıyor?`, whereA: (n, l) => `${n}, ${l} bölgesinde yer alır.`, whatQ: (n) => `${n}: nereler gezilir?`, whatA: (l) => `Öne çıkanlar: ${l}.`, whenQ: (n) => `${n}: en iyi ziyaret zamanı nedir?`, whenA: (b) => `En keyifli dönem: ${b}.`, whyQ: (n) => `${n}: neden ziyaret edilmeli?` },
   hr: { whereQ: (n) => `${n}: gdje se nalazi?`, whereA: (n, l) => `${n} se nalazi u ${l}.`, whatQ: (n) => `${n}: što vidjeti?`, whatA: (l) => `Među znamenitostima su ${l}.`, whenQ: (n) => `${n}: kada je najbolje posjetiti?`, whenA: (b) => `Najugodnije je razdoblje ${b}.`, whyQ: (n) => `${n}: zašto posjetiti?` },
   it: { whereQ: (n) => `${n}: dove si trova?`, whereA: (n, l) => `${n} si trova in ${l}.`, whatQ: (n) => `${n}: cosa vedere?`, whatA: (l) => `Tra le attrazioni principali ci sono ${l}.`, whenQ: (n) => `${n}: qual è il periodo migliore?`, whenA: (b) => `Il periodo più piacevole per una visita è ${b}.`, whyQ: (n) => `${n}: perché vale la pena visitarlo?` },
+  es: { whereQ: (n) => `${n}: ¿dónde está?`, whereA: (n, l) => `${n} se encuentra en ${l}.`, whatQ: (n) => `${n}: ¿qué se puede ver?`, whatA: (l) => `Entre los lugares destacados se encuentran ${l}.`, whenQ: (n) => `${n}: ¿cuál es la mejor época para visitarlo?`, whenA: (b) => `La época más agradable para visitarlo es ${b}.`, whyQ: (n) => `${n}: ¿por qué merece una visita?` },
 };
 
 function buildAutoFaq(
@@ -1968,7 +2012,7 @@ function renderPracticalInfo(poi: POI, lang: Lang): string {
   return `<section class="plz-pract"><h2>${C.title}</h2><div class="plz-pract-grid">${items}</div></section>`;
 }
 
-const ITIN_COPY: Record<Lang, Record<string, string>> = {
+const ITIN_COPY: Partial<Record<Lang, Record<string, string>>> = {
   hu: { title: "Egy nap a városban", intro: "Válassz időjárást + közlekedési módot, kapj konkrét napi tervet.", modeWalk: "🚶 Gyalog", modeBike: "🚲 Bicikli", modeCar: "🚗 Autó", modeTransit: "🚌 Tömegközl.", unitWalk: "séta", unitBike: "tekerés", unitCar: "vezetés", unitTransit: "út", places: "hely", tipsHeading: "💡 Helyi tippek", moreTipsHeading: "⭐ További tippek", navHere: "Útvonal", navTo: "Odamenni", resTitle: "🧰 Eszközök kéznél", resIntro: "Minden, ami a látogatáshoz kellhet — egy kattintással.", bestTime: "📅 Mikor érdemes jönni", warnings: "⚠️ Hol legyél óvatos", langTips: "🗣️ Nyelvi gyorstipp", wSunny: "☀️ Jó idő", wRainy: "☔ Eső", wWinter: "❄️ Téli", goLabel: "Mehet", extrasLabel: "⭐ További tippek", toolsLabel: "🧰 Eszközök kéznél", swipeHint: "← csúsztass a többi helyért →" },
   de: { title: "Ein Tag in der Stadt", intro: "Wähle Wetter + Verkehrsmittel, erhalte einen konkreten Tagesplan.", modeWalk: "🚶 Zu Fuß", modeBike: "🚲 Fahrrad", modeCar: "🚗 Auto", modeTransit: "🚌 ÖPNV", unitWalk: "Strecke", unitBike: "Strecke", unitCar: "Strecke", unitTransit: "Weg", places: "Orte", tipsHeading: "💡 Lokale Tipps", moreTipsHeading: "⭐ Weitere Tipps", navHere: "Route", navTo: "Hingelangen", resTitle: "🧰 Werkzeuge zur Hand", resIntro: "Alles, was du für den Besuch brauchst — ein Klick entfernt.", bestTime: "📅 Beste Reisezeit", warnings: "⚠️ Wo Vorsicht geboten ist", langTips: "🗣️ Sprach-Schnelltipp", wSunny: "☀️ Sonnig", wRainy: "☔ Regen", wWinter: "❄️ Winter", goLabel: "Los geht's", extrasLabel: "⭐ Weitere Tipps", toolsLabel: "🧰 Werkzeuge zur Hand", swipeHint: "← wischen für weitere Orte →" },
   en: { title: "A day in the city", intro: "Pick weather + travel mode, get a concrete day plan.", modeWalk: "🚶 Walking", modeBike: "🚲 Bike", modeCar: "🚗 Car", modeTransit: "🚌 Transit", unitWalk: "walk", unitBike: "ride", unitCar: "drive", unitTransit: "trip", places: "places", tipsHeading: "💡 Local tips", moreTipsHeading: "⭐ More picks", navHere: "Route", navTo: "Go here", resTitle: "🧰 Tools at hand", resIntro: "Everything you need for the visit — one click away.", bestTime: "📅 Best time to visit", warnings: "⚠️ Where to be careful", langTips: "🗣️ Language quick-tip", wSunny: "☀️ Sunny", wRainy: "☔ Rainy", wWinter: "❄️ Winter", goLabel: "Let's go", extrasLabel: "⭐ More picks", toolsLabel: "🧰 Tools at hand", swipeHint: "← swipe for more places →" },
@@ -2367,7 +2411,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   const tier = (poi as { tier?: number }).tier ?? 2;
   const data = loadItinerary(poi.id, tier);
   if (!data || !data.modes) return "";
-  const C = poiHtmlUiSection(lang, "itinerary", ITIN_COPY[lang] || ITIN_COPY.en);
+  const C = poiHtmlUiSection(lang, "itinerary", ITIN_COPY[lang] || ITIN_COPY.en!);
   // "transit" hidden for now: the data is synthetic (15 km/h estimate over the
   // sight stops, no real public-transport lines/stops/schedules) → misleading,
   // especially for small towns with no PT. Re-enable once fed real OSM/GTFS
@@ -3061,7 +3105,8 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // On extra-lang pages (fr/tr/hr) those landing URLs 404 → link them to `en`
   // (which exists) instead. The POI page itself stays in `lang`. (2026-06-12:
   // ~40k broken internal links came from extra-lang breadcrumb/home/footer.)
-  const navLang: Lang = SUPPORTED_LANGS.includes(lang) ? lang : ("en" as Lang);
+  const hasNativeLanding = (lang === "it" && countryId === "italy") || (lang === "es" && countryId === "spain");
+  const navLang: Lang = SUPPORTED_LANGS.includes(lang) || hasNativeLanding ? lang : ("en" as Lang);
   // Beach-hub CTA (reciprocal internal link) for countries that have a beach hub.
   const beachHubLinkHtml = BEACH_HUB_KEYS.has(countryId)
     ? `<a class="plz-cta plz-cta-hub" href="/${navLang}/${countryId}/${BEACH_HUB_BSLUG[navLang] || "beaches"}/">${BEACH_HUB_LABEL[lang] || BEACH_HUB_LABEL.en} →</a>`
@@ -3210,8 +3255,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     }
   };
   // 1) sharded FAQS (primary, LLM-authored) — same source renderFAQ used.
-  const _shardFaqs = lang === "it" && IT_FAQS[poi.id]
-    ? IT_FAQS[poi.id]
+  const _shardFaqs = lang === "es" && ES_FAQS[poi.id]
+    ? ES_FAQS[poi.id]
+    : lang === "it" && IT_FAQS[poi.id]
+      ? IT_FAQS[poi.id]
     : (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
   if (Array.isArray(_shardFaqs)) for (const it of _shardFaqs) _pushFaq(pickFaqStr(it.q, lang), pickFaqStr(it.a, lang));
   // 2) inline poi.faq (legacy/embedded).
