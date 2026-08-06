@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import copy
 import json
 from pathlib import Path
 from typing import Any
@@ -61,6 +62,28 @@ def ensure_list(value: Any, size: int) -> list:
     return result
 
 
+def merge_shape(source: Any, translated: Any) -> Any:
+    if isinstance(source, dict):
+        current = translated if isinstance(translated, dict) else {}
+        return {key: merge_shape(value, current.get(key)) for key, value in source.items()}
+    if isinstance(source, list):
+        current = translated if isinstance(translated, list) else []
+        return [
+            merge_shape(value, current[index] if index < len(current) else None)
+            for index, value in enumerate(source)
+        ]
+    if isinstance(source, str) and isinstance(translated, str) and translated.strip():
+        return translated
+    return copy.deepcopy(source)
+
+
+def set_nested(root: Any, path: list[Any], value: str) -> None:
+    current = root
+    for part in path[:-1]:
+        current = current[part]
+    current[path[-1]] = value
+
+
 def serialize_like(path: Path, value: Any) -> str:
     original = path.read_text(encoding="utf-8-sig") if path.exists() else ""
     if "\n" in original.strip():
@@ -92,7 +115,7 @@ def main() -> int:
 
     language = args.language
     documents: dict[Path, Any] = {}
-    applied = {"core": 0, "layer-string": 0, "layer-list": 0}
+    applied = {"core": 0, "layer-string": 0, "layer-list": 0, "layer-structured": 0}
 
     def document(path: Path, default: Any = None) -> Any:
         if path not in documents:
@@ -127,7 +150,7 @@ def main() -> int:
                 sidecar["sights"][index][target["part"]] = value
             else:
                 raise SystemExit(f"Unsupported core field: {field}")
-        elif kind in {"layer-string", "layer-list"}:
+        elif kind in {"layer-string", "layer-list", "layer-structured"}:
             path = repo / target["file"]
             if not path.exists() and str(target["file"]).startswith("public/data/"):
                 path = data_root / str(target["file"])[len("public/data/"):]
@@ -139,13 +162,22 @@ def main() -> int:
                 raise SystemExit(f"Localized target is not an object: {key}")
             if kind == "layer-string":
                 node[language] = value
-            else:
+            elif kind == "layer-list":
                 source = node.get("en")
                 if not isinstance(source, list):
                     raise SystemExit(f"English source list is missing: {key}")
                 index = int(target["index"])
                 node[language] = ensure_list(node.get(language), len(source))
                 node[language][index] = value
+            else:
+                source = node.get("en")
+                if not isinstance(source, (dict, list)):
+                    raise SystemExit(f"Structured English source is missing: {key}")
+                source_path = target.get("sourcePath") or []
+                if not source_path:
+                    raise SystemExit(f"Structured source path is missing: {key}")
+                node[language] = merge_shape(source, node.get(language))
+                set_nested(node[language], source_path, value)
         else:
             raise SystemExit(f"Unsupported target kind: {kind}")
         applied[kind] += 1

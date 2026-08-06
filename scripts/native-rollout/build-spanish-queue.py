@@ -120,7 +120,69 @@ def layer_key(layer: str, poi_id: str, relative: str, path: list, index=None) ->
     return f"{layer}::{poi_id}::{hashlib.sha1(raw.encode()).hexdigest()[:16]}"
 
 
-def collect_localized(layer: str, poi_id: str, relative: str, value, records: list, targets: dict, path=None) -> None:
+def nested_optional(root, path: tuple):
+    current = root
+    for part in path:
+        if isinstance(part, int):
+            if not isinstance(current, list) or part >= len(current):
+                return None
+        elif not isinstance(current, dict) or part not in current:
+            return None
+        current = current[part]
+    return current
+
+
+def collect_structured_missing(
+    layer: str,
+    poi_id: str,
+    relative: str,
+    source,
+    translated,
+    records: list,
+    targets: dict,
+    path: list,
+    source_path: tuple = (),
+) -> None:
+    if isinstance(source, str):
+        leaf = source_path[-1] if source_path else None
+        if leaf not in {"name", "tip"} or not source.strip():
+            return
+        existing = nested_optional(translated, source_path)
+        if isinstance(existing, str) and existing.strip():
+            return
+        key = layer_key(layer, poi_id, relative, path, list(source_path))
+        add(records, targets, key, source, {
+            "kind": "layer-structured",
+            "layer": layer,
+            "poi": poi_id,
+            "file": relative,
+            "path": path,
+            "sourcePath": list(source_path),
+        })
+    elif isinstance(source, dict):
+        for key, child in source.items():
+            collect_structured_missing(
+                layer, poi_id, relative, child, translated, records, targets,
+                path, source_path + (key,),
+            )
+    elif isinstance(source, list):
+        for index, child in enumerate(source):
+            collect_structured_missing(
+                layer, poi_id, relative, child, translated, records, targets,
+                path, source_path + (index,),
+            )
+
+
+def collect_localized(
+    layer: str,
+    poi_id: str,
+    relative: str,
+    value,
+    records: list,
+    targets: dict,
+    path=None,
+    include_structured: bool = False,
+) -> None:
     path = path or []
     if isinstance(value, dict):
         source = value.get("en")
@@ -136,12 +198,20 @@ def collect_localized(layer: str, poi_id: str, relative: str, value, records: li
                 add(records, targets, key, text,
                     {"kind": "layer-list", "layer": layer, "poi": poi_id, "file": relative,
                      "path": path, "index": index})
+        elif include_structured and isinstance(source, (dict, list)):
+            collect_structured_missing(
+                layer, poi_id, relative, source, value.get("es"), records, targets, path,
+            )
         for key, child in value.items():
             if key not in LANG_KEYS:
-                collect_localized(layer, poi_id, relative, child, records, targets, path + [key])
+                collect_localized(
+                    layer, poi_id, relative, child, records, targets, path + [key], include_structured,
+                )
     elif isinstance(value, list):
         for index, child in enumerate(value):
-            collect_localized(layer, poi_id, relative, child, records, targets, path + [index])
+            collect_localized(
+                layer, poi_id, relative, child, records, targets, path + [index], include_structured,
+            )
 
 
 def collect_layers(data: Path, ids: set[str], records: list, targets: dict) -> dict:
@@ -157,7 +227,10 @@ def collect_layers(data: Path, ids: set[str], records: list, targets: dict) -> d
             if not path.exists():
                 continue
             relative = f"public/data/{path.relative_to(data).as_posix()}"
-            collect_localized(layer, poi_id, relative, load_json(path, {}), records, targets)
+            collect_localized(
+                layer, poi_id, relative, load_json(path, {}), records, targets,
+                include_structured=layer == "citytips",
+            )
             count += 1
         counts[layer] = count
 
@@ -172,6 +245,35 @@ def collect_layers(data: Path, ids: set[str], records: list, targets: dict) -> d
         count += 1
     counts["events"] = count
     return counts
+
+
+def collect_missing_citytips_structured(
+    data: Path, ids: set[str], records: list, targets: dict,
+) -> dict:
+    def collect_nodes(layer: str, poi_id: str, relative: str, value, path=None) -> None:
+        path = path or []
+        if isinstance(value, dict):
+            source = value.get("en")
+            if isinstance(source, (dict, list)):
+                collect_structured_missing(
+                    layer, poi_id, relative, source, value.get("es"), records, targets, path,
+                )
+            for key, child in value.items():
+                if key not in LANG_KEYS:
+                    collect_nodes(layer, poi_id, relative, child, path + [key])
+        elif isinstance(value, list):
+            for index, child in enumerate(value):
+                collect_nodes(layer, poi_id, relative, child, path + [index])
+
+    files = 0
+    for poi_id in sorted(ids):
+        path = data / "city-tips" / f"{poi_id}.json"
+        if not path.exists():
+            continue
+        relative = f"public/data/{path.relative_to(data).as_posix()}"
+        collect_nodes("citytips", poi_id, relative, load_json(path, {}))
+        files += 1
+    return {"citytips": files, "structuredMissing": len(records)}
 
 
 def make_batches(records: list, prefix: str = "esfull-v1") -> list[dict]:
@@ -195,7 +297,11 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--repo", type=Path, default=Path.cwd())
     parser.add_argument("--output-dir", type=Path, required=True)
-    parser.add_argument("--mode", choices=("full", "missing-descadv"), default="full")
+    parser.add_argument(
+        "--mode",
+        choices=("full", "missing-descadv", "missing-citytips-structured"),
+        default="full",
+    )
     args = parser.parse_args()
     repo = args.repo.resolve()
     args.output_dir.mkdir(parents=True, exist_ok=True)
@@ -212,6 +318,9 @@ def main() -> int:
         collect_missing_descadv(repo, data, ids, records, targets)
         file_counts = {"descAdv": len(records)}
         batch_prefix = "esdescadv-v1"
+    elif args.mode == "missing-citytips-structured":
+        file_counts = collect_missing_citytips_structured(data, ids, records, targets)
+        batch_prefix = "escitytips-v1"
     else:
         collect_core(data, ids, records, targets)
         file_counts = collect_layers(data, ids, records, targets)
