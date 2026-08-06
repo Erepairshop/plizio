@@ -1,0 +1,76 @@
+name: Missing Sight Descriptions Azure
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Pending Azure batches; 0 means all"
+        required: true
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: missing-sight-descriptions-azure
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: [self-hosted, vps-plizio]
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build grounded missing-description queue
+        run: |
+          set -euo pipefail
+          WORK=/home/erik/plizio-translations/missing-sight-descriptions-v1
+          mkdir -p "$WORK"
+          python3 scripts/native-rollout/build-missing-sight-description-queue.py \
+            --repo /home/erik/plizio/current --output-dir "$WORK"
+          cat "$WORK/summary.json"
+
+      - name: Generate grounded descriptions through Azure OpenAI
+        env:
+          BATCH_LIMIT: ${{ inputs.limit }}
+        run: |
+          set -euo pipefail
+          WORK=/home/erik/plizio-translations/missing-sight-descriptions-v1
+          set -a
+          source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
+          set +a
+          python3 scripts/native-rollout/run-azure-translation.py \
+            --queue "$WORK/queue.json" --output "$WORK/results.jsonl" \
+            --limit "$BATCH_LIMIT" --workers 4 --rpm 9 --task sight-description
+
+      - name: Apply completed descriptions
+        run: |
+          set -euo pipefail
+          WORK=/home/erik/plizio-translations/missing-sight-descriptions-v1
+          python3 scripts/native-rollout/apply-missing-sight-descriptions.py \
+            --manifest "$WORK/manifest.json" --results "$WORK/results.jsonl" \
+            --output public/data/sight-description-overrides.json
+          python3 -m json.tool public/data/sight-description-overrides.json >/dev/null
+
+      - name: Commit generated override
+        run: |
+          set -euo pipefail
+          git config user.name "plizio-azure-bot"
+          git config user.email "borota25@gmail.com"
+          git add public/data/sight-description-overrides.json
+          if git diff --cached --quiet; then
+            echo "No description changes"
+            exit 0
+          fi
+          git commit -m "content(sights): fill grounded missing descriptions"
+          git push origin HEAD:${GITHUB_REF_NAME}
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: missing-sight-descriptions-status
+          path: /home/erik/plizio-translations/missing-sight-descriptions-v1/*.json
+          if-no-files-found: warn

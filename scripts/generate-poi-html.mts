@@ -570,7 +570,7 @@ try {
       if (Array.isArray(hr.facts) && hr.facts.length) { p.facts = p.facts || {}; p.facts.hr = hr.facts; }
       if (Array.isArray(hr.sights) && hr.sights.length) {
         p.sights = p.sights || {};
-        p.sights.hr = hr.sights.map((s) => ({ name: s.name, desc: s.desc, text: { hr: s.desc } }));
+        p.sights.hr = hr.sights.map((s) => ({ name: s.name, desc: s.desc, text: s.desc || "" }));
       }
       if (Array.isArray(hr.faq) && hr.faq.length) {
         HR_FAQS[poi.id] = hr.faq.map((f) => ({ q: { hr: f.q } as any, a: { hr: f.a } as any }));
@@ -734,6 +734,38 @@ for (const [lang, prefix] of [["it", "IT"], ["es", "ES"]] as const) {
     merged++;
   }
   console.log(`[generate-poi-html] ${lang}-native sights merged into ${merged} POIs`);
+}
+
+// Fill only genuinely empty sight descriptions. The compact override is produced
+// from a rendered-page audit, so core POI modules remain untouched and reruns are deterministic.
+try {
+  const overridePath = path.resolve(process.cwd(), "public", "data", "sight-description-overrides.json");
+  if (fs.existsSync(overridePath)) {
+    const overrides: Record<string, Array<{ sourceName?: string; text?: Record<string, string> }>> =
+      JSON.parse(fs.readFileSync(overridePath, "utf-8"));
+    const norm = (value: unknown) => String(value || "").normalize("NFKD")
+      .replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
+    let filled = 0;
+    for (const poi of pois) {
+      const additions = overrides[poi.id];
+      const sightSets = (poi as unknown as { sights?: Record<string, any[]> }).sights;
+      if (!additions?.length || !sightSets) continue;
+      const source = sightSets.en || sightSets.de || [];
+      for (const addition of additions) {
+        const sourceIndex = source.findIndex((s: any) => norm(s?.name) === norm(addition.sourceName));
+        if (sourceIndex < 0) continue;
+        for (const [lang, description] of Object.entries(addition.text || {})) {
+          const item = sightSets[lang]?.[sourceIndex];
+          if (!item || item.text) continue;
+          item.text = description;
+          filled++;
+        }
+      }
+    }
+    console.log(`[generate-poi-html] filled ${filled} missing sight descriptions from overrides`);
+  }
+} catch (e: any) {
+  console.log(`[generate-poi-html] sight description overrides skipped: ${e?.message?.slice(0, 100)}`);
 }
 
 const SITE_URL = "https://plizio.com";
