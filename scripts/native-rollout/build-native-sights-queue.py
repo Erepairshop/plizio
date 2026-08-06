@@ -75,7 +75,9 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--repo", type=Path, required=True)
     parser.add_argument("--output-dir", type=Path, required=True)
-    parser.add_argument("--language", choices=("it", "es"), required=True)
+    parser.add_argument("--language", required=True, help="Native sidecar language, e.g. it, es or pt")
+    parser.add_argument("--only-missing", action="store_true",
+                        help="Queue only sight fields the sidecar has not translated yet")
     parser.add_argument("--repair-missing-name-pois", action="store_true",
                         help="Queue only POIs whose linked sight name was missed by the v1 parser")
     args = parser.parse_args()
@@ -98,6 +100,8 @@ def main() -> int:
         if not relative or not page.exists():
             missing_pages.append(poi_id)
             continue
+        sidecar = load_json(sidecar_path, {})
+        existing = sidecar.get("sights") if isinstance(sidecar.get("sights"), list) else []
         sights, repaired_linked_name = extract_sights(page)
         if args.repair_missing_name_pois and not repaired_linked_name:
             continue
@@ -110,6 +114,10 @@ def main() -> int:
                 text = sight[part]
                 if not text:
                     continue
+                if args.only_missing:
+                    current = existing[index] if index < len(existing) else None
+                    if isinstance(current, dict) and str(current.get(part) or "").strip():
+                        continue
                 key = f"core::{poi_id}::sights::{index}::{part}"
                 records.append({"key": key, "text": text})
                 targets[key] = {
@@ -117,11 +125,12 @@ def main() -> int:
                     "index": index, "part": part, "sourceName": sight["sourceName"],
                 }
 
-    prefix = f"{args.language}sights-{'v2repair' if args.repair_missing_name_pois else 'v2'}"
+    mode_tag = "v2repair" if args.repair_missing_name_pois else ("v2missing" if args.only_missing else "v2")
+    prefix = f"{args.language}sights-{mode_tag}"
     batches = make_batches(records, prefix)
     summary = {
         "version": 1,
-        "mode": "repair-missing-name-pois" if args.repair_missing_name_pois else "full",
+        "mode": "repair-missing-name-pois" if args.repair_missing_name_pois else ("only-missing" if args.only_missing else "full"),
         "language": args.language,
         "poiCount": poi_count,
         "sightCount": sight_count,

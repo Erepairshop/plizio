@@ -482,7 +482,9 @@ const SIGHTPAGE_SLUG: Record<string, string> = { de: "sehenswuerdigkeiten", hu: 
 // Beach-hub link (build-beach-hub.mts): only the 17 countries with a beach hub.
 // URL = /<navLang>/<countryKey>/<bslug>/ (key == countryId for these; all 4 langs exist).
 const BEACH_HUB_KEYS = new Set(["croatia","spain","france","italy","portugal","united-kingdom","greece","denmark","germany","sweden","cyprus","norway","ireland","turkey","estonia","poland","finland"]);
-const BEACH_HUB_BSLUG: Record<string, string> = { de: "straende", hu: "strandok", ro: "plaje", en: "beaches", it: "spiagge" };
+// Only the langs build-beach-hub.mts actually emits. `it: "spiagge"` used to be
+// here, but no such page is generated — the CTA linked a 404 on Italian pages.
+const BEACH_HUB_BSLUG: Record<string, string> = { de: "straende", hu: "strandok", ro: "plaje", en: "beaches" };
 const BEACH_HUB_LABEL: Record<string, string> = { de: "Schönste Strände", hu: "Legszebb strandok", ro: "Cele mai frumoase plaje", en: "Most beautiful beaches", fr: "Plus belles plages", tr: "En güzel plajlar", hr: "Najljepše plaže", it: "Spiagge più belle" };
 // Cross-link index, grouped by PARENT POI: { parentPoi: [{slug,lat,lng,names[]}] }.
 // Matching happens WITHIN the known parent (by normalized name for Latin sights,
@@ -3225,8 +3227,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const hasNativeLanding = (lang === "it" && countryId === "italy") || (lang === "es" && countryId === "spain") || (lang === "pt" && countryId === "portugal");
   const navLang: Lang = SUPPORTED_LANGS.includes(lang) || hasNativeLanding ? lang : ("en" as Lang);
   // Beach-hub CTA (reciprocal internal link) for countries that have a beach hub.
-  const beachHubLinkHtml = BEACH_HUB_KEYS.has(countryId)
-    ? `<a class="plz-cta plz-cta-hub" href="/${navLang}/${countryId}/${BEACH_HUB_BSLUG[navLang] || "beaches"}/">${BEACH_HUB_LABEL[lang] || BEACH_HUB_LABEL.en} →</a>`
+  // Beach hubs are built for the 4 core langs only (it/es/pt landing pages keep
+  // navLang), so skip the CTA when that lang has no hub instead of linking a 404.
+  const beachHubLinkHtml = BEACH_HUB_KEYS.has(countryId) && BEACH_HUB_BSLUG[navLang]
+    ? `<a class="plz-cta plz-cta-hub" href="/${navLang}/${countryId}/${BEACH_HUB_BSLUG[navLang]}/">${BEACH_HUB_LABEL[lang] || BEACH_HUB_LABEL.en} →</a>`
     : "";
   const breadcrumbHome = `<a href="/${navLang}/">${I("home", lang)}</a>`;
   const breadcrumbCountry = `<a href="${buildCountryPath(navLang, countryId)}">${countryName}</a>`;
