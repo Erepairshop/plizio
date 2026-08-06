@@ -83,6 +83,7 @@ export async function generateSitemaps() {
   const italyCategories = CATEGORY_PARAMS.filter(({ countryId }) => countryId === "italy").length;
   const spainRegions = INDEXABLE_REGIONS.filter((state) => getCountryIdStrict(state.id) === "spain").length;
   const spainCategories = CATEGORY_PARAMS.filter(({ countryId }) => countryId === "spain").length;
+  const portugalRegions = INDEXABLE_REGIONS.filter((state) => getCountryIdStrict(state.id) === "portugal").length;
   const totalUrls =
     ROOT_FIXED +
     GAME_FIXED * SUPPORTED_LANGS.length +
@@ -92,7 +93,8 @@ export async function generateSitemaps() {
     indexablePois.length * SUPPORTED_LANGS.length +
     extraLangUrls +
     SIGHT_PAGES.length * SUPPORTED_LANGS.length;
-  const totalWithNativeHubs = totalUrls + 2 + italyRegions + italyCategories + spainRegions + spainCategories;
+  // +3: the it/es/pt country hubs pushed onto countryUrls below.
+  const totalWithNativeHubs = totalUrls + 3 + italyRegions + italyCategories + spainRegions + spainCategories + portugalRegions;
   const n = Math.max(1, Math.ceil(totalWithNativeHubs / CHUNK_SIZE));
   return Array.from({ length: n }, (_, id) => ({ id }));
 }
@@ -119,6 +121,7 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
   ).concat([
     createEntry(buildCountryPath("it", "italy"), "app/[lang]/[country]/page.tsx", 0.9),
     createEntry(buildCountryPath("es", "spain"), "app/[lang]/[country]/page.tsx", 0.9),
+    createEntry(buildCountryPath("pt", "portugal"), "app/[lang]/[country]/page.tsx", 0.9),
   ]);
   // Category hub pages: /<lang>/<country>/category/<type>/ (cities, castles, mountains, …).
   const categoryUrls = SUPPORTED_LANGS.flatMap((lang) =>
@@ -203,6 +206,7 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
     const countryId = getCountryIdStrict(state.id);
     if (countryId === "italy") stateUrls.push(createEntry(buildStatePath("it", state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8));
     if (countryId === "spain") stateUrls.push(createEntry(buildStatePath("es", state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8));
+    if (countryId === "portugal") stateUrls.push(createEntry(buildStatePath("pt", state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8));
   }
 
   // SEO: csak az indexálható (megfelelő tartalmú) POI-kat tesszük a sitemap-ba.
