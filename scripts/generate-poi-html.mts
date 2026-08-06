@@ -253,6 +253,7 @@ try {
 const HR_FAQS: Record<string, FAQItem[]> = {};
 const IT_FAQS: Record<string, FAQItem[]> = {};
 const ES_FAQS: Record<string, FAQItem[]> = {};
+const PT_FAQS: Record<string, FAQItem[]> = {};
 
 // Climate sidecar — 12-month normals (mean/max temp, precip mm) per 0.5° grid
 // cell (NASA POWER climatology). SSR "best time to visit" block; non-duplicate,
@@ -349,7 +350,9 @@ function pickFaqStr(o: Record<string, unknown> | undefined, lang: Lang): string 
   return "";
 }
 function renderFAQ(poi: POI, lang: Lang): string {
-  const items = lang === "es" && ES_FAQS[poi.id]
+  const items = lang === "pt" && PT_FAQS[poi.id]
+    ? PT_FAQS[poi.id]
+    : lang === "es" && ES_FAQS[poi.id]
     ? ES_FAQS[poi.id]
     : lang === "it" && IT_FAQS[poi.id]
       ? IT_FAQS[poi.id]
@@ -550,7 +553,7 @@ try {
 } catch {}
 // Build a global id→POI lookup for cross-referencing (e.g. sight name internal links).
 const allById = new Map<string, POI>(pois.filter(p => p?.id).map(p => [p.id, p]));
-type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es";
+type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" | "pt";
 
 // hr = native Croatian: merge the poi-hr-native.json sidecar INTO each POI's
 // Record<Lang> fields (name/description/descriptionAdvanced/facts/sights) + faq, so
@@ -651,6 +654,39 @@ try {
   console.log(`[generate-poi-html] es-native merge skipped: ${e?.message?.slice(0, 80)}`);
 }
 
+// Portuguese is country-scoped, using the same sidecar format as Italian/Spanish.
+try {
+  const ptDir = path.resolve(process.cwd(), "public", "data", "i18n", "pt");
+  if (fs.existsSync(ptDir)) {
+    let merged = 0;
+    for (const poi of pois) {
+      if (!poi.parent || slugs.getCountryIdStrict(poi.parent) !== "portugal") continue;
+      const ptPath = path.join(ptDir, `${poi.id}.json`);
+      if (!fs.existsSync(ptPath)) continue;
+      const pt = JSON.parse(fs.readFileSync(ptPath, "utf-8")) as {
+        name?: string; description?: string; descAdv?: string;
+        descriptionAdvanced?: string; facts?: string[];
+        sights?: { sourceName?: string; name?: string; desc?: string }[];
+        faq?: { q: string; a: string }[];
+      };
+      const p = poi as unknown as Record<string, any>;
+      if (pt.name) { p.name = p.name || {}; p.name.pt = pt.name; }
+      if (pt.description) { p.description = p.description || {}; p.description.pt = pt.description; }
+      const advanced = pt.descriptionAdvanced || pt.descAdv;
+      if (advanced) { p.descriptionAdvanced = p.descriptionAdvanced || {}; p.descriptionAdvanced.pt = advanced; }
+      if (Array.isArray(pt.facts) && pt.facts.length) { p.facts = p.facts || {}; p.facts.pt = pt.facts; }
+      if (Array.isArray(pt.faq) && pt.faq.length) {
+        PT_FAQS[poi.id] = pt.faq.map((f) => ({ q: { pt: f.q }, a: { pt: f.a } }));
+      }
+      p.ptLong = true;
+      merged++;
+    }
+    console.log(`[generate-poi-html] pt-native merged into ${merged} POIs`);
+  }
+} catch (e: any) {
+  console.log(`[generate-poi-html] pt-native merge skipped: ${e?.message?.slice(0, 80)}`);
+}
+
 // Merge OSM-extra sights (public/data/_sights_extra.json) into THIN POIs that
 // have few/no sights. Existing sights first, then non-duplicate extras appended
 // per lang. The clean pass below then romanizes + caps the combined set.
@@ -706,7 +742,7 @@ if (Object.keys(SIGHTS_EXTRA).length) {
 // Native sight translations are extracted from the already-cleaned English HTML.
 // Merge them after the common clean pass so translated cards retain coordinates,
 // categories, Street View availability and internal-link metadata from the source.
-for (const [lang, prefix] of [["it", "IT"], ["es", "ES"]] as const) {
+for (const [lang, prefix] of [["it", "IT"], ["es", "ES"], ["pt", "PT"]] as const) {
   const dir = path.resolve(process.cwd(), "public", "data", "i18n", lang);
   if (!fs.existsSync(dir)) continue;
   let merged = 0;
@@ -3186,7 +3222,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // On extra-lang pages (fr/tr/hr) those landing URLs 404 → link them to `en`
   // (which exists) instead. The POI page itself stays in `lang`. (2026-06-12:
   // ~40k broken internal links came from extra-lang breadcrumb/home/footer.)
-  const hasNativeLanding = (lang === "it" && countryId === "italy") || (lang === "es" && countryId === "spain");
+  const hasNativeLanding = (lang === "it" && countryId === "italy") || (lang === "es" && countryId === "spain") || (lang === "pt" && countryId === "portugal");
   const navLang: Lang = SUPPORTED_LANGS.includes(lang) || hasNativeLanding ? lang : ("en" as Lang);
   // Beach-hub CTA (reciprocal internal link) for countries that have a beach hub.
   const beachHubLinkHtml = BEACH_HUB_KEYS.has(countryId)
@@ -3336,7 +3372,9 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     }
   };
   // 1) sharded FAQS (primary, LLM-authored) — same source renderFAQ used.
-  const _shardFaqs = lang === "es" && ES_FAQS[poi.id]
+  const _shardFaqs = lang === "pt" && PT_FAQS[poi.id]
+    ? PT_FAQS[poi.id]
+    : lang === "es" && ES_FAQS[poi.id]
     ? ES_FAQS[poi.id]
     : lang === "it" && IT_FAQS[poi.id]
       ? IT_FAQS[poi.id]

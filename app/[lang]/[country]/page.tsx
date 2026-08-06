@@ -43,6 +43,7 @@ export function generateStaticParams() {
   ).concat([
     { lang: "it", country: countrySlugFor("it", "italy") },
     { lang: "es", country: countrySlugFor("es", "spain") },
+    { lang: "pt", country: countrySlugFor("pt", "portugal") },
   ]);
 }
 

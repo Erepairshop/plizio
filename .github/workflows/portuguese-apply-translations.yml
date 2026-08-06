@@ -43,8 +43,11 @@ jobs:
           echo "pt sidecars: $COUNT"
           find public/data/i18n/pt -name '*.json' -print0 \
             | xargs -0 -n1 -P4 python3 -c 'import json,sys; json.load(open(sys.argv[1],encoding="utf-8"))'
-          git diff --name-only | head -20
-          echo "changed files: $(git diff --name-only | wc -l)"
+          # No `| head` here: git dies on SIGPIPE and the step fails under `set -e`.
+          CHANGED=$(git status --porcelain | wc -l)
+          git status --porcelain > /tmp/pt-apply-changed.txt
+          sed -n '1,20p' /tmp/pt-apply-changed.txt
+          echo "changed files: $CHANGED"
 
       - name: Commit sidecars
         if: inputs.write == 'true'

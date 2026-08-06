@@ -50,7 +50,10 @@ export function generateStaticParams() {
   const spanish = regions
     .filter((state) => getCountryId(state.id) === "spain")
     .map((state) => ({ lang: "es", country: countrySlugFor("es", "spain"), state: stateSlugFor(state.id, "es") }));
-  return core.concat(italian, spanish);
+  const portuguese = regions
+    .filter((state) => getCountryId(state.id) === "portugal")
+    .map((state) => ({ lang: "pt", country: countrySlugFor("pt", "portugal"), state: stateSlugFor(state.id, "pt") }));
+  return core.concat(italian, spanish, portuguese);
 }
 
 export async function generateMetadata({

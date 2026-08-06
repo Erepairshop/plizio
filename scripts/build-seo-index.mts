@@ -169,10 +169,32 @@ async function main() {
   }
   console.log(`[build-seo-index] it-native POIs: ${IT_NATIVE.size}`);
 
+  const PT_NATIVE = new Map<string, Record<string, unknown>>();
+  const ptDir = path.resolve(process.cwd(), "public", "data", "i18n", "pt");
+  try {
+    if (fs.existsSync(ptDir)) {
+      for (const file of fs.readdirSync(ptDir)) {
+        if (!file.endsWith(".json")) continue;
+        const id = file.slice(0, -5);
+        const value = JSON.parse(fs.readFileSync(path.join(ptDir, file), "utf-8"));
+        if (value && typeof value === "object") PT_NATIVE.set(id, value);
+      }
+    }
+  } catch (error) {
+    console.warn(`[build-seo-index] Portuguese sidecar read warning: ${String(error)}`);
+  }
+  console.log(`[build-seo-index] pt-native POIs: ${PT_NATIVE.size}`);
+
   // Lite shape — only what slugs.ts / sitemap.ts / page generators need.
   const lite = finalPois.map((p) => {
     const nativeIt = p.id ? IT_NATIVE.get(p.id) : undefined;
     const nativeItName = typeof nativeIt?.name === "string" ? nativeIt.name : undefined;
+    const nativePt = p.id ? PT_NATIVE.get(p.id) : undefined;
+    const nativePtName = typeof nativePt?.name === "string" ? nativePt.name : undefined;
+    const nativeNames = {
+      ...(nativeItName ? { it: nativeItName } : {}),
+      ...(nativePtName ? { pt: nativePtName } : {}),
+    };
     return {
       id: p.id,
       type: p.type,
@@ -183,8 +205,9 @@ async function main() {
       trLong: longLang(p, "tr"),
       hrLong: HR_NATIVE_IDS.has(p.id),
       itLong: Boolean(nativeIt),
+      ptLong: Boolean(nativePt),
       coa: p.coa,
-      name: nativeItName ? { ...(p.name || {}), it: nativeItName } : p.name,
+      name: Object.keys(nativeNames).length ? { ...(p.name || {}), ...nativeNames } : p.name,
       hasIndexable: hasIndexable(p),
     };
   });

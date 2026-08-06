@@ -34,6 +34,7 @@ export const SEO_LOCALES: Record<Lang, string> = {
   en: "en_US",
   it: "it_IT",
   es: "es_ES",
+  pt: "pt_PT",
 };
 
 // Sablon-alapú ország-szintű meta (title, description) generálás —
@@ -215,6 +216,21 @@ export const SEO_COPY = {
     landmarks: "Lugares de interés",
     capital: "Capital",
   },
+  pt: {
+    home: "Início",
+    related: "Locais relacionados",
+    facts: "Dados",
+    geography: "Dados geográficos",
+    openMap: "Abrir no OpenStreetMap",
+    backToMap: "Ver no mapa",
+    more: "Saber mais",
+    states: "Regiões",
+    cities: "Cidades",
+    nature: "Natureza",
+    history: "História",
+    landmarks: "Locais de interesse",
+    capital: "Capital",
+  },
 } as const;
 
 export function isLang(value: string): value is Lang {
@@ -382,48 +398,56 @@ const TYPE_KEYWORDS: Record<string, Record<Lang, string[]>> = {
     hu: ["Látnivalók", "Térkép", "Időjárás", "Hírek", "Történelem"],
     ro: ["Obiective turistice", "Hartă", "Vremea", "Știri", "Istorie"],
     en: ["Sights", "Map", "Weather", "News", "History"],
+    pt: ["Pontos turísticos", "Mapa", "Tempo", "Notícias", "História"],
   },
   castle: {
     de: ["Burg", "Geschichte", "Karte", "Fotos", "Wetter"],
     hu: ["Vár", "Történelem", "Térkép", "Fotók", "Időjárás"],
     ro: ["Castel", "Istorie", "Hartă", "Fotografii", "Vremea"],
     en: ["Castle", "History", "Map", "Photos", "Weather"],
+    pt: ["Castelo", "História", "Mapa", "Fotos", "Tempo"],
   },
   mountain: {
     de: ["Wandern", "Karte", "Wetter", "Fotos", "Höhe"],
     hu: ["Túrázás", "Térkép", "Időjárás", "Fotók", "Magasság"],
     ro: ["Drumeții", "Hartă", "Vremea", "Fotografii", "Altitudine"],
     en: ["Hiking", "Map", "Weather", "Photos", "Elevation"],
+    pt: ["Caminhadas", "Mapa", "Tempo", "Fotos", "Altitude"],
   },
   lake: {
     de: ["Strände", "Karte", "Wetter", "Sehenswürdigkeiten", "Fotos"],
     hu: ["Strandok", "Térkép", "Időjárás", "Látnivalók", "Fotók"],
     ro: ["Plaje", "Hartă", "Vremea", "Obiective", "Fotografii"],
     en: ["Beaches", "Map", "Weather", "Sights", "Photos"],
+    pt: ["Praias", "Mapa", "Tempo", "Pontos turísticos", "Fotos"],
   },
   river: {
     de: ["Karte", "Verlauf", "Sehenswürdigkeiten", "Wetter", "Fotos"],
     hu: ["Térkép", "Folyamatos", "Látnivalók", "Időjárás", "Fotók"],
     ro: ["Hartă", "Curs", "Obiective", "Vremea", "Fotografii"],
     en: ["Map", "Course", "Sights", "Weather", "Photos"],
+    pt: ["Mapa", "Percurso", "Pontos turísticos", "Tempo", "Fotos"],
   },
   historical: {
     de: ["Geschichte", "Karte", "Sehenswürdigkeiten", "Fotos", "Besuch"],
     hu: ["Történelem", "Térkép", "Látnivalók", "Fotók", "Látogatás"],
     ro: ["Istorie", "Hartă", "Obiective", "Fotografii", "Vizită"],
     en: ["History", "Map", "Sights", "Photos", "Visit"],
+    pt: ["História", "Mapa", "Pontos turísticos", "Fotos", "Visita"],
   },
   landmark: {
     de: ["Sehenswürdigkeiten", "Karte", "Fotos", "Geschichte", "Wetter"],
     hu: ["Látnivalók", "Térkép", "Fotók", "Történelem", "Időjárás"],
     ro: ["Obiective", "Hartă", "Fotografii", "Istorie", "Vremea"],
     en: ["Sights", "Map", "Photos", "History", "Weather"],
+    pt: ["Pontos turísticos", "Mapa", "Fotos", "História", "Tempo"],
   },
   nature: {
     de: ["Karte", "Wetter", "Wandern", "Fotos", "Natur"],
     hu: ["Térkép", "Időjárás", "Túrázás", "Fotók", "Természet"],
     ro: ["Hartă", "Vremea", "Drumeții", "Fotografii", "Natură"],
     en: ["Map", "Weather", "Hiking", "Photos", "Nature"],
+    pt: ["Mapa", "Tempo", "Caminhadas", "Fotos", "Natureza"],
   },
 };
 
@@ -482,6 +506,12 @@ export function poiDescription(poi: POI, lang: Lang) {
       hu: ` ${sightsCount} látnivaló egy helyen.`,
       ro: ` ${sightsCount} obiective turistice listate.`,
       en: ` ${sightsCount} sights to discover.`,
+      fr: ` ${sightsCount} sites à découvrir.`,
+      tr: ` ${sightsCount} görülecek yer.`,
+      hr: ` ${sightsCount} znamenitosti na jednom mjestu.`,
+      it: ` ${sightsCount} luoghi da scoprire.`,
+      es: ` ${sightsCount} lugares que descubrir.`,
+      pt: ` ${sightsCount} locais a descobrir.`,
     };
     const withSights = base + suffix[lang];
     if (withSights.length <= 160) return withSights;
