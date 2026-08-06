@@ -20,6 +20,7 @@ LANGUAGE_NAMES = {
     "hr": "Croatian",
     "hu": "Hungarian",
     "it": "Italian",
+    "pt": "European Portuguese",
     "ro": "Romanian",
 }
 
