@@ -744,13 +744,15 @@ if (Object.keys(SIGHTS_EXTRA).length) {
 // Native sight translations are extracted from the already-cleaned English HTML.
 // Merge them after the common clean pass so translated cards retain coordinates,
 // categories, Street View availability and internal-link metadata from the source.
-for (const [lang, prefix] of [["it", "IT"], ["es", "ES"], ["pt", "PT"]] as const) {
+for (const [lang, countryId] of [["it", "italy"], ["es", "spain"], ["pt", "portugal"]] as const) {
   const dir = path.resolve(process.cwd(), "public", "data", "i18n", lang);
   if (!fs.existsSync(dir)) continue;
   let merged = 0;
   const norm = (value: unknown) => String(value || "").normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
   for (const poi of pois) {
-    if (!poi.parent?.startsWith(prefix)) continue;
+    // Country id, not an ISO prefix: PT POIs sit under `PT`, `portugal`,
+    // `city-lisboa`, `reg-algarve`… so a prefix test dropped a third of them.
+    if (!poi.parent || slugs.getCountryIdStrict(poi.parent) !== countryId) continue;
     const file = path.join(dir, `${poi.id}.json`);
     if (!fs.existsSync(file)) continue;
     const native = JSON.parse(fs.readFileSync(file, "utf-8")) as {
