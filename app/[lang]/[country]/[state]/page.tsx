@@ -119,9 +119,17 @@ export default async function StatePage({
   const groups = groupPoisForState(region.id);
   const subregions = (bundeslandSubregions as any)[region.id];
   const mapSlug = mapSlugForCountry(countryId);
-  const mapLang = lang;
+  // Static country maps exist only for the 4 core langs plus it/italy and es/spain
+  // (scripts/build-static-maps.mts langsForCountry) — other langs would 404.
+  const mapLang =
+    (["de", "hu", "ro", "en"] as string[]).includes(lang)
+    || (lang === "it" && countryId === "italy")
+    || (lang === "es" && countryId === "spain")
+      ? lang
+      : "en";
   const mapHref = mapSlug ? `/${mapSlug}-map/${mapLang === "hu" ? "" : mapLang + "/"}` : null;
-  const MAP_CTA = ({ de: "Auf der interaktiven Karte ansehen", hu: "Megtekintés az interaktív térképen", ro: "Vezi pe harta interactivă", en: "View on the interactive map", it: "Vedi sulla mappa interattiva", es: "Ver en el mapa interactivo" } as const)[lang as "de" | "hu" | "ro" | "en" | "it" | "es"];
+  const MAP_CTA_COPY = { de: "Auf der interaktiven Karte ansehen", hu: "Megtekintés az interaktív térképen", ro: "Vezi pe harta interactivă", en: "View on the interactive map", it: "Vedi sulla mappa interattiva", es: "Ver en el mapa interactivo", pt: "Ver no mapa interativo" } as const;
+  const MAP_CTA = MAP_CTA_COPY[lang as keyof typeof MAP_CTA_COPY] ?? MAP_CTA_COPY.en;
 
   return (
     <main className="min-h-screen bg-[#020408] text-white">

@@ -10,13 +10,16 @@ export const BEACH_HUB_COUNTRIES = new Set<string>([
   "croatia", "cyprus", "denmark", "estonia", "finland", "france", "germany", "greece",
   "ireland", "italy", "norway", "poland", "portugal", "spain", "sweden", "turkey", "united-kingdom",
 ]);
-export const BEACH_SLUG: Record<Lang, string> = { de: "straende", hu: "strandok", ro: "plaje", en: "beaches" };
-export const BEACH_HUB_LABEL: Record<Lang, string> = {
+export const BEACH_SLUG: Partial<Record<Lang, string>> = { de: "straende", hu: "strandok", ro: "plaje", en: "beaches" };
+export const BEACH_HUB_LABEL: Partial<Record<Lang, string>> & { en: string } = {
   de: "🏖️ Schönste Strände", hu: "🏖️ Legszebb strandok", ro: "🏖️ Cele mai frumoase plaje", en: "🏖️ Best beaches",
 };
 export function beachHubHref(lang: Lang, countryId: string): string | null {
   if (!BEACH_HUB_COUNTRIES.has(countryId)) return null;
-  return `/${lang}/${countryId}/${BEACH_SLUG[lang]}/`;
+  // build-beach-hub.mts only emits the 4 core langs. Without this guard a native
+  // lang (it/es/pt) produced `/<lang>/<country>/undefined/` — a linked 404.
+  const slug = BEACH_SLUG[lang];
+  return slug ? `/${lang}/${countryId}/${slug}/` : null;
 }
 
 // --- Cities (build-country-sights.mts 'cities' category). Root slug like sights. 404-safe set. ---
@@ -181,7 +184,7 @@ export const CITIES_HUBS: Record<string, Partial<Record<Lang, string>>> = {
   "zambia": { de: "sambia-staedte", hu: "zambia-varosok", ro: "zambia-orase", en: "zambia-cities" },
   "zimbabwe": { de: "simbabwe-staedte", hu: "zimbabwe-varosok", ro: "zimbabwe-orase", en: "zimbabwe-cities" },
 };
-export const CITIES_HUB_LABEL: Record<Lang, string> = {
+export const CITIES_HUB_LABEL: Partial<Record<Lang, string>> & { en: string } = {
   de: "🏙️ Top-Städte", hu: "🏙️ Top városok", ro: "🏙️ Top orașe", en: "🏙️ Top cities",
 };
 export function citiesHubHref(lang: Lang, countryId: string): string | null {

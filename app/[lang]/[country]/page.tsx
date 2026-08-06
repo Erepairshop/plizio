@@ -102,16 +102,28 @@ export default async function CountryPage({
   const hubSlug = sightsHubSlug(countryId, lang);
   const beachHref = beachHubHref(lang as Lang, countryId);
   const citiesHref = citiesHubHref(lang as Lang, countryId);
-  const mapLang = lang;
+  // Static country maps exist only for the 4 core langs plus it/italy and es/spain
+  // (scripts/build-static-maps.mts langsForCountry). Any other lang → /en/ so the
+  // CTA never points at a directory that was not generated.
+  const mapLang: Lang =
+    (["de", "hu", "ro", "en"] as Lang[]).includes(lang as Lang)
+    || (lang === "it" && countryId === "italy")
+    || (lang === "es" && countryId === "spain")
+      ? (lang as Lang)
+      : ("en" as Lang);
   const mapHref = mapSlug ? `/${mapSlug}-map/${mapLang === "hu" ? "" : mapLang + "/"}` : null;
-  const ML = ({
+  const ML_BY_LANG = ({
     de: { kicker: "Interaktive Karte", cta: `${countryCopy.name} entdecken`, sub: "Sehenswürdigkeiten, Städte, Karte & Suche", world: "Weltkarte ansehen", open: "Karte öffnen" },
     hu: { kicker: "Interaktív térkép", cta: `${countryCopy.name} felfedezése`, sub: "Látnivalók, városok, térkép és kereső", world: "Világtérkép", open: "Térkép megnyitása" },
     ro: { kicker: "Hartă interactivă", cta: `Explorează ${countryCopy.name}`, sub: "Obiective, orașe, hartă și căutare", world: "Harta lumii", open: "Deschide harta" },
     en: { kicker: "Interactive map", cta: `Explore ${countryCopy.name}`, sub: "Sights, cities, map & search", world: "World map", open: "Open map" },
     it: { kicker: "Mappa interattiva", cta: `Esplora ${countryCopy.name}`, sub: "Luoghi, città, mappa e ricerca", world: "Mappa del mondo", open: "Apri la mappa" },
     es: { kicker: "Mapa interactivo", cta: `Explora ${countryCopy.name}`, sub: "Lugares, ciudades, mapa y búsqueda", world: "Mapa del mundo", open: "Abrir mapa" },
-  } as const)[lang as Lang];
+    pt: { kicker: "Mapa interativo", cta: `Explorar ${countryCopy.name}`, sub: "Locais, cidades, mapa e pesquisa", world: "Mapa do mundo", open: "Abrir mapa" },
+  } as const);
+  // Native-lang landing pages exist beyond the 4 core langs, so fall back instead
+  // of indexing into undefined (prerender crashed on /pt/portugal this way).
+  const ML = ML_BY_LANG[lang as keyof typeof ML_BY_LANG] ?? ML_BY_LANG.en;
 
   return (
     <main className="min-h-screen bg-[#020408] text-white">
@@ -219,7 +231,7 @@ export default async function CountryPage({
                 const count = getPoisForCountryBucket(countryId, bucket).length;
                 if (count < 4) return null;
                 const slug = typeSlugFor(bucket, lang as Lang);
-                const heading = TYPE_HEADINGS[bucket][lang as Lang];
+                const heading = TYPE_HEADINGS[bucket][lang as Lang] ?? TYPE_HEADINGS[bucket].en;
                 return (
                   <li key={bucket}>
                     <a
