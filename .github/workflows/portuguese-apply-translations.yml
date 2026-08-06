@@ -3,6 +3,12 @@ name: Portuguese Apply Translations
 on:
   workflow_dispatch:
     inputs:
+      mode:
+        description: "Which completed queue to apply"
+        type: choice
+        required: true
+        default: "full"
+        options: [full, missing-descadv, missing-citytips-structured]
       write:
         description: "Write files (false = dry-run)"
         type: choice
@@ -29,7 +35,14 @@ jobs:
       - name: Apply Portuguese translations
         run: |
           set -euo pipefail
+          MODE="${{ inputs.mode }}"
+          # Same work-dir layout the translation workflow writes.
           WORK=/home/erik/plizio-translations/pt-20260806
+          [ "$MODE" != "full" ] && WORK="/home/erik/plizio-translations/pt-$MODE-20260806"
+          if [ ! -s "$WORK/manifest.json" ] || [ ! -s "$WORK/results.jsonl" ]; then
+            echo "::error::No completed queue at $WORK — run the translation workflow first."
+            exit 1
+          fi
           FLAGS=""
           [ "${{ inputs.write }}" = "true" ] && FLAGS="--write"
           python3 scripts/native-rollout/apply-country-translations.py \
@@ -60,5 +73,5 @@ jobs:
             echo "No translation changes"
             exit 0
           fi
-          git commit -m "content(i18n): apply Portuguese native translations"
+          git commit -m "content(i18n): apply Portuguese native translations (${{ inputs.mode }})"
           git push origin HEAD:${GITHUB_REF_NAME}
