@@ -1983,6 +1983,7 @@ const PRACTICAL_COPY: Record<string, Record<string, string>> = {
   tr: { title: "📋 Pratik bilgiler", address: "Adres", openingHours: "Çalışma saatleri", entranceFee: "Giriş", website: "Resmi site", publicTransport: "Toplu taşıma", parking: "Otopark", accessibility: "Erişilebilirlik", photoRules: "Fotoğraf", bestTimeToVisit: "En iyi zaman", audioGuide: "Sesli rehber" },
   hr: { title: "📋 Praktične informacije", address: "Adresa", openingHours: "Radno vrijeme", entranceFee: "Ulaznica", website: "Službena stranica", publicTransport: "Javni prijevoz", parking: "Parking", accessibility: "Pristupačnost", photoRules: "Fotografiranje", bestTimeToVisit: "Najbolje vrijeme", audioGuide: "Audiovodič" },
   it: { title: "📋 Informazioni pratiche", address: "Indirizzo", openingHours: "Orari", entranceFee: "Ingresso", website: "Sito ufficiale", publicTransport: "Trasporto pubblico", parking: "Parcheggio", accessibility: "Accessibilità", photoRules: "Fotografie", bestTimeToVisit: "Periodo migliore", audioGuide: "Audioguida" },
+  es: { title: "📋 Información práctica", address: "Dirección", openingHours: "Horario", entranceFee: "Entrada", website: "Sitio oficial", publicTransport: "Transporte público", parking: "Aparcamiento", accessibility: "Accesibilidad", photoRules: "Fotografía", bestTimeToVisit: "Mejor momento", audioGuide: "Audioguía" },
 };
 
 // Pinfo v1: tipus-csaladonkenti mezok (lasd _build_pinfo_full.py)
@@ -2007,6 +2008,7 @@ const PINFO_LABELS: Record<string, Record<string, string>> = {
   tr: { access: "Ulaşım", season: "En iyi mevsim", terrain: "Arazi ve yollar", gear: "Ekipman", parking: "Otopark", safety: "Güvenlik", duration: "Gerekli süre", visiting: "Ziyaret", hours_hint: "Olağan saatler", photo: "Fotoğraf", combine: "Birlikte gezilebilir", tip: "Yerel ipucu", time_of_day: "En iyi zaman", rules: "Davranış kuralları", patience_tip: "Gerçekçi beklenti", what_role: "Burası nedir?", visitability: "Ziyaret", viewpoint: "Nereden izlenir", local_products: "Yerel ürünler", when_active: "Aktif sezon", nearby_combo: "Yakınında" },
   hr: { access: "Pristup", season: "Najbolja sezona", terrain: "Teren i staze", gear: "Oprema", parking: "Parking", safety: "Sigurnost", duration: "Potrebno vrijeme", visiting: "Posjet", hours_hint: "Uobičajeno radno vrijeme", photo: "Fotografiranje", combine: "Kombinirajte s", tip: "Lokalni savjet", time_of_day: "Najbolje doba dana", rules: "Pravila ponašanja", patience_tip: "Realna očekivanja", what_role: "Što je ovo mjesto?", visitability: "Posjet", viewpoint: "Odakle promatrati", local_products: "Lokalni proizvodi", when_active: "Aktivna sezona", nearby_combo: "U blizini" },
   it: { access: "Come arrivare", season: "Stagione migliore", terrain: "Terreno e sentieri", gear: "Cosa portare", parking: "Parcheggio", safety: "Sicurezza", duration: "Tempo necessario", visiting: "Visita", hours_hint: "Orari abituali", photo: "Fotografie", combine: "Da abbinare a", tip: "Consiglio locale", time_of_day: "Momento migliore", rules: "Regole di comportamento", patience_tip: "Cosa aspettarsi", what_role: "Che luogo è?", visitability: "Visita", viewpoint: "Punto panoramico", local_products: "Prodotti locali", when_active: "Stagione attiva", nearby_combo: "Nelle vicinanze" },
+  es: { access: "Cómo llegar", season: "Mejor época", terrain: "Terreno y senderos", gear: "Qué llevar", parking: "Aparcamiento", safety: "Seguridad", duration: "Tiempo necesario", visiting: "Visita", hours_hint: "Horario habitual", photo: "Fotografía", combine: "Combínalo con", tip: "Consejo local", time_of_day: "Mejor momento del día", rules: "Normas de conducta", patience_tip: "Qué esperar", what_role: "¿Qué es este lugar?", visitability: "Visita", viewpoint: "Dónde contemplarlo", local_products: "Productos locales", when_active: "Temporada activa", nearby_combo: "En los alrededores" },
 };
 
 function renderPracticalInfo(poi: POI, lang: Lang): string {
@@ -2262,6 +2264,7 @@ function renderInfoCard(poi: POI, lang: Lang, countryId: string): string {
     tr: { title: "Pratik bilgiler", wx: "Hava — 5 gün", near: "Çevrede", tips: "İpuçları", gastro: "Yeme-içme", shop: "Alışveriş", quiet: "Sakin yerler", fei: "Tatil", feiWarn: "resmî tatil — birçok dükkân kapalı olabilir!", feiNone: "Önümüzdeki 5 günde resmi tatil yok." },
     hr: { title: "Praktične informacije", wx: "Vrijeme — 5 dana", near: "U okolici", tips: "Savjeti", gastro: "Gastro", shop: "Kupovina", quiet: "Mirna mjesta", fei: "Blagdan", feiWarn: "blagdan — mnoge trgovine mogu biti zatvorene!", feiNone: "Nema blagdana u sljedećih 5 dana." },
     it: { title: "Informazioni pratiche", wx: "Meteo — 5 giorni", near: "Nei dintorni", tips: "Consigli", gastro: "Gastronomia", shop: "Shopping", quiet: "Luoghi tranquilli", fei: "Festività", feiWarn: "giorno festivo — molti negozi potrebbero essere chiusi!", feiNone: "Nessuna festività nazionale nei prossimi 5 giorni." },
+    es: { title: "Información práctica", wx: "Tiempo — 5 días", near: "En los alrededores", tips: "Consejos", gastro: "Comida", shop: "Compras", quiet: "Lugares tranquilos", fei: "Festivo", feiWarn: "festivo — muchas tiendas pueden estar cerradas", feiNone: "No hay festivos nacionales en los próximos 5 días." },
   };
   const t = T[lang] || T.en;
   // City-tips sidecar (build-time bake). Always render when present — the city-info
@@ -4418,6 +4421,10 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
           publicTransport: "Javni prijevoz", parking: "Parking", accessibility: "Pristupačnost",
           photoRules: "Fotografiranje", bestTimeToVisit: "Najbolje vrijeme", audioGuide: "Audiovodič",
           practical: "Praktične informacije", facts: "Jeste li znali", backToCity: "← Natrag na grad" },
+    es: { address: "Dirección", openingHours: "Horario", entranceFee: "Entrada", website: "Sitio web",
+          publicTransport: "Transporte público", parking: "Aparcamiento", accessibility: "Accesibilidad",
+          photoRules: "Fotografía", bestTimeToVisit: "Mejor momento", audioGuide: "Audioguía",
+          practical: "Información práctica", facts: "¿Sabías que...?", backToCity: "← Volver a la ciudad" },
   };
   const c = ICON_COPY[lang] || ICON_COPY.en!;
 
