@@ -59,7 +59,11 @@ def parse_translations(text: str, expected: set[str]) -> dict:
     value = text.strip()
     if value.startswith("```"):
         value = value.split("\n", 1)[-1].rsplit("```", 1)[0].strip()
-    parsed = json.loads(value)
+    try:
+        parsed = json.loads(value)
+    except json.JSONDecodeError:
+        # Models occasionally append prose or a duplicate object after the JSON.
+        parsed, _ = json.JSONDecoder().raw_decode(value)
     translated = parsed.get("translations") if isinstance(parsed, dict) else None
     if not isinstance(translated, dict):
         raise ValueError("Missing translations object")
