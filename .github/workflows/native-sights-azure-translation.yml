@@ -13,6 +13,9 @@ on:
         required: true
         default: "0"
 
+permissions:
+  contents: write
+
 concurrency:
   group: native-sights-azure-translation
   cancel-in-progress: false
@@ -30,8 +33,12 @@ jobs:
           NATIVE_LANG="${{ inputs.language }}"
           WORK="/home/erik/plizio-translations/native-sights-${NATIVE_LANG}-20260805-v1"
           SOURCE_REPO=/home/erik/plizio/current
+          # Sidecars come from THIS checkout: a freshly added language is not in the
+          # rendered release yet, so reading them from $SOURCE_REPO would queue nothing.
+          # The rendered English pages still come from the active release.
           python3 scripts/native-rollout/build-native-sights-queue.py \
-            --repo "$SOURCE_REPO" --output-dir "$WORK" --language "$NATIVE_LANG"
+            --repo "$SOURCE_REPO" --output-dir "$WORK" --language "$NATIVE_LANG" \
+            --sidecar-root "$GITHUB_WORKSPACE/public/data/i18n/$NATIVE_LANG"
           cat "$WORK/summary.json"
 
       - name: Translate through Azure OpenAI
@@ -41,8 +48,15 @@ jobs:
           set -euo pipefail
           NATIVE_LANG="${{ inputs.language }}"
           WORK="/home/erik/plizio-translations/native-sights-${NATIVE_LANG}-20260805-v1"
-          LANGUAGE_NAME="Italian"
-          [ "$NATIVE_LANG" = "es" ] && LANGUAGE_NAME="European Spanish"
+          # Every supported native lang MUST be listed here — an unmapped code
+          # silently fell through to Italian and mistranslated the whole run.
+          case "$NATIVE_LANG" in
+            it) LANGUAGE_NAME="Italian" ;;
+            es) LANGUAGE_NAME="European Spanish" ;;
+            pt) LANGUAGE_NAME="European Portuguese" ;;
+            hr) LANGUAGE_NAME="Croatian" ;;
+            *) echo "::error::No language name mapped for $NATIVE_LANG"; exit 1 ;;
+          esac
           set -a
           source /home/erik/plizio-audits/poi-only-technical-20260731/.azure-openai.env
           set +a
@@ -76,6 +90,33 @@ jobs:
           (root / "run-summary.json").write_text(json.dumps(summary, indent=2) + "\n")
           print(json.dumps(summary))
           PY
+
+      - name: Apply translated sights into the native sidecars
+        if: ${{ inputs.limit == '0' }}
+        run: |
+          set -euo pipefail
+          NATIVE_LANG="${{ inputs.language }}"
+          WORK="/home/erik/plizio-translations/native-sights-${NATIVE_LANG}-20260805-v1"
+          python3 scripts/native-rollout/apply-country-translations.py \
+            --repo . --work-dir "$WORK" --language "$NATIVE_LANG" --write
+          CHANGED=$(git status --porcelain "public/data/i18n/$NATIVE_LANG" | wc -l)
+          echo "changed sidecars: $CHANGED"
+
+      - name: Commit translated sidecars
+        if: ${{ inputs.limit == '0' }}
+        run: |
+          set -euo pipefail
+          NATIVE_LANG="${{ inputs.language }}"
+          git config user.name "plizio-azure-bot"
+          git config user.email "borota25@gmail.com"
+          git add "public/data/i18n/$NATIVE_LANG"
+          if git diff --cached --quiet; then
+            echo "No sight changes"
+            exit 0
+          fi
+          git commit -m "content(sights): apply $NATIVE_LANG native sight translations"
+          git pull --rebase origin ${GITHUB_REF_NAME}
+          git push origin HEAD:${GITHUB_REF_NAME}
 
       - uses: actions/upload-artifact@v4
         if: always()
