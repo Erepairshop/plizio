@@ -21,7 +21,8 @@
             "de": "Knochenkapelle",
             "hu": "Csontkápolna",
             "ro": "Capela Oaselor",
-            "en": "Chapel of Bones"
+            "en": "Chapel of Bones",
+            "pt": "Capela dos Ossos"
           },
           "coords": [
             -7.908371,
@@ -36,7 +37,8 @@
             "de": "Diese unheimliche, aber faszinierende Kapelle ist mit menschlichen Knochen verziert, um an die Vergänglichkeit zu erinnern; kommen Sie früh, um den großen Menschenmassen auszuweichen.",
             "hu": "Ez hátborzongató, de lenyűgöző kápolna emberi csontokkal díszített, emlékeztetve a mulandóságra; érdemes korán érkezni a turistatömegek elkerülése végett.",
             "ro": "Această capelă stranie, împodobită cu oase umane, amintește de natura trecătoare a vieții; vizitați-o dis-de-dimineață pentru a evita grupurile mari de turiști.",
-            "en": "This eerie yet fascinating chapel is adorned with human bones to remind us of life's transience; arrive early in the morning to avoid the largest tourist crowds."
+            "en": "This eerie yet fascinating chapel is adorned with human bones to remind us of life's transience; arrive early in the morning to avoid the largest tourist crowds.",
+            "pt": "Esta capela arrepiante mas fascinante está adornada com ossos humanos para nos lembrar da transitoriedade da vida; chegue cedo de manhã para evitar as maiores multidões de turistas."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Palácio de Dom Manuel",
             "hu": "Dom Manuel Palota",
             "ro": "Palatul Dom Manuel",
-            "en": "Palácio de Dom Manuel"
+            "en": "Palácio de Dom Manuel",
+            "pt": "Paço de D. Manuel"
           },
           "coords": [
             -7.909244,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die manuelinische Architektur dieses einstigen Königspalastes in einem ruhigen Park; spazieren Sie unbedingt durch die Gärten für die besten Fotomotive.",
             "hu": "Csodálja meg a Mánuel-stílusú építészetet ebben a nyugodt parkban fekvő egykori királyi palotában; a legjobb fotótémákért tegyen egy sétát a gyönyörű kertekben.",
             "ro": "Admirați arhitectura manuelină a acestui fost palat regal aflat într-un parc liniștit; plimbați-vă prin grădini pentru a surprinde cele mai frumoase fotografii.",
-            "en": "Admire the striking Manueline architecture of this former royal palace set in a tranquil park; take a stroll through the gardens for the best photography spots."
+            "en": "Admire the striking Manueline architecture of this former royal palace set in a tranquil park; take a stroll through the gardens for the best photography spots.",
+            "pt": "Admire a marcante arquitetura manuelina deste antigo paço real situado num parque tranquilo; passeie pelos jardins para encontrar os melhores pontos de fotografia."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Torre de Sisebuto",
             "hu": "Sisebuto torony",
             "ro": "Turnul Sisebuto",
-            "en": "Torre de Sisebuto"
+            "en": "Torre de Sisebuto",
+            "pt": "Torre de Sisebuto"
           },
           "coords": [
             -7.90936,
@@ -82,7 +87,8 @@
             "de": "Dieser historische Turm ist ein wichtiges Zeugnis der römisch-westgotischen Vergangenheit von Évora; betrachten Sie ihn am besten bei gutem Licht von der Südseite.",
             "hu": "Ez a történelmi torony Évora római és vizigót múltjának fontos tanúja; a legszebb látványt a déli oldalról nyújtja a kora délutáni természetes fényben.",
             "ro": "Acest turn istoric este o mărturie importantă a trecutului roman și vizigot al Évorei; priviți-l din partea de sud pentru a beneficia de cea mai bună lumină naturală.",
-            "en": "This historical tower stands as an important testament to Évora's Roman and Visigothic past; view it from the southern side to catch the best natural lighting."
+            "en": "This historical tower stands as an important testament to Évora's Roman and Visigothic past; view it from the southern side to catch the best natural lighting.",
+            "pt": "Esta torre histórica é um importante testemunho do passado romano e visigótico de Évora; observe‑a a partir do lado sul para apanhar a melhor iluminação natural."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Palácio do Vimioso",
             "hu": "Vimioso Palota",
             "ro": "Palatul Vimioso",
-            "en": "Palácio do Vimioso"
+            "en": "Palácio do Vimioso",
+            "pt": "Palácio do Vimioso"
           },
           "coords": [
             -7.90707,
@@ -105,7 +112,8 @@
             "de": "Die beeindruckende Festungsarchitektur dieses Schlosses spiegelt die mittelalterliche Macht wider; achten Sie auf die aufwendigen Details der historischen Steinfassade.",
             "hu": "A kastély lenyűgöző erődítmény-építészete a középkori hatalmat tükrözi; mindenképpen figyeljen a történelmi kőhomlokzat aprólékos, gondosan kidolgozott részleteire.",
             "ro": "Arhitectura impresionantă a acestui palat fortificat reflectă puterea medievală; acordați atenție detaliilor elaborate ale fațadei istorice din piatră.",
-            "en": "The impressive fortified architecture of this castle reflects medieval power dynamics; pay close attention to the intricate details of the historical stone facade."
+            "en": "The impressive fortified architecture of this castle reflects medieval power dynamics; pay close attention to the intricate details of the historical stone facade.",
+            "pt": "A impressionante arquitetura fortificada deste palácio reflete as dinâmicas de poder medievais; repare nos detalhes intricados da fachada de pedra histórica."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "São João Evangelista",
             "hu": "São João Evangelista templom",
             "ro": "São João Evangelista",
-            "en": "São João Evangelista"
+            "en": "São João Evangelista",
+            "pt": "Igreja de São João Evangelista"
           },
           "coords": [
             -7.906925,
@@ -128,7 +137,8 @@
             "de": "Die Kirche birgt bemerkenswerte Azulejos, die zu den schönsten in Portugal gehören; treten Sie ruhig ein, um die blau-weißen Kacheln aus der Nähe zu bewundern.",
             "hu": "A templom lenyűgöző azulejo csempéiről híres, amelyek a legszebbek közé tartoznak Portugáliában; lépjen be bátran, hogy testközelből csodálja meg a motívumokat.",
             "ro": "Biserica ascunde azulejos remarcabile, considerate printre cele mai frumoase din Portugalia; intrați în tihnă pentru a admira detaliile plăcilor ceramice alb-albastre.",
-            "en": "The church holds remarkable azulejo tiles that are among the most beautiful in Portugal; step inside quietly to admire the blue and white patterns up close."
+            "en": "The church holds remarkable azulejo tiles that are among the most beautiful in Portugal; step inside quietly to admire the blue and white patterns up close.",
+            "pt": "A igreja guarda notáveis painéis de azulejos que estão entre os mais belos de Portugal; entre em silêncio para admirar de perto os padrões azul e branco."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Aquädukt der Silberwasser",
             "hu": "Ezüstvíz vízvezeték",
             "ro": "Apeductul Apei de Argint",
-            "en": "Aqueduto da Água de Prata"
+            "en": "Aqueduto da Água de Prata",
+            "pt": "Aqueduto da Água de Prata"
           },
           "coords": [
             -7.911064,
@@ -151,7 +162,8 @@
             "de": "Dieses imposante Aquädukt aus dem 16. Jahrhundert prägt das Stadtbild Évoras; folgen Sie den Bögen in die Altstadt, wo Häuser direkt hineingebaut wurden.",
             "hu": "Ez az impozáns, 16. századi vízvezeték uralja Évora városképét; kövesse az íveket az óváros felé, ahol a házakat közvetlenül az építménybe integrálták.",
             "ro": "Acest apeduct impunător din secolul al XVI-lea domină peisajul Évorei; urmați arcadele spre orașul vechi, unde casele au fost construite direct în structură.",
-            "en": "This imposing 16th-century aqueduct defines the cityscape of Évora; follow its arches into the old town where local houses are built directly into the structure."
+            "en": "This imposing 16th-century aqueduct defines the cityscape of Évora; follow its arches into the old town where local houses are built directly into the structure.",
+            "pt": "Este imponente aqueduto do século XVI define a paisagem urbana de Évora; siga os seus arcos para dentro da cidade velha, onde casas locais se integram directamente na estrutura."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Morgen beginnt an der berühmten Knochenkapelle, die zum Nachdenken anregt, gefolgt von einem Spaziergang im königlichen Park. Mittags erkunden Sie die historischen Türme und Festungen von Évora. Am Nachmittag bewundern Sie die Azulejos in der São João Kirche. Der Tag endet am beeindruckenden Aquädukt der Stadt.",
         "hu": "A reggel a híres, elgondolkodtató Csontkápolnánál kezdődik, majd egy séta következik a királyi parkban. Délben Évora történelmi tornyait és erődítményeit fedezzük fel. Délután a São João templom lenyűgöző azulejo csempéit csodálhatjuk meg. A nap a város lenyűgöző, római kori vízvezetékénél ér véget.",
         "ro": "Dimineața începe la faimoasa Capelă a Oaselor, urmată de o plimbare în parcul regal. La prânz, veți explora turnurile și palatele istorice ale Évorei. După-amiaza este rezervată admirării ceramicii din biserica São João. Ziua se încheie la apeductul impresionant, o dovadă a ingineriei secolului al XVI-lea.",
-        "en": "The morning begins at the famous Chapel of Bones, sparking deep reflection, followed by a royal park stroll. Midday brings you to Évora's historical towers and fortresses. In the afternoon, marvel at the azulejos inside the São João Church. The day concludes wonderfully at the city's impressive ancient aqueduct."
+        "en": "The morning begins at the famous Chapel of Bones, sparking deep reflection, followed by a royal park stroll. Midday brings you to Évora's historical towers and fortresses. In the afternoon, marvel at the azulejos inside the São João Church. The day concludes wonderfully at the city's impressive ancient aqueduct.",
+        "pt": "A manhã começa na famosa Capela dos Ossos, suscitando profunda reflexão, seguida de um passeio pelo parque real. Ao meio‑dia visita‑se as torres e fortificações históricas de Évora. Ao fim da tarde, maravilhe‑se com os azulejos no interior da Igreja de São João. O dia termina de forma magnífica no antigo aqueduto da cidade."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der graue Morgen beginnt in der mystischen Stille der Knochenkapelle, deren dicke Mauern idealen Schutz bieten. Mittags suchen wir Zuflucht in den Hallen des Palácio de Dom Manuel. Am Nachmittag bieten die blauen Kacheln von São João Evangelista einen trockenen Ort. Am Abend zeigen die monumentalen Bögen des Aquädukts, die sich im nassen Kopfsteinpflaster spiegeln, Évoras dramatische Seite.",
             "hu": "A borús reggel a Csontkápolna misztikus csendjével indul, ahol a vastag falak megvédenek az esőtől. Délben a Dom Manuel palota termeiben találunk menedéket. Délután a São João templom azúrkék csempéi között pihenünk meg, amíg odakint esik. Estére az akvadukt monumentális ívei a vizes macskakövön tükröződő lámpafényben mutatják meg Évora drámai, esős arcát.",
             "ro": "Dimineața cenușie începe cu liniștea mistică a Capelei Oaselor, unde pereții groși oferă adăpost perfect. La prânz, găsim refugiu în sălile Palatului Dom Manuel. După-amiaza, plăcile albastre de la São João Evangelista oferă un refugiu uscat. Seara, arcadele monumentale ale apeductului reflectate în pavajul umed dezvăluie caracterul ploios dramatic al Évorei.",
-            "en": "The grey morning begins with the mystical silence of the Chapel of Bones, where thick walls offer perfect shelter. At noon, we find refuge in the halls of the Dom Manuel Palace. In the afternoon, the blue tiles of São João Evangelista provide a dry haven. By evening, the monumental arches of the aqueduct reflected in the wet cobblestones reveal Évora's dramatic rainy character."
+            "en": "The grey morning begins with the mystical silence of the Chapel of Bones, where thick walls offer perfect shelter. At noon, we find refuge in the halls of the Dom Manuel Palace. In the afternoon, the blue tiles of São João Evangelista provide a dry haven. By evening, the monumental arches of the aqueduct reflected in the wet cobblestones reveal Évora's dramatic rainy character.",
+            "pt": "A manhã cinzenta começa com o silêncio místico da Capela dos Ossos, onde as grossas paredes oferecem abrigo perfeito. Ao meio‑dia, procuramos refúgio nos salões do Paço de D. Manuel. À tarde, os azulejos azuis de São João Evangelista proporcionam um abrigo seco. Ao anoitecer, os arcos monumentais do aqueduto reflectidos no calçamento molhado revelam o carácter dramático e chuvoso de Évora."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Knochenkapelle",
                 "hu": "Csontkápolna",
                 "ro": "Capela Oaselor",
-                "en": "Chapel of Bones"
+                "en": "Chapel of Bones",
+                "pt": "Capela dos Ossos"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das unheimliche Innere als sicheren Unterschlupf vor dem Regen; halten Sie sich an der Treppe fest, da das Kopfsteinpflaster im Eingangsbereich extrem rutschig wird.",
                 "hu": "Fedezze fel a hátborzongató belső teret, amely kiváló menedék a zápor elől; a bejáratnál kapaszkodjon a korlátba, mert a vizes mészkő burkolat rendkívül csúszóssá válik.",
                 "ro": "Explorați interiorul straniu care servește ca adăpost excelent împotriva ploii; țineți-vă de balustradă la intrare, deoarece pavajul de calcar devine extrem de alunecos când este ud.",
-                "en": "Explore the eerie interior which serves as an excellent shelter from the downpour; hold onto the railing at the entrance as the wet limestone pavement becomes extremely slippery."
+                "en": "Explore the eerie interior which serves as an excellent shelter from the downpour; hold onto the railing at the entrance as the wet limestone pavement becomes extremely slippery.",
+                "pt": "Explore o interior arrepiante que serve como excelente abrigo da chuva; segure‑se no corrimão à entrada, pois o calcário molhado torna o pavimento extremamente escorregadio."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Palácio de Dom Manuel",
                 "hu": "Dom Manuel Palota",
                 "ro": "Palatul Dom Manuel",
-                "en": "Palácio de Dom Manuel"
+                "en": "Palácio de Dom Manuel",
+                "pt": "Paço de D. Manuel"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die manuelinische Architektur in den trockenen Galerien; nutzen Sie die überdachten Bereiche des Stadtgartens, um sich zwischen den Regengüssen kurz auszuruhen.",
                 "hu": "Csodálja meg a mánuel stílusú építészetet a száraz galériákban; használja a városi kert fedett részeit, hogy megpihenjen a záporok közötti rövidebb, szárazabb időszakokban.",
                 "ro": "Admirați arhitectura manuelină în galeriile uscate; folosiți zonele acoperite ale grădinii orașului pentru a vă odihni scurt între episoadele de ploaie torențială.",
-                "en": "Admire the Manueline architecture in the dry galleries; use the covered areas of the city garden to rest briefly between the showers during the more intense rainfall periods."
+                "en": "Admire the Manueline architecture in the dry galleries; use the covered areas of the city garden to rest briefly between the showers during the more intense rainfall periods.",
+                "pt": "Admire a arquitectura manuelina nas galerias secas; use as zonas cobertas do jardim da cidade para descansar brevemente entre aguaceiros nas fases de chuva mais intensa."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Torre de Sisebuto",
                 "hu": "Sisebuto torony",
                 "ro": "Turnul Sisebuto",
-                "en": "Torre de Sisebuto"
+                "en": "Torre de Sisebuto",
+                "pt": "Torre de Sisebuto"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die römischen Ruinen kurz von der Straße aus; tragen Sie eine Regenjacke, da dieser historische Ort im Freien liegt und keinen unmittelbaren Wetterschutz bietet.",
                 "hu": "Tekintse meg a római romokat röviden az utcáról; viseljen vízhatlan kabátot, mivel ez a történelmi helyszín nyitott, és nem nyújt közvetlen védelmet a hirtelen eső ellen.",
                 "ro": "Vizualizați ruinele romane scurt de pe stradă; purtați o jachetă impermeabilă, deoarece acest sit istoric este în aer liber și nu oferă protecție directă împotriva ploii.",
-                "en": "View the Roman ruins briefly from the street; wear a waterproof jacket as this historical site is outdoors and offers no direct protection from sudden rainfall."
+                "en": "View the Roman ruins briefly from the street; wear a waterproof jacket as this historical site is outdoors and offers no direct protection from sudden rainfall.",
+                "pt": "Olhe brevemente as ruínas romanas a partir da rua; vista um impermeável, pois este sítio histórico é exterior e não oferece protecção directa contra chuva súbita."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Palácio do Vimioso",
                 "hu": "Vimioso Palota",
                 "ro": "Palatul Vimioso",
-                "en": "Palácio do Vimioso"
+                "en": "Palácio do Vimioso",
+                "pt": "Palácio do Vimioso"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ausstellungen in diesem Universitätsgebäude, um trocken zu bleiben; achten Sie auf die tiefen Pfützen, die sich oft vor dem Haupteingang auf dem Platz bilden.",
                 "hu": "Látogassa meg az egyetemi épület kiállításait, hogy szárazon maradjon; ügyeljen a mély tócsákra, amelyek gyakran kialakulnak a főbejárat előtt a tér egyenetlen kövein.",
                 "ro": "Vizitați expozițiile din această clădire universitară pentru a rămâne uscat; atenție la bălțile adânci care se formează adesea în fața intrării principale pe pavajul inegal.",
-                "en": "Visit the exhibitions in this university building to stay dry; watch out for deep puddles that often form in front of the main entrance on the uneven square pavement."
+                "en": "Visit the exhibitions in this university building to stay dry; watch out for deep puddles that often form in front of the main entrance on the uneven square pavement.",
+                "pt": "Visite as exposições neste edifício universitário para se manter seco; tenha cuidado com as poças profundas que frequentemente se formam em frente à entrada principal no pavimento desigual da praça."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "São João Evangelista",
                 "hu": "São João Evangelista templom",
                 "ro": "São João Evangelista",
-                "en": "São João Evangelista"
+                "en": "São João Evangelista",
+                "pt": "Igreja de São João Evangelista"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die prächtigen Azulejos im Inneren, während es draußen regnet; stellen Sie sicher, dass Ihr Schirm im Vorraum abgetropft ist, um den historischen Boden zu schonen.",
                 "hu": "Élvezze a belső tér csodálatos azulejo csempéit, miközben odakint esik; rázza le az esernyőjét az előtérben, hogy óvja a templom értékes, történelmi padlózatát a nedvességtől.",
                 "ro": "Bucurați-vă de minunatele plăci azulejo din interior în timp ce plouă afară; scuturați umbrela în hol pentru a proteja podeaua istorică valoroasă a bisericii de umezeală.",
-                "en": "Enjoy the magnificent azulejo tiles inside while it rains outside; shake your umbrella in the vestibule to protect the church's valuable historic flooring from moisture."
+                "en": "Enjoy the magnificent azulejo tiles inside while it rains outside; shake your umbrella in the vestibule to protect the church's valuable historic flooring from moisture.",
+                "pt": "Desfrute dos magníficos painéis de azulejos no interior enquanto chove lá fora; sacuda o guarda‑chuvas no vestíbulo para proteger o valioso pavimento histórico da humidade."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Aquädukt der Silberwasser",
                 "hu": "Ezüstvíz vízvezeték",
                 "ro": "Apeductul Apei de Argint",
-                "en": "Aqueduto da Água de Prata"
+                "en": "Aqueduto da Água de Prata",
+                "pt": "Aqueduto da Água de Prata"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Ingenieurskunst unter einem Regenschirm; nutzen Sie die hohen Bögen als provisorischen Schutz, wenn der Wind das Regenwasser nicht direkt darunter treibt.",
                 "hu": "Csodálja meg a mérnöki bravúrt egy esernyő alól; használja a magas íveket ideiglenes menedékként, ha a szél nem fújja be közvetlenül alájuk a csapadékot.",
                 "ro": "Admirați ingeniozitatea inginerească de sub o umbrelă; folosiți arcadele înalte ca adăpost temporar dacă vântul nu suflă ploaia direct sub ele în acel moment.",
-                "en": "Admire the engineering feat from under an umbrella; use the high arches as temporary shelter if the wind is not blowing the rain directly underneath them."
+                "en": "Admire the engineering feat from under an umbrella; use the high arches as temporary shelter if the wind is not blowing the rain directly underneath them.",
+                "pt": "Admire a obra de engenharia debaixo de um guarda‑chuvas; use os arcos altos como abrigo temporário se o vento não estiver a soprar a chuva directamente para baixo deles."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Der kühle Wintermorgen beginnt in den dunklen Kammern der Knochenkapelle, wo die Temperatur stabil bleibt. Mittags genießen wir die schwache Sonne in den Palastgärten. Am Nachmittag bieten die Innendekorationen der Kirchen visuelle Wärme vor der frühen Dämmerung. Die Nacht bricht früh über dem Aquädukt herein, während die beleuchteten Gassen der Altstadt eine gemütliche Atmosphäre bieten.",
             "hu": "A hűvös téli reggel a Csontkápolna sötét termeiben kezdődik, ahol az állandó hőmérséklet kellemes. Délben a palota kertjeiben élvezzük a gyenge napsütést. Délután a templomok belső díszítése nyújt vizuális melegséget a korai szürkület előtt. Az este hamar leszáll az akvadukt ívei fölött, ilyenkor a kivilágított óváros szűk utcái nyújtanak meghitt hangulatot a hideg szélben.",
             "ro": "Dimineața rece de iarnă începe în camerele întunecate ale Capelei Oaselor, unde temperatura rămâne stabilă. La prânz, ne bucurăm de soarele slab în grădinile palatului. După-amiaza, decorațiunile interioare ale bisericilor oferă căldură vizuală înainte de amurgul timpuriu. Noaptea cade devreme peste apeduct, în timp ce străzile iluminate ale orașului vechi oferă o atmosferă primitoare.",
-            "en": "The cool winter morning starts in the dark chambers of the Bone Chapel, where the temperature remains stable. At noon, we enjoy the weak sun in the palace gardens. In the afternoon, the interior decorations of the churches provide visual warmth before the early dusk. Night falls early over the aqueduct, as the illuminated narrow streets of the old town offer a cozy atmosphere."
+            "en": "The cool winter morning starts in the dark chambers of the Bone Chapel, where the temperature remains stable. At noon, we enjoy the weak sun in the palace gardens. In the afternoon, the interior decorations of the churches provide visual warmth before the early dusk. Night falls early over the aqueduct, as the illuminated narrow streets of the old town offer a cozy atmosphere.",
+            "pt": "A fresca manhã de inverno começa nas câmaras escuras da Capela dos Ossos, onde a temperatura se mantém estável. Ao meio‑dia, desfrutamos do sol fraco nos jardins do paço. À tarde, as decorações interiores das igrejas proporcionam calor visual antes do crepúsculo precoce. A noite cai cedo sobre o aqueduto, enquanto as ruas estreitas iluminadas da cidade velha oferecem uma atmosfera acolhedora."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Knochenkapelle",
                 "hu": "Csontkápolna",
                 "ro": "Capela Oaselor",
-                "en": "Chapel of Bones"
+                "en": "Chapel of Bones",
+                "pt": "Capela dos Ossos"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern speichern die Kühle, tragen Sie also mehrere Schichten Kleidung; die mystische Atmosphäre wirkt im fahlen Winterlicht am Morgen besonders intensiv.",
                 "hu": "A vastag falak jól tartják a hűvöset, így öltözzön rétegesen; a misztikus hangulat különösen intenzív a reggeli bágyadt téli fényekben, amikor kevesebb a turista.",
                 "ro": "Pereții groși păstrează răcoarea, deci îmbrăcați-vă în straturi; atmosfera mistică este deosebit de intensă în lumina slabă a dimineții de iarnă, când sunt mai puțini turiști.",
-                "en": "The thick walls keep the chill inside, so dress in layers; the mystical atmosphere is particularly intense in the pale morning winter light when there are fewer tourists."
+                "en": "The thick walls keep the chill inside, so dress in layers; the mystical atmosphere is particularly intense in the pale morning winter light when there are fewer tourists.",
+                "pt": "As grossas paredes retêm o frio, por isso vista‑se em camadas; a atmosfera mística é particularmente intensa na pálida luz matinal de inverno, quando há menos turistas."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Palácio de Dom Manuel",
                 "hu": "Dom Manuel Palota",
                 "ro": "Palatul Dom Manuel",
-                "en": "Palácio de Dom Manuel"
+                "en": "Palácio de Dom Manuel",
+                "pt": "Paço de D. Manuel"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Mittagsstunden, um die Manuelinischen Fenster im Sonnenlicht zu fotografieren; die umliegenden Gärten sind im Winter ruhiger und ideal für einen kurzen Spaziergang.",
                 "hu": "Használja ki a déli órákat a mánuel stílusú ablakok lefotózásához a ritka napsütésben; a környező kertek télen csendesebbek és ideálisak egy rövid, frissítő sétához.",
                 "ro": "Profitați de orele prânzului pentru a fotografia ferestrele manueline în lumina soarelui; grădinile din jur sunt mai liniștite iarna și ideale pentru o scurtă plimbare revigorantă.",
-                "en": "Take advantage of the noon hours to photograph the Manueline windows in the rare sunlight; the surrounding gardens are quieter in winter and ideal for a short, refreshing walk."
+                "en": "Take advantage of the noon hours to photograph the Manueline windows in the rare sunlight; the surrounding gardens are quieter in winter and ideal for a short, refreshing walk.",
+                "pt": "Aproveite as horas de almoço para fotografar as janelas manuelinas na rara luz solar; os jardins circundantes estão mais tranquilos no inverno e são ideais para uma curta e revigorante caminhada."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Torre de Sisebuto",
                 "hu": "Sisebuto torony",
                 "ro": "Torre de Sisebuto",
-                "en": "Torre de Sisebuto"
+                "en": "Torre de Sisebuto",
+                "pt": "Torre de Sisebuto"
               },
               "tip_5lang": {
                 "de": "Die Steine können bei Frost rutschig sein, achten Sie auf Ihren Tritt; besuchen Sie den Turm am frühen Nachmittag, um die letzten warmen Sonnenstrahlen des Tages einzufangen.",
                 "hu": "A kövek fagyos időben csúszósak lehetnek, ügyeljen a lépteire; látogassa meg a tornyot kora délután, hogy elkapja a nap utolsó meleg sugaraival megvilágított ókori falakat.",
                 "ro": "Pietrele pot fi alunecoase pe timp de îngheț, aveți grijă la pași; vizitați turnul după-amiaza devreme pentru a prinde ultimele raze calde ale soarelui pe zidurile antice.",
-                "en": "The stones can be slippery in freezing weather, watch your step; visit the tower in the early afternoon to catch the last warm rays of the sun on the ancient walls."
+                "en": "The stones can be slippery in freezing weather, watch your step; visit the tower in the early afternoon to catch the last warm rays of the sun on the ancient walls.",
+                "pt": "As pedras podem ficar escorregadias em tempo de geada, tenha cuidado ao andar; visite a torre ao início da tarde para apanhar os últimos raios quentes do sol nas paredes antigas."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Palácio do Vimioso",
                 "hu": "Vimioso Palota",
                 "ro": "Palatul Vimioso",
-                "en": "Palácio do Vimioso"
+                "en": "Palácio do Vimioso",
+                "pt": "Palácio do Vimioso"
               },
               "tip_5lang": {
                 "de": "Die Innenräume bieten Schutz vor dem schneidenden Winterwind; bewundern Sie die prächtige Renaissance-Fassade, bevor die Sonne gegen 17:00 Uhr schnell untergeht.",
                 "hu": "A belső terek védelmet nyújtanak a metsző téli szél ellen; csodálja meg a pompás reneszánsz homlokzatot, mielőtt a nap 17:00 körül hirtelen és korán lebukik a látóhatáron.",
                 "ro": "Interioarele oferă protecție împotriva vântului tăios de iarnă; admirați fațada splendidă de renaștere înainte ca soarele să apună rapid și devreme în jurul orei 17:00.",
-                "en": "The interiors provide protection from the biting winter wind; admire the splendid Renaissance facade before the sun sets rapidly and early around 5:00 PM."
+                "en": "The interiors provide protection from the biting winter wind; admire the splendid Renaissance facade before the sun sets rapidly and early around 5:00 PM.",
+                "pt": "Os interiores protegem do vento cortante de inverno; admire a esplêndida fachada renascentista antes do sol se pôr rapidamente e cedo por volta das 17:00."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "São João Evangelista",
                 "hu": "São João Evangelista templom",
                 "ro": "São João Evangelista",
-                "en": "São João Evangelista"
+                "en": "São João Evangelista",
+                "pt": "Igreja de São João Evangelista"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet eine friedliche und warme Zuflucht am späten Nachmittag; die goldenen Altäre glänzen besonders schön im künstlichen Licht während der frühen Dämmerung.",
                 "hu": "A templom békés és viszonylag meleg menedéket nyújt késő délután; az aranyozott oltárok különösen szépen csillognak a mesterséges fényben a korai szürkület idején.",
                 "ro": "Biserica oferă un refugiu liniștit și relativ cald la sfârșitul după-amiezii; altarele aurite strălucesc deosebit de frumos în lumina artificială în timpul amurgului timpuriu.",
-                "en": "The church offers a peaceful and relatively warm refuge in the late afternoon; the gilded altars shine especially beautifully in artificial light during the early dusk."
+                "en": "The church offers a peaceful and relatively warm refuge in the late afternoon; the gilded altars shine especially beautifully in artificial light during the early dusk.",
+                "pt": "A igreja oferece um refúgio pacífico e relativamente quente ao final da tarde; os altares dourados brilham especialmente bem com a luz artificial no início do crepúsculo."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Aquädukt der Silberwasser",
                 "hu": "Ezüstvíz vízvezeték",
                 "ro": "Apeductul Apei de Argint",
-                "en": "Aqueduto da Água de Prata"
+                "en": "Aqueduto da Água de Prata",
+                "pt": "Aqueduto da Água de Prata"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen kurzen Spaziergang entlang der Bögen, bevor es zu kalt wird; tragen Sie eine Mütze und Handschuhe, da der Wind entlang des Aquädukts stark wehen kann.",
                 "hu": "Tegyen egy rövid sétát az ívek mentén, mielőtt túlságosan lehűlne a levegő; viseljen sapkát és kesztyűt, mivel az akvadukt mentén a szél felerősödhet a téli estéken.",
                 "ro": "Faceți o scurtă plimbare de-a lungul arcadelor înainte să se răcească prea tare; purtați căciulă și mănuși, deoarece vântul se poate intensifica de-a lungul apeductului iarna.",
-                "en": "Take a short walk along the arches before it gets too cold; wear a hat and gloves as the wind can pick up along the aqueduct on cold winter evenings."
+                "en": "Take a short walk along the arches before it gets too cold; wear a hat and gloves as the wind can pick up along the aqueduct on cold winter evenings.",
+                "pt": "Faça uma curta caminhada ao longo dos arcos antes de ficar demasiado frio; use chapéu e luvas, pois o vento pode levantar‑se ao longo do aqueduto nas noites frias de inverno."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Porta do Raimundo",
             "hu": "Raimundo kapu",
             "ro": "Poarta Raimundo",
-            "en": "Porta do Raimundo"
+            "en": "Porta do Raimundo",
+            "pt": "Porta do Raimundo"
           },
           "coords": [
             -7.912996,
@@ -380,7 +420,8 @@
             "de": "Dieses historische Stadttor war einst ein wichtiger Zugang zur befestigten Stadt; nutzen Sie den Ort für einen kurzen Orientierungsstopp vor der Altstadt.",
             "hu": "Ez a történelmi városkapu egykor a megerősített város fontos bejárata volt; használja a helyszínt egy gyors tájékozódási megállóra, mielőtt beveti magát az óvárosba.",
             "ro": "Această poartă istorică era odată un punct vital de acces în orașul fortificat; profitați de acest loc pentru o scurtă pauză de orientare înaintea explorării.",
-            "en": "This historical city gate was once a vital access point to the fortified city; use this spot for a quick orientation break before heading deep into the old town."
+            "en": "This historical city gate was once a vital access point to the fortified city; use this spot for a quick orientation break before heading deep into the old town.",
+            "pt": "Este portão histórico da cidade foi outrora um ponto vital de acesso à cidade fortificada; use este local para uma rápida paragem de orientação antes de se aprofundar na cidade velha."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Palácio de Dom Manuel",
             "hu": "Dom Manuel Palota",
             "ro": "Palatul Dom Manuel",
-            "en": "Palácio de Dom Manuel"
+            "en": "Palácio de Dom Manuel",
+            "pt": "Paço de D. Manuel"
           },
           "coords": [
             -7.909244,
@@ -403,7 +445,8 @@
             "de": "Bewundern Sie die manuelinische Architektur dieses einstigen Königspalastes in einem ruhigen Park; spazieren Sie unbedingt durch die Gärten für die besten Fotomotive.",
             "hu": "Csodálja meg a Mánuel-stílusú építészetet ebben a nyugodt parkban fekvő egykori királyi palotában; a legjobb fotótémákért tegyen egy sétát a gyönyörű kertekben.",
             "ro": "Admirați arhitectura manuelină a acestui fost palat regal aflat într-un parc liniștit; plimbați-vă prin grădini pentru a surprinde cele mai frumoase fotografii.",
-            "en": "Admire the striking Manueline architecture of this former royal palace set in a tranquil park; take a stroll through the gardens for the best photography spots."
+            "en": "Admire the striking Manueline architecture of this former royal palace set in a tranquil park; take a stroll through the gardens for the best photography spots.",
+            "pt": "Admire a marcante arquitetura manuelina deste antigo paço real situado num parque tranquilo; passeie pelos jardins para encontrar os melhores pontos de fotografia."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Salão Central Eborense",
             "hu": "Salão Central Eborense",
             "ro": "Salão Central Eborense",
-            "en": "Salão Central Eborense"
+            "en": "Salão Central Eborense",
+            "pt": "Salão Central Eborense"
           },
           "coords": [
             -7.907545,
@@ -426,7 +470,8 @@
             "de": "Als kulturelles Zentrum bietet dieses Gebäude tiefe Einblicke in das moderne Évora; prüfen Sie vorab, ob am Tag Ihres Besuchs öffentliche Ausstellungen stattfinden.",
             "hu": "Kulturális központként ez az épület mély bepillantást enged a modern Évora életébe; látogatás előtt érdemes ellenőrizni, vannak-e éppen nyilvános kiállítások.",
             "ro": "Ca centru cultural, clădirea oferă o perspectivă profundă asupra Évorei moderne; verificați în prealabil dacă există expoziții publice în ziua vizitei dumneavoastră.",
-            "en": "As a cultural hub, this building offers deep insights into modern Évora; check the schedule in advance to see if any public exhibitions align with your visit."
+            "en": "As a cultural hub, this building offers deep insights into modern Évora; check the schedule in advance to see if any public exhibitions align with your visit.",
+            "pt": "Como polo cultural, este edifício oferece grandes perspectivas sobre a Évora moderna; verifique o programa com antecedência para saber se há exposições públicas que coincidam com a sua visita."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Igreja do Espírito Santo",
             "hu": "Szentlélek templom",
             "ro": "Biserica Sfântului Duh",
-            "en": "Igreja do Espírito Santo"
+            "en": "Igreja do Espírito Santo",
+            "pt": "Igreja do Espírito Santo"
           },
           "coords": [
             -7.90464,
@@ -449,7 +495,8 @@
             "de": "Diese prächtige Kirche ist ein Meisterwerk der Jesuitenarchitektur mit einer reichen Innenausstattung; achten Sie besonders auf den kunstvollen Hauptaltar.",
             "hu": "Ez a pompás templom a jezsuita építészet remekműve, gazdag belső díszítéssel; fordítson különös figyelmet a művészien kidolgozott, lenyűgöző főoltárra.",
             "ro": "Această biserică magnifică este o capodoperă a arhitecturii iezuite cu un interior bogat; acordați o atenție deosebită altarului principal sculptat cu mare măiestrie.",
-            "en": "This magnificent church is a masterpiece of Jesuit architecture featuring a rich interior; pay special attention to the intricately carved and ornate main altar."
+            "en": "This magnificent church is a masterpiece of Jesuit architecture featuring a rich interior; pay special attention to the intricately carved and ornate main altar.",
+            "pt": "Esta magnífica igreja é uma obra‑prima da arquitectura jesuíta com um interior rico; preste especial atenção ao altar‑mór ricamente talhado e ornamentado."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Palácio dos Condes de Basto",
             "hu": "Basto grófjainak palotája",
             "ro": "Palatul Conților de Basto",
-            "en": "Palácio dos Condes de Basto"
+            "en": "Palácio dos Condes de Basto",
+            "pt": "Palácio dos Condes de Basto"
           },
           "coords": [
             -7.905727,
@@ -472,7 +520,8 @@
             "de": "Die gut erhaltenen Fresken dieses alten Palastes machen ihn zu einem versteckten Juwel; fragen Sie das Personal nach den Hintergründen der geheimnisvollen Wandmalereien.",
             "hu": "Az ősi palota jól karbantartott freskói miatt igazi rejtett gyöngyszemnek számít; kérdezze meg a személyzetet a titokzatos falfestmények történelmi hátteréről.",
             "ro": "Frescele bine conservate ale acestui palat vechi îl transformă într-o bijuterie ascunsă; întrebați personalul despre istoria din spatele picturilor murale misterioase.",
-            "en": "The well-preserved frescoes of this ancient palace make it a true hidden gem; ask the staff about the historical context behind the mysterious wall paintings."
+            "en": "The well-preserved frescoes of this ancient palace make it a true hidden gem; ask the staff about the historical context behind the mysterious wall paintings.",
+            "pt": "Os frescos bem preservados deste antigo palácio fazem dele uma verdadeira joia escondida; pergunte à equipa sobre o contexto histórico por detrás das misteriosas pinturas murais."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Aquädukt der Silberwasser",
             "hu": "Ezüstvíz vízvezeték",
             "ro": "Apeductul Apei de Argint",
-            "en": "Aqueduto da Água de Prata"
+            "en": "Aqueduto da Água de Prata",
+            "pt": "Aqueduto da Água de Prata"
           },
           "coords": [
             -7.911064,
@@ -495,7 +545,8 @@
             "de": "Dieses imposante Aquädukt aus dem 16. Jahrhundert prägt das Stadtbild Évoras; folgen Sie den Bögen in die Altstadt, wo Häuser direkt hineingebaut wurden.",
             "hu": "Ez az impozáns, 16. századi vízvezeték uralja Évora városképét; kövesse az íveket az óváros felé, ahol a házakat közvetlenül az építménybe integrálták.",
             "ro": "Acest apeduct impunător din secolul al XVI-lea domină peisajul Évorei; urmați arcadele spre orașul vechi, unde casele au fost construite direct în structură.",
-            "en": "This imposing 16th-century aqueduct defines the cityscape of Évora; follow its arches into the old town where local houses are built directly into the structure."
+            "en": "This imposing 16th-century aqueduct defines the cityscape of Évora; follow its arches into the old town where local houses are built directly into the structure.",
+            "pt": "Este imponente aqueduto do século XVI define a paisagem urbana de Évora; siga os seus arcos para dentro da cidade velha, onde casas locais se integram directamente na estrutura."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Porta de Aviz",
             "hu": "Aviz kapu",
             "ro": "Poarta Aviz",
-            "en": "Porta de Aviz"
+            "en": "Porta de Aviz",
+            "pt": "Porta de Aviz"
           },
           "coords": [
             -7.910341,
@@ -518,7 +570,8 @@
             "de": "Ein weiteres markantes Tor der mittelalterlichen Stadtmauer, das viel Geschichte atmet; die angrenzenden Straßen eignen sich hervorragend für eine kleine Kaffeepause.",
             "hu": "A középkori városfal egy másik kiemelkedő kapuja, amelyből árad a történelem; a szomszédos utcák hangulatos kávézói tökéletesek egy rövid pihenőhöz.",
             "ro": "O altă poartă proeminentă a zidului medieval care respiră multă istorie; străduțele adiacente sunt excelente pentru o scurtă pauză de cafea relaxantă.",
-            "en": "Another prominent gate of the medieval city wall that breathes centuries of history; the adjacent streets are perfectly suited for a short, relaxing coffee break."
+            "en": "Another prominent gate of the medieval city wall that breathes centuries of history; the adjacent streets are perfectly suited for a short, relaxing coffee break.",
+            "pt": "Outro portão proeminente da muralha medieval que transpira séculos de história; as ruas adjacentes são perfeitas para uma curta e relaxante pausa para um café."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Starten Sie am historischen Raimundo-Tor und radeln Sie zum Palácio de Dom Manuel im Park. Gegen Mittag tauchen Sie im Salão Central in die moderne Kultur ein. Am Nachmittag entdecken Sie die prächtige Espírito Santo Kirche. Die Tour endet entspannt an den malerischen Bögen des Aquädukts und dem Aviz-Tor.",
         "hu": "Induljon a történelmi Raimundo kaputól, majd kerékpározzon a parkban lévő Dom Manuel palotához. Délben merüljön el a modern kultúrában a Salão Centralban. Délután fedezze fel a pompás Espírito Santo templomot. A túra nyugodt tempóban zárul a vízvezeték festői íveinél és az Aviz kapunál.",
         "ro": "Începeți la poarta istorică Raimundo și pedalați spre Palatul Dom Manuel din parc. La prânz, pătrundeți în cultura modernă la Salão Central. După-amiaza veți descoperi superba Biserică Espírito Santo. Turul se încheie relaxant la arcadele pitorești ale apeductului și la poarta de nord Aviz.",
-        "en": "Start at the historical Raimundo gate and cycle to the Dom Manuel Palace in the park. By midday, immerse yourself in modern culture at the Salão Central. The afternoon is spent discovering the magnificent Espírito Santo Church. Your tour ends leisurely by the aqueduct's picturesque arches and the Aviz gate."
+        "en": "Start at the historical Raimundo gate and cycle to the Dom Manuel Palace in the park. By midday, immerse yourself in modern culture at the Salão Central. The afternoon is spent discovering the magnificent Espírito Santo Church. Your tour ends leisurely by the aqueduct's picturesque arches and the Aviz gate.",
+        "pt": "Comece na histórica Porta do Raimundo e pedale até ao Paço de D. Manuel no parque. Ao meio‑dia, mergulhe na cultura moderna no Salão Central. A tarde é passada a descobrir a magnífica Igreja do Espírito Santo. O seu passeio termina descontraidamente junto aos pitorescos arcos do aqueduto e à Porta de Aviz."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Der Radmorgen startet an der Porta do Raimundo, wo wir den Regen abwarten. Mittags radeln wir vorsichtig zum Palácio de Dom Manuel für eine lange Indoor-Pause. Der Nachmittag gehört den kulturellen Sälen des Salão Central. Am Abend erreichen wir die Porta de Aviz, wobei wir die glänzenden, nassen Stadtmauern im Vorbeifahren bewundern.",
             "hu": "A kerékpáros reggel a Raimundo kapunál indul, ahol rövid fedezéket keresünk az eső elől. Délben óvatosan a Dom Manuel palotához tekerünk egy hosszú, fedett pihenőre. A délutánt a Salão Central kulturális termeiben töltjük. Estére az Aviz kapuhoz érünk, csodálva a vizes városfalak sötétben csillogó köveit.",
             "ro": "Dimineața pe bicicletă începe la Poarta Raimundo, unde căutăm adăpost scurt de ploaie. La prânz, pedalăm cu grijă spre Palatul Dom Manuel pentru o pauză lungă la interior. După-amiaza aparține sălilor culturale de la Salão Central. Seara ajungem la Poarta Aviz, admirând zidurile ude ale orașului care strălucesc în întuneric.",
-            "en": "The cycling morning starts at Porta do Raimundo, where we seek brief cover from the rain. At noon, we pedal carefully to the Dom Manuel Palace for a long indoor break. The afternoon is spent in the cultural halls of Salão Central. By evening, we reach Porta de Aviz, admiring the wet city walls glistening in the dark as we ride past."
+            "en": "The cycling morning starts at Porta do Raimundo, where we seek brief cover from the rain. At noon, we pedal carefully to the Dom Manuel Palace for a long indoor break. The afternoon is spent in the cultural halls of Salão Central. By evening, we reach Porta de Aviz, admiring the wet city walls glistening in the dark as we ride past.",
+            "pt": "A manhã de ciclismo começa na Porta do Raimundo, onde procuramos breve abrigo da chuva. Ao meio‑dia pedalamos com cuidado até ao Paço de D. Manuel para uma longa pausa interior. A tarde é passada nos salões culturais do Salão Central. Ao anoitecer chegamos à Porta de Aviz, admirando as muralhas molhadas da cidade que brilham no escuro enquanto passamos de bicicleta."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Porta do Raimundo",
                 "hu": "Raimundo kapu",
                 "ro": "Poarta Raimundo",
-                "en": "Porta do Raimundo"
+                "en": "Porta do Raimundo",
+                "pt": "Porta do Raimundo"
               },
               "tip_5lang": {
                 "de": "Suchen Sie unter dem Torbogen Schutz vor dem ersten Schauer; prüfen Sie Ihre Bremsen gründlich, da das Kopfsteinpflaster hier bei Nässe extrem rutschig wird.",
                 "hu": "Keressen menedéket a kapualj alatt az első zápor elől; alaposan ellenőrizze a fékeket, mivel az itteni macskakő vizesen rendkívül csúszóssá és veszélyessé válik.",
                 "ro": "Căutați adăpost sub arcada porții de prima ploaie; verificați bine frânele, deoarece pavajul de aici devine extrem de alunecos și periculos când este ud.",
-                "en": "Seek shelter under the gate's arch from the first shower; check your brakes thoroughly as the cobblestones here become extremely slippery and dangerous when wet."
+                "en": "Seek shelter under the gate's arch from the first shower; check your brakes thoroughly as the cobblestones here become extremely slippery and dangerous when wet.",
+                "pt": "Procure abrigo sob o arco do portão ao primeiro aguaceiro; verifique bem os travões, pois os paralelos de calçada tornam‑se extremamente escorregadios e perigosos quando molhados."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Palácio de Dom Manuel",
                 "hu": "Dom Manuel Palota",
                 "ro": "Palatul Dom Manuel",
-                "en": "Palácio de Dom Manuel"
+                "en": "Palácio de Dom Manuel",
+                "pt": "Paço de D. Manuel"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad im überdachten Bereich und genießen Sie die Ausstellung im Trockenen; nutzen Sie die Zeit, um Ihre Kleidung für die nächste Etappe etwas zu trocknen.",
                 "hu": "Parkolja le a biciklit egy fedett részen, és élvezze a kiállítást szárazon; használja ki az időt, hogy megszárítsa a ruházatát a következő vizes szakasz előtt.",
                 "ro": "Parcați bicicleta într-o zonă acoperită și bucurați-vă de expoziție la uscat; profitați de timp pentru a vă usca hainele înainte de următoarea etapă umedă.",
-                "en": "Park your bike in a covered area and enjoy the exhibition in the dry; use the time to dry your gear a bit before the next wet leg of your journey."
+                "en": "Park your bike in a covered area and enjoy the exhibition in the dry; use the time to dry your gear a bit before the next wet leg of your journey.",
+                "pt": "Estacione a bicicleta numa área coberta e desfrute da exposição em seco; aproveite para secar um pouco o equipamento antes do próximo troço molhado da sua viagem."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Salão Central Eborense",
                 "hu": "Salão Central Eborense",
                 "ro": "Salão Central Eborense",
-                "en": "Salão Central Eborense"
+                "en": "Salão Central Eborense",
+                "pt": "Salão Central Eborense"
               },
               "tip_5lang": {
                 "de": "Dieser kulturelle Ort bietet perfekten Schutz vor anhaltendem Regen; vergewissern Sie sich, dass Ihr Fahrradschloss auch mit nassen Händen gut funktioniert.",
                 "hu": "Ez a kulturális helyszín tökéletes védelmet nyújt a tartós eső ellen; győződjön meg róla, hogy a kerékpárzár vizes kézzel is könnyen kezelhető és biztonságos.",
                 "ro": "Acest spațiu cultural oferă protecție perfectă împotriva ploii persistente; asigurați-vă că antifurtul bicicletei este ușor de manevrat chiar și cu mâinile ude.",
-                "en": "This cultural venue offers perfect protection from persistent rain; make sure your bike lock is easy to handle even with wet hands and remains secure."
+                "en": "This cultural venue offers perfect protection from persistent rain; make sure your bike lock is easy to handle even with wet hands and remains secure.",
+                "pt": "Este espaço cultural oferece protecção perfeita contra chuva persistente; certifique‑se de que o cadeado da sua bicicleta é fácil de manusear com as mãos molhadas e permanece seguro."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Igreja do Espírito Santo",
                 "hu": "Szentlélek templom",
                 "ro": "Biserica Sfântului Duh",
-                "en": "Igreja do Espírito Santo"
+                "en": "Igreja do Espírito Santo",
+                "pt": "Igreja do Espírito Santo"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Kirchenbesuch für eine trockene Pause und Gebet; achten Sie beim Absteigen auf die glatten Metallplatten am Boden vor dem Kircheneingang.",
                 "hu": "Használja ki a templomlátogatást egy száraz pihenőre; leszálláskor ügyeljen a bejárat előtti sima fémlemezekre vagy díszkövekre, amelyek vizesen nagyon csúsznak.",
                 "ro": "Folosiți vizita la biserică pentru o pauză uscată; la descălecare, atenție la plăcile metalice sau pietrele netede de la intrare care alunecă mult când sunt ude.",
-                "en": "Use the church visit for a dry break; when dismounting, watch out for smooth metal plates or decorative stones at the entrance which are very slippery when wet."
+                "en": "Use the church visit for a dry break; when dismounting, watch out for smooth metal plates or decorative stones at the entrance which are very slippery when wet.",
+                "pt": "Use a visita à igreja como uma pausa seca; ao desmontar, tenha cuidado com placas metálicas lisas ou pedras decorativas na entrada que se tornam muito escorregadias quando molhadas."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Palácio dos Condes de Basto",
                 "hu": "Basto grófjainak palotája",
                 "ro": "Palatul Conților de Basto",
-                "en": "Palácio dos Condes de Basto"
+                "en": "Palácio dos Condes de Basto",
+                "pt": "Palácio dos Condes de Basto"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Geschichte im Inneren, während das Rad draußen im Regen steht; eine wasserfeste Sattelabdeckung ist bei diesem Halt besonders nützlich.",
                 "hu": "Fedezze fel a belső terek történelmét, amíg a kerékpár kint áll az esőben; egy vízhatlan nyeregvédő huzat ennél a megállónál különösen hasznosnak bizonyul majd.",
                 "ro": "Explorați istoria interioară în timp ce bicicleta stă afară în ploaie; o husă impermeabilă pentru șa va fi extrem de utilă la această oprire prelungită.",
-                "en": "Explore the indoor history while the bike stays outside in the rain; a waterproof saddle cover will prove extremely useful at this extended stop."
+                "en": "Explore the indoor history while the bike stays outside in the rain; a waterproof saddle cover will prove extremely useful at this extended stop.",
+                "pt": "Explore a história interior enquanto a bicicleta fica fora na chuva; uma capa impermeável para o selim será extremamente útil nesta paragem prolongada."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Aquädukt der Silberwasser",
                 "hu": "Ezüstvíz vízvezeték",
                 "ro": "Apeductul Apei de Argint",
-                "en": "Aqueduto da Água de Prata"
+                "en": "Aqueduto da Água de Prata",
+                "pt": "Aqueduto da Água de Prata"
               },
               "tip_5lang": {
                 "de": "Radeln Sie unter den großen Bögen, um kurz trocken zu bleiben; halten Sie Abstand zu anderen Fahrzeugen, da der Bremsweg auf dem nassen Pflaster deutlich länger ist.",
                 "hu": "Tekerjen a hatalmas ívek alatt, hogy rövid ideig szárazon maradjon; tartson nagyobb követési távolságot, mert a fékút a vizes köveken jelentősen megnő.",
                 "ro": "Pedalați sub arcadele uriașe pentru a rămâne uscat scurt timp; păstrați o distanță mai mare față de vehicule, deoarece distanța de frânare crește mult pe piatră udă.",
-                "en": "Ride under the massive arches to stay dry for a short while; keep a larger following distance as braking distance on wet stone increases significantly."
+                "en": "Ride under the massive arches to stay dry for a short while; keep a larger following distance as braking distance on wet stone increases significantly.",
+                "pt": "Pedale debaixo dos arcos maciços para se manter seco por um curto período; mantenha maior distância de seguimento, pois a distância de travagem em pedra molhada aumenta significativamente."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Porta de Aviz",
                 "hu": "Aviz kapu",
                 "ro": "Poarta Aviz",
-                "en": "Porta de Aviz"
+                "en": "Porta de Aviz",
+                "pt": "Porta de Aviz"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour schnell und suchen Sie Schutz unter dem Tor; achten Sie auf tief hängende Zweige der nassen Bäume, die Ihnen beim Radeln ins Gesicht peitschen könnten.",
                 "hu": "Fejezze be gyorsan a túrát, és keressen menedéket a kapu alatt; ügyeljen a vizes fák belógó ágaira, amelyek tekerés közben az arcába csapódhatnak az esőben.",
                 "ro": "Încheiați rapid turul și căutați adăpost sub poartă; atenție la crengile lăsate ale copacilor uzi, care vă pot lovi fața în timp ce pedalați prin ploaie.",
-                "en": "Finish your tour quickly and seek shelter under the gate; watch out for low-hanging branches of wet trees that might lash your face while cycling in the rain."
+                "en": "Finish your tour quickly and seek shelter under the gate; watch out for low-hanging branches of wet trees that might lash your face while cycling in the rain.",
+                "pt": "Termine o seu passeio rapidamente e procure abrigo debaixo do arco; cuidado com os ramos baixos de árvores molhadas que podem bater-lhe na cara enquanto anda de bicicleta na chuva."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "An einem klaren Wintermorgen radeln wir frisch von der Porta do Raimundo los. Mittags wärmen wir uns im Palácio de Dom Manuel auf. Der Nachmittag bietet kulturelle Einblicke im Salão Central, bevor die Kälte anzieht. Wir beenden die Tour an der Porta de Aviz, genau wenn die Stadtmauer im frühen Abendlicht golden leuchtet.",
             "hu": "Egy tiszta téli reggelen frissen indulunk a Raimundo kaputól. Délben a Dom Manuel palota belső tereiben melegszünk fel a tekerés után. A délután kulturális élményeket tartogat a Salão Centralban, mielőtt a hideg esti szél feltámad. Az Aviz kapunál fejezzük be a túrát, épp amikor az alkonyi fények bearanyozzák a várfalat.",
             "ro": "Într-o dimineață senină de iarnă, pornim plini de energie de la Poarta Raimundo. La prânz, ne încălzim în interiorul Palatului Dom Manuel după pedalat. După-amiaza oferă experiențe culturale la Salão Central înainte să apară vântul rece de seară. Încheiem turul la Poarta Aviz exact când luminile amurgului auresc zidurile cetății.",
-            "en": "On a clear winter morning, we start fresh from Porta do Raimundo. At noon, we warm up in the interiors of the Dom Manuel Palace after our ride. The afternoon offers cultural experiences at Salão Central before the cold evening wind picks up. We finish the tour at Porta de Aviz just as the twilight lights gild the city walls."
+            "en": "On a clear winter morning, we start fresh from Porta do Raimundo. At noon, we warm up in the interiors of the Dom Manuel Palace after our ride. The afternoon offers cultural experiences at Salão Central before the cold evening wind picks up. We finish the tour at Porta de Aviz just as the twilight lights gild the city walls.",
+            "pt": "Numa manhã de inverno clara, começamos frescos na Porta do Raimundo. Ao meio-dia, aquecemo-nos no interior do Palácio de Dom Manuel após o passeio. A tarde oferece experiências culturais no Salão Central antes do vento frio da noite intensificar-se. Terminamos o tour na Porta de Aviz justo quando as luzes do crepúsculo douram as muralhas da cidade."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Porta do Raimundo",
                 "hu": "Raimundo kapu",
                 "ro": "Poarta Raimundo",
-                "en": "Porta do Raimundo"
+                "en": "Porta do Raimundo",
+                "pt": "Porta do Raimundo"
               },
               "tip_5lang": {
                 "de": "Tragen Sie windfeste Handschuhe für die erste Abfahrt am Morgen; die historische Struktur schützt vor dem kalten Nordwind, wenn Sie kurz für Fotos anhalten.",
                 "hu": "Viseljen szélálló kesztyűt a reggeli induláshoz; a történelmi kapu fala jól véd a hideg északi széltől, amíg megáll egy gyors fotóra a túra elején.",
                 "ro": "Purtați mănuși rezistente la vânt pentru pornirea de dimineață; zidul porții istorice oferă protecție contra vântului rece de nord cât timp faceți o poză rapidă.",
-                "en": "Wear windproof gloves for the morning start; the historical gate wall provides good protection from the cold north wind while you stop for a quick photo."
+                "en": "Wear windproof gloves for the morning start; the historical gate wall provides good protection from the cold north wind while you stop for a quick photo.",
+                "pt": "Use luvas corta-vento para a partida da manhã; a muralha histórica do portão oferece boa proteção contra o vento frio do norte enquanto faz uma paragem rápida para uma foto."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Palácio de Dom Manuel",
                 "hu": "Dom Manuel Palota",
                 "ro": "Palatul Dom Manuel",
-                "en": "Palácio de Dom Manuel"
+                "en": "Palácio de Dom Manuel",
+                "pt": "Palácio de Dom Manuel"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die warme Sonne im windgeschützten Innenhof; nutzen Sie den Halt, um die Glieder nach der Fahrt in der kühlen Winterluft wieder aufzuwärmen.",
                 "hu": "Élvezze a téli napsütést a szélvédett udvaron; használja ki a megállót, hogy átmozgassa és felmelegítse végtagjait a hűvös levegőn való tekerés után.",
                 "ro": "Bucurați-vă de soarele de iarnă în curtea ferită de vânt; folosiți oprirea pentru a vă mișca și încălzi membrele după pedalatul prin aerul rece.",
-                "en": "Enjoy the winter sun in the wind-sheltered courtyard; use the stop to move around and warm up your limbs after cycling through the cool air."
+                "en": "Enjoy the winter sun in the wind-sheltered courtyard; use the stop to move around and warm up your limbs after cycling through the cool air.",
+                "pt": "Desfrute do sol de inverno no pátio abrigado do vento; aproveite a paragem para mexer-se e aquecer os membros depois de pedalar pelo ar fresco."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Salão Central Eborense",
                 "hu": "Salão Central Eborense",
                 "ro": "Salão Central Eborense",
-                "en": "Salão Central Eborense"
+                "en": "Salão Central Eborense",
+                "pt": "Salão Central Eborense"
               },
               "tip_5lang": {
                 "de": "Die Innentemperatur ist ideal, um die Winterkälte kurz zu vergessen; parken Sie das Rad in der Sonne, damit der Sattel beim Aufsteigen nicht zu ausgekühlt ist.",
                 "hu": "A belső hőmérséklet ideális, hogy rövid időre elfelejtse a kinti hideget; parkolja a biciklit napos helyre, hogy a nyereg ne hűljön ki túlságosan a pihenő alatt.",
                 "ro": "Temperatura interioară este ideală pentru a uita scurt de frigul de afară; parcați bicicleta la soare pentru ca șaua să nu se răcească prea tare în timpul pauzei.",
-                "en": "The indoor temperature is ideal to briefly forget the cold outside; park your bike in a sunny spot so the saddle doesn't get too chilled during your rest."
+                "en": "The indoor temperature is ideal to briefly forget the cold outside; park your bike in a sunny spot so the saddle doesn't get too chilled during your rest.",
+                "pt": "A temperatura interior é ideal para esquecer brevemente o frio lá fora; estacione a sua bicicleta num local ensolarado para que o selim não fique demasiado frio durante o descanso."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Igreja do Espírito Santo",
                 "hu": "Szentlélek templom",
                 "ro": "Biserica Sfântului Duh",
-                "en": "Igreja do Espírito Santo"
+                "en": "Igreja do Espírito Santo",
+                "pt": "Igreja do Espírito Santo"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kirche am frühen Nachmittag für das beste Licht auf den Altären; achten Sie auf den schnellen Temperaturabfall, sobald Sie wieder aufs Rad steigen.",
                 "hu": "Látogassa meg a templomot kora délután a legjobb fényviszonyokért; ügyeljen a hirtelen hőmérséklet-csökkenésre, amint újra nyeregbe száll a belső meleg után.",
                 "ro": "Vizitați biserica după-amiaza devreme pentru cele mai bune condiții de lumină; atenție la scăderea bruscă de temperatură când vă urcați iar pe bicicletă.",
-                "en": "Visit the church in the early afternoon for the best lighting conditions; watch out for the sudden temperature drop as soon as you get back in the saddle."
+                "en": "Visit the church in the early afternoon for the best lighting conditions; watch out for the sudden temperature drop as soon as you get back in the saddle.",
+                "pt": "Visite a igreja ao início da tarde para as melhores condições de luz; atenção à queda súbita de temperatura assim que voltar a montar a bicicleta."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Palácio dos Condes de Basto",
                 "hu": "Basto grófjainak palotája",
                 "ro": "Palatul Conților de Basto",
-                "en": "Palácio dos Condes de Basto"
+                "en": "Palácio dos Condes de Basto",
+                "pt": "Palácio dos Condes de Basto"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern bieten eine stabile, wenn auch kühle Umgebung; beeilen Sie sich mit der Besichtigung, um das Tageslicht für die restliche Radstrecke zu nutzen.",
                 "hu": "A vastag falak stabil, bár hűvös környezetet biztosítanak; igyekezzen a látogatással, hogy kihasználja a maradék nappali fényt a túra utolsó szakaszához.",
                 "ro": "Pereții groși asigură un mediu stabil, deși răcoros; grăbiți vizita pentru a profita de lumina rămasă a zilei pentru ultima etapă a traseului pe bicicletă.",
-                "en": "The thick walls provide a stable, though cool, environment; hurry with the visit to make the most of the remaining daylight for the final leg of your ride."
+                "en": "The thick walls provide a stable, though cool, environment; hurry with the visit to make the most of the remaining daylight for the final leg of your ride.",
+                "pt": "As paredes espessas proporcionam um ambiente estável, embora frio; apresse a visita para aproveitar ao máximo a luz do dia restante na etapa final do passeio."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Aquädukt der Silberwasser",
                 "hu": "Ezüstvíz vízvezeték",
                 "ro": "Apeductul Apei de Argint",
-                "en": "Aqueduto da Água de Prata"
+                "en": "Aqueduto da Água de Prata",
+                "pt": "Aqueduto da Água de Prata"
               },
               "tip_5lang": {
                 "de": "Fahren Sie zügig, da der Wind im Winter zwischen den Bögen des Aquädukts stark wehen kann; die tiefstehende Wintersonne wirft hier faszinierende lange Schatten.",
                 "hu": "Haladjon tempósan, mivel a szél télen felerősödhet az akvadukt ívei között; az alacsonyan járó téli nap lenyűgöző hosszú árnyékokat vet a monumentális építményre.",
                 "ro": "Pedalați în ritm susținut, deoarece vântul se poate intensifica între arcade iarna; soarele jos de iarnă proiectează umbre lungi fascinante pe structura monumentală.",
-                "en": "Ride at a steady pace as the wind can pick up between the arches in winter; the low winter sun casts fascinating long shadows on the monumental structure."
+                "en": "Ride at a steady pace as the wind can pick up between the arches in winter; the low winter sun casts fascinating long shadows on the monumental structure.",
+                "pt": "Pedale a um ritmo constante, pois o vento pode aumentar entre os arcos no inverno; o baixo sol de inverno projecta sombras longas e fascinantes na estrutura monumental."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Porta de Aviz",
                 "hu": "Aviz kapu",
                 "ro": "Poarta Aviz",
-                "en": "Porta de Aviz"
+                "en": "Porta de Aviz",
+                "pt": "Porta de Aviz"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour vor Sonnenuntergang um 17:00 Uhr, wenn es schnell abkühlt; die beleuchtete Porta de Aviz ist ein perfekter Ort für ein letztes Winterfoto.",
                 "hu": "Fejezze be a túrát naplemente előtt, 17:00 körül, mert utána hirtelen lehűl a levegő; a kivilágított Aviz kapu tökéletes helyszín az utolsó téli emlékfotóhoz.",
                 "ro": "Încheiați turul înainte de apus, în jur de 17:00, deoarece temperatura scade brusc; Poarta Aviz iluminată este locul perfect pentru o ultimă fotografie de iarnă.",
-                "en": "Finish your tour before sunset around 5:00 PM as it cools down rapidly; the illuminated Porta de Aviz is a perfect spot for one last winter souvenir photo."
+                "en": "Finish your tour before sunset around 5:00 PM as it cools down rapidly; the illuminated Porta de Aviz is a perfect spot for one last winter souvenir photo.",
+                "pt": "Termine o seu tour antes do pôr do sol por volta das 17:00, pois arrefece rapidamente; a Porta de Aviz iluminada é o spot perfeito para uma última foto-souvenir de inverno."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Forte de Santo António da Piedade",
             "hu": "Santo António da Piedade erőd",
             "ro": "Fortul Santo António da Piedade",
-            "en": "Forte de Santo António da Piedade"
+            "en": "Forte de Santo António da Piedade",
+            "pt": "Forte de Santo António da Piedade"
           },
           "coords": [
             -7.915648,
@@ -775,7 +860,8 @@
             "de": "Diese sternförmige Festung bot einst Schutz und bietet heute fantastische Ausblicke; ein Spaziergang auf den Wällen ist ideal für weitreichende Panoramafotos.",
             "hu": "Ez a csillag alakú erőd egykor védelmet nyújtott, ma pedig fantasztikus kilátást kínál; a sáncokon tett séta ideális a szélesvásznú panorámafotók készítéséhez.",
             "ro": "Această fortăreață în formă de stea oferea protecție, iar azi oferă priveliști fantastice; o plimbare pe metereze este ideală pentru fotografii panoramice largi.",
-            "en": "This star-shaped fortress once provided crucial protection and now offers fantastic views; a walk along the ramparts is ideal for taking wide panoramic photographs."
+            "en": "This star-shaped fortress once provided crucial protection and now offers fantastic views; a walk along the ramparts is ideal for taking wide panoramic photographs.",
+            "pt": "Esta fortaleza em forma de estrela oferecia proteção crucial e agora oferece vistas fantásticas; um passeio pelas ameias é ideal para tirar fotografias panorâmicas amplas."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Porta de Aviz",
             "hu": "Aviz kapu",
             "ro": "Poarta Aviz",
-            "en": "Porta de Aviz"
+            "en": "Porta de Aviz",
+            "pt": "Porta de Aviz"
           },
           "coords": [
             -7.910341,
@@ -798,7 +885,8 @@
             "de": "Ein weiteres markantes Tor der mittelalterlichen Stadtmauer, das viel Geschichte atmet; die angrenzenden Straßen eignen sich hervorragend für eine kleine Kaffeepause.",
             "hu": "A középkori városfal egy másik kiemelkedő kapuja, amelyből árad a történelem; a szomszédos utcák hangulatos kávézói tökéletesek egy rövid pihenőhöz.",
             "ro": "O altă poartă proeminentă a zidului medieval care respiră multă istorie; străduțele adiacente sunt excelente pentru o scurtă pauză de cafea relaxantă.",
-            "en": "Another prominent gate of the medieval city wall that breathes centuries of history; the adjacent streets are perfectly suited for a short, relaxing coffee break."
+            "en": "Another prominent gate of the medieval city wall that breathes centuries of history; the adjacent streets are perfectly suited for a short, relaxing coffee break.",
+            "pt": "Outro portão proeminente da muralha medieval que respira séculos de história; as ruas adjacentes são perfeitas para uma curta pausa relaxante para um café."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Junta de Freguesia de São Mamede",
             "hu": "São Mamede plébánia",
             "ro": "Junta de Freguesia de São Mamede",
-            "en": "Junta de Freguesia de São Mamede"
+            "en": "Junta de Freguesia de São Mamede",
+            "pt": "Junta de Freguesia de São Mamede"
           },
           "coords": [
             -7.909425,
@@ -821,7 +910,8 @@
             "de": "Dieses Gebäude ist tief in der lokalen Verwaltungstradition verwurzelt und architektonisch reizvoll; betrachten Sie die traditionelle portugiesische Fassadengestaltung.",
             "hu": "Az épület mélyen gyökerezik a helyi közigazgatási hagyományokban és építészetileg is vonzó; figyelje meg a hagyományos portugál homlokzattervezés elemeit.",
             "ro": "Această clădire este adânc înrădăcinată în tradiția administrativă locală, fiind fermecătoare; observați cu atenție designul tradițional al fațadei portugheze.",
-            "en": "This building is deeply rooted in local administrative tradition and architecturally charming; observe the traditional Portuguese facade design and its elegant details."
+            "en": "This building is deeply rooted in local administrative tradition and architecturally charming; observe the traditional Portuguese facade design and its elegant details.",
+            "pt": "Este edifício está profundamente enraizado na tradição administrativa local e é arquitetonicamente encantador; observe o design tradicional da fachada portuguesa e os seus pormenores elegantes."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Teatro Garcia de Resende",
             "hu": "Garcia de Resende Színház",
             "ro": "Teatrul Garcia de Resende",
-            "en": "Teatro Garcia de Resende"
+            "en": "Teatro Garcia de Resende",
+            "pt": "Teatro Garcia de Resende"
           },
           "coords": [
             -7.913304,
@@ -844,7 +935,8 @@
             "de": "Das prachtvolle Theater aus dem 19. Jahrhundert ist der Stolz der Stadt; prüfen Sie, ob eine Führung angeboten wird, um den eleganten Zuschauerraum zu sehen.",
             "hu": "A 19. századi pompás színház a város büszkesége; érdeklődjön az esetleges vezetett túrákról, hogy megcsodálhassa az elegáns, történelmi nézőteret.",
             "ro": "Teatrul magnific din secolul al XIX-lea reprezintă mândria orașului; verificați dacă există tururi ghidate pentru a putea vedea sala de spectacole elegantă.",
-            "en": "This magnificent 19th-century theater is the pride of the city; check if there is a guided tour available to fully appreciate the elegant auditorium interior."
+            "en": "This magnificent 19th-century theater is the pride of the city; check if there is a guided tour available to fully appreciate the elegant auditorium interior.",
+            "pt": "Este magnífico teatro do século XIX é o orgulho da cidade; verifique se há uma visita guiada disponível para apreciar totalmente o elegante interior do auditório."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Knochenkapelle",
             "hu": "Csontkápolna",
             "ro": "Capela Oaselor",
-            "en": "Chapel of Bones"
+            "en": "Chapel of Bones",
+            "pt": "Chapel of Bones"
           },
           "coords": [
             -7.908371,
@@ -867,7 +960,8 @@
             "de": "Diese unheimliche, aber faszinierende Kapelle ist mit menschlichen Knochen verziert, um an die Vergänglichkeit zu erinnern; kommen Sie früh, um den großen Menschenmassen auszuweichen.",
             "hu": "Ez hátborzongató, de lenyűgöző kápolna emberi csontokkal díszített, emlékeztetve a mulandóságra; érdemes korán érkezni a turistatömegek elkerülése végett.",
             "ro": "Această capelă stranie, împodobită cu oase umane, amintește de natura trecătoare a vieții; vizitați-o dis-de-dimineață pentru a evita grupurile mari de turiști.",
-            "en": "This eerie yet fascinating chapel is adorned with human bones to remind us of life's transience; arrive early in the morning to avoid the largest tourist crowds."
+            "en": "This eerie yet fascinating chapel is adorned with human bones to remind us of life's transience; arrive early in the morning to avoid the largest tourist crowds.",
+            "pt": "Esta capela arrepiante mas fascinante está adornada com ossos humanos para nos lembrar da transitoriedade da vida; chegue cedo de manhã para evitar as maiores multidões de turistas."
           }
         }
       ],
@@ -875,7 +969,8 @@
         "de": "Die Fahrt beginnt an der wehrhaften Festung Santo António im Norden der Stadt. Danach steuern Sie das Aviz-Tor und historische Verwaltungsgebäude an. Nachmittags erwartet Sie die kulturelle Pracht des historischen Theaters der Stadt. Der Ausflug findet seinen epischen Abschluss an der berühmten Knochenkapelle.",
         "hu": "Az autós túra a város északi részén található Santo António erődítménytől indul. Ezután az Aviz kapu és a történelmi közigazgatási épületek következnek. Délután a történelmi színház kulturális pompája várja. A kirándulás epikus befejezése a világhírű és elgondolkodtató Csontkápolna felfedezése lesz.",
         "ro": "Călătoria cu mașina începe la impunătoarea fortăreață Santo António din nordul orașului. Ulterior, vă veți îndrepta spre poarta Aviz și clădirile administrative. După-amiaza vă așteaptă splendoarea culturală a teatrului istoric. Excursia se încheie cu o vizită memorabilă la celebra și fascinanta Capelă a Oaselor.",
-        "en": "The drive begins at the formidable Santo António fortress in the north of the city. Afterwards, you will head towards the Aviz gate and historical administrative buildings. The afternoon reveals the cultural splendor of the historical theater. Your trip reaches its epic conclusion at the world-famous Chapel of Bones."
+        "en": "The drive begins at the formidable Santo António fortress in the north of the city. Afterwards, you will head towards the Aviz gate and historical administrative buildings. The afternoon reveals the cultural splendor of the historical theater. Your trip reaches its epic conclusion at the world-famous Chapel of Bones.",
+        "pt": "A viagem começa na formidável fortaleza de Santo António, no norte da cidade. Depois, seguirá em direcção à Porta de Aviz e aos edifícios administrativos históricos. A tarde revela o esplendor cultural do teatro histórico. A sua viagem atinge a épica conclusão na mundialmente famosa Chapel of Bones."
       },
       "variants": {
         "rainy": {
@@ -883,7 +978,8 @@
             "de": "Wir starten gemütlich am Forte de Santo António, während der Regen auf das Autodach trommelt. Mittags fahren wir zur Porta de Aviz für einen kurzen Blick aus dem trockenen Wagen. Der Nachmittag gehört der Kapelle von São Mamede und dem Theater, ideale Indoor-Ziele. Den Tag schließen wir sicher in der Knochenkapelle ab, weit weg vom nassen Wetter.",
             "hu": "Kényelmesen indulunk a Santo António erődnél, miközben az eső kopog a kocsi tetején. Délben az Aviz kapuhoz hajtunk, ahonnan szárazon is megcsodálhatjuk a falakat. A délután a São Mamede plébánia és a színház belső tereiben telik, ami ideális menedék. A napot a Csontkápolnában zárjuk, távol a barátságtalan, esős időtől.",
             "ro": "Pornim confortabil de la Fortul Santo António în timp ce ploaia bate în plafonul mașinii. La prânz conducem spre Poarta Aviz, de unde putem admira zidurile stând la uscat. După-amiaza se petrece în interiorul parohiei São Mamede și al teatrului, adăposturi ideale. Încheiem ziua la Capela Oaselor, departe de vremea neprietenoasă.",
-            "en": "We start comfortably at Forte de Santo António while rain drums on the car roof. At noon, we drive to Porta de Aviz, admiring the walls from the dry vehicle. The afternoon is spent inside São Mamede parish and the theater, ideal indoor refuges. We close the day at the Chapel of Bones, far away from the unfriendly, rainy weather outside."
+            "en": "We start comfortably at Forte de Santo António while rain drums on the car roof. At noon, we drive to Porta de Aviz, admiring the walls from the dry vehicle. The afternoon is spent inside São Mamede parish and the theater, ideal indoor refuges. We close the day at the Chapel of Bones, far away from the unfriendly, rainy weather outside.",
+            "pt": "Começamos confortavelmente no Forte de Santo António enquanto a chuva tamborila no tecto do carro. Ao meio-dia, seguimos para a Porta de Aviz, admirando as muralhas a partir do veículo seco. A tarde passa-se no interior de São Mamede e do teatro, refúgios interiores ideais. Fechamos o dia na Chapel of Bones, longe do tempo chuvoso e desagradável lá fora."
           },
           "stops": [
             {
@@ -891,13 +987,15 @@
                 "de": "Forte de Santo António da Piedade",
                 "hu": "Santo António da Piedade erőd",
                 "ro": "Fortul Santo António da Piedade",
-                "en": "Forte de Santo António da Piedade"
+                "en": "Forte de Santo António da Piedade",
+                "pt": "Forte de Santo António da Piedade"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; genießen Sie den Blick auf die regenverhangene Stadt direkt aus dem trockenen Innenraum Ihres Autos.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az elázást; élvezze a kilátást az eső áztatta városra közvetlenül az autója száraz és meleg utasteréből.",
                 "ro": "Parcați cât mai aproape de intrare pentru a evita udarea; bucurați-vă de vederea spre orașul acoperit de ploaie direct din interiorul uscat și cald al mașinii.",
-                "en": "Park as close to the entrance as possible to avoid getting wet; enjoy the view of the rain-shrouded city directly from the dry and warm interior of your car."
+                "en": "Park as close to the entrance as possible to avoid getting wet; enjoy the view of the rain-shrouded city directly from the dry and warm interior of your car.",
+                "pt": "Estacione o mais perto possível da entrada para evitar molhar-se; desfrute da vista da cidade envolta de chuva directamente do interior seco e quente do seu carro."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Porta de Aviz",
                 "hu": "Aviz kapu",
                 "ro": "Poarta Aviz",
-                "en": "Porta de Aviz"
+                "en": "Porta de Aviz",
+                "pt": "Porta de Aviz"
               },
               "tip_5lang": {
                 "de": "Machen Sie ein schnelles Foto durch das Fenster oder bei einer Regenpause; achten Sie beim Aussteigen auf die großen Pfützen, die sich oft in den Fahrrinnen sammeln.",
                 "hu": "Készítsen egy gyors fotót az ablakon keresztül vagy egy rövid esőszünetben; kiszálláskor ügyeljen a mély tócsákra, amelyek gyakran összegyűlnek az út menti keréknyomokban.",
                 "ro": "Faceți o poză rapidă prin geam sau într-o scurtă pauză de ploaie; la coborâre, atenție la bălțile mari care se adună adesea în șanțurile de pe marginea drumului.",
-                "en": "Take a quick photo through the window or during a brief rain break; watch out for large puddles that often gather in the roadside ruts when getting out of the car."
+                "en": "Take a quick photo through the window or during a brief rain break; watch out for large puddles that often gather in the roadside ruts when getting out of the car.",
+                "pt": "Faça uma foto rápida através da janela ou durante uma breve trégua da chuva; cuidado com poças grandes que frequentemente se acumulam nas ruturas da berma ao sair do carro."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Junta de Freguesia de São Mamede",
                 "hu": "São Mamede plébánia",
                 "ro": "Junta de Freguesia de São Mamede",
-                "en": "Junta de Freguesia de São Mamede"
+                "en": "Junta de Freguesia de São Mamede",
+                "pt": "Junta de Freguesia de São Mamede"
               },
               "tip_5lang": {
                 "de": "Die historischen Hallen bieten einen hervorragenden Schutz vor heftigen Schauern; nutzen Sie die Parkplätze in der Nähe, um den Fußweg im Regen so kurz wie möglich zu halten.",
                 "hu": "A történelmi csarnokok kiváló védelmet nyújtanak a heves záporok elől; használja a közeli parkolóhelyeket, hogy a lehető legrövidebbre csökkentse az esőben való gyaloglást.",
                 "ro": "Sălile istorice oferă o protecție excelentă împotriva averselor torențiale; folosiți locurile de parcare din apropiere pentru a minimiza timpul de mers prin ploaie.",
-                "en": "The historical halls offer excellent protection from heavy showers; use the nearby parking spots to keep your walking time in the rain as short as possible."
+                "en": "The historical halls offer excellent protection from heavy showers; use the nearby parking spots to keep your walking time in the rain as short as possible.",
+                "pt": "Os salões históricos oferecem excelente protecção contra aguaceiros fortes; use os lugares de estacionamento próximos para manter o tempo a andar na chuva o mais curto possível."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Teatro Garcia de Resende",
                 "hu": "Garcia de Resende Színház",
                 "ro": "Teatrul Garcia de Resende",
-                "en": "Teatro Garcia de Resende"
+                "en": "Teatro Garcia de Resende",
+                "pt": "Teatro Garcia de Resende"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die prachtvolle Innenausstattung des Theaters als trockenes Highlight; ein Regenschirm ist für den kurzen Weg vom Parkplatz zum Haupteingang trotzdem unerlässlich.",
                 "hu": "Csodálja meg a színház pompás belső terét, amely a túra egyik legszebb száraz állomása; a parkolótól a főbejáratig tartó rövid útra azért egy esernyő mindenképpen szükséges.",
                 "ro": "Admirați interiorul splendid al teatrului ca punct culminant uscat al turului; o umbrelă este totuși indispensabilă pentru scurta distanță de la parcare la intrare.",
-                "en": "Admire the theater's splendid interior as a dry highlight of the tour; an umbrella is still essential for the short walk from the parking lot to the main entrance."
+                "en": "Admire the theater's splendid interior as a dry highlight of the tour; an umbrella is still essential for the short walk from the parking lot to the main entrance.",
+                "pt": "Admire o esplêndido interior do teatro como um destaque seco do passeio; um guarda-chuva é ainda essencial para a curta caminhada do estacionamento até a entrada principal."
               }
             },
             {
@@ -947,13 +1051,15 @@
                 "de": "Knochenkapelle",
                 "hu": "Csontkápolna",
                 "ro": "Capela Oaselor",
-                "en": "Chapel of Bones"
+                "en": "Chapel of Bones",
+                "pt": "Chapel of Bones"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag im trockenen Inneren dieser faszinierenden Kapelle; prüfen Sie die Wetter-App für die Rückfahrt, da die Sicht bei starkem Regen in der Dämmerung abnimmt.",
                 "hu": "Zárja a napot e lenyűgöző kápolna száraz belső terében; ellenőrizze az időjárást a hazatérés előtt, mert a látási viszonyok heves esőben és szürkületben sokat romlanak.",
                 "ro": "Încheiați ziua în interiorul uscat al acestei capele fascinante; verificați prognoza înainte de plecare, deoarece vizibilitatea scade mult pe ploaie torențială și amurg.",
-                "en": "End the day in the dry interior of this fascinating chapel; check the weather app for the return drive as visibility decreases significantly in heavy rain and dusk."
+                "en": "End the day in the dry interior of this fascinating chapel; check the weather app for the return drive as visibility decreases significantly in heavy rain and dusk.",
+                "pt": "Termine o dia no interior seco desta capela fascinante; verifique a aplicação meteorológica para a viagem de regresso, pois a visibilidade diminui significativamente em chuva forte e ao anoitecer."
               }
             }
           ]
@@ -963,7 +1069,8 @@
             "de": "Am kühlen Wintermorgen genießen wir die Fahrt zum Forte de Santo António in der beheizten Kabine. Mittags besichtigen wir die Porta de Aviz und São Mamede, wobei wir die kurzen Wege schätzen. Der Nachmittag im warmen Theater ist ein Genuss. Wir beenden die Tour an der Knochenkapelle, kurz bevor die winterliche Dunkelheit Évora in ein geheimnisvolles Licht taucht.",
             "hu": "A hűvös téli reggelen élvezzük a Santo António erőd felé vezető utat a fűtött autóban. Délben az Aviz kaput és a São Mamede plébániát nézzük meg, értékelve a rövid gyalogutakat. A délután a meleg színházban igazi felüdülés. A napot a Csontkápolnánál zárjuk, mielőtt a téli sötétség titokzatos fénybe burkolná Évora városát.",
             "ro": "În dimineața rece de iarnă ne bucurăm de drumul spre Fortul Santo António în cabina încălzită. La prânz vizităm Poarta Aviz și São Mamede, apreciind distanțele scurte de mers. După-amiaza în teatrul călduros este o plăcere. Încheiem la Capela Oaselor, înainte ca întunericul iernii să îmbrace Évora în lumină misterioasă.",
-            "en": "On a cool winter morning, we enjoy the drive to Forte de Santo António in the heated cabin. At noon, we visit Porta de Aviz and São Mamede, appreciating the short walking distances. The afternoon in the warm theater is a treat. We end at the Chapel of Bones just before the winter darkness wraps Évora in a mysterious light."
+            "en": "On a cool winter morning, we enjoy the drive to Forte de Santo António in the heated cabin. At noon, we visit Porta de Aviz and São Mamede, appreciating the short walking distances. The afternoon in the warm theater is a treat. We end at the Chapel of Bones just before the winter darkness wraps Évora in a mysterious light.",
+            "pt": "Numa fresca manhã de inverno, desfrutamos da viagem até ao Forte de Santo António na cabina aquecida. Ao meio-dia, visitamos a Porta de Aviz e São Mamede, apreciando as curtas distâncias a pé. A tarde no teatro aquecido é um mimo. Terminamos na Chapel of Bones pouco antes da escuridão de inverno envolver Évora numa luz misteriosa."
           },
           "stops": [
             {
@@ -971,13 +1078,15 @@
                 "de": "Forte de Santo António da Piedade",
                 "hu": "Santo António da Piedade erőd",
                 "ro": "Fortul Santo António da Piedade",
-                "en": "Forte de Santo António da Piedade"
+                "en": "Forte de Santo António da Piedade",
+                "pt": "Forte de Santo António da Piedade"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Heizung Ihres Autos, um sich zwischen den Besichtigungen aufzuwärmen; die klare Winterluft bietet am Morgen eine hervorragende Fernsicht von der Festung.",
                 "hu": "Használja autója fűtését, hogy felmelegedjen a rövid várlátogatás után; a tiszta téli levegő reggelente kiváló távoli kilátást biztosít az erőd magasabb pontjairól.",
                 "ro": "Folosiți încălzirea mașinii pentru a vă încălzi după vizitarea fortului; aerul curat de iarnă oferă dimineața o vizibilitate excelentă la distanță de pe zidurile cetății.",
-                "en": "Use your car's heater to warm up between site visits; the clear winter air offers excellent long-distance visibility from the fortress ramparts in the morning."
+                "en": "Use your car's heater to warm up between site visits; the clear winter air offers excellent long-distance visibility from the fortress ramparts in the morning.",
+                "pt": "Use o aquecedor do seu carro para se aquecer entre visitas; o ar claro de inverno oferece excelente visibilidade de longa distância a partir das ameias da fortaleza pela manhã."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Porta de Aviz",
                 "hu": "Aviz kapu",
                 "ro": "Poarta Aviz",
-                "en": "Porta de Aviz"
+                "en": "Porta de Aviz",
+                "pt": "Porta de Aviz"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz an, um das Tor im tiefstehenden Sonnenlicht zu bewundern; die Parkplätze sind im Winter weniger belegt, was einen schnellen Stopp für Fotos erleichtert.",
                 "hu": "Álljon meg rövid időre, hogy megcsodálja a kaput az alacsony téli napsütésben; a parkolóhelyek télen kevésbé zsúfoltak, így könnyebben megállhat egy gyors fotóra.",
                 "ro": "Opriți scurt pentru a admira poarta în lumina joasă a soarelui de iarnă; locurile de parcare sunt mai libere iarna, facilitând o oprire rapidă pentru fotografii.",
-                "en": "Stop for a short time to admire the gate in the low winter sunlight; parking spots are less crowded in winter, making it easier to pull over for a quick photo."
+                "en": "Stop for a short time to admire the gate in the low winter sunlight; parking spots are less crowded in winter, making it easier to pull over for a quick photo.",
+                "pt": "Pare por pouco tempo para admirar o portão na luz baixa do sol de inverno; os lugares de estacionamento estão menos concorridos no inverno, facilitando estacionar para uma foto rápida."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Junta de Freguesia de São Mamede",
                 "hu": "São Mamede plébánia",
                 "ro": "Junta de Freguesia de São Mamede",
-                "en": "Junta de Freguesia de São Mamede"
+                "en": "Junta de Freguesia de São Mamede",
+                "pt": "Junta de Freguesia de São Mamede"
               },
               "tip_5lang": {
                 "de": "Die massiven Steinwände können innen sehr kühl sein, behalten Sie Ihren Mantel an; genießen Sie die historische Stille, die im Winter ohne Touristenmassen herrscht.",
                 "hu": "A masszív kőfalak belül nagyon hidegek lehetnek, így ne vegye le a kabátját; élvezze a történelmi csendet, amely télen, a turistatömegek nélkül uralkodik az épületben.",
                 "ro": "Zidurile masive de piatră pot fi reci la interior, așa că nu vă dați jos haina; bucurați-vă de liniștea istorică ce domină clădirea iarna, fără mulțimi de turiști.",
-                "en": "The massive stone walls can be very cold inside, so keep your coat on; enjoy the historical silence that prevails in winter without the usual crowds of tourists."
+                "en": "The massive stone walls can be very cold inside, so keep your coat on; enjoy the historical silence that prevails in winter without the usual crowds of tourists.",
+                "pt": "As paredes de pedra maciça podem estar muito frias no interior, por isso mantenha o casaco; desfrute do silêncio histórico que prevalece no inverno sem as habituais multidões de turistas."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Teatro Garcia de Resende",
                 "hu": "Garcia de Resende Színház",
                 "ro": "Teatrul Garcia de Resende",
-                "en": "Teatro Garcia de Resende"
+                "en": "Teatro Garcia de Resende",
+                "pt": "Teatro Garcia de Resende"
               },
               "tip_5lang": {
                 "de": "Das Theater ist ein herrlich warmer Ort für eine längere Pause am Nachmittag; prüfen Sie den Spielplan für winterliche Aufführungen, die oft am frühen Abend beginnen.",
                 "hu": "A színház kellemesen meleg helyszín egy hosszabb délutáni pihenőhöz; ellenőrizze a műsort a téli előadásokért, amelyek gyakran már kora este elkezdődnek.",
                 "ro": "Teatrul este un loc plăcut și cald pentru o pauză mai lungă după-amiaza; verificați programul pentru spectacole de iarnă care încep adesea devreme seara.",
-                "en": "The theater is a delightfully warm venue for a longer afternoon break; check the schedule for winter performances which often begin in the early evening hours."
+                "en": "The theater is a delightfully warm venue for a longer afternoon break; check the schedule for winter performances which often begin in the early evening hours.",
+                "pt": "O teatro é um local deliciosamente quente para uma pausa mais longa à tarde; consulte a programação para espectáculos de inverno que frequentemente começam no início da noite."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Knochenkapelle",
                 "hu": "Csontkápolna",
                 "ro": "Capela Oaselor",
-                "en": "Chapel of Bones"
+                "en": "Chapel of Bones",
+                "pt": "Chapel of Bones"
               },
               "tip_5lang": {
                 "de": "Die Kapelle wirkt in der frühen winterlichen Dämmerung noch mystischer; achten Sie auf die Öffnungszeiten, da diese in der Nebensaison oft etwas früher enden.",
                 "hu": "A kápolna a korai téli szürkületben még misztikusabb hangulatot áraszt; ügyeljen a nyitvatartási időre, mivel főszezonon kívül gyakran korábban zárnak a múzeumok.",
                 "ro": "Capela pare și mai mistică în amurgul timpuriu de iarnă; atenție la programul de vizitare, deoarece în afara sezonului muzeele se închid adesea ceva mai devreme.",
-                "en": "The chapel feels even more mystical in the early winter dusk; pay attention to the opening hours as they often end slightly earlier during the low season."
+                "en": "The chapel feels even more mystical in the early winter dusk; pay attention to the opening hours as they often end slightly earlier during the low season.",
+                "pt": "A capela parece ainda mais mística no início do crepúsculo invernal; preste atenção aos horários de abertura, pois costumam terminar um pouco mais cedo durante a baixa temporada."
               }
             }
           ]

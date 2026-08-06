@@ -21,7 +21,8 @@
             "de": "Judiaria (Jüdisches Viertel)",
             "hu": "Judiaria (Zsidónegyed)",
             "ro": "Judiaria (Cartierul Evreiesc)",
-            "en": "Judiaria (Jewish Quarter)"
+            "en": "Judiaria (Jewish Quarter)",
+            "pt": "Judiaria (Bairro Judeu)"
           },
           "coords": [
             -7.3485,
@@ -36,7 +37,8 @@
             "de": "Verlieren Sie sich in den engen Gassen mit ihren Granithäusern und versteckten Symbolen.",
             "hu": "Tévedjen el a gránitházakkal és rejtett szimbólumokkal teli szűk utcácskákban.",
             "ro": "Pierdeți-vă pe străduțele înguste cu case de granit și simboluri ascunse.",
-            "en": "Get lost in the narrow streets with their granite houses and hidden symbols."
+            "en": "Get lost in the narrow streets with their granite houses and hidden symbols.",
+            "pt": "Perca‑se pelas ruas estreitas com as suas casas de granito e símbolos ocultos."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Statue von Pedro Álvares Cabral",
             "hu": "Pedro Álvares Cabral szobra",
             "ro": "Statuia lui Pedro Álvares Cabral",
-            "en": "Statue of Pedro Álvares Cabral"
+            "en": "Statue of Pedro Álvares Cabral",
+            "pt": "Estátua de Pedro Álvares Cabral"
           },
           "coords": [
             -7.3495,
@@ -59,7 +62,8 @@
             "de": "Ein Foto mit dem Entdecker Brasiliens ist ein Muss. Die Statue überblickt die Stadt.",
             "hu": "Egy fotó Brazília felfedezőjével kötelező. A szobor a városra néz.",
             "ro": "O fotografie cu descoperitorul Braziliei este obligatorie. Statuia domină orașul.",
-            "en": "A photo with the discoverer of Brazil is a must. The statue overlooks the town."
+            "en": "A photo with the discoverer of Brazil is a must. The statue overlooks the town.",
+            "pt": "Uma foto com o descobridor do Brasil é obrigatória. A estátua domina a vila."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Synagoge Bet Eliahu",
             "hu": "Bet Eliahu zsinagóga",
             "ro": "Sinagoga Bet Eliahu",
-            "en": "Bet Eliahu Synagogue"
+            "en": "Bet Eliahu Synagogue",
+            "pt": "Bet Eliahu Sinagoga"
           },
           "coords": [
             -7.3482,
@@ -82,7 +87,8 @@
             "de": "Die moderne Synagoge symbolisiert die Widerstandsfähigkeit der jüdischen Gemeinde von Belmonte.",
             "hu": "A modern zsinagóga Belmonte zsidó közösségének szívósságát szimbolizálja.",
             "ro": "Sinagoga modernă simbolizează reziliența comunității evreiești din Belmonte.",
-            "en": "The modern synagogue symbolizes the resilience of Belmonte's Jewish community."
+            "en": "The modern synagogue symbolizes the resilience of Belmonte's Jewish community.",
+            "pt": "A sinagoga moderna simboliza a resiliência da comunidade judaica de Belmonte."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Jüdisches Museum",
             "hu": "Zsidó Múzeum",
             "ro": "Muzeul Evreiesc",
-            "en": "Jewish Museum"
+            "en": "Jewish Museum",
+            "pt": "Museu Judaico"
           },
           "coords": [
             -7.348,
@@ -105,7 +112,8 @@
             "de": "Erfahren Sie mehr über die Kryptojuden und ihre jahrhundertelange Geschichte der Geheimhaltung.",
             "hu": "Ismerje meg a kripto-zsidók és titoktartásuk évszázados történetét.",
             "ro": "Aflați despre cripto-evrei și istoria lor de secole de secrete.",
-            "en": "Learn about the Crypto-Jews and their centuries-long history of secrecy."
+            "en": "Learn about the Crypto-Jews and their centuries-long history of secrecy.",
+            "pt": "Saiba mais sobre os cristãos-novos e a sua história secular de segredo."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche von Santiago und Pantheon der Cabrals",
             "hu": "Santiago-templom és a Cabral család panteonja",
             "ro": "Biserica Santiago și Panteonul familiei Cabral",
-            "en": "Church of Santiago and Pantheon of the Cabrals"
+            "en": "Church of Santiago and Pantheon of the Cabrals",
+            "pt": "Igreja de Santiago e Panteão dos Cabrals"
           },
           "coords": [
             -7.3499,
@@ -128,7 +137,8 @@
             "de": "Beherbergt eine wunderschöne Pietà-Skulptur und ist Teil des Jakobswegs.",
             "hu": "Egy gyönyörű Pietà-szobornak ad otthont, és a Camino de Santiago része.",
             "ro": "Găzduiește o frumoasă sculptură Pietà și face parte din traseul Camino de Santiago.",
-            "en": "Houses a beautiful Pietà sculpture and is part of the Camino de Santiago path."
+            "en": "Houses a beautiful Pietà sculpture and is part of the Camino de Santiago path.",
+            "pt": "Guarda uma bela escultura da Pietà e faz parte do Caminho de Santiago."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Burg von Belmonte",
             "hu": "Belmonte vára",
             "ro": "Castelul din Belmonte",
-            "en": "Belmonte Castle"
+            "en": "Belmonte Castle",
+            "pt": "Castelo de Belmonte"
           },
           "coords": [
             -7.3505,
@@ -151,7 +162,8 @@
             "de": "Steigen Sie auf die Mauern für einen atemberaubenden Blick auf die Serra da Estrela.",
             "hu": "Másszon fel a falakra a Serra da Estrela hegységre nyíló lélegzetelállító kilátásért.",
             "ro": "Urcați pe ziduri pentru o priveliște uluitoare asupra Serra da Estrela.",
-            "en": "Climb the walls for a breathtaking view of the Serra da Estrela mountains."
+            "en": "Climb the walls for a breathtaking view of the Serra da Estrela mountains.",
+            "pt": "Suba pelas muralhas para uma vista deslumbrante da serra da Estrela."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Centum Cellas",
             "hu": "Centum Cellas",
             "ro": "Centum Cellas",
-            "en": "Centum Cellas"
+            "en": "Centum Cellas",
+            "pt": "Centum Cellas"
           },
           "coords": [
             -7.3315,
@@ -174,7 +187,8 @@
             "de": "Der Zweck dieses römischen Turms ist immer noch ein Rätsel. Perfekt für Geschichtsliebhaber.",
             "hu": "Ennek a római toronynak a célja még mindig rejtély. Tökéletes a történelem kedvelőinek.",
             "ro": "Scopul acestui turn roman este încă un mister. Perfect pentru pasionații de istorie.",
-            "en": "The purpose of this Roman tower is still a mystery. Perfect for history buffs."
+            "en": "The purpose of this Roman tower is still a mystery. Perfect for history buffs.",
+            "pt": "A finalidade desta torre romana continua a ser um mistério. Perfeito para aficionados por história."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Olivenölmuseum",
             "hu": "Olívaolaj Múzeum",
             "ro": "Muzeul Uleiului de Măsline",
-            "en": "Olive Oil Museum"
+            "en": "Olive Oil Museum",
+            "pt": "Museu do Azeite"
           },
           "coords": [
             -7.3468,
@@ -197,7 +212,8 @@
             "de": "Beenden Sie den Tag mit einer Verkostung. Das lokale Olivenöl ist ein ausgezeichnetes Souvenir.",
             "hu": "Zárja a napot egy kóstolóval. A helyi olívaolaj kiváló szuvenír.",
             "ro": "Încheiați ziua cu o degustare. Uleiul de măsline local este un suvenir excelent.",
-            "en": "End the day with a tasting. The local olive oil is an excellent souvenir."
+            "en": "End the day with a tasting. The local olive oil is an excellent souvenir.",
+            "pt": "Termine o dia com uma prova. O azeite local é uma excelente lembrança."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen des historischen jüdischen Viertels von Belmonte, der Judiaria. Am Vormittag erkunden Sie die reiche jüdische Geschichte in der Synagoge und dem Museum. Nach dem Mittagessen besteigen Sie die Burg von Belmonte, die Heimat der Familie Cabral, um einen Panoramablick zu genießen. Der Nachmittag führt Sie zu einem Spaziergang zum geheimnisvollen römischen Turm Centum Cellas, bevor Sie im Olivenölmuseum mehr über eine lokale Tradition erfahren. Beenden Sie Ihren Tag mit einem Abendessen, das die Aromen der Region Beira Baixa widerspiegelt.",
         "hu": "Kezdje a napot Belmonte történelmi zsidónegyedének, a Judiaria szívében. A délelőttöt a gazdag zsidó örökség felfedezésével tölti a zsinagógában és a múzeumban. Ebéd után másszon fel a Cabral család otthonául szolgáló Belmonte várába, ahonnan panorámás kilátás nyílik. Délután sétáljon el a titokzatos Centum Cellas római toronyhoz, majd az Olívaolaj Múzeumban ismerkedjen meg egy helyi hagyománnyal. Zárja a napot egy vacsorával, amely a Beira Baixa régió ízeit mutatja be.",
         "ro": "Începeți ziua în inima cartierului evreiesc istoric din Belmonte, Judiaria. Dimineața este dedicată explorării bogatei moșteniri evreiești la sinagogă și muzeu. După prânz, urcați la Castelul Belmonte, casa familiei Cabral, pentru vederi panoramice. După-amiaza vă poartă într-o plimbare la misteriosul turn roman Centum Cellas, înainte de a afla despre o tradiție locală la Muzeul Uleiului de Măsline. Încheiați ziua cu o cină care prezintă aromele regiunii Beira Baixa.",
-        "en": "Start your day in the heart of Belmonte's historic Jewish quarter, the Judiaria. The morning is for exploring the rich Jewish heritage at the synagogue and museum. After lunch, ascend Belmonte Castle, home of the Cabral family, for panoramic views. The afternoon takes you on a walk to the mysterious Roman tower of Centum Cellas before learning about a local tradition at the Olive Oil Museum. End your day with a dinner showcasing the flavours of the Beira Baixa region."
+        "en": "Start your day in the heart of Belmonte's historic Jewish quarter, the Judiaria. The morning is for exploring the rich Jewish heritage at the synagogue and museum. After lunch, ascend Belmonte Castle, home of the Cabral family, for panoramic views. The afternoon takes you on a walk to the mysterious Roman tower of Centum Cellas before learning about a local tradition at the Olive Oil Museum. End your day with a dinner showcasing the flavours of the Beira Baixa region.",
+        "pt": "Comece o dia no coração da Judiaria histórica de Belmonte. A manhã destina‑se a explorar o rico património judaico na sinagoga e no museu. Após o almoço, suba ao Castelo de Belmonte, casa da família Cabral, para vistas panorâmicas. A tarde inclui uma caminhada até a misteriosa torre romana de Centum Cellas antes de conhecer uma tradição local no Museu do Azeite. Termine o dia com um jantar que mostra os sabores da região da Beira Baixa."
       },
       "gastro_picks": {
         "de": [
@@ -417,6 +434,12 @@
           "Allow plenty of time for the museums, as they are rich with information.",
           "The walk to Centum Cellas is pleasant, but bring water, especially in summer.",
           "Check opening hours, as some places may close for lunch."
+        ],
+        "pt": [
+          "Use calçado confortável, pois as ruas do centro histórico são empedradas e íngremes.",
+          "Reserve bastante tempo para os museus, pois estão cheios de informação.",
+          "A caminhada até Centum Cellas é agradável, mas leve água, especialmente no verão.",
+          "Verifique os horários de abertura, pois alguns locais podem fechar para almoço."
         ]
       },
       "variants": {
@@ -425,7 +448,8 @@
             "de": "Morgens erkunden wir die Judiaria; die engen Gassen bieten Schutz vor dem Wind. Mittags suchen wir Wärme in einer gemütlichen Taverne. Der Nachmittag steht ganz im Zeichen der Museen: Das Jüdische Museum und das Olivenölmuseum sind perfekte Indoor-Ziele. Abends genießen wir die Atmosphäre der nassen Granitwände Belmontes bei einem Glas Wein.",
             "hu": "Reggel a zsidó negyedet járjuk, ahol a szűk utcák védenek a széltől. Ebédre egy meleg fogadót választunk. A délután a múzeumoké: a Zsidó Múzeum és az Olívaolaj Múzeum kiváló fedett program esőben. Este a város gránitfalainak eső áztatta csillogását csodáljuk egy pohár bor mellől.",
             "ro": "Dimineața explorăm cartierul evreiesc; străzile înguste oferă adăpost contra vântului. La prânz căutăm căldura unei taverne. După-amiaza este dedicată muzeelor: Muzeul Evreiesc și cel al Uleiului sunt destinații interioare perfecte. Seara admirăm reflexiile ploii pe zidurile de granit din Belmonte.",
-            "en": "In the morning we explore the Judiaria; the narrow streets provide shelter from the wind. At lunch, we seek warmth in a cozy tavern. The afternoon is dedicated to museums: the Jewish Museum and the Olive Oil Museum are perfect indoor destinations. In the evening, we enjoy the rain-slicked granite walls."
+            "en": "In the morning we explore the Judiaria; the narrow streets provide shelter from the wind. At lunch, we seek warmth in a cozy tavern. The afternoon is dedicated to museums: the Jewish Museum and the Olive Oil Museum are perfect indoor destinations. In the evening, we enjoy the rain-slicked granite walls.",
+            "pt": "De manhã exploramos a Judiaria; as ruelas oferecem abrigo ao vento. Ao almoço procuramos calor numa taverna acolhedora. A tarde é dedicada aos museus: o Museu Judaico e o Museu do Azeite são destinos interiores perfeitos. Ao anoitecer, aquecemo‑nos junto às paredes de granito molhadas pela chuva."
           },
           "stops": [
             {
@@ -434,7 +458,8 @@
                 "de": "Schutz in den Torbögen suchen.",
                 "hu": "Keressen menedéket a boltívek alatt.",
                 "ro": "Căutați adăpost sub arcade.",
-                "en": "Seek shelter under the archways."
+                "en": "Seek shelter under the archways.",
+                "pt": "Procure abrigo sob os arcos."
               }
             },
             {
@@ -443,7 +468,8 @@
                 "de": "Kurzer Fotostopp mit Schirm.",
                 "hu": "Gyors fotó esernyővel.",
                 "ro": "Oprire scurtă pentru poze cu umbrela.",
-                "en": "Quick photo stop with an umbrella."
+                "en": "Quick photo stop with an umbrella.",
+                "pt": "Paragem rápida para foto com um guarda‑chuvas."
               }
             },
             {
@@ -452,7 +478,8 @@
                 "de": "Trockener Ort für Besinnung.",
                 "hu": "Száraz hely az elmélkedésre.",
                 "ro": "Loc uscat pentru reflecție.",
-                "en": "Dry place for reflection."
+                "en": "Dry place for reflection.",
+                "pt": "Lugar seco para reflexão."
               }
             },
             {
@@ -461,7 +488,8 @@
                 "de": "Ideal zum Aufwärmen und Trocknen.",
                 "hu": "Ideális melegedni és száradni.",
                 "ro": "Ideal pentru a vă încălzi și usca.",
-                "en": "Ideal for warming up and drying off."
+                "en": "Ideal for warming up and drying off.",
+                "pt": "Ideal para aquecer e secar."
               }
             },
             {
@@ -470,7 +498,8 @@
                 "de": "Massive Mauern bieten guten Schutz.",
                 "hu": "A vaskos falak jó védelmet nyújtanak.",
                 "ro": "Zidurile groase oferă protecție bună.",
-                "en": "Massive walls offer good shelter."
+                "en": "Massive walls offer good shelter.",
+                "pt": "Muralhas maciças oferecem bom abrigo."
               }
             },
             {
@@ -479,7 +508,8 @@
                 "de": "Vorsicht auf glatten Steinstufen.",
                 "hu": "Vigyázat a csúszós lépcsőkön.",
                 "ro": "Atenție pe treptele alunecoase.",
-                "en": "Careful on slippery stone steps."
+                "en": "Careful on slippery stone steps.",
+                "pt": "Cuidado com os degraus de pedra escorregadios."
               }
             },
             {
@@ -488,7 +518,8 @@
                 "de": "Wenig Schutz, Regenkleidung nötig.",
                 "hu": "Kevés a védett hely, esőkabát kell.",
                 "ro": "Puțin adăpost, e nevoie de pelerină.",
-                "en": "Little shelter, rain gear needed."
+                "en": "Little shelter, rain gear needed.",
+                "pt": "Pouco abrigo, precisa de roupa impermeável."
               }
             },
             {
@@ -497,7 +528,8 @@
                 "de": "Perfekter Abschluss im Trockenen.",
                 "hu": "Tökéletes befejezés fedett helyen.",
                 "ro": "Final perfect într-un loc uscat.",
-                "en": "Perfect ending in a dry place."
+                "en": "Perfect ending in a dry place.",
+                "pt": "Final perfeito num local seco."
               }
             }
           ],
@@ -525,6 +557,12 @@
               "Use museums to wait out the rain.",
               "A sturdy umbrella defies the wind.",
               "Old town cafes provide quick shelter."
+            ],
+            "pt": [
+              "Use sapatos com boa aderência para o pavimento molhado.",
+              "Use os museus para esperar que a chuva passe.",
+              "Um guarda‑chuvas resistente enfrenta o vento.",
+              "Cafés da cidade velha fornecem abrigo rápido."
             ]
           }
         },
@@ -533,7 +571,8 @@
             "de": "Die klare Winterluft schärft die Sicht auf die Berge. Morgens in der Judiaria wirkt alles friedlich. Mittags lockt ein heißer Eintopf in einer Taverne. Der Nachmittag am Schloss bietet goldenes Licht vor dem frühen Sonnenuntergang um 17:30 Uhr. Abends wärmen wir uns am Kamin eines lokalen Gasthofs.",
             "hu": "A tiszta téli levegőben élesebben látszanak a hegyek. Reggel a zsidó negyed békés. Ebédre egy forró egytálételt választunk. A várnál töltött délután aranyló fényeket hoz a korai, 17:30-as naplemente előtt. Este egy helyi fogadó kandallójánál melegszünk.",
             "ro": "Aerul curat de iarnă oferă o vizibilitate bună spre munți. Dimineața în cartierul evreiesc e liniște. La prânz ne bucurăm de o tocană fierbinte. După-amiaza la castel aduce o lumină aurie înainte de apusul de la 17:30. Seara ne încălzim la gura sobii.",
-            "en": "Clear winter air sharpens the mountain views. Morning in the Judiaria is peaceful. At lunch, we enjoy a hot stew in a tavern. Afternoon at the castle offers golden light before the 5:30 PM sunset. In the evening, we warm up by a local tavern's fireplace."
+            "en": "Clear winter air sharpens the mountain views. Morning in the Judiaria is peaceful. At lunch, we enjoy a hot stew in a tavern. Afternoon at the castle offers golden light before the 5:30 PM sunset. In the evening, we warm up by a local tavern's fireplace.",
+            "pt": "O ar claro de inverno aguça as vistas da serra. Manhã tranquila na Judiaria. Ao almoço saboreamos um guisado quente numa taverna. A tarde no castelo oferece luz dourada antes do pôr do sol às 17:30. À noite aquecemo‑nos junto à lareira de uma tasca local."
           },
           "stops": [
             {
@@ -542,7 +581,8 @@
                 "de": "Kalte Winde in den Gassen.",
                 "hu": "Hideg szél fúj a szűk utcákban.",
                 "ro": "Vânt rece pe străduțe.",
-                "en": "Cold winds in the alleys."
+                "en": "Cold winds in the alleys.",
+                "pt": "Ventania fria nas ruelas."
               }
             },
             {
@@ -551,7 +591,8 @@
                 "de": "Kurzer Aufenthalt im Freien.",
                 "hu": "Rövid kintlét, hideg levegő.",
                 "ro": "Scurtă oprire în aer liber.",
-                "en": "Short stop in the cold air."
+                "en": "Short stop in the cold air.",
+                "pt": "Paragem curta no ar frio."
               }
             },
             {
@@ -560,7 +601,8 @@
                 "de": "Angenehme Kühle, kein Frost.",
                 "hu": "Kellemesen hűvös, nincs fagy.",
                 "ro": "Răcoare plăcută, fără îngheț.",
-                "en": "Pleasantly cool, not freezing."
+                "en": "Pleasantly cool, not freezing.",
+                "pt": "Agradavelmente fresco, não congelante."
               }
             },
             {
@@ -569,7 +611,8 @@
                 "de": "Gut beheizter Ausstellungsraum.",
                 "hu": "Jól fűtött kiállítótér.",
                 "ro": "Spațiu expozițional bine încălzit.",
-                "en": "Well-heated exhibition space."
+                "en": "Well-heated exhibition space.",
+                "pt": "Espaço de exposição bem aquecido."
               }
             },
             {
@@ -578,7 +621,8 @@
                 "de": "Innenraum kann recht kalt sein.",
                 "hu": "A belső tér elég hideg lehet.",
                 "ro": "Interiorul poate fi destul de rece.",
-                "en": "The interior can be quite cold."
+                "en": "The interior can be quite cold.",
+                "pt": "O interior pode ser bastante frio."
               }
             },
             {
@@ -587,7 +631,8 @@
                 "de": "Bester Platz für den Sonnenuntergang.",
                 "hu": "A legjobb hely a naplementéhez.",
                 "ro": "Cel mai bun loc pentru apus.",
-                "en": "Best spot for the sunset."
+                "en": "Best spot for the sunset.",
+                "pt": "Melhor local para ver o pôr do sol."
               }
             },
             {
@@ -596,7 +641,8 @@
                 "de": "Vom Wind gepeitschte Ruine.",
                 "hu": "Szeles, kitett romterület.",
                 "ro": "Ruine expuse la vânt.",
-                "en": "Wind-swept, exposed ruins."
+                "en": "Wind-swept, exposed ruins.",
+                "pt": "Ruínas expostas e ventosas."
               }
             },
             {
@@ -605,7 +651,8 @@
                 "de": "Aufwärmen nach dem Schlossbesuch.",
                 "hu": "Melegedés a várnézés után.",
                 "ro": "Încălzire după vizita la castel.",
-                "en": "Warm up after the castle visit."
+                "en": "Warm up after the castle visit.",
+                "pt": "Aqueça‑se após a visita ao castelo."
               }
             }
           ],
@@ -633,6 +680,12 @@
               "Sunset occurs early, at 5:30 PM.",
               "Plan for hot drinks.",
               "Cobblestones may be icy in the morning."
+            ],
+            "pt": [
+              "Vista‑se em camadas para o frio.",
+              "O pôr do sol ocorre cedo, às 17:30.",
+              "Planeie bebidas quentes.",
+              "Os calçamentos podem estar gelados pela manhã."
             ]
           }
         }
@@ -651,7 +704,8 @@
             "de": "Centum Cellas",
             "hu": "Centum Cellas",
             "ro": "Centum Cellas",
-            "en": "Centum Cellas"
+            "en": "Centum Cellas",
+            "pt": "Centum Cellas"
           },
           "coords": [
             -7.3315,
@@ -666,7 +720,8 @@
             "de": "Beginnen Sie mit einer Radtour zum römischen Turm, wenn die Morgenluft noch kühl ist.",
             "hu": "Kezdje a napot egy biciklitúrával a római toronyhoz, amíg a reggeli levegő még hűvös.",
             "ro": "Începeți cu o plimbare cu bicicleta la turnul roman când aerul dimineții este încă răcoros.",
-            "en": "Start with a cycle to the Roman tower while the morning air is still cool."
+            "en": "Start with a cycle to the Roman tower while the morning air is still cool.",
+            "pt": "Comece com um passeio de bicicleta até à torre romana enquanto o ar da manhã ainda está fresco."
           }
         },
         {
@@ -674,7 +729,8 @@
             "de": "Burg von Belmonte",
             "hu": "Belmonte vára",
             "ro": "Castelul din Belmonte",
-            "en": "Belmonte Castle"
+            "en": "Belmonte Castle",
+            "pt": "Castelo de Belmonte"
           },
           "coords": [
             -7.3505,
@@ -689,7 +745,8 @@
             "de": "Schließen Sie Ihr Fahrrad unten an und erklimmen Sie die Burg für die beste Aussicht.",
             "hu": "Zárja le a biciklijét lent, és másszon fel a várba a legjobb kilátásért.",
             "ro": "Legați-vă bicicleta la bază și urcați la castel pentru cea mai bună priveliște.",
-            "en": "Lock your bike at the bottom and make the climb to the castle for the best views."
+            "en": "Lock your bike at the bottom and make the climb to the castle for the best views.",
+            "pt": "Tranque a bicicleta em baixo e faça a subida até ao castelo para as melhores vistas."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Kirche von Santiago",
             "hu": "Santiago-templom",
             "ro": "Biserica Santiago",
-            "en": "Church of Santiago"
+            "en": "Church of Santiago",
+            "pt": "Igreja de Santiago"
           },
           "coords": [
             -7.3499,
@@ -712,7 +770,8 @@
             "de": "Eine kurze Fahrt bergab vom Schloss entfernt, perfekt für eine kurze, besinnliche Pause.",
             "hu": "Egy rövid út lefelé a vártól, tökéletes egy gyors, elmélkedő szünetre.",
             "ro": "O scurtă coborâre de la castel, perfectă pentru o pauză rapidă și contemplativă.",
-            "en": "A quick downhill ride from the castle, perfect for a short, contemplative stop."
+            "en": "A quick downhill ride from the castle, perfect for a short, contemplative stop.",
+            "pt": "Uma descida rápida desde o castelo, perfeita para uma paragem curta e contemplativa."
           }
         },
         {
@@ -720,7 +779,8 @@
             "de": "Statue von Pedro Álvares Cabral",
             "hu": "Pedro Álvares Cabral szobra",
             "ro": "Statuia lui Pedro Álvares Cabral",
-            "en": "Statue of Pedro Álvares Cabral"
+            "en": "Statue of Pedro Álvares Cabral",
+            "pt": "Estátua de Pedro Álvares Cabral"
           },
           "coords": [
             -7.3495,
@@ -735,7 +795,8 @@
             "de": "Halten Sie für ein schnelles Foto an, bevor Sie in die Judiaria für das Mittagessen fahren.",
             "hu": "Álljon meg egy gyors fotóra, mielőtt a Judiariába indul ebédelni.",
             "ro": "Opriți-vă pentru o fotografie rapidă înainte de a vă îndrepta spre Judiaria pentru prânz.",
-            "en": "Stop for a quick photo before coasting down into the Judiaria for lunch."
+            "en": "Stop for a quick photo before coasting down into the Judiaria for lunch.",
+            "pt": "Pare para uma foto rápida antes de descer em direção à Judiaria para almoçar."
           }
         },
         {
@@ -743,7 +804,8 @@
             "de": "Judiaria (Jüdisches Viertel)",
             "hu": "Judiaria (Zsidónegyed)",
             "ro": "Judiaria (Cartierul Evreiesc)",
-            "en": "Judiaria (Jewish Quarter)"
+            "en": "Judiaria (Jewish Quarter)",
+            "pt": "Judiaria (Bairro Judeu)"
           },
           "coords": [
             -7.3485,
@@ -758,7 +820,8 @@
             "de": "Parken Sie Ihr Fahrrad und erkunden Sie die engen Gassen zu Fuß.",
             "hu": "Parkolja le a biciklijét, és fedezze fel gyalog a szűk utcákat.",
             "ro": "Parcați bicicleta și explorați aleile înguste pe jos.",
-            "en": "Park your bike and explore the narrow alleys on foot."
+            "en": "Park your bike and explore the narrow alleys on foot.",
+            "pt": "Estacione a bicicleta e explore as ruelas estreitas a pé."
           }
         },
         {
@@ -766,7 +829,8 @@
             "de": "Jüdisches Museum",
             "hu": "Zsidó Múzeum",
             "ro": "Muzeul Evreiesc",
-            "en": "Jewish Museum"
+            "en": "Jewish Museum",
+            "pt": "Museu Judaico"
           },
           "coords": [
             -7.348,
@@ -781,7 +845,8 @@
             "de": "Tauchen Sie tief in die einzigartige Geschichte der jüdischen Gemeinde von Belmonte ein.",
             "hu": "Merüljön el mélyen Belmonte zsidó közösségének egyedülálló történelmében.",
             "ro": "Pătrundeți adânc în istoria unică a comunității evreiești din Belmonte.",
-            "en": "Take a deep dive into the unique history of Belmonte's Jewish community."
+            "en": "Take a deep dive into the unique history of Belmonte's Jewish community.",
+            "pt": "Mergulhe profundamente na história única da comunidade judaica de Belmonte."
           }
         },
         {
@@ -789,7 +854,8 @@
             "de": "Synagoge Bet Eliahu",
             "hu": "Bet Eliahu zsinagóga",
             "ro": "Sinagoga Bet Eliahu",
-            "en": "Bet Eliahu Synagogue"
+            "en": "Bet Eliahu Synagogue",
+            "pt": "Sinagoga Bet Eliahu"
           },
           "coords": [
             -7.3482,
@@ -804,7 +870,8 @@
             "de": "Ein moderner Kontrapunkt zur alten Geschichte, die Sie gesehen haben.",
             "hu": "Modern ellenpontja a látott ősi történelemnek.",
             "ro": "Un contrapunct modern la istoria antică pe care ați văzut-o.",
-            "en": "A modern counterpoint to the ancient history you've been seeing."
+            "en": "A modern counterpoint to the ancient history you've been seeing.",
+            "pt": "Um contraponto moderno à história antiga que tem vindo a ver."
           }
         },
         {
@@ -812,7 +879,8 @@
             "de": "Olivenölmuseum",
             "hu": "Olívaolaj Múzeum",
             "ro": "Muzeul Uleiului de Măsline",
-            "en": "Olive Oil Museum"
+            "en": "Olive Oil Museum",
+            "pt": "Museu do Azeite"
           },
           "coords": [
             -7.3468,
@@ -827,7 +895,8 @@
             "de": "Ein schöner, flacher Ausklang des Tages mit einer interessanten Ausstellung und Verkostung.",
             "hu": "Szép, sík lezárása a napnak egy érdekes kiállítással és kóstolóval.",
             "ro": "O plimbare frumoasă și plată pentru a încheia ziua, cu o expoziție și o degustare interesante.",
-            "en": "A nice, flat ride to end the day, with an interesting exhibit and tasting."
+            "en": "A nice, flat ride to end the day, with an interesting exhibit and tasting.",
+            "pt": "Um passeio agradável e plano para terminar o dia, com uma exposição interessante e prova de azeite."
           }
         }
       ],
@@ -835,7 +904,8 @@
         "de": "Starten Sie Ihr Fahrradabenteuer mit einer morgendlichen Fahrt zum geheimnisvollen Turm Centum Cellas. Fahren Sie zurück in die Stadt, um die Burg von Belmonte zu erklimmen. Am Mittag fahren Sie durch das historische Zentrum, halten an der Santiago-Kirche und der Statue von Cabral an, bevor Sie die engen Gassen der Judiaria erkunden. Der Nachmittag ist dem jüdischen Erbe gewidmet, mit Besuchen im Museum und in der Synagoge. Beenden Sie Ihre Tour mit einer entspannten Fahrt zum Olivenölmuseum für eine wohlverdiente Verkostung.",
         "hu": "Kezdje a kerékpáros kalandot egy reggeli tekeréssel a titokzatos Centum Cellas toronyhoz. Tekerjen vissza a városba, hogy megmássza a Belmonte várát. Délben haladjon át a történelmi központon, álljon meg a Santiago-templomnál és Cabral szobránál, mielőtt felfedezné a Judiaria szűk utcáit. A délutánt a zsidó örökségnek szentelik, a múzeum és a zsinagóga meglátogatásával. Zárja a túrát egy laza tekeréssel az Olívaolaj Múzeumhoz egy jól megérdemelt kóstolóra.",
         "ro": "Începeți-vă aventura pe bicicletă cu o plimbare de dimineață la misteriosul turn Centum Cellas. Pedalați înapoi în oraș pentru a urca la Castelul Belmonte. La prânz, coborâți prin centrul istoric, oprindu-vă la Biserica Santiago și la statuia lui Cabral înainte de a explora aleile înguste din Judiaria. După-amiaza este dedicată moștenirii evreiești, cu vizite la muzeu și sinagogă. Încheiați turul cu o plimbare relaxantă la Muzeul Uleiului de Măsline pentru o degustare binemeritată.",
-        "en": "Kick off your cycling adventure with a morning ride to the mysterious Centum Cellas tower. Pedal back into town to conquer the climb to Belmonte Castle. At midday, cruise down through the historic center, stopping at the Church of Santiago and Cabral's statue before exploring the narrow alleys of the Judiaria. The afternoon is dedicated to the Jewish heritage, with visits to the museum and synagogue. End your tour with a relaxed ride to the Olive Oil Museum for a well-deserved tasting."
+        "en": "Kick off your cycling adventure with a morning ride to the mysterious Centum Cellas tower. Pedal back into town to conquer the climb to Belmonte Castle. At midday, cruise down through the historic center, stopping at the Church of Santiago and Cabral's statue before exploring the narrow alleys of the Judiaria. The afternoon is dedicated to the Jewish heritage, with visits to the museum and synagogue. End your tour with a relaxed ride to the Olive Oil Museum for a well-deserved tasting.",
+        "pt": "Comece a aventura de bicicleta com um passeio matinal até à misteriosa torre Centum Cellas. Pedale de volta à vila para conquistar a subida até ao Castelo de Belmonte. Ao meio‑dia, desça pelo centro histórico, parando na Igreja de Santiago e na estátua de Cabral antes de explorar as ruelas da Judiaria. A tarde é dedicada ao património judaico, com visitas ao museu e à sinagoga. Termine o passeio com um trajeto relaxado até ao Museu do Azeite para uma prova merecida."
       },
       "gastro_picks": {
         "de": [
@@ -1047,6 +1117,12 @@
           "Lock your bike in secure locations, especially when entering museums.",
           "Most streets in the old town are too narrow for cycling; it's better to walk.",
           "A water bottle is essential to stay hydrated."
+        ],
+        "pt": [
+          "A subida até ao castelo é íngreme; prepare‑se para um esforço.",
+          "Tranque a sua bicicleta em locais seguros, especialmente ao entrar em museus.",
+          "A maioria das ruas na zona antiga é demasiado estreita para pedalar; é melhor caminhar.",
+          "Uma garrafa de água é essencial para se manter hidratado."
         ]
       },
       "variants": {
@@ -1055,7 +1131,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf Belmontes Granit. Morgens geht es zur Ruine Centum Cellas. Mittags trocknen wir uns in einer Bar. Der Nachmittag führt uns durch das jüdische Erbe mit vielen Unterstellpausen. Abends geben wir die Räder ab und genießen die Ruhe bei Kaminfeuer.",
             "hu": "Az esőben való biciklizés óvatosságot igényel a gránitköveken. Reggel Centum Cellas romjaihoz tekerünk. Ebédnél megszárítkozunk egy bárban. A délután a zsidó örökségé, sok megállóval. Este leadjuk a bringákat és a kandalló mellé húzódunk.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență pe granitul din Belmonte. Dimineața mergem spre Centum Cellas. La prânz ne uscăm într-un bar. După-amiaza explorăm moștenirea evreiască. Seara returnăm bicicletele și stăm la căldură.",
-            "en": "Cycling in rain requires caution on Belmonte's granite. Morning trip to Centum Cellas ruins. At lunch, we dry off in a bar. Afternoon is for Jewish heritage with frequent shelter stops. In the evening, we return the bikes and stay by the fire."
+            "en": "Cycling in rain requires caution on Belmonte's granite. Morning trip to Centum Cellas ruins. At lunch, we dry off in a bar. Afternoon is for Jewish heritage with frequent shelter stops. In the evening, we return the bikes and stay by the fire.",
+            "pt": "Ciclismo na chuva exige cuidado sobre o granito de Belmonte. Passeio matinal até às ruínas de Centum Cellas. Ao almoço secamo‑nos num bar. A tarde é dedicada ao património judaico com paragens frequentes para abrigo. À noite devolvemos as bicicletas e ficamos junto ao fogo."
           },
           "stops": [
             {
@@ -1064,7 +1141,8 @@
                 "de": "Vorsicht bei der Abfahrt auf Nässe.",
                 "hu": "Vigyázat a lejtőn vizes úton.",
                 "ro": "Atenție la coborâre pe ud.",
-                "en": "Caution on the descent in wet conditions."
+                "en": "Caution on the descent in wet conditions.",
+                "pt": "Cuidado na descida em condições de húmido."
               }
             },
             {
@@ -1073,7 +1151,8 @@
                 "de": "Fahrrad sicher und überdacht parken.",
                 "hu": "Parkoljon fedett helyen.",
                 "ro": "Parcați bicicleta la adăpost.",
-                "en": "Park your bike under cover."
+                "en": "Park your bike under cover.",
+                "pt": "Estacione a bicicleta coberta."
               }
             },
             {
@@ -1082,7 +1161,8 @@
                 "de": "Kurze Pause im trockenen Inneren.",
                 "hu": "Rövid pihenő a száraz belsőben.",
                 "ro": "Scurtă pauză în interior.",
-                "en": "Short break in the dry interior."
+                "en": "Short break in the dry interior.",
+                "pt": "Pausa curta no interior seco."
               }
             },
             {
@@ -1091,7 +1171,8 @@
                 "de": "Rutschfeste Handschuhe wichtig.",
                 "hu": "Csúszásmentes kesztyű fontos.",
                 "ro": "Mănușile aderente sunt vitale.",
-                "en": "Non-slip gloves are vital."
+                "en": "Non-slip gloves are vital.",
+                "pt": "Luvas antiderrapantes são vitais."
               }
             },
             {
@@ -1100,7 +1181,8 @@
                 "de": "Sehr glattes Kopfsteinpflaster.",
                 "hu": "Nagyon csúszós macskakő.",
                 "ro": "Piatră cubică foarte alunecoasă.",
-                "en": "Very slippery cobblestones."
+                "en": "Very slippery cobblestones.",
+                "pt": "Calçadas muito escorregadias."
               }
             },
             {
@@ -1109,7 +1191,8 @@
                 "de": "Gute Gelegenheit zum Aufwärmen.",
                 "hu": "Jó alkalom a melegedésre.",
                 "ro": "Oportunitate bună de încălzire.",
-                "en": "Good opportunity to warm up."
+                "en": "Good opportunity to warm up.",
+                "pt": "Boa oportunidade para aquecer."
               }
             },
             {
@@ -1118,7 +1201,8 @@
                 "de": "Besuch bietet Regenschutz.",
                 "hu": "A látogatás véd az esőtől.",
                 "ro": "Vizita oferă protecție contra ploii.",
-                "en": "The visit provides rain protection."
+                "en": "The visit provides rain protection.",
+                "pt": "A visita oferece proteção contra a chuva."
               }
             },
             {
@@ -1127,7 +1211,8 @@
                 "de": "Endstation mit Trocknungschance.",
                 "hu": "Végállomás szárítkozási eséllyel.",
                 "ro": "Final cu șansă de uscare.",
-                "en": "Final stop with a chance to dry off."
+                "en": "Final stop with a chance to dry off.",
+                "pt": "Paragem final com hipótese de secar‑se."
               }
             }
           ],
@@ -1155,6 +1240,12 @@
               "Longer braking distance on wet stone.",
               "Avoid fast turns on stones.",
               "Waterproof bags for valuables."
+            ],
+            "pt": [
+              "Use guarda‑lamas e capas impermeáveis.",
+              "Maior distância de travagem em pedra molhada.",
+              "Evite curvas rápidas nas pedras.",
+              "Sacos impermeáveis para os objetos de valor."
             ]
           }
         },
@@ -1163,7 +1254,8 @@
             "de": "Winterliches Radeln erfordert gute Handschuhe gegen den kalten Fahrtwind. Morgens ist die Fahrt nach Centum Cellas erfrischend. Mittags wärmen wir uns bei lokaler Küche auf. Der Nachmittag bietet tolle Kontraste bei tiefstehender Sonne. Abends endet die Tour rechtzeitig vor der Dunkelheit.",
             "hu": "A téli tekeréshez jó kesztyű kell a menetszél ellen. Reggel a centum cellasi út frissítő. Ebédnél helyi ételekkel melegszünk. Délután Belmonte csodás kontrasztokat mutat az alacsony napnál. Este a túra időben, sötétedés előtt véget ér.",
             "ro": "Mersul pe bicicletă iarna necesită mănuși bune contra vântului. Dimineața drumul spre Centum Cellas e revigorant. La prânz ne încălzim cu mâncare locală. După-amiaza Belmonte oferă contraste superbe. Seara turul se termină înainte de întuneric.",
-            "en": "Winter cycling requires good gloves against the cold wind. Morning ride to Centum Cellas is refreshing. At lunch, we warm up with local food. Afternoon in Belmonte shows great contrasts in the low sun. The tour ends timely before dark."
+            "en": "Winter cycling requires good gloves against the cold wind. Morning ride to Centum Cellas is refreshing. At lunch, we warm up with local food. Afternoon in Belmonte shows great contrasts in the low sun. The tour ends timely before dark.",
+            "pt": "O ciclismo no inverno exige boas luvas contra o vento frio. Passeio matinal até Centum Cellas é revigorante. Ao almoço aquecemo‑nos com comida local. A tarde em Belmonte revela grandes contrastes com a luz baixa. O passeio termina a tempo antes de anoitecer."
           },
           "stops": [
             {
@@ -1172,7 +1264,8 @@
                 "de": "Kalter Wind auf freier Strecke.",
                 "hu": "Hideg szél a nyílt terepen.",
                 "ro": "Vânt rece pe drum deschis.",
-                "en": "Cold wind on the open road."
+                "en": "Cold wind on the open road.",
+                "pt": "Vento frio na estrada aberta."
               }
             },
             {
@@ -1181,7 +1274,8 @@
                 "de": "Sonnige Plätze an Mauern suchen.",
                 "hu": "Keressen napos helyet a falaknál.",
                 "ro": "Căutați locuri însorite la ziduri.",
-                "en": "Look for sunny spots near walls."
+                "en": "Look for sunny spots near walls.",
+                "pt": "Procure locais soalheiros junto às paredes."
               }
             },
             {
@@ -1190,7 +1284,8 @@
                 "de": "Windgeschützter Bereich.",
                 "hu": "Szélvédett terület.",
                 "ro": "Zonă protejată de vânt.",
-                "en": "Wind-sheltered area."
+                "en": "Wind-sheltered area.",
+                "pt": "Área protegida do vento."
               }
             },
             {
@@ -1199,7 +1294,8 @@
                 "de": "Kälteschutz für Hände wichtig.",
                 "hu": "A kéz védelme a hidegtől fontos.",
                 "ro": "Protecția mâinilor e importantă.",
-                "en": "Hand protection is important."
+                "en": "Hand protection is important.",
+                "pt": "A proteção das mãos é importante."
               }
             },
             {
@@ -1208,7 +1304,8 @@
                 "de": "Vorsicht bei Schatten-Eis.",
                 "hu": "Vigyázat az árnyékos jegesedéssel.",
                 "ro": "Atenție la polei în umbră.",
-                "en": "Watch out for ice in shadows."
+                "en": "Watch out for ice in shadows.",
+                "pt": "Cuidado com gelo nas sombras."
               }
             },
             {
@@ -1217,7 +1314,8 @@
                 "de": "Perfekte Aufwärmpause.",
                 "hu": "Tökéletes melegedő szünet.",
                 "ro": "Pauză perfectă pentru încălzire.",
-                "en": "Perfect warm-up break."
+                "en": "Perfect warm-up break.",
+                "pt": "Pausa perfeita para aquecer."
               }
             },
             {
@@ -1226,7 +1324,8 @@
                 "de": "Innenraum ist temperiert.",
                 "hu": "A belső tér temperált.",
                 "ro": "Interiorul este temperat.",
-                "en": "The interior is tempered."
+                "en": "The interior is tempered.",
+                "pt": "O interior está temperado."
               }
             },
             {
@@ -1235,7 +1334,8 @@
                 "de": "Warmer Kakao zum Abschluss.",
                 "hu": "Forró kakaó a befejezéshez.",
                 "ro": "Cacao caldă la final.",
-                "en": "Hot cocoa to finish the day."
+                "en": "Hot cocoa to finish the day.",
+                "pt": "Chocolate quente para terminar o dia."
               }
             }
           ],
@@ -1263,6 +1363,12 @@
               "Batteries drain faster now.",
               "Check lights for twilight.",
               "Sunscreen for clear winter days."
+            ],
+            "pt": [
+              "Roupa térmica para o frio.",
+              "As baterias descarregam mais depressa agora.",
+              "Verifique as luzes para o crepúsculo.",
+              "Protetor solar para dias claros de inverno."
             ]
           }
         }
@@ -1281,7 +1387,8 @@
             "de": "Centum Cellas",
             "hu": "Centum Cellas",
             "ro": "Centum Cellas",
-            "en": "Centum Cellas"
+            "en": "Centum Cellas",
+            "pt": "Centum Cellas"
           },
           "coords": [
             -7.3315,
@@ -1297,7 +1404,8 @@
             "de": "Fahren Sie zuerst hierher, es gibt genügend Parkplätze. Es ist ein großartiger, ruhiger Start in den Tag.",
             "hu": "Vezessen ide először, van bőven parkolóhely. Nagyszerű, csendes kezdete a napnak.",
             "ro": "Conduceți aici mai întâi, există suficient spațiu de parcare. Este un început de zi minunat și liniștit.",
-            "en": "Drive here first, there's ample parking. It's a great, quiet start to the day."
+            "en": "Drive here first, there's ample parking. It's a great, quiet start to the day.",
+            "pt": "Conduza aqui primeiro, há estacionamento amplo. É um ótimo e tranquilo começo de dia."
           }
         },
         {
@@ -1305,7 +1413,8 @@
             "de": "Parkplatz bei der Burg von Belmonte",
             "hu": "Parkoló a Belmonte váránál",
             "ro": "Parcare la Castelul Belmonte",
-            "en": "Parking near Belmonte Castle"
+            "en": "Parking near Belmonte Castle",
+            "pt": "Estacionamento perto do Castelo de Belmonte"
           },
           "coords": [
             -7.351,
@@ -1321,7 +1430,8 @@
             "de": "Parken Sie hier für den Rest des Vormittags. Von hier aus ist alles zu Fuß erreichbar.",
             "hu": "Parkoljon itt a délelőtt hátralévő részére. Minden sétatávolságra van innen.",
             "ro": "Parcați aici pentru restul dimineții. Totul este la distanță de mers pe jos de aici.",
-            "en": "Park here for the rest of the morning. Everything is within walking distance from this spot."
+            "en": "Park here for the rest of the morning. Everything is within walking distance from this spot.",
+            "pt": "Estacione aqui para o resto da manhã. Tudo fica a uma curta distância a pé deste local."
           }
         },
         {
@@ -1329,7 +1439,8 @@
             "de": "Burg von Belmonte",
             "hu": "Belmonte vára",
             "ro": "Castelul din Belmonte",
-            "en": "Belmonte Castle"
+            "en": "Belmonte Castle",
+            "pt": "Castelo de Belmonte"
           },
           "coords": [
             -7.3505,
@@ -1345,7 +1456,8 @@
             "de": "Beginnen Sie Ihren Rundgang mit dem Höhepunkt der Stadt.",
             "hu": "Kezdje a gyalogtúrát a város csúcspontjával.",
             "ro": "Începeți turul pietonal cu punctul culminant al orașului.",
-            "en": "Start your walking tour with the town's high point."
+            "en": "Start your walking tour with the town's high point.",
+            "pt": "Comece o seu passeio a pé pelo ponto mais alto da vila."
           }
         },
         {
@@ -1353,7 +1465,8 @@
             "de": "Kirche von Santiago",
             "hu": "Santiago-templom",
             "ro": "Biserica Santiago",
-            "en": "Church of Santiago"
+            "en": "Church of Santiago",
+            "pt": "Igreja de Santiago"
           },
           "coords": [
             -7.3499,
@@ -1369,7 +1482,8 @@
             "de": "Ein kurzer Spaziergang bergab führt Sie zu diesem historischen Juwel.",
             "hu": "Egy rövid séta lefelé a dombon elvezeti ehhez a történelmi gyöngyszemhez.",
             "ro": "O scurtă plimbare la vale vă duce la această bijuterie istorică.",
-            "en": "A short walk downhill brings you to this historic gem."
+            "en": "A short walk downhill brings you to this historic gem.",
+            "pt": "Uma curta caminhada a descer leva-o a esta jóia histórica."
           }
         },
         {
@@ -1377,7 +1491,8 @@
             "de": "Judiaria und Jüdisches Museum",
             "hu": "Judiaria és Zsidó Múzeum",
             "ro": "Judiaria și Muzeul Evreiesc",
-            "en": "Judiaria and Jewish Museum"
+            "en": "Judiaria and Jewish Museum",
+            "pt": "Judiaria e Museu Judaico"
           },
           "coords": [
             -7.3482,
@@ -1393,7 +1508,8 @@
             "de": "Verbringen Sie hier eine längere Zeit, einschließlich Mittagessen und Museumsbesuch.",
             "hu": "Töltsön itt hosszabb időt, beleértve az ebédet és a múzeumlátogatást.",
             "ro": "Petreceți o perioadă extinsă aici, incluzând prânzul și vizita la muzeu.",
-            "en": "Spend an extended period here, including lunch and the museum visit."
+            "en": "Spend an extended period here, including lunch and the museum visit.",
+            "pt": "Passe aqui um período prolongado, incluindo o almoço e a visita ao museu."
           }
         },
         {
@@ -1401,7 +1517,8 @@
             "de": "Parkplatz nahe Olivenölmuseum",
             "hu": "Parkoló az Olívaolaj Múzeum közelében",
             "ro": "Parcare lângă Muzeul Uleiului de Măsline",
-            "en": "Parking near Olive Oil Museum"
+            "en": "Parking near Olive Oil Museum",
+            "pt": "Estacionamento perto do Museu do Azeite"
           },
           "coords": [
             -7.347,
@@ -1417,7 +1534,8 @@
             "de": "Fahren Sie Ihr Auto für den letzten Teil des Tages hierher.",
             "hu": "Hozza át az autóját ide a nap utolsó részére.",
             "ro": "Mutați mașina aici pentru ultima parte a zilei.",
-            "en": "Move your car here for the final part of the day."
+            "en": "Move your car here for the final part of the day.",
+            "pt": "Mova o seu carro aqui para a parte final do dia."
           }
         },
         {
@@ -1425,7 +1543,8 @@
             "de": "Olivenölmuseum",
             "hu": "Olívaolaj Múzeum",
             "ro": "Muzeul Uleiului de Măsline",
-            "en": "Olive Oil Museum"
+            "en": "Olive Oil Museum",
+            "pt": "Museu do Azeite"
           },
           "coords": [
             -7.3468,
@@ -1441,7 +1560,8 @@
             "de": "Ein interaktives Erlebnis, das sich perfekt als Abschluss des Tages eignet.",
             "hu": "Interaktív élmény, amely tökéletes a nap lezárásához.",
             "ro": "O experiență interactivă, perfectă pentru a încheia ziua.",
-            "en": "An interactive experience that's perfect for wrapping up the day."
+            "en": "An interactive experience that's perfect for wrapping up the day.",
+            "pt": "Uma experiência interativa perfeita para concluir o dia."
           }
         }
       ],
@@ -1449,7 +1569,8 @@
         "de": "Beginnen Sie Ihren Tag mit einer kurzen Fahrt zum ruhigen römischen Turm Centum Cellas. Fahren Sie dann zurück in die Stadt, parken Sie in der Nähe der Burg und erkunden Sie den oberen Teil von Belmonte zu Fuß, einschließlich der Burg und der Santiago-Kirche. Am Mittag spazieren Sie hinunter in die Judiaria, um in die jüdische Geschichte einzutauchen und ein lokales Mittagessen zu genießen. Am Nachmittag fahren Sie zu Ihrem letzten Halt, dem Olivenölmuseum, für ein entspannendes und lehrreiches Erlebnis, das die landwirtschaftlichen Wurzeln der Region hervorhebt.",
         "hu": "Kezdje a napot egy rövid autóúttal a békés Centum Cellas római toronyhoz. Ezután vezessen vissza a városba, parkoljon a vár közelében, és fedezze fel gyalog Belmonte felső részét, beleértve a várat és a Santiago-templomot. Délben sétáljon le a Judiariába, hogy elmerüljön a zsidó történelemben és elfogyasszon egy helyi ebédet. Délután helyezze át autóját az utolsó megállóhoz, az Olívaolaj Múzeumhoz egy pihentető és tanulságos élményért, amely a régió mezőgazdasági gyökereit mutatja be.",
         "ro": "Începeți ziua cu o scurtă călătorie cu mașina la liniștitul turn roman Centum Cellas. Apoi, conduceți înapoi în oraș, parcați lângă castel și explorați partea superioară a orașului Belmonte pe jos, inclusiv castelul și Biserica Santiago. La prânz, coborâți în Judiaria pentru a vă cufunda în istoria evreiască și a savura un prânz local. După-amiaza, mutați mașina la ultima oprire, Muzeul Uleiului de Măsline, pentru o experiență relaxantă și educativă care evidențiază rădăcinile agricole ale regiunii.",
-        "en": "Start your day with a short drive to the tranquil Roman tower of Centum Cellas. Then, drive back into town, park near the castle, and explore the upper part of Belmonte on foot, including the castle and the Church of Santiago. At midday, stroll down into the Judiaria to immerse yourself in Jewish history and enjoy a local lunch. In the afternoon, move your car to the final stop, the Olive Oil Museum, for a relaxing and educational experience highlighting the region's agricultural roots."
+        "en": "Start your day with a short drive to the tranquil Roman tower of Centum Cellas. Then, drive back into town, park near the castle, and explore the upper part of Belmonte on foot, including the castle and the Church of Santiago. At midday, stroll down into the Judiaria to immerse yourself in Jewish history and enjoy a local lunch. In the afternoon, move your car to the final stop, the Olive Oil Museum, for a relaxing and educational experience highlighting the region's agricultural roots.",
+        "pt": "Comece o dia com uma curta viagem de carro até à tranquila torre romana de Centum Cellas. Depois, regresse de carro à vila, estacione perto do castelo e explore a parte alta de Belmonte a pé, incluindo o castelo e a Igreja de Santiago. Ao meio-dia, desça à Judiaria para se imergir na história judaica e desfrutar de um almoço local. À tarde, mova o carro até à paragem final, o Museu do Azeite, para uma experiência relaxante e educativa que destaca as raízes agrícolas da região."
       },
       "gastro_picks": {
         "de": [
@@ -1661,6 +1782,12 @@
           "Parking can be tricky in the heart of the Judiaria; stick to the designated lots near the castle.",
           "The roads are narrow, so drive with care.",
           "A car allows you to easily visit a supermarket on the edge of town for snacks and water."
+        ],
+        "pt": [
+          "Usar o carro para dividir a vila em categorias (Centum Cellas, zona do castelo, parte baixa) reduz as subidas a pé.",
+          "O estacionamento pode ser complicado no coração da Judiaria; mantenha-se nos parques designados perto do castelo.",
+          "As ruas são estreitas, por isso conduza com cuidado.",
+          "Um carro permite-lhe visitar facilmente um supermercado na periferia da vila para snacks e água."
         ]
       },
       "variants": {
@@ -1669,7 +1796,8 @@
             "de": "Das Auto ist heute der ideale Rückzugsort. Morgens fahren wir bequem zu Centum Cellas. Mittags parken wir direkt am Schlossbereich. Den Nachmittag verbringen wir in den Museen der Altstadt, fast ohne nass zu werden. Abends genießen wir die Panoramafahrt durch das neblige Beira-Gebirge.",
             "hu": "Ma az autó a legjobb búvóhely. Reggel kényelmesen gurulunk Centum Cellashoz. Ebédnél közvetlenül a várnál parkolunk. A délutánt az óvárosi múzeumokban töltjük, szinte szárazon. Este az autó ablakából nézzük a ködös Beira-vidéket.",
             "ro": "Mașina este astăzi refugiul ideal. Dimineața mergem confortabil la Centum Cellas. La prânz parcăm chiar lângă castel. După-amiaza o petrecem în muzeele din centrul vechi. Seara admirăm regiunea Beira prin parbriz.",
-            "en": "The car is the ideal retreat today. In the morning we drive comfortably to Centum Cellas. At lunch we park right by the castle. Afternoon is spent in the old town museums, staying mostly dry. Evening drive through misty Beira."
+            "en": "The car is the ideal retreat today. In the morning we drive comfortably to Centum Cellas. At lunch we park right by the castle. Afternoon is spent in the old town museums, staying mostly dry. Evening drive through misty Beira.",
+            "pt": "O carro é o refúgio ideal hoje. De manhã vamos confortavelmente até Centum Cellas. Ao almoço estacionamos mesmo junto ao castelo. A tarde é passada nos museus da vila velha, mantendo-se maioritariamente seco. À noite, condução de regresso através da Beira enevoada."
           },
           "stops": [
             {
@@ -1678,7 +1806,8 @@
                 "de": "Kurzer Sprint vom Parkplatz.",
                 "hu": "Gyors sprint a parkolóból.",
                 "ro": "Sprint scurt din parcare.",
-                "en": "Quick sprint from parking."
+                "en": "Quick sprint from parking.",
+                "pt": "Rápida corrida desde o estacionamento."
               }
             },
             {
@@ -1687,7 +1816,8 @@
                 "de": "Dichtester Punkt zum Ziel.",
                 "hu": "A célhoz legközelebbi pont.",
                 "ro": "Cel mai apropiat punct de țintă.",
-                "en": "Closest point to the destination."
+                "en": "Closest point to the destination.",
+                "pt": "Ponto mais próximo do destino."
               }
             },
             {
@@ -1696,7 +1826,8 @@
                 "de": "Trockene Bereiche im Turm.",
                 "hu": "Száraz részek a toronyban.",
                 "ro": "Zone uscate în turn.",
-                "en": "Dry areas in the tower."
+                "en": "Dry areas in the tower.",
+                "pt": "Áreas secas na torre."
               }
             },
             {
@@ -1705,7 +1836,8 @@
                 "de": "Kurzer Weg durch den Regen.",
                 "hu": "Rövid út az esőben.",
                 "ro": "Drum scurt prin ploaie.",
-                "en": "Short path through the rain."
+                "en": "Short path through the rain.",
+                "pt": "Curto caminho pela chuva."
               }
             },
             {
@@ -1714,7 +1846,8 @@
                 "de": "Museum bietet langen Schutz.",
                 "hu": "A múzeum hosszas védelmet nyújt.",
                 "ro": "Muzeul oferă adăpost lung.",
-                "en": "Museum offers long-lasting shelter."
+                "en": "Museum offers long-lasting shelter.",
+                "pt": "O museu oferece abrigo de longa duração."
               }
             },
             {
@@ -1723,7 +1856,8 @@
                 "de": "Pfützen beim Aussteigen meiden.",
                 "hu": "Kerülje a tócsákat kiszálláskor.",
                 "ro": "Evitați bălțile la coborâre.",
-                "en": "Avoid puddles when exiting."
+                "en": "Avoid puddles when exiting.",
+                "pt": "Evite poças ao sair."
               }
             },
             {
@@ -1732,7 +1866,8 @@
                 "de": "Indoor-Führung genießen.",
                 "hu": "Élvezze a fedett tárlatvezetést.",
                 "ro": "Bucurați-vă de turul interior.",
-                "en": "Enjoy the indoor guided tour."
+                "en": "Enjoy the indoor guided tour.",
+                "pt": "Desfrute da visita guiada interior."
               }
             }
           ],
@@ -1760,6 +1895,12 @@
               "Use parking close to entrances.",
               "Watch for aquaplaning.",
               "Keep an umbrella in the door."
+            ],
+            "pt": [
+              "Verifique os limpa-vidros antes de arrancar.",
+              "Use estacionamento próximo das entradas.",
+              "Cuidado com o aquaplaning.",
+              "Tenha um guarda-chuva à mão na porta."
             ]
           }
         },
@@ -1768,7 +1909,8 @@
             "de": "Eine gemütliche Wintertour mit dem Auto. Morgens ist die Heizung bei Centum Cellas sehr willkommen. Mittags stärken wir uns in Belmonte. Der Nachmittag bietet klare Fernsichten auf die schneebedeckte Serra da Estrela. Abends fahren wir entspannt zurück, während es draußen frostig wird.",
             "hu": "Hangulatos téli autós túra. Reggel a fűtés jól jön Centum Cellas után. Ebédnél Belmonte ízeit élvezzük. Délután tiszta kilátás nyílik a havas Serra da Estrelára a kocsiból. Este nyugodtan autózunk vissza a fagyos időben.",
             "ro": "Un tur auto de iarnă plăcut. Dimineața încălzirea e binevenită la Centum Cellas. La prânz savurăm aromele din Belmonte. După-amiaza oferă vederi clare spre Serra da Estrela. Seara conducem relaxați înapoi.",
-            "en": "A cozy winter car tour. In the morning, heating is welcome at Centum Cellas. At lunch, enjoy Belmonte's flavors. Afternoon offers clear views of snowy Serra da Estrela. Evening drive back as it gets frosty outside."
+            "en": "A cozy winter car tour. In the morning, heating is welcome at Centum Cellas. At lunch, enjoy Belmonte's flavors. Afternoon offers clear views of snowy Serra da Estrela. Evening drive back as it gets frosty outside.",
+            "pt": "Um aconchegante roteiro de carro de inverno. De manhã, o aquecimento é bem-vindo em Centum Cellas. Ao almoço, desfrute dos sabores de Belmonte. A tarde oferece vistas limpas da Serra da Estrela nevada. À noite, conduza de regresso quando começar a ficar gelado lá fora."
           },
           "stops": [
             {
@@ -1777,7 +1919,8 @@
                 "de": "Fahrzeug vorheizen.",
                 "hu": "Fűtse elő az autót.",
                 "ro": "Preîncălziți vehiculul.",
-                "en": "Preheat the vehicle."
+                "en": "Preheat the vehicle.",
+                "pt": "Pré-aqueça o veículo."
               }
             },
             {
@@ -1786,7 +1929,8 @@
                 "de": "Kurze Gehwege einplanen.",
                 "hu": "Tervezzen rövid gyalogutakkal.",
                 "ro": "Planificați drumuri scurte.",
-                "en": "Plan for short walking distances."
+                "en": "Plan for short walking distances.",
+                "pt": "Planeie curtas distâncias a pé."
               }
             },
             {
@@ -1795,7 +1939,8 @@
                 "de": "Blick auf die Schneegipfel.",
                 "hu": "Kilátás a havas csúcsokra.",
                 "ro": "Vedere spre vârfurile cu zăpadă.",
-                "en": "View of the snowy peaks."
+                "en": "View of the snowy peaks.",
+                "pt": "Vista das cumes nevadas."
               }
             },
             {
@@ -1804,7 +1949,8 @@
                 "de": "Windgeschützter Parkplatz.",
                 "hu": "Szélvédett parkolóhely.",
                 "ro": "Loc de parcare ferit de vânt.",
-                "en": "Wind-sheltered parking spot."
+                "en": "Wind-sheltered parking spot.",
+                "pt": "Lugar de estacionamento protegido do vento."
               }
             },
             {
@@ -1813,7 +1959,8 @@
                 "de": "Warmer Rückzugsort im Museum.",
                 "hu": "Meleg búvóhely a múzeumban.",
                 "ro": "Refugiu cald în muzeu.",
-                "en": "Warm retreat in the museum."
+                "en": "Warm retreat in the museum.",
+                "pt": "Refúgio quente no museu."
               }
             },
             {
@@ -1822,7 +1969,8 @@
                 "de": "Sonnige Plätze zum Parken.",
                 "hu": "Válasszon napos helyet.",
                 "ro": "Alegeți locuri însorite.",
-                "en": "Choose sunny parking spots."
+                "en": "Choose sunny parking spots.",
+                "pt": "Escolha lugares de estacionamento ensolarados."
               }
             },
             {
@@ -1831,7 +1979,8 @@
                 "de": "Verkostung im Warmen.",
                 "hu": "Kóstoló meleg környezetben.",
                 "ro": "Degustare la căldură.",
-                "en": "Tasting in a warm room."
+                "en": "Tasting in a warm room.",
+                "pt": "Prova numa sala aquecida."
               }
             }
           ],
@@ -1859,6 +2008,12 @@
               "Watch for ice on high roads.",
               "Sunglasses for the low sun.",
               "Keep a warm blanket in the car."
+            ],
+            "pt": [
+              "Verifique o anticongelante do limpa-vidros.",
+              "Cuidado com gelo nas estradas altas.",
+              "Óculos de sol para o sol baixo.",
+              "Mantenha uma manta quente no carro."
             ]
           }
         }
@@ -1877,7 +2032,8 @@
             "de": "Busfahrt nach Centum Cellas",
             "hu": "Buszút a Centum Cellas-hoz",
             "ro": "Călătorie cu autobuzul la Centum Cellas",
-            "en": "Bus ride to Centum Cellas"
+            "en": "Bus ride to Centum Cellas",
+            "pt": "Viagem de autocarro para Centum Cellas"
           },
           "coords": [
             -7.3315,
@@ -1893,7 +2049,8 @@
             "de": "Nehmen Sie den lokalen Bus für eine kurze Fahrt aus der Stadt, um den Tag zu beginnen.",
             "hu": "Vegye igénybe a helyi buszt egy rövid útra a városból a nap megkezdéséhez.",
             "ro": "Luați autobuzul local pentru o scurtă călătorie în afara orașului pentru a începe ziua.",
-            "en": "Take the local bus for a short trip out of town to start the day."
+            "en": "Take the local bus for a short trip out of town to start the day.",
+            "pt": "Apanhe o autocarro local para uma curta viagem para fora da vila e começar o dia."
           }
         },
         {
@@ -1901,7 +2058,8 @@
             "de": "Busfahrt zum Burg-Gebiet",
             "hu": "Buszút a vár területére",
             "ro": "Călătorie cu autobuzul spre zona Castelului",
-            "en": "Bus ride to Castle area"
+            "en": "Bus ride to Castle area",
+            "pt": "Viagem de autocarro para a zona do Castelo"
           },
           "coords": [
             -7.351,
@@ -1917,7 +2075,8 @@
             "de": "Fahren Sie zurück in die Stadt und steigen Sie in der Nähe der Burg aus, um den Hügel zu Fuß zu erkunden.",
             "hu": "Menjen vissza a városba, és szálljon le a vár közelében, hogy gyalog fedezze fel a dombot.",
             "ro": "Luați autobuzul înapoi în oraș și coborâți lângă castel pentru a explora dealul pe jos.",
-            "en": "Take the bus back to town and get off near the castle to explore the hilltop."
+            "en": "Take the bus back to town and get off near the castle to explore the hilltop.",
+            "pt": "Apanhe o autocarro de volta à vila e saia perto do castelo para explorar o monte."
           }
         },
         {
@@ -1925,7 +2084,8 @@
             "de": "Burg von Belmonte",
             "hu": "Belmonte vára",
             "ro": "Castelul din Belmonte",
-            "en": "Belmonte Castle"
+            "en": "Belmonte Castle",
+            "pt": "Castelo de Belmonte"
           },
           "coords": [
             -7.3505,
@@ -1941,7 +2101,8 @@
             "de": "Der höchste Punkt Ihrer Tour mit der besten Aussicht.",
             "hu": "A túra legmagasabb pontja a legjobb kilátással.",
             "ro": "Cel mai înalt punct al turului dvs. cu cele mai bune priveliști.",
-            "en": "The highest point of your tour, with the best views."
+            "en": "The highest point of your tour, with the best views.",
+            "pt": "O ponto mais alto do seu roteiro, com as melhores vistas."
           }
         },
         {
@@ -1949,7 +2110,8 @@
             "de": "Kirche von Santiago",
             "hu": "Santiago-templom",
             "ro": "Biserica Santiago",
-            "en": "Church of Santiago"
+            "en": "Church of Santiago",
+            "pt": "Igreja de Santiago"
           },
           "coords": [
             -7.3499,
@@ -1965,7 +2127,8 @@
             "de": "Nur einen Steinwurf von der Burg entfernt.",
             "hu": "Csak egy kőhajításnyira a vártól.",
             "ro": "La o aruncătură de băț de castel.",
-            "en": "Just a stone's throw from the castle."
+            "en": "Just a stone's throw from the castle.",
+            "pt": "A apenas um passo do castelo."
           }
         },
         {
@@ -1973,7 +2136,8 @@
             "de": "Judiaria und Jüdisches Museum",
             "hu": "Judiaria és Zsidó Múzeum",
             "ro": "Judiaria și Muzeul Evreiesc",
-            "en": "Judiaria and Jewish Museum"
+            "en": "Judiaria and Jewish Museum",
+            "pt": "Judiaria e Museu Judaico"
           },
           "coords": [
             -7.3482,
@@ -1989,7 +2153,8 @@
             "de": "Der Spaziergang bergab in die Judiaria ist einfach. Hier finden Sie viele Mittagsmöglichkeiten.",
             "hu": "A séta lefelé a Judiariába könnyű. Itt rengeteg ebédlehetőséget talál.",
             "ro": "Plimbarea la vale spre Judiaria este ușoară. Veți găsi multe opțiuni de prânz aici.",
-            "en": "The walk downhill to the Judiaria is easy. You'll find many lunch options here."
+            "en": "The walk downhill to the Judiaria is easy. You'll find many lunch options here.",
+            "pt": "A caminhada a descer até à Judiaria é fácil. Encontrará muitas opções para almoço aqui."
           }
         },
         {
@@ -1997,7 +2162,8 @@
             "de": "Olivenölmuseum",
             "hu": "Olívaolaj Múzeum",
             "ro": "Muzeul Uleiului de Măsline",
-            "en": "Olive Oil Museum"
+            "en": "Olive Oil Museum",
+            "pt": "Museu do Azeite"
           },
           "coords": [
             -7.3468,
@@ -2013,7 +2179,8 @@
             "de": "Ein kurzer Spaziergang vom Zentrum der Judiaria entfernt.",
             "hu": "Egy rövid sétára a Judiaria központjától.",
             "ro": "La o scurtă plimbare de centrul Judiariei.",
-            "en": "A short walk from the center of the Judiaria."
+            "en": "A short walk from the center of the Judiaria.",
+            "pt": "A uma curta caminhada do centro da Judiaria."
           }
         },
         {
@@ -2021,7 +2188,8 @@
             "de": "Zentrale Bushaltestelle",
             "hu": "Központi buszmegálló",
             "ro": "Stație centrală de autobuz",
-            "en": "Central Bus Stop"
+            "en": "Central Bus Stop",
+            "pt": "Paragem Central de Autocarros"
           },
           "coords": [
             -7.3475,
@@ -2037,7 +2205,8 @@
             "de": "Beenden Sie Ihren Tag hier, bereit für Ihre nächste Reise.",
             "hu": "Fejezze be a napot itt, készen a következő útjára.",
             "ro": "Încheiați-vă ziua aici, gata pentru următoarea călătorie.",
-            "en": "End your day here, ready for your next journey."
+            "en": "End your day here, ready for your next journey.",
+            "pt": "Termine o dia aqui, pronto para a sua próxima viagem."
           }
         }
       ],
@@ -2045,7 +2214,8 @@
         "de": "Nutzen Sie den lokalen Bus, um Ihre Erkundung zu beginnen und fahren Sie zum römischen Turm Centum Cellas. Fahren Sie mit dem Bus zurück in die Stadt und erkunden Sie den Burgberg zu Fuß, genießen Sie die Aussicht und die Geschichte. Gehen Sie am Mittag hinunter in die Judiaria, wo Sie das jüdische Erbe und die lokale Küche entdecken. Der Nachmittag besteht aus einem kurzen Spaziergang zum Olivenölmuseum für einen letzten Einblick in die Kultur von Belmonte, bevor Sie zurück zur zentralen Bushaltestelle gehen.",
         "hu": "Használja a helyi buszt a felfedezés megkezdéséhez, eljutva a Centum Cellas római toronyhoz. Busszal térjen vissza a városba, és gyalog fedezze fel a várhegyet, élvezve a kilátást és a történelmet. Délben sétáljon le a Judiariába, ahol felfedezheti a zsidó örökséget és a helyi konyhát. A délután egy rövid sétát tartalmaz az Olívaolaj Múzeumhoz, hogy utoljára bepillantson Belmonte kultúrájába, mielőtt visszatér a központi buszmegállóba.",
         "ro": "Folosiți autobuzul local pentru a vă începe explorarea, călătorind la turnul roman Centum Cellas. Luați autobuzul înapoi în oraș pentru a explora dealul castelului pe jos, bucurându-vă de priveliști și istorie. La prânz, coborâți în Judiaria pentru a descoperi moștenirea evreiască și bucătăria locală. După-amiaza constă într-o scurtă plimbare la Muzeul Uleiului de Măsline pentru o ultimă privire asupra culturii din Belmonte, înainte de a vă întoarce la stația centrală de autobuz.",
-        "en": "Use the local bus to kickstart your exploration, travelling to the Centum Cellas Roman tower. Take the bus back to town to explore the castle hill on foot, enjoying the views and history. At midday, walk down into the Judiaria to discover the Jewish heritage and local cuisine. The afternoon consists of a short walk to the Olive Oil Museum for a final taste of Belmonte's culture before heading back to the central bus stop."
+        "en": "Use the local bus to kickstart your exploration, travelling to the Centum Cellas Roman tower. Take the bus back to town to explore the castle hill on foot, enjoying the views and history. At midday, walk down into the Judiaria to discover the Jewish heritage and local cuisine. The afternoon consists of a short walk to the Olive Oil Museum for a final taste of Belmonte's culture before heading back to the central bus stop.",
+        "pt": "Use o autocarro local para iniciar a sua exploração, viajando até à torre romana de Centum Cellas. Volte de autocarro à vila para explorar a colina do castelo a pé, apreciando as vistas e a história. Ao meio-dia, desça à Judiaria para descobrir a herança judaica e a cozinha local. A tarde consiste numa curta caminhada até ao Museu do Azeite para um último sabor da cultura de Belmonte antes de regressar à paragem central de autocarros."
       },
       "gastro_picks": {
         "de": [
@@ -2257,6 +2427,12 @@
           "Have small change ready for bus tickets.",
           "This is a great budget-friendly option for exploring Belmonte.",
           "Combining bus rides and walking gives a good balance of efficiency and exploration."
+        ],
+        "pt": [
+          "Consulte o horário do autocarro com antecedência, pois os serviços podem não ser frequentes.",
+          "Tenha troco preparado para os bilhetes do autocarro.",
+          "Esta é uma ótima opção económica para explorar Belmonte.",
+          "Combinar autocarro e caminhada oferece um bom equilíbrio entre eficiência e exploração."
         ]
       },
       "variants": {
@@ -2265,7 +2441,8 @@
             "de": "Mit dem Bus durch den Regen Belmontes. Morgens bringt uns der Nahverkehr trocken zu Centum Cellas. Mittags suchen wir Schutz in den Wartehallen. Nachmittags ist die Museumsmeile das ideale Ziel, da sie gut erreichbar ist. Abends kehren wir entspannt mit dem Bus zum Stadtzentrum zurück.",
             "hu": "Busszal Belmonte esőjében. Reggel a tömegközlekedés szárazon visz el Centum Cellashoz. Ebédnél a várótermekben pihenünk. Délután a múzeumi negyed az ideális cél, könnyen elérhető. Este kényelmesen buszozunk vissza a központba.",
             "ro": "Cu autobuzul prin ploaia din Belmonte. Dimineața transportul local ne duce uscat la Centum Cellas. La prânz stăm în stații acoperite. După-amiaza zona muzeelor e destinația ideală. Seara revenim relaxați cu autobuzul în centru.",
-            "en": "By bus through Belmonte's rain. In the morning local transit takes us dry to Centum Cellas. At lunch, we stay in sheltered waiting areas. Afternoon museum district is the ideal goal. In the evening, return relaxed to the center by bus."
+            "en": "By bus through Belmonte's rain. In the morning local transit takes us dry to Centum Cellas. At lunch, we stay in sheltered waiting areas. Afternoon museum district is the ideal goal. In the evening, return relaxed to the center by bus.",
+            "pt": "De autocarro pela chuva de Belmonte. De manhã o transporte local leva-nos secos a Centum Cellas. Ao almoço, permanecemos em áreas de espera abrigadas. A tarde no distrito dos museus é o objetivo ideal. À noite, regresse relaxado ao centro de autocarro."
           },
           "stops": [
             {
@@ -2274,7 +2451,8 @@
                 "de": "Bus bietet trockenes Reisen.",
                 "hu": "A busz száraz utazást biztosít.",
                 "ro": "Autobuzul asigură drum uscat.",
-                "en": "The bus provides dry travel."
+                "en": "The bus provides dry travel.",
+                "pt": "O autocarro proporciona viagens secas."
               }
             },
             {
@@ -2283,7 +2461,8 @@
                 "de": "Haltestellen oft ohne Dach.",
                 "hu": "A megállók gyakran fedetlenek.",
                 "ro": "Stațiile sunt adesea fără acoperiș.",
-                "en": "Stops are often without cover."
+                "en": "Stops are often without cover.",
+                "pt": "As paragens muitas vezes não têm cobertura."
               }
             },
             {
@@ -2292,7 +2471,8 @@
                 "de": "Vorsicht auf nassen Gehwegen.",
                 "hu": "Vigyázat a vizes járdákon.",
                 "ro": "Atenție la trotuarele ude.",
-                "en": "Caution on wet sidewalks."
+                "en": "Caution on wet sidewalks.",
+                "pt": "Cuidado com passeios molhados."
               }
             },
             {
@@ -2301,7 +2481,8 @@
                 "de": "Kurze Wartezeit im Freien.",
                 "hu": "Rövid kinti várakozás.",
                 "ro": "Așteptare scurtă afară.",
-                "en": "Short outdoor wait."
+                "en": "Short outdoor wait.",
+                "pt": "Curta espera ao ar livre."
               }
             },
             {
@@ -2310,7 +2491,8 @@
                 "de": "Perfekter Ort für Regenschauer.",
                 "hu": "Tökéletes hely a nagy esőben.",
                 "ro": "Loc perfect în caz de ploaie.",
-                "en": "Perfect place during rain."
+                "en": "Perfect place during rain.",
+                "pt": "Local perfeito durante a chuva."
               }
             },
             {
@@ -2319,7 +2501,8 @@
                 "de": "Indoor-Programm am Nachmittag.",
                 "hu": "Fedett délutáni program.",
                 "ro": "Program interior după-amiaza.",
-                "en": "Indoor afternoon program."
+                "en": "Indoor afternoon program.",
+                "pt": "Programa de tarde em espaços interiores."
               }
             },
             {
@@ -2328,7 +2511,8 @@
                 "de": "Schnelle Rückkehr ins Hotel.",
                 "hu": "Gyors visszatérés a szállásra.",
                 "ro": "Revenire rapidă la cazare.",
-                "en": "Quick return to accommodation."
+                "en": "Quick return to accommodation.",
+                "pt": "Regresso rápido ao alojamento."
               }
             }
           ],
@@ -2356,6 +2540,12 @@
               "Have small change for tickets.",
               "Close your umbrella when boarding.",
               "Plan waiting times under cover."
+            ],
+            "pt": [
+              "Consulte horários dos autocarros online.",
+              "Tenha troco para os bilhetes.",
+              "Feche o guarda-chuva ao embarcar.",
+              "Planeie tempos de espera sob cobertura."
             ]
           }
         },
@@ -2364,7 +2554,8 @@
             "de": "Winterreise mit öffentlichen Mitteln. Morgens ist der Bus nach Centum Cellas angenehm beheizt. Mittags genießen wir die Wärme in Belmonte. Den Nachmittag verbringen wir in den gut temperierten Museen der Stadt. Abends bringt uns der letzte Bus sicher durch die Kälte zurück zum Start.",
             "hu": "Téli utazás tömegközlekedéssel. Reggel a Centum Cellas-i busz kellemesen fűtött. Ebédnél Belmonte melegét élvezzük. A délutánt a város jól fűtött múzeumaiban töltjük. Este az utolsó busz biztonságban visz vissza a hidegen át.",
             "ro": "Călătorie de iarnă cu mijloace publice. Dimineața autobuzul spre Centum Cellas e încălzit. La prânz savurăm căldura din Belmonte. După-amiaza o petrecem în muzeele încălzite. Seara ultimul autobuz ne duce în siguranță înapoi.",
-            "en": "Winter trip by public transport. In the morning, the bus to Centum Cellas is warm. At lunch, enjoy the warmth of Belmonte. Afternoon spent in heated museums. In the evening, the last bus brings us back safely through the cold."
+            "en": "Winter trip by public transport. In the morning, the bus to Centum Cellas is warm. At lunch, enjoy the warmth of Belmonte. Afternoon spent in heated museums. In the evening, the last bus brings us back safely through the cold.",
+            "pt": "Viagem de inverno por transporte público. De manhã, o autocarro para Centum Cellas é quente. Ao almoço, desfrute do calor em Belmonte. A tarde passada em museus aquecidos. À noite, o último autocarro traz-nos de volta em segurança através do frio."
           },
           "stops": [
             {
@@ -2373,7 +2564,8 @@
                 "de": "Sitzplatz an der Heizung suchen.",
                 "hu": "Üljön a fűtőtest közelébe.",
                 "ro": "Loc lângă calorifer.",
-                "en": "Seat near the heater."
+                "en": "Seat near the heater.",
+                "pt": "Sente-se perto do aquecedor."
               }
             },
             {
@@ -2382,7 +2574,8 @@
                 "de": "Tiefstehende Sonne im Bus.",
                 "hu": "Alacsony napállás a buszon.",
                 "ro": "Soarele jos în autobuz.",
-                "en": "Low sun in the bus."
+                "en": "Low sun in the bus.",
+                "pt": "Sol baixo no autocarro."
               }
             },
             {
@@ -2391,7 +2584,8 @@
                 "de": "Kalte Brise am Burgtor.",
                 "hu": "Hideg szellő a várkapunál.",
                 "ro": "Briză rece la poartă.",
-                "en": "Cold breeze at the gate."
+                "en": "Cold breeze at the gate.",
+                "pt": "Brisa fria no portão."
               }
             },
             {
@@ -2400,7 +2594,8 @@
                 "de": "Ruhiger, kühler Innenraum.",
                 "hu": "Csendes, hűvös belső tér.",
                 "ro": "Interior liniștit și răcoros.",
-                "en": "Quiet, cool interior."
+                "en": "Quiet, cool interior.",
+                "pt": "Interior calmo e fresco."
               }
             },
             {
@@ -2409,7 +2604,8 @@
                 "de": "Warmer Ausstellungsbereich.",
                 "hu": "Meleg kiállítótér.",
                 "ro": "Zonă expozițională caldă.",
-                "en": "Warm exhibition area."
+                "en": "Warm exhibition area.",
+                "pt": "Área de exposição aquecida."
               }
             },
             {
@@ -2418,7 +2614,8 @@
                 "de": "Aufwärmen vor der Rückfahrt.",
                 "hu": "Melegedés a visszaut előtt.",
                 "ro": "Încălzire înainte de întoarcere.",
-                "en": "Warm up before the return trip."
+                "en": "Warm up before the return trip.",
+                "pt": "Aqueça-se antes da viagem de regresso."
               }
             },
             {
@@ -2427,7 +2624,8 @@
                 "de": "Letzte Fahrt vor Dunkelheit.",
                 "hu": "Utolsó járat sötétedés előtt.",
                 "ro": "Ultima cursă înainte de întuneric.",
-                "en": "Last trip before darkness."
+                "en": "Last trip before darkness.",
+                "pt": "Última viagem antes de escurecer."
               }
             }
           ],
@@ -2455,6 +2653,12 @@
               "Check the winter schedule.",
               "Choose seats on the sunny side.",
               "Have gloves ready for ticket handling."
+            ],
+            "pt": [
+              "Meias grossas para os tempos de espera.",
+              "Verifique o horário de inverno.",
+              "Escolha lugares no lado ensolarado.",
+              "Tenha luvas à mão para manusear bilhetes."
             ]
           }
         }

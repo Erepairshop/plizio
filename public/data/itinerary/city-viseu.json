@@ -21,7 +21,8 @@
             "de": "Aquilino Ribeiro Park",
             "hu": "Aquilino Ribeiro Park",
             "ro": "Parcul Aquilino Ribeiro",
-            "en": "Aquilino Ribeiro Park"
+            "en": "Aquilino Ribeiro Park",
+            "pt": "Parque Aquilino Ribeiro"
           },
           "coords": [
             -7.915674,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag in dieser üppigen, weitläufigen Stadtoase mit exotischen Bäumen, wo ein ruhiger Morgenspaziergang vor dem Eintreffen der Massen herrlich ist.",
             "hu": "Kezdje a napot ebben a buja, egzotikus fákkal teli hatalmas oázisban, és tegyen egy csendes, békés reggeli sétát a nagyobb turistatömegek érkezése előtt.",
             "ro": "Începeți ziua în această oază urbană luxuriantă plină de arbori exotici, făcând o plimbare liniștită de dimineață înainte ca aglomerația să umple aleile.",
-            "en": "Start your day in this lush, expansive urban oasis filled with exotic trees, taking a peaceful morning stroll before the crowds arrive and the city wakes up."
+            "en": "Start your day in this lush, expansive urban oasis filled with exotic trees, taking a peaceful morning stroll before the crowds arrive and the city wakes up.",
+            "pt": "Comece o dia nesta oásis urbana exuberante e vasta repleta de árvores exóticas, fazendo uma tranquila caminhada matinal antes que cheguem as multidões e a cidade acorde."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Muralha Romana da Rua Formosa",
             "hu": "Rua Formosa római fala",
             "ro": "Zidul Roman de pe Rua Formosa",
-            "en": "Roman Wall of Rua Formosa"
+            "en": "Roman Wall of Rua Formosa",
+            "pt": "Muralha Romana da Rua Formosa"
           },
           "coords": [
             -7.910854,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie diese beeindruckenden römischen Mauerfragmente sicher unter massiven Glasplatten und achten Sie auf das faszinierende alte Mauerwerk der Erbauer.",
             "hu": "Csodálja meg az üvegpanelek alatt biztonságosan látható, lenyűgöző római faldarabokat, különös figyelmet szentelve az egykori építők ősi, masszív falazatának.",
             "ro": "Admirați aceste fragmente impresionante de zid roman vizibile în siguranță sub panouri de sticlă, observând zidăria antică și măiestria constructorilor vechi.",
-            "en": "Admire these impressive Roman wall fragments safely visible beneath glass panels underfoot, paying attention to the intricate ancient masonry of the builders."
+            "en": "Admire these impressive Roman wall fragments safely visible beneath glass panels underfoot, paying attention to the intricate ancient masonry of the builders.",
+            "pt": "Admire estes impressionantes fragmentos da muralha romana visíveis com segurança sob painéis de vidro sob os pés, prestando atenção à intrincada alvenaria antiga dos construtores."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museu de História da Cidade",
             "hu": "Várostörténeti Múzeum",
             "ro": "Muzeul de Istorie a Orașului",
-            "en": "City History Museum"
+            "en": "City History Museum",
+            "pt": "Museu de História da Cidade"
           },
           "coords": [
             -7.910616,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie Viseus reiche Vergangenheit in interaktiven Ausstellungen, bei denen Sie unbedingt die Multimedia-Präsentationen für mehr Kontext nutzen sollten.",
             "hu": "Fedezze fel Viseu gazdag múltját az interaktív kiállításokon keresztül; a történelmi kontextus megértéséhez mindenképpen érdemes használni a multimédiás paneleket.",
             "ro": "Descoperiți trecutul bogat al orașului Viseu prin expoziții interactive în acest muzeu; asigurați-vă că verificați afișajele multimedia pentru context istoric.",
-            "en": "Discover Viseu's rich past through interactive exhibits in this engaging local museum, where checking the multimedia displays is highly recommended for context."
+            "en": "Discover Viseu's rich past through interactive exhibits in this engaging local museum, where checking the multimedia displays is highly recommended for context.",
+            "pt": "Descubra o rico passado de Viseu através de exposições interativas neste envolvente museu local; recomenda‑se consultar os ecrãs multimédia para obter contexto."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museu da Misericórdia de Viseu",
             "hu": "Misericórdia Múzeum",
             "ro": "Muzeul Misericórdia din Viseu",
-            "en": "Misericórdia Museum of Viseu"
+            "en": "Misericórdia Museum of Viseu",
+            "pt": "Museu da Misericórdia de Viseu"
           },
           "coords": [
             -7.911729,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie die riesige Sammlung sakraler Kunst in diesem Museum und nehmen Sie sich Zeit, die wunderschön erhaltenen barocken Details genau zu bewundern.",
             "hu": "Fedezze fel a szakrális művészet hatalmas gyűjteményét ebben a lenyűgöző múzeumban, és szánjon egy percet a gyönyörűen megőrzött barokk részletek megcsodálására.",
             "ro": "Explorați o colecție vastă de artă sacră și artefacte istorice uimitoare, făcându-vă timp pentru a aprecia detaliile baroce frumos conservate din interior.",
-            "en": "Explore a vast collection of sacred art and historical artifacts in this stunning museum, taking a moment to appreciate the beautifully preserved baroque details."
+            "en": "Explore a vast collection of sacred art and historical artifacts in this stunning museum, taking a moment to appreciate the beautifully preserved baroque details.",
+            "pt": "Explore uma vasta coleção de arte sacra e artefatos históricos neste deslumbrante museu, reservando um momento para apreciar os belos detalhes barrocos preservados."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Muralha de Viseu",
             "hu": "Viseu városfala",
             "ro": "Zidul orașului Viseu",
-            "en": "Viseu City Wall"
+            "en": "Viseu City Wall",
+            "pt": "Muralha da Cidade de Viseu"
           },
           "coords": [
             -7.907282,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie entlang der imposanten Überreste der mittelalterlichen Stadtmauer und halten Sie unbedingt Ausschau nach den noch erhaltenen authentischen Toren.",
             "hu": "Sétáljon az óvárost egykor védelmező középkori városfalak impozáns maradványai mentén, és tartsa nyitva a szemét a máig megmaradt hiteles, eredeti kapukért.",
             "ro": "Plimbați-vă de-a lungul rămășițelor impunătoare ale zidurilor medievale care protejau orașul, căutând cu atenție porțile originale autentice rămase intacte.",
-            "en": "Walk alongside the imposing remnants of the medieval city walls that protected the old town, keeping a close eye out for the remaining authentic original gates."
+            "en": "Walk alongside the imposing remnants of the medieval city walls that protected the old town, keeping a close eye out for the remaining authentic original gates.",
+            "pt": "Caminhe ao longo dos imponentes vestígios das muralhas medievais que protegiam a cidade velha, observando atentamente os portões originais que ainda permanecem."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Teatro Viriato",
             "hu": "Teatro Viriato",
             "ro": "Teatrul Viriato",
-            "en": "Teatro Viriato"
+            "en": "Teatro Viriato",
+            "pt": "Teatro Viriato"
           },
           "coords": [
             -7.908173,
@@ -151,7 +162,8 @@
             "de": "Beenden Sie Ihren Rundgang an diesem wunderschön restaurierten historischen Theater, wo Sie das Programm prüfen oder einfach die prachtvolle Fassade bewundern.",
             "hu": "Fejezze be a sétát ennél a gyönyörűen felújított történelmi színházépületnél; nézze meg az esti műsort, vagy csak csodálja meg a lenyűgöző, grandiózus homlokzatot.",
             "ro": "Încheiați-vă turul pietonal la acest teatru istoric frumos restaurat; verificați programul de seară sau pur și simplu admirați fațada grandioasă din stradă.",
-            "en": "Conclude your walking tour at this beautifully restored historic theater building; check the schedule for evening performances or simply admire the grand facade."
+            "en": "Conclude your walking tour at this beautifully restored historic theater building; check the schedule for evening performances or simply admire the grand facade.",
+            "pt": "Conclua o seu passeio pedonal neste belo teatro histórico restaurado; verifique o programa para espetáculos noturnos ou simplesmente admire a fachada grandiosa."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Morgens: Beginnen Sie im friedlichen Aquilino Ribeiro Park und entdecken Sie dann die verborgenen römischen Mauern unter der Rua Formosa.\nMittags: Besuchen Sie das Museu de História da Cidade, um mehr über die Ursprünge von Viseu zu erfahren, bevor Sie eine Mittagspause einlegen.\nNachmittags: Bestaunen Sie die religiöse Kunst im Museu da Misericórdia und spazieren Sie entlang der alten mittelalterlichen Stadtmauern.\nAbends: Beenden Sie den Tag am wunderschönen Teatro Viriato, wo Sie die lebhafte Atmosphäre des beleuchteten historischen Zentrums genießen.",
         "hu": "Délelőtt: Kezdje a békés Aquilino Ribeiro Parkban, majd fedezze fel a Rua Formosa alatt rejtőző, lenyűgöző római kori falmaradványokat.\nDélben: Látogasson el a Museu de História da Cidade-ba, hogy megismerje Viseu eredetét, mielőtt megejt egy jól megérdemelt ebédszünetet.\nDélután: Töltse a délutánt a Museu da Misericórdia vallási művészetének megcsodálásával, majd sétáljon az ókori középkori falak mentén.\nEste: Fejezze be a napot a Teatro Viriato közelében, élvezze az előadást vagy csak a kivilágított történelmi központ nyüzsgő hangulatát.",
         "ro": "Dimineața: Începeți în parcul liniștit Aquilino Ribeiro, apoi descoperiți zidurile romane ascunse sub pavajul de sticlă de pe Rua Formosa.\nAmiaza: Vizitați Museu de História da Cidade pentru a afla despre originile orașului Viseu înainte de a lua o binemeritată pauză de prânz.\nDupă-amiaza: Petreceți după-amiaza admirând arta religioasă la Museu da Misericórdia și urmărind liniile vechilor ziduri medievale.\nSeara: Încheiați ziua lângă Teatro Viriato, bucurându-vă de un spectacol sau pur și simplu de atmosfera plină de viață a centrului istoric.",
-        "en": "Morning: Start in the peaceful Aquilino Ribeiro Park, breathing in the fresh air before discovering the hidden Roman walls beneath Rua Formosa.\nMidday: As the sun climbs, head into the Museu de História da Cidade to learn about Viseu's origins before taking a well-deserved lunch break.\nAfternoon: Spend the afternoon marveling at the religious art in Museu da Misericórdia and tracing the ancient lines of the old medieval walls.\nEvening: Conclude the walking day near Teatro Viriato, perhaps catching a show or simply enjoying the lively atmosphere of the illuminated historic center."
+        "en": "Morning: Start in the peaceful Aquilino Ribeiro Park, breathing in the fresh air before discovering the hidden Roman walls beneath Rua Formosa.\nMidday: As the sun climbs, head into the Museu de História da Cidade to learn about Viseu's origins before taking a well-deserved lunch break.\nAfternoon: Spend the afternoon marveling at the religious art in Museu da Misericórdia and tracing the ancient lines of the old medieval walls.\nEvening: Conclude the walking day near Teatro Viriato, perhaps catching a show or simply enjoying the lively atmosphere of the illuminated historic center.",
+        "pt": "Manhã: Comece no tranquilo Parque Aquilino Ribeiro, respirando o ar fresco antes de descobrir as escondidas muralhas romanas sob a Rua Formosa.\nMeio‑dia: À medida que o sol sobe, dirija‑se ao Museu de História da Cidade para aprender sobre as origens de Viseu antes de fazer uma merecida pausa para almoço.\nTarde: Passe a tarde a maravilhar‑se com a arte religiosa no Museu da Misericórdia e a traçar as antigas linhas das velhas muralhas medievais.\nNoite: Termine o dia pedonal perto do Teatro Viriato, talvez assistindo a um espetáculo ou simplesmente apreciando a animada atmosfera do centro histórico iluminado."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Tag beginnt im Park, wo die dichten Baumkronen den ersten Nieselregen abfangen. Es ist ein ruhiger Start in einer fast mystischen Atmosphäre.\n\nMittags flüchten wir vor den Schauern in das Stadtgeschichtsmuseum. Die dicken Mauern bieten Schutz, während wir tief in die lokale Historie eintauchen.\n\nAm Nachmittag nutzen wir die überdachten Bereiche des Misericórdia Museums, um trocken zu bleiben und sakrale Kunstwerke ohne Eile zu bewundern.\n\nAbends endet die Tour im Teatro Viriato. Das moderne Foyer ist der perfekte Ort, um sich aufzuwärmen und den Blick auf die glänzenden, nassen Gassen zu genießen.",
             "hu": "A napot a parkban kezdjük, ahol a sűrű lombkoronák felfogják az első cseppeket, különleges, párás hangulatot árasztva a város szívében.\n\nDélben a Várostörténeti Múzeum vastag falai közé menekülünk a zápor elől, ahol a fedett termekben zavartalanul ismerkedhetünk Viseu gazdag múltjával.\n\nDélután a Misericórdia Múzeum nyújt menedéket a csapadék ellen, így szárazon csodálhatjuk meg a vallási művészet lenyűgöző helyi gyűjteményét.\n\nEste a Teatro Viriato modern épületében találunk otthonra, ahol a színházi atmoszféra feledteti a kinti esőt és a csúszós, vizes macskaköveket.",
             "ro": "Ziua începe în parc, unde coroanele dese ale copacilor oferă o protecție naturală împotriva burniței, creând o atmosferă liniștită și proaspătă.\n\nLa prânz, ne adăpostim de ploaie în Muzeul de Istorie a Orașului, profitând de spațiile interioare pentru a descoperi legendele locale la căldură.\n\nDupă-amiaza, explorăm Muzeul Misericórdia, un refugiu cultural ideal unde putem admira arta sacră în timp ce așteptăm ca norii de deasupra zidurilor să treacă.\n\nSeara se încheie la Teatro Viriato, un spațiu modern și primitor, perfect pentru a ne usca hainele și a reflecta asupra frumuseții orașului sub ploaie.",
-            "en": "The day starts in the park, where the thick canopy provides a natural umbrella against the light morning drizzle, creating a serene, misty vibe.\n\nBy noon, we retreat from the heavier rain into the City History Museum, using the indoor galleries to explore Viseu's past while staying perfectly dry.\n\nIn the afternoon, the Misericórdia Museum serves as a cultural sanctuary, allowing us to admire sacred art without worrying about the puddles forming outside.\n\nEvening concludes at Teatro Viriato, a modern indoor venue where you can warm up and watch the city lights reflect off the wet, cobblestone streets."
+            "en": "The day starts in the park, where the thick canopy provides a natural umbrella against the light morning drizzle, creating a serene, misty vibe.\n\nBy noon, we retreat from the heavier rain into the City History Museum, using the indoor galleries to explore Viseu's past while staying perfectly dry.\n\nIn the afternoon, the Misericórdia Museum serves as a cultural sanctuary, allowing us to admire sacred art without worrying about the puddles forming outside.\n\nEvening concludes at Teatro Viriato, a modern indoor venue where you can warm up and watch the city lights reflect off the wet, cobblestone streets.",
+            "pt": "O dia começa no parque, onde o denso dossel funciona como guarda‑chuva natural contra a leve garoa matinal, criando uma atmosfera serena e enevoada.\n\nAo meio‑dia, refugiamos da chuva mais forte no Museu de História da Cidade, aproveitando as galerias interiores para explorar o passado de Viseu enquanto permanecemos completamente secos.\n\nÀ tarde, o Museu da Misericórdia serve de santuário cultural, permitindo admirar a arte sacra sem preocupar‑se com as poças que se formam lá fora.\n\nA noite termina no Teatro Viriato, um espaço interior moderno onde pode aquecer e ver as luzes da cidade refletirem nas ruas de calçada molhadas."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Aquilino Ribeiro Park",
                 "hu": "Aquilino Ribeiro Park",
                 "ro": "Parcul Aquilino Ribeiro",
-                "en": "Aquilino Ribeiro Park"
+                "en": "Aquilino Ribeiro Park",
+                "pt": "Parque Aquilino Ribeiro"
               },
               "tip_5lang": {
                 "de": "Suchen Sie unter den großen Magnolienbäumen Schutz vor dem Regen und genießen Sie den Duft der feuchten Erde mitten im Stadtzentrum.",
                 "hu": "Keressen menedéket a hatalmas magnóliafák alatt az eső elől, és élvezze a nedves föld friss illatát a város központjában.",
                 "ro": "Căutați adăpost sub magnoalii uriași pentru a evita ploaia și bucurați-vă de parfumul proaspăt al pământului umed în centrul orașului.",
-                "en": "Seek shelter under the massive magnolia trees to escape the rain and enjoy the fresh scent of damp earth in the city center."
+                "en": "Seek shelter under the massive magnolia trees to escape the rain and enjoy the fresh scent of damp earth in the city center.",
+                "pt": "Procure abrigo sob as maciças magnólias para escapar à chuva e desfrutar do fresco aroma da terra molhada no centro da cidade."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Muralha Romana da Rua Formosa",
                 "hu": "Rua Formosa római fala",
                 "ro": "Zidul Roman de pe Rua Formosa",
-                "en": "Roman Wall of Rua Formosa"
+                "en": "Roman Wall of Rua Formosa",
+                "pt": "Muralha Romana da Rua Formosa"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die antiken Steine unter einem Regenschirm, da das Granitpflaster bei Nässe extrem rutschig werden kann; Vorsicht beim Gehen.",
                 "hu": "Esernyő alól csodálja meg az ősi köveket, mivel a gránitburkolat nedvesen rendkívül csúszóssá válhat, ezért óvatosan lépkedjen.",
                 "ro": "Admirați pietrele antice de sub o umbrelă, deoarece pavajul de granit poate deveni extrem de alunecos când este ud; mergeți cu mare grijă.",
-                "en": "Admire the ancient stones from under an umbrella, as the granite pavement can become extremely slippery when wet; walk with extra caution."
+                "en": "Admire the ancient stones from under an umbrella, as the granite pavement can become extremely slippery when wet; walk with extra caution.",
+                "pt": "Admire as pedras antigas debaixo de um guarda‑chuva, pois o calçamento granítico pode tornar‑se extremamente escorregadio quando molhado; caminhe com muita cautela."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Museu de História da Cidade",
                 "hu": "Várostörténeti Múzeum",
                 "ro": "Muzeul de Istorie a Orașului",
-                "en": "City History Museum"
+                "en": "City History Museum",
+                "pt": "Museu de História da Cidade"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie dieses Museum als perfekten Rückzugsort vor dem Wetter, um die interaktiven Ausstellungen zur Entwicklung Viseus im Trockenen zu studieren.",
                 "hu": "Használja ezt a múzeumot tökéletes búvóhelyként az időjárás elől, hogy szárazon tanulmányozhassa Viseu fejlődésének interaktív kiállításait.",
                 "ro": "Folosiți acest muzeu ca pe un refugiu perfect împotriva vremii, studiind expozițiile interactive despre evoluția orașului Viseu la loc uscat.",
-                "en": "Use this museum as a perfect hideout from the weather to study the interactive exhibits on Viseu's evolution while staying dry."
+                "en": "Use this museum as a perfect hideout from the weather to study the interactive exhibits on Viseu's evolution while staying dry.",
+                "pt": "Use este museu como um perfeito refúgio do tempo para estudar as exposições interativas sobre a evolução de Viseu enquanto se mantém seco."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Museu da Misericórdia de Viseu",
                 "hu": "Misericórdia Múzeum",
                 "ro": "Muzeul Misericórdia din Viseu",
-                "en": "Misericórdia Museum of Viseu"
+                "en": "Misericórdia Museum of Viseu",
+                "pt": "Museu da Misericórdia de Viseu"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die prächtige Kathedrale direkt nebenan vom überdachten Kircheneingang aus, um den starken Regenphasen elegant auszuweichen.",
                 "hu": "Csodálja meg a szomszédos katedrális látványát a templom fedett bejárata alól, így elegánsan elkerülheti a hevesebb esőzéseket.",
                 "ro": "Admirați catedrala vecină de sub intrarea acoperită a bisericii, evitând astfel elegant perioadele de ploaie mai intensă.",
-                "en": "Admire the neighboring cathedral from under the covered church entrance to elegantly avoid the heavier rain showers during your visit."
+                "en": "Admire the neighboring cathedral from under the covered church entrance to elegantly avoid the heavier rain showers during your visit.",
+                "pt": "Admire a catedral vizinha desde a entrada coberta da igreja para evitar elegantemente as chuvas mais fortes durante a sua visita."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Muralha de Viseu",
                 "hu": "Viseu városfala",
                 "ro": "Zidul orașului Viseu",
-                "en": "Viseu City Wall"
+                "en": "Viseu City Wall",
+                "pt": "Muralha da Cidade de Viseu"
               },
               "tip_5lang": {
                 "de": "Die Torbögen der alten Stadtmauer bieten kurzzeitigen Schutz; beobachten Sie, wie der Regen die Textur der mittelalterlichen Steine verändert.",
                 "hu": "A régi városfal boltívei rövid távú menedéket nyújtanak; figyelje meg, hogyan változtatja meg az eső a középkori kövek textúráját.",
                 "ro": "Arcadele vechiului zid al orașului oferă adăpost temporar; observați cum ploaia schimbă textura și culoarea pietrelor medievale.",
-                "en": "The archways of the old city wall provide short-term shelter; observe how the rain changes the texture and color of the medieval stones."
+                "en": "The archways of the old city wall provide short-term shelter; observe how the rain changes the texture and color of the medieval stones.",
+                "pt": "Os arcos da velha muralha oferecem abrigo de curta duração; observe como a chuva altera a textura e a cor das pedras medievais."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Teatro Viriato",
                 "hu": "Teatro Viriato",
                 "ro": "Teatrul Viriato",
-                "en": "Teatro Viriato"
+                "en": "Teatro Viriato",
+                "pt": "Teatro Viriato"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich im modernen Foyer auf und prüfen Sie das Abendprogramm, während draußen der Regen auf das Glasdach trommelt.",
                 "hu": "Melegedjen fel a modern előcsarnokban, és nézze meg az esti programot, miközben kint az eső dobol az üvegtetőn.",
                 "ro": "Încălziți-vă în foierul modern și verificați programul de seară în timp ce afară ploaia bate ritmic în acoperișul de sticlă.",
-                "en": "Warm up in the modern foyer and check the evening schedule while the rain drums rhythmically on the glass roof outside."
+                "en": "Warm up in the modern foyer and check the evening schedule while the rain drums rhythmically on the glass roof outside.",
+                "pt": "Aqueça‑se no moderno átrio e consulte a programação da noite enquanto a chuva bate ritmicamente no telhado de vidro lá fora."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frischer Wintermorgen beginnt im Park. Die kahlen Äste geben den Blick auf die umliegenden historischen Gebäude frei, während der Reif glitzert.\n\nMittags wärmen wir uns in den geschichtsträchtigen Museen auf. Der Kontrast zwischen der Kälte draußen und der Kultur drinnen ist belebend.\n\nAm Nachmittag wandern wir entlang der Stadtmauern. Das tiefe Licht der Wintersonne lässt den Granit in warmen Goldtönen leuchten, bevor es früh dämmert.\n\nDa die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir die stimmungsvolle Beleuchtung des Teatro Viriato und die gemütliche Abendruhe der Stadt.",
             "hu": "Friss téli reggel köszönt ránk a parkban. A kopár ágak közül zavartalan kilátás nyílik a környező épületekre a zúzmarás füvön át.\n\nDélben a történelmi falak érintése után a múzeumok hívogató melegében engedünk fel, ahol a város múltja a hideg elől védve elevenedik meg.\n\nDélután a várfal mentén sétálunk; az alacsonyan járó téli nap fénye aranyló barnára festi a gránitköveket a korai szürkület előtt.\n\nMivel 17:00 körül már sötétedik, a Teatro Viriato fényeinek hívogató melegében és a kivilágított óváros csendjében zárjuk a viseui napot.",
             "ro": "O dimineață proaspătă de iarnă începe în parc. Ramurile golașe dezvăluie clădirile istorice din jur, în timp ce bruma strălucește pe iarbă.\n\nLa prânz, ne încălzim în muzeele pline de istorie. Contrastul dintre frigul de afară și cultura din interior este extrem de revigorant.\n\nDupă-amiaza ne plimbăm de-a lungul zidurilor orașului; lumina caldă a soarelui de iarnă pictând granitul în nuanțe aurii înainte de amurgul timpuriu.\n\nDeoarece soarele apune deja în jur de ora 17:00, ne bucurăm de iluminatul atmosferic al Teatro Viriato și de liniștea primitoare a serii.",
-            "en": "A crisp winter morning begins in the park. The bare branches reveal clear views of the surrounding historic buildings while frost sparkles on the grass.\n\nAt noon, we warm up inside the history-rich museums. The contrast between the cold air outside and the culture within is truly invigorating.\n\nIn the afternoon, we walk along the city walls; the low winter sun paints the granite stones in warm golden hues before the early twilight sets in.\n\nSince the sun sets around 17:00, we enjoy the atmospheric lighting of Teatro Viriato and the cozy evening stillness of the illuminated old town."
+            "en": "A crisp winter morning begins in the park. The bare branches reveal clear views of the surrounding historic buildings while frost sparkles on the grass.\n\nAt noon, we warm up inside the history-rich museums. The contrast between the cold air outside and the culture within is truly invigorating.\n\nIn the afternoon, we walk along the city walls; the low winter sun paints the granite stones in warm golden hues before the early twilight sets in.\n\nSince the sun sets around 17:00, we enjoy the atmospheric lighting of Teatro Viriato and the cozy evening stillness of the illuminated old town.",
+            "pt": "Uma manhã fria de inverno começa no parque. Os ramos despidos revelam vistas nítidas dos edifícios históricos circundantes enquanto a geada cintila na relva.\n\nAo meio‑dia aquecemo‑nos dentro dos museus ricos em história. O contraste entre o ar frio lá fora e a cultura no interior é verdadeiramente revigorante.\n\nÀ tarde, caminhamos ao longo das muralhas da cidade; o baixo sol de inverno pinta o granito com tons dourados antes do início do crepúsculo precoce.\n\nComo o sol se põe por volta das 17:00, desfrutamos da iluminação atmosférica do Teatro Viriato e da acolhedora quietude nocturna da cidade velha iluminada."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Aquilino Ribeiro Park",
                 "hu": "Aquilino Ribeiro Park",
                 "ro": "Parcul Aquilino Ribeiro",
-                "en": "Aquilino Ribeiro Park"
+                "en": "Aquilino Ribeiro Park",
+                "pt": "Parque Aquilino Ribeiro"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Schichten für den Spaziergang und genießen Sie die klare Winterluft, die die Sicht auf die Statuen im Park verbessert.",
                 "hu": "Öltözzön rétegesen a sétához, és élvezze a tiszta téli levegőt, amely sokkal élesebb kilátást biztosít a park szobraira.",
                 "ro": "Purtați haine groase în straturi și bucurați-vă de aerul curat de iarnă, care oferă o vizibilitate mult mai clară asupra statuilor din parc.",
-                "en": "Wear warm layers for your walk and enjoy the crisp winter air, which provides much clearer views of the statues throughout the park."
+                "en": "Wear warm layers for your walk and enjoy the crisp winter air, which provides much clearer views of the statues throughout the park.",
+                "pt": "Vista camadas quentes para a sua caminhada e desfrute do ar frio e límpido de inverno, que proporciona vistas muito mais claras das estátuas do parque."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Muralha Romana da Rua Formosa",
                 "hu": "Rua Formosa római fala",
                 "ro": "Zidul Roman de pe Rua Formosa",
-                "en": "Roman Wall of Rua Formosa"
+                "en": "Roman Wall of Rua Formosa",
+                "pt": "Muralha Romana da Rua Formosa"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die römischen Quader; ideal für Fotos mit dramatischen Kontrasten am späten Vormittag.",
                 "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a római kövekre; ideális helyszín drámai kontrasztú fotókhoz a késő délelőtti órákban.",
                 "ro": "Soarele de iarnă proiectează umbre lungi pe blocurile romane; este un moment ideal pentru fotografii cu contraste dramatice în cursul dimineții.",
-                "en": "The low winter sun casts long shadows on the Roman blocks; it's an ideal spot for photos with dramatic contrasts during the late morning."
+                "en": "The low winter sun casts long shadows on the Roman blocks; it's an ideal spot for photos with dramatic contrasts during the late morning.",
+                "pt": "O baixo sol de inverno projeta longas sombras sobre os blocos romanos; é um local ideal para fotografias com contrastes dramáticos durante o final da manhã."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Museu de História da Cidade",
                 "hu": "Várostörténeti Múzeum",
                 "ro": "Muzeul de Istorie a Orașului",
-                "en": "City History Museum"
+                "en": "City History Museum",
+                "pt": "Museu de História da Cidade"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die beheizten Ausstellungsräume, um Ihre Hände aufzuwärmen, während Sie die archäologischen Funde der Region in Ruhe erkunden.",
                 "hu": "Használja ki a fűtött kiállítótermeket a felmelegedésre, miközben nyugodtan felfedezi a régió régészeti leleteit és történelmi kincseit.",
                 "ro": "Profitați de sălile de expoziție încălzite pentru a vă încălzi mâinile în timp ce explorați pe îndelete vestigiile arheologice ale regiunii.",
-                "en": "Take advantage of the heated exhibition rooms to warm up your hands while quietly exploring the region's archaeological finds and treasures."
+                "en": "Take advantage of the heated exhibition rooms to warm up your hands while quietly exploring the region's archaeological finds and treasures.",
+                "pt": "Aproveite as salas de exposição aquecidas para aquecer as mãos enquanto explora tranquilamente os achados arqueológicos e tesouros da região."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Museu da Misericórdia de Viseu",
                 "hu": "Misericórdia Múzeum",
                 "ro": "Muzeul Misericórdia din Viseu",
-                "en": "Misericórdia Museum of Viseu"
+                "en": "Misericórdia Museum of Viseu",
+                "pt": "Museu da Misericórdia de Viseu"
               },
               "tip_5lang": {
                 "de": "Die sakrale Kunst wirkt im gedämpften Winterlicht besonders andächtig; nehmen Sie sich Zeit für die Details der prächtigen Altarbilder.",
                 "hu": "A szakrális művészet a tompa téli fényben különösen áhítatosnak tűnik; szánjon időt a pompás oltárképek apró részleteinek megfigyelésére.",
                 "ro": "Arta sacră pare deosebit de solemnă în lumina difuză a iernii; acordați-vă timp pentru a observa detaliile splendidelor altare pictate.",
-                "en": "The sacred art looks particularly solemn in the soft winter light; take your time to observe the fine details of the magnificent altarpieces."
+                "en": "The sacred art looks particularly solemn in the soft winter light; take your time to observe the fine details of the magnificent altarpieces.",
+                "pt": "A arte sacra parece particularmente solene na suave luz de inverno; reserve tempo para observar os finos detalhes dos magníficos retábulos."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Muralha de Viseu",
                 "hu": "Viseu városfala",
                 "ro": "Zidul városfala",
-                "en": "Viseu City Wall"
+                "en": "Viseu City Wall",
+                "pt": "Muralha da Cidade de Viseu"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie gegen 16:30 Uhr den Sonnenuntergang von der Mauer aus; die kühle Luft lässt die Farben am Horizont besonders intensiv leuchten.",
                 "hu": "Figyelje meg a naplementét a falról 16:30 körül; a hűvös levegő miatt a horizont színei ilyenkor különösen intenzíven ragyognak.",
                 "ro": "Observați apusul de pe zid în jurul orei 16:30; aerul rece face ca culorile de la orizont să strălucească deosebit de intens acum.",
-                "en": "Watch the sunset from the wall around 16:30; the cool air makes the colors on the horizon glow with extra intensity at this time."
+                "en": "Watch the sunset from the wall around 16:30; the cool air makes the colors on the horizon glow with extra intensity at this time.",
+                "pt": "Veja o pôr‑do‑sol desde a muralha por volta das 16:30; o ar fresco faz as cores no horizonte brilharem com intensidade acrescida nessa hora."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Teatro Viriato",
                 "hu": "Teatro Viriato",
                 "ro": "Teatrul Viriato",
-                "en": "Teatro Viriato"
+                "en": "Teatro Viriato",
+                "pt": "Teatro Viriato"
               },
               "tip_5lang": {
                 "de": "Wenn es um 17:00 Uhr dunkel wird, bietet das hell erleuchtete Theater einen gemütlichen Abschluss des Tages im warmen Innenraum.",
                 "hu": "Amikor 17:00-kor besötétedik, a fényesen kivilágított színház barátságos és meleg belső terével tökéletes zárása a téli napnak.",
                 "ro": "Când se întunecă la ora 17:00, teatrul iluminat festiv oferă un final primitor și cald pentru această zi de iarnă în interior.",
-                "en": "When it gets dark at 17:00, the brightly lit theater offers a cozy and warm indoor conclusion to your winter day in Viseu."
+                "en": "When it gets dark at 17:00, the brightly lit theater offers a cozy and warm indoor conclusion to your winter day in Viseu.",
+                "pt": "Quando escurece às 17:00, o teatro brilhantemente iluminado oferece um acolhedor e quente final interior para o seu dia de inverno em Viseu."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Centro de Monitorização e Interpretação Ambiental",
             "hu": "Környezetvédelmi és Megfigyelő Központ",
             "ro": "Centrul de Monitorizare și Interpretare a Mediului",
-            "en": "Environmental Monitoring and Interpretation Center"
+            "en": "Environmental Monitoring and Interpretation Center",
+            "pt": "Centro de Monitorização e Interpretação Ambiental"
           },
           "coords": [
             -7.919554,
@@ -380,7 +420,8 @@
             "de": "Beginnen Sie den Tag mit Wissenswertem über die lokale Ökologie und nehmen Sie am Empfang unbedingt eine Karte der nahegelegenen Naturpfade für die Radtour mit.",
             "hu": "Kezdje a kerékpáros napot a helyi ökológia megismerésével ezen a helyen, és mindenképpen kérjen egy térképet a közeli természetjáró ösvényekről a recepción.",
             "ro": "Începeți ziua învățând despre ecologia locală și conservarea râurilor; asigurați-vă că luați o hartă a traseelor naturale din apropiere de la recepție.",
-            "en": "Start your cycling day learning about local ecology and river conservation at this spot, ensuring you pick up a map of nearby nature trails at the front desk."
+            "en": "Start your cycling day learning about local ecology and river conservation at this spot, ensuring you pick up a map of nearby nature trails at the front desk.",
+            "pt": "Comece o seu dia de ciclismo aprendendo sobre a ecologia local e a conservação do rio neste local, certificando‑se de recolher um mapa dos trilhos naturais no balcão."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Casa da Ribeira",
             "hu": "Casa da Ribeira",
             "ro": "Casa da Ribeira",
-            "en": "Casa da Ribeira"
+            "en": "Casa da Ribeira",
+            "pt": "Casa da Ribeira"
           },
           "coords": [
             -7.910148,
@@ -403,7 +445,8 @@
             "de": "Entdecken Sie traditionelle Handwerkskunst am Fluss und nehmen Sie sich ausreichend Zeit, den fesselnden und informativen kurzen Dokumentarfilm hier anzusehen.",
             "hu": "Fedezze fel a folyóparti kézműves hagyományokat és a helyi mestereket, majd szánjon elegendő időt a benti, lenyűgöző és informatív rövid dokumentumfilmre is.",
             "ro": "Descoperiți măiestria tradițională și istoria artizanilor locali pe malul râului; faceți-vă timp pentru a viziona scurtul documentar captivant din interior.",
-            "en": "Discover traditional craftsmanship and the history of local artisans by the river, taking adequate time to watch the engaging and informative short documentary."
+            "en": "Discover traditional craftsmanship and the history of local artisans by the river, taking adequate time to watch the engaging and informative short documentary.",
+            "pt": "Descubra o artesanato tradicional e a história dos artesãos locais junto ao rio, reservando tempo suficiente para ver o curto documentário informativo e envolvente."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Solar do Dão",
             "hu": "Solar do Dão",
             "ro": "Solar do Dão",
-            "en": "Solar do Dão"
+            "en": "Solar do Dão",
+            "pt": "Solar do Dão"
           },
           "coords": [
             -7.901121,
@@ -426,7 +470,8 @@
             "de": "Bewundern Sie die elegante Architektur dieses regionalen Hauptsitzes und betreten Sie den Innenhof für einen wunderbar ruhigen Blick in das aristokratische Leben.",
             "hu": "Csodálja meg a regionális központ hihetetlenül elegáns építészetét, és ha teheti, lépjen be a belső udvarra egy kis csendes, arisztokratikus hangulatért.",
             "ro": "Admirați arhitectura incredibil de elegantă a acestui sediu regional; dacă este posibil, intrați în curte pentru o scurtă privire asupra vieții aristocratice.",
-            "en": "Admire the incredibly elegant architecture of this prominent regional headquarters; if possible, step inside the courtyard for a quiet glimpse of aristocratic life."
+            "en": "Admire the incredibly elegant architecture of this prominent regional headquarters; if possible, step inside the courtyard for a quiet glimpse of aristocratic life.",
+            "pt": "Admire a arquitetura incrivelmente elegante desta proeminente sede regional; se possível, entre no pátio para um tranquilo vislumbre da vida aristocrática."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Muralha de Viseu",
             "hu": "Viseu városfala",
             "ro": "Zidul orașului Viseu",
-            "en": "Viseu City Wall"
+            "en": "Viseu City Wall",
+            "pt": "Muralha da Cidade de Viseu"
           },
           "coords": [
             -7.907282,
@@ -449,7 +495,8 @@
             "de": "Radeln Sie an den imposanten mittelalterlichen Steinmauern vorbei und halten Sie an breiteren Straßenabschnitten sicher an, um atemberaubende Fotos zu machen.",
             "hu": "Kerékpározzon el az egykor Viseut védő, impozáns középkori kőfalak mellett, és álljon meg a biztonságosabb, szélesebb részeken néhány lenyűgöző fotó erejéig.",
             "ro": "Pedalați pe lângă zidurile medievale de piatră impunătoare, oprindu-vă în siguranță în secțiunile mai late ale drumului pentru a face câteva fotografii istorice.",
-            "en": "Cycle right past the imposing medieval stone walls that once fortified Viseu, pausing safely at the wider road sections to snap a few stunning historic photos."
+            "en": "Cycle right past the imposing medieval stone walls that once fortified Viseu, pausing safely at the wider road sections to snap a few stunning historic photos.",
+            "pt": "Pedale junto às imponentes muralhas medievais que outrora fortificaram Viseu, fazendo paragens nas secções de estrada mais largas para tirar algumas fotos históricas deslumbrantes."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Museu da Misericórdia de Viseu",
             "hu": "Misericórdia Múzeum",
             "ro": "Muzeul Misericórdia din Viseu",
-            "en": "Misericórdia Museum of Viseu"
+            "en": "Misericórdia Museum of Viseu",
+            "pt": "Museu da Misericórdia de Viseu"
           },
           "coords": [
             -7.911729,
@@ -472,7 +520,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und tauchen Sie in dieses Museum für sakrale Kunst ein; achten Sie besonders auf die unglaublich detaillierten Altarschnitzereien.",
             "hu": "Zárja le biztonságosan kerékpárját, és merüljön el a szakrális művészetben, különös figyelmet fordítva a hihetetlenül részletesen kidolgozott, faragott oltárképekre.",
             "ro": "Blocați bicicleta în siguranță afară și cufundați-vă în acest muzeu de artă sacră, acordând o atenție deosebită altarelor sculptate cu detalii incredibile.",
-            "en": "Lock your bike securely outside and immerse yourself in this rich museum of sacred art, paying special attention to the incredibly detailed carved altar pieces."
+            "en": "Lock your bike securely outside and immerse yourself in this rich museum of sacred art, paying special attention to the incredibly detailed carved altar pieces.",
+            "pt": "Tranque bem a sua bicicleta do lado de fora e mergulhe neste rico museu de arte sacra, prestando especial atenção aos altarpieces entalhados com pormenor incrível."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Aquilino Ribeiro Park",
             "hu": "Aquilino Ribeiro Park",
             "ro": "Parcul Aquilino Ribeiro",
-            "en": "Aquilino Ribeiro Park"
+            "en": "Aquilino Ribeiro Park",
+            "pt": "Parque Aquilino Ribeiro"
           },
           "coords": [
             -7.915674,
@@ -495,7 +545,8 @@
             "de": "Erholen Sie sich von Ihrer ausgiebigen Radtour in diesem weitläufigen grünen Park und suchen Sie sich eine schattige Bank unter alten Bäumen zum Entspannen.",
             "hu": "Pihenje ki a hosszú kerékpározás fáradalmait ebben a hatalmas zöld parkban, és keressen egy árnyékos padot az ősi fák alatt a vacsora előtti teljes lazításhoz.",
             "ro": "Relaxați-vă după plimbarea lungă cu bicicleta în acest parc verde, găsind o bancă umbrită sub copacii antici pentru a vă odihni complet înainte de cină.",
-            "en": "Unwind from your extensive biking journey in this expansive green park, finding a shaded bench under the ancient trees to fully relax before heading out to dinner."
+            "en": "Unwind from your extensive biking journey in this expansive green park, finding a shaded bench under the ancient trees to fully relax before heading out to dinner.",
+            "pt": "Descontraia da sua extensa volta de bicicleta neste vasto parque verde, encontrando um banco à sombra sob as árvores antigas para relaxar antes de sair para jantar."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Morgens: Starten Sie mit Umwelteinblicken im Interpretationszentrum und radeln Sie dann gemütlich am Fluss entlang zur Casa da Ribeira.\nMittags: Fahren Sie zum historischen Solar do Dão, um dessen Architektur zu bewundern, bevor Sie einen kleinen Snack im Zentrum genießen.\nNachmittags: Folgen Sie den Überresten der mittelalterlichen Stadtmauern und legen Sie einen kulturellen Halt im Museu da Misericórdia ein.\nAbends: Stellen Sie Ihr Fahrrad ab und lassen Sie den Tag unter den alten Bäumen des Aquilino Ribeiro Parks entspannt ausklingen.",
         "hu": "Délelőtt: Kezdje a kerékpáros túrát a környezetvédelmi központban, majd tekerjen a folyó mentén a Casa da Ribeira kézműves kiállításához.\nDélben: Irány a történelmi Solar do Dão az elegáns építészet megcsodálásához, mielőtt bekapna valami finomat az óváros szívében.\nDélután: Kövesse két keréken a középkori városfalak maradványait, majd tartson kulturális pihenőt a Museu da Misericórdia falai között.\nEste: Parkolja le a kerékpárt, és vezesse le a napot az Aquilino Ribeiro Park ősi fái között, miközben lassan leereszkedik az est.",
         "ro": "Dimineața: Începeți turul cu bicicleta la centrul de mediu, apoi pedalați relaxat de-a lungul râului până la muzeul Casa da Ribeira.\nAmiaza: Îndreptați-vă spre istoricul Solar do Dão pentru a-i admira arhitectura înainte de a lua o gustare rapidă în centrul orașului.\nDupă-amiaza: Urmați rămășițele zidurilor medievale pe două roți, urmată de o oprire culturală profundă la Museu da Misericórdia.\nSeara: Parcați bicicleta și încheiați ziua printre copacii bătrâni din Parcul Aquilino Ribeiro, în timp ce umbrele serii încep să cadă.",
-        "en": "Morning: Kick off your cycling tour with environmental insights at the interpretation center, then pedal along the river to Casa da Ribeira.\nMidday: Head towards the historic Solar do Dão to admire its architecture before grabbing a quick, refreshing bite in the historic center.\nAfternoon: Follow the remnants of the medieval city walls on two wheels, followed by a cultural stop at the Museu da Misericórdia.\nEvening: Park your bike and wind down the day amid the ancient trees of Aquilino Ribeiro Park as the evening shadows begin to fall."
+        "en": "Morning: Kick off your cycling tour with environmental insights at the interpretation center, then pedal along the river to Casa da Ribeira.\nMidday: Head towards the historic Solar do Dão to admire its architecture before grabbing a quick, refreshing bite in the historic center.\nAfternoon: Follow the remnants of the medieval city walls on two wheels, followed by a cultural stop at the Museu da Misericórdia.\nEvening: Park your bike and wind down the day amid the ancient trees of Aquilino Ribeiro Park as the evening shadows begin to fall.",
+        "pt": "Manhã: Comece a sua rota de bicicleta com informações ambientais no centro de interpretação, depois pedale ao longo do rio até à Casa da Ribeira.\nMeio‑dia: Dirija‑se ao histórico Solar do Dão para admirar a sua arquitectura antes de apanhar uma refeição rápida e refrescante no centro histórico.\nTarde: Siga as restantes muralhas medievais de bicicleta, seguido de uma paragem cultural no Museu da Misericórdia.\nNoite: Estacione a bicicleta e termine o dia entre as antigas árvores do Parque Aquilino Ribeiro enquanto as sombras da tarde começam a cair."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Die Radtour startet am Umweltzentrum, wo wir uns kurz unterstellen können, bevor wir die wasserfeste Kleidung für die Fahrt testen.\n\nMittags radeln wir vorsichtig zur Casa da Ribeira. Die nassen Uferwege verlangen Konzentration, aber die Aussicht auf den Fluss ist dramatisch schön.\n\nAm Nachmittag suchen wir Schutz in den Museen der Altstadt. Wir parken die Räder nah am Eingang, um schnell ins trockene Innere zu gelangen.\n\nDer Abend endet mit einer kurzen Fahrt durch den Park. Die Reifen wirbeln das Wasser auf den Pfaden auf, während wir den Tag trotz Regen sportlich beenden.",
             "hu": "A kerékpártúra a Környezetvédelmi Központnál indul, ahol védett helyen ellenőrizhetjük felszerelésünket az esős indulás előtt.\n\nDélben óvatosan tekerünk a Casa da Ribeira felé. A nedves utak koncentrációt igényelnek, de a folyó látványa esőben is lenyűgöző.\n\nDélután az óváros múzeumaiban keresünk menedéket. A bicikliket közel a bejárathoz parkoljuk le, hogy mielőbb a száraz termekbe jussunk.\n\nAz este rövid tekeréssel zárul a parkon át; a kerekek felverik a vizet az ösvényeken, miközben sportosan fejezzük be a napot az eső ellenére.",
             "ro": "Turul cu bicicleta începe la Centrul de Mediu, unde ne putem adăposti scurt înainte de a porni la drum echipați corespunzător pentru ploaie.\n\nLa prânz, pedalăm cu atenție spre Casa da Ribeira. Drumurile umede necesită concentrare, dar priveliștea râului sub ploaie este dramatic de frumoasă.\n\nDupă-amiaza, căutăm refugiu în muzeele din centrul vechi. Parcăm bicicletele aproape de intrare pentru a ajunge rapid în interiorul uscat.\n\nSeara se încheie cu o scurtă plimbare prin parc; roțile împroșcă apa de pe poteci în timp ce încheiem ziua într-o notă sportivă, în ciuda ploii.",
-            "en": "The bike tour kicks off at the Environmental Center, where we can briefly shelter while double-checking our waterproof gear for the ride.\n\nBy noon, we cycle carefully toward Casa da Ribeira. The wet paths require focus, but the river views under the rain are dramatically beautiful.\n\nIn the afternoon, we seek refuge in the old town's museums. We park the bikes close to the entrances to transition quickly into the dry interiors.\n\nEvening ends with a short ride through the park; the wheels splash through puddles as we finish the day on a sporty note despite the rain."
+            "en": "The bike tour kicks off at the Environmental Center, where we can briefly shelter while double-checking our waterproof gear for the ride.\n\nBy noon, we cycle carefully toward Casa da Ribeira. The wet paths require focus, but the river views under the rain are dramatically beautiful.\n\nIn the afternoon, we seek refuge in the old town's museums. We park the bikes close to the entrances to transition quickly into the dry interiors.\n\nEvening ends with a short ride through the park; the wheels splash through puddles as we finish the day on a sporty note despite the rain.",
+            "pt": "A rota de bicicleta começa no Centro Ambiental, onde podemos abrigar‑nos brevemente enquanto verificamos o equipamento impermeável para o passeio.\n\nAo meio‑dia, pedalamos com cuidado em direção à Casa da Ribeira. Os caminhos molhados exigem concentração, mas as vistas do rio sob a chuva são dramaticamente belas.\n\nNa tarde, procuramos refúgio nos museus do centro histórico. Estacionamos as bicicletas junto às entradas para transitar rapidamente para o interior seco.\n\nA noite termina com um curto passeio pelo parque; as rodas salpicam poças enquanto concluímos o dia num registo desportivo apesar da chuva."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Centro de Monitorização e Interpretação Ambiental",
                 "hu": "Környezetvédelmi és Megfigyelő Központ",
                 "ro": "Centrul de Monitorizare și Interpretare a Mediului",
-                "en": "Environmental Monitoring and Interpretation Center"
+                "en": "Environmental Monitoring and Interpretation Center",
+                "pt": "Centro de Monitorização e Interpretação Ambiental"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie hier, um sich über das lokale Ökosystem zu informieren, während Sie darauf warten, dass ein starker Regenschauer vorbeizieht.",
                 "hu": "Kezdje itt a napot, hogy megismerje a helyi ökoszisztémát, miközben megvárja, amíg egy-egy hevesebb zápor elvonul a város felett.",
                 "ro": "Începeți aici pentru a învăța despre ecosistemul local în timp ce așteptați să treacă o repriză de ploaie mai torențială deasupra orașului.",
-                "en": "Start here to learn about the local ecosystem while waiting for a heavy rain shower to pass over the city before heading out."
+                "en": "Start here to learn about the local ecosystem while waiting for a heavy rain shower to pass over the city before heading out.",
+                "pt": "Comece aqui para aprender sobre o ecossistema local enquanto espera que uma chuva intensa passe sobre a cidade antes de partir."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Casa da Ribeira",
                 "hu": "Casa da Ribeira",
                 "ro": "Casa da Ribeira",
-                "en": "Casa da Ribeira"
+                "en": "Casa da Ribeira",
+                "pt": "Casa da Ribeira"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad unter dem Vordach und wärmen Sie sich im Museum auf, während Sie die traditionellen Handwerkstechniken der Region studieren.",
                 "hu": "Parkolja le a kerékpárját az eresz alatt, és melegedjen fel a múzeumban, miközben a régió hagyományos kézműves technikáit tanulmányozza.",
                 "ro": "Parcați bicicleta sub streașină și încălziți-vă în muzeu în timp ce studiați tehnicile tradiționale de artizanat din această regiune.",
-                "en": "Park your bike under the eaves and warm up in the museum while studying the traditional craft techniques of the Viseu region."
+                "en": "Park your bike under the eaves and warm up in the museum while studying the traditional craft techniques of the Viseu region.",
+                "pt": "Estacione a sua bicicleta sob o beiral e aqueça‑se no museu enquanto estuda as técnicas artesanais tradicionais da região de Viseu."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Solar do Dão",
                 "hu": "Solar do Dão",
                 "ro": "Solar do Dão",
-                "en": "Solar do Dão"
+                "en": "Solar do Dão",
+                "pt": "Solar do Dão"
               },
               "tip_5lang": {
                 "de": "Die Auffahrt kann bei Regen rutschig sein; bremsen Sie frühzeitig ab, bevor Sie dieses historische Herrenhaus für eine trockene Besichtigung betreten.",
                 "hu": "A felvezető út esőben csúszós lehet; fékezzen időben, mielőtt belépne ebbe a történelmi kúriába egy száraz belső körbejárásra.",
                 "ro": "Aleea de acces poate fi alunecoasă pe ploaie; frânați din timp înainte de a intra în acest conac istoric pentru un tur la interior.",
-                "en": "The access path can be slippery in the rain; brake early before entering this historic manor house for a dry indoor exploration tour."
+                "en": "The access path can be slippery in the rain; brake early before entering this historic manor house for a dry indoor exploration tour.",
+                "pt": "O caminho de acesso pode ficar escorregadio com chuva; freie cedo antes de entrar nesta casa senhorial histórica para uma visita seca ao interior."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Muralha de Viseu",
                 "hu": "Viseu városfala",
                 "ro": "Zidul orașului Viseu",
-                "en": "Viseu City Wall"
+                "en": "Viseu City Wall",
+                "pt": "Muralha da Cidade de Viseu"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig entlang der Mauer, da sich in den Vertiefungen des Kopfsteinpflasters Wasser sammeln kann; nutzen Sie Schutzbleche am Rad.",
                 "hu": "Tekerjen óvatosan a fal mentén, mert a macskakövek mélyedéseiben megállhat a víz; javasolt a sárvédő használata a kerékpáron.",
                 "ro": "Pedalați cu atenție de-a lungul zidului, deoarece apa se poate strânge în adânciturile pavajului; se recomandă folosirea aripilor la bicicletă.",
-                "en": "Cycle carefully along the wall as water can collect in the cobblestone dips; using mudguards on your bike is highly recommended today."
+                "en": "Cycle carefully along the wall as water can collect in the cobblestone dips; using mudguards on your bike is highly recommended today.",
+                "pt": "Pedale com cuidado ao longo da muralha, pois a água pode acumular‑se nas depressões do calçamento; recomenda‑se fortemente o uso de guarda‑lamas na sua bicicleta hoje."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Museu da Misericórdia de Viseu",
                 "hu": "Misericórdia Múzeum",
                 "ro": "Muzeul Misericórdia din Viseu",
-                "en": "Misericórdia Museum of Viseu"
+                "en": "Misericórdia Museum of Viseu",
+                "pt": "Museu da Misericórdia de Viseu"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Zeit im Museum für eine längere Pause vom Sattel, um Ihre Kleidung zu trocknen und die Kunstwerke in Ruhe zu sehen.",
                 "hu": "Használja ki a múzeumi időt egy hosszabb pihenőre a nyeregből, hogy megszárítsa ruháit és nyugodtan megtekintse a műtárgyakat.",
                 "ro": "Profitați de timpul petrecut în muzeu pentru o pauză mai lungă din șa, permițând hainelor să se usuce în timp ce vedeți exponatele.",
-                "en": "Use your time in the museum for a longer break from the saddle to dry your gear and view the artworks at a leisurely pace."
+                "en": "Use your time in the museum for a longer break from the saddle to dry your gear and view the artworks at a leisurely pace.",
+                "pt": "Use o tempo no museu para uma pausa mais longa da sela, para secar o equipamento e ver as obras com calma."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Aquilino Ribeiro Park",
                 "hu": "Aquilino Ribeiro Park",
                 "ro": "Parcul Aquilino Ribeiro",
-                "en": "Aquilino Ribeiro Park"
+                "en": "Aquilino Ribeiro Park",
+                "pt": "Parque Aquilino Ribeiro"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie schnelle Kurven auf den nassen Parkwegen; die asphaltierten Pfade sind sicherer als die erdigen Nebenwege bei diesem Wetter.",
                 "hu": "Kerülje a hirtelen kanyarodást a nedves parki utakon; az aszfaltozott ösvények biztonságosabbak ilyenkor, mint a földes mellékutak.",
                 "ro": "Evitați virajele bruște pe potecile umede din parc; aleile asfaltate sunt mult mai sigure acum decât potecile de pământ secundare.",
-                "en": "Avoid sudden turns on the wet park paths; the paved walkways are much safer right now than the unpaved side trails in this weather."
+                "en": "Avoid sudden turns on the wet park paths; the paved walkways are much safer right now than the unpaved side trails in this weather.",
+                "pt": "Evite mudanças bruscas de direção nos caminhos do parque molhados; os passeios pavimentados estão muito mais seguros neste tempo do que os trilhos laterais não pavimentados."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Der Wintermorgen lädt zu einer zügigen Fahrt ein, um den Körper warm zu halten. Die kühle Luft im Umweltzentrum wirkt belebend.\n\nMittags erreichen wir die Casa da Ribeira. Handschuhe sind beim Radeln Pflicht, da der Fahrtwind die Hände schnell auskühlen lässt.\n\nAm Nachmittag führt die Route am sonnenbeschiene Mauern entlang. Wir genießen das goldene Winterlicht, das die historische Architektur perfekt in Szene setzt.\n\nUm 17:00 Uhr beginnt die Dämmerung. Wir beenden die Tour im Park, wo die kalte Abendluft nach einem aktiven Tag besonders erfrischend wirkt.",
             "hu": "A téli reggel gyorsabb tempóra ösztönöz, hogy mozgással tartsuk melegen testünket. A friss levegő a központnál igazi energiabomba.\n\nDélben érjük el a Casa da Ribeirát. A kesztyű kötelező a tekeréshez, mivel a menetszél gyorsan lehűti a kezeket a folyóparton.\n\nDélután az útvonal a napfényes falak mentén halad. Élvezzük az aranyló téli fényeket, amelyek kiemelik a történelmi épületek szépségét.\n\n17:00 körül elkezdődik a szürkület. A túrát a parkban zárjuk, ahol a hideg esti levegő egy aktív nap után különösen frissítően hat.",
             "ro": "Dimineața de iarnă ne îndeamnă la un ritm mai alert pentru a ne menține căldura corporală. Aerul rece de la centru este foarte revigorant.\n\nLa prânz ajungem la Casa da Ribeira. Mănușile sunt obligatorii pentru pedalat, deoarece vântul răcește rapid mâinile pe malul râului.\n\nDupă-amiaza, traseul trece pe lângă zidurile luminate de soare. Ne bucurăm de lumina aurie de iarnă care scoate în evidență arhitectura istorică.\n\nÎn jur de ora 17:00 începe amurgul. Încheiem turul în parc, unde aerul rece al serii este extrem de revigorant după o zi plină de activitate.",
-            "en": "The winter morning encourages a brisker pace to keep your body warm through movement. The crisp air at the center is truly invigorating.\n\nBy noon, we reach Casa da Ribeira. Gloves are a must for cycling, as the wind chill quickly cools your hands along the riverside paths.\n\nIn the afternoon, the route takes us along the sunlit walls. We enjoy the golden winter lights that highlight the beauty of the historic buildings.\n\nTwilight begins around 17:00. We finish the tour in the park, where the cold evening air feels especially refreshing after such an active day."
+            "en": "The winter morning encourages a brisker pace to keep your body warm through movement. The crisp air at the center is truly invigorating.\n\nBy noon, we reach Casa da Ribeira. Gloves are a must for cycling, as the wind chill quickly cools your hands along the riverside paths.\n\nIn the afternoon, the route takes us along the sunlit walls. We enjoy the golden winter lights that highlight the beauty of the historic buildings.\n\nTwilight begins around 17:00. We finish the tour in the park, where the cold evening air feels especially refreshing after such an active day.",
+            "pt": "A manhã de inverno encoraja um ritmo mais vivo para manter o corpo quente através do movimento. O ar fresco no centro é verdadeiramente revigorante.\n\nAo meio-dia, chegamos à Casa da Ribeira. Luvas são imprescindíveis para pedalar, pois o wind chill arrefece rapidamente as mãos ao longo dos caminhos ribeirinhos.\n\nÀ tarde, o percurso leva-nos ao longo das paredes banhadas de sol. Aproveitamos as luzes douradas de inverno que destacam a beleza dos edifícios históricos.\n\nO crepúsculo começa por volta das 17:00. Terminamos o passeio no parque, onde o ar frio da noite é especialmente refrescante após um dia tão ativo."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Centro de Monitorização e Interpretação Ambiental",
                 "hu": "Környezetvédelmi és Megfigyelő Központ",
                 "ro": "Centrul de Monitorizare și Interpretare a Mediului",
-                "en": "Environmental Monitoring and Interpretation Center"
+                "en": "Environmental Monitoring and Interpretation Center",
+                "pt": "Centro de Monitorização e Interpretação Ambiental"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie den Reifendruck vor dem Start; kalte Luft kann den Druck leicht senken, was das Fahren auf winterlichen Wegen erschwert.",
                 "hu": "Indulás előtt ellenőrizze a guminyomást; a hideg levegő miatt csökkenhet a nyomás, ami nehezebbé teszi a haladást a téli utakon.",
                 "ro": "Verificați presiunea din pneuri înainte de start; aerul rece poate scădea presiunea, făcând pedalatul mai greu pe drumurile de iarnă.",
-                "en": "Check your tire pressure before starting; cold air can slightly lower the pressure, making it harder to ride on winter paths today."
+                "en": "Check your tire pressure before starting; cold air can slightly lower the pressure, making it harder to ride on winter paths today.",
+                "pt": "Verifique a pressão dos pneus antes de partir; o ar frio pode reduzir ligeiramente a pressão, tornando mais difícil pedalar nos caminhos de inverno hoje."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Casa da Ribeira",
                 "hu": "Casa da Ribeira",
                 "ro": "Casa da Ribeira",
-                "en": "Casa da Ribeira"
+                "en": "Casa da Ribeira",
+                "pt": "Casa da Ribeira"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp im Inneren hilft, die Durchblutung der Finger zu fördern, bevor Sie die Fahrt entlang des kühlen Flussufers fortsetzen.",
                 "hu": "Egy rövid benti pihenő segít felpezsdíteni az ujjak keringését, mielőtt folytatná az utat a hűvös folyópart mentén a szélben.",
                 "ro": "O scurtă oprire la interior ajută la restabilirea circulației în degete înainte de a continua drumul pe malul răcoros al râului.",
-                "en": "A short indoor stop helps restore circulation to your fingers before continuing the ride along the cool, windy riverside paths."
+                "en": "A short indoor stop helps restore circulation to your fingers before continuing the ride along the cool, windy riverside paths.",
+                "pt": "Uma breve paragem interior ajuda a restabelecer a circulação nas mãos antes de continuar o passeio pelos frescos e ventosos caminhos ribeirinhos."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Solar do Dão",
                 "hu": "Solar do Dão",
                 "ro": "Solar do Dão",
-                "en": "Solar do Dão"
+                "en": "Solar do Dão",
+                "pt": "Solar do Dão"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Mittagssonne an der Südwand des Gebäudes für eine kurze Aufwärmpause im hellen, aber kühlen Winterlicht dieser Region.",
                 "hu": "Használja ki a déli napsütést az épület déli falánál egy rövid melegedő szünetre a régió világos, de hűvös téli fényében.",
                 "ro": "Profitați de soarele de la prânz la peretele sudic al clădirii pentru o scurtă pauză de încălzire în lumina rece de iarnă a regiunii.",
-                "en": "Take advantage of the midday sun by the southern wall of the building for a quick warming break in the bright but cool winter light."
+                "en": "Take advantage of the midday sun by the southern wall of the building for a quick warming break in the bright but cool winter light.",
+                "pt": "Aproveite o sol do meio-dia junto à parede sul do edifício para uma rápida pausa de aquecimento na luz de inverno brilhante mas fresca."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Muralha de Viseu",
                 "hu": "Viseu városfala",
                 "ro": "Zidul orașului Viseu",
-                "en": "Viseu City Wall"
+                "en": "Viseu City Wall",
+                "pt": "Muralha da Cidade de Viseu"
               },
               "tip_5lang": {
                 "de": "Die Steinmauern speichern ein wenig Restwärme der Sonne; fahren Sie nah heran, um den Windschutz der massiven Befestigungsanlage zu nutzen.",
                 "hu": "A kőfalak elraktároznak némi maradék hőt; tekerjen közel hozzájuk, hogy kihasználja a masszív erődítmény szélvédett oldalát.",
                 "ro": "Zidurile de piatră rețin puțină căldură reziduală de la soare; pedalați aproape de ele pentru a folosi protecția împotriva vântului.",
-                "en": "The stone walls retain a bit of residual heat from the sun; cycle close to them to benefit from the massive fortification's wind protection."
+                "en": "The stone walls retain a bit of residual heat from the sun; cycle close to them to benefit from the massive fortification's wind protection.",
+                "pt": "As paredes de pedra retêm um pouco de calor residual do sol; percorra-as de bicicleta perto delas para beneficiar da proteção contra o vento da maciça fortificação."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Museu da Misericórdia de Viseu",
                 "hu": "Misericórdia Múzeum",
                 "ro": "Muzeul Misericórdia din Viseu",
-                "en": "Misericórdia Museum of Viseu"
+                "en": "Misericórdia Museum of Viseu",
+                "pt": "Museu da Misericórdia de Viseu"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Fahrradlichter funktionieren, da die Sichtbarkeit im winterlichen Nachmittagsgrau bereits deutlich abnimmt.",
                 "hu": "Győződjön meg róla, hogy a kerékpárlámpák működnek, mivel a látótávolság a téli délutáni szürkületben már jelentősen csökkenhet.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează, deoarece vizibilitatea scade semnificativ în amurgul de după-amiază al iernii.",
-                "en": "Make sure your bike lights are working, as visibility can drop significantly during the winter afternoon twilight hours in the city."
+                "en": "Make sure your bike lights are working, as visibility can drop significantly during the winter afternoon twilight hours in the city.",
+                "pt": "Certifique-se de que as luzes da bicicleta funcionam, pois a visibilidade pode cair significativamente durante as horas de crepúsculo da tarde de inverno na cidade."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Aquilino Ribeiro Park",
                 "hu": "Aquilino Ribeiro Park",
                 "ro": "Parcul Aquilino Ribeiro",
-                "en": "Aquilino Ribeiro Park"
+                "en": "Aquilino Ribeiro Park",
+                "pt": "Parque Aquilino Ribeiro"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Fahrt zügig, bevor die Temperaturen nach Sonnenuntergang um 17:00 Uhr drastisch sinken; eine Thermoskanne Tee ist jetzt ideal.",
                 "hu": "Fejezze be a túrát időben, mielőtt a hőmérséklet 17:00 után hirtelen leesik; egy termosz meleg tea ilyenkor aranyat ér.",
                 "ro": "Încheiați tura rapid înainte ca temperaturile să scadă drastic după apusul de la 17:00; un termos cu ceai cald este acum ideal.",
-                "en": "Finish your ride promptly before temperatures drop drastically after the 17:00 sunset; a thermos of warm tea is perfect right now."
+                "en": "Finish your ride promptly before temperatures drop drastically after the 17:00 sunset; a thermos of warm tea is perfect right now.",
+                "pt": "Termine o seu passeio pontualmente antes que as temperaturas descam drasticamente depois do pôr do sol às 17:00; um termo com chá quente é perfeito agora."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Estrada Romana Imperador Cláudio",
             "hu": "Claudius császár római útja",
             "ro": "Drumul Roman Împăratul Claudius",
-            "en": "Roman Road of Emperor Claudius"
+            "en": "Roman Road of Emperor Claudius",
+            "pt": "Via Romana do Imperador Cláudio"
           },
           "coords": [
             -7.895977,
@@ -724,7 +803,8 @@
             "de": "Fahren Sie zu diesem gut erhaltenen Stück alter Römerstraße und tragen Sie unbedingt festes Schuhwerk, um bequem auf den unebenen Originalsteinen zu laufen.",
             "hu": "Vezessen ki ehhez a figyelemre méltóan megőrzött ősi római útszakaszhoz; viseljen kényelmes, masszív cipőt az egyenetlen eredeti köveken való sétához.",
             "ro": "Conduceți pentru a vedea această porțiune bine conservată a drumului roman; purtați încălțăminte robustă pentru a merge confortabil pe pietrele originale inegale.",
-            "en": "Drive out to see this remarkably preserved stretch of ancient Roman road, making sure to wear sturdy shoes to comfortably walk along the uneven original paving stones."
+            "en": "Drive out to see this remarkably preserved stretch of ancient Roman road, making sure to wear sturdy shoes to comfortably walk along the uneven original paving stones.",
+            "pt": "Desloque-se para ver este troço notavelmente bem preservado de estrada romana antiga, certificando-se de calçar sapatos resistentes para caminhar confortavelmente sobre as irregulares pedras originais."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Aula Magna do IPV",
             "hu": "IPV Aula Magna",
             "ro": "Aula Magna IPV",
-            "en": "Aula Magna of IPV"
+            "en": "Aula Magna of IPV",
+            "pt": "Aula Magna do IPV"
           },
           "coords": [
             -7.919883,
@@ -747,7 +828,8 @@
             "de": "Parken Sie bequem in der Nähe, um diesen modernen architektonischen Kontrast zu Viseus Altstadt und die klaren Linien des Bildungscampus zu betrachten.",
             "hu": "Parkoljon le a közelben, hogy megnézze Viseu óvárosának ezt a lenyűgöző modern architektonikus kontrasztját, értékelve az oktatási kampusz letisztult vonalait.",
             "ro": "Parcați ușor în apropiere pentru a vedea acest contrast arhitectural modern cu orașul vechi, apreciind liniile curate și contemporane ale campusului educațional.",
-            "en": "Park easily nearby to view this stunning modern architectural contrast to Viseu's old town, appreciating the clean, contemporary lines of the educational campus."
+            "en": "Park easily nearby to view this stunning modern architectural contrast to Viseu's old town, appreciating the clean, contemporary lines of the educational campus.",
+            "pt": "Estacione facilmente nas proximidades para ver este impressionante contraste arquitetónico moderno com a cidade velha de Viseu, apreciando as linhas limpas e contemporâneas do campus educativo."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Aquilino Ribeiro Park",
             "hu": "Aquilino Ribeiro Park",
             "ro": "Parcul Aquilino Ribeiro",
-            "en": "Aquilino Ribeiro Park"
+            "en": "Aquilino Ribeiro Park",
+            "pt": "Parque Aquilino Ribeiro"
           },
           "coords": [
             -7.915674,
@@ -770,7 +853,8 @@
             "de": "Vertreten Sie sich in diesem zentralen Park mit seiner botanischen Vielfalt die Beine und nutzen Sie die nahegelegenen Parkplätze für einen ruhigen Spaziergang.",
             "hu": "Nyújtóztassa ki a lábát ebben a gyönyörű botanikai sokszínűséggel rendelkező központi parkban; használja a közeli parkolókat egy igazán kellemes, békés sétához.",
             "ro": "Întindeți-vă picioarele în acest parc central cu o diversitate botanică frumoasă, folosind parcările publice din apropiere înainte de a face o plimbare plăcută.",
-            "en": "Stretch your legs in this central park featuring beautiful botanical diversity, using the nearby public parking spaces before taking a pleasant, peaceful walk."
+            "en": "Stretch your legs in this central park featuring beautiful botanical diversity, using the nearby public parking spaces before taking a pleasant, peaceful walk.",
+            "pt": "Estique as pernas neste parque central com bonita diversidade botânica, utilizando os parques públicos próximos antes de dar um agradável e sereno passeio."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Museu de Almeida Moreira",
             "hu": "Almeida Moreira Múzeum",
             "ro": "Muzeul Almeida Moreira",
-            "en": "Almeida Moreira Museum"
+            "en": "Almeida Moreira Museum",
+            "pt": "Museu Almeida Moreira"
           },
           "coords": [
             -7.913276,
@@ -793,7 +878,8 @@
             "de": "Erkunden Sie das ehemalige Haus einer einflussreichen Persönlichkeit voller Kunst und bewundern Sie die atemberaubenden Azulejos, die die gesamte Fassade schmücken.",
             "hu": "Fedezze fel egy befolyásos helyi személyiség művészettel teli egykori otthonát, és figyelje meg a külsejét gyönyörűen díszítő, lenyűgöző azulejo csempéket.",
             "ro": "Explorați fosta casă a unei figuri locale influente, plină de artă strălucitoare; remarcați plăcile uimitoare de azulejo care decorează frumos tot exteriorul.",
-            "en": "Explore the former home of an influential local figure filled with brilliant art and antiques, noticing the stunning azulejo tiles that beautifully decorate the exterior."
+            "en": "Explore the former home of an influential local figure filled with brilliant art and antiques, noticing the stunning azulejo tiles that beautifully decorate the exterior.",
+            "pt": "Explore a antiga residência de uma figura local influente repleta de arte brilhante e antiguidades, reparando nos deslumbrantes azulejos que decoram belamente o exterior."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Coleção Arqueológica José Coelho",
             "hu": "José Coelho Régészeti Gyűjtemény",
             "ro": "Colecția Arheologică José Coelho",
-            "en": "José Coelho Archaeological Collection"
+            "en": "José Coelho Archaeological Collection",
+            "pt": "Coleção Arqueológica José Coelho"
           },
           "coords": [
             -7.910819,
@@ -816,7 +903,8 @@
             "de": "Tauchen Sie in prähistorische und römische Funde aus der Region ein und lesen Sie die Beschriftungen für entscheidende Kontexte zu Viseus allerersten Tagen.",
             "hu": "Merüljön el a régió történelem előtti és római kori leleteiben; az alapos feliratok lenyűgöző és létfontosságú kontextust adnak Viseu legkorábbi, ősi napjairól.",
             "ro": "Explorați descoperirile arheologice fascinante din regiune și citiți cu atenție etichetele pentru un context vital despre primele zile istorice ale orașului.",
-            "en": "Dive into fascinating prehistoric and Roman archaeological finds gathered from the region, carefully checking the descriptive labels for vital context on Viseu's earliest days."
+            "en": "Dive into fascinating prehistoric and Roman archaeological finds gathered from the region, carefully checking the descriptive labels for vital context on Viseu's earliest days.",
+            "pt": "Mergulhe em fascinantes achados arqueológicos pré-históricos e romanos recolhidos na região, consultando cuidadosamente as legendas descritivas para obter contexto vital sobre os primeiros dias de Viseu."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Casa da Ribeira",
             "hu": "Casa da Ribeira",
             "ro": "Casa da Ribeira",
-            "en": "Casa da Ribeira"
+            "en": "Casa da Ribeira",
+            "pt": "Casa da Ribeira"
           },
           "coords": [
             -7.910148,
@@ -839,7 +928,8 @@
             "de": "Beenden Sie Ihre Tour in diesem schönen Museum für traditionelles Handwerk am Fluss und parken Sie in den nahen Seitenstraßen, um den weiten Wasserblick zu genießen.",
             "hu": "Fejezze be az autós túrát a hagyományos mesterségeket bemutató folyóparti múzeumban; parkoljon a közeli utcákban, és élvezze igazán a lenyűgöző, széles vízparti kilátást.",
             "ro": "Terminați-vă călătoria la acest muzeu de pe malul râului care prezintă meșteșuguri tradiționale, parcând pe străzi pentru a vă bucura de priveliștile ample ale apei.",
-            "en": "Finish your road trip at this lovely riverside museum showcasing traditional crafts, finding parking along the nearby streets to truly enjoy the sweeping water views."
+            "en": "Finish your road trip at this lovely riverside museum showcasing traditional crafts, finding parking along the nearby streets to truly enjoy the sweeping water views.",
+            "pt": "Termine a sua viagem por estrada neste encantador museu ribeirinho que mostra ofícios tradicionais, encontrando estacionamento nas ruas próximas para desfrutar verdadeiramente das amplas vistas sobre a água."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Morgens: Fahren Sie an den Stadtrand, um entlang der gut erhaltenen römischen Straße zu spazieren – ein ruhiger Start in den Tag.\nMittags: Sehen Sie sich die moderne Architektur des IPV-Campus an und machen Sie dann eine erholsame Pause im Aquilino Ribeiro Park.\nNachmittags: Fahren Sie ins Zentrum, um die Kunst im Museu de Almeida Moreira und die archäologischen Schätze in der Nähe zu entdecken.\nAbends: Beenden Sie den Tag mit einer kurzen Fahrt zur Casa da Ribeira am Fluss und lassen Sie das Erbe Viseus beim Sonnenuntergang auf sich wirken.",
         "hu": "Délelőtt: Vezessen ki a város szélére, hogy tegyen egy sétát a figyelemre méltóan megőrzött ősi római úton, békés történelmi kezdésként.\nDélben: Nézze meg az IPV kampusz modern építészetét, majd irány az Aquilino Ribeiro Park egy pihentető, természetközeli szünetre.\nDélután: Térjen vissza a központba a Museu de Almeida Moreira eklektikus művészetének és a közeli régészeti kincseknek a felfedezéséhez.\nEste: Zárja a napot egy rövid autózással a folyóparti Casa da Ribeira-hoz, felidézve Viseu örökségét, ahogy a nap lenyugszik a vízen.",
         "ro": "Dimineața: Conduceți spre marginea orașului pentru a vă plimba pe vechiul drum roman, un început liniștit pentru o călătorie istorică.\nAmiaza: Vedeți arhitectura modernă la campusul IPV, apoi mergeți în Parcul Aquilino Ribeiro pentru o pauză relaxantă în natură.\nDupă-amiaza: Reveniți în centru pentru a explora arta la Museu de Almeida Moreira și comorile arheologice fascinante din apropiere.\nSeara: Încheiați cu o scurtă plimbare cu mașina până la Casa da Ribeira de pe malul râului, privind apusul deasupra apei sclipitoare.",
-        "en": "Morning: Drive out to the city's outskirts to walk along the remarkably preserved ancient Roman road, a quiet start to your historical journey.\nMidday: View the modern architecture at the IPV campus, then head to Aquilino Ribeiro Park for a relaxing break in nature before lunch.\nAfternoon: Navigate back to the center to explore the eclectic art collections at Museu de Almeida Moreira and the archaeological treasures nearby.\nEvening: Conclude the day with a short drive to the riverside Casa da Ribeira, reflecting on Viseu's heritage as the sun sets over the water."
+        "en": "Morning: Drive out to the city's outskirts to walk along the remarkably preserved ancient Roman road, a quiet start to your historical journey.\nMidday: View the modern architecture at the IPV campus, then head to Aquilino Ribeiro Park for a relaxing break in nature before lunch.\nAfternoon: Navigate back to the center to explore the eclectic art collections at Museu de Almeida Moreira and the archaeological treasures nearby.\nEvening: Conclude the day with a short drive to the riverside Casa da Ribeira, reflecting on Viseu's heritage as the sun sets over the water.",
+        "pt": "Manhã: Desloque-se para os arredores da cidade para caminhar ao longo da notavelmente preservada estrada romana antiga, um início tranquilo para a sua jornada histórica.\nMeio-dia: Veja a arquitetura moderna no campus do IPV, depois dirija-se ao Parque Aquilino Ribeiro para uma pausa relaxante na natureza antes do almoço.\nTarde: Navegue de volta ao centro para explorar as coleções ecléticas do Museu Almeida Moreira e os tesouros arqueológicos nas proximidades.\nNoite: Conclua o dia com uma curta deslocação até à Casa da Ribeira à beira-rio, refletindo sobre o património de Viseu enquanto o sol se põe sobre a água."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Mit dem Auto erkunden wir die römischen Straßen am Stadtrand, während die Scheibenwischer den Rhythmus des Regens vorgeben.\n\nMittags parken wir bequem in der Nähe der Aula Magna. Der kurze Weg vom Parkplatz ins Trockene macht die Besichtigung sehr entspannt.\n\nAm Nachmittag besuchen wir die Museen im Zentrum. Das Auto dient als warme, trockene Basis zwischen den verschiedenen kulturellen Stationen.\n\nAbends genießen wir die Fahrt durch das beleuchtete Viseu. Die Reflexionen der Lichter auf dem nassen Asphalt sind vom warmen Fahrzeuginneren aus besonders schön.",
             "hu": "Autóval fedezzük fel a város szélén található római utakat, miközben az ablaktörlők adják az eső ritmusát a kényelmes utastérben.\n\nDélben kényelmesen parkolunk az Aula Magna közelében. A rövid séta a parkolótól a bejáratig lehetővé teszi, hogy szárazon maradjunk.\n\nDélután a belvárosi múzeumokat látogatjuk meg. Az autó meleg és száraz bázisként szolgál a különböző kulturális állomások között.\n\nEste a kivilágított Viseu utcáin autózunk. A fények játéka a vizes aszfalton az autó ablakán keresztül nézve a leglátványosabb.",
             "ro": "Cu mașina explorăm drumurile romane de la marginea orașului, în timp ce ștergătoarele bat în ritmul ploii în habitaclul confortabil.\n\nLa prânz parcăm convenabil lângă Aula Magna. Distanța scurtă de la parcare până la intrare ne permite să rămânem complet uscați.\n\nDupă-amiaza vizităm muzeele din centru. Mașina servește ca o bază caldă și uscată între diferitele puncte de interes cultural ale orașului.\n\nSeara ne bucurăm de o plimbare prin Viseu-ul iluminat. Reflexiile luminilor pe asfaltul umed sunt superbe privite din interiorul cald al mașinii.",
-            "en": "We explore the Roman roads on the outskirts by car while the wipers keep rhythm with the rain in the comfort of our vehicle.\n\nBy noon, we park conveniently near Aula Magna. The short walk from the parking lot to the entrance ensures we stay perfectly dry.\n\nIn the afternoon, we visit the downtown museums. The car serves as a warm, dry base between the various cultural stops on our itinerary.\n\nEvening is spent driving through illuminated Viseu. The play of lights on the wet asphalt is most beautiful when viewed through the car windows."
+            "en": "We explore the Roman roads on the outskirts by car while the wipers keep rhythm with the rain in the comfort of our vehicle.\n\nBy noon, we park conveniently near Aula Magna. The short walk from the parking lot to the entrance ensures we stay perfectly dry.\n\nIn the afternoon, we visit the downtown museums. The car serves as a warm, dry base between the various cultural stops on our itinerary.\n\nEvening is spent driving through illuminated Viseu. The play of lights on the wet asphalt is most beautiful when viewed through the car windows.",
+            "pt": "Exploramos as vias romanas nos arredores de carro enquanto os limpa-vidros marcam o ritmo com a chuva no conforto do veículo.\n\nAo meio-dia, estacionamos confortavelmente perto da Aula Magna. A curta caminhada do parque de estacionamento à entrada garante que ficamos perfeitamente secos.\n\nÀ tarde, visitamos os museus do centro. O carro serve como uma base quente e seca entre as várias paragens culturais do nosso itinerário.\n\nA noite passa-se a conduzir por Viseu iluminado. O jogo de luzes no alcatrão molhado fica mais bonito quando visto através das janelas do carro."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Estrada Romana Imperador Cláudio",
                 "hu": "Claudius császár római útja",
                 "ro": "Drumul Roman Împăratul Claudius",
-                "en": "Roman Road of Emperor Claudius"
+                "en": "Roman Road of Emperor Claudius",
+                "pt": "Via Romana do Imperador Cláudio"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die antike Trasse vom Seitenfenster aus; so sehen Sie die römische Ingenieurskunst, ohne im starken Regen nass zu werden.",
                 "hu": "Csodálja meg az antik útvonalat az autó ablakából; így láthatja a római mérnöki munkát anélkül, hogy elázna a heves esőben.",
                 "ro": "Admirați traseul antic de la fereastra mașinii; astfel puteți vedea ingineria romană fără a vă uda în ploaia torențială de afară.",
-                "en": "Admire the ancient route from your car window; this way you can see Roman engineering without getting soaked in the heavy rain."
+                "en": "Admire the ancient route from your car window; this way you can see Roman engineering without getting soaked in the heavy rain.",
+                "pt": "Admire o troço antigo pela janela do carro; assim pode ver a engenharia romana sem se molhar com a chuva intensa."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Aula Magna do IPV",
                 "hu": "IPV Aula Magna",
                 "ro": "Aula Magna IPV",
-                "en": "Aula Magna of IPV"
+                "en": "Aula Magna of IPV",
+                "pt": "Aula Magna do IPV"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahegelegenen Parkplatz, um direkt zum überdachten Eingang zu gelangen und die moderne Architektur regengeschützt zu erleben.",
                 "hu": "Használja a közeli parkolót, hogy közvetlenül a fedett bejárathoz jusson, és az esőtől védve tapasztalja meg a modern építészetet.",
                 "ro": "Folosiți parcarea din apropiere pentru a ajunge direct la intrarea acoperită și pentru a experimenta arhitectura modernă ferit de ploaie.",
-                "en": "Use the nearby parking lot to head straight to the covered entrance and experience modern architecture while protected from the rain."
+                "en": "Use the nearby parking lot to head straight to the covered entrance and experience modern architecture while protected from the rain.",
+                "pt": "Use o parque de estacionamento nas proximidades para seguir diretamente para a entrada coberta e ver a arquitetura moderna protegido da chuva."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Aquilino Ribeiro Park",
                 "hu": "Aquilino Ribeiro Park",
                 "ro": "Parcul Aquilino Ribeiro",
-                "en": "Aquilino Ribeiro Park"
+                "en": "Aquilino Ribeiro Park",
+                "pt": "Parque Aquilino Ribeiro"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam am Parkrand entlang; die Spiegelungen der Pfützen unter den Straßenlaternen erzeugen eine wunderbare regnerische Stimmung.",
                 "hu": "Hajtson lassan a park széle mentén; az utcai lámpák fénye a pocsolyákban tükröződve csodálatos esős hangulatot áraszt az ablakon át.",
                 "ro": "Conduceți încet pe lângă marginea parcului; reflexiile felinarelor în bălți creează o atmosferă ploioasă superbă văzută prin geam.",
-                "en": "Drive slowly along the edge of the park; the reflections of the streetlights in the puddles create a wonderful rainy atmosphere."
+                "en": "Drive slowly along the edge of the park; the reflections of the streetlights in the puddles create a wonderful rainy atmosphere.",
+                "pt": "Conduza devagar ao longo da margem do parque; os reflexos dos candeeiros nas poças criam uma atmosfera pluviosa maravilhosa."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Museu de Almeida Moreira",
                 "hu": "Almeida Moreira Múzeum",
                 "ro": "Muzeul Almeida Moreira",
-                "en": "Almeida Moreira Museum"
+                "en": "Almeida Moreira Museum",
+                "pt": "Museu Almeida Moreira"
               },
               "tip_5lang": {
                 "de": "Dies ist ein hervorragender Ort, um das Auto stehen zu lassen und die wertvollen Kunstsammlungen in der trockenen Villa zu erkunden.",
                 "hu": "Ez egy kiváló helyszín, hogy az autót leparkolva felfedezze az értékes művészeti gyűjteményeket a száraz és elegáns villában.",
                 "ro": "Acesta este un loc excelent pentru a lăsa mașina și a explora colecțiile de artă valoroase în interiorul uscat al acestei vile elegante.",
-                "en": "This is an excellent spot to leave the car and explore the valuable art collections inside the dry and elegant villa museum."
+                "en": "This is an excellent spot to leave the car and explore the valuable art collections inside the dry and elegant villa museum.",
+                "pt": "Este é um excelente local para deixar o carro e explorar as valiosas coleções de arte dentro da seca e elegante villa-museu."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Coleção Arqueológica José Coelho",
                 "hu": "José Coelho Régészeti Gyűjtemény",
                 "ro": "Colecția Arheologică José Coelho",
-                "en": "José Coelho Archaeological Collection"
+                "en": "José Coelho Archaeological Collection",
+                "pt": "Coleção Arqueológica José Coelho"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe der Altstadt; die kurzen Wege zwischen den Museen sind ideal, um bei wechselhaftem Wetter trocken zu bleiben.",
                 "hu": "Parkoljon az óváros közelében; a múzeumok közötti rövid távolságok ideálisak ahhoz, hogy szárazon maradjon a változékony időben.",
                 "ro": "Parcați aproape de centrul vechi; distanțele scurte dintre muzee sunt ideale pentru a rămâne uscat pe parcursul vremii schimbătoare.",
-                "en": "Park near the old town; the short distances between the museums are ideal for staying dry during the changeable rainy weather."
+                "en": "Park near the old town; the short distances between the museums are ideal for staying dry during the changeable rainy weather.",
+                "pt": "Estacione perto da cidade antiga; as curtas distâncias entre os museus são ideais para manter-se seco durante o tempo chuvoso e instável."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Casa da Ribeira",
                 "hu": "Casa da Ribeira",
                 "ro": "Casa da Ribeira",
-                "en": "Casa da Ribeira"
+                "en": "Casa da Ribeira",
+                "pt": "Casa da Ribeira"
               },
               "tip_5lang": {
                 "de": "Die Anfahrt bietet bei Regen tolle Ausblicke auf den Fluss; nutzen Sie die Parkmöglichkeiten direkt am Gebäude für einen bequemen Besuch.",
                 "hu": "A megközelítés esőben nagyszerű kilátást nyújt a folyóra; használja a közvetlenül az épületnél lévő parkolót a kényelmes látogatáshoz.",
                 "ro": "Accesul oferă vederi superbe spre râu pe ploaie; folosiți parcarea de lângă clădire pentru o vizită cât mai confortabilă și uscată.",
-                "en": "The approach offers great river views in the rain; use the parking spots right by the building for a comfortable and dry visit."
+                "en": "The approach offers great river views in the rain; use the parking spots right by the building for a comfortable and dry visit.",
+                "pt": "A aproximação oferece excelentes vistas do rio na chuva; use os lugares de estacionamento mesmo junto ao edifício para uma visita confortável e seca."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "An diesem kalten Wintermorgen ist die Sitzheizung ein Segen, während wir zu den antiken Stätten außerhalb des Zentrums fahren.\n\nMittags erkunden wir die Universität und den Park. Das Auto bietet uns jederzeit die Möglichkeit, uns zwischen den Stopps schnell aufzuwärmen.\n\nAm Nachmittag tauchen wir in die Welt der Museen ein. Das weiche Licht der Wintersonne begleitet uns auf der kurzen Fahrt durch die Altstadt.\n\nNach dem Sonnenuntergang um 17:00 Uhr genießen wir die stimmungsvoll beleuchteten Plätze vom Auto aus, bevor wir den Tag gemütlich ausklingen lassen.",
             "hu": "Ezen a hideg téli reggelen az ülésfűtés igazi áldás, miközben a központon kívüli antik helyszínek felé autózunk a csípős levegőben.\n\nDélben az egyetemet és a parkot fedezzük fel. Az autó bármikor lehetőséget ad egy gyors felmelegedésre a különböző megállók között.\n\nDélután a múzeumok világában merülünk el. A téli nap puha fénye kísér minket az óvároson átvezető rövid autós utunk során.\n\nA 17:00-kor esedékes naplemente után az autó kényelméből csodáljuk meg a kivilágított tereket, mielőtt befejeznénk a viseui napot.",
             "ro": "În această dimineață rece de iarnă, încălzirea în scaune este o binecuvântare în timp ce conducem spre siturile antice din afara centrului.\n\nLa prânz explorăm universitatea și parcul. Mașina ne oferă oricând posibilitatea de a ne încălzi rapid între diferitele opriri programate.\n\nDupă-amiaza ne cufundăm în lumea muzeelor. Lumina blândă a soarelui de iarnă ne însoțește pe parcursul scurtului drum prin centrul vechi.\n\nDupă apusul de la ora 17:00, admirăm piețele iluminate festiv din confortul mașinii, înainte de a încheia ziua într-un mod relaxant.",
-            "en": "On this cold winter morning, seat heating is a blessing as we drive toward the ancient sites outside the center in the biting air.\n\nAt noon, we explore the university and the park. The car offers the perfect chance to warm up quickly between our various scheduled stops.\n\nIn the afternoon, we immerse ourselves in the museums. The soft winter sunlight accompanies us on our short drive through the historic old town.\n\nAfter the 17:00 sunset, we admire the festively lit squares from the comfort of the car before concluding our cozy winter day in Viseu."
+            "en": "On this cold winter morning, seat heating is a blessing as we drive toward the ancient sites outside the center in the biting air.\n\nAt noon, we explore the university and the park. The car offers the perfect chance to warm up quickly between our various scheduled stops.\n\nIn the afternoon, we immerse ourselves in the museums. The soft winter sunlight accompanies us on our short drive through the historic old town.\n\nAfter the 17:00 sunset, we admire the festively lit squares from the comfort of the car before concluding our cozy winter day in Viseu.",
+            "pt": "Nesta fria manhã de inverno, o aquecimento dos bancos é uma bênção enquanto conduzimos em direção aos sítios antigos fora do centro no ar cortante.\n\nAo meio-dia, exploramos a universidade e o parque. O carro oferece a oportunidade perfeita para aquecer rapidamente entre as várias paragens programadas.\n\nÀ tarde, imergimo-nos nos museus. A suave luz de inverno acompanha-nos na curta condução pelo centro histórico.\n\nDepois do pôr do sol às 17:00, admiramos as praças festivamente iluminadas no conforto do carro antes de concluir o nosso acolhedor dia de inverno em Viseu."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Estrada Romana Imperador Cláudio",
                 "hu": "Claudius császár római útja",
                 "ro": "Drumul Roman Împăratul Claudius",
-                "en": "Roman Road of Emperor Claudius"
+                "en": "Roman Road of Emperor Claudius",
+                "pt": "Via Romana do Imperador Cláudio"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die antike Straße, während die Autoheizung läuft; der Kontrast zum frostigen Äußeren ist sehr angenehm.",
                 "hu": "Élvezze a kilátást az antik útra az autó fűtése mellett; a fagyos külső környezet és a belső meleg kontrasztja nagyon kellemes.",
                 "ro": "Bucurați-vă de vederea drumului antic în timp ce funcționează căldura în mașină; contrastul cu exteriorul înghețat este foarte plăcut.",
-                "en": "Enjoy the view of the ancient road while the car heater is running; the contrast with the frosty exterior is very pleasant right now."
+                "en": "Enjoy the view of the ancient road while the car heater is running; the contrast with the frosty exterior is very pleasant right now.",
+                "pt": "Desfrute da vista da estrada antiga com o aquecedor do carro ligado; o contraste com o exterior geado é muito agradável agora."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Aula Magna do IPV",
                 "hu": "IPV Aula Magna",
                 "ro": "Aula Magna IPV",
-                "en": "Aula Magna of IPV"
+                "en": "Aula Magna of IPV",
+                "pt": "Aula Magna do IPV"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um die Zeit in der kalten Winterluft zu minimieren und die Architektur schnell zu erreichen.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy minimalizálja a hideg téli levegőn töltött időt és gyorsan elérje az épületet.",
                 "ro": "Parcați cât mai aproape de intrare pentru a minimiza timpul petrecut în aerul rece de iarnă și pentru a ajunge rapid la interior.",
-                "en": "Park as close to the entrance as possible to minimize your time in the cold winter air and reach the building's interior quickly."
+                "en": "Park as close to the entrance as possible to minimize your time in the cold winter air and reach the building's interior quickly.",
+                "pt": "Estacione o mais perto possível da entrada para minimizar o tempo no frio invernal e alcançar rapidamente o interior do edifício."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Aquilino Ribeiro Park",
                 "hu": "Aquilino Ribeiro Park",
                 "ro": "Parcul Aquilino Ribeiro",
-                "en": "Aquilino Ribeiro Park"
+                "en": "Aquilino Ribeiro Park",
+                "pt": "Parque Aquilino Ribeiro"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen kurzen, belebenden Spaziergang durch den frostigen Park und kehren Sie dann in das warme Auto zurück, um weiterzufahren.",
                 "hu": "Tegyen egy rövid, frissítő sétát a zúzmarás parkban, majd térjen vissza a meleg autóba, hogy folytassa a városi felfedezést.",
                 "ro": "Faceți o scurtă plimbare revigorantă prin parcul brumat, apoi întoarceți-vă în mașina caldă pentru a continua explorarea orașului.",
-                "en": "Take a short, invigorating walk through the frosty park, then return to the warm car to continue your exploration of the city."
+                "en": "Take a short, invigorating walk through the frosty park, then return to the warm car to continue your exploration of the city.",
+                "pt": "Faça uma curta e revigorante caminhada pelo parque geado e depois volte ao carro quente para continuar a explorar a cidade."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Museu de Almeida Moreira",
                 "hu": "Almeida Moreira Múzeum",
                 "ro": "Muzeul Almeida Moreira",
-                "en": "Almeida Moreira Museum"
+                "en": "Almeida Moreira Museum",
+                "pt": "Museu Almeida Moreira"
               },
               "tip_5lang": {
                 "de": "Die Villa bietet eine warme und gemütliche Atmosphäre, ideal um sich aufzuwärmen, während man die feinen Porzellansammlungen bewundert.",
                 "hu": "A villa meleg és barátságos légkört biztosít, ideális a felmelegedésre, miközben a finom porcelángyűjteményeket csodálja a téli napon.",
                 "ro": "Vila oferă o atmosferă caldă și primitoare, fiind ideală pentru a vă încălzi în timp ce admirați colecțiile fine de porțelan.",
-                "en": "The villa provides a warm and cozy atmosphere, ideal for warming up while admiring the fine porcelain collections on a winter day."
+                "en": "The villa provides a warm and cozy atmosphere, ideal for warming up while admiring the fine porcelain collections on a winter day.",
+                "pt": "A villa proporciona uma atmosfera quente e acolhedora, ideal para aquecer enquanto admira as finas coleções de porcelana num dia de inverno."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Coleção Arqueológica José Coelho",
                 "hu": "José Coelho Régészeti Gyűjtemény",
                 "ro": "Colecția Arheologică José Coelho",
-                "en": "José Coelho Archaeological Collection"
+                "en": "José Coelho Archaeological Collection",
+                "pt": "Coleção Arqueológica José Coelho"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Auto für den schnellen Wechsel zwischen den Museen, da die Temperaturen im Schatten der Gassen im Winter stark sinken.",
                 "hu": "Használja az autót a múzeumok közötti gyors váltáshoz, mivel a szűk utcák árnyékában télen a hőmérséklet hirtelen és nagyot eshet.",
                 "ro": "Folosiți mașina pentru a trece rapid între muzee, deoarece temperaturile în umbra străzilor înguste pot scădea brusc iarna.",
-                "en": "Use the car for quick transitions between museums, as temperatures in the shadows of narrow streets can drop sharply in winter."
+                "en": "Use the car for quick transitions between museums, as temperatures in the shadows of narrow streets can drop sharply in winter.",
+                "pt": "Use o carro para transições rápidas entre museus, pois as temperaturas nas sombras das ruas estreitas podem cair acentuadamente no inverno."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Casa da Ribeira",
                 "hu": "Casa da Ribeira",
                 "ro": "Casa da Ribeira",
-                "en": "Casa da Ribeira"
+                "en": "Casa da Ribeira",
+                "pt": "Casa da Ribeira"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour hier; nach 17:00 Uhr ist die Umgebung des Flusses frostig, aber die Innenräume des Museums sind wunderbar beheizt.",
                 "hu": "Zárja itt a túrát; 17:00 után a folyó környéke fagyos, de a múzeum belső terei ilyenkor is kellemesen fűtöttek és barátságosak.",
                 "ro": "Încheiați turul aici; după ora 17:00 zona râului este înghețată, dar interiorul muzeului este bine încălzit și primitor acum.",
-                "en": "End your tour here; after 17:00 the river area is frosty, but the museum's interior spaces remain warmly heated and welcoming."
+                "en": "End your tour here; after 17:00 the river area is frosty, but the museum's interior spaces remain warmly heated and welcoming.",
+                "pt": "Termine o seu passeio aqui; após as 17:00 a área ribeirinha fica geada, mas os espaços interiores do museu permanecem quentes e acolhedores."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Fórum da Maia",
             "hu": "Maia Fórum",
             "ro": "Fórum da Maia",
-            "en": "Maia Forum"
+            "en": "Maia Forum",
+            "pt": "Maia Forum"
           },
           "coords": [
             -8.6133,
@@ -37,7 +38,8 @@
             "de": "Prüfen Sie den Spielplan, vielleicht gibt es eine interessante Ausstellung oder Veranstaltung.",
             "hu": "Nézd meg a programot, hátha van egy érdekes kiállítás vagy esemény.",
             "ro": "Verificați programul, s-ar putea să existe o expoziție sau un eveniment interesant.",
-            "en": "Check the schedule, there might be an interesting exhibition or event."
+            "en": "Check the schedule, there might be an interesting exhibition or event.",
+            "pt": "Consulte a programação, pode haver uma exposição ou evento interessante."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Denkmal für die Maiata-Gemeinschaft",
             "hu": "Maia Közösségének Emlékműve",
             "ro": "Monumentul Comunității Maiata",
-            "en": "Monument to the Maiata Community"
+            "en": "Monument to the Maiata Community",
+            "pt": "Monumento à Comunidade Maiata"
           },
           "coords": [
             -8.615,
@@ -61,7 +64,8 @@
             "de": "Ein guter Ort, um die lokale Identität zu verstehen und Fotos zu machen.",
             "hu": "Jó hely a helyi identitás megértéséhez és fotózáshoz.",
             "ro": "Un loc bun pentru a înțelege identitatea locală și a face fotografii.",
-            "en": "A good spot to understand the local identity and take photos."
+            "en": "A good spot to understand the local identity and take photos.",
+            "pt": "Um bom local para compreender a identidade local e tirar fotografias."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Statue von Lidador",
             "hu": "Lidador szobra",
             "ro": "Statuia lui Lidador",
-            "en": "Statue of Lidador"
+            "en": "Statue of Lidador",
+            "pt": "Estátua do Lidador"
           },
           "coords": [
             -8.6199,
@@ -85,7 +90,8 @@
             "de": "Erfahren Sie mehr über die Legende von Gonçalo Mendes da Maia, dem Lidador.",
             "hu": "Ismerd meg Gonçalo Mendes da Maia, a Lidador legendáját.",
             "ro": "Aflați legenda lui Gonçalo Mendes da Maia, Lidadorul.",
-            "en": "Learn about the legend of Gonçalo Mendes da Maia, the Lidador."
+            "en": "Learn about the legend of Gonçalo Mendes da Maia, the Lidador.",
+            "pt": "Aprenda sobre a lenda de Gonçalo Mendes da Maia, o Lidador."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Heiligtum Unserer Lieben Frau von Bom Despacho",
             "hu": "Nossa Senhora do Bom Despacho szentély",
             "ro": "Sanctuarul Doamnei Noastre de la Bom Despacho",
-            "en": "Sanctuary of Our Lady of Bom Despacho"
+            "en": "Sanctuary of Our Lady of Bom Despacho",
+            "pt": "Santuário de Nossa Senhora do Bom Despacho"
           },
           "coords": [
             -8.6258,
@@ -109,7 +116,8 @@
             "de": "Bewundern Sie die beeindruckende Architektur und die ruhige Atmosphäre im Inneren.",
             "hu": "Csodáld meg a lenyűgöző építészetet és a belső csendes légkört.",
             "ro": "Admirați arhitectura impresionantă și atmosfera liniștită din interior.",
-            "en": "Admire the impressive architecture and the quiet atmosphere inside."
+            "en": "Admire the impressive architecture and the quiet atmosphere inside.",
+            "pt": "Admire a impressionante arquitectura e a atmosfera de silêncio no interior."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Mittagessen in einem lokalen Restaurant",
             "hu": "Ebéd egy helyi étteremben",
             "ro": "Prânz la un restaurant local",
-            "en": "Lunch at a local restaurant"
+            "en": "Lunch at a local restaurant",
+            "pt": "Almoço num restaurante local"
           },
           "coords": [
             -8.623,
@@ -133,7 +142,8 @@
             "de": "Probieren Sie „Vitela assada“ (gebratenes Kalbfleisch), eine lokale Spezialität.",
             "hu": "Kóstold meg a 'Vitela assada'-t (sült borjúhús), egy helyi specialitást.",
             "ro": "Încercați „Vitela assada” (vițel la cuptor), o specialitate locală.",
-            "en": "Try 'Vitela assada' (roasted veal), a local specialty."
+            "en": "Try 'Vitela assada' (roasted veal), a local specialty.",
+            "pt": "Experimente a 'Vitela assada', uma especialidade local."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Quinta da Gruta",
             "hu": "Quinta da Gruta",
             "ro": "Quinta da Gruta",
-            "en": "Quinta da Gruta"
+            "en": "Quinta da Gruta",
+            "pt": "Quinta da Gruta"
           },
           "coords": [
             -8.5997,
@@ -157,7 +168,8 @@
             "de": "Ein perfekter Ort zum Entspannen am Nachmittag, mit Gärten und einem kleinen See.",
             "hu": "Tökéletes hely egy délutáni pihenéshez, kertekkel és egy kis tóval.",
             "ro": "Un loc perfect pentru a vă relaxa după-amiaza, cu grădini și un mic lac.",
-            "en": "A perfect place to relax in the afternoon, with gardens and a small lake."
+            "en": "A perfect place to relax in the afternoon, with gardens and a small lake.",
+            "pt": "Um local perfeito para relaxar à tarde, com jardins e um pequeno lago."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Maia beginnt im kulturellen Herzen der Stadt, dem Fórum da Maia. Nach einem kurzen Spaziergang entdecken Sie lokale Denkmäler, die die Geschichte der Stadt erzählen. Am Mittag erreichen Sie das beeindruckende Heiligtum von Bom Despacho, ein Meisterwerk der spirituellen Architektur, bevor Sie ein herzhaftes lokales Mittagessen genießen. Der Nachmittag ist der Entspannung in der grünen Oase der Quinta da Gruta gewidmet, wo Sie den Tag in Ruhe ausklingen lassen.",
         "hu": "A napod Maia kulturális szívében, a Fórumban kezdődik. Egy rövid séta után felfedezed a város történelmét mesélő helyi emlékműveket. Délben eléred a lenyűgöző Bom Despacho szentélyt, a spirituális építészet mesterművét, mielőtt elfogyasztanál egy kiadós helyi ebédet. A délutánt a Quinta da Gruta zöld oázisában való pihenésnek szentelheted, ahol békésen zárhatod a napot.",
         "ro": "Ziua dvs. în Maia începe în inima culturală a orașului, la Fórum da Maia. După o scurtă plimbare, veți descoperi monumente locale care povestesc istoria orașului. La prânz, ajungeți la impresionantul Sanctuar Bom Despacho, o capodoperă a arhitecturii spirituale, înainte de a savura un prânz local copios. După-amiaza este dedicată relaxării în oaza de verdeață de la Quinta da Gruta, unde puteți încheia ziua în liniște.",
-        "en": "Your day in Maia begins in the cultural heart of the city, the Maia Forum. After a short walk, you'll discover local monuments that tell the city's history. At noon, you reach the impressive Bom Despacho Sanctuary, a masterpiece of spiritual architecture, before enjoying a hearty local lunch. The afternoon is dedicated to relaxation in the green oasis of Quinta da Gruta, where you can end the day peacefully."
+        "en": "Your day in Maia begins in the cultural heart of the city, the Maia Forum. After a short walk, you'll discover local monuments that tell the city's history. At noon, you reach the impressive Bom Despacho Sanctuary, a masterpiece of spiritual architecture, before enjoying a hearty local lunch. The afternoon is dedicated to relaxation in the green oasis of Quinta da Gruta, where you can end the day peacefully.",
+        "pt": "O seu dia em Maia começa no coração cultural da cidade, o Maia Forum. Após uma curta caminhada, descobrirá monumentos locais que contam a história da cidade. Ao meio‑dia chega ao imponente Santuário do Bom Despacho, uma obra‑prima de arquitectura espiritual, antes de desfrutar de um almoço regional reconfortante. A tarde é dedicada ao relaxamento no oásis verde da Quinta da Gruta, onde pode terminar o dia em paz."
       },
       "gastro_picks": {
         "de": [
@@ -325,6 +338,12 @@
           "Bring a reusable water bottle.",
           "Plan enough time for lunch to savor the local cuisine.",
           "Keep a camera ready to capture the architecture and monuments."
+        ],
+        "pt": [
+          "Use calçado confortável, pois caminhará bastante.",
+          "Leve uma garrafa de água reutilizável.",
+          "Planeie tempo suficiente para o almoço para saborear a gastronomia local.",
+          "Tenha uma câmara pronta para captar a arquitectura e os monumentos."
         ]
       },
       "variants": {
@@ -333,7 +352,8 @@
             "de": "Der Morgen beginnt wettergeschützt im Maia Forum, wo Ausstellungen und Kultur den Regen vergessen lassen. Mittags führt ein kurzer Spaziergang unter dem Schirm zum Lidador-Denkmal und einem gemütlichen Restaurant. Der Nachmittag gehört der barocken Stille des Heiligtums Bom Despacho. Den Tag beschließen wir in der Quinta da Gruta, deren Parkanlagen im Regen besonders satt leuchten.",
             "hu": "A délelőttöt a Maia Forum fedett kulturális tereiben töltjük, elkerülve az esőt. Délben rövid ernyős séta következik a Lidador szoborig, majd egy meleg ebéd egy közeli étteremben. Délután a Bom Despacho szentély barokk belső tere nyújt spirituális menedéket. A napot a Quinta da Gruta buja, esőáztatta kertjeiben zárjuk, ahol ilyenkor a legfrissebb az illat.",
             "ro": "Dimineața începe la adăpost în Maia Forum, explorând expozițiile culturale. La prânz, o scurtă plimbare sub umbrelă ne duce la monumentul Lidador și apoi la un restaurant primitor. După-amiaza este dedicată liniștii baroce din Sanctuarul Bom Despacho. Încheiem ziua la Quinta da Gruta, unde grădinile par mai verzi și mai vibrante sub ploaia ușoară de nord.",
-            "en": "The morning starts sheltered inside Maia Forum, enjoying cultural exhibitions. At noon, a short walk with an umbrella leads to the Lidador monument and a cozy local lunch. The afternoon is spent in the Baroque silence of the Bom Despacho Sanctuary. We conclude the day at Quinta da Gruta, where the lush parkland feels especially fresh and vibrant under the rain."
+            "en": "The morning starts sheltered inside Maia Forum, enjoying cultural exhibitions. At noon, a short walk with an umbrella leads to the Lidador monument and a cozy local lunch. The afternoon is spent in the Baroque silence of the Bom Despacho Sanctuary. We conclude the day at Quinta da Gruta, where the lush parkland feels especially fresh and vibrant under the rain.",
+            "pt": "A manhã começa abrigada no interior do Maia Forum, com exposições culturais. Ao meio‑dia, uma curta caminhada com guarda‑chuva leva ao monumento do Lidador e a um almoço acolhedor num restaurante local. A tarde passa-se no silêncio barroco do Santuário do Bom Despacho. Concluímos o dia na Quinta da Gruta, onde o relvado exuberante se sente especialmente fresco e vibrante com chuva."
           },
           "stops": [
             {
@@ -342,7 +362,8 @@
                 "de": "Perfekter Ort bei Regen, da alle Ausstellungsräume überdacht sind.",
                 "hu": "Ideális esőben, mivel a kiállítóterek és a folyosók teljesen fedettek.",
                 "ro": "Loc perfect pe ploaie, deoarece toate spațiile de expoziție sunt acoperite.",
-                "en": "Perfect spot during rain as all exhibition areas are fully indoor."
+                "en": "Perfect spot during rain as all exhibition areas are fully indoor.",
+                "pt": "Local perfeito na chuva, pois todas as áreas de exposição são totalmente interiores."
               }
             },
             {
@@ -351,7 +372,8 @@
                 "de": "Kurzer Fotostopp; die Granitstatue glänzt bei Nässe besonders schön.",
                 "hu": "Gyors fotómegálló; a gránitszobor nedvesen különlegesen csillog.",
                 "ro": "Scurt popas pentru fotografii; statuia de granit strălucește frumos când e udă.",
-                "en": "Quick photo stop; the granite statue glitters beautifully when wet."
+                "en": "Quick photo stop; the granite statue glitters beautifully when wet.",
+                "pt": "Paragem rápida para foto; a estátua de granito cintila lindamente quando molhada."
               }
             },
             {
@@ -360,7 +382,8 @@
                 "de": "Direkt am Platz; nutzen Sie die Arkaden der umliegenden Gebäude als Schutz.",
                 "hu": "A tér mellett a környező épületek árkádjai alatt találhatunk menedéket.",
                 "ro": "Lângă piață; folosiți arcadele clădirilor din jur pentru adăpost.",
-                "en": "Right by the square; use the nearby building arcades for temporary cover."
+                "en": "Right by the square; use the nearby building arcades for temporary cover.",
+                "pt": "Mesmo junto à praça; use os arcossóis dos edifícios próximos para cobertura temporária."
               }
             },
             {
@@ -369,7 +392,8 @@
                 "de": "Das prächtige barocke Innere bietet trockenen Unterschlupf für Besichtigungen.",
                 "hu": "A pompás barokk belső tér száraz és nyugodt helyszín a nézelődéshez.",
                 "ro": "Interiorul baroc splendid oferă un adăpost uscat pentru vizitare.",
-                "en": "The splendid Baroque interior provides a dry and peaceful refuge."
+                "en": "The splendid Baroque interior provides a dry and peaceful refuge.",
+                "pt": "O esplêndido interior barroco proporciona um refúgio seco e pacífico."
               }
             },
             {
@@ -378,7 +402,8 @@
                 "de": "Wählen Sie ein Restaurant mit 'Francesinha', perfekt zum Aufwärmen.",
                 "hu": "Válasszon egy helyet, ahol van Francesinha, tökéletes lélekmelegítő.",
                 "ro": "Alegeți un loc care servește Francesinha, ideal pentru a vă încălzi.",
-                "en": "Choose a spot serving Francesinha; it is the perfect comfort food for rain."
+                "en": "Choose a spot serving Francesinha; it is the perfect comfort food for rain.",
+                "pt": "Escolha um local que sirva Francesinha; é o conforto perfeito para dias de chuva."
               }
             },
             {
@@ -387,7 +412,8 @@
                 "de": "Die Cafeteria im Herrenhaus ist ein gemütlicher Rückzugsort mit Blick ins Grüne.",
                 "hu": "Az udvarház kávézója barátságos menedék, kilátással az ázott kertre.",
                 "ro": "Cafeneaua din conac este un refugiu primitor cu vedere spre grădină.",
-                "en": "The cafeteria inside the manor house is a cozy retreat with garden views."
+                "en": "The cafeteria inside the manor house is a cozy retreat with garden views.",
+                "pt": "A cafetaria dentro da casa senhorial é um retiro acolhedor com vista para o jardim."
               }
             }
           ],
@@ -415,6 +441,12 @@
               "Wear non-slip shoes as the Portuguese pavement becomes slippery when wet.",
               "Local shopping galleries are great for extended dry breaks.",
               "A sturdy folding umbrella is better than a large one due to occasional wind."
+            ],
+            "pt": [
+              "A estação de metro Forum Maia é subterrânea, proporcionando acesso seco ao centro da cidade.",
+              "Use sapatos antiderrapantes, pois o calceto português fica escorregadio quando molhado.",
+              "As galerias comerciais locais são excelentes para pausas prolongadas e secas.",
+              "Um guarda‑chuva dobrável resistente é melhor do que um grande devido a ventos ocasionais."
             ]
           }
         },
@@ -423,7 +455,8 @@
             "de": "Im klaren Winterlicht beginnt der Tag im Maia Forum. Die kühle Luft macht den Spaziergang zum Lidador-Denkmal erfrischend, bevor wir uns bei einem traditionellen Mittagessen stärken. Nachmittags leuchten die Goldaltäre des Heiligtums Bom Despacho besonders warm. Da die Sonne gegen 17:30 Uhr untergeht, genießen wir das restliche Tageslicht in den weitläufigen Anlagen der Quinta da Gruta.",
             "hu": "Tiszta téli fényekben indul a nap a Maia Forumban. A friss, hűvös levegő élénkítővé teszi a sétát a Lidador szoborig, majd egy kiadós ebéd melegít fel minket. Délután a Bom Despacho szentély aranyozott oltárai különleges fényben úsznak. Mivel fél hatkor sötétedik, a nap utolsó sugaraival még bejárjuk a Quinta da Gruta birtokát.",
             "ro": "Ziua începe în lumina clară de iarnă la Maia Forum. Aerul răcoros face plimbarea spre monumentul Lidador revigorantă, înainte de un prânz tradițional cald. După-amiaza, altarele aurite ale Sanctuarului Bom Despacho strălucesc cald. Deoarece soarele apune pe la 17:30, profităm de restul luminii naturale la Quinta da Gruta.",
-            "en": "The day begins in the crisp winter light at Maia Forum. The cool air makes the stroll to the Lidador monument refreshing before warming up with a traditional lunch. In the afternoon, the gilded altars of the Bom Despacho Sanctuary glow warmly. Since the sun sets around 5:30 PM, we use the remaining daylight to explore the grounds of Quinta da Gruta."
+            "en": "The day begins in the crisp winter light at Maia Forum. The cool air makes the stroll to the Lidador monument refreshing before warming up with a traditional lunch. In the afternoon, the gilded altars of the Bom Despacho Sanctuary glow warmly. Since the sun sets around 5:30 PM, we use the remaining daylight to explore the grounds of Quinta da Gruta.",
+            "pt": "O dia começa com a luz límpida de inverno no Maia Forum. O ar fresco torna a caminhada até ao monumento do Lidador revigorante antes de se aquecer com um almoço tradicional. À tarde, os altares dourados do Santuário do Bom Despacho brilham com calor. Como o sol se põe por volta das 17:30, usamos a luz restante para explorar os terrenos da Quinta da Gruta."
           },
           "stops": [
             {
@@ -432,7 +465,8 @@
                 "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel während der Besichtigung abzulegen.",
                 "hu": "Használja a ruhatárat, hogy ne kelljen nehéz kabátban néznie a kiállítást.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele groase în timpul vizitei.",
-                "en": "Use the cloakroom to drop off heavy winter coats during your visit."
+                "en": "Use the cloakroom to drop off heavy winter coats during your visit.",
+                "pt": "Use o bengaleiro para deixar casacos de inverno pesados durante a visita."
               }
             },
             {
@@ -441,7 +475,8 @@
                 "de": "Die tiefstehende Wintersonne bietet am Vormittag tolles Licht für Fotos.",
                 "hu": "Az alacsonyan járó téli nap délelőtt kiváló fényeket ad a fotózáshoz.",
                 "ro": "Soarele de iarnă oferă o lumină excelentă pentru fotografii dimineața.",
-                "en": "The low winter sun provides excellent lighting for photos in the morning."
+                "en": "The low winter sun provides excellent lighting for photos in the morning.",
+                "pt": "O sol baixo de inverno proporciona excelente iluminação para fotografias de manhã."
               }
             },
             {
@@ -450,7 +485,8 @@
                 "de": "Ein schneller Stopp; wärmen Sie sich danach in einem der Cafés am Platz auf.",
                 "hu": "Gyors megálló, utána melegedjen fel a tér körüli kávézók egyikében.",
                 "ro": "O oprire rapidă; încălziți-vă apoi la una dintre cafenelele din piață.",
-                "en": "A quick stop; warm up afterwards at one of the cafes around the square."
+                "en": "A quick stop; warm up afterwards at one of the cafes around the square.",
+                "pt": "Paragem rápida; aqueça‑se depois numa das cafetarias em redor da praça."
               }
             },
             {
@@ -459,7 +495,8 @@
                 "de": "Im Winter ist es in der Kirche oft kühler als draußen; behalten Sie die Jacke an.",
                 "hu": "Télen a templomban hűvösebb lehet, mint kint; ne vegye le a kabátját.",
                 "ro": "Iarna este adesea mai rece în biserică decât afară; păstrați haina pe dvs.",
-                "en": "In winter, the church interior is often colder than outside; keep your coat on."
+                "en": "In winter, the church interior is often colder than outside; keep your coat on.",
+                "pt": "No inverno, o interior da igreja costuma estar mais frio do que o exterior; mantenha o casaco vestido."
               }
             },
             {
@@ -468,7 +505,8 @@
                 "de": "Fragen Sie nach dem Tageseintopf (Cozido), dem besten Wintergericht.",
                 "hu": "Kérjen napi egytálételt (Cozido), ez a legjobb téli fogás itt.",
                 "ro": "Cereți tocană zilei (Cozido), cel mai bun fel de mâncare de iarnă.",
-                "en": "Ask for the daily stew (Cozido), the best winter dish in the region."
+                "en": "Ask for the daily stew (Cozido), the best winter dish in the region.",
+                "pt": "Peça o guisado do dia (Cozido), o melhor prato de inverno da região."
               }
             },
             {
@@ -477,7 +515,8 @@
                 "de": "Besuchen Sie die Gärten früh, um den Sonnenuntergang vor 18 Uhr zu erleben.",
                 "hu": "Látogasson el korán a kertekbe, hogy lássa a naplementét 6 óra előtt.",
                 "ro": "Vizitați grădinile devreme pentru a vedea apusul înainte de ora 18.",
-                "en": "Visit the gardens early to catch the sunset before 6 PM."
+                "en": "Visit the gardens early to catch the sunset before 6 PM.",
+                "pt": "Visite os jardins cedo para apanhar o pôr-do-sol antes das 18:00."
               }
             }
           ],
@@ -505,6 +544,12 @@
               "Winter sunsets are often spectacular over the hills of Maia.",
               "Grab a 'Meia de Leite' (latte) to warm up during your walk.",
               "Public transport vehicles are well-heated during the winter months."
+            ],
+            "pt": [
+              "Recomenda-se roupa em camadas; faz calor ao sol mas fresco na sombra.",
+              "Os pores-do-sol de inverno são frequentemente espetaculares sobre as colinas da Maia.",
+              "Peça uma 'Meia de Leite' para se aquecer durante a caminhada.",
+              "Os veículos de transporte público estão bem aquecidos durante os meses de inverno."
             ]
           }
         }
@@ -523,7 +568,8 @@
             "de": "Parque de Avioso",
             "hu": "Avioso Park",
             "ro": "Parcul Avioso",
-            "en": "Avioso Park"
+            "en": "Avioso Park",
+            "pt": "Parque do Avioso"
           },
           "coords": [
             -8.5958,
@@ -539,7 +585,8 @@
             "de": "Ein großartiger Ort, um den Tag mit einer Radtour auf den Wegen zu beginnen.",
             "hu": "Nagyszerű hely a nap kezdéséhez egy biciklitúrával az ösvényeken.",
             "ro": "Un loc minunat pentru a începe ziua cu o plimbare cu bicicleta pe poteci.",
-            "en": "A great place to start the day with a bike ride on its trails."
+            "en": "A great place to start the day with a bike ride on its trails.",
+            "pt": "Um ótimo lugar para começar o dia com um passeio de bicicleta nas suas trilhas."
           }
         },
         {
@@ -547,7 +594,8 @@
             "de": "Heiligtum Unserer Lieben Frau von Bom Despacho",
             "hu": "Nossa Senhora do Bom Despacho szentély",
             "ro": "Sanctuarul Doamnei Noastre de la Bom Despacho",
-            "en": "Sanctuary of Our Lady of Bom Despacho"
+            "en": "Sanctuary of Our Lady of Bom Despacho",
+            "pt": "Santuário de Nossa Senhora do Bom Despacho"
           },
           "coords": [
             -8.6258,
@@ -563,7 +611,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit, die Details zu bewundern.",
             "hu": "Zárd le biztonságosan a biciklidet, és szánj időt a részletek megcsodálására.",
             "ro": "Asigurați-vă bicicleta și admirați detaliile.",
-            "en": "Lock your bike securely and take time to admire the details."
+            "en": "Lock your bike securely and take time to admire the details.",
+            "pt": "Tranque a sua bicicleta com segurança e reserve tempo para admirar os detalhes."
           }
         },
         {
@@ -571,7 +620,8 @@
             "de": "Statue von Lidador",
             "hu": "Lidador szobra",
             "ro": "Statuia lui Lidador",
-            "en": "Statue of Lidador"
+            "en": "Statue of Lidador",
+            "pt": "Estátua do Lidador"
           },
           "coords": [
             -8.6199,
@@ -587,7 +637,8 @@
             "de": "Ein schneller Halt für ein Foto mit dem Helden der Stadt.",
             "hu": "Egy gyors megálló egy fotóra a város hősével.",
             "ro": "O oprire rapidă pentru o fotografie cu eroul orașului.",
-            "en": "A quick stop for a photo with the city's hero."
+            "en": "A quick stop for a photo with the city's hero.",
+            "pt": "Uma paragem rápida para uma foto com o herói da cidade."
           }
         },
         {
@@ -595,7 +646,8 @@
             "de": "Fórum da Maia",
             "hu": "Maia Fórum",
             "ro": "Fórum da Maia",
-            "en": "Maia Forum"
+            "en": "Maia Forum",
+            "pt": "Maia Forum"
           },
           "coords": [
             -8.6133,
@@ -611,7 +663,8 @@
             "de": "Werfen Sie einen Blick auf die moderne Architektur dieses Kulturzentrums.",
             "hu": "Vess egy pillantást a kulturális központ modern építészetére.",
             "ro": "Aruncați o privire la arhitectura modernă a acestui centru cultural.",
-            "en": "Take a look at the modern architecture of this cultural hub."
+            "en": "Take a look at the modern architecture of this cultural hub.",
+            "pt": "Observe a arquitetura moderna deste polo cultural."
           }
         },
         {
@@ -619,7 +672,8 @@
             "de": "Mittagessen in der Nähe des Zentrums",
             "hu": "Ebéd a központ közelében",
             "ro": "Prânz lângă centru",
-            "en": "Lunch near the center"
+            "en": "Lunch near the center",
+            "pt": "Almoço perto do centro"
           },
           "coords": [
             -8.614,
@@ -635,7 +689,8 @@
             "de": "Suchen Sie ein Café mit Sitzgelegenheiten im Freien, um Ihr Fahrrad im Auge zu behalten.",
             "hu": "Keress egy szabadtéri ülőhelyes kávézót, hogy szemmel tarthasd a biciklidet.",
             "ro": "Căutați o cafenea cu terasă pentru a vă putea supraveghea bicicleta.",
-            "en": "Find a cafe with outdoor seating to keep an eye on your bike."
+            "en": "Find a cafe with outdoor seating to keep an eye on your bike.",
+            "pt": "Encontre um café com esplanada para vigiar a sua bicicleta."
           }
         },
         {
@@ -643,7 +698,8 @@
             "de": "Igreja de Águas Santas",
             "hu": "Águas Santas-i templom",
             "ro": "Biserica din Águas Santas",
-            "en": "Church of Águas Santas"
+            "en": "Church of Águas Santas",
+            "pt": "Igreja de Águas Santas"
           },
           "coords": [
             -8.5778,
@@ -659,7 +715,8 @@
             "de": "Eine wunderschöne romanische Kirche, die eine kleine Radtour wert ist.",
             "hu": "Egy gyönyörű román stílusú templom, ami megér egy kis biciklizést.",
             "ro": "O frumoasă biserică romanică ce merită o mică deviere cu bicicleta.",
-            "en": "A beautiful Romanesque church that is worth the bike ride."
+            "en": "A beautiful Romanesque church that is worth the bike ride.",
+            "pt": "Uma bela igreja românica que vale a viagem de bicicleta."
           }
         },
         {
@@ -667,7 +724,8 @@
             "de": "Quinta da Gruta",
             "hu": "Quinta da Gruta",
             "ro": "Quinta da Gruta",
-            "en": "Quinta da Gruta"
+            "en": "Quinta da Gruta",
+            "pt": "Quinta da Gruta"
           },
           "coords": [
             -8.5997,
@@ -683,7 +741,8 @@
             "de": "Beenden Sie Ihre Radtour mit einer entspannten Zeit in diesem schönen Park.",
             "hu": "Fejezd be a biciklitúrát egy pihentető időtöltéssel ebben a szép parkban.",
             "ro": "Încheiați-vă turul cu bicicleta cu un moment de relaxare în acest parc frumos.",
-            "en": "End your bike tour with some relaxing time in this lovely park."
+            "en": "End your bike tour with some relaxing time in this lovely park.",
+            "pt": "Termine o seu passeio de bicicleta com tempo de relaxamento neste agradável parque."
           }
         }
       ],
@@ -691,7 +750,8 @@
         "de": "Ihre Radtour durch Maia beginnt im grünen Avioso-Park. Von dort radeln Sie zum spirituellen Zentrum, dem Heiligtum von Bom Despacho, und machen kurze Stopps bei den Wahrzeichen der Stadt. Nach einem Blick auf das moderne Fórum da Maia und einem stärkenden Mittagessen führt Sie Ihre Route zur historischen Kirche von Águas Santas. Den Abschluss des Tages bildet eine entspannte Zeit im Park der Quinta da Gruta, wo Sie die gesammelten Eindrücke verarbeiten können.",
         "hu": "A maiai biciklitúrád a zöld Avioso Parkban kezdődik. Onnan a spirituális központhoz, a Bom Despacho szentélyhez tekersz, rövid megállókkal a város nevezetességeinél. A modern Maia Fórum megtekintése és egy kiadós ebéd után az útvonalad az Águas Santas történelmi templomához vezet. A napot a Quinta da Gruta parkjában való pihenéssel zárod, ahol feldolgozhatod a gyűjtött benyomásokat.",
         "ro": "Turul dvs. cu bicicleta prin Maia începe în Parcul verde Avioso. De acolo, pedalați spre centrul spiritual, Sanctuarul Bom Despacho, cu opriri scurte la reperele orașului. După o privire la modernul Fórum da Maia și un prânz copios, traseul vă duce la biserica istorică din Águas Santas. Ziua se încheie cu un moment de relaxare în parcul de la Quinta da Gruta, unde puteți procesa impresiile adunate.",
-        "en": "Your bike tour through Maia starts in the green Avioso Park. From there, you'll cycle to the spiritual center, the Bom Despacho Sanctuary, with short stops at the city's landmarks. After a look at the modern Maia Forum and a hearty lunch, your route takes you to the historic church of Águas Santas. The day concludes with some relaxing time in the park at Quinta da Gruta, where you can process the impressions you've gathered."
+        "en": "Your bike tour through Maia starts in the green Avioso Park. From there, you'll cycle to the spiritual center, the Bom Despacho Sanctuary, with short stops at the city's landmarks. After a look at the modern Maia Forum and a hearty lunch, your route takes you to the historic church of Águas Santas. The day concludes with some relaxing time in the park at Quinta da Gruta, where you can process the impressions you've gathered.",
+        "pt": "O seu passeio de bicicleta pela Maia começa no verde Parque do Avioso. A partir daí, pedala até ao centro espiritual, o Santuário do Bom Despacho, com pequenas paragens nos marcos da cidade. Depois de uma visita ao Maia Forum e de um almoço reconfortante, o percurso leva-o à histórica Igreja de Águas Santas. O dia termina com momentos de relaxamento no parque da Quinta da Gruta, onde pode assimilar as impressões recolhidas."
       },
       "gastro_picks": {
         "de": [
@@ -851,6 +911,12 @@
           "Bring a good bike lock.",
           "Maia has some hills, be prepared for inclines.",
           "Use bike lanes wherever available."
+        ],
+        "pt": [
+          "Verifique a pressão dos pneus antes de partir.",
+          "Leve um bom cadeado para a bicicleta.",
+          "A Maia tem algumas colinas; esteja preparado para subidas.",
+          "Use as ciclovias sempre que disponíveis."
         ]
       },
       "variants": {
@@ -859,7 +925,8 @@
             "de": "Trotz Regen bietet der Avioso Park durch seinen dichten Baumbestand Schutz für den Start. Die Fahrt zum Heiligtum Bom Despacho erfordert Vorsicht auf nassem Asphalt. Mittags wärmen wir uns im Zentrum auf, bevor wir das Maia Forum besuchen. Die Tour endet an der historischen Kirche von Águas Santas und der Quinta da Gruta, wobei die kühle Luft die Anstrengung mildert.",
             "hu": "Az eső ellenére az Avioso Park sűrű fái védelmet nyújtanak a kezdéshez. A Bom Despacho szentélyig tartó út óvatosságot igényel a vizes aszfalton. Délben a központban melegszünk fel, majd ellátogatunk a Maia Forumba. A túra az Águas Santas templomnál és a Quinta da Grutánál zárul, ahol a hűvös levegő enyhíti a tekerés fáradalmait.",
             "ro": "În ciuda ploii, Parcul Avioso oferă protecție la start datorită copacilor deși. Drumul spre Sanctuarul Bom Despacho necesită prudență pe asfaltul ud. La prânz ne încălzim în centru înainte de a vizita Maia Forum. Turul se încheie la biserica istorică din Águas Santas și Quinta da Gruta, aerul răcoros atenuând efortul.",
-            "en": "Despite the rain, Avioso Park's dense trees offer some initial cover. The ride to the Bom Despacho Sanctuary requires caution on wet tarmac. At noon, we warm up in the center before visiting Maia Forum. The tour ends at the historic Águas Santas Church and Quinta da Gruta, with the cool air making the physical effort more manageable."
+            "en": "Despite the rain, Avioso Park's dense trees offer some initial cover. The ride to the Bom Despacho Sanctuary requires caution on wet tarmac. At noon, we warm up in the center before visiting Maia Forum. The tour ends at the historic Águas Santas Church and Quinta da Gruta, with the cool air making the physical effort more manageable.",
+            "pt": "Apesar da chuva, as árvores densas do Parque do Avioso oferecem alguma cobertura inicial. A viagem até ao Santuário do Bom Despacho exige precaução no alcatrão molhado. Ao meio-dia, aquecemo-nos no centro antes de visitar o Maia Forum. O passeio termina na histórica Igreja de Águas Santas e na Quinta da Gruta, com o ar fresco a tornar o esforço físico mais suportável."
           },
           "stops": [
             {
@@ -868,7 +935,8 @@
                 "de": "Die Waldwege sind geschützt, können aber an einigen Stellen matschig sein.",
                 "hu": "Az erdei utak védettek, de néhány helyen sárosak lehetnek.",
                 "ro": "Potecile din pădure sunt protejate, dar pot fi noroioase în unele locuri.",
-                "en": "The forested paths are sheltered but can be muddy in some sections."
+                "en": "The forested paths are sheltered but can be muddy in some sections.",
+                "pt": "Os caminhos florestais estão abrigados mas podem ficar lamacentos em alguns troços."
               }
             },
             {
@@ -877,7 +945,8 @@
                 "de": "Sicherer Abstellplatz für Fahrräder direkt am Eingangsbereich vorhanden.",
                 "hu": "A bejáratnál biztonságos kerékpártároló áll rendelkezésre.",
                 "ro": "Există un loc sigur pentru parcarea bicicletelor chiar la intrare.",
-                "en": "Secure bicycle parking is available right near the entrance area."
+                "en": "Secure bicycle parking is available right near the entrance area.",
+                "pt": "Existe estacionamento seguro para bicicletas mesmo perto da zona de entrada."
               }
             },
             {
@@ -886,7 +955,8 @@
                 "de": "Vorsicht auf dem glatten Pflasterstein rund um das Denkmal.",
                 "hu": "Vigyázat a szobor körüli csúszós macskaköves burkolaton.",
                 "ro": "Atenție la pavajul alunecos din jurul monumentului.",
-                "en": "Caution is advised on the slippery cobblestones around the monument."
+                "en": "Caution is advised on the slippery cobblestones around the monument.",
+                "pt": "Recomenda-se precaução nas calçadas de paralelos escorregadias em redor do monumento."
               }
             },
             {
@@ -895,7 +965,8 @@
                 "de": "Nutzen Sie den überdachten Vorplatz für eine kurze Verschnaufpause.",
                 "hu": "Használja a fedett előteret egy rövid pihenőre és szusszanásra.",
                 "ro": "Folosiți zona acoperită din față pentru o scurtă pauză de odihnă.",
-                "en": "Use the sheltered forecourt for a brief break and to catch your breath."
+                "en": "Use the sheltered forecourt for a brief break and to catch your breath.",
+                "pt": "Use o adro coberto para uma breve pausa e para recuperar o fôlego."
               }
             },
             {
@@ -904,7 +975,8 @@
                 "de": "Wählen Sie ein Café mit Sichtkontakt zu Ihrem abgestellten Fahrrad.",
                 "hu": "Válasszon olyan kávézót, ahonnan rálát a lezárt kerékpárjára.",
                 "ro": "Alegeți o cafenea de unde puteți supraveghea bicicleta parcată.",
-                "en": "Choose a cafe with a direct line of sight to your parked bicycle."
+                "en": "Choose a cafe with a direct line of sight to your parked bicycle.",
+                "pt": "Escolha um café com linha de visão direta para a sua bicicleta estacionada."
               }
             },
             {
@@ -913,7 +985,8 @@
                 "de": "Das steinerne Interieur der Kirche ist ein herrlicher, trockener Ruhepol.",
                 "hu": "A templom hűvös kőfalai között száraz és nyugodt pihenő várja.",
                 "ro": "Interiorul de piatră al bisericii este un loc de odihnă uscat și superb.",
-                "en": "The stone interior of the church is a wonderful, dry haven for rest."
+                "en": "The stone interior of the church is a wonderful, dry haven for rest.",
+                "pt": "O interior em pedra da igreja é um maravilhoso refúgio seco para descansar."
               }
             },
             {
@@ -922,7 +995,8 @@
                 "de": "Es gibt überdachte Fahrradständer in der Nähe des Haupteingangs.",
                 "hu": "A főbejárat közelében fedett kerékpártárolók találhatók.",
                 "ro": "Există suporturi pentru biciclete acoperite lângă intrarea principală.",
-                "en": "There are sheltered bike racks available near the main entrance."
+                "en": "There are sheltered bike racks available near the main entrance.",
+                "pt": "Existem suportes cobertos para bicicletas junto à entrada principal."
               }
             }
           ],
@@ -950,6 +1024,12 @@
               "Avoid braking directly on road markings as they become extremely slick.",
               "A waterproof jacket with a hood is better than just a helmet cover.",
               "Bike lanes along main roads are generally well-drained."
+            ],
+            "pt": [
+              "Guardalamas são essenciais para pedalar no tempo chuvoso da Maia.",
+              "Evite travar diretamente sobre as marcações rodoviárias, pois ficam extremamente escorregadias.",
+              "Uma impermeável com capuz é melhor do que apenas uma capa para capacete.",
+              "As ciclovias ao longo das vias principais têm geralmente boa drenagem."
             ]
           }
         },
@@ -958,7 +1038,8 @@
             "de": "Die klare Winterluft im Avioso Park weckt die Lebensgeister für den Start der Tour. Wir radeln zum Heiligtum Bom Despacho, während die milde portugiesische Wintersonne uns begleitet. Nach einem Stopp beim Lidador und dem Maia Forum genießen wir ein warmes Mittagessen. Der Nachmittag führt uns zur Águas Santas Kirche und endet bei tiefstehender Sonne an der Quinta da Gruta.",
             "hu": "A tiszta téli levegő az Avioso Parkban frissítően hat a túra kezdetén. A Bom Despacho szentélyig tekerünk, miközben a gyenge téli nap kísér minket. A Lidador szobor és a Maia Forum után egy meleg ebéd következik. Délután ellátogatunk az Águas Santas templomhoz, a napot pedig a lemenő nap fényében a Quinta da Grutánál zárjuk.",
             "ro": "Aerul curat de iarnă din Parcul Avioso ne trezește simțurile la începutul turului. Pedalăm spre Sanctuarul Bom Despacho, acompaniați de soarele blând de iarnă. După o oprire la Lidador și Maia Forum, savurăm un prânz cald. După-amiaza ne duce la biserica Águas Santas și se încheie la Quinta da Gruta, sub soarele de seară.",
-            "en": "The crisp winter air in Avioso Park invigorates the start of our tour. We cycle to the Bom Despacho Sanctuary, accompanied by the mild Portuguese winter sun. After stops at Lidador and Maia Forum, we enjoy a warm lunch. The afternoon leads us to Águas Santas Church and concludes at Quinta da Gruta under the low evening sun."
+            "en": "The crisp winter air in Avioso Park invigorates the start of our tour. We cycle to the Bom Despacho Sanctuary, accompanied by the mild Portuguese winter sun. After stops at Lidador and Maia Forum, we enjoy a warm lunch. The afternoon leads us to Águas Santas Church and concludes at Quinta da Gruta under the low evening sun.",
+            "pt": "O ar fresco de inverno no Parque do Avioso revigora o início do nosso passeio. Pedalamos até ao Santuário do Bom Despacho, acompanhados pelo suave sol do inverno português. Depois de paragens no Lidador e no Maia Forum, disfrutamos de um almoço quente. A tarde leva-nos à Igreja de Águas Santas e termina na Quinta da Gruta sob o baixo sol vespertino."
           },
           "stops": [
             {
@@ -967,7 +1048,8 @@
                 "de": "Tragen Sie Handschuhe, da der Fahrtwind im Schatten der Bäume kühl ist.",
                 "hu": "Viseljen kesztyűt, mert a fák árnyékában a menetszél hűvös lehet.",
                 "ro": "Purtați mănuși, deoarece vântul este rece la umbra copacilor.",
-                "en": "Wear gloves as the wind chill in the shade of the trees can be cold."
+                "en": "Wear gloves as the wind chill in the shade of the trees can be cold.",
+                "pt": "Use luvas, pois o vento faz sentir mais frio na sombra das árvores."
               }
             },
             {
@@ -976,7 +1058,8 @@
                 "de": "Nutzen Sie den Stopp, um sich im windgeschützten Innenhof zu dehnen.",
                 "hu": "Használja ki a megállót egy nyújtásra a szélvédett belső udvaron.",
                 "ro": "Folosiți oprirea pentru a vă întinde în curtea interioară ferită de vânt.",
-                "en": "Use this stop to stretch in the wind-sheltered inner courtyard."
+                "en": "Use this stop to stretch in the wind-sheltered inner courtyard.",
+                "pt": "Aproveite esta paragem para esticar-se no pátio interior protegido do vento."
               }
             },
             {
@@ -985,7 +1068,8 @@
                 "de": "Die Mittagssonne am Platz ist ideal für eine kurze Trinkpause.",
                 "hu": "A térre tűző déli napsütés ideális egy rövid ivószünethez.",
                 "ro": "Soarele de la prânz din piață este ideal pentru o scurtă pauză de hidratare.",
-                "en": "The midday sun on the square is perfect for a short hydration break."
+                "en": "The midday sun on the square is perfect for a short hydration break.",
+                "pt": "O sol do meio-dia na praça é perfeito para uma curta pausa de hidratação."
               }
             },
             {
@@ -994,7 +1078,8 @@
                 "de": "Im Winter sind die Cafés im Forum beliebte Treffpunkte zum Aufwärmen.",
                 "hu": "Télen a Forum kávézói népszerű találkozóhelyek a felmelegedéshez.",
                 "ro": "Iarna, cafenelele din Forum sunt locuri populare pentru a vă încălzi.",
-                "en": "In winter, the cafes inside the Forum are popular spots to warm up."
+                "en": "In winter, the cafes inside the Forum are popular spots to warm up.",
+                "pt": "No inverno, os cafés dentro do Forum são locais populares para se aquecer."
               }
             },
             {
@@ -1003,7 +1088,8 @@
                 "de": "Ein Platz am Fenster lässt Sie die Wintersonne während des Essens genießen.",
                 "hu": "Az ablak melletti asztalánál élvezheti a téli napsütést evés közben.",
                 "ro": "Un loc la fereastră vă permite să vă bucurați de soare în timp ce mâncați.",
-                "en": "A window seat lets you enjoy the winter sun while you eat lunch."
+                "en": "A window seat lets you enjoy the winter sun while you eat lunch.",
+                "pt": "Um lugar junto à janela permite desfrutar do sol de inverno enquanto almoça."
               }
             },
             {
@@ -1012,7 +1098,8 @@
                 "de": "Besuchen Sie die Kirche vor 16 Uhr, solange das Licht die Fenster durchflutet.",
                 "hu": "Látogassa meg a templomot 16 óra előtt, amíg a fény beárad az ablakokon.",
                 "ro": "Vizitați biserica înainte de ora 16, cât timp lumina pătrunde prin ferestre.",
-                "en": "Visit the church before 4 PM while the light still floods the windows."
+                "en": "Visit the church before 4 PM while the light still floods the windows.",
+                "pt": "Visite a igreja antes das 16:00, enquanto a luz ainda inunda as janelas."
               }
             },
             {
@@ -1021,7 +1108,8 @@
                 "de": "Stellen Sie sicher, dass Ihre Fahrradlichter für den Rückweg funktionieren.",
                 "hu": "Ellenőrizze, hogy a kerékpár lámpái működnek-e a hazaútra.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
-                "en": "Ensure your bike lights are working for the journey back as dusk falls."
+                "en": "Ensure your bike lights are working for the journey back as dusk falls.",
+                "pt": "Certifique-se de que as luzes da sua bicicleta funcionam para o regresso, à medida que anoitece."
               }
             }
           ],
@@ -1049,6 +1137,12 @@
               "High humidity can make the cold feel sharper than the temperature suggests.",
               "Daylight ends early; plan to finish your tour by 5:00 PM.",
               "Maia is hilly; the climbs will keep you warm, but watch the wind chill on descents."
+            ],
+            "pt": [
+              "Meias quentes e luvas corta-vento são obrigatórias para pedalar no inverno.",
+              "A humidade elevada pode tornar o frio mais penetrante do que a temperatura indica.",
+              "A luz do dia termina cedo; planeie terminar o seu passeio até às 17:00.",
+              "A Maia é montanhosa; as subidas aquecem, mas atenção ao vento na descida."
             ]
           }
         }
@@ -1067,7 +1161,8 @@
             "de": "Zoo da Maia (Cluster A)",
             "hu": "Maiai Állatkert (A csoport)",
             "ro": "Grădina Zoologică Maia (Grupul A)",
-            "en": "Maia Zoo (Cluster A)"
+            "en": "Maia Zoo (Cluster A)",
+            "pt": "Zoo da Maia (Cluster A)"
           },
           "coords": [
             -8.6389,
@@ -1083,7 +1178,8 @@
             "de": "Kommen Sie früh an, um die Menschenmassen zu vermeiden und die Tiere bei ihrer Fütterung zu beobachten.",
             "hu": "Érkezz korán, hogy elkerüld a tömeget és lásd az állatokat etetés közben.",
             "ro": "Ajungeți devreme pentru a evita aglomerația și pentru a vedea animalele în timpul hrănirii.",
-            "en": "Arrive early to avoid the crowds and see the animals during their feeding time."
+            "en": "Arrive early to avoid the crowds and see the animals during their feeding time.",
+            "pt": "Chegue cedo para evitar multidões e ver os animais na hora das refeições."
           }
         },
         {
@@ -1091,7 +1187,8 @@
             "de": "Parque de Avioso (Cluster A)",
             "hu": "Avioso Park (A csoport)",
             "ro": "Parcul Avioso (Grupul A)",
-            "en": "Avioso Park (Cluster A)"
+            "en": "Avioso Park (Cluster A)",
+            "pt": "Parque do Avioso (Cluster A)"
           },
           "coords": [
             -8.5958,
@@ -1107,7 +1204,8 @@
             "de": "Ein kurzer Spaziergang nach dem Zoo, um die Beine zu vertreten.",
             "hu": "Egy rövid séta az állatkert után, hogy kinyújtóztasd a lábaidat.",
             "ro": "O scurtă plimbare după grădina zoologică pentru a vă dezmorți picioarele.",
-            "en": "A short walk after the zoo to stretch your legs."
+            "en": "A short walk after the zoo to stretch your legs.",
+            "pt": "Uma curta caminhada após o zoo para esticar as pernas."
           }
         },
         {
@@ -1115,7 +1213,8 @@
             "de": "Mittagessen (Cluster B)",
             "hu": "Ebéd (B csoport)",
             "ro": "Prânz (Grupul B)",
-            "en": "Lunch (Cluster B)"
+            "en": "Lunch (Cluster B)",
+            "pt": "Almoço (Cluster B)"
           },
           "coords": [
             -8.623,
@@ -1131,7 +1230,8 @@
             "de": "Parken Sie im Zentrum und wählen Sie ein Restaurant in der Nähe des Heiligtums.",
             "hu": "Parkolj a központban, és válassz egy éttermet a szentély közelében.",
             "ro": "Parcați în centru și alegeți un restaurant lângă Sanctuar.",
-            "en": "Park in the center and choose a restaurant near the Sanctuary."
+            "en": "Park in the center and choose a restaurant near the Sanctuary.",
+            "pt": "Estacione no centro e escolha um restaurante perto do Santuário."
           }
         },
         {
@@ -1139,7 +1239,8 @@
             "de": "Heiligtum Unserer Lieben Frau von Bom Despacho (Cluster B)",
             "hu": "Nossa Senhora do Bom Despacho szentély (B csoport)",
             "ro": "Sanctuarul Doamnei Noastre de la Bom Despacho (Grupul B)",
-            "en": "Sanctuary of Our Lady of Bom Despacho (Cluster B)"
+            "en": "Sanctuary of Our Lady of Bom Despacho (Cluster B)",
+            "pt": "Santuário de Nossa Senhora do Bom Despacho (Cluster B)"
           },
           "coords": [
             -8.6258,
@@ -1155,7 +1256,8 @@
             "de": "Ein kurzer Spaziergang vom Restaurant aus. Bewundern Sie die Kachelarbeiten.",
             "hu": "Rövid séta az étteremtől. Csodáld meg a csempe munkát.",
             "ro": "O scurtă plimbare de la restaurant. Admirați faianța.",
-            "en": "A short walk from the restaurant. Admire the tile work."
+            "en": "A short walk from the restaurant. Admire the tile work.",
+            "pt": "A curta distância a pé a partir do restaurante. Admire o azulejo."
           }
         },
         {
@@ -1163,7 +1265,8 @@
             "de": "Statue von Lidador (Cluster B)",
             "hu": "Lidador szobra (B csoport)",
             "ro": "Statuia lui Lidador (Grupul B)",
-            "en": "Statue of Lidador (Cluster B)"
+            "en": "Statue of Lidador (Cluster B)",
+            "pt": "Estátua do Lidador (Cluster B)"
           },
           "coords": [
             -8.6199,
@@ -1179,7 +1282,8 @@
             "de": "Gehen Sie zum Denkmal, um mehr über die lokale Geschichte zu erfahren.",
             "hu": "Sétálj el az emlékműhöz, hogy többet tudj meg a helyi történelemről.",
             "ro": "Mergeți pe jos până la monument pentru a afla despre istoria locală.",
-            "en": "Walk over to the monument to learn about local history."
+            "en": "Walk over to the monument to learn about local history.",
+            "pt": "Dirija‑se ao monumento para conhecer a história local."
           }
         },
         {
@@ -1187,7 +1291,8 @@
             "de": "Fórum da Maia (Cluster B)",
             "hu": "Maia Fórum (B csoport)",
             "ro": "Fórum da Maia (Grupul B)",
-            "en": "Maia Forum (Cluster B)"
+            "en": "Maia Forum (Cluster B)",
+            "pt": "Maia Forum (Cluster B)"
           },
           "coords": [
             -8.6133,
@@ -1203,7 +1308,8 @@
             "de": "Beenden Sie Ihren Stadtrundgang mit einem Blick auf die moderne Seite von Maia.",
             "hu": "Fejezd be a városnézést Maia modern oldalának megtekintésével.",
             "ro": "Încheiați-vă turul pe jos al centrului cu o privire la partea modernă a orașului Maia.",
-            "en": "Finish your walking tour of the center with a look at Maia's modern side."
+            "en": "Finish your walking tour of the center with a look at Maia's modern side.",
+            "pt": "Termine o seu passeio a pé pelo centro com um olhar sobre o lado moderno da Maia."
           }
         },
         {
@@ -1211,7 +1317,8 @@
             "de": "Igreja de Águas Santas (Cluster C)",
             "hu": "Águas Santas-i templom (C csoport)",
             "ro": "Biserica din Águas Santas (Grupul C)",
-            "en": "Church of Águas Santas (Cluster C)"
+            "en": "Church of Águas Santas (Cluster C)",
+            "pt": "Igreja de Águas Santas (Cluster C)"
           },
           "coords": [
             -8.5778,
@@ -1227,7 +1334,8 @@
             "de": "Fahren Sie zu dieser historischen Kirche, um ein Stück romanische Architektur zu sehen.",
             "hu": "Vezess el ehhez a történelmi templomhoz, hogy megnézz egy darabot a román kori építészetből.",
             "ro": "Conduceți până la această biserică istorică pentru o bucată de arhitectură romanică.",
-            "en": "Drive to this historic church for a piece of Romanesque architecture."
+            "en": "Drive to this historic church for a piece of Romanesque architecture.",
+            "pt": "Desloque‑se de carro até esta igreja histórica para ver um exemplar de arquitetura românica."
           }
         },
         {
@@ -1235,7 +1343,8 @@
             "de": "Spaziergang in der Umgebung (Cluster C)",
             "hu": "Séta a környéken (C csoport)",
             "ro": "Plimbare în zonă (Grupul C)",
-            "en": "Walk around the area (Cluster C)"
+            "en": "Walk around the area (Cluster C)",
+            "pt": "Passeie pela zona (Cluster C)"
           },
           "coords": [
             -8.577,
@@ -1251,7 +1360,8 @@
             "de": "Machen Sie einen kurzen Spaziergang in der ruhigen Umgebung der Kirche.",
             "hu": "Tegyél egy rövid sétát a templom csendes környékén.",
             "ro": "Faceți o scurtă plimbare în împrejurimile liniștite ale bisericii.",
-            "en": "Take a short walk in the quiet surroundings of the church."
+            "en": "Take a short walk in the quiet surroundings of the church.",
+            "pt": "Faça uma curta caminhada nos arredores tranquilos da igreja."
           }
         }
       ],
@@ -1259,7 +1369,8 @@
         "de": "Ihr Autotag in Maia beginnt mit Natur und Tieren im Zoo und im Avioso-Park. Nach diesem grünen Vormittag fahren Sie ins Stadtzentrum. Dort parken Sie und erkunden zu Fuß das spirituelle und bürgerliche Herz von Maia: das Heiligtum von Bom Despacho und die nahegelegenen Denkmäler nach einem gemütlichen Mittagessen. Zum Abschluss des Tages fahren Sie zur historischen Kirche von Águas Santas, um ein Juwel der romanischen Kunst zu entdecken.",
         "hu": "Az autós napod Maiában a természettel és az állatokkal kezdődik az állatkertben és az Avioso Parkban. A zöld délelőtt után a városközpontba hajtasz. Itt leparkolsz, és egy kellemes ebéd után gyalog fedezed fel Maia spirituális és polgári szívét: a Bom Despacho szentélyt és a közeli emlékműveket. A nap végén az Águas Santas történelmi templomához hajtasz, hogy felfedezz egy román kori művészeti gyöngyszemet.",
         "ro": "Ziua dvs. cu mașina în Maia începe cu natura și animalele la Grădina Zoologică și în Parcul Avioso. După această dimineață verde, conduceți spre centrul orașului. Acolo, parcați și explorați pe jos inima spirituală și civică a orașului Maia: Sanctuarul Bom Despacho și monumentele din apropiere, după un prânz pe îndelete. Pentru a încheia ziua, conduceți la biserica istorică din Águas Santas pentru a descoperi o bijuterie a artei romanice.",
-        "en": "Your car day in Maia starts with nature and animals at the Zoo and Avioso Park. After this green morning, you'll drive to the city center. There, you park and explore on foot the spiritual and civic heart of Maia: the Bom Despacho Sanctuary and nearby monuments after a leisurely lunch. To end the day, you drive to the historic church of Águas Santas to discover a gem of Romanesque art."
+        "en": "Your car day in Maia starts with nature and animals at the Zoo and Avioso Park. After this green morning, you'll drive to the city center. There, you park and explore on foot the spiritual and civic heart of Maia: the Bom Despacho Sanctuary and nearby monuments after a leisurely lunch. To end the day, you drive to the historic church of Águas Santas to discover a gem of Romanesque art.",
+        "pt": "O seu dia de carro na Maia começa com natureza e animais no Zoo e no Parque do Avioso. Após esta manhã verde, conduzirá até ao centro da cidade. Lá, estaciona e explora a pé o coração espiritual e cívico da Maia: o Santuário do Bom Despacho e os monumentos vizinhos após um almoço descontraído. Para terminar o dia, conduz até à histórica Igreja de Águas Santas para descobrir uma jóia da arte românica."
       },
       "gastro_picks": {
         "de": [
@@ -1419,6 +1530,12 @@
           "Plan your route in advance to avoid traffic.",
           "A GPS is highly recommended.",
           "Respect parking rules, especially near historic sites."
+        ],
+        "pt": [
+          "Estacionar pode ser difícil no centro; procure parques de estacionamento designados.",
+          "Planeie a sua rota com antecedência para evitar o trânsito.",
+          "Um GPS é altamente recomendado.",
+          "Respeite as regras de estacionamento, especialmente perto de locais históricos."
         ]
       },
       "variants": {
@@ -1427,7 +1544,8 @@
             "de": "Ein Regentag ist ideal für den Maia Zoo, da viele Gehege Unterstände bieten. Danach fahren wir zum Avioso Park für einen kurzen Blick ins Grüne. Das Mittagessen im Zentrum ist die perfekte Pause, gefolgt von der barocken Pracht des Bom Despacho. Wir beschließen den Tag mit kurzen Stopps am Lidador, dem Maia Forum und der romanischen Kirche von Águas Santas.",
             "hu": "Az esős nap ideális a Maia Zoo meglátogatásához, ahol sok a fedett rész. Ezután az Avioso Park felé vesszük az irányt egy rövid zöld kitérőre. A központi ebéd után a Bom Despacho barokk pompája vár ránk. A napot rövid megállókkal zárjuk a Lidador szobornál, a Maia Forumban és az Águas Santas román kori templománál.",
             "ro": "O zi ploioasă este ideală pentru Maia Zoo, deoarece multe incinte oferă adăpost. Apoi mergem spre Parcul Avioso pentru o scurtă privire spre verdeață. Prânzul în centru este pauza perfectă, urmată de splendoarea barocă de la Bom Despacho. Încheiem ziua cu scurte opriri la Lidador, Maia Forum și biserica romanică din Águas Santas.",
-            "en": "A rainy day is perfect for Maia Zoo, as many enclosures offer shelter. Afterwards, we drive to Avioso Park for a quick glimpse of nature. Lunch in the center is the ideal break, followed by the Baroque splendor of Bom Despacho. We conclude the day with short stops at Lidador, Maia Forum, and the Romanesque Águas Santas Church."
+            "en": "A rainy day is perfect for Maia Zoo, as many enclosures offer shelter. Afterwards, we drive to Avioso Park for a quick glimpse of nature. Lunch in the center is the ideal break, followed by the Baroque splendor of Bom Despacho. We conclude the day with short stops at Lidador, Maia Forum, and the Romanesque Águas Santas Church.",
+            "pt": "Um dia chuvoso é perfeito para o Zoo da Maia, pois muitos recintos oferecem abrigo. Depois, conduzimos até ao Parque do Avioso para uma rápida vista da natureza. Almoço no centro é a pausa ideal, seguido pelo esplendor barroco do Bom Despacho. Concluímos o dia com breves paragens no Lidador, no Maia Forum e na românica Igreja de Águas Santas."
           },
           "stops": [
             {
@@ -1436,7 +1554,8 @@
                 "de": "Nutzen Sie den überdachten Gang beim Reptilienhaus als Regenschutz.",
                 "hu": "Használja a hüllőház melletti fedett folyosót eső elleni védelemnek.",
                 "ro": "Folosiți culoarul acoperit de lângă casa reptilelor pentru protecție.",
-                "en": "Use the covered walkway near the reptile house as shelter from the rain."
+                "en": "Use the covered walkway near the reptile house as shelter from the rain.",
+                "pt": "Use a passagem coberta junto ao reptilário como abrigo da chuva."
               }
             },
             {
@@ -1445,7 +1564,8 @@
                 "de": "Es gibt Parkplätze nah am Eingang, sodass Sie schnell im Trockenen sind.",
                 "hu": "A bejárathoz közel vannak parkolók, így gyorsan fedett helyre érhet.",
                 "ro": "Există locuri de parcare aproape de intrare pentru a ajunge rapid la adăpost.",
-                "en": "There are parking spots close to the entrance for quick access to shelter."
+                "en": "There are parking spots close to the entrance for quick access to shelter.",
+                "pt": "Há lugares de estacionamento próximos à entrada para acesso rápido ao abrigo."
               }
             },
             {
@@ -1454,7 +1574,8 @@
                 "de": "Wählen Sie ein Restaurant mit Tiefgarage in der Nähe des Zentrums.",
                 "hu": "Válasszon olyan éttermet, amelynek van mélygarázsa a központ közelében.",
                 "ro": "Alegeți un restaurant cu parcare subterană în apropierea centrului.",
-                "en": "Choose a restaurant with an underground parking garage near the center."
+                "en": "Choose a restaurant with an underground parking garage near the center.",
+                "pt": "Escolha um restaurante com parque de estacionamento subterrâneo perto do centro."
               }
             },
             {
@@ -1463,7 +1584,8 @@
                 "de": "Parken Sie direkt auf dem Platz vor der Kirche für minimale Gehwege.",
                 "hu": "Parkoljon közvetlenül a templom előtti téren a rövid gyalogút érdekében.",
                 "ro": "Parcați chiar în piața din fața bisericii pentru o plimbare minimă.",
-                "en": "Park directly in the square in front of the church for a minimal walk."
+                "en": "Park directly in the square in front of the church for a minimal walk.",
+                "pt": "Estacione diretamente na praça em frente à igreja para uma caminhada mínima."
               }
             },
             {
@@ -1472,7 +1594,8 @@
                 "de": "Betrachten Sie das Denkmal bequem aus dem Auto, falls es stark regnet.",
                 "hu": "Erős esőben nézze meg a szobrot kényelmesen az autóból.",
                 "ro": "Priviți monumentul confortabil din mașină dacă plouă torențial.",
-                "en": "View the monument comfortably from the car if it is raining heavily."
+                "en": "View the monument comfortably from the car if it is raining heavily.",
+                "pt": "Veja o monumento confortavelmente a partir do carro se estiver a chover muito."
               }
             },
             {
@@ -1481,7 +1604,8 @@
                 "de": "Die Tiefgarage des Forums bietet direkten, trockenen Zugang zum Gebäude.",
                 "hu": "A Forum mélygarázsa közvetlen, száraz bejutást biztosít az épületbe.",
                 "ro": "Parcarea subterană a Forumului oferă acces direct și uscat în clădire.",
-                "en": "The Forum's underground parking offers direct, dry access to the building."
+                "en": "The Forum's underground parking offers direct, dry access to the building.",
+                "pt": "O parque subterrâneo do Forum oferece acesso direto e seco ao edifício."
               }
             },
             {
@@ -1490,7 +1614,8 @@
                 "de": "Ein kurzer Sprint vom Auto zum Portal lohnt sich für das tolle Interieur.",
                 "hu": "Egy rövid sprint az autótól a kapuig megéri a csodás belső tér miatt.",
                 "ro": "Un scurt sprint de la mașină la portal merită pentru interiorul superb.",
-                "en": "A quick dash from the car to the portal is worth it for the great interior."
+                "en": "A quick dash from the car to the portal is worth it for the great interior.",
+                "pt": "Uma corrida rápida do carro ao portal vale a pena para o belo interior."
               }
             },
             {
@@ -1499,7 +1624,8 @@
                 "de": "Verschieben Sie diesen Stopp ins Auto-Sightseeing, falls es zu nass ist.",
                 "hu": "Ha túl vizes az idő, tegyen inkább egy kört autóval a környéken.",
                 "ro": "Transformați această oprire în vizionare din mașină dacă este prea ud.",
-                "en": "Turn this stop into car-based sightseeing if it is too wet outside."
+                "en": "Turn this stop into car-based sightseeing if it is too wet outside.",
+                "pt": "Transforme esta paragem em visita turística a partir do carro se estiver demasiado molhado lá fora."
               }
             }
           ],
@@ -1527,6 +1653,12 @@
               "Avoid the afternoon rush hour, as rain tends to slow down the traffic.",
               "Most attractions have parking spaces directly in front of their entrances.",
               "Check your windshield wipers before starting the tour."
+            ],
+            "pt": [
+              "A visibilidade nas autoestradas à volta da Maia pode ser fraca durante chuva intensa.",
+              "Evite a hora de ponta da tarde, pois a chuva tende a abrandar o trânsito.",
+              "A maioria das atrações tem lugares de estacionamento diretamente em frente às suas entradas.",
+              "Verifique os limpa‑pára‑brisas antes de iniciar o passeio."
             ]
           }
         },
@@ -1535,7 +1667,8 @@
             "de": "Die Wintertour beginnt im Maia Zoo, wo die Tiere bei kühleren Temperaturen oft aktiver sind. Ein kurzer Stopp im Avioso Park führt uns weiter zum Mittagessen im Zentrum. Den Nachmittag nutzen wir für das Heiligtum Bom Despacho und das Lidador-Denkmal. Bevor die frühe Dunkelheit einsetzt, besuchen wir das Maia Forum und die Águas Santas Kirche für einen stimmungsvollen Ausklang.",
             "hu": "A téli túra a Maia Zooban indul, ahol az állatok a hűvösebb időben gyakran aktívabbak. Egy rövid aviosói kitérő után a központban ebédelünk. A délutánt a Bom Despacho szentélyre és a Lidador szoborra szánjuk. Mielőtt korán besötétedne, ellátogatunk a Maia Forumba és az Águas Santas templomhoz.",
             "ro": "Turul de iarnă începe la Maia Zoo, unde animalele sunt adesea mai active la temperaturi scăzute. O scurtă oprire în Parcul Avioso ne duce spre prânz în centru. După-amiaza o dedicăm Sanctuarului Bom Despacho și monumentului Lidador. Înainte de lăsarea serii, vizităm Maia Forum și biserica Águas Santas.",
-            "en": "The winter tour begins at Maia Zoo, where animals are often more active in the cooler temperatures. A quick stop at Avioso Park leads us to lunch in the center. We spend the afternoon visiting the Bom Despacho Sanctuary and the Lidador monument. Before darkness falls early, we visit Maia Forum and Águas Santas Church for an atmospheric finish."
+            "en": "The winter tour begins at Maia Zoo, where animals are often more active in the cooler temperatures. A quick stop at Avioso Park leads us to lunch in the center. We spend the afternoon visiting the Bom Despacho Sanctuary and the Lidador monument. Before darkness falls early, we visit Maia Forum and Águas Santas Church for an atmospheric finish.",
+            "pt": "O passeio de inverno começa no Zoo da Maia, onde os animais são frequentemente mais ativos nas temperaturas mais frescas. Uma paragem rápida no Parque do Avioso leva-nos ao almoço no centro. Passamos a tarde a visitar o Santuário do Bom Despacho e o monumento ao Lidador. Antes que a escuridão caia cedo, visitamos o Maia Forum e a Igreja de Águas Santas para um final atmosférico."
           },
           "stops": [
             {
@@ -1544,7 +1677,8 @@
                 "de": "Kommen Sie früh, um die Fütterungszeiten am Vormittag mitzuerleben.",
                 "hu": "Érkezzen korán, hogy láthassa a délelőtti etetéseket.",
                 "ro": "Veniți devreme pentru a prinde orele de hrănire de dimineață.",
-                "en": "Arrive early to catch the morning feeding times."
+                "en": "Arrive early to catch the morning feeding times.",
+                "pt": "Chegue cedo para apanhar as horas de alimentação da manhã."
               }
             },
             {
@@ -1553,7 +1687,8 @@
                 "de": "Ein zügiger Spaziergang hier ist perfekt, um im Winter munter zu werden.",
                 "hu": "Egy tempós séta itt tökéletes módja a téli felfrissülésnek.",
                 "ro": "O plimbare rapidă aici este perfectă pentru a vă revigora iarna.",
-                "en": "A brisk walk here is the perfect way to invigorate yourself in winter."
+                "en": "A brisk walk here is the perfect way to invigorate yourself in winter.",
+                "pt": "Uma caminhada enérgica aqui é a forma perfeita de se revigorar no inverno."
               }
             },
             {
@@ -1562,7 +1697,8 @@
                 "de": "Suchen Sie ein Restaurant mit gemütlicher Innenbeleuchtung für die Mittagspause.",
                 "hu": "Keressen egy hangulatos belső világítású éttermet az ebédszünethez.",
                 "ro": "Căutați un restaurant cu iluminare interioară primitoare pentru prânz.",
-                "en": "Look for a restaurant with cozy interior lighting for your lunch break."
+                "en": "Look for a restaurant with cozy interior lighting for your lunch break.",
+                "pt": "Procure um restaurante com iluminação interior acolhedora para a sua pausa de almoço."
               }
             },
             {
@@ -1571,7 +1707,8 @@
                 "de": "Die warme Abendbeleuchtung der Kirche ist im Winter besonders schön.",
                 "hu": "A templom meleg esti kivilágítása télen különösen szép.",
                 "ro": "Iluminarea caldă de seară a bisericii este deosebit de frumoasă iarna.",
-                "en": "The warm evening lighting of the church is especially beautiful in winter."
+                "en": "The warm evening lighting of the church is especially beautiful in winter.",
+                "pt": "A iluminação quente da igreja ao anoitecer é especialmente bonita no inverno."
               }
             },
             {
@@ -1580,7 +1717,8 @@
                 "de": "Dank Auto ist der Stopp am windigen Platz kurz und komfortabel.",
                 "hu": "Az autónak köszönhetően a szeles téren tett megálló rövid és kényelmes.",
                 "ro": "Datorită mașinii, oprirea în piața vântoasă este scurtă și confortabilă.",
-                "en": "Thanks to the car, the stop at the windy square is brief and comfortable."
+                "en": "Thanks to the car, the stop at the windy square is brief and comfortable.",
+                "pt": "Graças ao carro, a paragem na praça ventosa é breve e confortável."
               }
             },
             {
@@ -1589,7 +1727,8 @@
                 "de": "Abends ist das beleuchtete Forum ein tolles Fotomotiv.",
                 "hu": "Este a kivilágított Forum kiváló fotótéma.",
                 "ro": "Seara, Forumul iluminat este un subiect excelent pentru fotografii.",
-                "en": "The illuminated Forum in the evening is a great subject for photos."
+                "en": "The illuminated Forum in the evening is a great subject for photos.",
+                "pt": "O Fórum iluminado ao anoitecer é um excelente motivo fotográfico."
               }
             },
             {
@@ -1598,7 +1737,8 @@
                 "de": "Beachten Sie die Öffnungszeiten, da diese im Winter kürzer sein können.",
                 "hu": "Ügyeljen a nyitvatartásra, mert télen rövidebb lehet.",
                 "ro": "Fiți atenți la program, deoarece acesta poate fi mai scurt iarna.",
-                "en": "Pay attention to the opening hours, as they may be shorter in winter."
+                "en": "Pay attention to the opening hours, as they may be shorter in winter.",
+                "pt": "Preste atenção aos horários de abertura, pois podem ser mais curtos no inverno."
               }
             },
             {
@@ -1607,7 +1747,8 @@
                 "de": "Genießen Sie den Blick auf die beleuchtete Stadt während der Rückfahrt.",
                 "hu": "Élvezze a kivilágított város látványát a visszaút során.",
                 "ro": "Bucurați-vă de vederea orașului iluminat în timpul drumului de întoarcere.",
-                "en": "Enjoy the view of the illuminated city during your drive back."
+                "en": "Enjoy the view of the illuminated city during your drive back.",
+                "pt": "Desfrute da vista da cidade iluminada durante a sua viagem de regresso."
               }
             }
           ],
@@ -1635,6 +1776,12 @@
               "Use the seat heaters to warm up quickly between sightseeing stops.",
               "Plan your route to arrive at the last point before it gets dark.",
               "Winter tires are normally not necessary in this region of Portugal."
+            ],
+            "pt": [
+              "Encontrar estacionamento no centro costuma ser mais fácil no inverno.",
+              "Use os aquecedores dos bancos para aquecer rapidamente entre visitas turísticas.",
+              "Planeie a rota para chegar ao último ponto antes de escurecer.",
+              "Os pneus de inverno normalmente não são necessários nesta região de Portugal."
             ]
           }
         }
@@ -1653,7 +1800,8 @@
             "de": "Ankunft am Fórum da Maia (Cluster A)",
             "hu": "Érkezés a Maia Fórumhoz (A csoport)",
             "ro": "Sosire la Fórum da Maia (Grupul A)",
-            "en": "Arrival at Fórum da Maia (Cluster A)"
+            "en": "Arrival at Fórum da Maia (Cluster A)",
+            "pt": "Chegada ao Fórum da Maia (Cluster A)"
           },
           "coords": [
             -8.6133,
@@ -1669,7 +1817,8 @@
             "de": "Beginnen Sie Ihren Tag hier, es ist ein wichtiger Verkehrsknotenpunkt.",
             "hu": "Kezdd itt a napot, ez egy fontos közlekedési csomópont.",
             "ro": "Începeți-vă ziua aici, este un nod de transport important.",
-            "en": "Start your day here, it's a major transit hub."
+            "en": "Start your day here, it's a major transit hub.",
+            "pt": "Comece o dia aqui; é um importante centro de transportes."
           }
         },
         {
@@ -1677,7 +1826,8 @@
             "de": "Denkmal für die Maiata-Gemeinschaft (Cluster A)",
             "hu": "Maia Közösségének Emlékműve (A csoport)",
             "ro": "Monumentul Comunității Maiata (Grupul A)",
-            "en": "Monument to the Maiata Community (Cluster A)"
+            "en": "Monument to the Maiata Community (Cluster A)",
+            "pt": "Monumento à Comunidade Maiata (Cluster A)"
           },
           "coords": [
             -8.615,
@@ -1693,7 +1843,8 @@
             "de": "Ein kurzer Spaziergang vom Forum entfernt.",
             "hu": "Rövid séta a Fórumtól.",
             "ro": "La o scurtă plimbare de Forum.",
-            "en": "A short walk from the Forum."
+            "en": "A short walk from the Forum.",
+            "pt": "A curta distância a pé do Fórum."
           }
         },
         {
@@ -1701,7 +1852,8 @@
             "de": "Statue von Lidador (Cluster A)",
             "hu": "Lidador szobra (A csoport)",
             "ro": "Statuia lui Lidador (Grupul A)",
-            "en": "Statue of Lidador (Cluster A)"
+            "en": "Statue of Lidador (Cluster A)",
+            "pt": "Estátua do Lidador (Cluster A)"
           },
           "coords": [
             -8.6199,
@@ -1717,7 +1869,8 @@
             "de": "Setzen Sie Ihren Spaziergang zum nächsten Denkmal fort.",
             "hu": "Folytasd a sétát a következő emlékműhöz.",
             "ro": "Continuați plimbarea până la următorul monument.",
-            "en": "Continue your walk to the next monument."
+            "en": "Continue your walk to the next monument.",
+            "pt": "Continue a sua caminhada até ao próximo monumento."
           }
         },
         {
@@ -1725,7 +1878,8 @@
             "de": "Heiligtum Unserer Lieben Frau von Bom Despacho (Cluster B)",
             "hu": "Nossa Senhora do Bom Despacho szentély (B csoport)",
             "ro": "Sanctuarul Doamnei Noastre de la Bom Despacho (Grupul B)",
-            "en": "Sanctuary of Our Lady of Bom Despacho (Cluster B)"
+            "en": "Sanctuary of Our Lady of Bom Despacho (Cluster B)",
+            "pt": "Santuário de Nossa Senhora do Bom Despacho (Cluster B)"
           },
           "coords": [
             -8.6258,
@@ -1741,7 +1895,8 @@
             "de": "Nehmen Sie einen lokalen Bus, um zu diesem wichtigen Wallfahrtsort zu gelangen.",
             "hu": "Vegyél egy helyi buszt, hogy eljuss ehhez a fontos zarándokhelyhez.",
             "ro": "Luați un autobuz local pentru a ajunge la acest important sanctuar.",
-            "en": "Take a local bus to get to this important sanctuary."
+            "en": "Take a local bus to get to this important sanctuary.",
+            "pt": "Apanhe um autocarro local para chegar a este importante santuário."
           }
         },
         {
@@ -1749,7 +1904,8 @@
             "de": "Mittagessen in der Nähe des Heiligtums (Cluster B)",
             "hu": "Ebéd a szentély közelében (B csoport)",
             "ro": "Prânz lângă Sanctuar (Grupul B)",
-            "en": "Lunch near the Sanctuary (Cluster B)"
+            "en": "Lunch near the Sanctuary (Cluster B)",
+            "pt": "Almoço junto ao Santuário (Cluster B)"
           },
           "coords": [
             -8.6245,
@@ -1765,7 +1921,8 @@
             "de": "Es gibt mehrere traditionelle Restaurants in Gehdistanz.",
             "hu": "Sétatávolságra több hagyományos étterem is található.",
             "ro": "Există mai multe restaurante tradiționale la distanță de mers pe jos.",
-            "en": "There are several traditional restaurants within walking distance."
+            "en": "There are several traditional restaurants within walking distance.",
+            "pt": "Há vários restaurantes tradicionais a curta distância a pé."
           }
         },
         {
@@ -1773,7 +1930,8 @@
             "de": "Igreja de Águas Santas (Cluster C)",
             "hu": "Águas Santas-i templom (C csoport)",
             "ro": "Biserica din Águas Santas (Grupul C)",
-            "en": "Church of Águas Santas (Cluster C)"
+            "en": "Church of Águas Santas (Cluster C)",
+            "pt": "Igreja de Águas Santas (Cluster C)"
           },
           "coords": [
             -8.5778,
@@ -1789,7 +1947,8 @@
             "de": "Diese Fahrt erfordert möglicherweise einen Umstieg, aber die Kirche ist es wert.",
             "hu": "Ehhez az úthoz lehet, hogy át kell szállni, de a templom megéri.",
             "ro": "Această călătorie poate necesita o schimbare, dar biserica merită.",
-            "en": "This journey might require a transfer, but the church is worth it."
+            "en": "This journey might require a transfer, but the church is worth it.",
+            "pt": "Esta viagem pode exigir uma transferência, mas a igreja vale a pena."
           }
         },
         {
@@ -1797,7 +1956,8 @@
             "de": "Spaziergang und Kaffee (Cluster C)",
             "hu": "Séta és kávé (C csoport)",
             "ro": "Plimbare și cafea (Grupul C)",
-            "en": "Walk and coffee (Cluster C)"
+            "en": "Walk and coffee (Cluster C)",
+            "pt": "Caminhada e café (Cluster C)"
           },
           "coords": [
             -8.5785,
@@ -1813,7 +1973,8 @@
             "de": "Entspannen Sie sich nach der Besichtigung der Kirche in einem lokalen Café.",
             "hu": "Pihenj egy helyi kávézóban a templom megtekintése után.",
             "ro": "Relaxați-vă la o cafenea locală după vizitarea bisericii.",
-            "en": "Relax in a local cafe after visiting the church."
+            "en": "Relax in a local cafe after visiting the church.",
+            "pt": "Relaxe num café local após visitar a igreja."
           }
         }
       ],
@@ -1821,7 +1982,8 @@
         "de": "Ihre Tour mit öffentlichen Verkehrsmitteln durch Maia beginnt im Zentrum, wo Sie die wichtigsten Denkmäler zu Fuß erkunden. Ein kurzer Bus bringt Sie dann zum spirituellen Heiligtum von Bom Despacho für einen Moment der Besinnung und ein Mittagessen. Am Nachmittag unternehmen Sie eine längere Fahrt zur romanischen Kirche von Águas Santas, einem historischen Juwel. Der Tag endet mit einem entspannten Spaziergang und Kaffee in dieser ruhigen Gegend, bevor Sie zurück ins Zentrum fahren.",
         "hu": "A tömegközlekedési túrád Maiában a központban kezdődik, ahol gyalogosan fedezheted fel a főbb emlékműveket. Egy rövid buszút elvisz a spirituális Bom Despacho szentélyhez egy csendes pillanatra és ebédre. Délután egy hosszabb utat teszel a román stílusú Águas Santas templomhoz, egy történelmi gyöngyszemhez. A nap egy pihentető sétával és kávézással zárul ezen a csendes környéken, mielőtt visszatérnél a központba.",
         "ro": "Turul dvs. cu transportul public prin Maia începe în centru, unde explorați principalele monumente pe jos. Un autobuz scurt vă va duce apoi la sanctuarul spiritual Bom Despacho pentru un moment de reflecție și prânz. După-amiaza, faceți o călătorie mai lungă la biserica romanică din Águas Santas, o bijuterie istorică. Ziua se încheie cu o plimbare relaxantă și o cafea în această zonă liniștită înainte de a vă întoarce în centru.",
-        "en": "Your public transit tour of Maia starts in the center, exploring the main monuments on foot. A short bus ride then takes you to the spiritual Bom Despacho Sanctuary for a moment of reflection and lunch. In the afternoon, you take a longer journey to the Romanesque church of Águas Santas, a historical gem. The day concludes with a relaxing walk and coffee in this quiet area before heading back to the center."
+        "en": "Your public transit tour of Maia starts in the center, exploring the main monuments on foot. A short bus ride then takes you to the spiritual Bom Despacho Sanctuary for a moment of reflection and lunch. In the afternoon, you take a longer journey to the Romanesque church of Águas Santas, a historical gem. The day concludes with a relaxing walk and coffee in this quiet area before heading back to the center.",
+        "pt": "O seu passeio em transporte público por Maia começa no centro, explorando os principais monumentos a pé. Um curto trajecto de autocarro leva-o depois ao espiritual Santuário do Bom Despacho para um momento de reflexão e almoço. À tarde, faz uma viagem mais longa até à igreja românica de Águas Santas, uma joia histórica. O dia termina com uma caminhada relaxante e um café nesta zona tranquila antes de regressar ao centro."
       },
       "gastro_picks": {
         "de": [
@@ -1981,6 +2143,12 @@
           "Download the local public transport app for real-time schedules.",
           "Validate your ticket on every ride.",
           "Be prepared for crowded buses during peak hours."
+        ],
+        "pt": [
+          "Compre um passe diário para viagens ilimitadas.",
+          "Descarregue a aplicação local de transportes para horários em tempo real.",
+          "Valide o seu título de transporte em todas as viagens.",
+          "Prepare-se para autocarros cheios durante as horas de ponta."
         ]
       },
       "variants": {
@@ -1989,7 +2157,8 @@
             "de": "Mit der Metro gelangen wir trocken zum Fórum Maia, dem kulturellen Herz der Stadt. Kurze Fußwege mit dem Schirm führen uns zu den Denkmälern der Gemeinschaft und des Lidador. Mittags bietet das Heiligtum Bom Despacho spirituelle Ruhe im Trockenen, gefolgt von einem gemütlichen Essen. Am Nachmittag erreichen wir per Bus die Águas Santas Kirche und wärmen uns bei einem Kaffee auf.",
             "hu": "Metróval szárazon érkezünk a Fórum Maiához, a város kulturális szívéhez. Rövid ernyős séták vezetnek a közösségi emlékműhöz és a Lidador szoborig. Délben a Bom Despacho szentély nyújt spirituális és száraz menedéket, amit egy kellemes ebéd követ. Délután busszal érjük el az Águas Santas templomot, majd egy kávé mellett melegszünk fel.",
             "ro": "Cu metroul ajungem la uscat la Fórum Maia, inima culturală a orașului. Scurte plimbări cu umbrela ne duc la monumentele comunității și Lidador. La prânz, Sanctuarul Bom Despacho oferă liniște spirituală la adăpost, urmată de o masă plăcută. După-amiaza ajungem cu autobuzul la biserica Águas Santas și ne încălzim cu o cafea.",
-            "en": "By metro, we arrive dry at Fórum Maia, the cultural heart of the city. Short walks with an umbrella lead to the community and Lidador monuments. At noon, the Bom Despacho Sanctuary offers spiritual and dry refuge, followed by a pleasant lunch. In the afternoon, we reach Águas Santas Church by bus and warm up with a coffee."
+            "en": "By metro, we arrive dry at Fórum Maia, the cultural heart of the city. Short walks with an umbrella lead to the community and Lidador monuments. At noon, the Bom Despacho Sanctuary offers spiritual and dry refuge, followed by a pleasant lunch. In the afternoon, we reach Águas Santas Church by bus and warm up with a coffee.",
+            "pt": "De metro chegamos secos ao Fórum Maia, o coração cultural da cidade. Curtas caminhadas com um guarda-chuva levam aos monumentos da comunidade e ao Lidador. Ao meio-dia, o Santuário do Bom Despacho oferece refúgio espiritual e seco, seguido de um almoço agradável. À tarde, chegamos à Igreja de Águas Santas de autocarro e aquecemo-nos com um café."
           },
           "stops": [
             {
@@ -1998,7 +2167,8 @@
                 "de": "Die Metrostation ist direkt unter dem Forum; idealer Start bei Regen.",
                 "hu": "A metróállomás közvetlenül a Forum alatt van; ideális kezdés esőben.",
                 "ro": "Stația de metrou este direct sub Forum; start ideal pe ploaie.",
-                "en": "The metro station is directly beneath the Forum; ideal start in the rain."
+                "en": "The metro station is directly beneath the Forum; ideal start in the rain.",
+                "pt": "A estação de metro fica directamente por baixo do Fórum; início ideal em caso de chuva."
               }
             },
             {
@@ -2007,7 +2177,8 @@
                 "de": "Nur 2 Minuten Fußweg; nutzen Sie die kurzen Regenpausen.",
                 "hu": "Csak 2 perc séta; használja ki a rövid esőszüneteket.",
                 "ro": "Doar 2 minute de mers pe jos; profitați de pauzele scurte de ploaie.",
-                "en": "Only a 2-minute walk; take advantage of short breaks in the rain."
+                "en": "Only a 2-minute walk; take advantage of short breaks in the rain.",
+                "pt": "Apenas 2 minutos a pé; aproveite as pequenas pausas na chuva."
               }
             },
             {
@@ -2016,7 +2187,8 @@
                 "de": "In der Nähe gibt es viele Cafés, falls der Regen stärker wird.",
                 "hu": "A közelben sok kávézó van, ha eleredne az eső.",
                 "ro": "Sunt multe cafenele în apropiere dacă ploaia se întețește.",
-                "en": "There are many cafes nearby if the rain becomes heavier."
+                "en": "There are many cafes nearby if the rain becomes heavier.",
+                "pt": "Há muitos cafés por perto se a chuva aumentar."
               }
             },
             {
@@ -2025,7 +2197,8 @@
                 "de": "Die Bushaltestelle liegt fast direkt vor dem Kircheneingang.",
                 "hu": "A buszmegálló szinte közvetlenül a templombejárat előtt van.",
                 "ro": "Stația de autobuz este aproape direct în fața intrării în biserică.",
-                "en": "The bus stop is located almost directly in front of the church entrance."
+                "en": "The bus stop is located almost directly in front of the church entrance.",
+                "pt": "A paragem de autocarro situa-se quase em frente à entrada da igreja."
               }
             },
             {
@@ -2034,7 +2207,8 @@
                 "de": "Viele Restaurants in dieser Gegend sind bei Einheimischen beliebt und gemütlich.",
                 "hu": "A környékbeli éttermek népszerűek a helyiek körében és barátságosak.",
                 "ro": "Multe restaurante din zonă sunt populare printre localnici și primitoare.",
-                "en": "Many restaurants in this area are popular with locals and very cozy."
+                "en": "Many restaurants in this area are popular with locals and very cozy.",
+                "pt": "Muitos restaurantes nesta área são populares entre os locais e muito acolhedores."
               }
             },
             {
@@ -2043,7 +2217,8 @@
                 "de": "Prüfen Sie die Busverbindung (STCP) für eine trockene Anreise.",
                 "hu": "Ellenőrizze a buszjáratokat (STCP) a száraz érkezés érdekében.",
                 "ro": "Verificați conexiunile de autobuz (STCP) pentru o sosire la uscat.",
-                "en": "Check the bus connections (STCP) for a dry arrival at the church."
+                "en": "Check the bus connections (STCP) for a dry arrival at the church.",
+                "pt": "Verifique as ligações de autocarro (STCP) para uma chegada seca à igreja."
               }
             },
             {
@@ -2052,7 +2227,8 @@
                 "de": "Ein heißer Galao ist der perfekte Abschluss für einen nassen Tag.",
                 "hu": "Egy forró Galao tökéletes lezárása egy esős napnak.",
                 "ro": "Un Galao fierbinte este încheierea perfectă pentru o zi ploioasă.",
-                "en": "A hot Galao (Portuguese latte) is the perfect end to a wet day."
+                "en": "A hot Galao (Portuguese latte) is the perfect end to a wet day.",
+                "pt": "Um Galao quente é o final perfeito para um dia molhado."
               }
             }
           ],
@@ -2080,6 +2256,12 @@
               "Metro stations in Maia are excellent shelters from sudden downpours.",
               "Use the 'Move-me.amp' app for real-time bus departures during the rain.",
               "Buses tend to be more crowded than usual during rainy or winter days."
+            ],
+            "pt": [
+              "O cartão Andante é válido tanto no metro como nos autocarros locais.",
+              "As estações de metro em Maia são excelentes abrigos contra aguaceiros súbitos.",
+              "Use a app 'Move-me.amp' para partidas de autocarro em tempo real durante a chuva.",
+              "Os autocarros tendem a estar mais cheios do que o habitual em dias chuvosos ou de inverno."
             ]
           }
         },
@@ -2088,7 +2270,8 @@
             "de": "Am Fórum Maia starten wir unsere Wintertour mit der Metro. Das klare Licht am Vormittag begleitet uns zu den Monumenten der Stadt. Mittags wärmen wir uns im Heiligtum Bom Despacho auf und genießen ein traditionelles Essen. Nachmittags fahren wir mit dem Bus zur Águas Santas Kirche und lassen den Tag bei einem wärmenden Kaffee in der Nähe gemütlich ausklingen.",
             "hu": "A Fórum Maiánál kezdjük téli túránkat a metróval érkezve. A délelőtti tiszta fények kísérnek minket a város emlékműveihez. Délben a Bom Despacho szentélyben melegszünk fel, majd egy hagyományos ebédet fogyasztunk. Délután busszal megyünk az Águas Santas templomhoz, a napot pedig egy közeli kávézóban zárjuk.",
             "ro": "La Fórum Maia începem turul de iarnă sosind cu metroul. Lumina clară a dimineții ne însoțește spre monumentele orașului. La prânz ne încălzim în Sanctuarul Bom Despacho și savurăm o masă tradițională. După-amiaza luăm autobuzul spre biserica Águas Santas și încheiem ziua la o cafea caldă în apropiere.",
-            "en": "We start our winter tour at Fórum Maia, arriving by metro. The clear morning light accompanies us to the city's monuments. At noon, we warm up inside the Bom Despacho Sanctuary and enjoy a traditional meal. In the afternoon, we take the bus to Águas Santas Church and wrap up the day at a nearby cafe with a warm coffee."
+            "en": "We start our winter tour at Fórum Maia, arriving by metro. The clear morning light accompanies us to the city's monuments. At noon, we warm up inside the Bom Despacho Sanctuary and enjoy a traditional meal. In the afternoon, we take the bus to Águas Santas Church and wrap up the day at a nearby cafe with a warm coffee.",
+            "pt": "Começamos o nosso passeio de inverno no Fórum Maia, chegando de metro. A luz clara da manhã acompanha-nos até aos monumentos da cidade. Ao meio-dia, aquecemo-nos no interior do Santuário do Bom Despacho e apreciamos uma refeição tradicional. À tarde, apanhamos o autocarro para a Igreja de Águas Santas e terminamos o dia num café próximo com um café quente."
           },
           "stops": [
             {
@@ -2097,7 +2280,8 @@
                 "de": "Die Metrostation ist angenehm temperiert und bietet einen guten Startpunkt.",
                 "hu": "A metróállomás kellemes hőmérsékletű és jó kiindulópont.",
                 "ro": "Stația de metrou are o temperatură plăcută și este un bun punct de plecare.",
-                "en": "The metro station is at a pleasant temperature and is a good starting point."
+                "en": "The metro station is at a pleasant temperature and is a good starting point.",
+                "pt": "A estação de metro está a uma temperatura agradável e é um bom ponto de partida."
               }
             },
             {
@@ -2106,7 +2290,8 @@
                 "de": "Ein kurzer Aufenthalt im Freien; die Winterluft ist hier meist sehr frisch.",
                 "hu": "Rövid kinti tartózkodás; a téli levegő itt általában nagyon friss.",
                 "ro": "O scurtă oprire afară; aerul de iarnă este de obicei foarte proaspăt aici.",
-                "en": "A brief stop outdoors; the winter air here is usually very fresh."
+                "en": "A brief stop outdoors; the winter air here is usually very fresh.",
+                "pt": "Uma breve paragem ao ar livre; o ar de inverno aqui é normalmente muito fresco."
               }
             },
             {
@@ -2115,7 +2300,8 @@
                 "de": "Genießen Sie die Wintersonne auf dem offenen Platz vor dem Weiterweg.",
                 "hu": "Élvezze a téli napsütést a nyitott téren a továbbindulás előtt.",
                 "ro": "Bucurați-vă de soarele de iarnă în piața deschisă înainte de a pleca mai departe.",
-                "en": "Enjoy the winter sun in the open square before moving on."
+                "en": "Enjoy the winter sun in the open square before moving on.",
+                "pt": "Desfrute do sol de inverno na praça aberta antes de seguir viagem."
               }
             },
             {
@@ -2124,7 +2310,8 @@
                 "de": "Ein wunderbarer Ort für eine stille, wärmende Pause am Mittag.",
                 "hu": "Csodálatos hely egy csendes, melengető déli pihenőhöz.",
                 "ro": "Un loc minunat pentru o pauză de prânz liniștită și caldă.",
-                "en": "A wonderful place for a quiet, warming break at midday."
+                "en": "A wonderful place for a quiet, warming break at midday.",
+                "pt": "Um lugar maravilhoso para uma pausa tranquila e reconfortante ao meio-dia."
               }
             },
             {
@@ -2133,7 +2320,8 @@
                 "de": "Probieren Sie die lokale Suppe 'Caldo Verde', um sich aufzuwärmen.",
                 "hu": "Kóstolja meg a helyi 'Caldo Verde' levest, hogy felmelegedjen.",
                 "ro": "Încercați supa locală 'Caldo Verde' pentru a vă încălzi.",
-                "en": "Try the local 'Caldo Verde' soup to warm up during lunch."
+                "en": "Try the local 'Caldo Verde' soup to warm up during lunch.",
+                "pt": "Experimente a sopa local 'Caldo Verde' para aquecer durante o almoço."
               }
             },
             {
@@ -2142,7 +2330,8 @@
                 "de": "Der Bus bietet eine gemütliche Fahrt durch die winterliche Stadtlandschaft.",
                 "hu": "A busz kényelmes utazást kínál a téli városi tájon keresztül.",
                 "ro": "Autobuzul oferă o călătorie plăcută prin peisajul urban de iarnă.",
-                "en": "The bus offers a comfortable ride through the winter urban landscape."
+                "en": "The bus offers a comfortable ride through the winter urban landscape.",
+                "pt": "O autocarro oferece uma viagem confortável pela paisagem urbana invernal."
               }
             },
             {
@@ -2151,7 +2340,8 @@
                 "de": "Die Cafés in dieser Gegend sind im Winter gemütliche Rückzugsorte.",
                 "hu": "A környékbeli kávézók télen barátságos menedékhelyek.",
                 "ro": "Cafenelele din această zonă sunt refugii primitoare iarna.",
-                "en": "The cafes in this area are cozy retreats during the winter."
+                "en": "The cafes in this area are cozy retreats during the winter.",
+                "pt": "Os cafés nesta área são acolhedores refúgios durante o inverno."
               }
             }
           ],
@@ -2179,6 +2369,12 @@
               "Bus frequencies may vary slightly during the winter season.",
               "It gets noticeably cooler after 5:00 PM; plan your return journey in time.",
               "The metro stations are well-lit and safe during the evening hours."
+            ],
+            "pt": [
+              "Use um cachecol, pois pode haver correntes de ar nos túneis do metro.",
+              "As frequências dos autocarros podem variar ligeiramente durante a época de inverno.",
+              "Fica claramente mais frio depois das 17:00; planeie o regresso a tempo.",
+              "As estações de metro estão bem iluminadas e seguras durante a noite."
             ]
           }
         }

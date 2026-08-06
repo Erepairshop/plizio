@@ -21,7 +21,8 @@
             "de": "Strand Praia do Morro",
             "hu": "Praia do Morro strand",
             "ro": "Plaja Praia do Morro",
-            "en": "Praia do Morro Beach"
+            "en": "Praia do Morro Beach",
+            "pt": "Praia do Morro"
           },
           "coords": [
             -25.244172,
@@ -36,7 +37,8 @@
             "de": "Genießen Sie den vulkanischen schwarzen Sand dieses malerischen Strandes, der sich perfekt zur morgendlichen Wellenbeobachtung eignet, aber denken Sie daran, Ihr eigenes Handtuch mitzubringen, da die Einrichtungen begrenzt sind.",
             "hu": "Élvezze e festői strand vulkáni fekete homokját, amely tökéletes a reggeli hullámok megfigyelésére, de ne felejtsen el saját törölközőt hozni, mivel a felszereltség korlátozott.",
             "ro": "Bucurați-vă de nisipul negru vulcanic al acestei plaje pitorești, un loc perfect pentru a privi valurile dimineții, dar nu uitați să vă aduceți propriul prosop deoarece facilitățile sunt limitate.",
-            "en": "Enjoy the volcanic black sands of this scenic beach, a perfect spot to watch the morning waves, but remember to bring your own towel as facilities are limited."
+            "en": "Enjoy the volcanic black sands of this scenic beach, a perfect spot to watch the morning waves, but remember to bring your own towel as facilities are limited.",
+            "pt": "Desfrute das areias vulcânicas negras desta praia cénica, um local perfeito para observar as ondas matinais, mas lembre-se de trazer a sua própria toalha, pois as infraestruturas são limitadas."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Städtisches Auditorium",
             "hu": "Városi Előadóterem",
             "ro": "Auditoriul Municipal",
-            "en": "Municipal Auditorium"
+            "en": "Municipal Auditorium",
+            "pt": "Auditório Municipal"
           },
           "coords": [
             -25.244845,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie das lokale kulturelle Herzblut in diesem modernen Auditorium, in dem regionale Veranstaltungen stattfinden, und prüfen Sie das Aushängeschild draußen auf kostenlose Abendvorstellungen.",
             "hu": "Fedezze fel a helyi kulturális élet lüktetését ebben a modern előadóteremben, ahol regionális események zajlanak, és ellenőrizze a kinti hirdetőtáblát az ingyenes esti előadásokért.",
             "ro": "Descoperiți pulsul cultural local în acest auditoriu modern unde au loc evenimente regionale și verificați panoul exterior pentru eventuale spectacole gratuite de seară.",
-            "en": "Discover the local cultural heartbeat at this modern auditorium where regional events take place, and check the notice board outside for any free evening performances."
+            "en": "Discover the local cultural heartbeat at this modern auditorium where regional events take place, and check the notice board outside for any free evening performances.",
+            "pt": "Descubra o pulsar cultural local neste auditório moderno onde se realizam eventos regionais, e consulte o quadro de avisos exterior para possíveis espectáculos noturnos gratuitos."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche Unserer Lieben Frau Mutter Gottes",
             "hu": "Istenanya templom",
             "ro": "Biserica Maicii Domnului",
-            "en": "Church of Our Lady Mother of God"
+            "en": "Church of Our Lady Mother of God",
+            "pt": "Igreja de Nossa Senhora Mãe de Deus"
           },
           "coords": [
             -25.24368,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die markante Doppelturmfassade dieser eleganten Kirche direkt im Zentrum und treten Sie leise ein, um das wunderschön verzierte Altarbild zu schätzen.",
             "hu": "Csodálja meg ezen elegáns központi templom lenyűgöző ikertornyos homlokzatát, és lépjen be csendben, hogy értékelje a gyönyörűen díszített oltárképet.",
             "ro": "Admirați fațada impresionantă cu două turnuri a acestei biserici elegante din centru și pășiți liniștit înăuntru pentru a aprecia altarul său frumos ornamentat.",
-            "en": "Admire the striking twin-tower facade of this elegant church right in the center, and step inside quietly to appreciate its beautifully ornate altarpiece."
+            "en": "Admire the striking twin-tower facade of this elegant church right in the center, and step inside quietly to appreciate its beautifully ornate altarpiece.",
+            "pt": "Admire a fachada de duas torres desta elegante igreja bem no centro, e entre silenciosamente para apreciar o seu belíssimo altar ornamentado."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kapelle Santa Bárbara",
             "hu": "Santa Bárbara kápolna",
             "ro": "Capela Sfânta Barbara",
-            "en": "Chapel of Santa Bárbara"
+            "en": "Chapel of Santa Bárbara",
+            "pt": "Ermida de Santa Bárbara"
           },
           "coords": [
             -25.248691,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie diese kleine, historisch bedeutsame Kapelle inmitten der Häuser, die einen Einblick in das frühe Leben der azoreanischen Siedler bietet und am besten im Morgenlicht fotografiert wird.",
             "hu": "Látogassa meg ezt a házak között megbúvó, történelmileg jelentős kis kápolnát, amely bepillantást enged a korai azori telepesek életébe, és amelyet a reggeli fényben a legjobb lefotózni.",
             "ro": "Vizitați această mică capelă cu importanță istorică, ascunsă printre case, care oferă o privire în viața primilor coloniști din Azore, ideal de fotografiat în lumina dimineții.",
-            "en": "Visit this small, historically significant chapel nestled amongst the houses, which offers a glimpse into early Azorean settlement life, best photographed in the morning light."
+            "en": "Visit this small, historically significant chapel nestled amongst the houses, which offers a glimpse into early Azorean settlement life, best photographed in the morning light.",
+            "pt": "Visite esta pequena ermida de importância histórica encravada entre as casas, que oferece um vislumbre da vida dos primeiros povoadores açorianos, melhor fotografada pela manhã."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Rosenkranzkirche",
             "hu": "Rózsafüzér Királynője templom",
             "ro": "Biserica Maicii Domnului a Rozariului",
-            "en": "Church of Our Lady of the Rosary"
+            "en": "Church of Our Lady of the Rosary",
+            "pt": "Igreja de Nossa Senhora do Rosário"
           },
           "coords": [
             -25.248128,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie eines der ältesten religiösen Bauwerke der Insel, das für seine historische Bedeutung bekannt ist, und ruhen Sie sich einen Moment im ruhigen Innenhof aus, bevor Sie weitergehen.",
             "hu": "Fedezze fel a sziget egyik legrégebbi, történelmi jelentőségű egyházi épületét, és pihenjen egy pillanatot a nyugodt belső udvarban, mielőtt továbbindulna.",
             "ro": "Explorați una dintre cele mai vechi structuri religioase de pe insulă, remarcabilă pentru importanța sa istorică, și luați-vă un moment de odihnă în curtea liniștită înainte de a continua.",
-            "en": "Explore one of the oldest religious structures on the island, noted for its historical importance, and take a moment to rest in the tranquil courtyard before continuing."
+            "en": "Explore one of the oldest religious structures on the island, noted for its historical importance, and take a moment to rest in the tranquil courtyard before continuing.",
+            "pt": "Explore uma das estruturas religiosas mais antigas da ilha, notável pela sua importância histórica, e desfrute de um momento de descanso no pátio tranquilo antes de continuar."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Aussichtspunkt Ramalho",
             "hu": "Ramalho kilátó",
             "ro": "Punctul de belvedere Ramalho",
-            "en": "Ramalho Viewpoint"
+            "en": "Ramalho Viewpoint",
+            "pt": "Miradouro do Ramalho"
           },
           "coords": [
             -25.240951,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie von diesem leicht zugänglichen Aussichtspunkt den weiten Panoramablick über das Dorf und den Ozean, und bringen Sie unbedingt ein Weitwinkelobjektiv mit, um die atemberaubende Küstenkurve einzufangen.",
             "hu": "Élvezze a falura és az óceánra nyíló széles panorámát ebből a könnyen megközelíthető kilátóból, és mindenképpen hozzon széles látószögű lencsét a lenyűgöző tengerparti ív megörökítéséhez.",
             "ro": "Admirați vederea panoramică vastă asupra satului și a oceanului de la acest punct de belvedere accesibil, asigurându-vă că aduceți un obiectiv cu unghi larg pentru a surprinde curba coastei uimitoare.",
-            "en": "Take in sweeping panoramic views over the village and ocean from this accessible viewpoint, making sure to bring a wide-angle lens to capture the stunning coastal curve."
+            "en": "Take in sweeping panoramic views over the village and ocean from this accessible viewpoint, making sure to bring a wide-angle lens to capture the stunning coastal curve.",
+            "pt": "Aprecie vistas panorâmicas sobre a aldeia e o oceano a partir deste miradouro acessível; não se esqueça de trazer uma objetiva grande angular para captar a curva costeira deslumbrante."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie am Praia do Morro mit Meerbrise. Besuchen Sie das Auditório Municipal für lokale Kultur. Mittags erkunden Sie das Zentrum: die Igreja da Nossa Senhora Mãe de Deus und die charmante Ermida de Santa Bárbara. Nachmittags bewundern Sie die historische Igreja do Rosário. Den Abend lassen Sie am Miradouro do Ramalho mit herrlichem Panoramablick über das Dorf ausklingen.",
         "hu": "Kezdjen a Praia do Morro strandon a reggeli tengeri szellővel. Ezután látogasson el az Auditório Municipal-ba. Délben fedezze fel a központot: a Nossa Senhora Mãe de Deus templomot és a Santa Bárbara kápolnát. Délután csodálja meg a történelmi Rosário templomot. Az estét a Miradouro do Ramalho kilátónál zárja, élvezve a Povoação feletti lenyűgöző panorámát a tenger felett.",
         "ro": "Începeți la Praia do Morro cu briza mării, apoi vizitați Auditório Municipal. La prânz, explorați centrul: maiestuoasa biserică Mãe de Deus și micuța capelă Santa Bárbara. După-amiaza, admirați vechea biserică Rosário și curtea sa liniștită. Seara, încheiați plimbarea la Miradouro do Ramalho, bucurându-vă de panorama superbă asupra oceanului și a satului.",
-        "en": "Start at Praia do Morro, enjoying the morning sea breeze and black volcanic sand. From there, immerse yourself in local culture at the modern Auditório Municipal. Midday, head into the historical center, visiting the grand Igreja da Nossa Senhora Mãe de Deus and the quaint Ermida de Santa Bárbara. Conclude at the ancient Igreja do Rosário before a beautiful sunset view from Miradouro do Ramalho."
+        "en": "Start at Praia do Morro, enjoying the morning sea breeze and black volcanic sand. From there, immerse yourself in local culture at the modern Auditório Municipal. Midday, head into the historical center, visiting the grand Igreja da Nossa Senhora Mãe de Deus and the quaint Ermida de Santa Bárbara. Conclude at the ancient Igreja do Rosário before a beautiful sunset view from Miradouro do Ramalho.",
+        "pt": "Comece na Praia do Morro, desfrutando da brisa matinal e da areia vulcânica negra. A partir daí, mergulhe na cultura local no moderno Auditório Municipal. Ao meio-dia, dirija-se ao centro histórico, visitando a imponente Igreja da Nossa Senhora Mãe de Deus e a pitoresca Ermida de Santa Bárbara. Conclua na antiga Igreja do Rosário antes de um belo pôr do sol no Miradouro do Ramalho."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Beginnen Sie Ihren regnerischen Morgen am Strand und beobachten Sie die dramatischen Wellen, bevor Sie in das Auditorium gehen. Mittags bieten die wunderschönen Kirchen trockene Zuflucht. Nachmittags trotzen Sie dem Nieselregen für einen Spaziergang zu den Aussichtspunkten. Bringen Sie einen Regenschirm und wasserdichte Schuhe mit.",
             "hu": "Kezdje az esős reggelt a parton, figyelve a drámai hullámokat, majd húzódjon be az előadóterembe. Délben fedezze fel a száraz menedéket nyújtó gyönyörű templomokat. Délután tegyen egy sétát a kilátókhoz a szitáló esőben. Hozzon erős esernyőt és vízálló cipőt, mivel a parti záporok hirtelenek és hevesek lehetnek.",
             "ro": "Începeți dimineața ploioasă la plajă, admirând valurile dramatice, apoi mergeți la auditoriu. La prânz, explorați bisericile frumoase care oferă un sanctuar uscat. După-amiaza, înfruntați burnița pentru o plimbare spre punctele de belvedere. Luați o umbrelă rezistentă și cizme impermeabile, deoarece ploile pot fi abundente.",
-            "en": "Start your rainy morning at the beach, watching the dramatic waves before heading indoors to the auditorium. By noon, explore beautiful churches offering dry sanctuary. In the afternoon, brave the drizzle for a walk up to the viewpoints. Bring a sturdy umbrella and waterproof boots, as coastal showers can be sudden and heavy."
+            "en": "Start your rainy morning at the beach, watching the dramatic waves before heading indoors to the auditorium. By noon, explore beautiful churches offering dry sanctuary. In the afternoon, brave the drizzle for a walk up to the viewpoints. Bring a sturdy umbrella and waterproof boots, as coastal showers can be sudden and heavy.",
+            "pt": "Comece a sua manhã chuvosa na praia, observando as ondas dramáticas antes de se abrigar no auditório. Ao meio-dia, explore belas igrejas que oferecem santuário seco. À tarde, enfrente o aguaceiro para subir até aos miradouros. Traga um guarda-chuva resistente e botas impermeáveis, pois as chuvas costeiras podem ser súbitas e fortes."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Strand Praia do Morro",
                 "hu": "Praia do Morro strand",
                 "ro": "Plaja Praia do Morro",
-                "en": "Praia do Morro Beach"
+                "en": "Praia do Morro Beach",
+                "pt": "Praia do Morro"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die dramatischen Wellen aus sicherer Entfernung; tragen Sie wasserdichte Schuhe, da die Sandwege bei Regen sehr schlammig und rutschig werden.",
                 "hu": "Figyelje meg a drámai hullámokat biztonságos távolságból; viseljen vízálló cipőt, mivel a homokos ösvények nagyon sarasak és csúszósak lesznek az esőben.",
                 "ro": "Admirați valurile dramatice de la o distanță sigură de-a lungul țărmului; purtați cizme impermeabile, deoarece potecile de nisip devin noroioase pe ploaie.",
-                "en": "Watch the dramatic crashing waves from a safe distance along the shore; wear sturdy waterproof boots as the sandy paths get quite muddy and slippery in the rain."
+                "en": "Watch the dramatic crashing waves from a safe distance along the shore; wear sturdy waterproof boots as the sandy paths get quite muddy and slippery in the rain.",
+                "pt": "Observe as ondas a rebentar dramaticamente a uma distância segura ao longo da costa; use botas impermeáveis resistentes, pois os trilhos de areia ficam bastante lamacentos e escorregadios na chuva."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Städtisches Auditorium",
                 "hu": "Városi Előadóterem",
                 "ro": "Auditoriul Municipal",
-                "en": "Municipal Auditorium"
+                "en": "Municipal Auditorium",
+                "pt": "Auditório Municipal"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die lokalen kulturellen Ausstellungen in diesem einladenden Raum; es dient als perfekter trockener Rückzugsort während eines starken Regengusses.",
                 "hu": "Élvezze a helyi kulturális kiállításokat ebben a barátságos belső térben; tökéletes száraz menedékként szolgál egy heves felhőszakadás idején a városban.",
                 "ro": "Bucurați-vă de expozițiile culturale locale în acest spațiu interior primitor; servește ca un refugiu perfect uscat în timpul unei ploi torențiale în oraș.",
-                "en": "Enjoy the local cultural exhibits inside this welcoming space; it serves as a perfect dry retreat during a heavy downpour while you learn about the area."
+                "en": "Enjoy the local cultural exhibits inside this welcoming space; it serves as a perfect dry retreat during a heavy downpour while you learn about the area.",
+                "pt": "Desfrute das exposições culturais locais dentro deste espaço acolhedor; serve como um perfeito refúgio seco durante uma chuva forte enquanto aprende sobre a região."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Kirche Unserer Lieben Frau Mutter Gottes",
                 "hu": "Istenanya templom",
                 "ro": "Biserica Maicii Domnului",
-                "en": "Church of Our Lady Mother of God"
+                "en": "Church of Our Lady Mother of God",
+                "pt": "Igreja de Nossa Senhora Mãe de Deus"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die kunstvollen Altäre im Inneren und suchen Sie Schutz vor dem Wetter; Vorsicht, die historischen Steinböden können am Eingang rutschig sein.",
                 "hu": "Csodálja meg a gyönyörűen kidolgozott oltárokat odabent, és keressen menedéket az időjárás elől; vigyázzon, mert a történelmi kőpadló csúszós lehet a bejáratnál.",
                 "ro": "Admirați altarele frumos lucrate în interior și adăpostiți-vă de vreme; aveți grijă, deoarece podelele istorice din piatră pot fi alunecoase la intrare.",
-                "en": "Admire the beautifully crafted altars inside and take shelter from the weather; be careful as the historic stone floors might be slippery near the entrance."
+                "en": "Admire the beautifully crafted altars inside and take shelter from the weather; be careful as the historic stone floors might be slippery near the entrance.",
+                "pt": "Admire os altares belamente trabalhados no interior e abrigo da intempérie; tenha cuidado, pois os pavimentos históricos de pedra podem estar escorregadios perto da entrada."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Kapelle Santa Bárbara",
                 "hu": "Santa Bárbara kápolna",
                 "ro": "Capela Sfânta Barbara",
-                "en": "Chapel of Santa Bárbara"
+                "en": "Chapel of Santa Bárbara",
+                "pt": "Ermida de Santa Bárbara"
               },
               "tip_5lang": {
                 "de": "Ein kleiner, aber gemütlicher Zufluchtsort vor dem Regen mit schönen religiösen Artefakten, die man betrachten kann, während man auf das Ende des Schauers wartet.",
                 "hu": "Kicsi, de hihetetlenül hangulatos menedék az eső elől, ahol gyönyörű vallási tárgyakat figyelhet meg közelről, miközben várja, hogy a parti zápor elvonuljon.",
                 "ro": "Un refugiu mic, dar incredibil de confortabil din calea ploii, cu artefacte religioase frumoase de observat, în timp ce așteptați să treacă ploile de coastă.",
-                "en": "A small but incredibly cozy refuge from the rain with beautiful religious artifacts to observe closely while waiting for the coastal showers to gently pass."
+                "en": "A small but incredibly cozy refuge from the rain with beautiful religious artifacts to observe closely while waiting for the coastal showers to gently pass.",
+                "pt": "Um refúgio pequeno mas incrivelmente acolhedor da chuva com belos artefactos religiosos para observar de perto enquanto espera que as aguaceiras costeiras passem suavemente."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Rosenkranzkirche",
                 "hu": "Rózsafüzér Királynője templom",
                 "ro": "Biserica Maicii Domnului a Rozariului",
-                "en": "Church of Our Lady of the Rosary"
+                "en": "Church of Our Lady of the Rosary",
+                "pt": "Igreja de Nossa Senhora do Rosário"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie sich Zeit, die herrlichen Details im Inneren zu erkunden, während Sie darauf warten, dass der starke Regen nachlässt, bevor Sie den Spaziergang fortsetzen.",
                 "hu": "Szánjon időt a csodálatos belső részletek és a békés hangulat felfedezésére, miközben várja, hogy a heves esőzés alábbhagyjon, mielőtt folytatná a sétát.",
                 "ro": "Făceți-vă timp explorând detaliile interioare magnifice și ambianța liniștită în timp ce așteptați ca ploaia abundentă să se potolească înainte de a continua.",
-                "en": "Take your time exploring the magnificent interior details and peaceful ambiance while waiting for the heavy rain to ease up before continuing your city walk."
+                "en": "Take your time exploring the magnificent interior details and peaceful ambiance while waiting for the heavy rain to ease up before continuing your city walk.",
+                "pt": "Demore-se a explorar os magníficos pormenores interiores e a atmosfera tranquila enquanto espera que a chuva forte amole antes de continuar a sua caminhada pela vila."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Aussichtspunkt Ramalho",
                 "hu": "Ramalho kilátó",
                 "ro": "Punctul de belvedere Ramalho",
-                "en": "Ramalho Viewpoint"
+                "en": "Ramalho Viewpoint",
+                "pt": "Miradouro do Ramalho"
               },
               "tip_5lang": {
                 "de": "Die nebligen, regnerischen Ausblicke auf das Tal sind stimmungsvoll und fotogen, aber achten Sie genau auf Ihre Schritte auf den nassen, rutschigen Wegen.",
                 "hu": "A ködös, eső áztatta völgy látványa hangulatos és hihetetlenül fotogén, de kérjük, nagyon figyeljen a lépéseire a vizes, csúszós sétautakon a perem mentén.",
                 "ro": "Priveliștile cețoase ale văii sunt melancolice și incredibil de fotogenice, dar fiți atenți la pașii voștri pe potecile umede și alunecoase de pe margine.",
-                "en": "The misty, rain-swept views of the valley are moody and incredibly photogenic, but watch your step closely on the wet, slippery walking paths along the edge."
+                "en": "The misty, rain-swept views of the valley are moody and incredibly photogenic, but watch your step closely on the wet, slippery walking paths along the edge.",
+                "pt": "As vistas enevoadas e lavadas pela chuva do vale são dramáticas e muito fotogénicas, mas tenha atenção ao pisar nos trilhos molhados e escorregadios ao longo da beira."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Beginnen Sie Ihren klaren Wintermorgen mit einem erfrischenden Spaziergang am Strand. Mittags steht die Geschichte im Mittelpunkt bei einem Besuch im warmen Auditorium. Nachmittags geht es zum Aussichtspunkt, um die goldene Stunde vor dem frühen Sonnenuntergang gegen 17:00 Uhr einzufangen. Tragen Sie warme Kleidung wegen der Brise.",
             "hu": "Kezdje a friss téli reggelt egy frissítő sétával a tengerparton. A délidő a történelemé, látogassa meg a fűtött előadótermet és a hangulatos templomokat. Késő délután irány a kilátó, hogy elcsípje a csodás aranyórát a 17:00 körüli korai naplemente előtt. Öltözzön melegen és rétegesen, mert az atlanti szellő elég csípős.",
             "ro": "Începeți dimineața de iarnă cu o plimbare răcoritoare pe plajă. Prânzul aduce în prim-plan istoria, vizitând auditoriul cald și bisericile primitoare. După-amiaza, mergeți la belvedere pentru a prinde ora de aur înainte de apusul devreme din jurul orei 17:00. Îmbrăcați-vă în straturi calde, deoarece briza oceanului este rece.",
-            "en": "Begin your crisp winter morning with a refreshing stroll along the beach. Midday brings a focus on history as you visit the town's warm auditorium and cozy churches. As the afternoon cools down, head to the viewpoint to catch the beautiful golden hour before the early sunset around 17:00. Dress in warm layers as the Atlantic breeze is quite chilly."
+            "en": "Begin your crisp winter morning with a refreshing stroll along the beach. Midday brings a focus on history as you visit the town's warm auditorium and cozy churches. As the afternoon cools down, head to the viewpoint to catch the beautiful golden hour before the early sunset around 17:00. Dress in warm layers as the Atlantic breeze is quite chilly.",
+            "pt": "Comece a sua fresca manhã de inverno com um passeio revigorante ao longo da praia. Ao meio-dia, foque-se na história ao visitar o aquecido auditório da vila e as igrejas acolhedoras. À medida que a tarde arrefece, dirija-se ao miradouro para apanhar a bonita hora dourada antes do pôr do sol cedo por volta das 17:00. Vista várias camadas quentes, pois a brisa atlântica é bastante fria."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Strand Praia do Morro",
                 "hu": "Praia do Morro strand",
                 "ro": "Plaja Praia do Morro",
-                "en": "Praia do Morro Beach"
+                "en": "Praia do Morro Beach",
+                "pt": "Praia do Morro"
               },
               "tip_5lang": {
                 "de": "Die winterliche Atlantikbrise ist recht frisch; packen Sie sich mit einem warmen Schal ein, während Sie die friedliche, völlig leere Küste am Morgen genießen.",
                 "hu": "Az atlanti téli szellő meglehetősen élénk és frissítő, ezért burkolózzon egy meleg sálba, miközben élvezi a békés, teljesen üres reggeli tengerpartot.",
                 "ro": "Briza de iarnă a Atlanticului este destul de tăioasă, așa că înfofoliți-vă cu un fular cald în timp ce vă bucurați de țărmul liniștit și complet gol dimineața.",
-                "en": "The Atlantic winter breeze is quite brisk and refreshing, so bundle up with a warm scarf while enjoying the peaceful, completely empty morning shoreline."
+                "en": "The Atlantic winter breeze is quite brisk and refreshing, so bundle up with a warm scarf while enjoying the peaceful, completely empty morning shoreline.",
+                "pt": "A brisa atlântica de inverno é bastante viva e revigorante, por isso agasalhe-se com um cachecol quente enquanto desfruta da tranquila e completamente vazia orla matinal."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Städtisches Auditorium",
                 "hu": "Városi Előadóterem",
                 "ro": "Auditoriul Municipal",
-                "en": "Municipal Auditorium"
+                "en": "Municipal Auditorium",
+                "pt": "Auditório Municipal"
               },
               "tip_5lang": {
                 "de": "Treten Sie in diesen modernen Veranstaltungsort ein, um sich aufzuwärmen und in die lokale Kultur der Azoren einzutauchen, weit weg von der bitteren Winterkälte.",
                 "hu": "Lépjen be ebbe a modern épületbe, hogy felmelegítse a kezét, és elmerüljön a helyi azori kultúrában, tökéletesen elmenekülve a kinti keserű téli hideg elől.",
                 "ro": "Pășiți în acest loc modern pentru a vă încălzi mâinile și a vă cufunda în cultura locală din Azore, scăpând perfect de frigul aspru de iarnă de afară.",
-                "en": "Step inside this modern venue to effectively warm up your hands and immerse yourself in local Azorean culture, perfectly escaping the bitter winter chill outside."
+                "en": "Step inside this modern venue to effectively warm up your hands and immerse yourself in local Azorean culture, perfectly escaping the bitter winter chill outside.",
+                "pt": "Entre neste espaço moderno para aquecer efetivamente as mãos e imergir na cultura açoriana local, escapando perfeitamente à agreste frialdade de inverno no exterior."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Kirche Unserer Lieben Frau Mutter Gottes",
                 "hu": "Istenanya templom",
                 "ro": "Biserica Maicii Domnului",
-                "en": "Church of Our Lady Mother of God"
+                "en": "Church of Our Lady Mother of God",
+                "pt": "Igreja de Nossa Senhora Mãe de Deus"
               },
               "tip_5lang": {
                 "de": "Die dicken historischen Steinmauern halten das Innere natürlich kühl; behalten Sie Ihren Wintermantel am besten an, während Sie die beeindruckende sakrale Kunst bewundern.",
                 "hu": "A vastag történelmi kőfalak természetes módon hűvösen tartják a belső teret, ezért a legjobb, ha magán tartja a télikabátot, miközben a szakrális művészetet csodálja.",
                 "ro": "Zidurile groase de piatră mențin interiorul răcoros în mod natural, așa că cel mai bine este să păstrați haina de iarnă în timp ce admirați arta sacră impresionantă.",
-                "en": "The thick historical stone walls keep the interior naturally cool, so it is best to keep your winter coat on while quietly admiring the impressive sacred art."
+                "en": "The thick historical stone walls keep the interior naturally cool, so it is best to keep your winter coat on while quietly admiring the impressive sacred art.",
+                "pt": "As espessas paredes de pedra histórica mantêm o interior naturalmente fresco, por isso é melhor manter o casaco de inverno vestido enquanto admira silenciosamente a impressionante arte sacra."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Kapelle Santa Bárbara",
                 "hu": "Santa Bárbara kápolna",
                 "ro": "Capela Sfânta Barbara",
-                "en": "Chapel of Santa Bárbara"
+                "en": "Chapel of Santa Bárbara",
+                "pt": "Ermida de Santa Bárbara"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die zutiefst ruhige Winteratmosphäre in dieser historischen Kapelle; das niedrige natürliche Licht wirkt an klaren Winternachmittagen unglaublich schön.",
                 "hu": "Élvezze a mélyen csendes téli hangulatot ebben a történelmi kápolnában; az alacsony természetes megvilágítás hihetetlenül gyönyörű a tiszta téli délutánokon.",
                 "ro": "Bucurați-vă de atmosfera de iarnă profund liniștită în această capelă istorică; iluminarea naturală scăzută arată incredibil de frumos în după-amiezile clare.",
-                "en": "Enjoy the profoundly quiet winter atmosphere in this historical chapel; the low natural lighting looks incredibly beautiful on crisp, clear winter afternoons."
+                "en": "Enjoy the profoundly quiet winter atmosphere in this historical chapel; the low natural lighting looks incredibly beautiful on crisp, clear winter afternoons.",
+                "pt": "Desfrute da atmosfera profundamente tranquila de inverno nesta ermida histórica; a fraca iluminação natural fica lindíssima em tardes de inverno claras e frias."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Rosenkranzkirche",
                 "hu": "Rózsafüzér Királynője templom",
                 "ro": "Biserica Maicii Domnului a Rozariului",
-                "en": "Church of Our Lady of the Rosary"
+                "en": "Church of Our Lady of the Rosary",
+                "pt": "Igreja de Nossa Senhora do Rosário"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie sich einen friedlichen Moment zum Nachdenken; das weiche winterliche Nachmittagslicht, das durch die hohen klassischen Fenster fällt, ist absolut magisch.",
                 "hu": "Szánjon egy igazán békés pillanatot a belső elmélkedésre; a magas, klasszikus ablakokon lágyan átszűrődő puha délutáni téli fény látványa abszolút varázslatos.",
                 "ro": "Luați-vă un moment cu adevărat pașnic pentru a reflecta în interior; lumina moale a după-amiezii de iarnă care se filtrează prin ferestrele înalte este magică.",
-                "en": "Take a truly peaceful moment to reflect indoors; the soft afternoon winter light softly filtering through the high classic windows is absolutely magical to see."
+                "en": "Take a truly peaceful moment to reflect indoors; the soft afternoon winter light softly filtering through the high classic windows is absolutely magical to see.",
+                "pt": "Tire um momento verdadeiramente pacífico para refletir no interior; a suave luz de inverno da tarde que filtra pelas altas janelas clássicas é absolutamente mágica de ver."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Aussichtspunkt Ramalho",
                 "hu": "Ramalho kilátó",
                 "ro": "Punctul de belvedere Ramalho",
-                "en": "Ramalho Viewpoint"
+                "en": "Ramalho Viewpoint",
+                "pt": "Miradouro do Ramalho"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Sie vor 16:30 Uhr hier sind, um das Licht der goldenen Stunde vor dem auffällig frühen und spektakulären winterlichen Sonnenuntergang zu sehen.",
                 "hu": "Mindenképpen érkezzen ide 16:30 előtt, hogy kényelmesen elcsípje az aranyóra fényeit az észrevehetően korai és látványos téli naplemente előtt a táj felett.",
                 "ro": "Asigurați-vă că ajungeți aici înainte de ora 16:30 pentru a prinde confortabil lumina orei de aur înainte de apusul de iarnă vizibil mai devreme și spectaculos.",
-                "en": "Make sure to arrive here before 16:30 to comfortably catch the golden hour light before the noticeably early and spectacular winter sunset over the landscape."
+                "en": "Make sure to arrive here before 16:30 to comfortably catch the golden hour light before the noticeably early and spectacular winter sunset over the landscape.",
+                "pt": "Certifique-se de chegar aqui antes das 16:30 para apanhar confortavelmente a luz da hora dourada antes do pôr do sol de inverno, notoriamente cedo e espectacular sobre a paisagem."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Strand Praia do Morro",
             "hu": "Praia do Morro strand",
             "ro": "Plaja Praia do Morro",
-            "en": "Praia do Morro Beach"
+            "en": "Praia do Morro Beach",
+            "pt": "Praia do Morro"
           },
           "coords": [
             -25.244172,
@@ -380,7 +420,8 @@
             "de": "Genießen Sie den vulkanischen schwarzen Sand dieses malerischen Strandes, der sich perfekt zur morgendlichen Wellenbeobachtung eignet, aber denken Sie daran, Ihr eigenes Handtuch mitzubringen, da die Einrichtungen begrenzt sind.",
             "hu": "Élvezze e festői strand vulkáni fekete homokját, amely tökéletes a reggeli hullámok megfigyelésére, de ne felejtsen el saját törölközőt hozni, mivel a felszereltség korlátozott.",
             "ro": "Bucurați-vă de nisipul negru vulcanic al acestei plaje pitorești, un loc perfect pentru a privi valurile dimineții, dar nu uitați să vă aduceți propriul prosop deoarece facilitățile sunt limitate.",
-            "en": "Enjoy the volcanic black sands of this scenic beach, a perfect spot to watch the morning waves, but remember to bring your own towel as facilities are limited."
+            "en": "Enjoy the volcanic black sands of this scenic beach, a perfect spot to watch the morning waves, but remember to bring your own towel as facilities are limited.",
+            "pt": "Desfrute das areias vulcânicas negras desta praia cénica, um local perfeito para observar as ondas matinais, mas lembre-se de trazer a sua própria toalha, pois as infraestruturas são limitadas."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Rosenkranzkirche",
             "hu": "Rózsafüzér Királynője templom",
             "ro": "Biserica Maicii Domnului a Rozariului",
-            "en": "Church of Our Lady of the Rosary"
+            "en": "Church of Our Lady of the Rosary",
+            "pt": "Igreja de Nossa Senhora do Rosário"
           },
           "coords": [
             -25.248128,
@@ -403,7 +445,8 @@
             "de": "Erkunden Sie eines der ältesten religiösen Bauwerke der Insel, das für seine historische Bedeutung bekannt ist, und ruhen Sie sich einen Moment im ruhigen Innenhof aus, bevor Sie weitergehen.",
             "hu": "Fedezze fel a sziget egyik legrégebbi, történelmi jelentőségű egyházi épületét, és pihenjen egy pillanatot a nyugodt belső udvarban, mielőtt továbbindulna.",
             "ro": "Explorați una dintre cele mai vechi structuri religioase de pe insulă, remarcabilă pentru importanța sa istorică, și luați-vă un moment de odihnă în curtea liniștită înainte de a continua.",
-            "en": "Explore one of the oldest religious structures on the island, noted for its historical importance, and take a moment to rest in the tranquil courtyard before continuing."
+            "en": "Explore one of the oldest religious structures on the island, noted for its historical importance, and take a moment to rest in the tranquil courtyard before continuing.",
+            "pt": "Explore uma das estruturas religiosas mais antigas da ilha, notável pela sua importância histórica, e desfrute de um momento de descanso no pátio tranquilo antes de continuar."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Kapelle Santa Bárbara",
             "hu": "Santa Bárbara kápolna",
             "ro": "Capela Sfânta Barbara",
-            "en": "Chapel of Santa Bárbara"
+            "en": "Chapel of Santa Bárbara",
+            "pt": "Ermida de Santa Bárbara"
           },
           "coords": [
             -25.248691,
@@ -426,7 +470,8 @@
             "de": "Besuchen Sie diese kleine, historisch bedeutsame Kapelle inmitten der Häuser, die einen Einblick in das frühe Leben der azoreanischen Siedler bietet und am besten im Morgenlicht fotografiert wird.",
             "hu": "Látogassa meg ezt a házak között megbúvó, történelmileg jelentős kis kápolnát, amely bepillantást enged a korai azori telepesek életébe, és amelyet a reggeli fényben a legjobb lefotózni.",
             "ro": "Vizitați această mică capelă cu importanță istorică, ascunsă printre case, care oferă o privire în viața primilor coloniști din Azore, ideal de fotografiat în lumina dimineții.",
-            "en": "Visit this small, historically significant chapel nestled amongst the houses, which offers a glimpse into early Azorean settlement life, best photographed in the morning light."
+            "en": "Visit this small, historically significant chapel nestled amongst the houses, which offers a glimpse into early Azorean settlement life, best photographed in the morning light.",
+            "pt": "Visite esta pequena ermida de importância histórica encravada entre as casas, que oferece um vislumbre da vida dos primeiros povoadores açorianos, melhor fotografada pela manhã."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Kirche Unserer Lieben Frau Mutter Gottes",
             "hu": "Istenanya templom",
             "ro": "Biserica Maicii Domnului",
-            "en": "Church of Our Lady Mother of God"
+            "en": "Church of Our Lady Mother of God",
+            "pt": "Igreja de Nossa Senhora Mãe de Deus"
           },
           "coords": [
             -25.24368,
@@ -449,7 +495,8 @@
             "de": "Bewundern Sie die markante Doppelturmfassade dieser eleganten Kirche direkt im Zentrum und treten Sie leise ein, um das wunderschön verzierte Altarbild zu schätzen.",
             "hu": "Csodálja meg ezen elegáns központi templom lenyűgöző ikertornyos homlokzatát, és lépjen be csendben, hogy értékelje a gyönyörűen díszített oltárképet.",
             "ro": "Admirați fațada impresionantă cu două turnuri a acestei biserici elegante din centru și pășiți liniștit înăuntru pentru a aprecia altarul său frumos ornamentat.",
-            "en": "Admire the striking twin-tower facade of this elegant church right in the center, and step inside quietly to appreciate its beautifully ornate altarpiece."
+            "en": "Admire the striking twin-tower facade of this elegant church right in the center, and step inside quietly to appreciate its beautifully ornate altarpiece.",
+            "pt": "Admire a fachada de duas torres desta elegante igreja bem no centro, e entre silenciosamente para apreciar o seu belíssimo altar ornamentado."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Heiligtum Nossa Senhora dos Remédios",
             "hu": "Remédios szentély",
             "ro": "Sanctuarul Nossa Senhora dos Remédios",
-            "en": "Sanctuary of Our Lady of Remedies"
+            "en": "Sanctuary of Our Lady of Remedies",
+            "pt": "Santuário de Nossa Senhora dos Remédios"
           },
           "coords": [
             -25.233809,
@@ -472,7 +520,8 @@
             "de": "Entdecken Sie dieses bezaubernde, erhöht gelegene Heiligtum, das nicht nur spirituellen Trost, sondern auch hervorragende Aussichtspunkte über die üppigen, grünen umliegenden Hügel bietet.",
             "hu": "Fedezze fel ezt a bájos, magasan fekvő szentélyt, amely nemcsak spirituális vigaszt, hanem kiváló kilátást is nyújt a buja, zöldellő domboldalakra.",
             "ro": "Descoperiți acest sanctuar fermecător situat la înălțime, care oferă nu doar alinare spirituală, ci și puncte excelente de observație asupra dealurilor verzi și luxuriante din jur.",
-            "en": "Discover this charming elevated sanctuary which provides not only spiritual solace but also excellent vantages over the lush, green surrounding hillsides."
+            "en": "Discover this charming elevated sanctuary which provides not only spiritual solace but also excellent vantages over the lush, green surrounding hillsides.",
+            "pt": "Descubra este encantador santuário elevado que proporciona não só consolo espiritual mas também excelentes pontos de observação sobre as encostas verdes e luxuriantes circundantes."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Sonnenuntergang-Aussichtspunkt",
             "hu": "Naplemente kilátó",
             "ro": "Punct de belvedere Apus de Soare",
-            "en": "Sunset Viewpoint"
+            "en": "Sunset Viewpoint",
+            "pt": "Miradouro do Pôr-do-Sol"
           },
           "coords": [
             -25.219403,
@@ -495,7 +545,8 @@
             "de": "Entspannen Sie sich an diesem malerischen Aussichtspunkt, der perfekt positioniert ist, um die natürliche Schönheit der Insel einzufangen, und nutzen Sie die vorhandenen Sitzgelegenheiten für ein schnelles Picknick am Mittag.",
             "hu": "Pihenjen meg ennél a festői kilátópontnál, amely tökéletes helyzetben van a sziget természeti szépségének megörökítéséhez, és használja a kihelyezett padokat egy gyors déli piknikhez.",
             "ro": "Relaxați-vă la acest punct de observație pitoresc perfect poziționat pentru a surprinde frumusețea naturală a insulei și folosiți zonele de relaxare amenajate pentru un picnic rapid la amiază.",
-            "en": "Relax at this scenic overlook perfectly positioned for capturing the island's natural beauty, and use the provided seating areas for a quick mid-day picnic."
+            "en": "Relax at this scenic overlook perfectly positioned for capturing the island's natural beauty, and use the provided seating areas for a quick mid-day picnic.",
+            "pt": "Relaxe neste miradouro cénico perfeitamente posicionado para captar a beleza natural da ilha, e use as áreas de assento disponibilizadas para um piquenique rápido ao meio-dia."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Aussichtspunkt Pico dos Bodes",
             "hu": "Pico dos Bodes kilátó",
             "ro": "Punct de belvedere Pico dos Bodes",
-            "en": "Pico dos Bodes Viewpoint"
+            "en": "Pico dos Bodes Viewpoint",
+            "pt": "Miradouro do Pico dos Bodes"
           },
           "coords": [
             -25.219731,
@@ -518,7 +570,8 @@
             "de": "Besteigen Sie den hölzernen Aussichtsturm an diesem dramatischen Aussichtspunkt für einen ungestörten 360-Grad-Blick, aber halten Sie Ihren Hut fest, da es oben recht windig werden kann.",
             "hu": "Mássza meg a fából készült kilátótornyot ezen a drámai kilátóponton a zavartalan 360 fokos panorámáért, de fogja erősen a kalapját, mert a tetején elég szeles lehet.",
             "ro": "Urcați pe turnul de observație din lemn la acest punct de belvedere dramatic pentru o vedere neîntreruptă la 360 de grade, dar țineți-vă bine pălăria deoarece poate fi destul de vânt sus.",
-            "en": "Climb the wooden observation tower at this dramatic viewpoint for uninterrupted 360-degree views, but hold onto your hat as it can get quite windy at the top."
+            "en": "Climb the wooden observation tower at this dramatic viewpoint for uninterrupted 360-degree views, but hold onto your hat as it can get quite windy at the top.",
+            "pt": "Suba à torre de observação em madeira neste miradouro dramático para vistas ininterruptas de 360 graus, mas segure no chapéu, pois pode soprar muito vento no topo."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Starten Sie am Praia do Morro, bevor Sie zur alten Igreja do Rosário radeln. Mittags besuchen Sie die Santa Bárbara Kapelle und die Mãe de Deus Kirche. Fahren Sie bergauf zur Nossa Senhora dos Remédios. Am Nachmittag bringt Sie die Route zum Miradouro do Pôr-do-Sol für spektakuläre Talblicke. Beenden Sie die Tour am Miradouro do Pico dos Bodes mit einem herrlichen Küstensonnenuntergang.",
         "hu": "Kezdje a kerékpározást a Praia do Morro strandon, majd tekerjen az ősi Rosário templomhoz. Délben látogassa meg a Santa Bárbara és a Mãe de Deus templomokat, mielőtt felmászik a Remédios szentélyhez. Délután guruljon a Miradouro do Pôr-do-Sol kilátóhoz, élvezve a völgyeket. Fejezze be az aktív napot a Pico dos Bodes kilátónál, ahol a toronyból fenséges tengerparti naplemente várja.",
         "ro": "Porniți de la Praia do Morro înainte de a pedala spre vechea biserică Rosário. La prânz, vizitați capela Santa Bárbara și biserica Mãe de Deus, apoi urcați spre sanctuarul Remédios. După-amiaza, drumul vă duce la Miradouro do Pôr-do-Sol pentru priveliști spectaculoase. Încheiați la Miradouro do Pico dos Bodes, unde turnul de observație vă oferă un apus de soare de neuitat.",
-        "en": "Kickstart your ride at Praia do Morro, taking in the rugged coastline, before cycling into the center to admire the ancient Igreja do Rosário. Pedal to Ermida de Santa Bárbara and the striking Mãe de Deus church. Then challenge yourself with an uphill ride to Nossa Senhora dos Remédios. Follow the winding roads to Miradouro do Pôr-do-Sol, finishing at the dramatic Pico dos Bodes observation tower."
+        "en": "Kickstart your ride at Praia do Morro, taking in the rugged coastline, before cycling into the center to admire the ancient Igreja do Rosário. Pedal to Ermida de Santa Bárbara and the striking Mãe de Deus church. Then challenge yourself with an uphill ride to Nossa Senhora dos Remédios. Follow the winding roads to Miradouro do Pôr-do-Sol, finishing at the dramatic Pico dos Bodes observation tower.",
+        "pt": "Comece o seu passeio na Praia do Morro, absorvendo a costa acidentada, antes de pedalar até ao centro para admirar a antiga Igreja do Rosário. Pedale até à Ermida de Santa Bárbara e à imponente igreja Mãe de Deus. Depois desafie-se com uma subida até Nossa Senhora dos Remédios. Siga as estradas sinuosas até ao Miradouro do Pôr-do-Sol, terminando na dramática torre de observação do Pico dos Bodes."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Eine regnerische Radtour beginnt an den nassen Strandstraßen, bevor es zu historischen Kirchen geht. Mittags navigieren Sie auf rutschigen Straßen zwischen trockenen Zufluchtsorten. Nachmittags erfordert der Aufstieg zu den Aussichtspunkten Vorsicht. Achten Sie auf gute Reifen und tragen Sie immer gut sichtbare, wasserdichte Kleidung.",
             "hu": "Az esős biciklizés a nedves parti utakon indul, majd a száraz történelmi templomok felé veszi az irányt. Délben óvatosan navigáljon a csúszós utcákon a menedékek között. Délután a kilátókhoz vezető emelkedő óvatosságot igényel. Legyenek jók a gumik, és mindig viseljen jól látható, vízálló kerékpáros felszerelést a biztonsága érdekében.",
             "ro": "O plimbare ploioasă cu bicicleta începe pe drumurile umede de pe plajă înainte de a explora bisericile. Prânzul este petrecut navigând pe străzile alunecoase. După-amiaza, urcarea spre punctele de belvedere necesită atenție. Asigurați-vă că bicicleta are anvelope bune și purtați mereu echipament impermeabil și vizibil pentru siguranță.",
-            "en": "A rainy bike ride starts along the wet beach roads before heading inland to explore historic churches. Midday is spent navigating the slippery streets between dry sanctuaries. In the afternoon, the climb to the viewpoints requires caution. Ensure your bike has good tires, and always wear highly visible, waterproof cycling gear to stay safe."
+            "en": "A rainy bike ride starts along the wet beach roads before heading inland to explore historic churches. Midday is spent navigating the slippery streets between dry sanctuaries. In the afternoon, the climb to the viewpoints requires caution. Ensure your bike has good tires, and always wear highly visible, waterproof cycling gear to stay safe.",
+            "pt": "Um passeio de bicicleta na chuva começa pelas estradas molhadas junto à praia antes de rumar para o interior para explorar igrejas históricas. O meio-dia é passado a navegar pelas ruas escorregadias entre santuários secos. À tarde, a subida até os miradouros exige cautela. Garanta que a sua bicicleta tem bons pneus e use sempre roupa de ciclismo impermeável e muito visível para se manter seguro."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Strand Praia do Morro",
                 "hu": "Praia do Morro strand",
                 "ro": "Plaja Praia do Morro",
-                "en": "Praia do Morro Beach"
+                "en": "Praia do Morro Beach",
+                "pt": "Praia do Morro Beach"
               },
               "tip_5lang": {
                 "de": "Der nasse Sand ist heute nicht ideal zum Fahren. Parken Sie Ihr Fahrrad sicher auf dem gepflasterten Bereich und spazieren Sie stattdessen sicher in der Nähe der Wellen.",
                 "hu": "A nedves homok ma nem ideális a tekeréshez, ezért biztonságosan parkolja le kerékpárját a burkolt részen, és inkább sétáljon a drámai tengeri hullámok közelében.",
                 "ro": "Nisipul umed nu este ideal pentru pedalat astăzi, așa că parcați bicicleta în siguranță pe zona pavată și plimbați-vă în siguranță lângă valurile dramatice ale oceanului.",
-                "en": "The wet sand isn't ideal for riding today, so securely park your bike on the paved area and safely walk near the crashing, dramatic ocean waves instead."
+                "en": "The wet sand isn't ideal for riding today, so securely park your bike on the paved area and safely walk near the crashing, dramatic ocean waves instead.",
+                "pt": "A areia molhada não é ideal para pedalar hoje, por isso estacione a bicicleta de forma segura na área pavimentada e caminhe com cuidado junto às ondas dramáticas do oceano."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Rosenkranzkirche",
                 "hu": "Rózsafüzér Királynője templom",
                 "ro": "Biserica Maicii Domnului a Rozariului",
-                "en": "Church of Our Lady of the Rosary"
+                "en": "Church of Our Lady of the Rosary",
+                "pt": "Igreja de Nossa Senhora do Rosário"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Rad unter einem Baum oder einer Markise an und gehen Sie schnell hinein, um Ihre Ausrüstung zu trocknen, während Sie das friedliche Kirchenschiff bewundern.",
                 "hu": "Zárja le kerékpárját egy közeli fa vagy védő napellenző alatt, és gyorsan lépjen be, hogy megszárítsa felszerelését, miközben mélyen megcsodálja a főhajót.",
                 "ro": "Legați bicicleta strâns sub un copac sau o copertină protectoare și pășiți rapid înăuntru pentru a vă usca echipamentul în timp ce admirați naosul central liniștit.",
-                "en": "Lock your bike tightly under a nearby tree or protective awning and quickly step inside to dry off your gear while deeply admiring the peaceful central nave."
+                "en": "Lock your bike tightly under a nearby tree or protective awning and quickly step inside to dry off your gear while deeply admiring the peaceful central nave.",
+                "pt": "Tranque bem a bicicleta debaixo de uma árvore próxima ou de um beiral protetor e entre rapidamente para secar o equipamento enquanto aprecia profundamente a tranquila nave central."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Kapelle Santa Bárbara",
                 "hu": "Santa Bárbara kápolna",
                 "ro": "Capela Sfânta Barbara",
-                "en": "Chapel of Santa Bárbara"
+                "en": "Chapel of Santa Bárbara",
+                "pt": "Ermida de Santa Bárbara"
               },
               "tip_5lang": {
                 "de": "Bitte seien Sie äußerst vorsichtig mit dem rutschigen, nassen Kopfsteinpflaster, wenn Sie Ihr Fahrrad vorsichtig in der Nähe des Eingangs dieser malerischen Kapelle parken.",
                 "hu": "Kérjük, legyen rendkívül óvatos a csúszós, nedves történelmi macskakövekkel, amikor gondosan leparkolja kerékpárját ennek a hihetetlenül festői kápolnának a bejáratánál.",
                 "ro": "Vă rugăm să fiți extrem de atenți la pietrele cubice istorice alunecoase și umede atunci când vă parcați cu grijă bicicleta lângă intrarea acestei capele pitorești.",
-                "en": "Please be extremely careful of the slippery, wet historic cobblestones when carefully parking your bike near the entrance of this incredibly quaint chapel."
+                "en": "Please be extremely careful of the slippery, wet historic cobblestones when carefully parking your bike near the entrance of this incredibly quaint chapel.",
+                "pt": "Tenha extremo cuidado com os calços históricos molhados e escorregadios ao estacionar cuidadosamente a bicicleta junto à entrada desta capela incrivelmente pitoresca."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Kirche Unserer Lieben Frau Mutter Gottes",
                 "hu": "Istenanya templom",
                 "ro": "Biserica Maicii Domnului",
-                "en": "Church of Our Lady Mother of God"
+                "en": "Church of Our Lady Mother of God",
+                "pt": "Igreja de Nossa Senhora Mãe de Deus"
               },
               "tip_5lang": {
                 "de": "Ein wirklich ausgezeichneter Ort, um eine Pause vom Sattel einzulegen und einem plötzlichen, starken Küstenregen innerhalb der massiven, trockenen Steinmauern zu entkommen.",
                 "hu": "Egy igazán kiváló hely arra, hogy magabiztosan pihenjen egyet a nyeregben, és teljesen elmeneküljön egy hirtelen, heves parti zápor elől a masszív, száraz kőfalak között.",
                 "ro": "Un loc cu adevărat excelent pentru a lua cu încredere o pauză din șa și pentru a scăpa complet de o ploaie bruscă și abundentă de coastă, între pereții săi masivi de piatră.",
-                "en": "A truly excellent place to confidently take a break from the saddle and completely escape a sudden, heavy coastal rain shower inside its massive dry stone walls."
+                "en": "A truly excellent place to confidently take a break from the saddle and completely escape a sudden, heavy coastal rain shower inside its massive dry stone walls.",
+                "pt": "Um local verdadeiramente excelente para fazer uma pausa da sela e escapar completamente a uma súbita e forte chuva costeira dentro das suas maciças paredes de pedra secas."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Heiligtum Nossa Senhora dos Remédios",
                 "hu": "Remédios szentély",
                 "ro": "Sanctuarul Nossa Senhora dos Remédios",
-                "en": "Sanctuary of Our Lady of Remedies"
+                "en": "Sanctuary of Our Lady of Remedies",
+                "pt": "Santuário de Nossa Senhora dos Remédios"
               },
               "tip_5lang": {
                 "de": "Die steile Auffahrt ist im strömenden Regen überraschend hart; fahren Sie sehr langsam, um nicht auszurutschen, und genießen Sie die gut geschützten Bereiche bei der Ankunft.",
                 "hu": "A meredek hegyi út meglepően nehéz a zuhogó esőben; haladjon rendkívül lassan a megcsúszás elkerülése érdekében, és érkezéskor élvezze a mélyen védett területeket.",
                 "ro": "Urcușul abrupt este surprinzător de greu în ploaia torențială; mergeți extrem de încet pentru a evita alunecarea și bucurați-vă de zonele adăpostite la sosire.",
-                "en": "The steep uphill ride is surprisingly tough in the pouring rain; take it extremely slow to avoid slipping and enjoy the deeply sheltered areas upon your arrival."
+                "en": "The steep uphill ride is surprisingly tough in the pouring rain; take it extremely slow to avoid slipping and enjoy the deeply sheltered areas upon your arrival.",
+                "pt": "A subida íngreme torna-se surpreendentemente difícil na chuva torrencial; vá muito devagar para evitar escorregar e desfrute das áreas profundamente abrigadas à chegada."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Sonnenuntergang-Aussichtspunkt",
                 "hu": "Naplemente kilátó",
                 "ro": "Punct de belvedere Apus de Soare",
-                "en": "Sunset Viewpoint"
+                "en": "Sunset Viewpoint",
+                "pt": "Miradouro do Pôr-do-Sol"
               },
               "tip_5lang": {
                 "de": "Die Sicht könnte heute recht schlecht sein, aber die nebligen, dramatischen dunklen Regenwolken über dem Ozean bieten eine völlig einzigartige, stimmungsvolle Landschaft.",
                 "hu": "A látási viszonyok ma meglehetősen rosszak lehetnek, de a ködös, drámai sötét esőfelhők az óceán felett teljesen egyedi, rendkívül hangulatos tájat kínálnak a kerékpárosoknak.",
                 "ro": "Vizibilitatea ar putea fi destul de redusă astăzi, dar norii întunecați și dramatici de ploaie de peste ocean oferă un peisaj complet unic și melancolic pentru bicicliști.",
-                "en": "Visibility might be quite low today, but the misty, dramatic dark rain clouds over the ocean offer a completely unique, highly moody landscape for adventurous cyclists."
+                "en": "Visibility might be quite low today, but the misty, dramatic dark rain clouds over the ocean offer a completely unique, highly moody landscape for adventurous cyclists.",
+                "pt": "A visibilidade pode estar bastante reduzida hoje, mas as nuvens de chuva escuras e enevoadas sobre o oceano oferecem uma paisagem única e muito atmosférica para ciclistas aventureiros."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Aussichtspunkt Pico dos Bodes",
                 "hu": "Pico dos Bodes kilátó",
                 "ro": "Punct de belvedere Pico dos Bodes",
-                "en": "Pico dos Bodes Viewpoint"
+                "en": "Pico dos Bodes Viewpoint",
+                "pt": "Miradouro do Pico dos Bodes"
               },
               "tip_5lang": {
                 "de": "Die schöne erhöhte Aussichtsplattform aus Holz kann bei Nässe gefährlich rutschig werden. Gehen Sie daher sehr vorsichtig, wenn Sie steife Radschuhe aus Kunststoff tragen.",
                 "hu": "A gyönyörű megemelt fa kilátó platform veszélyesen csúszóssá válhat, ha teljesen vizes, ezért kérjük, sétáljon nagyon óvatosan, ha merev műanyag kerékpáros cipőt visel.",
                 "ro": "Platforma frumoasă de vizionare din lemn poate deveni periculos de alunecoasă când este complet umedă, așa că vă rugăm să mergeți cu mare prudență dacă purtați încălțăminte de ciclism.",
-                "en": "The beautiful elevated wooden viewing platform can become dangerously slippery when fully wet, so please walk very cautiously if wearing stiff plastic cycling shoes."
+                "en": "The beautiful elevated wooden viewing platform can become dangerously slippery when fully wet, so please walk very cautiously if wearing stiff plastic cycling shoes.",
+                "pt": "A belíssima plataforma de madeira elevada pode ficar perigosamente escorregadia quando totalmente molhada, por isso caminhe com muita cautela se usar sapatos de ciclismo rígidos de plástico."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Beginnen Sie Ihre flotte Winterfahrt entlang der Küste und atmen Sie die klare Meeresluft ein. Mittags führen Sie historische religiöse Stätten durch kurze Pausen vom kalten Gegenwind. Nachmittags radeln Sie die Hügel hinauf, um den frühen Sonnenuntergang zu sehen. Zwiebellook ist wichtig, da die Temperaturen nach 16:00 Uhr schnell fallen.",
             "hu": "Kezdje frissítő téli tekerését a part mentén, beszívva a tiszta tengeri levegőt. Délben a történelmi vallási helyszínek nyújtanak rövid pihenőt a hideg ellenszélben. Délután kerekezzen fel a hegyekbe a látványos korai naplementéért. A réteges öltözködés létfontosságú, készüljön fel, hogy 16:00 után a hőmérséklet gyorsan csökken.",
             "ro": "Începeți plimbarea alertă de iarnă de-a lungul coastei, respirând aerul proaspăt. Prânzul vă conduce prin siturile religioase istorice, oferind scurte răgazuri din calea vântului rece. După-amiaza, pedalați spre dealuri pentru a prinde apusul spectaculos. Îmbrăcarea în straturi este crucială, temperaturile scad rapid după ora 16:00.",
-            "en": "Start your brisk winter ride along the coast, taking in the crisp sea air. Midday leads you through the town's historic religious sites, offering brief respites from the cold headwind. In the afternoon, cycle up the hills to catch the spectacular early sunset. Layering is crucial, and be fully prepared for temperatures to drop rapidly after 16:00."
+            "en": "Start your brisk winter ride along the coast, taking in the crisp sea air. Midday leads you through the town's historic religious sites, offering brief respites from the cold headwind. In the afternoon, cycle up the hills to catch the spectacular early sunset. Layering is crucial, and be fully prepared for temperatures to drop rapidly after 16:00.",
+            "pt": "Comece o seu passeio de inverno vigoroso ao longo da costa, sentindo o ar frio do mar. Ao meio-dia, percorre-se os sítios religiosos históricos da vila, oferecendo breves pausas do vento frio. À tarde, pedale colina acima para apanhar o espetacular pôr-do-sol precoce. Vestir por camadas é crucial e esteja plenamente preparado para a temperatura cair rapidamente após as 16:00."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Strand Praia do Morro",
                 "hu": "Praia do Morro strand",
                 "ro": "Plaja Praia do Morro",
-                "en": "Praia do Morro Beach"
+                "en": "Praia do Morro Beach",
+                "pt": "Praia do Morro Beach"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihren Tag mit einer erfrischenden Fahrt entlang der leeren Winterküste; tragen Sie dicke winddichte Handschuhe, um die Hände vor der eisigen Meeresluft zu schützen.",
                 "hu": "Kezdje a napot egy élénk, frissítő tekeréssel a teljesen üres téli part mentén; mindenképpen viseljen vastag szélálló kesztyűt, hogy megvédje kezét a fagyos tengeri levegőtől.",
                 "ro": "Începeți-vă ziua cu o plimbare viguroasă de-a lungul coastei goale de iarnă; asigurați-vă că purtați mănuși groase rezistente la vânt pentru a vă proteja mâinile de aerul mării.",
-                "en": "Start your day with a brisk, invigorating ride right along the empty winter coast; be absolutely sure to wear thick windproof gloves to protect hands from the freezing sea air."
+                "en": "Start your day with a brisk, invigorating ride right along the empty winter coast; be absolutely sure to wear thick windproof gloves to protect hands from the freezing sea air.",
+                "pt": "Comece o dia com um passeio vigoroso e revigorante mesmo ao longo da costa de inverno vazia; certifique-se de usar luvas grossas e corta-vento para proteger as mãos do ar gelado do mar."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Rosenkranzkirche",
                 "hu": "Rózsafüzér Királynője templom",
                 "ro": "Biserica Maicii Domnului a Rozariului",
-                "en": "Church of Our Lady of the Rosary"
+                "en": "Church of Our Lady of the Rosary",
+                "pt": "Igreja de Nossa Senhora do Rosário"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Halt am Wintermorgen, um abzusteigen, die Beine zu vertreten, sich drinnen aufzuwärmen und die wirklich friedliche klassische Architektur zu schätzen.",
                 "hu": "Elragadóan csendes téli reggeli megálló leszállni, kinyújtóztatni a fáradt lábakat, bent kissé felmelegedni, és mélyen értékelni az igazán békés klasszikus építészetet.",
                 "ro": "O oprire încântător de liniștită într-o dimineață de iarnă pentru a coborî, a vă întinde picioarele, a vă încălzi ușor în interior și a aprecia arhitectura clasică pașnică.",
-                "en": "A delightfully quiet winter morning stop to dismount, stretch out your tired legs, warm up slightly indoors, and deeply appreciate the genuinely peaceful classic architecture."
+                "en": "A delightfully quiet winter morning stop to dismount, stretch out your tired legs, warm up slightly indoors, and deeply appreciate the genuinely peaceful classic architecture.",
+                "pt": "Uma parada de manhã de inverno deliciosamente tranquila para desmontar, esticar as pernas cansadas, aquecer um pouco no interior e apreciar profundamente a arquitetura clássica pacífica."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Kapelle Santa Bárbara",
                 "hu": "Santa Bárbara kápolna",
                 "ro": "Capela Sfânta Barbara",
-                "en": "Chapel of Santa Bárbara"
+                "en": "Chapel of Santa Bárbara",
+                "pt": "Ermida de Santa Bárbara"
               },
               "tip_5lang": {
                 "de": "Die erhaltene historische Fassade sieht vor dem klaren, blauen Winterhimmel atemberaubend aus; ein wunderbarer, aber sehr kühler kurzer Halt auf der Radroute.",
                 "hu": "A gyönyörűen megőrzött történelmi homlokzat lenyűgözően mutat a tiszta, kék téli égbolt hátterében; csodálatos, de nagyon hűvös gyors megállóként szolgál a kerékpáros útvonalon.",
                 "ro": "Fațada istorică frumos conservată arată absolut uimitor pe cerul albastru și senin de iarnă; servește ca o oprire rapidă minunată, dar foarte răcoroasă pe traseul de bicicletă.",
-                "en": "The beautifully preserved historic facade looks absolutely stunning against the crisp, clear blue winter sky; it serves as a wonderful but very chilly quick stop on your cycling route."
+                "en": "The beautifully preserved historic facade looks absolutely stunning against the crisp, clear blue winter sky; it serves as a wonderful but very chilly quick stop on your cycling route.",
+                "pt": "A fachada histórica belissimamente preservada fica absolutamente magnífica contra o céu azul claro e frio de inverno; serve como uma excelente, mas muito fria, paragem rápida na sua rota de ciclismo."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Kirche Unserer Lieben Frau Mutter Gottes",
                 "hu": "Istenanya templom",
                 "ro": "Biserica Maicii Domnului",
-                "en": "Church of Our Lady Mother of God"
+                "en": "Church of Our Lady Mother of God",
+                "pt": "Igreja de Nossa Senhora Mãe de Deus"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um dem beißenden Wind zu entkommen, und nehmen Sie sich einen Moment Zeit, um die unglaublich komplexen historischen Holzarbeiten der Altäre zu bewundern.",
                 "hu": "Lépjen be magabiztosan, hogy teljesen elmeneküljön a csípős szezonális szél elől, és szánjon egy percet arra, hogy megcsodálja a lenyűgöző vallási oltárok bonyolult famunkáit.",
                 "ro": "Pășiți înăuntru pentru a scăpa complet de vântul tăios de sezon și luați-vă un moment pentru a admira lucrările din lemn incredibil de complicate ale altarelor religioase.",
-                "en": "Confidently step inside to fully escape the biting seasonal wind and take a brief moment to admire the incredibly intricate historic woodwork of the impressive religious altars."
+                "en": "Confidently step inside to fully escape the biting seasonal wind and take a brief moment to admire the incredibly intricate historic woodwork of the impressive religious altars.",
+                "pt": "Entre confiantemente para escapar totalmente do vento cortante da estação e admire por breves momentos as intrincadas madeiras históricas dos impressionantes altares religiosos."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Heiligtum Nossa Senhora dos Remédios",
                 "hu": "Remédios szentély",
                 "ro": "Sanctuarul Nossa Senhora dos Remédios",
-                "en": "Sanctuary of Our Lady of Remedies"
+                "en": "Sanctuary of Our Lady of Remedies",
+                "pt": "Santuário de Nossa Senhora dos Remédios"
               },
               "tip_5lang": {
                 "de": "Der intensive Anstieg wird Sie sehr schnell aufwärmen, aber denken Sie daran, Ihre dicke winddichte Jacke für die bevorstehende, furchtbar kalte Abfahrt gut zu verschließen.",
                 "hu": "Az intenzív mászás nagyon gyorsan felmelegíti a testét, de ne felejtse el felhúzni a vastag szélálló kabátját a rendkívül fagyos, hosszú lejtőn lefelé haladva.",
                 "ro": "Urcușul fizic intens vă va încălzi corpul, dar nu uitați să vă închideți bine jacheta groasă rezistentă la vânt pentru coborârea lungă și teribil de răcoroasă.",
-                "en": "The intense physical climb will warm you up very quickly, but remember to securely zip up your thick windproof jacket for the upcoming terribly chilly long downhill ride."
+                "en": "The intense physical climb will warm you up very quickly, but remember to securely zip up your thick windproof jacket for the upcoming terribly chilly long downhill ride.",
+                "pt": "A intensa subida física vai aquecê-lo rapidamente, mas lembre-se de fechar bem o seu casaco corta-vento grosso para a descida longuíssima e terrivelmente fria que se avizinha."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Sonnenuntergang-Aussichtspunkt",
                 "hu": "Naplemente kilátó",
                 "ro": "Punct de belvedere Apus de Soare",
-                "en": "Sunset Viewpoint"
+                "en": "Sunset Viewpoint",
+                "pt": "Miradouro do Pôr-do-Sol"
               },
               "tip_5lang": {
                 "de": "Versuchen Sie, diesen Ort bis 16:30 Uhr für das beste Fotolicht zu erreichen, da die wunderschöne Wintersonne überraschend früh über dem dunklen, weiten Atlantik untergeht.",
                 "hu": "Próbálja meg 16:30-ig elérni ezt a bizonyos helyet a legjobb fotózási fényekért, mivel a gyönyörű téli nap meglepően korán nyugszik le a sötét, hatalmas Atlanti-óceán felett.",
                 "ro": "Încercați să ajungeți în acest loc până la 16:30 pentru cea mai bună lumină, deoarece superbul soare de iarnă apune surprinzător de devreme peste Oceanul Atlantic.",
-                "en": "Try to reach this specific spot by 16:30 for the very best photographic light, as the gorgeous winter sun sets surprisingly early over the dark, sprawling Atlantic Ocean."
+                "en": "Try to reach this specific spot by 16:30 for the very best photographic light, as the gorgeous winter sun sets surprisingly early over the dark, sprawling Atlantic Ocean.",
+                "pt": "Tente chegar a este local por volta das 16:30 para obter a melhor luz fotográfica, pois o lindo sol de inverno põe-se surpreendentemente cedo sobre o vasto Oceano Atlântico."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Aussichtspunkt Pico dos Bodes",
                 "hu": "Pico dos Bodes kilátó",
                 "ro": "Punct de belvedere Pico dos Bodes",
-                "en": "Pico dos Bodes Viewpoint"
+                "en": "Pico dos Bodes Viewpoint",
+                "pt": "Miradouro do Pico dos Bodes"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den winterlichen Panoramablick, aber seien Sie auf beißende Winde in dieser exponierten Höhe vorbereitet; bleiben Sie in ständiger Bewegung, um sich warm zu halten.",
                 "hu": "Élvezze a hatalmas téli panorámát a csúcsról, de legyen felkészülve az agresszív, csípős szelekre ezen a nyílt magasságon; mozogjon folyamatosan, hogy melegen tartsa magát.",
                 "ro": "Bucurați-vă de vastele priveliști panoramice de iarnă de sus, dar fiți pregătiți pentru vânturile tăioase la această altitudine expusă; mișcați-vă mereu pentru a vă încălzi.",
-                "en": "Enjoy the vast, sweeping winter panoramic views from the top, but be highly prepared for aggressive biting winds at this exposed elevation; keep moving steadily to stay warm."
+                "en": "Enjoy the vast, sweeping winter panoramic views from the top, but be highly prepared for aggressive biting winds at this exposed elevation; keep moving steadily to stay warm.",
+                "pt": "Aprecie as largas e vastas vistas panorâmicas de inverno do topo, mas esteja muito preparado para ventos agressivos e cortantes nesta elevação exposta; mantenha-se em movimento para se aquecer."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Aussichtspunkt Ramalho",
             "hu": "Ramalho kilátó",
             "ro": "Punctul de belvedere Ramalho",
-            "en": "Ramalho Viewpoint"
+            "en": "Ramalho Viewpoint",
+            "pt": "Miradouro do Ramalho"
           },
           "coords": [
             -25.240951,
@@ -775,7 +860,8 @@
             "de": "Genießen Sie von diesem leicht zugänglichen Aussichtspunkt den weiten Panoramablick über das Dorf und den Ozean, und bringen Sie unbedingt ein Weitwinkelobjektiv mit, um die atemberaubende Küstenkurve einzufangen.",
             "hu": "Élvezze a falura és az óceánra nyíló széles panorámát ebből a könnyen megközelíthető kilátóból, és mindenképpen hozzon széles látószögű lencsét a lenyűgöző tengerparti ív megörökítéséhez.",
             "ro": "Admirați vederea panoramică vastă asupra satului și a oceanului de la acest punct de belvedere accesibil, asigurându-vă că aduceți un obiectiv cu unghi larg pentru a surprinde curba coastei uimitoare.",
-            "en": "Take in sweeping panoramic views over the village and ocean from this accessible viewpoint, making sure to bring a wide-angle lens to capture the stunning coastal curve."
+            "en": "Take in sweeping panoramic views over the village and ocean from this accessible viewpoint, making sure to bring a wide-angle lens to capture the stunning coastal curve.",
+            "pt": "Desfrute de vistas panorâmicas sobre a vila e o oceano a partir deste miradouro acessível; traga uma objetiva grande-angular para captar a curva costeira impressionante."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Rosenkranzkirche",
             "hu": "Rózsafüzér Királynője templom",
             "ro": "Biserica Maicii Domnului a Rozariului",
-            "en": "Church of Our Lady of the Rosary"
+            "en": "Church of Our Lady of the Rosary",
+            "pt": "Igreja de Nossa Senhora do Rosário"
           },
           "coords": [
             -25.248128,
@@ -798,7 +885,8 @@
             "de": "Erkunden Sie eines der ältesten religiösen Bauwerke der Insel, das für seine historische Bedeutung bekannt ist, und ruhen Sie sich einen Moment im ruhigen Innenhof aus, bevor Sie weitergehen.",
             "hu": "Fedezze fel a sziget egyik legrégebbi, történelmi jelentőségű egyházi épületét, és pihenjen egy pillanatot a nyugodt belső udvarban, mielőtt továbbindulna.",
             "ro": "Explorați una dintre cele mai vechi structuri religioase de pe insulă, remarcabilă pentru importanța sa istorică, și luați-vă un moment de odihnă în curtea liniștită înainte de a continua.",
-            "en": "Explore one of the oldest religious structures on the island, noted for its historical importance, and take a moment to rest in the tranquil courtyard before continuing."
+            "en": "Explore one of the oldest religious structures on the island, noted for its historical importance, and take a moment to rest in the tranquil courtyard before continuing.",
+            "pt": "Explore uma das estruturas religiosas mais antigas da ilha, destacada pela sua importância histórica, e descanse um momento no pátio tranquilo antes de continuar."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Kapelle Santa Bárbara",
             "hu": "Santa Bárbara kápolna",
             "ro": "Capela Sfânta Barbara",
-            "en": "Chapel of Santa Bárbara"
+            "en": "Chapel of Santa Bárbara",
+            "pt": "Ermida de Santa Bárbara"
           },
           "coords": [
             -25.248691,
@@ -821,7 +910,8 @@
             "de": "Besuchen Sie diese kleine, historisch bedeutsame Kapelle inmitten der Häuser, die einen Einblick in das frühe Leben der azoreanischen Siedler bietet und am besten im Morgenlicht fotografiert wird.",
             "hu": "Látogassa meg ezt a házak között megbúvó, történelmileg jelentős kis kápolnát, amely bepillantást enged a korai azori telepesek életébe, és amelyet a reggeli fényben a legjobb lefotózni.",
             "ro": "Vizitați această mică capelă cu importanță istorică, ascunsă printre case, care oferă o privire în viața primilor coloniști din Azore, ideal de fotografiat în lumina dimineții.",
-            "en": "Visit this small, historically significant chapel nestled amongst the houses, which offers a glimpse into early Azorean settlement life, best photographed in the morning light."
+            "en": "Visit this small, historically significant chapel nestled amongst the houses, which offers a glimpse into early Azorean settlement life, best photographed in the morning light.",
+            "pt": "Visite esta pequena ermida de importância histórica aninhada entre as casas, que oferece um vislumbre da vida dos primeiros habitantes açorianos, melhor fotografada com a luz da manhã."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Städtisches Auditorium",
             "hu": "Városi Előadóterem",
             "ro": "Auditoriul Municipal",
-            "en": "Municipal Auditorium"
+            "en": "Municipal Auditorium",
+            "pt": "Auditório Municipal"
           },
           "coords": [
             -25.244845,
@@ -844,7 +935,8 @@
             "de": "Entdecken Sie das lokale kulturelle Herzblut in diesem modernen Auditorium, in dem regionale Veranstaltungen stattfinden, und prüfen Sie das Aushängeschild draußen auf kostenlose Abendvorstellungen.",
             "hu": "Fedezze fel a helyi kulturális élet lüktetését ebben a modern előadóteremben, ahol regionális események zajlanak, és ellenőrizze a kinti hirdetőtáblát az ingyenes esti előadásokért.",
             "ro": "Descoperiți pulsul cultural local în acest auditoriu modern unde au loc evenimente regionale și verificați panoul exterior pentru eventuale spectacole gratuite de seară.",
-            "en": "Discover the local cultural heartbeat at this modern auditorium where regional events take place, and check the notice board outside for any free evening performances."
+            "en": "Discover the local cultural heartbeat at this modern auditorium where regional events take place, and check the notice board outside for any free evening performances.",
+            "pt": "Descubra o pulsar cultural local neste auditório moderno onde decorrem eventos regionais, e verifique o quadro de avisos exterior para eventuais espetáculos gratuitos à noite."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Heiligtum Nossa Senhora dos Remédios",
             "hu": "Remédios szentély",
             "ro": "Sanctuarul Nossa Senhora dos Remédios",
-            "en": "Sanctuary of Our Lady of Remedies"
+            "en": "Sanctuary of Our Lady of Remedies",
+            "pt": "Santuário de Nossa Senhora dos Remédios"
           },
           "coords": [
             -25.233809,
@@ -867,7 +960,8 @@
             "de": "Entdecken Sie dieses bezaubernde, erhöht gelegene Heiligtum, das nicht nur spirituellen Trost, sondern auch hervorragende Aussichtspunkte über die üppigen, grünen umliegenden Hügel bietet.",
             "hu": "Fedezze fel ezt a bájos, magasan fekvő szentélyt, amely nemcsak spirituális vigaszt, hanem kiváló kilátást is nyújt a buja, zöldellő domboldalakra.",
             "ro": "Descoperiți acest sanctuar fermecător situat la înălțime, care oferă nu doar alinare spirituală, ci și puncte excelente de observație asupra dealurilor verzi și luxuriante din jur.",
-            "en": "Discover this charming elevated sanctuary which provides not only spiritual solace but also excellent vantages over the lush, green surrounding hillsides."
+            "en": "Discover this charming elevated sanctuary which provides not only spiritual solace but also excellent vantages over the lush, green surrounding hillsides.",
+            "pt": "Descubra este encantador santuário elevado que oferece não só consolo espiritual como também excelentes panorâmicas sobre as colinas verdes e luxuriantes circundantes."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Sonnenuntergang-Aussichtspunkt",
             "hu": "Naplemente kilátó",
             "ro": "Punct de belvedere Apus de Soare",
-            "en": "Sunset Viewpoint"
+            "en": "Sunset Viewpoint",
+            "pt": "Miradouro do Pôr-do-Sol"
           },
           "coords": [
             -25.219403,
@@ -890,7 +985,8 @@
             "de": "Entspannen Sie sich an diesem malerischen Aussichtspunkt, der perfekt positioniert ist, um die natürliche Schönheit der Insel einzufangen, und nutzen Sie die vorhandenen Sitzgelegenheiten für ein schnelles Picknick am Mittag.",
             "hu": "Pihenjen meg ennél a festői kilátópontnál, amely tökéletes helyzetben van a sziget természeti szépségének megörökítéséhez, és használja a kihelyezett padokat egy gyors déli piknikhez.",
             "ro": "Relaxați-vă la acest punct de observație pitoresc perfect poziționat pentru a surprinde frumusețea naturală a insulei și folosiți zonele de relaxare amenajate pentru un picnic rapid la amiază.",
-            "en": "Relax at this scenic overlook perfectly positioned for capturing the island's natural beauty, and use the provided seating areas for a quick mid-day picnic."
+            "en": "Relax at this scenic overlook perfectly positioned for capturing the island's natural beauty, and use the provided seating areas for a quick mid-day picnic.",
+            "pt": "Relaxe neste miradouro cénico perfeitamente posicionado para captar a beleza natural da ilha e use os lugares sentados disponíveis para um rápido piquenique ao meio-dia."
           }
         },
         {
@@ -898,7 +994,8 @@
             "de": "Aussichtspunkt Pico dos Bodes",
             "hu": "Pico dos Bodes kilátó",
             "ro": "Punct de belvedere Pico dos Bodes",
-            "en": "Pico dos Bodes Viewpoint"
+            "en": "Pico dos Bodes Viewpoint",
+            "pt": "Miradouro do Pico dos Bodes"
           },
           "coords": [
             -25.219731,
@@ -913,7 +1010,8 @@
             "de": "Besteigen Sie den hölzernen Aussichtsturm an diesem dramatischen Aussichtspunkt für einen ungestörten 360-Grad-Blick, aber halten Sie Ihren Hut fest, da es oben recht windig werden kann.",
             "hu": "Mássza meg a fából készült kilátótornyot ezen a drámai kilátóponton a zavartalan 360 fokos panorámáért, de fogja erősen a kalapját, mert a tetején elég szeles lehet.",
             "ro": "Urcați pe turnul de observație din lemn la acest punct de belvedere dramatic pentru o vedere neîntreruptă la 360 de grade, dar țineți-vă bine pălăria deoarece poate fi destul de vânt sus.",
-            "en": "Climb the wooden observation tower at this dramatic viewpoint for uninterrupted 360-degree views, but hold onto your hat as it can get quite windy at the top."
+            "en": "Climb the wooden observation tower at this dramatic viewpoint for uninterrupted 360-degree views, but hold onto your hat as it can get quite windy at the top.",
+            "pt": "Suba a torre de observação de madeira neste miradouro dramático para vistas ininterruptas de 360 graus, mas segure bem o chapéu pois costuma estar muito vento no topo."
           }
         },
         {
@@ -921,7 +1019,8 @@
             "de": "Strand Praia do Morro",
             "hu": "Praia do Morro strand",
             "ro": "Plaja Praia do Morro",
-            "en": "Praia do Morro Beach"
+            "en": "Praia do Morro Beach",
+            "pt": "Praia do Morro Beach"
           },
           "coords": [
             -25.244172,
@@ -936,7 +1035,8 @@
             "de": "Genießen Sie den vulkanischen schwarzen Sand dieses malerischen Strandes, der sich perfekt zur morgendlichen Wellenbeobachtung eignet, aber denken Sie daran, Ihr eigenes Handtuch mitzubringen, da die Einrichtungen begrenzt sind.",
             "hu": "Élvezze e festői strand vulkáni fekete homokját, amely tökéletes a reggeli hullámok megfigyelésére, de ne felejtsen el saját törölközőt hozni, mivel a felszereltség korlátozott.",
             "ro": "Bucurați-vă de nisipul negru vulcanic al acestei plaje pitorești, un loc perfect pentru a privi valurile dimineții, dar nu uitați să vă aduceți propriul prosop deoarece facilitățile sunt limitate.",
-            "en": "Enjoy the volcanic black sands of this scenic beach, a perfect spot to watch the morning waves, but remember to bring your own towel as facilities are limited."
+            "en": "Enjoy the volcanic black sands of this scenic beach, a perfect spot to watch the morning waves, but remember to bring your own towel as facilities are limited.",
+            "pt": "Desfrute das areias negras vulcânicas desta praia cénica, um local perfeito para observar as ondas da manhã, mas lembre-se de trazer a sua própria toalha, já que as instalações são limitadas."
           }
         }
       ],
@@ -944,7 +1044,8 @@
         "de": "Beginnen Sie am Miradouro do Ramalho mit einem Dorf-Überblick. Fahren Sie zur Igreja do Rosário und zur Ermida de Santa Bárbara. Mittags stoppen Sie am Auditório Municipal und fahren zum Heiligtum Remédios in den Hügeln. Nachmittags geht es zu den Aussichtspunkten Pôr-do-Sol und Pico dos Bodes. Beenden Sie den Ausflug am Praia do Morro bei einem entspannten Abendspaziergang am Strand.",
         "hu": "Induljon a Miradouro do Ramalho kilátótól egy kora reggeli falu-panorámával. Vezessen le a történelmi Rosário templomhoz és a Santa Bárbara kápolnához. Délben álljon meg az Auditório Municipalnál, majd menjen a hegyekbe a Remédios szentélyhez. Délután kényelmesen elérheti a Pôr-do-Sol és Pico dos Bodes kilátókat. Zárja az autózást a Praia do Morro strandon egy pihentető esti sétával.",
         "ro": "Începeți la Miradouro do Ramalho pentru o privire de ansamblu matinală. Conduceți spre istorica biserică Rosário și capela Santa Bárbara. La prânz, opriți la Auditório Municipal, apoi urcați la sanctuarul Remédios. După-amiaza, navigați ușor spre punctele de belvedere Pôr-do-Sol și Pico dos Bodes. Încheiați călătoria parcând la Praia do Morro pentru o plimbare relaxantă de seară pe plajă.",
-        "en": "Begin driving at Miradouro do Ramalho for an early overview of Povoação. Descend to the village to visit the historic Igreja do Rosário and nearby Ermida de Santa Bárbara. Stop at the Auditório Municipal, then drive into the hills to the tranquility of Nossa Senhora dos Remédios. Cruise easily to Miradouro do Pôr-do-Sol and Pico dos Bodes viewpoints, concluding with a relaxing evening at Praia do Morro."
+        "en": "Begin driving at Miradouro do Ramalho for an early overview of Povoação. Descend to the village to visit the historic Igreja do Rosário and nearby Ermida de Santa Bárbara. Stop at the Auditório Municipal, then drive into the hills to the tranquility of Nossa Senhora dos Remédios. Cruise easily to Miradouro do Pôr-do-Sol and Pico dos Bodes viewpoints, concluding with a relaxing evening at Praia do Morro.",
+        "pt": "Comece a conduzir no Miradouro do Ramalho para uma visão matinal geral de Povoação. Desça até à vila para visitar a histórica Igreja do Rosário e a próxima Ermida de Santa Bárbara. Pare no Auditório Municipal e depois suba as colinas até à tranquilidade de Nossa Senhora dos Remédios. Siga facilmente para os miradouros do Pôr-do-Sol e do Pico dos Bodes, concluindo com uma noite relaxante na Praia do Morro."
       },
       "variants": {
         "rainy": {
@@ -952,7 +1053,8 @@
             "de": "Eine regnerische Autotour beginnt mit nebligen Morgenaussichten am Ramalho, bevor es in die Stadt zu den Kirchen geht. Die Mittagszeit ist perfekt, um zwischen diesen trockenen kulturellen Orten zu wechseln. Nachmittags fahren Sie vorsichtig zu den erhöhten Aussichtspunkten, bevor Sie bequem am Strand enden. Fahren Sie vorsichtig auf nassen Straßen.",
             "hu": "Az esős autós túra ködös reggeli kilátással kezdődik a Ramalho-nál, majd a városba indul a templomokhoz. A dél tökéletes arra, hogy ezen száraz belső kulturális helyszínek között ugráljon. Délután óvatosan hajtson fel a magaslati kilátókhoz, mielőtt kényelmesen befejezné a parton. Vezessen nagyon óvatosan a nedves, csúszós utakon a hegyekben.",
             "ro": "Turul auto pe ploaie începe cu priveliști cețoase matinale la Ramalho, înainte de a vizita bisericile din oraș. Prânzul este perfect pentru a trece perfect între aceste locuri culturale uscate din interior. După-amiaza, conduceți cu prudență spre punctele de belvedere înalte, înainte de a termina la plajă. Conduceți cu grijă pe drumurile umede.",
-            "en": "A rainy driving tour begins with misty morning views at Ramalho before heading into town to visit the beautiful churches. Midday is absolutely perfect for seamlessly hopping between these dry indoor cultural spots. In the afternoon, cautiously drive up to the elevated viewpoints before finishing comfortably at the beach. Drive carefully on wet roads."
+            "en": "A rainy driving tour begins with misty morning views at Ramalho before heading into town to visit the beautiful churches. Midday is absolutely perfect for seamlessly hopping between these dry indoor cultural spots. In the afternoon, cautiously drive up to the elevated viewpoints before finishing comfortably at the beach. Drive carefully on wet roads.",
+            "pt": "Um passeio de carro na chuva começa com vistas matinais enevoadas no Ramalho antes de seguir para a vila para visitar as belas igrejas. O meio-dia é perfeito para alternar sem esforço entre estes pontos culturais secos interiores. À tarde, suba com cautela até aos miradouros elevados antes de terminar confortavelmente na praia. Conduza com cuidado em estradas molhadas."
           },
           "stops": [
             {
@@ -960,13 +1062,15 @@
                 "de": "Aussichtspunkt Ramalho",
                 "hu": "Ramalho kilátó",
                 "ro": "Punctul de belvedere Ramalho",
-                "en": "Ramalho Viewpoint"
+                "en": "Ramalho Viewpoint",
+                "pt": "Miradouro do Ramalho"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie sicher in Ihrem warmen Auto, wenn der Regen sehr stark ist; der stimmungsvolle, neblige Blick auf das grüne Tal ist auch durch Ihr Seitenfenster sehr beeindruckend.",
                 "hu": "Maradjon biztonságban a meleg autójában, ha az áthaladó eső rendkívül heves; a hangulatos, ködös zöld völgy látványa még mindig lenyűgöző az oldalsó ablakon keresztül keretezve.",
                 "ro": "Rămâneți în siguranță în mașina caldă dacă ploaia este extrem de puternică; vederea melancolică a văii verzi și cețoase este încă foarte impresionantă prin geamul lateral.",
-                "en": "Stay safely inside your warm car if the passing rain is extremely heavy; the moody, misty green valley view is still highly impressive perfectly framed through your side window."
+                "en": "Stay safely inside your warm car if the passing rain is extremely heavy; the moody, misty green valley view is still highly impressive perfectly framed through your side window.",
+                "pt": "Fique em segurança dentro do seu carro quente se a chuva for muito forte; a vista enevoada e atmosférica do vale verde continua altamente impressionante perfeitamente enquadrada pela sua janela lateral."
               }
             },
             {
@@ -974,13 +1078,15 @@
                 "de": "Rosenkranzkirche",
                 "hu": "Rózsafüzér Királynője templom",
                 "ro": "Biserica Maicii Domnului a Rozariului",
-                "en": "Church of Our Lady of the Rosary"
+                "en": "Church of Our Lady of the Rosary",
+                "pt": "Igreja de Nossa Senhora do Rosário"
               },
               "tip_5lang": {
                 "de": "Sie können bequem sehr nah parken und schnell hineinhuschen, um die atemberaubende klassische Innenarchitektur zu erkunden, während Sie absolut trocken und warm bleiben.",
                 "hu": "Kényelmesen, nagyon közel parkolhat, és gyorsan beszaladhat, hogy kényelmesen felfedezze a lenyűgöző klasszikus belsőépítészetet, miközben teljesen száraz és meleg marad.",
                 "ro": "Puteți parca convenabil foarte aproape și puteți fugi rapid înăuntru pentru a explora confortabil arhitectura interioară clasică uimitoare, rămânând complet uscat și cald.",
-                "en": "You can conveniently park very closely and quickly dash inside to comfortably explore the stunning classic interior architecture while staying completely dry and perfectly warm."
+                "en": "You can conveniently park very closely and quickly dash inside to comfortably explore the stunning classic interior architecture while staying completely dry and perfectly warm.",
+                "pt": "Pode estacionar convenientemente muito perto e entrar rapidamente para explorar confortavelmente o impressionante interior clássico mantendo-se totalmente seco e quente."
               }
             },
             {
@@ -988,13 +1094,15 @@
                 "de": "Kapelle Santa Bárbara",
                 "hu": "Santa Bárbara kápolna",
                 "ro": "Capela Sfânta Barbara",
-                "en": "Chapel of Santa Bárbara"
+                "en": "Chapel of Santa Bárbara",
+                "pt": "Ermida de Santa Bárbara"
               },
               "tip_5lang": {
                 "de": "Ein schneller, einfacher Halt; nutzen Sie Ihren Regenschirm, da das Parken am Straßenrand einen kurzen, etwas nassen Spaziergang zum historischen Haupteingang erfordern könnte.",
                 "hu": "Csodálatosan gyors és egyszerű megálló; használja az esernyőjét, mivel az út menti parkolás rövid, kissé nedves sétát igényelhet a történelmi főbejárat sikeres eléréséhez.",
                 "ro": "O oprire rapidă și ușoară; folosiți umbrela, deoarece parcarea pe marginea drumului ar putea necesita o scurtă plimbare umedă pentru a ajunge la intrarea principală istorică.",
-                "en": "A wonderfully quick and easy stop; use your umbrella as roadside parking might require a short, slightly wet walk to reach the main historical entrance door."
+                "en": "A wonderfully quick and easy stop; use your umbrella as roadside parking might require a short, slightly wet walk to reach the main historical entrance door.",
+                "pt": "Uma paragem rápida e fácil; use o guarda-chuva, pois o estacionamento à beira da estrada pode exigir uma curta caminhada ligeiramente molhada até à porta principal histórica."
               }
             },
             {
@@ -1002,13 +1110,15 @@
                 "de": "Städtisches Auditorium",
                 "hu": "Városi Előadóterem",
                 "ro": "Auditoriul Municipal",
-                "en": "Municipal Auditorium"
+                "en": "Municipal Auditorium",
+                "pt": "Auditório Municipal"
               },
               "tip_5lang": {
                 "de": "Eine absolut hervorragende Indoor-Aktivität für einen düsteren Regentag; es gibt viel lokale Kunst zu sehen, ohne sich jemals um das miserable Wetter draußen sorgen zu müssen.",
                 "hu": "Abszolút kiváló, lebilincselő beltéri program egy komor, esős napra; rengeteg helyi alkotás látható anélkül, hogy a kinti nyomorúságos időjárás miatt aggódna.",
                 "ro": "O activitate de interior absolut excelentă pentru o zi ploioasă și mohorâtă; există multă artă locală de văzut fără a vă face griji vreodată pentru vremea mizerabilă de afară.",
-                "en": "An absolutely excellent, highly engaging indoor activity for a gloomy rainy day; there is plenty of local art to see without ever worrying about the miserable weather outside."
+                "en": "An absolutely excellent, highly engaging indoor activity for a gloomy rainy day; there is plenty of local art to see without ever worrying about the miserable weather outside.",
+                "pt": "Uma atividade interior excelente e envolvente para um dia chuvoso e sombrio; há muita arte local para ver sem se preocupar com o tempo miserável lá fora."
               }
             },
             {
@@ -1016,13 +1126,15 @@
                 "de": "Heiligtum Nossa Senhora dos Remédios",
                 "hu": "Remédios szentély",
                 "ro": "Sanctuarul Nossa Senhora dos Remédios",
-                "en": "Sanctuary of Our Lady of Remedies"
+                "en": "Sanctuary of Our Lady of Remedies",
+                "pt": "Santuário de Nossa Senhora dos Remédios"
               },
               "tip_5lang": {
                 "de": "Die kurvenreiche Fahrt zu diesem Heiligtum ist im Nebelregen unglaublich malerisch, aber achten Sie sorgfältig auf gefährlich rutschige, nasse Blätter auf der schmalen Straße.",
                 "hu": "A kanyargós út fel ehhez a szentélyhez hihetetlenül festői a szitáló esőben, de gondosan ügyeljen a veszélyesen csúszós nedves levelekre a szűk, íves útfelületen vezetés közben.",
                 "ro": "Drumul șerpuit până la acest sanctuar este pitoresc în ploaia cețoasă, dar fiți atenți la frunzele umede periculos de alunecoase de pe suprafața îngustă și curbată a drumului.",
-                "en": "The winding drive up to this sanctuary is incredibly scenic in the misty rain, but watch carefully for dangerously slippery wet leaves on the narrow, curved road surface."
+                "en": "The winding drive up to this sanctuary is incredibly scenic in the misty rain, but watch carefully for dangerously slippery wet leaves on the narrow, curved road surface.",
+                "pt": "A estrada sinuosa até este santuário é incrivelmente cénica na chuva de névoa, mas tenha atenção a folhas molhadas perigosamente escorregadias na estreita e curva superfície da estrada."
               }
             },
             {
@@ -1030,13 +1142,15 @@
                 "de": "Sonnenuntergang-Aussichtspunkt",
                 "hu": "Naplemente kilátó",
                 "ro": "Punct de belvedere Apus de Soare",
-                "en": "Sunset Viewpoint"
+                "en": "Sunset Viewpoint",
+                "pt": "Miradouro do Pôr-do-Sol"
               },
               "tip_5lang": {
                 "de": "Die schweren, dunklen Regenwolken können eine unglaublich dramatische Beleuchtung über dem tosenden Ozean erzeugen; lassen Sie einfach die Scheibenwischer laufen.",
                 "hu": "A súlyos, sötét, áthaladó esőfelhők hihetetlenül drámai megvilágítást hozhatnak létre a dühöngő óceán felett; egyszerűen járassa az ablaktörlőket, hogy élvezze a vad kilátást.",
                 "ro": "Norii grei și întunecați de ploaie pot crea o iluminare incredibil de dramatică peste oceanul furios; lăsați ștergătoarele pornite pentru a vă bucura pe deplin de priveliște.",
-                "en": "The heavy, dark passing rain clouds can genuinely create incredibly dramatic lighting over the raging ocean; simply keep the wipers going to fully enjoy the phenomenal wild view."
+                "en": "The heavy, dark passing rain clouds can genuinely create incredibly dramatic lighting over the raging ocean; simply keep the wipers going to fully enjoy the phenomenal wild view.",
+                "pt": "As nuvens de chuva pesadas e escuras podem criar uma iluminação dramaticamente incrível sobre o oceano agitado; mantenha os limpa-pára-brisas a funcionar para aproveitar a vista selvagem fenomenal."
               }
             },
             {
@@ -1044,13 +1158,15 @@
                 "de": "Aussichtspunkt Pico dos Bodes",
                 "hu": "Pico dos Bodes kilátó",
                 "ro": "Punct de belvedere Pico dos Bodes",
-                "en": "Pico dos Bodes Viewpoint"
+                "en": "Pico dos Bodes Viewpoint",
+                "pt": "Miradouro do Pico dos Bodes"
               },
               "tip_5lang": {
                 "de": "Der gepflasterte Weg wird erstaunlich rutschig. Tragen Sie unbedingt Schuhe mit sehr gutem Halt, wenn Sie beschließen, kurz aus Ihrem wohlig warmen Fahrzeug zu steigen.",
                 "hu": "A kövezett ösvény elképesztően csúszóssá válik, ezért mindenképpen jó tapadású cipőt viseljen, ha bátran úgy dönt, hogy egy pillanatra kiszáll a tökéletesen meleg autóból.",
                 "ro": "Calea pavată construită devine uimitor de alunecoasă, așa că purtați încălțăminte cu aderență foarte bună dacă decideți cu curaj să ieșiți scurt din vehiculul perfect cald.",
-                "en": "The constructed paved path gets astonishingly slippery, so strictly wear very good gripping shoes if you bravely decide to step briefly out of your perfectly warm vehicle."
+                "en": "The constructed paved path gets astonishingly slippery, so strictly wear very good gripping shoes if you bravely decide to step briefly out of your perfectly warm vehicle.",
+                "pt": "O caminho pavimentado construído fica extraordinariamente escorregadio, por isso use estritamente sapatos com boa aderência se decidir corajosamente sair brevemente do seu veículo bem aquecido."
               }
             },
             {
@@ -1058,13 +1174,15 @@
                 "de": "Strand Praia do Morro",
                 "hu": "Praia do Morro strand",
                 "ro": "Plaja Praia do Morro",
-                "en": "Praia do Morro Beach"
+                "en": "Praia do Morro Beach",
+                "pt": "Praia do Morro Beach"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den düsteren Tag, indem Sie den stürmischen, ungezähmten Ozean direkt aus dem reinen Komfort und der gemütlichen Wärme Ihres sicher geparkten Autos beobachten.",
                 "hu": "Csodálatosan fejezze be ezt a komor napot, figyelve a viharos, megszelídíthetetlen óceánt a biztonságosan leparkolt járműve tiszta kényelméből és mélyen kielégítő melegéből.",
                 "ro": "Terminați-vă ziua mohorâtă privind confortabil oceanul furtunos și nestăpânit, direct din confortul pur și căldura confortabilă și profund satisfăcătoare a vehiculului parcat.",
-                "en": "Wonderfully finish your gloomy day by comfortably watching the stormy, untamed ocean right from the pure comfort and cozy, deeply satisfying warmth of your safely parked vehicle."
+                "en": "Wonderfully finish your gloomy day by comfortably watching the stormy, untamed ocean right from the pure comfort and cozy, deeply satisfying warmth of your safely parked vehicle.",
+                "pt": "Termine maravilhosamente o seu dia sombrio observando o oceano tempestuoso e indomável a partir do conforto puro e acolhedor do seu veículo estacionado em segurança."
               }
             }
           ]
@@ -1074,7 +1192,8 @@
             "de": "Beginnen Sie Ihre Winterfahrt mit der klaren Morgenaussicht am Ramalho. Mittags erkunden Sie gemütlich die historischen Kirchen der Stadt und das warme Auditorium. Nachmittags geht es zu den Aussichtspunkten für einen frühen Sonnenuntergang, bevor Sie am schönen Strand enden. Nutzen Sie die Autoheizung effizient, um den ganzen Tag warm zu bleiben.",
             "hu": "Kezdje a téli autózást a friss reggeli kilátással a Ramalho-nál. Délben fedezze fel hangulatosan a történelmi templomokat és a meleg előadótermet. A délután tökéletesen a magaslati kilátókhoz vezet a korai naplementéért, mielőtt a gyönyörű strandon végezne. Használja hatékonyan az autófűtést a megállók között, hogy egész nap teljesen meleg maradjon.",
             "ro": "Începeți plimbarea de iarnă bucurându-vă de priveliștile clare ale dimineții la Ramalho. Prânzul oferă o explorare confortabilă a bisericilor istorice și a auditoriului cald. După-amiaza vă duce la belvederi pentru un apus timpuriu înainte de a termina la plajă. Folosiți eficient încălzirea auto între opriri pentru a rămâne complet cald.",
-            "en": "Start your winter drive enjoying the crisp morning views at Ramalho. Midday offers a cozy exploration of the town's historic churches and the warm auditorium. The afternoon perfectly takes you to elevated viewpoints for an early sunset before ending at the beautiful beach. Use the car heater efficiently between stops to stay completely warm all day."
+            "en": "Start your winter drive enjoying the crisp morning views at Ramalho. Midday offers a cozy exploration of the town's historic churches and the warm auditorium. The afternoon perfectly takes you to elevated viewpoints for an early sunset before ending at the beautiful beach. Use the car heater efficiently between stops to stay completely warm all day.",
+            "pt": "Comece a sua condução de inverno apreciando as visões matinais nítidas no Ramalho. Ao meio-dia usufrua da exploração acolhedora das igrejas históricas da vila e do auditório quente. A tarde leva-o aos miradouros elevados para um pôr-do-sol precoce antes de terminar na bela praia. Utilize eficientemente o aquecimento do carro entre paragens para se manter completamente quente o dia todo."
           },
           "stops": [
             {
@@ -1082,13 +1201,15 @@
                 "de": "Aussichtspunkt Ramalho",
                 "hu": "Ramalho kilátó",
                 "ro": "Punctul de belvedere Ramalho",
-                "en": "Ramalho Viewpoint"
+                "en": "Ramalho Viewpoint",
+                "pt": "Miradouro do Ramalho"
               },
               "tip_5lang": {
                 "de": "Die frühe winterliche Morgenluft ist hier oben unglaublich klar; genießen Sie bequem die absolut klare Wintersicht, die sich majestätisch über die atemberaubende Insel erstreckt.",
                 "hu": "A kora téli reggeli levegő hihetetlenül friss itt fent; élvezze kényelmesen az abszolút tiszta téli látási viszonyokat, amelyek fenségesen nyúlnak át a lenyűgöző szigeten.",
                 "ro": "Aerul dimineții de iarnă este incredibil de curat aici; bucurați-vă confortabil de vizibilitatea clară de iarnă care se întinde maiestuos peste întreaga insulă uimitoare.",
-                "en": "The early winter morning air is incredibly crisp up here; comfortably enjoy the absolute clear winter visibility stretching majestically across the stunning, expansive island."
+                "en": "The early winter morning air is incredibly crisp up here; comfortably enjoy the absolute clear winter visibility stretching majestically across the stunning, expansive island.",
+                "pt": "O ar de manhã cedo no inverno é extremamente nítido aqui; desfrute confortavelmente da visibilidade clara que se estende majestosa pela ilha expansiva."
               }
             },
             {
@@ -1096,13 +1217,15 @@
                 "de": "Rosenkranzkirche",
                 "hu": "Rózsafüzér Királynője templom",
                 "ro": "Biserica Maicii Domnului a Rozariului",
-                "en": "Church of Our Lady of the Rosary"
+                "en": "Church of Our Lady of the Rosary",
+                "pt": "Igreja de Nossa Senhora do Rosário"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne beleuchtet wunderschön die herrlichen Buntglasfenster; leicht zugängliche Parkplätze in der Nähe machen es zu einem einfachen, warmen kurzen Halt.",
                 "hu": "Az alacsony téli nap gyönyörűen megvilágítja a pompás ólomüveg ablakokat; a rendkívül közeli parkolás mesésen egyszerű, folyamatosan meleg gyors megállóvá teszi a látogatást.",
                 "ro": "Soarele de iarnă distinct de jos evidențiază frumos vitraliile magnifice; parcarea accesibilă din apropiere o face o oprire rapidă, fabulos de ușoară și continuu caldă.",
-                "en": "The low winter sun beautifully highlights the magnificent stained glass windows; accessible parking nearby makes it a fabulously easy, continuously warm quick stop."
+                "en": "The low winter sun beautifully highlights the magnificent stained glass windows; accessible parking nearby makes it a fabulously easy, continuously warm quick stop.",
+                "pt": "O sol baixo de inverno realça lindamente os magníficos vitrais; o estacionamento acessível nas proximidades torna esta paragem fabulosa, fácil e sempre quente."
               }
             },
             {
@@ -1110,13 +1233,15 @@
                 "de": "Kapelle Santa Bárbara",
                 "hu": "Santa Bárbara kápolna",
                 "ro": "Capela Sfânta Barbara",
-                "en": "Chapel of Santa Bárbara"
+                "en": "Chapel of Santa Bárbara",
+                "pt": "Ermida de Santa Bárbara"
               },
               "tip_5lang": {
                 "de": "Ein schneller Halt auf Ihrer Fahrstrecke; die tiefe, ungestörte ruhige Winteratmosphäre im Inneren ist heute unbestreitbar und außergewöhnlich heiter und friedlich.",
                 "hu": "Rendkívül gyors és teljesen könnyed megálló közvetlenül a vezetési útvonalon; a mély, zavartalan csendes téli hangulat odabent tagadhatatlanul és kivételesen békés ma.",
                 "ro": "O oprire extrem de rapidă și fără efort pe traseu; atmosfera profundă, netulburată și liniștită de iarnă din interior este incontestabil și excepțional de senină astăzi.",
-                "en": "A supremely quick and entirely effortless stop on your driving route; the profound, undisturbed quiet winter atmosphere inside is undeniably and exceptionally serene today."
+                "en": "A supremely quick and entirely effortless stop on your driving route; the profound, undisturbed quiet winter atmosphere inside is undeniably and exceptionally serene today.",
+                "pt": "Uma paragem extremamente rápida e completamente sem esforço na sua rota de carro; a profunda e imperturbada atmosfera de inverno no interior é indiscutivelmente serena hoje."
               }
             },
             {
@@ -1124,13 +1249,15 @@
                 "de": "Städtisches Auditorium",
                 "hu": "Városi Előadóterem",
                 "ro": "Auditoriul Municipal",
-                "en": "Municipal Auditorium"
+                "en": "Municipal Auditorium",
+                "pt": "Auditório Municipal"
               },
               "tip_5lang": {
                 "de": "Ein brillanter Ort, um eine informative Stunde angenehm drinnen zu verbringen und die moderne lokale Kultur perfekt abseits der unerbittlichen Winterkälte zu genießen.",
                 "hu": "Igazán ragyogó hely egy informatív óra kellemes eltöltésére beltérben, élvezve a modern helyi kultúrát, tökéletesen távol a keserű, könyörtelen téli hidegtől.",
                 "ro": "Un loc cu adevărat genial pentru a petrece o oră informativă plăcut în interior, bucurându-vă de cultura locală modernă, perfect departe de frigul aspru și necruțător de iarnă.",
-                "en": "A truly brilliant place to spend a highly informative hour pleasantly indoors, easily enjoying modern local culture perfectly away from the bitter, relentless winter chill."
+                "en": "A truly brilliant place to spend a highly informative hour pleasantly indoors, easily enjoying modern local culture perfectly away from the bitter, relentless winter chill.",
+                "pt": "Um lugar realmente ótimo para passar uma hora informativa e agradável no interior, desfrutando da cultura local moderna longe do frio implacável de inverno."
               }
             },
             {
@@ -1138,13 +1265,15 @@
                 "de": "Heiligtum Nossa Senhora dos Remédios",
                 "hu": "Remédios szentély",
                 "ro": "Sanctuarul Nossa Senhora dos Remédios",
-                "en": "Sanctuary of Our Lady of Remedies"
+                "en": "Sanctuary of Our Lady of Remedies",
+                "pt": "Santuário de Nossa Senhora dos Remédios"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die malerische, leere Winterfahrt sicher den kurvigen Hügel hinauf, die mit einer völlig unverbauten, kristallklaren Aussicht über den weiten Ozean belohnt wird.",
                 "hu": "Élvezze a festői, üres téli autózást fel a kanyargós dombon, amelyet teljesen akadálytalan, kristálytiszta kilátás jutalmaz a hatalmas, nyílt óceánra.",
                 "ro": "Bucurați-vă de drumul pitoresc și aproape gol de iarnă urcând în siguranță pe dealul șerpuit, complet recompensat cu vederi clare, complet neobstrucționate, peste oceanul vast.",
-                "en": "Enjoy the scenic, mostly empty winter drive safely up the twisting hill, completely rewarded with totally unobstructed, crystal clear views over the vast, dark blue ocean."
+                "en": "Enjoy the scenic, mostly empty winter drive safely up the twisting hill, completely rewarded with totally unobstructed, crystal clear views over the vast, dark blue ocean.",
+                "pt": "Desfrute da cénica e maioritariamente vazia subida de inverno pela estrada sinuosa, sendo amplamente recompensado com vistas cristalinas e desimpedidas sobre o vasto oceano azul-escuro."
               }
             },
             {
@@ -1152,13 +1281,15 @@
                 "de": "Sonnenuntergang-Aussichtspunkt",
                 "hu": "Naplemente kilátó",
                 "ro": "Punct de belvedere Apus de Soare",
-                "en": "Sunset Viewpoint"
+                "en": "Sunset Viewpoint",
+                "pt": "Miradouro do Pôr-do-Sol"
               },
               "tip_5lang": {
                 "de": "Perfektes Timing für den atemberaubenden frühen Sonnenuntergang gegen 17:00 Uhr; die lebhaften, stark kontrastierenden Farben sind in der klaren Winterluft besonders leuchtend.",
                 "hu": "Tökéletes időzítés a lélegzetelállító, korai naplemente elcsípésére 17:00 körül; az élénk, mélyen kontrasztos naplemente színek kivételesen vibrálóak a ropogós téli levegőben.",
                 "ro": "Cronometrat perfect pentru a prinde apusul timpuriu uluitor în jurul orei 17:00; culorile vii și profund contrastante ale apusului sunt excepțional de vibrante în aerul de iarnă.",
-                "en": "Perfectly timed to catch the genuinely breathtaking early sunset around 17:00; the vivid, deeply contrasting sunset colors are exceptionally vibrant in the crisp winter air."
+                "en": "Perfectly timed to catch the genuinely breathtaking early sunset around 17:00; the vivid, deeply contrasting sunset colors are exceptionally vibrant in the crisp winter air.",
+                "pt": "Perfeito para apanhar o espetacular pôr-do-sol precoce por volta das 17:00; as cores vívidas e contrastantes do entardecer são excepcionalmente vibrantes no ar frio de inverno."
               }
             },
             {
@@ -1166,13 +1297,15 @@
                 "de": "Aussichtspunkt Pico dos Bodes",
                 "hu": "Pico dos Bodes kilátó",
                 "ro": "Punct de belvedere Pico dos Bodes",
-                "en": "Pico dos Bodes Viewpoint"
+                "en": "Pico dos Bodes Viewpoint",
+                "pt": "Miradouro do Pico dos Bodes"
               },
               "tip_5lang": {
                 "de": "Es kann hier oben im Winter aggressiv windig und bitterkalt sein; halten Sie also Ihre wärmste dicke Jacke griffbereit, wenn Sie nur für einen kurzen Moment aus dem Auto steigen.",
                 "hu": "Őszintén szólva agresszíven szeles és keserűen hideg lehet itt fent télen, ezért feltétlenül tartsa kéznél a legmelegebb vastag kabátját, amikor röviden kiszáll az autóból.",
                 "ro": "Poate fi agresiv de vântos și amar de frig aici sus în timpul iernii, așa că păstrați cu siguranță cea mai caldă jachetă groasă la îndemână atunci când ieșiți scurt din mașină.",
-                "en": "It can be aggressively windy and bitterly cold up here during peak winter, so definitively keep your warmest thick jacket remarkably handy when briefly stepping out of the car."
+                "en": "It can be aggressively windy and bitterly cold up here during peak winter, so definitively keep your warmest thick jacket remarkably handy when briefly stepping out of the car.",
+                "pt": "Pode estar extremamente ventoso e friamente cortante aqui durante o auge do inverno, por isso mantenha definitivamente o seu casaco mais quente à mão ao sair brevemente do carro."
               }
             },
             {
@@ -1180,13 +1313,15 @@
                 "de": "Strand Praia do Morro",
                 "hu": "Praia do Morro strand",
                 "ro": "Plaja Praia do Morro",
-                "en": "Praia do Morro Beach"
+                "en": "Praia do Morro Beach",
+                "pt": "Praia do Morro Beach"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag mit einem erfrischenden, einsamen Spaziergang am leeren Winterstrand, schnell gefolgt von einer wunderbar warmen, gemütlichen Fahrt sicher zurück nach Hause.",
                 "hu": "Fejezze be a napot egy frissítően fagyos, magányos sétával közvetlenül az üres téli parton, amelyet egy csodálatosan meleg, hihetetlenül hangulatos autózás követ egyenesen haza.",
                 "ro": "Încheiați-vă ziua cu o plimbare răcoroasă și solitară direct pe plaja goală de iarnă, urmată rapid de un drum minunat de cald și incredibil de confortabil înapoi acasă diseară.",
-                "en": "End your day with a refreshingly chilly, solitary walk directly on the empty winter beach, quickly followed by a wonderfully warm, incredibly cozy drive safely back home tonight."
+                "en": "End your day with a refreshingly chilly, solitary walk directly on the empty winter beach, quickly followed by a wonderfully warm, incredibly cozy drive safely back home tonight.",
+                "pt": "Termine o dia com uma caminhada revigorante e fresca, solitária, diretamente na praia vazia de inverno, seguida de uma viagem de carro deliciosamente quente e acolhedora de regresso a casa."
               }
             }
           ]

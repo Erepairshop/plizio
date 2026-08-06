@@ -21,7 +21,8 @@
             "de": "Bairro Camões",
             "hu": "Camões negyed",
             "ro": "Cartierul Camões",
-            "en": "Camões Quarter"
+            "en": "Camões Quarter",
+            "pt": "Bairro Camões"
           },
           "coords": [
             -8.471,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, beobachten Sie das lokale Leben.",
             "hu": "Kezdje a napot a város szívében, és figyelje a helyi életet.",
             "ro": "Începeți ziua în inima orașului, observând viața locală.",
-            "en": "Start your day in the heart of the town, observing local life."
+            "en": "Start your day in the heart of the town, observing local life.",
+            "pt": "Comece o dia no coração da vila, observando a vida local."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stadtmarkt",
             "hu": "Városi Piac",
             "ro": "Piața Municipală",
-            "en": "Municipal Market"
+            "en": "Municipal Market",
+            "pt": "Mercado Municipal"
           },
           "coords": [
             -8.47,
@@ -59,7 +62,8 @@
             "de": "Probieren Sie frische lokale Produkte und genießen Sie die lebhafte Atmosphäre.",
             "hu": "Kóstoljon friss helyi termékeket és élvezze a nyüzsgő hangulatot.",
             "ro": "Gustați produse locale proaspete și bucurați-vă de atmosfera vibrantă.",
-            "en": "Taste some fresh local produce and enjoy the bustling atmosphere."
+            "en": "Taste some fresh local produce and enjoy the bustling atmosphere.",
+            "pt": "Prove algum produto local fresco e desfrute da atmosfera movimentada."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "pt": "Câmara Municipal"
           },
           "coords": [
             -8.4715,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die Architektur dieses wichtigen städtischen Gebäudes.",
             "hu": "Csodálja meg ennek a fontos városi épületnek az építészetét.",
             "ro": "Admirați arhitectura acestei clădiri civice importante.",
-            "en": "Admire the architecture of this important civic building."
+            "en": "Admire the architecture of this important civic building.",
+            "pt": "Admire a arquitetura deste importante edifício cívico."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche der Heiligen Familie",
             "hu": "Szent Család-templom",
             "ro": "Biserica Sagrada Família",
-            "en": "Church of the Sacred Family"
+            "en": "Church of the Sacred Family",
+            "pt": "Igreja da Sagrada Família"
           },
           "coords": [
             -8.4725,
@@ -105,7 +112,8 @@
             "de": "Nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre und die Glasfenster.",
             "hu": "Szánjon egy percet a békés légkörre és az ólomüveg ablakokra.",
             "ro": "Luați-vă un moment pentru a aprecia atmosfera liniștită și vitraliile.",
-            "en": "Take a moment to appreciate the peaceful atmosphere and the stained glass windows."
+            "en": "Take a moment to appreciate the peaceful atmosphere and the stained glass windows.",
+            "pt": "Reserve um momento para apreciar a atmosfera tranquila e os vitrais."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Nationales Eisenbahnmuseum",
             "hu": "Nemzeti Vasúti Múzeum",
             "ro": "Muzeul Național Feroviar",
-            "en": "National Railway Museum"
+            "en": "National Railway Museum",
+            "pt": "Museu Nacional Ferroviário"
           },
           "coords": [
             -8.4685,
@@ -128,7 +137,8 @@
             "de": "Ein Muss für Geschichts- und Technikbegeisterte, planen Sie genügend Zeit ein.",
             "hu": "A történelem és a technológia szerelmeseinek kötelező, szánjon rá elég időt.",
             "ro": "O vizită obligatorie pentru pasionații de istorie și tehnologie, alocați suficient timp.",
-            "en": "A must-visit for history and technology enthusiasts, allow plenty of time."
+            "en": "A must-visit for history and technology enthusiasts, allow plenty of time.",
+            "pt": "Imperdível para entusiastas de história e tecnologia; reserve bastante tempo."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Lokomotive 0190 Denkmal",
             "hu": "0190-es Mozdony Emlékmű",
             "ro": "Monumentul Locomotiva 0190",
-            "en": "Locomotive 0190 Monument"
+            "en": "Locomotive 0190 Monument",
+            "pt": "Monumento à Locomotiva 0190"
           },
           "coords": [
             -8.469,
@@ -151,7 +162,8 @@
             "de": "Ein tolles Fotomotiv direkt vor dem Museum.",
             "hu": "Nagyszerű fotózási lehetőség közvetlenül a múzeum előtt.",
             "ro": "O oportunitate foto excelentă chiar în fața muzeului.",
-            "en": "A great photo opportunity right outside the museum."
+            "en": "A great photo opportunity right outside the museum.",
+            "pt": "Uma ótima oportunidade fotográfica mesmo à saída do museu."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Grüner Park von Bonito",
             "hu": "Bonito Zöld Park",
             "ro": "Parcul Verde do Bonito",
-            "en": "Bonito Green Park"
+            "en": "Bonito Green Park",
+            "pt": "Parque Verde do Bonito"
           },
           "coords": [
             -8.478,
@@ -174,7 +187,8 @@
             "de": "Der perfekte Ort, um sich nach dem Museumsbesuch zu entspannen.",
             "hu": "Tökéletes hely a pihenésre a múzeumi látogatás után.",
             "ro": "Locul perfect pentru a vă relaxa după vizita la muzeu.",
-            "en": "The perfect place to relax and unwind after the museum visit."
+            "en": "The perfect place to relax and unwind after the museum visit.",
+            "pt": "O local perfeito para relaxar e descontrair após a visita ao museu."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Entroncamento, der Stadt der Eisenbahnen, beginnt im lebhaften Bairro Camões und auf dem lokalen Markt. Am Vormittag erkunden Sie das bürgerliche und religiöse Erbe der Stadt und bewundern das Rathaus und die Kirche der Heiligen Familie. Der Nachmittag ist ganz der reichen Eisenbahngeschichte Portugals im Nationalen Eisenbahnmuseum gewidmet, ein fesselndes Erlebnis für alle. Schließen Sie Ihren Tag mit einem entspannenden Spaziergang im Parque Verde do Bonito ab und genießen Sie die Ruhe dieses städtischen Rückzugsortes.",
         "hu": "Entroncamento, a vasutak városában töltött napja a nyüzsgő Bairro Camões negyedben és a helyi piacon kezdődik. A délelőtt folyamán felfedezheti a város polgári és vallási örökségét, megcsodálva a Városházát és a Szent Család-templomot. A délután teljes egészében Portugália gazdag vasúttörténelmének szentelődik a Nemzeti Vasúti Múzeumban, amely mindenki számára lebilincselő élmény. Zárja a napot egy pihentető sétával a Parque Verde do Bonito parkban, élvezve a városi oázis nyugalmát.",
         "ro": "Ziua dvs. în Entroncamento, orașul căilor ferate, începe în vibrantul cartier Bairro Camões și la piața locală. Dimineața explorați patrimoniul civic și religios al orașului, admirând Primăria și Biserica Sagrada Família. După-amiaza este dedicată în întregime istoriei feroviare bogate a Portugaliei la Muzeul Național Feroviar, o experiență captivantă pentru toți. Încheiați ziua cu o plimbare relaxantă în Parcul Verde do Bonito, bucurându-vă de liniștea acestui refugiu urban.",
-        "en": "Your day in Entroncamento, the city of railways, begins in the vibrant Bairro Camões and the local market. The morning involves exploring the city's civic and religious heritage, admiring the Town Hall and the Church of the Sacred Family. The afternoon is fully dedicated to Portugal's rich railway history at the National Railway Museum, a captivating experience for all. Conclude your day with a relaxing stroll in the Parque Verde do Bonito, enjoying the tranquility of this urban retreat."
+        "en": "Your day in Entroncamento, the city of railways, begins in the vibrant Bairro Camões and the local market. The morning involves exploring the city's civic and religious heritage, admiring the Town Hall and the Church of the Sacred Family. The afternoon is fully dedicated to Portugal's rich railway history at the National Railway Museum, a captivating experience for all. Conclude your day with a relaxing stroll in the Parque Verde do Bonito, enjoying the tranquility of this urban retreat.",
+        "pt": "O seu dia em Entroncamento, a cidade das linhas férreas, começa no vibrante Bairro Camões e no mercado local. A manhã passa a explorar o património cívico e religioso da cidade, admirando a Câmara e a Igreja da Sagrada Família. A tarde é totalmente dedicada à rica história ferroviária de Portugal no Museu Nacional Ferroviário, uma experiência cativante para todos. Conclua o dia com um passeio relaxante no Parque Verde do Bonito, aproveitando a tranquilidade deste retiro urbano."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "The Railway Museum is the highlight, so plan at least two hours for it.",
           "Check the market's opening hours as it might close in the afternoon.",
           "Bring a reusable water bottle to stay hydrated."
+        ],
+        "pt": [
+          "Use calçado confortável, pois irá caminhar bastante.",
+          "O Museu Ferroviário é o destaque, por isso planeie pelo menos duas horas para a visita.",
+          "Consulte o horário de funcionamento do mercado, pois pode encerrar à tarde.",
+          "Leve uma garrafa de água reutilizável para se manter hidratado."
         ]
       }
     },
@@ -394,7 +415,8 @@
             "de": "Bairro Camões",
             "hu": "Camões negyed",
             "ro": "Cartierul Camões",
-            "en": "Camões Quarter"
+            "en": "Camões Quarter",
+            "pt": "Bairro Camões"
           },
           "coords": [
             -8.471,
@@ -409,7 +431,8 @@
             "de": "Parken Sie Ihr Fahrrad und machen Sie einen kurzen Spaziergang, um die Atmosphäre aufzusaugen.",
             "hu": "Parkolja le a biciklit, és tegyen egy rövid sétát, hogy magába szívja a hangulatot.",
             "ro": "Parcați bicicleta și faceți o scurtă plimbare pentru a absorbi atmosfera.",
-            "en": "Park your bike and take a short walk to soak up the atmosphere."
+            "en": "Park your bike and take a short walk to soak up the atmosphere.",
+            "pt": "Estacione a sua bicicleta e faça uma curta caminhada para absorver a atmosfera."
           }
         },
         {
@@ -417,7 +440,8 @@
             "de": "Stadtmarkt",
             "hu": "Városi Piac",
             "ro": "Piața Municipală",
-            "en": "Municipal Market"
+            "en": "Municipal Market",
+            "pt": "Mercado Municipal"
           },
           "coords": [
             -8.47,
@@ -432,7 +456,8 @@
             "de": "Ein großartiger Ort, um Snacks für Ihre Radtour zu kaufen.",
             "hu": "Remek hely, hogy harapnivalót vegyen a biciklitúrához.",
             "ro": "Un loc minunat pentru a lua gustări pentru plimbarea cu bicicleta.",
-            "en": "A great place to pick up some snacks for your bike ride."
+            "en": "A great place to pick up some snacks for your bike ride.",
+            "pt": "Um ótimo local para comprar alguns petiscos para o seu passeio de bicicleta."
           }
         },
         {
@@ -440,7 +465,8 @@
             "de": "Kulturzentrum von Entroncamento",
             "hu": "Entroncamento Kulturális Központ",
             "ro": "Centrul Cultural din Entroncamento",
-            "en": "Cultural Centre of Entroncamento"
+            "en": "Cultural Centre of Entroncamento",
+            "pt": "Centro Cultural de Entroncamento"
           },
           "coords": [
             -8.473,
@@ -455,7 +481,8 @@
             "de": "Prüfen Sie, ob es tagsüber Ausstellungen oder Veranstaltungen gibt.",
             "hu": "Nézze meg, vannak-e nappali kiállítások vagy események.",
             "ro": "Verificați dacă există expoziții sau evenimente pe timp de zi.",
-            "en": "Check if there are any daytime exhibitions or events."
+            "en": "Check if there are any daytime exhibitions or events.",
+            "pt": "Verifique se há exposições ou eventos durante o dia."
           }
         },
         {
@@ -463,7 +490,8 @@
             "de": "Kirche der Heiligen Familie",
             "hu": "Szent Család-templom",
             "ro": "Biserica Sagrada Família",
-            "en": "Church of the Sacred Family"
+            "en": "Church of the Sacred Family",
+            "pt": "Igreja da Sagrada Família"
           },
           "coords": [
             -8.4725,
@@ -478,7 +506,8 @@
             "de": "Ein kurzer, aber lohnender Stopp, um die Architektur zu bewundern.",
             "hu": "Egy rövid, de megérő megálló az építészet megcsodálására.",
             "ro": "O oprire scurtă, dar meritată, pentru a admira arhitectura.",
-            "en": "A short but rewarding stop to admire the architecture."
+            "en": "A short but rewarding stop to admire the architecture.",
+            "pt": "Uma paragem curta mas recompensadora para admirar a arquitetura."
           }
         },
         {
@@ -486,7 +515,8 @@
             "de": "Nationales Eisenbahnmuseum",
             "hu": "Nemzeti Vasúti Múzeum",
             "ro": "Muzeul Național Feroviar",
-            "en": "National Railway Museum"
+            "en": "National Railway Museum",
+            "pt": "Museu Nacional Ferroviário"
           },
           "coords": [
             -8.4685,
@@ -501,7 +531,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die Eisenbahngeschichte.",
             "hu": "Zárja le biztonságosan a biciklijét, és merüljön el a vasúttörténelemben.",
             "ro": "Asigurați-vă bicicleta și scufundați-vă în istoria feroviară.",
-            "en": "Lock your bike securely and dive into the railway history."
+            "en": "Lock your bike securely and dive into the railway history.",
+            "pt": "Tranque a sua bicicleta com segurança e mergulhe na história ferroviária."
           }
         },
         {
@@ -509,7 +540,8 @@
             "de": "Lokomotive 0190 Denkmal",
             "hu": "0190-es Mozdony Emlékmű",
             "ro": "Monumentul Locomotiva 0190",
-            "en": "Locomotive 0190 Monument"
+            "en": "Locomotive 0190 Monument",
+            "pt": "Monumento à Locomotiva 0190"
           },
           "coords": [
             -8.469,
@@ -524,7 +556,8 @@
             "de": "Machen Sie ein schnelles Foto, bevor Sie zum Park weiterradeln.",
             "hu": "Készítsen egy gyors fotót, mielőtt továbbteker a parkba.",
             "ro": "Faceți o fotografie rapidă înainte de a pedala spre parc.",
-            "en": "Snap a quick photo before cycling on to the park."
+            "en": "Snap a quick photo before cycling on to the park.",
+            "pt": "Tire uma foto rápida antes de seguir de bicicleta para o parque."
           }
         },
         {
@@ -532,7 +565,8 @@
             "de": "Grüner Park von Bonito",
             "hu": "Bonito Zöld Park",
             "ro": "Parcul Verde do Bonito",
-            "en": "Bonito Green Park"
+            "en": "Bonito Green Park",
+            "pt": "Parque Verde do Bonito"
           },
           "coords": [
             -8.478,
@@ -547,7 +581,8 @@
             "de": "Radfahren Sie um den See oder entspannen Sie einfach auf dem Gras.",
             "hu": "Kerékpározzon a tó körül, vagy csak pihenjen a fűben.",
             "ro": "Pedalați în jurul lacului sau pur și simplu relaxați-vă pe iarbă.",
-            "en": "Cycle around the lake or just relax on the grass."
+            "en": "Cycle around the lake or just relax on the grass.",
+            "pt": "Pedale à volta do lago ou simplesmente relaxe na relva."
           }
         }
       ],
@@ -555,7 +590,8 @@
         "de": "Entdecken Sie Entroncamento auf zwei Rädern. Beginnen Sie im Bairro Camões und auf dem Markt, um Energie zu tanken. Radeln Sie durch die Stadt, besuchen Sie kulturelle und religiöse Stätten, bevor Sie am Mittag das Herzstück der Stadt erreichen: das Nationale Eisenbahnmuseum. Nach dieser faszinierenden Reise in die Vergangenheit ist der Parque Verde do Bonito der ideale Ort, um sich zu entspannen, eine Runde um den See zu drehen und den Tag ausklingen zu lassen.",
         "hu": "Fedezze fel Entroncamentót két keréken. Kezdjen a Bairro Camões negyedben és a piacon, hogy energiát gyűjtsön. Tekerjen át a városon, látogasson meg kulturális és vallási helyszíneket, mielőtt délben elérné a város szívét: a Nemzeti Vasúti Múzeumot. A múltba tett lenyűgöző utazás után a Parque Verde do Bonito ideális hely a pihenésre, egy körre a tó körül és a nap lezárására.",
         "ro": "Explorați Entroncamento pe două roți. Începeți din Bairro Camões și de la piață pentru a vă energiza. Pedalați prin oraș, vizitând situri culturale și religioase înainte de a ajunge la piesa centrală a orașului la prânz: Muzeul Național Feroviar. După această călătorie fascinantă în trecut, Parcul Verde do Bonito este locul ideal pentru a vă relaxa, a face o tură în jurul lacului și a încheia ziua.",
-        "en": "Explore Entroncamento on two wheels. Start at Bairro Camões and the market to fuel up. Cycle through the town, visiting cultural and religious sites before reaching the town's centerpiece at midday: the National Railway Museum. After this fascinating journey into the past, the Parque Verde do Bonito is the ideal spot to unwind, take a lap around the lake, and finish your day."
+        "en": "Explore Entroncamento on two wheels. Start at Bairro Camões and the market to fuel up. Cycle through the town, visiting cultural and religious sites before reaching the town's centerpiece at midday: the National Railway Museum. After this fascinating journey into the past, the Parque Verde do Bonito is the ideal spot to unwind, take a lap around the lake, and finish your day.",
+        "pt": "Explore Entroncamento em duas rodas. Comece no Bairro Camões e no mercado para abastecer. Pedale pela cidade, visitando locais culturais e religiosos antes de chegar ao ponto central da cidade ao meio-dia: o Museu Nacional Ferroviário. Após esta fascinante viagem pelo passado, o Parque Verde do Bonito é o local ideal para descontrair, dar uma volta ao lago e terminar o seu dia."
       },
       "gastro_picks": {
         "de": [
@@ -715,6 +751,12 @@
           "Bring a lock to secure your bike at the museum and other stops.",
           "The town is relatively flat, making it good for cycling.",
           "Wear a helmet for safety."
+        ],
+        "pt": [
+          "Verifique a sua bicicleta antes de partir.",
+          "Traga um cadeado para prender a bicicleta no museu e noutras paragens.",
+          "A cidade é relativamente plana, o que a torna boa para andar de bicicleta.",
+          "Use um capacete para segurança."
         ]
       }
     },
@@ -731,7 +773,8 @@
             "de": "Cluster 1: Historisches Zentrum",
             "hu": "1. klaszter: Történelmi központ",
             "ro": "Cluster 1: Centrul Istoric",
-            "en": "Cluster 1: Historic Centre"
+            "en": "Cluster 1: Historic Centre",
+            "pt": "Agrupamento 1: Centro Histórico"
           },
           "coords": [
             -8.4715,
@@ -747,7 +790,8 @@
             "de": "Parken Sie in der Nähe des Rathauses für den ersten Teil Ihres Besuchs.",
             "hu": "Parkoljon a Városháza közelében a látogatás első részére.",
             "ro": "Parcați lângă Primărie pentru prima parte a vizitei.",
-            "en": "Park near the Town Hall for the first part of your visit."
+            "en": "Park near the Town Hall for the first part of your visit.",
+            "pt": "Estacione perto da Câmara Municipal para a primeira parte da sua visita."
           }
         },
         {
@@ -755,7 +799,8 @@
             "de": "Bairro Camões",
             "hu": "Camões negyed",
             "ro": "Cartierul Camões",
-            "en": "Camões Quarter"
+            "en": "Camões Quarter",
+            "pt": "Bairro Camões"
           },
           "coords": [
             -8.471,
@@ -771,7 +816,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zum Hauptplatz.",
             "hu": "Egy rövid séta a parkolótól a főtérig.",
             "ro": "O scurtă plimbare de la parcare la piața principală.",
-            "en": "A short walk from your parking spot to the main square."
+            "en": "A short walk from your parking spot to the main square.",
+            "pt": "Uma curta caminhada do seu estacionamento até à praça principal."
           }
         },
         {
@@ -779,7 +825,8 @@
             "de": "Stadtmarkt",
             "hu": "Városi Piac",
             "ro": "Piața Municipală",
-            "en": "Municipal Market"
+            "en": "Municipal Market",
+            "pt": "Mercado Municipal"
           },
           "coords": [
             -8.47,
@@ -795,7 +842,8 @@
             "de": "Erleben Sie die lokalen Geschmäcker, nur wenige Schritte entfernt.",
             "hu": "Tapasztalja meg a helyi ízeket, csak néhány lépésre.",
             "ro": "Experimentați aromele locale la doar câțiva pași distanță.",
-            "en": "Experience the local flavors, just a few steps away."
+            "en": "Experience the local flavors, just a few steps away.",
+            "pt": "Experimente os sabores locais, a apenas alguns passos."
           }
         },
         {
@@ -803,7 +851,8 @@
             "de": "Cluster 2: Eisenbahn-Erbe",
             "hu": "2. klaszter: Vasúti örökség",
             "ro": "Cluster 2: Patrimoniul Feroviar",
-            "en": "Cluster 2: Railway Heritage"
+            "en": "Cluster 2: Railway Heritage",
+            "pt": "Agrupamento 2: Património Ferroviário"
           },
           "coords": [
             -8.4685,
@@ -819,7 +868,8 @@
             "de": "Fahren Sie zum Museum und finden Sie einen Parkplatz. Hier verbringen Sie den Großteil des Tages.",
             "hu": "Vezessen a múzeumhoz, és keressen parkolóhelyet. Itt fogja tölteni a nap nagy részét.",
             "ro": "Conduceți la muzeu și găsiți un loc de parcare. Veți petrece cea mai mare parte a zilei aici.",
-            "en": "Drive to the museum and find parking. You'll spend the bulk of your day here."
+            "en": "Drive to the museum and find parking. You'll spend the bulk of your day here.",
+            "pt": "Conduza até ao museu e encontre estacionamento. Passará a maior parte do dia aqui."
           }
         },
         {
@@ -827,7 +877,8 @@
             "de": "Lokomotive 0190 Denkmal",
             "hu": "0190-es Mozdony Emlékmű",
             "ro": "Monumentul Locomotiva 0190",
-            "en": "Locomotive 0190 Monument"
+            "en": "Locomotive 0190 Monument",
+            "pt": "Monumento à Locomotiva 0190"
           },
           "coords": [
             -8.469,
@@ -843,7 +894,8 @@
             "de": "Leicht zu Fuß vom Museumseingang aus erreichbar.",
             "hu": "Könnyen megközelíthető gyalog a múzeum bejáratától.",
             "ro": "Ușor accesibil pe jos de la intrarea muzeului.",
-            "en": "Easily walkable from the museum entrance."
+            "en": "Easily walkable from the museum entrance.",
+            "pt": "Facilmente acessível a pé desde a entrada do museu."
           }
         },
         {
@@ -851,7 +903,8 @@
             "de": "Cluster 3: Entspannung im Park",
             "hu": "3. klaszter: Pihenés a parkban",
             "ro": "Cluster 3: Relaxare în Parc",
-            "en": "Cluster 3: Park Relaxation"
+            "en": "Cluster 3: Park Relaxation",
+            "pt": "Agrupamento 3: Relaxamento no Parque"
           },
           "coords": [
             -8.478,
@@ -867,7 +920,8 @@
             "de": "Machen Sie eine kurze Fahrt zum Parque Verde, um den Tag entspannt ausklingen zu lassen.",
             "hu": "Tegyen egy rövid autóutat a Parque Verde-be, hogy pihentetően zárja a napot.",
             "ro": "Faceți o scurtă călătorie cu mașina până la Parque Verde pentru o încheiere relaxantă a zilei.",
-            "en": "Take a short drive to Parque Verde for a relaxing end to your day."
+            "en": "Take a short drive to Parque Verde for a relaxing end to your day.",
+            "pt": "Faça uma curta viagem de carro até ao Parque Verde para um fim de dia relaxante."
           }
         }
       ],
@@ -875,7 +929,8 @@
         "de": "Ihr Autotag in Entroncamento nutzt die Cluster-Walking-Methode. Beginnen Sie mit dem Parken im historischen Zentrum, um den Bairro Camões und den Markt zu Fuß zu erkunden. Am Vormittag fahren Sie zum Eisenbahn-Cluster, wo Sie in die fesselnde Welt des Nationalen Eisenbahnmuseums eintauchen. Nach dem Mittagessen führt Sie eine kurze Fahrt zum Parque Verde do Bonito, dem perfekten Ort, um den Nachmittag mit einem Spaziergang am See zu verbringen und die Erlebnisse des Tages Revue passieren zu lassen.",
         "hu": "Autós napja Entroncamentóban a klaszter-séta módszert alkalmazza. Kezdje a parkolással a történelmi központban, hogy gyalog fedezze fel a Bairro Camões-t és a piacot. A délelőtt folyamán autózzon át a vasúti klaszterhez, ahol elmerülhet a Nemzeti Vasúti Múzeum magával ragadó világában. Ebéd után egy rövid autóút vezet a Parque Verde do Bonito-hoz, amely tökéletes hely a délutáni tóparti sétához és a nap élményeinek felidézéséhez.",
         "ro": "Ziua dvs. cu mașina în Entroncamento utilizează metoda de plimbare în cluster. Începeți prin a parca în centrul istoric pentru a explora pe jos Bairro Camões și piața. Dimineața, conduceți la clusterul feroviar, unde vă veți cufunda în lumea captivantă a Muzeului Național Feroviar. După prânz, o scurtă călătorie cu mașina vă duce la Parque Verde do Bonito, locul perfect pentru a petrece după-amiaza plimbându-vă pe malul lacului și reflectând la experiențele zilei.",
-        "en": "Your car day in Entroncamento uses the cluster-walking method. Start by parking in the historic centre to explore Bairro Camões and the market on foot. Mid-morning, drive to the railway cluster, where you'll immerse yourself in the captivating world of the National Railway Museum. After lunch, a short drive takes you to Parque Verde do Bonito, the perfect spot to spend the afternoon strolling by the lake and reflecting on the day's experiences."
+        "en": "Your car day in Entroncamento uses the cluster-walking method. Start by parking in the historic centre to explore Bairro Camões and the market on foot. Mid-morning, drive to the railway cluster, where you'll immerse yourself in the captivating world of the National Railway Museum. After lunch, a short drive takes you to Parque Verde do Bonito, the perfect spot to spend the afternoon strolling by the lake and reflecting on the day's experiences.",
+        "pt": "O seu dia de carro em Entroncamento usa o método de caminhadas por agrupamentos. Comece por estacionar no centro histórico para explorar o Bairro Camões e o mercado a pé. A meio da manhã, conduza até ao agrupamento ferroviário, onde se irá imergir no cativante mundo do Museu Nacional Ferroviário. Depois do almoço, uma curta viagem leva-o ao Parque Verde do Bonito, o local perfeito para passar a tarde a passear junto ao lago e refletir sobre as experiências do dia."
       },
       "gastro_picks": {
         "de": [
@@ -1019,6 +1074,12 @@
           "Plan your visit to the Railway Museum in advance, as it's very large.",
           "A car gives you the flexibility to visit nearby attractions like the Castle of Almourol.",
           "The downtown streets can be narrow, so drive carefully."
+        ],
+        "pt": [
+          "Preste atenção aos sinais de estacionamento para evitar multas.",
+          "Planeie a sua visita ao Museu Ferroviário com antecedência, pois é muito grande.",
+          "Um carro dá-lhe a flexibilidade de visitar atrações próximas como o Castelo de Almourol.",
+          "As ruas do centro podem ser estreitas, por isso conduza com cuidado."
         ]
       }
     },
@@ -1035,7 +1096,8 @@
             "de": "Cluster 1: Stadtzentrum",
             "hu": "1. klaszter: Városközpont",
             "ro": "Cluster 1: Centrul Orașului",
-            "en": "Cluster 1: City Centre"
+            "en": "Cluster 1: City Centre",
+            "pt": "Agrupamento 1: Centro da Cidade"
           },
           "coords": [
             -8.471,
@@ -1051,7 +1113,8 @@
             "de": "Beginnen Sie am Hauptplatz, der von vielen Buslinien angefahren wird.",
             "hu": "Kezdje a főtéren, amelyet számos buszjárat szolgál ki.",
             "ro": "Începeți din piața principală, deservită de multe rute de autobuz.",
-            "en": "Start at the main square, served by many bus routes."
+            "en": "Start at the main square, served by many bus routes.",
+            "pt": "Comece na praça principal, servida por várias linhas de autocarro."
           }
         },
         {
@@ -1059,7 +1122,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "pt": "Câmara Municipal"
           },
           "coords": [
             -8.4715,
@@ -1075,7 +1139,8 @@
             "de": "Ein kurzer Spaziergang, um das Hauptgebäude der Stadt zu sehen.",
             "hu": "Egy rövid séta a város főépületének megtekintéséhez.",
             "ro": "O scurtă plimbare pentru a vedea clădirea civică principală.",
-            "en": "A short stroll to see the main civic building."
+            "en": "A short stroll to see the main civic building.",
+            "pt": "Uma curta caminhada para ver o principal edifício cívico."
           }
         },
         {
@@ -1083,7 +1148,8 @@
             "de": "Kirche der Heiligen Familie",
             "hu": "Szent Család-templom",
             "ro": "Biserica Sagrada Família",
-            "en": "Church of the Sacred Family"
+            "en": "Church of the Sacred Family",
+            "pt": "Igreja da Sagrada Família"
           },
           "coords": [
             -8.4725,
@@ -1099,7 +1165,8 @@
             "de": "Finden Sie einen Moment der Ruhe, bevor Sie zum nächsten Cluster weitergehen.",
             "hu": "Találjon egy pillanatnyi békét, mielőtt a következő klaszterhez indul.",
             "ro": "Găsiți un moment de liniște înainte de a vă deplasa la următorul cluster.",
-            "en": "Find a moment of peace before moving on to the next cluster."
+            "en": "Find a moment of peace before moving on to the next cluster.",
+            "pt": "Encontre um momento de paz antes de seguir para o próximo agrupamento."
           }
         },
         {
@@ -1107,7 +1174,8 @@
             "de": "Cluster 2: Eisenbahnmuseum",
             "hu": "2. klaszter: Vasúti Múzeum",
             "ro": "Cluster 2: Muzeul Feroviar",
-            "en": "Cluster 2: Railway Museum"
+            "en": "Cluster 2: Railway Museum",
+            "pt": "Agrupamento 2: Museu Ferroviário"
           },
           "coords": [
             -8.4685,
@@ -1123,7 +1191,8 @@
             "de": "Nehmen Sie einen Bus zum Bahnhofsbereich, wo sich das Museum befindet.",
             "hu": "Menjen busszal az állomás környékére, ahol a múzeum található.",
             "ro": "Luați un autobuz spre zona gării, unde se află muzeul.",
-            "en": "Take a bus to the station area, where the museum is located."
+            "en": "Take a bus to the station area, where the museum is located.",
+            "pt": "Apanhe um autocarro até à área da estação, onde se encontra o museu."
           }
         },
         {
@@ -1131,7 +1200,8 @@
             "de": "Lokomotive 0190 Denkmal",
             "hu": "0190-es Mozdony Emlékmű",
             "ro": "Monumentul Locomotiva 0190",
-            "en": "Locomotive 0190 Monument"
+            "en": "Locomotive 0190 Monument",
+            "pt": "Monumento à Locomotiva 0190"
           },
           "coords": [
             -8.469,
@@ -1147,7 +1217,8 @@
             "de": "Dieses Denkmal ist nur einen kurzen Spaziergang vom Museum entfernt.",
             "hu": "Ez az emlékmű csak egy rövid sétára van a múzeumtól.",
             "ro": "Acest monument se află la o scurtă plimbare de muzeu.",
-            "en": "This monument is just a short walk from the museum."
+            "en": "This monument is just a short walk from the museum.",
+            "pt": "Este monumento fica a uma curta caminhada do museu."
           }
         },
         {
@@ -1155,7 +1226,8 @@
             "de": "Cluster 3: Parque Verde do Bonito",
             "hu": "3. klaszter: Parque Verde do Bonito",
             "ro": "Cluster 3: Parcul Verde do Bonito",
-            "en": "Cluster 3: Bonito Green Park"
+            "en": "Cluster 3: Bonito Green Park",
+            "pt": "Agrupamento 3: Parque Verde do Bonito"
           },
           "coords": [
             -8.478,
@@ -1171,7 +1243,8 @@
             "de": "Eine weitere Busfahrt bringt Sie zu diesem schönen Park für einen entspannten Nachmittag.",
             "hu": "Egy másik buszút elviszi Önt ehhez a gyönyörű parkhoz egy pihentető délutánra.",
             "ro": "O altă călătorie cu autobuzul vă duce la acest parc frumos pentru o după-amiază relaxantă.",
-            "en": "Another bus ride takes you to this beautiful park for a relaxing afternoon."
+            "en": "Another bus ride takes you to this beautiful park for a relaxing afternoon.",
+            "pt": "Outro passeio de autocarro leva-o a este belo parque para uma tarde relaxante."
           }
         }
       ],
@@ -1179,7 +1252,8 @@
         "de": "Die Erkundung von Entroncamento mit öffentlichen Verkehrsmitteln ist einfach und effizient. Beginnen Sie Ihren Tag im Stadtzentrum, das zu Fuß erkundet werden kann. Eine kurze Busfahrt bringt Sie zum Eisenbahn-Cluster, wo das Nationale Eisenbahnmuseum auf Sie wartet. Verbringen Sie dort einen großen Teil Ihres Tages. Am Nachmittag bringt Sie ein weiterer Bus zum Parque Verde do Bonito, wo Sie sich entspannen und die natürliche Schönheit der Stadt genießen können, bevor Sie zurückkehren.",
         "hu": "Entroncamento felfedezése tömegközlekedéssel egyszerű és hatékony. Kezdje a napot a gyalogosan bejárható városközpontban. Egy rövid buszút elviszi a vasúti klaszterhez, ahol a Nemzeti Vasúti Múzeum várja. Töltse ott a nap nagy részét. Délután egy másik busz elviszi a Parque Verde do Bonito parkba, ahol pihenhet és élvezheti a város természeti szépségét, mielőtt visszatérne.",
         "ro": "Explorarea Entroncamento cu transportul public este ușoară și eficientă. Începeți ziua în centrul orașului, care poate fi explorat pe jos. O scurtă călătorie cu autobuzul vă duce la clusterul feroviar, unde vă așteaptă Muzeul Național Feroviar. Petreceți o mare parte a zilei acolo. După-amiaza, un alt autobuz vă va duce la Parque Verde do Bonito, unde vă puteți relaxa și bucura de frumusețea naturală a orașului înainte de a vă întoarce.",
-        "en": "Exploring Entroncamento by public transit is easy and efficient. Start your day in the city centre cluster, which is explorable on foot. A short bus ride takes you to the railway cluster, where the National Railway Museum awaits. Spend a large portion of your day there. In the afternoon, another bus will take you to Parque Verde do Bonito, where you can relax and enjoy the city's natural beauty before heading back."
+        "en": "Exploring Entroncamento by public transit is easy and efficient. Start your day in the city centre cluster, which is explorable on foot. A short bus ride takes you to the railway cluster, where the National Railway Museum awaits. Spend a large portion of your day there. In the afternoon, another bus will take you to Parque Verde do Bonito, where you can relax and enjoy the city's natural beauty before heading back.",
+        "pt": "Explorar Entroncamento em transporte público é fácil e eficiente. Comece o dia no agrupamento do centro da cidade, que é explorável a pé. Um curto trajeto de autocarro leva-o ao agrupamento ferroviário, onde o Museu Nacional Ferroviário o aguarda. Passe grande parte do dia lá. À tarde, outro autocarro levará-o ao Parque Verde do Bonito, onde poderá relaxar e desfrutar da beleza natural da cidade antes de regressar."
       },
       "gastro_picks": {
         "de": [
@@ -1303,6 +1377,12 @@
           "Check bus schedules in advance to minimize waiting.",
           "Keep an eye on your belongings on public transport.",
           "Ask locals for the right bus, they are usually helpful."
+        ],
+        "pt": [
+          "Compre um passe diário para o autocarro, se disponível, para poupar dinheiro.",
+          "Verifique os horários dos autocarros com antecedência para minimizar as esperas.",
+          "Mantenha um olho nas suas pertenças nos transportes públicos.",
+          "Peça aos locais o autocarro certo; normalmente são prestáveis."
         ]
       }
     }

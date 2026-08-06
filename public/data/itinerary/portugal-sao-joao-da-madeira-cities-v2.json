@@ -21,7 +21,8 @@
             "de": "Paços da Cultura",
             "hu": "Kultúrpalota (Paços da Cultura)",
             "ro": "Palatul Culturii (Paços da Cultura)",
-            "en": "Palace of Culture (Paços da Cultura)"
+            "en": "Palace of Culture (Paços da Cultura)",
+            "pt": "Palácio da Cultura (Paços da Cultura)"
           },
           "coords": [
             -8.4961,
@@ -36,7 +37,8 @@
             "de": "Überprüfen Sie den Spielplan, es könnte eine interessante Ausstellung oder ein Konzert stattfinden.",
             "hu": "Nézd meg a programot, hátha van egy érdekes kiállítás vagy koncert.",
             "ro": "Verificați programul, s-ar putea să existe o expoziție sau un concert interesant.",
-            "en": "Check the schedule; there might be an interesting exhibition or concert on."
+            "en": "Check the schedule; there might be an interesting exhibition or concert on.",
+            "pt": "Consulte a programação; pode haver uma exposição ou concerto interessante."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Igreja Matriz de S. João",
             "hu": "Szent János Mátrix-templom",
             "ro": "Biserica Matriz de S. João",
-            "en": "Mother Church of S. João"
+            "en": "Mother Church of S. João",
+            "pt": "Igreja Matriz de S. João"
           },
           "coords": [
             -8.4975,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die beeindruckenden Azulejo-Fliesen im Inneren.",
             "hu": "Figyeld meg a lenyűgöző azulejo csempéket a templom belsejében.",
             "ro": "Observați panourile impresionante de azulejos din interior.",
-            "en": "Notice the impressive azulejo tile panels inside."
+            "en": "Notice the impressive azulejo tile panels inside.",
+            "pt": "Repare nos impressionantes painéis de azulejos no interior."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schuhmuseum (Museu do Calçado)",
             "hu": "Cipőmúzeum (Museu do Calçado)",
             "ro": "Muzeul Încălțămintei (Museu do Calçado)",
-            "en": "Footwear Museum (Museu do Calçado)"
+            "en": "Footwear Museum (Museu do Calçado)",
+            "pt": "Museu do Calçado"
           },
           "coords": [
             -8.493,
@@ -82,7 +87,8 @@
             "de": "Ein Muss in der „Hauptstadt des Schuhs“! Interaktive Ausstellungen.",
             "hu": "Kötelező látnivaló a 'cipő fővárosában'! Interaktív kiállítások.",
             "ro": "O vizită obligatorie în „Capitala Încălțămintei”! Expoziții interactive.",
-            "en": "A must-see in the 'Capital of Footwear'! Interactive exhibits."
+            "en": "A must-see in the 'Capital of Footwear'! Interactive exhibits.",
+            "pt": "Imperdível na «Capital do Calçado»! Exposições interativas."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Turm von Oliva (Torre da Oliva)",
             "hu": "Oliva-torony (Torre da Oliva)",
             "ro": "Turnul Oliva (Torre da Oliva)",
-            "en": "Oliva Tower (Torre da Oliva)"
+            "en": "Oliva Tower (Torre da Oliva)",
+            "pt": "Torre da Oliva"
           },
           "coords": [
             -8.4918,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie den Panoramablick über die Stadt vom alten Wasserturm aus.",
             "hu": "Élvezd a panorámát a városra a régi víztoronyból.",
             "ro": "Bucurați-vă de vederea panoramică asupra orașului din vechiul turn de apă.",
-            "en": "Enjoy the panoramic view over the city from the old water tower."
+            "en": "Enjoy the panoramic view over the city from the old water tower.",
+            "pt": "Desfrute da vista panorâmica sobre a cidade a partir do antigo reservatório de água."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Hutmuseum (Museu da Chapelaria)",
             "hu": "Kalapmúzeum (Museu da Chapelaria)",
             "ro": "Muzeul Pălăriilor (Museu da Chapelaria)",
-            "en": "Hat Museum (Museu da Chapelaria)"
+            "en": "Hat Museum (Museu da Chapelaria)",
+            "pt": "Museu da Chapelaria"
           },
           "coords": [
             -8.4895,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie die reiche Geschichte der Hutmacherei in einer ehemaligen Fabrik.",
             "hu": "Ismerd meg a kalapkészítés gazdag történetét egy egykori gyárban.",
             "ro": "Descoperiți istoria bogată a fabricării pălăriilor într-o fostă fabrică.",
-            "en": "Discover the rich history of hat-making in a former factory."
+            "en": "Discover the rich history of hat-making in a former factory.",
+            "pt": "Descubra a rica história da fabricação de chapéus numa antiga fábrica."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kunstzentrum Oliva (Centro de Arte Oliva)",
             "hu": "Oliva Művészeti Központ (Centro de Arte Oliva)",
             "ro": "Centrul de Artă Oliva",
-            "en": "Oliva Art Centre (Centro de Arte Oliva)"
+            "en": "Oliva Art Centre (Centro de Arte Oliva)",
+            "pt": "Centro de Arte Oliva"
           },
           "coords": [
             -8.48,
@@ -151,7 +162,8 @@
             "de": "Moderne Kunst in einem beeindruckenden Industrieraum. Oft wechselnde Ausstellungen.",
             "hu": "Kortárs művészet egy lenyűgöző ipari térben. Gyakran változó kiállítások.",
             "ro": "Artă contemporană într-un spațiu industrial impresionant. Expoziții frecvent schimbate.",
-            "en": "Contemporary art in an impressive industrial space. Frequently changing exhibitions."
+            "en": "Contemporary art in an impressive industrial space. Frequently changing exhibitions.",
+            "pt": "Arte contemporânea num impressionante espaço industrial. Exposições em constante renovação."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Park Nossa Senhora dos Milagres",
             "hu": "Nossa Senhora dos Milagres Park",
             "ro": "Parcul Nossa Senhora dos Milagres",
-            "en": "Nossa Senhora dos Milagres Park"
+            "en": "Nossa Senhora dos Milagres Park",
+            "pt": "Parque Nossa Senhora dos Milagres"
           },
           "coords": [
             -8.479,
@@ -174,7 +187,8 @@
             "de": "Ein schöner Ort, um den Tag ausklingen zu lassen und sich nach dem Spaziergang zu entspannen.",
             "hu": "Szép hely a nap lezárásához és a séta utáni pihenéshez.",
             "ro": "Un loc frumos pentru a încheia ziua și a vă relaxa după plimbare.",
-            "en": "A lovely place to end the day and relax after your walk."
+            "en": "A lovely place to end the day and relax after your walk.",
+            "pt": "Um local encantador para terminar o dia e relaxar após a caminhada."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen der Stadt im Paços da Cultura und der nahegelegenen Hauptkirche. Am Vormittag tauchen Sie in die industrielle DNA der Stadt ein und besuchen das weltberühmte Schuhmuseum. Erklimmen Sie nach dem Mittagessen den Oliva-Turm für eine großartige Aussicht, bevor Sie im Hutmuseum eine weitere Facette der lokalen Handwerkskunst entdecken. Am Nachmittag erleben Sie im Centro de Arte Oliva zeitgenössische Kunst. Schließen Sie Ihren Tag mit einem entspannenden Spaziergang im ruhigen Park Nossa Senhora dos Milagres ab und genießen Sie die friedliche Atmosphäre.",
         "hu": "Kezdje a napot a város szívében, a Paços da Cultura-ban és a közeli főtemplomban. Délelőtt merüljön el a város ipari DNS-ében a világhírű Cipőmúzeumban. Ebéd után másszon fel az Oliva-toronyba a nagyszerű kilátásért, majd fedezze fel a helyi kézművesség egy másik oldalát a Kalapmúzeumban. Délután a Centro de Arte Oliva kortárs művészeti kiállítását tekintheti meg. Zárja a napot egy pihentető sétával a csendes Nossa Senhora dos Milagres parkban, élvezve a békés hangulatot.",
         "ro": "Începeți ziua în inima orașului la Paços da Cultura și la biserica principală din apropiere. Dimineața, pătrundeți în ADN-ul industrial al orașului la faimosul Muzeu al Încălțămintei. După prânz, urcați în Turnul Oliva pentru o priveliște superbă, înainte de a explora o altă fațetă a meșteșugului local la Muzeul Pălăriilor. După-amiaza, experimentați arta contemporană la Centrul de Artă Oliva. Încheiați ziua cu o plimbare relaxantă în liniștitul Parc Nossa Senhora dos Milagres, bucurându-vă de atmosfera pașnică.",
-        "en": "Start your day in the city's heart at Paços da Cultura and the nearby Mother Church. In the morning, delve into the city's industrial DNA at the world-renowned Footwear Museum. After lunch, climb the Oliva Tower for a great view before exploring another facet of local craftsmanship at the Hat Museum. In the afternoon, experience contemporary art at the Oliva Art Centre. Conclude your day with a relaxing stroll in the tranquil Nossa Senhora dos Milagres Park, enjoying the peaceful atmosphere."
+        "en": "Start your day in the city's heart at Paços da Cultura and the nearby Mother Church. In the morning, delve into the city's industrial DNA at the world-renowned Footwear Museum. After lunch, climb the Oliva Tower for a great view before exploring another facet of local craftsmanship at the Hat Museum. In the afternoon, experience contemporary art at the Oliva Art Centre. Conclude your day with a relaxing stroll in the tranquil Nossa Senhora dos Milagres Park, enjoying the peaceful atmosphere.",
+        "pt": "Comece o dia no coração da cidade nos Paços da Cultura e na vizinha Igreja Matriz. De manhã, mergulhe no DNA industrial da cidade no mundialmente famoso Museu do Calçado. Depois do almoço, suba à Torre da Oliva para uma excelente vista antes de explorar outra faceta do artesanato local no Museu da Chapelaria. À tarde, experiencie arte contemporânea no Centro de Arte Oliva. Conclua o dia com um passeio relaxante pelo tranquilo Parque Nossa Senhora dos Milagres, apreciando a atmosfera pacífica."
       },
       "gastro_picks": {
         "de": [
@@ -358,6 +373,12 @@
           "Most museums are closed on Mondays.",
           "Some smaller shops might close for lunch.",
           "Look for small cafés (Pastelarias) for a coffee and a pastry."
+        ],
+        "pt": [
+          "Use calçado confortável, vai andar bastante!",
+          "A maioria dos museus está fechada às segundas-feiras.",
+          "Algumas lojas mais pequenas podem fechar para almoçar.",
+          "Procure pequenas cafetarias (Pastelarias) para um café e um pastel."
         ]
       },
       "variants": {
@@ -366,7 +387,8 @@
             "de": "Morgen: Start in den Paços da Cultura, ein idealer Zufluchtsort vor dem Regen. Mittag: Besuchen Sie die beeindruckenden Schuh- und Hutmuseen, die viel Zeit im Trockenen bieten. Nachmittag: Erkunden Sie das Oliva Art Centre und die Industriegeschichte in den Galerien. Abend: Ein kurzer Spaziergang durch den Park Milagres, wenn der Regen nachlässt, beendet den Tag.",
             "hu": "Reggel: Kezdje a kultúrpalotában, amely tökéletes menedék a szemerkélő eső elől. Délben: A Cipőmúzeum és a templom felfedezése közben végig fedett helyen maradhat. Délután: Merüljön el a kalapkészítés és a modern művészet világában az Oliva negyedben. Este: Egy gyors séta a park párás ösvényein zárja ezt a tartalmas, beltéri fókuszú ipari örökségtúrát.",
             "ro": "Dimineața: Începeți la Palatul Culturii, un refugiu ideal împotriva ploii. Prânz: Vizitați Muzeul Încălțămintei, petrecând timp în interior în timp ce plouă afară. După-amiaza: Descoperiți istoria industrială la Muzeul Pălăriilor și Centrul de Artă Oliva. Seara: O scurtă plimbare prin parcul parțial protejat de arbori încheie ziua dedicată culturii locale.",
-            "en": "Morning: Start at the Palace of Culture, a perfect indoor refuge from the drizzle. Noon: Visit the extensive Footwear Museum, staying dry while exploring industrial heritage. Afternoon: Discover the history of hat-making and art in the Oliva complex's galleries. Evening: A quick walk through the misty paths of Milagres Park concludes your indoor-heavy cultural tour."
+            "en": "Morning: Start at the Palace of Culture, a perfect indoor refuge from the drizzle. Noon: Visit the extensive Footwear Museum, staying dry while exploring industrial heritage. Afternoon: Discover the history of hat-making and art in the Oliva complex's galleries. Evening: A quick walk through the misty paths of Milagres Park concludes your indoor-heavy cultural tour.",
+            "pt": "Manhã: Comece no Palácio da Cultura, um refúgio interior perfeito contra a garoa. Meio-dia: Visite o vasto Museu do Calçado, mantendo-se seco enquanto explora o património industrial. Tarde: Descubra a história da chapelaria e a arte nas galerias do complexo Oliva. Noite: Um breve passeio pelos caminhos nevoentos do Parque Milagres conclui o seu passeio cultural maioritariamente interior."
           },
           "stops": [
             {
@@ -375,7 +397,8 @@
                 "de": "Nutzen Sie die Garderobe für nasse Mäntel vor der Ausstellung.",
                 "hu": "Használja a ruhatárat a vizes kabátoknak a kiállítás előtt.",
                 "ro": "Folosiți garderoba pentru haine ude înainte de a vizita expoziția.",
-                "en": "Use the cloakroom for wet coats before browsing the exhibits."
+                "en": "Use the cloakroom for wet coats before browsing the exhibits.",
+                "pt": "Use o guarda-volumes para casacos molhados antes de percorrer as exposições."
               }
             },
             {
@@ -384,7 +407,8 @@
                 "de": "Der Portikus bietet kurzzeitig Schutz vor einem Schauer.",
                 "hu": "A templom előcsarnoka rövid menedéket nyújt a zápor elől.",
                 "ro": "Porticul oferă un scurt adăpost împotriva unei averse.",
-                "en": "The porch provides a brief shelter from a passing shower."
+                "en": "The porch provides a brief shelter from a passing shower.",
+                "pt": "O alpendre oferece abrigo breve contra uma chuvada passageira."
               }
             },
             {
@@ -393,7 +417,8 @@
                 "de": "Planen Sie hier bei starkem Regen eine längere Pause ein.",
                 "hu": "Heves eső esetén tervezzen itt hosszabb pihenőt.",
                 "ro": "Planificați o pauză mai lungă aici dacă plouă torențial.",
-                "en": "Plan a longer stay here if the rain intensifies outside."
+                "en": "Plan a longer stay here if the rain intensifies outside.",
+                "pt": "Planeie uma estadia mais longa aqui se a chuva se intensificar lá fora."
               }
             },
             {
@@ -402,7 +427,8 @@
                 "de": "Der Empfangsbereich ist trocken und bietet Stadtpläne an.",
                 "hu": "A recepció fedett, és hasznos térképeket kínál a városhoz.",
                 "ro": "Zona de recepție este uscată și oferă hărți utile.",
-                "en": "The reception area is dry and offers useful city maps."
+                "en": "The reception area is dry and offers useful city maps.",
+                "pt": "A área de receção está seca e oferece mapas úteis da cidade."
               }
             },
             {
@@ -411,7 +437,8 @@
                 "de": "Hinterlassen Sie Ihren Regenschirm am Eingang beim Personal.",
                 "hu": "Hagyja az esernyőjét a bejáratnál kialakított tárolóban.",
                 "ro": "Lăsați umbrela la suportul de la intrare.",
-                "en": "Leave your umbrella at the designated stand by the entrance."
+                "en": "Leave your umbrella at the designated stand by the entrance.",
+                "pt": "Deixe o seu guarda-chuva no suporte designado junto à entrada."
               }
             },
             {
@@ -420,7 +447,8 @@
                 "de": "Das Café im Inneren ist ein gemütlicher Ort zum Aufwärmen.",
                 "hu": "A belső kávézó hangulatos hely a melegedéshez és pihenéshez.",
                 "ro": "Cafeneaua din interior este un loc plăcut de relaxare.",
-                "en": "The indoor cafe is a cozy spot to dry off and relax."
+                "en": "The indoor cafe is a cozy spot to dry off and relax.",
+                "pt": "O café interior é um local acolhedor para secar e relaxar."
               }
             },
             {
@@ -429,7 +457,8 @@
                 "de": "Vorsicht vor rutschigen Steinen auf den Waldwegen.",
                 "hu": "Vigyázat, az erdei utakon a kövek csúszósak lehetnek.",
                 "ro": "Atenție la pietrele alunecoase de pe aleile parcului.",
-                "en": "Watch out for slippery stones on the park's wooded paths."
+                "en": "Watch out for slippery stones on the park's wooded paths.",
+                "pt": "Cuidado com as pedras escorregadias nos caminhos arborizados do parque."
               }
             }
           ],
@@ -457,6 +486,12 @@
               "Museums are close by, but a sturdy umbrella is highly recommended.",
               "Take advantage of the extensive museum interiors to escape downpours.",
               "The Oliva complex offers some covered walkways between buildings."
+            ],
+            "pt": [
+              "Use calçado impermeável, pois a calçada portuguesa fica escorregadia.",
+              "Os museus estão próximos, mas um guarda-chuva resistente é altamente recomendado.",
+              "Aproveite os amplos interiores dos museus para escapar às chuvadas.",
+              "O complexo Oliva oferece algumas passagens cobertas entre edifícios."
             ]
           }
         },
@@ -465,7 +500,8 @@
             "de": "Morgen: Beginnen Sie den kühlen Morgen in den warmen Sälen des Kulturpalastes. Mittag: Genießen Sie die Industriegeschichte im Schuhmuseum bei mildem Winterlicht. Nachmittag: Die Hut- und Kunstmuseen bieten gemütliche Innenräume fernab der Brise. Abend: Beenden Sie den Tag im Park Milagres, wenn die Dämmerung in São João da Madeira früh einsetzt.",
             "hu": "Reggel: Kezdje a hűvös napot a kultúrpalota fűtött termeiben. Délben: Fedezze fel a Cipőmúzeum gyűjteményét, élvezve a téli napsütést a nagy ablakokon át. Délután: A Kalapmúzeum és az Art Centre kiváló menedéket nyújt a hűvös szél elől. Este: Zárja a napot a parkban, mielőtt a téli szürkület korán leszállna a városra.",
             "ro": "Dimineața: Începeți ziua răcoroasă în sălile încălzite ale Palatului Culturii. Prânz: Explorați Muzeul Încălțămintei, bucurându-vă de lumina blândă de iarnă. După-amiaza: Muzeul Pălăriilor și Centrul Oliva oferă interioare primitoare și calde. Seara: Încheiați plimbarea în parc înainte de lăsarea timpurie a întunericului.",
-            "en": "Morning: Start the chilly morning in the heated halls of the Palace of Culture. Noon: Enjoy the Shoe Museum's vast collections in the soft winter light. Afternoon: The Hat Museum and Oliva Art Centre provide cozy interiors away from the breeze. Evening: Finish your tour at Milagres Park as the winter twilight sets in early over the town."
+            "en": "Morning: Start the chilly morning in the heated halls of the Palace of Culture. Noon: Enjoy the Shoe Museum's vast collections in the soft winter light. Afternoon: The Hat Museum and Oliva Art Centre provide cozy interiors away from the breeze. Evening: Finish your tour at Milagres Park as the winter twilight sets in early over the town.",
+            "pt": "Manhã: Comece a manhã fria nos salões aquecidos do Palácio da Cultura. Meio-dia: Desfrute das vastas colecções do Museu do Calçado com a suave luz de inverno. Tarde: O Museu da Chapelaria e o Centro de Arte Oliva proporcionam interiores acolhedores, à distância da brisa. Noite: Termine o seu roteiro no Parque Milagres quando o crepúsculo de inverno desce cedo sobre a vila."
           },
           "stops": [
             {
@@ -474,7 +510,8 @@
                 "de": "Die Cafeteria bietet im Winter heiße Schokolade an.",
                 "hu": "A kávézóban télen kiváló forró csokoládét mérnek.",
                 "ro": "Cafeneaua servește ciocolată caldă excelentă iarna.",
-                "en": "The cafeteria serves great hot chocolate during winter."
+                "en": "The cafeteria serves great hot chocolate during winter.",
+                "pt": "A cafetaria serve um excelente chocolate quente durante o inverno."
               }
             },
             {
@@ -483,7 +520,8 @@
                 "de": "Im Inneren ist es oft kühler als draußen; behalten Sie den Mantel an.",
                 "hu": "Odabent gyakran hűvösebb van, mint kint; tartsa magán a kabátot.",
                 "ro": "Interiorul este adesea mai răcoros; păstrați haina pe dvs.",
-                "en": "The interior is often cooler than outside; keep your coat on."
+                "en": "The interior is often cooler than outside; keep your coat on.",
+                "pt": "O interior é muitas vezes mais fresco do que o exterior; mantenha o casaco vestido."
               }
             },
             {
@@ -492,7 +530,8 @@
                 "de": "Nutzen Sie die hellen Fensterbereiche für die besten Fotos.",
                 "hu": "Használja a világos ablakos részeket a legjobb fotókhoz.",
                 "ro": "Folosiți zonele luminate de lângă ferestre pentru fotografii.",
-                "en": "Use the bright window areas for the best photos in low light."
+                "en": "Use the bright window areas for the best photos in low light.",
+                "pt": "Use as áreas junto às janelas para as melhores fotos com pouca luz."
               }
             },
             {
@@ -501,7 +540,8 @@
                 "de": "Kurzer Stopp für Infos, bevor es zurück in die Kälte geht.",
                 "hu": "Gyors tájékozódás bent, mielőtt visszatérne a hűvös utcára.",
                 "ro": "Oprire scurtă pentru info înainte de a ieși iar în frig.",
-                "en": "Quick stop for info before heading back into the cold air."
+                "en": "Quick stop for info before heading back into the cold air.",
+                "pt": "Paragem rápida para obter informação antes de voltar ao ar frio."
               }
             },
             {
@@ -510,7 +550,8 @@
                 "de": "Der Shop bietet hochwertige Wollhüte für die kalte Jahreszeit.",
                 "hu": "A múzeumi boltban minőségi gyapjúkalapokat vehet télre.",
                 "ro": "Magazinul oferă pălării de lână de calitate pentru iarnă.",
-                "en": "The shop sells high-quality wool hats for the cold season."
+                "en": "The shop sells high-quality wool hats for the cold season.",
+                "pt": "A loja vende chapéus de lã de alta qualidade para a época fria."
               }
             },
             {
@@ -519,7 +560,8 @@
                 "de": "Die Galerien sind gut beheizt und laden zum langen Verweilen ein.",
                 "hu": "A galériák jól fűtöttek, ideálisak a hosszabb nézelődéshez.",
                 "ro": "Galeriile sunt bine încălzite și invită la o vizită lungă.",
-                "en": "The galleries are well-heated and perfect for a long visit."
+                "en": "The galleries are well-heated and perfect for a long visit.",
+                "pt": "As galerias são bem aquecidas e perfeitas para uma visita longa."
               }
             },
             {
@@ -528,7 +570,8 @@
                 "de": "Besuchen Sie den Park vor 17:00 Uhr, um das Tageslicht zu nutzen.",
                 "hu": "Látogasson el ide 17:00 előtt, hogy kihasználja a maradék fényt.",
                 "ro": "Vizitați parcul înainte de ora 17:00 pentru a avea lumină.",
-                "en": "Visit the park before 17:00 to catch the remaining daylight."
+                "en": "Visit the park before 17:00 to catch the remaining daylight.",
+                "pt": "Visite o parque antes das 17:00 para apanhar a luz diurna restante."
               }
             }
           ],
@@ -556,6 +599,12 @@
               "Sunset is around 17:30, so prioritize the park visit earlier in the day.",
               "Try a 'Galão' (latte) at a local pastry shop to warm up between stops.",
               "Winter here is damp; a light windproof jacket is usually sufficient."
+            ],
+            "pt": [
+              "Vestuário em camadas: os museus são quentes, mas as ruas podem estar ventosas.",
+              "O pôr do sol é por volta das 17:30, por isso priorize a visita ao parque mais cedo.",
+              "Experimente um 'Galão' numa pastelaria local para se aquecer entre paragens.",
+              "O inverno aqui é húmido; um corta-vento leve costuma ser suficiente."
             ]
           }
         }
@@ -574,7 +623,8 @@
             "de": "Parque de Nossa Senhora dos Milagres",
             "hu": "Nossa Senhora dos Milagres Park",
             "ro": "Parcul Nossa Senhora dos Milagres",
-            "en": "Nossa Senhora dos Milagres Park"
+            "en": "Nossa Senhora dos Milagres Park",
+            "pt": "Parque Nossa Senhora dos Milagres"
           },
           "coords": [
             -8.479,
@@ -589,7 +639,8 @@
             "de": "Beginnen Sie den Tag mit einer ruhigen Radtour durch diesen schönen Stadtpark.",
             "hu": "Kezdd a napot egy nyugodt biciklizéssel ebben a szép városi parkban.",
             "ro": "Începeți ziua cu o plimbare liniștită cu bicicleta prin acest frumos parc urban.",
-            "en": "Start the day with a quiet bike ride through this beautiful city park."
+            "en": "Start the day with a quiet bike ride through this beautiful city park.",
+            "pt": "Comece o dia com um passeio de bicicleta tranquilo por este belo parque urbano."
           }
         },
         {
@@ -597,7 +648,8 @@
             "de": "Kunstzentrum Oliva (Centro de Arte Oliva)",
             "hu": "Oliva Művészeti Központ (Centro de Arte Oliva)",
             "ro": "Centrul de Artă Oliva",
-            "en": "Oliva Art Centre (Centro de Arte Oliva)"
+            "en": "Oliva Art Centre (Centro de Arte Oliva)",
+            "pt": "Centro de Arte Oliva"
           },
           "coords": [
             -8.48,
@@ -612,7 +664,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die zeitgenössische Kunst.",
             "hu": "Tedd le a biciklit és élvezd a kortárs művészetet.",
             "ro": "Parcați bicicleta și bucurați-vă de arta contemporană.",
-            "en": "Park your bike and enjoy the contemporary art."
+            "en": "Park your bike and enjoy the contemporary art.",
+            "pt": "Estacione a bicicleta e desfrute da arte contemporânea."
           }
         },
         {
@@ -620,7 +673,8 @@
             "de": "Viarco Bleistiftfabrik",
             "hu": "Viarco Ceruzagyár",
             "ro": "Fabrica de creioane Viarco",
-            "en": "Viarco Pencil Factory"
+            "en": "Viarco Pencil Factory",
+            "pt": "Fábrica de Lápis Viarco"
           },
           "coords": [
             -8.477,
@@ -635,7 +689,8 @@
             "de": "Ein kurzer Abstecher zur einzigen Bleistiftfabrik Portugals. Der Shop ist einen Besuch wert.",
             "hu": "Egy rövid kitérő Portugália egyetlen ceruzagyárához. A bolt megér egy látogatást.",
             "ro": "Un scurt ocol la singura fabrică de creioane din Portugalia. Magazinul merită vizitat.",
-            "en": "A short detour to Portugal's only pencil factory. The shop is worth a visit."
+            "en": "A short detour to Portugal's only pencil factory. The shop is worth a visit.",
+            "pt": "Um desvio curto até à única fábrica de lápis de Portugal. A loja vale a pena a visita."
           }
         },
         {
@@ -643,7 +698,8 @@
             "de": "Hutmuseum (Museu da Chapelaria)",
             "hu": "Kalapmúzeum (Museu da Chapelaria)",
             "ro": "Muzeul Pălăriilor (Museu da Chapelaria)",
-            "en": "Hat Museum (Museu da Chapelaria)"
+            "en": "Hat Museum (Museu da Chapelaria)",
+            "pt": "Museu da Chapelaria"
           },
           "coords": [
             -8.4895,
@@ -658,7 +714,8 @@
             "de": "Entdecken Sie eine andere traditionelle Industrie der Stadt.",
             "hu": "Fedezd fel a város egy másik hagyományos iparágát.",
             "ro": "Descoperiți o altă industrie tradițională a orașului.",
-            "en": "Discover another of the city's traditional industries."
+            "en": "Discover another of the city's traditional industries.",
+            "pt": "Descubra outra das indústrias tradicionais da cidade."
           }
         },
         {
@@ -666,7 +723,8 @@
             "de": "Paços da Cultura",
             "hu": "Kultúrpalota (Paços da Cultura)",
             "ro": "Palatul Culturii (Paços da Cultura)",
-            "en": "Palace of Culture (Paços da Cultura)"
+            "en": "Palace of Culture (Paços da Cultura)",
+            "pt": "Palácio da Cultura (Paços da Cultura)"
           },
           "coords": [
             -8.4961,
@@ -681,7 +739,8 @@
             "de": "Ein moderner Kontrapunkt zur industriellen Geschichte.",
             "hu": "Modern ellenpont az ipari történelemhez.",
             "ro": "Un contrapunct modern la istoria industrială.",
-            "en": "A modern counterpoint to the industrial history."
+            "en": "A modern counterpoint to the industrial history.",
+            "pt": "Um contraponto moderno à história industrial."
           }
         },
         {
@@ -689,7 +748,8 @@
             "de": "Schuhmuseum (Museu do Calçado)",
             "hu": "Cipőmúzeum (Museu do Calçado)",
             "ro": "Muzeul Încălțămintei (Museu do Calçado)",
-            "en": "Footwear Museum (Museu do Calçado)"
+            "en": "Footwear Museum (Museu do Calçado)",
+            "pt": "Museu do Calçado"
           },
           "coords": [
             -8.493,
@@ -704,7 +764,8 @@
             "de": "Heben Sie sich das Hauptereignis für den Nachmittag auf. Planen Sie genügend Zeit ein!",
             "hu": "Hagyd a fő attrakciót délutánra. Tervezz elég időt!",
             "ro": "Lăsați atracția principală pentru după-amiază. Alocați suficient timp!",
-            "en": "Save the main event for the afternoon. Plan plenty of time!"
+            "en": "Save the main event for the afternoon. Plan plenty of time!",
+            "pt": "Guarde o evento principal para a tarde. Planeie bastante tempo!"
           }
         },
         {
@@ -712,7 +773,8 @@
             "de": "Turm von Oliva (Torre da Oliva)",
             "hu": "Oliva-torony (Torre da Oliva)",
             "ro": "Turnul Oliva (Turnul Oliva)",
-            "en": "Oliva Tower (Torre da Oliva)"
+            "en": "Oliva Tower (Torre da Oliva)",
+            "pt": "Torre da Oliva"
           },
           "coords": [
             -8.4918,
@@ -727,7 +789,8 @@
             "de": "Beenden Sie Ihre Radtour mit dem besten Blick auf die Stadt bei Sonnenuntergang.",
             "hu": "Fejezd be a biciklitúrát a város legjobb naplementés kilátásával.",
             "ro": "Încheiați turul cu bicicleta cu cea mai bună priveliște a orașului la apus.",
-            "en": "End your bike tour with the best view of the city at sunset."
+            "en": "End your bike tour with the best view of the city at sunset.",
+            "pt": "Termine o seu passeio de bicicleta com a melhor vista da cidade ao pôr do sol."
           }
         }
       ],
@@ -735,7 +798,8 @@
         "de": "Starten Sie Ihre Radtour im grünen Parque de Nossa Senhora dos Milagres. Von dort aus radeln Sie zum Centro de Arte Oliva und machen einen kurzen Halt bei der Viarco-Bleistiftfabrik. Am Vormittag erkunden Sie das Hutmuseum, bevor Sie sich dem modernen Paços da Cultura zuwenden. Der Nachmittag ist ganz dem industriellen Erbe gewidmet: Tauchen Sie tief in die Welt der Schuhe im Schuhmuseum ein. Zum Abschluss des Tages erklimmen Sie den Torre da Oliva und genießen den Panoramablick bei Sonnenuntergang.",
         "hu": "Kezdje a kerékpártúrát a zöldellő Parque de Nossa Senhora dos Milagres-ben. Onnan tekerjen el a Centro de Arte Oliva-hoz, egy rövid megállóval a Viarco ceruzagyárnál. Délelőtt fedezze fel a Kalapmúzeumot, mielőtt a modern Paços da Cultura felé veszi az irányt. A délután teljes egészében az ipari örökségé: merüljön el a cipők világában a Cipőmúzeumban. A nap végén másszon fel a Torre da Oliva-ra, és élvezze a panorámát naplementekor.",
         "ro": "Începeți turul cu bicicleta în înverzinatul Parc de Nossa Senhora dos Milagres. De acolo, pedalați spre Centrul de Artă Oliva, cu o scurtă oprire la fabrica de creioane Viarco. Dimineața, explorați Muzeul Pălăriilor înainte de a vă îndrepta spre modernul Paços da Cultura. După-amiaza este dedicată în întregime moștenirii industriale: scufundați-vă în lumea încălțămintei la Muzeul Încălțămintei. La finalul zilei, urcați în Turnul Oliva și bucurați-vă de vederea panoramică la apus.",
-        "en": "Start your bike tour in the green Parque de Nossa Senhora dos Milagres. From there, cycle to the Centro de Arte Oliva, with a quick stop at the Viarco pencil factory. In the morning, explore the Hat Museum before heading to the modern Paços da Cultura. The afternoon is entirely dedicated to the industrial heritage: dive deep into the world of shoes at the Footwear Museum. To end the day, climb the Torre da Oliva and enjoy the panoramic view at sunset."
+        "en": "Start your bike tour in the green Parque de Nossa Senhora dos Milagres. From there, cycle to the Centro de Arte Oliva, with a quick stop at the Viarco pencil factory. In the morning, explore the Hat Museum before heading to the modern Paços da Cultura. The afternoon is entirely dedicated to the industrial heritage: dive deep into the world of shoes at the Footwear Museum. To end the day, climb the Torre da Oliva and enjoy the panoramic view at sunset.",
+        "pt": "Comece o seu passeio de bicicleta no verde Parque de Nossa Senhora dos Milagres. A partir daí, pedale até ao Centro de Arte Oliva, com uma breve paragem na fábrica de lápis Viarco. De manhã, explore o Museu da Chapelaria antes de se dirigir aos modernos Paços da Cultura. A tarde é inteiramente dedicada ao património industrial: mergulhe no mundo do calçado no Museu do Calçado. Para terminar o dia, suba à Torre da Oliva e desfrute da vista panorâmica ao pôr do sol."
       },
       "gastro_picks": {
         "de": [
@@ -911,6 +975,12 @@
           "Some central streets can be cobblestoned, ride carefully.",
           "Use bike racks near the main attractions.",
           "A water bottle is essential."
+        ],
+        "pt": [
+          "Verifique a sua bicicleta antes de partir.",
+          "Algumas ruas centrais podem ter calçada; pedale com cuidado.",
+          "Use os suportes para bicicletas junto às principais atrações.",
+          "Uma garrafa de água é essencial."
         ]
       },
       "variants": {
@@ -919,7 +989,8 @@
             "de": "Morgen: Radeln Sie vorsichtig zum Park, während die Bäume etwas Schutz bieten. Mittag: Machen Sie lange Pausen in der Oliva-Gegend und im Schuhmuseum. Nachmittag: Besuchen Sie die Bleistiftfabrik und das Hutmuseum, während das Fahrrad sicher und trocken parkt. Abend: Eine zügige Rückfahrt durch die beleuchteten, regnerischen Straßen.",
             "hu": "Reggel: Óvatos tekerés a parkba, ahol a fák némi védelmet nyújtanak. Délben: Tartson hosszabb pihenőket az Oliva negyedben és a Cipőmúzeumban. Délután: Látogasson el a Viarco ceruzagyárba és a Kalapmúzeumba, amíg a bicikli fedett helyen áll. Este: Gyors tempójú visszatérés a kivilágított, esős városi utcákon.",
             "ro": "Dimineața: Pedalați cu atenție spre parc, arborii oferind puțină protecție. Prânz: Faceți pauze lungi în zona Oliva și la Muzeul Încălțămintei. După-amiaza: Vizitați fabrica de creioane Viarco și Muzeul Pălăriilor. Seara: O întoarcere rapidă pe străzile luminate și umede ale orașului.",
-            "en": "Morning: Cycle carefully to the park where trees offer some natural cover. Noon: Take long breaks at the Oliva Art Centre and the Shoe Museum. Afternoon: Visit the Viarco factory and the Hat Museum while keeping your bike parked securely. Evening: A brisk ride back through the illuminated, rainy city streets."
+            "en": "Morning: Cycle carefully to the park where trees offer some natural cover. Noon: Take long breaks at the Oliva Art Centre and the Shoe Museum. Afternoon: Visit the Viarco factory and the Hat Museum while keeping your bike parked securely. Evening: A brisk ride back through the illuminated, rainy city streets.",
+            "pt": "Manhã: Pedale com cuidado até ao parque, onde as árvores oferecem alguma cobertura natural. Meio-dia: Faça longas pausas no Centro de Arte Oliva e no Museu do Calçado. Tarde: Visite a fábrica Viarco e o Museu da Chapelaria enquanto mantém a bicicleta bem estacionada. Noite: Um regresso vigoroso pelas ruas iluminadas e chuvosas da cidade."
           },
           "stops": [
             {
@@ -928,7 +999,8 @@
                 "de": "Vorsicht bei Kurven; nasses Laub macht Wege extrem rutschig.",
                 "hu": "Vigyázzon a kanyarokban; a vizes levelek csúszóssá teszik az utat.",
                 "ro": "Atenție în curbe; frunzele ude fac aleile foarte alunecoase.",
-                "en": "Be careful in turns; wet leaves make the paths very slippery."
+                "en": "Be careful in turns; wet leaves make the paths very slippery.",
+                "pt": "Tenha cuidado nas curvas; as folhas molhadas tornam os caminhos muito escorregadios."
               }
             },
             {
@@ -937,7 +1009,8 @@
                 "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
                 "hu": "Fedett kerékpártárolók találhatók a főbejárat közelében.",
                 "ro": "Suporturile acoperite de biciclete sunt lângă intrare.",
-                "en": "Covered bike racks are located near the main entrance."
+                "en": "Covered bike racks are located near the main entrance.",
+                "pt": "Existem suportes cobertos para bicicletas junto à entrada principal."
               }
             },
             {
@@ -946,7 +1019,8 @@
                 "de": "Fragen Sie am Empfang, ob Sie Ihr Rad im Innenhof parken dürfen.",
                 "hu": "Kérdezze meg a recepción, leállíthatja-e a gépet a belső udvaron.",
                 "ro": "Întrebați la recepție dacă puteți parca în curtea interioară.",
-                "en": "Ask at reception if you can park your bike in the inner courtyard."
+                "en": "Ask at reception if you can park your bike in the inner courtyard.",
+                "pt": "Pergunte na receção se pode estacionar a sua bicicleta no pátio interior."
               }
             },
             {
@@ -955,7 +1029,8 @@
                 "de": "Nutzen Sie den Museumsbesuch, um Ihre Regenbekleidung zu trocknen.",
                 "hu": "Használja ki a múzeumi időt a vizes ruhák megszárítására.",
                 "ro": "Folosiți timpul vizitei pentru a vă usca pelerina de ploaie.",
-                "en": "Use the museum visit time to dry off your rain gear."
+                "en": "Use the museum visit time to dry off your rain gear.",
+                "pt": "Aproveite o tempo da visita ao museu para secar a sua roupa de chuva."
               }
             },
             {
@@ -964,7 +1039,8 @@
                 "de": "Guter Stopp für eine warme Pause in der Stadtmitte.",
                 "hu": "Kiváló hely egy melegedő pihenőhöz a városközpontban.",
                 "ro": "Un loc bun pentru o pauză caldă în centrul orașului.",
-                "en": "A great spot for a warm break in the city centre."
+                "en": "A great spot for a warm break in the city centre.",
+                "pt": "Um excelente local para uma pausa quente no centro da cidade."
               }
             },
             {
@@ -973,7 +1049,8 @@
                 "de": "Wischen Sie den Sattel trocken, bevor Sie wieder losfahren.",
                 "hu": "Törölje szárazra a nyerget, mielőtt továbbindulna.",
                 "ro": "Ștergeți șaua înainte de a pleca mai departe.",
-                "en": "Wipe your saddle dry before heading to the next stop."
+                "en": "Wipe your saddle dry before heading to the next stop.",
+                "pt": "Seque o selim antes de seguir para a próxima paragem."
               }
             },
             {
@@ -982,7 +1059,8 @@
                 "de": "Prüfen Sie Ihre Bremsen; das Gefälle kann hier rutschig sein.",
                 "hu": "Ellenőrizze a fékeket; a lejtő itt csúszós lehet esőben.",
                 "ro": "Verificați frânele; panta poate fi alunecoasă pe ploaie.",
-                "en": "Check your brakes; the slope here can be slippery when wet."
+                "en": "Check your brakes; the slope here can be slippery when wet.",
+                "pt": "Verifique os travões; a inclinação aqui pode ficar escorregadia quando molhada."
               }
             }
           ],
@@ -1010,6 +1088,12 @@
               "Use mudguards to prevent splashes from the wet roads.",
               "Brake early and avoid sudden steering maneuvers on wet tiles.",
               "Wear high-visibility rain gear to be seen by motorists."
+            ],
+            "pt": [
+              "A calçada portuguesa é extremamente escorregadia para bicicletas na chuva.",
+              "Use guarda-lamas para evitar respingos nas estradas molhadas.",
+              "Travagem antecipada e evite manobras bruscas de direção em lajotas molhadas.",
+              "Use roupa de chuva de alta visibilidade para ser visto pelos automobilistas."
             ]
           }
         },
@@ -1018,7 +1102,8 @@
             "de": "Morgen: Eine frische Fahrt durch den Park Milagres weckt die Lebensgeister. Mittag: Nutzen Sie das Tageslicht für die Strecke zwischen dem Kunstzentrum und der Viarco-Fabrik. Nachmittag: Erkunden Sie die Museen, während Sie Ihre Hände im Inneren aufwärmen. Abend: Schalten Sie die Lichter früh ein, wenn Sie durch das dämmerige São João radeln.",
             "hu": "Reggel: Egy frissítő tekerés a Milagres parkban felébreszti az érzékeit. Délben: Használja ki a nappali fényt az Art Centre és a Viarco gyár közötti szakaszon. Délután: Fedezze fel a múzeumokat, miközben bent felmelegíti a kezeit. Este: Kapcsolja be korán a lámpákat, ahogy a szürkületben teker át a városon.",
             "ro": "Dimineața: O plimbare răcoroasă prin parcul Milagres vă va trezi simțurile. Prânz: Profitați de lumina zilei pentru traseul dintre Centrul de Artă și fabrica Viarco. După-amiaza: Explorați muzeele și încălziți-vă în interior. Seara: Aprindeți luminile devreme pentru drumul prin orașul intrat în amurg.",
-            "en": "Morning: A crisp ride through Milagres Park will wake up your senses. Noon: Use the daylight for the stretch between the Art Centre and the Viarco factory. Afternoon: Explore the museums while warming up your hands indoors. Evening: Turn on your lights early as you cycle through the darkening streets of São João."
+            "en": "Morning: A crisp ride through Milagres Park will wake up your senses. Noon: Use the daylight for the stretch between the Art Centre and the Viarco factory. Afternoon: Explore the museums while warming up your hands indoors. Evening: Turn on your lights early as you cycle through the darkening streets of São João.",
+            "pt": "Manhã: Um passeio revigorante pelo Parque Milagres despertará os seus sentidos. Meio-dia: Aproveite a luz do dia para o troço entre o Centro de Arte e a fábrica Viarco. Tarde: Explore os museus enquanto aquece as mãos no interior. Noite: Ligue as luzes cedo ao pedalar pelas ruas de São João que escurecem."
           },
           "stops": [
             {
@@ -1027,7 +1112,8 @@
                 "de": "Die Luft im Wald ist im Winter sehr erfrischend; warm anziehen.",
                 "hu": "Az erdei levegő télen nagyon frissítő; öltözzön melegen.",
                 "ro": "Aerul din pădure este foarte revigorant iarna; îmbrăcați-vă bine.",
-                "en": "The forest air is very refreshing in winter; dress warmly."
+                "en": "The forest air is very refreshing in winter; dress warmly.",
+                "pt": "O ar da floresta é muito revigorante no inverno; vista-se bem quente."
               }
             },
             {
@@ -1036,7 +1122,8 @@
                 "de": "Sichern Sie Ihr Rad und genießen Sie die warme Ausstellung.",
                 "hu": "Zárja le a biciklit, és élvezze a fűtött kiállítóteret.",
                 "ro": "Asigurați bicicleta și bucurați-vă de expoziția încălzită.",
-                "en": "Lock your bike and enjoy the well-heated exhibition space."
+                "en": "Lock your bike and enjoy the well-heated exhibition space.",
+                "pt": "Tranque a sua bicicleta e desfrute do espaço expositivo bem aquecido."
               }
             },
             {
@@ -1045,7 +1132,8 @@
                 "de": "Die Werksführung ist eine tolle Aufwärmpause.",
                 "hu": "A gyárlátogatás remek alkalom a felmelegedésre.",
                 "ro": "Turul fabricii este o ocazie excelentă de a vă încălzi.",
-                "en": "The factory tour is a great way to warm up during the day."
+                "en": "The factory tour is a great way to warm up during the day.",
+                "pt": "A visita à fábrica é uma excelente forma de aquecer durante o dia."
               }
             },
             {
@@ -1054,7 +1142,8 @@
                 "de": "Besuchen Sie den Shop für warme Kopfbedeckungen.",
                 "hu": "Nézzen be a boltba meleg téli fejfedőkért.",
                 "ro": "Vizitați magazinul pentru căciuli și pălării călduroase.",
-                "en": "Check the shop for warm winter hats and headgear."
+                "en": "Check the shop for warm winter hats and headgear.",
+                "pt": "Consulte a loja para chapéus de inverno e proteções de cabeça quentes."
               }
             },
             {
@@ -1063,7 +1152,8 @@
                 "de": "Ein zentraler Ort für eine kurze Teepause.",
                 "hu": "Központi helyszín egy rövid teaszünethez.",
                 "ro": "Un loc central pentru o scurtă pauză de ceai.",
-                "en": "A central location for a quick tea or coffee break."
+                "en": "A central location for a quick tea or coffee break.",
+                "pt": "Uma localização central para uma pausa rápida para chá ou café."
               }
             },
             {
@@ -1072,7 +1162,8 @@
                 "de": "Lassen Sie Ihre Handschuhe an der Garderobe.",
                 "hu": "Hagyja a kesztyűit a ruhatárban a látogatás idejére.",
                 "ro": "Lăsați mănușile la garderobă pe durata vizitei.",
-                "en": "Leave your gloves at the cloakroom during your visit."
+                "en": "Leave your gloves at the cloakroom during your visit.",
+                "pt": "Deixe as suas luvas no guarda-volumes durante a visita."
               }
             },
             {
@@ -1081,7 +1172,8 @@
                 "de": "Prüfen Sie vor der Abfahrt den Reifendruck; Kälte beeinflusst ihn.",
                 "hu": "Indulás előtt ellenőrizze a guminyomást; a hideg hatással van rá.",
                 "ro": "Verificați presiunea roților; frigul o poate influența.",
-                "en": "Check your tire pressure; the cold can affect it significantly."
+                "en": "Check your tire pressure; the cold can affect it significantly.",
+                "pt": "Verifique a pressão dos pneus; o frio pode afetá‑la significativamente."
               }
             }
           ],
@@ -1109,6 +1201,12 @@
               "Front and rear lights are mandatory after 17:00.",
               "The winter sun is low; sunglasses help against glare while cycling.",
               "S. João da Madeira has steep sections; keep your muscles warm."
+            ],
+            "pt": [
+              "Use luvas corta‑vento nas secções de descida.",
+              "Luzes dianteira e traseira são obrigatórias após as 17:00.",
+              "O sol de inverno fica baixo; óculos de sol ajudam contra o brilho ao pedalar.",
+              "S. João da Madeira tem troços íngremes; mantenha os músculos aquecidos."
             ]
           }
         }
@@ -1127,7 +1225,8 @@
             "de": "Cluster 1: Kunst & Park",
             "hu": "1. csoport: Művészet és park",
             "ro": "Cluster 1: Artă & Parc",
-            "en": "Cluster 1: Art & Park"
+            "en": "Cluster 1: Art & Park",
+            "pt": "Aglomerado 1: Arte & Parque"
           },
           "coords": [
             -8.479,
@@ -1143,7 +1242,8 @@
             "de": "Parken Sie in der Nähe des Parque de Nossa Senhora dos Milagres und beginnen Sie den Tag entspannt.",
             "hu": "Parkolj a Parque de Nossa Senhora dos Milagres közelében, és kezdd a napot nyugodtan.",
             "ro": "Parcați lângă Parcul Nossa Senhora dos Milagres și începeți ziua relaxat.",
-            "en": "Park near the Parque de Nossa Senhora dos Milagres and start the day relaxed."
+            "en": "Park near the Parque de Nossa Senhora dos Milagres and start the day relaxed.",
+            "pt": "Estacione perto do Parque de Nossa Senhora dos Milagres e comece o dia relaxado."
           }
         },
         {
@@ -1151,7 +1251,8 @@
             "de": "Kunstzentrum Oliva (Centro de Arte Oliva)",
             "hu": "Oliva Művészeti Központ (Centro de Arte Oliva)",
             "ro": "Centrul de Artă Oliva",
-            "en": "Oliva Art Centre (Centro de Arte Oliva)"
+            "en": "Oliva Art Centre (Centro de Arte Oliva)",
+            "pt": "Oliva Art Centre (Centro de Arte Oliva)"
           },
           "coords": [
             -8.48,
@@ -1167,7 +1268,8 @@
             "de": "Ein kurzer Spaziergang vom Park zum beeindruckenden Kunstzentrum.",
             "hu": "Rövid séta a parktól a lenyűgöző művészeti központig.",
             "ro": "O scurtă plimbare de la parc la impresionantul centru de artă.",
-            "en": "A short walk from the park to the impressive art centre."
+            "en": "A short walk from the park to the impressive art centre.",
+            "pt": "Uma curta caminhada do parque até ao impressionante centro de arte."
           }
         },
         {
@@ -1175,7 +1277,8 @@
             "de": "Cluster 2: Industrie & Handwerk",
             "hu": "2. csoport: Ipar és kézművesség",
             "ro": "Cluster 2: Industrie & Meșteșug",
-            "en": "Cluster 2: Industry & Crafts"
+            "en": "Cluster 2: Industry & Crafts",
+            "pt": "Aglomerado 2: Indústria & Artesanato"
           },
           "coords": [
             -8.4895,
@@ -1191,7 +1294,8 @@
             "de": "Fahren Sie zum Hutmuseum und parken Sie dort. Dies ist der Ausgangspunkt für den Industrie-Cluster.",
             "hu": "Vezess a Kalapmúzeumhoz és parkolj le. Ez az ipari klaszter kiindulópontja.",
             "ro": "Conduceți la Muzeul Pălăriilor și parcați. Acesta este punctul de plecare pentru clusterul industrial.",
-            "en": "Drive to the Hat Museum and park. This is the starting point for the industrial cluster."
+            "en": "Drive to the Hat Museum and park. This is the starting point for the industrial cluster.",
+            "pt": "Desloque‑se de carro até ao Museu da Chapelaria e estacione. Este é o ponto de partida do aglomerado industrial."
           }
         },
         {
@@ -1199,7 +1303,8 @@
             "de": "Schuhmuseum (Museu do Calçado)",
             "hu": "Cipőmúzeum (Museu do Calçado)",
             "ro": "Muzeul Încălțămintei (Museu do Calçado)",
-            "en": "Footwear Museum (Museu do Calçado)"
+            "en": "Footwear Museum (Museu do Calçado)",
+            "pt": "Museu do Calçado (Footwear Museum)"
           },
           "coords": [
             -8.493,
@@ -1215,7 +1320,8 @@
             "de": "Das Herzstück der Stadt. Der Spaziergang vom Hutmuseum ist kurz.",
             "hu": "A város szíve. A séta a Kalapmúzeumtól rövid.",
             "ro": "Inima orașului. Plimbarea de la Muzeul Pălăriilor este scurtă.",
-            "en": "The heart of the city. The walk from the Hat Museum is short."
+            "en": "The heart of the city. The walk from the Hat Museum is short.",
+            "pt": "O coração da cidade. A caminhada desde o Museu da Chapelaria é curta."
           }
         },
         {
@@ -1223,7 +1329,8 @@
             "de": "Turm von Oliva (Torre da Oliva)",
             "hu": "Oliva-torony (Torre da Oliva)",
             "ro": "Turnul Oliva (Torre da Oliva)",
-            "en": "Oliva Tower (Torre da Oliva)"
+            "en": "Oliva Tower (Torre da Oliva)",
+            "pt": "Oliva Tower (Torre da Oliva)"
           },
           "coords": [
             -8.4918,
@@ -1239,7 +1346,8 @@
             "de": "Direkt neben dem Schuhmuseum, perfekt für einen schnellen Panoramablick.",
             "hu": "Közvetlenül a Cipőmúzeum mellett, tökéletes egy gyors panorámaképhez.",
             "ro": "Chiar lângă Muzeul Încălțămintei, perfect pentru o priveliște panoramică rapidă.",
-            "en": "Right next to the Footwear Museum, perfect for a quick panoramic view."
+            "en": "Right next to the Footwear Museum, perfect for a quick panoramic view.",
+            "pt": "Mesmo ao lado do Museu do Calçado, perfeito para uma rápida vista panorâmica."
           }
         },
         {
@@ -1247,7 +1355,8 @@
             "de": "Cluster 3: Historisches Zentrum",
             "hu": "3. csoport: Történelmi központ",
             "ro": "Cluster 3: Centrul Istoric",
-            "en": "Cluster 3: Historic Centre"
+            "en": "Cluster 3: Historic Centre",
+            "pt": "Aglomerado 3: Centro Histórico"
           },
           "coords": [
             -8.4961,
@@ -1263,7 +1372,8 @@
             "de": "Fahren Sie ein letztes Mal ins Zentrum und parken Sie in der Nähe des Paços da Cultura.",
             "hu": "Vezess utoljára a központba, és parkolj a Paços da Cultura közelében.",
             "ro": "Conduceți pentru ultima dată în centru și parcați lângă Paços da Cultura.",
-            "en": "Drive one last time to the centre and park near Paços da Cultura."
+            "en": "Drive one last time to the centre and park near Paços da Cultura.",
+            "pt": "Conduza pela última vez até ao centro e estacione perto dos Paços da Cultura."
           }
         },
         {
@@ -1271,7 +1381,8 @@
             "de": "Igreja Matriz de S. João",
             "hu": "Szent János Mátrix-templom",
             "ro": "Biserica Matriz de S. João",
-            "en": "Mother Church of S. João"
+            "en": "Mother Church of S. João",
+            "pt": "Igreja Matriz de S. João"
           },
           "coords": [
             -8.4975,
@@ -1287,7 +1398,8 @@
             "de": "Schließen Sie den Tag mit einem Besuch der Hauptkirche der Stadt ab.",
             "hu": "Zárja a napot a város főtemplomának meglátogatásával.",
             "ro": "Încheiați ziua cu o vizită la biserica principală a orașului.",
-            "en": "Conclude the day with a visit to the city's main church."
+            "en": "Conclude the day with a visit to the city's main church.",
+            "pt": "Conclua o dia com uma visita à principal igreja da cidade."
           }
         }
       ],
@@ -1295,7 +1407,8 @@
         "de": "Dieser Plan teilt die Stadt in drei leicht erreichbare Zonen. Beginnen Sie im Osten mit einem Spaziergang vom Parque dos Milagres zum Centro de Arte Oliva. Fahren Sie dann zum Industrie-Cluster, parken Sie und erkunden Sie zu Fuß das Hutmuseum, das Schuhmuseum und den Oliva-Turm. Nach diesem tiefen Einblick in das Erbe der Stadt fahren Sie für den letzten Teil des Tages ins historische Zentrum, um das Paços da Cultura und die Hauptkirche zu besichtigen und den Tag ausklingen zu lassen.",
         "hu": "Ez a terv három könnyen bejárható zónára osztja a várost. Kezdjen keleten egy sétával a Parque dos Milagres-ből a Centro de Arte Oliva-ba. Ezután vezessen az ipari zónába, parkoljon le, és fedezze fel gyalog a Kalapmúzeumot, a Cipőmúzeumot és az Oliva-tornyot. Miután mélyen elmerült a város örökségében, vezessen a történelmi központba a nap utolsó részére, hogy megnézze a Paços da Cultura-t és a főtemplomot, és lezárja a napot.",
         "ro": "Acest plan împarte orașul în trei zone ușor de parcurs. Începeți în est cu o plimbare de la Parque dos Milagres la Centrul de Artă Oliva. Apoi, conduceți către clusterul industrial, parcați și explorați pe jos Muzeul Pălăriilor, Muzeul Încălțămintei și Turnul Oliva. După această incursiune profundă în moștenirea orașului, conduceți spre centrul istoric pentru ultima parte a zilei, pentru a vizita Paços da Cultura și biserica principală pentru a încheia ziua.",
-        "en": "This plan divides the city into three easily manageable zones. Start in the east with a walk from Parque dos Milagres to Centro de Arte Oliva. Then, drive to the industrial cluster, park, and explore the Hat Museum, Footwear Museum, and Oliva Tower on foot. After this deep dive into the city's heritage, drive to the historic centre for the final part of the day, visiting Paços da Cultura and the Mother Church to wrap up your visit."
+        "en": "This plan divides the city into three easily manageable zones. Start in the east with a walk from Parque dos Milagres to Centro de Arte Oliva. Then, drive to the industrial cluster, park, and explore the Hat Museum, Footwear Museum, and Oliva Tower on foot. After this deep dive into the city's heritage, drive to the historic centre for the final part of the day, visiting Paços da Cultura and the Mother Church to wrap up your visit.",
+        "pt": "Este plano divide a cidade em três zonas fáceis de gerir. Comece a leste com uma caminhada do Parque dos Milagres até ao Centro de Arte Oliva. Depois, conduza até ao aglomerado industrial, estacione e explore a pé o Museu da Chapelaria, o Museu do Calçado e a Torre da Oliva. Após este mergulho no património da cidade, siga de carro para o centro histórico para a parte final do dia, visitando os Paços da Cultura e a Igreja Matriz para terminar a visita."
       },
       "gastro_picks": {
         "de": [
@@ -1471,6 +1584,12 @@
           "A GPS is helpful for navigating between clusters.",
           "Plan a little extra time for finding a parking spot.",
           "The cluster strategy saves on parking fees and stress."
+        ],
+        "pt": [
+          "Preste atenção às restrições de estacionamento, especialmente no centro da cidade.",
+          "Um GPS é útil para navegar entre os aglomerados.",
+          "Planeie um pouco mais de tempo para encontrar lugar de estacionamento.",
+          "A estratégia por aglomerados poupa em taxas de estacionamento e em stress."
         ]
       },
       "variants": {
@@ -1479,7 +1598,8 @@
             "de": "Morgen: Fahren Sie bequem zum Parkplatz am Milagres Park. Mittag: Das Kunstzentrum und die Industriemuseen sind leicht mit dem Auto erreichbar, sodass Sie trocken bleiben. Nachmittag: Parken Sie direkt am Schuh- und Hutmuseum für minimalen Kontakt mit dem Regen. Abend: Eine entspannte Fahrt durch die Stadt zum Abschluss Ihres Kulturtages.",
             "hu": "Reggel: Hajtson kényelmesen a Milagres park melletti parkolóba. Délben: Az Art Centre és az ipari múzeumok autóval könnyen elérhetőek, így végig szárazon maradhat. Délután: Parkoljon közvetlenül a Cipő- és Kalapmúzeumnál a minimális ázás érdekében. Este: Egy nyugodt autózás a városban zárja ezt a kulturális napot.",
             "ro": "Dimineața: Conduceți confortabil până la parcarea de lângă parcul Milagres. Prânz: Centrul de Artă și muzeele sunt ușor accesibile cu mașina, rămâneți uscat. După-amiaza: Parcați chiar lângă muzeele de încălțăminte și pălării. Seara: O plimbare relaxantă cu mașina prin oraș încheie ziua culturală.",
-            "en": "Morning: Drive comfortably to the parking lot near Milagres Park. Noon: The Art Centre and industrial museums are easily reachable by car, keeping you dry. Afternoon: Park directly at the Shoe and Hat museums for minimal rain exposure. Evening: A relaxed drive through the town concludes your cultural day."
+            "en": "Morning: Drive comfortably to the parking lot near Milagres Park. Noon: The Art Centre and industrial museums are easily reachable by car, keeping you dry. Afternoon: Park directly at the Shoe and Hat museums for minimal rain exposure. Evening: A relaxed drive through the town concludes your cultural day.",
+            "pt": "Manhã: Conduza confortavelmente até ao parque de estacionamento junto ao Parque dos Milagres. Meio‑dia: O Centro de Arte e os museus industriais são facilmente acessíveis de carro, mantendo‑o seco. Tarde: Estacione directamente junto aos museus do Calçado e da Chapelaria para minimizar a exposição à chuva. Noite: Um passeio de carro descontraído pela cidade conclui o seu dia cultural."
           },
           "stops": [
             {
@@ -1488,7 +1608,8 @@
                 "de": "Der Parkplatz direkt am Park ist bei Regen oft belegt.",
                 "hu": "A park melletti közvetlen parkoló esőben gyakran megtelik.",
                 "ro": "Parcarea de lângă parc este adesea ocupată pe ploaie.",
-                "en": "The parking lot right by the park often fills up when it rains."
+                "en": "The parking lot right by the park often fills up when it rains.",
+                "pt": "O parque de estacionamento junto ao parque enche‑se frequentemente quando chove."
               }
             },
             {
@@ -1497,7 +1618,8 @@
                 "de": "Nutzen Sie den großen Parkplatz im Oliva-Gelände.",
                 "hu": "Használja az Oliva negyed tágas parkolóját.",
                 "ro": "Folosiți parcarea generoasă din complexul Oliva.",
-                "en": "Use the spacious parking area within the Oliva complex."
+                "en": "Use the spacious parking area within the Oliva complex.",
+                "pt": "Use a ampla área de estacionamento dentro do complexo Oliva."
               }
             },
             {
@@ -1506,7 +1628,8 @@
                 "de": "Kurze Wege vom Parkplatz zum Eingang des Hutmuseums.",
                 "hu": "Rövid séta a parkolótól a Kalapmúzeum bejáratáig.",
                 "ro": "Distanță scurtă de la parcare până la intrarea muzeului.",
-                "en": "Short walk from the parking area to the Hat Museum entrance."
+                "en": "Short walk from the parking area to the Hat Museum entrance.",
+                "pt": "Curta caminhada da área de estacionamento até à entrada do Museu da Chapelaria."
               }
             },
             {
@@ -1515,7 +1638,8 @@
                 "de": "Überdachte Ausstiegszone am Haupteingang vorhanden.",
                 "hu": "A főbejáratnál fedett kiszállási lehetőség van.",
                 "ro": "Există o zonă de debarcare acoperită la intrare.",
-                "en": "There is a covered drop-off zone at the main entrance."
+                "en": "There is a covered drop-off zone at the main entrance.",
+                "pt": "Existe uma zona coberta de desembarque na entrada principal."
               }
             },
             {
@@ -1524,7 +1648,8 @@
                 "de": "Parken Sie hier kurz für Fotos vom Turm aus dem Auto.",
                 "hu": "Álljon meg itt röviden, fotózza a tornyot az autóból.",
                 "ro": "Opriți scurt aici, pozați turnul din mașină.",
-                "en": "Stop briefly here; you can photograph the tower from the car."
+                "en": "Stop briefly here; you can photograph the tower from the car.",
+                "pt": "Pare brevemente aqui; pode fotografar a torre a partir do carro."
               }
             },
             {
@@ -1533,7 +1658,8 @@
                 "de": "Parkhäuser in der Nähe bieten Schutz für das Fahrzeug.",
                 "hu": "A közeli parkolóházak védelmet nyújtanak az autónak.",
                 "ro": "Parcările etajate din apropiere oferă adăpost mașinii.",
-                "en": "Nearby parking garages offer shelter for your vehicle."
+                "en": "Nearby parking garages offer shelter for your vehicle.",
+                "pt": "Parques de estacionamento subterrâneos nas proximidades oferecem abrigo para o veículo."
               }
             },
             {
@@ -1542,7 +1668,8 @@
                 "de": "Lassen Sie Passagiere am Tor aussteigen, bevor Sie parken.",
                 "hu": "Tegye ki az utasokat a kapunál, mielőtt leparkolna.",
                 "ro": "Lăsați pasagerii la poartă înainte de a parca.",
-                "en": "Drop off passengers at the gate before finding parking."
+                "en": "Drop off passengers at the gate before finding parking.",
+                "pt": "Desembarque os passageiros no portão antes de procurar lugar para estacionar."
               }
             }
           ],
@@ -1570,6 +1697,12 @@
               "Visibility can be limited during heavy rain in the narrow streets.",
               "Keep an umbrella in the car for the short walk to the museum doors.",
               "Park at the Oliva complex to access multiple museums on foot."
+            ],
+            "pt": [
+              "Cuidado com poças que podem ser mais profundas do que aparentam.",
+              "A visibilidade pode ficar limitada durante chuva intensa nas ruas estreitas.",
+              "Mantenha um guarda‑chuva no carro para a curta caminhada até às portas do museu.",
+              "Estacione no complexo Oliva para aceder a vários museus a pé."
             ]
           }
         },
@@ -1578,7 +1711,8 @@
             "de": "Morgen: Starten Sie Ihre Fahrt im beheizten Auto zum Milagres Park. Mittag: Besuchen Sie das Kunstzentrum und das Schuhmuseum, während Sie die winterliche Stadtlandschaft genießen. Nachmittag: Entdecken Sie die Industriegeschichte im Hutmuseum, gut geschützt vor dem kühlen Wind. Abend: Beenden Sie den Tag mit einer Panoramafahrt durch das beleuchtete Zentrum.",
             "hu": "Reggel: Indítsa a napot fűtött autóval a Milagres park felé. Délben: Látogasson el az Art Centre-be és a Cipőmúzeumba, élvezve a téli városképet. Délután: Fedezze fel a Kalapmúzeum ipari emlékeit, védve a hűvös széltől. Este: Zárja a napot egy panoráma-autózással a kivilágított központban.",
             "ro": "Dimineața: Începeți ziua cu mașina încălzită spre parcul Milagres. Prânz: Vizitați Centrul de Artă și Muzeul Încălțămintei, admirând orașul iarna. După-amiaza: Descoperiți istoria industrială la Muzeul Pălăriilor, protejat de vânt. Seara: Încheiați ziua cu o plimbare prin centrul luminat.",
-            "en": "Morning: Start your day in a heated car heading to Milagres Park. Noon: Visit the Art Centre and the Shoe Museum while enjoying the winter cityscape. Afternoon: Discover industrial history at the Hat Museum, well-sheltered from the cool wind. Evening: End the day with a panoramic drive through the illuminated centre."
+            "en": "Morning: Start your day in a heated car heading to Milagres Park. Noon: Visit the Art Centre and the Shoe Museum while enjoying the winter cityscape. Afternoon: Discover industrial history at the Hat Museum, well-sheltered from the cool wind. Evening: End the day with a panoramic drive through the illuminated centre.",
+            "pt": "Manhã: Comece o dia num carro aquecido em direção ao Parque dos Milagres. Meio‑dia: Visite o Centro de Arte e o Museu do Calçado enquanto desfruta da paisagem invernal da cidade. Tarde: Descubra a história industrial no Museu da Chapelaria, bem protegido do vento frio. Noite: Termine o dia com um passeio panorâmico pelo centro iluminado."
           },
           "stops": [
             {
@@ -1587,7 +1721,8 @@
                 "de": "Heizen Sie das Auto vor, bevor Sie den Park verlassen.",
                 "hu": "Fűtse fel az autót, mielőtt elindulna a parktól.",
                 "ro": "Preîncălziți mașina înainte de a pleca de la parc.",
-                "en": "Pre-heat the car before leaving the park area."
+                "en": "Pre-heat the car before leaving the park area.",
+                "pt": "Pré‑aqueça o carro antes de sair da zona do parque."
               }
             },
             {
@@ -1596,7 +1731,8 @@
                 "de": "Parkplätze sind im Winter reichlich vorhanden.",
                 "hu": "Télen bőségesen találhat szabad parkolóhelyet.",
                 "ro": "Locurile de parcare sunt suficiente în timpul iernii.",
-                "en": "Parking spaces are plentiful during the winter season."
+                "en": "Parking spaces are plentiful during the winter season.",
+                "pt": "Os lugares de estacionamento são abundantes durante a época de inverno."
               }
             },
             {
@@ -1605,7 +1741,8 @@
                 "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
                 "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
                 "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
-                "en": "Do not leave valuables visible inside the car."
+                "en": "Do not leave valuables visible inside the car.",
+                "pt": "Não deixe objetos de valor visíveis dentro do carro."
               }
             },
             {
@@ -1614,7 +1751,8 @@
                 "de": "Guter Ort für eine lange Aufwärmpause im Museumsshop.",
                 "hu": "Remek hely egy melegedő pihenőhöz a múzeumi boltban.",
                 "ro": "Loc bun pentru o pauză de încălzire la magazinul muzeului.",
-                "en": "Great spot for a warming break in the museum shop."
+                "en": "Great spot for a warming break in the museum shop.",
+                "pt": "Ótimo local para uma pausa quente na loja do museu."
               }
             },
             {
@@ -1623,7 +1761,8 @@
                 "de": "Der Turm ist abends wunderschön beleuchtet.",
                 "hu": "A torony este gyönyörűen ki van világítva.",
                 "ro": "Turnul este superb iluminat seara.",
-                "en": "The tower is beautifully illuminated in the evenings."
+                "en": "The tower is beautifully illuminated in the evenings.",
+                "pt": "A torre é lindamente iluminada ao anoitecer."
               }
             },
             {
@@ -1632,7 +1771,8 @@
                 "de": "Parken Sie zentral, um die Weihnachtsbeleuchtung zu sehen.",
                 "hu": "Parkoljon központilag, hogy lássa az ünnepi fényeket.",
                 "ro": "Parcați central pentru a vedea luminile de sărbători.",
-                "en": "Park centrally to enjoy the seasonal festive lights."
+                "en": "Park centrally to enjoy the seasonal festive lights.",
+                "pt": "Estacione centralmente para apreciar as iluminações festivas sazonais."
               }
             },
             {
@@ -1641,7 +1781,8 @@
                 "de": "Prüfen Sie die Zeiten der Abendmessen im Winter.",
                 "hu": "Ellenőrizze az esti misék időpontját télen.",
                 "ro": "Verificați programul slujbelor de seară iarna.",
-                "en": "Check the schedule for evening masses during winter."
+                "en": "Check the schedule for evening masses during winter.",
+                "pt": "Consulte o horário das missas vespertinas durante o inverno."
               }
             }
           ],
@@ -1669,6 +1810,12 @@
               "Windows may fog up in the morning; allow time for defrosting.",
               "The town is less crowded in winter, making parking much easier.",
               "Central streets are well-lit for pleasant evening driving."
+            ],
+            "pt": [
+              "Verifique a pressão dos pneus regularmente, pois baixa em clima mais frio.",
+              "As vidraças podem embaciar de manhã; reserve tempo para desembaçar.",
+              "A cidade está menos cheia no inverno, tornando o estacionamento muito mais fácil.",
+              "As ruas centrais são bem iluminadas para uma condução agradável à noite."
             ]
           }
         }
@@ -1687,7 +1834,8 @@
             "de": "Cluster 1: Zentrum",
             "hu": "1. csoport: Központ",
             "ro": "Cluster 1: Centru",
-            "en": "Cluster 1: Centre"
+            "en": "Cluster 1: Centre",
+            "pt": "Aglomerado 1: Centro"
           },
           "coords": [
             -8.4961,
@@ -1703,7 +1851,8 @@
             "de": "Nehmen Sie einen Bus zum zentralen Platz in der Nähe des Paços da Cultura.",
             "hu": "Menj busszal a központi térre a Paços da Cultura közelében.",
             "ro": "Luați un autobuz spre piața centrală de lângă Paços da Cultura.",
-            "en": "Take a bus to the central square near Paços da Cultura."
+            "en": "Take a bus to the central square near Paços da Cultura.",
+            "pt": "Apanhe um autocarro até à praça central junto aos Paços da Cultura."
           }
         },
         {
@@ -1711,7 +1860,8 @@
             "de": "Igreja Matriz de S. João",
             "hu": "Szent János Mátrix-templom",
             "ro": "Biserica Matriz de S. João",
-            "en": "Mother Church of S. João"
+            "en": "Mother Church of S. João",
+            "pt": "Igreja Matriz de S. João"
           },
           "coords": [
             -8.4975,
@@ -1727,7 +1877,8 @@
             "de": "Ein kurzer Spaziergang vom Kulturzentrum zur Kirche.",
             "hu": "Rövid séta a kulturális központtól a templomig.",
             "ro": "O scurtă plimbare de la centrul cultural la biserică.",
-            "en": "A short walk from the cultural centre to the church."
+            "en": "A short walk from the cultural centre to the church.",
+            "pt": "Uma curta caminhada do centro cultural até à igreja."
           }
         },
         {
@@ -1735,7 +1886,8 @@
             "de": "Cluster 2: Industrielles Erbe",
             "hu": "2. csoport: Ipari örökség",
             "ro": "Cluster 2: Moștenirea Industrială",
-            "en": "Cluster 2: Industrial Heritage"
+            "en": "Cluster 2: Industrial Heritage",
+            "pt": "Aglomerado 2: Património Industrial"
           },
           "coords": [
             -8.493,
@@ -1751,7 +1903,8 @@
             "de": "Nehmen Sie einen Bus zum Schuhmuseum. Kaufen Sie vielleicht eine Tageskarte.",
             "hu": "Menj busszal a Cipőmúzeumhoz. Talán érdemes napijegyet venni.",
             "ro": "Luați un autobuz spre Muzeul Încălțămintei. Poate cumpărați un bilet de o zi.",
-            "en": "Take a bus to the Footwear Museum. Consider buying a day pass."
+            "en": "Take a bus to the Footwear Museum. Consider buying a day pass.",
+            "pt": "Apanhe um autocarro até ao Museu do Calçado. Considere comprar um passe diário."
           }
         },
         {
@@ -1759,7 +1912,8 @@
             "de": "Turm von Oliva (Torre da Oliva)",
             "hu": "Oliva-torony (Torre da Oliva)",
             "ro": "Turnul Oliva (Torre da Oliva)",
-            "en": "Oliva Tower (Torre da Oliva)"
+            "en": "Oliva Tower (Torre da Oliva)",
+            "pt": "Oliva Tower (Torre da Oliva)"
           },
           "coords": [
             -8.4918,
@@ -1775,7 +1929,8 @@
             "de": "Direkt neben dem Museum, ideal für einen Panoramablick nach dem Mittagessen.",
             "hu": "Közvetlenül a múzeum mellett, ideális egy ebéd utáni panorámához.",
             "ro": "Chiar lângă muzeu, ideal pentru o priveliște panoramică după prânz.",
-            "en": "Right next to the museum, ideal for a post-lunch panoramic view."
+            "en": "Right next to the museum, ideal for a post-lunch panoramic view.",
+            "pt": "Mesmo ao lado do museu, ideal para uma vista panorâmica após o almoço."
           }
         },
         {
@@ -1783,7 +1938,8 @@
             "de": "Hutmuseum (Museu da Chapelaria)",
             "hu": "Kalapmúzeum (Museu da Chapelaria)",
             "ro": "Muzeul Pălăriilor (Museu da Chapelaria)",
-            "en": "Hat Museum (Museu da Chapelaria)"
+            "en": "Hat Museum (Museu da Chapelaria)",
+            "pt": "Museu da Chapelaria (Hat Museum)"
           },
           "coords": [
             -8.4895,
@@ -1799,7 +1955,8 @@
             "de": "Ein angenehmer Spaziergang durch das Viertel zum nächsten Museum.",
             "hu": "Kellemes séta a negyeden keresztül a következő múzeumig.",
             "ro": "O plimbare plăcută prin cartier până la următorul muzeu.",
-            "en": "A pleasant walk through the neighborhood to the next museum."
+            "en": "A pleasant walk through the neighborhood to the next museum.",
+            "pt": "Uma agradável caminhada pelo bairro até ao próximo museu."
           }
         },
         {
@@ -1807,7 +1964,8 @@
             "de": "Cluster 3: Kunst & Entspannung",
             "hu": "3. csoport: Művészet és pihenés",
             "ro": "Cluster 3: Artă & Relaxare",
-            "en": "Cluster 3: Art & Relaxation"
+            "en": "Cluster 3: Art & Relaxation",
+            "pt": "Aglomerado 3: Arte & Relaxamento"
           },
           "coords": [
             -8.48,
@@ -1823,7 +1981,8 @@
             "de": "Nehmen Sie den Bus zum Centro de Arte Oliva, um den Tag mit Kunst und einem Parkbesuch ausklingen zu lassen.",
             "hu": "Menj busszal a Centro de Arte Oliva-hoz, hogy a napot művészettel és parklátogatással zárd.",
             "ro": "Luați autobuzul spre Centrul de Artă Oliva pentru a încheia ziua cu artă și o vizită în parc.",
-            "en": "Take the bus to the Centro de Arte Oliva to end the day with art and a park visit."
+            "en": "Take the bus to the Centro de Arte Oliva to end the day with art and a park visit.",
+            "pt": "Apanhe o autocarro até ao Centro de Arte Oliva para terminar o dia com arte e uma visita ao parque."
           }
         }
       ],
@@ -1831,7 +1990,8 @@
         "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um die Stadt in Clustern zu erkunden. Beginnen Sie im historischen Zentrum mit dem Paços da Cultura und der Kirche. Nehmen Sie dann einen Bus zum Industrie-Cluster, wo Sie den größten Teil des Tages verbringen und das Schuh-, Turm- und Hutmuseum zu Fuß erkunden. Eine letzte Busfahrt bringt Sie zum Kunstcluster im Osten, wo Sie das Centro de Arte Oliva besuchen und sich im nahegelegenen Park entspannen können, bevor Sie nach Hause fahren.",
         "hu": "Használja a tömegközlekedést a város klaszterekben való felfedezéséhez. Kezdje a történelmi központban a Paços da Cultura-val és a templommal. Ezután menjen busszal az ipari klaszterbe, ahol a nap nagy részét tölti, gyalog fedezve fel a Cipő-, Torony- és Kalapmúzeumot. Egy utolsó buszozás elviszi a keleti művészeti klaszterbe, ahol meglátogathatja a Centro de Arte Oliva-t és pihenhet a közeli parkban, mielőtt hazaindulna.",
         "ro": "Folosiți transportul public pentru a explora orașul în clustere. Începeți în centrul istoric cu Paços da Cultura și biserica. Apoi, luați un autobuz către clusterul industrial, unde veți petrece cea mai mare parte a zilei explorând pe jos muzeele de încălțăminte, turnul și pălăriile. O ultimă călătorie cu autobuzul vă va duce la clusterul de artă din est, unde puteți vizita Centrul de Artă Oliva și vă puteți relaxa în parcul din apropiere înainte de a vă întoarce.",
-        "en": "Use public transport to explore the city in clusters. Start in the historic centre with Paços da Cultura and the church. Then take a bus to the industrial cluster, where you'll spend most of the day exploring the Footwear, Tower, and Hat museums on foot. A final bus ride will take you to the art cluster in the east, where you can visit the Centro de Arte Oliva and relax in the nearby park before heading home."
+        "en": "Use public transport to explore the city in clusters. Start in the historic centre with Paços da Cultura and the church. Then take a bus to the industrial cluster, where you'll spend most of the day exploring the Footwear, Tower, and Hat museums on foot. A final bus ride will take you to the art cluster in the east, where you can visit the Centro de Arte Oliva and relax in the nearby park before heading home.",
+        "pt": "Use o transporte público para explorar a cidade por aglomerados. Comece no centro histórico com os Paços da Cultura e a igreja. Depois apanhe um autocarro para o aglomerado industrial, onde passará a maior parte do dia a explorar a pé o Museu do Calçado, a Torre e o Museu da Chapelaria. Uma última viagem de autocarro levar‑lo‑á ao aglomerado de arte a leste, onde pode visitar o Centro de Arte Oliva e relaxar no parque antes de regressar."
       },
       "gastro_picks": {
         "de": [
@@ -2007,6 +2167,12 @@
           "Check the bus schedule in advance, especially for the evening.",
           "Bus schedules can be found online or at major bus stops.",
           "Have some small change ready for bus tickets."
+        ],
+        "pt": [
+          "Compre um passe diário para o autocarro se planear fazer várias viagens.",
+          "Verifique o horário do autocarro com antecedência, especialmente para a noite.",
+          "Os horários de autocarro podem ser consultados online ou nas principais paragens.",
+          "Tenha algum troco pronto para os bilhetes de autocarro."
         ]
       },
       "variants": {
@@ -2015,7 +2181,8 @@
             "de": "Morgen: Nutzen Sie die Busverbindungen zum historischen Zentrum. Mittag: Die Fahrt zum Industrieviertel Oliva ist kurz und schützt vor dem Regen. Nachmittag: Besuchen Sie das Hutmuseum und das Kunstzentrum, die gut durch lokale Linien vernetzt sind. Abend: Eine entspannte Busfahrt zurück zum Ausgangspunkt bei prasselndem Regen an den Fenstern.",
             "hu": "Reggel: Használja a helyi buszjáratokat a történelmi központ eléréséhez. Délben: Az Oliva ipari negyedbe tartó út rövid, és megvédi az esőtől. Délután: Látogasson el a Kalapmúzeumba és az Art Centre-be, amelyek jól megközelíthetőek. Este: Nyugodt buszozás vissza a kiindulópontra, miközben az eső kopog az ablakokon.",
             "ro": "Dimineața: Folosiți liniile de autobuz spre centrul istoric. Prânz: Drumul spre zona industrială Oliva este scurt și vă ferește de ploaie. După-amiaza: Vizitați Muzeul Pălăriilor și Centrul de Artă, bine conectate local. Seara: O călătorie relaxantă cu autobuzul înapoi, în timp ce plouă afară.",
-            "en": "Morning: Use local bus connections to reach the historic centre easily. Noon: The ride to the Oliva industrial district is short and keeps you dry. Afternoon: Visit the Hat Museum and Art Centre, both well-served by transit lines. Evening: A relaxing bus ride back to your starting point while rain patters on the windows."
+            "en": "Morning: Use local bus connections to reach the historic centre easily. Noon: The ride to the Oliva industrial district is short and keeps you dry. Afternoon: Visit the Hat Museum and Art Centre, both well-served by transit lines. Evening: A relaxing bus ride back to your starting point while rain patters on the windows.",
+            "pt": "Manhã: Use as ligações de autocarro locais para chegar facilmente ao centro histórico. Meio‑dia: A viagem até ao distrito industrial de Oliva é curta e mantém‑lo seco. Tarde: Visite o Museu da Chapelaria e o Centro de Arte, ambos bem servidos por linhas de transporte. Noite: Um passeio de autocarro relaxante de regresso ao ponto de partida enquanto a chuva bater nas janelas."
           },
           "stops": [
             {
@@ -2024,7 +2191,8 @@
                 "de": "Warten Sie unter den überdachten Bushaltestellen.",
                 "hu": "Várjon a fedett buszmegállókban az eső elől.",
                 "ro": "Așteptați în stațiile de autobuz acoperite.",
-                "en": "Wait inside the covered bus shelters to stay dry."
+                "en": "Wait inside the covered bus shelters to stay dry.",
+                "pt": "Espere dentro das marquesinas cobertas para se manter seco."
               }
             },
             {
@@ -2033,7 +2201,8 @@
                 "de": "Die nächste Haltestelle ist nur wenige Schritte entfernt.",
                 "hu": "A legközelebbi megálló csak pár lépésre van.",
                 "ro": "Cea mai apropiată stație este la doar câțiva pași.",
-                "en": "The nearest bus stop is only a few steps away."
+                "en": "The nearest bus stop is only a few steps away.",
+                "pt": "A paragem de autocarro mais próxima fica a poucos passos."
               }
             },
             {
@@ -2042,7 +2211,8 @@
                 "de": "Der Bus hält direkt vor dem Oliva-Komplex.",
                 "hu": "A busz közvetlenül az Oliva komplexum előtt áll meg.",
                 "ro": "Autobuzul oprește chiar în fața complexului Oliva.",
-                "en": "The bus stops right in front of the Oliva complex."
+                "en": "The bus stops right in front of the Oliva complex.",
+                "pt": "O autocarro pára mesmo em frente ao complexo Oliva."
               }
             },
             {
@@ -2051,7 +2221,8 @@
                 "de": "Prüfen Sie die App für Echtzeit-Abfahrten bei Regen.",
                 "hu": "Ellenőrizze az appot a valós idejű indulásokhoz esőben.",
                 "ro": "Verificați aplicația pentru plecări în timp real.",
-                "en": "Check the transit app for real-time departures in the rain."
+                "en": "Check the transit app for real-time departures in the rain.",
+                "pt": "Consulte a aplicação de transporte para partidas em tempo real na chuva."
               }
             },
             {
@@ -2060,7 +2231,8 @@
                 "de": "Halten Sie Ihr Ticket griffbereit, um schnell einzusteigen.",
                 "hu": "Tartsa készenlétben a jegyét a gyors felszálláshoz.",
                 "ro": "Aveți biletul pregătit pentru o îmbarcare rapidă.",
-                "en": "Have your ticket ready for quick boarding to avoid the wet."
+                "en": "Have your ticket ready for quick boarding to avoid the wet.",
+                "pt": "Tenha o seu bilhete pronto para embarque rápido e evitar molhar‑se."
               }
             },
             {
@@ -2069,7 +2241,8 @@
                 "de": "Letzte Busse fahren auch bei schlechtem Wetter pünktlich.",
                 "hu": "Az utolsó buszok rossz időben is pontosan indulnak.",
                 "ro": "Ultimele autobuze pleacă la timp și pe vreme rea.",
-                "en": "The last buses depart on time even in poor weather."
+                "en": "The last buses depart on time even in poor weather.",
+                "pt": "Os últimos autocarros partem a horas mesmo em mau tempo."
               }
             }
           ],
@@ -2097,6 +2270,12 @@
               "A day pass is worth it if you plan multiple trips to avoid rain.",
               "Bus stops near the Oliva area are well-lit and safe.",
               "Wear non-slip shoes for boarding and exiting buses in wet weather."
+            ],
+            "pt": [
+              "Use os autocarros TUG (Transporte Urbano Local) para deslocações pela cidade.",
+              "Um passe diário compensa se planear várias viagens para evitar a chuva.",
+              "As paragens perto da zona Oliva são bem iluminadas e seguras.",
+              "Use calçado antiderrapante ao subir e descer do autocarro em tempo húmido."
             ]
           }
         },
@@ -2105,7 +2284,8 @@
             "de": "Morgen: Starten Sie Ihre Tour mit dem warmen Stadtbus zum Zentrum. Mittag: Die Fahrt zum Industriemuseum bietet einen Moment der Ruhe im Warmen. Nachmittag: Besuchen Sie die gut angebundenen Museen und genießen Sie die Aussicht aus dem Busfenster. Abend: Kehren Sie früh mit dem Transit zurück, bevor es draußen richtig kalt wird.",
             "hu": "Reggel: Indítsa a túrát a meleg városi busszal a központ felé. Délben: Az út az ipari múzeumokhoz alkalmat ad egy kis pihenésre a fűtött járművön. Délután: Látogasson el a jól megközelíthető helyszínekre, élvezve a kilátást a buszablakból. Este: Térjen vissza korán, mielőtt kint nagyon lehűlne a levegő.",
             "ro": "Dimineața: Începeți turul cu autobuzul urban încălzit spre centru. Prânz: Drumul spre muzeele industriale oferă un moment de odihnă la căldură. După-amiaza: Vizitați locațiile bine conectate și admirați orașul de pe geam. Seara: Întoarceți-vă devreme cu transportul public înainte de lăsarea frigului.",
-            "en": "Morning: Start your tour with a warm city bus heading to the centre. Noon: The ride to the industrial museums offers a moment of rest in a heated vehicle. Afternoon: Visit the well-connected sites and enjoy the view from the bus window. Evening: Return early via transit before the outside temperature drops significantly."
+            "en": "Morning: Start your tour with a warm city bus heading to the centre. Noon: The ride to the industrial museums offers a moment of rest in a heated vehicle. Afternoon: Visit the well-connected sites and enjoy the view from the bus window. Evening: Return early via transit before the outside temperature drops significantly.",
+            "pt": "Manhã: Comece o seu percurso num autocarro aquecido em direção ao centro. Meio‑dia: A viagem até aos museus industriais oferece um momento de descanso num veículo aquecido. Tarde: Visite os locais bem ligados e desfrute da vista pela janela do autocarro. Noite: Regresse cedo de transportes antes que a temperatura exterior baixe significativamente."
           },
           "stops": [
             {
@@ -2114,7 +2294,8 @@
                 "de": "Busse sind im Winter gut beheizt.",
                 "hu": "A buszok télen kellemesen fűtöttek.",
                 "ro": "Autobuzele sunt bine încălzite în timpul iernii.",
-                "en": "Buses are comfortably heated during the winter."
+                "en": "Buses are comfortably heated during the winter.",
+                "pt": "Os autocarros são confortavelmente aquecidos durante o inverno."
               }
             },
             {
@@ -2123,7 +2304,8 @@
                 "de": "Prüfen Sie den Winterfahrplan an der Haltestellentafel.",
                 "hu": "Ellenőrizze a téli menetrendet a megálló tábláján.",
                 "ro": "Verificați orarul de iarnă pe panoul din stație.",
-                "en": "Check the winter schedule on the bus stop information board."
+                "en": "Check the winter schedule on the bus stop information board.",
+                "pt": "Consulte o horário de inverno no painel informativo da paragem."
               }
             },
             {
@@ -2132,7 +2314,8 @@
                 "de": "Die Busfrequenz ist auch im Winter stabil.",
                 "hu": "A buszok gyakorisága télen is megbízható.",
                 "ro": "Frecvența autobuzelor rămâne stabilă și iarna.",
-                "en": "Bus frequency remains reliable throughout the winter."
+                "en": "Bus frequency remains reliable throughout the winter.",
+                "pt": "A frequência dos autocarros mantém-se fiável durante todo o inverno."
               }
             },
             {
@@ -2141,7 +2324,8 @@
                 "de": "Ein kurzer Fußweg von der Haltestelle zum Turm.",
                 "hu": "Csak egy rövid séta a megállótól a toronyig.",
                 "ro": "O scurtă plimbare de la stație până la turn.",
-                "en": "Only a short walk from the stop to reach the tower."
+                "en": "Only a short walk from the stop to reach the tower.",
+                "pt": "Apenas uma curta caminhada da paragem até à torre."
               }
             },
             {
@@ -2150,7 +2334,8 @@
                 "de": "Zentrale Haltestelle für viele Linien direkt daneben.",
                 "hu": "Központi megálló több járat számára közvetlenül mellette.",
                 "ro": "Stație centrală pentru mai multe linii chiar alături.",
-                "en": "Central bus stop for multiple lines right next to it."
+                "en": "Central bus stop for multiple lines right next to it.",
+                "pt": "Paragem de autocarro central para várias linhas mesmo ao lado."
               }
             },
             {
@@ -2159,7 +2344,8 @@
                 "de": "Planen Sie die Rückfahrt vor 19:00 Uhr ein.",
                 "hu": "Tervezze a visszautat 19:00 előttre.",
                 "ro": "Planificați întoarcerea înainte de ora 19:00.",
-                "en": "Plan your return trip before 19:00 for more options."
+                "en": "Plan your return trip before 19:00 for more options.",
+                "pt": "Planeie a sua viagem de regresso antes das 19:00 para ter mais opções."
               }
             }
           ],
@@ -2187,6 +2373,12 @@
               "Buses are generally less crowded than during the summer peaks.",
               "Dress warmly for the waiting time at the bus stops.",
               "Purchase tickets in advance to minimize time spent in the cold."
+            ],
+            "pt": [
+              "Consulte o site oficial da TUG para informação de inverno atualizada.",
+              "Os autocarros costumam estar menos cheios do que nos picos de verão.",
+              "Vista-se bem quente para o tempo de espera nas paragens de autocarro.",
+              "Compre bilhetes com antecedência para minimizar o tempo passado no frio."
             ]
           }
         }

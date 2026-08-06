@@ -21,7 +21,8 @@
             "de": "Praça do Município",
             "hu": "Városháza tér",
             "ro": "Praça do Município",
-            "en": "Praça do Município (Town Hall Square)"
+            "en": "Praça do Município (Town Hall Square)",
+            "pt": "Praça do Município (Town Hall Square)"
           },
           "coords": [
             -7.5005,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz und beobachten Sie das lokale Leben.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, és figyelje a helyi életet.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață și observați viața locală.",
-            "en": "Start your day with a coffee at one of the square's cafés and watch the local life unfold."
+            "en": "Start your day with a coffee at one of the square's cafés and watch the local life unfold.",
+            "pt": "Comece o seu dia com um café numa das esplanadas da praça e veja a vida local desenrolar‑se."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Pelourinho do Fundão",
             "hu": "Fundão pellengére",
             "ro": "Pelourinho do Fundão",
-            "en": "Pillory of Fundão"
+            "en": "Pillory of Fundão",
+            "pt": "Pelourinho do Fundão"
           },
           "coords": [
             -7.5008,
@@ -59,7 +62,8 @@
             "de": "Ein manuelinischer Schandpfahl, Symbol der städtischen Autonomie. Perfekt für ein schnelles Foto.",
             "hu": "Egy mánuel stílusú pellengér, a városi autonómia jelképe. Tökéletes egy gyors fotóhoz.",
             "ro": "Un stâlp al infamiei în stil manuelin, simbol al autonomiei municipale. Perfect pentru o fotografie rapidă.",
-            "en": "A Manueline-style pillory, a symbol of municipal autonomy. Perfect for a quick photo."
+            "en": "A Manueline-style pillory, a symbol of municipal autonomy. Perfect for a quick photo.",
+            "pt": "Um pelourinho de estilo manuelino, símbolo da autonomia municipal. Perfeito para uma foto rápida."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Igreja Matriz do Fundão",
             "hu": "Fundão-i főtemplom",
             "ro": "Igreja Matriz do Fundão",
-            "en": "Mother Church of Fundão"
+            "en": "Mother Church of Fundão",
+            "pt": "Igreja Matriz do Fundão"
           },
           "coords": [
             -7.5015,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die barocken Altaraufsätze und die bemalte Decke im Inneren.",
             "hu": "Csodálja meg a barokk oltárképeket és a festett mennyezetet odabent.",
             "ro": "Admirați altarele baroce și tavanul pictat din interior.",
-            "en": "Admire the Baroque altarpieces and the painted ceiling inside."
+            "en": "Admire the Baroque altarpieces and the painted ceiling inside.",
+            "pt": "Admire os retábulos barrocos e o tecto pintado no interior."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Archäologisches Museum José Monteiro",
             "hu": "José Monteiro Régészeti Múzeum",
             "ro": "Muzeul Arheologic José Monteiro",
-            "en": "José Monteiro Archaeological Museum"
+            "en": "José Monteiro Archaeological Museum",
+            "pt": "Museu Arqueológico José Monteiro"
           },
           "coords": [
             -7.499,
@@ -105,7 +112,8 @@
             "de": "Konzentrieren Sie sich auf die römischen Artefakte, die in der Region gefunden wurden.",
             "hu": "Fókuszáljon a régióban talált római kori leletekre.",
             "ro": "Concentrați-vă pe artefactele romane găsite în regiune.",
-            "en": "Focus on the Roman artifacts discovered in the region."
+            "en": "Focus on the Roman artifacts discovered in the region.",
+            "pt": "Foque-se nos artefactos romanos descobertos na região."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Solar dos Falcões",
             "hu": "Solar dos Falcões",
             "ro": "Solar dos Falcões",
-            "en": "Solar dos Falcões"
+            "en": "Solar dos Falcões",
+            "pt": "Solar dos Falcões"
           },
           "coords": [
             -7.503,
@@ -128,7 +137,8 @@
             "de": "Obwohl es sich in Privatbesitz befindet, ist die Fassade ein großartiges Beispiel für die Adelsarchitektur des 18. Jahrhunderts.",
             "hu": "Bár magántulajdonban van, a homlokzat a 18. századi nemesi építészet remek példája.",
             "ro": "Deși este proprietate privată, fațada este un exemplu superb de arhitectură nobiliară din secolul al XVIII-lea.",
-            "en": "Although it's private property, the facade is a great example of 18th-century noble architecture."
+            "en": "Although it's private property, the facade is a great example of 18th-century noble architecture.",
+            "pt": "Embora seja propriedade privada, a fachada é um excelente exemplo da arquitetura nobre do século XVIII."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Stadtbibliothek Eugénio de Andrade",
             "hu": "Eugénio de Andrade Városi Könyvtár",
             "ro": "Biblioteca Municipală Eugénio de Andrade",
-            "en": "Eugénio de Andrade Municipal Library"
+            "en": "Eugénio de Andrade Municipal Library",
+            "pt": "Biblioteca Municipal Eugénio de Andrade"
           },
           "coords": [
             -7.495,
@@ -151,7 +162,8 @@
             "de": "Ein modernes Kulturzentrum. Schauen Sie nach, ob es eine temporäre Ausstellung gibt.",
             "hu": "Egy modern kulturális központ. Nézze meg, van-e időszaki kiállítás.",
             "ro": "Un centru cultural modern. Verificați dacă există vreo expoziție temporară.",
-            "en": "A modern cultural hub. Check if there's a temporary exhibition on display."
+            "en": "A modern cultural hub. Check if there's a temporary exhibition on display.",
+            "pt": "Um polo cultural moderno. Verifique se há alguma exposição temporária em exibição."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Parque Verde do Fundão",
             "hu": "Fundão-i Zöld Park",
             "ro": "Parque Verde do Fundão",
-            "en": "Green Park of Fundão"
+            "en": "Green Park of Fundão",
+            "pt": "Parque Verde do Fundão"
           },
           "coords": [
             -7.493,
@@ -174,7 +187,8 @@
             "de": "Der perfekte Ort, um sich am Nachmittag zu entspannen, vielleicht mit einem Buch aus der Bibliothek.",
             "hu": "Tökéletes hely a délutáni pihenésre, talán egy könyvvel a könyvtárból.",
             "ro": "Locul perfect pentru a vă relaxa după-amiaza, poate cu o carte de la bibliotecă.",
-            "en": "The perfect spot to relax in the afternoon, perhaps with a book from the library."
+            "en": "The perfect spot to relax in the afternoon, perhaps with a book from the library.",
+            "pt": "O local perfeito para relaxar à tarde, talvez com um livro da biblioteca."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Rundgang beginnt auf der belebten Praça do Município, dem Herzen von Fundão. Am Vormittag erkunden Sie die historischen Symbole der Stadt, wie den Schandpfahl und die Hauptkirche, gefolgt von einem tiefen Einblick in die Vergangenheit im Archäologischen Museum. Der Nachmittag steht im Zeichen der Entspannung und Kultur, beginnend mit der eleganten Fassade des Solar dos Falcões, gefolgt von einem Besuch der modernen Bibliothek und einem ruhigen Abschluss im üppigen Parque Verde. Dieser Tag bietet eine ausgewogene Mischung aus Geschichte und Freizeit in einem kompakten, zu Fuß erreichbaren Bereich.",
         "hu": "Sétája Fundão szívében, a nyüzsgő Praça do Município téren kezdődik. A délelőtt folyamán felfedezi a város történelmi jelképeit, mint a pellengért és a főtemplomot, majd a Régészeti Múzeumban mélyül el a múltban. A délután a pihenésé és a kultúráé: megcsodálja a Solar dos Falcões elegáns homlokzatát, ellátogat a modern könyvtárba, végül pedig a buja Parque Verde parkban zárja a napot. Ez az útvonal a történelem és a kikapcsolódás kiegyensúlyozott keverékét kínálja egy kompakt, gyalogosan bejárható területen.",
         "ro": "Turul dumneavoastră pietonal începe în vibranta Praça do Município, inima orașului Fundão. Dimineața explorați simbolurile istorice ale orașului, cum ar fi stâlpul infamiei și biserica principală, urmate de o incursiune în trecut la Muzeul Arheologic. După-amiaza este dedicată relaxării și culturii, admirând fațada elegantă a Solar dos Falcões, vizitând biblioteca modernă și încheind ziua într-o notă liniștită în luxuriantul Parque Verde. Acest itinerar oferă un amestec echilibrat de istorie și relaxare într-o zonă compactă, ușor de parcurs pe jos.",
-        "en": "Your walking tour starts in the vibrant Praça do Município, the heart of Fundão. The morning is for exploring the city's historical symbols like the pillory and the Mother Church, followed by a deep dive into the past at the Archaeological Museum. The afternoon is for relaxation and culture, admiring the elegant facade of Solar dos Falcões, visiting the modern library, and ending on a quiet note in the lush Parque Verde. This itinerary offers a balanced mix of history and leisure in a compact, walkable area."
+        "en": "Your walking tour starts in the vibrant Praça do Município, the heart of Fundão. The morning is for exploring the city's historical symbols like the pillory and the Mother Church, followed by a deep dive into the past at the Archaeological Museum. The afternoon is for relaxation and culture, admiring the elegant facade of Solar dos Falcões, visiting the modern library, and ending on a quiet note in the lush Parque Verde. This itinerary offers a balanced mix of history and leisure in a compact, walkable area.",
+        "pt": "O seu passeio a pé começa na vibrante Praça do Município, o coração do Fundão. De manhã explore os símbolos históricos da cidade, como o pelourinho e a Igreja Matriz, seguido de uma imersão no passado no Museu Arqueológico. A tarde é para relaxamento e cultura, admirando a elegante fachada do Solar dos Falcões, visitando a biblioteca moderna e terminando num tom calmo no exuberante Parque Verde. Este itinerário oferece um equilíbrio entre história e lazer numa área compacta e caminhável."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Most shops and some museums might close for lunch (around 1 PM to 3 PM).",
           "Always keep some cash on you, as smaller cafes might not accept cards.",
           "A light scarf or jacket is useful even on warm days for entering churches."
+        ],
+        "pt": [
+          "Use calçado confortável, pois os calçadões da zona antiga podem ser irregulares.",
+          "A maioria das lojas e alguns museus pode fechar para almoço (por volta das 13h às 15h).",
+          "Leve sempre algum dinheiro em numerário, pois cafés mais pequenos podem não aceitar cartões.",
+          "Um lenço leve ou casaco é útil mesmo em dias quentes para entrar nas igrejas."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Beginnen Sie Ihren Tag am Rathausplatz, wo die Arkaden Schutz vor dem Regen bieten. Mittags lädt das archäologische Museum zu einer langen, trockenen Entdeckungstour ein. Am Nachmittag ist die Stadtbibliothek der perfekte Ort zum Verweilen, während draußen der Regen auf das Dach prasselt. Den Abend lassen Sie gemütlich in einem der traditionellen Cafés im historischen Zentrum ausklingen.",
             "hu": "Kezdje a napot a Városháza téren, ahol az árkádok menedéket nyújtanak az eső elől. Délben a régészeti múzeum belső terei hívogatnak egy hosszú, száraz felfedezésre. Délután a városi könyvtár tökéletes hely a megpihenéshez, miközben kint kopog az eső. Az estét töltse egy hangulatos, hagyományos kávézóban a történelmi központ védelmében.",
             "ro": "Începeți ziua în Piața Municipiului, unde arcadele oferă adăpost împotriva ploii. La prânz, muzeul arheologic vă invită la o explorare lungă și uscată în interior. După-amiaza, biblioteca municipală este locul perfect pentru a vă relaxa în timp ce ploaia cade afară. Încheiați seara confortabil într-una dintre cafenelele tradiționale din centrul istoric.",
-            "en": "Start your day at the Town Hall Square, where the arcades offer shelter from the rain. At noon, the archaeological museum invites you for a long, dry indoor exploration. In the afternoon, the municipal library is the perfect place to rest while the rain drums outside. Spend the evening in a cozy, traditional café in the protected historic center."
+            "en": "Start your day at the Town Hall Square, where the arcades offer shelter from the rain. At noon, the archaeological museum invites you for a long, dry indoor exploration. In the afternoon, the municipal library is the perfect place to rest while the rain drums outside. Spend the evening in a cozy, traditional café in the protected historic center.",
+            "pt": "Comece o dia na Praça da Câmara, onde os arcos oferecem abrigo da chuva. Ao meio-dia, o museu arqueológico convida para uma longa exploração interior e seca. À tarde, a biblioteca municipal é o local perfeito para descansar enquanto a chuva bate lá fora. Passe a noite num café tradicional e acolhedor no centro histórico protegido."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Gebäude, um trocken zu bleiben.",
                 "hu": "Használja a környező épületek árkádjait, hogy szárazon maradjon.",
                 "ro": "Folosiți arcadele clădirilor din jur pentru a rămâne uscat.",
-                "en": "Use the arcades of the surrounding buildings to stay dry."
+                "en": "Use the arcades of the surrounding buildings to stay dry.",
+                "pt": "Use os arcos dos edifícios envolventes para se manter seco."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Ein kurzes Foto unter dem Regenschirm reicht hier völlig aus.",
                 "hu": "Egy gyors fotó az esernyő alól itt bőven elegendő.",
                 "ro": "O fotografie rapidă de sub umbrelă este suficientă aici.",
-                "en": "A quick photo from under your umbrella is plenty here."
+                "en": "A quick photo from under your umbrella is plenty here.",
+                "pt": "Uma fotografia rápida debaixo do seu guarda-chuva chega aqui."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Das prächtige Innere bietet einen idealen Rückzugsort vor dem Guss.",
                 "hu": "A pompás belső tér ideális menedéket nyújt a zápor elől.",
                 "ro": "Interiorul splendid oferă un refugiu ideal în fața ploii.",
-                "en": "The splendid interior offers an ideal retreat from the downpour."
+                "en": "The splendid interior offers an ideal retreat from the downpour.",
+                "pt": "O esplêndido interior oferece um refúgio ideal da chuva torrencial."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Perfekt für Regentage: Verweilen Sie ausgiebig in den Ausstellungsräumen.",
                 "hu": "Tökéletes esős napokra: időzzön el hosszan a kiállítótermekben.",
                 "ro": "Perfect pentru zilele ploioase: zăboviți mult în sălile de expoziție.",
-                "en": "Perfect for rainy days: spend plenty of time in the exhibition rooms."
+                "en": "Perfect for rainy days: spend plenty of time in the exhibition rooms.",
+                "pt": "Perfeito para dias chuvosos: passe bastante tempo nas salas de exposição."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Bewundern Sie die Fassade schnell und suchen Sie dann das nächste Café.",
                 "hu": "Csodálja meg gyorsan a homlokzatot, majd keressen egy közeli kávézót.",
                 "ro": "Admirați rapid fațada și apoi căutați cea mai apropiată cafenea.",
-                "en": "Admire the facade quickly and then find the nearest café."
+                "en": "Admire the facade quickly and then find the nearest café.",
+                "pt": "Admire rapidamente a fachada e depois encontre o café mais próximo."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Ein wunderbarer Ort, um bei einem Buch auf besseres Wetter zu warten.",
                 "hu": "Csodálatos hely, hogy egy könyv mellett várja meg a jobb időt.",
                 "ro": "Un loc minunat pentru a aștepta vremea mai bună cu o carte.",
-                "en": "A wonderful place to wait for better weather with a book."
+                "en": "A wonderful place to wait for better weather with a book.",
+                "pt": "Um lugar maravilhoso para esperar por melhor tempo com um livro."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Suchen Sie Schutz unter den Pavillons oder den dichten Bäumen.",
                 "hu": "Keressen menedéket a pavilonok alatt vagy a sűrű lombok között.",
                 "ro": "Căutați adăpost sub pavilioane sau sub copacii deși.",
-                "en": "Seek shelter under the pavilions or the dense trees."
+                "en": "Seek shelter under the pavilions or the dense trees.",
+                "pt": "Procure abrigo sob os pavilhões ou as árvores densas."
               }
             }
           ],
@@ -477,6 +506,12 @@
               "Museums in Fundão are often closed on Mondays; check in advance.",
               "Take advantage of the many cafés for short warm-up breaks.",
               "A sturdy umbrella is important due to the winds in the region."
+            ],
+            "pt": [
+              "Use calçado impermeável, pois as ruas de calçada tornam-se escorregadias.",
+              "Os museus no Fundão costumam estar fechados à segunda-feira; verifique com antecedência.",
+              "Aproveite os muitos cafés para pequenas pausas para aquecer.",
+              "Um guarda-chuva robusto é importante devido aos ventos na região."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Erleben Sie den winterlichen Charme Fundãos bei klarer, kalter Luft. Morgens wärmt der Besuch der Hauptkirche Geist und Körper. Das archäologische Museum bietet mittags eine willkommene Pause von der Kälte draußen. Da es bereits gegen 17:30 Uhr dunkel wird, verbringen Sie den späten Nachmittag in der gemütlichen Stadtbibliothek, bevor Sie den Tag bei einem Glas lokalem Wein beenden.",
             "hu": "Fedezze fel Fundão téli báját a tiszta, hideg levegőn sétálva. Reggel a főtemplom látogatása melengeti meg a lelket és a testet. A régészeti múzeum délben kellemes pihenőt nyújt a kinti hideg elől. Mivel már 17:30 körül sötétedik, a késő délutánt töltse a hangulatos városi könyvtárban, mielőtt egy pohár helyi borral zárná a napot.",
             "ro": "Experimentați farmecul iernatic al orașului Fundão în aerul rece și curat. Dimineața, vizitarea bisericii principale vă încălzește spiritul și corpul. Muzeul arheologic oferă la prânz o pauză binevenită de frigul de afară. Deoarece se întunecă deja în jurul orei 17:30, petreceți după-amiaza târzie în biblioteca municipală înainte de a încheia ziua cu un pahar de vin local.",
-            "en": "Experience Fundão's winter charm while walking in the clear, cold air. In the morning, a visit to the Mother Church warms both spirit and body. The archaeological museum provides a welcome noon break from the cold outside. Since it gets dark around 5:30 PM, spend the late afternoon in the cozy municipal library before ending the day with a glass of local wine."
+            "en": "Experience Fundão's winter charm while walking in the clear, cold air. In the morning, a visit to the Mother Church warms both spirit and body. The archaeological museum provides a welcome noon break from the cold outside. Since it gets dark around 5:30 PM, spend the late afternoon in the cozy municipal library before ending the day with a glass of local wine.",
+            "pt": "Experiencie o encanto do Fundão no inverno caminhando no ar claro e frio. De manhã, uma visita à Igreja Matriz aquece espírito e corpo. O museu arqueológico proporciona uma pausa ao meio-dia, longe do frio exterior. Como anoitece por volta das 17h30, passe o final da tarde na acolhedora biblioteca municipal antes de terminar o dia com um copo de vinho local."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Ein kurzer Stopp für Fotos, dann schnell weiter in die Wärme.",
                 "hu": "Egy rövid megálló fotózni, aztán irány gyorsan a meleg.",
                 "ro": "O scurtă oprire pentru fotografii, apoi mergeți repede la căldură.",
-                "en": "A quick stop for photos, then move on quickly to the warmth."
+                "en": "A quick stop for photos, then move on quickly to the warmth.",
+                "pt": "Uma paragem rápida para fotografias e depois siga rapidamente para um lugar quente."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Das Denkmal wirkt im klaren Winterlicht besonders scharf.",
                 "hu": "Az emlékmű a tiszta téli fényben különösen élesen mutat.",
                 "ro": "Monumentul arată deosebit de clar în lumina rece de iarnă.",
-                "en": "The monument looks especially sharp in the clear winter light."
+                "en": "The monument looks especially sharp in the clear winter light.",
+                "pt": "O monumento fica especialmente nítido com a luz clara de inverno."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Nutzen Sie die Stille und die relative Wärme des Kirchenraums.",
                 "hu": "Élvezze a templomtér csendjét és relatív melegét.",
                 "ro": "Bucurați-vă de liniștea și căldura relativă a spațiului bisericii.",
-                "en": "Enjoy the silence and relative warmth of the church interior."
+                "en": "Enjoy the silence and relative warmth of the church interior.",
+                "pt": "Desfrute do silêncio e do relativo calor do interior da igreja."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Ein idealer Ort, um die kältesten Stunden des Tages drinnen zu verbringen.",
                 "hu": "Ideális hely, hogy a nap leghidegebb óráit bent töltse.",
                 "ro": "Un loc ideal pentru a petrece cele mai reci ore ale zilei în interior.",
-                "en": "An ideal place to spend the coldest hours of the day indoors."
+                "en": "An ideal place to spend the coldest hours of the day indoors.",
+                "pt": "Um local ideal para passar as horas mais frias do dia no interior."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Die Steinmetzarbeiten sind auch im Winter sehenswert.",
                 "hu": "A kőfaragások télen is érdemesek a megtekintésre.",
                 "ro": "Sculpturile în piatră merită văzute chiar și iarna.",
-                "en": "The stonework is well worth seeing even in winter."
+                "en": "The stonework is well worth seeing even in winter.",
+                "pt": "A pedra merece ser vista mesmo no inverno."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Die beste Adresse für einen warmen, kulturellen Nachmittag.",
                 "hu": "A legjobb hely egy meleg, kulturált délutánhoz.",
                 "ro": "Cea mai bună locație pentru o după-amiază culturală călduroasă.",
-                "en": "The best location for a warm, cultured afternoon."
+                "en": "The best location for a warm, cultured afternoon.",
+                "pt": "O melhor local para uma tarde quente e cultural."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Ein zügiger Spaziergang hält den Kreislauf in Schwung.",
                 "hu": "Egy tempós séta mozgásban tartja a vérkeringést.",
                 "ro": "O plimbare vioaie menține circulația sângelui activă.",
-                "en": "A brisk walk keeps the circulation going."
+                "en": "A brisk walk keeps the circulation going.",
+                "pt": "Uma caminhada vigorosa mantém a circulação ativa."
               }
             }
           ],
@@ -576,6 +619,12 @@
               "Sunset is early (approx. 5:30 PM); plan outdoor stops before then.",
               "Try the roasted chestnuts, a local winter specialty.",
               "Watch out for shaded areas, as they remain significantly cooler."
+            ],
+            "pt": [
+              "Recomenda-se roupa em camadas: frio lá fora, frequentemente bem aquecido no interior.",
+              "O pôr do sol é cedo (aprox. 17h30); planeie as paragens ao ar livre antes dessa hora.",
+              "Experimente as castanhas assadas, uma especialidade local de inverno.",
+              "Cuidado com as áreas sombreadas, pois permanecem significativamente mais frias."
             ]
           }
         }
@@ -594,7 +643,8 @@
             "de": "Praça do Município",
             "hu": "Városháza tér",
             "ro": "Praça do Município",
-            "en": "Praça do Município (Town Hall Square)"
+            "en": "Praça do Município (Town Hall Square)",
+            "pt": "Praça do Município (Praça da Câmara)"
           },
           "coords": [
             -7.5005,
@@ -609,7 +659,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und genießen Sie einen Kaffee, bevor die Tour beginnt.",
             "hu": "Zárja le a kerékpárt, és igyon egy kávét a túra megkezdése előtt.",
             "ro": "Asigurați-vă bicicleta și savurați o cafea înainte de a începe turul.",
-            "en": "Lock up your bike and enjoy a coffee before starting the tour."
+            "en": "Lock up your bike and enjoy a coffee before starting the tour.",
+            "pt": "Tranque a sua bicicleta e desfrute de um café antes de iniciar o passeio."
           }
         },
         {
@@ -617,7 +668,8 @@
             "de": "Igreja Matriz do Fundão",
             "hu": "Fundão-i főtemplom",
             "ro": "Igreja Matriz do Fundão",
-            "en": "Mother Church of Fundão"
+            "en": "Mother Church of Fundão",
+            "pt": "Igreja Matriz do Fundão"
           },
           "coords": [
             -7.5015,
@@ -632,7 +684,8 @@
             "de": "Achten Sie auf die kunstvollen Holzschnitzereien, die typisch für die Region sind.",
             "hu": "Figyelje meg a régióra jellemző, díszes fafaragásokat.",
             "ro": "Observați sculpturile elaborate în lemn, tipice pentru regiune.",
-            "en": "Note the ornate wood carvings, typical of the region."
+            "en": "Note the ornate wood carvings, typical of the region.",
+            "pt": "Note as talhas de madeira ornamentadas, típicas da região."
           }
         },
         {
@@ -640,7 +693,8 @@
             "de": "Capela de Nossa Senhora da Conceição",
             "hu": "Nossa Senhora da Conceição kápolna",
             "ro": "Capela de Nossa Senhora da Conceição",
-            "en": "Chapel of Our Lady of the Conception"
+            "en": "Chapel of Our Lady of the Conception",
+            "pt": "Capela de Nossa Senhora da Conceição"
           },
           "coords": [
             -7.505,
@@ -655,7 +709,8 @@
             "de": "Von hier aus hat man einen leichten Panoramablick über die Stadt.",
             "hu": "Innen enyhe panorámás kilátás nyílik a városra.",
             "ro": "De aici se poate admira o ușoară vedere panoramică asupra orașului.",
-            "en": "Offers a slight panoramic view over the town from here."
+            "en": "Offers a slight panoramic view over the town from here.",
+            "pt": "Oferece uma ligeira vista panorâmica sobre a vila a partir daqui."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Archäologisches Museum José Monteiro",
             "hu": "José Monteiro Régészeti Múzeum",
             "ro": "Muzeul Arheologic José Monteiro",
-            "en": "José Monteiro Archaeological Museum"
+            "en": "José Monteiro Archaeological Museum",
+            "pt": "Museu Arqueológico José Monteiro"
           },
           "coords": [
             -7.499,
@@ -678,7 +734,8 @@
             "de": "Die Sammlung ist kompakt, aber reich an lokaler Geschichte. Ideal für eine längere Pause.",
             "hu": "A gyűjtemény kompakt, de gazdag helytörténeti anyagban. Ideális egy hosszabb pihenőre.",
             "ro": "Colecția este compactă, dar bogată în istorie locală. Ideală pentru o pauză mai lungă.",
-            "en": "The collection is compact but rich in local history. Ideal for a longer break."
+            "en": "The collection is compact but rich in local history. Ideal for a longer break.",
+            "pt": "A coleção é compacta mas rica em história local. Ideal para uma pausa mais longa."
           }
         },
         {
@@ -686,7 +743,8 @@
             "de": "Stadtbibliothek Eugénio de Andrade",
             "hu": "Eugénio de Andrade Városi Könyvtár",
             "ro": "Biblioteca Municipală Eugénio de Andrade",
-            "en": "Eugénio de Andrade Municipal Library"
+            "en": "Eugénio de Andrade Municipal Library",
+            "pt": "Biblioteca Municipal Eugénio de Andrade"
           },
           "coords": [
             -7.495,
@@ -701,7 +759,8 @@
             "de": "Ein architektonisch interessantes Gebäude, das einen Kontrast zur Altstadt bildet.",
             "hu": "Építészetileg érdekes épület, amely kontrasztot alkot az óvárossal.",
             "ro": "O clădire interesantă din punct de vedere arhitectural, care contrastează cu orașul vechi.",
-            "en": "An architecturally interesting building that contrasts with the old town."
+            "en": "An architecturally interesting building that contrasts with the old town.",
+            "pt": "Um edifício arquitetonicamente interessante que contrasta com a zona antiga."
           }
         },
         {
@@ -709,7 +768,8 @@
             "de": "Parque Verde do Fundão",
             "hu": "Fundão-i Zöld Park",
             "ro": "Parque Verde do Fundão",
-            "en": "Green Park of Fundão"
+            "en": "Green Park of Fundão",
+            "pt": "Parque Verde do Fundão"
           },
           "coords": [
             -7.493,
@@ -724,7 +784,8 @@
             "de": "Ideal für ein Picknick-Mittagessen. Es gibt auch Wege, die sich gut zum Radfahren eignen.",
             "hu": "Ideális egy piknik ebédhez. Vannak kerékpározásra is alkalmas utak.",
             "ro": "Ideal pentru un prânz la picnic. Există și alei potrivite pentru ciclism.",
-            "en": "Ideal for a picnic lunch. There are also paths suitable for cycling within the park."
+            "en": "Ideal for a picnic lunch. There are also paths suitable for cycling within the park.",
+            "pt": "Ideal para um piquenique. Há também caminhos adequados para ciclismo dentro do parque."
           }
         },
         {
@@ -732,7 +793,8 @@
             "de": "Solar dos Falcões",
             "hu": "Solar dos Falcões",
             "ro": "Solar dos Falcões",
-            "en": "Solar dos Falcões"
+            "en": "Solar dos Falcões",
+            "pt": "Solar dos Falcões"
           },
           "coords": [
             -7.503,
@@ -747,7 +809,8 @@
             "de": "Der letzte Halt der Tour, bewundern Sie die architektonischen Details, bevor Sie zurück ins Zentrum fahren.",
             "hu": "A túra utolsó állomása, csodálja meg az építészeti részleteket, mielőtt visszatekerne a központba.",
             "ro": "Ultima oprire a turului, admirați detaliile arhitecturale înainte de a vă întoarce în centru.",
-            "en": "The last stop on the tour, admire the architectural details before heading back to the center."
+            "en": "The last stop on the tour, admire the architectural details before heading back to the center.",
+            "pt": "A última paragem do passeio; admire os detalhes arquitetónicos antes de regressar ao centro."
           }
         }
       ],
@@ -755,7 +818,8 @@
         "de": "Diese Radtour führt Sie durch das Herz von Fundão und darüber hinaus. Nach einem Start auf der Praça do Município radeln Sie zu den wichtigsten Kirchen, einschließlich der etwas abgelegenen Capela, die eine schöne Aussicht bietet. Die Mitte des Tages ist der Kultur gewidmet, mit einem langen Stopp im Museum. Am Nachmittag können Sie im Parque Verde entspannen und ein Picknick machen, bevor Sie Ihre Tour mit einem Blick auf das historische Herrenhaus Solar dos Falcões abschließen. Die Route kombiniert mühelos städtische Erkundung mit entspannten Pausen im Grünen.",
         "hu": "Ez a kerékpártúra Fundão szívén és annak környékén vezet végig. A Praça do Município-n való indítás után elteker a főbb templomokhoz, beleértve a kissé távolabb eső, szép kilátást nyújtó kápolnát. A nap közepe a kultúráé, egy hosszabb megállóval a múzeumban. Délután pihenhet és piknikezhet a Parque Verde parkban, mielőtt a történelmi Solar dos Falcões megtekintésével zárja a túrát. Az útvonal könnyedén ötvözi a városi felfedezést a zöldben töltött pihentető szünetekkel.",
         "ro": "Acest tur cu bicicleta vă poartă prin inima orașului Fundão și dincolo de ea. După o pornire din Praça do Município, pedalați spre principalele biserici, inclusiv capela puțin mai îndepărtată, care oferă priveliști frumoase. Miezul zilei este dedicat culturii, cu o oprire lungă la muzeu. După-amiaza vă puteți relaxa cu un picnic în Parque Verde înainte de a încheia turul cu o privire la conacul istoric Solar dos Falcões. Traseul combină explorarea urbană cu pauze relaxante în natură.",
-        "en": "This bike tour takes you through the heart of Fundão and beyond. After a start at Praça do Município, you'll pedal to the main churches, including the slightly more distant Chapel for nice views. The middle of the day is dedicated to culture with a long stop at the museum. In the afternoon, relax with a picnic in Parque Verde before concluding your tour with a look at the historic Solar dos Falcões manor. The route effortlessly combines urban exploration with relaxing green breaks."
+        "en": "This bike tour takes you through the heart of Fundão and beyond. After a start at Praça do Município, you'll pedal to the main churches, including the slightly more distant Chapel for nice views. The middle of the day is dedicated to culture with a long stop at the museum. In the afternoon, relax with a picnic in Parque Verde before concluding your tour with a look at the historic Solar dos Falcões manor. The route effortlessly combines urban exploration with relaxing green breaks.",
+        "pt": "Este passeio de bicicleta leva-o pelo coração do Fundão e arredores. Após um início na Praça do Município, pedalará até às principais igrejas, incluindo a capela um pouco mais distante, que oferece boas vistas. O meio do dia é dedicado à cultura com uma longa paragem no museu. À tarde, relaxe com um piquenique no Parque Verde antes de concluir o passeio com uma visita ao Solar dos Falcões. A rota combina sem esforço exploração urbana com agradáveis pausas verdes."
       },
       "gastro_picks": {
         "de": [
@@ -951,6 +1015,12 @@
           "A helmet is highly recommended.",
           "Bring plenty of water, especially on hot days.",
           "A good lock is essential for when you leave your bike to explore sights."
+        ],
+        "pt": [
+          "Verifique a sua bicicleta antes de arrancar. As estradas podem ser íngremes.",
+          "O uso de capacete é fortemente recomendado.",
+          "Leve bastante água, especialmente em dias quentes.",
+          "Um bom cadeado é essencial quando deixar a bicicleta para visitar os pontos."
         ]
       },
       "variants": {
@@ -959,7 +1029,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf dem Kopfsteinpflaster von Fundão. Starten Sie vorsichtig am Rathausplatz und nutzen Sie die Kirchen für trockene Pausen. Mittags bietet das archäologische Museum eine lange Erholung für Mensch und Material. Nachmittags ist die Bibliothek ein guter Ankerpunkt, bevor Sie den Tag mit einer vorsichtigen Fahrt zum Hotel beenden.",
             "hu": "Az esőben való biciklizés óvatosságot igényel Fundão macskakövein. Kezdjen óvatosan a Városháza téren, és használja a templomokat száraz szünetekre. Délben a régészeti múzeum hosszú pihenőt nyújt embernek és gépnek egyaránt. Délután a könyvtár jó bázis, mielőtt óvatos tekeréssel visszatérne a szállására.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pavajul din Fundão. Începeți cu atenție în Piața Municipiului și folosiți bisericile pentru pauze uscate. La prânz, muzeul arheologic oferă o odihnă lungă pentru om și echipament. După-amiaza, biblioteca este un punct bun de ancorare înainte de a încheia ziua cu o cursă precaută.",
-            "en": "Cycling in the rain requires caution on Fundão's cobblestones. Start carefully at the Town Hall Square and use the churches for dry breaks. At noon, the archaeological museum offers a long rest for both person and gear. In the afternoon, the library is a good anchor point before ending the day with a cautious ride."
+            "en": "Cycling in the rain requires caution on Fundão's cobblestones. Start carefully at the Town Hall Square and use the churches for dry breaks. At noon, the archaeological museum offers a long rest for both person and gear. In the afternoon, the library is a good anchor point before ending the day with a cautious ride.",
+            "pt": "Ciclismo na chuva requer precaução nas calçadas do Fundão. Comece com cuidado na Praça do Município e use as igrejas para pausas secas. Ao meio-dia, o museu arqueológico oferece um longo descanso para pessoa e equipamento. À tarde, a biblioteca é um bom ponto de apoio antes de finalizar o dia com um passeio cauteloso."
           },
           "stops": [
             {
@@ -968,7 +1039,8 @@
                 "de": "Vorsicht beim Absteigen auf nassem Granitpflaster.",
                 "hu": "Vigyázat a leszálláskor a nedves gránitburkolaton.",
                 "ro": "Atenție la coborâre pe pavajul de granit umed.",
-                "en": "Be careful when dismounting on wet granite pavement."
+                "en": "Be careful when dismounting on wet granite pavement.",
+                "pt": "Tenha cuidado ao desmontar em pavimento de granito molhado."
               }
             },
             {
@@ -977,7 +1049,8 @@
                 "de": "Parken Sie das Rad im Schutz naher Vorsprünge.",
                 "hu": "Parkolja a biciklit közeli kiugrók védelmébe.",
                 "ro": "Parcați bicicleta sub protecția cornișelor din apropiere.",
-                "en": "Park your bike under the shelter of nearby ledges."
+                "en": "Park your bike under the shelter of nearby ledges.",
+                "pt": "Estacione a sua bicicleta ao abrigo das beiradas próximas."
               }
             },
             {
@@ -986,7 +1059,8 @@
                 "de": "Eine gute Gelegenheit, kurz abzutrocknen und die Kapelle zu bewundern.",
                 "hu": "Jó alkalom egy rövid száradásra és a kápolna megtekintésére.",
                 "ro": "O bună ocazie de a vă usca puțin și de a admira capela.",
-                "en": "A good opportunity to dry off briefly and admire the chapel."
+                "en": "A good opportunity to dry off briefly and admire the chapel.",
+                "pt": "Uma boa oportunidade para secar-se brevemente e admirar a capela."
               }
             },
             {
@@ -995,7 +1069,8 @@
                 "de": "Nutzen Sie den langen Stopp, um die Regenkleidung auszuschütteln.",
                 "hu": "Használja ki a hosszú megállót az esőruházat lerázására.",
                 "ro": "Profitați de oprirea lungă pentru a scutura echipamentul de ploaie.",
-                "en": "Take advantage of the long stop to shake out your rain gear."
+                "en": "Take advantage of the long stop to shake out your rain gear.",
+                "pt": "Aproveite a longa paragem para sacudir o equipamento de chuva."
               }
             },
             {
@@ -1004,7 +1079,8 @@
                 "de": "Hier können Sie in Ruhe die weitere Route bei Regen planen.",
                 "hu": "Itt nyugodtan megtervezheti a további útvonalat az esőben.",
                 "ro": "Aici puteți planifica restul rutei prin ploaie în liniște.",
-                "en": "Here you can quietly plan the rest of your route in the rain."
+                "en": "Here you can quietly plan the rest of your route in the rain.",
+                "pt": "Aqui pode planear calmamente o resto do percurso na chuva."
               }
             },
             {
@@ -1013,7 +1089,8 @@
                 "de": "Vermeiden Sie schnelle Kurven auf den nassen Parkwegen.",
                 "hu": "Kerülje a gyors kanyarodást a park nedves ösvényein.",
                 "ro": "Evitați virajele rapide pe potecile umede din parc.",
-                "en": "Avoid sharp turns on the wet park paths."
+                "en": "Avoid sharp turns on the wet park paths.",
+                "pt": "Evite curvas apertadas nos caminhos do parque molhados."
               }
             },
             {
@@ -1022,7 +1099,8 @@
                 "de": "Kurzer Fotostopp, bevor es zur finalen Etappe geht.",
                 "hu": "Rövid fotómegálló az utolsó szakasz előtt.",
                 "ro": "Scurtă oprire pentru poze înainte de etapa finală.",
-                "en": "Short photo stop before the final leg."
+                "en": "Short photo stop before the final leg.",
+                "pt": "Paragem rápida para fotos antes do último troço."
               }
             }
           ],
@@ -1050,6 +1128,12 @@
               "Check your brakes: braking distance is longer on wet stones.",
               "Look for bike racks under awnings.",
               "A saddle cover keeps your seat dry even during stops."
+            ],
+            "pt": [
+              "Use um casaco de chuva totalmente refletor para melhor visibilidade.",
+              "Verifique os travões: a distância de travagem é maior em pedras molhadas.",
+              "Procure suportes para bicicletas sob as marquises.",
+              "Uma capa de selim mantém o assento seco mesmo durante as paragens."
             ]
           }
         },
@@ -1058,7 +1142,8 @@
             "de": "Eine Wintertour mit dem Rad durch Fundão ist erfrischend. Starten Sie warm eingepackt am Rathausplatz. Die Kirchenbesuche bieten die nötige Wärme zwischendurch. Das Museum am Mittag ist der ideale Ort, um die Kälte abzuschütteln. Da die Sonne früh verschwindet, beenden Sie Ihre Tour am späten Nachmittag im Park oder der Bibliothek, wenn die Temperaturen sinken.",
             "hu": "Egy téli biciklitúra Fundãóban frissítő élmény. Induljon melegen felöltözve a Városháza térről. A templomlátogatások megadják a szükséges köztes melegséget. A múzeum délben ideális hely a hideg lerázására. Mivel a nap korán lebukik, fejezze be a túrát késő délután a parkban vagy a könyvtárban, ahogy a hőmérséklet süllyed.",
             "ro": "O tură de iarnă cu bicicleta prin Fundão este o experiență revigorantă. Începeți bine înfofoliți din Piața Municipiului. Vizitele la biserici oferă căldura necesară pe parcurs. Muzeul de la prânz este locul ideal pentru a scăpa de frig. Deoarece soarele apune devreme, încheiați turul după-amiaza târziu când temperaturile scad.",
-            "en": "A winter bike tour through Fundão is a refreshing experience. Start wrapped up warm at the Town Hall Square. Church visits provide necessary warmth along the way. The museum at noon is the ideal place to shake off the cold. Since the sun sets early, finish your tour in the late afternoon as temperatures drop."
+            "en": "A winter bike tour through Fundão is a refreshing experience. Start wrapped up warm at the Town Hall Square. Church visits provide necessary warmth along the way. The museum at noon is the ideal place to shake off the cold. Since the sun sets early, finish your tour in the late afternoon as temperatures drop.",
+            "pt": "Um passeio de bicicleta de inverno pelo Fundão é uma experiência revigorante. Comece bem agasalhado na Praça do Município. As visitas às igrejas proporcionam o calor necessário ao longo do percurso. O museu ao meio-dia é o local ideal para se livrar do frio. Como o sol se põe cedo, termine o passeio no final da tarde à medida que as temperaturas descem."
           },
           "stops": [
             {
@@ -1067,7 +1152,8 @@
                 "de": "Tragen Sie winddichte Handschuhe für die Fahrt.",
                 "hu": "Viseljen szélálló kesztyűt a tekeréshez.",
                 "ro": "Purtați mănuși rezistente la vânt pentru cursă.",
-                "en": "Wear windproof gloves for the ride."
+                "en": "Wear windproof gloves for the ride.",
+                "pt": "Use luvas corta-vento para a volta."
               }
             },
             {
@@ -1076,7 +1162,8 @@
                 "de": "Eine gute Aufwärmpause im geschützten Innenraum.",
                 "hu": "Jó melegedő szünet a védett belső térben.",
                 "ro": "O bună pauză de încălzire în spațiul interior protejat.",
-                "en": "A good warm-up break in the protected interior."
+                "en": "A good warm-up break in the protected interior.",
+                "pt": "Uma boa pausa para aquecer no interior protegido."
               }
             },
             {
@@ -1085,7 +1172,8 @@
                 "de": "Genießen Sie die Ruhe der Kapelle abseits des Fahrtwindes.",
                 "hu": "Élvezze a kápolna nyugalmát a menetszéltől távol.",
                 "ro": "Bucurați-vă de liniștea capelei, ferit de curent.",
-                "en": "Enjoy the chapel's peace, away from the riding wind."
+                "en": "Enjoy the chapel's peace, away from the riding wind.",
+                "pt": "Desfrute da paz da capela, longe do vento enquanto pedala."
               }
             },
             {
@@ -1094,7 +1182,8 @@
                 "de": "Lassen Sie die Winterausrüstung hier kurz ruhen.",
                 "hu": "Hagyja itt egy kicsit pihenni a téli felszerelést.",
                 "ro": "Lăsați echipamentul de iarnă să se odihnească aici puțin.",
-                "en": "Let your winter gear rest here for a bit."
+                "en": "Let your winter gear rest here for a bit.",
+                "pt": "Deixe o seu equipamento de inverno descansar aqui por um pouco."
               }
             },
             {
@@ -1103,7 +1192,8 @@
                 "de": "Wärmen Sie sich auf, bevor die Sonne untergeht.",
                 "hu": "Melegedjen fel, mielőtt lemegy a nap.",
                 "ro": "Încălziți-vă înainte de apusul soarelui.",
-                "en": "Warm up before the sun goes down."
+                "en": "Warm up before the sun goes down.",
+                "pt": "Aqueça-se antes que o sol se ponha."
               }
             },
             {
@@ -1112,7 +1202,8 @@
                 "de": "Das tiefe Winterlicht sorgt für schöne Schatten im Park.",
                 "hu": "Az alacsony téli napfény szép árnyékokat vet a parkban.",
                 "ro": "Lumina joasă de iarnă creează umbre frumoase în parc.",
-                "en": "The low winter sun creates beautiful shadows in the park."
+                "en": "The low winter sun creates beautiful shadows in the park.",
+                "pt": "O sol baixo de inverno cria sombras bonitas no parque."
               }
             },
             {
@@ -1121,7 +1212,8 @@
                 "de": "Letzter Stopp in der Dämmerung – Licht am Rad einschalten!",
                 "hu": "Utolsó megálló szürkületben – kapcsolja be a lámpákat!",
                 "ro": "Ultima oprire în amurg – aprindeți luminile bicicletei!",
-                "en": "Last stop at dusk – turn on your bike lights!"
+                "en": "Last stop at dusk – turn on your bike lights!",
+                "pt": "Última paragem ao anoitecer – ligue as luzes da bicicleta!"
               }
             }
           ],
@@ -1149,6 +1241,12 @@
               "Days are short; plan your return by 5:30 PM.",
               "Wear thermal base layers under your cycling pants.",
               "A hot Galão (latte) after the tour works wonders."
+            ],
+            "pt": [
+              "Cuidado com geada ou gelo nas sombras da Gardunha.",
+              "Os dias são curtos; planeie o regresso até às 17h30.",
+              "Use camadas térmicas por baixo das calças de ciclismo.",
+              "Um Galão quente depois do passeio faz maravilhas."
             ]
           }
         }
@@ -1167,7 +1265,8 @@
             "de": "Cluster A: Historisches Zentrum",
             "hu": "A klaszter: Történelmi központ",
             "ro": "Cluster A: Centrul Istoric",
-            "en": "Cluster A: Historic Center"
+            "en": "Cluster A: Historic Center",
+            "pt": "Agrupamento A: Centro Histórico"
           },
           "coords": [
             -7.5005,
@@ -1183,7 +1282,8 @@
             "de": "Parken Sie Ihr Auto in der Nähe der Praça do Município. Sie werden dieses Gebiet zu Fuß erkunden.",
             "hu": "Parkolja le az autót a Praça do Município közelében. Ezt a területet gyalog fogja felfedezni.",
             "ro": "Parcați mașina lângă Praça do Município. Veți explora această zonă pe jos.",
-            "en": "Park your car near Praça do Município. You'll explore this area on foot."
+            "en": "Park your car near Praça do Município. You'll explore this area on foot.",
+            "pt": "Estacione o carro perto da Praça do Município. Esta área será explorada a pé."
           }
         },
         {
@@ -1191,7 +1291,8 @@
             "de": "Igreja Matriz do Fundão",
             "hu": "Fundão-i főtemplom",
             "ro": "Igreja Matriz do Fundão",
-            "en": "Mother Church of Fundão"
+            "en": "Mother Church of Fundão",
+            "pt": "Igreja Matriz do Fundão"
           },
           "coords": [
             -7.5015,
@@ -1207,7 +1308,8 @@
             "de": "Ein kurzer Spaziergang vom Platz aus. Bewundern Sie die barocke Fassade.",
             "hu": "Rövid séta a térről. Csodálja meg a barokk homlokzatot.",
             "ro": "O scurtă plimbare din piață. Admirați fațada barocă.",
-            "en": "A short walk from the square. Admire the baroque facade."
+            "en": "A short walk from the square. Admire the baroque facade.",
+            "pt": "A uma curta caminhada da praça. Admire a fachada barroca."
           }
         },
         {
@@ -1215,7 +1317,8 @@
             "de": "Archäologisches Museum José Monteiro",
             "hu": "José Monteiro Régészeti Múzeum",
             "ro": "Muzeul Arheologic José Monteiro",
-            "en": "José Monteiro Archaeological Museum"
+            "en": "José Monteiro Archaeological Museum",
+            "pt": "Museu Arqueológico José Monteiro"
           },
           "coords": [
             -7.499,
@@ -1231,7 +1334,8 @@
             "de": "Erfahren Sie mehr über die reiche Geschichte der Region, bevor Sie zu Mittag essen.",
             "hu": "Ismerje meg a régió gazdag történelmét ebéd előtt.",
             "ro": "Aflați despre istoria bogată a regiunii înainte de prânz.",
-            "en": "Learn about the region's rich history before having lunch."
+            "en": "Learn about the region's rich history before having lunch.",
+            "pt": "Conheça a rica história da região antes de almoçar."
           }
         },
         {
@@ -1239,7 +1343,8 @@
             "de": "Cluster B: Kultur- und Freizeitbereich",
             "hu": "B klaszter: Kulturális és szabadidős zóna",
             "ro": "Cluster B: Zona Culturală și de Agrement",
-            "en": "Cluster B: Cultural and Leisure Zone"
+            "en": "Cluster B: Cultural and Leisure Zone",
+            "pt": "Cluster B: Zona Cultural e de Lazer"
           },
           "coords": [
             -7.493,
@@ -1255,7 +1360,8 @@
             "de": "Fahren Sie zum Parque Verde. Hier gibt es ausreichend Parkplätze. Ideal für ein Mittagessen und einen Spaziergang.",
             "hu": "Vezessen a Parque Verde-hez. Itt bőséges parkolóhely található. Ideális ebédhez és sétához.",
             "ro": "Conduceți spre Parque Verde. Există parcare amplă aici. Ideal pentru prânz și o plimbare.",
-            "en": "Drive to Parque Verde. There's ample parking here. Ideal for lunch and a walk."
+            "en": "Drive to Parque Verde. There's ample parking here. Ideal for lunch and a walk.",
+            "pt": "Conduza até ao Parque Verde. Há estacionamento abundante aqui. Ideal para almoçar e dar um passeio."
           }
         },
         {
@@ -1263,7 +1369,8 @@
             "de": "Stadtbibliothek Eugénio de Andrade",
             "hu": "Eugénio de Andrade Városi Könyvtár",
             "ro": "Biblioteca Municipală Eugénio de Andrade",
-            "en": "Eugénio de Andrade Municipal Library"
+            "en": "Eugénio de Andrade Municipal Library",
+            "pt": "Biblioteca Municipal Eugénio de Andrade"
           },
           "coords": [
             -7.495,
@@ -1279,7 +1386,8 @@
             "de": "Nur einen kurzen Spaziergang vom Park entfernt, ein Muss für Architekturliebhaber.",
             "hu": "Csak egy rövid séta a parktól, kötelező az építészet szerelmeseinek.",
             "ro": "La o scurtă plimbare de parc, o vizită obligatorie pentru iubitorii de arhitectură.",
-            "en": "Just a short walk from the park, a must-see for architecture lovers."
+            "en": "Just a short walk from the park, a must-see for architecture lovers.",
+            "pt": "A uma curta caminhada do parque, imperdível para os amantes de arquitetura."
           }
         },
         {
@@ -1287,7 +1395,8 @@
             "de": "Aussichtspunkt Serra da Gardunha",
             "hu": "Serra da Gardunha kilátó",
             "ro": "Punct de belvedere Serra da Gardunha",
-            "en": "Serra da Gardunha Viewpoint"
+            "en": "Serra da Gardunha Viewpoint",
+            "pt": "Miradouro da Serra da Gardunha"
           },
           "coords": [
             -7.55,
@@ -1303,7 +1412,8 @@
             "de": "Eine kurze Fahrt in die Berge für einen atemberaubenden Panoramablick auf die Region.",
             "hu": "Egy rövid autóút a hegyekbe a régió lélegzetelállító panorámájáért.",
             "ro": "O scurtă călătorie cu mașina în munți pentru vederi panoramice uluitoare ale regiunii.",
-            "en": "A short drive into the mountains for breathtaking panoramic views of the region."
+            "en": "A short drive into the mountains for breathtaking panoramic views of the region.",
+            "pt": "Uma curta viagem de carro para as montanhas com vistas panorâmicas de cortar a respiração sobre a região."
           }
         }
       ],
@@ -1311,7 +1421,8 @@
         "de": "Dieser Autotag ist in Cluster unterteilt, um das Beste von Fundão und seiner Umgebung zu erleben. Sie beginnen im historischen Zentrum, parken Ihr Auto und erkunden die Hauptsehenswürdigkeiten zu Fuß. Nach dem Eintauchen in die Geschichte fahren Sie zum grünen Herzen der Stadt, dem Parque Verde, für ein entspanntes Mittagessen und einen kulturellen Besuch in der Bibliothek. Der Tag endet mit einer malerischen Fahrt in die Serra da Gardunha, die einen unvergesslichen Blick auf die Landschaft der Beira Baixa bietet. Diese Route optimiert das Fahren und maximiert das Erlebnis zu Fuß.",
         "hu": "Ez az autós nap klaszterekre van osztva, hogy a legtöbbet hozza ki Fundãoból és környékéből. A történelmi központban kezd, ahol leparkolja az autót, és gyalog fedezi fel a fő látnivalókat. A történelembe való elmerülés után a város zöld szívébe, a Parque Verde-be hajt egy pihentető ebédre és egy kulturális látogatásra a könyvtárban. A nap egy festői autózással zárul a Serra da Gardunha-hegységbe, ahonnan felejthetetlen kilátás nyílik a Beira Baixa tájaira. Ez az útvonal optimalizálja a vezetést és maximalizálja a gyalogos élményt.",
         "ro": "Această zi cu mașina este structurată în clustere pentru a experimenta ce este mai bun în Fundão și împrejurimile sale. Începeți în centrul istoric, parcând mașina și explorând principalele atracții pe jos. După imersiunea în istorie, conduceți spre inima verde a orașului, Parque Verde, pentru un prânz relaxant și o vizită culturală la bibliotecă. Ziua se încheie cu o plimbare pitorească în Serra da Gardunha, oferind vederi de neuitat ale peisajului din Beira Baixa. Acest itinerar optimizează condusul și maximizează experiența pietonală.",
-        "en": "This car-based day is structured in clusters to experience the best of Fundão and its surroundings. You'll start in the historic center, parking your car and exploring the main sights on foot. After your history immersion, you drive to the city's green heart, Parque Verde, for a relaxed lunch and a cultural visit to the library. The day culminates with a scenic drive up to Serra da Gardunha, offering unforgettable views of the Beira Baixa landscape. This itinerary optimizes driving and maximizes the walking experience."
+        "en": "This car-based day is structured in clusters to experience the best of Fundão and its surroundings. You'll start in the historic center, parking your car and exploring the main sights on foot. After your history immersion, you drive to the city's green heart, Parque Verde, for a relaxed lunch and a cultural visit to the library. The day culminates with a scenic drive up to Serra da Gardunha, offering unforgettable views of the Beira Baixa landscape. This itinerary optimizes driving and maximizes the walking experience.",
+        "pt": "Este dia baseado em carro está estruturado em clusters para experienciar o melhor do Fundão e arredores. Começa no centro histórico, estacionando o carro e explorando os principais pontos a pé. Depois da imersão histórica, conduz até ao coração verde da cidade, o Parque Verde, para um almoço relaxado e uma visita cultural à biblioteca. O dia culmina com uma viagem cénica até à Serra da Gardunha, oferecendo vistas inesquecíveis da paisagem da Beira Baixa. Este roteiro otimiza o tempo de condução e maximiza a experiência a pé."
       },
       "gastro_picks": {
         "de": [
@@ -1507,6 +1618,12 @@
           "The roads in Serra da Gardunha are narrow and winding, drive carefully.",
           "Check opening times as some attractions may be seasonal.",
           "Don't leave valuables visible in your car."
+        ],
+        "pt": [
+          "Estacionar pode ser complicado no centro da cidade, mas há vários parques de estacionamento sinalizados.",
+          "As estradas na Serra da Gardunha são estreitas e sinuosas, conduza com cuidado.",
+          "Verifique os horários de abertura, pois algumas atrações podem ser sazonais.",
+          "Não deixe objectos de valor visíveis no carro."
         ]
       },
       "variants": {
@@ -1515,7 +1632,8 @@
             "de": "Mit dem Auto erkunden Sie Fundão auch bei Regen komfortabel. Beginnen Sie im historischen Zentrum und nutzen Sie das Museum als trockenen Ankerpunkt am Mittag. Die Fahrt zum Aussichtspunkt Serra da Gardunha am Nachmittag ist auch bei Wolken stimmungsvoll, solange die Sicht reicht. Den Abend genießen Sie in der Stadt, ohne nass zu werden.",
             "hu": "Autóval Fundão esőben is kényelmesen felfedezhető. Kezdje a történelmi központban, és használja a múzeumot száraz bázisként délben. A délutáni autózás a Serra da Gardunha kilátóhoz felhős időben is hangulatos, amíg a látótávolság engedi. Az estét a városban élvezheti anélkül, hogy megázna.",
             "ro": "Cu mașina puteți explora Fundão confortabil chiar și pe ploaie. Începeți în centrul istoric și folosiți muzeul ca punct de ancorare uscat la prânz. Drumul spre punctul de belvedere Serra da Gardunha este atmosferic chiar și cu nori. Bucurați-vă de seară în oraș fără a vă uda.",
-            "en": "Explore Fundão comfortably by car even in the rain. Start in the historic center and use the museum as a dry anchor point at noon. The afternoon drive to the Serra da Gardunha viewpoint is atmospheric even with clouds, as long as visibility allows. Enjoy the evening in the city without getting wet."
+            "en": "Explore Fundão comfortably by car even in the rain. Start in the historic center and use the museum as a dry anchor point at noon. The afternoon drive to the Serra da Gardunha viewpoint is atmospheric even with clouds, as long as visibility allows. Enjoy the evening in the city without getting wet.",
+            "pt": "Explore o Fundão confortavelmente de carro mesmo com chuva. Comece no centro histórico e use o museu como ponto seco ao meio-dia. A viagem de tarde até ao miradouro da Serra da Gardunha é atmosférica mesmo com nuvens, desde que a visibilidade permita. Desfrute da noite na cidade sem se molhar."
           },
           "stops": [
             {
@@ -1524,7 +1642,8 @@
                 "de": "Parken Sie in der Nähe der Praça, um Laufwege zu minimieren.",
                 "hu": "Parkoljon a tér közelében, hogy minimalizálja a gyaloglást.",
                 "ro": "Parcați aproape de piață pentru a minimiza mersul pe jos.",
-                "en": "Park near the square to minimize walking distances."
+                "en": "Park near the square to minimize walking distances.",
+                "pt": "Estacione perto da praça para minimizar distâncias a pé."
               }
             },
             {
@@ -1533,7 +1652,8 @@
                 "de": "Lassen Sie den Schirm im Auto, wenn Sie nah parken können.",
                 "hu": "Hagyja az ernyőt az autóban, ha közel tud parkolni.",
                 "ro": "Lăsați umbrela în mașină dacă puteți parca aproape.",
-                "en": "Leave your umbrella in the car if you can park close by."
+                "en": "Leave your umbrella in the car if you can park close by.",
+                "pt": "Deixe o guarda-chuva no carro se conseguir estacionar perto."
               }
             },
             {
@@ -1542,7 +1662,8 @@
                 "de": "Ideal für regnerische Stunden im Trockenen.",
                 "hu": "Ideális esős órákra a szárazban.",
                 "ro": "Ideal pentru orele ploioase petrecute la adăpost.",
-                "en": "Ideal for rainy hours spent indoors."
+                "en": "Ideal for rainy hours spent indoors.",
+                "pt": "Ideal para horas chuvosas passadas em espaços interiores."
               }
             },
             {
@@ -1551,7 +1672,8 @@
                 "de": "Der Parkbesuch kann bei starkem Regen kurz ausfallen.",
                 "hu": "A parklátogatás erős esőben lehet rövidebb is.",
                 "ro": "Vizita la parc poate fi scurtă în caz de ploaie torențială.",
-                "en": "The park visit can be brief in case of heavy rain."
+                "en": "The park visit can be brief in case of heavy rain.",
+                "pt": "A visita ao parque pode ser breve em caso de chuva intensa."
               }
             },
             {
@@ -1560,7 +1682,8 @@
                 "de": "Guter Parkplatz direkt an der Bibliothek vorhanden.",
                 "hu": "Jó parkolási lehetőség közvetlenül a könyvtárnál.",
                 "ro": "Parcare bună disponibilă chiar lângă bibliotecă.",
-                "en": "Good parking available right by the library."
+                "en": "Good parking available right by the library.",
+                "pt": "Bom estacionamento disponível mesmo junto à biblioteca."
               }
             },
             {
@@ -1569,7 +1692,8 @@
                 "de": "Bei Nebel ist die Sicht stark eingeschränkt, vorsichtig fahren.",
                 "hu": "Köd esetén a látótávolság korlátozott, vezessen óvatosan.",
                 "ro": "În caz de ceață vizibilitatea este limitată, conduceți cu atenție.",
-                "en": "In case of fog, visibility is limited; drive carefully."
+                "en": "In case of fog, visibility is limited; drive carefully.",
+                "pt": "Em caso de nevoeiro, a visibilidade é limitada; conduza com cuidado."
               }
             }
           ],
@@ -1597,6 +1721,12 @@
               "Check the condition of your windshield wipers.",
               "Downtown parking spots fill up quickly when it rains.",
               "Avoid deep puddles in low-lying road sections."
+            ],
+            "pt": [
+              "As estradas montanhosas para Gardunha podem ficar escorregadias com chuva.",
+              "Verifique o estado das escovas limpa-pára-brisas.",
+              "Os lugares de estacionamento no centro enchem-se rapidamente quando chove.",
+              "Evite poças profundas em troços de estrada baixos."
             ]
           }
         },
@@ -1605,7 +1735,8 @@
             "de": "Winterliche Autofahrten rund um Fundão bieten spektakuläre Ausblicke auf die oft schneebedeckten Gipfel der Gardunha. Starten Sie gemütlich im Ort und nutzen Sie das Museum für die kälteste Mittagszeit. Die Fahrt zum Aussichtspunkt ist das Highlight, aber achten Sie auf Eis. Beenden Sie den Tag früh, da die Dämmerung in den Bergen schnell einsetzt.",
             "hu": "A téli autózás Fundão környékén látványos kilátást nyújt a Gardunha gyakran hófödte csúcsaira. Kezdjen kényelmesen a városban, és használja a múzeumot a leghidegebb déli órákban. A kilátóhoz vezető út a nap fénypontja, de ügyeljen a jegesedésre. Fejezze be korán a napot, mert a hegyekben gyorsan sötétedik.",
             "ro": "Călătoriile cu mașina iarna în jurul orașului Fundão oferă vederi spectaculoase spre vârfurile înzăpezite ale munților Gardunha. Începeți relaxat în oraș și vizitați muzeul la prânz. Drumul spre belvedere este punctul culminant, dar atenție la gheață. Încheiați ziua devreme, amurgul vine repede la munte.",
-            "en": "Winter drives around Fundão offer spectacular views of the often snow-capped Gardunha peaks. Start comfortably in town and use the museum for the coldest noon hours. The drive to the viewpoint is the highlight, but watch out for ice. End the day early as dusk falls quickly in the mountains."
+            "en": "Winter drives around Fundão offer spectacular views of the often snow-capped Gardunha peaks. Start comfortably in town and use the museum for the coldest noon hours. The drive to the viewpoint is the highlight, but watch out for ice. End the day early as dusk falls quickly in the mountains.",
+            "pt": "As viagens de inverno pelo Fundão oferecem vistas espectaculares dos picos da Gardunha frequentemente cobertos de neve. Comece confortavelmente na cidade e use o museu nas horas de frio ao meio-dia. A viagem até ao miradouro é o ponto alto, mas atenção ao gelo. Termine o dia cedo, pois o anoitecer nas montanhas é rápido."
           },
           "stops": [
             {
@@ -1614,7 +1745,8 @@
                 "de": "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Zonen.",
                 "hu": "Használja az ülésfűtést a zónák közötti rövid utakon.",
                 "ro": "Folosiți încălzirea în scaune pentru drumurile scurte între zone.",
-                "en": "Use seat heating for the short drives between zones."
+                "en": "Use seat heating for the short drives between zones.",
+                "pt": "Use o aquecimento dos bancos para as curtas deslocações entre zonas."
               }
             },
             {
@@ -1623,7 +1755,8 @@
                 "de": "Ein kurzer Fußweg vom Parkplatz zur Kirche ist erfrischend.",
                 "hu": "Egy rövid séta a parkolótól a templomig frissítő lesz.",
                 "ro": "O scurtă plimbare de la parcare la biserică este revigorantă.",
-                "en": "A short walk from the parking lot to the church is refreshing."
+                "en": "A short walk from the parking lot to the church is refreshing.",
+                "pt": "Uma curta caminhada do parque de estacionamento até à igreja é revigorante."
               }
             },
             {
@@ -1632,7 +1765,8 @@
                 "de": "Perfekt geheizt für eine kulturelle Pause.",
                 "hu": "Tökéletesen fűtött hely egy kulturális szünethez.",
                 "ro": "Încălzit perfect pentru o pauză culturală.",
-                "en": "Perfectly heated for a cultural break."
+                "en": "Perfectly heated for a cultural break.",
+                "pt": "Perfeitamente aquecido para uma pausa cultural."
               }
             },
             {
@@ -1641,7 +1775,8 @@
                 "de": "Der Park wirkt im Winter kahl, aber weitläufig.",
                 "hu": "A park télen kopárnak hathat, de tágas.",
                 "ro": "Parcul poate părea golaș iarna, dar este spațios.",
-                "en": "The park may look bare in winter but is spacious."
+                "en": "The park may look bare in winter but is spacious.",
+                "pt": "O parque pode parecer despido no inverno, mas é espaçoso."
               }
             },
             {
@@ -1650,7 +1785,8 @@
                 "de": "Ein guter Ort zum Aufwärmen vor der Bergfahrt.",
                 "hu": "Jó hely a felmelegedéshez a hegyi út előtt.",
                 "ro": "Un loc bun pentru încălzire înainte de drumul la munte.",
-                "en": "A good place to warm up before the mountain drive."
+                "en": "A good place to warm up before the mountain drive.",
+                "pt": "Um bom local para aquecer antes da viagem para a montanha."
               }
             },
             {
@@ -1659,7 +1795,8 @@
                 "de": "Achtung bei Minustemperaturen – Straßenglätte möglich!",
                 "hu": "Vigyázat fagypont alatt – jegesedés lehetséges az utakon!",
                 "ro": "Atenție la temperaturi negative – polei posibil pe drum!",
-                "en": "Caution at freezing temperatures – ice is possible on the roads!"
+                "en": "Caution at freezing temperatures – ice is possible on the roads!",
+                "pt": "Cuidado a temperaturas negativas – o gelo é possível nas estradas!"
               }
             }
           ],
@@ -1687,6 +1824,12 @@
               "Check the antifreeze in your windshield washer fluid.",
               "Watch out for wildlife crossing during dusk.",
               "Mountain air is significantly colder than in the Fundão valley."
+            ],
+            "pt": [
+              "Leve correntes para a neve se subir mais alto na Gardunha.",
+              "Verifique o antigelo no líquido do limpa-pára-brisas.",
+              "Cuidado com animais selvagens a atravessar ao anoitecer.",
+              "O ar da montanha é significativamente mais frio do que no vale do Fundão."
             ]
           }
         }
@@ -1705,7 +1848,8 @@
             "de": "Cluster A: Praça do Município",
             "hu": "A klaszter: Városháza tér",
             "ro": "Cluster A: Praça do Município",
-            "en": "Cluster A: Praça do Município"
+            "en": "Cluster A: Praça do Município",
+            "pt": "Cluster A: Praça do Município"
           },
           "coords": [
             -7.5005,
@@ -1721,7 +1865,8 @@
             "de": "Nehmen Sie einen Bus zum Hauptplatz, um Ihren Tag zu beginnen. Die meisten Linien halten hier.",
             "hu": "Vegyen egy buszt a főtérre a nap kezdéséhez. A legtöbb járat itt megáll.",
             "ro": "Luați un autobuz până în piața principală pentru a vă începe ziua. Majoritatea liniilor opresc aici.",
-            "en": "Take a bus to the main square to start your day. Most lines stop here."
+            "en": "Take a bus to the main square to start your day. Most lines stop here.",
+            "pt": "Apanhe um autocarro até à praça principal para começar o dia. A maioria das linhas pára aqui."
           }
         },
         {
@@ -1729,7 +1874,8 @@
             "de": "Pelourinho und Igreja Matriz",
             "hu": "Pellengér és Főtemplom",
             "ro": "Pelourinho și Igreja Matriz",
-            "en": "Pillory and Mother Church"
+            "en": "Pillory and Mother Church",
+            "pt": "Pelourinho e Igreja Matriz"
           },
           "coords": [
             -7.501,
@@ -1745,7 +1891,8 @@
             "de": "Diese beiden historischen Wahrzeichen liegen nur wenige Schritte voneinander entfernt.",
             "hu": "Ez a két történelmi nevezetesség csak pár lépésre van egymástól.",
             "ro": "Aceste două repere istorice sunt la doar câțiva pași unul de celălalt.",
-            "en": "These two historic landmarks are just steps from each other."
+            "en": "These two historic landmarks are just steps from each other.",
+            "pt": "Estes dois marcos históricos ficam a poucos passos um do outro."
           }
         },
         {
@@ -1753,7 +1900,8 @@
             "de": "Solar dos Falcões",
             "hu": "Solar dos Falcões",
             "ro": "Solar dos Falcões",
-            "en": "Solar dos Falcões"
+            "en": "Solar dos Falcões",
+            "pt": "Solar dos Falcões"
           },
           "coords": [
             -7.503,
@@ -1769,7 +1917,8 @@
             "de": "Ein schöner Spaziergang durch die Altstadt führt Sie zu diesem beeindruckenden Herrenhaus.",
             "hu": "Egy szép séta az óvároson keresztül vezet ehhez a lenyűgöző kúriához.",
             "ro": "O plimbare plăcută prin orașul vechi vă va duce la acest conac impresionant.",
-            "en": "A nice stroll through the old town will lead you to this impressive manor."
+            "en": "A nice stroll through the old town will lead you to this impressive manor.",
+            "pt": "Um agradável passeio pelo centro histórico leva-o a este impressionante solar."
           }
         },
         {
@@ -1777,7 +1926,8 @@
             "de": "Cluster B: Museum und Park",
             "hu": "B klaszter: Múzeum és Park",
             "ro": "Cluster B: Muzeu și Parc",
-            "en": "Cluster B: Museum and Park"
+            "en": "Cluster B: Museum and Park",
+            "pt": "Cluster B: Museu e Parque"
           },
           "coords": [
             -7.499,
@@ -1793,7 +1943,8 @@
             "de": "Nehmen Sie einen Bus in die Nähe des Museums. Von hier aus ist der Rest zu Fuß erreichbar.",
             "hu": "Vegyen egy buszt a múzeum közelébe. Innen a többi látnivaló gyalogosan elérhető.",
             "ro": "Luați un autobuz în apropierea muzeului. Restul este accesibil pe jos de aici.",
-            "en": "Take a bus near the museum. The rest is walkable from here."
+            "en": "Take a bus near the museum. The rest is walkable from here.",
+            "pt": "Apanhe um autocarro junto ao museu. O resto é percorrível a pé a partir daqui."
           }
         },
         {
@@ -1801,7 +1952,8 @@
             "de": "Parque Verde do Fundão",
             "hu": "Fundão-i Zöld Park",
             "ro": "Parque Verde do Fundão",
-            "en": "Green Park of Fundão"
+            "en": "Green Park of Fundão",
+            "pt": "Parque Verde do Fundão"
           },
           "coords": [
             -7.493,
@@ -1817,7 +1969,8 @@
             "de": "Nach dem Museum ist dies der perfekte Ort für eine Mittagspause.",
             "hu": "A múzeum után ez a tökéletes hely egy ebédszünetre.",
             "ro": "După muzeu, acesta este locul perfect pentru o pauză de prânz.",
-            "en": "After the museum, this is the perfect place for a lunch break."
+            "en": "After the museum, this is the perfect place for a lunch break.",
+            "pt": "Depois do museu, este é o local perfeito para uma pausa para almoço."
           }
         },
         {
@@ -1825,7 +1978,8 @@
             "de": "Stadtbibliothek Eugénio de Andrade",
             "hu": "Eugénio de Andrade Városi Könyvtár",
             "ro": "Biblioteca Municipală Eugénio de Andrade",
-            "en": "Eugénio de Andrade Municipal Library"
+            "en": "Eugénio de Andrade Municipal Library",
+            "pt": "Biblioteca Municipal Eugénio de Andrade"
           },
           "coords": [
             -7.495,
@@ -1841,7 +1995,8 @@
             "de": "Der letzte Halt des Tages, ein modernes Juwel, bevor Sie den Bus zurück nehmen.",
             "hu": "A nap utolsó állomása, egy modern gyöngyszem, mielőtt visszamenne a busszal.",
             "ro": "Ultima oprire a zilei, o bijuterie modernă înainte de a lua autobuzul înapoi.",
-            "en": "The last stop of the day, a modern gem before you take the bus back."
+            "en": "The last stop of the day, a modern gem before you take the bus back.",
+            "pt": "A última paragem do dia, uma gema moderna antes de apanhar o autocarro de regresso."
           }
         }
       ],
@@ -1849,7 +2004,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln erleben Sie Fundão wie ein Einheimischer. Der Tag ist in zwei Hauptcluster unterteilt. Der Vormittag konzentriert sich auf das historische Zentrum, das leicht zu Fuß erreichbar ist, nachdem Sie mit dem Bus am Hauptplatz angekommen sind. Nach einer zweiten, kurzen Busfahrt am Nachmittag erkunden Sie das kulturelle Zentrum rund um das Museum und entspannen im Parque Verde. Diese Route ist effizient und ermöglicht es Ihnen, die Atmosphäre der Stadt in einem gemächlichen Tempo aufzusaugen, ohne sich um das Parken sorgen zu müssen.",
         "hu": "A tömegközlekedéssel úgy élheti át Fundão-t, mint egy helyi. A nap két fő klaszterre oszlik. A délelőtt a történelmi központra fókuszál, amely könnyen bejárható gyalog, miután busszal megérkezett a főtérre. Egy második, rövid délutáni buszozás után felfedezheti a múzeum körüli kulturális központot és pihenhet a Parque Verde parkban. Ez az útvonal hatékony, és lehetővé teszi, hogy kényelmes tempóban szívja magába a város hangulatát, anélkül, hogy a parkolás miatt kellene aggódnia.",
         "ro": "Folosind transportul public, veți experimenta Fundão ca un localnic. Ziua este împărțită în două clustere principale. Dimineața se concentrează pe centrul istoric, ușor de explorat pe jos după ce ajungeți cu autobuzul în piața principală. După o a doua călătorie scurtă cu autobuzul după-amiaza, veți explora centrul cultural din jurul muzeului și vă veți relaxa în Parque Verde. Acest itinerar este eficient și vă permite să absorbiți atmosfera orașului într-un ritm lejer, fără grija parcării.",
-        "en": "Using public transit, you'll experience Fundão like a local. The day is divided into two main clusters. The morning focuses on the historic center, easily explored on foot after arriving by bus at the main square. After a second, short bus ride in the afternoon, you'll explore the cultural hub around the museum and relax in Parque Verde. This itinerary is efficient and allows you to soak up the city's atmosphere at a leisurely pace, without worrying about parking."
+        "en": "Using public transit, you'll experience Fundão like a local. The day is divided into two main clusters. The morning focuses on the historic center, easily explored on foot after arriving by bus at the main square. After a second, short bus ride in the afternoon, you'll explore the cultural hub around the museum and relax in Parque Verde. This itinerary is efficient and allows you to soak up the city's atmosphere at a leisurely pace, without worrying about parking.",
+        "pt": "Usando transporte público, experimente o Fundão como um local. O dia divide-se em dois clusters principais. A manhã foca-se no centro histórico, facilmente explorável a pé depois de chegar de autocarro à praça principal. Após uma segunda e curta viagem de autocarro à tarde, explore o pólo cultural em redor do museu e relaxe no Parque Verde. Este roteiro é eficiente e permite absorver a atmosfera da cidade com calma, sem preocupações com estacionamento."
       },
       "gastro_picks": {
         "de": [
@@ -2045,6 +2201,12 @@
           "Bus schedules can be limited on weekends and holidays.",
           "Keep an eye on bus numbers; not all buses stop at every stop.",
           "Always validate your ticket when you board to avoid a fine."
+        ],
+        "pt": [
+          "Compre um passe diário se planeia fazer várias viagens para poupar dinheiro.",
+          "Os horários de autocarro podem ser limitados ao fim de semana e feriados.",
+          "Esteja atento aos números dos autocarros; nem todos param em todas as paragens.",
+          "Valide sempre o seu bilhete ao embarcar para evitar uma multa."
         ]
       },
       "variants": {
@@ -2053,7 +2215,8 @@
             "de": "Nutzen Sie den lokalen Nahverkehr, um trocken durch Fundão zu kommen. Starten Sie an der Praça do Município und nutzen Sie die kurzen Buswege zwischen den Zonen. Mittags bietet das Museum einen sicheren Hafen vor dem Wetter. Nachmittags ist die Bibliothek ein idealer Ort zum Verweilen, bevor Sie den Bus zurück zum Ausgangspunkt nehmen.",
             "hu": "Használja a helyi tömegközlekedést, hogy szárazon járja be Fundãót. Kezdjen a Praça do Município környékén, és használja a rövid buszutakat a zónák között. Délben a múzeum nyújt biztonságos menedéket az időjárás elől. Délután a könyvtár ideális hely az időtöltésre, mielőtt busszal visszatérne a kiindulópontra.",
             "ro": "Folosiți transportul local pentru a traversa Fundão la adăpost de ploaie. Începeți la Praça do Município și folosiți traseele scurte de autobuz. La prânz, muzeul oferă un refugiu sigur. După-amiaza, biblioteca este locul ideal înainte de a lua autobuzul înapoi.",
-            "en": "Use local transit to get around Fundão while staying dry. Start at Praça do Município and use short bus rides between zones. At noon, the museum provides a safe haven from the weather. In the afternoon, the library is an ideal place to spend time before taking the bus back."
+            "en": "Use local transit to get around Fundão while staying dry. Start at Praça do Município and use short bus rides between zones. At noon, the museum provides a safe haven from the weather. In the afternoon, the library is an ideal place to spend time before taking the bus back.",
+            "pt": "Use o transporte local para se deslocar no Fundão mantendo-se seco. Comece na Praça do Município e faça curtas viagens de autocarro entre zonas. Ao meio-dia, o museu fornece um refúgio seguro do tempo. À tarde, a biblioteca é um local ideal para passar o tempo antes de apanhar o autocarro de regresso."
           },
           "stops": [
             {
@@ -2062,7 +2225,8 @@
                 "de": "Warten Sie unter dem Dach der Bushaltestelle.",
                 "hu": "Várjon a buszmegálló fedele alatt.",
                 "ro": "Așteptați sub acoperișul stației de autobuz.",
-                "en": "Wait under the shelter of the bus stop."
+                "en": "Wait under the shelter of the bus stop.",
+                "pt": "Espere sob o abrigo da paragem de autocarro."
               }
             },
             {
@@ -2071,7 +2235,8 @@
                 "de": "Kurze Wege zwischen den Haltestellen und den Sehenswürdigkeiten.",
                 "hu": "Rövid távolságok a megállók és a látnivalók között.",
                 "ro": "Distanțe scurte între stații și obiective.",
-                "en": "Short distances between stops and sights."
+                "en": "Short distances between stops and sights.",
+                "pt": "Curtas distâncias entre paragens e pontos de interesse."
               }
             },
             {
@@ -2080,7 +2245,8 @@
                 "de": "Nutzen Sie die Zeit im Bus, um die Kamera zu trocknen.",
                 "hu": "Használja a buszon töltött időt a kamera megszárítására.",
                 "ro": "Folosiți timpul în autobuz pentru a usca aparatul foto.",
-                "en": "Use the time on the bus to dry off your camera."
+                "en": "Use the time on the bus to dry off your camera.",
+                "pt": "Use o tempo no autocarro para secar a sua câmara."
               }
             },
             {
@@ -2089,7 +2255,8 @@
                 "de": "Der Bus hält oft direkt vor dem Museumseingang.",
                 "hu": "A busz gyakran közvetlenül a múzeum bejárata előtt áll meg.",
                 "ro": "Autobuzul oprește adesea chiar în fața intrării muzeului.",
-                "en": "The bus often stops right in front of the museum entrance."
+                "en": "The bus often stops right in front of the museum entrance.",
+                "pt": "O autocarro muitas vezes pára mesmo em frente à entrada do museu."
               }
             },
             {
@@ -2098,7 +2265,8 @@
                 "de": "Vom Park zur Bibliothek ist es nur eine kurze Fahrt.",
                 "hu": "A parktól a könyvtárig csak egy rövid utazás.",
                 "ro": "De la parc la bibliotecă este doar o scurtă călătorie.",
-                "en": "It's just a short ride from the park to the library."
+                "en": "It's just a short ride from the park to the library.",
+                "pt": "É apenas uma curta viagem do parque até à biblioteca."
               }
             },
             {
@@ -2107,7 +2275,8 @@
                 "de": "Perfekter Ort, um auf den nächsten Bus im Trockenen zu warten.",
                 "hu": "Tökéletes hely a következő buszra való várakozáshoz a szárazban.",
                 "ro": "Locul perfect pentru a aștepta următorul autobuz la adăpost.",
-                "en": "Perfect place to wait for the next bus while staying dry."
+                "en": "Perfect place to wait for the next bus while staying dry.",
+                "pt": "Local perfeito para esperar pelo próximo autocarro mantendo-se seco."
               }
             }
           ],
@@ -2135,6 +2304,12 @@
               "Have small change ready for the ticket.",
               "Buses may have slight delays during heavy rain.",
               "Wear a rain jacket as stops are not always fully sheltered."
+            ],
+            "pt": [
+              "Verifique os horários dos autocarros 'A Garota' durante a chuva.",
+              "Tenha trocado preparado para o bilhete.",
+              "Os autocarros podem sofrer pequenos atrasos durante chuva intensa.",
+              "Use um impermeável, pois as paragens nem sempre têm abrigo completo."
             ]
           }
         },
@@ -2143,7 +2318,8 @@
             "de": "Der Winter in Fundão lässt sich am besten mit einer Kombination aus Gehen und Busfahren erleben. Die warmen Busse sind eine Wohltat nach dem Aufenthalt im Freien. Mittags ist das Museum ein kulturelles Highlight im Warmen. Beenden Sie den Tag in der Stadtbibliothek und nutzen Sie die letzte Busverbindung vor Einbruch der Dunkelheit.",
             "hu": "A fundãoi telet a legjobb gyaloglás és buszozás kombinációjával felfedezni. A fűtött buszok jót tesznek a szabadban töltött idő után. Délben a múzeum egy meleg kulturális fénypont. A napot a városi könyvtárban fejezze be, és használja az utolsó buszjáratokat még sötétedés előtt.",
             "ro": "Iarna în Fundão este cel mai bine experimentată combinând mersul pe jos cu autobuzul. Autobuzele încălzite sunt o binecuvântare după timpul petrecut afară. Muzeul este un punct cultural călduros la prânz. Încheiați ziua la biblioteca municipală și folosiți ultimele autobuze înainte de lăsarea întunericului.",
-            "en": "Winter in Fundão is best experienced by combining walking and taking the bus. Warm buses are a treat after being outdoors. At noon, the museum is a warm cultural highlight. Finish your day at the municipal library and catch the last buses before dark."
+            "en": "Winter in Fundão is best experienced by combining walking and taking the bus. Warm buses are a treat after being outdoors. At noon, the museum is a warm cultural highlight. Finish your day at the municipal library and catch the last buses before dark.",
+            "pt": "O inverno no Fundão é melhor aproveitado combinando caminhada e autocarro. Os autocarros aquecidos são um prazer depois de estar ao ar livre. Ao meio-dia, o museu é um destaque cultural e aquecido. Termine o dia na biblioteca municipal e apanhe os últimos autocarros antes do escurecer."
           },
           "stops": [
             {
@@ -2152,7 +2328,8 @@
                 "de": "Suchen Sie ein Café nahe der Haltestelle zum Aufwärmen.",
                 "hu": "Keressen egy kávézót a megálló közelében a melegedéshez.",
                 "ro": "Căutați o cafenea lângă stație pentru a vă încălzi.",
-                "en": "Find a café near the stop to warm up."
+                "en": "Find a café near the stop to warm up.",
+                "pt": "Encontre um café perto da paragem para aquecer."
               }
             },
             {
@@ -2161,7 +2338,8 @@
                 "de": "Ein zügiger Schritt zur nächsten Station hält warm.",
                 "hu": "Egy tempós séta a következő állomásig melegen tart.",
                 "ro": "Un pas vioi spre următoarea stație vă menține cald.",
-                "en": "A brisk walk to the next station keeps you warm."
+                "en": "A brisk walk to the next station keeps you warm.",
+                "pt": "Uma caminhada enérgica até à estação seguinte mantém-no quente."
               }
             },
             {
@@ -2170,7 +2348,8 @@
                 "de": "Genießen Sie die Aussicht aus dem beheizten Bus.",
                 "hu": "Élvezze a kilátást a fűtött buszból.",
                 "ro": "Bucurați-vă de priveliște din autobuzul încălzit.",
-                "en": "Enjoy the view from the heated bus."
+                "en": "Enjoy the view from the heated bus.",
+                "pt": "Desfrute da vista do autocarro aquecido."
               }
             },
             {
@@ -2179,7 +2358,8 @@
                 "de": "Planen Sie den Museumsbesuch als Hauptwärmepunkt ein.",
                 "hu": "Tervezze a múzeumlátogatást fő melegedőpontként.",
                 "ro": "Planificați vizita la muzeu ca principal punct de încălzire.",
-                "en": "Plan the museum visit as your main warm-up point."
+                "en": "Plan the museum visit as your main warm-up point.",
+                "pt": "Planeie a visita ao museu como o seu principal ponto para aquecer."
               }
             },
             {
@@ -2188,7 +2368,8 @@
                 "de": "Im Winter ist der Park ruhig und bietet klare Luft.",
                 "hu": "Télen a park csendes és tiszta levegőt kínál.",
                 "ro": "Iarna parcul este liniștit și oferă aer curat.",
-                "en": "In winter, the park is quiet and offers clear air."
+                "en": "In winter, the park is quiet and offers clear air.",
+                "pt": "No inverno, o parque está tranquilo e oferece ar límpido."
               }
             },
             {
@@ -2197,7 +2378,8 @@
                 "de": "Prüfen Sie die Winter-Öffnungszeiten der Bibliothek.",
                 "hu": "Ellenőrizze a könyvtár téli nyitvatartását.",
                 "ro": "Verificați programul de iarnă al bibliotecii.",
-                "en": "Check the library's winter opening hours."
+                "en": "Check the library's winter opening hours.",
+                "pt": "Verifique os horários de inverno da biblioteca."
               }
             }
           ],
@@ -2225,6 +2407,12 @@
               "Buses are well-heated; take off layers for longer rides.",
               "Evening connections often end earlier.",
               "Use the transit company's app for real-time data."
+            ],
+            "pt": [
+              "Os horários podem diferir ligeiramente no inverno em relação ao verão.",
+              "Os autocarros são bem aquecidos; tire camadas para viagens mais longas.",
+              "As ligações noturnas costumam terminar mais cedo.",
+              "Use a app da empresa de transportes para dados em tempo real."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Praça da República",
             "hu": "Köztársaság tér",
             "ro": "Praça da República",
-            "en": "Republic Square"
+            "en": "Republic Square",
+            "pt": "Praça da República"
           },
           "coords": [
             -7.418,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der charmanten Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
             "ro": "Începeți-vă ziua cu o cafea la una dintre cafenelele fermecătoare din piață.",
-            "en": "Start your day with a coffee at one of the charming cafes on the square."
+            "en": "Start your day with a coffee at one of the charming cafes on the square.",
+            "pt": "Comece o dia com um café numa das encantadoras esplanadas da praça."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kastell von Vila Viçosa",
             "hu": "Vila Viçosa vára",
             "ro": "Castelul din Vila Viçosa",
-            "en": "Castle of Vila Viçosa"
+            "en": "Castle of Vila Viçosa",
+            "pt": "Castelo de Vila Viçosa"
           },
           "coords": [
             -7.4155,
@@ -59,7 +62,8 @@
             "de": "Erklimmen Sie die Mauern für einen Panoramablick auf die Stadt und die Alentejo-Ebene.",
             "hu": "Másszon fel a falakra, ahonnan panorámás kilátás nyílik a városra és az Alentejo-síkságra.",
             "ro": "Urcați pe ziduri pentru o vedere panoramică a orașului și a câmpiilor Alentejo.",
-            "en": "Climb the walls for a panoramic view of the town and the Alentejo plains."
+            "en": "Climb the walls for a panoramic view of the town and the Alentejo plains.",
+            "pt": "Suba às muralhas para obter uma vista panorâmica da vila e das planícies do Alentejo."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Wallfahrtskirche Unserer Lieben Frau von der Empfängnis",
             "hu": "A Szeplőtelen Fogantatás Miasszonyunk szentélye",
             "ro": "Sanctuarul Doamnei Noastre a Concepției",
-            "en": "Sanctuary of Our Lady of the Conception"
+            "en": "Sanctuary of Our Lady of the Conception",
+            "pt": "Santuário de Nossa Senhora da Conceição"
           },
           "coords": [
             -7.416,
@@ -82,7 +87,8 @@
             "de": "Beachten Sie die reiche Innenausstattung; dies ist ein wichtiger Wallfahrtsort in Portugal.",
             "hu": "Figyelje meg a gazdag belső díszítést; ez egy fontos zarándokhely Portugáliában.",
             "ro": "Observați interiorul bogat decorat; acesta este un important loc de pelerinaj în Portugalia.",
-            "en": "Note the rich interior decoration; this is a major pilgrimage site in Portugal."
+            "en": "Note the rich interior decoration; this is a major pilgrimage site in Portugal.",
+            "pt": "Observe a rica decoração interior; este é um importante local de peregrinação em Portugal."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Herzogspalast von Vila Viçosa",
             "hu": "Vila Viçosa-i hercegi palota",
             "ro": "Palatul Ducal din Vila Viçosa",
-            "en": "Ducal Palace of Vila Viçosa"
+            "en": "Ducal Palace of Vila Viçosa",
+            "pt": "Paço Ducal de Vila Viçosa"
           },
           "coords": [
             -7.422,
@@ -105,7 +112,8 @@
             "de": "Die Führung ist sehr zu empfehlen, um die Geschichte der Braganza-Dynastie zu verstehen.",
             "hu": "A tárlatvezetés erősen ajánlott a Bragança-dinasztia történetének megértéséhez.",
             "ro": "Turul ghidat este foarte recomandat pentru a înțelege istoria dinastiei Bragança.",
-            "en": "The guided tour is highly recommended to understand the history of the Braganza dynasty."
+            "en": "The guided tour is highly recommended to understand the history of the Braganza dynasty.",
+            "pt": "A visita guiada é altamente recomendada para compreender a história da dinastia de Bragança."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Pantheon der Herzöge von Braganza",
             "hu": "A Bragança hercegek panteonja",
             "ro": "Panteonul Ducilor de Bragança",
-            "en": "Pantheon of the Dukes of Braganza"
+            "en": "Pantheon of the Dukes of Braganza",
+            "pt": "Panteão dos Duques de Bragança"
           },
           "coords": [
             -7.4225,
@@ -128,7 +137,8 @@
             "de": "Ein feierlicher Ort, der die letzte Ruhestätte der letzten königlichen Dynastie Portugals beherbergt.",
             "hu": "Ünnepélyes hely, amely Portugália utolsó királyi dinasztiájának végső nyughelyéül szolgál.",
             "ro": "Un loc solemn care găzduiește locul de odihnă final al ultimei dinastii regale a Portugaliei.",
-            "en": "A solemn place, housing the final resting place of Portugal's last royal dynasty."
+            "en": "A solemn place, housing the final resting place of Portugal's last royal dynasty.",
+            "pt": "Um local solene, que alberga o repouso final da última dinastia real de Portugal."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kutschenmuseum",
             "hu": "Hintómúzeum",
             "ro": "Muzeul Trăsurilor",
-            "en": "Coach Museum"
+            "en": "Coach Museum",
+            "pt": "Museu dos Coches"
           },
           "coords": [
             -7.423,
@@ -151,7 +162,8 @@
             "de": "Direkt neben dem Palast gelegen, zeigt es eine beeindruckende Sammlung königlicher Kutschen.",
             "hu": "A palota mellett található, és lenyűgöző királyi hintógyűjteményt mutat be.",
             "ro": "Situat chiar lângă palat, prezintă o colecție impresionantă de trăsuri regale.",
-            "en": "Located right next to the palace, it showcases an impressive collection of royal coaches."
+            "en": "Located right next to the palace, it showcases an impressive collection of royal coaches.",
+            "pt": "Situado mesmo ao lado do palácio, apresenta uma impressionante colecção de coches reais."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Marmormuseum",
             "hu": "Márványmúzeum",
             "ro": "Muzeul Marmurei",
-            "en": "Marble Museum"
+            "en": "Marble Museum",
+            "pt": "Museu do Mármore"
           },
           "coords": [
             -7.411,
@@ -174,7 +187,8 @@
             "de": "Ein faszinierender Einblick in die Industrie, die die Region berühmt gemacht hat.",
             "hu": "Lenyűgöző betekintés az iparágba, amely híressé tette a régiót.",
             "ro": "O perspectivă fascinantă asupra industriei care a făcut regiunea faimoasă.",
-            "en": "A fascinating insight into the industry that made the region famous."
+            "en": "A fascinating insight into the industry that made the region famous.",
+            "pt": "Um olhar fascinante sobre a indústria que tornou a região famosa."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Vila Viçosa beginnt an der historischen Praça da República. Am Vormittag erkunden Sie die imposante Burg und die heilige Wallfahrtskirche. Der Mittag ist ganz dem prächtigen Herzogspalast gewidmet, dem Herzstück der Stadt, gefolgt von einem Besuch im Pantheon und im Kutschenmuseum. Am Nachmittag tauchen Sie in der 'Marmorhauptstadt' Portugals in die lokale Industrie im Marmormuseum ein, bevor Sie den Tag ausklingen lassen.",
         "hu": "A Vila Viçosa-i nap a történelmi Köztársaság téren kezdődik. Délelőtt fedezze fel a lenyűgöző várat és a szent zarándokhelyet. A déli órákat a város szívének számító pazar Hercegi Palotának szenteljük, majd meglátogatjuk a Panteont és a Hintómúzeumot. Délután, Portugália 'márványfővárosában' elmerülhet a helyi iparban a Márványmúzeumban, mielőtt lezárná a napot.",
         "ro": "Ziua dvs. în Vila Viçosa începe în istorica Praça da República. În timpul dimineții, explorați impunătorul castel și sanctuarul sacru. Amiaza este dedicată opulentului Palat Ducal, inima orașului, urmată de o vizită la Panteon și la Muzeul Trăsurilor. După-amiaza, în 'capitala marmurei' a Portugaliei, pătrundeți în industria locală la Muzeul Marmurei înainte de a încheia ziua.",
-        "en": "Your day in Vila Viçosa starts at the historic Praça da República. During the morning, explore the imposing castle and the sacred sanctuary. Midday is dedicated to the opulent Ducal Palace, the heart of the town, followed by a visit to the Pantheon and the Coach Museum. In the afternoon, in Portugal's 'marble capital', delve into the local industry at the Marble Museum before winding down."
+        "en": "Your day in Vila Viçosa starts at the historic Praça da República. During the morning, explore the imposing castle and the sacred sanctuary. Midday is dedicated to the opulent Ducal Palace, the heart of the town, followed by a visit to the Pantheon and the Coach Museum. In the afternoon, in Portugal's 'marble capital', delve into the local industry at the Marble Museum before winding down.",
+        "pt": "O seu dia em Vila Viçosa começa na histórica Praça da República. Durante a manhã, explore o imponente castelo e o sagrado santuário. Ao meio‑dia dedique‑se ao opulento Paço Ducal, o coração da vila, seguido de uma visita ao Panteão e ao Museu dos Coches. À tarde, na 'capital do mármore' de Portugal, aprofunde o conhecimento sobre a indústria local no Museu do Mármore antes de encerrar o dia."
       },
       "gastro_picks": {
         "de": [
@@ -394,6 +409,12 @@
           "Buy a combination ticket for the palace and museums to save money.",
           "Plan your lunch outside of peak hours to avoid crowds.",
           "Most attractions are within easy walking distance of each other."
+        ],
+        "pt": [
+          "Use calçado confortável, pois os calçamentos em pedra podem ser irregulares.",
+          "Compre um bilhete combinado para o palácio e museus para poupar dinheiro.",
+          "Planeie o almoço fora dos horários de maior afluência para evitar multidões.",
+          "A maioria das atrações fica a curta distância a pé umas das outras."
         ]
       },
       "variants": {
@@ -402,7 +423,8 @@
             "de": "Ein verregneter Morgen am Praça da República beginnt unter schützenden Arkaden, bevor es zu den mächtigen Mauern der Burg geht. Mittags bietet die Wallfahrtskirche Zuflucht, gefolgt von einer ausgiebigen Tour durch den prunkvollen Herzogspalast. Am Nachmittag erkunden wir das Kutschen- und Marmormuseum, geschützt vor dem Wetter. Der Tag endet gemütlich bei einem Glas lokalem Wein in einer warmen Taverne.",
             "hu": "Az esős reggel a Praça da República árkádjai alatt indul, majd a vár vastag falai közé húzódunk. Délben a kegytemplom nyújt menedéket, amit a hercegi palota lenyűgöző és hosszú benti tárlatvezetése követ. Délután a kocsi- és márványmúzeum fedett tereiben maradunk szárazon. Az este egy helyi borozó melegében, az Alentejo-i konyha ízei mellett telik.",
             "ro": "O dimineață ploioasă în Praça da República începe sub arcade, înainte de a ne retrage între zidurile groase ale castelului. La prânz, sanctuarul oferă adăpost, urmat de un tur lung și uscat în interiorul Palatului Ducal. După-amiaza explorăm muzeele de trăsuri și marmură, stând feriți de intemperii. Seara se încheie confortabil într-o tavernă caldă, cu un vin local bun.",
-            "en": "A rainy morning at Republic Square starts under protective awnings before heading to the sturdy castle walls. At noon, the sanctuary provides a dry refuge, followed by an extensive indoor tour of the grand Ducal Palace. In the afternoon, we explore the coach and marble museums, staying completely sheltered. The day ends warmly in a local tavern with hearty Alentejan food."
+            "en": "A rainy morning at Republic Square starts under protective awnings before heading to the sturdy castle walls. At noon, the sanctuary provides a dry refuge, followed by an extensive indoor tour of the grand Ducal Palace. In the afternoon, we explore the coach and marble museums, staying completely sheltered. The day ends warmly in a local tavern with hearty Alentejan food.",
+            "pt": "Uma manhã chuvosa na Praça da República começa sob toldos protectores antes de rumar às sólidas muralhas do castelo. Ao meio‑dia, o santuário oferece um refúgio seco, seguido por uma extensa visita interior ao grandioso Paço Ducal. À tarde exploramos os museus dos coches e do mármore, mantendo‑nos completamente abrigados. O dia termina calorosamente numa tasca local com um farto cozido alentejano."
           },
           "stops": [
             {
@@ -411,7 +433,8 @@
                 "de": "Suchen Sie Schutz unter den Orangenbäumen oder den Markisen der Cafés.",
                 "hu": "Keressen menedéket a narancsfák alatt vagy a kávézók ponyvái alatt.",
                 "ro": "Căutați adăpost sub portocali sau sub copertinele cafenelelor.",
-                "en": "Seek shelter under the orange trees or the cafe awnings."
+                "en": "Seek shelter under the orange trees or the cafe awnings.",
+                "pt": "Procure abrigo debaixo das laranjeiras ou dos toldos dos cafés."
               }
             },
             {
@@ -420,7 +443,8 @@
                 "de": "Das interne Museum bietet eine perfekte trockene Flucht vor dem Regen.",
                 "hu": "A belső múzeum tökéletes száraz menedéket nyújt az eső elől.",
                 "ro": "Muzeul interior oferă o evadare uscată perfectă de ploaie.",
-                "en": "The internal museum provides a perfect dry escape from the rain."
+                "en": "The internal museum provides a perfect dry escape from the rain.",
+                "pt": "O museu interior oferece uma perfeita fuga seca da chuva."
               }
             },
             {
@@ -429,7 +453,8 @@
                 "de": "Hinter den schweren Türen erwartet Sie ein ruhiges, trockenes Heiligtum.",
                 "hu": "A nehéz ajtók mögött csendes, száraz szentély várja.",
                 "ro": "Ușile grele de lemn duc spre un sanctuar liniștit și uscat.",
-                "en": "Use the heavy wooden doors to enter a quiet, dry sanctuary."
+                "en": "Use the heavy wooden doors to enter a quiet, dry sanctuary.",
+                "pt": "Use as pesadas portas de madeira para entrar num santuário calmo e seco."
               }
             },
             {
@@ -438,7 +463,8 @@
                 "de": "Eine lange Führung hält Sie fast zwei Stunden lang völlig trocken.",
                 "hu": "A hosszú tárlatvezetés közel két órán át teljesen szárazon tartja.",
                 "ro": "Un tur ghidat lung vă menține complet uscat.",
-                "en": "A long guided tour keeps you completely dry for nearly two hours."
+                "en": "A long guided tour keeps you completely dry for nearly two hours.",
+                "pt": "Uma longa visita guiada mantêm‑lo completamente seco durante quase duas horas."
               }
             },
             {
@@ -447,7 +473,8 @@
                 "de": "Ein kurzer Sprint vom Palast zu dieser ruhigen Innengruft.",
                 "hu": "Gyors futás a palotából ebbe a csendes beltéri sírboltba.",
                 "ro": "O fugă scurtă de la palat către acest mormânt interior liniștit.",
-                "en": "Quick dash from the palace to this quiet indoor tomb."
+                "en": "Quick dash from the palace to this quiet indoor tomb.",
+                "pt": "Uma corrida rápida do palácio até este tranquilo túmulo interior."
               }
             },
             {
@@ -456,7 +483,8 @@
                 "de": "Große Innenhallen schützen Sie und die historischen Kutschen.",
                 "hu": "A nagy belső csarnokok megvédik Önt és a történelmi kocsikat is.",
                 "ro": "Hangarele interioare mari vă protejează pe dumneavoastră.",
-                "en": "Large indoor hangars protect you and the historic carriages."
+                "en": "Large indoor hangars protect you and the historic carriages.",
+                "pt": "Grandes hangares interiores protegem-no a si e às viaturas históricas."
               }
             },
             {
@@ -465,7 +493,8 @@
                 "de": "Das Museumsinnere ist kühl und trocken, ideal für den Nachmittag.",
                 "hu": "A múzeum belseje hűvös és száraz, ideális a délutáni esőhöz.",
                 "ro": "Interiorul muzeului este răcoros și uscat, perfect.",
-                "en": "The museum interior is cool and dry, perfect for the afternoon."
+                "en": "The museum interior is cool and dry, perfect for the afternoon.",
+                "pt": "O interior do museu é fresco e seco, perfeito para a tarde."
               }
             }
           ],
@@ -493,6 +522,12 @@
               "Many shops around the square have narrow overhangs to walk under.",
               "The Ducal Palace tour is the best way to spend the heaviest rain.",
               "Keep a small umbrella ready for the short dashes between the main buildings."
+            ],
+            "pt": [
+              "Use calçado impermeável; os passeios de mármore podem ficar escorregadios quando molhados.",
+              "Muitas lojas à volta da praça têm beirais estreitos por baixo dos quais é possível caminhar.",
+              "A visita ao Paço Ducal é a melhor forma de passar a chuva mais intensa.",
+              "Mantenha um pequeno guarda‑chuva à mão para as curtas corridas entre os edifícios principais."
             ]
           }
         },
@@ -501,7 +536,8 @@
             "de": "Der klare Wintermorgen beleuchtet den weißen Marmor des Hauptplatzes, während eine kühle Brise durch die Gassen weht. Nach der Burgbesichtigung wärmen wir uns im prächtigen Herzogspalast auf, dessen Säle im Winterlicht erstrahlen. Der Nachmittag gehört den Museen, bevor die Sonne früh hinter den Hügeln des Alentejo versinkt. Abends genießen wir die Ruhe des Ortes in einem beheizten Restaurant.",
             "hu": "A tiszta téli reggel megvilágítja a főtér fehér márványát, miközben hűvös szellő járja át az utcákat. A vár után a hercegi palota termeiben melegszünk fel, amelyeket gyönyörűen megvilágít a téli nap. A délutánt a múzeumoknak szenteljük, mielőtt a nap korán eltűnik az Alentejo-i dombok mögött. Az estét egy fűtött étterem nyugalmában töltjük.",
             "ro": "Dimineața senină de iarnă luminează marmura albă a pieței centrale, în timp ce o briză rece străbate străzile. După castel, ne încălzim în sălile Palatului Ducal, luminate superb de soarele de iarnă. După-amiaza este dedicată muzeelor, înainte ca soarele să apună devreme peste dealurile din Alentejo. Seara ne bucurăm de liniștea orașului într-un restaurant încălzit.",
-            "en": "The crisp winter morning illuminates the white marble of the main square while a cool breeze drifts through the alleys. After the castle, we warm up in the grand halls of the Ducal Palace, beautifully lit by the winter sun. The afternoon is spent in the museums before the sun sets early over the Alentejan hills. The evening ends peacefully in a heated local restaurant."
+            "en": "The crisp winter morning illuminates the white marble of the main square while a cool breeze drifts through the alleys. After the castle, we warm up in the grand halls of the Ducal Palace, beautifully lit by the winter sun. The afternoon is spent in the museums before the sun sets early over the Alentejan hills. The evening ends peacefully in a heated local restaurant.",
+            "pt": "A fresca manhã de inverno ilumina o mármore branco da praça principal enquanto uma brisa fresca percorre as ruelas. Depois do castelo aquecemo‑nos nos grandes salões do Paço Ducal, belamente iluminados pelo sol de inverno. A tarde é passada nos museus antes do sol se pôr cedo sobre as colinas alentejanas. A noite termina tranquilamente num restaurante local aquecido."
           },
           "stops": [
             {
@@ -510,7 +546,8 @@
                 "de": "Genießen Sie die frische Luft und die helle Reflexion des Marmors.",
                 "hu": "Élvezze a friss levegőt és a márványpadló ragyogó tükröződését.",
                 "ro": "Bucurați-vă de aerul curat și de reflexia luminoasă a marmurei.",
-                "en": "Enjoy the crisp air and the bright reflection of the marble floor."
+                "en": "Enjoy the crisp air and the bright reflection of the marble floor.",
+                "pt": "Desfrute do ar fresco e do brilho das superfícies de mármore."
               }
             },
             {
@@ -519,7 +556,8 @@
                 "de": "Die hohen Mauern bieten Schutz vor den schneidenden Alentejo-Winden.",
                 "hu": "A magas falak némi védelmet nyújtanak a csípős Alentejo-i szél ellen.",
                 "ro": "Zidurile înalte oferă protecție împotriva vântului tăios.",
-                "en": "The high walls offer some protection from the biting Alentejo winds."
+                "en": "The high walls offer some protection from the biting Alentejo winds.",
+                "pt": "As altas muralhas oferecem alguma protecção contra os ventos cortantes do Alentejo."
               }
             },
             {
@@ -528,7 +566,8 @@
                 "de": "Die dicken Steinmauern halten das Innere überraschend temperiert.",
                 "hu": "A vastag kőfalak meglepően kellemes hőmérsékletet tartanak bent.",
                 "ro": "Zidurile groase de piatră mențin interiorul temperat.",
-                "en": "The thick stone walls keep the interior surprisingly temperate."
+                "en": "The thick stone walls keep the interior surprisingly temperate.",
+                "pt": "As espessas paredes de pedra mantêm o interior surpreendentemente temperado."
               }
             },
             {
@@ -537,7 +576,8 @@
                 "de": "Perfektes Timing, um während der kältesten Tageszeit drinnen zu sein.",
                 "hu": "Tökéletes időzítés, hogy a nap leghidegebb részében bent legyen.",
                 "ro": "Momentul perfect pentru a fi în interior în cea mai rece parte a zilei.",
-                "en": "Perfect timing to be indoors during the coldest part of the day."
+                "en": "Perfect timing to be indoors during the coldest part of the day.",
+                "pt": "Momento perfeito para estar no interior durante a parte mais fria do dia."
               }
             },
             {
@@ -546,7 +586,8 @@
                 "de": "Eine feierliche Atmosphäre, die im Winter noch friedlicher wirkt.",
                 "hu": "Ünnepélyes, csendes hangulat, amely télen még békésebbnek hat.",
                 "ro": "O atmosferă solemnă care pare și mai liniștită iarna.",
-                "en": "A solemn, quiet atmosphere that feels even more peaceful in winter."
+                "en": "A solemn, quiet atmosphere that feels even more peaceful in winter.",
+                "pt": "Uma atmosfera solene e tranquila que se sente ainda mais pacífica no inverno."
               }
             },
             {
@@ -555,7 +596,8 @@
                 "de": "Die Erkundung der Sammlung hält Sie in Bewegung und warm.",
                 "hu": "A gyűjtemény felfedezése mozgásban tartja és felmelegíti.",
                 "ro": "Explorarea colecției mari este o metodă bună de a rămâne activ.",
-                "en": "Exploring the large collection is a great way to stay active and warm."
+                "en": "Exploring the large collection is a great way to stay active and warm.",
+                "pt": "Explorar a vasta colecção é uma excelente forma de se manter activo e aquecido."
               }
             },
             {
@@ -564,7 +606,8 @@
                 "de": "Beenden Sie den Tag hier, wenn draußen die frühe Dämmerung einsetzt.",
                 "hu": "Itt fejezze be a napot, amikor kint elkezdődik a korai szürkület.",
                 "ro": "Încheiați ziua aici, pe măsură ce amurgul se lasă afară.",
-                "en": "End your day here as the early twilight begins to settle outside."
+                "en": "End your day here as the early twilight begins to settle outside.",
+                "pt": "Termine aqui o seu dia quando o crepúsculo precoce começar a instalar‑se lá fora."
               }
             }
           ],
@@ -592,6 +635,12 @@
               "Sunset is around 17:30; plan outdoor visits before then.",
               "Museums are less crowded in winter, ideal for quiet exploration.",
               "Try the hearty local stews, which are perfect for the season."
+            ],
+            "pt": [
+              "Vista‑se em camadas; aquece ao sol mas arrefece à sombra.",
+              "O pôr do sol é por volta das 17:30; planeie as visitas ao ar livre antes dessa hora.",
+              "Os museus estão menos concorridos no inverno, ideal para uma exploração tranquila.",
+              "Experimente os robustos guisados locais, perfeitos para a estação."
             ]
           }
         }
@@ -610,7 +659,8 @@
             "de": "Praça da República",
             "hu": "Köztársaság tér",
             "ro": "Praça da República",
-            "en": "Republic Square"
+            "en": "Republic Square",
+            "pt": "Praça da República"
           },
           "coords": [
             -7.418,
@@ -625,7 +675,8 @@
             "de": "Ideal, um Ihr Fahrrad abzustellen und die Atmosphäre des Hauptplatzes aufzusaugen.",
             "hu": "Ideális hely a kerékpár lezárásához és a főtér hangulatának élvezetéhez.",
             "ro": "Ideal pentru a vă parca bicicleta și a absorbi atmosfera pieței principale.",
-            "en": "Ideal for parking your bike and soaking up the main square's atmosphere."
+            "en": "Ideal for parking your bike and soaking up the main square's atmosphere.",
+            "pt": "Ideal para estacionar a bicicleta e absorver a atmosfera da praça principal."
           }
         },
         {
@@ -633,7 +684,8 @@
             "de": "Kastell von Vila Viçosa",
             "hu": "Vila Viçosa vára",
             "ro": "Castelul din Vila Viçosa",
-            "en": "Castle of Vila Viçosa"
+            "en": "Castle of Vila Viçosa",
+            "pt": "Castelo de Vila Viçosa"
           },
           "coords": [
             -7.4155,
@@ -648,7 +700,8 @@
             "de": "Schließen Sie Ihr Fahrrad am Eingang ab und erkunden Sie das weitläufige Burggelände zu Fuß.",
             "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel gyalog a kiterjedt várat.",
             "ro": "Lăsați-vă bicicleta la intrare și explorați incinta vastă a castelului pe jos.",
-            "en": "Lock your bike at the entrance and explore the vast castle grounds on foot."
+            "en": "Lock your bike at the entrance and explore the vast castle grounds on foot.",
+            "pt": "Tranque a sua bicicleta à entrada e explore os vastos terrenos do castelo a pé."
           }
         },
         {
@@ -656,7 +709,8 @@
             "de": "Wallfahrtskirche Unserer Lieben Frau von der Empfängnis",
             "hu": "A Szeplőtelen Fogantatás Miasszonyunk szentélye",
             "ro": "Sanctuarul Doamnei Noastre a Concepției",
-            "en": "Sanctuary of Our Lady of the Conception"
+            "en": "Sanctuary of Our Lady of the Conception",
+            "pt": "Santuário de Nossa Senhora da Conceição"
           },
           "coords": [
             -7.416,
@@ -671,7 +725,8 @@
             "de": "Eine kurze Radtour von der Burg entfernt, diese Kirche ist ein Muss für ihre spirituelle Bedeutung.",
             "hu": "A vártól egy rövid kerékpárútra található templom spirituális jelentősége miatt kihagyhatatlan.",
             "ro": "La o scurtă plimbare cu bicicleta de castel, această biserică este o vizită obligatorie pentru importanța sa spirituală.",
-            "en": "A short bike ride from the castle, this church is a must-visit for its spiritual importance."
+            "en": "A short bike ride from the castle, this church is a must-visit for its spiritual importance.",
+            "pt": "A curta bicicleta desde o castelo, esta igreja é de visita obrigatória pela sua importância espiritual."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Herzogspalast von Vila Viçosa",
             "hu": "Vila Viçosa-i hercegi palota",
             "ro": "Palatul Ducal din Vila Viçosa",
-            "en": "Ducal Palace of Vila Viçosa"
+            "en": "Ducal Palace of Vila Viçosa",
+            "pt": "Paço Ducal de Vila Viçosa"
           },
           "coords": [
             -7.422,
@@ -694,7 +750,8 @@
             "de": "Der große Platz vor dem Palast ist perfekt, um mit dem Fahrrad anzukommen.",
             "hu": "A palota előtti hatalmas tér tökéletes a kerékpárral való érkezéshez.",
             "ro": "Piața mare din fața palatului este perfectă pentru a ajunge cu bicicleta.",
-            "en": "The grand square in front of the palace is perfect for arriving by bike."
+            "en": "The grand square in front of the palace is perfect for arriving by bike.",
+            "pt": "A grande praça em frente ao paço é perfeita para chegar de bicicleta."
           }
         },
         {
@@ -702,7 +759,8 @@
             "de": "Pantheon der Herzöge von Braganza",
             "hu": "A Bragança hercegek panteonja",
             "ro": "Panteonul Ducilor de Bragança",
-            "en": "Pantheon of the Dukes of Braganza"
+            "en": "Pantheon of the Dukes of Braganza",
+            "pt": "Panteão dos Duques de Bragança"
           },
           "coords": [
             -7.4225,
@@ -717,7 +775,8 @@
             "de": "Nur wenige Schritte vom Palast entfernt, ein Moment der stillen Besinnung.",
             "hu": "Csak néhány lépésre a palotától, a csendes elmélkedés pillanata.",
             "ro": "La doar câțiva pași de palat, un moment de reflecție tăcută.",
-            "en": "Just steps from the palace, a moment of quiet reflection."
+            "en": "Just steps from the palace, a moment of quiet reflection.",
+            "pt": "A poucos passos do palácio, um momento de reflexão tranquila."
           }
         },
         {
@@ -725,7 +784,8 @@
             "de": "Kutschenmuseum",
             "hu": "Hintómúzeum",
             "ro": "Muzeul Trăsurilor",
-            "en": "Coach Museum"
+            "en": "Coach Museum",
+            "pt": "Museu dos Coches"
           },
           "coords": [
             -7.423,
@@ -740,7 +800,8 @@
             "de": "Sehen Sie die 'Fahrzeuge' der Vergangenheit, nachdem Sie mit Ihrem eigenen angekommen sind.",
             "hu": "Tekintse meg a múlt 'járműveit', miután megérkezett a sajátjával.",
             "ro": "Vedeți 'vehiculele' de altădată după ce ați ajuns cu al dumneavoastră.",
-            "en": "See the 'vehicles' of the past after arriving on your own."
+            "en": "See the 'vehicles' of the past after arriving on your own.",
+            "pt": "Veja os 'veículos' do passado após chegar por conta própria."
           }
         },
         {
@@ -748,7 +809,8 @@
             "de": "Marmormuseum",
             "hu": "Márványmúzeum",
             "ro": "Muzeul Marmurei",
-            "en": "Marble Museum"
+            "en": "Marble Museum",
+            "pt": "Museu do Mármore"
           },
           "coords": [
             -7.411,
@@ -763,7 +825,8 @@
             "de": "Die Radtour zum Museum führt Sie durch einen anderen Teil der Stadt.",
             "hu": "A múzeumhoz vezető kerékpárút a város egy másik részén vezet keresztül.",
             "ro": "Plimbarea cu bicicleta până la muzeu vă poartă printr-o altă parte a orașului.",
-            "en": "The bike ride to the museum takes you through a different part of town."
+            "en": "The bike ride to the museum takes you through a different part of town.",
+            "pt": "O passeio de bicicleta até o museu leva-o por uma parte diferente da cidade."
           }
         }
       ],
@@ -771,7 +834,8 @@
         "de": "Auf zwei Rädern beginnt Ihr Abenteuer an der Praça da República. Am Vormittag radeln Sie zur historischen Burg und zur Wallfahrtskirche. Der Mittag ist der königlichen Pracht des Herzogspalastes und seiner angrenzenden Museen gewidmet. Am Nachmittag führt Sie eine kurze Radtour zum Marmormuseum, das einen Einblick in das industrielle Erbe von Vila Viçosa bietet und einen schönen Abschluss Ihres Radtages darstellt.",
         "hu": "Két keréken a kaland a Köztársaság téren kezdődik. Délelőtt tekerjen el a történelmi várhoz és a zarándoktemplomhoz. A déli órák a Hercegi Palota királyi pompájának és a szomszédos múzeumoknak szólnak. Délután egy rövid kerékpártúra vezet a Márványmúzeumhoz, amely betekintést nyújt Vila Viçosa ipari örökségébe, és kellemes lezárása a kerékpáros napnak.",
         "ro": "Pe două roți, aventura dvs. începe în Praça da República. În timpul dimineții, pedalați spre castelul istoric și sanctuar. Amiaza este dedicată splendorii regale a Palatului Ducal și a muzeelor sale adiacente. După-amiaza, o scurtă plimbare cu bicicleta vă duce la Muzeul Marmurei, oferind o perspectivă asupra moștenirii industriale a Vila Viçosa pentru o încheiere plăcută a zilei pe bicicletă.",
-        "en": "On two wheels, your adventure begins at Praça da República. During the morning, you'll cycle to the historic castle and the sanctuary. Midday is for the royal splendor of the Ducal Palace and its adjacent museums. In the afternoon, a short bike ride takes you to the Marble Museum, offering a glimpse into Vila Viçosa's industrial heritage for a pleasant end to your cycling day."
+        "en": "On two wheels, your adventure begins at Praça da República. During the morning, you'll cycle to the historic castle and the sanctuary. Midday is for the royal splendor of the Ducal Palace and its adjacent museums. In the afternoon, a short bike ride takes you to the Marble Museum, offering a glimpse into Vila Viçosa's industrial heritage for a pleasant end to your cycling day.",
+        "pt": "De duas rodas, a sua aventura começa na Praça da República. De manhã, pedala até ao castelo histórico e ao santuário. Ao meio‑dia é para o esplendor real do Paço Ducal e dos museus adjacentes. À tarde, um curto passeio de bicicleta leva-o ao Museu do Mármore, oferecendo um vislumbre do património industrial de Vila Viçosa para um final agradável do seu dia de ciclismo."
       },
       "gastro_picks": {
         "de": [
@@ -967,6 +1031,12 @@
           "Bring a sturdy lock to secure your bike at the attractions.",
           "A water bottle is essential, especially on warm days.",
           "Plan your route in advance to avoid steep hills if you prefer."
+        ],
+        "pt": [
+          "Verifique a pressão dos pneus antes de pedalar. As estradas podem ser irregulares.",
+          "Traga um cadeado resistente para prender a bicicleta nas atrações.",
+          "Uma garrafa de água é essencial, especialmente em dias quentes.",
+          "Planeie a sua rota com antecedência para evitar colinas íngremes, se preferir."
         ]
       },
       "variants": {
@@ -975,7 +1045,8 @@
             "de": "Trotz des Regens bietet Vila Viçosa auf dem Rad eine besondere Perspektive, solange man auf dem rutschigen Marmor vorsichtig ist. Vormittags nutzen wir die Pausen zwischen den Schauern für die Burg, bevor wir mittags im Palast und in den Museen trocken bleiben. Der Nachmittag führt uns zum Marmormuseum am Stadtrand. Wir beenden die Tour bei einem wärmenden Kaffee im Zentrum.",
             "hu": "Az eső ellenére Vila Viçosa kerékpáron is különleges élmény, ha vigyázunk a csúszós márványon. Délelőtt a záporok közötti szüneteket használjuk a várhoz, majd délben a palotában és a múzeumokban maradunk szárazon. Délután a város szélén lévő márványmúzeumhoz tekerünk. A túrát egy melengető kávéval zárjuk a központban.",
             "ro": "În ciuda ploii, Vila Viçosa oferă o perspectivă deosebită pe bicicletă, cu atenție sporită pe marmura alunecoasă. Dimineața folosim pauzele dintre averse pentru castel, iar la prânz rămânem uscați în palat și muzee. După-amiaza ne duce la muzeul de marmură de la marginea orașului. Încheiem turul cu o cafea caldă în centru.",
-            "en": "Despite the rain, Vila Viçosa on a bike offers a unique perspective, provided you are careful on the slippery marble. In the morning, we use the gaps between showers for the castle, then stay dry in the palace and museums at noon. The afternoon leads us to the marble museum on the outskirts. We end the tour with a warming coffee in the center."
+            "en": "Despite the rain, Vila Viçosa on a bike offers a unique perspective, provided you are careful on the slippery marble. In the morning, we use the gaps between showers for the castle, then stay dry in the palace and museums at noon. The afternoon leads us to the marble museum on the outskirts. We end the tour with a warming coffee in the center.",
+            "pt": "Apesar da chuva, Vila Viçosa de bicicleta oferece uma perspetiva única, desde que tenha cuidado com o mármore escorregadio. De manhã, aproveitamos as pausas entre aguaceiros para o castelo e depois ficamos secos no palácio e nos museus ao meio‑dia. A tarde leva‑nos ao museu do mármore na periferia. Terminamos o passeio com um café quente no centro."
           },
           "stops": [
             {
@@ -984,7 +1055,8 @@
                 "de": "Parken Sie unter Markisen, um den Sattel trocken zu halten.",
                 "hu": "Parkoljon a ponyvák alatt, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați sub copertine pentru a păstra șaua uscată.",
-                "en": "Park your bike under the cafe awnings to keep the seat dry."
+                "en": "Park your bike under the cafe awnings to keep the seat dry.",
+                "pt": "Estacione a bicicleta sob as marquises dos cafés para manter o selim seco."
               }
             },
             {
@@ -993,7 +1065,8 @@
                 "de": "Sichern Sie Ihr Rad nahe am Eingang; das Innere ist trocken.",
                 "hu": "Zárja le a biciklit a bejárat közelében; a belső rész száraz.",
                 "ro": "Asigurați bicicleta lângă intrare; interiorul este uscat.",
-                "en": "Lock your bike near the entrance; the interior provides a dry break."
+                "en": "Lock your bike near the entrance; the interior provides a dry break.",
+                "pt": "Prenda a bicicleta perto da entrada; o interior oferece uma pausa seca."
               }
             },
             {
@@ -1002,7 +1075,8 @@
                 "de": "Die Vorhalle bietet einen kleinen trockenen Platz für den Helm.",
                 "hu": "Az előcsarnok egy kis száraz helyet kínál a sisaknak.",
                 "ro": "Pridvorul oferă un mic loc uscat pentru cască.",
-                "en": "The porch offers a small dry spot to secure your helmet."
+                "en": "The porch offers a small dry spot to secure your helmet.",
+                "pt": "A varanda oferece um pequeno local seco para guardar o capacete."
               }
             },
             {
@@ -1011,7 +1085,8 @@
                 "de": "Nutzen Sie den langen Besuch, um Ihre Ausrüstung zu trocknen.",
                 "hu": "Használja a hosszú látogatást a vizes felszerelés szárítására.",
                 "ro": "Folosiți vizita lungă pentru a vă usca echipamentul.",
-                "en": "Use the long indoor visit to dry off your wet cycling gear."
+                "en": "Use the long indoor visit to dry off your wet cycling gear.",
+                "pt": "A longa visita interior é uma oportunidade para secar a roupa de ciclismo molhada."
               }
             },
             {
@@ -1020,7 +1095,8 @@
                 "de": "Ein schneller Sprint hinein; die Steinvorhalle ist gut für eine Rast.",
                 "hu": "Gyors bejutás; a kő előtér jó egy pillanatnyi pihenésre.",
                 "ro": "O intrare rapidă; pridvorul de piatră este bun pentru odihnă.",
-                "en": "A quick dash inside; the stone porch is great for a moment's rest."
+                "en": "A quick dash inside; the stone porch is great for a moment's rest.",
+                "pt": "Uma corrida rápida para dentro; a alpendre de pedra é ótima para um breve descanso."
               }
             },
             {
@@ -1029,7 +1105,8 @@
                 "de": "Viel Platz drinnen, während man auf das Ende des Regens wartet.",
                 "hu": "Bőséges belső tér, amíg az eső elálltára vár.",
                 "ro": "Spațiu interior amplu în timp ce așteptați oprirea ploii.",
-                "en": "Ample indoor space to explore while waiting for the rain to stop."
+                "en": "Ample indoor space to explore while waiting for the rain to stop.",
+                "pt": "Amplo espaço interior para explorar enquanto espera que a chuva pare."
               }
             },
             {
@@ -1038,7 +1115,8 @@
                 "de": "Der perfekte Ort, um einen heftigen Regenschauer abzuwarten.",
                 "hu": "Tökéletes hely egy heves zápor kivárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei averse torențiale.",
-                "en": "The final indoor stop; a perfect place to wait out a downpour."
+                "en": "The final indoor stop; a perfect place to wait out a downpour.",
+                "pt": "A última paragem interior; um local perfeito para aguardar uma chuvada intensa."
               }
             }
           ],
@@ -1066,6 +1144,12 @@
               "Mudguards are essential in the rain to deflect mud and spray.",
               "Use long museum visits as an opportunity to dry your clothing.",
               "A waterproof saddle cover prevents riding on a wet seat afterwards."
+            ],
+            "pt": [
+              "O pavimento de mármore torna‑se extremamente escorregadio; pedale com cuidado e travões antecipados.",
+              "Guarda‑lamas são essenciais na chuva para desviar lama e salpicos.",
+              "Use visitas prolongadas ao museu como oportunidade para secar a roupa.",
+              "Uma capa impermeável para o selim evita sentar‑se num assento molhado depois de pedalar."
             ]
           }
         },
@@ -1074,7 +1158,8 @@
             "de": "Ein Wintertag auf dem Rad in Vila Viçosa erfordert warme Kleidung gegen den Wind, bietet aber fantastische Lichtverhältnisse. Vormittags erkunden wir den Burgberg, gefolgt von der wärmenden Pracht des Herzogspalastes. Der Nachmittag auf dem Rad führt durch die ruhigen, weißen Gassen zu den Museen. Vor dem frühen Sonnenuntergang beenden wir die Tour im warmen Ortskern.",
             "hu": "Egy téli kerékpáros nap Vila Viçosában meleg ruházatot igényel a szél ellen, de fantasztikus fényeket kínál. Délelőtt a várhegyet fedezzük fel, majd a hercegi palota melegítő pompája következik. A délutáni tekerés a csendes, fehér utcákon át vezet a múzeumokhoz. A korai naplemente előtt a meleg városközpontban zárjuk a túrát.",
             "ro": "O zi de iarnă pe bicicletă în Vila Viçosa necesită haine groase împotriva vântului, dar oferă o lumină fantastică. Dimineața explorăm dealul castelului, urmat de splendoarea caldă a Palatului Ducal. Pedalatul de după-amiază ne poartă prin străzile albe și liniștite spre muzee. Înainte de apusul devreme, încheiem turul în centrul primitor.",
-            "en": "A winter day on a bike in Vila Viçosa requires warm clothing against the wind but offers fantastic light. In the morning, we explore the castle hill, followed by the warming grandeur of the Ducal Palace. The afternoon ride leads through quiet, white alleys to the museums. Before the early sunset, we finish the tour in the warm town center."
+            "en": "A winter day on a bike in Vila Viçosa requires warm clothing against the wind but offers fantastic light. In the morning, we explore the castle hill, followed by the warming grandeur of the Ducal Palace. The afternoon ride leads through quiet, white alleys to the museums. Before the early sunset, we finish the tour in the warm town center.",
+            "pt": "Um dia de inverno de bicicleta em Vila Viçosa exige roupa quente contra o vento, mas oferece uma luz fantástica. De manhã, exploramos a colina do castelo, seguido pela grandiosidade aquecedora do Paço Ducal. A tarde conduz por ruelas brancas e tranquilas até aos museus. Antes do pôr do sol cedo, terminamos o passeio no acolhedor centro da vila."
           },
           "stops": [
             {
@@ -1083,7 +1168,8 @@
                 "de": "Das helle Winterlicht auf dem Marmor ist ideal für Fotos.",
                 "hu": "A márványon megcsillanó téli fény ideális a fotózáshoz.",
                 "ro": "Lumina de iarnă pe marmură este ideală pentru fotografii.",
-                "en": "The bright winter light on the marble is ideal for photos."
+                "en": "The bright winter light on the marble is ideal for photos.",
+                "pt": "A luz brilhante de inverno sobre o mármore é ideal para fotografias."
               }
             },
             {
@@ -1092,7 +1178,8 @@
                 "de": "Vorsicht bei Windböen auf den offenen Abschnitten des Burgbergs.",
                 "hu": "Vigyázzon a széllökésekkel a várhegy nyitott részein.",
                 "ro": "Atenție la rafalele de vânt pe porțiunile deschise ale castelului.",
-                "en": "Be careful with wind gusts on the open sections of the castle hill."
+                "en": "Be careful with wind gusts on the open sections of the castle hill.",
+                "pt": "Tenha cuidado com rajadas de vento nas zonas abertas da colina do castelo."
               }
             },
             {
@@ -1101,7 +1188,8 @@
                 "de": "Ein ruhiger Ort, um sich kurz von der kühlen Brise zu erholen.",
                 "hu": "Csendes hely, ahol rövid időre megpihenhet a hűvös szél elől.",
                 "ro": "Un loc liniștit pentru o scurtă pauză de la briza rece.",
-                "en": "A quiet place to take a short break from the cool breeze."
+                "en": "A quiet place to take a short break from the cool breeze.",
+                "pt": "Um local calmo para fazer uma pequena pausa do vento fresco."
               }
             },
             {
@@ -1110,7 +1198,8 @@
                 "de": "Nutzen Sie den Palastbesuch, um sich gründlich aufzuwärmen.",
                 "hu": "Használja ki a palotalátogatást az alapos felmelegedésre.",
                 "ro": "Folosiți vizita la palat pentru a vă încălzi bine.",
-                "en": "Use the palace visit as a chance to thoroughly warm up."
+                "en": "Use the palace visit as a chance to thoroughly warm up.",
+                "pt": "Use a visita ao palácio como hipótese para aquecer bem."
               }
             },
             {
@@ -1119,7 +1208,8 @@
                 "de": "Im Winter herrscht hier eine besonders andächtige Stille.",
                 "hu": "Télen különösen áhítatos csend uralkodik itt.",
                 "ro": "Iarna, aici domnește o liniște deosebit de pioasă.",
-                "en": "In winter, a particularly solemn silence prevails here."
+                "en": "In winter, a particularly solemn silence prevails here.",
+                "pt": "No inverno prevalece aqui um silêncio particularmente solene."
               }
             },
             {
@@ -1128,7 +1218,8 @@
                 "de": "Die Bewegung in den großen Hallen hält die Körpertemperatur stabil.",
                 "hu": "A nagy csarnokokban való mozgás stabilan tartja a testhőt.",
                 "ro": "Mișcarea în halele mari menține temperatura corpului stabilă.",
-                "en": "Moving through the large halls keeps your body temperature stable."
+                "en": "Moving through the large halls keeps your body temperature stable.",
+                "pt": "Mover‑se pelos grandes salões mantém a sua temperatura corporal estável."
               }
             },
             {
@@ -1137,7 +1228,8 @@
                 "de": "Geben Sie Ihr Rad rechtzeitig vor Einbruch der Dunkelheit ab.",
                 "hu": "Adja le a biciklit időben, még a sötétedés beállta előtt.",
                 "ro": "Returnați bicicleta la timp, înainte de lăsarea întunericului.",
-                "en": "Return your bike in good time before darkness falls."
+                "en": "Return your bike in good time before darkness falls.",
+                "pt": "Devolva a sua bicicleta com tempo antes de anoitecer."
               }
             }
           ],
@@ -1165,6 +1257,12 @@
               "Since it gets dark at 17:30, ensure your bike lights are working.",
               "Schedule warming stops at cafes in the main square.",
               "The crisp winter air offers far-reaching views, ideal for panoramas."
+            ],
+            "pt": [
+              "Os ventos de inverno podem ser frios; roupa corta‑vento é essencial.",
+              "Como anoitece às 17:30, assegure que as luzes da bicicleta funcionam.",
+              "Marque paragens para aquecer em cafés na praça principal.",
+              "O ar fresco de inverno oferece vistas longas, ideal para panoramas."
             ]
           }
         }
@@ -1183,7 +1281,8 @@
             "de": "Parkplatz nahe Praça da República",
             "hu": "Parkoló a Praça da República közelében",
             "ro": "Parcare lângă Praça da República",
-            "en": "Parking near Praça da República"
+            "en": "Parking near Praça da República",
+            "pt": "Estacionamento perto da Praça da República"
           },
           "coords": [
             -7.4185,
@@ -1198,7 +1297,8 @@
             "de": "Parken Sie hier Ihr Auto für den Tag. Das gesamte historische Zentrum ist von hier aus zu Fuß erreichbar.",
             "hu": "Parkolja le itt az autóját a napra. Az egész történelmi központ gyalogosan elérhető innen.",
             "ro": "Parcați-vă mașina aici pentru întreaga zi. Întregul centru istoric este accesibil pe jos de aici.",
-            "en": "Park your car here for the day. The entire historic center is walkable from this point."
+            "en": "Park your car here for the day. The entire historic center is walkable from this point.",
+            "pt": "Estacione aqui o seu carro durante o dia. Todo o centro histórico é percorrível a pé a partir deste ponto."
           }
         },
         {
@@ -1206,7 +1306,8 @@
             "de": "Praça da República",
             "hu": "Köztársaság tér",
             "ro": "Praça da República",
-            "en": "Republic Square"
+            "en": "Republic Square",
+            "pt": "Praça da República"
           },
           "coords": [
             -7.418,
@@ -1221,7 +1322,8 @@
             "de": "Der Beginn Ihres Rundgangs, umgeben von Orangenbäumen und historischer Architektur.",
             "hu": "A gyalogtúra kiindulópontja, narancsfákkal és történelmi építészettel körülvéve.",
             "ro": "Începutul turului dvs. pietonal, înconjurat de portocali și arhitectură istorică.",
-            "en": "The start of your walking tour, surrounded by orange trees and historic architecture."
+            "en": "The start of your walking tour, surrounded by orange trees and historic architecture.",
+            "pt": "O início do seu passeio a pé, rodeado de laranjeiras e arquitetura histórica."
           }
         },
         {
@@ -1229,7 +1331,8 @@
             "de": "Kastell von Vila Viçosa & Wallfahrtskirche",
             "hu": "Vila Viçosa vára és a szentély",
             "ro": "Castelul din Vila Viçosa și Sanctuarul",
-            "en": "Castle of Vila Viçosa & Sanctuary"
+            "en": "Castle of Vila Viçosa & Sanctuary",
+            "pt": "Castelo de Vila Viçosa e Santuário"
           },
           "coords": [
             -7.4155,
@@ -1244,7 +1347,8 @@
             "de": "Erkunden Sie die Burg und die angrenzende Kirche zusammen, da sie sich im selben ummauerten Bereich befinden.",
             "hu": "Fedezze fel a várat és a szomszédos templomot együtt, mivel ugyanazon a fallal körülvett területen vannak.",
             "ro": "Explorați castelul și biserica adiacentă împreună, deoarece se află în aceeași zonă cu ziduri.",
-            "en": "Explore the castle and the adjacent church together as they are in the same walled area."
+            "en": "Explore the castle and the adjacent church together as they are in the same walled area.",
+            "pt": "Explore o castelo e a igreja adjacente em conjunto, pois ficam na mesma área muralhada."
           }
         },
         {
@@ -1252,7 +1356,8 @@
             "de": "Herzogspalast von Vila Viçosa",
             "hu": "Vila Viçosa-i hercegi palota",
             "ro": "Palatul Ducal din Vila Viçosa",
-            "en": "Ducal Palace of Vila Viçosa"
+            "en": "Ducal Palace of Vila Viçosa",
+            "pt": "Paço Ducal de Vila Viçosa"
           },
           "coords": [
             -7.422,
@@ -1267,7 +1372,8 @@
             "de": "Das Highlight der Stadt. Planen Sie genügend Zeit für die opulenten Innenräume und die Fassade ein.",
             "hu": "A város fénypontja. Szánjon elegendő időt a pazar belső terekre és a homlokzatra.",
             "ro": "Punctul culminant al orașului. Alocați suficient timp pentru interioarele opulente și fațadă.",
-            "en": "The highlight of the town. Allow plenty of time for the opulent interiors and the façade."
+            "en": "The highlight of the town. Allow plenty of time for the opulent interiors and the façade.",
+            "pt": "A peça central da vila. Dedique bastante tempo aos interiores opulentos e à fachada."
           }
         },
         {
@@ -1275,7 +1381,8 @@
             "de": "Kutschenmuseum & Pantheon",
             "hu": "Hintómúzeum és Panteon",
             "ro": "Muzeul Trăsurilor și Panteonul",
-            "en": "Coach Museum & Pantheon"
+            "en": "Coach Museum & Pantheon",
+            "pt": "Museu dos Coches e Panteão"
           },
           "coords": [
             -7.423,
@@ -1290,7 +1397,8 @@
             "de": "Diese beiden Attraktionen befinden sich direkt neben dem Palast und können leicht zusammen besichtigt werden.",
             "hu": "Ez a két látnivaló közvetlenül a palota mellett található, és könnyen megtekinthető együtt.",
             "ro": "Aceste două atracții sunt situate chiar lângă palat și pot fi vizitate cu ușurință împreună.",
-            "en": "These two attractions are located right next to the palace and are easily visited together."
+            "en": "These two attractions are located right next to the palace and are easily visited together.",
+            "pt": "Estas duas atrações situam‑se mesmo ao lado do palácio e são facilmente visitadas em conjunto."
           }
         },
         {
@@ -1298,7 +1406,8 @@
             "de": "Fahrt zum Marmormuseum",
             "hu": "Utazás a Márványmúzeumhoz",
             "ro": "Călătorie spre Muzeul Marmurei",
-            "en": "Drive to the Marble Museum"
+            "en": "Drive to the Marble Museum",
+            "pt": "Desloque‑se de carro até ao Museu do Mármore"
           },
           "coords": [
             -7.411,
@@ -1313,7 +1422,8 @@
             "de": "Eine kurze Fahrt zu diesem Museum am Stadtrand, um Ihren Besuch abzurunden.",
             "hu": "Egy rövid autóút a város szélén található múzeumhoz, hogy teljes legyen a látogatás.",
             "ro": "O scurtă călătorie cu mașina până la acest muzeu de la marginea orașului pentru a vă completa vizita.",
-            "en": "A short drive to this museum on the edge of town to complete your visit."
+            "en": "A short drive to this museum on the edge of town to complete your visit.",
+            "pt": "Uma curta viagem de carro até este museu na periferia da cidade para completar a visita."
           }
         }
       ],
@@ -1321,7 +1431,8 @@
         "de": "Der Autotag folgt einer 'Parken und Gehen'-Philosophie. Nachdem Sie im Zentrum geparkt haben, beginnt Ihr Vormittag mit einem Spaziergang zur Burg und zur Wallfahrtskirche. Der Mittag ist dem riesigen Herzogspalast und seinen Nachbarmuseen gewidmet, die alle einen einzigen großen Fußgänger-Cluster bilden. Am Nachmittag machen Sie eine kurze Fahrt zum Marmormuseum, um die Reise in die lokale Kultur abzurunden.",
         "hu": "Az autós nap a 'parkolj és sétálj' filozófiát követi. Miután a központban parkolt, a délelőtt a várhoz és a zarándoktemplomhoz tett sétával kezdődik. A déli órák a hatalmas Hercegi Palotának és a szomszédos múzeumoknak vannak szentelve, amelyek egyetlen nagy gyalogos klasztert alkotnak. Délután egy rövid autóúttal juthat el a Márványmúzeumhoz, hogy teljes legyen a helyi kultúrában tett utazása.",
         "ro": "Ziua cu mașina urmează o filozofie 'parchează și mergi'. După ce ați parcat în centru, dimineața începe cu o plimbare la castel și sanctuar. Amiaza este dedicată vastului Palat Ducal și muzeelor sale învecinate, toate formând un singur cluster pietonal mare. După-amiaza, faceți o scurtă călătorie cu mașina la Muzeul Marmurei pentru a completa călătoria în cultura locală.",
-        "en": "The car day follows a 'park and walk' philosophy. After parking in the center, your morning starts with a walk to the castle and sanctuary. Midday is devoted to the vast Ducal Palace and its neighboring museums, all forming a single large pedestrian cluster. In the afternoon, you'll take a short drive to the Marble Museum to complete the journey into local culture."
+        "en": "The car day follows a 'park and walk' philosophy. After parking in the center, your morning starts with a walk to the castle and sanctuary. Midday is devoted to the vast Ducal Palace and its neighboring museums, all forming a single large pedestrian cluster. In the afternoon, you'll take a short drive to the Marble Museum to complete the journey into local culture.",
+        "pt": "O dia de carro segue a filosofia 'estacione e caminhe'. Após estacionar no centro, a sua manhã começa com uma caminhada até ao castelo e ao santuário. O meio do dia é dedicado ao vasto Paço Ducal e aos museus vizinhos, formando um único grande agrupamento pedonal. À tarde, fará uma curta viagem de carro até ao Museu do Mármore para completar a imersão na cultura local."
       },
       "gastro_picks": {
         "de": [
@@ -1497,6 +1608,12 @@
           "Check opening hours, as some places close for lunch (siesta).",
           "Driving in the historic center is not recommended; streets are very narrow.",
           "Use your car to visit nearby towns like Estremoz or Elvas if you have time."
+        ],
+        "pt": [
+          "Estacionar pode ser difícil no verão. Chegue cedo para encontrar um bom lugar.",
+          "Verifique os horários de abertura, pois alguns locais fecham para almoço (siesta).",
+          "Conduzir no centro histórico não é recomendado; as ruas são muito estreitas.",
+          "Use o carro para visitar aldeias próximas como Estremoz ou Elvas se tiver tempo."
         ]
       },
       "variants": {
@@ -1505,7 +1622,8 @@
             "de": "Mit dem Auto lässt sich Vila Viçosa auch bei Regen komfortabel erkunden, da man fast überall direkt vor der Tür parken kann. Den Vormittag verbringen wir in der Burg und der Wallfahrtskirche, während der Wagen sicher in der Nähe steht. Mittags und nachmittags bieten der Herzogspalast und die Museen trockene Highlights. Die kurzen Fahrten zwischen den Zielen minimieren die Zeit im Regen.",
             "hu": "Autóval Vila Viçosa esőben is kényelmesen felfedezhető, mivel szinte mindenhol az ajtó előtt parkolhatunk. A délelőttöt a várban és a kegytemplomban töltjük, miközben az autó biztonságban áll a közelben. Délben és délután a hercegi palota és a múzeumok nyújtanak száraz programot. A célpontok közötti rövid utak minimalizálják az esőben töltött időt.",
             "ro": "Cu mașina, Vila Viçosa poate fi explorată confortabil și pe ploaie, deoarece puteți parca aproape pretutindeni chiar lângă intrare. Dimineața o petrecem la castel și sanctuar, în timp ce mașina stă aproape. La prânz și după-amiază, palatul și muzeele oferă atracții uscate. Drumurile scurte dintre obiective reduc timpul petrecut în ploaie.",
-            "en": "By car, Vila Viçosa can be comfortably explored even in the rain, as you can park almost right in front of every entrance. Spend the morning in the castle and sanctuary while the car is safely parked nearby. In the midday and afternoon, the palace and museums provide dry highlights. The short drives between destinations minimize your time in the rain."
+            "en": "By car, Vila Viçosa can be comfortably explored even in the rain, as you can park almost right in front of every entrance. Spend the morning in the castle and sanctuary while the car is safely parked nearby. In the midday and afternoon, the palace and museums provide dry highlights. The short drives between destinations minimize your time in the rain.",
+            "pt": "De carro, Vila Viçosa pode ser confortavelmente explorada mesmo na chuva, pois pode estacionar quase em frente a cada entrada. Passe a manhã no castelo e no santuário enquanto o carro fica estacionado por perto. Ao meio‑dia e à tarde, o palácio e os museus oferecem pontos secos. As curtas deslocações entre destinos minimizam o tempo na chuva."
           },
           "stops": [
             {
@@ -1514,7 +1632,8 @@
                 "de": "Wählen Sie einen Platz nah am Ausgang für einen schnellen Sprint.",
                 "hu": "Válasszon kijárathoz közeli helyet a gyors bejutáshoz.",
                 "ro": "Alegeți un loc aproape de ieșire pentru o fugă rapidă.",
-                "en": "Choose a spot close to the exit for a quick dash to the square."
+                "en": "Choose a spot close to the exit for a quick dash to the square.",
+                "pt": "Escolha um lugar perto da saída para uma corrida rápida até à praça."
               }
             },
             {
@@ -1523,7 +1642,8 @@
                 "de": "Beobachten Sie den Regen auf dem Marmor gemütlich aus dem Café.",
                 "hu": "Figyelje az esőt a márványon egy kávézó belsejéből.",
                 "ro": "Observați ploaia pe marmură din interiorul unei cafenele.",
-                "en": "Watch the rain on the marble from inside a cozy cafe."
+                "en": "Watch the rain on the marble from inside a cozy cafe.",
+                "pt": "Observe a chuva no mármore a partir do interior de um café acolhedor."
               }
             },
             {
@@ -1532,7 +1652,8 @@
                 "de": "Parken Sie so nah wie möglich; der Besuch ist meist überdacht.",
                 "hu": "Parkoljon a lehető legközelebb; a látogatás nagy része fedett.",
                 "ro": "Parcați cât mai aproape; vizita este în mare parte acoperită.",
-                "en": "Park as close as possible; most of this visit is under cover."
+                "en": "Park as close as possible; most of this visit is under cover.",
+                "pt": "Estacione o mais próximo possível; a maior parte desta visita é coberta."
               }
             },
             {
@@ -1541,7 +1662,8 @@
                 "de": "Die Kasse und das Palastinnere halten Sie den ganzen Besuch trocken.",
                 "hu": "A pénztár és a palota belseje a teljes látogatás alatt szárazon tartja.",
                 "ro": "Casa de bilete și interiorul vă țin uscat pe tot parcursul vizitei.",
-                "en": "The ticket office and palace interior keep you dry for the visit."
+                "en": "The ticket office and palace interior keep you dry for the visit.",
+                "pt": "A bilheteira e o interior do palácio mantêm‑no seco durante a visita."
               }
             },
             {
@@ -1550,7 +1672,8 @@
                 "de": "Direkte Parkmöglichkeiten in der Nähe minimieren die Zeit im Freien.",
                 "hu": "A közeli parkolási lehetőség minimalizálja a kint töltött időt.",
                 "ro": "Parcarea directă în apropiere reduce timpul petrecut afară.",
-                "en": "Direct parking nearby minimizes your time out in the rain."
+                "en": "Direct parking nearby minimizes your time out in the rain.",
+                "pt": "Estacionamento direto nas proximidades minimiza o tempo que passa na chuva."
               }
             },
             {
@@ -1559,7 +1682,8 @@
                 "de": "Einfaches Parken direkt am Eingang; trocken vom Auto zur Tür.",
                 "hu": "Egyszerű parkolás közvetlenül a bejáratnál; szárazon az autótól.",
                 "ro": "Parcare ușoară chiar la intrare; rămâneți uscat până la ușă.",
-                "en": "Easy parking right at the entrance; stay dry from car to door."
+                "en": "Easy parking right at the entrance; stay dry from car to door.",
+                "pt": "Estacionamento fácil mesmo à entrada; mantenha‑se seco do carro até à porta."
               }
             }
           ],
@@ -1587,6 +1711,12 @@
               "Leave wet umbrellas in the trunk to keep the car interior dry.",
               "Avoid driving through very narrow alleys during heavy downpours.",
               "The museums are perfect stops to wait out the heaviest rain showers."
+            ],
+            "pt": [
+              "Utilize lugares de estacionamento diretamente em frente às principais atrações.",
+              "Deixe guarda‑chuvas molhados no porta‑bagagens para manter o interior do carro seco.",
+              "Evite conduzir por becos muito estreitos durante aguaceiros fortes.",
+              "Os museus são paragens perfeitas para esperar que a chuva mais forte passe."
             ]
           }
         },
@@ -1595,7 +1725,8 @@
             "de": "Vila Viçosa im Winter mit dem Auto bietet die Freiheit, die Highlights in der Wärme zu verbinden. Der klare Morgen am Hauptplatz ist herrlich, gefolgt von der Burg und der Wallfahrtskirche. Mittags wärmen wir uns im prächtigen Herzogspalast auf. Der Nachmittag führt uns zu den Kutschen und zum Marmormuseum, bevor wir die Tour pünktlich zum frühen Sonnenuntergang beenden.",
             "hu": "Vila Viçosa télen autóval szabadságot ad, hogy melegben kössük össze a látnivalókat. A tiszta reggel a főtéren csodálatos, amit a vár és a kegytemplom követ. Délben a hercegi palota pompájában melegszünk fel. A délután a kocsikhoz és a márványmúzeumhoz vezet, mielőtt a túrát pontosan a korai naplementére befejeznénk.",
             "ro": "Vila Viçosa iarna cu mașina oferă libertatea de a vizita atracțiile la căldură. Dimineața senină în piața centrală este superbă, urmată de castel și sanctuar. La prânz ne încălzim în splendoarea Palatului Ducal. După-amiaza ne poartă la trăsuri și la muzeul de marmură, înainte de a încheia turul la apus.",
-            "en": "Vila Viçosa in winter by car offers the freedom to connect the highlights in warmth. The clear morning at the main square is wonderful, followed by the castle and sanctuary. At noon, we warm up in the grand Ducal Palace. The afternoon leads to the coaches and the marble museum before finishing the tour right in time for the early sunset."
+            "en": "Vila Viçosa in winter by car offers the freedom to connect the highlights in warmth. The clear morning at the main square is wonderful, followed by the castle and sanctuary. At noon, we warm up in the grand Ducal Palace. The afternoon leads to the coaches and the marble museum before finishing the tour right in time for the early sunset.",
+            "pt": "Vila Viçosa no inverno de carro oferece a liberdade de ligar os destaques com conforto. A manhã clara na praça principal é maravilhosa, seguida pelo castelo e santuário. Ao meio‑dia aquecemo‑nos no grandioso Paço Ducal. A tarde leva aos coches e ao Museu do Mármore antes de terminar o passeio a tempo do pôr do sol cedo."
           },
           "stops": [
             {
@@ -1604,7 +1735,8 @@
                 "de": "Die Morgensonne wärmt das Auto auf den offenen Plätzen schnell auf.",
                 "hu": "A reggeli nap gyorsan felmelegíti az autót a nyitott helyeken.",
                 "ro": "Soarele de dimineață încălzește rapid mașina în parcările deschise.",
-                "en": "The morning sun quickly warms up the car in the open lots."
+                "en": "The morning sun quickly warms up the car in the open lots.",
+                "pt": "O sol da manhã aquece rapidamente o carro nos parques abertos."
               }
             },
             {
@@ -1613,7 +1745,8 @@
                 "de": "Die tiefe Wintersonne spiegelt sich schön an den weißen Häusern.",
                 "hu": "Az alacsony téli nap szépen tükröződik a fehér házakon.",
                 "ro": "Soarele de iarnă se reflectă frumos pe clădirile albe.",
-                "en": "The low winter sun reflects beautifully off the white buildings."
+                "en": "The low winter sun reflects beautifully off the white buildings.",
+                "pt": "O baixo sol de inverno reflete lindamente nos edifícios brancos."
               }
             },
             {
@@ -1622,7 +1755,8 @@
                 "de": "Die Steinräume sind kühl; lassen Sie den Mantel während der Tour an.",
                 "hu": "A kőtermek hűvösek; hagyja magán a kabátot a túra alatt.",
                 "ro": "Sălile de piatră sunt reci; păstrați haina pe dvs. în timpul turului.",
-                "en": "The stone interiors are cool; keep your coat on during the tour."
+                "en": "The stone interiors are cool; keep your coat on during the tour.",
+                "pt": "Os interiores em pedra são frescos; mantenha o casaco durante a visita."
               }
             },
             {
@@ -1631,7 +1765,8 @@
                 "de": "Die prunkvollen Säle wirken im klaren Winterlicht besonders majestätisch.",
                 "hu": "A pompás termek a tiszta téli fényben különösen fenségesek.",
                 "ro": "Sălile fastuoase par deosebit de maiestuoase în lumina de iarnă.",
-                "en": "The grand halls are majestic in the clear winter light."
+                "en": "The grand halls are majestic in the clear winter light.",
+                "pt": "Os grandes salões são majestosos com a luz clara de inverno."
               }
             },
             {
@@ -1640,7 +1775,8 @@
                 "de": "Genießen Sie die ruhige Winterstimmung an diesen weniger besuchten Orten.",
                 "hu": "Élvezze a csendes téli hangulatot ezeken a kevésbé zsúfolt helyeken.",
                 "ro": "Bucurați-vă de atmosfera liniștită de iarnă în aceste locuri.",
-                "en": "Enjoy the quiet winter atmosphere in these less crowded sites."
+                "en": "Enjoy the quiet winter atmosphere in these less crowded sites.",
+                "pt": "Desfrute da atmosfera calma de inverno nestes locais menos concorridos."
               }
             },
             {
@@ -1649,7 +1785,8 @@
                 "de": "Beenden Sie die Fahrt, wenn das Licht die Marmorbrüche hervorhebt.",
                 "hu": "Fejezze be az utat, amikor a fény kiemeli a márványbányákat.",
                 "ro": "Încheiați drumul când lumina evidențiază carierele de marmură.",
-                "en": "Finish your drive as the light highlights the marble quarries."
+                "en": "Finish your drive as the light highlights the marble quarries.",
+                "pt": "Termine a sua viagem enquanto a luz destaca as pedreiras de mármore."
               }
             }
           ],
@@ -1677,6 +1814,12 @@
               "Plan your route to arrive at your final destination before sunset.",
               "Finding parking is very easy in winter due to fewer tourists.",
               "Watch for potential frost in shaded alleys during the early morning."
+            ],
+            "pt": [
+              "Use o aquecimento do carro para transferências confortáveis entre os locais.",
+              "Planeie a rota para chegar ao seu destino final antes do pôr do sol.",
+              "Encontrar estacionamento é muito fácil no inverno devido a menos turistas.",
+              "Cuidado com possível geada nas ruelas sombreadas durante a manhã cedo."
             ]
           }
         }
@@ -1695,7 +1838,8 @@
             "de": "Ankunft an der Bushaltestelle Vila Viçosa",
             "hu": "Érkezés a Vila Viçosa buszmegállóba",
             "ro": "Sosire la stația de autobuz Vila Viçosa",
-            "en": "Arrival at Vila Viçosa Bus Stop"
+            "en": "Arrival at Vila Viçosa Bus Stop",
+            "pt": "Chegada à Paragem de Autocarros de Vila Viçosa"
           },
           "coords": [
             -7.414,
@@ -1710,7 +1854,8 @@
             "de": "Die Hauptbushaltestelle ist Ihr Tor zur Stadt. Von hier aus ist alles zu Fuß erreichbar.",
             "hu": "A központi buszmegálló a kapu a városhoz. Innen minden gyalogosan elérhető.",
             "ro": "Stația principală de autobuz este poarta dvs. de acces către oraș. Totul este la distanță de mers pe jos de aici.",
-            "en": "The main bus stop is your gateway to the town. Everything is walkable from here."
+            "en": "The main bus stop is your gateway to the town. Everything is walkable from here.",
+            "pt": "A paragem principal é a sua porta de entrada na vila. Tudo é percorrível a pé a partir daqui."
           }
         },
         {
@@ -1718,7 +1863,8 @@
             "de": "Marmormuseum",
             "hu": "Márványmúzeum",
             "ro": "Muzeul Marmurei",
-            "en": "Marble Museum"
+            "en": "Marble Museum",
+            "pt": "Museu do Mármore"
           },
           "coords": [
             -7.411,
@@ -1733,7 +1879,8 @@
             "de": "Beginnen Sie hier, da es in der Nähe der Bushaltestelle liegt, bevor Sie ins Zentrum gehen.",
             "hu": "Kezdje itt, mivel közel van a buszmegállóhoz, mielőtt a központba menne.",
             "ro": "Începeți aici, deoarece este aproape de stația de autobuz, înainte de a vă îndrepta spre centru.",
-            "en": "Start here as it's close to the bus stop before heading into the center."
+            "en": "Start here as it's close to the bus stop before heading into the center.",
+            "pt": "Comece aqui, pois fica perto da paragem de autocarros antes de dirigir‑se ao centro."
           }
         },
         {
@@ -1741,7 +1888,8 @@
             "de": "Praça da República",
             "hu": "Köztársaság tér",
             "ro": "Praça da República",
-            "en": "Republic Square"
+            "en": "Republic Square",
+            "pt": "Praça da República"
           },
           "coords": [
             -7.418,
@@ -1756,7 +1904,8 @@
             "de": "Das Herz der Stadt, ein perfekter Ort für eine Kaffeepause.",
             "hu": "A város szíve, tökéletes hely egy kávészünetre.",
             "ro": "Inima orașului, un loc perfect pentru o pauză de cafea.",
-            "en": "The heart of the town, a perfect spot for a coffee break."
+            "en": "The heart of the town, a perfect spot for a coffee break.",
+            "pt": "O coração da vila, um local perfeito para uma pausa para café."
           }
         },
         {
@@ -1764,7 +1913,8 @@
             "de": "Kastell von Vila Viçosa",
             "hu": "Vila Viçosa vára",
             "ro": "Castelul din Vila Viçosa",
-            "en": "Castle of Vila Viçosa"
+            "en": "Castle of Vila Viçosa",
+            "pt": "Castelo de Vila Viçosa"
           },
           "coords": [
             -7.4155,
@@ -1779,7 +1929,8 @@
             "de": "Ein kurzer Spaziergang vom Platz zur Spitze des Hügels für eine Dosis Geschichte.",
             "hu": "Rövid séta a térről a domb tetejére egy adag történelemért.",
             "ro": "O scurtă plimbare de la piață până în vârful dealului pentru o doză de istorie.",
-            "en": "A short walk from the square to the top of the hill for a dose of history."
+            "en": "A short walk from the square to the top of the hill for a dose of history.",
+            "pt": "Uma curta caminhada desde a praça até ao cimo da colina para uma dose de história."
           }
         },
         {
@@ -1787,7 +1938,8 @@
             "de": "Herzogspalast von Vila Viçosa",
             "hu": "Vila Viçosa-i hercegi palota",
             "ro": "Palatul Ducal din Vila Viçosa",
-            "en": "Ducal Palace of Vila Viçosa"
+            "en": "Ducal Palace of Vila Viçosa",
+            "pt": "Paço Ducal de Vila Viçosa"
           },
           "coords": [
             -7.422,
@@ -1802,7 +1954,8 @@
             "de": "Der krönende Abschluss Ihres Besuchs, der größte Teil des Nachmittags ist hier gut angelegt.",
             "hu": "Látogatásának csúcspontja, a délután nagy részét érdemes itt tölteni.",
             "ro": "Bijuteria coroanei vizitei dvs., cea mai mare parte a după-amiezii este bine petrecută aici.",
-            "en": "The crowning jewel of your visit, most of the afternoon is well spent here."
+            "en": "The crowning jewel of your visit, most of the afternoon is well spent here.",
+            "pt": "A joia maior da sua visita; a maior parte da tarde vale a pena aqui."
           }
         },
         {
@@ -1810,7 +1963,8 @@
             "de": "Kutschenmuseum",
             "hu": "Hintómúzeum",
             "ro": "Muzeul Trăsurilor",
-            "en": "Coach Museum"
+            "en": "Coach Museum",
+            "pt": "Museu dos Coches"
           },
           "coords": [
             -7.423,
@@ -1825,7 +1979,8 @@
             "de": "Ein schneller, aber faszinierender Besuch direkt neben dem Palast, bevor Sie zum Bus zurückkehren.",
             "hu": "Gyors, de lenyűgöző látogatás a palota mellett, mielőtt visszatérne a buszhoz.",
             "ro": "O vizită rapidă, dar fascinantă, chiar lângă palat, înainte de a vă întoarce la autobuz.",
-            "en": "A quick but fascinating visit right next to the palace before heading back to the bus."
+            "en": "A quick but fascinating visit right next to the palace before heading back to the bus.",
+            "pt": "Uma visita rápida mas fascinante mesmo ao lado do palácio antes de voltar para o autocarro."
           }
         }
       ],
@@ -1833,7 +1988,8 @@
         "de": "Wenn Sie mit dem Bus anreisen, ist Vila Viçosa vollständig zu Fuß erreichbar. Beginnen Sie am Morgen mit dem Marmormuseum in der Nähe der Haltestelle. Spazieren Sie mittags ins Zentrum, um die Praça da República und die Burg zu erkunden. Der Nachmittag ist dem prächtigen Herzogspalast und dem benachbarten Kutschenmuseum gewidmet, bevor Sie einen gemütlichen Spaziergang zurück zur Bushaltestelle machen.",
         "hu": "Ha busszal érkezik, Vila Viçosa teljesen bejárható gyalog. Kezdje a reggelt a megállóhoz közeli Márványmúzeummal. Délben sétáljon be a központba, hogy felfedezze a Köztársaság teret és a várat. A délutánt a pazar Hercegi Palotának és a szomszédos Hintómúzeumnak szenteljük, mielőtt kényelmesen visszasétálna a buszmegállóba.",
         "ro": "Sosind cu autobuzul, Vila Viçosa este complet explorabilă pe jos. Începeți dimineața la Muzeul Marmurei, aproape de stație. La amiază, plimbați-vă în centru pentru a explora Praça da República și castelul. După-amiaza este dedicată opulentului Palat Ducal și Muzeului Trăsurilor adiacent, înainte de o plimbare relaxantă înapoi la stația de autobuz.",
-        "en": "Arriving by bus, Vila Viçosa is completely walkable. Start your morning at the Marble Museum near the stop. At midday, stroll into the center to explore Praça da República and the castle. The afternoon is dedicated to the opulent Ducal Palace and the adjacent Coach Museum before a leisurely walk back to the bus station."
+        "en": "Arriving by bus, Vila Viçosa is completely walkable. Start your morning at the Marble Museum near the stop. At midday, stroll into the center to explore Praça da República and the castle. The afternoon is dedicated to the opulent Ducal Palace and the adjacent Coach Museum before a leisurely walk back to the bus station.",
+        "pt": "Chegando de autocarro, Vila Viçosa é totalmente percorrível a pé. Comece a manhã no Museu do Mármore junto à paragem. Ao meio-dia, passeie até ao centro para explorar a Praça da República e o castelo. A tarde é dedicada ao opulento Paço Ducal e ao contíguo Museu dos Coches antes de um passeio tranquilo de regresso à estação rodoviária."
       },
       "gastro_picks": {
         "de": [
@@ -1977,6 +2133,12 @@
           "The town is small, so don't worry about getting lost.",
           "Almost everything is walkable, but prioritize your must-sees.",
           "Ask for the 'Prato do Dia' (dish of the day) at local cafes for an affordable lunch."
+        ],
+        "pt": [
+          "Consulte o horário do autocarro para a viagem de regresso com antecedência.",
+          "A vila é pequena, por isso não se preocupe em perder-se.",
+          "Quase tudo se faz a pé, mas priorize o que mais quer ver.",
+          "Peça o 'Prato do Dia' nos cafés locais para um almoço económico."
         ]
       },
       "variants": {
@@ -1985,7 +2147,8 @@
             "de": "Vila Viçosa mit öffentlichen Verkehrsmitteln erfordert bei Regen etwas Planung, bietet aber eine entspannte Ankunft. Wir starten am Marmormuseum, um den Vormittag trocken zu verbringen. Danach führt der Weg zum Hauptplatz und zur Burg. Den Nachmittag widmen wir dem Herzogspalast und dem Kutschenmuseum, bevor wir bequem per Bus die Heimreise antreten.",
             "hu": "Vila Viçosa tömegközlekedéssel esőben némi tervezést igényel, de nyugodt érkezést biztosít. A márványmúzeumnál kezdünk, hogy a délelőttöt szárazon töltsük. Ezután az út a főtérhez és a várhoz vezet. A délutánt a hercegi palotának és a kocsimúzeumnak szenteljük, mielőtt busszal hazaindulnánk.",
             "ro": "Vila Viçosa cu transportul public necesită puțină planificare pe ploaie, dar oferă o sosire relaxată. Începem la muzeul de marmură pentru a petrece dimineața la adăpost. Apoi, drumul duce la piața centrală și la castel. După-amiaza o dedicăm palatului și muzeului de trăsuri, înainte de plecare.",
-            "en": "Vila Viçosa by public transit requires some planning in the rain but offers a relaxed arrival. We start at the marble museum to spend the morning dry. Afterwards, the route leads to the main square and the castle. The afternoon is dedicated to the Ducal Palace and the coach museum before heading back by bus."
+            "en": "Vila Viçosa by public transit requires some planning in the rain but offers a relaxed arrival. We start at the marble museum to spend the morning dry. Afterwards, the route leads to the main square and the castle. The afternoon is dedicated to the Ducal Palace and the coach museum before heading back by bus.",
+            "pt": "Vila Viçosa de transporte público exige algum planeamento na chuva, mas oferece uma chegada descontraída. Começamos no museu do mármore para passar a manhã abrigados. Depois, o percurso conduz à praça principal e ao castelo. A tarde é dedicada ao Paço Ducal e ao museu dos coches antes de regressar de autocarro."
           },
           "stops": [
             {
@@ -1994,7 +2157,8 @@
                 "de": "Nutzen Sie den Unterstand an der Bushaltestelle zur Orientierung.",
                 "hu": "Használja a buszmegálló váróját az orientációhoz.",
                 "ro": "Folosiți adăpostul din stația de autobuz pentru orientare.",
-                "en": "Use the shelter at the bus stop to orient yourself before moving."
+                "en": "Use the shelter at the bus stop to orient yourself before moving.",
+                "pt": "Use a cobertura da paragem para se orientar antes de seguir em frente."
               }
             },
             {
@@ -2003,7 +2167,8 @@
                 "de": "Beginnen Sie drinnen, während der Regen am Morgen am stärksten ist.",
                 "hu": "Kezdjen bent, amíg a reggeli eső a leghevesebb.",
                 "ro": "Începeți în interior, când ploaia de dimineață este mai densă.",
-                "en": "Start indoors to stay dry while the morning rain is heaviest."
+                "en": "Start indoors to stay dry while the morning rain is heaviest.",
+                "pt": "Comece no interior para se manter seco enquanto a chuva da manhã é mais intensa."
               }
             },
             {
@@ -2012,7 +2177,8 @@
                 "de": "Der Weg vom Bus ist kurz; nutzen Sie die Ladenmarkisen.",
                 "hu": "A busztól rövid az út; használja az üzletek előtetőit.",
                 "ro": "Drumul de la autobuz este scurt; folosiți copertinele.",
-                "en": "The walk from the bus is short; use the shop awnings."
+                "en": "The walk from the bus is short; use the shop awnings.",
+                "pt": "A caminhada desde o autocarro é curta; aproveite os toldos das lojas."
               }
             },
             {
@@ -2021,7 +2187,8 @@
                 "de": "Konzentrieren Sie sich auf die Museen, um maximal überdacht zu bleiben.",
                 "hu": "Koncentráljon a múzeumokra, hogy maximálisan fedett helyen maradjon.",
                 "ro": "Concentrați-vă pe muzee pentru a rămâne sub acoperiș.",
-                "en": "Focus on the interior museums to maximize your time under cover."
+                "en": "Focus on the interior museums to maximize your time under cover.",
+                "pt": "Concentre-se nos museus interiores para maximizar o tempo protegido."
               }
             },
             {
@@ -2030,7 +2197,8 @@
                 "de": "Das Highlight des Tages, perfekt für einen regnerischen Nachmittag.",
                 "hu": "A nap fénypontja, tökéletesen alkalmas egy esős délutánra.",
                 "ro": "Punctul culminant al zilei, perfect pentru o după-amiază ploioasă.",
-                "en": "The main highlight of the day, perfectly suited for a rainy afternoon."
+                "en": "The main highlight of the day, perfectly suited for a rainy afternoon.",
+                "pt": "O principal destaque do dia, perfeito para uma tarde chuvosa."
               }
             },
             {
@@ -2039,7 +2207,8 @@
                 "de": "Ein großartiger letzter Stopp, bevor es zurück zum Bus geht.",
                 "hu": "Nagyszerű utolsó állomás, mielőtt visszatérne a buszmegállóhoz.",
                 "ro": "O ultimă oprire excelentă înainte de a reveni la autobuz.",
-                "en": "A great final stop before heading back to the transit hub."
+                "en": "A great final stop before heading back to the transit hub.",
+                "pt": "Uma ótima paragem final antes de voltar ao hub de transporte."
               }
             }
           ],
@@ -2067,6 +2236,12 @@
               "Wear a lightweight raincoat for the walks between stops.",
               "Most attractions are within walking distance of each other in the center.",
               "Use cafes near the bus stops as convenient waiting areas."
+            ],
+            "pt": [
+              "Verifique os horários dos autocarros com antecedência, pois podem variar em dias de chuva.",
+              "Use um impermeável leve para as caminhadas entre pontos.",
+              "A maioria das atrações fica a curta distância umas das outras no centro.",
+              "Use os cafés perto das paragens como áreas práticas para esperar."
             ]
           }
         },
@@ -2075,7 +2250,8 @@
             "de": "Ein Winterausflug mit dem Bus nach Vila Viçosa verspricht klare Luft und ruhige Besichtigungen. Nach der Ankunft starten wir beim Marmormuseum, bevor wir zum sonnigen Hauptplatz weiterfahren. Mittags wärmt uns der prunkvolle Herzogspalast auf. Der Nachmittag gehört der Burg und den Kutschen, bevor wir den Tag pünktlich zur Dämmerung an der Bushaltestelle beenden.",
             "hu": "A téli buszos kirándulás Vila Viçosába tiszta levegőt és nyugodt nézelődést ígér. Érkezés után a márványmúzeumnál kezdünk, majd a napfényes főtérre megyünk. Délben a pompás hercegi palota melegít fel minket. A délután a váré és a kocsiké, mielőtt a napot pontosan szürkületkor a buszmegállóban zárnánk.",
             "ro": "O excursie de iarnă cu autobuzul în Vila Viçosa promite aer curat și vizite liniștite. După sosire, începem la muzeul de marmură, apoi mergem în piața centrală însorită. La prânz ne încălzim în Palatul Ducal. După-amiaza aparține castelului și trăsurilor, înainte de a încheia ziua la stația de autobuz.",
-            "en": "A winter trip by bus to Vila Viçosa promises crisp air and quiet sightseeing. After arrival, we start at the marble museum before continuing to the sunny main square. At noon, the grand Ducal Palace warms us up. The afternoon belongs to the castle and the coaches before ending the day at the bus stop right at dusk."
+            "en": "A winter trip by bus to Vila Viçosa promises crisp air and quiet sightseeing. After arrival, we start at the marble museum before continuing to the sunny main square. At noon, the grand Ducal Palace warms us up. The afternoon belongs to the castle and the coaches before ending the day at the bus stop right at dusk.",
+            "pt": "Uma viagem de inverno de autocarro a Vila Viçosa promete ar fresco e visitas tranquilas. Após a chegada, começamos no museu do mármore antes de continuar para a ensolarada praça principal. Ao meio-dia, o grandioso Paço Ducal aquece-nos. A tarde pertence ao castelo e aos coches antes de terminar o dia na paragem de autocarro ao anoitecer."
           },
           "stops": [
             {
@@ -2084,7 +2260,8 @@
                 "de": "Beachten Sie die frühen Rückfahrzeiten in den Wintermonaten.",
                 "hu": "Figyeljen a téli hónapok korai visszaindulási időpontjaira.",
                 "ro": "Atenție la orele de plecare mai devreme în lunile de iarnă.",
-                "en": "Note the early return times during the winter months."
+                "en": "Note the early return times during the winter months.",
+                "pt": "Note os horários de regresso antecipados durante os meses de inverno."
               }
             },
             {
@@ -2093,7 +2270,8 @@
                 "de": "Ein guter Startpunkt, um sich nach der Busfahrt aufzuwärmen.",
                 "hu": "Jó kiindulópont a buszozás utáni felmelegedéshez.",
                 "ro": "Un punct bun de plecare pentru a vă încălzi după drum.",
-                "en": "A good starting point to warm up after the bus ride."
+                "en": "A good starting point to warm up after the bus ride.",
+                "pt": "Um bom ponto de partida para se aquecer após a viagem de autocarro."
               }
             },
             {
@@ -2102,7 +2280,8 @@
                 "de": "Genießen Sie den Kaffee in der Sonne, bevor diese hinter den Häusern sinkt.",
                 "hu": "Élvezze a kávét a napon, mielőtt az a házak mögé bukna.",
                 "ro": "Bucurați-vă de cafea la soare înainte ca acesta să apună.",
-                "en": "Enjoy your coffee in the sun before it sets behind the buildings."
+                "en": "Enjoy your coffee in the sun before it sets behind the buildings.",
+                "pt": "Desfrute do seu café ao sol antes que ele se ponha por detrás dos edifícios."
               }
             },
             {
@@ -2111,7 +2290,8 @@
                 "de": "Das Winterlicht auf den Burgmauern ist fantastisch für Panoramaaufnahmen.",
                 "hu": "A várfalakon megcsillanó téli fény fantasztikus panorámaképekhez.",
                 "ro": "Lumina de iarnă pe zidurile castelului este fantastică.",
-                "en": "The winter light on the castle walls is fantastic for panoramas."
+                "en": "The winter light on the castle walls is fantastic for panoramas.",
+                "pt": "A luz de inverno nas paredes do castelo é fantástica para panoramas."
               }
             },
             {
@@ -2120,7 +2300,8 @@
                 "de": "Der perfekte Ort für die kühlste Zeit des Tages.",
                 "hu": "Tökéletes helyszín a nap leghűvösebb időszakára.",
                 "ro": "Locul perfect pentru cea mai răcoroasă perioadă a zilei.",
-                "en": "The perfect place to be during the coolest time of the day."
+                "en": "The perfect place to be during the coolest time of the day.",
+                "pt": "O local perfeito para estar durante a hora mais fresca do dia."
               }
             },
             {
@@ -2129,7 +2310,8 @@
                 "de": "Verbringen Sie hier die Zeit, bevor die Sonne früh untergeht.",
                 "hu": "Itt töltse el az időt, mielőtt a nap korán lenyugszik.",
                 "ro": "Petreceți timpul aici înainte ca soarele să apună devreme.",
-                "en": "Spend time here before the sun sets early in the afternoon."
+                "en": "Spend time here before the sun sets early in the afternoon.",
+                "pt": "Passe algum tempo aqui antes do sol se pôr cedo à tarde."
               }
             }
           ],
@@ -2157,6 +2339,12 @@
               "Wait for your bus in the heated interiors of nearby cafes.",
               "The town is very quiet in winter, offering an authentic experience.",
               "Plan your return to the bus station before 17:30."
+            ],
+            "pt": [
+              "Os horários podem ser limitados no inverno; verifique-os online antes de ir.",
+              "Espere pelo autocarro nos interiores aquecidos dos cafés próximos.",
+              "A vila é muito tranquila no inverno, oferecendo uma experiência autêntica.",
+              "Planeie o seu regresso à estação rodoviária antes das 17:30."
             ]
           }
         }

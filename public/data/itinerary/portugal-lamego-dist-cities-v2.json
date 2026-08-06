@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die vergoldeten Holzschnitzereien.",
             "hu": "Csodálja meg az aranyozott fafaragásokat.",
             "ro": "Admirați sculpturile în lemn aurit.",
-            "en": "Admire the gilded woodcarvings."
+            "en": "Admire the gilded woodcarvings.",
+            "pt": "Admire as talhas douradas em madeira."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Reste der mittelalterlichen Stadtmauer.",
             "hu": "A középkori városfal maradványai.",
             "ro": "Resturi ale zidului medieval al orașului.",
-            "en": "Remnants of the medieval city wall."
+            "en": "Remnants of the medieval city wall.",
+            "pt": "Remanescentes da muralha medieval da cidade."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Kleine, intime Kapelle im historischen Zentrum.",
             "hu": "Kicsi, meghitt kápolna a történelmi központban.",
             "ro": "Capelă mică și intimă în centrul istoric.",
-            "en": "Small, intimate chapel in the historic center."
+            "en": "Small, intimate chapel in the historic center.",
+            "pt": "Pequena capela íntima no centro histórico."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Spektakulärer Blick über das Varosa-Tal.",
             "hu": "Látványos kilátás a Varosa-völgyre.",
             "ro": "Vedere spectaculoasă asupra văii Varosa.",
-            "en": "Spectacular view over the Varosa Valley."
+            "en": "Spectacular view over the Varosa Valley.",
+            "pt": "Vista espectacular sobre o Vale da Varosa."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Erstes Zisterzienserkloster Portugals.",
             "hu": "Portugália első ciszterci kolostora.",
             "ro": "Prima mănăstire cisterciană din Portugalia.",
-            "en": "First Cistercian monastery in Portugal."
+            "en": "First Cistercian monastery in Portugal.",
+            "pt": "Primeiro mosteiro cisterciense em Portugal."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Probieren Sie den lokalen Schaumwein.",
             "hu": "Kóstolja meg a helyi pezsgőt.",
             "ro": "Gustați vinul spumant local.",
-            "en": "Taste the local sparkling wine."
+            "en": "Taste the local sparkling wine.",
+            "pt": "Prove o espumante local."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Morgens erkunden Sie den historischen Kern von Tarouca mit der prächtigen Igreja Matriz und den alten Mauern. Mittags wandern Sie zum Santa Helena Aussichtspunkt für ein Panorama-Picknick. Der Nachmittag gehört dem monumentalen Kloster São João de Tarouca, dem Wiege des Zisterzienserordens im Land. Der Tag endet gemütlich bei regionalen Spezialitäten im Stadtzentrum.",
         "hu": "Reggel Tarouca történelmi magját fedezzük fel a pompás Igreja Matriz templommal és az ódon falakkal. Délben felgyalogolunk a Santa Helena kilátóhoz egy panorámás piknikre. A délutánt a monumentális São João de Tarouca kolostornak szenteljük, amely a ciszterci rend bölcsője az országban. A nap a belvárosban, helyi finomságok kóstolásával zárul.",
         "ro": "Dimineața explorați nucleul istoric al Taroucăi, cu magnifica Igreja Matriz și vechile ziduri. La prânz, urcați la punctul de belvedere Santa Helena pentru un picnic panoramic. După-amiaza este dedicată monumentalei mănăstiri São João de Tarouca, leagănul ordinului cistercian în țară. Ziua se încheie plăcut cu specialități regionale în centrul orașului.",
-        "en": "In the morning, explore the historic core of Tarouca with the magnificent Igreja Matriz and the old walls. At noon, hike up to the Santa Helena viewpoint for a panoramic picnic. The afternoon is dedicated to the monumental Monastery of São João de Tarouca, the cradle of the Cistercian order in the country. The day ends pleasantly with regional specialties in the city center."
+        "en": "In the morning, explore the historic core of Tarouca with the magnificent Igreja Matriz and the old walls. At noon, hike up to the Santa Helena viewpoint for a panoramic picnic. The afternoon is dedicated to the monumental Monastery of São João de Tarouca, the cradle of the Cistercian order in the country. The day ends pleasantly with regional specialties in the city center.",
+        "pt": "De manhã, explore o núcleo histórico de Tarouca com a magnífica Igreja Matriz e as velhas muralhas. Ao meio‑dia, suba até ao miradouro de Santa Helena para um piquenique panorâmico. A tarde é dedicada ao monumental Mosteiro de São João de Tarouca, berço da ordem cisterciense no país. O dia termina agradavelmente com especialidades regionais no centro da vila."
       },
       "gastro_picks": {
         "de": [
@@ -269,6 +276,11 @@
           "Wear comfortable shoes for the hike to the viewpoint.",
           "Monasteries are often closed on Mondays.",
           "Be sure to try the local artisanal cheeses."
+        ],
+        "pt": [
+          "Use calçado confortável para a caminhada até ao miradouro.",
+          "Os mosteiros costumam estar fechados às segundas‑feiras.",
+          "Não deixe de provar os queijos artesanais locais."
         ]
       }
     },
@@ -295,7 +307,8 @@
             "de": "Start im Zentrum.",
             "hu": "Kezdés a központban.",
             "ro": "Start în centru.",
-            "en": "Start in the center."
+            "en": "Start in the center.",
+            "pt": "Comece no centro."
           }
         },
         {
@@ -313,7 +326,8 @@
             "de": "Kurzer Spaziergang.",
             "hu": "Rövid séta.",
             "ro": "Scurtă plimbare.",
-            "en": "Short walk."
+            "en": "Short walk.",
+            "pt": "Caminhada curta."
           }
         },
         {
@@ -331,7 +345,8 @@
             "de": "Erstes Kloster der Nation.",
             "hu": "A nemzet első kolostora.",
             "ro": "Prima mănăstire a națiunii.",
-            "en": "First monastery of the nation."
+            "en": "First monastery of the nation.",
+            "pt": "Primeiro mosteiro da nação."
           }
         },
         {
@@ -349,7 +364,8 @@
             "de": "Beste Aussicht.",
             "hu": "Legjobb kilátás.",
             "ro": "Cea mai bună vedere.",
-            "en": "Best view."
+            "en": "Best view.",
+            "pt": "Melhor vista."
           }
         },
         {
@@ -367,7 +383,8 @@
             "de": "Ein weiteres Zisterzienser-Juwel.",
             "hu": "Egy újabb ciszterci ékszerdoboz.",
             "ro": "O altă bijuterie cisterciană.",
-            "en": "Another Cistercian gem."
+            "en": "Another Cistercian gem.",
+            "pt": "Outra jóia cisterciense."
           }
         },
         {
@@ -385,7 +402,8 @@
             "de": "Mautbrücke aus dem Mittelalter.",
             "hu": "Középkori vámszedő híd.",
             "ro": "Pod cu taxă din Evul Mediu.",
-            "en": "Medieval toll bridge."
+            "en": "Medieval toll bridge.",
+            "pt": "Ponte pedágio medieval."
           }
         },
         {
@@ -403,7 +421,8 @@
             "de": "Verteidigungsturm direkt an der Brücke.",
             "hu": "Védőtorony közvetlenül a hídnál.",
             "ro": "Turn de apărare chiar lângă pod.",
-            "en": "Defense tower right by the bridge."
+            "en": "Defense tower right by the bridge.",
+            "pt": "Torre defensiva junto à ponte."
           }
         },
         {
@@ -421,7 +440,8 @@
             "de": "Regionale Küche genießen.",
             "hu": "Regionális konyha élvezete.",
             "ro": "Bucurați-vă de bucătăria regională.",
-            "en": "Enjoy regional cuisine."
+            "en": "Enjoy regional cuisine.",
+            "pt": "Desfrute da cozinha regional."
           }
         }
       ],
@@ -429,7 +449,8 @@
         "de": "Diese Autotour verbindet die wichtigsten Klöster und Denkmäler des Varosa-Tals. Wir starten in Tarouca, besuchen das Kloster São João und fahren dann zum Kloster Salzedas. Ein Highlight ist das befestigte Dorf Ucanha mit seiner einzigartigen Mautbrücke. Den Abschluss bildet eine Weinprobe der berühmten regionalen Schaumweine.",
         "hu": "Ez az autós túra összeköti a Varosa-völgy legfontosabb kolostorait és műemlékeit. Taroucából indulunk, meglátogatjuk a São João kolostort, majd a salzedasit. A csúcspont Ucanha erődített faluja az egyedülálló vámszedő híddal. A napot a híres regionális pezsgők kóstolásával zárjuk.",
         "ro": "Acest tur cu mașina conectează cele mai importante mănăstiri și monumente din Valea Varosa. Începem în Tarouca, vizităm mănăstirea São João și apoi mănăstirea Salzedas. Un punct culminant este satul fortificat Ucanha, cu podul său unic cu taxă. Încheiem cu o degustare a faimoaselor vinuri spumante regionale.",
-        "en": "This car tour connects the most important monasteries and monuments of the Varosa Valley. We start in Tarouca, visit the São João Monastery, and then the Salzedas Monastery. A highlight is the fortified village of Ucanha with its unique toll bridge. We end with a tasting of the famous regional sparkling wines."
+        "en": "This car tour connects the most important monasteries and monuments of the Varosa Valley. We start in Tarouca, visit the São João Monastery, and then the Salzedas Monastery. A highlight is the fortified village of Ucanha with its unique toll bridge. We end with a tasting of the famous regional sparkling wines.",
+        "pt": "Este passeio de carro liga os mosteiros e monumentos mais importantes do Vale da Varosa. Começamos em Tarouca, visitamos o Mosteiro de São João e depois o Mosteiro de Salzedas. Um destaque é a aldeia fortificada de Ucanha com a sua única ponte pedagiada. Terminamos com uma prova dos famosos espumantes regionais."
       },
       "gastro_picks": {
         "de": [
@@ -533,6 +554,11 @@
           "Park in Ucanha before the bridge.",
           "The valley roads are narrow and winding.",
           "Buy sparkling wine as a souvenir."
+        ],
+        "pt": [
+          "Estacione em Ucanha antes da ponte.",
+          "As estradas do vale são estreitas e sinuosas.",
+          "Compre espumante como lembrança."
         ]
       }
     },
@@ -559,7 +585,8 @@
             "de": "Zentraler Treffpunkt.",
             "hu": "Központi találkozóhely.",
             "ro": "Punct de întâlnire central.",
-            "en": "Central meeting point."
+            "en": "Central meeting point.",
+            "pt": "Ponto de encontro central."
           }
         },
         {
@@ -577,7 +604,8 @@
             "de": "Fotostopp auf der Brücke.",
             "hu": "Fotómegálló a hídon.",
             "ro": "Oprire pentru poze pe pod.",
-            "en": "Photo stop on the bridge."
+            "en": "Photo stop on the bridge.",
+            "pt": "Paragem para foto na ponte."
           }
         },
         {
@@ -595,7 +623,8 @@
             "de": "Historischer Turm.",
             "hu": "Történelmi torony.",
             "ro": "Turn istoric.",
-            "en": "Historic tower."
+            "en": "Historic tower.",
+            "pt": "Torre histórica."
           }
         },
         {
@@ -613,7 +642,8 @@
             "de": "Großartige Architektur.",
             "hu": "Nagyszerű építészet.",
             "ro": "Arhitectură grandioasă.",
-            "en": "Grand architecture."
+            "en": "Grand architecture.",
+            "pt": "Arquitetura grandiosa."
           }
         },
         {
@@ -631,7 +661,8 @@
             "de": "Ruhiger Abschluss.",
             "hu": "Csendes befejezés.",
             "ro": "Final liniștit.",
-            "en": "Quiet finish."
+            "en": "Quiet finish.",
+            "pt": "Final tranquilo."
           }
         },
         {
@@ -649,7 +680,8 @@
             "de": "Kühle Getränke und Snacks.",
             "hu": "Hűsítő italok és snackek.",
             "ro": "Băuturi reci și gustări.",
-            "en": "Cold drinks and snacks."
+            "en": "Cold drinks and snacks.",
+            "pt": "Bebidas frias e snacks."
           }
         }
       ],
@@ -657,7 +689,8 @@
         "de": "Diese Radtour führt durch das malerische Tal des Rio Varosa. Wir besuchen die beeindruckende Brücke von Ucanha und das historische Kloster São João. Die Strecke bietet sanfte Hügel und wunderschöne Flusslandschaften, ideal für einen aktiven Tag in der Natur Portugals.",
         "hu": "Ez a kerékpártúra a Rio Varosa festői völgyén vezet keresztül. Meglátogatjuk az impozáns ucanhai hidat és a történelmi São João kolostort. Az útvonal lankás dombokat és gyönyörű folyóparti tájakat kínál, ideális egy aktív naphoz Portugália természetében.",
         "ro": "Acest tur cu bicicleta trece prin valea pitorească a râului Varosa. Vizităm podul impresionant din Ucanha și mănăstirea istorică São João. Traseul oferă dealuri domoale și peisaje frumoase de-a lungul râului, ideal pentru o zi activă în natura Portugaliei.",
-        "en": "This bike tour leads through the picturesque valley of the Rio Varosa. We visit the impressive bridge of Ucanha and the historic São João Monastery. The route offers gentle hills and beautiful riverside landscapes, ideal for an active day in Portugal's nature."
+        "en": "This bike tour leads through the picturesque valley of the Rio Varosa. We visit the impressive bridge of Ucanha and the historic São João Monastery. The route offers gentle hills and beautiful riverside landscapes, ideal for an active day in Portugal's nature.",
+        "pt": "Este passeio de bicicleta percorre o pitoresco vale do Rio Varosa. Visitamos a impressionante ponte de Ucanha e o histórico Mosteiro de São João. O percurso oferece subidas suaves e belos cenários ribeirinhos, ideal para um dia activo na natureza portuguesa."
       },
       "gastro_picks": {
         "de": [
@@ -761,6 +794,11 @@
           "Take plenty of water with you.",
           "Some climbs require some fitness.",
           "Take advantage of the shade from the monastery walls."
+        ],
+        "pt": [
+          "Leve muita água consigo.",
+          "Algumas subidas exigem alguma resistência física.",
+          "Aproveite a sombra das muralhas do mosteiro."
         ]
       }
     },
@@ -787,7 +825,8 @@
             "de": "Stadtzentrum.",
             "hu": "Városközpont.",
             "ro": "Centrul orașului.",
-            "en": "City center."
+            "en": "City center.",
+            "pt": "Centro da cidade."
           }
         },
         {
@@ -805,7 +844,8 @@
             "de": "Zu Fuß erreichbar.",
             "hu": "Gyalogosan elérhető.",
             "ro": "Accesibil pe jos.",
-            "en": "Accessible on foot."
+            "en": "Accessible on foot.",
+            "pt": "Acessível a pé."
           }
         },
         {
@@ -823,7 +863,8 @@
             "de": "Mit dem Lokalbus erreichbar.",
             "hu": "Helyi busszal elérhető.",
             "ro": "Accesibil cu autobuzul local.",
-            "en": "Accessible by local bus."
+            "en": "Accessible by local bus.",
+            "pt": "Acessível por autocarro local."
           }
         },
         {
@@ -841,7 +882,8 @@
             "de": "Direkt neben der Haltestelle.",
             "hu": "Közvetlenül a megálló mellett.",
             "ro": "Chiar lângă stație.",
-            "en": "Right next to the stop."
+            "en": "Right next to the stop.",
+            "pt": "Mesmo junto à paragem."
           }
         },
         {
@@ -859,7 +901,8 @@
             "de": "Rückfahrt ins Zentrum.",
             "hu": "Visszatérés a központba.",
             "ro": "Întoarcere în centru.",
-            "en": "Return to the center."
+            "en": "Return to the center.",
+            "pt": "Regresso ao centro."
           }
         }
       ],
@@ -867,7 +910,8 @@
         "de": "Nutzen Sie die lokalen Busverbindungen, um zwischen dem Zentrum von Tarouca und dem historischen Ucanha zu pendeln. Vormittags besichtigen wir die Sehenswürdigkeiten im Stadtkern, bevor wir nach Ucanha fahren, um die berühmte befestigte Brücke zu sehen. Ein entspannter Tag ohne Auto.",
         "hu": "Használja a helyi buszjáratokat a Tarouca központja és a történelmi Ucanha közötti közlekedéshez. Délelőtt a városközpont látnivalóit tekintjük meg, mielőtt Ucanhába utaznánk, hogy megnézzük a híres erődített hidat. Egy pihentető nap autó nélkül.",
         "ro": "Utilizați conexiunile locale de autobuz pentru a naveta între centrul Taroucăi și satul istoric Ucanha. Dimineața vizităm obiectivele din centrul orașului, înainte de a pleca spre Ucanha pentru a vedea faimosul pod fortificat. O zi relaxantă fără mașină.",
-        "en": "Use the local bus connections to commute between the center of Tarouca and historic Ucanha. In the morning, we visit the sights in the city center before traveling to Ucanha to see the famous fortified bridge. A relaxing day without a car."
+        "en": "Use the local bus connections to commute between the center of Tarouca and historic Ucanha. In the morning, we visit the sights in the city center before traveling to Ucanha to see the famous fortified bridge. A relaxing day without a car.",
+        "pt": "Use as ligações de autocarro locais para ir entre o centro de Tarouca e a histórica Ucanha. De manhã visitamos os pontos no centro antes de viajar para Ucanha para ver a famosa ponte fortificada. Um dia relaxante sem carro."
       },
       "gastro_picks": {
         "de": [
@@ -971,6 +1015,11 @@
           "Check bus times in advance, they are infrequent.",
           "Ask locals for the bus stop location.",
           "Buy tickets from the driver."
+        ],
+        "pt": [
+          "Consulte os horários dos autocarros antecipadamente; são pouco frequentes.",
+          "Pergunte aos locais pela localização da paragem de autocarro.",
+          "Compre bilhetes ao motorista."
         ]
       }
     }

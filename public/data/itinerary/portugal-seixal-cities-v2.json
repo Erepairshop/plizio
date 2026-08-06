@@ -21,7 +21,8 @@
             "de": "Jardim da Praça dos Mártires da Liberdade",
             "hu": "Jardim da Praça dos Mártires da Liberdade",
             "ro": "Jardim da Praça dos Mártires da Liberdade",
-            "en": "Garden of the Square of the Martyrs of Liberty"
+            "en": "Garden of the Square of the Martyrs of Liberty",
+            "pt": "Jardim da Praça dos Mártires da Liberdade"
           },
           "coords": [
             -9.1015,
@@ -39,7 +40,8 @@
             "de": "Bucht von Seixal",
             "hu": "Seixal-öböl",
             "ro": "Golful Seixal",
-            "en": "Bay of Seixal"
+            "en": "Bay of Seixal",
+            "pt": "Baía do Seixal"
           },
           "coords": [
             -9.1055,
@@ -57,7 +59,8 @@
             "de": "Städtisches Ökomuseum von Seixal",
             "hu": "Seixali Városi Ökomúzeum",
             "ro": "Ecomuzeul Municipal din Seixal",
-            "en": "Municipal Ecomuseum of Seixal"
+            "en": "Municipal Ecomuseum of Seixal",
+            "pt": "Ecomuseu Municipal do Seixal"
           },
           "coords": [
             -9.1028,
@@ -75,7 +78,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebédszünet az óvárosban",
             "ro": "Pauză de prânz în centrul vechi",
-            "en": "Lunch break in the old town"
+            "en": "Lunch break in the old town",
+            "pt": "Pausa para almoço na vila antiga"
           },
           "coords": [
             -9.1033,
@@ -93,7 +97,8 @@
             "de": "Kirche Unserer Lieben Frau von Arrentela",
             "hu": "Nossa Senhora da Arrentela-templom",
             "ro": "Biserica Nossa Senhora da Arrentela",
-            "en": "Church of Our Lady of Arrentela"
+            "en": "Church of Our Lady of Arrentela",
+            "pt": "Igreja de Nossa Senhora da Arrentela"
           },
           "coords": [
             -9.115,
@@ -111,7 +116,8 @@
             "de": "Gezeitenmühle von Corroios",
             "hu": "Corroiosi Árapály-malom",
             "ro": "Moara de Maree din Corroios",
-            "en": "Tide Mill of Corroios"
+            "en": "Tide Mill of Corroios",
+            "pt": "Moinho de Maré de Corroios"
           },
           "coords": [
             -9.1255,
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag im ruhigen Jardim da Praça. Am Vormittag erkunden Sie die malerische Bucht von Seixal und das aufschlussreiche Ökomuseum, das die lokale Geschichte zum Leben erweckt. Nach einem Mittagessen mit frischen Meeresfrüchten führt Sie Ihr Nachmittag zur historischen Kirche von Arrentela. Beenden Sie Ihren Tag an der faszinierenden Gezeitenmühle von Corroios, einem Zeugnis des industriellen Erbes der Region, während die Sonne untergeht.",
         "hu": "Kezdje a napot a békés Jardim da Praça parkban. A délelőtt folyamán fedezze fel a festői Seixal-öblöt és a helyi történelmet bemutató Ökomúzeumot. Egy friss tenger gyümölcseiből álló ebéd után délután látogasson el az arrentelai történelmi templomhoz. Zárja a napot a lenyűgöző Corroios-i Árapály-malomnál, amely a régió ipari örökségének tanúja, miközben a nap lebukik a horizonton.",
         "ro": "Începeți ziua în liniștita Jardim da Praça. Dimineața explorați pitorescul Golf Seixal și Ecomuzeul, care aduce la viață istoria locală. După un prânz cu fructe de mare proaspete, după-amiaza vă duce la biserica istorică din Arrentela. Încheiați ziua la fascinanta Moară de Maree din Corroios, o mărturie a patrimoniului industrial al zonei, în timp ce soarele apune.",
-        "en": "Start your day in the tranquil Jardim da Praça. Your morning explores the scenic Bay of Seixal and the insightful Ecomuseum, which brings local history to life. After a fresh seafood lunch, your afternoon takes you to the historic church in Arrentela. Finish your day at the fascinating Tide Mill of Corroios, a testament to the area's industrial heritage, as the sun sets."
+        "en": "Start your day in the tranquil Jardim da Praça. Your morning explores the scenic Bay of Seixal and the insightful Ecomuseum, which brings local history to life. After a fresh seafood lunch, your afternoon takes you to the historic church in Arrentela. Finish your day at the fascinating Tide Mill of Corroios, a testament to the area's industrial heritage, as the sun sets.",
+        "pt": "Comece o dia no tranquilo Jardim da Praça. A sua manhã explora a cénica Baía do Seixal e o perspicaz Ecomuseu, que traz a história local à vida. Após um almoço de marisco fresco, a sua tarde leva-o à histórica igreja em Arrentela. Termine o dia no fascinante Moinho de Maré de Corroios, um testemunho do património industrial da região, ao pôr do sol."
       },
       "gastro_picks": {
         "de": [
@@ -325,6 +332,12 @@
           "Most attractions are close to each other, but budget extra time for strolls along the bay.",
           "Check the opening hours for the Ecomuseum and the Mill in advance.",
           "Stop at a 'café' for a 'bica' (espresso) and a 'pastel de nata' to refuel."
+        ],
+        "pt": [
+          "Use calçado confortável, pois as ruas empedradas podem ser irregulares.",
+          "A maioria das atrações está próxima uma da outra, mas reserve tempo extra para passeios ao longo da baía.",
+          "Verifique com antecedência os horários de abertura do Ecomuseu e do Moinho.",
+          "Pare num 'café' para uma 'bica' (espresso) e um 'pastel de nata' para recuperar energias."
         ]
       },
       "variants": {
@@ -333,7 +346,8 @@
             "de": "Beginnen Sie den Tag unter dem schützenden Blätterdach des Gartens, während der Regen auf die Bucht von Seixal prasselt. Mittags bietet das Ecomuseum einen perfekten Rückzugsort im Trockenen. Den Nachmittag verbringen wir in der historischen Kirche von Arrentela, bevor wir den Tag bei der Gezeitenmühle ausklingen lassen, wo das Wasser von oben und unten fließt.",
             "hu": "Kezdje a napot az esőáztatta kertben, majd keresse a védelmet a Seixal-öböl ködös partján. Délben az Ecomuseum fedett kiállításai nyújtanak menedéket a záporok elől. Délután az Arrentela templom csendjében pihenhetünk meg, végül a Corroios apálymalom ipari műemléke közt zárjuk a napot, figyelve a sűrű esőcseppeket a vízen.",
             "ro": "Începeți ziua sub copacii din grădină, protejați de ploaia care cade peste golful Seixal. La prânz, Ecomuzeul oferă un refugiu perfect și uscat pentru explorare. După-amiaza este dedicată liniștii din biserica Arrentela, iar ziua se încheie la moara de maree Corroios, unde spectacolul apei este completat de picăturile de ploaie.",
-            "en": "Start the day under the protective canopy of the garden as rain taps on the Bay of Seixal. At noon, the Ecomuseum provides a perfect dry retreat for exploration. Spend the afternoon in the peace of the Arrentela church, before finishing at the Corroios Tide Mill, where the water flows from both the sky and the river."
+            "en": "Start the day under the protective canopy of the garden as rain taps on the Bay of Seixal. At noon, the Ecomuseum provides a perfect dry retreat for exploration. Spend the afternoon in the peace of the Arrentela church, before finishing at the Corroios Tide Mill, where the water flows from both the sky and the river.",
+            "pt": "Comece o dia sob a copa protetora do jardim enquanto a chuva tamborila na Baía do Seixal. Ao meio-dia, o Ecomuseu oferece um perfeito abrigo seco para exploração. Passe a tarde na paz da igreja de Arrentela, antes de terminar no Moinho de Maré de Corroios, onde a água vem tanto do céu como do rio."
           },
           "stops": [
             {
@@ -342,7 +356,8 @@
                 "de": "Nutzen Sie die dichten Bäume als natürlichen Regenschutz.",
                 "hu": "A sűrű lombozat természetes esernyőként funkcionál a kertben.",
                 "ro": "Folosiți copacii deși ca adăpost natural împotriva ploii.",
-                "en": "Use the dense trees as a natural umbrella in the garden."
+                "en": "Use the dense trees as a natural umbrella in the garden.",
+                "pt": "Use as árvores densas como um guarda-chuva natural no jardim."
               }
             },
             {
@@ -351,7 +366,8 @@
                 "de": "Ein Spaziergang am Wasser ist bei Regen besonders stimmungsvoll.",
                 "hu": "Az öböl partja esőben is hangulatos, vigyen vízálló cipőt.",
                 "ro": "O plimbare pe mal este foarte atmosferică pe ploaie.",
-                "en": "A walk by the bay is very atmospheric even in the rain."
+                "en": "A walk by the bay is very atmospheric even in the rain.",
+                "pt": "Uma caminhada pela baía é muito atmosférica mesmo com chuva."
               }
             },
             {
@@ -360,7 +376,8 @@
                 "de": "Ideale Zeit, um die Innenausstellungen ausführlich zu studieren.",
                 "hu": "Tökéletes időpont a benti kiállítások részletes felfedezésére.",
                 "ro": "Momentul ideal pentru a studia expozițiile interioare.",
-                "en": "The ideal time to explore the indoor exhibitions in detail."
+                "en": "The ideal time to explore the indoor exhibitions in detail.",
+                "pt": "O momento ideal para explorar as exposições interiores em detalhe."
               }
             },
             {
@@ -369,7 +386,8 @@
                 "de": "Wählen Sie ein Restaurant mit Blick auf die verregnete Bucht.",
                 "hu": "Válasszon egy öbölre néző éttermet a hangulatos ebédhez.",
                 "ro": "Alegeți un restaurant cu vedere la golful ploios.",
-                "en": "Pick a restaurant with a view of the rainy bay for lunch."
+                "en": "Pick a restaurant with a view of the rainy bay for lunch.",
+                "pt": "Escolha um restaurante com vista para a baía chuvosa para o almoço."
               }
             },
             {
@@ -378,7 +396,8 @@
                 "de": "Ein ruhiger, trockener Ort für Besinnung während des Schauers.",
                 "hu": "Csendes és száraz menedék egy nagyobb zápor idejére.",
                 "ro": "Un loc liniștit și uscat pentru refugiu în timpul ploii.",
-                "en": "A quiet and dry sanctuary during a heavy rain shower."
+                "en": "A quiet and dry sanctuary during a heavy rain shower.",
+                "pt": "Um santuário calmo e seco durante uma chuva forte."
               }
             },
             {
@@ -387,7 +406,8 @@
                 "de": "Die überdachten Bereiche der Mühle halten Sie trocken.",
                 "hu": "A malom fedett részei alatt szárazon maradhat a látogatáskor.",
                 "ro": "Zonele acoperite ale morii vă vor menține uscat.",
-                "en": "The covered sections of the mill will keep you dry."
+                "en": "The covered sections of the mill will keep you dry.",
+                "pt": "As secções cobertas do moinho mantêm-no seco."
               }
             }
           ],
@@ -415,6 +435,12 @@
               "The Ecomuseum is the best place to wait out heavy showers.",
               "A sturdy umbrella is essential due to the wind from the Tagus.",
               "Old town cobblestones can be slippery when wet."
+            ],
+            "pt": [
+              "Use sapatos impermeáveis para os caminhos ao longo da baía.",
+              "O Ecomuseu é o melhor lugar para esperar que as chuvas fortes passem.",
+              "Um guarda-chuva resistente é essencial devido ao vento do Tejo.",
+              "Os calçadaos da vila antiga podem ficar escorregadios quando molhados."
             ]
           }
         },
@@ -423,7 +449,8 @@
             "de": "Genießen Sie die klare Winterluft bei einem morgendlichen Spaziergang durch den Martyrs-Garten. Mittags wärmt uns die Sonne an der Bucht, bevor wir in die Industriegeschichte von Seixal eintauchen. Da die Sonne früh untergeht, beenden wir unseren Besuch bei der Corroios-Mühle im sanften Abendlicht des portugiesischen Winters.",
             "hu": "Élvezze a friss téli levegőt a reggeli séta során a Mártírok terén. Délben a téli napfény melenget az öböl partján, majd Seixal ipari múltját fedezzük fel az Ecomuseumban. Mivel korán sötétedik, a Corroios malomnál már az alkonyat fényeiben gyönyörködhetünk a nap végén.",
             "ro": "Bucurați-vă de aerul proaspăt de iarnă în timpul plimbării prin grădina Martirilor. La prânz, soarele blând vă încălzește pe malul golfului, înainte de a vizita Ecomuzeul. Deoarece soarele apune devreme, încheiem vizita la moara Corroios sub lumina caldă a amurgului.",
-            "en": "Enjoy the crisp winter air during a morning stroll through the Martyrs' Garden. At noon, the gentle sun warms the bay area before we dive into Seixal's industrial history. As the sun sets early, we finish our visit at the Corroios mill under the soft evening light of the Portuguese winter."
+            "en": "Enjoy the crisp winter air during a morning stroll through the Martyrs' Garden. At noon, the gentle sun warms the bay area before we dive into Seixal's industrial history. As the sun sets early, we finish our visit at the Corroios mill under the soft evening light of the Portuguese winter.",
+            "pt": "Desfrute do ar fresco de inverno durante um passeio matinal pelo Jardim dos Mártires. Ao meio-dia, o sol brando aquece a área da baía antes de mergulharmos na história industrial do Seixal. Como o sol se põe cedo, terminamos a visita no moinho de Corroios sob a suave luz vespertina do inverno português."
           },
           "stops": [
             {
@@ -432,7 +459,8 @@
                 "de": "Die Wintersonne blitzt hier morgens schön durch die Zweige.",
                 "hu": "A téli reggeli napsütés szépen szűrődik át az ágak között.",
                 "ro": "Soarele de iarnă strălucește frumos printre ramuri dimineața.",
-                "en": "The winter sun filters beautifully through the branches in the morning."
+                "en": "The winter sun filters beautifully through the branches in the morning.",
+                "pt": "O sol de inverno filtra-se lindamente através dos ramos pela manhã."
               }
             },
             {
@@ -441,7 +469,8 @@
                 "de": "Ziehen Sie sich warm an, der Wind vom Fluss ist im Winter kühl.",
                 "hu": "Öltözzön rétegesen, a folyó felőli szél télen metsző lehet.",
                 "ro": "Îmbrăcați-vă bine, vântul de pe râu este rece iarna.",
-                "en": "Dress warmly as the wind from the river is chilly in winter."
+                "en": "Dress warmly as the wind from the river is chilly in winter.",
+                "pt": "Vista-se quentamente pois o vento do rio é frio no inverno."
               }
             },
             {
@@ -450,7 +479,8 @@
                 "de": "Ein angenehm temperierter Ort für die Mittagsstunden.",
                 "hu": "Kellemes hőmérsékletű menedék a déli órákra.",
                 "ro": "Un loc cu temperatură plăcută pentru orele amiezii.",
-                "en": "A pleasantly tempered place for the midday hours."
+                "en": "A pleasantly tempered place for the midday hours.",
+                "pt": "Um lugar agradavelmente temperado para as horas de meio-dia."
               }
             },
             {
@@ -459,7 +489,8 @@
                 "de": "Fragen Sie nach einer herzhaften Caldeirada zum Aufwärmen.",
                 "hu": "Kóstoljon meg egy forró Caldeirada hallevest a melegedéshez.",
                 "ro": "Cereți o supă caldă de pește pentru a vă încălzi.",
-                "en": "Order a hearty fish stew to warm up during lunch."
+                "en": "Order a hearty fish stew to warm up during lunch.",
+                "pt": "Peça um ensopado de peixe reconfortante para aquecer durante o almoço."
               }
             },
             {
@@ -468,7 +499,8 @@
                 "de": "Die Azulejos wirken im weichen Winterlicht besonders edel.",
                 "hu": "Az azulejo csempék különlegesen mutatnak a lágy téli fényben.",
                 "ro": "Plăcile azulejos arată deosebit în lumina slabă a iernii.",
-                "en": "The azulejo tiles look particularly elegant in the soft winter light."
+                "en": "The azulejo tiles look particularly elegant in the soft winter light.",
+                "pt": "Os azulejos ganham um aspeto particularmente elegante na suave luz de inverno."
               }
             },
             {
@@ -477,7 +509,8 @@
                 "de": "Achten Sie auf den Sonnenuntergang gegen 17:15 Uhr.",
                 "hu": "Ügyeljen a korai, 17:15 körüli naplementére.",
                 "ro": "Atenție la apusul soarelui, care are loc în jurul orei 17:15.",
-                "en": "Watch for the early sunset around 5:15 PM."
+                "en": "Watch for the early sunset around 5:15 PM.",
+                "pt": "ATENÇÃO ao pôr do sol cedo por volta das 17:15."
               }
             }
           ],
@@ -505,6 +538,12 @@
               "Old town cafes are cozy retreats during the winter months.",
               "The bay wind can significantly lower the perceived temperature.",
               "Schedule museum visits for the cooler late afternoon."
+            ],
+            "pt": [
+              "Aproveite ao máximo as horas de luz entre as 10:00 e as 15:00.",
+              "Os cafés da vila antiga são refúgios acolhedores durante os meses de inverno.",
+              "O vento da baía pode reduzir significativamente a sensação térmica.",
+              "Agende as visitas ao museu para o final da tarde mais fresco."
             ]
           }
         }
@@ -523,7 +562,8 @@
             "de": "Bucht von Seixal",
             "hu": "Seixal-öböl",
             "ro": "Golful Seixal",
-            "en": "Bay of Seixal"
+            "en": "Bay of Seixal",
+            "pt": "Baía do Seixal"
           },
           "coords": [
             -9.1055,
@@ -541,7 +581,8 @@
             "de": "Mundet Korkfabrik",
             "hu": "Mundet Parafa-gyár",
             "ro": "Fabrica de Plută Mundet",
-            "en": "Mundet Cork Factory"
+            "en": "Mundet Cork Factory",
+            "pt": "Fábrica de Cortiça Mundet"
           },
           "coords": [
             -9.1,
@@ -559,7 +600,8 @@
             "de": "Gezeitenmühle von Corroios",
             "hu": "Corroiosi Árapály-malom",
             "ro": "Moara de Maree din Corroios",
-            "en": "Tide Mill of Corroios"
+            "en": "Tide Mill of Corroios",
+            "pt": "Moinho de Maré de Corroios"
           },
           "coords": [
             -9.1255,
@@ -577,7 +619,8 @@
             "de": "Mittagessen in Arrentela",
             "hu": "Ebéd Arrentelában",
             "ro": "Prânz în Arrentela",
-            "en": "Lunch in Arrentela"
+            "en": "Lunch in Arrentela",
+            "pt": "Almoço em Arrentela"
           },
           "coords": [
             -9.1165,
@@ -595,7 +638,8 @@
             "de": "Kirche Unserer Lieben Frau von Arrentela",
             "hu": "Nossa Senhora da Arrentela-templom",
             "ro": "Biserica Nossa Senhora da Arrentela",
-            "en": "Church of Our Lady of Arrentela"
+            "en": "Church of Our Lady of Arrentela",
+            "pt": "Igreja de Nossa Senhora da Arrentela"
           },
           "coords": [
             -9.115,
@@ -613,7 +657,8 @@
             "de": "Quinta da Fidalga",
             "hu": "Quinta da Fidalga",
             "ro": "Quinta da Fidalga",
-            "en": "Quinta da Fidalga"
+            "en": "Quinta da Fidalga",
+            "pt": "Quinta da Fidalga"
           },
           "coords": [
             -9.098,
@@ -631,7 +676,8 @@
         "de": "Starten Sie Ihre Radtour an der Bucht von Seixal und fahren Sie zum industriellen Herzen der Stadt, der Mundet Korkfabrik. Am Vormittag erreichen Sie die beeindruckende Gezeitenmühle von Corroios. Nach dem Mittagessen in Arrentela besichtigen Sie die nahegelegene Kirche. Der Nachmittag endet mit einer entspannten Fahrt zur eleganten Quinta da Fidalga, wo Sie die Gärten und die Architektur bewundern können.",
         "hu": "Kezdje a kerékpártúrát a Seixal-öböltől, majd tekerjen a város ipari szívéhez, a Mundet Parafa-gyárhoz. Délelőtt érje el a lenyűgöző Corroios-i Árapály-malmot. Ebéd után Arrentelában nézze meg a közeli templomot. A délután egy kellemes tekeréssel zárul az elegáns Quinta da Fidalgához, ahol megcsodálhatja a kerteket és az építészetet.",
         "ro": "Începeți turul cu bicicleta din Golful Seixal, pedalând spre inima industrială a orașului, Fabrica de Plută Mundet. Dimineața ajungeți la impresionanta Moară de Maree din Corroios. După prânz în Arrentela, vizitați biserica din apropiere. După-amiaza se încheie cu o plimbare relaxantă către eleganta Quinta da Fidalga, unde puteți admira grădinile și arhitectura.",
-        "en": "Start your bike tour from the Bay of Seixal, cycling towards the industrial heart of the city, the Mundet Cork Factory. Your morning reaches the impressive Tide Mill of Corroios. After lunch in Arrentela, visit the nearby church. The afternoon concludes with a pleasant ride to the elegant Quinta da Fidalga, where you can admire the gardens and architecture."
+        "en": "Start your bike tour from the Bay of Seixal, cycling towards the industrial heart of the city, the Mundet Cork Factory. Your morning reaches the impressive Tide Mill of Corroios. After lunch in Arrentela, visit the nearby church. The afternoon concludes with a pleasant ride to the elegant Quinta da Fidalga, where you can admire the gardens and architecture.",
+        "pt": "Comece o seu passeio de bicicleta a partir da Baía do Seixal, pedalando em direção ao coração industrial da cidade, a Fábrica de Cortiça Mundet. A sua manhã chega ao impressionante Moinho de Maré de Corroios. Após o almoço em Arrentela, visite a igreja nas proximidades. A tarde termina com um agradável passeio até à elegante Quinta da Fidalga, onde pode admirar os jardins e a arquitetura."
       },
       "gastro_picks": {
         "de": [
@@ -827,6 +873,12 @@
           "The bike paths along the bay are flat and suitable for all levels.",
           "Always lock your bike securely at stops.",
           "Carry water and snacks, especially for the longer stretches between districts."
+        ],
+        "pt": [
+          "Alugue uma bicicleta perto do terminal do ferry ou traga a sua própria.",
+          "Os percursos cicláveis ao longo da baía são planos e adequados a todos os níveis.",
+          "Tranque sempre a sua bicicleta com segurança nas paragens.",
+          "Leve água e petiscos, especialmente para os troços mais longos entre os bairros."
         ]
       },
       "variants": {
@@ -835,7 +887,8 @@
             "de": "Eine Radtour bei Regen erfordert in Seixal Vorsicht auf den Holzstegen der Bucht. Nach dem Besuch der Mundet-Fabrik radeln wir zur Corroios-Mühle, wo das prasselnde Wasser für eine einzigartige Kulisse sorgt. Ein langes Mittagessen in Arrentela hilft, die nassesten Stunden zu überbrücken, bevor wir die historische Quinta besuchen.",
             "hu": "Az esős biciklizés Seixalban óvatosságot igényel, főleg az öböl menti fapallókon. A Mundet gyár után a Corroios malom felé tekerünk, ahol az eső kopogása különleges hangulatot ad. Egy hosszú ebéd Arrentelában segít átvészelni a legvizesebb órákat a délutáni kastélylátogatás előtt.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe podurile de lemn din golf. După fabrica Mundet, pedalăm spre moara Corroios, unde ploaia creează un decor unic. Un prânz lung în Arrentela ajută la evitarea celor mai umede ore înainte de a vizita conacul istoric.",
-            "en": "Cycling in the rain in Seixal requires caution, especially on the wooden walkways. After the Mundet factory, we pedal to the Corroios mill, where the patter of rain adds a unique atmosphere. A long lunch in Arrentela helps bridge the wettest hours before visiting the historic estate."
+            "en": "Cycling in the rain in Seixal requires caution, especially on the wooden walkways. After the Mundet factory, we pedal to the Corroios mill, where the patter of rain adds a unique atmosphere. A long lunch in Arrentela helps bridge the wettest hours before visiting the historic estate.",
+            "pt": "Ciclismo na chuva em Seixal exige cautela, especialmente nas passadeiras de madeira. Após a fábrica Mundet, pedalamos até ao moinho de Corroios, onde o tamborilar da chuva acrescenta uma atmosfera única. Um longo almoço em Arrentela ajuda a passar as horas mais molhadas antes de visitar a quinta histórica."
           },
           "stops": [
             {
@@ -844,7 +897,8 @@
                 "de": "Vorsicht auf den Holzstegen, diese werden bei Regen extrem rutschig.",
                 "hu": "Vigyázzon a fapallókon, esőben rendkívül csúszóssá válnak.",
                 "ro": "Atenție pe podurile de lemn, devin extrem de alunecoase pe ploaie.",
-                "en": "Be careful on the wooden walkways; they become extremely slippery in the rain."
+                "en": "Be careful on the wooden walkways; they become extremely slippery in the rain.",
+                "pt": "Tenha cuidado nas passadeiras de madeira; tornam-se extremamente escorregadias na chuva."
               }
             },
             {
@@ -853,7 +907,8 @@
                 "de": "Nutzen Sie die Werksgebäude als Schutz vor vorbeiziehenden Schauern.",
                 "hu": "Használja a gyárépületeket menedékként az átvonuló záporok alatt.",
                 "ro": "Folosiți clădirile fabricii ca adăpost împotriva averselor.",
-                "en": "Use the factory buildings as shelter during passing showers."
+                "en": "Use the factory buildings as shelter during passing showers.",
+                "pt": "Use os edifícios da fábrica como abrigo durante aguaceiros passageiros."
               }
             },
             {
@@ -862,7 +917,8 @@
                 "de": "Parken Sie Ihr Rad im überdachten Eingangsbereich.",
                 "hu": "Parkolja le a kerékpárt a fedett bejárati részen.",
                 "ro": "Parcați bicicleta în zona de intrare acoperită.",
-                "en": "Park your bike in the covered entrance area."
+                "en": "Park your bike in the covered entrance area.",
+                "pt": "Estacione a sua bicicleta na zona de entrada coberta."
               }
             },
             {
@@ -871,7 +927,8 @@
                 "de": "Suchen Sie ein Lokal mit Fahrradabstellplatz in Sichtweite.",
                 "hu": "Keressen olyan helyet, ahol rálát a lelakatolt biciklire.",
                 "ro": "Căutați un local unde puteți supraveghea bicicleta parcată.",
-                "en": "Find a place where you can keep an eye on your bike."
+                "en": "Find a place where you can keep an eye on your bike.",
+                "pt": "Encontre um local onde possa manter a bicicleta à vista."
               }
             },
             {
@@ -880,7 +937,8 @@
                 "de": "Kurze Pause im Trockenen, bevor es zur Quinta weitergeht.",
                 "hu": "Rövid pihenő fedett helyen, mielőtt továbbtekerne a kastélyhoz.",
                 "ro": "Scurtă pauză la uscat înainte de a continua spre conac.",
-                "en": "A short break in the dry before continuing to the estate."
+                "en": "A short break in the dry before continuing to the estate.",
+                "pt": "Uma breve pausa na secura antes de continuar para a quinta."
               }
             },
             {
@@ -889,7 +947,8 @@
                 "de": "Die Gartenwege können bei Regen etwas schlammig sein.",
                 "hu": "A kert ösvényei esőben kissé sarasak lehetnek.",
                 "ro": "Potecile din grădină pot fi noroioase din cauza ploii.",
-                "en": "The garden paths can get a bit muddy in the rain."
+                "en": "The garden paths can get a bit muddy in the rain.",
+                "pt": "Os caminhos do jardim podem ficar um pouco enlameados na chuva."
               }
             }
           ],
@@ -917,6 +976,12 @@
               "Fully waterproof panniers are essential for this trip.",
               "Check tire grip on the wooden walkways along the bay.",
               "Reflective clothing improves visibility during grey weather."
+            ],
+            "pt": [
+              "Evite travagens bruscas nos paralelepípedos molhados.",
+              "Alforges totalmente impermeáveis são essenciais para esta viagem.",
+              "Verifique a aderência dos pneus nas passadeiras de madeira ao longo da baía.",
+              "Roupa refletora melhora a visibilidade em tempo cinzento."
             ]
           }
         },
@@ -925,7 +990,8 @@
             "de": "Die Radtour im Winter bietet freie Sicht auf den Tejo ohne die Sommerhitze. Wir starten an der kühlen Bucht und wärmen uns in der Mundet-Fabrik auf. Der Weg zur Corroios-Mühle ist im Winterlicht besonders fotogen. Nach dem Mittagessen nutzen wir die letzten Sonnenstrahlen für den Besuch der Quinta da Fidalga.",
             "hu": "A téli biciklitúra tiszta kilátást nyújt a Tejóra a nyári hőség nélkül. A hűvös öbölparton kezdünk, majd a Mundet gyárban melegszünk fel. A Corroios malom felé vezető út nagyon fotogén a téli fényekben. Ebéd után az utolsó napsugarakat a Quinta da Fidalga kertjében használjuk ki.",
             "ro": "Tura cu bicicleta iarna oferă o vedere clară asupra Tejo, fără căldura verii. Începem pe malul răcoros al golfului și ne încălzim la fabrica Mundet. Drumul spre moara Corroios este foarte fotogen în lumina iernii. După prânz, profităm de ultimele raze de soare la Quinta da Fidalga.",
-            "en": "Cycling in winter offers clear views of the Tagus without the summer heat. We start at the cool bay and warm up inside the Mundet factory. The path to the Corroios mill is especially photogenic in the winter light. After lunch, we catch the last rays of sun at the Quinta da Fidalga."
+            "en": "Cycling in winter offers clear views of the Tagus without the summer heat. We start at the cool bay and warm up inside the Mundet factory. The path to the Corroios mill is especially photogenic in the winter light. After lunch, we catch the last rays of sun at the Quinta da Fidalga.",
+            "pt": "Andar de bicicleta no inverno oferece vistas limpas do Tejo sem o calor do verão. Começamos na baía fresca e aquecemo-nos dentro da fábrica Mundet. O caminho até o moinho de Corroios é especialmente fotogénico na luz de inverno. Depois do almoço, apanhamos os últimos raios de sol na Quinta da Fidalga."
           },
           "stops": [
             {
@@ -934,7 +1000,8 @@
                 "de": "Tragen Sie winddichte Handschuhe für die Fahrt am Ufer.",
                 "hu": "Viseljen szélálló kesztyűt a parti tekeréshez.",
                 "ro": "Purtați mănuși rezistente la vânt pentru plimbarea pe mal.",
-                "en": "Wear windproof gloves for the ride along the shore."
+                "en": "Wear windproof gloves for the ride along the shore.",
+                "pt": "Use luvas corta-vento para o passeio ao longo da margem."
               }
             },
             {
@@ -943,7 +1010,8 @@
                 "de": "Ein guter Stopp, um die kalten Hände aufzuwärmen.",
                 "hu": "Kiváló megálló a kihűlt kezek felmelegítésére.",
                 "ro": "Un popas bun pentru a vă încălzi mâinile reci.",
-                "en": "A good stop to warm up cold hands."
+                "en": "A good stop to warm up cold hands.",
+                "pt": "Uma boa paragem para aquecer mãos frias."
               }
             },
             {
@@ -952,7 +1020,8 @@
                 "de": "Das tiefstehende Licht sorgt für tolle Fotos der Mühle.",
                 "hu": "Az alacsonyan járó nap remek fotótémát kínál a malomnál.",
                 "ro": "Lumina joasă oferă oportunități excelente pentru fotografii la moară.",
-                "en": "The low winter light provides great photo opportunities at the mill."
+                "en": "The low winter light provides great photo opportunities at the mill.",
+                "pt": "A luz baixa de inverno oferece ótimas oportunidades fotográficas no moinho."
               }
             },
             {
@@ -961,7 +1030,8 @@
                 "de": "Setzen Sie sich für zusätzliche Wärme in die Nähe des Fensters.",
                 "hu": "Üljön az ablak közelébe a természetes fény és meleg miatt.",
                 "ro": "Așezați-vă lângă fereastră pentru un plus de căldură.",
-                "en": "Sit near the window for extra warmth and light."
+                "en": "Sit near the window for extra warmth and light.",
+                "pt": "Sente-se perto da janela para mais calor e luz."
               }
             },
             {
@@ -970,7 +1040,8 @@
                 "de": "Im Inneren ist es im Winter oft kühler als draußen.",
                 "hu": "Bent télen gyakran hűvösebb van, mint a napsütésben.",
                 "ro": "În interior este adesea mai răcoare decât afară în soare.",
-                "en": "It's often cooler inside the church than outside in the sun."
+                "en": "It's often cooler inside the church than outside in the sun.",
+                "pt": "Costuma estar mais fresco dentro da igreja do que fora ao sol."
               }
             },
             {
@@ -979,7 +1050,8 @@
                 "de": "Besuchen Sie die Gärten vor 16:30 Uhr, bevor es schattig wird.",
                 "hu": "Látogassa meg a kertet 16:30 előtt, mielőtt árnyékba borulna.",
                 "ro": "Vizitați grădinile înainte de 16:30, înainte de a se lăsa umbra.",
-                "en": "Visit the gardens before 4:30 PM before it gets shady."
+                "en": "Visit the gardens before 4:30 PM before it gets shady.",
+                "pt": "Visite os jardins antes das 16:30, antes de ficarem sombreados."
               }
             }
           ],
@@ -1007,6 +1079,12 @@
               "The sun sets early; plan to finish by 5 PM.",
               "Check tire pressure; it drops slightly in cold weather.",
               "A thermos of hot tea is a great companion for the ride."
+            ],
+            "pt": [
+              "Vestir em camadas ajuda contra a aragem fria.",
+              "O sol põe-se cedo; planeie terminar até às 17:00.",
+              "Verifique a pressão dos pneus; diminui um pouco no tempo frio.",
+              "Um termo de chá quente é um ótimo companheiro para o passeio."
             ]
           }
         }
@@ -1025,7 +1103,8 @@
             "de": "Parkplatz bei Corroios",
             "hu": "Parkolás Corroios közelében",
             "ro": "Parcare lângă Corroios",
-            "en": "Parking near Corroios"
+            "en": "Parking near Corroios",
+            "pt": "Estacionamento perto de Corroios"
           },
           "coords": [
             -9.1265,
@@ -1043,7 +1122,8 @@
             "de": "Gezeitenmühle von Corroios",
             "hu": "Corroiosi Árapály-malom",
             "ro": "Moara de Maree din Corroios",
-            "en": "Tide Mill of Corroios"
+            "en": "Tide Mill of Corroios",
+            "pt": "Moinho de Maré de Corroios"
           },
           "coords": [
             -9.1255,
@@ -1061,7 +1141,8 @@
             "de": "Kirche Unserer Lieben Frau von Arrentela",
             "hu": "Nossa Senhora da Arrentela-templom",
             "ro": "Biserica Nossa Senhora da Arrentela",
-            "en": "Church of Our Lady of Arrentela"
+            "en": "Church of Our Lady of Arrentela",
+            "pt": "Igreja de Nossa Senhora da Arrentela"
           },
           "coords": [
             -9.115,
@@ -1079,7 +1160,8 @@
             "de": "Parkplatz im Zentrum von Seixal",
             "hu": "Parkolás Seixal központjában",
             "ro": "Parcare în centrul Seixal",
-            "en": "Parking in Seixal Center"
+            "en": "Parking in Seixal Center",
+            "pt": "Estacionamento no Centro de Seixal"
           },
           "coords": [
             -9.104,
@@ -1097,7 +1179,8 @@
             "de": "Städtisches Ökomuseum von Seixal",
             "hu": "Seixali Városi Ökomúzeum",
             "ro": "Ecomuzeul Municipal din Seixal",
-            "en": "Municipal Ecomuseum of Seixal"
+            "en": "Municipal Ecomuseum of Seixal",
+            "pt": "Ecomuseu Municipal do Seixal"
           },
           "coords": [
             -9.1028,
@@ -1115,7 +1198,8 @@
             "de": "Mittagessen an der Bucht",
             "hu": "Ebéd az öbölnél",
             "ro": "Prânz în golf",
-            "en": "Lunch by the Bay"
+            "en": "Lunch by the Bay",
+            "pt": "Almoço junto à Baía"
           },
           "coords": [
             -9.105,
@@ -1133,7 +1217,8 @@
             "de": "Quinta da Fidalga",
             "hu": "Quinta da Fidalga",
             "ro": "Quinta da Fidalga",
-            "en": "Quinta da Fidalga"
+            "en": "Quinta da Fidalga",
+            "pt": "Quinta da Fidalga"
           },
           "coords": [
             -9.098,
@@ -1151,7 +1236,8 @@
         "de": "Fahren Sie zum ersten Cluster in Corroios, parken Sie und erkunden Sie zu Fuß die Gezeitenmühle und die nahegelegene Kirche von Arrentela. Am Vormittag fahren Sie ins Zentrum von Seixal, parken erneut und besuchen das Ökomuseum. Nach dem Mittagessen mit Blick auf die Bucht bringt Sie eine kurze Fahrt zur eleganten Quinta da Fidalga, wo Sie den Nachmittag mit der Erkundung des Anwesens verbringen, bevor Sie Ihren Tag beenden.",
         "hu": "Vezessen az első csoporthoz Corroiosba, parkoljon le, és gyalog fedezze fel az árapály-malmot és a közeli arrentelai templomot. Délelőtt vezessen Seixal központjába, parkoljon le újra, és látogassa meg az Ökomúzeumot. Az öbölre néző ebéd után egy rövid autóút visz az elegáns Quinta da Fidalgához, ahol a birtok felfedezésével tölti a délutánt, mielőtt befejezi a napot.",
         "ro": "Conduceți la primul grup de atracții din Corroios, parcați și explorați pe jos Moara de Maree și biserica din apropiere, din Arrentela. Dimineața, conduceți spre centrul Seixalului, parcați din nou și vizitați Ecomuzeul. După prânzul cu vedere la golf, o scurtă călătorie cu mașina vă duce la eleganta Quinta da Fidalga, unde vă petreceți după-amiaza explorând proprietatea înainte de a încheia ziua.",
-        "en": "Drive to the first cluster in Corroios, park, and explore the Tide Mill and the nearby church of Arrentela on foot. Your morning continues with a drive to Seixal's center; park again and visit the Ecomuseum. After lunch overlooking the bay, a final short drive takes you to the elegant Quinta da Fidalga, where you'll spend the afternoon exploring the estate before concluding your day."
+        "en": "Drive to the first cluster in Corroios, park, and explore the Tide Mill and the nearby church of Arrentela on foot. Your morning continues with a drive to Seixal's center; park again and visit the Ecomuseum. After lunch overlooking the bay, a final short drive takes you to the elegant Quinta da Fidalga, where you'll spend the afternoon exploring the estate before concluding your day.",
+        "pt": "Conduza até o primeiro conjunto em Corroios, estacione e explore a Moinho de Maré e a igreja de Arrentela nas imediações a pé. A sua manhã continua com uma viagem de carro até ao centro do Seixal; estacione novamente e visite o Ecomuseu. Depois do almoço com vista para a baía, uma última curta viagem leva-o à elegante Quinta da Fidalga, onde passará a tarde a explorar a quinta antes de concluir o dia."
       },
       "gastro_picks": {
         "de": [
@@ -1347,6 +1433,12 @@
           "The cluster-walking method is ideal for minimizing parking hassles.",
           "Plan your route in advance to avoid one-way streets.",
           "Note that driving from Lisbon involves a toll on the 25 de Abril Bridge."
+        ],
+        "pt": [
+          "Estacionar pode ser difícil no centro; use parques de estacionamento designados.",
+          "O método de caminhar por grupos é ideal para minimizar problemas de estacionamento.",
+          "Planeie a sua rota com antecedência para evitar ruas de sentido único.",
+          "Note que conduzir de Lisboa implica portagem na Ponte 25 de Abril."
         ]
       },
       "variants": {
@@ -1355,7 +1447,8 @@
             "de": "Mit dem Auto erkunden wir Seixal bei Regen ganz entspannt. Wir parken direkt bei der Corroios-Mühle und der Arrentela-Kirche, um die Wege im Freien zu minimieren. Das Ecomuseum und ein gemütliches Mittagessen am Ufer füllen den Nachmittag, bevor wir die Quinta da Fidalga besuchen, wo wir fast bis vor die Tür fahren können.",
             "hu": "Autóval kényelmesen fedezhetjük fel Seixalt esős időben is. Közvetlenül a Corroios malom és az Arrentela templom mellett parkolunk, hogy minimalizáljuk a kinti sétát. Az Ecomuseum és egy kellemes parti ebéd kitölti a délutánt, végül a Quinta da Fidalga kastélyához hajtunk, ahol szinte az ajtóig mehetünk.",
             "ro": "Cu mașina explorăm Seixal relaxat chiar și pe ploaie. Parcăm direct lângă moara Corroios și biserica Arrentela pentru a minimiza mersul prin ploaie. Ecomuzeul și un prânz plăcut pe mal umplu după-amiaza, înainte de a vizita Quinta da Fidalga.",
-            "en": "Exploring Seixal by car in the rain is very relaxed. We park right by the Corroios mill and Arrentela church to minimize walking outside. The Ecomuseum and a cozy lunch by the shore fill the afternoon before visiting Quinta da Fidalga, where we can drive almost to the door."
+            "en": "Exploring Seixal by car in the rain is very relaxed. We park right by the Corroios mill and Arrentela church to minimize walking outside. The Ecomuseum and a cozy lunch by the shore fill the afternoon before visiting Quinta da Fidalga, where we can drive almost to the door.",
+            "pt": "Explorar o Seixal de carro na chuva é muito relaxado. Estacionamos mesmo junto ao moinho de Corroios e à igreja da Arrentela para minimizar as caminhadas ao ar livre. O Ecomuseu e um almoço acolhedor junto à margem preenchem a tarde antes de visitar a Quinta da Fidalga, onde podemos conduzir quase até à porta."
           },
           "stops": [
             {
@@ -1364,7 +1457,8 @@
                 "de": "Wählen Sie einen Platz nahe am Ausgang, um nicht nass zu werden.",
                 "hu": "Válasszon kijárathoz közeli helyet, hogy ne ázzon el.",
                 "ro": "Alegeți un loc aproape de ieșire pentru a nu vă uda.",
-                "en": "Choose a spot near the exit to avoid getting wet."
+                "en": "Choose a spot near the exit to avoid getting wet.",
+                "pt": "Escolha um lugar perto da saída para evitar molhar-se."
               }
             },
             {
@@ -1373,7 +1467,8 @@
                 "de": "Lassen Sie den Schirm im Auto, wenn Sie direkt davor parken.",
                 "hu": "Hagyja az esernyőt a kocsiban, ha közvetlenül elé parkol.",
                 "ro": "Lăsați umbrela în mașină dacă parcați direct în față.",
-                "en": "Leave the umbrella in the car if you park directly in front."
+                "en": "Leave the umbrella in the car if you park directly in front.",
+                "pt": "Deixe o guarda-chuva no carro se estacionar mesmo em frente."
               }
             },
             {
@@ -1382,7 +1477,8 @@
                 "de": "Die Parkplätze direkt an der Kirche sind bei Regen begehrt.",
                 "hu": "A templom melletti parkolók esőben hamar betelnek.",
                 "ro": "Locurile de parcare de lângă biserică sunt căutate pe ploaie.",
-                "en": "Parking spots right by the church are popular when it rains."
+                "en": "Parking spots right by the church are popular when it rains.",
+                "pt": "Os lugares de estacionamento mesmo junto à igreja são populares quando chove."
               }
             },
             {
@@ -1391,7 +1487,8 @@
                 "de": "Ein überdachtes Parkhaus wäre für den Stadtbummel ideal.",
                 "hu": "Egy fedett parkolóház ideális lenne a városi sétához.",
                 "ro": "O parcare acoperită ar fi ideală pentru plimbarea prin oraș.",
-                "en": "A covered parking garage would be ideal for a stroll in town."
+                "en": "A covered parking garage would be ideal for a stroll in town.",
+                "pt": "Uma garagem coberta seria ideal para um passeio na vila."
               }
             },
             {
@@ -1400,7 +1497,8 @@
                 "de": "Vom Parkplatz sind es nur wenige Schritte ins Trockene.",
                 "hu": "A parkolótól csak pár lépés a száraz múzeumi belső.",
                 "ro": "De la parcare sunt doar câțiva pași până la interiorul uscat.",
-                "en": "It's only a few steps from the parking lot to the dry interior."
+                "en": "It's only a few steps from the parking lot to the dry interior.",
+                "pt": "São apenas alguns passos do parque de estacionamento até ao interior seco."
               }
             },
             {
@@ -1409,7 +1507,8 @@
                 "de": "Nutzen Sie Park-Apps, um die Zeit im Regen am Automaten zu sparen.",
                 "hu": "Használjon parkolási appot, hogy ne kelljen az esőben automatázni.",
                 "ro": "Folosiți aplicații de parcare pentru a nu sta în ploaie la automat.",
-                "en": "Use parking apps to avoid standing in the rain at the machine."
+                "en": "Use parking apps to avoid standing in the rain at the machine.",
+                "pt": "Use aplicações de estacionamento para evitar ficar de pé na chuva junto ao parquímetro."
               }
             },
             {
@@ -1418,7 +1517,8 @@
                 "de": "Fahren Sie bis zum Haupteingang, um Passagiere abzusetzen.",
                 "hu": "Hajtson a főbejáratig az utasok kiszállásához.",
                 "ro": "Mergeți până la intrarea principală pentru a lăsa pasagerii.",
-                "en": "Drive to the main entrance to drop off passengers."
+                "en": "Drive to the main entrance to drop off passengers.",
+                "pt": "Conduza até à entrada principal para deixar passageiros."
               }
             }
           ],
@@ -1446,6 +1546,12 @@
               "Visibility can be limited during heavy rain by the bay.",
               "Take advantage of parking lots directly next to the sights.",
               "Keep a towel in the car in case you get wet."
+            ],
+            "pt": [
+              "Cuidado com poças nas ruas mais baixas junto à margem.",
+              "A visibilidade pode ficar limitada durante chuva forte na baía.",
+              "Aproveite os parques de estacionamento diretamente ao lado dos pontos de interesse.",
+              "Mantenha uma toalha no carro caso se molhe."
             ]
           }
         },
@@ -1454,7 +1560,8 @@
             "de": "Im Winter ist Seixal mit dem Auto besonders bequem zu bereisen. Die Parkplatzsuche an der kühlen Bucht ist einfacher als im Sommer. Nach dem Besuch der geschichtsträchtigen Mühlen und Kirchen genießen wir ein warmes Mittagessen, bevor wir die Quinta da Fidalga im goldenen Licht des frühen Winternachmittags erkunden.",
             "hu": "Télen Seixal autóval különösen kényelmesen bejárható. Az öböl mentén ilyenkor könnyebb parkolót találni, mint nyáron. A történelmi malmok és templomok után egy meleg ebéd vár ránk, majd a Quinta da Fidalga kertjét fedezzük fel a kora délutáni arany fényekben.",
             "ro": "Iarna, Seixal este deosebit de confortabil de vizitat cu mașina. Găsirea unui loc de parcare lângă golf este mai ușoară decât vara. După morile și bisericile istorice, ne bucurăm de un prânz cald, apoi explorăm Quinta da Fidalga în lumina aurie.",
-            "en": "Seixal is particularly comfortable to visit by car in winter. Finding parking along the cool bay is much easier than in summer. After visiting the historic mills and churches, we enjoy a warm lunch before exploring Quinta da Fidalga in the golden early afternoon light."
+            "en": "Seixal is particularly comfortable to visit by car in winter. Finding parking along the cool bay is much easier than in summer. After visiting the historic mills and churches, we enjoy a warm lunch before exploring Quinta da Fidalga in the golden early afternoon light.",
+            "pt": "O Seixal é particularmente confortável de visitar de carro no inverno. Encontrar estacionamento ao longo da baía fresca é muito mais fácil do que no verão. Depois de visitar os moinhos e igrejas históricas, desfrutamos de um almoço quente antes de explorar a Quinta da Fidalga na dourada luz do início da tarde."
           },
           "stops": [
             {
@@ -1463,7 +1570,8 @@
                 "de": "Im Winter gibt es hier meist freie Plätze in der Sonne.",
                 "hu": "Télen itt általában bőven van szabad hely a napon.",
                 "ro": "Iarna există de obicei multe locuri libere la soare aici.",
-                "en": "In winter, there are usually plenty of free spots in the sun here."
+                "en": "In winter, there are usually plenty of free spots in the sun here.",
+                "pt": "No inverno, geralmente há muitos lugares livres ao sol aqui."
               }
             },
             {
@@ -1472,7 +1580,8 @@
                 "de": "Ein kurzer Weg vom warmen Auto in die historische Mühle.",
                 "hu": "Rövid séta a meleg autóból a történelmi malomba.",
                 "ro": "O scurtă plimbare de la mașina caldă la moara istorică.",
-                "en": "A short walk from the warm car into the historic mill."
+                "en": "A short walk from the warm car into the historic mill.",
+                "pt": "Uma curta caminhada do carro quente até ao moinho histórico."
               }
             },
             {
@@ -1481,7 +1590,8 @@
                 "de": "Parken Sie so, dass Sie die Wintersonne im Auto nutzen können.",
                 "hu": "Úgy parkoljon, hogy a téli nap süsse az autót, amíg bent van.",
                 "ro": "Parcați astfel încât soarele de iarnă să încălzească mașina.",
-                "en": "Park so that the winter sun can warm the car while you're inside."
+                "en": "Park so that the winter sun can warm the car while you're inside.",
+                "pt": "Estacione de modo a que o sol de inverno possa aquecer o carro enquanto está dentro."
               }
             },
             {
@@ -1490,7 +1600,8 @@
                 "de": "Nutzen Sie die zentrale Lage für kurze Wege zu den Cafés.",
                 "hu": "Használja ki a központi helyet a kávézók gyors eléréséhez.",
                 "ro": "Profitate de locația centrală pentru acces rapid la cafenele.",
-                "en": "Take advantage of the central location for quick access to cafes."
+                "en": "Take advantage of the central location for quick access to cafes.",
+                "pt": "Aproveite a localização central para acesso rápido a cafés."
               }
             },
             {
@@ -1499,7 +1610,8 @@
                 "de": "Drinnen ist es deutlich wärmer als am windigen Ufer.",
                 "hu": "Bent lényegesen melegebb van, mint a szeles parton.",
                 "ro": "În interior este mult mai cald decât pe malul vântos.",
-                "en": "It's significantly warmer inside than on the windy shore."
+                "en": "It's significantly warmer inside than on the windy shore.",
+                "pt": "É significativamente mais quente lá dentro do que na margem ventosa."
               }
             },
             {
@@ -1508,7 +1620,8 @@
                 "de": "Suchen Sie einen Parkplatz direkt vor dem Restaurant.",
                 "hu": "Keressen parkolóhelyet közvetlenül az étterem előtt.",
                 "ro": "Căutați un loc de parcare direct în fața restaurantului.",
-                "en": "Look for a parking spot directly in front of the restaurant."
+                "en": "Look for a parking spot directly in front of the restaurant.",
+                "pt": "Procure um lugar de estacionamento mesmo em frente ao restaurante."
               }
             },
             {
@@ -1517,7 +1630,8 @@
                 "de": "Der Parkplatz ist im Winter oft fast leer.",
                 "hu": "A parkoló télen gyakran szinte teljesen üres.",
                 "ro": "Parcarea este adesea aproape goală iarna.",
-                "en": "The parking lot is often nearly empty in winter."
+                "en": "The parking lot is often nearly empty in winter.",
+                "pt": "O parque de estacionamento costuma estar quase vazio no inverno."
               }
             }
           ],
@@ -1545,6 +1659,12 @@
               "Take advantage of the short distances between parking spots.",
               "Avoid driving directly at sunset due to glare.",
               "Check the antifreeze, even if frost is rare in Portugal."
+            ],
+            "pt": [
+              "O aquecedor do carro é uma bênção depois de uma caminhada junto à margem.",
+              "Aproveite as curtas distâncias entre os lugares de estacionamento.",
+              "Evite conduzir diretamente ao pôr do sol devido ao encandeamento.",
+              "Verifique o antigelo, mesmo que geada seja rara em Portugal."
             ]
           }
         }
@@ -1563,7 +1683,8 @@
             "de": "Fährterminal Seixal",
             "hu": "Seixal Kompkikötő",
             "ro": "Terminalul de feribot Seixal",
-            "en": "Seixal Ferry Terminal"
+            "en": "Seixal Ferry Terminal",
+            "pt": "Terminal de Ferry do Seixal"
           },
           "coords": [
             -9.1075,
@@ -1581,7 +1702,8 @@
             "de": "Bucht von Seixal",
             "hu": "Seixal-öböl",
             "ro": "Golful Seixal",
-            "en": "Bay of Seixal"
+            "en": "Bay of Seixal",
+            "pt": "Baía do Seixal"
           },
           "coords": [
             -9.1055,
@@ -1599,7 +1721,8 @@
             "de": "Städtisches Ökomuseum von Seixal",
             "hu": "Seixali Városi Ökomúzeum",
             "ro": "Ecomuzeul Municipal din Seixal",
-            "en": "Municipal Ecomuseum of Seixal"
+            "en": "Municipal Ecomuseum of Seixal",
+            "pt": "Ecomuseu Municipal do Seixal"
           },
           "coords": [
             -9.1028,
@@ -1617,7 +1740,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebédszünet az óvárosban",
             "ro": "Pauză de prânz în centrul vechi",
-            "en": "Lunch break in the old town"
+            "en": "Lunch break in the old town",
+            "pt": "Pausa para almoço na cidade velha"
           },
           "coords": [
             -9.1033,
@@ -1635,7 +1759,8 @@
             "de": "Bushaltestelle Arrentela",
             "hu": "Arrentela buszmegálló",
             "ro": "Stația de autobuz Arrentela",
-            "en": "Arrentela Bus Stop"
+            "en": "Arrentela Bus Stop",
+            "pt": "Paragem de Autocarro de Arrentela"
           },
           "coords": [
             -9.1145,
@@ -1653,7 +1778,8 @@
             "de": "Gezeitenmühle von Corroios",
             "hu": "Corroiosi Árapály-malom",
             "ro": "Moara de Maree din Corroios",
-            "en": "Tide Mill of Corroios"
+            "en": "Tide Mill of Corroios",
+            "pt": "Moinho de Maré de Corroios"
           },
           "coords": [
             -9.1255,
@@ -1671,7 +1797,8 @@
         "de": "Beginnen Sie Ihren Tag mit einer malerischen Fährfahrt von Lissabon nach Seixal. Erkunden Sie den Vormittag über die Uferpromenade und das Ökomuseum zu Fuß. Nach dem Mittagessen bringt Sie ein lokaler Bus in die Gegend von Arrentela. Am Nachmittag erkunden Sie die historische Gezeitenmühle von Corroios, bevor Sie mit dem Bus und der Fähre nach Lissabon zurückkehren.",
         "hu": "Kezdje a napot egy festői kompúttal Lisszabonból Seixalba. Délelőtt fedezze fel gyalog a vízpartot és az Ökomúzeumot. Ebéd után egy helyi busz viszi el Arrentela környékére. Délután fedezze fel a történelmi Corroios-i Árapály-malmot, mielőtt busszal és komppal visszatérne Lisszabonba.",
         "ro": "Începeți ziua cu o călătorie pitorească cu feribotul de la Lisabona la Seixal. Dimineața, explorați faleza și Ecomuzeul pe jos. După prânz, un autobuz local vă va duce în zona Arrentela. După-amiaza, explorați istorica Moară de Maree din Corroios înainte de a vă întoarce la Lisabona cu autobuzul și feribotul.",
-        "en": "Start your day with a scenic ferry ride from Lisbon to Seixal. Spend the morning exploring the waterfront and the Ecomuseum on foot. After lunch, a local bus will take you to the Arrentela area. In the afternoon, explore the historic Tide Mill of Corroios before heading back to Lisbon via bus and ferry."
+        "en": "Start your day with a scenic ferry ride from Lisbon to Seixal. Spend the morning exploring the waterfront and the Ecomuseum on foot. After lunch, a local bus will take you to the Arrentela area. In the afternoon, explore the historic Tide Mill of Corroios before heading back to Lisbon via bus and ferry.",
+        "pt": "Comece o dia com um passeio cénico de ferry de Lisboa até ao Seixal. Passe a manhã a explorar a marginal e o Ecomuseu a pé. Depois do almoço, um autocarro local levará à zona da Arrentela. À tarde, explore o histórico Moinho de Maré de Corroios antes de regressar a Lisboa de autocarro e ferry."
       },
       "gastro_picks": {
         "de": [
@@ -1867,6 +1994,12 @@
           "The ferry is the fastest and most scenic way to arrive in Seixal.",
           "Check bus and ferry schedules, especially on weekends and holidays.",
           "Have some cash on hand for bus tickets, although the Viva Viagem card is widely accepted."
+        ],
+        "pt": [
+          "Compre um cartão recarregável 'Viva Viagem' no terminal de ferry do Cais do Sodré, em Lisboa.",
+          "O ferry é a forma mais rápida e cénica de chegar ao Seixal.",
+          "Verifique horários de autocarros e ferries, especialmente aos fins de semana e feriados.",
+          "Leve algum dinheiro para bilhetes de autocarro, embora o cartão Viva Viagem seja amplamente aceite."
         ]
       },
       "variants": {
@@ -1875,7 +2008,8 @@
             "de": "Mit der Fähre von Lissabon erreichen wir Seixal im Regen. Die Überfahrt bietet einen dramatischen Blick auf den verhangenen Tejo. Wir nutzen Busse, um schnell zwischen der Bucht, dem Ecomuseum und der Corroios-Mühle zu wechseln und so wenig Zeit wie möglich im Freien zu verbringen.",
             "hu": "Lisszabonból kompon érkezünk az esős Seixalba, ami drámai kilátást nyújt a felhős Tejóra. Buszokat használunk, hogy gyorsan váltsunk az öböl, az Ecomuseum és a Corroios malom között, így minimalizálva az esőben töltött időt.",
             "ro": "Ajungem în Seixal cu feribotul din Lisabona pe ploaie, oferind o vedere dramatică asupra Tejo. Folosim autobuzele pentru a ne deplasa rapid între golf, Ecomuzeu și moara Corroios, petrecând cât mai puțin timp afară.",
-            "en": "We arrive in rainy Seixal by ferry from Lisbon, offering a dramatic view of the cloudy Tagus. We use buses to quickly move between the bay, Ecomuseum, and Corroios mill, spending as little time outside as possible."
+            "en": "We arrive in rainy Seixal by ferry from Lisbon, offering a dramatic view of the cloudy Tagus. We use buses to quickly move between the bay, Ecomuseum, and Corroios mill, spending as little time outside as possible.",
+            "pt": "Chegamos ao Seixal chuvoso de ferry desde Lisboa, oferecendo uma vista dramática do Tejo nublado. Usamos autocarros para nos deslocarmos rapidamente entre a baía, o Ecomuseu e o moinho de Corroios, passando o mínimo de tempo possível ao ar livre."
           },
           "stops": [
             {
@@ -1884,7 +2018,8 @@
                 "de": "Warten Sie im Terminalgebäude, bis die Fähre anlegt.",
                 "hu": "Várjon a terminál épületében, amíg a komp kiköt.",
                 "ro": "Așteptați în clădirea terminalului până când feribotul trage la mal.",
-                "en": "Wait inside the terminal building until the ferry docks."
+                "en": "Wait inside the terminal building until the ferry docks.",
+                "pt": "Espere dentro do edifício do terminal até o ferry atracar."
               }
             },
             {
@@ -1893,7 +2028,8 @@
                 "de": "Die Bushaltestellen in der Nähe bieten oft guten Regenschutz.",
                 "hu": "A közeli buszmegállók gyakran jó esővédelmet nyújtanak.",
                 "ro": "Stațiile de autobuz din apropiere oferă adesea protecție bună.",
-                "en": "The nearby bus stops often provide good rain protection."
+                "en": "The nearby bus stops often provide good rain protection.",
+                "pt": "As paragens de autocarro nas proximidades costumam oferecer boa proteção contra a chuva."
               }
             },
             {
@@ -1902,7 +2038,8 @@
                 "de": "Ein idealer Ort, um die Zeit bis zum nächsten Bus zu überbrücken.",
                 "hu": "Ideális hely a következő buszig hátralévő idő eltöltésére.",
                 "ro": "Un loc ideal pentru a aștepta următorul autobuz.",
-                "en": "An ideal place to wait until the next bus arrives."
+                "en": "An ideal place to wait until the next bus arrives.",
+                "pt": "Um local ideal para aguardar até o próximo autocarro chegar."
               }
             },
             {
@@ -1911,7 +2048,8 @@
                 "de": "Wählen Sie ein Lokal nahe der Bushaltestelle 'Seixal'.",
                 "hu": "Válasszon helyet a 'Seixal' buszmegálló közelében.",
                 "ro": "Alegeți un local aproape de stația de autobuz 'Seixal'.",
-                "en": "Choose a place near the 'Seixal' bus stop."
+                "en": "Choose a place near the 'Seixal' bus stop.",
+                "pt": "Escolha um local perto da paragem de autocarro 'Seixal'."
               }
             },
             {
@@ -1920,7 +2058,8 @@
                 "de": "Halten Sie die Fahrplan-App bereit, um Wartezeiten im Regen zu vermeiden.",
                 "hu": "Figyelje a menetrendet, hogy ne ázzon feleslegesen a megállóban.",
                 "ro": "Urmăriți aplicația de transport pentru a nu aștepta în ploaie.",
-                "en": "Keep the transit app ready to avoid waiting in the rain."
+                "en": "Keep the transit app ready to avoid waiting in the rain.",
+                "pt": "Mantenha a app de transportes à mão para evitar esperar na chuva."
               }
             },
             {
@@ -1929,7 +2068,8 @@
                 "de": "Der Fußweg vom Bus zur Mühle ist kurz und meist asphaltiert.",
                 "hu": "A busztól a malomig tartó gyalogút rövid és aszfaltozott.",
                 "ro": "Drumul de la autobuz la moară este scurt și asfaltat.",
-                "en": "The walk from the bus to the mill is short and mostly paved."
+                "en": "The walk from the bus to the mill is short and mostly paved.",
+                "pt": "A caminhada do autocarro até ao moinho é curta e maioritariamente pavimentada."
               }
             }
           ],
@@ -1957,6 +2097,12 @@
               "Fewer outdoor seats are available on ferries during rain.",
               "Check real-time bus departures (Carris Metropolitana).",
               "A small umbrella is more practical on crowded buses."
+            ],
+            "pt": [
+              "Use o cartão 'Navegante' para transferências sem complicações.",
+              "Há menos lugares exteriores disponíveis nos ferries durante a chuva.",
+              "Verifique partidas de autocarro em tempo real (Carris Metropolitana).",
+              "Um pequeno guarda-chuva é mais prático em autocarros cheios."
             ]
           }
         },
@@ -1965,7 +2111,8 @@
             "de": "Die Fährüberfahrt nach Seixal im Winter bietet eine klare Sicht auf die Skyline von Lissabon. Im Ort nutzen wir die kurzen Transitverbindungen, um die kühle Brise an der Bucht zu meiden. Wir besuchen das Ecomuseum und die Mühlen im weichen Winterlicht und kehren rechtzeitig vor der Dämmerung mit dem Schiff zurück.",
             "hu": "A téli kompozás Seixalba tiszta kilátást nyújt Lisszabon sziluettjére. A városban a rövid tömegközlekedési kapcsolatokat használjuk, hogy elkerüljük a hűvös parti szelet. Az Ecomuseumot és a malmokat lágy téli fényben látogatjuk meg, majd sötétedés előtt hajózunk vissza.",
             "ro": "Călătoria cu feribotul spre Seixal iarna oferă o vedere clară asupra Lisabonei. În oraș folosim transportul public pentru a evita briza rece de pe mal. Vizităm Ecomuzeul și morile în lumina slabă a iernii și ne întoarcem cu nava înainte de amurg.",
-            "en": "The winter ferry crossing to Seixal offers clear views of the Lisbon skyline. In town, we use short transit links to avoid the cool coastal breeze. We visit the Ecomuseum and mills in the soft winter light and return by boat before dusk."
+            "en": "The winter ferry crossing to Seixal offers clear views of the Lisbon skyline. In town, we use short transit links to avoid the cool coastal breeze. We visit the Ecomuseum and mills in the soft winter light and return by boat before dusk.",
+            "pt": "A travessia de ferry no inverno até ao Seixal oferece vistas claras do horizonte de Lisboa. Na cidade, usamos ligações de trânsito curtas para evitar a brisa costeira fria. Visitamos o Ecomuseu e os moinhos na suave luz de inverno e regressamos de barco antes do anoitecer."
           },
           "stops": [
             {
@@ -1974,7 +2121,8 @@
                 "de": "Im Inneren der Fähre ist es im Winter angenehm warm.",
                 "hu": "A komp belső terében télen is kellemesen meleg van.",
                 "ro": "În interiorul feribotului este plăcut și cald iarna.",
-                "en": "The interior of the ferry is pleasantly warm in winter."
+                "en": "The interior of the ferry is pleasantly warm in winter.",
+                "pt": "O interior do ferry é agradavelmente quente no inverno."
               }
             },
             {
@@ -1983,7 +2131,8 @@
                 "de": "Ein schneller Transit zum Ufer spart den Weg im kühlen Wind.",
                 "hu": "A gyors tömegközlekedés megkíméli a hűvös széltől a parton.",
                 "ro": "Transportul rapid vă scutește de mersul prin vântul rece.",
-                "en": "Quick transit to the shore saves you a walk in the chilly wind."
+                "en": "Quick transit to the shore saves you a walk in the chilly wind.",
+                "pt": "Deslocações rápidas até à margem poupam-lhe uma caminhada no vento fresco."
               }
             },
             {
@@ -1992,7 +2141,8 @@
                 "de": "Besuchen Sie das Museum zur wärmsten Tageszeit.",
                 "hu": "A múzeumlátogatást a nap legmelegebb óráira időzítse.",
                 "ro": "Vizitați muzeul în cea mai caldă parte a zilei.",
-                "en": "Schedule the museum visit for the warmest part of the day."
+                "en": "Schedule the museum visit for the warmest part of the day.",
+                "pt": "Agende a visita ao museu para a parte mais quente do dia."
               }
             },
             {
@@ -2001,7 +2151,8 @@
                 "de": "Viele Cafés am Terminal bieten heiße Schokolade an.",
                 "hu": "A terminál környéki kávézókban remek forró csokoládét mérnek.",
                 "ro": "Multe cafenele de lângă terminal oferă ciocolată caldă.",
-                "en": "Many cafes near the terminal offer excellent hot chocolate."
+                "en": "Many cafes near the terminal offer excellent hot chocolate.",
+                "pt": "Muitos cafés perto do terminal oferecem excelente chocolate quente."
               }
             },
             {
@@ -2010,7 +2161,8 @@
                 "de": "Im Winter verkehren manche Linien seltener, Fahrplan prüfen.",
                 "hu": "Télen egyes járatok ritkábban járhatnak, ellenőrizze a tervet.",
                 "ro": "Iarna, unele linii pot circula mai rar, verificați orarul.",
-                "en": "Some lines may run less frequently in winter; check the schedule."
+                "en": "Some lines may run less frequently in winter; check the schedule.",
+                "pt": "Algumas linhas podem operar com menor frequência no inverno; verifique os horários."
               }
             },
             {
@@ -2019,7 +2171,8 @@
                 "de": "Planen Sie die Rückfahrt vor 17:30 Uhr ein.",
                 "hu": "Tervezze meg a visszautat 17:30 előtt.",
                 "ro": "Planificați călătoria de întoarcere înainte de 17:30.",
-                "en": "Plan your return trip before 5:30 PM."
+                "en": "Plan your return trip before 5:30 PM.",
+                "pt": "Planeie a sua viagem de regresso antes das 17:30."
               }
             }
           ],
@@ -2047,6 +2200,12 @@
               "Use the station shelters for wind protection.",
               "The twilight over the Tagus is beautiful from the boat.",
               "Keep loose change or your Navegante card handy."
+            ],
+            "pt": [
+              "Os ferries funcionam com um horário ligeiramente alterado no inverno.",
+              "Use os abrigos da estação para se proteger do vento.",
+              "O crepúsculo sobre o Tejo é belo visto do barco.",
+              "Tenha trocos à mão ou o seu cartão Navegante por perto."
             ]
           }
         }

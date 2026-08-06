@@ -21,7 +21,8 @@
             "de": "Viertel Mouraria",
             "hu": "Mouraria negyed",
             "ro": "Cartierul Mouraria",
-            "en": "Mouraria Quarter"
+            "en": "Mouraria Quarter",
+            "pt": "Bairro da Mouraria"
           },
           "coords": [
             -7.4485,
@@ -37,7 +38,8 @@
             "de": "Verlieren Sie sich in den engen Gassen, um die maurische Essenz zu spüren.",
             "hu": "Tévedjen el a szűk utcácskákban, hogy átérezze a mór hangulatot.",
             "ro": "Pierdeți-vă pe străduțele înguste pentru a simți esența maură.",
-            "en": "Get lost in the narrow streets to feel the Moorish essence."
+            "en": "Get lost in the narrow streets to feel the Moorish essence.",
+            "pt": "Perca-se nas ruelas para sentir a essência mourisca."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche des Heiligen Johannes des Täufers",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Church of Saint John the Baptist"
+            "en": "Church of Saint John the Baptist",
+            "pt": "Igreja de São João Baptista"
           },
           "coords": [
             -7.4468,
@@ -61,7 +64,8 @@
             "de": "Beachten Sie das manuelinische Portal, ein Meisterwerk der portugiesischen Gotik.",
             "hu": "Figyelje meg a Mánuel stílusú kapuzatot, a portugál gótika remekét.",
             "ro": "Observați portalul manuelin, o capodoperă a goticului portughez.",
-            "en": "Note the Manueline portal, a masterpiece of Portuguese Gothic."
+            "en": "Note the Manueline portal, a masterpiece of Portuguese Gothic.",
+            "pt": "Repare no portal manuelino, uma obra-prima do gótico português."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Uhrturm",
             "hu": "Óratorony",
             "ro": "Turnul cu Ceas",
-            "en": "Clock Tower"
+            "en": "Clock Tower",
+            "pt": "Torre do Relógio"
           },
           "coords": [
             -7.4459,
@@ -85,7 +90,8 @@
             "de": "Ein großartiger Fotopunkt, besonders in der Nähe des Hauptplatzes.",
             "hu": "Remek fotóhely, különösen a főtér közelében.",
             "ro": "Un loc excelent pentru fotografii, mai ales lângă piața principală.",
-            "en": "A great photo spot, especially near the main square."
+            "en": "A great photo spot, especially near the main square.",
+            "pt": "Um ótimo local para fotos, especialmente perto da praça principal."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Burg von Moura",
             "hu": "Moura vára",
             "ro": "Castelul din Moura",
-            "en": "Moura Castle"
+            "en": "Moura Castle",
+            "pt": "Castelo de Moura"
           },
           "coords": [
             -7.444,
@@ -109,7 +116,8 @@
             "de": "Erklimmen Sie die Mauern für einen Panoramablick über die Stadt und die Landschaft des Alentejo.",
             "hu": "Másszon fel a falakra a városra és az Alentejo vidékére nyíló panorámáért.",
             "ro": "Urcați pe ziduri pentru o vedere panoramică asupra orașului și peisajului Alentejo.",
-            "en": "Climb the walls for a panoramic view of the town and the Alentejo countryside."
+            "en": "Climb the walls for a panoramic view of the town and the Alentejo countryside.",
+            "pt": "Suba às muralhas para uma vista panorâmica da vila e do campo do Alentejo."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Städtisches Museum von Moura",
             "hu": "Városi Múzeum, Moura",
             "ro": "Muzeul Municipal din Moura",
-            "en": "Municipal Museum of Moura"
+            "en": "Municipal Museum of Moura",
+            "pt": "Museu Municipal de Moura"
           },
           "coords": [
             -7.4445,
@@ -133,7 +142,8 @@
             "de": "Perfekt für ein tieferes Verständnis der reichen Geschichte der Region.",
             "hu": "Tökéletes a régió gazdag történelmének mélyebb megértéséhez.",
             "ro": "Perfect pentru o înțelegere mai profundă a istoriei bogate a regiunii.",
-            "en": "Perfect for a deeper understanding of the region's rich history."
+            "en": "Perfect for a deeper understanding of the region's rich history.",
+            "pt": "Perfeito para uma compreensão mais profunda da rica história da região."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Brunnen der Drei Tüllen",
             "hu": "Három kifolyó kútja",
             "ro": "Fântâna celor Trei Guri",
-            "en": "Fountain of the Three Spouts"
+            "en": "Fountain of the Three Spouts",
+            "pt": "Fonte das Três Bicas"
           },
           "coords": [
             -7.449,
@@ -157,7 +168,8 @@
             "de": "Ein einzigartiges und erfrischendes Wahrzeichen, ideal für eine kurze Pause.",
             "hu": "Egyedi és frissítő látványosság, ideális egy rövid pihenőre.",
             "ro": "Un monument unic și răcoritor, ideal pentru o scurtă pauză.",
-            "en": "A unique and refreshing landmark, great for a short break."
+            "en": "A unique and refreshing landmark, great for a short break.",
+            "pt": "Um marco único e refrescante, ótimo para uma curta pausa."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Garten Dr. Santiago",
             "hu": "Dr. Santiago kert",
             "ro": "Grădina Dr. Santiago",
-            "en": "Dr. Santiago Garden"
+            "en": "Dr. Santiago Garden",
+            "pt": "Jardim Dr. Santiago"
           },
           "coords": [
             -7.4498,
@@ -181,7 +194,8 @@
             "de": "Entspannen Sie sich im Schatten der Bäume, ein perfekter Abschluss für Ihren Spaziergang.",
             "hu": "Pihenjen a fák árnyékában, tökéletes befejezése a sétának.",
             "ro": "Relaxați-vă la umbra copacilor, un final perfect pentru plimbarea dumneavoastră.",
-            "en": "Relax under the shade of the trees, a perfect end to your walk."
+            "en": "Relax under the shade of the trees, a perfect end to your walk.",
+            "pt": "Relaxe à sombra das árvores, um final perfeito para o seu passeio."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Mouraria-Viertel. Mittags erkunden Sie die beeindruckende Burg und das Museum. Am Nachmittag schlendern Sie durch die Gärten. Genießen Sie den Abend bei traditioneller Alentejo-Küche.",
         "hu": "Kezdje a napot a történelmi Mouraria negyedben. Délben fedezze fel a lenyűgöző várat és a múzeumot. Délután sétáljon a kertekben. Este élvezze a hagyományos Alentejo konyhát.",
         "ro": "Începeți ziua în cartierul istoric Mouraria. La prânz, explorați castelul impresionant și muzeul. După-amiaza, plimbați-vă prin grădini. Seara, savurați bucătăria tradițională din Alentejo.",
-        "en": "Start your day in the historic Mouraria quarter. At midday, explore the impressive castle and museum. In the afternoon, stroll through the gardens. Enjoy the evening with traditional Alentejo cuisine."
+        "en": "Start your day in the historic Mouraria quarter. At midday, explore the impressive castle and museum. In the afternoon, stroll through the gardens. Enjoy the evening with traditional Alentejo cuisine.",
+        "pt": "Comece o dia no histórico bairro da Mouraria. Ao meio-dia, explore o impressionante castelo e museu. À tarde, passeie pelos jardins. Desfrute a noite com cozinha tradicional alentejana."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Bring plenty of water, especially during the summer months.",
           "Most sights are within a short walking distance of each other.",
           "Try the local olive oil; it's one of the best in Portugal."
+        ],
+        "pt": [
+          "Use calçado confortável, pois as ruas são de calçada.",
+          "Leve bastante água, especialmente durante os meses de verão.",
+          "A maioria dos pontos de interesse está a curta distância a pé uns dos outros.",
+          "Experimente o azeite local; é um dos melhores de Portugal."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Beginnen Sie den Tag in den engen Gassen der Mouraria, die Schutz vor Wind bieten. Mittags dient das Stadtmuseum als idealer Zufluchtsort, um archäologische Funde im Trockenen zu bewundern. Am Nachmittag ermöglicht die Kirche São João Baptista eine ruhige Pause vom Regen. Der Tag endet am Garten Dr. Santiago, wo die nassen Steinfiguren der Brunnen im fahlen Licht glänzen.",
             "hu": "A napot a Mouraria negyed szűk utcáin kezdjük, ahol a házak némi védelmet nyújtanak a szél ellen. Délben a Városi Múzeum kínál tökéletes menedéket a római és iszlám emlékek között. Délután a Keresztelő Szent János-templom belső tere nyújt száraz pihenőt. Az utat a Dr. Santiago kertnél zárjuk, ahol az esőben megcsillannak a Háromcsöves kút díszes kőfaragványai.",
             "ro": "Începeți ziua în cartierul Mouraria, unde străzile înguste oferă protecție împotriva vântului. La prânz, Muzeul Municipal este refugiul ideal pentru a explora vestigiile romane la adăpost. După-amiaza, interiorul bisericii São João Baptista oferă o pauză uscată. Ziua se încheie lângă grădina Dr. Santiago, unde fântânile monumentale capătă un aspect dramatic sub picăturile de ploaie.",
-            "en": "Start the day in the narrow alleys of Mouraria, which provide some shelter from the wind. At midday, the Municipal Museum serves as a perfect refuge to explore Roman and Islamic artifacts while staying dry. In the afternoon, the Church of Saint John the Baptist offers a quiet, dry break. The journey ends at Dr. Santiago Garden, where the wet stone of the fountains glistens in the rain."
+            "en": "Start the day in the narrow alleys of Mouraria, which provide some shelter from the wind. At midday, the Municipal Museum serves as a perfect refuge to explore Roman and Islamic artifacts while staying dry. In the afternoon, the Church of Saint John the Baptist offers a quiet, dry break. The journey ends at Dr. Santiago Garden, where the wet stone of the fountains glistens in the rain.",
+            "pt": "Comece o dia nas ruelas estreitas da Mouraria, que oferecem alguma proteção contra o vento. Ao meio-dia, o Museu Municipal serve como um perfeito refúgio para explorar artefactos romanos e islâmicos enquanto se mantém seco. À tarde, a Igreja de São João Baptista oferece uma pausa tranquila e seca. A jornada termina no Jardim Dr. Santiago, onde a pedra molhada das fontes cintila na chuva."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Die schmalen Gassen wirken wie ein natürlicher Regenschirm.",
                 "hu": "A szűk sikátorok természetes esernyőként védenek a szél ellen.",
                 "ro": "Străduțele înguste acționează ca o umbrelă naturală.",
-                "en": "Narrow alleys act as a natural umbrella against the wind."
+                "en": "Narrow alleys act as a natural umbrella against the wind.",
+                "pt": "As ruelas estreitas funcionam como um guarda-chuva natural contra o vento."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Bewundern Sie das Manuelinik-Portal, während Sie auf eine Regenpause warten.",
                 "hu": "Csodálja meg a mánuel stílusú kaput, miközben eláll az eső.",
                 "ro": "Admirați portalul manuelin în timp ce așteptați să se oprească ploaia.",
-                "en": "Admire the Manueline portal while waiting for the rain to clear."
+                "en": "Admire the Manueline portal while waiting for the rain to clear.",
+                "pt": "Admire o portal manuelino enquanto espera que a chuva passe."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Vorsicht, die Steinstufen können bei Nässe extrem rutschig sein.",
                 "hu": "Vigyázat, a kőlépcsők nedvesen rendkívül csúszósak lehetnek.",
                 "ro": "Atenție, treptele de piatră pot fi extrem de alunecoase pe ploaie.",
-                "en": "Be careful, the stone steps can be extremely slippery when wet."
+                "en": "Be careful, the stone steps can be extremely slippery when wet.",
+                "pt": "Tenha cuidado, os degraus de pedra podem estar extremamente escorregadios quando molhados."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Suchen Sie Schutz unter den Torbögen der Festungsruine.",
                 "hu": "Keressen menedéket a várrom boltívei alatt az eső elől.",
                 "ro": "Căutați adăpost sub arcadele ruinelor cetății.",
-                "en": "Seek shelter under the arches of the castle ruins."
+                "en": "Seek shelter under the arches of the castle ruins.",
+                "pt": "Procure abrigo sob os arcos das ruínas do castelo."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Der beste Ort, um eine Stunde intensiven Regens im Trockenen zu verbringen.",
                 "hu": "A legjobb hely egy órányi intenzív eső átvészelésére.",
                 "ro": "Cel mai bun loc pentru a petrece o oră de ploaie intensă la adăpost.",
-                "en": "The best place to spend an hour of heavy rain indoors."
+                "en": "The best place to spend an hour of heavy rain indoors.",
+                "pt": "O melhor lugar para passar uma hora de chuva intensa no interior."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Die Marmordetails kommen bei feuchtem Wetter besonders gut zur Geltung.",
                 "hu": "A márvány részletek nedves időben még jobban érvényesülnek.",
                 "ro": "Detaliile de marmură ies în evidență mai bine pe vreme umedă.",
-                "en": "The marble details stand out more vividly in damp weather."
+                "en": "The marble details stand out more vividly in damp weather.",
+                "pt": "Os detalhes em mármore sobressaem mais vivamente em tempo húmido."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Nutzen Sie den Musikpavillon als überdachten Aussichtspunkt.",
                 "hu": "Használja a zenekari pavilont fedett kilátópontként.",
                 "ro": "Folosiți foișorul de muzică ca punct de observație acoperit.",
-                "en": "Use the bandstand as a covered vantage point."
+                "en": "Use the bandstand as a covered vantage point.",
+                "pt": "Use o coreto como um ponto de observação coberto."
               }
             }
           ],
@@ -484,6 +513,12 @@
               "The Municipal Museum is closed on Mondays, keep this in mind for rain plans.",
               "Cafes at Praça Sacadura Cabral offer good covered seating areas.",
               "A compact umbrella is more practical in narrow alleys than a large one."
+            ],
+            "pt": [
+              "Use sapatos com boa aderência, pois as calçadas na Mouraria tornam-se escorregadias.",
+              "O Museu Municipal está fechado às segundas-feiras, tenha isto em conta para planos de chuva.",
+              "Os cafés na Praça Sacadura Cabral oferecem bons lugares cobertos para sentar.",
+              "Um guarda-chuva compacto é mais prático nas ruelas estreitas do que um grande."
             ]
           }
         },
@@ -492,7 +527,8 @@
             "de": "Die kühle Morgenluft in der Mouraria ist erfrischend und belebend. Mittags wärmt die tiefstehende Sonne die hellen Wände der Kirche São João Baptista. Der Nachmittag am Schloss bietet klare Sichtweiten über die weiten Ebenen des Alentejo. Da die Sonne gegen 17:30 Uhr sinkt, verbringen wir die goldene Stunde im Garten Dr. Santiago, bevor die Kälte einsetzt.",
             "hu": "A Mouraria hűvös reggeli levegője frissítő és élénkítő. Délben az alacsonyan járó nap melegíti a Keresztelő Szent János-templom világos falait. A délutáni vár látogatás tiszta kilátást kínál az Alentejo végtelen síkságaira. Mivel a nap 17:30 körül nyugszik, az aranyórát a Dr. Santiago kertben töltjük, mielőtt beállna az esti hideg.",
             "ro": "Aerul răcoros al dimineții în Mouraria este revigorant. La prânz, soarele blând încălzește pereții albi ai bisericii São João Baptista. După-amiaza la castel oferă o vizibilitate clară peste câmpiile vaste din Alentejo. Deoarece soarele apune în jur de 17:30, petrecem ora de aur în grădina Dr. Santiago înainte de lăsarea frigului.",
-            "en": "The cool morning air in Mouraria is refreshing and invigorating. At midday, the low winter sun warms the bright walls of the Church of Saint John the Baptist. The afternoon at the castle offers clear views over the vast Alentejo plains. As the sun sets around 17:30, we spend the golden hour in Dr. Santiago Garden before the evening chill sets in."
+            "en": "The cool morning air in Mouraria is refreshing and invigorating. At midday, the low winter sun warms the bright walls of the Church of Saint John the Baptist. The afternoon at the castle offers clear views over the vast Alentejo plains. As the sun sets around 17:30, we spend the golden hour in Dr. Santiago Garden before the evening chill sets in.",
+            "pt": "O ar fresco da manhã na Mouraria é revigorante e estimulante. Ao meio-dia, o baixo sol de inverno aquece as paredes claras da Igreja de São João Baptista. A tarde no castelo oferece vistas limpas sobre as vastas planícies do Alentejo. Ao pôr-do-sol, por volta das 17:30, passamos a hora dourada no Jardim Dr. Santiago antes do frio da noite instalar-se."
           },
           "stops": [
             {
@@ -501,7 +537,8 @@
                 "de": "Genießen Sie die Ruhe, bevor die Tagestouristen im Sommer kommen.",
                 "hu": "Élvezze a csendet, mielőtt a nyári turistatömegek megérkeznének.",
                 "ro": "Bucurați-vă de liniște înainte de sosirea turiștilor de vară.",
-                "en": "Enjoy the quiet atmosphere before the summer crowds arrive."
+                "en": "Enjoy the quiet atmosphere before the summer crowds arrive.",
+                "pt": "Desfrute da atmosfera tranquila antes da chegada das multidões de verão."
               }
             },
             {
@@ -510,7 +547,8 @@
                 "de": "Das Innere kann im Winter kühl sein, eine Jacke ist ratsam.",
                 "hu": "A belső tér télen hűvös lehet, ajánlott a réteges öltözködés.",
                 "ro": "Interiorul poate fi răcoros iarna, se recomandă o jachetă.",
-                "en": "The interior can be chilly in winter, a jacket is recommended."
+                "en": "The interior can be chilly in winter, a jacket is recommended.",
+                "pt": "O interior pode ser fresco no inverno; recomenda-se um casaco."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Das klare Winterlicht ist perfekt für Fotos vom Turm aus.",
                 "hu": "A tiszta téli fény ideális a toronyból való fotózáshoz.",
                 "ro": "Lumina clară de iarnă este perfectă pentru fotografii din turn.",
-                "en": "The clear winter light is perfect for photos from the tower."
+                "en": "The clear winter light is perfect for photos from the tower.",
+                "pt": "A luz clara de inverno é perfeita para fotografias a partir da torre."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Der Wind auf den Mauern ist im Winter oft schneidend.",
                 "hu": "A várfalakon a szél télen gyakran metszően hideg lehet.",
                 "ro": "Vântul pe zidurile cetății poate fi tăios în timpul iernii.",
-                "en": "The wind on the castle walls can be biting in winter."
+                "en": "The wind on the castle walls can be biting in winter.",
+                "pt": "O vento nas muralhas do castelo pode ser cortante no inverno."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Ein warmer Ort, um die Geschichte der Stadt zu studieren.",
                 "hu": "Meleg hely a város történelmének tanulmányozására.",
                 "ro": "Un loc călduros pentru a studia istoria orașului.",
-                "en": "A warm place to study the city's history indoors."
+                "en": "A warm place to study the city's history indoors.",
+                "pt": "Um local acolhedor para estudar a história da cidade no interior."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Trinken Sie das Quellwasser, es ist das ganze Jahr über frisch.",
                 "hu": "Igyon a forrásvízből, egész évben friss és iható.",
                 "ro": "Beți din apa izvorului, este proaspătă tot anul.",
-                "en": "Drink the spring water; it remains fresh all year round."
+                "en": "Drink the spring water; it remains fresh all year round.",
+                "pt": "Beba a água da nascente; mantém-se fresca durante todo o ano."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Suchen Sie eine sonnige Bank für die letzten Strahlen vor 17 Uhr.",
                 "hu": "Keressen egy napos padot az utolsó sugarakhoz 17 óra előtt.",
                 "ro": "Căutați o bancă însorită pentru ultimele raze înainte de ora 17.",
-                "en": "Find a sunny bench for the last rays before 17:00."
+                "en": "Find a sunny bench for the last rays before 17:00.",
+                "pt": "Encontre um banco soalheiro para os últimos raios antes das 17:00."
               }
             }
           ],
@@ -583,6 +626,12 @@
               "Try local Alentejo soups in taverns to warm up during lunch.",
               "Mornings can be foggy, giving Mouraria a mystical atmosphere.",
               "Humidity can be high, so choose breathable layered clothing."
+            ],
+            "pt": [
+              "O pôr-do-sol é cedo (por volta das 17:30), visite o castelo antes de escurecer.",
+              "Experimente as sopas alentejanas nas tascas para aquecer ao almoço.",
+              "As manhãs podem ser nevoentas, dando à Mouraria uma atmosfera mística.",
+              "A humidade pode ser alta, por isso escolha roupa respirável em camadas."
             ]
           }
         }
@@ -601,7 +650,8 @@
             "de": "Jardim Dr. Santiago",
             "hu": "Dr. Santiago kert",
             "ro": "Grădina Dr. Santiago",
-            "en": "Dr. Santiago Garden"
+            "en": "Dr. Santiago Garden",
+            "pt": "Jardim Dr. Santiago"
           },
           "coords": [
             -7.4498,
@@ -617,7 +667,8 @@
             "de": "Ein guter Ausgangspunkt, um den Tag entspannt zu beginnen.",
             "hu": "Jó kiindulópont a nap laza kezdéséhez.",
             "ro": "Un punct de plecare bun pentru a începe ziua într-un mod relaxat.",
-            "en": "A good starting point to begin the day in a relaxed way."
+            "en": "A good starting point to begin the day in a relaxed way.",
+            "pt": "Um bom ponto de partida para começar o dia de forma relaxada."
           }
         },
         {
@@ -625,7 +676,8 @@
             "de": "Viertel Mouraria",
             "hu": "Mouraria negyed",
             "ro": "Cartierul Mouraria",
-            "en": "Mouraria Quarter"
+            "en": "Mouraria Quarter",
+            "pt": "Bairro da Mouraria"
           },
           "coords": [
             -7.4485,
@@ -641,7 +693,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
             "hu": "Tegye le a biciklit és fedezze fel a szűk utcákat gyalog.",
             "ro": "Parcați bicicleta și explorați străduțele înguste pe jos.",
-            "en": "Park your bike and explore the narrow alleys on foot."
+            "en": "Park your bike and explore the narrow alleys on foot.",
+            "pt": "Estacione a bicicleta e explore as ruelas a pé."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Kirche des Heiligen Johannes des Täufers",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Church of Saint John the Baptist"
+            "en": "Church of Saint John the Baptist",
+            "pt": "Igreja de São João Baptista"
           },
           "coords": [
             -7.4468,
@@ -665,7 +719,8 @@
             "de": "Bewundern Sie die Architektur, bevor Sie Ihre Radtour fortsetzen.",
             "hu": "Csodálja meg az építészetet, mielőtt folytatná a kerékpártúrát.",
             "ro": "Admirați arhitectura înainte de a continua turul cu bicicleta.",
-            "en": "Admire the architecture before continuing your bike tour."
+            "en": "Admire the architecture before continuing your bike tour.",
+            "pt": "Admire a arquitetura antes de continuar o seu passeio de bicicleta."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Uhrturm",
             "hu": "Óratorony",
             "ro": "Turnul cu Ceas",
-            "en": "Clock Tower"
+            "en": "Clock Tower",
+            "pt": "Torre do Relógio"
           },
           "coords": [
             -7.4459,
@@ -689,7 +745,8 @@
             "de": "Ein schneller Halt für ein Foto auf Ihrem Weg zur Burg.",
             "hu": "Egy gyors megálló egy fotóért a várhoz vezető úton.",
             "ro": "O oprire rapidă pentru o fotografie în drum spre castel.",
-            "en": "A quick stop for a photo on your way to the castle."
+            "en": "A quick stop for a photo on your way to the castle.",
+            "pt": "Uma paragem rápida para uma foto a caminho do castelo."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Burg von Moura",
             "hu": "Moura vára",
             "ro": "Castelul din Moura",
-            "en": "Moura Castle"
+            "en": "Moura Castle",
+            "pt": "Castelo de Moura"
           },
           "coords": [
             -7.444,
@@ -713,7 +771,8 @@
             "de": "Der Anstieg lohnt sich für die Aussicht. Nehmen Sie sich Zeit, die Anlage zu erkunden.",
             "hu": "Megéri a kaptató a kilátásért. Szánjon időt a komplexum felfedezésére.",
             "ro": "Urcușul merită pentru priveliște. Acordați-vă timp pentru a explora complexul.",
-            "en": "The climb is worth it for the view. Take your time to explore the complex."
+            "en": "The climb is worth it for the view. Take your time to explore the complex.",
+            "pt": "A subida vale a pena pela vista. Reserve tempo para explorar o conjunto."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Städtisches Museum von Moura",
             "hu": "Városi Múzeum, Moura",
             "ro": "Muzeul Municipal din Moura",
-            "en": "Municipal Museum of Moura"
+            "en": "Municipal Museum of Moura",
+            "pt": "Museu Municipal de Moura"
           },
           "coords": [
             -7.4445,
@@ -737,7 +797,8 @@
             "de": "Eine willkommene Pause von der Sonne und eine Dosis Kultur.",
             "hu": "Kellemes pihenő a nap elől és egy adag kultúra.",
             "ro": "O pauză binevenită de la soare și o doză de cultură.",
-            "en": "A welcome break from the sun and a dose of culture."
+            "en": "A welcome break from the sun and a dose of culture.",
+            "pt": "Uma pausa bem-vinda do sol e uma dose de cultura."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Karmeliterkloster",
             "hu": "Kármelita kolostor",
             "ro": "Mănăstirea Carmo",
-            "en": "Convento do Carmo"
+            "en": "Convento do Carmo",
+            "pt": "Convento do Carmo"
           },
           "coords": [
             -7.442,
@@ -761,7 +823,8 @@
             "de": "Spüren Sie die ruhige und friedliche Atmosphäre dieses historischen Ortes.",
             "hu": "Érezze a történelmi hely csendes és békés légkörét.",
             "ro": "Simțiți atmosfera calmă și pașnică a acestui loc istoric.",
-            "en": "Feel the calm and peaceful atmosphere of this historic place."
+            "en": "Feel the calm and peaceful atmosphere of this historic place.",
+            "pt": "Sinta a calma e a atmosfera pacífica deste lugar histórico."
           }
         },
         {
@@ -769,7 +832,8 @@
             "de": "Brunnen der Drei Tüllen",
             "hu": "Három kifolyó kútja",
             "ro": "Fântâna celor Trei Guri",
-            "en": "Fountain of the Three Spouts"
+            "en": "Fountain of the Three Spouts",
+            "pt": "Fonte das Três Bicas"
           },
           "coords": [
             -7.449,
@@ -785,7 +849,8 @@
             "de": "Ein erfrischender Abschluss Ihrer Radtour durch die Stadt.",
             "hu": "A városi kerékpártúra frissítő befejezése.",
             "ro": "Un final răcoritor pentru turul dumneavoastră cu bicicleta prin oraș.",
-            "en": "A refreshing end to your bike tour through the city."
+            "en": "A refreshing end to your bike tour through the city.",
+            "pt": "Um final refrescante para o seu passeio de bicicleta pela cidade."
           }
         }
       ],
@@ -793,7 +858,8 @@
         "de": "Starten Sie Ihre Radtour im ruhigen Jardim Dr. Santiago. Erkunden Sie das Labyrinth von Mouraria und radeln Sie dann hinauf zur Burg für eine atemberaubende Aussicht. Nach einem kulturellen Stopp im Museum fahren Sie zum Karmeliterkloster und beenden den Tag am einzigartigen Brunnen.",
         "hu": "Kezdje a kerékpártúrát a csendes Dr. Santiago kertben. Fedezze fel Mouraria labirintusát, majd tekerjen fel a várhoz a lélegzetelállító kilátásért. Egy múzeumi kulturális megálló után irány a Kármelita kolostor, és fejezze be a napot az egyedülálló kútnál.",
         "ro": "Începeți turul cu bicicleta în liniștita Grădină Dr. Santiago. Explorați labirintul din Mouraria, apoi pedalați până la castel pentru priveliști uimitoare. După o oprire culturală la muzeu, mergeți la Mănăstirea Carmo și încheiați ziua la fântâna unică.",
-        "en": "Start your bike tour in the quiet Dr. Santiago Garden. Explore the labyrinth of Mouraria, then cycle up to the castle for stunning views. After a cultural stop at the museum, head to the Convento do Carmo and finish the day at the unique fountain."
+        "en": "Start your bike tour in the quiet Dr. Santiago Garden. Explore the labyrinth of Mouraria, then cycle up to the castle for stunning views. After a cultural stop at the museum, head to the Convento do Carmo and finish the day at the unique fountain.",
+        "pt": "Comece o seu passeio de bicicleta no tranquilo Jardim Dr. Santiago. Explore o labirinto da Mouraria, depois pedale até ao castelo para vistas deslumbrantes. Após uma paragem cultural no museu, dirija-se ao Convento do Carmo e termine o dia na fonte única."
       },
       "gastro_picks": {
         "de": [
@@ -989,6 +1055,12 @@
           "Some streets can be steep, especially the climb to the castle.",
           "Always lock your bike when you leave it.",
           "The town is small enough to explore by bike in a day."
+        ],
+        "pt": [
+          "Verifique a sua bicicleta antes de partir.",
+          "Algumas ruas podem ser íngremes, especialmente a subida para o castelo.",
+          "Tranque sempre a sua bicicleta quando a deixar.",
+          "A vila é pequena o suficiente para explorar de bicicleta num dia."
         ]
       },
       "variants": {
@@ -997,7 +1069,8 @@
             "de": "Eine Regenfahrt durch Moura erfordert Konzentration auf dem rutschigen Pflaster. Wir beginnen am Dr. Santiago Garten und suchen schnell Schutz in der Mouraria. Mittags bietet das Museum eine lange Pause, während wir die Ausrüstung trocknen. Nachmittags besuchen wir das Convento do Carmo, dessen Kreuzgang einen trockenen Rundgang ermöglicht, bevor wir zum Brunnen zurückkehren.",
             "hu": "Az esős biciklizés Mourában fokozott figyelmet igényel a csúszós köveken. A Dr. Santiago kertnél kezdünk, majd gyorsan menedéket keresünk a Mouraria utcáin. Délben a múzeum hosszú pihenőt kínál, amíg a felszerelés szárad. Délután a Convento do Carmo kerengője alatt szárazon nézelődhetünk, mielőtt visszatérnénk a kúthoz.",
             "ro": "O plimbare cu bicicleta prin Moura pe ploaie necesită concentrare pe pavajul alunecos. Începem la grădina Dr. Santiago și căutăm rapid adăpost în Mouraria. La prânz, muzeul oferă o pauză lungă pentru a ne usca echipamentul. După-amiaza vizităm Convento do Carmo, unde putem merge la adăpost înainte de a reveni la fântână.",
-            "en": "A rainy bike ride through Moura requires concentration on the slippery pavement. We start at Dr. Santiago Garden and quickly seek shelter in Mouraria. At midday, the museum offers a long break to dry off gear. In the afternoon, we visit Convento do Carmo, where the cloister allows for a dry tour before returning to the fountain."
+            "en": "A rainy bike ride through Moura requires concentration on the slippery pavement. We start at Dr. Santiago Garden and quickly seek shelter in Mouraria. At midday, the museum offers a long break to dry off gear. In the afternoon, we visit Convento do Carmo, where the cloister allows for a dry tour before returning to the fountain.",
+            "pt": "Um passeio de bicicleta chuvoso pela Moura exige concentração no pavimento escorregadio. Começamos no Jardim Dr. Santiago e rapidamente procuramos abrigo na Mouraria. Ao meio-dia, o museu oferece uma longa pausa para secar o equipamento. À tarde, visitamos o Convento do Carmo, onde o claustro permite uma visita seca antes de regressar à fonte."
           },
           "stops": [
             {
@@ -1006,7 +1079,8 @@
                 "de": "Vorsicht beim Losfahren, die bemalten Fliesen am Boden sind glatt.",
                 "hu": "Vigyázat induláskor, a festett csempék a földön csúsznak.",
                 "ro": "Atenție la plecare, plăcile ceramice de pe jos sunt lucioase.",
-                "en": "Be careful when starting; the painted tiles on the ground are slick."
+                "en": "Be careful when starting; the painted tiles on the ground are slick.",
+                "pt": "Tenha cuidado ao arrancar; os azulejos pintados no chão são escorregadios."
               }
             },
             {
@@ -1015,7 +1089,8 @@
                 "de": "Fahren Sie langsam, die Kurven in den Gassen sind unübersichtlich.",
                 "hu": "Hajtson lassan, a szűk utcák kanyarjai beláthatatlanok.",
                 "ro": "Pedalați încet, curbele de pe străduțe nu oferă vizibilitate.",
-                "en": "Ride slowly; the corners in the alleys have limited visibility."
+                "en": "Ride slowly; the corners in the alleys have limited visibility.",
+                "pt": "Circule devagar; as curvas nas ruelas têm visibilidade limitada."
               }
             },
             {
@@ -1024,7 +1099,8 @@
                 "de": "Stellen Sie das Rad unter das Vordach gegenüber der Kirche.",
                 "hu": "Támassza le a biciklit a templommal szemközti előtető alá.",
                 "ro": "Parcați bicicleta sub copertina de vizavi de biserică.",
-                "en": "Park your bike under the overhang opposite the church."
+                "en": "Park your bike under the overhang opposite the church.",
+                "pt": "Estacione a bicicleta sob o beiral em frente à igreja."
               }
             },
             {
@@ -1033,7 +1109,8 @@
                 "de": "Kurzer Stopp, halten Sie den Lenker gut fest bei Seitenwind.",
                 "hu": "Rövid megálló, tartsa erősen a kormányt az oldalszélben.",
                 "ro": "Oprire scurtă, țineți bine ghidonul în caz de vânt lateral.",
-                "en": "Brief stop; hold the handlebars firmly if there's crosswind."
+                "en": "Brief stop; hold the handlebars firmly if there's crosswind.",
+                "pt": "Paragem breve; segure firmemente no guiador se houver vento lateral."
               }
             },
             {
@@ -1042,7 +1119,8 @@
                 "de": "Vermeiden Sie die Grasflächen, sie verwandeln sich in Schlamm.",
                 "hu": "Kerülje a füves részeket, mert könnyen sártengerré válnak.",
                 "ro": "Evitați zonele cu iarbă, se transformă rapid în noroi.",
-                "en": "Avoid the grassy areas; they turn into mud quickly."
+                "en": "Avoid the grassy areas; they turn into mud quickly.",
+                "pt": "Evite as áreas ajardinadas; tornam-se rapidamente lamaçais."
               }
             },
             {
@@ -1051,7 +1129,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen.",
                 "hu": "Használja a fedett bejáratot a kerékpárok letámasztásához.",
                 "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta.",
-                "en": "Use the covered entrance area to park your bike."
+                "en": "Use the covered entrance area to park your bike.",
+                "pt": "Use a entrada coberta para estacionar a sua bicicleta."
               }
             },
             {
@@ -1060,7 +1139,8 @@
                 "de": "Der Innenhof bietet perfekten Schutz vor einem Schauer.",
                 "hu": "A belső udvar tökéletes védelmet nyújt egy zápor elől.",
                 "ro": "Curtea interioară oferă protecție perfectă împotriva unei averse.",
-                "en": "The inner courtyard provides perfect protection from a shower."
+                "en": "The inner courtyard provides perfect protection from a shower.",
+                "pt": "O pátio interior providencia proteção perfeita de um aguaceiro."
               }
             },
             {
@@ -1069,7 +1149,8 @@
                 "de": "Achten Sie auf Pfützen beim Abbremsen am Brunnen.",
                 "hu": "Ügyeljen a tócsákra a kútnál való fékezéskor.",
                 "ro": "Fiți atenți la bălți când frânați lângă fântână.",
-                "en": "Watch out for puddles when braking near the fountain."
+                "en": "Watch out for puddles when braking near the fountain.",
+                "pt": "Cuidado com as poças ao travar perto da fonte."
               }
             }
           ],
@@ -1097,6 +1178,12 @@
               "Wear a waterproof high-visibility vest for better safety in the rain.",
               "Check your brake pads before riding through the city's hilly streets.",
               "Mudguards are essential in Alentejo rain due to the fine sand."
+            ],
+            "pt": [
+              "Evite as marcações rodoviárias brancas, pois ficam extremamente escorregadias quando molhadas.",
+              "Use um colete impermeável de alta visibilidade para maior segurança na chuva.",
+              "Verifique as pastilhas de travão antes de pedalar pelas ruas íngremes da cidade.",
+              "Guarda-lamas são essenciais na chuva do Alentejo devido à areia fina."
             ]
           }
         },
@@ -1105,7 +1192,8 @@
             "de": "Die klare Winterluft macht das Radfahren in Moura zu einem Genuss. Wir starten frisch am Dr. Santiago Garten und radeln durch die sonnendurchflutete Mouraria. Mittags wärmt eine Pause im Museum die Hände auf. Der Nachmittag führt uns zum Schloss und zum Kloster Convento do Carmo, wo das Licht der tiefstehenden Sonne lange Schatten auf die weißen Mauern wirft.",
             "hu": "A tiszta téli levegő élvezetessé teszi a biciklizést Mourában. Frissen indulunk a Dr. Santiago kerttől, majd áttekerünk a napsütötte Mourarián. Délben a múzeumban melegítjük fel a kezünket. A délután a várhoz és a Convento do Carmo kolostorhoz vezet, ahol az alacsonyan járó nap hosszú árnyékokat vet a fehér falakra.",
             "ro": "Aerul curat de iarnă face pedalatul în Moura o adevărată plăcere. Începem energic la grădina Dr. Santiago și traversăm cartierul Mouraria însorit. La prânz, o pauză la muzeu ne ajută să ne încălzim mâinile. După-amiaza ne duce la castel și la Convento do Carmo, unde soarele creează umbre lungi pe zidurile albe.",
-            "en": "The crisp winter air makes cycling in Moura a delight. We start fresh at Dr. Santiago Garden and ride through the sun-drenched Mouraria. At midday, a break at the museum warms up our hands. The afternoon takes us to the castle and Convento do Carmo, where the low winter sun casts long shadows on the white walls."
+            "en": "The crisp winter air makes cycling in Moura a delight. We start fresh at Dr. Santiago Garden and ride through the sun-drenched Mouraria. At midday, a break at the museum warms up our hands. The afternoon takes us to the castle and Convento do Carmo, where the low winter sun casts long shadows on the white walls.",
+            "pt": "O ar fresco de inverno torna o ciclismo em Moura um prazer. Começamos no Jardim Dr. Santiago e pedalamos pela soalheira Mouraria. Ao meio-dia, uma pausa no museu aquece as mãos. À tarde seguimos para o castelo e o Convento do Carmo, onde o baixo sol de inverno projeta longas sombras nas paredes brancas."
           },
           "stops": [
             {
@@ -1114,7 +1202,8 @@
                 "de": "Die schattigen Wege im Garten können morgens sehr kühl sein.",
                 "hu": "A kert árnyékos ösvényei reggelente nagyon hűvösek lehetnek.",
                 "ro": "Aleile umbrite din grădină pot fi foarte reci dimineața.",
-                "en": "The shaded paths in the garden can be quite chilly in the morning."
+                "en": "The shaded paths in the garden can be quite chilly in the morning.",
+                "pt": "Os caminhos sombreados no jardim podem ser bastante frios pela manhã."
               }
             },
             {
@@ -1123,7 +1212,8 @@
                 "de": "Nutzen Sie die Sonnenstrahlen in den offenen Gassen.",
                 "hu": "Használja ki a napsugarakat a nyitottabb utcákban.",
                 "ro": "Bucurați-vă de razele soarelui pe străzile mai deschise.",
-                "en": "Take advantage of the sunbeams in the wider alleys."
+                "en": "Take advantage of the sunbeams in the wider alleys.",
+                "pt": "Aproveite os raios de sol nas ruas mais largas."
               }
             },
             {
@@ -1132,7 +1222,8 @@
                 "de": "Ein guter Ort für eine kurze Rast im Windschatten der Kirche.",
                 "hu": "Jó hely egy rövid pihenőre a templom szélvédett oldalán.",
                 "ro": "Un loc bun pentru un scurt popas la adăpostul bisericii.",
-                "en": "A good place for a short rest in the lee of the church."
+                "en": "A good place for a short rest in the lee of the church.",
+                "pt": "Um bom lugar para um breve descanso à sombra da igreja."
               }
             },
             {
@@ -1141,7 +1232,8 @@
                 "de": "Das Metallgeländer am Turm ist im Winter eiskalt.",
                 "hu": "A torony fémkorlátja télen jéghideg lehet.",
                 "ro": "Balustrada de metal a turnului este gheață iarna.",
-                "en": "The metal railing on the tower is ice-cold in winter."
+                "en": "The metal railing on the tower is ice-cold in winter.",
+                "pt": "O corrimão metálico na torre fica gelado no inverno."
               }
             },
             {
@@ -1150,7 +1242,8 @@
                 "de": "Die Auffahrt zum Schloss hält den Körper warm.",
                 "hu": "A várba vezető emelkedő segít melegen tartani a testet.",
                 "ro": "Urcarea spre castel vă va ajuta să vă mențineți căldura.",
-                "en": "The ride up to the castle will help keep your body warm."
+                "en": "The ride up to the castle will help keep your body warm.",
+                "pt": "A subida até ao castelo ajudará a manter o corpo quente."
               }
             },
             {
@@ -1159,7 +1252,8 @@
                 "de": "Sperren Sie Ihr Rad gut sichtbar am Eingang ab.",
                 "hu": "Zárja le a biciklit jól látható helyen a bejáratnál.",
                 "ro": "Încuiați bicicleta într-un loc vizibil la intrare.",
-                "en": "Lock your bike in a visible spot near the entrance."
+                "en": "Lock your bike in a visible spot near the entrance.",
+                "pt": "Tranque a sua bicicleta num local visível junto à entrada."
               }
             },
             {
@@ -1168,7 +1262,8 @@
                 "de": "Das weiche Nachmittagslicht im Kreuzgang ist ein Highlight.",
                 "hu": "A kerengőben beszűrődő délutáni fény a túra fénypontja.",
                 "ro": "Lumina blândă a după-amiezii în claustru este superbă.",
-                "en": "The soft afternoon light in the cloister is a tour highlight."
+                "en": "The soft afternoon light in the cloister is a tour highlight.",
+                "pt": "A luz suave da tarde no claustro é um dos destaques do passeio."
               }
             },
             {
@@ -1177,7 +1272,8 @@
                 "de": "Füllen Sie Ihre Trinkflasche für die Rückfahrt auf.",
                 "hu": "Töltse fel a kulacsát a visszaútra a kút friss vizével.",
                 "ro": "Umpleți bidonul cu apă pentru drumul de întoarcere.",
-                "en": "Refill your water bottle for the return trip."
+                "en": "Refill your water bottle for the return trip.",
+                "pt": "Reponha a água na garrafa para a viagem de regresso."
               }
             }
           ],
@@ -1205,6 +1301,12 @@
               "Gloves are necessary for downhill sections on cool winter mornings.",
               "Paths outside the town center can remain damp throughout winter.",
               "Stay hydrated; it is easy to underestimate fluid needs in the cold."
+            ],
+            "pt": [
+              "Use sempre farol dianteiro e traseiro, pois escurece rapidamente após as 17:00.",
+              "Luvas são necessárias nas descidas em manhãs frias de inverno.",
+              "Os caminhos fora do centro podem permanecer húmidos durante todo o inverno.",
+              "Mantenha-se hidratado; é fácil subestimar as necessidades de líquidos no frio."
             ]
           }
         }
@@ -1223,7 +1325,8 @@
             "de": "Burg von Moura",
             "hu": "Moura vára",
             "ro": "Castelul din Moura",
-            "en": "Moura Castle"
+            "en": "Moura Castle",
+            "pt": "Castelo de Moura"
           },
           "coords": [
             -7.444,
@@ -1239,7 +1342,8 @@
             "de": "Parken Sie in der Nähe und beginnen Sie Ihren Tag mit der besten Aussicht. Dies ist der erste Cluster.",
             "hu": "Parkoljon a közelben, és kezdje a napot a legjobb kilátással. Ez az első klaszter.",
             "ro": "Parcați în apropiere și începeți ziua cu cea mai bună priveliște. Acesta este primul cluster.",
-            "en": "Park nearby and start your day with the best views. This is the first cluster."
+            "en": "Park nearby and start your day with the best views. This is the first cluster.",
+            "pt": "Estacione nas proximidades e comece o dia com as melhores vistas. Este é o primeiro agrupamento."
           }
         },
         {
@@ -1247,7 +1351,8 @@
             "de": "Städtisches Museum von Moura",
             "hu": "Városi Múzeum, Moura",
             "ro": "Muzeul Municipal din Moura",
-            "en": "Municipal Museum of Moura"
+            "en": "Municipal Museum of Moura",
+            "pt": "Museu Municipal de Moura"
           },
           "coords": [
             -7.4445,
@@ -1263,7 +1368,8 @@
             "de": "Ein kurzer Spaziergang von der Burg entfernt. Lassen Sie das Auto stehen.",
             "hu": "Rövid séta a vártól. Hagyja az autót.",
             "ro": "La o scurtă plimbare de castel. Lăsați mașina parcată.",
-            "en": "A short walk from the castle. Leave the car parked."
+            "en": "A short walk from the castle. Leave the car parked.",
+            "pt": "A uma curta caminhada do castelo. Deixe o carro estacionado."
           }
         },
         {
@@ -1271,7 +1377,8 @@
             "de": "Karmeliterkloster",
             "hu": "Kármelita kolostor",
             "ro": "Mănăstirea Carmo",
-            "en": "Convento do Carmo"
+            "en": "Convento do Carmo",
+            "pt": "Convento do Carmo"
           },
           "coords": [
             -7.442,
@@ -1287,7 +1394,8 @@
             "de": "Auch dieser Ort ist Teil des ersten Clusters und zu Fuß erreichbar.",
             "hu": "Ez a hely is az első klaszter része, gyalogosan elérhető.",
             "ro": "Acest loc face, de asemenea, parte din primul cluster și este accesibil pe jos.",
-            "en": "This place is also part of the first cluster and reachable on foot."
+            "en": "This place is also part of the first cluster and reachable on foot.",
+            "pt": "Este local também faz parte do primeiro agrupamento e é acessível a pé."
           }
         },
         {
@@ -1295,7 +1403,8 @@
             "de": "Viertel Mouraria",
             "hu": "Mouraria negyed",
             "ro": "Cartierul Mouraria",
-            "en": "Mouraria Quarter"
+            "en": "Mouraria Quarter",
+            "pt": "Bairro da Mouraria"
           },
           "coords": [
             -7.4485,
@@ -1311,7 +1420,8 @@
             "de": "Fahren Sie zum zweiten Cluster. Parken Sie und erkunden Sie die Altstadt und essen Sie zu Mittag.",
             "hu": "Vezessen a második klaszterhez. Parkoljon le, fedezze fel az óvárost és ebédeljen.",
             "ro": "Conduceți spre al doilea cluster. Parcați, explorați orașul vechi și luați prânzul.",
-            "en": "Drive to the second cluster. Park, explore the old town, and have lunch."
+            "en": "Drive to the second cluster. Park, explore the old town, and have lunch.",
+            "pt": "Conduza até ao segundo agrupamento. Estacione, explore a cidade velha e almoce."
           }
         },
         {
@@ -1319,7 +1429,8 @@
             "de": "Kirche des Heiligen Johannes des Täufers",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Church of Saint John the Baptist"
+            "en": "Church of Saint John the Baptist",
+            "pt": "Igreja de São João Baptista"
           },
           "coords": [
             -7.4468,
@@ -1335,7 +1446,8 @@
             "de": "Vom Herzen von Mouraria aus leicht zu Fuß erreichbar.",
             "hu": "Mouraria szívéből könnyen elérhető gyalog.",
             "ro": "Ușor accesibil pe jos din inima cartierului Mouraria.",
-            "en": "Easily walkable from the heart of Mouraria."
+            "en": "Easily walkable from the heart of Mouraria.",
+            "pt": "Facilmente acessível a pé a partir do coração da Mouraria."
           }
         },
         {
@@ -1343,7 +1455,8 @@
             "de": "Garten Dr. Santiago",
             "hu": "Dr. Santiago kert",
             "ro": "Grădina Dr. Santiago",
-            "en": "Dr. Santiago Garden"
+            "en": "Dr. Santiago Garden",
+            "pt": "Jardim Dr. Santiago"
           },
           "coords": [
             -7.4498,
@@ -1359,7 +1472,8 @@
             "de": "Beenden Sie den Tag entspannt in diesem schönen Garten, der sich im zweiten Cluster befindet.",
             "hu": "Zárja a napot pihenéssel ebben a szép kertben, a második klaszterben.",
             "ro": "Încheiați ziua relaxându-vă în această grădină frumoasă, situată în al doilea cluster.",
-            "en": "End the day relaxing in this beautiful garden, located in the second cluster."
+            "en": "End the day relaxing in this beautiful garden, located in the second cluster.",
+            "pt": "Termine o dia a relaxar neste belo jardim, localizado no segundo agrupamento."
           }
         }
       ],
@@ -1367,7 +1481,8 @@
         "de": "Fahren Sie zum ersten Cluster auf dem Burghügel für tolle Aussichten und Museen. Am Nachmittag fahren Sie ins Zentrum, parken erneut und erkunden das Mouraria-Viertel und die Gärten zu Fuß. Genießen Sie ein spätes Mittagessen in der Altstadt.",
         "hu": "Vezessen az első klaszterhez a várhegyen a remek kilátásért és a múzeumokért. Délután vezessen a központba, parkoljon újra, és fedezze fel gyalog a Mouraria negyedet és a kerteket. Élvezzen egy késői ebédet az óvárosban.",
         "ro": "Conduceți la primul cluster de pe dealul castelului pentru priveliști minunate și muzee. După-amiaza, conduceți în centru, parcați din nou și explorați cartierul Mouraria și grădinile pe jos. Savurați un prânz târziu în orașul vechi.",
-        "en": "Drive to the first cluster on the castle hill for great views and museums. In the afternoon, drive to the center, park again, and explore the Mouraria quarter and gardens on foot. Enjoy a late lunch in the old town."
+        "en": "Drive to the first cluster on the castle hill for great views and museums. In the afternoon, drive to the center, park again, and explore the Mouraria quarter and gardens on foot. Enjoy a late lunch in the old town.",
+        "pt": "Conduza até ao primeiro agrupamento na colina do castelo para ótimas vistas e museus. À tarde, dirija-se ao centro, estacione novamente e explore a Mouraria e os jardins a pé. Desfrute de um almoço tardio na cidade velha."
       },
       "gastro_picks": {
         "de": [
@@ -1563,6 +1678,12 @@
           "Plan your route between clusters to save time.",
           "A car allows you to easily explore the surrounding countryside as well.",
           "Be mindful of narrow streets in the historic quarters."
+        ],
+        "pt": [
+          "O estacionamento pode ser difícil no centro; procure parques de estacionamento designados.",
+          "Planeie a sua rota entre os agrupamentos para poupar tempo.",
+          "Um carro permite explorar facilmente o campo envolvente.",
+          "Tenha atenção às ruas estreitas nos bairros históricos."
         ]
       },
       "variants": {
@@ -1571,7 +1692,8 @@
             "de": "Moura bei Regen lässt sich bequem mit dem Auto erkunden. Wir parken nahe dem Schloss und dem Museum, um kurze Wege im Freien zu haben. Mittags besuchen wir das Convento do Carmo, wo der Parkplatz direkt am Eingang liegt. Am Nachmittag führt die Fahrt durch die Mouraria und zur Kirche São João Baptista, bevor wir den Tag am Garten Dr. Santiago ausklingen lassen.",
             "hu": "Az esős Moura kényelmesen felfedezhető autóval. A vár és a múzeum közelében parkolunk, hogy minimalizáljuk a kinti sétát. Délben a Convento do Carmo kolostort látogatjuk meg, ahol közvetlen parkoló van. Délután a Mouraria és a Keresztelő Szent János-templom következik, végül a Dr. Santiago kertnél zárunk.",
             "ro": "Moura pe ploaie poate fi explorată confortabil cu mașina. Parcăm aproape de castel și muzeu pentru a scurta mersul prin ploaie. La prânz vizităm Convento do Carmo, unde parcarea este chiar la intrare. După-amiaza trecem prin Mouraria și pe la biserică, terminând ziua la grădina Dr. Santiago.",
-            "en": "Rainy Moura can be comfortably explored by car. We park near the castle and the museum to minimize outdoor walking. At midday, we visit Convento do Carmo, where parking is available right at the entrance. In the afternoon, the drive takes us through Mouraria and to the church, ending the day at Dr. Santiago Garden."
+            "en": "Rainy Moura can be comfortably explored by car. We park near the castle and the museum to minimize outdoor walking. At midday, we visit Convento do Carmo, where parking is available right at the entrance. In the afternoon, the drive takes us through Mouraria and to the church, ending the day at Dr. Santiago Garden.",
+            "pt": "A chuvosa Moura pode ser confortavelmente explorada de carro. Estacionamos perto do castelo e do museu para minimizar as caminhadas ao ar livre. Ao meio-dia visitamos o Convento do Carmo, onde há estacionamento mesmo à entrada. À tarde, o percurso leva-nos pela Mouraria e até à igreja, terminando o dia no Jardim Dr. Santiago."
           },
           "stops": [
             {
@@ -1580,7 +1702,8 @@
                 "de": "Parken Sie am Largo de Santa Maria für den kürzesten Weg.",
                 "hu": "Parkoljon a Largo de Santa Maria téren a legrövidebb sétához.",
                 "ro": "Parcați în Largo de Santa Maria pentru cel mai scurt drum.",
-                "en": "Park at Largo de Santa Maria for the shortest walk to the castle."
+                "en": "Park at Largo de Santa Maria for the shortest walk to the castle.",
+                "pt": "Estacione no Largo de Santa Maria para a caminhada mais curta até ao castelo."
               }
             },
             {
@@ -1589,7 +1712,8 @@
                 "de": "Nutzen Sie den Parkplatz an der Rua da República.",
                 "hu": "Használja a Rua da República menti parkolóhelyeket.",
                 "ro": "Folosiți locurile de parcare de pe Rua da República.",
-                "en": "Use the parking spaces along Rua da República."
+                "en": "Use the parking spaces along Rua da República.",
+                "pt": "Use os lugares de estacionamento ao longo da Rua da República."
               }
             },
             {
@@ -1598,7 +1722,8 @@
                 "de": "Direkte Zufahrt möglich, ideal bei starkem Regen.",
                 "hu": "Közvetlen behajtás lehetséges, ideális heves esőzéskor.",
                 "ro": "Acces direct posibil, ideal în caz de ploaie torențială.",
-                "en": "Direct access is possible, ideal during heavy downpours."
+                "en": "Direct access is possible, ideal during heavy downpours.",
+                "pt": "Acesso direto é possível, ideal durante aguaceiros fortes."
               }
             },
             {
@@ -1607,7 +1732,8 @@
                 "de": "Einige Gassen sind für Autos gesperrt, parken Sie am Rand.",
                 "hu": "Néhány utca le van zárva az autók elől, parkoljon a szélén.",
                 "ro": "Unele străzi sunt pietonale, parcați la marginea cartierului.",
-                "en": "Some alleys are closed to cars; park on the outskirts of the quarter."
+                "en": "Some alleys are closed to cars; park on the outskirts of the quarter.",
+                "pt": "Algumas ruelas são fechadas a carros; estacione na periferia do bairro."
               }
             },
             {
@@ -1616,7 +1742,8 @@
                 "de": "Kurzes Halten zum Aussteigen vor dem Portal möglich.",
                 "hu": "Rövid megállás a kiszálláshoz a kapu előtt lehetséges.",
                 "ro": "Oprire scurtă pentru debarcare posibilă în fața portalului.",
-                "en": "A brief stop for drop-off is possible in front of the portal."
+                "en": "A brief stop for drop-off is possible in front of the portal.",
+                "pt": "É possível uma breve paragem para deixada em frente ao portal."
               }
             },
             {
@@ -1625,7 +1752,8 @@
                 "de": "Parken Sie an der Praça Gago Coutinho für einfachen Zugang.",
                 "hu": "Parkoljon a Praça Gago Coutinho téren a könnyű bejutáshoz.",
                 "ro": "Parcați în Praça Gago Coutinho pentru acces ușor.",
-                "en": "Park at Praça Gago Coutinho for easy access to the garden."
+                "en": "Park at Praça Gago Coutinho for easy access to the garden.",
+                "pt": "Estacione na Praça Gago Coutinho para fácil acesso ao jardim."
               }
             }
           ],
@@ -1653,6 +1781,12 @@
               "Use parking lots on the edge of the center to avoid congestion.",
               "Watch out for pedestrians with umbrellas in tight corners.",
               "Visibility can decrease abruptly during heavy Alentejo rainstorms."
+            ],
+            "pt": [
+              "Evite conduzir às ruelas mais interiores da Mouraria (extremamente estreitas).",
+              "Use parques na periferia do centro para evitar congestionamentos.",
+              "Cuidado com peões com guarda-chuvas nas curvas apertadas.",
+              "A visibilidade pode diminuir abruptamente durante trovoadas intensas no Alentejo."
             ]
           }
         },
@@ -1661,7 +1795,8 @@
             "de": "Die Wintersonne im Alentejo macht die Autofahrt durch Moura besonders reizvoll. Wir starten am Schloss und genießen die Aussicht, bevor wir zum Museum weiterfahren. Mittags führt uns die Route zum Convento do Carmo. Am Nachmittag erkunden wir die Mouraria zu Fuß (Parken am Rand) und besuchen die Kirche, bevor wir den Sonnenuntergang am Garten Dr. Santiago erleben.",
             "hu": "Az alentejói téli napsütés különlegessé teszi az autózást Mourában. A várnál kezdünk a kilátással, majd a múzeumhoz hajtunk. Délben a Convento do Carmo kolostor az úticél. Délután a Mourariát gyalog fedezzük fel (szélen parkolva), majd a templom után a Dr. Santiago kertnél nézzük a naplementét.",
             "ro": "Soarele de iarnă din Alentejo face drumul prin Moura foarte plăcut. Începem la castel pentru panoramă, apoi mergem la muzeu. La prânz destinația este Convento do Carmo. După-amiaza explorăm Mouraria pe jos (parcând la margine) și biserica, terminând la grădina Dr. Santiago.",
-            "en": "The winter sun in Alentejo makes driving through Moura particularly scenic. We start at the castle for the views before heading to the museum. At midday, our route takes us to Convento do Carmo. In the afternoon, we explore Mouraria on foot (parking on the edge) and visit the church, finishing with the sunset at Dr. Santiago Garden."
+            "en": "The winter sun in Alentejo makes driving through Moura particularly scenic. We start at the castle for the views before heading to the museum. At midday, our route takes us to Convento do Carmo. In the afternoon, we explore Mouraria on foot (parking on the edge) and visit the church, finishing with the sunset at Dr. Santiago Garden.",
+            "pt": "O sol de inverno no Alentejo torna a condução por Moura particularmente pitoresca. Começamos no castelo pelas vistas antes de nos dirigirmos ao museu. Ao meio-dia, o nosso roteiro passa pelo Convento do Carmo. À tarde, exploramos a Mouraria a pé (estacionando na periferia) e visitamos a igreja, terminando com o pôr do sol no Jardim Dr. Santiago."
           },
           "stops": [
             {
@@ -1670,7 +1805,8 @@
                 "de": "Die Auffahrt ist im Winter bei klarem Himmel wunderschön.",
                 "hu": "A várba vezető út télen, tiszta égbolt mellett gyönyörű.",
                 "ro": "Urcarea spre castel este superbă iarna pe cer senin.",
-                "en": "The drive up to the castle is beautiful on clear winter days."
+                "en": "The drive up to the castle is beautiful on clear winter days.",
+                "pt": "A subida até ao castelo é bonita em dias claros de inverno."
               }
             },
             {
@@ -1679,7 +1815,8 @@
                 "de": "Ausreichend Parkplätze in der Nähe in der Nebensaison.",
                 "hu": "Szezonon kívül bőségesen akad parkolóhely a közelben.",
                 "ro": "Locuri de parcare suficiente în apropiere în extrasezon.",
-                "en": "Plenty of parking spaces available nearby during the off-season."
+                "en": "Plenty of parking spaces available nearby during the off-season.",
+                "pt": "Existem muitos lugares de estacionamento disponíveis nas proximidades durante a época baixa."
               }
             },
             {
@@ -1688,7 +1825,8 @@
                 "de": "Die Parkplätze im Schatten sind im Winter kein Problem.",
                 "hu": "Az árnyékos parkolóhelyek télen nem jelentenek gondot.",
                 "ro": "Locurile de parcare la umbră nu sunt o problemă iarna.",
-                "en": "Shaded parking spots are not an issue during winter."
+                "en": "Shaded parking spots are not an issue during winter.",
+                "pt": "Os lugares de estacionamento sombreados não são um problema durante o inverno."
               }
             },
             {
@@ -1697,7 +1835,8 @@
                 "de": "Lassen Sie das Auto stehen und genießen Sie den Spaziergang.",
                 "hu": "Hagyja az autót a szélen, és élvezze a sétát a negyedben.",
                 "ro": "Lăsați mașina și bucurați-vă de plimbarea prin cartier.",
-                "en": "Leave the car and enjoy a walk through the historic quarter."
+                "en": "Leave the car and enjoy a walk through the historic quarter.",
+                "pt": "Deixe o carro e desfrute de uma caminhada pelo bairro histórico."
               }
             },
             {
@@ -1706,7 +1845,8 @@
                 "de": "Gute Beleuchtung der Kirche in der frühen Dämmerung.",
                 "hu": "A templom jó megvilágítást kap a korai szürkületben.",
                 "ro": "Biserica este bine iluminată în amurgul timpuriu.",
-                "en": "The church is well-lit during the early winter twilight."
+                "en": "The church is well-lit during the early winter twilight.",
+                "pt": "A igreja está bem iluminada durante o crepúsculo do início do inverno."
               }
             },
             {
@@ -1715,7 +1855,8 @@
                 "de": "Perfekter Ort, um das Auto vor der Heimfahrt zu parken.",
                 "hu": "Tökéletes hely az autó leállítására a hazaindulás előtt.",
                 "ro": "Loc perfect pentru a parca mașina înainte de plecare.",
-                "en": "A perfect place to park the car before heading home."
+                "en": "A perfect place to park the car before heading home.",
+                "pt": "Um local perfeito para estacionar o carro antes de regressar a casa."
               }
             }
           ],
@@ -1743,6 +1884,12 @@
               "Mornings may bring frost on the cobblestone streets.",
               "Driving in the city is much more relaxed during the winter months.",
               "Check your tire pressure; temperature changes can affect it."
+            ],
+            "pt": [
+              "O sol de inverno pode estar muito baixo; use o visor solar ao conduzir.",
+              "As manhãs podem trazer geada nas ruas de calçada.",
+              "Conduzir na cidade é muito mais relaxado durante os meses de inverno.",
+              "Verifique a pressão dos pneus; as mudanças de temperatura podem afetá‑la."
             ]
           }
         }
@@ -1761,7 +1908,8 @@
             "de": "Zentraler Busbahnhof",
             "hu": "Központi buszpályaudvar",
             "ro": "Autogara Centrală",
-            "en": "Central Bus Station"
+            "en": "Central Bus Station",
+            "pt": "Estação Rodoviária Central"
           },
           "coords": [
             -7.451,
@@ -1777,7 +1925,8 @@
             "de": "Beginnen Sie Ihren Tag hier. Der erste Cluster ist nur einen kurzen Spaziergang entfernt.",
             "hu": "Kezdje a napot itt. Az első klaszter csak egy rövid sétára van.",
             "ro": "Începeți ziua aici. Primul cluster este la o scurtă plimbare.",
-            "en": "Start your day here. The first cluster is a short walk away."
+            "en": "Start your day here. The first cluster is a short walk away.",
+            "pt": "Comece o seu dia aqui. O primeiro agrupamento fica a uma curta caminhada."
           }
         },
         {
@@ -1785,7 +1934,8 @@
             "de": "Viertel Mouraria",
             "hu": "Mouraria negyed",
             "ro": "Cartierul Mouraria",
-            "en": "Mouraria Quarter"
+            "en": "Mouraria Quarter",
+            "pt": "Bairro da Mouraria"
           },
           "coords": [
             -7.4485,
@@ -1801,7 +1951,8 @@
             "de": "Erkunden Sie das Labyrinth der Gassen, bevor Sie weitergehen.",
             "hu": "Fedezze fel az utcák labirintusát, mielőtt továbbmenne.",
             "ro": "Explorați labirintul de străduțe înainte de a merge mai departe.",
-            "en": "Explore the labyrinth of alleys before moving on."
+            "en": "Explore the labyrinth of alleys before moving on.",
+            "pt": "Explore o labirinto de ruelas antes de seguir em frente."
           }
         },
         {
@@ -1809,7 +1960,8 @@
             "de": "Kirche des Heiligen Johannes des Täufers",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Church of Saint John the Baptist"
+            "en": "Church of Saint John the Baptist",
+            "pt": "Igreja de São João Baptista"
           },
           "coords": [
             -7.4468,
@@ -1825,7 +1977,8 @@
             "de": "Ein kurzer Spaziergang durch die Altstadt führt Sie zu dieser beeindruckenden Kirche.",
             "hu": "Egy rövid séta az óvárosban elvezeti ehhez a lenyűgöző templomhoz.",
             "ro": "O scurtă plimbare prin orașul vechi vă va duce la această biserică impresionantă.",
-            "en": "A short walk through the old town will lead you to this impressive church."
+            "en": "A short walk through the old town will lead you to this impressive church.",
+            "pt": "Uma curta caminhada pela cidade velha leva-o a esta impressionante igreja."
           }
         },
         {
@@ -1833,7 +1986,8 @@
             "de": "Burg von Moura",
             "hu": "Moura vára",
             "ro": "Castelul din Moura",
-            "en": "Moura Castle"
+            "en": "Moura Castle",
+            "pt": "Castelo de Moura"
           },
           "coords": [
             -7.444,
@@ -1849,7 +2003,8 @@
             "de": "Nehmen Sie einen lokalen Bus zum zweiten Cluster am Burghügel.",
             "hu": "Vegyen egy helyi buszt a második klaszterhez a várhegyen.",
             "ro": "Luați un autobuz local spre al doilea cluster, pe dealul castelului.",
-            "en": "Take a local bus to the second cluster on the castle hill."
+            "en": "Take a local bus to the second cluster on the castle hill.",
+            "pt": "Apanhe um autocarro local até ao segundo agrupamento na colina do castelo."
           }
         },
         {
@@ -1857,7 +2012,8 @@
             "de": "Städtisches Museum von Moura",
             "hu": "Városi Múzeum, Moura",
             "ro": "Muzeul Municipal din Moura",
-            "en": "Municipal Museum of Moura"
+            "en": "Municipal Museum of Moura",
+            "pt": "Museu Municipal de Moura"
           },
           "coords": [
             -7.4445,
@@ -1873,7 +2029,8 @@
             "de": "Gehen Sie von der Burg zum Museum, um mehr über die Geschichte zu erfahren.",
             "hu": "Sétáljon a vártól a múzeumig, hogy többet tudjon meg a történelemről.",
             "ro": "Mergeți pe jos de la castel la muzeu pentru a afla mai multe despre istorie.",
-            "en": "Walk down from the castle to the museum to learn about history."
+            "en": "Walk down from the castle to the museum to learn about history.",
+            "pt": "Desça a pé do castelo até ao museu para conhecer a história."
           }
         },
         {
@@ -1881,7 +2038,8 @@
             "de": "Jardim Dr. Santiago",
             "hu": "Dr. Santiago kert",
             "ro": "Grădina Dr. Santiago",
-            "en": "Dr. Santiago Garden"
+            "en": "Dr. Santiago Garden",
+            "pt": "Jardim Dr. Santiago"
           },
           "coords": [
             -7.4498,
@@ -1897,7 +2055,8 @@
             "de": "Nehmen Sie einen Bus zurück ins Zentrum, um sich im Garten zu entspannen.",
             "hu": "Menjen busszal vissza a központba, hogy pihenjen a kertben.",
             "ro": "Luați un autobuz înapoi în centru pentru a vă relaxa în grădină.",
-            "en": "Take a bus back towards the center to relax in the garden."
+            "en": "Take a bus back towards the center to relax in the garden.",
+            "pt": "Apanhe um autocarro de volta para o centro para relaxar no jardim."
           }
         }
       ],
@@ -1905,7 +2064,8 @@
         "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch den Mouraria-Cluster. Nehmen Sie dann einen Bus zum Burghügel, um den zweiten Cluster mit Burg und Museum zu erkunden. Beenden Sie den Tag, indem Sie einen Bus zurück zum zentralen Gartencluster nehmen, um sich zu entspannen.",
         "hu": "Kezdje a napot egy sétával a Mouraria klaszterben. Ezután busszal menjen a várhegyre, hogy felfedezze a második klasztert a várral és a múzeummal. A nap végén busszal térjen vissza a központi kerti klaszterhez pihenni.",
         "ro": "Începeți ziua cu o plimbare prin clusterul Mouraria. Apoi, luați un autobuz până pe dealul castelului pentru a explora al doilea cluster, cu castelul și muzeul. Încheiați ziua luând un autobuz înapoi la clusterul central al grădinii pentru relaxare.",
-        "en": "Start your day with a walk through the Mouraria cluster. Then take a bus to the castle hill to explore the second cluster with the castle and museum. End the day by taking a bus back to the central garden cluster for relaxation."
+        "en": "Start your day with a walk through the Mouraria cluster. Then take a bus to the castle hill to explore the second cluster with the castle and museum. End the day by taking a bus back to the central garden cluster for relaxation.",
+        "pt": "Comece o dia com uma caminhada pelo agrupamento da Mouraria. Depois apanhe um autocarro até à colina do castelo para explorar o segundo agrupamento com o castelo e o museu. Termine o dia apanhando um autocarro de volta ao agrupamento central do jardim para relaxar."
       },
       "gastro_picks": {
         "de": [
@@ -2104,6 +2264,12 @@
           "Purchase a day pass if available.",
           "Be aware that buses may not reach all the small alleys.",
           "Be prepared for some walking between bus stops and the sights."
+        ],
+        "pt": [
+          "Consulte o horário dos autocarros com antecedência, pois os serviços podem ser pouco frequentes.",
+          "Compre um passe diário se estiver disponível.",
+          "Tenha em conta que os autocarros podem não chegar a todas as pequenas ruelas.",
+          "Prepare-se para alguma caminhada entre as paragens e os pontos de interesse."
         ]
       },
       "variants": {
@@ -2112,7 +2278,8 @@
             "de": "Moura mit dem Bus bei Regen erfordert eine gute Zeitplanung. Vom Busbahnhof aus erreichen wir schnell die Mouraria. Mittags nutzen wir den Aufenthalt im Museum, um dem Regen zu entkommen. Der Nachmittag ist dem Schloss und der Kirche gewidmet, wobei die Haltestellen im Zentrum kurze Wege garantieren. Der Tag endet am Garten Dr. Santiago, bevor der letzte Bus fährt.",
             "hu": "Az esős Moura felfedezése busszal pontos időzítést igényel. A buszpályaudvartól gyorsan elérjük a Mourariát. Délben a múzeumban töltött idő segít elkerülni a záporokat. A délután a váré és a templomé, a központi megállók pedig garantálják a rövid gyaloglást. A nap a Dr. Santiago kertnél zárul az utolsó busz indulása előtt.",
             "ro": "Explorarea orașului Moura cu autobuzul pe ploaie necesită o planificare bună. De la autogară ajungem rapid în Mouraria. La prânz, timpul petrecut la muzeu ne ajută să evităm ploaia. După-amiaza este dedicată castelului și bisericii, stațiile centrale garantând drumuri scurte. Ziua se încheie la grădina Dr. Santiago.",
-            "en": "Exploring Moura by bus in the rain requires good timing. From the bus station, we quickly reach Mouraria. At midday, time spent in the museum helps avoid the showers. The afternoon is dedicated to the castle and the church, with central stops ensuring short walks. The day ends at Dr. Santiago Garden before the last bus departs."
+            "en": "Exploring Moura by bus in the rain requires good timing. From the bus station, we quickly reach Mouraria. At midday, time spent in the museum helps avoid the showers. The afternoon is dedicated to the castle and the church, with central stops ensuring short walks. The day ends at Dr. Santiago Garden before the last bus departs.",
+            "pt": "Explorar Moura de autocarro na chuva requer bom planeamento. Da estação, chegamos rapidamente à Mouraria. Ao meio-dia, passar tempo no museu ajuda a evitar as chuvadas. A tarde é dedicada ao castelo e à igreja, com paragens centrais que garantem curtas caminhadas. O dia termina no Jardim Dr. Santiago antes da partida do último autocarro."
           },
           "stops": [
             {
@@ -2121,7 +2288,8 @@
                 "de": "Überdachter Wartebereich vorhanden, ideal bei Regen.",
                 "hu": "Fedett váróterem áll rendelkezésre, ideális esőben.",
                 "ro": "Zonă de așteptare acoperită disponibilă, ideală pe ploaie.",
-                "en": "Covered waiting area available, ideal during rain."
+                "en": "Covered waiting area available, ideal during rain.",
+                "pt": "Área de espera coberta disponível, ideal durante a chuva."
               }
             },
             {
@@ -2130,7 +2298,8 @@
                 "de": "Die Haltestelle ist nur 5 Gehminuten entfernt.",
                 "hu": "A megálló mindössze 5 perc sétára található.",
                 "ro": "Stația este la doar 5 minute de mers pe jos.",
-                "en": "The stop is only a 5-minute walk away."
+                "en": "The stop is only a 5-minute walk away.",
+                "pt": "A paragem fica apenas a 5 minutos a pé."
               }
             },
             {
@@ -2139,7 +2308,8 @@
                 "de": "Suchen Sie Schutz in der Nähe der Haltestelle am Praça.",
                 "hu": "Keressen menedéket a Praça melletti megálló közelében.",
                 "ro": "Căutați adăpost lângă stația din Praça.",
-                "en": "Seek shelter near the stop at the Praça."
+                "en": "Seek shelter near the stop at the Praça.",
+                "pt": "Procure abrigo perto da paragem na Praça."
               }
             },
             {
@@ -2148,7 +2318,8 @@
                 "de": "Der Weg von der Haltestelle zum Tor ist ungeschützt.",
                 "hu": "A megállótól a várkapuig vezető út nincs fedve.",
                 "ro": "Drumul de la stație până la poarta cetății nu este acoperit.",
-                "en": "The path from the stop to the castle gate is exposed."
+                "en": "The path from the stop to the castle gate is exposed.",
+                "pt": "O caminho da paragem até ao portão do castelo está exposto."
               }
             },
             {
@@ -2157,7 +2328,8 @@
                 "de": "Perfekt für eine längere Pause zwischen zwei Busverbindungen.",
                 "hu": "Tökéletes egy hosszabb szünetre két buszjárat között.",
                 "ro": "Perfect pentru o pauză mai lungă între două autobuze.",
-                "en": "Perfect for a longer break between bus connections."
+                "en": "Perfect for a longer break between bus connections.",
+                "pt": "Perfeito para uma pausa mais longa entre ligações de autocarro."
               }
             },
             {
@@ -2166,7 +2338,8 @@
                 "de": "Die Haltestelle liegt direkt am Eingang des Parks.",
                 "hu": "A megálló közvetlenül a park bejáratánál található.",
                 "ro": "Stația este chiar la intrarea în parc.",
-                "en": "The stop is located right at the park entrance."
+                "en": "The stop is located right at the park entrance.",
+                "pt": "A paragem situa-se mesmo na entrada do parque."
               }
             }
           ],
@@ -2194,6 +2367,12 @@
               "Have small change ready for tickets in case of machine issues.",
               "Buses in Alentejo are often well-heated, ideal for drying off.",
               "Use the local transit app for real-time arrival information."
+            ],
+            "pt": [
+              "Consulte o horário para dias de chuva, pois algumas linhas podem ter menos frequência.",
+              "Tenha trocado para os bilhetes caso haja problemas nas máquinas.",
+              "Os autocarros no Alentejo costumam ser bem aquecidos, ideais para secar-se.",
+              "Use a aplicação de transportes local para informação em tempo real das chegadas."
             ]
           }
         },
@@ -2202,7 +2381,8 @@
             "de": "Moura im Winterlicht lässt sich entspannt mit dem Transit entdecken. Wir starten am Busbahnhof und tauchen in die Mouraria ein. Mittags wärmt der Museumsbesuch auf. Am Nachmittag genießen wir die klare Sicht am Schloss und besuchen die Kirche São João Baptista. Der Tag endet im Garten Dr. Santiago, wo wir die winterliche Ruhe genießen, bevor der Bus uns zurückbringt.",
             "hu": "A téli fényekben úszó Moura felfedezése kényelmes tömegközlekedéssel. A pályaudvartól indulva merülünk el a Mourariában. Délben a múzeumlátogatás segít felmelegedni. Délután a várnál élvezzük a kilátást, majd a Keresztelő Szent János-templomot nézzük meg. A nap a Dr. Santiago kertben zárul a téli nyugalom jegyében.",
             "ro": "Descoperirea orașului Moura în lumina iernii cu transportul public. Pornim de la autogară și explorăm cartierul Mouraria. La prânz, vizita la muzeu ne încălzește. După-amiaza admirăm panorama de la castel și vizităm biserica. Ziua se încheie în grădina Dr. Santiago, bucurându-ne de liniștea iernii.",
-            "en": "Discovering Moura in winter light is relaxing with public transit. We start at the bus station and dive into Mouraria. At midday, the museum visit helps us warm up. In the afternoon, we enjoy the clear views at the castle and visit the church. The day ends in Dr. Santiago Garden, soaking in the winter tranquility before the bus takes us back."
+            "en": "Discovering Moura in winter light is relaxing with public transit. We start at the bus station and dive into Mouraria. At midday, the museum visit helps us warm up. In the afternoon, we enjoy the clear views at the castle and visit the church. The day ends in Dr. Santiago Garden, soaking in the winter tranquility before the bus takes us back.",
+            "pt": "Descobrir Moura à luz de inverno é relaxante com transporte público. Começamos na estação de autocarros e mergulhamos na Mouraria. Ao meio-dia, a visita ao museu ajuda a aquecer-nos. À tarde, apreciamos as vistas límpidas no castelo e visitamos a igreja. O dia termina no Jardim Dr. Santiago, absorvendo a tranquilidade invernal antes do autocarro nos levar de volta."
           },
           "stops": [
             {
@@ -2211,7 +2391,8 @@
                 "de": "Holen Sie sich einen Kaffee am Kiosk zum Aufwärmen.",
                 "hu": "Igyon egy kávét a kioszknál a felmelegedéshez.",
                 "ro": "Luați o cafea de la chioșc pentru a vă încălzi.",
-                "en": "Grab a coffee at the kiosk to warm up while waiting."
+                "en": "Grab a coffee at the kiosk to warm up while waiting.",
+                "pt": "Pega um café no quiosque para te aqueceres enquanto esperas."
               }
             },
             {
@@ -2220,7 +2401,8 @@
                 "de": "Die Busfahrt durch die Außenbezirke zeigt das lokale Leben.",
                 "hu": "A buszozás a külvárosi részeken át betekintést ad a helyi életbe.",
                 "ro": "Călătoria cu autobuzul prin suburbii arată viața locală.",
-                "en": "The bus ride through the outskirts offers a glimpse of local life."
+                "en": "The bus ride through the outskirts offers a glimpse of local life.",
+                "pt": "A viagem de autocarro pelos arredores oferece um vislumbre da vida local."
               }
             },
             {
@@ -2229,7 +2411,8 @@
                 "de": "Zentrale Haltestelle, ideal für einen schnellen Besuch.",
                 "hu": "Központi megálló, ideális egy gyors látogatáshoz.",
                 "ro": "Stație centrală, ideală pentru o vizită rapidă.",
-                "en": "Central stop, ideal for a quick visit to the church."
+                "en": "Central stop, ideal for a quick visit to the church.",
+                "pt": "Paragem central, ideal para uma visita rápida à igreja."
               }
             },
             {
@@ -2238,7 +2421,8 @@
                 "de": "Planen Sie den Rückweg zur Haltestelle vor der Dunkelheit.",
                 "hu": "Tervezze meg a visszautat a megállóhoz sötétedés előtt.",
                 "ro": "Planificați întoarcerea la stație înainte de lăsarea serii.",
-                "en": "Plan your walk back to the stop before it gets dark."
+                "en": "Plan your walk back to the stop before it gets dark.",
+                "pt": "Planeia a caminhada de regresso à paragem antes de começar a escurecer."
               }
             },
             {
@@ -2247,7 +2431,8 @@
                 "de": "Ein kultureller Stopp, der gut in den Fahrplan passt.",
                 "hu": "Kulturális megálló, amely jól illeszkedik a menetrendbe.",
                 "ro": "O oprire culturală care se potrivește bine cu programul.",
-                "en": "A cultural stop that fits well into the bus schedule."
+                "en": "A cultural stop that fits well into the bus schedule.",
+                "pt": "Uma paragem cultural que encaixa bem no horário dos autocarros."
               }
             },
             {
@@ -2256,7 +2441,8 @@
                 "de": "Die letzte Haltestelle vor der Rückkehr zum Bahnhof.",
                 "hu": "Az utolsó megálló a pályaudvarra való visszatérés előtt.",
                 "ro": "Ultima stație înainte de întoarcerea la autogară.",
-                "en": "The final stop before returning to the main station."
+                "en": "The final stop before returning to the main station.",
+                "pt": "A última paragem antes de regressar à estação principal."
               }
             }
           ],
@@ -2284,6 +2470,12 @@
               "In the evening hours, bus lighting might be dimmer.",
               "Some bus lines end their service around 18:30 during winter.",
               "Dress warmly for the waiting periods at the bus stops."
+            ],
+            "pt": [
+              "Os autocarros são muitas vezes mais pontuais no inverno devido ao menor tráfego turístico.",
+              "Nas horas da noite, a iluminação dos autocarros pode ser mais ténue.",
+              "Algumas linhas de autocarro encerram o serviço por volta das 18:30 durante o inverno.",
+              "Veste-te bem para os períodos de espera nas paragens de autocarro."
             ]
           }
         }

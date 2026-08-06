@@ -21,7 +21,8 @@
             "de": "Largo de Camões",
             "hu": "Largo de Camões",
             "ro": "Largo de Camões",
-            "en": "Largo de Camões"
+            "en": "Largo de Camões",
+            "pt": "Largo de Camões"
           },
           "coords": [
             -8.583,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Treiben der Stadt.",
             "hu": "Indítsa a napot egy kávéval, és figyelje a város ébredését ezen a téren.",
             "ro": "Începeți ziua aici cu o cafea, observând viața orașului.",
-            "en": "Start your day here with a coffee and watch the town come to life."
+            "en": "Start your day here with a coffee and watch the town come to life.",
+            "pt": "Comece aqui o seu dia com um café e veja a vila ganhar vida."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Igreja Matriz (Hauptkirche)",
             "hu": "Igreja Matriz (Főtemplom)",
             "ro": "Igreja Matriz (Biserica principală)",
-            "en": "Igreja Matriz (Main Church)"
+            "en": "Igreja Matriz (Main Church)",
+            "pt": "Igreja Matriz (Main Church)"
           },
           "coords": [
             -8.5825,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie das gotische Portal und die manuelinischen Elemente im Inneren.",
             "hu": "Csodálja meg a gótikus portált és a belső tér mánuel stílusú elemeit.",
             "ro": "Admirați portalul gotic și elementele manueline din interior.",
-            "en": "Admire the Gothic portal and the Manueline elements inside."
+            "en": "Admire the Gothic portal and the Manueline elements inside.",
+            "pt": "Admire o portal gótico e os elementos manuelinos no interior."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Torre da Cadeia Velha (Alter Gefängnisturm)",
             "hu": "Torre da Cadeia Velha (Régi Börtöntorony)",
             "ro": "Torre da Cadeia Velha (Vechiul Turn al Închisorii)",
-            "en": "Torre da Cadeia Velha (Old Prison Tower)"
+            "en": "Torre da Cadeia Velha (Old Prison Tower)",
+            "pt": "Torre da Cadeia Velha (Old Prison Tower)"
           },
           "coords": [
             -8.5835,
@@ -82,7 +87,8 @@
             "de": "Der Turm beherbergt heute eine Touristeninformation und bietet eine schöne Aussicht.",
             "hu": "A torony ma turisztikai információs központként működik, és szép kilátást nyújt.",
             "ro": "Turnul găzduiește acum un birou de turism și oferă o priveliște frumoasă.",
-            "en": "The tower now houses a tourist office and offers a nice view."
+            "en": "The tower now houses a tourist office and offers a nice view.",
+            "pt": "A torre alberga hoje um posto de turismo e oferece uma bela vista."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Ponte Romana e Medieval",
             "hu": "Római és középkori híd",
             "ro": "Ponte Romana e Medieval",
-            "en": "Roman and Medieval Bridge"
+            "en": "Roman and Medieval Bridge",
+            "pt": "Ponte Romana e Medieval"
           },
           "coords": [
             -8.5845,
@@ -105,7 +112,8 @@
             "de": "Überqueren Sie die Brücke zu Fuß, um die beste Aussicht auf die Stadt und den Fluss zu genießen.",
             "hu": "Sétáljon át a hídon, hogy a legjobb kilátásban legyen része a városra és a folyóra.",
             "ro": "Traversați podul pe jos pentru cea mai bună priveliște asupra orașului și râului.",
-            "en": "Walk across the bridge to get the best views of the town and river."
+            "en": "Walk across the bridge to get the best views of the town and river.",
+            "pt": "atravesse a ponte para obter as melhores vistas da vila e do rio."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Museu dos Terceiros",
             "hu": "Museu dos Terceiros",
             "ro": "Museu dos Terceiros",
-            "en": "Museu dos Terceiros"
+            "en": "Museu dos Terceiros",
+            "pt": "Museu dos Terceiros"
           },
           "coords": [
             -8.5815,
@@ -128,7 +137,8 @@
             "de": "Ein Muss für Liebhaber sakraler Kunst; das Museum ist in zwei ehemaligen Klöstern untergebracht.",
             "hu": "A szakrális művészet kedvelőinek kötelező; a múzeum két egykori kolostorban található.",
             "ro": "O vizită obligatorie pentru iubitorii de artă sacră; muzeul este găzduit în două foste mănăstiri.",
-            "en": "A must-see for lovers of sacred art; the museum is housed in two former convents."
+            "en": "A must-see for lovers of sacred art; the museum is housed in two former convents.",
+            "pt": "Imperdível para apaixonados por arte sacra; o museu funciona em dois antigos conventos."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Parque do Arnado",
             "hu": "Parque do Arnado",
             "ro": "Parque do Arnado",
-            "en": "Parque do Arnado"
+            "en": "Parque do Arnado",
+            "pt": "Parque do Arnado"
           },
           "coords": [
             -8.588,
@@ -151,7 +162,8 @@
             "de": "Entspannen Sie sich in den Themengärten, darunter ein wunderschöner römischer Garten.",
             "hu": "Pihenjen a tematikus kertekben, köztük egy gyönyörű római kertben.",
             "ro": "Relaxați-vă în grădinile tematice, inclusiv o frumoasă grădină romană.",
-            "en": "Relax in the themed gardens, including a beautiful Roman garden."
+            "en": "Relax in the themed gardens, including a beautiful Roman garden.",
+            "pt": "Relaxe nos jardins temáticos, incluindo um belo jardim romano."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Festival Internacional de Jardins",
             "hu": "Nemzetközi Kertfesztivál",
             "ro": "Festivalul Internațional de Grădini",
-            "en": "International Garden Festival"
+            "en": "International Garden Festival",
+            "pt": "Festival Internacional de Jardins"
           },
           "coords": [
             -8.589,
@@ -174,7 +187,8 @@
             "de": "Findet jährlich von Mai bis Oktober statt. Jedes Jahr gibt es neue, kreative Gärten zu entdecken.",
             "hu": "Május és október között rendezik meg évente. Minden évben új, kreatív kertek várják.",
             "ro": "Are loc anual din mai până în octombrie. Grădini noi și creative sunt de descoperit în fiecare an.",
-            "en": "Held annually from May to October. There are new, creative gardens to discover each year."
+            "en": "Held annually from May to October. There are new, creative gardens to discover each year.",
+            "pt": "Realiza-se anualmente de maio a outubro. Há jardins novos e criativos para descobrir todos os anos."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Spaziergang im Herzen von Ponte de Lima, am Largo de Camões. Erkunden Sie die mittelalterlichen Gassen, die zur Hauptkirche und zum alten Gefängnisturm führen. Am Vormittag überqueren Sie die berühmte römisch-mittelalterliche Brücke, das Wahrzeichen der Stadt. Gönnen Sie sich ein Mittagessen mit lokalen Spezialitäten. Am Nachmittag tauchen Sie im Museu dos Terceiros in die sakrale Kunst ein, bevor Sie in den ruhigen Gärten des Parque do Arnado und des Internationalen Gartenfestivals entspannen. Beenden Sie den Tag mit einem Glas Vinho Verde am Flussufer.",
         "hu": "Kezdje sétáját Ponte de Lima szívében, a Largo de Camões téren. Fedezze fel a középkori utcákat, a főtemplomot és a régi börtöntornyot. Délelőtt sétáljon át a város jelképén, a híres római-középkori hídon. Ebédeljen helyi specialitásokat. Délután merüljön el a szakrális művészetben a Museu dos Terceiros-ban, majd pihenjen a Parque do Arnado és a Nemzetközi Kertfesztivál csendes kertjeiben. Zárja a napot egy pohár Vinho Verde borral a folyóparton.",
         "ro": "Începeți plimbarea în inima orașului Ponte de Lima, la Largo de Camões. Explorați străzile medievale, biserica principală și vechiul turn al închisorii. Dimineața, traversați faimosul pod roman-medieval, simbolul orașului. Savurați un prânz cu specialități locale. După-amiaza, admirați arta sacră la Museu dos Terceiros, apoi relaxați-vă în grădinile liniștite din Parque do Arnado și la Festivalul Internațional de Grădini. Încheiați ziua cu un pahar de Vinho Verde pe malul râului.",
-        "en": "Start your walk in the heart of Ponte de Lima at Largo de Camões. Explore the medieval streets, the main church, and the old prison tower. In the morning, cross the famous Roman-medieval bridge, the town's landmark. Enjoy a lunch of local specialties. In the afternoon, dive into sacred art at the Museu dos Terceiros, then relax in the tranquil gardens of Parque do Arnado and the International Garden Festival. End your day with a glass of Vinho Verde by the riverside."
+        "en": "Start your walk in the heart of Ponte de Lima at Largo de Camões. Explore the medieval streets, the main church, and the old prison tower. In the morning, cross the famous Roman-medieval bridge, the town's landmark. Enjoy a lunch of local specialties. In the afternoon, dive into sacred art at the Museu dos Terceiros, then relax in the tranquil gardens of Parque do Arnado and the International Garden Festival. End your day with a glass of Vinho Verde by the riverside.",
+        "pt": "Comece a caminhada no coração de Ponte de Lima, no Largo de Camões. Explore as ruas medievais, a igreja matriz e a antiga torre da cadeia. De manhã, atravesse a famosa ponte romano-medieval, o ex-libris da vila. Desfrute de um almoço com especialidades locais. À tarde, mergulhe na arte sacra no Museu dos Terceiros e relaxe nos tranquilos jardins do Parque do Arnado e no Festival Internacional de Jardins. Termine o dia com um copo de Vinho Verde junto ao rio."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "The town is small and best explored on foot.",
           "Be sure to try the local Vinho Verde wine.",
           "Plan extra time for the International Garden Festival if it's open (May-Oct)."
+        ],
+        "pt": [
+          "Use calçado confortável, pois os calçamentos podem ser irregulares.",
+          "A vila é pequena e melhor explorada a pé.",
+          "Não deixe de provar o Vinho Verde local.",
+          "Reserve tempo extra para o Festival Internacional de Jardins se estiver aberto (mai-out)."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Morgens am Largo de Camões glänzt das Kopfsteinpflaster im Regen. Wir suchen Schutz in der Igreja Matriz und erkunden die Torre da Cadeia Velha. Mittags überqueren wir die Brücke mit festem Schirm. Nachmittags ist das Museu dos Terceiros der ideale trockene Rückzugsort. Abends schlendern wir trotz Nieselregen durch den Parque do Arnado, wo der Nebel über dem Lima-Fluss eine mystische Atmosphäre schafft.",
             "hu": "A Largo de Camões esőben is lenyűgöző, a vizes macskakő tükrözi a régi házak falait. A reggelt a templom és a börtöntorony fedett tereiben töltjük. A római hídon az erős szél miatt stabil esernyő kell. Délután a Museu dos Terceiros művészeti kincsei között száradhatunk meg. Az estét a folyóparti parkokban zárjuk, ahol a köd különleges, melankolikus hangulatot áraszt a víz felett.",
             "ro": "Largo de Camões strălucește sub ploaie, oferind o perspectivă melancolică asupra centrului vechi. Ne adăpostim în Igreja Matriz și vizităm turnul vechi. Traversarea podului roman necesită o pelerină bună din cauza vântului de pe râu. După-amiaza, muzeul este refugiul perfect. Seara, o plimbare rapidă prin Parque do Arnado ne arată fața verde a orașului sub mângâierea ploii de nord.",
-            "en": "Morning at Largo de Camões sees the granite glisten under the rain. We find shelter in the main church and explore the historic tower. Crossing the Roman bridge requires a sturdy umbrella against the river breeze. The afternoon is best spent inside the Museu dos Terceiros. We conclude the day with a misty walk through the parks, where the damp earth and greenery create a uniquely fresh Atlantic atmosphere."
+            "en": "Morning at Largo de Camões sees the granite glisten under the rain. We find shelter in the main church and explore the historic tower. Crossing the Roman bridge requires a sturdy umbrella against the river breeze. The afternoon is best spent inside the Museu dos Terceiros. We conclude the day with a misty walk through the parks, where the damp earth and greenery create a uniquely fresh Atlantic atmosphere.",
+            "pt": "De manhã, no Largo de Camões o granito brilha sob a chuva. Procuramos abrigo na igreja matriz e exploramos a torre histórica. A travessia da ponte romana exige um guarda-chuva resistente contra a brisa do rio. A tarde é melhor passada no Museu dos Terceiros. Concluímos o dia com um passeio enevoado pelos parques, onde a terra húmida e o verde criam uma atmosfera atlântica singularmente fresca."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Die Brunnenfiguren wirken im Regen noch lebendiger; Cafés unter den Arkaden bieten Schutz.",
                 "hu": "A szökőkút környékén az árkádok alatt találhatunk menedéket az intenzívebb záporok elől.",
                 "ro": "Adăpostiți-vă sub arcadele cafenelelor dacă ploaia devine prea puternică.",
-                "en": "The fountain square has nearby cafe arcades that are perfect for watching the rain pass."
+                "en": "The fountain square has nearby cafe arcades that are perfect for watching the rain pass.",
+                "pt": "A praça da fonte tem arcadas de cafés próximas, perfeitas para ver a chuva passar."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Ein ruhiger Ort, um trocken zu bleiben und die barocke Innenausstattung zu bewundern.",
                 "hu": "Ideális helyszín a száradáshoz, miközben a barokk oltárokat tanulmányozzuk.",
                 "ro": "Un loc liniștit pentru a rămâne uscat în timp ce admirați detaliile baroce.",
-                "en": "A peaceful and dry interior to appreciate the intricate baroque woodcarvings."
+                "en": "A peaceful and dry interior to appreciate the intricate baroque woodcarvings.",
+                "pt": "Um interior pacífico e seco para apreciar os intrincados talhos barrocos em madeira."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Die dicken Mauern halten den Regen draußen; genießen Sie die Aussicht aus den Fenstern.",
                 "hu": "A vastag falak között biztonságban vagyunk az esőtől; nézzen ki a lőréseken a folyóra.",
                 "ro": "Zidurile groase oferă protecție excelentă; priviți ploaia peste râu de la ferestre.",
-                "en": "Thick walls keep the rain out; enjoy the view of the misty river from the upper windows."
+                "en": "Thick walls keep the rain out; enjoy the view of the misty river from the upper windows.",
+                "pt": "Paredes espessas mantêm a chuva lá fora; desfrute da vista do rio enevoado pelas janelas superiores."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Vorsicht: Die nassen Granitplatten der Brücke können sehr rutschig sein.",
                 "hu": "Vigyázat: a híd nedves gránitlapjai rendkívül csúszósak lehetnek esőben.",
                 "ro": "Atenție: dalele de granit ude ale podului pot fi foarte alunecoase.",
-                "en": "Caution: The wet granite stones on the bridge can be quite slippery when raining."
+                "en": "Caution: The wet granite stones on the bridge can be quite slippery when raining.",
+                "pt": "Cuidado: as pedras de granito molhadas na ponte podem ficar bastante escorregadias quando chove."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Das beste Ziel bei Dauerregen; verbringen Sie hier viel Zeit in den Kreuzgängen.",
                 "hu": "A legjobb választás tartós esőben; töltsön több időt a fedett kerengőkben.",
                 "ro": "Cea mai bună destinație pentru ploaie continuă; explorați cloistrele acoperite.",
-                "en": "The best rainy day escape; take your time exploring the covered cloister walkways."
+                "en": "The best rainy day escape; take your time exploring the covered cloister walkways.",
+                "pt": "O melhor refúgio para dias de chuva; dedique tempo a explorar as galerias claustrais cobertas."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Die dichte Vegetation bietet teilweise Schutz; nutzen Sie die überdachten Pavillons.",
                 "hu": "A sűrű növényzet részben véd az esőtől; használja a kerti pavilonokat menedékként.",
                 "ro": "Vegetația densă oferă adăpost parțial; folosiți pavilioanele pentru pauze.",
-                "en": "Dense trees provide some cover; use the garden pavilions for short breaks."
+                "en": "Dense trees provide some cover; use the garden pavilions for short breaks.",
+                "pt": "Árvores densas oferecem alguma proteção; use os pavilhões do jardim para pequenas pausas."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Die Wege können matschig sein; wasserfeste Schuhe sind hier ein Muss.",
                 "hu": "Az ösvények sárgásak lehetnek; a vízálló cipő itt elengedhetetlen.",
                 "ro": "Potecile pot fi noroioase; încălțămintea impermeabilă este obligatorie aici.",
-                "en": "Paths can get muddy; waterproof footwear is essential for this garden section."
+                "en": "Paths can get muddy; waterproof footwear is essential for this garden section.",
+                "pt": "Os caminhos podem ficar enlameados; calçado impermeável é essencial nesta secção do jardim."
               }
             }
           ],
@@ -481,6 +510,13 @@
               "Schedule the museum visit for the peak rain hours in the early afternoon.",
               "A raincoat is often more effective than an umbrella on the windy Roman bridge.",
               "Dry off in a local cafe with a warm 'Leite de Creme' custard dessert."
+            ],
+            "pt": [
+              "Use sapatos com boa aderência, pois os pavimentos de granito molhados tornam‑se muito escorregadios.",
+              "As arcadas do Largo de Camões são perfeitas para aguardar pancadas de chuva inesperadas.",
+              "Agende a visita ao museu para as horas de maior chuva no início da tarde.",
+              "Um impermeável é muitas vezes mais eficaz que um guarda-chuva na ventosa ponte romana.",
+              "Seque‑se num café local com a sobremesa quente 'Leite de Creme'."
             ]
           }
         },
@@ -489,7 +525,8 @@
             "de": "Ein klarer Wintermorgen beginnt kühl am Largo de Camões. Die tiefstehende Sonne beleuchtet die Igreja Matriz und den alten Turm besonders fotogen. Mittags genießen wir die frische Luft auf der römischen Brücke. Der Nachmittag im Museu dos Terceiros bietet angenehme Wärme. Da die Sonne bereits gegen 17:30 Uhr untergeht, erleben wir das goldene Licht im Parque do Arnado schon früh am Abend.",
             "hu": "A csípős téli reggel a Largo de Camõesen indul, ahol a dér még csillog az árnyékos sarkokban. A délelőtti napfény gyönyörűen világítja meg a templomot és a tornyot. Délben a hídon sétálva élvezzük a friss folyóparti levegőt. Délután a múzeum ódon falai között melegszünk fel. A korai, 17:30-as naplemente miatt az aranyórákat már a Parque do Arnadóban élvezhetjük.",
             "ro": "O dimineață răcoroasă de iarnă începe în Largo de Camões, cu soarele jos reflectându-se în fântână. Igreja Matriz și turnul vechi sunt scăldate în lumină clară. La prânz, aerul proaspăt de pe podul roman este revigorant. După-amiaza la muzeu oferă confort termic. Deoarece soarele apune la 17:30, prindem lumina aurie în Parque do Arnado chiar înainte de seară.",
-            "en": "A crisp winter morning starts at Largo de Camões with a cool breeze from the Lima river. The low winter sun highlights the textures of the main church and the prison tower. At noon, the air on the Roman bridge is refreshing and clear. We warm up in the afternoon inside the museum's galleries. With sunset arriving early around 5:30 PM, we enjoy the twilight glow in the riverside parks."
+            "en": "A crisp winter morning starts at Largo de Camões with a cool breeze from the Lima river. The low winter sun highlights the textures of the main church and the prison tower. At noon, the air on the Roman bridge is refreshing and clear. We warm up in the afternoon inside the museum's galleries. With sunset arriving early around 5:30 PM, we enjoy the twilight glow in the riverside parks.",
+            "pt": "Uma manhã de inverno fresca começa no Largo de Camões com a brisa fria do rio Lima. O baixo sol de inverno realça as texturas da igreja matriz e da torre da cadeia. Ao meio‑dia, o ar na ponte romana é fresco e claro. Aquecemo‑nos à tarde nas salas do museu. Com o pôr do sol a chegar cedo, por volta das 17:30, apreciamos o brilho crepuscular nos parques ribeirinhos."
           },
           "stops": [
             {
@@ -498,7 +535,8 @@
                 "de": "Genießen Sie einen heißen Kaffee in der Sonne; morgens kann es hier frostig sein.",
                 "hu": "Igyon egy forró kávét a napsütésben; a reggelek itt télen fagyosak lehetnek.",
                 "ro": "Savurați o cafea fierbinte la soare; diminețile pot fi destul de geroase aici.",
-                "en": "Enjoy a hot coffee in the sun; mornings can be quite frosty in this open square."
+                "en": "Enjoy a hot coffee in the sun; mornings can be quite frosty in this open square.",
+                "pt": "Desfrute de um café quente ao sol; as manhãs podem ser bastante geladas nesta praça aberta."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Die Kirche bietet Schutz vor dem kalten Wind, der oft vom Fluss her weht.",
                 "hu": "A templom belseje védelmet nyújt a folyó felől fújó hideg téli szél ellen.",
                 "ro": "Interiorul bisericii oferă protecție împotriva vântului rece de iarnă.",
-                "en": "The church interior provides a quiet escape from the cold winter river winds."
+                "en": "The church interior provides a quiet escape from the cold winter river winds.",
+                "pt": "O interior da igreja oferece um refúgio tranquilo do vento frio do rio no inverno."
               }
             },
             {
@@ -516,7 +555,8 @@
                 "de": "Die Wintersonne steht tief und leuchtet die Steinfassade perfekt für Fotos aus.",
                 "hu": "A téli nap alacsonyan jár, így tökéletes fényeket ad a torony fotózásához.",
                 "ro": "Soarele de iarnă este jos, oferind lumina perfectă pentru fotografierea turnului.",
-                "en": "The low winter sun provides dramatic lighting for photos of the stone tower."
+                "en": "The low winter sun provides dramatic lighting for photos of the stone tower.",
+                "pt": "O baixo sol de inverno proporciona iluminação dramática para fotografias da torre de pedra."
               }
             },
             {
@@ -525,7 +565,8 @@
                 "de": "Gehen Sie hier gegen 17:00 Uhr für den schönsten Wintersonnenuntergang spazieren.",
                 "hu": "Sétáljon itt 17:00 körül a legszebb téli naplemente látványáért a folyó felett.",
                 "ro": "Plimbați-vă aici în jur de ora 17:00 pentru cel mai frumos apus de iarnă.",
-                "en": "Walk here around 5:00 PM for the most spectacular winter sunset over the river."
+                "en": "Walk here around 5:00 PM for the most spectacular winter sunset over the river.",
+                "pt": "Atravesse por volta das 17:00 para o pôr do sol de inverno mais espetacular sobre o rio."
               }
             },
             {
@@ -534,7 +575,8 @@
                 "de": "Ein warmer Ort, um die Geschichte der Stadt ohne Winterkälte zu erkunden.",
                 "hu": "Meleg menedék, ahol a téli hideg nélkül fedezhetjük fel a város történelmét.",
                 "ro": "Un refugiu cald pentru a explora istoria orașului fără frigul de afară.",
-                "en": "A warm indoor retreat to explore the city's history away from the winter chill."
+                "en": "A warm indoor retreat to explore the city's history away from the winter chill.",
+                "pt": "Um acolhedor refúgio interior para explorar a história da cidade longe do frio invernal."
               }
             },
             {
@@ -543,7 +585,8 @@
                 "de": "Die kahleren Bäume geben den Blick auf die Architektur des Gartens besser frei.",
                 "hu": "A kopaszabb fák között jobban érvényesül a kert építészeti kialakítása.",
                 "ro": "Copacii desfrunziți permit o vedere mai clară asupra arhitecturii grădinii.",
-                "en": "The bare trees allow for a clearer view of the garden's structural architecture."
+                "en": "The bare trees allow for a clearer view of the garden's structural architecture.",
+                "pt": "As árvores despidas permitem uma visão mais clara da arquitetura estrutural do jardim."
               }
             },
             {
@@ -552,7 +595,8 @@
                 "de": "Prüfen Sie die Öffnungszeiten; im Winter ist der Park oft ruhiger und leerer.",
                 "hu": "Ellenőrizze a nyitvatartást; télen a park sokkal csendesebb és elhagyatottabb.",
                 "ro": "Verificați programul; iarna grădina este mult mai liniștită și liberă.",
-                "en": "Check opening hours; in winter, the park is much quieter and less crowded."
+                "en": "Check opening hours; in winter, the park is much quieter and less crowded.",
+                "pt": "Verifique os horários de abertura; no inverno, o parque é muito mais calmo e menos concorrido."
               }
             }
           ],
@@ -584,6 +628,13 @@
               "Try the hearty local winter specialty 'Arroz de Sarrabulho' for lunch.",
               "The river breeze can be biting in winter; a scarf is highly recommended.",
               "Church and museum interiors offer a stable temperature away from the wind."
+            ],
+            "pt": [
+              "Vista‑se em camadas; o sol aquece, mas as zonas sombreadas permanecem frias.",
+              "O pôr do sol é cedo (por volta das 17:30); planeie as suas fotos da golden hour em conformidade.",
+              "Experimente a robusta especialidade local de inverno 'Arroz de Sarrabulho' ao almoço.",
+              "A brisa do rio pode ser cortante no inverno; recomenda‑se fortemente um cachecol.",
+              "Os interiores da igreja e do museu oferecem temperatura estável longe do vento."
             ]
           }
         }
@@ -602,7 +653,8 @@
             "de": "Largo de Camões",
             "hu": "Largo de Camões",
             "ro": "Largo de Camões",
-            "en": "Largo de Camões"
+            "en": "Largo de Camões",
+            "pt": "Largo de Camões"
           },
           "coords": [
             -8.583,
@@ -617,7 +669,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie einen Kaffee auf dem Hauptplatz.",
             "hu": "Parkolja le a biciklit, és igyon egy kávét a főtéren.",
             "ro": "Parcați bicicleta și savurați o cafea în piața principală.",
-            "en": "Park your bike and enjoy a coffee in the main square."
+            "en": "Park your bike and enjoy a coffee in the main square.",
+            "pt": "Estacione a sua bicicleta e desfrute de um café na praça principal."
           }
         },
         {
@@ -625,7 +678,8 @@
             "de": "Torre da Cadeia Velha",
             "hu": "Torre da Cadeia Velha",
             "ro": "Torre da Cadeia Velha",
-            "en": "Torre da Cadeia Velha"
+            "en": "Torre da Cadeia Velha",
+            "pt": "Torre da Cadeia Velha"
           },
           "coords": [
             -8.5835,
@@ -640,7 +694,8 @@
             "de": "Ein kurzer Stopp, um die Architektur zu bewundern, bevor Sie weiterfahren.",
             "hu": "Egy gyors megálló, hogy megcsodálja az építészetet, mielőtt továbbhaladna.",
             "ro": "O oprire scurtă pentru a admira arhitectura înainte de a merge mai departe.",
-            "en": "A quick stop to admire the architecture before moving on."
+            "en": "A quick stop to admire the architecture before moving on.",
+            "pt": "Uma paragem rápida para admirar a arquitetura antes de seguir."
           }
         },
         {
@@ -648,7 +703,8 @@
             "de": "Ponte Romana e Medieval",
             "hu": "Római és középkori híd",
             "ro": "Ponte Romana e Medieval",
-            "en": "Roman and Medieval Bridge"
+            "en": "Roman and Medieval Bridge",
+            "pt": "Ponte Romana e Medieval"
           },
           "coords": [
             -8.5845,
@@ -663,7 +719,8 @@
             "de": "Fahren Sie langsam über die Brücke, um die Aussicht zu genießen, aber seien Sie rücksichtsvoll gegenüber Fußgängern.",
             "hu": "Lassan hajtson át a hídon, hogy élvezze a kilátást, de legyen tekintettel a gyalogosokra.",
             "ro": "Mergeți încet pe pod pentru a vă bucura de priveliște, dar fiți atenți la pietoni.",
-            "en": "Ride slowly across the bridge to enjoy the view, but be considerate of pedestrians."
+            "en": "Ride slowly across the bridge to enjoy the view, but be considerate of pedestrians.",
+            "pt": "Atravesse devagar a ponte para apreciar a vista, mas seja cuidadoso com os peões."
           }
         },
         {
@@ -671,7 +728,8 @@
             "de": "Capela do Anjo da Guarda",
             "hu": "Capela do Anjo da Guarda",
             "ro": "Capela do Anjo da Guarda",
-            "en": "Capela do Anjo da Guarda"
+            "en": "Capela do Anjo da Guarda",
+            "pt": "Capela do Anjo da Guarda"
           },
           "coords": [
             -8.5855,
@@ -686,7 +744,8 @@
             "de": "Eine charmante kleine Kapelle auf der anderen Seite des Flusses.",
             "hu": "Egy bájos kis kápolna a folyó másik oldalán.",
             "ro": "O capelă mică și fermecătoare pe cealaltă parte a râului.",
-            "en": "A charming little chapel on the other side of the river."
+            "en": "A charming little chapel on the other side of the river.",
+            "pt": "Uma encantadora capela do outro lado do rio."
           }
         },
         {
@@ -694,7 +753,8 @@
             "de": "Parque do Arnado & Festival de Jardins",
             "hu": "Parque do Arnado és Kertfesztivál",
             "ro": "Parque do Arnado & Festivalul de Grădini",
-            "en": "Parque do Arnado & Garden Festival"
+            "en": "Parque do Arnado & Garden Festival",
+            "pt": "Parque do Arnado & Festival de Jardins"
           },
           "coords": [
             -8.5885,
@@ -709,7 +769,8 @@
             "de": "Ein großartiger Ort für eine längere Pause. Sie können Ihr Fahrrad abstellen und die Gärten erkunden.",
             "hu": "Nagyszerű hely egy hosszabb szünetre. Leteheti a biciklit, és felfedezheti a kerteket.",
             "ro": "Un loc minunat pentru o pauză mai lungă. Puteți parca bicicleta și explora grădinile.",
-            "en": "A great place for a longer break. You can park your bike and explore the gardens."
+            "en": "A great place for a longer break. You can park your bike and explore the gardens.",
+            "pt": "Um ótimo local para uma pausa mais longa. Pode estacionar a bicicleta e explorar os jardins."
           }
         },
         {
@@ -717,7 +778,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az Óvárosban",
             "ro": "Prânz în Orașul Vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "pt": "Almoço na Zona Antiga"
           },
           "coords": [
             -8.582,
@@ -732,7 +794,8 @@
             "de": "Fahren Sie zurück ins Zentrum und suchen Sie sich ein Restaurant mit einer Tageskarte (Prato do Dia).",
             "hu": "Tekerjen vissza a központba, és keressen egy éttermet napi menüvel (Prato do Dia).",
             "ro": "Întoarceți-vă în centru și găsiți un restaurant cu meniul zilei (Prato do Dia).",
-            "en": "Cycle back to the center and find a restaurant with a daily menu (Prato do Dia)."
+            "en": "Cycle back to the center and find a restaurant with a daily menu (Prato do Dia).",
+            "pt": "Volte de bicicleta ao centro e encontre um restaurante com ementa do dia (Prato do Dia)."
           }
         },
         {
@@ -740,7 +803,8 @@
             "de": "Museu dos Terceiros",
             "hu": "Museu dos Terceiros",
             "ro": "Museu dos Terceiros",
-            "en": "Museu dos Terceiros"
+            "en": "Museu dos Terceiros",
+            "pt": "Museu dos Terceiros"
           },
           "coords": [
             -8.5815,
@@ -755,7 +819,8 @@
             "de": "Beenden Sie Ihre Tour mit einem kulturellen Höhepunkt in diesem beeindruckenden Museum.",
             "hu": "Zárja a túrát egy kulturális fényponttal ebben a lenyűgöző múzeumban.",
             "ro": "Încheiați turul cu un punct culminant cultural la acest muzeu impresionant.",
-            "en": "End your tour with a cultural highlight at this impressive museum."
+            "en": "End your tour with a cultural highlight at this impressive museum.",
+            "pt": "Termine o seu passeio com um destaque cultural neste impressionante museu."
           }
         }
       ],
@@ -763,7 +828,8 @@
         "de": "Starten Sie Ihre Radtour am Largo de Camões. Fahren Sie durch die Altstadt zur berühmten römischen Brücke. Überqueren Sie den Fluss Lima und besuchen Sie die kleine Kapelle Anjo da Guarda. Fahren Sie am Flussufer entlang zum Parque do Arnado und dem Internationalen Gartenfestival für eine ausgiebige Pause. Kehren Sie zum Mittagessen in die Altstadt zurück und beenden Sie den Tag mit einem Besuch im kunstvollen Museu dos Terceiros.",
         "hu": "Kezdje a kerékpártúrát a Largo de Camões-ról. Tekerjen át az óvároson a híres római hídig. Keljen át a Lima folyón, és látogassa meg a kis Anjo da Guarda kápolnát. Kerékpározzon a folyóparton a Parque do Arnado és a Nemzetközi Kertfesztivál felé egy hosszabb pihenőre. Térjen vissza ebédelni az óvárosba, és zárja a napot a díszes Museu dos Terceiros meglátogatásával.",
         "ro": "Începeți turul cu bicicleta de la Largo de Camões. Pedalați prin orașul vechi până la faimosul pod roman. Traversați râul Lima pentru a vizita mica Capelă Anjo da Guarda. Mergeți pe malul râului până la Parque do Arnado și Festivalul Internațional de Grădini pentru o pauză extinsă. Întoarceți-vă în orașul vechi pentru prânz și încheiați ziua cu o vizită la ornatul Museu dos Terceiros.",
-        "en": "Start your bike tour from Largo de Camões. Cycle through the old town to the famous Roman bridge. Cross the Lima river to visit the little Anjo da Guarda Chapel. Ride along the riverbank to Parque do Arnado and the International Garden Festival for an extended break. Return to the old town for lunch and finish your day with a visit to the ornate Museu dos Terceiros."
+        "en": "Start your bike tour from Largo de Camões. Cycle through the old town to the famous Roman bridge. Cross the Lima river to visit the little Anjo da Guarda Chapel. Ride along the riverbank to Parque do Arnado and the International Garden Festival for an extended break. Return to the old town for lunch and finish your day with a visit to the ornate Museu dos Terceiros.",
+        "pt": "Comece a sua rota de bicicleta no Largo de Camões. Pedale pela vila antiga até à famosa ponte romana. Atravesse o rio Lima para visitar a pequena Capela do Anjo da Guarda. Siga pela margem do rio até ao Parque do Arnado e ao Festival Internacional de Jardins para uma pausa prolongada. Regresse à vila para almoçar e termine o dia com uma visita ao ornamentado Museu dos Terceiros."
       },
       "gastro_picks": {
         "de": [
@@ -939,6 +1005,12 @@
           "Lock your bike when exploring the sights on foot.",
           "The old town is small, be careful with pedestrians.",
           "A helmet is recommended."
+        ],
+        "pt": [
+          "Há um belo percurso ciclável ao longo do rio Lima.",
+          "Tranque a bicicleta quando explorar as atrações a pé.",
+          "A vila antiga é pequena; tenha cuidado com os peões.",
+          "Recomenda‑se o uso de capacete."
         ]
       },
       "variants": {
@@ -947,7 +1019,8 @@
             "de": "Eine Radtour im Regen durch Ponte de Lima erfordert Vorsicht auf dem Granitpflaster. Wir starten am Largo de Camões und radeln zügig zur Torre. Über die römische Brücke geht es vorsichtig, da die Steine glatt sind. Mittags wärmen wir uns bei einer Gastro-Pause auf. Nachmittags parken wir die Räder trocken am Museum und erkunden die Uferwege am Parque do Arnado im Regenmantel.",
             "hu": "Az esős kerékpározás Ponte de Limában óvatosságot igényel a csúszós köveken. A Largo de Camõesről indulva gyorsan elérjük a börtöntorony fedezékét. A római hídon csak lassan haladunk a vizes gránit miatt. Délben egy hosszú ebédszünettel várjuk meg a zápor végét. Délután a múzeumnál hagyjuk a gépeket, és vízálló öltözetben fedezzük fel a folyóparti sétányokat.",
             "ro": "O tură cu bicicleta prin ploaie în Ponte de Lima cere atenție sporită la viraje. Pornim din Largo de Camões spre turnul vechi. Traversăm podul roman cu viteză redusă, pietrele fiind foarte lucioase. La prânz, facem o pauză lungă la restaurant pentru uscare. După-amiaza lăsăm bicicletele la adăpost lângă muzeu și explorăm malurile râului echipați cu pelerine.",
-            "en": "Cycling through rainy Ponte de Lima demands focus on the slick granite streets. We start at Largo de Camões and pedal to the tower. The Roman bridge crossing is done carefully due to the wet stones. A long lunch break helps us dry off before visiting the museum. In the afternoon, we lock the bikes in a dry spot and enjoy the riverside trails of Parque do Arnado in waterproof gear."
+            "en": "Cycling through rainy Ponte de Lima demands focus on the slick granite streets. We start at Largo de Camões and pedal to the tower. The Roman bridge crossing is done carefully due to the wet stones. A long lunch break helps us dry off before visiting the museum. In the afternoon, we lock the bikes in a dry spot and enjoy the riverside trails of Parque do Arnado in waterproof gear.",
+            "pt": "Ciclismo em Ponte de Lima sob chuva exige atenção às ruas de granito escorregadias. Começamos no Largo de Camões e pedalamos até à torre. A travessia da ponte romana é feita com cuidado devido às pedras molhadas. Uma longa pausa para almoço ajuda a secar antes da visita ao museu. À tarde, trancamos as bicicletas num local seco e apreciamos os trilhos ribeirinhos do Parque do Arnado com roupa impermeável."
           },
           "stops": [
             {
@@ -956,7 +1029,8 @@
                 "de": "Vorsicht beim Anfahren; das nasse Kopfsteinpflaster bietet wenig Grip.",
                 "hu": "Vigyázat az induláskor; a vizes macskakő kevés tapadást biztosít a gumiknak.",
                 "ro": "Atenție la pornire; piatra cubică umedă oferă aderență scăzută.",
-                "en": "Be careful when starting off; wet cobblestones offer very little tire grip."
+                "en": "Be careful when starting off; wet cobblestones offer very little tire grip.",
+                "pt": "Tenha cuidado ao arrancar; os calçamentos molhados oferecem muito pouca aderência aos pneus."
               }
             },
             {
@@ -965,7 +1039,8 @@
                 "de": "Nutzen Sie die Turmmauern als Windschutz beim Abstellen der Fahrräder.",
                 "hu": "Használja a torony falait szélvédőként a kerékpárok leállításakor.",
                 "ro": "Folosiți zidurile turnului ca paravan împotriva vântului când parcați.",
-                "en": "Use the tower walls as a windbreak when parking your bicycles for a break."
+                "en": "Use the tower walls as a windbreak when parking your bicycles for a break.",
+                "pt": "Use as paredes da torre como quebra‑vento ao estacionar as bicicletas para uma pausa."
               }
             },
             {
@@ -974,7 +1049,8 @@
                 "de": "Fahren Sie extrem langsam oder schieben Sie das Rad bei starkem Regen.",
                 "hu": "Haladjon rendkívül lassan, vagy tolja a biciklit intenzív esőben.",
                 "ro": "Mergeți extrem de încet sau împingeți bicicleta în caz de ploaie torențială.",
-                "en": "Ride extremely slowly or consider walking your bike during heavy downpours."
+                "en": "Ride extremely slowly or consider walking your bike during heavy downpours.",
+                "pt": "Pedale extremamente devagar ou considere empurrar a bicicleta durante aguaceiros fortes."
               }
             },
             {
@@ -983,7 +1059,8 @@
                 "de": "Suchen Sie einen Platz mit Vordach, um den Sattel trocken zu halten.",
                 "hu": "Keressen egy előtetővel rendelkező helyet, hogy a nyereg száraz maradjon.",
                 "ro": "Căutați un loc cu acoperiș pentru a menține șaua bicicletei uscată.",
-                "en": "Look for a spot with an overhang to keep your bike seat dry while visiting."
+                "en": "Look for a spot with an overhang to keep your bike seat dry while visiting.",
+                "pt": "Procure um local com um beiral para manter o selim seco enquanto visita os locais."
               }
             },
             {
@@ -992,7 +1069,8 @@
                 "de": "Die Radwege können Pfützen bilden; achten Sie auf spritzendes Wasser.",
                 "hu": "A kerékpárutakon tócsák alakulhatnak ki; ügyeljen a felcsapódó vízre.",
                 "ro": "Pe pistele de biciclete se pot forma bălți; atenție la apa împroșcată.",
-                "en": "Puddles may form on the bike paths; watch out for splashing water."
+                "en": "Puddles may form on the bike paths; watch out for splashing water.",
+                "pt": "Formam‑se poças nos percursos cicláveis; cuidado com salpicos de água."
               }
             },
             {
@@ -1001,7 +1079,8 @@
                 "de": "Ideal zum Aufwärmen und Trocknen der Ausrüstung während eines Schauers.",
                 "hu": "Ideális pont a felmelegedéshez és a felszerelés megszárításához zápor idején.",
                 "ro": "Locul ideal pentru a vă încălzi și a vă usca echipamentul în timpul ploii.",
-                "en": "Ideal spot to warm up and dry your gear during a passing rain shower."
+                "en": "Ideal spot to warm up and dry your gear during a passing rain shower.",
+                "pt": "Local ideal para aquecer e secar o equipamento durante uma chuva passageira."
               }
             },
             {
@@ -1010,7 +1089,8 @@
                 "de": "Parken Sie die Räder sicher und genießen Sie die trockene Ausstellung.",
                 "hu": "Parkolja le biztonságosan a gépeket, és élvezze a száraz kiállítást.",
                 "ro": "Parcați bicicletele în siguranță și bucurați-vă de expoziția la adăpost.",
-                "en": "Lock your bikes securely and enjoy the dry museum galleries."
+                "en": "Lock your bikes securely and enjoy the dry museum galleries.",
+                "pt": "Tranque bem as bicicletas e desfrute das galerias secas do museu."
               }
             }
           ],
@@ -1042,6 +1122,13 @@
               "Mudguards are essential for the puddles along the riverside paths.",
               "Use the Ecovia bike trails, as they often offer better grip than the city center.",
               "Wear high-visibility rain gear to be seen clearly in the misty weather."
+            ],
+            "pt": [
+              "Verifique os travões; as distâncias de paragem aumentam bastante no granito molhado.",
+              "Evite movimentos bruscos de direção nos pavimentos históricos escorregadios.",
+              "Guarda‑lamas são essenciais para as poças ao longo dos caminhos ribeirinhos.",
+              "Use os trilhos Ecovia, pois frequentemente oferecem melhor aderência do que o centro da cidade.",
+              "Use roupa de chuva de alta visibilidade para ser visto claramente no tempo enevoado."
             ]
           }
         },
@@ -1050,7 +1137,8 @@
             "de": "An einem sonnigen Wintertag radeln wir durch die frische Brise von Ponte de Lima. Vom Largo de Camões geht es zur Torre, wo wir die klare Sicht genießen. Die Überquerung der Brücke ist bei tiefstehender Sonne besonders malerisch. Mittags stärken wir uns in einem warmen Restaurant. Der Nachmittag führt uns über die Ecovia-Radwege entlang des Lima, bevor wir den Tag im Museum ausklingen lassen.",
             "hu": "Napsütéses téli napon tekerni Ponte de Limában igazi felfrissülés. A Largo de Camõesről indulva a börtöntoronyhoz megyünk, élvezve a tiszta kilátást. A hídon való átkelés az alacsonyan járó nap fényében mesés. Délben egy meleg étteremben pihenünk meg. Délután az Ecovia kerékpárúton haladunk a folyó mentén, majd a napot a múzeum látogatásával zárjuk.",
             "ro": "Într-o zi însorită de iarnă, pedalăm prin briza proaspătă a orașului Ponte de Lima. De la Largo de Camões mergem spre turn, admirând vizibilitatea clară. Traversarea podului sub soarele de iarnă este pitorească. La prânz, ne încălzim într-un restaurant local. După-amiaza urmăm pistele Ecovia de-a lungul râului Lima, încheind ziua la muzeu.",
-            "en": "On a sunny winter day, we cycle through the refreshing breeze of Ponte de Lima. From Largo de Camões, we head to the tower to enjoy the clear views. Crossing the bridge under the low sun is particularly picturesque. At noon, we refuel in a cozy restaurant. The afternoon takes us along the Ecovia bike trails by the Lima river before finishing at the museum."
+            "en": "On a sunny winter day, we cycle through the refreshing breeze of Ponte de Lima. From Largo de Camões, we head to the tower to enjoy the clear views. Crossing the bridge under the low sun is particularly picturesque. At noon, we refuel in a cozy restaurant. The afternoon takes us along the Ecovia bike trails by the Lima river before finishing at the museum.",
+            "pt": "Numa ensolarada manhã de inverno, pedalamos pela brisa refrescante de Ponte de Lima. Do Largo de Camões seguimos até à torre para desfrutar das vistas límpidas. A travessia da ponte sob o sol baixo é particularmente pitoresca. Ao meio‑dia reabastecemos num restaurante acolhedor. A tarde leva‑nos pelos trilhos Ecovia junto ao rio Lima antes de terminar no museu."
           },
           "stops": [
             {
@@ -1059,7 +1147,8 @@
                 "de": "Starten Sie erst, wenn die Sonne die Schattenseiten etwas aufgewärmt hat.",
                 "hu": "Csak akkor induljon el, ha a nap már valamennyire felmelegítette az árnyékos utcákat.",
                 "ro": "Porniți la drum doar după ce soarele a încălzit puțin zonele umbrite.",
-                "en": "Start your ride once the sun has slightly warmed up the shaded street corners."
+                "en": "Start your ride once the sun has slightly warmed up the shaded street corners.",
+                "pt": "Comece a pedalada assim que o sol aquecer ligeiramente os cantos sombreados das ruas."
               }
             },
             {
@@ -1068,7 +1157,8 @@
                 "de": "Ein kurzer Stopp hier bietet einen tollen Rundblick über das winterliche Tal.",
                 "hu": "Egy rövid megálló itt nagyszerű körpanorámát nyújt a téli völgyre.",
                 "ro": "O scurtă oprire aici oferă o panoramă superbă asupra văii înghețate.",
-                "en": "A brief stop here offers a great panoramic view of the wintry valley landscape."
+                "en": "A brief stop here offers a great panoramic view of the wintry valley landscape.",
+                "pt": "Uma breve paragem aqui oferece uma ótima vista panorâmica da paisagem invernal do vale."
               }
             },
             {
@@ -1077,7 +1167,8 @@
                 "de": "Der Wind auf der Brücke kann im Winter sehr kalt sein; treten Sie kräftig in die Pedale.",
                 "hu": "A hídon a szél télen nagyon hideg lehet; tekerjen tempósabban, hogy ne fázzon.",
                 "ro": "Vântul pe pod poate fi tăios iarna; pedalați cu energie pentru a vă menține cald.",
-                "en": "The wind on the bridge can be very cold in winter; pedal briskly to stay warm."
+                "en": "The wind on the bridge can be very cold in winter; pedal briskly to stay warm.",
+                "pt": "O vento na ponte pode ser muito frio no inverno; pedale com ritmo para se manter aquecido."
               }
             },
             {
@@ -1086,7 +1177,8 @@
                 "de": "Nutzen Sie den Vorplatz für ein Foto im klaren Winterlicht.",
                 "hu": "Használja ki a templom előtti teret egy fotóhoz a tiszta téli fényben.",
                 "ro": "Folosiți piațeta din fața bisericii pentru o fotografie în lumina clară de iarnă.",
-                "en": "Take advantage of the church square for a photo in the crisp winter light."
+                "en": "Take advantage of the church square for a photo in the crisp winter light.",
+                "pt": "Aproveite a praça da igreja para uma foto com a luz invernal nítida."
               }
             },
             {
@@ -1095,7 +1187,8 @@
                 "de": "Die Wege sind im Winter trocken und ideal für eine entspannte Radrunde.",
                 "hu": "Az utak télen szárazak és ideálisak egy pihentető kerékpáros körhöz.",
                 "ro": "Aleile sunt uscate iarna și ideale pentru o tură relaxată cu bicicleta.",
-                "en": "The paths are dry in winter and ideal for a relaxed cycling loop."
+                "en": "The paths are dry in winter and ideal for a relaxed cycling loop.",
+                "pt": "Os caminhos estão secos no inverno e ideais para um passeio de bicicleta descontraído."
               }
             },
             {
@@ -1104,7 +1197,8 @@
                 "de": "Parken Sie die Räder in Sichtweite und genießen Sie ein heißes Getränk.",
                 "hu": "Parkolja le a bicikliket látótávolságban, és élvezzen egy forró italt.",
                 "ro": "Parcați bicicletele la vedere și savurați o băutură fierbinte la interior.",
-                "en": "Park your bikes within sight and enjoy a warm drink inside the cafe."
+                "en": "Park your bikes within sight and enjoy a warm drink inside the cafe.",
+                "pt": "Estacione as bicicletas à vista e desfrute de uma bebida quente dentro do café."
               }
             },
             {
@@ -1113,7 +1207,8 @@
                 "de": "Der perfekte Abschluss, bevor es nach Sonnenuntergang richtig kalt wird.",
                 "hu": "Tökéletes befejezés, mielőtt naplemente után hirtelen lehűlne a levegő.",
                 "ro": "Finalul perfect înainte ca temperatura să scadă brusc după apus.",
-                "en": "The perfect final stop before it gets much colder after the early sunset."
+                "en": "The perfect final stop before it gets much colder after the early sunset.",
+                "pt": "A paragem perfeita antes de o frio aumentar após o pôr do sol precoce."
               }
             }
           ],
@@ -1145,6 +1240,13 @@
               "Sunset is early (5:30 PM); make sure your bike lights are fully functional.",
               "Thick socks will prevent cold feet during extended winter rides.",
               "A thermos of hot tea in your bottle cage is a real lifesaver on cold days."
+            ],
+            "pt": [
+              "Use luvas; a sensação térmica durante a pedalada é muito mais fria do que pode esperar.",
+              "Aproveite o sol do meio‑dia para percursos mais longos ao longo do rio.",
+              "O pôr do sol é cedo (17:30); certifique-se de que as luzes da bicicleta funcionam perfeitamente.",
+              "Meias grossas evitam pés frios em passeios longos no inverno.",
+              "Um termo de chá quente no suporte da garrafa é um verdadeiro salva-vidas em dias frios."
             ]
           }
         }
@@ -1163,7 +1265,8 @@
             "de": "Parken in der Nähe des Parque do Arnado",
             "hu": "Parkolás a Parque do Arnado közelében",
             "ro": "Parcare lângă Parque do Arnado",
-            "en": "Parking near Parque do Arnado"
+            "en": "Parking near Parque do Arnado",
+            "pt": "Estacionamento junto ao Parque do Arnado"
           },
           "coords": [
             -8.588,
@@ -1179,7 +1282,8 @@
             "de": "Parken Sie hier für den Tag. Von hier aus ist die ganze Stadt zu Fuß erreichbar.",
             "hu": "Parkoljon itt egész napra. Innen az egész város gyalogosan elérhető.",
             "ro": "Parcați aici pentru întreaga zi. De aici, tot orașul este accesibil pe jos.",
-            "en": "Park here for the day. The entire town is accessible on foot from here."
+            "en": "Park here for the day. The entire town is accessible on foot from here.",
+            "pt": "Estacione aqui para o dia. A cidade inteira é acessível a pé a partir daqui."
           }
         },
         {
@@ -1187,7 +1291,8 @@
             "de": "Festival de Jardins & Parque do Arnado",
             "hu": "Kertfesztivál és Parque do Arnado",
             "ro": "Festivalul de Grădini & Parque do Arnado",
-            "en": "Garden Festival & Parque do Arnado"
+            "en": "Garden Festival & Parque do Arnado",
+            "pt": "Festival do Jardim & Parque do Arnado"
           },
           "coords": [
             -8.5885,
@@ -1203,7 +1308,8 @@
             "de": "Beginnen Sie Ihren Tag entspannt in den wunderschönen Gärten.",
             "hu": "Kezdje a napot pihentetően a gyönyörű kertekben.",
             "ro": "Începeți ziua relaxându-vă în aceste grădini minunate.",
-            "en": "Start your day with a relaxing stroll through the beautiful gardens."
+            "en": "Start your day with a relaxing stroll through the beautiful gardens.",
+            "pt": "Comece o dia com um passeio relaxante pelos belos jardins."
           }
         },
         {
@@ -1211,7 +1317,8 @@
             "de": "Spaziergang ins Zentrum & Ponte Romana",
             "hu": "Séta a központba és a római híd",
             "ro": "Plimbare spre centru & Ponte Romana",
-            "en": "Walk to Center & Roman Bridge"
+            "en": "Walk to Center & Roman Bridge",
+            "pt": "Caminhe até o Centro & Ponte Romana"
           },
           "coords": [
             -8.5845,
@@ -1227,7 +1334,8 @@
             "de": "Schlendern Sie am Fluss entlang ins historische Zentrum und überqueren Sie die Brücke.",
             "hu": "Sétáljon a folyó mentén a történelmi központba, és keljen át a hídon.",
             "ro": "Plimbați-vă pe malul râului până în centrul istoric și traversați podul.",
-            "en": "Stroll along the river to the historic center and cross the bridge."
+            "en": "Stroll along the river to the historic center and cross the bridge.",
+            "pt": "Passeie ao longo do rio até o centro histórico e atravesse a ponte."
           }
         },
         {
@@ -1235,7 +1343,8 @@
             "de": "Largo de Camões & Altstadt",
             "hu": "Largo de Camões és Óváros",
             "ro": "Largo de Camões & Orașul Vechi",
-            "en": "Largo de Camões & Old Town"
+            "en": "Largo de Camões & Old Town",
+            "pt": "Largo de Camões & Centro Histórico"
           },
           "coords": [
             -8.583,
@@ -1251,7 +1360,8 @@
             "de": "Erkunden Sie den Platz, die Kirche, den Turm und essen Sie hier zu Mittag.",
             "hu": "Fedezze fel a teret, a templomot, a tornyot, és ebédeljen itt.",
             "ro": "Explorați piața, biserica, turnul și luați prânzul aici.",
-            "en": "Explore the square, the church, the tower, and have lunch here."
+            "en": "Explore the square, the church, the tower, and have lunch here.",
+            "pt": "Explore a praça, a igreja, a torre e almoce aqui."
           }
         },
         {
@@ -1259,7 +1369,8 @@
             "de": "Museu dos Terceiros",
             "hu": "Museu dos Terceiros",
             "ro": "Museu dos Terceiros",
-            "en": "Museu dos Terceiros"
+            "en": "Museu dos Terceiros",
+            "pt": "Museu dos Terceiros"
           },
           "coords": [
             -8.5815,
@@ -1275,7 +1386,8 @@
             "de": "Ein kultureller Abschluss des Nachmittags, nur einen kurzen Spaziergang vom Zentrum entfernt.",
             "hu": "A délután kulturális lezárása, csak egy rövid sétára a központtól.",
             "ro": "O concluzie culturală a după-amiezii, la o scurtă plimbare de centru.",
-            "en": "A cultural end to the afternoon, just a short walk from the center."
+            "en": "A cultural end to the afternoon, just a short walk from the center.",
+            "pt": "Um final cultural para a tarde, a curta distância do centro."
           }
         },
         {
@@ -1283,7 +1395,8 @@
             "de": "Rückkehr zum Auto",
             "hu": "Vissza az autóhoz",
             "ro": "Înapoi la mașină",
-            "en": "Return to the Car"
+            "en": "Return to the Car",
+            "pt": "Regresso ao Carro"
           },
           "coords": [
             -8.588,
@@ -1299,7 +1412,8 @@
             "de": "Ein letzter Spaziergang am Flussufer, bevor Sie Ihre Reise fortsetzen.",
             "hu": "Egy utolsó séta a folyóparton, mielőtt folytatná útját.",
             "ro": "O ultimă plimbare pe malul râului înainte de a vă continua călătoria.",
-            "en": "A final walk along the riverbank before you continue your journey."
+            "en": "A final walk along the riverbank before you continue your journey.",
+            "pt": "Um último passeio pela margem do rio antes de continuar a viagem."
           }
         }
       ],
@@ -1307,7 +1421,8 @@
         "de": "Parken Sie Ihr Auto in der Nähe des Parque do Arnado und beginnen Sie den Tag mit einem Spaziergang durch die Gärten. Schlendern Sie am Flussufer entlang ins historische Herz der Stadt. Verbringen Sie den Vormittag und die Mittagszeit damit, die römische Brücke, den Hauptplatz und die umliegenden historischen Gebäude zu erkunden. Der Nachmittag ist der Kunst im Museu dos Terceiros gewidmet. Ein letzter Spaziergang am Fluss führt Sie zurück zu Ihrem Auto.",
         "hu": "Parkolja le autóját a Parque do Arnado közelében, és kezdje a napot egy sétával a kertekben. Sétáljon a folyóparton a város történelmi szívébe. Töltse a délelőttöt és az ebédet a római híd, a főtér és a környező történelmi épületek felfedezésével. A délután a művészeté a Museu dos Terceiros-ban. Egy utolsó séta a folyó mentén visszavezet az autójához.",
         "ro": "Parcați mașina lângă Parque do Arnado și începeți ziua cu o plimbare prin grădini. Plimbați-vă pe malul râului până în inima istorică a orașului. Petreceți dimineața și prânzul explorând podul roman, piața principală și clădirile istorice din jur. După-amiaza este dedicată artei la Museu dos Terceiros. O ultimă plimbare pe râu vă va duce înapoi la mașină.",
-        "en": "Park your car near Parque do Arnado and start the day with a walk through the gardens. Stroll along the riverbank into the historic heart of the town. Spend the morning and lunchtime exploring the Roman bridge, the main square, and the surrounding historic buildings. The afternoon is dedicated to art at the Museu dos Terceiros. A final walk along the river leads you back to your car."
+        "en": "Park your car near Parque do Arnado and start the day with a walk through the gardens. Stroll along the riverbank into the historic heart of the town. Spend the morning and lunchtime exploring the Roman bridge, the main square, and the surrounding historic buildings. The afternoon is dedicated to art at the Museu dos Terceiros. A final walk along the river leads you back to your car.",
+        "pt": "Estacione o carro perto do Parque do Arnado e comece o dia com um passeio pelos jardins. Passeie pela margem do rio até ao coração histórico da vila. Passe a manhã e a hora do almoço a explorar a ponte romana, a praça principal e os edifícios históricos envolventes. A tarde é dedicada à arte no Museu dos Terceiros. Um último passeio ao longo do rio leva-o de volta ao seu carro."
       },
       "gastro_picks": {
         "de": [
@@ -1483,6 +1598,12 @@
           "Ponte de Lima is very pedestrian-friendly, leave the car and enjoy the walk.",
           "Check the market dates in advance if you want to visit the Feira Quinzenal.",
           "Many streets in the center are narrow and closed to cars."
+        ],
+        "pt": [
+          "Estacionar na periferia da vila é mais fácil do que no centro.",
+          "Ponte de Lima é muito amiga dos peões; deixe o carro e desfrute da caminhada.",
+          "Verifique as datas do mercado com antecedência se quiser visitar a Feira Quinzenal.",
+          "Muitas ruas do centro são estreitas e proibidas a automóveis."
         ]
       },
       "variants": {
@@ -1491,7 +1612,8 @@
             "de": "Mit dem Auto erkunden wir Ponte de Lima bequem trotz Dauerregens. Wir starten am großen Parkplatz am Fluss und besuchen die Parks im Schutz von Schirmen. Die Fahrt über die Brücke bietet tolle Ausblicke auf den anschwellenden Lima. Mittags parken wir direkt am Largo de Camões für einen kurzen Weg ins Restaurant. Den Nachmittag verbringen wir im Museum, bevor wir trocken den Rückweg antreten.",
             "hu": "Autóval kényelmesen felfedezhetjük Ponte de Limát tartós esőben is. A folyóparti nagy parkolóban kezdünk, és esernyővel látogatjuk meg a parkokat. A hídon való áthajtás remek kilátást nyújt a megduzzadt Lima folyóra. Délben közvetlenül a Largo de Camõesnél parkolunk, hogy csak pár lépés legyen az étterem. A délutánt a múzeumban töltjük, majd szárazon indulunk haza.",
             "ro": "Cu mașina, explorăm Ponte de Lima confortabil chiar și pe ploaie continuă. Parcăm la parcarea mare de lângă râu și vizităm parcurile sub protecția umbrelelor. Traversarea podului oferă vederi superbe asupra râului Lima umflat de ploi. La prânz parcăm lângă Largo de Camões pentru acces rapid la restaurante. După-amiaza o petrecem la muzeu, feriți de intemperii.",
-            "en": "Exploring Ponte de Lima by car is convenient even during persistent rain. We start at the large riverside parking lot and visit the parks using umbrellas for short walks. Driving across the bridge offers great views of the rising Lima river. At noon, we park near Largo de Camões for quick access to restaurants. The afternoon is spent inside the museum before driving back in comfort."
+            "en": "Exploring Ponte de Lima by car is convenient even during persistent rain. We start at the large riverside parking lot and visit the parks using umbrellas for short walks. Driving across the bridge offers great views of the rising Lima river. At noon, we park near Largo de Camões for quick access to restaurants. The afternoon is spent inside the museum before driving back in comfort.",
+            "pt": "Explorar Ponte de Lima de carro é conveniente mesmo durante chuva persistente. Começamos no grande parque de estacionamento à beira-rio e visitamos os parques com guarda-chuvas para curtos passeios. Cruzar a ponte de carro oferece ótimas vistas do crescente rio Lima. Ao meio-dia, estacionamos perto do Largo de Camões para acesso rápido aos restaurantes. A tarde é passada dentro do museu antes de regressar confortavelmente de carro."
           },
           "stops": [
             {
@@ -1500,7 +1622,8 @@
                 "de": "Nutzen Sie den Parkplatz am Flussufer; er bietet viel Platz und einfachen Zugang.",
                 "hu": "Használja a folyóparti nagy parkolót; tágas és könnyen megközelíthető esőben is.",
                 "ro": "Folosiți parcarea de pe malul râului; este spațioasă și ușor de accesat.",
-                "en": "Use the large riverside parking lot; it offers plenty of space and easy city access."
+                "en": "Use the large riverside parking lot; it offers plenty of space and easy city access.",
+                "pt": "Use o grande parque de estacionamento à beira-rio; oferece muito espaço e acesso fácil à cidade."
               }
             },
             {
@@ -1509,7 +1632,8 @@
                 "de": "Parken Sie so nah wie möglich am Eingang, um den Weg im Regen zu verkürzen.",
                 "hu": "Parkoljon minél közelebb a bejárathoz, hogy lerövidítse az esőben megtett utat.",
                 "ro": "Parcați cât mai aproape de intrare pentru a scurta drumul prin ploaie.",
-                "en": "Park as close to the entrance as possible to minimize walking in the rain."
+                "en": "Park as close to the entrance as possible to minimize walking in the rain.",
+                "pt": "Estacione o mais próximo possível da entrada para minimizar a caminhada na chuva."
               }
             },
             {
@@ -1518,7 +1642,8 @@
                 "de": "Vorsicht bei der Ein- und Ausfahrt auf die Brücke; Granit ist rutschig.",
                 "hu": "Vigyázat a hídra való fel- és lehajtáskor; a gránit burkolat csúszós lehet.",
                 "ro": "Atenție la urcarea și coborârea de pe pod; granitul poate fi alunecos.",
-                "en": "Use caution when entering and exiting the bridge; the granite surface can be slick."
+                "en": "Use caution when entering and exiting the bridge; the granite surface can be slick.",
+                "pt": "Tenha cuidado ao entrar e sair da ponte; a superfície de granito pode ser escorregadia."
               }
             },
             {
@@ -1527,7 +1652,8 @@
                 "de": "Zentrale Parkplätze sind bei Regen begehrt; kommen Sie frühzeitig an.",
                 "hu": "A központi parkolóhelyek esőben népszerűek; érkezzen időben a helyért.",
                 "ro": "Locurile de parcare centrale sunt căutate pe ploaie; sosiți devreme.",
-                "en": "Central parking spots are popular in the rain; arrive early to secure a place."
+                "en": "Central parking spots are popular in the rain; arrive early to secure a place.",
+                "pt": "Os lugares centrais são populares na chuva; chegue cedo para garantir um lugar."
               }
             },
             {
@@ -1536,7 +1662,8 @@
                 "de": "Ein idealer Ort, um das Auto stehen zu lassen und die Kunst im Trockenen zu genießen.",
                 "hu": "Ideális pont, ahol leállíthatjuk az autót, és szárazon élvezhetjük a művészetet.",
                 "ro": "Locul ideal pentru a lăsa mașina și a savura arta la adăpost de ploaie.",
-                "en": "A perfect spot to park and enjoy the art collections while staying dry."
+                "en": "A perfect spot to park and enjoy the art collections while staying dry.",
+                "pt": "Um local perfeito para estacionar e apreciar as coleções de arte enquanto se mantém seco."
               }
             },
             {
@@ -1545,7 +1672,8 @@
                 "de": "Prüfen Sie Ihre Scheibenwischer; gute Sicht ist bei starkem Regen entscheidend.",
                 "hu": "Ellenőrizze az ablaktörlőket; a jó látási viszonyok kulcsfontosságúak heves esőben.",
                 "ro": "Verificați ștergătoarele; vizibilitatea bună este crucială pe ploaie torențială.",
-                "en": "Check your wipers; good visibility is crucial during heavy Atlantic rain."
+                "en": "Check your wipers; good visibility is crucial during heavy Atlantic rain.",
+                "pt": "Verifique os limpa-vidros; boa visibilidade é crucial durante chuva intensa do Atlântico."
               }
             }
           ],
@@ -1577,6 +1705,13 @@
               "The streets in the historic center are narrow and slippery when wet.",
               "Always keep an umbrella within reach inside the passenger cabin.",
               "Many restaurants offer parking spaces in very close proximity."
+            ],
+            "pt": [
+              "Use parques cobertos se quiser manter o carro completamente seco.",
+              "Evite estacionar sob árvores durante ventos fortes junto à margem do rio.",
+              "As ruas do centro histórico são estreitas e escorregadias quando molhadas.",
+              "Tenha sempre um guarda-chuvas ao alcance dentro da cabine de passageiros.",
+              "Muitos restaurantes oferecem lugares de estacionamento muito próximos."
             ]
           }
         },
@@ -1585,7 +1720,8 @@
             "de": "Wintersonne macht die Autofahrt durch Ponte de Lima zu einem Vergnügen. Wir starten am Uferparkplatz und spazieren durch den Parque do Arnado. Die Fahrt über die historische Brücke ist im klaren Winterlicht spektakulär. Mittags parken wir im Zentrum für einen gemütlichen Restaurantbesuch. Den Nachmittag nutzen wir für das Museum, bevor wir bei Sonnenuntergang die Rückfahrt antreten.",
             "hu": "A téli napsütés élvezetessé teszi az autózást Ponte de Limában. A folyóparti parkolóban kezdünk, majd teszünk egy sétát a Parque do Arnadóban. Az áthajtás a történelmi hídon a tiszta téli fényben látványos. Délben a központban parkolunk egy hangulatos ebédhez. A délutánt a múzeumban töltjük, majd naplementekor indulunk vissza.",
             "ro": "Soarele de iarnă face plimbarea cu mașina prin Ponte de Lima o plăcere. Începem la parcarea de pe mal și ne plimbăm prin Parque do Arnado. Traversarea podului istoric este spectaculoasă în lumina clară de iarnă. La prânz parcăm în centru pentru o masă caldă. După-amiaza o rezervăm muzeului, plecând spre casă la apus.",
-            "en": "Winter sunshine makes driving through Ponte de Lima a real pleasure. We start at the riverside parking lot and take a stroll through Parque do Arnado. Driving across the historic bridge is spectacular in the clear winter light. At noon, we park in the center for a cozy restaurant visit. The afternoon is dedicated to the museum before heading back at sunset."
+            "en": "Winter sunshine makes driving through Ponte de Lima a real pleasure. We start at the riverside parking lot and take a stroll through Parque do Arnado. Driving across the historic bridge is spectacular in the clear winter light. At noon, we park in the center for a cozy restaurant visit. The afternoon is dedicated to the museum before heading back at sunset.",
+            "pt": "O sol de inverno torna a condução por Ponte de Lima um verdadeiro prazer. Começamos no parque de estacionamento à beira-rio e fazemos um passeio pelo Parque do Arnado. Cruzar a ponte histórica é espectacular com a luz clara do inverno. Ao meio-dia, estacionamos no centro para uma visita a um restaurante acolhedor. A tarde é dedicada ao museu antes de regressarmos ao pôr do sol."
           },
           "stops": [
             {
@@ -1594,7 +1730,8 @@
                 "de": "Der Parkplatz kann morgens eine leichte Frostschicht aufweisen; Vorsicht beim Gehen.",
                 "hu": "A parkoló reggelente enyhén deres lehet; vigyázzon a kiszállás utáni lépésekkel.",
                 "ro": "Parcarea poate fi înghețată dimineața; atenție la primii pași după coborâre.",
-                "en": "The parking lot may be frosty in the morning; take care when stepping out."
+                "en": "The parking lot may be frosty in the morning; take care when stepping out.",
+                "pt": "O parque de estacionamento pode estar com geada pela manhã; tenha cuidado ao sair."
               }
             },
             {
@@ -1603,7 +1740,8 @@
                 "de": "Parken Sie in der Sonne, um das Auto für die Weiterfahrt natürlich aufzuwärmen.",
                 "hu": "Parkoljon napos helyre, hogy az autó természetes módon felmelegedjen a pihenő alatt.",
                 "ro": "Parcați la soare pentru ca mașina să se încălzească natural în timpul vizitei.",
-                "en": "Park in a sunny spot to let the car warm up naturally while you explore the park."
+                "en": "Park in a sunny spot to let the car warm up naturally while you explore the park.",
+                "pt": "Estacione num local solarengo para deixar o carro aquecer naturalmente enquanto explora o parque."
               }
             },
             {
@@ -1612,7 +1750,8 @@
                 "de": "Genießen Sie den freien Blick auf den Fluss durch die Autofenster ohne kalten Wind.",
                 "hu": "Élvezze a kilátást a folyóra az autó ablakán keresztül, a hideg szél nélkül.",
                 "ro": "Admirați vederea spre râu prin geamul mașinii, ferit de vântul rece.",
-                "en": "Enjoy the river views through your car windows, sheltered from the cold wind."
+                "en": "Enjoy the river views through your car windows, sheltered from the cold wind.",
+                "pt": "Desfrute das vistas do rio através das janelas do carro, protegido do vento frio."
               }
             },
             {
@@ -1621,7 +1760,8 @@
                 "de": "Zentrale Parkplätze ermöglichen kurze Wege zu warmen Cafés.",
                 "hu": "A központi parkolóhelyek lehetővé teszik a gyors bejutást a meleg kávézókba.",
                 "ro": "Parcările centrale permit accesul rapid în cafenelele încălzite.",
-                "en": "Central parking spots allow for quick access to the warmth of local cafes."
+                "en": "Central parking spots allow for quick access to the warmth of local cafes.",
+                "pt": "Os lugares centrais permitem acesso rápido ao calor dos cafés locais."
               }
             },
             {
@@ -1630,7 +1770,8 @@
                 "de": "Das Parken in der Nähe ist im Winter einfacher als in der touristischen Hochsaison.",
                 "hu": "A közelben való parkolás télen sokkal egyszerűbb, mint a főszezonban.",
                 "ro": "Parcarea în apropiere este mai ușoară iarna decât în plin sezon turistic.",
-                "en": "Parking nearby is much easier in winter than during the peak tourist season."
+                "en": "Parking nearby is much easier in winter than during the peak tourist season.",
+                "pt": "Estacionar por perto é muito mais fácil no inverno do que na época alta de turismo."
               }
             },
             {
@@ -1639,7 +1780,8 @@
                 "de": "Prüfen Sie Ihre Heizung; bei Sonnenuntergang sinken die Temperaturen schnell.",
                 "hu": "Ellenőrizze a fűtést; naplemente után a hőmérséklet gyorsan csökken.",
                 "ro": "Verificați sistemul de încălzire; temperatura scade rapid după apus.",
-                "en": "Check your heating system; temperatures drop quickly once the sun sets."
+                "en": "Check your heating system; temperatures drop quickly once the sun sets.",
+                "pt": "Verifique o sistema de aquecimento; as temperaturas descem rapidamente depois do pôr do sol."
               }
             }
           ],
@@ -1671,6 +1813,13 @@
               "Watch out for potential icy patches in shaded alleys early in the morning.",
               "Plan your return drive before 6:00 PM if you prefer to avoid driving in the dark.",
               "A thermos of hot coffee in the car is perfect for quick sightseeing breaks."
+            ],
+            "pt": [
+              "Aproveite o baixo sol de inverno para ótimas fotos cénicas a partir do carro.",
+              "A situação de estacionamento junto ao rio é muito tranquila e fácil durante o inverno.",
+              "Cuidado com possíveis placas de gelo em becos sombreados nas primeiras horas da manhã.",
+              "Planeie a sua viagem de regresso antes das 18:00 se preferir evitar conduzir no escuro.",
+              "Um termo de café quente no carro é perfeito para pausas rápidas de turismo."
             ]
           }
         }
@@ -1689,7 +1838,8 @@
             "de": "Ankunft am Busbahnhof",
             "hu": "Érkezés a buszpályaudvarra",
             "ro": "Sosire la autogară",
-            "en": "Arrival at Bus Station"
+            "en": "Arrival at Bus Station",
+            "pt": "Chegada à Estação Rodoviária"
           },
           "coords": [
             -8.58,
@@ -1705,7 +1855,8 @@
             "de": "Der Busbahnhof liegt zentral, von hier aus beginnt Ihr Rundgang.",
             "hu": "A buszpályaudvar központi helyen van, innen indul a gyalogtúra.",
             "ro": "Autogara este situată central, turul pe jos începe de aici.",
-            "en": "The bus station is centrally located, your walking tour starts from here."
+            "en": "The bus station is centrally located, your walking tour starts from here.",
+            "pt": "A estação rodoviária está localizada no centro; o seu passeio a pé começa aqui."
           }
         },
         {
@@ -1713,7 +1864,8 @@
             "de": "Largo de Camões & Altstadt",
             "hu": "Largo de Camões és Óváros",
             "ro": "Largo de Camões & Orașul Vechi",
-            "en": "Largo de Camões & Old Town"
+            "en": "Largo de Camões & Old Town",
+            "pt": "Largo de Camões & Centro Histórico"
           },
           "coords": [
             -8.583,
@@ -1729,7 +1881,8 @@
             "de": "Beginnen Sie mit der Erkundung des Herzens der Stadt, des Hauptplatzes.",
             "hu": "Kezdje a város szívének, a főtérnek a felfedezésével.",
             "ro": "Începeți explorarea în inima orașului, piața principală.",
-            "en": "Start by exploring the heart of the town, the main square."
+            "en": "Start by exploring the heart of the town, the main square.",
+            "pt": "Comece por explorar o coração da vila, a praça principal."
           }
         },
         {
@@ -1737,7 +1890,8 @@
             "de": "Ponte Romana e Medieval",
             "hu": "Római és középkori híd",
             "ro": "Ponte Romana e Medieval",
-            "en": "Roman and Medieval Bridge"
+            "en": "Roman and Medieval Bridge",
+            "pt": "Ponte Romana e Medieval"
           },
           "coords": [
             -8.5845,
@@ -1753,7 +1907,8 @@
             "de": "Ein kurzer Spaziergang zur berühmten Brücke, dem Wahrzeichen der Stadt.",
             "hu": "Rövid séta a híres hídhoz, a város jelképéhez.",
             "ro": "O scurtă plimbare până la faimosul pod, simbolul orașului.",
-            "en": "A short walk to the famous bridge, the town's landmark."
+            "en": "A short walk to the famous bridge, the town's landmark.",
+            "pt": "Uma curta caminhada até à famosa ponte, o marco da vila."
           }
         },
         {
@@ -1761,7 +1916,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "pt": "Almoço"
           },
           "coords": [
             -8.582,
@@ -1777,7 +1933,8 @@
             "de": "Nach dem Vormittagsspaziergang ist es Zeit für ein traditionelles portugiesisches Mittagessen.",
             "hu": "A délelőtti séta után ideje egy hagyományos portugál ebédnek.",
             "ro": "După plimbarea de dimineață, este timpul pentru un prânz tradițional portughez.",
-            "en": "After the morning walk, it's time for a traditional Portuguese lunch."
+            "en": "After the morning walk, it's time for a traditional Portuguese lunch.",
+            "pt": "Depois da caminhada matinal, é hora de um almoço tradicional português."
           }
         },
         {
@@ -1785,7 +1942,8 @@
             "de": "Museu dos Terceiros",
             "hu": "Museu dos Terceiros",
             "ro": "Museu dos Terceiros",
-            "en": "Museu dos Terceiros"
+            "en": "Museu dos Terceiros",
+            "pt": "Museu dos Terceiros"
           },
           "coords": [
             -8.5815,
@@ -1801,7 +1959,8 @@
             "de": "Entdecken Sie die reiche Sammlung sakraler Kunst in diesem Museum.",
             "hu": "Fedezze fel a múzeum gazdag szakrális művészeti gyűjteményét.",
             "ro": "Descoperiți colecția bogată de artă sacră a acestui muzeu.",
-            "en": "Discover the rich collection of sacred art in this museum."
+            "en": "Discover the rich collection of sacred art in this museum.",
+            "pt": "Descubra a rica colecção de arte sacra neste museu."
           }
         },
         {
@@ -1809,7 +1968,8 @@
             "de": "Parque do Arnado",
             "hu": "Parque do Arnado",
             "ro": "Parque do Arnado",
-            "en": "Parque do Arnado"
+            "en": "Parque do Arnado",
+            "pt": "Parque do Arnado"
           },
           "coords": [
             -8.588,
@@ -1825,7 +1985,8 @@
             "de": "Beenden Sie den Tag mit einem entspannten Spaziergang durch die Gärten am Flussufer.",
             "hu": "Zárja a napot egy pihentető sétával a folyóparti kertekben.",
             "ro": "Încheiați ziua cu o plimbare relaxantă prin grădinile de pe malul râului.",
-            "en": "End your day with a relaxing walk through the riverside gardens."
+            "en": "End your day with a relaxing walk through the riverside gardens.",
+            "pt": "Termine o dia com um passeio relaxante pelos jardins ribeirinhos."
           }
         }
       ],
@@ -1833,7 +1994,8 @@
         "de": "Nach der Ankunft am Busbahnhof erkunden Sie das kompakte Zentrum von Ponte de Lima zu Fuß. Beginnen Sie am Hauptplatz, spazieren Sie zur historischen Brücke und genießen Sie die Aussicht. Nach einem traditionellen Mittagessen besuchen Sie das Museu dos Terceiros für eine Dosis Kultur. Schließen Sie den Tag mit einem entspannenden Spaziergang durch den Parque do Arnado ab, bevor Sie zum Busbahnhof zurückkehren.",
         "hu": "A buszpályaudvarra érkezés után fedezze fel gyalog Ponte de Lima kompakt központját. Kezdje a főtérnél, sétáljon el a történelmi hídig, és élvezze a kilátást. Egy hagyományos ebéd után látogasson el a Museu dos Terceiros-ba egy adag kultúráért. Zárja a napot egy pihentető sétával a Parque do Arnado-ban, mielőtt visszatérne a buszpályaudvarra.",
         "ro": "După sosirea la autogară, explorați pe jos centrul compact al orașului Ponte de Lima. Începeți din piața principală, plimbați-vă până la podul istoric și bucurați-vă de priveliște. După un prânz tradițional, vizitați Museu dos Terceiros pentru o doză de cultură. Încheiați ziua cu o plimbare relaxantă prin Parque do Arnado înainte de a vă întoarce la autogară.",
-        "en": "After arriving at the bus station, explore the compact center of Ponte de Lima on foot. Start at the main square, walk to the historic bridge and enjoy the views. After a traditional lunch, visit the Museu dos Terceiros for a dose of culture. Conclude the day with a relaxing walk through Parque do Arnado before heading back to the bus station."
+        "en": "After arriving at the bus station, explore the compact center of Ponte de Lima on foot. Start at the main square, walk to the historic bridge and enjoy the views. After a traditional lunch, visit the Museu dos Terceiros for a dose of culture. Conclude the day with a relaxing walk through Parque do Arnado before heading back to the bus station.",
+        "pt": "Depois de chegar à estação rodoviária, explore o compacto centro de Ponte de Lima a pé. Comece na praça principal, caminhe até à ponte histórica e desfrute das vistas. Após um almoço tradicional, visite o Museu dos Terceiros para uma dose de cultura. Conclua o dia com um passeio relaxante pelo Parque do Arnado antes de regressar à estação rodoviária."
       },
       "gastro_picks": {
         "de": [
@@ -2009,6 +2171,12 @@
           "The town is extremely pedestrian-friendly, so you won't need other transport once you arrive.",
           "Wear comfortable shoes.",
           "Most attractions are located close to each other."
+        ],
+        "pt": [
+          "Verifique o horário dos autocarros com antecedência, especialmente para a viagem de regresso.",
+          "A vila é extremamente amiga dos peões, por isso não precisará de outro transporte depois de chegar.",
+          "Use calçado confortável.",
+          "A maioria das atrações está localizada perto umas das outras."
         ]
       },
       "variants": {
@@ -2017,7 +2185,8 @@
             "de": "Mit dem öffentlichen Nahverkehr erkunden wir Ponte de Lima auch bei Regen trocken und entspannt. Wir kommen am Busbahnhof an und nutzen kurze Fußwege zum Largo de Camões. Die Brücke überqueren wir zügig, um im Museu dos Terceiros Schutz zu finden. Mittags genießen wir die Gastronomie im Zentrum. Den Nachmittag verbringen wir in den überdachten Bereichen der Sehenswürdigkeiten, bevor uns der Bus zurückbringt.",
             "hu": "Tömegközlekedéssel esőben is kényelmesen bejárhatjuk Ponte de Limát. A buszpályaudvarra érkezve rövid sétával elérjük a Largo de Camőest. A hídon gyorsan átkelünk, hogy menedéket leljünk a Museu dos Terceiros falai között. Délben a központ egyik éttermében pihenünk meg. A délutánt fedett helyszíneken töltjük, majd a menetrend szerinti busszal indulunk vissza.",
             "ro": "Cu transportul public, explorăm Ponte de Lima la adăpost de ploaie și relaxați. Sosim la autogară și parcurgem drumul scurt până în Largo de Camões. Traversăm rapid podul pentru a ne adăposti în Museu dos Terceiros. La prânz ne bucurăm de restaurantele din centru. După-amiaza o petrecem în zonele acoperite ale obiectivelor turistice, înainte ca autobuzul să ne preia.",
-            "en": "Public transit allows us to explore Ponte de Lima comfortably even on a rainy day. Arriving at the bus station, it's a short walk to Largo de Camões. We cross the bridge quickly to find shelter in the Museu dos Terceiros. At noon, we enjoy a meal in the city center. The afternoon is spent exploring indoor sections of the main sites before taking the bus back."
+            "en": "Public transit allows us to explore Ponte de Lima comfortably even on a rainy day. Arriving at the bus station, it's a short walk to Largo de Camões. We cross the bridge quickly to find shelter in the Museu dos Terceiros. At noon, we enjoy a meal in the city center. The afternoon is spent exploring indoor sections of the main sites before taking the bus back.",
+            "pt": "O transporte público permite-nos explorar Ponte de Lima confortavelmente mesmo em dia de chuva. Ao chegar à estação rodoviária, é uma curta caminhada até ao Largo de Camões. Cruzamos a ponte rapidamente para encontrar abrigo no Museu dos Terceiros. Ao meio-dia, desfrutamos de uma refeição no centro da vila. A tarde é passada a explorar as secções interiores dos principais pontos antes de apanhar o autocarro de regresso."
           },
           "stops": [
             {
@@ -2026,7 +2195,8 @@
                 "de": "Warten Sie im überdachten Bereich des Bahnhofs auf Ihren Anschluss.",
                 "hu": "Várjon a buszpályaudvar fedett várótermében a csatlakozásra vagy az indulásra.",
                 "ro": "Așteptați în zona acoperită a autogării pentru a rămâne uscat.",
-                "en": "Wait in the covered area of the bus station to stay dry between connections."
+                "en": "Wait in the covered area of the bus station to stay dry between connections.",
+                "pt": "Espere na área coberta da estação rodoviária para se manter seco entre ligações."
               }
             },
             {
@@ -2035,7 +2205,8 @@
                 "de": "Die Bushaltestellen hier bieten meist guten Schutz vor Regenschauern.",
                 "hu": "Az itteni buszmegállók többnyire jó védelmet nyújtanak a záporok ellen.",
                 "ro": "Stațiile de autobuz de aici oferă de obicei o bună protecție contra ploii.",
-                "en": "The bus stops in this area generally offer good shelter from passing showers."
+                "en": "The bus stops in this area generally offer good shelter from passing showers.",
+                "pt": "Os pontos de paragem de autocarro desta área geralmente oferecem bom abrigo contra aguaceiros."
               }
             },
             {
@@ -2044,7 +2215,8 @@
                 "de": "Nutzen Sie den Bus, um die Brücke trocken zu überqueren, falls eine Linie fährt.",
                 "hu": "Használja a buszt a hídon való átkeléshez, ha épp jár arra megfelelő járat.",
                 "ro": "Folosiți autobuzul pentru a traversa podul dacă există o linie activă.",
-                "en": "Consider taking a local bus to cross the bridge dry if a line is available."
+                "en": "Consider taking a local bus to cross the bridge dry if a line is available.",
+                "pt": "Considere apanhar um autocarro local para atravessar a ponte seco se houver uma linha disponível."
               }
             },
             {
@@ -2053,7 +2225,8 @@
                 "de": "Viele Cafés liegen direkt an den Busrouten; ideal für kurze Pausen.",
                 "hu": "Sok kávézó közvetlenül a buszjáratok útvonalán fekszik; ideális rövid pihenőre.",
                 "ro": "Multe cafenele sunt chiar pe traseul autobuzelor; ideale pentru pauze scurte.",
-                "en": "Many cafes are located directly on bus routes, ideal for a quick dry break."
+                "en": "Many cafes are located directly on bus routes, ideal for a quick dry break.",
+                "pt": "Muitos cafés estão localizados diretamente nas rotas de autocarro, ideais para uma pausa rápida e seca."
               }
             },
             {
@@ -2062,7 +2235,8 @@
                 "de": "Die Haltestellen in der Nähe verkürzen den Fußweg im Regen erheblich.",
                 "hu": "A közeli megállók jelentősen lerövidítik az esőben megtett gyalogutat.",
                 "ro": "Stațiile din apropiere scurtează considerabil drumul pe jos prin ploaie.",
-                "en": "Nearby bus stops significantly shorten the walking distance in the rain."
+                "en": "Nearby bus stops significantly shorten the walking distance in the rain.",
+                "pt": "Paragens de autocarro próximas encurtam significativamente a distância a pé na chuva."
               }
             },
             {
@@ -2071,7 +2245,8 @@
                 "de": "Prüfen Sie den Rückfahrplan vorab, um langes Warten im Regen zu vermeiden.",
                 "hu": "Előre ellenőrizze a menetrendet, hogy elkerülje a hosszú várakozást az esőben.",
                 "ro": "Verificați programul din timp pentru a evita așteptarea prelungită în ploaie.",
-                "en": "Check the return schedule in advance to avoid waiting long in the rain."
+                "en": "Check the return schedule in advance to avoid waiting long in the rain.",
+                "pt": "Verifique o horário de regresso com antecedência para evitar esperar muito tempo na chuva."
               }
             }
           ],
@@ -2103,6 +2278,13 @@
               "Buses are usually well-heated and dry, providing a comfortable ride in winter.",
               "The central riverside bus stop is the best hub for changing lines in the rain.",
               "Allow extra time for travel as city traffic can be slower during heavy rain."
+            ],
+            "pt": [
+              "Use apps de transporte para informação em tempo real e minimizar a espera fora na chuva.",
+              "Tenha algumas moedas prontas para bilhetes de autocarro se não aceitarem pagamentos por cartão.",
+              "Os autocarros costumam ser bem aquecidos e secos, proporcionando uma viagem confortável no inverno.",
+              "A paragem central à beira-rio é o melhor ponto para trocar de linhas na chuva.",
+              "Reserve tempo extra, pois o trânsito da cidade pode ser mais lento durante chuva intensa."
             ]
           }
         },
@@ -2111,7 +2293,8 @@
             "de": "Ein klarer Wintertag lädt dazu ein, Ponte de Lima mit dem Bus zu besuchen. Wir kommen am Vormittag an und spazieren zum Largo de Camões. Die frische Luft auf der Brücke genießen wir in vollen Zügen. Mittags kehren wir in ein gemütliches Restaurant im Zentrum ein. Den Nachmittag verbringen wir im Museum, bevor uns der Bus pünktlich zum Sonnenuntergang wieder zurückfährt.",
             "hu": "Egy tiszta téli napon remek választás busszal érkezni Ponte de Limába. Délelőtt érkezünk, és elsétálunk a Largo de Camõesre. A hídon való séta közben élvezzük a friss levegőt. Délben egy hangulatos belvárosi étteremben ebédelünk. A délutánt a múzeumban töltjük, majd a busz pont a naplemente környékén indul velünk vissza.",
             "ro": "O zi senină de iarnă este perfectă pentru a vizita Ponte de Lima cu autobuzul. Sosim dimineața și ne plimbăm spre Largo de Camões. Aerul proaspăt de pe pod este revigorant. La prânz alegem un restaurant primitor în centru. După-amiaza o petrecem la muzeu, autocarul plecând înapoi exact la ora apusului.",
-            "en": "A clear winter day is perfect for visiting Ponte de Lima by bus. We arrive in the morning and walk to Largo de Camões. The fresh air on the bridge is truly invigorating. At noon, we find a cozy restaurant in the center for lunch. The afternoon is spent at the museum before the bus departs just as the sun begins to set."
+            "en": "A clear winter day is perfect for visiting Ponte de Lima by bus. We arrive in the morning and walk to Largo de Camões. The fresh air on the bridge is truly invigorating. At noon, we find a cozy restaurant in the center for lunch. The afternoon is spent at the museum before the bus departs just as the sun begins to set.",
+            "pt": "Um dia claro de inverno é perfeito para visitar Ponte de Lima de autocarro. Chegamos de manhã e caminhamos até ao Largo de Camões. O ar revigorante na ponte é realmente energizante. Ao meio-dia, encontramos um restaurante acolhedor no centro para almoçar. A tarde é passada no museu antes do autocarro partir quando o sol começa a pôr-se."
           },
           "stops": [
             {
@@ -2120,7 +2303,8 @@
                 "de": "Die Wartehalle bietet Schutz vor dem kühlen Morgenwind.",
                 "hu": "A váróterem védelmet nyújt a hűvös reggeli szél ellen.",
                 "ro": "Sala de așteptare oferă protecție contra vântului rece de dimineață.",
-                "en": "The waiting hall provides a good escape from the cool morning breeze."
+                "en": "The waiting hall provides a good escape from the cool morning breeze.",
+                "pt": "A sala de espera oferece uma boa fuga da brisa fresca da manhã."
               }
             },
             {
@@ -2129,7 +2313,8 @@
                 "de": "Ein kurzer Fußweg führt direkt in das Herz der winterlichen Altstadt.",
                 "hu": "Rövid séta vezet innen közvetlenül a téli óváros szívébe.",
                 "ro": "O scurtă plimbare vă duce direct în inima centrului vechi hibernal.",
-                "en": "A short walk from here leads directly into the heart of the winter old town."
+                "en": "A short walk from here leads directly into the heart of the winter old town.",
+                "pt": "Uma curta caminhada daqui leva diretamente ao coração da cidade velha de inverno."
               }
             },
             {
@@ -2138,7 +2323,8 @@
                 "de": "Die Brücke ist im klaren Winterlicht besonders beeindruckend.",
                 "hu": "A híd a tiszta téli fényben különösen lenyűgöző látványt nyújt.",
                 "ro": "Podul este deosebit de impresionant în lumina clară de iarnă.",
-                "en": "The bridge is particularly impressive in the sharp, clear winter light."
+                "en": "The bridge is particularly impressive in the sharp, clear winter light.",
+                "pt": "A ponte é particularmente impressionante com a luz nítida e clara do inverno."
               }
             },
             {
@@ -2147,7 +2333,8 @@
                 "de": "Wählen Sie ein Restaurant mit Fenstern zum Fluss für die Wintersonne.",
                 "hu": "Válasszon folyóra néző ablakos éttermet, hogy élvezze a téli napsütést.",
                 "ro": "Alegeți un restaurant cu ferestre spre râu pentru a profita de soarele de iarnă.",
-                "en": "Choose a restaurant with river-view windows to soak up the winter sun."
+                "en": "Choose a restaurant with river-view windows to soak up the winter sun.",
+                "pt": "Escolha um restaurante com janelas viradas para o rio para aproveitar o sol de inverno."
               }
             },
             {
@@ -2156,7 +2343,8 @@
                 "de": "Genießen Sie die Stille im Museum während der ruhigen Wintersaison.",
                 "hu": "Élvezze a múzeum csendjét a nyugodt téli szezon idején.",
                 "ro": "Bucurați-vă de liniștea muzeului în timpul sezonului calm de iarnă.",
-                "en": "Enjoy the quiet atmosphere of the museum during the calm winter season."
+                "en": "Enjoy the quiet atmosphere of the museum during the calm winter season.",
+                "pt": "Desfrute da atmosfera calma do museu durante a tranquila época de inverno."
               }
             },
             {
@@ -2165,7 +2353,8 @@
                 "de": "Behalten Sie die Zeit für den letzten Bus im Auge, da es früh dunkel wird.",
                 "hu": "Figyelje az utolsó busz indulását, mert korán sötétedik.",
                 "ro": "Fiți atenți la ora ultimului autobuz, deoarece se întunecă devreme.",
-                "en": "Keep an eye on the schedule for the last bus, as it gets dark early."
+                "en": "Keep an eye on the schedule for the last bus, as it gets dark early.",
+                "pt": "Fique atento ao horário do último autocarro, pois anoitece cedo."
               }
             }
           ],
@@ -2197,6 +2386,13 @@
               "Use central stops to minimize time spent outdoors when changing lines.",
               "Wear warm clothing for the waiting times at unsheltered bus stops.",
               "During the winter season, buses are often much less crowded than in summer."
+            ],
+            "pt": [
+              "Verifique o horário de inverno, pois algumas linhas podem funcionar com menos frequência.",
+              "A viagem de autocarro oferece ótimas vistas do campo sem o frio do inverno.",
+              "Use paragens centrais para minimizar o tempo ao ar livre ao trocar de linhas.",
+              "Vista-se com roupa quente para os tempos de espera em paragens de autocarro sem abrigo.",
+              "Durante a temporada de inverno, os autocarros costumam estar muito menos cheios do que no verão."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Beginnen Sie am Parque Central da Amadora",
             "hu": "Kezdje a Parque Central da Amadora parkban",
             "ro": "Începeți la Parque Central da Amadora",
-            "en": "Start at Parque Central da Amadora"
+            "en": "Start at Parque Central da Amadora",
+            "pt": "Comece no Parque Central da Amadora"
           },
           "coords": [
             -9.2236,
@@ -37,7 +38,8 @@
             "de": "Genießen Sie einen Morgenkaffee in einem der Kioske, bevor Sie den Park erkunden.",
             "hu": "Élvezzen egy reggeli kávét az egyik kioszkban, mielőtt felfedezné a parkot.",
             "ro": "Savurați o cafea de dimineață la unul dintre chioșcuri înainte de a explora parcul.",
-            "en": "Enjoy a morning coffee at one of the kiosks before exploring the park."
+            "en": "Enjoy a morning coffee at one of the kiosks before exploring the park.",
+            "pt": "Desfrute de um café matinal num dos quiosques antes de explorar o parque."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Casa Roque Gameiro",
             "hu": "Casa Roque Gameiro",
             "ro": "Casa Roque Gameiro",
-            "en": "Casa Roque Gameiro"
+            "en": "Casa Roque Gameiro",
+            "pt": "Casa Roque Gameiro"
           },
           "coords": [
             -9.2278,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die Aquarellmalereien, die das Haus schmücken, viele vom Künstler selbst.",
             "hu": "Figyelje meg a házat díszítő akvarell festményeket, sokat maga a művész festett.",
             "ro": "Fiți atenți la picturile în acuarelă care decorează casa, multe realizate de artistul însuși.",
-            "en": "Look for the watercolor paintings that decorate the house, many by the artist himself."
+            "en": "Look for the watercolor paintings that decorate the house, many by the artist himself.",
+            "pt": "Procure as aguarelas que decoram a casa, muitas assinadas pelo próprio artista."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Teatro dos Aloés",
             "hu": "Teatro dos Aloés",
             "ro": "Teatro dos Aloés",
-            "en": "Teatro dos Aloés"
+            "en": "Teatro dos Aloés",
+            "pt": "Teatro dos Aloés"
           },
           "coords": [
             -9.2305,
@@ -85,7 +90,8 @@
             "de": "Prüfen Sie, ob während Ihres Besuchs eine Matinee-Vorstellung oder eine Probe stattfindet.",
             "hu": "Nézze meg, van-e matiné előadás vagy próba a látogatása során.",
             "ro": "Verificați dacă există un spectacol de matineu sau o repetiție în timpul vizitei dvs.",
-            "en": "Check if there's a matinee performance or a rehearsal happening during your visit."
+            "en": "Check if there's a matinee performance or a rehearsal happening during your visit.",
+            "pt": "Verifique se há uma matinée ou um ensaio durante a sua visita."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Mittagessen in der Nähe des Theaters",
             "hu": "Ebéd a színház közelében",
             "ro": "Prânz lângă teatru",
-            "en": "Lunch near the theatre"
+            "en": "Lunch near the theatre",
+            "pt": "Almoço junto ao teatro"
           },
           "coords": [
             -9.231,
@@ -109,7 +116,8 @@
             "de": "Probieren Sie ein lokales Restaurant für 'Bacalhau à Brás', ein portugiesisches Grundnahrungsmittel.",
             "hu": "Próbáljon ki egy helyi éttermet, ahol 'Bacalhau à Brás'-t, egy portugál alapételt szolgálnak fel.",
             "ro": "Încercați un restaurant local pentru 'Bacalhau à Brás', un preparat de bază portughez.",
-            "en": "Try a local restaurant for 'Bacalhau à Brás', a Portuguese staple."
+            "en": "Try a local restaurant for 'Bacalhau à Brás', a Portuguese staple.",
+            "pt": "Experimente um restaurante local para provar o 'Bacalhau à Brás', um clássico português."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Igreja da Reboleira",
             "hu": "Igreja da Reboleira",
             "ro": "Igreja da Reboleira",
-            "en": "Igreja da Reboleira"
+            "en": "Igreja da Reboleira",
+            "pt": "Igreja da Reboleira"
           },
           "coords": [
             -9.2411,
@@ -133,7 +142,8 @@
             "de": "Nehmen Sie sich einen Moment Zeit, um die modernen Buntglasfenster zu bewundern.",
             "hu": "Szánjon egy percet a modern ólomüveg ablakok megcsodálására.",
             "ro": "Luați-vă un moment pentru a admira vitraliile moderne.",
-            "en": "Take a moment to appreciate the modern stained glass windows."
+            "en": "Take a moment to appreciate the modern stained glass windows.",
+            "pt": "Reserve um momento para apreciar os vitrais modernos."
           }
         }
       ],
@@ -141,7 +151,8 @@
         "de": "Beginnen Sie Ihren Tag mit einem erfrischenden Spaziergang im Parque Central. Am Vormittag tauchen Sie in die Kunst in der Casa Roque Gameiro ein, dem ehemaligen Zuhause eines berühmten portugiesischen Malers. Nach einem kurzen Blick auf das örtliche Theater genießen Sie ein gemütliches Mittagessen. Der Nachmittag ist einem Spaziergang zur Igreja da Reboleira gewidmet, wo Sie die Ruhe und die moderne Architektur genießen können. Am Abend entspannen Sie sich und denken über die versteckten Juwelen der Stadt nach.",
         "hu": "Kezdje a napot egy frissítő sétával a Parque Centralban. A délelőtt folyamán merüljön el a művészetben a Casa Roque Gameiro-ban, egy híres portugál festő egykori otthonában. Miután vetett egy pillantást a helyi színházra, ebédeljen egy jót. A délutánt a Igreja da Reboleira felé tett sétának szentelje, hogy élvezze a nyugalmat és a modern építészetet. Este pihenjen és gondolkodjon el a város rejtett gyöngyszemein.",
         "ro": "Începeți ziua cu o plimbare revigorantă în Parque Central. La amiază, scufundați-vă în artă la Casa Roque Gameiro, fosta casă a unui faimos pictor portughez. După o scurtă privire la teatrul local, bucurați-vă de un prânz pe îndelete. După-amiaza este dedicată unei plimbări spre Igreja da Reboleira pentru a-i absorbi liniștea și arhitectura modernă. Seara, relaxați-vă și reflectați asupra nestematelor ascunse ale orașului.",
-        "en": "Start your day with a refreshing walk in Parque Central. In the mid-morning, immerse yourself in art at Casa Roque Gameiro, the former home of a famous Portuguese painter. After a quick look at the local theatre, enjoy a leisurely lunch. The afternoon is dedicated to a stroll towards Igreja da Reboleira to absorb its tranquility and modern architecture. In the evening, relax and reflect on the city's hidden gems."
+        "en": "Start your day with a refreshing walk in Parque Central. In the mid-morning, immerse yourself in art at Casa Roque Gameiro, the former home of a famous Portuguese painter. After a quick look at the local theatre, enjoy a leisurely lunch. The afternoon is dedicated to a stroll towards Igreja da Reboleira to absorb its tranquility and modern architecture. In the evening, relax and reflect on the city's hidden gems.",
+        "pt": "Comece o dia com uma caminhada revigorante no Parque Central. A meio da manhã, mergulhe na arte na Casa Roque Gameiro, antiga residência de um famoso pintor português. Após uma breve visita ao teatro local, desfrute de um almoço descontraído. A tarde é dedicada a um passeio em direção à Igreja da Reboleira para absorver a sua tranquilidade e arquitetura moderna. À noite, relaxe e reflita sobre os tesouros escondidos da cidade."
       },
       "gastro_picks": {
         "de": [
@@ -337,6 +348,12 @@
           "Bring a reusable water bottle.",
           "Most locals in shops and restaurants will speak some English.",
           "Lunch is the main meal of the day, so restaurants are busier at noon."
+        ],
+        "pt": [
+          "Use calçado confortável, pois vai caminhar muito.",
+          "Leve uma garrafa de água reutilizável.",
+          "A maioria dos locais em lojas e restaurantes fala algum inglês.",
+          "O almoço é a refeição principal do dia, por isso os restaurantes estão mais cheios ao meio‑dia."
         ]
       },
       "variants": {
@@ -345,7 +362,8 @@
             "de": "Der Tag beginnt im Parque Central, wo die Alleen auch bei leichtem Regen einen herben Charme versprühen. Mittags bietet die Casa Roque Gameiro einen wunderbaren Rückzugsort in die Kunstgeschichte. Am Nachmittag steht Kultur im Teatro dos Aloés auf dem Programm, bevor die Tour in der Kirche von Reboleira besinnlich endet. Abends genießen wir die lokale Küche in trockener Umgebung.",
             "hu": "A nap a Parque Centralban indul, ahol az eső illata frissé teszi a levegőt a sétányokon. Délben a Casa Roque Gameiro belső terei nyújtanak menedéket és művészeti élményeket. Délután a Teatro dos Aloés kulturális programja vár, majd a reboleirai templom csendjében zárjuk a városnézést. Az este egy hangulatos étteremben, az eső kopogását hallgatva telik.",
             "ro": "Ziua începe în Parque Central, unde mirosul ploii împrospătează aerul de pe alei. La prânz, interiorul Casei Roque Gameiro oferă adăpost și experiențe artistice. După-amiaza, programul cultural de la Teatro dos Aloés vă așteaptă, apoi încheiem vizitarea orașului în liniștea bisericii din Reboleira. Seara trece într-un restaurant primitor, ascultând ropotul ploii.",
-            "en": "The day starts in Parque Central, where the scent of rain refreshes the air along the promenades. At noon, the interior of Casa Roque Gameiro provides shelter and artistic experiences. In the afternoon, the cultural program of Teatro dos Aloés awaits, followed by a peaceful end to the sightseeing at the Reboleira church. The evening is spent in a cozy restaurant, listening to the patter of rain."
+            "en": "The day starts in Parque Central, where the scent of rain refreshes the air along the promenades. At noon, the interior of Casa Roque Gameiro provides shelter and artistic experiences. In the afternoon, the cultural program of Teatro dos Aloés awaits, followed by a peaceful end to the sightseeing at the Reboleira church. The evening is spent in a cozy restaurant, listening to the patter of rain.",
+            "pt": "O dia começa no Parque Central, onde o cheiro da chuva refresca o ar ao longo das alamedas. Ao meio‑dia, o interior da Casa Roque Gameiro oferece abrigo e experiências artísticas. À tarde, o programa cultural do Teatro dos Aloés aguarda, seguido por um fim tranquilo do passeio na igreja da Reboleira. A noite passa num restaurante acolhedor, ouvindo o bater da chuva."
           },
           "stops": [
             {
@@ -354,7 +372,8 @@
                 "de": "Nutzen Sie die überdachten Pavillons bei starken Schauern.",
                 "hu": "Használja a fedett pavilonokat hirtelen zápor esetén.",
                 "ro": "Folosiți pavilioanele acoperite în caz de aversă bruscă.",
-                "en": "Use the covered pavilions in case of a sudden downpour."
+                "en": "Use the covered pavilions in case of a sudden downpour.",
+                "pt": "Use os pavilhões cobertos em caso de aguaceiro repentino."
               }
             },
             {
@@ -363,7 +382,8 @@
                 "de": "Perfekter Zeitpunkt für die Innenausstellung.",
                 "hu": "Tökéletes időpont a benti kiállítás megtekintéséhez.",
                 "ro": "Momentul perfect pentru a vizita expoziția interioară.",
-                "en": "Perfect time to visit the indoor exhibition."
+                "en": "Perfect time to visit the indoor exhibition.",
+                "pt": "Hora perfeita para visitar a exposição interior."
               }
             },
             {
@@ -372,7 +392,8 @@
                 "de": "Prüfen Sie kurzfristige Indoor-Aufführungen.",
                 "hu": "Ellenőrizze a beltéri előadások időpontjait.",
                 "ro": "Verificați orele spectacolelor în interior.",
-                "en": "Check the schedule for indoor performances."
+                "en": "Check the schedule for indoor performances.",
+                "pt": "Consulte a programação para apresentações interiores."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Wählen Sie ein Restaurant mit gemütlichem Innenbereich.",
                 "hu": "Válasszon éttermet barátságos belső térrel.",
                 "ro": "Alegeți un restaurant cu un interior primitor.",
-                "en": "Choose a restaurant with a cozy indoor area."
+                "en": "Choose a restaurant with a cozy indoor area.",
+                "pt": "Escolha um restaurante com uma área interior acolhedora."
               }
             },
             {
@@ -390,7 +412,8 @@
                 "de": "Ein ruhiger, trockener Ort für Besinnung.",
                 "hu": "Csendes, száraz hely az elmélkedéshez.",
                 "ro": "Un loc liniștit și uscat pentru reflecție.",
-                "en": "A quiet, dry place for reflection."
+                "en": "A quiet, dry place for reflection.",
+                "pt": "Um lugar calmo e seco para reflexão."
               }
             }
           ],
@@ -418,6 +441,12 @@
               "A foldable umbrella is more practical in Amadora's wind.",
               "Use museums as longer rain breaks.",
               "Pavements can be slippery when wet."
+            ],
+            "pt": [
+              "Use sapatos impermeáveis para os caminhos do parque.",
+              "Um guarda‑chuvas dobrável é mais prático no vento da Amadora.",
+              "Use os museus como pausas mais longas da chuva.",
+              "Os passeios podem ficar escorregadios quando molhados."
             ]
           }
         },
@@ -426,7 +455,8 @@
             "de": "Amadora im Winter bietet kühle, klare Morgen im Parque Central. Mittags wärmen wir uns in der geschichtsträchtigen Casa Roque Gameiro auf. Der Nachmittag gehört der Kultur im Teatro dos Aloés, bevor das frühe Abendlicht die Kirche von Reboleira in sanfte Farben taucht. Der Tag endet bei einem heißen Galao in einem der lokalen Cafés.",
             "hu": "Amadora télen hűvös, tiszta reggeleket kínál a Parque Centralban. Délben a történelmi Casa Roque Gameiro falai között melegedünk fel. A délután a kultúráé a Teatro dos Aloésban, mielőtt a korai esti fények lágy színekbe öltöztetik a reboleirai templomot. A napot egy forró Galao mellett zárjuk a helyi kávézók egyikében.",
             "ro": "Amadora iarna oferă dimineți răcoroase și senine în Parque Central. La prânz, ne încălzim între zidurile istorice de la Casa Roque Gameiro. După-amiaza este dedicată culturii la Teatro dos Aloés, înainte ca luminile serii timpurii să scalde biserica din Reboleira în culori calde. Ziua se încheie cu un Galao fierbinte într-una dintre cafenelele locale.",
-            "en": "Amadora in winter offers cool, clear mornings in Parque Central. At noon, we warm up within the historical walls of Casa Roque Gameiro. The afternoon is dedicated to culture at Teatro dos Aloés, before early evening lights bathe the Reboleira church in soft colors. The day ends with a hot Galao in one of the local cafes."
+            "en": "Amadora in winter offers cool, clear mornings in Parque Central. At noon, we warm up within the historical walls of Casa Roque Gameiro. The afternoon is dedicated to culture at Teatro dos Aloés, before early evening lights bathe the Reboleira church in soft colors. The day ends with a hot Galao in one of the local cafes.",
+            "pt": "A Amadora no inverno oferece manhãs frescas e claras no Parque Central. Ao meio‑dia, aquecemo‑nos dentro das paredes históricas da Casa Roque Gameiro. A tarde é dedicada à cultura no Teatro dos Aloés, antes que as luzes do início da noite banhem a igreja da Reboleira com cores suaves. O dia termina com um galão quente num dos cafés locais."
           },
           "stops": [
             {
@@ -435,7 +465,8 @@
                 "de": "Ein zügiger Spaziergang hält Sie morgens warm.",
                 "hu": "A tempós séta segít melegen maradni reggel.",
                 "ro": "O plimbare vioaie vă ajută să vă mențineți căldura dimineața.",
-                "en": "A brisk walk helps you stay warm in the morning."
+                "en": "A brisk walk helps you stay warm in the morning.",
+                "pt": "Uma caminhada rápida ajuda a manter‑se quente pela manhã."
               }
             },
             {
@@ -444,7 +475,8 @@
                 "de": "Genießen Sie die warme Atmosphäre des Herrenhauses.",
                 "hu": "Élvezze az udvarház meleg atmoszféráját.",
                 "ro": "Bucurați-vă de atmosfera caldă a conacului.",
-                "en": "Enjoy the warm atmosphere of the manor house."
+                "en": "Enjoy the warm atmosphere of the manor house.",
+                "pt": "Desfrute da atmosfera acolhedora da casa senhorial."
               }
             },
             {
@@ -453,7 +485,8 @@
                 "de": "Idealer Ort, um der Nachmittagskälte zu entfliehen.",
                 "hu": "Ideális hely a délutáni hideg elől való menekülésre.",
                 "ro": "Loc ideal pentru a scăpa de frigul de după-amiază.",
-                "en": "Ideal place to escape the afternoon chill."
+                "en": "Ideal place to escape the afternoon chill.",
+                "pt": "Local ideal para escapar ao frio da tarde."
               }
             },
             {
@@ -462,7 +495,8 @@
                 "de": "Probieren Sie eine herzhafte portugiesische Suppe.",
                 "hu": "Kóstoljon meg egy tartalmas portugál levest.",
                 "ro": "Gustați o supă portugheză consistentă.",
-                "en": "Try a hearty Portuguese soup."
+                "en": "Try a hearty Portuguese soup.",
+                "pt": "Experimente uma sopa portuguesa reconfortante."
               }
             },
             {
@@ -471,7 +505,8 @@
                 "de": "Beachten Sie die frühen Schließzeiten im Winter.",
                 "hu": "Ügyeljen a téli korai zárásra.",
                 "ro": "Atenție la ora de închidere timpurie iarna.",
-                "en": "Note the early closing times in winter."
+                "en": "Note the early closing times in winter.",
+                "pt": "Note os horários de encerramento antecipados no inverno."
               }
             }
           ],
@@ -499,6 +534,12 @@
               "Sunset occurs as early as 17:30.",
               "Roasted chestnuts are often sold on street corners.",
               "Humidity makes it feel cooler than it actually is."
+            ],
+            "pt": [
+              "Vista‑se por camadas para as temperaturas variáveis.",
+              "O pôr do sol pode ocorrer já às 17:30.",
+              "Castanhas assadas são frequentemente vendidas nas esquinas.",
+              "A humidade faz com que a sensação térmica seja mais baixa do que a temperatura real."
             ]
           }
         }
@@ -517,7 +558,8 @@
             "de": "Start: Moinhos da Funcheira",
             "hu": "Indulás: Moinhos da Funcheira",
             "ro": "Start: Moinhos da Funcheira",
-            "en": "Start: Moinhos da Funcheira"
+            "en": "Start: Moinhos da Funcheira",
+            "pt": "Início: Moinhos da Funcheira"
           },
           "coords": [
             -9.2488,
@@ -533,7 +575,8 @@
             "de": "Dies sind restaurierte Windmühlen, die einen Einblick in die industrielle Vergangenheit der Region geben.",
             "hu": "Ezek felújított szélmalmok, amelyek bepillantást engednek a régió ipari múltjába.",
             "ro": "Acestea sunt mori de vânt restaurate care oferă o perspectivă asupra trecutului industrial al regiunii.",
-            "en": "These are restored windmills offering a glimpse into the region's industrial past."
+            "en": "These are restored windmills offering a glimpse into the region's industrial past.",
+            "pt": "São moinhos restaurados que oferecem um vislumbre do passado industrial da região."
           }
         },
         {
@@ -541,7 +584,8 @@
             "de": "Aqueduto das Águas Livres",
             "hu": "Aqueduto das Águas Livres",
             "ro": "Aqueduto das Águas Livres",
-            "en": "Aqueduto das Águas Livres"
+            "en": "Aqueduto das Águas Livres",
+            "pt": "Aqueduto das Águas Livres"
           },
           "coords": [
             -9.213,
@@ -557,7 +601,8 @@
             "de": "Radfahren Sie entlang eines Teils des Weges neben dem Aquädukt für beeindruckende Ausblicke.",
             "hu": "Kerékpározzon végig az akvadukt melletti út egy szakaszán a lenyűgöző kilátásért.",
             "ro": "Mergeți cu bicicleta de-a lungul unei secțiuni a căii de lângă apeduct pentru priveliști impresionante.",
-            "en": "Cycle along a section of the path beside the aqueduct for impressive views."
+            "en": "Cycle along a section of the path beside the aqueduct for impressive views.",
+            "pt": "Pedale ao longo de um troço do caminho ao lado do aqueduto para vistas impressionantes."
           }
         },
         {
@@ -565,7 +610,8 @@
             "de": "Parque Central da Amadora",
             "hu": "Parque Central da Amadora",
             "ro": "Parque Central da Amadora",
-            "en": "Parque Central da Amadora"
+            "en": "Parque Central da Amadora",
+            "pt": "Parque Central da Amadora"
           },
           "coords": [
             -9.2236,
@@ -581,7 +627,8 @@
             "de": "Ein großartiger Ort für eine Mittagspause. Schließen Sie Ihr Fahrrad ab und genießen Sie ein Picknick.",
             "hu": "Nagyszerű hely egy ebédszeünetre. Zárja le a kerékpárját és piknikezzen egyet.",
             "ro": "Un loc excelent pentru o pauză de prânz. Încuiați-vă bicicleta și bucurați-vă de un picnic.",
-            "en": "A great spot for a lunch break. Lock up your bike and enjoy a picnic."
+            "en": "A great spot for a lunch break. Lock up your bike and enjoy a picnic.",
+            "pt": "Ótimo local para uma pausa para o almoço. Prenda a bicicleta e desfrute de um piquenique."
           }
         },
         {
@@ -589,7 +636,8 @@
             "de": "Casa Roque Gameiro",
             "hu": "Casa Roque Gameiro",
             "ro": "Casa Roque Gameiro",
-            "en": "Casa Roque Gameiro"
+            "en": "Casa Roque Gameiro",
+            "pt": "Casa Roque Gameiro"
           },
           "coords": [
             -9.2278,
@@ -605,7 +653,8 @@
             "de": "Dieses wunderschöne Haus zeigt die Arbeit des berühmten Aquarellmalers.",
             "hu": "Ez a gyönyörű ház a híres akvarellfestő munkásságát mutatja be.",
             "ro": "Această casă frumoasă prezintă opera celebrului pictor acuarelist.",
-            "en": "This beautiful house showcases the work of the famous watercolor painter."
+            "en": "This beautiful house showcases the work of the famous watercolor painter.",
+            "pt": "Esta bela casa exibe o trabalho do famoso pintor de aguarelas."
           }
         },
         {
@@ -613,7 +662,8 @@
             "de": "Necrópole de Carenque",
             "hu": "Necrópole de Carenque",
             "ro": "Necropola de la Carenque",
-            "en": "Necropolis of Carenque"
+            "en": "Necropolis of Carenque",
+            "pt": "Necrópole de Carenque"
           },
           "coords": [
             -9.255,
@@ -629,7 +679,8 @@
             "de": "Eine kurze Radtour außerhalb der Stadt führt Sie zu diesen alten, in den Fels gehauenen Gräbern. Es ist ein historischer Abstecher.",
             "hu": "Egy rövid biciklitúra a városon kívül elvezet ezekhez az ősi, sziklába vájt sírokhoz. Ez egy történelmi kitérő.",
             "ro": "O scurtă plimbare cu bicicleta în afara orașului vă duce la aceste morminte antice săpate în stâncă. Este un ocol istoric.",
-            "en": "A short bike ride out of the city takes you to these ancient rock-cut tombs. It's a historical detour."
+            "en": "A short bike ride out of the city takes you to these ancient rock-cut tombs. It's a historical detour.",
+            "pt": "Um curto passeio de bicicleta fora da cidade leva-o a estas antigas sepulturas escavadas na rocha. É um desvio histórico."
           }
         }
       ],
@@ -637,7 +688,8 @@
         "de": "Beginnen Sie Ihren Radtag mit einer Erkundung des industriellen Erbes bei den Moinhos da Funcheira. Fahren Sie dann zum beeindruckenden Aquädukt für eine Dosis Geschichte und Ingenieurskunst. Zur Mittagszeit können Sie sich im Parque Central entspannen und neue Energie tanken. Am Nachmittag tauchen Sie in die Kunst in der Casa Roque Gameiro ein, bevor Sie eine historische Reise zur antiken Nekropole von Carenque unternehmen. Ihr Tag endet mit einer tiefen Wertschätzung für die vielfältige Geschichte von Amadora.",
         "hu": "Kezdje a kerékpáros napot az ipari örökség felfedezésével a Moinhos da Funcheira-nál. Ezután tekerjen a lenyűgöző akvadukthoz egy adag történelemért és mérnöki tudományért. Ebédidőben pihenjen és töltődjön fel a Parque Centralban. Délután merüljön el a művészetben a Casa Roque Gameiro-ban, mielőtt egy történelmi utazást tenne az ősi Carenque nekropoliszhoz. A nap végén mélyen értékelni fogja Amadora változatos történelmét.",
         "ro": "Începeți ziua pe bicicletă explorând patrimoniul industrial la Moinhos da Funcheira. Apoi, pedalați spre impresionantul apeduct pentru o doză de istorie și inginerie. La prânz, relaxați-vă și reîncărcați-vă bateriile în Parque Central. După-amiaza, scufundați-vă în artă la Casa Roque Gameiro înainte de a face o călătorie istorică la necropola antică de la Carenque. Ziua se încheie cu o apreciere profundă a istoriei diverse a Amadorei.",
-        "en": "Start your cycling day exploring industrial heritage at Moinhos da Funcheira. Then, pedal to the impressive aqueduct for a dose of history and engineering. At midday, relax and recharge in Parque Central. In the afternoon, immerse yourself in art at Casa Roque Gameiro before taking a historical journey to the ancient Necropolis of Carenque. Your day ends with a deep appreciation for Amadora's diverse history."
+        "en": "Start your cycling day exploring industrial heritage at Moinhos da Funcheira. Then, pedal to the impressive aqueduct for a dose of history and engineering. At midday, relax and recharge in Parque Central. In the afternoon, immerse yourself in art at Casa Roque Gameiro before taking a historical journey to the ancient Necropolis of Carenque. Your day ends with a deep appreciation for Amadora's diverse history.",
+        "pt": "Comece o seu dia de ciclismo a explorar o património industrial nos Moinhos da Funcheira. Depois, pedale até ao impressionante aqueduto para uma dose de história e engenharia. Ao meio‑dia, relaxe e reponha energias no Parque Central. À tarde, mergulhe na arte na Casa Roque Gameiro antes de fazer uma viagem histórica até à antiga Necrópole de Carenque. O seu dia termina com uma profunda apreciação pela história diversa da Amadora."
       },
       "gastro_picks": {
         "de": [
@@ -833,6 +885,12 @@
           "Always lock your bike, even if stopping for a moment.",
           "Many roads may not be bike-friendly, so be cautious in traffic.",
           "A power bank to charge your phone for navigation is useful."
+        ],
+        "pt": [
+          "A Amadora tem algumas colinas, por isso esteja preparado para subidas.",
+          "Tranque sempre a sua bicicleta, mesmo que pare por um momento.",
+          "Muitas estradas podem não ser amigas da bicicleta, por isso seja prudente no trânsito.",
+          "Um power bank para carregar o telemone para navegação é útil."
         ]
       },
       "variants": {
@@ -841,7 +899,8 @@
             "de": "Die Radtour führt trotz Regen zu den Mühlen von Funcheira. Mittags bietet das Aquädukt monumentale Ansichten, während wir im Parque Central kurz verschnaufen. Die Casa Roque Gameiro ist ein willkommener trockener Stopp, bevor wir die Nekropole von Carenque erreichen. Der Tag endet mit einer erfrischenden Fahrt durch die feuchte Stadtluft.",
             "hu": "A kerékpártúra az eső ellenére a funcheirai malmokhoz vezet. Délben az akvadukt monumentális látványt nyújt, miközben a Parque Centralban tartunk pihenőt. A Casa Roque Gameiro szívesen látott száraz megálló, mielőtt elérjük a carenque-i nekropoliszt. A nap a friss, párás városi levegőn való tekeréssel zárul.",
             "ro": "Turul cu bicicleta duce, în ciuda ploii, la morile din Funcheira. La prânz, apeductul oferă o vedere monumentală, în timp ce facem o pauză în Parque Central. Casa Roque Gameiro este o oprire uscată binevenită înainte de a ajunge la necropola din Carenque. Ziua se încheie cu o plimbare prin aerul proaspăt și umed al orașului.",
-            "en": "The bike tour leads to the Funcheira mills despite the rain. At noon, the aqueduct offers monumental views while we take a break in Parque Central. Casa Roque Gameiro is a welcome dry stop before we reach the Carenque necropolis. The day ends with a ride through the fresh, humid city air."
+            "en": "The bike tour leads to the Funcheira mills despite the rain. At noon, the aqueduct offers monumental views while we take a break in Parque Central. Casa Roque Gameiro is a welcome dry stop before we reach the Carenque necropolis. The day ends with a ride through the fresh, humid city air.",
+            "pt": "O passeio de bicicleta leva aos moinhos da Funcheira apesar da chuva. Ao meio‑dia, o aqueduto oferece vistas monumentais enquanto fazemos uma pausa no Parque Central. A Casa Roque Gameiro é uma paragem seca bem‑vinda antes de chegarmos à necrópole de Carenque. O dia termina com um passeio pelo ar fresco e húmido da cidade."
           },
           "stops": [
             {
@@ -850,7 +909,8 @@
                 "de": "Vorsicht auf unbefestigten Wegen bei Nässe.",
                 "hu": "Vigyázat a nem aszfaltozott utakon nedves időben.",
                 "ro": "Atenție pe drumurile neasfaltate când este ud.",
-                "en": "Be careful on unpaved paths when wet."
+                "en": "Be careful on unpaved paths when wet.",
+                "pt": "Tenha cuidado em caminhos não pavimentados quando molhados."
               }
             },
             {
@@ -859,7 +919,8 @@
                 "de": "Gute Sicht auf das Bauwerk auch bei grauem Himmel.",
                 "hu": "Jó rálátás az építményre szürke égbolt mellett is.",
                 "ro": "Vedere bună asupra structurii chiar și cu cer gri.",
-                "en": "Good view of the structure even with grey skies."
+                "en": "Good view of the structure even with grey skies.",
+                "pt": "Boa visão da estrutura mesmo com céus cinzentos."
               }
             },
             {
@@ -868,7 +929,8 @@
                 "de": "Nutzen Sie befestigte Wege, um Matsch zu vermeiden.",
                 "hu": "Használja a kiépített utakat a sár elkerülésére.",
                 "ro": "Folosiți drumurile amenajate pentru a evita noroiul.",
-                "en": "Use paved paths to avoid mud."
+                "en": "Use paved paths to avoid mud.",
+                "pt": "Use caminhos pavimentados para evitar lama."
               }
             },
             {
@@ -877,7 +939,8 @@
                 "de": "Fahrradständer sind oft ungeschützt, Schloss mitnehmen.",
                 "hu": "A kerékpártárolók gyakran fedetlenek, vigyen lakatot.",
                 "ro": "Rastelurile sunt adesea neacoperite, luați un antifurt.",
-                "en": "Bike racks are often uncovered, bring a lock."
+                "en": "Bike racks are often uncovered, bring a lock.",
+                "pt": "Os suportes para bicicletas são frequentemente descobertos, leve um cadeado."
               }
             },
             {
@@ -886,7 +949,8 @@
                 "de": "Der Boden bei den Ausgrabungen kann sehr rutschig sein.",
                 "hu": "Az ásatásoknál a talaj nagyon csúszós lehet.",
                 "ro": "Terenul de la săpături poate fi foarte alunecos.",
-                "en": "The ground at the excavations can be very slippery."
+                "en": "The ground at the excavations can be very slippery.",
+                "pt": "O chão nas escavações pode estar muito escorregadio."
               }
             }
           ],
@@ -914,6 +978,12 @@
               "Watch out for slippery tram tracks and cobblestones.",
               "Check your brakes before starting in the rain.",
               "Use mudguards to stay drier."
+            ],
+            "pt": [
+              "Equipamento completo de chuva é absolutamente necessário.",
+              "Cuidado com carris de elétrico e calçadas escorregadias.",
+              "Verifique os travões antes de começar na chuva.",
+              "Use guarda‑lamas para ficar mais seco."
             ]
           }
         },
@@ -922,7 +992,8 @@
             "de": "Die Winter-Radtour startet frisch an den Mühlen von Funcheira. Mittags gleiten wir am Aquädukt entlang und genießen die klare Sicht über die Region. Nach einem Stopp im Parque Central bietet die Casa Roque Gameiro Kultur und Wärme. Der Nachmittag führt uns zur Nekropole von Carenque, bevor wir vor Einbruch der Dunkelheit zurückkehren.",
             "hu": "A téli kerékpártúra frissen indul a funcheirai malmoknál. Délben az akvadukt mentén tekerve élvezzük a tiszta kilátást a régióra. A Parque Central után a Casa Roque Gameiro kínál kultúrát és meleget. A délután a carenque-i nekropoliszhoz vezet, mielőtt még sötétedés előtt visszaérnénk.",
             "ro": "Turul de iarnă cu bicicleta începe vioi la morile din Funcheira. La prânz, pedalăm de-a lungul apeductului și ne bucurăm de vederea clară asupra regiunii. După o oprire în Parque Central, Casa Roque Gameiro oferă cultură și căldură. După-amiaza ne duce la necropola din Carenque, înainte de a ne întoarce înainte de lăsarea întunericului.",
-            "en": "The winter bike tour starts fresh at the Funcheira mills. At noon, we pedal along the aqueduct, enjoying clear views over the region. After a stop in Parque Central, Casa Roque Gameiro offers culture and warmth. The afternoon leads us to the Carenque necropolis before returning before dark."
+            "en": "The winter bike tour starts fresh at the Funcheira mills. At noon, we pedal along the aqueduct, enjoying clear views over the region. After a stop in Parque Central, Casa Roque Gameiro offers culture and warmth. The afternoon leads us to the Carenque necropolis before returning before dark.",
+            "pt": "O passeio de bicicleta de inverno começa fresco nos moinhos da Funcheira. Ao meio‑dia, pedalamos ao longo do aqueduto, desfrutando de vistas claras sobre a região. Após uma paragem no Parque Central, a Casa Roque Gameiro oferece cultura e calor. A tarde leva‑nos à necrópole de Carenque antes de regressarmos antes de anoitecer."
           },
           "stops": [
             {
@@ -931,7 +1002,8 @@
                 "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind.",
                 "hu": "Viseljen kesztyűt a hideg menetszél ellen.",
                 "ro": "Purtați mănuși împotriva vântului rece.",
-                "en": "Wear gloves against the cold wind while riding."
+                "en": "Wear gloves against the cold wind while riding.",
+                "pt": "Use luvas contra o vento frio enquanto pedala."
               }
             },
             {
@@ -940,7 +1012,8 @@
                 "de": "Die klare Winterluft ermöglicht weite Ausblicke.",
                 "hu": "A tiszta téli levegő távoli kilátást tesz lehetővé.",
                 "ro": "Aerul curat de iarnă permite vederi la distanță.",
-                "en": "Clear winter air allows for far-reaching views."
+                "en": "Clear winter air allows for far-reaching views.",
+                "pt": "O ar claro de inverno permite vistas de grande alcance."
               }
             },
             {
@@ -949,7 +1022,8 @@
                 "de": "Kurze Pausen einlegen, um nicht auszukühlen.",
                 "hu": "Tartson rövid szüneteket, hogy ne hűljön ki.",
                 "ro": "Faceți pauze scurte pentru a nu vă răci.",
-                "en": "Take short breaks to avoid getting chilled."
+                "en": "Take short breaks to avoid getting chilled.",
+                "pt": "Faça pausas curtas para evitar arrefecer."
               }
             },
             {
@@ -958,7 +1032,8 @@
                 "de": "Nutzen Sie den Stopp zum Aufwärmen der Hände.",
                 "hu": "Használja ki a megállót a kezei felmelegítésére.",
                 "ro": "Folosiți oprirea pentru a vă încălzi mâinile.",
-                "en": "Use the stop to warm up your hands."
+                "en": "Use the stop to warm up your hands.",
+                "pt": "Aproveite a paragem para aquecer as mãos."
               }
             },
             {
@@ -967,7 +1042,8 @@
                 "de": "Besuch am frühen Nachmittag wegen des Lichts empfohlen.",
                 "hu": "A fényviszonyok miatt kora délutáni látogatás javasolt.",
                 "ro": "Vizită recomandată la începutul după-amiezii pentru lumină.",
-                "en": "Early afternoon visit recommended for better lighting."
+                "en": "Early afternoon visit recommended for better lighting.",
+                "pt": "Visita recomendada ao início da tarde para melhor iluminação."
               }
             }
           ],
@@ -995,6 +1071,12 @@
               "Thermal clothing protects against the cool wind.",
               "Avoid shaded forest paths, as they are significantly colder.",
               "Drink enough fluids even if you feel less thirsty."
+            ],
+            "pt": [
+              "Assegure‑se de ter luzes a funcionar para o início da noite.",
+              "Roupas térmicas protegem contra o vento fresco.",
+              "Evite trilhos sombreados da floresta, pois são significativamente mais frios.",
+              "Beba líquidos suficientes mesmo que sinta menos sede."
             ]
           }
         }
@@ -1013,7 +1095,8 @@
             "de": "Fahrt zur Necrópole de Carenque & parken",
             "hu": "Utazás a Necrópole de Carenque-hez és parkolás",
             "ro": "Conduceți la Necropola de la Carenque și parcați",
-            "en": "Drive to Necropolis of Carenque & Park"
+            "en": "Drive to Necropolis of Carenque & Park",
+            "pt": "Conduza até à Necrópole de Carenque & Parque"
           },
           "coords": [
             -9.255,
@@ -1029,7 +1112,8 @@
             "de": "Beginnen Sie mit dem am weitesten entfernten Punkt. Es gibt normalerweise Parkplätze in der Nähe dieser historischen Stätte.",
             "hu": "Kezdje a legtávolabbi ponttal. Általában van parkolóhely e történelmi helyszín közelében.",
             "ro": "Începeți cu cel mai îndepărtat punct. De obicei, există parcare disponibilă lângă acest sit istoric.",
-            "en": "Start with the furthest point. There's usually parking available near this historic site."
+            "en": "Start with the furthest point. There's usually parking available near this historic site.",
+            "pt": "Comece pelo ponto mais afastado. Normalmente há estacionamento disponível perto deste sítio histórico."
           }
         },
         {
@@ -1037,7 +1121,8 @@
             "de": "Fahrt zu den Moinhos da Funcheira",
             "hu": "Utazás a Moinhos da Funcheira-hoz",
             "ro": "Conduceți la Moinhos da Funcheira",
-            "en": "Drive to Moinhos da Funcheira"
+            "en": "Drive to Moinhos da Funcheira",
+            "pt": "Conduza até aos Moinhos da Funcheira"
           },
           "coords": [
             -9.2488,
@@ -1053,7 +1138,8 @@
             "de": "Parken Sie in der Nähe der Windmühlen und machen Sie einen kurzen Spaziergang, um sie zu sehen.",
             "hu": "Parkoljon a szélmalmok közelében, és tegyen egy rövid sétát, hogy megnézze őket.",
             "ro": "Parcați lângă morile de vânt și faceți o scurtă plimbare pentru a le vedea.",
-            "en": "Park near the windmills and take a short walk to see them."
+            "en": "Park near the windmills and take a short walk to see them.",
+            "pt": "Estacione perto dos moinhos e faça uma curta caminhada para os ver."
           }
         },
         {
@@ -1061,7 +1147,8 @@
             "de": "Fahrt ins Zentrum & parken",
             "hu": "Utazás a központba és parkolás",
             "ro": "Conduceți spre centru și parcați",
-            "en": "Drive to the Center & Park"
+            "en": "Drive to the Center & Park",
+            "pt": "Conduza até ao Centro & Parque"
           },
           "coords": [
             -9.224,
@@ -1077,7 +1164,8 @@
             "de": "Finden Sie einen zentralen Parkplatz in der Nähe des Parque Central. Hier beginnt Ihr Rundgang.",
             "hu": "Keressen egy központi parkolót a Parque Central közelében. Innen indul a sétája.",
             "ro": "Găsiți o parcare centrală lângă Parque Central. Acesta este punctul de plecare pentru turul dvs. pe jos.",
-            "en": "Find a central parking spot near Parque Central. This will be your base for the walking cluster."
+            "en": "Find a central parking spot near Parque Central. This will be your base for the walking cluster.",
+            "pt": "Encontre um lugar de estacionamento central perto do Parque Central. Este será a sua base para o cluster de caminhada."
           }
         },
         {
@@ -1085,7 +1173,8 @@
             "de": "Mittagessen und Spaziergang zur Casa Roque Gameiro",
             "hu": "Ebéd és séta a Casa Roque Gameiro-hoz",
             "ro": "Prânz și plimbare la Casa Roque Gameiro",
-            "en": "Lunch and Walk to Casa Roque Gameiro"
+            "en": "Lunch and Walk to Casa Roque Gameiro",
+            "pt": "Almoço e caminhada até à Casa Roque Gameiro"
           },
           "coords": [
             -9.2278,
@@ -1101,7 +1190,8 @@
             "de": "Nach dem Mittagessen in einem lokalen Restaurant ist es nur ein kurzer Spaziergang zum Haus.",
             "hu": "Ebéd után egy helyi étteremben csak egy rövid séta a ház.",
             "ro": "După prânz la un restaurant local, este o plimbare scurtă până la casă.",
-            "en": "After lunch at a local eatery, it's a short walk to the house."
+            "en": "After lunch at a local eatery, it's a short walk to the house.",
+            "pt": "Após o almoço num restaurante local, é uma curta caminhada até à casa."
           }
         },
         {
@@ -1109,7 +1199,8 @@
             "de": "Spaziergang zum Teatro dos Aloés",
             "hu": "Séta a Teatro dos Aloés-hez",
             "ro": "Plimbare la Teatro dos Aloés",
-            "en": "Walk to Teatro dos Aloés"
+            "en": "Walk to Teatro dos Aloés",
+            "pt": "Caminhe até ao Teatro dos Aloés"
           },
           "coords": [
             -9.2305,
@@ -1125,7 +1216,8 @@
             "de": "Gehen Sie vom Haus zum Theater und erleben Sie die lokale Atmosphäre.",
             "hu": "Sétáljon el a háztól a színházig, és szívja magába a helyi hangulatot.",
             "ro": "Mergeți pe jos de la casă la teatru, absorbind atmosfera locală.",
-            "en": "Walk from the house to the theatre, absorbing the local atmosphere."
+            "en": "Walk from the house to the theatre, absorbing the local atmosphere.",
+            "pt": "Caminhe da casa até ao teatro, absorvendo a atmosfera local."
           }
         },
         {
@@ -1133,7 +1225,8 @@
             "de": "Spaziergang zur Biblioteca Municipal",
             "hu": "Séta a Biblioteca Municipal-hoz",
             "ro": "Plimbare la Biblioteca Municipală",
-            "en": "Walk to the Municipal Library"
+            "en": "Walk to the Municipal Library",
+            "pt": "Caminhe até à Biblioteca Municipal"
           },
           "coords": [
             -9.229,
@@ -1149,7 +1242,8 @@
             "de": "Beenden Sie Ihren Rundgang in der Stadtbibliothek, einem modernen Kulturzentrum.",
             "hu": "Fejezze be a sétát a városi könyvtárnál, egy modern kulturális központnál.",
             "ro": "Încheiați-vă turul pe jos la biblioteca municipală, un centru cultural modern.",
-            "en": "End your walking tour at the municipal library, a modern cultural hub."
+            "en": "End your walking tour at the municipal library, a modern cultural hub.",
+            "pt": "Termine o seu passeio a pé na biblioteca municipal, um centro cultural moderno."
           }
         }
       ],
@@ -1157,7 +1251,8 @@
         "de": "Beginnen Sie Ihren Tag mit einer Fahrt zur fernen und alten Necrópole de Carenque. Fahren Sie dann weiter zu den historischen Windmühlen. Zur Mittagszeit parken Sie Ihr Auto im Zentrum und beginnen einen Spaziergang. Genießen Sie das Mittagessen, gefolgt von einem Besuch in der kunstvollen Casa Roque Gameiro. Am Nachmittag schlendern Sie zum Theater und zur Bibliothek und tauchen in das lokale Kulturleben ein, bevor Sie zu Ihrem Auto zurückkehren.",
         "hu": "Kezdje a napot egy utazással a távoli és ősi Necrópole de Carenque-hez. Ezután vezessen tovább a történelmi szélmalmokhoz. Ebédidőben parkolja le autóját a központban, és induljon sétára. Ebédeljen, majd látogasson el a művészi Casa Roque Gameiro-ba. Délután sétáljon el a színházhoz és a könyvtárhoz, elmerülve a helyi kulturális életben, mielőtt visszatérne az autójához.",
         "ro": "Începeți ziua cu o călătorie spre îndepărtata și antica Necropolă de la Carenque. Apoi, conduceți mai departe spre morile de vânt istorice. La prânz, parcați mașina în centru și începeți un tur pe jos. Bucurați-vă de prânz, urmat de o vizită la artistica Casă Roque Gameiro. După-amiaza, plimbați-vă la teatru și bibliotecă, absorbind viața culturală locală înainte de a vă întoarce la mașină.",
-        "en": "Start your day by driving to the distant and ancient Necropolis of Carenque. Then, drive onwards to the historic windmills. At midday, park your car in the center and begin a walking cluster. Enjoy lunch, followed by a visit to the artistic Casa Roque Gameiro. In the afternoon, stroll to the theatre and library, absorbing the local cultural life before heading back to your car."
+        "en": "Start your day by driving to the distant and ancient Necropolis of Carenque. Then, drive onwards to the historic windmills. At midday, park your car in the center and begin a walking cluster. Enjoy lunch, followed by a visit to the artistic Casa Roque Gameiro. In the afternoon, stroll to the theatre and library, absorbing the local cultural life before heading back to your car.",
+        "pt": "Comece o dia conduzindo até à distante e antiga Necrópole de Carenque. Depois, siga de carro até aos históricos moinhos. Ao meio‑dia, estacione o seu carro no centro e inicie um cluster a pé. Desfrute do almoço, seguido de uma visita à artística Casa Roque Gameiro. À tarde, passeie até ao teatro e à biblioteca, absorvendo a vida cultural local antes de regressar ao carro."
       },
       "gastro_picks": {
         "de": [
@@ -1353,6 +1448,12 @@
           "Parking in the center can be challenging; parking garages are a safe bet.",
           "Be aware of toll roads in the greater Lisbon area.",
           "A car gives you the flexibility to visit outlying sites like the necropolis easily."
+        ],
+        "pt": [
+          "Descarregue mapas offline para ajudar na navegação.",
+          "Estacionar no centro pode ser desafiante; parques de estacionamento são uma aposta segura.",
+          "Esteja atento às portagens na área metropolitana de Lisboa.",
+          "Um carro dá‑lhe flexibilidade para visitar sítios periféricos como a necrópole facilmente."
         ]
       },
       "variants": {
@@ -1361,7 +1462,8 @@
             "de": "Mit dem Auto erreichen wir die Nekropole von Carenque bequem im Trockenen. Die Fahrt zu den Mühlen von Funcheira bietet auch bei Regen schöne Ausblicke. Mittags parken wir im Zentrum für einen Besuch im Parque Central, gefolgt von der Casa Roque Gameiro. Der Nachmittag im Theater und in der Bibliothek ist ideal für regnerisches Wetter. Wir beenden den Tag entspannt ohne nasse Füße.",
             "hu": "Autóval kényelmesen, szárazon érjük el a carenque-i nekropoliszt. A funcheirai malmokhoz vezető út esőben is szép kilátást nyújt. Délben a központban parkolunk a Parque Central meglátogatásához, majd a Casa Roque Gameiro következik. A délután a színházban és a könyvtárban ideális esős időre. A napot pihentetően, vizes lábak nélkül zárjuk.",
             "ro": "Cu mașina ajungem confortabil și uscați la necropola din Carenque. Drumul spre morile din Funcheira oferă vederi frumoase chiar și pe ploaie. La prânz parcăm în centru pentru o vizită în Parque Central, urmată de Casa Roque Gameiro. După-amiaza la teatru și bibliotecă este ideală pentru vreme ploioasă. Încheiem ziua relaxați, fără picioare ude.",
-            "en": "By car, we reach the Carenque necropolis comfortably and dry. The drive to the Funcheira mills offers beautiful views even in the rain. At noon, we park in the center for a visit to Parque Central, followed by Casa Roque Gameiro. An afternoon at the theater and library is ideal for rainy weather. We end the day relaxed without wet feet."
+            "en": "By car, we reach the Carenque necropolis comfortably and dry. The drive to the Funcheira mills offers beautiful views even in the rain. At noon, we park in the center for a visit to Parque Central, followed by Casa Roque Gameiro. An afternoon at the theater and library is ideal for rainy weather. We end the day relaxed without wet feet.",
+            "pt": "De carro, chegamos à necrópole de Carenque confortavelmente e secos. A viagem até aos moinhos da Funcheira oferece belas vistas mesmo com chuva. Ao meio‑dia, estacionamos no centro para visitar o Parque Central, seguido da Casa Roque Gameiro. Uma tarde no teatro e na biblioteca é ideal para tempo chuvoso. Terminamos o dia relaxados e sem pés molhados."
           },
           "stops": [
             {
@@ -1370,7 +1472,8 @@
                 "de": "Parken Sie so nah wie möglich am Eingang.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
                 "ro": "Parcați cât mai aproape de intrare.",
-                "en": "Park as close to the entrance as possible."
+                "en": "Park as close to the entrance as possible.",
+                "pt": "Estacione o mais perto possível da entrada."
               }
             },
             {
@@ -1379,7 +1482,8 @@
                 "de": "Vorsicht bei Aquaplaning auf den Verbindungsstraßen.",
                 "hu": "Vigyázzon a vízátfolyásokra az összekötő utakon.",
                 "ro": "Atenție la acvaplanare pe drumurile de legătură.",
-                "en": "Watch out for aquaplaning on connecting roads."
+                "en": "Watch out for aquaplaning on connecting roads.",
+                "pt": "Cuidado com o aquaplanagem nas estradas de ligação."
               }
             },
             {
@@ -1388,7 +1492,8 @@
                 "de": "Nutzen Sie ein Parkhaus für einen trockenen Ausstieg.",
                 "hu": "Használjon parkolóházat a száraz kiszálláshoz.",
                 "ro": "Folosiți o parcare acoperită pentru a ieși uscat.",
-                "en": "Use a parking garage for a dry exit."
+                "en": "Use a parking garage for a dry exit.",
+                "pt": "Use um parque de estacionamento coberto para uma saída seca."
               }
             },
             {
@@ -1397,7 +1502,8 @@
                 "de": "Kurze Wege zwischen Parkplatz und Restaurant wählen.",
                 "hu": "Válasszon rövid utat a parkoló és az étterem között.",
                 "ro": "Alegeți distanțe scurte între parcare și restaurant.",
-                "en": "Choose short distances between parking and the restaurant."
+                "en": "Choose short distances between parking and the restaurant.",
+                "pt": "Escolha curtas distâncias entre o estacionamento e o restaurante."
               }
             },
             {
@@ -1406,7 +1512,8 @@
                 "de": "Regenschirm für den kurzen Fußweg bereit halten.",
                 "hu": "Tartsa készenlétben az esernyőt a rövid sétához.",
                 "ro": "Pregătiți umbrela pentru scurta plimbare pe jos.",
-                "en": "Have an umbrella ready for the short walk."
+                "en": "Have an umbrella ready for the short walk.",
+                "pt": "Tenha um guarda‑chuvas pronto para a curta caminhada."
               }
             },
             {
@@ -1415,7 +1522,8 @@
                 "de": "Perfekter Ort, um einen starken Schauer abzuwarten.",
                 "hu": "Tökéletes hely egy erős zápor kivárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
-                "en": "Perfect place to wait out a heavy downpour."
+                "en": "Perfect place to wait out a heavy downpour.",
+                "pt": "Local perfeito para esperar a passagem de um aguaceiro forte."
               }
             }
           ],
@@ -1443,6 +1551,12 @@
               "Parking garages in the center offer protection from the rain.",
               "Allow a bit more time for city traffic.",
               "Leave wet umbrellas in the trunk."
+            ],
+            "pt": [
+              "Verifique o estado dos limpa‑pára‑brisas.",
+              "Os parques de estacionamento no centro oferecem proteção contra a chuva.",
+              "Reserve um pouco mais de tempo para o trânsito urbano.",
+              "Deixe guarda-chuvas molhados no porta-bagagens."
             ]
           }
         },
@@ -1451,7 +1565,8 @@
             "de": "Die winterliche Autotour beginnt an der Nekropole von Carenque. Über die Mühlen von Funcheira fahren wir ins Stadtzentrum. Mittags genießen wir den Parque Central im Winterlicht, bevor die Casa Roque Gameiro mit Geschichte lockt. Der Nachmittag bietet Kultur im Theater und Ruhe in der Bibliothek. Wir nutzen die Flexibilität des Autos, um den Tag gemütlich ausklingen zu lassen.",
             "hu": "A téli autós túra a carenque-i nekropolisznál kezdődik. A funcheirai malmokon keresztül hajtunk be a városközpontba. Délben a Parque Centralt élvezzük a téli fényekben, mielőtt a Casa Roque Gameiro hívogatna történelmével. A délután kultúrát kínál a színházban és nyugalmat a könyvtárban. Kihasználjuk az autó rugalmasságát a nap kényelmes lezárásához.",
             "ro": "Turul de iarnă cu mașina începe la necropola din Carenque. Trecem pe la morile din Funcheira în drum spre centrul orașului. La prânz ne bucurăm de Parque Central în lumina iernii, înainte ca istoria de la Casa Roque Gameiro să ne atragă. După-amiaza oferă cultură la teatru și liniște la bibliotecă. Folosim flexibilitatea mașinii pentru a încheia ziua confortabil.",
-            "en": "The winter car tour begins at the Carenque necropolis. We drive through the Funcheira mills into the city center. At noon, we enjoy Parque Central in winter light before history calls at Casa Roque Gameiro. The afternoon offers culture at the theater and peace at the library. We use the flexibility of the car to end the day comfortably."
+            "en": "The winter car tour begins at the Carenque necropolis. We drive through the Funcheira mills into the city center. At noon, we enjoy Parque Central in winter light before history calls at Casa Roque Gameiro. The afternoon offers culture at the theater and peace at the library. We use the flexibility of the car to end the day comfortably.",
+            "pt": "O passeio de carro de inverno começa na necrópole de Carenque. Conduzimos pelos moinhos da Funcheira até ao centro da cidade. Ao meio-dia, desfrutamos do Parque Central na luz de inverno antes de mergulhar na história na Casa Roque Gameiro. A tarde oferece cultura no teatro e tranquilidade na biblioteca. Usamos a flexibilidade do automóvel para terminar o dia confortavelmente."
           },
           "stops": [
             {
@@ -1460,7 +1575,8 @@
                 "de": "Heizung im Auto sorgt für einen warmen Start.",
                 "hu": "Az autó fűtése gondoskodik a meleg indulásról.",
                 "ro": "Încălzirea mașinii asigură un start călduros.",
-                "en": "The car's heater ensures a warm start."
+                "en": "The car's heater ensures a warm start.",
+                "pt": "O aquecedor do carro garante um arranque quente."
               }
             },
             {
@@ -1469,7 +1585,8 @@
                 "de": "Genießen Sie die Aussicht aus dem warmen Fahrzeug.",
                 "hu": "Élvezze a kilátást a meleg járműből.",
                 "ro": "Bucurați-vă de vedere din vehiculul cald.",
-                "en": "Enjoy the view from the warm vehicle."
+                "en": "Enjoy the view from the warm vehicle.",
+                "pt": "Desfrute da vista a partir do veículo aquecido."
               }
             },
             {
@@ -1478,7 +1595,8 @@
                 "de": "Parken Sie zentral, um Fußwege kurz zu halten.",
                 "hu": "Parkoljon központilag, hogy rövidüljenek a séták.",
                 "ro": "Parcați central pentru a scurta distanțele de mers pe jos.",
-                "en": "Park centrally to keep walking distances short."
+                "en": "Park centrally to keep walking distances short.",
+                "pt": "Estacione no centro para manter as distâncias a pé curtas."
               }
             },
             {
@@ -1487,7 +1605,8 @@
                 "de": "Ein kurzer Winterspaziergang regt den Kreislauf an.",
                 "hu": "Egy rövid téli séta felpezsdíti a keringést.",
                 "ro": "O scurtă plimbare de iarnă stimulează circulația.",
-                "en": "A short winter walk boosts circulation."
+                "en": "A short winter walk boosts circulation.",
+                "pt": "Uma curta caminhada de inverno estimula a circulação."
               }
             },
             {
@@ -1496,7 +1615,8 @@
                 "de": "Abends sind die Straßen im Zentrum oft beleuchtet.",
                 "hu": "Este a központi utcák gyakran ki vannak világítva.",
                 "ro": "Seara, străzile din centru sunt adesea iluminate.",
-                "en": "In the evening, center streets are often illuminated."
+                "en": "In the evening, center streets are often illuminated.",
+                "pt": "À noite, as ruas do centro costumam estar iluminadas."
               }
             },
             {
@@ -1505,7 +1625,8 @@
                 "de": "Nutzen Sie das warme Licht der Bibliothek am späten Tag.",
                 "hu": "Használja ki a könyvtár meleg fényeit a nap végén.",
                 "ro": "Bucurați-vă de lumina caldă a bibliotecii la sfârșitul zilei.",
-                "en": "Enjoy the warm light of the library late in the day."
+                "en": "Enjoy the warm light of the library late in the day.",
+                "pt": "Aproveite a luz quente da biblioteca no final do dia."
               }
             }
           ],
@@ -1533,6 +1654,12 @@
               "The battery may lose power faster in the cold.",
               "Check the antifreeze in the windshield washer fluid.",
               "Use seat heating for extra comfort."
+            ],
+            "pt": [
+              "Evite deixar objetos de valor visíveis no carro.",
+              "A bateria pode perder carga mais rapidamente no frio.",
+              "Verifique o anticongelante no líquido do limpa‑vidros.",
+              "Use aquecimento dos bancos para conforto extra."
             ]
           }
         }
@@ -1551,7 +1678,8 @@
             "de": "Fahrt zur Station Reboleira & Spaziergang zur Kirche",
             "hu": "Utazás a Reboleira állomásra és séta a templomhoz",
             "ro": "Călătorie la stația Reboleira și plimbare la biserică",
-            "en": "Trip to Reboleira Station & Walk to Church"
+            "en": "Trip to Reboleira Station & Walk to Church",
+            "pt": "Passeio até à Estação da Reboleira e caminhada até à igreja"
           },
           "coords": [
             -9.2411,
@@ -1567,7 +1695,8 @@
             "de": "Die U-Bahn-Station Reboleira (Blaue Linie) ist ein guter Ausgangspunkt.",
             "hu": "A Reboleira metróállomás (kék vonal) jó kiindulópont.",
             "ro": "Stația de metrou Reboleira (Linia Albastră) este un bun punct de plecare.",
-            "en": "Reboleira metro station (Blue Line) is a good starting point."
+            "en": "Reboleira metro station (Blue Line) is a good starting point.",
+            "pt": "A estação de metro Reboleira (Linha Azul) é um bom ponto de partida."
           }
         },
         {
@@ -1575,7 +1704,8 @@
             "de": "Spaziergang zum Parque Central da Amadora",
             "hu": "Séta a Parque Central da Amadora-hoz",
             "ro": "Plimbare la Parque Central da Amadora",
-            "en": "Walk to Parque Central da Amadora"
+            "en": "Walk to Parque Central da Amadora",
+            "pt": "Caminhada até ao Parque Central da Amadora"
           },
           "coords": [
             -9.2236,
@@ -1591,7 +1721,8 @@
             "de": "Ein angenehmer Spaziergang vom Kirchenviertel zum Herzen der Stadt.",
             "hu": "Kellemes séta a templomnegyedből a város szívébe.",
             "ro": "O plimbare plăcută din cartierul bisericii în inima orașului.",
-            "en": "A pleasant walk from the church district to the heart of the city."
+            "en": "A pleasant walk from the church district to the heart of the city.",
+            "pt": "Uma caminhada agradável do bairro da igreja até ao coração da cidade."
           }
         },
         {
@@ -1599,7 +1730,8 @@
             "de": "Fahrt ins Zentrum & Spaziergang zur Casa Roque Gameiro",
             "hu": "Utazás a központba és séta a Casa Roque Gameiro-hoz",
             "ro": "Călătorie în centru și plimbare la Casa Roque Gameiro",
-            "en": "Trip to Center & Walk to Casa Roque Gameiro"
+            "en": "Trip to Center & Walk to Casa Roque Gameiro",
+            "pt": "Passeio ao Centro e caminhada até à Casa Roque Gameiro"
           },
           "coords": [
             -9.2278,
@@ -1615,7 +1747,8 @@
             "de": "Nehmen Sie einen lokalen Bus, um näher an den zentralen Kulturcluster zu gelangen.",
             "hu": "Vegyen egy helyi buszt, hogy közelebb kerüljön a központi kulturális negyedhez.",
             "ro": "Luați un autobuz local pentru a vă apropia de clusterul cultural central.",
-            "en": "Take a local bus to get closer to the central cultural cluster."
+            "en": "Take a local bus to get closer to the central cultural cluster.",
+            "pt": "Apanhe um autocarro local para se aproximar do núcleo cultural central."
           }
         },
         {
@@ -1623,7 +1756,8 @@
             "de": "Spaziergang zum Teatro dos Aloés",
             "hu": "Séta a Teatro dos Aloés-hez",
             "ro": "Plimbare la Teatro dos Aloés",
-            "en": "Walk to Teatro dos Aloés"
+            "en": "Walk to Teatro dos Aloés",
+            "pt": "Caminhada até ao Teatro dos Aloés"
           },
           "coords": [
             -9.2305,
@@ -1639,7 +1773,8 @@
             "de": "Genießen Sie ein Mittagessen in der Nähe des Theaters, bevor Sie es erkunden.",
             "hu": "Ebédeljen a színház közelében, mielőtt felfedezné.",
             "ro": "Bucurați-vă de prânz lângă teatru înainte de a-l explora.",
-            "en": "Enjoy lunch near the theatre before exploring it."
+            "en": "Enjoy lunch near the theatre before exploring it.",
+            "pt": "Desfrute do almoço perto do teatro antes de o explorar."
           }
         },
         {
@@ -1647,7 +1782,8 @@
             "de": "Bus zum Aqueduto das Águas Livres",
             "hu": "Busz az Aqueduto das Águas Livres-hez",
             "ro": "Autobuz spre Aqueduto das Águas Livres",
-            "en": "Bus to Aqueduto das Águas Livres"
+            "en": "Bus to Aqueduto das Águas Livres",
+            "pt": "Autocarro para o Aqueduto das Águas Livres"
           },
           "coords": [
             -9.213,
@@ -1663,7 +1799,8 @@
             "de": "Der letzte Ausflug des Tages, um das technische Wunderwerk zu sehen, das Lissabon mit Wasser versorgte.",
             "hu": "A nap utolsó kirándulása, hogy megnézze a mérnöki csodát, amely Lisszabont vízzel látta el.",
             "ro": "Ultima excursie a zilei pentru a vedea minunea inginerească care a aprovizionat Lisabona cu apă.",
-            "en": "The final trip of the day to see the engineering marvel that supplied Lisbon with water."
+            "en": "The final trip of the day to see the engineering marvel that supplied Lisbon with water.",
+            "pt": "A última viagem do dia para ver a maravilha de engenharia que forneceu água a Lisboa."
           }
         }
       ],
@@ -1671,7 +1808,8 @@
         "de": "Beginnen Sie Ihre Reise mit den öffentlichen Verkehrsmitteln an der Station Reboleira und besuchen Sie die nahegelegene Kirche. Gehen Sie dann zum Parque Central für eine grüne Pause. Ein weiterer Bus bringt Sie ins Herz des Kulturviertels. Nach dem Mittagessen erkunden Sie zu Fuß die Casa Roque Gameiro und das Theater. Am späten Nachmittag bringt Sie ein letzter Bus zum beeindruckenden Aquädukt, ein perfekter Abschluss Ihres Erkundungstages.",
         "hu": "Kezdje a tömegközlekedési utazást a Reboleira állomáson, és látogasson el a közeli templomba. Sétáljon el a Parque Centralba egy zöld szünetért. Egy másik busz elviszi a kulturális negyed szívébe. Ebéd után fedezze fel gyalog a Casa Roque Gameiro-t és a színházat. Késő délután egy utolsó busz elviszi a lenyűgöző akvadukthoz, amely tökéletes befejezése a felfedező napnak.",
         "ro": "Începeți călătoria cu transportul public la stația Reboleira, vizitând biserica din apropiere. Apoi, mergeți pe jos până la Parque Central pentru o pauză verde. Un alt autobuz vă va duce în inima clusterului cultural. După prânz, explorați Casa Roque Gameiro și teatrul pe jos. La sfârșitul după-amiezii, un ultim autobuz vă va duce la impresionantul apeduct, o încheiere perfectă a zilei de explorare.",
-        "en": "Start your transit journey at Reboleira station, visiting the nearby church. Then, walk to Parque Central for a green break. Another bus takes you to the heart of the cultural cluster. After lunch, explore Casa Roque Gameiro and the theatre on foot. In the late afternoon, a final bus ride takes you to the impressive aqueduct, a perfect end to your day of exploration."
+        "en": "Start your transit journey at Reboleira station, visiting the nearby church. Then, walk to Parque Central for a green break. Another bus takes you to the heart of the cultural cluster. After lunch, explore Casa Roque Gameiro and the theatre on foot. In the late afternoon, a final bus ride takes you to the impressive aqueduct, a perfect end to your day of exploration.",
+        "pt": "Comece a sua viagem de transportes na estação da Reboleira, visitando a igreja próxima. Depois, caminhe até ao Parque Central para um intervalo verde. Outro autocarro leva-o ao coração do aglomerado cultural. Após o almoço, explore a Casa Roque Gameiro e o teatro a pé. No fim da tarde, uma última viagem de autocarro leva-o ao impressionante aqueduto, um final perfeito para o seu dia de exploração."
       },
       "gastro_picks": {
         "de": [
@@ -1867,6 +2005,12 @@
           "Validate your ticket every time you board a bus, metro, or tram.",
           "Bus schedules can vary, so check times in advance.",
           "Use a public transit app to plan your route in real-time."
+        ],
+        "pt": [
+          "Compre um cartão 'Viva Viagem' para a forma mais fácil de pagar todos os transportes públicos.",
+          "Valide o seu título de transporte sempre que embarcar num autocarro, metro ou elétrico.",
+          "Os horários dos autocarros podem variar, por isso verifique os tempos com antecedência.",
+          "Use uma app de transportes públicos para planear a sua rota em tempo real."
         ]
       },
       "variants": {
@@ -1875,7 +2019,8 @@
             "de": "Mit dem Zug erreichen wir Reboleira und besuchen die Kirche. Trotz Regen geht es weiter zum Parque Central. Mittags bietet die Casa Roque Gameiro einen kulturellen Ankerpunkt im Trockenen. Nachmittags besuchen wir das Theater, bevor der Bus uns zum Aquädukt bringt. Die öffentlichen Verkehrsmittel halten uns mobil und weitgehend trocken während der Tour durch Amadora.",
             "hu": "Vonattal érkezünk Reboleirába, és meglátogatjuk a templomot. Az eső ellenére folytatjuk utunkat a Parque Centralba. Délben a Casa Roque Gameiro nyújt száraz kulturális bázist. Délután színházba megyünk, mielőtt a busz az akvadukthoz vinne. A tömegközlekedés mozgásban és nagyrészt szárazon tart minket az amadorai túra során.",
             "ro": "Ajungem cu trenul la Reboleira și vizităm biserica. În ciuda ploii, continuăm spre Parque Central. La prânz, Casa Roque Gameiro oferă un punct cultural uscat. După-amiaza mergem la teatru, înainte ca autobuzul să ne ducă la apeduct. Transportul public ne menține mobili și în mare parte uscați în timpul turului prin Amadora.",
-            "en": "We arrive by train in Reboleira and visit the church. Despite the rain, we continue to Parque Central. At noon, Casa Roque Gameiro provides a dry cultural anchor. In the afternoon, we visit the theater before the bus takes us to the aqueduct. Public transit keeps us mobile and mostly dry during our Amadora tour."
+            "en": "We arrive by train in Reboleira and visit the church. Despite the rain, we continue to Parque Central. At noon, Casa Roque Gameiro provides a dry cultural anchor. In the afternoon, we visit the theater before the bus takes us to the aqueduct. Public transit keeps us mobile and mostly dry during our Amadora tour.",
+            "pt": "Chegamos de comboio à Reboleira e visitamos a igreja. Apesar da chuva, seguimos para o Parque Central. Ao meio‑dia, a Casa Roque Gameiro oferece um abrigo cultural seco. À tarde visitamos o teatro antes do autocarro nos levar ao aqueduto. Os transportes públicos mantêm‑nos móveis e em grande parte secos durante o nosso passeio pela Amadora."
           },
           "stops": [
             {
@@ -1884,7 +2029,8 @@
                 "de": "Die Station bietet guten Schutz während der Wartezeit.",
                 "hu": "Az állomás jó védelmet nyújt várakozás közben.",
                 "ro": "Gara oferă o protecție bună în timpul așteptării.",
-                "en": "The station offers good protection while waiting."
+                "en": "The station offers good protection while waiting.",
+                "pt": "A estação oferece boa proteção enquanto espera."
               }
             },
             {
@@ -1893,7 +2039,8 @@
                 "de": "Kurzer Fußweg vom Bahnhof, Regenschirm bereit halten.",
                 "hu": "Rövid séta az állomástól, tartsa készen az esernyőt.",
                 "ro": "Scurtă plimbare de la gară, pregătiți umbrela.",
-                "en": "Short walk from the station, keep your umbrella ready."
+                "en": "Short walk from the station, keep your umbrella ready.",
+                "pt": "Curta caminhada desde a estação, mantenha o guarda‑chuvas pronto."
               }
             },
             {
@@ -1902,7 +2049,8 @@
                 "de": "Nutzen Sie Busverbindungen, um Regenstrecken zu verkürzen.",
                 "hu": "Használja a buszokat az esős szakaszok rövidítésére.",
                 "ro": "Folosiți autobuzele pentru a sccurta traseele prin ploaie.",
-                "en": "Use bus connections to shorten rainy walking sections."
+                "en": "Use bus connections to shorten rainy walking sections.",
+                "pt": "Use ligações de autocarro para encurtar os trechos a pé na chuva."
               }
             },
             {
@@ -1911,7 +2059,8 @@
                 "de": "Warten Sie an überdachten Bushaltestellen.",
                 "hu": "Várjon a fedett buszmegállókban.",
                 "ro": "Așteptați în stațiile de autobuz acoperite.",
-                "en": "Wait at covered bus stops."
+                "en": "Wait at covered bus stops.",
+                "pt": "Espere em paragens de autocarro cobertas."
               }
             },
             {
@@ -1920,7 +2069,8 @@
                 "de": "Vom Busfenster aus hat man eine gute Sicht auf das Aquädukt.",
                 "hu": "A busz ablakából jó kilátás nyílik az akvaduktra.",
                 "ro": "Din fereastra autobuzului aveți o vedere bună spre apeduct.",
-                "en": "You get a good view of the aqueduct from the bus window."
+                "en": "You get a good view of the aqueduct from the bus window.",
+                "pt": "Tem uma boa vista do aqueduto pela janela do autocarro."
               }
             }
           ],
@@ -1948,6 +2098,12 @@
               "Trains run very reliably even in the rain.",
               "Expect fogged-up windows on buses.",
               "Train stations are good places for a short dry break."
+            ],
+            "pt": [
+              "Use o cartão 'Navegante' para facilitar as transferências.",
+              "Os comboios circulam com muita fiabilidade mesmo com chuva.",
+              "Espere vidros embaciados nos autocarros.",
+              "As estações de comboio são bons locais para uma curta pausa seca."
             ]
           }
         },
@@ -1956,7 +2112,8 @@
             "de": "Unsere winterliche Tour startet mit der Bahn in Reboleira. Nach dem Kirchenbesuch führt uns der Weg zum Parque Central, der im Winterlicht glänzt. Mittags bietet die Casa Roque Gameiro Wärme und Kultur. Nachmittags besuchen wir das Theater, bevor uns der Bus zum Aquädukt bringt. Die Fahrt durch das winterliche Amadora mit Bus und Bahn ist entspannt und bietet vielfältige Eindrücke der Stadt.",
             "hu": "Téli túránk vasúttal indul Reboleirában. A templomlátogatás után utunk a téli fényben tündöklő Parque Centralba vezet. Délben a Casa Roque Gameiro kínál meleget és kultúrát. Délután színházba látogatunk, mielőtt a busz az akvadukthoz vinne. A téli Amadora felfedezése busszal és vonattal pihentető, és sokszínű benyomásokat kínál a városról.",
             "ro": "Turul nostru de iarnă începe cu trenul în Reboleira. După vizitarea bisericii, drumul ne duce la Parque Central, care strălucește în lumina iernii. La prânz, Casa Roque Gameiro oferă căldură și cultură. După-amiaza vizităm teatrul, înainte ca autobuzul să ne ducă la apeduct. Călătoria prin Amadora de iarnă cu autobuzul și trenul este relaxantă și oferă impresii variate despre oraș.",
-            "en": "Our winter tour starts by rail in Reboleira. After visiting the church, our path leads to Parque Central, shining in winter light. At noon, Casa Roque Gameiro offers warmth and culture. In the afternoon, we visit the theater before the bus takes us to the aqueduct. Traveling through winter Amadora by bus and train is relaxed and offers diverse impressions of the city."
+            "en": "Our winter tour starts by rail in Reboleira. After visiting the church, our path leads to Parque Central, shining in winter light. At noon, Casa Roque Gameiro offers warmth and culture. In the afternoon, we visit the theater before the bus takes us to the aqueduct. Traveling through winter Amadora by bus and train is relaxed and offers diverse impressions of the city.",
+            "pt": "O nosso passeio de inverno começa de comboio na Reboleira. Depois de visitar a igreja, o percurso conduz ao Parque Central, a brilhar na luz de inverno. Ao meio‑dia, a Casa Roque Gameiro oferece calor e cultura. À tarde visitamos o teatro antes de o autocarro nos levar ao aqueduto. Viajar pela Amadora de inverno de autocarro e comboio é descontraído e oferece impressões diversas da cidade."
           },
           "stops": [
             {
@@ -1965,7 +2122,8 @@
                 "de": "Züge sind im Winter oft gut beheizt.",
                 "hu": "A vonatok télen gyakran jól fűtöttek.",
                 "ro": "Trenurile sunt adesea bine încălzite iarna.",
-                "en": "Trains are often well-heated in winter."
+                "en": "Trains are often well-heated in winter.",
+                "pt": "Os comboios costumam ser bem aquecidos no inverno."
               }
             },
             {
@@ -1974,7 +2132,8 @@
                 "de": "Die Wintersonne im Park genießen, wenn sie scheint.",
                 "hu": "Élvezze a téli napsütést a parkban, ha kisüt.",
                 "ro": "Bucurați-vă de soarele de iarnă în parc, dacă apare.",
-                "en": "Enjoy the winter sun in the park if it shines."
+                "en": "Enjoy the winter sun in the park if it shines.",
+                "pt": "Desfrute do sol de inverno no parque, se aparecer."
               }
             },
             {
@@ -1983,7 +2142,8 @@
                 "de": "Kurze Fahrzeiten nutzen, um Füße zu entlasten.",
                 "hu": "Használja ki a rövid utazási időt a lábak pihentetésére.",
                 "ro": "Folosiți timpii scurți de călătorie pentru a odihni picioarele.",
-                "en": "Use short travel times to rest your feet."
+                "en": "Use short travel times to rest your feet.",
+                "pt": "Aproveite os curtos tempos de viagem para descansar os pés."
               }
             },
             {
@@ -1992,7 +2152,8 @@
                 "de": "Beachten Sie die selteneren Fahrpläne am späten Nachmittag.",
                 "hu": "Ügyeljen a ritkább menetrendre késő délután.",
                 "ro": "Atenție la orarele mai rare spre sfârșitul după-amiezii.",
-                "en": "Note the less frequent schedules in the late afternoon."
+                "en": "Note the less frequent schedules in the late afternoon.",
+                "pt": "Tenha em conta os horários menos frequentes ao fim da tarde."
               }
             },
             {
@@ -2001,7 +2162,8 @@
                 "de": "Warme Kleidung für das Warten an der Haltestelle wichtig.",
                 "hu": "Fontos a meleg ruha a megállóban való várakozáshoz.",
                 "ro": "Hainele groase sunt importante pentru așteptarea în stație.",
-                "en": "Warm clothing is important while waiting at the stop."
+                "en": "Warm clothing is important while waiting at the stop.",
+                "pt": "Roupa quente é importante enquanto espera na paragem."
               }
             }
           ],
@@ -2029,6 +2191,12 @@
               "It can be drafty in train stations in the evening.",
               "Use the metro connection in Reboleira for quick travel.",
               "Wear comfortable shoes for walking between stations."
+            ],
+            "pt": [
+              "Consulte horários online com antecedência (CP ou Carris Metropolitana).",
+              "Pode haver correntes de ar nas estações de comboio à noite.",
+              "Use a ligação de metro na Reboleira para deslocações rápidas.",
+              "Use calçado confortável para caminhar entre as estações."
             ]
           }
         }

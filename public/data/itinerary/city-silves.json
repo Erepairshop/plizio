@@ -21,7 +21,8 @@
             "de": "Câmara Municipal de Silves",
             "hu": "Câmara Municipal de Silves",
             "ro": "Câmara Municipal de Silves",
-            "en": "Câmara Municipal de Silves"
+            "en": "Câmara Municipal de Silves",
+            "pt": "Câmara Municipal de Silves"
           },
           "coords": [
             -8.43998,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die klassische Architektur des Rathauses als Zentrum des städtischen Lebens und prüfen Sie die Aushänge für abendliche Veranstaltungen.",
             "hu": "Csodálja meg a városháza klasszikus építészetét, amely a civil élet központja, és mindenképpen nézze meg a hirdetőtáblákat az esti programokért.",
             "ro": "Admirați arhitectura clasică a primăriei care ancorează viața civică din Silves și asigurați-vă că verificați panourile pentru evenimente culturale.",
-            "en": "Admire the classic architecture of the city hall that anchors Silves' civic life, and be sure to check the notice boards for evening cultural events."
+            "en": "Admire the classic architecture of the city hall that anchors Silves' civic life, and be sure to check the notice boards for evening cultural events.",
+            "pt": "Admire a arquitetura clássica da câmara que ancora a vida cívica de Silves e não deixe de consultar os placares para eventos culturais noturnos."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Archäologisches Museum Silves",
             "hu": "Silves-i Régészeti Múzeum",
             "ro": "Muzeul Arheologic din Silves",
-            "en": "Silves Archaeological Museum"
+            "en": "Silves Archaeological Museum",
+            "pt": "Silves Archaeological Museum"
           },
           "coords": [
             -8.438887,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie den beeindruckenden maurischen Brunnen und jahrhundertealte Artefakte, aber kommen Sie früh, um die islamische Keramik in Ruhe zu sehen.",
             "hu": "Fedezze fel a lenyűgöző mór kutat és az évszázados leleteket, de érkezzen korán, hogy csendben csodálhassa meg az iszlám kerámiák remek részleteit.",
             "ro": "Explorați fântâna maură și secole de artefacte aici, dar ajungeți devreme pentru a viziona în liniște ceramica islamică cu adevărat complexă.",
-            "en": "Explore the stunning Moorish well and centuries of artifacts here, but arrive early to secure a quiet moment viewing the intricate Islamic ceramics."
+            "en": "Explore the stunning Moorish well and centuries of artifacts here, but arrive early to secure a quiet moment viewing the intricate Islamic ceramics.",
+            "pt": "Explore o impressionante poço mourisco e séculos de artefatos aqui, mas chegue cedo para garantir um momento tranquilo a observar as cerâmicas islâmicas intrincadas."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Sé Catedral de Silves",
             "hu": "Sé Catedral de Silves",
             "ro": "Sé Catedral de Silves",
-            "en": "Sé Catedral de Silves"
+            "en": "Sé Catedral de Silves",
+            "pt": "Sé Catedral de Silves"
           },
           "coords": [
             -8.438555,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die gotischen Bögen dieser ehemaligen Moschee, die zur Kathedrale wurde, und treten Sie leise ein, um die Akustik voll zu genießen.",
             "hu": "Csodálja meg ennek a mecsetből lett katedrálisnak a gótikus íveit, és lépjen be halkan, hogy a legjobban értékelhesse a főhajó ünnepélyes akusztikáját.",
             "ro": "Admirați arcadele gotice ale acestei foste moschei transformate în catedrală și pășiți încet pentru a aprecia acustica solemnă a navei grandioase.",
-            "en": "Marvel at the gothic arches of this former mosque turned cathedral, and step softly inside to best appreciate the solemn acoustics of the grand nave."
+            "en": "Marvel at the gothic arches of this former mosque turned cathedral, and step softly inside to best appreciate the solemn acoustics of the grand nave.",
+            "pt": "Maravilhe-se com os arcos góticos desta antiga mesquita convertida em catedral e entre com passos suaves para melhor apreciar a acústica solene da grande nave."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Teatro Marcarenhas Gregório",
             "hu": "Teatro Marcarenhas Gregório",
             "ro": "Teatro Marcarenhas Gregório",
-            "en": "Teatro Marcarenhas Gregório"
+            "en": "Teatro Marcarenhas Gregório",
+            "pt": "Teatro Marcarenhas Gregório"
           },
           "coords": [
             -8.436672,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie den intimen Charme dieses historischen Theaters als künstlerische Seele der Stadt und fragen Sie nach Backstage-Touren am Wochenende.",
             "hu": "Fedezze fel ennek a történelmi színháznak a meghitt báját, amely Silves művészi lelkét képviseli, és kérdezzen rá a hétvégi kulisszajárásokra.",
             "ro": "Descoperiți farmecul intim al acestui teatru istoric ce reprezintă sufletul artistic din Silves și întrebați de tururile de culise din weekend.",
-            "en": "Discover the intimate charm of this historic theater representing Silves' artistic soul, and ask the box office about weekend backstage tour options."
+            "en": "Discover the intimate charm of this historic theater representing Silves' artistic soul, and ask the box office about weekend backstage tour options.",
+            "pt": "Descubra o charme íntimo deste teatro histórico que representa a alma artística de Silves e informe-se na bilheteira sobre opções de visitas aos bastidores ao fim de semana."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Museu da Cortiça",
             "hu": "Museu da Cortiça",
             "ro": "Museu da Cortiça",
-            "en": "Museu da Cortiça"
+            "en": "Museu da Cortiça",
+            "pt": "Museu da Cortiça"
           },
           "coords": [
             -8.435652,
@@ -128,7 +137,8 @@
             "de": "Erfahren Sie mehr über die faszinierende Geschichte der Korkproduktion, welche die Region prägte, und berühren Sie die Rindenausstellungen hautnah.",
             "hu": "Ismerje meg a parafa gyártásának lenyűgöző történetét, amely formálta a régió gazdaságát, és érintse meg a nyers fakéreg kiállítási tárgyakat.",
             "ro": "Aflați despre istoria fascinantă a producției de plută care a modelat economia regiunii și atingeți expozițiile de scoarță crudă pentru o senzație tactilă.",
-            "en": "Learn about the fascinating history of cork production that shaped the region's economy, and touch the raw bark displays for a tactile experience."
+            "en": "Learn about the fascinating history of cork production that shaped the region's economy, and touch the raw bark displays for a tactile experience.",
+            "pt": "Aprenda sobre a fascinante história da produção de cortiça que moldou a economia da região e toque nas amostras de casca para uma experiência tátil."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Baloiço da Ponte Romana",
             "hu": "Baloiço da Ponte Romana",
             "ro": "Baloiço da Ponte Romana",
-            "en": "Baloiço da Ponte Romana"
+            "en": "Baloiço da Ponte Romana",
+            "pt": "Baloiço da Ponte Romana"
           },
           "coords": [
             -8.438803,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie einen spielerischen Moment auf der Schaukel am Flussufer mit Blick auf die römische Brücke und machen Sie Fotos im warmen Abendlicht.",
             "hu": "Élvezze a játékos pillanatot a folyóparti hintán, ahonnan tökéletes kilátás nyílik a római hídra, és készítsen fotókat az aranyóra meleg fényében.",
             "ro": "Bucurați-vă de un moment jucăuș pe leagănul de pe malul râului cu vedere perfectă la podul roman și faceți fotografii în lumina caldă a asfințitului.",
-            "en": "Enjoy a playful moment on the riverside swing with a perfect view of the Roman bridge, and capture photos during the warm golden hour light."
+            "en": "Enjoy a playful moment on the riverside swing with a perfect view of the Roman bridge, and capture photos during the warm golden hour light.",
+            "pt": "Desfrute de um momento lúdico no baloiço ribeirinho com uma vista perfeita da ponte romana e capture fotografias durante a luz dourada do final do dia."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Morgen im Zentrum von Silves am historischen Rathaus, bevor Sie im Archäologischen Museum in die Vergangenheit eintauchen. Der Mittag ist ideal für die gotische Architektur der Kathedrale. Entdecken Sie am Nachmittag die Kunst- und Korkgeschichte der Stadt. Genießen Sie schließlich einen ruhigen Abend auf der Schaukel an der alten römischen Brücke im Sonnenuntergang.",
         "hu": "Kezdje a reggelt Silves központjában, a történelmi városháza megcsodálásával, majd merüljön el a múltban a Régészeti Múzeumban. A dél ideális a katedrális gótikus építészetének megismerésére. Délután fedezze fel a város művészeti oldalát és a parafa történetét. Végül élvezze a békés estét a római híd melletti hintán, ahogy a nap lassan lenyugszik.",
         "ro": "Începeți dimineața explorând inima civică din Silves la primăria istorică, înainte de a pătrunde în trecut la Muzeul Arheologic. Amiaza este perfectă pentru a admira arhitectura gotică a Catedralei. După-amiaza, descoperiți latura artistică și istoria plutei. În cele din urmă, bucurați-vă de o seară liniștită pe leagănul de lângă podul roman, în timp ce soarele apune.",
-        "en": "Start your morning exploring the civic heart of Silves, admiring the historic Câmara Municipal before diving into the deep past at the Archaeological Museum. Midday is perfect for admiring the imposing gothic architecture of the Cathedral. In the afternoon, discover the town's artistic side and cork history. Finally, enjoy a peaceful evening swing by the Roman bridge as the sun slowly sets."
+        "en": "Start your morning exploring the civic heart of Silves, admiring the historic Câmara Municipal before diving into the deep past at the Archaeological Museum. Midday is perfect for admiring the imposing gothic architecture of the Cathedral. In the afternoon, discover the town's artistic side and cork history. Finally, enjoy a peaceful evening swing by the Roman bridge as the sun slowly sets.",
+        "pt": "Comece a manhã explorando o coração cívico de Silves, admirando a histórica Câmara Municipal antes de mergulhar no passado profundo no Museu Arqueológico. O meio do dia é perfeito para admirar a imponente arquitetura gótica da Catedral. À tarde, descubra o lado artístico e a história da cortiça da cidade. Finalmente, desfrute de um tranquilo baloiço à beira da ponte romana enquanto o sol lentamente se põe."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Morgens erkunden wir das Rathaus unter dem Schutz der Arkaden. Mittags bietet das Archäologische Museum eine trockene Zuflucht voller Geschichte. Am Nachmittag bewundern wir die Kathedrale, während der Regen auf die alten Mauern trommelt. Der Abend endet an der geschützten Brücke, wobei Vorsicht auf dem glatten Kopfsteinpflaster geboten ist, besonders mit festem, wasserdichtem Schuhwerk.",
             "hu": "Reggel a városháza árkádjai alatt kezdünk, védve az esőtől. Délben a Régészeti Múzeum kínál száraz menedéket a történelem kedvelőinek. Délután a katedrális belső tereit csodáljuk meg, miközben kint kopog az eső. Az estét a római hídnál zárjuk; vigyázzunk a csúszós macskaköveken, és viseljünk vízálló cipőt a városi séta során.",
             "ro": "Dimineața explorăm primăria sub protecția arcadelor. La prânz, Muzeul Arheologic oferă un refugiu uscat plin de istorie. După-amiaza admirăm catedrala în timp ce ploaia bate în zidurile vechi. Seara se încheie la podul roman; atenție la pavajul alunecos, fiind recomandată încălțămintea impermeabilă pentru a parcurge în siguranță traseul.",
-            "en": "Morning starts under the town hall's arches, shielding us from the rain. At noon, the Archaeological Museum provides a dry sanctuary filled with history. In the afternoon, we admire the cathedral's interior as rain falls outside. The evening ends by the Roman bridge; watch your step on the slippery cobblestones and ensure you wear waterproof footwear."
+            "en": "Morning starts under the town hall's arches, shielding us from the rain. At noon, the Archaeological Museum provides a dry sanctuary filled with history. In the afternoon, we admire the cathedral's interior as rain falls outside. The evening ends by the Roman bridge; watch your step on the slippery cobblestones and ensure you wear waterproof footwear.",
+            "pt": "A manhã começa sob os arcos da câmara, que nos protegem da chuva. Ao meio-dia, o Museu Arqueológico proporciona um santuário seco cheio de história. À tarde, admiramos o interior da catedral enquanto a chuva cai lá fora. A noite termina junto à ponte romana; tenha cuidado com as calçadas escorregadias e use calçado impermeável."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Câmara Municipal de Silves",
                 "hu": "Câmara Municipal de Silves",
                 "ro": "Câmara Municipal de Silves",
-                "en": "Câmara Municipal de Silves"
+                "en": "Câmara Municipal de Silves",
+                "pt": "Câmara Municipal de Silves"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur unter den Arkaden, die perfekten Schutz vor Regengüssen bieten, während Sie die Details der Fassade betrachten; festes Schuhwerk ist ratsam.",
                 "hu": "Csodálja meg az épület építészetét az árkádok alól, amelyek tökéletes védelmet nyújtanak az eső ellen; a csúszós kövek miatt viseljen stabil talpú, vízálló cipőt.",
                 "ro": "Admirați arhitectura clădirii de sub arcade, care oferă protecție perfectă împotriva ploii; purtați încălțăminte stabilă deoarece pavajul devine foarte alunecos când este ud.",
-                "en": "Admire the architecture from under the arches, which provide perfect shelter from the rain; wear sturdy, waterproof shoes as the pavement becomes slippery when wet."
+                "en": "Admire the architecture from under the arches, which provide perfect shelter from the rain; wear sturdy, waterproof shoes as the pavement becomes slippery when wet.",
+                "pt": "Admire a arquitetura debaixo dos arcos, que oferecem abrigo perfeito da chuva; use sapatos robustos e impermeáveis, pois o pavimento torna-se escorregadio quando molhado."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Archäologisches Museum Silves",
                 "hu": "Silves-i Régészeti Múzeum",
                 "ro": "Muzeul Arheologic din Silves",
-                "en": "Silves Archaeological Museum"
+                "en": "Silves Archaeological Museum",
+                "pt": "Silves Archaeological Museum"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Regen für einen ausgiebigen Besuch der unterirdischen Zisterne; das Museum ist ein idealer, trockener Ort, um tief in die maurische Geschichte einzutauchen.",
                 "hu": "Használja ki az esős időt a föld alatti ciszterna alapos felfedezésére; a múzeum ideális, száraz helyszín, ahol elmélyedhet a város gazdag mór történelmében.",
                 "ro": "Profită de ploaie pentru o vizită extinsă la cisterna subterană; muzeul este un loc ideal și uscat pentru a explora în profunzime istoria maură a orașului Silves.",
-                "en": "Take advantage of the rain for an extensive visit to the underground cistern; the museum is an ideal, dry spot to delve deep into the city's rich Moorish history."
+                "en": "Take advantage of the rain for an extensive visit to the underground cistern; the museum is an ideal, dry spot to delve deep into the city's rich Moorish history.",
+                "pt": "Aproveite a chuva para uma visita extensa à cisterna subterrânea; o museu é um local ideal e seco para aprofundar a rica história mourisca da cidade."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Sé Catedral de Silves",
                 "hu": "Sé Catedral de Silves",
                 "ro": "Sé Catedral de Silves",
-                "en": "Sé Catedral de Silves"
+                "en": "Sé Catedral de Silves",
+                "pt": "Sé Catedral de Silves"
               },
               "tip_5lang": {
                 "de": "Das massive Mauerwerk der Kathedrale strahlt bei Regen eine besondere Ruhe aus; besichtigen Sie das Innere und achten Sie beim Verlassen auf die nassen Stufen.",
                 "hu": "A katedrális vaskos falai között különleges nyugalom honol esőben; nézze meg a belső teret, és a kijáratnál ügyeljen a meredek, vizes lépcsőfokokra.",
                 "ro": "Zidurile masive ale catedralei oferă o liniște aparte pe timp de ploaie; vizitați interiorul și aveți grijă la treptele umede de la intrare când ieșiți afară.",
-                "en": "The cathedral's massive walls offer a special tranquility during rain; visit the interior and be careful on the wet, steep steps when exiting the building."
+                "en": "The cathedral's massive walls offer a special tranquility during rain; visit the interior and be careful on the wet, steep steps when exiting the building.",
+                "pt": "As maciças paredes da catedral oferecem uma tranquilidade especial durante a chuva; visite o interior e tenha cuidado com os degraus íngremes e molhados ao sair do edifício."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Teatro Marcarenhas Gregório",
                 "hu": "Teatro Marcarenhas Gregório",
                 "ro": "Teatro Marcarenhas Gregório",
-                "en": "Teatro Marcarenhas Gregório"
+                "en": "Teatro Marcarenhas Gregório",
+                "pt": "Teatro Marcarenhas Gregório"
               },
               "tip_5lang": {
                 "de": "Dieses charmante Theater ist ein wunderbarer Zufluchtsort vor dem Wetter; prüfen Sie das Programm für kurzfristige Indoor-Events oder bewundern Sie die Architektur.",
                 "hu": "Ez a bájos színház remek menedék az időjárás elől; nézze meg a programot beltéri eseményekért, vagy csak csodálja meg a felújított belsőépítészeti megoldásokat.",
                 "ro": "Acest teatru fermecător este un refugiu minunat împotriva vremii; verificați programul pentru evenimente indoor sau admirați arhitectura interioară restaurată.",
-                "en": "This charming theater is a wonderful escape from the weather; check the schedule for indoor events or simply admire the beautifully restored interior architecture."
+                "en": "This charming theater is a wonderful escape from the weather; check the schedule for indoor events or simply admire the beautifully restored interior architecture.",
+                "pt": "Este teatro encantador é um excelente refúgio do mau tempo; consulte a programação para eventos interiores ou admire simplesmente o interior belamente restaurado."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Museu da Cortiça",
                 "hu": "Museu da Cortiça",
                 "ro": "Museu da Cortiça",
-                "en": "Museu da Cortiça"
+                "en": "Museu da Cortiça",
+                "pt": "Museu da Cortiça"
               },
               "tip_5lang": {
                 "de": "Ein Besuch im Korkmuseum ist die perfekte Regenaktivität, da alle Ausstellungen überdacht sind; lernen Sie die Industriegeschichte im Warmen und Trockenen kennen.",
                 "hu": "A Parafamúzeum meglátogatása tökéletes esőnapra, mivel a kiállítások fedettek; ismerje meg az ipartörténetet szárazon, miközben kint zuhog az eső.",
                 "ro": "Vizitarea Muzeului Plutei este activitatea perfectă pentru o zi ploioasă, deoarece expozițiile sunt acoperite; învățați despre istoria industrială la adăpost.",
-                "en": "Visiting the Cork Museum is the perfect rainy day activity as all exhibits are covered; learn about the industrial history while staying completely dry and warm."
+                "en": "Visiting the Cork Museum is the perfect rainy day activity as all exhibits are covered; learn about the industrial history while staying completely dry and warm.",
+                "pt": "Visitar o Museu da Cortiça é a atividade perfeita para um dia chuvoso, pois todas as exposições estão cobertas; aprenda sobre a história industrial enquanto permanece completamente seco e quente."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Baloiço da Ponte Romana",
                 "hu": "Baloiço da Ponte Romana",
                 "ro": "Baloiço da Ponte Romana",
-                "en": "Baloiço da Ponte Romana"
+                "en": "Baloiço da Ponte Romana",
+                "pt": "Baloiço da Ponte Romana"
               },
               "tip_5lang": {
                 "de": "Die Brücke bietet eine dramatische Aussicht auf den angeschwollenen Fluss Arade; halten Sie sich an den Geländern fest, da die Steine bei Nässe extrem rutschig sind.",
                 "hu": "A hídról drámai kilátás nyílik az esőben megduzzadt Arade folyóra; kapaszkodjon a korlátba, mert a kövek vizesen rendkívül csúszósak és veszélyesek.",
                 "ro": "Podul oferă o vedere dramatică asupra râului Arade umflat de ploaie; țineți-vă de balustrade deoarece pietrele devin extrem de alunecoase când sunt ude.",
-                "en": "The bridge offers a dramatic view of the rain-swollen Arade River; hold onto the railings as the stones become extremely slippery and treacherous when wet."
+                "en": "The bridge offers a dramatic view of the rain-swollen Arade River; hold onto the railings as the stones become extremely slippery and treacherous when wet.",
+                "pt": "A ponte oferece uma vista dramática do rio Arade cheio de água; agarre-se aos corrimãos, pois as pedras ficam extremamente escorregadias e traiçoeiras quando molhadas."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Der kühle Morgen beginnt am Rathaus, wo die Wintersonne die Fassaden streift. Mittags wärmen wir uns im Archäologischen Museum auf. Am Nachmittag bietet die Kathedrale einen stillen Rückzugsort. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das letzte Licht am Museu da Cortiça und beenden den Tag warm eingepackt an der historischen Brücke.",
             "hu": "A hűvös reggel a városházánál indul, ahol a téli nap megvilágítja a homlokzatokat. Délben a Régészeti Múzeumban melegedünk fel. Délután a katedrális nyújt csendes menedéket. Mivel a nap 17:00 körül lenyugszik, az utolsó fényeket a Parafamúzeumnál használjuk ki, majd rétegesen felöltözve fejezzük be a napot a hídnál.",
             "ro": "Dimineața răcoroasă începe la primărie, unde soarele de iarnă luminează fațadele. La prânz ne încălzim în Muzeul Arheologic. După-amiaza, catedrala oferă un refugiu liniștit. Deoarece soarele apune în jurul orei 17:00, profităm de ultima lumină la Muzeul Plutei și încheiem ziua bine îmbrăcați lângă podul istoric.",
-            "en": "The chilly morning starts at the town hall, where the winter sun hits the facades. At noon, we warm up inside the Archaeological Museum. In the afternoon, the cathedral offers a quiet retreat. As the sun sets around 17:00, we catch the last light at the Cork Museum and finish the day bundled up warmly by the historic bridge."
+            "en": "The chilly morning starts at the town hall, where the winter sun hits the facades. At noon, we warm up inside the Archaeological Museum. In the afternoon, the cathedral offers a quiet retreat. As the sun sets around 17:00, we catch the last light at the Cork Museum and finish the day bundled up warmly by the historic bridge.",
+            "pt": "A manhã fria começa na câmara, onde o sol de inverno ilumina as fachadas. Ao meio-dia, aquecemo-nos dentro do Museu Arqueológico. À tarde, a catedral oferece um retiro tranquilo. Como o sol se põe por volta das 17:00, apanhamos a última luz no Museu da Cortiça e terminamos o dia bem agasalhados junto à ponte histórica."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Câmara Municipal de Silves",
                 "hu": "Câmara Municipal de Silves",
                 "ro": "Câmara Municipal de Silves",
-                "en": "Câmara Municipal de Silves"
+                "en": "Câmara Municipal de Silves",
+                "pt": "Câmara Municipal de Silves"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft auf dem Platz vor dem Rathaus; die tiefstehende Sonne bietet fantastische Lichtverhältnisse für Fotos der historischen Fassade.",
                 "hu": "Élvezze a friss téli levegőt a városháza előtti téren; az alacsonyan járó nap fantasztikus fényeket biztosít a történelmi homlokzat fotózásához.",
                 "ro": "Bucurați-vă de aerul curat de iarnă în piața din fața primăriei; soarele de joasă altitudine oferă o lumină fantastică pentru fotografierea fațadei istorice.",
-                "en": "Enjoy the crisp winter air in the square in front of the town hall; the low sun provides fantastic lighting conditions for photographing the historic facade."
+                "en": "Enjoy the crisp winter air in the square in front of the town hall; the low sun provides fantastic lighting conditions for photographing the historic facade.",
+                "pt": "Desfrute do ar frio de inverno na praça em frente à câmara municipal; o sol baixo oferece condições fantásticas de iluminação para fotografar a fachada histórica."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Archäologisches Museum Silves",
                 "hu": "Silves-i Régészeti Múzeum",
                 "ro": "Muzeul Arheologic din Silves",
-                "en": "Silves Archaeological Museum"
+                "en": "Silves Archaeological Museum",
+                "pt": "Museu Arqueológico de Silves"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern des Museums halten die Kälte draußen; nutzen Sie den Vormittag für einen ausgiebigen Rundgang im Warmen, bevor die Mittagssonne schwächer wird.",
                 "hu": "A múzeum vastag falai távol tartják a téli hideget; töltsön el itt egy hosszabb délelőttöt kellemes hőmérsékletben, mielőtt a nap ereje csökkenni kezdene.",
                 "ro": "Zidurile groase ale muzeului țin frigul afară; profitați de dimineață pentru un tur extins la căldură, înainte ca soarele de prânz să devină mai slab.",
-                "en": "The thick walls of the museum keep the winter chill out; spend an extended morning here in comfort before the afternoon sun begins to lose its strength."
+                "en": "The thick walls of the museum keep the winter chill out; spend an extended morning here in comfort before the afternoon sun begins to lose its strength.",
+                "pt": "As espessas paredes do museu afastam o frio do inverno; passe aqui uma manhã prolongada em conforto antes do sol da tarde começar a perder intensidade."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Sé Catedral de Silves",
                 "hu": "Sé Catedral de Silves",
                 "ro": "Sé Catedral de Silves",
-                "en": "Sé Catedral de Silves"
+                "en": "Sé Catedral de Silves",
+                "pt": "Sé Catedral de Silves"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kathedrale am frühen Nachmittag, wenn das Winterlicht durch die Fenster fällt; im Inneren kann es kühl sein, tragen Sie daher eine warme Schicht.",
                 "hu": "Látogasson el a katedrálisba kora délután, amikor a téli fény átszűrődik az ablakokon; bent hűvös lehet, így érdemes rétegesen felöltözve érkezni.",
                 "ro": "Vizitați catedrala la începutul după-amiezii, când lumina de iarnă trece prin ferestre; în interior poate fi răcoare, deci purtați haine groase.",
-                "en": "Visit the cathedral in the early afternoon when the winter light filters through the windows; it can be chilly inside, so make sure to wear a warm layer."
+                "en": "Visit the cathedral in the early afternoon when the winter light filters through the windows; it can be chilly inside, so make sure to wear a warm layer.",
+                "pt": "Visite a catedral no início da tarde quando a luz de inverno se filtra pelas janelas; pode estar fria lá dentro, por isso certifique-se de levar uma camada quente."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Teatro Marcarenhas Gregório",
                 "hu": "Teatro Marcarenhas Gregório",
                 "ro": "Teatro Marcarenhas Gregório",
-                "en": "Teatro Marcarenhas Gregório"
+                "en": "Teatro Marcarenhas Gregório",
+                "pt": "Teatro Marcarenhas Gregório"
               },
               "tip_5lang": {
                 "de": "Das Theater bietet im Winter oft gemütliche Abendveranstaltungen; ein idealer Ort, um der frühen Dunkelheit zu entfliehen und lokale Kultur zu erleben.",
                 "hu": "A színház télen gyakran ad otthont barátságos esti előadásoknak; ideális helyszín, hogy elmeneküljön a korai sötétség elől és megismerje a helyi kultúrát.",
                 "ro": "Teatrul găzduiește adesea evenimente de seară primitoare în timpul iernii; un loc ideal pentru a scăpa de întunericul timpuriu și a experimenta cultura locală.",
-                "en": "The theater often hosts cozy evening events during winter; an ideal spot to escape the early darkness and experience local Portuguese culture indoors."
+                "en": "The theater often hosts cozy evening events during winter; an ideal spot to escape the early darkness and experience local Portuguese culture indoors.",
+                "pt": "O teatro costuma acolher eventos acolhedores à noite durante o inverno; um local ideal para escapar à escuridão precoce e experienciar a cultura portuguesa local no interior."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Museu da Cortiça",
                 "hu": "Museu da Cortiça",
                 "ro": "Museu da Cortiça",
-                "en": "Museu da Cortiça"
+                "en": "Museu da Cortiça",
+                "pt": "Museu da Cortiça"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie das Museum vor Sonnenuntergang um 17:00 Uhr; die alten Industriegebäude haben im Winterlicht einen besonderen, nostalgischen Charme.",
                 "hu": "Látogasson el ide az 17:00 órai naplemente előtt; a régi ipari épületek a téli súrolófényben különleges, nosztalgikus hangulatot árasztanak.",
                 "ro": "Vizitați muzeul înainte de apusul soarelui de la ora 17:00; vechile clădiri industriale au un farmec nostalgic deosebit în lumina iernii.",
-                "en": "Visit the museum before the 17:00 sunset; the old industrial buildings have a particularly nostalgic and unique charm in the low winter light."
+                "en": "Visit the museum before the 17:00 sunset; the old industrial buildings have a particularly nostalgic and unique charm in the low winter light.",
+                "pt": "Visite o museu antes do pôr-do-sol às 17:00; os antigos edifícios industriais têm um encanto particularmente nostálgico e único na luz baixa de inverno."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Baloiço da Ponte Romana",
                 "hu": "Baloiço da Ponte Romana",
                 "ro": "Baloiço da Ponte Romana",
-                "en": "Baloiço da Ponte Romana"
+                "en": "Baloiço da Ponte Romana",
+                "pt": "Baloiço da Ponte Romana"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag hier kurz vor 17:00 Uhr für einen stimmungsvollen Sonnenuntergang; nehmen Sie einen Schal mit, da es am Flussufer abends spürbar kälter wird.",
                 "hu": "Zárja itt a napot közvetlenül 17:00 előtt a hangulatos naplemente miatt; vigyen sálat, mert a folyóparton este jelentősen lehűl a levegő.",
                 "ro": "Încheiați ziua aici chiar înainte de ora 17:00 pentru un apus de soare atmosferic; luați un fular, deoarece pe malul râului se face mult mai frig seara.",
-                "en": "Finish your day here just before 17:00 for an atmospheric sunset; bring a scarf as it gets significantly colder by the riverbank once the sun goes down."
+                "en": "Finish your day here just before 17:00 for an atmospheric sunset; bring a scarf as it gets significantly colder by the riverbank once the sun goes down.",
+                "pt": "Termine o dia aqui pouco antes das 17:00 para um pôr-do-sol atmosférico; leve um lenço, pois fica significativamente mais frio junto ao rio quando o sol se põe."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Fissul",
             "hu": "Fissul",
             "ro": "Fissul",
-            "en": "Fissul"
+            "en": "Fissul",
+            "pt": "Fissul"
           },
           "coords": [
             -8.446481,
@@ -380,7 +420,8 @@
             "de": "Besuchen Sie diesen dynamischen Ausstellungspavillon für regionale Messen und nutzen Sie den großen angrenzenden Parkplatz sicher für Ihr Fahrrad.",
             "hu": "Tekintse meg ezt a dinamikus kiállítási pavilont, amely regionális vásároknak ad otthont, és használja a nagy szomszédos parkolót a biciklije számára.",
             "ro": "Vizitați acest pavilion expozițional dinamic care găzduiește târguri regionale și utilizați parcarea mare adiacentă pentru a vă lăsa bicicleta în siguranță.",
-            "en": "Check out this dynamic exhibition pavilion that hosts regional fairs, and utilize the large adjacent parking area to safely leave your bicycle."
+            "en": "Check out this dynamic exhibition pavilion that hosts regional fairs, and utilize the large adjacent parking area to safely leave your bicycle.",
+            "pt": "Visite este pavilhão expositivo dinâmico que acolhe feiras regionais e utilize o grande parque de estacionamento adjacente para deixar a sua bicicleta em segurança."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Casa da Cultura Islâmica e Mediterrânica",
             "hu": "Casa da Cultura Islâmica e Mediterrânica",
             "ro": "Casa da Cultura Islâmica e Mediterrânica",
-            "en": "Casa da Cultura Islâmica e Mediterrânica"
+            "en": "Casa da Cultura Islâmica e Mediterrânica",
+            "pt": "Casa da Cultura Islâmica e Mediterrânica"
           },
           "coords": [
             -8.447293,
@@ -403,7 +445,8 @@
             "de": "Tauchen Sie ein ins tiefe islamische Erbe, das das maurische Silves prägte, und nehmen Sie sich Zeit für die detaillierten Architekturtafeln.",
             "hu": "Merüljön el a mór Silvest meghatározó mély iszlám örökségben, és szánjon időt a belső udvar részletes építészeti paneljeinek elolvasására.",
             "ro": "Aprofundați-vă în moștenirea islamică profundă care a definit Silvesul maur și luați-vă timp să citiți panourile arhitecturale detaliate din curte.",
-            "en": "Delve into the profound Islamic heritage that defined Moorish Silves, and take time to read the detailed architectural panels in the courtyard."
+            "en": "Delve into the profound Islamic heritage that defined Moorish Silves, and take time to read the detailed architectural panels in the courtyard.",
+            "pt": "Mergulhe na profunda herança islâmica que definiu a Silves mourisca e reserve tempo para ler os painéis arquitetónicos detalhados no pátio."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Câmara Municipal de Silves",
             "hu": "Câmara Municipal de Silves",
             "ro": "Câmara Municipal de Silves",
-            "en": "Câmara Municipal de Silves"
+            "en": "Câmara Municipal de Silves",
+            "pt": "Câmara Municipal de Silves"
           },
           "coords": [
             -8.43998,
@@ -426,7 +470,8 @@
             "de": "Bewundern Sie die klassische Architektur des Rathauses als Zentrum des städtischen Lebens und prüfen Sie die Aushänge für abendliche Veranstaltungen.",
             "hu": "Csodálja meg a városháza klasszikus építészetét, amely a civil élet központja, és mindenképpen nézze meg a hirdetőtáblákat az esti programokért.",
             "ro": "Admirați arhitectura clasică a primăriei care ancorează viața civică din Silves și asigurați-vă că verificați panourile pentru evenimente culturale.",
-            "en": "Admire the classic architecture of the city hall that anchors Silves' civic life, and be sure to check the notice boards for evening cultural events."
+            "en": "Admire the classic architecture of the city hall that anchors Silves' civic life, and be sure to check the notice boards for evening cultural events.",
+            "pt": "Admire a arquitetura clássica da câmara que ancorada a vida cívica de Silves e não deixe de verificar os placares de avisos para eventos culturais noturnos."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Sé Catedral de Silves",
             "hu": "Sé Catedral de Silves",
             "ro": "Sé Catedral de Silves",
-            "en": "Sé Catedral de Silves"
+            "en": "Sé Catedral de Silves",
+            "pt": "Sé Catedral de Silves"
           },
           "coords": [
             -8.438555,
@@ -449,7 +495,8 @@
             "de": "Bewundern Sie die gotischen Bögen dieser ehemaligen Moschee, die zur Kathedrale wurde, und treten Sie leise ein, um die Akustik voll zu genießen.",
             "hu": "Csodálja meg ennek a mecsetből lett katedrálisnak a gótikus íveit, és lépjen be halkan, hogy a legjobban értékelhesse a főhajó ünnepélyes akusztikáját.",
             "ro": "Admirați arcadele gotice ale acestei foste moschei transformate în catedrală și pășiți încet pentru a aprecia acustica solemnă a navei grandioase.",
-            "en": "Marvel at the gothic arches of this former mosque turned cathedral, and step softly inside to best appreciate the solemn acoustics of the grand nave."
+            "en": "Marvel at the gothic arches of this former mosque turned cathedral, and step softly inside to best appreciate the solemn acoustics of the grand nave.",
+            "pt": "Maravilhe-se com os arcos góticos desta antiga mesquita transformada em catedral e pise suavemente lá dentro para melhor apreciar a acústica solene da nave principal."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Museu da Cortiça",
             "hu": "Museu da Cortiça",
             "ro": "Museu da Cortiça",
-            "en": "Museu da Cortiça"
+            "en": "Museu da Cortiça",
+            "pt": "Museu da Cortiça"
           },
           "coords": [
             -8.435652,
@@ -472,7 +520,8 @@
             "de": "Erfahren Sie mehr über die faszinierende Geschichte der Korkproduktion, welche die Region prägte, und berühren Sie die Rindenausstellungen hautnah.",
             "hu": "Ismerje meg a parafa gyártásának lenyűgöző történetét, amely formálta a régió gazdaságát, és érintse meg a nyers fakéreg kiállítási tárgyakat.",
             "ro": "Aflați despre istoria fascinantă a producției de plută care a modelat economia regiunii și atingeți expozițiile de scoarță crudă pentru o senzație tactilă.",
-            "en": "Learn about the fascinating history of cork production that shaped the region's economy, and touch the raw bark displays for a tactile experience."
+            "en": "Learn about the fascinating history of cork production that shaped the region's economy, and touch the raw bark displays for a tactile experience.",
+            "pt": "Aprenda sobre a fascinante história da produção de cortiça que moldou a economia da região e toque nas amostras de casca crua para uma experiência tátil."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Baloiço da Ponte Romana",
             "hu": "Baloiço da Ponte Romana",
             "ro": "Baloiço da Ponte Romana",
-            "en": "Baloiço da Ponte Romana"
+            "en": "Baloiço da Ponte Romana",
+            "pt": "Baloiço da Ponte Romana"
           },
           "coords": [
             -8.438803,
@@ -495,7 +545,8 @@
             "de": "Genießen Sie einen spielerischen Moment auf der Schaukel am Flussufer mit Blick auf die römische Brücke und machen Sie Fotos im warmen Licht.",
             "hu": "Élvezze a játékos pillanatot a folyóparti hintán, ahonnan tökéletes kilátás nyílik a római hídra, és készítsen fotókat az aranyóra meleg fényében.",
             "ro": "Bucurați-vă de un moment jucăuș pe leagănul de pe malul râului cu vedere perfectă la podul roman și faceți fotografii în lumina caldă a asfințitului.",
-            "en": "Enjoy a playful moment on the riverside swing with a perfect view of the Roman bridge, and capture photos during the warm golden hour light."
+            "en": "Enjoy a playful moment on the riverside swing with a perfect view of the Roman bridge, and capture photos during the warm golden hour light.",
+            "pt": "Desfrute de um momento lúdico no baloiço à beira‑rio com uma vista perfeita da ponte romana e aproveite a luz dourada da hora mágica para fotografar."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Radeln Sie morgens zum modernen Fissul-Pavillon, bevor Sie in die Ausstellungen der Casa da Cultura Islâmica eintauchen. Genießen Sie eine aktive Fahrt zum Hauptplatz, um das Rathaus und die Kathedrale zu besuchen. Der Nachmittag führt Sie durch die Ausstellungen des Korkmuseums. Beenden Sie Ihre Tour an der malerischen Schaukel am Flussufer, um den Tag entspannt Revue passieren zu lassen.",
         "hu": "Kerékpározzon a modern Fissul pavilon felé, majd merüljön el az Iszlám Kultúra Házának gazdag kiállításaiban. A déli tekerés a főtérre vezet, a történelmi Városházához és a fenséges Katedrálishoz. A délután a parafa múzeum lenyűgöző tárlatain vezet keresztül. Fejezze be az útját a festői folyóparti hintánál, hogy visszagondoljon az elmúlt napra.",
         "ro": "Pedalați spre modernul pavilion Fissul pentru a începe ziua înainte de a vizita Casa da Cultura Islâmica. Bucurați-vă de o plimbare la amiază către piața principală pentru a vedea Primăria și Catedrala. După-amiaza vă poartă prin expozițiile fascinante ale muzeului plutei. Încheiați cursa la leagănul pitoresc de pe malul râului pentru a reflecta asupra zilei.",
-        "en": "Pedal towards the modern Fissul pavilion to start the day before immersing yourself in the rich displays of the Casa da Cultura Islâmica. Enjoy an active midday ride to the main square to visit the historic City Hall and majestic Cathedral. The afternoon takes you through the cork museum's fascinating exhibits. Conclude your ride at the scenic riverside swing to reflect on the day."
+        "en": "Pedal towards the modern Fissul pavilion to start the day before immersing yourself in the rich displays of the Casa da Cultura Islâmica. Enjoy an active midday ride to the main square to visit the historic City Hall and majestic Cathedral. The afternoon takes you through the cork museum's fascinating exhibits. Conclude your ride at the scenic riverside swing to reflect on the day.",
+        "pt": "Pedale até ao moderno pavilhão Fissul para começar o dia antes de se imergir nas ricas exposições da Casa da Cultura Islâmica. Desfrute de um passeio ativo ao meio‑dia até à praça principal para visitar a histórica Câmara e a majestosa Catedral. A tarde leva‑o pelos fascinantes núcleos do Museu da Cortiça. Conclua o passeio no cénico baloiço à beira‑rio para reflectir sobre o dia."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den steilen Gassen von Silves. Vormittags radeln wir zur Fissul-Halle, die Schutz bietet. Mittags besuchen wir das Islamische Zentrum für trockene Kulturmomente. Nachmittags erkunden wir die Kathedrale. Achten Sie auf rutschige Wege und tragen Sie eine hochwertige Regenjacke, um die historische Altstadt trotz des Wetters sicher zu befahren.",
             "hu": "Az esős biciklizés óvatosságot igényel Silves meredek utcáin. Délelőtt a Fissul csarnokhoz tekerünk, amely menedéket nyújt. Délben az Iszlám Kulturális Központot látogatjuk meg száraz élményekért. Délután a katedrálist nézzük meg. Ügyeljen a csúszós utakra és viseljen minőségi esőkabátot, hogy biztonságosan közlekedhessen az óvárosban.",
             "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe străzile abrupte. Dimineața pedalăm spre sala Fissul pentru adăpost. La prânz vizităm Centrul Cultural Islamic pentru momente culturale la uscat. După-amiaza explorăm catedrala. Atenție la drumurile alunecoase și purtați o pelerină de ploaie de calitate pentru siguranță în centrul vechi.",
-            "en": "Cycling in the rain requires caution on Silves' steep streets. In the morning, we cycle to the Fissul hall for shelter. At noon, we visit the Islamic Cultural Center for dry cultural moments. In the afternoon, we explore the cathedral. Watch out for slippery paths and wear a high-quality raincoat to safely navigate the old town."
+            "en": "Cycling in the rain requires caution on Silves' steep streets. In the morning, we cycle to the Fissul hall for shelter. At noon, we visit the Islamic Cultural Center for dry cultural moments. In the afternoon, we explore the cathedral. Watch out for slippery paths and wear a high-quality raincoat to safely navigate the old town.",
+            "pt": "Ciclar na chuva requer cautela nas ruas íngremes de Silves. De manhã, pedalamos até ao pavilhão Fissul para nos abrigarmos. Ao meio‑dia, visitamos a Casa da Cultura Islâmica para momentos culturais secos. À tarde, exploramos a catedral. Cuidado com os caminhos escorregadios e use um impermeável de boa qualidade para navegar em segurança pela cidade velha."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Fissul",
                 "hu": "Fissul",
                 "ro": "Fissul",
-                "en": "Fissul"
+                "en": "Fissul",
+                "pt": "Fissul"
               },
               "tip_5lang": {
                 "de": "Die großen Vordächer der Fissul-Halle bieten Radfahrern eine ideale trockene Basis für eine Pause; prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen fahren.",
                 "hu": "A Fissul csarnok nagy előtetői ideális száraz bázist nyújtanak a bringásoknak egy pihenőre; ellenőrizze a fékeket, mielőtt a vizes utakra hajtana.",
                 "ro": "Copertinele mari ale sălii Fissul oferă cicliștilor o bază uscată ideală pentru o pauză; verificați frânele înainte de a porni pe străzile umede.",
-                "en": "The large overhangs at the Fissul hall provide cyclists with an ideal dry base for a break; check your brakes before heading out onto the wet streets."
+                "en": "The large overhangs at the Fissul hall provide cyclists with an ideal dry base for a break; check your brakes before heading out onto the wet streets.",
+                "pt": "Os grandes beirais do pavilhão Fissul oferecem aos ciclistas uma base seca ideal para uma pausa; verifique os travões antes de sair para as ruas húmidas."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Casa da Cultura Islâmica e Mediterrânica",
                 "hu": "Casa da Cultura Islâmica e Mediterrânica",
                 "ro": "Casa da Cultura Islâmica e Mediterrânica",
-                "en": "Casa da Cultura Islâmica e Mediterrânica"
+                "en": "Casa da Cultura Islâmica e Mediterrânica",
+                "pt": "Casa da Cultura Islâmica e Mediterrânica"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad sicher im Eingangsbereich und genießen Sie die Ausstellungen im Trockenen; das Gebäude ist perfekt, um einen starken Schauer abzuwarten.",
                 "hu": "Parkolja le biztonságosan a biciklijét a bejáratnál, és élvezze a kiállításokat szárazon; az épület tökéletes egy nagyobb zápor átvészelésére.",
                 "ro": "Parcați bicicleta în siguranță la intrare și bucurați-vă de expoziții la uscat; clădirea este perfectă pentru a aștepta trecerea unei averse puternice.",
-                "en": "Park your bike safely near the entrance and enjoy the indoor exhibits; this building is a perfect place to wait out a heavy rain shower in comfort."
+                "en": "Park your bike safely near the entrance and enjoy the indoor exhibits; this building is a perfect place to wait out a heavy rain shower in comfort.",
+                "pt": "Estacione a sua bicicleta com segurança perto da entrada e desfrute das exposições interiores; este edifício é um local perfeito para esperar confortavelmente uma chuva forte."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Câmara Municipal de Silves",
                 "hu": "Câmara Municipal de Silves",
                 "ro": "Câmara Municipal de Silves",
-                "en": "Câmara Municipal de Silves"
+                "en": "Câmara Municipal de Silves",
+                "pt": "Câmara Municipal de Silves"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf dem glatten Kopfsteinpflaster rund um das Rathaus; nutzen Sie die Arkaden für einen kurzen Halt und um Ihre Regenkleidung zu ordnen.",
                 "hu": "Óvatosan tekerjen a városháza körüli csúszós macskaköveken; használja az árkádokat egy rövid megállóra, hogy megigazítsa az esőfelszerelését.",
                 "ro": "Mergeți cu grijă pe pavajul alunecos din jurul primăriei; folosiți arcadele pentru o scurtă oprire și pentru a vă ajusta echipamentul de ploaie.",
-                "en": "Ride carefully on the slippery cobblestones around the town hall; use the arches for a short stop to adjust your rain gear and catch your breath."
+                "en": "Ride carefully on the slippery cobblestones around the town hall; use the arches for a short stop to adjust your rain gear and catch your breath.",
+                "pt": "Circule com cuidado nos calçamentos escorregadios à volta da câmara municipal; use os arcos para uma paragem curta para ajustar a roupa impermeável e recuperar o fôlego."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Sé Catedral de Silves",
                 "hu": "Sé Catedral de Silves",
                 "ro": "Sé Catedral de Silves",
-                "en": "Sé Catedral de Silves"
+                "en": "Sé Catedral de Silves",
+                "pt": "Sé Catedral de Silves"
               },
               "tip_5lang": {
                 "de": "Der Anstieg zur Kathedrale ist bei Nässe anstrengend und rutschig; schieben Sie Ihr Rad zur Not das letzte Stück und genießen Sie die Ruhe im Inneren.",
                 "hu": "A katedrálishoz vezető emelkedő vizesen fárasztó és csúszós; ha kell, tolja a biciklit az utolsó szakaszon, és pihenjen meg a csendes belső térben.",
                 "ro": "Urcarea spre catedrală este obositoare și alunecoasă pe ploaie; împingeți bicicleta pe ultima porțiune dacă este necesar și odihniți-vă în interior.",
-                "en": "The climb to the cathedral is strenuous and slippery when wet; push your bike if needed for safety and enjoy the peaceful atmosphere inside the building."
+                "en": "The climb to the cathedral is strenuous and slippery when wet; push your bike if needed for safety and enjoy the peaceful atmosphere inside the building.",
+                "pt": "A subida até à catedral é exigente e escorregadia quando molhada; empurre a bicicleta se necessário por segurança e desfrute da atmosfera tranquila no interior."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Museu da Cortiça",
                 "hu": "Museu da Cortiça",
                 "ro": "Museu da Cortiça",
-                "en": "Museu da Cortiça"
+                "en": "Museu da Cortiça",
+                "pt": "Museu da Cortiça"
               },
               "tip_5lang": {
                 "de": "Das Museum bietet viel Platz im Innenbereich, ideal für eine längere Pause vom Radfahren im Regen; tragen Sie leuchtende Farben für bessere Sichtbarkeit.",
                 "hu": "A múzeum tágas belső terei ideálisak egy hosszabb pihenőre az esős tekerés után; viseljen élénk színeket, hogy a sofőrök jobban lássák a szürkületben.",
                 "ro": "Spațiile interioare generoase ale muzeului sunt ideale pentru o pauză lungă după pedalat; purtați culori vii pentru o vizibilitate mai bună în ploaie.",
-                "en": "The museum's spacious interior is ideal for a long break from cycling in the rain; wear bright colors to ensure you stay visible to drivers in the gloom."
+                "en": "The museum's spacious interior is ideal for a long break from cycling in the rain; wear bright colors to ensure you stay visible to drivers in the gloom.",
+                "pt": "O interior espaçoso do museu é ideal para uma longa pausa do ciclismo na chuva; vista cores vivas para garantir que continua visível aos condutores na penumbra."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Baloiço da Ponte Romana",
                 "hu": "Baloiço da Ponte Romana",
                 "ro": "Baloiço da Ponte Romana",
-                "en": "Baloiço da Ponte Romana"
+                "en": "Baloiço da Ponte Romana",
+                "pt": "Baloiço da Ponte Romana"
               },
               "tip_5lang": {
                 "de": "Meiden Sie bei starkem Regen das Schaukeln und konzentrieren Sie sich auf den sicheren Halt auf der Brücke; die Steine sind extrem glatt, steigen Sie lieber ab.",
                 "hu": "Erős esőben hanyagolja a hintázást, és koncentráljon a biztonságos áthaladásra; a kövek rendkívül síkosak, érdemes leszállni a bicikliről és tolni.",
                 "ro": "Evitați leagănul pe ploaie puternică și concentrați-vă pe traversarea în siguranță; pietrele sunt foarte alunecoase, deci este mai bine să mergeți pe lângă bicicletă.",
-                "en": "Skip the swing during heavy rain and focus on safely crossing the bridge; the stones are extremely slick, so it is better to dismount and walk your bike."
+                "en": "Skip the swing during heavy rain and focus on safely crossing the bridge; the stones are extremely slick, so it is better to dismount and walk your bike.",
+                "pt": "Evite o baloiço durante chuva intensa e concentre‑se em atravessar a ponte com segurança; as pedras ficam extremamente escorregadias, por isso é melhor desmontar e empurrar a bicicleta."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Eine Wintertour mit dem Rad durch Silves ist belebend. Morgens starten wir an der Fissul-Halle bei frischen Temperaturen. Mittags wärmen wir uns bei kulturellen Stopps wie dem Islamischen Zentrum auf. Am Nachmittag besuchen wir die Kathedrale. Da es ab 17:00 Uhr dunkel wird, planen wir den Tag so, dass wir den Abschluss an der Brücke noch im Tageslicht erleben.",
             "hu": "A téli bringázás Silvesben frissítő élmény. Reggel a Fissul csarnoktól indulunk hűvös időben. Délben kulturális megállóknál, például az Iszlám Központban melegedünk fel. Délután a katedrálist ejtjük útba. Mivel 17:00-kor sötétedik, úgy tervezzük a napot, hogy a római hídhoz még nappali fényben érkezzünk meg.",
             "ro": "O tură de iarnă cu bicicleta prin Silves este revigorantă. Dimineața pornim de la sala Fissul pe temperaturi scăzute. La prânz ne încălzim la opriri culturale precum Centrul Islamic. După-amiaza vizităm catedrala. Deoarece se întunecă la ora 17:00, planificăm ziua astfel încât să ajungem la podul roman încă pe lumină.",
-            "en": "A winter bike tour through Silves is invigorating. In the morning, we start at the Fissul hall in crisp temperatures. At noon, we warm up at cultural stops like the Islamic Center. In the afternoon, we visit the cathedral. As it gets dark by 17:00, we plan the day to reach the Roman bridge while there is still daylight."
+            "en": "A winter bike tour through Silves is invigorating. In the morning, we start at the Fissul hall in crisp temperatures. At noon, we warm up at cultural stops like the Islamic Center. In the afternoon, we visit the cathedral. As it gets dark by 17:00, we plan the day to reach the Roman bridge while there is still daylight.",
+            "pt": "Um passeio de bicicleta de inverno por Silves é revigorante. De manhã, começamos no pavilhão Fissul em temperaturas frescas. Ao meio‑dia, aquecemo‑nos em paragens culturais como o Centro Islâmico. À tarde, visitamos a catedral. Como escurece às 17:00, planeamos o dia para chegar à ponte romana enquanto ainda há luz."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Fissul",
                 "hu": "Fissul",
                 "ro": "Fissul",
-                "en": "Fissul"
+                "en": "Fissul",
+                "pt": "Fissul"
               },
               "tip_5lang": {
                 "de": "Starten Sie hier mit Aufwärmübungen, bevor Sie aufs Rad steigen; die Morgentemperaturen im Winter können am Flussufer recht niedrig sein, tragen Sie Handschuhe.",
                 "hu": "Kezdje itt a napot bemelegítéssel, mielőtt nyeregbe pattan; a téli reggeli hőmérséklet a folyóparton alacsony lehet, ezért viseljen biciklis kesztyűt.",
                 "ro": "Începeți ziua aici cu exerciții de încălzire înainte de a urca pe bicicletă; temperaturile matinale pe malul râului pot fi scăzute, deci purtați mănuși.",
-                "en": "Start the day with some warm-up exercises before hopping on your bike; winter morning temperatures by the river can be low, so be sure to wear gloves."
+                "en": "Start the day with some warm-up exercises before hopping on your bike; winter morning temperatures by the river can be low, so be sure to wear gloves.",
+                "pt": "Comece o dia com alguns exercícios de aquecimento antes de subir para a bicicleta; as temperaturas das manhãs de inverno junto ao rio podem ser baixas, por isso não se esqueça das luvas."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Casa da Cultura Islâmica e Mediterrânica",
                 "hu": "Casa da Cultura Islâmica e Mediterrânica",
                 "ro": "Casa da Cultura Islâmica e Mediterrânica",
-                "en": "Casa da Cultura Islâmica e Mediterrânica"
+                "en": "Casa da Cultura Islâmica e Mediterrânica",
+                "pt": "Casa da Cultura Islâmica e Mediterrânica"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen Stopp, um die Kälte des Fahrtwinds loszuwerden; das Gebäude bietet eine angenehme Temperatur für eine ausgiebige Besichtigung der Kulturräume.",
                 "hu": "Használja ki ezt a megállót, hogy megszabaduljon a menetszéltől; az épület kellemes hőmérsékletet biztosít a kulturális terek alapos bejárásához.",
                 "ro": "Folosiți această oprire pentru a scăpa de frigul cauzat de vânt; clădirea oferă o temperatură plăcută pentru o vizitare detaliată a spațiilor culturale.",
-                "en": "Use this stop to warm up and escape the wind chill from cycling; the building offers a pleasant temperature for a detailed visit to its cultural spaces."
+                "en": "Use this stop to warm up and escape the wind chill from cycling; the building offers a pleasant temperature for a detailed visit to its cultural spaces.",
+                "pt": "Use esta paragem para aquecer e escapar ao vento frio do ciclismo; o edifício oferece uma temperatura agradável para uma visita detalhada aos seus espaços culturais."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Câmara Municipal de Silves",
                 "hu": "Câmara Municipal de Silves",
                 "ro": "Câmara Municipal de Silves",
-                "en": "Câmara Municipal de Silves"
+                "en": "Câmara Municipal de Silves",
+                "pt": "Câmara Municipal de Silves"
               },
               "tip_5lang": {
                 "de": "Der Platz vor dem Rathaus liegt im Winter oft im Schatten; bleiben Sie in Bewegung oder suchen Sie die sonnigen Stellen, um nicht auszukühlen.",
                 "hu": "A városháza előtti tér télen gyakran árnyékos; maradjon mozgásban vagy keressen naposabb foltokat a téren, hogy ne hűljön ki a várakozás közben.",
                 "ro": "Piața din fața primăriei este adesea umbrită iarna; rămâneți în mișcare sau căutați locurile însorite din piață pentru a nu vă răci în timpul opririi.",
-                "en": "The square in front of the town hall is often shaded in winter; stay active or look for sunny patches in the square to avoid getting too cold during your stop."
+                "en": "The square in front of the town hall is often shaded in winter; stay active or look for sunny patches in the square to avoid getting too cold during your stop.",
+                "pt": "A praça em frente à câmara municipal costuma estar sombreada no inverno; mantenha‑se em movimento ou procure bolsões de sol na praça para evitar ficar demasiado frio durante a paragem."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Sé Catedral de Silves",
                 "hu": "Sé Catedral de Silves",
                 "ro": "Sé Catedral de Silves",
-                "en": "Sé Catedral de Silves"
+                "en": "Sé Catedral de Silves",
+                "pt": "Sé Catedral de Silves"
               },
               "tip_5lang": {
                 "de": "Der Anstieg zur Kathedrale bringt Ihren Kreislauf in Schwung; nehmen Sie sich Zeit für die Innenbesichtigung, aber behalten Sie Ihre Jacke wegen der Kühle an.",
                 "hu": "A katedrálishoz vezető emelkedő felpörgeti a keringését; szánjon időt a belső térre, de a hűvös falak miatt ne vegye le a kabátját a látogatás alatt.",
                 "ro": "Urcarea spre catedrală vă va activa circulația; acordați-vă timp pentru vizitarea interiorului, dar nu vă scoateți jacheta din cauza răcorii zidurilor.",
-                "en": "The climb to the cathedral will get your circulation going; take your time inside, but keep your jacket on as the stone interior can be quite chilly in winter."
+                "en": "The climb to the cathedral will get your circulation going; take your time inside, but keep your jacket on as the stone interior can be quite chilly in winter.",
+                "pt": "A subida até à catedral fará aumentar a sua circulação; tome o seu tempo lá dentro, mas mantenha o casaco porque o interior de pedra pode ser bastante frio no inverno."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Museu da Cortiça",
                 "hu": "Museu da Cortiça",
                 "ro": "Museu da Cortiça",
-                "en": "Museu da Cortiça"
+                "en": "Museu da Cortiça",
+                "pt": "Museu da Cortiça"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Museum am späten Nachmittag; da es um 17:00 Uhr dunkel wird, sollten Sie sicherstellen, dass Ihre Fahrradbeleuchtung voll funktionsfähig ist.",
                 "hu": "Látogasson el ide késő délután; mivel 17:00-kor sötétedik, győződjön meg róla, hogy a kerékpár lámpái tökéletesen működnek a visszaúthoz.",
                 "ro": "Vizitați muzeul spre sfârșitul după-amiezii; deoarece se întunecă la ora 17:00, asigurați-vă că luminile bicicletei funcționează perfect pentru retur.",
-                "en": "Visit the museum in the late afternoon; since it gets dark by 17:00, make sure your bike lights are fully functional for the remainder of your journey."
+                "en": "Visit the museum in the late afternoon; since it gets dark by 17:00, make sure your bike lights are fully functional for the remainder of your journey.",
+                "pt": "Visite o museu ao fim da tarde; como escurece às 17:00, certifique‑se de que as luzes da bicicleta estão totalmente funcionais para o restante do percurso."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Baloiço da Ponte Romana",
                 "hu": "Baloiço da Ponte Romana",
                 "ro": "Baloiço da Ponte Romana",
-                "en": "Baloiço da Ponte Romana"
+                "en": "Baloiço da Ponte Romana",
+                "pt": "Baloiço da Ponte Romana"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das letzte Tageslicht an der Brücke; ziehen Sie für die Rückfahrt eine extra Schicht an, da die Temperaturen nach Sonnenuntergang schnell fallen.",
                 "hu": "Élvezze az utolsó nappali fényeket a hídnál; a visszaúthoz vegyen fel egy extra réteget, mert naplemente után a hőmérséklet gyorsan csökkenni kezd.",
                 "ro": "Bucurați-vă de ultima lumină la pod; pentru drumul de întoarcere puneți o haină în plus, deoarece temperatura scade rapid după apusul soarelui.",
-                "en": "Enjoy the last bit of daylight at the bridge; put on an extra layer for the ride back as temperatures drop rapidly once the sun sets at 17:00."
+                "en": "Enjoy the last bit of daylight at the bridge; put on an extra layer for the ride back as temperatures drop rapidly once the sun sets at 17:00.",
+                "pt": "Desfrute os últimos raios de luz na ponte; vista uma camada extra para o regresso, pois as temperaturas descem rapidamente assim que o sol se põe às 17:00."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Casa da Cultura Islâmica e Mediterrânica",
             "hu": "Casa da Cultura Islâmica e Mediterrânica",
             "ro": "Casa da Cultura Islâmica e Mediterrânica",
-            "en": "Casa da Cultura Islâmica e Mediterrânica"
+            "en": "Casa da Cultura Islâmica e Mediterrânica",
+            "pt": "Casa da Cultura Islâmica e Mediterrânica"
           },
           "coords": [
             -8.447293,
@@ -724,7 +803,8 @@
             "de": "Tauchen Sie ein ins tiefe islamische Erbe, das das maurische Silves prägte, und nehmen Sie sich Zeit für die detaillierten Architekturtafeln.",
             "hu": "Merüljön el a mór Silvest meghatározó mély iszlám örökségben, és szánjon időt a belső udvar részletes építészeti paneljeinek elolvasására.",
             "ro": "Aprofundați-vă în moștenirea islamică profundă care a definit Silvesul maur și luați-vă timp să citiți panourile arhitecturale detaliate din curte.",
-            "en": "Delve into the profound Islamic heritage that defined Moorish Silves, and take time to read the detailed architectural panels in the courtyard."
+            "en": "Delve into the profound Islamic heritage that defined Moorish Silves, and take time to read the detailed architectural panels in the courtyard.",
+            "pt": "Mergulhe na profunda herança islâmica que definiu a Silves mourisca e reserve tempo para ler os painéis arquitetónicos detalhados no pátio."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Archäologisches Museum Silves",
             "hu": "Silves-i Régészeti Múzeum",
             "ro": "Muzeul Arheologic din Silves",
-            "en": "Silves Archaeological Museum"
+            "en": "Silves Archaeological Museum",
+            "pt": "Museu Arqueológico de Silves"
           },
           "coords": [
             -8.438887,
@@ -747,7 +828,8 @@
             "de": "Erkunden Sie den beeindruckenden maurischen Brunnen und jahrhundertealte Artefakte, aber kommen Sie früh, um die islamische Keramik in Ruhe zu sehen.",
             "hu": "Fedezze fel a lenyűgöző mór kutat és az évszázados leleteket, de érkezzen korán, hogy csendben csodálhassa meg az iszlám kerámiák remek részleteit.",
             "ro": "Explorați fântâna maură și secole de artefacte aici, dar ajungeți devreme pentru a viziona în liniște ceramica islamică cu adevărat complexă.",
-            "en": "Explore the stunning Moorish well and centuries of artifacts here, but arrive early to secure a quiet moment viewing the intricate Islamic ceramics."
+            "en": "Explore the stunning Moorish well and centuries of artifacts here, but arrive early to secure a quiet moment viewing the intricate Islamic ceramics.",
+            "pt": "Explore o magnífico poço mouro e séculos de artefactos aqui, mas chegue cedo para garantir um momento tranquilo a observar a cerâmica islâmica intricada."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Sé Catedral de Silves",
             "hu": "Sé Catedral de Silves",
             "ro": "Sé Catedral de Silves",
-            "en": "Sé Catedral de Silves"
+            "en": "Sé Catedral de Silves",
+            "pt": "Sé Catedral de Silves"
           },
           "coords": [
             -8.438555,
@@ -770,7 +853,8 @@
             "de": "Bewundern Sie die gotischen Bögen dieser ehemaligen Moschee, die zur Kathedrale wurde, und treten Sie leise ein, um die Akustik voll zu genießen.",
             "hu": "Csodálja meg ennek a mecsetből lett katedrálisnak a gótikus íveit, és lépjen be halkan, hogy a legjobban értékelhesse a főhajó ünnepélyes akusztikáját.",
             "ro": "Admirați arcadele gotice ale acestei foste moschei transformate în catedrală și pășiți încet pentru a aprecia acustica solemnă a navei grandioase.",
-            "en": "Marvel at the gothic arches of this former mosque turned cathedral, and step softly inside to best appreciate the solemn acoustics of the grand nave."
+            "en": "Marvel at the gothic arches of this former mosque turned cathedral, and step softly inside to best appreciate the solemn acoustics of the grand nave.",
+            "pt": "Maravilhe‑se com os arcos góticos desta antiga mesquita transformada em catedral e pise suavemente lá dentro para melhor apreciar a acústica solene da nave principal."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Museu da Cortiça",
             "hu": "Museu da Cortiça",
             "ro": "Museu da Cortiça",
-            "en": "Museu da Cortiça"
+            "en": "Museu da Cortiça",
+            "pt": "Museu da Cortiça"
           },
           "coords": [
             -8.435652,
@@ -793,7 +878,8 @@
             "de": "Erfahren Sie mehr über die faszinierende Geschichte der Korkproduktion, welche die Region prägte, und berühren Sie die Rindenausstellungen hautnah.",
             "hu": "Ismerje meg a parafa gyártásának lenyűgöző történetét, amely formálta a régió gazdaságát, és érintse meg a nyers fakéreg kiállítási tárgyakat.",
             "ro": "Aflați despre istoria fascinantă a producției de plută care a modelat economia regiunii și atingeți expozițiile de scoarță crudă pentru o senzație tactilă.",
-            "en": "Learn about the fascinating history of cork production that shaped the region's economy, and touch the raw bark displays for a tactile experience."
+            "en": "Learn about the fascinating history of cork production that shaped the region's economy, and touch the raw bark displays for a tactile experience.",
+            "pt": "Saiba mais sobre a fascinante história da produção de cortiça que moldou a economia da região e toque nas amostras de casca crua para uma experiência tátil."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Albufeira do Arade",
             "hu": "Albufeira do Arade",
             "ro": "Albufeira do Arade",
-            "en": "Albufeira do Arade"
+            "en": "Albufeira do Arade",
+            "pt": "Albufeira do Arade"
           },
           "coords": [
             -8.379443,
@@ -816,7 +903,8 @@
             "de": "Erleben Sie die friedliche Schönheit dieses großen Stausees inmitten sanfter Hügel und packen Sie ein leichtes Picknick für das malerische Ufer ein.",
             "hu": "Tapasztalja meg ennek a hatalmas, dombokkal körülvett víztározónak a nyugodt szépségét, és hozzon magával egy könnyű pikniket a festői vízpartra.",
             "ro": "Experimentați frumusețea liniștită a acestui lac de acumulare întins, înconjurat de dealuri și împachetați un picnic ușor de savurat pe malul apei.",
-            "en": "Experience the tranquil beauty of this expansive reservoir surrounded by rolling hills, and pack a light picnic to enjoy near the scenic water edge."
+            "en": "Experience the tranquil beauty of this expansive reservoir surrounded by rolling hills, and pack a light picnic to enjoy near the scenic water edge.",
+            "pt": "Experiencie a beleza tranquila deste vasto reservatório rodeado por colinas ondulantes e leve um piquenique leve para desfrutar junto à margem cénica."
           }
         }
       ],
@@ -824,7 +912,8 @@
         "de": "Fahren Sie in die Stadt und beginnen Sie den Tag in der Casa da Cultura Islâmica, um das maurische Erbe zu sehen, gefolgt vom Archäologischen Museum. Die Mitte des Tages ist der beeindruckenden Kathedrale von Silves gewidmet. Erkunden Sie nachmittags die regionalen Wurzeln im Korkmuseum. Beenden Sie Ihre Reise mit einer Fahrt zur wunderschönen Albufeira do Arade im Sonnenuntergang.",
         "hu": "Autózzon a városba, és kezdje a napot az Iszlám Kultúra Házában a mór örökség felfedezésével, majd látogasson el a Régészeti Múzeumba. A nap közepén a fenséges Silves-i Katedrális a fő látványosság. Délután ismerje meg a regionális gyökereket a Parafa Múzeumban. Zárja az utazást egy rövid úttal a lenyűgöző Albufeira do Arade tározóhoz egy felejthetetlen naplementére.",
         "ro": "Conduceți în oraș și începeți la Casa da Cultura Islâmica pentru a absorbi moștenirea maură, urmată de Muzeul Arheologic. Mijlocul zilei este dominat de impunătoarea Catedrală din Silves. După-amiaza, explorați rădăcinile regionale la Muzeul Plutei. Finalizați călătoria cu o scurtă plimbare cu mașina până la uimitoarea Albufeira do Arade pentru un apus perfect.",
-        "en": "Drive into the city to start your day at the Casa da Cultura Islâmica, absorbing the rich Moorish legacy before visiting the nearby Archaeological Museum. The middle of the day is anchored by the imposing Silves Cathedral. In the afternoon, explore the deep regional roots at the Cork Museum. Finish your journey with a short drive to the stunning Albufeira do Arade for an unforgettable sunset."
+        "en": "Drive into the city to start your day at the Casa da Cultura Islâmica, absorbing the rich Moorish legacy before visiting the nearby Archaeological Museum. The middle of the day is anchored by the imposing Silves Cathedral. In the afternoon, explore the deep regional roots at the Cork Museum. Finish your journey with a short drive to the stunning Albufeira do Arade for an unforgettable sunset.",
+        "pt": "Conduza até à cidade para começar o dia na Casa da Cultura Islâmica, absorvendo o rico legado mourisco antes de visitar o Museu Arqueológico nas proximidades. O meio do dia é ancorado pela imponente Catedral de Silves. À tarde, explore as profundas raízes regionais no Museu da Cortiça. Termine a viagem com uma curta deslocação até à deslumbrante Albufeira do Arade para um pôr‑do‑sol inesquecível."
       },
       "variants": {
         "rainy": {
@@ -832,7 +921,8 @@
             "de": "Mit dem Auto lässt sich Silves auch bei Regen bequem erkunden. Vormittags besuchen wir das Islamische Zentrum. Mittags parken wir am Archäologischen Museum für einen trockenen Rundgang. Am Nachmittag besichtigen wir die Kathedrale. Trotz Regen bietet das Auto Flexibilität; fahren Sie vorsichtig auf nassen Straßen und parken Sie nahe an den Eingängen der Museen.",
             "hu": "Autóval az esős Silves is kényelmesen felfedezhető. Délelőtt az Iszlám Kulturális Központot látogatjuk meg. Délben a Régészeti Múzeumnál parkolunk egy száraz sétához. Délután a katedrálist nézzük meg. Az autó rugalmasságot ad az esőben is; vezessen óvatosan a vizes utakon, és parkoljon minél közelebb a bejáratokhoz.",
             "ro": "Cu mașina, Silves poate fi explorat confortabil chiar și pe ploaie. Dimineața vizităm Centrul Cultural Islamic. La prânz parcăm la Muzeul Arheologic pentru un tur la uscat. După-amiaza vizităm catedrala. Mașina oferă flexibilitate; conduceți cu atenție pe drumurile umede și parcați cât mai aproape de intrările obiectivelor.",
-            "en": "By car, rainy Silves can be explored comfortably and efficiently. In the morning, we visit the Islamic Cultural Center. At noon, we park at the Archaeological Museum for a dry tour. In the afternoon, we visit the cathedral. The car provides flexibility in the rain; drive carefully on wet roads and try to park near the entrances."
+            "en": "By car, rainy Silves can be explored comfortably and efficiently. In the morning, we visit the Islamic Cultural Center. At noon, we park at the Archaeological Museum for a dry tour. In the afternoon, we visit the cathedral. The car provides flexibility in the rain; drive carefully on wet roads and try to park near the entrances.",
+            "pt": "De carro, a chuvosa Silves pode ser explorada com conforto e eficiência. De manhã, visitamos a Casa da Cultura Islâmica. Ao meio‑dia, estacionamos no Museu Arqueológico para uma visita seca. À tarde, visitamos a catedral. O carro oferece flexibilidade na chuva; conduza com cuidado em estradas molhadas e tente estacionar perto das entradas."
           },
           "stops": [
             {
@@ -840,13 +930,15 @@
                 "de": "Casa da Cultura Islâmica e Mediterrânica",
                 "hu": "Casa da Cultura Islâmica e Mediterrânica",
                 "ro": "Casa da Cultura Islâmica e Mediterrânica",
-                "en": "Casa da Cultura Islâmica e Mediterrânica"
+                "en": "Casa da Cultura Islâmica e Mediterrânica",
+                "pt": "Casa da Cultura Islâmica e Mediterrânica"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Gebäude, um den Regen zu vermeiden; das Zentrum bietet einen idealen, wettergeschützten Einstieg in die Kulturgeschichte der Region.",
                 "hu": "Parkoljon közvetlenül az épületnél, hogy elkerülje az esőt; a központ ideális, időjárástól védett helyszín a régió kultúrtörténetének megismeréséhez.",
                 "ro": "Parcați direct lângă clădire pentru a evita ploaia; centrul oferă un început ideal, protejat de vreme, pentru a descoperi istoria culturală a regiunii.",
-                "en": "Park directly by the building to avoid the rain; the center offers an ideal, weather-protected introduction to the region's cultural and Islamic history."
+                "en": "Park directly by the building to avoid the rain; the center offers an ideal, weather-protected introduction to the region's cultural and Islamic history.",
+                "pt": "Estacione directamente junto ao edifício para evitar a chuva; o centro oferece uma introdução ideal e protegida do tempo à história islâmica e cultural da região."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Archäologisches Museum Silves",
                 "hu": "Silves-i Régészeti Múzeum",
                 "ro": "Muzeul Arheologic din Silves",
-                "en": "Silves Archaeological Museum"
+                "en": "Silves Archaeological Museum",
+                "pt": "Museu Arqueológico de Silves"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahegelegenen Parkplatz und verbringen Sie die regnerischen Stunden bei den Ausgrabungen im Innenbereich; die Zisterne ist ein Muss im Trockenen.",
                 "hu": "Használja a közeli parkolót, és töltse az esős órákat a benti kiállítások között; a mór ciszterna megtekintése kötelező program száraz menedékben.",
                 "ro": "Folosiți parcarea din apropiere și petreceți orele ploioase vizitând expozițiile interioare; cisterna maură este un punct obligatoriu de vizitat la uscat.",
-                "en": "Use the nearby parking and spend the rainy hours among the indoor exhibits; visiting the Moorish cistern is a must-do while staying dry and comfortable."
+                "en": "Use the nearby parking and spend the rainy hours among the indoor exhibits; visiting the Moorish cistern is a must-do while staying dry and comfortable.",
+                "pt": "Use o estacionamento nas imediações e passe as horas de chuva entre as exposições interiores; visitar a cisterna moura é imperdível enquanto se mantém seco e confortável."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Sé Catedral de Silves",
                 "hu": "Sé Catedral de Silves",
                 "ro": "Sé Catedral de Silves",
-                "en": "Sé Catedral de Silves"
+                "en": "Sé Catedral de Silves",
+                "pt": "Sé Catedral de Silves"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig die schmalen, nassen Gassen zur Kathedrale hinauf; besichtigen Sie das prächtige Innere, während der Regen draußen auf die Dächer prasselt.",
                 "hu": "Vezessen óvatosan a katedrálishoz vezető szűk, vizes utcákon; csodálja meg a pompás belső teret, miközben odakint az eső kopog a történelmi tetőkön.",
                 "ro": "Conduceți cu grijă pe străzile înguste și umede spre catedrală; admirați interiorul splendid în timp ce ploaia bate în acoperișurile istorice de afară.",
-                "en": "Drive carefully up the narrow, wet streets to the cathedral; admire the splendid interior while the rain drums on the historic rooftops outside."
+                "en": "Drive carefully up the narrow, wet streets to the cathedral; admire the splendid interior while the rain drums on the historic rooftops outside.",
+                "pt": "Conduza com cuidado por ruas estreitas e molhadas até à catedral; admire o interior esplêndido enquanto a chuva tamborila sobre os telhados históricos lá fora."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Museu da Cortiça",
                 "hu": "Museu da Cortiça",
                 "ro": "Museu da Cortiça",
-                "en": "Museu da Cortiça"
+                "en": "Museu da Cortiça",
+                "pt": "Museu da Cortiça"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Stopp bei Regen, da das Museum komplett überdacht ist; nutzen Sie den Parkplatz direkt davor für einen schnellen Weg ins trockene Innere.",
                 "hu": "Tökéletes megálló esőben, mivel a múzeum teljesen fedett; használja a közvetlen előtte lévő parkolót a gyors bejutáshoz a száraz belső terekbe.",
                 "ro": "O oprire perfectă pe ploaie, deoarece muzeul este complet acoperit; folosiți parcarea de lângă pentru un acces rapid în spațiile interioare uscate.",
-                "en": "A perfect stop in the rain as the museum is completely covered; use the parking lot directly in front for quick access to the dry and warm interior."
+                "en": "A perfect stop in the rain as the museum is completely covered; use the parking lot directly in front for quick access to the dry and warm interior.",
+                "pt": "Uma paragem perfeita na chuva, já que o museu é totalmente coberto; use o parque em frente para acesso rápido ao interior seco e quente."
               }
             },
             {
@@ -896,13 +994,15 @@
                 "de": "Albufeira do Arade",
                 "hu": "Albufeira do Arade",
                 "ro": "Albufeira do Arade",
-                "en": "Albufeira do Arade"
+                "en": "Albufeira do Arade",
+                "pt": "Albufeira do Arade"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Aussicht auf den Stausee aus dem trockenen Auto heraus; bei Regen wirkt die Landschaft besonders mystisch und friedlich, bleiben Sie im Wagen.",
                 "hu": "Élvezze a kilátást a víztározóra a száraz autó kényelméből; esőben a táj különösen misztikus és békés, maradjon a kocsiban a panoráma megtekintéséhez.",
                 "ro": "Bucurați-vă de vederea spre lacul de acumulare din confortul mașinii; pe ploaie, peisajul pare deosebit de mistic și liniștit, rămâneți în vehicul.",
-                "en": "Enjoy the view of the reservoir from the comfort of your dry car; in the rain, the landscape looks particularly mystical and peaceful, so stay inside."
+                "en": "Enjoy the view of the reservoir from the comfort of your dry car; in the rain, the landscape looks particularly mystical and peaceful, so stay inside.",
+                "pt": "Desfrute da vista do reservatório no conforto do seu carro seco; na chuva, a paisagem parece particularmente mística e tranquila, por isso permaneça no interior."
               }
             }
           ]
@@ -912,7 +1012,8 @@
             "de": "Mit dem Auto erkunden wir Silves im Winter komfortabel und warm. Vormittags besuchen wir das Islamische Zentrum. Mittags parken wir nahe dem Archäologischen Museum für eine Aufwärmpause. Nachmittags besichtigen wir die Kathedrale. Da es ab 17:00 Uhr dunkel wird, fahren wir zum Abschluss zum Albufeira do Arade, um die winterliche Dämmerung über dem Wasser zu genießen.",
             "hu": "Autóval kényelmesen és melegben fedezhetjük fel Silvest télen. Délelőtt az Iszlám Kulturális Központot keressük fel. Délben a Régészeti Múzeum közelében parkolunk egy kis melegedőre. Délután a katedrálist nézzük meg. Mivel 17:00-tól sötétedik, zárásként az Albufeira do Arade gáthoz hajtunk, hogy élvezzük a téli alkonyt a víznél.",
             "ro": "Cu mașina explorăm Silves în condiții de confort și căldură pe timp de iarnă. Dimineața vizităm Centrul Islamic. La prânz parcăm lângă Muzeul Arheologic pentru o pauză de încălzire. După-amiaza vizităm catedrala. Deoarece se întunecă de la ora 17:00, conducem la final spre Albufeira do Arade pentru amurgul de iarnă.",
-            "en": "By car, we explore Silves in comfort and warmth during winter. In the morning, we visit the Islamic Center. At noon, we park near the Archaeological Museum for a warm break. In the afternoon, we visit the cathedral. Since it gets dark from 17:00, we finish by driving to Albufeira do Arade to enjoy the winter twilight."
+            "en": "By car, we explore Silves in comfort and warmth during winter. In the morning, we visit the Islamic Center. At noon, we park near the Archaeological Museum for a warm break. In the afternoon, we visit the cathedral. Since it gets dark from 17:00, we finish by driving to Albufeira do Arade to enjoy the winter twilight.",
+            "pt": "De carro, exploramos Silves com conforto e calor durante o inverno. De manhã, visitamos o Centro Islâmico. Ao meio‑dia, estacionamos perto do Museu Arqueológico para uma pausa quente. À tarde, visitamos a catedral. Como escurece a partir das 17:00, terminamos conduzindo até à Albufeira do Arade para desfrutar do crepúsculo de inverno."
           },
           "stops": [
             {
@@ -920,13 +1021,15 @@
                 "de": "Casa da Cultura Islâmica e Mediterrânica",
                 "hu": "Casa da Cultura Islâmica e Mediterrânica",
                 "ro": "Casa da Cultura Islâmica e Mediterrânica",
-                "en": "Casa da Cultura Islâmica e Mediterrânica"
+                "en": "Casa da Cultura Islâmica e Mediterrânica",
+                "pt": "Casa da Cultura Islâmica e Mediterrânica"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Vormittag für einen Besuch im gut beheizten Kulturzentrum; es ist ein idealer Ort, um die Tour bei angenehmen Innentemperaturen zu beginnen.",
                 "hu": "Használja ki a délelőttöt a jól fűtött kulturális központ meglátogatására; ideális helyszín a túra megkezdéséhez kellemes benti hőmérséklet mellett.",
                 "ro": "Profitați de dimineață pentru o vizită la centrul cultural bine încălzit; este un loc ideal pentru a începe turul la o temperatură interioară plăcută.",
-                "en": "Take advantage of the morning to visit the well-heated cultural center; it's an ideal spot to start your tour in comfortable indoor temperatures."
+                "en": "Take advantage of the morning to visit the well-heated cultural center; it's an ideal spot to start your tour in comfortable indoor temperatures.",
+                "pt": "Aproveite a manhã para visitar o centro cultural bem aquecido; é um local ideal para iniciar o seu roteiro em temperaturas interiores confortáveis."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Archäologisches Museum Silves",
                 "hu": "Silves-i Régészeti Múzeum",
                 "ro": "Muzeul Arheologic din Silves",
-                "en": "Silves Archaeological Museum"
+                "en": "Silves Archaeological Museum",
+                "pt": "Museu Arqueológico de Silves"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern des Museums speichern im Winter eine angenehme Kühle; tragen Sie eine Jacke, während Sie die tiefen Ausgrabungsschichten erkunden.",
                 "hu": "A múzeum vastag falai télen megtartják a hűvöst; viseljen kabátot a látogatás alatt, miközben felfedezi a mélyebben fekvő régészeti feltárásokat.",
                 "ro": "Zidurile groase ale muzeului păstrează o răcoare constantă iarna; purtați o jachetă în timp ce explorați nivelurile adânci ale excavațiilor arheologice.",
-                "en": "The museum's thick walls retain a steady chill in winter; keep your jacket on while exploring the deeper archaeological excavation layers inside."
+                "en": "The museum's thick walls retain a steady chill in winter; keep your jacket on while exploring the deeper archaeological excavation layers inside.",
+                "pt": "As espessas paredes do museu retêm um frio constante no inverno; mantenha o casaco enquanto explora as camadas de escavação arqueológica mais profundas no interior."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Sé Catedral de Silves",
                 "hu": "Sé Catedral de Silves",
                 "ro": "Sé Catedral de Silves",
-                "en": "Sé Catedral de Silves"
+                "en": "Sé Catedral de Silves",
+                "pt": "Sé Catedral de Silves"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kathedrale am frühen Nachmittag für das beste Licht; im Winter ist es im Inneren oft kälter als draußen, behalten Sie Ihre warme Kleidung an.",
                 "hu": "Látogasson el a katedrálisba kora délután a legjobb fényekért; télen a belső tér gyakran hűvösebb, mint a kinti levegő, ne vegye le a meleg ruháját.",
                 "ro": "Vizitați catedrala la începutul după-amiezii pentru cea mai bună lumină; iarna, interiorul este adesea mai rece decât aerul de afară, păstrați-vă hainele.",
-                "en": "Visit the cathedral in the early afternoon for the best natural light; in winter, the stone interior is often colder than outside, so stay bundled up."
+                "en": "Visit the cathedral in the early afternoon for the best natural light; in winter, the stone interior is often colder than outside, so stay bundled up.",
+                "pt": "Visite a catedral no início da tarde para a melhor luz natural; no inverno, o interior de pedra costuma ser mais frio do que o exterior, por isso mantenha‑se agasalhado."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Museu da Cortiça",
                 "hu": "Museu da Cortiça",
                 "ro": "Museu da Cortiça",
-                "en": "Museu da Cortiça"
+                "en": "Museu da Cortiça",
+                "pt": "Museu da Cortiça"
               },
               "tip_5lang": {
                 "de": "Planen Sie diesen Stopp vor 16:30 Uhr ein, damit Sie das Museumsgelände noch bei Tageslicht verlassen können; die alten Fabrikhallen sind im Winter kühl.",
                 "hu": "Tervezze ezt a megállót 16:30 előttre, hogy még nappali fényben hagyhassa el a múzeumot; a régi gyárépületek télen hűvösek, öltözzön melegen.",
                 "ro": "Planificați această oprire înainte de ora 16:30 pentru a părăsi muzeul pe lumină; vechile hale de fabrică sunt răcoroase iarna, deci îmbrăcați-vă gros.",
-                "en": "Plan this stop before 16:30 so you can leave the museum grounds while it's still light; the old factory halls are cool in winter, so dress warmly."
+                "en": "Plan this stop before 16:30 so you can leave the museum grounds while it's still light; the old factory halls are cool in winter, so dress warmly.",
+                "pt": "Planeie esta paragem antes das 16:30 para poder deixar o recinto do museu enquanto ainda há luz; os antigos pavilhões fabris são frescos no inverno, por isso vista‑se com calor."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Albufeira do Arade",
                 "hu": "Albufeira do Arade",
                 "ro": "Albufeira do Arade",
-                "en": "Albufeira do Arade"
+                "en": "Albufeira do Arade",
+                "pt": "Albufeira do Arade"
               },
               "tip_5lang": {
                 "de": "Kommen Sie pünktlich zum Sonnenuntergang um 17:00 Uhr; die winterliche Dämmerung über dem Wasser ist vom Auto aus ein wunderschöner Abschluss des Tages.",
                 "hu": "Érkezzen pontosan az 17:00 órai naplementére; a víztükör feletti téli alkony az autó kényelméből nézve csodálatos zárása a napnak.",
                 "ro": "Sosiți exact la apusul soarelui de la ora 17:00; amurgul de iarnă deasupra apei, văzut din mașină, este un mod superb de a încheia ziua.",
-                "en": "Arrive in time for the 17:00 sunset; the winter twilight over the water, viewed from the car, is a beautiful and serene way to end your day in Silves."
+                "en": "Arrive in time for the 17:00 sunset; the winter twilight over the water, viewed from the car, is a beautiful and serene way to end your day in Silves.",
+                "pt": "Chegue a tempo para o pôr‑do‑sol às 17:00; o crepúsculo de inverno sobre a água, visto do carro, é uma forma bonita e serena de terminar o dia em Silves."
               }
             }
           ]

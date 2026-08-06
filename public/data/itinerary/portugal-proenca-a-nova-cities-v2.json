@@ -21,7 +21,8 @@
             "de": "Jardim das Plantas",
             "hu": "Növénykert",
             "ro": "Grădina Botanică",
-            "en": "Garden of Plants"
+            "en": "Garden of Plants",
+            "pt": "Jardim das Plantas"
           },
           "coords": [
             -7.9325,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag entspannt inmitten der lokalen Flora.",
             "hu": "Kezdje a napot egy pihentető sétával a helyi flóra között.",
             "ro": "Începeți ziua relaxat în mijlocul florei locale.",
-            "en": "Start the day relaxed amidst the local flora."
+            "en": "Start the day relaxed amidst the local flora.",
+            "pt": "Comece o dia relaxado em meio à flora local."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Igreja Matriz de Proença-a-Nova",
             "hu": "Proença-a-Nova főtemploma",
             "ro": "Biserica Matriz din Proença-a-Nova",
-            "en": "Main Church of Proença-a-Nova"
+            "en": "Main Church of Proença-a-Nova",
+            "pt": "Igreja Matriz de Proença-a-Nova"
           },
           "coords": [
             -7.9338,
@@ -59,7 +62,8 @@
             "de": "Beachten Sie das manuelinische Portal und den barocken Altaraufsatz im Inneren.",
             "hu": "Figyelje meg a mánueli stílusú portált és a barokk oltárképet.",
             "ro": "Observați portalul manuelin și altarul baroc din interior.",
-            "en": "Note the Manueline portal and the Baroque altarpiece inside."
+            "en": "Note the Manueline portal and the Baroque altarpiece inside.",
+            "pt": "Repare no portal manuelino e no retábulo barroco no interior."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Capela da Misericórdia",
             "hu": "Irgalmasság Kápolnája",
             "ro": "Capela Misericórdia",
-            "en": "Chapel of Mercy"
+            "en": "Chapel of Mercy",
+            "pt": "Capela da Misericórdia"
           },
           "coords": [
             -7.9345,
@@ -82,7 +87,8 @@
             "de": "Eine kleine Kapelle mit einer schlichten, aber eindrucksvollen Atmosphäre.",
             "hu": "Egy kis kápolna egyszerű, mégis lenyűgöző hangulattal.",
             "ro": "O capelă mică, cu o atmosferă simplă, dar impresionantă.",
-            "en": "A small chapel with a simple yet impressive atmosphere."
+            "en": "A small chapel with a simple yet impressive atmosphere.",
+            "pt": "Uma pequena capela de ambiente simples, mas impressionante."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museu Etnográfico",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul Etnografic",
-            "en": "Ethnographic Museum"
+            "en": "Ethnographic Museum",
+            "pt": "Museu Etnográfico"
           },
           "coords": [
             -7.9355,
@@ -105,7 +112,8 @@
             "de": "Erfahren Sie mehr über die Traditionen der Harz- und Olivenölgewinnung in der Region.",
             "hu": "Ismerje meg a régió gyanta- és olívaolaj-termelési hagyományait.",
             "ro": "Aflați despre tradițiile de recoltare a rășinii și a uleiului de măsline din regiune.",
-            "en": "Learn about the resin and olive oil harvesting traditions of the region."
+            "en": "Learn about the resin and olive oil harvesting traditions of the region.",
+            "pt": "Conheça as tradições de exploração da resina e do azeite da região."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the center"
+            "en": "Lunch in the center",
+            "pt": "Almoço no centro"
           },
           "coords": [
             -7.9348,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie das lokale \"Maranho\" in einem der traditionellen Restaurants.",
             "hu": "Kóstolja meg a helyi \"Maranho\"-t egy hagyományos étteremben.",
             "ro": "Încercați \"Maranho\", o specialitate locală, la unul dintre restaurantele tradiționale.",
-            "en": "Try the local \"Maranho\" in one of the traditional restaurants."
+            "en": "Try the local \"Maranho\" in one of the traditional restaurants.",
+            "pt": "Experimente o local «Maranho» num dos restaurantes tradicionais."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Centro Ciência Viva da Floresta",
             "hu": "Az Erdő Élő Tudomány Központja",
             "ro": "Centrul de Știință Vie a Pădurii",
-            "en": "Forest Science Live Center"
+            "en": "Forest Science Live Center",
+            "pt": "Centro Ciência Viva Florestal"
           },
           "coords": [
             -7.941,
@@ -151,7 +162,8 @@
             "de": "Interaktive Ausstellungen, ideal für Familien, die den Wald spielerisch entdecken möchten.",
             "hu": "Interaktív kiállítások, ideális családoknak, akik játékosan szeretnék felfedezni az erdőt.",
             "ro": "Expoziții interactive, ideale pentru familii, pentru a descoperi pădurea într-un mod jucăuș.",
-            "en": "Interactive exhibits, ideal for families to discover the forest in a playful way."
+            "en": "Interactive exhibits, ideal for families to discover the forest in a playful way.",
+            "pt": "Exposições interativas, ideal para famílias descobrirem a floresta de forma lúdica."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag in Proença-a-Nova beginnt mit einem Spaziergang durch den ruhigen Jardim das Plantas. Am Vormittag erkunden Sie das historische Herz der Stadt, besuchen die beeindruckende Igreja Matriz und die besinnliche Capela da Misericórdia. Mittags tauchen Sie im Museu Etnográfico in die lokalen Traditionen ein, bevor Sie eine wohlverdiente Pause mit regionalen Spezialitäten einlegen. Der Nachmittag ist der Wissenschaft gewidmet: Ein längerer Spaziergang führt Sie zum Centro Ciência Viva da Floresta, wo Sie die Geheimnisse des Waldes entdecken. Der Tag endet mit neuen Erkenntnissen und dem Gefühl, die Stadt wirklich erlebt zu haben.",
         "hu": "A nap Proença-a-Novában egy sétával kezdődik a csendes Növénykertben. Délelőtt felfedezi a város történelmi szívét, meglátogatja a lenyűgöző főtemplomot és az elmélyült Irgalmasság Kápolnáját. Délben a Néprajzi Múzeumban elmerül a helyi hagyományokban, mielőtt egy jól megérdemelt szünetet tartana regionális különlegességekkel. A délután a tudományé: egy hosszabb séta vezet az Erdő Élő Tudomány Központjába, ahol felfedezheti az erdő titkait. A nap új ismeretekkel és azzal az érzéssel zárul, hogy igazán átélte a várost.",
         "ro": "Ziua dumneavoastră în Proença-a-Nova începe cu o plimbare prin liniștita Grădină Botanică. Dimineața explorați inima istorică a orașului, vizitând impresionanta Biserică Matriz și Capela Misericórdia, plină de reculegere. La prânz, vă cufundați în tradițiile locale la Muzeul Etnografic, înainte de a lua o pauză binemeritată cu specialități regionale. După-amiaza este dedicată științei: o plimbare mai lungă vă duce la Centrul de Știință Vie a Pădurii, unde descoperiți secretele pădurii. Ziua se încheie cu noi cunoștințe și cu sentimentul că ați trăit cu adevărat orașul.",
-        "en": "Your day in Proença-a-Nova begins with a stroll through the tranquil Garden of Plants. In the morning, you'll explore the historical heart of the town, visiting the impressive Main Church and the contemplative Chapel of Mercy. At noon, delve into local traditions at the Ethnographic Museum before taking a well-deserved break with regional specialties. The afternoon is dedicated to science: a longer walk takes you to the Forest Science Live Center, where you'll discover the secrets of the forest. The day ends with new knowledge and the feeling of having truly experienced the town."
+        "en": "Your day in Proença-a-Nova begins with a stroll through the tranquil Garden of Plants. In the morning, you'll explore the historical heart of the town, visiting the impressive Main Church and the contemplative Chapel of Mercy. At noon, delve into local traditions at the Ethnographic Museum before taking a well-deserved break with regional specialties. The afternoon is dedicated to science: a longer walk takes you to the Forest Science Live Center, where you'll discover the secrets of the forest. The day ends with new knowledge and the feeling of having truly experienced the town.",
+        "pt": "O seu dia em Proença-a-Nova começa com um passeio pelo tranquilo Jardim das Plantas. De manhã, explorará o coração histórico da vila, visitando a impressionante Igreja Matriz e a contemplativa Capela da Misericórdia. Ao meio‑dia, aprofunde-se nas tradições locais no Museu Etnográfico antes de fazer uma merecida pausa com especialidades regionais. A tarde é dedicada à ciência: uma caminhada mais longa leva-o ao Centro Ciência Viva Florestal, onde descobrirá os segredos da floresta. O dia termina com novos conhecimentos e a sensação de ter vivido verdadeiramente a vila."
       },
       "gastro_picks": {
         "de": [
@@ -335,6 +348,12 @@
           "Bring a water bottle, especially for the longer walk in the afternoon.",
           "Most sights in the center are easily reachable on foot.",
           "Plan a little extra time for the Ethnographic Museum; there is a lot to discover."
+        ],
+        "pt": [
+          "Use calçado confortável, pois irá andar em ruas de calçada durante a maior parte do dia.",
+          "Leve uma garrafa de água, especialmente para a caminhada mais longa da tarde.",
+          "A maioria dos pontos de interesse no centro é facilmente acessível a pé.",
+          "Planeie um pouco mais de tempo para o Museu Etnográfico; há muito para descobrir."
         ]
       },
       "variants": {
@@ -343,7 +362,8 @@
             "de": "Der Morgen im Garten der Pflanzen duftet intensiv nach feuchter Erde, kleine Pavillons bieten Schutz. Mittags wärmen wir uns in der Hauptkirche auf und bewundern die barocken Altäre. Nach einem deftigen Eintopf verbringen wir den Nachmittag trocken im Ethnographischen Museum. Den Abschluss bildet das Wissenschaftszentrum im Wald, wo die interaktiven Ausstellungen ideal für Regentage sind.",
             "hu": "A reggel a növénykertben az eső illatával indul, a pavilonok alatt várjuk ki a zápor végét. Délben a főtemplom vastag falai és a Misericórdia kápolna nyújtanak csendes, száraz menedéket. Ebédre forró helyi Maranhót választunk, ami átmelegít. Délután az Etnográfiai Múzeum és az erdészeti központ fedett tereiben merülünk el a régió tudományában és hagyományaiban.",
             "ro": "Dimineața în Grădina Plantelor este marcată de parfumul proaspăt de pini, cu adăpost sub pavilioane. La prânz, explorăm interiorul bisericii principale și capela Mercy, feriți de ploaie. Un prânz prelungit cu preparate locale ne pregătește pentru după-amiaza petrecută în muzeul etnografic. Încheiem ziua la Centrul de Știință a Pădurii, o locație interioară excelentă pentru vreme instabilă.",
-            "en": "The morning in the Garden of Plants is fresh with the scent of rain; small gazebos provide cover. At noon, we take refuge in the Main Church and the Chapel of Mercy, admiring the sacred art. A hearty local lunch warms us up before we spend the afternoon in the dry Ethnographic Museum. We finish at the Forest Science Center, where indoor exhibits are perfect for a rainy day."
+            "en": "The morning in the Garden of Plants is fresh with the scent of rain; small gazebos provide cover. At noon, we take refuge in the Main Church and the Chapel of Mercy, admiring the sacred art. A hearty local lunch warms us up before we spend the afternoon in the dry Ethnographic Museum. We finish at the Forest Science Center, where indoor exhibits are perfect for a rainy day.",
+            "pt": "A manhã no Jardim das Plantas é fresca com cheiro de chuva; pequenos quiosques oferecem abrigo. Ao meio‑dia, refugiamos‑nos na Igreja Matriz e na Capela da Misericórdia, admirando a arte sacra. Um almoço regional reconfortante aquece-nos antes de passarmos a tarde no seco Museu Etnográfico. Terminamos no Centro Ciência Viva Florestal, onde as exposições interiores são perfeitas para um dia chuvoso."
           },
           "stops": [
             {
@@ -352,7 +372,8 @@
                 "de": "Pavillons bieten Schutz vor leichtem Regen.",
                 "hu": "A pavilonok menedéket adnak zápor esetén.",
                 "ro": "Pavilioanele oferă adăpost în caz de ploaie.",
-                "en": "Gazebos offer shelter during light showers."
+                "en": "Gazebos offer shelter during light showers.",
+                "pt": "Os quiosques oferecem abrigo durante chuviscos."
               }
             },
             {
@@ -361,7 +382,8 @@
                 "de": "Ein trockener Ort, um die Altäre zu bewundern.",
                 "hu": "Száraz hely a belső tér felfedezéséhez.",
                 "ro": "Un loc uscat pentru a admira altarele.",
-                "en": "A dry place to admire the altars."
+                "en": "A dry place to admire the altars.",
+                "pt": "Um local seco para admirar os altares."
               }
             },
             {
@@ -370,7 +392,8 @@
                 "de": "Kurzer, geschützter Aufenthalt im Inneren.",
                 "hu": "Rövid, védett látogatás a belső térben.",
                 "ro": "Vizită scurtă și protejată în interior.",
-                "en": "Short, protected visit inside."
+                "en": "Short, protected visit inside.",
+                "pt": "Visita curta e protegida no interior."
               }
             },
             {
@@ -379,7 +402,8 @@
                 "de": "Ideales Ziel, um dem Regen zu entkommen.",
                 "hu": "Ideális célpont az eső elől menekülve.",
                 "ro": "Destinație ideală pentru a scăpa de ploaie.",
-                "en": "Ideal destination to escape the rain."
+                "en": "Ideal destination to escape the rain.",
+                "pt": "Destinação ideal para escapar à chuva."
               }
             },
             {
@@ -388,7 +412,8 @@
                 "de": "Probieren Sie heißen Maranho-Eintopf.",
                 "hu": "Kóstolja meg a forró Maranho egytálételt.",
                 "ro": "Încercați o tocană caldă de Maranho.",
-                "en": "Try some hot Maranho stew."
+                "en": "Try some hot Maranho stew.",
+                "pt": "Experimente um quente cozido de Maranho."
               }
             },
             {
@@ -397,7 +422,8 @@
                 "de": "Großer Innenbereich mit Ausstellungen.",
                 "hu": "Tágas beltéri kiállítások várják.",
                 "ro": "Expoziții interioare spațioase.",
-                "en": "Spacious indoor exhibits available."
+                "en": "Spacious indoor exhibits available.",
+                "pt": "Exposições interiores espaçosas disponíveis."
               }
             }
           ],
@@ -425,6 +451,12 @@
               "The Forest Science Center is a great indoor option.",
               "An umbrella is needed for the short walks between stops.",
               "Churches serve as quiet and dry rest stops."
+            ],
+            "pt": [
+              "Cuidado com as pedras escorregadias no centro.",
+              "O Centro Ciência Viva Florestal é uma excelente opção interior.",
+              "É necessário um guarda-chuva para as curta deslocações entre pontos.",
+              "As igrejas servem de paragens calmas e secas para descansar."
             ]
           }
         },
@@ -433,7 +465,8 @@
             "de": "Die frische Winterluft im Garten belebt den Geist am Morgen. Mittags suchen wir die Wärme der Hauptkirche und bewundern die sakrale Kunst. In den Gassen des Zentrums locken Cafés mit heißem Bica und regionalem Gebäck. Nachmittags nutzen wir das warme Licht im Etnographischen Museum, bevor wir den Tag im Wissenschaftszentrum ausklingen lassen, während es draußen früh dunkel wird.",
             "hu": "A csípős téli reggel frissessége a növénykertben ébreszt fel minket. Délben a templom és a kápolna hűvös, de szélvédett tereit látogatjuk meg. Az ebéd során a Beira Baixa vidék laktató ételeivel töltekezünk fel a délutáni múzeumlátogatáshoz. Mivel korán sötétedik, az uzsonnát már a hangulatosan kivilágított főtéren fogyasztjuk el, majd az interaktív központban melegszünk fel.",
             "ro": "Aerul rece de iarnă în grădină este revigorant la prima oră. La prânz, vizităm biserica și capela, admirând detaliile arhitecturale într-o liniște deplină. Un prânz consistent ne oferă energia necesară pentru după-amiaza la muzeul etnografic. Pe măsură ce soarele apune devreme, ne retragem la Centrul de Știință, unde atmosfera caldă și educativă este perfectă pentru seară.",
-            "en": "The crisp winter air in the garden is invigorating in the morning. At noon, we admire the quiet interior of the Main Church and the Chapel of Mercy. A hearty lunch in the center provides much-needed warmth before our afternoon at the museum. As the sun sets early, we head to the Forest Science Center to enjoy the indoor activities and learn about the local flora."
+            "en": "The crisp winter air in the garden is invigorating in the morning. At noon, we admire the quiet interior of the Main Church and the Chapel of Mercy. A hearty lunch in the center provides much-needed warmth before our afternoon at the museum. As the sun sets early, we head to the Forest Science Center to enjoy the indoor activities and learn about the local flora.",
+            "pt": "O ar frio e seco no jardim é revigorante pela manhã. Ao meio‑dia, admiramos o interior silencioso da Igreja Matriz e da Capela da Misericórdia. Um almoço reconfortante no centro dá o calor necessário antes da nossa tarde no museu. Como o sol se põe cedo, dirigimo‑nos ao Centro Ciência Viva Florestal para aproveitar as atividades interiores e aprender sobre a flora local."
           },
           "stops": [
             {
@@ -442,7 +475,8 @@
                 "de": "Frische Luft, ideal für einen kurzen Spaziergang.",
                 "hu": "Friss levegő, ideális egy rövid sétára.",
                 "ro": "Aer curat, ideal pentru o plimbare scurtă.",
-                "en": "Fresh air, ideal for a short walk."
+                "en": "Fresh air, ideal for a short walk.",
+                "pt": "Ar fresco, ideal para uma curta caminhada."
               }
             },
             {
@@ -451,7 +485,8 @@
                 "de": "Windgeschützter Ort für Besichtigungen.",
                 "hu": "Szélvédett hely a nézelődéshez.",
                 "ro": "Loc ferit de vânt pentru vizitare.",
-                "en": "Wind-protected place for sightseeing."
+                "en": "Wind-protected place for sightseeing.",
+                "pt": "Local protegido do vento para passeios turísticos."
               }
             },
             {
@@ -460,7 +495,8 @@
                 "de": "Kleiner, intimer Raum, oft kühler als draußen.",
                 "hu": "Kicsi, intim tér, gyakran hűvösebb, mint kint.",
                 "ro": "Spațiu mic și intim, adesea răcoros.",
-                "en": "Small, intimate space, often cooler than outside."
+                "en": "Small, intimate space, often cooler than outside.",
+                "pt": "Espaço pequeno e íntimo, muitas vezes mais fresco do que o exterior."
               }
             },
             {
@@ -469,7 +505,8 @@
                 "de": "Warmer Rückzugsort am Nachmittag.",
                 "hu": "Meleg menedék a délutáni órákban.",
                 "ro": "Refugiu călduros în orele după-amiezii.",
-                "en": "Warm retreat during afternoon hours."
+                "en": "Warm retreat during afternoon hours.",
+                "pt": "Refúgio acolhedor durante as horas da tarde."
               }
             },
             {
@@ -478,7 +515,8 @@
                 "de": "Genießen Sie den lokalen Käse und Wein.",
                 "hu": "Kóstolja meg a helyi sajtot és bort.",
                 "ro": "Degustați brânzeturile și vinul local.",
-                "en": "Taste the local cheese and wine."
+                "en": "Taste the local cheese and wine.",
+                "pt": "Prove o queijo e o vinho locais."
               }
             },
             {
@@ -487,7 +525,8 @@
                 "de": "Perfekt beheiztes Zentrum zum Abschluss.",
                 "hu": "Kellemesen fűtött központ a nap zárásához.",
                 "ro": "Centru încălzit, perfect pentru finalul zilei.",
-                "en": "Comfortably heated center to end the day."
+                "en": "Comfortably heated center to end the day.",
+                "pt": "Centro confortavelmente aquecido para terminar o dia."
               }
             }
           ],
@@ -515,6 +554,12 @@
               "Dress in layers as interiors can be chilly.",
               "A hot coffee in the main square helps you warm up.",
               "Museums are quieter and less crowded in winter."
+            ],
+            "pt": [
+              "O sol põe‑se por volta das 17:15; planeie a visita ao jardim cedo.",
+              "Vista-se em camadas, pois os interiores podem estar frescos.",
+              "Um café quente na praça principal ajuda a aquecer.",
+              "Os museus são mais calmos e menos cheios no inverno."
             ]
           }
         }
@@ -533,7 +578,8 @@
             "de": "Start am Centro Ciência Viva",
             "hu": "Indulás a Ciência Viva Központtól",
             "ro": "Pornire de la Centrul Ciência Viva",
-            "en": "Start at the Ciência Viva Center"
+            "en": "Start at the Ciência Viva Center",
+            "pt": "Comece no Centro Ciência Viva"
           },
           "coords": [
             -7.941,
@@ -548,7 +594,8 @@
             "de": "Holen Sie Ihr Fahrrad ab und bereiten Sie sich auf eine Tour zwischen Wissenschaft und Natur vor.",
             "hu": "Vegye át a kerékpárt, és készüljön fel egy túrára a tudomány és a természet között.",
             "ro": "Luați bicicleta și pregătiți-vă pentru un tur între știință și natură.",
-            "en": "Pick up your bike and get ready for a tour between science and nature."
+            "en": "Pick up your bike and get ready for a tour between science and nature.",
+            "pt": "Pegue na sua bicicleta e prepare‑se para um passeio entre ciência e natureza."
           }
         },
         {
@@ -556,7 +603,8 @@
             "de": "Ponte Romana de Alvito",
             "hu": "Alvito római híd",
             "ro": "Podul Roman din Alvito",
-            "en": "Roman Bridge of Alvito"
+            "en": "Roman Bridge of Alvito",
+            "pt": "Ponte Romana de Alvito"
           },
           "coords": [
             -7.91,
@@ -571,7 +619,8 @@
             "de": "Eine malerische Radtour führt zu dieser alten Brücke. Ein perfekter Ort für Fotos.",
             "hu": "Festői kerékpártúra vezet ehhez az ősi hídhoz. Tökéletes hely fotózáshoz.",
             "ro": "O plimbare pitorească cu bicicleta duce la acest pod antic. Un loc perfect pentru fotografii.",
-            "en": "A scenic bike ride leads to this ancient bridge. A perfect spot for photos."
+            "en": "A scenic bike ride leads to this ancient bridge. A perfect spot for photos.",
+            "pt": "Um passeio de bicicleta cénico leva a esta ponte antiga. Um local perfeito para fotografias."
           }
         },
         {
@@ -579,7 +628,8 @@
             "de": "Igreja Matriz de Proença-a-Nova",
             "hu": "Proença-a-Nova főtemploma",
             "ro": "Biserica Matriz din Proença-a-Nova",
-            "en": "Main Church of Proença-a-Nova"
+            "en": "Main Church of Proença-a-Nova",
+            "pt": "Igreja Matriz de Proença-a-Nova"
           },
           "coords": [
             -7.9338,
@@ -594,7 +644,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie das historische Zentrum.",
             "hu": "Parkolja le a kerékpárt, és csodálja meg a történelmi központot.",
             "ro": "Parcați bicicleta și admirați centrul istoric.",
-            "en": "Park your bike and admire the historic center."
+            "en": "Park your bike and admire the historic center.",
+            "pt": "Estacione a bicicleta e admire o centro histórico."
           }
         },
         {
@@ -602,7 +653,8 @@
             "de": "Museu Etnográfico",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul Etnografic",
-            "en": "Ethnographic Museum"
+            "en": "Ethnographic Museum",
+            "pt": "Museu Etnográfico"
           },
           "coords": [
             -7.9355,
@@ -617,7 +669,8 @@
             "de": "Eine kurze Fahrt vom Hauptplatz entfernt, um mehr über die lokale Kultur zu erfahren.",
             "hu": "Rövid biciklizés a főtérről, hogy többet tudjon meg a helyi kultúráról.",
             "ro": "O scurtă plimbare cu bicicleta din piața principală pentru a afla mai multe despre cultura locală.",
-            "en": "A short ride from the main square to learn about the local culture."
+            "en": "A short ride from the main square to learn about the local culture.",
+            "pt": "A curta distância da praça principal para aprender sobre a cultura local."
           }
         },
         {
@@ -625,7 +678,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the center"
+            "en": "Lunch in the center",
+            "pt": "Almoço no centro"
           },
           "coords": [
             -7.9348,
@@ -640,7 +694,8 @@
             "de": "Stärken Sie sich mit lokalen Köstlichkeiten für die Nachmittagstour.",
             "hu": "Erősítse meg magát helyi finomságokkal a délutáni túrára.",
             "ro": "Întăriți-vă cu delicatese locale pentru turul de după-amiază.",
-            "en": "Refuel with local delicacies for the afternoon tour."
+            "en": "Refuel with local delicacies for the afternoon tour.",
+            "pt": "Reponha energias com especialidades locais para o passeio da tarde."
           }
         },
         {
@@ -648,7 +703,8 @@
             "de": "Jardim das Plantas",
             "hu": "Növénykert",
             "ro": "Grădina Botanică",
-            "en": "Garden of Plants"
+            "en": "Garden of Plants",
+            "pt": "Jardim das Plantas"
           },
           "coords": [
             -7.9325,
@@ -663,7 +719,8 @@
             "de": "Beenden Sie Ihre Radtour mit einer entspannten Zeit in diesem schönen Garten.",
             "hu": "Zárja a kerékpártúrát egy pihentető időtöltéssel ebben a szép kertben.",
             "ro": "Încheiați turul cu bicicleta cu un moment de relaxare în această grădină frumoasă.",
-            "en": "End your bike tour with some relaxing time in this beautiful garden."
+            "en": "End your bike tour with some relaxing time in this beautiful garden.",
+            "pt": "Termine o seu passeio de bicicleta com tempo relaxante neste belo jardim."
           }
         }
       ],
@@ -671,7 +728,8 @@
         "de": "Ihre Fahrradtour beginnt am Wissenschaftszentrum, von wo aus Sie eine malerische Route zur historischen Ponte Romana de Alvito nehmen. Am Vormittag radeln Sie zurück ins Herz von Proença-a-Nova, um die Igreja Matriz und das nahegelegene Museu Etnográfico zu erkunden. Nach einem stärkenden Mittagessen mit lokalen Spezialitäten führt Sie eine gemütliche Fahrt zum Jardim das Plantas, wo Sie den Nachmittag ausklingen lassen. Diese Tour kombiniert perfekt Naturerlebnisse mit kulturellen Entdeckungen und bietet eine aktive Möglichkeit, die Vielfalt der Region zu erleben.",
         "hu": "A kerékpártúra a Tudományos Központtól indul, ahonnan festői úton jut el a történelmi Alvito római hídhoz. Délelőtt visszateker Proença-a-Nova szívébe, hogy felfedezze a főtemplomot és a közeli Néprajzi Múzeumot. Egy helyi specialitásokkal teli, feltöltő ebéd után egy kellemes út vezet a Növénykertbe, ahol a délutánt töltheti. Ez a túra tökéletesen ötvözi a természeti élményeket a kulturális felfedezésekkel, és aktív módot kínál a régió sokszínűségének megismerésére.",
         "ro": "Turul dumneavoastră cu bicicleta începe de la Centrul de Știință, de unde urmați un traseu pitoresc către istoricul Pod Roman din Alvito. Dimineața pedalați înapoi în inima orașului Proença-a-Nova pentru a explora Biserica Matriz și Muzeul Etnografic din apropiere. După un prânz revigorant cu specialități locale, o plimbare relaxantă vă duce la Grădina Botanică, unde vă puteți petrece după-amiaza. Acest tur combină perfect experiențele în natură cu descoperirile culturale, oferind o modalitate activă de a experimenta diversitatea regiunii.",
-        "en": "Your bike tour starts at the Science Center, from where you'll take a scenic route to the historic Roman Bridge of Alvito. In the morning, you'll cycle back to the heart of Proença-a-Nova to explore the Main Church and the nearby Ethnographic Museum. After a fortifying lunch with local specialties, a leisurely ride takes you to the Garden of Plants, where you can spend the afternoon. This tour perfectly combines nature experiences with cultural discoveries, offering an active way to experience the region's diversity."
+        "en": "Your bike tour starts at the Science Center, from where you'll take a scenic route to the historic Roman Bridge of Alvito. In the morning, you'll cycle back to the heart of Proença-a-Nova to explore the Main Church and the nearby Ethnographic Museum. After a fortifying lunch with local specialties, a leisurely ride takes you to the Garden of Plants, where you can spend the afternoon. This tour perfectly combines nature experiences with cultural discoveries, offering an active way to experience the region's diversity.",
+        "pt": "O seu passeio de bicicleta começa no Centro Ciência Viva, de onde seguirá por um trajeto cénico até à histórica Ponte Romana de Alvito. De manhã pedalará de volta ao coração de Proença-a-Nova para explorar a Igreja Matriz e o próximo Museu Etnográfico. Depois de um almoço reconfortante com especialidades locais, um passeio tranquilo leva‑o ao Jardim das Plantas, onde pode passar a tarde. Este percurso combina experiências na natureza com descobertas culturais, oferecendo uma forma ativa de vivenciar a diversidade da região."
       },
       "gastro_picks": {
         "de": [
@@ -847,6 +905,12 @@
           "Some sections can be hilly, so be prepared for climbs.",
           "Take enough water and snacks for the road.",
           "A helmet is highly recommended for your safety."
+        ],
+        "pt": [
+          "Verifique as condições da bicicleta antes de partir, especialmente os travões e os pneus.",
+          "Alguns troços podem ser íngremes, por isso prepare‑se para subidas.",
+          "Leve água e snacks suficientes para o caminho.",
+          "O uso de capacete é fortemente recomendado para a sua segurança."
         ]
       },
       "variants": {
@@ -855,7 +919,8 @@
             "de": "Wir starten am Wissenschaftszentrum, wo wir die erste Regenfront abwarten. Die Fahrt zur römischen Brücke führt durch nasse Pinienwälder, deren Duft berauschend ist. Mittags erreichen wir Proença-a-Nova und suchen die Hauptkirche auf, um die nasse Kleidung zu trocknen. Nach einem ausgiebigen Mittagessen besuchen wir das Museum, bevor wir den Tag mit einer vorsichtigen Fahrt durch den Stadtgarten beenden.",
             "hu": "Az erdészeti központból indulunk, ahol kivárjuk az esőfelhők elvonulását. A római hídhoz vezető út a vizes fenyőerdőkön át vezet, melyek illata ilyenkor a legintenzívebb. Délben érünk vissza a városba, ahol a templom és a múzeum kínál száraz pihenőt. Egy forró ebéd után óvatosan tekerünk át a központi kertbe, ügyelve a nedves aszfaltra és a csúszós falevelekre.",
             "ro": "Pornim de la Centrul de Știință, așteptând trecerea ploii. Drumul spre podul roman trece prin păduri de pini umede, al căror parfum este intens. La prânz ajungem în oraș, unde biserica și muzeul ne oferă un răgaz uscat. După un prânz cald, pedalăm cu atenție prin grădina publică, fiind atenți la carosabilul umed și frunzele alunecoase.",
-            "en": "We start at the Science Center, waiting for the first rain clouds to pass. The ride to the Roman bridge takes us through wet pine forests with an intoxicating scent. At noon, we reach the town where the church and museum offer a dry break. After a warm lunch, we cycle carefully to the garden, staying mindful of the wet asphalt and slippery leaves."
+            "en": "We start at the Science Center, waiting for the first rain clouds to pass. The ride to the Roman bridge takes us through wet pine forests with an intoxicating scent. At noon, we reach the town where the church and museum offer a dry break. After a warm lunch, we cycle carefully to the garden, staying mindful of the wet asphalt and slippery leaves.",
+            "pt": "Começamos no Centro Ciência Viva, à espera que as primeiras nuvens de chuva passem. O percurso até à ponte romana atravessa pinhais húmidos com um perfume embriagador. Ao meio‑dia chegamos à vila, onde a igreja e o museu oferecem uma pausa seca. Depois de um almoço quente, pedalamos com cuidado até ao jardim, atentos ao asfalto molhado e às folhas escorregadias."
           },
           "stops": [
             {
@@ -864,7 +929,8 @@
                 "de": "Überdachter Startbereich für die Vorbereitung.",
                 "hu": "Fedett indítóterület a felkészüléshez.",
                 "ro": "Zonă de start acoperită pentru pregătire.",
-                "en": "Covered start area for preparation."
+                "en": "Covered start area for preparation.",
+                "pt": "Área de partida coberta para preparação."
               }
             },
             {
@@ -873,7 +939,8 @@
                 "de": "Vorsicht, die Steine der Brücke sind bei Nässe sehr glatt.",
                 "hu": "Vigyázat, a híd kövei esőben nagyon csúszósak.",
                 "ro": "Atenție, pietrele podului sunt foarte alunecoase pe ploaie.",
-                "en": "Caution: the bridge stones are very slippery when wet."
+                "en": "Caution: the bridge stones are very slippery when wet.",
+                "pt": "Cuidado: as pedras da ponte ficam muito escorregadias quando molhadas."
               }
             },
             {
@@ -882,7 +949,8 @@
                 "de": "Sicherer Ort zum Unterstellen der Räder.",
                 "hu": "Biztonságos hely a kerékpárok leállításához.",
                 "ro": "Loc sigur pentru a lăsa bicicletele.",
-                "en": "Safe place to park the bikes."
+                "en": "Safe place to park the bikes.",
+                "pt": "Local seguro para estacionar as bicicletas."
               }
             },
             {
@@ -891,7 +959,8 @@
                 "de": "Perfekte Pause im Trockenen.",
                 "hu": "Tökéletes pihenő száraz helyen.",
                 "ro": "Pauză perfectă la adăpost.",
-                "en": "Perfect break in the dry."
+                "en": "Perfect break in the dry.",
+                "pt": "Pausa perfeita no seco."
               }
             },
             {
@@ -900,7 +969,8 @@
                 "de": "Wählen Sie ein Restaurant mit Sicht auf die Räder.",
                 "hu": "Válasszon éttermet, ahonnan rálát a biciklikre.",
                 "ro": "Alegeți un restaurant cu vedere la biciclete.",
-                "en": "Choose a restaurant with a view of the bikes."
+                "en": "Choose a restaurant with a view of the bikes.",
+                "pt": "Escolha um restaurante com vista para as bicicletas."
               }
             },
             {
@@ -909,7 +979,8 @@
                 "de": "Kurzer Stopp unter den großen Bäumen.",
                 "hu": "Rövid megálló a nagy fák alatt.",
                 "ro": "Oprire scurtă sub copacii mari.",
-                "en": "Short stop under the large trees."
+                "en": "Short stop under the large trees.",
+                "pt": "Paragem curta sob as árvores grandes."
               }
             }
           ],
@@ -937,6 +1008,12 @@
               "Avoid abrupt braking on cobblestone surfaces.",
               "Use mudguards to avoid mud on your back.",
               "Visibility in the forest may be reduced during rain."
+            ],
+            "pt": [
+              "Use roupa impermeável e protetores de sapato.",
+              "Evite travagens bruscas em superfícies de calçada.",
+              "Use guarda‑lamas para evitar lama nas costas.",
+              "A visibilidade na floresta pode reduzir‑se durante a chuva."
             ]
           }
         },
@@ -945,7 +1022,8 @@
             "de": "Die Tour beginnt frisch am Wissenschaftszentrum. Die Fahrt zur römischen Brücke ist bei klarer Winterluft atemberaubend, erfordert aber gute Handschuhe gegen den Fahrtwind. Mittags kehren wir ins Zentrum zurück und wärmen uns in der Kirche auf. Nach einem energiereichen Mittagessen und dem Museumsbesuch nutzen wir die letzten Sonnenstrahlen im Garten, bevor die Dämmerung den Ort in ein blaues Licht taucht.",
             "hu": "A túra frissen indul az erdészeti központnál. A római hídhoz vezető út a tiszta téli levegőben lélegzetelállító, de jó kesztyűre szükség van a menetszél ellen. Délben térünk vissza a városközpontba, ahol a templom falai között melegszünk fel. Egy energiadús ebéd és a múzeumlátogatás után az utolsó napsugarakat a kertben élvezzük, mielőtt a szürkület kék fénybe vonja a tájat.",
             "ro": "Turul începe revigorant la Centrul de Știință. Drumul spre podul roman este spectaculos în aerul curat de iarnă, dar necesită mănuși bune împotriva vântului. La prânz ne întoarcem în centru și ne încălzim în biserică. După un prânz energizant și vizita la muzeu, profităm de ultimele raze de soare în grădină, înainte ca amurgul să îmbrace locul în lumini albastre.",
-            "en": "The tour starts fresh at the Science Center. The ride to the Roman bridge is stunning in the clear winter air but requires good gloves against the wind. At noon, we return to the center and warm up in the church. After an energy-boosting lunch and the museum visit, we catch the last rays of sun in the garden before twilight drapes the area in blue light."
+            "en": "The tour starts fresh at the Science Center. The ride to the Roman bridge is stunning in the clear winter air but requires good gloves against the wind. At noon, we return to the center and warm up in the church. After an energy-boosting lunch and the museum visit, we catch the last rays of sun in the garden before twilight drapes the area in blue light.",
+            "pt": "O passeio começa fresco no Centro Ciência Viva. A viagem até à ponte romana é deslumbrante no ar claro de inverno, mas exige boas luvas contra o vento. Ao meio‑dia regressamos ao centro e aquecemo‑nos na igreja. Depois de um almoço revigorante e da visita ao museu, apanhamos os últimos raios de sol no jardim antes do crepúsculo envolver a área numa luz azulada."
           },
           "stops": [
             {
@@ -954,7 +1032,8 @@
                 "de": "Starten Sie nach 09:30 Uhr, wenn der Frost weg ist.",
                 "hu": "Induljon 09:30 után, ha már elment a fagy.",
                 "ro": "Porniți după ora 09:30, după ce trece înghețul.",
-                "en": "Start after 09:30 once the frost has cleared."
+                "en": "Start after 09:30 once the frost has cleared.",
+                "pt": "Comece depois das 09:30, quando o gelo tiver derretido."
               }
             },
             {
@@ -963,7 +1042,8 @@
                 "de": "Wunderschönes Licht für Fotos am Vormittag.",
                 "hu": "Gyönyörű fények a délelőtti fotózáshoz.",
                 "ro": "Lumină superbă pentru fotografii dimineața.",
-                "en": "Beautiful morning light for photography."
+                "en": "Beautiful morning light for photography.",
+                "pt": "Luz matinal bonita para fotografia."
               }
             },
             {
@@ -972,7 +1052,8 @@
                 "de": "Kurze Aufwärmpause im Inneren.",
                 "hu": "Rövid melegedő pihenő odabent.",
                 "ro": "Scurt popas pentru încălzire în interior.",
-                "en": "Short warm-up break inside."
+                "en": "Short warm-up break inside.",
+                "pt": "Pequena pausa de aquecimento no interior."
               }
             },
             {
@@ -981,7 +1062,8 @@
                 "de": "Interessante Einblicke in winterliche Traditionen.",
                 "hu": "Érdekes betekintés a téli hagyományokba.",
                 "ro": "Informații interesante despre tradițiile de iarnă.",
-                "en": "Interesting insights into winter traditions."
+                "en": "Interesting insights into winter traditions.",
+                "pt": "Perceções interessantes sobre tradições de inverno."
               }
             },
             {
@@ -990,7 +1072,8 @@
                 "de": "Bestellen Sie eine warme Suppe vorab.",
                 "hu": "Rendeljen egy forró levest előételnek.",
                 "ro": "Comandați o supă caldă ca aperitiv.",
-                "en": "Order a hot soup as an appetizer."
+                "en": "Order a hot soup as an appetizer.",
+                "pt": "Peça uma sopa quente como entrada."
               }
             },
             {
@@ -999,7 +1082,8 @@
                 "de": "Genießen Sie die Ruhe der Nebensaison.",
                 "hu": "Élvezze a holtszezon nyugalmát.",
                 "ro": "Bucurați-vă de liniștea din afara sezonului.",
-                "en": "Enjoy the tranquility of the off-season."
+                "en": "Enjoy the tranquility of the off-season.",
+                "pt": "Desfrute da tranquilidade da época baixa."
               }
             }
           ],
@@ -1027,6 +1111,12 @@
               "Avoid cycling in the early morning if there is frost.",
               "Make sure your bike lights are working properly.",
               "A thermos with a hot drink is an ideal companion."
+            ],
+            "pt": [
+              "Vista várias camadas de roupa.",
+              "Evite andar de bicicleta de manhã cedo se houver geada.",
+              "Certifique-se de que as luzes da sua bicicleta estão a funcionar corretamente.",
+              "Um térmico com uma bebida quente é um companheiro ideal."
             ]
           }
         }
@@ -1045,7 +1135,8 @@
             "de": "Miradouro das Portas de Almourão",
             "hu": "Portas de Almourão kilátó",
             "ro": "Punct de belvedere Portas de Almourão",
-            "en": "Portas de Almourão Viewpoint"
+            "en": "Portas de Almourão Viewpoint",
+            "pt": "Miradouro das Portas de Almourão"
           },
           "coords": [
             -7.858,
@@ -1060,7 +1151,8 @@
             "de": "Beginnen Sie den Tag mit einer atemberaubenden Aussicht auf die Schlucht. Am besten frühmorgens.",
             "hu": "Kezdje a napot a szurdokra nyíló lélegzetelállító kilátással. A legjobb kora reggel.",
             "ro": "Începeți ziua cu o priveliște uluitoare asupra defileului. Cel mai bine dimineața devreme.",
-            "en": "Start the day with a breathtaking view of the gorge. Best in the early morning."
+            "en": "Start the day with a breathtaking view of the gorge. Best in the early morning.",
+            "pt": "Comece o dia com uma vista deslumbrante da garganta. Melhor de manhã cedo."
           }
         },
         {
@@ -1068,7 +1160,8 @@
             "de": "Ponte Romana de Alvito",
             "hu": "Alvito római híd",
             "ro": "Podul Roman din Alvito",
-            "en": "Roman Bridge of Alvito"
+            "en": "Roman Bridge of Alvito",
+            "pt": "Ponte Romana de Alvito"
           },
           "coords": [
             -7.91,
@@ -1083,7 +1176,8 @@
             "de": "Ein kurzer Halt, um dieses Stück antiker Ingenieurskunst zu bewundern.",
             "hu": "Egy rövid megálló, hogy megcsodálja ezt az ókori mérnöki alkotást.",
             "ro": "O scurtă oprire pentru a admira această bucată de inginerie antică.",
-            "en": "A quick stop to admire this piece of ancient engineering."
+            "en": "A quick stop to admire this piece of ancient engineering.",
+            "pt": "Uma paragem rápida para admirar esta obra da engenharia antiga."
           }
         },
         {
@@ -1091,7 +1185,8 @@
             "de": "Igreja Matriz de Proença-a-Nova (Cluster-Start)",
             "hu": "Proença-a-Nova főtemploma (Klaszter kezdete)",
             "ro": "Biserica Matriz din Proença-a-Nova (Începutul clusterului)",
-            "en": "Main Church of Proença-a-Nova (Cluster Start)"
+            "en": "Main Church of Proença-a-Nova (Cluster Start)",
+            "pt": "Igreja Matriz de Proença-a-Nova (Início do Itinerário)"
           },
           "coords": [
             -7.9338,
@@ -1106,7 +1201,8 @@
             "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie die historischen Sehenswürdigkeiten zu Fuß.",
             "hu": "Parkolja le autóját a központban, és fedezze fel gyalog a történelmi látnivalókat.",
             "ro": "Parcați mașina în centru și explorați obiectivele istorice pe jos.",
-            "en": "Park your car in the center and explore the historical sights on foot."
+            "en": "Park your car in the center and explore the historical sights on foot.",
+            "pt": "Estacione o seu carro no centro e explore os pontos históricos a pé."
           }
         },
         {
@@ -1114,7 +1210,8 @@
             "de": "Museu Etnográfico",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul Etnografic",
-            "en": "Ethnographic Museum"
+            "en": "Ethnographic Museum",
+            "pt": "Museu Etnográfico"
           },
           "coords": [
             -7.9355,
@@ -1129,7 +1226,8 @@
             "de": "Ein kurzer Spaziergang von der Kirche entfernt, um in die lokale Kultur einzutauchen.",
             "hu": "Rövid séta a templomtól, hogy elmerüljön a helyi kultúrában.",
             "ro": "O scurtă plimbare de la biserică pentru a vă cufunda în cultura locală.",
-            "en": "A short walk from the church to immerse yourself in the local culture."
+            "en": "A short walk from the church to immerse yourself in the local culture.",
+            "pt": "A curta distância a pé desde a igreja para se imergir na cultura local."
           }
         },
         {
@@ -1137,7 +1235,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the center"
+            "en": "Lunch in the center",
+            "pt": "Almoço no centro"
           },
           "coords": [
             -7.9348,
@@ -1152,7 +1251,8 @@
             "de": "Genießen Sie ein herzhaftes Mittagessen, bevor Sie zum nächsten Ziel aufbrechen.",
             "hu": "Élvezzen egy kiadós ebédet, mielőtt a következő célponthoz indul.",
             "ro": "Bucurați-vă de un prânz copios înainte de a porni spre următoarea destinație.",
-            "en": "Enjoy a hearty lunch before setting off for the next destination."
+            "en": "Enjoy a hearty lunch before setting off for the next destination.",
+            "pt": "Desfrute de um almoço reforçado antes de seguir para o próximo destino."
           }
         },
         {
@@ -1160,7 +1260,8 @@
             "de": "Praia Fluvial da Aldeia Ruiva",
             "hu": "Aldeia Ruiva folyóparti strand",
             "ro": "Plaja fluvială Aldeia Ruiva",
-            "en": "Aldeia Ruiva River Beach"
+            "en": "Aldeia Ruiva River Beach",
+            "pt": "Praia Fluvial da Aldeia Ruiva"
           },
           "coords": [
             -8.015,
@@ -1175,7 +1276,8 @@
             "de": "Der perfekte Ort, um den Nachmittag mit Schwimmen und Entspannen in der Natur zu verbringen.",
             "hu": "Tökéletes hely a délutáni úszáshoz és pihenéshez a természetben.",
             "ro": "Locul perfect pentru a petrece după-amiaza înotând și relaxându-vă în natură.",
-            "en": "The perfect place to spend the afternoon swimming and relaxing in nature."
+            "en": "The perfect place to spend the afternoon swimming and relaxing in nature.",
+            "pt": "O local perfeito para passar a tarde a nadar e a relaxar na natureza."
           }
         },
         {
@@ -1183,7 +1285,8 @@
             "de": "Rückkehr ins Zentrum",
             "hu": "Visszatérés a központba",
             "ro": "Întoarcere în centru",
-            "en": "Return to the Center"
+            "en": "Return to the Center",
+            "pt": "Regresso ao Centro"
           },
           "coords": [
             -7.9333,
@@ -1198,7 +1301,8 @@
             "de": "Ein erlebnisreicher Tag voller Kontraste zwischen Kultur und Natur geht zu Ende.",
             "hu": "Egy eseménydús, kultúra és természet közötti kontrasztokkal teli nap ér véget.",
             "ro": "O zi plină de evenimente, cu contraste între cultură și natură, se apropie de sfârșit.",
-            "en": "An eventful day full of contrasts between culture and nature comes to an end."
+            "en": "An eventful day full of contrasts between culture and nature comes to an end.",
+            "pt": "Um dia cheio de contrastes entre cultura e natureza chega ao fim."
           }
         }
       ],
@@ -1206,7 +1310,8 @@
         "de": "Ihr Autotag beginnt mit einem Paukenschlag am Miradouro das Portas de Almourão, wo Sie eine spektakuläre Aussicht genießen. Nach einem kurzen Halt an der antiken Ponte Romana de Alvito fahren Sie ins Zentrum von Proença-a-Nova. Hier parken Sie und erkunden den ersten Cluster zu Fuß: die Igreja Matriz und das Museu Etnográfico. Nach einem traditionellen Mittagessen fahren Sie zum zweiten Highlight, der Praia Fluvial da Aldeia Ruiva, wo Sie den gesamten Nachmittag entspannen. Dieser Roadtrip verbindet landschaftliche Höhepunkte mit dem historischen Kern der Stadt und einem erfrischenden Naturerlebnis.",
         "hu": "Az autós nap egy csúcsponttal kezdődik a Portas de Almourão kilátónál, ahonnan lenyűgöző kilátás nyílik. Egy rövid megálló után az ókori Alvito római hídnál Proença-a-Nova központjába hajt. Itt leparkol, és gyalog fedezi fel az első klasztert: a főtemplomot és a Néprajzi Múzeumot. Egy hagyományos ebéd után a második fénypont, az Aldeia Ruiva folyóparti strand felé veszi az irányt, ahol az egész délutánt pihenéssel tölti. Ez az autós túra ötvözi a festői csúcspontokat a város történelmi magjával és egy frissítő természeti élménnyel.",
         "ro": "Ziua dumneavoastră cu mașina începe în forță la Punctul de belvedere Portas de Almourão, unde vă bucurați de o priveliște spectaculoasă. După o scurtă oprire la anticul Pod Roman din Alvito, conduceți spre centrul orașului Proença-a-Nova. Aici parcați și explorați primul cluster pe jos: Biserica Matriz și Muzeul Etnografic. După un prânz tradițional, vă îndreptați spre al doilea punct de atracție, Plaja fluvială Aldeia Ruiva, unde vă relaxați toată după-amiaza. Acest road trip combină punctele de atracție peisagistice cu nucleul istoric al orașului și o experiență revigorantă în natură.",
-        "en": "Your car day starts with a bang at the Portas de Almourão Viewpoint, where you'll enjoy a spectacular view. After a quick stop at the ancient Roman Bridge of Alvito, you'll drive to the center of Proença-a-Nova. Here, you park and explore the first cluster on foot: the Main Church and the Ethnographic Museum. After a traditional lunch, you'll head to the second highlight, the Aldeia Ruiva River Beach, where you'll relax for the entire afternoon. This road trip combines scenic highlights with the town's historic core and a refreshing nature experience."
+        "en": "Your car day starts with a bang at the Portas de Almourão Viewpoint, where you'll enjoy a spectacular view. After a quick stop at the ancient Roman Bridge of Alvito, you'll drive to the center of Proença-a-Nova. Here, you park and explore the first cluster on foot: the Main Church and the Ethnographic Museum. After a traditional lunch, you'll head to the second highlight, the Aldeia Ruiva River Beach, where you'll relax for the entire afternoon. This road trip combines scenic highlights with the town's historic core and a refreshing nature experience.",
+        "pt": "O seu dia de carro começa em grande no Miradouro das Portas de Almourão, onde desfrutará de uma vista espetacular. Depois de uma paragem rápida na antiga Ponte Romana de Alvito, conduzirá até ao centro de Proença-a-Nova. Aqui, estaciona e explora o primeiro itinerário a pé: a Igreja Matriz e o Museu Etnográfico. Após um almoço tradicional, dirige-se ao segundo destaque, a Praia Fluvial da Aldeia Ruiva, onde se relaxará durante toda a tarde. Esta viagem combina pontos panorâmicos com o núcleo histórico da vila e uma experiência refrescante na natureza."
       },
       "gastro_picks": {
         "de": [
@@ -1402,6 +1507,12 @@
           "Park in the center to explore the town comfortably on foot.",
           "The roads to the viewpoints can be narrow and winding, drive carefully.",
           "Pack swimwear and towels for the river beach."
+        ],
+        "pt": [
+          "Um carro é ideal para alcançar as atrações naturais mais distantes.",
+          "Estacione no centro para explorar a vila confortavelmente a pé.",
+          "As estradas para os miradouros podem ser estreitas e sinuosas, conduza com cuidado.",
+          "Leve fato de banho e toalhas para a praia fluvial."
         ]
       },
       "variants": {
@@ -1410,7 +1521,8 @@
             "de": "Die Fahrt zu den Portas de Almourão bietet bei Regen ein mystisches Bild, wenn Nebel in der Schlucht hängt. Die römische Brücke wirkt in den grauen Tönen der Landschaft besonders geschichtsträchtig. Mittags parken wir bequem im Zentrum, um die Museen und die Kirche trocken zu erreichen. Da der Flussstrand Aldeia Ruiva bei Regen weniger einlädt, nutzen wir die Zeit für einen längeren Besuch im Etnographischen Museum.",
             "hu": "Az Almourão-szurdokhoz vezető út esőben misztikus látványt nyújt, ahogy a köd megül a völgyben. A római híd a táj szürke tónusaiban még inkább történelmi hangulatot áraszt. Délben kényelmesen parkolunk a központban, hogy száraz lábbal érjük el a múzeumokat és a templomot. Mivel az Aldeia Ruiva folyóparti strand esőben kevésbé vonzó, több időt szentelünk a helyi néprajzi gyűjteménynek.",
             "ro": "Drumul spre Portas de Almourão oferă o priveliște mistică pe ploaie, cu ceața plutind deasupra cheilor. Podul roman pare și mai istoric în tonurile cenușii ale peisajului. La prânz parcăm confortabil în centru pentru a ajunge uscați la muzee și biserică. Deoarece plaja fluvială Aldeia Ruiva este mai puțin primitoare pe ploaie, alocăm mai mult timp muzeului etnografic.",
-            "en": "The drive to Portas de Almourão offers a mystical view in the rain, with mist hanging over the gorge. The Roman bridge looks even more historic in the grey tones of the landscape. At noon, we park conveniently in the center to reach the museums and church without getting wet. As Aldeia Ruiva river beach is less inviting in the rain, we spend more time exploring the Ethnographic Museum."
+            "en": "The drive to Portas de Almourão offers a mystical view in the rain, with mist hanging over the gorge. The Roman bridge looks even more historic in the grey tones of the landscape. At noon, we park conveniently in the center to reach the museums and church without getting wet. As Aldeia Ruiva river beach is less inviting in the rain, we spend more time exploring the Ethnographic Museum.",
+            "pt": "A viagem para as Portas de Almourão oferece uma vista mística na chuva, com nevoeiro a pairar sobre a garganta. A ponte romana parece ainda mais histórica nos tons cinzentos da paisagem. Ao meio‑dia, estacionamos convenientemente no centro para visitar os museus e a igreja sem nos molharmos. Como a praia fluvial da Aldeia Ruiva é menos convidativa na chuva, passamos mais tempo a explorar o Museu Etnográfico."
           },
           "stops": [
             {
@@ -1419,7 +1531,8 @@
                 "de": "Vorsicht auf dem unbefestigten Parkplatz.",
                 "hu": "Vigyázzon a burkolatlan parkolóban.",
                 "ro": "Atenție în parcarea neamenajată.",
-                "en": "Be careful in the unpaved parking area."
+                "en": "Be careful in the unpaved parking area.",
+                "pt": "Tenha cuidado na zona de estacionamento por terra batida."
               }
             },
             {
@@ -1428,7 +1541,8 @@
                 "de": "Guter Blick aus dem Autofenster möglich.",
                 "hu": "Jó kilátás nyílik az autó ablakából is.",
                 "ro": "Vedere bună direct din mașină.",
-                "en": "Good view possible directly from the car."
+                "en": "Good view possible directly from the car.",
+                "pt": "Boa vista possível diretamente do carro."
               }
             },
             {
@@ -1437,7 +1551,8 @@
                 "de": "Zentraler Parkplatz direkt daneben.",
                 "hu": "Központi parkoló közvetlenül mellette.",
                 "ro": "Parcare centrală chiar lângă biserică.",
-                "en": "Central parking located right next to it."
+                "en": "Central parking located right next to it.",
+                "pt": "Estacionamento central localizado mesmo ao lado."
               }
             },
             {
@@ -1446,7 +1561,8 @@
                 "de": "Perfekt für eine ausgedehnte Regenpause.",
                 "hu": "Tökéletes egy hosszabb esőszünetre.",
                 "ro": "Perfect pentru o pauză lungă de ploaie.",
-                "en": "Perfect for an extended rain break."
+                "en": "Perfect for an extended rain break.",
+                "pt": "Perfeito para uma longa pausa em caso de chuva."
               }
             },
             {
@@ -1455,7 +1571,8 @@
                 "de": "Viele Restaurants haben nahegelegene Parkplätze.",
                 "hu": "Sok étterem közelében van parkolóhely.",
                 "ro": "Multe restaurante au parcări în apropiere.",
-                "en": "Many restaurants have nearby parking spaces."
+                "en": "Many restaurants have nearby parking spaces.",
+                "pt": "Muitos restaurantes têm lugares de estacionamento nas imediações."
               }
             },
             {
@@ -1464,7 +1581,8 @@
                 "de": "Besuch nur für einen kurzen Blick auf den Fluss.",
                 "hu": "Csak egy rövid folyóparti nézelődésre érdemes.",
                 "ro": "Vizită scurtă doar pentru a vedea râul.",
-                "en": "Visit just for a quick look at the river."
+                "en": "Visit just for a quick look at the river.",
+                "pt": "Visite apenas para espreitar o rio."
               }
             },
             {
@@ -1473,7 +1591,8 @@
                 "de": "Fahrt bei Regen erfordert erhöhte Aufmerksamkeit.",
                 "hu": "Az esőben való vezetés fokozott figyelmet igényel.",
                 "ro": "Condusul pe ploaie necesită atenție sporită.",
-                "en": "Driving in the rain requires extra attention."
+                "en": "Driving in the rain requires extra attention.",
+                "pt": "Conduzir na chuva requer atenção extra."
               }
             }
           ],
@@ -1501,6 +1620,12 @@
               "Park near the museum in the center.",
               "Viewpoints might be foggy during heavy rain.",
               "Use the car heater to defog the windshield."
+            ],
+            "pt": [
+              "Cuidado com o aquaplaning em estradas rurais.",
+              "Estacione perto do museu no centro.",
+              "Os miradouros podem estar com nevoeiro durante chuva intensa.",
+              "Use o aquecedor do carro para desembaçar o para‑brisas."
             ]
           }
         },
@@ -1509,7 +1634,8 @@
             "de": "Die morgendliche Fahrt nach Portas de Almourão belohnt uns mit klarem Himmel und schroffen Felsformationen. An der römischen Brücke genießen wir die Stille der Natur, bevor wir zum Mittagessen ins lebendige Proença-a-Nova zurückkehren. Der Nachmittag gehört der Kultur im Museum und der Besinnlichkeit in der Kirche. Zum Abschluss besuchen wir den Flussstrand Aldeia Ruiva, der im Winterlicht eine melancholische Schönheit besitzt, bevor wir im Warmen einkehren.",
             "hu": "A reggeli út az Almourão-szurdokhoz tiszta égbolttal és éles sziklaformációkkal jutalmaz minket. A római hídnál élvezzük a természet csendjét, mielőtt visszatérnénk ebédelni a nyüzsgő Proença-a-Novába. A délután a múzeumi kultúráé és a templomi elcsendesedésé. Végül meglátogatjuk az Aldeia Ruiva folyóparti strandot, amely a téli fényekben melankolikus szépséget áraszt, majd egy meleg helyre húzódunk be.",
             "ro": "Drumul de dimineață spre Portas de Almourão ne răsplătește cu un cer senin și formațiuni stâncoase abrupte. La podul roman ne bucurăm de liniștea naturii înainte de a reveni pentru prânz în Proença-a-Nova. După-amiaza este dedicată culturii la muzeu și reculegerii în biserică. La final, vizităm plaja fluvială Aldeia Ruiva, care are o frumusețe melancolică în lumina iernii.",
-            "en": "The morning drive to Portas de Almourão rewards us with clear skies and rugged rock formations. At the Roman bridge, we enjoy the silence of nature before returning to Proença-a-Nova for lunch. The afternoon is dedicated to culture at the museum and quiet reflection in the church. We end by visiting Aldeia Ruiva river beach, which possesses a melancholic beauty in the winter light."
+            "en": "The morning drive to Portas de Almourão rewards us with clear skies and rugged rock formations. At the Roman bridge, we enjoy the silence of nature before returning to Proença-a-Nova for lunch. The afternoon is dedicated to culture at the museum and quiet reflection in the church. We end by visiting Aldeia Ruiva river beach, which possesses a melancholic beauty in the winter light.",
+            "pt": "A viagem matinal para as Portas de Almourão recompensa‑nos com céus limpos e formações rochosas imponentes. Na ponte romana, desfrutamos do silêncio da natureza antes de regressar a Proença-a-Nova para almoçar. A tarde é dedicada à cultura no museu e à reflexão tranquila na igreja. Terminamos visitando a praia fluvial da Aldeia Ruiva, que possui uma beleza melancólica na luz de inverno."
           },
           "stops": [
             {
@@ -1518,7 +1644,8 @@
                 "de": "Klare Sicht, ideal für Landschaftsfotografie.",
                 "hu": "Tiszta látási viszonyok, ideális tájfotózáshoz.",
                 "ro": "Vizibilitate bună, ideal pentru fotografii.",
-                "en": "Clear views, ideal for landscape photography."
+                "en": "Clear views, ideal for landscape photography.",
+                "pt": "Vistas limpas, ideal para fotografia de paisagem."
               }
             },
             {
@@ -1527,7 +1654,8 @@
                 "de": "Wenig Besucher, sehr ruhige Atmosphäre.",
                 "hu": "Kevés látogató, nagyon nyugodt hangulat.",
                 "ro": "Puțini vizitatori, atmosferă foarte calmă.",
-                "en": "Few visitors, very peaceful atmosphere."
+                "en": "Few visitors, very peaceful atmosphere.",
+                "pt": "Poucos visitantes, atmosfera muito tranquila."
               }
             },
             {
@@ -1536,7 +1664,8 @@
                 "de": "Kurze Wege im historischen Kern.",
                 "hu": "Rövid sétatávolságok a történelmi magban.",
                 "ro": "Distanțe scurte în centrul istoric.",
-                "en": "Short walking distances in the historic core."
+                "en": "Short walking distances in the historic core.",
+                "pt": "Curtas distâncias a pé no núcleo histórico."
               }
             },
             {
@@ -1545,7 +1674,8 @@
                 "de": "Interessante Ausstellungen zur ländlichen Arbeit.",
                 "hu": "Érdekes kiállítások a vidéki munkáról.",
                 "ro": "Expoziții interesante despre viața rurală.",
-                "en": "Interesting exhibits on rural life."
+                "en": "Interesting exhibits on rural life.",
+                "pt": "Exposições interessantes sobre a vida rural."
               }
             },
             {
@@ -1554,7 +1684,8 @@
                 "de": "Probieren Sie saisonale Wildgerichte.",
                 "hu": "Kóstolja meg a szezonális vadételeket.",
                 "ro": "Încercați preparatele sezoniere din vânat.",
-                "en": "Try seasonal game dishes."
+                "en": "Try seasonal game dishes.",
+                "pt": "Experimente pratos sazonais de caça."
               }
             },
             {
@@ -1563,7 +1694,8 @@
                 "de": "Schöner Ort für einen Winterspaziergang.",
                 "hu": "Szép helyszín egy téli sétához.",
                 "ro": "Loc frumos pentru o plimbare de iarnă.",
-                "en": "Beautiful spot for a winter walk."
+                "en": "Beautiful spot for a winter walk.",
+                "pt": "Lindo local para um passeio de inverno."
               }
             },
             {
@@ -1572,7 +1704,8 @@
                 "de": "Fahrt in der Dämmerung: Vorsicht vor Wildwechsel.",
                 "hu": "Vezetés szürkületben: vigyázzon a vadakra.",
                 "ro": "Atenție la animalele sălbatice pe amurg.",
-                "en": "Driving at dusk: watch out for wildlife."
+                "en": "Driving at dusk: watch out for wildlife.",
+                "pt": "Ao conduzir ao anoitecer: atenção à fauna selvagem."
               }
             }
           ],
@@ -1600,6 +1733,12 @@
               "Mountain roads can be shaded and cool in winter.",
               "Bring a blanket for breaks in the car.",
               "Refuel in time; gas stations can be far apart."
+            ],
+            "pt": [
+              "Verifique o antiviamento no depósito do limpa‑vidros.",
+              "As estradas de montanha podem ficar sombreadas e frescas no inverno.",
+              "Traga uma manta para as pausas no carro.",
+              "Abasteça a tempo; os postos de combustível podem ficar distantes."
             ]
           }
         }
@@ -1618,7 +1757,8 @@
             "de": "Ankunft im Zentrum (Cluster A)",
             "hu": "Érkezés a központba (A klaszter)",
             "ro": "Sosire în centru (Cluster A)",
-            "en": "Arrival in the Center (Cluster A)"
+            "en": "Arrival in the Center (Cluster A)",
+            "pt": "Chegada ao Centro (Itinerário A)"
           },
           "coords": [
             -7.9338,
@@ -1633,7 +1773,8 @@
             "de": "Steigen Sie an der zentralen Bushaltestelle aus und beginnen Sie Ihre Erkundung.",
             "hu": "Szálljon le a központi buszmegállóban, és kezdje meg a felfedezést.",
             "ro": "Coborâți la stația centrală de autobuz și începeți explorarea.",
-            "en": "Get off at the central bus stop and start your exploration."
+            "en": "Get off at the central bus stop and start your exploration.",
+            "pt": "Desça na paragem central de autocarro e comece a sua exploração."
           }
         },
         {
@@ -1641,7 +1782,8 @@
             "de": "Igreja Matriz de Proença-a-Nova",
             "hu": "Proença-a-Nova főtemploma",
             "ro": "Biserica Matriz din Proença-a-Nova",
-            "en": "Main Church of Proença-a-Nova"
+            "en": "Main Church of Proença-a-Nova",
+            "pt": "Igreja Matriz de Proença-a-Nova"
           },
           "coords": [
             -7.9338,
@@ -1656,7 +1798,8 @@
             "de": "Die Hauptkirche liegt direkt im Zentrum und ist der erste Halt.",
             "hu": "A főtemplom közvetlenül a központban található, ez az első megálló.",
             "ro": "Biserica principală este chiar în centru și este prima oprire.",
-            "en": "The main church is right in the center and is the first stop."
+            "en": "The main church is right in the center and is the first stop.",
+            "pt": "A igreja matriz fica mesmo no centro e é a primeira paragem."
           }
         },
         {
@@ -1664,7 +1807,8 @@
             "de": "Museu Etnográfico",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul Etnografic",
-            "en": "Ethnographic Museum"
+            "en": "Ethnographic Museum",
+            "pt": "Museu Etnográfico"
           },
           "coords": [
             -7.9355,
@@ -1679,7 +1823,8 @@
             "de": "Ein kurzer Spaziergang durch die charmanten Straßen zum Museum.",
             "hu": "Rövid séta a hangulatos utcákon a múzeumig.",
             "ro": "O scurtă plimbare pe străzile fermecătoare până la muzeu.",
-            "en": "A short walk through the charming streets to the museum."
+            "en": "A short walk through the charming streets to the museum.",
+            "pt": "Uma curta caminhada pelas encantadoras ruas até ao museu."
           }
         },
         {
@@ -1687,7 +1832,8 @@
             "de": "Jardim das Plantas",
             "hu": "Növénykert",
             "ro": "Grădina Botanică",
-            "en": "Garden of Plants"
+            "en": "Garden of Plants",
+            "pt": "Jardim das Plantas"
           },
           "coords": [
             -7.9325,
@@ -1702,7 +1848,8 @@
             "de": "Entspannen Sie sich vor dem Mittagessen im Stadtgarten.",
             "hu": "Pihenjen ebéd előtt a városi kertben.",
             "ro": "Relaxați-vă în grădina orașului înainte de prânz.",
-            "en": "Relax in the city garden before lunch."
+            "en": "Relax in the city garden before lunch.",
+            "pt": "Descanse no jardim da cidade antes do almoço."
           }
         },
         {
@@ -1710,7 +1857,8 @@
             "de": "Busfahrt zum Cluster B & Mittagessen",
             "hu": "Buszozás a B klaszterbe és ebéd",
             "ro": "Călătorie cu autobuzul către Cluster B și prânz",
-            "en": "Bus ride to Cluster B & Lunch"
+            "en": "Bus ride to Cluster B & Lunch",
+            "pt": "Viagem de autocarro para o Itinerário B e almoço"
           },
           "coords": [
             -7.94,
@@ -1725,7 +1873,8 @@
             "de": "Nehmen Sie einen lokalen Bus zum nächsten Cluster und finden Sie ein Restaurant für das Mittagessen.",
             "hu": "Menjen helyi busszal a következő klaszterbe, és keressen egy éttermet ebédre.",
             "ro": "Luați un autobuz local către următorul cluster și găsiți un restaurant pentru prânz.",
-            "en": "Take a local bus to the next cluster and find a restaurant for lunch."
+            "en": "Take a local bus to the next cluster and find a restaurant for lunch.",
+            "pt": "Apanhe um autocarro local para o próximo itinerário e procure um restaurante para almoçar."
           }
         },
         {
@@ -1733,7 +1882,8 @@
             "de": "Centro Ciência Viva da Floresta",
             "hu": "Az Erdő Élő Tudomány Központja",
             "ro": "Centrul de Știință Vie a Pădurii",
-            "en": "Forest Science Live Center"
+            "en": "Forest Science Live Center",
+            "pt": "Centro Ciência Viva da Floresta"
           },
           "coords": [
             -7.941,
@@ -1748,7 +1898,8 @@
             "de": "Der Nachmittag ist der interaktiven Erkundung des Waldes gewidmet.",
             "hu": "A délután az erdő interaktív felfedezésének van szentelve.",
             "ro": "După-amiaza este dedicată explorării interactive a pădurii.",
-            "en": "The afternoon is dedicated to the interactive exploration of the forest."
+            "en": "The afternoon is dedicated to the interactive exploration of the forest.",
+            "pt": "A tarde é dedicada à exploração interativa da floresta."
           }
         }
       ],
@@ -1756,7 +1907,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Herzen von Proença-a-Nova. Vom zentralen Busbahnhof aus erkunden Sie den ersten Cluster zu Fuß: die Igreja Matriz, das Museu Etnográfico und den entspannenden Jardim das Plantas. Am Mittag nehmen Sie einen lokalen Bus, der Sie in die Nähe des Centro Ciência Viva bringt, wo Sie zu Mittag essen. Der gesamte Nachmittag ist dem interaktiven Wissenschaftszentrum gewidmet. Diese Tour zeigt, wie man das kulturelle Zentrum und die wissenschaftlichen Attraktionen der Stadt auch ohne Auto effizient verbinden kann.",
         "hu": "A tömegközlekedéssel töltött nap Proença-a-Nova szívében kezdődik. A központi buszpályaudvarról gyalogosan fedezi fel az első klasztert: a főtemplomot, a Néprajzi Múzeumot és a pihentető Növénykertet. Délben egy helyi busszal eljut a Ciência Viva Központ közelébe, ahol megebédel. Az egész délutánt az interaktív tudományos központnak szenteli. Ez a túra megmutatja, hogyan lehet hatékonyan összekötni a város kulturális központját és tudományos látványosságait autó nélkül is.",
         "ro": "Ziua dumneavoastră cu transportul public începe în inima orașului Proença-a-Nova. De la autogara centrală, explorați primul cluster pe jos: Biserica Matriz, Muzeul Etnografic și relaxanta Grădină Botanică. La prânz, luați un autobuz local care vă duce în apropierea Centrului Ciência Viva, unde luați masa de prânz. Întreaga după-amiază este dedicată centrului interactiv de știință. Acest tur demonstrează cum puteți conecta eficient centrul cultural și atracțiile științifice ale orașului chiar și fără mașină.",
-        "en": "Your day using public transport begins in the heart of Proença-a-Nova. From the central bus station, you'll explore the first cluster on foot: the Main Church, the Ethnographic Museum, and the relaxing Garden of Plants. At midday, you'll take a local bus to the vicinity of the Ciência Viva Center, where you'll have lunch. The entire afternoon is dedicated to the interactive science center. This tour demonstrates how to efficiently connect the city's cultural center and scientific attractions even without a car."
+        "en": "Your day using public transport begins in the heart of Proença-a-Nova. From the central bus station, you'll explore the first cluster on foot: the Main Church, the Ethnographic Museum, and the relaxing Garden of Plants. At midday, you'll take a local bus to the vicinity of the Ciência Viva Center, where you'll have lunch. The entire afternoon is dedicated to the interactive science center. This tour demonstrates how to efficiently connect the city's cultural center and scientific attractions even without a car.",
+        "pt": "O seu dia em transportes públicos começa no coração de Proença-a-Nova. A partir da estação central de autocarros, explorará o primeiro itinerário a pé: a Igreja Matriz, o Museu Etnográfico e o relaxante Jardim das Plantas. Ao meio‑dia, apanhará um autocarro local até à área do Centro Ciência Viva, onde almoçará. A tarde inteira é dedicada ao centro de ciência interativo. Este percurso demonstra como ligar de forma eficiente o centro cultural da vila e as atrações científicas mesmo sem carro."
       },
       "gastro_picks": {
         "de": [
@@ -1932,6 +2084,12 @@
           "A day ticket might be cheaper than single tickets.",
           "Be at the bus stop on time, especially for infrequent services.",
           "Most sights within a cluster are easily accessible on foot."
+        ],
+        "pt": [
+          "Consulte os horários dos autocarros com antecedência, pois as frequências podem variar.",
+          "Um bilhete diário pode ser mais barato do que bilhetes simples.",
+          "Esteja na paragem a tempo, especialmente para serviços pouco frequentes.",
+          "A maioria dos pontos num itinerário é facilmente acessível a pé."
         ]
       },
       "variants": {
@@ -1940,7 +2098,8 @@
             "de": "Wir erreichen das Zentrum und nutzen die kurzen Wege zwischen Kirche und Museum, um dem Regen zu entgehen. Die Hauptkirche bietet eine besinnliche Pause im Trockenen. Nach einem ausgiebigen Mittagessen nehmen wir den Bus zum Wald-Wissenschaftszentrum. Dort verbringen wir den Nachmittag wettergeschützt bei den spannenden Exponaten, bevor wir die Rückfahrt antreten, während der Regen gegen die Scheiben des Busses peitscht.",
             "hu": "A központba érkezve kihasználjuk a templom és a múzeum közelségét, hogy minél kevesebbet legyünk kint az esőben. A főtemplom meghitt, száraz pihenőt kínál. Egy bőséges ebéd után busszal utazunk az erdészeti központba. Ott a délutánt az esőtől védve, izgalmas kiállítások között töltjük, majd a busz ablakán kopogó esőt figyelve indulunk vissza.",
             "ro": "Ajunși în centru, profităm de apropierea dintre biserică și muzeu pentru a sta cât mai puțin în ploaie. Biserica principală oferă un răgaz liniștit și uscat. După un prânz copios, luăm autobuzul spre Centrul de Știință. Acolo petrecem după-amiaza protejați de vreme, printre exponate interesante, înainte de a ne întoarce ascultând ploaia pe geamul autobuzului.",
-            "en": "Arriving in the center, we take advantage of the proximity between the church and museum to avoid the rain. The Main Church offers a peaceful, dry break. After a satisfying lunch, we take the bus to the Forest Science Center. We spend the afternoon protected from the weather among exciting exhibits before heading back, watching the rain on the bus windows."
+            "en": "Arriving in the center, we take advantage of the proximity between the church and museum to avoid the rain. The Main Church offers a peaceful, dry break. After a satisfying lunch, we take the bus to the Forest Science Center. We spend the afternoon protected from the weather among exciting exhibits before heading back, watching the rain on the bus windows.",
+            "pt": "Ao chegar ao centro, aproveitamos a proximidade entre a igreja e o museu para evitar a chuva. A Igreja Matriz oferece uma pausa tranquila e abrigada. Após um almoço satisfatório, apanhamos o autocarro para o Centro da Floresta. Passamos a tarde protegidos do tempo entre exposições entusiasmantes antes de regressar, observando a chuva nas janelas do autocarro."
           },
           "stops": [
             {
@@ -1949,7 +2108,8 @@
                 "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
                 "hu": "A központi buszmegállók többnyire fedettek.",
                 "ro": "Stațiile de autobuz din centru sunt în general acoperite.",
-                "en": "Bus stops in the center are mostly covered."
+                "en": "Bus stops in the center are mostly covered.",
+                "pt": "As paragens no centro são maioritariamente cobertas."
               }
             },
             {
@@ -1958,7 +2118,8 @@
                 "de": "Nur ein kurzer Fußweg von der Haltestelle.",
                 "hu": "Csak rövid séta a megállótól.",
                 "ro": "Doar o scurtă plimbare de la stație.",
-                "en": "Just a short walk from the stop."
+                "en": "Just a short walk from the stop.",
+                "pt": "Apenas uma curta caminhada desde a paragem."
               }
             },
             {
@@ -1967,7 +2128,8 @@
                 "de": "Ideal, um auf den nächsten Bus zu warten.",
                 "hu": "Ideális hely a következő busz megvárására.",
                 "ro": "Loc ideal pentru a aștepta următorul autobuz.",
-                "en": "Ideal place to wait for the next bus."
+                "en": "Ideal place to wait for the next bus.",
+                "pt": "Local ideal para esperar pelo próximo autocarro."
               }
             },
             {
@@ -1976,7 +2138,8 @@
                 "de": "Große Bäume bieten einen gewissen Schutz.",
                 "hu": "A nagy fák némi védelmet nyújtanak.",
                 "ro": "Copacii mari oferă o oarecare protecție.",
-                "en": "Large trees offer some protection."
+                "en": "Large trees offer some protection.",
+                "pt": "Grandes árvores oferecem alguma proteção."
               }
             },
             {
@@ -1985,7 +2148,8 @@
                 "de": "Genießen Sie die trockene Fahrt im Bus.",
                 "hu": "Élvezze a száraz utazást a buszon.",
                 "ro": "Bucurați-vă de drumul uscat în autobuz.",
-                "en": "Enjoy the dry ride on the bus."
+                "en": "Enjoy the dry ride on the bus.",
+                "pt": "Desfrute da viagem seca no autocarro."
               }
             },
             {
@@ -1994,7 +2158,8 @@
                 "de": "Bushaltestelle direkt am Eingang.",
                 "hu": "Buszmegálló közvetlenül a bejáratnál.",
                 "ro": "Stație de autobuz chiar la intrare.",
-                "en": "Bus stop right at the entrance."
+                "en": "Bus stop right at the entrance.",
+                "pt": "Paragem de autocarro mesmo à entrada."
               }
             }
           ],
@@ -2022,6 +2187,12 @@
               "Wear shoes with good grip for wet asphalt.",
               "It might be humid inside the bus due to wet clothes.",
               "Coordinate museum visits with bus departure times."
+            ],
+            "pt": [
+              "Verifique os horários dos autocarros com antecedência, pois podem variar.",
+              "Use sapatos com boa aderência para o alcatrão molhado.",
+              "Pode estar húmido dentro do autocarro devido a roupas molhadas.",
+              "Coordene as visitas aos museus com os horários de partida dos autocarros."
             ]
           }
         },
@@ -2030,7 +2201,8 @@
             "de": "Wir starten unsere Tour im winterlichen Zentrum. Die kurzen Wege ermöglichen es uns, viel Zeit im Warmen der Kirche und des Museums zu verbringen. Ein nahrhaftes Mittagessen mit regionalen Produkten gibt uns Kraft für den Nachmittag. Mit dem Bus fahren wir zum Wissenschaftszentrum, wo wir bis zur Dämmerung bleiben und die interaktiven Stationen nutzen. Die Rückfahrt im beheizten Bus bietet einen gemütlichen Ausklang des Tages.",
             "hu": "Túránkat a téli hangulatú központban kezdjük. A rövid távolságok lehetővé teszik, hogy sok időt töltsünk a templom és a múzeum melegében. Egy tápláló, helyi alapanyagokból készült ebéd erőt ad a délutánhoz. Busszal utazunk az erdészeti központba, ahol sötétedésig maradunk, kihasználva az interaktív állomásokat. A fűtött buszon való visszautazás kellemes zárása a napnak.",
             "ro": "Începem turul în centrul cu atmosferă de iarnă. Distanțele scurte ne permit să petrecem mult timp la căldură în biserică și muzeu. Un prânz hrănitor cu produse regionale ne dă energie pentru după-amiază. Mergem cu autobuzul la Centrul de Știință, unde rămânem până la amurg folosind stațiile interactive. Întoarcerea cu autobuzul încălzit oferă un final confortabil zilei.",
-            "en": "We start our tour in the winter-themed center. The short distances allow us to spend plenty of time in the warmth of the church and museum. A nutritious lunch with regional products gives us energy for the afternoon. We take the bus to the Science Center, staying until dusk to enjoy the interactive stations. The return trip on the heated bus provides a cozy end to the day."
+            "en": "We start our tour in the winter-themed center. The short distances allow us to spend plenty of time in the warmth of the church and museum. A nutritious lunch with regional products gives us energy for the afternoon. We take the bus to the Science Center, staying until dusk to enjoy the interactive stations. The return trip on the heated bus provides a cozy end to the day.",
+            "pt": "Começamos o nosso passeio no centro com temática de inverno. As curtas distâncias permitem passar bastante tempo no conforto da igreja e do museu. Um almoço nutritivo com produtos regionais dá‑nos energia para a tarde. Apanhamos o autocarro para o Centro de Ciência e ficamos até ao anoitecer para desfrutar das estações interativas. A viagem de regresso no autocarro aquecido proporciona um fim acolhedor ao dia."
           },
           "stops": [
             {
@@ -2039,7 +2211,8 @@
                 "de": "Haltestelle liegt im windgeschützten Bereich.",
                 "hu": "A megálló szélvédett területen található.",
                 "ro": "Stația se află într-o zonă ferită de vânt.",
-                "en": "The stop is located in a wind-protected area."
+                "en": "The stop is located in a wind-protected area.",
+                "pt": "A paragem está situada numa área protegida do vento."
               }
             },
             {
@@ -2048,7 +2221,8 @@
                 "de": "Ruhiger Ort zur inneren Einkehr.",
                 "hu": "Csendes hely a lelki feltöltődéshez.",
                 "ro": "Loc liniștit pentru reculegere.",
-                "en": "Quiet place for inner reflection."
+                "en": "Quiet place for inner reflection.",
+                "pt": "Local tranquilo para reflexão interior."
               }
             },
             {
@@ -2057,7 +2231,8 @@
                 "de": "Ausstellungen sind auch im Winter sehenswert.",
                 "hu": "A kiállítások télen is érdemesek a látogatásra.",
                 "ro": "Expozițiile merită vizitate și iarna.",
-                "en": "The exhibits are worth visiting even in winter."
+                "en": "The exhibits are worth visiting even in winter.",
+                "pt": "As exposições valem a visita mesmo no inverno."
               }
             },
             {
@@ -2066,7 +2241,8 @@
                 "de": "Kurzer Spaziergang vor dem nächsten Bus.",
                 "hu": "Rövid séta a következő busz előtt.",
                 "ro": "Scurtă plimbare înainte de următorul autobuz.",
-                "en": "Short walk before the next bus."
+                "en": "Short walk before the next bus.",
+                "pt": "Curta caminhada antes do próximo autocarro."
               }
             },
             {
@@ -2075,7 +2251,8 @@
                 "de": "Aufwärmen während der kurzen Fahrt.",
                 "hu": "Melegedjen fel a rövid utazás alatt.",
                 "ro": "Încălziți-vă în timpul călătoriei scurte.",
-                "en": "Warm up during the short ride."
+                "en": "Warm up during the short ride.",
+                "pt": "Aqueça‑se durante a curta viagem."
               }
             },
             {
@@ -2084,7 +2261,8 @@
                 "de": "Nutzen Sie die letzte Busverbindung rechtzeitig.",
                 "hu": "Időben érje el az utolsó buszjáratot.",
                 "ro": "Prindeți ultima cursă de autobuz la timp.",
-                "en": "Catch the last bus connection in time."
+                "en": "Catch the last bus connection in time.",
+                "pt": "Apanhe a última ligação de autocarro a tempo."
               }
             }
           ],
@@ -2112,6 +2290,12 @@
               "Have small change ready for the bus ticket.",
               "Buses are usually well-heated in winter.",
               "Plan some buffer time for the return trip."
+            ],
+            "pt": [
+              "Cuidado com horários limitados em feriados.",
+              "Tenha trocos à mão para o bilhete do autocarro.",
+              "Os autocarros costumam ser bem aquecidos no inverno.",
+              "Planeie algum tempo de reserva para a viagem de regresso."
             ]
           }
         }

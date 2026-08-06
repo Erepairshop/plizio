@@ -21,7 +21,8 @@
             "de": "Museum für Meer und Land",
             "hu": "Tenger és Föld Múzeum",
             "ro": "Muzeul Mării și Pământului",
-            "en": "Museum of the Sea and Land"
+            "en": "Museum of the Sea and Land",
+            "pt": "Museu do Mar e da Terra"
           },
           "coords": [
             -8.893426,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie hier lokale Traditionen und maritime Geschichte, und achten Sie unbedingt auf die faszinierenden Modelle von Fischerbooten.",
             "hu": "Ismerje meg a helyi hagyományokat és a tengerészeti történelmet itt, de mindenképp vegye szemügyre a halászhajó-modelleket indulás előtt.",
             "ro": "Descoperiți tradițiile locale și istoria maritimă aici și asigurați-vă că verificați fascinantele modele de bărci de pescuit din lemn.",
-            "en": "Explore local traditions and maritime history here, and make sure to check out the fascinating fishing boat models before starting your walk."
+            "en": "Explore local traditions and maritime history here, and make sure to check out the fascinating fishing boat models before starting your walk.",
+            "pt": "Explore aqui as tradições locais e a história marítima; não deixe de ver os fascinantes modelos de barcos de pesca antes de iniciar a sua caminhada."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Festung von Carrapateira",
             "hu": "Carrapateira Erőd",
             "ro": "Fortăreața Carrapateira",
-            "en": "Carrapateira Fortress"
+            "en": "Carrapateira Fortress",
+            "pt": "Fortaleza da Carrapateira"
           },
           "coords": [
             -8.895199,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie diese Küstenfestung, um die alten Verteidigungsanlagen zu sehen, und tragen Sie festes Schuhwerk auf den unebenen Mauern.",
             "hu": "Látogasson el a tengerparti erődbe, hogy megcsodálja az ősi védműveket, és viseljen kényelmes cipőt a történelmi várfalakon.",
             "ro": "Vizitați acest fort de coastă pentru a vedea structurile defensive antice și purtați încălțăminte robustă pe zidurile istorice inegale.",
-            "en": "Visit this coastal fort to see the ancient defensive structures and wear sturdy shoes to safely walk along the uneven historical walls."
+            "en": "Visit this coastal fort to see the ancient defensive structures and wear sturdy shoes to safely walk along the uneven historical walls.",
+            "pt": "Visite esta fortificação costeira para ver as antigas estruturas defensivas e calce sapatos resistentes para caminhar com segurança pelas muralhas históricas irregulares."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Strand von Bordeira",
             "hu": "Bordeira-part",
             "ro": "Plaja Bordeira",
-            "en": "Bordeira Beach"
+            "en": "Bordeira Beach",
+            "pt": "Praia da Bordeira"
           },
           "coords": [
             -8.900219,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die weiten Dünen und die tosenden Wellen dieses spektakulären Strandes, aber bringen Sie unbedingt eine Windjacke mit.",
             "hu": "Csodálja meg a hatalmas homokdűnéket és az óceán hullámait, de hozzon magával széldzsekit az erős és folyamatos óceáni szellő miatt.",
             "ro": "Admirați dunele vaste și valurile zgomotoase ale acestei plaje spectaculoase, dar aduceți o jachetă de vânt, deoarece briza oceanului este puternică.",
-            "en": "Admire the vast dunes and crashing waves of this spectacular beach, but bring a windbreaker as the ocean breeze can be quite strong."
+            "en": "Admire the vast dunes and crashing waves of this spectacular beach, but bring a windbreaker as the ocean breeze can be quite strong.",
+            "pt": "Admire as vastas dunas e as vagas a rebentar desta praia espectacular; leve um corta-vento, pois a brisa do oceano pode ser bastante forte."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Praia da Zimbreirinha",
             "hu": "Praia da Zimbreirinha",
             "ro": "Praia da Zimbreirinha",
-            "en": "Praia da Zimbreirinha"
+            "en": "Praia da Zimbreirinha",
+            "pt": "Praia da Zimbreirinha"
           },
           "coords": [
             -8.913917,
@@ -105,7 +112,8 @@
             "de": "Bestaunen Sie die an den Klippen hängenden hölzernen Fischerplattformen und bleiben Sie beim Fotografieren unbedingt hinter den Sicherheitszäunen.",
             "hu": "Csodálja meg a sziklákra függesztett fából készült halászplatformokat, és maradjon a biztonsági kerítés mögött fotózás közben az extrém magasság miatt.",
             "ro": "Minunați-vă de platformele de pescuit din lemn suspendate pe stânci și rămâneți în spatele gardurilor de siguranță când faceți fotografii.",
-            "en": "Marvel at the wooden fishing platforms suspended on the cliffs and stay strictly behind the safety fences when taking your breathtaking photos."
+            "en": "Marvel at the wooden fishing platforms suspended on the cliffs and stay strictly behind the safety fences when taking your breathtaking photos.",
+            "pt": "Maravilhe-se com as plataformas de pesca em madeira suspensas nos penhascos e mantenha-se estritamente atrás das grades de proteção ao tirar as suas fotos impressionantes."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Islamisches Fischerdorf",
             "hu": "Iszlám Halászfalu",
             "ro": "Satul Islamic de Pescari",
-            "en": "Islamic Fishing Village"
+            "en": "Islamic Fishing Village",
+            "pt": "Aldeia de Pescadores Islâmica"
           },
           "coords": [
             -8.907891,
@@ -128,7 +137,8 @@
             "de": "Schlendern Sie durch die Ruinen dieser Siedlung aus dem 12. Jahrhundert und lesen Sie die informativen Tafeln zur mittelalterlichen Geschichte.",
             "hu": "Sétáljon végig a 12. századi település romjain, és olvassa el az információs táblákat a középkori mindennapi élet pontosabb megértéséhez.",
             "ro": "Plimbați-vă prin ruinele acestei așezări din secolul al XII-lea și citiți plăcuțele informative pentru a înțelege structura unică a zonei.",
-            "en": "Wander through the ruins of this 12th-century settlement to imagine medieval life, reading the informative plaques to understand the coastal layout."
+            "en": "Wander through the ruins of this 12th-century settlement to imagine medieval life, reading the informative plaques to understand the coastal layout.",
+            "pt": "Percorra as ruínas deste povoado do século XII para imaginar a vida medieval, lendo os painéis informativos para entender a configuração costeira."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Praia do Portinho do Forno",
             "hu": "Praia do Portinho do Forno",
             "ro": "Praia do Portinho do Forno",
-            "en": "Praia do Portinho do Forno"
+            "en": "Praia do Portinho do Forno",
+            "pt": "Praia do Portinho do Forno"
           },
           "coords": [
             -8.907793,
@@ -151,7 +162,8 @@
             "de": "Entspannen Sie sich in dieser kleinen, malerischen Bucht, die für ihre Felsformationen bekannt ist, und kommen Sie früh für einen guten Platz.",
             "hu": "Pihenjen ebben a festői kis öbölben, amely a drámai sziklaalakzatairól ismert, és érkezzen korán a legjobb helyekért a kavicsos parton.",
             "ro": "Relaxați-vă în acest mic golf pitoresc cunoscut pentru formațiunile sale stâncoase și ajungeți devreme pentru a prinde un loc bun la soare.",
-            "en": "Relax at this small, picturesque cove known for its dramatic rock formations, arriving early to secure a comfortable spot on the pebbles."
+            "en": "Relax at this small, picturesque cove known for its dramatic rock formations, arriving early to secure a comfortable spot on the pebbles.",
+            "pt": "Relaxe nesta enseada pequena e pitoresca conhecida pelas suas formações rochosas dramáticas; chegue cedo para garantir um lugar confortável nas seixos."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie den Morgen mit dem lokalen Erbe im interaktiven Meeres- und Landmuseum, bevor Sie zu den historischen Festungsruinen hinübergehen. Bis zum Mittag wandern Sie auf dem malerischen Küstenweg in Richtung Bordeira und genießen die herrlichen Dünen. Der Nachmittag führt Sie entlang der spektakulären Klippen zu den alten Holzplattformen bei Zimbreirinha und dem faszinierenden islamischen Fischerdorf. Wenn der Abend naht, entspannen Sie sich am Portinho do Forno und lauschen den sanften Wellen an der felsigen Küste.",
         "hu": "Kezdje a reggelt a helyi örökség felfedezésével a Tenger és Föld Múzeumban, majd sétáljon át a történelmi erőd romjaihoz. Délben a Bordeira felé vezető festői tengerparti ösvényen halad, megcsodálva a homokdűnéket és az óceánt. A délután a látványos sziklák mentén vezet a Zimbreirinha régi fa platformjaihoz és a lenyűgöző iszlám halászfalu romjaihoz. Az este közeledtével pihenjen meg a Portinho do Forno parton, és hallgassa a sziklás partot mosó hullámok hangját.",
         "ro": "Începeți dimineața descoperind patrimoniul local la Muzeul Mării și Pământului, înainte de a păși spre ruinele istorice ale fortăreței. Până la prânz, veți merge pe traseul de coastă pitoresc spre Bordeira, admirând dunele magnifice și priveliștea oceanului. După-amiaza vă ghidează de-a lungul stâncilor spectaculoase către vechile platforme de lemn de la Zimbreirinha și fascinantele ruine ale satului islamic. Pe măsură ce se lasă seara, relaxați-vă la Portinho do Forno, ascultând valurile oceanului.",
-        "en": "Start your morning absorbing local heritage at the interactive Sea and Land Museum before stepping over to the historical fortress ruins. By midday, you'll be walking the scenic coastal trail toward Bordeira, taking in the magnificent dunes and ocean views. The afternoon guides you along the spectacular cliffs, revealing ancient wooden platforms at Zimbreirinha and the fascinating ruins of the Islamic Fishing Village. As evening sets in, unwind at Portinho do Forno, listening to the gentle crash of the waves against the shore."
+        "en": "Start your morning absorbing local heritage at the interactive Sea and Land Museum before stepping over to the historical fortress ruins. By midday, you'll be walking the scenic coastal trail toward Bordeira, taking in the magnificent dunes and ocean views. The afternoon guides you along the spectacular cliffs, revealing ancient wooden platforms at Zimbreirinha and the fascinating ruins of the Islamic Fishing Village. As evening sets in, unwind at Portinho do Forno, listening to the gentle crash of the waves against the shore.",
+        "pt": "Comece a manhã absorvendo o património local no interactivo Museu do Mar e da Terra antes de atravessar para as ruínas da fortaleza histórica. Ao meio-dia, caminhe pela trilha costeira cénica em direção à Bordeira, apreciando as magníficas dunas e as vistas do oceano. À tarde, siga ao longo dos penhascos espectaculares, descobrindo plataformas de madeira em Zimbreirinha e as fascinantes ruínas da Aldeia de Pescadores Islâmica. Ao anoitecer, relaxe no Portinho do Forno, ouvindo o suave rebentar das ondas na costa."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Morgens bietet das Museum perfekten Schutz vor den ersten Schauern. Mittags wandern wir entlang der Klippen von Bordeira, wo die Gischt und der Regen den Ozean besonders wild wirken lassen. Am Nachmittag erkunden wir das Fischerdorf; achten Sie auf den schlammigen Pfaden auf festen Tritt. Abends kehren wir durchnässt, aber erfüllt in das Dorf zurück und genießen die warme Atmosphäre im Schutz der Häuser.",
             "hu": "A napot a múzeum oltalmat adó falai között kezdjük, elkerülve a reggeli záporokat. Délben a sziklákon a szél és az eső vadabbá teszi az óceánt, de a fa pallók biztonságos utat kínálnak a part felé. Délután a halászfalu romjai között az esőfelhők drámai hátteret adnak a látványnak; a sáros úton óvatosan lépkedjünk. Estére a falu meleg fényeiben találunk menedéket a nedves tengerparti túra után.",
             "ro": "Începem ziua la adăpost în muzeu, evitând primele averse de ploaie. La prânz, faleza de la Bordeira oferă un spectacol dramatic al valurilor; purtați pelerine pentru vântul umed și puternic. După-amiaza explorăm ruinele satului islamic pe poteci care pot deveni noroioase, deci încălțămintea impermeabilă este esențială. Seara ne retragem în sat, în timp ce sunetul ploii spală stâncile de pe coastă.",
-            "en": "Start the morning sheltered in the museum, learning about the coast while the rain passes. At noon, the cliffs of Bordeira offer a dramatic view of the wild Atlantic; use the boardwalks to stay safe and dry. In the afternoon, the ruins of the fishing village look mystical under grey clouds, but watch your step on muddy paths. By evening, find comfort in the village as the rain settles over the cliffs."
+            "en": "Start the morning sheltered in the museum, learning about the coast while the rain passes. At noon, the cliffs of Bordeira offer a dramatic view of the wild Atlantic; use the boardwalks to stay safe and dry. In the afternoon, the ruins of the fishing village look mystical under grey clouds, but watch your step on muddy paths. By evening, find comfort in the village as the rain settles over the cliffs.",
+            "pt": "Comece a manhã abrigado no museu, a aprender sobre a costa enquanto a chuva passa. Ao meio-dia, os penhascos da Bordeira oferecem uma vista dramática do Atlântico selvagem; use as passadeiras de madeira para se manter seguro e seco. À tarde, as ruínas da aldeia piscatória ficam místicas sob o céu cinzento, mas tenha cuidado com os caminhos lamacentos. À noite, encontre conforto na vila enquanto a chuva assenta sobre os penhascos."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Museum für Meer und Land",
                 "hu": "Tenger és Föld Múzeum",
                 "ro": "Muzeul Mării și Pământului",
-                "en": "Museum of the Sea and Land"
+                "en": "Museum of the Sea and Land",
+                "pt": "Museu do Mar e da Terra"
               },
               "tip_5lang": {
                 "de": "Dieses Museum ist die ideale Zuflucht bei Regen; entdecken Sie die maritime Geschichte der Algarve, während Sie drinnen komplett trocken und warm bleiben.",
                 "hu": "Ez a múzeum tökéletes menedék a reggeli záporok elől; ismerje meg a partvidék történelmét szárazon és melegen, miközben kint elvonul a vihar.",
                 "ro": "Acest muzeu este refugiul ideal pe timp de ploaie; descoperiți istoria maritimă a regiunii Algarve în timp ce rămâneți uscat și la căldură în interior.",
-                "en": "This museum is the perfect refuge during morning showers; explore the rich maritime history while staying completely dry and warm inside."
+                "en": "This museum is the perfect refuge during morning showers; explore the rich maritime history while staying completely dry and warm inside.",
+                "pt": "Este museu é o refúgio perfeito durante aguaceiros matinais; explore a rica história marítima permanecendo completamente seco e aquecido no interior."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Festung von Carrapateira",
                 "hu": "Carrapateira Erőd",
                 "ro": "Fortăreața Carrapateira",
-                "en": "Carrapateira Fortress"
+                "en": "Carrapateira Fortress",
+                "pt": "Fortaleza da Carrapateira"
               },
               "tip_5lang": {
                 "de": "Die Mauern bieten etwas Schutz vor dem Wind; die nassen Steine können rutschig sein, achten Sie also besonders auf Ihren Tritt beim Fotografieren.",
                 "hu": "Az erőd falai némi szélfogót jelentenek; a nedves kövek csúszósak lehetnek, így óvatosan mozogjon a kilátópontok környékén a fotózás közben.",
                 "ro": "Zidurile oferă puțin adăpost împotriva vântului; pietrele umede pot fi alunecoase, deci aveți mare grijă unde călcați când faceți fotografii.",
-                "en": "The walls provide some shelter from the wind; the wet stones can be slippery, so watch your footing carefully while taking photos of the coast."
+                "en": "The walls provide some shelter from the wind; the wet stones can be slippery, so watch your footing carefully while taking photos of the coast.",
+                "pt": "As muralhas oferecem algum abrigo do vento; as pedras molhadas podem ser escorregadias, por isso tenha cuidado ao caminhar e fotografar a costa."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Strand von Bordeira",
                 "hu": "Bordeira-part",
                 "ro": "Plaja Bordeira",
-                "en": "Bordeira Beach"
+                "en": "Bordeira Beach",
+                "pt": "Praia da Bordeira"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die hölzernen Aussichtsplattformen, um den Regen über dem Ozean zu beobachten, ohne im tiefen, nassen Sand der Dünen stecken zu bleiben.",
                 "hu": "Használja a fa kilátóteraszokat az óceán feletti esőfelhők megfigyeléséhez, így elkerülheti, hogy cipője elmerüljön a mély, vizes homokban.",
                 "ro": "Folosiți platformele de observare din lemn pentru a vedea ploaia deasupra oceanului fără a vă afunda în nisipul ud și adânc al dunelor.",
-                "en": "Use the wooden observation decks to watch the rain over the ocean without getting stuck in the deep, wet sand of the surrounding dunes."
+                "en": "Use the wooden observation decks to watch the rain over the ocean without getting stuck in the deep, wet sand of the surrounding dunes.",
+                "pt": "Use as plataformas de observação em madeira para ver a chuva sobre o oceano sem se prender na areia profunda e encharcada das dunas envolventes."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Praia da Zimbreirinha",
                 "hu": "Praia da Zimbreirinha",
                 "ro": "Praia da Zimbreirinha",
-                "en": "Praia da Zimbreirinha"
+                "en": "Praia da Zimbreirinha",
+                "pt": "Praia da Zimbreirinha"
               },
               "tip_5lang": {
                 "de": "Die steilen Holztreppen können bei Regen sehr glatt sein; halten Sie sich am Geländer fest, während Sie den grauen Atlantik beobachten.",
                 "hu": "A meredek fa lépcsők esőben nagyon csúszósak lehetnek; kapaszkodjon erősen a korlátba, miközben a viharos, szürke óceánt figyeli a sziklákról.",
                 "ro": "Scările abrupte din lemn pot fi foarte alunecoase pe ploaie; țineți-vă bine de balustradă în timp ce priviți oceanul gri de pe stânci.",
-                "en": "The steep wooden stairs can be very slick in the rain; hold the handrails firmly while watching the churning grey Atlantic from the cliffs."
+                "en": "The steep wooden stairs can be very slick in the rain; hold the handrails firmly while watching the churning grey Atlantic from the cliffs.",
+                "pt": "As íngremes escadas de madeira podem ficar muito escorregadias na chuva; segure firmemente os corrimãos enquanto observa o Atlântico cinzento e agitado a partir dos penhascos."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Islamisches Fischerdorf",
                 "hu": "Iszlám Halászfalu",
                 "ro": "Satul Islamic de Pescari",
-                "en": "Islamic Fishing Village"
+                "en": "Islamic Fishing Village",
+                "pt": "Aldeia de Pescadores Islâmica"
               },
               "tip_5lang": {
                 "de": "Die archäologische Stätte wird bei Regen oft matschig; wasserfeste Wanderschuhe sind notwendig, um die historischen Ruinen sicher zu erkunden.",
                 "hu": "A régészeti terület esőben gyakran sáros; vízálló túrabakancs szükséges a történelmi romok biztonságos és kényelmes felfedezéséhez.",
                 "ro": "Situl arheologic devine adesea noroios pe ploaie; bocancii impermeabili sunt necesari pentru a explora ruinele istorice în siguranță.",
-                "en": "The archaeological site often gets muddy in the rain; waterproof hiking boots are necessary to explore the historical ruins safely."
+                "en": "The archaeological site often gets muddy in the rain; waterproof hiking boots are necessary to explore the historical ruins safely.",
+                "pt": "O sítio arqueológico fica frequentemente lamacento com chuva; botas de caminhada impermeáveis são necessárias para explorar as ruínas históricas em segurança."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Praia do Portinho do Forno",
                 "hu": "Praia do Portinho do Forno",
                 "ro": "Praia do Portinho do Forno",
-                "en": "Praia do Portinho do Forno"
+                "en": "Praia do Portinho do Forno",
+                "pt": "Praia do Portinho do Forno"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz bei den kleinen Fischerhütten; die Farbe des Meeres verändert sich bei Regen dramatisch zu einem tiefen, dunklen Graublau.",
                 "hu": "Keressen menedéket a kis halászkunyhók közelében; a tenger színe esőben drámaian megváltozik, mély és sötét szürkéskék árnyalatot öltve.",
                 "ro": "Căutați adăpost lângă colibele pescarilor; culoarea mării se schimbă dramatic pe ploaie, căpătând o nuanță fascinantă de gri închis.",
-                "en": "Look for shelter near the small fishing huts; the color of the sea changes dramatically in the rain to a deep, dark greyish-blue hue."
+                "en": "Look for shelter near the small fishing huts; the color of the sea changes dramatically in the rain to a deep, dark greyish-blue hue.",
+                "pt": "Procure abrigo junto às pequenas palhoças de pesca; a cor do mar muda dramaticamente na chuva para um azul‑acinzentado profundo e escuro."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Am Morgen genießen wir die kühle, klare Luft im Museum. Mittags wandern wir bei tiefstehender Wintersonne entlang der Klippen, wobei eine windfeste Jacke vor der Brise schützt. Die Farben der Felsen wirken im Winterlicht besonders intensiv. Da es gegen 17 Uhr bereits dämmert, erreichen wir das Fischerdorf am späten Nachmittag. Den Abend lassen wir gemütlich bei einem Glas Wein im Dorf ausklingen.",
             "hu": "A reggelt a múzeumban indítjuk, elkerülve a csípős téli szelet. Délben a sziklákon sétálva élvezzük a téli napfényt, de a meleg réteges öltözet kötelező a parton. A vörös sziklák és a kék óceán kontrasztja ilyenkor a legélesebb. Mivel korán, 17 óra körül sötétedik, a délutánt már a faluban töltjük. Az estét egy barátságos helyi étteremben, a kandalló közelében fejezzük be.",
             "ro": "Dimineața savurăm aerul rece și curat la muzeu, feriți de vântul tăios. La prânz, ne plimbăm pe faleză sub soarele blând de iarnă, purtând haine groase împotriva brizei marine. Culorile stâncilor sunt uimitoare în lumina joasă a iernii. Deoarece se întunecă devreme, în jurul orei 17:00, încheiem vizita la satul pescaresc înainte de apus și ne bucurăm de o seară caldă în sat.",
-            "en": "Start the crisp winter morning in the cozy museum. At noon, walk the cliffs under the low winter sun, but wear warm layers to block the biting coastal breeze. The colors of the landscape are incredibly sharp in the winter light. Since sunset is early, around 17:00, plan to finish your outdoor exploration by late afternoon. Spend the evening enjoying the quiet atmosphere of the village."
+            "en": "Start the crisp winter morning in the cozy museum. At noon, walk the cliffs under the low winter sun, but wear warm layers to block the biting coastal breeze. The colors of the landscape are incredibly sharp in the winter light. Since sunset is early, around 17:00, plan to finish your outdoor exploration by late afternoon. Spend the evening enjoying the quiet atmosphere of the village.",
+            "pt": "Comece a fresca manhã de inverno no acolhedor museu. Ao meio‑dia, caminhe pelos penhascos sob o baixo sol invernal, mas vista camadas quentes para bloquear a vento cortante da costa. As cores da paisagem ficam incrivelmente nítidas na luz de inverno. Como o pôr do sol é cedo, por volta das 17:00, planeie terminar a exploração ao ar livre no final da tarde. Passe a noite a desfrutar da atmosfera calma da vila."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Museum für Meer und Land",
                 "hu": "Tenger és Föld Múzeum",
                 "ro": "Muzeul Mării și Pământului",
-                "en": "Museum of the Sea and Land"
+                "en": "Museum of the Sea and Land",
+                "pt": "Museu do Mar e da Terra"
               },
               "tip_5lang": {
                 "de": "Die kühle Winterluft macht die beheizten Ausstellungsräume besonders einladend; ideal, um den Tag gemütlich und informiert zu beginnen.",
                 "hu": "A hűvös téli levegő még hívogatóbbá teszi a múzeum fűtött tereit; ideális helyszín a nap kényelmes és tartalmas elindításához.",
                 "ro": "Aerul rece de iarnă face sălile de expoziție încălzite și mai primitoare; locul ideal pentru a începe ziua confortabil și informat.",
-                "en": "The crisp winter air makes the heated museum exhibits even more inviting; it is the ideal spot to start your day comfortably and informed."
+                "en": "The crisp winter air makes the heated museum exhibits even more inviting; it is the ideal spot to start your day comfortably and informed.",
+                "pt": "O ar invernal fresco torna as exposições aquecidas do museu ainda mais convidativas; é o local ideal para começar o dia confortavelmente e bem informado."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Festung von Carrapateira",
                 "hu": "Carrapateira Erőd",
                 "ro": "Fortăreața Carrapateira",
-                "en": "Fortăreața Carrapateira"
+                "en": "Fortăreața Carrapateira",
+                "pt": "Fortaleza Carrapateira"
               },
               "tip_5lang": {
                 "de": "Starke Winterwinde sind hier häufig; halten Sie Ihre Mütze fest, während Sie den wilden Atlantik und die langen Schatten der Ruinen bewundern.",
                 "hu": "A téli szél itt gyakran felerősödik; fogja meg a sapkáját, miközben a vad óceánt és a romok által vetett hosszú árnyékokat csodálja.",
                 "ro": "Vânturile puternice de iarnă sunt frecvente aici; țineți-vă bine căciula în timp ce admirați oceanul sălbatic și umbrele lungi ale ruinelor.",
-                "en": "Strong winter winds are common here; hold onto your hat while admiring the wild Atlantic and the long shadows cast by the fortress ruins."
+                "en": "Strong winter winds are common here; hold onto your hat while admiring the wild Atlantic and the long shadows cast by the fortress ruins.",
+                "pt": "Ventos fortes de inverno são comuns aqui; segure o chapéu enquanto admira o Atlântico selvagem e as longas sombras projetadas pelas ruínas da fortaleza."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Strand von Bordeira",
                 "hu": "Bordeira-part",
                 "ro": "Plaja Bordeira",
-                "en": "Bordeira Beach"
+                "en": "Bordeira Beach",
+                "pt": "Praia da Bordeira"
               },
               "tip_5lang": {
                 "de": "Das Winterlicht erzeugt spektakuläre Kontraste auf den Dünen; ein Paradies für Fotografen, solange man sich gegen die Kälte schützt.",
                 "hu": "A téli fények látványos kontrasztokat hoznak létre a dűnéken; fotósok paradicsoma ez, amíg a réteges öltözet véd a hideg szél ellen.",
                 "ro": "Lumina de iarnă creează contraste spectaculoase pe dune; un paradis pentru fotografi, atât timp cât purtați haine care vă protejează de frig.",
-                "en": "The winter light creates spectacular contrasts on the dunes; a photographer's paradise, as long as you wear layers to block the cold wind."
+                "en": "The winter light creates spectacular contrasts on the dunes; a photographer's paradise, as long as you wear layers to block the cold wind.",
+                "pt": "A luz de inverno cria contrastes espectaculares nas dunas; um paraíso para fotógrafos, desde que vista camadas para proteger do vento frio."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Praia da Zimbreirinha",
                 "hu": "Praia da Zimbreirinha",
                 "ro": "Praia da Zimbreirinha",
-                "en": "Praia da Zimbreirinha"
+                "en": "Praia da Zimbreirinha",
+                "pt": "Praia da Zimbreirinha"
               },
               "tip_5lang": {
                 "de": "Im Winter ist dieser Ort fast menschenleer; genießen Sie die absolute Stille und die reine Meeresluft an diesem geschützten Felsabschnitt.",
                 "hu": "Télen ez a hely szinte teljesen néptelen; élvezze a tökéletes csendet és a tiszta tengeri levegőt ezen a védett sziklafalak közötti részen.",
                 "ro": "În timpul iernii, acest loc este aproape pustiu; bucurați-vă de liniștea absolută și aerul curat de mare în această secțiune protejată.",
-                "en": "In winter, this spot is almost deserted; enjoy the absolute silence and the crisp sea air in this sheltered section between the high cliffs."
+                "en": "In winter, this spot is almost deserted; enjoy the absolute silence and the crisp sea air in this sheltered section between the high cliffs.",
+                "pt": "No inverno, este ponto fica quase deserto; saboreie o silêncio absoluto e o ar fresco e nítido do mar nesta secção abrigada entre os altos penhascos."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Islamisches Fischerdorf",
                 "hu": "Iszlám Halászfalu",
                 "ro": "Satul Islamic de Pescari",
-                "en": "Islamic Fishing Village"
+                "en": "Islamic Fishing Village",
+                "pt": "Aldeia de Pescadores Islâmica"
               },
               "tip_5lang": {
                 "de": "Die Geschichte wirkt in der winterlichen Einsamkeit noch lebendiger; bleiben Sie in Bewegung, um trotz der kühlen Brise warm zu bleiben.",
                 "hu": "A történelem még élőbbnek tűnik a téli magányban; maradjon mozgásban a romok között, hogy a hűvös szellő ellenére is melegen tartsa magát.",
                 "ro": "Istoria pare și mai vie în singurătatea iernii; rămâneți în mișcare printre ruine pentru a vă menține căldura în ciuda brizei reci.",
-                "en": "History feels more vivid in the winter solitude; keep moving through the ruins to stay warm despite the cool coastal breeze."
+                "en": "History feels more vivid in the winter solitude; keep moving through the ruins to stay warm despite the cool coastal breeze.",
+                "pt": "A história sente‑se mais viva na solitude invernal; mantenha‑se em movimento através das ruínas para se aquecer apesar da brisa costeira fresca."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Praia do Portinho do Forno",
                 "hu": "Praia do Portinho do Forno",
                 "ro": "Praia do Portinho do Forno",
-                "en": "Praia do Portinho do Forno"
+                "en": "Praia do Portinho do Forno",
+                "pt": "Praia do Portinho do Forno"
               },
               "tip_5lang": {
                 "de": "Die tiefrote Farbe der Felsen bildet einen scharfen Kontrast zum dunklen Wintermeer; kommen Sie vor 16 Uhr für das beste Licht.",
                 "hu": "A sziklák mélyvörös színe éles kontrasztot alkot a sötét téli tengerrel; érkezzen 16 óra előtt a legszebb fényviszonyok kihasználásához.",
                 "ro": "Culoarea roșie a stâncilor formează un contrast puternic cu marea întunecată de iarnă; veniți înainte de ora 16:00 pentru cea mai bună lumină.",
-                "en": "The deep red color of the rocks forms a sharp contrast with the dark winter sea; arrive before 16:00 for the best lighting conditions."
+                "en": "The deep red color of the rocks forms a sharp contrast with the dark winter sea; arrive before 16:00 for the best lighting conditions.",
+                "pt": "A cor vermelho‑escura das rochas contrasta nitidamente com o mar invernal escuro; chegue antes das 16:00 para as melhores condições de luz."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Festung von Carrapateira",
             "hu": "Carrapateira Erőd",
             "ro": "Fortăreața Carrapateira",
-            "en": "Carrapateira Fortress"
+            "en": "Carrapateira Fortress",
+            "pt": "Fortaleza da Carrapateira"
           },
           "coords": [
             -8.895199,
@@ -380,7 +420,8 @@
             "de": "Besuchen Sie diese Küstenfestung, um die alten Verteidigungsanlagen zu sehen, und tragen Sie festes Schuhwerk auf den unebenen Mauern.",
             "hu": "Látogasson el a tengerparti erődbe, hogy megcsodálja az ősi védműveket, és viseljen kényelmes cipőt a történelmi várfalakon.",
             "ro": "Vizitați acest fort de coastă pentru a vedea structurile defensive antice și purtați încălțăminte robustă pe zidurile istorice inegale.",
-            "en": "Visit this coastal fort to see the ancient defensive structures and wear sturdy shoes to safely walk along the uneven historical walls."
+            "en": "Visit this coastal fort to see the ancient defensive structures and wear sturdy shoes to safely walk along the uneven historical walls.",
+            "pt": "Visite esta fortificação costeira para ver as antigas estruturas defensivas e calce sapatos resistentes para caminhar com segurança pelas muralhas históricas irregulares."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Museum für Meer und Land",
             "hu": "Tenger és Föld Múzeum",
             "ro": "Muzeul Mării și Pământului",
-            "en": "Museum of the Sea and Land"
+            "en": "Museum of the Sea and Land",
+            "pt": "Museu do Mar e da Terra"
           },
           "coords": [
             -8.893426,
@@ -403,7 +445,8 @@
             "de": "Entdecken Sie hier lokale Traditionen und maritime Geschichte, und achten Sie unbedingt auf die faszinierenden Modelle von Fischerbooten.",
             "hu": "Ismerje meg a helyi hagyományokat és a tengerészeti történelmet itt, de mindenképp vegye szemügyre a halászhajó-modelleket indulás előtt.",
             "ro": "Descoperiți tradițiile locale și istoria maritimă aici și asigurați-vă că verificați fascinantele modele de bărci de pescuit din lemn.",
-            "en": "Explore local traditions and maritime history here, and make sure to check out the fascinating fishing boat models before continuing your ride."
+            "en": "Explore local traditions and maritime history here, and make sure to check out the fascinating fishing boat models before continuing your ride.",
+            "pt": "Explore tradições locais e história marítima aqui e não deixe de ver os fascinantes modelos de barcos de pesca antes de continuar a sua viagem."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Strand von Bordeira",
             "hu": "Bordeira-part",
             "ro": "Plaja Bordeira",
-            "en": "Bordeira Beach"
+            "en": "Bordeira Beach",
+            "pt": "Praia da Bordeira"
           },
           "coords": [
             -8.900219,
@@ -426,7 +470,8 @@
             "de": "Bewundern Sie die weiten Dünen und die tosenden Wellen dieses spektakulären Strandes, aber bringen Sie unbedingt eine Windjacke mit.",
             "hu": "Csodálja meg a hatalmas homokdűnéket és az óceán hullámait, de hozzon magával széldzsekit az erős és folyamatos óceáni szellő miatt.",
             "ro": "Admirați dunele vaste și valurile zgomotoase ale acestei plaje spectaculoase, dar aduceți o jachetă de vânt, deoarece briza oceanului este puternică.",
-            "en": "Admire the vast dunes and crashing waves of this spectacular beach, but bring a windbreaker as the ocean breeze can be quite strong."
+            "en": "Admire the vast dunes and crashing waves of this spectacular beach, but bring a windbreaker as the ocean breeze can be quite strong.",
+            "pt": "Admire as vastas dunas e as ondas a rebentar desta praia espectacular, mas traga um corta‑vento, pois a brisa do oceano pode ser bastante forte."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Praia da Zimbreirinha",
             "hu": "Praia da Zimbreirinha",
             "ro": "Praia da Zimbreirinha",
-            "en": "Praia da Zimbreirinha"
+            "en": "Praia da Zimbreirinha",
+            "pt": "Praia da Zimbreirinha"
           },
           "coords": [
             -8.913917,
@@ -449,7 +495,8 @@
             "de": "Bestaunen Sie die an den Klippen hängenden hölzernen Fischerplattformen und bleiben Sie beim Fotografieren unbedingt hinter den Sicherheitszäunen.",
             "hu": "Csodálja meg a sziklákra függesztett fából készült halászplatformokat, és maradjon a biztonsági kerítés mögött fotózás közben az extrém magasság miatt.",
             "ro": "Minunați-vă de platformele de pescuit din lemn suspendate pe stânci și rămâneți în spatele gardurilor de siguranță când faceți fotografii.",
-            "en": "Marvel at the wooden fishing platforms suspended on the cliffs and stay strictly behind the safety fences when taking your breathtaking photos."
+            "en": "Marvel at the wooden fishing platforms suspended on the cliffs and stay strictly behind the safety fences when taking your breathtaking photos.",
+            "pt": "Maravilhe‑se com as plataformas de pesca em madeira suspensas nas falésias e mantenha‑se estritamente atrás das grades de proteção ao tirar as suas fotos impressionantes."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Islamisches Fischerdorf",
             "hu": "Iszlám Halászfalu",
             "ro": "Satul Islamic de Pescari",
-            "en": "Islamic Fishing Village"
+            "en": "Islamic Fishing Village",
+            "pt": "Aldeia Piscatória Islâmica"
           },
           "coords": [
             -8.907891,
@@ -472,7 +520,8 @@
             "de": "Schlendern Sie durch die Ruinen dieser Siedlung aus dem 12. Jahrhundert und lesen Sie die informativen Tafeln zur mittelalterlichen Geschichte.",
             "hu": "Sétáljon végig a 12. századi település romjain, és olvassa el az információs táblákat a középkori mindennapi élet pontosabb megértéséhez.",
             "ro": "Plimbați-vă prin ruinele acestei așezări din secolul al XII-lea și citiți plăcuțele informative pentru a înțelege structura unică a zonei.",
-            "en": "Wander through the ruins of this 12th-century settlement to imagine medieval life, reading the informative plaques to understand the coastal layout."
+            "en": "Wander through the ruins of this 12th-century settlement to imagine medieval life, reading the informative plaques to understand the coastal layout.",
+            "pt": "Percorra as ruínas deste povoado do século XII para imaginar a vida medieval, lendo os painéis informativos para compreender a disposição costeira."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Praia do Portinho do Forno",
             "hu": "Praia do Portinho do Forno",
             "ro": "Praia do Portinho do Forno",
-            "en": "Praia do Portinho do Forno"
+            "en": "Praia do Portinho do Forno",
+            "pt": "Praia do Portinho do Forno"
           },
           "coords": [
             -8.907793,
@@ -495,7 +545,8 @@
             "de": "Entspannen Sie sich in dieser kleinen, malerischen Bucht, die für ihre Felsformationen bekannt ist, und kommen Sie früh für einen guten Platz.",
             "hu": "Pihenjen ebben a festői kis öbölben, amely a drámai sziklaalakzatairól ismert, és érkezzen korán a legjobb helyekért a kavicsos parton.",
             "ro": "Relaxați-vă în acest mic golf pitoresc cunoscut pentru formațiunile sale stâncoase și ajungeți devreme pentru a prinde un loc bun la soare.",
-            "en": "Relax at this small, picturesque cove known for its dramatic rock formations, arriving early to secure a comfortable spot on the pebbles."
+            "en": "Relax at this small, picturesque cove known for its dramatic rock formations, arriving early to secure a comfortable spot on the pebbles.",
+            "pt": "Relaxe nesta pequena enseada pitoresca conhecida pelas suas dramáticas formações rochosas; chegue cedo para garantir um local confortável nos seixos."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Praia do Amado",
             "hu": "Praia do Amado",
             "ro": "Praia do Amado",
-            "en": "Praia do Amado"
+            "en": "Praia do Amado",
+            "pt": "Praia do Amado"
           },
           "coords": [
             -8.903599,
@@ -518,7 +570,8 @@
             "de": "Beobachten Sie die geschickten Surfer an diesem Strand und holen Sie sich am nahegelegenen Kiosk einen leckeren und erfrischenden Snack.",
             "hu": "Figyelje meg a híres hullámokat meglovagló szörfösöket ezen az élettel teli strandon, és vásároljon rágcsálnivalót a közeli parti kioszkban.",
             "ro": "Urmăriți surferii pricepuți pe valurile faimoase ale acestei plaje și cumpărați o gustare răcoritoare de la chioșcul din apropiere.",
-            "en": "Watch the skilled surfers ride the famous waves of this lively beach, and consider grabbing a refreshing snack at the nearby beachfront kiosk."
+            "en": "Watch the skilled surfers ride the famous waves of this lively beach, and consider grabbing a refreshing snack at the nearby beachfront kiosk.",
+            "pt": "Veja os surfistas habilidosos dominar as ondas famosas desta praia animada e considere comprar um lanche refrescante no quiosque junto à praia."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Starten Sie Ihr Radabenteuer an der historischen Festung von Carrapateira und erkunden Sie anschließend das nahe gelegene Schifffahrtsmuseum. Mittags erwartet Sie eine luftige Fahrt zum riesigen Strand von Bordeira, gefolgt von den dramatischen Klippen bei Zimbreirinha. Am Nachmittag radeln Sie nach Süden, um die Ruinen der islamischen Siedlung und die idyllische Bucht Portinho do Forno zu entdecken. Beenden Sie Ihren aktiven Tag mit einer Fahrt in den Sonnenuntergang zum lebhaften Strand Amado.",
         "hu": "Kezdje kerékpáros kalandját a történelmi Carrapateira Erődnél a friss reggeli szellőben, majd fedezze fel a közeli tengerészeti múzeumot. Délben tekerjen el a hatalmas Bordeira partig, majd nézze meg a drámai sziklafalakat a Zimbreirinha-nál. Délután induljon délre a középkori iszlám település romjaihoz és a csendes Portinho do Forno öbölhöz. Zárja az aktív napot egy naplemente körüli kerékpározással a szörfösök által kedvelt, vibráló Amado partjához.",
         "ro": "Începeți aventura cu bicicleta la fortăreața istorică, simțind briza dimineții, înainte de a explora muzeul maritim din apropiere. Prânzul aduce o plimbare răcoroasă către plaja imensă Bordeira, urmată de spectaculoasele locuri de pescuit de la Zimbreirinha. După-amiaza, pedalați spre sud pentru a descoperi ruinele satului islamic și golful liniștit Portinho do Forno. Încheiați ziua activă cu o plimbare la apus către vibranta plajă Amado, faimoasă printre surferi.",
-        "en": "Kick off your cycling adventure at the historic Carrapateira Fortress, feeling the morning breeze, before exploring the nearby maritime museum. Midday brings a breezy ride to the immense Bordeira Beach, followed by the dramatic cliffside fishing spots of Zimbreirinha. In the afternoon, pedal south to uncover the medieval Islamic settlement ruins and the quaint, sheltered cove of Portinho do Forno. Conclude your active day with a sunset ride down to the vibrant Amado Beach, famous for its surf culture."
+        "en": "Kick off your cycling adventure at the historic Carrapateira Fortress, feeling the morning breeze, before exploring the nearby maritime museum. Midday brings a breezy ride to the immense Bordeira Beach, followed by the dramatic cliffside fishing spots of Zimbreirinha. In the afternoon, pedal south to uncover the medieval Islamic settlement ruins and the quaint, sheltered cove of Portinho do Forno. Conclude your active day with a sunset ride down to the vibrant Amado Beach, famous for its surf culture.",
+        "pt": "Comece a sua aventura de bicicleta na histórica Fortaleza da Carrapateira, sentindo a brisa matinal, antes de explorar o museu marítimo nas proximidades. Ao meio‑dia, pedale com vento até à imensa Praia da Bordeira, seguido pelos dramáticos pontos de pesca nas falésias da Zimbreirinha. À tarde, pedale para sul para descobrir as ruínas do povoado islâmico medieval e a pitoresca enseada abrigada do Portinho do Forno. Termine o seu dia activo com um passeio ao pôr do sol até à vibrante Praia do Amado, famosa pela sua cultura de surf."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Die Tour startet vorsichtig an der Festung. Bei Regen sind die Straßen in Carrapateira rutschig, fahren Sie also langsam. Mittags bietet das Museum eine willkommene trockene Pause. Am Nachmittag führt die Route zu den Klippen; achten Sie auf den Wind, der das Radfahren anstrengend macht. Der Tag endet im Dorf, wo wir uns nach der nassen Fahrt aufwärmen und die Räder sicher abstellen.",
             "hu": "A túra óvatosan indul az erődnél. Esőben az utak csúszósak lehetnek, így mérsékeljük a sebességet. Délben a múzeum látogatása tökéletes alkalom a felszerelés megszárítására. Délután a sziklák menti út a szél miatt nagyobb erőfeszítést igényel, tartsunk távolságot a peremtől. A napot a faluban zárjuk, ahol egy forró ital mellett pihenjük ki a vizes tekerés fáradalmait.",
             "ro": "Turul începe cu prudență la fortăreață. Pe ploaie, drumurile sunt alunecoase, deci pedalați cu viteză redusă. La prânz, vizita la muzeu oferă o pauză binemeritată la adăpost. După-amiaza, traseul de-a lungul stâncilor este îngreunat de vânt; atenție sporită la echilibru. Ziua se încheie în sat, unde ne încălzim după cursa umedă și punem bicicletele la loc sigur.",
-            "en": "The tour starts cautiously at the fortress. In the rain, the roads are slippery, so reduce your speed. At noon, the museum provides a welcome dry break to warm up. In the afternoon, cycling along the cliffs is challenging due to the wind; keep a safe distance from the edges. The day ends in the village, where we warm up with a hot drink after the wet ride."
+            "en": "The tour starts cautiously at the fortress. In the rain, the roads are slippery, so reduce your speed. At noon, the museum provides a welcome dry break to warm up. In the afternoon, cycling along the cliffs is challenging due to the wind; keep a safe distance from the edges. The day ends in the village, where we warm up with a hot drink after the wet ride.",
+            "pt": "O passeio começa cautelosamente na fortaleza. Em caso de chuva, as estradas ficam escorregadias, por isso reduza a velocidade. Ao meio‑dia, o museu oferece uma pausa seca e bem‑vinda para aquecer. À tarde, pedalar ao longo das falésias é desafiante devido ao vento; mantenha uma distância segura das bordas. O dia termina na aldeia, onde nos aquecemos com uma bebida quente após o percurso molhado."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Festung von Carrapateira",
                 "hu": "Carrapateira Erőd",
                 "ro": "Fortăreața Carrapateira",
-                "en": "Carrapateira Fortress"
+                "en": "Carrapateira Fortress",
+                "pt": "Fortaleza da Carrapateira"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie beim Parken des Rads glatte Steinflächen; die Aussicht auf den regnerischen Ozean ist von hier aus absolut dramatisch.",
                 "hu": "Kerülje a sima kőfelületeket a kerékpár leállításakor; a kilátás az esős óceánra innen nézve lenyűgözően drámai és vad.",
                 "ro": "Evitați suprafețele de piatră netedă când parcați bicicleta; vederea spre oceanul plouat este absolut dramatică din acest punct.",
-                "en": "Avoid smooth stone surfaces when parking your bike; the view of the rainy ocean from here is absolutely dramatic and powerful."
+                "en": "Avoid smooth stone surfaces when parking your bike; the view of the rainy ocean from here is absolutely dramatic and powerful.",
+                "pt": "Evite superfícies de pedra lisas ao estacionar a sua bicicleta; a vista do oceano chuvoso daqui é absolutamente dramática e poderosa."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Museum für Meer und Land",
                 "hu": "Tenger és Föld Múzeum",
                 "ro": "Muzeul Mării și Pământului",
-                "en": "Museum of the Sea and Land"
+                "en": "Museum of the Sea and Land",
+                "pt": "Museu do Mar e da Terra"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Zeit im Museum, um Ihre Kleidung zu trocknen; es gibt sichere Fahrradständer direkt am Eingang des Gebäudes.",
                 "hu": "Használja ki a múzeumban töltött időt a ruházata megszárítására; a bejáratnál biztonságos kerékpártárolók állnak rendelkezésre.",
                 "ro": "Profită de timpul petrecut în muzeu pentru a-ți usca hainele; există suporturi sigure pentru biciclete chiar la intrarea în clădire.",
-                "en": "Use the time in the museum to dry your gear; there are secure bike racks right at the entrance of the building for your convenience."
+                "en": "Use the time in the museum to dry your gear; there are secure bike racks right at the entrance of the building for your convenience.",
+                "pt": "Aproveite o tempo no museu para secar o seu equipamento; há suportes seguros para bicicletas mesmo à entrada do edifício para sua conveniência."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Strand von Bordeira",
                 "hu": "Bordeira-part",
                 "ro": "Plaja Bordeira",
-                "en": "Bordeira Beach"
+                "en": "Bordeira Beach",
+                "pt": "Praia da Bordeira"
               },
               "tip_5lang": {
                 "de": "Fahren Sie nicht mit dem Rad auf den Strand; bleiben Sie auf den befestigten Wegen, da der nasse Sand sehr schwergängig ist.",
                 "hu": "Ne hajtson be kerékpárral a homokos partra; maradjon a kövezett utakon, mivel a vizes homokba könnyen beleragadhat a kerék.",
                 "ro": "Nu intrați cu bicicleta pe plajă; rămâneți pe drumurile pavate, deoarece nisipul ud este foarte greu de parcurs și instabil.",
-                "en": "Do not ride your bike onto the sandy beach; stay on the paved paths, as the wet sand is very difficult and unstable to cycle on."
+                "en": "Do not ride your bike onto the sandy beach; stay on the paved paths, as the wet sand is very difficult and unstable to cycle on.",
+                "pt": "Não pedale na areia da praia; mantenha‑se nas vias pavimentadas, pois a areia molhada é muito difícil e instável para ciclar."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Praia da Zimbreirinha",
                 "hu": "Praia da Zimbreirinha",
                 "ro": "Praia da Zimbreirinha",
-                "en": "Praia da Zimbreirinha"
+                "en": "Praia da Zimbreirinha",
+                "pt": "Praia da Zimbreirinha"
               },
               "tip_5lang": {
                 "de": "Sichern Sie Ihr Rad oben an der Klippe, bevor Sie die nassen Treppen hinuntersteigen; der Wind kann hier oben sehr böig sein.",
                 "hu": "Láncolja le a kerékpárt a szikla tetején, mielőtt lemegy a nedves lépcsőkön; a szél itt nagyon hirtelen és erősen fújhat.",
                 "ro": "Asigurați-vă bicicleta pe vârful stâncii înainte de a coborî scările umede; vântul poate fi foarte puternic și imprevizibil aici sus.",
-                "en": "Secure your bike at the top of the cliff before heading down the wet stairs; the wind can be very gusty and strong up here."
+                "en": "Secure your bike at the top of the cliff before heading down the wet stairs; the wind can be very gusty and strong up here.",
+                "pt": "Prenda a sua bicicleta no topo da falésia antes de descer as escadas molhadas; o vento aqui pode ser muito rajado e forte."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Islamisches Fischerdorf",
                 "hu": "Iszlám Halászfalu",
                 "ro": "Satul Islamic de Pescari",
-                "en": "Islamic Fishing Village"
+                "en": "Islamic Fishing Village",
+                "pt": "Aldeia Piscatória Islâmica"
               },
               "tip_5lang": {
                 "de": "Der Zufahrtsweg kann bei Regen sehr rutschig sein; schieben Sie Ihr Rad lieber das letzte Stück bis zu den historischen Ruinen.",
                 "hu": "A bekötőút esőben nagyon csúszós lehet; javasolt az utolsó szakaszon tolni a kerékpárt a romok biztonságos megközelítéséhez.",
                 "ro": "Drumul de acces poate fi foarte alunecos pe ploaie; este mai sigur să împingeți bicicleta pe ultima porțiune până la ruine.",
-                "en": "The access path can be very slippery in the rain; it's safer to push your bike for the last stretch to reach the historical ruins."
+                "en": "The access path can be very slippery in the rain; it's safer to push your bike for the last stretch to reach the historical ruins.",
+                "pt": "O caminho de acesso pode ficar muito escorregadio com chuva; é mais seguro empurrar a bicicleta no último troço até às ruínas históricas."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Praia do Portinho do Forno",
                 "hu": "Praia do Portinho do Forno",
                 "ro": "Praia do Portinho do Forno",
-                "en": "Praia do Portinho do Forno"
+                "en": "Praia do Portinho do Forno",
+                "pt": "Praia do Portinho do Forno"
               },
               "tip_5lang": {
                 "de": "Die kleine Bucht bietet kaum Schutz vor Regen; machen Sie nur einen kurzen Stopp, um die Fischerboote im trüben Wasser zu sehen.",
                 "hu": "Az öböl kevés védelmet nyújt az eső elől; csak egy rövid megállót javaslunk, hogy megnézze a halászcsónakokat a szürke vízben.",
                 "ro": "Golful oferă puțin adăpost împotriva ploii; faceți doar o scurtă oprire pentru a vedea bărcile de pescuit în apa tulbure.",
-                "en": "The bay offers little shelter from the rain; make only a short stop to see the fishing boats in the murky, wind-whipped water."
+                "en": "The bay offers little shelter from the rain; make only a short stop to see the fishing boats in the murky, wind-whipped water.",
+                "pt": "A baía oferece pouco abrigo da chuva; faça apenas uma paragem curta para ver os barcos de pesca na água turva e agitadas pelo vento."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Praia do Amado",
                 "hu": "Praia do Amado",
                 "ro": "Praia do Amado",
-                "en": "Praia do Amado"
+                "en": "Praia do Amado",
+                "pt": "Praia do Amado"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Zuflucht in einem der Strandcafés; beobachten Sie die Surfer im Regen bei einem heißen Getränk, bevor Sie zurückfahren.",
                 "hu": "Keressen menedéket az egyik tengerparti kávézóban; figyelje a szörfösöket az esőben egy forró ital mellett, mielőtt visszaindulna.",
                 "ro": "Căutați adăpost într-una dintre cafenelele de pe plajă; observați surferii prin ploaie cu o băutură caldă înainte de a pleca.",
-                "en": "Seek shelter in one of the beach cafes; watch the surfers in the rain with a hot drink before starting your ride back."
+                "en": "Seek shelter in one of the beach cafes; watch the surfers in the rain with a hot drink before starting your ride back.",
+                "pt": "Procure abrigo num dos cafés da praia; veja os surfistas na chuva com uma bebida quente antes de iniciar o regresso de bicicleta."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Ein frischer Wintermorgen an der Festung startet unsere Tour. Die Luft ist klar und die Sicht fantastisch. Mittags wärmen wir uns im Museum auf, bevor wir zu den windigen Klippen weiterfahren. Das Winterlicht lässt den Ozean in tiefem Blau erstrahlen. Da es gegen 17 Uhr dunkel wird, sollten wir den Strand von Amado bis zum frühen Nachmittag erreichen, um den Sonnenuntergang sicher von der Straße aus zu erleben.",
             "hu": "Friss téli reggelen indulunk az erődtől. A levegő tiszta, a kilátás pedig fantasztikus ilyenkor. Délben a múzeumban melegszünk fel, majd folytatjuk az utat a szeles sziklák mentén. A téli napfényben az óceán mélykék színekben pompázik. Mivel 17 órakor sötétedik, a délutánt már a visszúton töltjük, hogy még világosban beérjünk a faluba a biztonságos tekerés érdekében.",
             "ro": "O dimineață răcoroasă de iarnă la fortăreață dă startul turului nostru. Aerul este curat, iar vizibilitatea este fantastică. La prânz ne încălzim la muzeu înainte de a pedala spre stâncile bătute de vânt. Lumina de iarnă face oceanul să strălucească în albastru profund. Deoarece se întunecă la ora 17:00, trebuie să ajungem la plaja Amado până după-amiaza devreme.",
-            "en": "A crisp winter morning at the fortress kicks off our tour. The air is clear and the visibility is fantastic. At noon, we warm up in the museum before continuing to the windy cliffs. The winter light makes the ocean shine in deep blue colors. Since it gets dark by 17:00, aim to reach Amado beach by early afternoon to enjoy the scenery safely before the sun goes down."
+            "en": "A crisp winter morning at the fortress kicks off our tour. The air is clear and the visibility is fantastic. At noon, we warm up in the museum before continuing to the windy cliffs. The winter light makes the ocean shine in deep blue colors. Since it gets dark by 17:00, aim to reach Amado beach by early afternoon to enjoy the scenery safely before the sun goes down.",
+            "pt": "Numa manhã fresca de inverno na fortaleza começa o nosso percurso. O ar está límpido e a visibilidade é fantástica. Ao meio‑dia, aquecemo‑nos no museu antes de continuar para as falésias ventosas. A luz de inverno faz o oceano brilhar em tons de azul profundo. Como escurece por volta das 17:00, procure chegar à Praia do Amado no início da tarde para desfrutar da paisagem com segurança antes do pôr‑do‑sol."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Festung von Carrapateira",
                 "hu": "Carrapateira Erőd",
                 "ro": "Fortăreața Carrapateira",
-                "en": "Carrapateira Fortress"
+                "en": "Carrapateira Fortress",
+                "pt": "Fortaleza da Carrapateira"
               },
               "tip_5lang": {
                 "de": "Die morgendliche Wintersonne bietet hier exzellente Lichtverhältnisse für Fotos; tragen Sie Handschuhe, da der Fahrtwind recht kalt sein kann.",
                 "hu": "A reggeli téli napfény kiváló fényviszonyokat biztosít a fotózáshoz; viseljen kesztyűt, mert a menetszél ilyenkor már meglehetősen hideg.",
                 "ro": "Soarele de dimineață oferă condiții excelente de lumină pentru fotografii; purtați mănuși, deoarece vântul poate fi destul de rece în timpul mersului.",
-                "en": "The morning winter sun provides excellent lighting for photos; wear gloves, as the wind chill while cycling can be quite biting."
+                "en": "The morning winter sun provides excellent lighting for photos; wear gloves, as the wind chill while cycling can be quite biting.",
+                "pt": "O sol de inverno da manhã proporciona excelente iluminação para fotos; use luvas, pois a sensação térmica devido ao vento ao pedalar pode ser bastante cortante."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Museum für Meer und Land",
                 "hu": "Tenger és Föld Múzeum",
                 "ro": "Muzeul Mării și Pământului",
-                "en": "Museum of the Sea and Land"
+                "en": "Museum of the Sea and Land",
+                "pt": "Museu do Mar e da Terra"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Muskeln aufzuwärmen und den Wind für eine Weile zu vergessen; parken Sie Ihr Rad sicher im Sichtbereich des Eingangs.",
                 "hu": "Ideális hely az izmok bemelegítésére és a szél elfelejtésére egy időre; parkolja le kerékpárját biztonságosan a bejárat közelében.",
                 "ro": "Un loc ideal pentru a vă încălzi mușchii și a uita de vânt pentru o vreme; parcați bicicleta în siguranță lângă intrare.",
-                "en": "An ideal place to warm up your muscles and forget the wind for a while; park your bike safely within view of the entrance."
+                "en": "An ideal place to warm up your muscles and forget the wind for a while; park your bike safely within view of the entrance.",
+                "pt": "Um local ideal para aquecer os músculos e esquecer o vento por um tempo; estacione a sua bicicleta em segurança à vista da entrada."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Strand von Bordeira",
                 "hu": "Bordeira-part",
                 "ro": "Plaja Bordeira",
-                "en": "Bordeira Beach"
+                "en": "Bordeira Beach",
+                "pt": "Praia da Bordeira"
               },
               "tip_5lang": {
                 "de": "Die Winterdünung erzeugt hier massive Wellen; beobachten Sie das Spektakel von den Klippenwegen aus, um nicht im nassen Sand stecken zu bleiben.",
                 "hu": "A téli áramlatok hatalmas hullámokat keltenek; figyelje a látványt a szikla menti utakról, hogy elkerülje a vizes homokban való elakadást.",
                 "ro": "Curenții de iarnă creează valuri masive aici; observați spectacolul de pe drumurile de pe stânci pentru a nu rămâne blocat în nisipul ud.",
-                "en": "Winter swells create massive waves here; watch the spectacle from the cliff-side paths to avoid getting stuck in the heavy, wet sand."
+                "en": "Winter swells create massive waves here; watch the spectacle from the cliff-side paths to avoid getting stuck in the heavy, wet sand.",
+                "pt": "As ressacas de inverno criam ondas enormes aqui; observe o espectáculo a partir dos caminhos junto à falésia para evitar ficar preso na areia pesada e molhada."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Praia da Zimbreirinha",
                 "hu": "Praia da Zimbreirinha",
                 "ro": "Praia da Zimbreirinha",
-                "en": "Praia da Zimbreirinha"
+                "en": "Praia da Zimbreirinha",
+                "pt": "Praia da Zimbreirinha"
               },
               "tip_5lang": {
                 "de": "Suchen Sie sich einen windgeschützten Platz zwischen den Felsen für eine kurze Pause; die Wintersonne wärmt hier erstaunlich gut.",
                 "hu": "Keressen egy szélvédett helyet a sziklák között egy rövid pihenőre; a téli napsütés itt meglepően jól fel tudja melegíteni az embert.",
                 "ro": "Găsiți un loc ferit de vânt între stânci pentru o scurtă pauză; soarele de iarnă vă poate încălzi surprinzător de bine în acest punct.",
-                "en": "Find a sheltered spot between the rocks for a short break; the winter sun can feel surprisingly warm in this protected nook."
+                "en": "Find a sheltered spot between the rocks for a short break; the winter sun can feel surprisingly warm in this protected nook.",
+                "pt": "Encontre um local abrigado entre as rochas para uma breve pausa; o sol de inverno pode parecer surpreendentemente quente nesse recanto protegido."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Islamisches Fischerdorf",
                 "hu": "Iszlám Halászfalu",
                 "ro": "Satul Islamic de Pescari",
-                "en": "Islamic Fishing Village"
+                "en": "Islamic Fishing Village",
+                "pt": "Aldeia Piscatória Islâmica"
               },
               "tip_5lang": {
                 "de": "Die kühle Luft macht die Erkundung der Ruinen weniger anstrengend als im Sommer; genießen Sie die Ruhe ohne die Touristenmassen.",
                 "hu": "A hűvös levegő kevésbé fárasztóvá teszi a romok felfedezését, mint nyáron; élvezze a csendet a turistaáradat hiányában.",
                 "ro": "Aerul rece face explorarea ruinelor mai puțin obositoare decât vara; bucurați-vă de liniște în absența mulțimilor de turiști.",
-                "en": "The cool air makes exploring the ruins less exhausting than in summer; enjoy the silence and peace without the usual tourist crowds."
+                "en": "The cool air makes exploring the ruins less exhausting than in summer; enjoy the silence and peace without the usual tourist crowds.",
+                "pt": "O ar fresco torna a exploração das ruínas menos cansativa do que no verão; desfrute do silêncio e da tranquilidade sem as habituais multidões de turistas."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Praia do Portinho do Forno",
                 "hu": "Praia do Portinho do Forno",
                 "ro": "Praia do Portinho do Forno",
-                "en": "Praia do Portinho do Forno"
+                "en": "Praia do Portinho do Forno",
+                "pt": "Praia do Portinho do Forno"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Sonne lässt die roten Felsen am frühen Nachmittag leuchten; perfekt für ein schnelles Foto, bevor die Kälte anzieht.",
                 "hu": "Az alacsonyan járó nap kora délután megvilágítja a vörös sziklákat; tökéletes egy gyors fotóhoz, mielőtt a hideg esti szél feltámadna.",
                 "ro": "Soarele joios luminează stâncile roșii la începutul după-amiezii; ideal pentru o fotografie rapidă înainte ca briza rece să se intensifice.",
-                "en": "The low sun lights up the red rocks beautifully in the early afternoon; perfect for a quick photo before the evening chill sets in."
+                "en": "The low sun lights up the red rocks beautifully in the early afternoon; perfect for a quick photo before the evening chill sets in.",
+                "pt": "O sol baixo ilumina as rochas vermelhas lindamente no início da tarde; perfeito para uma foto rápida antes do frio do fim do dia."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Praia do Amado",
                 "hu": "Praia do Amado",
                 "ro": "Praia do Amado",
-                "en": "Praia do Amado"
+                "en": "Praia do Amado",
+                "pt": "Praia do Amado"
               },
               "tip_5lang": {
                 "de": "Planen Sie Ihre Rückkehr so, dass Sie vor Sonnenuntergang (ca. 17 Uhr) im Dorf sind; die Straßenbeleuchtung ist auf den Küstenwegen spärlich.",
                 "hu": "Tervezze úgy a visszautat, hogy naplemente előtt (kb. 17 óra) beérjen a faluba; a parti utakon a közvilágítás nagyon gyér.",
                 "ro": "Planificați-vă întoarcerea astfel încât să ajungeți în sat înainte de apus (ora 17:00); iluminatul stradal este rar pe drumurile de coastă.",
-                "en": "Plan your return to reach the village before sunset (around 17:00); street lighting is very sparse on the winding coastal paths."
+                "en": "Plan your return to reach the village before sunset (around 17:00); street lighting is very sparse on the winding coastal paths.",
+                "pt": "Planeie o seu regresso para alcançar a aldeia antes do pôr‑do‑sol (por volta das 17:00); a iluminação pública é muito escassa nos caminhos costeiros sinuosos."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Museum für Meer und Land",
             "hu": "Tenger és Föld Múzeum",
             "ro": "Muzeul Mării și Pământului",
-            "en": "Museum of the Sea and Land"
+            "en": "Museum of the Sea and Land",
+            "pt": "Museu do Mar e da Terra"
           },
           "coords": [
             -8.893426,
@@ -775,7 +860,8 @@
             "de": "Entdecken Sie hier lokale Traditionen und maritime Geschichte, und achten Sie unbedingt auf die faszinierenden Modelle von Fischerbooten.",
             "hu": "Ismerje meg a helyi hagyományokat és a tengerészeti történelmet itt, de mindenképp vegye szemügyre a halászhajó-modelleket indulás előtt.",
             "ro": "Descoperiți tradițiile locale și istoria maritimă aici și asigurați-vă că verificați fascinantele modele de bărci de pescuit din lemn.",
-            "en": "Explore local traditions and maritime history here, and make sure to check out the fascinating fishing boat models before starting your walk."
+            "en": "Explore local traditions and maritime history here, and make sure to check out the fascinating fishing boat models before starting your walk.",
+            "pt": "Explore aqui as tradições locais e a história marítima, e não deixe de ver os fascinantes modelos de barcos de pesca antes de iniciar a sua caminhada."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Festung von Carrapateira",
             "hu": "Carrapateira Erőd",
             "ro": "Fortăreața Carrapateira",
-            "en": "Carrapateira Fortress"
+            "en": "Carrapateira Fortress",
+            "pt": "Fortaleza da Carrapateira"
           },
           "coords": [
             -8.895199,
@@ -798,7 +885,8 @@
             "de": "Besuchen Sie diese Küstenfestung, um die alten Verteidigungsanlagen zu sehen, und tragen Sie festes Schuhwerk auf den unebenen Mauern.",
             "hu": "Látogasson el a tengerparti erődbe, hogy megcsodálja az ősi védműveket, és viseljen kényelmes cipőt a történelmi várfalakon.",
             "ro": "Vizitați acest fort de coastă pentru a vedea structurile defensive antice și purtați încălțăminte robustă pe zidurile istorice inegale.",
-            "en": "Visit this coastal fort to see the ancient defensive structures and wear sturdy shoes to safely walk along the uneven historical walls."
+            "en": "Visit this coastal fort to see the ancient defensive structures and wear sturdy shoes to safely walk along the uneven historical walls.",
+            "pt": "Visite esta fortificação costeira para ver as antiguas estruturas defensivas e use sapatos robustos para caminhar com segurança pelas paredes históricas irregulares."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Strand von Bordeira",
             "hu": "Bordeira-part",
             "ro": "Plaja Bordeira",
-            "en": "Bordeira Beach"
+            "en": "Bordeira Beach",
+            "pt": "Praia da Bordeira"
           },
           "coords": [
             -8.900219,
@@ -821,7 +910,8 @@
             "de": "Bewundern Sie die weiten Dünen und die tosenden Wellen dieses spektakulären Strandes, aber bringen Sie unbedingt eine Windjacke mit.",
             "hu": "Csodálja meg a hatalmas homokdűnéket és az óceán hullámait, de hozzon magával széldzsekit az erős és folyamatos óceáni szellő miatt.",
             "ro": "Admirați dunele vaste și valurile zgomotoase ale acestei plaje spectaculoase, dar aduceți o jachetă de vânt, deoarece briza oceanului este puternică.",
-            "en": "Admire the vast dunes and crashing waves of this spectacular beach, but bring a windbreaker as the ocean breeze can be quite strong."
+            "en": "Admire the vast dunes and crashing waves of this spectacular beach, but bring a windbreaker as the ocean breeze can be quite strong.",
+            "pt": "Admire as vastas dunas e as ondas que se desfazem desta praia espectacular, mas traga um corta‑vento, pois a brisa do oceano pode ser bastante forte."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Praia da Zimbreirinha",
             "hu": "Praia da Zimbreirinha",
             "ro": "Praia da Zimbreirinha",
-            "en": "Praia da Zimbreirinha"
+            "en": "Praia da Zimbreirinha",
+            "pt": "Praia da Zimbreirinha"
           },
           "coords": [
             -8.913917,
@@ -844,7 +935,8 @@
             "de": "Bestaunen Sie die an den Klippen hängenden hölzernen Fischerplattformen und bleiben Sie beim Fotografieren unbedingt hinter den Sicherheitszäunen.",
             "hu": "Csodálja meg a sziklákra függesztett fából készült halászplatformokat, és maradjon a biztonsági kerítés mögött fotózás közben az extrém magasság miatt.",
             "ro": "Minunați-vă de platformele de pescuit din lemn suspendate pe stânci și rămâneți în spatele gardurilor de siguranță când faceți fotografii.",
-            "en": "Marvel at the wooden fishing platforms suspended on the cliffs and stay strictly behind the safety fences when taking your breathtaking photos."
+            "en": "Marvel at the wooden fishing platforms suspended on the cliffs and stay strictly behind the safety fences when taking your breathtaking photos.",
+            "pt": "Maravilhe‑se com as plataformas de pesca em madeira suspensas nas falésias e mantenha‑se estritamente atrás das grades de proteção ao tirar as suas fotos impressionantes."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Islamisches Fischerdorf",
             "hu": "Iszlám Halászfalu",
             "ro": "Satul Islamic de Pescari",
-            "en": "Islamic Fishing Village"
+            "en": "Islamic Fishing Village",
+            "pt": "Aldeia Piscatória Islâmica"
           },
           "coords": [
             -8.907891,
@@ -867,7 +960,8 @@
             "de": "Schlendern Sie durch die Ruinen dieser Siedlung aus dem 12. Jahrhundert und lesen Sie die informativen Tafeln zur mittelalterlichen Geschichte.",
             "hu": "Sétáljon végig a 12. századi település romjain, és olvassa el az információs táblákat a középkori mindennapi élet pontosabb megértéséhez.",
             "ro": "Plimbați-vă prin ruinele acestei așezări din secolul al XII-lea și citiți plăcuțele informative pentru a înțelege structura unică a zonei.",
-            "en": "Wander through the ruins of this 12th-century settlement to imagine medieval life, reading the informative plaques to understand the coastal layout."
+            "en": "Wander through the ruins of this 12th-century settlement to imagine medieval life, reading the informative plaques to understand the coastal layout.",
+            "pt": "Percorra as ruínas deste povoado do século XII para imaginar a vida medieval, lendo os painéis informativos para compreender a disposição costeira."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Praia do Portinho do Forno",
             "hu": "Praia do Portinho do Forno",
             "ro": "Praia do Portinho do Forno",
-            "en": "Praia do Portinho do Forno"
+            "en": "Praia do Portinho do Forno",
+            "pt": "Praia do Portinho do Forno"
           },
           "coords": [
             -8.907793,
@@ -890,7 +985,8 @@
             "de": "Entspannen Sie sich in dieser kleinen, malerischen Bucht, die für ihre Felsformationen bekannt ist, und kommen Sie früh für einen guten Platz.",
             "hu": "Pihenjen ebben a festői kis öbölben, amely a drámai sziklaalakzatairól ismert, és érkezzen korán a legjobb helyekért a kavicsos parton.",
             "ro": "Relaxați-vă în acest mic golf pitoresc cunoscut pentru formațiunile sale stâncoase și ajungeți devreme pentru a prinde un loc bun la soare.",
-            "en": "Relax at this small, picturesque cove known for its dramatic rock formations, arriving early to secure a comfortable spot on the pebbles."
+            "en": "Relax at this small, picturesque cove known for its dramatic rock formations, arriving early to secure a comfortable spot on the pebbles.",
+            "pt": "Relaxe nesta pequena enseada pitoresca conhecida pelas suas dramáticas formações rochosas; chegue cedo para garantir um local confortável nos seixos."
           }
         },
         {
@@ -898,7 +994,8 @@
             "de": "Praia do Amado",
             "hu": "Praia do Amado",
             "ro": "Praia do Amado",
-            "en": "Praia do Amado"
+            "en": "Praia do Amado",
+            "pt": "Praia do Amado"
           },
           "coords": [
             -8.903599,
@@ -913,7 +1010,8 @@
             "de": "Beobachten Sie die geschickten Surfer an diesem Strand und holen Sie sich am nahegelegenen Kiosk einen leckeren und erfrischenden Snack.",
             "hu": "Figyelje meg a híres hullámokat meglovagló szörfösöket ezen az élettel teli strandon, és vásároljon rágcsálnivalót a közeli parti kioszkban.",
             "ro": "Urmăriți surferii pricepuți pe valurile faimoase ale acestei plaje și cumpărați o gustare răcoritoare de la chioșcul din apropiere.",
-            "en": "Watch the skilled surfers ride the famous waves of this lively beach, and consider grabbing a refreshing snack at the nearby beachfront kiosk."
+            "en": "Watch the skilled surfers ride the famous waves of this lively beach, and consider grabbing a refreshing snack at the nearby beachfront kiosk.",
+            "pt": "Veja os surfistas habilidosos dominar as ondas famosas desta praia animada e considere comprar um lanche refrescante no quiosque junto à praia."
           }
         },
         {
@@ -921,7 +1019,8 @@
             "de": "Monte Velho Eco Resort",
             "hu": "Monte Velho Eco Resort",
             "ro": "Monte Velho Eco Resort",
-            "en": "Monte Velho Eco Resort"
+            "en": "Monte Velho Eco Resort",
+            "pt": "Monte Velho Eco Resort"
           },
           "coords": [
             -8.874975,
@@ -936,7 +1035,8 @@
             "de": "Beenden Sie Ihren Tag in diesem ruhigen Eco-Resort mitten in der Natur und buchen Sie vorab eine erholsame Yoga-Sitzung im Freien.",
             "hu": "Zárja a napot ebben a természetbe simuló, békés öko-üdülőhelyen, előre lefoglalva egy pihentető jógaórát vagy egy esti szabadtéri teázást.",
             "ro": "Încheiați ziua în acest complex ecologic liniștit, în mijlocul naturii, rezervând din timp o sesiune relaxantă de yoga la frumosul apus de soare.",
-            "en": "End your day at this serene eco-resort immersed in nature, booking a restorative yoga session or a quiet sunset tea in advance."
+            "en": "End your day at this serene eco-resort immersed in nature, booking a restorative yoga session or a quiet sunset tea in advance.",
+            "pt": "Termine o seu dia neste sereno eco‑resort imerso na natureza, reservando uma sessão restauradora de yoga ou um chá ao pôr‑do‑sol com antecedência."
           }
         }
       ],
@@ -944,7 +1044,8 @@
         "de": "Ihr Roadtrip beginnt mit Kultur im Museum von Carrapateira, dicht gefolgt von einem kurzen Sprung zur Küstenfestung. Um die Mittagszeit fahren Sie zum atemberaubenden Strand von Bordeira, bevor es entlang der Küstenstraße zu den Klippen von Zimbreirinha geht. Der Nachmittag ist der Geschichte im islamischen Dorf, dem Portinho do Forno und dem lebhaften Strand Amado gewidmet. Wenn die Dämmerung hereinbricht, ziehen Sie sich ins friedliche Monte Velho Eco Resort zurück.",
         "hu": "Autós kirándulása a Carrapateira Múzeumban kezdődik, melyet a tengerparti erőd romjai követnek. Ebédidő környékén vezessen fel a lélegzetelállító Bordeira parthoz, majd folytassa útját a Zimbreirinha szikláihoz. A délután a történelemé az iszlám falunál, valamint a pihenésé az eldugott Portinho do Forno és az élettel teli Amado strandokon. Alkonyatkor vonuljon vissza a szárazföld belsejében található békés Monte Velho Öko-üdülőhelyre, hogy megpihenjen.",
         "ro": "Călătoria cu mașina începe la muzeul din Carrapateira, urmată de o scurtă oprire la ruinele fortăreței de coastă. În jurul prânzului, conduceți către impresionanta plajă Bordeira, apoi navigați pe drumul de coastă spre Zimbreirinha. După-amiaza este rezervată istoriei la Satul Islamic și relaxării la ascunsul Portinho do Forno și vibranta plajă Amado. La lăsarea serii, retrageți-vă spre interior la liniștitul complex Monte Velho Eco Resort pentru a vă încheia ziua.",
-        "en": "Your road trip starts with a cultural dive into the Carrapateira Museum, quickly followed by a short hop to the coastal fortress ruins. Around lunchtime, drive up to the breathtaking Bordeira Beach for ocean panoramas, then navigate the coastal road to Zimbreirinha's cliffs. The afternoon is reserved for history at the Islamic Village and a peaceful pause at the hidden Portinho do Forno and lively Amado Beach. As twilight approaches, retreat inland to the serene Monte Velho Eco Resort to reflect on your day."
+        "en": "Your road trip starts with a cultural dive into the Carrapateira Museum, quickly followed by a short hop to the coastal fortress ruins. Around lunchtime, drive up to the breathtaking Bordeira Beach for ocean panoramas, then navigate the coastal road to Zimbreirinha's cliffs. The afternoon is reserved for history at the Islamic Village and a peaceful pause at the hidden Portinho do Forno and lively Amado Beach. As twilight approaches, retreat inland to the serene Monte Velho Eco Resort to reflect on your day.",
+        "pt": "A sua viagem de carro começa com uma imersão cultural no Museu da Carrapateira, seguida rapidamente por um curto salto até às ruínas da fortaleza costeira. À hora de almoço, conduza até à deslumbrante Praia da Bordeira para panoramas sobre o oceano e, em seguida, percorra a estrada costeira até às falésias da Zimbreirinha. A tarde é dedicada à história na Aldeia Islâmica e a uma pausa tranquila no oculto Portinho do Forno e na animada Praia do Amado. À medida que a noite se aproxima, regresse para o interior até ao sereno Monte Velho Eco Resort para reflectir sobre o seu dia."
       },
       "variants": {
         "rainy": {
@@ -952,7 +1053,8 @@
             "de": "Im Auto ist der Regen kein Hindernis. Wir starten trocken am Museum und fahren dann zur Festung. Mittags genießen wir den Blick auf den Strand von Bordeira aus dem warmen Fahrzeug heraus. Am Nachmittag besuchen wir die verschiedenen Buchten und das Fischerdorf, wobei wir nur für kurze Erkundungsgänge aussteigen. Den Abend verbringen wir entspannt im Eco Resort, während der Regen gegen die Scheiben prasselt.",
             "hu": "Az autó kényelmében az eső sem akadály. Szárazon indítunk a múzeumnál, majd az erőd felé vesszük az irányt. Délben a Bordeira-part látványát a fűtött járműből élvezzük, csak rövid sétákra szállunk ki. Délután a halászfalu és a kikötő vörös sziklái között kalandozunk, az autó pedig menedéket nyújt a záporok között. Az estét az öko-resort nyugalmában zárjuk, hallgatva az eső kopogását.",
             "ro": "În confortul mașinii, ploaia nu este un obstacol. Începem ziua la muzeu și continuăm spre fortăreață. La prânz, admirăm plaja Bordeira direct din vehiculul încălzit, coborând doar pentru scurte plimbări. După-amiaza vizităm satul pescaresc și golfurile stâncoase, folosind mașina ca adăpost între averse. Seara ne relaxăm la eco-resort, ascultând sunetul ploii pe ferestre.",
-            "en": "The rain is no obstacle from the comfort of your car. Start dry at the museum before driving to the fortress. At noon, enjoy the view of Bordeira beach from your warm vehicle, stepping out only for short walks. In the afternoon, visit the fishing village and the red cliffs, using the car as a mobile shelter between showers. End the evening peacefully at the eco resort as the rain falls outside."
+            "en": "The rain is no obstacle from the comfort of your car. Start dry at the museum before driving to the fortress. At noon, enjoy the view of Bordeira beach from your warm vehicle, stepping out only for short walks. In the afternoon, visit the fishing village and the red cliffs, using the car as a mobile shelter between showers. End the evening peacefully at the eco resort as the rain falls outside.",
+            "pt": "A chuva não é obstáculo no conforto do seu carro. Comece seco no museu antes de conduzir até à fortaleza. Ao meio‑dia, desfrute da vista da Praia da Bordeira a partir do seu veículo aquecido, saindo apenas para breves passeios. À tarde, visite a aldeia piscatória e as falésias vermelhas, usando o carro como abrigo móvel entre as chuvadas. Termine a noite calmamente no eco‑resort enquanto a chuva cai lá fora."
           },
           "stops": [
             {
@@ -960,13 +1062,15 @@
                 "de": "Museum für Meer und Land",
                 "hu": "Tenger és Föld Múzeum",
                 "ro": "Muzeul Mării și Pământului",
-                "en": "Museum of the Sea and Land"
+                "en": "Museum of the Sea and Land",
+                "pt": "Museu do Mar e da Terra"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Eingang, um den Regen zu vermeiden; drinnen erwartet Sie eine faszinierende Ausstellung in völlig trockener Umgebung.",
                 "hu": "Parkoljon közvetlenül a bejáratnál, hogy elkerülje az esőt; bent lenyűgöző kiállítás várja, teljesen száraz és kényelmes környezetben.",
                 "ro": "Parcați chiar lângă intrare pentru a evita ploaia; în interior vă așteaptă o expoziție fascinantă într-un mediu complet uscat și cald.",
-                "en": "Park right near the entrance to avoid the rain; inside, a fascinating exhibition awaits you in a completely dry and comfortable environment."
+                "en": "Park right near the entrance to avoid the rain; inside, a fascinating exhibition awaits you in a completely dry and comfortable environment.",
+                "pt": "Estacione mesmo junto à entrada para evitar a chuva; no interior espera‑lo‑á uma exposição fascinante num ambiente completamente seco e confortável."
               }
             },
             {
@@ -974,13 +1078,15 @@
                 "de": "Festung von Carrapateira",
                 "hu": "Carrapateira Erőd",
                 "ro": "Fortăreața Carrapateira",
-                "en": "Carrapateira Fortress"
+                "en": "Carrapateira Fortress",
+                "pt": "Fortaleza da Carrapateira"
               },
               "tip_5lang": {
                 "de": "Es gibt Parkplätze direkt an der Ruine; genießen Sie den Blick auf die tosenden Wellen, bevor Sie schnell zurück ins warme Auto springen.",
                 "hu": "Közvetlenül a romok mellett találhatók parkolóhelyek; élvezze a tajtékzó hullámok látványát, mielőtt visszaugrana a meleg autóba.",
                 "ro": "Există locuri de parcare chiar lângă ruine; bucurați-vă de vederea valurilor înfuriate înainte de a vă întoarce rapid în mașina caldă.",
-                "en": "There are parking spots right by the ruins; enjoy the view of the crashing waves before quickly hopping back into your warm vehicle."
+                "en": "There are parking spots right by the ruins; enjoy the view of the crashing waves before quickly hopping back into your warm vehicle.",
+                "pt": "Existem lugares de estacionamento mesmo junto às ruínas; aproveite a vista das ondas a rebentar antes de voltar rapidamente para o seu veículo quente."
               }
             },
             {
@@ -988,13 +1094,15 @@
                 "de": "Strand von Bordeira",
                 "hu": "Bordeira-part",
                 "ro": "Plaja Bordeira",
-                "en": "Bordeira Beach"
+                "en": "Bordeira Beach",
+                "pt": "Praia da Bordeira"
               },
               "tip_5lang": {
                 "de": "Vom Parkplatz oben auf den Klippen haben Sie einen fantastischen Panoramablick auf den Strand, ohne im Regen durch den Sand laufen zu müssen.",
                 "hu": "A szikla tetején lévő parkolóból fantasztikus panoráma nyílik a partra, anélkül, hogy az esőben a homokon kellene keresztülvágni.",
                 "ro": "Din parcarea de pe vârful stâncii aveți o vedere panoramică fantastică asupra plajei, fără a fi nevoie să mergeți prin nisip pe ploaie.",
-                "en": "From the parking area on top of the cliffs, you have a fantastic panoramic view of the beach without needing to trek through the wet sand."
+                "en": "From the parking area on top of the cliffs, you have a fantastic panoramic view of the beach without needing to trek through the wet sand.",
+                "pt": "A partir da área de estacionamento no topo das falésias tem uma vista panorâmica fantástica da praia sem precisar de atravessar a areia molhada."
               }
             },
             {
@@ -1002,13 +1110,15 @@
                 "de": "Praia da Zimbreirinha",
                 "hu": "Praia da Zimbreirinha",
                 "ro": "Praia da Zimbreirinha",
-                "en": "Praia da Zimbreirinha"
+                "en": "Praia da Zimbreirinha",
+                "pt": "Praia da Zimbreirinha"
               },
               "tip_5lang": {
                 "de": "Der Weg zum Parkplatz kann schmal und rutschig sein; fahren Sie vorsichtig und genießen Sie die Aussicht auf die Klippen aus dem Fenster.",
                 "hu": "A parkolóhoz vezető út keskeny és csúszós lehet; vezessen óvatosan, és csodálja meg a sziklák látványát közvetlenül az autó ablakából.",
                 "ro": "Drumul spre parcare poate fi îngust și alunecos; conduceți cu prudență și admirați stâncile direct de la geamul mașinii.",
-                "en": "The road to the parking spot can be narrow and slippery; drive carefully and admire the cliff views directly from your car window."
+                "en": "The road to the parking spot can be narrow and slippery; drive carefully and admire the cliff views directly from your car window.",
+                "pt": "A estrada até ao parque de estacionamento pode ser estreita e escorregadia; conduza com cuidado e admire as vistas das falésias diretamente pela janela do carro."
               }
             },
             {
@@ -1016,13 +1126,15 @@
                 "de": "Islamisches Fischerdorf",
                 "hu": "Iszlám Halászfalu",
                 "ro": "Satul Islamic de Pescari",
-                "en": "Islamic Fishing Village"
+                "en": "Islamic Fishing Village",
+                "pt": "Aldeia Piscatória Islâmica"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Pfad; ein kurzer, regnerischer Spaziergang führt Sie zu den faszinierenden archäologischen Überresten.",
                 "hu": "Parkoljon a lehető legközelebb az ösvényhez; egy rövid, esős séta is elegendő a lenyűgöző régészeti maradványok megtekintéséhez.",
                 "ro": "Parcați cât mai aproape de potecă; o scurtă plimbare prin ploaie este suficientă pentru a vedea vestigiile arheologice fascinante.",
-                "en": "Park as close as possible to the path; a short, rainy walk is enough to see the fascinating archaeological remains and ruins."
+                "en": "Park as close as possible to the path; a short, rainy walk is enough to see the fascinating archaeological remains and ruins.",
+                "pt": "Estacione o mais próximo possível do caminho; uma curta caminhada na chuva chega para ver os fascinantes restos arqueológicos e as ruínas."
               }
             },
             {
@@ -1030,13 +1142,15 @@
                 "de": "Praia do Portinho do Forno",
                 "hu": "Praia do Portinho do Forno",
                 "ro": "Praia do Portinho do Forno",
-                "en": "Praia do Portinho do Forno"
+                "en": "Praia do Portinho do Forno",
+                "pt": "Praia do Portinho do Forno"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das wilde Meer vom Parkplatz aus; die roten Klippen wirken bei Regen besonders gesättigt und farbenfroh.",
                 "hu": "Figyelje a vad tenger hullámzását a parkolóból; a vörös sziklák színei esőben még telítettebbnek és látványosabbnak tűnnek.",
                 "ro": "Observați marea sălbatică direct din parcare; culorile stâncilor roșii par mult mai intense și spectaculoase pe timp de ploaie.",
-                "en": "Watch the wild sea from the parking lot; the colors of the red cliffs appear much more saturated and vivid in the rainy weather."
+                "en": "Watch the wild sea from the parking lot; the colors of the red cliffs appear much more saturated and vivid in the rainy weather.",
+                "pt": "Observe o mar bravo a partir do parque de estacionamento; as cores das falésias vermelhas ficam muito mais saturadas e vivas com o tempo chuvoso."
               }
             },
             {
@@ -1044,13 +1158,15 @@
                 "de": "Praia do Amado",
                 "hu": "Praia do Amado",
                 "ro": "Praia do Amado",
-                "en": "Praia do Amado"
+                "en": "Praia do Amado",
+                "pt": "Praia do Amado"
               },
               "tip_5lang": {
                 "de": "Der große Parkplatz bietet viele gute Sichtpunkte; ideal, um die Surfer im Regen zu beobachten, während man im trockenen Auto sitzt.",
                 "hu": "A nagy parkoló számos jó kilátópontot kínál; ideális a szörfösök megfigyeléséhez az esőben, miközben Ön a száraz autóban ül.",
                 "ro": "Parcarea mare oferă multe puncte de observație bune; este locul ideal pentru a vedea surferii prin ploaie stând în mașina uscată.",
-                "en": "The large parking area offers many great viewpoints; it is ideal for watching the surfers in the rain while you stay dry in your car."
+                "en": "The large parking area offers many great viewpoints; it is ideal for watching the surfers in the rain while you stay dry in your car.",
+                "pt": "A grande área de estacionamento oferece muitos excelentes miradouros; é ideal para ver os surfistas na chuva enquanto permanece seco no seu carro."
               }
             },
             {
@@ -1058,13 +1174,15 @@
                 "de": "Monte Velho Eco Resort",
                 "hu": "Monte Velho Eco Resort",
                 "ro": "Monte Velho Eco Resort",
-                "en": "Monte Velho Eco Resort"
+                "en": "Monte Velho Eco Resort",
+                "pt": "Monte Velho Eco Resort"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Abschluss für einen Regentag; genießen Sie die ökologische Architektur und die Ruhe der Natur im geschützten Resort.",
                 "hu": "Tökéletes befejezése egy esős napnak; élvezze az ökológiai építészetet és a természet csendjét a védett és kényelmes resortban.",
                 "ro": "Finalul perfect pentru o zi ploioasă; bucurați-vă de arhitectura ecologică și de liniștea naturii în acest complex protejat.",
-                "en": "A perfect ending to a rainy day; enjoy the eco-friendly architecture and the peace of nature within the protected resort grounds."
+                "en": "A perfect ending to a rainy day; enjoy the eco-friendly architecture and the peace of nature within the protected resort grounds.",
+                "pt": "Um final perfeito para um dia chuvoso; aprecie a arquitectura ecológica e a paz da natureza dentro dos terrenos protegidos do resort."
               }
             }
           ]
@@ -1074,7 +1192,8 @@
             "de": "Winter im Auto bedeutet maximalen Komfort bei fantastischer Fernsicht. Morgens besuchen wir das Museum, danach geht es zur Festung. Mittags fahren wir entlang der Küstenstraße und genießen das klare Winterlicht über dem Atlantik. Die roten Klippen leuchten in der tiefstehenden Sonne besonders schön. Da es um 17 Uhr dunkel wird, beziehen wir unser Quartier im Eco Resort rechtzeitig, um den klaren Sternenhimmel zu bewundern.",
             "hu": "A téli autózás maximális kényelmet nyújt a tiszta látási viszonyok mellett. Reggel a múzeumnál indítunk, majd az erődhöz hajtunk. Délben a parti utakon gurulva csodáljuk az Atlanti-óceán feletti éles téli fényeket. A vörös sziklák az alacsonyan járó napfényben különösen szépen ragyognak. Mivel 17 órakor sötétedik, időben elfoglaljuk helyünket az öko-resortban a csillagok megfigyeléséhez.",
             "ro": "Iarna în mașină înseamnă confort maxim și vizibilitate excelentă. Dimineața vizităm muzeul, apoi mergem la fortăreață. La prânz, conducem pe drumul de coastă și admirăm lumina clară de iarnă deasupra Atlanticului. Stâncile roșii strălucesc superb în soarele de după-amiază. Deoarece se întunecă la ora 17:00, ajungem devreme la eco-resort pentru a vedea cerul înstelat.",
-            "en": "Winter driving offers maximum comfort with fantastic visibility. Start the morning at the museum before heading to the fortress. At noon, drive along the coastal roads to enjoy the crisp winter light over the Atlantic. The red cliffs glow beautifully in the low-hanging sun. Since it gets dark by 17:00, settle into the eco resort early to catch the spectacular clear starlit sky."
+            "en": "Winter driving offers maximum comfort with fantastic visibility. Start the morning at the museum before heading to the fortress. At noon, drive along the coastal roads to enjoy the crisp winter light over the Atlantic. The red cliffs glow beautifully in the low-hanging sun. Since it gets dark by 17:00, settle into the eco resort early to catch the spectacular clear starlit sky.",
+            "pt": "Conduzir no inverno oferece máximo conforto com visibilidade fantástica. Comece a manhã no museu antes de rumar à fortaleza. Ao meio‑dia, conduza pelas estradas costeiras para apreciar a luz clara de inverno sobre o Atlântico. As falésias vermelhas brilham lindamente no sol baixo. Como escurece por volta das 17:00, instale‑se cedo no eco‑resort para apanhar o espectacular céu estrelado e límpido."
           },
           "stops": [
             {
@@ -1082,13 +1201,15 @@
                 "de": "Museum für Meer und Land",
                 "hu": "Tenger és Föld Múzeum",
                 "ro": "Muzeul Mării și Pământului",
-                "en": "Museum of the Sea and Land"
+                "en": "Museum of the Sea and Land",
+                "pt": "Museu do Mar e da Terra"
               },
               "tip_5lang": {
                 "de": "Dank der Heizung ist das Museum ein gemütlicher Startpunkt; Parkplätze sind im Winter reichlich vorhanden und direkt am Gebäude.",
                 "hu": "A fűtésnek köszönhetően a múzeum barátságos indópont; télen bőségesen talál parkolóhelyet közvetlenül az épület mellett.",
                 "ro": "Datorită încălzirii, muzeul este un punct de start primitor; iarna sunt destule locuri de parcare chiar lângă clădire.",
-                "en": "Thanks to the heating, the museum is a cozy starting point; parking is plentiful in winter and located directly by the building."
+                "en": "Thanks to the heating, the museum is a cozy starting point; parking is plentiful in winter and located directly by the building.",
+                "pt": "Graças ao aquecimento, o museu é um ponto de partida acolhedor; o estacionamento é abundante no inverno e localizado diretamente junto ao edifício."
               }
             },
             {
@@ -1096,13 +1217,15 @@
                 "de": "Festung von Carrapateira",
                 "hu": "Carrapateira Erőd",
                 "ro": "Fortăreața Carrapateira",
-                "en": "Carrapateira Fortress"
+                "en": "Carrapateira Fortress",
+                "pt": "Fortaleza da Carrapateira"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick auf den Ozean; die klare Winterluft ermöglicht Sichtweiten bis weit nach Sagres hinunter.",
                 "hu": "Élvezze a végtelen kilátást az óceánra; a tiszta téli levegő lehetővé teszi, hogy egészen Sagres irányába is elláthasson a part mentén.",
                 "ro": "Bucurați-vă de vederea vastă asupra oceanului; aerul clar de iarnă permite o vizibilitate excelentă până departe în direcția Sagres.",
-                "en": "Enjoy the vast view of the ocean; the clear winter air allows for incredible visibility stretching far down the coast towards Sagres."
+                "en": "Enjoy the vast view of the ocean; the clear winter air allows for incredible visibility stretching far down the coast towards Sagres.",
+                "pt": "Desfrute da vasta vista do oceano; o ar claro de inverno permite uma visibilidade incrível que se estende ao longo da costa até Sagres."
               }
             },
             {
@@ -1110,13 +1233,15 @@
                 "de": "Strand von Bordeira",
                 "hu": "Bordeira-part",
                 "ro": "Plaja Bordeira",
-                "en": "Bordeira Beach"
+                "en": "Bordeira Beach",
+                "pt": "Praia da Bordeira"
               },
               "tip_5lang": {
                 "de": "Das warme Auto ist die perfekte Basis, um die gewaltige Winterbrandung zu beobachten, ohne im kalten Wind auszukühlen.",
                 "hu": "A meleg autó tökéletes bázis a hatalmas téli hullámzás megfigyeléséhez, anélkül, hogy átfagyna a hideg tengerparti szélben.",
                 "ro": "Mașina caldă este baza perfectă pentru a observa valurile uriașe de iarnă fără a îngheța în vântul tăios de pe coastă.",
-                "en": "The warm car is the perfect base to observe the massive winter surf without getting chilled by the biting coastal wind."
+                "en": "The warm car is the perfect base to observe the massive winter surf without getting chilled by the biting coastal wind.",
+                "pt": "O carro quente é a base perfeita para observar a massa de surf de inverno sem ficar arrefecido pelo vento cortante da costa."
               }
             },
             {
@@ -1124,13 +1249,15 @@
                 "de": "Praia da Zimbreirinha",
                 "hu": "Praia da Zimbreirinha",
                 "ro": "Praia da Zimbreirinha",
-                "en": "Praia da Zimbreirinha"
+                "en": "Praia da Zimbreirinha",
+                "pt": "Praia da Zimbreirinha"
               },
               "tip_5lang": {
                 "de": "Die schmale Straße ist im Winter sicher befahrbar, da kaum Gegenverkehr herrscht; genießen Sie die exklusive Einsamkeit der Klippen.",
                 "hu": "A keskeny út télen biztonságosan járható, mivel alig van forgalom; élvezze a sziklák feletti exkluzív magányt és csendet.",
                 "ro": "Drumul îngust este sigur de parcurs iarna, deoarece traficul este minim; bucurați-vă de singurătatea exclusivă de deasupra stâncilor.",
-                "en": "The narrow road is easy to navigate in winter as there is very little traffic; enjoy the exclusive solitude of the cliff-side views."
+                "en": "The narrow road is easy to navigate in winter as there is very little traffic; enjoy the exclusive solitude of the cliff-side views.",
+                "pt": "A estrada estreita é fácil de percorrer no inverno, pois há muito pouco trânsito; desfrute da solidão exclusiva das vistas junto às falésias."
               }
             },
             {
@@ -1138,13 +1265,15 @@
                 "de": "Islamisches Fischerdorf",
                 "hu": "Iszlám Halászfalu",
                 "ro": "Satul Islamic de Pescari",
-                "en": "Islamic Fishing Village"
+                "en": "Islamic Fishing Village",
+                "pt": "Aldeia Piscatória Islâmica"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das letzte Tageslicht für die Ruinen; die Wintersonne steht tief und wirft lange, fotogene Schatten auf die alten Mauern.",
                 "hu": "Használja ki az utolsó nappali fényeket a romoknál; a téli nap alacsonyan jár, és hosszú, fotogén árnyékokat vet a falakra.",
                 "ro": "Profitați de ultima lumină a zilei la ruine; soarele de iarnă este jos și proiectează umbre lungi și fotogenice pe zidurile vechi.",
-                "en": "Use the last daylight for the ruins; the winter sun sits low and casts long, photogenic shadows on the ancient stone walls."
+                "en": "Use the last daylight for the ruins; the winter sun sits low and casts long, photogenic shadows on the ancient stone walls.",
+                "pt": "Use a última luz do dia para as ruínas; o sol de inverno fica baixo e projecta sombras longas e fotogénicas sobre as antigas paredes de pedra."
               }
             },
             {
@@ -1152,13 +1281,15 @@
                 "de": "Praia do Portinho do Forno",
                 "hu": "Praia do Portinho do Forno",
                 "ro": "Praia do Portinho do Forno",
-                "en": "Praia do Portinho do Forno"
+                "en": "Praia do Portinho do Forno",
+                "pt": "Praia do Portinho do Forno"
               },
               "tip_5lang": {
                 "de": "Parken Sie für einen schnellen Blick; die kräftigen Farben der Felsen leuchten im späten Nachmittagslicht besonders intensiv.",
                 "hu": "Parkoljon le egy gyors nézelődésre; a sziklák erőteljes színei a késő délutáni fényben különösen intenzíven ragyognak.",
                 "ro": "Parcați pentru o vedere rapidă; culorile puternice ale stâncilor strălucesc intens în lumina caldă de la sfârșitul după-amiezii.",
-                "en": "Park for a quick look; the bold colors of the rocks glow intensely in the golden light of the late winter afternoon."
+                "en": "Park for a quick look; the bold colors of the rocks glow intensely in the golden light of the late winter afternoon.",
+                "pt": "Estacione para uma vista rápida; as cores intensas das rochas brilham intensamente na luz dourada do fim de tarde de inverno."
               }
             },
             {
@@ -1166,13 +1297,15 @@
                 "de": "Praia do Amado",
                 "hu": "Praia do Amado",
                 "ro": "Praia do Amado",
-                "en": "Praia do Amado"
+                "en": "Praia do Amado",
+                "pt": "Praia do Amado"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor 16:30 Uhr an, um den Sonnenuntergang über dem Atlantik zu erleben; im Winter sind die Farben am Himmel oft dramatischer.",
                 "hu": "Érkezzen 16:30 előtt, hogy lássa a naplementét az óceán felett; télen az égbolt színei gyakran sokkal drámaibbak és élénkebbek.",
                 "ro": "Veniți înainte de ora 16:30 pentru a vedea apusul peste Atlantic; iarna culorile cerului sunt adesea mult mai dramatice.",
-                "en": "Arrive before 16:30 to experience the sunset over the Atlantic; in winter, the colors in the sky are often much more dramatic."
+                "en": "Arrive before 16:30 to experience the sunset over the Atlantic; in winter, the colors in the sky are often much more dramatic.",
+                "pt": "Chegue antes das 16:30 para ver o pôr do sol sobre o Atlântico; no inverno, as cores do céu são muitas vezes bem mais dramáticas."
               }
             },
             {
@@ -1180,13 +1313,15 @@
                 "de": "Monte Velho Eco Resort",
                 "hu": "Monte Velho Eco Resort",
                 "ro": "Monte Velho Eco Resort",
-                "en": "Monte Velho Eco Resort"
+                "en": "Monte Velho Eco Resort",
+                "pt": "Monte Velho Eco Resort"
               },
               "tip_5lang": {
                 "de": "Das Resort ist im Winter ein ruhiger Rückzugsort; ideal für die Sternenbeobachtung, da die Winternächte oft sehr klar sind.",
                 "hu": "A resort télen csendes menedékhely; ideális a csillagok megfigyeléséhez, mivel a téli éjszakák gyakran rendkívül tiszták.",
                 "ro": "Complexul este un refugiu liniștit iarna; locul ideal pentru observarea stelelor, deoarece nopțile de iarnă sunt adesea foarte clare.",
-                "en": "The resort is a quiet sanctuary in winter; ideal for stargazing as the winter nights are often incredibly clear and dark."
+                "en": "The resort is a quiet sanctuary in winter; ideal for stargazing as the winter nights are often incredibly clear and dark.",
+                "pt": "O resort é um santuário tranquilo no inverno; ideal para observar as estrelas, pois as noites invernais costumam ser incrivelmente limpas e escuras."
               }
             }
           ]

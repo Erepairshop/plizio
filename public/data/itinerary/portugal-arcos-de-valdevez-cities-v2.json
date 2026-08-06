@@ -21,7 +21,8 @@
             "de": "Jardim dos Centenários",
             "hu": "Jardim dos Centenários",
             "ro": "Jardim dos Centenários",
-            "en": "Jardim dos Centenários"
+            "en": "Jardim dos Centenários",
+            "pt": "Jardim dos Centenários"
           },
           "coords": [
             -8.4155,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag entspannt am Flussufer.",
             "hu": "Kezdje a napot egy pihentető sétával a folyóparton.",
             "ro": "Începeți-vă ziua cu o plimbare relaxantă pe malul râului.",
-            "en": "Start your day with a relaxing stroll by the riverbank."
+            "en": "Start your day with a relaxing stroll by the riverbank.",
+            "pt": "Comece o dia com um passeio relaxante pela margem do rio."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Ponte de Arcos de Valdevez",
             "hu": "Arcos de Valdevez hídja",
             "ro": "Podul din Arcos de Valdevez",
-            "en": "Bridge of Arcos de Valdevez"
+            "en": "Bridge of Arcos de Valdevez",
+            "pt": "Ponte de Arcos de Valdevez"
           },
           "coords": [
             -8.417,
@@ -59,7 +62,8 @@
             "de": "Perfekter Ort für Fotos, besonders am Morgen.",
             "hu": "Tökéletes fotóhelyszín, különösen reggel.",
             "ro": "Un loc perfect pentru fotografii, mai ales dimineața.",
-            "en": "A perfect spot for photos, especially in the morning."
+            "en": "A perfect spot for photos, especially in the morning.",
+            "pt": "Um local perfeito para fotos, especialmente de manhã."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Relógio de Água",
             "hu": "Vízóra",
             "ro": "Ceasul de Apă",
-            "en": "Water Clock"
+            "en": "Water Clock",
+            "pt": "Relógio de Água"
           },
           "coords": [
             -8.4175,
@@ -82,7 +87,8 @@
             "de": "Ein einzigartiges und cleveres Denkmal im Herzen der Stadt.",
             "hu": "Egy egyedi és ötletes emlékmű a város szívében.",
             "ro": "Un monument unic și inteligent în inima orașului.",
-            "en": "A unique and clever monument in the heart of the town."
+            "en": "A unique and clever monument in the heart of the town.",
+            "pt": "Um monumento único e engenhoso no coração da vila."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Igreja de São Paio",
             "hu": "São Paio templom",
             "ro": "Biserica São Paio",
-            "en": "Church of São Paio"
+            "en": "Church of São Paio",
+            "pt": "Igreja de São Paio"
           },
           "coords": [
             -8.418,
@@ -105,7 +112,8 @@
             "de": "Beachten Sie die barocken Details im Inneren.",
             "hu": "Figyelje meg a belső tér barokk részleteit.",
             "ro": "Observați detaliile baroce din interior.",
-            "en": "Note the Baroque details inside."
+            "en": "Note the Baroque details inside.",
+            "pt": "Repare nos detalhes barrocos do interior."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the city center"
+            "en": "Lunch in the city center",
+            "pt": "Almoço no centro da cidade"
           },
           "coords": [
             -8.4168,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie „Cozido à Minhota“ in einem lokalen Restaurant.",
             "hu": "Kóstolja meg a „Cozido à Minhota”-t egy helyi étteremben.",
             "ro": "Încercați „Cozido à Minhota” la un restaurant local.",
-            "en": "Try 'Cozido à Minhota' at a local restaurant."
+            "en": "Try 'Cozido à Minhota' at a local restaurant.",
+            "pt": "Experimente o 'Cozido à Minhota' num restaurante local."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Centro de Interpretação do Barroco",
             "hu": "Barokk Értelmező Központ",
             "ro": "Centrul de Interpretare a Barocului",
-            "en": "Baroque Interpretation Center"
+            "en": "Baroque Interpretation Center",
+            "pt": "Centro de Interpretação do Barroco"
           },
           "coords": [
             -8.414,
@@ -151,7 +162,8 @@
             "de": "Ein interaktives Museum, ideal, um die lokale Geschichte zu verstehen.",
             "hu": "Interaktív múzeum, ideális a helyi történelem megértéséhez.",
             "ro": "Un muzeu interactiv, ideal pentru a înțelege istoria locală.",
-            "en": "An interactive museum, great for understanding local history."
+            "en": "An interactive museum, great for understanding local history.",
+            "pt": "Um museu interativo, ótimo para compreender a história local."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Paço de Giela",
             "hu": "Paço de Giela",
             "ro": "Paço de Giela",
-            "en": "Paço de Giela"
+            "en": "Paço de Giela",
+            "pt": "Paço de Giela"
           },
           "coords": [
             -8.428,
@@ -174,7 +187,8 @@
             "de": "Ein kurzer, aber lohnender Spaziergang zu diesem nationalen Denkmal.",
             "hu": "Egy rövid, de megérő séta ehhez a nemzeti emlékműhöz.",
             "ro": "O plimbare scurtă, dar meritată, până la acest monument național.",
-            "en": "A short but rewarding walk to this national monument."
+            "en": "A short but rewarding walk to this national monument.",
+            "pt": "Uma curta mas gratificante caminhada até este monumento nacional."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im Jardim dos Centenários am Fluss Vez. Überqueren Sie die mittelalterliche Brücke ins historische Zentrum und bewundern Sie die Kirchen und den einzigartigen Wasseruhr. Nach einem traditionellen Mittagessen erkunden Sie das interaktive Barockzentrum. Der Nachmittag ist dem imposanten Paço de Giela gewidmet, einem nationalen Denkmal, das einen Spaziergang wert ist und einen Einblick in die reiche Vergangenheit der Region bietet.",
         "hu": "Kezdje a napot a Vez folyó melletti Jardim dos Centenários parkban. Sétáljon át a középkori hídon a történelmi központba, csodálja meg a templomokat és az egyedülálló Vízórát. Egy hagyományos ebéd után fedezze fel az interaktív Barokk Központot. A délutánt a lenyűgöző Paço de Giela felfedezésével töltse, amely egy nemzeti műemlék, és bepillantást nyújt a régió gazdag múltjába.",
         "ro": "Începeți ziua în Jardim dos Centenários, lângă râul Vez. Traversați podul medieval spre centrul istoric, admirând bisericile și Ceasul de Apă unic. După un prânz tradițional, explorați interactivul Centru Baroc. După-amiaza este dedicată explorării impunătorului Paço de Giela, un monument național care merită plimbarea și oferă o perspectivă asupra trecutului bogat al regiunii.",
-        "en": "Start your day at Jardim dos Centenários by the river Vez. Cross the medieval bridge into the historic center, admiring the churches and the unique Water Clock. After a traditional lunch, explore the interactive Baroque Center. The afternoon is for discovering the imposing Paço de Giela, a national monument worth the walk, offering a glimpse into the region's rich past."
+        "en": "Start your day at Jardim dos Centenários by the river Vez. Cross the medieval bridge into the historic center, admiring the churches and the unique Water Clock. After a traditional lunch, explore the interactive Baroque Center. The afternoon is for discovering the imposing Paço de Giela, a national monument worth the walk, offering a glimpse into the region's rich past.",
+        "pt": "Comece o dia no Jardim dos Centenários junto ao rio Vez. Atravesse a ponte medieval até ao centro histórico, admirando as igrejas e o singular Relógio de Água. Após um almoço tradicional, explore o interativo Centro do Barroco. A tarde é para descobrir o imponente Paço de Giela, um monumento nacional que vale a pena a caminhada, oferecendo um vislumbre do rico passado da região."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Take your time to relax by the riverside.",
           "The town is small, so it's easy to navigate on foot.",
           "Ask locals for restaurant recommendations."
+        ],
+        "pt": [
+          "Use calçado confortável, pois os paralelepípedos podem ser irregulares.",
+          "Tome o seu tempo para relaxar junto ao rio.",
+          "A vila é pequena, por isso é fácil percorrê-la a pé.",
+          "Peça aos locais recomendações de restaurantes."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Der Morgen beginnt unter dem Regenschirm im nebligen Garten am Fluss. Mittags bieten die Arkaden der Altstadt Schutz, während wir lokale Spezialitäten genießen. Der Nachmittag im Barockzentrum ist der perfekte Rückzugsort vor dem Guss. Abends beobachten wir den Regen von einer gemütlichen Weinstube aus, während das Kopfsteinpflaster im Laternenlicht glänzt.",
             "hu": "A reggel esernyő alatt indul a ködös folyóparti kertben. Délben az óváros árkádjai nyújtanak menedéket, miközben helyi specialitásokat kóstolunk. A délutáni barokk központ tökéletes búvóhely a zápor elől. Este egy hangulatos borozóból figyeljük az esőt, ahogy a macskakövek megcsillannak a lámpafényben.",
             "ro": "Dimineața începe sub umbrelă în grădina ceațoasă de lângă râu. La prânz, arcadele centrului vechi oferă adăpost în timp ce savurăm specialități locale. După-amiaza la centrul baroc este refugiul perfect împotriva aversei. Seara observăm ploaia dintr-o tavernă primitoare, în timp ce pavajul strălucește sub lumina felinarelor.",
-            "en": "The morning starts under an umbrella in the misty riverside garden. At noon, the old town's arcades provide shelter as we enjoy local specialties. The afternoon at the Baroque Center is the perfect retreat from the downpour. In the evening, we watch the rain from a cozy wine bar as the cobblestones glisten under the streetlights."
+            "en": "The morning starts under an umbrella in the misty riverside garden. At noon, the old town's arcades provide shelter as we enjoy local specialties. The afternoon at the Baroque Center is the perfect retreat from the downpour. In the evening, we watch the rain from a cozy wine bar as the cobblestones glisten under the streetlights.",
+            "pt": "A manhã começa debaixo de um guarda-chuva no jardim enevoado à beira-rio. Ao meio-dia, os arcossóis da aldeia velha oferecem abrigo enquanto desfrutamos das especialidades locais. A tarde no Centro do Barroco é o retiro perfeito da chuva intensa. À noite, observamos a chuva num acolhedor bar de vinhos enquanto os paralelepípedos brilham sob os candeeiros."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Nutzen Sie den Musikpavillon als trockenen Aussichtspunkt.",
                 "hu": "Használja a zenepavilont száraz kilátópontként.",
                 "ro": "Folosiți foișorul ca punct de observație uscat.",
-                "en": "Use the bandstand as a dry lookout point."
+                "en": "Use the bandstand as a dry lookout point.",
+                "pt": "Use o coreto como ponto de observação seco."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Vorsicht, die Granitsteine sind bei Nässe sehr rutschig.",
                 "hu": "Vigyázat, a gránitkövek nedvesen nagyon csúszósak.",
                 "ro": "Atenție, pietrele de granit sunt foarte alunecoase când sunt ude.",
-                "en": "Caution, the granite stones are very slippery when wet."
+                "en": "Caution, the granite stones are very slippery when wet.",
+                "pt": "Cuidado, as pedras de granito ficam muito escorregadias quando molhadas."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Ein kurzes Foto genügt, suchen Sie danach schnell Schutz.",
                 "hu": "Egy gyors fotó elég, utána keressen gyorsan fedezéket.",
                 "ro": "O fotografie scurtă e suficientă, apoi căutați repede adăpost.",
-                "en": "A quick photo is enough, then seek shelter quickly."
+                "en": "A quick photo is enough, then seek shelter quickly.",
+                "pt": "Uma foto rápida chega, depois procure abrigo rapidamente."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Ein ruhiger Ort, um den stärksten Regen abzuwarten.",
                 "hu": "Csendes hely a legerősebb eső kivárására.",
                 "ro": "Un loc liniștit pentru a aștepta trecerea celei mai mari ploi.",
-                "en": "A quiet place to wait out the heaviest rain."
+                "en": "A quiet place to wait out the heaviest rain.",
+                "pt": "Um local tranquilo para aguardar a chuva mais forte passar."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Wählen Sie ein Restaurant mit Blick auf die verregnete Brücke.",
                 "hu": "Válasszon éttermet kilátással az esős hídra.",
                 "ro": "Alegeți un restaurant cu vedere la podul plouat.",
-                "en": "Choose a restaurant with a view of the rainy bridge."
+                "en": "Choose a restaurant with a view of the rainy bridge.",
+                "pt": "Escolha um restaurante com vista para a ponte chuvosa."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Ideal für regnerische Stunden, da komplett überdacht.",
                 "hu": "Ideális esős órákra, mivel teljesen fedett.",
                 "ro": "Ideal pentru orele ploioase, fiind complet acoperit.",
-                "en": "Ideal for rainy hours as it is completely covered."
+                "en": "Ideal for rainy hours as it is completely covered.",
+                "pt": "Ideal para horas de chuva, pois é totalmente coberto."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Der Turm bietet Schutz und eine dramatische Aussicht.",
                 "hu": "A torony védelmet és drámai kilátást nyújt.",
                 "ro": "Turnul oferă protecție și o priveliște dramatică.",
-                "en": "The tower offers shelter and a dramatic view."
+                "en": "The tower offers shelter and a dramatic view.",
+                "pt": "A torre oferece abrigo e uma vista dramática."
               }
             }
           ],
@@ -477,6 +506,12 @@
               "Seek shelter in the old town cafes.",
               "Waterproof shoes help on the cobblestone streets.",
               "Visit indoor spaces during the heaviest showers."
+            ],
+            "pt": [
+              "Um guarda-chuva resistente é imprescindível na região do Minho.",
+              "Procure abrigo nos cafés do centro histórico.",
+              "Sapatos impermeáveis ajudam nas ruas de paralelepípedos.",
+              "Visite espaços interiores durante as chuvas mais fortes."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Die klare Winterluft am Morgen weckt die Geister am Flussufer. Mittags wärmen wir uns mit einem kräftigen 'Cozido' in einer lokalen Taverne auf. Das weiche Licht des Nachmittags taucht die historischen Mauern von Giela in Gold. Da die Sonne früh untergeht, genießen wir den restlichen Abend bei Kamingesprächen und regionalem Rotwein.",
             "hu": "A reggeli tiszta téli levegő felfrissít a folyóparton. Délben egy kiadós 'Cozido'-val melegszünk fel egy helyi tavernában. A délutáni lágy fények aranyba vonják Giela történelmi falait. Mivel a nap korán nyugszik, az este hátralévő részét kandalló melletti beszélgetéssel és helyi vörösborral töltjük.",
             "ro": "Aerul curat de iarnă de dimineață ne trezește simțurile pe malul râului. La prânz ne încălzim cu un 'Cozido' consistent într-o tavernă locală. Lumina blândă a după-amiezii îmbracă zidurile istorice ale Giela în auriu. Deoarece soarele apune devreme, ne bucurăm de restul serii la gura căminului cu un vin roșu regional.",
-            "en": "The crisp winter air in the morning awakens the senses by the river. At noon, we warm up with a hearty 'Cozido' in a local tavern. The soft afternoon light bathes the historic walls of Giela in gold. As the sun sets early, we enjoy the rest of the evening with fireside chats and regional red wine."
+            "en": "The crisp winter air in the morning awakens the senses by the river. At noon, we warm up with a hearty 'Cozido' in a local tavern. The soft afternoon light bathes the historic walls of Giela in gold. As the sun sets early, we enjoy the rest of the evening with fireside chats and regional red wine.",
+            "pt": "O ar frio e seco da manhã desperta os sentidos junto ao rio. Ao meio-dia, aquecemo-nos com um robusto 'Cozido' numa taberna local. A suave luz da tarde banha as paredes históricas de Giela em dourado. Como o sol se põe cedo, desfrutamos da restante noite com conversas à lareira e vinho tinto regional."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Tragen Sie Schichten gegen den kühlen Wind vom Fluss.",
                 "hu": "Öltözzön rétegesen a folyó felől fújó hűvös szél ellen.",
                 "ro": "Purtați straturi de haine împotriva vântului rece de la râu.",
-                "en": "Wear layers against the cool wind from the river."
+                "en": "Wear layers against the cool wind from the river.",
+                "pt": "Use camadas de roupa para se proteger do vento fresco vindo do rio."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Das Winterlicht bietet fantastische Fotomöglichkeiten.",
                 "hu": "A téli fények fantasztikus fotózási lehetőségeket kínálnak.",
                 "ro": "Lumina de iarnă oferă oportunități fantastice pentru fotografii.",
-                "en": "The winter light provides fantastic photo opportunities."
+                "en": "The winter light provides fantastic photo opportunities.",
+                "pt": "A luz de inverno oferece fantásticas oportunidades fotográficas."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Bei Frost kann der Boden hier besonders glatt sein.",
                 "hu": "Fagy esetén a talaj itt különösen csúszós lehet.",
                 "ro": "În caz de îngheț, solul poate fi deosebit de alunecos aici.",
-                "en": "In case of frost, the ground here can be extra slippery."
+                "en": "In case of frost, the ground here can be extra slippery.",
+                "pt": "Em caso de geada, o chão aqui pode ficar ainda mais escorregadio."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Die dicken Mauern halten die Kälte oft draußen.",
                 "hu": "A vastag falak gyakran kint tartják a hideget.",
                 "ro": "Zidurile groase țin adesea frigul afară.",
-                "en": "The thick walls often keep the cold outside."
+                "en": "The thick walls often keep the cold outside.",
+                "pt": "As paredes espessas frequentemente mantêm o frio do lado de fora."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Probieren Sie heiße portugiesische Eintöpfe zum Aufwärmen.",
                 "hu": "Próbálja ki a forró portugál egytálételeket a felmelegedéshez.",
                 "ro": "Încercați tocănițele portugheze fierbinți pentru încălzire.",
-                "en": "Try hot Portuguese stews to warm up."
+                "en": "Try hot Portuguese stews to warm up.",
+                "pt": "Experimente guisados quentes portugueses para aquecer."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Ein angenehm temperierter Ort für den Nachmittag.",
                 "hu": "Kellemes hőmérsékletű hely a délutáni pihenéshez.",
                 "ro": "Un loc cu temperatură plăcută pentru după-amiază.",
-                "en": "A pleasantly tempered place for the afternoon."
+                "en": "A pleasantly tempered place for the afternoon.",
+                "pt": "Um local agradavelmente temperado para a tarde."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Kommen Sie vor 17:00 Uhr, um den Sonnenuntergang zu sehen.",
                 "hu": "Érkezzen 17:00 előtt, hogy lássa a naplementét.",
                 "ro": "Sosiți înainte de ora 17:00 pentru a vedea apusul.",
-                "en": "Arrive before 5 PM to see the sunset."
+                "en": "Arrive before 5 PM to see the sunset.",
+                "pt": "Chegue antes das 17:00 para ver o pôr do sol."
               }
             }
           ],
@@ -576,6 +619,12 @@
               "Mornings can be very foggy by the riverbank.",
               "Warm gloves are advisable for the evening walk.",
               "Enjoy the off-season peace without tourists."
+            ],
+            "pt": [
+              "O sol põe-se por volta das 17:30 no inverno.",
+              "As manhãs podem ser muito nevoentas junto à margem do rio.",
+              "Luvas quentes são aconselháveis para a caminhada noturna.",
+              "Desfrute da paz da época baixa, sem turistas."
             ]
           }
         }
@@ -594,7 +643,8 @@
             "de": "Fahrradverleih & Start am Fluss",
             "hu": "Kerékpárkölcsönzés és indulás a folyónál",
             "ro": "Închiriere biciclete & Start pe râu",
-            "en": "Bike Rental & Start at the River"
+            "en": "Bike Rental & Start at the River",
+            "pt": "Aluguer de Bicycleta & Partida junto ao Rio"
           },
           "coords": [
             -8.4145,
@@ -609,7 +659,8 @@
             "de": "Mieten Sie ein Fahrrad in der Nähe des Flusses für eine malerische Route.",
             "hu": "Béreljen kerékpárt a folyó közelében egy festői útvonalhoz.",
             "ro": "Închiriați o bicicletă lângă râu pentru un traseu pitoresc.",
-            "en": "Rent a bike near the river for a scenic route."
+            "en": "Rent a bike near the river for a scenic route.",
+            "pt": "Alugue uma bicicleta perto do rio para um percurso cénico."
           }
         },
         {
@@ -617,7 +668,8 @@
             "de": "Paço de Giela",
             "hu": "Paço de Giela",
             "ro": "Paço de Giela",
-            "en": "Paço de Giela"
+            "en": "Paço de Giela",
+            "pt": "Paço de Giela"
           },
           "coords": [
             -8.428,
@@ -632,7 +684,8 @@
             "de": "Der Radweg hierher ist angenehm und bietet tolle Ausblicke.",
             "hu": "A kerékpárút ide kellemes és remek kilátást nyújt.",
             "ro": "Pista de biciclete până aici este plăcută și oferă vederi minunate.",
-            "en": "The bike ride here is pleasant and offers great views."
+            "en": "The bike ride here is pleasant and offers great views.",
+            "pt": "O passeio de bicicleta até aqui é agradável e oferece ótimas vistas."
           }
         },
         {
@@ -640,7 +693,8 @@
             "de": "Mittagessen in der Nähe von Paço de Giela",
             "hu": "Ebéd a Paço de Giela közelében",
             "ro": "Prânz lângă Paço de Giela",
-            "en": "Lunch near Paço de Giela"
+            "en": "Lunch near Paço de Giela",
+            "pt": "Almoço perto do Paço de Giela"
           },
           "coords": [
             -8.427,
@@ -655,7 +709,8 @@
             "de": "Finden Sie ein rustikales Restaurant für ein authentisches Erlebnis.",
             "hu": "Keressen egy rusztikus éttermet egy autentikus élményért.",
             "ro": "Găsiți un restaurant rustic pentru o experiență autentică.",
-            "en": "Find a rustic restaurant for an authentic experience."
+            "en": "Find a rustic restaurant for an authentic experience.",
+            "pt": "Procure um restaurante rústico para uma experiência autêntica."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Ponte de Arcos de Valdevez",
             "hu": "Arcos de Valdevez hídja",
             "ro": "Podul din Arcos de Valdevez",
-            "en": "Bridge of Arcos de Valdevez"
+            "en": "Bridge of Arcos de Valdevez",
+            "pt": "Ponte de Arcos de Valdevez"
           },
           "coords": [
             -8.417,
@@ -678,7 +734,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie über die Brücke.",
             "hu": "Tegye le a biciklit és sétáljon át a hídon.",
             "ro": "Parcați bicicleta și traversați podul pe jos.",
-            "en": "Park your bike and walk across the bridge."
+            "en": "Park your bike and walk across the bridge.",
+            "pt": "Estacione a bicicleta e atravesse a ponte a pé."
           }
         },
         {
@@ -686,7 +743,8 @@
             "de": "Igreja der Lapa & Zentrum",
             "hu": "Lapa templom és központ",
             "ro": "Biserica Lapa și Centru",
-            "en": "Lapa Church & Center"
+            "en": "Lapa Church & Center",
+            "pt": "Igreja da Lapa & Centro"
           },
           "coords": [
             -8.4165,
@@ -701,7 +759,8 @@
             "de": "Erkunden Sie die Gassen rund um die Kirche.",
             "hu": "Fedezze fel a templom körüli szűk utcákat.",
             "ro": "Explorați străduțele din jurul bisericii.",
-            "en": "Explore the alleyways around the church."
+            "en": "Explore the alleyways around the church.",
+            "pt": "Explore as vielas em redor da igreja."
           }
         },
         {
@@ -709,7 +768,8 @@
             "de": "Entspannung im Jardim dos Centenários",
             "hu": "Pihenés a Jardim dos Centenários-ban",
             "ro": "Relaxare în Jardim dos Centenários",
-            "en": "Relax at Jardim dos Centenários"
+            "en": "Relax at Jardim dos Centenários",
+            "pt": "Relaxe no Jardim dos Centenários"
           },
           "coords": [
             -8.4155,
@@ -724,7 +784,8 @@
             "de": "Ein großartiger Ort, um den Tag ausklingen zu lassen und das Fahrrad zurückzugeben.",
             "hu": "Nagyszerű hely a nap befejezéséhez és a kerékpár visszaadásához.",
             "ro": "Un loc minunat pentru a încheia ziua și a returna bicicleta.",
-            "en": "A great place to end the day and return the bike."
+            "en": "A great place to end the day and return the bike.",
+            "pt": "Um ótimo local para terminar o dia e devolver a bicicleta."
           }
         }
       ],
@@ -732,7 +793,8 @@
         "de": "Mieten Sie ein Fahrrad und beginnen Sie Ihre Tour mit einer Fahrt zum Paço de Giela, einem beeindruckenden nationalen Denkmal. Genießen Sie nach der Erkundung ein Mittagessen in der Nähe. Radeln Sie zurück ins Herz der Stadt, überqueren Sie die historische Brücke und erkunden Sie die engen Gassen um die Igreja der Lapa. Beenden Sie Ihren Tag mit einer entspannten Zeit im Jardim dos Centenários, bevor Sie Ihr Fahrrad zurückgeben.",
         "hu": "Béreljen kerékpárt, és kezdje a túrát a Paço de Giela-hoz, egy lenyűgöző nemzeti emlékműhöz. A felfedezés után ebédeljen a közelben. Tekerjen vissza a város szívébe, keljen át a történelmi hídon, és fedezze fel a Lapa templom körüli szűk utcákat. A napot a Jardim dos Centenários-ban pihenve fejezze be, mielőtt visszaadná a kerékpárt.",
         "ro": "Închiriați o bicicletă și începeți turul cu o plimbare la Paço de Giela, un monument național impresionant. După explorare, bucurați-vă de prânz în apropiere. Pedalați înapoi în inima orașului, traversați podul istoric și explorați străduțele din jurul Bisericii Lapa. Încheiați ziua cu o perioadă de relaxare în Jardim dos Centenários înainte de a returna bicicleta.",
-        "en": "Rent a bike and start your tour with a ride to Paço de Giela, an impressive national monument. Enjoy lunch nearby after exploring. Cycle back to the heart of town, cross the historic bridge, and explore the narrow streets around Lapa Church. End your day with a relaxing time at Jardim dos Centenários before returning your bike."
+        "en": "Rent a bike and start your tour with a ride to Paço de Giela, an impressive national monument. Enjoy lunch nearby after exploring. Cycle back to the heart of town, cross the historic bridge, and explore the narrow streets around Lapa Church. End your day with a relaxing time at Jardim dos Centenários before returning your bike.",
+        "pt": "Alugue uma bicicleta e inicie a sua rota até ao Paço de Giela, um impressionante monumento nacional. Desfrute do almoço nas proximidades após a exploração. Pedale de volta ao coração da vila, atravesse a ponte histórica e explore as ruas estreitas em redor da Igreja da Lapa. Termine o dia com um momento relaxante no Jardim dos Centenários antes de devolver a bicicleta."
       },
       "gastro_picks": {
         "de": [
@@ -928,6 +990,12 @@
           "Some sections can be hilly, so be prepared.",
           "Always lock your bike when you park it.",
           "Bring water and snacks with you."
+        ],
+        "pt": [
+          "Verifique os travões e os pneus antes de partir.",
+          "Alguns troços podem ser íngremes, por isso esteja preparado.",
+          "Sempre trave a bicicleta quando a estacionar.",
+          "Leve água e petiscos consigo."
         ]
       },
       "variants": {
@@ -936,7 +1004,8 @@
             "de": "Eine erfrischende Fahrt durch den Regen entlang des Vez. Wir starten gut ausgerüstet am Fluss und treten kräftig in die Pedale bis nach Giela. Mittags trocknen wir unsere Kleidung in einem fahrradfreundlichen Café. Nachmittags erkunden wir die Brücken und Kirchen, wobei wir besonders vorsichtig auf dem nassen Pflaster manövrieren.",
             "hu": "Frissítő tekerés az esőben a Vez mentén. Jól felszerelve indulunk a folyótól és Gieláig tekerünk. Délben egy kerékpárosbarát kávézóban szárítjuk meg ruháinkat. Délután a hidakat és templomokat fedezzük fel, különösen óvatosan manőverezve a nedves burkolaton.",
             "ro": "O plimbare revigorantă prin ploaie de-a lungul Vezului. Pornim bine echipați de la râu și pedalăm până la Giela. La prânz ne uscăm hainele într-o cafenea prietenoasă cu bicicliștii. După-amiaza explorăm podurile și bisericile, manevrând cu mare atenție pe pavajul umed.",
-            "en": "A refreshing ride through the rain along the Vez. We start well-equipped by the river and pedal hard to Giela. At noon, we dry our clothes in a bike-friendly cafe. In the afternoon, we explore the bridges and churches, maneuvering extra carefully on the wet pavement."
+            "en": "A refreshing ride through the rain along the Vez. We start well-equipped by the river and pedal hard to Giela. At noon, we dry our clothes in a bike-friendly cafe. In the afternoon, we explore the bridges and churches, maneuvering extra carefully on the wet pavement.",
+            "pt": "Um passeio refrescante pela chuva ao longo do Vez. Começamos bem equipados junto ao rio e pedalamos com empenho até Giela. Ao meio-dia, secamos as roupas numa cafetaria amiga dos ciclistas. À tarde, exploramos as pontes e igrejas, manobrando com cuidado extra no pavimento molhado."
           },
           "stops": [
             {
@@ -945,7 +1014,8 @@
                 "de": "Fragen Sie nach einer wasserdichten Sattelabdeckung.",
                 "hu": "Kérjen vízálló nyeregvédőt.",
                 "ro": "Cereți o protecție impermeabilă pentru șa.",
-                "en": "Ask for a waterproof saddle cover."
+                "en": "Ask for a waterproof saddle cover.",
+                "pt": "Peça uma capa impermeável para o selim."
               }
             },
             {
@@ -954,7 +1024,8 @@
                 "de": "Parken Sie das Rad im geschützten Eingangsbereich.",
                 "hu": "Parkolja a bringát a védett bejárati részen.",
                 "ro": "Parcați bicicleta în zona protejată de la intrare.",
-                "en": "Park your bike in the sheltered entrance area."
+                "en": "Park your bike in the sheltered entrance area.",
+                "pt": "Estacione a bicicleta na área de entrada coberta."
               }
             },
             {
@@ -963,7 +1034,8 @@
                 "de": "Ein Ort mit Innenplätzen ist heute ein Muss.",
                 "hu": "Egy benti hely ma kötelező.",
                 "ro": "Un loc cu locuri în interior este obligatoriu astăzi.",
-                "en": "A place with indoor seating is a must today."
+                "en": "A place with indoor seating is a must today.",
+                "pt": "Um local com assentos interiores é imprescindível hoje."
               }
             },
             {
@@ -972,7 +1044,8 @@
                 "de": "Fahren Sie extrem langsam, Rutschgefahr!",
                 "hu": "Hajtson rendkívül lassan, csúszásveszély!",
                 "ro": "Conduceți extrem de încet, pericol de derapare!",
-                "en": "Ride extremely slowly, danger of slipping!"
+                "en": "Ride extremely slowly, danger of slipping!",
+                "pt": "Pedale extremamente devagar, risco de escorregar!"
               }
             },
             {
@@ -981,7 +1054,8 @@
                 "de": "Nutzen Sie den Kirchenbesuch zum Aufwärmen.",
                 "hu": "Használja ki a templomlátogatást a bemelegedésre.",
                 "ro": "Folosiți vizita la biserică pentru a vă încălzi.",
-                "en": "Use the church visit to warm up."
+                "en": "Use the church visit to warm up.",
+                "pt": "Use a visita à igreja para se aquecer."
               }
             },
             {
@@ -990,7 +1064,8 @@
                 "de": "Suchen Sie den überdachten Pavillon auf.",
                 "hu": "Keresse fel a fedett pavilont.",
                 "ro": "Căutați pavilionul acoperit.",
-                "en": "Seek out the covered pavilion."
+                "en": "Seek out the covered pavilion.",
+                "pt": "Procure o pavilhão coberto."
               }
             }
           ],
@@ -1018,6 +1093,12 @@
               "Avoid puddles, they might be deep.",
               "Wear a high-visibility raincoat.",
               "Granite pavement becomes very slippery when wet."
+            ],
+            "pt": [
+              "Verifique os travões antes de partir.",
+              "Evite poças, podem ser profundas.",
+              "Use um impermeável de alta visibilidade.",
+              "O pavimento de granito torna-se muito escorregadio quando molhado."
             ]
           }
         },
@@ -1026,7 +1107,8 @@
             "de": "Winterliches Radfahren im Minho-Tal bietet klare Sicht und kühle Brisen. Wir radeln morgens hinauf nach Giela, wo die kalte Luft unsere Lungen füllt. Nach einem wärmenden Mittagessen erkunden wir das Stadtzentrum. Die tiefstehende Sonne am Nachmittag zaubert lange Schatten auf die alten Brücken, bevor wir unsere Tour pünktlich vor der Abendkälte beenden.",
             "hu": "A téli kerékpározás a Minho-völgyben tiszta kilátást és hűvös szellőt kínál. Reggel feltekerünk Gielához, ahol a hideg levegő átjárja tüdőnket. Egy melegítő ebéd után felfedezzük a városközpontot. A délutáni alacsony nap hosszú árnyékokat vet a régi hidakra, mielőtt pontosan az esti hideg előtt befejeznénk túránkat.",
             "ro": "Ciclismul de iarnă în Valea Minho oferă priveliști clare și brize reci. Pedalăm dimineața sus la Giela, unde aerul rece ne umple plămânii. După un prânz cald, explorăm centrul orașului. Soarele jos de după-amiază creează umbre lungi pe podurile vechi înainte de a încheia turul la timp.",
-            "en": "Winter cycling in the Minho Valley offers clear views and cool breezes. We cycle up to Giela in the morning, where the cold air fills our lungs. After a warming lunch, we explore the city center. The low afternoon sun casts long shadows on the old bridges before we finish our tour just in time before the evening cold."
+            "en": "Winter cycling in the Minho Valley offers clear views and cool breezes. We cycle up to Giela in the morning, where the cold air fills our lungs. After a warming lunch, we explore the city center. The low afternoon sun casts long shadows on the old bridges before we finish our tour just in time before the evening cold.",
+            "pt": "O ciclismo de inverno no Vale do Minho oferece vistas limpas e brisas frescas. Pedalamos até Giela de manhã, onde o ar frio enche os pulmões. Depois de um almoço reconfortante, exploramos o centro da cidade. O sol baixo da tarde projeta sombras longas sobre as pontes antigas antes de terminarmos o passeio a tempo do frio da noite."
           },
           "stops": [
             {
@@ -1035,7 +1117,8 @@
                 "de": "Verlangen Sie Handschuhe, falls Sie keine haben.",
                 "hu": "Kérjen kesztyűt, ha nincs önnél.",
                 "ro": "Cereți mănuși dacă nu aveți la dvs.",
-                "en": "Ask for gloves if you don't have any."
+                "en": "Ask for gloves if you don't have any.",
+                "pt": "Peça luvas se não tiver nenhuma."
               }
             },
             {
@@ -1044,7 +1127,8 @@
                 "de": "Die Auffahrt hält Ihren Körper warm.",
                 "hu": "A felfelé menet melegen tartja a testét.",
                 "ro": "Urcarea vă va menține corpul cald.",
-                "en": "The uphill ride will keep your body warm."
+                "en": "The uphill ride will keep your body warm.",
+                "pt": "A subida fará com que o corpo se aqueça."
               }
             },
             {
@@ -1053,7 +1137,8 @@
                 "de": "Heiße Suppe (Caldo Verde) ist perfekt für Radfahrer.",
                 "hu": "A forró leves (Caldo Verde) tökéletes a bringásoknak.",
                 "ro": "Supa fierbinte (Caldo Verde) este perfectă pentru bicicliști.",
-                "en": "Hot soup (Caldo Verde) is perfect for cyclists."
+                "en": "Hot soup (Caldo Verde) is perfect for cyclists.",
+                "pt": "Sopa quente (Caldo Verde) é perfeita para ciclistas."
               }
             },
             {
@@ -1062,7 +1147,8 @@
                 "de": "Genießen Sie den Blick auf den winterlichen Fluss.",
                 "hu": "Élvezze a kilátást a téli folyóra.",
                 "ro": "Bucurați-vă de vederea râului iarna.",
-                "en": "Enjoy the view of the winter river."
+                "en": "Enjoy the view of the winter river.",
+                "pt": "Desfrute da vista do rio de inverno."
               }
             },
             {
@@ -1071,7 +1157,8 @@
                 "de": "Ein kurzer Stopp im Inneren bringt Wärme zurück.",
                 "hu": "Egy rövid benti megálló visszahozza a meleget.",
                 "ro": "O scurtă oprire în interior vă va reîncălzi.",
-                "en": "A short stop inside brings back the warmth."
+                "en": "A short stop inside brings back the warmth.",
+                "pt": "Uma paragem curta no interior devolve o calor."
               }
             },
             {
@@ -1080,7 +1167,8 @@
                 "de": "Bewegen Sie sich, um nicht auszukühlen.",
                 "hu": "Mozogjon, hogy ne hűljön le.",
                 "ro": "Muntați-vă pentru a nu vă răci.",
-                "en": "Keep moving to avoid getting chilled."
+                "en": "Keep moving to avoid getting chilled.",
+                "pt": "Mantenha-se em movimento para evitar arrefecer."
               }
             }
           ],
@@ -1108,6 +1196,12 @@
               "The sun disappears early behind the mountains.",
               "Watch out for icy spots in the shade.",
               "A hot tea in a thermos is ideal."
+            ],
+            "pt": [
+              "Use roupa interior térmica por baixo das roupas.",
+              "O sol desaparece cedo atrás das montanhas.",
+              "Cuidado com zonas geladas na sombra.",
+              "Um chá quente numa garrafa térmica é ideal."
             ]
           }
         }
@@ -1126,7 +1220,8 @@
             "de": "Paço de Giela",
             "hu": "Paço de Giela",
             "ro": "Paço de Giela",
-            "en": "Paço de Giela"
+            "en": "Paço de Giela",
+            "pt": "Paço de Giela"
           },
           "coords": [
             -8.428,
@@ -1142,7 +1237,8 @@
             "de": "Parken Sie hier und beginnen Sie Ihre historische Erkundung.",
             "hu": "Parkoljon le itt, és kezdje meg a történelmi felfedezést.",
             "ro": "Parcați aici și începeți explorarea istorică.",
-            "en": "Park here and start your historical exploration."
+            "en": "Park here and start your historical exploration.",
+            "pt": "Estacione aqui e comece a sua exploração histórica."
           }
         },
         {
@@ -1150,7 +1246,8 @@
             "de": "Spaziergang um Giela",
             "hu": "Séta Giela körül",
             "ro": "Plimbare în jurul Giela",
-            "en": "Walk around Giela"
+            "en": "Walk around Giela",
+            "pt": "Passear por Giela"
           },
           "coords": [
             -8.4295,
@@ -1166,7 +1263,8 @@
             "de": "Finden Sie einen schönen Aussichtspunkt in der Nähe des Paço.",
             "hu": "Keressen egy szép kilátópontot a Paço közelében.",
             "ro": "Găsiți un punct de belvedere frumos lângă Paço.",
-            "en": "Find a nice viewpoint near the Paço."
+            "en": "Find a nice viewpoint near the Paço.",
+            "pt": "Encontre um bom miradouro perto do Paço."
           }
         },
         {
@@ -1174,7 +1272,8 @@
             "de": "Fahrt zum Stadtzentrum",
             "hu": "Utazás a városközpontba",
             "ro": "Călătorie spre centrul orașului",
-            "en": "Drive to the City Center"
+            "en": "Drive to the City Center",
+            "pt": "Ir de carro até ao Centro da Cidade"
           },
           "coords": [
             -8.4168,
@@ -1190,7 +1289,8 @@
             "de": "Parken Sie in der Nähe des Flusses und erkunden Sie zu Fuß.",
             "hu": "Parkoljon a folyó közelében és fedezze fel a környéket gyalog.",
             "ro": "Parcați lângă râu și explorați pe jos.",
-            "en": "Park near the river and explore on foot."
+            "en": "Park near the river and explore on foot.",
+            "pt": "Estacione perto do rio e explore a pé."
           }
         },
         {
@@ -1198,7 +1298,8 @@
             "de": "Mittagessen und Ponte de Arcos de Valdevez",
             "hu": "Ebéd és Arcos de Valdevez híd",
             "ro": "Prânz și podul Arcos de Valdevez",
-            "en": "Lunch and Arcos de Valdevez Bridge"
+            "en": "Lunch and Arcos de Valdevez Bridge",
+            "pt": "Almoço e Ponte de Arcos de Valdevez"
           },
           "coords": [
             -8.417,
@@ -1214,7 +1315,8 @@
             "de": "Genießen Sie Ihr Mittagessen mit Blick auf die mittelalterliche Brücke.",
             "hu": "Élvezze az ebédet a középkori hídra néző kilátással.",
             "ro": "Bucurați-vă de prânz cu vedere la podul medieval.",
-            "en": "Enjoy your lunch with a view of the medieval bridge."
+            "en": "Enjoy your lunch with a view of the medieval bridge.",
+            "pt": "Desfrute do almoço com vista para a ponte medieval."
           }
         },
         {
@@ -1222,7 +1324,8 @@
             "de": "Igreja der Lapa und Altstadt",
             "hu": "Igreja der Lapa és az óváros",
             "ro": "Biserica Lapa și orașul vechi",
-            "en": "Igreja der Lapa and Old Town"
+            "en": "Igreja der Lapa and Old Town",
+            "pt": "Igreja da Lapa e Centro Histórico"
           },
           "coords": [
             -8.4165,
@@ -1238,7 +1341,8 @@
             "de": "Verlieren Sie sich in den charmanten Straßen der Altstadt.",
             "hu": "Vesszen el az óváros hangulatos utcáin.",
             "ro": "Pierdeți-vă pe străzile fermecătoare ale orașului vechi.",
-            "en": "Get lost in the charming streets of the old town."
+            "en": "Get lost in the charming streets of the old town.",
+            "pt": "Perca-se nas encantadoras ruas do centro histórico."
           }
         },
         {
@@ -1246,7 +1350,8 @@
             "de": "Fahrt zum Museu da Água e do Rio",
             "hu": "Utazás a Víz és Folyó Múzeumához",
             "ro": "Călătorie la Muzeul Apei și Râului",
-            "en": "Drive to the Water and River Museum"
+            "en": "Drive to the Water and River Museum",
+            "pt": "Ir de carro ao Museu da Água e do Rio"
           },
           "coords": [
             -8.409,
@@ -1262,7 +1367,8 @@
             "de": "Ein kurzer Ausflug zu einem Museum über die Bedeutung des Wassers.",
             "hu": "Egy rövid kirándulás a víz fontosságáról szóló múzeumba.",
             "ro": "O scurtă excursie la un muzeu despre importanța apei.",
-            "en": "A short trip to a museum about the importance of water."
+            "en": "A short trip to a museum about the importance of water.",
+            "pt": "Uma curta visita a um museu sobre a importância da água."
           }
         },
         {
@@ -1270,7 +1376,8 @@
             "de": "Abschluss im Jardim dos Centenários",
             "hu": "Befejezés a Jardim dos Centenários-ban",
             "ro": "Încheiere la Jardim dos Centenários",
-            "en": "Wrap-up at Jardim dos Centenários"
+            "en": "Wrap-up at Jardim dos Centenários",
+            "pt": "Concluir no Jardim dos Centenários"
           },
           "coords": [
             -8.4155,
@@ -1286,7 +1393,8 @@
             "de": "Entspannen Sie sich vor der Heimfahrt am Fluss.",
             "hu": "Pihenjen a folyóparton, mielőtt hazaindul.",
             "ro": "Relaxați-vă lângă râu înainte de a pleca acasă.",
-            "en": "Relax by the river before heading home."
+            "en": "Relax by the river before heading home.",
+            "pt": "Relaxe junto ao rio antes de voltar para casa."
           }
         }
       ],
@@ -1294,7 +1402,8 @@
         "de": "Beginnen Sie den Tag mit dem Auto am Paço de Giela, einem wichtigen nationalen Denkmal. Nach einem Spaziergang fahren Sie ins Zentrum, parken und genießen ein Mittagessen am Fluss mit Blick auf die Brücke. Erkunden Sie die Altstadt zu Fuß. Am Nachmittag bringt Sie eine kurze Fahrt zum Wassermuseum, um mehr über die Region zu erfahren. Beenden Sie den Tag entspannt im Jardim dos Centenários, bevor Sie sich auf den Rückweg machen.",
         "hu": "Kezdje a napot autóval a Paço de Giela-nál, egy fontos nemzeti emlékműnél. Egy séta után vezessen be a központba, parkoljon le, és ebédeljen a folyóparton, kilátással a hídra. Fedezze fel gyalog az óvárost. Délután egy rövid autózással eljuthat a Vízmúzeumba, hogy többet tudjon meg a régióról. A napot a Jardim dos Centenários-ban pihenve fejezze be, mielőtt hazaindul.",
         "ro": "Începeți ziua cu mașina la Paço de Giela, un monument național important. După o plimbare, conduceți în centru, parcați și bucurați-vă de prânz pe malul râului cu vedere la pod. Explorați orașul vechi pe jos. După-amiaza, o scurtă călătorie cu mașina vă duce la Muzeul Apei pentru a afla despre regiune. Încheiați ziua relaxându-vă în Jardim dos Centenários înainte de a pleca.",
-        "en": "Start the day by car at Paço de Giela, a key national monument. After a walk, drive to the center, park, and enjoy lunch by the river overlooking the bridge. Explore the old town on foot. In the afternoon, a short drive takes you to the Water Museum to learn about the region. End the day relaxing at Jardim dos Centenários before heading back."
+        "en": "Start the day by car at Paço de Giela, a key national monument. After a walk, drive to the center, park, and enjoy lunch by the river overlooking the bridge. Explore the old town on foot. In the afternoon, a short drive takes you to the Water Museum to learn about the region. End the day relaxing at Jardim dos Centenários before heading back.",
+        "pt": "Comece o dia de carro no Paço de Giela, um monumento nacional importante. Depois de uma caminhada, conduza até ao centro, estacione e desfrute do almoço junto ao rio com vista para a ponte. Explore o centro histórico a pé. À tarde, uma curta viagem leva-o ao Museu da Água para aprender sobre a região. Termine o dia relaxando no Jardim dos Centenários antes de regressar."
       },
       "gastro_picks": {
         "de": [
@@ -1489,6 +1598,12 @@
           "Plan for extra time for unexpected discoveries in the countryside.",
           "Roads can be narrow and winding, drive carefully.",
           "A GPS is highly recommended for navigating outside the town."
+        ],
+        "pt": [
+          "O estacionamento pode ser difícil no centro, use parques de estacionamento indicados.",
+          "Pense em tempo extra para descobertas inesperadas no campo.",
+          "As estradas podem ser estreitas e sinuosas, conduza com cuidado.",
+          "Um GPS é altamente recomendado para navegar fora da vila."
         ]
       },
       "variants": {
@@ -1497,7 +1612,8 @@
             "de": "Mit dem Auto erkunden wir Arcos de Valdevez trocken und flexibel. Wir fahren direkt zum Parkplatz von Giela und genießen die Aussicht aus dem Fenster. Mittags parken wir nah am Zentrum für einen kurzen Weg zum Restaurant. Der Nachmittag führt uns zum Flussmuseum, wobei wir den Scheibenwischern beim Takt des Regens zusehen, bevor wir den Tag entspannt beenden.",
             "hu": "Autóval szárazon és rugalmasan fedezzük fel Arcos de Valdevezt. Közvetlenül Giela parkolójához hajtunk, és az ablakból élvezzük a kilátást. Délben a központ közelében parkolunk, hogy rövid legyen az út az étteremig. A délután a folyómúzeumhoz vezet, miközben az ablaktörlők ütemére figyeljük az esőt.",
             "ro": "Cu mașina explorăm Arcos de Valdevez uscați și flexibili. Conducem direct la parcarea Giela și admirăm priveliștea de la fereastră. La prânz parcăm aproape de centru pentru un drum scurt până la restaurant. După-amiaza ne duce la muzeul râului, în timp ce urmărim ștergătoarele în ritmul ploii.",
-            "en": "By car, we explore Arcos de Valdevez dry and flexibly. We drive directly to the Giela parking lot and enjoy the view from the window. At noon, we park close to the center for a short walk to the restaurant. The afternoon takes us to the River Museum, watching the wipers to the rhythm of the rain before relaxing."
+            "en": "By car, we explore Arcos de Valdevez dry and flexibly. We drive directly to the Giela parking lot and enjoy the view from the window. At noon, we park close to the center for a short walk to the restaurant. The afternoon takes us to the River Museum, watching the wipers to the rhythm of the rain before relaxing.",
+            "pt": "De carro, exploramos Arcos de Valdevez de forma seca e flexível. Conduzimos directamente para o parque de Giela e apreciamos a vista pela janela. Ao meio‑dia, estacionamos perto do centro para uma curta caminhada até ao restaurante. A tarde leva‑nos ao Museu do Rio, observando os limpa‑pára‑brisas ao ritmo da chuva antes de relaxar."
           },
           "stops": [
             {
@@ -1506,7 +1622,8 @@
                 "de": "Es gibt einen Parkplatz direkt am Eingang.",
                 "hu": "Közvetlenül a bejáratnál van parkoló.",
                 "ro": "Există o parcare chiar la intrare.",
-                "en": "There is a parking lot right at the entrance."
+                "en": "There is a parking lot right at the entrance.",
+                "pt": "Há um parque de estacionamento mesmo à entrada."
               }
             },
             {
@@ -1515,7 +1632,8 @@
                 "de": "Beschränken Sie sich auf die befestigten Wege.",
                 "hu": "Szorítkozzon a szilárd burkolatú utakra.",
                 "ro": "Limitați-vă la potecile pavate.",
-                "en": "Stick to the paved paths."
+                "en": "Stick to the paved paths.",
+                "pt": "Mantenha‑se pelos caminhos pavimentados."
               }
             },
             {
@@ -1524,7 +1642,8 @@
                 "de": "Parken Sie im Parkhaus, um trocken zu bleiben.",
                 "hu": "Parkoljon parkolóházban, hogy száraz maradjon.",
                 "ro": "Parcați într-o parcare acoperită pentru a rămâne uscat.",
-                "en": "Park in a parking garage to stay dry."
+                "en": "Park in a parking garage to stay dry.",
+                "pt": "Estacione numa garagem para se manter seco."
               }
             },
             {
@@ -1533,7 +1652,8 @@
                 "de": "Parkplätze am Fluss sind bei Regen oft frei.",
                 "hu": "A folyóparti parkolók esőben gyakran üresek.",
                 "ro": "Parcările de lângă râu sunt adesea libere pe ploaie.",
-                "en": "Riverside parking spots are often free in the rain."
+                "en": "Riverside parking spots are often free in the rain.",
+                "pt": "Os lugares junto ao rio são frequentemente gratuitos quando chove."
               }
             },
             {
@@ -1542,7 +1662,8 @@
                 "de": "Nutzen Sie kurze Regenpausen für den Wechsel.",
                 "hu": "Használja ki a rövid esőszüneteket a váltáshoz.",
                 "ro": "Folosiți pauzele scurte de ploaie pentru deplasare.",
-                "en": "Use short breaks in the rain to move between spots."
+                "en": "Use short breaks in the rain to move between spots.",
+                "pt": "Aproveite as curtas pausas da chuva para deslocar‑se entre sítios."
               }
             },
             {
@@ -1551,7 +1672,8 @@
                 "de": "Hinterlassen Sie nasse Schirme im Kofferraum.",
                 "hu": "A vizes ernyőket hagyja a csomagtartóban.",
                 "ro": "Lăsați umbrelele ude în portbagaj.",
-                "en": "Leave wet umbrellas in the trunk."
+                "en": "Leave wet umbrellas in the trunk.",
+                "pt": "Deixe os guarda‑chuvas molhados no porta‑bagagens."
               }
             },
             {
@@ -1560,7 +1682,8 @@
                 "de": "Genießen Sie die Szenerie aus dem warmen Auto.",
                 "hu": "Élvezze a látványt a meleg autóból.",
                 "ro": "Bucurați-vă de peisaj din mașina caldă.",
-                "en": "Enjoy the scenery from the warm car."
+                "en": "Enjoy the scenery from the warm car.",
+                "pt": "Desfrute da paisagem a partir do carro quente."
               }
             }
           ],
@@ -1588,6 +1711,12 @@
               "Turn on headlights even during the day.",
               "Central parking spots are in high demand when it rains.",
               "Keep a towel ready in the car."
+            ],
+            "pt": [
+              "Cuidado com o aquaplaning nas estradas rurais.",
+              "Ligue os faróis mesmo durante o dia.",
+              "Os lugares centrais são muito procurados quando chove.",
+              "Tenha uma toalha pronta no carro."
             ]
           }
         },
@@ -1596,7 +1725,8 @@
             "de": "Eine gemütliche Wintertour im beheizten Wagen. Wir steuern morgens Giela an, wenn der Frost noch auf den Feldern liegt. Mittags finden wir problemlos einen Parkplatz im Zentrum für unser Festmahl. Der Nachmittag am Fluss ist friedlich und still, bevor wir die Heizung aufdrehen und die stimmungsvoll beleuchteten Gassen der Stadt bei Dunkelheit durchfahren.",
             "hu": "Hangulatos téli túra a fűtött autóban. Reggel Gielát vesszük célba, amikor még fagyosak a mezők. Délben gond nélkül találunk parkolót a központban az ünnepi ebédhez. A délután a folyónál békés és csendes, mielőtt feltekernénk a fűtést és áthajtanánk a város hangulatosan megvilágított utcáin.",
             "ro": "Un tur de iarnă confortabil în mașina încălzită. Mergem dimineața spre Giela, când bruma încă mai este pe câmpuri. La prânz găsim ușor loc de parcare în centru pentru ospățul nostru. După-amiaza la râu este pașnică și liniștită, înainte de a da căldura mai tare.",
-            "en": "A cozy winter tour in a heated car. We head to Giela in the morning while frost still lies on the fields. At noon, we easily find parking in the center for our feast. The afternoon by the river is peaceful and quiet before we crank up the heat and drive through the atmospherically lit streets at dark."
+            "en": "A cozy winter tour in a heated car. We head to Giela in the morning while frost still lies on the fields. At noon, we easily find parking in the center for our feast. The afternoon by the river is peaceful and quiet before we crank up the heat and drive through the atmospherically lit streets at dark.",
+            "pt": "Um passeio acolhedor de inverno num carro aquecido. Partimos para Giela de manhã enquanto geada ainda cobre os campos. Ao meio‑dia, encontramos facilmente estacionamento no centro para a nossa refeição. A tarde junto ao rio é pacífica e tranquila antes de ligarmos o aquecimento e percorrermos as ruas iluminadas atmosfericamente já de noite."
           },
           "stops": [
             {
@@ -1605,7 +1735,8 @@
                 "de": "Nutzen Sie die Sitzheizung nach dem Rundgang.",
                 "hu": "Használja az ülésfűtést a körséta után.",
                 "ro": "Folosiți încălzirea în scaune după plimbare.",
-                "en": "Use the seat heating after the walk."
+                "en": "Use the seat heating after the walk.",
+                "pt": "Use o aquecimento dos bancos depois da caminhada."
               }
             },
             {
@@ -1614,7 +1745,8 @@
                 "de": "Genießen Sie die klare Fernsicht der Winterluft.",
                 "hu": "Élvezze a téli levegő tiszta távoli kilátását.",
                 "ro": "Bucurați-vă de vederea clară la distanță a aerului de iarnă.",
-                "en": "Enjoy the clear long-distance view of the winter air."
+                "en": "Enjoy the clear long-distance view of the winter air.",
+                "pt": "Desfrute da visibilidade clara a longa distância do ar de inverno."
               }
             },
             {
@@ -1623,7 +1755,8 @@
                 "de": "Die Straßen sind im Winter meist leerer.",
                 "hu": "Az utak télen általában üresebbek.",
                 "ro": "Drumurile sunt de obicei mai libere iarna.",
-                "en": "The roads are usually emptier in winter."
+                "en": "The roads are usually emptier in winter.",
+                "pt": "As estradas costumam estar menos movimentadas no inverno."
               }
             },
             {
@@ -1632,7 +1765,8 @@
                 "de": "Finden Sie einen Parkplatz mit Mittagssonne.",
                 "hu": "Keressen parkolót délutáni napsütéssel.",
                 "ro": "Găsiți un loc de parcare cu soare la prânz.",
-                "en": "Find a parking spot with midday sun."
+                "en": "Find a parking spot with midday sun.",
+                "pt": "Encontre um lugar de estacionamento com sol ao meio‑dia."
               }
             },
             {
@@ -1641,7 +1775,8 @@
                 "de": "Die Kirchen sind im Winter oft kühler als draußen.",
                 "hu": "A templomok télen gyakran hűvösebbek, mint kint.",
                 "ro": "Bisericile sunt adesea mai reci decât afară iarna.",
-                "en": "Churches are often cooler inside than outside in winter."
+                "en": "Churches are often cooler inside than outside in winter.",
+                "pt": "As igrejas costumam estar mais frescas dentro do que fora no inverno."
               }
             },
             {
@@ -1650,7 +1785,8 @@
                 "de": "Die Heizung trocknet eventuelle Feuchtigkeit im Auto.",
                 "hu": "A fűtés kiszárítja az esetleges nedvességet az autóban.",
                 "ro": "Căldura usucă eventuala umezeală din mașină.",
-                "en": "The heater dries any moisture in the car."
+                "en": "The heater dries any moisture in the car.",
+                "pt": "O aquecedor seca qualquer humidade no carro."
               }
             },
             {
@@ -1659,7 +1795,8 @@
                 "de": "Ein letzter Blick, bevor es dunkel wird.",
                 "hu": "Egy utolsó pillantás, mielőtt besötétedik.",
                 "ro": "O ultimă privire înainte de a se întuneca.",
-                "en": "One last look before it gets dark."
+                "en": "One last look before it gets dark.",
+                "pt": "Um último olhar antes de escurecer."
               }
             }
           ],
@@ -1687,6 +1824,12 @@
               "Have an ice scraper ready for the early mornings.",
               "Darkness sets in early in the Minho Valley.",
               "Check the antifreeze in the windshield washer."
+            ],
+            "pt": [
+              "Verifique a bateria, o frio pode enfraquecê‑la.",
+              "Tenha um raspador de gelo para as manhãs cedo.",
+              "A escuridão chega cedo no Vale do Minho.",
+              "Verifique o antigelo do limpa‑vidros."
             ]
           }
         }
@@ -1705,7 +1848,8 @@
             "de": "Ankunft am Busbahnhof",
             "hu": "Érkezés a buszpályaudvarra",
             "ro": "Sosire la autogară",
-            "en": "Arrival at the Bus Station"
+            "en": "Arrival at the Bus Station",
+            "pt": "Chegada à Estação de Autocarros"
           },
           "coords": [
             -8.412,
@@ -1721,7 +1865,8 @@
             "de": "Orientieren Sie sich und nehmen Sie einen lokalen Bus zum Paço de Giela.",
             "hu": "Tájékozódjon, majd szálljon helyi buszra a Paço de Giela felé.",
             "ro": "Orientați-vă și luați un autobuz local spre Paço de Giela.",
-            "en": "Get your bearings and take a local bus towards Paço de Giela."
+            "en": "Get your bearings and take a local bus towards Paço de Giela.",
+            "pt": "Oriente‑se e apanho um autocarro local em direção ao Paço de Giela."
           }
         },
         {
@@ -1729,7 +1874,8 @@
             "de": "Paço de Giela",
             "hu": "Paço de Giela",
             "ro": "Paço de Giela",
-            "en": "Paço de Giela"
+            "en": "Paço de Giela",
+            "pt": "Paço de Giela"
           },
           "coords": [
             -8.428,
@@ -1745,7 +1891,8 @@
             "de": "Erkunden Sie das Monument und seine Gärten.",
             "hu": "Fedezze fel az emlékművet és kertjeit.",
             "ro": "Explorați monumentul și grădinile sale.",
-            "en": "Explore the monument and its gardens."
+            "en": "Explore the monument and its gardens.",
+            "pt": "Explore o monumento e os seus jardins."
           }
         },
         {
@@ -1753,7 +1900,8 @@
             "de": "Rückkehr ins Zentrum & Mittagessen",
             "hu": "Vissza a központba és ebéd",
             "ro": "Întoarcere în centru & Prânz",
-            "en": "Return to Center & Lunch"
+            "en": "Return to Center & Lunch",
+            "pt": "Regresso ao Centro e Almoço"
           },
           "coords": [
             -8.4168,
@@ -1769,7 +1917,8 @@
             "de": "Nehmen Sie den Bus zurück und finden Sie ein Restaurant im Herzen der Stadt.",
             "hu": "Szálljon vissza a buszra és keressen egy éttermet a város szívében.",
             "ro": "Luați autobuzul înapoi și găsiți un restaurant în inima orașului.",
-            "en": "Take the bus back and find a restaurant in the heart of town."
+            "en": "Take the bus back and find a restaurant in the heart of town.",
+            "pt": "Apanhe o autocarro de volta e encontre um restaurante no coração da vila."
           }
         },
         {
@@ -1777,7 +1926,8 @@
             "de": "Ponte & Relógio de Água",
             "hu": "Híd és Vízóra",
             "ro": "Podul & Ceasul de Apă",
-            "en": "Bridge & Water Clock"
+            "en": "Bridge & Water Clock",
+            "pt": "Ponte e Relógio de Água"
           },
           "coords": [
             -8.4175,
@@ -1793,7 +1943,8 @@
             "de": "Diese beiden Sehenswürdigkeiten liegen nahe beieinander.",
             "hu": "Ez a két látnivaló közel van egymáshoz.",
             "ro": "Aceste două atracții sunt aproape una de cealaltă.",
-            "en": "These two sights are close to each other."
+            "en": "These two sights are close to each other.",
+            "pt": "Estas duas atrações estão perto uma da outra."
           }
         },
         {
@@ -1801,7 +1952,8 @@
             "de": "Igreja de São Paio",
             "hu": "São Paio templom",
             "ro": "Biserica São Paio",
-            "en": "Church of São Paio"
+            "en": "Church of São Paio",
+            "pt": "Igreja de São Paio"
           },
           "coords": [
             -8.418,
@@ -1817,7 +1969,8 @@
             "de": "Ein kurzer Spaziergang bringt Sie zu dieser wunderschönen Kirche.",
             "hu": "Egy rövid séta elvezeti ehhez a gyönyörű templomhoz.",
             "ro": "O scurtă plimbare vă duce la această biserică frumoasă.",
-            "en": "A short walk will take you to this beautiful church."
+            "en": "A short walk will take you to this beautiful church.",
+            "pt": "Uma curta caminhada leva‑o a esta bonita igreja."
           }
         },
         {
@@ -1825,7 +1978,8 @@
             "de": "Spaziergang am Fluss im Jardim dos Centenários",
             "hu": "Folyóparti séta a Jardim dos Centenários-ban",
             "ro": "Plimbare pe râu la Jardim dos Centenários",
-            "en": "River walk at Jardim dos Centenários"
+            "en": "River walk at Jardim dos Centenários",
+            "pt": "Passeio ribeirinho no Jardim dos Centenários"
           },
           "coords": [
             -8.4155,
@@ -1841,7 +1995,8 @@
             "de": "Beenden Sie den Tag entspannt, bevor Sie zum Busbahnhof zurückkehren.",
             "hu": "Fejezze be a napot pihenéssel, mielőtt visszatérne a buszpályaudvarra.",
             "ro": "Încheiați ziua relaxându-vă înainte de a vă întoarce la autogară.",
-            "en": "End the day with relaxation before walking back to the bus station."
+            "en": "End the day with relaxation before walking back to the bus station.",
+            "pt": "Termine o dia com relaxamento antes de voltar a pé para a estação de autocarros."
           }
         }
       ],
@@ -1849,7 +2004,8 @@
         "de": "Vom Busbahnhof aus bringt Sie ein lokaler Bus zum Paço de Giela. Nach der Erkundung dieses historischen Ortes fahren Sie zurück ins Zentrum zum Mittagessen. Der Nachmittag steht ganz im Zeichen eines Spaziergangs: Bewundern Sie die Brücke, den Wasseruhr und die Kirche São Paio. Beenden Sie Ihren Ausflug mit einem entspannten Spaziergang entlang des Flusses im Jardim dos Centenários, von wo aus der Busbahnhof leicht zu erreichen ist.",
         "hu": "A buszpályaudvarról helyi busz visz a Paço de Giela-hoz. Miután felfedezte ezt a történelmi helyet, utazzon vissza a központba ebédelni. A délután a sétáé: csodálja meg a hidat, a Vízórát és a São Paio templomot. Fejezze be a kirándulást egy pihentető folyóparti sétával a Jardim dos Centenários-ban, ahonnan a buszpályaudvar könnyen elérhető.",
         "ro": "De la autogară, un autobuz local vă duce la Paço de Giela. După explorarea acestui sit istoric, reveniți în centru pentru prânz. După-amiaza este dedicată unei plimbări: admirați podul, Ceasul de Apă și Biserica São Paio. Încheiați-vă excursia cu o plimbare relaxantă de-a lungul râului în Jardim dos Centenários, de unde autogara este la mică distanță.",
-        "en": "From the bus station, a local bus takes you to Paço de Giela. After exploring this historic site, head back to the center for lunch. The afternoon is all about walking: admire the bridge, the Water Clock, and the São Paio Church. Finish your trip with a relaxing stroll along the river in Jardim dos Centenários, within easy walking distance of the bus station."
+        "en": "From the bus station, a local bus takes you to Paço de Giela. After exploring this historic site, head back to the center for lunch. The afternoon is all about walking: admire the bridge, the Water Clock, and the São Paio Church. Finish your trip with a relaxing stroll along the river in Jardim dos Centenários, within easy walking distance of the bus station.",
+        "pt": "Da estação de autocarros, um autocarro local leva‑o ao Paço de Giela. Depois de explorar este sítio histórico, regresse ao centro para almoçar. A tarde é toda a pé: admire a ponte, o Relógio de Água e a Igreja de São Paio. Termine a visita com um passeio relaxante junto ao rio no Jardim dos Centenários, a curta distância a pé da estação de autocarros."
       },
       "gastro_picks": {
         "de": [
@@ -2045,6 +2201,12 @@
           "Have small change ready for bus tickets.",
           "Most sights in the center are within easy walking distance.",
           "Some buses may not be frequent, so plan accordingly."
+        ],
+        "pt": [
+          "Consulte o horário dos autocarros com antecedência, especialmente para a viagem de regresso.",
+          "Tenha troco pequeno pronto para os bilhetes do autocarro.",
+          "A maioria das atrações no centro está a uma curta distância a pé.",
+          "Alguns autocarros podem não ser frequentes, por isso planeie em conformidade."
         ]
       },
       "variants": {
@@ -2053,7 +2215,8 @@
             "de": "Mit dem Bus durch den Regen zu den Schätzen von Arcos. Wir starten am überdachten Busbahnhof und fahren hinauf zum Paço de Giela. Mittags kehren wir ins Zentrum zurück und finden Schutz in den Restaurants nahe der Haltestellen. Der Nachmittag zwischen Kirchen und Brücken erfordert Timing zwischen den Schauern, bevor wir den Tag trocken beenden.",
             "hu": "Busszal az esőben Arcos kincseihez. A fedett buszpályaudvaron kezdünk, majd felutazunk Paço de Gielához. Délben visszatérünk a központba, és a megállókhoz közeli éttermekben keresünk menedéket. A délután a templomok és hidak között időzítést igényel a záporok között.",
             "ro": "Cu autobuzul prin ploaie către comorile din Arcos. Începem la autogara acoperită și mergem sus la Paço de Giela. La prânz ne întoarcem în centru și găsim adăpost în restaurantele de lângă stații. După-amiaza între biserici și poduri necesită sincronizare între averse.",
-            "en": "By bus through the rain to the treasures of Arcos. We start at the covered bus station and ride up to Paço de Giela. At noon, we return to the center and find shelter in restaurants near the stops. The afternoon between churches and bridges requires timing between showers before finishing the day dry."
+            "en": "By bus through the rain to the treasures of Arcos. We start at the covered bus station and ride up to Paço de Giela. At noon, we return to the center and find shelter in restaurants near the stops. The afternoon between churches and bridges requires timing between showers before finishing the day dry.",
+            "pt": "De autocarro pela chuva até aos tesouros de Arcos. Começamos na estação coberta e subimos até ao Paço de Giela. Ao meio‑dia, regressamos ao centro e abrigamo‑nos em restaurantes perto das paragens. A tarde entre igrejas e pontes exige timing entre aguaceiros antes de terminar o dia secos."
           },
           "stops": [
             {
@@ -2062,7 +2225,8 @@
                 "de": "Warten Sie im Inneren, bis der Regen nachlässt.",
                 "hu": "Várjon bent, amíg alábbhagy az eső.",
                 "ro": "Așteptați în interior până când ploaia se mai potolește.",
-                "en": "Wait inside until the rain eases off."
+                "en": "Wait inside until the rain eases off.",
+                "pt": "Espere dentro até a chuva abrandar."
               }
             },
             {
@@ -2071,7 +2235,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten genau, um nicht nass zu werden.",
                 "hu": "Pontosan ellenőrizze a visszautat, hogy ne ázzon el.",
                 "ro": "Verificați exact orele de întoarcere pentru a nu vă uda.",
-                "en": "Check return times carefully to avoid getting wet."
+                "en": "Check return times carefully to avoid getting wet.",
+                "pt": "Verifique os horários de regresso cuidadosamente para evitar molhar‑se."
               }
             },
             {
@@ -2080,7 +2245,8 @@
                 "de": "Wählen Sie ein Lokal direkt an der Busroute.",
                 "hu": "Válasszon egy helyet közvetlenül a buszvonalon.",
                 "ro": "Alegeți un local direct pe traseul autobuzului.",
-                "en": "Choose a place directly on the bus route."
+                "en": "Choose a place directly on the bus route.",
+                "pt": "Escolha um lugar directamente na rota do autocarro."
               }
             },
             {
@@ -2089,7 +2255,8 @@
                 "de": "Kurze Wege zwischen den Sehenswürdigkeiten nutzen.",
                 "hu": "Használja ki a látnivalók közötti rövid távolságokat.",
                 "ro": "Folosiți distanțele scurte dintre obiective.",
-                "en": "Take advantage of the short distances between sights."
+                "en": "Take advantage of the short distances between sights.",
+                "pt": "Aproveite as curtas distâncias entre atrações."
               }
             },
             {
@@ -2098,7 +2265,8 @@
                 "de": "Ein guter Ort, um den nächsten Bus trocken abzuwarten.",
                 "hu": "Jó hely a következő busz szárazon való megvárására.",
                 "ro": "Un loc bun pentru a aștepta următorul autobuz la uscat.",
-                "en": "A good place to wait for the next bus while staying dry."
+                "en": "A good place to wait for the next bus while staying dry.",
+                "pt": "Um bom local para esperar pelo próximo autocarro mantendo‑se seco."
               }
             },
             {
@@ -2107,7 +2275,8 @@
                 "de": "Gehen Sie nur bei Regenpausen zum Fluss.",
                 "hu": "Csak esőszünetben menjen a folyóhoz.",
                 "ro": "Mergeți la râu doar în pauzele de ploaie.",
-                "en": "Only go to the river during breaks in the rain."
+                "en": "Only go to the river during breaks in the rain.",
+                "pt": "Só vá ao rio durante as pausas da chuva."
               }
             }
           ],
@@ -2135,6 +2304,12 @@
               "Buses can be delayed during heavy rain.",
               "Wear waterproof clothing for transfers.",
               "Waiting areas are often small and drafty."
+            ],
+            "pt": [
+              "Obtenha o horário no terminal.",
+              "Os autocarros podem sofrer atrasos com chuva forte.",
+              "Use roupa impermeável para as deslocações.",
+              "As zonas de espera são frequentemente pequenas e com correntes de ar."
             ]
           }
         },
@@ -2143,7 +2318,8 @@
             "de": "Winterliche Entdeckungstour mit öffentlichen Verkehrsmitteln. Wir nutzen den Bus, um die Anstiege zu vermeiden und die Aussicht auf die kahlen Minho-Berge zu genießen. Mittags wärmen wir uns in einer zentralen Gaststätte auf, bevor wir den Nachmittag am ruhigen Flussufer verbringen. Wir kehren früh zum Busbahnhof zurück, bevor die Winterkälte am Abend spürbar wird.",
             "hu": "Téli felfedezőtúra tömegközlekedéssel. A buszt használjuk az emelkedők elkerülésére és a kopár Minho-hegyek látványára. Délben egy központi vendéglőben melegszünk fel, majd a délutánt a csendes folyóparton töltjük. Korán visszatérünk a buszpályaudvarra, mielőtt az esti téli hideg beállna.",
             "ro": "Tur de explorare de iarnă cu transportul public. Folosim autobuzul pentru a evita urcările și pentru a vedea munții Minho despuiați. La prânz ne încălzim într-un restaurant central, apoi petrecem după-amiaza pe malul liniștit al râului.",
-            "en": "Winter discovery tour by public transit. We use the bus to avoid the climbs and enjoy views of the bare Minho mountains. At noon, we warm up in a central eatery before spending the afternoon by the quiet riverbank. We return early to the bus station before the winter cold becomes noticeable in the evening."
+            "en": "Winter discovery tour by public transit. We use the bus to avoid the climbs and enjoy views of the bare Minho mountains. At noon, we warm up in a central eatery before spending the afternoon by the quiet riverbank. We return early to the bus station before the winter cold becomes noticeable in the evening.",
+            "pt": "Roteiro de descoberta invernal por transportes públicos. Usamos o autocarro para evitar as subidas e apreciar as vistas das nuas montanhas do Minho. Ao meio‑dia, aquecemo‑nos numa tasca céntrica antes de passar a tarde junto à margem tranquila do rio. Regressamos cedo à estação de autocarros antes que o frio invernal se torne mais notório à noite."
           },
           "stops": [
             {
@@ -2152,7 +2328,8 @@
                 "de": "Ziehen Sie sich warm an, das Terminal ist offen.",
                 "hu": "Öltözzön melegen, a terminál nyitott.",
                 "ro": "Îmbrăcați-vă gros, terminalul este deschis.",
-                "en": "Dress warmly, the terminal is open."
+                "en": "Dress warmly, the terminal is open.",
+                "pt": "Vista‑se bem, o terminal está aberto."
               }
             },
             {
@@ -2161,7 +2338,8 @@
                 "de": "Der Bus spart Ihnen den kalten Aufstieg zu Fuß.",
                 "hu": "A busz megkíméli önt a hideg gyalogos hegymenettől.",
                 "ro": "Autobuzul vă scutește de urcarea pe jos prin frig.",
-                "en": "The bus saves you from the cold uphill walk."
+                "en": "The bus saves you from the cold uphill walk.",
+                "pt": "O autocarro evita a caminhada a subir ao frio."
               }
             },
             {
@@ -2170,7 +2348,8 @@
                 "de": "Suchen Sie ein Restaurant mit guter Heizung.",
                 "hu": "Keressen jól fűtött éttermet.",
                 "ro": "Căutați un restaurant cu încălzire bună.",
-                "en": "Look for a restaurant with good heating."
+                "en": "Look for a restaurant with good heating.",
+                "pt": "Procure um restaurante com bom aquecimento."
               }
             },
             {
@@ -2179,7 +2358,8 @@
                 "de": "Die Wintersonne steht tief über dem Fluss.",
                 "hu": "A téli nap alacsonyan áll a folyó felett.",
                 "ro": "Soarele de iarnă este jos deasupra râului.",
-                "en": "The winter sun is low over the river."
+                "en": "The winter sun is low over the river.",
+                "pt": "O sol de inverno está baixo sobre o rio."
               }
             },
             {
@@ -2188,7 +2368,8 @@
                 "de": "Ein friedlicher Rückzugsort im Winter.",
                 "hu": "Békés búvóhely télen.",
                 "ro": "Un refugiu pașnic iarna.",
-                "en": "A peaceful retreat in winter."
+                "en": "A peaceful retreat in winter.",
+                "pt": "Um retiro pacífico no inverno."
               }
             },
             {
@@ -2197,7 +2378,8 @@
                 "de": "Beenden Sie den Spaziergang vor dem Sonnenuntergang.",
                 "hu": "Fejezze be a sétát naplemente előtt.",
                 "ro": "Încheiați plimbarea înainte de apus.",
-                "en": "Finish your walk before sunset."
+                "en": "Finish your walk before sunset.",
+                "pt": "Termine a caminhada antes do pôr do sol."
               }
             }
           ],
@@ -2225,6 +2407,12 @@
               "Buses are often pleasantly heated in winter.",
               "The last connection often leaves early.",
               "Take a scarf for the wind at the stops."
+            ],
+            "pt": [
+              "Os horários de inverno podem diferir dos de verão.",
+              "Os autocarros costumam estar agradavelmente aquecidos no inverno.",
+              "A última ligação muitas vezes parte cedo.",
+              "Leve um lenço para o vento nas paragens."
             ]
           }
         }

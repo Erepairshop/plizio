@@ -21,7 +21,8 @@
             "de": "Kirche Matriz von Valongo",
             "hu": "Valongói főtemplom",
             "ro": "Biserica Matrice din Valongo",
-            "en": "Valongo Main Church"
+            "en": "Valongo Main Church",
+            "pt": "Igreja Matriz de Valongo"
           },
           "coords": [
             -8.4965,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die vergoldeten Holzarbeiten im Inneren, ein typisches Merkmal des portugiesischen Barocks.",
             "hu": "Csodálja meg a belső aranyozott fafaragásokat, a portugál barokk jellegzetességét.",
             "ro": "Admirați lemnăria aurită din interior, o caracteristică tipică a barocului portughez.",
-            "en": "Admire the gilded woodwork inside, a typical feature of Portuguese Baroque."
+            "en": "Admire the gilded woodwork inside, a typical feature of Portuguese Baroque.",
+            "pt": "Admire o talhe dourado no interior, uma característica típica do Barroco português."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Stadtmuseum von Valongo",
             "hu": "Valongo Városi Múzeum",
             "ro": "Muzeul Municipal din Valongo",
-            "en": "Municipal Museum of Valongo"
+            "en": "Municipal Museum of Valongo",
+            "pt": "Museu Municipal de Valongo"
           },
           "coords": [
             -8.4958,
@@ -61,7 +64,8 @@
             "de": "Konzentrieren Sie sich auf die Ausstellung über die lokale Schieferindustrie, das 'schwarze Gold' der Region.",
             "hu": "Fókuszáljon a helyi palaiparról szóló kiállításra, a régió 'fekete aranyára'.",
             "ro": "Concentrați-vă pe expoziția despre industria locală de ardezie, 'aurul negru' al regiunii.",
-            "en": "Focus on the exhibit about the local slate industry, the region's 'black gold'."
+            "en": "Focus on the exhibit about the local slate industry, the region's 'black gold'.",
+            "pt": "Concentre‑se na exposição sobre a indústria local da ardósia, o 'ouro negro' da região."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Brücke São Lázaro",
             "hu": "São Lázaro híd",
             "ro": "Podul São Lázaro",
-            "en": "São Lázaro Bridge"
+            "en": "São Lázaro Bridge",
+            "pt": "Ponte de São Lázaro"
           },
           "coords": [
             -8.4988,
@@ -85,7 +90,8 @@
             "de": "Ein großartiger Ort für ein schnelles Foto, besonders mit der umgebenden Vegetation.",
             "hu": "Remek hely egy gyors fotóhoz, különösen a környező növényzettel.",
             "ro": "Un loc excelent pentru o fotografie rapidă, mai ales cu vegetația înconjurătoare.",
-            "en": "A great spot for a quick photo, especially with the surrounding vegetation."
+            "en": "A great spot for a quick photo, especially with the surrounding vegetation.",
+            "pt": "Um ótimo local para uma foto rápida, especialmente com a vegetação envolvente."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Mittagessen in einem lokalen Restaurant",
             "hu": "Ebéd egy helyi étteremben",
             "ro": "Prânz la un restaurant local",
-            "en": "Lunch at a local restaurant"
+            "en": "Lunch at a local restaurant",
+            "pt": "Almoço num restaurante local"
           },
           "coords": [
             -8.497,
@@ -109,7 +116,8 @@
             "de": "Probieren Sie 'Arroz de Forno com Cabrito', ein lokales Ofengericht mit Zicklein und Reis.",
             "hu": "Kóstolja meg az 'Arroz de Forno com Cabrito'-t, egy helyi, sütőben sült gidahúsos rizses ételt.",
             "ro": "Încercați 'Arroz de Forno com Cabrito', un preparat local la cuptor cu ied și orez.",
-            "en": "Try 'Arroz de Forno com Cabrito', a local oven-baked dish with kid goat and rice."
+            "en": "Try 'Arroz de Forno com Cabrito', a local oven-baked dish with kid goat and rice.",
+            "pt": "Experimente o 'Arroz de Forno com Cabrito', um prato local assado no forno com cabrito e arroz."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Dorf Couce",
             "hu": "Couce faluja",
             "ro": "Satul Couce",
-            "en": "Village of Couce"
+            "en": "Village of Couce",
+            "pt": "Aldeia de Couce"
           },
           "coords": [
             -8.5145,
@@ -133,7 +142,8 @@
             "de": "Der Spaziergang hierher ist lang, aber das rustikale Dorf ist die Mühe wert. Tragen Sie bequeme Schuhe.",
             "hu": "Hosszú séta vezet ide, de a rusztikus falu megéri a fáradságot. Viseljen kényelmes cipőt.",
             "ro": "Plimbarea până aici este lungă, dar satul rustic merită efortul. Purtați încălțăminte comodă.",
-            "en": "The walk here is long, but the rustic village is worth the effort. Wear comfortable shoes."
+            "en": "The walk here is long, but the rustic village is worth the effort. Wear comfortable shoes.",
+            "pt": "A caminhada até lá é longa, mas a aldeia rústica vale o esforço. Use calçado confortável."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Ermida de Santa Justa",
             "hu": "Santa Justa kápolna",
             "ro": "Schitul Santa Justa",
-            "en": "Hermitage of Santa Justa"
+            "en": "Hermitage of Santa Justa",
+            "pt": "Ermida de Santa Justa"
           },
           "coords": [
             -8.518,
@@ -157,7 +168,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre und den Panoramablick über das Tal.",
             "hu": "Élvezze a békés légkört és a völgyre nyíló panorámás kilátást.",
             "ro": "Bucurați-vă de atmosfera liniștită și de vederea panoramică asupra văii.",
-            "en": "Enjoy the peaceful atmosphere and the panoramic views over the valley."
+            "en": "Enjoy the peaceful atmosphere and the panoramic views over the valley.",
+            "pt": "Desfrute da atmosfera pacífica e das vistas panorâmicas sobre o vale."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Valongo mit einem Besuch der Hauptkirche und des Stadtmuseums, um in die lokale Kultur einzutauchen. Der Vormittag steht im Zeichen der Geschichte und des Erbes der Stadt. Mittags stärken Sie sich mit einem traditionellen portugiesischen Gericht, bevor Sie sich auf einen langen, aber lohnenden Spaziergang zum rustikalen Dorf Couce begeben. Der Nachmittag ist dem ländlichen Charme gewidmet, wo Sie durch Steinhäuser schlendern und die Zeit vergessen können. Beenden Sie den Tag bei der Santa Justa Ermitage, wo die Ruhe des Ortes und die Aussicht einen perfekten Abschluss für Ihre Entdeckungstour zu Fuß bieten.",
         "hu": "Kezdje a napot Valongo szívében a főtemplom és a városi múzeum meglátogatásával, hogy elmerüljön a helyi kultúrában. A délelőtt a város történelmének és örökségének jegyében telik. Délben egy hagyományos portugál étellel erősítse meg magát, mielőtt egy hosszú, de hálás sétára indul a rusztikus Couce faluba. A délután a vidéki bájé, ahol kőházak között sétálhat, és megfeledkezhet az időről. A napot a Santa Justa kápolnánál fejezze be, ahol a hely békéje és a kilátás tökéletes lezárást nyújt a gyalogos felfedezőtúrának.",
         "ro": "Începeți ziua în inima orașului Valongo cu o vizită la biserica principală și la muzeul municipal pentru a vă cufunda în cultura locală. Dimineața este dedicată istoriei și patrimoniului orașului. La prânz, realimentați-vă cu un preparat tradițional portughez înainte de a porni într-o plimbare lungă, dar plină de satisfacții, spre satul rustic Couce. După-amiaza este dedicată farmecului rural, unde vă puteți plimba printre case de piatră și pierde noțiunea timpului. Încheiați ziua la Schitul Santa Justa, unde liniștea locului și priveliștea oferă o încheiere perfectă pentru explorarea dumneavoastră pe jos.",
-        "en": "Start your day in the heart of Valongo with a visit to the main church and the municipal museum to immerse yourself in local culture. The morning is dedicated to the town's history and heritage. At noon, refuel with a traditional Portuguese dish before embarking on a long but rewarding walk to the rustic village of Couce. The afternoon is dedicated to rural charm, where you can wander among stone houses and lose track of time. End the day at the Santa Justa Hermitage, where the tranquility of the place and the view provide a perfect conclusion to your walking exploration."
+        "en": "Start your day in the heart of Valongo with a visit to the main church and the municipal museum to immerse yourself in local culture. The morning is dedicated to the town's history and heritage. At noon, refuel with a traditional Portuguese dish before embarking on a long but rewarding walk to the rustic village of Couce. The afternoon is dedicated to rural charm, where you can wander among stone houses and lose track of time. End the day at the Santa Justa Hermitage, where the tranquility of the place and the view provide a perfect conclusion to your walking exploration.",
+        "pt": "Comece o dia no coração de Valongo com uma visita à igreja matriz e ao museu municipal para se imergir na cultura local. A manhã é dedicada à história e património da vila. Ao meio‑dia, reabasteça com um prato tradicional português antes de iniciar uma longa, mas compensadora, caminhada até à rústica aldeia de Couce. A tarde dedica‑se ao encanto rural, onde pode vaguear entre casas de pedra e perder a noção do tempo. Termine o dia na Ermida de Santa Justa, onde a tranquilidade do local e a vista proporcionam uma conclusão perfeita à sua exploração a pé."
       },
       "gastro_picks": {
         "de": [
@@ -265,6 +278,10 @@
         "en": [
           "Wear very comfortable walking shoes as the route to Couce village is long.",
           "Bring water and snacks, especially for the rural part of the walk."
+        ],
+        "pt": [
+          "Use calçado de caminhada muito confortável, pois o percurso até à aldeia de Couce é longo.",
+          "Leve água e lanches, especialmente para a parte rural da caminhada."
         ]
       },
       "variants": {
@@ -273,7 +290,8 @@
             "de": "Der Morgen in Valongo beginnt geschützt in der Hauptkirche, bevor das Stadtmuseum tiefe Einblicke bietet. Mittags wärmen lokale Spezialitäten Körper und Geist. Am Nachmittag führt der Weg trotz Regen in das malerische Dorf Couce, wo die Natur mystisch wirkt. Der Tag endet an der Eremitage Santa Justa, eingehüllt in Nebel und Ruhe.",
             "hu": "A reggel Valongóban a főtemplom védelmében indul, majd a Városi Múzeum kínál száraz menedéket. Ebédnél helyi ételek melegítik fel a vándort. Délután az eső ellenére Couce faluja felé vesszük az irányt, ahol a táj ilyenkor misztikus arcát mutatja. A nap a Santa Justa remetelaknál zárul, ködbe burkolózva.",
             "ro": "Dimineața în Valongo începe la adăpost în biserica principală, urmată de o vizită la Muzeul Municipal. La prânz, aromele locale oferă confortul necesar. După-amiaza, drumul continuă spre satul Couce sub o ploaie fină care face peisajul mistic. Ziua se încheie la Ermitul Santa Justa, învăluit în liniște și ceață.",
-            "en": "The morning in Valongo starts sheltered in the Main Church, followed by a dry visit to the Municipal Museum. At lunch, local cuisine warms the spirit. In the afternoon, despite the rain, we head to the village of Couce where nature feels mystical. The day ends at the Santa Justa Hermitage, wrapped in fog and quiet."
+            "en": "The morning in Valongo starts sheltered in the Main Church, followed by a dry visit to the Municipal Museum. At lunch, local cuisine warms the spirit. In the afternoon, despite the rain, we head to the village of Couce where nature feels mystical. The day ends at the Santa Justa Hermitage, wrapped in fog and quiet.",
+            "pt": "A manhã em Valongo começa abrigada na Igreja Matriz, seguida de uma visita seca ao Museu Municipal. Ao almoço, a cozinha local aquece o espírito. À tarde, apesar da chuva, seguimos para a aldeia de Couce, onde a natureza parece mística. O dia termina na Ermida de Santa Justa, envolta em nevoeiro e silêncio."
           },
           "stops": [
             {
@@ -282,7 +300,8 @@
                 "de": "Nutzen Sie die Zeit im Inneren, um dem ersten Regenschauer zu entgehen.",
                 "hu": "Használja ki a benti időt, hogy megvárja az első zápor végét.",
                 "ro": "Folosiți timpul în interior pentru a evita prima rafală de ploaie.",
-                "en": "Use the indoor time to escape the first rain shower of the day."
+                "en": "Use the indoor time to escape the first rain shower of the day.",
+                "pt": "Aproveite o tempo interior para escapar à primeira chuvada do dia."
               }
             },
             {
@@ -291,7 +310,8 @@
                 "de": "Perfekter Ort für einen längeren Aufenthalt bei starkem Regen.",
                 "hu": "Tökéletes hely egy hosszabb látogatáshoz intenzív eső esetén.",
                 "ro": "Locul perfect pentru o vizită prelungită în caz de ploaie torențială.",
-                "en": "Perfect place for a longer stay during heavy rain."
+                "en": "Perfect place for a longer stay during heavy rain.",
+                "pt": "Local perfeito para uma estadia mais longa durante chuva forte."
               }
             },
             {
@@ -300,7 +320,8 @@
                 "de": "Vorsicht auf dem alten Steinpflaster, es kann sehr rutschig sein.",
                 "hu": "Vigyázat az öreg köveken, nagyon csúszósak lehetnek az esőtől.",
                 "ro": "Atenție pe pavajul vechi de piatră, poate fi foarte alunecos.",
-                "en": "Careful on the old stone pavement; it can be very slippery when wet."
+                "en": "Careful on the old stone pavement; it can be very slippery when wet.",
+                "pt": "Cuidado com o empedrado antigo; pode ficar muito escorregadio com humidade."
               }
             },
             {
@@ -309,7 +330,8 @@
                 "de": "Probieren Sie die typische Brotsuppe, ideal bei feuchtem Wetter.",
                 "hu": "Kóstolja meg a tipikus kenyérlevest, ami ideális nyirkos időben.",
                 "ro": "Gustați supa de pâine tipică, ideală pe vreme umedă.",
-                "en": "Try the typical bread soup, ideal for damp weather."
+                "en": "Try the typical bread soup, ideal for damp weather.",
+                "pt": "Experimente a típica sopa de pão, ideal para tempo húmido."
               }
             },
             {
@@ -318,7 +340,8 @@
                 "de": "Gute Wanderschuhe sind auf den unbefestigten Wegen jetzt Pflicht.",
                 "hu": "A földutakon ilyenkor kötelező a jó túrabakancs.",
                 "ro": "Încălțămintea de drumeție este obligatorie pe drumurile de pământ.",
-                "en": "Good hiking boots are a must on the unpaved paths now."
+                "en": "Good hiking boots are a must on the unpaved paths now.",
+                "pt": "Botas de caminhada adequadas são indispensáveis nos caminhos por descompactar agora."
               }
             },
             {
@@ -327,7 +350,8 @@
                 "de": "Der Ausblick im Nebel ist dramatisch, aber achten Sie auf den Wind.",
                 "hu": "A kilátás ködben is látványos, de vigyázzon az erős széllel.",
                 "ro": "Priveliștea prin ceață este dramatică, dar atenție la vânt.",
-                "en": "The view through the fog is dramatic, but watch out for the wind."
+                "en": "The view through the fog is dramatic, but watch out for the wind.",
+                "pt": "A vista através do nevoeiro é dramática, mas tenha atenção ao vento."
               }
             }
           ],
@@ -355,6 +379,12 @@
               "Valongo is famous for slate, which becomes extremely slippery in the rain.",
               "The museums in the center offer the best protection from sudden showers.",
               "There are few shelters in Couce village; pack an umbrella."
+            ],
+            "pt": [
+              "Use roupa impermeável, pois o tempo muda rapidamente nas colinas.",
+              "Valongo é famosa pela ardósia, que fica extremamente escorregadia na chuva.",
+              "Os museus no centro oferecem a melhor proteção contra aguaceiros súbitos.",
+              "Há poucos abrigos na aldeia de Couce; carregue um guarda‑chuvas."
             ]
           }
         },
@@ -363,7 +393,8 @@
             "de": "Die Wintersonne beleuchtet die Hauptkirche sanft, während die Museen vormittags angenehme Wärme spenden. Ein herzhaftes Mittagessen gibt Kraft für die Wanderung nach Couce. In der kühlen Nachmittagsluft wirkt das Dorf wie aus einer anderen Zeit. Den Sonnenuntergang erleben wir früh an der Santa Justa, bevor die Kälte einsetzt.",
             "hu": "A téli nap lágyan világítja meg a főtemplomot, délelőtt pedig a múzeumok kínálnak kellemes meleget. Egy kiadós ebéd erőt ad a Couce felé vezető túrához. A hűvös délutáni levegőben a falu mintha egy másik időből maradt volna itt. A naplementét korán, a Santa Justánál várjuk meg, mielőtt beáll a hideg.",
             "ro": "Soarele de iarnă luminează blând biserica, iar muzeele oferă căldură în timpul dimineții. Un prânz consistent dă energie pentru drumeția spre Couce. În aerul răcoros de după-amiază, satul pare desprins dintr-o altă epocă. Prindem apusul devreme la Santa Justa, înainte de lăsarea frigului.",
-            "en": "Winter sun gently lights the Main Church, while museums provide warmth during the morning. A hearty lunch gives strength for the hike to Couce. In the cool afternoon air, the village feels frozen in time. We catch the sunset early at Santa Justa before the evening chill sets in."
+            "en": "Winter sun gently lights the Main Church, while museums provide warmth during the morning. A hearty lunch gives strength for the hike to Couce. In the cool afternoon air, the village feels frozen in time. We catch the sunset early at Santa Justa before the evening chill sets in.",
+            "pt": "O sol de inverno ilumina suavemente a Igreja Matriz, enquanto os museus oferecem calor durante a manhã. Um almoço reforçado dá energia para a caminhada até Couce. Na fresca tarde, a aldeia parece congelada no tempo. Apanhamos o pôr do sol cedo na Ermida de Santa Justa antes do frio da noite."
           },
           "stops": [
             {
@@ -372,7 +403,8 @@
                 "de": "Genießen Sie die Ruhe und die milde Innentemperatur.",
                 "hu": "Élvezze a csendet és a kintihez képest enyhe belső hőmérsékletet.",
                 "ro": "Bucurați-vă de liniște și de temperatura interioară blândă.",
-                "en": "Enjoy the quiet and the mild indoor temperature compared to outside."
+                "en": "Enjoy the quiet and the mild indoor temperature compared to outside.",
+                "pt": "Desfrute da calma e da temperatura interior mais amena em comparação com o exterior."
               }
             },
             {
@@ -381,7 +413,8 @@
                 "de": "Ein gut beheizter Ort, um die lokale Geschichte zu studieren.",
                 "hu": "Kellemesen fűtött hely a helyi történelem tanulmányozásához.",
                 "ro": "Un loc bine încălzit pentru a studia istoria locală.",
-                "en": "A well-heated place to study local history."
+                "en": "A well-heated place to study local history.",
+                "pt": "Um lugar bem aquecido para estudar a história local."
               }
             },
             {
@@ -390,7 +423,8 @@
                 "de": "Das Licht am späten Vormittag ist ideal für Fotos der alten Brücke.",
                 "hu": "A késő délelőtti fények ideálisak a régi híd fotózásához.",
                 "ro": "Lumina de dimineață târzie este ideală pentru fotografii cu podul vechi.",
-                "en": "The late morning light is ideal for photos of the old bridge."
+                "en": "The late morning light is ideal for photos of the old bridge.",
+                "pt": "A luz do final da manhã é ideal para fotografias da ponte antiga."
               }
             },
             {
@@ -399,7 +433,8 @@
                 "de": "Probieren Sie 'Biscoitos de Valongo' zum Nachtisch zum Aufwärmen.",
                 "hu": "Kóstolja meg desszertnek a 'Biscoitos de Valongo'-t a felmelegedéshez.",
                 "ro": "Încercați 'Biscoitos de Valongo' la desert pentru a vă încălzi.",
-                "en": "Try 'Biscoitos de Valongo' for dessert to warm up."
+                "en": "Try 'Biscoitos de Valongo' for dessert to warm up.",
+                "pt": "Experimente os 'Biscoitos de Valongo' como sobremesa para se aquecer."
               }
             },
             {
@@ -408,7 +443,8 @@
                 "de": "Zwiebelprinzip bei der Kleidung hilft gegen den kühlen Bergwind.",
                 "hu": "A réteges öltözködés segít a hűvös hegyi szél ellen.",
                 "ro": "Îmbrăcămintea în straturi ajută împotriva vântului rece de munte.",
-                "en": "Layered clothing helps against the cool mountain wind."
+                "en": "Layered clothing helps against the cool mountain wind.",
+                "pt": "Roupas em camadas ajudam contra o vento fresco da serra."
               }
             },
             {
@@ -417,7 +453,8 @@
                 "de": "Planen Sie den Abstieg vor 17:15 Uhr, bevor es dunkel wird.",
                 "hu": "Tervezze meg a leereszkedést 17:15 előtt, mielőtt sötét lesz.",
                 "ro": "Planificați coborârea înainte de 17:15, înainte de a se întuneca.",
-                "en": "Plan your descent before 17:15, before it gets dark."
+                "en": "Plan your descent before 17:15, before it gets dark.",
+                "pt": "Planeie a descida antes das 17:15, antes de escurecer."
               }
             }
           ],
@@ -445,6 +482,12 @@
               "Days are short; start promptly at 9:00 AM.",
               "The mountain ground retains moisture and stays cool.",
               "Take advantage of the midday sun for the walk to Couce."
+            ],
+            "pt": [
+              "As temperaturas costumam andar pelos 10–12°C; camadas quentes são necessárias.",
+              "Os dias são curtos; comece pontualmente às 09:00.",
+              "O solo da serra retém humidade e mantém‑se fresco.",
+              "Aproveite o sol do meio‑dia para a caminhada até Couce."
             ]
           }
         }
@@ -463,7 +506,8 @@
             "de": "Dorf Couce",
             "hu": "Couce faluja",
             "ro": "Satul Couce",
-            "en": "Village of Couce"
+            "en": "Village of Couce",
+            "pt": "Aldeia de Couce"
           },
           "coords": [
             -8.5145,
@@ -479,7 +523,8 @@
             "de": "Beginnen Sie hier, solange Sie frisch sind. Erkunden Sie die engen Gassen, bevor Sie weiterradeln.",
             "hu": "Kezdje itt, amíg még friss. Fedezze fel a szűk utcákat, mielőtt továbbteker.",
             "ro": "Începeți aici cât sunteți proaspăt. Explorați străduțele înguste înainte de a pedala mai departe.",
-            "en": "Start here while you're fresh. Explore the narrow streets before cycling on."
+            "en": "Start here while you're fresh. Explore the narrow streets before cycling on.",
+            "pt": "Comece aqui enquanto está fresco. Explore as ruas estreitas antes de pedalar."
           }
         },
         {
@@ -487,7 +532,8 @@
             "de": "Schiefermuseum",
             "hu": "Palamúzeum",
             "ro": "Muzeul Ardeziei",
-            "en": "Slate Museum"
+            "en": "Slate Museum",
+            "pt": "Museu da Ardósia"
           },
           "coords": [
             -8.5301,
@@ -503,7 +549,8 @@
             "de": "Ein Muss, um die Bergbaugeschichte zu verstehen, die die Landschaft und Kultur geprägt hat.",
             "hu": "Kötelező látnivaló a tájat és kultúrát formáló bányászati történelem megértéséhez.",
             "ro": "O vizită obligatorie pentru a înțelege istoria minieră care a modelat peisajul și cultura.",
-            "en": "A must-visit to understand the mining history that shaped the landscape and culture."
+            "en": "A must-visit to understand the mining history that shaped the landscape and culture.",
+            "pt": "Uma visita obrigatória para compreender a história mineira que moldou a paisagem e a cultura."
           }
         },
         {
@@ -511,7 +558,8 @@
             "de": "Paläozoischer Park von Valongo",
             "hu": "Valongói Paleozoikumi Park",
             "ro": "Parcul Paleozoic din Valongo",
-            "en": "Paleozoic Park of Valongo"
+            "en": "Paleozoic Park of Valongo",
+            "pt": "Parque Paleozóico de Valongo"
           },
           "coords": [
             -8.525,
@@ -527,7 +575,8 @@
             "de": "Schließen Sie Ihr Fahrrad ab und machen Sie eine kurze Wanderung, um einige der alten Felsformationen zu sehen.",
             "hu": "Zárja le a kerékpárját, és tegyen egy rövid túrát, hogy megnézzen néhány ősi sziklaképződményt.",
             "ro": "Încuiați-vă bicicleta și faceți o scurtă drumeție pentru a vedea unele dintre formațiunile stâncoase antice.",
-            "en": "Lock up your bike and take a short hike to see some of the ancient rock formations."
+            "en": "Lock up your bike and take a short hike to see some of the ancient rock formations.",
+            "pt": "Tranque a bicicleta e faça uma curta caminhada para ver algumas das antigas formações rochosas."
           }
         },
         {
@@ -535,7 +584,8 @@
             "de": "Mittagessen in der Nähe des Parks",
             "hu": "Ebéd a park közelében",
             "ro": "Prânz lângă parc",
-            "en": "Lunch near the park"
+            "en": "Lunch near the park",
+            "pt": "Almoço perto do parque"
           },
           "coords": [
             -8.52,
@@ -551,7 +601,8 @@
             "de": "Suchen Sie ein einfaches Café für ein stärkendes Mittagessen, bevor Sie zurück in die Stadt fahren.",
             "hu": "Keressen egy egyszerű kávézót egy kiadós ebédhez, mielőtt visszateker a városba.",
             "ro": "Căutați o cafenea simplă pentru un prânz consistent înainte de a vă întoarce în oraș.",
-            "en": "Look for a simple café for a hearty lunch before heading back to the town."
+            "en": "Look for a simple café for a hearty lunch before heading back to the town.",
+            "pt": "Procure um café simples para um almoço reforçado antes de regressar à vila."
           }
         },
         {
@@ -559,7 +610,8 @@
             "de": "Kirche Matriz von Valongo",
             "hu": "Valongói főtemplom",
             "ro": "Biserica Matrice din Valongo",
-            "en": "Valongo Main Church"
+            "en": "Valongo Main Church",
+            "pt": "Igreja Matriz de Valongo"
           },
           "coords": [
             -8.4965,
@@ -575,7 +627,8 @@
             "de": "Ein Moment der Ruhe nach einer langen Radtour.",
             "hu": "Egy pillanatnyi nyugalom a hosszú kerékpártúra után.",
             "ro": "Un moment de liniște după o plimbare lungă cu bicicleta.",
-            "en": "A moment of tranquility after a long bike ride."
+            "en": "A moment of tranquility after a long bike ride.",
+            "pt": "Um momento de tranquilidade após um longo passeio de bicicleta."
           }
         },
         {
@@ -583,7 +636,8 @@
             "de": "Stadtmuseum von Valongo",
             "hu": "Valongo Városi Múzeum",
             "ro": "Muzeul Municipal din Valongo",
-            "en": "Municipal Museum of Valongo"
+            "en": "Municipal Museum of Valongo",
+            "pt": "Museu Municipal de Valongo"
           },
           "coords": [
             -8.4958,
@@ -599,7 +653,8 @@
             "de": "Erfahren Sie mehr über die Kekse und das Brot, die Sie später probieren können.",
             "hu": "Tudjon meg többet a kekszekről és a kenyérről, amit később megkóstolhat.",
             "ro": "Aflați despre biscuiții și pâinea pe care le puteți gusta mai târziu.",
-            "en": "Learn about the biscuits and bread you can try later."
+            "en": "Learn about the biscuits and bread you can try later.",
+            "pt": "Saiba sobre as bolachas e pães que pode provar mais tarde."
           }
         },
         {
@@ -607,7 +662,8 @@
             "de": "Brücke São Lázaro",
             "hu": "São Lázaro híd",
             "ro": "Podul São Lázaro",
-            "en": "São Lázaro Bridge"
+            "en": "São Lázaro Bridge",
+            "pt": "Ponte de São Lázaro"
           },
           "coords": [
             -8.4988,
@@ -623,7 +679,8 @@
             "de": "Ein schöner Abschluss Ihrer Radtour, der die städtischen und ländlichen Teile verbindet.",
             "hu": "Szép lezárása a kerékpártúrának, összekötve a városi és vidéki részeket.",
             "ro": "Un final frumos pentru turul cu bicicleta, legând părțile urbane de cele rurale.",
-            "en": "A nice end to your bike tour, linking the urban and rural parts."
+            "en": "A nice end to your bike tour, linking the urban and rural parts.",
+            "pt": "Um bom final para o seu passeio de bicicleta, ligando as partes urbanas e rurais."
           }
         }
       ],
@@ -631,7 +688,8 @@
         "de": "Ihre Radtour beginnt im charmanten Dorf Couce und führt Sie durch die Hügel zum Schiefermuseum, wo Sie in die Industriegeschichte eintauchen. Am Vormittag erkunden Sie die natürliche Schönheit des Paläozoischen Parks. Nach einem stärkenden Mittagessen radeln Sie zurück ins Zentrum von Valongo. Der Nachmittag ist der Erkundung des städtischen Kerns gewidmet, mit Besuchen der Hauptkirche und des Stadtmuseums, die einen Kontrast zur ländlichen Landschaft des Vormittags bilden. Beenden Sie Ihre Tour an der historischen Brücke São Lázaro, einem perfekten Ort, um über die abwechslungsreiche Landschaft nachzudenken, die Sie durchquert haben.",
         "hu": "Kerékpártúrája a bájos Couce faluból indul, és a dombokon keresztül a Palamúzeumhoz vezet, ahol elmerülhet az ipartörténetben. A délelőttöt a Paleozoikumi Park természeti szépségeinek felfedezésével tölti. Egy kiadós ebéd után visszateker Valongo központjába. A délután a városi mag felfedezéséé, a főtemplom és a városi múzeum meglátogatásával, kontrasztot alkotva a délelőtti vidéki tájjal. A túrát a történelmi São Lázaro hídnál fejezze be, amely tökéletes hely arra, hogy elgondolkodjon a bejárt változatos tájon.",
         "ro": "Turul cu bicicleta începe în satul fermecător Couce, ducându-vă prin dealuri până la Muzeul Ardeziei pentru o incursiune în istoria industrială. Dimineața este petrecută explorând frumusețea naturală a Parcului Paleozoic. După un prânz copios, pedalați înapoi în centrul orașului Valongo. După-amiaza este dedicată explorării nucleului urban, cu vizite la biserica principală și muzeul municipal, oferind un contrast cu peisajul rural de dimineață. Încheiați turul la podul istoric São Lázaro, un loc perfect pentru a reflecta asupra peisajului variat pe care l-ați străbătut.",
-        "en": "Your bike tour starts in the charming village of Couce, taking you through the hills to the Slate Museum for a dive into industrial history. The morning is spent exploring the natural beauty of the Paleozoic Park. After a hearty lunch, you'll cycle back to the center of Valongo. The afternoon is dedicated to exploring the urban core, with visits to the main church and municipal museum, providing a contrast to the morning's rural landscape. End your tour at the historic São Lázaro bridge, a perfect spot to reflect on the varied landscape you've traversed."
+        "en": "Your bike tour starts in the charming village of Couce, taking you through the hills to the Slate Museum for a dive into industrial history. The morning is spent exploring the natural beauty of the Paleozoic Park. After a hearty lunch, you'll cycle back to the center of Valongo. The afternoon is dedicated to exploring the urban core, with visits to the main church and municipal museum, providing a contrast to the morning's rural landscape. End your tour at the historic São Lázaro bridge, a perfect spot to reflect on the varied landscape you've traversed.",
+        "pt": "O seu passeio de bicicleta começa na encantadora aldeia de Couce, levando-o pelas colinas até ao Museu da Ardósia para uma imersão na história industrial. A manhã é dedicada a explorar a beleza natural do Parque Paleozóico. Após um almoço reforçado, pedala de volta ao centro de Valongo. A tarde destina-se a explorar o núcleo urbano, com visitas à igreja matriz e ao museu municipal, proporcionando um contraste com a paisagem rural da manhã. Termine o seu percurso na histórica ponte de São Lázaro, um local perfeito para refletir sobre a diversidade da paisagem que percorreu."
       },
       "gastro_picks": {
         "de": [
@@ -731,6 +789,10 @@
         "en": [
           "The route has some challenging climbs; a mountain bike or e-bike is recommended.",
           "Check the opening hours of the Slate Museum in advance."
+        ],
+        "pt": [
+          "O percurso tem algumas subidas exigentes; recomenda-se uma bicicleta de montanha ou uma e-bike.",
+          "Verifique os horários de abertura do Museu da Ardósia com antecedência."
         ]
       },
       "variants": {
@@ -739,7 +801,8 @@
             "de": "Eine nasse Radtour beginnt Richtung Couce, wo die Vegetation intensiv duftet. Das Schiefermuseum bietet mittags Schutz und faszinierende Fakten. Nach dem Paleozoic Park führt die Fahrt zurück ins Zentrum zur Hauptkirche. Der Tag endet sicher am Museum und der Brücke, während der Regen die Gassen von Valongo reinigt.",
             "hu": "Egy vizes bringázás indul Couce felé, ahol az eső illata betölti az erdőt. A Pala-múzeum délben menedéket és érdekes tényeket kínál. A Paleozoos Park után az út visszavezet a központba a templomhoz. A nap biztonságosan zárul a múzeumnál és a hídnál, miközben az eső lemossa Valongo utcáit.",
             "ro": "O tură umedă cu bicicleta începe spre Couce, unde vegetația miroase intens. Muzeul de Ardezie oferă adăpost la prânz și informații fascinante. După Parcul Paleozoic, drumul revine în centru la biserică. Ziua se încheie în siguranță la muzeu și pod, în timp ce ploaia curăță străzile.",
-            "en": "A wet bike ride starts toward Couce, where the vegetation smells intense in the rain. The Slate Museum provides noon shelter and fascinating facts. After the Paleozoic Park, the ride returns to the center. The day ends safely at the museum and bridge while the rain refreshes the streets of Valongo."
+            "en": "A wet bike ride starts toward Couce, where the vegetation smells intense in the rain. The Slate Museum provides noon shelter and fascinating facts. After the Paleozoic Park, the ride returns to the center. The day ends safely at the museum and bridge while the rain refreshes the streets of Valongo.",
+            "pt": "Um passeio de bicicleta com chuva começa em direção a Couce, onde a vegetação cheira intensamente com a chuva. O Museu da Ardósia oferece abrigo ao meio‑dia e factos fascinantes. Após o Parque Paleozóico, a rota regressa ao centro. O dia termina em segurança no museu e na ponte enquanto a chuva refresca as ruas de Valongo."
           },
           "stops": [
             {
@@ -748,7 +811,8 @@
                 "de": "Vorsicht auf den Waldwegen, Matschgefahr für schmale Reifen.",
                 "hu": "Vigyázat az erdei utakon, a sár veszélyes lehet a vékony gumiknak.",
                 "ro": "Atenție pe drumurile forestiere, pericol de noroi pentru anvelope înguste.",
-                "en": "Watch out on forest paths; mud risk for narrow tires."
+                "en": "Watch out on forest paths; mud risk for narrow tires.",
+                "pt": "Cuidado nos caminhos florestais; risco de lama para pneus estreitos."
               }
             },
             {
@@ -757,7 +821,8 @@
                 "de": "Nutzen Sie den überdachten Bereich, um die Kette zu prüfen.",
                 "hu": "Használja a fedett részt a lánc és a fékek ellenőrzésére.",
                 "ro": "Folosiți zona acoperită pentru a verifica lanțul și frânele.",
-                "en": "Use the covered area to check your chain and brakes."
+                "en": "Use the covered area to check your chain and brakes.",
+                "pt": "Use a zona coberta para verificar a corrente e os travões."
               }
             },
             {
@@ -766,7 +831,8 @@
                 "de": "Fahren Sie langsam; Steine können unter dem Laub rutschig sein.",
                 "hu": "Hajtson lassan; a levelek alatt a kövek csúszósak lehetnek.",
                 "ro": "Mergeți încet; pietrele pot fi alunecoase sub frunziș.",
-                "en": "Ride slowly; stones can be slippery under the leaves."
+                "en": "Ride slowly; stones can be slippery under the leaves.",
+                "pt": "Pedale devagar; as pedras podem estar escorregadias sob as folhas."
               }
             },
             {
@@ -775,7 +841,8 @@
                 "de": "Suchen Sie einen Platz mit Blick auf Ihr geparktes Rad.",
                 "hu": "Keressen olyan helyet, ahonnan rálát a leparkolt biciklire.",
                 "ro": "Căutați un loc cu vedere la bicicleta parcată.",
-                "en": "Find a spot with a view of your parked bike."
+                "en": "Find a spot with a view of your parked bike.",
+                "pt": "Encontre um local com vista para a sua bicicleta estacionada."
               }
             },
             {
@@ -784,7 +851,8 @@
                 "de": "Parken Sie das Rad sicher unter einem Vordach in der Nähe.",
                 "hu": "Parkolja le a bringát egy közeli előtető alatt.",
                 "ro": "Parcați bicicleta în siguranță sub un baldachin din apropiere.",
-                "en": "Park the bike safely under a nearby overhang."
+                "en": "Park the bike safely under a nearby overhang.",
+                "pt": "Estacione a bicicleta em segurança debaixo de um alpendre próximo."
               }
             },
             {
@@ -793,7 +861,8 @@
                 "de": "Trocknen Sie Ihre Brille und Ausrüstung hier kurz ab.",
                 "hu": "Itt röviden megszáríthatja a szemüvegét és a felszerelését.",
                 "ro": "Vă puteți usca rapid ochelarii și echipamentul aici.",
-                "en": "Briefly dry your glasses and gear here."
+                "en": "Briefly dry your glasses and gear here.",
+                "pt": "Seque brevemente os seus óculos e equipamento aqui."
               }
             },
             {
@@ -802,7 +871,8 @@
                 "de": "Auf Schieferplatten nur rollen, nicht stark bremsen.",
                 "hu": "A palalapokon csak guruljon, ne fékezzen hirtelen.",
                 "ro": "Pe plăcile de ardezie doar rulați, nu frânați brusc.",
-                "en": "Only roll on slate slabs; avoid hard braking."
+                "en": "Only roll on slate slabs; avoid hard braking.",
+                "pt": "Role apenas sobre lajes de ardósia; evite travagens bruscas."
               }
             }
           ],
@@ -830,6 +900,12 @@
               "Disc brakes are safer on wet descents.",
               "Avoid sharp turns on wet slate pavement.",
               "Pack your phone and maps in waterproof sleeves."
+            ],
+            "pt": [
+              "Guarda‑lamas são essenciais com este tempo em redor de Valongo.",
+              "Travões de disco são mais seguros em descidas húmidas.",
+              "Evite curvas fechadas em pavimento de ardósia molhada.",
+              "Guarde o telemóvel e os mapas em bolsas impermeáveis."
             ]
           }
         },
@@ -838,7 +914,8 @@
             "de": "Ein kühler Morgen auf dem Rad führt nach Couce, wo der Frost noch im Schatten hängen kann. Das Schiefermuseum bietet mittags eine willkommene Pause. Die Fahrt durch den Paleozoic Park ist bei klarer Winterluft besonders erfrischend. Zurück in der Stadt leuchten die Kirchenmauern in der tiefstehenden Sonne, bevor die Kälte am Abend zunimmt.",
             "hu": "Hűvös reggel a bringán Couce felé, ahol az árnyékos helyeken még megmaradt a zúzmara. A Pala-múzeum délben szívesen látott pihenőt kínál. A Paleozoos Parkon át vezető út a tiszta téli levegőben különösen frissítő. A városba érve a templom falai ragyognak az alacsony napállásban, mielőtt este visszatér a hideg.",
             "ro": "O dimineață răcoroasă pe bicicletă spre Couce, unde promoroaca poate persista la umbră. Muzeul de Ardezie oferă o pauză binemeritată la prânz. Drumul prin Parcul Paleozoic este revigorant în aerul curat de iarnă. În oraș, zidurile bisericii strălucesc în soarele de după-amiază, înainte de frigul serii.",
-            "en": "A cool morning on the bike leads to Couce, where frost may still linger in the shadows. The Slate Museum offers a welcome break at noon. Riding through the Paleozoic Park is refreshing in the clear winter air. Back in town, the church walls glow in the low sun before the evening chill returns."
+            "en": "A cool morning on the bike leads to Couce, where frost may still linger in the shadows. The Slate Museum offers a welcome break at noon. Riding through the Paleozoic Park is refreshing in the clear winter air. Back in town, the church walls glow in the low sun before the evening chill returns.",
+            "pt": "Uma manhã fresca de bicicleta leva a Couce, onde a geada pode ainda persistir nas sombras. O Museu da Ardósia oferece uma pausa bem‑vinda ao meio‑dia. Pedalar pelo Parque Paleozóico é revigorante no ar claro de inverno. De volta à vila, as paredes da igreja brilham com o sol baixo antes do frio da noite regressar."
           },
           "stops": [
             {
@@ -847,7 +924,8 @@
                 "de": "Hände und Füße warm halten, der Fahrtwind ist im Winter beißend.",
                 "hu": "Tartsa melegen a kezét és lábát, a menetszél télen metsző lehet.",
                 "ro": "Păstrați mâinile și picioarele calde, vântul este tăios iarna.",
-                "en": "Keep hands and feet warm; the wind chill is biting in winter."
+                "en": "Keep hands and feet warm; the wind chill is biting in winter.",
+                "pt": "Mantenha mãos e pés quentes; a sensação térmica é cortante no inverno."
               }
             },
             {
@@ -856,7 +934,8 @@
                 "de": "Ideal, um sich vor der Weiterfahrt kurz aufzuwärmen.",
                 "hu": "Ideális hely egy rövid felmelegedéshez a továbbindulás előtt.",
                 "ro": "Ideal pentru o scurtă încălzire înainte de a continua.",
-                "en": "Ideal to warm up briefly before continuing your ride."
+                "en": "Ideal to warm up briefly before continuing your ride.",
+                "pt": "Ideal para aquecer brevemente antes de continuar o passeio."
               }
             },
             {
@@ -865,7 +944,8 @@
                 "de": "Achten Sie auf vereiste Stellen in schattigen Senken.",
                 "hu": "Ügyeljen a jeges foltokra az árnyékos mélyedésekben.",
                 "ro": "Atenție la zonele înghețate în adânciturile umbrite.",
-                "en": "Watch out for icy patches in shaded hollows."
+                "en": "Watch out for icy patches in shaded hollows.",
+                "pt": "Cuidado com manchas de gelo em covas sombreadas."
               }
             },
             {
@@ -874,7 +954,8 @@
                 "de": "Ein heißer Tee hilft, die Körpertemperatur zu halten.",
                 "hu": "Egy forró tea segít fenntartani a testhőmérsékletet.",
                 "ro": "Un ceai fierbinte ajută la menținerea temperaturii corpului.",
-                "en": "A hot tea helps maintain your body temperature."
+                "en": "A hot tea helps maintain your body temperature.",
+                "pt": "Um chá quente ajuda a manter a temperatura corporal."
               }
             },
             {
@@ -883,7 +964,8 @@
                 "de": "Das Licht am Nachmittag betont die Architektur wunderschön.",
                 "hu": "A délutáni fények gyönyörűen kiemelik az építészetet.",
                 "ro": "Lumina de după-amiază subliniază frumos arhitectura.",
-                "en": "The afternoon light emphasizes the architecture beautifully."
+                "en": "The afternoon light emphasizes the architecture beautifully.",
+                "pt": "A luz da tarde realça a arquitetura de forma bonita."
               }
             },
             {
@@ -892,7 +974,8 @@
                 "de": "Letzte Kulturstation, bevor die Sonne untergeht.",
                 "hu": "Az utolsó kulturális megálló a naplemente előtt.",
                 "ro": "Ultima oprire culturală înainte de apusul soarelui.",
-                "en": "Final cultural stop before the sun goes down."
+                "en": "Final cultural stop before the sun goes down.",
+                "pt": "Última paragem cultural antes do pôr do sol."
               }
             },
             {
@@ -901,7 +984,8 @@
                 "de": "Vorsicht, falls die Sonne weg ist; Kälte macht die Steine glatt.",
                 "hu": "Vigyázat, ha elment a nap; a hideg csúszóssá teszi a köveket.",
                 "ro": "Atenție dacă soarele a apus; frigul face pietrele alunecoase.",
-                "en": "Careful if the sun is gone; cold can make the stones slick."
+                "en": "Careful if the sun is gone; cold can make the stones slick.",
+                "pt": "Tenha cuidado se o sol desaparecer; o frio pode tornar as pedras escorregadias."
               }
             }
           ],
@@ -929,6 +1013,12 @@
               "Check your lights; it gets dark quickly after 5:00 PM.",
               "Mountain roads may have frost in the mornings.",
               "Stay hydrated even if you feel less thirsty in the cold."
+            ],
+            "pt": [
+              "Luvas com dedos completos são imprescindíveis nas descidas em Valongo.",
+              "Verifique as luzes; escurece rapidamente após as 17:00.",
+              "As estradas de montanha podem ter geada pela manhã.",
+              "Mantenha‑se hidratado mesmo que sinta menos sede no frio."
             ]
           }
         }
@@ -947,7 +1037,8 @@
             "de": "Paläozoischer Park von Valongo",
             "hu": "Valongói Paleozoikumi Park",
             "ro": "Parcul Paleozoic din Valongo",
-            "en": "Paleozoic Park of Valongo"
+            "en": "Paleozoic Park of Valongo",
+            "pt": "Parque Paleozóico de Valongo"
           },
           "coords": [
             -8.525,
@@ -963,7 +1054,8 @@
             "de": "Fahren Sie zum Hauptparkplatz. Dies ist Ihr erster Cluster. Beginnen Sie mit einer Wanderung.",
             "hu": "Hajtson a fő parkolóhoz. Ez az első állomás-csoport. Kezdje egy túrával.",
             "ro": "Conduceți la parcarea principală. Acesta este primul dvs. cluster. Începeți cu o drumeție.",
-            "en": "Drive to the main parking area. This is your first cluster. Start with a hike."
+            "en": "Drive to the main parking area. This is your first cluster. Start with a hike.",
+            "pt": "Conduza até à área de estacionamento principal. Este é o seu primeiro núcleo. Comece com uma caminhada."
           }
         },
         {
@@ -971,7 +1063,8 @@
             "de": "Sanatorium von Montalto (Außenansicht)",
             "hu": "Montaltói Szanatórium (kívülről)",
             "ro": "Sanatoriul din Montalto (vedere exterioară)",
-            "en": "Sanatorium of Montalto (exterior view)"
+            "en": "Sanatorium of Montalto (exterior view)",
+            "pt": "Sanatório de Montalto (vista exterior)"
           },
           "coords": [
             -8.528,
@@ -987,7 +1080,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz aus, um die imposante verlassene Struktur zu sehen. Betreten verboten.",
             "hu": "Egy rövid séta a parkolóból, hogy megnézze a lenyűgöző elhagyatott épületet. Belépni tilos.",
             "ro": "O scurtă plimbare de la parcare pentru a vedea structura impunătoare abandonată. Nu intrați.",
-            "en": "A short walk from the parking area to see the imposing abandoned structure. Do not enter."
+            "en": "A short walk from the parking area to see the imposing abandoned structure. Do not enter.",
+            "pt": "Uma curta caminhada desde o parque de estacionamento para ver a imponente estrutura abandonada. Não entre."
           }
         },
         {
@@ -995,7 +1089,8 @@
             "de": "Dorf Couce",
             "hu": "Couce faluja",
             "ro": "Satul Couce",
-            "en": "Village of Couce"
+            "en": "Village of Couce",
+            "pt": "Aldeia de Couce"
           },
           "coords": [
             -8.5145,
@@ -1011,7 +1106,8 @@
             "de": "Fahren Sie zum zweiten Cluster. Parken Sie am Dorfeingang und erkunden Sie die Steinhäuser zu Fuß.",
             "hu": "Hajtson a második állomás-csoporthoz. Parkoljon a falu bejáratánál, és fedezze fel a kőházakat gyalog.",
             "ro": "Conduceți la al doilea cluster. Parcați la intrarea în sat și explorați casele de piatră pe jos.",
-            "en": "Drive to the second cluster. Park at the village entrance and explore the stone houses on foot."
+            "en": "Drive to the second cluster. Park at the village entrance and explore the stone houses on foot.",
+            "pt": "Conduza até ao segundo núcleo. Estacione na entrada da aldeia e explore as casas de pedra a pé."
           }
         },
         {
@@ -1019,7 +1115,8 @@
             "de": "Ermida de Santa Justa",
             "hu": "Santa Justa kápolna",
             "ro": "Schitul Santa Justa",
-            "en": "Hermitage of Santa Justa"
+            "en": "Hermitage of Santa Justa",
+            "pt": "Ermida de Santa Justa"
           },
           "coords": [
             -8.518,
@@ -1035,7 +1132,8 @@
             "de": "Ein kurzer Spaziergang vom Dorf Couce aus. Die Aussicht ist die kleine Wanderung wert.",
             "hu": "Rövid séta Couce falutól. A kilátás megéri a kis túrát.",
             "ro": "O scurtă plimbare de la satul Couce. Priveliștea merită mica drumeție.",
-            "en": "A short walk from Couce village. The view is worth the small hike."
+            "en": "A short walk from Couce village. The view is worth the small hike.",
+            "pt": "Uma curta caminhada a partir da aldeia de Couce. A vista vale a pequena subida."
           }
         },
         {
@@ -1043,7 +1141,8 @@
             "de": "Mittagessen im Zentrum von Valongo",
             "hu": "Ebéd Valongo központjában",
             "ro": "Prânz în centrul orașului Valongo",
-            "en": "Lunch in Valongo center"
+            "en": "Lunch in Valongo center",
+            "pt": "Almoço no centro de Valongo"
           },
           "coords": [
             -8.497,
@@ -1059,7 +1158,8 @@
             "de": "Fahren Sie zum dritten Cluster. Parken Sie im Stadtzentrum und genießen Sie ein ausgiebiges Mittagessen.",
             "hu": "Hajtson a harmadik állomás-csoporthoz. Parkoljon a városközpontban, és élvezzen egy kiadós ebédet.",
             "ro": "Conduceți la al treilea cluster. Parcați în centrul orașului și bucurați-vă de un prânz copios.",
-            "en": "Drive to the third cluster. Park in the town center and enjoy a leisurely lunch."
+            "en": "Drive to the third cluster. Park in the town center and enjoy a leisurely lunch.",
+            "pt": "Conduza até ao terceiro núcleo. Estacione no centro da cidade e desfrute de um almoço descontraído."
           }
         },
         {
@@ -1067,7 +1167,8 @@
             "de": "Kirche Matriz von Valongo",
             "hu": "Valongói főtemplom",
             "ro": "Biserica Matrice din Valongo",
-            "en": "Valongo Main Church"
+            "en": "Valongo Main Church",
+            "pt": "Igreja Matriz de Valongo"
           },
           "coords": [
             -8.4965,
@@ -1083,7 +1184,8 @@
             "de": "Nach dem Mittagessen ein kurzer Spaziergang zur Hauptkirche der Stadt.",
             "hu": "Ebéd után egy rövid séta a város főtemplomához.",
             "ro": "După prânz, o scurtă plimbare până la biserica principală a orașului.",
-            "en": "A short walk after lunch to the town's main church."
+            "en": "A short walk after lunch to the town's main church.",
+            "pt": "Uma curta caminhada após o almoço até à igreja matriz da vila."
           }
         },
         {
@@ -1091,7 +1193,8 @@
             "de": "Stadtmuseum von Valongo",
             "hu": "Valongo Városi Múzeum",
             "ro": "Muzeul Municipal din Valongo",
-            "en": "Municipal Museum of Valongo"
+            "en": "Municipal Museum of Valongo",
+            "pt": "Museu Municipal de Valongo"
           },
           "coords": [
             -8.4958,
@@ -1107,7 +1210,8 @@
             "de": "Beenden Sie den Tag mit einem tiefen Einblick in die lokale Geschichte und das Handwerk.",
             "hu": "Zárja a napot a helyi történelem és kézművesség mélyebb megismerésével.",
             "ro": "Încheiați ziua cu o incursiune profundă în istoria și meșteșugurile locale.",
-            "en": "End your day with a deep dive into local history and craftsmanship."
+            "en": "End your day with a deep dive into local history and craftsmanship.",
+            "pt": "Termine o dia com uma imersão na história local e no artesanato."
           }
         },
         {
@@ -1115,7 +1219,8 @@
             "de": "Schiefermuseum",
             "hu": "Palamúzeum",
             "ro": "Muzeul Ardeziei",
-            "en": "Slate Museum"
+            "en": "Slate Museum",
+            "pt": "Museu da Ardósia"
           },
           "coords": [
             -8.5301,
@@ -1131,7 +1236,8 @@
             "de": "Ein letzter kurzer Abstecher mit dem Auto zu diesem wichtigen Museum, bevor der Tag zu Ende geht.",
             "hu": "Egy utolsó rövid autós kitérő ehhez a fontos múzeumhoz, mielőtt a nap véget ér.",
             "ro": "Un ultim ocol rapid cu mașina la acest muzeu important înainte de încheierea zilei.",
-            "en": "A final quick detour by car to this important museum before the day ends."
+            "en": "A final quick detour by car to this important museum before the day ends.",
+            "pt": "Um último desvio rápido de carro até este importante museu antes do fim do dia."
           }
         }
       ],
@@ -1139,7 +1245,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto im Paläozoischen Park, wo Sie die Natur und die nahegelegene verlassene Sanatoriumsarchitektur zu Fuß erkunden. Am Vormittag fahren Sie weiter zum rustikalen Dorf Couce, parken Ihr Auto und schlendern durch die Steingassen zur Santa Justa Ermitage. Nach einem Vormittag auf dem Land fahren Sie ins Zentrum von Valongo für ein wohlverdientes Mittagessen. Der Nachmittag ist einem Stadtrundgang gewidmet, bei dem Sie die Hauptkirche und das Stadtmuseum besuchen, alles in Gehweite von Ihrem Parkplatz aus. Ein letzter Ausflug mit dem Auto führt Sie zum Schiefermuseum und rundet einen Tag ab, der Natur, ländlichen Charme und städtische Kultur perfekt miteinander verbindet.",
         "hu": "Kezdje a napot autóval a Paleozoikumi Parkban, ahol gyalogosan fedezi fel a természetet és a közeli elhagyatott szanatórium építészetét. A délelőtt folyamán továbbhajt a rusztikus Couce faluba, leparkolja az autóját, és a kőutcákon keresztül elsétál a Santa Justa kápolnához. A vidéken töltött délelőtt után Valongo központjába hajt egy jól megérdemelt ebédre. A délután a városi sétaé, meglátogatja a főtemplomot és a városi múzeumot, mindezt sétatávolságra a parkolótól. Egy utolsó autós kitérő a Palamúzeumhoz vezet, lezárva egy napot, amely tökéletesen ötvözi a természetet, a vidéki bájt és a városi kultúrát.",
         "ro": "Începeți ziua cu mașina în Parcul Paleozoic, explorând pe jos natura și arhitectura abandonată a sanatoriului din apropiere. Dimineața, continuați spre satul rustic Couce, parcați mașina și plimbați-vă pe străzile de piatră până la Schitul Santa Justa. După o dimineață la țară, conduceți în centrul orașului Valongo pentru un prânz binemeritat. După-amiaza este dedicată unei plimbări urbane, vizitând biserica principală și muzeul municipal, toate la distanță de mers pe jos de parcare. O ultimă excursie cu mașina vă duce la Muzeul Ardeziei, încheind o zi care îmbină perfect natura, farmecul rural și cultura urbană.",
-        "en": "Start your day by car at the Paleozoic Park, exploring nature and the nearby abandoned sanatorium architecture on foot. In the morning, drive on to the rustic village of Couce, park your car, and stroll through the stone streets to the Santa Justa Hermitage. After a morning in the countryside, drive to the center of Valongo for a well-deserved lunch. The afternoon is dedicated to an urban walk, visiting the main church and the municipal museum, all within walking distance of your parking spot. A final car trip takes you to the Slate Museum, rounding off a day that perfectly combines nature, rural charm, and urban culture."
+        "en": "Start your day by car at the Paleozoic Park, exploring nature and the nearby abandoned sanatorium architecture on foot. In the morning, drive on to the rustic village of Couce, park your car, and stroll through the stone streets to the Santa Justa Hermitage. After a morning in the countryside, drive to the center of Valongo for a well-deserved lunch. The afternoon is dedicated to an urban walk, visiting the main church and the municipal museum, all within walking distance of your parking spot. A final car trip takes you to the Slate Museum, rounding off a day that perfectly combines nature, rural charm, and urban culture.",
+        "pt": "Comece o dia de carro no Parque Paleozóico, explorando a natureza e a arquitetura do sanatório abandonado nas imediações a pé. De manhã, siga de carro até à rústica aldeia de Couce, estacione e percorra as ruas de pedra até à Ermida de Santa Justa. Após uma manhã no campo, conduza até ao centro de Valongo para um merecido almoço. A tarde é dedicada a um passeio urbano, visitando a igreja matriz e o museu municipal, todos a curta distância do local de estacionamento. Uma última viagem de carro leva‑o ao Museu da Ardósia, encerrando um dia que combina na perfeição natureza, charme rural e cultura urbana."
       },
       "gastro_picks": {
         "de": [
@@ -1259,6 +1366,10 @@
         "en": [
           "Park strategically in the clusters to avoid unnecessary walking.",
           "A GPS is essential for navigating between the remote locations like Couce and the Paleozoic Park."
+        ],
+        "pt": [
+          "Estacione estrategicamente nos núcleos para evitar caminhadas desnecessárias.",
+          "Um GPS é essencial para navegar entre locais remotos como Couce e o Parque Paleozóico."
         ]
       },
       "variants": {
@@ -1267,7 +1378,8 @@
             "de": "Im Komfort des Autos erkunden wir den Paleozoic Park und das Sanatorium Montalto, während der Regen gegen die Scheiben trommelt. Couce und Santa Justa bieten dramatische Ausblicke aus dem trockenen Innenraum. Nach einem gemütlichen Mittagessen im Zentrum folgen Museumsbesuche, bevor der Tag am Schiefermuseum bei prasselndem Regen endet.",
             "hu": "Az autó kényelméből fedezzük fel a Paleozoos Parkot és a Montalto szanatóriumot, miközben az eső a szélvédőn kopog. Couce és Santa Justa drámai kilátást nyújt a száraz utastérből. Egy barátságos ebéd után a múzeumok következnek, majd a nap a Pala-múzeumnál zárul a zuhogó esőben.",
             "ro": "În confortul mașinii explorăm Parcul Paleozoic și Sanatoriul Montalto, în timp ce ploaia bate în geamuri. Couce și Santa Justa oferă priveliști dramatice din interiorul uscat. După un prânz plăcut în centru urmează muzeele, iar ziua se încheie la Muzeul de Ardezie.",
-            "en": "From the comfort of the car, we explore the Paleozoic Park and Montalto Sanatorium while rain drums on the windshield. Couce and Santa Justa offer dramatic views from the dry interior. After a cozy lunch, museum visits follow, ending the day at the Slate Museum in the pouring rain."
+            "en": "From the comfort of the car, we explore the Paleozoic Park and Montalto Sanatorium while rain drums on the windshield. Couce and Santa Justa offer dramatic views from the dry interior. After a cozy lunch, museum visits follow, ending the day at the Slate Museum in the pouring rain.",
+            "pt": "No conforto do carro, exploramos o Parque Paleozóico e o Sanatório de Montalto enquanto a chuva tamborila no para‑brisas. Couce e Santa Justa oferecem vistas dramáticas a partir do interior seco. Após um almoço reconfortante, seguem‑se visitas a museus, terminando o dia no Museu da Ardósia sob chuva forte."
           },
           "stops": [
             {
@@ -1276,7 +1388,8 @@
                 "de": "Parken Sie nah am Infopunkt, um trocken zu bleiben.",
                 "hu": "Parkoljon közel az információs ponthoz, hogy száraz maradjon.",
                 "ro": "Parcați aproape de punctul de informare pentru a rămâne uscat.",
-                "en": "Park close to the info point to stay dry."
+                "en": "Park close to the info point to stay dry.",
+                "pt": "Estacione perto do posto de informações para se manter seco."
               }
             },
             {
@@ -1285,7 +1398,8 @@
                 "de": "Genießen Sie den Anblick aus dem Auto; der Nebel wirkt gespenstisch.",
                 "hu": "Élvezze a látványt az autóból; a köd kísérteties hangulatot ad.",
                 "ro": "Bucurați-vă de vedere din mașină; ceața oferă un aspect fantomatic.",
-                "en": "Enjoy the view from the car; the fog adds a ghostly atmosphere."
+                "en": "Enjoy the view from the car; the fog adds a ghostly atmosphere.",
+                "pt": "Desfrute da vista desde o carro; o nevoeiro acrescenta uma atmosfera fantasmagórica."
               }
             },
             {
@@ -1294,7 +1408,8 @@
                 "de": "Die schmale Zufahrt erfordert bei Nässe erhöhte Konzentration.",
                 "hu": "A szűk bekötőút vizesen fokozott koncentrációt igényel.",
                 "ro": "Drumul de acces îngust necesită concentrare sporită pe ud.",
-                "en": "The narrow access road requires extra concentration when wet."
+                "en": "The narrow access road requires extra concentration when wet.",
+                "pt": "A estrada de acesso estreita exige extra concentração quando está molhada."
               }
             },
             {
@@ -1303,7 +1418,8 @@
                 "de": "Vorsicht beim Aussteigen auf dem unbefestigten Parkplatz.",
                 "hu": "Vigyázzon kiszálláskor a burkolatlan parkolóban a sár miatt.",
                 "ro": "Atenție la coborâre în parcarea neasfaltată din cauza noroiului.",
-                "en": "Watch your step when getting out in the unpaved parking area."
+                "en": "Watch your step when getting out in the unpaved parking area.",
+                "pt": "Cuidado ao sair no parque não alcatroado."
               }
             },
             {
@@ -1312,7 +1428,8 @@
                 "de": "Suchen Sie ein Parkhaus, um entspannt ins Restaurant zu kommen.",
                 "hu": "Keressen parkolóházat, hogy szárazon jusson el az étterembe.",
                 "ro": "Căutați o parcare acoperită pentru a ajunge uscat la restaurant.",
-                "en": "Look for covered parking to reach the restaurant dry."
+                "en": "Look for covered parking to reach the restaurant dry.",
+                "pt": "Procure estacionamento coberto para chegar ao restaurante seco."
               }
             },
             {
@@ -1321,7 +1438,8 @@
                 "de": "Kurzer Sprint vom Auto zum Eingang; Schirm bereit halten.",
                 "hu": "Rövid sprint az autótól a bejáratig; legyen kéznél az ernyő.",
                 "ro": "Sprint scurt de la mașină la intrare; țineți umbrela la îndemână.",
-                "en": "Short sprint from car to entrance; keep your umbrella ready."
+                "en": "Short sprint from car to entrance; keep your umbrella ready.",
+                "pt": "Corrida curta do carro até à entrada; mantenha o guarda‑chuva pronto."
               }
             },
             {
@@ -1330,7 +1448,8 @@
                 "de": "Nutzen Sie die Zeit für eine ausführliche Besichtigung.",
                 "hu": "Használja ki az időt egy alaposabb tárlatvezetésre.",
                 "ro": "Folosiți timpul pentru o vizită detaliată.",
-                "en": "Take your time for a thorough visit inside."
+                "en": "Take your time for a thorough visit inside.",
+                "pt": "Tire o tempo necessário para uma visita completa no interior."
               }
             },
             {
@@ -1339,7 +1458,8 @@
                 "de": "Guter Abschluss, da man direkt davor parken kann.",
                 "hu": "Jó befejezés, mivel közvetlenül előtte lehet parkolni.",
                 "ro": "Un final bun, deoarece se poate parca chiar în față.",
-                "en": "A good finish since you can park right in front."
+                "en": "A good finish since you can park right in front.",
+                "pt": "Um bom final, já que pode estacionar mesmo à frente."
               }
             }
           ],
@@ -1367,6 +1487,12 @@
               "Keep the windshield defogged for a clear view of the landscape.",
               "Parking areas in Couce can get muddy when it rains.",
               "An umbrella in the car is indispensable for this itinerary."
+            ],
+            "pt": [
+              "Cuidado com aquaplanagem em estradas montanhosas íngremes.",
+              "Mantenha o para‑brisas descongelado para uma vista clara da paisagem.",
+              "As áreas de estacionamento em Couce podem ficar enlameadas quando chove.",
+              "Um guarda‑chuva no carro é indispensável para este itinerário."
             ]
           }
         },
@@ -1375,7 +1501,8 @@
             "de": "Eine Wintertour mit dem Auto startet am Paleozoic Park, wo der Frost die Felsen glitzern lässt. Das Sanatorium und Couce wirken in der klaren Luft gestochen scharf. Nach dem Mittagessen im warmen Zentrum besuchen wir die Hauptkirche und das Stadtmuseum. Der Tag endet gemütlich im Schiefermuseum, während draußen die Winterdämmerung einsetzt.",
             "hu": "Téli autós túra indul a Paleozoos Parkban, ahol a zúzmara megcsillan a sziklákon. A szanatórium és Couce tűélesnek tűnik a tiszta levegőben. A meleg központban elköltött ebéd után meglátogatjuk a főtemplomot és a múzeumot. A nap barátságosan zárul a Pala-múzeumban, miközben odakint leszáll a téli alkonyat.",
             "ro": "Un tur de iarnă cu mașina începe la Parcul Paleozoic, unde chiciura face stâncile să sclipească. Sanatoriul și Couce par extrem de clare în aerul curat. După prânzul în centrul cald vizităm biserica și muzeul. Ziua se încheie plăcut la Muzeul de Ardezie, în timp ce afară se lasă amurgul.",
-            "en": "A winter car tour starts at Paleozoic Park, where frost makes the rocks glisten. The Sanatorium and Couce look sharp in the clear air. After lunch in the warm center, we visit the Main Church and museum. The day ends cozily at the Slate Museum as the winter twilight sets in."
+            "en": "A winter car tour starts at Paleozoic Park, where frost makes the rocks glisten. The Sanatorium and Couce look sharp in the clear air. After lunch in the warm center, we visit the Main Church and museum. The day ends cozily at the Slate Museum as the winter twilight sets in.",
+            "pt": "Um roteiro de carro no inverno começa no Parque Paleozóico, onde a geada faz as rochas cintilar. O Sanatório e Couce ficam nítidos no ar claro. Após o almoço no centro acolhedor, visitamos a Igreja Matriz e o museu. O dia termina confortavelmente no Museu da Ardósia com o crepúsculo de inverno a assentar."
           },
           "stops": [
             {
@@ -1384,7 +1511,8 @@
                 "de": "Heizung im Auto nutzen, um zwischen den kurzen Stopps warm zu bleiben.",
                 "hu": "Használja az autó fűtését, hogy a rövid megállók között ne fázzon.",
                 "ro": "Folosiți încălzirea mașinii pentru a rămâne cald între opriri.",
-                "en": "Use the car heater to stay warm between short outdoor stops."
+                "en": "Use the car heater to stay warm between short outdoor stops.",
+                "pt": "Use o aquecedor do carro para se manter quente entre as breves paragens ao ar livre."
               }
             },
             {
@@ -1393,7 +1521,8 @@
                 "de": "Die klare Winterluft ermöglicht weite Sicht auf das Gebäude.",
                 "hu": "A tiszta téli levegő távoli kilátást enged az épületre.",
                 "ro": "Aerul curat de iarnă permite o vedere clară asupra clădirii.",
-                "en": "The clear winter air allows for a great distant view of the building."
+                "en": "The clear winter air allows for a great distant view of the building.",
+                "pt": "O ar claro de inverno permite uma excelente vista distante do edifício."
               }
             },
             {
@@ -1402,7 +1531,8 @@
                 "de": "Die Sonne erreicht das Tal im Winter nur für wenige Stunden.",
                 "hu": "A nap télen csak néhány órára éri el a völgyet.",
                 "ro": "Soarele ajunge în vale iarna doar pentru câteva ore.",
-                "en": "The sun reaches the valley for only a few hours in winter."
+                "en": "The sun reaches the valley for only a few hours in winter.",
+                "pt": "O sol atinge o vale apenas por algumas horas no inverno."
               }
             },
             {
@@ -1411,7 +1541,8 @@
                 "de": "Warme Jacke für den kurzen Weg vom Parkplatz zur Eremitage.",
                 "hu": "Meleg kabát szükséges a parkolótól a remetelakig tartó rövid útra.",
                 "ro": "Jachetă caldă necesară pentru drumul scurt de la parcare la ermit.",
-                "en": "Warm jacket needed for the short walk from parking to the hermitage."
+                "en": "Warm jacket needed for the short walk from parking to the hermitage.",
+                "pt": "Casaco quente necessário para a curta caminhada do parque até à ermida."
               }
             },
             {
@@ -1420,7 +1551,8 @@
                 "de": "Parken Sie in der Sonne, um das Auto natürlich aufzuheizen.",
                 "hu": "Parkoljon napos helyen, hogy az autó természetes módon felmelegedjen.",
                 "ro": "Parcați la soare pentru a încălzi mașina în mod natural.",
-                "en": "Park in the sun to warm up the car naturally."
+                "en": "Park in the sun to warm up the car naturally.",
+                "pt": "Estacione ao sol para aquecer o carro naturalmente."
               }
             },
             {
@@ -1429,7 +1561,8 @@
                 "de": "Besichtigung am frühen Nachmittag bei bestem Licht.",
                 "hu": "Látogatás kora délután, a legjobb fényviszonyok mellett.",
                 "ro": "Vizită la începutul după-amiezii în cea mai bună lumină.",
-                "en": "Visit in the early afternoon for the best light."
+                "en": "Visit in the early afternoon for the best light.",
+                "pt": "Visite ao início da tarde para a melhor luz."
               }
             },
             {
@@ -1438,7 +1571,8 @@
                 "de": "Kulturelle Aufwärmpause vor dem letzten Programmpunkt.",
                 "hu": "Kulturális melegedő szünet az utolsó programpont előtt.",
                 "ro": "O pauză culturală înainte de ultimul punct al programului.",
-                "en": "A cultural warming break before the final stop."
+                "en": "A cultural warming break before the final stop.",
+                "pt": "Uma pausa cultural reconfortante antes da última paragem."
               }
             },
             {
@@ -1447,7 +1581,8 @@
                 "de": "Das Museum schließt pünktlich zum Einbruch der Dunkelheit.",
                 "hu": "A múzeum pontosan sötétedéskor zár be.",
                 "ro": "Muzeul se închide exact la lăsarea întunericului.",
-                "en": "The museum closes promptly as darkness falls."
+                "en": "The museum closes promptly as darkness falls.",
+                "pt": "O museu fecha pontualmente ao anoitecer."
               }
             }
           ],
@@ -1475,6 +1610,12 @@
               "Mountain roads may have icy patches in shaded areas.",
               "Maximize the daylight hours between 10:00 AM and 4:00 PM.",
               "Valongo is higher than Porto; it's usually 2-3 degrees cooler here."
+            ],
+            "pt": [
+              "Verifique o anticongelante no líquido do limpa‑para‑brisas.",
+              "As estradas de montanha podem ter manchas de gelo em áreas sombreadas.",
+              "Maximize as horas de luz entre as 10:00 e as 16:00.",
+              "Valongo está mais alto do que Porto; costuma ser 2–3 graus mais frio aqui."
             ]
           }
         }
@@ -1493,7 +1634,8 @@
             "de": "Kirche Matriz von Valongo",
             "hu": "Valongói főtemplom",
             "ro": "Biserica Matrice din Valongo",
-            "en": "Valongo Main Church"
+            "en": "Valongo Main Church",
+            "pt": "Igreja Matriz de Valongo"
           },
           "coords": [
             -8.4965,
@@ -1509,7 +1651,8 @@
             "de": "Nehmen Sie einen Bus ins Zentrum. Beginnen Sie Ihren Tag mit diesem architektonischen Juwel.",
             "hu": "Menjen busszal a központba. Kezdje a napot ezzel az építészeti gyöngyszemmel.",
             "ro": "Luați un autobuz spre centru. Începeți ziua cu această bijuterie arhitecturală.",
-            "en": "Take a bus to the center. Start your day at this architectural gem."
+            "en": "Take a bus to the center. Start your day at this architectural gem.",
+            "pt": "Apanhe um autocarro até ao centro. Comece o dia nesta jóia arquitetónica."
           }
         },
         {
@@ -1517,7 +1660,8 @@
             "de": "Stadtmuseum von Valongo",
             "hu": "Valongo Városi Múzeum",
             "ro": "Muzeul Municipal din Valongo",
-            "en": "Municipal Museum of Valongo"
+            "en": "Municipal Museum of Valongo",
+            "pt": "Museu Municipal de Valongo"
           },
           "coords": [
             -8.4958,
@@ -1533,7 +1677,8 @@
             "de": "Ein kurzer Spaziergang von der Kirche entfernt. Tauchen Sie tief in die lokale Geschichte ein.",
             "hu": "Rövid séta a templomtól. Merüljön el mélyen a helyi történelemben.",
             "ro": "La o scurtă plimbare de biserică. Pătrundeți adânc în istoria locală.",
-            "en": "A short walk from the church. Dive deep into the local history."
+            "en": "A short walk from the church. Dive deep into the local history.",
+            "pt": "A uma curta caminhada da igreja. Mergulhe na história local."
           }
         },
         {
@@ -1541,7 +1686,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the center"
+            "en": "Lunch in the center",
+            "pt": "Almoço no centro"
           },
           "coords": [
             -8.497,
@@ -1557,7 +1703,8 @@
             "de": "Genießen Sie die lokale Küche, bevor Sie den Bus zum nächsten Ziel nehmen.",
             "hu": "Élvezze a helyi konyhát, mielőtt busszal indul a következő célponthoz.",
             "ro": "Bucurați-vă de bucătăria locală înainte de a lua autobuzul spre următoarea destinație.",
-            "en": "Enjoy the local cuisine before taking the bus to the next destination."
+            "en": "Enjoy the local cuisine before taking the bus to the next destination.",
+            "pt": "Desfrute da cozinha local antes de apanhar o autocarro para o próximo destino."
           }
         },
         {
@@ -1565,7 +1712,8 @@
             "de": "Dorf Couce",
             "hu": "Couce faluja",
             "ro": "Satul Couce",
-            "en": "Village of Couce"
+            "en": "Village of Couce",
+            "pt": "Aldeia de Couce"
           },
           "coords": [
             -8.5145,
@@ -1581,7 +1729,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Couce. Genießen Sie die Fahrt aufs Land.",
             "hu": "Menjen busszal Couce irányába. Élvezze a vidéki utazást.",
             "ro": "Luați un autobuz spre Couce. Bucurați-vă de călătoria spre zona rurală.",
-            "en": "Take a bus towards Couce. Enjoy the ride to the countryside."
+            "en": "Take a bus towards Couce. Enjoy the ride to the countryside.",
+            "pt": "Apanhe um autocarro em direção a Couce. Desfrute da viagem pelo campo."
           }
         },
         {
@@ -1589,7 +1738,8 @@
             "de": "Ermida de Santa Justa",
             "hu": "Santa Justa kápolna",
             "ro": "Schitul Santa Justa",
-            "en": "Hermitage of Santa Justa"
+            "en": "Hermitage of Santa Justa",
+            "pt": "Ermida de Santa Justa"
           },
           "coords": [
             -8.518,
@@ -1605,7 +1755,8 @@
             "de": "Ein friedlicher Spaziergang vom Dorf zur Ermitage mit herrlicher Aussicht.",
             "hu": "Békés séta a faluból a kápolnához, csodálatos kilátással.",
             "ro": "O plimbare liniștită de la sat la schit, cu vederi minunate.",
-            "en": "A peaceful walk from the village to the hermitage with lovely views."
+            "en": "A peaceful walk from the village to the hermitage with lovely views.",
+            "pt": "Uma caminhada tranquila da aldeia até à ermida com vistas encantadoras."
           }
         },
         {
@@ -1613,7 +1764,8 @@
             "de": "Schiefermuseum",
             "hu": "Palamúzeum",
             "ro": "Muzeul Ardeziei",
-            "en": "Slate Museum"
+            "en": "Slate Museum",
+            "pt": "Museu da Ardósia"
           },
           "coords": [
             -8.5301,
@@ -1629,7 +1781,8 @@
             "de": "Nehmen Sie einen anderen Bus, um dieses faszinierende Museum zu erreichen und den Tag abzurunden.",
             "hu": "Menjen egy másik busszal, hogy elérje ezt a lenyűgöző múzeumot, és lezárja a napot.",
             "ro": "Luați un alt autobuz pentru a ajunge la acest muzeu fascinant pentru a încheia ziua.",
-            "en": "Take another bus to reach this fascinating museum to round off the day."
+            "en": "Take another bus to reach this fascinating museum to round off the day.",
+            "pt": "Apanhe outro autocarro para chegar a este fascinante museu e fechar o dia."
           }
         }
       ],
@@ -1637,7 +1790,8 @@
         "de": "Ihre Reise beginnt mit einer Busfahrt ins Herz von Valongo. Der Vormittag ist dem städtischen Cluster gewidmet, wo Sie die Hauptkirche und das Museum zu Fuß erkunden, gefolgt von einem lokalen Mittagessen. Am Nachmittag bringt Sie ein weiterer Bus aufs Land zum malerischen Dorf Couce. Hier können Sie die rustikale Atmosphäre und die ruhige Santa Justa Ermitage bei einem Spaziergang genießen. Der Tag endet mit einer letzten Busfahrt zum Schiefermuseum, die einen umfassenden Überblick über das vielfältige Erbe von Valongo bietet, von seinem städtischen Zentrum bis zu seinen ländlichen Wurzeln und seiner industriellen Vergangenheit.",
         "hu": "Utazása egy buszúttal kezdődik Valongo szívébe. A délelőtt a városi klaszteré, ahol gyalogosan fedezi fel a főtemplomot és a múzeumot, majd egy helyi ebédet fogyaszt el. Délután egy másik busz a festői Couce faluba viszi vidékre. Itt egy séta során élvezheti a rusztikus hangulatot és a csendes Santa Justa kápolnát. A nap egy utolsó buszúttal ér véget a Palamúzeumhoz, amely átfogó képet nyújt Valongo sokszínű örökségéről, a városi központtól a vidéki gyökerekig és az ipari múltig.",
         "ro": "Călătoria dvs. începe cu o cursă cu autobuzul în inima orașului Valongo. Dimineața este dedicată clusterului urban, explorând pe jos biserica principală și muzeul, urmate de un prânz local. După-amiaza, un alt autobuz vă duce la țară, în pitorescul sat Couce. Aici, vă bucurați de atmosfera rustică și de liniștitul schit Santa Justa într-o plimbare. Ziua se încheie cu o ultimă călătorie cu autobuzul la Muzeul Ardeziei, oferind o imagine cuprinzătoare a patrimoniului divers al orașului Valongo, de la centrul său urban la rădăcinile sale rurale și trecutul industrial.",
-        "en": "Your journey begins with a bus ride into the heart of Valongo. The morning is dedicated to the urban cluster, exploring the main church and museum on foot, followed by a local lunch. In the afternoon, another bus takes you to the countryside, to the picturesque village of Couce. Here, you enjoy the rustic atmosphere and the tranquil Santa Justa Hermitage on a walk. The day concludes with a final bus trip to the Slate Museum, providing a comprehensive view of Valongo's diverse heritage, from its urban core to its rural roots and industrial past."
+        "en": "Your journey begins with a bus ride into the heart of Valongo. The morning is dedicated to the urban cluster, exploring the main church and museum on foot, followed by a local lunch. In the afternoon, another bus takes you to the countryside, to the picturesque village of Couce. Here, you enjoy the rustic atmosphere and the tranquil Santa Justa Hermitage on a walk. The day concludes with a final bus trip to the Slate Museum, providing a comprehensive view of Valongo's diverse heritage, from its urban core to its rural roots and industrial past.",
+        "pt": "A sua viagem começa com um percurso de autocarro até ao coração de Valongo. A manhã é dedicada ao núcleo urbano, explorando a igreja principal e o museu a pé, seguido de um almoço local. À tarde, outro autocarro leva-o ao campo, à pitoresca aldeia de Couce. Aqui, desfruta da atmosfera rústica e da tranquila Ermida de Santa Justa numa caminhada. O dia termina com uma última viagem de autocarro ao Museu da Ardósia, oferecendo uma visão abrangente do diverso património de Valongo, desde o seu núcleo urbano às suas raízes rurais e passado industrial."
       },
       "gastro_picks": {
         "de": [
@@ -1737,6 +1891,10 @@
         "en": [
           "Buy a daily bus pass if available to save money.",
           "Check bus schedules in advance, especially for routes to rural areas like Couce."
+        ],
+        "pt": [
+          "Compre um passe diário de autocarro, se disponível, para poupar dinheiro.",
+          "Consulte os horários dos autocarros com antecedência, especialmente para rotas para áreas rurais como Couce."
         ]
       },
       "variants": {
@@ -1745,7 +1903,8 @@
             "de": "Mit Bus und Bahn navigieren wir durch das regnerische Valongo. Die Hauptkirche und das Museum bieten trockene Startpunkte. Nach dem Mittagessen führt die Fahrt nach Couce und zur Santa Justa, wobei man die Regenlandschaft aus dem Busfenster genießt. Der Tag endet faszinierend im Schiefermuseum, gut erreichbar mit öffentlichen Verkehrsmitteln.",
             "hu": "Busszal és vonattal navigálunk az esős Valongóban. A főtemplom és a múzeum száraz kezdőpontot kínál. Ebéd után Couce és Santa Justa következik, miközben az eső áztatta tájat a busz ablakából csodáljuk. A nap a Pala-múzeumban zárul, amely tömegközlekedéssel is jól megközelíthető.",
             "ro": "Navigăm prin Valongo cel ploios cu autobuzul și trenul. Biserica și muzeul oferă puncte de plecare uscate. După prânz mergem spre Couce și Santa Justa, admirând peisajul prin geamul autobuzului. Ziua se încheie fascinant la Muzeul de Ardezie, ușor accesibil.",
-            "en": "We navigate rainy Valongo by bus and train. The Main Church and museum offer dry starting points. After lunch, the journey leads to Couce and Santa Justa, enjoying the rain-washed landscape from the bus window. The day ends at the Slate Museum, easily reachable by transit."
+            "en": "We navigate rainy Valongo by bus and train. The Main Church and museum offer dry starting points. After lunch, the journey leads to Couce and Santa Justa, enjoying the rain-washed landscape from the bus window. The day ends at the Slate Museum, easily reachable by transit.",
+            "pt": "Percorremos o Valongo chuvoso de autocarro e comboio. A Igreja Matriz e o museu oferecem pontos de partida secos. Depois do almoço, a viagem segue para Couce e Santa Justa, apreciando a paisagem lavada pela chuva desde a janela do autocarro. O dia termina no Museu da Ardósia, facilmente acessível por transporte."
           },
           "stops": [
             {
@@ -1754,7 +1913,8 @@
                 "de": "Der Bahnhof Valongo ist nur einen kurzen, nassen Spaziergang entfernt.",
                 "hu": "A valongói vasútállomás csak egy rövid, ázós sétára van.",
                 "ro": "Gara Valongo este la doar o scurtă plimbare prin ploaie.",
-                "en": "Valongo train station is just a short, wet walk away."
+                "en": "Valongo train station is just a short, wet walk away.",
+                "pt": "A estação de comboios de Valongo fica a uma curta caminhada molhada."
               }
             },
             {
@@ -1763,7 +1923,8 @@
                 "de": "Ideale Wartezeit auf den nächsten Bus im Trockenen verbringen.",
                 "hu": "A következő buszra való várakozást töltse szárazon a múzeumban.",
                 "ro": "Petreceți timpul de așteptare pentru următorul autobuz la uscat.",
-                "en": "Spend the wait for your next bus dry inside the museum."
+                "en": "Spend the wait for your next bus dry inside the museum.",
+                "pt": "Aproveite a espera pelo próximo autocarro no interior seco do museu."
               }
             },
             {
@@ -1772,7 +1933,8 @@
                 "de": "Wählen Sie ein Restaurant in der Nähe einer Bushaltestelle.",
                 "hu": "Válasszon éttermet egy buszmegálló közelében.",
                 "ro": "Alegeți un restaurant aproape de o stație de autobuz.",
-                "en": "Choose a restaurant close to a bus stop."
+                "en": "Choose a restaurant close to a bus stop.",
+                "pt": "Escolha um restaurante perto de uma paragem de autocarro."
               }
             },
             {
@@ -1781,7 +1943,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten genau, bei Regen fährt man ungern Umwege.",
                 "hu": "Pontosan ellenőrizze a visszautat, esőben senki sem szeret kerülni.",
                 "ro": "Verificați orele de retur; pe ploaie nu vreți să faceți ocolișuri.",
-                "en": "Check return times carefully; you won't want detours in the rain."
+                "en": "Check return times carefully; you won't want detours in the rain.",
+                "pt": "Verifique bem os horários de retorno; não vai querer desvios na chuva."
               }
             },
             {
@@ -1790,7 +1953,8 @@
                 "de": "Der Fußweg von der Haltestelle kann bei Regen mühsam sein.",
                 "hu": "A megállótól vezető gyalogút esőben fárasztó lehet.",
                 "ro": "Drumul de la stație poate fi anevoios pe ploaie.",
-                "en": "The walk from the stop can be tiring in the rain."
+                "en": "The walk from the stop can be tiring in the rain.",
+                "pt": "A caminhada desde a paragem pode ser cansativa na chuva."
               }
             },
             {
@@ -1799,7 +1963,8 @@
                 "de": "Nutzen Sie die App für Echtzeit-Infos zur Rückfahrt im Regen.",
                 "hu": "Használja az alkalmazást valós idejű infókért a hazautazáshoz.",
                 "ro": "Folosiți aplicația pentru info în timp real despre retur.",
-                "en": "Use the app for real-time info on your return journey in the rain."
+                "en": "Use the app for real-time info on your return journey in the rain.",
+                "pt": "Use a aplicação para obter informação em tempo real sobre a sua viagem de regresso na chuva."
               }
             }
           ],
@@ -1827,6 +1992,12 @@
               "Some bus stops in outlying areas are not covered.",
               "Trains between Porto and Valongo are frequent and dry.",
               "Wear waterproof shoes for the walks between stops."
+            ],
+            "pt": [
+              "Tenha trocos ou um cartão de transporte carregado pronto para o autocarro.",
+              "Algumas paragens em áreas periféricas não têm cobertura.",
+              "Os comboios entre Porto e Valongo são frequentes e secos.",
+              "Use sapatos impermeáveis para as caminhadas entre as paragens."
             ]
           }
         },
@@ -1835,7 +2006,8 @@
             "de": "Der Wintertag beginnt mit einer Zugfahrt nach Valongo, gefolgt von Besuchen der Hauptkirche und des Museums im warmen Licht. Ein herzhaftes Mittagessen im Zentrum stärkt für die Busfahrt nach Couce. In der klaren Nachmittagsluft genießen wir die Aussicht an der Santa Justa. Der Tag endet im Schiefermuseum, bevor wir mit dem letzten Tageslicht die Rückreise antreten.",
             "hu": "A téli nap vonattal indul Valongóba, majd a főtemplom és a múzeum meleg fényei következnek. Egy kiadós ebéd után busszal megyünk Couce felé. A tiszta délutáni levegőben élvezzük a Santa Justa kilátását. A nap a Pala-múzeumban zárul, mielőtt az utolsó fénynél elindulnánk haza.",
             "ro": "Ziua de iarnă începe cu trenul spre Valongo, urmată de biserică și muzeu. Un prânz consistent dă putere pentru drumul cu autobuzul spre Couce. În aerul curat savurăm priveliștea de la Santa Justa. Ziua se încheie la Muzeul de Ardezie, înainte de a pleca spre casă pe ultima lumină.",
-            "en": "The winter day starts with a train ride to Valongo, followed by the Main Church and museum in the warm light. A hearty lunch prepares us for the bus to Couce. In the clear afternoon air, we enjoy the views at Santa Justa. The day ends at the Slate Museum before heading back in the last daylight."
+            "en": "The winter day starts with a train ride to Valongo, followed by the Main Church and museum in the warm light. A hearty lunch prepares us for the bus to Couce. In the clear afternoon air, we enjoy the views at Santa Justa. The day ends at the Slate Museum before heading back in the last daylight.",
+            "pt": "O dia de inverno começa com um viagem de comboio até Valongo, seguido pela Igreja Matriz e pelo museu na luz quente. Um almoço reforçado prepara-nos para o autocarro até Couce. No ar claro da tarde, desfrutamos das vistas em Santa Justa. O dia termina no Museu da Ardósia antes de regressar na última luz do dia."
           },
           "stops": [
             {
@@ -1844,7 +2016,8 @@
                 "de": "Im Winter ist der kurze Spaziergang vom Bahnhof sehr erfrischend.",
                 "hu": "Télen a rövid séta az állomástól kifejezetten frissítő.",
                 "ro": "Iarna, scurta plimbare de la gară este foarte revigorantă.",
-                "en": "In winter, the short walk from the station is very refreshing."
+                "en": "In winter, the short walk from the station is very refreshing.",
+                "pt": "No inverno, a curta caminhada desde a estação é muito revigorante."
               }
             },
             {
@@ -1853,7 +2026,8 @@
                 "de": "Ein angenehm temperierter Ort für den Vormittag.",
                 "hu": "Kellemes hőmérsékletű hely a délelőtti órákra.",
                 "ro": "Un loc cu temperatură plăcută pentru orele dimineții.",
-                "en": "A pleasantly tempered place for the morning hours."
+                "en": "A pleasantly tempered place for the morning hours.",
+                "pt": "Um lugar agradavelmente temperado para as horas da manhã."
               }
             },
             {
@@ -1862,7 +2036,8 @@
                 "de": "Nutzen Sie die Mittagspause, um die Akkus Ihrer Geräte aufzuladen.",
                 "hu": "Használja ki az ebédszünetet a készülékei feltöltésére.",
                 "ro": "Folosiți pauza de prânz pentru a vă încărca dispozitivele.",
-                "en": "Use the lunch break to recharge your devices."
+                "en": "Use the lunch break to recharge your devices.",
+                "pt": "Aproveite a pausa do almoço para recarregar os seus dispositivos."
               }
             },
             {
@@ -1871,7 +2046,8 @@
                 "de": "Achten Sie auf den Winterfahrplan, manche Busse fahren seltener.",
                 "hu": "Ügyeljen a téli menetrendre, néhány busz ritkábban jár.",
                 "ro": "Atenție la orarul de iarnă, unele autobuze circulă mai rar.",
-                "en": "Check the winter timetable; some buses may run less frequently."
+                "en": "Check the winter timetable; some buses may run less frequently.",
+                "pt": "Consulte o horário de inverno; alguns autocarros podem circular com menos frequência."
               }
             },
             {
@@ -1880,7 +2056,8 @@
                 "de": "Bei Sonnenuntergang wird es hier oben sofort spürbar kälter.",
                 "hu": "Naplementekor itt fent azonnal érezhetően hidegebb lesz.",
                 "ro": "La apusul soarelui se face imediat mult mai frig aici sus.",
-                "en": "At sunset, it gets noticeably colder up here immediately."
+                "en": "At sunset, it gets noticeably colder up here immediately.",
+                "pt": "Ao pôr do sol, fica imediatamente mais frio aqui em cima."
               }
             },
             {
@@ -1889,7 +2066,8 @@
                 "de": "Planen Sie die Rückfahrt zum Bahnhof rechtzeitig ein.",
                 "hu": "Időben tervezze meg a visszautat a vasútállomásra.",
                 "ro": "Planificați din timp întoarcerea la gară.",
-                "en": "Plan your return to the train station in good time."
+                "en": "Plan your return to the train station in good time.",
+                "pt": "Planeie o seu regresso à estação de comboios com tempo suficiente."
               }
             }
           ],
@@ -1917,6 +2095,12 @@
               "Waiting times at stops can feel long in the cold.",
               "Use the suburban train (Marco line) for a comfortable return.",
               "Wear warm socks; your feet cool down quickly while standing."
+            ],
+            "pt": [
+              "Os comboios costumam estar melhor aquecidos do que os autocarros locais no inverno.",
+              "Os tempos de espera nas paragens podem parecer longos no frio.",
+              "Use o comboio suburban (linha Marco) para um regresso mais confortável.",
+              "Use meias quentes; os pés arrefecem rápido enquanto está de pé."
             ]
           }
         }

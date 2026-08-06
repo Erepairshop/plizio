@@ -21,7 +21,8 @@
             "de": "Kulturhaus von Oiã",
             "hu": "Oiã Kultúrház",
             "ro": "Casa de Cultură din Oiã",
-            "en": "House of Culture of Oiã"
+            "en": "House of Culture of Oiã",
+            "pt": "Casa da Cultura de Oiã"
           },
           "coords": [
             -8.628,
@@ -37,7 +38,8 @@
             "de": "Prüfen Sie den lokalen Veranstaltungsplan, vielleicht gibt es eine Ausstellung.",
             "hu": "Nézd meg a helyi programnaptárt, hátha van valamilyen kiállítás.",
             "ro": "Verificați programul de evenimente locale, s-ar putea să prindeți o expoziție.",
-            "en": "Check the local event schedule, you might catch an exhibition."
+            "en": "Check the local event schedule, you might catch an exhibition.",
+            "pt": "Consulte a programação local de eventos; pode apanhar uma exposição."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Hauptkirche von Oiã",
             "hu": "Oiã Főtemploma",
             "ro": "Biserica Matrice din Oiã",
-            "en": "Main Church of Oiã"
+            "en": "Main Church of Oiã",
+            "pt": "Igreja Matriz de Oiã"
           },
           "coords": [
             -8.6275,
@@ -61,7 +64,8 @@
             "de": "Beachten Sie die kunstvollen Kachelarbeiten im Inneren.",
             "hu": "Figyeld meg a belső tér művészi csempéit.",
             "ro": "Observați lucrările elaborate de faianță din interior.",
-            "en": "Notice the ornate tile work inside."
+            "en": "Notice the ornate tile work inside.",
+            "pt": "Repare no elaborado azulejo no interior."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kreuz von Oiã",
             "hu": "Oiã Keresztje",
             "ro": "Crucea din Oiã",
-            "en": "Cross of Oiã"
+            "en": "Cross of Oiã",
+            "pt": "Cruz de Oiã"
           },
           "coords": [
             -8.627,
@@ -85,7 +90,8 @@
             "de": "Ein großartiger Ort für ein schnelles Foto und um die Steinmetzarbeit zu bewundern.",
             "hu": "Remek hely egy gyors fotóhoz és a kőfaragás megcsodálásához.",
             "ro": "Un loc excelent pentru o fotografie rapidă și pentru a admira sculptura în piatră.",
-            "en": "A great spot for a quick photo and to admire the stonework."
+            "en": "A great spot for a quick photo and to admire the stonework.",
+            "pt": "Um ótimo local para uma foto rápida e para admirar a talha em pedra."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Park am Rio Levira",
             "hu": "Rio Levira Park",
             "ro": "Parcul Râului Levira",
-            "en": "Levira River Park"
+            "en": "Levira River Park",
+            "pt": "Parque do Rio Levira"
           },
           "coords": [
             -8.6215,
@@ -109,7 +116,8 @@
             "de": "Ideal für ein Picknick-Mittagessen. Es gibt schattige Plätze am Flussufer.",
             "hu": "Ideális egy piknik ebédhez. Vannak árnyékos helyek a folyóparton.",
             "ro": "Ideal pentru un prânz la picnic. Există locuri umbrite lângă malul râului.",
-            "en": "Perfect for a picnic lunch. There are shaded spots by the riverbank."
+            "en": "Perfect for a picnic lunch. There are shaded spots by the riverbank.",
+            "pt": "Perfeito para um piquenique. Há zonas sombreadas junto à margem do rio."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Denkmal für den Auswanderer",
             "hu": "Kivándorlók Emlékműve",
             "ro": "Monumentul Emigrantului",
-            "en": "Monument to the Emigrant"
+            "en": "Monument to the Emigrant",
+            "pt": "Monumento ao Emigrante"
           },
           "coords": [
             -8.625,
@@ -133,7 +142,8 @@
             "de": "Ein ergreifendes Denkmal, das der portugiesischen Diaspora gewidmet ist.",
             "hu": "Megrendítő emlékmű a portugál diaszpóra tiszteletére.",
             "ro": "Un monument emoționant dedicat diasporei portugheze.",
-            "en": "A poignant monument dedicated to the Portuguese diaspora."
+            "en": "A poignant monument dedicated to the Portuguese diaspora.",
+            "pt": "Um comovente monumento dedicado à diáspora portuguesa."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Kapelle des Heiligen Antonius",
             "hu": "Szent Antal-kápolna",
             "ro": "Capela Sfântului Antoniu",
-            "en": "Chapel of Saint Anthony"
+            "en": "Chapel of Saint Anthony",
+            "pt": "Capela de Santo António"
           },
           "coords": [
             -8.626,
@@ -157,7 +168,8 @@
             "de": "Eine kleine, ruhige Kapelle, perfekt für einen Moment der Besinnung.",
             "hu": "Kicsi, békés kápolna, tökéletes egy pillanatnyi elmélkedésre.",
             "ro": "O capelă mică și liniștită, perfectă pentru un moment de reflecție.",
-            "en": "A small, peaceful chapel, perfect for a moment of reflection."
+            "en": "A small, peaceful chapel, perfect for a moment of reflection.",
+            "pt": "Uma pequena e tranquila capela, perfeita para um momento de reflexão."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Spaziergang durch Oiã beginnt im kulturellen Herzen der Stadt und führt Sie zur spirituellen Ruhe der Hauptkirche. Am Vormittag entdecken Sie die feinen Details lokaler Denkmäler. Der Mittag ist einem entspannten Picknick im Park am Rio Levira gewidmet, umgeben von Natur. Am Nachmittag tauchen Sie tiefer in die lokale Geschichte ein, mit Besuchen von Denkmälern, die von der Vergangenheit der Gemeinde zeugen. Der Tag endet mit einem ruhigen Moment in einer der charmanten Kapellen von Oiã.",
         "hu": "Oiã-i sétája a város kulturális szívében kezdődik, majd a főtemplom spirituális nyugalmához vezet. Délelőtt felfedezi a helyi emlékművek finom részleteit. Az ebédidőt egy pihentető pikniknek szenteli a Rio Levira parkjában, a természet lágy ölén. Délután mélyebbre merül a helyi történelemben, meglátogatva a közösség múltjáról tanúskodó emlékműveket. A nap Oiã egyik bájos kápolnájában, csendes elmélkedéssel zárul.",
         "ro": "Plimbarea dvs. prin Oiã începe în inima culturală a orașului, ducându-vă spre liniștea spirituală a Bisericii Matrice. Dimineața este petrecută descoperind detaliile fine ale monumentelor locale. Prânzul este dedicat unui picnic relaxant în Parcul Râului Levira, înconjurat de natură. După-amiaza vă adâncește în istoria locală, cu vizite la monumente care vorbesc despre trecutul comunității. Ziua se încheie cu un moment de liniște într-una dintre capelele fermecătoare din Oiã.",
-        "en": "Your walking tour of Oiã begins in the town's cultural heart, leading to the spiritual calm of the Main Church. The morning is spent discovering the fine details of local monuments. Midday is dedicated to a relaxing picnic in the Levira River Park, surrounded by nature. In the afternoon, you'll delve deeper into local history with visits to monuments that speak of the community's past. The day concludes with a quiet moment in one of Oiã's charming chapels."
+        "en": "Your walking tour of Oiã begins in the town's cultural heart, leading to the spiritual calm of the Main Church. The morning is spent discovering the fine details of local monuments. Midday is dedicated to a relaxing picnic in the Levira River Park, surrounded by nature. In the afternoon, you'll delve deeper into local history with visits to monuments that speak of the community's past. The day concludes with a quiet moment in one of Oiã's charming chapels.",
+        "pt": "A sua visita pedonal a Oiã começa no coração cultural da vila, conduzindo à calma espiritual da Igreja Matriz. A manhã é passada a descobrir os pormenores dos monumentos locais. Ao meio‑dia dedica‑se a um relaxante piquenique no Parque do Rio Levira, rodeado pela natureza. À tarde, aprofundará a história local com visitas a monumentos que falam do passado da comunidade. O dia termina com um momento de quietude numa das encantadoras capelas de Oiã."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Bring water with you, especially during the warmer months.",
           "Most attractions are close to each other, allowing for a leisurely pace.",
           "Plan for a traditional Portuguese lunch at one of the local eateries."
+        ],
+        "pt": [
+          "Use calçado confortável, pois passará a maior parte do dia em ruas de calçada.",
+          "Leve água consigo, especialmente nos meses mais quentes.",
+          "A maioria das atrações fica próxima, permitindo um ritmo descontraído.",
+          "Planeie um almoço tradicional português numa das tascas locais."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Beginnen Sie Ihren Tag geschützt im Kulturhaus von Oiã, wo Ausstellungen die lokale Geschichte beleuchten. Mittags bietet die Umgebung der Hauptkirche Schutz unter den Vordächern, während Sie die Architektur bewundern.\n\nNachmittags zeigt sich der Levira River Park in einem mystischen Grau; nutzen Sie die überdachten Bereiche für eine kurze Pause am Flussufer. Der kurze Weg zum Emigranten-Denkmal führt durch erfrischenden Regen.\n\nDer Abend klingt ruhig an der Kapelle des Heiligen Antonius aus. Die feuchten Pflastersteine reflektieren das sanfte Licht der Straßenlaternen und schaffen eine besinnliche Atmosphäre zum Abschluss Ihres Rundgangs.",
             "hu": "Kezdje a reggelt az Oiã-i Művelődési Házban, ahol az eső elől menedéket találva merülhet el a helyi kiállításokban. Délben a főtemplom környékén, az ereszalják alatt húzódva csodálhatja meg a vallási építészet részleteit.\n\nDélután a Levira folyóparti park ködös, párás arcát mutatja; a pavilonok alatt megpihenve hallgathatja az eső kopogását a vízen. Az Emigráns-emlékműhöz vezető séta alatt az eső friss illata lengi be a falut.\n\nAz estét a Szent Antal-kápolnánál zárja, ahol a vizes aszfalton megcsillanó fények különleges hangulatot árasztanak. A csendes esőben a környék még nyugodtabb, tökéletes lezárása a napnak.",
             "ro": "Începeți dimineața la Casa de Cultură din Oiã, un refugiu ideal împotriva ploii, unde puteți explora istoria locală. La prânz, zona bisericii principale oferă adăpost sub arcadele sale, permițându-vă să observați arhitectura.\n\nDupă-amiaza, Parcul Levira River capătă un aspect mistic sub picăturile de ploaie; folosiți zonele acoperite pentru a privi râul. Drumul spre Monumentul Emigrantului este scurt, dar răcoritor în aerul curat de după ploaie.\n\nSeara se încheie liniștit la Capela Sfântului Anton. Luminile stradale reflectate în trotuarul umed creează o atmosferă melancolică și frumoasă, perfectă pentru o ultimă reflecție asupra zilei petrecute în Oiã.",
-            "en": "Start your morning at the House of Culture, a perfect indoor refuge where you can explore local exhibits while the rain falls outside. At noon, the area around the Main Church offers shelter under eaves as you admire the stone carvings.\n\nIn the afternoon, the Levira River Park takes on a misty charm; seek cover in the pavilions to watch the raindrops ripple on the water. The walk to the Emigrant Monument is brief, allowing for a quick visit between showers.\n\nYour evening ends peacefully at the Chapel of Saint Anthony. The streetlights reflecting off the wet pavement create a serene atmosphere, offering a quiet moment of contemplation to conclude your rainy day walk."
+            "en": "Start your morning at the House of Culture, a perfect indoor refuge where you can explore local exhibits while the rain falls outside. At noon, the area around the Main Church offers shelter under eaves as you admire the stone carvings.\n\nIn the afternoon, the Levira River Park takes on a misty charm; seek cover in the pavilions to watch the raindrops ripple on the water. The walk to the Emigrant Monument is brief, allowing for a quick visit between showers.\n\nYour evening ends peacefully at the Chapel of Saint Anthony. The streetlights reflecting off the wet pavement create a serene atmosphere, offering a quiet moment of contemplation to conclude your rainy day walk.",
+            "pt": "Comece a manhã na Casa da Cultura, um perfeito refúgio interior onde pode explorar exposições locais enquanto chove lá fora. Ao meio‑dia, a área em redor da Igreja Matriz oferece abrigo sob os beirais enquanto admira as talhas em pedra.\n\nÀ tarde, o Parque do Rio Levira assume um encanto nebuloso; procure abrigo nos pavilhões para ver as gotas de chuva ondularem na água. A caminhada até ao Monumento ao Emigrante é curta, permitindo uma visita rápida entre aguaceiros.\n\nA sua noite termina em paz na Capela de Santo António. Os candeeiros refletidos no pavimento molhado criam uma atmosfera serena, oferecendo um momento tranquilo de contemplação para concluir o seu passeio chuvoso."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Ideal zum Aufwärmen und Trocknen bei Regen.",
                 "hu": "Kiváló helyszín az eső elől való behúzódásra.",
                 "ro": "Loc perfect pentru a vă adăposti de ploaie.",
-                "en": "Great indoor spot to stay dry and warm."
+                "en": "Great indoor spot to stay dry and warm.",
+                "pt": "Ótimo espaço interior para se manter seco e quente."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich.",
                 "hu": "Használja a templom fedett bejáratát várakozáshoz.",
                 "ro": "Folosiți intrarea acoperită pentru protecție.",
-                "en": "The covered entrance provides good shelter."
+                "en": "The covered entrance provides good shelter.",
+                "pt": "A entrada coberta oferece bom abrigo."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Kurzer Stopp, Vorsicht auf rutschigem Boden.",
                 "hu": "Rövid megálló, vigyázzon a csúszós kövekre.",
                 "ro": "Oprire scurtă, atenție la pavajul alunecos.",
-                "en": "Quick stop, watch out for slippery stones."
+                "en": "Quick stop, watch out for slippery stones.",
+                "pt": "Paragem rápida, atenção às pedras escorregadias."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Unter den Picknick-Pavillons bleiben Sie trocken.",
                 "hu": "A piknikpavilonok alatt szárazon maradhat.",
                 "ro": "Pavilioanele de picnic vă vor menține uscat.",
-                "en": "Picnic pavilions offer reliable rain cover."
+                "en": "Picnic pavilions offer reliable rain cover.",
+                "pt": "Os pavilhões de piquenique oferecem proteção fiável contra a chuva."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Ein schneller Blick genügt bei starkem Guss.",
                 "hu": "Heves esőben elég egy gyors pillantás is.",
                 "ro": "O privire rapidă este suficientă pe ploaie.",
-                "en": "A quick look is enough during heavy downpours."
+                "en": "A quick look is enough during heavy downpours.",
+                "pt": "Uma breve vista é suficiente durante chuvas intensas."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Besinnlicher Abschluss unter dem Vordach.",
                 "hu": "Meghitt lezárás a védelmet nyújtó tető alatt.",
                 "ro": "Final liniștit sub streașina capelei.",
-                "en": "Peaceful conclusion under the chapel's eaves."
+                "en": "Peaceful conclusion under the chapel's eaves.",
+                "pt": "Conclusão pacífica sob os beirais da capela."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "Waterproof footwear will keep you comfortable on the village roads.",
               "The House of Culture is your best bet during heavy rainfall.",
               "Watch your step on cobblestones, as they become slippery when wet."
+            ],
+            "pt": [
+              "Recomenda‑se um guarda‑chuva resistente para as zonas abertas de Oiã.",
+              "Calçado impermeável manterá o seu conforto nas vias da aldeia.",
+              "A Casa da Cultura é a melhor opção durante chuva forte.",
+              "Cuidado com a calçada, que fica escorregadia quando molhada."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Der Wintermorgen in Oiã beginnt erfrischend klar; das Kulturhaus bietet einen angenehm temperierten Start in die Erkundung. Die tiefstehende Sonne wirft lange Schatten auf die helle Fassade der Hauptkirche.\n\nMittags lädt der Dorfplatz zu einem zügigen Spaziergang ein, bevor die Kühle des Nachmittags einsetzt. Am Levira River Park spürt man die winterliche Ruhe der Natur am deutlichsten.\n\nDa die Dämmerung früh einsetzt, erreichen Sie das Emigranten-Denkmal im goldenen Licht der späten Stunde. Den Tag beenden Sie bei einbrechender Kälte an der Kapelle des Heiligen Antonius, während die ersten Lichter des Dorfes angehen.",
             "hu": "Az oiã-i téli reggel friss és tiszta; a Művelődési Ház kellemesen temperált tereiben kezdheti a napot. Az alacsonyan járó nap hosszú árnyékokat vet a főtemplom fehér falaira.\n\nDélben a falu főutcáin tett tempós séta segít melegen maradni, mielőtt a délutáni hűvösség megérkezik. A Levira parkban ilyenkor a természet téli álma és a csend az uralkodó.\n\nMivel korán sötétedik, az Emigráns-emlékművet már az alkonyati fényekben csodálhatja meg. A napot a Szent Antal-kápolnánál zárja, ahol a hideg elől a falu esti fényeinek látványa nyújt vigaszt.",
             "ro": "Dimineața de iarnă în Oiã este clară și revigorantă; Casa de Cultură oferă un început cald pentru explorarea dumneavoastră. Soarele jos creează umbre lungi pe fațada luminoasă a bisericii principale.\n\nLa prânz, o plimbare rapidă prin sat vă ajută să vă mențineți căldura înainte de răcoarea după-amiezii. În Parcul Levira, liniștea iernii este cel mai ușor de observat acum.\n\nDeoarece amurgul vine devreme, veți ajunge la Monumentul Emigrantului în lumina aurie a serii. Încheiați ziua la Capela Sfântului Anton, când frigul serii se instalează și luminile satului încep să se aprindă.",
-            "en": "The winter morning in Oiã starts with crisp air; the House of Culture provides a warm and comfortable beginning to your exploration. The low sun casts long, dramatic shadows across the Main Church's facade.\n\nAt noon, a brisk walk through the village streets keeps you energized before the afternoon chill sets in. At Levira River Park, you can experience the profound stillness of nature in winter.\n\nWith early sunsets, you'll reach the Emigrant Monument in the golden hour light. End your journey at the Chapel of Saint Anthony as the evening cold sets in and the village lights begin to glow."
+            "en": "The winter morning in Oiã starts with crisp air; the House of Culture provides a warm and comfortable beginning to your exploration. The low sun casts long, dramatic shadows across the Main Church's facade.\n\nAt noon, a brisk walk through the village streets keeps you energized before the afternoon chill sets in. At Levira River Park, you can experience the profound stillness of nature in winter.\n\nWith early sunsets, you'll reach the Emigrant Monument in the golden hour light. End your journey at the Chapel of Saint Anthony as the evening cold sets in and the village lights begin to glow.",
+            "pt": "A manhã de inverno em Oiã começa com ar fresco; a Casa da Cultura oferece um início quente e confortável à sua exploração. O sol baixo projecta sombras longas e dramáticas na fachada da Igreja Matriz.\n\nAo meio‑dia, uma caminhada enérgica pelas ruas da aldeia mantém‑lo aquecido antes do arrefecimento da tarde. No Parque do Rio Levira pode experimentar a profunda quietude da natureza no inverno.\n\nCom o anoitecer precoce, chegará ao Monumento ao Emigrante na hora da luz dourada. Termine a sua jornada na Capela de Santo António quando o frio da noite assentar e as luzes da aldeia começarem a brilhar."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Perfekt temperierter Innenraum für den Start.",
                 "hu": "Kellemesen meleg belső tér a kezdéshez.",
                 "ro": "Spațiu interior bine încălzit pentru început.",
-                "en": "Well-heated indoor space to start your day."
+                "en": "Well-heated indoor space to start your day.",
+                "pt": "Espaço interior bem aquecido para começar o dia."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Die Wintersonne beleuchtet die Fassade wunderschön.",
                 "hu": "A téli napfény csodásan világítja meg a homlokzatot.",
                 "ro": "Soarele de iarnă luminează superb fațada.",
-                "en": "Winter sun illuminates the facade beautifully."
+                "en": "Winter sun illuminates the facade beautifully.",
+                "pt": "O sol de inverno ilumina a fachada de forma bonita."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Ein kurzer, windiger Halt im Freien.",
                 "hu": "Rövid, szeles megálló a szabadban.",
                 "ro": "O oprire scurtă și vântoasă în aer liber.",
-                "en": "A short, breezy stop in the open air."
+                "en": "A short, breezy stop in the open air.",
+                "pt": "Uma paragem curta e arejada ao ar livre."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Warme Kleidung für den Aufenthalt am Wasser nötig.",
                 "hu": "Meleg ruházat szükséges a vízparti pihenőhöz.",
                 "ro": "Haine groase necesare pentru popasul lângă râu.",
-                "en": "Warm layers are essential for the riverside stay."
+                "en": "Warm layers are essential for the riverside stay.",
+                "pt": "Camadas quentes são essenciais junto ao rio."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Wunderschönes Licht zur frühen Dämmerung.",
                 "hu": "Gyönyörű fények a kora esti szürkületben.",
                 "ro": "Lumină superbă la amurgul timpuriu.",
-                "en": "Beautiful light during the early dusk."
+                "en": "Beautiful light during the early dusk.",
+                "pt": "Luz bonita ao anoitecer precoce."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Zügiger Abschluss, bevor es zu kalt wird.",
                 "hu": "Gyors lezárás, mielőtt túlságosan lehűlne az idő.",
                 "ro": "Final rapid înainte de instalarea gerului serii.",
-                "en": "A quick finish before it gets too cold."
+                "en": "A quick finish before it gets too cold.",
+                "pt": "Uma conclusão rápida antes de ficar muito frio."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "Sunset in Portugal during winter is around 17:30.",
               "Wear a hat against the cold wind coming from the river.",
               "Take advantage of the midday sun for longer outdoor stays."
+            ],
+            "pt": [
+              "Vista‑se em camadas, porque no espaço sombreado se sente muito mais frio.",
+              "O pôr do sol em Portugal durante o inverno é por volta das 17:30.",
+              "Use um gorro contra o vento frio vindo do rio.",
+              "Aproveite o sol do meio‑dia para permanências exteriores mais longas."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Bahnhof von Oiã",
             "hu": "Oiã vasútállomás",
             "ro": "Gara din Oiã",
-            "en": "Oiã Train Station"
+            "en": "Oiã Train Station",
+            "pt": "Estação de Comboios de Oiã"
           },
           "coords": [
             -8.635,
@@ -575,7 +621,8 @@
             "de": "Bewundern Sie die traditionelle Architektur des Bahnhofs, bevor Sie Ihre Tour beginnen.",
             "hu": "Csodálja meg az állomás hagyományos építészetét, mielőtt elindulna a túrára.",
             "ro": "Admirați arhitectura tradițională a gării înainte de a începe turul.",
-            "en": "Admire the traditional architecture of the station before starting your tour."
+            "en": "Admire the traditional architecture of the station before starting your tour.",
+            "pt": "Admire a arquitetura tradicional da estação antes de iniciar o seu passeio."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Denkmal für den Auswanderer",
             "hu": "Kivándorlók Emlékműve",
             "ro": "Monumentul Emigrantului",
-            "en": "Monument to the Emigrant"
+            "en": "Monument to the Emigrant",
+            "pt": "Monumento ao Emigrante"
           },
           "coords": [
             -8.625,
@@ -599,7 +647,8 @@
             "de": "Ein kurzer Halt, um über die Geschichten der portugiesischen Emigration nachzudenken.",
             "hu": "Egy rövid megálló, hogy elgondolkodjunk a portugál kivándorlás történetein.",
             "ro": "O oprire scurtă pentru a reflecta asupra poveștilor emigrației portugheze.",
-            "en": "A brief stop to reflect on the stories of Portuguese emigration."
+            "en": "A brief stop to reflect on the stories of Portuguese emigration.",
+            "pt": "Uma breve paragem para refletir sobre as histórias da emigração portuguesa."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Kulturhaus von Oiã",
             "hu": "Oiã Kultúrház",
             "ro": "Casa de Cultură din Oiã",
-            "en": "House of Culture of Oiã"
+            "en": "House of Culture of Oiã",
+            "pt": "Casa da Cultura de Oiã"
           },
           "coords": [
             -8.628,
@@ -623,7 +673,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die aktuellen Ausstellungen.",
             "hu": "Zárja le a biciklit, és fedezze fel az aktuális kiállításokat.",
             "ro": "Parcați bicicleta și explorați expozițiile curente.",
-            "en": "Park your bike and explore any current exhibitions."
+            "en": "Park your bike and explore any current exhibitions.",
+            "pt": "Estacione a sua bicicleta e visite as exposições em cartaz."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Hauptkirche von Oiã",
             "hu": "Oiã Főtemploma",
             "ro": "Biserica Matrice din Oiã",
-            "en": "Main Church of Oiã"
+            "en": "Main Church of Oiã",
+            "pt": "Igreja Matriz de Oiã"
           },
           "coords": [
             -8.6275,
@@ -647,7 +699,8 @@
             "de": "Eine beeindruckende Kirche im Herzen der Stadt.",
             "hu": "Lenyűgöző templom a város szívében.",
             "ro": "O biserică impresionantă în inima orașului.",
-            "en": "An impressive church in the heart of the town."
+            "en": "An impressive church in the heart of the town.",
+            "pt": "Uma igreja imponente no coração da vila."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Park am Rio Levira",
             "hu": "Rio Levira Park",
             "ro": "Parcul Râului Levira",
-            "en": "Levira River Park"
+            "en": "Levira River Park",
+            "pt": "Parque do Rio Levira"
           },
           "coords": [
             -8.6215,
@@ -671,7 +725,8 @@
             "de": "Ein perfekter Ort für eine Mittagspause. Genießen Sie die Naturpfade.",
             "hu": "Tökéletes hely egy ebédszünetre. Élvezze a természet ösvényeit.",
             "ro": "Un loc perfect pentru o pauză de prânz. Bucurați-vă de potecile naturale.",
-            "en": "A perfect spot for a lunch break. Enjoy the nature trails."
+            "en": "A perfect spot for a lunch break. Enjoy the nature trails.",
+            "pt": "Um local perfeito para a pausa de almoço. Desfrute dos trilhos na natureza."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Kapelle des Heiligen Rochus",
             "hu": "Szent Rókus-kápolna",
             "ro": "Capela Sfântului Rochus",
-            "en": "Chapel of São Roque"
+            "en": "Chapel of São Roque",
+            "pt": "Capela de São Roque"
           },
           "coords": [
             -8.629,
@@ -695,7 +751,8 @@
             "de": "Eine ruhige, kleine Kapelle, die einen kurzen Besuch wert ist.",
             "hu": "Egy csendes, kis kápolna, ami megér egy rövid látogatást.",
             "ro": "O capelă liniștită și mică, care merită o vizită scurtă.",
-            "en": "A quiet, small chapel worth a quick visit."
+            "en": "A quiet, small chapel worth a quick visit.",
+            "pt": "Uma capela pequena e tranquila, que merece uma visita rápida."
           }
         },
         {
@@ -703,7 +760,8 @@
             "de": "Kapelle des Heiligen Antonius",
             "hu": "Szent Antal-kápolna",
             "ro": "Capela Sfântului Antoniu",
-            "en": "Chapel of Saint Anthony"
+            "en": "Chapel of Saint Anthony",
+            "pt": "Capela de Santo António"
           },
           "coords": [
             -8.626,
@@ -719,7 +777,8 @@
             "de": "Beenden Sie Ihre Tour mit einem Besuch dieser schönen Kapelle.",
             "hu": "Zárja a túrát ennek a szép kápolnának a meglátogatásával.",
             "ro": "Încheiați turul cu o vizită la această capelă frumoasă.",
-            "en": "End your tour with a visit to this lovely chapel."
+            "en": "End your tour with a visit to this lovely chapel.",
+            "pt": "Termine o seu passeio com uma visita a esta encantadora capela."
           }
         }
       ],
@@ -727,7 +786,8 @@
         "de": "Ihre Radtour beginnt am historischen Bahnhof von Oiã und führt Sie schnell zu bedeutenden lokalen Denkmälern. Der Vormittag ist der Erkundung des kulturellen und spirituellen Zentrums der Stadt gewidmet. Für das Mittagessen machen Sie eine längere Pause im grünen Park am Rio Levira, einem idealen Ort zum Entspannen. Der Nachmittag führt Sie zu den ruhigeren, abgelegeneren Kapellen der Stadt, die jeweils eine friedliche Atmosphäre bieten. Die Route ist so konzipiert, dass sie kurze, angenehme Fahrten zwischen den Sehenswürdigkeiten bietet.",
         "hu": "Kerékpártúrája Oiã történelmi vasútállomásánál kezdődik, ahonnan gyorsan eljut a fontos helyi emlékművekhez. A délelőtt a város kulturális és spirituális központjának felfedezésével telik. Ebédre hosszabb pihenőt tart a zöldellő Rio Levira Parkban, amely ideális hely a kikapcsolódásra. A délután a város csendesebb, félreesőbb kápolnáihoz vezet, melyek mindegyike békés légkört kínál. Az útvonalat úgy alakították ki, hogy rövid, élvezetes szakaszokat biztosítson a látnivalók között.",
         "ro": "Turul pe bicicletă începe la gara istorică din Oiã, ducându-vă rapid la monumentele locale semnificative. Dimineața este dedicată explorării centrului cultural și spiritual al orașului. Pentru prânz, veți face o pauză mai lungă în Parcul verde al Râului Levira, un loc ideal pentru relaxare. După-amiaza vă poartă spre capelele mai liniștite și mai retrase ale orașului, fiecare oferind o atmosferă pașnică. Traseul este conceput pentru a oferi plimbări scurte și plăcute între punctele de atracție.",
-        "en": "Your bike tour starts at Oiã's historic train station, quickly leading you to significant local monuments. The morning is dedicated to exploring the town's cultural and spiritual center. For lunch, you'll take a longer break at the leafy Levira River Park, an ideal spot to relax. The afternoon takes you to the town's quieter, more secluded chapels, each offering a peaceful atmosphere. The route is designed to offer short, enjoyable rides between points of interest."
+        "en": "Your bike tour starts at Oiã's historic train station, quickly leading you to significant local monuments. The morning is dedicated to exploring the town's cultural and spiritual center. For lunch, you'll take a longer break at the leafy Levira River Park, an ideal spot to relax. The afternoon takes you to the town's quieter, more secluded chapels, each offering a peaceful atmosphere. The route is designed to offer short, enjoyable rides between points of interest.",
+        "pt": "O seu passeio de bicicleta começa na histórica estação de comboios de Oiã, levando‑o rapidamente a monumentos locais importantes. A manhã é dedicada a explorar o centro cultural e espiritual da vila. Para o almoço, fará uma pausa mais longa no sombreado Parque do Rio Levira, um local ideal para descansar. A tarde leva‑o às capelas mais calmas e isoladas da vila, cada uma oferecendo uma atmosfera pacífica. O trajecto foi desenhado para proporcionar curtas e agradáveis pedaladas entre os pontos de interesse."
       },
       "gastro_picks": {
         "de": [
@@ -923,6 +983,12 @@
           "Some streets can be narrow, so ride with caution.",
           "Lock your bike in secure places when visiting attractions.",
           "The route is relatively flat and suitable for most fitness levels."
+        ],
+        "pt": [
+          "Verifique a bicicleta antes de partir, especialmente os travões e os pneus.",
+          "Algumas ruas podem ser estreitas, pedale com precaução.",
+          "Tranque a bicicleta em locais seguros ao visitar as atrações.",
+          "O percurso é relativamente plano e adequado para a maioria dos níveis de condição física."
         ]
       },
       "variants": {
@@ -931,7 +997,8 @@
             "de": "Starten Sie am Bahnhof Oiã und nutzen Sie die Unterstände für einen trockenen Check Ihres Equipments. Die Fahrt zum Emigranten-Denkmal erfordert Konzentration auf den nassen Straßen.\n\nMittags erreichen Sie das Kulturhaus, wo Sie Ihr Rad sicher abstellen und sich drinnen aufwärmen können. Die Hauptkirche bietet einen weiteren kurzen Halt im Schutz der Gebäude.\n\nDer Weg zum Levira River Park führt durch die Natur, die im Regen besonders intensiv duftet. Seien Sie vorsichtig auf den Wegen zur Kapelle São Roque, da das Laub rutschig sein kann.\n\nBeenden Sie Ihre Tour an der Kapelle des Heiligen Antonius. Der Regen wäscht den Staub des Tages ab, während Sie die letzte Etappe zurück zum Startpunkt antreten.",
             "hu": "Kezdjen az oiã-i vasútállomáson, ahol a perontető alatt szárazon ellenőrizheti felszerelését. Az Emigráns-emlékműig tartó tekerés koncentrációt igényel a vizes utakon.\n\nDélben érkezik a Művelődési Házhoz, ahol biztonságban lelakatolhatja a bringát és bent felmelegedhet. A főtemplom újabb rövid pihenőt kínál az épületek oltalmában.\n\nA Levira parkhoz vezető út a természetbe visz, amely esőben különösen intenzív illatot áraszt. Legyen óvatos a São Roque-kápolna felé, mert a levelek csúszósak lehetntnek.\n\nA túrát a Szent Antal-kápolnánál zárja. Az eső lemossa a nap porát, miközben az utolsó szakaszt teszi meg vissza a kiindulópont felé.",
             "ro": "Porniți de la Gara Oiã și folosiți copertinele pentru a vă verifica echipamentul la uscat. Drumul spre Monumentul Emigrantului necesită concentrare pe străzile umede.\n\nLa prânz ajungeți la Casa de Cultură, unde vă puteți parca bicicleta și vă puteți încălzi în interior. Biserica principală oferă o altă scurtă oprire sub protecția clădirilor.\n\nTraseul spre Parcul Levira vă poartă prin natură, care miroase intens sub ploaie. Fiți atenți pe drumul spre Capela São Roque, deoarece frunzele pot fi alunecoase.\n\nÎncheiați turul la Capela Sfântului Anton. Ploaia spală praful zilei în timp ce parcurgeți ultima etapă înapoi spre punctul de plecare.",
-            "en": "Start at Oiã Train Station and use the platform covers to check your gear while dry. The ride to the Emigrant Monument requires focus on the wet village streets.\n\nAt noon, reach the House of Culture where you can safely park your bike and warm up inside. The Main Church provides another brief stop under the protection of the buildings.\n\nThe route to Levira River Park takes you through nature, which smells especially fresh in the rain. Be careful on the paths to São Roque Chapel, as wet leaves can be slippery.\n\nEnd your tour at the Chapel of Saint Anthony. The rain washes away the day's dust as you complete the final leg back to your starting point."
+            "en": "Start at Oiã Train Station and use the platform covers to check your gear while dry. The ride to the Emigrant Monument requires focus on the wet village streets.\n\nAt noon, reach the House of Culture where you can safely park your bike and warm up inside. The Main Church provides another brief stop under the protection of the buildings.\n\nThe route to Levira River Park takes you through nature, which smells especially fresh in the rain. Be careful on the paths to São Roque Chapel, as wet leaves can be slippery.\n\nEnd your tour at the Chapel of Saint Anthony. The rain washes away the day's dust as you complete the final leg back to your starting point.",
+            "pt": "Comece na Estação de Comboios de Oiã e use as plataformas cobertas para verificar o equipamento mantendo‑se seco. O trajecto até ao Monumento ao Emigrante exige atenção às ruas molhadas da vila.\n\nAo meio‑dia, chegue à Casa da Cultura onde pode estacionar a bicicleta com segurança e aquecer no interior. A Igreja Matriz oferece outra paragem breve sob a proteção dos edifícios.\n\nO percurso até ao Parque do Rio Levira leva‑o pela natureza, que tem um aroma especialmente fresco com chuva. Tenha cuidado nos caminhos até à Capela de São Roque, pois as folhas molhadas podem ser escorregadias.\n\nTermine o seu passeio na Capela de Santo António. A chuva lava a poeira do dia enquanto conclui a última etapa de regresso ao ponto de partida."
           },
           "stops": [
             {
@@ -940,7 +1007,8 @@
                 "de": "Überdachte Bahnsteige für trockene Vorbereitung.",
                 "hu": "Fedett peronok a száraz készülődéshez.",
                 "ro": "Peroane acoperite pentru pregătire la uscat.",
-                "en": "Covered platforms for dry preparation."
+                "en": "Covered platforms for dry preparation.",
+                "pt": "Plataformas cobertas para preparação seca."
               }
             },
             {
@@ -949,7 +1017,8 @@
                 "de": "Vorsicht beim Bremsen auf nasser Fahrbahn.",
                 "hu": "Vigyázzon a fékezéssel a vizes úttesten.",
                 "ro": "Atenție la frânare pe carosabilul umed.",
-                "en": "Exercise caution when braking on wet roads."
+                "en": "Exercise caution when braking on wet roads.",
+                "pt": "Caution ao travar em estradas molhadas."
               }
             },
             {
@@ -958,7 +1027,8 @@
                 "de": "Fahrradständer oft nah am Eingang.",
                 "hu": "A kerékpártárolók gyakran a bejárat közelében vannak.",
                 "ro": "Rasteluri de biciclete aproape de intrare.",
-                "en": "Bike racks are located near the entrance."
+                "en": "Bike racks are located near the entrance.",
+                "pt": "Paraciclos junto à entrada."
               }
             },
             {
@@ -967,7 +1037,8 @@
                 "de": "Kurze Pause unter dem Vordach einlegen.",
                 "hu": "Tartson rövid szünetet az eresz alatt.",
                 "ro": "Faceți o scurtă pauză sub streașină.",
-                "en": "Take a short break under the church eaves."
+                "en": "Take a short break under the church eaves.",
+                "pt": "Faça uma curta pausa sob os beirais da igreja."
               }
             },
             {
@@ -976,7 +1047,8 @@
                 "de": "Die Wege können matschig sein, bleiben Sie auf Asphalt.",
                 "hu": "Az utak sarasak lehetnek, maradjon az aszfalton.",
                 "ro": "Potecile pot fi noroioase, rămâneți pe asfalt.",
-                "en": "Paths can be muddy, stick to paved surfaces."
+                "en": "Paths can be muddy, stick to paved surfaces.",
+                "pt": "Os caminhos podem ficar enlameados, mantenha‑se nas superfícies pavimentadas."
               }
             },
             {
@@ -985,7 +1057,8 @@
                 "de": "Achtung vor rutschigem Laub auf dem Weg.",
                 "hu": "Vigyázzon a csúszós levelekkel az úton.",
                 "ro": "Atenție la frunzele alunecoase de pe drum.",
-                "en": "Watch out for slippery leaves on the path."
+                "en": "Watch out for slippery leaves on the path.",
+                "pt": "Cuidado com folhas escorregadias no percurso."
               }
             },
             {
@@ -994,7 +1067,8 @@
                 "de": "Letzter Stopp, wischen Sie den Sattel trocken.",
                 "hu": "Utolsó megálló, törölje szárazra a nyerget.",
                 "ro": "Ultima oprire, ștergeți șaua pentru a o usca.",
-                "en": "Final stop, wipe your saddle dry."
+                "en": "Final stop, wipe your saddle dry.",
+                "pt": "Paragem final, seque o selim da bicicleta."
               }
             }
           ],
@@ -1022,6 +1096,12 @@
               "Slightly reduce tire pressure for better grip on wet roads.",
               "Wear high-visibility waterproof gear in traffic.",
               "Check your brake pads before starting your ride."
+            ],
+            "pt": [
+              "Use guarda‑lamas para se proteger do salpico da estrada.",
+              "Reduza ligeiramente a pressão dos pneus para maior aderência em estradas molhadas.",
+              "Use equipamento impermeável de alta visibilidade no trânsito.",
+              "Verifique as pastilhas dos travões antes de iniciar o passeio."
             ]
           }
         },
@@ -1030,7 +1110,8 @@
             "de": "Ein frischer Wintermorgen am Bahnhof Oiã weckt die Geister; die kühle Luft sorgt für eine zügige Fahrt zum Emigranten-Denkmal. Das Kulturhaus bietet die perfekte Gelegenheit für eine erste Aufwärmpause.\n\nMittags strahlt die Sonne oft hell, aber die Luft bleibt kühl, wenn Sie die Hauptkirche passieren. Der Weg zum Levira River Park ist bei klarem Himmel ein Genuss, doch der Wind kann am Wasser beissen.\n\nNachmittags geht es weiter zur Kapelle São Roque, wo das winterliche Licht die Landschaft in sanfte Farben taucht. Achten Sie auf die sinkenden Temperaturen während der Fahrt zur Kapelle des Heiligen Antonius.\n\nDie Tour endet, wenn die Sonne früh hinter dem Horizont verschwindet. Die Rückfahrt zum Bahnhof erfolgt im kühler werdenden Abendwind, während die Lichter von Oiã Ihnen den Weg weisen.",
             "hu": "A friss téli reggel az oiã-i vasútállomáson felébreszti az érzékeket; a hűvös levegő tempós tekerésre ösztönöz az Emigráns-emlékmű felé. A Művelődési Ház tökéletes hely az első melegedőre.\n\nDélben a nap gyakran ragyogóan süt, de a levegő hűvös marad a főtemplom érintésekor. A Levira parkhoz vezető út tiszta égbolt mellett élvezet, de a szél csípős lehet a vízparton.\n\nDélután a São Roque-kápolna felé folytatja, ahol a téli fények lágy színekbe öltöztetik a tájat. Ügyeljen a csökkenő hőmérsékletre a Szent Antal-kápolna felé tartva.\n\nA túra véget ér, ahogy a nap korán eltűnik a láthatáron. A visszaút az állomásra a hűvös esti szélben zajlik, miközben Oiã fényei mutatják az utat.",
             "ro": "O dimineață răcoroasă de iarnă la Gara Oiã vă trezește simțurile; aerul rece încurajează o cursă rapidă spre Monumentul Emigrantului. Casa de Cultură oferă ocazia perfectă pentru o primă pauză de încălzire.\n\nLa prânz, soarele strălucește adesea puternic, dar aerul rămâne rece când treceți pe lângă biserica principală. Drumul spre Parcul Levira este o plăcere sub cerul senin, dar vântul poate fi tăios lângă apă.\n\nDupă-amiaza continuați spre Capela São Roque, unde lumina de iarnă scaldă peisajul în culori calde. Atenție la scăderea temperaturii în timpul drumului spre Capela Sfântului Anton.\n\nTurul se încheie când soarele dispare devreme după orizont. Întoarcerea la gară se face în vântul serii tot mai rece, în timp ce luminile din Oiã vă ghidează drumul.",
-            "en": "A crisp winter morning at Oiã Train Station awakens the senses; the cool air encourages a brisk ride to the Emigrant Monument. The House of Culture offers the perfect opportunity for a first warm-up break.\n\nAt noon, the sun often shines brightly, but the air remains chilly as you pass the Main Church. The route to Levira River Park is a joy under clear skies, though the wind can bite near the water.\n\nIn the afternoon, continue to São Roque Chapel, where winter light bathes the landscape in soft colors. Be mindful of dropping temperatures while riding towards the Chapel of Saint Anthony.\n\nThe tour ends as the sun disappears early behind the horizon. The ride back to the station takes place in the cooling evening breeze, with the lights of Oiã guiding your way."
+            "en": "A crisp winter morning at Oiã Train Station awakens the senses; the cool air encourages a brisk ride to the Emigrant Monument. The House of Culture offers the perfect opportunity for a first warm-up break.\n\nAt noon, the sun often shines brightly, but the air remains chilly as you pass the Main Church. The route to Levira River Park is a joy under clear skies, though the wind can bite near the water.\n\nIn the afternoon, continue to São Roque Chapel, where winter light bathes the landscape in soft colors. Be mindful of dropping temperatures while riding towards the Chapel of Saint Anthony.\n\nThe tour ends as the sun disappears early behind the horizon. The ride back to the station takes place in the cooling evening breeze, with the lights of Oiã guiding your way.",
+            "pt": "Numa fresca manhã de inverno, a Estação de Comboios de Oiã desperta os sentidos; o ar frio incentiva um ritmo enérgico até ao Monumento ao Emigrante. A Casa da Cultura proporciona a primeira oportunidade para uma pausa de aquecimento.\n\nAo meio‑dia, o sol costuma brilhar, mas o ar mantém‑se fresco enquanto passa pela Igreja Matriz. O trajecto até ao Parque do Rio Levira é um prazer sob céu limpo, embora o vento piore junto à água.\n\nÀ tarde, continue até à Capela de São Roque, onde a luz de inverno banha a paisagem com cores suaves. Tenha atenção à descida da temperatura enquanto pedala em direção à Capela de Santo António.\n\nO passeio termina quando o sol desaparece cedo por detrás do horizonte. O regresso à estação faz‑se na brisa fresca da noite, com as luzes de Oiã a guiar o caminho."
           },
           "stops": [
             {
@@ -1039,7 +1120,8 @@
                 "de": "Zügiger Start, um warm zu werden.",
                 "hu": "Gyors indulás, hogy hamar bemelegedjen.",
                 "ro": "Pornire rapidă pentru a vă încălzi.",
-                "en": "Start briskly to warm up your muscles."
+                "en": "Start briskly to warm up your muscles.",
+                "pt": "Comece em ritmo vivo para aquecer os músculos."
               }
             },
             {
@@ -1048,7 +1130,8 @@
                 "de": "Kurzer Stopp, kühler Wind auf freier Fläche.",
                 "hu": "Rövid megálló, hűvös szél a nyílt terepen.",
                 "ro": "Oprire scurtă, vânt rece în zona deschisă.",
-                "en": "Short stop, expect cool winds in open areas."
+                "en": "Short stop, expect cool winds in open areas.",
+                "pt": "Paragem curta, espere ventos frescos em áreas abertas."
               }
             },
             {
@@ -1057,7 +1140,8 @@
                 "de": "Nutzen Sie den Innenraum zum Aufwärmen.",
                 "hu": "Használja a belső teret melegedésre.",
                 "ro": "Folosiți interiorul pentru a vă încălzi.",
-                "en": "Use the interior to regain some warmth."
+                "en": "Use the interior to regain some warmth.",
+                "pt": "Use o interior para recuperar algum calor."
               }
             },
             {
@@ -1066,7 +1150,8 @@
                 "de": "Die Sonne wärmt hier mittags am besten.",
                 "hu": "Itt délben a legmelegebb a napfény.",
                 "ro": "Soarele încălzește cel mai bine aici la prânz.",
-                "en": "The sun is warmest here at midday."
+                "en": "The sun is warmest here at midday.",
+                "pt": "O sol é mais quente aqui ao meio‑dia."
               }
             },
             {
@@ -1075,7 +1160,8 @@
                 "de": "Winddichte Kleidung ist am Flussufer ratsam.",
                 "hu": "Szélálló ruházat ajánlott a vízparton.",
                 "ro": "Haine rezistente la vânt recomandate pe mal.",
-                "en": "Windproof gear is advised by the riverbank."
+                "en": "Windproof gear is advised by the riverbank.",
+                "pt": "Recomenda‑se roupa corta‑vento junto à margem do rio."
               }
             },
             {
@@ -1084,7 +1170,8 @@
                 "de": "Tiefstehende Sonne kann beim Fahren blenden.",
                 "hu": "Az alacsony nap elvakíthat tekerés közben.",
                 "ro": "Soarele jos vă poate orbi în timp ce rulați.",
-                "en": "Low winter sun can dazzle you while riding."
+                "en": "Low winter sun can dazzle you while riding.",
+                "pt": "O baixo sol de inverno pode encandeá‑lo ao pedalar."
               }
             },
             {
@@ -1093,7 +1180,8 @@
                 "de": "Schneller Abschluss wegen sinkender Temperatur.",
                 "hu": "Gyors lezárás a süllyedő hőmérséklet miatt.",
                 "ro": "Final rapid din cauza scăderii temperaturii.",
-                "en": "Quick finish due to dropping temperatures."
+                "en": "Quick finish due to dropping temperatures.",
+                "pt": "Termine rapidamente devido à descida das temperaturas."
               }
             }
           ],
@@ -1121,6 +1209,12 @@
               "Avoid long stationary breaks to stay warm.",
               "Ensure your lights are working for the early sunset.",
               "Stay hydrated even when it feels cold outside."
+            ],
+            "pt": [
+              "Use luvas térmicas para se proteger do vento frio.",
+              "Evite pausas longas e estáticas para manter o calor.",
+              "Certifique‑se de que as luzes funcionam devido ao anoitecer precoce.",
+              "Mantenha‑se hidratado, mesmo quando o tempo parecer frio."
             ]
           }
         }
@@ -1139,7 +1233,8 @@
             "de": "Cluster Zentrum: Hauptkirche von Oiã",
             "hu": "Központi Klaszter: Oiã Főtemploma",
             "ro": "Cluster Centru: Biserica Matrice din Oiã",
-            "en": "Center Cluster: Main Church of Oiã"
+            "en": "Center Cluster: Main Church of Oiã",
+            "pt": "Cluster do Centro: Igreja Matriz de Oiã"
           },
           "coords": [
             -8.6275,
@@ -1155,7 +1250,8 @@
             "de": "Parken Sie in der Nähe und beginnen Sie Ihren Rundgang durch das Zentrum.",
             "hu": "Parkoljon a közelben, és kezdje a központi sétát.",
             "ro": "Parcați în apropiere și începeți turul pe jos al centrului.",
-            "en": "Park nearby and begin your walking tour of the center."
+            "en": "Park nearby and begin your walking tour of the center.",
+            "pt": "Estacione nas proximidades e comece o seu passeio pedonal pelo centro."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Cluster Zentrum: Kulturhaus von Oiã",
             "hu": "Központi Klaszter: Oiã Kultúrház",
             "ro": "Cluster Centru: Casa de Cultură din Oiã",
-            "en": "Center Cluster: House of Culture of Oiã"
+            "en": "Center Cluster: House of Culture of Oiã",
+            "pt": "Cluster do Centro: Casa da Cultura de Oiã"
           },
           "coords": [
             -8.628,
@@ -1179,7 +1276,8 @@
             "de": "Ein kurzer Spaziergang von der Kirche entfernt, entdecken Sie die lokale Kunstszene.",
             "hu": "Egy rövid séta a templomtól, fedezze fel a helyi művészeti életet.",
             "ro": "La o scurtă plimbare de biserică, descoperiți scena artistică locală.",
-            "en": "A short walk from the church, discover the local arts scene."
+            "en": "A short walk from the church, discover the local arts scene.",
+            "pt": "A curta distância da igreja, descubra a cena artística local."
           }
         },
         {
@@ -1187,7 +1285,8 @@
             "de": "Cluster Flussufer: Park am Rio Levira",
             "hu": "Folyóparti Klaszter: Rio Levira Park",
             "ro": "Cluster Malul Râului: Parcul Râului Levira",
-            "en": "Riverbank Cluster: Levira River Park"
+            "en": "Riverbank Cluster: Levira River Park",
+            "pt": "Cluster da Margem: Parque do Rio Levira"
           },
           "coords": [
             -8.6215,
@@ -1203,7 +1302,8 @@
             "de": "Fahren Sie zum Park für eine ausgedehnte Mittagspause und einen Spaziergang.",
             "hu": "Vezessen a parkhoz egy hosszabb ebédszünetre és sétára.",
             "ro": "Conduceți la parc pentru o pauză de prânz extinsă și o plimbare.",
-            "en": "Drive to the park for an extended lunch break and a walk."
+            "en": "Drive to the park for an extended lunch break and a walk.",
+            "pt": "Conduza até o parque para uma pausa alargada para almoço e uma caminhada."
           }
         },
         {
@@ -1211,7 +1311,8 @@
             "de": "Cluster Bahnhof: Bahnhof von Oiã",
             "hu": "Vasútállomás Klaszter: Oiã vasútállomás",
             "ro": "Cluster Gară: Gara din Oiã",
-            "en": "Train Station Cluster: Oiã Train Station"
+            "en": "Train Station Cluster: Oiã Train Station",
+            "pt": "Conjunto da Estação: Estação Ferroviária de Oiã"
           },
           "coords": [
             -8.635,
@@ -1227,7 +1328,8 @@
             "de": "Ein kurzer Abstecher, um das historische Bahnhofsgebäude zu sehen.",
             "hu": "Egy gyors kitérő a történelmi állomásépület megtekintéséhez.",
             "ro": "Un scurt ocol pentru a vedea clădirea istorică a gării.",
-            "en": "A quick detour to see the historic station building."
+            "en": "A quick detour to see the historic station building.",
+            "pt": "Uma rápida paragem para ver o edifício histórico da estação."
           }
         },
         {
@@ -1235,7 +1337,8 @@
             "de": "Cluster Bahnhof: Denkmal für den Auswanderer",
             "hu": "Vasútállomás Klaszter: Kivándorlók Emlékműve",
             "ro": "Cluster Gară: Monumentul Emigrantului",
-            "en": "Train Station Cluster: Monument to the Emigrant"
+            "en": "Train Station Cluster: Monument to the Emigrant",
+            "pt": "Conjunto da Estação: Monumento ao Emigrante"
           },
           "coords": [
             -8.625,
@@ -1251,7 +1354,8 @@
             "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
             "hu": "Könnyen megközelíthető gyalog az állomásról.",
             "ro": "Ușor de accesat pe jos de la gară.",
-            "en": "Easily accessible on foot from the station."
+            "en": "Easily accessible on foot from the station.",
+            "pt": "Facilmente acessível a pé a partir da estação."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Cluster Bahnhof: Kapelle des Heiligen Antonius",
             "hu": "Vasútállomás Klaszter: Szent Antal-kápolna",
             "ro": "Cluster Gară: Capela Sfântului Antoniu",
-            "en": "Train Station Cluster: Chapel of Saint Anthony"
+            "en": "Train Station Cluster: Chapel of Saint Anthony",
+            "pt": "Conjunto da Estação: Capela de Santo António"
           },
           "coords": [
             -8.626,
@@ -1275,7 +1380,8 @@
             "de": "Ein friedlicher Abschluss Ihrer Erkundungstour durch die Stadt.",
             "hu": "A város felfedezésének békés lezárása.",
             "ro": "O încheiere pașnică a explorării orașului.",
-            "en": "A peaceful end to your exploration of the town."
+            "en": "A peaceful end to your exploration of the town.",
+            "pt": "Um fim tranquilo para a sua exploração da vila."
           }
         }
       ],
@@ -1283,7 +1389,8 @@
         "de": "Mit dem Auto können Sie Oiã in Clustern erkunden. Beginnen Sie im Zentrum, wo Sie Ihr Auto parken und die Hauptkirche und das Kulturhaus zu Fuß erkunden. Am Vormittag genießen Sie die zentrale Atmosphäre. Fahren Sie mittags zum Rio Levira Park für ein entspanntes Mittagessen in der Natur. Der Nachmittag ist einem anderen Teil der Stadt gewidmet; parken Sie in der Nähe des Bahnhofs und entdecken Sie das industrielle Erbe sowie nahegelegene Denkmäler und Kapellen. Diese Methode kombiniert den Komfort des Autofahrens mit angenehmen Spaziergängen.",
         "hu": "Autóval klaszterekben fedezheti fel Oiã-t. Kezdje a központban, ahol leparkolhatja az autóját, és gyalog felfedezheti a főtemplomot és a kultúrházat. Délelőtt élvezze a központi légkört. Ebédidőben vezessen a Rio Levira Parkba egy pihentető, természetközeli ebédért. A délután a város egy másik részének szól; parkoljon a vasútállomás közelében, és fedezze fel az ipari örökséget, valamint a közeli emlékműveket és kápolnákat. Ez a módszer ötvözi az autóvezetés kényelmét a kellemes sétákkal.",
         "ro": "Cu mașina, puteți explora Oiã în clustere. Începeți în centru, unde parcați mașina și explorați Biserica Matrice și Casa de Cultură pe jos. Dimineața vă bucurați de atmosfera centrală. La prânz, conduceți la Parcul Râului Levira pentru un prânz relaxant în natură. După-amiaza este dedicată unei alte zone a orașului; parcați lângă gară și descoperiți patrimoniul industrial și monumentele și capelele din apropiere. Această metodă combină confortul mașinii cu plimbări plăcute.",
-        "en": "With a car, you can explore Oiã in clusters. Start in the center, where you'll park and explore the Main Church and House of Culture on foot. The morning is for soaking up the central atmosphere. For midday, drive to the Levira River Park for a relaxing lunch surrounded by nature. The afternoon is dedicated to another area of town; park near the train station to discover industrial heritage and nearby monuments and chapels. This method mixes the convenience of driving with pleasant walks."
+        "en": "With a car, you can explore Oiã in clusters. Start in the center, where you'll park and explore the Main Church and House of Culture on foot. The morning is for soaking up the central atmosphere. For midday, drive to the Levira River Park for a relaxing lunch surrounded by nature. The afternoon is dedicated to another area of town; park near the train station to discover industrial heritage and nearby monuments and chapels. This method mixes the convenience of driving with pleasant walks.",
+        "pt": "Com carro, pode explorar Oiã por zonas. Comece no centro, onde estacionará e visitará a Igreja Matriz e a Casa da Cultura a pé. A manhã é para absorver a atmosfera central. Ao meio‑dia, conduza até ao Parque do Rio Levira para um almoço relaxante rodeado de natureza. A tarde é dedicada a outra área da vila; estacione perto da estação para descobrir o património industrial e os monumentos e capelas nas imediações. Este método mistura a conveniência de conduzir com agradáveis caminhadas."
       },
       "gastro_picks": {
         "de": [
@@ -1479,6 +1586,12 @@
           "A GPS is useful for navigating between the clusters.",
           "Combine short drives with leisurely walks for the best experience.",
           "Plan your route in advance to minimize driving time."
+        ],
+        "pt": [
+          "O estacionamento no centro da vila pode ser limitado, por isso tenha paciência.",
+          "Um GPS é útil para navegar entre as zonas.",
+          "Combine curtas deslocações com passeios tranquilos para a melhor experiência.",
+          "Planeie o seu trajeto com antecedência para minimizar o tempo de condução."
         ]
       },
       "variants": {
@@ -1487,7 +1600,8 @@
             "de": "Genießen Sie den Komfort Ihres Wagens, während der Regen gegen die Scheiben trommelt. Der erste Halt an der Hauptkirche von Oiã ist nur einen kurzen Sprung vom Parkplatz entfernt. Im Kulturhaus können Sie sich Zeit lassen, während es draußen gießt.\n\nMittags bietet die Fahrt zum Levira River Park eine trockene Aussicht auf die grüne Landschaft. Parken Sie nah am Flussufer, um die Atmosphäre aus dem Auto oder unter einem Schirm zu genießen.\n\nAm Nachmittag geht es zurück zum Bahnhofsviertel. Das Emigranten-Denkmal lässt sich auch bei schlechtem Wetter gut besichtigen, da der Wagen immer in der Nähe ist.\n\nDer Tag endet entspannt an der Kapelle des Heiligen Antonius. Die Scheinwerfer spiegeln sich in den Pfützen des Dorfes, während Sie trocken und zufrieden Ihre Tour abschließen.",
             "hu": "Élvezze autója kényelmét, miközben az eső kopog a szélvédőn. Az első megálló az oiã-i főtemplomnál csak egy ugrás a parkolótól. A Művelődési Házban nyugodtan elidőzhet, amíg odakint szakad.\n\nDélben a Levira folyóparti parkhoz vezető út száraz rálátást nyújt a zöld tájra. Parkoljon közel a parthoz, hogy az autóban ülve vagy esernyő alatt élvezhesse a látványt.\n\nDélután visszatér az állomás környékére. Az Emigráns-emlékmű rossz időben is jól megtekinthető, hiszen az autó karnyújtásnyira van.\n\nA nap nyugodtan zárul a Szent Antal-kápolnánál. A fényszórók megcsillannak a falu tócsáiban, miközben Ön szárazon és elégedetten fejezi be a túrát.",
             "ro": "Bucurați-vă de confortul mașinii în timp ce ploaia bate în parbriz. Prima oprire la biserica principală din Oiã este la doar un pas de parcare. La Casa de Cultură puteți zăbovi cât doriți în timp ce afară plouă torențial.\n\nLa prânz, drumul spre Parcul Levira oferă o vedere uscată asupra peisajului verde. Parcați aproape de mal pentru a vă bucura de atmosferă din mașină sau sub umbrelă.\n\nDupă-amiaza reveniți în zona gării. Monumentul Emigrantului este ușor de vizitat chiar și pe vreme rea, având mașina mereu aproape.\n\nZiua se încheie relaxat la Capela Sfântului Anton. Farurile se oglindesc în bălțile din sat, în timp ce vă finalizați turul uscat și mulțumit.",
-            "en": "Enjoy the comfort of your car while the rain drums against the windows. Your first stop at the Main Church is just a quick dash from the parking spot. Take your time at the House of Culture while the downpour continues outside.\n\nAt noon, the drive to Levira River Park offers a dry view of the lush green landscape. Park close to the riverbank to soak in the atmosphere from inside your car or under an umbrella.\n\nIn the afternoon, head back to the station district. The Emigrant Monument is easy to visit even in bad weather with your vehicle always nearby.\n\nYour day ends in a relaxed fashion at the Chapel of Saint Anthony. The headlights reflect in the village puddles as you conclude your tour dry and satisfied."
+            "en": "Enjoy the comfort of your car while the rain drums against the windows. Your first stop at the Main Church is just a quick dash from the parking spot. Take your time at the House of Culture while the downpour continues outside.\n\nAt noon, the drive to Levira River Park offers a dry view of the lush green landscape. Park close to the riverbank to soak in the atmosphere from inside your car or under an umbrella.\n\nIn the afternoon, head back to the station district. The Emigrant Monument is easy to visit even in bad weather with your vehicle always nearby.\n\nYour day ends in a relaxed fashion at the Chapel of Saint Anthony. The headlights reflect in the village puddles as you conclude your tour dry and satisfied.",
+            "pt": "Desfrute do conforto do seu carro enquanto a chuva tamborila nas janelas. A sua primeira paragem na Igreja Matriz fica a uma curta corrida do local de estacionamento. Aproveite a Casa da Cultura enquanto a chuvada continua lá fora.\n\nAo meio‑dia, a viagem até ao Parque do Rio Levira oferece uma vista seca da paisagem verdejante. Estacione junto à margem para absorver a atmosfera a partir do carro ou debaixo de um guarda‑chuva.\n\nÀ tarde, dirija‑se de novo ao bairro da estação. O Monumento ao Emigrante é fácil de visitar mesmo em mau tempo, com o seu veículo sempre por perto.\n\nO dia termina de forma relaxada na Capela de Santo António. Os faróis refletem nas poças da aldeia enquanto conclui o seu passeio seco e satisfeito."
           },
           "stops": [
             {
@@ -1496,7 +1610,8 @@
                 "de": "Parkplatz direkt neben der Kirche nutzen.",
                 "hu": "Használja a közvetlenül a templom melletti parkolót.",
                 "ro": "Folosiți parcarea de lângă biserică.",
-                "en": "Use the parking lot right next to the church."
+                "en": "Use the parking lot right next to the church.",
+                "pt": "Use o parque junto à igreja."
               }
             },
             {
@@ -1505,7 +1620,8 @@
                 "de": "Idealer Ort für eine längere Regenpause.",
                 "hu": "Ideális helyszín egy hosszabb esőszünetre.",
                 "ro": "Loc ideal pentru o pauză lungă de ploaie.",
-                "en": "Ideal location for a longer rain break."
+                "en": "Ideal location for a longer rain break.",
+                "pt": "Local ideal para uma pausa mais longa quando chove."
               }
             },
             {
@@ -1514,7 +1630,8 @@
                 "de": "Vorsicht auf unbefestigten Parkflächen.",
                 "hu": "Vigyázzon a nem aszfaltozott parkolóhelyeken.",
                 "ro": "Atenție pe suprafețele de parcare neasfaltate.",
-                "en": "Be careful on unpaved parking areas."
+                "en": "Be careful on unpaved parking areas.",
+                "pt": "Tenha cuidado em áreas de estacionamento não alcatroadas."
               }
             },
             {
@@ -1523,7 +1640,8 @@
                 "de": "Parken Sie kurz für ein Foto des Gebäudes.",
                 "hu": "Parkoljon le rövid időre egy fotó erejéig.",
                 "ro": "Parcați scurt pentru o fotografie a clădirii.",
-                "en": "Park briefly for a photo of the building."
+                "en": "Park briefly for a photo of the building.",
+                "pt": "Estacione brevemente para uma foto do edifício."
               }
             },
             {
@@ -1532,7 +1650,8 @@
                 "de": "Vom Auto aus gut sichtbar bei starkem Regen.",
                 "hu": "Erős esőben az autóból is jól látható.",
                 "ro": "Vizibil bine din mașină pe ploaie torențială.",
-                "en": "Clearly visible from the car during heavy rain."
+                "en": "Clearly visible from the car during heavy rain.",
+                "pt": "Claramente visível a partir do carro durante chuva forte."
               }
             },
             {
@@ -1541,7 +1660,8 @@
                 "de": "Entspanntes Aussteigen unter Bäumen/Dächern.",
                 "hu": "Kényelmes kiszállás a fák vagy tetők alatt.",
                 "ro": "Coborâre relaxată sub copaci sau acoperișuri.",
-                "en": "Relaxed exit under trees or eaves."
+                "en": "Relaxed exit under trees or eaves.",
+                "pt": "Saída descontraída sob árvores ou beirais."
               }
             }
           ],
@@ -1569,6 +1689,12 @@
               "Drive carefully to avoid hydroplaning risks.",
               "Keep an umbrella handy in the door pocket.",
               "Check the condition of your windshield wipers."
+            ],
+            "pt": [
+              "Use o ar condicionado para evitar o embaciamento das janelas.",
+              "Conduza com cuidado para evitar o risco de aquaplanagem.",
+              "Mantenha um guarda‑chuva à mão no bolso da porta.",
+              "Verifique o estado dos limpa‑vidros."
             ]
           }
         },
@@ -1577,7 +1703,8 @@
             "de": "Starten Sie warm und gemütlich in Ihren Wintertag in Oiã. Die Fahrt zur Hauptkirche ist kurz, und die winterliche Sonne lässt das Dorf hell erstrahlen. Das Kulturhaus bietet danach eine angenehme Atmosphäre für kulturelle Einblicke.\n\nMittags lädt der Levira River Park zu einem kurzen Stopp ein, wobei Sie die Kälte draußen lassen können, während Sie den Blick auf den Fluss genießen. Die klare Winterluft macht die Farben der Natur besonders intensiv.\n\nAm Nachmittag führt die Route zum Bahnhof und zum Emigranten-Denkmal. Im warmen Wagen lässt sich die frühe Dämmerung wunderbar beobachten.\n\nDer Tag klingt an der Kapelle des Heiligen Antonius aus. Wenn die Temperaturen sinken, genießen Sie die Sitzheizung und die Gewissheit, alle Sehenswürdigkeiten von Oiã komfortabel erlebt zu haben.",
             "hu": "Indítsa téli napját melegben és kényelemben Oiã-ban. Az út a főtemplomig rövid, a téli napfény pedig ragyogóvá teszi a falut. A Művelődési Ház kellemes környezetet kínál a kulturális élményekhez.\n\nDélben a Levira folyóparti park egy rövid megállóra csábít, ahol a hideget kívül hagyva élvezheti a folyóra nyíló kilátást. A tiszta téli levegőben a természet színei különösen élénkek.\n\nDélután az út az állomáshoz és az Emigráns-emlékműhöz vezet. A meleg autóból csodálatos nézni a kora esti szürkületet.\n\nA nap a Szent Antal-kápolnánál ér véget. Ahogy a hőmérséklet süllyed, élvezze az ülésfűtést és a tudatot, hogy kényelmesen látta Oiã minden nevezetességét.",
             "ro": "Începeți ziua de iarnă în Oiã la căldură și confort. Drumul spre biserica principală este scurt, iar soarele de iarnă face satul să strălucească. Casa de Cultură oferă apoi o atmosferă plăcută pentru incursiuni culturale.\n\nLa prânz, Parcul Levira vă invită la o scurtă oprire, lăsând frigul afară în timp ce admirați râul. Aerul clar de iarnă face culorile naturii deosebit de intense.\n\nDupă-amiaza traseul duce spre gară și Monumentul Emigrantului. Din mașina caldă puteți observa minunat amurgul timpuriu.\n\nZiua se încheie la Capela Sfântului Anton. Pe măsură ce temperaturile scad, bucurați-vă de încălzirea în scaune și de faptul că ați vizitat confortabil toate atracțiile din Oiã.",
-            "en": "Start your winter day in Oiã warm and cozy. The drive to the Main Church is short, and the winter sun makes the village glow brightly. The House of Culture then offers a pleasant atmosphere for cultural insights.\n\nAt noon, Levira River Park invites a short stop where you can leave the cold outside while enjoying the view of the river. The clear winter air makes the colors of nature particularly vivid.\n\nIn the afternoon, the route leads to the station and the Emigrant Monument. From your warm car, you can beautifully observe the early sunset.\n\nYour day ends at the Chapel of Saint Anthony. As temperatures drop, enjoy the heated seats and the comfort of having seen all of Oiã's sights with ease."
+            "en": "Start your winter day in Oiã warm and cozy. The drive to the Main Church is short, and the winter sun makes the village glow brightly. The House of Culture then offers a pleasant atmosphere for cultural insights.\n\nAt noon, Levira River Park invites a short stop where you can leave the cold outside while enjoying the view of the river. The clear winter air makes the colors of nature particularly vivid.\n\nIn the afternoon, the route leads to the station and the Emigrant Monument. From your warm car, you can beautifully observe the early sunset.\n\nYour day ends at the Chapel of Saint Anthony. As temperatures drop, enjoy the heated seats and the comfort of having seen all of Oiã's sights with ease.",
+            "pt": "Comece o seu dia de inverno em Oiã quente e confortável. A condução até à Igreja Matriz é curta, e o sol de inverno faz a vila brilhar. A Casa da Cultura oferece depois um ambiente agradável para descobertas culturais.\n\nAo meio‑dia, o Parque do Rio Levira convida a uma curta paragem onde pode deixar o frio de fora enquanto desfruta da vista do rio. O ar límpido de inverno torna as cores da natureza especialmente vívidas.\n\nÀ tarde, a rota leva à estação e ao Monumento ao Emigrante. A partir do seu carro quente, pode observar lindamente o pôr do sol antecipado.\n\nO dia termina na Capela de Santo António. À medida que as temperaturas descem, aproveite os bancos aquecidos e o conforto de ter visto todos os pontos de Oiã com facilidade."
           },
           "stops": [
             {
@@ -1586,7 +1713,8 @@
                 "de": "Kurzer Weg vom warmen Auto zur Kirche.",
                 "hu": "Rövid út a meleg autótól a templomig.",
                 "ro": "Drum scurt de la mașina caldă la biserică.",
-                "en": "Short walk from your warm car to the church."
+                "en": "Short walk from your warm car to the church.",
+                "pt": "Curta caminhada do seu carro quente até à igreja."
               }
             },
             {
@@ -1595,7 +1723,8 @@
                 "de": "Perfekter Ort, um sich zwischendurch aufzuwärmen.",
                 "hu": "Tökéletes hely, hogy napközben átmelegedjen.",
                 "ro": "Loc perfect pentru a vă reîncălzi peste zi.",
-                "en": "Perfect spot to warm up during the day."
+                "en": "Perfect spot to warm up during the day.",
+                "pt": "Local perfeito para aquecer durante o dia."
               }
             },
             {
@@ -1604,7 +1733,8 @@
                 "de": "Genießen Sie den Blick bei laufender Heizung.",
                 "hu": "Élvezze a kilátást járó fűtés mellett.",
                 "ro": "Bucurați-vă de priveliște cu căldura pornită.",
-                "en": "Enjoy the view with the heater running."
+                "en": "Enjoy the view with the heater running.",
+                "pt": "Desfrute da vista com o aquecimento ligado."
               }
             },
             {
@@ -1613,7 +1743,8 @@
                 "de": "Parken Sie für einen schnellen Blick auf die Fliesen.",
                 "hu": "Parkoljon le egy gyors pillantásra a csempékre.",
                 "ro": "Parcați pentru a admira rapid plăcile ceramice.",
-                "en": "Park for a quick look at the traditional tiles."
+                "en": "Park for a quick look at the traditional tiles.",
+                "pt": "Estacione para uma rápida olhadela aos azulejos tradicionais."
               }
             },
             {
@@ -1622,7 +1753,8 @@
                 "de": "Besichtigung ohne lange Kälteexposition.",
                 "hu": "Megtekintés hosszú hideghatás nélkül.",
                 "ro": "Vizitare fără expunere prelungită la frig.",
-                "en": "Sightseeing without long exposure to the cold."
+                "en": "Sightseeing without long exposure to the cold.",
+                "pt": "Visitas turísticas sem exposição prolongada ao frio."
               }
             },
             {
@@ -1631,7 +1763,8 @@
                 "de": "Abschluss im warmen Licht des Abends.",
                 "hu": "Lezárás az este meleg fényeiben.",
                 "ro": "Final în lumina caldă a serii.",
-                "en": "Conclusion in the warm light of the evening."
+                "en": "Conclusion in the warm light of the evening.",
+                "pt": "Conclusão sob a luz quente da noite."
               }
             }
           ],
@@ -1659,6 +1792,12 @@
               "Keep the windshield clear of winter condensation.",
               "Avoid parking under low-hanging, wet branches.",
               "Make use of the early afternoon hours for photography."
+            ],
+            "pt": [
+              "Verifique a pressão dos pneus, pois pode cair com o frio.",
+              "Mantenha o para‑brisas livre de condensação de inverno.",
+              "Evite estacionar sob ramos baixos e molhados.",
+              "Aproveite as primeiras horas da tarde para fotografia."
             ]
           }
         }
@@ -1677,7 +1816,8 @@
             "de": "Ankunft: Bahnhof von Oiã",
             "hu": "Érkezés: Oiã vasútállomás",
             "ro": "Sosire: Gara din Oiã",
-            "en": "Arrival: Oiã Train Station"
+            "en": "Arrival: Oiã Train Station",
+            "pt": "Chegada: Estação Ferroviária de Oiã"
           },
           "coords": [
             -8.635,
@@ -1693,7 +1833,8 @@
             "de": "Beginnen Sie Ihren Tag hier, wo Züge und Busse die Stadt verbinden.",
             "hu": "Kezdje a napot itt, ahol a vonatok és buszok összekötik a várost.",
             "ro": "Începeți ziua aici, unde trenurile și autobuzele conectează orașul.",
-            "en": "Start your day here, where trains and buses connect the town."
+            "en": "Start your day here, where trains and buses connect the town.",
+            "pt": "Comece aqui o seu dia, onde comboios e autocarros ligam a vila."
           }
         },
         {
@@ -1701,7 +1842,8 @@
             "de": "Cluster Zentrum: Hauptkirche von Oiã",
             "hu": "Központi Klaszter: Oiã Főtemploma",
             "ro": "Cluster Centru: Biserica Matrice din Oiã",
-            "en": "Center Cluster: Main Church of Oiã"
+            "en": "Center Cluster: Main Church of Oiã",
+            "pt": "Conjunto Central: Igreja Matriz de Oiã"
           },
           "coords": [
             -8.6275,
@@ -1717,7 +1859,8 @@
             "de": "Nehmen Sie einen lokalen Bus vom Bahnhof ins Zentrum von Oiã.",
             "hu": "Menjen helyi busszal az állomásról Oiã központjába.",
             "ro": "Luați un autobuz local de la gară spre centrul orașului Oiã.",
-            "en": "Take a local bus from the station to the center of Oiã."
+            "en": "Take a local bus from the station to the center of Oiã.",
+            "pt": "Apanhe um autocarro local da estação até ao centro de Oiã."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Cluster Zentrum: Kulturhaus von Oiã",
             "hu": "Központi Klaszter: Oiã Kultúrház",
             "ro": "Cluster Centru: Casa de Cultură din Oiã",
-            "en": "Center Cluster: House of Culture of Oiã"
+            "en": "Center Cluster: House of Culture of Oiã",
+            "pt": "Conjunto Central: Casa da Cultura de Oiã"
           },
           "coords": [
             -8.628,
@@ -1741,7 +1885,8 @@
             "de": "Entdecken Sie diesen kulturellen Ort, der nur einen kurzen Spaziergang entfernt ist.",
             "hu": "Fedezze fel ezt a kulturális helyszínt egy rövid sétára.",
             "ro": "Explorați acest loc cultural la o scurtă plimbare distanță.",
-            "en": "Explore this cultural spot, just a short walk away."
+            "en": "Explore this cultural spot, just a short walk away.",
+            "pt": "Explore este ponto cultural, a uma curta caminhada."
           }
         },
         {
@@ -1749,7 +1894,8 @@
             "de": "Cluster Zentrum: Park am Rio Levira",
             "hu": "Központi Klaszter: Rio Levira Park",
             "ro": "Cluster Centru: Parcul Râului Levira",
-            "en": "Center Cluster: Levira River Park"
+            "en": "Center Cluster: Levira River Park",
+            "pt": "Conjunto Central: Parque do Rio Levira"
           },
           "coords": [
             -8.6215,
@@ -1765,7 +1911,8 @@
             "de": "Machen Sie einen längeren Spaziergang zum Park für Ihre Mittagspause.",
             "hu": "Tegyen egy hosszabb sétát a parkba az ebédszünetre.",
             "ro": "Faceți o plimbare mai lungă până la parc pentru pauza de prânz.",
-            "en": "Take a longer walk to the park for your lunch break."
+            "en": "Take a longer walk to the park for your lunch break.",
+            "pt": "Faça uma caminhada mais longa até ao parque para a sua pausa de almoço."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Zurück zum Bahnhof",
             "hu": "Vissza a vasútállomásra",
             "ro": "Înapoi la gară",
-            "en": "Return to Train Station"
+            "en": "Return to Train Station",
+            "pt": "Regresso à Estação"
           },
           "coords": [
             -8.635,
@@ -1789,7 +1937,8 @@
             "de": "Nehmen Sie einen Bus zurück zum Bahnhof für Ihre Abreise.",
             "hu": "Menjen busszal vissza az állomásra az induláshoz.",
             "ro": "Luați un autobuz înapoi la gară pentru plecare.",
-            "en": "Take a bus back to the station for your departure."
+            "en": "Take a bus back to the station for your departure.",
+            "pt": "Apanhe um autocarro de regresso à estação para a sua partida."
           }
         }
       ],
@@ -1797,7 +1946,8 @@
         "de": "Ihre Reise mit öffentlichen Verkehrsmitteln beginnt am Bahnhof von Oiã. Ein kurzer Bus-Hop bringt Sie ins Herz der Stadt, wo Sie den Vormittag damit verbringen, die Hauptkirche und das Kulturhaus zu Fuß zu erkunden. Ein Spaziergang führt Sie mittags zum Park am Rio Levira für eine wohlverdiente Pause. Der Nachmittag beinhaltet die Rückfahrt mit dem Bus zum Bahnhofscluster, wo Sie die letzten Momente damit verbringen, die industrielle Vergangenheit der Stadt zu betrachten. Dieser Plan ist ideal für diejenigen, die die wichtigsten Sehenswürdigkeiten ohne Auto erleben möchten.",
         "hu": "Tömegközlekedési utazása az oiã-i vasútállomáson kezdődik. Egy rövid buszozás a város szívébe viszi, ahol a délelőttöt a Főtemplom és a Kultúrház gyalogos felfedezésével tölti. Ebédidőben egy séta vezet a Rio Levira parkba egy jól megérdemelt pihenőre. A délután magában foglalja a buszos visszautat az állomás környékére, ahol az utolsó pillanatokat a város ipari múltjának szemlélésével töltheti. Ez a terv ideális azok számára, akik autó nélkül szeretnék megtapasztalni a főbb látnivalókat.",
         "ro": "Călătoria dvs. cu transportul public începe la gara din Oiã. Un scurt drum cu autobuzul vă duce în inima orașului, unde vă veți petrece dimineața explorând Biserica Matrice și Casa de Cultură pe jos. O plimbare vă duce la Parcul Râului Levira la prânz pentru o pauză binemeritată. După-amiaza implică luarea unui autobuz înapoi în zona gării, unde vă veți petrece ultimele momente contemplând trecutul industrial al orașului. Acest plan este ideal pentru cei care doresc să experimenteze principalele atracții fără mașină.",
-        "en": "Your journey by public transit begins at Oiã's train station. A short bus hop takes you to the heart of town, where you'll spend the morning exploring the Main Church and House of Culture on foot. A walk leads you to the Levira River Park for a well-deserved break at midday. The afternoon involves taking a bus back to the station cluster, where you'll spend the final moments contemplating the town's industrial past. This plan is ideal for those wanting to experience the main sights without a car."
+        "en": "Your journey by public transit begins at Oiã's train station. A short bus hop takes you to the heart of town, where you'll spend the morning exploring the Main Church and House of Culture on foot. A walk leads you to the Levira River Park for a well-deserved break at midday. The afternoon involves taking a bus back to the station cluster, where you'll spend the final moments contemplating the town's industrial past. This plan is ideal for those wanting to experience the main sights without a car.",
+        "pt": "A sua viagem em transporte público começa na Estação Ferroviária de Oiã. Um curto trajeto de autocarro leva‑o ao coração da vila, onde passará a manhã a explorar a Igreja Matriz e a Casa da Cultura a pé. Uma caminhada conduz ao Parque do Rio Levira para uma merecida pausa ao meio‑dia. A tarde envolve apanhar um autocarro de volta ao conjunto da estação, onde passará os últimos momentos a contemplar o passado industrial da vila. Este plano é ideal para quem quer conhecer os principais pontos sem carro."
       },
       "gastro_picks": {
         "de": [
@@ -1993,6 +2143,12 @@
           "Purchase a day pass if it's more cost-effective for your route.",
           "Be aware that bus services might be less frequent on weekends.",
           "Have small change ready for bus tickets bought on board."
+        ],
+        "pt": [
+          "Verifique horários de autocarros e comboios com antecedência.",
+          "Compre um passe diário se for mais económico para o seu percurso.",
+          "Tenha em atenção que os serviços de autocarro podem ser menos frequentes ao fim de semana.",
+          "Tenha troco para bilhetes comprados a bordo do autocarro."
         ]
       },
       "variants": {
@@ -2001,7 +2157,8 @@
             "de": "Ihre Ankunft am Bahnhof Oiã wird vom Rauschen des Regens begleitet; nutzen Sie die Wartebereiche zur Orientierung. Ein kurzer Sprint bringt Sie zur Hauptkirche, wo Sie den ersten Stopp im Trockenen genießen.\n\nMittags ist das Kulturhaus Ihr Hauptquartier gegen das schlechte Wetter. Hier können Sie Kultur genießen und auf die nächste Verbindung warten. Die Wege im Dorf sind kurz, aber ein Schirm ist unerlässlich.\n\nNachmittags führt der Weg zum Levira River Park. Suchen Sie Schutz unter den Bäumen oder Pavillons, während Sie das Spiel des Regens auf dem Fluss beobachten.\n\nDer Tag endet mit der Rückkehr zum Bahnhof. Die beleuchtete Station wirkt im Regen besonders einladend, während Sie auf Ihren Zug warten und die Eindrücke von Oiã Revue passieren lassen.",
             "hu": "Érkezését az oiã-i vasútállomásra az eső zúgása kíséri; használja a várótermeket a tájékozódáshoz. Egy rövid sprint a főtemplomig, és már szárazon élvezheti az első megállót.\n\nDélben a Művelődési Ház lesz a főhadiszállása a rossz idő ellen. Itt elmerülhet a kultúrában, amíg a következő csatlakozásra vár. A faluban a távolságok kicsik, de az esernyő nélkülözhetetlen.\n\nDélután a Levira folyóparti park következik. Keressen menedéket a fák vagy pavilonok alatt, és figyelje az eső játékát a folyón.\n\nA nap az állomásra való visszatéréssel zárul. A kivilágított vasútállomás az esőben különösen hívogató, miközben a vonatra várva felidézi oiã-i élményeit.",
             "ro": "Sosirea la Gara Oiã este însoțită de sunetul ploii; folosiți sălile de așteptare pentru orientare. Un sprint scurt vă duce la biserica principală, unde vă puteți bucura de prima oprire la uscat.\n\nLa prânz, Casa de Cultură este cartierul general împotriva vremii rele. Aici puteți savura cultura în timp ce așteptați următoarea legătură. Distanțele în sat sunt mici, dar umbrela este indispensabilă.\n\nDupă-amiaza drumul duce spre Parcul Levira. Căutați adăpost sub copaci sau pavilioane în timp ce observați ploaia pe râu.\n\nZiua se încheie cu întoarcerea la gară. Stația iluminată pare primitoare prin ploaie, în timp ce așteptați trenul și vă amintiți de momentele petrecute în Oiã.",
-            "en": "Your arrival at Oiã Train Station is accompanied by the sound of rain; use the waiting areas to get your bearings. A quick dash brings you to the Main Church, where you can enjoy your first stop in the dry.\n\nAt noon, the House of Culture becomes your headquarters against the bad weather. Here you can soak in local culture while waiting for your next connection. Distances in the village are short, but an umbrella is essential.\n\nIn the afternoon, head to Levira River Park. Seek shelter under trees or pavilions while watching the rain fall on the river.\n\nYour day concludes with a return to the station. The illuminated platform looks especially inviting in the rain as you wait for your train and reflect on your time in Oiã."
+            "en": "Your arrival at Oiã Train Station is accompanied by the sound of rain; use the waiting areas to get your bearings. A quick dash brings you to the Main Church, where you can enjoy your first stop in the dry.\n\nAt noon, the House of Culture becomes your headquarters against the bad weather. Here you can soak in local culture while waiting for your next connection. Distances in the village are short, but an umbrella is essential.\n\nIn the afternoon, head to Levira River Park. Seek shelter under trees or pavilions while watching the rain fall on the river.\n\nYour day concludes with a return to the station. The illuminated platform looks especially inviting in the rain as you wait for your train and reflect on your time in Oiã.",
+            "pt": "A sua chegada à Estação Ferroviária de Oiã é acompanhada pelo som da chuva; use as salas de espera para se orientar. Uma rápida corrida leva‑o à Igreja Matriz, onde pode desfrutar da primeira paragem em seco.\n\nAo meio‑dia, a Casa da Cultura torna‑se a sua base contra o mau tempo. Aqui pode absorver a cultura local enquanto espera pela próxima ligação. As distâncias na vila são curtas, mas um guarda‑chuva é essencial.\n\nÀ tarde, dirija‑se ao Parque do Rio Levira. Procure abrigo debaixo de árvores ou pavilhões enquanto observa a chuva sobre o rio.\n\nO dia conclui‑se com o regresso à estação. A plataforma iluminada fica especialmente acolhedora na chuva enquanto espera pelo comboio e reflete sobre o seu tempo em Oiã."
           },
           "stops": [
             {
@@ -2010,7 +2167,8 @@
                 "de": "Wartehalle zum Unterstellen nutzen.",
                 "hu": "Használja a várótermet behúzódásra.",
                 "ro": "Folosiți sala de așteptare pentru adăpost.",
-                "en": "Use the waiting hall to stay dry."
+                "en": "Use the waiting hall to stay dry.",
+                "pt": "Use a sala de espera para se manter seco."
               }
             },
             {
@@ -2019,7 +2177,8 @@
                 "de": "Kurzer Fußweg vom Bahnhof, Schirm bereit halten.",
                 "hu": "Rövid séta az állomástól, tartsa készenlétben az esernyőt.",
                 "ro": "Drum scurt de la gară, țineți umbrela pregătită.",
-                "en": "Short walk from the station, keep your umbrella ready."
+                "en": "Short walk from the station, keep your umbrella ready.",
+                "pt": "Curta caminhada desde a estação, mantenha o guarda‑chuva pronto."
               }
             },
             {
@@ -2028,7 +2187,8 @@
                 "de": "Bester Ort für eine längere Aufenthaltsdauer.",
                 "hu": "A legjobb hely egy hosszabb tartózkodásra.",
                 "ro": "Cel mai bun loc pentru o ședere mai lungă.",
-                "en": "Best spot for a longer stay during rain."
+                "en": "Best spot for a longer stay during rain.",
+                "pt": "Melhor local para uma estadia mais longa durante chuva."
               }
             },
             {
@@ -2037,7 +2197,8 @@
                 "de": "Feste Wege nutzen, um nasse Füße zu vermeiden.",
                 "hu": "Használja a kiépített utakat a vizes lábak elkerülésére.",
                 "ro": "Folosiți aleile amenajate pentru a evita noroiul.",
-                "en": "Stick to paved paths to keep your feet dry."
+                "en": "Stick to paved paths to keep your feet dry.",
+                "pt": "Mantenha‑se em caminhos alcatroados para manter os pés secos."
               }
             },
             {
@@ -2046,7 +2207,8 @@
                 "de": "Pünktlich zurückkehren, Station bietet Schutz.",
                 "hu": "Térjen vissza időben, az állomás védelmet nyújt.",
                 "ro": "Reveniți la timp, gara oferă adăpost.",
-                "en": "Return on time, the station provides good cover."
+                "en": "Return on time, the station provides good cover.",
+                "pt": "Regresse a tempo, a estação oferece boa cobertura."
               }
             }
           ],
@@ -2074,6 +2236,12 @@
               "The train station has covered areas for waiting.",
               "A small, sturdy umbrella is a travel essential.",
               "Avoid waiting under tall trees in the park during storms."
+            ],
+            "pt": [
+              "Verifique horários de comboios por atrasos em caso de chuva forte.",
+              "A estação tem áreas cobertas para espera.",
+              "Um guarda‑chuva pequeno e resistente é essencial de viagem.",
+              "Evite esperar sob árvores altas no parque durante tempestades."
             ]
           }
         },
@@ -2082,7 +2250,8 @@
             "de": "Ein klarer Wintermorgen empfängt Sie am Bahnhof Oiã. Die kühle Luft ist belebend, wenn Sie den kurzen Weg zur Hauptkirche antreten. Die tiefe Wintersonne lässt die historischen Gebäude in einem besonderen Licht erscheinen.\n\nMittags bietet das Kulturhaus eine willkommene Wärme und interessante Einblicke in die Region. Die Nähe zum Ortszentrum macht den Transit unkompliziert und angenehm.\n\nNachmittags erkunden Sie den Levira River Park, wo die winterliche Stille nur vom fernen Rauschen der Züge unterbrochen wird. Die klare Sicht ermöglicht weite Blicke über das Flussufer.\n\nDer Tag endet früh mit der Rückkehr zum Bahnhof. Wenn es draußen dunkler und kälter wird, bietet das Bahnhofsviertel eine sichere und gut beleuchtete Umgebung für Ihre Abreise.",
             "hu": "Tiszta téli reggel fogadja az oiã-i vasútállomáson. A hűvös levegő élénkítő, ahogy megteszi a rövid utat a főtemplomig. Az alacsony téli napfényben a történelmi épületek különleges fényben tündökölnek.\n\nDélben a Művelődési Ház szívesen látott meleget és érdekes helyi betekintést nyújt. A falu központjának közelsége egyszerűvé és kellemessé teszi a közlekedést.\n\nDélután a Levira folyóparti parkot fedezi fel, ahol a téli csendet csak a távoli vonatok robogása töri meg. A tiszta időben messzire ellátni a folyópart mentén.\n\nA nap korán ér véget az állomásra való visszatéréssel. Ahogy odakint sötétedik és hűl az idő, az állomás környéke biztonságos és jól kivilágított környezetet nyújt az induláshoz.",
             "ro": "O dimineață senină de iarnă vă întâmpină la Gara Oiã. Aerul rece este revigorant în timp ce parcurgeți drumul scurt spre biserica principală. Soarele jos de iarnă face ca clădirile istorice să apară într-o lumină specială.\n\nLa prânz, Casa de Cultură oferă o căldură binevenită și informații interesante despre regiune. Proximitatea față de centrul satului face tranzitul simplu și plăcut.\n\nDupă-amiaza explorați Parcul Levira, unde liniștea iernii este întreruptă doar de vuietul îndepărtat al trenurilor. Vizibilitatea clară permite vederi largi de-a lungul malului.\n\nZiua se încheie devreme cu întoarcerea la gară. Pe măsură ce se întunecă și se face mai frig, zona gării oferă un mediu sigur și bine iluminat pentru plecare.",
-            "en": "A clear winter morning greets you at Oiã Train Station. The cool air is invigorating as you take the short walk to the Main Church. The low winter sun makes the historic buildings stand out in a unique light.\n\nAt noon, the House of Culture provides welcome warmth and interesting regional insights. Its proximity to the village center makes transit easy and pleasant.\n\nIn the afternoon, explore Levira River Park, where the winter silence is only broken by the distant sound of trains. The clear conditions allow for expansive views along the riverbank.\n\nYour day ends early with a return to the station. As it grows darker and colder outside, the station area provides a safe and well-lit environment for your departure."
+            "en": "A clear winter morning greets you at Oiã Train Station. The cool air is invigorating as you take the short walk to the Main Church. The low winter sun makes the historic buildings stand out in a unique light.\n\nAt noon, the House of Culture provides welcome warmth and interesting regional insights. Its proximity to the village center makes transit easy and pleasant.\n\nIn the afternoon, explore Levira River Park, where the winter silence is only broken by the distant sound of trains. The clear conditions allow for expansive views along the riverbank.\n\nYour day ends early with a return to the station. As it grows darker and colder outside, the station area provides a safe and well-lit environment for your departure.",
+            "pt": "Uma manhã clara de inverno saudá‑lo na Estação Ferroviária de Oiã. O ar fresco revigora enquanto faz a curta caminhada até à Igreja Matriz. O sol baixo de inverno destaca os edifícios históricos numa luz única.\n\nAo meio‑dia, a Casa da Cultura oferece calor e interessantes perspetivas regionais. A sua proximidade ao centro torna o trânsito fácil e agradável.\n\nÀ tarde, explore o Parque do Rio Levira, onde o silêncio invernal só é quebrado pelo som distante dos comboios. As condições claras permitem vistas amplas ao longo da margem do rio.\n\nO dia termina cedo com o regresso à estação. À medida que escurece e arrefece, a zona da estação oferece um ambiente seguro e bem iluminado para a sua partida."
           },
           "stops": [
             {
@@ -2091,7 +2260,8 @@
                 "de": "Die Wartehalle ist im Winter beheizt.",
                 "hu": "A váróterem télen fűtött.",
                 "ro": "Sala de așteptare este încălzită iarna.",
-                "en": "The waiting hall is heated during winter."
+                "en": "The waiting hall is heated during winter.",
+                "pt": "A sala de espera é aquecida durante o inverno."
               }
             },
             {
@@ -2100,7 +2270,8 @@
                 "de": "Nutzen Sie die Sonnenstunden am Vormittag.",
                 "hu": "Használja ki a délelőtti napsütéses órákat.",
                 "ro": "Profită de orele însorite de dimineață.",
-                "en": "Make the most of the sunny morning hours."
+                "en": "Make the most of the sunny morning hours.",
+                "pt": "Aproveite ao máximo as horas de manhã soalheira."
               }
             },
             {
@@ -2109,7 +2280,8 @@
                 "de": "Angenehmer Aufenthalt zum Aufwärmen.",
                 "hu": "Kellemes helyszín a melegedéshez.",
                 "ro": "Loc plăcut pentru a vă încălzi.",
-                "en": "A pleasant place to warm up inside."
+                "en": "A pleasant place to warm up inside.",
+                "pt": "Um local agradável para aquecer no interior."
               }
             },
             {
@@ -2118,7 +2290,8 @@
                 "de": "Die Sonne verschwindet hier am Nachmittag zuerst.",
                 "hu": "Itt tűnik el délután legelőször a nap.",
                 "ro": "Soarele dispare cel mai devreme aici după-amiaza.",
-                "en": "The sun disappears from here first in the afternoon."
+                "en": "The sun disappears from here first in the afternoon.",
+                "pt": "O sol desaparece daqui primeiro à tarde."
               }
             },
             {
@@ -2127,7 +2300,8 @@
                 "de": "Station ist gut beleuchtet bei früher Dunkelheit.",
                 "hu": "Az állomás jól kivilágított a korai sötétben.",
                 "ro": "Gara este bine iluminată la amurgul timpuriu.",
-                "en": "The station is well-lit during early darkness."
+                "en": "The station is well-lit during early darkness.",
+                "pt": "A estação é bem iluminada durante o início da noite."
               }
             }
           ],
@@ -2155,6 +2329,12 @@
               "Trains run according to the regular winter schedule.",
               "Use the indoor areas of the sights for breaks.",
               "Keep an eye on the time as it gets much colder after 17:00."
+            ],
+            "pt": [
+              "Use roupa quente para esperar na plataforma.",
+              "Os comboios funcionam segundo o horário regular de inverno.",
+              "Faça pausas nas áreas interiores dos pontos de interesse.",
+              "Tenha atenção ao tempo, pois fica muito mais frio após as 17:00."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Kirche von São Cosme",
             "hu": "São Cosme-templom",
             "ro": "Biserica São Cosme",
-            "en": "Church of São Cosme"
+            "en": "Church of São Cosme",
+            "pt": "Igreja de São Cosme"
           },
           "coords": [
             -8.5358,
@@ -37,7 +38,8 @@
             "de": "Beachten Sie die barocken Details und die vergoldeten Holzarbeiten im Inneren.",
             "hu": "Figyelje meg a barokk részleteket és a belső aranyozott fafaragásokat.",
             "ro": "Observați detaliile baroce și lemnăria aurită din interior.",
-            "en": "Notice the baroque details and the gilded woodwork inside."
+            "en": "Notice the baroque details and the gilded woodwork inside.",
+            "pt": "Repare nos pormenores barrocos e nos talhos dourados no interior."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Stadtmuseum von Gondomar",
             "hu": "Gondomari Városi Múzeum",
             "ro": "Muzeul Municipal din Gondomar",
-            "en": "Gondomar Municipal Museum"
+            "en": "Gondomar Municipal Museum",
+            "pt": "Museu Municipal de Gondomar"
           },
           "coords": [
             -8.5375,
@@ -61,7 +64,8 @@
             "de": "Das Museum befindet sich in einem alten Schulgebäude. Die Ausstellungen sind sehr lokal.",
             "hu": "A múzeum egy régi iskolaépületben található. A kiállítások nagyon helyi jellegűek.",
             "ro": "Muzeul este găzduit într-o veche clădire școlară. Expozițiile sunt foarte locale.",
-            "en": "The museum is housed in an old school building. The exhibitions are very local."
+            "en": "The museum is housed in an old school building. The exhibitions are very local.",
+            "pt": "O museu funciona num antigo edifício escolar. As exposições são muito locais."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Filigran-Route",
             "hu": "Filigrán Útvonal",
             "ro": "Ruta Filigranului",
-            "en": "Filigree Route"
+            "en": "Filigree Route",
+            "pt": "Rota da Filigrana"
           },
           "coords": [
             -8.539,
@@ -85,7 +90,8 @@
             "de": "Besuchen Sie eine der Werkstätten, um die Handwerker bei der Arbeit zu sehen.",
             "hu": "Látogasson el egy műhelybe, hogy megnézze a kézműveseket munka közben.",
             "ro": "Vizitați unul dintre ateliere pentru a vedea artizanii la lucru.",
-            "en": "Visit one of the workshops to see the artisans at work."
+            "en": "Visit one of the workshops to see the artisans at work.",
+            "pt": "Visite uma das oficinas para ver os artesãos a trabalhar."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Casa Branca de Gramido",
             "hu": "Casa Branca de Gramido",
             "ro": "Casa Branca de Gramido",
-            "en": "Casa Branca de Gramido"
+            "en": "Casa Branca de Gramido",
+            "pt": "Casa Branca de Gramido"
           },
           "coords": [
             -8.5511,
@@ -109,7 +116,8 @@
             "de": "Hier wurde 1847 ein wichtiges Friedensabkommen unterzeichnet. Der Blick auf den Douro ist fantastisch.",
             "hu": "Itt írtak alá egy fontos békeszerződést 1847-ben. A Douro-folyóra nyíló kilátás fantasztikus.",
             "ro": "Un tratat de pace important a fost semnat aici în 1847. Priveliștea spre Douro este fantastică.",
-            "en": "An important peace treaty was signed here in 1847. The view of the Douro is fantastic."
+            "en": "An important peace treaty was signed here in 1847. The view of the Douro is fantastic.",
+            "pt": "Um importante tratado de paz foi assinado aqui em 1847. A vista sobre o Douro é fantástica."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Promenade am Rio Douro",
             "hu": "Douro-folyó sétány",
             "ro": "Promenada Rio Douro",
-            "en": "Rio Douro Promenade"
+            "en": "Rio Douro Promenade",
+            "pt": "Marginal do Rio Douro"
           },
           "coords": [
             -8.5525,
@@ -133,7 +142,8 @@
             "de": "Ideal für einen entspannten Spaziergang am Nachmittag. Halten Sie für einen Kaffee an.",
             "hu": "Ideális egy pihentető délutáni sétához. Álljon meg egy kávéra.",
             "ro": "Ideal pentru o plimbare relaxantă de după-amiază. Opriți-vă pentru o cafea.",
-            "en": "Ideal for a relaxing afternoon walk. Stop for a coffee."
+            "en": "Ideal for a relaxing afternoon walk. Stop for a coffee.",
+            "pt": "Ideal para uma caminhada relaxante à tarde. Pare para um café."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Monte do Crasto",
             "hu": "Monte do Crasto",
             "ro": "Monte do Crasto",
-            "en": "Monte do Crasto"
+            "en": "Monte do Crasto",
+            "pt": "Monte do Crasto"
           },
           "coords": [
             -8.525,
@@ -157,7 +168,8 @@
             "de": "Der beste Ort für einen Panoramablick über Gondomar und den Fluss.",
             "hu": "A legjobb hely a panorámás kilátáshoz Gondomarra és a folyóra.",
             "ro": "Cel mai bun loc pentru o vedere panoramică asupra Gondomarului și a râului.",
-            "en": "The best spot for a panoramic view over Gondomar and the river."
+            "en": "The best spot for a panoramic view over Gondomar and the river.",
+            "pt": "O melhor local para uma vista panorâmica sobre Gondomar e o rio."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Gondomar beginnt im historischen Herzen mit der Kirche São Cosme. Am Vormittag tauchen Sie im Stadtmuseum und in den Filigranwerkstätten in die lokale Kultur ein. Nach dem Mittagessen führt Sie ein Spaziergang zum Flussufer, wo die Casa Branca de Gramido und die Douro-Promenade auf Sie warten. Der Tag endet mit einem atemberaubenden Panoramablick vom Monte do Crasto.",
         "hu": "Gondomari napja a történelmi szívben, a São Cosme-templomnál kezdődik. A délelőtt a helyi kultúrába való elmerüléssel telik a Városi Múzeumban és a filigrán műhelyekben. Ebéd után a séta a folyóparthoz vezet, ahol a Casa Branca de Gramido és a Douro sétány várja. A nap a Monte do Crasto lélegzetelállító panorámájával zárul.",
         "ro": "Ziua dvs. în Gondomar începe în inima istorică la Biserica São Cosme. Dimineața este dedicată imersiunii în cultura locală la Muzeul Municipal și atelierele de filigran. După prânz, o plimbare vă duce pe malul râului, unde vă așteaptă Casa Branca de Gramido și promenada Douro. Ziua se încheie cu o vedere panoramică uluitoare de pe Monte do Crasto.",
-        "en": "Your day in Gondomar begins in the historic heart at the Church of São Cosme. The morning is for immersing in local culture at the Municipal Museum and the filigree workshops. After lunch, a walk takes you to the riverfront, where the Casa Branca de Gramido and the Douro promenade await. The day concludes with a breathtaking panoramic view from Monte do Crasto."
+        "en": "Your day in Gondomar begins in the historic heart at the Church of São Cosme. The morning is for immersing in local culture at the Municipal Museum and the filigree workshops. After lunch, a walk takes you to the riverfront, where the Casa Branca de Gramido and the Douro promenade await. The day concludes with a breathtaking panoramic view from Monte do Crasto.",
+        "pt": "O seu dia em Gondomar começa no coração histórico na Igreja de São Cosme. A manhã serve para se imergir na cultura local no Museu Municipal e nas oficinas de filigrana. Após o almoço, uma caminhada leva-o à frente-rio, onde a Casa Branca de Gramido e a marginal do Douro aguardam. O dia termina com uma vista panorâmica de cortar a respiração desde o Monte do Crasto."
       },
       "gastro_picks": {
         "de": [
@@ -305,6 +318,11 @@
           "Wear comfortable shoes as the city center has some hills.",
           "Most shops close for lunch, so plan accordingly.",
           "Look for small cafes ('pastelarias') for a quick coffee and pastry."
+        ],
+        "pt": [
+          "Use sapatos confortáveis, pois o centro tem algumas colinas.",
+          "A maioria das lojas fecha para almoço, por isso planeie em conformidade.",
+          "Procure pequenas cafetarias ('pastelarias') para um café e pastel rápidos."
         ]
       },
       "variants": {
@@ -313,7 +331,8 @@
             "de": "Beginnen Sie Ihren Morgen in der Kirche São Cosme, einem prachtvollen Rückzugsort vor dem Regen. Danach bietet das Stadtmuseum reichlich Zeit im Trockenen. Am Nachmittag führt die Filigran-Route durch gemütliche Werkstätten. Den Tag beenden Sie am Douro, wo der Nebel über dem Fluss eine mystische Atmosphäre schafft, während Sie unter den Arkaden der Casa Branca Schutz suchen.",
             "hu": "Kezdje a reggelt a São Cosme templomban, amely pompás menedéket nyújt az eső elől. A Városi Múzeum bőséges időt kínál fedett helyen. Délután a Filigrán útvonal hangulatos műhelyei várják. A napot a Douro-parton zárja, ahol a folyó feletti köd misztikus hangulatot áraszt, miközben a Casa Branca árkádjai alatt kereshet oltalmat.",
             "ro": "Începeți dimineața la Biserica São Cosme, un refugiu splendid împotriva ploii. Apoi, Muzeul Municipal oferă suficient timp la adăpost. După-amiaza, Ruta Filigranului vă poartă prin ateliere primitoare. Încheiați ziua pe malul râului Douro, unde ceața de deasupra apei creează o atmosferă mistică, în timp ce căutați adăpost sub arcadele de la Casa Branca.",
-            "en": "Start your morning at the Church of São Cosme, a splendid retreat from the rain. Then, the Municipal Museum offers plenty of time indoors. In the afternoon, the Filigree Route leads through cozy workshops. End the day by the Douro, where the mist over the river creates a mystical atmosphere as you seek shelter under the arches of Casa Branca."
+            "en": "Start your morning at the Church of São Cosme, a splendid retreat from the rain. Then, the Municipal Museum offers plenty of time indoors. In the afternoon, the Filigree Route leads through cozy workshops. End the day by the Douro, where the mist over the river creates a mystical atmosphere as you seek shelter under the arches of Casa Branca.",
+            "pt": "Comece a manhã na Igreja de São Cosme, um esplêndido refúgio da chuva. Depois, o Museu Municipal oferece bastante tempo no interior. À tarde, a Rota da Filigrana conduz por acolhedoras oficinas. Termine o dia junto ao Douro, onde a neblina sobre o rio cria uma atmosfera mística enquanto procura abrigo sob os arcos da Casa Branca."
           },
           "stops": [
             {
@@ -322,7 +341,8 @@
                 "de": "Bewundern Sie die vergoldeten Schnitzereien im Trockenen.",
                 "hu": "Csodálja meg az aranyozott faragványokat a szárazban.",
                 "ro": "Admirați sculpturile aurite stând la adăpost.",
-                "en": "Admire the gilded carvings while staying dry."
+                "en": "Admire the gilded carvings while staying dry.",
+                "pt": "Admire os talhos dourados enquanto se mantém seco."
               }
             },
             {
@@ -331,7 +351,8 @@
                 "de": "Perfekter Ort, um 100 Minuten Regen zu überbrücken.",
                 "hu": "Tökéletes hely 100 percnyi eső átvészelésére.",
                 "ro": "Locul perfect pentru a trece peste 100 de minute de ploaie.",
-                "en": "Perfect place to bridge 100 minutes of rain."
+                "en": "Perfect place to bridge 100 minutes of rain.",
+                "pt": "Local perfeito para esperar 100 minutos de chuva."
               }
             },
             {
@@ -340,7 +361,8 @@
                 "de": "Besuchen Sie die Werkstätten für ein warmes Indoor-Erlebnis.",
                 "hu": "Látogasson el a műhelyekbe egy meleg benti élményért.",
                 "ro": "Vizitați atelierele pentru o experiență caldă la interior.",
-                "en": "Visit the workshops for a warm indoor experience."
+                "en": "Visit the workshops for a warm indoor experience.",
+                "pt": "Visite as oficinas para uma experiência aconchegante no interior."
               }
             },
             {
@@ -349,7 +371,8 @@
                 "de": "Die Galerie bietet Schutz mit Blick auf den Douro.",
                 "hu": "A galéria védelmet nyújt kilátással a Douro-ra.",
                 "ro": "Galeria oferă protecție cu vedere la Douro.",
-                "en": "The gallery offers shelter with a view of the Douro."
+                "en": "The gallery offers shelter with a view of the Douro.",
+                "pt": "A galeria oferece abrigo com vista para o Douro."
               }
             },
             {
@@ -358,7 +381,8 @@
                 "de": "Nutzen Sie einen Regenschirm; der Flussnebel ist sehr fotogen.",
                 "hu": "Használjon esernyőt; a folyami köd nagyon fotogén.",
                 "ro": "Folosiți o umbrelă; ceața de pe râu este foarte fotogenă.",
-                "en": "Use an umbrella; the river mist is very photogenic."
+                "en": "Use an umbrella; the river mist is very photogenic.",
+                "pt": "Use um guarda-chuva; a névoa do rio é muito fotogénica."
               }
             },
             {
@@ -367,7 +391,8 @@
                 "de": "Vorsicht, die Stufen können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a lépcsők nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, treptele pot fi alunecoase când sunt ude.",
-                "en": "Caution, the steps can be slippery when wet."
+                "en": "Caution, the steps can be slippery when wet.",
+                "pt": "Cuidado, os degraus podem ficar escorregadios quando molhados."
               }
             }
           ],
@@ -395,6 +420,12 @@
               "Wear waterproof shoes for the walk along the riverbank.",
               "The filigree workshops are mostly small family businesses and very welcoming.",
               "A large umbrella is better than a compact one due to the wind by the Douro."
+            ],
+            "pt": [
+              "Gondomar tem muitas pequenas cafetarias onde pode aguardar as chuvadas.",
+              "Use calçado impermeável para a caminhada ao longo da margem do rio.",
+              "As oficinas de filigrana são maioritariamente pequenos negócios familiares e muito acolhedoras.",
+              "Um guarda-chuva grande é melhor do que um compacto devido ao vento junto ao Douro."
             ]
           }
         },
@@ -403,7 +434,8 @@
             "de": "Erleben Sie Gondomar im milden Winterlicht. Der Morgen beginnt frisch an der Kirche und im Museum. Mittags genießen Sie die filigrane Handwerkskunst in den beheizten Werkstätten. Der Nachmittag am Douro ist erfrischend, ideal für einen zügigen Spaziergang. Den Sonnenuntergang erleben Sie früh auf dem Monte do Crasto mit einem klaren Blick über die winterliche Landschaft.",
             "hu": "Ismerje meg Gondomart az enyhe téli fényekben. A reggel frissen indul a templomnál és a múzeumnál. Délben élvezze a filigrán kézművességet a fűtött műhelyekben. A délután a Douro-parton frissítő, ideális egy tempós sétához. A naplementét korán élvezheti a Monte do Crasto-n, tiszta kilátással a téli tájra.",
             "ro": "Experimentați Gondomar în lumina blândă a iernii. Dimineața începe proaspăt la biserică și muzeu. La prânz, bucurați-vă de măiestria filigranului în atelierele încălzite. După-amiaza pe Douro este revigorantă, ideală pentru o plimbare rapidă. Experimentați apusul devreme pe Monte do Crasto, cu o vedere clară asupra peisajului de iarnă.",
-            "en": "Experience Gondomar in the mild winter light. The morning starts fresh at the church and museum. At noon, enjoy the filigree craftsmanship in the heated workshops. The afternoon by the Douro is refreshing, ideal for a brisk walk. Experience the sunset early at Monte do Crasto with a clear view over the winter landscape."
+            "en": "Experience Gondomar in the mild winter light. The morning starts fresh at the church and museum. At noon, enjoy the filigree craftsmanship in the heated workshops. The afternoon by the Douro is refreshing, ideal for a brisk walk. Experience the sunset early at Monte do Crasto with a clear view over the winter landscape.",
+            "pt": "Experiencie Gondomar na suave luz de inverno. A manhã começa fresca na igreja e no museu. Ao meio-dia, admire a filigrana nas oficinas aquecidas. A tarde junto ao Douro é revigorante, ideal para uma caminhada rápida. Veja o pôr do sol cedo no Monte do Crasto com uma vista límpida sobre a paisagem invernal."
           },
           "stops": [
             {
@@ -412,7 +444,8 @@
                 "de": "Genießen Sie die Ruhe in der kühlen, aber windgeschützten Kirche.",
                 "hu": "Élvezze a nyugalmat a hűvös, de szélvédett templomban.",
                 "ro": "Bucurați-vă de liniște în biserica răcoroasă, dar ferită de vânt.",
-                "en": "Enjoy the tranquility in the cool but sheltered church."
+                "en": "Enjoy the tranquility in the cool but sheltered church.",
+                "pt": "Desfrute da tranquilidade na igreja fresca mas abrigada."
               }
             },
             {
@@ -421,7 +454,8 @@
                 "de": "Die beheizten Ausstellungsräume sind im Winter ideal.",
                 "hu": "A fűtött kiállítóterek télen ideálisak.",
                 "ro": "Sălile de expoziție încălzite sunt ideale iarna.",
-                "en": "The heated exhibition rooms are ideal in winter."
+                "en": "The heated exhibition rooms are ideal in winter.",
+                "pt": "As salas de exposição aquecidas são ideais no inverno."
               }
             },
             {
@@ -430,7 +464,8 @@
                 "de": "Perfekt, um sich bei den Handwerkern aufzuwärmen.",
                 "hu": "Tökéletes hely a felmelegedésre a kézműveseknél.",
                 "ro": "Perfect pentru a vă încălzi la meșteșugari.",
-                "en": "Perfect to warm up with the craftsmen."
+                "en": "Perfect to warm up with the craftsmen.",
+                "pt": "Perfeito para aquecer com os artesãos."
               }
             },
             {
@@ -439,7 +474,8 @@
                 "de": "Trinken Sie einen heißen Tee im nahegelegenen Café.",
                 "hu": "Igyon egy forró teát a közeli kávézóban.",
                 "ro": "Beți un ceai fierbinte la cafeneaua din apropiere.",
-                "en": "Have a hot tea at the nearby cafe."
+                "en": "Have a hot tea at the nearby cafe.",
+                "pt": "Tome um chá quente na cafetaria próxima."
               }
             },
             {
@@ -448,7 +484,8 @@
                 "de": "Kleiden Sie sich im Zwiebelprinzip gegen den kühlen Flusswind.",
                 "hu": "Öltözködjön rétegesen a hűvös folyami szél ellen.",
                 "ro": "Îmbrăcați-vă în straturi împotriva vântului rece de pe râu.",
-                "en": "Dress in layers against the cool river wind."
+                "en": "Dress in layers against the cool river wind.",
+                "pt": "Vesta-se em camadas contra o vento fresco do rio."
               }
             },
             {
@@ -457,7 +494,8 @@
                 "de": "Kommen Sie vor 17:00 Uhr für den besten Sonnenuntergang.",
                 "hu": "Érkezzen 17:00 előtt a legjobb naplementéhez.",
                 "ro": "Sosiți înainte de ora 17:00 pentru cel mai bun apus.",
-                "en": "Arrive before 5:00 PM for the best sunset."
+                "en": "Arrive before 5:00 PM for the best sunset.",
+                "pt": "Chegue antes das 17:00 para o melhor pôr do sol."
               }
             }
           ],
@@ -485,6 +523,12 @@
               "Temperatures are mild, but high humidity can make it feel chilly.",
               "Sunset is around 5:15 PM, plan your route to the viewpoint accordingly.",
               "Many cafes offer traditional Portuguese pastries in winter."
+            ],
+            "pt": [
+              "O sol de inverno está baixo e reflecte-se lindamente no Douro.",
+              "As temperaturas são amenas, mas a humidade elevada pode fazer sentir frio.",
+              "O pôr do sol é por volta das 17:15, planeie a sua rota até ao miradouro em conformidade.",
+              "Muitas cafetarias oferecem doces tradicionais portugueses no inverno."
             ]
           }
         }
@@ -503,7 +547,8 @@
             "de": "Stadtzentrum Gondomar",
             "hu": "Gondomar városközpont",
             "ro": "Centrul orașului Gondomar",
-            "en": "Gondomar Town Center"
+            "en": "Gondomar Town Center",
+            "pt": "Centro da Vila de Gondomar"
           },
           "coords": [
             -8.5361,
@@ -519,7 +564,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem Kaffee auf dem Hauptplatz.",
             "hu": "Kezdje a napot egy kávéval a főtéren.",
             "ro": "Începeți ziua cu o cafea în piața principală.",
-            "en": "Start your day with a coffee in the main square."
+            "en": "Start your day with a coffee in the main square.",
+            "pt": "Comece o dia com um café na praça principal."
           }
         },
         {
@@ -527,7 +573,8 @@
             "de": "Filigran-Route",
             "hu": "Filigrán Útvonal",
             "ro": "Ruta Filigranului",
-            "en": "Filigree Route"
+            "en": "Filigree Route",
+            "pt": "Rota da Filigrana"
           },
           "coords": [
             -8.539,
@@ -543,7 +590,8 @@
             "de": "Einige Werkstätten liegen verstreut, perfekt für eine Erkundung mit dem Fahrrad.",
             "hu": "Néhány műhely szétszórva található, tökéletes a biciklis felfedezéshez.",
             "ro": "Unele ateliere sunt dispersate, perfecte pentru a fi explorate cu bicicleta.",
-            "en": "Some workshops are scattered, perfect for exploring by bike."
+            "en": "Some workshops are scattered, perfect for exploring by bike.",
+            "pt": "Algumas oficinas estão espalhadas, perfeitas para explorar de bicicleta."
           }
         },
         {
@@ -551,7 +599,8 @@
             "de": "Casa Branca de Gramido",
             "hu": "Casa Branca de Gramido",
             "ro": "Casa Branca de Gramido",
-            "en": "Casa Branca de Gramido"
+            "en": "Casa Branca de Gramido",
+            "pt": "Casa Branca de Gramido"
           },
           "coords": [
             -8.5511,
@@ -567,7 +616,8 @@
             "de": "Eine schöne Fahrt bergab zum Fluss. Sichern Sie Ihr Fahrrad gut, während Sie es besichtigen.",
             "hu": "Szép út lefelé a folyóhoz. Jól zárja le a biciklijét a látogatás alatt.",
             "ro": "O coborâre frumoasă spre râu. Asigurați-vă bine bicicleta în timp ce vizitați.",
-            "en": "A nice ride downhill to the river. Lock your bike securely while you visit."
+            "en": "A nice ride downhill to the river. Lock your bike securely while you visit.",
+            "pt": "Um agradável passeio a descer até ao rio. Tranque bem a sua bicicleta enquanto visita."
           }
         },
         {
@@ -575,7 +625,8 @@
             "de": "Promenade am Rio Douro",
             "hu": "Douro-folyó sétány",
             "ro": "Promenada Rio Douro",
-            "en": "Rio Douro Promenade"
+            "en": "Rio Douro Promenade",
+            "pt": "Marginal do Rio Douro"
           },
           "coords": [
             -8.57,
@@ -591,7 +642,8 @@
             "de": "Perfekt für eine lange, flache Radtour. Viele Cafés für eine Mittagspause.",
             "hu": "Tökéletes egy hosszú, sík biciklitúrához. Számos kávézó egy ebédszünethez.",
             "ro": "Perfect pentru o plimbare lungă și plată cu bicicleta. Multe cafenele pentru o pauză de prânz.",
-            "en": "Perfect for a long, flat ride. Plenty of cafes for a lunch break."
+            "en": "Perfect for a long, flat ride. Plenty of cafes for a lunch break.",
+            "pt": "Perfeita para um passeio longo e plano. Muitas cafetarias para uma pausa para almoço."
           }
         },
         {
@@ -599,7 +651,8 @@
             "de": "Monte do Crasto",
             "hu": "Monte do Crasto",
             "ro": "Monte do Crasto",
-            "en": "Monte do Crasto"
+            "en": "Monte do Crasto",
+            "pt": "Monte do Crasto"
           },
           "coords": [
             -8.525,
@@ -615,7 +668,8 @@
             "de": "Der letzte Anstieg ist eine Herausforderung, aber die Aussicht ist es wert!",
             "hu": "Az utolsó emelkedő kihívást jelent, de a kilátás megéri!",
             "ro": "Urcarea finală este o provocare, dar priveliștea merită!",
-            "en": "The final climb is a challenge, but the view is worth it!"
+            "en": "The final climb is a challenge, but the view is worth it!",
+            "pt": "A subida final é um desafio, mas a vista vale a pena!"
           }
         }
       ],
@@ -623,7 +677,8 @@
         "de": "Starten Sie Ihre Radtour im Zentrum von Gondomar und radeln Sie dann entlang der Filigran-Route, um das Handwerk der Stadt zu entdecken. Eine malerische Abfahrt bringt Sie zur Casa Branca de Gramido, bevor Sie einen langen, entspannten Nachmittag entlang der Douro-Promenade verbringen. Der Tag endet mit einem sportlichen Anstieg zum Monte do Crasto für eine unvergessliche Aussicht.",
         "hu": "Kezdje a biciklitúrát Gondomar központjában, majd tekerjen végig a Filigrán Útvonalon, hogy felfedezze a város kézművességét. Egy festői lejtő visz a Casa Branca de Gramidohoz, mielőtt egy hosszú, pihentető délutánt töltene a Douro sétány mentén. A nap egy sportos emelkedővel zárul a Monte do Crasto-ra a felejthetetlen kilátásért.",
         "ro": "Începeți turul cu bicicleta în centrul Gondomarului, apoi pedalați de-a lungul Rutei Filigranului pentru a descoperi meșteșugurile orașului. O coborâre pitorească vă duce la Casa Branca de Gramido înainte de o după-amiază lungă și relaxantă de-a lungul promenadei Douro. Ziua se încheie cu o urcare sportivă pe Monte do Crasto pentru o priveliște de neuitat.",
-        "en": "Start your bike tour in the center of Gondomar, then pedal along the Filigree Route to discover the city's craft. A scenic descent takes you to Casa Branca de Gramido before a long, relaxing afternoon along the Douro promenade. The day concludes with a challenging climb up Monte do Crasto for an unforgettable view."
+        "en": "Start your bike tour in the center of Gondomar, then pedal along the Filigree Route to discover the city's craft. A scenic descent takes you to Casa Branca de Gramido before a long, relaxing afternoon along the Douro promenade. The day concludes with a challenging climb up Monte do Crasto for an unforgettable view.",
+        "pt": "Comece o seu passeio de bicicleta no centro de Gondomar e pedale pela Rota da Filigrana para descobrir o artesanato da cidade. Uma descida cénica leva-o à Casa Branca de Gramido antes de uma tarde longa e relaxante pela marginal do Douro. O dia termina com uma subida desafiante ao Monte do Crasto para uma vista inesquecível."
       },
       "gastro_picks": {
         "de": [
@@ -763,6 +818,11 @@
           "Bring plenty of water, especially for the climb to Monte do Crasto.",
           "Some streets can be cobblestoned, so be careful.",
           "A bike with gears is highly recommended."
+        ],
+        "pt": [
+          "Traga bastante água, especialmente para a subida ao Monte do Crasto.",
+          "Algumas ruas podem ser empedradas, por isso tenha cuidado.",
+          "Uma bicicleta com mudanças é altamente recomendada."
         ]
       },
       "variants": {
@@ -771,7 +831,8 @@
             "de": "Eine Radtour im Regen erfordert die richtige Ausrüstung, bietet aber leere Wege. Starten Sie im Zentrum und fahren Sie zu den Filigran-Werkstätten für eine Pause. Die Route entlang des Douro ist bei Regen besonders ruhig und atmosphärisch. Wärmen Sie sich in der Casa Branca auf, bevor Sie den kurzen Anstieg zum Monte do Crasto wagen, wo der Blick trotz Wolken weit reicht.",
             "hu": "Egy esős kerékpártúra megfelelő felszerelést igényel, de üres utakat kínál. Kezdjen a központban, majd tekerjen a filigrán műhelyekhez egy pihenőre. A Douro menti útvonal esőben különösen csendes és hangulatos. Melegedjen fel a Casa Branca-ban, mielőtt nekivágna a Monte do Crasto rövid emelkedőjének, ahonnan a kilátás a felhők ellenére is messzire nyúlik.",
             "ro": "O tură cu bicicleta pe ploaie necesită echipament adecvat, dar oferă drumuri libere. Începeți în centru și pedalați către atelierele de filigran pentru o pauză. Traseul de-a lungul Douro este deosebit de liniștit și atmosferic pe ploaie. Încălziți-vă la Casa Branca înainte de a urca panta scurtă spre Monte do Crasto, de unde vederea este amplă în ciuda norilor.",
-            "en": "A bike tour in the rain requires the right gear but offers empty paths. Start in the center and cycle to the filigree workshops for a break. The route along the Douro is particularly quiet and atmospheric in the rain. Warm up at Casa Branca before tackling the short climb to Monte do Crasto, where the view remains extensive despite the clouds."
+            "en": "A bike tour in the rain requires the right gear but offers empty paths. Start in the center and cycle to the filigree workshops for a break. The route along the Douro is particularly quiet and atmospheric in the rain. Warm up at Casa Branca before tackling the short climb to Monte do Crasto, where the view remains extensive despite the clouds.",
+            "pt": "Um passeio de bicicleta na chuva exige equipamento adequado mas oferece caminhos vazios. Comece no centro e pedale até às oficinas de filigrana para uma pausa. O troço ao longo do Douro é particularmente calmo e atmosférico na chuva. Aqueça-se na Casa Branca antes de enfrentar a curta subida ao Monte do Crasto, onde a vista permanece abrangente apesar das nuvens."
           },
           "stops": [
             {
@@ -780,7 +841,8 @@
                 "de": "Bereiten Sie Ihre Regenkleidung unter den Arkaden vor.",
                 "hu": "Készítse elő esőfelszerelését az árkádok alatt.",
                 "ro": "Pregătiți-vă echipamentul de ploaie sub arcade.",
-                "en": "Prepare your rain gear under the arches."
+                "en": "Prepare your rain gear under the arches.",
+                "pt": "Prepare o seu equipamento de chuva sob os arcos."
               }
             },
             {
@@ -789,7 +851,8 @@
                 "de": "Sicherer Abstellplatz für Räder bei den Werkstätten suchen.",
                 "hu": "Keressen biztonságos kerékpártárolót a műhelyeknél.",
                 "ro": "Căutați un loc sigur de parcare pentru biciclete la ateliere.",
-                "en": "Look for secure bike parking near the workshops."
+                "en": "Look for secure bike parking near the workshops.",
+                "pt": "Procure estacionamento de bicicletas seguro perto das oficinas."
               }
             },
             {
@@ -798,7 +861,8 @@
                 "de": "Nutzen Sie den überdachten Eingang für eine kurze Pause.",
                 "hu": "Használja a fedett bejáratot egy rövid pihenőre.",
                 "ro": "Folosiți intrarea acoperită pentru o scurtă pauză.",
-                "en": "Use the covered entrance for a short break."
+                "en": "Use the covered entrance for a short break.",
+                "pt": "Use a entrada coberta para uma pausa curta."
               }
             },
             {
@@ -807,7 +871,8 @@
                 "de": "Vorsicht auf dem Radweg, Pfützen können tief sein.",
                 "hu": "Vigyázat a kerékpárúton, a tócsák mélyek lehetnek.",
                 "ro": "Atenție pe pistă, bălțile pot fi adânci.",
-                "en": "Caution on the bike path, puddles can be deep."
+                "en": "Caution on the bike path, puddles can be deep.",
+                "pt": "Cuidado no trilho ciclável, as poças podem ser profundas."
               }
             },
             {
@@ -816,7 +881,8 @@
                 "de": "Der Boden kann schlammig sein; bleiben Sie auf dem Asphalt.",
                 "hu": "A talaj sáros lehet; maradjon az aszfalton.",
                 "ro": "Solul poate fi noroios; rămâneți pe asfalt.",
-                "en": "The ground can be muddy; stay on the asphalt."
+                "en": "The ground can be muddy; stay on the asphalt.",
+                "pt": "O terreno pode ficar lamacento; mantenha-se no alcatrão."
               }
             }
           ],
@@ -844,6 +910,12 @@
               "Avoid metal manhole covers and painted road markings.",
               "Fenders are worth their weight in gold on this riverside route.",
               "Clean and oil the chain after the tour to prevent rust."
+            ],
+            "pt": [
+              "Verifique os travões; rodas molhadas exigem distâncias de travagem maiores.",
+              "Evite tampas de saneamento metálicas e marcações rodoviárias pintadas.",
+              "Para-lamas valem ouro neste trajecto à beira-rio.",
+              "Limpe e lubrifique a corrente após o passeio para evitar ferrugem."
             ]
           }
         },
@@ -852,7 +924,8 @@
             "de": "Winterliches Radeln in Gondomar ist dank des milden Klimas angenehm. Starten Sie im kühlen Stadtzentrum und lassen Sie sich in den Filigran-Werkstätten inspirieren. Die Fahrt zum Douro bietet sonnige Abschnitte und eine frische Brise. Genießen Sie die weite Sicht am Flussufer, bevor Sie zum Monte do Crasto aufsteigen, um den frühen, aber spektakulären Sonnenuntergang über der Stadt einzufangen.",
             "hu": "A téli kerékpározás Gondomarban az enyhe éghajlatnak köszönhetően kellemes. Kezdjen a hűvös városközpontban, és merítsen ihletet a filigrán műhelyekben. A Douro felé vezető út napos szakaszokat és friss szellőt kínál. Élvezze a tágas kilátást a folyóparton, mielőtt feltekerne a Monte do Crasto-ra, hogy elcsípje a korai, de látványos naplementét.",
             "ro": "Ciclismul de iarnă în Gondomar este plăcut datorită climei blânde. Începeți în centrul răcoros și lăsați-vă inspirat în atelierele de filigran. Drumul spre Douro oferă secțiuni însorite și o briză proaspătă. Bucurați-vă de vederea largă pe malul râului înainte de a urca pe Monte do Crasto pentru a surprinde apusul devreme, dar spectaculos.",
-            "en": "Winter cycling in Gondomar is pleasant thanks to the mild climate. Start in the cool town center and get inspired in the filigree workshops. The ride to the Douro offers sunny sections and a fresh breeze. Enjoy the wide views on the riverbank before ascending Monte do Crasto to catch the early but spectacular sunset over the city."
+            "en": "Winter cycling in Gondomar is pleasant thanks to the mild climate. Start in the cool town center and get inspired in the filigree workshops. The ride to the Douro offers sunny sections and a fresh breeze. Enjoy the wide views on the riverbank before ascending Monte do Crasto to catch the early but spectacular sunset over the city.",
+            "pt": "Ciclar no inverno em Gondomar é agradável graças ao clima ameno. Comece no fresco centro urbano e inspire-se nas oficinas de filigrana. O caminho até ao Douro oferece troços soalheiros e uma brisa fresca. Desfrute das amplas vistas na margem antes de subir ao Monte do Crasto para apanhar o pôr do sol cedo mas espectacular sobre a cidade."
           },
           "stops": [
             {
@@ -861,7 +934,8 @@
                 "de": "Tragen Sie Handschuhe; der Fahrtwind ist im Winter kühl.",
                 "hu": "Viseljen kesztyűt; a menetszél télen hűvös.",
                 "ro": "Purtați mănuși; vântul la pedalare este rece iarna.",
-                "en": "Wear gloves; the headwind is cool in winter."
+                "en": "Wear gloves; the headwind is cool in winter.",
+                "pt": "Use luvas; o vento frontal é fresco no inverno."
               }
             },
             {
@@ -870,7 +944,8 @@
                 "de": "Ein kurzer Stopp zum Aufwärmen der Hände.",
                 "hu": "Egy rövid megálló a kezek felmelegítésére.",
                 "ro": "O scurtă oprire pentru a vă încălzi mâinile.",
-                "en": "A short stop to warm up your hands."
+                "en": "A short stop to warm up your hands.",
+                "pt": "Uma paragem curta para aquecer as mãos."
               }
             },
             {
@@ -879,7 +954,8 @@
                 "de": "Die Sonne wärmt hier am Flussufer am Nachmittag.",
                 "hu": "A nap itt a folyóparton délután kellemesen melegít.",
                 "ro": "Soarele încălzește aici pe malul râului după-amiaza.",
-                "en": "The sun warms up here on the riverbank in the afternoon."
+                "en": "The sun warms up here on the riverbank in the afternoon.",
+                "pt": "O sol aquece aqui na margem do rio à tarde."
               }
             },
             {
@@ -888,7 +964,8 @@
                 "de": "Helles Licht am Fluss; Sonnenbrille nicht vergessen.",
                 "hu": "Erős fény a folyónál; ne felejtse el a napszemüveget.",
                 "ro": "Lumină puternică la râu; nu uitați ochelarii de soare.",
-                "en": "Bright light at the river; don't forget sunglasses."
+                "en": "Bright light at the river; don't forget sunglasses.",
+                "pt": "Luz intensa junto ao rio; não se esqueça dos óculos de sol."
               }
             },
             {
@@ -897,7 +974,8 @@
                 "de": "Nach Sonnenuntergang wird es schnell spürbar kühler.",
                 "hu": "Naplemente után gyorsan érezhetően hűvösebb lesz.",
                 "ro": "După apus se face simțitor mai frig rapid.",
-                "en": "It gets noticeably cooler quickly after sunset."
+                "en": "It gets noticeably cooler quickly after sunset.",
+                "pt": "Fica visivelmente mais frio rapidamente após o pôr do sol."
               }
             }
           ],
@@ -925,6 +1003,12 @@
               "A neck gaiter protects your neck and face from the cool air.",
               "The Douro route is less frequented by pedestrians in winter.",
               "Bike lights are mandatory as it starts getting dark from 5:00 PM."
+            ],
+            "pt": [
+              "Aproveite as horas de luz entre as 10:00 e as 16:00.",
+              "Um tubo de pescoço protege o pescoço e o rosto do ar fresco.",
+              "A rota do Douro é menos frequentada por peões no inverno.",
+              "As luzes da bicicleta são obrigatórias a partir das 17:00, quando começa a escurecer."
             ]
           }
         }
@@ -943,7 +1027,8 @@
             "de": "Monte do Crasto",
             "hu": "Monte do Crasto",
             "ro": "Monte do Crasto",
-            "en": "Monte do Crasto"
+            "en": "Monte do Crasto",
+            "pt": "Monte do Crasto"
           },
           "coords": [
             -8.525,
@@ -959,7 +1044,8 @@
             "de": "Starten Sie den Tag mit einer tollen Aussicht. Parken ist hier oben einfach.",
             "hu": "Kezdje a napot egy remek kilátással. A parkolás itt fent egyszerű.",
             "ro": "Începeți ziua cu o priveliște minunată. Parcarea este ușoară aici sus.",
-            "en": "Start the day with a great view. Parking is easy up here."
+            "en": "Start the day with a great view. Parking is easy up here.",
+            "pt": "Comece o dia com uma vista excelente. Estacionar é fácil aqui no alto."
           }
         },
         {
@@ -967,7 +1053,8 @@
             "de": "Quinta de Villar d'Allen",
             "hu": "Quinta de Villar d'Allen",
             "ro": "Quinta de Villar d'Allen",
-            "en": "Quinta de Villar d'Allen"
+            "en": "Quinta de Villar d'Allen",
+            "pt": "Quinta de Villar d'Allen"
           },
           "coords": [
             -8.583,
@@ -983,7 +1070,8 @@
             "de": "Ein verstecktes Juwel. Rufen Sie am besten vorher an, um die Öffnungszeiten zu bestätigen.",
             "hu": "Rejtett gyöngyszem. Érdemes előre telefonálni a nyitvatartásról.",
             "ro": "O bijuterie ascunsă. Cel mai bine este să sunați în avans pentru a confirma programul.",
-            "en": "A hidden gem. It's best to call ahead to confirm opening hours."
+            "en": "A hidden gem. It's best to call ahead to confirm opening hours.",
+            "pt": "Uma joia escondida. É melhor telefonar antes para confirmar o horário de funcionamento."
           }
         },
         {
@@ -991,7 +1079,8 @@
             "de": "Cluster: Historisches Zentrum",
             "hu": "Klaszter: Történelmi központ",
             "ro": "Cluster: Centrul Istoric",
-            "en": "Cluster: Historic Center"
+            "en": "Cluster: Historic Center",
+            "pt": "Cluster: Centro Histórico"
           },
           "coords": [
             -8.536,
@@ -1007,7 +1096,8 @@
             "de": "Parken Sie in der Nähe der Kirche São Cosme und erkunden Sie zu Fuß.",
             "hu": "Parkoljon a São Cosme-templom közelében, és fedezze fel gyalog a környéket.",
             "ro": "Parcați lângă Biserica São Cosme și explorați pe jos.",
-            "en": "Park near the Church of São Cosme and explore on foot."
+            "en": "Park near the Church of São Cosme and explore on foot.",
+            "pt": "Estacione perto da Igreja de São Cosme e explore a pé."
           }
         },
         {
@@ -1015,7 +1105,8 @@
             "de": "Kirche von São Cosme",
             "hu": "São Cosme-templom",
             "ro": "Biserica São Cosme",
-            "en": "Church of São Cosme"
+            "en": "Church of São Cosme",
+            "pt": "Igreja de São Cosme"
           },
           "coords": [
             -8.5358,
@@ -1031,7 +1122,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "O scurtă plimbare de la parcare.",
-            "en": "A short walk from where you parked."
+            "en": "A short walk from where you parked.",
+            "pt": "A uma curta caminhada de onde estacionou."
           }
         },
         {
@@ -1039,7 +1131,8 @@
             "de": "Filigran-Werkstätten",
             "hu": "Filigrán műhelyek",
             "ro": "Ateliere de filigran",
-            "en": "Filigree Workshops"
+            "en": "Filigree Workshops",
+            "pt": "Oficinas de Filigrana"
           },
           "coords": [
             -8.539,
@@ -1055,7 +1148,8 @@
             "de": "Nehmen Sie sich Zeit für ein Mittagessen und einen Einkaufsbummel in diesem Viertel.",
             "hu": "Szánjon időt az ebédre és a vásárlásra ebben a negyedben.",
             "ro": "Luați-vă timp pentru prânz și cumpărături în acest cartier.",
-            "en": "Take time for lunch and shopping in this district."
+            "en": "Take time for lunch and shopping in this district.",
+            "pt": "Reserve tempo para almoçar e fazer compras neste bairro."
           }
         },
         {
@@ -1063,7 +1157,8 @@
             "de": "Cluster: Flussufer Gramido",
             "hu": "Klaszter: Gramido folyópart",
             "ro": "Cluster: Malul râului Gramido",
-            "en": "Cluster: Gramido Riverfront"
+            "en": "Cluster: Gramido Riverfront",
+            "pt": "Cluster: Margem do Rio Gramido"
           },
           "coords": [
             -8.5515,
@@ -1079,7 +1174,8 @@
             "de": "Fahren Sie zum Flussufer und parken Sie in der Nähe der Casa Branca.",
             "hu": "Vezessen le a folyóparthoz, és parkoljon a Casa Branca közelében.",
             "ro": "Conduceți spre malul râului și parcați lângă Casa Branca.",
-            "en": "Drive down to the riverfront and park near Casa Branca."
+            "en": "Drive down to the riverfront and park near Casa Branca.",
+            "pt": "Desça até a margem e estacione perto da Casa Branca."
           }
         },
         {
@@ -1087,7 +1183,8 @@
             "de": "Casa Branca de Gramido & Promenade",
             "hu": "Casa Branca de Gramido és sétány",
             "ro": "Casa Branca de Gramido și Promenada",
-            "en": "Casa Branca de Gramido & Promenade"
+            "en": "Casa Branca de Gramido & Promenade",
+            "pt": "Casa Branca de Gramido & Passeio"
           },
           "coords": [
             -8.5511,
@@ -1103,7 +1200,8 @@
             "de": "Kombinieren Sie den historischen Besuch mit einem langen, entspannten Spaziergang am Douro.",
             "hu": "Kombinálja a történelmi látogatást egy hosszú, pihentető sétával a Douro mentén.",
             "ro": "Combinați vizita istorică cu o plimbare lungă și relaxantă de-a lungul râului Douro.",
-            "en": "Combine the historic visit with a long, relaxing walk along the Douro."
+            "en": "Combine the historic visit with a long, relaxing walk along the Douro.",
+            "pt": "Combine a visita histórica com uma longa e relaxante caminhada ao longo do Douro."
           }
         }
       ],
@@ -1111,7 +1209,8 @@
         "de": "Mit dem Auto erkunden Sie die Highlights von Gondomar flexibel. Beginnen Sie mit den Panoramablicken vom Monte do Crasto und besuchen Sie dann die eleganten Gärten der Quinta de Villar d'Allen. Parken Sie im Zentrum, um die Kirche und die Filigran-Werkstätten zu Fuß zu erkunden. Der Nachmittag ist für die entspannte Atmosphäre am Douro-Flussufer bei Gramido reserviert, wo Geschichte und Natur aufeinandertreffen.",
         "hu": "Autóval rugalmasan fedezheti fel Gondomar nevezetességeit. Kezdje a Monte do Crasto panorámájával, majd látogasson el a Quinta de Villar d'Allen elegáns kertjeibe. Parkoljon a központban, hogy gyalogosan fedezze fel a templomot és a filigrán műhelyeket. A délután a Douro folyópart nyugodt légköréé Gramidóban, ahol a történelem és a természet találkozik.",
         "ro": "Cu mașina, explorați în mod flexibil punctele de atracție din Gondomar. Începeți cu vederile panoramice de pe Monte do Crasto, apoi vizitați grădinile elegante de la Quinta de Villar d'Allen. Parcați în centru pentru a explora pe jos biserica și atelierele de filigran. După-amiaza este rezervată atmosferei relaxate de pe malul râului Douro la Gramido, unde istoria întâlnește natura.",
-        "en": "By car, you can flexibly explore Gondomar's highlights. Start with the panoramic views from Monte do Crasto, then visit the elegant gardens of Quinta de Villar d'Allen. Park in the center to explore the church and filigree workshops on foot. The afternoon is reserved for the relaxed atmosphere on the Douro riverfront at Gramido, where history meets nature."
+        "en": "By car, you can flexibly explore Gondomar's highlights. Start with the panoramic views from Monte do Crasto, then visit the elegant gardens of Quinta de Villar d'Allen. Park in the center to explore the church and filigree workshops on foot. The afternoon is reserved for the relaxed atmosphere on the Douro riverfront at Gramido, where history meets nature.",
+        "pt": "De carro, pode explorar flexivelmente os destaques de Gondomar. Comece pelas vistas panorâmicas do Monte do Crasto, depois visite os elegantes jardins da Quinta de Villar d'Allen. Estacione no centro para explorar a igreja e as oficinas de filigrana a pé. A tarde é reservada para a atmosfera relaxada na margem do Douro em Gramido, onde a história encontra a natureza."
       },
       "gastro_picks": {
         "de": [
@@ -1251,6 +1350,11 @@
           "Parking in the city center can be scarce, especially at noon.",
           "Watch out for one-way streets in the older parts of town.",
           "A car allows you to easily reach nearby beaches or wineries as well."
+        ],
+        "pt": [
+          "Estacionar no centro da cidade pode ser difícil, especialmente ao meio-dia.",
+          "Cuidado com ruas de sentido único nas partes mais antigas da cidade.",
+          "Um carro permite chegar facilmente às praias ou às adegas nas proximidades."
         ]
       },
       "variants": {
@@ -1259,7 +1363,8 @@
             "de": "Regnerische Tage in Gondomar lassen sich ideal mit dem Auto bewältigen. Starten Sie mit dem Panoramablick vom Monte do Crasto direkt aus dem Wagen. Besuchen Sie das historische Anwesen Villar d'Allen und die Filigran-Workshops, ohne nass zu werden. Das Parken im Zentrum und am Flussufer ermöglicht kurze Wege zu den wichtigsten Sehenswürdigkeiten wie der Casa Branca, während der Regen draußen prasselt.",
             "hu": "Az esős napok Gondomarban ideálisan kezelhetők autóval. Kezdjen a Monte do Crasto panorámájával közvetlenül a kocsiból. Látogasson el a Villar d'Allen birtokra és a filigrán műhelyekbe anélkül, hogy megázna. A központi és a folyóparti parkolás rövid utat tesz lehetővé a főbb látnivalókhoz, mint a Casa Branca, miközben kint kopog az eső.",
             "ro": "Zilele ploioase în Gondomar pot fi gestionate ideal cu mașina. Începeți cu vederea panoramică de pe Monte do Crasto direct din vehicul. Vizitați domeniul istoric Villar d'Allen și atelierele de filigran fără a vă uda. Parcarea în centru și pe malul râului permite distanțe scurte până la principalele atracții, precum Casa Branca, în timp ce ploaia bate afară.",
-            "en": "Rainy days in Gondomar are ideally managed by car. Start with the panoramic view from Monte do Crasto directly from your vehicle. Visit the historic Villar d'Allen estate and filigree workshops without getting wet. Parking in the center and by the riverfront allows for short walks to main sights like Casa Branca while the rain patters outside."
+            "en": "Rainy days in Gondomar are ideally managed by car. Start with the panoramic view from Monte do Crasto directly from your vehicle. Visit the historic Villar d'Allen estate and filigree workshops without getting wet. Parking in the center and by the riverfront allows for short walks to main sights like Casa Branca while the rain patters outside.",
+            "pt": "Dias de chuva em Gondomar são mais bem geridos de carro. Comece com a vista panorâmica do Monte do Crasto diretamente do veículo. Visite a histórica Quinta de Villar d'Allen e as oficinas de filigrana sem se molhar. Estacionar no centro e na margem permite curtas caminhadas até pontos principais como a Casa Branca enquanto a chuva cai lá fora."
           },
           "stops": [
             {
@@ -1268,7 +1373,8 @@
                 "de": "Genießen Sie die Aussicht bei laufenden Scheibenwischern.",
                 "hu": "Élvezze a kilátást járó ablaktörlők mellett.",
                 "ro": "Bucurați-vă de priveliște cu ștergătoarele pornite.",
-                "en": "Enjoy the view with your windshield wipers running."
+                "en": "Enjoy the view with your windshield wipers running.",
+                "pt": "Desfrute da vista com os limpa‑pára‑brisas ligados."
               }
             },
             {
@@ -1277,7 +1383,8 @@
                 "de": "Parken Sie nah am Eingang, um trocken ins Haus zu kommen.",
                 "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be.",
                 "ro": "Parcați aproape de intrare pentru a ajunge uscat în casă.",
-                "en": "Park close to the entrance to stay dry getting inside."
+                "en": "Park close to the entrance to stay dry getting inside.",
+                "pt": "Estacione perto da entrada para se manter seco ao entrar."
               }
             },
             {
@@ -1286,7 +1393,8 @@
                 "de": "Nutzen Sie Parkplätze mit direktem Zugang zu Geschäften.",
                 "hu": "Használjon üzletekhez közvetlen hozzáférést adó parkolókat.",
                 "ro": "Folosiți parcările cu acces direct către magazine.",
-                "en": "Use parking spots with direct access to shops."
+                "en": "Use parking spots with direct access to shops.",
+                "pt": "Use lugares de estacionamento com acesso direto às lojas."
               }
             },
             {
@@ -1295,7 +1403,8 @@
                 "de": "Kurzer Sprint vom Auto zum Kircheneingang.",
                 "hu": "Rövid sprint az autótól a templom bejáratáig.",
                 "ro": "Sprint scurt de la mașină până la intrarea în biserică.",
-                "en": "Short sprint from the car to the church entrance."
+                "en": "Short sprint from the car to the church entrance.",
+                "pt": "Um curto sprint do carro até a entrada da igreja."
               }
             },
             {
@@ -1304,7 +1413,8 @@
                 "de": "Laden Sie Ihre Einkäufe direkt ins trockene Auto.",
                 "hu": "Pakolja vásárfiáit közvetlenül a száraz autóba.",
                 "ro": "Puneți cumpărăturile direct în mașina uscată.",
-                "en": "Load your purchases directly into the dry car."
+                "en": "Load your purchases directly into the dry car.",
+                "pt": "Coloque as suas compras diretamente no carro seco."
               }
             },
             {
@@ -1313,7 +1423,8 @@
                 "de": "Wählen Sie einen Platz mit Blick auf den Fluss.",
                 "hu": "Válasszon egy folyóra néző parkolóhelyet.",
                 "ro": "Alegeți un loc de parcare cu vedere la râu.",
-                "en": "Choose a parking spot with a river view."
+                "en": "Choose a parking spot with a river view.",
+                "pt": "Escolha um lugar de estacionamento com vista para o rio."
               }
             },
             {
@@ -1322,7 +1433,8 @@
                 "de": "Warten Sie im Auto, bis der stärkste Guss vorbei ist.",
                 "hu": "Várja meg az autóban a legnagyobb zápor végét.",
                 "ro": "Așteptați în mașină până trece cea mai mare rafală.",
-                "en": "Wait in the car until the heaviest downpour passes."
+                "en": "Wait in the car until the heaviest downpour passes.",
+                "pt": "Espere no carro até passar a chuva mais forte."
               }
             }
           ],
@@ -1350,6 +1462,12 @@
               "Parking spots in the center can be in high demand when it rains.",
               "Keep a microfiber cloth handy to clear fogged windows.",
               "Gondomar's streets can be slippery when wet, drive defensively."
+            ],
+            "pt": [
+              "Cuidado com aquaplanagem na estrada junto ao rio.",
+              "Os lugares de estacionamento no centro podem ter grande procura quando chove.",
+              "Tenha um pano de microfibra à mão para limpar vidros embaciados.",
+              "As ruas de Gondomar podem ficar escorregadias quando molhadas; conduza defensivamente."
             ]
           }
         },
@@ -1358,7 +1476,8 @@
             "de": "Eine winterliche Spritztour durch Gondomar zeigt die Region von ihrer ruhigen Seite. Genießen Sie die klare Winterluft am Monte do Crasto und besuchen Sie die prachtvolle Quinta de Villar d'Allen. Das Auto ist der perfekte Ausgangspunkt, um zwischen den Filigran-Workshops und dem Flussufer zu pendeln. Beenden Sie den Tag an der Promenade von Gramido, wo Sie die Wintersonne bis zum Schluss auskosten können.",
             "hu": "Egy téli autós körút Gondomarban a régió nyugodt arcát mutatja. Élvezze a tiszta téli levegőt a Monte do Crasto-n, és látogasson el a pompás Quinta de Villar d'Allen-be. Az autó tökéletes kiindulópont a filigrán műhelyek és a folyópart közötti ingázáshoz. Zárja a napot a Gramido sétányon, ahol az utolsó pillanatig kiélvezheti a téli napsütést.",
             "ro": "O plimbare de iarnă cu mașina prin Gondomar arată fața liniștită a regiunii. Bucurați-vă de aerul curat de iarnă pe Monte do Crasto și vizitați superba Quinta de Villar d'Allen. Mașina este punctul de plecare perfect pentru a naviga între atelierele de filigran și malul râului. Încheiați ziua pe faleza din Gramido, unde puteți profita de soarele de iarnă până la final.",
-            "en": "A winter drive through Gondomar shows the quiet side of the region. Enjoy the crisp winter air at Monte do Crasto and visit the magnificent Quinta de Villar d'Allen. The car is the perfect base to commute between the filigree workshops and the riverfront. End the day at the Gramido promenade, where you can soak up the winter sun until the very end."
+            "en": "A winter drive through Gondomar shows the quiet side of the region. Enjoy the crisp winter air at Monte do Crasto and visit the magnificent Quinta de Villar d'Allen. The car is the perfect base to commute between the filigree workshops and the riverfront. End the day at the Gramido promenade, where you can soak up the winter sun until the very end.",
+            "pt": "Uma viagem de carro por Gondomar no inverno mostra o lado calmo da região. Desfrute do ar fresco no Monte do Crasto e visite a magnífica Quinta de Villar d'Allen. O carro é a base perfeita para se deslocar entre as oficinas de filigrana e a margem do rio. Termine o dia no passeio de Gramido, onde pode aproveitar o sol de inverno até ao fim."
           },
           "stops": [
             {
@@ -1367,7 +1486,8 @@
                 "de": "Klare Sicht garantiert; perfekt für Winterfotos.",
                 "hu": "Tiszta kilátás garantált; tökéletes téli fotókhoz.",
                 "ro": "Vedere clară garantată; perfect pentru fotografii de iarnă.",
-                "en": "Clear views guaranteed; perfect for winter photos."
+                "en": "Clear views guaranteed; perfect for winter photos.",
+                "pt": "Vistas limpas garantidas; perfeito para fotos de inverno."
               }
             },
             {
@@ -1376,7 +1496,8 @@
                 "de": "Die Gärten sind auch im Winter sehenswert.",
                 "hu": "A kertek télen is megérik a látogatást.",
                 "ro": "Grădinile merită vizitate chiar și iarna.",
-                "en": "The gardens are worth seeing even in winter."
+                "en": "The gardens are worth seeing even in winter.",
+                "pt": "Os jardins valem a pena mesmo no inverno."
               }
             },
             {
@@ -1385,7 +1506,8 @@
                 "de": "Im Winter finden Sie leicht einen Parkplatz.",
                 "hu": "Télen könnyen talál parkolóhelyet.",
                 "ro": "Iarna veți găsi ușor un loc de parcare.",
-                "en": "You'll easily find a parking spot in winter."
+                "en": "You'll easily find a parking spot in winter.",
+                "pt": "Encontrará facilmente lugar para estacionar no inverno."
               }
             },
             {
@@ -1394,7 +1516,8 @@
                 "de": "Ein ruhiger Ort für Besinnung im Winter.",
                 "hu": "Nyugodt hely az elmélkedésre télen.",
                 "ro": "Un loc liniștit pentru reflecție iarna.",
-                "en": "A quiet place for reflection in winter."
+                "en": "A quiet place for reflection in winter.",
+                "pt": "Um lugar tranquilo para reflexão no inverno."
               }
             },
             {
@@ -1403,7 +1526,8 @@
                 "de": "Suchen Sie nach besonderen Weihnachtsgeschenken.",
                 "hu": "Keressen különleges karácsonyi ajándékokat.",
                 "ro": "Căutați cadouri de Crăciun deosebite.",
-                "en": "Look for unique Christmas gifts."
+                "en": "Look for unique Christmas gifts.",
+                "pt": "Procure presentes de Natal únicos."
               }
             },
             {
@@ -1412,7 +1536,8 @@
                 "de": "Ideal, um den Sonnenuntergang im Warmen zu sehen.",
                 "hu": "Ideális a naplemente megtekintéséhez a melegből.",
                 "ro": "Ideal pentru a vedea apusul de la căldură.",
-                "en": "Ideal for watching the sunset from the warmth."
+                "en": "Ideal for watching the sunset from the warmth.",
+                "pt": "Ideal para ver o pôr do sol confortavelmente aquecido."
               }
             },
             {
@@ -1421,7 +1546,8 @@
                 "de": "Die Winterbrise am Fluss ist sehr belebend.",
                 "hu": "A folyóparti téli szellő nagyon élénkítő.",
                 "ro": "Briza de iarnă de pe râu este foarte revigorantă.",
-                "en": "The winter breeze by the river is very invigorating."
+                "en": "The winter breeze by the river is very invigorating.",
+                "pt": "A brisa invernal junto ao rio é muito revigorante."
               }
             }
           ],
@@ -1449,6 +1575,12 @@
               "The Douro road can stay damp and slippery in shaded areas.",
               "Enjoy the drive with the heater on and the winter river landscape.",
               "Watch out for cyclists without lights at dusk."
+            ],
+            "pt": [
+              "Verifique a pressão dos pneus; o frio pode fazê‑la baixar.",
+              "A estrada do Douro pode permanecer húmida e escorregadia em áreas sombreadas.",
+              "Desfrute da viagem com o aquecimento ligado e a paisagem fluvial de inverno.",
+              "Cuidado com ciclistas sem luzes ao anoitecer."
             ]
           }
         }
@@ -1467,7 +1599,8 @@
             "de": "Cluster: Historisches Zentrum",
             "hu": "Klaszter: Történelmi központ",
             "ro": "Cluster: Centrul Istoric",
-            "en": "Cluster: Historic Center"
+            "en": "Cluster: Historic Center",
+            "pt": "Cluster: Centro Histórico"
           },
           "coords": [
             -8.5361,
@@ -1483,7 +1616,8 @@
             "de": "Nehmen Sie einen Bus zum Hauptplatz von Gondomar.",
             "hu": "Menjen busszal Gondomar főterére.",
             "ro": "Luați un autobuz spre piața principală din Gondomar.",
-            "en": "Take a bus to Gondomar's main square."
+            "en": "Take a bus to Gondomar's main square.",
+            "pt": "Apanhe um autocarro até à praça principal de Gondomar."
           }
         },
         {
@@ -1491,7 +1625,8 @@
             "de": "Kirche von São Cosme",
             "hu": "São Cosme-templom",
             "ro": "Biserica São Cosme",
-            "en": "Church of São Cosme"
+            "en": "Church of São Cosme",
+            "pt": "Igreja de São Cosme"
           },
           "coords": [
             -8.5358,
@@ -1507,7 +1642,8 @@
             "de": "Direkt an der Bushaltestelle gelegen.",
             "hu": "Közvetlenül a buszmegállónál található.",
             "ro": "Situată chiar lângă stația de autobuz.",
-            "en": "Located right by the bus stop."
+            "en": "Located right by the bus stop.",
+            "pt": "Situada mesmo junto ao ponto de autocarro."
           }
         },
         {
@@ -1515,7 +1651,8 @@
             "de": "Stadtmuseum & Filigran-Route",
             "hu": "Városi Múzeum és Filigrán Útvonal",
             "ro": "Muzeul Municipal și Ruta Filigranului",
-            "en": "Municipal Museum & Filigree Route"
+            "en": "Municipal Museum & Filigree Route",
+            "pt": "Museu Municipal & Rota da Filigrana"
           },
           "coords": [
             -8.5375,
@@ -1531,7 +1668,8 @@
             "de": "Erkunden Sie beides zu Fuß, sie liegen nahe beieinander. Planen Sie Zeit für ein Mittagessen hier ein.",
             "hu": "Fedezze fel mindkettőt gyalog, közel vannak egymáshoz. Tervezzen itt ebédszünetet.",
             "ro": "Explorați ambele pe jos, sunt aproape una de alta. Planificați timp pentru prânz aici.",
-            "en": "Explore both on foot, they are close to each other. Plan for lunch time here."
+            "en": "Explore both on foot, they are close to each other. Plan for lunch time here.",
+            "pt": "Explore ambos a pé; ficam próximos. Planeie almoçar aqui."
           }
         },
         {
@@ -1539,7 +1677,8 @@
             "de": "Cluster: Flussufer Gramido",
             "hu": "Klaszter: Gramido folyópart",
             "ro": "Cluster: Malul râului Gramido",
-            "en": "Cluster: Gramido Riverfront"
+            "en": "Cluster: Gramido Riverfront",
+            "pt": "Cluster: Margem do Gramido"
           },
           "coords": [
             -8.5515,
@@ -1555,7 +1694,8 @@
             "de": "Nehmen Sie einen Bus, der entlang des Flusses nach Gramido fährt.",
             "hu": "Menjen egy busszal, amely a folyó mentén közlekedik Gramido felé.",
             "ro": "Luați un autobuz care merge de-a lungul râului spre Gramido.",
-            "en": "Take a bus that goes along the river towards Gramido."
+            "en": "Take a bus that goes along the river towards Gramido.",
+            "pt": "Apanhe um autocarro que segue pela margem em direção a Gramido."
           }
         },
         {
@@ -1563,7 +1703,8 @@
             "de": "Casa Branca & Promenade",
             "hu": "Casa Branca és sétány",
             "ro": "Casa Branca și Promenada",
-            "en": "Casa Branca & Promenade"
+            "en": "Casa Branca & Promenade",
+            "pt": "Casa Branca & Passeio"
           },
           "coords": [
             -8.5511,
@@ -1579,7 +1720,8 @@
             "de": "Verbringen Sie den Nachmittag mit Erkundungen und Entspannung am Wasser.",
             "hu": "Töltse a délutánt a vízparti felfedezéssel és pihenéssel.",
             "ro": "Petreceți după-amiaza explorând și relaxându-vă lângă apă.",
-            "en": "Spend the afternoon exploring and relaxing by the water."
+            "en": "Spend the afternoon exploring and relaxing by the water.",
+            "pt": "Passe a tarde a explorar e a relaxar junto à água."
           }
         }
       ],
@@ -1587,7 +1729,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Gondomar in zwei Clustern. Der Vormittag ist dem historischen Zentrum gewidmet, mit der Kirche, dem Museum und den Filigran-Werkstätten, die alle leicht zu Fuß erreichbar sind. Nach dem Mittagessen bringt Sie ein Bus zum malerischen Flussufer von Gramido, wo Sie einen entspannten Nachmittag mit einem Spaziergang entlang der Douro-Promenade und einem Besuch der historischen Casa Branca verbringen.",
         "hu": "Tömegközlekedéssel két klaszterben fedezi fel Gondomart. A délelőtt a történelmi központé, a templommal, a múzeummal és a filigrán műhelyekkel, mind könnyen megközelíthető gyalog. Ebéd után egy busz viszi a festői Gramido folyópartra, ahol egy pihentető délutánt tölthet a Douro sétányon sétálva és a történelmi Casa Branca meglátogatásával.",
         "ro": "Folosind transportul public, explorați Gondomar în două clustere. Dimineața este dedicată centrului istoric, cu biserica, muzeul și atelierele de filigran, toate ușor accesibile pe jos. După prânz, un autobuz vă duce pe malul pitoresc al râului la Gramido, unde petreceți o după-amiază relaxantă plimbându-vă pe promenada Douro și vizitând istorica Casa Branca.",
-        "en": "Using public transport, you'll explore Gondomar in two clusters. The morning is dedicated to the historic center, with the church, museum, and filigree workshops all easily walkable. After lunch, a bus takes you to the scenic riverfront at Gramido, where you'll spend a relaxed afternoon strolling the Douro promenade and visiting the historic Casa Branca."
+        "en": "Using public transport, you'll explore Gondomar in two clusters. The morning is dedicated to the historic center, with the church, museum, and filigree workshops all easily walkable. After lunch, a bus takes you to the scenic riverfront at Gramido, where you'll spend a relaxed afternoon strolling the Douro promenade and visiting the historic Casa Branca.",
+        "pt": "Usando transporte público, explorará Gondomar em dois clusters. A manhã é dedicada ao centro histórico, com a igreja, museu e oficinas de filigrana facilmente percorríveis a pé. Depois do almoço, um autocarro leva‑o à pitoresca margem do Gramido, onde passará uma tarde relaxada a passear pelo passeio do Douro e a visitar a histórica Casa Branca."
       },
       "gastro_picks": {
         "de": [
@@ -1727,6 +1870,11 @@
           "Buy a day pass for the bus if you plan on making multiple trips.",
           "Check bus schedules in advance, especially on weekends.",
           "Google Maps app is reliable for transit routing."
+        ],
+        "pt": [
+          "Compre um passe diário para o autocarro se planeia fazer várias viagens.",
+          "Consulte os horários dos autocarros com antecedência, especialmente ao fim de semana.",
+          "A app Google Maps é fiável para roteamento de transportes."
         ]
       },
       "variants": {
@@ -1735,7 +1883,8 @@
             "de": "Nutzen Sie den öffentlichen Nahverkehr, um Gondomar bei Regen zu erkunden. Die Busse bringen Sie direkt ins historische Zentrum zur Kirche São Cosme. Verbringen Sie ausgiebig Zeit im Museum und in den Filigran-Workshops, während Sie auf den nächsten Bus warten. Die Verbindung nach Gramido ermöglicht einen entspannten Besuch der Casa Branca, wobei Sie den Regen bequem aus dem Busfenster beobachten können.",
             "hu": "Használja a tömegközlekedést Gondomar felfedezéséhez esőben. A buszok közvetlenül a történelmi központba, a São Cosme templomhoz viszik. Töltsön el bőven időt a múzeumban és a filigrán műhelyekben, amíg a következő buszra vár. A Gramido-ba tartó járat lehetővé teszi a Casa Branca kényelmes meglátogatását, miközben az esőt a buszablakból figyelheti.",
             "ro": "Utilizați transportul public pentru a explora Gondomar pe ploaie. Autobuzele vă duc direct în centrul istoric, la Biserica São Cosme. Petreceți timp din plin în muzeu și la atelierele de filigran în timp ce așteptați următorul autobuz. Conexiunea către Gramido permite o vizită relaxată la Casa Branca, urmărind ploaia comod de la fereastra autobuzului.",
-            "en": "Use public transport to explore Gondomar in the rain. Buses take you directly to the historic center and the Church of São Cosme. Spend plenty of time in the museum and filigree workshops while waiting for the next bus. The connection to Gramido allows for a relaxed visit to Casa Branca, watching the rain comfortably from the bus window."
+            "en": "Use public transport to explore Gondomar in the rain. Buses take you directly to the historic center and the Church of São Cosme. Spend plenty of time in the museum and filigree workshops while waiting for the next bus. The connection to Gramido allows for a relaxed visit to Casa Branca, watching the rain comfortably from the bus window.",
+            "pt": "Use o transporte público para explorar Gondomar na chuva. Os autocarros levam‑no diretamente ao centro histórico e à Igreja de São Cosme. Passe bastante tempo no museu e nas oficinas de filigrana enquanto espera pelo próximo autocarro. A ligação a Gramido permite uma visita relaxada à Casa Branca, vendo a chuva confortavelmente pela janela do autocarro."
           },
           "stops": [
             {
@@ -1744,7 +1893,8 @@
                 "de": "Warten Sie unter dem Wartehäuschen auf den Anschluss.",
                 "hu": "Várja a csatlakozást az esővédő tető alatt.",
                 "ro": "Așteptați legătura sub copertina stației.",
-                "en": "Wait for your connection under the bus shelter."
+                "en": "Wait for your connection under the bus shelter.",
+                "pt": "Espere pela sua ligação debaixo do abrigo do autocarro."
               }
             },
             {
@@ -1753,7 +1903,8 @@
                 "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
                 "hu": "Csak pár lépésre van a buszmegállótól.",
                 "ro": "La doar câțiva pași de stația de autobuz.",
-                "en": "Just a few steps away from the bus stop."
+                "en": "Just a few steps away from the bus stop.",
+                "pt": "Apenas a poucos passos do ponto de autocarro."
               }
             },
             {
@@ -1762,7 +1913,8 @@
                 "de": "Ideal für eine lange Regenpause im Warmen.",
                 "hu": "Ideális egy hosszú esőszünetre a melegben.",
                 "ro": "Ideal pentru o pauză lungă de ploaie la căldură.",
-                "en": "Ideal for a long rain break in the warmth."
+                "en": "Ideal for a long rain break in the warmth.",
+                "pt": "Ideal para uma longa pausa seca e acolhedora."
               }
             },
             {
@@ -1771,7 +1923,8 @@
                 "de": "Die Bushaltestelle bietet Schutz vor Wind und Wetter.",
                 "hu": "A buszmegálló védelmet nyújt a szél és az eső ellen.",
                 "ro": "Stația de autobuz oferă protecție împotriva vântului și ploii.",
-                "en": "The bus stop provides shelter from the wind and rain."
+                "en": "The bus stop provides shelter from the wind and rain.",
+                "pt": "O ponto de autocarro protege do vento e da chuva."
               }
             },
             {
@@ -1780,7 +1933,8 @@
                 "de": "Genießen Sie den Innenbereich der Galerie.",
                 "hu": "Élvezze a galéria belső tereit.",
                 "ro": "Bucurați-vă de spațiile interioare ale galeriei.",
-                "en": "Enjoy the interior spaces of the gallery."
+                "en": "Enjoy the interior spaces of the gallery.",
+                "pt": "Desfrute dos espaços interiores da galeria."
               }
             }
           ],
@@ -1808,6 +1962,12 @@
               "A day pass (Andante) is worth it when it's raining.",
               "Buses are well-heated and comfortable in winter.",
               "Avoid peak hours to ensure you find a dry seat."
+            ],
+            "pt": [
+              "Use a app STCP para partidas em tempo real.",
+              "Um passe diário (Andante) compensa quando chove.",
+              "Os autocarros são bem aquecidos e confortáveis no inverno.",
+              "Evite as horas de maior afluência para garantir um lugar seco sentado."
             ]
           }
         },
@@ -1816,7 +1976,8 @@
             "de": "Erkunden Sie Gondomar im Winter stressfrei mit dem Bus. Besuchen Sie die historischen Stätten im Zentrum und wärmen Sie sich in den Museen auf. Die Fahrt zum Douro bietet wunderbare Ausblicke auf die winterliche Flusslandschaft. Dank der guten Verbindungen erreichen Sie die Promenade von Gramido pünktlich zum Sonnenuntergang und können danach bequem im warmen Bus zurückfahren.",
             "hu": "Fedezze fel Gondomart télen stresszmentesen, busszal. Látogassa meg a központi történelmi helyszíneket, és melegedjen fel a múzeumokban. A Douro felé vezető út csodás kilátást nyújt a téli folyóparti tájra. A jó összeköttetésnek köszönhetően pontosan a naplementére érhet a Gramido sétányra, majd kényelmesen, a meleg buszon utazhat vissza.",
             "ro": "Explorați Gondomar iarna fără stres, cu autobuzul. Vizitați siturile istorice din centru și încălziți-vă în muzee. Drumul spre Douro oferă vederi minunate asupra peisajului de iarnă al râului. Datorită conexiunilor bune, ajungeți pe faleza din Gramido exact la timp pentru apus și vă puteți întoarce confortabil cu autobuzul încălzit.",
-            "en": "Explore Gondomar in winter stress-free by bus. Visit the historic sites in the center and warm up in the museums. The ride to the Douro offers wonderful views of the winter river landscape. Thanks to good connections, you can reach the Gramido promenade just in time for sunset and then travel back comfortably on a warm bus."
+            "en": "Explore Gondomar in winter stress-free by bus. Visit the historic sites in the center and warm up in the museums. The ride to the Douro offers wonderful views of the winter river landscape. Thanks to good connections, you can reach the Gramido promenade just in time for sunset and then travel back comfortably on a warm bus.",
+            "pt": "Explore Gondomar no inverno sem stress de autocarro. Visite os locais históricos no centro e aqueça‑se nos museus. A viagem até ao Douro oferece vistas maravilhosas da paisagem ribeirinha de inverno. Graças às boas ligações, pode chegar ao passeio de Gramido a tempo do pôr do sol e depois voltar confortavelmente num autocarro quente."
           },
           "stops": [
             {
@@ -1825,7 +1986,8 @@
                 "de": "Zentraler Knotenpunkt für alle lokalen Linien.",
                 "hu": "Központi csomópont minden helyi járatnak.",
                 "ro": "Nod central pentru toate liniile locale.",
-                "en": "Central hub for all local bus lines."
+                "en": "Central hub for all local bus lines.",
+                "pt": "Ponto central para todas as linhas de autocarro locais."
               }
             },
             {
@@ -1834,7 +1996,8 @@
                 "de": "Die Haltestellen sind im Winter gut beleuchtet.",
                 "hu": "A megállók télen jól megvilágítottak.",
                 "ro": "Stațiile sunt bine iluminate iarna.",
-                "en": "The bus stops are well-lit in winter."
+                "en": "The bus stops are well-lit in winter.",
+                "pt": "Os pontos de autocarro são bem iluminados no inverno."
               }
             },
             {
@@ -1843,7 +2006,8 @@
                 "de": "Ein warmes Highlight an kalten Wintertagen.",
                 "hu": "Meleg fénypont a hideg téli napokon.",
                 "ro": "Un punct culminant călduros în zilele reci de iarnă.",
-                "en": "A warm highlight on cold winter days."
+                "en": "A warm highlight on cold winter days.",
+                "pt": "Um destaque quente nos dias frios de inverno."
               }
             },
             {
@@ -1852,7 +2016,8 @@
                 "de": "Achten Sie auf die Fahrpläne für die Rückfahrt nach 17:00.",
                 "hu": "Figyeljen a 17:00 utáni visszainduló járatok menetrendjére.",
                 "ro": "Atenție la orarul curselor de întoarcere după ora 17:00.",
-                "en": "Check the schedules for return trips after 5:00 PM."
+                "en": "Check the schedules for return trips after 5:00 PM.",
+                "pt": "Verifique os horários das viagens de regresso após as 17:00."
               }
             },
             {
@@ -1861,7 +2026,8 @@
                 "de": "Der Spaziergang zur Haltestelle hält Sie warm.",
                 "hu": "A megállóhoz vezető séta melegen tartja.",
                 "ro": "Plimbarea până la stație vă va ține de cald.",
-                "en": "The walk to the stop will keep you warm."
+                "en": "The walk to the stop will keep you warm.",
+                "pt": "A caminhada até ao ponto de autocarro manter‑lo‑á aquecido."
               }
             }
           ],
@@ -1889,6 +2055,12 @@
               "Buses are often less crowded in winter.",
               "Plan your route to arrive while it's still daylight.",
               "Departure times may be less frequent on weekends."
+            ],
+            "pt": [
+              "Use roupa quente para os tempos de espera nos pontos de autocarro.",
+              "Os autocarros costumam estar menos cheios no inverno.",
+              "Planeie a sua rota para chegar ainda de dia.",
+              "Os horários de partida podem ser menos frequentes ao fim de semana."
             ]
           }
         }

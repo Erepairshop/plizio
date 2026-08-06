@@ -21,7 +21,8 @@
             "de": "Igreja Matriz de Oliveira de Azeméis",
             "hu": "Oliveira de Azeméis főtemploma",
             "ro": "Biserica Matriz din Oliveira de Azeméis",
-            "en": "Mother Church of Oliveira de Azeméis"
+            "en": "Mother Church of Oliveira de Azeméis",
+            "pt": "Igreja Matriz de Oliveira de Azeméis"
           },
           "coords": [
             -8.4771,
@@ -39,7 +40,8 @@
             "de": "Estátua de Ferreira de Castro",
             "hu": "Ferreira de Castro szobra",
             "ro": "Statuia lui Ferreira de Castro",
-            "en": "Statue of Ferreira de Castro"
+            "en": "Statue of Ferreira de Castro",
+            "pt": "Estátua de Ferreira de Castro"
           },
           "coords": [
             -8.478,
@@ -57,7 +59,8 @@
             "de": "Biblioteca Municipal Ferreira de Castro",
             "hu": "Ferreira de Castro Városi Könyvtár",
             "ro": "Biblioteca Municipală Ferreira de Castro",
-            "en": "Ferreira de Castro Municipal Library"
+            "en": "Ferreira de Castro Municipal Library",
+            "pt": "Biblioteca Municipal Ferreira de Castro"
           },
           "coords": [
             -8.479,
@@ -75,7 +78,8 @@
             "de": "Museu Regional de Oliveira de Azeméis",
             "hu": "Oliveira de Azeméis Regionális Múzeum",
             "ro": "Muzeul Regional din Oliveira de Azeméis",
-            "en": "Regional Museum of Oliveira de Azeméis"
+            "en": "Regional Museum of Oliveira de Azeméis",
+            "pt": "Museu Regional de Oliveira de Azeméis"
           },
           "coords": [
             -8.476,
@@ -93,7 +97,8 @@
             "de": "Parque de La-Salette",
             "hu": "La-Salette Park",
             "ro": "Parcul La-Salette",
-            "en": "La-Salette Park"
+            "en": "La-Salette Park",
+            "pt": "Parque de La-Salette"
           },
           "coords": [
             -8.488,
@@ -111,7 +116,8 @@
             "de": "Casa de Vidreiro - Glasmachermuseum",
             "hu": "Casa de Vidreiro - Üvegkészítő Ház",
             "ro": "Casa de Vidreiro - Casa Sticlarului",
-            "en": "Casa de Vidreiro - Glassmaker's House"
+            "en": "Casa de Vidreiro - Glassmaker's House",
+            "pt": "Casa de Vidreiro"
           },
           "coords": [
             -8.47,
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Spaziergang im historischen Herzen von Oliveira de Azeméis bei der Hauptkirche. Am Vormittag erkunden Sie das kulturelle Zentrum rund um die Bibliothek und das Regionalmuseum. Verbringen Sie einen entspannten Nachmittag im weitläufigen La-Salette-Park, ein idealer Ort zum Entspannen. Schließen Sie den Tag mit einem Einblick in die industrielle Vergangenheit der Stadt im Glasmachermuseum ab.",
         "hu": "Kezdje a sétát Oliveira de Azeméis történelmi szívében, a főtemplomnál. A délelőtt folyamán fedezze fel a kulturális központot a könyvtár és a regionális múzeum környékén. Töltsön egy pihentető délutánt a tágas La-Salette parkban, amely ideális hely a kikapcsolódásra. A napot a város ipari múltjába való betekintéssel zárja az Üvegkészítő Házban.",
         "ro": "Începeți plimbarea în inima istorică a orașului Oliveira de Azeméis, la Biserica Matriz. În timpul dimineții, explorați centrul cultural din jurul bibliotecii și muzeului regional. Petreceți o după-amiază relaxantă în vastul Parc La-Salette, un loc ideal pentru odihnă. Încheiați ziua cu o incursiune în trecutul industrial al orașului la Casa Sticlarului.",
-        "en": "Start your walking tour in the historical heart of Oliveira de Azeméis at the Mother Church. During the morning, explore the cultural hub around the library and the regional museum. Spend a relaxing afternoon in the expansive La-Salette Park, an ideal spot for unwinding. Conclude the day with an insight into the town's industrial past at the Glassmaker's House."
+        "en": "Start your walking tour in the historical heart of Oliveira de Azeméis at the Mother Church. During the morning, explore the cultural hub around the library and the regional museum. Spend a relaxing afternoon in the expansive La-Salette Park, an ideal spot for unwinding. Conclude the day with an insight into the town's industrial past at the Glassmaker's House.",
+        "pt": "Comece o seu passeio a pé no coração histórico de Oliveira de Azeméis, na Igreja Matriz. Durante a manhã, explore o pólo cultural à volta da biblioteca e do museu regional. Passe uma tarde relaxante no amplo Parque de La-Salette, um local ideal para descontrair. Conclua o dia com um olhar sobre o passado industrial da vila na Casa de Vidreiro."
       },
       "gastro_picks": {
         "de": [
@@ -325,6 +332,12 @@
           "Most museums and churches close for lunch. Plan your visit accordingly.",
           "Take your time to linger in La-Salette Park; it's a true oasis of calm.",
           "Some smaller shops may not accept credit cards, so have some cash on hand."
+        ],
+        "pt": [
+          "Use calçado confortável, pois o centro tem algumas subidas.",
+          "A maioria dos museus e igrejas fecha para almoço. Planeie a sua visita em conformidade.",
+          "Reserve tempo para permanecer no Parque de La-Salette; é um verdadeiro oásis de calma.",
+          "Algumas lojas mais pequenas podem não aceitar cartões, por isso tenha algum numerário consigo."
         ]
       },
       "variants": {
@@ -333,7 +346,8 @@
             "de": "Beginnen Sie Ihren Tag in der schützenden Pracht der Matriz-Kirche, während der Regen auf das Dach trommelt. Der Vormittag gehört der Kultur: Die Bibliothek und das Regionalmuseum bieten perfekte Zufluchtsorte vor dem nassen Wetter. Mittags genießen Sie die lokale Gastronomie im Zentrum. Am Nachmittag führt ein kurzer, regnerischer Spaziergang zum Park La-Salette, bevor Sie den Tag in der faszinierenden Glasmacherwerkstatt trocken ausklingen lassen.",
             "hu": "Kezdje a napot az anyatemplom védelmében, amíg kint esik. A délelőtt a kultúráé: a könyvtár és a regionális múzeum tökéletes menedéket nyújt a záporok elől. Ebédeljen meg a központ egyik hangulatos éttermében. Délután egy rövid, esernyős séta várja a La-Salette parkban, majd a napot a Casa de Vidreiro fedett üvegműhelyében zárhatja, ahol garantáltan szárazon marad.",
             "ro": "Începeți ziua sub protecția Bisericii Matriz, în timp ce ploaia cade afară. Dimineața este dedicată culturii: biblioteca și muzeul regional oferă adăpostul perfect împotriva vremii umede. Prânzul poate fi savurat într-un restaurant local din centru. După-amiaza, o scurtă plimbare cu umbrela în Parcul La-Salette este urmată de o vizită la Casa de Vidreiro, unde veți încheia ziua la adăpost.",
-            "en": "Start your day inside the protective beauty of the Mother Church while it rains outside. The morning is dedicated to culture: the library and regional museum provide perfect shelters from the wet weather. Enjoy lunch in a cozy central restaurant. In the afternoon, a short, umbrella-clad walk in La-Salette Park is followed by a visit to the Glassmaker's House, ending the day in a fascinating indoor setting."
+            "en": "Start your day inside the protective beauty of the Mother Church while it rains outside. The morning is dedicated to culture: the library and regional museum provide perfect shelters from the wet weather. Enjoy lunch in a cozy central restaurant. In the afternoon, a short, umbrella-clad walk in La-Salette Park is followed by a visit to the Glassmaker's House, ending the day in a fascinating indoor setting.",
+            "pt": "Comece o seu dia dentro da beleza protectora da Igreja Matriz enquanto chove lá fora. A manhã é dedicada à cultura: a biblioteca e o museu regional são abrigos perfeitos contra o tempo húmido. Desfrute do almoço numa acolhedora taverna central. À tarde, uma curta caminhada com guarda-chuva no Parque de La-Salette é seguida de uma visita à Casa de Vidreiro, terminando o dia num ambiente interior fascinante."
           },
           "stops": [
             {
@@ -342,7 +356,8 @@
                 "de": "Nutzen Sie den prachtvollen Innenraum als ersten trockenen Hafen des Tages.",
                 "hu": "Használja ki a pompás belső teret a nap első száraz állomásaként.",
                 "ro": "Folosiți interiorul splendid ca prim refugiu uscat al zilei.",
-                "en": "Use the splendid interior as your first dry haven of the day."
+                "en": "Use the splendid interior as your first dry haven of the day.",
+                "pt": "Use o esplêndido interior como o seu primeiro refúgio seco do dia."
               }
             },
             {
@@ -351,7 +366,8 @@
                 "de": "Ein schnelles Foto unter dem Regenschirm, bevor es zur nahen Bibliothek geht.",
                 "hu": "Egy gyors fotó az esernyő alatt, mielőtt a közeli könyvtárba indulna.",
                 "ro": "O fotografie rapidă sub umbrelă înainte de a merge la biblioteca din apropiere.",
-                "en": "A quick photo under the umbrella before heading to the nearby library."
+                "en": "A quick photo under the umbrella before heading to the nearby library.",
+                "pt": "Uma foto rápida sob o guarda-chuva antes de se dirigir à biblioteca próxima."
               }
             },
             {
@@ -360,7 +376,8 @@
                 "de": "Der ideale Ort, um bei einem Buch auf das Ende eines Regenschauers zu warten.",
                 "hu": "Ideális hely egy könyv mellett megvárni a zápor végét.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei averse lângă o carte.",
-                "en": "The ideal place to wait out a shower with a book."
+                "en": "The ideal place to wait out a shower with a book.",
+                "pt": "O local ideal para esperar uma chuva com um livro."
               }
             },
             {
@@ -369,7 +386,8 @@
                 "de": "Ausgiebige Besichtigung der Exponate, während es draußen stürmt.",
                 "hu": "Alapos tárlatvezetés, amíg kint tombol a vihar.",
                 "ro": "Vizită detaliată a exponatelor în timp ce afară plouă torențial.",
-                "en": "Extensive tour of the exhibits while it storms outside."
+                "en": "Extensive tour of the exhibits while it storms outside.",
+                "pt": "Visita extensa às exposições enquanto a tempestade prossegue lá fora."
               }
             },
             {
@@ -378,7 +396,8 @@
                 "de": "Die Pavillons bieten Schutz; die nassen Blätter erzeugen eine mystische Stimmung.",
                 "hu": "A pavilonok védelmet nyújtanak; a vizes levelek misztikus hangulatot árasztanak.",
                 "ro": "Pavilioanele oferă protecție; frunzele umede creează o atmosferă mistică.",
-                "en": "The pavilions offer shelter; wet leaves create a mystical atmosphere."
+                "en": "The pavilions offer shelter; wet leaves create a mystical atmosphere.",
+                "pt": "Os pavilhões oferecem abrigo; as folhas molhadas criam uma atmosfera mística."
               }
             },
             {
@@ -387,7 +406,8 @@
                 "de": "Warme Atmosphäre im Inneren, perfekt um sich nach dem Spaziergang aufzuwärmen.",
                 "hu": "Meleg belső légkör, tökéletes a séta utáni felmelegedéshez.",
                 "ro": "Atmosferă caldă în interior, perfectă pentru a vă încălzi după plimbare.",
-                "en": "Warm indoor atmosphere, perfect for warming up after the walk."
+                "en": "Warm indoor atmosphere, perfect for warming up after the walk.",
+                "pt": "Ambiente interior acolhedor, perfeito para aquecer após a caminhada."
               }
             }
           ],
@@ -415,6 +435,12 @@
               "The library and museum offer generous indoor spaces, ideal for long rain breaks.",
               "A compact umbrella is more practical than a rain poncho due to the short distances.",
               "Look for central cafes with covered terraces ('esplanada') for your lunch break."
+            ],
+            "pt": [
+              "Use calçado impermeável, pois alguns empedrados podem ficar escorregadios quando molhados.",
+              "A biblioteca e o museu oferecem espaços interiores generosos, ideais para longas pausas na chuva.",
+              "Um guarda-chuva compacto é mais prático do que uma capa de chuva devido às curtas distâncias.",
+              "Procure cafés centrais com esplanadas cobertas para a sua pausa de almoço."
             ]
           }
         },
@@ -423,7 +449,8 @@
             "de": "Erleben Sie das milde portugiesische Winterlicht bei einem Morgengang zur Kirche. Der Vormittag führt Sie durch die kühleren Straßen zur Bibliothek und zum Museum, wo Sie die Wärme der Kultur genießen. Nach einem herzhaften lokalen Mittagessen nutzen Sie die hellen Stunden für den Park La-Salette. Wenn die Sonne gegen 17:30 Uhr untergeht, bietet die Casa de Vidreiro einen gemütlichen und beleuchteten Abschluss Ihres Wintertages.",
             "hu": "Élvezze a lágy portugál téli fényt a reggeli séta során a templom felé. A délelőtt a hűvösebb utcákon át a könyvtárba és a múzeumba vezet, ahol élvezheti a kulturális melegséget. Egy kiadós helyi ebéd után használja ki a világos órákat a La-Salette parkban. Amikor 17:30 körül lemegy a nap, a Casa de Vidreiro meghitt és kivilágított befejezést kínál téli napjához.",
             "ro": "Bucurați-vă de lumina blândă a iernii portugheze în timpul plimbării de dimineață spre biserică. Dimineața vă poartă pe străzile răcoroase spre bibliotecă și muzeu, unde vă bucurați de căldura culturii. După un prânz local consistent, profitați de orele cu lumină în Parcul La-Salette. Când soarele apune în jurul orei 17:30, Casa de Vidreiro oferă un final primitor zilei de iarnă.",
-            "en": "Enjoy the soft Portuguese winter light during a morning walk to the church. The morning leads you through cooler streets to the library and museum, where you can enjoy the warmth of culture. After a hearty local lunch, make the most of the daylight hours in La-Salette Park. As the sun sets around 17:30, the Glassmaker's House provides a cozy and well-lit conclusion to your winter day."
+            "en": "Enjoy the soft Portuguese winter light during a morning walk to the church. The morning leads you through cooler streets to the library and museum, where you can enjoy the warmth of culture. After a hearty local lunch, make the most of the daylight hours in La-Salette Park. As the sun sets around 17:30, the Glassmaker's House provides a cozy and well-lit conclusion to your winter day.",
+            "pt": "Desfrute da suave luz do inverno português durante uma caminhada matinal até à igreja. A manhã leva-o por ruas mais frescas até à biblioteca e ao museu, onde pode usufruir do calor da cultura. Após um almoço reconfortante com produtos locais, aproveite ao máximo as horas de luz no Parque de La-Salette. Como o sol se põe por volta das 17:30, a Casa de Vidreiro oferece uma conclusão acolhedora e bem iluminada ao seu dia de inverno."
           },
           "stops": [
             {
@@ -432,7 +459,8 @@
                 "de": "Morgens ist es hier oft kühler; ein Schal ist im Innenraum empfehlenswert.",
                 "hu": "Reggelente itt gyakran hűvösebb van; a templomban ajánlott a sál.",
                 "ro": "Dimineața este adesea mai răcoare aici; un fular este recomandat în interior.",
-                "en": "It's often cooler here in the morning; a scarf is recommended inside."
+                "en": "It's often cooler here in the morning; a scarf is recommended inside.",
+                "pt": "Costuma estar mais fresco aqui de manhã; um lenço é recomendável no interior."
               }
             },
             {
@@ -441,7 +469,8 @@
                 "de": "Das Winterlicht eignet sich hervorragend für kontrastreiche Fotos der Statue.",
                 "hu": "A téli fény kiválóan alkalmas a szobor kontrasztos fotózásához.",
                 "ro": "Lumina de iarnă este excelentă pentru fotografii contrastante ale statuii.",
-                "en": "Winter light is excellent for high-contrast photos of the statue."
+                "en": "Winter light is excellent for high-contrast photos of the statue.",
+                "pt": "A luz de inverno é excelente para fotos de alto contraste da estátua."
               }
             },
             {
@@ -450,7 +479,8 @@
                 "de": "Genießen Sie die beheizten Leseräume als angenehme Zwischenstation.",
                 "hu": "Élvezze a fűtött olvasótermeket kellemes köztes állomásként.",
                 "ro": "Bucurați-vă de sălile de lectură încălzite ca oprire intermediară plăcută.",
-                "en": "Enjoy the heated reading rooms as a pleasant intermediate stop."
+                "en": "Enjoy the heated reading rooms as a pleasant intermediate stop.",
+                "pt": "Desfrute das salas aquecidas de leitura como uma agradável paragem intermédia."
               }
             },
             {
@@ -459,7 +489,8 @@
                 "de": "Ein warmer Ort, um tief in die Geschichte der Region einzutauchen.",
                 "hu": "Meleg helyszín, ahol mélyen elmerülhet a régió történelmében.",
                 "ro": "Un loc călduros unde puteți explora în profunzime istoria regiunii.",
-                "en": "A warm venue to dive deep into the region's history."
+                "en": "A warm venue to dive deep into the region's history.",
+                "pt": "Um local quente para mergulhar na história da região."
               }
             },
             {
@@ -468,7 +499,8 @@
                 "de": "Besuchen Sie den Park vor 17:00 Uhr, um die Aussicht im Tageslicht zu genießen.",
                 "hu": "Látogasson el a parkba 17:00 előtt, hogy nappali fényben lássa a kilátást.",
                 "ro": "Vizitați parcul înainte de ora 17:00 pentru a vedea panorama la lumina zilei.",
-                "en": "Visit the park before 17:00 to catch the views in daylight."
+                "en": "Visit the park before 17:00 to catch the views in daylight.",
+                "pt": "Visite o parque antes das 17:00 para apanhar as vistas com luz do dia."
               }
             },
             {
@@ -477,7 +509,8 @@
                 "de": "Die Glasöfen verströmen auch im Winter eine angenehme Wärme.",
                 "hu": "Az üvegfúvó kemencék télen is kellemes meleget árasztanak.",
                 "ro": "Cuptoarele de sticlă emană o căldură plăcută chiar și iarna.",
-                "en": "The glass ovens radiate a pleasant warmth even in winter."
+                "en": "The glass ovens radiate a pleasant warmth even in winter.",
+                "pt": "Os fornos de vidro irradiam um calor agradável mesmo no inverno."
               }
             }
           ],
@@ -505,6 +538,12 @@
               "The sun sets early; schedule outdoor activities for the morning.",
               "Try 'Pão de Ul' – it tastes best fresh and warm from the oven in winter.",
               "Humidity can increase the chill; a windproof jacket helps significantly."
+            ],
+            "pt": [
+              "Vista-se em camadas, pois está fresco na sombra mas ameno ao sol.",
+              "O sol põe-se cedo; agende as actividades ao ar livre para a manhã.",
+              "Experimente o 'Pão de Ul' – sabe melhor fresco e quente do forno no inverno.",
+              "A humidade pode aumentar o frio; um casaco corta-vento ajuda significativamente."
             ]
           }
         }
@@ -523,7 +562,8 @@
             "de": "Parque de La-Salette",
             "hu": "La-Salette Park",
             "ro": "Parcul La-Salette",
-            "en": "La-Salette Park"
+            "en": "La-Salette Park",
+            "pt": "Parque de La-Salette"
           },
           "coords": [
             -8.488,
@@ -541,7 +581,8 @@
             "de": "Igreja Matriz de Oliveira de Azeméis",
             "hu": "Oliveira de Azeméis főtemploma",
             "ro": "Biserica Matriz din Oliveira de Azeméis",
-            "en": "Mother Church of Oliveira de Azeméis"
+            "en": "Mother Church of Oliveira de Azeméis",
+            "pt": "Igreja Matriz de Oliveira de Azeméis"
           },
           "coords": [
             -8.4771,
@@ -559,7 +600,8 @@
             "de": "Museu Regional de Oliveira de Azeméis",
             "hu": "Oliveira de Azeméis Regionális Múzeum",
             "ro": "Muzeul Regional din Oliveira de Azeméis",
-            "en": "Regional Museum of Oliveira de Azeméis"
+            "en": "Regional Museum of Oliveira de Azeméis",
+            "pt": "Museu Regional de Oliveira de Azeméis"
           },
           "coords": [
             -8.476,
@@ -577,7 +619,8 @@
             "de": "Moinhos de Ul",
             "hu": "Ul malmai",
             "ro": "Morile din Ul",
-            "en": "Mills of Ul"
+            "en": "Mills of Ul",
+            "pt": "Moinhos de Ul"
           },
           "coords": [
             -8.46,
@@ -595,7 +638,8 @@
             "de": "Castro de Ul",
             "hu": "Castro de Ul",
             "ro": "Castro de Ul",
-            "en": "Castro de Ul"
+            "en": "Castro de Ul",
+            "pt": "Castro de Ul"
           },
           "coords": [
             -8.465,
@@ -613,7 +657,8 @@
             "de": "Casa de Vidreiro",
             "hu": "Casa de Vidreiro",
             "ro": "Casa de Vidreiro",
-            "en": "Casa de Vidreiro"
+            "en": "Casa de Vidreiro",
+            "pt": "Casa de Vidreiro"
           },
           "coords": [
             -8.47,
@@ -631,7 +676,8 @@
         "de": "Starten Sie Ihre Radtour im grünen Herzen der Stadt, dem La-Salette-Park. Fahren Sie ins Zentrum, um die Hauptkirche und das Regionalmuseum zu besichtigen. Am Nachmittag führt Sie eine längere Fahrt zu den historischen Mühlen und der Festung von Ul, wo Sie in die antike Geschichte eintauchen. Beenden Sie die Tour mit einem Besuch im Casa de Vidreiro, um mehr über die Glasherstellung zu erfahren.",
         "hu": "Kezdje a biciklitúrát a város zöld szívében, a La-Salette parkban. Tekerjen be a központba, hogy megnézze a főtemplomot és a regionális múzeumot. Délután egy hosszabb út vezet Ul történelmi malmaihoz és erődítményéhez, ahol elmerülhet az ókori történelemben. A túrát a Casa de Vidreiro meglátogatásával zárja, hogy többet tudjon meg az üveggyártásról.",
         "ro": "Începeți turul cu bicicleta în inima verde a orașului, Parcul La-Salette. Pedalați spre centru pentru a vizita Biserica Matriz și Muzeul Regional. După-amiaza, o plimbare mai lungă vă va duce la morile istorice și la fortăreața din Ul, unde vă veți cufunda în istoria antică. Încheiați turul cu o vizită la Casa de Vidreiro pentru a afla mai multe despre fabricarea sticlei.",
-        "en": "Start your bike tour in the green heart of the city, La-Salette Park. Cycle downtown to visit the Mother Church and the Regional Museum. In the afternoon, a longer ride takes you to the historic Mills and Castro of Ul, immersing you in ancient history. Finish the tour with a visit to the Casa de Vidreiro to learn about glassmaking heritage."
+        "en": "Start your bike tour in the green heart of the city, La-Salette Park. Cycle downtown to visit the Mother Church and the Regional Museum. In the afternoon, a longer ride takes you to the historic Mills and Castro of Ul, immersing you in ancient history. Finish the tour with a visit to the Casa de Vidreiro to learn about glassmaking heritage.",
+        "pt": "Comece o seu passeio de bicicleta no coração verde da cidade, o Parque de La-Salette. Pedale até ao centro para visitar a Igreja Matriz e o Museu Regional. À tarde, um trajecto mais longo leva-o aos históricos Moinhos e ao Castro de Ul, mergulhando-o na história antiga. Termine o passeio com uma visita à Casa de Vidreiro para conhecer o património da vidraria."
       },
       "gastro_picks": {
         "de": [
@@ -827,6 +873,12 @@
           "Bring plenty of water and some snacks.",
           "Some paths can be uneven, so be prepared.",
           "Always lock your bike securely in popular areas."
+        ],
+        "pt": [
+          "Verifique o estado da sua bicicleta antes de começar, especialmente para o trajecto mais longo até Ul.",
+          "Leve bastante água e alguns snacks.",
+          "Alguns caminhos podem ser irregulares, por isso esteja preparado.",
+          "Tranque sempre a sua bicicleta em segurança nas zonas mais frequentadas."
         ]
       },
       "variants": {
@@ -835,7 +887,8 @@
             "de": "Ein regnerischer Radtag beginnt im Park La-Salette, wo die Bäume teilweisen Schutz bieten. Fahren Sie vorsichtig zur Kirche und zum Museum im Stadtzentrum. Die längere Strecke zu den Mühlen von Ul führt durch grüne, nasse Landschaften, die bei Regen besonders intensiv duften. Nach der Besichtigung der archäologischen Stätte von Ul kehren Sie zur Casa de Vidreiro zurück, um Ihr Rad abzustellen und sich im Trockenen zu erholen.",
             "hu": "Egy esős kerékpáros nap a La-Salette parkban indul, ahol a fák részleges védelmet nyújtanak. Tekerjen óvatosan a belvárosi templomhoz és múzeumhoz. Az Ul malmaihoz vezető hosszabb szakasz zöld, párás tájakon át visz, amelyek esőben különösen illatosak. Az Ul castro megtekintése után térjen vissza a Casa de Vidreiro-hoz, hogy letegye a bringát és fedett helyen pihenjen meg.",
             "ro": "O zi ploioasă cu bicicleta începe în Parcul La-Salette, unde copacii oferă protecție parțială. Pedalați cu atenție spre biserică și muzeul din centru. Traseul mai lung spre Morile din Ul trece prin peisaje verzi și umede, care miros intens pe ploaie. După vizitarea sitului arheologic din Ul, reveniți la Casa de Vidreiro pentru a lăsa bicicleta și a vă odihni la uscat.",
-            "en": "A rainy cycling day starts in La-Salette Park, where trees offer partial shelter. Cycle carefully to the church and museum in the city center. The longer stretch to the Mills of Ul leads through lush, wet landscapes that smell particularly fresh in the rain. After visiting the Castro de Ul, return to the Glassmaker's House to park your bike and recover in a dry environment."
+            "en": "A rainy cycling day starts in La-Salette Park, where trees offer partial shelter. Cycle carefully to the church and museum in the city center. The longer stretch to the Mills of Ul leads through lush, wet landscapes that smell particularly fresh in the rain. After visiting the Castro de Ul, return to the Glassmaker's House to park your bike and recover in a dry environment.",
+            "pt": "Um dia de ciclismo com chuva começa no Parque de La-Salette, onde as árvores oferecem abrigo parcial. Pedale com cuidado até à igreja e ao museu no centro da cidade. O troço mais longo até aos Moinhos de Ul atravessa paisagens húmidas e exuberantes que cheiram especialmente bem na chuva. Depois de visitar o Castro de Ul, regresse à Casa de Vidreiro para estacionar a bicicleta e recuperar num ambiente seco."
           },
           "stops": [
             {
@@ -844,7 +897,8 @@
                 "de": "Vorsicht auf den Waldwegen; sie können bei Regen rutschig und schlammig sein.",
                 "hu": "Vigyázat az erdei utakon; esőben csúszósak és sárosak lehetnek.",
                 "ro": "Atenție pe potecile din pădure; pot fi alunecoase și noroioase pe ploaie.",
-                "en": "Be careful on the forest paths; they can be slippery and muddy in the rain."
+                "en": "Be careful on the forest paths; they can be slippery and muddy in the rain.",
+                "pt": "Tenha cuidado nos caminhos florestais; podem ficar escorregadios e lamacentos com chuva."
               }
             },
             {
@@ -853,7 +907,8 @@
                 "de": "Sicherer Fahrradabstellplatz in der Nähe vorhanden; nutzen Sie die Pause zum Trocknen.",
                 "hu": "Biztonságos kerékpártároló a közelben; használja a szünetet a száradáshoz.",
                 "ro": "Parcare sigură pentru biciclete în apropiere; folosiți pauza pentru a vă usca.",
-                "en": "Safe bike parking available nearby; use the break to dry off."
+                "en": "Safe bike parking available nearby; use the break to dry off.",
+                "pt": "Estacionamento seguro para bicicletas nas proximidades; aproveite a pausa para secar-se."
               }
             },
             {
@@ -862,7 +917,8 @@
                 "de": "Geben Sie nasse Regenjacken am Eingang ab, bevor Sie die Ausstellung besuchen.",
                 "hu": "A vizes esőkabátokat hagyja a bejáratnál, mielőtt megnézné a kiállítást.",
                 "ro": "Lăsați pelerinele ude la intrare înainte de a vizita expoziția.",
-                "en": "Leave wet rain jackets at the entrance before visiting the exhibition."
+                "en": "Leave wet rain jackets at the entrance before visiting the exhibition.",
+                "pt": "Deixe os casacos de chuva molhados na entrada antes de visitar a exposição."
               }
             },
             {
@@ -871,7 +927,8 @@
                 "de": "Die historischen Mühlen bieten gute Unterstellmöglichkeiten bei plötzlichen Güssen.",
                 "hu": "A történelmi malmok jó búvóhelyet kínálnak hirtelen záporok esetén.",
                 "ro": "Morile istorice oferă adăpost bun în caz de averse bruște.",
-                "en": "The historic mills offer good shelter during sudden downpours."
+                "en": "The historic mills offer good shelter during sudden downpours.",
+                "pt": "Os moinhos históricos oferecem bom abrigo durante aguaceiros repentinos."
               }
             },
             {
@@ -880,7 +937,8 @@
                 "de": "Das Gelände ist offen; bei starkem Regen nur kurz besichtigen.",
                 "hu": "A terep nyitott; heves esőben csak rövid látogatást tegyen.",
                 "ro": "Terenul este deschis; în caz de ploaie puternică, faceți doar o vizită scurtă.",
-                "en": "The site is open; in heavy rain, keep your visit brief."
+                "en": "The site is open; in heavy rain, keep your visit brief.",
+                "pt": "O local está aberto; em chuva forte mantenha a visita breve."
               }
             },
             {
@@ -889,7 +947,8 @@
                 "de": "Perfekter Ort, um sich nach der Tour aufzuwärmen und Ausrüstung zu ordnen.",
                 "hu": "Tökéletes hely a túra utáni felmelegedéshez és a felszerelés rendezéséhez.",
                 "ro": "Locul perfect pentru a vă încălzi după tur și a vă organiza echipamentul.",
-                "en": "Perfect place to warm up after the tour and organize your gear."
+                "en": "Perfect place to warm up after the tour and organize your gear.",
+                "pt": "Local perfeito para aquecer após o passeio e organizar o equipamento."
               }
             }
           ],
@@ -917,6 +976,12 @@
               "Avoid sudden braking on wet cobblestone sections.",
               "A waterproof backpack cover will protect your camera and spare clothes.",
               "The route to Ul may have small puddles in the rain – cycle carefully."
+            ],
+            "pt": [
+              "Para-lamas são essenciais para os caminhos à volta de Ul.",
+              "Evite travagens bruscas em troços de calçada molhada.",
+              "Uma capa impermeável para a mochila protegerá a sua máquina fotográfica e roupa suplente.",
+              "O percurso até Ul pode ter pequenas poças quando chove – pedale com cuidado."
             ]
           }
         },
@@ -925,7 +990,8 @@
             "de": "Starten Sie erfrischt im kühlen Morgenlicht im Park La-Salette. Die Radtour führt Sie zügig ins Zentrum zur Kirche und zum Museum, wo Sie sich zwischendurch aufwärmen können. Die Fahrt hinaus nach Ul erfordert warme Handschuhe, belohnt aber mit klarer Sicht auf die Winterlandschaft. Besuchen Sie das Castro de Ul in der Mittagssonne und beenden Sie Ihre Runde bei Einbruch der frühen Dämmerung in der gemütlichen Casa de Vidreiro.",
             "hu": "Induljon frissen a hűvös reggeli fényben a La-Salette parkban. A kerékpártúra gyorsan a központba, a templomhoz és a múzeumhoz vezet, ahol közben felmelegedhet. Az Ul felé tartó szakaszhoz meleg kesztyű kell, de tiszta kilátással jutalmaz a téli tájra. Látogassa meg az Ul castrót a déli napsütésben, és fejezze be a kört a korai szürkületben a meghitt Casa de Vidreiro-nál.",
             "ro": "Începeți revigorat în lumina răcoroasă a dimineții în Parcul La-Salette. Turul cu bicicleta vă duce rapid în centru la biserică și muzeu, unde vă puteți încălzi. Drumul spre Ul necesită mănuși groase, dar vă răsplătește cu o vedere clară asupra peisajului de iarnă. Vizitați Castro de Ul sub soarele de prânz și încheiați runda la lăsarea serii devreme la Casa de Vidreiro.",
-            "en": "Start refreshed in the cool morning light at La-Salette Park. The bike tour leads you quickly to the center's church and museum, where you can warm up in between. The ride out to Ul requires warm gloves but rewards you with clear views of the winter landscape. Visit Castro de Ul in the midday sun and finish your circuit as the early dusk sets in at the cozy Glassmaker's House."
+            "en": "Start refreshed in the cool morning light at La-Salette Park. The bike tour leads you quickly to the center's church and museum, where you can warm up in between. The ride out to Ul requires warm gloves but rewards you with clear views of the winter landscape. Visit Castro de Ul in the midday sun and finish your circuit as the early dusk sets in at the cozy Glassmaker's House.",
+            "pt": "Comece revigorado na luz fresca da manhã no Parque La-Salette. O passeio de bicicleta leva-o rapidamente à igreja e ao museu do centro, onde pode aquecer-se entre as visitas. A saída para Ul exige luvas quentes, mas recompensa com vistas nítidas da paisagem de inverno. Visite o Castro de Ul ao meio-dia e termine o circuito quando o crepúsculo precoce se instala na acolhedora Casa de Vidreiro."
           },
           "stops": [
             {
@@ -934,7 +1000,8 @@
                 "de": "Achten Sie auf Raureif auf den Wegen am frühen Morgen.",
                 "hu": "Figyeljen a zúzmarára az utakon kora reggel.",
                 "ro": "Atenție la chiciura de pe poteci la prima oră a dimineții.",
-                "en": "Watch out for frost on the paths early in the morning."
+                "en": "Watch out for frost on the paths early in the morning.",
+                "pt": "Cuidado com o gelo nos caminhos nas primeiras horas da manhã."
               }
             },
             {
@@ -943,7 +1010,8 @@
                 "de": "Ein guter Ort für eine kurze Aufwärmpause abseits des Fahrtwindes.",
                 "hu": "Jó hely egy rövid melegedő szünetre a menetszéltől távol.",
                 "ro": "Un loc bun pentru o scurtă pauză de încălzire departe de vânt.",
-                "en": "A good spot for a short warm-up break away from the wind."
+                "en": "A good spot for a short warm-up break away from the wind.",
+                "pt": "Um bom local para uma curta pausa de aquecimento protegido do vento."
               }
             },
             {
@@ -952,7 +1020,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre schwere Winterfahrradkleidung.",
                 "hu": "Használja a ruhatárat a nehéz téli kerékpáros ruházathoz.",
                 "ro": "Folosiți garderoba pentru echipamentul greu de ciclism de iarnă.",
-                "en": "Use the cloakroom for your heavy winter cycling gear."
+                "en": "Use the cloakroom for your heavy winter cycling gear.",
+                "pt": "Use o bengaleiro para a sua roupa pesada de ciclismo de inverno."
               }
             },
             {
@@ -961,7 +1030,8 @@
                 "de": "Hier weht oft eine kühle Brise; halten Sie die Fahrtpausen kurz.",
                 "hu": "Itt gyakran fúj hűvös szellő; tartsa röviden a pihenőket.",
                 "ro": "Aici suflă adesea o briză rece; păstrați pauzele scurte.",
-                "en": "A cool breeze often blows here; keep your stops brief."
+                "en": "A cool breeze often blows here; keep your stops brief.",
+                "pt": "Sopra frequentemente uma brisa fresca aqui; mantenha as paragens breves."
               }
             },
             {
@@ -970,7 +1040,8 @@
                 "de": "Der höchste Punkt der Tour; genießen Sie die klare Winterfernsticht.",
                 "hu": "A túra legmagasabb pontja; élvezze a tiszta téli kilátást.",
                 "ro": "Cel mai înalt punct al turului; bucurați-vă de panorama clară de iarnă.",
-                "en": "The highest point of the tour; enjoy the clear winter long-distance views."
+                "en": "The highest point of the tour; enjoy the clear winter long-distance views.",
+                "pt": "O ponto mais alto do passeio; desfrute das longas vistas de inverno bem definidas."
               }
             },
             {
@@ -979,7 +1050,8 @@
                 "de": "Ein heißer Tee in der Nähe nach der Rückgabe des Rades wirkt Wunder.",
                 "hu": "Egy forró tea a közelben a bringa leadása után csodákra képes.",
                 "ro": "Un ceai fierbinte în apropiere după returnarea bicicletei face minuni.",
-                "en": "A hot tea nearby after returning the bike works wonders."
+                "en": "A hot tea nearby after returning the bike works wonders.",
+                "pt": "Um chá quente nas imediações após devolver a bicicleta faz maravilhas."
               }
             }
           ],
@@ -1007,6 +1079,12 @@
               "Wear thermal underwear; the wind chill while riding is cooler than expected.",
               "Paths in Ul can be slippery due to frozen dew.",
               "Plan your return trip to be back in the urban area before sunset."
+            ],
+            "pt": [
+              "Boa iluminação é vital, pois escurece rapidamente após as 17:00.",
+              "Use roupa interior térmica; o efeito do vento ao pedalar é mais frio do que o esperado.",
+              "Os caminhos em Ul podem estar escorregadios devido ao orvalho congelado.",
+              "Planeie a viagem de regresso para estar de volta à zona urbana antes do pôr do sol."
             ]
           }
         }
@@ -1025,7 +1103,8 @@
             "de": "Castro de Ul",
             "hu": "Castro de Ul",
             "ro": "Castro de Ul",
-            "en": "Castro de Ul"
+            "en": "Castro de Ul",
+            "pt": "Castro de Ul"
           },
           "coords": [
             -8.465,
@@ -1043,7 +1122,8 @@
             "de": "Moinhos de Ul",
             "hu": "Ul malmai",
             "ro": "Morile din Ul",
-            "en": "Mills of Ul"
+            "en": "Mills of Ul",
+            "pt": "Moinhos de Ul"
           },
           "coords": [
             -8.46,
@@ -1061,7 +1141,8 @@
             "de": "Parque de La-Salette",
             "hu": "La-Salette Park",
             "ro": "Parcul La-Salette",
-            "en": "La-Salette Park"
+            "en": "La-Salette Park",
+            "pt": "Parque La-Salette"
           },
           "coords": [
             -8.488,
@@ -1079,7 +1160,8 @@
             "de": "Igreja Matriz de Oliveira de Azeméis",
             "hu": "Oliveira de Azeméis főtemploma",
             "ro": "Biserica Matriz din Oliveira de Azeméis",
-            "en": "Mother Church of Oliveira de Azeméis"
+            "en": "Mother Church of Oliveira de Azeméis",
+            "pt": "Igreja Matriz de Oliveira de Azeméis"
           },
           "coords": [
             -8.4771,
@@ -1097,7 +1179,8 @@
             "de": "Museu Regional de Oliveira de Azeméis",
             "hu": "Oliveira de Azeméis Regionális Múzeum",
             "ro": "Muzeul Regional din Oliveira de Azeméis",
-            "en": "Regional Museum of Oliveira de Azeméis"
+            "en": "Regional Museum of Oliveira de Azeméis",
+            "pt": "Museu Regional de Oliveira de Azeméis"
           },
           "coords": [
             -8.476,
@@ -1115,7 +1198,8 @@
             "de": "Biblioteca Municipal Ferreira de Castro",
             "hu": "Ferreira de Castro Városi Könyvtár",
             "ro": "Biblioteca Municipală Ferreira de Castro",
-            "en": "Ferreira de Castro Municipal Library"
+            "en": "Ferreira de Castro Municipal Library",
+            "pt": "Biblioteca Municipal Ferreira de Castro"
           },
           "coords": [
             -8.479,
@@ -1133,7 +1217,8 @@
             "de": "Casa de Vidreiro",
             "hu": "Casa de Vidreiro",
             "ro": "Casa de Vidreiro",
-            "en": "Casa de Vidreiro"
+            "en": "Casa de Vidreiro",
+            "pt": "Casa de Vidreiro"
           },
           "coords": [
             -8.47,
@@ -1151,7 +1236,8 @@
         "de": "Nutzen Sie die Flexibilität des Autos, um zuerst das historische Cluster von Ul zu erkunden. Gehen Sie vom Castro zu den Mühlen. Fahren Sie dann zum La-Salette-Park für eine Mittagspause und Erholung in der Natur. Am Nachmittag parken Sie im Stadtzentrum, um die Kirche, das Museum und die Bibliothek zu Fuß zu entdecken, bevor Sie zum Casa de Vidreiro fahren, um den Tag abzurunden.",
         "hu": "Használja ki az autó rugalmasságát, és először Ul történelmi klaszterét fedezze fel. Sétáljon el a Castrótól a malmokig. Ezután vezessen a La-Salette parkba egy ebédszünetre és egy kis természeti kikapcsolódásra. Délután parkoljon le a városközpontban, hogy gyalog fedezze fel a templomot, a múzeumot és a könyvtárat, mielőtt a nap zárásaként a Casa de Vidreiro-hoz hajtana.",
         "ro": "Folosiți flexibilitatea mașinii pentru a explora mai întâi clusterul istoric din Ul. Plimbați-vă de la castro la mori. Apoi, conduceți la Parcul La-Salette pentru o pauză de prânz și recreere în natură. După-amiaza, parcați în centrul orașului pentru a descoperi pe jos biserica, muzeul și biblioteca, înainte de a conduce la Casa de Vidreiro pentru a încheia ziua.",
-        "en": "Use the car's flexibility to explore the historic Ul cluster first. Walk from the castro to the mills. Then, drive to La-Salette Park for a lunch break and nature retreat. In the afternoon, park in the city center to discover the church, museum, and library on foot, before a final drive to Casa de Vidreiro to cap off the day."
+        "en": "Use the car's flexibility to explore the historic Ul cluster first. Walk from the castro to the mills. Then, drive to La-Salette Park for a lunch break and nature retreat. In the afternoon, park in the city center to discover the church, museum, and library on foot, before a final drive to Casa de Vidreiro to cap off the day.",
+        "pt": "Use a flexibilidade do carro para explorar primeiro o conjunto histórico de Ul. Caminhe do castro até aos moinhos. Depois, conduza até ao Parque La-Salette para uma pausa de almoço e contacto com a natureza. À tarde, estacione no centro da cidade para descobrir a igreja, o museu e a biblioteca a pé, antes de uma última deslocação até à Casa de Vidreiro para encerrar o dia."
       },
       "gastro_picks": {
         "de": [
@@ -1347,6 +1433,12 @@
           "A GPS is highly recommended for navigating between clusters.",
           "Allow extra time for traffic, especially during peak hours.",
           "The roads around Ul can be narrow, so drive carefully."
+        ],
+        "pt": [
+          "Verifique opções de estacionamento com antecedência, especialmente no centro da cidade.",
+          "Um GPS é altamente recomendado para navegar entre os núcleos.",
+          "Reserve tempo extra para o trânsito, sobretudo em horas de ponta.",
+          "As estradas à volta de Ul podem ser estreitas, por isso conduza com cuidado."
         ]
       },
       "variants": {
@@ -1355,7 +1447,8 @@
             "de": "Trotz Regen ist Oliveira de Azeméis mit dem Auto bequem zu erkunden. Starten Sie beim Castro de Ul und den Mühlen, wo Sie fast bis zum Eingang fahren können. Der Park La-Salette bietet auch vom Auto aus schöne Ausblicke, bevor Sie im Stadtzentrum die Kirche und das Museum besuchen. Nutzen Sie die nahen Parkplätze der Bibliothek und beenden Sie den Tag trocken bei der Casa de Vidreiro.",
             "hu": "Az eső ellenére Oliveira de Azeméis kényelmesen felfedezhető autóval. Kezdje az Ul castrónál és a malmoknál, ahol szinte a bejáratig hajthat. A La-Salette park az autóból is szép kilátást nyújt, mielőtt a belvárosi templomot és múzeumot felkeresné. Használja a könyvtár közeli parkolóit, és zárja a napot szárazon a Casa de Vidreiro-nál.",
             "ro": "În ciuda ploii, Oliveira de Azeméis este ușor de explorat cu mașina. Începeți la Castro de Ul și mori, unde puteți conduce aproape până la intrare. Parcul La-Salette oferă vederi frumoase chiar și din mașină, înainte de a vizita biserica și muzeul din centru. Folosiți parcările din apropierea bibliotecii și încheiați ziua la uscat la Casa de Vidreiro.",
-            "en": "Despite the rain, Oliveira de Azeméis is easy to explore by car. Start at Castro de Ul and the mills, where you can drive almost to the entrance. La-Salette Park offers beautiful views even from the car before visiting the church and museum in the center. Use the parking lots near the library and end your day dry at the Glassmaker's House."
+            "en": "Despite the rain, Oliveira de Azeméis is easy to explore by car. Start at Castro de Ul and the mills, where you can drive almost to the entrance. La-Salette Park offers beautiful views even from the car before visiting the church and museum in the center. Use the parking lots near the library and end your day dry at the Glassmaker's House.",
+            "pt": "Apesar da chuva, Oliveira de Azeméis é fácil de explorar de carro. Comece no Castro de Ul e nos moinhos, onde pode conduzir quase até à entrada. O Parque La-Salette oferece belas vistas mesmo desde o carro antes de visitar a igreja e o museu no centro. Use os parques de estacionamento junto à biblioteca e termine o dia seco na Casa de Vidreiro."
           },
           "stops": [
             {
@@ -1364,7 +1457,8 @@
                 "de": "Parken Sie nah am Aussichtspunkt, um den Fußweg im Regen zu minimieren.",
                 "hu": "Parkoljon közel a kilátóponthoz, hogy minimalizálja az esőben való gyaloglást.",
                 "ro": "Parcați aproape de punctul de belvedere pentru a minimiza mersul prin ploaie.",
-                "en": "Park close to the viewpoint to minimize walking in the rain."
+                "en": "Park close to the viewpoint to minimize walking in the rain.",
+                "pt": "Estacione perto do miradouro para minimizar a caminhada na chuva."
               }
             },
             {
@@ -1373,7 +1467,8 @@
                 "de": "Der Parkplatz ist oft unbefestigt; Vorsicht vor Matsch beim Aussteigen.",
                 "hu": "A parkoló gyakran nem aszfaltozott; vigyázzon a sárra kiszálláskor.",
                 "ro": "Parcarea este adesea neamenajată; atenție la noroi când coborâți din mașină.",
-                "en": "The parking area is often unpaved; watch out for mud when getting out."
+                "en": "The parking area is often unpaved; watch out for mud when getting out.",
+                "pt": "O parque de estacionamento é frequentemente não pavimentado; evite lama ao sair do carro."
               }
             },
             {
@@ -1382,7 +1477,8 @@
                 "de": "Fahren Sie die Panoramastraße im Park ab, wenn der Regen zu stark zum Gehen ist.",
                 "hu": "Hajtson végig a park panorámaútján, ha az eső túl erős a sétához.",
                 "ro": "Parcurgeți drumul panoramic din parc dacă ploaia este prea puternică pentru mers.",
-                "en": "Drive along the panoramic road in the park if the rain is too heavy for walking."
+                "en": "Drive along the panoramic road in the park if the rain is too heavy for walking.",
+                "pt": "Conduza pela estrada panorâmica do parque se a chuva for forte demais para passear a pé."
               }
             },
             {
@@ -1391,7 +1487,8 @@
                 "de": "Zentrale Parkhäuser nutzen, um trockenen Fußes zur Kirche zu gelangen.",
                 "hu": "Használja a központi parkolóházakat, hogy száraz lábbal érjen a templomhoz.",
                 "ro": "Folosiți parcările supraetajate centrale pentru a ajunge la biserică fără a vă uda.",
-                "en": "Use central parking garages to reach the church with dry feet."
+                "en": "Use central parking garages to reach the church with dry feet.",
+                "pt": "Use parques de estacionamento centrais para chegar à igreja com os pés secos."
               }
             },
             {
@@ -1400,7 +1497,8 @@
                 "de": "Parken direkt vor dem Gebäude oft möglich; ideal bei Schauern.",
                 "hu": "Gyakran közvetlenül az épület előtt is lehet parkolni; ideális záporok idején.",
                 "ro": "Parcarea direct în fața clădirii este adesea posibilă; ideal în timpul averselor.",
-                "en": "Parking directly in front of the building is often possible; ideal during showers."
+                "en": "Parking directly in front of the building is often possible; ideal during showers.",
+                "pt": "Estacionar mesmo à frente do edifício é frequentemente possível; ideal durante aguaceiros."
               }
             },
             {
@@ -1409,7 +1507,8 @@
                 "de": "Parken Sie in der Nähe der Bibliothek, um schnell ins Warme zu kommen.",
                 "hu": "Parkoljon a könyvtár közelében, hogy gyorsan beérjen a melegbe.",
                 "ro": "Parcați lângă bibliotecă pentru a intra rapid la căldură.",
-                "en": "Park near the library to get indoors quickly."
+                "en": "Park near the library to get indoors quickly.",
+                "pt": "Estacione perto da biblioteca para entrar rapidamente."
               }
             },
             {
@@ -1418,7 +1517,8 @@
                 "de": "Großer Parkplatz vorhanden; der kurze Weg zum Eingang ist meist geschützt.",
                 "hu": "Nagy parkoló áll rendelkezésre; a bejárathoz vezető rövid út többnyire védett.",
                 "ro": "Parcare mare disponibilă; drumul scurt spre intrare este în mare parte protejat.",
-                "en": "Large parking lot available; the short path to the entrance is mostly sheltered."
+                "en": "Large parking lot available; the short path to the entrance is mostly sheltered.",
+                "pt": "Amplo parque de estacionamento disponível; o curto caminho até à entrada é na sua maioria coberto."
               }
             }
           ],
@@ -1446,6 +1546,12 @@
               "Avoid parking under large trees in the park if there's a storm risk.",
               "Central parking spots fill up quickly in the rain – start looking early.",
               "The roads to Ul are narrow; extra caution is advised on wet surfaces."
+            ],
+            "pt": [
+              "Verifique os limpa-pára-brisas; aguaceiros fortes são comuns no Norte de Portugal.",
+              "Evite estacionar sob grandes árvores no parque se houver risco de tempestade.",
+              "Os lugares centrais enchem-se rapidamente na chuva – comece a procurar cedo.",
+              "As estradas para Ul são estreitas; é recomendável ter cuidado extra em superfícies molhadas."
             ]
           }
         },
@@ -1454,7 +1560,8 @@
             "de": "Ein Wintertag mit dem Auto erlaubt es Ihnen, die kühle Morgenluft beim Castro de Ul und den Mühlen zu genießen, bevor Sie sich im Wagen wieder aufwärmen. Besuchen Sie den Park La-Salette zur Mittagszeit, wenn das Licht am hellsten ist. Am Nachmittag lassen sich die kulturellen Ziele im Zentrum – Kirche, Museum und Bibliothek – bequem ansteuern. Den Abschluss bildet die Casa de Vidreiro, deren warmes Licht in der frühen Winterdämmerung besonders einladend wirkt.",
             "hu": "A téli autós nap lehetővé teszi, hogy élvezze a hűvös reggeli levegőt az Ul castrónál és a malmoknál, mielőtt az autóban újra felmelegedne. A La-Salette parkot délidőben látogassa meg, amikor a legfényesebb a nappal. Délután a belvárosi kulturális célpontok – templom, múzeum és könyvtár – kényelmesen elérhetők. A napot a Casa de Vidreiro zárja, melynek meleg fénye a korai téli szürkületben különösen hívogató.",
             "ro": "O zi de iarnă cu mașina vă permite să vă bucurați de aerul rece de dimineață la Castro de Ul și mori, înainte de a vă încălzi din nou în vehicul. Vizitați Parcul La-Salette la prânz, când lumina este cea mai puternică. După-amiaza, obiectivele culturale din centru – biserica, muzeul și biblioteca – pot fi accesate ușor. Finalul aparține Casei de Vidreiro, ale cărei lumini calde sunt primitoare în amurgul iernii.",
-            "en": "A winter day by car allows you to enjoy the cool morning air at Castro de Ul and the mills before warming up again in the vehicle. Visit La-Salette Park at lunchtime when the light is brightest. In the afternoon, the cultural sites in the center – church, museum, and library – can be easily reached. The conclusion is at the Glassmaker's House, whose warm lights are especially inviting in the early winter dusk."
+            "en": "A winter day by car allows you to enjoy the cool morning air at Castro de Ul and the mills before warming up again in the vehicle. Visit La-Salette Park at lunchtime when the light is brightest. In the afternoon, the cultural sites in the center – church, museum, and library – can be easily reached. The conclusion is at the Glassmaker's House, whose warm lights are especially inviting in the early winter dusk.",
+            "pt": "Um dia de inverno de carro permite-lhe desfrutar do ar fresco da manhã no Castro de Ul e nos moinhos antes de aquecer novamente no veículo. Visite o Parque La-Salette ao almoço, quando a luz é mais intensa. À tarde, os locais culturais do centro – igreja, museu e biblioteca – são facilmente acessíveis. A conclusão é na Casa de Vidreiro, cujas luzes acolhedoras são especialmente convidativas no crepúsculo de início de inverno."
           },
           "stops": [
             {
@@ -1463,7 +1570,8 @@
                 "de": "Nutzen Sie die Heizung im Auto zwischen den kurzen Fotostopps.",
                 "hu": "Használja az autó fűtését a rövid fotómegállók között.",
                 "ro": "Folosiți încălzirea din mașină între opririle scurte pentru fotografii.",
-                "en": "Use the car heater between short photo stops."
+                "en": "Use the car heater between short photo stops.",
+                "pt": "Use o aquecedor do carro entre curtas paragens para fotografias."
               }
             },
             {
@@ -1472,7 +1580,8 @@
                 "de": "Im Tal kann es morgens sehr frostig sein; Parkplatz ist oft schattig.",
                 "hu": "A völgyben reggelente nagyon fagyos lehet az idő; a parkoló gyakran árnyékos.",
                 "ro": "În vale poate fi foarte geros dimineața; parcarea este adesea umbrită.",
-                "en": "It can be very frosty in the valley in the morning; the parking area is often shaded."
+                "en": "It can be very frosty in the valley in the morning; the parking area is often shaded.",
+                "pt": "Pode haver muito geada no vale de manhã; a área de estacionamento está frequentemente sombreada."
               }
             },
             {
@@ -1481,7 +1590,8 @@
                 "de": "Bester Zeitpunkt für Fotos ist 12:00-14:00 Uhr wegen des Sonnenstandes.",
                 "hu": "A fotózáshoz a legjobb időpont 12:00-14:00 a napállás miatt.",
                 "ro": "Cel mai bun moment pentru fotografii este între 12:00 și 14:00 datorită poziției soarelui.",
-                "en": "Best time for photos is 12:00-14:00 due to the sun's position."
+                "en": "Best time for photos is 12:00-14:00 due to the sun's position.",
+                "pt": "Melhor horário para fotos: 12:00–14:00, devido à posição do sol."
               }
             },
             {
@@ -1490,7 +1600,8 @@
                 "de": "In den Gassen des Zentrums kann es im Winter windig sein; nah parken.",
                 "hu": "A belvárosi utcákban télen szeles lehet az idő; parkoljon közel.",
                 "ro": "Pe străzile din centru poate fi vânt iarna; parcați aproape.",
-                "en": "The center's alleys can be windy in winter; park nearby."
+                "en": "The center's alleys can be windy in winter; park nearby.",
+                "pt": "Os becos do centro podem ser ventosos no inverno; estacione por perto."
               }
             },
             {
@@ -1499,7 +1610,8 @@
                 "de": "Ideale Nachmittagsstation, um die Kälte draußen zu lassen.",
                 "hu": "Ideális délutáni állomás, hogy kint hagyja a hideget.",
                 "ro": "Oprire ideală după-amiaza pentru a lăsa frigul afară.",
-                "en": "Ideal afternoon stop to leave the cold outside."
+                "en": "Ideal afternoon stop to leave the cold outside.",
+                "pt": "Paragem ideal à tarde para deixar o frio lá fora."
               }
             },
             {
@@ -1508,7 +1620,8 @@
                 "de": "Gute Beleuchtung auf den Parkwegen zur Bibliothek am späten Nachmittag.",
                 "hu": "Jó világítás a könyvtárhoz vezető parkolóutakon késő délután.",
                 "ro": "Iluminare bună pe aleile spre bibliotecă la sfârșitul după-amiezii.",
-                "en": "Good lighting on the paths to the library in the late afternoon."
+                "en": "Good lighting on the paths to the library in the late afternoon.",
+                "pt": "Boa iluminação nos caminhos até à biblioteca no fim da tarde."
               }
             },
             {
@@ -1517,7 +1630,8 @@
                 "de": "Besuchen Sie diesen Ort zuletzt, um die winterliche Abendstimmung zu erleben.",
                 "hu": "Ezt a helyet látogassa meg utoljára a téli esti hangulat miatt.",
                 "ro": "Vizitați acest loc la final pentru a experimenta atmosfera de seară de iarnă.",
-                "en": "Visit this place last to experience the winter evening atmosphere."
+                "en": "Visit this place last to experience the winter evening atmosphere.",
+                "pt": "Visite este local por último para experienciar a atmosfera do inverno à noite."
               }
             }
           ],
@@ -1545,6 +1659,12 @@
               "Ensure your battery is in good condition if you make frequent stops in the cold.",
               "In winter, central parking spots are usually easier to find.",
               "Plan for the tour to end by 17:30 as visibility fades quickly."
+            ],
+            "pt": [
+              "Cuidado com a neblina nas zonas mais altas à volta de Ul.",
+              "Assegure que a bateria está em boas condições se fizer paragens frequentes no frio.",
+              "No inverno, os lugares de estacionamento centrais costumam ser mais fáceis de encontrar.",
+              "Planeie terminar o passeio até às 17:30, pois a visibilidade diminui rapidamente."
             ]
           }
         }
@@ -1563,7 +1683,8 @@
             "de": "Igreja Matriz de Oliveira de Azeméis",
             "hu": "Oliveira de Azeméis főtemploma",
             "ro": "Biserica Matriz din Oliveira de Azeméis",
-            "en": "Mother Church of Oliveira de Azeméis"
+            "en": "Mother Church of Oliveira de Azeméis",
+            "pt": "Igreja Matriz de Oliveira de Azeméis"
           },
           "coords": [
             -8.4771,
@@ -1581,7 +1702,8 @@
             "de": "Museu Regional de Oliveira de Azeméis",
             "hu": "Oliveira de Azeméis Regionális Múzeum",
             "ro": "Muzeul Regional din Oliveira de Azeméis",
-            "en": "Regional Museum of Oliveira de Azeméis"
+            "en": "Regional Museum of Oliveira de Azeméis",
+            "pt": "Museu Regional de Oliveira de Azeméis"
           },
           "coords": [
             -8.476,
@@ -1599,7 +1721,8 @@
             "de": "Biblioteca Municipal Ferreira de Castro",
             "hu": "Ferreira de Castro Városi Könyvtár",
             "ro": "Biblioteca Municipală Ferreira de Castro",
-            "en": "Ferreira de Castro Municipal Library"
+            "en": "Ferreira de Castro Municipal Library",
+            "pt": "Biblioteca Municipal Ferreira de Castro"
           },
           "coords": [
             -8.479,
@@ -1617,7 +1740,8 @@
             "de": "Parque de La-Salette",
             "hu": "La-Salette Park",
             "ro": "Parcul La-Salette",
-            "en": "La-Salette Park"
+            "en": "La-Salette Park",
+            "pt": "Parque La-Salette"
           },
           "coords": [
             -8.488,
@@ -1635,7 +1759,8 @@
             "de": "Castro de Ul",
             "hu": "Castro de Ul",
             "ro": "Castro de Ul",
-            "en": "Castro de Ul"
+            "en": "Castro de Ul",
+            "pt": "Castro de Ul"
           },
           "coords": [
             -8.465,
@@ -1653,7 +1778,8 @@
             "de": "Moinhos de Ul",
             "hu": "Ul malmai",
             "ro": "Morile din Ul",
-            "en": "Mills of Ul"
+            "en": "Mills of Ul",
+            "pt": "Moinhos de Ul"
           },
           "coords": [
             -8.46,
@@ -1671,7 +1797,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Bus ins Stadtzentrum. Erkunden Sie die Kirche, das Museum und die Bibliothek zu Fuß in diesem ersten Cluster. Nehmen Sie dann einen weiteren Bus zum weitläufigen La-Salette-Park für eine ausgedehnte Mittagspause. Am Nachmittag bringt Sie ein letzter Bus in die Nähe von Ul, wo Sie das antike Castro und die malerischen Mühlen zu Fuß erkunden können.",
         "hu": "Kezdje a napot egy buszúttal a városközpontba. Fedezze fel gyalog a templomot, a múzeumot és a könyvtárat ebben az első klaszterben. Ezután szálljon buszra a tágas La-Salette parkba egy hosszabb ebédszünetre. Délután egy utolsó busz elviszi Ul közelébe, ahol gyalog fedezheti fel az ősi Castrót és a festői malmokat.",
         "ro": "Începeți ziua luând autobuzul spre centrul orașului. Explorați pe jos biserica, muzeul și biblioteca în acest prim cluster. Apoi, luați un alt autobuz spre vastul Parc La-Salette pentru o pauză de prânz prelungită. După-amiaza, un ultim autobuz vă va duce în apropiere de Ul, unde puteți explora pe jos vechiul castro și morile pitorești.",
-        "en": "Start your day by taking a bus to the city center. Explore the church, museum, and library on foot in this first cluster. Then, take another bus to the expansive La-Salette Park for a long lunch break. In the afternoon, a final bus ride will take you near Ul, where you can explore the ancient castro and picturesque mills on foot."
+        "en": "Start your day by taking a bus to the city center. Explore the church, museum, and library on foot in this first cluster. Then, take another bus to the expansive La-Salette Park for a long lunch break. In the afternoon, a final bus ride will take you near Ul, where you can explore the ancient castro and picturesque mills on foot.",
+        "pt": "Comece o dia apanhando um autocarro para o centro da cidade. Explore a igreja, o museu e a biblioteca a pé neste primeiro núcleo. Depois, apanhe outro autocarro para o amplo Parque La-Salette para uma longa pausa de almoço. À tarde, uma última viagem de autocarro deixá-lo-á perto de Ul, onde pode explorar a antiga castro e os pitorescos moinhos a pé."
       },
       "gastro_picks": {
         "de": [
@@ -1867,6 +1994,12 @@
           "Check the bus schedule in advance, as frequency may decrease in the afternoon.",
           "Keep an eye on your belongings on crowded buses.",
           "Ask locals if you're unsure about the right stop; they are usually helpful."
+        ],
+        "pt": [
+          "Compre um passe diário de autocarro para poupar dinheiro.",
+          "Verifique os horários dos autocarros com antecedência, pois a frequência pode diminuir à tarde.",
+          "Mantenha atenção às suas coisas em autocarros cheios.",
+          "Peça informações aos locais se tiver dúvidas sobre a paragem certa; costumam ser prestáveis."
         ]
       },
       "variants": {
@@ -1875,7 +2008,8 @@
             "de": "Nutzen Sie den öffentlichen Nahverkehr, um Oliveira de Azeméis bei Regen trocken zu erkunden. Starten Sie im Zentrum bei der Kirche und dem Museum, wo die Bushaltestellen nah gelegen sind. Die Fahrt zur Bibliothek und zum Park La-Salette bietet Zeit zum Ausruhen. Auch wenn die Wege zum Castro und den Mühlen von Ul im Regen etwas mühsamer sind, bringen Sie die lokalen Busse zuverlässig in die Nähe dieser Sehenswürdigkeiten.",
             "hu": "Használja a tömegközlekedést Oliveira de Azeméis esős felfedezéséhez. Kezdje a központban a templomnál és a múzeumnál, ahol a buszmegállók közel vannak. A könyvtárhoz és a La-Salette parkhoz vezető út pihenést kínál. Még ha az Ul castróhoz és malmokhoz vezető gyalogút esőben kicsit nehezebb is, a helyi buszok megbízhatóan a látnivalók közelébe viszik.",
             "ro": "Utilizați transportul public pentru a explora Oliveira de Azeméis pe ploaie. Începeți în centru, la biserică și muzeu, unde stațiile de autobuz sunt aproape. Drumul spre bibliotecă și Parcul La-Salette oferă timp de odihnă. Chiar dacă drumul spre Castro și morile din Ul este mai dificil pe ploaie, autobuzele locale vă duc în siguranță aproape de aceste obiective.",
-            "en": "Use public transport to explore Oliveira de Azeméis dryly in the rain. Start in the center at the church and museum, where bus stops are conveniently located. The ride to the library and La-Salette Park offers a chance to rest. Even if the walk to the Castro and Mills of Ul is a bit more challenging in the rain, local buses reliably bring you close to these sights."
+            "en": "Use public transport to explore Oliveira de Azeméis dryly in the rain. Start in the center at the church and museum, where bus stops are conveniently located. The ride to the library and La-Salette Park offers a chance to rest. Even if the walk to the Castro and Mills of Ul is a bit more challenging in the rain, local buses reliably bring you close to these sights.",
+            "pt": "Use o transporte público para explorar Oliveira de Azeméis sem se molhar na chuva. Comece no centro, na igreja e no museu, onde as paragens de autocarro são convenientes. A viagem até à biblioteca e ao Parque La-Salette oferece uma hipótese de descanso. Mesmo que a caminhada até ao Castro e aos Moinhos de Ul seja mais exigente com chuva, os autocarros locais deixam-no perto dessas atrações."
           },
           "stops": [
             {
@@ -1884,7 +2018,8 @@
                 "de": "Die Bushaltestelle bietet oft ein Wartehäuschen als Regenschutz.",
                 "hu": "A buszmegállóban gyakran van váróterem eső elleni védelemként.",
                 "ro": "Stația de autobuz are adesea un adăpost pentru protecție împotriva ploii.",
-                "en": "The bus stop often features a shelter for rain protection."
+                "en": "The bus stop often features a shelter for rain protection.",
+                "pt": "A paragem de autocarro tem frequentemente um abrigo para proteção contra a chuva."
               }
             },
             {
@@ -1893,7 +2028,8 @@
                 "de": "Kurzer Weg von der Haltestelle; halten Sie den Schirm bereit.",
                 "hu": "Rövid séta a megállótól; tartsa készenlétben az esernyőt.",
                 "ro": "Drum scurt de la stație; aveți umbrela pregătită.",
-                "en": "Short walk from the stop; have your umbrella ready."
+                "en": "Short walk from the stop; have your umbrella ready.",
+                "pt": "Curta caminhada desde a paragem; tenha o seu guarda-chuva pronto."
               }
             },
             {
@@ -1902,7 +2038,8 @@
                 "de": "Gut vernetzt mit dem Stadtbus-System; ideal für eine Pause.",
                 "hu": "Jól kapcsolódik a városi buszhálózathoz; ideális egy pihenőre.",
                 "ro": "Bine conectat la rețeaua de autobuze urbane; ideal pentru o pauză.",
-                "en": "Well-connected to the city bus network; ideal for a break."
+                "en": "Well-connected to the city bus network; ideal for a break.",
+                "pt": "Bem ligado à rede de autocarros da cidade; ideal para uma pausa."
               }
             },
             {
@@ -1911,7 +2048,8 @@
                 "de": "Die Haltestelle liegt oben am Park; weniger Bergaufgehen im Regen.",
                 "hu": "A megálló a park felső részén van; kevesebb hegymászás az esőben.",
                 "ro": "Stația este situată în partea de sus a parcului; mai puțin urcuș pe ploaie.",
-                "en": "The stop is at the top of the park; less uphill walking in the rain."
+                "en": "The stop is at the top of the park; less uphill walking in the rain.",
+                "pt": "A paragem fica no topo do parque; menos subida a pé na chuva."
               }
             },
             {
@@ -1920,7 +2058,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten genau, um langes Warten im Regen zu vermeiden.",
                 "hu": "Pontosan ellenőrizze a visszaindulást, hogy elkerülje az esőben való várakozást.",
                 "ro": "Verificați exact orele de întoarcere pentru a evita așteptarea lungă în ploaie.",
-                "en": "Check return times carefully to avoid long waits in the rain."
+                "en": "Check return times carefully to avoid long waits in the rain.",
+                "pt": "Verifique bem os horários de regresso para evitar longas esperas na chuva."
               }
             },
             {
@@ -1929,7 +2068,8 @@
                 "de": "Festere Wege zur Haltestelle suchen, um Matsch zu vermeiden.",
                 "hu": "Keressen szilárdabb utat a megállóhoz a sár elkerülése érdekében.",
                 "ro": "Căutați poteci mai ferme spre stație pentru a evita noroiul.",
-                "en": "Look for firmer paths to the stop to avoid mud."
+                "en": "Look for firmer paths to the stop to avoid mud.",
+                "pt": "Procure caminhos mais firmes até à paragem para evitar lama."
               }
             }
           ],
@@ -1957,6 +2097,12 @@
               "Have small change or a card ready for buying tickets from the driver.",
               "Buses may experience slight delays during heavy rain due to traffic.",
               "Center stops are usually better sheltered than those in the Ul area."
+            ],
+            "pt": [
+              "Descarregue a aplicação de transportes local para atualizações em tempo real durante a chuva.",
+              "Tenha trocado ou cartão à mão para comprar bilhetes ao motorista.",
+              "Os autocarros podem sofrer pequenos atrasos com chuva forte devido ao trânsito.",
+              "As paragens do centro costumam estar melhor abrigadas do que as da zona de Ul."
             ]
           }
         },
@@ -1965,7 +2111,8 @@
             "de": "Genießen Sie die winterliche Atmosphäre von Oliveira de Azeméis stressfrei mit dem Bus. Beginnen Sie im Zentrum bei der Kirche und nutzen Sie die kurzen Wege zwischen den kulturellen Highlights. Die Fahrt hinaus nach Ul bietet einen schönen Blick auf die ländliche Winterlandschaft, ohne dass Sie selbst fahren müssen. Beenden Sie Ihren Tag frühzeitig, um den letzten komfortablen Bus zurück ins Stadtzentrum vor Einbruch der Dunkelheit zu nehmen.",
             "hu": "Élvezze Oliveira de Azeméis téli hangulatát stresszmentesen, busszal. Kezdje a központban a templomnál, és használja ki a kulturális látnivalók közötti rövid távolságokat. Az Ul felé tartó út szép kilátást nyújt a vidéki téli tájra, anélkül, hogy vezetnie kellene. Fejezze be a napot időben, hogy elérje az utolsó kényelmes buszt vissza a városba sötétedés előtt.",
             "ro": "Bucurați-vă de atmosfera de iarnă din Oliveira de Azeméis fără stres, cu autobuzul. Începeți în centru la biserică și profitați de distanțele scurte între punctele culturale. Drumul spre Ul oferă o vedere frumoasă asupra peisajului rural de iarnă, fără a fi nevoie să conduceți. Încheiați ziua devreme pentru a prinde ultimul autobuz confortabil spre centrul orașului înainte de lăsarea întunericului.",
-            "en": "Enjoy the winter atmosphere of Oliveira de Azeméis stress-free by bus. Start in the center at the church and take advantage of the short distances between cultural highlights. The ride out to Ul offers a lovely view of the rural winter landscape without the need to drive. End your day early to catch the last comfortable bus back to the city center before dark."
+            "en": "Enjoy the winter atmosphere of Oliveira de Azeméis stress-free by bus. Start in the center at the church and take advantage of the short distances between cultural highlights. The ride out to Ul offers a lovely view of the rural winter landscape without the need to drive. End your day early to catch the last comfortable bus back to the city center before dark.",
+            "pt": "Desfrute da atmosfera de inverno de Oliveira de Azeméis sem stress de autocarro. Comece no centro na igreja e aproveite as curtas distâncias entre os pontos culturais. A viagem até Ul oferece uma bela vista da paisagem rural de inverno sem necessidade de conduzir. Termine o dia cedo para apanhar o último autocarro confortável de volta ao centro antes de escurecer."
           },
           "stops": [
             {
@@ -1974,7 +2121,8 @@
                 "de": "Zentraler Knotenpunkt; viele Linien treffen sich hier.",
                 "hu": "Központi csomópont; számos járat találkozik itt.",
                 "ro": "Nod central; multe linii se întâlnesc aici.",
-                "en": "Central hub; many lines meet here."
+                "en": "Central hub; many lines meet here.",
+                "pt": "Nó central; várias linhas convergem aqui."
               }
             },
             {
@@ -1983,7 +2131,8 @@
                 "de": "Sonnige Warteplätze an der Haltestelle am Vormittag.",
                 "hu": "Napsütötte várakozóhelyek a megállóban délelőtt.",
                 "ro": "Locuri de așteptare însorite la stație în timpul dimineții.",
-                "en": "Sunny waiting spots at the stop during the morning."
+                "en": "Sunny waiting spots at the stop during the morning.",
+                "pt": "Locais ensolarados para aguardar o autocarro durante a manhã."
               }
             },
             {
@@ -1992,7 +2141,8 @@
                 "de": "Warten Sie im Foyer der Bibliothek, wenn der Bus erst in 10 Minuten kommt.",
                 "hu": "Várjon a könyvtár aulájában, ha a busz csak 10 perc múlva jön.",
                 "ro": "Așteptați în holul bibliotecii dacă autobuzul vine abia peste 10 minute.",
-                "en": "Wait in the library foyer if the bus is more than 10 minutes away."
+                "en": "Wait in the library foyer if the bus is more than 10 minutes away.",
+                "pt": "Espere no átrio da biblioteca se o autocarro demorar mais de 10 minutos."
               }
             },
             {
@@ -2001,7 +2151,8 @@
                 "de": "Im Winter sind weniger Busse zum Park im Einsatz; Plan prüfen.",
                 "hu": "Télen kevesebb busz jár a parkhoz; ellenőrizze a menetrendet.",
                 "ro": "Iarna circulă mai puține autobuze spre parc; verificați orarul.",
-                "en": "Fewer buses run to the park in winter; check the schedule."
+                "en": "Fewer buses run to the park in winter; check the schedule.",
+                "pt": "Correm menos autocarros para o parque no inverno; verifique o horário."
               }
             },
             {
@@ -2010,7 +2161,8 @@
                 "de": "Windgeschützte Stellen in der Nähe der Haltestelle suchen.",
                 "hu": "Keressen szélvédett helyet a megálló közelében.",
                 "ro": "Căutați locuri ferite de vânt în apropierea stației.",
-                "en": "Look for wind-sheltered spots near the stop."
+                "en": "Look for wind-sheltered spots near the stop.",
+                "pt": "Procure locais abrigados do vento perto da paragem."
               }
             },
             {
@@ -2019,7 +2171,8 @@
                 "de": "Letzte Rückfahrt oft gegen 17:30 Uhr – nicht verpassen!",
                 "hu": "Az utolsó járat vissza gyakran 17:30 körül van – ne késse le!",
                 "ro": "Ultima cursă de întoarcere este adesea în jurul orei 17:30 – nu o ratați!",
-                "en": "Last return trip is often around 17:30 – don't miss it!"
+                "en": "Last return trip is often around 17:30 – don't miss it!",
+                "pt": "A última viagem de regresso é frequentemente por volta das 17:30 – não a perca!"
               }
             }
           ],
@@ -2047,6 +2200,12 @@
               "Buses are usually well-heated in the winter.",
               "Use the 'TUAZ' app if available for local connections.",
               "Dusk comes early, and rural stops may be poorly lit."
+            ],
+            "pt": [
+              "Os horários de inverno podem variar em feriados públicos.",
+              "Os autocarros costumam estar bem aquecidos no inverno.",
+              "Use a app 'TUAZ', se disponível, para conexões locais.",
+              "Anoitece cedo, e as paragens rurais podem ter pouca iluminação."
             ]
           }
         }

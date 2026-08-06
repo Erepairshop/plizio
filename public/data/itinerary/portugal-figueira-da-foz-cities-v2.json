@@ -21,7 +21,8 @@
             "de": "Mercado Municipal",
             "hu": "Városi Piac",
             "ro": "Piața Municipală",
-            "en": "Municipal Market"
+            "en": "Municipal Market",
+            "pt": "Mercado Municipal"
           },
           "coords": [
             -8.8585,
@@ -37,7 +38,8 @@
             "de": "Probieren Sie die frischen Meeresfrüchte und das lokale Gebäck.",
             "hu": "Kóstolja meg a friss tenger gyümölcseit és a helyi süteményeket.",
             "ro": "Încercați fructele de mare proaspete și produsele de patiserie locale.",
-            "en": "Try the fresh seafood and the local pastries."
+            "en": "Try the fresh seafood and the local pastries.",
+            "pt": "Experimente o peixe fresco e os doces locais."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Museu Municipal Santos Rocha",
             "hu": "Santos Rocha Városi Múzeum",
             "ro": "Muzeul Municipal Santos Rocha",
-            "en": "Santos Rocha Municipal Museum"
+            "en": "Santos Rocha Municipal Museum",
+            "pt": "Museu Municipal Santos Rocha"
           },
           "coords": [
             -8.8571,
@@ -61,7 +64,8 @@
             "de": "Konzentrieren Sie sich auf die archäologische Sammlung für einen Einblick in die lokale Geschichte.",
             "hu": "Fókuszáljon a régészeti gyűjteményre, hogy betekintést nyerjen a helyi történelembe.",
             "ro": "Concentrați-vă pe colecția arheologică pentru o incursiune în istoria locală.",
-            "en": "Focus on the archaeological collection for a glimpse into local history."
+            "en": "Focus on the archaeological collection for a glimpse into local history.",
+            "pt": "Concentre-se na colecção arqueológica para ter um vislumbre da história local."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Palácio Sotto Maior",
             "hu": "Sotto Maior Palota",
             "ro": "Palatul Sotto Maior",
-            "en": "Sotto Maior Palace"
+            "en": "Sotto Maior Palace",
+            "pt": "Palácio Sotto Maior"
           },
           "coords": [
             -8.8602,
@@ -85,7 +90,8 @@
             "de": "Bewundern Sie die französisch inspirierte Architektur von außen; das Innere ist selten geöffnet.",
             "hu": "Csodálja meg a francia ihletésű építészetet kívülről; a belseje ritkán látogatható.",
             "ro": "Admirați arhitectura de inspirație franceză din exterior; interiorul este rar deschis.",
-            "en": "Admire the French-inspired architecture from the outside; the interior is rarely open."
+            "en": "Admire the French-inspired architecture from the outside; the interior is rarely open.",
+            "pt": "Admire a arquitectura de inspiração francesa do exterior; o interior raramente está aberto."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Casino Figueira",
             "hu": "Figueira Kaszinó",
             "ro": "Cazinoul Figueira",
-            "en": "Casino Figueira"
+            "en": "Casino Figueira",
+            "pt": "Casino Figueira"
           },
           "coords": [
             -8.8634,
@@ -109,7 +116,8 @@
             "de": "Prüfen Sie den Zeitplan für Abendshows, auch wenn Sie nicht spielen.",
             "hu": "Nézze meg az esti műsorok programját, még ha nem is játszik.",
             "ro": "Verificați programul spectacolelor de seară, chiar dacă nu jucați.",
-            "en": "Check the schedule for evening shows, even if you don't gamble."
+            "en": "Check the schedule for evening shows, even if you don't gamble.",
+            "pt": "Consulte a programação para espectáculos noturnos, mesmo que não jogue."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Forte de Santa Catarina",
             "hu": "Santa Catarina erőd",
             "ro": "Fortul Santa Catarina",
-            "en": "Forte de Santa Catarina"
+            "en": "Forte de Santa Catarina",
+            "pt": "Forte de Santa Catarina"
           },
           "coords": [
             -8.8678,
@@ -133,7 +142,8 @@
             "de": "Der beste Ort für einen Panoramablick auf den Strand und den Hafen.",
             "hu": "A legjobb hely a panorámás kilátáshoz a strandra és a kikötőre.",
             "ro": "Cel mai bun loc pentru o vedere panoramică asupra plajei și portului.",
-            "en": "The best spot for panoramic views of the beach and the harbor."
+            "en": "The best spot for panoramic views of the beach and the harbor.",
+            "pt": "O melhor local para vistas panorâmicas da praia e do porto."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Praia da Claridade",
             "hu": "Claridade strand",
             "ro": "Plaja Claridade",
-            "en": "Praia da Claridade"
+            "en": "Praia da Claridade",
+            "pt": "Praia da Claridade"
           },
           "coords": [
             -8.8715,
@@ -157,7 +168,8 @@
             "de": "Mieten Sie einen Sonnenschirm und genießen Sie den riesigen Sandstrand. Ideal für einen langen Spaziergang.",
             "hu": "Béreljen napernyőt, és élvezze a hatalmas homokos strandot. Ideális egy hosszú sétához.",
             "ro": "Închiriați o umbrelă și bucurați-vă de plaja vastă cu nisip. Ideală pentru o plimbare lungă.",
-            "en": "Rent a sunshade and enjoy the huge expanse of sand. Perfect for a long walk."
+            "en": "Rent a sunshade and enjoy the huge expanse of sand. Perfect for a long walk.",
+            "pt": "Alugue um toldo e aproveite a enorme extensão de areia. Perfeita para uma longa caminhada."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen der Stadt auf dem belebten Mercado Municipal. Am Mittag erkunden Sie die reiche Geschichte der Stadt im Museu Santos Rocha und bewundern die elegante Architektur des Palácio Sotto Maior. Verbringen Sie den Nachmittag mit einem Spaziergang am Meer, besuchen Sie das historische Casino und das Forte de Santa Catarina. Beenden Sie Ihren Tag mit Entspannung pur am weitläufigen Sandstrand von Praia da Claridade, während die Sonne untergeht.",
         "hu": "Kezdje a napot a város szívében, a nyüzsgő Városi Piacon. Délben fedezze fel a város gazdag történelmét a Santos Rocha Múzeumban, és csodálja meg a Sotto Maior Palota elegáns építészetét. A délutánt töltse tengerparti sétával, látogasson el a történelmi kaszinóhoz és a Santa Catarina erődhez. Zárja a napot a Praia da Claridade hatalmas homokos strandján pihenve, miközben a nap lenyugszik.",
         "ro": "Începeți ziua în inima orașului, la Piața Municipală plină de viață. La prânz, explorați istoria bogată a orașului la Muzeul Santos Rocha și admirați arhitectura elegantă a Palatului Sotto Maior. Petreceți după-amiaza plimbându-vă pe malul mării, vizitând Cazinoul istoric și Fortul Santa Catarina. Încheiați ziua relaxându-vă pe întinsa plajă de nisip Praia da Claridade, în timp ce soarele apune.",
-        "en": "Start your day in the heart of the city at the bustling Municipal Market. At midday, explore the city's rich history at the Santos Rocha Museum and admire the elegant architecture of the Sotto Maior Palace. Spend the afternoon with a seaside stroll, visiting the historic Casino and the Forte de Santa Catarina. End your day with pure relaxation on the vast sandy expanse of Praia da Claridade as the sun sets."
+        "en": "Start your day in the heart of the city at the bustling Municipal Market. At midday, explore the city's rich history at the Santos Rocha Museum and admire the elegant architecture of the Sotto Maior Palace. Spend the afternoon with a seaside stroll, visiting the historic Casino and the Forte de Santa Catarina. End your day with pure relaxation on the vast sandy expanse of Praia da Claridade as the sun sets.",
+        "pt": "Comece o dia no coração da cidade, no animado Mercado Municipal. Ao meio-dia, explore a rica história da cidade no Museu Santos Rocha e admire a elegante arquitectura do Palácio Sotto Maior. Passe a tarde com um passeio à beira-mar, visitando o histórico Casino e o Forte de Santa Catarina. Termine o dia com puro descanso na vasta extensão de areia da Praia da Claridade ao pôr-do-sol."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Bring sunscreen and a hat, especially for the afternoon at the beach.",
           "Keep some cash handy for small purchases at the market or on the beach.",
           "The city is flat and excellent for walking."
+        ],
+        "pt": [
+          "Use calçado confortável, pois vai caminhar bastante.",
+          "Leve protector solar e um chapéu, especialmente para a tarde na praia.",
+          "Tenha algum dinheiro vivo à mão para pequenas compras no mercado ou na praia.",
+          "A cidade é plana e excelente para caminhar."
         ]
       },
       "variants": {
@@ -375,7 +394,8 @@
                 "de": "Hallenmarkt mit vielen Cafés, idealer Rückzugsort bei Schauern.",
                 "hu": "Fedett piaccsarnok kávézókkal, tökéletes menedék zápor esetén.",
                 "ro": "Piață acoperită cu cafenele, refugiu ideal în caz de aversă.",
-                "en": "Indoor market hall with cafes, an ideal retreat during showers."
+                "en": "Indoor market hall with cafes, an ideal retreat during showers.",
+                "pt": "Pavilhão de mercado interior com cafés, um refúgio ideal durante pancadas de chuva."
               }
             },
             {
@@ -384,7 +404,8 @@
                 "de": "Planen Sie hier mehr Zeit ein, um den stärksten Regen trocken zu überstehen.",
                 "hu": "Töltsön itt több időt, hogy szárazon vészelje át a legnagyobb esőt.",
                 "ro": "Petreceți mai mult timp aici pentru a evita ploaia la interior.",
-                "en": "Spend extra time here to stay dry during the heaviest rain."
+                "en": "Spend extra time here to stay dry during the heaviest rain.",
+                "pt": "Passe mais tempo aqui para se manter seco durante a chuva mais intensa."
               }
             },
             {
@@ -393,7 +414,8 @@
                 "de": "Der Garten bietet wenig Schutz, nutzen Sie den schnellen Fotostopp.",
                 "hu": "A kert kevés védelmet nyújt, válassza a gyors fotómegállót.",
                 "ro": "Grădina oferă puțin adăpost, optați pentru o oprire foto rapidă.",
-                "en": "The garden offers little shelter, opt for a quick photo stop."
+                "en": "The garden offers little shelter, opt for a quick photo stop.",
+                "pt": "O jardim oferece pouca proteção, opte por uma paragem rápida para fotos."
               }
             },
             {
@@ -402,7 +424,8 @@
                 "de": "Perfekt temperierter Innenraum, ideal zum Aufwärmen und Abtrocknen.",
                 "hu": "Kellemes belső tér, ideális átmelegedni és megszárítkozni.",
                 "ro": "Spațiu interior plăcut, ideal pentru a vă încălzi și usca.",
-                "en": "Well-tempered interior, ideal for warming up and drying off."
+                "en": "Well-tempered interior, ideal for warming up and drying off.",
+                "pt": "Interior bem aquecido, ideal para aquecer e secar-se."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Vorsicht vor rutschigen Steinen auf den Festungsmauern bei Nässe.",
                 "hu": "Vigyázat, a várfal kövei nedvesen nagyon csúszósak lehetnek.",
                 "ro": "Atenție, pietrele zidurilor cetății pot fi foarte alunecoase pe ploaie.",
-                "en": "Caution: the stones of the fortress walls can be very slippery when wet."
+                "en": "Caution: the stones of the fortress walls can be very slippery when wet.",
+                "pt": "Cuidado: as pedras das muralhas da fortaleza podem ficar muito escorregadias quando molhadas."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Beobachten Sie das stürmische Meer von einem der Strandcafés aus.",
                 "hu": "Figyelje a viharos óceánt az egyik tengerparti kávézóból.",
                 "ro": "Urmăriți marea înfuriată de la una dintre cafenelele de pe plajă.",
-                "en": "Watch the stormy Atlantic from the comfort of a beach cafe."
+                "en": "Watch the stormy Atlantic from the comfort of a beach cafe.",
+                "pt": "Observe o Atlântico tempestuoso do conforto de um café junto à praia."
               }
             }
           ],
@@ -452,6 +477,13 @@
               "The market hall is the best spot for an extended morning break.",
               "Watch out for puddles on the wide beach promenade.",
               "Waterproof footwear is important for the long walking sections."
+            ],
+            "pt": [
+              "Um guarda-chuva resistente é essencial devido aos fortes ventos atlânticos.",
+              "Aproveite os muitos passadiços do centro enquanto caminha entre os pontos.",
+              "O pavilhão do mercado é o melhor lugar para uma pausa matinal prolongada.",
+              "Cuidado com as poças na ampla promenade da praia.",
+              "Calçado impermeável é importante para os longos troços a pé."
             ]
           }
         },
@@ -466,7 +498,8 @@
                 "de": "Holen Sie sich eine heiße Suppe oder Tee für den perfekten Start.",
                 "hu": "Egyen egy forró levest vagy teát a tökéletes kezdéshez.",
                 "ro": "Luați o supă caldă sau un ceai pentru începutul perfect.",
-                "en": "Get a hot soup or tea for the perfect start to a chilly day."
+                "en": "Get a hot soup or tea for the perfect start to a chilly day.",
+                "pt": "Tome uma sopa quente ou chá para começar perfeitamente um dia fresco."
               }
             },
             {
@@ -475,7 +508,8 @@
                 "de": "Ideal, um die kälteste Zeit des Tages in den Ausstellungsräumen zu verbringen.",
                 "hu": "Ideális a nap leghidegebb óráit a kiállítótermekben tölteni.",
                 "ro": "Ideal pentru a petrece cele mai reci ore ale zilei în sălile de expoziție.",
-                "en": "Ideal for spending the coldest hours of the day inside the galleries."
+                "en": "Ideal for spending the coldest hours of the day inside the galleries.",
+                "pt": "Ideal para passar as horas mais frias do dia no interior das galerias."
               }
             },
             {
@@ -484,7 +518,8 @@
                 "de": "Das Winterlicht hebt die Architektur des Palastes besonders hervor.",
                 "hu": "A téli fények különösen szépen emelik ki a palota építészetét.",
                 "ro": "Lumina de iarnă scoate în evidență arhitectura palatului într-un mod deosebit.",
-                "en": "The winter light highlights the palace's architecture beautifully."
+                "en": "The winter light highlights the palace's architecture beautifully.",
+                "pt": "A luz de inverno realça lindamente a arquitetura do palácio."
               }
             },
             {
@@ -493,7 +528,8 @@
                 "de": "Ein warmer Ort für eine Pause am frühen Nachmittag.",
                 "hu": "Meleg helyszín egy pihenőhöz kora délután.",
                 "ro": "Un loc călduros pentru o pauză la începutul după-amiezii.",
-                "en": "A warm venue for a break in the early afternoon."
+                "en": "A warm venue for a break in the early afternoon.",
+                "pt": "Um local acolhedor para uma pausa no início da tarde."
               }
             },
             {
@@ -502,7 +538,8 @@
                 "de": "Genießen Sie den weiten Blick auf den menschenleeren Winterstrand.",
                 "hu": "Élvezze a kilátást az ilyenkor néptelen téli tengerpartra.",
                 "ro": "Bucurați-vă de vederea spre plaja pustie de iarnă.",
-                "en": "Enjoy the wide view of the deserted winter beach."
+                "en": "Enjoy the wide view of the deserted winter beach.",
+                "pt": "Desfrute da ampla vista da praia deserta de inverno."
               }
             },
             {
@@ -511,7 +548,8 @@
                 "de": "Der Sonnenuntergang findet hier im Winter bereits gegen 17:30 Uhr statt.",
                 "hu": "A naplemente télen már 17:30 körül bekövetkezik itt.",
                 "ro": "Apusul are loc deja în jurul orei 17:30 iarna aici.",
-                "en": "Sunset occurs as early as 17:30 here during the winter months."
+                "en": "Sunset occurs as early as 17:30 here during the winter months.",
+                "pt": "O pôr do sol ocorre tão cedo quanto às 17:30 aqui durante os meses de inverno."
               }
             }
           ],
@@ -543,6 +581,13 @@
               "Sunset is early; plan your outdoor photos before 16:00.",
               "Many promenade cafes have wind-shielded outdoor seating.",
               "Try the typical winter treats in local pastry shops."
+            ],
+            "pt": [
+              "Vista-se em camadas devido ao vento cortante do Atlântico.",
+              "A praia fica quase vazia no inverno, ideal para passeios solitários.",
+              "O pôr do sol é cedo; planeie as suas fotos ao ar livre antes das 16:00.",
+              "Muitos cafés da promenade têm esplanadas protegidas do vento.",
+              "Experimente as típicas iguarias de inverno nas pastelarias locais."
             ]
           }
         }
@@ -561,7 +606,8 @@
             "de": "Mercado Municipal",
             "hu": "Városi Piac",
             "ro": "Piața Municipală",
-            "en": "Municipal Market"
+            "en": "Municipal Market",
+            "pt": "Mercado Municipal"
           },
           "coords": [
             -8.8585,
@@ -577,7 +623,8 @@
             "de": "Parken Sie Ihr Fahrrad draußen und genießen Sie die geschäftige Atmosphäre im Inneren.",
             "hu": "Parkolja le a biciklit kint, és élvezze a benti nyüzsgést.",
             "ro": "Parcați bicicleta afară și bucurați-vă de atmosfera plină de viață din interior.",
-            "en": "Park your bike outside and enjoy the bustling atmosphere inside."
+            "en": "Park your bike outside and enjoy the bustling atmosphere inside.",
+            "pt": "Estacione a sua bicicleta do lado de fora e desfrute da atmosfera animada lá dentro."
           }
         },
         {
@@ -585,7 +632,8 @@
             "de": "Museu Municipal Santos Rocha",
             "hu": "Santos Rocha Városi Múzeum",
             "ro": "Muzeul Municipal Santos Rocha",
-            "en": "Santos Rocha Municipal Museum"
+            "en": "Santos Rocha Municipal Museum",
+            "pt": "Museu Municipal Santos Rocha"
           },
           "coords": [
             -8.8571,
@@ -601,7 +649,8 @@
             "de": "Ein perfekter kultureller Zwischenstopp vor Ihrer Radtour entlang der Küste.",
             "hu": "Tökéletes kulturális megálló a tengerparti biciklizés előtt.",
             "ro": "O oprire culturală perfectă înainte de plimbarea cu bicicleta pe coastă.",
-            "en": "A perfect cultural stop before your coastal bike ride."
+            "en": "A perfect cultural stop before your coastal bike ride.",
+            "pt": "Uma paragem cultural perfeita antes do seu passeio de bicicleta costeiro."
           }
         },
         {
@@ -609,7 +658,8 @@
             "de": "Forte de Santa Catarina",
             "hu": "Santa Catarina erőd",
             "ro": "Fortul Santa Catarina",
-            "en": "Forte de Santa Catarina"
+            "en": "Forte de Santa Catarina",
+            "pt": "Forte de Santa Catarina"
           },
           "coords": [
             -8.8678,
@@ -625,7 +675,8 @@
             "de": "Stellen Sie Ihr Fahrrad am Eingang ab und genießen Sie die Aussicht.",
             "hu": "Hagyja a biciklit a bejáratnál, és élvezze a kilátást.",
             "ro": "Lăsați bicicleta la intrare și urcați pentru priveliște.",
-            "en": "Lock your bike at the entrance and walk up for the views."
+            "en": "Lock your bike at the entrance and walk up for the views.",
+            "pt": "Tranque a sua bicicleta à entrada e suba a pé para as vistas."
           }
         },
         {
@@ -633,7 +684,8 @@
             "de": "Praia da Claridade (Promenade)",
             "hu": "Claridade strand (sétány)",
             "ro": "Plaja Claridade (Promenadă)",
-            "en": "Praia da Claridade (Promenade)"
+            "en": "Praia da Claridade (Promenade)",
+            "pt": "Praia da Claridade (Promenade)"
           },
           "coords": [
             -8.8715,
@@ -649,7 +701,8 @@
             "de": "Fahren Sie die lange Promenade entlang, aber halten Sie für ein Mittagessen mit Meerblick an.",
             "hu": "Tekerjen végig a hosszú sétányon, de álljon meg egy tengerre néző ebédre.",
             "ro": "Plimbați-vă cu bicicleta de-a lungul promenadei lungi, dar opriți-vă pentru un prânz cu vedere la mare.",
-            "en": "Cycle along the long promenade, but stop for a lunch with a sea view."
+            "en": "Cycle along the long promenade, but stop for a lunch with a sea view.",
+            "pt": "Pedale ao longo da longa promenade, mas pare para almoçar com vista para o mar."
           }
         },
         {
@@ -657,7 +710,8 @@
             "de": "Cabo Mondego",
             "hu": "Mondego-fok",
             "ro": "Capul Mondego",
-            "en": "Cabo Mondego"
+            "en": "Cabo Mondego",
+            "pt": "Cabo Mondego"
           },
           "coords": [
             -8.903,
@@ -673,7 +727,8 @@
             "de": "Die Fahrt ist anspruchsvoll, aber die Aussicht vom Leuchtturm ist es wert.",
             "hu": "Az út kihívást jelent, de a kilátás a világítótoronytól megéri.",
             "ro": "Urcușul este provocator, dar priveliștea de la far merită efortul.",
-            "en": "The ride up is challenging, but the views from the lighthouse are worth it."
+            "en": "The ride up is challenging, but the views from the lighthouse are worth it.",
+            "pt": "A subida é desafiante, mas as vistas do farol valem a pena."
           }
         },
         {
@@ -681,7 +736,8 @@
             "de": "Casino Figueira",
             "hu": "Figueira Kaszinó",
             "ro": "Cazinoul Figueira",
-            "en": "Casino Figueira"
+            "en": "Casino Figueira",
+            "pt": "Casino Figueira"
           },
           "coords": [
             -8.8634,
@@ -697,7 +753,8 @@
             "de": "Ein eleganter Abschluss Ihrer Radtour, bevor Sie den Abend beginnen.",
             "hu": "Elegáns befejezése a biciklitúrának az este kezdete előtt.",
             "ro": "O oprire elegantă pentru a încheia turul cu bicicleta înainte de a începe seara.",
-            "en": "An elegant stop to end your bike tour before starting the evening."
+            "en": "An elegant stop to end your bike tour before starting the evening.",
+            "pt": "Uma paragem elegante para terminar o seu passeio de bicicleta antes de começar a noite."
           }
         }
       ],
@@ -705,7 +762,8 @@
         "de": "Starten Sie Ihre Radtour auf dem Mercado Municipal, um lokale Energie zu tanken. Fahren Sie dann die Küste entlang, halten Sie an der Festung Santa Catarina für atemberaubende Ausblicke und genießen Sie ein langes Mittagessen am Strand von Claridade. Am Nachmittag unternehmen Sie eine anspruchsvolle, aber lohnende Fahrt zum Leuchtturm von Cabo Mondego. Beenden Sie den Tag, indem Sie zurück ins Zentrum radeln und die glamouröse Atmosphäre des Casino Figueira genießen.",
         "hu": "Kezdje a biciklitúrát a Városi Piacon, hogy feltöltődjön helyi energiával. Ezután tekerjen a part mentén, álljon meg a Santa Catarina erődnél a lélegzetelállító kilátásért, és ebédeljen egy jót a Claridade strandon. Délután tegyen egy kihívást jelentő, de hálás utat a Cabo Mondego világítótoronyhoz. A nap végén tekerjen vissza a központba, és élvezze a Figueira Kaszinó csillogó hangulatát.",
         "ro": "Începeți turul cu bicicleta la Piața Municipală pentru o doză de energie locală. Apoi, pedalați de-a lungul coastei, oprindu-vă la Fortul Santa Catarina pentru priveliști uimitoare și bucurându-vă de un prânz lung la Plaja Claridade. După-amiaza, faceți o plimbare provocatoare, dar plină de satisfacții, până la farul din Cabo Mondego. Încheiați ziua pedalând înapoi în centru pentru a admira atmosfera plină de farmec a Cazinoului Figueira.",
-        "en": "Kick off your bike tour at the Municipal Market for a dose of local energy. Then, cycle along the coast, stopping at Forte de Santa Catarina for stunning views and enjoying a long lunch at Claridade Beach. In the afternoon, take a challenging but rewarding ride up to the Cabo Mondego lighthouse. End the day by cycling back to the center to soak in the glamorous atmosphere of the Casino Figueira."
+        "en": "Kick off your bike tour at the Municipal Market for a dose of local energy. Then, cycle along the coast, stopping at Forte de Santa Catarina for stunning views and enjoying a long lunch at Claridade Beach. In the afternoon, take a challenging but rewarding ride up to the Cabo Mondego lighthouse. End the day by cycling back to the center to soak in the glamorous atmosphere of the Casino Figueira.",
+        "pt": "Comece o seu passeio de bicicleta no Mercado Municipal para uma dose de energia local. Depois, pedale ao longo da costa, parando no Forte de Santa Catarina para vistas deslumbrantes e desfrutando de um longo almoço na Praia da Claridade. À tarde, faça um percurso desafiante mas recompensador até ao farol do Cabo Mondego. Termine o dia voltando de bicicleta ao centro para absorver a atmosfera glamorosa do Casino Figueira."
       },
       "gastro_picks": {
         "de": [
@@ -901,6 +959,12 @@
           "Always lock your bike, even for short stops.",
           "The promenade is wide and safe for cycling.",
           "Carry plenty of water, especially for the longer afternoon ride."
+        ],
+        "pt": [
+          "Alugue uma bicicleta com mudanças para a subida até ao Cabo Mondego.",
+          "Tranque sempre a sua bicicleta, mesmo em paragens curtas.",
+          "A promenade é larga e segura para andar de bicicleta.",
+          "Leve muita água, especialmente para o passeio mais longo da tarde."
         ]
       },
       "variants": {
@@ -915,7 +979,8 @@
                 "de": "Sichere Fahrradständer befinden sich meist im Eingangsbereich.",
                 "hu": "Biztonságos kerékpártárolók találhatók a bejárat környékén.",
                 "ro": "Suporturi sigure pentru biciclete se află lângă intrare.",
-                "en": "Secure bike racks are located near the entrance area."
+                "en": "Secure bike racks are located near the entrance area.",
+                "pt": "Existem suportes seguros para bicicletas perto da área de entrada."
               }
             },
             {
@@ -924,7 +989,8 @@
                 "de": "Fragen Sie nach einem Platz für nasse Regenbekleidung an der Garderobe.",
                 "hu": "Kérdezzen rá a vizes esőkabátok elhelyezésére a ruhatárban.",
                 "ro": "Întrebați de un loc pentru hainele ude la garderobă.",
-                "en": "Ask about a place for wet rain gear at the cloakroom."
+                "en": "Ask about a place for wet rain gear at the cloakroom.",
+                "pt": "Pergunte sobre um local para guardar roupa de chuva molhada na chapelaria."
               }
             },
             {
@@ -933,7 +999,8 @@
                 "de": "Vermeiden Sie das Fahren auf den glatten Pflastersteinen im Fort.",
                 "hu": "Kerülje a kerékpározást az erőd csúszós macskakövein.",
                 "ro": "Evitați mersul pe bicicletă pe pietrele lucioase din fort.",
-                "en": "Avoid cycling on the slippery cobblestones inside the fort."
+                "en": "Avoid cycling on the slippery cobblestones inside the fort.",
+                "pt": "Evite pedalar nas calçadas de pedra escorregadias dentro do forte."
               }
             },
             {
@@ -942,7 +1009,8 @@
                 "de": "Der breite Weg bietet viel Platz, aber achten Sie auf Pfützen.",
                 "hu": "A széles sétányon sok a hely, de ügyeljen a tócsákra.",
                 "ro": "Faleza largă oferă mult spațiu, dar atenție la bălți.",
-                "en": "The wide promenade offers plenty of space, but watch for puddles."
+                "en": "The wide promenade offers plenty of space, but watch for puddles.",
+                "pt": "A ampla promenade oferece muito espaço, mas atenção às poças."
               }
             },
             {
@@ -951,7 +1019,8 @@
                 "de": "Die Auffahrt zum Kap ist bei Regen wegen Schlamm und Laub tückisch.",
                 "hu": "A fokhoz vezető emelkedő esőben a sár és levelek miatt csalóka.",
                 "ro": "Urcarea spre cap este înșelătoare pe ploaie din cauza noroiului.",
-                "en": "The climb to the cape is tricky in the rain due to mud and leaves."
+                "en": "The climb to the cape is tricky in the rain due to mud and leaves.",
+                "pt": "A subida para o cabo é difícil na chuva devido ao lamaçal e às folhas."
               }
             },
             {
@@ -960,7 +1029,8 @@
                 "de": "Stellen Sie das Rad gut gesichert ab, bevor Sie ins Warme gehen.",
                 "hu": "Zárja le biztonságosan a biciklit, mielőtt bemenne a melegbe.",
                 "ro": "Încuiați bine bicicleta înainte de a intra la căldură.",
-                "en": "Lock your bike securely before heading into the warmth."
+                "en": "Lock your bike securely before heading into the warmth.",
+                "pt": "Tranque bem a sua bicicleta antes de entrar num local quente."
               }
             }
           ],
@@ -992,6 +1062,13 @@
               "Avoid riding on painted road markings as they become slick.",
               "Fenders (mudguards) are indispensable in this weather.",
               "Stick to the promenade to avoid road spray from cars."
+            ],
+            "pt": [
+              "Use equipamento de chuva completo, incluindo casaco e calças.",
+              "Teste os seus travões com frequência; as distâncias de paragem são maiores quando está molhado.",
+              "Evite circular sobre marcas de pintura na estrada, pois ficam escorregadias.",
+              "Guarda-lamas são indispensáveis neste tempo.",
+              "Mantenha-se na promenade para evitar salpicos de carros."
             ]
           }
         },
@@ -1006,7 +1083,8 @@
                 "de": "Perfekt für einen heißen Snack vor der Weiterfahrt.",
                 "hu": "Tökéletes egy forró snackre a továbbindulás előtt.",
                 "ro": "Perfect pentru o gustare caldă înainte de a pleca mai departe.",
-                "en": "Perfect for a hot snack before continuing your ride."
+                "en": "Perfect for a hot snack before continuing your ride.",
+                "pt": "Perfeito para um lanche quente antes de continuar o passeio."
               }
             },
             {
@@ -1015,7 +1093,8 @@
                 "de": "Nutzen Sie den Stopp, um die eingefrorenen Finger aufzuwärmen.",
                 "hu": "Használja ki a megállót az átfagyott ujjak felmelegítésére.",
                 "ro": "Profitați de oprire pentru a vă încălzi degetele înghețate.",
-                "en": "Use this stop to thaw out frozen fingers in the warm galleries."
+                "en": "Use this stop to thaw out frozen fingers in the warm galleries.",
+                "pt": "Use esta paragem para descongelar os dedos congelados nas galerias quentes."
               }
             },
             {
@@ -1024,7 +1103,8 @@
                 "de": "Der Wind auf der Festung ist im Winter besonders schneidend.",
                 "hu": "Az erődnél a szél télen különösen metsző lehet.",
                 "ro": "Vântul de la cetate este deosebit de tăios iarna.",
-                "en": "The wind at the fortress can be especially biting in winter."
+                "en": "The wind at the fortress can be especially biting in winter.",
+                "pt": "O vento na fortaleza pode ser especialmente cortante no inverno."
               }
             },
             {
@@ -1033,7 +1113,8 @@
                 "de": "Beste Zeit für Fotos mit dem tiefstehenden Sonnenlicht.",
                 "hu": "A legjobb időpont a fotózáshoz az alacsonyan járó napfényben.",
                 "ro": "Cel mai bun moment pentru fotografii cu lumina joasă a soarelui.",
-                "en": "Best time for photos with the low-hanging winter sunlight."
+                "en": "Best time for photos with the low-hanging winter sunlight.",
+                "pt": "Melhor altura para fotos com a luz baixa de inverno."
               }
             },
             {
@@ -1042,7 +1123,8 @@
                 "de": "Planen Sie die Ankunft hier spätestens um 15:30 Uhr ein.",
                 "hu": "Tervezze az ideérkezést legkésőbb 15:30-ra.",
                 "ro": "Planificați sosirea aici cel târziu la ora 15:30.",
-                "en": "Plan to arrive here by 15:30 at the latest to catch the light."
+                "en": "Plan to arrive here by 15:30 at the latest to catch the light.",
+                "pt": "Planeie chegar aqui até às 15:30, no máximo, para apanhar a luz."
               }
             },
             {
@@ -1051,7 +1133,8 @@
                 "de": "Belohnen Sie sich mit einem warmen Getränk nach der Tour.",
                 "hu": "Jutalmazza meg magát egy meleg itallal a túra után.",
                 "ro": "Răsplătiți-vă cu o băutură caldă după tur.",
-                "en": "Reward yourself with a warm drink after the chilly tour."
+                "en": "Reward yourself with a warm drink after the chilly tour.",
+                "pt": "Recompense-se com uma bebida quente após o passeio frio."
               }
             }
           ],
@@ -1083,6 +1166,13 @@
               "Avoid standing still for long periods in shaded areas.",
               "Sea humidity makes the air feel much colder than it is.",
               "Plan your route to take advantage of the prevailing tailwinds."
+            ],
+            "pt": [
+              "Use luvas corta-vento e uma touca fina por baixo do capacete.",
+              "Os dias são curtos; certifique-se de que as luzes da bicicleta estão carregadas e a funcionar.",
+              "Evite ficar parado longos períodos em áreas sombreadas.",
+              "A humidade do mar faz com que o ar pareça muito mais frio do que é.",
+              "Planeie a sua rota para tirar partido dos ventos favoráveis de cauda."
             ]
           }
         }
@@ -1101,7 +1191,8 @@
             "de": "Serra da Boa Viagem (Miradouro da Bandeira)",
             "hu": "Serra da Boa Viagem (Bandeira kilátó)",
             "ro": "Serra da Boa Viagem (Punct de belvedere Bandeira)",
-            "en": "Serra da Boa Viagem (Bandeira Viewpoint)"
+            "en": "Serra da Boa Viagem (Bandeira Viewpoint)",
+            "pt": "Serra da Boa Viagem (Miradouro da Bandeira)"
           },
           "coords": [
             -8.895,
@@ -1117,7 +1208,8 @@
             "de": "Der perfekte Start in den Tag mit einem atemberaubenden Blick über die gesamte Region.",
             "hu": "Tökéletes kezdés a napnak, lenyűgöző kilátással az egész régióra.",
             "ro": "Începutul perfect al zilei cu o priveliște uluitoare asupra întregii regiuni.",
-            "en": "The perfect start to the day with a stunning view over the entire region."
+            "en": "The perfect start to the day with a stunning view over the entire region.",
+            "pt": "O começo perfeito do dia com uma vista deslumbrante sobre toda a região."
           }
         },
         {
@@ -1125,7 +1217,8 @@
             "de": "Cabo Mondego Leuchtturm",
             "hu": "Cabo Mondego világítótorony",
             "ro": "Farul Cabo Mondego",
-            "en": "Cabo Mondego Lighthouse"
+            "en": "Cabo Mondego Lighthouse",
+            "pt": "Farol do Cabo Mondego"
           },
           "coords": [
             -8.903,
@@ -1141,7 +1234,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz des Aussichtspunkts entfernt. Tolle Fotomotive.",
             "hu": "Rövid séta a kilátó parkolójától. Nagyszerű fotózási lehetőségek.",
             "ro": "O scurtă plimbare de la parcarea punctului de belvedere. Oportunități foto excelente.",
-            "en": "A short walk from the viewpoint parking area. Great photo opportunities."
+            "en": "A short walk from the viewpoint parking area. Great photo opportunities.",
+            "pt": "A curta caminhada a partir da área de estacionamento do miradouro. Ótimas oportunidades para fotos."
           }
         },
         {
@@ -1149,7 +1243,8 @@
             "de": "Parkplatz Zentrum (Nähe Mercado)",
             "hu": "Parkoló a központban (Piac közelében)",
             "ro": "Parcare în centru (lângă Piață)",
-            "en": "Downtown Parking (Near Market)"
+            "en": "Downtown Parking (Near Market)",
+            "pt": "Estacionamento no Centro (Perto do Mercado)"
           },
           "coords": [
             -8.859,
@@ -1165,7 +1260,8 @@
             "de": "Parken Sie hier für den Vormittag. Es ist ein zentraler Punkt, um die Innenstadt zu erkunden.",
             "hu": "Parkoljon itt a délelőttre. Központi pont a belváros felfedezéséhez.",
             "ro": "Parcați aici pentru restul dimineții. Este un punct central pentru a explora centrul.",
-            "en": "Park here for the morning. It's a central point to explore downtown."
+            "en": "Park here for the morning. It's a central point to explore downtown.",
+            "pt": "Estacione aqui pela manhã. É um ponto central para explorar o centro a pé."
           }
         },
         {
@@ -1173,7 +1269,8 @@
             "de": "Mercado Municipal",
             "hu": "Városi Piac",
             "ro": "Piața Municipală",
-            "en": "Municipal Market"
+            "en": "Municipal Market",
+            "pt": "Mercado Municipal"
           },
           "coords": [
             -8.8585,
@@ -1189,7 +1286,8 @@
             "de": "Ein Fest für die Sinne. Suchen Sie nach einem schnellen Imbiss für später.",
             "hu": "Az érzékek ünnepe. Keressen egy gyors harapnivalót későbbre.",
             "ro": "O sărbătoare pentru simțuri. Căutați o gustare rapidă pentru mai târziu.",
-            "en": "A feast for the senses. Look for a quick snack for later."
+            "en": "A feast for the senses. Look for a quick snack for later.",
+            "pt": "Um festim para os sentidos. Procure um lanche rápido para depois."
           }
         },
         {
@@ -1197,7 +1295,8 @@
             "de": "Museu Municipal Santos Rocha",
             "hu": "Santos Rocha Városi Múzeum",
             "ro": "Muzeul Municipal Santos Rocha",
-            "en": "Santos Rocha Municipal Museum"
+            "en": "Santos Rocha Municipal Museum",
+            "pt": "Museu Municipal Santos Rocha"
           },
           "coords": [
             -8.8571,
@@ -1213,7 +1312,8 @@
             "de": "Entdecken Sie die vielfältigen Sammlungen, von Archäologie bis Kunst.",
             "hu": "Fedezze fel a változatos gyűjteményeket, a régészettől a művészetig.",
             "ro": "Explorați colecțiile diverse, de la arheologie la artă.",
-            "en": "Explore the diverse collections, from archaeology to art."
+            "en": "Explore the diverse collections, from archaeology to art.",
+            "pt": "Explore as coleções diversas, da arqueologia à arte."
           }
         },
         {
@@ -1221,7 +1321,8 @@
             "de": "Parkplatz am Strand (Nähe Forte)",
             "hu": "Parkoló a strandnál (Erőd közelében)",
             "ro": "Parcare pe plajă (lângă Fort)",
-            "en": "Beach Parking (Near Fort)"
+            "en": "Beach Parking (Near Fort)",
+            "pt": "Estacionamento na Praia (Perto do Forte)"
           },
           "coords": [
             -8.8685,
@@ -1237,7 +1338,8 @@
             "de": "Wechseln Sie zum Strandparkplatz. Von hier aus ist alles zu Fuß erreichbar.",
             "hu": "Váltson a strandparkolóra. Innen minden sétatávolságra van.",
             "ro": "Mutați-vă în parcarea de pe plajă. Totul este la câțiva pași de aici.",
-            "en": "Move to the beach parking lot. Everything is within walking distance from here."
+            "en": "Move to the beach parking lot. Everything is within walking distance from here.",
+            "pt": "Mude para o parque de estacionamento da praia. Tudo fica a curta distância a pé daqui."
           }
         },
         {
@@ -1245,7 +1347,8 @@
             "de": "Forte de Santa Catarina & Praia da Claridade",
             "hu": "Santa Catarina erőd & Claridade strand",
             "ro": "Fortul Santa Catarina & Plaja Claridade",
-            "en": "Forte de Santa Catarina & Praia da Claridade"
+            "en": "Forte de Santa Catarina & Praia da Claridade",
+            "pt": "Forte de Santa Catarina & Praia da Claridade"
           },
           "coords": [
             -8.8678,
@@ -1261,7 +1364,8 @@
             "de": "Erklimmen Sie die Festung für die Aussicht und entspannen Sie sich dann am riesigen Strand.",
             "hu": "Másszon fel az erődbe a kilátásért, majd pihenjen a hatalmas strandon.",
             "ro": "Urcați în fort pentru priveliște, apoi relaxați-vă pe plaja imensă.",
-            "en": "Climb the fort for the view, then relax on the immense beach."
+            "en": "Climb the fort for the view, then relax on the immense beach.",
+            "pt": "Suba à fortaleza para a vista, depois relaxe na imensa praia."
           }
         }
       ],
@@ -1269,7 +1373,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto auf der Serra da Boa Viagem für einen Panoramablick. Vormittags fahren Sie ins Zentrum, parken und erkunden zu Fuß den lebhaften Markt und das Museum. Am Nachmittag fahren Sie zum Strand, parken erneut und verbringen den Rest des Tages damit, die Festung zu erkunden und am unberührten Sand der Praia da Claridade zu entspannen, bis die Sonne untergeht.",
         "hu": "Kezdje a napot egy autós kirándulással a Serra da Boa Viagem-re a panorámás kilátásért. Délelőtt vezessen be a központba, parkoljon le, és fedezze fel gyalog a nyüzsgő piacot és a múzeumot. Délután autózzon a tengerpartra, parkoljon le újra, és töltse a nap hátralévő részét az erőd felfedezésével és a Praia da Claridade érintetlen homokján pihenve, amíg a nap le nem nyugszik.",
         "ro": "Începeți ziua conducând până la Serra da Boa Viagem pentru vederi panoramice. Dimineața, mergeți în centru, parcați și explorați pe jos piața plină de viață și muzeul. După-amiaza, conduceți spre plajă, parcați din nou și petreceți restul zilei explorând fortul și relaxându-vă pe nisipul curat al Plajei Claridade până la apus.",
-        "en": "Start your day by driving up the Serra da Boa Viagem for panoramic views. In the morning, drive to the center, park, and explore the bustling market and museum on foot. For the afternoon, drive to the beach, park again, and spend the rest of your day exploring the fort and relaxing on the pristine sands of Praia da Claridade until sunset."
+        "en": "Start your day by driving up the Serra da Boa Viagem for panoramic views. In the morning, drive to the center, park, and explore the bustling market and museum on foot. For the afternoon, drive to the beach, park again, and spend the rest of your day exploring the fort and relaxing on the pristine sands of Praia da Claridade until sunset.",
+        "pt": "Comece o dia subindo de carro à Serra da Boa Viagem para vistas panorâmicas. De manhã, siga para o centro, estacione e explore o mercado e o museu a pé. À tarde, dirija até à praia, estacione novamente e passe o resto do dia a explorar o forte e a relaxar nas areias pristinas da Praia da Claridade até ao pôr do sol."
       },
       "gastro_picks": {
         "de": [
@@ -1465,6 +1570,12 @@
           "A car allows you to easily explore the stunning Serra da Boa Viagem.",
           "Traffic can be heavy near the beach during summer.",
           "Plan your parking strategy in advance to save time."
+        ],
+        "pt": [
+          "Verifique as taxas de estacionamento; algumas zonas são pagas.",
+          "Um carro permite explorar facilmente a impressionante Serra da Boa Viagem.",
+          "O trânsito pode ser intenso perto da praia durante o verão.",
+          "Planeie a sua estratégia de estacionamento com antecedência para poupar tempo."
         ]
       },
       "variants": {
@@ -1479,7 +1590,8 @@
                 "de": "Bei starkem Nebel ist die Sicht gleich null, bleiben Sie im Wagen.",
                 "hu": "Erős ködben a kilátás nulla, maradjon az autóban.",
                 "ro": "În caz de ceață densă vizibilitatea e zero, rămâneți în mașină.",
-                "en": "In heavy fog, visibility is zero; stay inside the vehicle."
+                "en": "In heavy fog, visibility is zero; stay inside the vehicle.",
+                "pt": "Em nevoeiro intenso, a visibilidade é nula; permaneça dentro do veículo."
               }
             },
             {
@@ -1488,7 +1600,8 @@
                 "de": "Die Straße zum Leuchtturm kann bei Starkregen Wasser führen.",
                 "hu": "A világítótoronyhoz vezető úton felgyűlhet a víz esőben.",
                 "ro": "Drumul spre far poate avea acumulări de apă la ploaie torențială.",
-                "en": "The road to the lighthouse can have standing water during heavy rain."
+                "en": "The road to the lighthouse can have standing water during heavy rain.",
+                "pt": "A estrada para o farol pode ter água parada durante chuvas fortes."
               }
             },
             {
@@ -1497,7 +1610,8 @@
                 "de": "Wählen Sie ein Parkhaus, um trockenen Fußes zum Markt zu gelangen.",
                 "hu": "Válasszon parkolóházat, hogy száraz lábbal érjen a piachoz.",
                 "ro": "Alegeți o parcare etajată pentru a ajunge uscat la piață.",
-                "en": "Choose a parking garage to reach the market without getting wet."
+                "en": "Choose a parking garage to reach the market without getting wet.",
+                "pt": "Escolha um parque de estacionamento coberto para chegar ao mercado sem se molhar."
               }
             },
             {
@@ -1506,7 +1620,8 @@
                 "de": "Nutzen Sie den Stopp, um regionale Vorräte für den Abend zu kaufen.",
                 "hu": "Használja ki a megállót, vegyen helyi finomságokat estére.",
                 "ro": "Profitați de oprire pentru a cumpăra provizii locale pentru seară.",
-                "en": "Use this stop to stock up on regional treats for the evening."
+                "en": "Use this stop to stock up on regional treats for the evening.",
+                "pt": "Use esta paragem para abastecer-se com iguarias regionais para a noite."
               }
             },
             {
@@ -1515,7 +1630,8 @@
                 "de": "Parkplätze direkt vor dem Museum sind bei Regen sehr begehrt.",
                 "hu": "A múzeum előtti parkolóhelyek esőben nagyon keresettek.",
                 "ro": "Locurile de parcare din fața muzeului sunt foarte căutate pe ploaie.",
-                "en": "Parking spots right in front of the museum are popular when it rains."
+                "en": "Parking spots right in front of the museum are popular when it rains.",
+                "pt": "Os lugares de estacionamento mesmo em frente ao museu são populares quando chove."
               }
             },
             {
@@ -1524,7 +1640,8 @@
                 "de": "Parken Sie mit Blick auf den Ozean für das ultimative Wave-Watching.",
                 "hu": "Parkoljon az óceán felé nézve a tökéletes hullámleshez.",
                 "ro": "Parcați cu fața spre ocean pentru o sesiune de urmărit valurile.",
-                "en": "Park facing the ocean for the ultimate wave-watching experience."
+                "en": "Park facing the ocean for the ultimate wave-watching experience.",
+                "pt": "Estacione virado para o oceano para a melhor experiência de observação das ondas."
               }
             },
             {
@@ -1533,7 +1650,8 @@
                 "de": "Ein kurzer Sprint zum Fort lohnt sich für die dramatische Aussicht.",
                 "hu": "Egy rövid vágta az erődhöz megéri a drámai kilátásért.",
                 "ro": "Un sprint scurt spre fort merită pentru vederea dramatică.",
-                "en": "A short dash to the fort is worth it for the dramatic views."
+                "en": "A short dash to the fort is worth it for the dramatic views.",
+                "pt": "Uma corrida curta até ao forte vale a pena pelas vistas dramáticas."
               }
             }
           ],
@@ -1565,6 +1683,13 @@
               "The coastal road can be slick from salt spray and rain.",
               "Covered parking in the center protects from wind and rain.",
               "Keep blankets in the car in case you get soaked outside."
+            ],
+            "pt": [
+              "Verifique os limpa-parabrisas antes de subir às montanhas.",
+              "Evite estacionar debaixo de árvores instáveis na área da Serra.",
+              "A estrada costeira pode ficar escorregadia devido ao salpico e à chuva.",
+              "O estacionamento coberto no centro protege do vento e da chuva.",
+              "Mantenha mantas no carro caso fique ensopado ao ar livre."
             ]
           }
         },
@@ -1579,7 +1704,8 @@
                 "de": "Beste Fernsicht des ganzen Jahres an klaren Wintertagen.",
                 "hu": "Az év legjobb távoli kilátása tiszta téli napokon.",
                 "ro": "Cea mai bună vizibilitate la distanță din tot anul în zilele clare.",
-                "en": "Best long-distance visibility of the year on clear winter days."
+                "en": "Best long-distance visibility of the year on clear winter days.",
+                "pt": "Melhor visibilidade a longa distância do ano em dias claros de inverno."
               }
             },
             {
@@ -1588,7 +1714,8 @@
                 "de": "Frische Brise am Kap, ideal für kurze, belebende Spaziergänge.",
                 "hu": "Friss szellő a foknál, ideális rövid, élénkítő sétákhoz.",
                 "ro": "Briză proaspătă la cap, ideală pentru plimbări scurte revigorante.",
-                "en": "Fresh breeze at the cape, ideal for short, invigorating walks."
+                "en": "Fresh breeze at the cape, ideal for short, invigorating walks.",
+                "pt": "Brisa fresca no cabo, ideal para curtos e revigorantes passeios."
               }
             },
             {
@@ -1597,7 +1724,8 @@
                 "de": "Sonnige Parkplätze wählen, um das Auto natürlich aufzuwärmen.",
                 "hu": "Válasszon napos parkolóhelyet, hogy természetesen melegedjen az autó.",
                 "ro": "Alegeți locuri de parcare însorite pentru a încălzi mașina natural.",
-                "en": "Choose sunny parking spots to let the car warm up naturally."
+                "en": "Choose sunny parking spots to let the car warm up naturally.",
+                "pt": "Escolha lugares de estacionamento ensolarados para deixar o carro aquecer naturalmente."
               }
             },
             {
@@ -1606,7 +1734,8 @@
                 "de": "Probieren Sie heiße Kastanien, falls diese angeboten werden.",
                 "hu": "Próbálja ki a sült gesztenyét, ha éppen árulják.",
                 "ro": "Încercați castanele coapte, dacă sunt disponibile.",
-                "en": "Try roasted chestnuts if they are available at the market stalls."
+                "en": "Try roasted chestnuts if they are available at the market stalls.",
+                "pt": "Experimente castanhas assadas se estiverem disponíveis nas bancas do mercado."
               }
             },
             {
@@ -1615,7 +1744,8 @@
                 "de": "Ein entspannter Stopp ohne sommerliche Touristenströme.",
                 "hu": "Nyugodt megálló a nyári turistaáradat nélkül.",
                 "ro": "O oprire relaxată fără mulțimile de turiști din timpul verii.",
-                "en": "A relaxed stop without the heavy summer tourist crowds."
+                "en": "A relaxed stop without the heavy summer tourist crowds.",
+                "pt": "Uma paragem descontraída sem as grandes multidões turísticas do verão."
               }
             },
             {
@@ -1624,7 +1754,8 @@
                 "de": "Im Winter gibt es hier meist problemlos freie Plätze.",
                 "hu": "Télen itt általában gond nélkül találni szabad helyet.",
                 "ro": "Iarna găsiți de obicei locuri libere aici fără probleme.",
-                "en": "In winter, you can usually find free parking spots here without issues."
+                "en": "In winter, you can usually find free parking spots here without issues.",
+                "pt": "No inverno, normalmente encontra aqui lugares de estacionamento gratuitos sem problemas."
               }
             },
             {
@@ -1633,7 +1764,8 @@
                 "de": "Der Sonnenuntergang ist im Winter besonders farbenintensiv.",
                 "hu": "A naplemente télen különösen intenzív színekben pompázik.",
                 "ro": "Apusul este deosebit de intens colorat pe timpul iernii.",
-                "en": "The sunset is particularly color-intensive during the winter months."
+                "en": "The sunset is particularly color-intensive during the winter months.",
+                "pt": "O pôr do sol é particularmente intenso em cores durante os meses de inverno."
               }
             }
           ],
@@ -1665,6 +1797,13 @@
               "Mountain roads can have frost in the morning; drive carefully.",
               "The sun is low; don't forget your sunglasses while driving.",
               "Days are short; make sure to start promptly at 9:00."
+            ],
+            "pt": [
+              "O aquecimento do carro garante conforto entre as várias paragens.",
+              "Utilize o estacionamento junto ao mar para breves pausas quentes.",
+              "As estradas de montanha podem ter geada de manhã; conduza com cuidado.",
+              "O sol está baixo; não se esqueça dos óculos de sol enquanto conduz.",
+              "Os dias são curtos; garanta começar pontualmente às 9:00."
             ]
           }
         }
@@ -1683,7 +1822,8 @@
             "de": "Busbahnhof (Ankunft)",
             "hu": "Buszpályaudvar (Érkezés)",
             "ro": "Autogară (Sosire)",
-            "en": "Bus Terminal (Arrival)"
+            "en": "Bus Terminal (Arrival)",
+            "pt": "Terminal Rodoviário (Chegadas)"
           },
           "coords": [
             -8.855,
@@ -1699,7 +1839,8 @@
             "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
             "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
             "ro": "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
-            "en": "Buy a day pass for unlimited travel."
+            "en": "Buy a day pass for unlimited travel.",
+            "pt": "Compre um passe diário para viagens ilimitadas."
           }
         },
         {
@@ -1707,7 +1848,8 @@
             "de": "Mercado Municipal",
             "hu": "Városi Piac",
             "ro": "Piața Municipală",
-            "en": "Municipal Market"
+            "en": "Municipal Market",
+            "pt": "Mercado Municipal"
           },
           "coords": [
             -8.8585,
@@ -1723,7 +1865,8 @@
             "de": "Nur einen kurzen Spaziergang vom Busbahnhof entfernt.",
             "hu": "Csak egy rövid séta a buszpályaudvartól.",
             "ro": "La o scurtă plimbare de autogară.",
-            "en": "Just a short walk from the bus terminal."
+            "en": "Just a short walk from the bus terminal.",
+            "pt": "A uma curta caminhada do terminal rodoviário."
           }
         },
         {
@@ -1731,7 +1874,8 @@
             "de": "Museu Municipal Santos Rocha",
             "hu": "Santos Rocha Városi Múzeum",
             "ro": "Muzeul Municipal Santos Rocha",
-            "en": "Santos Rocha Municipal Museum"
+            "en": "Santos Rocha Municipal Museum",
+            "pt": "Museu Municipal Santos Rocha"
           },
           "coords": [
             -8.8571,
@@ -1747,7 +1891,8 @@
             "de": "Tauchen Sie vor dem Mittagessen in die lokale Kultur ein.",
             "hu": "Merüljön el a helyi kultúrában ebéd előtt.",
             "ro": "Scufundați-vă în cultura locală înainte de prânz.",
-            "en": "Immerse yourself in local culture before lunch."
+            "en": "Immerse yourself in local culture before lunch.",
+            "pt": "Mergulhe na cultura local antes do almoço."
           }
         },
         {
@@ -1755,7 +1900,8 @@
             "de": "Casino Figueira (Bushaltestelle)",
             "hu": "Figueira Kaszinó (buszmegálló)",
             "ro": "Cazinoul Figueira (Stație de autobuz)",
-            "en": "Casino Figueira (Bus Stop)"
+            "en": "Casino Figueira (Bus Stop)",
+            "pt": "Casino Figueira (Paragem de Autocarro)"
           },
           "coords": [
             -8.864,
@@ -1771,7 +1917,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Strand. Viele Linien halten hier.",
             "hu": "Menjen busszal a strand felé. Sok járat megáll itt.",
             "ro": "Luați un autobuz spre plajă. Multe linii opresc aici.",
-            "en": "Take a bus towards the beach. Many lines stop here."
+            "en": "Take a bus towards the beach. Many lines stop here.",
+            "pt": "Apanhe um autocarro em direção à praia. Muitas linhas param aqui."
           }
         },
         {
@@ -1779,7 +1926,8 @@
             "de": "Forte de Santa Catarina",
             "hu": "Santa Catarina erőd",
             "ro": "Fortul Santa Catarina",
-            "en": "Forte de Santa Catarina"
+            "en": "Forte de Santa Catarina",
+            "pt": "Forte de Santa Catarina"
           },
           "coords": [
             -8.8678,
@@ -1795,7 +1943,8 @@
             "de": "Gehen Sie von der Bushaltestelle aus bergauf, um die beste Aussicht zu genießen.",
             "hu": "Sétáljon felfelé a buszmegállótól a legjobb kilátásért.",
             "ro": "Urcați de la stația de autobuz pentru cele mai bune priveliști.",
-            "en": "Walk uphill from the bus stop for the best views."
+            "en": "Walk uphill from the bus stop for the best views.",
+            "pt": "Suba a pé desde a paragem para obter as melhores vistas."
           }
         },
         {
@@ -1803,7 +1952,8 @@
             "de": "Praia da Claridade (Mittagessen & Entspannung)",
             "hu": "Claridade strand (Ebéd és pihenés)",
             "ro": "Plaja Claridade (Prânz și relaxare)",
-            "en": "Praia da Claridade (Lunch & Relaxation)"
+            "en": "Praia da Claridade (Lunch & Relaxation)",
+            "pt": "Praia da Claridade (Almoço e Relaxamento)"
           },
           "coords": [
             -8.8715,
@@ -1819,7 +1969,8 @@
             "de": "Verbringen Sie hier den Rest des Nachmittags. Es gibt viele Cafés für das Mittagessen.",
             "hu": "Töltse itt a délután hátralévő részét. Sok kávézó van ebédre.",
             "ro": "Petreceți restul după-amiezii aici. Există o mulțime de cafenele pentru prânz.",
-            "en": "Spend the rest of the afternoon here. There are plenty of cafes for lunch."
+            "en": "Spend the rest of the afternoon here. There are plenty of cafes for lunch.",
+            "pt": "Passe a tarde aqui. Há muitos cafés para almoçar."
           }
         }
       ],
@@ -1827,7 +1978,8 @@
         "de": "Beginnen Sie Ihren Tag, indem Sie mit dem Bus ins Stadtzentrum fahren. Erkunden Sie zu Fuß den Markt und das Museum. Am Mittag nehmen Sie einen weiteren Bus zum Strandbereich. Verbringen Sie den Nachmittag damit, die Festung zu besichtigen und die Sonne am Praia da Claridade zu genießen, bevor Sie einen Bus zurück nehmen.",
         "hu": "Kezdje a napot egy buszozással a városközpontba. Fedezze fel gyalog a piacot és a múzeumot. Délben szálljon fel egy másik buszra a tengerparti területre. Töltse a délutánt az erőd megtekintésével és napozással a Praia da Claridade-n, mielőtt visszabuszozna.",
         "ro": "Începeți ziua luând un autobuz spre centrul orașului. Explorați pe jos piața și muzeul. La prânz, luați un alt autobuz spre zona de plajă. Petreceți după-amiaza vizitând fortul și bucurându-vă de soare pe Plaja Claridade înainte de a lua un autobuz înapoi.",
-        "en": "Start your day by taking a bus to the city center. Explore the market and museum on foot. At midday, catch another bus to the beach area. Spend the afternoon visiting the fort and soaking up the sun at Praia da Claridade before taking a bus back."
+        "en": "Start your day by taking a bus to the city center. Explore the market and museum on foot. At midday, catch another bus to the beach area. Spend the afternoon visiting the fort and soaking up the sun at Praia da Claridade before taking a bus back.",
+        "pt": "Comece o dia apanhando um autocarro para o centro da cidade. Explore o mercado e o museu a pé. Ao meio‑dia, apanhe outro autocarro para a zona da praia. Passe a tarde visitando o forte e apanhe sol na Praia da Claridade antes de voltar de autocarro."
       },
       "gastro_picks": {
         "de": [
@@ -2023,6 +2175,12 @@
           "Bus schedules are posted at stops, but an app can be helpful.",
           "Buses can be crowded in the summer, so be patient.",
           "Keep an eye on the schedule for the last bus back if you're spending the evening at the beach."
+        ],
+        "pt": [
+          "Valide o seu bilhete sempre que subir no autocarro.",
+          "Os horários de autocarro estão afixados nas paragens, mas uma aplicação pode ser útil.",
+          "Os autocarros podem estar cheios no verão, por isso seja paciente.",
+          "Fique atento ao horário do último autocarro de regresso se passar a noite na praia."
         ]
       },
       "variants": {
@@ -2037,7 +2195,8 @@
                 "de": "Warten Sie im Terminalgebäude, bis der nächste Anschluss bereitsteht.",
                 "hu": "Várjon a terminál épületében a következő csatlakozásig.",
                 "ro": "Așteptați în clădirea terminalului până vine următoarea legătură.",
-                "en": "Wait inside the terminal building until your next connection arrives."
+                "en": "Wait inside the terminal building until your next connection arrives.",
+                "pt": "Espere dentro do edifício do terminal até chegar a sua ligação."
               }
             },
             {
@@ -2046,7 +2205,8 @@
                 "de": "Die nächste Haltestelle ist nur wenige Gehminuten entfernt.",
                 "hu": "A legközelebbi megálló csak pár perc séta.",
                 "ro": "Cea mai apropiată stație este la doar câteva minute de mers.",
-                "en": "The nearest bus stop is only a few minutes' walk away."
+                "en": "The nearest bus stop is only a few minutes' walk away.",
+                "pt": "A paragem de autocarro mais próxima fica a apenas alguns minutos a pé."
               }
             },
             {
@@ -2055,7 +2215,8 @@
                 "de": "Idealer Stopp, um auf die Wetterbesserung zu warten.",
                 "hu": "Ideális megálló, hogy megvárja az idő jobbra fordulását.",
                 "ro": "Oprire ideală pentru a aștepta îmbunătățirea vremii.",
-                "en": "Ideal stop to wait for the weather to improve while exploring."
+                "en": "Ideal stop to wait for the weather to improve while exploring.",
+                "pt": "Paragem ideal para esperar que o tempo melhore enquanto explora."
               }
             },
             {
@@ -2064,7 +2225,8 @@
                 "de": "Diese Haltestelle bietet ein kleines Wartehäuschen gegen Regen.",
                 "hu": "Ez a megálló rendelkezik egy kis esővédő bódéval.",
                 "ro": "Această stație are o mică cabină de protecție contra ploii.",
-                "en": "This bus stop has a small shelter to keep you dry while waiting."
+                "en": "This bus stop has a small shelter to keep you dry while waiting.",
+                "pt": "Esta paragem de autocarro tem um pequeno abrigo para o manter seco enquanto espera."
               }
             },
             {
@@ -2073,7 +2235,8 @@
                 "de": "Der Weg von der Haltestelle zum Fort ist kurz, aber ungeschützt.",
                 "hu": "Az út a megállótól az erődig rövid, de védtelen.",
                 "ro": "Drumul de la stație la fort este scurt, dar neprotejat.",
-                "en": "The walk from the stop to the fort is short but unsheltered."
+                "en": "The walk from the stop to the fort is short but unsheltered.",
+                "pt": "A caminhada da paragem até ao forte é curta mas sem cobertura."
               }
             },
             {
@@ -2082,7 +2245,8 @@
                 "de": "Wählen Sie ein Restaurant mit direktem Blick auf die Haltestelle.",
                 "hu": "Válasszon olyan éttermet, ahonnan rálátni a buszmegállóra.",
                 "ro": "Alegeți un restaurant cu vedere directă spre stația de autobuz.",
-                "en": "Choose a restaurant with a direct view of the bus stop."
+                "en": "Choose a restaurant with a direct view of the bus stop.",
+                "pt": "Escolha um restaurante com vista direta para a paragem de autocarros."
               }
             }
           ],
@@ -2114,6 +2278,13 @@
               "Buses may be delayed during rain due to increased city traffic.",
               "The market hall is a great orientation point for major bus lines.",
               "Wear clothing that dries quickly even while you are on the bus."
+            ],
+            "pt": [
+              "Use a aplicação de transportes para informações em tempo real e minimizar a espera na chuva.",
+              "Tenha troco ou cartão pronto para comprar bilhetes.",
+              "Os autocarros podem sofrer atrasos na chuva devido ao aumento do trânsito urbano.",
+              "O mercado é um ótimo ponto de orientação para as principais linhas de autocarro.",
+              "Use roupas que sequem rápido mesmo enquanto estiver no autocarro."
             ]
           }
         },
@@ -2128,7 +2299,8 @@
                 "de": "Das Terminal ist im Winter beheizt und bietet Sitzmöglichkeiten.",
                 "hu": "A terminál télen fűtött és van lehetőség leülni.",
                 "ro": "Terminalul este încălzit iarna și oferă locuri de șezut.",
-                "en": "The terminal is heated in winter and offers seating while you wait."
+                "en": "The terminal is heated in winter and offers seating while you wait.",
+                "pt": "O terminal é aquecido no inverno e oferece lugares para sentar enquanto espera."
               }
             },
             {
@@ -2137,7 +2309,8 @@
                 "de": "Genießen Sie die warme Atmosphäre zwischen den Ständen.",
                 "hu": "Élvezze a meleg hangulatot az árusok között.",
                 "ro": "Bucurați-vă de atmosfera caldă printre tarabe.",
-                "en": "Enjoy the warm atmosphere among the indoor market stalls."
+                "en": "Enjoy the warm atmosphere among the indoor market stalls.",
+                "pt": "Desfrute da atmosfera acolhedora entre as bancas do mercado interior."
               }
             },
             {
@@ -2146,7 +2319,8 @@
                 "de": "Nutzen Sie den Transit-Stopp für einen längeren Aufenthalt im Warmen.",
                 "hu": "Használja ki a megállót egy hosszabb melegedésre.",
                 "ro": "Profitați de oprire pentru o perioadă mai lungă la căldură.",
-                "en": "Use this transit stop for an extended stay in the warm galleries."
+                "en": "Use this transit stop for an extended stay in the warm galleries.",
+                "pt": "Use esta paragem de transportes para uma estadia prolongada nas galerias quentes."
               }
             },
             {
@@ -2155,7 +2329,8 @@
                 "de": "Zentrale Haltestelle mit guter Anbindung zurück zum Terminal.",
                 "hu": "Központi megálló jó összeköttetéssel a terminál felé.",
                 "ro": "Stație centrală cu legături bune înapoi spre terminal.",
-                "en": "Central stop with good connections back to the terminal."
+                "en": "Central stop with good connections back to the terminal.",
+                "pt": "Paragem central com boas ligações de regresso ao terminal."
               }
             },
             {
@@ -2164,7 +2339,8 @@
                 "de": "Ziehen Sie sich warm an, der Weg zur Haltestelle ist windig.",
                 "hu": "Öltözzön fel jól, a megállóhoz vezető út szeles.",
                 "ro": "Îmbrăcați-vă bine, drumul spre stație este vântos.",
-                "en": "Dress warmly; the walk to the bus stop can be very windy."
+                "en": "Dress warmly; the walk to the bus stop can be very windy.",
+                "pt": "Vista‑se quente; a caminhada até à paragem pode ser muito ventosa."
               }
             },
             {
@@ -2173,7 +2349,8 @@
                 "de": "Achten Sie auf die Winter-Fahrpläne, die seltener sein können.",
                 "hu": "Ügyeljen a téli menetrendre, ami ritkább lehet.",
                 "ro": "Atenție la orarul de iarnă, care poate fi mai rar.",
-                "en": "Check the winter bus schedules as they may be less frequent."
+                "en": "Check the winter bus schedules as they may be less frequent.",
+                "pt": "Verifique os horários de inverno dos autocarros, pois podem ser menos frequentes."
               }
             }
           ],
@@ -2205,6 +2382,13 @@
               "Be aware that some lines may stop running earlier in the winter.",
               "Stops along the promenade can be very windy; stay tucked away.",
               "Use waiting times to grab a quick takeaway coffee to stay warm."
+            ],
+            "pt": [
+              "Os autocarros são bem aquecidos durante os meses de inverno.",
+              "Compre bilhetes com antecedência para evitar esperar fora na paragem.",
+              "Esteja ciente de que algumas linhas podem deixar de operar mais cedo no inverno.",
+              "As paragens ao longo do passeio marítimo podem ser muito ventosas; mantenha‑se protegido.",
+              "Use os tempos de espera para apanhar um café para levar e manter‑se quente."
             ]
           }
         }

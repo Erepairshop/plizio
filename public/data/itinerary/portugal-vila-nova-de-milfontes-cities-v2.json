@@ -21,7 +21,8 @@
             "de": "Ermida de São Sebastião",
             "hu": "Ermida de São Sebastião",
             "ro": "Ermida de São Sebastião",
-            "en": "Ermida de São Sebastião"
+            "en": "Ermida de São Sebastião",
+            "pt": "Ermida de São Sebastião"
           },
           "coords": [
             -8.781353,
@@ -36,7 +37,8 @@
             "de": "Diese hübsche kleine weiße Kapelle bietet einen ersten Einblick in das religiöse Erbe, also nehmen Sie sich einen ruhigen Moment für die Architektur.",
             "hu": "Ez a gyönyörű kis fehér kápolna betekintést nyújt a helyi vallási örökségbe, ezért szánjon egy csendes percet a hagyományos alentejói építészetére.",
             "ro": "Această mică și frumoasă capelă albă oferă o primă privire asupra moștenirii religioase locale, așa că luați-vă un moment pentru a-i admira arhitectura.",
-            "en": "A beautiful little white chapel offering your first glimpse into local religious heritage, so take a quiet moment to admire its Alentejo architecture."
+            "en": "A beautiful little white chapel offering your first glimpse into local religious heritage, so take a quiet moment to admire its Alentejo architecture.",
+            "pt": "Uma bela pequena ermida branca que oferece a sua primeira visão do património religioso local; faça uma pausa silenciosa para admirar a sua arquitectura alentejana."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Igreja de Nossa Senhora da Graça",
             "hu": "Igreja de Nossa Senhora da Graça",
             "ro": "Igreja de Nossa Senhora da Graça",
-            "en": "Igreja de Nossa Senhora da Graça"
+            "en": "Igreja de Nossa Senhora da Graça",
+            "pt": "Igreja de Nossa Senhora da Graça"
           },
           "coords": [
             -8.781829,
@@ -59,7 +62,8 @@
             "de": "Im Herzen des Dorfes gelegen, lädt Sie diese charmante Pfarrkirche ein, einzutreten und in Ruhe ihre friedliche Atmosphäre und den historischen Altar zu bewundern.",
             "hu": "A falu szívében található hangulatos plébániatemplom arra csábít, hogy lépjen be, és csendben csodálja meg annak békés légkörét és történelmi oltárát.",
             "ro": "Situată în inima satului, această fermecătoare biserică parohială vă invită să pășiți înăuntru și să apreciați în liniște atmosfera sa senină și altarul istoric.",
-            "en": "Located in the heart of the village, this charming parish church invites you to step inside and quietly appreciate its serene atmosphere and historic altar."
+            "en": "Located in the heart of the village, this charming parish church invites you to step inside and quietly appreciate its serene atmosphere and historic altar.",
+            "pt": "Localizada no coração da aldeia, esta charmosa igreja paroquial convida-o a entrar e apreciar calmamente a sua serena atmosfera e altar histórico."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Forte de São Clemente",
             "hu": "Forte de São Clemente",
             "ro": "Forte de São Clemente",
-            "en": "Forte de São Clemente"
+            "en": "Forte de São Clemente",
+            "pt": "Forte de São Clemente"
           },
           "coords": [
             -8.782958,
@@ -82,7 +87,8 @@
             "de": "Diese efeubewachsene Festung an der Flussmündung ist perfekt für atemberaubende Küstenfotos, auch wenn das Innere für die Öffentlichkeit meist geschlossen ist.",
             "hu": "A Mira folyó torkolatát őrző, borostyánnal befuttatott erőd tökéletes helyszín lenyűgöző tengerparti fotók készítéséhez, bár a belseje általában zárva tart.",
             "ro": "Această fortăreață impunătoare, acoperită de iederă, este perfectă pentru fotografii de coastă uimitoare, deși interiorul său este de obicei închis publicului.",
-            "en": "This imposing ivy-clad fortress guarding the Mira river mouth is perfect for stunning coastal photographs, though keep in mind the interior is usually closed."
+            "en": "This imposing ivy-clad fortress guarding the Mira river mouth is perfect for stunning coastal photographs, though keep in mind the interior is usually closed.",
+            "pt": "Esta imponente fortaleza coberta de hera que guarda a foz do Mira é perfeita para fotografias costeiras deslumbrantes, embora o interior costume estar fechado."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Praia da Franquia",
             "hu": "Praia da Franquia",
             "ro": "Praia da Franquia",
-            "en": "Praia da Franquia"
+            "en": "Praia da Franquia",
+            "pt": "Praia da Franquia"
           },
           "coords": [
             -8.786801,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie das ruhige Flusswasser an diesem leicht zugänglichen Strand, der sich ideal für ein sicheres Bad oder das Mieten eines Stand-Up-Paddleboards eignet.",
             "hu": "Élvezze a folyó nyugodt vizét ezen a könnyen megközelíthető strandon, amely ideális egy biztonságos úszáshoz vagy akár egy evezős deszka bérléséhez is.",
             "ro": "Bucurați-vă de apele calme ale râului la această plajă foarte accesibilă, care este ideală pentru o înotare sigură sau chiar pentru a închiria un paddleboard.",
-            "en": "Enjoy the calm river waters at this highly accessible beach, which is ideal for a safe swim or even renting a paddleboard for an hour of aquatic fun."
+            "en": "Enjoy the calm river waters at this highly accessible beach, which is ideal for a safe swim or even renting a paddleboard for an hour of aquatic fun.",
+            "pt": "Desfrute das águas calmas do rio nesta praia de fácil acesso, ideal para um banho seguro ou mesmo alugar uma prancha de paddle por uma hora de diversão aquática."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Praia do Farol",
             "hu": "Praia do Farol",
             "ro": "Praia do Farol",
-            "en": "Praia do Farol"
+            "en": "Praia do Farol",
+            "pt": "Praia do Farol"
           },
           "coords": [
             -8.790377,
@@ -128,7 +137,8 @@
             "de": "Beenden Sie Ihren Spaziergang dort, wo der Fluss auf den Atlantik trifft, und bestaunen Sie die weite Aussicht sowie die ikonische Silhouette des Leuchtturms.",
             "hu": "Zárja sétáját ott, ahol a folyó találkozik az Atlanti-óceánnal, és gyönyörködjön a lenyűgöző kilátásban, valamint a világítótorony ikonikus sziluettjében.",
             "ro": "Încheiați plimbarea unde râul întâlnește Oceanul Atlantic, minunându-vă de priveliștile panoramice și de silueta emblematică a farului sub soarele după-amiezii.",
-            "en": "Conclude your walk where the river meets the Atlantic, marveling at the sweeping ocean views and the iconic lighthouse silhouette as the afternoon sun sets."
+            "en": "Conclude your walk where the river meets the Atlantic, marveling at the sweeping ocean views and the iconic lighthouse silhouette as the afternoon sun sets.",
+            "pt": "Conclua a sua caminhada onde o rio encontra o Atlântico, maravilhando-se com as vastas vistas do oceano e a silhueta icónica do farol ao pôr do sol da tarde."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Morning: Beginnen Sie mit lokalen religiösen Wahrzeichen und traditioneller Architektur.\n\nMidday: Schlendern Sie durch malerische Straßen zur historischen Küstenfestung.\n\nAfternoon: Entspannen Sie an Flussstränden, wo sanftes Wasser auf goldenen Sand trifft.\n\nEvening: Beenden Sie den Tag am Leuchtturm mit einem spektakulären Sonnenuntergang.",
         "hu": "Morning: Kezdje a helyi vallási nevezetességek és a hagyományos építészet felfedezésével.\n\nMidday: Sétáljon végig a festői utcákon a történelmi tengerparti erődhöz.\n\nAfternoon: Pihenjen a csendes folyami strandokon, ahol a víz az arany homokkal találkozik.\n\nEvening: Zárja a napot a világítótoronynál egy látványos atlanti naplementével.",
         "ro": "Morning: Începeți cu reperele religioase locale, admirând arhitectura tradițională.\n\nMidday: Plimbați-vă pe străzile pitorești până la fortăreața istorică de coastă.\n\nAfternoon: Relaxați-vă la plajele fluviale unde apele blânde întâlnesc nisipul auriu.\n\nEvening: Încheiați la far, asistând la un apus spectaculos peste Oceanul Atlantic.",
-        "en": "Morning: Start with local religious landmarks, admiring traditional architecture.\n\nMidday: Stroll to the historic coastal fortress via picturesque streets.\n\nAfternoon: Relax at calm river beaches where gentle waters meet golden sand.\n\nEvening: Conclude at the lighthouse, witnessing a spectacular Atlantic sunset."
+        "en": "Morning: Start with local religious landmarks, admiring traditional architecture.\n\nMidday: Stroll to the historic coastal fortress via picturesque streets.\n\nAfternoon: Relax at calm river beaches where gentle waters meet golden sand.\n\nEvening: Conclude at the lighthouse, witnessing a spectacular Atlantic sunset.",
+        "pt": "Manhã: Comece com marcos religiosos locais, admirando a arquitectura tradicional.\n\nMeio-dia: Passeie até à histórica fortaleza costeira por ruas pitorescas.\n\nTarde: Relaxe em praias fluviais calmas onde águas suaves encontram areia dourada.\n\nNoite: Termine no farol, assistindo a um espectacular pôr do sol atlântico."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen im Schutz alter Kapellen, während der Regen auf die Pflastersteine trommelt. Mittags bieten die engen Gassen von Milfontes Schutz vor den Schauern. Am Nachmittag erleben Sie die dramatische Mündung des Mira unter grauen Wolken. Den Abend lassen Sie in einer gemütlichen Taverne ausklingen, während draußen der Regen die Küste wäscht.",
             "hu": "Kezdje a reggelt a régi kápolnák eresze alatt, miközben az eső kopog a macskaköveken. Délben Milfontes szűk utcái nyújtanak menedéket a hirtelen záporok elől. Délután tapasztalja meg a Mira-folyó drámai torkolatát a szürke fellegek alatt. Az estét töltse egy barátságos tavernánál, hallgatva a tengerpartot áztató eső zaját.",
             "ro": "Începeți dimineața sub streșinile vechilor capele, în timp ce ploaia bate în pavaj. La prânz, străzile înguste din Milfontes oferă adăpost împotriva averselor subite. După-amiaza, admirați gura dramatică a râului Mira sub norii grei de ploaie. Încheiați seara într-o tavernă primitoare, ascultând sunetul ploii care spală coasta.",
-            "en": "Start your morning under the eaves of old chapels as rain drums on the cobblestones. At noon, the narrow streets of Milfontes provide shelter from sudden showers. In the afternoon, experience the dramatic Mira river mouth under heavy grey clouds. Spend the evening in a cozy tavern, listening to the rain washing the Atlantic coast."
+            "en": "Start your morning under the eaves of old chapels as rain drums on the cobblestones. At noon, the narrow streets of Milfontes provide shelter from sudden showers. In the afternoon, experience the dramatic Mira river mouth under heavy grey clouds. Spend the evening in a cozy tavern, listening to the rain washing the Atlantic coast.",
+            "pt": "Comece a manhã sob os beirais das velhas capelas enquanto a chuva tamborila nos calcários. Ao meio-dia, as ruas estreitas de Milfontes oferecem abrigo contra aguaceiros súbitos. À tarde, viva a dramática foz do Mira sob pesadas nuvens cinzentas. Passe a noite numa taberna acolhedora, ouvindo a chuva lavar a costa atlântica."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Ermida de São Sebastião",
                 "hu": "Ermida de São Sebastião",
                 "ro": "Ermida de São Sebastião",
-                "en": "Ermida de São Sebastião"
+                "en": "Ermida de São Sebastião",
+                "pt": "Ermida de São Sebastião"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz unter der Vorhalle und bewundern Sie die weiße Fassade; tragen Sie rutschfeste Schuhe, da die Fliesen bei Nässe sehr glatt werden können.",
                 "hu": "Keressen menedéket a tornác alatt, és csodálja meg a fehér homlokzatot; viseljen csúszásmentes cipőt, mert a csempék nedvesen nagyon síkosak lehetnek.",
                 "ro": "Căutați adăpost sub pridvor și admirați fațada albă; purtați încălțăminte antiderapantă, deoarece plăcile pot deveni foarte alunecoase când sunt ude.",
-                "en": "Seek shelter under the porch and admire the white facade; wear non-slip shoes as the tiles can become very slippery when wet during an Alentejo downpour."
+                "en": "Seek shelter under the porch and admire the white facade; wear non-slip shoes as the tiles can become very slippery when wet during an Alentejo downpour.",
+                "pt": "Procure abrigo sob o alpendre e admire a fachada branca; use sapatos antiderrapantes, pois os azulejos podem ficar muito escorregadios quando molhados durante um aguaceiro alentejano."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Igreja de Nossa Senhora da Graça",
                 "hu": "Igreja de Nossa Senhora da Graça",
                 "ro": "Igreja de Nossa Senhora da Graça",
-                "en": "Igreja de Nossa Senhora da Graça"
+                "en": "Igreja de Nossa Senhora da Graça",
+                "pt": "Igreja de Nossa Senhora da Graça"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um das historische Altarbild trocken zu bewundern; die Kirche ist der ideale Ort, um eine kurze Regenpause in aller Stille einzulegen.",
                 "hu": "Lépjen be, hogy szárazon megcsodálja a történelmi oltárképet; a templom ideális hely, hogy csendben kivárja a hirtelen érkező tengerparti eső végét.",
                 "ro": "Intrați pentru a admira altarul istoric la adăpost de ploaie; biserica este locul ideal pentru a face o scurtă pauză de liniște în timpul unei averse.",
-                "en": "Step inside to admire the historic altarpiece while staying dry; the church is an ideal spot to quietly wait out a sudden coastal rain shower in peace."
+                "en": "Step inside to admire the historic altarpiece while staying dry; the church is an ideal spot to quietly wait out a sudden coastal rain shower in peace.",
+                "pt": "Entre para admirar o retábulo histórico enquanto se mantém seco; a igreja é um local ideal para esperar calmamente uma chuvada costeira súbita."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Forte de São Clemente",
                 "hu": "Forte de São Clemente",
                 "ro": "Forte de São Clemente",
-                "en": "Forte de São Clemente"
+                "en": "Forte de São Clemente",
+                "pt": "Forte de São Clemente"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die massiven Mauern als Windschutz beim Fotografieren der Küste; die dunklen Steine wirken bei Regen besonders imposant und geschichtsträchtig.",
                 "hu": "Használja a masszív falakat szélvédelemként a part fotózásakor; a sötét kövek különösen impozáns és történelmi hangulatot árasztanak az esős időben.",
                 "ro": "Folosiți zidurile masive ca scut împotriva vântului când fotografiați coasta; pietrele întunecate par deosebit de impunătoare și pline de istorie pe ploaie.",
-                "en": "Use the massive walls as a windbreak while photographing the coast; the dark stones look particularly imposing and historic under the rainy Atlantic sky."
+                "en": "Use the massive walls as a windbreak while photographing the coast; the dark stones look particularly imposing and historic under the rainy Atlantic sky.",
+                "pt": "Use as paredes maciças como quebra-vento enquanto fotografa a costa; as pedras escuras parecem particularmente imponentes e históricas sob o céu chuvoso do Atlântico."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Praia da Franquia",
                 "hu": "Praia da Franquia",
                 "ro": "Praia da Franquia",
-                "en": "Praia da Franquia"
+                "en": "Praia da Franquia",
+                "pt": "Praia da Franquia"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Regenmosaik auf dem ruhigen Mira von einer nahen Bar aus; der Fluss wirkt bei grauem Wetter melancholisch und tief entspannend.",
                 "hu": "Figyelje az esőcseppek mozaikját a nyugodt Mira folyón egy közeli bárból; a folyó szürke időben melankolikus és mélyen pihentető látványt nyújt.",
                 "ro": "Priviți mozaicul ploii pe râul Mira de la un bar din apropiere; râul are un aspect melancolic și profund relaxant atunci când cerul este gri și ud.",
-                "en": "Watch the rain mosaic on the calm Mira river from a nearby bar; the river looks melancholic and deeply relaxing when the weather is grey and wet."
+                "en": "Watch the rain mosaic on the calm Mira river from a nearby bar; the river looks melancholic and deeply relaxing when the weather is grey and wet.",
+                "pt": "Observe o mosaico da chuva no calmo rio Mira a partir de um bar próximo; o rio parece melancólico e profundamente relaxante quando o tempo está cinzento e chuvoso."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Praia do Farol",
                 "hu": "Praia do Farol",
                 "ro": "Praia do Farol",
-                "en": "Praia do Farol"
+                "en": "Praia do Farol",
+                "pt": "Praia do Farol"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die raue Kraft des Meeres am Leuchtturm; halten Sie Ihre Regenjacke fest geschlossen, da der Wind hier Gischt und Regen vermischt.",
                 "hu": "Tapasztalja meg a tenger nyers erejét a világítótoronynál; tartsa szorosan zárva esőkabátját, mert a szél itt összekeveri a tengerpermetet az esővel.",
                 "ro": "Experimentați forța brută a mării lângă far; țineți jacheta de ploaie bine închisă, deoarece vântul amestecă aici stropii de mare cu ploaia rece.",
-                "en": "Experience the raw power of the sea by the lighthouse; keep your raincoat tightly closed as the wind mixes sea spray with the falling rain here."
+                "en": "Experience the raw power of the sea by the lighthouse; keep your raincoat tightly closed as the wind mixes sea spray with the falling rain here.",
+                "pt": "Sinta a força bruta do mar junto ao farol; mantenha o impermeável bem fechado pois o vento mistura a maresia com a chuva que cai aqui."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Genießen Sie am Morgen die klare, kühle Meeresluft bei strahlendem Sonnenschein. Mittags finden Sie in den windgeschützten Ecken der Altstadt angenehme Wärme. Am Nachmittag taucht die tiefe Wintersonne die Klippen in ein sanftes Gold. Da es gegen 17:00 Uhr dunkelt, lädt die Stadt früh zu einem warmen Abendessen ein.",
             "hu": "Élvezze reggel a tiszta, hűvös tengeri levegőt a ragyogó napsütésben. Délben az óváros szélvédett sarkaiban kellemes meleget találhat. Délután az alacsonyan járó téli nap lágy aranyba öltözteti a sziklákat. Mivel 17:00 körül sötétedik, a város korán hívogat egy meleg vacsorára.",
             "ro": "Bucurați-vă dimineața de aerul curat și răcoros al mării sub soarele strălucitor. La prânz, găsiți căldură plăcută în colțurile ferite de vânt ale orașului vechi. După-amiaza, soarele jos de iarnă îmbracă stâncile într-un auriu delicat. Apusul de la ora 17:00 vă invită devreme la o cină caldă.",
-            "en": "Enjoy the crisp, cool sea air under bright sunshine in the morning. At noon, find pleasant warmth in the wind-sheltered corners of the old town. In the afternoon, the low winter sun bathes the cliffs in soft gold. As it gets dark around 17:00, the town invites you early for a warm dinner."
+            "en": "Enjoy the crisp, cool sea air under bright sunshine in the morning. At noon, find pleasant warmth in the wind-sheltered corners of the old town. In the afternoon, the low winter sun bathes the cliffs in soft gold. As it gets dark around 17:00, the town invites you early for a warm dinner.",
+            "pt": "Desfrute do ar marinho fresco e nítido sob o sol da manhã. Ao meio-dia, encontre um calor agradável nos cantos abrigados do vento na vila velha. À tarde, o baixo sol de inverno banha as falésias com um ouro suave. Ao escurecer, por volta das 17:00, a vila convida-o cedo para um jantar quente."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Ermida de São Sebastião",
                 "hu": "Ermida de São Sebastião",
                 "ro": "Ermida de São Sebastião",
-                "en": "Ermida de São Sebastião"
+                "en": "Ermida de São Sebastião",
+                "pt": "Ermida de São Sebastião"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kapelle am Vormittag für das beste Licht; die kühle Luft lässt die Farben der Fliesen vor der weißen Wand besonders hell strahlen.",
                 "hu": "Látogassa meg a kápolnát délelőtt a legjobb fényekért; a hűvös levegő miatt a csempék színei különösen ragyogóan hatnak a fehér falak előtt.",
                 "ro": "Vizitați capela dimineața pentru cea mai bună lumină; aerul rece face ca culorile plăcilor să strălucească intens în fața pereților albi curat.",
-                "en": "Visit the chapel in the morning for the best light; the cool air makes the tile colors appear especially vibrant against the crisp white walls."
+                "en": "Visit the chapel in the morning for the best light; the cool air makes the tile colors appear especially vibrant against the crisp white walls.",
+                "pt": "Visite a capela de manhã para obter a melhor luz; o ar fresco realça as cores dos azulejos contra as paredes brancas e nítidas."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Igreja de Nossa Senhora da Graça",
                 "hu": "Igreja de Nossa Senhora da Graça",
                 "ro": "Igreja de Nossa Senhora da Graça",
-                "en": "Igreja de Nossa Senhora da Graça"
+                "en": "Igreja de Nossa Senhora da Graça",
+                "pt": "Igreja de Nossa Senhora da Graça"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den ruhigen Innenraum für eine kurze Aufwärmpause; das goldene Winterlicht fällt durch die Fenster und schafft eine besinnliche Atmosphäre.",
                 "hu": "Használja a csendes belsőt egy rövid melegedő szünetre; az aranyszínű téli fény átszűrődik az ablakokon, meghitt és békés hangulatot teremtve.",
                 "ro": "Folosiți interiorul liniștit pentru o scurtă pauză de încălzire; lumina aurie de iarnă trece prin ferestre, creând o atmosferă meditativă.",
-                "en": "Use the quiet interior for a short warming break; the golden winter light filters through the windows, creating a contemplative and peaceful mood."
+                "en": "Use the quiet interior for a short warming break; the golden winter light filters through the windows, creating a contemplative and peaceful mood.",
+                "pt": "Use o interior tranquilo para uma breve pausa para aquecer; a luz dourada de inverno filtra-se pelas janelas, criando uma atmosfera contemplativa e pacífica."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Forte de São Clemente",
                 "hu": "Forte de São Clemente",
                 "ro": "Forte de São Clemente",
-                "en": "Forte de São Clemente"
+                "en": "Forte de São Clemente",
+                "pt": "Forte de São Clemente"
               },
               "tip_5lang": {
                 "de": "Tragen Sie eine winddichte Jacke, um die Aussicht ohne Kälte zu genießen; die tiefe Sonne wirft lange, dramatische Schatten auf die alten Festungsmauern.",
                 "hu": "Viseljen szélálló kabátot, hogy fázás nélkül élvezze a kilátást; az alacsony nap hosszú, drámai árnyékokat vet a régi várfalakra a folyónál.",
                 "ro": "Purtați o jachetă rezistentă la vânt pentru a admira priveliștea; soarele jos proiectează umbre lungi și dramatice pe zidurile vechii cetăți.",
-                "en": "Wear a windproof jacket to enjoy the view without the chill; the low sun casts long, dramatic shadows across the old fortress walls by the river."
+                "en": "Wear a windproof jacket to enjoy the view without the chill; the low sun casts long, dramatic shadows across the old fortress walls by the river.",
+                "pt": "Use um casaco corta-vento para apreciar a vista sem sentir o frio; o baixo sol projeta sombras longas e dramáticas nas velhas muralhas da fortaleza junto ao rio."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Praia da Franquia",
                 "hu": "Praia da Franquia",
                 "ro": "Praia da Franquia",
-                "en": "Praia da Franquia"
+                "en": "Praia da Franquia",
+                "pt": "Praia da Franquia"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen zügigen Spaziergang am leeren Strandufer; die Wintersonne spiegelt sich glitzernd auf dem ruhigen Wasser des Mira-Flusses wider.",
                 "hu": "Tegyen egy élénk sétát az üres tengerparton; a téli nap csillogva tükröződik vissza a Mira-folyó nyugodt vízfelszínén a délutáni órákban.",
                 "ro": "Faceți o plimbare rapidă pe malul pustiu al plajei; soarele de iarnă se reflectă scânteietor pe apa liniștită a râului Mira în cursul amiezii.",
-                "en": "Take a brisk walk along the empty beach shore; the winter sun reflects glitteringly on the calm water of the Mira river during the afternoon hours."
+                "en": "Take a brisk walk along the empty beach shore; the winter sun reflects glitteringly on the calm water of the Mira river during the afternoon hours.",
+                "pt": "Faça uma caminhada enérgica ao longo da praia deserta; o sol de inverno reflete cintilante na água calma do rio Mira durante as horas da tarde."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Praia do Farol",
                 "hu": "Praia do Farol",
                 "ro": "Praia do Farol",
-                "en": "Praia do Farol"
+                "en": "Praia do Farol",
+                "pt": "Praia do Farol"
               },
               "tip_5lang": {
                 "de": "Seien Sie rechtzeitig vor 17:00 Uhr hier für den Sonnenuntergang; der Winterhimmel färbt sich oft in intensiven Rosa- und Orangetönen über dem Meer.",
                 "hu": "Legyen itt időben 17:00 előtt a naplementére; a téli égbolt gyakran intenzív rózsaszín és narancs árnyalatokat ölt az óceán felett a sötétedés előtt.",
                 "ro": "Fiți aici la timp pentru apus, înainte de ora 17:00; cerul de iarnă capătă adesea nuanțe intense de roz și portocaliu deasupra oceanului.",
-                "en": "Be here in time for the sunset before 17:00; the winter sky often takes on intense pink and orange hues over the ocean just before darkness falls."
+                "en": "Be here in time for the sunset before 17:00; the winter sky often takes on intense pink and orange hues over the ocean just before darkness falls.",
+                "pt": "Esteja aqui a tempo do pôr-do-sol antes das 17:00; o céu de inverno muitas vezes assume tons intensos de rosa e laranja sobre o oceano pouco antes de anoitecer."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Ponte de Vila Nova de Milfontes",
             "hu": "Ponte de Vila Nova de Milfontes",
             "ro": "Ponte de Vila Nova de Milfontes",
-            "en": "Ponte de Vila Nova de Milfontes"
+            "en": "Ponte de Vila Nova de Milfontes",
+            "pt": "Ponte de Vila Nova de Milfontes"
           },
           "coords": [
             -8.769956,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihre Radtour auf dieser markanten Brücke und halten Sie sicher auf der Fußgängerseite an, um weitreichende Panoramen des Flusstals einzufangen.",
             "hu": "Kezdje kerékpártúráját ezen a hídon, és álljon meg biztonságosan a gyalogos oldalon, hogy lenyűgöző panorámaképeket készítsen a csodálatos folyóvölgyről.",
             "ro": "Începeți traseul de ciclism traversând acest pod proeminent, oprindu-vă în siguranță pe partea pietonală pentru a surprinde panorame superbe ale văii râului.",
-            "en": "Start your cycling route by crossing this prominent bridge, pausing safely on the pedestrian side to capture sweeping panoramas of the magnificent river valley."
+            "en": "Start your cycling route by crossing this prominent bridge, pausing safely on the pedestrian side to capture sweeping panoramas of the magnificent river valley.",
+            "pt": "Inicie a sua rota de bicicleta atravessando esta ponte proeminente, fazendo uma pausa segura no lado pedonal para captar panoramas amplos do magnífico vale do rio."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Ermida de São Sebastião",
             "hu": "Ermida de São Sebastião",
             "ro": "Ermida de São Sebastião",
-            "en": "Ermida de São Sebastião"
+            "en": "Ermida de São Sebastião",
+            "pt": "Ermida de São Sebastião"
           },
           "coords": [
             -8.781353,
@@ -352,7 +388,8 @@
             "de": "Diese hübsche kleine weiße Kapelle bietet einen ersten Einblick in das religiöse Erbe, also nehmen Sie sich einen ruhigen Moment für die Architektur.",
             "hu": "Ez a gyönyörű kis fehér kápolna betekintést nyújt a helyi vallási örökségbe, ezért szánjon egy csendes percet a hagyományos alentejói építészetére.",
             "ro": "Această mică și frumoasă capelă albă oferă o primă privire asupra moștenirii religioase locale, așa că luați-vă un moment pentru a-i admira arhitectura.",
-            "en": "A beautiful little white chapel offering your first glimpse into local religious heritage, so take a quiet moment to admire its Alentejo architecture."
+            "en": "A beautiful little white chapel offering your first glimpse into local religious heritage, so take a quiet moment to admire its Alentejo architecture.",
+            "pt": "Uma bonita e pequena capela branca que oferece o primeiro vislumbre do património religioso local, por isso reserve um momento tranquilo para admirar a sua arquitetura alentejana."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Forte de São Clemente",
             "hu": "Forte de São Clemente",
             "ro": "Forte de São Clemente",
-            "en": "Forte de São Clemente"
+            "en": "Forte de São Clemente",
+            "pt": "Forte de São Clemente"
           },
           "coords": [
             -8.782958,
@@ -375,7 +413,8 @@
             "de": "Diese efeubewachsene Festung an der Flussmündung ist perfekt für atemberaubende Küstenfotos, auch wenn das Innere für die Öffentlichkeit meist geschlossen ist.",
             "hu": "A Mira folyó torkolatát őrző, borostyánnal befuttatott erőd tökéletes helyszín lenyűgöző tengerparti fotók készítéséhez, bár a belseje általában zárva tart.",
             "ro": "Această fortăreață impunătoare, acoperită de iederă, este perfectă pentru fotografii de coastă uimitoare, deși interiorul său este de obicei închis publicului.",
-            "en": "This imposing ivy-clad fortress guarding the Mira river mouth is perfect for stunning coastal photographs, though keep in mind the interior is usually closed."
+            "en": "This imposing ivy-clad fortress guarding the Mira river mouth is perfect for stunning coastal photographs, though keep in mind the interior is usually closed.",
+            "pt": "Esta imponente fortaleza coberta de hera que guarda a foz do rio Mira é perfeita para fotografias costeiras impressionantes, embora deva ter em conta que o interior costuma estar encerrado."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Praia da Bica da Areia",
             "hu": "Praia da Bica da Areia",
             "ro": "Praia da Bica da Areia",
-            "en": "Praia da Bica da Areia"
+            "en": "Praia da Bica da Areia",
+            "pt": "Praia da Bica da Areia"
           },
           "coords": [
             -8.793,
@@ -398,7 +438,8 @@
             "de": "Radeln Sie zu diesem weniger bekannten Sandstrand mit markanten Felsformationen, der ein fantastischer Ort ist, um die Beine auszuruhen und Meeresluft zu atmen.",
             "hu": "Kerékpározzon el ehhez a sziklaalakzatokkal övezett, kevésbé ismert homokos partszakaszhoz, amely fantasztikus helyszín a lábak pihentetésére és a friss levegőre.",
             "ro": "Pedați spre această întindere de nisip mai puțin cunoscută, încadrată de stânci impresionante, fiind un loc fantastic pentru a vă odihni și a respira aer sărat.",
-            "en": "Cycle towards this lesser-known sandy stretch framed by striking rock formations, making it a fantastic spot to simply rest your legs and breathe the ocean air."
+            "en": "Cycle towards this lesser-known sandy stretch framed by striking rock formations, making it a fantastic spot to simply rest your legs and breathe the ocean air.",
+            "pt": "Pedale em direção a este troço arenoso menos conhecido emoldurado por formações rochosas marcantes, tornando-o um local fantástico para descansar as pernas e respirar ar do mar."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Praia Carreiro da Fazenda",
             "hu": "Praia Carreiro da Fazenda",
             "ro": "Praia Carreiro da Fazenda",
-            "en": "Praia Carreiro da Fazenda"
+            "en": "Praia Carreiro da Fazenda",
+            "pt": "Praia Carreiro da Fazenda"
           },
           "coords": [
             -8.792042,
@@ -421,7 +463,8 @@
             "de": "Die raue Naturschönheit dieses wilden Küstenabschnitts ist beeindruckend, also parken Sie Ihr Rad sicher und erkunden Sie vorsichtig die steilen Klippen.",
             "hu": "Ennek a vad partvidéknek a zord természeti szépsége igazán lenyűgöző, ezért parkolja le biztonságosan a kerékpárját, és óvatosan fedezze fel a drámai sziklákat.",
             "ro": "Frumusețea naturală aspră a acestei secțiuni de coastă este cu adevărat impresionantă, așa că parcați bicicleta în siguranță și explorați cu atenție stâncile.",
-            "en": "The rugged natural beauty of this untamed coastal section is truly impressive, so park your bike securely and carefully explore the surrounding dramatic cliffs."
+            "en": "The rugged natural beauty of this untamed coastal section is truly impressive, so park your bike securely and carefully explore the surrounding dramatic cliffs.",
+            "pt": "A beleza natural rude desta secção costeira intocada é verdadeiramente impressionante; estacione a bicicleta com segurança e explore cuidadosamente as dramáticas falésias envolventes."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Praia do Porto das Barcas",
             "hu": "Praia do Porto das Barcas",
             "ro": "Praia do Porto das Barcas",
-            "en": "Praia do Porto das Barcas"
+            "en": "Praia do Porto das Barcas",
+            "pt": "Praia do Porto das Barcas"
           },
           "coords": [
             -8.796502,
@@ -444,7 +488,8 @@
             "de": "Beenden Sie Ihr Abenteuer an diesem malerischen Fischerhafen, wo Sie die lokalen Boote beobachten und vielleicht unglaublich frische Meeresfrüchte probieren können.",
             "hu": "Fejezze be kalandját ennél a festői halászkikötőnél, ahol megfigyelheti a vízen ringatózó helyi csónakokat, és megkóstolhatja a hihetetlenül friss tengeri ételeket.",
             "ro": "Încheiați aventura la acest port de pescuit pitoresc, unde puteți urmări bărcile locale legănându-se pe apă și probabil savura fructe de mare proaspete.",
-            "en": "End your adventure at this picturesque fishing harbor, where you can watch local boats bobbing in the water and perhaps enjoy some incredibly fresh seafood nearby."
+            "en": "End your adventure at this picturesque fishing harbor, where you can watch local boats bobbing in the water and perhaps enjoy some incredibly fresh seafood nearby.",
+            "pt": "Termine a sua aventura neste pitoresco porto de pesca, onde pode ver os barcos locais a boiar na água e talvez saborear marisco extremamente fresco nas imediações."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Morning: Überqueren Sie die Brücke für tolle Talblicke vor dem Besuch lokaler Kapellen.\n\nMidday: Radeln Sie auf malerischen Uferstraßen zur historischen Küstenfestung.\n\nAfternoon: Fahren Sie an wilden Küstenabschnitten entlang, um Klippen zu bewundern.\n\nEvening: Beenden Sie die Tour am rustikalen Fischerhafen mit maritimer Atmosphäre.",
         "hu": "Morning: Keljen át a hídon a völgyre nyíló kilátásért, majd látogassa meg a kápolnákat.\n\nMidday: Tekerjen a festői parti utakon a történelmi tengerparti erődhöz.\n\nAfternoon: Kerékpározzon a vad partok mentén, megcsodálva a drámai sziklákat.\n\nEvening: Fejezze be a túrát a rusztikus halászkikötőben, élvezve a tengeri hangulatot.",
         "ro": "Morning: Traversați podul pentru vederi ale văii înainte de a vizita capelele locale.\n\nMidday: Pedați spre fortul de coastă istoric pe drumuri pitorești pe malul râului.\n\nAfternoon: Mergeți pe coasta sălbatică pentru a admira stâncile dramatice și valurile.\n\nEvening: Terminați la portul de pescuit rustic, cu o atmosferă maritimă autentică.",
-        "en": "Morning: Cross the main bridge for elevated valley views before visiting local chapels.\n\nMidday: Pedal to the historic coastal fort via scenic riverfront roads.\n\nAfternoon: Ride along wilder coastal stretches to admire dramatic cliffs and waves.\n\nEvening: Finish at the rustic fishing port, enjoying an authentic maritime atmosphere."
+        "en": "Morning: Cross the main bridge for elevated valley views before visiting local chapels.\n\nMidday: Pedal to the historic coastal fort via scenic riverfront roads.\n\nAfternoon: Ride along wilder coastal stretches to admire dramatic cliffs and waves.\n\nEvening: Finish at the rustic fishing port, enjoying an authentic maritime atmosphere.",
+        "pt": "Manhã: Atravesse a ponte principal para vistas elevadas sobre o vale antes de visitar as capelas locais.\n\nMeio-dia: Pedale até ao forte costeiro histórico por estradas cénicas junto ao rio.\n\nTarde: Siga por troços costeiros mais selvagens para admirar falésias e ondas dramáticas.\n\nNoite: Termine no rústico porto de pesca, desfrutando de uma autêntica atmosfera marítima."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Radeln Sie am Morgen vorsichtig über die nasse Brücke in die Stadt. Mittags bringt der Regen frische, salzige Luft, während Sie unter Vordächern rasten. Am Nachmittag fordern die Pfützen auf den Küstenwegen Ihre Geschicklichkeit heraus. Den Abend verbringen Sie am besten beim Trocknen Ihrer Ausrüstung in einer warmen Unterkunft.",
             "hu": "Reggel tekerjen óvatosan a nedves hídon át a városba. Délben az eső friss, sós levegőt hoz, miközben az ereszek alatt pihenhet. Délután a parti utakon lévő tócsák próbára teszik ügyességét a sárban. Az estét töltse felszerelése szárításával egy meleg szálláshelyen.",
             "ro": "Dimineața, pedalați cu atenție peste podul umed spre oraș. La prânz, ploaia aduce un aer proaspăt și sărat în timp ce vă odihniți sub streșini. După-amiaza, bălțile de pe potecile de coastă vă vor pune la încercare abilitățile. Seara, relaxați-vă uscându-vă echipamentul la căldură.",
-            "en": "Cycle carefully across the wet bridge into town in the morning. At noon, the rain brings fresh, salty air while you rest under building overhangs. In the afternoon, puddles on the coastal paths challenge your biking skills. Spend the evening drying your gear in a warm accommodation."
+            "en": "Cycle carefully across the wet bridge into town in the morning. At noon, the rain brings fresh, salty air while you rest under building overhangs. In the afternoon, puddles on the coastal paths challenge your biking skills. Spend the evening drying your gear in a warm accommodation.",
+            "pt": "Circule com cuidado pela ponte molhada rumo à vila pela manhã. Ao meio-dia, a chuva traz ar fresco e salgado enquanto descansa sob os beirais dos edifícios. À tarde, as poças nos caminhos costeiros desafiam as suas habilidades de ciclismo. Passe a noite a secar o equipamento numa acomodação quente."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Ponte de Vila Nova de Milfontes",
                 "hu": "Ponte de Vila Nova de Milfontes",
                 "ro": "Ponte de Vila Nova de Milfontes",
-                "en": "Ponte de Vila Nova de Milfontes"
+                "en": "Ponte de Vila Nova de Milfontes",
+                "pt": "Ponte de Vila Nova de Milfontes"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf den rutschigen Asphalt der Brücke; halten Sie den Lenker fest und genießen Sie den Blick auf den vernebelten Fluss Mira.",
                 "hu": "Ügyeljen a híd csúszós aszfaltjára; fogja erősen a kormányt, és élvezze a ködbe burkolózó Mira folyóra nyíló kilátást az esőben.",
                 "ro": "Atenție la asfaltul alunecos de pe pod; țineți bine ghidonul și bucurați-vă de vederea râului Mira învăluit în ceață pe ploaie.",
-                "en": "Watch out for the slippery asphalt on the bridge; keep a firm grip on the handlebars and enjoy the view of the misty Mira river in the rain."
+                "en": "Watch out for the slippery asphalt on the bridge; keep a firm grip on the handlebars and enjoy the view of the misty Mira river in the rain.",
+                "pt": "Cuidado com o alcatrão escorregadio na ponte; mantenha uma pega firme no guiador e desfrute da vista do rio Mira enevoado na chuva."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Ermida de São Sebastião",
                 "hu": "Ermida de São Sebastião",
                 "ro": "Ermida de São Sebastião",
-                "en": "Ermida de São Sebastião"
+                "en": "Ermida de São Sebastião",
+                "pt": "Ermida de São Sebastião"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Kapellendach für eine kurze Pause zum Brillenputzen; die Gärten wirken bei Regen besonders grün und die Blumen duften intensiv.",
                 "hu": "Használja a kápolna tetejét egy rövid pihenőre, hogy megtörölje szemüvegét; a kertek esőben különösen zöldek, a virágok illata pedig intenzívebb.",
                 "ro": "Folosiți acoperișul capelei pentru o scurtă pauză ca să vă ștergeți ochelarii; grădinile sunt foarte verzi, iar florile miros intens pe ploaie.",
-                "en": "Use the chapel roof for a short break to wipe your glasses; the gardens look especially green in the rain, and the flowers smell more intense."
+                "en": "Use the chapel roof for a short break to wipe your glasses; the gardens look especially green in the rain, and the flowers smell more intense.",
+                "pt": "Use o telhado da capela para uma pequena pausa e limpar os óculos; os jardins parecem especialmente verdes na chuva e as flores têm um cheiro mais intenso."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Forte de São Clemente",
                 "hu": "Forte de São Clemente",
                 "ro": "Forte de São Clemente",
-                "en": "Forte de São Clemente"
+                "en": "Forte de São Clemente",
+                "pt": "Forte de São Clemente"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an der Mauer und suchen Sie kurz Windschutz; der Klang des Regens auf dem Wasser ist hier am Zusammenfluss sehr beeindruckend.",
                 "hu": "Parkolja le a bringát a falnál, és keressen egy kis szélvédelmet; az eső hangja a vízen itt a folyótorkolatnál rendkívül lenyűgöző élmény.",
                 "ro": "Parcați bicicleta la zid și căutați puțin adăpost contra vântului; sunetul ploii pe apă aici, la gura de vărsare, este o experiență impresionantă.",
-                "en": "Park your bike by the wall and seek some wind shelter; the sound of the rain on the water here at the river mouth is a truly impressive experience."
+                "en": "Park your bike by the wall and seek some wind shelter; the sound of the rain on the water here at the river mouth is a truly impressive experience.",
+                "pt": "Estacione a bicicleta junto à muralha e procure abrigo do vento; o som da chuva na água aqui, na foz do rio, é uma experiência verdadeiramente impressionante."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Praia da Bica da Areia",
                 "hu": "Praia da Bica da Areia",
                 "ro": "Praia da Bica da Areia",
-                "en": "Praia da Bica da Areia"
+                "en": "Praia da Bica da Areia",
+                "pt": "Praia da Bica da Areia"
               },
               "tip_5lang": {
                 "de": "Die Wege zum Strand können schlammig sein; prüfen Sie Ihre Bremsen vor der Abfahrt und genießen Sie die wilde Gischt des grauen Atlantiks.",
                 "hu": "A strandra vezető utak sárosak lehetnek; ellenőrizze a fékeit az indulás előtt, és élvezze a szürke Atlanti-óceán vadul tajtékzó hullámait.",
                 "ro": "Drumurile spre plajă pot fi noroioase; verificați frânele înainte de plecare și bucurați-vă de spuma sălbatică a Atlanticului sub cerul gri.",
-                "en": "The paths to the beach can be muddy; check your brakes before heading out and enjoy the wild white foam of the grey Atlantic under the rain clouds."
+                "en": "The paths to the beach can be muddy; check your brakes before heading out and enjoy the wild white foam of the grey Atlantic under the rain clouds.",
+                "pt": "Os trilhos para a praia podem ficar lamacentos; verifique os travões antes de partir e aproveite a espuma branca e selvagem do Atlântico acinzentado sob as nuvens de chuva."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Praia Carreiro da Fazenda",
                 "hu": "Praia Carreiro da Fazenda",
                 "ro": "Praia Carreiro da Fazenda",
-                "en": "Praia Carreiro da Fazenda"
+                "en": "Praia Carreiro da Fazenda",
+                "pt": "Praia Carreiro da Fazenda"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie die schlüpfrigen Kanten des Klippenpfades; tragen Sie eine helle Regenjacke, um für andere Fahrzeuge bei schlechter Sicht besser sichtbar zu sein.",
                 "hu": "Kerülje a szikla menti ösvény csúszós széleit; viseljen élénk színű esőkabátot, hogy rossz látási viszonyok között is jól látható legyen másoknak.",
                 "ro": "Evitați marginile alunecoase ale potecii de pe stânci; purtați o pelerină în culori vii pentru a fi vizibil în condiții de vizibilitate scăzută.",
-                "en": "Avoid the slippery edges of the cliff path; wear a bright-colored raincoat to ensure you are clearly visible to others in poor visibility conditions."
+                "en": "Avoid the slippery edges of the cliff path; wear a bright-colored raincoat to ensure you are clearly visible to others in poor visibility conditions.",
+                "pt": "Evite as arestas escorregadias do caminho junto à falésia; use um impermeável de cor viva para garantir que é claramente visível para os outros em condições de baixa visibilidade."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Praia do Porto das Barcas",
                 "hu": "Praia do Porto das Barcas",
                 "ro": "Praia do Porto das Barcas",
-                "en": "Praia do Porto das Barcas"
+                "en": "Praia do Porto das Barcas",
+                "pt": "Praia do Porto das Barcas"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz in einer der Fischerhütten am Hafen; beobachten Sie, wie die bunten Boote im Regen tanzen, bevor Sie den Rückweg antreten.",
                 "hu": "Keressen menedéket a kikötő egyik halászkunyhójában; nézze meg, hogyan táncolnak a színes csónakok az esőben, mielőtt elindulna visszafelé.",
                 "ro": "Căutați adăpost într-o colibă de pescari din port; priviți cum bărcile colorate dansează în ploaie înainte de a porni pe drumul de întoarcere.",
-                "en": "Seek shelter in one of the fisherman huts at the harbor; watch how the colorful boats dance in the rain before you start your ride back to town."
+                "en": "Seek shelter in one of the fisherman huts at the harbor; watch how the colorful boats dance in the rain before you start your ride back to town.",
+                "pt": "Procure abrigo numa das casotas de pescadores no porto; observe como os coloridos barcos dançam na chuva antes de iniciar o regresso à vila."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Starten Sie Ihre Radtour am Morgen mit Schal und Handschuhen gegen die Kälte. Mittags wärmt die Sonne Ihren Rücken, während Sie den Flusslauf erkunden. Am Nachmittag sollten Sie rechtzeitig zurückfahren, da die Kühle mit dem schwindenden Licht zunimmt. Nach 17:00 Uhr leuchten die Straßen von Milfontes einladend in der Dämmerung.",
             "hu": "Indítsa reggeli bringatúráját sállal és kesztyűvel a hideg ellen. Délben a nap melengeti a hátát, miközben a folyópartot fedezi fel. Délután érdemes időben visszaindulni, mert a hűvös a fényekkel együtt erősödik. 17:00 után Milfontes utcái hívogatóan világítanak a szürkületben.",
             "ro": "Începeți tura cu bicicleta dimineața cu fular și mănuși împotriva frigului. La prânz, soarele vă va încălzi spatele în timp ce explorați malul râului. După-amiaza, e bine să vă întoarceți devreme, deoarece frigul crește odată cu lăsarea serii. După 17:00, străzile strălucesc îmbietor.",
-            "en": "Start your morning bike ride with a scarf and gloves against the cold. At noon, the sun warms your back while you explore the riverbank. In the afternoon, it's wise to head back early as the chill increases with the fading light. After 17:00, the streets of Milfontes glow invitingly in the twilight."
+            "en": "Start your morning bike ride with a scarf and gloves against the cold. At noon, the sun warms your back while you explore the riverbank. In the afternoon, it's wise to head back early as the chill increases with the fading light. After 17:00, the streets of Milfontes glow invitingly in the twilight.",
+            "pt": "Comece a sua manhã de bicicleta com um cachecol e luvas contra o frio. Ao meio-dia, o sol aquece-lhe as costas enquanto explora a margem do rio. À tarde, é sensato regressar cedo pois o frio aumenta com a luz a diminuir. Depois das 17:00, as ruas de Milfontes brilham convidativas no crepúsculo."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Ponte de Vila Nova de Milfontes",
                 "hu": "Ponte de Vila Nova de Milfontes",
                 "ro": "Ponte de Vila Nova de Milfontes",
-                "en": "Ponte de Vila Nova de Milfontes"
+                "en": "Ponte de Vila Nova de Milfontes",
+                "pt": "Ponte de Vila Nova de Milfontes"
               },
               "tip_5lang": {
                 "de": "Tragen Sie auf der Brücke einen Windschutz; die winterliche Fernsicht über den Mira ist heute besonders klar und reicht weit ins Landesinnere.",
                 "hu": "Viseljen szélvédő ruhát a hídon; a téli kilátás a Mira felett ma különösen tiszta, és messzire ellátni a szárazföld belseje felé is.",
                 "ro": "Purtați haine rezistente la vânt pe pod; vizibilitatea de iarnă peste râul Mira este astăzi deosebit de clară, ajungând departe spre interior.",
-                "en": "Wear windproof clothing on the bridge; the winter view over the Mira river is exceptionally clear today, reaching far into the inland territory."
+                "en": "Wear windproof clothing on the bridge; the winter view over the Mira river is exceptionally clear today, reaching far into the inland territory.",
+                "pt": "Use roupa corta-vento na ponte; a vista de inverno sobre o rio Mira está excepcionalmente clara hoje, estendendo-se profundamente para o interior."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Ermida de São Sebastião",
                 "hu": "Ermida de São Sebastião",
                 "ro": "Ermida de São Sebastião",
-                "en": "Ermida de São Sebastião"
+                "en": "Ermida de São Sebastião",
+                "pt": "Ermida de São Sebastião"
               },
               "tip_5lang": {
                 "de": "Halten Sie in der Sonne an, um Ihre Hände aufzuwärmen; die weißen Wände der Kapelle reflektieren die Wärme und bieten einen idealen Pausenplatz.",
                 "hu": "Álljon meg a napon, hogy felmelegítse a kezeit; a kápolna fehér falai visszaverik a hőt, ideális pihenőhelyet kínálva a téli tekerés közben.",
                 "ro": "Opriți-vă la soare pentru a vă încălzi mâinile; pereții albi ai capelei reflectă căldura, oferind un loc de pauză ideal în timpul turei.",
-                "en": "Stop in the sun to warm up your hands; the white walls of the chapel reflect the heat, offering an ideal resting spot during your winter ride."
+                "en": "Stop in the sun to warm up your hands; the white walls of the chapel reflect the heat, offering an ideal resting spot during your winter ride.",
+                "pt": "Pare ao sol para aquecer as mãos; as paredes brancas da capela refletem o calor, oferecendo um local de descanso ideal durante o seu passeio de inverno."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Forte de São Clemente",
                 "hu": "Forte de São Clemente",
                 "ro": "Forte de São Clemente",
-                "en": "Forte de São Clemente"
+                "en": "Forte de São Clemente",
+                "pt": "Forte de São Clemente"
               },
               "tip_5lang": {
                 "de": "Die klaren Kontraste der Festung sind perfekt für Winterfotos; nutzen Sie das helle Mittagslicht, bevor die Schatten am Nachmittag länger werden.",
                 "hu": "Az erőd tiszta kontrasztjai tökéletesek a téli fotókhoz; használja ki a ragyogó déli fényt, mielőtt a délutáni árnyékok hosszúra nyúlnának.",
                 "ro": "Contrastele clare ale cetății sunt perfecte pentru fotografiile de iarnă; profitați de lumina strălucitoare de la prânz înainte ca umbrele să se lungească.",
-                "en": "The sharp contrasts of the fortress are perfect for winter photos; take advantage of the bright midday light before afternoon shadows grow long."
+                "en": "The sharp contrasts of the fortress are perfect for winter photos; take advantage of the bright midday light before afternoon shadows grow long.",
+                "pt": "Os contrastes acentuados da fortaleza são perfeitos para fotos de inverno; aproveite a luz forte do meio-dia antes que as sombras da tarde se alonguem."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Praia da Bica da Areia",
                 "hu": "Praia da Bica da Areia",
                 "ro": "Praia da Bica da Areia",
-                "en": "Praia da Bica da Areia"
+                "en": "Praia da Bica da Areia",
+                "pt": "Praia da Bica da Areia"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Stille des winterlichen Atlantiks; der kühle Wind sorgt für hohe Wellen, die heute besonders beeindruckend gegen die Klippen schlagen.",
                 "hu": "Élvezze a téli Atlanti-óceán csendjét; a hűvös szél magas hullámokat kelt, amelyek ma különösen lenyűgözően csapkodják a sziklákat a parton.",
                 "ro": "Bucurați-vă de liniștea Atlanticului în timpul iernii; vântul rece creează valuri mari care se sparg impresionant de stânci în această perioadă.",
-                "en": "Enjoy the silence of the winter Atlantic; the cool wind creates high waves that crash impressively against the cliffs along the shore today."
+                "en": "Enjoy the silence of the winter Atlantic; the cool wind creates high waves that crash impressively against the cliffs along the shore today.",
+                "pt": "Desfrute do silêncio do Atlântico de inverno; o vento frio cria ondas altas que rebentam com força contra as falésias ao longo da costa hoje."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Praia Carreiro da Fazenda",
                 "hu": "Praia Carreiro da Fazenda",
                 "ro": "Praia Carreiro da Fazenda",
-                "en": "Praia Carreiro da Fazenda"
+                "en": "Praia Carreiro da Fazenda",
+                "pt": "Praia Carreiro da Fazenda"
               },
               "tip_5lang": {
                 "de": "Radeln Sie zügig, um den Körper warm zu halten; der Panoramablick auf die winterliche Küste ist die Anstrengung bei der kühlen Brise absolut wert.",
                 "hu": "Tekerjen élénken, hogy melegen tartsa testét; a téli partvidék panorámája teljesen megéri a fáradozást a hűvös, sós szélben való haladáskor.",
                 "ro": "Pedalați vioi pentru a vă menține corpul cald; panorama coastei pe timp de iarnă merită efortul depus în briza rece și sărată a oceanului.",
-                "en": "Cycle briskly to keep your body warm; the panoramic view of the winter coast is absolutely worth the effort in the cool, salty breeze today."
+                "en": "Cycle briskly to keep your body warm; the panoramic view of the winter coast is absolutely worth the effort in the cool, salty breeze today.",
+                "pt": "Pedale com energia para manter o corpo quente; a vista panorâmica da costa de inverno vale absolutamente o esforço na brisa fria e salgada hoje."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Praia do Porto das Barcas",
                 "hu": "Praia do Porto das Barcas",
                 "ro": "Praia do Porto das Barcas",
-                "en": "Praia do Porto das Barcas"
+                "en": "Praia do Porto das Barcas",
+                "pt": "Praia do Porto das Barcas"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor 16:30 Uhr an, um das letzte warme Licht zu nutzen; die Fischerboote wirken in der tiefstehenden Sonne besonders malerisch und bunt.",
                 "hu": "Érkezzen 16:30 előtt, hogy kihasználja az utolsó meleg fényeket; a halászcsónakok különösen festőiek és színesek az alacsonyan járó téli napon.",
                 "ro": "Ajungeți înainte de 16:30 pentru a profita de ultimele lumini calde; bărcile de pescuit sunt deosebit de pitorești sub soarele jos de iarnă.",
-                "en": "Arrive before 16:30 to take advantage of the last warm light; the fishing boats look especially picturesque and colorful in the low winter sun."
+                "en": "Arrive before 16:30 to take advantage of the last warm light; the fishing boats look especially picturesque and colorful in the low winter sun.",
+                "pt": "Chegue antes das 16:30 para aproveitar a última luz quente; os barcos de pesca ficam especialmente pitorescos e coloridos sob o baixo sol de inverno."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Ponte de Vila Nova de Milfontes",
             "hu": "Ponte de Vila Nova de Milfontes",
             "ro": "Ponte de Vila Nova de Milfontes",
-            "en": "Ponte de Vila Nova de Milfontes"
+            "en": "Ponte de Vila Nova de Milfontes",
+            "pt": "Ponte de Vila Nova de Milfontes"
           },
           "coords": [
             -8.769956,
@@ -673,7 +746,8 @@
             "de": "Beginnen Sie Ihre Radtour auf dieser markanten Brücke und halten Sie sicher auf der Fußgängerseite an, um weitreichende Panoramen des Flusstals einzufangen.",
             "hu": "Kezdje kerékpártúráját ezen a hídon, és álljon meg biztonságosan a gyalogos oldalon, hogy lenyűgöző panorámaképeket készítsen a csodálatos folyóvölgyről.",
             "ro": "Începeți traseul de ciclism traversând acest pod proeminent, oprindu-vă în siguranță pe partea pietonală pentru a surprinde panorame superbe ale văii râului.",
-            "en": "Start your cycling route by crossing this prominent bridge, pausing safely on the pedestrian side to capture sweeping panoramas of the magnificent river valley."
+            "en": "Start your cycling route by crossing this prominent bridge, pausing safely on the pedestrian side to capture sweeping panoramas of the magnificent river valley.",
+            "pt": "Inicie a sua rota de bicicleta atravessando esta ponte proeminente, fazendo uma pausa segura no lado pedonal para captar panoramas amplos do magnífico vale do rio."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Forte de São Clemente",
             "hu": "Forte de São Clemente",
             "ro": "Forte de São Clemente",
-            "en": "Forte de São Clemente"
+            "en": "Forte de São Clemente",
+            "pt": "Forte de São Clemente"
           },
           "coords": [
             -8.782958,
@@ -696,7 +771,8 @@
             "de": "Diese efeubewachsene Festung an der Flussmündung ist perfekt für atemberaubende Küstenfotos, auch wenn das Innere für die Öffentlichkeit meist geschlossen ist.",
             "hu": "A Mira folyó torkolatát őrző, borostyánnal befuttatott erőd tökéletes helyszín lenyűgöző tengerparti fotók készítéséhez, bár a belseje általában zárva tart.",
             "ro": "Această fortăreață impunătoare, acoperită de iederă, este perfectă pentru fotografii de coastă uimitoare, deși interiorul său este de obicei închis publicului.",
-            "en": "This imposing ivy-clad fortress guarding the Mira river mouth is perfect for stunning coastal photographs, though keep in mind the interior is usually closed."
+            "en": "This imposing ivy-clad fortress guarding the Mira river mouth is perfect for stunning coastal photographs, though keep in mind the interior is usually closed.",
+            "pt": "Esta imponente fortaleza coberta de hera que guarda a foz do rio Mira é perfeita para fotografias costeiras impressionantes, embora deva ter em conta que o interior costuma estar encerrado."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Praia das Furnas",
             "hu": "Praia das Furnas",
             "ro": "Praia das Furnas",
-            "en": "Praia das Furnas"
+            "en": "Praia das Furnas",
+            "pt": "Praia das Furnas"
           },
           "coords": [
             -8.786068,
@@ -719,7 +796,8 @@
             "de": "Fahren Sie über den Fluss zu diesem weitläufigen Strand, wo die einzigartige Mischung aus Meereswellen und Flussströmung perfekt für Naturspaziergänge ist.",
             "hu": "Vezessen át a folyón ehhez a kiterjedt strandhoz, ahol az óceáni hullámok és a nyugodt folyóáramlatok egyedi keveréke tökéletes környezetet teremt a sétákhoz.",
             "ro": "Conduceți peste râu până la această plajă întinsă, unde mixul unic de valuri oceanice și curenți calmi de râu creează un mediu perfect pentru plimbări în natură.",
-            "en": "Drive across the river to reach this expansive beach, where the unique mix of ocean waves and calm river currents creates a perfect environment for nature walks."
+            "en": "Drive across the river to reach this expansive beach, where the unique mix of ocean waves and calm river currents creates a perfect environment for nature walks.",
+            "pt": "Atravesse o rio de carro para chegar a esta extensa praia, onde a mistura única de ondas oceânicas e correntes calmas do rio cria um ambiente perfeito para passeios pela natureza."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Non-official beach",
             "hu": "Non-official beach",
             "ro": "Non-official beach",
-            "en": "Non-official beach"
+            "en": "Non-official beach",
+            "pt": "Praia não oficial"
           },
           "coords": [
             -8.790136,
@@ -742,7 +821,8 @@
             "de": "Dieser abgelegene Sandabschnitt bietet einen ruhigen Rückzugsort fernab der Massen; bringen Sie jedoch Wasser mit, da es hier keinerlei Einrichtungen gibt.",
             "hu": "Ez az elhagyatott és jelöletlen homokos szakasz elzárt menedéket kínál a tömeg elől, ezért hozzon magával vizet, mivel itt egyáltalán nincsenek szolgáltatások.",
             "ro": "Această întindere de nisip retrasă oferă o evadare liniștită departe de mulțimi, așa că aduceți-vă propria apă și provizii, deoarece facilitățile sunt inexistente.",
-            "en": "This remote and unmarked stretch of sand offers a secluded escape from the crowds, so bring your own water and supplies as amenities are completely nonexistent."
+            "en": "This remote and unmarked stretch of sand offers a secluded escape from the crowds, so bring your own water and supplies as amenities are completely nonexistent.",
+            "pt": "Este troço remoto e sem marcações de areia oferece um refúgio isolado das multidões, por isso leve água e provisões pois as amenidades são completamente inexistentes."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Praia do Farol",
             "hu": "Praia do Farol",
             "ro": "Praia do Farol",
-            "en": "Praia do Farol"
+            "en": "Praia do Farol",
+            "pt": "Praia do Farol"
           },
           "coords": [
             -8.790377,
@@ -765,7 +846,8 @@
             "de": "Beenden Sie Ihren Spaziergang dort, wo der Fluss auf den Atlantik trifft, und bestaunen Sie die weite Aussicht sowie die ikonische Silhouette des Leuchtturms.",
             "hu": "Zárja sétáját ott, ahol a folyó találkozik az Atlanti-óceánnal, és gyönyörködjön a lenyűgöző kilátásban, valamint a világítótorony ikonikus sziluettjében.",
             "ro": "Încheiați plimbarea unde râul întâlnește Oceanul Atlantic, minunându-vă de priveliștile panoramice și de silueta emblematică a farului sub soarele după-amiezii.",
-            "en": "Conclude your walk where the river meets the Atlantic, marveling at the sweeping ocean views and the iconic lighthouse silhouette as the afternoon sun sets."
+            "en": "Conclude your walk where the river meets the Atlantic, marveling at the sweeping ocean views and the iconic lighthouse silhouette as the afternoon sun sets.",
+            "pt": "Conclua a sua caminhada onde o rio encontra o Atlântico, maravilhando-se com as vistas amplas do oceano e a silhueta icónica do farol enquanto o sol da tarde se põe."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Praia do Porto das Barcas",
             "hu": "Praia do Porto das Barcas",
             "ro": "Praia do Porto das Barcas",
-            "en": "Praia do Porto das Barcas"
+            "en": "Praia do Porto das Barcas",
+            "pt": "Praia do Porto das Barcas"
           },
           "coords": [
             -8.796502,
@@ -788,7 +871,8 @@
             "de": "Beenden Sie Ihr Abenteuer an diesem malerischen Fischerhafen, wo Sie die lokalen Boote beobachten und vielleicht unglaublich frische Meeresfrüchte probieren können.",
             "hu": "Fejezze be kalandját ennél a festői halászkikötőnél, ahol megfigyelheti a vízen ringatózó helyi csónakokat, és megkóstolhatja a hihetetlenül friss tengeri ételeket.",
             "ro": "Încheiați aventura la acest port de pescuit pitoresc, unde puteți urmări bărcile locale legănându-se pe apă și probabil savura fructe de mare proaspete.",
-            "en": "End your adventure at this picturesque fishing harbor, where you can watch local boats bobbing in the water and perhaps enjoy some incredibly fresh seafood nearby."
+            "en": "End your adventure at this picturesque fishing harbor, where you can watch local boats bobbing in the water and perhaps enjoy some incredibly fresh seafood nearby.",
+            "pt": "Termine a sua aventura neste pitoresco porto de pesca, onde pode ver os barcos locais a boiar na água e talvez saborear marisco extremamente fresco nas imediações."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Morning: Starten Sie an der Stadtbrücke für Ausblicke vor der Fahrt zur Hauptfestung.\n\nMidday: Überqueren Sie den Fluss zu wunderschönen, weniger überfüllten Sandstränden.\n\nAfternoon: Navigieren Sie auf rauen Pfaden zu versteckten, abgelegenen Stränden.\n\nEvening: Fahren Sie zurück zum Leuchtturm und Fischerhafen für den Sonnenuntergang.",
         "hu": "Morning: Kezdjen a hídnál a kilátásért, mielőtt elhajtana a fő történelmi erődhöz.\n\nMidday: Keljen át a folyón, hogy felfedezze a kevésbé zsúfolt, kiterjedt homokos partokat.\n\nAfternoon: Navigáljon a déli földutakon, hogy felfedezze a rejtett, távoli strandokat.\n\nEvening: Vezessen vissza a világítótoronyhoz és a kikötőhöz a naplemente megtekintéséhez.",
         "ro": "Morning: Începeți la podul orașului pentru priveliști înainte de a conduce la fort.\n\nMidday: Traversați râul pentru a explora maluri de nisip frumoase, mai puțin aglomerate.\n\nAfternoon: Navigați pe trasee aspre spre sud pentru a descoperi plaje ascunse și izolate.\n\nEvening: Conduceți înapoi la far și portul de pescuit pentru a privi apusul vibrant.",
-        "en": "Morning: Start at the prominent town bridge for views before driving to the main fort.\n\nMidday: Cross the river to explore beautifully expansive, less crowded sandy shores.\n\nAfternoon: Navigate rugged southern tracks to discover hidden, unmarked remote beaches.\n\nEvening: Drive back to the lighthouse and fishing port to watch the vibrant sunset."
+        "en": "Morning: Start at the prominent town bridge for views before driving to the main fort.\n\nMidday: Cross the river to explore beautifully expansive, less crowded sandy shores.\n\nAfternoon: Navigate rugged southern tracks to discover hidden, unmarked remote beaches.\n\nEvening: Drive back to the lighthouse and fishing port to watch the vibrant sunset.",
+        "pt": "Manhã: Comece na ponte da vila, proeminente, para vistas antes de seguir de carro para o forte principal.\n\nMeio-dia: Atravesse o rio para explorar praias arenosas amplas e menos concorridas.\n\nTarde: Navegue por caminhos agrestes do sul para descobrir praias remotas e não sinalizadas.\n\nNoite: Regresse de carro ao farol e ao porto de pesca para assistir ao pôr-do-sol vibrante."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Fahren Sie am Morgen mit Scheibenwischern auf Hochtouren über die Brücke. Mittags erkunden Sie die Küste bequem und trocken aus dem Fahrzeuginneren. Am Nachmittag bieten die Parkplätze an den Stränden tolle Ausblicke auf die stürmische See. Den Abend verbringen Sie bei einer Fahrt durch die glänzenden, nassen Straßen des Zentrums.",
             "hu": "Reggel vezessen teljes sebességgel működő ablaktörlőkkel a hídon át. Délben fedezze fel a partvidéket kényelmesen és szárazon az autó belsejéből. Délután a strandok parkolói remek kilátást nyújtanak a viharos tengerre. Az estét töltse a központ csillogó, nedves utcáin való autózással.",
             "ro": "Dimineața, conduceți peste pod cu ștergătoarele la viteză maximă. La prânz, explorați coasta confortabil și uscat din interiorul vehiculului. După-amiaza, parcările plajelor oferă vederi superbe către marea furtunoasă. Seara, plimbați-vă cu mașina pe străzile strălucitoare ale centrului.",
-            "en": "Drive across the bridge in the morning with wipers on full speed. At noon, explore the coastline comfortably and dry from inside the vehicle. In the afternoon, the beach parking lots offer great views of the stormy sea. Spend the evening driving through the glistening, wet streets of the center."
+            "en": "Drive across the bridge in the morning with wipers on full speed. At noon, explore the coastline comfortably and dry from inside the vehicle. In the afternoon, the beach parking lots offer great views of the stormy sea. Spend the evening driving through the glistening, wet streets of the center.",
+            "pt": "Conduza pela ponte de manhã com os limpa-vidros na máxima velocidade. Ao meio-dia, explore a costa confortavelmente e seco dentro do veículo. À tarde, os parques de estacionamento das praias oferecem ótimas vistas do mar tempestuoso. Passe a noite a conduzir pelas ruas brilhantes e molhadas do centro."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Ponte de Vila Nova de Milfontes",
                 "hu": "Ponte de Vila Nova de Milfontes",
                 "ro": "Ponte de Vila Nova de Milfontes",
-                "en": "Ponte de Vila Nova de Milfontes"
+                "en": "Ponte de Vila Nova de Milfontes",
+                "pt": "Ponte de Vila Nova de Milfontes"
               },
               "tip_5lang": {
                 "de": "Halten Sie die Scheiben frei, um den nebligen Mira-Fluss zu sehen; die Brücke bietet bei Regen eine geheimnisvolle Sicht auf das weite Uferland.",
                 "hu": "Tartsa tisztán a szélvédőt, hogy lássa a ködös Mira folyót; a híd esőben titokzatos kilátást nyújt a folyó menti tágas partvidékre.",
                 "ro": "Păstrați parbrizul curat pentru a vedea râul Mira învăluit în ceață; podul oferă o vedere misterioasă asupra malurilor întinse pe ploaie.",
-                "en": "Keep your windshield clear to see the misty Mira river; the bridge offers a mysterious view of the wide riverbanks during a rainy coastal day."
+                "en": "Keep your windshield clear to see the misty Mira river; the bridge offers a mysterious view of the wide riverbanks during a rainy coastal day.",
+                "pt": "Mantenha o pára-brisas limpo para ver o enevoado rio Mira; a ponte oferece uma vista misteriosa das largas margens do rio num dia costeiro chuvoso."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Forte de São Clemente",
                 "hu": "Forte de São Clemente",
                 "ro": "Forte de São Clemente",
-                "en": "Forte de São Clemente"
+                "en": "Forte de São Clemente",
+                "pt": "Forte de São Clemente"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang für ein schnelles Foto ohne nass zu werden; die dunklen Steine der Festung wirken bei grauem Himmel sehr dramatisch.",
                 "hu": "Parkoljon közel a bejárathoz egy gyors fotóért, anélkül, hogy megázna; az erőd sötét kövei nagyon drámai hatást keltenek a szürke égbolt alatt.",
                 "ro": "Parcați aproape de intrare pentru o poză rapidă fără să vă udați; pietrele întunecate ale cetății par dramatice sub cerul gri de ploaie.",
-                "en": "Park close to the entrance for a quick photo without getting wet; the dark stones of the fortress look very dramatic under the grey rainy sky."
+                "en": "Park close to the entrance for a quick photo without getting wet; the dark stones of the fortress look very dramatic under the grey rainy sky.",
+                "pt": "Estacione perto da entrada para uma foto rápida sem se molhar; as pedras escuras da fortaleza ficam muito dramáticas sob o céu cinzento e chuvoso."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Praia das Furnas",
                 "hu": "Praia das Furnas",
                 "ro": "Praia das Furnas",
-                "en": "Praia das Furnas"
+                "en": "Praia das Furnas",
+                "pt": "Praia das Furnas"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das Trommeln des Regens auf dem Autodach am Aussichtspunkt; hier können Sie das Aufeinandertreffen von Fluss und Ozean trocken beobachten.",
                 "hu": "Élvezze az eső kopogását az autótetőn a kilátópontnál; innen szárazon figyelheti meg a folyó és az óceán találkozását a tengerpart mentén.",
                 "ro": "Bucurați-vă de sunetul ploii pe plafonul mașinii la punctul de belvedere; aici puteți observa cum râul întâlnește oceanul stând la uscat.",
-                "en": "Enjoy the drumming of the rain on the car roof at the viewpoint; here you can dryly observe the meeting of the river and the ocean along the coast."
+                "en": "Enjoy the drumming of the rain on the car roof at the viewpoint; here you can dryly observe the meeting of the river and the ocean along the coast.",
+                "pt": "Desfrute do tamborilar da chuva no tejadilho do carro no miradouro; aqui pode observar, de forma seca, o encontro do rio com o oceano ao longo da costa."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Non-official beach",
                 "hu": "Non-official beach",
                 "ro": "Non-official beach",
-                "en": "Non-official beach"
+                "en": "Non-official beach",
+                "pt": "Praia não oficial"
               },
               "tip_5lang": {
                 "de": "Seien Sie vorsichtig auf den unbefestigten Zufahrten zum Aussichtspunkt; die wilde, einsame Küste wirkt bei Regen besonders archaisch und unberührt.",
                 "hu": "Legyen óvatos a kilátóhoz vezető burkolatlan utakon; a vad, magányos partvidék esőben különösen ősi és érintetlen hangulatot áraszt a látogatóknak.",
                 "ro": "Atenție pe drumurile neasfaltate spre punctul de belvedere; coasta sălbatică și pustie pare deosebit de arhaică și neatinsă pe timp de ploaie.",
-                "en": "Be careful on the unpaved roads leading to the viewpoint; the wild, lonely coast looks especially archaic and untouched during the rainy weather."
+                "en": "Be careful on the unpaved roads leading to the viewpoint; the wild, lonely coast looks especially archaic and untouched during the rainy weather.",
+                "pt": "Tenha cuidado nas estradas não alcatroadas que conduzem ao miradouro; a costa selvagem e solitária parece especialmente arcaica e intocada durante o tempo chuvoso."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Praia do Farol",
                 "hu": "Praia do Farol",
                 "ro": "Praia do Farol",
-                "en": "Praia do Farol"
+                "en": "Praia do Farol",
+                "pt": "Praia do Farol"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz am Leuchtturm ist perfekt für „Storm-Watching“; beobachten Sie die riesigen Wellen, während Sie im warmen Auto einen Snack genießen.",
                 "hu": "A világítótorony parkolója tökéletes a vihar megfigyelésére; nézze a hatalmas hullámokat, miközben a meleg autóban ülve elfogyaszt egy kis tízórait.",
                 "ro": "Parcarea de la far este perfectă pentru a urmări furtuna; priviți valurile uriașe în timp ce savurați o gustare în interiorul mașinii calde.",
-                "en": "The parking lot by the lighthouse is perfect for storm-watching; watch the huge waves while enjoying a snack inside your warm and dry vehicle."
+                "en": "The parking lot by the lighthouse is perfect for storm-watching; watch the huge waves while enjoying a snack inside your warm and dry vehicle.",
+                "pt": "O parque de estacionamento junto ao farol é perfeito para observar a tempestade; veja as enormes ondas enquanto desfruta de um lanche dentro do seu veículo quente e seco."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Praia do Porto das Barcas",
                 "hu": "Praia do Porto das Barcas",
                 "ro": "Praia do Porto das Barcas",
-                "en": "Praia do Porto das Barcas"
+                "en": "Praia do Porto das Barcas",
+                "pt": "Praia do Porto das Barcas"
               },
               "tip_5lang": {
                 "de": "Finden Sie einen geschützten Platz für Ihr Auto am Hafenbecken; beobachten Sie die Fischer bei ihrer Arbeit im Regen, bevor Sie die Heizung aufdrehen.",
                 "hu": "Keressen egy védett helyet az autónak a kikötőnél; nézze a halászokat munka közben az esőben, mielőtt feltekerné a fűtést a hazavezető úthoz.",
                 "ro": "Găsiți un loc protejat pentru mașină lângă bazinul portului; urmăriți pescarii lucrând pe ploaie înainte de a porni căldura pentru drumul înapoi.",
-                "en": "Find a sheltered spot for your car by the harbor basin; watch the fishermen working in the rain before turning up the heater for the drive back."
+                "en": "Find a sheltered spot for your car by the harbor basin; watch the fishermen working in the rain before turning up the heater for the drive back.",
+                "pt": "Arranje um lugar abrigado para o carro junto à bacia do porto; observe os pescadores a trabalhar na chuva antes de aumentar o aquecimento para a viagem de regresso."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Nutzen Sie den hellen Vormittag für Fahrten zu entlegenen Aussichtspunkten. Mittags heizt sich Ihr Auto in der Wintersonne angenehm auf, ideal für eine kleine Pause. Am Nachmittag bietet die tiefe Sonne perfekte Lichtverhältnisse für Landschaftsaufnahmen. Da die Dämmerung um 17:00 Uhr einsetzt, endet der Tag in der gemütlich beleuchteten Stadt.",
             "hu": "Használja ki a világos délelőttöt a távolabbi kilátópontokhoz való autózáshoz. Délben autója kellemesen felmelegszik a téli napon, ami ideális egy kis pihenőhöz. Délután az alacsony nap tökéletes fényeket biztosít a tájfotókhoz. Mivel 17:00-kor szürkület kezdődik, a nap a hangulatosan kivilágított városban ér véget.",
             "ro": "Profități de dimineața luminoasă pentru a conduce spre puncte de belvedere îndepărtate. La prânz, mașina se încălzește plăcut la soare. După-amiaza, soarele jos oferă lumina perfectă pentru fotografii. Deoarece amurgul începe la 17:00, ziua se încheie în orașul luminat primitor.",
-            "en": "Take advantage of the bright morning for drives to distant viewpoints. At noon, your car warms up pleasantly in the winter sun, ideal for a short break. In the afternoon, the low sun provides perfect lighting for landscape photos. As twilight begins at 17:00, the day ends in the cozily lit town."
+            "en": "Take advantage of the bright morning for drives to distant viewpoints. At noon, your car warms up pleasantly in the winter sun, ideal for a short break. In the afternoon, the low sun provides perfect lighting for landscape photos. As twilight begins at 17:00, the day ends in the cozily lit town.",
+            "pt": "Aproveite a manhã luminosa para conduzir até miradouros distantes. Ao meio-dia, o carro aquece agradavelmente ao sol de inverno, ideal para uma curta pausa. À tarde, o sol baixo proporciona iluminação perfeita para fotografias de paisagem. Quando o crepúsculo começa às 17:00, o dia termina na vila acolhedora e iluminada."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Ponte de Vila Nova de Milfontes",
                 "hu": "Ponte de Vila Nova de Milfontes",
                 "ro": "Ponte de Vila Nova de Milfontes",
-                "en": "Ponte de Vila Nova de Milfontes"
+                "en": "Ponte de Vila Nova de Milfontes",
+                "pt": "Ponte de Vila Nova de Milfontes"
               },
               "tip_5lang": {
                 "de": "Halten Sie die Sonnenbrille bereit, da die tiefstehende Sonne auf der Fahrbahn blenden kann; der Blick auf den winterlich klaren Mira ist prachtvoll.",
                 "hu": "Tartsa készenlétben napszemüvegét, mert az alacsonyan járó nap elvakíthat vezetés közben; a kilátás a téli, tiszta Mira folyóra egyszerűen pazar.",
                 "ro": "Țineți ochelarii de soare la îndemână, deoarece soarele jos vă poate orbi; vederea râului Mira, clar de iarnă, este de-a dreptul magnifică acum.",
-                "en": "Keep your sunglasses ready as the low sun can cause glare while driving; the view of the winter-clear Mira river is simply magnificent right now."
+                "en": "Keep your sunglasses ready as the low sun can cause glare while driving; the view of the winter-clear Mira river is simply magnificent right now.",
+                "pt": "Tenha os óculos de sol prontos, pois o sol baixo pode causar encandeamento ao conduzir; a vista do rio Mira, límpida no inverno, é simplesmente magnífica agora."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Forte de São Clemente",
                 "hu": "Forte de São Clemente",
                 "ro": "Forte de São Clemente",
-                "en": "Forte de São Clemente"
+                "en": "Forte de São Clemente",
+                "pt": "Forte de São Clemente"
               },
               "tip_5lang": {
                 "de": "Das Winterlicht lässt die historische Festung in warmen Tönen erstrahlen; parken Sie am Kai und genießen Sie die klare Luft bei einem kurzen Rundgang.",
                 "hu": "A téli fények meleg tónusokban világítják meg a történelmi erődöt; parkoljon a rakparton, és élvezze a friss levegőt egy rövid körséta alatt.",
                 "ro": "Luminile de iarnă iluminează cetatea istorică în tonuri calde; parcați pe chei și bucurați-vă de aerul proaspăt în timpul unei scurte plimbări.",
-                "en": "The winter lights illuminate the historic fortress in warm tones; park on the quay and enjoy the crisp air during a short walk around the site."
+                "en": "The winter lights illuminate the historic fortress in warm tones; park on the quay and enjoy the crisp air during a short walk around the site.",
+                "pt": "As luzes de inverno iluminam a histórica fortaleza em tons quentes; estacione no cais e desfrute do ar fresco durante uma curta caminhada em redor do local."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Praia das Furnas",
                 "hu": "Praia das Furnas",
                 "ro": "Praia das Furnas",
-                "en": "Praia das Furnas"
+                "en": "Praia das Furnas",
+                "pt": "Praia das Furnas"
               },
               "tip_5lang": {
                 "de": "Der weitläufige Strand ist im Winter fast menschenleer; nutzen Sie das Auto als warme Basis, um zwischendurch kurz im kühlen Sand spazieren zu gehen.",
                 "hu": "A hatalmas strand télen szinte teljesen néptelen; használja az autót meleg bázisként, hogy időnként tegyen egy rövid sétát a hűvös homokban.",
                 "ro": "Plaja vastă este aproape pustie iarna; folosiți mașina ca bază caldă pentru a face din când în când o scurtă plimbare pe nisipul rece și curat.",
-                "en": "The vast beach is almost deserted in winter; use the car as a warm base to take occasional short walks on the cool and pristine sand today."
+                "en": "The vast beach is almost deserted in winter; use the car as a warm base to take occasional short walks on the cool and pristine sand today.",
+                "pt": "A vasta praia está quase deserta no inverno; use o carro como base quente para fazer caminhadas curtas e ocasionais na areia fresca e imaculada hoje."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Non-official beach",
                 "hu": "Non-official beach",
                 "ro": "Non-official beach",
-                "en": "Non-official beach"
+                "en": "Non-official beach",
+                "pt": "Praia não oficial"
               },
               "tip_5lang": {
                 "de": "Die Felsformationen kommen im klaren Winterlicht besonders gut zur Geltung; die ruhige Atmosphäre lädt zu entspannten Landschaftsbeobachtungen ein.",
                 "hu": "A sziklaalakzatok különösen jól érvényesülnek a tiszta téli fényben; a nyugodt légkör hívogató a táj hosszas és békés megfigyelésére az autóból.",
                 "ro": "Formațiunile stâncoase sunt evidențiate excelent în lumina clară de iarnă; atmosfera liniștită invită la observarea peisajului din mașină.",
-                "en": "The rock formations are highlighted excellently in the clear winter light; the calm atmosphere invites you to observe the landscape from your car."
+                "en": "The rock formations are highlighted excellently in the clear winter light; the calm atmosphere invites you to observe the landscape from your car.",
+                "pt": "As formações rochosas ficam realçadas na clara luz de inverno; a atmosfera calma convida a observar a paisagem a partir do carro."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Praia do Farol",
                 "hu": "Praia do Farol",
                 "ro": "Praia do Farol",
-                "en": "Praia do Farol"
+                "en": "Praia do Farol",
+                "pt": "Praia do Farol"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den spektakulären Wintersonnenuntergang gegen 17:00 Uhr direkt aus dem Auto; der Himmel bietet oft ein unvergessliches Farbenspiel über dem Meer.",
                 "hu": "Élvezze a látványos téli naplementét 17:00 körül közvetlenül az autóból; az égbolt gyakran felejthetetlen játékkal kápráztat el az óceán felett.",
                 "ro": "Bucurați-vă de apusul spectaculos de iarnă în jurul orei 17:00 direct din mașină; cerul oferă adesea un spectacol de culori deasupra oceanului.",
-                "en": "Enjoy the spectacular winter sunset around 17:00 directly from your car; the sky often provides an unforgettable display of colors over the ocean."
+                "en": "Enjoy the spectacular winter sunset around 17:00 directly from your car; the sky often provides an unforgettable display of colors over the ocean.",
+                "pt": "Desfrute do espetacular pôr do sol de inverno por volta das 17:00 diretamente do seu carro; o céu costuma proporcionar um espetáculo inesquecível de cores sobre o oceano."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Praia do Porto das Barcas",
                 "hu": "Praia do Porto das Barcas",
                 "ro": "Praia do Porto das Barcas",
-                "en": "Praia do Porto das Barcas"
+                "en": "Praia do Porto das Barcas",
+                "pt": "Praia do Porto das Barcas"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das bunte Treiben im Hafen während der goldenen Stunde gegen 16:30 Uhr; der kühle Abendwind stört im beheizten Wagen überhaupt nicht.",
                 "hu": "Figyelje a kikötő színes forgatagát az aranyórában, 16:30 körül; a hűvös esti szél a fűtött autóban ülve egyáltalán nem zavarja majd a pihenést.",
                 "ro": "Observați agitația colorată din port în timpul orei de aur, pe la 16:30; vântul rece de seară nu vă va deranja deloc în mașina bine încălzită.",
-                "en": "Watch the colorful bustle in the harbor during the golden hour around 16:30; the cool evening wind won't bother you at all in your heated car."
+                "en": "Watch the colorful bustle in the harbor during the golden hour around 16:30; the cool evening wind won't bother you at all in your heated car.",
+                "pt": "Assista à azáfama colorida no porto durante a hora dourada por volta das 16:30; o vento fresco da noite não o incomodará no seu carro aquecido."
               }
             }
           ]

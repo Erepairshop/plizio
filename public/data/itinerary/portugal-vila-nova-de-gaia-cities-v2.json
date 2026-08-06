@@ -21,7 +21,8 @@
             "de": "Jardim do Morro",
             "hu": "Jardim do Morro",
             "ro": "Jardim do Morro",
-            "en": "Jardim do Morro"
+            "en": "Jardim do Morro",
+            "pt": "Jardim do Morro"
           },
           "coords": [
             -8.6103,
@@ -37,7 +38,8 @@
             "de": "Kommen Sie früh, um die beste Aussicht auf Porto ohne die Menschenmassen zu genießen.",
             "hu": "Érkezz kora reggel, hogy tömeg nélkül élvezhesd a legjobb kilátást Portóra.",
             "ro": "Veniți devreme pentru a prinde cea mai bună priveliște a Porto-ului fără aglomerație.",
-            "en": "Arrive early to catch the best views of Porto without the crowds."
+            "en": "Arrive early to catch the best views of Porto without the crowds.",
+            "pt": "Chegue cedo para apanhar as melhores vistas do Porto sem multidões."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Mosteiro da Serra do Pilar",
             "hu": "Mosteiro da Serra do Pilar",
             "ro": "Mănăstirea Serra do Pilar",
-            "en": "Mosteiro da Serra do Pilar"
+            "en": "Mosteiro da Serra do Pilar",
+            "pt": "Mosteiro da Serra do Pilar"
           },
           "coords": [
             -8.6089,
@@ -61,7 +64,8 @@
             "de": "Der Aufstieg auf die Kuppel ist die Panoramaaussicht auf den Fluss und die Brücke wert.",
             "hu": "A kupolába való felmászás megéri a panorámás kilátásért a folyóra és a hídra.",
             "ro": "Urcarea în cupolă merită pentru vederea panoramică asupra râului și podului.",
-            "en": "The climb to the dome is worth it for the panoramic view of the river and bridge."
+            "en": "The climb to the dome is worth it for the panoramic view of the river and bridge.",
+            "pt": "A subida à cúpula vale a pena pela vista panorâmica do rio e da ponte."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Ponte Dom Luís I (Oberdeck)",
             "hu": "Dom Luís I híd (felső szint)",
             "ro": "Podul Dom Luís I (puntea superioară)",
-            "en": "Ponte Dom Luís I (Upper Deck)"
+            "en": "Ponte Dom Luís I (Upper Deck)",
+            "pt": "Ponte Dom Luís I (Tabuleiro Superior)"
           },
           "coords": [
             -8.6096,
@@ -85,7 +90,8 @@
             "de": "Achten Sie auf die Metro, die sich die Brücke mit den Fußgängern teilt.",
             "hu": "Vigyázz a metróra, amely a gyalogosokkal közösen használja a hidat.",
             "ro": "Fiți atenți la metroul care împarte podul cu pietonii.",
-            "en": "Watch out for the metro train that shares the bridge with pedestrians."
+            "en": "Watch out for the metro train that shares the bridge with pedestrians.",
+            "pt": "Cuidado com o comboio do metro que partilha a ponte com os peões."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Teleférico de Gaia",
             "hu": "Teleférico de Gaia",
             "ro": "Teleférico de Gaia",
-            "en": "Teleférico de Gaia"
+            "en": "Teleférico de Gaia",
+            "pt": "Teleférico de Gaia"
           },
           "coords": [
             -8.6117,
@@ -109,7 +116,8 @@
             "de": "Eine einfache Fahrt nach unten ist ausreichend; der Spaziergang nach oben ist steil.",
             "hu": "Elég egy egyirányú jegy lefelé; a séta felfelé meredek.",
             "ro": "Un bilet dus este suficient; plimbarea înapoi în sus este abruptă.",
-            "en": "A one-way ticket down is enough; the walk back up is steep."
+            "en": "A one-way ticket down is enough; the walk back up is steep.",
+            "pt": "Um bilhete só de ida a descer chega; a caminhada de volta é íngreme."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Cais de Gaia & Portweinkeller",
             "hu": "Cais de Gaia & Portói Pincék",
             "ro": "Cais de Gaia & Cramele de Vin de Porto",
-            "en": "Cais de Gaia & Port Wine Cellars"
+            "en": "Cais de Gaia & Port Wine Cellars",
+            "pt": "Cais de Gaia & Caves de Vinho do Porto"
           },
           "coords": [
             -8.6152,
@@ -133,7 +142,8 @@
             "de": "Buchen Sie Ihre Kellertour im Voraus, besonders bei beliebten Marken wie Taylor's oder Sandeman.",
             "hu": "Foglalj pincetúrát előre, különösen a népszerű márkáknál, mint a Taylor's vagy a Sandeman.",
             "ro": "Rezervați-vă turul la cramă în avans, mai ales la brandurile populare precum Taylor's sau Sandeman.",
-            "en": "Book your cellar tour in advance, especially for popular brands like Taylor's or Sandeman."
+            "en": "Book your cellar tour in advance, especially for popular brands like Taylor's or Sandeman.",
+            "pt": "Reserve a sua visita à cave com antecedência, especialmente para marcas populares como Taylor's ou Sandeman."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Mittagessen am Flussufer",
             "hu": "Ebédszünet a folyóparton",
             "ro": "Pauză de prânz pe malul râului",
-            "en": "Lunch break by the riverside"
+            "en": "Lunch break by the riverside",
+            "pt": "Pausa para almoço à beira‑rio"
           },
           "coords": [
             -8.618,
@@ -157,7 +168,8 @@
             "de": "Probieren Sie eine „Francesinha“ mit Blick auf die Rabelo-Boote.",
             "hu": "Kóstolj meg egy „Francesinhát” a rabelo hajókra nyíló kilátással.",
             "ro": "Încercați o „Francesinha” cu vedere la bărcile rabelo.",
-            "en": "Try a 'Francesinha' with a view of the Rabelo boats."
+            "en": "Try a 'Francesinha' with a view of the Rabelo boats.",
+            "pt": "Experimente uma 'Francesinha' com vista para os barcos rabelo."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag mit einer atemberaubenden Aussicht vom Jardim do Morro, gefolgt von der ruhigen Pracht des Mosteiro da Serra do Pilar. Spüren Sie die Geschichte, wenn Sie die obere Ebene der Ponte Dom Luís I überqueren, einer Ikone des Industriezeitalters, die Porto und Gaia verbindet. Der Morgen ist eine Mischung aus Panoramablicken und architektonischen Wundern.\n\nAm Mittag nehmen Sie die Seilbahn Teleférico de Gaia hinunter zum belebten Cais de Gaia. Dies ist das Herz des Portweins. Wählen Sie eine der berühmten Weinkellereien für eine Führung und eine Verkostung. Schlendern Sie entlang der Promenade, beobachten Sie die traditionellen Rabelo-Boote und nehmen Sie die lebhafte Atmosphäre am Flussufer auf.\n\nNachdem Sie sich mit Portwein vertraut gemacht haben, gönnen Sie sich ein spätes Mittagessen in einem der vielen Restaurants am Cais. Genießen Sie lokale Spezialitäten wie frische Meeresfrüchte oder die herzhafte Francesinha, während Sie die malerische Kulisse der Ribeira von Porto auf der anderen Seite des Flusses bewundern. Dies ist die perfekte Zeit, um zu entspannen und die Aromen der Region zu genießen.\n\nBeenden Sie Ihren Tag mit einem gemütlichen Spaziergang entlang des Cais, vielleicht holen Sie sich ein handwerkliches Eis. Wenn die Sonne untergeht, wirft sie einen goldenen Glanz auf das Wasser und die farbenfrohen Gebäude. Finden Sie einen Platz am Flussufer, um die magische „goldene Stunde“ zu beobachten und über einen Tag voller ikonischer Sehenswürdigkeiten und unvergesslicher Geschmäcker nachzudenken.",
         "hu": "Kezdje a napot a Jardim do Morro lélegzetelállító panorámájával, majd folytassa a Mosteiro da Serra do Pilar csendes fenségével. Érezze a történelmet, ahogy átsétál a Dom Luís I híd felső szintjén, az ipari kor ikonikus építményén, amely összeköti Portót és Gaiát. A délelőtt a panorámás kilátások és építészeti csodák keveréke.\n\nDélben szálljon le a Teleférico de Gaia drótkötélpályán a nyüzsgő Cais de Gaia rakpartra. Ez a portói bor szíve. Válasszon egyet a híres borpincék közül egy túrára és kóstolóra. Sétáljon a promenádon, nézze a hagyományos rabelo hajókat, és szívja magába a folyóparti élénk hangulatot.\n\nA portói borral való ismerkedés után engedjen meg magának egy késői ebédet a Cais egyik éttermében. Kóstoljon meg helyi specialitásokat, mint a friss tenger gyümölcsei vagy a kiadós Francesinha, miközben a folyó túlpartján Porto festői Ribeira negyedét csodálja. Ez a tökéletes idő a pihenésre és a régió ízeinek élvezetére.\n\nA napot zárja egy kellemes sétával a Cais mentén, esetleg egy kézműves fagylalttal. Ahogy a nap lenyugszik, arany fénybe borítja a vizet és a színes épületeket. Keressen egy helyet a folyóparton, hogy megnézze a varázslatos „arany órát”, és elgondolkozzon egy ikonikus látnivalókkal és felejthetetlen ízekkel teli napon.",
         "ro": "Începeți ziua cu o priveliște uluitoare din Jardim do Morro, urmată de grandoarea senină a Mănăstirii Serra do Pilar. Simțiți istoria în timp ce traversați puntea superioară a Podului Dom Luís I, o icoană a epocii industriale care leagă Porto și Gaia. Dimineața este un amestec de vederi panoramice și minuni arhitecturale.\n\nLa amiază, coborâți cu telecabina Teleférico de Gaia spre vibrantul Cais de Gaia. Acesta este inima vinului de Porto. Alegeți una dintre faimoasele crame pentru un tur și o degustare. Plimbați-vă de-a lungul promenadei, urmăriți bărcile tradiționale rabelo și absorbiți atmosfera plină de viață de pe malul râului.\n\nDupă ce v-ați familiarizat cu vinul de Porto, bucurați-vă de un prânz târziu la unul dintre numeroasele restaurante de pe Cais. Savurați specialități locale, cum ar fi fructele de mare proaspete sau consistenta Francesinha, în timp ce admirați fundalul pitoresc al Ribeira din Porto, de cealaltă parte a râului. Acesta este momentul perfect pentru a vă relaxa și a savura aromele regiunii.\n\nÎncheiați ziua cu o plimbare relaxantă de-a lungul Cais-ului, poate luând o înghețată artizanală. Pe măsură ce soarele apune, aruncă o strălucire aurie peste apă și clădirile colorate. Găsiți un loc pe malul râului pentru a urmări magica „oră de aur” și a reflecta asupra unei zile pline de priveliști iconice și gusturi memorabile.",
-        "en": "Start your day with a breathtaking view from Jardim do Morro, followed by the serene grandeur of Mosteiro da Serra do Pilar. Feel the history as you walk across the upper deck of Ponte Dom Luís I, an industrial-age icon connecting Porto and Gaia. The morning is a blend of panoramic vistas and architectural wonders.\n\nAt midday, take the Teleférico de Gaia cable car down to the bustling Cais de Gaia. This is the heart of Port wine country. Choose one of the famous wine cellars for a tour and a tasting session. Stroll along the promenade, watch the traditional rabelo boats, and soak in the vibrant riverside atmosphere.\n\nAfter your introduction to Port wine, indulge in a late lunch at one of the many restaurants on the Cais. Sample local specialties like fresh seafood or the hearty Francesinha while admiring the picturesque backdrop of Porto's Ribeira across the river. This is the perfect time to relax and savor the region's flavors.\n\nEnd your day with a leisurely walk along the Cais, perhaps grabbing an artisanal ice cream. As the sun sets, it casts a golden glow over the water and the colorful buildings. Find a spot by the riverfront to watch the magical 'golden hour' and reflect on a day filled with iconic sights and unforgettable tastes."
+        "en": "Start your day with a breathtaking view from Jardim do Morro, followed by the serene grandeur of Mosteiro da Serra do Pilar. Feel the history as you walk across the upper deck of Ponte Dom Luís I, an industrial-age icon connecting Porto and Gaia. The morning is a blend of panoramic vistas and architectural wonders.\n\nAt midday, take the Teleférico de Gaia cable car down to the bustling Cais de Gaia. This is the heart of Port wine country. Choose one of the famous wine cellars for a tour and a tasting session. Stroll along the promenade, watch the traditional rabelo boats, and soak in the vibrant riverside atmosphere.\n\nAfter your introduction to Port wine, indulge in a late lunch at one of the many restaurants on the Cais. Sample local specialties like fresh seafood or the hearty Francesinha while admiring the picturesque backdrop of Porto's Ribeira across the river. This is the perfect time to relax and savor the region's flavors.\n\nEnd your day with a leisurely walk along the Cais, perhaps grabbing an artisanal ice cream. As the sun sets, it casts a golden glow over the water and the colorful buildings. Find a spot by the riverfront to watch the magical 'golden hour' and reflect on a day filled with iconic sights and unforgettable tastes.",
+        "pt": "Comece o dia com uma vista de cortar a respiração do Jardim do Morro, seguida pela serena grandeza do Mosteiro da Serra do Pilar. Sinta a história ao atravessar o tabuleiro superior da Ponte Dom Luís I, um ícone da era industrial que liga Porto e Gaia. A manhã é uma mistura de panoramas e maravilhas arquitetónicas.\n\nAo meio‑dia, apanhe o Teleférico de Gaia até ao movimentado Cais de Gaia. Este é o coração da região do Vinho do Porto. Escolha uma das caves famosas para uma visita guiada e prova. Passeie pela marginal, veja os tradicionais barcos rabelo e absorva a vibrante atmosfera ribeirinha.\n\nApós a sua introdução ao Vinho do Porto, deliciem‑se com um almoço tardio num dos muitos restaurantes do Cais. Experimente especialidades locais como marisco fresco ou a robusta Francesinha enquanto admira o pitoresco cenário da Ribeira do Porto do outro lado do rio. Este é o momento perfeito para relaxar e saborear os sabores da região.\n\nTermine o dia com um passeio descontraído ao longo do Cais, talvez com um gelado artesanal. Ao pôr do sol, a luz dourada cobre a água e os edifícios coloridos. Encontre um lugar junto à margem para ver a mágica 'hora dourada' e refletir num dia cheio de sítios icónicos e sabores inesquecíveis."
       },
       "gastro_picks": {
         "de": [
@@ -377,6 +390,12 @@
           "Book wine cellar tours in advance, especially during peak season, to avoid disappointment.",
           "Don't be afraid to walk across the upper deck of the Ponte Dom Luís I; the views are worth it.",
           "Many restaurants on Cais de Gaia offer tourist menus, but venture into the side streets for more authentic experiences."
+        ],
+        "pt": [
+          "Use calçado confortável. Gaia é ondulada e as ruas são frequentemente empedradas.",
+          "Reserve as visitas às caves com antecedência, especialmente na época alta, para evitar desilusão.",
+          "Não tenha receio de atravessar o tabuleiro superior da Ponte Dom Luís I; as vistas valem a pena.",
+          "Muitos restaurantes no Cais de Gaia oferecem menus turísticos, mas aventure-se pelas ruas laterais para experiências mais autênticas."
         ]
       },
       "variants": {
@@ -385,7 +404,8 @@
             "de": "Der Vormittag beginnt im Jardim do Morro, wo der Regen die Palmen erfrischt; suchen Sie Schutz unter den Arkaden des Klosters Serra do Pilar.\n\nMittags bietet die Überquerung der Brücke dramatische Ausblicke auf den nebligen Douro, bevor die Seilbahn Sie trocken zum Flussufer bringt.\n\nDer Nachmittag steht ganz im Zeichen der Portweinkeller. In den historischen Hallen von Gaia bleiben Sie trocken und genießen die aromatische Wärme.\n\nAbends lassen Sie den Tag bei einem gemütlichen Essen direkt am Fluss ausklingen, während draußen der Regen auf das Wasser prasselt.",
             "hu": "A délelőtt a Jardim do Morro parkban indul, ahol az eső felfrissíti a pálmákat; keressen menedéket a Serra do Pilar kolostor boltívei alatt.\n\nDélben a híd felső szintjén drámai kilátás nyílik a ködös Douro-ra, majd a libegővel szárazon ereszkedhet le a folyópartra.\n\nA délután a portói borospincéké. Gaia történelmi csarnokaiban védve marad az esőtől, miközben élvezi a borok melengető aromáját.\n\nEste a folyóparti éttermek egyikében zárja a napot, figyelve az esőcseppek táncát a vízen egy tál meleg étel mellett.",
             "ro": "Dimineața începe în Jardim do Morro, unde ploaia împrospătează palmierii; căutați adăpost sub arcadele mănăstirii Serra do Pilar.\n\nLa prânz, traversarea podului oferă vederi dramatice asupra râului Douro cețos, înainte ca telecabina să vă coboare la mal în siguranță.\n\nDupă-amiaza este dedicată cramelor de vin de Porto. În halele istorice din Gaia rămâneți uscat și vă bucurați de aromele calde ale vinului.\n\nSeara, încheiați ziua cu o cină relaxantă pe malul râului, în timp ce ploaia bate în geamurile localurilor primitoare.",
-            "en": "Morning starts at Jardim do Morro where the rain refreshes the palms; find shelter under the arches of the Mosteiro da Serra do Pilar.\n\nAt noon, the bridge crossing offers dramatic views of the misty Douro before the cable car takes you dry down to the riverside.\n\nAfternoon is all about the Port wine cellars. Inside Gaia's historic halls, you stay dry while enjoying the aromatic warmth of the tastings.\n\nEvening concludes with a cozy meal by the river, watching the rain dance on the water from the comfort of a riverside bistro."
+            "en": "Morning starts at Jardim do Morro where the rain refreshes the palms; find shelter under the arches of the Mosteiro da Serra do Pilar.\n\nAt noon, the bridge crossing offers dramatic views of the misty Douro before the cable car takes you dry down to the riverside.\n\nAfternoon is all about the Port wine cellars. Inside Gaia's historic halls, you stay dry while enjoying the aromatic warmth of the tastings.\n\nEvening concludes with a cozy meal by the river, watching the rain dance on the water from the comfort of a riverside bistro.",
+            "pt": "A manhã começa no Jardim do Morro onde a chuva refresca as palmeiras; encontre abrigo sob os arcos do Mosteiro da Serra do Pilar.\n\nAo meio-dia, a travessia da ponte oferece vistas dramáticas do Douro enevoado antes do teleférico levar você, seco, até a margem do rio.\n\nA tarde é toda dedicada às caves de vinho do Porto. Dentro dos antigos salões de Gaia, mantém-se seco enquanto aprecia o calor aromático das provas.\n\nA noite termina com uma refeição aconchegante à beira-rio, vendo a chuva dançar na água a partir do conforto de um bistrô ribeirinho."
           },
           "stops": [
             {
@@ -394,7 +414,8 @@
                 "de": "Die Cafés am Parkeingang sind ideale Unterstände bei Schauern.",
                 "hu": "A park bejáratánál lévő kávézók jó menedéket nyújtanak zápor esetén.",
                 "ro": "Cafenelele de la intrarea în parc sunt adăposturi ideale în caz de ploaie.",
-                "en": "The cafes at the park entrance are perfect shelters during showers."
+                "en": "The cafes at the park entrance are perfect shelters during showers.",
+                "pt": "Os cafés na entrada do parque são abrigos perfeitos durante as aguaceiras."
               }
             },
             {
@@ -403,7 +424,8 @@
                 "de": "Der Kreuzgang bietet Schutz; genießen Sie den Blick von den Arkaden.",
                 "hu": "A kolostor kerengője védett; élvezze a kilátást az árkádok alól.",
                 "ro": "Cloastrul oferă protecție; admirați vederea de sub arcade.",
-                "en": "The cloister provides shelter; enjoy the view from under the arches."
+                "en": "The cloister provides shelter; enjoy the view from under the arches.",
+                "pt": "O claustro oferece abrigo; aproveite a vista por baixo dos arcos."
               }
             },
             {
@@ -412,7 +434,8 @@
                 "de": "Vorsicht, die Metallplatten der Brücke können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a híd fémlemezei nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, plăcile metalice ale podului pot fi alunecoase când sunt ude.",
-                "en": "Careful, the bridge's metal plates can be slippery when wet."
+                "en": "Careful, the bridge's metal plates can be slippery when wet.",
+                "pt": "Cuidado, as placas metálicas da ponte podem ficar escorregadias quando molhadas."
               }
             },
             {
@@ -421,7 +444,8 @@
                 "de": "Eine trockene, 5-minütige Fahrt mit Panoramablick über das nasse Gaia.",
                 "hu": "Száraz, 5 perces utazás panorámával az esős Gaia felett.",
                 "ro": "O călătorie uscată de 5 minute cu vedere panoramică peste Gaia ploioasă.",
-                "en": "A dry, 5-minute ride with panoramic views over rainy Gaia."
+                "en": "A dry, 5-minute ride with panoramic views over rainy Gaia.",
+                "pt": "Uma viagem seca de 5 minutos com vistas panorâmicas sobre a chuvosa Gaia."
               }
             },
             {
@@ -430,7 +454,8 @@
                 "de": "Buchen Sie eine Kellertour; drinnen ist es trocken und gemütlich.",
                 "hu": "Foglaljon pincetúrát; odabent száraz és barátságos az idő.",
                 "ro": "Rezervați un tur al cramelor; în interior este uscat și plăcut.",
-                "en": "Book a cellar tour; it is dry and cozy inside the historic caves."
+                "en": "Book a cellar tour; it is dry and cozy inside the historic caves.",
+                "pt": "Reserve uma visita a uma cave; é seco e acolhedor no interior das caves históricas."
               }
             },
             {
@@ -439,7 +464,8 @@
                 "de": "Wählen Sie ein Restaurant mit überdachter Terrasse für Douro-Blick.",
                 "hu": "Válasszon fedett teraszos éttermet a Douro-ra néző kilátáshoz.",
                 "ro": "Alegeți un restaurant cu terasă acoperită pentru vedere la Douro.",
-                "en": "Pick a restaurant with a covered terrace for Douro views."
+                "en": "Pick a restaurant with a covered terrace for Douro views.",
+                "pt": "Escolha um restaurante com esplanada coberta para vistas sobre o Douro."
               }
             }
           ],
@@ -471,6 +497,13 @@
               "Use the Metro (Line D) between Jardim do Morro and Porto to stay dry.",
               "A sturdy umbrella is better than a cheap poncho due to Atlantic winds.",
               "The cable car saves you from a steep, slippery walk down to the riverbank."
+            ],
+            "pt": [
+              "Use sapatos com boa aderência; os calcários de Gaia tornam-se muito escorregadios quando molhados.",
+              "As caves do Porto são o refúgio perfeito da chuva; quase todas as visitas decorrem no interior.",
+              "Use o Metro (Linha D) entre Jardim do Morro e Porto para se manter seco.",
+              "Um guarda-chuva resistente é melhor que um poncho barato devido aos ventos atlânticos.",
+              "O teleférico poupa-lhe a caminhada íngreme e escorregadia até a margem do rio."
             ]
           }
         },
@@ -479,7 +512,8 @@
             "de": "Der Wintermorgen am Jardim do Morro ist oft klar und frisch; die Sonne wärmt die gelben Mauern des Klosters Serra do Pilar.\n\nMittags weht eine kühle Brise über die Ponte Luís, doch der Abstieg mit der Seilbahn bietet einen windgeschützten Blick auf das winterliche Douro-Tal.\n\nNachmittags lockt die Wärme der Weinkeller. Die schweren Holztüren schützen vor der Kälte, während der Portwein von innen wärmt.\n\nAbends taucht das frühe Licht der Dämmerung den Cais de Gaia in goldene Farben, bevor Sie sich in ein beheiztes Restaurant zurückziehen.",
             "hu": "A téli reggel a Jardim do Morro-nál gyakran tiszta és friss; a nap megvilágítja a Serra do Pilar kolostor sárga falait.\n\nDélben hűvös szél fúj a Luís hídon, de a libegővel szélvédett helyen csodálhatja meg a téli Douro-völgy panorámáját.\n\nDélután a borospincék melege csábít. A vastag fafalak elzárják a kinti hideget, a portói bor pedig belülről melenget.\n\nEste a korai szürkület arany fénybe vonja a Cais de Gaia partját, mielőtt visszahúzódna egy fűtött étterembe.",
             "ro": "Dimineața de iarnă la Jardim do Morro este adesea senină și proaspătă; soarele încălzește zidurile mănăstirii Serra do Pilar.\n\nLa prânz, o briză rece suflă peste podul Luís, dar telecabina oferă o vedere ferită de vânt asupra văii iernatice a râului Douro.\n\nDupă-amiaza, căldura cramelor vă atrage înăuntru. Ușile groase de lemn protejează de frig, în timp ce vinul de Porto vă încălzește.\n\nSeara, amurgul timpuriu scaldă faleza Cais de Gaia în culori aurii, înainte de a vă retrage într-un restaurant încălzit.",
-            "en": "Winter morning at Jardim do Morro is often crisp and clear; the low sun warms the yellow walls of the Serra do Pilar monastery.\n\nAt noon, a cool breeze blows across Ponte Luís, but the cable car descent offers a wind-sheltered view of the winter Douro valley.\n\nAfternoon invites you into the warmth of the wine cellars. Heavy wooden doors block the chill while the Port wine warms you from within.\n\nIn the evening, early dusk bathes Cais de Gaia in golden hues before you retreat to a heated riverside restaurant."
+            "en": "Winter morning at Jardim do Morro is often crisp and clear; the low sun warms the yellow walls of the Serra do Pilar monastery.\n\nAt noon, a cool breeze blows across Ponte Luís, but the cable car descent offers a wind-sheltered view of the winter Douro valley.\n\nAfternoon invites you into the warmth of the wine cellars. Heavy wooden doors block the chill while the Port wine warms you from within.\n\nIn the evening, early dusk bathes Cais de Gaia in golden hues before you retreat to a heated riverside restaurant.",
+            "pt": "A manhã de inverno no Jardim do Morro é muitas vezes fresca e límpida; o sol baixo aquece as paredes amarelas do Mosteiro da Serra do Pilar.\n\nAo meio-dia, uma brisa fresca sopra pela Ponte Luís, mas a descida de teleférico oferece uma vista abrigada do vale do Douro no inverno.\n\nA tarde convida-o para o calor das caves de vinho. Portas pesadas de madeira bloqueiam o frio enquanto o vinho do Porto o aquece por dentro.\n\nÀ noite, o crepúsculo precoce banha o Cais de Gaia em tons dourados antes de se recolher num restaurante aquecido junto ao rio."
           },
           "stops": [
             {
@@ -488,7 +522,8 @@
                 "de": "Die Wintersonne ist hier am stärksten; ideal für ein spätes Frühstück.",
                 "hu": "Itt a legerősebb a téli napsütés; ideális egy késői reggelihez.",
                 "ro": "Soarele de iarnă e cel mai puternic aici; ideal pentru un mic dejun târziu.",
-                "en": "Winter sun is strongest here; ideal for a late outdoor breakfast."
+                "en": "Winter sun is strongest here; ideal for a late outdoor breakfast.",
+                "pt": "O sol de inverno é mais forte aqui; ideal para um pequeno-almoço tardio ao ar livre."
               }
             },
             {
@@ -497,7 +532,8 @@
                 "de": "Warme Kleidung nötig, der Vorplatz ist im Winter sehr windig.",
                 "hu": "Réteges öltözet kell, a kolostor előtti tér télen nagyon szeles.",
                 "ro": "Haine groase necesare, esplanada este foarte vântoasă iarna.",
-                "en": "Warm clothes needed; the esplanade is very windy in winter."
+                "en": "Warm clothes needed; the esplanade is very windy in winter.",
+                "pt": "É necessário roupa quente; a esplanada é muito ventosa no inverno."
               }
             },
             {
@@ -506,7 +542,8 @@
                 "de": "Genießen Sie das klare Licht für Fotos, bevor es um 17:30 Uhr dunkel wird.",
                 "hu": "Élvezze a tiszta fényeket a fotózáshoz, mielőtt 17:30-kor sötét lesz.",
                 "ro": "Profită de lumina clară pentru poze înainte de apusul de la 17:30.",
-                "en": "Enjoy the crisp light for photos before it gets dark at 17:30."
+                "en": "Enjoy the crisp light for photos before it gets dark at 17:30.",
+                "pt": "Aproveite a luz nítida para fotografias antes de escurecer às 17:30."
               }
             },
             {
@@ -515,7 +552,8 @@
                 "de": "Die Kabinen sind winddicht und bieten einen gemütlichen Abstieg.",
                 "hu": "A kabinok szélvédettek, barátságos lejutást biztosítanak a partra.",
                 "ro": "Cabinele sunt etanșe și oferă o coborâre plăcută spre mal.",
-                "en": "The cabins are windproof and offer a cozy descent to the riverbank."
+                "en": "The cabins are windproof and offer a cozy descent to the riverbank.",
+                "pt": "As cabines são à prova de vento e oferecem uma descida acolhedora até à margem do rio."
               }
             },
             {
@@ -524,7 +562,8 @@
                 "de": "Die Keller halten eine konstante, angenehme Temperatur um 14-16 Grad.",
                 "hu": "A pincék állandó, kellemes 14-16 fokos hőmérsékletet tartanak.",
                 "ro": "Cramele mențin o temperatură constantă și plăcută de 14-16 grade.",
-                "en": "The cellars maintain a constant, pleasant temperature of 14-16°C."
+                "en": "The cellars maintain a constant, pleasant temperature of 14-16°C.",
+                "pt": "As caves mantêm uma temperatura constante e agradável de 14–16°C."
               }
             },
             {
@@ -533,7 +572,8 @@
                 "de": "Suchen Sie Plätze im Inneren; viele Cafés haben keine Außenheizung.",
                 "hu": "Keressen benti asztalt; sok kávézónak nincs kültéri fűtése.",
                 "ro": "Căutați locuri în interior; multe cafenele nu au încălzire externă.",
-                "en": "Look for indoor seating; many cafes lack outdoor heaters."
+                "en": "Look for indoor seating; many cafes lack outdoor heaters.",
+                "pt": "Procure lugares interiores; muitos cafés não têm aquecedores exteriores."
               }
             }
           ],
@@ -565,6 +605,13 @@
               "Try 'Caldo Verde', a warming kale soup served almost everywhere in winter.",
               "The wine cellars are much less crowded in winter – enjoy the tranquility.",
               "Evenings in Gaia feel noticeably cooler than in central Porto."
+            ],
+            "pt": [
+              "O pôr do sol é por volta das 17:30 no inverno; planeie o Mosteiro da Serra do Pilar mais cedo.",
+              "Vista-se em camadas: ventoso cá fora mas ameno dentro das caves de vinho.",
+              "Experimente o 'Caldo Verde', uma sopa quente de couve servida quase em todo o lado no inverno.",
+              "As caves estão muito menos cheias no inverno – aproveite a tranquilidade.",
+              "As noites em Gaia parecem notavelmente mais frescas do que no centro do Porto."
             ]
           }
         }
@@ -583,7 +630,8 @@
             "de": "Capela do Senhor da Pedra",
             "hu": "Capela do Senhor da Pedra",
             "ro": "Capela do Senhor da Pedra",
-            "en": "Capela do Senhor da Pedra"
+            "en": "Capela do Senhor da Pedra",
+            "pt": "Capela do Senhor da Pedra"
           },
           "coords": [
             -8.6775,
@@ -599,7 +647,8 @@
             "de": "Überprüfen Sie die Gezeiten. Die Kapelle ist bei Flut am dramatischsten, aber bei Ebbe zugänglich.",
             "hu": "Ellenőrizd az árapályt. A kápolna dagálykor a legdrámaibb, de apálykor megközelíthető.",
             "ro": "Verificați mareele. Capela este cea mai dramatică la flux, dar accesibilă la reflux.",
-            "en": "Check the tides. The chapel is most dramatic at high tide, but accessible at low tide."
+            "en": "Check the tides. The chapel is most dramatic at high tide, but accessible at low tide.",
+            "pt": "Verifique as marés. A capela é mais dramática na preia-mar, mas acessível na baixa-mar."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Fahrt entlang der Küste",
             "hu": "Tekerés a part mentén",
             "ro": "Plimbare pe coastă",
-            "en": "Ride along the Coastline"
+            "en": "Ride along the Coastline",
+            "pt": "Passeio de bicicleta pela costa"
           },
           "coords": [
             -8.651,
@@ -623,7 +673,8 @@
             "de": "Es gibt einen speziellen Radweg, der einen Großteil der Strecke abdeckt. Genießen Sie die Meeresbrise!",
             "hu": "Az útvonal nagy részét külön kerékpárút fedi le. Élvezd a tengeri szellőt!",
             "ro": "Există o pistă de biciclete dedicată pe o mare parte a traseului. Bucurați-vă de briza mării!",
-            "en": "There is a dedicated cycle path covering much of the route. Enjoy the sea breeze!"
+            "en": "There is a dedicated cycle path covering much of the route. Enjoy the sea breeze!",
+            "pt": "Há uma ciclovia dedicada que cobre grande parte do percurso. Aproveite a brisa do mar!"
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Cais de Gaia",
             "hu": "Cais de Gaia",
             "ro": "Cais de Gaia",
-            "en": "Cais de Gaia"
+            "en": "Cais de Gaia",
+            "pt": "Cais de Gaia"
           },
           "coords": [
             -8.6152,
@@ -647,7 +699,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und erkunden Sie die Weinkeller und Geschäfte zu Fuß.",
             "hu": "Zárd le biztonságosan a biciklidet, és fedezd fel gyalog a borpincéket és üzleteket.",
             "ro": "Legați-vă bicicleta în siguranță și explorați cramele și magazinele pe jos.",
-            "en": "Lock your bike securely and explore the wine cellars and shops on foot."
+            "en": "Lock your bike securely and explore the wine cellars and shops on foot.",
+            "pt": "Tranque a bicicleta de forma segura e explore as caves e lojas a pé."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Mittagessen und Portweinprobe",
             "hu": "Ebéd és portói kóstoló",
             "ro": "Prânz și degustare de vin de Porto",
-            "en": "Lunch and Port Tasting"
+            "en": "Lunch and Port Tasting",
+            "pt": "Almoço e Prova de Porto"
           },
           "coords": [
             -8.614,
@@ -671,7 +725,8 @@
             "de": "Viele Keller bieten Speisenpaarungen an. Eine leichte Verkostung ist ratsam, wenn Sie weiter radeln.",
             "hu": "Sok pince kínál ételpárosítást. Könnyű kóstolás ajánlott, ha tovább biciklizel.",
             "ro": "Multe crame oferă asocieri culinare. O degustare ușoară este indicată dacă mai aveți de pedalat.",
-            "en": "Many cellars offer food pairings. A light tasting is advisable if you're cycling further."
+            "en": "Many cellars offer food pairings. A light tasting is advisable if you're cycling further.",
+            "pt": "Muitas caves oferecem harmonizações. Uma prova leve é aconselhável se for pedalar mais."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Jardim do Morro",
             "hu": "Jardim do Morro",
             "ro": "Jardim do Morro",
-            "en": "Jardim do Morro"
+            "en": "Jardim do Morro",
+            "pt": "Jardim do Morro"
           },
           "coords": [
             -8.6103,
@@ -695,7 +751,8 @@
             "de": "Der Anstieg ist eine Herausforderung, aber die Aussicht von oben ist die Belohnung.",
             "hu": "A hegymászás kihívást jelent, de a fenti kilátás a jutalom.",
             "ro": "Urcușul este o provocare, dar priveliștea de sus este recompensa.",
-            "en": "The climb is challenging, but the view from the top is the reward."
+            "en": "The climb is challenging, but the view from the top is the reward.",
+            "pt": "A subida é desafiante, mas a vista do topo é a recompensa."
           }
         },
         {
@@ -703,7 +760,8 @@
             "de": "Überquerung der Ponte Dom Luís I",
             "hu": "Átkelés a Dom Luís I hídon",
             "ro": "Traversarea podului Dom Luís I",
-            "en": "Crossing the Ponte Dom Luís I"
+            "en": "Crossing the Ponte Dom Luís I",
+            "pt": "Travessia da Ponte Dom Luís I"
           },
           "coords": [
             -8.6096,
@@ -719,7 +777,8 @@
             "de": "Radfahrer sollten auf dem Oberdeck vorsichtig sein und sich den Weg mit Fußgängern und der Metro teilen.",
             "hu": "A kerékpárosoknak óvatosnak kell lenniük a felső szinten, osztozva az úton a gyalogosokkal és a metróval.",
             "ro": "Bicicliștii ar trebui să fie precauți pe puntea superioară, împărțind calea cu pietonii și metroul.",
-            "en": "Cyclists should be cautious on the upper deck, sharing the path with pedestrians and the metro."
+            "en": "Cyclists should be cautious on the upper deck, sharing the path with pedestrians and the metro.",
+            "pt": "Os ciclistas devem ter cuidado no tabuleiro superior, partilhando o caminho com peões e o metro."
           }
         }
       ],
@@ -727,7 +786,8 @@
         "de": "Ihr Radabenteuer beginnt an der dramatischen Capela do Senhor da Pedra, die auf Felsen am Meer thront. Atmen Sie die salzige Luft ein, bevor Sie sich auf eine belebende Fahrt Richtung Norden entlang der Küste begeben. Der spezielle Radweg macht die Fahrt sanft und bietet ständige Ausblicke auf den Atlantik.\n\nWenn Sie sich dem Fluss Douro nähern, führt Sie der Weg landeinwärts zum berühmten Cais de Gaia. Hier tauschen Sie das Meeresrauschen gegen die geschäftige Energie des Flusses. Schließen Sie Ihr Fahrrad ab und nehmen Sie sich Zeit, das Herz der Portweinindustrie zu erkunden. Ein Mittagessen mit Weinprobe ist ein Muss, aber denken Sie daran, dass Sie noch eine Fahrt vor sich haben!\n\nNach dem Mittagessen steht die Herausforderung des Tages an: der Aufstieg zum Jardim do Morro. Es ist ein steiler Anstieg, aber die Belohnung ist eine der besten Aussichten in der ganzen Gegend. Verschnaufen Sie, machen Sie Fotos und genießen Sie das Panorama von Porto und der Ponte Dom Luís I.\n\nBeenden Sie Ihre Tour mit einer unvergesslichen Fahrt über die obere Ebene der Ponte Dom Luís I nach Porto. Das Gefühl, zwischen den beiden Städten zu schweben, mit dem Fluss weit unten, ist ein perfekter Abschluss für einen Tag voller Erkundungen. Von dort aus können Sie entweder Porto weiter erkunden oder zurück nach Gaia fahren, erfüllt von den Sehenswürdigkeiten und der Anstrengung.",
         "hu": "Kerékpáros kalandod a drámai Capela do Senhor da Pedra-nál kezdődik, amely a tengerparti sziklákon áll. Lélegezd be a sós levegőt, mielőtt egy élénkítő, észak felé tartó útra indulsz a part mentén. A kijelölt kerékpárút simává teszi az utat, és folyamatos kilátást nyújt az Atlanti-óceánra.\n\nAhogy közeledsz a Douro folyóhoz, az ösvény a szárazföld belseje felé, a híres Cais de Gaia-hoz vezet. Itt a tenger hangját a folyó nyüzsgő energiája váltja fel. Zárd le a biciklidet, és szánj időt a portói boripar szívének felfedezésére. Egy ebéddel egybekötött borkóstoló kötelező, de ne feledd, még van hátra egy út!\n\nA délutáni ebéd után jön a nap kihívása: a feljutás a Jardim do Morro-ba. Meredek emelkedő, de a jutalom az egyik legjobb kilátás az egész környéken. Fújd ki magad, készíts képeket, és élvezd a Porto és a Dom Luís I híd panorámáját.\n\nZárd a túrát egy felejthetetlen utazással a Dom Luís I híd felső szintjén át Portóba. Az érzés, ahogy a két város között lebegsz, a folyóval mélyen alattad, tökéletes befejezése egy felfedezéssel teli napnak. Onnan vagy tovább fedezheted fel Portót, vagy visszatérhetsz Gaiába, tele a látnivalókkal és az erőfeszítéssel.",
         "ro": "Aventura ta pe bicicletă începe la dramatica Capela do Senhor da Pedra, cocoțată pe stâncile de la malul mării. Inspiră aerul sărat înainte de a porni într-o plimbare înviorătoare spre nord, de-a lungul coastei. Pista dedicată pentru biciclete face călătoria lină, cu priveliști constante ale Atlanticului.\n\nPe măsură ce te apropii de râul Douro, poteca te duce spre interior, spre faimosul Cais de Gaia. Aici, schimbi sunetul mării cu energia vibrantă a râului. Încuie-ți bicicleta și ia-ți timp să explorezi inima industriei vinului de Porto. Un prânz cu degustare de vinuri este obligatoriu, dar amintește-ți că mai ai de pedalat!\n\nDupă prânz, urmează provocarea zilei: urcarea la Jardim do Morro. Este o urcare abruptă, dar recompensa este una dintre cele mai bune priveliști din întreaga zonă. Trage-ți sufletul, fă fotografii și bucură-te de panorama Porto-ului și a podului Dom Luís I.\n\nÎncheie-ți turul cu o plimbare memorabilă peste puntea superioară a podului Dom Luís I spre Porto. Senzația de a pluti între cele două orașe, cu râul mult dedesubt, este un final perfect pentru o zi de explorare. De acolo, poți explora mai departe Porto sau te poți întoarce în Gaia, împlinit de priveliști și efort.",
-        "en": "Your cycling adventure starts at the dramatic Capela do Senhor da Pedra, perched on rocks by the sea. Breathe in the salt air before embarking on an invigorating ride north along the coastline. The dedicated cycle path makes for a smooth journey with constant Atlantic views.\n\nAs you approach the Douro river, the path leads you inland to the famous Cais de Gaia. Here, you trade the sound of the sea for the bustling energy of the river. Lock up your bike and take time to explore the heart of the Port wine industry. A lunch with a wine tasting is a must, but remember you still have cycling to do!\n\nPost-lunch, it's time for the day's challenge: the climb up to Jardim do Morro. It's a steep ascent, but the reward is one of the best views in the whole area. Catch your breath, take photos, and enjoy the panorama of Porto and the Ponte Dom Luís I.\n\nFinish your tour with a memorable ride across the upper deck of the Ponte Dom Luís I into Porto. The feeling of soaring between the two cities with the river far below is a perfect end to a day of exploration. From there, you can either explore Porto further or head back to Gaia, fulfilled by the sights and the effort."
+        "en": "Your cycling adventure starts at the dramatic Capela do Senhor da Pedra, perched on rocks by the sea. Breathe in the salt air before embarking on an invigorating ride north along the coastline. The dedicated cycle path makes for a smooth journey with constant Atlantic views.\n\nAs you approach the Douro river, the path leads you inland to the famous Cais de Gaia. Here, you trade the sound of the sea for the bustling energy of the river. Lock up your bike and take time to explore the heart of the Port wine industry. A lunch with a wine tasting is a must, but remember you still have cycling to do!\n\nPost-lunch, it's time for the day's challenge: the climb up to Jardim do Morro. It's a steep ascent, but the reward is one of the best views in the whole area. Catch your breath, take photos, and enjoy the panorama of Porto and the Ponte Dom Luís I.\n\nFinish your tour with a memorable ride across the upper deck of the Ponte Dom Luís I into Porto. The feeling of soaring between the two cities with the river far below is a perfect end to a day of exploration. From there, you can either explore Porto further or head back to Gaia, fulfilled by the sights and the effort.",
+        "pt": "A sua aventura de bicicleta começa na dramática Capela do Senhor da Pedra, empoleirada nas rochas junto ao mar. Respire o ar salgado antes de partir numa revigorante viagem para norte ao longo da costa. A ciclovia dedicada torna a viagem suave com vistas constantes do Atlântico.\n\nAo aproximar-se do rio Douro, o caminho leva-o terra adentro até ao famoso Cais de Gaia. Aqui troca o som do mar pela energia agitada do rio. Estacione a sua bicicleta e reserve tempo para explorar o coração da indústria do vinho do Porto. Um almoço com prova é obrigatório, mas lembre-se de que ainda tem de pedalar!\n\nDepois do almoço, é hora do desafio do dia: a subida até ao Jardim do Morro. É uma subida íngreme, mas a recompensa é uma das melhores vistas de toda a área. Recupere o fôlego, tire fotografias e aprecie o panorama do Porto e da Ponte Dom Luís I.\n\nTermine o seu passeio com uma memorável travessia pelo tabuleiro superior da Ponte Dom Luís I rumo ao Porto. A sensação de sobrevoar entre as duas cidades com o rio bem lá em baixo é um final perfeito para um dia de exploração. A partir daí, pode explorar mais o Porto ou regressar a Gaia, satisfeito com as vistas e o esforço."
       },
       "gastro_picks": {
         "de": [
@@ -939,6 +999,12 @@
           "Bring plenty of water and sunscreen, especially for the coastal ride.",
           "Be prepared for hills, particularly when transitioning from the coast to the river and climbing to Jardim do Morro.",
           "A lightweight lock is essential for securing your bike during stops."
+        ],
+        "pt": [
+          "Verifique a bicicleta antes de partir, especialmente os travões e os pneus.",
+          "Traga bastante água e protetor solar, especialmente para o percurso costeiro.",
+          "Esteja preparado para colinas, especialmente ao transitar da costa para o rio e ao subir até ao Jardim do Morro.",
+          "Um cadeado leve é essencial para prender a bicicleta durante as paragens."
         ]
       },
       "variants": {
@@ -947,7 +1013,8 @@
             "de": "Der Vormittag an der Kapelle Senhor da Pedra ist stürmisch; die Wellen peitschen gegen die Felsen unter dem Regen.\n\nMittags führt die Fahrt entlang der Küste gegen den Wind, wobei die salzige Gischt sich mit dem Regen vermischt.\n\nNachmittags erreichen Sie den Cais de Gaia. Die Fahrräder werden geparkt, während Sie sich bei einer langen Weinprobe aufwärmen.\n\nAbends beenden Sie die Tour an der Ponte Luís, wo die Lichter der Stadt im nassen Asphalt der Brücke funkeln.",
             "hu": "A délelőtt a Senhor da Pedra kápolnánál viharos; a hullámok az esőben a szikláknak csapódnak.\n\nDélben a parti út a széllel szemben halad, ahol a sós tengeri pára keveredik az esővel.\n\nDélután megérkezik a Cais de Gaia-hoz. A bicikliket leparkoljuk, miközben egy hosszú borkóstolóval melegszünk fel.\n\nEste a Luís hídnál zárul a túra, ahol a város fényei megcsillannak a híd vizes aszfaltján.",
             "ro": "Dimineața la capela Senhor da Pedra este furtunoasă; valurile se sparg de stânci sub ploaia deasă.\n\nLa prânz, traseul de coastă continuă împotriva vântului, unde vaporii sărați se amestecă cu ploaia.\n\nDupă-amiaza ajungeți la Cais de Gaia. Bicicletele sunt parcate în timp ce vă încălziți la o degustare lungă.\n\nSeara încheiați turul la podul Luís, unde luminile orașului strălucesc în asfaltul ud al podului.",
-            "en": "Morning at Capela do Senhor da Pedra is stormy; waves crash against the rocks under the driving rain.\n\nAt noon, the coastal ride continues against the wind, where salty spray mixes with the falling rain.\n\nAfternoon brings you to Cais de Gaia. Bikes are parked while you warm up with an extended wine tasting session.\n\nIn the evening, finish the tour at Ponte Luís where city lights sparkle in the wet asphalt of the bridge deck."
+            "en": "Morning at Capela do Senhor da Pedra is stormy; waves crash against the rocks under the driving rain.\n\nAt noon, the coastal ride continues against the wind, where salty spray mixes with the falling rain.\n\nAfternoon brings you to Cais de Gaia. Bikes are parked while you warm up with an extended wine tasting session.\n\nIn the evening, finish the tour at Ponte Luís where city lights sparkle in the wet asphalt of the bridge deck.",
+            "pt": "Manhã na Capela do Senhor da Pedra é tempestuosa; as vagas batem nas rochas sob chuva intensa.\n\nAo meio-dia, o passeio costeiro continua contra o vento, onde a bruma salgada se mistura com a chuva.\n\nA tarde traz-no ao Cais de Gaia. As bicicletas ficam estacionadas enquanto se aquece com uma longa sessão de provas de vinho.\n\nAo anoitecer, finalize o passeio na Ponte Luís onde as luzes da cidade brilham no alcatrão molhado do tabuleiro da ponte."
           },
           "stops": [
             {
@@ -956,7 +1023,8 @@
                 "de": "Der Weg zur Kapelle kann bei Flut und Regen sehr rutschig sein.",
                 "hu": "A kápolnához vezető út dagálykor és esőben nagyon csúszós lehet.",
                 "ro": "Drumul spre capelă poate fi foarte alunecos la flux și ploaie.",
-                "en": "The path to the chapel can be very slippery during high tide and rain."
+                "en": "The path to the chapel can be very slippery during high tide and rain.",
+                "pt": "O caminho até à capela pode ficar muito escorregadio durante a preia-mar e na chuva."
               }
             },
             {
@@ -965,7 +1033,8 @@
                 "de": "Achten Sie auf Seitenwind; halten Sie den Lenker fest umschlossen.",
                 "hu": "Vigyázzon az oldalszélre; fogja erősen a kormányt a parti úton.",
                 "ro": "Atenție la vântul lateral; țineți bine ghidonul pe drumul de coastă.",
-                "en": "Watch out for crosswinds; keep a firm grip on the handlebars."
+                "en": "Watch out for crosswinds; keep a firm grip on the handlebars.",
+                "pt": "Cuidado com rajadas cruzadas; mantenha uma pega firme no guiador."
               }
             },
             {
@@ -974,7 +1043,8 @@
                 "de": "Nutzen Sie die Fahrradständer nahe den Kellereingängen für kurzen Fußweg.",
                 "hu": "Használja a pincebejáratok közeli tárolókat a rövid séta érdekében.",
                 "ro": "Folosiți suporturile de biciclete de lângă crame pentru acces rapid.",
-                "en": "Use the bike racks near cellar entrances for quick indoor access."
+                "en": "Use the bike racks near cellar entrances for quick indoor access.",
+                "pt": "Use os parques de bicicletas junto às entradas das caves para acesso rápido ao interior."
               }
             },
             {
@@ -983,7 +1053,8 @@
                 "de": "Ideal, um nasse Kleidung zu trocknen, während Sie drinnen speisen.",
                 "hu": "Ideális alkalom a ruhák szárítására, miközben bent ebédel.",
                 "ro": "Ideal pentru a usca hainele în timp ce luați prânzul în interior.",
-                "en": "Perfect time to dry off clothes while dining inside a cozy cellar."
+                "en": "Perfect time to dry off clothes while dining inside a cozy cellar.",
+                "pt": "Ótimo momento para secar a roupa enquanto janta dentro de uma cave acolhedora."
               }
             },
             {
@@ -992,7 +1063,8 @@
                 "de": "Das Befahren der Rasenflächen ist bei Nässe gefährlich und untersagt.",
                 "hu": "A füves területeken való biciklizés vizesen veszélyes és tilos.",
                 "ro": "Mersul pe iarbă este periculos când e ud și este interzis.",
-                "en": "Cycling on grass is dangerous when wet and generally prohibited."
+                "en": "Cycling on grass is dangerous when wet and generally prohibited.",
+                "pt": "Pedalar na relva é perigoso quando molhada e geralmente proibido."
               }
             },
             {
@@ -1001,7 +1073,8 @@
                 "de": "Fahren Sie langsam; die Fugen der Brücke sind bei Regen tückisch.",
                 "hu": "Hajtson lassan; a híd illesztései esőben csalókák lehetnek.",
                 "ro": "Conduceți încet; rosturile podului sunt înșelătoare pe ploaie.",
-                "en": "Ride slowly; the bridge joints are treacherous in the rain."
+                "en": "Ride slowly; the bridge joints are treacherous in the rain.",
+                "pt": "Pedale devagar; as juntas da ponte são traiçoeiras na chuva."
               }
             }
           ],
@@ -1033,6 +1106,13 @@
               "Brake early; rim brakes have a delayed response on wet wheels.",
               "The riverside route is flat but wind can make the ride strenuous.",
               "Bike rentals in Gaia often offer waterproof panniers for your gear."
+            ],
+            "pt": [
+              "Para-lamas são imprescindíveis para manter o respingo longe das costas.",
+              "Evite os passadiços de madeira ao longo da praia na chuva; tornam-se escorregadios como gelo.",
+              "Trave cedo; travões de aro têm resposta retardada em rodas molhadas.",
+              "O percurso junto ao rio é plano, mas o vento pode tornar a viagem cansativa.",
+              "Os alugueres de bicicletas em Gaia frequentemente oferecem alforges impermeáveis para o seu equipamento."
             ]
           }
         },
@@ -1041,7 +1121,8 @@
             "de": "Der Wintermorgen bietet klare Sicht auf den Atlantik bei Senhor da Pedra, auch wenn die Luft schneidend kalt ist.\n\nMittags wärmt die Bewegung bei der Fahrt entlang der Küste, während die Wintersonne tief über dem Horizont steht.\n\nNachmittags am Cais de Gaia genießen Sie die Ruhe der Nebensaison, bevor Sie sich für eine Weinprobe ins Innere begeben.\n\nAbends beenden Sie die Tour früh, um den spektakulären Sonnenuntergang über dem Douro von der Brücke aus zu erleben.",
             "hu": "A téli reggel tiszta kilátást nyújt az Atlanti-óceánra a Senhor da Pedra-nál, még ha a levegő csípős is.\n\nDélben a mozgás felmelegíti a parti úton, miközben a téli nap alacsonyan jár a horizont felett.\n\nDélután a Cais de Gaia-nál élvezze az utószezon nyugalmát, mielőtt betérne egy borkóstolóra.\n\nEste fejezze be korábban a túrát, hogy elcsípje a Douro feletti látványos naplementét a hídról.",
             "ro": "Dimineața de iarnă oferă o vedere clară spre Atlantic la Senhor da Pedra, chiar dacă aerul este tăios.\n\nLa prânz, mișcarea vă încălzește pe drumul de coastă, în timp ce soarele de iarnă stă jos la orizont.\n\nDupă-amiaza la Cais de Gaia profitați de liniștea din extrasezon înainte de a intra la o degustare.\n\nSeara încheiați turul devreme pentru a prinde apusul spectaculos peste Douro de pe pod.",
-            "en": "Winter morning offers clear Atlantic views at Senhor da Pedra, even if the air is biting cold.\n\nAt noon, the physical effort warms you up during the coastal ride as the winter sun hangs low.\n\nIn the afternoon at Cais de Gaia, enjoy the off-season peace before heading inside for a wine tasting.\n\nEvening comes early; finish the tour to catch the spectacular sunset over the Douro from the bridge."
+            "en": "Winter morning offers clear Atlantic views at Senhor da Pedra, even if the air is biting cold.\n\nAt noon, the physical effort warms you up during the coastal ride as the winter sun hangs low.\n\nIn the afternoon at Cais de Gaia, enjoy the off-season peace before heading inside for a wine tasting.\n\nEvening comes early; finish the tour to catch the spectacular sunset over the Douro from the bridge.",
+            "pt": "A manhã de inverno oferece vistas atlânticas limpas em Senhor da Pedra, mesmo que o ar seja cortante.\n\nAo meio-dia, o esforço físico aquece-o durante o passeio costeiro enquanto o sol de inverno se mantém baixo.\n\nÀ tarde no Cais de Gaia, desfrute da paz da época baixa antes de entrar para uma prova de vinho.\n\nA noite chega cedo; termine o passeio para apanhar o espetacular pôr do sol sobre o Douro a partir da ponte."
           },
           "stops": [
             {
@@ -1050,7 +1131,8 @@
                 "de": "Der Strandwind ist im Winter sehr kalt; Handschuhe einplanen.",
                 "hu": "A tengerparti szél télen nagyon hideg; hozzon kesztyűt.",
                 "ro": "Vântul de pe plajă e foarte rece iarna; folosiți mănuși.",
-                "en": "The beach wind is very cold in winter; bring warm gloves."
+                "en": "The beach wind is very cold in winter; bring warm gloves.",
+                "pt": "O vento na praia é muito frio no inverno; traga luvas quentes."
               }
             },
             {
@@ -1059,7 +1141,8 @@
                 "de": "Die Wintersonne kann tief blenden; Sonnenbrille ist hilfreich.",
                 "hu": "A téli nap alacsonyan jár és vakíthat; a napszemüveg hasznos.",
                 "ro": "Soarele de iarnă poate fi orbitor; ochelarii de soare sunt utili.",
-                "en": "The winter sun hangs low and can be blinding; sunglasses help."
+                "en": "The winter sun hangs low and can be blinding; sunglasses help.",
+                "pt": "O sol de inverno está baixo e pode ser ofuscante; óculos de sol ajudam."
               }
             },
             {
@@ -1068,7 +1151,8 @@
                 "de": "Weniger Fußgänger als im Sommer machen das Radfahren hier entspannter.",
                 "hu": "A kevesebb gyalogos miatt a biciklizés itt télen sokkal nyugodtabb.",
                 "ro": "Mai puțini pietoni decât vara fac mersul cu bicicleta mai relaxant.",
-                "en": "Fewer pedestrians than in summer make cycling here much more relaxed."
+                "en": "Fewer pedestrians than in summer make cycling here much more relaxed.",
+                "pt": "Menos peões do que no verão tornam o ciclismo aqui muito mais relaxado."
               }
             },
             {
@@ -1077,7 +1161,8 @@
                 "de": "Genießen Sie die Wärme im Inneren nach der kühlen Küstenfahrt.",
                 "hu": "Élvezze a benti meleget a hűvös tengerparti tekerés után.",
                 "ro": "Bucurați-vă de căldura din interior după tura răcoroasă de coastă.",
-                "en": "Enjoy the indoor warmth after the chilly coastal ride."
+                "en": "Enjoy the indoor warmth after the chilly coastal ride.",
+                "pt": "Desfrute do calor interior após o fresco passeio costeiro."
               }
             },
             {
@@ -1086,7 +1171,8 @@
                 "de": "Ideal für ein Foto im goldenen Winterlicht kurz vor Sonnenuntergang.",
                 "hu": "Ideális egy fotóhoz az aranyló téli fényben közvetlenül naplemente előtt.",
                 "ro": "Ideal pentru o poză în lumina aurie de iarnă înainte de apus.",
-                "en": "Perfect for a photo in the golden winter light just before sunset."
+                "en": "Perfect for a photo in the golden winter light just before sunset.",
+                "pt": "Perfeito para uma fotografia na luz dourada de inverno pouco antes do pôr do sol."
               }
             },
             {
@@ -1095,7 +1181,8 @@
                 "de": "Kleiden Sie sich winddicht für die Überquerung am späten Nachmittag.",
                 "hu": "Öltözzön szélállóan a késő délutáni hídátkeléshez.",
                 "ro": "Îmbrăcați-vă cu haine rezistente la vânt pentru traversarea de seară.",
-                "en": "Wear windproof clothing for the late afternoon bridge crossing."
+                "en": "Wear windproof clothing for the late afternoon bridge crossing.",
+                "pt": "Use roupa corta-vento para a travessia da ponte ao fim da tarde."
               }
             }
           ],
@@ -1127,6 +1214,13 @@
               "The granite rocks on the coast don't hold heat in winter – stay active.",
               "A hot 'Galão' (latte) mid-way works wonders against the chill.",
               "Avoid late rides directly by the water where humidity makes it feel colder."
+            ],
+            "pt": [
+              "Vista roupa térmica; a sensação térmica do vento costeiro é significativa enquanto pedala.",
+              "Certifique-se de que as luzes da bicicleta funcionam, pois o pôr do sol é por volta das 17:30.",
+              "As rochas graníticas da costa não retêm calor no inverno – mantenha-se em movimento.",
+              "Um 'Galão' quente a meio do caminho faz maravilhas contra o frio.",
+              "Evite passeios tardios mesmo junto à água onde a humidade torna a sensação térmica mais fria."
             ]
           }
         }
@@ -1145,7 +1239,8 @@
             "de": "Zoo Santo Inácio",
             "hu": "Zoo Santo Inácio",
             "ro": "Grădina Zoologică Santo Inácio",
-            "en": "Zoo Santo Inácio"
+            "en": "Zoo Santo Inácio",
+            "pt": "Zoo Santo Inácio"
           },
           "coords": [
             -8.543,
@@ -1161,7 +1256,8 @@
             "de": "Planen Sie den Besuch um die Fütterungszeiten, um die Tiere am aktivsten zu sehen.",
             "hu": "Tervezze a látogatást az etetési idők köré, hogy a legaktívabb állapotukban láthassa az állatokat.",
             "ro": "Planificați-vă vizita în jurul orelor de hrănire pentru a vedea animalele cele mai active.",
-            "en": "Plan your visit around the feeding times to see the animals at their most active."
+            "en": "Plan your visit around the feeding times to see the animals at their most active.",
+            "pt": "Planeie a sua visita em torno dos horários de alimentação para ver os animais mais ativos."
           }
         },
         {
@@ -1169,7 +1265,8 @@
             "de": "Capela do Senhor da Pedra",
             "hu": "Capela do Senhor da Pedra",
             "ro": "Capela do Senhor da Pedra",
-            "en": "Capela do Senhor da Pedra"
+            "en": "Capela do Senhor da Pedra",
+            "pt": "Capela do Senhor da Pedra"
           },
           "coords": [
             -8.6775,
@@ -1185,7 +1282,8 @@
             "de": "Parken Sie in der Nähe des Strandes und genießen Sie einen kurzen Spaziergang zur Kapelle. Ideal für einen Mittagsstopp.",
             "hu": "Parkolj a strand közelében, és tegyél egy rövid sétát a kápolnához. Ideális egy ebédmegállóhoz.",
             "ro": "Parcați lângă plajă și bucurați-vă de o scurtă plimbare până la capelă. Ideal pentru o oprire de prânz.",
-            "en": "Park near the beach and enjoy a short walk to the chapel. Great for a midday stop."
+            "en": "Park near the beach and enjoy a short walk to the chapel. Great for a midday stop.",
+            "pt": "Estacione perto da praia e desfrute de uma curta caminhada até à capela. Excelente para uma paragem a meio do dia."
           }
         },
         {
@@ -1193,7 +1291,8 @@
             "de": "Mittagessen in Miramar",
             "hu": "Ebéd Miramarban",
             "ro": "Prânz în Miramar",
-            "en": "Lunch in Miramar"
+            "en": "Lunch in Miramar",
+            "pt": "Almoço em Miramar"
           },
           "coords": [
             -8.675,
@@ -1209,7 +1308,8 @@
             "de": "Wählen Sie ein Restaurant mit Meerblick für frische Meeresfrüchte.",
             "hu": "Válassz egy tengerre néző éttermet friss tenger gyümölcseiért.",
             "ro": "Alegeți un restaurant cu vedere la mare pentru fructe de mare proaspete.",
-            "en": "Choose a restaurant with a sea view for some fresh seafood."
+            "en": "Choose a restaurant with a sea view for some fresh seafood.",
+            "pt": "Escolha um restaurante com vista para o mar para saborear marisco fresco."
           }
         },
         {
@@ -1217,7 +1317,8 @@
             "de": "Cais de Gaia - Parken",
             "hu": "Cais de Gaia - Parkolás",
             "ro": "Cais de Gaia - Parcare",
-            "en": "Cais de Gaia - Parking"
+            "en": "Cais de Gaia - Parking",
+            "pt": "Cais de Gaia - Estacionamento"
           },
           "coords": [
             -8.613,
@@ -1233,7 +1334,8 @@
             "de": "Parken Sie in einer der Tiefgaragen und erkunden Sie den Rest des Tages zu Fuß.",
             "hu": "Parkolj az egyik mélygarázsban, és a nap hátralévő részében gyalog fedezd fel a környéket.",
             "ro": "Parcați într-unul dintre parcajele subterane și explorați pe jos pentru restul zilei.",
-            "en": "Park in one of the underground garages and explore on foot for the rest of the day."
+            "en": "Park in one of the underground garages and explore on foot for the rest of the day.",
+            "pt": "Estacione numa das garagens subterrâneas e explore a pé durante o resto do dia."
           }
         },
         {
@@ -1241,7 +1343,8 @@
             "de": "Portweinkeller-Tour",
             "hu": "Portói Pince Túra",
             "ro": "Tur la Crama de Vin de Porto",
-            "en": "Port Wine Cellar Tour"
+            "en": "Port Wine Cellar Tour",
+            "pt": "Visita às caves de vinho do Porto"
           },
           "coords": [
             -8.6152,
@@ -1257,7 +1360,8 @@
             "de": "Wählen Sie eine Tour, die eine Verkostung verschiedener Weinsorten beinhaltet: Ruby, Tawny und White.",
             "hu": "Válassz olyan túrát, amely különböző bortípusok kóstolását is magában foglalja: Ruby, Tawny és White.",
             "ro": "Alegeți un tur care include o degustare a diferitelor stiluri: Ruby, Tawny și White.",
-            "en": "Choose a tour that includes a tasting of different styles: Ruby, Tawny, and White."
+            "en": "Choose a tour that includes a tasting of different styles: Ruby, Tawny, and White.",
+            "pt": "Escolha uma visita que inclua prova de estilos diferentes: Ruby, Tawny e Branco."
           }
         },
         {
@@ -1265,7 +1369,8 @@
             "de": "Teleférico de Gaia & Jardim do Morro",
             "hu": "Teleférico de Gaia & Jardim do Morro",
             "ro": "Teleférico de Gaia & Jardim do Morro",
-            "en": "Teleférico de Gaia & Jardim do Morro"
+            "en": "Teleférico de Gaia & Jardim do Morro",
+            "pt": "Teleférico de Gaia & Jardim do Morro"
           },
           "coords": [
             -8.6117,
@@ -1281,7 +1386,8 @@
             "de": "Nehmen Sie die Seilbahn nach oben, um Energie für den Sonnenuntergang im Garten zu sparen.",
             "hu": "Menj fel a drótkötélpályával, hogy energiát spórolj a kerti naplementéhez.",
             "ro": "Luați telecabina în sus pentru a economisi energie pentru apusul din grădină.",
-            "en": "Take the cable car up to save your energy for watching the sunset in the garden."
+            "en": "Take the cable car up to save your energy for watching the sunset in the garden.",
+            "pt": "Apanhe o teleférico para poupar energia e apreciar o pôr do sol no jardim."
           }
         },
         {
@@ -1289,7 +1395,8 @@
             "de": "Mosteiro da Serra do Pilar",
             "hu": "Mosteiro da Serra do Pilar",
             "ro": "Mănăstirea Serra do Pilar",
-            "en": "Mosteiro da Serra do Pilar"
+            "en": "Mosteiro da Serra do Pilar",
+            "pt": "Mosteiro da Serra do Pilar"
           },
           "coords": [
             -8.6089,
@@ -1305,7 +1412,8 @@
             "de": "Die Außenansicht und die Aussichtsplattform sind auch dann beeindruckend, wenn Sie nicht hineingehen.",
             "hu": "A külső és a kilátóterasz akkor is lenyűgöző, ha nem mész be.",
             "ro": "Exteriorul și platforma de vizionare sunt impresionante chiar dacă nu intrați înăuntru.",
-            "en": "The exterior and viewing platform are impressive even if you don't go inside."
+            "en": "The exterior and viewing platform are impressive even if you don't go inside.",
+            "pt": "O exterior e o miradouro são impressionantes mesmo que não entre."
           }
         }
       ],
@@ -1313,7 +1421,8 @@
         "de": "Ihr Autotag beginnt mit einem familienfreundlichen Ausflug zum Zoo Santo Inácio, einem grünen Heiligtum etwas außerhalb des Stadtzentrums. Verbringen Sie den Morgen damit, Tiere aus der ganzen Welt zu entdecken. Dies ist eine entspannte Art, den Tag zu beginnen, weit weg von der Hektik der Stadt.\n\nFahren Sie von der Tierwelt zur Küste zur ikonischen Capela do Senhor da Pedra. Parken Sie Ihr Auto und spazieren Sie zu dieser einzigartigen Kapelle, die auf den Felsen am Meer thront. Genießen Sie ein Mittagessen mit frischen Meeresfrüchten in einem der Restaurants in Miramar, bevor Sie zum pulsierenden Herzen von Gaia aufbrechen.\n\nAm Nachmittag parken Sie Ihr Auto in einem der Parkhäuser am Cais de Gaia und erkunden den Rest des Tages zu Fuß. Tauchen Sie in die Welt des Portweins ein bei einer Kellertour mit Verkostung. Spüren Sie die Geschichte in den kühlen, alten Kellern. Nehmen Sie anschließend die Seilbahn hinauf zum Jardim do Morro.\n\nWenn der Abend naht, ist der Jardim do Morro der perfekte Ort. Die Aussicht bei Sonnenuntergang ist legendär. Runden Sie den Tag mit einem kurzen Spaziergang zum Mosteiro da Serra do Pilar ab, dessen runde Kirche und Kloster im goldenen Licht wunderschön aussehen. Sie haben das Beste aus beiden Welten erlebt: die abgelegenen Perlen und das geschäftige Zentrum von Gaia.",
         "hu": "Autós napod egy családbarát kirándulással kezdődik a Zoo Santo Inácio-ban, egy zöldellő menedékhelyen, kissé a városközponton kívül. Töltsd a délelőttöt a világ minden tájáról származó állatok felfedezésével. Ez egy nyugodt módja a nap kezdésének, távol a városi nyüzsgéstől.\n\nAz állatvilágból vezess a partra, az ikonikus Capela do Senhor da Pedra-hoz. Parkold le az autódat, és sétálj el ehhez az egyedülálló kápolnához, amely a tengerparti sziklákon áll. Fogyassz el egy friss tengeri herkentyűkből álló ebédet Miramar egyik éttermében, mielőtt Gaia vibráló szívébe indulsz.\n\nDélután parkolj le a Cais de Gaia egyik parkolóházában, és a nap hátralévő részét gyalog fedezd fel. Merülj el a portói bor világában egy pincetúrával és kóstolóval. Érezd a történelmet a hűvös, öreg pincékben. Ezután menj fel a drótkötélpályával a Jardim do Morro-ba.\n\nAhogy közeledik az este, a Jardim do Morro a tökéletes helyszín. A naplementés kilátás legendás. Zárd a napot egy rövid sétával a Mosteiro da Serra do Pilar-hoz, amelynek kerek temploma és kolostora gyönyörűen fest az arany fényben. Mindkét világból a legjobbat tapasztaltad meg: Gaia távoli gyöngyszemeit és nyüzsgő központját.",
         "ro": "Ziua ta cu mașina începe cu o excursie prietenoasă cu familia la Grădina Zoologică Santo Inácio, un sanctuar verde chiar în afara centrului orașului. Petreceți dimineața descoperind animale din întreaga lume. Este un mod relaxant de a începe ziua, departe de agitația orașului.\n\nDe la faună sălbatică, conduceți spre coastă până la iconica Capela do Senhor da Pedra. Parcați mașina și faceți o plimbare până la această capelă unică, cocoțată pe stâncile de la malul mării. Bucurați-vă de un prânz cu fructe de mare proaspete la unul dintre restaurantele din Miramar înainte de a vă îndrepta spre inima vibrantă a Gaia.\n\nDupă-amiaza, parcați mașina într-unul dintre garajele de pe Cais de Gaia și explorați pe jos pentru restul zilei. Scufundați-vă în lumea vinului de Porto cu un tur al cramei și o degustare. Simțiți istoria în pivnițele răcoroase și vechi. Apoi, luați telecabina până la Jardim do Morro.\n\nPe măsură ce se apropie seara, Jardim do Morro este locul perfect. Priveliștea la apus este legendară. Încheiați ziua cu o scurtă plimbare până la Mănăstirea Serra do Pilar, a cărei biserică rotundă și mănăstire arată frumos în lumina aurie. Ați experimentat ce e mai bun din ambele lumi: bijuteriile îndepărtate și centrul plin de viață al Gaia.",
-        "en": "Your car day begins with a family-friendly trip to Zoo Santo Inácio, a green sanctuary just outside the city center. Spend the morning discovering animals from around the globe. This is a relaxed way to start the day, away from the city bustle.\n\nFrom the wildlife, drive to the coast to the iconic Capela do Senhor da Pedra. Park your car and stroll to this unique chapel perched on the rocks by the sea. Enjoy a fresh seafood lunch at one of Miramar's restaurants before heading to the vibrant heart of Gaia.\n\nIn the afternoon, park your car in one of the garages at Cais de Gaia and explore on foot for the rest of the day. Immerse yourself in the world of Port wine with a cellar tour and tasting. Feel the history in the cool, ancient cellars. Afterwards, take the cable car up to Jardim do Morro.\n\nAs evening approaches, Jardim do Morro is the perfect spot. The sunset views are legendary. Cap off the day with a short walk to Mosteiro da Serra do Pilar, its round church and cloister looking beautiful in the golden light. You've experienced the best of both worlds: Gaia's outlying gems and its bustling center."
+        "en": "Your car day begins with a family-friendly trip to Zoo Santo Inácio, a green sanctuary just outside the city center. Spend the morning discovering animals from around the globe. This is a relaxed way to start the day, away from the city bustle.\n\nFrom the wildlife, drive to the coast to the iconic Capela do Senhor da Pedra. Park your car and stroll to this unique chapel perched on the rocks by the sea. Enjoy a fresh seafood lunch at one of Miramar's restaurants before heading to the vibrant heart of Gaia.\n\nIn the afternoon, park your car in one of the garages at Cais de Gaia and explore on foot for the rest of the day. Immerse yourself in the world of Port wine with a cellar tour and tasting. Feel the history in the cool, ancient cellars. Afterwards, take the cable car up to Jardim do Morro.\n\nAs evening approaches, Jardim do Morro is the perfect spot. The sunset views are legendary. Cap off the day with a short walk to Mosteiro da Serra do Pilar, its round church and cloister looking beautiful in the golden light. You've experienced the best of both worlds: Gaia's outlying gems and its bustling center.",
+        "pt": "O seu dia de carro começa com uma saída familiar para o Zoo Santo Inácio, um santuário verde mesmo à saída do centro. Passe a manhã a descobrir animais de todo o mundo. É uma forma descontraída de começar o dia, longe do bulício da cidade.\n\nDos animais, siga para a costa até à icónica Capela do Senhor da Pedra. Estacione e caminhe até esta capela única empoleirada nas rochas junto ao mar. Desfrute de um almoço de marisco fresco num dos restaurantes de Miramar antes de seguir para o vibrante coração de Gaia.\n\nÀ tarde, estacione o carro numa das garagens do Cais de Gaia e explore a pé durante o resto do dia. Mergulhe no mundo do vinho do Porto com uma visita e prova numa cave. Sinta a história nas caves frescas e antigas. Depois, apanhe o teleférico até ao Jardim do Morro.\n\nÀ medida que a noite se aproxima, o Jardim do Morro é o local perfeito. As vistas ao pôr do sol são lendárias. Termine o dia com uma curta caminhada até ao Mosteiro da Serra do Pilar, cuja igreja redonda e claustro ficam belos na luz dourada. Viveu o melhor de ambos os mundos: os tesouros periféricos de Gaia e o seu centro vibrante."
       },
       "gastro_picks": {
         "de": [
@@ -1525,6 +1634,12 @@
           "Parking in central Gaia can be expensive. Use the 'park and walk' strategy.",
           "Traffic on the Arrábida bridge can be heavy during rush hour; plan your drives accordingly.",
           "Be mindful of one-way streets and narrow alleys in the older parts of town."
+        ],
+        "pt": [
+          "Um carro dá-lhe liberdade para visitar locais mais distantes como o zoo e a capela.",
+          "O estacionamento no centro de Gaia pode ser caro. Use a estratégia 'estacione e caminhe'.",
+          "O trânsito na ponte da Arrábida pode ser intenso nas horas de ponta; planeie as suas deslocações em conformidade.",
+          "Esteja atento às ruas de sentido único e aos becos estreitos nas partes mais antigas da cidade."
         ]
       },
       "variants": {
@@ -1533,7 +1648,8 @@
             "de": "Der Vormittag im Zoo Santo Inácio ist trotz Regen angenehm, da viele Pavillons überdacht sind.\n\nMittags führt die Fahrt nach Miramar zur Kapelle; genießen Sie das Schauspiel der Wellen aus dem trockenen Auto heraus.\n\nNachmittags parken Sie bequem im Parkhaus am Cais de Gaia und verbringen die Zeit bei einer ausgiebigen Kellertour.\n\nAbends bietet die Fahrt zum Kloster Serra do Pilar einen Panoramablick auf das neblige Porto, bevor Sie zum Hotel zurückkehren.",
             "hu": "A délelőtt a Zoo Santo Inácio-ban esőben is kellemes, mivel sok pavilon fedett.\n\nDélben Miramar felé autózik a kápolnához; élvezze a hullámok játékát a száraz autóból.\n\nDélután kényelmesen leparkol a Cais de Gaia parkolóházában, és egy alapos pincetúrával tölti az időt.\n\nEste a Serra do Pilar kolostorhoz vezető út panorámát nyújt a ködös Portóra, mielőtt visszatérne a szállásra.",
             "ro": "Dimineața la Zoo Santo Inácio este plăcută chiar și pe ploaie, multe pavilioane fiind acoperite.\n\nLa prânz, conduceți spre Miramar la capelă; admirați spectacolul valurilor din confortul mașinii.\n\nDupă-amiaza parcați comod în parcarea de la Cais de Gaia și vizitați cramele istorice.\n\nSeara, drumul spre mănăstirea Serra do Pilar oferă o vedere panoramică asupra orașului Porto cețos.",
-            "en": "Morning at Zoo Santo Inácio remains pleasant despite the rain as many animal pavilions are covered.\n\nAt noon, drive to Miramar to see the chapel; enjoy the dramatic waves from the dry comfort of your car.\n\nIn the afternoon, park easily in the Cais de Gaia garage and spend your time on an extensive cellar tour.\n\nEvening drive to Mosteiro da Serra do Pilar offers a panoramic view of misty Porto before heading back."
+            "en": "Morning at Zoo Santo Inácio remains pleasant despite the rain as many animal pavilions are covered.\n\nAt noon, drive to Miramar to see the chapel; enjoy the dramatic waves from the dry comfort of your car.\n\nIn the afternoon, park easily in the Cais de Gaia garage and spend your time on an extensive cellar tour.\n\nEvening drive to Mosteiro da Serra do Pilar offers a panoramic view of misty Porto before heading back.",
+            "pt": "A manhã no Zoo Santo Inácio mantém-se agradável apesar da chuva, pois muitos pavilhões dos animais são cobertos.\n\nAo meio-dia, conduza até Miramar para ver a capela; aprecie as ondas dramáticas do conforto seco do seu carro.\n\nÀ tarde, estacione facilmente na garagem do Cais de Gaia e passe o tempo num extenso passeio pelas caves.\n\nÀ noite, a viagem de carro até o Mosteiro da Serra do Pilar oferece uma vista panorâmica do Porto enevoado antes de regressar."
           },
           "stops": [
             {
@@ -1542,7 +1658,8 @@
                 "de": "Nutzen Sie die überdachten Tunnel bei den Löwen und Tigern.",
                 "hu": "Használja a fedett alagutakat az oroszlánoknál és tigriseknél.",
                 "ro": "Folosiți tunelurile acoperite de la lei și tigri pentru a rămâne uscat.",
-                "en": "Use the covered tunnels at the lion and tiger enclosures to stay dry."
+                "en": "Use the covered tunnels at the lion and tiger enclosures to stay dry.",
+                "pt": "Use os túneis cobertos nos recintos dos leões e tigres para se manter seco."
               }
             },
             {
@@ -1551,7 +1668,8 @@
                 "de": "Parken Sie nah am Strand; der Wind kann Regen waagerecht peitschen.",
                 "hu": "Parkoljon közel a parthoz; a szél vízszintesen hordhatja az esőt.",
                 "ro": "Parcați aproape de plajă; vântul poate sufla ploaia orizontal.",
-                "en": "Park close to the beach; wind can blow rain horizontally here."
+                "en": "Park close to the beach; wind can blow rain horizontally here.",
+                "pt": "Estacione perto da praia; o vento pode provocar chuva horizontal aqui."
               }
             },
             {
@@ -1560,7 +1678,8 @@
                 "de": "Restaurants mit Parkplätzen direkt vor der Tür bevorzugen.",
                 "hu": "Válasszon olyan éttermet, amelynek közvetlen parkolója van.",
                 "ro": "Preferați restaurantele cu parcare chiar în față.",
-                "en": "Prefer restaurants with parking spaces directly in front of the door."
+                "en": "Prefer restaurants with parking spaces directly in front of the door.",
+                "pt": "Prefira restaurantes com lugares de estacionamento diretamente à porta."
               }
             },
             {
@@ -1569,7 +1688,8 @@
                 "de": "Das unterirdische Parkhaus hält Sie beim Aussteigen trocken.",
                 "hu": "A földalatti parkolóházban szárazon szállhat ki az autóból.",
                 "ro": "Parcarea subterană vă menține uscat la coborâre.",
-                "en": "The underground parking garage keeps you dry when exiting the car."
+                "en": "The underground parking garage keeps you dry when exiting the car.",
+                "pt": "A garagem subterrânea mantém-no seco ao sair do carro."
               }
             },
             {
@@ -1578,7 +1698,8 @@
                 "de": "Buchen Sie Touren vorab, da diese bei Regen sehr gefragt sind.",
                 "hu": "Foglaljon előre, mert esőben a pincetúrák nagyon népszerűek.",
                 "ro": "Rezervați din timp, tururile sunt foarte solicitate pe ploaie.",
-                "en": "Book ahead as cellar tours are very popular on rainy days."
+                "en": "Book ahead as cellar tours are very popular on rainy days.",
+                "pt": "Reserve com antecedência, pois as visitas às caves são muito populares em dias de chuva."
               }
             },
             {
@@ -1587,7 +1708,8 @@
                 "de": "Kurzer Sprint vom Auto zur Seilbahnstation einplanen.",
                 "hu": "Tervezzen egy rövid sprintet az autótól a libegő állomásáig.",
                 "ro": "Planificați un sprint scurt de la mașină la stația de telecabină.",
-                "en": "Plan a short sprint from the car to the cable car station."
+                "en": "Plan a short sprint from the car to the cable car station.",
+                "pt": "Planeie um pequeno sprint do carro até à estação do teleférico."
               }
             },
             {
@@ -1596,7 +1718,8 @@
                 "de": "Beste Sicht auf das beleuchtete Porto bei Regen aus dem Wagen.",
                 "hu": "A kocsiból nyílik a legjobb kilátás az esőben úszó Portóra.",
                 "ro": "Cea mai bună vedere spre Porto luminat, direct din mașină.",
-                "en": "Best view of illuminated Porto in the rain, right from your car seat."
+                "en": "Best view of illuminated Porto in the rain, right from your car seat.",
+                "pt": "Melhor vista do Porto iluminado na chuva, diretamente do seu assento no carro."
               }
             }
           ],
@@ -1628,6 +1751,13 @@
               "Avoid rush hour (17:00-19:00) when crossing the Arrábida bridge.",
               "Streets in Miramar can have minor flooding during heavy downpours.",
               "Use the seat heaters for extra comfort between your stops."
+            ],
+            "pt": [
+              "Cuidado com os vidros embaciados; a humidade em Gaia é muito elevada durante a chuva.",
+              "A garagem 'Cais de Gaia' é cara, mas é a opção mais seca.",
+              "Evite a hora de ponta (17:00-19:00) ao atravessar a Ponte da Arrábida.",
+              "As ruas em Miramar podem apresentar inundações menores durante aguaceiros fortes.",
+              "Use os aquecedores dos bancos para maior conforto entre paragens."
             ]
           }
         },
@@ -1636,7 +1766,8 @@
             "de": "Ein klarer Wintermorgen im Zoo Santo Inácio ist ideal, da die Tiere oft aktiver sind als in der Sommerhitze.\n\nMittags führt die Fahrt entlang der Küste nach Miramar; die Wintersonne glitzert auf dem Atlantik.\n\nNachmittags am Cais de Gaia finden Sie im Winter leichter einen Parkplatz und können die Keller ohne Drängeln besuchen.\n\nAbends bietet der Aussichtspunkt Serra do Pilar die perfekte Bühne für den frühen Sonnenuntergang, bevor es zu kalt wird.",
             "hu": "A tiszta téli reggel a Zoo Santo Inácio-ban ideális, az állatok gyakran aktívabbak, mint a nyári hőségben.\n\nDélben Miramar felé autózik a parton; a téli nap csillog az Atlanti-óceánon.\n\nDélután a Cais de Gaia-nál télen könnyebben talál parkolót, és tömeg nélkül látogathatja a pincéket.\n\nEste a Serra do Pilar kilátó tökéletes helyszín a korai naplementéhez, mielőtt túl hideg lenne.",
             "ro": "O dimineață senină de iarnă la Zoo Santo Inácio este ideală, animalele fiind mai active decât vara.\n\nLa prânz, conduceți pe coastă spre Miramar; soarele de iarnă sclipește pe Atlantic.\n\nDupă-amiaza la Cais de Gaia găsiți parcare mai ușor iarna și vizitați cramele fără aglomerație.\n\nSeara, punctul de belvedere Serra do Pilar este scena perfectă pentru apusul timpuriu.",
-            "en": "A crisp winter morning at Zoo Santo Inácio is ideal as animals are often more active than in summer heat.\n\nAt noon, drive along the coast to Miramar; the winter sun glitters brilliantly on the Atlantic.\n\nIn the afternoon at Cais de Gaia, parking is easier to find in winter and cellars are uncrowded.\n\nEvening at the Serra do Pilar viewpoint provides the perfect stage for the early sunset before it gets too chilly."
+            "en": "A crisp winter morning at Zoo Santo Inácio is ideal as animals are often more active than in summer heat.\n\nAt noon, drive along the coast to Miramar; the winter sun glitters brilliantly on the Atlantic.\n\nIn the afternoon at Cais de Gaia, parking is easier to find in winter and cellars are uncrowded.\n\nEvening at the Serra do Pilar viewpoint provides the perfect stage for the early sunset before it gets too chilly.",
+            "pt": "Uma manhã fresca de inverno no Zoo Santo Inácio é ideal, pois os animais costumam estar mais ativos do que no calor do verão.\n\nAo meio-dia, conduza ao longo da costa até Miramar; o sol de inverno brilha intensamente no Atlântico.\n\nÀ tarde, no Cais de Gaia, é mais fácil encontrar estacionamento no inverno e as caves estão menos cheias.\n\nÀ noite, o miradouro da Serra do Pilar oferece o cenário perfeito para o pôr do sol precoce antes de ficar muito frio."
           },
           "stops": [
             {
@@ -1645,7 +1776,8 @@
                 "de": "Besuchen Sie die Fütterungen; im Winter ist es weniger voll.",
                 "hu": "Nézze meg az etetéseket; télen sokkal kisebb a tömeg.",
                 "ro": "Vizitați orele de hrănire; iarna este mult mai puțin aglomerat.",
-                "en": "Watch the animal feedings; it's much less crowded in winter."
+                "en": "Watch the animal feedings; it's much less crowded in winter.",
+                "pt": "Observe as refeições dos animais; é muito menos concorrido no inverno."
               }
             },
             {
@@ -1654,7 +1786,8 @@
                 "de": "Genießen Sie den Blick aus dem warmen Auto bei laufender Heizung.",
                 "hu": "Élvezze a kilátást a meleg autóból, miközben megy a fűtés.",
                 "ro": "Admirați vederea din mașina caldă cu încălzirea pornită.",
-                "en": "Enjoy the view from the warm car with the heater running."
+                "en": "Enjoy the view from the warm car with the heater running.",
+                "pt": "Desfrute da vista do carro quente com o aquecimento ligado."
               }
             },
             {
@@ -1663,7 +1796,8 @@
                 "de": "Die Restaurants am Meer sind im Winter angenehm ruhig.",
                 "hu": "A tengerparti éttermek télen kellemesen csendesek.",
                 "ro": "Restaurantele de la malul mării sunt plăcut de liniștite iarna.",
-                "en": "The seaside restaurants are pleasantly quiet during the winter months."
+                "en": "The seaside restaurants are pleasantly quiet during the winter months.",
+                "pt": "Os restaurantes junto ao mar estão agradavelmente tranquilos durante os meses de inverno."
               }
             },
             {
@@ -1672,7 +1806,8 @@
                 "de": "Oberirdische Plätze sind im Winter oft verfügbar und günstiger.",
                 "hu": "A felszíni helyek télen gyakran szabadok és olcsóbbak.",
                 "ro": "Locurile de parcare la suprafață sunt adesea libere și mai ieftine.",
-                "en": "Surface parking spots are often available and cheaper in winter."
+                "en": "Surface parking spots are often available and cheaper in winter.",
+                "pt": "Os lugares de estacionamento à superfície costumam estar disponíveis e são mais baratos no inverno."
               }
             },
             {
@@ -1681,7 +1816,8 @@
                 "de": "Nutzen Sie die Zeit für Fachgespräche; die Guides haben mehr Zeit.",
                 "hu": "Használja ki az időt beszélgetésre; az idegenvezetőknek több ideje van.",
                 "ro": "Profită de timp pentru întrebări; ghizii au mai mult timp iarna.",
-                "en": "Take time for expert talks; guides have more time for visitors in winter."
+                "en": "Take time for expert talks; guides have more time for visitors in winter.",
+                "pt": "Reserve tempo para as palestras de especialistas; os guias têm mais tempo para os visitantes no inverno."
               }
             },
             {
@@ -1690,7 +1826,8 @@
                 "de": "Beste Zeit für Fotos bei tiefstehender Wintersonne.",
                 "hu": "A legjobb idő a fotózáshoz az alacsonyan járó téli napnál.",
                 "ro": "Cel mai bun moment pentru poze datorită soarelui jos de iarnă.",
-                "en": "Best time for photography with the low-hanging winter sun."
+                "en": "Best time for photography with the low-hanging winter sun.",
+                "pt": "Melhor altura para fotografia com o sol de inverno mais baixo."
               }
             },
             {
@@ -1699,7 +1836,8 @@
                 "de": "Kommen Sie spätestens um 17:15 Uhr für das beste Licht an.",
                 "hu": "Érkezzen legkésőbb 17:15-re a legjobb fényekért.",
                 "ro": "Ajungeți cel târziu la 17:15 pentru cea mai bună lumină.",
-                "en": "Arrive by 17:15 at the latest for the best sunset light."
+                "en": "Arrive by 17:15 at the latest for the best sunset light.",
+                "pt": "Chegue até às 17:15 no máximo para a melhor luz do pôr do sol."
               }
             }
           ],
@@ -1731,6 +1869,13 @@
               "Drive carefully near Miramar; wind can blow sand onto the coastal roads.",
               "Winter days are short; make sure to start promptly at 09:00 at the Zoo.",
               "Keep blankets in the car for cozy breaks at scenic viewpoints."
+            ],
+            "pt": [
+              "Verifique a pressão dos pneus; o frio pode fazê-la baixar ligeiramente.",
+              "Encontrar estacionamento no Cais de Gaia é muito mais calmo no inverno.",
+              "Conduza com cuidado perto de Miramar; o vento pode atirar areia para as estradas costeiras.",
+              "Os dias de inverno são curtos; certifique-se de começar pontualmente às 09:00 no Zoo.",
+              "Mantenha mantas no carro para pausas aconchegantes em miradouros cénicos."
             ]
           }
         }
@@ -1749,7 +1894,8 @@
             "de": "Jardim do Morro (Metro D)",
             "hu": "Jardim do Morro (D metró)",
             "ro": "Jardim do Morro (Metrou D)",
-            "en": "Jardim do Morro (Metro D)"
+            "en": "Jardim do Morro (Metro D)",
+            "pt": "Jardim do Morro (Metro D)"
           },
           "coords": [
             -8.6103,
@@ -1765,7 +1911,8 @@
             "de": "Die Metro der Linie D bringt Sie direkt hierher. Kaufen Sie eine wiederaufladbare Andante-Karte.",
             "hu": "A D metróvonal közvetlenül ide visz. Vásárolj egy újratölthető Andante kártyát.",
             "ro": "Linia D de metrou vă aduce direct aici. Cumpărați un card reîncărcabil Andante.",
-            "en": "The D (Yellow) metro line drops you right here. Buy a rechargeable Andante card."
+            "en": "The D (Yellow) metro line drops you right here. Buy a rechargeable Andante card.",
+            "pt": "A linha D (Amarela) do metro deixa-o mesmo aqui. Compre um cartão Andante recarregável."
           }
         },
         {
@@ -1773,7 +1920,8 @@
             "de": "Mosteiro da Serra do Pilar",
             "hu": "Mosteiro da Serra do Pilar",
             "ro": "Mănăstirea Serra do Pilar",
-            "en": "Mosteiro da Serra do Pilar"
+            "en": "Mosteiro da Serra do Pilar",
+            "pt": "Mosteiro da Serra do Pilar"
           },
           "coords": [
             -8.6089,
@@ -1789,7 +1937,8 @@
             "de": "Ein kurzer Spaziergang vom Jardim do Morro, bietet es eine noch höhere Aussicht.",
             "hu": "Rövid séta a Jardim do Morro-tól, még magasabb kilátást kínál.",
             "ro": "O scurtă plimbare de la Jardim do Morro, oferă o priveliște și mai înaltă.",
-            "en": "A short walk from Jardim do Morro, it offers an even higher vantage point."
+            "en": "A short walk from Jardim do Morro, it offers an even higher vantage point.",
+            "pt": "A curta caminhada desde o Jardim do Morro oferece um ponto de vista ainda mais elevado."
           }
         },
         {
@@ -1797,7 +1946,8 @@
             "de": "Cais de Gaia (per Seilbahn)",
             "hu": "Cais de Gaia (drótkötélpályával)",
             "ro": "Cais de Gaia (cu telecabina)",
-            "en": "Cais de Gaia (via Cable Car)"
+            "en": "Cais de Gaia (via Cable Car)",
+            "pt": "Cais de Gaia (via Teleférico)"
           },
           "coords": [
             -8.6152,
@@ -1813,7 +1963,8 @@
             "de": "Die Seilbahnfahrt ist Teil des Erlebnisses und bietet eine fantastische Aussicht, während Sie absteigen.",
             "hu": "A drótkötélpályás utazás az élmény része, fantasztikus kilátást nyújtva ereszkedés közben.",
             "ro": "Călătoria cu telecabina face parte din experiență, oferind vederi fantastice pe măsură ce coborâți.",
-            "en": "The cable car ride is part of the experience, offering fantastic views as you descend."
+            "en": "The cable car ride is part of the experience, offering fantastic views as you descend.",
+            "pt": "A viagem no teleférico faz parte da experiência, oferecendo vistas fantásticas enquanto desce."
           }
         },
         {
@@ -1821,7 +1972,8 @@
             "de": "Mittagessen und Weinprobe",
             "hu": "Ebéd és borkóstoló",
             "ro": "Prânz și degustare de vin",
-            "en": "Lunch and Wine Tasting"
+            "en": "Lunch and Wine Tasting",
+            "pt": "Almoço e Degustação de Vinhos"
           },
           "coords": [
             -8.614,
@@ -1837,7 +1989,8 @@
             "de": "Viele Keller befinden sich in diesem Cluster. Wählen Sie einen und genießen Sie ein gemütliches Mittagessen in der Nähe.",
             "hu": "Ebben a klaszterben számos pince található. Válassz egyet, és ebédelj a közelben.",
             "ro": "Multe crame sunt în acest cluster. Alegeți una și bucurați-vă de un prânz relaxant în apropiere.",
-            "en": "Many cellars are within this cluster. Pick one and enjoy a leisurely lunch nearby."
+            "en": "Many cellars are within this cluster. Pick one and enjoy a leisurely lunch nearby.",
+            "pt": "Muitas caves estão neste conjunto. Escolha uma e desfrute de um almoço descontraído nas proximidades."
           }
         },
         {
@@ -1845,7 +1998,8 @@
             "de": "Fahrt nach Miramar",
             "hu": "Utazás Miramarba",
             "ro": "Călătorie spre Miramar",
-            "en": "Trip to Miramar"
+            "en": "Trip to Miramar",
+            "pt": "Viagem a Miramar"
           },
           "coords": [
             -8.677,
@@ -1861,7 +2015,8 @@
             "de": "Nehmen Sie den Zug vom Bahnhof Devesas oder General Torres nach Miramar. Es ist eine kurze und landschaftlich reizvolle Fahrt.",
             "hu": "Menj vonattal a Devesas vagy General Torres állomásról Miramarba. Rövid és festői út.",
             "ro": "Luați trenul de la gara Devesas sau General Torres spre Miramar. Este o călătorie scurtă și pitorească.",
-            "en": "Take the train from Devesas or General Torres station to Miramar. It's a short and scenic ride."
+            "en": "Take the train from Devesas or General Torres station to Miramar. It's a short and scenic ride.",
+            "pt": "Apanhe o comboio na estação de Devesas ou General Torres até Miramar. É uma viagem curta e cénica."
           }
         },
         {
@@ -1869,7 +2024,8 @@
             "de": "Capela do Senhor da Pedra",
             "hu": "Capela do Senhor da Pedra",
             "ro": "Capela do Senhor da Pedra",
-            "en": "Capela do Senhor da Pedra"
+            "en": "Capela do Senhor da Pedra",
+            "pt": "Capela do Senhor da Pedra"
           },
           "coords": [
             -8.6775,
@@ -1885,7 +2041,8 @@
             "de": "Verbringen Sie den Rest des Nachmittags damit, die Kapelle und den umliegenden Strand zu erkunden.",
             "hu": "Töltsd a délután hátralévő részét a kápolna és a környező strand felfedezésével.",
             "ro": "Petreceți restul după-amiezii explorând capela și plaja înconjurătoare.",
-            "en": "Spend the rest of the afternoon exploring the chapel and the surrounding beach."
+            "en": "Spend the rest of the afternoon exploring the chapel and the surrounding beach.",
+            "pt": "Passe a tarde explorando a capela e a praia envolvente."
           }
         }
       ],
@@ -1893,7 +2050,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt mühelos. Nehmen Sie die gelbe Metro-Linie (D) bis zur Haltestelle Jardim do Morro. Sie steigen aus und haben sofort eine der besten Aussichten der Stadt vor sich. Spazieren Sie zum nahegelegenen Mosteiro da Serra do Pilar und genießen Sie die ruhige Atmosphäre, bevor Sie mit der Seilbahn zum Flussufer hinunterfahren.\n\nDer späte Vormittag und der frühe Nachmittag sind dem Cais de Gaia gewidmet, dem pulsierenden Herzen der Portweinwelt. Alles ist zu Fuß erreichbar. Nehmen Sie an einer Kellertour teil, probieren Sie die berühmten Weine und genießen Sie ein gemütliches Mittagessen am Fluss. Dieser Cluster ist der Inbegriff von Gaia, und Sie können ihn ohne sich um den Verkehr zu sorgen, in sich aufnehmen.\n\nNachdem Sie das städtische Zentrum aufgesogen haben, ist es Zeit für einen Ausflug ans Meer. Gehen Sie zu Fuß oder nehmen Sie einen kurzen Bus zum Bahnhof General Torres oder Devesas und steigen Sie in einen Zug nach Süden nach Miramar. Die kurze Zugfahrt ist eine willkommene Abwechslung und bietet einen Einblick in die Küstenlandschaft.\n\nBeenden Sie Ihren Tag an der dramatischen Capela do Senhor da Pedra. Die auf den Felsen gebaute Kapelle, umgeben vom Atlantik, ist ein unvergesslicher Anblick, besonders am späten Nachmittag. Genießen Sie die Meeresbrise und die Ruhe dieses Ortes, bevor Sie den Zug zurück in die Stadt nehmen. Dieser Plan verbindet mühelos das Beste aus Gaias städtischem Charme und seiner Küstenschönheit.",
         "hu": "Tömegközlekedéssel töltött napod könnyedén kezdődik. Szállj fel a sárga metróvonalra (D) a Jardim do Morro megállóig. Ahogy kilépsz, azonnal a város egyik legjobb kilátása tárul eléd. Sétálj el a közeli Mosteiro da Serra do Pilar-hoz, hogy élvezd a nyugodt légkört, mielőtt leereszkednél a folyópartra a drótkötélpályával.\n\nA késő délelőtt és a kora délután a Cais de Gaia-é, a portói borvilág vibráló szívéé. Minden sétatávolságra van. Vegyél részt egy pincetúrán, kóstold meg a híres borokat, és ebédelj egy kellemeset a folyóparton. Ez a klaszter Gaia esszenciája, és a forgalom miatti aggódás nélkül szívhatod magadba.\n\nMiután magadba szívtad a városi központot, itt az ideje egy tengerparti kiruccanásnak. Sétálj el vagy szállj fel egy rövid buszra a General Torres vagy a Devesas állomásig, és szállj fel egy délre tartó vonatra Miramarba. A rövid vonatút üdítő változást hoz, és bepillantást enged a tengerparti tájba.\n\nA napot a drámai Capela do Senhor da Pedra-nál zárd. A sziklákra épült kápolna, amelyet az Atlanti-óceán vesz körül, felejthetetlen látvány, különösen késő délután. Élvezd a tengeri szellőt és a hely nyugalmát, mielőtt visszavonatozol a városba. Ez a terv könnyedén ötvözi Gaia városi bájának és tengerparti szépségének legjavát.",
         "ro": "Ziua ta cu transportul public începe fără efort. Luați linia galbenă de metrou (D) până la stația Jardim do Morro. Coborâți direct la una dintre cele mai bune priveliști din oraș. Plimbați-vă până la Mănăstirea Serra do Pilar din apropiere pentru atmosfera sa senină înainte de a coborî spre malul râului cu telecabina.\n\nDimineața târziu și după-amiaza devreme sunt dedicate Cais de Gaia, inima vibrantă a lumii vinului de Porto. Totul este la distanță de mers pe jos. Faceți un tur al unei crame, degustați vinurile renumite și bucurați-vă de un prânz relaxant pe malul râului. Acest cluster este chintesența Gaia și vă puteți bucura de el fără grija traficului.\n\nDupă ce v-ați bucurat de centrul urban, este timpul pentru o escapadă la mare. Mergeți pe jos sau luați un autobuz rapid până la gara General Torres sau Devesas și urcați-vă într-un tren spre sud, spre Miramar. Călătoria scurtă cu trenul este o pauză binevenită, oferind o privire asupra peisajului de coastă.\n\nÎncheiați ziua la dramatica Capela do Senhor da Pedra. Construită pe stânci și înconjurată de Atlantic, capela este o priveliște de neuitat, mai ales în lumina târzie a după-amiezii. Bucurați-vă de briza mării și de liniștea locului înainte de a lua trenul înapoi spre oraș. Acest itinerar combină fără efort farmecul urban și frumusețea de coastă a Gaia.",
-        "en": "Your transit day starts effortlessly. Take the D (Yellow) metro line to Jardim do Morro station. You'll step out to one of the best views in the city. Stroll to the nearby Mosteiro da Serra do Pilar for its serene atmosphere before descending to the riverfront via the cable car.\n\nThe late morning and early afternoon are dedicated to Cais de Gaia, the vibrant heart of the Port wine world. Everything is within walking distance. Take a cellar tour, sample the famous wines, and enjoy a leisurely lunch by the river. This cluster is quintessential Gaia, and you can soak it in without worrying about traffic.\n\nAfter absorbing the urban core, it's time for a seaside escape. Walk or take a short bus to General Torres or Devesas station and hop on a southbound train to Miramar. The short train ride is a welcome change of pace, offering glimpses of the coastal landscape.\n\nEnd your day at the dramatic Capela do Senhor da Pedra. Built on the rocks and surrounded by the Atlantic, the chapel is an unforgettable sight, especially in the late afternoon light. Enjoy the sea breeze and the tranquility of the spot before catching the train back to the city. This plan effortlessly combines the best of Gaia's urban charm and its coastal beauty."
+        "en": "Your transit day starts effortlessly. Take the D (Yellow) metro line to Jardim do Morro station. You'll step out to one of the best views in the city. Stroll to the nearby Mosteiro da Serra do Pilar for its serene atmosphere before descending to the riverfront via the cable car.\n\nThe late morning and early afternoon are dedicated to Cais de Gaia, the vibrant heart of the Port wine world. Everything is within walking distance. Take a cellar tour, sample the famous wines, and enjoy a leisurely lunch by the river. This cluster is quintessential Gaia, and you can soak it in without worrying about traffic.\n\nAfter absorbing the urban core, it's time for a seaside escape. Walk or take a short bus to General Torres or Devesas station and hop on a southbound train to Miramar. The short train ride is a welcome change of pace, offering glimpses of the coastal landscape.\n\nEnd your day at the dramatic Capela do Senhor da Pedra. Built on the rocks and surrounded by the Atlantic, the chapel is an unforgettable sight, especially in the late afternoon light. Enjoy the sea breeze and the tranquility of the spot before catching the train back to the city. This plan effortlessly combines the best of Gaia's urban charm and its coastal beauty.",
+        "pt": "O seu dia de trânsito começa sem esforço. Apanhe a linha D (Amarela) do metro até à estação Jardim do Morro. Sairá para uma das melhores vistas da cidade. Caminhe até ao próximo Mosteiro da Serra do Pilar pela sua atmosfera serena antes de descer até à margem do rio pelo teleférico.\n\nA parte do final da manhã e início da tarde é dedicada ao Cais de Gaia, o vibrante coração do mundo do Vinho do Porto. Tudo está a uma curta distância a pé. Faça uma visita às caves, prove os vinhos famosos e desfrute de um almoço descontraído à beira-rio. Este conjunto é a essência de Gaia, e pode vivê-lo sem se preocupar com o trânsito.\n\nDepois de absorver o centro urbano, é hora de uma escapada à beira-mar. Caminhe ou apanhe um autocarro curto até às estações General Torres ou Devesas e embarque num comboio em direção a sul para Miramar. A curta viagem de comboio é uma mudança de ritmo sempre bem-vinda, oferecendo vislumbres da paisagem costeira.\n\nTermine o dia na dramática Capela do Senhor da Pedra. Construída sobre as rochas e rodeada pelo Atlântico, a capela é uma visão inesquecível, especialmente na luz do fim da tarde. Desfrute da brisa do mar e da tranquilidade do local antes de apanhar o comboio de volta à cidade. Este plano combina sem esforço o melhor do charme urbano de Gaia com a sua beleza costeira."
       },
       "gastro_picks": {
         "de": [
@@ -2105,6 +2263,12 @@
           "Validate your ticket every time you enter a new vehicle (metro, bus, train).",
           "The metro is the fastest way to cross the Ponte Dom Luís I, but buses and trains are better for reaching the coast.",
           "Schedules can be different on Sundays and public holidays, so check in advance."
+        ],
+        "pt": [
+          "Compre um Andante Tour Card para viagens ilimitadas durante um período específico.",
+          "Valide o seu bilhete cada vez que entrar num novo veículo (metro, autocarro, comboio).",
+          "O metro é a forma mais rápida de atravessar a Ponte D. Luís, mas os autocarros e comboios são melhores para chegar à costa.",
+          "Os horários podem ser diferentes aos domingos e feriados, por isso verifique com antecedência."
         ]
       },
       "variants": {
@@ -2113,7 +2277,8 @@
             "de": "Der Vormittag beginnt trocken in der Metro zum Jardim do Morro; die Stationen bieten guten Wetterschutz.\n\nMittags bringt Sie die Seilbahn windgeschützt zum Flussufer, direkt vor die Türen der großen Weinkeller.\n\nNachmittags wärmen Sie sich bei einer Weinprobe auf, bevor Sie den Zug vom Bahnhof General Torres nach Miramar nehmen.\n\nAbends besuchen Sie die Kapelle Senhor da Pedra im Regen, bevor Sie die komfortable Rückfahrt im warmen Zug antreten.",
             "hu": "A délelőtt szárazon indul a metrón a Jardim do Morro felé; az állomások jó védelmet nyújtanak.\n\nDélben a libegő szélvédett helyen viszi le a folyópartra, közvetlenül a borospincék elé.\n\nDélután egy borkóstolóval melegszik fel, mielőtt vonatra szállna General Torres állomásán Miramar felé.\n\nEste meglátogatja a Senhor da Pedra kápolnát az esőben, majd visszautazik a meleg vonat kényelmében.",
             "ro": "Dimineața începe la adăpost în metrou spre Jardim do Morro; stațiile oferă protecție bună.\n\nLa prânz, telecabina vă coboară ferit de vânt la mal, chiar în fața marilor crame.\n\nDupă-amiaza vă încălziți la o degustare înainte de a lua trenul din General Torres spre Miramar.\n\nSeara vizitați capela Senhor da Pedra pe ploaie, apoi vă întoarceți cu trenul cald.",
-            "en": "Morning starts dry on the Metro to Jardim do Morro; the stations provide excellent shelter from the elements.\n\nAt noon, the cable car brings you down to the riverside, sheltered from the wind and dropping you near the cellars.\n\nIn the afternoon, warm up with a wine tasting before taking the train from General Torres station to Miramar.\n\nEvening visit to Senhor da Pedra in the rain is followed by a comfortable return journey in a warm train."
+            "en": "Morning starts dry on the Metro to Jardim do Morro; the stations provide excellent shelter from the elements.\n\nAt noon, the cable car brings you down to the riverside, sheltered from the wind and dropping you near the cellars.\n\nIn the afternoon, warm up with a wine tasting before taking the train from General Torres station to Miramar.\n\nEvening visit to Senhor da Pedra in the rain is followed by a comfortable return journey in a warm train.",
+            "pt": "A manhã começa seca no metro até Jardim do Morro; as estações oferecem excelente abrigo contra os elementos.\n\nAo meio-dia, o teleférico leva-o até à margem do rio, protegido do vento e deixando-o perto das caves.\n\nÀ tarde, aqueça-se com uma prova de vinhos antes de apanhar o comboio na estação General Torres para Miramar.\n\nA visita à noite a Senhor da Pedra na chuva é seguida por uma viagem de regresso confortável num comboio aquecido."
           },
           "stops": [
             {
@@ -2122,7 +2287,8 @@
                 "de": "Die Metrostation ist tief unter der Erde und komplett trocken.",
                 "hu": "A metróállomás mélyen a föld alatt van és teljesen száraz.",
                 "ro": "Stația de metrou este adânc sub pământ și complet uscată.",
-                "en": "The Metro station is deep underground and completely dry."
+                "en": "The Metro station is deep underground and completely dry.",
+                "pt": "A estação de metro é profunda e completamente seca."
               }
             },
             {
@@ -2131,7 +2297,8 @@
                 "de": "Nutzen Sie den kurzen Fußweg von der Metro; nehmen Sie einen Schirm mit.",
                 "hu": "Rövid séta a metrótól; vigyen magával esernyőt.",
                 "ro": "Drum scurt de la metrou; luați o umbrelă cu voi.",
-                "en": "Short walk from the Metro; make sure to bring an umbrella."
+                "en": "Short walk from the Metro; make sure to bring an umbrella.",
+                "pt": "Curta caminhada a partir do metro; certifique-se de trazer um guarda-chuva."
               }
             },
             {
@@ -2140,7 +2307,8 @@
                 "de": "Die beste Verbindung, um bei Regen nicht den Hügel hinunterzulaufen.",
                 "hu": "A legjobb összeköttetés, hogy ne kelljen esőben lecsúszni a dombon.",
                 "ro": "Cea mai bună legătură pentru a nu coborî dealul pe ploaie.",
-                "en": "The best connection to avoid walking down the slippery hill in the rain."
+                "en": "The best connection to avoid walking down the slippery hill in the rain.",
+                "pt": "A melhor ligação para evitar descer a encosta escorregadia na chuva."
               }
             },
             {
@@ -2149,7 +2317,8 @@
                 "de": "Verweilen Sie länger; die Züge nach Miramar fahren alle 30-60 Min.",
                 "hu": "Maradjon tovább; a vonatok Miramar felé 30-60 percenként járnak.",
                 "ro": "Rămâneți mai mult; trenurile spre Miramar circulă la 30-60 min.",
-                "en": "Stay longer; trains to Miramar run every 30-60 minutes."
+                "en": "Stay longer; trains to Miramar run every 30-60 minutes.",
+                "pt": "Fique mais tempo; os comboios para Miramar circulam a cada 30-60 minutos."
               }
             },
             {
@@ -2158,7 +2327,8 @@
                 "de": "Vom Bahnhof Miramar sind es nur 5 Minuten Fußweg zur Kapelle.",
                 "hu": "Miramar vasútállomásától csak 5 perc séta a kápolna.",
                 "ro": "De la gara Miramar sunt doar 5 minute de mers la capelă.",
-                "en": "It is only a 5-minute walk from Miramar station to the chapel."
+                "en": "It is only a 5-minute walk from Miramar station to the chapel.",
+                "pt": "Fica apenas a 5 minutos a pé da estação de Miramar até à capela."
               }
             },
             {
@@ -2167,7 +2337,8 @@
                 "de": "Warten Sie im Bahnhofsunterstand, falls der Schauer zu stark ist.",
                 "hu": "Várjon az állomás fedett részén, ha túl erős a zápor.",
                 "ro": "Așteptați în zona acoperită a gării dacă ploaia este prea densă.",
-                "en": "Wait in the station shelter if the downpour is too heavy."
+                "en": "Wait in the station shelter if the downpour is too heavy.",
+                "pt": "Espere no abrigo da estação se a chuva for muito forte."
               }
             }
           ],
@@ -2199,6 +2370,13 @@
               "Metro Line D runs every 6 minutes and is very reliable during storms.",
               "General Torres and Miramar stations have covered platforms for waiting.",
               "The cable car is the most comfortable way to reach the river in the rain."
+            ],
+            "pt": [
+              "Carregue o seu cartão Andante com antecedência para evitar filas na chuva.",
+              "A app 'Anda' é ideal para seguir os comboios para Miramar em tempo real.",
+              "A Linha D do metro passa a cada 6 minutos e é muito fiável durante as tempestades.",
+              "As estações General Torres e Miramar têm plataformas cobertas para aguardar.",
+              "O teleférico é a forma mais confortável de chegar à margem do rio na chuva."
             ]
           }
         },
@@ -2207,7 +2385,8 @@
             "de": "Ein frischer Wintermorgen beginnt mit der Metro-Fahrt zum Jardim do Morro; die Sicht auf Porto ist im klaren Licht fantastisch.\n\nMittags genießen Sie die windgeschützte Fahrt mit der Seilbahn zum Cais de Gaia, während die Wintersonne tief steht.\n\nNachmittags wärmen Sie sich in den Weinkellern auf, bevor Sie den Regionalzug vom Bahnhof General Torres nach Miramar nehmen.\n\nAbends erleben Sie den Sonnenuntergang bei der Kapelle Senhor da Pedra, bevor Sie im beheizten Zug nach Gaia zurückkehren.",
             "hu": "A friss téli reggel metrózással indul a Jardim do Morro felé; a kilátás Portóra fantasztikus a tiszta fényben.\n\nDélben élvezze a szélvédett libegőzést a Cais de Gaia felé, miközben a téli nap alacsonyan jár.\n\nDélután a borospincékben melegszik fel, majd felszáll a General Torres állomáson a miramari vonatra.\n\nEste a Senhor da Pedra kápolnánál nézi végig a naplementét, mielőtt a fűtött vonattal visszatérne Gaiába.",
             "ro": "O dimineață proaspătă de iarnă începe cu metroul spre Jardim do Morro; vederea spre Porto e fantastică în lumina clară.\n\nLa prânz, telecabina vă oferă o călătorie ferită de vânt spre Cais de Gaia sub soarele blând.\n\nDupă-amiaza vă încălziți în crame, apoi luați trenul regional din General Torres spre Miramar.\n\nSeara admirați apusul la capela Senhor da Pedra, apoi vă întoarceți cu trenul încălzit.",
-            "en": "A crisp winter morning starts with a Metro ride to Jardim do Morro; the view of Porto is fantastic in the clear light.\n\nAt noon, enjoy a wind-sheltered cable car ride to Cais de Gaia while the winter sun stays low on the horizon.\n\nIn the afternoon, warm up in the wine cellars before catching the regional train from General Torres station to Miramar.\n\nEvening sunset at Capela do Senhor da Pedra is magical, followed by a cozy ride back in a heated train car."
+            "en": "A crisp winter morning starts with a Metro ride to Jardim do Morro; the view of Porto is fantastic in the clear light.\n\nAt noon, enjoy a wind-sheltered cable car ride to Cais de Gaia while the winter sun stays low on the horizon.\n\nIn the afternoon, warm up in the wine cellars before catching the regional train from General Torres station to Miramar.\n\nEvening sunset at Capela do Senhor da Pedra is magical, followed by a cozy ride back in a heated train car.",
+            "pt": "Uma manhã fresca de inverno começa com uma viagem de metro até Jardim do Morro; a vista do Porto é fantástica na luz clara.\n\nAo meio-dia, desfrute de uma viagem no teleférico abrigada do vento até ao Cais de Gaia enquanto o sol de inverno permanece baixo no horizonte.\n\nÀ tarde, aqueça-se nas caves antes de apanhar o comboio regional na estação General Torres para Miramar.\n\nO pôr do sol de inverno na Capela do Senhor da Pedra é mágico, seguido por um regresso aconchegado num comboio aquecido."
           },
           "stops": [
             {
@@ -2216,7 +2395,8 @@
                 "de": "Die Station ist im Winter angenehm temperiert im Vergleich zur Außenluft.",
                 "hu": "Az állomás télen kellemes hőmérsékletű a kinti levegőhöz képest.",
                 "ro": "Stația are o temperatură plăcută iarna față de aerul de afară.",
-                "en": "The station is pleasantly temperate in winter compared to the outside air."
+                "en": "The station is pleasantly temperate in winter compared to the outside air.",
+                "pt": "A estação é agradavelmente temperada no inverno em comparação com o ar exterior."
               }
             },
             {
@@ -2225,7 +2405,8 @@
                 "de": "Nur 2 Min. Fußweg von der Metro; perfekt für kurze Kälteexposition.",
                 "hu": "Csak 2 perc séta a metrótól; tökéletes a rövid kinti tartózkodáshoz.",
                 "ro": "Doar 2 min. de mers de la metrou; perfect pentru expunere scurtă la frig.",
-                "en": "Only a 2-minute walk from the Metro; perfect for short cold exposure."
+                "en": "Only a 2-minute walk from the Metro; perfect for short cold exposure.",
+                "pt": "Apenas a 2 minutos a pé do metro; perfeito para exposições curtas ao frio."
               }
             },
             {
@@ -2234,7 +2415,8 @@
                 "de": "Die Kabinen bieten Schutz vor dem kalten Douro-Wind.",
                 "hu": "A kabinok védelmet nyújtanak a hideg Douro-menti szél ellen.",
                 "ro": "Cabinele oferă protecție împotriva vântului rece de pe Douro.",
-                "en": "The cabins provide excellent protection from the cold Douro wind."
+                "en": "The cabins provide excellent protection from the cold Douro wind.",
+                "pt": "As cabines oferecem excelente proteção do frio vento do Douro."
               }
             },
             {
@@ -2243,7 +2425,8 @@
                 "de": "Die Weinkeller sind im Winter warme, gemütliche Rückzugsorte.",
                 "hu": "A borospincék télen meleg, barátságos menedékhelyek.",
                 "ro": "Cramele de vin sunt refugii calde și primitoare pe timp de iarnă.",
-                "en": "The wine cellars are warm, cozy retreats during the winter months."
+                "en": "The wine cellars are warm, cozy retreats during the winter months.",
+                "pt": "As caves de vinho são retiros quentes e acolhedores durante os meses de inverno."
               }
             },
             {
@@ -2252,7 +2435,8 @@
                 "de": "Achten Sie auf den Fahrplan; Züge verkehren im Winter seltener.",
                 "hu": "Figyeljen a menetrendre; a vonatok télen ritkábban járhatnak.",
                 "ro": "Verificați mersul trenurilor; pot circula mai rar iarna.",
-                "en": "Check the schedule; trains might run less frequently in winter."
+                "en": "Check the schedule; trains might run less frequently in winter.",
+                "pt": "Verifique o horário; os comboios podem circular com menor frequência no inverno."
               }
             },
             {
@@ -2261,7 +2445,8 @@
                 "de": "Die Sonnenuntergangsfarben sind im Winter am intensivsten.",
                 "hu": "A naplemente színei télen a legintenzívebbek.",
                 "ro": "Culorile apusului sunt cele mai intense în timpul iernii.",
-                "en": "The sunset colors are at their most intense during the winter."
+                "en": "The sunset colors are at their most intense during the winter.",
+                "pt": "As cores do pôr do sol são mais intensas durante o inverno."
               }
             }
           ],
@@ -2293,6 +2478,13 @@
               "The last recommended train back from Miramar is around 18:30.",
               "Your Andante card is also valid for the 'Urbano' train to Miramar.",
               "Metro frequency remains high even in winter (every 6-10 minutes)."
+            ],
+            "pt": [
+              "Os comboios para Miramar são bem aquecidos durante a época de inverno.",
+              "Evite esperar ao ar livre; utilize os pequenos cafés junto às estações.",
+              "O último comboio recomendado de regresso de Miramar é por volta das 18:30.",
+              "O seu cartão Andante também é válido para o comboio 'Urbano' até Miramar.",
+              "A frequência do metro mantém-se elevada mesmo no inverno (a cada 6-10 minutos)."
             ]
           }
         }

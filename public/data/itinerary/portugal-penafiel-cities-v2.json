@@ -21,7 +21,8 @@
             "de": "Stadtmuseum von Penafiel",
             "hu": "Penafiel Városi Múzeum",
             "ro": "Muzeul Municipal din Penafiel",
-            "en": "Municipal Museum of Penafiel"
+            "en": "Municipal Museum of Penafiel",
+            "pt": "Museu Municipal de Penafiel"
           },
           "coords": [
             41.2015,
@@ -37,7 +38,8 @@
             "de": "Konzentrieren Sie sich auf die archäologischen Funde aus Castro de Monte Mozinho.",
             "hu": "Fókuszálj a Castro de Monte Mozinho régészeti leleteire.",
             "ro": "Concentrează-te pe artefactele arheologice de la Castro de Monte Mozinho.",
-            "en": "Focus on the archaeological finds from Castro de Monte Mozinho."
+            "en": "Focus on the archaeological finds from Castro de Monte Mozinho.",
+            "pt": "Concentre‑se nos achados arqueológicos do Castro de Monte Mozinho."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche der Barmherzigkeit",
             "hu": "Irgalmasság temploma",
             "ro": "Biserica Misericórdia",
-            "en": "Church of Misericórdia"
+            "en": "Church of Misericórdia",
+            "pt": "Igreja da Misericórdia"
           },
           "coords": [
             41.2025,
@@ -61,7 +64,8 @@
             "de": "Beachten Sie die wunderschönen Azulejo-Fliesen im Inneren.",
             "hu": "Figyeld meg a gyönyörű azulejo csempéket a belső térben.",
             "ro": "Observă frumoasele plăci de azulejo din interior.",
-            "en": "Notice the beautiful azulejo tile work inside."
+            "en": "Notice the beautiful azulejo tile work inside.",
+            "pt": "Repare no belo trabalho de azulejos no interior."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Hauptkirche von Penafiel",
             "hu": "Penafiel Főtemploma",
             "ro": "Biserica Matriz din Penafiel",
-            "en": "Main Church of Penafiel"
+            "en": "Main Church of Penafiel",
+            "pt": "Igreja Matriz de Penafiel"
           },
           "coords": [
             41.2035,
@@ -85,7 +90,8 @@
             "de": "Suchen Sie nach dem manuelinischen Portal, einem nationalen Denkmal.",
             "hu": "Keresd meg a mánueli stílusú kapuzatot, amely nemzeti műemlék.",
             "ro": "Caută portalul manuelin, un monument național.",
-            "en": "Look for the Manueline portal, a national monument."
+            "en": "Look for the Manueline portal, a national monument.",
+            "pt": "Procure o portal manuelino, um monumento nacional."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "pt": "Almoço no Centro da Cidade"
           },
           "coords": [
             41.204,
@@ -109,7 +116,8 @@
             "de": "Probieren Sie „Arroz de Sarrabulho“, eine lokale Spezialität.",
             "hu": "Kóstold meg az „Arroz de Sarrabulho”-t, egy helyi specialitást.",
             "ro": "Încearcă „Arroz de Sarrabulho”, o specialitate locală.",
-            "en": "Try 'Arroz de Sarrabulho', a local specialty."
+            "en": "Try 'Arroz de Sarrabulho', a local specialty.",
+            "pt": "Experimente o 'Arroz de Sarrabulho', uma especialidade local."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Kalvarienberg-Garten",
             "hu": "Calvário Kert",
             "ro": "Grădina Calvário",
-            "en": "Calvary Garden"
+            "en": "Calvary Garden",
+            "pt": "Jardim do Calvário"
           },
           "coords": [
             41.1995,
@@ -133,7 +142,8 @@
             "de": "Ein perfekter Ort für eine Pause im Schatten der Bäume.",
             "hu": "Tökéletes hely egy kis pihenésre a fák árnyékában.",
             "ro": "Un loc perfect pentru o pauză la umbra copacilor.",
-            "en": "A perfect spot for a break in the shade of the trees."
+            "en": "A perfect spot for a break in the shade of the trees.",
+            "pt": "Um local perfeito para uma pausa à sombra das árvores."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Sameiro-Heiligtum",
             "hu": "Sameiro szentély",
             "ro": "Sanctuarul Sameiro",
-            "en": "Sameiro Sanctuary"
+            "en": "Sameiro Sanctuary",
+            "pt": "Santuário do Sameiro"
           },
           "coords": [
             41.215,
@@ -157,7 +168,8 @@
             "de": "Genießen Sie die Panoramaaussicht auf die Stadt vom Heiligtum aus.",
             "hu": "Élvezd a városra nyíló panorámát a szentélytől.",
             "ro": "Bucură-te de vederea panoramică a orașului de la sanctuar.",
-            "en": "Enjoy the panoramic view of the city from the sanctuary."
+            "en": "Enjoy the panoramic view of the city from the sanctuary.",
+            "pt": "Desfrute da vista panorâmica da cidade a partir do santuário."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Penafiel mit einem Besuch des Stadtmuseums, um in die lokale Geschichte einzutauchen. Schlendern Sie am Vormittag durch die historischen Kirchen im Stadtzentrum. Genießen Sie nach einem traditionellen Mittagessen einen entspannten Nachmittag im ruhigen Kalvarienberg-Garten. Beenden Sie Ihren Tag mit einem Spaziergang zum Sameiro-Heiligtum, um einen atemberaubenden Blick auf den Sonnenuntergang über der Stadt zu genießen.",
         "hu": "Kezdje a napot Penafiel szívében a Városi Múzeum meglátogatásával, hogy elmerüljön a helyi történelemben. Délelőtt sétáljon végig a belváros történelmi templomain. Egy hagyományos ebéd után élvezze a pihentető délutánt a békés Calvário Kertben. A napot zárja egy sétával a Sameiro szentélyhez, ahonnan lenyűgöző naplementét nézhet a város felett.",
         "ro": "Începeți ziua în inima orașului Penafiel cu o vizită la Muzeul Municipal pentru a vă cufunda în istoria locală. Plimbați-vă prin bisericile istorice din centrul orașului în timpul dimineții. După un prânz tradițional, bucurați-vă de o după-amiază relaxantă în liniștita Grădină Calvário. Încheiați ziua cu o plimbare până la Sanctuarul Sameiro pentru o priveliște uimitoare la apus asupra orașului.",
-        "en": "Start your day in the heart of Penafiel with a visit to the Municipal Museum to dive into local history. Stroll through the historic churches in the city center during the morning. After a traditional lunch, enjoy a relaxing afternoon in the peaceful Calvary Garden. End your day with a walk up to the Sameiro Sanctuary for a stunning sunset view over the city."
+        "en": "Start your day in the heart of Penafiel with a visit to the Municipal Museum to dive into local history. Stroll through the historic churches in the city center during the morning. After a traditional lunch, enjoy a relaxing afternoon in the peaceful Calvary Garden. End your day with a walk up to the Sameiro Sanctuary for a stunning sunset view over the city.",
+        "pt": "Comece o dia no coração de Penafiel com uma visita ao Museu Municipal para mergulhar na história local. Passeie pelas igrejas históricas do centro durante a manhã. Após um almoço tradicional, desfrute de uma tarde relaxante no tranquilo Jardim do Calvário. Termine o dia com uma subida ao Santuário do Sameiro para uma vista de pôr do sol deslumbrante sobre a cidade."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Bring plenty of water, especially during the summer.",
           "Most shops and museums may close for lunch, so plan accordingly.",
           "Locals are friendly, but learning a few basic Portuguese phrases is always polite."
+        ],
+        "pt": [
+          "Use calçado confortável, pois o centro tem ruas de calçada.",
+          "Leve bastante água, especialmente durante o verão.",
+          "A maioria das lojas e museus pode fechar para almoço, por isso planeie com antecedência.",
+          "Os locais são simpáticos, mas aprender algumas frases básicas em português é sempre educado."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Der Vormittag gehört dem Stadtmuseum, einem idealen trockenen Startpunkt. Mittags finden Sie in den Gassen der Altstadt zahlreiche Restaurants mit überdachten Eingängen. Am Nachmittag besuchen Sie die Kirchen Misericórdia und die Hauptkirche, die Schutz vor Schauern bieten. Den Tag schließen wir am Sameiro-Heiligtum ab, dessen monumentale Treppe im Regen glänzt und eine mystische Fernsicht bietet.",
             "hu": "A délelőttöt a városi múzeumban töltjük, amely kiváló fedett kiindulópont. Ebédidőben az óváros szűk utcáin számos fedett teraszos éttermet találunk. Délután a Misericórdia és a főtemplom belső terei nyújtanak menedéket a záporok elől. A napot a Sameiro-kegyhelyen zárjuk, ahol az esőben csillogó monumentális lépcsősor és a párás kilátás különleges, misztikus élményt nyújt.",
             "ro": "Dimineața este dedicată Muzeului Municipal, un punct de pornire ideal și uscat. La prânz, veți găsi numeroase restaurante cu intrări acoperite pe străzile înguste ale centrului vechi. După-amiaza, vizitați bisericile Misericórdia și biserica principală, care oferă adăpost împotriva ploii. Încheiem ziua la Sanctuarul Sameiro, a cărui scară monumentală strălucește în ploaie, oferind o priveliște mistică.",
-            "en": "Spend the morning at the Municipal Museum, an ideal dry starting point. At lunch, find numerous restaurants with covered entrances in the old town alleys. In the afternoon, visit the Misericórdia and Main churches, which provide shelter from showers. We end the day at the Sameiro Sanctuary, where the monumental staircase gleams in the rain, offering a mystical and atmospheric view."
+            "en": "Spend the morning at the Municipal Museum, an ideal dry starting point. At lunch, find numerous restaurants with covered entrances in the old town alleys. In the afternoon, visit the Misericórdia and Main churches, which provide shelter from showers. We end the day at the Sameiro Sanctuary, where the monumental staircase gleams in the rain, offering a mystical and atmospheric view.",
+            "pt": "Passe a manhã no Museu Municipal, um ponto de partida seco ideal. Ao almoço, encontrará inúmeros restaurantes com entradas cobertas nas ruelas da cidade velha. À tarde, visite as igrejas da Misericórdia e a Matriz, que oferecem abrigo das pancadas de chuva. Terminamos o dia no Santuário do Sameiro, onde a monumental escadaria brilha na chuva, oferecendo uma vista mística e atmosférica."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Garderobe für nasse Mäntel und Schirme direkt am Eingang vorhanden.",
                 "hu": "A bejáratnál ruhatár áll rendelkezésre a vizes kabátok és esernyők számára.",
                 "ro": "Garderobă disponibilă la intrare pentru haine ude și umbrele.",
-                "en": "Cloakroom available at the entrance for wet coats and umbrellas."
+                "en": "Cloakroom available at the entrance for wet coats and umbrellas.",
+                "pt": "Guarda‑roupa disponível à entrada para casacos e guarda‑chuvas molhados."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Der Innenraum ist ein perfekter Ort, um einen starken Regenguss abzuwarten.",
                 "hu": "A templombelső tökéletes hely egy intenzívebb zápor átvészelésére.",
                 "ro": "Interiorul este un loc perfect pentru a aștepta trecerea unei ploi torențiale.",
-                "en": "The interior is a perfect place to wait out a heavy downpour."
+                "en": "The interior is a perfect place to wait out a heavy downpour.",
+                "pt": "O interior é um local perfeito para aguardar uma chuva intensa."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Achten Sie auf die Granitstufen, sie können bei Nässe rutschig sein.",
                 "hu": "Vigyázzon a gránitlépcsőkre, mert esőben csúszósak lehetnek.",
                 "ro": "Atenție la treptele de granit, pot fi alunecoase când sunt ude.",
-                "en": "Watch out for the granite steps; they can be slippery when wet."
+                "en": "Watch out for the granite steps; they can be slippery when wet.",
+                "pt": "Cuidado com os degraus de granito; podem estar escorregadios quando molhados."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Wählen Sie ein Restaurant in der Rua Paço de Sousa für kurze Wege im Regen.",
                 "hu": "Válasszon éttermet a Rua Paço de Sousa környékén a rövid gyalogút érdekében.",
                 "ro": "Alegeți un restaurant pe Rua Paço de Sousa pentru distanțe scurte prin ploaie.",
-                "en": "Choose a restaurant near Rua Paço de Sousa for short walking distances in the rain."
+                "en": "Choose a restaurant near Rua Paço de Sousa for short walking distances in the rain.",
+                "pt": "Escolha um restaurante perto da Rua Paço de Sousa para curtas distâncias a pé na chuva."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Nutzen Sie die dichten Baumkronen als natürlichen Regenschutz beim Spaziergang.",
                 "hu": "Használja a sűrű lombkoronákat természetes esővédőként a séta során.",
                 "ro": "Folosiți coronamentul des al arborilor ca adăpost natural în timpul plimbării.",
-                "en": "Use the dense tree canopy as natural rain protection during your stroll."
+                "en": "Use the dense tree canopy as natural rain protection during your stroll.",
+                "pt": "Use a densa copa das árvores como proteção natural da chuva durante o passeio."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Die Auffahrt bietet bei Regen eine dramatische Sicht auf das Douro-Tal.",
                 "hu": "A feljáró esős időben drámai kilátást nyújt a Douro-völgy felé.",
                 "ro": "Urcarea oferă o vedere dramatică asupra văii Douro pe timp de ploaie.",
-                "en": "The ascent offers a dramatic view of the Douro Valley during rainy weather."
+                "en": "The ascent offers a dramatic view of the Douro Valley during rainy weather.",
+                "pt": "A subida oferece uma vista dramática sobre o Vale do Douro durante tempo chuvoso."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "Most museums and churches in Penafiel provide umbrella stands at the entrance.",
               "Use city center cafes for short breaks if the rain becomes too heavy.",
               "A compact umbrella is more convenient than a large one in the narrow alleys."
+            ],
+            "pt": [
+              "Use calçado impermeável, pois a água tende a acumular‑se entre as calçadas antigas da cidade.",
+              "A maioria dos museus e igrejas em Penafiel disponibiliza suportes para guarda‑chuvas à entrada.",
+              "Use os cafés do centro para pequenas pausas se a chuva aumentar demasiado.",
+              "Um guarda‑chuvas compacto é mais conveniente do que um grande nas ruelas estreitas."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "An kühlen Wintermorgen wärmen wir uns im modernen Stadtmuseum auf. Die Mittagssonne am Hauptplatz ist angenehm, bevor wir die historischen Kirchen besichtigen. Da es bereits gegen 17:30 Uhr dunkel wird, planen wir den Besuch des Calvary-Gartens am frühen Nachmittag. Der Tag endet am Sameiro-Heiligtum, wo die Winterdämmerung das Tal in tiefes Blau taucht und die Lichter der Stadt hell erstrahlen.",
             "hu": "A hűvös téli reggelen a modern városi múzeumban melegszünk fel. A főtér déli napsütése kellemes, mielőtt meglátogatnánk a történelmi templomokat. Mivel 17:30 körül sötétedik, a Calvary-kert meglátogatását kora délutánra időzítjük. A nap a Sameiro-kegyhelyen zárul, ahol a téli szürkület kékbe vonja a völgyet, és a város fényei ragyogni kezdenek.",
             "ro": "În diminețile reci de iarnă, ne încălzim în muzeul municipal modern. Soarele de la prânz în piața principală este plăcut înainte de a vizita bisericile istorice. Deoarece se întunecă în jur de 17:30, planificăm vizita la Grădina Calvary devreme după-amiaza. Ziua se încheie la Sanctuarul Sameiro, unde amurgul de iarnă îmbracă valea în albastru închis, iar luminile orașului strălucesc.",
-            "en": "On chilly winter mornings, we warm up inside the modern Municipal Museum. The midday sun in the main square is pleasant before visiting the historic churches. Since it gets dark around 17:30, we schedule the Calvary Garden for early afternoon. The day ends at the Sameiro Sanctuary, where the winter dusk dyes the valley in deep blue and the city lights begin to sparkle."
+            "en": "On chilly winter mornings, we warm up inside the modern Municipal Museum. The midday sun in the main square is pleasant before visiting the historic churches. Since it gets dark around 17:30, we schedule the Calvary Garden for early afternoon. The day ends at the Sameiro Sanctuary, where the winter dusk dyes the valley in deep blue and the city lights begin to sparkle.",
+            "pt": "Em manhãs frias de inverno aquecemo‑nos dentro do moderno Museu Municipal. O sol do meio‑dia na praça principal é agradável antes de visitar as igrejas históricas. Como escurece por volta das 17:30, marcamos o Jardim do Calvário para o início da tarde. O dia termina no Santuário do Sameiro, onde o crepúsculo invernal tinge o vale de azul profundo e as luzes da cidade começam a brilhar."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Die modernen Räume sind gut beheizt und bieten einen angenehmen Start.",
                 "hu": "A modern kiállítóterek jól fűtöttek, kellemes kezdést biztosítva.",
                 "ro": "Spațiile moderne sunt bine încălzite, oferind un început plăcut.",
-                "en": "The modern exhibition spaces are well-heated, providing a comfortable start."
+                "en": "The modern exhibition spaces are well-heated, providing a comfortable start.",
+                "pt": "Os espaços expositivos modernos são bem aquecidos, proporcionando um início confortável."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Im Inneren kann es kühl sein; behalten Sie Ihre Jacke während des Besuchs an.",
                 "hu": "Odabent hűvös lehet, érdemes a kabátot magunkon hagyni a látogatás alatt.",
                 "ro": "Poate fi răcoare în interior; păstrați jacheta pe parcursul vizitei.",
-                "en": "It can be chilly inside; keep your jacket on during the visit."
+                "en": "It can be chilly inside; keep your jacket on during the visit.",
+                "pt": "Pode estar frio no interior; mantenha o casaco durante a visita."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Besuchen Sie die Kirche gegen 15:00 Uhr, um das tiefe Winterlicht einzufangen.",
                 "hu": "Látogassa meg a templomot 15:00 körül a szép téli fények miatt.",
                 "ro": "Vizitați biserica în jurul orei 15:00 pentru a surprinde lumina joasă de iarnă.",
-                "en": "Visit the church around 15:00 to catch the beautiful low winter light."
+                "en": "Visit the church around 15:00 to catch the beautiful low winter light.",
+                "pt": "Visite a igreja por volta das 15:00 para apanhar a bonita luz baixa do inverno."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Probieren Sie herzhafte lokale Eintöpfe, die perfekt für kalte Tage sind.",
                 "hu": "Kóstolja meg a laktató helyi egytálételeket, amelyek kiválóak hideg napokon.",
                 "ro": "Gustați tocănițele locale consistente, perfecte pentru zilele reci.",
-                "en": "Try the hearty local stews, which are perfect for cold winter days."
+                "en": "Try the hearty local stews, which are perfect for cold winter days.",
+                "pt": "Experimente os guisados locais e reconfortantes, perfeitos para dias frios de inverno."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Die tiefstehende Sonne bietet hier ideale Bedingungen für Winterfotos.",
                 "hu": "Az alacsony állású nap kiváló feltételeket biztosít a téli fotózáshoz.",
                 "ro": "Soarele jos oferă condiții ideale pentru fotografii de iarnă aici.",
-                "en": "The low-hanging sun provides ideal conditions for winter photography here."
+                "en": "The low-hanging sun provides ideal conditions for winter photography here.",
+                "pt": "O sol baixo oferece condições ideais para fotografia de inverno aqui."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Bringen Sie warme Kleidung mit, da es oben auf dem Hügel windig sein kann.",
                 "hu": "Vigyen meleg ruhát, mert a dombtetőn szeles és hideg lehet az idő.",
                 "ro": "Aduceți haine groase, deoarece pe deal poate fi vânt și frig.",
-                "en": "Bring warm clothing, as it can be windy and cold up on the hill."
+                "en": "Bring warm clothing, as it can be windy and cold up on the hill.",
+                "pt": "Leve roupa quente, pois pode estar ventoso e frio no monte."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "Dress in layers; it's warm in the sun but very chilly in the shade.",
               "A hot Galão (latte) in a local pastry shop works wonders against the cold.",
               "High humidity in northern Portugal can make the cold feel more intense."
+            ],
+            "pt": [
+              "O pôr do sol é por volta das 17:30, por isso planeie atividades ao ar livre para mais cedo no dia.",
+              "Vista‑se em camadas; está quente ao sol, mas muito frio à sombra.",
+              "Um Galão quente numa pastelaria local faz maravilhas contra o frio.",
+              "A elevada humidade no norte de Portugal pode tornar o frio mais intenso."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Quinta da Aveleda",
             "hu": "Quinta da Aveleda",
             "ro": "Quinta da Aveleda",
-            "en": "Quinta da Aveleda"
+            "en": "Quinta da Aveleda",
+            "pt": "Quinta da Aveleda"
           },
           "coords": [
             41.1944,
@@ -575,7 +621,8 @@
             "de": "Nehmen Sie an einer Führung teil, um mehr über die Weinherstellung und die Gärten zu erfahren.",
             "hu": "Vegyen részt egy vezetett túrán, hogy megismerje a borkészítést és a kerteket.",
             "ro": "Participați la un tur ghidat pentru a învăța despre producția de vin și grădini.",
-            "en": "Take a guided tour to learn about the wine production and gardens."
+            "en": "Take a guided tour to learn about the wine production and gardens.",
+            "pt": "Faça uma visita guiada para conhecer a produção de vinho e os jardins."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Stadtmuseum von Penafiel",
             "hu": "Penafiel Városi Múzeum",
             "ro": "Muzeul Municipal din Penafiel",
-            "en": "Municipal Museum of Penafiel"
+            "en": "Municipal Museum of Penafiel",
+            "pt": "Museu Municipal de Penafiel"
           },
           "coords": [
             41.2015,
@@ -599,7 +647,8 @@
             "de": "Verbinden Sie die Geschichte der Quinta mit den lokalen Funden hier.",
             "hu": "Kösd össze a Quinta történelmét az itt található helyi leletekkel.",
             "ro": "Conectați istoria de la Quinta cu artefactele locale de aici.",
-            "en": "Connect the history from the Quinta with the local finds here."
+            "en": "Connect the history from the Quinta with the local finds here.",
+            "pt": "Ligue a história da Quinta aos achados locais aqui."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "pt": "Almoço no Centro da Cidade"
           },
           "coords": [
             41.202,
@@ -623,7 +673,8 @@
             "de": "Laden Sie Ihre Batterien mit einem leichten Mittagessen und einem Glas Vinho Verde auf.",
             "hu": "Töltődj fel egy könnyű ebéddel és egy pohár Vinho Verdével.",
             "ro": "Reîncărcați-vă bateriile cu un prânz ușor și un pahar de Vinho Verde.",
-            "en": "Recharge with a light lunch and a glass of Vinho Verde."
+            "en": "Recharge with a light lunch and a glass of Vinho Verde.",
+            "pt": "Recarregue energias com um almoço leve e um copo de Vinho Verde."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Kalvarienberg-Garten",
             "hu": "Calvário Kert",
             "ro": "Grădina Calvário",
-            "en": "Calvary Garden"
+            "en": "Calvary Garden",
+            "pt": "Jardim do Calvário"
           },
           "coords": [
             41.1995,
@@ -647,7 +699,8 @@
             "de": "Machen Sie eine kurze Pause, bevor Sie zum anspruchsvollsten Teil der Fahrt aufbrechen.",
             "hu": "Tarts egy rövid szünetet a túra legnehezebb szakasza előtt.",
             "ro": "Faceți o scurtă pauză înainte de a porni pe cea mai dificilă parte a traseului.",
-            "en": "Take a short break before heading to the most challenging part of the ride."
+            "en": "Take a short break before heading to the most challenging part of the ride.",
+            "pt": "Faça uma curta pausa antes de seguir para a parte mais exigente do passeio."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Castro de Monte Mozinho",
             "hu": "Castro de Monte Mozinho",
             "ro": "Castro de Monte Mozinho",
-            "en": "Castro de Monte Mozinho"
+            "en": "Castro de Monte Mozinho",
+            "pt": "Castro de Monte Mozinho"
           },
           "coords": [
             41.1667,
@@ -671,7 +725,8 @@
             "de": "Der Aufstieg ist es wert. Erkunden Sie die alten römischen und vorrömischen Ruinen.",
             "hu": "Megéri a kaptatót. Fedezd fel az ókori római és prerómai romokat.",
             "ro": "Urcușul merită. Explorați ruinele antice romane și pre-romane.",
-            "en": "The climb is worth it. Explore the ancient Roman and pre-Roman ruins."
+            "en": "The climb is worth it. Explore the ancient Roman and pre-Roman ruins.",
+            "pt": "A subida vale a pena. Explore as antigas ruínas romanas e pré‑romanas."
           }
         }
       ],
@@ -679,7 +734,8 @@
         "de": "Beginnen Sie Ihren Radtag mit einer Fahrt zur berühmten Quinta da Aveleda für eine Weinprobe. Fahren Sie zurück ins Stadtzentrum, um das Museum zu erkunden und ein wohlverdientes Mittagessen einzunehmen. Nach einer kurzen Pause im Calvary Garden stellen Sie sich der Herausforderung und radeln zum historischen Castro de Monte Mozinho. Der Tag endet mit einer lohnenden Abfahrt zurück in die Stadt, voller Geschichte und schöner Landschaften.",
         "hu": "Kezdje a kerékpáros napot egy túrával a híres Quinta da Aveledába egy borkóstolóra. Tekerjen vissza a városközpontba, hogy felfedezze a múzeumot és elfogyasszon egy jól megérdemelt ebédet. A Calvário Kertben tartott rövid pihenő után vállalja a kihívást, és kerékpározzon el a történelmi Castro de Monte Mozinhohoz. A nap egy jutalmazó ereszkedéssel zárul vissza a városba, tele történelemmel és gyönyörű tájakkal.",
         "ro": "Începeți ziua pe bicicletă cu o plimbare la faimoasa Quinta da Aveleda pentru o degustare de vinuri. Pedalați înapoi în centrul orașului pentru a explora muzeul și a lua un prânz binemeritat. După o scurtă pauză în Grădina Calvário, acceptați provocarea și pedalați până la istoricul Castro de Monte Mozinho. Ziua se încheie cu o coborâre plină de satisfacții înapoi în oraș, plină de istorie și peisaje frumoase.",
-        "en": "Start your cycling day with a ride to the famous Quinta da Aveleda for a wine tasting experience. Pedal back to the city center to explore the museum and have a well-deserved lunch. After a short break in the Calvary Garden, take on the challenge and cycle to the historic Castro de Monte Mozinho. The day ends with a rewarding descent back into town, filled with history and beautiful landscapes."
+        "en": "Start your cycling day with a ride to the famous Quinta da Aveleda for a wine tasting experience. Pedal back to the city center to explore the museum and have a well-deserved lunch. After a short break in the Calvary Garden, take on the challenge and cycle to the historic Castro de Monte Mozinho. The day ends with a rewarding descent back into town, filled with history and beautiful landscapes.",
+        "pt": "Comece o dia de bicicleta com um passeio até à famosa Quinta da Aveleda para uma prova de vinhos. Pedale de volta ao centro da cidade para visitar o museu e almoçar merecidamente. Após uma breve pausa no Jardim do Calvário, enfrente o desafio e pedale até ao histórico Castro de Monte Mozinho. O dia termina com uma descida recompensadora de volta à cidade, cheia de história e belas paisagens."
       },
       "gastro_picks": {
         "de": [
@@ -875,6 +931,12 @@
           "A helmet is highly recommended.",
           "Always lock your bike when leaving it unattended.",
           "Check the opening hours for Quinta da Aveleda and book tours in advance."
+        ],
+        "pt": [
+          "Certifique‑se de que a sua bicicleta é adequada para subidas, pois o percurso até Monte Mozinho é íngreme.",
+          "É altamente recomendável usar capacete.",
+          "Tranque sempre a sua bicicleta quando a deixar sem vigilância.",
+          "Verifique os horários de abertura da Quinta da Aveleda e reserve as visitas com antecedência."
         ]
       },
       "variants": {
@@ -883,7 +945,8 @@
             "de": "Wir starten bei Quinta da Aveleda, wo die Kellereien Schutz bieten. Die Fahrt zum Stadtmuseum erfolgt auf asphaltierten Straßen, um Schlamm zu vermeiden. Mittags rasten wir im Zentrum und prüfen unsere Ausrüstung. Am Nachmittag führt der Weg zum Calvary-Garten, wobei wir auf nassen Granit achten. Die Tour endet am Castro de Monte Mozinho, wo die antiken Steine im Regen eine besonders raue Schönheit entfalten.",
             "hu": "A Quinta da Aveleda birtokon kezdünk, ahol a borospincék védelmet nyújtanak. A múzeumhoz aszfaltozott úton tekerünk, elkerülve a sarat. Délben a központban pihenünk és ellenőrizzük a felszerelést. Délután a Calvary-kert felé vesszük az irányt, figyelve a vizes gránitburkolatra. A túra a Castro de Monte Mozinho-nál zárul, ahol az ókori kövek az esőben különleges, nyers szépséget mutatnak.",
             "ro": "Începem la Quinta da Aveleda, unde cramele oferă protecție. Drumul către muzeu se face pe drumuri asfaltate pentru a evita noroiul. La prânz, ne odihnim în centru și verificăm echipamentul. După-amiaza, traseul duce spre Grădina Calvary, cu atenție la granitul ud. Turul se încheie la Castro de Monte Mozinho, unde pietrele antice capătă o frumusețe brută deosebită sub ploaie.",
-            "en": "We start at Quinta da Aveleda, where the wine cellars offer shelter. The ride to the museum follows paved roads to avoid mud. At noon, we rest in the center and check our gear. In the afternoon, the route leads to Calvary Garden, being careful on wet granite. The tour ends at Castro de Monte Mozinho, where the ancient stones display a particularly raw beauty in the rain."
+            "en": "We start at Quinta da Aveleda, where the wine cellars offer shelter. The ride to the museum follows paved roads to avoid mud. At noon, we rest in the center and check our gear. In the afternoon, the route leads to Calvary Garden, being careful on wet granite. The tour ends at Castro de Monte Mozinho, where the ancient stones display a particularly raw beauty in the rain.",
+            "pt": "Começamos na Quinta da Aveleda, onde as adegas oferecem abrigo. O percurso até ao museu segue por estradas pavimentadas para evitar lama. Ao meio-dia, repousamos no centro e verificamos o equipamento. À tarde, a rota conduz ao Jardim do Calvário, tendo cuidado com o granito molhado. A visita termina no Castro de Monte Mozinho, onde as pedras antigas exibem uma beleza particularmente crua na chuva."
           },
           "stops": [
             {
@@ -892,7 +955,8 @@
                 "de": "Die Weinkeller und der Verkostungsraum sind komplett überdacht.",
                 "hu": "A borospincék és a kóstolóhelyiség teljesen fedett és száraz.",
                 "ro": "Cramele și sala de degustare sunt complet acoperite și uscate.",
-                "en": "The wine cellars and the tasting room are completely covered and dry."
+                "en": "The wine cellars and the tasting room are completely covered and dry.",
+                "pt": "As adegas e a sala de provas estão completamente cobertas e secas."
               }
             },
             {
@@ -901,7 +965,8 @@
                 "de": "Sichere Fahrradständer befinden sich in der Nähe des Haupteingangs.",
                 "hu": "Biztonságos kerékpártárolók találhatók a főbejárat közelében.",
                 "ro": "Suporturi sigure pentru biciclete se află lângă intrarea principală.",
-                "en": "Secure bike racks are located near the main entrance."
+                "en": "Secure bike racks are located near the main entrance.",
+                "pt": "Paraciclos seguros estão localizados perto da entrada principal."
               }
             },
             {
@@ -910,7 +975,8 @@
                 "de": "Suchen Sie Lokale mit Blick auf Ihr Fahrrad, um es im Auge zu behalten.",
                 "hu": "Keressen olyan helyet, ahonnan rálát a biciklijére az esőben is.",
                 "ro": "Căutați localuri cu vedere spre bicicletă pentru a o supraveghea.",
-                "en": "Find a spot where you can keep an eye on your bike through the window."
+                "en": "Find a spot where you can keep an eye on your bike through the window.",
+                "pt": "Encontre um local onde consiga vigiar a sua bicicleta através da janela."
               }
             },
             {
@@ -919,7 +985,8 @@
                 "de": "Die Wege können durch nasses Laub rutschig sein; fahren Sie vorsichtig.",
                 "hu": "Az utak a vizes levelek miatt csúszósak lehetnek; tekerjen óvatosan.",
                 "ro": "Aleile pot fi alunecoase din cauza frunzelor ude; pedalați cu prudență.",
-                "en": "The paths can be slippery from wet leaves; ride with caution."
+                "en": "The paths can be slippery from wet leaves; ride with caution.",
+                "pt": "Os caminhos podem ficar escorregadios devido a folhas molhadas; conduza com precaução."
               }
             },
             {
@@ -928,7 +995,8 @@
                 "de": "Vermeiden Sie die unbefestigten Pfade und bleiben Sie auf den Hauptwegen.",
                 "hu": "Kerülje a földutakat, maradjon a kijelölt kövezett főutakon.",
                 "ro": "Evitați potecile neamenajate și rămâneți pe drumurile principale.",
-                "en": "Avoid the unpaved trails and stick to the main established paths."
+                "en": "Avoid the unpaved trails and stick to the main established paths.",
+                "pt": "Evite os trilhos não pavimentados e mantenha-se nas principais rotas estabelecidas."
               }
             }
           ],
@@ -956,6 +1024,12 @@
               "Avoid the dirt paths around Castro de Monte Mozinho in the rain due to mud.",
               "Waterproof panniers are essential for keeping your spare clothes dry.",
               "Use bright lights, as visibility decreases significantly during rainfall."
+            ],
+            "pt": [
+              "Verifique as pastilhas de travão; o granito molhado aumenta significativamente a distância de travagem.",
+              "Evite os caminhos de terra em redor do Castro de Monte Mozinho com chuva devido à lama.",
+              "Alforges impermeáveis são essenciais para manter a roupa extra seca.",
+              "Use luzes fortes, pois a visibilidade diminui significativamente durante a chuva."
             ]
           }
         },
@@ -964,7 +1038,8 @@
             "de": "Morgens besuchen wir Quinta da Aveleda, wenn der Raureif noch auf den Reben liegt. Die Fahrt zum Museum hilft, bei kühleren Temperaturen warm zu bleiben. Mittags genießen wir die Sonne im Stadtzentrum. Am Nachmittag radeln wir zum Calvary-Garten, wobei wir die tiefstehende Sonne im Rücken haben. Die Tour endet am Castro de Monte Mozinho pünktlich zum Sonnenuntergang, bevor die Abendkälte einsetzt.",
             "hu": "Reggel a Quinta da Aveleda birtokot látogatjuk meg, amikor a dér még a tőkéken csillog. A múzeumhoz vezető út segít bemelegedni a hűvös időben. Délben a városközpont napsütését élvezzük. Délután a Calvary-kert felé tekerünk, az alacsonyan járó nappal a hátunk mögött. A túra a Castro de Monte Mozinho-nál zárul, pontosan naplementére, mielőtt beállna az esti fagy.",
             "ro": "Dimineața vizităm Quinta da Aveleda, când chiciura încă strălucește pe vița de vie. Drumul spre muzeu ajută la încălzire în temperaturile scăzute. La prânz, ne bucurăm de soare în centrul orașului. După-amiaza, pedalăm spre Grădina Calvary cu soarele jos în spate. Turul se încheie la Castro de Monte Mozinho exact la apus, înainte de lăsarea frigului de seară.",
-            "en": "In the morning, we visit Quinta da Aveleda while hoarfrost still sparkles on the vines. The ride to the museum helps keep us warm in the cooler temperatures. At noon, we enjoy the sun in the city center. In the afternoon, we cycle to Calvary Garden with the low sun at our backs. The tour ends at Castro de Monte Mozinho right at sunset, before the evening chill sets in."
+            "en": "In the morning, we visit Quinta da Aveleda while hoarfrost still sparkles on the vines. The ride to the museum helps keep us warm in the cooler temperatures. At noon, we enjoy the sun in the city center. In the afternoon, we cycle to Calvary Garden with the low sun at our backs. The tour ends at Castro de Monte Mozinho right at sunset, before the evening chill sets in.",
+            "pt": "De manhã, visitamos a Quinta da Aveleda enquanto a geada ainda brilha nas vinhas. A deslocação até ao museu ajuda a aquecer-nos nas temperaturas mais frias. Ao meio-dia, desfrutamos do sol no centro da cidade. À tarde, pedalamos até ao Jardim do Calvário com o sol baixo às nossas costas. A visita termina no Castro de Monte Mozinho mesmo ao pôr do sol, antes do frio da noite se instalar."
           },
           "stops": [
             {
@@ -973,7 +1048,8 @@
                 "de": "Frühmorgens kann es in den Gärten sehr kühl sein; tragen Sie Schichten.",
                 "hu": "Kora reggel a kertekben nagyon hűvös lehet; öltözzön rétegesen.",
                 "ro": "Dimineața devreme poate fi foarte răcoare în grădini; purtați straturi.",
-                "en": "Early morning in the gardens can be very chilly; wear layers."
+                "en": "Early morning in the gardens can be very chilly; wear layers.",
+                "pt": "De manhã cedo nos jardins pode estar muito frio; vista-se em camadas."
               }
             },
             {
@@ -982,7 +1058,8 @@
                 "de": "Nutzen Sie den Museumsbesuch, um Ihre Hände wieder aufzuwärmen.",
                 "hu": "Használja ki a múzeumlátogatást a kezei felmelegítésére.",
                 "ro": "Folosiți vizita la muzeu pentru a vă reîncălzi mâinile.",
-                "en": "Use the museum visit as an opportunity to warm up your hands."
+                "en": "Use the museum visit as an opportunity to warm up your hands.",
+                "pt": "Use a visita ao museu como oportunidade para aquecer as mãos."
               }
             },
             {
@@ -991,7 +1068,8 @@
                 "de": "Suchen Sie sich einen Platz an einem sonnigen Fensterplatz im Café.",
                 "hu": "Keressen egy napos ablak melletti asztalt a kávézóban.",
                 "ro": "Căutați un loc la o masă însorită lângă fereastră în cafenea.",
-                "en": "Look for a table by a sunny window in the cafe."
+                "en": "Look for a table by a sunny window in the cafe.",
+                "pt": "Procure uma mesa junto a uma janela soalheira no café."
               }
             },
             {
@@ -1000,7 +1078,8 @@
                 "de": "Der Park ist im Winter sehr ruhig und bietet klare Sichtachsen.",
                 "hu": "A park télen nagyon csendes, tiszta kilátást nyújtva a környékre.",
                 "ro": "Parcul este foarte liniștit iarna, oferind axe de vizibilitate clare.",
-                "en": "The park is very quiet in winter, offering clear lines of sight."
+                "en": "The park is very quiet in winter, offering clear lines of sight.",
+                "pt": "O parque é muito tranquilo no inverno, oferecendo linhas de visão claras."
               }
             },
             {
@@ -1009,7 +1088,8 @@
                 "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit gegen 17:30 Uhr.",
                 "hu": "Tervezze meg a visszautat a sötétedés előtt, 17:30 környékére.",
                 "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului, pe la 17:30.",
-                "en": "Plan your return trip before darkness falls around 17:30."
+                "en": "Plan your return trip before darkness falls around 17:30.",
+                "pt": "Planeie a viagem de regresso antes que escureça por volta das 17:30."
               }
             }
           ],
@@ -1037,6 +1117,12 @@
               "The winter sun is low; sunglasses are necessary even for cycling.",
               "Watch out for hoarfrost in shaded curves on country roads.",
               "Take a hot drink in a thermos for your longer breaks."
+            ],
+            "pt": [
+              "Luvas de dedo inteiro são indispensáveis nas descidas com o frio de inverno.",
+              "O sol de inverno está baixo; óculos de sol são necessários mesmo para pedalar.",
+              "Cuidado com a geada nas curvas sombreadas das estradas rurais.",
+              "Leve uma bebida quente num termo para as pausas mais longas."
             ]
           }
         }
@@ -1055,7 +1141,8 @@
             "de": "Castro de Monte Mozinho",
             "hu": "Castro de Monte Mozinho",
             "ro": "Castro de Monte Mozinho",
-            "en": "Castro de Monte Mozinho"
+            "en": "Castro de Monte Mozinho",
+            "pt": "Castro de Monte Mozinho"
           },
           "coords": [
             41.1667,
@@ -1071,7 +1158,8 @@
             "de": "Kommen Sie früh an, um die Menschenmassen zu vermeiden und das beste Licht zum Fotografieren zu haben.",
             "hu": "Érkezz korán, hogy elkerüld a tömeget és a legjobb fényviszonyok legyenek a fotózáshoz.",
             "ro": "Ajungeți devreme pentru a evita mulțimea și pentru a avea cea mai bună lumină pentru fotografii.",
-            "en": "Arrive early to avoid the crowds and have the best light for photography."
+            "en": "Arrive early to avoid the crowds and have the best light for photography.",
+            "pt": "Chegue cedo para evitar multidões e ter a melhor luz para fotografia."
           }
         },
         {
@@ -1079,7 +1167,8 @@
             "de": "Quinta da Aveleda",
             "hu": "Quinta da Aveleda",
             "ro": "Quinta da Aveleda",
-            "en": "Quinta da Aveleda"
+            "en": "Quinta da Aveleda",
+            "pt": "Quinta da Aveleda"
           },
           "coords": [
             41.1944,
@@ -1095,7 +1184,8 @@
             "de": "Buchen Sie im Voraus eine Weinprobe – ein Muss!",
             "hu": "Foglalj előre borkóstolót – ez kihagyhatatlan!",
             "ro": "Rezervați în avans o degustare de vinuri - este o necesitate!",
-            "en": "Book a wine tasting tour in advance – it's a must-do!"
+            "en": "Book a wine tasting tour in advance – it's a must-do!",
+            "pt": "Reserve uma prova de vinhos com antecedência – é imperdível!"
           }
         },
         {
@@ -1103,7 +1193,8 @@
             "de": "Mittagessen in der Nähe von Aveleda",
             "hu": "Ebéd Aveleda közelében",
             "ro": "Prânz lângă Aveleda",
-            "en": "Lunch near Aveleda"
+            "en": "Lunch near Aveleda",
+            "pt": "Almoço perto da Aveleda"
           },
           "coords": [
             41.195,
@@ -1119,7 +1210,8 @@
             "de": "Es gibt mehrere Restaurants, die köstliche regionale Gerichte servieren.",
             "hu": "Több étterem is finom regionális ételeket szolgál fel.",
             "ro": "Există mai multe restaurante în apropiere care servesc mâncăruri regionale delicioase.",
-            "en": "There are several nearby restaurants serving delicious regional food."
+            "en": "There are several nearby restaurants serving delicious regional food.",
+            "pt": "Existem vários restaurantes nas proximidades a servir deliciosa comida regional."
           }
         },
         {
@@ -1127,7 +1219,8 @@
             "de": "Parken im Stadtzentrum",
             "hu": "Parkolás a belvárosban",
             "ro": "Parcare în centrul orașului",
-            "en": "Park in City Center"
+            "en": "Park in City Center",
+            "pt": "Estacione no Centro da Cidade"
           },
           "coords": [
             41.2,
@@ -1143,7 +1236,8 @@
             "de": "Finden Sie einen zentralen Parkplatz, um den Rest zu Fuß zu erkunden.",
             "hu": "Keress egy központi parkolót, és fedezd fel a többit gyalog.",
             "ro": "Găsiți o parcare centrală pentru a explora restul pe jos.",
-            "en": "Find a central parking spot to explore the rest on foot."
+            "en": "Find a central parking spot to explore the rest on foot.",
+            "pt": "Encontre um lugar de estacionamento central para explorar o resto a pé."
           }
         },
         {
@@ -1151,7 +1245,8 @@
             "de": "Stadtmuseum von Penafiel",
             "hu": "Penafiel Városi Múzeum",
             "ro": "Muzeul Municipal din Penafiel",
-            "en": "Municipal Museum of Penafiel"
+            "en": "Municipal Museum of Penafiel",
+            "pt": "Museu Municipal de Penafiel"
           },
           "coords": [
             41.2015,
@@ -1167,7 +1262,8 @@
             "de": "Ein schneller Besuch, um die Artefakte von dem Ort zu sehen, an dem Sie den Tag begonnen haben.",
             "hu": "Egy gyors látogatás, hogy megnézd a leleteket onnan, ahol a napot kezdted.",
             "ro": "O vizită rapidă pentru a vedea artefactele de la locul unde ați început ziua.",
-            "en": "A quick visit to see the artifacts from where you started the day."
+            "en": "A quick visit to see the artifacts from where you started the day.",
+            "pt": "Uma visita rápida para ver os artefactos do local onde começou o dia."
           }
         },
         {
@@ -1175,7 +1271,8 @@
             "de": "Jardim do Calvário",
             "hu": "Calvário Kert",
             "ro": "Grădina Calvário",
-            "en": "Calvary Garden"
+            "en": "Calvary Garden",
+            "pt": "Jardim do Calvário"
           },
           "coords": [
             41.1995,
@@ -1191,7 +1288,8 @@
             "de": "Entspannen Sie sich nach einem langen Tag voller Erkundungen.",
             "hu": "Pihenj egy hosszú, felfedezéssel teli nap után.",
             "ro": "Relaxați-vă după o zi lungă de explorare.",
-            "en": "Relax and unwind after a long day of exploring."
+            "en": "Relax and unwind after a long day of exploring.",
+            "pt": "Relaxe e descontraia depois de um longo dia de exploração."
           }
         },
         {
@@ -1199,7 +1297,8 @@
             "de": "Magikland",
             "hu": "Magikland",
             "ro": "Magikland",
-            "en": "Magikland"
+            "en": "Magikland",
+            "pt": "Magikland"
           },
           "coords": [
             41.2083,
@@ -1215,7 +1314,8 @@
             "de": "Wenn Sie mit Kindern reisen, ist dies ein lustiger Abschluss des Tages.",
             "hu": "Ha gyerekekkel utazol, ez egy szórakoztató befejezése a napnak.",
             "ro": "Dacă călătoriți cu copii, acesta este un mod distractiv de a încheia ziua.",
-            "en": "If you're traveling with kids, this is a fun way to end the day."
+            "en": "If you're traveling with kids, this is a fun way to end the day.",
+            "pt": "Se viaja com crianças, esta é uma forma divertida de terminar o dia."
           }
         }
       ],
@@ -1223,7 +1323,8 @@
         "de": "Starten Sie Ihr Auto-Abenteuer am historischen Castro de Monte Mozinho. Fahren Sie dann zur Quinta da Aveleda für ein exquisites Wein- und Gartenerlebnis, gefolgt von einem Mittagessen. Am Nachmittag parken Sie im Zentrum von Penafiel und erkunden zu Fuß das Museum und den Calvary Garden. Optional können Sie den Tag im Magikland ausklingen lassen, besonders wenn Sie mit der Familie unterwegs sind.",
         "hu": "Kezdje az autós kalandot a történelmi Castro de Monte Mozinhónál. Ezután vezessen a Quinta da Aveledába egy kiváló bor- és kertélményért, majd ebédeljen. Délután parkoljon le Penafiel központjában, és fedezze fel gyalog a múzeumot és a Calvário Kertet. Opcionálisan a napot a Magiklandben zárhatja, különösen, ha családdal utazik.",
         "ro": "Începeți aventura cu mașina la istoricul Castro de Monte Mozinho. Apoi, conduceți la Quinta da Aveleda pentru o experiență rafinată de vin și grădină, urmată de prânz. După-amiaza, parcați în centrul orașului Penafiel și explorați pe jos muzeul și Grădina Calvário. Opțional, încheiați ziua la Magikland, mai ales dacă sunteți cu familia.",
-        "en": "Start your car adventure at the historic Castro de Monte Mozinho. Then, drive to Quinta da Aveleda for an exquisite wine and garden experience, followed by lunch. In the afternoon, park in the center of Penafiel and explore the museum and Calvary Garden on foot. Optionally, end the day at Magikland, especially if you're with family."
+        "en": "Start your car adventure at the historic Castro de Monte Mozinho. Then, drive to Quinta da Aveleda for an exquisite wine and garden experience, followed by lunch. In the afternoon, park in the center of Penafiel and explore the museum and Calvary Garden on foot. Optionally, end the day at Magikland, especially if you're with family.",
+        "pt": "Comece a sua aventura de carro no histórico Castro de Monte Mozinho. Depois, conduza até à Quinta da Aveleda para uma experiência requintada de vinhos e jardins, seguida de almoço. À tarde, estacione no centro de Penafiel e explore o museu e o Jardim do Calvário a pé. Opcionalmente, termine o dia no Magikland, especialmente se estiver com a família."
       },
       "gastro_picks": {
         "de": [
@@ -1419,6 +1520,12 @@
           "Parking can be challenging in the city center, so be patient.",
           "The driver should be cautious with wine tastings. Portugal has strict drink-driving laws.",
           "Check fuel prices as they can vary."
+        ],
+        "pt": [
+          "Use uma aplicação GPS para navegar entre os locais mais distantes.",
+          "O estacionamento pode ser difícil no centro da cidade, por isso tenha paciência.",
+          "O condutor deve ter cuidado com as provas de vinho. Portugal tem leis estritas contra condução sob influência.",
+          "Verifique os preços dos combustíveis, pois podem variar."
         ]
       },
       "variants": {
@@ -1427,7 +1534,8 @@
             "de": "Wir starten am Castro de Monte Mozinho, wo der Parkplatz direkt am Eingang liegt. Danach geht es zur Quinta da Aveleda, deren Innenhöfe gut befestigt sind. Mittags parken wir bequem in der Nähe der Aveleda für ein entspanntes Essen. Am Nachmittag führt die Fahrt zum Stadtzentrum, wo wir das Auto im Parkhaus abstellen und das Museum besuchen. Der Tag endet im Magikland, wobei wir die wetterfesten Attraktionen priorisieren.",
             "hu": "A Castro de Monte Mozinho-nál kezdünk, ahol a parkoló közvetlenül a bejáratnál van. Ezután a Quinta da Aveleda következik, melynek udvarai jól burkoltak. Ebédre kényelmesen parkolunk az Aveleda közelében. Délután a városközpontba hajtunk, ahol mélygarázsban hagyjuk az autót a múzeumlátogatáshoz. A napot a Magiklandben zárjuk, a fedett attrakciókat előtérbe helyezve.",
             "ro": "Începem la Castro de Monte Mozinho, unde parcarea este chiar la intrare. Apoi mergem la Quinta da Aveleda, ale cărei curți interioare sunt bine pavate. La prânz parcăm confortabil lângă Aveleda pentru o masă relaxată. După-amiaza conducem spre centru, unde lăsăm mașina în parcare pentru a vizita muzeul. Ziua se încheie la Magikland, prioritizând atracțiile acoperite.",
-            "en": "We start at Castro de Monte Mozinho, where the parking lot is right at the entrance. Next is Quinta da Aveleda, whose inner courtyards are well-paved. For lunch, we park comfortably near Aveleda. In the afternoon, we drive to the city center, leaving the car in a garage to visit the museum. The day ends at Magikland, prioritizing the weather-protected attractions."
+            "en": "We start at Castro de Monte Mozinho, where the parking lot is right at the entrance. Next is Quinta da Aveleda, whose inner courtyards are well-paved. For lunch, we park comfortably near Aveleda. In the afternoon, we drive to the city center, leaving the car in a garage to visit the museum. The day ends at Magikland, prioritizing the weather-protected attractions.",
+            "pt": "Começamos no Castro de Monte Mozinho, onde o parque de estacionamento fica mesmo à entrada. Segue-se a Quinta da Aveleda, cujos pátios interiores são bem pavimentados. Para o almoço, estacionamos confortavelmente perto da Aveleda. À tarde, conduzimos até ao centro da cidade, deixando o carro numa garagem para visitar o museu. O dia termina no Magikland, privilegiando as atrações protegidas do tempo."
           },
           "stops": [
             {
@@ -1436,7 +1544,8 @@
                 "de": "Der Parkplatz kann bei starkem Regen Pfützen bilden; parken Sie am Rand.",
                 "hu": "A parkolóban nagy esőben tócsák alakulhatnak ki; parkoljon a szélén.",
                 "ro": "În parcare se pot forma bălți la ploi mari; parcați la margine.",
-                "en": "The parking lot can develop large puddles in heavy rain; park at the edge."
+                "en": "The parking lot can develop large puddles in heavy rain; park at the edge.",
+                "pt": "O parque de estacionamento pode formar grandes poças em chuva forte; estacione na margem."
               }
             },
             {
@@ -1445,7 +1554,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Aussteigen der Passagiere.",
                 "hu": "Használja a fedett bejárati részt az utasok kiszállásához.",
                 "ro": "Folosiți zona de intrare acoperită pentru debarcarea pasagerilor.",
-                "en": "Use the covered entrance area for dropping off passengers dry."
+                "en": "Use the covered entrance area for dropping off passengers dry.",
+                "pt": "Use a área de entrada coberta para deixar passageiros secos."
               }
             },
             {
@@ -1454,7 +1564,8 @@
                 "de": "Es gibt ausreichend Parkplätze direkt vor den Restaurants an der N15.",
                 "hu": "Közvetlenül az N15 út melletti éttermek előtt bőséges a parkolóhely.",
                 "ro": "Există suficiente locuri de parcare chiar în fața restaurantelor de pe N15.",
-                "en": "There is ample parking directly in front of the restaurants on the N15."
+                "en": "There is ample parking directly in front of the restaurants on the N15.",
+                "pt": "Há amplo estacionamento mesmo em frente aos restaurantes na N15."
               }
             },
             {
@@ -1463,7 +1574,8 @@
                 "de": "Das Parkhaus 'Pena' bietet direkten trockenen Zugang zur Stadtmitte.",
                 "hu": "A 'Pena' parkolóházból közvetlen, száraz út vezet a városközpontba.",
                 "ro": "Parcarea 'Pena' oferă acces direct și uscat spre centrul orașului.",
-                "en": "The 'Pena' parking garage offers direct dry access to the city center."
+                "en": "The 'Pena' parking garage offers direct dry access to the city center.",
+                "pt": "A garagem 'Pena' oferece acesso direto e seco ao centro da cidade."
               }
             },
             {
@@ -1472,7 +1584,8 @@
                 "de": "Der kurze Weg vom Parkhaus zum Museum ist größtenteils windgeschützt.",
                 "hu": "A parkolóháztól a múzeumig tartó rövid út nagyrészt szélvédett.",
                 "ro": "Drumul scurt de la parcare la muzeu este în mare parte ferit de vânt.",
-                "en": "The short walk from the parking garage to the museum is mostly sheltered."
+                "en": "The short walk from the parking garage to the museum is mostly sheltered.",
+                "pt": "A curta caminhada da garagem até ao museu é maioritariamente coberta."
               }
             },
             {
@@ -1481,7 +1594,8 @@
                 "de": "Bei starkem Regen bietet die Sicht aus dem Auto einen guten Überblick.",
                 "hu": "Heves esőben az autóból is jó rálátás nyílik a kertre.",
                 "ro": "În caz de ploaie torențială, vederea din mașină oferă o perspectivă bună.",
-                "en": "In heavy rain, the view from the car still offers a good overview."
+                "en": "In heavy rain, the view from the car still offers a good overview.",
+                "pt": "Em chuva forte, a vista a partir do carro ainda oferece uma boa panorâmica."
               }
             },
             {
@@ -1490,7 +1604,8 @@
                 "de": "Prüfen Sie vorab, welche Fahrgeschäfte bei Regen in Betrieb sind.",
                 "hu": "Előre ellenőrizze, mely játékok üzemelnek esős időben.",
                 "ro": "Verificați în avans care atracții funcționează pe timp de ploaie.",
-                "en": "Check in advance which rides are operational during rainy weather."
+                "en": "Check in advance which rides are operational during rainy weather.",
+                "pt": "Verifique previamente quais as attracções em funcionamento durante o tempo chuvoso."
               }
             }
           ],
@@ -1518,6 +1633,12 @@
               "Use underground parking in the center to reach shops without getting wet.",
               "Visibility in the hills around Penafiel can decrease rapidly during storms.",
               "Keep a blanket in the car in case you feel cold after being out in the rain."
+            ],
+            "pt": [
+              "Cuidado com a aquaplanagem na estrada nacional N15 durante chuva intensa.",
+              "Use estacionamentos subterrâneos no centro para aceder às lojas sem se molhar.",
+              "A visibilidade nas colinas em redor de Penafiel pode diminuir rapidamente durante tempestades.",
+              "Mantenha uma manta no carro caso sinta frio depois de estar na chuva."
             ]
           }
         },
@@ -1526,7 +1647,8 @@
             "de": "Morgens fahren wir zum Castro de Monte Mozinho, wenn das Winterlicht die Ruinen verzaubert. Danach besuchen wir Quinta da Aveleda, wo wir uns bei einer Weinprobe aufwärmen. Das Mittagessen nehmen wir in der Nähe der Aveleda ein. Am Nachmittag geht es ins Stadtzentrum zum Museumsbesuch. Nach einem kurzen Stopp am Calvary-Garten beenden wir den Tag im Magikland, das im Winter oft besonders festlich beleuchtet ist.",
             "hu": "Reggel a Castro de Monte Mozinho-hoz autózunk, amikor a téli fények megvilágítják a romokat. Ezután a Quinta da Aveleda következik, ahol borkóstolóval melegszünk fel. Az ebédet az Aveleda közelében költjük el. Délután a városközpontba látogatunk a múzeumba. A Calvary-kert után a napot a Magiklandben zárjuk, amely télen gyakran ünnepi díszkivilágítást kap.",
             "ro": "Dimineața conducem spre Castro de Monte Mozinho, când lumina de iarnă luminează ruinele. Urmează Quinta da Aveleda, unde ne încălzim cu o degustare de vinuri. Prânzul îl luăm lângă Aveleda. După-amiaza mergem în centrul orașului pentru a vizita muzeul. După o scurtă oprire la Grădina Calvary, încheiem ziua la Magikland, care iarna are adesea iluminat festiv.",
-            "en": "In the morning, we drive to Castro de Monte Mozinho when the winter light enchants the ruins. Then we visit Quinta da Aveleda, warming up with a wine tasting. We have lunch near Aveleda. In the afternoon, we head to the city center for a museum visit. After a quick stop at Calvary Garden, we end the day at Magikland, which is often festively lit in winter."
+            "en": "In the morning, we drive to Castro de Monte Mozinho when the winter light enchants the ruins. Then we visit Quinta da Aveleda, warming up with a wine tasting. We have lunch near Aveleda. In the afternoon, we head to the city center for a museum visit. After a quick stop at Calvary Garden, we end the day at Magikland, which is often festively lit in winter.",
+            "pt": "De manhã, conduzimos até ao Castro de Monte Mozinho quando a luz de inverno encanta as ruínas. Depois visitamos a Quinta da Aveleda, aquecendo-nos com uma prova de vinhos. Almoçamos perto da Aveleda. À tarde, seguimos para o centro da cidade para uma visita ao museu. Após uma rápida paragem no Jardim do Calvário, terminamos o dia no Magikland, que frequentemente se ilumina festivamente no inverno."
           },
           "stops": [
             {
@@ -1535,7 +1657,8 @@
                 "de": "Morgens kann es auf dem Hügel sehr frostig sein; Heizung prüfen.",
                 "hu": "Reggel a dombtetőn fagyos lehet az idő; ellenőrizze a fűtést.",
                 "ro": "Dimineața poate fi foarte geros pe deal; verificați căldura în mașină.",
-                "en": "It can be very frosty on the hill in the morning; check your car's heater."
+                "en": "It can be very frosty on the hill in the morning; check your car's heater.",
+                "pt": "Pode haver muita geada na colina pela manhã; verifique o aquecimento do seu carro."
               }
             },
             {
@@ -1544,7 +1667,8 @@
                 "de": "Der Parkplatz ist schattig; das Auto kühlt hier im Winter schnell aus.",
                 "hu": "A parkoló árnyékos, az autó télen gyorsan lehűlhet itt.",
                 "ro": "Parcarea este umbrită; mașina se răcește rapid aici iarna.",
-                "en": "The parking lot is shaded; the car can cool down quickly here in winter."
+                "en": "The parking lot is shaded; the car can cool down quickly here in winter.",
+                "pt": "O parque de estacionamento está sombreado; o carro pode arrefecer rapidamente aqui no inverno."
               }
             },
             {
@@ -1553,7 +1677,8 @@
                 "de": "Viele Restaurants haben im Winter gemütliche Kamine in Betrieb.",
                 "hu": "Sok étteremben télen hangulatos kandalló üzemel.",
                 "ro": "Multe restaurante au șeminee primitoare în funcțiune iarna.",
-                "en": "Many restaurants have cozy fireplaces in operation during winter."
+                "en": "Many restaurants have cozy fireplaces in operation during winter.",
+                "pt": "Muitos restaurantes têm lareiras aconchegantes em funcionamento durante o inverno."
               }
             },
             {
@@ -1562,7 +1687,8 @@
                 "de": "Nutzen Sie Parkplätze in der Nähe der Haupteinkaufsstraße.",
                 "hu": "Keressen parkolóhelyet a fő bevásárlóutca közelében.",
                 "ro": "Căutați locuri de parcare aproape de strada principală de cumpărături.",
-                "en": "Look for parking spots close to the main shopping street."
+                "en": "Look for parking spots close to the main shopping street.",
+                "pt": "Procure vagas de estacionamento perto da rua principal de comércio."
               }
             },
             {
@@ -1571,7 +1697,8 @@
                 "de": "Das Museum ist im Winter ein willkommener warmer Zufluchtsort.",
                 "hu": "A múzeum télen hívogatóan meleg menedéket nyújt.",
                 "ro": "Muzeul este un adăpost cald și primitor pe timp de iarnă.",
-                "en": "The museum is a welcome warm sanctuary during the winter."
+                "en": "The museum is a welcome warm sanctuary during the winter.",
+                "pt": "O museu é um agradável refúgio quente durante o inverno."
               }
             },
             {
@@ -1580,7 +1707,8 @@
                 "de": "Kurzer Stopp für Fotos; der Park ist im Winter sehr übersichtlich.",
                 "hu": "Rövid megálló fotózásra; a park télen nagyon átlátható.",
                 "ro": "Scurtă oprire pentru poze; parcul este foarte liber iarna.",
-                "en": "Short stop for photos; the park is very clear and quiet in winter."
+                "en": "Short stop for photos; the park is very clear and quiet in winter.",
+                "pt": "Paragem curta para fotos; o parque está muito limpo e tranquilo no inverno."
               }
             },
             {
@@ -1589,7 +1717,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten, da diese oft verkürzt sind.",
                 "hu": "Ellenőrizze a téli nyitvatartást, mert gyakran rövidített.",
                 "ro": "Verificați programul de iarnă, deoarece este adesea scurtat.",
-                "en": "Check the winter opening hours, as they are often reduced."
+                "en": "Check the winter opening hours, as they are often reduced.",
+                "pt": "Verifique os horários de abertura de inverno, pois são frequentemente reduzidos."
               }
             }
           ],
@@ -1617,6 +1746,12 @@
               "Windshields may be frozen in the morning; carry de-icer spray.",
               "City center streets are narrow; cobblestones can be slick in the cold.",
               "Plan your return trip before the early dusk at around 17:30."
+            ],
+            "pt": [
+              "Cuidado com névoa matinal nos vales que rodeiam Penafiel.",
+              "Os para-brisas podem estar congelados de manhã; leve spray descongelante.",
+              "As ruas do centro são estreitas; os calços (calçadas) podem ficar escorregadios no frio.",
+              "Planeie a viagem de regresso antes do anoitecer precoce por volta das 17:30."
             ]
           }
         }
@@ -1635,7 +1770,8 @@
             "de": "Zentraler Busbahnhof Penafiel",
             "hu": "Penafiel központi buszpályaudvar",
             "ro": "Autogara Centrală Penafiel",
-            "en": "Penafiel Central Bus Station"
+            "en": "Penafiel Central Bus Station",
+            "pt": "Estação Rodoviária Central de Penafiel"
           },
           "coords": [
             41.205,
@@ -1651,7 +1787,8 @@
             "de": "Holen Sie sich einen Tagespass für eine kostengünstige Reise.",
             "hu": "Vegyél napijegyet a költséghatékony utazáshoz.",
             "ro": "Obțineți un abonament de o zi pentru o călătorie eficientă din punct de vedere al costurilor.",
-            "en": "Get a day pass for cost-effective travel."
+            "en": "Get a day pass for cost-effective travel.",
+            "pt": "Compre um passe diário para viagens mais económicas."
           }
         },
         {
@@ -1659,7 +1796,8 @@
             "de": "Stadtmuseum & Kirchen",
             "hu": "Városi Múzeum és templomok",
             "ro": "Muzeul Municipal și Bisericile",
-            "en": "Municipal Museum & Churches"
+            "en": "Municipal Museum & Churches",
+            "pt": "Museu Municipal & Igrejas"
           },
           "coords": [
             41.2015,
@@ -1675,7 +1813,8 @@
             "de": "Erkunden Sie das Museum und die nahe gelegenen Kirchen der Barmherzigkeit und Matriz zu Fuß.",
             "hu": "Fedezd fel gyalog a múzeumot és a közeli Irgalmasság és Főtemplomot.",
             "ro": "Explorați pe jos muzeul și bisericile din apropiere, Misericórdia și Matriz.",
-            "en": "Explore the museum and the nearby Misericórdia and Matriz churches on foot."
+            "en": "Explore the museum and the nearby Misericórdia and Matriz churches on foot.",
+            "pt": "Explore o museu e as igrejas Misericórdia e Matriz nas proximidades a pé."
           }
         },
         {
@@ -1683,7 +1822,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "pt": "Almoço no Centro da Cidade"
           },
           "coords": [
             41.202,
@@ -1699,7 +1839,8 @@
             "de": "Genießen Sie eine Mahlzeit, bevor Sie den Bus zum nächsten Ziel nehmen.",
             "hu": "Fogyassz el egy ebédet, mielőtt felszállsz a buszra a következő úti cél felé.",
             "ro": "Bucurați-vă de o masă înainte de a lua autobuzul spre următoarea destinație.",
-            "en": "Enjoy a meal before catching the bus to the next destination."
+            "en": "Enjoy a meal before catching the bus to the next destination.",
+            "pt": "Desfrute de uma refeição antes de apanhar o autocarro para o próximo destino."
           }
         },
         {
@@ -1707,7 +1848,8 @@
             "de": "Magikland Bushaltestelle",
             "hu": "Magikland buszmegálló",
             "ro": "Stația de autobuz Magikland",
-            "en": "Magikland Bus Stop"
+            "en": "Magikland Bus Stop",
+            "pt": "Paragem de Autocarro do Magikland"
           },
           "coords": [
             41.208,
@@ -1723,7 +1865,8 @@
             "de": "Der Bus bringt Sie direkt zum Eingang des Vergnügungsparks.",
             "hu": "A busz közvetlenül a vidámpark bejáratához visz.",
             "ro": "Autobuzul vă va lăsa chiar la intrarea în parcul de distracții.",
-            "en": "The bus will drop you right at the amusement park's entrance."
+            "en": "The bus will drop you right at the amusement park's entrance.",
+            "pt": "O autocarro deixá-lo-á mesmo à entrada do parque de diversões."
           }
         },
         {
@@ -1731,7 +1874,8 @@
             "de": "Magikland",
             "hu": "Magikland",
             "ro": "Magikland",
-            "en": "Magikland"
+            "en": "Magikland",
+            "pt": "Magikland"
           },
           "coords": [
             41.2083,
@@ -1747,7 +1891,8 @@
             "de": "Ein lustiger Nachmittag für die ganze Familie mit Fahrgeschäften und Shows.",
             "hu": "Szórakoztató délután az egész családnak, játékokkal és előadásokkal.",
             "ro": "O după-amiază distractivă pentru întreaga familie, cu atracții și spectacole.",
-            "en": "A fun afternoon for the whole family with rides and shows."
+            "en": "A fun afternoon for the whole family with rides and shows.",
+            "pt": "Uma tarde divertida para toda a família com atrações e espectáculos."
           }
         },
         {
@@ -1755,7 +1900,8 @@
             "de": "Sameiro-Heiligtum",
             "hu": "Sameiro szentély",
             "ro": "Sanctuarul Sameiro",
-            "en": "Sameiro Sanctuary"
+            "en": "Sameiro Sanctuary",
+            "pt": "Santuário do Sameiro"
           },
           "coords": [
             41.215,
@@ -1771,7 +1917,8 @@
             "de": "Beenden Sie den Tag mit einer ruhigen Besinnung und einer großartigen Aussicht.",
             "hu": "Zárja a napot csendes elmélkedéssel és nagyszerű kilátással.",
             "ro": "Încheiați ziua cu o reflecție liniștită și o priveliște minunată.",
-            "en": "End the day with some quiet reflection and a great view."
+            "en": "End the day with some quiet reflection and a great view.",
+            "pt": "Termine o dia com alguma reflexão tranquila e uma excelente vista."
           }
         }
       ],
@@ -1779,7 +1926,8 @@
         "de": "Nutzen Sie das öffentliche Verkehrsnetz von Penafiel, um den Tag zu verbringen. Beginnen Sie mit der Erkundung des historischen Zentrums zu Fuß. Nach dem Mittagessen nehmen Sie einen Bus zum Magikland für einen Nachmittag voller Spaß. Schließen Sie Ihren Tag mit einer weiteren Busfahrt zum Sameiro-Heiligtum ab, um die ruhige Atmosphäre und die Panoramablicke zu genießen, bevor Sie ins Zentrum zurückkehren.",
         "hu": "Használja ki Penafiel tömegközlekedési hálózatát a nap eltöltéséhez. Kezdje a történelmi központ gyalogos felfedezésével. Ebéd után szálljon buszra a Magiklandbe egy szórakoztató délutánért. A napot egy újabb buszozással zárja a Sameiro szentélyhez, hogy élvezze a békés hangulatot és a panorámát, mielőtt visszatérne a központba.",
         "ro": "Folosiți rețeaua de transport public din Penafiel pentru a vă petrece ziua. Începeți explorând centrul istoric pe jos. După prânz, luați un autobuz spre Magikland pentru o după-amiază plină de distracție. Încheiați ziua cu o altă călătorie cu autobuzul la Sanctuarul Sameiro pentru a vă bucura de atmosfera liniștită și de priveliștile panoramice înainte de a vă întoarce în centru.",
-        "en": "Utilize Penafiel's public transit network to navigate your day. Start by exploring the historic center on foot. After lunch, hop on a bus to Magikland for an afternoon of fun. Conclude your day with another bus ride to the Sameiro Sanctuary to enjoy the peaceful atmosphere and panoramic views before heading back to the center."
+        "en": "Utilize Penafiel's public transit network to navigate your day. Start by exploring the historic center on foot. After lunch, hop on a bus to Magikland for an afternoon of fun. Conclude your day with another bus ride to the Sameiro Sanctuary to enjoy the peaceful atmosphere and panoramic views before heading back to the center.",
+        "pt": "Utilize a rede de transportes públicos de Penafiel para percorrer o dia. Comece por explorar o centro histórico a pé. Após o almoço, apanhe um autocarro para o Magikland para uma tarde divertida. Conclua o dia com outra viagem de autocarro até ao Santuário do Sameiro para desfrutar da atmosfera tranquila e das vistas panorâmicas antes de regressar ao centro."
       },
       "gastro_picks": {
         "de": [
@@ -1975,6 +2123,12 @@
           "Have some small change ready for tickets, although many buses accept cards.",
           "Be aware of your stops; announcements may not always be clear.",
           "A day pass is often cheaper than buying individual tickets."
+        ],
+        "pt": [
+          "Verifique os horários dos autocarros com antecedência, pois podem sofrer alterações.",
+          "Tenha algum troco pronto para os bilhetes, embora muitos autocarros aceitem cartões.",
+          "Esteja atento às suas paragens; os anúncios podem nem sempre ser claros.",
+          "Um passe diário costuma ser mais barato do que comprar bilhetes individuais."
         ]
       },
       "variants": {
@@ -1983,7 +2137,8 @@
             "de": "Wir starten am zentralen Busbahnhof, der einen guten Regenschutz bietet. Kurze Fahrten bringen uns zum Museums-Cluster, wo wir den Vormittag trocken verbringen. Mittags genießen wir lokale Küche im Stadtzentrum. Am Nachmittag bringt uns der Bus zur Haltestelle Magikland, von wo es nur ein kurzer Fußweg zum Park ist. Den Tag beenden wir am Sameiro-Heiligtum, das mit dem Bus bequem erreichbar ist.",
             "hu": "A központi buszpályaudvaron kezdünk, amely jó esővédelmet nyújt. Rövid utazással érünk a múzeumi negyedbe, ahol szárazon töltjük a délelőttöt. Délben a városközpontban ebédelünk. Délután a busz a Magikland megállóhoz visz, ahonnan csak rövid séta a park. A napot a Sameiro-kegyhelyen zárjuk, amely busszal kényelmesen megközelíthető.",
             "ro": "Începem la autogara centrală, care oferă o bună protecție împotriva ploii. Călătorii scurte ne duc la zona muzeelor, unde petrecem dimineața la adăpost. La prânz, savurăm bucătăria locală în centrul orașului. După-amiaza, autobuzul ne duce la stația Magikland, de unde este doar o scurtă plimbare până la parc. Încheiem ziua la Sanctuarul Sameiro, accesibil confortabil cu autobuzul.",
-            "en": "We start at the central bus station, which offers good rain protection. Short trips take us to the museum cluster, where we spend the morning dry. At noon, we enjoy local cuisine in the city center. In the afternoon, the bus takes us to the Magikland stop, just a short walk from the park. We end the day at the Sameiro Sanctuary, conveniently accessible by bus."
+            "en": "We start at the central bus station, which offers good rain protection. Short trips take us to the museum cluster, where we spend the morning dry. At noon, we enjoy local cuisine in the city center. In the afternoon, the bus takes us to the Magikland stop, just a short walk from the park. We end the day at the Sameiro Sanctuary, conveniently accessible by bus.",
+            "pt": "Começamos na estação rodoviária central, que oferece boa proteção contra a chuva. Viagens curtas levam-nos ao conjunto de museus, onde passamos a manhã no seco. Ao meio-dia, desfrutamos da cozinha local no centro da cidade. À tarde, o autocarro leva-nos à paragem do Magikland, a uma curta caminhada do parque. Terminamos o dia no Santuário do Sameiro, convenientemente acessível de autocarro."
           },
           "stops": [
             {
@@ -1992,7 +2147,8 @@
                 "de": "Nutzen Sie den überdachten Wartebereich während der Umsteigezeiten.",
                 "hu": "Használja a fedett várakozóhelyet az átszállási időkben.",
                 "ro": "Folosiți zona de așteptare acoperită în timpul transferurilor.",
-                "en": "Use the covered waiting area during transfer times."
+                "en": "Use the covered waiting area during transfer times.",
+                "pt": "Use a área de espera coberta durante os tempos de transferência."
               }
             },
             {
@@ -2001,7 +2157,8 @@
                 "de": "Die Haltestelle ist sehr nah an den Eingängen; ideal bei Regen.",
                 "hu": "A megálló nagyon közel van a bejáratokhoz; ideális esőben.",
                 "ro": "Stația este foarte aproape de intrări; ideal pe timp de ploaie.",
-                "en": "The stop is very close to the entrances; ideal in rainy weather."
+                "en": "The stop is very close to the entrances; ideal in rainy weather.",
+                "pt": "A paragem fica muito perto das entradas; ideal em tempo chuvoso."
               }
             },
             {
@@ -2010,7 +2167,8 @@
                 "de": "Viele Bushaltestellen im Zentrum verfügen über Wartehäuschen.",
                 "hu": "A központban sok buszmegálló rendelkezik várófülkével.",
                 "ro": "Multe stații de autobuz din centru au adăposturi pentru călători.",
-                "en": "Many bus stops in the center are equipped with passenger shelters."
+                "en": "Many bus stops in the center are equipped with passenger shelters.",
+                "pt": "Muitas paragens no centro estão equipadas com abrigo para passageiros."
               }
             },
             {
@@ -2019,7 +2177,8 @@
                 "de": "Halten Sie Ihren Schirm bereit für den kurzen Fußweg zum Parkeingang.",
                 "hu": "Készítse elő esernyőjét a park bejáratáig tartó rövid sétához.",
                 "ro": "Pregătiți umbrela pentru scurta plimbare până la intrarea în parc.",
-                "en": "Have your umbrella ready for the short walk to the park entrance."
+                "en": "Have your umbrella ready for the short walk to the park entrance.",
+                "pt": "Tenha o guarda-chuva pronto para a curta caminhada até à entrada do parque."
               }
             },
             {
@@ -2028,7 +2187,8 @@
                 "de": "Nutzen Sie die Indoor-Spielbereiche, wenn die Schauer stärker werden.",
                 "hu": "Használja a beltéri játszótereket, ha felerősödnek a záporok.",
                 "ro": "Folosiți zonele de joacă interioare dacă ploile se intensifică.",
-                "en": "Use the indoor play areas if the showers become heavier."
+                "en": "Use the indoor play areas if the showers become heavier.",
+                "pt": "Use as áreas de recreio interiores se as chuvas se intensificarem."
               }
             },
             {
@@ -2037,7 +2197,8 @@
                 "de": "Der Bus hält fast direkt vor dem Heiligtum; wenig Zeit im Regen.",
                 "hu": "A busz szinte közvetlenül a kegyhely előtt áll meg; kevés idő az esőben.",
                 "ro": "Autobuzul oprește aproape direct în fața sanctuarului; timp scurt în ploaie.",
-                "en": "The bus stops almost directly in front of the sanctuary; minimal time in the rain."
+                "en": "The bus stops almost directly in front of the sanctuary; minimal time in the rain.",
+                "pt": "O autocarro pára quase em frente ao santuário; tempo mínimo na chuva."
               }
             }
           ],
@@ -2065,6 +2226,12 @@
               "Not all small bus stops are sheltered; bring a sturdy umbrella.",
               "Buses may experience slight delays due to traffic during rainfall.",
               "Wear clothing that remains comfortable even if slightly damp while seated."
+            ],
+            "pt": [
+              "Transfira a app de transportes local para reduzir o tempo de espera na chuva.",
+              "Nem todas as paragens pequenas têm abrigo; leve um guarda-chuva resistente.",
+              "Os autocarros podem sofrer pequenos atrasos devido ao trânsito durante a chuva.",
+              "Use roupa que se mantenha confortável mesmo ligeiramente húmida enquanto sentado."
             ]
           }
         },
@@ -2073,7 +2240,8 @@
             "de": "An klaren Wintermorgen starten wir am Busbahnhof. Der Vormittag im Museums-Cluster ist perfekt, um der Kälte zu entgehen. Mittags wärmen wir uns in einem Restaurant im Zentrum auf. Nachmittags bringt uns der Bus zum Magikland, wo wir die winterliche Atmosphäre genießen. Der Tag endet am Sameiro-Heiligtum, von wo aus wir die beleuchtete Stadt im Tal sehen können, bevor wir bequem mit dem Bus zurückfahren.",
             "hu": "Tiszta téli reggelen a buszpályaudvaron kezdünk. A délelőtt a múzeumi negyedben tökéletes a hideg elkerülésére. Délben a városközpontban melegszünk fel egy étteremben. Délután a busz a Magiklandhez visz, ahol élvezzük a téli hangulatot. A nap a Sameiro-kegyhelyen zárul, ahonnan láthatjuk a kivilágított várost, mielőtt kényelmesen visszabuszoznánk.",
             "ro": "În diminețile senine de iarnă, începem la autogară. Dimineața în zona muzeelor este perfectă pentru a evita frigul. La prânz ne încălzim într-un restaurant din centru. După-amiaza, autobuzul ne duce la Magikland, unde ne bucurăm de atmosfera de iarnă. Ziua se încheie la Sanctuarul Sameiro, de unde vedem orașul iluminat, înainte de a reveni confortabil cu autobuzul.",
-            "en": "On clear winter mornings, we start at the bus station. The morning in the museum cluster is perfect for avoiding the cold. At noon, we warm up in a restaurant in the center. In the afternoon, the bus takes us to Magikland, where we enjoy the winter atmosphere. The day ends at the Sameiro Sanctuary, from where we can see the illuminated city before heading back comfortably by bus."
+            "en": "On clear winter mornings, we start at the bus station. The morning in the museum cluster is perfect for avoiding the cold. At noon, we warm up in a restaurant in the center. In the afternoon, the bus takes us to Magikland, where we enjoy the winter atmosphere. The day ends at the Sameiro Sanctuary, from where we can see the illuminated city before heading back comfortably by bus.",
+            "pt": "Em manhãs limpas de inverno, começamos na estação de autocarros. A manhã no conjunto de museus é perfeita para evitar o frio. Ao meio‑dia aquecemo‑nos num restaurante do centro. À tarde, o autocarro leva‑nos ao Magikland, onde desfrutamos da atmosfera invernal. O dia termina no Santuário do Sameiro, de onde se vê a cidade iluminada antes de regressar confortavelmente de autocarro."
           },
           "stops": [
             {
@@ -2082,7 +2250,8 @@
                 "de": "Das Bahnhofsgebäude bietet Schutz vor dem kalten Morgenwind.",
                 "hu": "Az állomásépület védelmet nyújt a hideg reggeli szél ellen.",
                 "ro": "Clădirea gării oferă protecție împotriva vântului rece de dimineață.",
-                "en": "The station building provides shelter from the cold morning wind."
+                "en": "The station building provides shelter from the cold morning wind.",
+                "pt": "O edifício da estação oferece abrigo ao vento frio da manhã."
               }
             },
             {
@@ -2091,7 +2260,8 @@
                 "de": "Nutzen Sie die gut beheizten Ausstellungsräume des Museums.",
                 "hu": "Használja ki a múzeum jól fűtött kiállítótereit.",
                 "ro": "Profitați de spațiile expoziționale bine încălzite ale muzeului.",
-                "en": "Take advantage of the museum's well-heated exhibition spaces."
+                "en": "Take advantage of the museum's well-heated exhibition spaces.",
+                "pt": "Aproveite os espaços de exposição bem aquecidos do museu."
               }
             },
             {
@@ -2100,7 +2270,8 @@
                 "de": "Genießen Sie ein heißes Getränk vor der Weiterfahrt am Nachmittag.",
                 "hu": "Élvezzen egy forró italt a délutáni továbbutazás előtt.",
                 "ro": "Savurați o băutură fierbinte înainte de plecarea de după-amiază.",
-                "en": "Enjoy a hot drink before continuing your journey in the afternoon."
+                "en": "Enjoy a hot drink before continuing your journey in the afternoon.",
+                "pt": "Desfrute de uma bebida quente antes de continuar a sua viagem à tarde."
               }
             },
             {
@@ -2109,7 +2280,8 @@
                 "de": "Bewegung auf dem kurzen Fußweg hilft gegen die Winterkälte.",
                 "hu": "A rövid séta során a mozgás segít a téli hideg ellen.",
                 "ro": "Mişcarea în timpul scurtei plimbări ajută împotriva frigului de iarnă.",
-                "en": "Movement during the short walk helps against the winter cold."
+                "en": "Movement during the short walk helps against the winter cold.",
+                "pt": "Movimentar‑se durante a curta caminhada ajuda contra o frio do inverno."
               }
             },
             {
@@ -2118,7 +2290,8 @@
                 "de": "Die Wintersonne macht die Außenbereiche am Nachmittag angenehm.",
                 "hu": "A téli napsütés délután kellemessé teszi a szabadtéri részeket.",
                 "ro": "Soarele de iarnă face zonele exterioare plăcute după-amiaza.",
-                "en": "The winter sun makes the outdoor areas pleasant in the afternoon."
+                "en": "The winter sun makes the outdoor areas pleasant in the afternoon.",
+                "pt": "O sol de inverno torna as áreas exteriores agradáveis à tarde."
               }
             },
             {
@@ -2127,7 +2300,8 @@
                 "de": "Achten Sie auf den letzten Bus zurück ins Zentrum gegen Abend.",
                 "hu": "Figyeljen az utolsó visszajáró buszra a központ felé este.",
                 "ro": "Atenție la ultimul autobuz de întoarcere spre centru seara.",
-                "en": "Keep an eye on the time for the last bus back to the center in the evening."
+                "en": "Keep an eye on the time for the last bus back to the center in the evening.",
+                "pt": "Controle as horas para apanhar o último autocarro de regresso ao centro à noite."
               }
             }
           ],
@@ -2155,6 +2329,12 @@
               "Buses are usually warm; dress in layers for easy adjustment.",
               "Dusk begins early; make the most of the daylight hours until 16:30.",
               "Have small change ready for the bus driver if you don't have a pass or card."
+            ],
+            "pt": [
+              "Consulte o horário de inverno, pois algumas rotas turísticas podem funcionar com menor frequência.",
+              "Os autocarros costumam estar quentes; vista‑se em camadas para ajustar facilmente.",
+              "O crepúsculo começa cedo; aproveite a luz do dia até às 16:30.",
+              "Tenha trocos prontos para o motorista se não tiver passe ou cartão."
             ]
           }
         }

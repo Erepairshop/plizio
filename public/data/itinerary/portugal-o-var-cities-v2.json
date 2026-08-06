@@ -21,7 +21,8 @@
             "de": "Ankunft am Praça da República",
             "hu": "Érkezés a Köztársaság térre (Praça da República)",
             "ro": "Sosire în Praça da República",
-            "en": "Arrival at Republic Square (Praça da República)"
+            "en": "Arrival at Republic Square (Praça da República)",
+            "pt": "Chegada à Praça da República (Praça da República)"
           },
           "coords": [
             -8.6162,
@@ -37,7 +38,8 @@
             "de": "Holen Sie sich einen Kaffee und genießen Sie die Atmosphäre, bevor die Menschenmassen kommen.",
             "hu": "Igyon meg egy kávét, és élvezze a hangulatot, mielőtt a tömeg megérkezik.",
             "ro": "Luați o cafea și bucurați-vă de atmosferă înainte de a se aglomera.",
-            "en": "Grab a coffee and enjoy the atmosphere before the crowds arrive."
+            "en": "Grab a coffee and enjoy the atmosphere before the crowds arrive.",
+            "pt": "Tome um café e desfrute da atmosfera antes da chegada das multidões."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Igreja Matriz de Ovar",
             "hu": "Ovari Mátrix-templom",
             "ro": "Igreja Matriz de Ovar",
-            "en": "Mother Church of Ovar"
+            "en": "Mother Church of Ovar",
+            "pt": "Igreja Matriz de Ovar"
           },
           "coords": [
             -8.617,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die beeindruckenden Azulejo-Fliesen, die die gesamte Fassade bedecken.",
             "hu": "Csodálja meg a lenyűgöző azulejo csempéket, amelyek az egész homlokzatot borítják.",
             "ro": "Admirați panourile impresionante de azulejo care acoperă întreaga fațadă.",
-            "en": "Admire the impressive azulejo tile panels covering the entire facade."
+            "en": "Admire the impressive azulejo tile panels covering the entire facade.",
+            "pt": "Admire os impressionantes painéis de azulejos que cobrem toda a fachada."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Passos da Rua Direita",
             "hu": "Passos da Rua Direita",
             "ro": "Passos da Rua Direita",
-            "en": "Chapels of Rua Direita"
+            "en": "Chapels of Rua Direita",
+            "pt": "Capelas da Rua Direita"
           },
           "coords": [
             -8.618,
@@ -85,7 +90,8 @@
             "de": "Suchen Sie nach diesen kleinen Kapellen, die in die Stadt integriert sind; sie sind leicht zu übersehen.",
             "hu": "Keresse ezeket a városba ágyazott kis kápolnákat; könnyű elsétálni mellettük.",
             "ro": "Căutați aceste mici capele încorporate în oraș; sunt ușor de ratat.",
-            "en": "Look for these small chapels embedded in the city; they are easy to miss."
+            "en": "Look for these small chapels embedded in the city; they are easy to miss.",
+            "pt": "Procure por estas pequenas capelas embutidas na cidade; são fáceis de passar despercebidas."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Museu de Ovar",
             "hu": "Ovari Múzeum",
             "ro": "Muzeul din Ovar",
-            "en": "Museum of Ovar"
+            "en": "Museum of Ovar",
+            "pt": "Museu de Ovar"
           },
           "coords": [
             -8.6195,
@@ -109,7 +116,8 @@
             "de": "Konzentrieren Sie sich auf die ethnografischen Exponate, um das lokale Leben und die Traditionen zu verstehen.",
             "hu": "Fókuszáljon a néprajzi kiállításokra, hogy megértse a helyi életet és hagyományokat.",
             "ro": "Concentrați-vă pe expozițiile etnografice pentru a înțelege viața și tradițiile locale.",
-            "en": "Focus on the ethnographic exhibits to understand local life and traditions."
+            "en": "Focus on the ethnographic exhibits to understand local life and traditions.",
+            "pt": "Concentre‑se nas exposições etnográficas para entender a vida e as tradições locais."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "pt": "Almoço no Centro da Cidade"
           },
           "coords": [
             -8.6185,
@@ -133,7 +142,8 @@
             "de": "Probieren Sie ein lokales Restaurant für frische Meeresfrüchte oder ein Tagesmenü.",
             "hu": "Próbáljon ki egy helyi éttermet friss tengeri ételekkel vagy egy napi menüvel.",
             "ro": "Încercați un restaurant local pentru fructe de mare proaspete sau un meniu al zilei.",
-            "en": "Try a local restaurant for fresh seafood or a 'menu of the day'."
+            "en": "Try a local restaurant for fresh seafood or a 'menu of the day'.",
+            "pt": "Experimente um restaurante local para peixe fresco ou um 'prato do dia'."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Centro de Arte de Ovar",
             "hu": "Ovari Művészeti Központ",
             "ro": "Centrul de Artă din Ovar",
-            "en": "Art Centre of Ovar"
+            "en": "Art Centre of Ovar",
+            "pt": "Centro de Arte de Ovar"
           },
           "coords": [
             -8.625,
@@ -157,7 +168,8 @@
             "de": "Überprüfen Sie den Veranstaltungsplan im Voraus; möglicherweise gibt es eine interessante Ausstellung oder Veranstaltung.",
             "hu": "Nézze meg előre a programot; lehet, hogy van egy érdekes kiállítás vagy esemény.",
             "ro": "Verificați programul în avans; s-ar putea să existe o expoziție sau un eveniment interesant.",
-            "en": "Check the schedule in advance; there might be an interesting exhibition or event."
+            "en": "Check the schedule in advance; there might be an interesting exhibition or event.",
+            "pt": "Consulte a programação com antecedência; pode haver uma exposição ou evento interessante."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Ovar, dem Praça da República. Am Vormittag erkunden Sie das reiche architektonische Erbe der Stadt und bewundern die berühmten Azulejo-Fliesen der Igreja Matriz und der Passos-Kapellen. Nach dem Mittagessen tauchen Sie im Museu de Ovar in die lokale Kultur ein und verstehen die Traditionen, die diese Region geprägt haben. Schließen Sie Ihren Tag mit einem Besuch im modernen Centro de Arte ab, einem Kontrast zur historischen Umgebung.",
         "hu": "Kezdje a napot Ovar szívében, a Praça da República téren. A délelőttöt a város gazdag építészeti örökségének felfedezésével töltse, megcsodálva az Igreja Matriz és a Passos kápolnák híres azulejo csempéit. Ebéd után merüljön el a helyi kultúrában a Museu de Ovarban, megértve a régiót formáló hagyományokat. Zárja a napot a modern Centro de Arte meglátogatásával, amely kontrasztot képez a történelmi környezettel.",
         "ro": "Începeți ziua în inima orașului Ovar, la Praça da República. Dimineața este dedicată explorării bogatului patrimoniu arhitectural al orașului, admirând faimoasele azulejo de la Igreja Matriz și capelele Passos. După prânz, aprofundați cultura locală la Muzeul din Ovar, înțelegând tradițiile care au modelat această regiune. Încheiați ziua cu o vizită la modernul Centru de Artă, un contrast față de împrejurimile istorice.",
-        "en": "Start your day in the heart of Ovar at Praça da República. The morning is for exploring the city's rich architectural heritage, admiring the famous azulejo tiles of the Igreja Matriz and the Passos chapels. After lunch, delve into local culture at the Museu de Ovar, understanding the traditions that have shaped this region. Conclude your day with a visit to the modern Centro de Arte, a contrast to the historic surroundings."
+        "en": "Start your day in the heart of Ovar at Praça da República. The morning is for exploring the city's rich architectural heritage, admiring the famous azulejo tiles of the Igreja Matriz and the Passos chapels. After lunch, delve into local culture at the Museu de Ovar, understanding the traditions that have shaped this region. Conclude your day with a visit to the modern Centro de Arte, a contrast to the historic surroundings.",
+        "pt": "Comece o dia no coração de Ovar, na Praça da República. A manhã serve para explorar o rico património arquitetónico da cidade, admirando os famosos azulejos da Igreja Matriz e as capelas dos Passos. Após o almoço, mergulhe na cultura local no Museu de Ovar, entendendo as tradições que moldaram a região. Conclua o dia com uma visita ao moderno Centro de Arte, um contraste com os ambientes históricos."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Keep a reusable water bottle handy; you can refill it at cafes.",
           "Most city center attractions are close together, making navigation easy.",
           "Budget extra time just to get lost and wander, admiring the tiled facades."
+        ],
+        "pt": [
+          "Use sapatos extremamente confortáveis, pois vai andar sobretudo em calçada.",
+          "Tenha uma garrafa de água reutilizável à mão; pode reabastecê‑la em cafés.",
+          "A maioria das atrações do centro está próxima, tornando a navegação fácil.",
+          "Reserve tempo extra só para se perder e vaguear, admirando as fachadas azulejadas."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Vormittag an der Praça da República unter den schützenden Arkaden. Danach erkunden wir die gefliesten Kirchen und das Museum von Ovar im Trockenen. Ein ausgiebiges Mittagessen im Zentrum bietet Wärme, bevor der Nachmittag im modernen Kunstzentrum (Centro de Arte de Ovar) endet. Der Regen lässt die berühmten Azulejo-Fassaden der Stadt in besonders kräftigen Farben erstrahlen.",
             "hu": "A reggel a Praça da República árkádjai alatt indul, védve az esőtől. Ezután a díszes templomokat és az Ovar Múzeumot fedezzük fel fedett helyen. Egy kiadós ebéd a központban átmelegíti a látogatót, mielőtt a délután a modern Művészeti Központban érne véget. Az eső hatására a város híres azulejo csempéi különösen intenzív színekben pompáznak.",
             "ro": "Dimineața începe în Praça da República, sub arcadele protectoare. Apoi explorăm bisericile placate și Muzeul din Ovar la adăpost. Un prânz prelungit în centru oferă căldură înainte ca după-amiaza să se încheie la centrul modern de artă. Ploaia face ca faimoasele fațade azulejo ale orașului să strălucească în culori deosebit de intense.",
-            "en": "Morning at Praça da República under the protective arcades. Then we explore the tiled churches and the Ovar Museum while staying dry. A hearty lunch in the center provides warmth before the afternoon ends at the modern Art Centre. The rain makes the city's famous azulejo facades shine in particularly vibrant colors."
+            "en": "Morning at Praça da República under the protective arcades. Then we explore the tiled churches and the Ovar Museum while staying dry. A hearty lunch in the center provides warmth before the afternoon ends at the modern Art Centre. The rain makes the city's famous azulejo facades shine in particularly vibrant colors.",
+            "pt": "Manhã na Praça da República sob os arcos protegidos. Depois exploramos as igrejas azulejadas e o Museu de Ovar mantendo‑nos secos. Um almoço substancial no centro traz calor antes da tarde terminar no moderno Centro de Arte. A chuva faz as fachadas de azulejos da cidade brilharem em cores particularmente vívidas."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Nutzen Sie die Arkaden der Cafés.",
                 "hu": "Használja a kávézók árkádjait.",
                 "ro": "Folosiți arcadele cafenelelor.",
-                "en": "Use the cafe arcades for shelter."
+                "en": "Use the cafe arcades for shelter.",
+                "pt": "Use os arcos dos cafés como abrigo."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Bewundern Sie die Kacheln im Trockenen.",
                 "hu": "Csodálja a csempéket a fedett részen.",
                 "ro": "Admirați plăcile la adăpost.",
-                "en": "Admire the tiles while staying dry."
+                "en": "Admire the tiles while staying dry.",
+                "pt": "Admire os azulejos mantendo‑se seco."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Regenschirm für die kurzen Wege nötig.",
                 "hu": "Esernyő kell a rövid szakaszokra.",
                 "ro": "Umbrelă necesară pentru segmente scurte.",
-                "en": "Umbrella needed for short stretches."
+                "en": "Umbrella needed for short stretches.",
+                "pt": "Guarda‑chuva necessário para curtos troços."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Perfekter Ort für eine Regenpause.",
                 "hu": "Tökéletes hely az esőszünetre.",
                 "ro": "Loc perfect pentru o pauză de ploaie.",
-                "en": "Perfect spot for a rain break."
+                "en": "Perfect spot for a rain break.",
+                "pt": "Local perfeito para uma pausa durante a chuva."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Probieren Sie Pão de Ló zum Aufwärmen.",
                 "hu": "Kóstoljon Pão de Ló-t melegedésként.",
                 "ro": "Gustați Pão de Ló pentru încălzire.",
-                "en": "Taste Pão de Ló to warm up."
+                "en": "Taste Pão de Ló to warm up.",
+                "pt": "Prove o Pão de Ló para se aquecer."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Großzügige Innenräume genießen.",
                 "hu": "Élvezze a tágas belső tereket.",
                 "ro": "Bucurați-vă de spațiile interioare.",
-                "en": "Enjoy the spacious indoor areas."
+                "en": "Enjoy the spacious indoor areas.",
+                "pt": "Desfrute dos espaços interiores amplos."
               }
             }
           ],
@@ -451,6 +477,12 @@
               "The Ovar Museum provides nearly 2 hours of shelter.",
               "Many central cafes have covered outdoor areas.",
               "Wear shoes with good grip on wet cobblestones."
+            ],
+            "pt": [
+              "A cidade é famosa por azulejos que brilham na chuva.",
+              "O Museu de Ovar proporciona quase 2 horas de abrigo.",
+              "Muitos cafés do centro têm esplanadas cobertas.",
+              "Use sapatos com boa aderência para a calçada molhada."
             ]
           }
         },
@@ -459,7 +491,8 @@
             "de": "Ein frischer Wintermorgen im historischen Zentrum von Ovar. Wir besuchen die beeindruckenden Kirchen und das Heimatmuseum, bevor wir uns mittags mit lokalem Biskuitkuchen stärken. Der Nachmittag führt uns zum modernen Kunstzentrum. Da die Sonne früh untergeht, genießen wir das warme Licht auf den Azulejos am späten Nachmittag, wenn die Stadt in eine gemütliche Atmosphäre eintaucht.",
             "hu": "Friss téli reggel Ovar történelmi központjában. Meglátogatjuk a lenyűgöző templomokat és a helytörténeti múzeumot, majd délben helyi piskótával melegszünk fel. A délután a modern Művészeti Központba vezet. Mivel a nap korán nyugszik, késő délután élvezzük az azulejo csempékre vetülő meleg fényeket, amikor a várost barátságos hangulat árasztja el.",
             "ro": "O dimineață răcoroasă de iarnă în centrul istoric din Ovar. Vizităm bisericile impresionante și muzeul local înainte de a ne încălzi la prânz cu pandișpan local. După-amiaza ne duce la centrul modern de artă. Deoarece soarele apune devreme, ne bucurăm de lumina caldă pe azulejos spre seară, când orașul capătă o atmosferă primitoare.",
-            "en": "A crisp winter morning in Ovar's historic center. We visit the impressive churches and the local museum before warming up at noon with local sponge cake. The afternoon leads to the modern Art Centre. As the sun sets early, we enjoy the warm light on the azulejos in the late afternoon when the city takes on a cozy atmosphere."
+            "en": "A crisp winter morning in Ovar's historic center. We visit the impressive churches and the local museum before warming up at noon with local sponge cake. The afternoon leads to the modern Art Centre. As the sun sets early, we enjoy the warm light on the azulejos in the late afternoon when the city takes on a cozy atmosphere.",
+            "pt": "Uma fresca manhã de inverno no centro histórico de Ovar. Visitamos as igrejas impressionantes e o museu local antes de aquecer ao meio‑dia com o bolo esponja tradicional. A tarde leva ao moderno Centro de Arte. Como o sol se põe cedo, desfrutamos da luz quente sobre os azulejos no fim da tarde, quando a cidade assume uma atmosfera acolhedora."
           },
           "stops": [
             {
@@ -468,7 +501,8 @@
                 "de": "Heißer Kaffee am Morgen ist Pflicht.",
                 "hu": "A forró reggeli kávé kötelező.",
                 "ro": "Cafeaua fierbinte de dimineață e obligatorie.",
-                "en": "Hot morning coffee is a must."
+                "en": "Hot morning coffee is a must.",
+                "pt": "Um café quente de manhã é obrigatório."
               }
             },
             {
@@ -477,7 +511,8 @@
                 "de": "Innen ist es oft kühler als draußen.",
                 "hu": "Bent gyakran hűvösebb van, mint kint.",
                 "ro": "În interior e adesea mai răcoare.",
-                "en": "It's often cooler inside than out."
+                "en": "It's often cooler inside than out.",
+                "pt": "Muitas vezes está mais fresco dentro do que fora."
               }
             },
             {
@@ -486,7 +521,8 @@
                 "de": "Wintersonne beleuchtet die Fassaden.",
                 "hu": "A téli nap szépen megvilágítja a falakat.",
                 "ro": "Soarele de iarnă luminează fațadele.",
-                "en": "Winter sun illuminates the facades."
+                "en": "Winter sun illuminates the facades.",
+                "pt": "O sol de inverno ilumina as fachadas."
               }
             },
             {
@@ -495,7 +531,8 @@
                 "de": "Wärmen Sie sich in den Ausstellungsräumen.",
                 "hu": "Melegedjen fel a kiállítótermekben.",
                 "ro": "Încălziți-vă în sălile de expoziție.",
-                "en": "Warm up in the exhibition rooms."
+                "en": "Warm up in the exhibition rooms.",
+                "pt": "Aqueça‑se nas salas de exposição."
               }
             },
             {
@@ -504,7 +541,8 @@
                 "de": "Frisch gebackenes Pão de Ló genießen.",
                 "hu": "Élvezze a frissen sült Pão de Ló-t.",
                 "ro": "Savurați Pão de Ló proaspăt scos.",
-                "en": "Enjoy freshly baked Pão de Ló."
+                "en": "Enjoy freshly baked Pão de Ló.",
+                "pt": "Desfrute do Pão de Ló acabado de cozer."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Letztes Tageslicht im Foyer nutzen.",
                 "hu": "Használja ki az utolsó fényeket a foyerben.",
                 "ro": "Folosiți ultima lumină în foaier.",
-                "en": "Catch the last daylight in the foyer."
+                "en": "Catch the last daylight in the foyer.",
+                "pt": "Apanhe a última luz no átrio."
               }
             }
           ],
@@ -541,6 +580,12 @@
               "Try the creamy Pão de Ló de Ovar.",
               "Church doors may be closed in winter; knock!",
               "Layered clothing is recommended for the breeze."
+            ],
+            "pt": [
+              "O sol põe‑se por volta das 17:30 no inverno.",
+              "Experimente o cremoso Pão de Ló de Ovar.",
+              "As portas das igrejas podem estar fechadas no inverno; bata à porta!",
+              "Recomenda‑se vestuário em camadas para a brisa."
             ]
           }
         }
@@ -559,7 +604,8 @@
             "de": "Start am Praça da República",
             "hu": "Indulás a Praça da República térről",
             "ro": "Start din Praça da República",
-            "en": "Start at Praça da República"
+            "en": "Start at Praça da República",
+            "pt": "Comece na Praça da República"
           },
           "coords": [
             -8.6162,
@@ -575,7 +621,8 @@
             "de": "Machen Sie ein schnelles Foto und beginnen Sie Ihre Radtour in Richtung Küste.",
             "hu": "Készítsen egy gyors fotót, és induljon a tengerpart felé.",
             "ro": "Faceți o fotografie rapidă și începeți călătoria cu bicicleta spre coastă.",
-            "en": "Take a quick photo and begin your cycle towards the coast."
+            "en": "Take a quick photo and begin your cycle towards the coast.",
+            "pt": "Tire uma foto rápida e inicie o seu passeio de bicicleta em direção à costa."
           }
         },
         {
@@ -583,7 +630,8 @@
             "de": "Igreja Matriz de Ovar",
             "hu": "Ovari Mátrix-templom",
             "ro": "Igreja Matriz de Ovar",
-            "en": "Mother Church of Ovar"
+            "en": "Mother Church of Ovar",
+            "pt": "Igreja Matriz de Ovar"
           },
           "coords": [
             -8.617,
@@ -599,7 +647,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit, die erstaunlichen Fliesen zu bewundern.",
             "hu": "Zárja le biztonságosan a kerékpárját, és szánjon időt a lenyűgöző csempék megcsodálására.",
             "ro": "Legați-vă bicicleta în siguranță și luați-vă timp pentru a admira azulejourile uimitoare.",
-            "en": "Lock your bike securely and take a moment to admire the amazing tiles."
+            "en": "Lock your bike securely and take a moment to admire the amazing tiles.",
+            "pt": "Tranque a sua bicicleta com segurança e reserve um momento para admirar os incríveis azulejos."
           }
         },
         {
@@ -607,7 +656,8 @@
             "de": "Parque Ambiental do Buçaquinho",
             "hu": "Parque Ambiental do Buçaquinho",
             "ro": "Parque Ambiental do Buçaquinho",
-            "en": "Buçaquinho Environmental Park"
+            "en": "Buçaquinho Environmental Park",
+            "pt": "Parque Ambiental do Buçaquinho"
           },
           "coords": [
             -8.653,
@@ -623,7 +673,8 @@
             "de": "Radfahren Sie auf den Holzstegen und halten Sie Ausschau nach der lokalen Vogelwelt.",
             "hu": "Kerékpározzon a fapallókon, és figyelje a helyi madárvilágot.",
             "ro": "Pedalați pe podețele de lemn și fiți atenți la păsările locale.",
-            "en": "Cycle on the wooden boardwalks and look out for local birdlife."
+            "en": "Cycle on the wooden boardwalks and look out for local birdlife.",
+            "pt": "Pedale nas passadeiras de madeira e fique atento à avifauna local."
           }
         },
         {
@@ -631,7 +682,8 @@
             "de": "Praia do Furadouro",
             "hu": "Praia do Furadouro",
             "ro": "Plaja Furadouro",
-            "en": "Furadouro Beach"
+            "en": "Furadouro Beach",
+            "pt": "Praia do Furadouro"
           },
           "coords": [
             -8.665,
@@ -647,7 +699,8 @@
             "de": "Parken Sie Ihr Fahrrad und genießen Sie den riesigen Sandstrand. Perfekt für ein erfrischendes Bad im Meer.",
             "hu": "Parkolja le a kerékpárt, és élvezze a hatalmas homokos strandot. Tökéletes egy frissítő úszáshoz.",
             "ro": "Parcați bicicleta și bucurați-vă de plaja vastă. Perfect pentru o baie răcoritoare în ocean.",
-            "en": "Park your bike and enjoy the vast sandy beach. Perfect for a refreshing swim."
+            "en": "Park your bike and enjoy the vast sandy beach. Perfect for a refreshing swim.",
+            "pt": "Estacione a bicicleta e desfrute da vasta praia de areal. Perfeita para um mergulho revigorante."
           }
         },
         {
@@ -655,7 +708,8 @@
             "de": "Mittagessen am Meer in Furadouro",
             "hu": "Ebéd a tengerparton, Furadouróban",
             "ro": "Prânz pe malul mării la Furadouro",
-            "en": "Seaside Lunch at Furadouro"
+            "en": "Seaside Lunch at Furadouro",
+            "pt": "Almoço à beira-mar no Furadouro"
           },
           "coords": [
             -8.666,
@@ -671,7 +725,8 @@
             "de": "Wählen Sie ein Restaurant mit Blick auf den Ozean und probieren Sie den frisch gegrillten Fisch.",
             "hu": "Válasszon egy óceánra néző éttermet, és kóstolja meg a frissen grillezett halat.",
             "ro": "Alegeți un restaurant cu vedere la ocean și încercați peștele proaspăt la grătar.",
-            "en": "Choose a restaurant with an ocean view and try the fresh grilled fish."
+            "en": "Choose a restaurant with an ocean view and try the fresh grilled fish.",
+            "pt": "Escolha um restaurante com vista para o mar e experimente o peixe grelhado fresco."
           }
         },
         {
@@ -679,7 +734,8 @@
             "de": "Rückkehr ins Stadtzentrum von Ovar",
             "hu": "Visszatérés Ovar központjába",
             "ro": "Întoarcere în centrul orașului Ovar",
-            "en": "Return to Ovar City Center"
+            "en": "Return to Ovar City Center",
+            "pt": "Regresso ao Centro da Cidade de Ovar"
           },
           "coords": [
             -8.6167,
@@ -695,7 +751,8 @@
             "de": "Nutzen Sie die Zeit, um Souvenirs zu kaufen, wie den Pão de Ló, bevor Sie gehen.",
             "hu": "Használja ki az időt ajándéktárgyak, például Pão de Ló vásárlására, mielőtt elindulna.",
             "ro": "Folosiți timpul pentru a cumpăra suveniruri, cum ar fi Pão de Ló, înainte de a pleca.",
-            "en": "Use the time to shop for souvenirs, like the Pão de Ló, before you leave."
+            "en": "Use the time to shop for souvenirs, like the Pão de Ló, before you leave.",
+            "pt": "Aproveite para comprar lembranças, como o Pão de Ló, antes de partir."
           }
         }
       ],
@@ -703,7 +760,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Ovar und radeln Sie dann nach Westen in Richtung der frischen Meeresbrise. Der Vormittag führt Sie durch den ruhigen Buçaquinho-Park, bevor Sie den goldenen Sand des Furadouro-Strandes erreichen. Genießen Sie ein ausgiebiges Mittagessen am Meer mit dem Fang des Tages. Am Nachmittag radeln Sie gemütlich zurück ins Stadtzentrum, um die lokale Süßspezialität zu probieren und die Atmosphäre ein letztes Mal aufzusaugen, bevor der Tag zu Ende geht.",
         "hu": "Kezdje a napot Ovar történelmi központjában, majd tekerjen nyugat felé a friss tengeri szellő irányába. A délelőtt a békés Buçaquinho parkon keresztül vezet, mielőtt elérné a Furadouro strand aranyhomokját. Élvezzen egy kiadós tengerparti ebédet a napi fogásból. Délután kényelmesen tekerjen vissza a városközpontba, hogy megkóstolja a helyi édes különlegességet, és még egyszer magába szívja a hangulatot a nap vége előtt.",
         "ro": "Începeți ziua în centrul istoric al orașului Ovar, apoi pedalați spre vest, spre briza proaspătă a mării. Dimineața vă poartă prin parcul liniștit Buçaquinho înainte de a ajunge la nisipurile aurii ale plajei Furadouro. Bucurați-vă de un prânz copios pe malul mării cu captura zilei. După-amiaza, pedalați agale înapoi în centrul orașului pentru a gusta specialitatea dulce locală și a vă bucura de atmosferă pentru ultima oară înainte de sfârșitul zilei.",
-        "en": "Start your day in the historic center of Ovar, then cycle west towards the fresh sea breeze. The morning takes you through the tranquil Buçaquinho park before you reach the golden sands of Furadouro Beach. Enjoy a hearty seaside lunch featuring the catch of the day. In the afternoon, leisurely cycle back to the city center to taste the local sweet specialty and soak in the atmosphere one last time before the day ends."
+        "en": "Start your day in the historic center of Ovar, then cycle west towards the fresh sea breeze. The morning takes you through the tranquil Buçaquinho park before you reach the golden sands of Furadouro Beach. Enjoy a hearty seaside lunch featuring the catch of the day. In the afternoon, leisurely cycle back to the city center to taste the local sweet specialty and soak in the atmosphere one last time before the day ends.",
+        "pt": "Comece o dia no centro histórico de Ovar e depois pedale para oeste em direção à fresca brisa do mar. A manhã leva-o pelo tranquilo parque do Buçaquinho antes de chegar às areias douradas da Praia do Furadouro. Desfrute de um almoço reforçado à beira-mar com o peixe do dia. À tarde, pedale de volta ao centro da cidade com calma para provar a especialidade doce local e absorver a atmosfera uma última vez antes do dia terminar."
       },
       "tips": {
         "de": [
@@ -729,6 +787,12 @@
           "There are some dedicated cycle paths, but be cautious on roads shared with cars.",
           "Bring sunscreen and a towel in case you decide to swim at the beach.",
           "A lightweight backpack is ideal for carrying water and snacks."
+        ],
+        "pt": [
+          "Verifique a pressão dos pneus e os travões antes de partir.",
+          "Existem algumas ciclovias dedicadas, mas tenha cuidado nas estradas partilhadas com carros.",
+          "Traga protetor solar e uma toalha caso decida nadar na praia.",
+          "Uma mochila leve é ideal para levar água e snacks."
         ]
       },
       "variants": {
@@ -737,7 +801,8 @@
             "de": "Ein abenteuerlicher Radtag trotz Regen. Wir starten im Zentrum und fahren durch den Buçaquinho-Park zum Strand von Furadouro. Die Atlantikküste ist bei Regen rau und windig, was die Fahrt sportlich macht. Ein warmes Mittagessen mit Meerblick entschädigt für die Nässe. Auf dem Rückweg nach Ovar glänzen die gefliesten Häuser im diffusen Licht.",
             "hu": "Kalandos kerékpáros nap az eső ellenére. A központból indulunk, majd a Buçaquinho parkon át tekerünk Furadouro strandjáig. Az atlanti part esőben zord és szeles, ami sportossá teszi az utat. Egy meleg ebéd tengeri kilátással kárpótol a nedvességért. Ovar felé menet a csempézett házak ragyognak a szórt fényben.",
             "ro": "O zi aventuroasă cu bicicleta, în ciuda ploii. Pornim din centru și pedalăm prin Parcul Buçaquinho spre plaja Furadouro. Coasta Atlanticului este aspră și vântoasă pe ploaie, făcând drumul sportiv. Un prânz cald cu vedere la mare compensează umezeala. La întoarcere, casele placate strălucesc în lumină.",
-            "en": "An adventurous cycling day despite the rain. We start in the center and cycle through Buçaquinho Park to Furadouro Beach. The Atlantic coast is raw and windy in the rain, making the ride sporty. A warm lunch with a sea view compensates for the wetness. On the way back to Ovar, the tiled houses glisten in the light."
+            "en": "An adventurous cycling day despite the rain. We start in the center and cycle through Buçaquinho Park to Furadouro Beach. The Atlantic coast is raw and windy in the rain, making the ride sporty. A warm lunch with a sea view compensates for the wetness. On the way back to Ovar, the tiled houses glisten in the light.",
+            "pt": "Um dia de ciclismo aventureiro apesar da chuva. Começamos no centro e pedalamos pelo Parque do Buçaquinho até à Praia do Furadouro. A costa atlântica é crua e ventosa na chuva, tornando o passeio mais desportivo. Um almoço quente com vista para o mar compensa a humidade. No regresso a Ovar, as casas com azulejos brilham ao lume."
           },
           "stops": [
             {
@@ -746,7 +811,8 @@
                 "de": "Regenbekleidung jetzt anlegen.",
                 "hu": "Vegye fel az esőruházatot most.",
                 "ro": "Puneți echipamentul de ploaie acum.",
-                "en": "Put on your rain gear now."
+                "en": "Put on your rain gear now.",
+                "pt": "Vista já o fato impermeável."
               }
             },
             {
@@ -755,7 +821,8 @@
                 "de": "Vorsicht bei nassen Fliesen am Boden.",
                 "hu": "Vigyázat, a csempe csúszik vizesen.",
                 "ro": "Atenție la plăcile umede de pe jos.",
-                "en": "Careful on wet tiles on the ground."
+                "en": "Careful on wet tiles on the ground.",
+                "pt": "Cuidado com os azulejos molhados no chão."
               }
             },
             {
@@ -764,7 +831,8 @@
                 "de": "Die Pinien bieten etwas Schutz.",
                 "hu": "A fenyők némi védelmet nyújtanak.",
                 "ro": "Pinii oferă puțin adăpost.",
-                "en": "The pines offer some shelter."
+                "en": "The pines offer some shelter.",
+                "pt": "Os pinheiros oferecem algum abrigo."
               }
             },
             {
@@ -773,7 +841,8 @@
                 "de": "Starker Wind direkt am Wasser.",
                 "hu": "Erős szél közvetlenül a víznél.",
                 "ro": "Vânt puternic direct lângă apă.",
-                "en": "Strong wind directly by the water."
+                "en": "Strong wind directly by the water.",
+                "pt": "Vento forte mesmo junto à água."
               }
             },
             {
@@ -782,7 +851,8 @@
                 "de": "Ideal zum Aufwärmen und Trocknen.",
                 "hu": "Ideális melegedésre és száradásra.",
                 "ro": "Ideal pentru încălzire și uscare.",
-                "en": "Ideal for warming up and drying off."
+                "en": "Ideal for warming up and drying off.",
+                "pt": "Ideal para aquecer e secar."
               }
             },
             {
@@ -791,7 +861,8 @@
                 "de": "Achten Sie auf Pfützen auf dem Radweg.",
                 "hu": "Ügyeljen a tócsákra a kerékpárúton.",
                 "ro": "Atenție la bălți pe pista de biciclete.",
-                "en": "Watch out for puddles on the bike path."
+                "en": "Watch out for puddles on the bike path.",
+                "pt": "Cuidado com poças no caminho de bicicleta."
               }
             }
           ],
@@ -819,6 +890,12 @@
               "The bike path to Furadouro is flat but exposed.",
               "Use waterproof panniers.",
               "Avoid abrupt maneuvers on wet asphalt."
+            ],
+            "pt": [
+              "Verifique os travões antes de partir.",
+              "A ciclovia para o Furadouro é plana, mas exposta.",
+              "Use alforges impermeáveis.",
+              "Evite manobras bruscas no alcatrão molhado."
             ]
           }
         },
@@ -827,7 +904,8 @@
             "de": "Eine erfrischende Radtour durch die Pinienwälder zum Atlantik. Die kühle Winterluft ist belebend auf dem Weg zum Buçaquinho-Park. Am Strand von Furadouro genießen wir die weite Aussicht und ein kräftiges Mittagessen. Der Rückweg sollte vor Einbruch der Dunkelheit angetreten werden, wenn der Frost langsam in die Küstenlandschaft einzieht.",
             "hu": "Frissítő kerékpártúra a fenyőerdőkön át az Atlanti-óceánig. A hűvös téli levegő élénkítő a Buçaquinho park felé vezető úton. Furadouro strandján élvezzük a kilátást és egy tápláló ebédet. A visszautat érdemes sötétedés előtt megkezdeni, amikor a fagy lassan megérkezik a partmenti tájra.",
             "ro": "O tură revigorantă cu bicicleta prin pădurile de pini spre Atlantic. Aerul rece de iarnă este tonifiant pe drumul spre Parcul Buçaquinho. Pe plaja Furadouro ne bucurăm de priveliște și de un prânz consistent. Întoarcerea ar trebui făcută înainte de lăsarea întunericului.",
-            "en": "A refreshing bike ride through the pine forests to the Atlantic. The cool winter air is invigorating on the way to Buçaquinho Park. At Furadouro beach, we enjoy the wide views and a hearty lunch. The return journey should be started before dark when the frost slowly settles on the coastal landscape."
+            "en": "A refreshing bike ride through the pine forests to the Atlantic. The cool winter air is invigorating on the way to Buçaquinho Park. At Furadouro beach, we enjoy the wide views and a hearty lunch. The return journey should be started before dark when the frost slowly settles on the coastal landscape.",
+            "pt": "Um passeio refrescante de bicicleta pelos pinheirais até ao Atlântico. O ar frio de inverno revigora no percurso até ao Parque do Buçaquinho. Na praia do Furadouro, desfrutamos das amplas vistas e de um almoço reconfortante. A viagem de regresso deve começar antes do anoitecer, quando a geada começa a assentar na paisagem costeira."
           },
           "stops": [
             {
@@ -836,7 +914,8 @@
                 "de": "Handschuhe für die Fahrt einpacken.",
                 "hu": "Készítsen be kesztyűt az útra.",
                 "ro": "Luați mănuși pentru drum.",
-                "en": "Pack gloves for the ride."
+                "en": "Pack gloves for the ride.",
+                "pt": "Leve luvas para o passeio."
               }
             },
             {
@@ -845,7 +924,8 @@
                 "de": "Kurzer Stopp reicht, Wind ist kühl.",
                 "hu": "Elég egy rövid megálló, hűvös a szél.",
                 "ro": "O scurtă oprire e suficientă.",
-                "en": "Short stop is enough, wind is cool."
+                "en": "Short stop is enough, wind is cool.",
+                "pt": "Paragem curta é suficiente, o vento está fresco."
               }
             },
             {
@@ -854,7 +934,8 @@
                 "de": "Die Waldwege sind im Winter fest.",
                 "hu": "Az erdei utak télen kemények.",
                 "ro": "Drumurile de pădure sunt ferme iarna.",
-                "en": "Forest paths are firm in winter."
+                "en": "Forest paths are firm in winter.",
+                "pt": "Os caminhos florestais estão firmes no inverno."
               }
             },
             {
@@ -863,7 +944,8 @@
                 "de": "Stürmische See beobachten.",
                 "hu": "Figyelje a viharos tengert.",
                 "ro": "Observați marea agitată.",
-                "en": "Watch the stormy sea."
+                "en": "Watch the stormy sea.",
+                "pt": "Observe o mar tempestuoso."
               }
             },
             {
@@ -872,7 +954,8 @@
                 "de": "Warme Fischsuppe probieren.",
                 "hu": "Kóstolja meg a meleg hallevest.",
                 "ro": "Încercați o supă de pește caldă.",
-                "en": "Try a warm fish soup."
+                "en": "Try a warm fish soup.",
+                "pt": "Experimente uma sopa de peixe quente."
               }
             },
             {
@@ -881,7 +964,8 @@
                 "de": "Licht am Fahrrad für die Dämmerung.",
                 "hu": "Legyen lámpa a kerékpáron a szürkülethez.",
                 "ro": "Lumini la bicicletă pentru amurg.",
-                "en": "Have lights on the bike for dusk."
+                "en": "Have lights on the bike for dusk.",
+                "pt": "Tenha luzes na bicicleta para o crepúsculo."
               }
             }
           ],
@@ -909,6 +993,12 @@
               "Wear a headband under your helmet.",
               "Days are short, plan your return by 17:00.",
               "Drink something warm along the way."
+            ],
+            "pt": [
+              "Não subestime o vento frio junto ao mar.",
+              "Use uma faixa para a cabeça por baixo do capacete.",
+              "Os dias são curtos, planeie o regresso até às 17:00.",
+              "Beba algo quente pelo caminho."
             ]
           }
         }
@@ -927,7 +1017,8 @@
             "de": "Cluster A: Praça da República & Igreja Matriz",
             "hu": "A. klaszter: Praça da República és Igreja Matriz",
             "ro": "Grupul A: Praça da República & Igreja Matriz",
-            "en": "Cluster A: Praça da República & Mother Church"
+            "en": "Cluster A: Praça da República & Mother Church",
+            "pt": "Conjunto A: Praça da República & Igreja Matriz"
           },
           "coords": [
             -8.6162,
@@ -943,7 +1034,8 @@
             "de": "Parken Sie im Stadtzentrum. Erkunden Sie den Platz und die Hauptkirche zu Fuß.",
             "hu": "Parkoljon a városközpontban. Fedezze fel gyalog a teret és a főtemplomot.",
             "ro": "Parcați în centrul orașului. Explorați piața și biserica principală pe jos.",
-            "en": "Park in the city center. Explore the square and the main church on foot."
+            "en": "Park in the city center. Explore the square and the main church on foot.",
+            "pt": "Estacione no centro da cidade. Explore a praça e a igreja principal a pé."
           }
         },
         {
@@ -951,7 +1043,8 @@
             "de": "Cluster A: Museu de Ovar",
             "hu": "A. klaszter: Ovari Múzeum",
             "ro": "Grupul A: Muzeul din Ovar",
-            "en": "Cluster A: Museum of Ovar"
+            "en": "Cluster A: Museum of Ovar",
+            "pt": "Conjunto A: Museu de Ovar"
           },
           "coords": [
             -8.6195,
@@ -967,7 +1060,8 @@
             "de": "Ein kurzer Spaziergang vom Platz entfernt. Planen Sie genügend Zeit für dieses detaillierte Museum ein.",
             "hu": "Rövid séta a tértől. Szánjon elegendő időt erre a részletes múzeumra.",
             "ro": "O scurtă plimbare de la piață. Alocați suficient timp pentru acest muzeu detaliat.",
-            "en": "A short walk from the square. Budget enough time for this detailed museum."
+            "en": "A short walk from the square. Budget enough time for this detailed museum.",
+            "pt": "A curta distância a pé da praça. Reserve tempo suficiente para este museu detalhado."
           }
         },
         {
@@ -975,7 +1069,8 @@
             "de": "Cluster B: Igreja de Válega",
             "hu": "B. klaszter: Válega-i templom",
             "ro": "Grupul B: Biserica din Válega",
-            "en": "Cluster B: Church of Válega"
+            "en": "Cluster B: Church of Válega",
+            "pt": "Conjunto B: Igreja de Válega"
           },
           "coords": [
             -8.583,
@@ -991,7 +1086,8 @@
             "de": "Die kurze Fahrt lohnt sich. Dies ist ein Meisterwerk der portugiesischen Fliesenkunst.",
             "hu": "Megéri a rövid autóutat. Ez a portugál csempeművészet egyik mesterműve.",
             "ro": "Merită scurta călătorie cu mașina. Aceasta este o capodoperă a artei portugheze a azulejo-ului.",
-            "en": "Worth the short drive. This is a masterpiece of Portuguese tile art."
+            "en": "Worth the short drive. This is a masterpiece of Portuguese tile art.",
+            "pt": "Vale a breve viagem de carro. É uma obra-prima da azulejaria portuguesa."
           }
         },
         {
@@ -999,7 +1095,8 @@
             "de": "Mittagessen in der Nähe von Válega / Auf dem Weg nach Furadouro",
             "hu": "Ebéd Válega közelében / Úton Furadouro felé",
             "ro": "Prânz lângă Válega / În drum spre Furadouro",
-            "en": "Lunch near Válega / On the way to Furadouro"
+            "en": "Lunch near Válega / On the way to Furadouro",
+            "pt": "Almoço perto de Válega / A caminho do Furadouro"
           },
           "coords": [
             -8.62,
@@ -1015,7 +1112,8 @@
             "de": "Suchen Sie ein traditionelles Restaurant außerhalb des Haupttouristengebiets.",
             "hu": "Keressen egy hagyományos éttermet a fő turistaövezeten kívül.",
             "ro": "Găsiți un restaurant tradițional în afara zonei turistice principale.",
-            "en": "Find a traditional restaurant outside the main tourist area."
+            "en": "Find a traditional restaurant outside the main tourist area.",
+            "pt": "Encontre um restaurante tradicional fora da área mais turística."
           }
         },
         {
@@ -1023,7 +1121,8 @@
             "de": "Cluster C: Parque Ambiental do Buçaquinho",
             "hu": "C. klaszter: Parque Ambiental do Buçaquinho",
             "ro": "Grupul C: Parque Ambiental do Buçaquinho",
-            "en": "Cluster C: Buçaquinho Environmental Park"
+            "en": "Cluster C: Buçaquinho Environmental Park",
+            "pt": "Conjunto C: Parque Ambiental do Buçaquinho"
           },
           "coords": [
             -8.653,
@@ -1039,7 +1138,8 @@
             "de": "Parken Sie hier und machen Sie einen Spaziergang. Es ist eine erfrischende Abwechslung.",
             "hu": "Parkoljon le itt, és tegyen egy sétát. Frissítő változatosság.",
             "ro": "Parcați aici și faceți o plimbare. Este o schimbare revigorantă.",
-            "en": "Park here and go for a walk. It's a refreshing change of scenery."
+            "en": "Park here and go for a walk. It's a refreshing change of scenery.",
+            "pt": "Estacione aqui e faça uma caminhada. É uma mudança de cenário revigorante."
           }
         },
         {
@@ -1047,7 +1147,8 @@
             "de": "Cluster C: Praia do Furadouro",
             "hu": "C. klaszter: Praia do Furadouro",
             "ro": "Grupul C: Plaja Furadouro",
-            "en": "Cluster C: Furadouro Beach"
+            "en": "Cluster C: Furadouro Beach",
+            "pt": "Conjunto C: Praia do Furadouro"
           },
           "coords": [
             -8.665,
@@ -1063,7 +1164,8 @@
             "de": "Lassen Sie das Auto stehen und gehen Sie zum Strand. Ideal für einen langen Spaziergang oder um die Sonne zu genießen.",
             "hu": "Hagyja az autót, és sétáljon le a partra. Ideális egy hosszú sétához vagy napozáshoz.",
             "ro": "Lăsați mașina și mergeți pe jos până la plajă. Ideal pentru o plimbare lungă sau pentru a vă bucura de soare.",
-            "en": "Leave the car and walk to the beach. Ideal for a long walk or enjoying the sun."
+            "en": "Leave the car and walk to the beach. Ideal for a long walk or enjoying the sun.",
+            "pt": "Deixe o carro e caminhe até à praia. Ideal para uma longa caminhada ou para apanhar sol."
           }
         },
         {
@@ -1071,7 +1173,8 @@
             "de": "Abendessen mit Sonnenuntergang in Furadouro",
             "hu": "Naplementés vacsora Furadouróban",
             "ro": "Cină la apus în Furadouro",
-            "en": "Sunset Dinner in Furadouro"
+            "en": "Sunset Dinner in Furadouro",
+            "pt": "Jantar ao pôr do sol no Furadouro"
           },
           "coords": [
             -8.667,
@@ -1087,7 +1190,8 @@
             "de": "Wählen Sie ein Restaurant am Meer, um das Abendessen mit einem atemberaubenden Blick auf den Sonnenuntergang zu genießen.",
             "hu": "Válasszon egy tengerparti éttermet, hogy a vacsorát lenyűgöző naplementével élvezhesse.",
             "ro": "Alegeți un restaurant pe malul mării pentru a vă bucura de cină cu o priveliște uimitoare la apus.",
-            "en": "Pick a seaside restaurant to enjoy dinner with a stunning sunset view."
+            "en": "Pick a seaside restaurant to enjoy dinner with a stunning sunset view.",
+            "pt": "Escolha um restaurante à beira-mar para jantar com uma vista deslumbrante do pôr do sol."
           }
         }
       ],
@@ -1095,7 +1199,8 @@
         "de": "Ihr Autotag beginnt im historischen Zentrum von Ovar, wo Sie die wichtigsten Sehenswürdigkeiten zu Fuß erkunden. Am späten Vormittag fahren Sie zur atemberaubenden Igreja de Válega, einem Juwel der Fliesenkunst. Nach dem Mittagessen geht es weiter zur Küste. Der Nachmittag ist der Natur gewidmet, mit einem Spaziergang im Buçaquinho-Park, gefolgt von entspannter Zeit am riesigen Strand von Furadouro. Beenden Sie den Tag mit einem unvergesslichen Abendessen bei Sonnenuntergang über dem Atlantik.",
         "hu": "Az autós nap Ovar történelmi központjában kezdődik, ahol gyalogosan fedezi fel a legfontosabb látnivalókat. Késő délelőtt elautózik a lenyűgöző Igreja de Válega templomhoz, a csempeművészet gyöngyszeméhez. Ebéd után irány a tengerpart. A délután a természeté, egy sétával a Buçaquinho parkban, majd pihenéssel a hatalmas Furadouro strandon. A napot egy felejthetetlen naplementés vacsorával zárja az Atlanti-óceán felett.",
         "ro": "Ziua cu mașina începe în centrul istoric al orașului Ovar, explorând atracțiile cheie pe jos. Spre sfârșitul dimineții, conduceți spre uimitoarea Igreja de Válega, o bijuterie a artei azulejo-ului. După prânz, vă îndreptați spre coastă. După-amiaza este dedicată naturii, cu o plimbare în Parcul Buçaquinho, urmată de relaxare pe vasta plajă Furadouro. Încheiați ziua cu o cină memorabilă la apus, cu vedere la Atlantic.",
-        "en": "Your car day starts in the historic center of Ovar, exploring the key sights on foot. In the late morning, you drive to the stunning Igreja de Válega, a gem of tile art. After lunch, you head for the coast. The afternoon is dedicated to nature, with a walk in Buçaquinho Park followed by relaxing time on the vast Furadouro Beach. End the day with a memorable sunset dinner over the Atlantic."
+        "en": "Your car day starts in the historic center of Ovar, exploring the key sights on foot. In the late morning, you drive to the stunning Igreja de Válega, a gem of tile art. After lunch, you head for the coast. The afternoon is dedicated to nature, with a walk in Buçaquinho Park followed by relaxing time on the vast Furadouro Beach. End the day with a memorable sunset dinner over the Atlantic.",
+        "pt": "O seu dia de carro começa no centro histórico de Ovar, explorando os principais pontos a pé. No fim da manhã, conduza até à deslumbrante Igreja de Válega, uma gema da azulejaria. Depois do almoço, dirija-se à costa. A tarde é dedicada à natureza, com uma caminhada no Parque do Buçaquinho seguida de tempo relaxante na vasta Praia do Furadouro. Termine o dia com um memorável jantar ao pôr do sol sobre o Atlântico."
       },
       "tips": {
         "de": [
@@ -1121,6 +1226,12 @@
           "Use a GPS app to plan your route for easy navigation between clusters.",
           "Be aware of tolls on some highways in the area.",
           "Don't leave valuables visible in the car."
+        ],
+        "pt": [
+          "O estacionamento no centro é pago, mas pode encontrar lugares grátis nas ruas laterais.",
+          "Use uma app de GPS para planear a rota e facilitar a navegação entre os conjuntos.",
+          "Esteja atento a portagens em algumas autoestradas da zona.",
+          "Não deixe objetos de valor visíveis no carro."
         ]
       },
       "variants": {
@@ -1129,7 +1240,8 @@
             "de": "Komfortable Autotour zwischen den Highlights von Ovar und Válega. Der Regen stört nicht, während wir die beeindruckende Kirche von Válega besuchen, deren Außenfassade bei Nässe glänzt. Nach einem gemütlichen Mittagessen fahren wir zum Buçaquinho-Park und zum Strand von Furadouro, wo wir die raue Brandung vom warmen Auto aus beobachten können, bevor ein Abendessen in Strandnähe den Tag abrundet.",
             "hu": "Kényelmes autós túra Ovar és Válega látnivalói között. Az eső nem akadály, miközben meglátogatjuk a lenyűgöző válegai templomot, melynek homlokzata ragyog a nedvességtől. Egy hangulatos ebéd után a Buçaquinho parkhoz és Furadouro strandjához hajtunk, ahol a meleg autóból figyelhetjük a zord hullámokat, mielőtt egy tengerparti vacsora zárná a napot.",
             "ro": "Tur cu mașina între punctele de interes din Ovar și Válega. Ploaia nu deranjează în timp ce vizităm biserica impresionantă din Válega, a cărei fațadă strălucește când e udă. După un prânz plăcut, mergem la Parcul Buçaquinho și plaja Furadouro, unde observăm marea din confortul mașinii înainte de cină.",
-            "en": "Comfortable car tour between the highlights of Ovar and Válega. The rain is no obstacle as we visit the impressive Válega church, whose facade shines when wet. After a cozy lunch, we drive to Buçaquinho Park and Furadouro Beach, where we can watch the rough surf from the warm car before a seaside dinner ends the day."
+            "en": "Comfortable car tour between the highlights of Ovar and Válega. The rain is no obstacle as we visit the impressive Válega church, whose facade shines when wet. After a cozy lunch, we drive to Buçaquinho Park and Furadouro Beach, where we can watch the rough surf from the warm car before a seaside dinner ends the day.",
+            "pt": "Um confortável passeio de carro pelos destaques de Ovar e Válega. A chuva não é obstáculo enquanto visitamos a impressionante igreja de Válega, cuja fachada brilha quando molhada. Depois de um almoço acolhedor, seguimos para o Parque do Buçaquinho e para a Praia do Furadouro, onde podemos observar a vaga agitada a partir do carro quente antes de um jantar à beira-mar terminar o dia."
           },
           "stops": [
             {
@@ -1138,7 +1250,8 @@
                 "de": "Parkhaus im Zentrum nutzen.",
                 "hu": "Használja a központi parkolóházat.",
                 "ro": "Folosiți parcarea din centru.",
-                "en": "Use the central parking garage."
+                "en": "Use the central parking garage.",
+                "pt": "Use o parque de estacionamento central."
               }
             },
             {
@@ -1147,7 +1260,8 @@
                 "de": "Direkter Zugang vom Parkplatz.",
                 "hu": "Közvetlen bejárat a parkolótól.",
                 "ro": "Acces direct din parcare.",
-                "en": "Direct access from the parking."
+                "en": "Direct access from the parking.",
+                "pt": "Acesso direto a partir do estacionamento."
               }
             },
             {
@@ -1156,7 +1270,8 @@
                 "de": "Perfektes Fotomotiv bei Regen.",
                 "hu": "Tökéletes fotótéma esőben.",
                 "ro": "Subiect foto perfect pe ploaie.",
-                "en": "Perfect photo subject in the rain."
+                "en": "Perfect photo subject in the rain.",
+                "pt": "Assunto perfeito para fotografia na chuva."
               }
             },
             {
@@ -1165,7 +1280,8 @@
                 "de": "Überdachte Parkplätze suchen.",
                 "hu": "Keressen fedett parkolóhelyet.",
                 "ro": "Căutați locuri de parcare acoperite.",
-                "en": "Look for covered parking spots."
+                "en": "Look for covered parking spots.",
+                "pt": "Procure lugares de estacionamento cobertos."
               }
             },
             {
@@ -1174,7 +1290,8 @@
                 "de": "Kurzer Spaziergang zwischen Schauern.",
                 "hu": "Rövid séta a záporok között.",
                 "ro": "Scurtă plimbare între averse.",
-                "en": "Short walk between showers."
+                "en": "Short walk between showers.",
+                "pt": "Curta caminhada entre aguaceiros."
               }
             },
             {
@@ -1183,7 +1300,8 @@
                 "de": "Parken mit Blick auf das Meer.",
                 "hu": "Parkoljon kilátással a tengerre.",
                 "ro": "Parcați cu vedere la mare.",
-                "en": "Park with a view of the sea."
+                "en": "Park with a view of the sea.",
+                "pt": "Estacione com vista para o mar."
               }
             },
             {
@@ -1192,7 +1310,8 @@
                 "de": "Reservieren Sie einen Fensterplatz.",
                 "hu": "Foglaljon ablak melletti asztalt.",
                 "ro": "Rezervați o masă la fereastră.",
-                "en": "Reserve a window table."
+                "en": "Reserve a window table.",
+                "pt": "Reserve uma mesa junto à janela."
               }
             }
           ],
@@ -1220,6 +1339,12 @@
               "The coastal road may have salt spray during storms.",
               "Use the defroster to prevent fogging.",
               "Parking in Furadouro is plentiful in the rain."
+            ],
+            "pt": [
+              "Válega fica a apenas 10 minutos de carro de Ovar.",
+              "A estrada costeira pode ter salpicos de água durante tempestades.",
+              "Use o desembaçador para evitar a formação de nevoeiro nos vidros.",
+              "O estacionamento no Furadouro é abundante na chuva."
             ]
           }
         },
@@ -1228,7 +1353,8 @@
             "de": "Winterlicher Roadtrip durch das Umland von Ovar. Wir besuchen die farbenprächtige Kirche von Válega im klaren Winterlicht. Nach einem stärkenden Mittagessen geht es zum Strand von Furadouro, um den frühen Sonnenuntergang über dem Atlantik zu bewundern. Die Fahrt im beheizten Auto ermöglicht es, die weiten Landschaften bequem zu erkunden, während der Tag bei einem gemütlichen Abendessen ausklingt.",
             "hu": "Téli autós kirándulás Ovar környékén. Meglátogatjuk a színes válegai templomot a tiszta téli fényben. Egy tápláló ebéd után Furadouro strandja felé vesszük az irányt, hogy megcsodáljuk a korai naplementét az Atlanti-óceán felett. A fűtött autó kényelmessé teszi a táj felfedezését, a napot pedig egy hangulatos vacsora zárja.",
             "ro": "Excursie de iarnă cu mașina în jurul Ovarului. Vizităm biserica colorată din Válega în lumina clară de iarnă. După un prânz consistent, mergem pe plaja Furadouro pentru a admira apusul devreme peste Atlantic. Confortul mașinii încălzite face explorarea plăcută, iar ziua se încheie cu o cină caldă.",
-            "en": "Winter road trip through the Ovar countryside. We visit the colorful Válega church in the clear winter light. After a strengthening lunch, we head to Furadouro beach to admire the early sunset over the Atlantic. Driving in a heated car allows for comfortable exploration, ending the day with a cozy dinner."
+            "en": "Winter road trip through the Ovar countryside. We visit the colorful Válega church in the clear winter light. After a strengthening lunch, we head to Furadouro beach to admire the early sunset over the Atlantic. Driving in a heated car allows for comfortable exploration, ending the day with a cozy dinner.",
+            "pt": "Viagem de inverno pelas estradas do campo de Ovar. Visitamos a colorida igreja de Válega na clara luz de inverno. Após um almoço reconfortante, seguimos para a praia do Furadouro para admirar o pôr do sol precoce sobre o Atlântico. Conduzir num carro aquecido permite uma exploração confortável, terminando o dia com um jantar acolhedor."
           },
           "stops": [
             {
@@ -1237,7 +1363,8 @@
                 "de": "Zentrum ist weihnachtlich beleuchtet.",
                 "hu": "A központ karácsonyi díszkivilágítást kap.",
                 "ro": "Centrul e iluminat festiv.",
-                "en": "The center has festive lighting."
+                "en": "The center has festive lighting.",
+                "pt": "O centro tem iluminação festiva."
               }
             },
             {
@@ -1246,7 +1373,8 @@
                 "de": "Gute Heizung in den Räumen.",
                 "hu": "Jó fűtés a termekben.",
                 "ro": "Încălzire bună în interior.",
-                "en": "Good heating in the rooms."
+                "en": "Good heating in the rooms.",
+                "pt": "Bom aquecimento nos quartos."
               }
             },
             {
@@ -1255,7 +1383,8 @@
                 "de": "Tiefstehende Sonne für Fotos nutzen.",
                 "hu": "Használja a lapos szögből jövő fényt.",
                 "ro": "Folosiți lumina joasă pentru poze.",
-                "en": "Use the low sun for photos."
+                "en": "Use the low sun for photos.",
+                "pt": "Use o sol baixo para fotografias."
               }
             },
             {
@@ -1264,7 +1393,8 @@
                 "de": "Probieren Sie herzhafte Eintöpfe.",
                 "hu": "Kóstolja meg a laktató egytálételeket.",
                 "ro": "Încercați tocănițe consistente.",
-                "en": "Try hearty local stews."
+                "en": "Try hearty local stews.",
+                "pt": "Experimente guisados locais e consistentes."
               }
             },
             {
@@ -1273,7 +1403,8 @@
                 "de": "Vögel beobachten am frühen Nachmittag.",
                 "hu": "Madármegfigyelés kora délután.",
                 "ro": "Observarea păsărilor după-amiaza.",
-                "en": "Birdwatching in the early afternoon."
+                "en": "Birdwatching in the early afternoon.",
+                "pt": "Observação de aves ao início da tarde."
               }
             },
             {
@@ -1282,7 +1413,8 @@
                 "de": "Sonnenuntergang gegen 17:15 Uhr.",
                 "hu": "Naplemente 17:15 körül.",
                 "ro": "Apusul în jur de ora 17:15.",
-                "en": "Sunset around 17:15."
+                "en": "Sunset around 17:15.",
+                "pt": "Pôr do sol por volta das 17:15."
               }
             },
             {
@@ -1291,7 +1423,8 @@
                 "de": "Genießen Sie den Blick auf die Brandung.",
                 "hu": "Élvezze a hullámtörés látványát.",
                 "ro": "Bucurați-vă de priveliștea mării.",
-                "en": "Enjoy the view of the surf."
+                "en": "Enjoy the view of the surf.",
+                "pt": "Desfrute da vista do rebentação do mar."
               }
             }
           ],
@@ -1319,6 +1452,12 @@
               "Beach parking is free in winter.",
               "Bring a blanket for the beach stop.",
               "Válega looks majestic in the winter light."
+            ],
+            "pt": [
+              "Evite conduzir com nevoeiro costeiro.",
+              "O estacionamento na praia é gratuito no inverno.",
+              "Leve uma manta para a paragem na praia.",
+              "Válega fica majestosa na luz de inverno."
             ]
           }
         }
@@ -1337,7 +1476,8 @@
             "de": "Cluster A: Praça da República",
             "hu": "A. klaszter: Praça da República",
             "ro": "Grupul A: Praça da República",
-            "en": "Cluster A: Praça da República"
+            "en": "Cluster A: Praça da República",
+            "pt": "Conjunto A: Praça da República"
           },
           "coords": [
             -8.6162,
@@ -1353,7 +1493,8 @@
             "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, in der Nähe der wichtigsten Bushaltestellen.",
             "hu": "Kezdje a napot a város szívében, a fő buszmegállók közelében.",
             "ro": "Începeți ziua în inima orașului, aproape de stațiile principale de autobuz.",
-            "en": "Start your day in the heart of the city, near the main bus stops."
+            "en": "Start your day in the heart of the city, near the main bus stops.",
+            "pt": "Comece o dia no coração da cidade, perto das principais paragens de autocarro."
           }
         },
         {
@@ -1361,7 +1502,8 @@
             "de": "Cluster A: Igreja Matriz & Museu de Ovar",
             "hu": "A. klaszter: Igreja Matriz és Ovari Múzeum",
             "ro": "Grupul A: Igreja Matriz & Muzeul din Ovar",
-            "en": "Cluster A: Mother Church & Museum of Ovar"
+            "en": "Cluster A: Mother Church & Museum of Ovar",
+            "pt": "Conjunto A: Igreja Matriz & Museu de Ovar"
           },
           "coords": [
             -8.618,
@@ -1377,7 +1519,8 @@
             "de": "Diese Attraktionen liegen nahe beieinander. Nehmen Sie sich Zeit für beide.",
             "hu": "Ezek a látnivalók közel vannak egymáshoz. Szánjon időt mindkettőre.",
             "ro": "Aceste atracții sunt apropiate. Luați-vă timp pentru amândouă.",
-            "en": "These attractions are close to each other. Take your time to enjoy both."
+            "en": "These attractions are close to each other. Take your time to enjoy both.",
+            "pt": "Estas atrações estão próximas umas das outras. Dedique tempo para apreciar ambas."
           }
         },
         {
@@ -1385,7 +1528,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "pt": "Almoço no Centro da Cidade"
           },
           "coords": [
             -8.6185,
@@ -1401,7 +1545,8 @@
             "de": "Stärken Sie sich vor Ihrer Busfahrt zum Strand.",
             "hu": "Egyen valamit, mielőtt busszal a strandra indul.",
             "ro": "Mâncați ceva înainte de a lua autobuzul spre plajă.",
-            "en": "Fuel up before you take the bus to the beach."
+            "en": "Fuel up before you take the bus to the beach.",
+            "pt": "Recarregue energias antes de apanhar o autocarro para a praia."
           }
         },
         {
@@ -1409,7 +1554,8 @@
             "de": "Cluster B: Fahrt mit dem Bus nach Praia do Furadouro",
             "hu": "B. klaszter: Buszozás a Praia do Furadouro strandra",
             "ro": "Grupul B: Călătorie cu autobuzul spre Plaja Furadouro",
-            "en": "Cluster B: Bus ride to Praia do Furadouro"
+            "en": "Cluster B: Bus ride to Praia do Furadouro",
+            "pt": "Cluster B: Viagem de autocarro até à Praia do Furadouro"
           },
           "coords": [
             -8.665,
@@ -1425,7 +1571,8 @@
             "de": "Genießen Sie die Fahrt und steigen Sie an der Hauptbushaltestelle am Strand aus.",
             "hu": "Élvezze az utazást, és szálljon le a strand fő buszmegállójánál.",
             "ro": "Bucurați-vă de călătorie și coborâți la stația principală de autobuz de la plajă.",
-            "en": "Enjoy the ride and get off at the main beach bus stop."
+            "en": "Enjoy the ride and get off at the main beach bus stop.",
+            "pt": "Desfrute da viagem e saia na paragem principal da praia."
           }
         },
         {
@@ -1433,7 +1580,8 @@
             "de": "Cluster B: Spaziergang zum Parque Ambiental do Buçaquinho",
             "hu": "B. klaszter: Séta a Parque Ambiental do Buçaquinho parkba",
             "ro": "Grupul B: Plimbare la Parque Ambiental do Buçaquinho",
-            "en": "Cluster B: Walk to Parque Ambiental do Buçaquinho"
+            "en": "Cluster B: Walk to Parque Ambiental do Buçaquinho",
+            "pt": "Cluster B: Caminhada até ao Parque Ambiental do Buçaquinho"
           },
           "coords": [
             -8.653,
@@ -1449,7 +1597,8 @@
             "de": "Ein schöner Spaziergang vom Strand entfernt, um eine andere Seite der Küstenlandschaft zu sehen.",
             "hu": "Kellemes séta a strandtól, hogy megnézze a tengerparti táj egy másik oldalát.",
             "ro": "O plimbare plăcută de la plajă pentru a vedea o altă latură a peisajului de coastă.",
-            "en": "A pleasant walk from the beach to see a different side of the coastal landscape."
+            "en": "A pleasant walk from the beach to see a different side of the coastal landscape.",
+            "pt": "Uma caminhada agradável desde a praia para ver um lado diferente da paisagem costeira."
           }
         },
         {
@@ -1457,7 +1606,8 @@
             "de": "Rückfahrt mit dem Bus nach Ovar",
             "hu": "Buszozás vissza Ovarba",
             "ro": "Întoarcere cu autobuzul la Ovar",
-            "en": "Bus Ride back to Ovar"
+            "en": "Bus Ride back to Ovar",
+            "pt": "Viagem de autocarro de regresso a Ovar"
           },
           "coords": [
             -8.6167,
@@ -1473,7 +1623,8 @@
             "de": "Planen Sie Ihre Rückfahrt im Voraus, damit Sie den letzten Bus nicht verpassen.",
             "hu": "Tervezze meg előre a visszaútját, hogy ne késsen le az utolsó buszról.",
             "ro": "Planificați-vă călătoria de întoarcere în avans pentru a nu pierde ultimul autobuz.",
-            "en": "Plan your return trip in advance so you don't miss the last bus."
+            "en": "Plan your return trip in advance so you don't miss the last bus.",
+            "pt": "Planeie a viagem de regresso com antecedência para não perder o último autocarro."
           }
         }
       ],
@@ -1481,7 +1632,8 @@
         "de": "Ihr Tag beginnt mit der Erkundung des fußgängerfreundlichen Zentrums von Ovar, einschließlich seiner berühmten Kirche und seines Museums. Nach einem gemütlichen Mittagessen steigen Sie in einen lokalen Bus, der Sie zur Atlantikküste bringt. Verbringen Sie den Nachmittag am goldenen Sandstrand von Furadouro und machen Sie einen erfrischenden Spaziergang im nahegelegenen Buçaquinho-Park. Am späten Nachmittag nehmen Sie den Bus zurück ins Stadtzentrum und beenden so Ihren erlebnisreichen Tag.",
         "hu": "A nap Ovar gyalogosbarát központjának felfedezésével kezdődik, beleértve a híres templomot és múzeumot. Egy kényelmes ebéd után felszáll egy helyi buszra, amely elviszi az Atlanti-óceán partjára. Töltse a délutánt Furadouro aranyhomokos strandján, és tegyen egy frissítő sétát a közeli Buçaquinho parkban. Késő délután busszal tér vissza a városközpontba, lezárva az élményekkel teli napot.",
         "ro": "Ziua începe prin explorarea centrului pietonal al orașului Ovar, inclusiv a faimoasei sale biserici și muzeu. După un prânz relaxat, urcați într-un autobuz local pentru o călătorie spre coasta Atlanticului. Petreceți după-amiaza pe nisipurile aurii ale plajei Furadouro și faceți o plimbare revigorantă în Parcul Buçaquinho din apropiere. Luați autobuzul înapoi în centrul orașului la sfârșitul după-amiezii pentru a încheia o zi plină de explorări.",
-        "en": "Your day begins exploring the pedestrian-friendly center of Ovar, including its famous church and museum. After a leisurely lunch, you'll hop on a local bus for a trip to the Atlantic coast. Spend the afternoon on the golden sands of Furadouro beach and take a refreshing walk in the nearby Buçaquinho Park. You'll catch the bus back to the city center in the late afternoon, concluding your day of exploration."
+        "en": "Your day begins exploring the pedestrian-friendly center of Ovar, including its famous church and museum. After a leisurely lunch, you'll hop on a local bus for a trip to the Atlantic coast. Spend the afternoon on the golden sands of Furadouro beach and take a refreshing walk in the nearby Buçaquinho Park. You'll catch the bus back to the city center in the late afternoon, concluding your day of exploration.",
+        "pt": "O seu dia começa a explorar o centro pedonal de Ovar, incluindo a sua famosa igreja e museu. Depois de um almoço descontraído, apanhará um autocarro local para a costa atlântica. Passe a tarde nas areias douradas da praia do Furadouro e faça uma revigorante caminhada no próximo Parque do Buçaquinho. Apanhará o autocarro de regresso ao centro da cidade ao final da tarde, concluindo o seu dia de exploração."
       },
       "tips": {
         "de": [
@@ -1507,6 +1659,12 @@
           "Buy tickets in advance or have small change ready for the bus driver.",
           "Bus stops may not always be clearly marked, so ask a local if in doubt.",
           "Be mindful of the last bus times back to Ovar, especially on weekends."
+        ],
+        "pt": [
+          "Consulte o horário dos autocarros online (por exemplo, a empresa 'BusBus') para rotas entre Ovar e Furadouro.",
+          "Compre bilhetes com antecedência ou tenha trocos prontos para o condutor.",
+          "As paragens de autocarro podem nem sempre estar bem sinalizadas, por isso pergunte a um local em caso de dúvida.",
+          "Tenha atenção aos horários do último autocarro de regresso a Ovar, especialmente ao fim de semana."
         ]
       },
       "variants": {
@@ -1515,7 +1673,8 @@
             "de": "Mit Bus und Bahn durch Ovar bei Regen. Wir nutzen die Wartezeiten für Besuche in den überdachten Museen und Kirchen im Stadtzentrum. Ein Bus bringt uns nach Furadouro, wo wir die Meeresluft schnuppern, bevor wir uns in ein Café flüchten. Der Tag endet mit einer gemütlichen Rückfahrt ins Stadtzentrum, während wir die regnerische Landschaft durch das Busfenster beobachten.",
             "hu": "Busszal és vonattal Ovaron át esőben. A várakozási időt a városközpont fedett múzeumainak és templomainak meglátogatására használjuk. Busz visz minket Furadouróba, ahol beleszagolunk a tengeri levegőbe, mielőtt egy kávézóba menekülnénk. A nap kényelmes visszautazással zárul a központba, miközben az esős tájat figyeljük az ablakból.",
             "ro": "Cu autobuzul și trenul prin Ovar pe ploaie. Folosim timpii de așteptare pentru a vizita muzeele și bisericile acoperite din centru. Un autobuz ne duce la Furadouro, unde simțim briza mării înainte de a ne refugia într-o cafenea. Ziua se încheie cu drumul spre centru, privind peisajul ploios pe geam.",
-            "en": "By bus and train through Ovar in the rain. We use the waiting times to visit the covered museums and churches in the city center. A bus takes us to Furadouro, where we catch a breath of sea air before retreating to a cafe. The day ends with a comfortable journey back to the center, watching the rainy landscape through the window."
+            "en": "By bus and train through Ovar in the rain. We use the waiting times to visit the covered museums and churches in the city center. A bus takes us to Furadouro, where we catch a breath of sea air before retreating to a cafe. The day ends with a comfortable journey back to the center, watching the rainy landscape through the window.",
+            "pt": "De autocarro e comboio por Ovar na chuva. Aproveitamos os tempos de espera para visitar os museus e igrejas cobertas do centro da cidade. Um autocarro leva-nos ao Furadouro, onde apanhamos um sopro de ar marítimo antes de nos recolhermos a um café. O dia termina com uma viagem confortável de regresso ao centro, observando a paisagem chuvosa pela janela."
           },
           "stops": [
             {
@@ -1524,7 +1683,8 @@
                 "de": "Wartehäuschen an der Bushaltestelle.",
                 "hu": "Váróterem a buszmegállónál.",
                 "ro": "Refugiu la stația de autobuz.",
-                "en": "Shelter at the bus stop."
+                "en": "Shelter at the bus stop.",
+                "pt": "Abrigo na paragem de autocarro."
               }
             },
             {
@@ -1533,7 +1693,8 @@
                 "de": "Kurze Gehwege zwischen den Zielen.",
                 "hu": "Rövid sétatávok a célok között.",
                 "ro": "Distanțe scurte între obiective.",
-                "en": "Short walking distances between spots."
+                "en": "Short walking distances between spots.",
+                "pt": "Curtas distâncias a pé entre os pontos."
               }
             },
             {
@@ -1542,7 +1703,8 @@
                 "de": "In der Nähe der Buslinien essen.",
                 "hu": "Egyen a buszjáratok közelében.",
                 "ro": "Mâncați aproape de liniile de autobuz.",
-                "en": "Eat near the bus lines."
+                "en": "Eat near the bus lines.",
+                "pt": "Coma perto das linhas de autocarro."
               }
             },
             {
@@ -1551,7 +1713,8 @@
                 "de": "Fahrplan online prüfen (Pádua).",
                 "hu": "Ellenőrizze a menetrendet (Pádua).",
                 "ro": "Verificați orarul online (Pádua).",
-                "en": "Check the schedule online (Pádua)."
+                "en": "Check the schedule online (Pádua).",
+                "pt": "Verifique o horário online (Pádua)."
               }
             },
             {
@@ -1560,7 +1723,8 @@
                 "de": "Waldwege können matschig sein.",
                 "hu": "Az erdei utak sarasak lehetnek.",
                 "ro": "Potecile pot fi noroioase.",
-                "en": "Forest paths can be muddy."
+                "en": "Forest paths can be muddy.",
+                "pt": "Os caminhos florestais podem estar lamacentos."
               }
             },
             {
@@ -1569,7 +1733,8 @@
                 "de": "Trockener Platz im Bus genießen.",
                 "hu": "Élvezze a száraz helyet a buszon.",
                 "ro": "Bucurați-vă de locul uscat în autobuz.",
-                "en": "Enjoy the dry seat on the bus."
+                "en": "Enjoy the dry seat on the bus.",
+                "pt": "Desfrute do assento seco no autocarro."
               }
             }
           ],
@@ -1597,6 +1762,12 @@
               "Trains to Aveiro/Porto are a good alternative.",
               "Wear waterproof shoes for transfers.",
               "Ovar station is about a 15-min walk from center."
+            ],
+            "pt": [
+              "Use a aplicação do operador local de autocarros.",
+              "Os comboios para Aveiro/Porto são uma boa alternativa.",
+              "Use calçado impermeável para as deslocações.",
+              "A estação de Ovar fica a cerca de 15 minutos a pé do centro."
             ]
           }
         },
@@ -1605,7 +1776,8 @@
             "de": "Ein entspannter Wintertag in Ovar mit öffentlichen Verkehrsmitteln. Wir erkunden das Zentrum und wärmen uns in den historischen Gebäuden auf. Eine Busfahrt führt uns an die Küste, wo wir den Strand von Furadouro im klaren Winterlicht erleben. Da es früh dunkel wird, nutzen wir den späten Nachmittag für den Rückweg, um die beleuchtete Stadt bei der Ankunft zu genießen.",
             "hu": "Pihentető téli nap Ovarban tömegközlekedéssel. Felfedezzük a központot és felmelegedünk a történelmi épületekben. Buszút vezet a partra, ahol a tiszta téli fényben látjuk Furadourót. Mivel korán sötétedik, a késő délutánt a visszautazásra használjuk, hogy érkezéskor már a kivilágított várost élvezhessük.",
             "ro": "O zi relaxantă de iarnă în Ovar cu transportul public. Explorăm centrul și ne încălzim în clădirile istorice. O călătorie cu autobuzul ne duce la coastă, unde vedem Furadouro în lumina clară de iarnă. Deoarece se întunecă devreme, profităm de după-amiază pentru întoarcere.",
-            "en": "A relaxing winter day in Ovar using public transport. We explore the center and warm up in the historic buildings. A bus ride leads us to the coast, where we experience Furadouro in the clear winter light. As it gets dark early, we use the late afternoon for the return journey to enjoy the lit city upon arrival."
+            "en": "A relaxing winter day in Ovar using public transport. We explore the center and warm up in the historic buildings. A bus ride leads us to the coast, where we experience Furadouro in the clear winter light. As it gets dark early, we use the late afternoon for the return journey to enjoy the lit city upon arrival.",
+            "pt": "Um dia relaxante de inverno em Ovar usando transportes públicos. Exploramos o centro e aquecemo-nos nos edifícios históricos. Uma viagem de autocarro leva-nos à costa, onde vivenciamos o Furadouro com a luz clara do inverno. Como anoitece cedo, usamos o final da tarde para a viagem de regresso e apreciar a cidade iluminada à chegada."
           },
           "stops": [
             {
@@ -1614,7 +1786,8 @@
                 "de": "Zentraler Knotenpunkt für Busse.",
                 "hu": "Központi buszcsomópont.",
                 "ro": "Nod central pentru autobuze.",
-                "en": "Central hub for buses."
+                "en": "Central hub for buses.",
+                "pt": "Nó central de autocarros."
               }
             },
             {
@@ -1623,7 +1796,8 @@
                 "de": "Indoor-Zeit zur Aufwärmung nutzen.",
                 "hu": "Használja a benti időt melegedésre.",
                 "ro": "Folosiți timpul în interior pentru încălzire.",
-                "en": "Use indoor time for warming up."
+                "en": "Use indoor time for warming up.",
+                "pt": "Use o tempo interior para aquecer."
               }
             },
             {
@@ -1632,7 +1806,8 @@
                 "de": "Bäckereien bieten warme Sitzplätze.",
                 "hu": "A pékségekben meleg ülőhelyek vannak.",
                 "ro": "Brutăriile oferă locuri calde.",
-                "en": "Bakeries offer warm seating."
+                "en": "Bakeries offer warm seating.",
+                "pt": "As pastelarias oferecem lugares aquecidos."
               }
             },
             {
@@ -1641,7 +1816,8 @@
                 "de": "Winterfahrplan ist oft reduziert.",
                 "hu": "A téli menetrend gyakran ritkább.",
                 "ro": "Orarul de iarnă e adesea redus.",
-                "en": "Winter schedule is often reduced."
+                "en": "Winter schedule is often reduced.",
+                "pt": "O horário de inverno é frequentemente reduzido."
               }
             },
             {
@@ -1650,7 +1826,8 @@
                 "de": "Frische Brise im Pinienwald.",
                 "hu": "Friss szellő a fenyőerdőben.",
                 "ro": "Briză proaspătă în pădurea de pini.",
-                "en": "Fresh breeze in the pine forest."
+                "en": "Fresh breeze in the pine forest.",
+                "pt": "Brisa fresca no pinhal."
               }
             },
             {
@@ -1659,7 +1836,8 @@
                 "de": "Letzter Bus vor Sonnenuntergang.",
                 "hu": "Utolsó busz naplemente előtt.",
                 "ro": "Ultimul autobuz înainte de apus.",
-                "en": "Last bus before sunset."
+                "en": "Last bus before sunset.",
+                "pt": "Último autocarro antes do pôr do sol."
               }
             }
           ],
@@ -1687,6 +1865,12 @@
               "Ovar station is well connected to Porto.",
               "Spend waiting times in a cafe.",
               "Combine bus and train for more flexibility."
+            ],
+            "pt": [
+              "Os bilhetes costumam poder ser comprados ao condutor.",
+              "A estação de Ovar está bem ligada ao Porto.",
+              "Passe os tempos de espera num café.",
+              "Combine autocarro e comboio para maior flexibilidade."
             ]
           }
         }

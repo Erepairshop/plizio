@@ -21,7 +21,8 @@
             "de": "Kirche von Ermesinde (Igreja Matriz)",
             "hu": "Ermesinde-i főtemplom",
             "ro": "Biserica Matriz din Ermesinde",
-            "en": "Ermesinde Mother Church (Igreja Matriz)"
+            "en": "Ermesinde Mother Church (Igreja Matriz)",
+            "pt": "Igreja Matriz de Ermesinde"
           },
           "coords": [
             -8.5505,
@@ -36,7 +37,8 @@
             "de": "Beachten Sie die einzigartigen Kachelarbeiten im Inneren.",
             "hu": "Figyeld meg a belső tér egyedi csempedíszítését.",
             "ro": "Observați lucrările unice cu azulejos din interior.",
-            "en": "Note the unique tile work inside."
+            "en": "Note the unique tile work inside.",
+            "pt": "Note o trabalho único em azulejos no interior."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Denkmal für die Frau von Ermesinde",
             "hu": "Ermesinde-i Nő Emlékműve",
             "ro": "Monumentul Femeii din Ermesinde",
-            "en": "Monument to the Woman of Ermesinde"
+            "en": "Monument to the Woman of Ermesinde",
+            "pt": "Monumento à Mulher de Ermesinde"
           },
           "coords": [
             -8.552,
@@ -59,7 +62,8 @@
             "de": "Ein moderner Tribut an die Frauen der Stadt.",
             "hu": "Modern tisztelgés a város asszonyai előtt.",
             "ro": "Un tribut modern adus femeilor orașului.",
-            "en": "A modern tribute to the women of the city."
+            "en": "A modern tribute to the women of the city.",
+            "pt": "Uma homenagem moderna às mulheres da cidade."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kulturforum von Ermesinde",
             "hu": "Ermesinde-i Kulturális Fórum",
             "ro": "Forumul Cultural din Ermesinde",
-            "en": "Cultural Forum of Ermesinde"
+            "en": "Cultural Forum of Ermesinde",
+            "pt": "Fórum Cultural de Ermesinde"
           },
           "coords": [
             -8.5535,
@@ -82,7 +87,8 @@
             "de": "Prüfen Sie den Spielplan auf lokale Veranstaltungen oder Ausstellungen.",
             "hu": "Nézd meg a programot, hátha van helyi esemény vagy kiállítás.",
             "ro": "Verificați programul pentru evenimente sau expoziții locale.",
-            "en": "Check the schedule for any local events or exhibitions."
+            "en": "Check the schedule for any local events or exhibitions.",
+            "pt": "Consulte a programação para eventuais eventos ou exposições locais."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Villa Beatriz",
             "hu": "Villa Beatriz",
             "ro": "Villa Beatriz",
-            "en": "Villa Beatriz"
+            "en": "Villa Beatriz",
+            "pt": "Villa Beatriz"
           },
           "coords": [
             -8.549,
@@ -105,7 +112,8 @@
             "de": "Ein wunderschönes Beispiel der Architektur des frühen 20. Jahrhunderts.",
             "hu": "A 20. század eleji építészet gyönyörű példája.",
             "ro": "Un exemplu frumos de arhitectură de la începutul secolului XX.",
-            "en": "A beautiful example of early 20th-century architecture."
+            "en": "A beautiful example of early 20th-century architecture.",
+            "pt": "Um belo exemplo de arquitetura do início do século XX."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Stadtpark von Ermesinde",
             "hu": "Ermesinde városi park",
             "ro": "Parcul Urban din Ermesinde",
-            "en": "Ermesinde Urban Park"
+            "en": "Ermesinde Urban Park",
+            "pt": "Parque Urbano de Ermesinde"
           },
           "coords": [
             -8.556,
@@ -128,7 +137,8 @@
             "de": "Ideal für ein Mittagspicknick oder einen entspannten Spaziergang.",
             "hu": "Ideális egy déli piknikhez vagy egy pihentető sétához.",
             "ro": "Ideal pentru un picnic la prânz sau o plimbare relaxantă.",
-            "en": "Ideal for a midday picnic or a relaxing stroll."
+            "en": "Ideal for a midday picnic or a relaxing stroll.",
+            "pt": "Ideal para um piquenique ao meio-dia ou um passeio relaxante."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kirche Santa Rita",
             "hu": "Santa Rita-templom",
             "ro": "Biserica Sfânta Rita",
-            "en": "Church of Santa Rita"
+            "en": "Church of Santa Rita",
+            "pt": "Igreja de Santa Rita"
           },
           "coords": [
             -8.558,
@@ -151,7 +162,8 @@
             "de": "Eine neuere Kirche mit markanter moderner Architektur.",
             "hu": "Egy újabb templom, jellegzetes modern építészettel.",
             "ro": "O biserică mai recentă, cu o arhitectură modernă distinctivă.",
-            "en": "A more recent church with distinctive modern architecture."
+            "en": "A more recent church with distinctive modern architecture.",
+            "pt": "Uma igreja mais recente com arquitetura moderna distintiva."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Rundgang am Herzen der Stadt, der Igreja Matriz. Spazieren Sie durch die Straßen und entdecken Sie moderne Kunst und Kultur im Kulturforum. Nach dem Mittagessen überqueren Sie die Gleise zu den eleganten Gärten der Villa Beatriz, bevor Sie im weitläufigen Stadtpark entspannen. Beenden Sie Ihren Tag mit einem Moment der Ruhe in der modernistischen Kirche Santa Rita.",
         "hu": "Kezdje a gyalogtúrát a város szívében, az Igreja Matriznál. Sétáljon végig az utcákon, fedezze fel a modern művészetet és a kulturális központot. Ebéd után keljen át a síneken a Villa Beatriz elegáns kertjeihez, majd pihenjen a tágas városi parkban. Zárja a napot egy csendes pillanattal a modernista Santa Rita templomban.",
         "ro": "Începeți turul pietonal în inima orașului, la Biserica Matriz. Plimbați-vă pe străzi pentru a descoperi arta modernă și cultura la Forumul Cultural. După prânz, traversați calea ferată către grădinile elegante ale Villa Beatriz, înainte de a vă relaxa în vastul Parc Urban. Încheiați ziua cu un moment de liniște la biserica modernistă Santa Rita.",
-        "en": "Start your walking tour at the city's heart, the Igreja Matriz. Stroll through the streets to discover modern art and culture at the Cultural Forum. After lunch, cross the tracks to the elegant gardens of Villa Beatriz before relaxing in the expansive Urban Park. End your day with a quiet moment at the modernist Church of Santa Rita."
+        "en": "Start your walking tour at the city's heart, the Igreja Matriz. Stroll through the streets to discover modern art and culture at the Cultural Forum. After lunch, cross the tracks to the elegant gardens of Villa Beatriz before relaxing in the expansive Urban Park. End your day with a quiet moment at the modernist Church of Santa Rita.",
+        "pt": "Comece o seu passeio a pé no coração da cidade, a Igreja Matriz. Passeie pelas ruas para descobrir arte moderna e cultura no Fórum Cultural. Após o almoço, atravesse as linhas para os elegantes jardins da Villa Beatriz antes de relaxar no amplo Parque Urbano. Termine o dia com um momento de tranquilidade na moderna Igreja de Santa Rita."
       },
       "gastro_picks": {
         "de": [
@@ -299,6 +312,11 @@
           "Wear comfortable shoes as the pavements can be uneven.",
           "Most shops close for a siesta in the afternoon.",
           "A small umbrella is always a good idea, even on sunny days."
+        ],
+        "pt": [
+          "Use sapatos confortáveis, pois os passeios podem ser irregulares.",
+          "A maioria das lojas fecha para a sesta à tarde.",
+          "Um pequeno guarda-chuva é sempre uma boa ideia, mesmo em dias de sol."
         ]
       },
       "variants": {
@@ -307,7 +325,8 @@
             "de": "Beginnen Sie den regnerischen Morgen in der Igreja Matriz, deren Portal Schutz bietet. Mittags ist das Fórum Cultural der perfekte Ort, um trocken Kunst zu genießen. Nachmittags führt ein Spaziergang unter dem Schirm zur Villa Beatriz, deren Gärten im Regen besonders grün leuchten. Der Abend endet in der weitläufigen Kirche Santa Rita, einem friedlichen Zufluchtsort vor dem nassen Wetter.",
             "hu": "Kezdje az esős reggelt az anyatemplomnál, ahol a kapualj védelmet nyújt. Délben a Kulturális Fórum ideális belső kiállítóhely a záporok elől. Délután egy ernyős séta várja a Villa Beatriz felé, melynek kertje ilyenkor is festői. Az estét a Santa Rita kegytemplom tágas és száraz belső terében zárhatja, élvezve a csendet és a nyugalmat.",
             "ro": "Începeți dimineața ploioasă la Biserica Matriz, unde pridvorul oferă adăpost. La prânz, Forumul Cultural este refugiul perfect pentru a explora expoziții la interior. După-amiaza, o plimbare cu umbrela spre Villa Beatriz dezvăluie grădini vibrante. Seara se încheie la Biserica Santa Rita, un spațiu vast și uscat, ideal pentru a reflecta în timp ce ploaia bate în geamuri.",
-            "en": "Start your rainy morning at the Mother Church, where the porch offers dry shelter. At noon, the Cultural Forum is the perfect indoor spot to enjoy art away from the showers. In the afternoon, an umbrella walk to Villa Beatriz reveals lush, rain-refreshed gardens. Your evening concludes at Santa Rita Church, a grand and dry sanctuary providing peace as the day ends."
+            "en": "Start your rainy morning at the Mother Church, where the porch offers dry shelter. At noon, the Cultural Forum is the perfect indoor spot to enjoy art away from the showers. In the afternoon, an umbrella walk to Villa Beatriz reveals lush, rain-refreshed gardens. Your evening concludes at Santa Rita Church, a grand and dry sanctuary providing peace as the day ends.",
+            "pt": "Comece a sua manhã chuvosa na Igreja Matriz, onde o alpendre oferece abrigo seco. Ao meio-dia, o Fórum Cultural é o local interior perfeito para desfrutar de arte longe das chuvas. À tarde, uma caminhada com guarda-chuva até à Villa Beatriz revela jardins viçosos e refrescados pela chuva. A sua noite termina na Igreja de Santa Rita, um santuário grandioso e seco que proporciona paz ao fim do dia."
           },
           "stops": [
             {
@@ -316,7 +335,8 @@
                 "de": "Bewundern Sie die Kacheln vom überdachten Eingang aus.",
                 "hu": "Csodálja meg a csempéket a fedett bejárat alól.",
                 "ro": "Admirați plăcile de ceramică de la intrarea adăpostită.",
-                "en": "Admire the azulejos from the sheltered entrance."
+                "en": "Admire the azulejos from the sheltered entrance.",
+                "pt": "Admire os azulejos desde a entrada abrigada."
               }
             },
             {
@@ -325,7 +345,8 @@
                 "de": "Kurzer Fotostopp; die Statue glänzt im Regen schön.",
                 "hu": "Gyors fotómegálló; a szobor szépen csillog az esőben.",
                 "ro": "Scurt popas foto; statuia strălucește frumos în ploaie.",
-                "en": "Quick photo stop; the statue shines beautifully in the rain."
+                "en": "Quick photo stop; the statue shines beautifully in the rain.",
+                "pt": "Paragem rápida para fotografia; a estátua brilha lindamente na chuva."
               }
             },
             {
@@ -334,7 +355,8 @@
                 "de": "Ideal zum Aufwärmen und für Indoor-Ausstellungen.",
                 "hu": "Ideális hely a melegedésre és beltéri kiállításokra.",
                 "ro": "Ideal pentru încălzire și expoziții de interior.",
-                "en": "Ideal place for warming up and indoor exhibitions."
+                "en": "Ideal place for warming up and indoor exhibitions.",
+                "pt": "Local ideal para aquecer e para exposições interiores."
               }
             },
             {
@@ -343,7 +365,8 @@
                 "de": "Die Bibliothek bietet eine gemütliche Leseecke bei Regen.",
                 "hu": "A könyvtár hangulatos olvasósarkot kínál esőben.",
                 "ro": "Biblioteca oferă un colț de lectură primitor pe ploaie.",
-                "en": "The library offers a cozy reading nook during rain."
+                "en": "The library offers a cozy reading nook during rain.",
+                "pt": "A biblioteca oferece um recanto de leitura acolhedor durante a chuva."
               }
             },
             {
@@ -352,7 +375,8 @@
                 "de": "Bleiben Sie auf den asphaltierten Wegen.",
                 "hu": "Maradjon a burkolt utakon a sár elkerülése végett.",
                 "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
-                "en": "Stick to paved paths to avoid mud."
+                "en": "Stick to paved paths to avoid mud.",
+                "pt": "Mantenha-se nas vias pavimentadas para evitar lama."
               }
             },
             {
@@ -361,7 +385,8 @@
                 "de": "Nutzen Sie den großen Innenraum zum Trocknen.",
                 "hu": "Használja a tágas belső teret a megszáradáshoz.",
                 "ro": "Folosiți interiorul spațios pentru a vă usca.",
-                "en": "Use the spacious interior to dry off."
+                "en": "Use the spacious interior to dry off.",
+                "pt": "Use o interior espaçoso para se secar."
               }
             }
           ],
@@ -389,6 +414,12 @@
               "Use the Cultural Forum for longer breaks during heavy rain.",
               "Cafes around the train station offer great shelter.",
               "A pocket umbrella is essential for Atlantic showers."
+            ],
+            "pt": [
+              "Use sapatos impermeáveis, pois os calcetões podem ser escorregadios.",
+              "Use o Fórum Cultural para pausas mais longas durante chuva forte.",
+              "Os cafés junto à estação de comboios oferecem bom abrigo.",
+              "Um guarda-chuva de bolso é essencial para as chuvas atlânticas."
             ]
           }
         },
@@ -397,7 +428,8 @@
             "de": "Ein klarer Wintermorgen beginnt frisch an der Igreja Matriz. Genießen Sie die milde Sonne auf dem Platz am Monument, bevor Sie sich im Fórum Cultural aufwärmen. Der Nachmittag im Park ist kurz, da die Sonne gegen 17:15 Uhr untergeht, was die Villa Beatriz in goldenes Licht taucht. Beenden Sie den Tag bei der hell erleuchteten Kirche Santa Rita unter dem Sternenhimmel.",
             "hu": "A tiszta téli reggel frissen indul az anyatemplomnál. Élvezze az enyhe napsütést a szobornál, mielőtt felmelegedne a Kulturális Fórumban. A délutáni parklátogatás rövid, mert a nap 17:15 körül nyugszik, arany fénybe vonva a Villa Beatriz épületét. Zárja a napot a kivilágított Santa Rita templomnál a csillagos égbolt alatt.",
             "ro": "O dimineață senină de iarnă începe proaspăt la Biserica Matriz. Bucurați-vă de soarele blând la monument înainte de a vă încălzi la Forumul Cultural. Vizita în parc este scurtă, soarele apunând în jur de 17:15, scăldând Villa Beatriz în lumină aurie. Încheiați ziua la biserica Santa Rita, luminată feeric sub cerul înstelat.",
-            "en": "A clear winter morning starts freshly at the Mother Church. Enjoy the mild sun at the monument before warming up inside the Cultural Forum. The afternoon park visit is short as the sun sets around 17:15, bathing Villa Beatriz in golden hues. End your day at the brightly lit Santa Rita Church under the starry winter sky."
+            "en": "A clear winter morning starts freshly at the Mother Church. Enjoy the mild sun at the monument before warming up inside the Cultural Forum. The afternoon park visit is short as the sun sets around 17:15, bathing Villa Beatriz in golden hues. End your day at the brightly lit Santa Rita Church under the starry winter sky.",
+            "pt": "Uma manhã de inverno clara começa frescamente na Igreja Matriz. Desfrute do sol ameno no monumento antes de aquecer no interior do Fórum Cultural. A visita ao parque à tarde é curta, pois o sol põe-se por volta das 17:15, banhando a Villa Beatriz em tons dourados. Termine o dia na iluminada Igreja de Santa Rita sob o céu estrelado de inverno."
           },
           "stops": [
             {
@@ -406,7 +438,8 @@
                 "de": "Morgensonne beleuchtet die Fassade ideal.",
                 "hu": "A reggeli napfény ideálisan világítja meg a homlokzatot.",
                 "ro": "Soarele de dimineață luminează ideal fațada.",
-                "en": "Morning sun illuminates the facade ideally."
+                "en": "Morning sun illuminates the facade ideally.",
+                "pt": "O sol da manhã ilumina idealmente a fachada."
               }
             },
             {
@@ -415,7 +448,8 @@
                 "de": "Kühler Platz, ideal für einen kurzen Halt.",
                 "hu": "Hűvös tér, ideális egy rövid megállóra.",
                 "ro": "Piață răcoroasă, ideală pentru o oprire scurtă.",
-                "en": "Cool square, ideal for a short stop."
+                "en": "Cool square, ideal for a short stop.",
+                "pt": "Praça fresca, ideal para uma curta paragem."
               }
             },
             {
@@ -424,7 +458,8 @@
                 "de": "Hervorragende Heizung im Ausstellungsbereich.",
                 "hu": "Kiváló fűtés a kiállítótérben.",
                 "ro": "Încălzire excelentă în zona de expoziție.",
-                "en": "Excellent heating in the exhibition area."
+                "en": "Excellent heating in the exhibition area.",
+                "pt": "Excelente aquecimento na área de exposições."
               }
             },
             {
@@ -433,7 +468,8 @@
                 "de": "Besuchen Sie den Garten vor dem frühen Sonnenuntergang.",
                 "hu": "Látogassa meg a kertet a korai naplemente előtt.",
                 "ro": "Vizitați grădina înainte de apusul timpuriu.",
-                "en": "Visit the garden before the early sunset."
+                "en": "Visit the garden before the early sunset.",
+                "pt": "Visite o jardim antes do pôr-do-sol precoce."
               }
             },
             {
@@ -442,7 +478,8 @@
                 "de": "Ein zügiger Spaziergang hält Sie warm.",
                 "hu": "Egy tempós séta segít melegen maradni.",
                 "ro": "O plimbare vioaie vă va menține cald.",
-                "en": "A brisk walk will keep you warm."
+                "en": "A brisk walk will keep you warm.",
+                "pt": "Uma caminhada rápida ajudará a aquecer."
               }
             },
             {
@@ -451,7 +488,8 @@
                 "de": "Die Abendbeleuchtung ist im Winter besonders schön.",
                 "hu": "Az esti kivilágítás télen különösen szép.",
                 "ro": "Iluminatul de seară este superb iarna.",
-                "en": "The evening lighting is especially beautiful in winter."
+                "en": "The evening lighting is especially beautiful in winter.",
+                "pt": "A iluminação noturna é especialmente bonita no inverno."
               }
             }
           ],
@@ -479,6 +517,12 @@
               "Sunset is around 17:15, plan outdoor stops early.",
               "Try warm chestnuts if street vendors are present.",
               "High humidity makes it feel cooler than it actually is."
+            ],
+            "pt": [
+              "Vista-se em camadas; as manhãs costumam ser nebulosas.",
+              "O pôr do sol é por volta das 17:15, planeie as paragens ao ar livre mais cedo.",
+              "Experimente castanhas quentes se houver vendedores ambulantes.",
+              "A alta humidade faz com que pareça mais frio do que realmente é."
             ]
           }
         }
@@ -497,7 +541,8 @@
             "de": "Stadtpark von Ermesinde",
             "hu": "Ermesinde városi park",
             "ro": "Parcul Urban din Ermesinde",
-            "en": "Ermesinde Urban Park"
+            "en": "Ermesinde Urban Park",
+            "pt": "Parque Urbano de Ermesinde"
           },
           "coords": [
             -8.556,
@@ -512,7 +557,8 @@
             "de": "Beginnen Sie Ihren Tag mit einer Runde auf den Radwegen des Parks.",
             "hu": "Kezdje a napot egy körrel a park bicikliútjain.",
             "ro": "Începeți ziua cu o tură pe pistele de biciclete ale parcului.",
-            "en": "Start your day with a loop on the park's cycle paths."
+            "en": "Start your day with a loop on the park's cycle paths.",
+            "pt": "Comece o dia com um circuito pelos caminhos cicláveis do parque."
           }
         },
         {
@@ -520,7 +566,8 @@
             "de": "Kirche Santa Rita",
             "hu": "Santa Rita-templom",
             "ro": "Biserica Sfânta Rita",
-            "en": "Church of Santa Rita"
+            "en": "Church of Santa Rita",
+            "pt": "Igreja de Santa Rita"
           },
           "coords": [
             -8.558,
@@ -535,7 +582,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und bewundern Sie das moderne Design.",
             "hu": "Zárd le a biciklidet és csodáld meg a modern dizájnt.",
             "ro": "Legați-vă bicicleta și admirați designul modern.",
-            "en": "Lock up your bike and admire the modern design."
+            "en": "Lock up your bike and admire the modern design.",
+            "pt": "Tranque a bicicleta e admire o design moderno."
           }
         },
         {
@@ -543,7 +591,8 @@
             "de": "Villa Beatriz",
             "hu": "Villa Beatriz",
             "ro": "Villa Beatriz",
-            "en": "Villa Beatriz"
+            "en": "Villa Beatriz",
+            "pt": "Casa Senhorial Villa Beatriz"
           },
           "coords": [
             -8.549,
@@ -558,7 +607,8 @@
             "de": "Fahren Sie an diesem historischen Herrenhaus vorbei, um einen Blick darauf zu erhaschen.",
             "hu": "Tekerj el e történelmi kúria mellett, hogy egy pillantást vess rá.",
             "ro": "Treceți cu bicicleta pe lângă acest conac istoric pentru a-l admira.",
-            "en": "Cycle past this historic mansion for a glimpse."
+            "en": "Cycle past this historic mansion for a glimpse.",
+            "pt": "Passe de bicicleta por esta mansão histórica para espreitar."
           }
         },
         {
@@ -566,7 +616,8 @@
             "de": "Kirche von Ermesinde (Igreja Matriz)",
             "hu": "Ermesinde-i főtemplom",
             "ro": "Biserica Matriz din Ermesinde",
-            "en": "Ermesinde Mother Church (Igreja Matriz)"
+            "en": "Ermesinde Mother Church (Igreja Matriz)",
+            "pt": "Igreja Matriz de Ermesinde (Ermesinde Mother Church)"
           },
           "coords": [
             -8.5505,
@@ -581,7 +632,8 @@
             "de": "Das spirituelle Zentrum der Stadt, ideal für eine kurze Pause.",
             "hu": "A város spirituális központja, ideális egy rövid pihenőre.",
             "ro": "Centrul spiritual al orașului, perfect pentru o pauză scurtă.",
-            "en": "The spiritual center of the town, perfect for a short break."
+            "en": "The spiritual center of the town, perfect for a short break.",
+            "pt": "O centro espiritual da vila, perfeito para uma pausa curta."
           }
         },
         {
@@ -589,7 +641,8 @@
             "de": "Kulturforum von Ermesinde",
             "hu": "Ermesinde-i Kulturális Fórum",
             "ro": "Forumul Cultural din Ermesinde",
-            "en": "Cultural Forum of Ermesinde"
+            "en": "Cultural Forum of Ermesinde",
+            "pt": "Fórum Cultural de Ermesinde"
           },
           "coords": [
             -8.5535,
@@ -604,7 +657,8 @@
             "de": "Möglicherweise gibt es eine Kunstausstellung, die Sie während der Mittagszeit besuchen können.",
             "hu": "Lehet, hogy van egy művészeti kiállítás, amit ebédidőben megnézhetsz.",
             "ro": "S-ar putea să fie o expoziție de artă pe care o puteți vizita în timpul prânzului.",
-            "en": "There might be an art exhibition to visit during lunch time."
+            "en": "There might be an art exhibition to visit during lunch time.",
+            "pt": "Pode haver uma exposição de arte para visitar durante a hora de almoço."
           }
         },
         {
@@ -612,7 +666,8 @@
             "de": "Bahnhof Ermesinde",
             "hu": "Ermesinde vasútállomás",
             "ro": "Gara Ermesinde",
-            "en": "Ermesinde Train Station"
+            "en": "Ermesinde Train Station",
+            "pt": "Estação de Comboios de Ermesinde"
           },
           "coords": [
             -8.545,
@@ -627,7 +682,8 @@
             "de": "Ein wichtiges Eisenbahnkreuz, das die Geschichte der Stadt geprägt hat.",
             "hu": "Fontos vasúti csomópont, amely formálta a város történelmét.",
             "ro": "Un nod feroviar important care a modelat istoria orașului.",
-            "en": "An important railway hub that has shaped the city's history."
+            "en": "An important railway hub that has shaped the city's history.",
+            "pt": "Um importante eixo ferroviário que moldou a história da cidade."
           }
         },
         {
@@ -635,7 +691,8 @@
             "de": "Kapelle von São Silvestre",
             "hu": "São Silvestre-kápolna",
             "ro": "Capela São Silvestre",
-            "en": "Chapel of São Silvestre"
+            "en": "Chapel of São Silvestre",
+            "pt": "Capela de São Silvestre"
           },
           "coords": [
             -8.54,
@@ -650,7 +707,8 @@
             "de": "Eine kleine, charmante Kapelle, die eine ruhigere Radtour wert ist.",
             "hu": "Egy kicsi, bájos kápolna, ami megér egy csendesebb biciklitúrát.",
             "ro": "O capelă mică și fermecătoare, care merită o plimbare mai liniștită cu bicicleta.",
-            "en": "A small, charming chapel worth a quieter bike ride."
+            "en": "A small, charming chapel worth a quieter bike ride.",
+            "pt": "Uma pequena e encantadora capela que vale uma volta de bicicleta mais tranquila."
           }
         }
       ],
@@ -658,7 +716,8 @@
         "de": "Starten Sie Ihre Radtour im grünen Stadtpark von Ermesinde. Fahren Sie nach Süden, um die Mischung aus moderner und historischer Architektur in der Kirche Santa Rita und der Villa Beatriz zu bewundern. Machen Sie eine Mittagspause im Stadtzentrum in der Nähe der Hauptkirche und des Kulturforums. Am Nachmittag radeln Sie nach Osten zum historischen Bahnhof, einem Zeugnis des industriellen Erbes der Stadt, und schließen Sie mit einem Besuch der ruhigen Kapelle von São Silvestre ab.",
         "hu": "Kezdje a biciklitúrát Ermesinde zöldellő városi parkjában. Tekerjen dél felé, hogy megcsodálja a modern és történelmi építészet keverékét a Santa Rita-templomnál és a Villa Beatriznál. Tartson egy ebédszünetet a városközpontban, a főtemplom és a kulturális fórum közelében. Délután tekerjen keletre a történelmi vasútállomáshoz, a város ipari örökségének tanújához, majd zárja a napot a békés São Silvestre-kápolna meglátogatásával.",
         "ro": "Începeți turul cu bicicleta în verdele Parc Urban din Ermesinde. Pedalați spre sud pentru a admira amestecul de arhitectură modernă și istorică de la Biserica Santa Rita și Villa Beatriz. Luați o pauză de prânz în centrul orașului, lângă Biserica Matriz și Forumul Cultural. După-amiaza, pedalați spre est către gara istorică, o mărturie a patrimoniului industrial al orașului, și încheiați cu o vizită la liniștita Capelă São Silvestre.",
-        "en": "Kick off your bike tour in the green expanse of Ermesinde's Urban Park. Cycle south to admire the mix of modern and historic architecture at the Church of Santa Rita and Villa Beatriz. Take a lunch break in the city center near the main church and cultural forum. In the afternoon, pedal east to the historic train station, a testament to the city's industrial heritage, and conclude with a visit to the peaceful Chapel of São Silvestre."
+        "en": "Kick off your bike tour in the green expanse of Ermesinde's Urban Park. Cycle south to admire the mix of modern and historic architecture at the Church of Santa Rita and Villa Beatriz. Take a lunch break in the city center near the main church and cultural forum. In the afternoon, pedal east to the historic train station, a testament to the city's industrial heritage, and conclude with a visit to the peaceful Chapel of São Silvestre.",
+        "pt": "Comece o seu passeio de bicicleta na ampla área verde do Parque Urbano de Ermesinde. Pedale para sul para admirar a mistura de arquitetura moderna e histórica na Igreja de Santa Rita e na Villa Beatriz. Faça uma pausa para almoço no centro da cidade, junto à igreja matriz e ao fórum cultural. À tarde, pedale para leste até à histórica estação de comboios, testemunho do património industrial da cidade, e conclua com uma visita à pacata Capela de São Silvestre."
       },
       "gastro_picks": {
         "de": [
@@ -798,6 +857,11 @@
           "Check your tire pressure before heading out.",
           "Some streets can be narrow, so be cautious of traffic.",
           "Carry a bottle of water, especially on warm days."
+        ],
+        "pt": [
+          "Verifique a pressão dos pneus antes de partir.",
+          "Algumas ruas podem ser estreitas, por isso tenha cuidado com o trânsito.",
+          "Leve uma garrafa de água, especialmente em dias quentes."
         ]
       },
       "variants": {
@@ -806,7 +870,8 @@
             "de": "Trotz Regen bietet die Radtour durch Ermesinde ihren Reiz, beginnend im frischen Urban Park. Schützen Sie sich mittags in der Villa Beatriz oder der Igreja Matriz vor Güssen. Das Fórum Cultural bietet eine lange Pause im Trockenen. Der Tag endet am Bahnhof, wo Sie bequem unterdacht Ihr Rad sichern und die Heimreise planen können.",
             "hu": "Az eső ellenére a kerékpározás frissítő a Városi Parkban kezdve. Délben keressen menedéket a Villa Beatriznél vagy az anyatemplomnál. A Kulturális Fórum hosszú, száraz pihenőt kínál a kiállításokkal. A nap a vasútállomáson ér véget, ahol fedett helyen rögzítheti a biciklit és tervezheti a visszautat.",
             "ro": "În ciuda ploii, turul cu bicicleta prin Ermesinde are farmecul său, începând în Parcul Urban. La prânz, adăpostiți-vă de averse la Villa Beatriz sau la Biserica Matriz. Forumul Cultural oferă o pauză lungă și uscată. Ziua se termină la gară, unde puteți parca bicicleta la adăpost și planifica întoarcerea.",
-            "en": "Despite the rain, cycling through Ermesinde is refreshing, starting in the Urban Park. At noon, seek shelter from downpours at Villa Beatriz or the Mother Church. The Cultural Forum offers a long, dry break with exhibitions. The day ends at the train station, where you can shelter your bike and plan your journey home."
+            "en": "Despite the rain, cycling through Ermesinde is refreshing, starting in the Urban Park. At noon, seek shelter from downpours at Villa Beatriz or the Mother Church. The Cultural Forum offers a long, dry break with exhibitions. The day ends at the train station, where you can shelter your bike and plan your journey home.",
+            "pt": "Apesar da chuva, pedalar por Ermesinde é revigorante, começando no Parque Urbano. Ao meio‑dia, procure abrigo das chuvadas na Villa Beatriz ou na Igreja Matriz. O Fórum Cultural oferece uma longa pausa seca com exposições. O dia termina na estação, onde pode proteger a bicicleta e planear a viagem de regresso."
           },
           "stops": [
             {
@@ -815,7 +880,8 @@
                 "de": "Vorsicht vor rutschigem Laub auf den Wegen.",
                 "hu": "Vigyázat, a vizes levelek csúszóssá teszik az utat.",
                 "ro": "Atenție la frunzele umede care pot fi alunecoase.",
-                "en": "Watch out for slippery wet leaves on the paths."
+                "en": "Watch out for slippery wet leaves on the paths.",
+                "pt": "Cuidado com folhas molhadas escorregadias nos caminhos."
               }
             },
             {
@@ -824,7 +890,8 @@
                 "de": "Stellen Sie Ihr Rad unter den Vordächern ab.",
                 "hu": "Parkolja le a biciklit az előtetők alatt.",
                 "ro": "Parcați bicicleta sub streșini.",
-                "en": "Park your bike under the overhangs."
+                "en": "Park your bike under the overhangs.",
+                "pt": "Estacione a bicicleta sob os alpendres."
               }
             },
             {
@@ -833,7 +900,8 @@
                 "de": "Gepflasterte Wege können bei Nässe glatt sein.",
                 "hu": "A köves utak nedvesen nagyon csúszhatnak.",
                 "ro": "Drumurile pavate pot fi foarte alunecoase la umezeală.",
-                "en": "Paved paths can be very slippery when wet."
+                "en": "Paved paths can be very slippery when wet.",
+                "pt": "Os caminhos pavimentados podem ficar muito escorregadios quando molhados."
               }
             },
             {
@@ -842,7 +910,8 @@
                 "de": "Kurze Rast im trockenen Kircheneingang.",
                 "hu": "Rövid pihenő a templom száraz bejáratánál.",
                 "ro": "Scurt popas în intrarea uscată a bisericii.",
-                "en": "Short rest in the dry church entrance."
+                "en": "Short rest in the dry church entrance.",
+                "pt": "Breve descanso na entrada seca da igreja."
               }
             },
             {
@@ -851,7 +920,8 @@
                 "de": "Sicherer, trockener Ort für eine Pause.",
                 "hu": "Biztonságos, száraz hely egy nagyobb pihenőhöz.",
                 "ro": "Loc sigur și uscat pentru o pauză mare.",
-                "en": "Safe, dry place for a significant break."
+                "en": "Safe, dry place for a significant break.",
+                "pt": "Local seguro e seco para uma pausa mais longa."
               }
             },
             {
@@ -860,7 +930,8 @@
                 "de": "Nutzen Sie die überdachten Bahnsteige.",
                 "hu": "Használja a fedett peronokat várakozáshoz.",
                 "ro": "Folosiți peroanele acoperite pentru așteptare.",
-                "en": "Use the covered platforms for waiting."
+                "en": "Use the covered platforms for waiting.",
+                "pt": "Use as plataformas cobertas para aguardar."
               }
             },
             {
@@ -869,7 +940,8 @@
                 "de": "Exponierte Lage; Windschutz an der Kapelle suchen.",
                 "hu": "Nyitott terület; keressen szélvédett helyet a kápolnánál.",
                 "ro": "Zonă expusă; căutați adăpost contra vântului lângă capelă.",
-                "en": "Exposed area; seek wind shelter near the chapel."
+                "en": "Exposed area; seek wind shelter near the chapel.",
+                "pt": "Zona exposta; procure abrigo do vento perto da capela."
               }
             }
           ],
@@ -897,6 +969,12 @@
               "Brake early on wet cobblestones.",
               "Avoid puddles as they might be deeper than expected.",
               "Waterproof clothing is mandatory for this tour."
+            ],
+            "pt": [
+              "Use guarda‑lamas para evitar salpicos de água.",
+              "Travão mais cedo em calçada molhada.",
+              "Evite poças porque podem ser mais profundas do que parecem.",
+              "Roupa impermeável é obrigatória para este passeio."
             ]
           }
         },
@@ -905,7 +983,8 @@
             "de": "Frische Winterluft begleitet Sie vom Urban Park zur Santa Rita Kirche. Die Sonne steht tief und beleuchtet die Villa Beatriz herrlich. Mittags wärmen Sie sich am besten im Fórum Cultural auf. Da es früh dunkel wird, sollten Sie die Kapelle São Silvestre rechtzeitig erreichen, um den Sonnenuntergang über der Stadt zu bewundern, bevor die Kälte anzieht.",
             "hu": "Friss téli levegő kíséri a Városi Parktól a Santa Rita templomig. Az alacsonyan járó nap gyönyörűen világítja meg a Villa Beatriz-t. Délben érdemes felmelegedni a Kulturális Fórumban. Mivel korán sötétedik, a São Silvestre kápolnát időben érje el, hogy lássa a naplementét a város felett, mielőtt beáll a hideg.",
             "ro": "Aerul proaspăt de iarnă vă însoțește de la Parcul Urban la biserica Santa Rita. Soarele jos luminează superb Villa Beatriz. La prânz, cel mai bine este să vă încălziți la Forumul Cultural. Deoarece se întunecă devreme, ajungeți la capela São Silvestre la timp pentru apusul peste oraș, înainte de venirea frigului.",
-            "en": "Fresh winter air accompanies you from the Urban Park to Santa Rita Church. The low sun beautifully illuminates Villa Beatriz. At noon, it's best to warm up in the Cultural Forum. Since it gets dark early, reach São Silvestre Chapel in time to witness the sunset over the city before the cold sets in."
+            "en": "Fresh winter air accompanies you from the Urban Park to Santa Rita Church. The low sun beautifully illuminates Villa Beatriz. At noon, it's best to warm up in the Cultural Forum. Since it gets dark early, reach São Silvestre Chapel in time to witness the sunset over the city before the cold sets in.",
+            "pt": "O ar fresco de inverno acompanha‑o desde o Parque Urbano até à Igreja de Santa Rita. O sol baixo ilumina a Villa Beatriz de forma bonita. Ao meio‑dia, é melhor aquecer no Fórum Cultural. Como anoitece cedo, chegue à Capela de São Silvestre a tempo de observar o pôr do sol sobre a cidade antes que o frio se instale."
           },
           "stops": [
             {
@@ -914,7 +993,8 @@
                 "de": "Morgens kann Raureif auf den Holzwegen liegen.",
                 "hu": "Reggelente zúzmara lehet a fa utakon.",
                 "ro": "Dimineața poate fi brumă pe punțile de lemn.",
-                "en": "Mornings can bring frost to wooden walkways."
+                "en": "Mornings can bring frost to wooden walkways.",
+                "pt": "As manhãs podem trazer geada às passadiças de madeira."
               }
             },
             {
@@ -923,7 +1003,8 @@
                 "de": "Kurzer Stopp zum Aufwärmen im Inneren.",
                 "hu": "Rövid megálló melegedni a belső térben.",
                 "ro": "Scurt popas pentru încălzire în interior.",
-                "en": "Short stop to warm up inside."
+                "en": "Short stop to warm up inside.",
+                "pt": "Paragem curta para aquecer no interior."
               }
             },
             {
@@ -932,7 +1013,8 @@
                 "de": "Das Licht am frühen Nachmittag ist perfekt für Fotos.",
                 "hu": "A kora délutáni fény tökéletes fotózáshoz.",
                 "ro": "Lumina de după-amiază devreme este perfectă pentru poze.",
-                "en": "Early afternoon light is perfect for photos."
+                "en": "Early afternoon light is perfect for photos.",
+                "pt": "A luz do princípio da tarde é perfeita para fotografias."
               }
             },
             {
@@ -941,7 +1023,8 @@
                 "de": "Das Viertel wirkt im Winterlicht sehr malerisch.",
                 "hu": "A negyed nagyon festői a téli fényben.",
                 "ro": "Cartierul pare foarte pitoresc în lumina iernii.",
-                "en": "The neighborhood looks very picturesque in winter light."
+                "en": "The neighborhood looks very picturesque in winter light.",
+                "pt": "O bairro fica muito pitoresco com a luz de inverno."
               }
             },
             {
@@ -950,7 +1033,8 @@
                 "de": "Verbringen Sie hier die kühlste Zeit des Tages.",
                 "hu": "Töltse itt a nap leghidegebb óráit.",
                 "ro": "Petreceți aici cele mai reci ore ale zilei.",
-                "en": "Spend the coolest hours of the day here."
+                "en": "Spend the coolest hours of the day here.",
+                "pt": "Passe aqui as horas mais frias do dia."
               }
             },
             {
@@ -959,7 +1043,8 @@
                 "de": "Warme Getränke im Bahnhofscafé erhältlich.",
                 "hu": "Meleg italok kaphatók az állomási kávézóban.",
                 "ro": "Băuturi calde disponibile la cafeneaua gării.",
-                "en": "Warm drinks available at the station cafe."
+                "en": "Warm drinks available at the station cafe.",
+                "pt": "Bebidas quentes disponíveis no café da estação."
               }
             },
             {
@@ -968,7 +1053,8 @@
                 "de": "Bester Spot für den Winter-Sonnenuntergang.",
                 "hu": "Legjobb hely a téli naplemente megtekintésére.",
                 "ro": "Cel mai bun punct pentru apusul de iarnă.",
-                "en": "Best spot for the winter sunset."
+                "en": "Best spot for the winter sunset.",
+                "pt": "Melhor local para o pôr do sol de inverno."
               }
             }
           ],
@@ -996,6 +1082,12 @@
               "Ensure your bike lights are working properly.",
               "The wind in higher areas can be very cold.",
               "Plan to finish your tour before 17:30."
+            ],
+            "pt": [
+              "Luvas quentes são essenciais para o passeio.",
+              "Certifique‑se de que as luzes da bicicleta funcionam corretamente.",
+              "O vento nas zonas mais altas pode ser muito frio.",
+              "Planeie terminar o seu passeio antes das 17:30."
             ]
           }
         }
@@ -1014,7 +1106,8 @@
             "de": "Cluster: Park & Kirche Santa Rita",
             "hu": "Klaszter: Park és Santa Rita-templom",
             "ro": "Cluster: Parc & Biserica Sfânta Rita",
-            "en": "Cluster: Park & Santa Rita Church"
+            "en": "Cluster: Park & Santa Rita Church",
+            "pt": "Cluster: Parque & Igreja de Santa Rita"
           },
           "coords": [
             -8.556,
@@ -1029,7 +1122,8 @@
             "de": "Parken Sie hier. Beginnen Sie mit einem Spaziergang im Park.",
             "hu": "Parkolj itt. Kezdd egy sétával a parkban.",
             "ro": "Parcați aici. Începeți cu o plimbare în parc.",
-            "en": "Park here. Start with a walk in the park."
+            "en": "Park here. Start with a walk in the park.",
+            "pt": "Estacione aqui. Comece com um passeio pelo parque."
           }
         },
         {
@@ -1037,7 +1131,8 @@
             "de": "Kirche Santa Rita",
             "hu": "Santa Rita-templom",
             "ro": "Biserica Sfânta Rita",
-            "en": "Church of Santa Rita"
+            "en": "Church of Santa Rita",
+            "pt": "Igreja de Santa Rita"
           },
           "coords": [
             -8.558,
@@ -1052,7 +1147,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz entfernt.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "O scurtă plimbare de la parcare.",
-            "en": "A short walk from your parking spot."
+            "en": "A short walk from your parking spot.",
+            "pt": "A uma curta caminhada do seu lugar de estacionamento."
           }
         },
         {
@@ -1060,7 +1156,8 @@
             "de": "Cluster: Stadtzentrum",
             "hu": "Klaszter: Városközpont",
             "ro": "Cluster: Centrul Orașului",
-            "en": "Cluster: City Center"
+            "en": "Cluster: City Center",
+            "pt": "Cluster: Centro da Cidade"
           },
           "coords": [
             -8.5505,
@@ -1075,7 +1172,8 @@
             "de": "Fahren und parken Sie in der Nähe der Igreja Matriz.",
             "hu": "Vezess és parkolj az Igreja Matriz közelében.",
             "ro": "Conduceți și parcați lângă Biserica Matriz.",
-            "en": "Drive and park near the Igreja Matriz."
+            "en": "Drive and park near the Igreja Matriz.",
+            "pt": "Conduza e estacione perto da Igreja Matriz."
           }
         },
         {
@@ -1083,7 +1181,8 @@
             "de": "Denkmal für die Frau von Ermesinde",
             "hu": "Ermesinde-i Nő Emlékműve",
             "ro": "Monumentul Femeii din Ermesinde",
-            "en": "Monument to the Woman of Ermesinde"
+            "en": "Monument to the Woman of Ermesinde",
+            "pt": "Monumento à Mulher de Ermesinde"
           },
           "coords": [
             -8.552,
@@ -1098,7 +1197,8 @@
             "de": "Zu Fuß von der Hauptkirche erreichbar.",
             "hu": "Gyalogosan elérhető a főtemplomtól.",
             "ro": "La mică distanță de mers pe jos de la biserica principală.",
-            "en": "A short walk from the main church."
+            "en": "A short walk from the main church.",
+            "pt": "A uma curta caminhada da igreja principal."
           }
         },
         {
@@ -1106,7 +1206,8 @@
             "de": "Cluster: Bahnhof & Erbe",
             "hu": "Klaszter: Állomás és Örökség",
             "ro": "Cluster: Gară și Patrimoniu",
-            "en": "Cluster: Station & Heritage"
+            "en": "Cluster: Station & Heritage",
+            "pt": "Cluster: Estação & Património"
           },
           "coords": [
             -8.545,
@@ -1121,7 +1222,8 @@
             "de": "Fahren Sie zum Bahnhofsviertel, Mittagessen in der Nähe.",
             "hu": "Vezess az állomás környékére, ebéd a közelben.",
             "ro": "Conduceți spre zona gării, luați prânzul în apropiere.",
-            "en": "Drive to the station district, have lunch nearby."
+            "en": "Drive to the station district, have lunch nearby.",
+            "pt": "Conduza até ao bairro da estação e almoce nas imediações."
           }
         },
         {
@@ -1129,7 +1231,8 @@
             "de": "Kapelle von São Silvestre",
             "hu": "São Silvestre-kápolna",
             "ro": "Capela São Silvestre",
-            "en": "Chapel of São Silvestre"
+            "en": "Chapel of São Silvestre",
+            "pt": "Capela de São Silvestre"
           },
           "coords": [
             -8.54,
@@ -1144,7 +1247,8 @@
             "de": "Ein kurzer Spaziergang vom Bahnhofsviertel.",
             "hu": "Rövid séta az állomás környékéről.",
             "ro": "O plimbare scurtă din zona gării.",
-            "en": "A short stroll from the station area."
+            "en": "A short stroll from the station area.",
+            "pt": "A uma curta caminhada da zona da estação."
           }
         }
       ],
@@ -1152,7 +1256,8 @@
         "de": "Beginnen Sie Ihren Tag im nördlichen Teil der Stadt. Parken Sie in der Nähe des Stadtparks und erkunden Sie die grüne Umgebung und die moderne Kirche Santa Rita zu Fuß. Fahren Sie mittags ins Stadtzentrum, parken Sie erneut und besuchen Sie die historische Hauptkirche und das nahegelegene Denkmal. Nach dem Mittagessen fahren Sie zum Bahnhofsviertel, wo Sie das industrielle Erbe der Stadt und die charmante Kapelle São Silvestre entdecken können.",
         "hu": "Kezdje a napot a város északi részén. Parkoljon a városi park közelében, és fedezze fel gyalog a zöldövezetet és a modern Santa Rita templomot. Délben vezessen a városközpontba, parkoljon újra, és látogasson el a történelmi főtemplomhoz és a közeli emlékműhöz. Ebéd után irány a vasútállomás negyede, ahol felfedezheti a város ipari örökségét és a bájos São Silvestre kápolnát.",
         "ro": "Începeți ziua în partea de nord a orașului. Parcați lângă Parcul Urban și explorați zona verde și biserica modernă Santa Rita pe jos. La amiază, conduceți spre centrul orașului, parcați din nou și vizitați biserica istorică și monumentul din apropiere. După prânz, conduceți spre cartierul gării pentru a descoperi patrimoniul industrial al orașului și fermecătoarea Capelă São Silvestre.",
-        "en": "Start your day in the northern part of the city. Park near the Urban Park and explore the green area and the modern Santa Rita Church on foot. At midday, drive to the city center, park again, and visit the historic main church and the nearby monument. After lunch, take a drive to the station district to discover the city's industrial heritage and the charming São Silvestre Chapel."
+        "en": "Start your day in the northern part of the city. Park near the Urban Park and explore the green area and the modern Santa Rita Church on foot. At midday, drive to the city center, park again, and visit the historic main church and the nearby monument. After lunch, take a drive to the station district to discover the city's industrial heritage and the charming São Silvestre Chapel.",
+        "pt": "Comece o dia na parte norte da cidade. Estacione perto do Parque Urbano e explore a área verde e a moderna Igreja de Santa Rita a pé. Ao meio‑dia, conduza até ao centro da cidade, estacione novamente e visite a histórica igreja matriz e o monumento próximo. Depois do almoço, vá de carro até ao bairro da estação para descobrir o património industrial da cidade e a encantadora Capela de São Silvestre."
       },
       "gastro_picks": {
         "de": [
@@ -1256,6 +1361,11 @@
           "Parking can be a challenge in the city center, be patient.",
           "Use a GPS app to navigate the often narrow, one-way streets.",
           "Do not leave valuables visible in the car."
+        ],
+        "pt": [
+          "Estacionar pode ser um desafio no centro da cidade; seja paciente.",
+          "Use uma app de GPS para navegar pelas ruas frequentemente estreitas e de sentido único.",
+          "Não deixe bens de valor visíveis no carro."
         ]
       },
       "variants": {
@@ -1264,7 +1374,8 @@
             "de": "Genießen Sie Ermesinde gemütlich vom Auto aus, beginnend bei der Santa Rita Kirche mit nahem Parkplatz. Mittags führt die Fahrt zum Stadtzentrum, wo Sie schnell ins Trockene huschen können. Besuchen Sie das industrielle Erbe am Bahnhof und die Kapelle São Silvestre, während die Scheibenwischer den Rhythmus zum Regen trommeln. Ein entspannter Tag trotz grauem Himmel.",
             "hu": "Fedezze fel Ermesinde-t kényelmesen az autóból, a Santa Rita templomnál kezdve, ahol közeli parkolót talál. Délben az út a városközpontba vezet, ahol gyorsan fedett helyre érhet. Látogassa meg az ipari örökséget az állomásnál és a São Silvestre kápolnát, miközben az ablaktörlők adják az eső ritmusát. Pihentető nap a szürke ég alatt is.",
             "ro": "Bucurați-vă de Ermesinde confortabil din mașină, începând la Biserica Santa Rita cu parcare în apropiere. La prânz, drumul duce spre centrul orașului, unde puteți ajunge rapid la adăpost. Vizitați moștenirea industrială de la gară și capela São Silvestre în timp ce ștergătoarele bat ritmul ploii. O zi relaxantă sub cerul gri.",
-            "en": "Enjoy Ermesinde comfortably from your car, starting at Santa Rita Church with nearby parking. At noon, drive to the city center where you can quickly hop into dry spots. Visit the industrial heritage by the station and São Silvestre Chapel while the wipers beat the rhythm of the rain. A relaxed day despite the gray skies."
+            "en": "Enjoy Ermesinde comfortably from your car, starting at Santa Rita Church with nearby parking. At noon, drive to the city center where you can quickly hop into dry spots. Visit the industrial heritage by the station and São Silvestre Chapel while the wipers beat the rhythm of the rain. A relaxed day despite the gray skies.",
+            "pt": "Desfrute de Ermesinde confortavelmente a partir do seu carro, começando na Igreja de Santa Rita com estacionamento próximo. Ao meio‑dia, dirija‑se ao centro da cidade onde pode rapidamente entrar em locais secos. Visite o património industrial junto à estação e a Capela de São Silvestre enquanto os limpa‑parabrisas marcam o ritmo da chuva. Um dia descontraído apesar do céu cinzento."
           },
           "stops": [
             {
@@ -1273,7 +1384,8 @@
                 "de": "Parken Sie direkt am Kircheneingang.",
                 "hu": "Parkoljon közvetlenül a templom bejáratánál.",
                 "ro": "Parcați chiar lângă intrarea bisericii.",
-                "en": "Park right by the church entrance."
+                "en": "Park right by the church entrance.",
+                "pt": "Estacione mesmo em frente à entrada da igreja."
               }
             },
             {
@@ -1282,7 +1394,8 @@
                 "de": "Perfekt für einen schnellen, trockenen Besuch.",
                 "hu": "Tökéletes egy gyors, száraz látogatáshoz.",
                 "ro": "Perfect pentru o vizită rapidă și uscată.",
-                "en": "Perfect for a quick, dry visit."
+                "en": "Perfect for a quick, dry visit.",
+                "pt": "Perfeito para uma visita rápida e seca."
               }
             },
             {
@@ -1291,7 +1404,8 @@
                 "de": "Nutzen Sie das Parkhaus für längeres Verweilen.",
                 "hu": "Használja a parkolóházat a hosszabb tartózkodáshoz.",
                 "ro": "Folosiți parcarea etajată pentru vizite lungi.",
-                "en": "Use the parking garage for longer stays."
+                "en": "Use the parking garage for longer stays.",
+                "pt": "Use o parque de estacionamento coberto para estadias mais longas."
               }
             },
             {
@@ -1300,7 +1414,8 @@
                 "de": "Kurzer Halt; Sichtung direkt aus dem Auto möglich.",
                 "hu": "Rövid megálló; a szobor az autóból is látható.",
                 "ro": "Oprire scurtă; statuia se vede direct din mașină.",
-                "en": "Short stop; viewing possible directly from the car."
+                "en": "Short stop; viewing possible directly from the car.",
+                "pt": "Paragem curta; é possível ver diretamente do carro."
               }
             },
             {
@@ -1309,7 +1424,8 @@
                 "de": "Überdachtes Parken in Bahnhofsnähe suchen.",
                 "hu": "Keressen fedett parkolót az állomás közelében.",
                 "ro": "Căutați parcare acoperită lângă gară.",
-                "en": "Seek covered parking near the station."
+                "en": "Seek covered parking near the station.",
+                "pt": "Procure estacionamento coberto perto da estação."
               }
             },
             {
@@ -1318,7 +1434,8 @@
                 "de": "Achtung bei Nebel auf der Zufahrtsstraße.",
                 "hu": "Vigyázat, köd lehet a felfelé vezető úton.",
                 "ro": "Atenție la ceață pe drumul de acces.",
-                "en": "Watch out for fog on the access road."
+                "en": "Watch out for fog on the access road.",
+                "pt": "Cuidado com nevoeiro na estrada de acesso."
               }
             }
           ],
@@ -1346,6 +1463,12 @@
               "Visibility can be limited in the hills during heavy rain.",
               "Check your tire tread for wet road conditions.",
               "City center parking spots fill up quickly when it rains."
+            ],
+            "pt": [
+              "Evite a hora de ponta junto à estação de comboios.",
+              "A visibilidade pode ficar limitada nas colinas durante chuvas fortes.",
+              "Verifique a profundidade do piso dos pneus para condições de estrada molhada.",
+              "Os lugares de estacionamento no centro enchem‑se rapidamente quando chove."
             ]
           }
         },
@@ -1354,7 +1477,8 @@
             "de": "Die Wintertour beginnt morgens bei der Santa Rita Kirche, wenn die Luft noch klirrend kalt ist. Im warmen Auto geht es weiter zum Stadtzentrum und zum Denkmal der Frau von Ermesinde. Genießen Sie den Panoramablick von der São Silvestre Kapelle zum Sonnenuntergang, während die Heizung für Komfort sorgt. Der Abend klingt bei den Lichtern des Bahnhofsviertels gemütlich aus.",
             "hu": "A téli autós túra reggel indul a Santa Rita templomnál, amikor a levegő még csípősen hideg. A fűtött autóban folytassa útját a belváros és a szobor felé. Élvezze a São Silvestre kápolna panorámáját naplementekor, miközben az autó melege kényelmet nyújt. Az este a vasútállomás környékének fényeivel zárul hangulatosan.",
             "ro": "Turul de iarnă începe dimineața la biserica Santa Rita, când aerul este încă tăios. Continuați în mașina încălzită spre centrul orașului și monument. Bucurați-vă de panorama de la capela São Silvestre la apus, în timp ce căldura din mașină oferă confort. Seara se încheie plăcut cu luminile din zona gării.",
-            "en": "The winter driving tour starts at Santa Rita Church when the air is still crisp. Continue in your heated car towards the city center and the monument. Enjoy the panoramic view from São Silvestre Chapel at sunset while the car's warmth ensures comfort. The evening winds down pleasantly with the lights of the station district."
+            "en": "The winter driving tour starts at Santa Rita Church when the air is still crisp. Continue in your heated car towards the city center and the monument. Enjoy the panoramic view from São Silvestre Chapel at sunset while the car's warmth ensures comfort. The evening winds down pleasantly with the lights of the station district.",
+            "pt": "O passeio de carro de inverno começa na Igreja de Santa Rita quando o ar ainda está fresco. Continue no seu carro aquecido em direção ao centro da cidade e ao monumento. Desfrute da vista panorâmica da Capela de São Silvestre ao pôr do sol enquanto o calor do carro garante conforto. A noite termina agradavelmente com as luzes do bairro da estação."
           },
           "stops": [
             {
@@ -1363,7 +1487,8 @@
                 "de": "Die kalte Morgenluft lässt sich im Auto gut vermeiden.",
                 "hu": "A hideg reggeli levegőt jól elkerülheti az autóban maradva.",
                 "ro": "Aerul rece de dimineață poate fi evitat stând în mașină.",
-                "en": "Cold morning air is easily avoided by staying in the car."
+                "en": "Cold morning air is easily avoided by staying in the car.",
+                "pt": "O ar frio da manhã é facilmente evitado ficando no carro."
               }
             },
             {
@@ -1372,7 +1497,8 @@
                 "de": "Besuchen Sie die Kirche für die friedliche Winterstimmung.",
                 "hu": "Látogassa meg a templomot a békés téli hangulatért.",
                 "ro": "Vizitați biserica pentru atmosfera liniștită de iarnă.",
-                "en": "Visit the church for the peaceful winter atmosphere."
+                "en": "Visit the church for the peaceful winter atmosphere.",
+                "pt": "Visite a igreja para sentir a paz do ambiente de inverno."
               }
             },
             {
@@ -1381,7 +1507,8 @@
                 "de": "Zentrale Parkplätze ermöglichen kurze Wege.",
                 "hu": "A központi parkolók rövid sétákat tesznek lehetővé.",
                 "ro": "Parcările centrale permit plimbări scurte.",
-                "en": "Central parking allows for short walks."
+                "en": "Central parking allows for short walks.",
+                "pt": "O estacionamento central permite curtas caminhadas."
               }
             },
             {
@@ -1390,7 +1517,8 @@
                 "de": "Halt für ein schnelles Foto im Winterlicht.",
                 "hu": "Álljon meg egy gyors fotóra a téli fényben.",
                 "ro": "Opriți pentru o poză rapidă în lumina iernii.",
-                "en": "Stop for a quick photo in the winter light."
+                "en": "Stop for a quick photo in the winter light.",
+                "pt": "Pare para uma foto rápida com a luz de inverno."
               }
             },
             {
@@ -1399,7 +1527,8 @@
                 "de": "Das Viertel ist abends wunderschön beleuchtet.",
                 "hu": "A negyed este gyönyörűen ki van világítva.",
                 "ro": "Cartierul este luminat superb seara.",
-                "en": "The district is beautifully illuminated in the evening."
+                "en": "The district is beautifully illuminated in the evening.",
+                "pt": "O bairro fica lindamente iluminado à noite."
               }
             },
             {
@@ -1408,7 +1537,8 @@
                 "de": "Bleiben Sie für die Aussicht warm im Auto.",
                 "hu": "Maradjon a meleg autóban a kilátás élvezetéhez.",
                 "ro": "Rămâneți în mașina caldă pentru a vedea panorama.",
-                "en": "Stay warm in the car while enjoying the view."
+                "en": "Stay warm in the car while enjoying the view.",
+                "pt": "Mantenha‑se quente no carro enquanto aprecia a vista."
               }
             }
           ],
@@ -1436,6 +1566,12 @@
               "Roads can be slippery in shaded areas.",
               "Use seat heating for maximum convenience.",
               "Ensure there is enough antifreeze in the system."
+            ],
+            "pt": [
+              "Verifique se há geada no para‑brisas pela manhã.",
+              "As estradas podem ficar escorregadias em zonas sombreadas.",
+              "Use aquecimento dos bancos para o máximo conforto.",
+              "Assegure‑se de que há anticongelante suficiente no sistema."
             ]
           }
         }
@@ -1454,7 +1590,8 @@
             "de": "Cluster: Bahnhof & Erbe",
             "hu": "Klaszter: Állomás és Örökség",
             "ro": "Cluster: Gară și Patrimoniu",
-            "en": "Cluster: Station & Heritage"
+            "en": "Cluster: Station & Heritage",
+            "pt": "Cluster: Estação & Património"
           },
           "coords": [
             -8.545,
@@ -1469,7 +1606,8 @@
             "de": "Beginnen Sie am Bahnhof, einem wichtigen Verkehrsknotenpunkt.",
             "hu": "Kezdje az állomásnál, egy kulcsfontosságú közlekedési csomópontnál.",
             "ro": "Începeți de la gară, un nod de transport cheie.",
-            "en": "Start at the train station, a key transport hub."
+            "en": "Start at the train station, a key transport hub.",
+            "pt": "Comece na estação de comboios, um importante centro de transportes."
           }
         },
         {
@@ -1477,7 +1615,8 @@
             "de": "Kapelle von São Silvestre",
             "hu": "São Silvestre-kápolna",
             "ro": "Capela São Silvestre",
-            "en": "Chapel of São Silvestre"
+            "en": "Chapel of São Silvestre",
+            "pt": "Capela de São Silvestre"
           },
           "coords": [
             -8.54,
@@ -1492,7 +1631,8 @@
             "de": "Ein kurzer Spaziergang vom Bahnhof entfernt.",
             "hu": "Rövid séta az állomástól.",
             "ro": "O plimbare scurtă de la gară.",
-            "en": "A short walk from the station."
+            "en": "A short walk from the station.",
+            "pt": "A uma curta caminhada da estação."
           }
         },
         {
@@ -1500,7 +1640,8 @@
             "de": "Cluster: Stadtzentrum",
             "hu": "Klaszter: Városközpont",
             "ro": "Cluster: Centrul Orașului",
-            "en": "Cluster: City Center"
+            "en": "Cluster: City Center",
+            "pt": "Cluster: Centro da Cidade"
           },
           "coords": [
             -8.5505,
@@ -1515,7 +1656,8 @@
             "de": "Nehmen Sie einen Bus ins Zentrum und steigen Sie in der Nähe der Igreja Matriz aus.",
             "hu": "Szállj buszra a központ felé, és szállj le az Igreja Matriz közelében.",
             "ro": "Luați un autobuz spre centru și coborâți lângă Biserica Matriz.",
-            "en": "Take a bus to the center, alight near the Igreja Matriz."
+            "en": "Take a bus to the center, alight near the Igreja Matriz.",
+            "pt": "Apanhe um autocarro para o centro e saia perto da Igreja Matriz."
           }
         },
         {
@@ -1523,7 +1665,8 @@
             "de": "Kulturforum von Ermesinde",
             "hu": "Ermesinde-i Kulturális Fórum",
             "ro": "Forumul Cultural din Ermesinde",
-            "en": "Cultural Forum of Ermesinde"
+            "en": "Cultural Forum of Ermesinde",
+            "pt": "Fórum Cultural de Ermesinde"
           },
           "coords": [
             -8.5535,
@@ -1538,7 +1681,8 @@
             "de": "Ein kurzer Spaziergang von der Kirche, ideal für einen kulturellen Vormittag.",
             "hu": "Rövid séta a templomtól, ideális egy kulturális délelőttre.",
             "ro": "O scurtă plimbare de la biserică, perfectă pentru o dimineață culturală.",
-            "en": "A brief walk from the church, perfect for a cultural morning."
+            "en": "A brief walk from the church, perfect for a cultural morning.",
+            "pt": "Uma breve caminhada desde a igreja, perfeito para uma manhã cultural."
           }
         },
         {
@@ -1546,7 +1690,8 @@
             "de": "Cluster: Park & Gärten",
             "hu": "Klaszter: Park és Kertek",
             "ro": "Cluster: Parc și Grădini",
-            "en": "Cluster: Park & Gardens"
+            "en": "Cluster: Park & Gardens",
+            "pt": "Cluster: Parque & Jardins"
           },
           "coords": [
             -8.556,
@@ -1561,7 +1706,8 @@
             "de": "Nehmen Sie einen weiteren Bus nach Norden zum Stadtpark.",
             "hu": "Szállj egy másik buszra észak felé a városi parkhoz.",
             "ro": "Luați un alt autobuz spre nord, către Parcul Urban.",
-            "en": "Take another bus north to the Urban Park."
+            "en": "Take another bus north to the Urban Park.",
+            "pt": "Apanhe outro autocarro para norte até ao Parque Urbano."
           }
         },
         {
@@ -1569,7 +1715,8 @@
             "de": "Villa Beatriz",
             "hu": "Villa Beatriz",
             "ro": "Villa Beatriz",
-            "en": "Villa Beatriz"
+            "en": "Villa Beatriz",
+            "pt": "Villa Beatriz"
           },
           "coords": [
             -8.549,
@@ -1584,7 +1731,8 @@
             "de": "Spazieren Sie vom Park zu diesem eleganten Herrenhaus.",
             "hu": "Sétálj át a parkból ehhez az elegáns kúriához.",
             "ro": "Plimbați-vă din parc până la acest conac elegant.",
-            "en": "Stroll from the park to this elegant mansion."
+            "en": "Stroll from the park to this elegant mansion.",
+            "pt": "Passeie do parque até a esta elegante mansão."
           }
         }
       ],
@@ -1592,7 +1740,8 @@
         "de": "Nutzen Sie das öffentliche Verkehrsnetz von Ermesinde. Beginnen Sie am Bahnhof und erkunden Sie die östlichen Stadtteile. Nehmen Sie einen Bus ins Herz der Stadt, um die Hauptkirche und das Kulturforum zu besichtigen. Verbringen Sie hier Ihre Mittagszeit. Am Nachmittag bringt Sie ein weiterer Bus in den Norden zum weitläufigen Stadtpark und der eleganten Villa Beatriz, wo Sie Ihren Tag in einer ruhigen Umgebung ausklingen lassen können.",
         "hu": "Használja ki Ermesinde tömegközlekedési hálózatát. Kezdje a vasútállomásnál, és fedezze fel a keleti negyedeket. Szálljon buszra a város szívébe, hogy megnézze a főtemplomot és a kulturális fórumot, itt töltse az ebédidejét. Délután egy másik busz északra viszi a tágas városi parkhoz és az elegáns Villa Beatrizhoz, ahol egy nyugodt környezetben fejezheti be a napot.",
         "ro": "Profitați de rețeaua de transport public din Ermesinde. Începeți de la gară pentru a explora cartierele estice. Luați un autobuz spre inima orașului pentru a vizita Biserica Matriz și Forumul Cultural, petrecându-vă aici pauza de prânz. După-amiaza, un alt autobuz vă va duce spre nord, la vastul Parc Urban și la eleganta Villa Beatriz, pentru a încheia ziua într-un cadru liniștit.",
-        "en": "Make use of Ermesinde's public transport network. Start at the train station to explore the eastern neighborhoods. Take a bus to the heart of the city to see the main church and the cultural forum, spending your lunch break here. In the afternoon, another bus will take you north to the expansive Urban Park and the elegant Villa Beatriz to end your day in a tranquil setting."
+        "en": "Make use of Ermesinde's public transport network. Start at the train station to explore the eastern neighborhoods. Take a bus to the heart of the city to see the main church and the cultural forum, spending your lunch break here. In the afternoon, another bus will take you north to the expansive Urban Park and the elegant Villa Beatriz to end your day in a tranquil setting.",
+        "pt": "Aproveite a rede de transportes públicos de Ermesinde. Comece na estação de comboios para explorar os bairros orientais. Apanhe um autocarro para o coração da cidade para ver a igreja principal e o fórum cultural, fazendo aqui a pausa para o almoço. À tarde, outro autocarro leva-o para norte até ao amplo Parque Urbano e à elegante Villa Beatriz para terminar o dia num ambiente tranquilo."
       },
       "gastro_picks": {
         "de": [
@@ -1696,6 +1845,11 @@
           "Buy a daily pass for unlimited travel.",
           "Bus schedules can be found at the stops or online.",
           "Validate your ticket when you board to avoid fines."
+        ],
+        "pt": [
+          "Compre um passe diário para viagens ilimitadas.",
+          "Os horários dos autocarros estão disponíveis nas paragens ou online.",
+          "Valide o seu título de transporte ao embarcar para evitar coimas."
         ]
       },
       "variants": {
@@ -1704,7 +1858,8 @@
             "de": "Mit dem Nahverkehr erreichen Sie Ermesinde trocken, beginnend am Bahnhof. Nutzen Sie Busse für den Weg zur São Silvestre Kapelle und das Stadtzentrum. Das Fórum Cultural ist ein idealer Stopp zwischen den Schauern. Beenden Sie den Tag entspannt in der Villa Beatriz, bevor Sie mit dem Zug bequem zurück nach Porto oder in die Umgebung fahren.",
             "hu": "Tömegközlekedéssel szárazon érheti el Ermesinde-t az állomáson kezdve. Használja a buszokat a kápolnához és a belvároshoz. A Kulturális Fórum ideális megálló két zápor között. Zárja a napot pihentetően a Villa Beatriz-nél, mielőtt a vonattal kényelmesen visszatérne Portóba vagy a környékre.",
             "ro": "Cu transportul public ajungeți la Ermesinde la uscat, începând de la gară. Folosiți autobuzele pentru a ajunge la capelă și în centru. Forumul Cultural este un punct ideal de oprire între averse. Încheiați ziua relaxat la Villa Beatriz înainte de a vă întoarce confortabil cu trenul spre Porto.",
-            "en": "Public transit gets you to Ermesinde dry, starting at the train station. Use buses to reach the chapel and city center. The Cultural Forum is an ideal stop between showers. End your day relaxingly at Villa Beatriz before taking a comfortable train back to Porto or the surrounding area."
+            "en": "Public transit gets you to Ermesinde dry, starting at the train station. Use buses to reach the chapel and city center. The Cultural Forum is an ideal stop between showers. End your day relaxingly at Villa Beatriz before taking a comfortable train back to Porto or the surrounding area.",
+            "pt": "O transporte público leva-o a Ermesinde a seco, começando na estação de comboios. Use autocarros para chegar à capela e ao centro da cidade. O Fórum Cultural é uma paragem ideal entre chuviscos. Termine o dia relaxando na Villa Beatriz antes de apanhar um comboio confortável de volta ao Porto ou à região."
           },
           "stops": [
             {
@@ -1713,7 +1868,8 @@
                 "de": "Warten Sie in der Bahnhofshalle im Trockenen.",
                 "hu": "Várjon a vasútállomás csarnokában a szárazon.",
                 "ro": "Așteptați în holul gării, la adăpost.",
-                "en": "Wait in the station hall to stay dry."
+                "en": "Wait in the station hall to stay dry.",
+                "pt": "Espere na sala da estação para se manter seco."
               }
             },
             {
@@ -1722,7 +1878,8 @@
                 "de": "Prüfen Sie die Busfrequenz bei Regen.",
                 "hu": "Ellenőrizze a buszjáratok sűrűségét esőben.",
                 "ro": "Verificați frecvența autobuzelor pe timp de ploaie.",
-                "en": "Check bus frequency during rainy weather."
+                "en": "Check bus frequency during rainy weather.",
+                "pt": "Verifique a frequência dos autocarros em tempo de chuva."
               }
             },
             {
@@ -1731,7 +1888,8 @@
                 "de": "Kurze Wege von den Bushaltestellen zu den Sehenswürdigkeiten.",
                 "hu": "Rövid séta a buszmegállóktól a látnivalókig.",
                 "ro": "Distanțe scurte de la stații la obiective.",
-                "en": "Short walks from bus stops to attractions."
+                "en": "Short walks from bus stops to attractions.",
+                "pt": "Curtas caminhadas desde as paragens até às atrações."
               }
             },
             {
@@ -1740,7 +1898,8 @@
                 "de": "Direkt mit lokalen Buslinien erreichbar.",
                 "hu": "Közvetlenül elérhető a helyi buszjáratokkal.",
                 "ro": "Accesibil direct cu liniile locale de autobuz.",
-                "en": "Directly accessible via local bus lines."
+                "en": "Directly accessible via local bus lines.",
+                "pt": "Acessível diretamente através das linhas de autocarro locais."
               }
             },
             {
@@ -1749,7 +1908,8 @@
                 "de": "Haltestellen befinden sich direkt am Parkeingang.",
                 "hu": "A megállók közvetlenül a park bejáratánál vannak.",
                 "ro": "Stațiile sunt chiar la intrarea în parc.",
-                "en": "Stops are located right at the park entrance."
+                "en": "Stops are located right at the park entrance.",
+                "pt": "As paragens ficam mesmo junto à entrada do parque."
               }
             },
             {
@@ -1758,7 +1918,8 @@
                 "de": "Sicherer Unterstand an der Haltestelle vorhanden.",
                 "hu": "Biztonságos váróterem a megállóban.",
                 "ro": "Adăpost sigur disponibil în stație.",
-                "en": "Safe shelter available at the stop."
+                "en": "Safe shelter available at the stop.",
+                "pt": "Abrigo seguro disponível na paragem."
               }
             }
           ],
@@ -1786,6 +1947,12 @@
               "Trains to Porto run frequently and are very punctual.",
               "Most bus stops are covered.",
               "Check schedules online to minimize waiting in the rain."
+            ],
+            "pt": [
+              "Use o cartão 'Andante' para transbordos sem complicações.",
+              "Os comboios para o Porto circulam com frequência e são muito pontuais.",
+              "A maioria das paragens de autocarro tem cobertura.",
+              "Consulte os horários online para minimizar a espera na chuva."
             ]
           }
         },
@@ -1794,7 +1961,8 @@
             "de": "Erkunden Sie Ermesinde im Winter stressfrei mit Bahn und Bus. Starten Sie am Bahnhof und genießen Sie die klare Luft. Die Busverbindungen zur Kapelle São Silvestre und ins Zentrum sind zuverlässig. Verbringen Sie die kühle Mittagszeit im Fórum Cultural. Den Abend verbringen Sie in der Villa Beatriz, bevor Sie die beleuchtete Stadt vom Zug aus auf dem Rückweg bewundern.",
             "hu": "Fedezze fel Ermesinde-t télen stresszmentesen vonattal és busszal. Kezdjen az állomáson, élvezve a tiszta levegőt. A buszjáratok a kápolnához és a központba megbízhatóak. A hűvös délidőt töltse a Kulturális Fórumban. Az estét a Villa Beatriznél töltse, majd csodálja meg a kivilágított várost a vonatról hazafelé.",
             "ro": "Explorați Ermesinde iarna fără stres, cu trenul și autobuzul. Începeți la gară și bucurați-vă de aerul curat. Conexiunile de autobuz spre capelă și centru sunt de încredere. Petreceți amiaza răcoroasă la Forumul Cultural. Seara mergeți la Villa Beatriz, apoi admirați orașul iluminat din tren pe drumul de întoarcere.",
-            "en": "Explore Ermesinde in winter stress-free by train and bus. Start at the station and enjoy the crisp air. Bus connections to São Silvestre Chapel and the center are reliable. Spend the cool midday at the Cultural Forum. Enjoy the evening at Villa Beatriz before admiring the lit-up city from the train on your way back."
+            "en": "Explore Ermesinde in winter stress-free by train and bus. Start at the station and enjoy the crisp air. Bus connections to São Silvestre Chapel and the center are reliable. Spend the cool midday at the Cultural Forum. Enjoy the evening at Villa Beatriz before admiring the lit-up city from the train on your way back.",
+            "pt": "Explore Ermesinde no inverno sem stress de comboio e autocarro. Comece na estação e desfrute do ar fresco. As ligações de autocarro para a Capela de São Silvestre e o centro são fiáveis. Passe o meio do dia no Fórum Cultural. Termine a noite na Villa Beatriz antes de admirar a cidade iluminada no comboio de regresso."
           },
           "stops": [
             {
@@ -1803,7 +1971,8 @@
                 "de": "Das Bahnhofscafé ist ideal zum Aufwärmen.",
                 "hu": "Az állomási kávézó ideális a felmelegedéshez.",
                 "ro": "Cafeneaua gării este ideală pentru încălzire.",
-                "en": "The station cafe is ideal for warming up."
+                "en": "The station cafe is ideal for warming up.",
+                "pt": "O café da estação é ideal para se aquecer."
               }
             },
             {
@@ -1812,7 +1981,8 @@
                 "de": "Genießen Sie die klare Sicht aus dem Busfenster.",
                 "hu": "Élvezze a tiszta kilátást a busz ablakából.",
                 "ro": "Bucurați-vă de vederea clară de pe geamul autobuzului.",
-                "en": "Enjoy the clear views from the bus window."
+                "en": "Enjoy the clear views from the bus window.",
+                "pt": "Desfrute das vistas claras pela janela do autocarro."
               }
             },
             {
@@ -1821,7 +1991,8 @@
                 "de": "Die Geschäfte im Zentrum sind im Winter gemütlich.",
                 "hu": "A belvárosi üzletek hangulatosak télen.",
                 "ro": "Magazinele din centru sunt primitoare iarna.",
-                "en": "Shops in the center are cozy in winter."
+                "en": "Shops in the center are cozy in winter.",
+                "pt": "As lojas no centro são acolhedoras no inverno."
               }
             },
             {
@@ -1830,7 +2001,8 @@
                 "de": "Ein warmer Ort für kulturelle Pausen.",
                 "hu": "Meleg hely kulturális kikapcsolódáshoz.",
                 "ro": "Un loc cald pentru pauze culturale.",
-                "en": "A warm place for cultural breaks."
+                "en": "A warm place for cultural breaks.",
+                "pt": "Um local acolhedor para pausas culturais."
               }
             },
             {
@@ -1839,7 +2011,8 @@
                 "de": "Der Park wirkt im Winterlicht besonders weitläufig.",
                 "hu": "A park különösen tágasnak tűnik a téli fényben.",
                 "ro": "Parcul pare deosebit de vast în lumina iernii.",
-                "en": "The park looks especially vast in winter light."
+                "en": "The park looks especially vast in winter light.",
+                "pt": "O parque parece especialmente vasto com a luz de inverno."
               }
             },
             {
@@ -1848,7 +2021,8 @@
                 "de": "Perfekter Abschluss vor der Rückfahrt am Abend.",
                 "hu": "Tökéletes befejezés az esti visszautazás előtt.",
                 "ro": "Final perfect înainte de plecarea de seară.",
-                "en": "Perfect conclusion before your evening return."
+                "en": "Perfect conclusion before your evening return.",
+                "pt": "Conclusão perfeita antes do seu regresso nocturno."
               }
             }
           ],
@@ -1876,6 +2050,12 @@
               "Schedules remain stable throughout the winter.",
               "Use the app for real-time departure information.",
               "Stations are well-lit and safe in the evening."
+            ],
+            "pt": [
+              "Os comboios costumam ser mais quentes do que os autocarros no inverno.",
+              "Os horários mantêm-se estáveis durante todo o inverno.",
+              "Use a aplicação para informação de partidas em tempo real.",
+              "As estações são bem iluminadas e seguras à noite."
             ]
           }
         }

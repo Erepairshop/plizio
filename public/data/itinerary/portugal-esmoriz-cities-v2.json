@@ -21,7 +21,8 @@
             "de": "Hauptkirche von Esmoriz",
             "hu": "Esmoriz főtemploma",
             "ro": "Biserica Principală din Esmoriz",
-            "en": "Main Church of Esmoriz"
+            "en": "Main Church of Esmoriz",
+            "pt": "Igreja Matriz de Esmoriz"
           },
           "category": "churches/cathedrals",
           "coords": [
@@ -37,7 +38,8 @@
             "de": "Beachten Sie die traditionellen Azulejo-Fliesen an der Fassade.",
             "hu": "Figyelje meg a homlokzaton található hagyományos azulejo csempéket.",
             "ro": "Observați plăcile tradiționale azulejo de pe fațadă.",
-            "en": "Notice the traditional azulejo tiles on the facade."
+            "en": "Notice the traditional azulejo tiles on the facade.",
+            "pt": "Repare nas tradicionais figuras de azulejo na fachada."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Denkmal für den Küfer",
             "hu": "Kádármester emlékmű",
             "ro": "Monumentul Dogarului",
-            "en": "Monument to the Cooper"
+            "en": "Monument to the Cooper",
+            "pt": "Monumento ao Tanoeiro"
           },
           "category": "monuments/statues",
           "coords": [
@@ -61,7 +64,8 @@
             "de": "Ein Tribut an das historische Handwerk der Stadt.",
             "hu": "Tisztelgés a város történelmi mestersége előtt.",
             "ro": "Un tribut adus meșteșugului istoric al orașului.",
-            "en": "A tribute to the city's historical craft."
+            "en": "A tribute to the city's historical craft.",
+            "pt": "Uma homenagem ao ofício histórico da cidade."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Strandkapelle",
             "hu": "Tengerparti kápolna",
             "ro": "Capela de pe Plajă",
-            "en": "Chapel of the Beach"
+            "en": "Chapel of the Beach",
+            "pt": "Capela da Praia"
           },
           "category": "churches/cathedrals",
           "coords": [
@@ -85,7 +90,8 @@
             "de": "Eine kleine, charmante Kapelle direkt am Meer.",
             "hu": "Egy kicsi, bájos kápolna közvetlenül a tenger mellett.",
             "ro": "O capelă mică și fermecătoare chiar lângă mare.",
-            "en": "A small, charming chapel right by the sea."
+            "en": "A small, charming chapel right by the sea.",
+            "pt": "Uma pequena e encantadora capela mesmo junto ao mar."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Strand von Esmoriz",
             "hu": "Esmoriz strandja",
             "ro": "Plaja din Esmoriz",
-            "en": "Esmoriz Beach"
+            "en": "Esmoriz Beach",
+            "pt": "Praia de Esmoriz"
           },
           "category": "parks/promenades/beaches",
           "coords": [
@@ -109,7 +116,8 @@
             "de": "Ideal für ein Mittagessen mit Meeresfrüchten in einem der Restaurants am Strand.",
             "hu": "Ideális egy tengeri herkentyűs ebédhez a tengerparti éttermek egyikében.",
             "ro": "Ideal pentru un prânz cu fructe de mare la unul dintre restaurantele de pe plajă.",
-            "en": "Perfect for a seafood lunch at one of the beachfront restaurants."
+            "en": "Perfect for a seafood lunch at one of the beachfront restaurants.",
+            "pt": "Perfeita para um almoço de marisco num dos restaurantes à beira-mar."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Lagune von Esmoriz (Barrinha de Esmoriz)",
             "hu": "Esmorizi lagúna",
             "ro": "Laguna Esmoriz",
-            "en": "Esmoriz Lagoon (Barrinha de Esmoriz)"
+            "en": "Esmoriz Lagoon (Barrinha de Esmoriz)",
+            "pt": "Barrinha de Esmoriz (Lagoa de Esmoriz)"
           },
           "category": "natural features (caves, viewpoints)",
           "coords": [
@@ -133,7 +142,8 @@
             "de": "Ein Paradies für Vogelbeobachter und Naturliebhaber.",
             "hu": "Paradicsom a madármegfigyelők és a természet szerelmesei számára.",
             "ro": "Un paradis pentru observatorii de păsări și iubitorii de natură.",
-            "en": "A paradise for birdwatchers and nature lovers."
+            "en": "A paradise for birdwatchers and nature lovers.",
+            "pt": "Um paraíso para observadores de aves e amantes da natureza."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Holzstege der Lagune (Passadiços da Barrinha)",
             "hu": "Lagúna pallói",
             "ro": "Podețele Lagunei",
-            "en": "Boardwalks of the Lagoon (Passadiços da Barrinha)"
+            "en": "Boardwalks of the Lagoon (Passadiços da Barrinha)",
+            "pt": "Passadiços da Barrinha"
           },
           "category": "parks/promenades/beaches",
           "coords": [
@@ -157,7 +168,8 @@
             "de": "Folgen Sie den Holzstegen für atemberaubende Ausblicke auf die Lagune und die Dünen.",
             "hu": "Kövesse a pallókat a lagúnára és a dűnékre nyíló lélegzetelállító kilátásért.",
             "ro": "Urmați podețele pentru vederi uimitoare ale lagunei și dunelor.",
-            "en": "Follow the boardwalks for stunning views of the lagoon and dunes."
+            "en": "Follow the boardwalks for stunning views of the lagoon and dunes.",
+            "pt": "Siga os passadiços para vistas deslumbrantes sobre a lagoa e as dunas."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Esmoriz an der Hauptkirche und dem Küferdenkmal. Am Vormittag spazieren Sie zum Atlantik, besuchen die charmante Strandkapelle und entspannen am goldenen Sand des Praia de Esmoriz. Nach einem Mittagessen mit frischem Fisch erkunden Sie am Nachmittag das Ökosystem der Barrinha de Esmoriz. Beenden Sie den Tag mit einem Spaziergang auf den Holzstegen, während die Sonne über der Lagune untergeht, ein friedlicher Abschluss Ihres Küstenabenteuers.",
         "hu": "Kezdje a napot Esmoriz szívében, a főtemplomnál és a Kádármester emlékműnél. A délelőtt folyamán sétáljon le az Atlanti-óceánhoz, látogassa meg a bájos tengerparti kápolnát, és pihenjen a Praia de Esmoriz aranyhomokos partján. Egy friss halból készült ebéd után délután fedezze fel a Barrinha de Esmoriz ökoszisztémáját. Zárja a napot egy sétával a pallókon, ahogy a nap lenyugszik a lagúna felett, békés lezárásaként a tengerparti kalandnak.",
         "ro": "Începeți ziua în inima orașului Esmoriz, la Biserica Principală și Monumentul Dogarului. Dimineața, faceți o plimbare până la Atlantic, vizitând fermecătoarea Capelă de pe Plajă și relaxându-vă pe nisipul auriu al Plajei Esmoriz. După un prânz cu pește proaspăt, după-amiaza explorați ecosistemul lagunei Barrinha de Esmoriz. Încheiați ziua cu o plimbare pe podețe în timp ce soarele apune peste lagună, un final pașnic pentru aventura dvs. de coastă.",
-        "en": "Start your day in the heart of Esmoriz at the Main Church and the Cooper's Monument. In the morning, stroll down to the Atlantic, visiting the charming Beach Chapel and relaxing on the golden sands of Esmoriz Beach. After a fresh fish lunch, the afternoon is for exploring the ecosystem of the Barrinha de Esmoriz lagoon. End your day with a walk along the boardwalks as the sun sets over the lagoon, a peaceful conclusion to your coastal adventure."
+        "en": "Start your day in the heart of Esmoriz at the Main Church and the Cooper's Monument. In the morning, stroll down to the Atlantic, visiting the charming Beach Chapel and relaxing on the golden sands of Esmoriz Beach. After a fresh fish lunch, the afternoon is for exploring the ecosystem of the Barrinha de Esmoriz lagoon. End your day with a walk along the boardwalks as the sun sets over the lagoon, a peaceful conclusion to your coastal adventure.",
+        "pt": "Comece o dia no coração de Esmoriz na Igreja Matriz e no Monumento ao Tanoeiro. De manhã, desça até ao Atlântico, visitando a charmosa Capela da Praia e relaxando nas areias douradas da Praia de Esmoriz. Depois de um almoço de peixe fresco, a tarde é para explorar o ecossistema da lagoa da Barrinha de Esmoriz. Termine o dia com um passeio pelos passadiços ao pôr do sol sobre a lagoa, uma conclusão tranquila para a sua aventura costeira."
       },
       "gastro_picks": {
         "de": [
@@ -321,6 +334,11 @@
           "Wear comfortable shoes as you'll be doing a lot of walking.",
           "Bring sunscreen and a hat, especially for the time at the beach.",
           "A reusable water bottle is a good idea to stay hydrated."
+        ],
+        "pt": [
+          "Use calçado confortável, pois haverá muitas caminhadas.",
+          "Leve protector solar e um chapéu, especialmente para o tempo na praia.",
+          "Uma garrafa de água reutilizável é uma boa ideia para se manter hidratado."
         ]
       },
       "variants": {
@@ -329,7 +347,8 @@
             "de": "Der Morgen beginnt in der Pfarrkirche von Esmoriz, einem sicheren Zufluchtsort vor dem atlantischen Regen. Die Kacheln an der Fassade glänzen nass unter dem grauen Himmel. Mittags führt ein kurzer Weg zum Denkmal des Küfers, bevor man in ein Café flüchtet. Nachmittags bietet die Strandkapelle Schutz, während man die stürmische See beobachtet. Der Tag endet neblig an der Lagune auf den Holzstegen.",
             "hu": "A reggel az esmorizi plébániatemplomban kezdődik, amely biztos menedék az atlanti eső elől. A homlokzat azulejo csempéi fényesen csillognak a szürke ég alatt. Délben egy rövid séta vezet a Kádár-emlékműhöz, majd irány egy közeli kávézó. Délután a tengerparti kápolna nyújt oltalmat a viharos óceán látványa mellett. A nap a lagúna fapallóin ér véget a ködös, vizes tájban.",
             "ro": "Dimineața începe la Biserica Parohială din Esmoriz, un refugiu sigur împotriva ploii atlantice. Plăcile de azulejo de pe fațadă strălucesc sub cerul cenușiu. La prânz, o scurtă plimbare duce la Monumentul Dogarului, urmată de un popas la o cafenea. După-amiaza, capela de pe plajă oferă adăpost în timp ce admirați marea agitată. Ziua se încheie pe pasarelele de lemn ale lagunei, într-o atmosferă mistică.",
-            "en": "Morning starts at the Main Church of Esmoriz, a safe refuge from the Atlantic rain. The tiles on the facade gleam wet under the gray sky. At noon, a quick path leads to the Monument to the Cooper before dashing into a cafe. Afternoon brings you to the beach chapel for shelter while watching the stormy sea. The day ends at the lagoon boardwalks amidst a misty, watery landscape."
+            "en": "Morning starts at the Main Church of Esmoriz, a safe refuge from the Atlantic rain. The tiles on the facade gleam wet under the gray sky. At noon, a quick path leads to the Monument to the Cooper before dashing into a cafe. Afternoon brings you to the beach chapel for shelter while watching the stormy sea. The day ends at the lagoon boardwalks amidst a misty, watery landscape.",
+            "pt": "A manhã começa na Igreja Matriz de Esmoriz, um refúgio seguro da chuva atlântica. Os azulejos da fachada brilham molhados sob o céu cinzento. À meio-dia, um caminho rápido leva ao Monumento ao Tanoeiro antes de correr para um café. À tarde vai à capela da praia para abrigo enquanto observa o mar tempestuoso. O dia termina nos passadiços da lagoa, em paisagem húmida e enevoada."
           },
           "stops": [
             {
@@ -338,7 +357,8 @@
                 "de": "Ideal, um einen plötzlichen Schauer im trockenen Innenraum abzuwarten.",
                 "hu": "Ideális hely egy hirtelen zápor kivárására a száraz belső térben.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei averse în interiorul uscat.",
-                "en": "Ideal place to wait out a sudden shower in the dry interior."
+                "en": "Ideal place to wait out a sudden shower in the dry interior.",
+                "pt": "Local ideal para aguardar uma chuvada repentina no interior seco."
               }
             },
             {
@@ -347,7 +367,8 @@
                 "de": "Nur ein kurzer Fotostopp, da es hier keinen direkten Unterstand gibt.",
                 "hu": "Csak egy gyors fotómegálló, mivel itt nincs közvetlen fedett rész.",
                 "ro": "Doar o scurtă oprire pentru poze, deoarece nu există adăpost aici.",
-                "en": "Just a quick photo stop as there is no direct shelter here."
+                "en": "Just a quick photo stop as there is no direct shelter here.",
+                "pt": "Apenas uma paragem rápida para fotos, pois não há abrigo direto aqui."
               }
             },
             {
@@ -356,7 +377,8 @@
                 "de": "Die kleine Kapelle bietet kurzzeitig Schutz vor dem peitschenden Wind.",
                 "hu": "A kis kápolna rövid ideig védelmet nyújt a metsző szél ellen.",
                 "ro": "Mica chapelă oferă protecție temporară împotriva vântului tăios.",
-                "en": "The small chapel offers temporary protection from the biting wind."
+                "en": "The small chapel offers temporary protection from the biting wind.",
+                "pt": "A pequena capela oferece proteção temporária do vento cortante."
               }
             },
             {
@@ -365,7 +387,8 @@
                 "de": "Nutzen Sie die Strandcafés, um die tosenden Wellen im Trockenen zu sehen.",
                 "hu": "Használja a parti kávézókat, hogy szárazon láthassa a hatalmas hullámokat.",
                 "ro": "Folosiți cafenelele de pe plajă pentru a vedea valurile uriașe la adăpost.",
-                "en": "Use the beach cafes to watch the roaring waves while staying dry."
+                "en": "Use the beach cafes to watch the roaring waves while staying dry.",
+                "pt": "Use os cafés da praia para ver as ondas agitadas enquanto se mantém seco."
               }
             },
             {
@@ -374,7 +397,8 @@
                 "de": "Wasserdichte Schuhe sind für die oft matschigen Randwege notwendig.",
                 "hu": "Vízálló cipő szükséges a gyakran sáros szegélyúti ösvényekhez.",
                 "ro": "Încălțămintea impermeabilă este necesară pentru potecile adesea noroioase.",
-                "en": "Waterproof shoes are necessary for the often muddy perimeter paths."
+                "en": "Waterproof shoes are necessary for the often muddy perimeter paths.",
+                "pt": "Sapatos impermeáveis são necessários para os percursos periféricos frequentemente lamacentos."
               }
             },
             {
@@ -383,7 +407,8 @@
                 "de": "Vorsicht, das Holz der Stege wird bei Regen extrem rutschig.",
                 "hu": "Vigyázat, a stégek faborítása esőben rendkívül csúszóssá válik.",
                 "ro": "Atenție, lemnul pasarelelor devine extrem de alunecos pe ploaie.",
-                "en": "Caution, the wooden boardwalks become extremely slippery in the rain."
+                "en": "Caution, the wooden boardwalks become extremely slippery in the rain.",
+                "pt": "Cuidado, os passadiços de madeira tornam-se extremamente escorregadios com chuva."
               }
             }
           ],
@@ -411,6 +436,12 @@
               "Plan longer breaks in cafes near the church or the beach.",
               "Avoid the wooden boardwalks during high winds due to sea spray.",
               "Waterproof clothing is more important than an umbrella in side winds."
+            ],
+            "pt": [
+              "Um guarda-chuva resistente e à prova de vento é essencial na costa.",
+              "Planeie pausas mais longas nos cafés perto da igreja ou da praia.",
+              "Evite os passadiços de madeira com ventos fortes devido ao salpico do mar.",
+              "Roupa impermeável é mais importante que um guarda-chuva em ventos laterais."
             ]
           }
         },
@@ -419,7 +450,8 @@
             "de": "Die Wintersonne beleuchtet die blau-weißen Fliesen der Kirche am Morgen. Die Luft ist kühl und klar, ideal für den Spaziergang zum Küfer-Denkmal. Mittags wirkt der weite Strand von Esmoriz fast menschenleer und friedlich. Nachmittags besuchen Sie die Kapelle im goldenen Licht, bevor der Tag an der Lagune endet. Ziehen Sie sich warm an, da es nach Sonnenuntergang schnell abkühlt.",
             "hu": "A téli napsütés reggel megvilágítja a templom kék-fehér csempéit. A levegő hűvös és tiszta, ideális a sétához a Kádár-emlékműig. Délben Esmoriz tágas strandja szinte néptelen és békés. Délután a kápolnát látogatjuk meg az aranyló fényben, majd a nap a lagúnánál zárul. Öltözzön rétegesen, mert naplemente után gyorsan hűl a levegő.",
             "ro": "Soarele de iarnă luminează dimineața plăcile alb-albastre ale bisericii. Aerul este rece și curat, ideal pentru plimbarea spre Monumentul Dogarului. La prânz, plaja întinsă din Esmoriz pare aproape pustie și liniștită. După-amiaza vizitați capela în lumina aurie, înainte ca ziua să se încheie la lagună. Îmbrăcați-vă bine, deoarece se răcește rapid după apus.",
-            "en": "Winter sun illuminates the blue and white tiles of the church in the morning. The air is cool and clear, ideal for the walk to the Cooper monument. At noon, Esmoriz's wide beach feels almost deserted and peaceful. Afternoon brings a visit to the chapel in the golden light before the day ends at the lagoon. Dress warmly as it cools down quickly after sunset."
+            "en": "Winter sun illuminates the blue and white tiles of the church in the morning. The air is cool and clear, ideal for the walk to the Cooper monument. At noon, Esmoriz's wide beach feels almost deserted and peaceful. Afternoon brings a visit to the chapel in the golden light before the day ends at the lagoon. Dress warmly as it cools down quickly after sunset.",
+            "pt": "O sol de inverno ilumina os azuis e brancos dos azulejos da igreja de manhã. O ar é fresco e claro, ideal para a caminhada até ao Monumento ao Tanoeiro. Ao meio-dia, a extensa praia de Esmoriz parece quase deserta e tranquila. À tarde visite a capela na luz dourada antes do dia terminar na lagoa. Vista-se quente, pois arrefece rapidamente após o pôr do sol."
           },
           "stops": [
             {
@@ -428,7 +460,8 @@
                 "de": "Genießen Sie die Ruhe im Inneren ohne die sommerlichen Touristenströme.",
                 "hu": "Élvezze a belső tér nyugalmát a nyári turistatömeg nélkül.",
                 "ro": "Bucurați-vă de liniștea din interior fără fluxul de turiști de vară.",
-                "en": "Enjoy the tranquility inside without the summer tourist crowds."
+                "en": "Enjoy the tranquility inside without the summer tourist crowds.",
+                "pt": "Desfrute da tranquilidade interior sem as multidões turísticas de verão."
               }
             },
             {
@@ -437,7 +470,8 @@
                 "de": "Das Metall der Statue glänzt besonders schön in der tiefstehenden Sonne.",
                 "hu": "A szobor fémfelülete különösen szépen csillog az alacsony téli napfényben.",
                 "ro": "Metalul statuii strălucește deosebit de frumos în soarele slab de iarnă.",
-                "en": "The statue's metal gleams especially beautifully in the low winter sun."
+                "en": "The statue's metal gleams especially beautifully in the low winter sun.",
+                "pt": "O metal da estátua brilha especialmente bonito com o sol baixo de inverno."
               }
             },
             {
@@ -446,7 +480,8 @@
                 "de": "Ein magischer Ort, um die Einsamkeit der Winterküste zu spüren.",
                 "hu": "Mágikus hely a téli tengerpart magányának átéléséhez.",
                 "ro": "Un loc magic pentru a simți singurătatea coastei pe timp de iarnă.",
-                "en": "A magical place to feel the solitude of the winter coast."
+                "en": "A magical place to feel the solitude of the winter coast.",
+                "pt": "Um lugar mágico para sentir a solidão da costa de inverno."
               }
             },
             {
@@ -455,7 +490,8 @@
                 "de": "Perfekt für lange, erfrischende Spaziergänge im kalten Wind.",
                 "hu": "Tökéletes hosszú, frissítő sétákhoz a hideg szélben.",
                 "ro": "Perfect pentru plimbări lungi și revigorante în vântul rece.",
-                "en": "Perfect for long, refreshing walks in the cold wind."
+                "en": "Perfect for long, refreshing walks in the cold wind.",
+                "pt": "Perfeito para longas e revigorantes caminhadas no vento frio."
               }
             },
             {
@@ -464,7 +500,8 @@
                 "de": "Hervorragende Zeit für die Vogelbeobachtung von den Aussichtspunkten.",
                 "hu": "Kiváló időszak a madármegfigyelésre a kilátópontokról.",
                 "ro": "Perioadă excelentă pentru observarea păsărilor din punctele de belvedere.",
-                "en": "Excellent time for birdwatching from the viewpoints."
+                "en": "Excellent time for birdwatching from the viewpoints.",
+                "pt": "Excelente altura para observação de aves a partir dos miradouros."
               }
             },
             {
@@ -473,7 +510,8 @@
                 "de": "Gehen Sie spätestens um 16:30 Uhr los, um das Abendlicht zu nutzen.",
                 "hu": "Induljon el legkésőbb 16:30-kor, hogy kihasználja az esti fényeket.",
                 "ro": "Porniți cel târziu la 16:30 pentru a profita de lumina serii.",
-                "en": "Start by 4:30 PM at the latest to catch the evening light."
+                "en": "Start by 4:30 PM at the latest to catch the evening light.",
+                "pt": "Comece até às 16:30 no máximo para apanhar a luz do fim de tarde."
               }
             }
           ],
@@ -501,6 +539,12 @@
               "A windproof jacket protects against the cool Atlantic breeze.",
               "Some beach bars have reduced opening hours during winter.",
               "Humidity can make the air feel colder than it actually is."
+            ],
+            "pt": [
+              "O pôr do sol pode ocorrer já às 17:30 no inverno.",
+              "Um casaco corta-vento protege contra a fresca brisa atlântica.",
+              "Alguns bares de praia têm horários reduzidos durante o inverno.",
+              "A humidade pode fazer o ar parecer mais frio do que realmente é."
             ]
           }
         }
@@ -519,7 +563,8 @@
             "de": "Buçaquinho Park",
             "hu": "Buçaquinho Park",
             "ro": "Parcul Buçaquinho",
-            "en": "Buçaquinho Park"
+            "en": "Buçaquinho Park",
+            "pt": "Parque do Buçaquinho"
           },
           "category": "parks/promenades/beaches",
           "coords": [
@@ -535,7 +580,8 @@
             "de": "Ein großartiger Ort, um den Tag mit einem Spaziergang durch die Pinienwälder zu beginnen.",
             "hu": "Remek hely a nap kezdéséhez egy sétával a fenyvesekben.",
             "ro": "Un loc minunat pentru a începe ziua cu o plimbare prin pădurile de pini.",
-            "en": "A great place to start the day with a walk through the pine forests."
+            "en": "A great place to start the day with a walk through the pine forests.",
+            "pt": "Um ótimo local para começar o dia com um passeio pelos pinhais."
           }
         },
         {
@@ -543,7 +589,8 @@
             "de": "Hauptkirche von Esmoriz",
             "hu": "Esmoriz főtemploma",
             "ro": "Biserica Principală din Esmoriz",
-            "en": "Main Church of Esmoriz"
+            "en": "Main Church of Esmoriz",
+            "pt": "Igreja Matriz de Esmoriz"
           },
           "category": "churches/cathedrals",
           "coords": [
@@ -559,7 +606,8 @@
             "de": "Eine kurze Radtour ins Stadtzentrum, um dieses lokale Wahrzeichen zu sehen.",
             "hu": "Egy rövid biciklitúra a városközpontba, hogy megnézze ezt a helyi nevezetességet.",
             "ro": "O scurtă plimbare cu bicicleta până în centrul orașului pentru a vedea acest punct de reper local.",
-            "en": "A short bike ride to the town center to see this local landmark."
+            "en": "A short bike ride to the town center to see this local landmark.",
+            "pt": "A uma curta bicicleta do centro da vila para ver este marco local."
           }
         },
         {
@@ -567,7 +615,8 @@
             "de": "Strand von Esmoriz",
             "hu": "Esmoriz strandja",
             "ro": "Plaja din Esmoriz",
-            "en": "Esmoriz Beach"
+            "en": "Esmoriz Beach",
+            "pt": "Praia de Esmoriz"
           },
           "category": "parks/promenades/beaches",
           "coords": [
@@ -583,7 +632,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und genießen Sie die Sonne oder ein Mittagessen am Meer.",
             "hu": "Zárja le a biciklijét, és élvezze a napsütést vagy egy ebédet a tengerparton.",
             "ro": "Legați-vă bicicleta și bucurați-vă de soare sau de un prânz pe malul mării.",
-            "en": "Lock up your bike and enjoy the sun or a seaside lunch."
+            "en": "Lock up your bike and enjoy the sun or a seaside lunch.",
+            "pt": "Tranque a bicicleta e desfrute do sol ou de um almoço à beira-mar."
           }
         },
         {
@@ -591,7 +641,8 @@
             "de": "Strandkapelle",
             "hu": "Tengerparti kápolna",
             "ro": "Capela de pe Plajă",
-            "en": "Chapel of the Beach"
+            "en": "Chapel of the Beach",
+            "pt": "Capela da Praia"
           },
           "category": "churches/cathedrals",
           "coords": [
@@ -607,7 +658,8 @@
             "de": "Nur eine kurze Fahrt vom Hauptstrand entfernt.",
             "hu": "Csak egy rövid tekerés a fő strandtól.",
             "ro": "La doar o scurtă plimbare cu bicicleta de plaja principală.",
-            "en": "Just a short ride from the main beach area."
+            "en": "Just a short ride from the main beach area.",
+            "pt": "Apenas um curto passeio a partir da zona principal da praia."
           }
         },
         {
@@ -615,7 +667,8 @@
             "de": "Holzstege der Lagune (Passadiços da Barrinha)",
             "hu": "Lagúna pallói",
             "ro": "Podețele Lagunei",
-            "en": "Boardwalks of the Lagoon (Passadiços da Barrinha)"
+            "en": "Boardwalks of the Lagoon (Passadiços da Barrinha)",
+            "pt": "Passadiços da Barrinha"
           },
           "category": "parks/promenades/beaches",
           "coords": [
@@ -631,7 +684,8 @@
             "de": "Die Holzstege sind ideal zum Radfahren und bieten tolle Ausblicke.",
             "hu": "A pallók ideálisak a kerékpározáshoz, és nagyszerű kilátást nyújtanak.",
             "ro": "Podețele sunt ideale pentru ciclism și oferă vederi minunate.",
-            "en": "The boardwalks are perfect for cycling and offer great views."
+            "en": "The boardwalks are perfect for cycling and offer great views.",
+            "pt": "Os passadiços são perfeitos para andar de bicicleta e oferecem excelentes vistas."
           }
         },
         {
@@ -639,7 +693,8 @@
             "de": "Lagune von Esmoriz (Barrinha de Esmoriz)",
             "hu": "Esmorizi lagúna",
             "ro": "Laguna Esmoriz",
-            "en": "Esmoriz Lagoon (Barrinha de Esmoriz)"
+            "en": "Esmoriz Lagoon (Barrinha de Esmoriz)",
+            "pt": "Lagoa de Esmoriz (Barrinha de Esmoriz)"
           },
           "category": "natural features (caves, viewpoints)",
           "coords": [
@@ -655,7 +710,8 @@
             "de": "Umrunden Sie die Lagune, um die vielfältige Vogelwelt zu beobachten.",
             "hu": "Kerülje meg a lagúnát, hogy megfigyelhesse a változatos madárvilágot.",
             "ro": "Înconjurați laguna pentru a observa diversitatea de păsări.",
-            "en": "Cycle around the lagoon to spot the diverse birdlife."
+            "en": "Cycle around the lagoon to spot the diverse birdlife.",
+            "pt": "Percorra a lagoa de bicicleta para observar a diversa avifauna."
           }
         }
       ],
@@ -663,7 +719,8 @@
         "de": "Ihr Fahrradabenteuer beginnt im grünen Buçaquinho Park. Am Vormittag radeln Sie ins Stadtzentrum zur Hauptkirche, bevor Sie zur Küste fahren, um am Strand von Esmoriz zu entspannen und zu Mittag zu essen. Am Nachmittag erkunden Sie die Küste weiter, halten an der malerischen Strandkapelle und fahren dann entlang der berühmten Holzstege. Beenden Sie Ihre Tour mit einer ruhigen Fahrt um die Barrinha-Lagune und genießen Sie die Natur und die Tierwelt.",
         "hu": "Kerékpáros kalandja a zöldellő Buçaquinho Parkban kezdődik. Délelőtt tekerjen be a városközpontba a főtemplomhoz, mielőtt a part felé veszi az irányt, hogy pihenjen és ebédeljen az Esmoriz strandon. Délután fedezze fel tovább a partvonalat, megállva a festői tengerparti kápolnánál, majd tekerjen végig a híres pallókon. Zárja a túrát egy csendes körrel a Barrinha lagúna körül, élvezve a természetet és az élővilágot.",
         "ro": "Aventura dvs. pe bicicletă începe în Parcul verde Buçaquinho. Dimineața, pedalați spre centrul orașului la Biserica Principală înainte de a vă îndrepta spre coastă pentru a vă relaxa și a lua prânzul la Plaja Esmoriz. După-amiaza, explorați mai departe coasta, oprindu-vă la pitoreasca Capelă de pe Plajă, apoi pedalând de-a lungul faimoaselor podețe. Încheiați turul cu o plimbare liniștită în jurul lagunei Barrinha, bucurându-vă de natură și faună.",
-        "en": "Your cycling adventure starts in the green Buçaquinho Park. In the morning, you'll pedal to the town center for the Main Church before heading to the coast to relax and have lunch at Esmoriz Beach. The afternoon is for further coastal exploration, stopping at the quaint Beach Chapel, then riding along the famous boardwalks. End your tour with a peaceful loop around the Barrinha lagoon, enjoying the nature and wildlife."
+        "en": "Your cycling adventure starts in the green Buçaquinho Park. In the morning, you'll pedal to the town center for the Main Church before heading to the coast to relax and have lunch at Esmoriz Beach. The afternoon is for further coastal exploration, stopping at the quaint Beach Chapel, then riding along the famous boardwalks. End your tour with a peaceful loop around the Barrinha lagoon, enjoying the nature and wildlife.",
+        "pt": "A sua aventura de bicicleta começa no verde Parque do Buçaquinho. De manhã, pedalará até ao centro da vila para ver a Igreja Matriz antes de seguir para a costa para relaxar e almoçar na Praia de Esmoriz. A tarde é para explorar mais a costa, parando na pitoresca Capela da Praia e depois pedalando pelos famosos passadiços. Termine o passeio com um tranquilo circuito à volta da Barrinha, apreciando a natureza e a vida selvagem."
       },
       "gastro_picks": {
         "de": [
@@ -803,6 +860,11 @@
           "Check your tire pressure before you set off.",
           "Bring a lock to secure your bike at stops.",
           "The wooden boardwalks can be slippery when wet."
+        ],
+        "pt": [
+          "Verifique a pressão dos pneus antes de partir.",
+          "Leve um cadeado para prender a bicicleta nas paragens.",
+          "Os passadiços de madeira podem ficar escorregadios quando molhados."
         ]
       },
       "variants": {
@@ -811,7 +873,8 @@
             "de": "Der Tag beginnt im Buçaquinho-Park, wo die Pinien etwas Schutz vor dem Regen bieten. Danach führt die Fahrt zur Kirche, um kurz abzutrocknen. Mittags geht es trotz Regen zum Strand, wo der Wind die größte Herausforderung ist. Der Nachmittag gehört der Lagune und den Holzstegen. Achten Sie auf nasse Wege und tragen Sie vollständige Regenmontur.",
             "hu": "A nap a Buçaquinho parkban indul, ahol a fenyők némi védelmet nyújtanak az eső ellen. Ezután a templom felé tekerünk, hogy kicsit megszáradjunk. Délben az eső ellenére a strand a cél, ahol a szél a legnagyobb kihívás. A délután a lagúnáé és a fapallóké. Ügyeljen a vizes utakra és viseljen teljes esőruházatot.",
             "ro": "Ziua începe în Parcul Buçaquinho, unde pinii oferă puțină protecție împotriva ploii. Apoi, cursa continuă spre biserică pentru a vă usca puțin. La prânz, în ciuda ploii, destinația este plaja, unde vântul este cea mai mare provocare. După-amiaza aparține lagunei și pasarelelor. Atenție la drumurile umede și purtați echipament complet de ploaie.",
-            "en": "The day starts in Buçaquinho Park, where pine trees offer some shelter from the rain. Then, the ride continues to the church to dry off a bit. At noon, despite the rain, the beach is the goal, where wind is the biggest challenge. The afternoon belongs to the lagoon and the boardwalks. Watch out for wet paths and wear full rain gear."
+            "en": "The day starts in Buçaquinho Park, where pine trees offer some shelter from the rain. Then, the ride continues to the church to dry off a bit. At noon, despite the rain, the beach is the goal, where wind is the biggest challenge. The afternoon belongs to the lagoon and the boardwalks. Watch out for wet paths and wear full rain gear.",
+            "pt": "O dia começa no Parque do Buçaquinho, onde os pinheiros oferecem alguma proteção da chuva. Depois, o passeio continua até à igreja para se secar um pouco. Ao meio‑dia, apesar da chuva, a praia é o objetivo, onde o vento é o maior desafio. A tarde pertence à lagoa e aos passadiços. Cuidado com os caminhos molhados e use equipamento de chuva completo."
           },
           "stops": [
             {
@@ -820,7 +883,8 @@
                 "de": "Die dichten Pinienkronen bieten natürlichen Schutz bei leichtem Nieselregen.",
                 "hu": "A sűrű fenyőkoronák természetes védelmet nyújtanak enyhe szemerkéléskor.",
                 "ro": "Coroanele dese de pini oferă protecție naturală în caz de burniță ușoară.",
-                "en": "The dense pine canopies offer natural protection during light drizzle."
+                "en": "The dense pine canopies offer natural protection during light drizzle.",
+                "pt": "As densas copas de pinheiro oferecem proteção natural durante chuviscos leves."
               }
             },
             {
@@ -829,7 +893,8 @@
                 "de": "Ein guter Ort, um die Regenkleidung zu richten und kurz zu rasten.",
                 "hu": "Jó hely az esőruházat igazítására és egy rövid pihenőre.",
                 "ro": "Un loc bun pentru a vă aranja hainele de ploaie și pentru o scurtă pauză.",
-                "en": "A good place to adjust your rain gear and take a short break."
+                "en": "A good place to adjust your rain gear and take a short break.",
+                "pt": "Um bom local para ajustar o equipamento de chuva e fazer uma pequena pausa."
               }
             },
             {
@@ -838,7 +903,8 @@
                 "de": "Vorsicht vor starkem Seitenwind auf dem Radweg entlang der Küste.",
                 "hu": "Vigyázat az erős oldalszéllel a part menti kerékpárúton.",
                 "ro": "Atenție la vântul lateral puternic pe pista de biciclete de-a lungul coastei.",
-                "en": "Beware of strong crosswinds on the bike path along the coast."
+                "en": "Beware of strong crosswinds on the bike path along the coast.",
+                "pt": "Cuidado com ventos fortes de atravessada no percurso ciclável junto à costa."
               }
             },
             {
@@ -847,7 +913,8 @@
                 "de": "Ein kurzer Stopp im Stehen unter dem kleinen Vordach ist möglich.",
                 "hu": "Egy rövid álló megálló lehetséges a kis előtető alatt.",
                 "ro": "O scurtă oprire în picioare este posibilă sub mica streașină.",
-                "en": "A short standing stop is possible under the small overhang."
+                "en": "A short standing stop is possible under the small overhang.",
+                "pt": "É possível fazer uma curta paragem em pé sob o pequeno beiral."
               }
             },
             {
@@ -856,7 +923,8 @@
                 "de": "Schieben Sie das Rad bei Regen, die nassen Bretter sind sehr gefährlich.",
                 "hu": "Tolja a kerékpárt esőben, a vizes deszkák nagyon veszélyesek.",
                 "ro": "Împingeți bicicleta pe ploaie, scândurile umede sunt foarte periculoase.",
-                "en": "Push your bike in the rain; the wet planks are very dangerous."
+                "en": "Push your bike in the rain; the wet planks are very dangerous.",
+                "pt": "Empurre a bicicleta na chuva; as tábuas molhadas são muito perigosas."
               }
             },
             {
@@ -865,7 +933,8 @@
                 "de": "Die unbefestigten Wege können sehr schlammig und schwer befahrbar sein.",
                 "hu": "A burkolatlan utak nagyon sárosak és nehezen járhatóak lehetnek.",
                 "ro": "Drumurile neasfaltate pot fi foarte noroioase și greu de parcurs.",
-                "en": "The unpaved paths can be very muddy and difficult to ride on."
+                "en": "The unpaved paths can be very muddy and difficult to ride on.",
+                "pt": "Os caminhos não pavimentados podem ficar muito lamacentos e difíceis de pedalar."
               }
             }
           ],
@@ -893,6 +962,12 @@
               "Brake more carefully and earlier on wet surfaces.",
               "Avoid riding on the wooden boardwalks when they are wet.",
               "Wear bright, reflective rain gear for better visibility."
+            ],
+            "pt": [
+              "Use guarda‑lamas para se proteger da água que salpica por baixo.",
+              "Travare com mais cuidado e mais cedo em superfícies molhadas.",
+              "Evite pedalar nos passadiços de madeira quando estiverem molhados.",
+              "Use roupa de chuva brilhante e refletora para melhor visibilidade."
             ]
           }
         },
@@ -901,7 +976,8 @@
             "de": "Morgens radeln Sie durch den Buçaquinho-Park, wo der Duft der Pinien in der kalten Luft besonders intensiv ist. Die Fahrt zur Kirche wärmt auf. Mittags genießen Sie die freie Fahrt am Strandradweg ohne die Sommertouristen. Nachmittags erkunden Sie die Lagune, während die Sonne tief steht. Beenden Sie die Tour vor Einbruch der Dunkelheit, da es im Winter schnell frostig wird.",
             "hu": "Reggel a Buçaquinho parkon át kerekezünk, ahol a fenyők illata a hideg levegőben különösen intenzív. A templomig tartó út jól bemelegít. Délben élvezze a szabad utat a parti kerékpárúton a nyári turisták nélkül. Délután a lagúnát fedezzük fel, miközben alacsonyan jár a nap. Fejezze be a túrát sötétedés előtt, mert télen gyorsan fagyossá válik az idő.",
             "ro": "Dimineața pedalați prin Parcul Buçaquinho, unde mirosul pinilor este deosebit de intens în aerul rece. Drumul spre biserică vă va încălzi. La prânz, bucurați-vă de pista de biciclete de pe plajă fără turiștii de vară. După-amiaza explorați laguna în timp ce soarele este jos. Încheiați turul înainte de lăsarea întunericului, deoarece se face frig rapid.",
-            "en": "In the morning, cycle through Buçaquinho Park, where the scent of pine is particularly intense in the cold air. The ride to the church warms you up. At noon, enjoy the clear bike path at the beach without summer tourists. Afternoon explore the lagoon while the sun is low. Finish the tour before dark, as it gets frosty quickly in winter."
+            "en": "In the morning, cycle through Buçaquinho Park, where the scent of pine is particularly intense in the cold air. The ride to the church warms you up. At noon, enjoy the clear bike path at the beach without summer tourists. Afternoon explore the lagoon while the sun is low. Finish the tour before dark, as it gets frosty quickly in winter.",
+            "pt": "De manhã, pedale pelo Parque do Buçaquinho, onde o cheiro a pinho é particularmente intenso no ar frio. O percurso até à igreja aquece. Ao meio‑dia, desfrute do claro passeio ciclável na praia sem turistas de verão. À tarde, explore a lagoa com o sol baixo. Termine o passeio antes de anoitecer, pois fica gelado rapidamente no inverno."
           },
           "stops": [
             {
@@ -910,7 +986,8 @@
                 "de": "Die Waldwege sind im Winter fest und bieten guten Grip für Reifen.",
                 "hu": "Az erdei utak télen kemények és jó tapadást biztosítanak a gumiknak.",
                 "ro": "Potecile din pădure sunt ferme iarna și oferă o aderență bună.",
-                "en": "The forest paths are firm in winter and offer good grip for tires."
+                "en": "The forest paths are firm in winter and offer good grip for tires.",
+                "pt": "Os trilhos da mata são firmes no inverno e oferecem boa aderência para os pneus."
               }
             },
             {
@@ -919,7 +996,8 @@
                 "de": "Ein windgeschützter Ort, um eine kurze Trinkpause einzulegen.",
                 "hu": "Szélvédett hely egy rövid ivószünet tartásához.",
                 "ro": "Un loc ferit de vânt pentru a face o scurtă pauză de hidratare.",
-                "en": "A wind-sheltered spot to take a short drink break."
+                "en": "A wind-sheltered spot to take a short drink break.",
+                "pt": "Um local protegido do vento para fazer uma curta pausa para beber algo."
               }
             },
             {
@@ -928,7 +1006,8 @@
                 "de": "Der Radweg ist im Winter fast leer, perfekt für zügiges Fahren.",
                 "hu": "A kerékpárút télen szinte üres, tökéletes a tempós haladáshoz.",
                 "ro": "Pista de biciclete este aproape goală iarna, perfectă pentru viteză.",
-                "en": "The bike path is almost empty in winter, perfect for brisk riding."
+                "en": "The bike path is almost empty in winter, perfect for brisk riding.",
+                "pt": "O percurso ciclável está quase vazio no inverno, perfeito para um ritmo resoluto."
               }
             },
             {
@@ -937,7 +1016,8 @@
                 "de": "Stellen Sie das Rad kurz ab und genießen Sie den weiten Blick auf den Ozean.",
                 "hu": "Tegye le rövid időre a gépet, és élvezze a tágas kilátást az óceánra.",
                 "ro": "Lăsați bicicleta pentru scurt timp și bucurați-vă de vederea spre ocean.",
-                "en": "Park the bike briefly and enjoy the wide view of the ocean."
+                "en": "Park the bike briefly and enjoy the wide view of the ocean.",
+                "pt": "Estacione a bicicleta brevemente e desfrute da ampla vista sobre o oceano."
               }
             },
             {
@@ -946,7 +1026,8 @@
                 "de": "Achten Sie auf Raureif am frühen Morgen, der die Bretter glatt macht.",
                 "hu": "Ügyeljen a kora reggeli zúzmarára, amely csúszóssá teszi a deszkákat.",
                 "ro": "Atenție la chiciura de dimineață, care face scândurile alunecoase.",
-                "en": "Watch out for early morning frost that makes the planks slippery."
+                "en": "Watch out for early morning frost that makes the planks slippery.",
+                "pt": "Cuidado com a geada matinal que torna as tábuas escorregadias."
               }
             },
             {
@@ -955,7 +1036,8 @@
                 "de": "Das weiche Nachmittagslicht bietet tolle Fotomotive für Radfahrer.",
                 "hu": "A lágy délutáni fények remek fotótémát kínálnak a kerékpárosoknak.",
                 "ro": "Lumina blândă a după-amiezii oferă motive foto grozave.",
-                "en": "The soft afternoon light offers great photo opportunities for cyclists."
+                "en": "The soft afternoon light offers great photo opportunities for cyclists.",
+                "pt": "A luz suave da tarde oferece ótimas oportunidades fotográficas para ciclistas."
               }
             }
           ],
@@ -983,6 +1065,12 @@
               "Check your lights as it gets dark very early in winter.",
               "A hot tea in a thermos is very welcome during breaks.",
               "The coastal road can be slippery in winter due to sand drifts."
+            ],
+            "pt": [
+              "Use luvas e um gorro por baixo do capacete contra o frio do vento.",
+              "Verifique as luzes, pois anoitece muito cedo no inverno.",
+              "Um chá quente numa garrafa térmica é muito bem‑vindo durante as pausas.",
+              "A estrada costeira pode ficar escorregadia no inverno devido a acumulações de areia."
             ]
           }
         }
@@ -1001,7 +1089,8 @@
             "de": "Flugplatz Espinho",
             "hu": "Espinho repülőtér",
             "ro": "Aerodromul Espinho",
-            "en": "Espinho Aerodrome"
+            "en": "Espinho Aerodrome",
+            "pt": "Aeródromo de Espinho"
           },
           "category": "industrial heritage",
           "coords": [
@@ -1017,7 +1106,8 @@
             "de": "Beginnen Sie mit einem einzigartigen Besuch, um Kleinflugzeuge zu beobachten. Ein unerwartetes Highlight.",
             "hu": "Kezdje egy egyedi látogatással, és nézzen kis repülőgépeket. Váratlan fénypont.",
             "ro": "Începeți cu o vizită unică pentru a privi avioanele mici. Un punct culminant neașteptat.",
-            "en": "Start with a unique visit to watch small aircraft. An unexpected highlight."
+            "en": "Start with a unique visit to watch small aircraft. An unexpected highlight.",
+            "pt": "Comece com uma visita única para observar pequenas aeronaves. Um destaque inesperado."
           }
         },
         {
@@ -1025,7 +1115,8 @@
             "de": "Lagune von Esmoriz (Barrinha de Esmoriz)",
             "hu": "Esmorizi lagúna",
             "ro": "Laguna Esmoriz",
-            "en": "Esmoriz Lagoon (Barrinha de Esmoriz)"
+            "en": "Esmoriz Lagoon (Barrinha de Esmoriz)",
+            "pt": "Lagoa de Esmoriz (Barrinha de Esmoriz)"
           },
           "category": "natural features (caves, viewpoints)",
           "coords": [
@@ -1041,7 +1132,8 @@
             "de": "Parken Sie hier und beginnen Sie Ihren Spaziergang. Dies ist Ihr erster Natur-Cluster.",
             "hu": "Parkoljon itt, és kezdje meg a sétát. Ez az első természeti klaszter.",
             "ro": "Parcați aici și începeți plimbarea. Acesta este primul dvs. cluster natural.",
-            "en": "Park here and start your walk. This is your first nature cluster."
+            "en": "Park here and start your walk. This is your first nature cluster.",
+            "pt": "Estacione aqui e comece a sua caminhada. Este é o seu primeiro núcleo natural."
           }
         },
         {
@@ -1049,7 +1141,8 @@
             "de": "Holzstege der Lagune (Passadiços da Barrinha)",
             "hu": "Lagúna pallói",
             "ro": "Podețele Lagunei",
-            "en": "Boardwalks of the Lagoon (Passadiços da Barrinha)"
+            "en": "Boardwalks of the Lagoon (Passadiços da Barrinha)",
+            "pt": "Passadiços da Barrinha (Boardwalks da Lagoa)"
           },
           "category": "parks/promenades/beaches",
           "coords": [
@@ -1065,7 +1158,8 @@
             "de": "Ein einfacher Spaziergang vom Lagunenufer aus.",
             "hu": "Könnyű séta a lagúna partjáról.",
             "ro": "O plimbare ușoară de pe malul lagunei.",
-            "en": "An easy walk from the lagoon's edge."
+            "en": "An easy walk from the lagoon's edge.",
+            "pt": "Uma caminhada fácil a partir da margem da lagoa."
           }
         },
         {
@@ -1073,7 +1167,8 @@
             "de": "Strand von Esmoriz",
             "hu": "Esmoriz strandja",
             "ro": "Plaja din Esmoriz",
-            "en": "Esmoriz Beach"
+            "en": "Esmoriz Beach",
+            "pt": "Praia de Esmoriz"
           },
           "category": "parks/promenades/beaches",
           "coords": [
@@ -1089,7 +1184,8 @@
             "de": "Fahren Sie zum Hauptstrandcluster. Zeit für Mittagessen und Entspannung am Meer.",
             "hu": "Vezessen a fő strandklaszterhez. Ebédidő és pihenés a tengerparton.",
             "ro": "Conduceți la clusterul principal de plajă. Timp pentru prânz și relaxare la malul mării.",
-            "en": "Drive to the main beach cluster. Time for lunch and seaside relaxation."
+            "en": "Drive to the main beach cluster. Time for lunch and seaside relaxation.",
+            "pt": "Siga de carro até ao principal núcleo de praia. Hora de almoço e relaxamento à beira‑mar."
           }
         },
         {
@@ -1097,7 +1193,8 @@
             "de": "Strandkapelle",
             "hu": "Tengerparti kápolna",
             "ro": "Capela de pe Plajă",
-            "en": "Chapel of the Beach"
+            "en": "Chapel of the Beach",
+            "pt": "Capela da Praia"
           },
           "category": "churches/cathedrals",
           "coords": [
@@ -1113,7 +1210,8 @@
             "de": "Ein kurzer Spaziergang entlang der Promenade vom Restaurant aus.",
             "hu": "Rövid séta a sétányon az étteremtől.",
             "ro": "O plimbare scurtă de-a lungul promenadei de la restaurant.",
-            "en": "A short stroll along the promenade from your lunch spot."
+            "en": "A short stroll along the promenade from your lunch spot.",
+            "pt": "Um curto passeio pela promenade a partir do seu local de almoço."
           }
         },
         {
@@ -1121,7 +1219,8 @@
             "de": "Hauptkirche von Esmoriz",
             "hu": "Esmoriz főtemploma",
             "ro": "Biserica Principală din Esmoriz",
-            "en": "Main Church of Esmoriz"
+            "en": "Main Church of Esmoriz",
+            "pt": "Igreja Matriz de Esmoriz"
           },
           "category": "churches/cathedrals",
           "coords": [
@@ -1137,7 +1236,8 @@
             "de": "Fahren Sie ins Stadtzentrum für den letzten Cluster des Tages.",
             "hu": "Vezessen be a városközpontba a nap utolsó klaszteréhez.",
             "ro": "Conduceți spre centrul orașului pentru ultimul cluster al zilei.",
-            "en": "Drive into the town center for the final cluster of the day."
+            "en": "Drive into the town center for the final cluster of the day.",
+            "pt": "Siga de carro para o centro da vila para o último núcleo do dia."
           }
         },
         {
@@ -1145,7 +1245,8 @@
             "de": "Denkmal für den Küfer",
             "hu": "Kádármester emlékmű",
             "ro": "Monumentul Dogarului",
-            "en": "Monument to the Cooper"
+            "en": "Monument to the Cooper",
+            "pt": "Monumento ao Cooper"
           },
           "category": "monuments/statues",
           "coords": [
@@ -1161,7 +1262,8 @@
             "de": "Nur wenige Schritte von der Kirche entfernt.",
             "hu": "Csak néhány lépésre a templomtól.",
             "ro": "La doar câțiva pași de biserică.",
-            "en": "Just a few steps away from the church."
+            "en": "Just a few steps away from the church.",
+            "pt": "Apenas a alguns passos da igreja."
           }
         }
       ],
@@ -1169,7 +1271,8 @@
         "de": "Beginnen Sie Ihren Tag mit einer ungewöhnlichen Fahrt zum Flugplatz Espinho. Am Vormittag fahren Sie zur Barrinha-Lagune, parken und erkunden den Naturcluster zu Fuß über die Holzstege. Mittags fahren Sie zum Strand von Esmoriz für ein entspanntes Mittagessen, gefolgt von einem kurzen Spaziergang zur Strandkapelle. Am Nachmittag fahren Sie in den letzten Cluster im Stadtzentrum, um die Hauptkirche und das Küferdenkmal zu besichtigen, und tauchen in die lokale Geschichte ein, bevor der Tag zu Ende geht.",
         "hu": "Kezdje a napot egy nem szokványos autózással az Espinho repülőtérre. Délelőtt vezessen a Barrinha lagúnához, parkoljon le, és fedezze fel gyalog a természeti klasztert a pallókon keresztül. Délben autózzon el az Esmoriz strandra egy pihentető ebédre, majd tegyen egy rövid sétát a tengerparti kápolnához. Délután vezessen be az utolsó, városközponti klaszterbe, hogy megnézze a főtemplomot és a Kádármester emlékművet, elmélyedve a helyi történelemben a nap lezárása előtt.",
         "ro": "Începeți ziua cu o excursie neconvențională la Aerodromul Espinho. Dimineața, conduceți la laguna Barrinha, parcați și explorați clusterul natural pe jos prin intermediul podețelor. La prânz, mergeți cu mașina la Plaja Esmoriz pentru un prânz relaxant, urmat de o scurtă plimbare la Capela de pe Plajă. După-amiaza, conduceți la ultimul cluster din centrul orașului pentru a vedea Biserica Principală și Monumentul Dogarului, aprofundând istoria locală înainte de a încheia ziua.",
-        "en": "Start your day with an unconventional drive to the Espinho Aerodrome. In the morning, drive to the Barrinha lagoon, park, and explore the nature cluster on foot via the boardwalks. At noon, drive to Esmoriz Beach for a relaxed lunch, followed by a short walk to the Beach Chapel. In the afternoon, drive to the final cluster in the town center to see the Main Church and the Cooper's Monument, delving into local history before your day ends."
+        "en": "Start your day with an unconventional drive to the Espinho Aerodrome. In the morning, drive to the Barrinha lagoon, park, and explore the nature cluster on foot via the boardwalks. At noon, drive to Esmoriz Beach for a relaxed lunch, followed by a short walk to the Beach Chapel. In the afternoon, drive to the final cluster in the town center to see the Main Church and the Cooper's Monument, delving into local history before your day ends.",
+        "pt": "Comece o dia com um percurso pouco convencional para o Aeródromo de Espinho. De manhã, vá de carro até à lagoa da Barrinha, estacione e explore o núcleo natural a pé pelos passadiços. Ao meio‑dia, conduza até à Praia de Esmoriz para um almoço descontraído, seguido de uma curta caminhada até à Capela da Praia. À tarde, dirija‑se ao núcleo final no centro da vila para ver a Igreja Matriz e o Monumento ao Cooper, mergulhando na história local antes do fim do dia."
       },
       "gastro_picks": {
         "de": [
@@ -1309,6 +1412,11 @@
           "Parking can be limited near the beach in summer. Arrive early.",
           "Keep some change for parking meters.",
           "Plan your drives between clusters outside of peak traffic hours."
+        ],
+        "pt": [
+          "O estacionamento pode ser limitado junto à praia no verão. Chegue cedo.",
+          "Tenha algumas moedas para os parquímetros.",
+          "Planeie as suas deslocações entre núcleos fora das horas de maior tráfego."
         ]
       },
       "variants": {
@@ -1317,7 +1425,8 @@
             "de": "Der Tag beginnt beim Flugplatz Espinho, wo man die Flugzeuge oft im Hangar betrachten kann. Danach geht es zur Lagune; genießen Sie den Blick aus dem trockenen Auto. Die Fahrt führt weiter zum Strand, wo man stürmische Wellen aus der ersten Reihe sieht. Mittags und nachmittags besuchen Sie die Kapelle und die Kirche, die beide leicht erreichbar sind und Schutz vor dem Regen bieten.",
             "hu": "A nap az Espinho repülőtéren indul, ahol a repülőket gyakran a hangárban lehet megtekinteni. Ezután a lagúnához hajtunk; élvezze a kilátást a száraz autóból. Az út a strandhoz folytatódik, ahol az első sorból nézheti a viharos hullámokat. Délben és délután a kápolnát és a templomot látogatjuk meg, mindkettő könnyen megközelíthető és védelmet nyújt.",
             "ro": "Ziua începe la Aerodromul Espinho, unde avioanele pot fi văzute adesea în hangar. Apoi mergeți la lagună; bucurați-vă de priveliște din mașina uscată. Drumul continuă spre plajă, unde vedeți valurile furtunoase din prima linie. La prânz și după-amiaza vizitați capela și biserica, ambele ușor accesibile și oferind adăpost.",
-            "en": "The day starts at Espinho Aerodrome, where planes can often be viewed in the hangar. Then head to the lagoon; enjoy the view from the dry car. The drive continues to the beach, where you can see stormy waves from the front row. Noon and afternoon visit the chapel and church, both easily accessible and offering shelter."
+            "en": "The day starts at Espinho Aerodrome, where planes can often be viewed in the hangar. Then head to the lagoon; enjoy the view from the dry car. The drive continues to the beach, where you can see stormy waves from the front row. Noon and afternoon visit the chapel and church, both easily accessible and offering shelter.",
+            "pt": "O dia começa no Aeródromo de Espinho, onde frequentemente se podem ver aviões no hangar. Depois dirija‑se à lagoa; aprecie a vista a partir do carro seco. A viagem continua até à praia, onde pode ver ondas agitadas em primeira fila. Ao meio‑dia e à tarde visite a capela e a igreja, ambas facilmente acessíveis e oferecendo abrigo."
           },
           "stops": [
             {
@@ -1326,7 +1435,8 @@
                 "de": "Die Hangars bieten guten Schutz, während man die Flugzeuge betrachtet.",
                 "hu": "A hangárok jó védelmet nyújtanak a repülők megtekintése közben.",
                 "ro": "Hangarele oferă protecție bună în timp ce admirați avioanele.",
-                "en": "The hangars offer good protection while viewing the aircraft."
+                "en": "The hangars offer good protection while viewing the aircraft.",
+                "pt": "Os hangares oferecem boa proteção enquanto observa as aeronaves."
               }
             },
             {
@@ -1335,7 +1445,8 @@
                 "de": "Es gibt Parkplätze mit direktem Blick auf das Wasser.",
                 "hu": "Vannak parkolóhelyek közvetlen kilátással a vízre.",
                 "ro": "Există locuri de parcare cu vedere directă spre apă.",
-                "en": "There are parking spots with a direct view of the water."
+                "en": "There are parking spots with a direct view of the water.",
+                "pt": "Existem lugares de estacionamento com vista direta para a água."
               }
             },
             {
@@ -1344,7 +1455,8 @@
                 "de": "Nehmen Sie einen großen Schirm mit, wenn Sie die Stege kurz betreten.",
                 "hu": "Vigyen magával nagy ernyőt, ha rövid időre a pallókra lép.",
                 "ro": "Luați o umbrelă mare dacă doriți să pășiți scurt pe pasarele.",
-                "en": "Take a large umbrella if you step onto the boardwalks briefly."
+                "en": "Take a large umbrella if you step onto the boardwalks briefly.",
+                "pt": "Leve um grande guarda‑chuva se for pisar os passadiços brevemente."
               }
             },
             {
@@ -1353,7 +1465,8 @@
                 "de": "Parken Sie direkt an der Promenade für das beste 'Storm-Watching'.",
                 "hu": "Parkoljon közvetlenül a sétánynál a legjobb viharfigyeléshez.",
                 "ro": "Parcați direct lângă promenadă pentru cea mai bună observare a furtunii.",
-                "en": "Park right by the promenade for the best storm-watching."
+                "en": "Park right by the promenade for the best storm-watching.",
+                "pt": "Estacione junto à promenade para a melhor vista das tempestades."
               }
             },
             {
@@ -1362,7 +1475,8 @@
                 "de": "Ein sehr kurzer Weg vom Parkplatz zur Kapellentür.",
                 "hu": "Nagyon rövid út a parkolótól a kápolna ajtajáig.",
                 "ro": "Un drum foarte scurt de la parcare până la ușa capelei.",
-                "en": "A very short walk from the parking lot to the chapel door."
+                "en": "A very short walk from the parking lot to the chapel door.",
+                "pt": "Uma caminhada muito curta do parque de estacionamento até à porta da capela."
               }
             },
             {
@@ -1371,7 +1485,8 @@
                 "de": "In der Nähe der Kirche gibt es meist ausreichend Parkraum.",
                 "hu": "A templom közelében általában elegendő parkolóhely áll rendelkezésre.",
                 "ro": "În apropierea bisericii există de obicei suficiente locuri de parcare.",
-                "en": "There is usually sufficient parking available near the church."
+                "en": "There is usually sufficient parking available near the church.",
+                "pt": "Geralmente há estacionamento suficiente perto da igreja."
               }
             },
             {
@@ -1380,7 +1495,8 @@
                 "de": "Das Denkmal kann auch gut im Vorbeifahren betrachtet werden.",
                 "hu": "Az emlékmű elhaladás közben, az autóból is jól megtekinthető.",
                 "ro": "Monumentul poate fi admirat bine și din mers, din mașină.",
-                "en": "The monument can also be viewed well while driving past."
+                "en": "The monument can also be viewed well while driving past.",
+                "pt": "O monumento também pode ser visto bem ao passar de carro."
               }
             }
           ],
@@ -1408,6 +1524,12 @@
               "Visibility can be limited on the coast during heavy rain.",
               "Use parking spots close to the attractions.",
               "Keep windows slightly open to prevent fogging."
+            ],
+            "pt": [
+              "Cuidado com poças em zonas mais baixas junto à praia.",
+              "A visibilidade pode ficar limitada na costa durante chuva intensa.",
+              "Use lugares de estacionamento próximos das atrações.",
+              "Mantenha as janelas ligeiramente abertas para evitar embaciamento."
             ]
           }
         },
@@ -1416,7 +1538,8 @@
             "de": "Ein klarer Wintermorgen beginnt am Flugplatz Espinho. Die Fahrt führt danach durch die ruhige Winterlandschaft zur Lagune. Mittags genießen Sie den weiten Strand von Esmoriz, der im Winterlicht besonders fotogen ist. Nachmittags besuchen Sie die Kapelle und die Kirche. Da es früh dunkel wird, bleibt abends Zeit für ein gemütliches Essen im Ortszentrum von Esmoriz.",
             "hu": "Tiszta téli reggel indul az Espinho repülőtéren. Az út ezután a csendes téli tájon át vezet a lagúnához. Délben élvezze Esmoriz tágas strandját, amely a téli fényben különösen fotogén. Délután a kápolnát és a templomot látogatjuk meg. Mivel korán sötétedik, az este alkalmas egy hangulatos vacsorára Esmoriz központjában.",
             "ro": "O dimineață senină de iarnă începe la Aerodromul Espinho. Drumul continuă apoi prin peisajul liniștit spre lagună. La prânz, bucurați-vă de plaja întinsă, care este deosebit de fotogenică în lumina iernii. După-amiaza vizitați capela și biserica. Deoarece se întunecă devreme, seara este perfectă pentru o cină plăcută în centru.",
-            "en": "A clear winter morning starts at Espinho Aerodrome. The drive then leads through the quiet winter landscape to the lagoon. At noon, enjoy Esmoriz's wide beach, which is particularly photogenic in the winter light. Afternoon visit the chapel and the church. Since it gets dark early, the evening is perfect for a cozy dinner in the center."
+            "en": "A clear winter morning starts at Espinho Aerodrome. The drive then leads through the quiet winter landscape to the lagoon. At noon, enjoy Esmoriz's wide beach, which is particularly photogenic in the winter light. Afternoon visit the chapel and the church. Since it gets dark early, the evening is perfect for a cozy dinner in the center.",
+            "pt": "Uma manhã clara de inverno começa no Aeródromo de Espinho. A viagem segue pela tranquila paisagem invernal até à lagoa. Ao meio‑dia, desfrute da extensa praia de Esmoriz, particularmente fotogénica com a luz de inverno. À tarde visite a capela e a igreja. Como anoitece cedo, a noite é perfeita para um jantar acolhedor no centro."
           },
           "stops": [
             {
@@ -1425,7 +1548,8 @@
                 "de": "Die klare Winterluft sorgt für beste Sichtweiten auf dem Flugfeld.",
                 "hu": "A tiszta téli levegő kiváló látási viszonyokat biztosít a kifutópályán.",
                 "ro": "Aerul curat de iarnă asigură cea mai bună vizibilitate pe aerodrom.",
-                "en": "The clear winter air ensures the best visibility on the airfield."
+                "en": "The clear winter air ensures the best visibility on the airfield.",
+                "pt": "O ar claro de inverno assegura a melhor visibilidade no aeródromo."
               }
             },
             {
@@ -1434,7 +1558,8 @@
                 "de": "Ein kurzer Stopp am Aussichtspunkt lohnt sich für Naturfotografen.",
                 "hu": "Egy rövid megálló a kilátópontnál megéri a természetfotósoknak.",
                 "ro": "O scurtă oprire la punctul de belvedere merită pentru fotografii de natură.",
-                "en": "A short stop at the viewpoint is worthwhile for nature photographers."
+                "en": "A short stop at the viewpoint is worthwhile for nature photographers.",
+                "pt": "Uma paragem curta no miradouro vale a pena para fotógrafos de natureza."
               }
             },
             {
@@ -1443,7 +1568,8 @@
                 "de": "Die Parkplätze sind im Winter leerer, man ist schneller am Startpunkt.",
                 "hu": "A parkolók télen üresebbek, gyorsabban eljuthatunk a kezdőponthoz.",
                 "ro": "Parcările sunt mai goale iarna, se ajunge mai repede la punctul de plecare.",
-                "en": "Parking lots are emptier in winter; you reach the starting point faster."
+                "en": "Parking lots are emptier in winter; you reach the starting point faster.",
+                "pt": "Os parques de estacionamento estão menos cheios no inverno; chega‑se mais rapidamente ao ponto de partida."
               }
             },
             {
@@ -1452,7 +1578,8 @@
                 "de": "Der Parkplatz direkt am Meer bietet einen tollen Platz für den Sonnenuntergang.",
                 "hu": "A közvetlen tengerparti parkoló remek hely a naplemente megtekintéséhez.",
                 "ro": "Parcarea direct de lângă mare oferă un loc minunat pentru apus.",
-                "en": "The parking lot directly by the sea offers a great spot for sunset."
+                "en": "The parking lot directly by the sea offers a great spot for sunset.",
+                "pt": "O parque de estacionamento diretamente junto ao mar oferece um ótimo local para ver o pôr do sol."
               }
             },
             {
@@ -1461,7 +1588,8 @@
                 "de": "Bewundern Sie die weiße Kapelle vor dem tiefblauen Winterhimmel.",
                 "hu": "Csodálja meg a fehér kápolnát a mélykék téli égbolt előtt.",
                 "ro": "Admirați capela albă pe fundalul cerului albastru intens de iarnă.",
-                "en": "Admire the white chapel against the deep blue winter sky."
+                "en": "Admire the white chapel against the deep blue winter sky.",
+                "pt": "Admire a capela branca contra o profundo céu azul de inverno."
               }
             },
             {
@@ -1470,7 +1598,8 @@
                 "de": "Die Azulejos wirken in der Wintersonne besonders farbenfroh.",
                 "hu": "Az azulejo csempék a téli napsütésben különösen színgazdagok.",
                 "ro": "Plăcile de azulejo par deosebit de colorate în soarele de iarnă.",
-                "en": "The azulejos look particularly colorful in the winter sun."
+                "en": "The azulejos look particularly colorful in the winter sun.",
+                "pt": "Os azulejos parecem particularmente coloridos ao sol de inverno."
               }
             },
             {
@@ -1479,7 +1608,8 @@
                 "de": "Ein schöner Ort für einen kurzen historischen Stopp im Stadtzentrum.",
                 "hu": "Szép hely egy rövid történelmi megállóhoz a városközpontban.",
                 "ro": "Un loc frumos pentru o scurtă oprire istorică în centrul orașului.",
-                "en": "A nice place for a short historical stop in the town center."
+                "en": "A nice place for a short historical stop in the town center.",
+                "pt": "Um bom local para uma breve paragem histórica no centro da vila."
               }
             }
           ],
@@ -1507,6 +1637,12 @@
               "The low sun can be blinding when driving westward.",
               "Enjoy hassle-free parking during the off-season.",
               "Check tire pressure, as it can drop in cold weather."
+            ],
+            "pt": [
+              "Aqueça o carro antes de sair para as caminhadas costeiras.",
+              "O sol baixo pode cegar ao conduzir para oeste.",
+              "Desfrute de estacionamento sem problemas na época baixa.",
+              "Verifique a pressão dos pneus, pois pode baixar com o frio."
             ]
           }
         }
@@ -1525,7 +1661,8 @@
             "de": "Hauptkirche von Esmoriz",
             "hu": "Esmoriz főtemploma",
             "ro": "Biserica Principală din Esmoriz",
-            "en": "Main Church of Esmoriz"
+            "en": "Main Church of Esmoriz",
+            "pt": "Igreja Matriz de Esmoriz"
           },
           "category": "churches/cathedrals",
           "coords": [
@@ -1541,7 +1678,8 @@
             "de": "Nehmen Sie einen Bus zum zentralen Platz, um Ihren ersten Cluster zu beginnen.",
             "hu": "Menjen busszal a központi térre az első klaszter megkezdéséhez.",
             "ro": "Luați un autobuz spre piața centrală pentru a începe primul cluster.",
-            "en": "Take a bus to the central square to begin your first cluster."
+            "en": "Take a bus to the central square to begin your first cluster.",
+            "pt": "Apanhe um autocarro até à praça central para começar o seu primeiro núcleo."
           }
         },
         {
@@ -1549,7 +1687,8 @@
             "de": "Denkmal für den Küfer",
             "hu": "Kádármester emlékmű",
             "ro": "Monumentul Dogarului",
-            "en": "Monument to the Cooper"
+            "en": "Monument to the Cooper",
+            "pt": "Monumento ao Cooper"
           },
           "category": "monuments/statues",
           "coords": [
@@ -1565,7 +1704,8 @@
             "de": "Ein kurzer Spaziergang von der Kirche aus.",
             "hu": "Rövid séta a templomtól.",
             "ro": "O scurtă plimbare de la biserică.",
-            "en": "A short walk from the church."
+            "en": "A short walk from the church.",
+            "pt": "A curta caminhada a partir da igreja."
           }
         },
         {
@@ -1573,7 +1713,8 @@
             "de": "Strand von Esmoriz",
             "hu": "Esmoriz strandja",
             "ro": "Plaja din Esmoriz",
-            "en": "Esmoriz Beach"
+            "en": "Esmoriz Beach",
+            "pt": "Praia de Esmoriz"
           },
           "category": "parks/promenades/beaches",
           "coords": [
@@ -1589,7 +1730,8 @@
             "de": "Nehmen Sie einen Bus Richtung Küste. Zeit für den Strand und das Mittagessen.",
             "hu": "Menjen busszal a part felé. Itt az idő a strandra és ebédre.",
             "ro": "Luați un autobuz spre coastă. Timp pentru plajă și prânz.",
-            "en": "Catch a bus towards the coast. Time for the beach and lunch."
+            "en": "Catch a bus towards the coast. Time for the beach and lunch.",
+            "pt": "Apanhe um autocarro em direção à costa. Hora de praia e almoço."
           }
         },
         {
@@ -1597,7 +1739,8 @@
             "de": "Strandkapelle",
             "hu": "Tengerparti kápolna",
             "ro": "Capela de pe Plajă",
-            "en": "Chapel of the Beach"
+            "en": "Chapel of the Beach",
+            "pt": "Capela da Praia"
           },
           "category": "churches/cathedrals",
           "coords": [
@@ -1613,7 +1756,8 @@
             "de": "Spazieren Sie nach dem Mittagessen die Promenade entlang.",
             "hu": "Ebéd után sétáljon végig a sétányon.",
             "ro": "Plimbați-vă de-a lungul promenadei după prânz.",
-            "en": "Stroll down the promenade after lunch."
+            "en": "Stroll down the promenade after lunch.",
+            "pt": "Passeie pela promenade depois do almoço."
           }
         },
         {
@@ -1621,7 +1765,8 @@
             "de": "Lagune von Esmoriz (Barrinha de Esmoriz)",
             "hu": "Esmorizi lagúna",
             "ro": "Laguna Esmoriz",
-            "en": "Esmoriz Lagoon (Barrinha de Esmoriz)"
+            "en": "Esmoriz Lagoon (Barrinha de Esmoriz)",
+            "pt": "Lagoa de Esmoriz (Barrinha de Esmoriz)"
           },
           "category": "natural features (caves, viewpoints)",
           "coords": [
@@ -1637,7 +1782,8 @@
             "de": "Ein weiterer Bus bringt Sie zum letzten Natur-Cluster des Tages.",
             "hu": "Egy másik busz elviszi a nap utolsó természeti klaszteréhez.",
             "ro": "Un alt autobuz vă va duce la ultimul cluster natural al zilei.",
-            "en": "Another bus ride takes you to the final nature cluster of the day."
+            "en": "Another bus ride takes you to the final nature cluster of the day.",
+            "pt": "Outro percurso de autocarro leva‑o ao último núcleo natural do dia."
           }
         },
         {
@@ -1645,7 +1791,8 @@
             "de": "Holzstege der Lagune (Passadiços da Barrinha)",
             "hu": "Lagúna pallói",
             "ro": "Podețele Lagunei",
-            "en": "Boardwalks of the Lagoon (Passadiços da Barrinha)"
+            "en": "Boardwalks of the Lagoon (Passadiços da Barrinha)",
+            "pt": "Passadiços da Barrinha (Boardwalks da Lagoa)"
           },
           "category": "parks/promenades/beaches",
           "coords": [
@@ -1661,7 +1808,8 @@
             "de": "Erkunden Sie die Umgebung der Lagune zu Fuß auf den Holzstegen.",
             "hu": "Fedezze fel gyalog a lagúna környékét a pallókon.",
             "ro": "Explorați zona lagunei pe jos, pe podețe.",
-            "en": "Explore the lagoon area on foot using the boardwalks."
+            "en": "Explore the lagoon area on foot using the boardwalks.",
+            "pt": "Explore a área da lagoa a pé usando os passadiços."
           }
         }
       ],
@@ -1669,7 +1817,8 @@
         "de": "Ihr Tag beginnt mit einer Busfahrt ins Zentrum von Esmoriz, wo Sie die Hauptkirche und das Küferdenkmal zu Fuß erkunden. Am Vormittag bringt Sie ein weiterer Bus zum Strandcluster für ein Mittagessen am Meer und einen Besuch der Strandkapelle. Am Nachmittag fahren Sie mit dem Bus zur Barrinha-Lagune. Schließen Sie Ihren Tag mit einem ruhigen Spaziergang entlang der Holzstege ab, bevor Sie den Bus zurück ins Zentrum nehmen.",
         "hu": "A nap egy buszúttal kezdődik Esmoriz központjába, ahol gyalog felfedezi a főtemplomot és a Kádármester emlékművet. Délelőtt egy másik busz elviszi a strandklaszterhez egy tengerparti ebédre és a tengerparti kápolna meglátogatására. Délután busszal utazik a Barrinha lagúnához. Zárja a napot egy békés sétával a pallókon, mielőtt visszabuszozna a központba.",
         "ro": "Ziua dvs. începe cu o călătorie cu autobuzul spre centrul orașului Esmoriz, explorând pe jos Biserica Principală și Monumentul Dogarului. Dimineața, un alt autobuz vă duce la clusterul de plajă pentru un prânz la malul mării și o vizită la Capela de pe Plajă. După-amiaza este pentru o călătorie cu autobuzul la laguna Barrinha. Încheiați ziua cu o plimbare liniștită de-a lungul podețelor înainte de a lua autobuzul înapoi în centru.",
-        "en": "Your day starts with a bus ride to Esmoriz center, exploring the Main Church and Cooper's Monument on foot. In the morning, another bus takes you to the beach cluster for a seaside lunch and a visit to the Beach Chapel. The afternoon is for a bus journey to the Barrinha lagoon. Conclude your day with a peaceful walk along the boardwalks before catching a bus back to the center."
+        "en": "Your day starts with a bus ride to Esmoriz center, exploring the Main Church and Cooper's Monument on foot. In the morning, another bus takes you to the beach cluster for a seaside lunch and a visit to the Beach Chapel. The afternoon is for a bus journey to the Barrinha lagoon. Conclude your day with a peaceful walk along the boardwalks before catching a bus back to the center.",
+        "pt": "O seu dia começa com um autocarro até ao centro de Esmoriz, explorando a Igreja Matriz e o Monumento ao Cooper a pé. De manhã, outro autocarro leva‑o ao núcleo da praia para um almoço à beira‑mar e uma visita à Capela da Praia. A tarde é dedicada a um percurso de autocarro até à lagoa da Barrinha. Conclua o dia com uma tranquila caminhada pelos passadiços antes de apanhar o autocarro de regresso ao centro."
       },
       "gastro_picks": {
         "de": [
@@ -1809,6 +1958,11 @@
           "Buy a day pass for the bus if available to save money.",
           "Check bus schedules in advance, especially on weekends.",
           "Have your destination or stop number ready to show the driver."
+        ],
+        "pt": [
+          "Compre um passe diário de autocarro, se disponível, para poupar dinheiro.",
+          "Consulte os horários dos autocarros com antecedência, especialmente ao fim de semana.",
+          "Tenha o seu destino ou número de paragem pronto para mostrar ao condutor."
         ]
       },
       "variants": {
@@ -1817,7 +1971,8 @@
             "de": "Die Anreise mit der Bahn nach Esmoriz schützt vor dem Regen. Der erste Halt ist die Kirche, nur wenige Gehminuten vom Bahnhof entfernt. Mittags geht es mit dem Bus oder einem kurzen Spaziergang zum Denkmal und weiter zum Strand. Suchen Sie sich ein gemütliches Restaurant für den Nachmittag. Die Lagune besuchen Sie am besten bei einer Regenpause, bevor der Zug Sie wieder zurückbringt.",
             "hu": "A vonattal való érkezés Esmorizba megvéd az esőtől. Az első megálló a templom, csupán pár perc sétára a vasútállomástól. Délben busszal vagy egy rövid sétával jutunk el az emlékműhöz, majd a strandhoz. Keressen egy hangulatos éttermet délutánra. A lagúnát legjobb egy esőszünetben felkeresni, mielőtt a vonat hazaviszi.",
             "ro": "Sosirea cu trenul în Esmoriz vă protejează de ploaie. Prima oprire este biserica, la doar câteva minute de mers de la gară. La prânz, mergeți cu autobuzul sau pe jos spre monument și apoi la plajă. Căutați un restaurant primitor pentru după-amiază. Laguna e de vizitat într-o pauză de ploaie, înainte de întoarcerea cu trenul.",
-            "en": "Arriving by train in Esmoriz protects you from the rain. The first stop is the church, just a few minutes' walk from the station. At noon, take a bus or a short walk to the monument and then to the beach. Find a cozy restaurant for the afternoon. Visit the lagoon during a break in the rain before the train takes you back."
+            "en": "Arriving by train in Esmoriz protects you from the rain. The first stop is the church, just a few minutes' walk from the station. At noon, take a bus or a short walk to the monument and then to the beach. Find a cozy restaurant for the afternoon. Visit the lagoon during a break in the rain before the train takes you back.",
+            "pt": "Chegar de comboio a Esmoriz protege-o da chuva. A primeira paragem é a igreja, a poucos minutos a pé da estação. Ao meio-dia, apanhe um autocarro ou faça uma curta caminhada até ao monumento e depois até à praia. Encontre um restaurante acolhedor para a tarde. Visite a lagoa durante uma pausa na chuva antes do comboio o levar de volta."
           },
           "stops": [
             {
@@ -1826,7 +1981,8 @@
                 "de": "Vom Bahnhof Esmoriz aus ist die Kirche schnell und trocken erreichbar.",
                 "hu": "Az esmorizi vasútállomástól a templom gyorsan és szárazon elérhető.",
                 "ro": "De la gara Esmoriz, biserica este accesibilă rapid și fără multă ploaie.",
-                "en": "The church is quickly and dryly reachable from Esmoriz station."
+                "en": "The church is quickly and dryly reachable from Esmoriz station.",
+                "pt": "A igreja é rapidamente e sem molhar alcançável a partir da estação de Esmoriz."
               }
             },
             {
@@ -1835,7 +1991,8 @@
                 "de": "Ein zentraler Punkt, der oft von lokalen Buslinien angefahren wird.",
                 "hu": "Központi pont, amelyet gyakran érintenek a helyi buszjáratok.",
                 "ro": "Un punct central unde opresc adesea liniile de autobuz locale.",
-                "en": "A central point often served by local bus lines."
+                "en": "A central point often served by local bus lines.",
+                "pt": "Um ponto central frequentemente servido por linhas de autocarro locais."
               }
             },
             {
@@ -1844,7 +2001,8 @@
                 "de": "Nutzen Sie den Bus zur Küste, um den langen Fußweg im Regen zu vermeiden.",
                 "hu": "Használja a parti buszt, hogy elkerülje a hosszú gyaloglást az esőben.",
                 "ro": "Luați autobuzul spre coastă pentru a evita mersul lung pe jos prin ploaie.",
-                "en": "Use the bus to the coast to avoid the long walk in the rain."
+                "en": "Use the bus to the coast to avoid the long walk in the rain.",
+                "pt": "Use o autocarro para a costa para evitar a longa caminhada na chuva."
               }
             },
             {
@@ -1853,7 +2011,8 @@
                 "de": "In der Nähe gibt es überdachte Bushaltestellen zum Warten.",
                 "hu": "A közelben fedett buszmegállók találhatók a várakozáshoz.",
                 "ro": "În apropiere există stații de autobuz acoperite pentru așteptare.",
-                "en": "Covered bus stops are available nearby for waiting."
+                "en": "Covered bus stops are available nearby for waiting.",
+                "pt": "Há abrigos de autocarro cobertos nas imediações para aguardar."
               }
             },
             {
@@ -1862,7 +2021,8 @@
                 "de": "Planen Sie die Rückfahrt zum Bahnhof rechtzeitig ein.",
                 "hu": "Tervezze meg időben a visszautat a vasútállomásra.",
                 "ro": "Planificați din timp întoarcerea spre gară.",
-                "en": "Plan your return trip to the station in good time."
+                "en": "Plan your return trip to the station in good time.",
+                "pt": "Planeie a sua viagem de regresso à estação com antecedência."
               }
             },
             {
@@ -1871,7 +2031,8 @@
                 "de": "Ein Taxi oder Ride-Sharing kann bei starkem Regen eine gute Option sein.",
                 "hu": "A taxi vagy közösségi autózás jó opció lehet erős esőben.",
                 "ro": "Un taxi sau ride-sharing poate fi o opțiune bună pe ploaie torențială.",
-                "en": "A taxi or ride-sharing can be a good option during heavy rain."
+                "en": "A taxi or ride-sharing can be a good option during heavy rain.",
+                "pt": "Um táxi ou serviço de ride-sharing pode ser uma boa opção durante chuva forte."
               }
             }
           ],
@@ -1899,6 +2060,12 @@
               "Wear durable, waterproof shoes for walks between stops.",
               "The 'CP' app shows real-time delays due to storms.",
               "Many local bus stops do not provide sufficient rain protection."
+            ],
+            "pt": [
+              "Verifique com antecedência a frequência dos comboios da Linha do Norte.",
+              "Use calçado resistente e impermeável para as caminhadas entre paragens.",
+              "A aplicação CP mostra atrasos em tempo real devido a tempestades.",
+              "Muitas paragens de autocarro locais não oferecem proteção suficiente contra a chuva."
             ]
           }
         },
@@ -1907,7 +2074,8 @@
             "de": "Die Bahnfahrt durch die winterliche Küstenlandschaft ist entspannend. Vormittags besuchen Sie die Kirche und das Küfer-Denkmal im Ortskern. Mittags bringt Sie der Bus zum Strand, wo die frische Winterbrise wartet. Der Nachmittag gehört der Lagune und den Holzstegen. Achten Sie auf die Fahrpläne für die Rückfahrt, da es nach Sonnenuntergang am Bahnhof ungemütlich werden kann.",
             "hu": "A vonatozás a téli parti tájon át pihentető. Délelőtt a templomot és a Kádár-emlékművet látogatjuk meg a központban. Délben a busz elviszi a strandhoz, ahol friss téli szellő várja. A délután a lagúnáé és a fapallóké. Figyeljen a visszautat biztosító menetrendre, mert naplemente után a vasútállomáson barátságtalan lehet az idő.",
             "ro": "Călătoria cu trenul prin peisajul costier de iarnă este relaxantă. Dimineața vizitați biserica și Monumentul Dogarului în centru. La prânz, autobuzul vă duce la plajă, unde vă așteaptă briza proaspătă. După-amiaza aparține lagunei și pasarelelor. Atenție la orarul de întoarcere, deoarece poate fi neplăcut în gară după apus.",
-            "en": "The train ride through the wintry coastal landscape is relaxing. In the morning, visit the church and the Cooper monument in the center. At noon, the bus takes you to the beach, where a fresh winter breeze awaits. The afternoon belongs to the lagoon and the boardwalks. Keep an eye on the return schedules, as it can be uncomfortable at the station after sunset."
+            "en": "The train ride through the wintry coastal landscape is relaxing. In the morning, visit the church and the Cooper monument in the center. At noon, the bus takes you to the beach, where a fresh winter breeze awaits. The afternoon belongs to the lagoon and the boardwalks. Keep an eye on the return schedules, as it can be uncomfortable at the station after sunset.",
+            "pt": "A viagem de comboio pela paisagem costeira invernal é relaxante. De manhã, visite a igreja e o monumento Cooper no centro. Ao meio-dia, o autocarro leva-o à praia, onde uma fresca brisa de inverno o espera. A tarde pertence à lagoa e aos passadiços. Tenha atenção aos horários de retorno, pois pode ser desconfortável na estação após o anoitecer."
           },
           "stops": [
             {
@@ -1916,7 +2084,8 @@
                 "de": "Nutzen Sie den kurzen Fußweg vom Bahnhof als ersten Muntermacher.",
                 "hu": "Használja a vasútállomástól tartó rövid sétát ébresztőnek.",
                 "ro": "Folosiți scurta plimbare de la gară ca o primă înviorare.",
-                "en": "Use the short walk from the station as a first wake-up call."
+                "en": "Use the short walk from the station as a first wake-up call.",
+                "pt": "Use a curta caminhada desde a estação como um primeiro despertar."
               }
             },
             {
@@ -1925,7 +2094,8 @@
                 "de": "Ein guter Treffpunkt, falls Sie sich mit anderen Reisenden verabreden.",
                 "hu": "Jó találkozási pont, ha más utazókkal beszélt meg randevút.",
                 "ro": "Un punct bun de întâlnire dacă vă vedeți cu alți călători.",
-                "en": "A good meeting point if you're meeting other travelers."
+                "en": "A good meeting point if you're meeting other travelers.",
+                "pt": "Um bom ponto de encontro se vai encontrar com outros viajantes."
               }
             },
             {
@@ -1934,7 +2104,8 @@
                 "de": "Die Busse zur Praia fahren im Winter seltener, Fahrplan prüfen.",
                 "hu": "A strandra tartó buszok télen ritkábban járnak, ellenőrizze a menetrendet.",
                 "ro": "Autobuzele spre Praia circulă mai rar iarna, verificați orarul.",
-                "en": "Buses to the Praia run less frequently in winter; check the schedule."
+                "en": "Buses to the Praia run less frequently in winter; check the schedule.",
+                "pt": "Os autocarros para a Praia circulam com menos frequência no inverno; verifique o horário."
               }
             },
             {
@@ -1943,7 +2114,8 @@
                 "de": "Genießen Sie den Blick, bevor der nächste Bus zurück in den Ort kommt.",
                 "hu": "Élvezze a kilátást, mielőtt a következő busz visszaviszi a központba.",
                 "ro": "Bucurați-vă de priveliște înainte de următorul autobuz spre centru.",
-                "en": "Enjoy the view before the next bus back to town arrives."
+                "en": "Enjoy the view before the next bus back to town arrives.",
+                "pt": "Desfrute da vista antes do próximo autocarro de regresso à cidade chegar."
               }
             },
             {
@@ -1952,7 +2124,8 @@
                 "de": "Planen Sie genug Zeit ein, um zu Fuß zur nächsten Haltestelle zu gelangen.",
                 "hu": "Tervezzen elég időt a következő megállóig tartó gyalogláshoz.",
                 "ro": "Planificați suficient timp pentru a ajunge pe jos la următoarea stație.",
-                "en": "Plan enough time to walk to the next stop."
+                "en": "Plan enough time to walk to the next stop.",
+                "pt": "Planeie tempo suficiente para caminhar até à próxima paragem."
               }
             },
             {
@@ -1961,7 +2134,8 @@
                 "de": "Die Abenddämmerung an der Lagune ist wunderschön für Bahnfahrende.",
                 "hu": "A lagúnánál töltött alkonyat csodálatos élmény a vonattal utazóknak.",
                 "ro": "Amurgul la lagună este minunat pentru cei care călătoresc cu trenul.",
-                "en": "Dusk at the lagoon is beautiful for train travelers."
+                "en": "Dusk at the lagoon is beautiful for train travelers.",
+                "pt": "O crepúsculo na lagoa é bonito para os viajantes de comboio."
               }
             }
           ],
@@ -1989,6 +2163,12 @@
               "Use the 'Andante' card for seamless transit connections.",
               "Don't miss the last evening connection.",
               "Trains are often better heated than local buses."
+            ],
+            "pt": [
+              "As estações de comboio podem ser draughty no inverno; vista-se quente.",
+              "Use o cartão Andante para ligações de trânsito sem contratempos.",
+              "Não perca a última ligação da noite.",
+              "Os comboios costumam ter melhor aquecimento do que os autocarros locais."
             ]
           }
         }
