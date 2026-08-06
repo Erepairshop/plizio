@@ -25,6 +25,9 @@ def data_root(repo: Path) -> Path:
     return generated if generated.is_dir() else repo / "data"
 
 
+def normalized(value: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", (value or "").lower())
+
 def plain_text(value: str) -> str:
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", value))).strip()
 
@@ -78,13 +81,15 @@ def main() -> int:
     parser.add_argument("--language", required=True, help="Native sidecar language, e.g. it, es or pt")
     parser.add_argument("--only-missing", action="store_true",
                         help="Queue only sight fields the sidecar has not translated yet")
+    parser.add_argument("--sidecar-root", type=Path, default=None,
+                        help="Directory holding the native sidecars; defaults to <repo>/data/i18n/<language>. Use it when the rendered pages and the sidecars live in different trees.")
     parser.add_argument("--repair-missing-name-pois", action="store_true",
                         help="Queue only POIs whose linked sight name was missed by the v1 parser")
     args = parser.parse_args()
 
     repo = args.repo.resolve()
     data = data_root(repo)
-    sidecar_dir = data / "i18n" / args.language
+    sidecar_dir = args.sidecar_root.resolve() if args.sidecar_root else data / "i18n" / args.language
     url_index = load_json(data / "_poi-url-index.json", {})
     if not sidecar_dir.is_dir() or not url_index:
         raise SystemExit(f"Native sidecars or URL index missing under {data}")
@@ -102,6 +107,11 @@ def main() -> int:
             continue
         sidecar = load_json(sidecar_path, {})
         existing = sidecar.get("sights") if isinstance(sidecar.get("sights"), list) else []
+        existing_by_name = {
+            normalized(item.get("sourceName")): item
+            for item in existing
+            if isinstance(item, dict) and item.get("sourceName")
+        }
         sights, repaired_linked_name = extract_sights(page)
         if args.repair_missing_name_pois and not repaired_linked_name:
             continue
@@ -115,7 +125,12 @@ def main() -> int:
                 if not text:
                     continue
                 if args.only_missing:
-                    current = existing[index] if index < len(existing) else None
+                    # Match on sourceName first: a newly inserted sight shifts every
+                    # later index, and a stale index match would silently drop a
+                    # still-untranslated field.
+                    current = existing_by_name.get(normalized(sight["sourceName"]))
+                    if current is None and index < len(existing):
+                        current = existing[index]
                     if isinstance(current, dict) and str(current.get(part) or "").strip():
                         continue
                 key = f"core::{poi_id}::sights::{index}::{part}"
