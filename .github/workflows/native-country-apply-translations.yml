@@ -82,5 +82,8 @@ jobs:
             exit 0
           fi
           git commit -m "content(i18n): apply ${{ inputs.language }} native translations (${{ inputs.mode }})"
-          git pull --rebase origin ${GITHUB_REF_NAME}
+          # --autostash: the runner keeps a persistent checkout and its post-job
+          # hook deletes the tracked out/ tree, so every job starts with ~241k
+          # unstaged deletions and a plain rebase refuses to run.
+          git pull --rebase --autostash origin ${GITHUB_REF_NAME}
           git push origin HEAD:${GITHUB_REF_NAME}
