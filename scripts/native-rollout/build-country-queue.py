@@ -29,25 +29,37 @@ def data_root(repo: Path) -> Path:
     return generated if generated.is_dir() else repo / "data"
 
 
-def country_ids(data: Path, country_slug: str, rendered_lang: str | None = None) -> set[str]:
-    """POIs of a country, optionally only those that already render in `rendered_lang`.
-
-    The url-index is written from the pages the generator actually wrote, so a
-    language key present here means the page exists. fr/tr/hr are narrower than
-    their country: extraLangsFor() gates fr on an FR-* parent, tr on DE-*, and hr
-    on hr-native content. Queueing the whole country would translate strings for
-    pages that are never written.
-    """
+def country_ids(data: Path, country_slug: str) -> set[str]:
     index = load_json(data / "_poi-url-index.json", {})
-    ids = set()
-    for poi_id, urls in index.items():
-        urls = urls or {}
-        parts = str(urls.get("en", "")).split("/")
-        if len(parts) <= 2 or parts[2] != country_slug:
-            continue
-        if rendered_lang and not str(urls.get(rendered_lang, "")).strip():
-            continue
-        ids.add(poi_id)
+    return {
+        poi_id
+        for poi_id, urls in index.items()
+        if len(str((urls or {}).get("en", "")).split("/")) > 2
+        and str((urls or {}).get("en", "")).split("/")[2] == country_slug
+    }
+
+
+# Which POIs actually get a page in a given language, mirroring extraLangsFor()
+# in lib/seo/slugs.ts. The deployed url-index only records the four core langs
+# even though the generator writes fr/tr/hr pages, so it cannot answer this.
+PARENT_PREFIX_GATE = {"fr": "FR", "tr": "DE"}
+
+
+def rendered_ids(data: Path, ids: set[str], language: str, pois_file: str) -> set[str]:
+    prefix = PARENT_PREFIX_GATE.get(language)
+    if prefix:
+        pois = load_json(data / "pois" / pois_file, {}).get("pois", [])
+        return {
+            poi["id"]
+            for poi in pois
+            if poi.get("id") in ids and str(poi.get("parent") or "").startswith(prefix)
+        }
+    if language == "hr":
+        # hrLong: flat hr-native corpus, plus anything already sidecar-translated.
+        native = load_json(data / "poi-hr-native.json", {})
+        sidecars = {p.stem for p in (data / "i18n" / "hr").glob("*.json")} if (data / "i18n" / "hr").is_dir() else set()
+        return {poi_id for poi_id in ids if poi_id in native or poi_id in sidecars}
+    # it/es/pt are gated on the country alone.
     return ids
 
 
@@ -323,9 +335,10 @@ def main() -> int:
     parser.add_argument(
         "--only-rendered",
         action="store_true",
-        help="Restrict to POIs that already have a page in the target language "
-             "(url-index key). Use for fr/tr/hr, whose page set is narrower than "
-             "their country; omit when bootstrapping a language with no pages yet.",
+        help="Restrict to POIs that actually get a page in the target language, "
+             "mirroring extraLangsFor(). Use for fr/tr/hr, whose page set is "
+             "narrower than their country; omit when bootstrapping a language "
+             "whose pages do not exist yet.",
     )
     args = parser.parse_args()
     if args.language not in LANG_KEYS:
@@ -335,17 +348,20 @@ def main() -> int:
     args.output_dir.mkdir(parents=True, exist_ok=True)
 
     data = data_root(repo)
-    ids = country_ids(data, args.country_slug, LANGUAGE if args.only_rendered else None)
+    ids = country_ids(data, args.country_slug)
     if not ids:
-        rendered_note = (
-            f" No page renders in '{LANGUAGE}' yet — drop --only-rendered to bootstrap."
-            if args.only_rendered else ""
-        )
         raise SystemExit(
             f"No {args.country_slug} POIs found under {repo}. "
             "Use the generated-data working tree, not a clean Git checkout."
-            + rendered_note
         )
+    country_total = len(ids)
+    if args.only_rendered:
+        ids = rendered_ids(data, ids, LANGUAGE, args.pois_file)
+        if not ids:
+            raise SystemExit(
+                f"None of the {country_total} {args.country_slug} POIs render in "
+                f"'{LANGUAGE}'. Drop --only-rendered to bootstrap a new language."
+            )
     records, targets = [], {}
     if args.mode == "missing-descadv":
         collect_missing_descadv(repo, data, ids, records, targets)
@@ -367,6 +383,7 @@ def main() -> int:
         "country": args.country_slug,
         "language": LANGUAGE,
         "onlyRendered": bool(args.only_rendered),
+        "countryPoiCount": country_total,
         "poiCount": len(ids),
         "existingSidecars": len(existing),
         "fileCounts": file_counts,
