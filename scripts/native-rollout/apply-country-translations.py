@@ -189,6 +189,16 @@ def main() -> int:
             temporary.write_text(serialize_like(path, value), encoding="utf-8")
             temporary.replace(path)
 
+    # Only a minority of the targets land in i18n/<language>/; the layer kinds
+    # write into itinerary/, city-tips/, poi-practical/ and poi-yearly-highlights.
+    # The caller stages exactly this list, so a newly added layer cannot silently
+    # stay out of the commit.
+    listing = work / "written-files.txt"
+    listing.write_text(
+        "".join(f"{path.relative_to(repo).as_posix()}\n" for path in sorted(documents)),
+        encoding="utf-8",
+    )
+
     summary = {
         "language": language,
         "mode": "write" if args.write else "dry-run",

@@ -59,10 +59,12 @@ jobs:
         if: inputs.write == 'true'
         run: |
           set -euo pipefail
-          DIR="public/data/i18n/${{ inputs.language }}"
-          COUNT=$(find "$DIR" -name '*.json' | wc -l)
-          echo "${{ inputs.language }} sidecars: $COUNT"
-          find "$DIR" -name '*.json' -print0 \
+          WORK="/home/erik/plizio-translations/${{ inputs.language }}-${{ inputs.mode }}-20260807"
+          LIST="$WORK/written-files.txt"
+          echo "written files: $(wc -l < "$LIST")"
+          # Validate every file the apply touched, not just the i18n sidecars:
+          # most of the translation lands in itinerary/, city-tips/ and friends.
+          tr '\n' '\0' < "$LIST" \
             | xargs -0 -n1 -P4 python3 -c 'import json,sys; json.load(open(sys.argv[1],encoding="utf-8"))'
           # No `| head` here: git dies on SIGPIPE and the step fails under `set -e`.
           CHANGED=$(git status --porcelain | wc -l)
@@ -76,7 +78,10 @@ jobs:
           set -euo pipefail
           git config user.name "plizio-azure-bot"
           git config user.email "borota25@gmail.com"
-          git add "public/data/i18n/${{ inputs.language }}"
+          WORK="/home/erik/plizio-translations/${{ inputs.language }}-${{ inputs.mode }}-20260807"
+          # Stage exactly what the apply wrote. Staging only i18n/<lang> would
+          # drop the layer files, which carry the majority of the translations.
+          git add --pathspec-from-file="$WORK/written-files.txt"
           if git diff --cached --quiet; then
             echo "No translation changes"
             exit 0
