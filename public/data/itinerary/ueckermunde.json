@@ -21,7 +21,8 @@
             "de": "Schloss Ueckermünde",
             "hu": "Ueckermünde Kastély",
             "ro": "Castelul Ueckermünde",
-            "en": "Ueckermünde Castle"
+            "en": "Ueckermünde Castle",
+            "tr": "Ueckermünde Castle"
           },
           "coords": [
             14.048645,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie das letzte erhaltene Pommernschloss auf deutschem Boden, dessen Museum spannende Regionalgeschichte bietet, und achten Sie auf den historischen Schlossturm für tolle Fotos.",
             "hu": "Csodálja meg a német területen fennmaradt utolsó pomerániai kastélyt és annak helytörténeti múzeumát, és ne hagyja ki a történelmi torony fotózását sem a látogatás során.",
             "ro": "Admirați ultimul castel pomeranian păstrat pe teritoriul german, al cărui muzeu oferă o istorie regională fascinantă, și asigurați-vă că fotografiați turnul său istoric.",
-            "en": "Admire the last surviving Pomeranian castle on German soil, whose museum offers fascinating regional history, and make sure to photograph its historic tower for great memories."
+            "en": "Admire the last surviving Pomeranian castle on German soil, whose museum offers fascinating regional history, and make sure to photograph its historic tower for great memories.",
+            "tr": "Almanya topraklarındaki son kalan Pommern kalesine hayran kalın; müzesi büyüleyici bölgesel tarih sunar ve hatıra için tarihi kulesinin fotoğrafını çekmeyi unutmayın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kulturspeicher",
             "hu": "Kulturspeicher Magtár",
             "ro": "Grânarul Cultural",
-            "en": "Kulturspeicher"
+            "en": "Kulturspeicher",
+            "tr": "Kulturspeicher"
           },
           "coords": [
             14.046846,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie maritime Geschichte und wechselnde Kunstausstellungen in diesem liebevoll restaurierten Getreidespeicher, wobei Sie im Erdgeschoss oft lokale Souvenirs finden.",
             "hu": "Fedezze fel a tengerészeti történelmet és a művészeti kiállításokat ebben a szépen felújított magtárban, a földszinten pedig helyi kézműves szuveníreket is találhat.",
             "ro": "Descoperiți istoria maritimă și expozițiile de artă în acest grânar frumos restaurat, iar la parter veți găsi adesea suveniruri locale autentice foarte atractive.",
-            "en": "Discover maritime history and changing art exhibitions in this beautifully restored granary, and be sure to check out the ground floor for unique local souvenirs."
+            "en": "Discover maritime history and changing art exhibitions in this beautifully restored granary, and be sure to check out the ground floor for unique local souvenirs.",
+            "tr": "Bu güzel restore edilmiş ambarın içinde denizcilik tarihini ve değişen sanat sergilerini keşfedin; zemin katı benzersiz yerel hediyelikler için mutlaka kontrol edin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stadthafen",
             "hu": "Városi Kikötő",
             "ro": "Portul Orașului",
-            "en": "City Harbor"
+            "en": "City Harbor",
+            "tr": "City Harbor"
           },
           "coords": [
             14.050547,
@@ -82,7 +87,8 @@
             "de": "Spazieren Sie am idyllischen Stadthafen entlang, um die traditionellen Zeesenboote zu beobachten, und sichern Sie sich am besten frühzeitig einen Platz auf einer Bank am Wasser.",
             "hu": "Sétáljon végig az idilli városi kikötőn, figyelje meg a hagyományos halászhajókat, és foglaljon helyet egy vízparti padon a tökéletes kilátásért és a pihenésért.",
             "ro": "Plimbați-vă de-a lungul portului idilic al orașului pentru a observa bărcile tradiționale de pescuit și asigurați-vă că prindeți repede o bancă pe malul apei.",
-            "en": "Stroll along the idyllic city harbor to observe the traditional fishing boats, and make sure to grab a waterfront bench early for the best and most relaxing views."
+            "en": "Stroll along the idyllic city harbor to observe the traditional fishing boats, and make sure to grab a waterfront bench early for the best and most relaxing views.",
+            "tr": "Geleneksel balıkçı teknelerini izlemek için sakin şehir limanı boyunca yürüyün ve en iyi ve en rahat manzaralar için erken bir sahil bankı kapmayı unutmayın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Tierpark Ueckermünde",
             "hu": "Ueckermündei Állatkert",
             "ro": "Zoo Ueckermünde",
-            "en": "Ueckermünde Zoo"
+            "en": "Ueckermünde Zoo",
+            "tr": "Ueckermünde Zoo"
           },
           "coords": [
             14.028,
@@ -105,7 +112,8 @@
             "de": "Erleben Sie über 400 heimische und exotische Tiere in diesem weitläufigen Naturzoo, und nutzen Sie die Fütterungszeiten für ein besonders nahes Tiererlebnis.",
             "hu": "Tapasztalja meg a több mint 400 hazai és egzotikus állat közelségét ebben a tágas vadasparkban, és használja ki az etetési időket a legélvezetesebb látványért.",
             "ro": "Experimentați peste 400 de animale autohtone și exotice în această grădină zoologică spațioasă și profitați de orele de hrănire pentru o interacțiune optimă.",
-            "en": "Experience over 400 native and exotic animals in this spacious nature zoo, and be sure to check the daily feeding schedule for the most interactive viewing sessions."
+            "en": "Experience over 400 native and exotic animals in this spacious nature zoo, and be sure to check the daily feeding schedule for the most interactive viewing sessions.",
+            "tr": "Bu geniş doğa hayvanat bahçesinde 400’den fazla yerli ve egzotik hayvanı deneyimleyin; en etkileşimli izleme seansları için günlük besleme programını kontrol etmeyi unutmayın."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kattas",
             "hu": "Gyűrűsfarkú makik",
             "ro": "Lemuri",
-            "en": "Ring-tailed Lemurs"
+            "en": "Ring-tailed Lemurs",
+            "tr": "Ring-tailed Lemurs"
           },
           "coords": [
             14.026725,
@@ -128,7 +137,8 @@
             "de": "Beobachten Sie die lebhaften Lemuren aus Madagaskar in ihrem gut gestalteten Gehege, das besonders für Kinder ein absolutes Highlight des Zoobesuchs darstellt.",
             "hu": "Figyelje meg a Madagaszkárról származó élénk makikat a szépen kialakított kifutójukban, amely különösen a gyerekek számára jelent hatalmas élményt a látogatás során.",
             "ro": "Observați lemurii plini de viață din Madagascar în incinta lor bine amenajată, care este un punct de atracție absolut al grădinii zoologice, mai ales pentru copii.",
-            "en": "Observe the lively lemurs from Madagascar in their well-designed enclosure, which is an absolute highlight of the zoo visit, especially for young children."
+            "en": "Observe the lively lemurs from Madagascar in their well-designed enclosure, which is an absolute highlight of the zoo visit, especially for young children.",
+            "tr": "Madagaskar’dan canlı makileri iyi tasarlanmış barınaklarında izleyin; bu, özellikle küçük çocuklar için hayvanat bahçesi ziyaretinin mutlak bir gözdelerinden biridir."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Ziegen",
             "hu": "Kecskék",
             "ro": "Capre",
-            "en": "Goats"
+            "en": "Goats",
+            "tr": "Goats"
           },
           "coords": [
             14.02859,
@@ -151,7 +162,8 @@
             "de": "Besuchen Sie das Streichelgehege, um auf Tuchfühlung mit den zahmen Ziegen zu gehen, und kaufen Sie unbedingt das spezielle Futter am Zooeingang für dieses Erlebnis.",
             "hu": "Látogasson el az állatsimogatóba, hogy testközelből találkozzon a szelíd kecskékkel, és ehhez ne felejtsen el speciális eledelt venni a bejáratnál a legnagyobb mókáért.",
             "ro": "Vizitați padocul pentru mângâieri pentru a interacționa cu caprele blânde și nu uitați să cumpărați hrana specială de la intrare pentru a vă bucura de această experiență.",
-            "en": "Visit the petting enclosure to get up close with the tame goats, and make sure to buy the special animal feed at the zoo entrance to fully enjoy this experience."
+            "en": "Visit the petting enclosure to get up close with the tame goats, and make sure to buy the special animal feed at the zoo entrance to fully enjoy this experience.",
+            "tr": "Evcil keçilerle yakından etkileşim için dokunma alanını ziyaret edin ve bu deneyimin tadını çıkarmak için hayvanat bahçesi girişinde özel hayvan yemini satın almayı unutmayın."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Tag beginnt historisch im charmanten Schloss Ueckermünde und dem faszinierenden Kulturspeicher. Am Mittag schlendern wir gemütlich zum Stadthafen und atmen maritimes Flair. Der Nachmittag gehört der Natur im beliebten Ueckermünder Zoo. Den Abend lassen wir entspannt bei den Ziegen und Kattas im Tierpark ausklingen.",
         "hu": "A nap történelmileg kezdődik a bájos Ueckermünde kastélyban és a lenyűgöző magtárban. Délben kényelmesen elsétálunk a városi kikötőbe, hogy élvezzük a tengeri hangulatot. A délután a természeté a népszerű állatkertben. Az estét lazán, a makik és kecskék társaságában zárjuk a vadasparkban.",
         "ro": "Ziua începe istoric în fermecătorul castel Ueckermünde și în fascinantul grânar. La prânz, ne plimbăm pe îndelete spre portul orașului pentru atmosfera maritimă. După-amiaza aparține naturii la populara grădină zoologică. Seara se încheie relaxant alături de lemuri și capre în parc.",
-        "en": "The day begins historically in the charming Ueckermünde Castle and the fascinating granary. At noon, we stroll leisurely to the city harbor to absorb the maritime flair. The afternoon belongs to nature in the popular Ueckermünde Zoo. We end the evening relaxed with the lemurs and goats in the wildlife park."
+        "en": "The day begins historically in the charming Ueckermünde Castle and the fascinating granary. At noon, we stroll leisurely to the city harbor to absorb the maritime flair. The afternoon belongs to nature in the popular Ueckermünde Zoo. We end the evening relaxed with the lemurs and goats in the wildlife park.",
+        "tr": "Gün, şirin Ueckermünde Şatosu ve etkileyici kilerde tarihi bir başlangıç yapar. Öğlen denizci havayı hissetmek için şehirin limanına sakin bir yürüyüş yapıyoruz. Öğleden sonra popüler Ueckermünde Hayvanat Bahçesi’nde doğa zamanı. Akşamı vahşi yaşam parkındaki lemurlar ve keçilerle rahatça bitiriyoruz."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Morgen beginnt am herrschaftlichen Schloss, wo die dicken Mauern perfekten Schutz vor den ersten Regentropfen bieten. Mittags führt der Weg zum Kulturspeicher; in den trockenen Ausstellungsräumen lässt sich die regionale Kunst entspannt genießen. Am Nachmittag erkunden wir den Tierpark, wobei die verschiedenen Tierhäuser und Pavillons als ideale Unterstände dienen. Der Abend klingt am Stadthafen aus, wo die Lichter der Stadt im nassen Asphalt stimmungsvoll reflektieren.",
             "hu": "A reggel a fenséges kastélynál indul, ahol a vastag falak tökéletes védelmet nyújtanak az első esőcseppek elől. Délben az út a Kulturspeicherhez vezet; a száraz kiállítótermekben zavartalanul élvezhető a regionális művészet. Délután az állatkertet fedezzük fel, ahol a különféle állatházak és pavilonok ideális menedékként szolgálnak. Az este a városi kikötőben zárul, ahol a város fényei hangulatosan tükröződnek a nedves aszfalton.",
             "ro": "Dimineața începe la castelul maiestuos, unde zidurile groase oferă protecție perfectă împotriva primilor stropi de ploaie. La prânz, drumul duce la Kulturspeicher; în sălile de expoziție uscate, arta regională poate fi savurată în liniște. După-amiaza explorăm grădina zoologică, unde diferitele adăposturi pentru animale servesc drept refugii ideale. Seara se încheie în portul orașului, unde luminile se reflectă pe asfaltul umed.",
-            "en": "The morning begins at the grand castle, where thick walls provide perfect protection from the first raindrops. At noon, the path leads to the Kulturspeicher; the dry exhibition rooms allow for a relaxed enjoyment of regional art. In the afternoon, we explore the zoo, with various animal houses and pavilions serving as ideal shelters. The evening concludes at the city harbor, where the city lights reflect atmospherically on the wet asphalt."
+            "en": "The morning begins at the grand castle, where thick walls provide perfect protection from the first raindrops. At noon, the path leads to the Kulturspeicher; the dry exhibition rooms allow for a relaxed enjoyment of regional art. In the afternoon, we explore the zoo, with various animal houses and pavilions serving as ideal shelters. The evening concludes at the city harbor, where the city lights reflect atmospherically on the wet asphalt.",
+            "tr": "Sabah, ilk yağmur damlalarından koruyan kalın duvarlarıyla görkemli şatoda başlar. Öğlen yol Kulturspeicher’e çıkar; kapalı sergi salonları bölgesel sanatı sakince izlemeye olanak tanır. Öğleden sonra çeşitli hayvanevleri ve pavyonların ideal sığınak sunduğu hayvanat bahçesini keşfediyoruz. Akşam, şehir ışıklarının ıslak asfalt üzerinde atmosferik yansımalar yaptığı şehir limanında sona erer."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Schloss Ueckermünde",
                 "hu": "Ueckermünde Kastély",
                 "ro": "Castelul Ueckermünde",
-                "en": "Ueckermünde Castle"
+                "en": "Ueckermünde Castle",
+                "tr": "Ueckermünde Şatosu"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie den Schlossturm für einen Blick auf das verregnete Haff; drinnen bleiben Sie bei den Ausstellungen garantiert trocken.",
                 "hu": "Menjen fel a kastélytoronyba az esőáztatta öböl látványáért; bent a kiállítások alatt garantáltan száraz marad.",
                 "ro": "Urcați în turnul castelului pentru o vedere asupra lagunei sub ploaie; în interiorul expozițiilor veți rămâne garantat uscat.",
-                "en": "Climb the castle tower for a view of the rainy lagoon; inside the exhibitions, you are guaranteed to stay dry."
+                "en": "Climb the castle tower for a view of the rainy lagoon; inside the exhibitions, you are guaranteed to stay dry.",
+                "tr": "Yağmurlu lagünü görmek için şato kulesine tırmanın; sergiler içinde kesinlikle kuru kalırsınız."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Kulturspeicher",
                 "hu": "Kulturspeicher Magtár",
                 "ro": "Grânarul Cultural",
-                "en": "Kulturspeicher"
+                "en": "Kulturspeicher",
+                "tr": "Kulturspeicher"
               },
               "tip_5lang": {
                 "de": "Das alte Gemäuer bietet hervorragenden Schutz vor Schauern; nutzen Sie die Zeit, um die regionalen Kunstwerke in aller Ruhe zu bewundern.",
                 "hu": "A régi falak kiváló védelmet nyújtanak a záporok elől; használja ki az időt a regionális műalkotások nyugodt megcsodálására.",
                 "ro": "Zidurile vechi oferă o protecție excelentă împotriva averselor; profitați de timp pentru a admira în liniște operele de artă regionale.",
-                "en": "The old walls offer excellent protection from showers; take your time to admire the regional artworks in peace."
+                "en": "The old walls offer excellent protection from showers; take your time to admire the regional artworks in peace.",
+                "tr": "Eski duvarlar sağanaklardan mükemmel koruma sunar; bölgesel eserleri rahatça incelemek için zaman ayırın."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Stadthafen",
                 "hu": "Városi Kikötő",
                 "ro": "Portul Orașului",
-                "en": "City Harbor"
+                "en": "City Harbor",
+                "tr": "Şehir Limanı"
               },
               "tip_5lang": {
                 "de": "Der Hafen wirkt im Regen besonders mystisch; tragen Sie rutschfeste Schuhe, da die hölzernen Stege bei Nässe sehr glatt werden können.",
                 "hu": "A kikötő esőben különösen misztikus látvány; viseljen csúszásmentes cipőt, mert a fapallók nedvesen nagyon síkosak lehetnek.",
                 "ro": "Portul are un aspect deosebit de mistic sub ploaie; purtați încălțăminte aderentă, deoarece pontoanele de lemn devin foarte alunecoase.",
-                "en": "The harbor looks especially mystical in the rain; wear non-slip shoes as the wooden piers can become very slippery when wet."
+                "en": "The harbor looks especially mystical in the rain; wear non-slip shoes as the wooden piers can become very slippery when wet.",
+                "tr": "Liman yağmurda özellikle mistik görünür; tahta iskeleler ıslandığında çok kaygan olabileceği için kaymaz ayakkabı giyin."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Tierpark Ueckermünde",
                 "hu": "Ueckermündei Állatkert",
                 "ro": "Zoo Ueckermünde",
-                "en": "Ueckermünde Zoo"
+                "en": "Ueckermünde Zoo",
+                "tr": "Ueckermünde Hayvanat Bahçesi"
               },
               "tip_5lang": {
                 "de": "Viele Gehege haben überdachte Beobachtungspunkte; ein robuster Regenschirm ist für die Wege zwischen den Tierhäusern jedoch unverzichtbar.",
                 "hu": "Sok kifutó rendelkezik fedett megfigyelőponttal; egy strapabíró esernyő azonban nélkülözhetetlen az állatházak közötti utakon.",
                 "ro": "Multe țarcuri au puncte de observație acoperite; o umbrelă robustă este totuși indispensabilă pentru drumurile dintre adăposturile animalelor.",
-                "en": "Many enclosures have covered observation points; however, a sturdy umbrella is essential for the paths between the animal houses."
+                "en": "Many enclosures have covered observation points; however, a sturdy umbrella is essential for the paths between the animal houses.",
+                "tr": "Birçok hayvan çevresinde örtülü gözlem noktaları vardır; ancak hayvanevleri arasında yürürken sağlam bir şemsiye şart."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Kattas",
                 "hu": "Gyűrűsfarkú makik",
                 "ro": "Lemuri",
-                "en": "Ring-tailed Lemurs"
+                "en": "Ring-tailed Lemurs",
+                "tr": "Halemağzı Kuyruklu Lemurlar"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Lemuren in ihrem geschützten Innenbereich; die Tiere ziehen sich bei Regen oft in die gemütlichen, trockenen Ecken zurück.",
                 "hu": "Figyelje meg a makikat a védett belső terükben; az állatok esőben gyakran visszahúzódnak a barátságos, száraz sarkokba.",
                 "ro": "Observați lemurienii în zona lor interioară protejată; animalele se retrag adesea în colțurile uscate și primitoare când plouă.",
-                "en": "Observe the lemurs in their protected indoor area; the animals often retreat to cozy, dry corners when it rains."
+                "en": "Observe the lemurs in their protected indoor area; the animals often retreat to cozy, dry corners when it rains.",
+                "tr": "Lemurları korunaklı iç mekânlarında izleyin; hayvanlar yağmurda sıkça sıcak, kuru köşelere çekilir."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Ziegen",
                 "hu": "Kecskék",
                 "ro": "Capre",
-                "en": "Goats"
+                "en": "Goats",
+                "tr": "Keçiler"
               },
               "tip_5lang": {
                 "de": "Die Ziegen suchen meist Schutz in ihrem Stall; nutzen Sie den überdachten Fütterungsbereich, um mit den Tieren trocken in Kontakt zu kommen.",
                 "hu": "A kecskék többnyire az istállóban keresnek menedéket; használja a fedett etetőteret, hogy szárazon kerülhessen kapcsolatba az állatokkal.",
                 "ro": "Caprele caută de obicei adăpost în grajd; folosiți zona de hrănire acoperită pentru a interacționa cu animalele fără a vă uda.",
-                "en": "The goats usually seek shelter in their stable; use the covered feeding area to interact with the animals while staying dry."
+                "en": "The goats usually seek shelter in their stable; use the covered feeding area to interact with the animals while staying dry.",
+                "tr": "Keçiler genellikle ahırlarında barınır; hayvanlarla etkileşim için kapalı besleme alanını kullanarak kuru kalın."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frostiger Morgen beginnt im beheizten Schlossmuseum, wo die Geschichte der Region zum Aufwärmen einlädt. Mittags bietet der Kulturspeicher einen gemütlichen Rückzugsort voller Kunst. Der Nachmittag wird für einen zügigen Spaziergang durch den Tierpark genutzt, bevor um 17 Uhr die Dunkelheit einbricht. Der Abend endet in der stillen, winterlichen Atmosphäre der Altstadt.",
             "hu": "A fagyos reggel a fűtött kastélymúzeumban indul, ahol a régió történelme segít a bemelegedésben. Délben a Kulturspeicher kínál barátságos, művészettel teli menedéket. A délutánt egy frissítő sétára használjuk az állatkertben, mielőtt 17 órakor leszáll az éj. Az este az óváros csendes, téli hangulatában, a korai sötétedés mellett ér véget.",
             "ro": "O dimineață geroasă începe în muzeul încălzit al castelului, unde istoria regiunii vă invită la căldură. La prânz, Kulturspeicher oferă un refugiu primitor plin de artă. După-amiaza este dedicată unei plimbări vioaie prin grădina zoologică, înainte ca întunericul să se lase la ora 17. Seara se încheie în atmosfera liniștită de iarnă a orașului vechi.",
-            "en": "A frosty morning starts in the heated castle museum, where regional history provides a warm welcome. At noon, the Kulturspeicher offers a cozy retreat filled with art. The afternoon is spent on a brisk walk through the zoo before darkness falls at 5 PM. The evening ends in the quiet, wintery atmosphere of the old town under the early sunset."
+            "en": "A frosty morning starts in the heated castle museum, where regional history provides a warm welcome. At noon, the Kulturspeicher offers a cozy retreat filled with art. The afternoon is spent on a brisk walk through the zoo before darkness falls at 5 PM. The evening ends in the quiet, wintery atmosphere of the old town under the early sunset.",
+            "tr": "Dondurucu bir sabah, bölgesel tarihin sıcak bir karşılama sunduğu ısıtmalı şato müzesinde başlar. Öğlen Kulturspeicher sanatla dolu, sıcak bir sığınak sunar. Öğleden sonra hayvanat bahçesinde canlı bir yürüyüş yaparız ve akşam saat 17:00’de karanlık çökmeden önce gün biter. Akşam, erken günbatımının altında eski şehrin sakin, kış atmosferinde sona erer."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Schloss Ueckermünde",
                 "hu": "Ueckermünde Kastély",
                 "ro": "Castelul Ueckermünde",
-                "en": "Ueckermünde Castle"
+                "en": "Ueckermünde Castle",
+                "tr": "Ueckermünde Şatosu"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Wärme der Museumsräume; im Winter ist die Atmosphäre im Schloss besonders ruhig und lädt zum langen Verweilen ein.",
                 "hu": "Élvezze a múzeumi termek melegét; télen a kastély hangulata különösen nyugodt, és hosszas időzésre csábít.",
                 "ro": "Bucurați-vă de căldura sălilor de muzeu; iarna, atmosfera din castel este deosebit de liniștită și invită la o vizită prelungită.",
-                "en": "Enjoy the warmth of the museum rooms; in winter, the atmosphere in the castle is especially quiet and invites a long stay."
+                "en": "Enjoy the warmth of the museum rooms; in winter, the atmosphere in the castle is especially quiet and invites a long stay.",
+                "tr": "Müze odalarının sıcaklığının keyfini çıkarın; kışın şatodaki atmosfer özellikle sakindir ve uzun kalmaya davet eder."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Kulturspeicher",
                 "hu": "Kulturspeicher Magtár",
                 "ro": "Grânarul Cultural",
-                "en": "Kulturspeicher"
+                "en": "Kulturspeicher",
+                "tr": "Kulturspeicher"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen warmen Ort als kulturelle Pause; die winterlichen Ausstellungen sind eine perfekte Flucht vor dem schneidenden Ostseewind.",
                 "hu": "Használja ezt a meleg helyet kulturális pihenőként; a téli kiállítások tökéletes menekülést kínálnak a metsző balti-tengeri szél elől.",
                 "ro": "Folosiți acest loc cald pentru o pauză culturală; expozițiile de iarnă sunt o evadare perfectă din calea vântului tăios al Mării Baltice.",
-                "en": "Use this warm spot for a cultural break; the winter exhibitions are a perfect escape from the biting Baltic Sea wind."
+                "en": "Use this warm spot for a cultural break; the winter exhibitions are a perfect escape from the biting Baltic Sea wind.",
+                "tr": "Bu sıcak mekanı kültürel bir mola için kullanın; kış sergileri Baltık Denizi’nin keskin rüzgârından kaçmak için mükemmel bir sığınaktır."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Stadthafen",
                 "hu": "Városi Kikötő",
                 "ro": "Portul Orașului",
-                "en": "City Harbor"
+                "en": "City Harbor",
+                "tr": "Şehir Limanı"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die eisigen Strukturen am Wasser; achten Sie auf den frühen Sonnenuntergang gegen 17 Uhr, der den Hafen in goldenes Licht taucht.",
                 "hu": "Csodálja meg a vízen kialakuló jeges alakzatokat; figyeljen a korai, 17 óra körüli naplementére, amely arany fénybe öltözteti a kikötőt.",
                 "ro": "Admirați formațiunile de gheață de pe apă; atenție la apusul devreme, în jurul orei 17, care scaldă portul într-o lumină aurie.",
-                "en": "Admire the icy formations on the water; watch for the early sunset around 5 PM, which bathes the harbor in golden light."
+                "en": "Admire the icy formations on the water; watch for the early sunset around 5 PM, which bathes the harbor in golden light.",
+                "tr": "Suda oluşan buzlanmaları izleyin; limanı altın ışıkla yıkayan erken günbatımı saat 17:00 civarında dikkat çekicidir."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Tierpark Ueckermünde",
                 "hu": "Ueckermündei Állatkert",
                 "ro": "Zoo Ueckermünde",
-                "en": "Ueckermünde Zoo"
+                "en": "Ueckermünde Zoo",
+                "tr": "Ueckermünde Hayvanat Bahçesi"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Tiere im Winterpelz; tragen Sie dicke Thermokleidung, da man sich im Freien auf den Waldwegen schnell auskühlt.",
                 "hu": "Látogassa meg a téli bundás állatokat; viseljen vastag termoruházatot, mert az erdei utakon a szabadban gyorsan áthűl az ember.",
                 "ro": "Vizitați animalele în blana de iarnă; purtați haine termice groase, deoarece vă puteți răci rapid afară pe potecile din pădure.",
-                "en": "Visit the animals in their winter coats; wear thick thermal clothing, as you can cool down quickly outdoors on the forest paths."
+                "en": "Visit the animals in their winter coats; wear thick thermal clothing, as you can cool down quickly outdoors on the forest paths.",
+                "tr": "Hayvanları kış postlarıyla ziyaret edin; orman patikalarında dışarıda çabuk soğuyabileceğiniz için kalın termal giysi giyin."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Kattas",
                 "hu": "Gyűrűsfarkú makik",
                 "ro": "Lemuri",
-                "en": "Ring-tailed Lemurs"
+                "en": "Ring-tailed Lemurs",
+                "tr": "Halemağzı Kuyruklu Lemurlar"
               },
               "tip_5lang": {
                 "de": "Die Lemuren sind oft in ihren beheizten Häusern zu finden; wärmen auch Sie sich kurz auf, während Sie die aktiven Tiere beobachten.",
                 "hu": "A makik gyakran a fűtött házaikban találhatók; Ön is melegedjen fel egy kicsit, miközben az aktív állatokat figyeli.",
                 "ro": "Lemurienii sunt adesea în casele lor încălzite; profitați pentru a vă încălzi puțin în timp ce observați animalele active.",
-                "en": "Lemurs are often found in their heated houses; take a moment to warm up yourself while watching the active animals."
+                "en": "Lemurs are often found in their heated houses; take a moment to warm up yourself while watching the active animals.",
+                "tr": "Lemurlar genellikle ısıtmalı evlerinde bulunur; aktif hayvanları izlerken kendinizi ısıtmak için bir an ayırın."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Ziegen",
                 "hu": "Kecskék",
                 "ro": "Capre",
-                "en": "Goats"
+                "en": "Goats",
+                "tr": "Keçiler"
               },
               "tip_5lang": {
                 "de": "Die Ziegen freuen sich auch im Winter über Besuch; nutzen Sie das restliche Tageslicht vor 17 Uhr für eine letzte Fütterung im Freien.",
                 "hu": "A kecskék télen is örülnek a látogatóknak; használja ki a maradék nappali fényt 17 óra előtt egy utolsó szabadtéri etetéshez.",
                 "ro": "Caprele se bucură de vizitatori și iarna; profitați de lumina rămasă înainte de ora 17 pentru o ultimă hrănire în aer liber.",
-                "en": "The goats enjoy visitors even in winter; use the remaining daylight before 5 PM for one last outdoor feeding."
+                "en": "The goats enjoy visitors even in winter; use the remaining daylight before 5 PM for one last outdoor feeding.",
+                "tr": "Keçiler kışın da ziyaretçileri sever; dışarıda son bir besleme için 17:00’den önce kalan ışığı kullanın."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Schloss Ueckermünde",
             "hu": "Ueckermünde Kastély",
             "ro": "Castelul Ueckermünde",
-            "en": "Ueckermünde Castle"
+            "en": "Ueckermünde Castle",
+            "tr": "Ueckermünde Şatosu"
           },
           "coords": [
             14.048645,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie das letzte erhaltene Pommernschloss auf deutschem Boden, dessen Museum spannende Regionalgeschichte bietet, und achten Sie auf den historischen Schlossturm für tolle Fotos.",
             "hu": "Csodálja meg a német területen fennmaradt utolsó pomerániai kastélyt és annak helytörténeti múzeumát, és ne hagyja ki a történelmi torony fotózását sem a látogatás során.",
             "ro": "Admirați ultimul castel pomeranian păstrat pe teritoriul german, al cărui muzeu oferă o istorie regională fascinantă, și asigurați-vă că fotografiați turnul său istoric.",
-            "en": "Admire the last surviving Pomeranian castle on German soil, whose museum offers fascinating regional history, and make sure to photograph its historic tower for great memories."
+            "en": "Admire the last surviving Pomeranian castle on German soil, whose museum offers fascinating regional history, and make sure to photograph its historic tower for great memories.",
+            "tr": "Almanya topraklarındaki son ayakta kalan Pommern şatosunu hayranlıkla izleyin; müzesi büyüleyici bölgesel tarih sunar ve tarihi kulesini fotoğraflamayı unutmayın."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Stadthafen",
             "hu": "Városi Kikötő",
             "ro": "Portul Orașului",
-            "en": "City Harbor"
+            "en": "City Harbor",
+            "tr": "Şehir Limanı"
           },
           "coords": [
             14.050547,
@@ -403,7 +445,8 @@
             "de": "Spazieren Sie am idyllischen Stadthafen entlang, um die traditionellen Zeesenboote zu beobachten, und sichern Sie sich am besten frühzeitig einen Platz auf einer Bank am Wasser.",
             "hu": "Sétáljon végig az idilli városi kikötőn, figyelje meg a hagyományos halászhajókat, és foglaljon helyet egy vízparti padon a tökéletes kilátásért és a pihenésért.",
             "ro": "Plimbați-vă de-a lungul portului idilic al orașului pentru a observa bărcile tradiționale de pescuit și asigurați-vă că prindeți repede o bancă pe malul apei.",
-            "en": "Stroll along the idyllic city harbor to observe the traditional fishing boats, and make sure to grab a waterfront bench early for the best and most relaxing views."
+            "en": "Stroll along the idyllic city harbor to observe the traditional fishing boats, and make sure to grab a waterfront bench early for the best and most relaxing views.",
+            "tr": "Geleneksel balıkçı teknelerini gözlemlemek için idilli şehir limanı boyunca gezinin ve en iyi, en dinlendirici manzara için kıyı bankını erkenden kapın."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Strandbad Ueckermünde",
             "hu": "Ueckermünde Strandfürdő",
             "ro": "Ștrandul Ueckermünde",
-            "en": "Ueckermünde Beach"
+            "en": "Ueckermünde Beach",
+            "tr": "Ueckermünde Plajı"
           },
           "coords": [
             14.074732,
@@ -426,7 +470,8 @@
             "de": "Entspannen Sie am feinen Sandstrand des Stettiner Haffs mit seinem flachen Wasser, ideal für Familien, und mieten Sie sich einen Strandkorb für den perfekten Komfort.",
             "hu": "Pihenjen a Stettini-öböl finom homokos strandján, amelynek sekély vize ideális családoknak, és béreljen egy tipikus strandkosarat a tökéletes kényelemért a tengerparton.",
             "ro": "Relaxați-vă pe plaja cu nisip fin, cu apele sale puțin adânci, ideală pentru familii, și închiriați un coș de plajă tipic pentru confort maxim pe parcursul șederii dumneavoastră.",
-            "en": "Relax on the fine sandy beach of the Szczecin Lagoon with its shallow water, ideal for families, and rent a traditional beach chair for maximum comfort during your stay."
+            "en": "Relax on the fine sandy beach of the Szczecin Lagoon with its shallow water, ideal for families, and rent a traditional beach chair for maximum comfort during your stay.",
+            "tr": "Sığ suyu ve ince kumuyla Szczecin Lagünü’nün ince kumlu plajında dinlenin; aileler için ideal ve konforunuz için geleneksel bir plaj sandalyesi kiralayın."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Tierpark Ueckermünde",
             "hu": "Ueckermündei Állatkert",
             "ro": "Zoo Ueckermünde",
-            "en": "Ueckermünde Zoo"
+            "en": "Ueckermünde Zoo",
+            "tr": "Ueckermünde Hayvanat Bahçesi"
           },
           "coords": [
             14.028,
@@ -449,7 +495,8 @@
             "de": "Erleben Sie über 400 heimische und exotische Tiere in diesem weitläufigen Naturzoo, und nutzen Sie die Fütterungszeiten für ein besonders nahes Tiererlebnis.",
             "hu": "Tapasztalja meg a több mint 400 hazai és egzotikus állat közelségét ebben a tágas vadasparkban, és használja ki az etetési időket a legélvezetesebb látványért.",
             "ro": "Experimentați peste 400 de animale autohtone și exotice în această grădină zoologică spațioasă și profitați de orele de hrănire pentru o interacțiune optimă.",
-            "en": "Experience over 400 native and exotic animals in this spacious nature zoo, and be sure to check the daily feeding schedule for the most interactive viewing sessions."
+            "en": "Experience over 400 native and exotic animals in this spacious nature zoo, and be sure to check the daily feeding schedule for the most interactive viewing sessions.",
+            "tr": "Bu geniş doğa hayvanat bahçesinde 400’ün üzerinde yerel ve egzotik hayvanı deneyimleyin; en etkileşimli izleme oturumları için günlük besleme programını kontrol etmeyi unutmayın."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Wölfe",
             "hu": "Farkasok",
             "ro": "Lupi",
-            "en": "Wolves"
+            "en": "Wolves",
+            "tr": "Kurtlar"
           },
           "coords": [
             14.027089,
@@ -472,7 +520,8 @@
             "de": "Beobachten Sie das faszinierende europäische Wolfsrudel in seinem weitläufigen Waldgehege, und nehmen Sie sich Zeit für die Schautafeln, um mehr über ihr Sozialverhalten zu lernen.",
             "hu": "Figyelje meg a lenyűgöző európai farkasfalkát a tágas erdei kifutójukban, és szánjon időt a táblák elolvasására, hogy megismerje összetett társadalmi viselkedésüket.",
             "ro": "Urmăriți fascinanta haită de lupi europeni în incinta lor spațioasă din pădure și faceți-vă timp să citiți panourile pentru a învăța despre comportamentul lor social complex.",
-            "en": "Watch the fascinating European wolf pack in their spacious forest enclosure, and take time to read the display boards to learn all about their complex social behavior."
+            "en": "Watch the fascinating European wolf pack in their spacious forest enclosure, and take time to read the display boards to learn all about their complex social behavior.",
+            "tr": "Geniş orman ağıllarında Avrupa kurt sürüsünü izleyin ve karmaşık sosyal davranışları hakkında her şeyi öğrenmek için bilgilendirme panolarını okumaya zaman ayırın."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Esel",
             "hu": "Szamarak",
             "ro": "Măgari",
-            "en": "Donkeys"
+            "en": "Donkeys",
+            "tr": "Eşekler"
           },
           "coords": [
             14.028755,
@@ -495,7 +545,8 @@
             "de": "Treffen Sie die gutmütigen Esel, deren ruhiges Gemüt eine entspannende Wirkung hat, und achten Sie darauf, sie nur mit dem offiziellen Zoofutter zu belohnen.",
             "hu": "Találkozzon a jóindulatú szamarakkal, akiknek nyugodt természete pihentető hatású, és ügyeljen arra, hogy csak a hivatalos állatkerti eledellel jutalmazza meg őket.",
             "ro": "Întâlniți măgarii blânzi, a căror natură calmă are un efect relaxant și asigurați-vă că îi recompensați doar cu hrana oficială a grădinii zoologice aprobată pentru ei.",
-            "en": "Meet the gentle donkeys, whose calm nature has a relaxing effect, and ensure you only reward them with the official feed provided by the zoo to keep them healthy."
+            "en": "Meet the gentle donkeys, whose calm nature has a relaxing effect, and ensure you only reward them with the official feed provided by the zoo to keep them healthy.",
+            "tr": "Sakin doğalarıyla rahatlatıcı etki yaratan nazik eşeklerle tanışın; sağlıklı kalmaları için onlara yalnızca hayvanat bahçesinin sağladığı resmi yiyeceği verin."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Wir starten aktiv am historischen Schloss Ueckermünde und rollen kurz zum idyllischen Hafen. Gegen Mittag radeln wir zum Strandbad, wo eine frische Haff-Brise weht. Der Nachmittag führt uns auf zwei Rädern direkt in den Ueckermünder Zoo. Abends genießen wir die Ruhe bei den Wölfen und sanftmütigen Eseln im weitläufigen Park.",
         "hu": "Aktívan kezdünk az ueckermündei kastélynál, és röviden átgurulunk az idilli kikötőhöz. Dél körül a strandra kerekezünk, ahol friss tengeri szellő fúj. A délután két keréken egyenesen az állatkertbe vezet minket. Este a farkasok és a szelíd szamarak nyugalmát élvezzük a tágas parkban.",
         "ro": "Începem activ la castelul istoric și trecem scurt pe la portul idilic. În jurul prânzului pedalăm spre plaja unde suflă o briză proaspătă de lagună. După-amiaza ne duce pe două roți direct la grădina zoologică. Seara ne bucurăm de liniștea lupilor și a măgarilor blânzi în parcul spațios.",
-        "en": "We start actively at the historic castle and roll briefly to the idyllic harbor. Around noon we cycle to the beach, where a fresh lagoon breeze blows. The afternoon takes us on two wheels directly into the Ueckermünde Zoo. In the evening we enjoy the peace with the wolves and gentle donkeys in the spacious park."
+        "en": "We start actively at the historic castle and roll briefly to the idyllic harbor. Around noon we cycle to the beach, where a fresh lagoon breeze blows. The afternoon takes us on two wheels directly into the Ueckermünde Zoo. In the evening we enjoy the peace with the wolves and gentle donkeys in the spacious park.",
+        "tr": "Günü aktif olarak tarihi şatoda başlatıyor ve kısa bir turla idilli limana ilerliyoruz. Öğlen plaja bisikletle gidiyoruz; taze lagün esintisi hissediliyor. Öğleden sonra iki teker üstünde doğrudan Ueckermünde Hayvanat Bahçesi’ne gidiyoruz. Akşam ise geniş parkta kurtlar ve nazik eşeklerle huzurun tadını çıkarıyoruz."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Die Radtour beginnt am Schloss, wo man unter dem Portal kurz Schutz findet. Am Hafen ist bei Regen Vorsicht auf den nassen Holzstegen geboten. Die Fahrt zum Strand wird durch windfeste Kleidung zum Erlebnis, während der Tierpark mit seinen Pavillons zahlreiche Unterstände bietet. Der Abend endet trotz Nässe mit der Rückfahrt durch die erfrischte, saubere Luft der Küstenstadt.",
             "hu": "A kerékpártúra a kastélynál indul, ahol a kapualj alatt rövid menedéket találunk. A kikötőben esőben óvatosan hajtsunk a nedves fapallókon. A strand felé vezető út szélálló ruházatban igazi élmény, míg az állatkert pavilonjai számos fedett helyet kínálnak. Az este a friss, tiszta parti levegőn való visszatekeréssel zárul a vizes utakon.",
             "ro": "Turul cu bicicleta începe la castel, unde puteți găsi un scurt adăpost sub portal. În port, pedalați cu atenție pe pontoanele de lemn umede. Drumul spre plajă devine o experiență cu haine rezistente la vânt, în timp ce grădina zoologică oferă numeroase adăposturi. Seara se încheie cu drumul de întoarcere prin aerul curat și proaspăt al orașului de coastă.",
-            "en": "The bike tour starts at the castle, providing a brief shelter under the portal. At the harbor, be cautious on the wet wooden piers during rain. The ride to the beach is an adventure with windproof gear, while the zoo offers many pavilions as shelters. The evening concludes with a ride back through the refreshed, clean air of the coastal town."
+            "en": "The bike tour starts at the castle, providing a brief shelter under the portal. At the harbor, be cautious on the wet wooden piers during rain. The ride to the beach is an adventure with windproof gear, while the zoo offers many pavilions as shelters. The evening concludes with a ride back through the refreshed, clean air of the coastal town.",
+            "tr": "Bisiklet turu şatoda başlar; portal altında kısa bir sığınak sağlar. Limanda yağmur sırasında ıslak tahta iskelelerde dikkatli olun. Plaja gidiş rüzgara dayanıklı kıyafetle bir macera, hayvanat bahçesi ise birçok pavyonla sığınak sunar. Akşam, kıyı kasabasının tazelenmiş, temiz havasında geri dönüş sürüşüyle sona erer."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Schloss Ueckermünde",
                 "hu": "Ueckermünde Kastély",
                 "ro": "Castelul Ueckermünde",
-                "en": "Ueckermünde Castle"
+                "en": "Ueckermünde Castle",
+                "tr": "Ueckermünde Şatosu"
               },
               "tip_5lang": {
                 "de": "Sichern Sie Ihr Fahrrad unter dem Vordach; drinnen bietet die Geschichte der Herzöge einen faszinierenden Schutz vor den ersten Tropfen.",
                 "hu": "Zárja le kerékpárját az előtető alatt; bent a hercegek története lenyűgöző védelmet nyújt az első esőcseppek elől.",
                 "ro": "Asigurați-vă bicicleta sub copertină; în interior, istoria ducilor oferă o protecție fascinantă împotriva primilor stropi.",
-                "en": "Secure your bike under the overhang; inside, the history of the dukes offers a fascinating shield from the first raindrops."
+                "en": "Secure your bike under the overhang; inside, the history of the dukes offers a fascinating shield from the first raindrops.",
+                "tr": "Bisikletinizi saçak altında güvene alın; içerde düklerin tarihini keşfetmek ilk yağmur damlalarından korur."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Stadthafen",
                 "hu": "Városi Kikötő",
                 "ro": "Portul Orașului",
-                "en": "City Harbor"
+                "en": "City Harbor",
+                "tr": "Şehir Limanı"
               },
               "tip_5lang": {
                 "de": "Radeln Sie vorsichtig über das Kopfsteinpflaster; der Blick auf die graue See ist dramatisch, aber die Wege sind tückisch glatt.",
                 "hu": "Biciklizzen óvatosan a macskakövön; a szürke tenger látványa esőben drámai, de az utak csalókán csúszósak lehetnek.",
                 "ro": "Pedalați cu atenție pe piatra cubică; vederea mării cenușii este dramatică pe ploaie, dar drumurile sunt înșelător de alunecoase.",
-                "en": "Cycle carefully over the cobblestones; the view of the gray sea is dramatic in the rain, but the paths are treacherously slippery."
+                "en": "Cycle carefully over the cobblestones; the view of the gray sea is dramatic in the rain, but the paths are treacherously slippery.",
+                "tr": "Kaldırımlarda dikkatli sürün; yağmurda gri deniz dramatik görünür, ancak yollar haince kaygandır."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Strandbad Ueckermünde",
                 "hu": "Ueckermünde Strandfürdő",
                 "ro": "Ștrandul Ueckermünde",
-                "en": "Ueckermünde Beach"
+                "en": "Ueckermünde Beach",
+                "tr": "Ueckermünde Plajı"
               },
               "tip_5lang": {
                 "de": "Die Strandpromenade bietet kaum Schutz; tragen Sie unbedingt eine hochwertige Regenjacke, um dem peitschenden Wind am Haff zu trotzen.",
                 "hu": "A strandpromenád alig nyújt menedéket; feltétlenül viseljen minőségi esőkabátot, hogy dacolhasson az öböl felől fújó metsző széllel.",
                 "ro": "Promenada plajei oferă puțin adăpost; purtați neapărat o jachetă de ploaie de calitate pentru a înfrunta vântul tăios de pe lagună.",
-                "en": "The beach promenade offers little shelter; be sure to wear a high-quality raincoat to brave the lashing wind at the lagoon."
+                "en": "The beach promenade offers little shelter; be sure to wear a high-quality raincoat to brave the lashing wind at the lagoon.",
+                "tr": "Plaj promenadı az sığınak sunar; lagündeki sert rüzgara karşı yüksek kaliteli bir yağmurluk giymeye özen gösterin."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Tierpark Ueckermünde",
                 "hu": "Ueckermündei Állatkert",
                 "ro": "Zoo Ueckermünde",
-                "en": "Ueckermünde Zoo"
+                "en": "Ueckermünde Zoo",
+                "tr": "Ueckermünde Hayvanat Bahçesi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Fahrradständer in der Nähe der Unterstände; der Parkweg unter Bäumen schützt ein wenig, doch Pfützen sind unvermeidlich.",
                 "hu": "Használja a menedékek közeli biciklitárolókat; a fák alatti parki út némi védelmet nyújt, de a tócsák elkerülhetetlenek.",
                 "ro": "Folosiți suporturile de biciclete de lângă adăposturi; poteca din parc de sub copaci oferă puțină protecție, dar bălțile sunt inevitabile.",
-                "en": "Use the bike racks near the shelters; the park path under trees provides some cover, but puddles are unavoidable."
+                "en": "Use the bike racks near the shelters; the park path under trees provides some cover, but puddles are unavoidable.",
+                "tr": "Sığınakların yakınındaki bisikletçi park yerlerini kullanın; ağaç altındaki park yolu bir miktar koruma sağlar, fakat su birikintileri kaçınılmazdır."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Wölfe",
                 "hu": "Farkasok",
                 "ro": "Lupi",
-                "en": "Wolves"
+                "en": "Wolves",
+                "tr": "Kurtlar"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Rudel von der überdachten Brücke aus; die Wölfe sind bei Regenwetter oft aktiver als in der prallen Sonne.",
                 "hu": "Figyelje a falkát a fedett hídról; a farkasok hűvös, esős időben gyakran aktívabbak, mint a tűző napsütésben.",
                 "ro": "Observați haita de pe podul acoperit; lupii sunt adesea mai activi pe vreme ploioasă și răcoroasă decât sub soarele arzător.",
-                "en": "Watch the pack from the covered bridge; wolves are often more active in cool, rainy weather than in the blazing sun."
+                "en": "Watch the pack from the covered bridge; wolves are often more active in cool, rainy weather than in the blazing sun.",
+                "tr": "Sürüyü kapalı köprüden izleyin; kurtlar parlak güneşten çok serin, yağmurlu havada daha aktif olabilir."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Esel",
                 "hu": "Szamarak",
                 "ro": "Măgari",
-                "en": "Donkeys"
+                "en": "Donkeys",
+                "tr": "Eşekler"
               },
               "tip_5lang": {
                 "de": "Die Esel stehen meist trocken unter ihrem Dach; nähern Sie sich ruhig, aber achten Sie auf den schlammigen Boden rund um das Gehege.",
                 "hu": "A szamarak többnyire szárazon állnak a tetejük alatt; közelítsen nyugodtan, de ügyeljen a kifutó körüli sáros talajra.",
                 "ro": "Măgarii stau de obicei la uscat sub acoperișul lor; apropiați-vă cu calm, dar atenție la solul noroios din jurul țarcului.",
-                "en": "The donkeys usually stay dry under their roof; approach calmly, but watch out for the muddy ground around the enclosure."
+                "en": "The donkeys usually stay dry under their roof; approach calmly, but watch out for the muddy ground around the enclosure.",
+                "tr": "Eşekler genellikle çatılarının altında kuru kalır; sakin yaklaşın, fakat çevrelerindeki çamurlu zemine dikkat edin."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Die winterliche Radtour startet am Schloss, wo die Bewegung hilft, warm zu bleiben. Am windigen Hafen ist Kälteschutz wichtig, bevor es zügig weiter zum Strand geht, um die klare Frostluft zu genießen. Im Tierpark sind die Tiere im dichten Winterfell aktiv. Wir treten die Rückreise rechtzeitig vor dem Sonnenuntergang um 17 Uhr an, um sicher durch die Dämmerung zu radeln.",
             "hu": "A téli kerékpártúra a kastélynál indul, ahol a mozgás segít melegen tartani a testet. A szeles kikötőben fontos a hideg elleni védelem, mielőtt a strand felé vennénk az irányt a friss fagyos levegőért. Az állatkertben a téli bundás állatok várnak. Időben, az ötkori naplemente előtt elindulunk vissza, hogy biztonságban tekerhessünk a szürkületben.",
             "ro": "Turul cu bicicleta iarna începe la castel, unde mișcarea ajută la menținerea căldurii. În portul vântos, protecția împotriva frigului este esențială înainte de a merge spre plajă pentru aerul curat. La zoo, animalele sunt active în blana lor de iarnă. Începem întoarcerea înainte de apusul de la ora 17, pentru a pedala în siguranță prin amurg.",
-            "en": "The winter bike tour starts at the castle, where movement helps you stay warm. At the windy harbor, cold protection is key before heading to the beach for the crisp frost air. In the zoo, animals are active in their thick winter coats. We start the ride back well before the 5 PM sunset to cycle safely through the deepening twilight."
+            "en": "The winter bike tour starts at the castle, where movement helps you stay warm. At the windy harbor, cold protection is key before heading to the beach for the crisp frost air. In the zoo, animals are active in their thick winter coats. We start the ride back well before the 5 PM sunset to cycle safely through the deepening twilight.",
+            "tr": "Kış bisiklet turu şatoda başlar; hareket sizi sıcak tutmaya yardımcı olur. Rüzgârlı limanda soğuktan korunma önemli, ardından keskin donlu havayı almak için plaja gidilir. Hayvanat bahçesinde hayvanlar kalın kış postlarıyla aktiftir. Güvenli bir şekilde alaca karanlığa girmeden önce gün batımından (17:00) oldukça önce dönüşe başlıyoruz."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Schloss Ueckermünde",
                 "hu": "Ueckermünde Kastély",
                 "ro": "Castelul Ueckermünde",
-                "en": "Ueckermünde Castle"
+                "en": "Ueckermünde Castle",
+                "tr": "Ueckermünde Şatosu"
               },
               "tip_5lang": {
                 "de": "Starten Sie Ihre Tour mit einem warmen Besuch im Museum; die Bewegung auf dem Rad hilft danach, die Körpertemperatur bei Frost zu halten.",
                 "hu": "Kezdje a túrát egy meleg múzeumlátogatással; a kerékpározás ezután segít fenntartani a testhőmérsékletet a fagyos időben.",
                 "ro": "Începeți turul cu o vizită caldă la muzeu; mișcarea pe bicicletă va ajuta ulterior la menținerea temperaturii corpului pe ger.",
-                "en": "Start your tour with a warm visit to the museum; cycling afterwards will help maintain your body temperature in the frost."
+                "en": "Start your tour with a warm visit to the museum; cycling afterwards will help maintain your body temperature in the frost.",
+                "tr": "Turunuza müzede sıcak bir ziyaretle başlayın; ardından bisiklete binmek vücut ısınızı korumanıza yardımcı olur."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Stadthafen",
                 "hu": "Városi Kikötő",
                 "ro": "Portul Orașului",
-                "en": "City Harbor"
+                "en": "City Harbor",
+                "tr": "Şehir Limanı"
               },
               "tip_5lang": {
                 "de": "Der Winterwind am Hafen kann eisig sein; schützen Sie Ihre Hände mit winddichten Handschuhen, um die Kontrolle über das Rad zu behalten.",
                 "hu": "A téli szél a kikötőben jeges lehet; védje kezeit szélálló kesztyűvel, hogy megőrizhesse uralmát a kerékpár felett.",
                 "ro": "Vântul de iarnă din port poate fi tăios; protejați-vă mâinile cu mănuși rezistente la vânt pentru a menține controlul asupra bicicletei.",
-                "en": "The winter wind at the harbor can be icy; protect your hands with windproof gloves to keep control of your bike."
+                "en": "The winter wind at the harbor can be icy; protect your hands with windproof gloves to keep control of your bike.",
+                "tr": "Limandaki kış rüzgârı buz gibi olabilir; eldivenlerinizi rüzgâra dayanıklı seçerek bisiklet kontrolünü koruyun."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Strandbad Ueckermünde",
                 "hu": "Ueckermünde Strandfürdő",
                 "ro": "Ștrandul Ueckermünde",
-                "en": "Ueckermünde Beach"
+                "en": "Ueckermünde Beach",
+                "tr": "Ueckermünde Plajı"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare, kalte Luft am leeren Strand; planen Sie nur einen kurzen Stopp ein, da die Kälte ohne Bewegung schnell zunimmt.",
                 "hu": "Élvezze a tiszta, hideg levegőt az üres strandon; csak rövid megállót tervezzen, mert mozgás nélkül a hideg gyorsan átjárja az embert.",
                 "ro": "Bucurați-vă de aerul curat și rece de pe plaja pustie; planificați doar o oprire scurtă, deoarece frigul se intensifică rapid fără mișcare.",
-                "en": "Enjoy the clear, cold air on the empty beach; plan only a short stop, as the cold increases quickly without movement."
+                "en": "Enjoy the clear, cold air on the empty beach; plan only a short stop, as the cold increases quickly without movement.",
+                "tr": "Boş plajda temiz, soğuk havanın tadını çıkarın; hareketsiz kalındıkça soğuk hızla artacağından yalnızca kısa bir mola planlayın."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Tierpark Ueckermünde",
                 "hu": "Ueckermündei Állatkert",
                 "ro": "Zoo Ueckermünde",
-                "en": "Ueckermünde Zoo"
+                "en": "Ueckermünde Zoo",
+                "tr": "Ueckermünde Hayvanat Bahçesi"
               },
               "tip_5lang": {
                 "de": "Die Wege können im Winter vereist sein; radeln Sie langsam und achten Sie auf das Licht, da es im Wald schon vor 17 Uhr dämmrig wird.",
                 "hu": "Az utak télen jegesek lehetnek; tekerjen lassan, és ügyeljen a fényre, mert az erdőben már 17 óra előtt sötétedni kezd.",
                 "ro": "Drumurile pot fi înghețate iarna; pedalați încet și atenție la lumină, deoarece în pădure se înserează deja înainte de ora 17.",
-                "en": "The paths can be icy in winter; cycle slowly and watch the light, as it starts to get dark in the forest even before 5 PM."
+                "en": "The paths can be icy in winter; cycle slowly and watch the light, as it starts to get dark in the forest even before 5 PM.",
+                "tr": "Kışın patikalar buzlanmış olabilir; yavaş sürün ve ormanda saat 17:00’den önce kararmaya başladığı için ışığa dikkat edin."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Wölfe",
                 "hu": "Farkasok",
                 "ro": "Lupi",
-                "en": "Wolves"
+                "en": "Wolves",
+                "tr": "Kurtlar"
               },
               "tip_5lang": {
                 "de": "Wölfe lieben die Kälte und sind jetzt besonders gut zu sehen; halten Sie den Stopp kurz, um vor dem frühen Sonnenuntergang heimzukehren.",
                 "hu": "A farkasok imádják a hideget, ilyenkor különösen jól láthatóak; tartsa röviden a megállót, hogy a korai naplemente előtt hazaérjen.",
                 "ro": "Lupii iubesc frigul și sunt foarte vizibili acum; păstrați oprirea scurtă pentru a vă întoarce înainte de apusul devreme.",
-                "en": "Wolves love the cold and are very visible now; keep the stop short to return home before the early sunset."
+                "en": "Wolves love the cold and are very visible now; keep the stop short to return home before the early sunset.",
+                "tr": "Kurtlar soğuğu sever ve şimdi çok görünürdür; erken günbatımından önce eve dönebilmek için molayı kısa tutun."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Esel",
                 "hu": "Szamarak",
                 "ro": "Măgari",
-                "en": "Donkeys"
+                "en": "Donkeys",
+                "tr": "Eşekler"
               },
               "tip_5lang": {
                 "de": "Verabschieden Sie sich von den Eseln, bevor die Dunkelheit einbricht; ab 17 Uhr ist die Sicht auf den Radwegen ohne Beleuchtung schwierig.",
                 "hu": "Búcsúzzon el a szamaraktól, mielőtt besötétedik; 17 óra után világítás nélkül nehézkes a látás a kerékpárutakon.",
                 "ro": "Luați-vă la revedere de la măgari înainte de lăsarea întunericului; după ora 17, vizibilitatea pe pistele de biciclete este dificilă fără lumini.",
-                "en": "Say goodbye to the donkeys before darkness falls; after 5 PM, visibility on the bike paths is difficult without lights."
+                "en": "Say goodbye to the donkeys before darkness falls; after 5 PM, visibility on the bike paths is difficult without lights.",
+                "tr": "Eşeklere karanlık düşmeden önce veda edin; 17:00’den sonra bisiklet yollarında ışık olmadan görüş zordur."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Schloss Ueckermünde",
             "hu": "Ueckermünde Kastély",
             "ro": "Castelul Ueckermünde",
-            "en": "Ueckermünde Castle"
+            "en": "Ueckermünde Castle",
+            "tr": "Ueckermünde Şatosu"
           },
           "coords": [
             14.048645,
@@ -724,7 +803,8 @@
             "de": "Bewundern Sie das letzte erhaltene Pommernschloss auf deutschem Boden, dessen Museum spannende Regionalgeschichte bietet, und achten Sie auf den historischen Schlossturm für tolle Fotos.",
             "hu": "Csodálja meg a német területen fennmaradt utolsó pomerániai kastélyt és annak helytörténeti múzeumát, és ne hagyja ki a történelmi torony fotózását sem a látogatás során.",
             "ro": "Admirați ultimul castel pomeranian păstrat pe teritoriul german, al cărui muzeu oferă o istorie regională fascinantă, și asigurați-vă că fotografiați turnul său istoric.",
-            "en": "Admire the last surviving Pomeranian castle on German soil, whose museum offers fascinating regional history, and make sure to photograph its historic tower for great memories."
+            "en": "Admire the last surviving Pomeranian castle on German soil, whose museum offers fascinating regional history, and make sure to photograph its historic tower for great memories.",
+            "tr": "Almanya topraklarındaki son ayakta kalan Pommern şatosunu hayranlıkla izleyin; müzesi büyüleyici bölgesel tarih sunar ve tarihi kulesini fotoğraflamayı unutmayın."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Kulturspeicher",
             "hu": "Kulturspeicher Magtár",
             "ro": "Grânarul Cultural",
-            "en": "Kulturspeicher"
+            "en": "Kulturspeicher",
+            "tr": "Kulturspeicher"
           },
           "coords": [
             14.046846,
@@ -747,7 +828,8 @@
             "de": "Entdecken Sie maritime Geschichte und wechselnde Kunstausstellungen in diesem liebevoll restaurierten Getreidespeicher, wobei Sie im Erdgeschoss oft lokale Souvenirs finden.",
             "hu": "Fedezze fel a tengerészeti történelmet és a művészeti kiállításokat ebben a szépen felújított magtárban, a földszinten pedig helyi kézműves szuveníreket is találhat.",
             "ro": "Descoperiți istoria maritimă și expozițiile de artă în acest grânar frumos restaurat, iar la parter veți găsi adesea suveniruri locale autentice foarte atractive.",
-            "en": "Discover maritime history and changing art exhibitions in this beautifully restored granary, and be sure to check out the ground floor for unique local souvenirs."
+            "en": "Discover maritime history and changing art exhibitions in this beautifully restored granary, and be sure to check out the ground floor for unique local souvenirs.",
+            "tr": "Bu güzel restore edilmiş kilerde denizcilik tarihini ve değişen sanat sergilerini keşfedin; zemin katı benzersiz yerel hediyelikler için kontrol etmeyi unutmayın."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Heimatstube Liepgarten",
             "hu": "Liepgarten Helytörténeti Múzeum",
             "ro": "Muzeul Local Liepgarten",
-            "en": "Liepgarten Local History Museum"
+            "en": "Liepgarten Local History Museum",
+            "tr": "Liepgarten Yerel Tarih Müzesi"
           },
           "coords": [
             14.028142,
@@ -770,7 +853,8 @@
             "de": "Tauchen Sie in diesem liebevoll eingerichteten Museum in das historische Schulwesen und Dorfleben ein, wobei die alte Schulbankkulisse ein perfektes Fotomotiv bietet.",
             "hu": "Merüljön el a történelmi iskolai és falusi életben ebben a szeretettel berendezett múzeumban, ahol a régi iskolapadok tökéletes fotótémát nyújtanak emlékbe.",
             "ro": "Cufundați-vă în viața istorică școlară și rurală în acest muzeu amenajat cu dragoste, unde vechile bănci școlare oferă un motiv foto perfect și deosebit.",
-            "en": "Immerse yourself in historic school and village life in this lovingly furnished museum, where the old school desk setting offers a perfect opportunity for great photos."
+            "en": "Immerse yourself in historic school and village life in this lovingly furnished museum, where the old school desk setting offers a perfect opportunity for great photos.",
+            "tr": "Sevgiyle döşenmiş bu müzede tarihi okul ve köy yaşamına dalın; eski okul sırası düzeni harika fotoğraflar için mükemmel bir fırsat sunar."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Tierpark Ueckermünde",
             "hu": "Ueckermündei Állatkert",
             "ro": "Zoo Ueckermünde",
-            "en": "Ueckermünde Zoo"
+            "en": "Ueckermünde Zoo",
+            "tr": "Ueckermünde Hayvanat Bahçesi"
           },
           "coords": [
             14.028,
@@ -793,7 +878,8 @@
             "de": "Erleben Sie über 400 heimische und exotische Tiere in diesem weitläufigen Naturzoo, und nutzen Sie die Fütterungszeiten für ein besonders nahes Tiererlebnis.",
             "hu": "Tapasztalja meg a több mint 400 hazai és egzotikus állat közelségét ebben a tágas vadasparkban, és használja ki az etetési időket a legélvezetesebb látványért.",
             "ro": "Experimentați peste 400 de animale autohtone și exotice în această grădină zoologică spațioasă și profitați de orele de hrănire pentru o interacțiune optimă.",
-            "en": "Experience over 400 native and exotic animals in this spacious nature zoo, and be sure to check the daily feeding schedule for the most interactive viewing sessions."
+            "en": "Experience over 400 native and exotic animals in this spacious nature zoo, and be sure to check the daily feeding schedule for the most interactive viewing sessions.",
+            "tr": "Bu geniş doğa hayvanat bahçesinde 400’ün üzerinde yerel ve egzotik hayvanı deneyimleyin; en etkileşimli izleme oturumları için günlük besleme programını kontrol etmeyi unutmayın."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Strandbad Ueckermünde",
             "hu": "Ueckermünde Strandfürdő",
             "ro": "Ștrandul Ueckermünde",
-            "en": "Ueckermünde Beach"
+            "en": "Ueckermünde Beach",
+            "tr": "Ueckermünde Plajı"
           },
           "coords": [
             14.074732,
@@ -816,7 +903,8 @@
             "de": "Entspannen Sie am feinen Sandstrand des Stettiner Haffs mit seinem flachen Wasser, ideal für Familien, und mieten Sie sich einen Strandkorb für den perfekten Komfort.",
             "hu": "Pihenjen a Stettini-öböl finom homokos strandján, amelynek sekély vize ideális családoknak, és béreljen egy tipikus strandkosarat a tökéletes kényelemért a tengerparton.",
             "ro": "Relaxați-vă pe plaja cu nisip fin, cu apele sale puțin adânci, ideală pentru familii, și închiriați un coș de plajă tipic pentru confort maxim pe parcursul șederii dumneavoastră.",
-            "en": "Relax on the fine sandy beach of the Szczecin Lagoon with its shallow water, ideal for families, and rent a traditional beach chair for maximum comfort during your stay."
+            "en": "Relax on the fine sandy beach of the Szczecin Lagoon with its shallow water, ideal for families, and rent a traditional beach chair for maximum comfort during your stay.",
+            "tr": "Sığ suyu ve ince kumuyla Szczecin Lagünü’nün ince kumlu plajında dinlenin; aileler için ideal ve konforunuz için geleneksel bir plaj sandalyesi kiralayın."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Oderhaff",
             "hu": "Oderhaff",
             "ro": "Laguna Oderhaff",
-            "en": "Oderhaff Lagoon"
+            "en": "Oderhaff Lagoon",
+            "tr": "Oderhaff Lagünü"
           },
           "coords": [
             14.068638,
@@ -839,7 +928,8 @@
             "de": "Genießen Sie den atemberaubenden weiten Blick über das Oderhaff, ein unberührtes Naturparadies, und kommen Sie am späten Nachmittag hierher, um fantastische Lichtspiele zu fotografieren.",
             "hu": "Élvezze a lélegzetelállító kilátást az Oderhaff érintetlen természeti paradicsomára, és érkezzen késő délután a fantasztikus fényjátékok drámai fotózásához.",
             "ro": "Bucurați-vă de priveliștea vastă asupra lagunei Oderhaff, un paradis natural neatins, și veniți aici după-amiaza târziu pentru a fotografia jocurile fantastice de lumini de pe apă.",
-            "en": "Enjoy the breathtaking wide view over the Oderhaff, an untouched natural paradise, and come here in the late afternoon to photograph the fantastic light displays on the horizon."
+            "en": "Enjoy the breathtaking wide view over the Oderhaff, an untouched natural paradise, and come here in the late afternoon to photograph the fantastic light displays on the horizon.",
+            "tr": "Dokunulmamış doğal bir cennet olan Oderhaff manzarasının muhteşem geniş görüşünün tadını çıkarın; ufukta harika ışık oyunlarını fotoğraflamak için buraya geç öğleden sonra gelin."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Unsere Autotour beginnt im Stadtzentrum am Schloss und dem detailreichen Kulturspeicher. Danach fahren wir zur Heimatstube nach Liepgarten für eine Reise in die dörfliche Vergangenheit. Der Nachmittag lockt uns mit Exoten in den Ueckermünder Zoo und zur Entspannung ans Strandbad. Den perfekten Abschluss bildet der weite Blick über das Oderhaff.",
         "hu": "Autós túránk a városközpontban kezdődik a kastélynál és a magtárnál. Ezután Liepgartenbe hajtunk a falusi múltba tett utazáshoz. A délután az állatkert egzotikus lakóival és a stranddal csábít. A tökéletes befejezést az Oderhaffra nyíló széles, lélegzetelállító kilátás jelenti.",
         "ro": "Turul nostru auto începe în centrul orașului, la castel și grânar. Apoi conducem la Liepgarten pentru o călătorie în trecutul satului. După-amiaza ne atrage cu exotism la grădina zoologică și relaxare la plajă. Finalul perfect este vederea vastă, uluitoare, asupra lagunei Oderhaff.",
-        "en": "Our car tour starts in the city center at the castle and the granary. Then we drive to Liepgarten for a journey into the village's past. The afternoon tempts us with exotics at the zoo and relaxation at the beach. The perfect finale is the wide, breathtaking view over the beautiful Oderhaff lagoon."
+        "en": "Our car tour starts in the city center at the castle and the granary. Then we drive to Liepgarten for a journey into the village's past. The afternoon tempts us with exotics at the zoo and relaxation at the beach. The perfect finale is the wide, breathtaking view over the beautiful Oderhaff lagoon.",
+        "tr": "Araba turumuz şehir merkezinde şato ve cilere ile başlar. Sonra Liepgarten’e giderek köyün geçmişine doğru bir yolculuk yapıyoruz. Öğleden sonra bizi hayvanat bahçesindeki egzotikler ve plajdaki dinlenme cezbediyor. Mükemmel final, güzel Oderhaff lagünü üzerinde geniş, nefes kesici bir manzara."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Die Autotour ermöglicht eine trockene Fahrt zwischen Schloss und Kulturspeicher. In Liepgarten bietet die Heimatstube eine gemütliche Zuflucht vor den Schauern. Der Besuch im Tierpark wird mit Schirmen durch die Waldpfade zum Naturerlebnis, während man am Strandbad den Regen bequem vom Fahrzeug aus beobachten kann. Der Tag endet an der Lagune mit einem beeindruckenden Blick auf das verregnete Haff.",
             "hu": "Az autós túra száraz utazást biztosít a kastély és a Kulturspeicher között. Liepgartenben a helytörténeti ház kínál barátságos menedéket a záporok elől. Az állatkerti látogatás esernyővel az erdei ösvényeken igazi kaland, míg a strandnál kényelmesen az autóból figyelhetjük az esőt. A nap a lagúnánál zárul, lenyűgöző kilátással az esőáztatta öbölre.",
             "ro": "Turul cu mașina permite o călătorie uscată între castel și Kulturspeicher. În Liepgarten, muzeul local oferă un refugiu primitor împotriva averselor. Vizita la zoo cu umbrela pe potecile din pădure devine o experiență naturală, în timp ce la plajă puteți observa ploaia confortabil din vehicul. Ziua se încheie la lagună cu o vedere impresionantă asupra apei sub ploaie.",
-            "en": "The car tour allows for a dry journey between the castle and Kulturspeicher. In Liepgarten, the local museum provides a cozy escape from the showers. The zoo visit becomes a nature experience with umbrellas along the forest paths, while at the beach, you can comfortably watch the rain from your vehicle. The day ends at the lagoon with an impressive view of the rainy waters."
+            "en": "The car tour allows for a dry journey between the castle and Kulturspeicher. In Liepgarten, the local museum provides a cozy escape from the showers. The zoo visit becomes a nature experience with umbrellas along the forest paths, while at the beach, you can comfortably watch the rain from your vehicle. The day ends at the lagoon with an impressive view of the rainy waters.",
+            "tr": "Araba turu, şato ile Kulturspeicher arasında kuru bir yolculuk yapma imkanı sunar. Liepgarten’de yerel müze sağanaklardan kaçmak için sıcak bir sığınak sağlar. Hayvanat bahçesi ziyareti orman patikalarında şemsiyelerle doğa deneyimine dönüşürken, plajda aracınızdan rahatça yağmuru izleyebilirsiniz. Gün, yağmurlu suların etkileyici manzarasıyla lagünde sona erer."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Schloss Ueckermünde",
                 "hu": "Ueckermünde Kastély",
                 "ro": "Castelul Ueckermünde",
-                "en": "Ueckermünde Castle"
+                "en": "Ueckermünde Castle",
+                "tr": "Ueckermünde Şatosu"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Schlossgelände; nutzen Sie den kurzen Weg ins Innere, um die prachtvollen Säle ohne nasse Kleidung zu erleben.",
                 "hu": "Parkoljon közvetlenül a kastélynál; használja a rövid utat befelé, hogy vizes ruha nélkül élvezhesse a pompás termeket.",
                 "ro": "Parcați direct la castel; folosiți drumul scurt spre interior pentru a vedea sălile splendide fără haine ude.",
-                "en": "Park directly at the castle grounds; use the short walk inside to experience the magnificent halls without wet clothes."
+                "en": "Park directly at the castle grounds; use the short walk inside to experience the magnificent halls without wet clothes.",
+                "tr": "Doğrudan şato arazisine park edin; kısa iç yürüyüşü sayesinde ıslak kıyafetler olmadan muhteşem salonları deneyimleyin."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Kulturspeicher",
                 "hu": "Kulturspeicher Magtár",
                 "ro": "Grânarul Cultural",
-                "en": "Kulturspeicher"
+                "en": "Kulturspeicher",
+                "tr": "Kulturspeicher"
               },
               "tip_5lang": {
                 "de": "Der Speicher ist ein idealer Ort für regnerische Stunden; im Inneren finden Sie spannende Exponate, während es draußen ungemütlich ist.",
                 "hu": "A magtár ideális hely az esős órákra; belül izgalmas kiállításokat talál, miközben odakint barátságtalan az idő.",
                 "ro": "Grânarul este un loc ideal pentru orele ploioase; în interior veți găsi exponate fascinante, în timp ce afară vremea este neplăcută.",
-                "en": "The granary is an ideal place for rainy hours; inside you will find exciting exhibits while it's unpleasant outside."
+                "en": "The granary is an ideal place for rainy hours; inside you will find exciting exhibits while it's unpleasant outside.",
+                "tr": "Kiler yağmurlu saatler için ideal bir mekandır; dışarısı rahatsız edici olduğunda içeride heyecan verici sergiler bulacaksınız."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Heimatstube Liepgarten",
                 "hu": "Liepgarten Helytörténeti Múzeum",
                 "ro": "Muzeul Local Liepgarten",
-                "en": "Liepgarten Local History Museum"
+                "en": "Liepgarten Local History Museum",
+                "tr": "Liepgarten Yerel Tarih Müzesi"
               },
               "tip_5lang": {
                 "de": "In Liepgarten erwartet Sie eine gemütliche, trockene Zeitreise; das Museum bietet eine perfekte Zuflucht vor dem anhaltenden Regen.",
                 "hu": "Liepgartenben barátságos, száraz időutazás várja; a múzeum tökéletes menedéket nyújt a tartós eső elől.",
                 "ro": "În Liepgarten vă așteaptă o călătorie în timp plăcută și uscată; muzeul oferă un refugiu perfect împotriva ploii persistente.",
-                "en": "A cozy, dry time travel awaits you in Liepgarten; the museum offers a perfect refuge from the persistent rain."
+                "en": "A cozy, dry time travel awaits you in Liepgarten; the museum offers a perfect refuge from the persistent rain.",
+                "tr": "Liepgarten'da sıcak, kuru bir zaman yolculuğu sizi bekliyor; müze ısrarcı yağıştan mükemmel bir sığınak sunuyor."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Tierpark Ueckermünde",
                 "hu": "Ueckermündei Állatkert",
                 "ro": "Zoo Ueckermünde",
-                "en": "Ueckermünde Zoo"
+                "en": "Ueckermünde Zoo",
+                "tr": "Ueckermünde Hayvanat Bahçesi"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie den Regenschirm vom Auto mit in den Park; die bewaldeten Wege bieten zwar etwas Schutz, aber die Schauer ziehen oft tief.",
                 "hu": "Vigye magával az esernyőt az autóból a parkba; az erdős utak bár nyújtanak némi védelmet, a záporok gyakran beérnek a fák alá is.",
                 "ro": "Luați umbrela din mașină în parc; potecile împădurite oferă ceva protecție, dar aversele pătrund adesea printre copaci.",
-                "en": "Take the umbrella from the car into the park; although the wooded paths offer some cover, showers often reach under the trees."
+                "en": "Take the umbrella from the car into the park; although the wooded paths offer some cover, showers often reach under the trees.",
+                "tr": "Arabadan şemsiyeyi parka alın; ağaçlı patikalar bir miktar koruma sağlasa da sağanaklar sık sık ağaçların altına sızıyor."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Strandbad Ueckermünde",
                 "hu": "Ueckermünde Strandfürdő",
                 "ro": "Ștrandul Ueckermünde",
-                "en": "Ueckermünde Beach"
+                "en": "Ueckermünde Beach",
+                "tr": "Ueckermünde Plajı"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das stürmische Haff bequem vom trockenen Auto aus; die Wellen und der Regen erzeugen eine beeindruckende Naturgewalt.",
                 "hu": "Figyelje a viharos öblöt kényelmesen a száraz autóból; a hullámok és az eső lenyűgöző természeti erőt sugároznak.",
                 "ro": "Observați laguna furtunoasă din confortul mașinii uscate; valurile și ploaia creează o forță impresionantă a naturii.",
-                "en": "Watch the stormy lagoon comfortably from the dry car; the waves and rain create an impressive force of nature."
+                "en": "Watch the stormy lagoon comfortably from the dry car; the waves and rain create an impressive force of nature.",
+                "tr": "Fırtınalı lagünü kuru arabadan rahatça izleyin; dalgalar ve yağmur etkileyici bir doğa gücü oluşturuyor."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Oderhaff",
                 "hu": "Oderhaff",
                 "ro": "Laguna Oderhaff",
-                "en": "Oderhaff Lagoon"
+                "en": "Oderhaff Lagoon",
+                "tr": "Oderhaff Lagünü"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick auf das Wasser durch die Windschutzscheibe; die neblige Stimmung über dem Haff ist bei Regen einzigartig schön.",
                 "hu": "Élvezze a tágas kilátást a vízre a szélvédőn keresztül; a ködös hangulat az öböl felett esőben egyedülállóan szép.",
                 "ro": "Bucurați-vă de vederea largă asupra apei prin parbriz; atmosfera cețoasă de deasupra lagunei este de o frumusețe unică pe ploaie.",
-                "en": "Enjoy the wide view of the water through the windshield; the misty atmosphere over the lagoon is uniquely beautiful in the rain."
+                "en": "Enjoy the wide view of the water through the windshield; the misty atmosphere over the lagoon is uniquely beautiful in the rain.",
+                "tr": "Sileceklerin arkasından geniş su manzarasının tadını çıkarın; lagün üzerindeki sisli atmosfer yağmurda benzersiz şekilde güzel görünüyor."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Im warmen Auto führt die Tour vom Schloss direkt zum Kulturspeicher, um die Winterkälte zu umgehen. In Liepgarten wärmt die Heimatstube die Seele mit lokaler Geschichte. Der Tierpark ist im Winter besonders friedlich, doch die Fahrt zum Oderhaff sollte man vor dem frühen Sonnenuntergang um 17 Uhr planen. Der Tag endet mit einem Blick auf das eisige Panorama der Küstenlandschaft.",
             "hu": "A fűtött autóban a kastélytól egyenesen a Kulturspeicherig utazunk, elkerülve a téli hideget. Liepgartenben a helytörténeti ház melengeti a lelket a helyi múlt emlékeivel. Az állatkert télen különösen békés, de az Oderhaffhoz vezető utat érdemes a korai, ötkori naplemente elé időzíteni. A nap a parti táj jeges panorámájának megcsodálásával zárul.",
             "ro": "În mașina încălzită, turul ne poartă de la castel direct la Kulturspeicher, evitând frigul iernii. În Liepgarten, muzeul local încălzește sufletul cu istoria locală. Grădina zoologică este liniștită iarna, dar planificați drumul spre Oderhaff înainte de apusul de la ora 17. Ziua se încheie cu o privire asupra panoramei înghețate a peisajului de coastă.",
-            "en": "In a warm car, the tour goes from the castle directly to the Kulturspeicher to bypass the winter chill. In Liepgarten, the local museum warms the soul with local history. The zoo is especially peaceful in winter, but the drive to Oderhaff should be planned before the early 5 PM sunset. The day ends with a view of the icy panorama of the coastal landscape."
+            "en": "In a warm car, the tour goes from the castle directly to the Kulturspeicher to bypass the winter chill. In Liepgarten, the local museum warms the soul with local history. The zoo is especially peaceful in winter, but the drive to Oderhaff should be planned before the early 5 PM sunset. The day ends with a view of the icy panorama of the coastal landscape.",
+            "tr": "Sıcak bir arabada tur kaleden doğrudan Kulturspeicher'e giderek kış soğuğunu atlatıyor. Liepgarten'da yerel müze yerel tarih ile ruhu ısıtıyor. Hayvanat bahçesi kışın özellikle huzurlu, ancak Oderhaff sürüşü erken saat 17:00'deki gün batımından önce planlanmalı. Gün, kıyı peyzajının buzlu panoramasıyla sona eriyor."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Schloss Ueckermünde",
                 "hu": "Ueckermünde Kastély",
                 "ro": "Castelul Ueckermünde",
-                "en": "Ueckermünde Castle"
+                "en": "Ueckermünde Castle",
+                "tr": "Ueckermünde Kalesi"
               },
               "tip_5lang": {
                 "de": "Das beheizte Schlossmuseum ist der perfekte Startpunkt; genießen Sie die winterliche Ruhe in den historischen Räumen weitab vom Frost.",
                 "hu": "A fűtött kastélymúzeum a tökéletes kiindulópont; élvezze a téli nyugalmat a történelmi termekben, messze a fagyos külvilágtól.",
                 "ro": "Muzeul încălzit al castelului este punctul de plecare perfect; bucurați-vă de liniștea iernii în sălile istorice, departe de ger.",
-                "en": "The heated castle museum is the perfect starting point; enjoy the winter peace in the historical rooms far from the frost."
+                "en": "The heated castle museum is the perfect starting point; enjoy the winter peace in the historical rooms far from the frost.",
+                "tr": "Isıtmalı kale müzesi mükemmel bir başlangıç noktası; tarihi odalarda dondan uzak kış huzurunun tadını çıkarın."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Kulturspeicher",
                 "hu": "Kulturspeicher Magtár",
                 "ro": "Grânarul Cultural",
-                "en": "Kulturspeicher"
+                "en": "Kulturspeicher",
+                "tr": "Kulturspeicher"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die angenehme Wärme im Inneren für eine längere Pause; die Kunstwerke wirken in der winterlichen Stille besonders intensiv.",
                 "hu": "Használja ki a belső tér kellemes melegét egy hosszabb szünetre; a műalkotások a téli csendben különösen intenzíven hatnak.",
                 "ro": "Profitați de căldura plăcută din interior pentru o pauză mai lungă; operele de artă par deosebit de intense în liniștea iernii.",
-                "en": "Use the pleasant warmth inside for a longer break; the artworks feel especially intense in the winter silence."
+                "en": "Use the pleasant warmth inside for a longer break; the artworks feel especially intense in the winter silence.",
+                "tr": "İçerideki hoş sıcaklığı daha uzun bir mola için kullanın; eserler kış sessizliğinde özellikle etkileyici geliyor."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Heimatstube Liepgarten",
                 "hu": "Liepgarten Helytörténeti Múzeum",
                 "ro": "Muzeul Local Liepgarten",
-                "en": "Liepgarten Local History Museum"
+                "en": "Liepgarten Local History Museum",
+                "tr": "Liepgarten Yerel Tarih Müzesi"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die dörfliche Geschichte in der beheizten Heimatstube; ein wunderbarer Ort, um sich zwischen den Fahrten aufzuwärmen.",
                 "hu": "Ismerje meg a falusi történelmet a fűtött helytörténeti házban; csodálatos hely a bemelegedésre az autós utak között.",
                 "ro": "Descoperiți istoria rurală în muzeul local încălzit; un loc minunat pentru a vă încălzi între etapele de condus.",
-                "en": "Experience village history in the heated local museum; a wonderful place to warm up between car rides."
+                "en": "Experience village history in the heated local museum; a wonderful place to warm up between car rides.",
+                "tr": "Isıtmalı yerel müzede köy tarihini deneyimleyin; araba gezileri arasında ısınmak için harika bir yer."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Tierpark Ueckermünde",
                 "hu": "Ueckermündei Állatkert",
                 "ro": "Zoo Ueckermünde",
-                "en": "Ueckermünde Zoo"
+                "en": "Ueckermünde Zoo",
+                "tr": "Ueckermünde Hayvanat Bahçesi"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Parken auf geräumte Wege; der Spaziergang zu den winteraktiven Tieren erfordert festes Schuhwerk und warme Kleidung.",
                 "hu": "Parkoláskor ügyeljen a letakarított utakra; a télen is aktív állatokhoz vezető sétához stabil lábbeli és meleg ruházat szükséges.",
                 "ro": "Atenție la drumurile deszăpezite când parcați; plimbarea către animalele active iarna necesită încălțăminte solidă și haine groase.",
-                "en": "Pay attention to cleared paths when parking; the walk to the winter-active animals requires sturdy footwear and warm clothing."
+                "en": "Pay attention to cleared paths when parking; the walk to the winter-active animals requires sturdy footwear and warm clothing.",
+                "tr": "Park ederken tuzlanmış/yol açılmış patikalara dikkat edin; kışın aktif hayvanlara yürüyüş sağlam ayakkabı ve sıcak giysi gerektirir."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Strandbad Ueckermünde",
                 "hu": "Ueckermünde Strandfürdő",
                 "ro": "Ștrandul Ueckermünde",
-                "en": "Ueckermünde Beach"
+                "en": "Ueckermünde Beach",
+                "tr": "Ueckermünde Plajı"
               },
               "tip_5lang": {
                 "de": "Der Blick auf das eisige Haff ist im Winter spektakulär; bleiben Sie warm im Auto und genießen Sie das Panorama vor dem Sonnenuntergang.",
                 "hu": "A kilátás a jeges öbölre télen látványos; maradjon a meleg autóban, és élvezze a panorámát még a naplemente előtt.",
                 "ro": "Vederea asupra lagunei înghețate este spectaculoasă iarna; rămâneți în mașina caldă și admirați panorama înainte de apus.",
-                "en": "The view of the icy lagoon is spectacular in winter; stay warm in the car and enjoy the panorama before the sunset."
+                "en": "The view of the icy lagoon is spectacular in winter; stay warm in the car and enjoy the panorama before the sunset.",
+                "tr": "Buzlu lagün manzarası kışın muhteşemdir; arabada sıcak kalın ve gün batımından önce panoramanın tadını çıkarın."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Oderhaff",
                 "hu": "Oderhaff",
                 "ro": "Laguna Oderhaff",
-                "en": "Oderhaff Lagoon"
+                "en": "Oderhaff Lagoon",
+                "tr": "Oderhaff Lagünü"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie diesen Aussichtspunkt vor 17 Uhr; die untergehende Wintersonne über der Lagune bietet ein unvergessliches Farbenspiel.",
                 "hu": "Érjen el ehhez a kilátóponthoz 17 óra előtt; a lagúna felett lebukó téli nap felejthetetlen játékkal festi meg az eget.",
                 "ro": "Ajungeți la acest punct de observare înainte de ora 17; soarele de iarnă care apune peste lagună oferă un joc de culori de neuitat.",
-                "en": "Reach this viewpoint before 5 PM; the setting winter sun over the lagoon offers an unforgettable display of colors."
+                "en": "Reach this viewpoint before 5 PM; the setting winter sun over the lagoon offers an unforgettable display of colors.",
+                "tr": "Bu seyir noktasına 17:00'den önce varın; lagün üzerindeki batan kış güneşi unutulmaz bir renk gösterisi sunuyor."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Marienplatz",
             "hu": "Marienplatz",
             "ro": "Marienplatz",
-            "en": "Marienplatz"
+            "en": "Marienplatz",
+            "tr": "Marienplatz"
           },
           "coords": [
             9.611,
@@ -36,7 +37,8 @@
             "de": "Bester Startpunkt für einen Kaffee am Morgen.",
             "hu": "A legjobb kiindulópont egy reggeli kávéhoz.",
             "ro": "Cel mai bun punct de plecare pentru o cafea de dimineață.",
-            "en": "The best starting point for a morning coffee."
+            "en": "The best starting point for a morning coffee.",
+            "tr": "Sabah kahvesi için en iyi başlangıç noktası."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Blaserturm",
             "hu": "Blaserturm",
             "ro": "Blaserturm",
-            "en": "Blaserturm"
+            "en": "Blaserturm",
+            "tr": "Blaserturm"
           },
           "coords": [
             9.612,
@@ -59,7 +62,8 @@
             "de": "Steigen Sie hinauf für einen Blick über die Altstadt.",
             "hu": "Mássz fel a kilátásért az óváros felett.",
             "ro": "Urcați pentru o priveliște asupra orașului vechi.",
-            "en": "Climb up for a view over the old town."
+            "en": "Climb up for a view over the old town.",
+            "tr": "Eski kasaba üzerine bakmak için tırmanın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Waaghaus",
             "hu": "Waaghaus",
             "ro": "Waaghaus",
-            "en": "Waaghaus"
+            "en": "Waaghaus",
+            "tr": "Waaghaus"
           },
           "coords": [
             9.6125,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die spätgotische Architektur.",
             "hu": "Csodáld meg a késő gótikus építészetet.",
             "ro": "Admirați arhitectura gotică târzie.",
-            "en": "Admire the late Gothic architecture."
+            "en": "Admire the late Gothic architecture.",
+            "tr": "Geç gotik mimariye hayran kalın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museum Humpis-Quartier",
             "hu": "Museum Humpis-Quartier",
             "ro": "Muzeul Humpis-Quartier",
-            "en": "Humpis-Quartier Museum"
+            "en": "Humpis-Quartier Museum",
+            "tr": "Humpis-Quartier Müzesi"
           },
           "coords": [
             9.613,
@@ -105,7 +112,8 @@
             "de": "Eines der besterhaltenen spätmittelalterlichen Wohnquartiere.",
             "hu": "Az egyik legjobb állapotban maradt késő középkori lakónegyed.",
             "ro": "Unul dintre cele mai bine conservate cartiere rezidențiale medievale.",
-            "en": "One of the best-preserved late medieval residential quarters."
+            "en": "One of the best-preserved late medieval residential quarters.",
+            "tr": "En iyi korunmuş geç ortaçağ yerleşim bölümlerinden biri."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Liebfrauenkirche",
             "hu": "Liebfrauenkirche",
             "ro": "Liebfrauenkirche",
-            "en": "Liebfrauenkirche"
+            "en": "Liebfrauenkirche",
+            "tr": "Liebfrauenkirche"
           },
           "coords": [
             9.614,
@@ -128,7 +137,8 @@
             "de": "Beachten Sie die Glasmalereien aus dem 15. Jahrhundert.",
             "hu": "Nézd meg a 15. századi üvegablakokat.",
             "ro": "Observați vitraliile din secolul al XV-lea.",
-            "en": "Note the 15th-century stained glass windows."
+            "en": "Note the 15th-century stained glass windows.",
+            "tr": "15. yüzyıla ait vitraylara dikkat edin."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Museum Ravensburger",
             "hu": "Ravensburger Múzeum",
             "ro": "Muzeul Ravensburger",
-            "en": "Ravensburger Museum"
+            "en": "Ravensburger Museum",
+            "tr": "Ravensburger Müzesi"
           },
           "coords": [
             9.6135,
@@ -151,7 +162,8 @@
             "de": "Ein Muss für Spielefans und Familien.",
             "hu": "Kötelező program játékrajongóknak és családoknak.",
             "ro": "O necesitate pentru fanii jocurilor și familii.",
-            "en": "A must for game fans and families."
+            "en": "A must for game fans and families.",
+            "tr": "Oyun meraklıları ve aileler için kaçırılmaması gereken yer."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Mehlsack",
             "hu": "Mehlsack torony",
             "ro": "Turnul Mehlsack",
-            "en": "Mehlsack Tower"
+            "en": "Mehlsack Tower",
+            "tr": "Mehlsack Kulesi"
           },
           "coords": [
             9.615,
@@ -174,7 +187,8 @@
             "de": "Das Wahrzeichen der Stadt mit strahlend weißer Fassade.",
             "hu": "A város jelképe ragyogó fehér homlokzatával.",
             "ro": "Simbolul orașului cu fațada sa albă strălucitoare.",
-            "en": "The landmark of the city with a bright white facade."
+            "en": "The landmark of the city with a bright white facade.",
+            "tr": "Parlak beyaz cephesiyle şehrin simgesi."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Obertor",
             "hu": "Obertor",
             "ro": "Obertor",
-            "en": "Obertor"
+            "en": "Obertor",
+            "tr": "Obertor"
           },
           "coords": [
             9.616,
@@ -197,7 +212,8 @@
             "de": "Das älteste Stadttor von Ravensburg.",
             "hu": "Ravensburg legrégebbi városkapuja.",
             "ro": "Cea mai veche poartă a orașului Ravensburg.",
-            "en": "The oldest city gate of Ravensburg."
+            "en": "The oldest city gate of Ravensburg.",
+            "tr": "Ravensburg’un en eski şehir kapısı."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Ravensburg, die Stadt der Türme und Tore, empfängt Sie mit einer prachtvollen Altstadt. Ihr Spaziergang beginnt am lebendigen Marienplatz, führt vorbei an historischen Kaufmannshäusern und hoch hinauf zum weißen Mehlsack. Tauchen Sie im Humpis-Quartier in die mittelalterliche Geschichte ein und entdecken Sie im Ravensburger Museum die Welt der Spiele, die von hier aus die Welt eroberten.",
         "hu": "Ravensburg, a tornyok és kapuk városa, pompás óvárossal várja látogatóit. A séta a nyüzsgő Marienplatzon kezdődik, történelmi kereskedőházak mellett halad el, és felvezet a fehér Mehlsack toronyhoz. Merüljön el a középkori történelemben a Humpis-negyedben, és fedezze fel a Ravensburger Múzeumban a játékok világát, amelyek innen hódították meg a földtekét.",
         "ro": "Ravensburg, orașul turnurilor și porților, vă întâmpină cu un oraș vechi splendid. Plimbarea începe în piața plină de viață Marienplatz, trece pe lângă case istorice de negustori și urcă până la turnul alb Mehlsack. Scufundați-vă în istoria medievală în cartierul Humpis și descoperiți în Muzeul Ravensburger lumea jocurilor care au cucerit lumea de aici.",
-        "en": "Ravensburg, the city of towers and gates, welcomes you with a magnificent old town. Your walk begins at the lively Marienplatz, leads past historical merchant houses, and up to the white Mehlsack tower. Immerse yourself in medieval history in the Humpis-Quartier and discover the world of games in the Ravensburger Museum, which conquered the world from here."
+        "en": "Ravensburg, the city of towers and gates, welcomes you with a magnificent old town. Your walk begins at the lively Marienplatz, leads past historical merchant houses, and up to the white Mehlsack tower. Immerse yourself in medieval history in the Humpis-Quartier and discover the world of games in the Ravensburger Museum, which conquered the world from here.",
+        "tr": "Kuleler ve kapılar şehri Ravensburg sizi görkemli bir eski şehirle karşılıyor. Yürüyüşünüz canlı Marienplatz’ta başlar, tarihi tüccar evlerinin yanından geçer ve beyaz Mehlsack kulesine çıkar. Humpis-Quartier’de ortaçağ tarihine dalın ve buradan dünyaya yayılan Ravensburger Müzesi’nde oyun dünyasını keşfedin."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +378,11 @@
           "Wear comfortable shoes for the cobblestone streets.",
           "The view from Blaserturm is worth the many steps.",
           "Plan enough time for the Ravensburger Museum."
+        ],
+        "tr": [
+          "Arnavut kaldırımı sokaklar için rahat ayakkabı giyin.",
+          "Blaserturm’dan manzara çok sayıda mertebe değer.",
+          "Ravensburger Müzesi için yeterli zaman planlayın."
         ]
       }
     },
@@ -377,7 +399,8 @@
             "de": "Marienplatz",
             "hu": "Marienplatz",
             "ro": "Marienplatz",
-            "en": "Marienplatz"
+            "en": "Marienplatz",
+            "tr": "Marienplatz"
           },
           "coords": [
             9.611,
@@ -392,7 +415,8 @@
             "de": "Zentraler Platz.",
             "hu": "Központi tér.",
             "ro": "Piața centrală.",
-            "en": "Central square."
+            "en": "Central square.",
+            "tr": "Merkezi meydan."
           }
         },
         {
@@ -400,7 +424,8 @@
             "de": "Untertor",
             "hu": "Untertor",
             "ro": "Untertor",
-            "en": "Untertor"
+            "en": "Untertor",
+            "tr": "Untertor"
           },
           "coords": [
             9.608,
@@ -415,7 +440,8 @@
             "de": "Markantes Stadttor im Westen.",
             "hu": "Jellegzetes nyugati városkapu.",
             "ro": "Poartă de oraș proeminentă în vest.",
-            "en": "Prominent city gate in the west."
+            "en": "Prominent city gate in the west.",
+            "tr": "Batıdaki belirgin şehir kapısı."
           }
         },
         {
@@ -423,7 +449,8 @@
             "de": "Frauentor",
             "hu": "Frauentor",
             "ro": "Frauentor",
-            "en": "Frauentor"
+            "en": "Frauentor",
+            "tr": "Frauentor"
           },
           "coords": [
             9.615,
@@ -438,7 +465,8 @@
             "de": "Einstiger Schutzbau.",
             "hu": "Egykori védmű.",
             "ro": "Fostă structură defensivă.",
-            "en": "Former defensive structure."
+            "en": "Former defensive structure.",
+            "tr": "Eski savunma yapısı."
           }
         },
         {
@@ -446,7 +474,8 @@
             "de": "Museum Humpis-Quartier",
             "hu": "Museum Humpis-Quartier",
             "ro": "Muzeul Humpis-Quartier",
-            "en": "Humpis-Quartier Museum"
+            "en": "Humpis-Quartier Museum",
+            "tr": "Humpis-Quartier Müzesi"
           },
           "coords": [
             9.613,
@@ -461,7 +490,8 @@
             "de": "Spätmittelalter live.",
             "hu": "Élő késő középkor.",
             "ro": "Evul Mediu târziu pe viu.",
-            "en": "Late medieval history live."
+            "en": "Late medieval history live.",
+            "tr": "Geç ortaçağ tarihini canlı olarak deneyimleyin."
           }
         },
         {
@@ -469,7 +499,8 @@
             "de": "Marienplatz (Lunch)",
             "hu": "Marienplatz (Ebéd)",
             "ro": "Marienplatz (Prânz)",
-            "en": "Marienplatz (Lunch)"
+            "en": "Marienplatz (Lunch)",
+            "tr": "Marienplatz (Öğle)"
           },
           "coords": [
             9.611,
@@ -484,7 +515,8 @@
             "de": "Pause im Zentrum.",
             "hu": "Szünet a központban.",
             "ro": "Pauză în centru.",
-            "en": "Break in the center."
+            "en": "Break in the center.",
+            "tr": "Merkezde mola."
           }
         },
         {
@@ -492,7 +524,8 @@
             "de": "Museum Ravensburger",
             "hu": "Ravensburger Múzeum",
             "ro": "Muzeul Ravensburger",
-            "en": "Ravensburger Museum"
+            "en": "Ravensburger Museum",
+            "tr": "Ravensburger Müzesi"
           },
           "coords": [
             9.6135,
@@ -507,7 +540,8 @@
             "de": "Spielerische Geschichte.",
             "hu": "Játékos történelem.",
             "ro": "Istorie ludică.",
-            "en": "Playful history."
+            "en": "Playful history.",
+            "tr": "Oyunlu tarih."
           }
         },
         {
@@ -515,7 +549,8 @@
             "de": "Liebfrauenkirche",
             "hu": "Liebfrauenkirche",
             "ro": "Liebfrauenkirche",
-            "en": "Liebfrauenkirche"
+            "en": "Liebfrauenkirche",
+            "tr": "Liebfrauenkirche"
           },
           "coords": [
             9.614,
@@ -530,7 +565,8 @@
             "de": "Gotische Pracht.",
             "hu": "Gótikus pompa.",
             "ro": "Splendoare gotică.",
-            "en": "Gothic splendor."
+            "en": "Gothic splendor.",
+            "tr": "Gotik görkem."
           }
         },
         {
@@ -538,7 +574,8 @@
             "de": "Mehlsack",
             "hu": "Mehlsack",
             "ro": "Mehlsack",
-            "en": "Mehlsack"
+            "en": "Mehlsack",
+            "tr": "Mehlsack"
           },
           "coords": [
             9.615,
@@ -553,7 +590,8 @@
             "de": "Kurzer, steiler Anstieg.",
             "hu": "Rövid, meredek emelkedő.",
             "ro": "Urcuș scurt și abrupt.",
-            "en": "Short, steep climb."
+            "en": "Short, steep climb.",
+            "tr": "Kısa, dik tırmanış."
           }
         },
         {
@@ -561,7 +599,8 @@
             "de": "Obertor",
             "hu": "Obertor",
             "ro": "Obertor",
-            "en": "Obertor"
+            "en": "Obertor",
+            "tr": "Obertor"
           },
           "coords": [
             9.616,
@@ -576,7 +615,8 @@
             "de": "Abschluss am Turm.",
             "hu": "Befejezés a toronynál.",
             "ro": "Final la turn.",
-            "en": "Finish at the tower."
+            "en": "Finish at the tower.",
+            "tr": "Kulede bitirin."
           }
         }
       ],
@@ -584,7 +624,8 @@
         "de": "Mit dem Fahrrad erkunden Sie nicht nur das Herz von Ravensburg, sondern auch die markanten Stadttore an der Peripherie der Altstadt. Die Route verbindet historische Monumente mit den großen Museen der Stadt.",
         "hu": "Kerékpárral nemcsak Ravensburg szívét fedezheti fel, hanem az óváros szélén található jellegzetes városkapukat is. Az útvonal összeköti a történelmi műemlékeket a város nagy múzeumaival.",
         "ro": "Cu bicicleta veți explora nu doar inima orașului Ravensburg, ci și porțile de oraș proeminente de la periferia centrului vechi. Traseul conectează monumentele istorice cu marile muzee ale orașului.",
-        "en": "By bike, you explore not only the heart of Ravensburg but also the prominent city gates on the periphery of the old town. The route connects historical monuments with the city's great museums."
+        "en": "By bike, you explore not only the heart of Ravensburg but also the prominent city gates on the periphery of the old town. The route connects historical monuments with the city's great museums.",
+        "tr": "Bisikletle sadece Ravensburg’un kalbini değil, aynı zamanda eski şehrin çevresindeki belirgin şehir kapılarını da keşfedersiniz. Rota tarihi anıtları şehrin büyük müzeleriyle birleştirir."
       },
       "gastro_picks": {
         "de": [
@@ -684,6 +725,10 @@
         "en": [
           "Please push your bike in the pedestrian zone.",
           "A lock is essential."
+        ],
+        "tr": [
+          "Yaya bölgesinde bisikletinizi itiniz.",
+          "Kilitlemek zorunludur."
         ]
       }
     },
@@ -700,7 +745,8 @@
             "de": "Marienplatz (Cluster A)",
             "hu": "Marienplatz (A csoport)",
             "ro": "Marienplatz (Cluster A)",
-            "en": "Marienplatz (Cluster A)"
+            "en": "Marienplatz (Cluster A)",
+            "tr": "Marienplatz (Küme A)"
           },
           "coords": [
             9.611,
@@ -715,7 +761,8 @@
             "de": "Parken Sie im Parkhaus P1.",
             "hu": "Parkolj a P1 parkolóházban.",
             "ro": "Parcați în parcarea P1.",
-            "en": "Park in the P1 parking garage."
+            "en": "Park in the P1 parking garage.",
+            "tr": "P1 otopark garajına park edin."
           }
         },
         {
@@ -723,7 +770,8 @@
             "de": "Blaserturm",
             "hu": "Blaserturm",
             "ro": "Blaserturm",
-            "en": "Blaserturm"
+            "en": "Blaserturm",
+            "tr": "Blaserturm"
           },
           "coords": [
             9.612,
@@ -738,7 +786,8 @@
             "de": "Fußläufig vom Marienplatz.",
             "hu": "Gyalog a Marienplatztól.",
             "ro": "La câțiva pași de Marienplatz.",
-            "en": "Walking distance from Marienplatz."
+            "en": "Walking distance from Marienplatz.",
+            "tr": "Marienplatz’a yürüme mesafesinde."
           }
         },
         {
@@ -746,7 +795,8 @@
             "de": "Museum Humpis-Quartier",
             "hu": "Museum Humpis-Quartier",
             "ro": "Muzeul Humpis-Quartier",
-            "en": "Humpis-Quartier Museum"
+            "en": "Humpis-Quartier Museum",
+            "tr": "Humpis-Quartier Müzesi"
           },
           "coords": [
             9.613,
@@ -761,7 +811,8 @@
             "de": "Teil der Altstadt-Tour.",
             "hu": "Az óvárosi túra része.",
             "ro": "Parte a turului orașului vechi.",
-            "en": "Part of the old town tour."
+            "en": "Part of the old town tour.",
+            "tr": "Eski şehir turunun parçası."
           }
         },
         {
@@ -769,7 +820,8 @@
             "de": "Museum Ravensburger",
             "hu": "Ravensburger Múzeum",
             "ro": "Muzeul Ravensburger",
-            "en": "Ravensburger Museum"
+            "en": "Ravensburger Museum",
+            "tr": "Ravensburger Müzesi"
           },
           "coords": [
             9.6135,
@@ -784,7 +836,8 @@
             "de": "Letzter Stopp in Cluster A.",
             "hu": "Utolsó állomás az A csoportban.",
             "ro": "Ultima oprire în Cluster A.",
-            "en": "Last stop in Cluster A."
+            "en": "Last stop in Cluster A.",
+            "tr": "Küme A’daki son durak."
           }
         },
         {
@@ -792,7 +845,8 @@
             "de": "Mehlsack (Cluster B)",
             "hu": "Mehlsack (B csoport)",
             "ro": "Mehlsack (Cluster B)",
-            "en": "Mehlsack (Cluster B)"
+            "en": "Mehlsack (Cluster B)",
+            "tr": "Mehlsack (Küme B)"
           },
           "coords": [
             9.615,
@@ -807,7 +861,8 @@
             "de": "Kurze Fahrt zum Wahrzeichen.",
             "hu": "Rövid autóút a jelképhez.",
             "ro": "Scurtă deplasare auto până la simbol.",
-            "en": "Short drive to the landmark."
+            "en": "Short drive to the landmark.",
+            "tr": "Simgesine kısa sürüş."
           }
         },
         {
@@ -815,7 +870,8 @@
             "de": "Veitsburg Panorama",
             "hu": "Veitsburg panoráma",
             "ro": "Panorama Veitsburg",
-            "en": "Veitsburg Panorama"
+            "en": "Veitsburg Panorama",
+            "tr": "Veitsburg Panorama"
           },
           "coords": [
             9.617,
@@ -830,7 +886,8 @@
             "de": "Bester Blick auf die Stadt.",
             "hu": "A legjobb kilátás a városra.",
             "ro": "Cea mai bună vedere asupra orașului.",
-            "en": "Best view of the city."
+            "en": "Best view of the city.",
+            "tr": "Şehrin en iyi manzarası."
           }
         },
         {
@@ -838,7 +895,8 @@
             "de": "Untertor (Cluster C)",
             "hu": "Untertor (C csoport)",
             "ro": "Untertor (Cluster C)",
-            "en": "Untertor (Cluster C)"
+            "en": "Untertor (Cluster C)",
+            "tr": "Untertor (Küme C)"
           },
           "coords": [
             9.608,
@@ -853,7 +911,8 @@
             "de": "Fahrt zum westlichen Stadttor.",
             "hu": "Utazás a nyugati városkapuhoz.",
             "ro": "Deplasare la poarta de vest a orașului.",
-            "en": "Drive to the western city gate."
+            "en": "Drive to the western city gate.",
+            "tr": "Batıdaki şehir kapısına sürün."
           }
         },
         {
@@ -861,7 +920,8 @@
             "de": "Frauentor",
             "hu": "Frauentor",
             "ro": "Frauentor",
-            "en": "Frauentor"
+            "en": "Frauentor",
+            "tr": "Frauentor"
           },
           "coords": [
             9.615,
@@ -876,7 +936,8 @@
             "de": "Abschluss der Tore-Tour.",
             "hu": "A kapu-túra befejezése.",
             "ro": "Finalul turului porților.",
-            "en": "End of the gates tour."
+            "en": "End of the gates tour.",
+            "tr": "Kapılar turunun sonu."
           }
         }
       ],
@@ -884,7 +945,8 @@
         "de": "Diese Autotour nutzt Cluster, um das Beste von Ravensburg effizient zu erleben. Sie parken zentral für die Museen und den Marienplatz, fahren dann hinauf zur Veitsburg für den Panoramablick und besuchen schließlich die markanten Tore der Stadtbefestigung.",
         "hu": "Ez az autós túra csoportokra bontva segít hatékonyan átélni Ravensburg legjavát. Központilag parkol a múzeumokhoz és a Marienplatzhoz, majd felhajt a Veitsburgba a panorámáért, végül pedig meglátogatja a városfal jellegzetes kapuit.",
         "ro": "Acest tur cu mașina folosește gruparea obiectivelor pentru a experimenta eficient tot ce e mai bun în Ravensburg. Parcați central pentru muzee și Marienplatz, apoi conduceți până la Veitsburg pentru panorama și vizitați porțile proeminente ale fortificației.",
-        "en": "This car tour uses clusters to efficiently experience the best of Ravensburg. You park centrally for the museums and Marienplatz, then drive up to Veitsburg for the panoramic view and visit the prominent gates of the city fortifications."
+        "en": "This car tour uses clusters to efficiently experience the best of Ravensburg. You park centrally for the museums and Marienplatz, then drive up to Veitsburg for the panoramic view and visit the prominent gates of the city fortifications.",
+        "tr": "Bu araba turu, Ravensburg’un en iyilerini verimli şekilde deneyimlemek için kümeleri kullanır. Müzeler ve Marienplatz için merkezi olarak park eder, ardından panoramik manzara için Veitsburg’a çıkıp şehrin belirgin sur kapılarını ziyaret edersiniz."
       },
       "gastro_picks": {
         "de": [
@@ -984,6 +1046,10 @@
         "en": [
           "Use the parking guidance systems.",
           "P1 parking garage is the most central."
+        ],
+        "tr": [
+          "Park rehberlik sistemlerini kullanın.",
+          "P1 otopark garajı en merkezi olandır."
         ]
       }
     },
@@ -1000,7 +1066,8 @@
             "de": "Marienplatz",
             "hu": "Marienplatz",
             "ro": "Marienplatz",
-            "en": "Marienplatz"
+            "en": "Marienplatz",
+            "tr": "Marienplatz"
           },
           "coords": [
             9.611,
@@ -1015,7 +1082,8 @@
             "de": "Zentraler Busknotenpunkt.",
             "hu": "Központi buszcsomópont.",
             "ro": "Nod central de autobuze.",
-            "en": "Central bus hub."
+            "en": "Central bus hub.",
+            "tr": "Merkezi otobüs terminali."
           }
         },
         {
@@ -1023,7 +1091,8 @@
             "de": "Blaserturm",
             "hu": "Blaserturm",
             "ro": "Blaserturm",
-            "en": "Blaserturm"
+            "en": "Blaserturm",
+            "tr": "Blaserturm"
           },
           "coords": [
             9.612,
@@ -1038,7 +1107,8 @@
             "de": "Mitten im Zentrum.",
             "hu": "A központ közepén.",
             "ro": "Chiar în centru.",
-            "en": "Right in the center."
+            "en": "Right in the center.",
+            "tr": "Tam merkezde."
           }
         },
         {
@@ -1046,7 +1116,8 @@
             "de": "Museum Humpis-Quartier",
             "hu": "Museum Humpis-Quartier",
             "ro": "Muzeul Humpis-Quartier",
-            "en": "Humpis-Quartier Museum"
+            "en": "Humpis-Quartier Museum",
+            "tr": "Humpis-Quartier Müzesi"
           },
           "coords": [
             9.613,
@@ -1061,7 +1132,8 @@
             "de": "Vom Marienplatz zu Fuß.",
             "hu": "A Marienplatztól gyalog.",
             "ro": "De la Marienplatz pe jos.",
-            "en": "On foot from Marienplatz."
+            "en": "On foot from Marienplatz.",
+            "tr": "Marienplatz'tan yürüyerek."
           }
         },
         {
@@ -1069,7 +1141,8 @@
             "de": "Museum Ravensburger",
             "hu": "Ravensburger Múzeum",
             "ro": "Muzeul Ravensburger",
-            "en": "Ravensburger Museum"
+            "en": "Ravensburger Museum",
+            "tr": "Ravensburger Müzesi"
           },
           "coords": [
             9.6135,
@@ -1084,7 +1157,8 @@
             "de": "Kurzer Spaziergang.",
             "hu": "Rövid séta.",
             "ro": "Scurtă plimbare.",
-            "en": "Short walk."
+            "en": "Short walk.",
+            "tr": "Kısa yürüyüş."
           }
         },
         {
@@ -1092,7 +1166,8 @@
             "de": "Mehlsack",
             "hu": "Mehlsack",
             "ro": "Mehlsack",
-            "en": "Mehlsack"
+            "en": "Mehlsack",
+            "tr": "Mehlsack"
           },
           "coords": [
             9.615,
@@ -1107,7 +1182,8 @@
             "de": "Buslinie 1 hält in der Nähe.",
             "hu": "Az 1-es busz megáll a közelben.",
             "ro": "Linia 1 oprește în apropiere.",
-            "en": "Bus line 1 stops nearby."
+            "en": "Bus line 1 stops nearby.",
+            "tr": "1 numaralı otobüs hattı yakında duruyor."
           }
         },
         {
@@ -1115,7 +1191,8 @@
             "de": "Obertor",
             "hu": "Obertor",
             "ro": "Obertor",
-            "en": "Obertor"
+            "en": "Obertor",
+            "tr": "Obertor"
           },
           "coords": [
             9.616,
@@ -1130,7 +1207,8 @@
             "de": "Oberhalb der Altstadt.",
             "hu": "Az óváros felett.",
             "ro": "Deasupra orașului vechi.",
-            "en": "Above the old town."
+            "en": "Above the old town.",
+            "tr": "Eski kentin üzerinde."
           }
         },
         {
@@ -1138,7 +1216,8 @@
             "de": "Untertor",
             "hu": "Untertor",
             "ro": "Untertor",
-            "en": "Untertor"
+            "en": "Untertor",
+            "tr": "Untertor"
           },
           "coords": [
             9.608,
@@ -1153,7 +1232,8 @@
             "de": "Mit dem Stadtbus erreichbar.",
             "hu": "Helyi busszal elérhető.",
             "ro": "Accesibil cu autobuzul urban.",
-            "en": "Accessible by city bus."
+            "en": "Accessible by city bus.",
+            "tr": "Şehir otobüsüyle ulaşılabilir."
           }
         }
       ],
@@ -1161,7 +1241,8 @@
         "de": "Nutzen Sie das ausgezeichnete Stadtbussystem von Ravensburg. Der Marienplatz dient als zentraler Umstiegspunkt, von dem aus Sie alle Sehenswürdigkeiten und die historischen Tore bequem erreichen können.",
         "hu": "Használja Ravensburg kiváló városi buszhálózatát. A Marienplatz központi átszállási pontként szolgál, ahonnan minden látnivaló és történelmi kapu kényelmesen elérhető.",
         "ro": "Utilizați excelentul sistem de autobuze urbane din Ravensburg. Marienplatz servește ca punct central de transfer, de unde puteți ajunge cu ușurință la toate atracțiile și porțile istorice.",
-        "en": "Use Ravensburg's excellent city bus system. Marienplatz serves as a central transfer point from which you can easily reach all the sights and historical gates."
+        "en": "Use Ravensburg's excellent city bus system. Marienplatz serves as a central transfer point from which you can easily reach all the sights and historical gates.",
+        "tr": "Ravensburg'un mükemmel şehir otobüs sistemini kullanın. Marienplatz, tüm turistik yerler ve tarihi kapılara kolayca ulaşabileceğiniz merkezi aktarma noktasıdır."
       },
       "gastro_picks": {
         "de": [
@@ -1261,6 +1342,10 @@
         "en": [
           "Day ticket is worth it.",
           "Buses run frequently."
+        ],
+        "tr": [
+          "Günlük bilet buna değer.",
+          "Otobüsler sık çalışır."
         ]
       }
     }

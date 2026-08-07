@@ -3,55 +3,64 @@
     "de": "Neumarkt, 01067 Dresden",
     "hu": "Neumarkt, 01067 Dresden",
     "ro": "Neumarkt, 01067 Dresden",
-    "en": "Neumarkt, 01067 Dresden"
+    "en": "Neumarkt, 01067 Dresden",
+    "tr": "Neumarkt, 01067 Dresden"
   },
   "openingHours": {
     "de": "Kirche Mo-Fr 10:00-11:30 & 13:00-17:30 (variiert)",
     "hu": "Templom H-P 10:00-11:30 & 13:00-17:30 (változó)",
     "ro": "Biserica Lu-Vi 10:00-11:30 & 13:00-17:30 (variază)",
-    "en": "Church Mon-Fri 10:00-11:30 & 13:00-17:30 (varies)"
+    "en": "Church Mon-Fri 10:00-11:30 & 13:00-17:30 (varies)",
+    "tr": "Kilise Pazartesi-Cuma 10:00-11:30 ve 13:00-17:30 (değişebilir)"
   },
   "entranceFee": {
     "de": "Kirche kostenlos (Spende erbeten), Kuppelaufstieg ca. 10,00 €",
     "hu": "Templom ingyenes (adományt szívesen vesznek), kupolamászás kb. 10,00 €",
     "ro": "Biserica gratuită (donațiile sunt binevenite), urcarea în cupolă aprox. 10,00 €",
-    "en": "Church free (donations appreciated), dome ascent approx. €10.00"
+    "en": "Church free (donations appreciated), dome ascent approx. €10.00",
+    "tr": "Kilise ücretsiz (bağışlar memnuniyetle karşılanır), kubbe çıkışı yaklaşık €10,00"
   },
   "website": "https://www.frauenkirche-dresden.de",
   "publicTransport": {
     "de": "Straßenbahnlinien 1/2/4 bis Altmarkt",
     "hu": "1-es/2-es/4-es villamos az Altmarktig",
     "ro": "Liniile de tramvai 1/2/4 până la Altmarkt",
-    "en": "Tram lines 1/2/4 to Altmarkt"
+    "en": "Tram lines 1/2/4 to Altmarkt",
+    "tr": "Altmarkt’a giden 1/2/4 tramvay hatları"
   },
   "parking": {
     "de": "Tiefgarage Neumarkt direkt unter der Kirche, ca. 2,50 €/h",
     "hu": "Neumarkt mélygarázs közvetlenül a templom alatt, kb. 2,50 €/óra",
     "ro": "Parcare subterană Neumarkt direct sub biserică, aprox. 2,50 €/h",
-    "en": "Neumarkt underground parking directly under the church, approx. €2.50/h"
+    "en": "Neumarkt underground parking directly under the church, approx. €2.50/h",
+    "tr": "Kilise altındaki Neumarkt yer altı otoparkı, yaklaşık €2,50/saat"
   },
   "accessibility": {
     "de": "Kirchenraum über Rampe zugänglich, Kuppelaufstieg nicht barrierefrei",
     "hu": "Templomtér rámpán keresztül közelíthető meg, kupolamászás nem akadálymentes",
     "ro": "Sala bisericii accesibilă prin rampă, urcarea în cupolă nu este accesibilă",
-    "en": "Church space accessible via ramp, dome ascent not barrier-free"
+    "en": "Church space accessible via ramp, dome ascent not barrier-free",
+    "tr": "Kilise alanı rampayla erişilebilir, kubbe çıkışı engelsiz değil"
   },
   "photoRules": {
     "de": "In der Kirche während der Besichtigungszeit erlaubt, ohne Blitz und Stativ",
     "hu": "A templomban a látogatási idő alatt engedélyezett, vaku és állvány nélkül",
     "ro": "Permisă în biserică în timpul orelor de vizitare, fără bliț și trepied",
-    "en": "Allowed in church during visiting hours, without flash and tripod"
+    "en": "Allowed in church during visiting hours, without flash and tripod",
+    "tr": "Ziyaret saatlerinde kilisede izinli, flaş ve tripod olmadan"
   },
   "bestTimeToVisit": {
     "de": "Direkt zur Öffnung um 10:00 Uhr, um Wartezeiten am Eingang zu vermeiden",
     "hu": "Közvetlenül nyitáskor, 10:00 órakor, a bejárati várakozási idő elkerülése érdekében",
     "ro": "Direct la deschidere la ora 10:00, pentru a evita timpii de așteptare la intrare",
-    "en": "Directly at opening at 10 am to avoid wait times at the entrance"
+    "en": "Directly at opening at 10 am to avoid wait times at the entrance",
+    "tr": "Girişte bekleme sürelerini önlemek için sabah 10.00’da açılışta direkt gidin"
   },
   "audioGuide": {
     "de": "ja, in mehreren Sprachen gegen Gebühr am Kircheneingang",
     "hu": "igen, több nyelven, díj ellenében a templom bejáratánál",
     "ro": "da, în mai multe limbi, contra cost la intrarea în biserică",
-    "en": "yes, in several languages for a fee at the church entrance"
+    "en": "yes, in several languages for a fee at the church entrance",
+    "tr": "Evet, kilise girişinde ücret karşılığında birkaç dilde mevcut"
   }
 }

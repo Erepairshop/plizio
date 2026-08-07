@@ -21,7 +21,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             11.4251,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die Mischung aus Gotik und Renaissance.",
             "hu": "Csodáld meg a gótikus és reneszánsz stílus keveredését.",
             "ro": "Admiră amestecul de stiluri gotic și renascentist.",
-            "en": "Admire the blend of Gothic and Renaissance architecture."
+            "en": "Admire the blend of Gothic and Renaissance architecture.",
+            "tr": "Gotik ve Rönesans mimarisinin karışımını hayranlıkla izleyin."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Asamkirche Maria de Victoria",
             "hu": "Asam-templom",
             "ro": "Biserica Asam",
-            "en": "Asam Church"
+            "en": "Asam Church",
+            "tr": "Asam Kilisesi"
           },
           "coords": [
             11.4225,
@@ -61,7 +64,8 @@
             "de": "Das Deckenfresko ist ein Meisterwerk des Barock.",
             "hu": "A mennyezeti freskó a barokk igazi mesterműve.",
             "ro": "Fresca de pe tavan este o capodoperă a barocului.",
-            "en": "The ceiling fresco is a masterpiece of Baroque art."
+            "en": "The ceiling fresco is a masterpiece of Baroque art.",
+            "tr": "Tavan freski Barok sanatının bir başyapıtıdır."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Liebfrauenmünster",
             "hu": "Miasszonyunk-székesegyház",
             "ro": "Catedrala Liebfrauenmünster",
-            "en": "Liebfrauenmünster"
+            "en": "Liebfrauenmünster",
+            "tr": "Liebfrauenmünster"
           },
           "coords": [
             11.4212,
@@ -85,7 +90,8 @@
             "de": "Achten Sie auf den schiefen Hochaltar.",
             "hu": "Figyeld meg a különleges, ferde főoltárt.",
             "ro": "Observă altarul principal neobișnuit de înclinat.",
-            "en": "Look out for the uniquely tilted high altar."
+            "en": "Look out for the uniquely tilted high altar.",
+            "tr": "Eşsiz eğimli yüksek sunağa dikkat edin."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în orașul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "tr": "Eski Kent'te öğle yemeği"
           },
           "coords": [
             11.4235,
@@ -109,7 +116,8 @@
             "de": "Probieren Sie bayerische Weisswurst mit Breze.",
             "hu": "Kóstolj bajor fehérkolbászt pereccel.",
             "ro": "Încearcă faimosul Weisswurst bavarez cu covrigi.",
-            "en": "Try authentic Bavarian Weisswurst with pretzels."
+            "en": "Try authentic Bavarian Weisswurst with pretzels.",
+            "tr": "Pretzel ile gerçek Bavyera Weißwurst'ünü deneyin."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Deutsches Medizinhistorisches Museum",
             "hu": "Orvostörténeti Múzeum",
             "ro": "Muzeul de Istorie a Medicinei",
-            "en": "Medical History Museum"
+            "en": "Medical History Museum",
+            "tr": "Tıp Tarihi Müzesi"
           },
           "coords": [
             11.4195,
@@ -133,7 +142,8 @@
             "de": "Der Arzneipflanzengarten ist besonders im Sommer schön.",
             "hu": "A gyógynövénykert nyáron a legszebb.",
             "ro": "Grădina de plante medicinale este superbă vara.",
-            "en": "The medicinal herb garden is beautiful in summer."
+            "en": "The medicinal herb garden is beautiful in summer.",
+            "tr": "Şifalı bitki bahçesi yazın çok güzel oluyor."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Neues Schloss",
             "hu": "Új Kastély",
             "ro": "Castelul Nou",
-            "en": "New Castle"
+            "en": "New Castle",
+            "tr": "Yeni Kale"
           },
           "coords": [
             11.4292,
@@ -157,7 +168,8 @@
             "de": "Besuchen Sie das Bayerische Armeemuseum im Inneren.",
             "hu": "Látogasd meg a benne lévő Bajor Hadtörténeti Múzeumot.",
             "ro": "Vizitează Muzeul Armatei Bavareze din interior.",
-            "en": "Visit the Bavarian Army Museum located inside."
+            "en": "Visit the Bavarian Army Museum located inside.",
+            "tr": "İçinde yer alan Bavyera Ordusu Müzesi'ni ziyaret edin."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Klenzepark",
             "hu": "Klenzepark",
             "ro": "Klenzepark",
-            "en": "Klenzepark"
+            "en": "Klenzepark",
+            "tr": "Klenzepark"
           },
           "coords": [
             11.4298,
@@ -181,7 +194,8 @@
             "de": "Perfekter Ort für einen Spaziergang an der Donau.",
             "hu": "Tökéletes hely egy Duna-parti sétához.",
             "ro": "Locul perfect pentru o plimbare pe malul Dunării.",
-            "en": "Perfect spot for a walk along the Danube river."
+            "en": "Perfect spot for a walk along the Danube river.",
+            "tr": "Donau (Dinberg) nehri boyunca yürümek için mükemmel bir nokta."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Entdecken Sie Ingolstadt zu Fuß. Wir starten am historischen Rathausplatz und tauchen in die barocke Welt der Asamkirche ein. Nach dem Besuch des imposanten Münsters genießen wir ein bayerisches Mittagessen. Der Nachmittag gehört der Wissenschaft im Medizinhistorischen Museum und der herzoglichen Macht im Neuen Schloss, bevor wir den Tag entspannt im Klenzepark ausklingen lassen.",
         "hu": "Fedezze fel Ingolstadtot gyalogosan! A történelmi városháza térről indulunk, majd elmerülünk az Asam-templom barokk világában. Az impozáns székesegyház után egy hamisítatlan bajor ebédet élvezünk. A délután az orvostudományé és a hercegi hatalomé az Új Kastélyban, végül a napot a Klenzepark zöldjében, a Duna-parton zárjuk.",
         "ro": "Descoperiți Ingolstadt la pas. Începem în piața istorică a primăriei și ne cufundăm în lumea barocă a Bisericii Asam. După vizitarea catedralei impunătoare, savurăm un prânz bavarez. După-amiaza este dedicată științei la Muzeul de Istorie a Medicinei și puterii ducale la Castelul Nou, înainte de a încheia ziua relaxați în Klenzepark.",
-        "en": "Explore Ingolstadt on foot. We start at the historic Town Hall Square and dive into the Baroque world of the Asam Church. After visiting the imposing Cathedral, we enjoy a genuine Bavarian lunch. The afternoon is dedicated to science at the Medical History Museum and ducal power at the New Castle, finally ending the day relaxed in the greenery of Klenzepark by the Danube."
+        "en": "Explore Ingolstadt on foot. We start at the historic Town Hall Square and dive into the Baroque world of the Asam Church. After visiting the imposing Cathedral, we enjoy a genuine Bavarian lunch. The afternoon is dedicated to science at the Medical History Museum and ducal power at the New Castle, finally ending the day relaxed in the greenery of Klenzepark by the Danube.",
+        "tr": "Ingolstadt'ı yürüyerek keşfedin. Tarihi Belediye Meydanı'ndan başlıyoruz ve Asam Kilisesi'nin Barok dünyasına dalıyoruz. Görkemli Katedrali ziyaret ettikten sonra gerçek bir Bavyera öğle yemeğinin tadını çıkarıyoruz. Öğleden sonra Tıp Tarihi Müzesi'nde bilime, Yeni Kale'de dükalık gücüne zaman ayırıyoruz ve günün sonunda Donau kenarındaki Klenzepark'ın yeşillikleri içinde rahatlayarak bitiriyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -345,6 +360,11 @@
           "The Old Town is compact and best explored on foot.",
           "On Sundays, church access is limited during services.",
           "Use the parking garages on the Old Town ring road if arriving by car."
+        ],
+        "tr": [
+          "Eski Kent kompakt ve en iyi yürüyerek keşfedilir.",
+          "Pazar günleri ayinler sırasında kiliseye giriş sınırlı olabilir.",
+          "Arabayla geliyorsanız Eski Kent çevre yolundaki otoparkları kullanın."
         ]
       }
     },
@@ -361,7 +381,8 @@
             "de": "Audi Forum Ingolstadt",
             "hu": "Audi Forum",
             "ro": "Audi Forum",
-            "en": "Audi Forum"
+            "en": "Audi Forum",
+            "tr": "Audi Forum"
           },
           "coords": [
             11.4142,
@@ -377,7 +398,8 @@
             "de": "Ein Muss für Autofans.",
             "hu": "Autórajongóknak kötelező.",
             "ro": "Obligatoriu pentru fanii auto.",
-            "en": "A must-visit for car enthusiasts."
+            "en": "A must-visit for car enthusiasts.",
+            "tr": "Araba meraklıları için mutlaka ziyaret edilmeli."
           }
         },
         {
@@ -385,7 +407,8 @@
             "de": "Kreuztor",
             "hu": "Kereszt-kapu",
             "ro": "Poarta Crucii",
-            "en": "Kreuztor"
+            "en": "Kreuztor",
+            "tr": "Kreuztor"
           },
           "coords": [
             11.4188,
@@ -401,7 +424,8 @@
             "de": "Das Wahrzeichen der Stadt.",
             "hu": "A város jelképe.",
             "ro": "Simbolul orașului.",
-            "en": "The landmark of the city."
+            "en": "The landmark of the city.",
+            "tr": "Şehrin simgesi."
           }
         },
         {
@@ -409,7 +433,8 @@
             "de": "Liebfrauenmünster",
             "hu": "Székesegyház",
             "ro": "Catedrala",
-            "en": "Cathedral"
+            "en": "Cathedral",
+            "tr": "Katedral"
           },
           "coords": [
             11.4212,
@@ -425,7 +450,8 @@
             "de": "Beeindruckende Spätgotik.",
             "hu": "Lenyűgöző késő gótika.",
             "ro": "Gotic târziu impresionant.",
-            "en": "Impressive Late Gothic architecture."
+            "en": "Impressive Late Gothic architecture.",
+            "tr": "Etkileyici Geç Gotik mimari."
           }
         },
         {
@@ -433,7 +459,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "tr": "Öğle yemeği"
           },
           "coords": [
             11.4245,
@@ -449,7 +476,8 @@
             "de": "Stärken für die Weiterfahrt.",
             "hu": "Gyűjts erőt a folytatáshoz.",
             "ro": "Prinde puteri pentru drum.",
-            "en": "Fuel up for the rest of the ride."
+            "en": "Fuel up for the rest of the ride.",
+            "tr": "Günün geri kalanı için enerji depolayın."
           }
         },
         {
@@ -457,7 +485,8 @@
             "de": "Wildpark am Baggersee",
             "hu": "Vadaspark a Baggersee-nél",
             "ro": "Parcul de animale la Baggersee",
-            "en": "Wildpark am Baggersee"
+            "en": "Wildpark am Baggersee",
+            "tr": "Baggersee Yaban Parkı"
           },
           "coords": [
             11.4005,
@@ -473,7 +502,8 @@
             "de": "Hirsche und Wildschweine hautnah.",
             "hu": "Szarvasok és vaddisznók testközelből.",
             "ro": "Căprioare și mistreți de aproape.",
-            "en": "See deer and wild boars up close."
+            "en": "See deer and wild boars up close.",
+            "tr": "Geyik ve yaban domuzlarını yakından görün."
           }
         },
         {
@@ -481,7 +511,8 @@
             "de": "Klenzepark",
             "hu": "Klenzepark",
             "ro": "Klenzepark",
-            "en": "Klenzepark"
+            "en": "Klenzepark",
+            "tr": "Klenzepark"
           },
           "coords": [
             11.4298,
@@ -497,7 +528,8 @@
             "de": "Schöne Radwege entlang der Donau.",
             "hu": "Szép kerékpárutak a Duna mentén.",
             "ro": "Piste de biciclete frumoase pe malul Dunării.",
-            "en": "Beautiful bike paths along the Danube."
+            "en": "Beautiful bike paths along the Danube.",
+            "tr": "Donau boyunca güzel bisiklet yolları."
           }
         }
       ],
@@ -505,7 +537,8 @@
         "de": "Mit dem Rad erkunden wir Ingolstadt weitläufiger. Von der modernen Audi-Welt radeln wir zum historischen Kreuztor und in die Altstadt. Nach einer Pause geht es hinaus zum Baggersee und dem Wildpark, bevor wir über die Donau-Radwege zurück zum Klenzepark fahren.",
         "hu": "Kerékpárral tágabb körben fedezzük fel Ingolstadtot. A modern Audi-világtól a történelmi Kreuztorig és az óvárosig tekerünk. Pihenő után irány a Baggersee és a vadaspark, majd a Duna menti bringautakon térünk vissza a Klenzeparkhoz.",
         "ro": "Cu bicicleta explorăm Ingolstadt pe o rază mai largă. De la lumea modernă Audi pedalăm spre poarta istorică Kreuztor și centrul vechi. După o pauză, mergem spre lacul Baggersee și parcul de animale, revenind pe pistele de pe malul Dunării spre Klenzepark.",
-        "en": "By bike, we explore Ingolstadt more extensively. From the modern Audi world, we cycle to the historic Kreuztor and the Old Town. After a break, we head out to the Baggersee lake and the wild park, before returning via the Danube bike paths to Klenzepark."
+        "en": "By bike, we explore Ingolstadt more extensively. From the modern Audi world, we cycle to the historic Kreuztor and the Old Town. After a break, we head out to the Baggersee lake and the wild park, before returning via the Danube bike paths to Klenzepark.",
+        "tr": "Bisikletle Ingolstadt'ı daha geniş çapta keşfediyoruz. Modern Audi dünyasından tarihi Kreuztor ve Eski Kent'e pedal çeviriyoruz. Bir mola sonrası Baggersee gölü ve yaban parkına gidiyoruz, ardından Donau bisiklet yolları üzerinden Klenzepark'a dönüyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -609,6 +642,11 @@
           "Ingolstadt is very bike-friendly.",
           "Use the Danube Bike Path for relaxed riding.",
           "Watch out for pedestrian zones in the Old Town."
+        ],
+        "tr": [
+          "Ingolstadt bisiklet dostu bir şehir.",
+          "Rahat sürüş için Donau Bisiklet Yolu'nu kullanın.",
+          "Eski Kent'te yaya bölgelerine dikkat edin."
         ]
       }
     },
@@ -625,7 +663,8 @@
             "de": "Audi Forum Ingolstadt",
             "hu": "Audi Forum",
             "ro": "Audi Forum",
-            "en": "Audi Forum"
+            "en": "Audi Forum",
+            "tr": "Audi Forum"
           },
           "coords": [
             11.4142,
@@ -641,7 +680,8 @@
             "de": "Großer Parkplatz vorhanden.",
             "hu": "Nagy parkoló áll rendelkezésre.",
             "ro": "Parcare mare disponibilă.",
-            "en": "Large parking lot available."
+            "en": "Large parking lot available.",
+            "tr": "Büyük otopark mevcut."
           }
         },
         {
@@ -649,7 +689,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             11.4251,
@@ -665,7 +706,8 @@
             "de": "Parken Sie im Parkhaus 'Theater'.",
             "hu": "Parkolj a Theater parkolóházban.",
             "ro": "Parcați în parcarea 'Theater'.",
-            "en": "Park in the 'Theater' parking garage."
+            "en": "Park in the 'Theater' parking garage.",
+            "tr": "'Theater' otoparkına park edin."
           }
         },
         {
@@ -673,7 +715,8 @@
             "de": "Liebfrauenmünster",
             "hu": "Székesegyház",
             "ro": "Catedrala",
-            "en": "Cathedral"
+            "en": "Cathedral",
+            "tr": "Katedral"
           },
           "coords": [
             11.4212,
@@ -689,7 +732,8 @@
             "de": "Kurzer Spaziergang vom Rathaus.",
             "hu": "Rövid séta a városházától.",
             "ro": "Scurtă plimbare de la primărie.",
-            "en": "Short walk from the Town Hall."
+            "en": "Short walk from the Town Hall.",
+            "tr": "Belediye Binası'na kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -697,7 +741,8 @@
             "de": "Bayerisches Mittagessen",
             "hu": "Bajor ebéd",
             "ro": "Prânz bavarez",
-            "en": "Bavarian Lunch"
+            "en": "Bavarian Lunch",
+            "tr": "Bavyera Öğle Yemeği"
           },
           "coords": [
             11.4235,
@@ -713,7 +758,8 @@
             "de": "Regionale Spezialitäten genießen.",
             "hu": "Élvezd a regionális specialitásokat.",
             "ro": "Savurează specialități regionale.",
-            "en": "Enjoy regional specialties."
+            "en": "Enjoy regional specialties.",
+            "tr": "Bölgesel lezzetlerin tadını çıkarın."
           }
         },
         {
@@ -721,7 +767,8 @@
             "de": "Neues Schloss",
             "hu": "Új Kastély",
             "ro": "Castelul Nou",
-            "en": "New Castle"
+            "en": "New Castle",
+            "tr": "Yeni Kale"
           },
           "coords": [
             11.4292,
@@ -737,7 +784,8 @@
             "de": "Spaziergang am Schlossgraben.",
             "hu": "Séta a várárok mentén.",
             "ro": "Plimbare pe lângă șanțul castelului.",
-            "en": "Walk along the castle moat."
+            "en": "Walk along the castle moat.",
+            "tr": "Kale sur hendegi boyunca yürüyün."
           }
         },
         {
@@ -745,7 +793,8 @@
             "de": "Wildpark am Baggersee",
             "hu": "Vadaspark",
             "ro": "Parcul de animale",
-            "en": "Wild Park"
+            "en": "Wild Park",
+            "tr": "Yaban Parkı"
           },
           "coords": [
             11.4005,
@@ -761,7 +810,8 @@
             "de": "Kurze Fahrt zum Stadtrand.",
             "hu": "Rövid autóút a város szélére.",
             "ro": "Scurtă călătorie spre marginea orașului.",
-            "en": "Short drive to the outskirts."
+            "en": "Short drive to the outskirts.",
+            "tr": "Şehrin dışına kısa sürüş mesafesinde."
           }
         }
       ],
@@ -769,7 +819,8 @@
         "de": "Diese Auto-Tour kombiniert Technik, Geschichte und Natur. Wir starten im Audi Forum, bevor wir das Auto im Zentrum abstellen und die Altstadt zu Fuß erkunden (Münster, Schloss, Mittagessen). Zum Abschluss fahren wir zum Wildpark am Baggersee für eine entspannte Naturpause.",
         "hu": "Ez az autós túra ötvözi a technikát, a történelmet és a természetet. Az Audi Forumban kezdünk, majd az autót a központban hagyva gyalog fedezzük fel az óvárost (székesegyház, kastély, ebéd). Végezetül a Baggersee melletti vadasparkhoz hajtunk egy pihentető erdei sétára.",
         "ro": "Acest tur cu mașina combină tehnologia, istoria și natura. Începem la Audi Forum, apoi lăsăm mașina în centru și explorăm orașul vechi la pas (Catedrala, Castelul, prânzul). La final, mergem la parcul de animale de lângă lacul Baggersee pentru o pauză relaxantă în natură.",
-        "en": "This car tour combines technology, history, and nature. We start at the Audi Forum, then leave the car in the center to explore the Old Town on foot (Cathedral, Castle, lunch). Finally, we drive to the wild park near Baggersee lake for a relaxing nature break."
+        "en": "This car tour combines technology, history, and nature. We start at the Audi Forum, then leave the car in the center to explore the Old Town on foot (Cathedral, Castle, lunch). Finally, we drive to the wild park near Baggersee lake for a relaxing nature break.",
+        "tr": "Bu araba turu teknoloji, tarih ve doğayı birleştiriyor. Audi Forum'da başlıyoruz, sonra arabayı merkeze bırakıp Eski Kent'i yürüyerek keşfediyoruz (Katedral, Kale, öğle yemeği). Son olarak Baggersee gölü yakınlarındaki yaban parkına araba ile giderek rahatlatıcı bir doğa molası veriyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -873,6 +924,11 @@
           "Ingolstadt Village is a large outlet center nearby.",
           "Parking in the Old Town is usually paid.",
           "Plan time for finding a spot in the parking garages."
+        ],
+        "tr": [
+          "Ingolstadt Village yakınlarda büyük bir outlet merkezi.",
+          "Eski Kent'te park genellikle ücretli.",
+          "Otoparklarda yer bulmak için zaman planlayın."
         ]
       }
     },
@@ -889,7 +945,8 @@
             "de": "Audi Forum Ingolstadt",
             "hu": "Audi Forum",
             "ro": "Audi Forum",
-            "en": "Audi Forum"
+            "en": "Audi Forum",
+            "tr": "Audi Forum"
           },
           "coords": [
             11.4142,
@@ -905,7 +962,8 @@
             "de": "Buslinie 11 hält direkt davor.",
             "hu": "A 11-es busz közvetlenül előtte áll meg.",
             "ro": "Linia 11 de autobuz oprește chiar în față.",
-            "en": "Bus line 11 stops right in front."
+            "en": "Bus line 11 stops right in front.",
+            "tr": "11 numaralı otobüs tam önünde durur."
           }
         },
         {
@@ -913,7 +971,8 @@
             "de": "Rathausplatz",
             "hu": "Városháza tér",
             "ro": "Piața Primăriei",
-            "en": "Town Hall Square"
+            "en": "Town Hall Square",
+            "tr": "Belediye Meydanı"
           },
           "coords": [
             11.4251,
@@ -929,7 +988,8 @@
             "de": "Zentraler Knotenpunkt für Busse.",
             "hu": "Központi buszcsomópont.",
             "ro": "Nod central pentru autobuze.",
-            "en": "Central hub for buses."
+            "en": "Central hub for buses.",
+            "tr": "Otobüsler için merkezi aktarma noktası."
           }
         },
         {
@@ -937,7 +997,8 @@
             "de": "Asamkirche",
             "hu": "Asam-templom",
             "ro": "Biserica Asam",
-            "en": "Asam Church"
+            "en": "Asam Church",
+            "tr": "Asam Kilisesi"
           },
           "coords": [
             11.4225,
@@ -953,7 +1014,8 @@
             "de": "Nur ein kurzer Spaziergang vom Platz.",
             "hu": "Csak egy rövid séta a tértől.",
             "ro": "Doar o scurtă plimbare din piață.",
-            "en": "Just a short walk from the square."
+            "en": "Just a short walk from the square.",
+            "tr": "Meydandan kısa bir yürüme mesafesinde."
           }
         },
         {
@@ -961,7 +1023,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "tr": "Öğle yemeği"
           },
           "coords": [
             11.4235,
@@ -977,7 +1040,8 @@
             "de": "Bayerische Gemütlichkeit erleben.",
             "hu": "Éld át a bajor vendégszeretetet.",
             "ro": "Experimentează ospitalitatea bavareză.",
-            "en": "Experience Bavarian coziness."
+            "en": "Experience Bavarian coziness.",
+            "tr": "Bavyera samimiyetini deneyimleyin."
           }
         },
         {
@@ -985,7 +1049,8 @@
             "de": "Reduit Tilly",
             "hu": "Reduit Tilly",
             "ro": "Reduit Tilly",
-            "en": "Reduit Tilly"
+            "en": "Reduit Tilly",
+            "tr": "Reduit Tilly"
           },
           "coords": [
             11.4295,
@@ -1001,7 +1066,8 @@
             "de": "Teil des Armeemuseums.",
             "hu": "A Hadtörténeti Múzeum része.",
             "ro": "Parte a Muzeului Armatei.",
-            "en": "Part of the Army Museum."
+            "en": "Part of the Army Museum.",
+            "tr": "Ordu Müzesi'nin bir parçası."
           }
         },
         {
@@ -1009,7 +1075,8 @@
             "de": "Klenzepark",
             "hu": "Klenzepark",
             "ro": "Klenzepark",
-            "en": "Klenzepark"
+            "en": "Klenzepark",
+            "tr": "Klenzepark"
           },
           "coords": [
             11.4298,
@@ -1025,7 +1092,8 @@
             "de": "Perfekter Ausklang an der Donau.",
             "hu": "Tökéletes befejezés a Dunánál.",
             "ro": "Finalul perfect pe malul Dunării.",
-            "en": "Perfect ending by the Danube."
+            "en": "Perfect ending by the Danube.",
+            "tr": "Donau kenarında mükemmel bir bitiş noktası."
           }
         }
       ],
@@ -1033,7 +1101,8 @@
         "de": "Ingolstadt ist mit Bussen gut vernetzt. Wir starten im Audi Forum und fahren dann ins Herz der Altstadt (Rathausplatz, Asamkirche). Nach dem Mittagessen bringt uns der Bus über die Donau zum Reduit Tilly und in den Klenzepark, wo wir den Tag entspannt beenden.",
         "hu": "Ingolstadt buszhálózata kiváló. Az Audi Forumban kezdünk, majd az óváros szívébe utazunk (városháza, Asam-templom). Ebéd után buszra szállunk a Duna túloldalára, a Reduit Tilly-hez és a Klenzeparkhoz, ahol kellemesen zárjuk a napot.",
         "ro": "Rețeaua de autobuze din Ingolstadt este excelentă. Începem la Audi Forum, apoi mergem în inima orașului vechi (Piața Primăriei, Biserica Asam). După prânz, luăm autobuzul spre celălalt mal al Dunării, la Reduit Tilly și Klenzepark.",
-        "en": "Ingolstadt's bus network is excellent. We start at the Audi Forum and then travel to the heart of the Old Town (Town Hall, Asam Church). After lunch, we take the bus across the Danube to Reduit Tilly and Klenzepark, where we end the day pleasantly."
+        "en": "Ingolstadt's bus network is excellent. We start at the Audi Forum and then travel to the heart of the Old Town (Town Hall, Asam Church). After lunch, we take the bus across the Danube to Reduit Tilly and Klenzepark, where we end the day pleasantly.",
+        "tr": "Ingolstadt'ın otobüs ağı mükemmel. Audi Forum'da başlıyoruz ve sonra Eski Kent'in kalbine (Belediye, Asam Kilisesi) gidiyoruz. Öğle yemeğinin ardından otobüsle Donau'yu geçip Reduit Tilly ve Klenzepark'a ulaşıyoruz; günü burada hoş bir şekilde bitiriyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -1137,6 +1206,11 @@
           "Buy a day ticket for Zone 1.",
           "The INVG app offers real-time schedules.",
           "Town Hall Square is the central transfer point."
+        ],
+        "tr": [
+          "1. Bölge için günlük bilet alın.",
+          "INVG uygulaması gerçek zamanlı tarifeler sunar.",
+          "Belediye Meydanı merkezi aktarma noktasıdır."
         ]
       }
     }

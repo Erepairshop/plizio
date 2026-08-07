@@ -31,7 +31,8 @@
             "de": "Besuchen Sie das Archiv im gotischen Teil des Rathauses.",
             "hu": "Nézze meg a gótikus városháza levéltári szárnyát.",
             "ro": "Vizitați arhiva din secțiunea gotică a primăriei.",
-            "en": "Visit the archive in the Gothic section of the town hall."
+            "en": "Visit the archive in the Gothic section of the town hall.",
+            "tr": "Belediye binasının Gotik bölümündeki arşivi ziyaret edin."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Hier wirkte Johann Sebastian Bach als Organist.",
             "hu": "Itt dolgozott Johann Sebastian Bach orgonistaként.",
             "ro": "Aici a activat Johann Sebastian Bach ca organist.",
-            "en": "Johann Sebastian Bach worked here as an organist."
+            "en": "Johann Sebastian Bach worked here as an organist.",
+            "tr": "Johann Sebastian Bach burada orgcu olarak çalıştı."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Das imposante Tor markiert den Beginn der Stadtmauer.",
             "hu": "Az impozáns kapu jelzi a városfal kezdetét.",
             "ro": "Poarta impunătoare marchează începutul zidului cetății.",
-            "en": "The imposing gate marks the start of the city wall."
+            "en": "The imposing gate marks the start of the city wall.",
+            "tr": "Heybetli kapı şehir duvarının başlangıcını işaret eder."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Begehen Sie den fast vollständig erhaltenen Wehrgang.",
             "hu": "Sétáljon végig a szinte teljesen ép védművön.",
             "ro": "Mergeți pe galeria de apărare aproape complet conservată.",
-            "en": "Walk along the almost completely preserved ramparts."
+            "en": "Walk along the almost completely preserved ramparts.",
+            "tr": "Neredeyse tamamen korunmuş surlar boyunca yürüyün."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Die fünfschiffige Hallenkirche ist das Wahrzeichen der Stadt.",
             "hu": "Az öthajós csarnoktemplom a város jelképe.",
             "ro": "Biserica cu cinci nave este simbolul orașului.",
-            "en": "The five-aisled hall church is the city's landmark."
+            "en": "The five-aisled hall church is the city's landmark.",
+            "tr": "Beş nefi olan salon kilise şehrin simgesidir."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Museum zur Geschichte des Bauernkrieges.",
             "hu": "A német parasztháború történetét bemutató múzeum.",
             "ro": "Muzeu dedicat istoriei Războiului Țărănesc German.",
-            "en": "Museum dedicated to the history of the Peasants' War."
+            "en": "Museum dedicated to the history of the Peasants' War.",
+            "tr": "Köylü Savaşı tarihine adanmış müze."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Mühlhausen empfängt Sie mit einer Zeitreise ins Mittelalter. Der Vormittag beginnt im Zentrum der ehemaligen freien Reichsstadt, wo das historische Rathaus und die Kirchen von der einstigen Macht zeugen. Mittags erkunden Sie die Spuren Bachs und Müntzers. Der Nachmittag gehört der beeindruckenden Stadtmauer, auf der Sie hoch über den Gassen wandeln können, bevor der Tag in der Unterstadt gemütlich ausklingt.",
         "hu": "Mühlhausen középkori időutazásra hívja Önt. A délelőtt az egykori szabad birodalmi város központjában kezdődik, ahol a történelmi városháza és a monumentális templomok tanúskodnak a múltbeli hatalomról. Délben Bach és Müntzer nyomába eredünk. A délután az impozáns városfalé, ahol a sikátorok felett sétálhatunk, majd a nap az alsóváros hangulatos utcáin zárul.",
         "ro": "Mühlhausen vă întâmpină cu o călătorie în timp în epoca medievală. Dimineața începe în centrul fostului oraș imperial liber, unde primăria istorică și bisericile monumentale atestă puterea de odinioară. La prânz, explorăm urmele lui Bach și Müntzer. După-amiaza este dedicată zidului impresionant al cetății, pe unde puteți merge deasupra străduțelor, înainte ca ziua să se încheie relaxat în orașul de jos.",
-        "en": "Mühlhausen welcomes you with a journey back to the Middle Ages. The morning begins in the center of the former Free Imperial City, where the historic town hall and grand churches bear witness to past power. At midday, follow in the footsteps of Bach and Müntzer. The afternoon is dedicated to the impressive city wall, where you can walk high above the alleys, before ending the day in the lower town."
+        "en": "Mühlhausen welcomes you with a journey back to the Middle Ages. The morning begins in the center of the former Free Imperial City, where the historic town hall and grand churches bear witness to past power. At midday, follow in the footsteps of Bach and Müntzer. The afternoon is dedicated to the impressive city wall, where you can walk high above the alleys, before ending the day in the lower town.",
+        "tr": "Mühlhausen sizi Orta Çağ'a bir yolculukla karşılar. Gün, eski İmparatorluk Şehri merkezinde başlar; tarihî belediye binası ve görkemli kiliseler geçmişin gücüne tanıklık eder. Öğle vakti Bach ve Müntzer'in izlerini takip edin. Öğleden sonra ise sokakların yukarısında yüksekten yürüme imkânı sağlayan etkileyici şehir duvarına adanır; gün, alt kentte son bulur."
       },
       "gastro_picks": {
         "de": [
@@ -289,6 +296,12 @@
           "St. Mary's Church offers a great view from its tower.",
           "Combine the city wall visit with the museum in the Rabenturm.",
           "Mühlhausen is small enough to reach everything easily on foot."
+        ],
+        "tr": [
+          "Tarihî taş döşeli sokaklar için rahat ayakkabılar giyin.",
+          "St. Mary's Kilisesi'nin kulesinden harika bir manzara sunar.",
+          "Şehir duvarı ziyaretini Rabenturm'daki müze ile birleştirin.",
+          "Mühlhausen her şeye kolayca yürüyerek ulaşılabilecek kadar küçüktür."
         ]
       }
     },
@@ -315,7 +328,8 @@
             "de": "Zentraler Startpunkt am gotischen Rathaus.",
             "hu": "Központi indulópont a gótikus városházánál.",
             "ro": "Punct central de plecare de la primăria gotică.",
-            "en": "Central starting point at the Gothic town hall."
+            "en": "Central starting point at the Gothic town hall.",
+            "tr": "Başlangıç için merkezi nokta Gotik belediye binasıdır."
           }
         },
         {
@@ -333,7 +347,8 @@
             "de": "Ein kulturelles Zentrum am Rande der Altstadt.",
             "hu": "Kulturális központ az óváros szélén.",
             "ro": "Un centru cultural la marginea centrului vechi.",
-            "en": "A cultural center on the edge of the old town."
+            "en": "A cultural center on the edge of the old town.",
+            "tr": "Eski kentin kenarında bir kültür merkezi."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Das Wahrzeichen im Grünen, ein Juwel der Renaissance.",
             "hu": "Reneszánsz ékszerdoboz a zöldben, a város egyik jelképe.",
             "ro": "O bijuterie renascentistă în natură, un simbol al orașului.",
-            "en": "A Renaissance gem in the greenery, a city symbol."
+            "en": "A Renaissance gem in the greenery, a city symbol.",
+            "tr": "Yeşillik içinde bir Rönesans incisi, şehir sembolü."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Befahrbares historisches Stadttor.",
             "hu": "Kerékpárral is megközelíthető történelmi városkapu.",
             "ro": "Poartă istorică a orașului, accesibilă cu bicicleta.",
-            "en": "Historic city gate accessible by bike."
+            "en": "Historic city gate accessible by bike.",
+            "tr": "Bisikletle erişilebilen tarihî şehir kapısı."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Stellen Sie das Rad sicher am Kirchplatz ab.",
             "hu": "Zárja le biztonságosan a biciklit a templomtéren.",
             "ro": "Parcați bicicleta în siguranță în piața bisericii.",
-            "en": "Park your bike securely at the church square."
+            "en": "Park your bike securely at the church square.",
+            "tr": "Bisikletinizi kilise meydanında güvenle park edin."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Abschluss der Tour am geschichtsträchtigen Museum.",
             "hu": "A túra zárása a nagy múltú múzeumnál.",
             "ro": "Finalul turului la muzeul plin de istorie.",
-            "en": "End the tour at the history-steeped museum."
+            "en": "End the tour at the history-steeped museum.",
+            "tr": "Turu tarih kokan müzede sonlandırın."
           }
         }
       ],
@@ -413,7 +432,8 @@
         "de": "Die Fahrradtour verbindet das mittelalterliche Mühlhausen mit der idyllischen Umgebung Thüringens. Nach dem Start in der Altstadt radeln Sie durch grüne Alleen zum Popperöder Brunnenhaus, einem Renaissance-Kleinod. Zurück im Stadtkern erkunden Sie die prächtigen gotischen Kirchen und die Wehranlagen. Eine perfekte Mischung aus Kultur und Naturgenuss auf zwei Rädern.",
         "hu": "Ez a kerékpártúra összeköti a középkori Mühlhausent Türingia idilli környezetével. Az óvárosi indulás után zöld fasorokon keresztül kerekezünk a Popperöder Brunnenhaushoz, amely egy reneszánsz ékszerdoboz. A városközpontba visszatérve felfedezzük a pompás gótikus templomokat és a védműveket. A kultúra és a természet élvezetének tökéletes keveréke két keréken.",
         "ro": "Turul cu bicicleta conectează orașul medieval Mühlhausen cu împrejurimile idilice ale Turingiei. După plecarea din centrul vechi, pedalați prin alei verzi către Popperöder Brunnenhaus, o bijuterie renascentistă. Revenind în centrul orașului, explorați bisericile gotice splendide și fortificațiile. Un amestec perfect de cultură și natură pe două roți.",
-        "en": "This bike tour connects medieval Mühlhausen with the idyllic Thuringian countryside. After starting in the old town, cycle through green avenues to the Popperöder Brunnenhaus, a Renaissance gem. Back in the city center, explore the magnificent Gothic churches and defensive structures. A perfect mix of culture and nature on two wheels."
+        "en": "This bike tour connects medieval Mühlhausen with the idyllic Thuringian countryside. After starting in the old town, cycle through green avenues to the Popperöder Brunnenhaus, a Renaissance gem. Back in the city center, explore the magnificent Gothic churches and defensive structures. A perfect mix of culture and nature on two wheels.",
+        "tr": "Bu bisiklet turu Orta Çağ Mühlhausen'i huzurlu Thüringen kırsalıyla birleştirir. Eski şehirde başladıktan sonra yeşil bulvarlardan Popperöder Brunnenhaus'a, bir Rönesans incisine doğru pedal çevirin. Şehir merkezine geri dönüp görkemli Gotik kiliseleri ve savunma yapıları keşfedin. İki teker üzerinde kültür ve doğanın mükemmel bir karışımı."
       },
       "gastro_picks": {
         "de": [
@@ -557,6 +577,12 @@
           "The route to the well house is flat and very well maintained.",
           "Cycling is restricted in some pedestrian zones within the old town.",
           "A helmet is recommended on the surrounding country roads."
+        ],
+        "tr": [
+          "Mühlhausen'den daha uzun turlar için Unstrut bisiklet yolunu kullanın.",
+          "Kuyu evine giden rota düz ve çok iyi bakımlıdır.",
+          "Eski kent içindeki bazı yaya bölgelerinde bisiklete binmek kısıtlıdır.",
+          "Çevredeki kırsal yollarda kask önerilir."
         ]
       }
     },
@@ -583,7 +609,8 @@
             "de": "Parken Sie im Parkhaus am Entenbühl für den Altstadtrundgang.",
             "hu": "Parkoljon az Entenbühl parkolóházban az óvárosi sétához.",
             "ro": "Parcați în parcarea Entenbühl pentru turul centrului vechi.",
-            "en": "Park at the Entenbühl parking garage for the old town walk."
+            "en": "Park at the Entenbühl parking garage for the old town walk.",
+            "tr": "Eski kent yürüyüşü için Entenbühl otoparkına park edin."
           }
         },
         {
@@ -601,7 +628,8 @@
             "de": "Cluster A: Kurzer Fußweg vom Rathaus.",
             "hu": "A Klaszter: Rövid sétára a városházától.",
             "ro": "Cluster A: Scurtă plimbare de la primărie.",
-            "en": "Cluster A: Short walk from the town hall."
+            "en": "Cluster A: Short walk from the town hall.",
+            "tr": "Küme A: Belediye binasından kısa yürüyüş mesafesi."
           }
         },
         {
@@ -619,7 +647,8 @@
             "de": "Cluster A: Zu Fuß erreichbar, Auto stehen lassen.",
             "hu": "A Klaszter: Gyalog elérhető, hagyja az autót a parkolóban.",
             "ro": "Cluster A: Accesibil pe jos, lăsați mașina în parcare.",
-            "en": "Cluster A: Accessible on foot, leave the car parked."
+            "en": "Cluster A: Accessible on foot, leave the car parked.",
+            "tr": "Küme A: Yürüyerek ulaşılabilir, arabayı parklı bırakın."
           }
         },
         {
@@ -637,7 +666,8 @@
             "de": "Cluster B: Kurze Fahrt zum Stadtrand mit Parkplatz vor Ort.",
             "hu": "B Klaszter: Rövid autóút a város szélére, helyszíni parkolóval.",
             "ro": "Cluster B: Scurtă călătorie la marginea orașului, cu parcare.",
-            "en": "Cluster B: Short drive to the outskirts with on-site parking."
+            "en": "Cluster B: Short drive to the outskirts with on-site parking.",
+            "tr": "Küme B: Kenara kısa sürüş, yerinde park imkânı."
           }
         },
         {
@@ -655,7 +685,8 @@
             "de": "Cluster C: Kulturzentrum mit schöner Parkanlage.",
             "hu": "C Klaszter: Kulturális központ szép parkkal.",
             "ro": "Cluster C: Centru cultural cu un parc frumos.",
-            "en": "Cluster C: Cultural center with a beautiful park."
+            "en": "Cluster C: Cultural center with a beautiful park.",
+            "tr": "Küme C: Güzel bir parkı olan kültür merkezi."
           }
         }
       ],
@@ -663,7 +694,8 @@
         "de": "Mit dem Auto erleben Sie Mühlhausen flexibel und komfortabel. Die Tour beginnt mit einem Cluster-Spaziergang durch den historischen Kern, wo Sie Rathaus, Stadtmauer und die mächtige Marienkirche erkunden. Danach führt eine kurze Fahrt zum Stadtrand zum malerischen Popperöder Brunnenhaus, bevor Sie den Nachmittag am Puschkinhaus ausklingen lassen. Diese Route minimiert Parkplatzsorgen durch strategische Stopps.",
         "hu": "Autóval rugalmasan és kényelmesen fedezheti fel Mühlhausent. A túra egy óvárosi sétával indul, ahol a városházát, a városfalat és a hatalmas Marienkirchét ismerheti meg. Ezután egy rövid autóút vezet a város szélére, a festői Popperöder Brunnenhaushoz, majd a délutánt a Puschkinhausnál zárjuk. Ez az útvonal stratégiai megállókkal minimalizálja a parkolási gondokat.",
         "ro": "Cu mașina, experimentați Mühlhausen într-un mod flexibil și confortabil. Turul începe cu o plimbare în centrul istoric, unde explorați primăria, zidul cetății și biserica Sfânta Maria. Apoi, o scurtă călătorie vă duce la marginea orașului, la pitoreasca Popperöder Brunnenhaus, înainte de a încheia după-amiaza la Puschkinhaus. Acest traseu minimizează grijile legate de parcare prin opriri strategice.",
-        "en": "With a car, you can experience Mühlhausen flexibly and comfortably. The tour begins with a cluster walk through the historic core, exploring the town hall, city wall, and the mighty St. Mary's Church. A short drive then leads to the outskirts to the picturesque Popperöder Brunnenhaus, before ending the afternoon at Puschkinhaus. This route minimizes parking worries through strategic stops."
+        "en": "With a car, you can experience Mühlhausen flexibly and comfortably. The tour begins with a cluster walk through the historic core, exploring the town hall, city wall, and the mighty St. Mary's Church. A short drive then leads to the outskirts to the picturesque Popperöder Brunnenhaus, before ending the afternoon at Puschkinhaus. This route minimizes parking worries through strategic stops.",
+        "tr": "Arabayla Mühlhausen'i esnek ve konforlu şekilde deneyimleyebilirsiniz. Tur, tarihî çekirdekte bir küme yürüyüşüyle başlar; belediye binası, şehir duvarı ve görkemli St. Mary's Kilisesi keşfedilir. Kısa bir sürüş sizi kenarlara, manzaralı Popperöder Brunnenhaus'a götürür ve öğleden sonra Puschkinhaus'ta sona erer. Bu rota stratejik duraklarla park sorunlarını en aza indirir."
       },
       "gastro_picks": {
         "de": [
@@ -771,6 +803,12 @@
           "Parking fees in Mühlhausen are moderate.",
           "A detour to the nearby Hainich National Park is worthwhile by car.",
           "Watch out for one-way street regulations in the old town."
+        ],
+        "tr": [
+          "Dar eski kent sokaklarından kaçınmak için Park-and-Ride seçeneklerini kullanın.",
+          "Mühlhausen'deki park ücretleri ılımlıdır.",
+          "Yakındaki Hainich Milli Parkı'na bir sapma araba ile değerlidir.",
+          "Eski kentteki tek yön uygulamalarına dikkat edin."
         ]
       }
     },
@@ -797,7 +835,8 @@
             "de": "Zentrale Bushaltestelle 'Obermarkt' ganz in der Nähe.",
             "hu": "Az 'Obermarkt' központi buszmegálló a közvetlen közelben.",
             "ro": "Stația centrală de autobuz 'Obermarkt' este foarte aproape.",
-            "en": "Central bus stop 'Obermarkt' is very close by."
+            "en": "Central bus stop 'Obermarkt' is very close by.",
+            "tr": "Merkezi otobüs durağı 'Obermarkt' çok yakındadır."
           }
         },
         {
@@ -815,7 +854,8 @@
             "de": "District A: Zu Fuß vom Rathaus erreichbar.",
             "hu": "A körzet: Gyalog elérhető a városházától.",
             "ro": "District A: Accesibil pe jos de la primărie.",
-            "en": "District A: Reachable on foot from the town hall."
+            "en": "District A: Reachable on foot from the town hall.",
+            "tr": "Bölge A: Belediye binasından yürüyerek ulaşılabilir."
           }
         },
         {
@@ -833,7 +873,8 @@
             "de": "District A: Kurzer Spaziergang durch die Fußgängerzone.",
             "hu": "A körzet: Rövid séta a sétálóövezeten keresztül.",
             "ro": "District A: Scurtă plimbare prin zona pietonală.",
-            "en": "District A: Short walk through the pedestrian zone."
+            "en": "District A: Short walk through the pedestrian zone.",
+            "tr": "Bölge A: Yaya bölgesinden kısa bir yürüyüş."
           }
         },
         {
@@ -851,7 +892,8 @@
             "de": "Nutzen Sie die Buslinie Richtung 'Schwanenteich/Weisse Haus'.",
             "hu": "Használja a 'Schwanenteich/Weisse Haus' felé tartó buszjáratot.",
             "ro": "Folosiți linia de autobuz spre 'Schwanenteich/Weisse Haus'.",
-            "en": "Take the bus line towards 'Schwanenteich/Weisse Haus'."
+            "en": "Take the bus line towards 'Schwanenteich/Weisse Haus'.",
+            "tr": "'Schwanenteich/Weisse Haus' yönündeki otobüs hattını kullanın."
           }
         },
         {
@@ -869,7 +911,8 @@
             "de": "Rückfahrt ins Zentrum zum Kornmarkt.",
             "hu": "Visszautazás a központba, a Kornmarkthoz.",
             "ro": "Întoarcerea în centru la Kornmarkt.",
-            "en": "Return trip to the center at Kornmarkt."
+            "en": "Return trip to the center at Kornmarkt.",
+            "tr": "Merkeze dönüş Kornmarkt'ta olur."
           }
         }
       ],
@@ -877,7 +920,8 @@
         "de": "Mühlhausen lässt sich hervorragend mit den Stadtbussen erkunden. Der Tag beginnt im historischen Zentrum, wo die wichtigsten Sehenswürdigkeiten eng beieinander liegen. Nach der Erkundung der großen Kirchen bringt Sie der Bus bequem zum idyllischen Popperöder Brunnenhaus am Stadtrand. Diese Route kombiniert die dichte Geschichte der Altstadt mit einem entspannten Ausflug ins Grüne, ohne Parkplatzsuche.",
         "hu": "Mühlhausen kiválóan felfedezhető a városi buszokkal. A nap a történelmi központban kezdődik, ahol a legfontosabb látnivalók közel vannak egymáshoz. A nagy templomok megtekintése után a busz kényelmesen elviszi Önt a város szélén található idilli Popperöder Brunnenhaushoz. Ez az útvonal ötvözi az óváros sűrű történelmét egy pihentető zöld kirándulással, parkolási gondok nélkül.",
         "ro": "Mühlhausen poate fi explorat excelent cu autobuzele urbane. Ziua începe în centrul istoric, unde cele mai importante atracții sunt aproape una de cealaltă. După vizitarea bisericilor mari, autobuzul vă duce confortabil la idilica Popperöder Brunnenhaus de la marginea orașului. Acest traseu combină istoria densă a centrului vechi cu o excursie relaxantă în natură, fără grija parcării.",
-        "en": "Mühlhausen can be excellently explored with city buses. The day begins in the historic center, where the most important sights are clustered together. After exploring the grand churches, the bus takes you comfortably to the idyllic Popperöder Brunnenhaus on the outskirts. This route combines the dense history of the old town with a relaxed green excursion, without the need for parking."
+        "en": "Mühlhausen can be excellently explored with city buses. The day begins in the historic center, where the most important sights are clustered together. After exploring the grand churches, the bus takes you comfortably to the idyllic Popperöder Brunnenhaus on the outskirts. This route combines the dense history of the old town with a relaxed green excursion, without the need for parking.",
+        "tr": "Mühlhausen, şehir otobüsleriyle mükemmel şekilde keşfedilebilir. Gün, en önemli görülecek yerlerin yoğunlaştığı tarihî merkezde başlar. Görkemli kiliseleri keşfettikten sonra otobüs sizi kenarlardaki sakin Popperöder Brunnenhaus'a rahatça götürür. Bu rota eski kentin yoğun tarihini rahat bir yeşil kaçamakla birleştirir, park ihtiyacını ortadan kaldırır."
       },
       "gastro_picks": {
         "de": [
@@ -985,6 +1029,12 @@
           "Buses run less frequently on weekends, so check the timetable.",
           "Obermarkt is the central transfer point for all lines.",
           "It's only a few minutes by bus from the train station to the old town."
+        ],
+        "tr": [
+          "Mühlhausen şehir otobüsü için günlük bilet satın alın.",
+          "Hafta sonları otobüsler daha seyrek çalışır, bu yüzden saatleri kontrol edin.",
+          "Obermarkt tüm hatların merkezi aktarma noktasıdır.",
+          "Tren istasyonundan eski kente otobüsle sadece birkaç dakikadır."
         ]
       }
     }

@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die astronomische Uhr am prächtigen Fachwerkbau.",
             "hu": "Csodálja meg a csillagászati órát a pompás gerendavázas épületen.",
             "ro": "Admirați ceasul astronomic de pe clădirea superbă cu bârne de lemn.",
-            "en": "Admire the astronomical clock on the magnificent timber-framed building."
+            "en": "Admire the astronomical clock on the magnificent timber-framed building.",
+            "tr": "Muhteşem ahşap binadaki astronomik saate hayran kalın."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Besuchen Sie die Ausgrabungen unter der Kirche.",
             "hu": "Látogasson el a templom alatti régészeti ásatásokhoz.",
             "ro": "Vizitați săpăturile arheologice de sub biserică.",
-            "en": "Visit the archaeological excavations beneath the church."
+            "en": "Visit the archaeological excavations beneath the church.",
+            "tr": "Kilise altındaki arkeolojik kazıları ziyaret edin."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Hören Sie die Legende des unschuldigen Postreiters Michel.",
             "hu": "Hallgassa meg az ártatlan postai lovas, Michel legendáját.",
             "ro": "Ascultați legenda curierului poștal nevinovat, Michel.",
-            "en": "Listen to the legend of the innocent post rider Michel."
+            "en": "Listen to the legend of the innocent post rider Michel.",
+            "tr": "Masum haberci postacı Michel’in efsanesini dinleyin."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probieren Sie den ältesten Sekt Deutschlands in historischem Ambiente.",
             "hu": "Kóstolja meg Németország legrégebbi pezsgőjét történelmi környezetben.",
             "ro": "Gustați cel mai vechi vin spumant din Germania într-un ambient istoric.",
-            "en": "Taste Germany's oldest sparkling wine in a historical setting."
+            "en": "Taste Germany's oldest sparkling wine in a historical setting.",
+            "tr": "Tarihi bir atmosferde Almanya’nın en eski köpüren şarabını tadın."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Achten Sie auf die filigranen Steinmetzarbeiten am Turm.",
             "hu": "Figyelje meg a torony filigrán kőfaragványait.",
             "ro": "Observați sculpturile filigranate în piatră de pe turn.",
-            "en": "Look out for the filigree stonework on the tower."
+            "en": "Look out for the filigree stonework on the tower.",
+            "tr": "Kulenin ince taş işçiliğine dikkat edin."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Steigen Sie die Burgstaffeln hoch für einen Panoramablick.",
             "hu": "Másszon fel a vár lépcsőin a panorámás kilátásért.",
             "ro": "Urcați treptele cetății pentru o vedere panoramică.",
-            "en": "Climb up the castle stairs for a panoramic view."
+            "en": "Climb up the castle stairs for a panoramic view.",
+            "tr": "Panoramik bir görünüm için şato merdivenlerine çıkın."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Entspannen Sie auf der grünen Insel zwischen den Neckarkanälen.",
             "hu": "Pihenjen a zöld szigeten a Neckar-csatornák között.",
             "ro": "Relaxați-vă pe insula verde dintre canalele râului Neckar.",
-            "en": "Relax on the green island between the Neckar canals."
+            "en": "Relax on the green island between the Neckar canals.",
+            "tr": "Neckar kanalları arasındaki yeşil adada dinlenin."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Der Vormittag gehört der mittelalterlichen Altstadt mit ihren prächtigen Fachwerkhäusern und dem berühmten astronomischen Rathaus. Nach einer Verkostung bei Kessler, der ältesten Sektkellerei Deutschlands, geht es mittags durch die Gassen zur Frauenkirche. Der Nachmittag bietet einen sportlichen Aufstieg zur Burg, belohnt mit einem weiten Blick über das Neckartal. Den Abschluss bildet ein entspannter Spaziergang durch den Maille-Park.",
         "hu": "A délelőtt a középkori óvárosé, pompás gerendavázas házaival és a híres csillagászati városházával. A Kessler pezsgőpincészetben tett kóstoló után délben a sikátorokon keresztül a Frauenkirche felé vesszük az irányt. A délután sportos feljutást kínál a várba, amit a Neckar-völgyre nyíló tágas kilátás jutalmaz. A napot egy pihentető séta zárja a Maille-parkban.",
         "ro": "Dimineața este dedicată orașului vechi medieval, cu casele sale superbe cu bârne de lemn și celebra primărie cu ceas astronomic. După o degustare la crama Kessler, amiaza continuă prin străduțe spre Frauenkirche. După-amiaza oferă o urcare sportivă spre cetate, răsplătită cu o priveliște largă peste valea Neckarului. Finalul zilei este marcat de o plimbare relaxantă prin parcul Maille.",
-        "en": "The morning is dedicated to the medieval old town with its magnificent timber-framed houses and the famous astronomical town hall. After a tasting at Kessler, Germany's oldest sparkling wine cellar, the midday route leads through the alleys to the Frauenkirche. The afternoon offers a sporty climb to the castle, rewarded with a wide view over the Neckar valley. The day concludes with a relaxed stroll through Maille Park."
+        "en": "The morning is dedicated to the medieval old town with its magnificent timber-framed houses and the famous astronomical town hall. After a tasting at Kessler, Germany's oldest sparkling wine cellar, the midday route leads through the alleys to the Frauenkirche. The afternoon offers a sporty climb to the castle, rewarded with a wide view over the Neckar valley. The day concludes with a relaxed stroll through Maille Park.",
+        "tr": "Sabah, muhteşem yarı ahşap evleri ve ünlü astronomik belediye binasıyla ortaçağ eski kentine ayrılmıştır. Kessler’de bir tadımın ardından öğle rotası dar sokaklardan Frauenkirche’e götürür. Öğleden sonra, şatoya sportif bir tırmanış sunar; tepe sizi Neckar vadisi üzerinde geniş bir manzarayla ödüllendirir. Gün, Maille Park’ta rahat bir yürüyüşle sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +315,12 @@
           "Wear comfortable shoes for the climb up to the castle.",
           "There is a lovely weekly market on Wednesdays and Saturdays.",
           "Book a guided tour for the Kessler sparkling wine cellar in advance."
+        ],
+        "tr": [
+          "Eski kent çok kompakttır ve en iyi yürüyerek keşfedilir.",
+          "Şatoya tırmanış için rahat ayakkabılar giyin.",
+          "Çarşamba ve Cumartesi hoş bir pazar kurulur.",
+          "Kessler köpüren şarap mahzeni için rehberli turu önceden ayırtın."
         ]
       }
     },
@@ -333,7 +347,8 @@
             "de": "Moderne Kunst in einer prachtvollen Industriellenvilla.",
             "hu": "Modern művészet egy pompás iparmágnás villájában.",
             "ro": "Artă modernă într-o vilă industrială somptuoasă.",
-            "en": "Modern art in a magnificent industrialist's villa."
+            "en": "Modern art in a magnificent industrialist's villa.",
+            "tr": "Muhteşem bir sanayici villasında modern sanat."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Radeln Sie gemütlich entlang der Kanäle.",
             "hu": "Kerekezzen kényelmesen a csatornák mentén.",
             "ro": "Pedalați lejer de-a lungul canalelor.",
-            "en": "Cycle leisurely along the canals."
+            "en": "Cycle leisurely along the canals.",
+            "tr": "Kanallar boyunca sakin bir şekilde bisiklet sürün."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Stellen Sie Ihr Rad ab und genießen Sie das Flair am Marktplatz.",
             "hu": "Tegye le a bringát és élvezze a piactér hangulatát.",
             "ro": "Lăsați bicicleta și bucurați-vă de atmosfera din piață.",
-            "en": "Park your bike and enjoy the flair at the market square."
+            "en": "Park your bike and enjoy the flair at the market square.",
+            "tr": "Bisikletinizi park edip pazar meydanının havasını yaşayın."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Blickfang am Hang der Weinberge.",
             "hu": "Látványosság a szőlőhegyek lankáin.",
             "ro": "Un punct de atracție pe panta podgoriilor.",
-            "en": "Eye-catcher on the slope of the vineyards."
+            "en": "Eye-catcher on the slope of the vineyards.",
+            "tr": "Bağ yamaçlarının göz alıcı noktasında."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Der Anstieg mit dem Rad ist steil, aber lohnenswert.",
             "hu": "A kerékpáros feljutás meredek, de megéri.",
             "ro": "Urcarea cu bicicleta este abruptă, dar merită.",
-            "en": "The climb by bike is steep but worthwhile."
+            "en": "The climb by bike is steep but worthwhile.",
+            "tr": "Bisikletle tırmanış dik ama değer."
           }
         },
         {
@@ -423,7 +442,8 @@
             "de": "Ein prickelnder Abschluss nach der Radtour.",
             "hu": "Pezsgő lezárás a biciklitúra után.",
             "ro": "Un final efervescent după tura cu bicicleta.",
-            "en": "A sparkling conclusion after the bike tour."
+            "en": "A sparkling conclusion after the bike tour.",
+            "tr": "Bisiklet turunun ardından köpüren bir final."
           }
         }
       ],
@@ -431,7 +451,8 @@
         "de": "Starten Sie am südlichen Stadtrand bei der Villa Merkel und radeln Sie durch den grünen Maille-Park in die historische Mitte. Nach einem Stopp am Marktplatz fordern Sie Ihre Waden beim Aufstieg zur Burg heraus. Von dort oben genießen Sie den Ausblick auf die Reben, bevor Sie durch die Altstadt zurückrollen und bei Kessler den Tag ausklingen lassen.",
         "hu": "Kezdjen a déli városrészen a Villa Merkelnél, majd kerekezzen át a zöld Maille-parkon a történelmi központba. A piactéri megálló után tegye próbára lábait a várba vezető emelkedőn. Onnan fentről élvezze a szőlőtőkék látványát, mielőtt visszagurulna az óvároson keresztül, és a Kesslerben zárná a napot.",
         "ro": "Începeți la marginea sudică la Villa Merkel și pedalați prin parcul verde Maille spre centrul istoric. După o oprire în piață, provocați-vă picioarele la urcarea spre cetate. De sus, bucurați-vă de priveliștea viilor înainte de a coborî prin orașul vechi și a încheia ziua la Kessler.",
-        "en": "Start at the southern edge near Villa Merkel and cycle through the green Maille Park into the historic center. After a stop at the market square, challenge your legs on the climb to the castle. From the top, enjoy the view of the vines before rolling back through the old town and ending the day at Kessler."
+        "en": "Start at the southern edge near Villa Merkel and cycle through the green Maille Park into the historic center. After a stop at the market square, challenge your legs on the climb to the castle. From the top, enjoy the view of the vines before rolling back through the old town and ending the day at Kessler.",
+        "tr": "Günü Villa Merkel’in güney kenarından başlayıp yeşil Maille Park içinden tarihi merkeze bisikletle sürerek başlatın. Pazar meydanında bir mola sonrası bacaklarınızı şatoya yapılan tırmanışta zorlayın. Zirveden bağların manzarasının keyfini çıkarın ve eski kentten geri dönüp günü Kessler’de bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -551,6 +572,11 @@
           "Use the cycle paths along the Neckar for flat stages.",
           "The climb to the castle requires good fitness or an e-bike.",
           "In the pedestrian zone, you must push your bike."
+        ],
+        "tr": [
+          "Düz etaplar için Neckar boyunca bisiklet yollarını kullanın.",
+          "Şatoya tırmanış iyi kondisyon veya bir e-bisiklet gerektirir.",
+          "Yaya bölgesinde bisikletinizi itmeniz gerekir."
         ]
       }
     },
@@ -577,7 +603,8 @@
             "de": "Starten Sie im Herzen der Altstadt (Parkhaus Marktplatz).",
             "hu": "Kezdjen az óváros szívében (Marktplatz parkolóház).",
             "ro": "Începeți în inima orașului vechi (Parcarea Marktplatz).",
-            "en": "Start in the heart of the old town (Marktplatz parking)."
+            "en": "Start in the heart of the old town (Marktplatz parking).",
+            "tr": "Günü eski kentin kalbinde (Marktplatz otoparkı) başlatın."
           }
         },
         {
@@ -595,7 +622,8 @@
             "de": "Kurzer Spaziergang vom Brunnen zum Rathaus.",
             "hu": "Rövid séta a kúttól a városházáig.",
             "ro": "Scurtă plimbare de la fântână la primărie.",
-            "en": "Short walk from the fountain to the town hall."
+            "en": "Short walk from the fountain to the town hall.",
+            "tr": "Çeşmeden belediye binasına kısa bir yürüyüş."
           }
         },
         {
@@ -613,7 +641,8 @@
             "de": "Kultureller Stopp im ersten Cluster.",
             "hu": "Kulturális megálló az első klaszterben.",
             "ro": "Oprire culturală în primul cluster.",
-            "en": "Cultural stop in the first cluster."
+            "en": "Cultural stop in the first cluster.",
+            "tr": "İlk kümelenmede kültürel durak."
           }
         },
         {
@@ -631,7 +660,8 @@
             "de": "Fahren Sie direkt zum Burgparkplatz hoch.",
             "hu": "Hajtson közvetlenül a vár parkolójához.",
             "ro": "Conduceți direct până la parcarea cetății.",
-            "en": "Drive directly up to the castle parking lot."
+            "en": "Drive directly up to the castle parking lot.",
+            "tr": "Doğrudan şato otoparkına kadar sürün."
           }
         },
         {
@@ -649,7 +679,8 @@
             "de": "Parken Sie erneut im Zentrum für die Kellereitour.",
             "hu": "Parkoljon újra a központban a pincelátogatáshoz.",
             "ro": "Parcați din nou în centru pentru turul cramei.",
-            "en": "Park again in the center for the cellar tour."
+            "en": "Park again in the center for the cellar tour.",
+            "tr": "Mahzen turu için tekrar merkeze park edin."
           }
         },
         {
@@ -667,7 +698,8 @@
             "de": "Zu Fuß von der Sektkellerei erreichbar.",
             "hu": "Gyalogosan elérhető a pezsgőpincészettől.",
             "ro": "Accesibil pe jos de la crama de vin spumant.",
-            "en": "Accessible on foot from the sparkling wine cellar."
+            "en": "Accessible on foot from the sparkling wine cellar.",
+            "tr": "Köpüren şarap mahzeninden yürüyerek ulaşılabilir."
           }
         },
         {
@@ -685,7 +717,8 @@
             "de": "Abschluss im modernen Museum am Stadtrand.",
             "hu": "Zárás a modern múzeumban a város szélén.",
             "ro": "Final la muzeul modern de la marginea orașului.",
-            "en": "Conclusion at the modern museum on the edge of town."
+            "en": "Conclusion at the modern museum on the edge of town.",
+            "tr": "Kasabanın kenarındaki modern müzede sonlandırma."
           }
         }
       ],
@@ -693,7 +726,8 @@
         "de": "Mit dem Auto erkunden Sie Esslingen in drei Clustern. Zuerst tauchen Sie in die Altstadt ein (Rathaus & St. Dionys). Danach fahren Sie bequem hoch zur Burg, um den besten Blick ohne mühsamen Aufstieg zu genießen. Mittags geht es zurück ins Zentrum für Kessler Sekt und den Maille-Park, bevor Sie den Tag entspannt bei der Villa Merkel im Süden ausklingen lassen.",
         "hu": "Autóval három klaszterben fedezheti fel Esslingent. Először merüljön el az óvárosban (Városháza és St. Dionys). Ezután kényelmesen hajtson fel a várba, hogy fáradságos mászás nélkül élvezze a legjobb kilátást. Délben térjen vissza a központba a Kessler pezsgőhöz és a Maille-parkhoz, majd zárja a napot délen, a Villa Merkelnél.",
         "ro": "Cu mașina explorați Esslingen în trei clustere. Mai întâi intrați în orașul vechi (Primăria și St. Dionys). Apoi conduceți confortabil până la cetate pentru a vă bucura de cea mai bună priveliște fără urcare obositoare. La amiază reveniți în centru pentru Kessler și parcul Maille, înainte de a încheia ziua la Villa Merkel, în sud.",
-        "en": "By car, you explore Esslingen in three clusters. First, dive into the old town (Town Hall & St. Dionys). Then, drive comfortably up to the castle to enjoy the best view without a tiring climb. Midday, return to the center for Kessler sparkling wine and Maille Park before concluding the day at Villa Merkel in the south."
+        "en": "By car, you explore Esslingen in three clusters. First, dive into the old town (Town Hall & St. Dionys). Then, drive comfortably up to the castle to enjoy the best view without a tiring climb. Midday, return to the center for Kessler sparkling wine and Maille Park before concluding the day at Villa Merkel in the south.",
+        "tr": "Arabayla Esslingen’i üç kümelenmede keşfedin. Önce eski kente dalın (Belediye Binası & St. Dionys). Ardından yorucu bir tırmanış olmadan en iyi manzaranın keyfini çıkarabilmek için rahatça şatoya çıkın. Öğle vakti merkeze dönüp Kessler köpüren şarabı ve Maille Park’ı ziyaret edin; günün sonunda Villa Merkel’de bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -813,6 +847,11 @@
           "Use the parking guidance system; city center garages are often full.",
           "The parking lot directly at the castle is limited but ideal for seniors.",
           "Note: The old town is mostly a pedestrian zone."
+        ],
+        "tr": [
+          "Park rehberlik sistemini kullanın; şehir merkezi otoparkları genellikle doludur.",
+          "Şatonun hemen yanındaki otopark sınırlıdır ama yaşlılar için idealdir.",
+          "Not: Eski kent çoğunlukla yaya bölgesidir."
         ]
       }
     },
@@ -839,7 +878,8 @@
             "de": "Kurzer Fußweg vom Bahnhof Esslingen.",
             "hu": "Rövid séta az Esslingen pályaudvartól.",
             "ro": "Scurtă plimbare de la gara Esslingen.",
-            "en": "Short walk from Esslingen station."
+            "en": "Short walk from Esslingen station.",
+            "tr": "Esslingen istasyonundan kısa yürüyüş."
           }
         },
         {
@@ -857,7 +897,8 @@
             "de": "Vom Museum durch die Grünanlagen Richtung Zentrum.",
             "hu": "A múzeumtól a zöldterületeken át a központ felé.",
             "ro": "De la muzeu prin spațiile verzi spre centru.",
-            "en": "From the museum through the green spaces towards the center."
+            "en": "From the museum through the green spaces towards the center.",
+            "tr": "Müzeden yeşil alanlar üzerinden merkeze doğru."
           }
         },
         {
@@ -875,7 +916,8 @@
             "de": "Buslinie 101 bis Marktplatz bringt Sie mitten ins Herz.",
             "hu": "A 101-es busz a piactérig repíti a központba.",
             "ro": "Linia de autobuz 101 până la Marktplatz vă duce în inima orașului.",
-            "en": "Bus line 101 to Marktplatz brings you right to the heart."
+            "en": "Bus line 101 to Marktplatz brings you right to the heart.",
+            "tr": "Marktplatz’a giden 101 numaralı otobüs sizi tam kalbe getirir."
           }
         },
         {
@@ -893,7 +935,8 @@
             "de": "Zu Fuß vom Marktplatz erreichbar.",
             "hu": "Gyalogosan elérhető a piactérről.",
             "ro": "Accesibil pe jos din piața centrală.",
-            "en": "Accessible on foot from the market square."
+            "en": "Accessible on foot from the market square.",
+            "tr": "Pazar meydanından yürüyerek ulaşılabilir."
           }
         },
         {
@@ -911,7 +954,8 @@
             "de": "Markanter Punkt am Fuße der Burgstaffeln.",
             "hu": "Jellegzetes pont a vár lépcsőinek alján.",
             "ro": "Punct marcant la baza treptelor cetății.",
-            "en": "Striking point at the base of the castle stairs."
+            "en": "Striking point at the base of the castle stairs.",
+            "tr": "Şato merdivenlerinin tabanındaki çarpıcı nokta."
           }
         },
         {
@@ -929,7 +973,8 @@
             "de": "Nutzen Sie den City-Bus für den Höhenunterschied.",
             "hu": "Használja a városi buszt a szintkülönbség leküzdéséhez.",
             "ro": "Folosiți autobuzul urban pentru diferența de nivel.",
-            "en": "Use the city bus for the elevation change."
+            "en": "Use the city bus for the elevation change.",
+            "tr": "Yükseklik değişimini için şehir otobüsünü kullanın."
           }
         }
       ],
@@ -937,7 +982,8 @@
         "de": "Mit dem öffentlichen Nahverkehr starten Sie kulturell bei der Villa Merkel am Bahnhof. Danach führt Sie der Weg durch den Maille-Park in die Altstadt. Per Bus erreichen Sie bequem den Marktplatz und später die Burg, was Ihnen den steilen Aufstieg erspart. Genießen Sie die historische Architektur und die prickelnde Tradition bei Kessler ganz ohne Parkplatzsorgen.",
         "hu": "Tömegközlekedéssel kezdjen kulturálisan a pályaudvarnál lévő Villa Merkelnél. Ezután az út a Maille-parkon át az óvárosba vezet. Busszal kényelmesen elérheti a piacteret, később pedig a várat, így megkíméli magát a meredek mászástól. Élvezze a történelmi építészetet és a pezsgő tradíciót a Kesslerben, parkolási gondok nélkül.",
         "ro": "Cu transportul public începeți cultural la Villa Merkel, lângă gară. Apoi drumul vă duce prin parcul Maille spre orașul vechi. Cu autobuzul ajungeți confortabil în piața centrală și mai târziu la cetate, evitând urcarea abruptă. Bucurați-vă de arhitectura istorică și tradiția efervescentă de la Kessler, fără grija parcării.",
-        "en": "By public transit, start your cultural day at Villa Merkel near the station. Then, the path leads through Maille Park into the old town. By bus, you can comfortably reach the market square and later the castle, saving you the steep climb. Enjoy the historic architecture and sparkling tradition at Kessler without any parking worries."
+        "en": "By public transit, start your cultural day at Villa Merkel near the station. Then, the path leads through Maille Park into the old town. By bus, you can comfortably reach the market square and later the castle, saving you the steep climb. Enjoy the historic architecture and sparkling tradition at Kessler without any parking worries.",
+        "tr": "Toplu taşıma ile kültür dolu gününüze istasyona yakın Villa Merkel’de başlayın. Ardından yol Maille Park üzerinden eski kente iner. Otobüsle pazar meydanına ve daha sonra şatoya rahatça ulaşarak zorlu tırmanışı tasarruf edin. Tarihi mimarinin ve Kessler geleneğinin tadını park ve merkezde otopark endişesi olmadan çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -1057,6 +1103,11 @@
           "Download the VVS app for real-time schedules.",
           "A day ticket for the Esslingen zone is usually the cheapest option.",
           "Buses to the castle hill depart regularly from the central bus station."
+        ],
+        "tr": [
+          "Gerçek zamanlı tarifeler için VVS uygulamasını indirin.",
+          "Esslingen bölgesi için bir günlük bilet genellikle en ucuz seçenektir.",
+          "Şato tepesine giden otobüsler merkezi otobüs durağından düzenli kalkar."
         ]
       }
     }

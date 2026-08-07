@@ -3,55 +3,64 @@
     "de": "Bonngasse 22-26, 53111 Bonn",
     "hu": "Bonngasse 22-26, 53111 Bonn",
     "ro": "Bonngasse 22-26, 53111 Bonn",
-    "en": "Bonngasse 22-26, 53111 Bonn"
+    "en": "Bonngasse 22-26, 53111 Bonn",
+    "tr": "Bonngasse 22-26, 53111 Bonn"
   },
   "openingHours": {
     "de": "Mi-Mo 10:00-18:00, Dienstags geschlossen",
     "hu": "Sze–Hé 10:00–18:00, kedden zárva",
     "ro": "Mi-Lu 10:00-18:00, închis marțea",
-    "en": "Wed-Mon 10:00-18:00, closed on Tuesdays"
+    "en": "Wed-Mon 10:00-18:00, closed on Tuesdays",
+    "tr": "Çarş.-Paz. 10:00–18:00, Salı günleri kapalı"
   },
   "entranceFee": {
     "de": "€10 Erwachsene, €7 Ermäßigt",
     "hu": "Felnőtt 10 €, kedvezményes 7 €",
     "ro": "10 € adulți, 7 € tarif redus",
-    "en": "€10 adults, €7 discounted"
+    "en": "€10 adults, €7 discounted",
+    "tr": "Yetişkinler €10, indirimli €7"
   },
   "website": "https://www.beethoven.de",
   "publicTransport": {
     "de": "Straßenbahn 66, 67 bis Haltestelle 'Bertha-von-Suttner-Platz'",
     "hu": "66-os vagy 67-es villamos Bertha-von-Suttner-Platz megállóig",
     "ro": "Tramvaiul 66, 67 până la stația „Bertha-von-Suttner-Platz”",
-    "en": "Tram 66, 67 to 'Bertha-von-Suttner-Platz' stop"
+    "en": "Tram 66, 67 to 'Bertha-von-Suttner-Platz' stop",
+    "tr": "Tramvay 66, 67 ile 'Bertha-von-Suttner-Platz' durağına"
   },
   "parking": {
     "de": "Parkhaus Stiftsgarage in der Nähe, ca. €2/Std.",
     "hu": "Stiftsgarage parkolóház a közelben, kb. 2 €/óra",
     "ro": "Parcare Stiftsgarage în apropiere, aprox. 2 €/oră",
-    "en": "Stiftsgarage parking garage nearby, approx. €2/hr"
+    "en": "Stiftsgarage parking garage nearby, approx. €2/hr",
+    "tr": "Yakınlarda Stiftsgarage otoparkı, yaklaşık €2/sa"
   },
   "accessibility": {
     "de": "Eingeschränkt; historisches Gebäude mit schmalen Treppen, kein Aufzug in alle Etagen",
     "hu": "Korlátozottan akadálymentes; történelmi épület szűk lépcsőkkel, lift nincs minden emeletre",
     "ro": "Accesibilitate limitată; clădire istorică cu scări înguste, fără lift la toate etajele",
-    "en": "Limited; historic building with narrow stairs, no elevator to all floors"
+    "en": "Limited; historic building with narrow stairs, no elevator to all floors",
+    "tr": "Sınırlı; tarihi bina dar merdivenlere sahip, tüm katlara asansör yok"
   },
   "photoRules": {
     "de": "Fotografieren im Museumsbereich streng untersagt",
     "hu": "A múzeumi részen a fényképezés szigorúan tilos",
     "ro": "Fotografierea în zona muzeului este strict interzisă",
-    "en": "Photography strictly prohibited in the museum area"
+    "en": "Photography strictly prohibited in the museum area",
+    "tr": "Müze alanında fotoğraf çekmek kesinlikle yasaktır"
   },
   "bestTimeToVisit": {
     "de": "Vormittags unter der Woche",
     "hu": "Hétköznap délelőtt",
     "ro": "În timpul săptămânii, dimineața",
-    "en": "Weekday mornings"
+    "en": "Weekday mornings",
+    "tr": "Hafta içi sabahları"
   },
   "audioGuide": {
     "de": "App verfügbar in Deutsch, Englisch, Japanisch und weiteren Sprachen",
     "hu": "Applikáció elérhető németül, angolul, japánul és más nyelveken",
     "ro": "Aplicație disponibilă în germană, engleză, japoneză și alte limbi",
-    "en": "App available in German, English, Japanese, and other languages"
+    "en": "App available in German, English, Japanese, and other languages",
+    "tr": "Uygulama Almanca, İngilizce, Japonca ve diğer dillerde mevcut"
   }
 }

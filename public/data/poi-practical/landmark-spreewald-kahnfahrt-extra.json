@@ -3,55 +3,64 @@
     "de": "Dammstraße 77, 03222 Lübbenau",
     "hu": "Dammstraße 77, 03222 Lübbenau",
     "ro": "Dammstraße 77, 03222 Lübbenau",
-    "en": "Dammstraße 77, 03222 Lübbenau"
+    "en": "Dammstraße 77, 03222 Lübbenau",
+    "tr": "Dammstraße 77, 03222 Lübbenau"
   },
   "openingHours": {
     "de": "Mo-So 09:00-18:00 (Saisonabhängig)",
     "hu": "H-V 09:00-18:00 (szezonfüggő)",
     "ro": "L-D 09:00-18:00 (sezonier)",
-    "en": "Mon-Sun 09:00-18:00 (seasonal)"
+    "en": "Mon-Sun 09:00-18:00 (seasonal)",
+    "tr": "Pzt-Paz 09:00-18:00 (mevsime göre)"
   },
   "entranceFee": {
     "de": "Ab €15.00 pro Person für Gruppenfahrten",
     "hu": "15,00 €-tól/fő csoportos túrákhoz",
     "ro": "De la 15 € de persoană pentru tururi de grup",
-    "en": "From €15.00 per person for group tours"
+    "en": "From €15.00 per person for group tours",
+    "tr": "Grup turları için kişi başı €15,00'den başlayan fiyatlar"
   },
   "website": "https://www.spreewald.de",
   "publicTransport": {
     "de": "Regionalbahn bis Bahnhof Lübbenau, 10 Min Fußweg zum Hafen",
     "hu": "Regionális vonat Lübbenau vasútállomásig, 10 perc séta a kikötőig",
     "ro": "Tren regional până la gara Lübbenau, 10 minute pe jos până la port",
-    "en": "Regional train to Lübbenau station, 10 min. walk to the harbor"
+    "en": "Regional train to Lübbenau station, 10 min. walk to the harbor",
+    "tr": "Bölgesel trenle Lübbenau istasyonuna, limana 10 dk yürüme mesafesi"
   },
   "parking": {
     "de": "Großparkplatz Spreewaldreich, ca. €5.00 pro Tag.",
     "hu": "Spreewaldreich nagy parkoló, kb. 5,00 €/nap.",
     "ro": "Parcare mare Spreewaldreich, aprox. 5 € pe zi.",
-    "en": "Large parking Spreewaldreich, approx. €5.00 per day."
+    "en": "Large parking Spreewaldreich, approx. €5.00 per day.",
+    "tr": "Büyük otopark Spreewaldreich, yaklaşık günlük €5,00."
   },
   "accessibility": {
     "de": "Einige Kähne sind speziell für Rollstuhlfahrer umgebaut.",
     "hu": "Néhány csónak speciálisan kerekesszékesek számára átalakított.",
     "ro": "Unele bărci sunt special adaptate pentru utilizatorii de scaune cu rotile.",
-    "en": "Some punts are specially converted for wheelchair users."
+    "en": "Some punts are specially converted for wheelchair users.",
+    "tr": "Bazı gondollar tekerlekli sandalye kullanıcıları için özel dönüştürülmüştür."
   },
   "photoRules": {
     "de": "Uneingeschränkt erlaubt.",
     "hu": "Korlátlanul megengedett.",
     "ro": "Permis fără restricții.",
-    "en": "Allowed without restrictions."
+    "en": "Allowed without restrictions.",
+    "tr": "Kısıtlama olmadan izin verildi."
   },
   "bestTimeToVisit": {
     "de": "Frühling oder Herbst für weniger Trubel in den Fließen.",
     "hu": "Tavasz vagy ősz, a kevesebb tömegért a csatornákon.",
     "ro": "Primăvară sau toamnă pentru mai puțină aglomerație pe canale.",
-    "en": "Spring or autumn for less hustle on the waterways."
+    "en": "Spring or autumn for less hustle on the waterways.",
+    "tr": "Su yollarında daha az kalabalık için ilkbahar veya sonbahar."
   },
   "audioGuide": {
     "de": "Meist Live-Erklärungen durch den Fährmann.",
     "hu": "Általában élő magyarázat a csónakostól.",
     "ro": "De obicei, explicații live oferite de barcagiu.",
-    "en": "Mostly live explanations by the boatman."
+    "en": "Mostly live explanations by the boatman.",
+    "tr": "Çoğunlukla kayıkçının canlı anlatımları."
   }
 }

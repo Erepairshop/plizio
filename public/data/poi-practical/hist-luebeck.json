@@ -3,55 +3,64 @@
     "de": "Holstentorplatz, 23552 Lübeck",
     "hu": "Holstentorplatz, 23552 Lübeck",
     "ro": "Holstentorplatz, 23552 Lübeck",
-    "en": "Holstentorplatz, 23552 Lübeck"
+    "en": "Holstentorplatz, 23552 Lübeck",
+    "tr": "Holstentorplatz, 23552 Lübeck"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "0-24 (non-stop)",
     "ro": "non-stop",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "7/24"
   },
   "entranceFee": {
     "de": "kostenfrei",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free of charge"
+    "en": "free of charge",
+    "tr": "ücretsiz"
   },
   "website": "https://www.luebeck-tourismus.de",
   "publicTransport": {
     "de": "Hauptbahnhof Lübeck, 5 Minuten Fußweg zum Holstentor",
     "hu": "Lübeck főpályaudvar, onnan 5 perc séta a Holstentor",
     "ro": "Gara Centrală Lübeck, 5 minute de mers pe jos până la Holstentor",
-    "en": "Lübeck Central Station, 5-minute walk to the Holstentor"
+    "en": "Lübeck Central Station, 5-minute walk to the Holstentor",
+    "tr": "Lübeck Merkez İstasyonu, Holstentor’a 5 dakikalık yürüyüş"
   },
   "parking": {
     "de": "Parkplatz Musik- und Kongresshalle, ca. 6,00 €/Tag.",
     "hu": "Musik- und Kongresshalle parkoló, kb. 6,00 €/nap.",
     "ro": "Parcare Musik- und Kongresshalle, cca. 6,00 €/zi.",
-    "en": "Music and Congress Hall parking, approx. € 6.00/day."
+    "en": "Music and Congress Hall parking, approx. € 6.00/day.",
+    "tr": "Müzik ve Kongre Salonu otoparkı, yaklaşık €6,00/gün."
   },
   "accessibility": {
     "de": "Historisches Pflaster erschwert Fortbewegung, viele Museen barrierefrei.",
     "hu": "A történelmi macskaköves burkolat nehezíti a közlekedést, de sok múzeum akadálymentes.",
     "ro": "Pavajul istoric îngreunează deplasarea, dar multe muzee sunt accesibile.",
-    "en": "Historic cobblestones make movement difficult, but many museums are accessible."
+    "en": "Historic cobblestones make movement difficult, but many museums are accessible.",
+    "tr": "Tarihi kaldırım taşları hareketi zorlaştırır, ancak birçok müze erişilebilir."
   },
   "photoRules": {
     "de": "Erlaubt.",
     "hu": "Engedélyezett.",
     "ro": "Permis.",
-    "en": "Allowed."
+    "en": "Allowed.",
+    "tr": "İzinli."
   },
   "bestTimeToVisit": {
     "de": "Dezember für den berühmten Lübecker Weihnachtsmarkt.",
     "hu": "Decemberben a híres lübecki karácsonyi vásár idején.",
     "ro": "În decembrie pentru faimosul târg de Crăciun din Lübeck.",
-    "en": "December for the famous Lübeck Christmas market."
+    "en": "December for the famous Lübeck Christmas market.",
+    "tr": "Ünlü Lübeck Noel pazarı için Aralık."
   },
   "audioGuide": {
     "de": "ja, Stadtführung per App",
     "hu": "igen, városnézés alkalmazáson keresztül",
     "ro": "da, turul orașului prin aplicație",
-    "en": "yes, city tour via app"
+    "en": "yes, city tour via app",
+    "tr": "evet, şehir turu uygulama ile"
   }
 }

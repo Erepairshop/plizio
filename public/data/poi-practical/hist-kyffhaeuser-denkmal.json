@@ -3,55 +3,64 @@
     "de": "Kyffhäuserweg 2, 06567 Steinthaleben",
     "hu": "Kyffhäuserweg 2, 06567 Steinthaleben",
     "ro": "Kyffhäuserweg 2, 06567 Steinthaleben",
-    "en": "Kyffhäuserweg 2, 06567 Steinthaleben"
+    "en": "Kyffhäuserweg 2, 06567 Steinthaleben",
+    "tr": "Kyffhäuserweg 2, 06567 Steinthaleben"
   },
   "openingHours": {
     "de": "Mo-Su 09:30-18:00",
     "hu": "H-V 09:30-18:00",
     "ro": "Lu-Du 09:30-18:00",
-    "en": "Mon-Sun 09:30-18:00"
+    "en": "Mon-Sun 09:30-18:00",
+    "tr": "Pzt-Paz 09:30-18:00"
   },
   "entranceFee": {
     "de": "€ 8,50 Erwachsene, € 4,50 Kinder",
     "hu": "8,50 € felnőtt, 4,50 € gyermek",
     "ro": "8,50 € adulți, 4,50 € copii",
-    "en": "€ 8.50 adults, € 4.50 children"
+    "en": "€ 8.50 adults, € 4.50 children",
+    "tr": "€8,50 yetişkin, €4,50 çocuk"
   },
   "website": "https://www.kyffhaeuser-denkmal.de",
   "publicTransport": {
     "de": "Rufbus ab Bad Frankenhausen oder Sondershausen",
     "hu": "Hívható buszjárat Bad Frankenhausen vagy Sondershausen felől",
     "ro": "Autobuz la cerere din Bad Frankenhausen sau Sondershausen",
-    "en": "On-call bus from Bad Frankenhausen or Sondershausen"
+    "en": "On-call bus from Bad Frankenhausen or Sondershausen",
+    "tr": "Bad Frankenhausen veya Sondershausen’den çağrı üzerine servis"
   },
   "parking": {
     "de": "Parkplatz direkt unterhalb des Denkmals, ca. 3,00 €.",
     "hu": "Parkoló közvetlenül az emlékmű alatt, kb. 3,00 €.",
     "ro": "Parcare direct sub monument, cca. 3,00 €.",
-    "en": "Parking directly below the monument, approx. € 3.00."
+    "en": "Parking directly below the monument, approx. € 3.00.",
+    "tr": "Anıtın hemen altında otopark, yaklaşık €3,00."
   },
   "accessibility": {
     "de": "Steiler Anstieg, für Rollstuhlfahrer nur bedingt geeignet.",
     "hu": "Meredek emelkedő, kerekesszékkel csak korlátozottan járható.",
     "ro": "Urcare abruptă, accesibilitate limitată pentru scaune cu rotile.",
-    "en": "Steep climb, only partially suitable for wheelchair users."
+    "en": "Steep climb, only partially suitable for wheelchair users.",
+    "tr": "Dik tırmanış, tekerlekli sandalye için yalnızca kısmen uygun."
   },
   "photoRules": {
     "de": "Erlaubt.",
     "hu": "Engedélyezett.",
     "ro": "Permis.",
-    "en": "Allowed."
+    "en": "Allowed.",
+    "tr": "İzinli."
   },
   "bestTimeToVisit": {
     "de": "Bei klarer Sicht für den Fernblick bis zum Brocken.",
     "hu": "Tiszta időben a Brocken-csúcsig tartó panoráma miatt.",
     "ro": "În zilele senine pentru panorama până la vârful Brocken.",
-    "en": "On clear days for views as far as the Brocken."
+    "en": "On clear days for views as far as the Brocken.",
+    "tr": "Açık günlerde Brocken’e kadar manzaralar için."
   },
   "audioGuide": {
     "de": "ja",
     "hu": "igen",
     "ro": "da",
-    "en": "yes"
+    "en": "yes",
+    "tr": "evet"
   }
 }

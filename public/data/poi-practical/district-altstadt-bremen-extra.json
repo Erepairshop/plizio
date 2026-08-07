@@ -3,55 +3,64 @@
     "de": "Am Markt, 28195 Bremen",
     "hu": "Am Markt, 28195 Bréma",
     "ro": "Am Markt, 28195 Bremen",
-    "en": "Am Markt, 28195 Bremen"
+    "en": "Am Markt, 28195 Bremen",
+    "tr": "Am Markt, 28195 Bremen"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "0-24",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "7/24"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.bremen.de/tourismus/sehenswuerdigkeiten/marktplatz",
   "publicTransport": {
     "de": "Straßenbahnlinien 2, 3, 4, 6, 8 bis Haltestelle 'Domsheide'",
     "hu": "2, 3, 4, 6, 8-as villamos 'Domsheide' megállóig",
     "ro": "Liniile de tramvai 2, 3, 4, 6, 8 până la stația 'Domsheide'",
-    "en": "Tram lines 2, 3, 4, 6, 8 to 'Domsheide' stop"
+    "en": "Tram lines 2, 3, 4, 6, 8 to 'Domsheide' stop",
+    "tr": "Tramvay hatları 2, 3, 4, 6, 8 'Domsheide' durağına"
   },
   "parking": {
     "de": "Parkhaus Pressehaus oder Parkhaus Am Dom, ca. €2.50 pro Stunde",
     "hu": "Pressehaus vagy Am Dom parkolóház, kb. 2,50 € óránként",
     "ro": "Parcarea Pressehaus sau parcarea Am Dom, aprox. 2,50 € pe oră",
-    "en": "Pressehaus or Am Dom parking garage, approx. €2.50 per hour"
+    "en": "Pressehaus or Am Dom parking garage, approx. €2.50 per hour",
+    "tr": "Pressehaus veya Am Dom otopark garajı, yaklaşık €2.50/saat"
   },
   "accessibility": {
     "de": "Weitgehend barrierefrei, jedoch viel Kopfsteinpflaster auf dem Marktplatz",
     "hu": "Nagyrészt akadálymentesített, de a piactéren sok a macskakő",
     "ro": "În mare parte accesibil, dar cu mult pavaj cu piatră cubică în piață",
-    "en": "Largely accessible, but lots of cobblestones in the market square"
+    "en": "Largely accessible, but lots of cobblestones in the market square",
+    "tr": "Büyük ölçüde erişilebilir, ancak pazar meydanında çok sayıda parke taşı var"
   },
   "photoRules": {
     "de": "Erlaubt; Stativnutzung im öffentlichen Raum meist unproblematisch",
     "hu": "Engedélyezett; az állvány használata közterületen általában problémamentes",
     "ro": "Permis; utilizarea trepiedului în spațiul public este de regulă fără probleme",
-    "en": "Allowed; tripod use in public spaces is usually non-problematic"
+    "en": "Allowed; tripod use in public spaces is usually non-problematic",
+    "tr": "İzinli; kamusal alanda tripod kullanımı genellikle sorun olmaz"
   },
   "bestTimeToVisit": {
     "de": "Abends, wenn das Rathaus und der Roland beleuchtet sind",
     "hu": "Este, amikor a városháza és a Roland-szobor ki van világítva",
     "ro": "Seara, când primăria și statuia Roland sunt iluminate",
-    "en": "In the evening, when the town hall and the Roland statue are illuminated"
+    "en": "In the evening, when the town hall and the Roland statue are illuminated",
+    "tr": "Belediye sarayı ve Roland heykelinin aydınlatıldığı akşam saatleri"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

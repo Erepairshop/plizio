@@ -3,55 +3,64 @@
     "de": "Burg Frankenstein, 64367 Mühltal",
     "hu": "Burg Frankenstein, 64367 Mühltal",
     "ro": "Burg Frankenstein, 64367 Mühltal",
-    "en": "Burg Frankenstein, 64367 Mühltal"
+    "en": "Burg Frankenstein, 64367 Mühltal",
+    "tr": "Burg Frankenstein, 64367 Mühltal"
   },
   "openingHours": {
     "de": "Täglich 10:00-20:00 (Areal frei zugänglich)",
     "hu": "Naponta 10:00-20:00 (a terület szabadon látogatható)",
     "ro": "Zilnic 10:00-20:00 (zona este liber accesibilă)",
-    "en": "Daily 10:00-20:00 (area freely accessible)"
+    "en": "Daily 10:00-20:00 (area freely accessible)",
+    "tr": "Her gün 10:00-20:00 (alan serbest erişime açık)"
   },
   "entranceFee": {
     "de": "kostenlos (außer bei Großevents wie Halloween)",
     "hu": "ingyenes (kivéve nagyrendezvényeken, pl. Halloween)",
     "ro": "gratuit (cu excepția evenimentelor mari precum Halloween)",
-    "en": "free (except for major events like Halloween)"
+    "en": "free (except for major events like Halloween)",
+    "tr": "ücretsiz (Halloween gibi büyük etkinlikler hariç)"
   },
   "website": "https://www.burg-frankenstein.de",
   "publicTransport": {
     "de": "Straßenbahn 7/8 nach Darmstadt-Eberstadt, dann längere Wanderung.",
     "hu": "7/8-as villamos Darmstadt-Eberstadtig, majd hosszabb gyalogtúra.",
     "ro": "Tramvai 7/8 până la Darmstadt-Eberstadt, apoi o drumeție mai lungă.",
-    "en": "Tram 7/8 to Darmstadt-Eberstadt, then a longer hike."
+    "en": "Tram 7/8 to Darmstadt-Eberstadt, then a longer hike.",
+    "tr": "7/8 tramvayı ile Darmstadt-Eberstadt, ardından uzun bir yürüyüş."
   },
   "parking": {
     "de": "Großer kostenloser Parkplatz direkt am Burgeingang.",
     "hu": "Nagy ingyenes parkoló közvetlenül a várbejáratnál.",
     "ro": "Parcare mare gratuită chiar la intrarea în castel.",
-    "en": "Large free parking lot right at the castle entrance."
+    "en": "Large free parking lot right at the castle entrance.",
+    "tr": "Kaleye girişte büyük ücretsiz otopark."
   },
   "accessibility": {
     "de": "Burghof und Restaurant barrierefrei, Türme nur über Treppen.",
     "hu": "A várudvar és az étterem akadálymentesített, a tornyok csak lépcsőn érhetők el.",
     "ro": "Curtea castelului și restaurantul sunt accesibile, turnurile doar pe scări.",
-    "en": "Castle courtyard and restaurant are accessible, towers only via stairs."
+    "en": "Castle courtyard and restaurant are accessible, towers only via stairs.",
+    "tr": "Kale avlusu ve restoran erişilebilir, kuleler sadece merdivenle."
   },
   "photoRules": {
     "de": "Privat erlaubt, kommerzielle Shootings sind anmeldepflichtig.",
     "hu": "Magáncélú engedélyezett, kereskedelmi fotózást be kell jelenteni.",
     "ro": "Permis în scop privat, ședințele foto comerciale necesită aprobare.",
-    "en": "Private use allowed, commercial shoots require registration."
+    "en": "Private use allowed, commercial shoots require registration.",
+    "tr": "Özel kullanım izinli, ticari çekimler kayıt gerektirir."
   },
   "bestTimeToVisit": {
     "de": "Neblige Herbsttage für die passende Grusel-Atmosphäre.",
     "hu": "Ködös őszi napok a megfelelő borzongató hangulathoz.",
     "ro": "Zilele de toamnă cu ceață pentru o atmosferă înfricoșătoare potrivită.",
-    "en": "Foggy autumn days for the right spooky atmosphere."
+    "en": "Foggy autumn days for the right spooky atmosphere.",
+    "tr": "Doğru ürkütücü atmosfer için sisli sonbahar günleri."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

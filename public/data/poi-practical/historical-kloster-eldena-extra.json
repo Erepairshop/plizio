@@ -3,55 +3,64 @@
     "de": "Wolgaster Landstraße 41, 17493 Greifswald",
     "hu": "Wolgaster Landstraße 41, 17493 Greifswald",
     "ro": "Wolgaster Landstraße 41, 17493 Greifswald",
-    "en": "Wolgaster Landstraße 41, 17493 Greifswald"
+    "en": "Wolgaster Landstraße 41, 17493 Greifswald",
+    "tr": "Wolgaster Landstraße 41, 17493 Greifswald"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "7/24"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.greifswald.de",
   "publicTransport": {
     "de": "Bus Linie 2 oder 3 bis Haltestelle Eldena.",
     "hu": "2-es vagy 3-as busz az Eldena megállóig.",
     "ro": "Autobuzul linia 2 sau 3 până la stația Eldena.",
-    "en": "Bus line 2 or 3 to Eldena stop."
+    "en": "Bus line 2 or 3 to Eldena stop.",
+    "tr": "Eldena durağına giden 2 veya 3 numaralı otobüs hattı."
   },
   "parking": {
     "de": "Kostenloser Parkplatz direkt an der Ruine.",
     "hu": "Ingyenes parkoló közvetlenül a romoknál.",
     "ro": "Parcare gratuită chiar la ruine.",
-    "en": "Free parking right at the ruins."
+    "en": "Free parking right at the ruins.",
+    "tr": "Kalıntıların hemen yanında ücretsiz otopark."
   },
   "accessibility": {
     "de": "Ebenerdiges Wiesengelände, gut zugänglich.",
     "hu": "Szintbeli füves terület, jól megközelíthető.",
     "ro": "Teren cu iarbă la nivelul solului, ușor accesibil.",
-    "en": "Level meadow area, easily accessible."
+    "en": "Level meadow area, easily accessible.",
+    "tr": "Düz çayır alanı, kolay erişilebilir."
   },
   "photoRules": {
     "de": "Sehr beliebt für Hochzeitsfotos, privat uneingeschränkt erlaubt.",
     "hu": "Nagyon népszerű esküvői fotózásokhoz, magáncélú használata korlátlanul megengedett.",
     "ro": "Foarte popular pentru fotografiile de nuntă, permis nelimitat pentru scopuri private.",
-    "en": "Very popular for wedding photos, unrestricted for private use."
+    "en": "Very popular for wedding photos, unrestricted for private use.",
+    "tr": "Düğün fotoğrafları için çok popüler, özel kullanımda kısıtlama yok."
   },
   "bestTimeToVisit": {
     "de": "Abends zum Sonnenuntergang, wenn die roten Backsteine leuchten.",
     "hu": "Este naplementekor, amikor a vörös téglák izzanak.",
     "ro": "Seara la apus, când cărămizile roșii strălucesc.",
-    "en": "Evening at sunset, when the red bricks glow."
+    "en": "Evening at sunset, when the red bricks glow.",
+    "tr": "Kırmızı tuğlaların parladığı gün batımında akşam."
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

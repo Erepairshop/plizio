@@ -3,55 +3,64 @@
     "de": "Platz der Republik 1, 11011 Berlin",
     "hu": "Platz der Republik 1, 11011 Berlin",
     "ro": "Platz der Republicii 1, 11011 Berlin",
-    "en": "Platz der Republik 1, 11011 Berlin"
+    "en": "Platz der Republik 1, 11011 Berlin",
+    "tr": "Platz der Republik 1, 11011 Berlin"
   },
   "openingHours": {
     "de": "Mo-Su 08:00-24:00",
     "hu": "H-V 08:00-24:00",
     "ro": "Lu-Du 08:00-24:00",
-    "en": "Mon-Sun 08:00-24:00"
+    "en": "Mon-Sun 08:00-24:00",
+    "tr": "Pazartesi-Pazar 08:00-24:00"
   },
   "entranceFee": {
     "de": "kostenlos (Voranmeldung erforderlich)",
     "hu": "ingyenes (előzetes bejelentkezés szükséges)",
     "ro": "gratuit (este necesară rezervare prealabilă)",
-    "en": "free (prior registration required)"
+    "en": "free (prior registration required)",
+    "tr": "ücretsiz (önceden kayıt zorunlu)"
   },
   "website": "https://www.bundestag.de/besuche",
   "publicTransport": {
     "de": "S+U Brandenburger Tor (S1, S2, S25, U5), Bus 100",
     "hu": "S+U Brandenburger Tor (S1, S2, S25, U5), 100-as busz",
     "ro": "S+U Brandenburger Tor (S1, S2, S25, U5), autobuz 100",
-    "en": "S+U Brandenburger Tor (S1, S2, S25, U5), Bus 100"
+    "en": "S+U Brandenburger Tor (S1, S2, S25, U5), Bus 100",
+    "tr": "S+U Brandenburger Tor (S1, S2, S25, U5), Otobüs 100"
   },
   "parking": {
     "de": "Keine Parkplätze am Gebäude; Tiefgarage Luisenstraße ca. 15 Min Fußweg (4€/Std).",
     "hu": "Nincs parkoló az épületnél; Luisenstraße mélygarázs kb. 15 perc séta (4€/óra).",
     "ro": "Fără locuri de parcare la clădire; garajul subteran Luisenstraße la cca. 15 min de mers (4€/oră).",
-    "en": "No parking at the building; Luisenstraße underground garage approx. 15 min walk (€4/hr)."
+    "en": "No parking at the building; Luisenstraße underground garage approx. 15 min walk (€4/hr).",
+    "tr": "Binada park yok; Luisenstraße yeraltı garajı yaklaşık 15 dakikalık yürüme mesafesi (€4/saat)."
   },
   "accessibility": {
     "de": "Vollständig barrierefrei zugänglich über Rampen und Aufzüge; Rollstühle leihbar.",
     "hu": "Teljesen akadálymentes rámpákon és lifteken keresztül; kerekesszék kölcsönözhető.",
     "ro": "Complet accesibil prin rampe și ascensoare; scaune cu rotile disponibile pentru închiriere.",
-    "en": "Fully accessible via ramps and elevators; wheelchairs available for loan."
+    "en": "Fully accessible via ramps and elevators; wheelchairs available for loan.",
+    "tr": "Rampalar ve asansörlerle tamamen erişilebilir; tekerlekli sandalyeler ödünç verilir."
   },
   "photoRules": {
     "de": "Fotografieren für private Zwecke erlaubt; keine Stative, Sicherheitskontrolle beachten.",
     "hu": "Magáncélú fotózás megengedett; állvány nem használható, biztonsági ellenőrzésre számítani kell.",
     "ro": "Fotografiatul în scop privat este permis; fără trepiede, respectați controlul de securitate.",
-    "en": "Photography for private purposes allowed; no tripods, security check required."
+    "en": "Photography for private purposes allowed; no tripods, security check required.",
+    "tr": "Özel amaçlı fotoğrafçılık izinli; tripod yok, güvenlik kontrolü gerekli."
   },
   "bestTimeToVisit": {
     "de": "Abendstunden für den Blick auf das beleuchtete Berlin und weniger Andrang.",
     "hu": "Esti órák a kivilágított Berlin látványa és a kisebb tömeg miatt.",
     "ro": "Orele serii pentru vederea asupra Berlinului iluminat și aglomerație redusă.",
-    "en": "Evening hours for views of illuminated Berlin and fewer crowds."
+    "en": "Evening hours for views of illuminated Berlin and fewer crowds.",
+    "tr": "Aydınlatılmış Berlin manzaraları ve daha az kalabalık için akşam saatleri."
   },
   "audioGuide": {
     "de": "Ja (DE, EN, FR, IT, ES, PT, TR, PL, RU, NL)",
     "hu": "Igen (DE, EN, FR, IT, ES, PT, TR, PL, RU, NL)",
     "ro": "Da (DE, EN, FR, IT, ES, PT, TR, PL, RU, NL)",
-    "en": "Yes (DE, EN, FR, IT, ES, PT, TR, PL, RU, NL)"
+    "en": "Yes (DE, EN, FR, IT, ES, PT, TR, PL, RU, NL)",
+    "tr": "Evet (DE, EN, FR, IT, ES, PT, TR, PL, RU, NL)"
   }
 }

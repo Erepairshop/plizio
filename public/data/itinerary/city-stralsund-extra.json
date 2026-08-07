@@ -21,7 +21,8 @@
             "de": "St.-Marien-Kirche",
             "hu": "Szent Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "St. Marien Kilisesi"
           },
           "coords": [
             13.0881,
@@ -36,7 +37,8 @@
             "de": "Steigen Sie auf den Turm für den besten Blick über die Altstadt.",
             "hu": "Mássz fel a toronyba a legjobb óvárosi panorámáért.",
             "ro": "Urcați în turn pentru cea mai bună vedere asupra centrului vechi.",
-            "en": "Climb the tower for the best view over the old town."
+            "en": "Climb the tower for the best view over the old town.",
+            "tr": "Eski kente en iyi bakış için kuleye tırmanın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Altes Rathaus & St. Nikolai",
             "hu": "Régi Városháza és Szent Miklós-templom",
             "ro": "Primăria Veche și Biserica Sf. Nicolae",
-            "en": "Old Town Hall & St. Nicholas Church"
+            "en": "Old Town Hall & St. Nicholas Church",
+            "tr": "Eski Belediye Binası ve St. Nikolaus Kilisesi"
           },
           "coords": [
             13.0905,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die Schaufassade des Rathauses, ein Meisterwerk der Backsteingotik.",
             "hu": "Csodáld meg a városháza díszes homlokzatát, a tégla-gótika remekművét.",
             "ro": "Admirați fațada primăriei, o capodoperă a goticului de cărămidă.",
-            "en": "Admire the ornate facade of the town hall, a masterpiece of brick Gothic."
+            "en": "Admire the ornate facade of the town hall, a masterpiece of brick Gothic.",
+            "tr": "Belediye binasının süslü cephesine hayran kalın; tuğla gotiğinin bir başyapıtıdır."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kniepertor",
             "hu": "Knieper-kapu",
             "ro": "Poarta Knieper",
-            "en": "Knieper Gate"
+            "en": "Knieper Gate",
+            "tr": "Knieper Kapısı"
           },
           "coords": [
             13.0888,
@@ -82,7 +87,8 @@
             "de": "Eines der letzten erhaltenen Stadttore von Stralsund.",
             "hu": "Stralsund egyik utolsó épségben maradt városkapuja.",
             "ro": "Una dintre ultimele porți medievale rămase ale orașului.",
-            "en": "One of the last remaining medieval city gates of Stralsund."
+            "en": "One of the last remaining medieval city gates of Stralsund.",
+            "tr": "Stralsund'un kalan son ortaçağ şehir kapılarından biri."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "tr": "Eski Kentte Öğle Yemeği"
           },
           "coords": [
             13.0915,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie den originalen Stralsunder Bismarckhering.",
             "hu": "Kóstold meg az eredeti stralsundi Bismarck-heringet.",
             "ro": "Încercați heringul Bismarck original din Stralsund.",
-            "en": "Try the original Stralsund Bismarck herring."
+            "en": "Try the original Stralsund Bismarck herring.",
+            "tr": "Orijinal Stralsund Bismarck ringasını deneyin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Ozeaneum",
             "hu": "Oceaneum",
             "ro": "Ozeaneum",
-            "en": "Ozeaneum"
+            "en": "Ozeaneum",
+            "tr": "Ozeaneum"
           },
           "coords": [
             13.0975,
@@ -128,7 +137,8 @@
             "de": "Die Ausstellung 'Riesen der Meere' mit Wal-Modellen ist spektakulár.",
             "hu": "A 'Tengerek óriásai' kiállítás a bálnamodellekkel lenyűgöző.",
             "ro": "Expoziția 'Giganții mărilor' cu modele de balene este spectaculoasă.",
-            "en": "The 'Giants of the Seas' exhibition with whale models is spectacular."
+            "en": "The 'Giants of the Seas' exhibition with whale models is spectacular.",
+            "tr": "Balina modellerinin yer aldığı 'Denizlerin Devleri' sergisi etkileyicidir."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Gorch Fock I",
             "hu": "Gorch Fock I múzeumhajó",
             "ro": "Nava-muzeu Gorch Fock I",
-            "en": "Gorch Fock I Museum Ship"
+            "en": "Gorch Fock I Museum Ship",
+            "tr": "Gorch Fock I Müze Gemisi"
           },
           "coords": [
             13.0988,
@@ -151,7 +162,8 @@
             "de": "Besuchen Sie das historische Segelschulschiff direkt im Hafen.",
             "hu": "Látogasd meg a történelmi vitorlás iskolahajót a kikötőben.",
             "ro": "Vizitați nava istorică cu pânze situată direct în port.",
-            "en": "Visit the historic sailing training ship directly in the harbor."
+            "en": "Visit the historic sailing training ship directly in the harbor.",
+            "tr": "Tarihi yelkenli eğitim gemisini doğrudan limanda ziyaret edin."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Hafeninsel & Sund-Blick",
             "hu": "Kikötő-sziget és kilátás a Sundra",
             "ro": "Insula Portului și vedere spre Sund",
-            "en": "Harbor Island & Sund View"
+            "en": "Harbor Island & Sund View",
+            "tr": "Liman Adası ve Sund Manzarası"
           },
           "coords": [
             13.1012,
@@ -174,7 +187,8 @@
             "de": "Perfekter Ort, um den Blick auf die Rügenbrücke zu genießen.",
             "hu": "Tökéletes hely a Rügen-híd látványának élvezetéhez.",
             "ro": "Locul perfect pentru a admira podul spre insula Rügen.",
-            "en": "Perfect spot to enjoy the view of the Rügen Bridge."
+            "en": "Perfect spot to enjoy the view of the Rügen Bridge.",
+            "tr": "Rügen Köprüsü manzarasının tadını çıkarmak için mükemmel nokta."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag beginnt im Süden der Altstadt bei der gewaltigen Marienkirche. Von dort schlendern Sie durch die UNESCO-geschützten Gassen zum Alten Markt, dem Herzstück der Stadt. Nach einem traditionellen Fischessen am Mittag tauchen Sie im Ozeaneum in die Unterwasserwelt ein. Den Nachmittag verbringen Sie auf der Hafeninsel zwischen historischen Schiffen und der modernen Silhouette der Rügenbrücke.",
         "hu": "A nap az óváros déli részén, a hatalmas Mária-templomnál kezdődik. Innen az UNESCO védelme alatt álló utcákon sétálunk a Régi Piac térre, a város szívébe. Egy hagyományos halas ebéd után az Oceaneum vízi világában merülünk el. A délutánt a Kikötő-szigeten töltjük történelmi hajók és a Rügen-híd modern sziluettje között.",
         "ro": "Ziua începe în sudul centrului vechi, la impozanta Biserică Sfânta Maria. De acolo, vă plimbați pe străzile protejate de UNESCO către Piața Veche, inima orașului. După un prânz tradițional cu pește, explorați lumea subacvatică la Ozeaneum. După-amiaza o petreceți pe Insula Portului, printre nave istorice și silueta modernă a podului Rügen.",
-        "en": "Your day starts in the south of the Old Town at the massive St. Mary's Church. From there, stroll through UNESCO-protected alleys to the Old Market, the heart of the city. After a traditional fish lunch, dive into the underwater world at the Ozeaneum. Spend the afternoon on the Harbor Island between historic ships and the modern silhouette of the Rügen Bridge."
+        "en": "Your day starts in the south of the Old Town at the massive St. Mary's Church. From there, stroll through UNESCO-protected alleys to the Old Market, the heart of the city. After a traditional fish lunch, dive into the underwater world at the Ozeaneum. Spend the afternoon on the Harbor Island between historic ships and the modern silhouette of the Rügen Bridge.",
+        "tr": "Gününüz, devasa St. Marien Kilisesi'nin güneyinde Eski Kent'te başlar. Oradan UNESCO korumasındaki sokaklardan Eski Pazar'a, şehrin kalbine doğru yürüyün. Geleneksel bir balık öğle yemeğinin ardından Ozeaneum'da su altı dünyasına dalın. Öğleden sonrayı tarihi gemilerle modern Rügen Köprüsü silueti arasındaki Liman Adası'nda geçirin."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +357,12 @@
           "Cobblestones are everywhere – wear comfortable shoes.",
           "The view from the tower of St. Mary's is worth the effort.",
           "A fish roll on the Harbor Island is a must-do."
+        ],
+        "tr": [
+          "Eski Kent çok kompakt ve yürüyerek keşfetmek için ideal.",
+          "Her yerde arnavut taşları var – rahat ayakkabılar giyin.",
+          "St. Marien kulesinden manzara çabaya değer.",
+          "Liman Adası'nda bir balık sandviçi yapmak şart."
         ]
       }
     },
@@ -358,7 +379,8 @@
             "de": "Sundpromenade",
             "hu": "Sund-sétány",
             "ro": "Promenada Sund",
-            "en": "Sund Promenade"
+            "en": "Sund Promenade",
+            "tr": "Sund Rıhtımı"
           },
           "coords": [
             13.0855,
@@ -373,7 +395,8 @@
             "de": "Herrlicher Radweg direkt am Wasser.",
             "hu": "Gyönyörű kerékpárút közvetlenül a vízparton.",
             "ro": "Pistă de biciclete superbă chiar pe malul apei.",
-            "en": "Beautiful bike path directly along the waterfront."
+            "en": "Beautiful bike path directly along the waterfront.",
+            "tr": "Doğrudan sahil boyunca uzanan güzel bisiklet yolu."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Kniepertor",
             "hu": "Knieper-kapu",
             "ro": "Poarta Knieper",
-            "en": "Knieper Gate"
+            "en": "Knieper Gate",
+            "tr": "Knieper Kapısı"
           },
           "coords": [
             13.0888,
@@ -396,7 +420,8 @@
             "de": "Einfahrt in die historische Altstadt.",
             "hu": "Bejárat a történelmi óvárosba.",
             "ro": "Intrarea în centrul istoric.",
-            "en": "Entrance to the historic Old Town."
+            "en": "Entrance to the historic Old Town.",
+            "tr": "Tarihi Eski Şehir’e giriş."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             13.0905,
@@ -419,7 +445,8 @@
             "de": "Fahrräder am Markt kurz abstellen und Fassade bewundern.",
             "hu": "Parkolj le a piacon és csodáld meg a homlokzatot.",
             "ro": "Parcați bicicletele în piață și admirați fațada.",
-            "en": "Park your bikes at the market and admire the facade."
+            "en": "Park your bikes at the market and admire the facade.",
+            "tr": "Pazar yerinde bisikletinizi park edin ve cephenin tadını çıkarın."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Hafeninsel & Ozeaneum",
             "hu": "Kikötő-sziget és Oceaneum",
             "ro": "Insula Portului și Ozeaneum",
-            "en": "Harbor Island & Ozeaneum"
+            "en": "Harbor Island & Ozeaneum",
+            "tr": "Liman Adası & Ozeaneum"
           },
           "coords": [
             13.0975,
@@ -442,7 +470,8 @@
             "de": "Besuch im Ozeaneum (Fahrradständer vorhanden).",
             "hu": "Látogatás az Oceaneumban (kerékpártárolók vannak).",
             "ro": "Vizită la Ozeaneum (există suporturi pentru biciclete).",
-            "en": "Visit the Ozeaneum (bike racks available)."
+            "en": "Visit the Ozeaneum (bike racks available).",
+            "tr": "Ozeaneum’u ziyaret edin (bisiklet park yerleri mevcut)."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Gorch Fock I",
             "hu": "Gorch Fock I",
             "ro": "Gorch Fock I",
-            "en": "Gorch Fock I"
+            "en": "Gorch Fock I",
+            "tr": "Gorch Fock I"
           },
           "coords": [
             13.0988,
@@ -465,7 +495,8 @@
             "de": "Historischer Dreimaster an der Kaikante.",
             "hu": "Történelmi háromárbócos a rakpartnál.",
             "ro": "Navă istorică cu trei catarge la chei.",
-            "en": "Historic three-masted ship at the quay."
+            "en": "Historic three-masted ship at the quay.",
+            "tr": "Rıhtımdaki tarihi üç direkli gemi."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Mittagessen (Hafen)",
             "hu": "Ebéd a kikötőben",
             "ro": "Prânz în port",
-            "en": "Lunch (Harbor)"
+            "en": "Lunch (Harbor)",
+            "tr": "Öğle Yemeği (Liman)"
           },
           "coords": [
             13.0995,
@@ -488,7 +520,8 @@
             "de": "Frischer Fisch direkt vom Kutter.",
             "hu": "Friss hal közvetlenül a halászhajóról.",
             "ro": "Pește proaspăt direct de pe vas.",
-            "en": "Fresh fish directly from the cutter."
+            "en": "Fresh fish directly from the cutter.",
+            "tr": "Kesici tekneden doğrudan taze balık."
           }
         },
         {
@@ -496,7 +529,8 @@
             "de": "Rügenbrücke Viewpoint",
             "hu": "Rügen-híd kilátópont",
             "ro": "Punct de observație Podul Rügen",
-            "en": "Rügen Bridge Viewpoint"
+            "en": "Rügen Bridge Viewpoint",
+            "tr": "Rügen Köprüsü Seyir Noktası"
           },
           "coords": [
             13.1085,
@@ -511,7 +545,8 @@
             "de": "Spektakuläre Sicht auf die Pylonen der Brücke.",
             "hu": "Látványos kilátás a híd pilléreire.",
             "ro": "Vedere spectaculoasă asupra pilonilor podului.",
-            "en": "Spectacular view of the bridge pylons."
+            "en": "Spectacular view of the bridge pylons.",
+            "tr": "Köprü ayaklarının muhteşem manzarası."
           }
         },
         {
@@ -519,7 +554,8 @@
             "de": "Frankenteich",
             "hu": "Frankenteich-tó",
             "ro": "Iazul Franken",
-            "en": "Frankenteich Lake"
+            "en": "Frankenteich Lake",
+            "tr": "Frankenteich Gölü"
           },
           "coords": [
             13.0955,
@@ -534,7 +570,8 @@
             "de": "Ruhiger Abschluss der Tour am See.",
             "hu": "A túra csendes lezárása a tónál.",
             "ro": "Finalul liniștit al turului lângă lac.",
-            "en": "Quiet end to the tour by the lake."
+            "en": "Quiet end to the tour by the lake.",
+            "tr": "Turun göl kenarında sakin bir sonu."
           }
         }
       ],
@@ -542,7 +579,8 @@
         "de": "Mit dem Rad erkunden Sie nicht nur die Altstadt, sondern auch die wunderschöne Uferpromenade am Strelasund. Die Tour führt vom Wasser durch die Stadttore ins historische Zentrum und weiter zum Hafen. Ein Highlight ist die Fahrt Richtung Rügenbrücke, wo Sie die beeindruckende Ingenieurskunst aus nächster Nähe bewundern können. Den Abschluss bildet eine entspannte Runde um den Frankenteich.",
         "hu": "Kerékpárral nemcsak az óvárost, hanem a Strelasund gyönyörű vízparti sétányát is felfedezhetjük. A túra a víztől a városkapukon át vezet a történelmi központba, majd tovább a kikötőbe. Kiemelt pont a Rügen-híd felé vezető út, ahol közelről csodálhatjuk meg a lenyűgöző mérnöki alkotást. A napot a Frankenteich-tó körüli pihentető kör zárja.",
         "ro": "Cu bicicleta veți explora nu doar centrul vechi, ci și frumoasa faleză de pe malul Strelasund. Turul duce de la apă prin porțile orașului în centrul istoric și mai departe spre port. Un punct forte este drumul către podul Rügen, unde puteți admira de aproape ingineria impresionantă. Finalul este marcat de o tură relaxantă în jurul lacului Frankenteich.",
-        "en": "By bike, you will explore not only the Old Town but also the beautiful promenade along the Strelasund. The tour leads from the waterfront through the city gates into the historic center and on to the harbor. A highlight is the ride towards the Rügen Bridge, where you can admire the impressive engineering up close. The trip ends with a relaxed loop around the Frankenteich lake."
+        "en": "By bike, you will explore not only the Old Town but also the beautiful promenade along the Strelasund. The tour leads from the waterfront through the city gates into the historic center and on to the harbor. A highlight is the ride towards the Rügen Bridge, where you can admire the impressive engineering up close. The trip ends with a relaxed loop around the Frankenteich lake.",
+        "tr": "Bisikletle sadece Eski Şehri değil, aynı zamanda Strelasund boyunca uzanan güzel rıhtımı da keşfedeceksiniz. Tur, sahil boyunca şehir kapılarından tarihi merkeze ve limana doğru ilerliyor. Bir vurgu, etkileyici mühendisliği yakından görebileceğiniz Rügen Köprüsü yönündeki sürüş. Gezi, Frankenteich gölü etrafında rahat bir turla sona eriyor."
       },
       "gastro_picks": {
         "de": [
@@ -646,6 +684,11 @@
           "Use the well-developed bike paths along the water.",
           "Cycling on cobblestones in the Old Town is tiring.",
           "Pay attention to the wind direction at the Sund."
+        ],
+        "tr": [
+          "Su boyunca iyi geliştirilmiş bisiklet yollarını kullanın.",
+          "Eski Şehir’deki parke taşlarında bisiklet sürmek yorucudur.",
+          "Sund’da rüzgâr yönüne dikkat edin."
         ]
       }
     },
@@ -662,7 +705,8 @@
             "de": "Altefähr (Sund-Panorama)",
             "hu": "Altefähr (Sund-panoráma)",
             "ro": "Altefähr (Panoramă Sund)",
-            "en": "Altefähr (Sund Panorama)"
+            "en": "Altefähr (Sund Panorama)",
+            "tr": "Altefähr (Sund Panoraması)"
           },
           "coords": [
             13.1255,
@@ -677,7 +721,8 @@
             "de": "Fahrt über die Rügenbrücke für den besten Blick auf die Skyline von Stralsund.",
             "hu": "Hajts át a Rügen-hídon a legjobb stralsundi panorámáért.",
             "ro": "Traversați podul Rügen pentru cea mai bună vedere asupra orașului Stralsund.",
-            "en": "Drive across the Rügen Bridge for the best view of the Stralsund skyline."
+            "en": "Drive across the Rügen Bridge for the best view of the Stralsund skyline.",
+            "tr": "Stralsund silüetinin en iyi görüntüsü için Rügen Köprüsü’nü geçin."
           }
         },
         {
@@ -685,7 +730,8 @@
             "de": "Parkhaus am Hafen (Cluster Start)",
             "hu": "Parkolóház a kikötőnél",
             "ro": "Parcare în port",
-            "en": "Harbor Parking Garage"
+            "en": "Harbor Parking Garage",
+            "tr": "Liman Otopark Garajı"
           },
           "coords": [
             13.0965,
@@ -700,7 +746,8 @@
             "de": "Zentraler Parkplatz für den Altstadt-Cluster.",
             "hu": "Központi parkoló az óvárosi felfedezéshez.",
             "ro": "Parcare centrală pentru explorarea centrului vechi.",
-            "en": "Central parking for the Old Town cluster."
+            "en": "Central parking for the Old Town cluster.",
+            "tr": "Eski Şehir bölgesi için merkezi otopark."
           }
         },
         {
@@ -708,7 +755,8 @@
             "de": "Altes Rathaus & Nikolai",
             "hu": "Régi Városháza és Szent Miklós",
             "ro": "Primăria Veche și Sf. Nicolae",
-            "en": "Old Town Hall & St. Nicholas"
+            "en": "Old Town Hall & St. Nicholas",
+            "tr": "Eski Belediye Binası & St. Nicholas"
           },
           "coords": [
             13.0905,
@@ -723,7 +771,8 @@
             "de": "Zu Fuß vom Parkhaus zum Markt (500m).",
             "hu": "Gyalog a parkolóháztól a piacig (500m).",
             "ro": "Pe jos de la parcare la piață (500m).",
-            "en": "Walk from the parking garage to the market (500m)."
+            "en": "Walk from the parking garage to the market (500m).",
+            "tr": "Otopark garajından pazara yürüyüş (500 m)."
           }
         },
         {
@@ -731,7 +780,8 @@
             "de": "Mittagessen (Altstadt)",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch (Old Town)"
+            "en": "Lunch (Old Town)",
+            "tr": "Öğle Yemeği (Eski Şehir)"
           },
           "coords": [
             13.0915,
@@ -746,7 +796,8 @@
             "de": "Rustikale hanseatische Küche genießen.",
             "hu": "Élvezd a rusztikus hanza konyhát.",
             "ro": "Bucurați-vă de bucătăria hanseatică rustică.",
-            "en": "Enjoy rustic Hanseatic cuisine."
+            "en": "Enjoy rustic Hanseatic cuisine.",
+            "tr": "Rustik Hansa mutfağının tadını çıkarın."
           }
         },
         {
@@ -754,7 +805,8 @@
             "de": "Ozeaneum",
             "hu": "Oceaneum",
             "ro": "Ozeaneum",
-            "en": "Ozeaneum"
+            "en": "Ozeaneum",
+            "tr": "Ozeaneum"
           },
           "coords": [
             13.0975,
@@ -769,7 +821,8 @@
             "de": "Ganz in der Nähe des Parkhauses.",
             "hu": "Egészen közel a parkolóházhoz.",
             "ro": "Foarte aproape de parcare.",
-            "en": "Very close to the parking garage."
+            "en": "Very close to the parking garage.",
+            "tr": "Otopark garajına çok yakın."
           }
         },
         {
@@ -777,7 +830,8 @@
             "de": "Gorch Fock I",
             "hu": "Gorch Fock I",
             "ro": "Gorch Fock I",
-            "en": "Gorch Fock I"
+            "en": "Gorch Fock I",
+            "tr": "Gorch Fock I"
           },
           "coords": [
             13.0988,
@@ -792,7 +846,8 @@
             "de": "Maritimes Erbe an der Kaikante.",
             "hu": "Tengeri örökség a rakpartnál.",
             "ro": "Moștenire maritimă la malul apei.",
-            "en": "Maritime heritage at the waterfront."
+            "en": "Maritime heritage at the waterfront.",
+            "tr": "Sahil boyunca denizcilik mirası."
           }
         },
         {
@@ -800,7 +855,8 @@
             "de": "Devin (Sund-Blick Süd)",
             "hu": "Devin (Sund-kilátás dél)",
             "ro": "Devin (Vedere Sund Sud)",
-            "en": "Devin (Sund View South)"
+            "en": "Devin (Sund View South)",
+            "tr": "Devin (Sund Güney Manzarası)"
           },
           "coords": [
             13.1285,
@@ -815,7 +871,8 @@
             "de": "Ruhiges Naturschutzgebiet im Süden der Stadt.",
             "hu": "Csendes természetvédelmi terület a város déli részén.",
             "ro": "Rezervație naturală liniștită în sudul orașului.",
-            "en": "Quiet nature reserve in the south of the city."
+            "en": "Quiet nature reserve in the south of the city.",
+            "tr": "Şehrin güneyinde sakin bir doğa koruma alanı."
           }
         }
       ],
@@ -823,7 +880,8 @@
         "de": "Diese Autotour kombiniert die Highlights von Stralsund mit den besten Panorama-Aussichten. Sie beginnen mit einer Fahrt über die beeindruckende Rügenbrücke nach Altefähr, um die berühmte Skyline zu fotografieren. Danach parken Sie zentral am Hafen und erkunden zu Fuß das UNESCO-Welterbe der Altstadt und das Ozeaneum. Zum Abschluss fahren Sie ins grüne Devin für einen ruhigen Blick über den Strelasund.",
         "hu": "Ez az autós túra Stralsund nevezetességeit a legjobb panorámákkal ötvözi. A napot a lenyűgöző Rügen-hídon átkelve Altefährben kezdjük, hogy lefotózzuk a híres sziluettet. Ezután központi helyen, a kikötőben parkolunk le, és gyalog fedezzük fel az UNESCO Világörökség részét képező óvárost és az Oceaneumot. Végezetül a zöldellő Devinbe autózunk a Strelasund feletti csendes kilátásért.",
         "ro": "Acest tur auto combină atracțiile principale din Stralsund cu cele mai bune panorame. Începeți cu o traversare a podului Rügen către Altefähr pentru a fotografia celebra siluetă a orașului. Apoi, parcați central în port și explorați la pas centrul vechi aflat în patrimoniul UNESCO și Ozeaneum. La final, conduceți către zona verde Devin pentru o vedere liniștită asupra strâmtorii Strelasund.",
-        "en": "This car tour combines the highlights of Stralsund with the best panoramic views. You start with a drive across the impressive Rügen Bridge to Altefähr to photograph the famous skyline. Then, park centrally at the harbor and explore the UNESCO World Heritage Old Town and the Ozeaneum on foot. Finally, drive to green Devin for a quiet view over the Strelasund."
+        "en": "This car tour combines the highlights of Stralsund with the best panoramic views. You start with a drive across the impressive Rügen Bridge to Altefähr to photograph the famous skyline. Then, park centrally at the harbor and explore the UNESCO World Heritage Old Town and the Ozeaneum on foot. Finally, drive to green Devin for a quiet view over the Strelasund.",
+        "tr": "Bu araba turu, Stralsund’ın öne çıkanlarını en iyi panoramik manzaralarla birleştirir. Etkileyici Rügen Köprüsü’nü geçerek Altefähr’a gidip ünlü silüeti fotoğraflamakla başlıyorsunuz. Ardından limanda merkezî bir yere park edip UNESCO Dünya Mirası Eski Şehir ve Ozeaneum’u yürüyerek keşfedin. Son olarak yeşil Devin’e giderek Strelasund üzerinde sakin bir manzara izleyin."
       },
       "gastro_picks": {
         "de": [
@@ -927,6 +985,11 @@
           "Use the parking garages 'Am Ozeaneum' or 'Am Markt'.",
           "The Rügen Bridge is toll-free.",
           "Parts of the Old Town are closed to transit traffic."
+        ],
+        "tr": [
+          "'Am Ozeaneum' veya 'Am Markt' otopark garajlarını kullanın.",
+          "Rügen Köprüsü ücretsizdir.",
+          "Eski Şehir’in bazı bölümleri geçiş trafiğine kapalıdır."
         ]
       }
     },
@@ -943,7 +1006,8 @@
             "de": "Hauptbahnhof & St. Marien",
             "hu": "Főpályaudvar és Szent Mária-templom",
             "ro": "Gara Centrală și Sf. Maria",
-            "en": "Main Station & St. Mary's"
+            "en": "Main Station & St. Mary's",
+            "tr": "Ana İstasyon & St. Mary"
           },
           "coords": [
             13.0881,
@@ -958,7 +1022,8 @@
             "de": "Startpunkt direkt am Bahnhof.",
             "hu": "Kiindulópont közvetlenül a vasútállomásnál.",
             "ro": "Punct de plecare chiar lângă gară.",
-            "en": "Starting point directly at the train station."
+            "en": "Starting point directly at the train station.",
+            "tr": "Doğrudan tren istasyonunda başlangıç noktası."
           }
         },
         {
@@ -966,7 +1031,8 @@
             "de": "Alter Markt (Bus-Hop)",
             "hu": "Régi Piac tér (buszos átszállás)",
             "ro": "Piața Veche (Bus-Hop)",
-            "en": "Old Market (Bus Hop)"
+            "en": "Old Market (Bus Hop)",
+            "tr": "Eski Pazar (Otobüs Hop)"
           },
           "coords": [
             13.0905,
@@ -981,7 +1047,8 @@
             "de": "Buslinie 1 oder 4 vom Bahnhof zum Olof-Palme-Platz.",
             "hu": "1-es vagy 4-es busz az állomástól az Olof-Palme-Platzig.",
             "ro": "Linia de autobuz 1 sau 4 de la gară la Olof-Palme-Platz.",
-            "en": "Bus line 1 or 4 from the station to Olof-Palme-Platz."
+            "en": "Bus line 1 or 4 from the station to Olof-Palme-Platz.",
+            "tr": "İstasyondan Olof-Palme-Platz’a otobüs hattı 1 veya 4."
           }
         },
         {
@@ -989,7 +1056,8 @@
             "de": "Mittagessen (Altstadt)",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch (Old Town)"
+            "en": "Lunch (Old Town)",
+            "tr": "Öğle Yemeği (Eski Şehir)"
           },
           "coords": [
             13.0915,
@@ -1004,7 +1072,8 @@
             "de": "Kurzer Fußweg vom Markt.",
             "hu": "Rövid séta a piactértől.",
             "ro": "Scurtă plimbare de la piață.",
-            "en": "Short walk from the market."
+            "en": "Short walk from the market.",
+            "tr": "Pazardan kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -1012,7 +1081,8 @@
             "de": "Ozeaneum",
             "hu": "Oceaneum",
             "ro": "Ozeaneum",
-            "en": "Ozeaneum"
+            "en": "Ozeaneum",
+            "tr": "Ozeaneum"
           },
           "coords": [
             13.0975,
@@ -1027,7 +1097,8 @@
             "de": "Zu Fuß durch die Altstadt zum Hafen.",
             "hu": "Gyalog az óvároson át a kikötőig.",
             "ro": "Pe jos prin centrul vechi până la port.",
-            "en": "Walk through the Old Town to the harbor."
+            "en": "Walk through the Old Town to the harbor.",
+            "tr": "Eski Şehir’den limana yürüyün."
           }
         },
         {
@@ -1035,7 +1106,8 @@
             "de": "Gorch Fock I",
             "hu": "Gorch Fock I",
             "ro": "Gorch Fock I",
-            "en": "Gorch Fock I"
+            "en": "Gorch Fock I",
+            "tr": "Gorch Fock I"
           },
           "coords": [
             13.0988,
@@ -1050,7 +1122,8 @@
             "de": "Historisches Schiff am Nordmole-Anleger.",
             "hu": "Történelmi hajó az északi mólónál.",
             "ro": "Navă istorică la debarcaderul digului de nord.",
-            "en": "Historic ship at the North Mole pier."
+            "en": "Historic ship at the North Mole pier.",
+            "tr": "Kuzey Dalgakıranı iskelesindeki tarihi gemi."
           }
         },
         {
@@ -1058,7 +1131,8 @@
             "de": "Hafeninsel (Bus zurück)",
             "hu": "Kikötő-sziget (busz vissza)",
             "ro": "Insula Portului (Bus înapoi)",
-            "en": "Harbor Island (Bus back)"
+            "en": "Harbor Island (Bus back)",
+            "tr": "Liman Adası (Dönüş Otobüsü)"
           },
           "coords": [
             13.0975,
@@ -1073,7 +1147,8 @@
             "de": "Buslinie 1 vom Hafen zurück zum Bahnhof.",
             "hu": "1-es busz a kikötőtől vissza a vasútállomáshoz.",
             "ro": "Linia de autobuz 1 de la port înapoi la gară.",
-            "en": "Bus line 1 from the harbor back to the station."
+            "en": "Bus line 1 from the harbor back to the station.",
+            "tr": "Liman’dan istasyona dönüş için 1 numaralı otobüs hattı."
           }
         }
       ],
@@ -1081,7 +1156,8 @@
         "de": "Bequem mit Bahn und Bus entdecken Sie die Highlights Stralsunds. Vom Bahnhof führt der Weg zur Marienkirche und per Bus direkt ins Zentrum zum Alten Markt. Nach einem Bummel durch die historischen Gassen und dem Besuch im Ozeaneum bringt Sie der Bus entspannt wieder zum Bahnhof zurück. Ideal für Reisende ohne Auto.",
         "hu": "Vonattal és busszal kényelmesen fedezhetjük fel Stralsund nevezetességeit. Az állomástól a Mária-templomhoz vezet az út, majd busszal egyenesen a központba, a Régi Piac térre. A történelmi utcák felfedezése és az Oceaneum meglátogatása után a busz pihentetően szállít vissza az állomásra. Ideális autó nélkül utazóknak.",
         "ro": "Descoperiți atracțiile din Stralsund confortabil cu trenul și autobuzul. De la gară, drumul duce la Biserica Sf. Maria, iar de acolo cu autobuzul direct în centru, la Piața Veche. După o plimbare pe străzile istorice și o vizită la Ozeaneum, autobuzul vă aduce relaxat înapoi la gară. Ideal pentru călătorii fără mașină.",
-        "en": "Discover the highlights of Stralsund comfortably by train and bus. From the station, the path leads to St. Mary's Church and then by bus directly to the center at the Old Market. After strolling through the historic alleys and visiting the Ozeaneum, the bus takes you back to the station relaxed. Ideal for travelers without a car."
+        "en": "Discover the highlights of Stralsund comfortably by train and bus. From the station, the path leads to St. Mary's Church and then by bus directly to the center at the Old Market. After strolling through the historic alleys and visiting the Ozeaneum, the bus takes you back to the station relaxed. Ideal for travelers without a car.",
+        "tr": "Tren ve otobüsle Stralsund’ın öne çıkanlarını rahatça keşfedin. İstasyondan rota St. Mary Kilisesi’ne ve ardından doğrudan Eski Pazar’daki merkeze otobüsle ulaşıyor. Tarihi sokaklarda dolaşıp Ozeaneum’u ziyaret ettikten sonra otobüs sizi rahatça istasyona geri götürür. Arabası olmayan gezginler için ideal."
       },
       "gastro_picks": {
         "de": [
@@ -1185,6 +1261,11 @@
           "Buy a day ticket for the city bus.",
           "Line 1 connects the main station, market, and harbor.",
           "Buses run every 15 minutes during the day."
+        ],
+        "tr": [
+          "Şehir otobüsü için günlük bilet alın.",
+          "1 numaralı hat ana istasyon, pazar ve limanı birbirine bağlıyor.",
+          "Gündüzleri otobüsler her 15 dakikada bir çalışır."
         ]
       }
     }

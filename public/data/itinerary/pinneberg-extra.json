@@ -21,7 +21,8 @@
             "de": "Historischer Bahnhof",
             "hu": "Történelmi vasútállomás",
             "ro": "Gara istorică",
-            "en": "Historical Railway Station"
+            "en": "Historical Railway Station",
+            "tr": "Tarihi Tren Garı"
           },
           "coords": [
             9.7984,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Backsteinarchitektur des ältesten Bahnhofs in Schleswig-Holstein.",
             "hu": "Csodálja meg Schleswig-Holstein legrégebbi vasútállomásának téglaépítészetét.",
             "ro": "Admirați arhitectura din cărămidă a celei mai vechi gări din Schleswig-Holstein.",
-            "en": "Admire the brick architecture of the oldest railway station in Schleswig-Holstein."
+            "en": "Admire the brick architecture of the oldest railway station in Schleswig-Holstein.",
+            "tr": "Schleswig-Holstein'ın en eski tren garının tuğla mimarisini hayranlıkla izleyin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Rathaus Pinneberg",
             "hu": "Városháza",
             "ro": "Primăria Pinneberg",
-            "en": "Pinneberg Town Hall"
+            "en": "Pinneberg Town Hall",
+            "tr": "Pinneberg Belediye Binası"
           },
           "coords": [
             9.7972,
@@ -59,7 +62,8 @@
             "de": "Ein moderner Kontrast im Herzen der Stadt.",
             "hu": "Modern kontraszt a város szívében.",
             "ro": "Un contrast modern în inima orașului.",
-            "en": "A modern contrast in the heart of the city."
+            "en": "A modern contrast in the heart of the city.",
+            "tr": "Şehrin kalbinde modern bir kontrast."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Christuskirche",
             "hu": "Krisztus-templom",
             "ro": "Biserica lui Hristos",
-            "en": "Christ Church"
+            "en": "Christ Church",
+            "tr": "Kilise: Christ Church"
           },
           "coords": [
             9.7958,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf die expressionistischen Backstein-Details.",
             "hu": "Figyelje meg az expresszionista tégla-részleteket.",
             "ro": "Observați detaliile expresioniste din cărămidă.",
-            "en": "Look for the expressionist brick details."
+            "en": "Look for the expressionist brick details.",
+            "tr": "Ekspresyonist tuğla ayrıntılarını arayın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Die Drostei",
             "hu": "Drostei palota",
             "ro": "Castelul Drostei",
-            "en": "The Drostei"
+            "en": "The Drostei",
+            "tr": "Drostei"
           },
           "coords": [
             9.7947,
@@ -105,7 +112,8 @@
             "de": "Das bedeutendste Barockgebäude der Stadt, heute ein Kulturzentrum.",
             "hu": "A város legjelentősebb barokk épülete, ma kulturális központ.",
             "ro": "Cea mai importantă clădire barocă din oraș, astăzi centru cultural.",
-            "en": "The city's most important Baroque building, now a cultural center."
+            "en": "The city's most important Baroque building, now a cultural center.",
+            "tr": "Şehrin en önemli Barok binası, şimdi bir kültür merkezi."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Rosengarten",
             "hu": "Rózsakert",
             "ro": "Grădina de trandafiri",
-            "en": "Rose Garden"
+            "en": "Rose Garden",
+            "tr": "Gül Bahçesi"
           },
           "coords": [
             9.7952,
@@ -128,7 +137,8 @@
             "de": "Besonders im Frühsommer ein Dufterlebnis.",
             "hu": "Kora nyáron igazi illatorgia várja itt.",
             "ro": "O experiență olfactivă deosebită, mai ales la începutul verii.",
-            "en": "A fragrant experience, especially in early summer."
+            "en": "A fragrant experience, especially in early summer.",
+            "tr": "Özellikle yaz başında kokulu bir deneyim."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Stadtmuseum Pinneberg",
             "hu": "Városi Múzeum",
             "ro": "Muzeul orașului",
-            "en": "Pinneberg City Museum"
+            "en": "Pinneberg City Museum",
+            "tr": "Pinneberg Kent Müzesi"
           },
           "coords": [
             9.7955,
@@ -151,7 +162,8 @@
             "de": "Erfahren Sie alles über die lokale Industriegeschichte.",
             "hu": "Ismerje meg a helyi ipartörténet minden részletét.",
             "ro": "Aflați totul despre istoria industrială locală.",
-            "en": "Learn everything about the local industrial history."
+            "en": "Learn everything about the local industrial history.",
+            "tr": "Yerel sanayi tarihi hakkında her şeyi öğrenin."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Spaziergang durch Pinneberg beginnt am charmanten historischen Bahnhof. Von dort aus führt der Weg durch das moderne Stadtzentrum zur expressionistischen Christuskirche. Das Highlight ist die prachtvolle Drostei, ein Barockjuwel im Park. Entspannen Sie danach im Rosengarten, bevor Sie im Stadtmuseum tief in die Geschichte der Region eintauchen.",
         "hu": "Pinnebergi sétája a bájos történelmi vasútállomásnál kezdődik. Innen az út a modern városközponton keresztül vezet az expresszionista Krisztus-templomig. A nap fénypontja a pompás Drostei, egy barokk ékszerdoboz a park közepén. Pihenjen meg a közeli Rózsakertben, majd merüljön el a régió történetében a Városi Múzeumban.",
         "ro": "Plimbarea prin Pinneberg începe la gara istorică plină de farmec. De acolo, drumul duce prin centrul modern al orașului către Biserica Hristos, construită în stil expresionist. Punctul culminant este splendida Drostei, o bijuterie barocă situată în parc. Relaxați-vă apoi în Grădina de Trandafiri, înainte de a explora istoria locală la Muzeul Orașului.",
-        "en": "Your walk through Pinneberg begins at the charming historical railway station. From there, the route leads through the modern city center to the expressionist Christ Church. The highlight is the magnificent Drostei, a Baroque jewel set in a park. Relax in the Rose Garden afterwards before diving deep into regional history at the City Museum."
+        "en": "Your walk through Pinneberg begins at the charming historical railway station. From there, the route leads through the modern city center to the expressionist Christ Church. The highlight is the magnificent Drostei, a Baroque jewel set in a park. Relax in the Rose Garden afterwards before diving deep into regional history at the City Museum.",
+        "tr": "Pinneberg'deki yürüyüşünüz şirin tarihi tren garında başlar. Oradan rota modern şehir merkezinden geçer ve ekspresyonist Christ Church'e ulaşır. Zirve noktası, park içinde yer alan görkemli Drostei, bir Barok şaheserdir. Ardından Gül Bahçesi'nde dinlenin ve bölgesel tarihe derinlemesine dalmak için Kent Müzesi'ni ziyaret edin."
       },
       "gastro_picks": {
         "de": [
@@ -263,6 +276,11 @@
           "Pinneberg is the city of tree nurseries; look for green oases everywhere.",
           "The Drostei often hosts interesting art exhibitions.",
           "The railway station is an ideal starting point for trips to Hamburg."
+        ],
+        "tr": [
+          "Pinneberg fidanlıklar şehridir; her yerde yeşil vahayı arayın.",
+          "Drostei sık sık ilginç sanat sergilerine ev sahipliği yapar.",
+          "Tren garı Hamburg'a yapılacak geziler için ideal bir başlangıç noktasıdır."
         ]
       }
     },
@@ -279,7 +297,8 @@
             "de": "Historischer Bahnhof",
             "hu": "Történelmi vasútállomás",
             "ro": "Gara istorică",
-            "en": "Historical Railway Station"
+            "en": "Historical Railway Station",
+            "tr": "Tarihi Tren Garı"
           },
           "coords": [
             9.7984,
@@ -294,7 +313,8 @@
             "de": "Startpunkt mit guter Radanbindung.",
             "hu": "Kiváló kerékpáros összeköttetésű kiindulópont.",
             "ro": "Punct de plecare cu conexiuni bune pentru biciclete.",
-            "en": "Starting point with good bike connections."
+            "en": "Starting point with good bike connections.",
+            "tr": "İyi bisiklet bağlantıları olan başlangıç noktası."
           }
         },
         {
@@ -302,7 +322,8 @@
             "de": "Fahltskamp",
             "hu": "Fahltskamp park",
             "ro": "Parcul Fahltskamp",
-            "en": "Fahltskamp Park"
+            "en": "Fahltskamp Park",
+            "tr": "Fahltskamp Parkı"
           },
           "coords": [
             9.8052,
@@ -317,7 +338,8 @@
             "de": "Schöne Waldwege zum Radfahren.",
             "hu": "Gyönyörű erdei utak kerékpározáshoz.",
             "ro": "Trasee forestiere frumoase pentru ciclism.",
-            "en": "Beautiful forest paths for cycling."
+            "en": "Beautiful forest paths for cycling.",
+            "tr": "Bisiklet için güzel orman yolları."
           }
         },
         {
@@ -325,7 +347,8 @@
             "de": "Die Drostei",
             "hu": "Drostei palota",
             "ro": "Castelul Drostei",
-            "en": "The Drostei"
+            "en": "The Drostei",
+            "tr": "Drostei"
           },
           "coords": [
             9.7947,
@@ -340,7 +363,8 @@
             "de": "Fahrradabstellplätze direkt am Parkeingang.",
             "hu": "Kerékpártárolók közvetlenül a park bejáratánál.",
             "ro": "Parcare pentru biciclete chiar la intrarea în parc.",
-            "en": "Bicycle parking right at the park entrance."
+            "en": "Bicycle parking right at the park entrance.",
+            "tr": "Park girişinde bisiklet park yeri."
           }
         },
         {
@@ -348,7 +372,8 @@
             "de": "Rosengarten",
             "hu": "Rózsakert",
             "ro": "Grădina de trandafiri",
-            "en": "Rose Garden"
+            "en": "Rose Garden",
+            "tr": "Gül Bahçesi"
           },
           "coords": [
             9.7952,
@@ -363,7 +388,8 @@
             "de": "Kurze Pause im Grünen.",
             "hu": "Rövid pihenő a zöldben.",
             "ro": "O scurtă pauză în natură.",
-            "en": "Short break in the greenery."
+            "en": "Short break in the greenery.",
+            "tr": "Yeşillikte kısa bir mola."
           }
         },
         {
@@ -371,7 +397,8 @@
             "de": "Deutsches Baumschulmuseum",
             "hu": "Német Faiskolai Múzeum",
             "ro": "Muzeul German al Pepinierelor",
-            "en": "German Tree Nursery Museum"
+            "en": "German Tree Nursery Museum",
+            "tr": "Alman Fidanlık Müzesi"
           },
           "coords": [
             9.8322,
@@ -386,7 +413,8 @@
             "de": "Einzigartiges Museum zur Geschichte der Pflanzenzucht.",
             "hu": "Egyedülálló múzeum a növénynemesítés történetéről.",
             "ro": "Muzeu unic dedicat istoriei cultivării plantelor.",
-            "en": "Unique museum about the history of plant breeding."
+            "en": "Unique museum about the history of plant breeding.",
+            "tr": "Bitki ıslahı tarihine dair benzersiz müze."
           }
         },
         {
@@ -394,7 +422,8 @@
             "de": "Rathaus Pinneberg",
             "hu": "Városháza",
             "ro": "Primăria Pinneberg",
-            "en": "Pinneberg Town Hall"
+            "en": "Pinneberg Town Hall",
+            "tr": "Pinneberg Belediye Binası"
           },
           "coords": [
             9.7972,
@@ -409,7 +438,8 @@
             "de": "Abschluss im belebten Zentrum.",
             "hu": "Zárja a napot a nyüzsgő központban.",
             "ro": "Final de zi în centrul animat.",
-            "en": "Wrap up your day in the lively center."
+            "en": "Wrap up your day in the lively center.",
+            "tr": "Gününüzü canlı merkezde sonlandırın."
           }
         }
       ],
@@ -417,7 +447,8 @@
         "de": "Erkunden Sie Pinneberg und seine Umgebung mit dem Fahrrad. Nach dem Start am Bahnhof radeln Sie durch den Fahltskamp-Wald zur barocken Drostei. Ein längerer Abschnitt führt Sie dann zum Baumschulmuseum in Thesdorf, wo Sie die grüne Seele der Region kennenlernen. Die Tour endet wieder im Stadtzentrum am Rathaus.",
         "hu": "Fedezze fel Pinneberget és környékét kerékpárral. A vasútállomástól indulva a Fahltskamp erdőn át tekerhet a barokk Drostei palotáig. Egy hosszabb szakasz után eljut a thesdorfi Faiskolai Múzeumhoz, ahol megismerheti a régió 'zöld lelkét'. A túra a városközpontban, a Városházánál ér véget.",
         "ro": "Explorați Pinneberg și împrejurimile sale cu bicicleta. După startul de la gară, pedalați prin pădurea Fahltskamp către castelul baroc Drostei. O secțiune mai lungă vă va duce apoi la Muzeul Pepinierelor din Thesdorf, unde veți descoperi sufletul verde al regiunii. Turul se încheie în centrul orașului, la Primărie.",
-        "en": "Explore Pinneberg and its surroundings by bike. Starting from the station, cycle through Fahltskamp forest to the Baroque Drostei. A longer stretch then leads you to the Tree Nursery Museum in Thesdorf, where you will learn about the green soul of the region. The tour ends back in the city center at the Town Hall."
+        "en": "Explore Pinneberg and its surroundings by bike. Starting from the station, cycle through Fahltskamp forest to the Baroque Drostei. A longer stretch then leads you to the Tree Nursery Museum in Thesdorf, where you will learn about the green soul of the region. The tour ends back in the city center at the Town Hall.",
+        "tr": "Pinneberg'i ve çevresini bisikletle keşfedin. Gar'dan başlayarak Fahltskamp ormanından Barok Drostei'ye pedallayın. Daha uzun bir etap sizi Thesdorf'taki Fidanlık Müzesi'ne götürür; burada bölgenin yeşil ruhunu öğreneceksiniz. Tur, Belediye Binası'nda şehir merkezine geri dönerek sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -521,6 +552,11 @@
           "The paths in Fahltskamp are well-maintained.",
           "Allow enough time for the Tree Nursery Museum.",
           "Use the bike paths along the Pinnau river."
+        ],
+        "tr": [
+          "Fahltskamp'taki yollar iyi durumda.",
+          "Fidanlık Müzesi için yeterli zaman ayırın.",
+          "Pinnau nehri boyunca bisiklet yollarını kullanın."
         ]
       }
     },
@@ -537,7 +573,8 @@
             "de": "Historischer Bahnhof",
             "hu": "Történelmi vasútállomás",
             "ro": "Gara istorică",
-            "en": "Historical Railway Station"
+            "en": "Historical Railway Station",
+            "tr": "Tarihi Tren Garı"
           },
           "coords": [
             9.7984,
@@ -552,7 +589,8 @@
             "de": "Parken Sie hier (Cluster 1) für die ersten Stationen.",
             "hu": "Parkoljon itt (1. klaszter) az első megállókhoz.",
             "ro": "Parcați aici (Clusterul 1) pentru primele stații.",
-            "en": "Park here (Cluster 1) for the first few stops."
+            "en": "Park here (Cluster 1) for the first few stops.",
+            "tr": "İlk birkaç durak için buraya park edin (Küme 1)."
           }
         },
         {
@@ -560,7 +598,8 @@
             "de": "Rathaus Pinneberg",
             "hu": "Városháza",
             "ro": "Primăria Pinneberg",
-            "en": "Pinneberg Town Hall"
+            "en": "Pinneberg Town Hall",
+            "tr": "Pinneberg Belediye Binası"
           },
           "coords": [
             9.7972,
@@ -575,7 +614,8 @@
             "de": "Zu Fuß vom Bahnhof erreichbar.",
             "hu": "Gyalogosan elérhető az állomástól.",
             "ro": "Accesibil pe jos de la gară.",
-            "en": "Accessible on foot from the station."
+            "en": "Accessible on foot from the station.",
+            "tr": "Gardan yaya olarak ulaşılabilir."
           }
         },
         {
@@ -583,7 +623,8 @@
             "de": "Die Drostei",
             "hu": "Drostei palota",
             "ro": "Castelul Drostei",
-            "en": "The Drostei"
+            "en": "The Drostei",
+            "tr": "Drostei"
           },
           "coords": [
             9.7947,
@@ -598,7 +639,8 @@
             "de": "Zentrales Highlight im Stadtcluster.",
             "hu": "Központi látnivaló a városi klaszterben.",
             "ro": "Punctul central de atracție în clusterul orașului.",
-            "en": "Central highlight in the city cluster."
+            "en": "Central highlight in the city cluster.",
+            "tr": "Şehir kümesindeki merkezi vurgu."
           }
         },
         {
@@ -606,7 +648,8 @@
             "de": "Deutsches Baumschulmuseum",
             "hu": "Német Faiskolai Múzeum",
             "ro": "Muzeul German al Pepinierelor",
-            "en": "German Tree Nursery Museum"
+            "en": "German Tree Nursery Museum",
+            "tr": "Alman Fidanlık Müzesi"
           },
           "coords": [
             9.8322,
@@ -621,7 +664,8 @@
             "de": "Cluster 2: Bequemer Parkplatz direkt vor Ort.",
             "hu": "2. klaszter: Kényelmes parkolás közvetlenül a helyszínen.",
             "ro": "Clusterul 2: Parcare convenabilă chiar la fața locului.",
-            "en": "Cluster 2: Convenient parking right on site."
+            "en": "Cluster 2: Convenient parking right on site.",
+            "tr": "Küme 2: Yerinde uygun park imkânı."
           }
         },
         {
@@ -629,7 +673,8 @@
             "de": "Fahltskamp",
             "hu": "Fahltskamp park",
             "ro": "Parcul Fahltskamp",
-            "en": "Fahltskamp Park"
+            "en": "Fahltskamp Park",
+            "tr": "Fahltskamp Parkı"
           },
           "coords": [
             9.8052,
@@ -644,7 +689,8 @@
             "de": "Cluster 3: Waldspaziergang zum Abschluss.",
             "hu": "3. klaszter: Erdei séta a nap zárásaként.",
             "ro": "Clusterul 3: O plimbare prin pădure pentru a încheia ziua.",
-            "en": "Cluster 3: Forest walk to conclude the day."
+            "en": "Cluster 3: Forest walk to conclude the day.",
+            "tr": "Küme 3: Günü bitirmek için orman yürüyüşü."
           }
         }
       ],
@@ -652,7 +698,8 @@
         "de": "Nutzen Sie das Auto, um die verschiedenen Facetten Pinnebergs bequem zu erkunden. Beginnen Sie im Stadtzentrum (Cluster 1) mit dem Bahnhof und der Drostei. Fahren Sie dann zum spezialisierten Baumschulmuseum (Cluster 2), das etwas außerhalb liegt. Den Abschluss bildet der Fahltskamp-Park (Cluster 3), wo Sie die Natur genießen können.",
         "hu": "Használja az autót Pinneberg különböző arcainak kényelmes felfedezéséhez. Kezdjen a városközpontban (1. klaszter) az állomással és a Drostei palotával. Hajtson tovább a különleges Faiskolai Múzeumhoz (2. klaszter), amely kissé kijebb található. A napot a Fahltskamp parkban (3. klaszter) zárhatja, élvezve a természetet.",
         "ro": "Folosiți mașina pentru a explora confortabil diferitele fațete ale orașului Pinneberg. Începeți în centrul orașului (Clusterul 1) cu gara și Drostei. Mergeți apoi la Muzeul Pepinierelor (Clusterul 2), situat puțin în afara centrului. Încheiați ziua în Parcul Fahltskamp (Clusterul 3), unde vă puteți bucura de natură.",
-        "en": "Use your car to comfortably explore the different facets of Pinneberg. Start in the city center (Cluster 1) with the station and the Drostei. Then drive to the specialized Tree Nursery Museum (Cluster 2), located slightly further out. Conclude your day at Fahltskamp Park (Cluster 3), where you can enjoy nature."
+        "en": "Use your car to comfortably explore the different facets of Pinneberg. Start in the city center (Cluster 1) with the station and the Drostei. Then drive to the specialized Tree Nursery Museum (Cluster 2), located slightly further out. Conclude your day at Fahltskamp Park (Cluster 3), where you can enjoy nature.",
+        "tr": "Farklı Pinneberg yüzlerini konforlu şekilde keşfetmek için arabanızı kullanın. İlk olarak şehir merkezinde (Küme 1) gar ve Drostei ile başlayın. Ardından biraz daha dışarıda yer alan uzmanlaşmış Fidanlık Müzesi'ne (Küme 2) sürün. Günü Fahltskamp Parkı'nda (Küme 3) doğanın tadını çıkararak sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -756,6 +803,11 @@
           "Watch out for parking zones in the city center.",
           "The drive to Thesdorf only takes a few minutes.",
           "Parking at the station is often paid."
+        ],
+        "tr": [
+          "Şehir merkezindeki park eden alanlara dikkat edin.",
+          "Thesdorf'a sürüş sadece birkaç dakika sürer.",
+          "Gar parkı genellikle ücretlidir."
         ]
       }
     },
@@ -772,7 +824,8 @@
             "de": "Historischer Bahnhof",
             "hu": "Történelmi vasútállomás",
             "ro": "Gara istorică",
-            "en": "Historical Railway Station"
+            "en": "Historical Railway Station",
+            "tr": "Tarihi Tren Garı"
           },
           "coords": [
             9.7984,
@@ -787,7 +840,8 @@
             "de": "Zentraler Knotenpunkt für alle Verbindungen.",
             "hu": "Központi csomópont minden csatlakozáshoz.",
             "ro": "Nod central pentru toate conexiunile.",
-            "en": "Central hub for all connections."
+            "en": "Central hub for all connections.",
+            "tr": "Tüm bağlantılar için merkezi nokta."
           }
         },
         {
@@ -795,7 +849,8 @@
             "de": "Die Drostei",
             "hu": "Drostei palota",
             "ro": "Castelul Drostei",
-            "en": "The Drostei"
+            "en": "The Drostei",
+            "tr": "Drostei"
           },
           "coords": [
             9.7947,
@@ -810,7 +865,8 @@
             "de": "Vom Bahnhof aus in 10 Min. zu Fuß oder per Bus erreichbar.",
             "hu": "Az állomástól 10 perc gyalog vagy busszal.",
             "ro": "La 10 minute de mers pe jos sau cu autobuzul de la gară.",
-            "en": "10 min walk or bus ride from the station."
+            "en": "10 min walk or bus ride from the station.",
+            "tr": "Gardan 10 dakika yürüme veya otobüsle."
           }
         },
         {
@@ -818,7 +874,8 @@
             "de": "Rosengarten",
             "hu": "Rózsakert",
             "ro": "Grădina de trandafiri",
-            "en": "Rose Garden"
+            "en": "Rose Garden",
+            "tr": "Gül Bahçesi"
           },
           "coords": [
             9.7952,
@@ -833,7 +890,8 @@
             "de": "Direkt neben der Drostei (zu Fuß).",
             "hu": "Közvetlenül a Drostei mellett (gyalog).",
             "ro": "Chiar lângă Drostei (pe jos).",
-            "en": "Right next to the Drostei (on foot)."
+            "en": "Right next to the Drostei (on foot).",
+            "tr": "Drostei'nin hemen yanında (yaya)."
           }
         },
         {
@@ -841,7 +899,8 @@
             "de": "Deutsches Baumschulmuseum",
             "hu": "Német Faiskolai Múzeum",
             "ro": "Muzeul German al Pepinierelor",
-            "en": "German Tree Nursery Museum"
+            "en": "German Tree Nursery Museum",
+            "tr": "Alman Fidanlık Müzesi"
           },
           "coords": [
             9.8322,
@@ -856,7 +915,8 @@
             "de": "Mit der S-Bahn bis Thesdorf, dann kurzer Fußweg.",
             "hu": "S-Bahn-nal Thesdorfig, majd rövid séta.",
             "ro": "Cu S-Bahn până la Thesdorf, apoi o scurtă plimbare.",
-            "en": "Take the S-Bahn to Thesdorf, then a short walk."
+            "en": "Take the S-Bahn to Thesdorf, then a short walk.",
+            "tr": "Thesdorf'a S-Bahn ile gidin, ardından kısa bir yürüyüş."
           }
         },
         {
@@ -864,7 +924,8 @@
             "de": "Stadtmuseum Pinneberg",
             "hu": "Városi Múzeum",
             "ro": "Muzeul orașului",
-            "en": "Pinneberg City Museum"
+            "en": "Pinneberg City Museum",
+            "tr": "Pinneberg Kent Müzesi"
           },
           "coords": [
             9.7955,
@@ -879,7 +940,8 @@
             "de": "Zurück ins Zentrum per S-Bahn oder Bus.",
             "hu": "Vissza a központba S-Bahn-nal vagy busszal.",
             "ro": "Înapoi în centru cu S-Bahn sau autobuzul.",
-            "en": "Back to the center by S-Bahn or bus."
+            "en": "Back to the center by S-Bahn or bus.",
+            "tr": "Şehir merkezine S-Bahn veya otobüsle geri dönün."
           }
         }
       ],
@@ -887,7 +949,8 @@
         "de": "Erleben Sie Pinneberg ganz entspannt mit S-Bahn und Bus. Vom historischen Bahnhof aus erkunden Sie zunächst das kulturelle Herz mit der Drostei und dem Rosengarten. Ein kurzer Trip mit der S3 bringt Sie zum Baumschulmuseum in Thesdorf, bevor Sie für den Museumsbesuch im Stadtzentrum zurückkehren. Alles ist bestens vernetzt.",
         "hu": "Élje át Pinneberget teljesen ellazulva, az S-Bahn és buszok segítségével. A történelmi vasútállomástól először a kulturális szívet fedezheti fel a Drostei palotával és a Rózsakerttel. Egy rövid utazás az S3-as vonalon elviszi a thesdorfi Faiskolai Múzeumhoz, mielőtt visszatérne a városközpontba egy múzeumlátogatásra. Minden kiválóan összekapcsolt.",
         "ro": "Experimentați Pinneberg într-un mod relaxat, folosind S-Bahn și autobuzul. De la gara istorică, explorați mai întâi inima culturală cu Drostei și Grădina de Trandafiri. O scurtă călătorie cu S3 vă duce la Muzeul Pepinierelor din Thesdorf, înainte de a reveni în centrul orașului pentru vizitarea muzeului. Totul este perfect conectat.",
-        "en": "Experience Pinneberg in a relaxed way using S-Bahn and bus. From the historical station, first explore the cultural heart with the Drostei and the Rose Garden. A short trip on the S3 line takes you to the Tree Nursery Museum in Thesdorf, before returning to the city center for a museum visit. Everything is perfectly connected."
+        "en": "Experience Pinneberg in a relaxed way using S-Bahn and bus. From the historical station, first explore the cultural heart with the Drostei and the Rose Garden. A short trip on the S3 line takes you to the Tree Nursery Museum in Thesdorf, before returning to the city center for a museum visit. Everything is perfectly connected.",
+        "tr": "Pinneberg'i S-Bahn ve otobüsle rahat bir şekilde deneyimleyin. Tarihi gar'dan başlayarak önce kültürel merkezleri Drostei ve Gül Bahçesi'ni keşfedin. S3 hattıyla kısa bir yolculuk sizi Thesdorf'taki Fidanlık Müzesi'ne götürür, ardından şehir merkezine geri dönüp müze ziyareti yapın. Her şey mükemmel şekilde bağlı."
       },
       "gastro_picks": {
         "de": [
@@ -991,6 +1054,11 @@
           "Use the S3 line for the trip to Thesdorf.",
           "An HVV day ticket is valid for both Pinneberg and Hamburg.",
           "Buses run regularly from the station."
+        ],
+        "tr": [
+          "Thesdorf yolculuğu için S3 hattını kullanın.",
+          "HVV günlük bileti hem Pinneberg hem de Hamburg için geçerlidir.",
+          "Gardan düzenli otobüs seferleri kalkar."
         ]
       }
     }

@@ -3,55 +3,64 @@
     "de": "Olympischer Platz 3, 14053 Berlin",
     "hu": "Olympischer Platz 3, 14053 Berlin",
     "ro": "Olympischer Platz 3, 14053 Berlin",
-    "en": "Olympischer Platz 3, 14053 Berlin"
+    "en": "Olympischer Platz 3, 14053 Berlin",
+    "tr": "Olympischer Platz 3, 14053 Berlin"
   },
   "openingHours": {
     "de": "Mo-Su 09:00-19:00 (Saisonabhängig, an Spieltagen geschlossen)",
     "hu": "H-V 09:00-19:00 (szezonfüggő, meccsnapokon zárva)",
     "ro": "Lu-Du 09:00-19:00 (în funcție de sezon, închis în zilele de meci)",
-    "en": "Mon-Sun 09:00-19:00 (seasonal, closed on match days)"
+    "en": "Mon-Sun 09:00-19:00 (seasonal, closed on match days)",
+    "tr": "Pazartesi-Pazar 09:00-19:00 (mevsimsel, maç günleri kapalı)"
   },
   "entranceFee": {
     "de": "11,00 € Erwachsene, 8,00 € ermäßigt",
     "hu": "11,00 € felnőtt, 8,00 € kedvezményes",
     "ro": "11,00 € adulți, 8,00 € redus",
-    "en": "€ 11.00 adults, € 8.00 reduced"
+    "en": "€ 11.00 adults, € 8.00 reduced",
+    "tr": "€ 11,00 yetişkin, € 8,00 indirimli"
   },
   "website": "https://olympiastadion.berlin",
   "publicTransport": {
     "de": "U-Bahn U2 oder S-Bahn S3/S9 bis Haltestelle Olympiastadion",
     "hu": "U2 metró vagy S3/S9 S-Bahn az Olympiastadion megállóig",
     "ro": "Metrou U2 sau S-Bahn S3/S9 până la stația Olympiastadion",
-    "en": "Subway U2 or S-Bahn S3/S9 to Olympiastadion stop"
+    "en": "Subway U2 or S-Bahn S3/S9 to Olympiastadion stop",
+    "tr": "U-Bahn U2 veya S-Bahn S3/S9 ile Olympiastadion durağı"
   },
   "parking": {
     "de": "Parkplatz Olympischer Platz direkt vor dem Stadion (außer bei Veranstaltungen kostenlos).",
     "hu": "Olympischer Platz parkoló közvetlenül a stadion előtt (rendezvények kivételével ingyenes).",
     "ro": "Parcarea Olympischer Platz chiar în fața stadionului (gratuită, cu excepția evenimentelor).",
-    "en": "Olympischer Platz parking directly in front of the stadium (free except during events)."
+    "en": "Olympischer Platz parking directly in front of the stadium (free except during events).",
+    "tr": "Stadyumun hemen önünde Olympischer Platz otoparkı (etkinlikler sırasında hariç ücretsiz)."
   },
   "accessibility": {
     "de": "Weitgehend barrierefrei; spezielle Touren für Rollstuhlfahrer werden angeboten.",
     "hu": "Nagyrészt akadálymentes; speciális túrák indulnak kerekesszékeseknek.",
     "ro": "În mare parte accesibil; sunt oferite tururi speciale pentru persoanele în scaun cu rotile.",
-    "en": "Largely accessible; special tours for wheelchair users are available."
+    "en": "Largely accessible; special tours for wheelchair users are available.",
+    "tr": "Büyük ölçüde erişilebilir; tekerlekli sandalye kullanıcıları için özel turlar mevcut."
   },
   "photoRules": {
     "de": "Private Fotos erlaubt; Stative und professionelles Equipment nur mit Genehmigung.",
     "hu": "Magáncélú fotók megengedettek; állvány és profi felszerelés csak engedéllyel.",
     "ro": "Fotografii în scop privat permise; trepiede și echipament profesional doar cu autorizație.",
-    "en": "Private photos allowed; tripods and professional equipment require permission."
+    "en": "Private photos allowed; tripods and professional equipment require permission.",
+    "tr": "Özel fotoğraflara izin verilir; tripod ve profesyonel ekipman izne tabidir."
   },
   "bestTimeToVisit": {
     "de": "An nicht-spieltagen vormittags für Ruhe und freien Zugang zu den Tribünen.",
     "hu": "Nem meccsnapokon, délelőtt a nyugalom és a lelátókhoz való szabad hozzáférés miatt.",
     "ro": "În zilele fără meci, dimineața, pentru liniște și acces liber la tribune.",
-    "en": "On non-match days in the morning for quiet and free access to the stands."
+    "en": "On non-match days in the morning for quiet and free access to the stands.",
+    "tr": "Maç olmayan sabah günleri, tribünlere sessiz ve ücretsiz erişim için."
   },
   "audioGuide": {
     "de": "Ja (DE, EN, FR, ES, IT)",
     "hu": "Igen (DE, EN, FR, ES, IT)",
     "ro": "Da (DE, EN, FR, ES, IT)",
-    "en": "Yes (DE, EN, FR, ES, IT)"
+    "en": "Yes (DE, EN, FR, ES, IT)",
+    "tr": "Evet (DE, EN, FR, ES, IT)"
   }
 }

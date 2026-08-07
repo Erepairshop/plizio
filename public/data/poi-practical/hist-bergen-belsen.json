@@ -3,55 +3,64 @@
     "de": "Anne-Frank-Platz, 29303 Lohheide",
     "hu": "Anne-Frank-Platz, 29303 Lohheide",
     "ro": "Anne-Frank-Platz, 29303 Lohheide",
-    "en": "Anne-Frank-Platz, 29303 Lohheide"
+    "en": "Anne-Frank-Platz, 29303 Lohheide",
+    "tr": "Anne-Frank-Platz, 29303 Lohheide"
   },
   "openingHours": {
     "de": "Täglich 10:00-18:00 (Winter bis 17:00 Uhr)",
     "hu": "Naponta 10:00–18:00 (télen 17:00-ig)",
     "ro": "Zilnic 10:00-18:00 (iarna până la ora 17:00)",
-    "en": "Daily 10:00-18:00 (until 5:00 PM in winter)"
+    "en": "Daily 10:00-18:00 (until 5:00 PM in winter)",
+    "tr": "Her gün 10:00-18:00 (kışın 17:00'ye kadar)"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://bergen-belsen.stiftung-ng.de",
   "publicTransport": {
     "de": "Bus 600 ab Bahnhof Celle bis 'Gedenkstätte'",
     "hu": "600-as busz Celle vasútállomástól az emlékhelyig (Gedenkstätte)",
     "ro": "Autobuzul 600 de la gara Celle până la „Gedenkstätte”",
-    "en": "Bus 600 from Celle station to 'Gedenkstätte'"
+    "en": "Bus 600 from Celle station to 'Gedenkstätte'",
+    "tr": "Celle istasyonundan 600 numaralı otobüs ile 'Gedenkstätte'"
   },
   "parking": {
     "de": "Kostenloser Besucherparkplatz vor Ort",
     "hu": "Ingyenes helyszíni parkoló látogatóknak",
     "ro": "Parcare gratuită pentru vizitatori la fața locului",
-    "en": "Free visitor parking on site"
+    "en": "Free visitor parking on site",
+    "tr": "Tesis bünyesinde ücretsiz ziyaretçi otoparkı"
   },
   "accessibility": {
     "de": "Gelände und Dokumentationszentrum voll barrierefrei",
     "hu": "A terület és a dokumentációs központ teljes mértékben akadálymentes",
     "ro": "Terenul și centrul de documentare sunt complet accesibile",
-    "en": "Grounds and documentation center fully accessible"
+    "en": "Grounds and documentation center fully accessible",
+    "tr": "Alanlar ve dokümantasyon merkezi tamamen erişilebilir"
   },
   "photoRules": {
     "de": "Erlaubt, sofern Pietät gewahrt bleibt; Dokumentationszentrum eingeschränkt",
     "hu": "Megengedett a kegyelet betartásával; a dokumentációs központban korlátozott",
     "ro": "Permis cu respectarea pioșeniei; limitat în centrul de documentare",
-    "en": "Allowed provided respect is maintained; restricted in the documentation center"
+    "en": "Allowed provided respect is maintained; restricted in the documentation center",
+    "tr": "Saygı gösterildiği sürece izinli; dokümantasyon merkezinde kısıtlı"
   },
   "bestTimeToVisit": {
     "de": "Vormittags, um ausreichend Zeit für das weitläufige Gelände zu haben",
     "hu": "Délelőtt, hogy elegendő idő jusson a kiterjedt terület bejárására",
     "ro": "Dimineața, pentru a avea suficient timp pentru explorarea întregului domeniu",
-    "en": "In the morning to have enough time for the extensive grounds"
+    "en": "In the morning to have enough time for the extensive grounds",
+    "tr": "Geniş alan için yeterli zaman olması adına sabah"
   },
   "audioGuide": {
     "de": "Verfügbar im Dokumentationszentrum",
     "hu": "Elérhető a dokumentációs központban",
     "ro": "Disponibil în centrul de documentare",
-    "en": "Available in the documentation center"
+    "en": "Available in the documentation center",
+    "tr": "Dokümantasyon merkezinde mevcut"
   }
 }

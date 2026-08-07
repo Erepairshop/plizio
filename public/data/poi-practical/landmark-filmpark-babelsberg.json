@@ -3,55 +3,64 @@
     "de": "Großbeerenstraße 200, 14482 Potsdam",
     "hu": "Großbeerenstraße 200, 14482 Potsdam",
     "ro": "Großbeerenstraße 200, 14482 Potsdam",
-    "en": "Großbeerenstraße 200, 14482 Potsdam"
+    "en": "Großbeerenstraße 200, 14482 Potsdam",
+    "tr": "Großbeerenstraße 200, 14482 Potsdam"
   },
   "openingHours": {
     "de": "Saisonal Apr-Okt 10:00-18:00 (Montags oft Ruhetag)",
     "hu": "Szezonális ápr-okt 10:00-18:00 (hétfőn gyakran zárva)",
     "ro": "Sezonier apr-oct 10:00-18:00 (lunea adesea închis)",
-    "en": "Seasonal Apr-Oct 10:00-18:00 (often closed on Mondays)"
+    "en": "Seasonal Apr-Oct 10:00-18:00 (often closed on Mondays)",
+    "tr": "Mevsimlik Nis-Eki 10:00-18:00 (çoğunlukla Pazartesi kapalı)"
   },
   "entranceFee": {
     "de": "Erwachsene ca. 22,00 €, Kinder ca. 15,00 €",
     "hu": "Felnőtt kb. 22,00 €, gyerek kb. 15,00 €",
     "ro": "Adulți aprox. 22,00 €, copii aprox. 15,00 €",
-    "en": "Adults approx. €22.00, children approx. €15.00"
+    "en": "Adults approx. €22.00, children approx. €15.00",
+    "tr": "Yetişkinler yaklaşık €22,00, çocuklar yaklaşık €15,00"
   },
   "website": "https://www.filmpark-babelsberg.de",
   "publicTransport": {
     "de": "S7 bis Griebnitzsee, dann Bus 601 oder 696",
     "hu": "S7 Griebnitzsee-ig, majd 601-es vagy 696-os busz",
     "ro": "S7 până la Griebnitzsee, apoi autobuzul 601 sau 696",
-    "en": "S7 to Griebnitzsee, then bus 601 or 696"
+    "en": "S7 to Griebnitzsee, then bus 601 or 696",
+    "tr": "S7 ile Griebnitzsee, sonra 601 veya 696 otobüsleri"
   },
   "parking": {
     "de": "Besucherparkplatz vorhanden, ca. 5,00 € pro Tag",
     "hu": "Látogatói parkoló van, kb. 5,00 € naponta",
     "ro": "Parcare pentru vizitatori disponibilă, aprox. 5,00 € pe zi",
-    "en": "Visitor parking available, approx. €5.00 per day"
+    "en": "Visitor parking available, approx. €5.00 per day",
+    "tr": "Ziyaretçi otoparkı mevcut, günlük yaklaşık €5,00"
   },
   "accessibility": {
     "de": "Gelände weitgehend barrierefrei, Assistenzhunde sind erlaubt",
     "hu": "A terület nagyrészt akadálymentes, segítőkutyák engedélyezettek",
     "ro": "Teren în mare parte accesibil, câinii de asistență sunt permiși",
-    "en": "Grounds largely barrier-free, assistance dogs allowed"
+    "en": "Grounds largely barrier-free, assistance dogs allowed",
+    "tr": "Alan büyük ölçüde engelsiz, rehberlik köpeklerine izinli"
   },
   "photoRules": {
     "de": "Fotografieren erlaubt, Videoaufnahmen der Stuntshow nur für private Zwecke",
     "hu": "Fotózás engedélyezett, a kaszkadőrshow videózása csak magáncélra",
     "ro": "Fotografierea permisă, înregistrările video ale spectacolului de cascadorii doar în scopuri private",
-    "en": "Photography allowed, video recording of the stunt show for private use only"
+    "en": "Photography allowed, video recording of the stunt show for private use only",
+    "tr": "Fotoğraf çekmek serbest, gösterin video kaydı yalnızca özel kullanım için"
   },
   "bestTimeToVisit": {
     "de": "Unter der Woche, um bei den Attraktionen und Shows kürzere Wartezeiten zu haben",
     "hu": "Hétköznap, hogy rövidebb legyen a várakozási idő az attrakcióknál és show-knál",
     "ro": "În timpul săptămânii, pentru a avea timpi de așteptare mai scurți la atracții și spectacole",
-    "en": "Weekdays to have shorter wait times at attractions and shows"
+    "en": "Weekdays to have shorter wait times at attractions and shows",
+    "tr": "Atraksiyonlar ve gösterilerde daha kısa beklemeler için hafta içi"
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

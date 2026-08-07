@@ -21,7 +21,8 @@
             "de": "Ratsdelft",
             "hu": "Ratsdelft kikötő",
             "ro": "Portul Ratsdelft",
-            "en": "Ratsdelft Harbor"
+            "en": "Ratsdelft Harbor",
+            "tr": "Ratsdelft Limanı"
           },
           "coords": [
             7.205,
@@ -36,7 +37,8 @@
             "de": "Blick auf die Museumsschiffe im Hafenbecken.",
             "hu": "Nézze meg a kikötőben horgonyzó múzeumhajókat.",
             "ro": "Admirați navele-muzeu ancorate în bazinul portuar.",
-            "en": "Enjoy the view of the museum ships in the harbor."
+            "en": "Enjoy the view of the museum ships in the harbor.",
+            "tr": "Limanın müze gemilerine bakmanın keyfini çıkarın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Dat Otto Huus",
             "hu": "Otto Ház",
             "ro": "Casa lui Otto",
-            "en": "Dat Otto Huus"
+            "en": "Dat Otto Huus",
+            "tr": "Dat Otto Huus"
           },
           "coords": [
             7.206,
@@ -59,7 +62,8 @@
             "de": "Ein Muss für Fans des Komikers Otto Waalkes.",
             "hu": "Kihagyhatatlan Otto Waalkes humorista rajongóinak.",
             "ro": "Obligatoriu pentru fanii comedianului Otto Waalkes.",
-            "en": "A must-visit for fans of comedian Otto Waalkes."
+            "en": "A must-visit for fans of comedian Otto Waalkes.",
+            "tr": "Komedyen Otto Waalkes hayranları için mutlaka görülmeli."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Ostfriesisches Landesmuseum",
             "hu": "Kelet-Fríz Tartományi Múzeum",
             "ro": "Muzeul Regional al Frizoniei de Est",
-            "en": "East Frisian State Museum"
+            "en": "East Frisian State Museum",
+            "tr": "Doğu Friesland Eyalet Müzesi"
           },
           "coords": [
             7.206,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie die Rüstkammer im alten Rathaus.",
             "hu": "Nézze meg a régi városháza fegyvertárát.",
             "ro": "Vizitați armurăria din vechea primărie.",
-            "en": "Visit the armory in the old town hall."
+            "en": "Visit the armory in the old town hall.",
+            "tr": "Eski belediye binasındaki cephaneliği ziyaret edin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Pelzerhäuser",
             "hu": "Pelzer-házak",
             "ro": "Casele Pelzer",
-            "en": "Pelzer Houses"
+            "en": "Pelzer Houses",
+            "tr": "Pelzer Evleri"
           },
           "coords": [
             7.204,
@@ -105,7 +112,8 @@
             "de": "Die ältesten erhaltenen Backsteinhäuser der Stadt.",
             "hu": "A város legrégebbi fennmaradt téglaépületei.",
             "ro": "Cele mai vechi case de cărămidă conservate din oraș.",
-            "en": "The oldest preserved brick houses in the city."
+            "en": "The oldest preserved brick houses in the city.",
+            "tr": "Şehrin en eski korunmuş tuğla evleri."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Johannes-a-Lasco-Bibliothek",
             "hu": "Johannes a Lasco Könyvtár",
             "ro": "Biblioteca Johannes a Lasco",
-            "en": "Johannes a Lasco Library"
+            "en": "Johannes a Lasco Library",
+            "tr": "Johannes a Lasco Kütüphanesi"
           },
           "coords": [
             7.203,
@@ -128,7 +137,8 @@
             "de": "In der Ruine der Großen Kirche untergebracht.",
             "hu": "A Nagytemplom romjai között kapott helyet.",
             "ro": "Găzduită în ruinele Marii Biserici.",
-            "en": "Housed in the ruins of the Great Church."
+            "en": "Housed in the ruins of the Great Church.",
+            "tr": "Büyük Kilise kalıntılarında yer alır."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kunsthalle Emden",
             "hu": "Emdeni Műcsarnok",
             "ro": "Muzeul de Artă Emden",
-            "en": "Kunsthalle Emden"
+            "en": "Kunsthalle Emden",
+            "tr": "Kunsthalle Emden"
           },
           "coords": [
             7.208,
@@ -151,7 +162,8 @@
             "de": "Bedeutende Sammlung des Expressionismus.",
             "hu": "Jelentős expresszionista gyűjtemény.",
             "ro": "Colecție importantă de expresionism.",
-            "en": "Significant collection of Expressionism."
+            "en": "Significant collection of Expressionism.",
+            "tr": "Ekspresyonizmin önemli koleksiyonu."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ein entspannter Spaziergang durch das Herz von Emden. Wir beginnen am maritimen Ratsdelft, besuchen das humorvolle Otto Huus und tauchen im Landesmuseum in die Geschichte Ostfrieslands ein. Nach den historischen Pelzerhäusern bewundern wir die Architektur der Lasco-Bibliothek und lassen den Tag in der renommierten Kunsthalle ausklingen.",
         "hu": "Kellemes séta Emden szívében. A tengerparti Ratsdelftnél kezdünk, meglátogatjuk a humoros Otto-házat, majd a Landesmuseumban megismerjük Kelet-Frízföld történelmét. A történelmi Pelzer-házak után megcsodáljuk a Lasco Könyvtár építészetét, és a napot a híres Kunsthalléban zárjuk.",
         "ro": "O plimbare relaxantă prin inima orașului Emden. Începem la portul maritim Ratsdelft, vizităm amuzanta Casă Otto și explorăm istoria Frizoniei de Est la Muzeul Regional. După casele istorice Pelzer, admirăm arhitectura Bibliotecii Lasco și încheiem ziua la renumita Kunsthalle.",
-        "en": "A relaxed stroll through the heart of Emden. We start at the maritime Ratsdelft, visit the humorous Otto Huus, and dive into East Frisian history at the Landesmuseum. After the historical Pelzer Houses, we admire the architecture of the Lasco Library and finish the day at the renowned Kunsthalle."
+        "en": "A relaxed stroll through the heart of Emden. We start at the maritime Ratsdelft, visit the humorous Otto Huus, and dive into East Frisian history at the Landesmuseum. After the historical Pelzer Houses, we admire the architecture of the Lasco Library and finish the day at the renowned Kunsthalle.",
+        "tr": "Emden’in kalbinde rahat bir gezinti. Denizcilik odaklı Ratsdelft’te başlıyoruz, esprili Otto Huus’u ziyaret ediyor ve Landesmuseum’da Doğu Friesland tarihine dalıyoruz. Tarihi Pelzer Evleri’nden sonra Lasco Kütüphanesi’nin mimarisine hayran oluyor ve günü ünlü Kunsthalle’de bitiriyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -279,6 +292,11 @@
           "Emden is flat and perfect for exploring on foot.",
           "Combine museum visits with a fish roll at the harbor.",
           "Pay attention to the tides in the outer harbor."
+        ],
+        "tr": [
+          "Emden düz bir şehirdir ve yürüyerek keşfetmek için idealdir.",
+          "Müze ziyaretlerini limandaki balık ekmeği ile birleştirin.",
+          "Dış limandaki gelgitlere dikkat edin."
         ]
       }
     },
@@ -295,7 +313,8 @@
             "de": "Hafentor",
             "hu": "Kikötőkapu",
             "ro": "Poarta Portului",
-            "en": "Hafentor"
+            "en": "Hafentor",
+            "tr": "Hafentor"
           },
           "coords": [
             7.201,
@@ -310,7 +329,8 @@
             "de": "Tor zum Emder Seehafen.",
             "hu": "Az emdeni kikötő kapuja.",
             "ro": "Poarta către portul maritim Emden.",
-            "en": "Gateway to the Emden seaport."
+            "en": "Gateway to the Emden seaport.",
+            "tr": "Emden limanına açılan kapı."
           }
         },
         {
@@ -318,7 +338,8 @@
             "de": "Ratsdelft",
             "hu": "Ratsdelft",
             "ro": "Ratsdelft",
-            "en": "Ratsdelft"
+            "en": "Ratsdelft",
+            "tr": "Ratsdelft"
           },
           "coords": [
             7.205,
@@ -333,7 +354,8 @@
             "de": "Kurzer Stopp am Denkmal der Stadtgründer.",
             "hu": "Rövid megálló a városalapítók emlékművénél.",
             "ro": "Scurt popas la monumentul fondatorilor orașului.",
-            "en": "Short stop at the city founders' monument."
+            "en": "Short stop at the city founders' monument.",
+            "tr": "Şehir kurucuları anıtında kısa bir durak."
           }
         },
         {
@@ -341,7 +363,8 @@
             "de": "Bunkermuseum Emden",
             "hu": "Bunker Múzeum",
             "ro": "Muzeul Bunkerului",
-            "en": "Bunkermuseum Emden"
+            "en": "Bunkermuseum Emden",
+            "tr": "Bunker Müzesi Emden"
           },
           "coords": [
             7.212,
@@ -356,7 +379,8 @@
             "de": "Eindrucksvolle Dokumentation in einem echten Hochbunker.",
             "hu": "Lenyűgöző dokumentáció egy valódi bunkerben.",
             "ro": "Documentație impresionantă într-un bunker real.",
-            "en": "Impressive documentation in a real bunker."
+            "en": "Impressive documentation in a real bunker.",
+            "tr": "Gerçek bir sığınakta etkileyici belgeler."
           }
         },
         {
@@ -364,7 +388,8 @@
             "de": "Kunsthalle Emden",
             "hu": "Kunsthalle",
             "ro": "Kunsthalle",
-            "en": "Kunsthalle"
+            "en": "Kunsthalle",
+            "tr": "Kunsthalle"
           },
           "coords": [
             7.208,
@@ -379,7 +404,8 @@
             "de": "Mit dem Rad leicht über die Wallanlagen erreichbar.",
             "hu": "Kerékpárral könnyen elérhető a várfalakon keresztül.",
             "ro": "Accesibil ușor cu bicicleta prin metereze.",
-            "en": "Easily accessible by bike via the city walls."
+            "en": "Easily accessible by bike via the city walls.",
+            "tr": "Kent surları boyunca bisikletle kolayca ulaşılabilir."
           }
         },
         {
@@ -387,7 +413,8 @@
             "de": "Pelzerhäuser",
             "hu": "Pelzer-házak",
             "ro": "Casele Pelzer",
-            "en": "Pelzer Houses"
+            "en": "Pelzer Houses",
+            "tr": "Pelzer Evleri"
           },
           "coords": [
             7.204,
@@ -402,7 +429,8 @@
             "de": "Historische Fassaden in der Altstadt.",
             "hu": "Történelmi homlokzatok az óvárosban.",
             "ro": "Fațade istorice în centrul vechi.",
-            "en": "Historic facades in the old town."
+            "en": "Historic facades in the old town.",
+            "tr": "Eski kentte tarihi cepheler."
           }
         },
         {
@@ -410,7 +438,8 @@
             "de": "Dat Otto Huus",
             "hu": "Otto Ház",
             "ro": "Casa Otto",
-            "en": "Otto Huus"
+            "en": "Otto Huus",
+            "tr": "Otto Huus"
           },
           "coords": [
             7.206,
@@ -425,7 +454,8 @@
             "de": "Parken Sie Ihr Rad direkt davor.",
             "hu": "Parkoljon le kerékpárjával közvetlenül előtte.",
             "ro": "Parcați bicicleta chiar în față.",
-            "en": "Park your bike right in front."
+            "en": "Park your bike right in front.",
+            "tr": "Bisikletinizi hemen önüne park edin."
           }
         },
         {
@@ -433,7 +463,8 @@
             "de": "Emder Wall",
             "hu": "Emdeni várfal",
             "ro": "Zidul Emden",
-            "en": "Emden Wall"
+            "en": "Emden Wall",
+            "tr": "Emden Surları"
           },
           "coords": [
             7.215,
@@ -448,7 +479,8 @@
             "de": "Schöne Radtour rund um die Innenstadt.",
             "hu": "Szép kerékpártúra a belváros körül.",
             "ro": "Tur frumos cu bicicleta în jurul centrului.",
-            "en": "Beautiful bike ride around the city center."
+            "en": "Beautiful bike ride around the city center.",
+            "tr": "Şehir merkezinin etrafında güzel bir bisiklet turu."
           }
         }
       ],
@@ -456,7 +488,8 @@
         "de": "Entdecken Sie Emden auf zwei Rädern! Wir starten am Hafentor, radeln zum Ratsdelft und besuchen das beklemmende Bunkermuseum. Über die Kunsthalle und die Pelzerhäuser geht es zum Otto Huus. Zum Abschluss genießen wir eine entspannte Fahrt auf den grünen Wallanlagen, die die Stadt wie ein Gürtel umschließen.",
         "hu": "Fedezze fel Emdent két keréken! A Hafentornál kezdünk, a Ratsdelfthez kerekezünk, és meglátogatjuk a nyomasztó Bunkermúzeumot. A Kunsthalle és a Pelzer-házak érintésével az Otto-házhoz megyünk. Befejezésül egy pihentető tekerést teszünk a zöld várfalakon, amelyek övként veszik körül a várost.",
         "ro": "Descoperiți Emden pe două roți! Începem la Poarta Portului, pedalăm spre Ratsdelft și vizităm impresionantul Muzeu al Bunkerului. Trecem pe la Kunsthalle și Casele Pelzer spre Casa Otto. La final, ne bucurăm de o tură relaxantă pe vechile metereze verzi care înconjoară orașul.",
-        "en": "Explore Emden on two wheels! We start at the Hafentor, cycle to Ratsdelft, and visit the somber Bunkermuseum. Via the Kunsthalle and Pelzer Houses, we head to Otto Huus. Finally, we enjoy a relaxed ride on the green city walls that encircle the city like a belt."
+        "en": "Explore Emden on two wheels! We start at the Hafentor, cycle to Ratsdelft, and visit the somber Bunkermuseum. Via the Kunsthalle and Pelzer Houses, we head to Otto Huus. Finally, we enjoy a relaxed ride on the green city walls that encircle the city like a belt.",
+        "tr": "İki tekerlekle Emden’i keşfedin! Hafentor’da başlıyor, Ratsdelft’e pedal çeviriyor ve karanlık Bunker Müzesi’ni ziyaret ediyoruz. Kunsthalle ve Pelzer Evleri üzerinden Otto Huus’a gidiyoruz. Son olarak, şehri kuşak gibi saran yeşil surlarda rahat bir sürüşün tadını çıkarıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -560,6 +593,11 @@
           "Use the well-maintained bike paths along the canals.",
           "A bike lock is recommended in the city center.",
           "The city walls are almost entirely accessible by bike."
+        ],
+        "tr": [
+          "Kanallar boyunca iyi bakımlı bisiklet yollarını kullanın.",
+          "Şehir merkezinde bir bisiklet kilidi önerilir.",
+          "Kent surlarının neredeyse tamamı bisikletle erişilebilirdir."
         ]
       }
     },
@@ -576,7 +614,8 @@
             "de": "Ratsdelft (Cluster Zentrum)",
             "hu": "Ratsdelft (Belváros klaszter)",
             "ro": "Ratsdelft (Cluster Centru)",
-            "en": "Ratsdelft (Center Cluster)"
+            "en": "Ratsdelft (Center Cluster)",
+            "tr": "Ratsdelft (Merkez Küme)"
           },
           "coords": [
             7.205,
@@ -591,7 +630,8 @@
             "de": "Parken Sie im Parkhaus am Delft.",
             "hu": "Parkoljon a Delft melletti parkolóházban.",
             "ro": "Parcați în parcarea de la Delft.",
-            "en": "Park in the parking garage at Delft."
+            "en": "Park in the parking garage at Delft.",
+            "tr": "Delft’teki otopark garajına park edin."
           }
         },
         {
@@ -599,7 +639,8 @@
             "de": "Dat Otto Huus",
             "hu": "Otto Ház",
             "ro": "Casa Otto",
-            "en": "Dat Otto Huus"
+            "en": "Dat Otto Huus",
+            "tr": "Dat Otto Huus"
           },
           "coords": [
             7.206,
@@ -614,7 +655,8 @@
             "de": "Zu Fuß vom Ratsdelft erreichbar.",
             "hu": "Gyalog elérhető a Ratsdelfttől.",
             "ro": "Accesibil pe jos de la Ratsdelft.",
-            "en": "Accessible on foot from Ratsdelft."
+            "en": "Accessible on foot from Ratsdelft.",
+            "tr": "Ratsdelft’ten yürüme mesafesinde erişilebilir."
           }
         },
         {
@@ -622,7 +664,8 @@
             "de": "Ostfriesisches Landesmuseum",
             "hu": "Landesmuseum",
             "ro": "Landesmuseum",
-            "en": "Landesmuseum"
+            "en": "Landesmuseum",
+            "tr": "Landesmuseum"
           },
           "coords": [
             7.206,
@@ -637,7 +680,8 @@
             "de": "Teil des Zentrum-Clusters.",
             "hu": "A belvárosi klaszter része.",
             "ro": "Parte a clusterului central.",
-            "en": "Part of the center cluster."
+            "en": "Part of the center cluster.",
+            "tr": "Merkez kümesinin bir parçası."
           }
         },
         {
@@ -645,7 +689,8 @@
             "de": "Kunsthalle Emden (Cluster Kunst)",
             "hu": "Kunsthalle (Művészeti klaszter)",
             "ro": "Kunsthalle (Cluster Artă)",
-            "en": "Kunsthalle (Art Cluster)"
+            "en": "Kunsthalle (Art Cluster)",
+            "tr": "Kunsthalle (Sanat Kümesi)"
           },
           "coords": [
             7.208,
@@ -660,7 +705,8 @@
             "de": "Parkplatz direkt an der Kunsthalle nutzen.",
             "hu": "Használja a Kunsthalle melletti parkolót.",
             "ro": "Folosiți parcarea direct de la Kunsthalle.",
-            "en": "Use the parking lot right at the Kunsthalle."
+            "en": "Use the parking lot right at the Kunsthalle.",
+            "tr": "Kunsthalle’nin hemen yanındaki otoparkı kullanın."
           }
         },
         {
@@ -668,7 +714,8 @@
             "de": "Johannes-a-Lasco-Bibliothek",
             "hu": "Lasco Könyvtár",
             "ro": "Biblioteca Lasco",
-            "en": "Lasco Library"
+            "en": "Lasco Library",
+            "tr": "Lasco Kütüphanesi"
           },
           "coords": [
             7.203,
@@ -683,7 +730,8 @@
             "de": "Kurze Fahrt zurück Richtung Zentrum.",
             "hu": "Rövid út vissza a központ felé.",
             "ro": "Scurtă călătorie înapoi spre centru.",
-            "en": "Short drive back towards the center."
+            "en": "Short drive back towards the center.",
+            "tr": "Merkeze doğru kısa bir sürüş."
           }
         },
         {
@@ -691,7 +739,8 @@
             "de": "Hafentor (Cluster Hafen)",
             "hu": "Kikötőkapu (Kikötő klaszter)",
             "ro": "Hafentor (Cluster Port)",
-            "en": "Hafentor (Harbor Cluster)"
+            "en": "Hafentor (Harbor Cluster)",
+            "tr": "Hafentor (Liman Kümesi)"
           },
           "coords": [
             7.201,
@@ -706,7 +755,8 @@
             "de": "Fotostopp am historischen Tor.",
             "hu": "Fotómegálló a történelmi kapunál.",
             "ro": "Popas foto la poarta istorică.",
-            "en": "Photo stop at the historic gate."
+            "en": "Photo stop at the historic gate.",
+            "tr": "Tarihi kapıda fotoğraf molası."
           }
         },
         {
@@ -714,7 +764,8 @@
             "de": "Außenhafen",
             "hu": "Külső kikötő",
             "ro": "Portul Exterior",
-            "en": "Outer Harbor"
+            "en": "Outer Harbor",
+            "tr": "Dış Liman"
           },
           "coords": [
             7.185,
@@ -729,7 +780,8 @@
             "de": "Blick auf die großen Autotransporter.",
             "hu": "Nézze meg a nagy autószállító hajókat.",
             "ro": "Vedeți marile nave de transport auto.",
-            "en": "See the large car carrier ships."
+            "en": "See the large car carrier ships.",
+            "tr": "Büyük otomobil taşıyıcı gemileri görün."
           }
         }
       ],
@@ -737,7 +789,8 @@
         "de": "Diese Autotour verbindet die kulturellen Highlights im Zentrum mit dem industriellen Herz der Stadt. Wir parken zentral am Ratsdelft, erkunden das Zentrum zu Fuß, fahren dann zur Kunsthalle und beenden den Tag mit einem Abstecher zum beeindruckenden Außenhafen, einem der größten Autoverladehäfen Europas.",
         "hu": "Ez az autós túra összeköti a központ kulturális látnivalóit a város ipari szívével. Központilag a Ratsdelftnél parkolunk, gyalog fedezzük fel a belvárost, majd a Kunsthalléhoz hajtunk, és a napot egy kitérővel zárjuk a lenyűgöző külső kikötőhöz, Európa egyik legnagyobb autórakodó kikötőjéhez.",
         "ro": "Acest tur auto îmbină atracțiile culturale din centru cu inima industrială a orașului. Parcăm central la Ratsdelft, explorăm centrul pe jos, apoi conducem spre Kunsthalle și încheiem ziua cu o vizită la portul exterior impresionant, unul dintre cele mai mari porturi de încărcare auto din Europa.",
-        "en": "This car tour combines the cultural highlights of the center with the industrial heart of the city. We park centrally at Ratsdelft, explore the center on foot, then drive to the Kunsthalle, and finish the day with a trip to the impressive outer harbor, one of Europe's largest car shipping ports."
+        "en": "This car tour combines the cultural highlights of the center with the industrial heart of the city. We park centrally at Ratsdelft, explore the center on foot, then drive to the Kunsthalle, and finish the day with a trip to the impressive outer harbor, one of Europe's largest car shipping ports.",
+        "tr": "Bu otomobil turu merkezin kültürel öne çıkanlarını şehrin endüstriyel kalbiyle birleştirir. Ratsdelft'te merkezi olarak park ediyor, yürüyerek merkezi geziyor, sonra Kunsthalle'ye sürüyor ve günü Avrupa'nın en büyük otomobil sevkiyat limanlarından biri olan etkileyici dış limana yapılan bir geziyle bitiriyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -841,6 +894,11 @@
           "The parking guidance system shows available spots in the center.",
           "A well-maintained road leads to the outer harbor.",
           "Parking at Delft is often limited, use parking garages."
+        ],
+        "tr": [
+          "Park rehberlik sistemi merkezdeki boş yerleri gösterir.",
+          "Bakımlı bir yol dış limana götürür.",
+          "Delft'te park sık sık sınırlıdır, otopark katlarını kullanın."
         ]
       }
     },
@@ -857,7 +915,8 @@
             "de": "Ratsdelft",
             "hu": "Ratsdelft",
             "ro": "Ratsdelft",
-            "en": "Ratsdelft"
+            "en": "Ratsdelft",
+            "tr": "Ratsdelft"
           },
           "coords": [
             7.205,
@@ -872,7 +931,8 @@
             "de": "Zentraler Knotenpunkt der Stadtbusse.",
             "hu": "A városi buszok központi csomópontja.",
             "ro": "Nod central pentru autobuzele urbane.",
-            "en": "Central hub for city buses."
+            "en": "Central hub for city buses.",
+            "tr": "Şehir otobüsleri için merkezi merkez."
           }
         },
         {
@@ -880,7 +940,8 @@
             "de": "Dat Otto Huus",
             "hu": "Otto Ház",
             "ro": "Casa Otto",
-            "en": "Dat Otto Huus"
+            "en": "Dat Otto Huus",
+            "tr": "Dat Otto Huus"
           },
           "coords": [
             7.206,
@@ -895,7 +956,8 @@
             "de": "Kurzer Fußweg vom Delft.",
             "hu": "Rövid séta a Del fttől.",
             "ro": "Scurtă plimbare de la Delft.",
-            "en": "Short walk from Delft."
+            "en": "Short walk from Delft.",
+            "tr": "Delft'ten kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -903,7 +965,8 @@
             "de": "Johannes-a-Lasco-Bibliothek",
             "hu": "Lasco Könyvtár",
             "ro": "Biblioteca Lasco",
-            "en": "Lasco Library"
+            "en": "Lasco Library",
+            "tr": "Lasco Kütüphanesi"
           },
           "coords": [
             7.203,
@@ -918,7 +981,8 @@
             "de": "Besondere Atmosphäre in der Kirchenruine.",
             "hu": "Különleges atmoszféra a templomromban.",
             "ro": "Atmosferă deosebită în ruina bisericii.",
-            "en": "Special atmosphere in the church ruins."
+            "en": "Special atmosphere in the church ruins.",
+            "tr": "Kilisenin kalıntılarında özel bir atmosfer."
           }
         },
         {
@@ -926,7 +990,8 @@
             "de": "Kunsthalle Emden",
             "hu": "Kunsthalle",
             "ro": "Kunsthalle",
-            "en": "Kunsthalle"
+            "en": "Kunsthalle",
+            "tr": "Kunsthalle"
           },
           "coords": [
             7.208,
@@ -941,7 +1006,8 @@
             "de": "Erreichbar mit der Linie 501/503.",
             "hu": "Az 501/503-as vonallal érhető el.",
             "ro": "Accesibil cu linia 501/503.",
-            "en": "Accessible with line 501/503."
+            "en": "Accessible with line 501/503.",
+            "tr": "501/503 hattı ile ulaşılabilir."
           }
         },
         {
@@ -949,7 +1015,8 @@
             "de": "Bunkermuseum",
             "hu": "Bunkermúzeum",
             "ro": "Muzeul Bunkerului",
-            "en": "Bunkermuseum"
+            "en": "Bunkermuseum",
+            "tr": "Bunker Müzesi"
           },
           "coords": [
             7.212,
@@ -964,7 +1031,8 @@
             "de": "Haltestelle 'Frickensteinplatz'.",
             "hu": "'Frickensteinplatz' megálló.",
             "ro": "Stația 'Frickensteinplatz'.",
-            "en": "Stop 'Frickensteinplatz'."
+            "en": "Stop 'Frickensteinplatz'.",
+            "tr": "'Frickensteinplatz' durağı."
           }
         },
         {
@@ -972,7 +1040,8 @@
             "de": "Hafentor",
             "hu": "Kikötőkapu",
             "ro": "Hafentor",
-            "en": "Hafentor"
+            "en": "Hafentor",
+            "tr": "Hafentor"
           },
           "coords": [
             7.201,
@@ -987,7 +1056,8 @@
             "de": "Mit dem Bus zurück zum Hafen.",
             "hu": "Busszal vissza a kikötőhöz.",
             "ro": "Înapoi la port cu autobuzul.",
-            "en": "Back to the harbor by bus."
+            "en": "Back to the harbor by bus.",
+            "tr": "Otobüsle limana dönüş."
           }
         }
       ],
@@ -995,7 +1065,8 @@
         "de": "Mit den Emder Stadtbussen erkunden wir bequem die wichtigsten Stationen. Vom zentralen Treffpunkt Ratsdelft geht es zum Otto Huus und zur Lasco-Bibliothek. Nach einem Besuch in der Kunsthalle und dem Bunkermuseum führt uns der Weg zum Hafentor, wo wir den maritimen Flair der Stadt genießen können.",
         "hu": "Az emdeni városi buszokkal kényelmesen fedezzük fel a legfontosabb megállókat. A központi Ratsdelft találkozóhelyről az Otto-házhoz és a Lasco Könyvtárhoz megyünk. A Kunsthalle és a Bunkermúzeum után az utunk a Hafentorig vezet, ahol élvezhetjük a város tengeri hangulatát.",
         "ro": "Cu autobuzele urbane din Emden explorăm confortabil cele mai importante stații. De la punctul central Ratsdelft mergem la Casa Otto și la Biblioteca Lasco. După o vizită la Kunsthalle și Muzeul Bunkerului, drumul ne poartă la Poarta Portului, unde ne putem bucura de farmecul maritim al orașului.",
-        "en": "With Emden's city buses, we conveniently explore the main stations. From the central meeting point at Ratsdelft, we head to Otto Huus and the Lasco Library. After a visit to the Kunsthalle and the Bunkermuseum, our path leads to the Hafentor, where we can enjoy the city's maritime flair."
+        "en": "With Emden's city buses, we conveniently explore the main stations. From the central meeting point at Ratsdelft, we head to Otto Huus and the Lasco Library. After a visit to the Kunsthalle and the Bunkermuseum, our path leads to the Hafentor, where we can enjoy the city's maritime flair.",
+        "tr": "Emden'in şehir otobüsleriyle ana durakları rahatça keşfediyoruz. Ratsdelft'teki merkezi buluşma noktasından Otto Huus ve Lasco Kütüphanesi'ne gidiyoruz. Kunsthalle ve Bunker Müzesi'ni ziyaret ettikten sonra rotamız şehrin denizcilik atmosferinin keyfini çıkarabileceğimiz Hafentor'a yöneliyor."
       },
       "gastro_picks": {
         "de": [
@@ -1099,6 +1170,11 @@
           "The central bus station (ZOB) is located right next to the train station.",
           "A day ticket pays off from the third ride onwards.",
           "Buses run every 30 minutes."
+        ],
+        "tr": [
+          "Merkezi otobüs terminali (ZOB) tren istasyonunun hemen yanında yer alır.",
+          "Günlük bilet üçüncü yolculuktan itibaren kârlıdır.",
+          "Otobüsler her 30 dakikada bir çalışır."
         ]
       }
     }

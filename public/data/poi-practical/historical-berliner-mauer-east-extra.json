@@ -3,55 +3,64 @@
     "de": "Mühlenstraße 3-100, 10243 Berlin",
     "hu": "Mühlenstraße 3-100, 10243 Berlin",
     "ro": "Mühlenstraße 3-100, 10243 Berlin",
-    "en": "Mühlenstraße 3-100, 10243 Berlin"
+    "en": "Mühlenstraße 3-100, 10243 Berlin",
+    "tr": "Mühlenstraße 3-100, 10243 Berlin"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "Non-stop",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "24/7"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.eastsidegallery-berlin.de",
   "publicTransport": {
     "de": "S-Bahn/U-Bahn Warschauer Straße oder Ostbahnhof",
     "hu": "S-Bahn/U-Bahn Warschauer Straße vagy Ostbahnhof",
     "ro": "S-Bahn/U-Bahn Warschauer Straße sau Ostbahnhof",
-    "en": "S-Bahn/U-Bahn Warschauer Straße or Ostbahnhof"
+    "en": "S-Bahn/U-Bahn Warschauer Straße or Ostbahnhof",
+    "tr": "S-Bahn/U-Bahn Warschauer Straße veya Ostbahnhof"
   },
   "parking": {
     "de": "Parkplatz an der Uber Arena (teuer) oder Seitenstraßen Friedrichshain.",
     "hu": "Parkoló az Uber Arénánál (drága) vagy Friedrichshain mellékutcái.",
     "ro": "Parcare la Uber Arena (scump) sau pe străzile laterale din Friedrichshain.",
-    "en": "Parking at the Uber Arena (expensive) or side streets of Friedrichshain."
+    "en": "Parking at the Uber Arena (expensive) or side streets of Friedrichshain.",
+    "tr": "Uber Arena'da park (pahalı) veya Friedrichshain yan sokakları."
   },
   "accessibility": {
     "de": "Vollständig barrierefrei, da öffentlicher Gehweg.",
     "hu": "Teljesen akadálymentes, mivel közterületi járda.",
     "ro": "Complet accesibil, fiind un trotuar public.",
-    "en": "Fully accessible as it is a public sidewalk."
+    "en": "Fully accessible as it is a public sidewalk.",
+    "tr": "Kamusal kaldırım olduğundan tamamen erişilebilir."
   },
   "photoRules": {
     "de": "Erlaubt, kommerzielle Aufnahmen genehmigungspflichtig.",
     "hu": "Engedélyezett, a kereskedelmi felvételekhez engedély szükséges.",
     "ro": "Permis, fotografiile comerciale necesită aprobare.",
-    "en": "Allowed, commercial photography requires approval."
+    "en": "Allowed, commercial photography requires approval.",
+    "tr": "İzinli, ticari fotoğrafçılık onay gerektirir."
   },
   "bestTimeToVisit": {
     "de": "Frühmorgens vor dem Eintreffen der Touristenbusse.",
     "hu": "Kora reggel, a turistabuszok érkezése előtt.",
     "ro": "Dimineața devreme, înainte de sosirea autocarelor cu turiști.",
-    "en": "Early morning before the arrival of tourist buses."
+    "en": "Early morning before the arrival of tourist buses.",
+    "tr": "Tur otobüsleri gelmeden önce erken sabah."
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

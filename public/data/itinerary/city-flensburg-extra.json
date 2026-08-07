@@ -31,7 +31,8 @@
             "de": "Besuchen Sie die versteckten Rum-Höfe in den Seitenarmen.",
             "hu": "Nézzen be a rejtett rumos udvarokba az oldalsó sikátorokban.",
             "ro": "Vizitați curțile ascunse unde se producea romul.",
-            "en": "Visit the hidden rum courtyards in the side alleys."
+            "en": "Visit the hidden rum courtyards in the side alleys.",
+            "tr": "Yan sokaklardaki gizli rom avlularını ziyaret edin."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die gotische Architektur und die alte Orgel.",
             "hu": "Csodálja meg a gótikus építészetet és a régi orgonát.",
             "ro": "Admirați arhitectura gotică și orga veche.",
-            "en": "Admire the Gothic architecture and the old organ."
+            "en": "Admire the Gothic architecture and the old organ.",
+            "tr": "Gotik mimariye ve eski orga hayran kalın."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Erfahren Sie alles über die Flensburger Rum-Tradition.",
             "hu": "Tudjon meg mindent a flensburgi rumkereskedelemről.",
             "ro": "Aflați totul despre tradiția romului din Flensburg.",
-            "en": "Learn all about the Flensburg rum tradition."
+            "en": "Learn all about the Flensburg rum tradition.",
+            "tr": "Flensburg'un rom geleneği hakkında her şeyi öğrenin."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Die Dampfschiff Alexandra ist das Wahrzeichen im Hafen.",
             "hu": "Az Alexandra gőzhajó a kikötő igazi jelképe.",
             "ro": "Nava cu aburi Alexandra este simbolul portului.",
-            "en": "The steamship Alexandra is the landmark of the harbor."
+            "en": "The steamship Alexandra is the landmark of the harbor.",
+            "tr": "Alexandra vapuru limanın simgesidir."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Das einzige erhaltene Stadttor Flensburgs.",
             "hu": "Flensburg egyetlen épségben maradt városkapuja.",
             "ro": "Singura poartă a orașului care a supraviețuit în Flensburg.",
-            "en": "The only surviving city gate of Flensburg."
+            "en": "The only surviving city gate of Flensburg.",
+            "tr": "Flensburg'un ayakta kalan tek şehir kapısı."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Spannende physikalische Experimente zum Mitmachen.",
             "hu": "Izgalmas fizikai kísérletek és interaktív játékok.",
             "ro": "Experimente fizice captivante la care puteți participa.",
-            "en": "Exciting physical experiments to participate in."
+            "en": "Exciting physical experiments to participate in.",
+            "tr": "Katılabileceğiniz heyecan verici fizik deneyleri."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Ihr Tag beginnt in der malerischen Roten Straße, wo Kaufmannshöfe und Rum-Häuser hanseatisches Flair versprühen. Nach einem Besuch der Marienkirche tauchen Sie im Schifffahrtsmuseum tief in die maritime Geschichte ein. Der Nachmittag gehört dem Hafen mit seinen historischen Seglern. Den Abschluss bildet das Nordertor, bevor Sie im Phänomenta spielerisch die Welt der Wissenschaft entdecken.",
         "hu": "A napot a festői Rote Straße-n kezdjük, ahol a kereskedőudvarok és rumházak hanzai hangulatot árasztanak. A Mária-templom után a Hajózási Múzeumban merülhet el a tengeri múltban. A délután a kikötőé és a történelmi vitorlásoké. A városnézést az északi városkapunál zárjuk, majd a Phänomenta interaktív kiállításán fedezhetjük fel a tudomány világát.",
         "ro": "Ziua începe pe pitoreasca Rote Straße, unde curțile negustorilor și casele de rom emană un farmec hanseatic. După o vizită la Biserica Sf. Maria, explorați istoria maritimă la muzeul dedicat. După-amiaza este dedicată portului cu navele sale istorice cu pânze. Încheiați la Poarta de Nord, înainte de a descoperi lumea științei la Phänomenta.",
-        "en": "Your day begins in the picturesque Rote Straße, where merchant courtyards and rum houses exude Hanseatic flair. After visiting St. Mary's Church, dive deep into maritime history at the Nautical Museum. The afternoon is dedicated to the harbor and its historic sailing ships. Finish at the Nordertor before playfully exploring the world of science at Phänomenta."
+        "en": "Your day begins in the picturesque Rote Straße, where merchant courtyards and rum houses exude Hanseatic flair. After visiting St. Mary's Church, dive deep into maritime history at the Nautical Museum. The afternoon is dedicated to the harbor and its historic sailing ships. Finish at the Nordertor before playfully exploring the world of science at Phänomenta.",
+        "tr": "Gününüz, tüccar avluları ve romevlerinin Hanseatik havası yayan Rote Straße'nin pitoresk başlangıcında başlar. Aziz Meryem Kilisesi'ni ziyaret ettikten sonra Denizcilik Müzesi'nde denizcilik tarihine dalın. Öğleden sonra liman ve tarihî yelkenli gemilere ayrılmıştır. Nordertor'da bitirin ve ardından Phänomenta'da bilimin dünyasını eğlenceli şekilde keşfedin."
       },
       "gastro_picks": {
         "de": [
@@ -289,6 +296,12 @@
           "Most sights are located along the 'Maritime Mile'.",
           "Don't miss the shoes hanging over Norderstraße.",
           "A detour into the backyards is worth it almost everywhere."
+        ],
+        "tr": [
+          "Flensburg yokuşludur – kaldırım taşları için rahat ayakkabılar planlayın.",
+          "Çoğu görülecek yer 'Maritime Mile' boyunca yer alır.",
+          "Norderstraße'deki asılı ayakkabıları kaçırmayın.",
+          "Arka bahçelere bir sapma neredeyse her yerde değerlidir."
         ]
       }
     },
@@ -315,7 +328,8 @@
             "de": "Die älteste Kirche der Stadt mit mittelalterlichen Fresken.",
             "hu": "A város legidősebb temploma középkori freskókkal.",
             "ro": "Cea mai veche biserică din oraș, cu fresce medievale.",
-            "en": "The oldest church in the city with medieval frescoes."
+            "en": "The oldest church in the city with medieval frescoes.",
+            "tr": "Şehrin en eski kilisesi, ortaçağ freskleriyle."
           }
         },
         {
@@ -333,7 +347,8 @@
             "de": "Fahrräder am Eingang der Straße parken und zu Fuß erkunden.",
             "hu": "Tegye le a bringát az utca elején, és sétáljon egyet.",
             "ro": "Parcați bicicletele la intrare și explorați pe jos.",
-            "en": "Park bikes at the entrance and explore on foot."
+            "en": "Park bikes at the entrance and explore on foot.",
+            "tr": "Bisikletleri girişte park edip keşfi yürüyerek yapın."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Genießen Sie die Brise am Hafenbecken.",
             "hu": "Élvezze a friss szellőt a kikötői mólón.",
             "ro": "Bucurați-vă de briză pe marginea portului.",
-            "en": "Enjoy the breeze by the harbor basin."
+            "en": "Enjoy the breeze by the harbor basin.",
+            "tr": "Liman havuzunda esinti tadını çıkarın."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Ein tolles Fotomotiv für Radfahrer.",
             "hu": "Remek fotótéma a kerékpárosoknak.",
             "ro": "Un motiv foto excelent pentru bicicliști.",
-            "en": "A great photo opportunity for cyclists."
+            "en": "A great photo opportunity for cyclists.",
+            "tr": "Bisikletçiler için harika bir fotoğraf fırsatı."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Das 'Rote Schloss am Meer' ist beeindruckend groß.",
             "hu": "A 'tengerparti vörös kastély' lenyűgöző méretű.",
             "ro": "„Castelul Roșu de la Mare” este impresionant de mare.",
-            "en": "The 'Red Castle by the Sea' is impressively large."
+            "en": "The 'Red Castle by the Sea' is impressively large.",
+            "tr": "'Deniz Kenarındaki Kırmızı Kale' etkileyici büyüklükte."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Perfekt für eine Erfrischung in der Förde.",
             "hu": "Tökéletes hely egy frissítő csobbanáshoz a fjordban.",
             "ro": "Perfect pentru o revigorare în fiord.",
-            "en": "Perfect for a refreshment in the fjord."
+            "en": "Perfect for a refreshment in the fjord.",
+            "tr": "Fiyortta serinlemek için ideal."
           }
         }
       ],
@@ -413,7 +432,8 @@
         "de": "Mit dem Rad erkunden Sie die gesamte Flensburger Förde. Nach dem Start an der Johanniskirche radeln Sie durch die historische Altstadt zum Hafen. Das Highlight der Tour ist die Fahrt entlang der Küste zur Marineschule Mürwik. Den Tag lassen Sie entspannt am Strand von Solitüde ausklingen, wo Sie den Blick auf das dänische Ufer genießen können.",
         "hu": "Kerékpárral az egész flensburgi fjordot felfedezhetjük. A Szent János-templomtól indulva az óvároson át tekerünk a kikötőig. A túra csúcspontja a part menti szakasz a mürwiki tengerészeti iskoláig. A napot a Solitüde strandon zárjuk, ahol a dán partokban gyönyörködve pihenhetünk meg.",
         "ro": "Cu bicicleta explorați întregul fiord Flensburg. După pornirea de la Biserica Sf. Ioan, pedalați prin orașul vechi istoric până în port. Punctul culminant al turului este plimbarea de-a lungul coastei până la Școala Navală Mürwik. Încheiați ziua relaxat pe plaja Solitüde, admirând țărmul danez.",
-        "en": "By bike, you can explore the entire Flensburg Fjord. Starting at St. John's Church, cycle through the historic old town to the harbor. The highlight of the tour is the ride along the coast to the Mürwik Naval School. End the day relaxed at Solitüde beach, where you can enjoy views of the Danish shore."
+        "en": "By bike, you can explore the entire Flensburg Fjord. Starting at St. John's Church, cycle through the historic old town to the harbor. The highlight of the tour is the ride along the coast to the Mürwik Naval School. End the day relaxed at Solitüde beach, where you can enjoy views of the Danish shore.",
+        "tr": "Bisikletle tüm Flensburg Fiyordu'nu keşfedebilirsiniz. Aziz John Kilisesi'nden başlayarak tarihî eski şehirden limana doğru pedal çevirin. Turun en güzel kısmı kıyı boyunca Mürwik Denizcilik Okulu'na yapılan sürüştür. Günü Danimarka kıyısına bakan manzaralar eşliğinde Solitüde plajında rahatlayarak bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -521,6 +541,12 @@
           "Note: In the pedestrian zone, bikes must sometimes be pushed.",
           "Use the bike racks at the central squares.",
           "The route to Mürwik is slightly hilly."
+        ],
+        "tr": [
+          "Fiyort bisiklet yolu suyun harika manzaralarını sunar.",
+          "Not: Yaya bölgesinde bazen bisikletlerin itmeniz gerekebilir.",
+          "Merkezi meydanlardaki bisiklet parklarını kullanın.",
+          "Mürwik'e giden rota hafifçe yokuşludur."
         ]
       }
     },
@@ -547,7 +573,8 @@
             "de": "Parkhaus Südermarkt nutzen.",
             "hu": "Használja a Südermarkt parkolóházat.",
             "ro": "Folosiți parcarea Südermarkt.",
-            "en": "Use the Südermarkt parking garage."
+            "en": "Use the Südermarkt parking garage.",
+            "tr": "Südermarkt otoparkını kullanın."
           }
         },
         {
@@ -565,7 +592,8 @@
             "de": "Zu Fuß vom Parkhaus erreichbar.",
             "hu": "Gyalogosan elérhető a parkolóháztól.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking garage."
+            "en": "Accessible on foot from the parking garage.",
+            "tr": "Otoparktan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -583,7 +611,8 @@
             "de": "Parken direkt am Hafenplatz.",
             "hu": "Parkoljon közvetlenül a kikötő téren.",
             "ro": "Parcați chiar în piața portului.",
-            "en": "Park right at the harbor square."
+            "en": "Park right at the harbor square.",
+            "tr": "Liman meydanında hemen park edin."
           }
         },
         {
@@ -601,7 +630,8 @@
             "de": "Kurzer Spaziergang vom Hafen.",
             "hu": "Rövid séta a kikötőtől.",
             "ro": "Scurtă plimbare din port.",
-            "en": "Short walk from the harbor."
+            "en": "Short walk from the harbor.",
+            "tr": "Limana kısa bir yürüyüş mesafesinde."
           }
         },
         {
@@ -619,7 +649,8 @@
             "de": "Eines der bedeutendsten Renaissanceschlösser Nordeuropas.",
             "hu": "Észak-Európa egyik legjelentősebb reneszánsz kastélya.",
             "ro": "Unul dintre cele mai importante castele renascentiste din Europa de Nord.",
-            "en": "One of North Europe's most significant Renaissance castles."
+            "en": "One of North Europe's most significant Renaissance castles.",
+            "tr": "Kuzey Avrupa'nın en önemli Rönesans kalelerinden biri."
           }
         },
         {
@@ -637,7 +668,8 @@
             "de": "Gute Parkmöglichkeiten vor dem Gelände.",
             "hu": "Jó parkolási lehetőség a terület előtt.",
             "ro": "Posibilități bune de parcare în fața incintei.",
-            "en": "Good parking options in front of the premises."
+            "en": "Good parking options in front of the premises.",
+            "tr": "Tesisin önünde iyi park imkânları."
           }
         }
       ],
@@ -645,7 +677,8 @@
         "de": "Mit dem Auto verbinden Sie das Beste von Flensburg mit einem Ausflug zum Wasserschloss Glücksburg. Morgens erkunden Sie die Altstadt und den Museumshafen zu Fuß, nachdem Sie das Auto zentral geparkt haben. Nachmittags fahren Sie zum beeindruckenden Schloss Glücksburg, bevor Sie auf dem Rückweg die Marineschule Mürwik besuchen und den Blick über die Förde genießen.",
         "hu": "Autóval kombinálhatjuk Flensburg legjavát a közeli Glücksburg vízi kastélyával. Reggel az óvárost és a kikötőt fedezzük fel gyalogosan a központi parkolás után. Délután a lenyűgöző Glücksburg kastélyhoz hajtunk, majd visszafelé útba ejtjük a mürwiki tengerészeti iskolát, ahonnan csodás kilátás nyílik a fjordra.",
         "ro": "Cu mașina combinați ce este mai bun în Flensburg cu o excursie la castelul Glücksburg. Dimineața explorați orașul vechi și portul muzeu pe jos, după ce parcați central. După-amiaza conduceți spre impresionantul castel Glücksburg, înainte de a vizita Școala Navală Mürwik la întoarcere.",
-        "en": "By car, you combine the best of Flensburg with a trip to Glücksburg Castle. In the morning, explore the old town and the museum harbor on foot after parking centrally. In the afternoon, drive to the impressive Glücksburg Castle before visiting the Mürwik Naval School on the way back to enjoy views over the fjord."
+        "en": "By car, you combine the best of Flensburg with a trip to Glücksburg Castle. In the morning, explore the old town and the museum harbor on foot after parking centrally. In the afternoon, drive to the impressive Glücksburg Castle before visiting the Mürwik Naval School on the way back to enjoy views over the fjord.",
+        "tr": "Arabayla Flensburg'un en iyilerini Glorysburg (Glücksburg) Kalesi gezisiyle birleştirebilirsiniz. Sabah merkezde park ettikten sonra eski şehri ve müze limanını yürüyerek keşfedin. Öğleden sonra etkileyici Glücksburg Kalesi'ne sürün, dönüş yolunda Mürwik Denizcilik Okulu'nu ziyaret ederek fiyordu seyredin."
       },
       "gastro_picks": {
         "de": [
@@ -753,6 +786,12 @@
           "The drive to Glücksburg takes about 15-20 minutes.",
           "For the old town, it's best to park in the 'Südermarkt' garage.",
           "Watch out for parking fees near the harbor."
+        ],
+        "tr": [
+          "Şehir merkezindeki park yönlendirme sistemi çok yardımcıdır.",
+          "Glücksburg'a sürüş yaklaşık 15–20 dakika sürer.",
+          "Eski kent için en iyisi 'Südermarkt' otoparkına park etmektir.",
+          "Liman yakınlarında park ücretlerine dikkat edin."
         ]
       }
     },
@@ -779,7 +818,8 @@
             "de": "Startpunkt an der Bushaltestelle Nordertor.",
             "hu": "Kiindulópont a Nordertor buszmegállónál.",
             "ro": "Punct de plecare la stația de autobuz Nordertor.",
-            "en": "Starting point at the Nordertor bus stop."
+            "en": "Starting point at the Nordertor bus stop.",
+            "tr": "Nordertor otobüs durağında başlangıç noktası."
           }
         },
         {
@@ -797,7 +837,8 @@
             "de": "Direkt neben dem Nordertor zu Fuß erreichbar.",
             "hu": "Közvetlenül a Nordertor mellett, gyalog elérhető.",
             "ro": "Accesibil pe jos, chiar lângă Nordertor.",
-            "en": "Accessible on foot right next to Nordertor."
+            "en": "Accessible on foot right next to Nordertor.",
+            "tr": "Nordertor hemen yanı başında yaya olarak ulaşılabilir."
           }
         },
         {
@@ -815,7 +856,8 @@
             "de": "Mit dem Bus zum ZOB und kurzer Fußweg.",
             "hu": "Busszal a központi állomásig (ZOB), majd rövid séta.",
             "ro": "Cu autobuzul până la ZOB și o scurtă plimbare.",
-            "en": "By bus to the central station (ZOB) and a short walk."
+            "en": "By bus to the central station (ZOB) and a short walk.",
+            "tr": "Otobüsle merkezi istasyona (ZOB) ve kısa bir yürüyüşle ulaşılır."
           }
         },
         {
@@ -833,7 +875,8 @@
             "de": "Das Südende der historischen Meile.",
             "hu": "A történelmi mérföld déli vége.",
             "ro": "Capătul sudic al milei istorice.",
-            "en": "The southern end of the historical mile."
+            "en": "The southern end of the historical mile.",
+            "tr": "Tarihi milin güney ucu."
           }
         },
         {
@@ -851,7 +894,8 @@
             "de": "Buslinie 3 oder 7 Richtung Mürwik nehmen.",
             "hu": "Válassza a 3-as vagy 7-es buszt Mürwik felé.",
             "ro": "Luați linia de autobuz 3 sau 7 spre Mürwik.",
-            "en": "Take bus line 3 or 7 towards Mürwik."
+            "en": "Take bus line 3 or 7 towards Mürwik.",
+            "tr": "Mürwik yönüne 3 veya 7 numaralı otobüsü kullanın."
           }
         }
       ],
@@ -859,7 +903,8 @@
         "de": "Dank des gut ausgebauten Busnetzes erreichen Sie alle wichtigen Punkte Flensburgs stressfrei. Beginnen Sie im Norden am Stadttor und dem Phänomenta. Mit dem Bus geht es weiter ins Zentrum zum Hafen und zur Roten Straße. Ein besonderes Erlebnis ist die Fahrt nach Mürwik, um die monumentale Marineschule direkt an der Förde zu besichtigen.",
         "hu": "A jól kiépített buszhálózatnak köszönhetően stresszmentesen érhetjük el Flensburg minden fontos pontját. Kezdjünk északon a városkapunál és a Phänomenta-nál. Busszal megyünk tovább a központba, a kikötőhöz és a Rote Straße-hoz. Különleges élmény a mürwiki utazás, ahol a közvetlenül a fjord partján álló monumentális tengerészeti iskolát nézhetjük meg.",
         "ro": "Datorită rețelei de autobuze bine dezvoltate, ajungeți la toate punctele importante din Flensburg fără stres. Începeți în nord, la poarta orașului și Phänomenta. Continuați cu autobuzul spre centru, la port și pe Rote Straße. O experiență specială este drumul spre Mürwik pentru a vizita școala navală monumentală direct pe fiord.",
-        "en": "Thanks to the well-developed bus network, you can reach all important points of Flensburg stress-free. Start in the north at the city gate and Phänomenta. Continue by bus to the center to the harbor and Rote Straße. A special experience is the trip to Mürwik to visit the monumental naval school right on the fjord."
+        "en": "Thanks to the well-developed bus network, you can reach all important points of Flensburg stress-free. Start in the north at the city gate and Phänomenta. Continue by bus to the center to the harbor and Rote Straße. A special experience is the trip to Mürwik to visit the monumental naval school right on the fjord.",
+        "tr": "Gelişmiş otobüs ağı sayesinde Flensburg'un tüm önemli noktalarına sorunsuz ulaşabilirsiniz. Kuzeyde şehir kapısı ve Phänomenta'da başlayın. Daha sonra merkeze, limana ve Rote Straße'ye otobüsle devam edin. Özel bir deneyim için fiyorda yer alan anıtsal denizcilik okulunu görmek üzere Mürwik'e yapılan geziyi deneyin."
       },
       "gastro_picks": {
         "de": [
@@ -967,6 +1012,12 @@
           "Buy a day ticket for unlimited travel.",
           "Buses run frequently during the day.",
           "Lines 3 and 7 are ideal for trips along the fjord."
+        ],
+        "tr": [
+          "ZOB tüm hatların merkezi aktarma noktasıdır.",
+          "Sınırsız seyahat için günlük bilet alın.",
+          "Gün boyunca otobüsler sık çalışır.",
+          "3 ve 7 numaralı hatlar fiyort boyunca geziler için idealdir."
         ]
       }
     }

@@ -3,55 +3,64 @@
     "de": "Werner-Heisenberg-Allee 25, 80939 München",
     "hu": "Werner-Heisenberg-Allee 25, 80939 München",
     "ro": "Werner-Heisenberg-Allee 25, 80939 München",
-    "en": "Werner-Heisenberg-Allee 25, 80939 München"
+    "en": "Werner-Heisenberg-Allee 25, 80939 München",
+    "tr": "Werner-Heisenberg-Allee 25, 80939 München"
   },
   "openingHours": {
     "de": "Täglich 10:00-18:00 (außer an Spieltagen)",
     "hu": "Naponta 10:00-18:00 (kivéve mérkőzésnapokon)",
     "ro": "Zilnic 10:00-18:00 (cu excepția zilelor cu meciuri)",
-    "en": "Daily 10:00-18:00 (except on match days)"
+    "en": "Daily 10:00-18:00 (except on match days)",
+    "tr": "Günlük 10:00-18:00 (maç günleri hariç)"
   },
   "entranceFee": {
     "de": "Kombipaket Tour & Museum ca. 19€ Erwachsene, 11€ Kinder",
     "hu": "Kombinált túra és múzeumjegy kb. 19 € felnőttek, 11 € gyermekek",
     "ro": "Pachet combinat tur și muzeu aprox. 19 € adulți, 11 € copii",
-    "en": "Combo tour & museum ticket approx. €19 adults, €11 children"
+    "en": "Combo tour & museum ticket approx. €19 adults, €11 children",
+    "tr": "Kombine tur ve müze bileti yaklaşık €19 yetişkin, €11 çocuk"
   },
   "website": "https://allianz-arena.com",
   "publicTransport": {
     "de": "U6 bis Haltestelle Fröttmaning, dann ca. 15 Min. Fußweg",
     "hu": "U6 a Fröttmaning megállóig, majd kb. 15 perc séta",
     "ro": "U6 până la stația Fröttmaning, apoi aprox. 15 minute pe jos",
-    "en": "U6 to Fröttmaning stop, then approx. 15-minute walk"
+    "en": "U6 to Fröttmaning stop, then approx. 15-minute walk",
+    "tr": "U6 ile Fröttmaning durağına, sonra yaklaşık 15 dakikalık yürüme mesafesi"
   },
   "parking": {
     "de": "Große Parkhäuser P1-P3, Pauschale ca. 10€ (an Spieltagen deutlich teurer).",
     "hu": "Nagy P1-P3 parkolóházak, átalány kb. 10 € (mérkőzésnapokon lényegesen drágább)",
     "ro": "Parcări mari P1-P3, tarif fix aprox. 10 € (semnificativ mai scump în zilele cu meciuri)",
-    "en": "Large parking garages P1-P3, flat rate approx. €10 (significantly more expensive on match days)"
+    "en": "Large parking garages P1-P3, flat rate approx. €10 (significantly more expensive on match days)",
+    "tr": "Büyük P1-P3 otopark garajları, düz tarife yaklaşık €10 (maç günlerinde önemli ölçüde daha pahalı)"
   },
   "accessibility": {
     "de": "Komplett barrierefrei mit Aufzügen zu allen Ebenen und Rollstuhlplätzen.",
     "hu": "Teljesen akadálymentes, liftek minden szintre és kerekesszékes helyek biztosítottak.",
     "ro": "Complet accesibil, cu lifturi către toate nivelurile și locuri pentru scaune cu rotile.",
-    "en": "Completely accessible with elevators to all levels and wheelchair spaces."
+    "en": "Completely accessible with elevators to all levels and wheelchair spaces.",
+    "tr": "Tüm katlara asansörlerle tamamen erişilebilir ve tekerlekli sandalye alanları bulunur."
   },
   "photoRules": {
     "de": "Privat erlaubt, Profi-Equipment und kommerzielle Aufnahmen verboten.",
     "hu": "Magáncélra megengedett, profi felszerelés és kereskedelmi felvételek tilosak.",
     "ro": "Permis în scop privat, echipamentul profesional și filmările comerciale sunt interzise.",
-    "en": "Privately allowed, professional equipment and commercial shots forbidden."
+    "en": "Privately allowed, professional equipment and commercial shots forbidden.",
+    "tr": "Özel çekimler izinli, profesyonel ekipman ve ticari çekimler yasak."
   },
   "bestTimeToVisit": {
     "de": "An spielfreien Tagen vormittags für die besten Stadiontouren.",
     "hu": "Mérkőzésmentes napokon délelőtt a legjobb stadiontúrákért.",
     "ro": "Dimineața în zilele fără meciuri pentru cele mai bune tururi ale stadionului.",
-    "en": "On non-match days in the morning for the best stadium tours."
+    "en": "On non-match days in the morning for the best stadium tours.",
+    "tr": "En iyi stadyum turları için maç olmayan sabah saatleri."
   },
   "audioGuide": {
     "de": "Deutsch, Englisch",
     "hu": "német, angol",
     "ro": "germană, engleză",
-    "en": "German, English"
+    "en": "German, English",
+    "tr": "Almanca, İngilizce"
   }
 }

@@ -21,7 +21,8 @@
             "de": "Altpörtel",
             "hu": "Altpörtel várostorony",
             "ro": "Altpörtel",
-            "en": "Altpörtel Gate"
+            "en": "Altpörtel Gate",
+            "tr": "Altpörtel Kapısı"
           },
           "coords": [
             8.432,
@@ -36,7 +37,8 @@
             "de": "Blick vom Turm über die Stadt genießen.",
             "hu": "Mássz fel a kilátásért a főutcára.",
             "ro": "Urcați în turn pentru o panoramă superbă.",
-            "en": "Climb for a great view over the main street."
+            "en": "Climb for a great view over the main street.",
+            "tr": "Ana caddeye geniş bir görünüm için tırmanın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Maximilianstraße",
             "hu": "Maximilianstraße",
             "ro": "Maximilianstraße",
-            "en": "Maximilianstrasse"
+            "en": "Maximilianstrasse",
+            "tr": "Maximilianstrasse"
           },
           "coords": [
             8.437,
@@ -60,7 +63,8 @@
             "de": "Die prachtvolle Hauptstraße entlangschlendern.",
             "hu": "Speyer pezsgő bevásárlóutcája.",
             "ro": "Strada principală plină de cafenele.",
-            "en": "Stroll down the vibrant main shopping street."
+            "en": "Stroll down the vibrant main shopping street.",
+            "tr": "Canlı ana alışveriş caddesinde yürüyün."
           }
         },
         {
@@ -68,7 +72,8 @@
             "de": "Dreifaltigkeitskirche",
             "hu": "Szentháromság-templom",
             "ro": "Biserica Sfânta Treime",
-            "en": "Trinity Church"
+            "en": "Trinity Church",
+            "tr": "Üçleme Kilisesi"
           },
           "coords": [
             8.437,
@@ -84,7 +89,8 @@
             "de": "Bewundern Sie die hölzerne Barockausstattung.",
             "hu": "Különleges fa barokk belső tér.",
             "ro": "Interior baroc superb din lemn.",
-            "en": "Admire the unique wooden baroque interior."
+            "en": "Admire the unique wooden baroque interior.",
+            "tr": "Eşsiz ahşap barok iç mekanı hayranlıkla izleyin."
           }
         },
         {
@@ -92,7 +98,8 @@
             "de": "Judenhof",
             "hu": "Zsidó udvar (Mikve)",
             "ro": "Curtea Evreiască",
-            "en": "Judenhof"
+            "en": "Judenhof",
+            "tr": "Judenhof"
           },
           "coords": [
             8.439,
@@ -108,7 +115,8 @@
             "de": "Besuchen Sie das mittelalterliche Ritualbad.",
             "hu": "Középkori rituális fürdő (mikve).",
             "ro": "Baia rituală medievală bine conservată.",
-            "en": "Visit the well-preserved medieval ritual bath."
+            "en": "Visit the well-preserved medieval ritual bath.",
+            "tr": "İyi korunmuş ortaçağ ritüel hamamını ziyaret edin."
           }
         },
         {
@@ -116,7 +124,8 @@
             "de": "Historisches Museum der Pfalz",
             "hu": "Pfalzi Történeti Múzeum",
             "ro": "Muzeul Istoric al Palatinatului",
-            "en": "Historical Museum of the Palatinate"
+            "en": "Historical Museum of the Palatinate",
+            "tr": "Palatinate Tarih Müzesi"
           },
           "coords": [
             8.44,
@@ -132,7 +141,8 @@
             "de": "Der Domschatz ist ein Muss.",
             "hu": "A dómkincs kiállítása kötelező látnivaló.",
             "ro": "Tezaurul catedralei este fascinant.",
-            "en": "The cathedral treasury is a highlight."
+            "en": "The cathedral treasury is a highlight.",
+            "tr": "Katedral hazinesi bir dönüm noktasıdır."
           }
         },
         {
@@ -140,7 +150,8 @@
             "de": "Speyerer Dom",
             "hu": "Speyer-i dóm",
             "ro": "Catedrala din Speyer",
-            "en": "Speyer Cathedral"
+            "en": "Speyer Cathedral",
+            "tr": "Speyer Katedrali"
           },
           "coords": [
             8.442,
@@ -156,7 +167,8 @@
             "de": "UNESCO-Welterbe und Kryptabesichtigung.",
             "hu": "Világörökségi helyszín, nézd meg a kriptát.",
             "ro": "Patrimoniu UNESCO, vizitați cripta imperială.",
-            "en": "UNESCO heritage, visit the imperial crypt."
+            "en": "UNESCO heritage, visit the imperial crypt.",
+            "tr": "UNESCO mirası, imparatorluk kriptasını ziyaret edin."
           }
         },
         {
@@ -164,7 +176,8 @@
             "de": "Rheinuferpromenade",
             "hu": "Rajna-parti sétány",
             "ro": "Promenada de pe malul Rinului",
-            "en": "Rhine River Promenade"
+            "en": "Rhine River Promenade",
+            "tr": "Ren Nehri Kordonu"
           },
           "coords": [
             8.448,
@@ -180,7 +193,8 @@
             "de": "Entspannung am Wasser zum Abschluss.",
             "hu": "Pihenés a folyóparton a nap végén.",
             "ro": "Relaxare pe malul râului la final de zi.",
-            "en": "Relax by the river to end your tour."
+            "en": "Relax by the river to end your tour.",
+            "tr": "Turunuzu bitirmek için nehir kenarında dinlenin."
           }
         }
       ],
@@ -188,7 +202,8 @@
         "de": "Ihr Tag beginnt am Altpörtel, dem mittelalterlichen Stadttor. Von dort spazieren Sie die Maximilianstraße entlang zum Judenhof und den bedeutenden Museen. Der Höhepunkt ist der kaiserliche Dom, bevor Sie den Nachmittag entspannt am Rheinufer ausklingen lassen.",
         "hu": "A nap az Altpörtel középkori kapujánál indul, majd a hangulatos Maximilianstraßén át vezet a Zsidó udvarhoz és a múzeumokhoz. A csúcspont a monumentális Speyer-i dóm, a napot pedig egy kellemes Rajna-parti sétával zárjuk.",
         "ro": "Ziua începe la poarta medievală Altpörtel. De acolo, vă plimbați pe Maximilianstraße către Curtea Evreiască și muzeele istorice. Punctul culminant este impunătoarea catedrală imperială, urmată de o seară relaxantă pe malul Rinului.",
-        "en": "Start your day at the medieval Altpörtel gate. Walk down Maximilianstrasse to explore the Judenhof and the historical museums. The highlight is the massive Speyer Cathedral, finishing with a peaceful stroll along the banks of the Rhine."
+        "en": "Start your day at the medieval Altpörtel gate. Walk down Maximilianstrasse to explore the Judenhof and the historical museums. The highlight is the massive Speyer Cathedral, finishing with a peaceful stroll along the banks of the Rhine.",
+        "tr": "Gününüzü ortaçağ Altpörtel kapısında başlatın. Maximilianstrasse boyunca yürüyüp Judenhof ve tarihî müzeleri keşfedin. Zirve noktası devasa Speyer Katedrali; turu Ren kıyısında huzurlu bir yürüyüşle tamamlayın."
       },
       "gastro_picks": {
         "de": [
@@ -292,6 +307,11 @@
           "Speyer is very compact; almost everything is within walking distance.",
           "Buy a combined ticket for the Cathedral and Judenhof.",
           "Maximilianstrasse is especially lively on Saturdays due to the market."
+        ],
+        "tr": [
+          "Speyer çok kompakt; neredeyse her şey yürüme mesafesindedir.",
+          "Katedral ve Judenhof için kombine bilet alın.",
+          "Maximilianstrasse özellikle Cumartesi günleri pazar nedeniyle canlıdır."
         ]
       }
     },
@@ -308,7 +328,8 @@
             "de": "Gedächtniskirche",
             "hu": "Emléktemplom",
             "ro": "Biserica Memorială",
-            "en": "Memorial Church"
+            "en": "Memorial Church",
+            "tr": "Anma Kilisesi"
           },
           "coords": [
             8.43,
@@ -323,7 +344,8 @@
             "de": "Bewundern Sie die bunten Glasfenster.",
             "hu": "Csodálatos színes üvegablakok.",
             "ro": "Admirați vitraliile colorate superbe.",
-            "en": "Admire the beautiful stained glass windows."
+            "en": "Admire the beautiful stained glass windows.",
+            "tr": "Güzel vitray pencereleri hayranlıkla izleyin."
           }
         },
         {
@@ -331,7 +353,8 @@
             "de": "Altpörtel",
             "hu": "Altpörtel",
             "ro": "Altpörtel",
-            "en": "Altpörtel"
+            "en": "Altpörtel",
+            "tr": "Altpörtel"
           },
           "coords": [
             8.432,
@@ -347,7 +370,8 @@
             "de": "Kurzer Stopp am höchsten Torturm Deutschlands.",
             "hu": "Rövid megálló Németország egyik legmagasabb kapujánál.",
             "ro": "Scurt popas la cea mai înaltă poartă din Germania.",
-            "en": "Quick stop at one of Germany's highest city gates."
+            "en": "Quick stop at one of Germany's highest city gates.",
+            "tr": "Almanya'nın en yüksek şehir kapılarından birinde kısa bir mola."
           }
         },
         {
@@ -355,7 +379,8 @@
             "de": "Speyerer Dom",
             "hu": "Speyer-i dóm",
             "ro": "Catedrala din Speyer",
-            "en": "Speyer Cathedral"
+            "en": "Speyer Cathedral",
+            "tr": "Speyer Katedrali"
           },
           "coords": [
             8.442,
@@ -371,7 +396,8 @@
             "de": "Fahrrad am Domnapf abstellen.",
             "hu": "Parkolj le a Domnapf tál mellett.",
             "ro": "Lăsați bicicleta lângă vasul de piatră Domnapf.",
-            "en": "Park your bike near the Domnapf stone bowl."
+            "en": "Park your bike near the Domnapf stone bowl.",
+            "tr": "Bisikletinizi Domnapf taş kâsesi yakınında park edin."
           }
         },
         {
@@ -379,7 +405,8 @@
             "de": "Technik Museum Speyer",
             "hu": "Speyer-i Műszaki Múzeum",
             "ro": "Muzeul Tehnicii Speyer",
-            "en": "Speyer Technical Museum"
+            "en": "Speyer Technical Museum",
+            "tr": "Speyer Teknik Müzesi"
           },
           "coords": [
             8.447,
@@ -395,7 +422,8 @@
             "de": "Buran-Raumfähre und Boeing 747 begehen.",
             "hu": "Járd be a Buran űrsiklót és a Boeing 747-est.",
             "ro": "Vizitați naveta Buran și Boeing-ul 747.",
-            "en": "Board the Buran space shuttle and a Boeing 747."
+            "en": "Board the Buran space shuttle and a Boeing 747.",
+            "tr": "Buran uzay mekiği ve bir Boeing 747’i gezinin."
           }
         },
         {
@@ -403,7 +431,8 @@
             "de": "Sea Life Speyer",
             "hu": "Sea Life Speyer",
             "ro": "Sea Life Speyer",
-            "en": "Sea Life Speyer"
+            "en": "Sea Life Speyer",
+            "tr": "Sea Life Speyer"
           },
           "coords": [
             8.45,
@@ -419,7 +448,8 @@
             "de": "Unterwassertunnel durchlaufen.",
             "hu": "Sétálj át a víz alatti alagúton.",
             "ro": "Parcurgeți tunelul subacvatic.",
-            "en": "Walk through the underwater tunnel."
+            "en": "Walk through the underwater tunnel.",
+            "tr": "Su altı tünelinde yürüyün."
           }
         },
         {
@@ -427,7 +457,8 @@
             "de": "Rheinuferpromenade",
             "hu": "Rajna-parti sétány",
             "ro": "Promenada Rinului",
-            "en": "Rhine Promenade"
+            "en": "Rhine Promenade",
+            "tr": "Ren Kordonu"
           },
           "coords": [
             8.449,
@@ -443,7 +474,8 @@
             "de": "Schöne Radstrecke direkt am Fluss.",
             "hu": "Kellemes kerékpáros szakasz a folyó mentén.",
             "ro": "Traseu frumos cu bicicleta de-a lungul râului.",
-            "en": "Nice cycling section directly along the river."
+            "en": "Nice cycling section directly along the river.",
+            "tr": "Nehir boyunca doğrudan güzel bir bisiklet bölümü."
           }
         }
       ],
@@ -451,7 +483,8 @@
         "de": "Mit dem Rad erkunden Sie Speyer weitläufiger. Von der neugotischen Gedächtniskirche geht es zum Dom und dann zum beeindruckenden Technik Museum. Zum Abschluss genießen Sie eine entspannte Fahrt entlang der Rheinuferpromenade.",
         "hu": "Kerékpárral Speyer távolabbi pontjait is felfedezheti. A neogótikus Emléktemplomtól a dómhoz, majd a lenyűgöző Műszaki Múzeumhoz tekerünk. A napot egy pihentető Rajna-parti bringázással zárjuk.",
         "ro": "Explorați Speyer pe bicicletă pentru a vedea mai mult. De la Biserica Memorială neogotică mergem la catedrală și apoi la impresionantul Muzeu al Tehnicii. Finalizăm cu o plimbare relaxantă de-a lungul Rinului.",
-        "en": "Explore Speyer more extensively by bike. From the neo-Gothic Memorial Church to the Cathedral and then to the impressive Technical Museum. Finish with a relaxing ride along the Rhine promenade."
+        "en": "Explore Speyer more extensively by bike. From the neo-Gothic Memorial Church to the Cathedral and then to the impressive Technical Museum. Finish with a relaxing ride along the Rhine promenade.",
+        "tr": "Speyer’i bisikletle daha geniş keşfedin. Neo-Gotik Anıt Kilise’den Katedrale ve ardından etkileyici Teknik Müzesi’ne gidin. Gezinin sonunu Ren kordonunda rahat bir sürüşle yapın."
       },
       "gastro_picks": {
         "de": [
@@ -555,6 +588,11 @@
           "The Rhine banks offer perfectly developed cycling paths.",
           "There are numerous secure bike racks near the Cathedral.",
           "The route to the Technical Museum is very short and flat."
+        ],
+        "tr": [
+          "Ren kıyıları mükemmel gelişmiş bisiklet yolları sunuyor.",
+          "Katedral yakınında çok sayıda güvenli bisiklet park yeri var.",
+          "Teknik Müze’ye giden rota çok kısa ve düz."
         ]
       }
     },
@@ -571,7 +609,8 @@
             "de": "Altpörtel (Cluster A)",
             "hu": "Altpörtel (A Klaszter)",
             "ro": "Altpörtel (Cluster A)",
-            "en": "Altpörtel (Cluster A)"
+            "en": "Altpörtel (Cluster A)",
+            "tr": "Altpörtel (Küme A)"
           },
           "coords": [
             8.432,
@@ -586,7 +625,8 @@
             "de": "Parkhaus Postplatz nutzen.",
             "hu": "Használd a Postplatz parkolóházat.",
             "ro": "Folosiți parcarea de la Postplatz.",
-            "en": "Use the Postplatz parking garage."
+            "en": "Use the Postplatz parking garage.",
+            "tr": "Postplatz otoparkını kullanın."
           }
         },
         {
@@ -594,7 +634,8 @@
             "de": "Maximilianstraße",
             "hu": "Maximilianstraße",
             "ro": "Maximilianstraße",
-            "en": "Maximilianstrasse"
+            "en": "Maximilianstrasse",
+            "tr": "Maximilianstrasse"
           },
           "coords": [
             8.435,
@@ -610,7 +651,8 @@
             "de": "Schaufensterbummel im Zentrum.",
             "hu": "Nézelődés a belvárosban.",
             "ro": "Plimbare prin vitrinele din centru.",
-            "en": "Window shopping in the center."
+            "en": "Window shopping in the center.",
+            "tr": "Merkezde vitrin gezintisi."
           }
         },
         {
@@ -618,7 +660,8 @@
             "de": "Historisches Museum (Cluster B)",
             "hu": "Történeti Múzeum (B Klaszter)",
             "ro": "Muzeul Istoric (Cluster B)",
-            "en": "Historical Museum (Cluster B)"
+            "en": "Historical Museum (Cluster B)",
+            "tr": "Tarihi Müze (Küme B)"
           },
           "coords": [
             8.44,
@@ -634,7 +677,8 @@
             "de": "Parkplatz Festplatz ist ideal.",
             "hu": "A Festplatz parkoló az ideális választás.",
             "ro": "Parcarea Festplatz este ideală aici.",
-            "en": "Festplatz parking is ideal for this cluster."
+            "en": "Festplatz parking is ideal for this cluster.",
+            "tr": "Festplatz otoparkı bu küme için ideal."
           }
         },
         {
@@ -642,7 +686,8 @@
             "de": "Judenhof",
             "hu": "Judenhof",
             "ro": "Judenhof",
-            "en": "Judenhof"
+            "en": "Judenhof",
+            "tr": "Judenhof"
           },
           "coords": [
             8.439,
@@ -658,7 +703,8 @@
             "de": "Direkt neben dem Museum.",
             "hu": "Közvetlenül a múzeum mellett.",
             "ro": "Chiar lângă muzeu.",
-            "en": "Right next to the museum."
+            "en": "Right next to the museum.",
+            "tr": "Müzenin hemen yanında."
           }
         },
         {
@@ -666,7 +712,8 @@
             "de": "Speyerer Dom",
             "hu": "Speyer-i dóm",
             "ro": "Catedrala Speyer",
-            "en": "Speyer Cathedral"
+            "en": "Speyer Cathedral",
+            "tr": "Speyer Katedrali"
           },
           "coords": [
             8.442,
@@ -682,7 +729,8 @@
             "de": "Hauptattraktion von Speyer.",
             "hu": "Speyer legfőbb látnivalója.",
             "ro": "Atracția principală din Speyer.",
-            "en": "Main attraction of Speyer."
+            "en": "Main attraction of Speyer.",
+            "tr": "Speyer’in ana cazibe merkezi."
           }
         },
         {
@@ -690,7 +738,8 @@
             "de": "Technik Museum (Cluster C)",
             "hu": "Műszaki Múzeum (C Klaszter)",
             "ro": "Muzeul Tehnicii (Cluster C)",
-            "en": "Technical Museum (Cluster C)"
+            "en": "Technical Museum (Cluster C)",
+            "tr": "Teknik Müze (Küme C)"
           },
           "coords": [
             8.447,
@@ -706,7 +755,8 @@
             "de": "Großer hauseigener Parkplatz.",
             "hu": "Nagy saját parkoló áll rendelkezésre.",
             "ro": "Parcare proprie mare disponibilă.",
-            "en": "Large on-site parking available."
+            "en": "Large on-site parking available.",
+            "tr": "Büyük yerinde otopark mevcut."
           }
         },
         {
@@ -714,7 +764,8 @@
             "de": "Sea Life Speyer",
             "hu": "Sea Life Speyer",
             "ro": "Sea Life Speyer",
-            "en": "Sea Life Speyer"
+            "en": "Sea Life Speyer",
+            "tr": "Sea Life Speyer"
           },
           "coords": [
             8.45,
@@ -730,7 +781,8 @@
             "de": "Kombinierbar mit Technik Museum.",
             "hu": "Kombinálható a Műszaki Múzeummal.",
             "ro": "Se poate combina cu Muzeul Tehnicii.",
-            "en": "Can be combined with Technical Museum visit."
+            "en": "Can be combined with Technical Museum visit.",
+            "tr": "Teknik Müze ziyareti ile birleştirilebilir."
           }
         }
       ],
@@ -738,7 +790,8 @@
         "de": "Erleben Sie Speyer komfortabel mit dem Auto in Clustern. Zuerst das historische Zentrum am Altpörtel, dann der Dom-Bereich mit seinen Museen und zum Abschluss die Welt der Technik und Meeresbewohner im Süden der Stadt.",
         "hu": "Fedezze fel Speyert kényelmesen, autóval, klaszterekre bontva. Először az Altpörtel környéki történelmi központot, majd a dóm és a múzeumok területét, végül a technika és a tengeri világ csodáit látogatjuk meg.",
         "ro": "Experimentați Speyer confortabil cu mașina, în grupuri de obiective. Mai întâi centrul istoric la Altpörtel, apoi zona catedralei cu muzeele sale și, la final, lumea tehnicii și a creaturilor marine în sudul orașului.",
-        "en": "Experience Speyer comfortably by car using clusters. First, the historic center near Altpörtel, then the Cathedral area with its museums, and finally the world of technology and sea life in the south of the city."
+        "en": "Experience Speyer comfortably by car using clusters. First, the historic center near Altpörtel, then the Cathedral area with its museums, and finally the world of technology and sea life in the south of the city.",
+        "tr": "Speyer’i rahatça araba ile kümeler kullanarak keşfedin. Önce Altpörtel yakınındaki tarihi merkez, sonra müzeli Katedral bölgesi ve son olarak kentin güneyindeki teknoloji ve deniz yaşamı dünyası."
       },
       "gastro_picks": {
         "de": [
@@ -842,6 +895,11 @@
           "The Festplatz parking lot is the best starting point for the Cathedral.",
           "Speyer has a well-functioning parking guidance system.",
           "In cluster C, park directly at the Technical Museum."
+        ],
+        "tr": [
+          "Festplatz otoparkı Katedral için en iyi başlangıç noktasıdır.",
+          "Speyer iyi işleyen bir otopark yönlendirme sistemine sahip.",
+          "C kümesinde, doğrudan Teknik Müze önüne park edin."
         ]
       }
     },
@@ -858,7 +916,8 @@
             "de": "Altpörtel",
             "hu": "Altpörtel",
             "ro": "Altpörtel",
-            "en": "Altpörtel"
+            "en": "Altpörtel",
+            "tr": "Altpörtel"
           },
           "coords": [
             8.432,
@@ -873,7 +932,8 @@
             "de": "Bushaltestelle Postplatz nutzen.",
             "hu": "Használd a Postplatz buszmegállót.",
             "ro": "Folosiți stația de autobuz Postplatz.",
-            "en": "Use the Postplatz bus stop."
+            "en": "Use the Postplatz bus stop.",
+            "tr": "Postplatz otobüs durağını kullanın."
           }
         },
         {
@@ -881,7 +941,8 @@
             "de": "Gedächtniskirche",
             "hu": "Emléktemplom",
             "ro": "Biserica Memorială",
-            "en": "Memorial Church"
+            "en": "Memorial Church",
+            "tr": "Anıt Kilise"
           },
           "coords": [
             8.43,
@@ -897,7 +958,8 @@
             "de": "Wichtiger Ort der Protestationsgeschichte.",
             "hu": "A protestantizmus történetének fontos helyszíne.",
             "ro": "Loc important al istoriei protestante.",
-            "en": "Important site for Reformation history."
+            "en": "Important site for Reformation history.",
+            "tr": "Reform tarihi için önemli bir mekân."
           }
         },
         {
@@ -905,7 +967,8 @@
             "de": "Speyerer Dom",
             "hu": "Speyer-i dóm",
             "ro": "Catedrala Speyer",
-            "en": "Speyer Cathedral"
+            "en": "Speyer Cathedral",
+            "tr": "Speyer Katedrali"
           },
           "coords": [
             8.442,
@@ -921,7 +984,8 @@
             "de": "Linie 565 hält in der Nähe.",
             "hu": "Az 565-ös busz megáll a közelben.",
             "ro": "Linia 565 oprește în apropiere.",
-            "en": "Bus line 565 stops nearby."
+            "en": "Bus line 565 stops nearby.",
+            "tr": "565 numaralı otobüs hattı yakında durur."
           }
         },
         {
@@ -929,7 +993,8 @@
             "de": "Judenhof",
             "hu": "Zsidó udvar",
             "ro": "Judenhof",
-            "en": "Judenhof"
+            "en": "Judenhof",
+            "tr": "Judenhof"
           },
           "coords": [
             8.439,
@@ -945,7 +1010,8 @@
             "de": "Zu Fuß vom Dom erreichbar.",
             "hu": "A dómtól gyalog is könnyen elérhető.",
             "ro": "Accesibil pe jos de la catedrală.",
-            "en": "Accessible on foot from the cathedral."
+            "en": "Accessible on foot from the cathedral.",
+            "tr": "Katedralden yürüme mesafesinde erişilebilir."
           }
         },
         {
@@ -953,7 +1019,8 @@
             "de": "Technik Museum Speyer",
             "hu": "Technikai Múzeum",
             "ro": "Muzeul Tehnicii",
-            "en": "Technical Museum"
+            "en": "Technical Museum",
+            "tr": "Teknik Müze"
           },
           "coords": [
             8.447,
@@ -969,7 +1036,8 @@
             "de": "Haltestelle direkt am Museum.",
             "hu": "Megálló közvetlenül a múzeumnál.",
             "ro": "Stație chiar în fața muzeului.",
-            "en": "Stop located right at the museum."
+            "en": "Stop located right at the museum.",
+            "tr": "Durak müzenin hemen önünde yer alır."
           }
         },
         {
@@ -977,7 +1045,8 @@
             "de": "Rheinuferpromenade",
             "hu": "Rajna-part",
             "ro": "Promenada Rinului",
-            "en": "Rhine Promenade"
+            "en": "Rhine Promenade",
+            "tr": "Ren Kordonu"
           },
           "coords": [
             8.449,
@@ -993,7 +1062,8 @@
             "de": "Schöner Spaziergang zum Bus zurück.",
             "hu": "Szép séta vissza a buszhoz.",
             "ro": "Plimbare frumoasă înapoi spre autobuz.",
-            "en": "Nice walk back to the bus."
+            "en": "Nice walk back to the bus.",
+            "tr": "Otobüse güzel bir dönüş yürüyüşü."
           }
         }
       ],
@@ -1001,7 +1071,8 @@
         "de": "Nutzen Sie den City-Shuttle und lokale Busse, um Speyer zu entdecken. Beginnen Sie im Westen am Altpörtel, fahren Sie zum Domplatz und beenden Sie Ihren Ausflug im Süden beim Technik Museum und am Rhein.",
         "hu": "Használja a városi shuttle-t és a helyi buszokat Speyer felfedezéséhez. Kezdjen nyugaton az Altpörtelnél, utazzon a Domplatzra, és zárja kirándulását délen a Műszaki Múzeumnál és a Rajnánál.",
         "ro": "Folosiți City-Shuttle și autobuzele locale pentru a descoperi Speyer. Începeți în vest la Altpörtel, mergeți la Domplatz și încheiați excursia în sud la Muzeul Tehnicii și pe malul Rinului.",
-        "en": "Use the City-Shuttle and local buses to discover Speyer. Start in the west at Altpörtel, ride to Domplatz, and finish your trip in the south at the Technical Museum and by the Rhine."
+        "en": "Use the City-Shuttle and local buses to discover Speyer. Start in the west at Altpörtel, ride to Domplatz, and finish your trip in the south at the Technical Museum and by the Rhine.",
+        "tr": "Speyer’i keşfetmek için City-Shuttle ve yerel otobüsleri kullanın. Batıda Altpörtel’de başlayın, Domplatz’a gidin ve gezinizin sonunu güneydeki Teknik Müze ile Ren boyunca yapın."
       },
       "gastro_picks": {
         "de": [
@@ -1105,6 +1176,11 @@
           "The City-Shuttle (line 565) connects the train station with the center.",
           "A VRN day ticket is usually the cheapest option.",
           "Buses run less frequently on weekends; check the schedule."
+        ],
+        "tr": [
+          "City-Shuttle (565 hattı) tren istasyonunu merkezle bağlar.",
+          "Bir VRN günlük bileti genellikle en ucuz seçenektir.",
+          "Hafta sonları otobüsler daha seyrek çalışır; tarifeyi kontrol edin."
         ]
       }
     }

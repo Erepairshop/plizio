@@ -3,55 +3,64 @@
     "de": "Am Sandtorkai / Überseequartier, 20457 Hamburg",
     "hu": "Am Sandtorkai / Überseequartier, 20457 Hamburg",
     "ro": "Am Sandtorkai / Überseequartier, 20457 Hamburg",
-    "en": "Am Sandtorkai / Überseequartier, 20457 Hamburg"
+    "en": "Am Sandtorkai / Überseequartier, 20457 Hamburg",
+    "tr": "Am Sandtorkai / Überseequartier, 20457 Hamburg"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "24/7"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.hafencity.com",
   "publicTransport": {
     "de": "U4 Haltestelle Überseequartier oder U3 Baumwall",
     "hu": "U4-es metró Überseequartier megálló, vagy U3-as Baumwall",
     "ro": "Stația U4 Überseequartier sau U3 Baumwall",
-    "en": "U4 line Überseequartier stop or U3 line Baumwall"
+    "en": "U4 line Überseequartier stop or U3 line Baumwall",
+    "tr": "U4 hattı Überseequartier durağı veya U3 hattı Baumwall"
   },
   "parking": {
     "de": "Tiefgaragen Überseequartier, ca. 3 €/Std.",
     "hu": "Mélygarázs az Überseequartierben, kb. 3 €/óra.",
     "ro": "Parcări subterane în Überseequartier, aprox. 3 €/oră.",
-    "en": "Underground parking in Überseequartier, approx. €3/hr."
+    "en": "Underground parking in Überseequartier, approx. €3/hr.",
+    "tr": "Überseequartier’de yer altı otoparkı, yaklaşık 3 €/saat."
   },
   "accessibility": {
     "de": "Modernster Stadtteil, nahezu vollständig barrierefrei mit Rampen und Liften.",
     "hu": "Modern városrész, szinte teljesen akadálymentesített rámpákkal és liftekkel.",
     "ro": "Cartier modern, aproape complet accesibil cu rampe și lifturi.",
-    "en": "Modern district, almost entirely accessible with ramps and lifts."
+    "en": "Modern district, almost entirely accessible with ramps and lifts.",
+    "tr": "Modern semt, neredeyse tamamen rampalar ve asansörlerle ulaşılabilir."
   },
   "photoRules": {
     "de": "Erlaubt, Stativnutzung auf Brücken teils eingeschränkt.",
     "hu": "Megengedett, állvány használata hidakon esetenként korlátozott.",
     "ro": "Permis, utilizarea trepiedului pe poduri este parțial restricționată.",
-    "en": "Allowed, tripod usage on bridges partially restricted."
+    "en": "Allowed, tripod usage on bridges partially restricted.",
+    "tr": "İzinli, köprülerde tripod kullanımı kısmen kısıtlı."
   },
   "bestTimeToVisit": {
     "de": "Zur blauen Stunde für spektakuläre Architekturfotos.",
     "hu": "Kék órában a látványos építészeti fotókért.",
     "ro": "În timpul orei albastre pentru fotografii arhitecturale spectaculoase.",
-    "en": "During the blue hour for spectacular architectural photos."
+    "en": "During the blue hour for spectacular architectural photos.",
+    "tr": "Mavi saatte muhteşem mimari fotoğraflar için."
   },
   "audioGuide": {
     "de": "Deutsch, Englisch (HafenCity App)",
     "hu": "német, angol (HafenCity alkalmazás)",
     "ro": "germană, engleză (aplicația HafenCity)",
-    "en": "German, English (HafenCity app)"
+    "en": "German, English (HafenCity app)",
+    "tr": "Almanca, İngilizce (HafenCity uygulaması)"
   }
 }

@@ -21,7 +21,8 @@
             "de": "Rettungsschuppen Norddeich",
             "hu": "Rettungsschuppen Norddeich",
             "ro": "Rettungsschuppen Norddeich",
-            "en": "Rettungsschuppen Norddeich"
+            "en": "Rettungsschuppen Norddeich",
+            "tr": "Rettungsschuppen Norddeich"
           },
           "coords": [
             7.159556,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie in diesem historischen Schuppen die heldenhafte maritime Geschichte der örtlichen Rettungsschwimmer und versuchen Sie, früh zu kommen, um den nachmittäglichen Besucherstrom zu meiden.",
             "hu": "Fedezze fel a helyi vízimentők hősies tengeri történelmét ebben a történelmi fészerben, és próbáljon meg korán érkezni, hogy elkerülje a délutáni tömeget.",
             "ro": "Descoperiți istoria maritimă eroică a salvamarilor locali în acest șopron istoric și încercați să vizitați devreme pentru a evita aglomerația de după-amiază.",
-            "en": "Discover the heroic maritime history of local lifeguards in this historic shed, and try to visit early to avoid the afternoon crowds."
+            "en": "Discover the heroic maritime history of local lifeguards in this historic shed, and try to visit early to avoid the afternoon crowds.",
+            "tr": "Bu tarihi barakada yerel cankurtaranların kahramanca denizcilik tarihini keşfedin; öğleden sonraki kalabalıklardan kaçınmak için erken saatlerde ziyaret etmeye çalışın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Grünstrand",
             "hu": "Grünstrand",
             "ro": "Grünstrand",
-            "en": "Grünstrand"
+            "en": "Grünstrand",
+            "tr": "Grünstrand"
           },
           "coords": [
             7.151539,
@@ -59,7 +62,8 @@
             "de": "Entspannen Sie am unberührten Grünstrand, der eine einzigartige Alternative zum Sand bietet und sich perfekt für ein Picknick eignet.",
             "hu": "Pihenjen ezen az érintetlen füves strandon, amely egyedülálló alternatívát kínál a homokkal szemben, és tökéletes egy piknikhez.",
             "ro": "Relaxați-vă pe această plajă de iarbă curată care oferă o alternativă unică la nisip, perfectă pentru un picnic fără pietriș.",
-            "en": "Relax on this pristine grassy beach which offers a unique alternative to sand, making it perfect for a picnic without the grit."
+            "en": "Relax on this pristine grassy beach which offers a unique alternative to sand, making it perfect for a picnic without the grit.",
+            "tr": "Bu bakir çimen plajda dinlenin; kum yerine eşsiz bir alternatif sunar ve kum olmadan piknik için mükemmeldir."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Sandstrand",
             "hu": "Sandstrand",
             "ro": "Sandstrand",
-            "en": "Sandstrand"
+            "en": "Sandstrand",
+            "tr": "Sandstrand"
           },
           "coords": [
             7.149118,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie das klassische Nordsee-Erlebnis an diesem weitläufigen Sandstrand, aber überprüfen Sie unbedingt die Gezeiten, bevor Sie schwimmen gehen.",
             "hu": "Élvezze a klasszikus északi-tengeri élményt ezen a tágas homokos parton, de mindenképpen ellenőrizze az árapály menetrendjét fürdés előtt.",
             "ro": "Bucurați-vă de experiența clasică a Mării Nordului pe acest țărm nisipos întins, dar asigurați-vă că verificați programul mareelor înainte de a înota.",
-            "en": "Enjoy the classic North Sea experience on this expansive sandy shore, but make sure to check the tide schedule before you plan a swim."
+            "en": "Enjoy the classic North Sea experience on this expansive sandy shore, but make sure to check the tide schedule before you plan a swim.",
+            "tr": "Geniş kumlu kıyısında klasik Kuzey Denizi deneyiminin tadını çıkarın; yüzmeyi planlamadan önce gelgit takvimini kontrol etmeyi unutmayın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Twister (Rückentrainer)",
             "hu": "Twister (Rückentrainer)",
             "ro": "Twister (Rückentrainer)",
-            "en": "Twister (Rückentrainer)"
+            "en": "Twister (Rückentrainer)",
+            "tr": "Twister (Rückentrainer)"
           },
           "coords": [
             7.155712,
@@ -105,7 +112,8 @@
             "de": "Trainieren Sie kurz Ihren Rücken an diesem Outdoor-Fitnessgerät und nutzen Sie die frische Meeresbrise, um Ihre Routine zu beleben.",
             "hu": "Mozgassa át hátát ezen a szabadtéri fitneszgépen, kihasználva a friss tengeri szellőt a napi rutin felpezsdítésére.",
             "ro": "Faceți un scurt antrenament pentru spate la acest echipament de fitness în aer liber, profitând de briza proaspătă a mării.",
-            "en": "Give your back a quick workout on this outdoor fitness equipment, taking advantage of the fresh sea breeze to energize your routine."
+            "en": "Give your back a quick workout on this outdoor fitness equipment, taking advantage of the fresh sea breeze to energize your routine.",
+            "tr": "Açık hava fitness ekipmanında sırtınıza hızlı bir antrenman verin; taze deniz esintisinden faydalanarak rutininizi canlandırın."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Stehwippe",
             "hu": "Stehwippe",
             "ro": "Stehwippe",
-            "en": "Stehwippe"
+            "en": "Stehwippe",
+            "tr": "Stehwippe"
           },
           "coords": [
             7.154715,
@@ -128,7 +137,8 @@
             "de": "Testen Sie Ihr Gleichgewicht auf dieser Stehwippe direkt an der Promenade, eine kleine, unterhaltsame Herausforderung für Groß und Klein.",
             "hu": "Tesztelje egyensúlyát ezen az álló libikókán közvetlenül a sétány mellett, ami szórakoztató kihívás gyerekeknek és felnőtteknek egyaránt.",
             "ro": "Testați-vă echilibrul pe acest balansoar de tip stand chiar lângă promenadă, o mică provocare distractivă pentru copii și adulți.",
-            "en": "Test your balance on this standing seesaw right by the promenade, a fun little challenge for both kids and adults taking a stroll."
+            "en": "Test your balance on this standing seesaw right by the promenade, a fun little challenge for both kids and adults taking a stroll.",
+            "tr": "Promenade kenarındaki bu ayakta tahterevalliyle dengenizi test edin; yürüyüşe çıkmış çocuklar ve yetişkinler için eğlenceli küçük bir meydan okuma."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Steine",
             "hu": "Steine",
             "ro": "Steine",
-            "en": "Steine"
+            "en": "Steine",
+            "tr": "Steine"
           },
           "coords": [
             7.158167,
@@ -151,7 +162,8 @@
             "de": "Bewundern Sie diese strategisch platzierten Steine, die als Küstenschutz dienen und einen rauen, aber schönen Ort bieten, um die Wellen zu beobachten.",
             "hu": "Csodálja meg ezeket a stratégiailag elhelyezett köveket, amelyek partvédelemként szolgálnak, és lenyűgöző helyet biztosítanak a hullámok megfigyelésére.",
             "ro": "Admirați aceste pietre plasate strategic care servesc drept protecție a coastei și oferă un loc aspru, dar frumos, pentru a privi valurile.",
-            "en": "Admire these strategically placed stones that serve as coastal protection and offer a ruggedly beautiful spot to sit and watch the waves."
+            "en": "Admire these strategically placed stones that serve as coastal protection and offer a ruggedly beautiful spot to sit and watch the waves.",
+            "tr": "Kıyı koruması görevi gören ve dalgaları izlemek için kaba bir güzellik sunan bu stratejik taşları hayranlıkla izleyin ve oturmak için değerlendirin."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Der Wasserstrudel",
             "hu": "Der Wasserstrudel",
             "ro": "Der Wasserstrudel",
-            "en": "Der Wasserstrudel"
+            "en": "Der Wasserstrudel",
+            "tr": "Der Wasserstrudel"
           },
           "coords": [
             7.158913,
@@ -174,7 +187,8 @@
             "de": "Beobachten Sie die faszinierenden, von den Gezeiten gebildeten Wassermuster hier, die man am besten mit etwas Abstand in ihrer vollen Größe erfassen kann.",
             "hu": "Figyelje meg az árapály által formált lenyűgöző vízmintákat itt, amelyeket a legjobban kicsit távolabbról, a teljes képet nézve lehet értékelni.",
             "ro": "Observați modelele fascinante de apă formate de maree aici, cel mai bine apreciate dacă stați puțin mai în spate pentru a vedea scara completă.",
-            "en": "Observe the mesmerizing water patterns formed by the tides here, best appreciated when standing a bit further back to grasp the full scale."
+            "en": "Observe the mesmerizing water patterns formed by the tides here, best appreciated when standing a bit further back to grasp the full scale.",
+            "tr": "Gelgitlerin burada oluşturduğu hipnotize edici su desenlerini gözlemleyin; tam ölçeği kavramak için biraz geri durarak en iyi şekilde takdir edilir."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Der Morgen beginnt mit einem tiefen Einblick in die maritime Geschichte im örtlichen Rettungsschuppen. Mittags spazieren Sie an den weitläufigen Grün- und Sandstränden entlang und atmen die reine Nordseeluft ein. Der Nachmittag lädt dazu ein, sich an den Outdoor-Installationen wie dem Twister zu vergnügen. Der Abend klingt an den Steinen und Wasserstrudeln der Küste aus.",
         "hu": "A reggel a helyi tengeri mentőtörténelem felfedezésével kezdődik a régi fészerben. Délben a tágas zöld és homokos strandokon sétálva szívhatja magába az Északi-tenger tiszta levegőjét. A délután játékos szabadtéri installációk, mint a Twister és az álló libikóka kipróbálására csábít. Az este a drámai parti kövek és a vízi örvények közelében zárul.",
         "ro": "Dimineața începe cu o scufundare profundă în istoria maritimă la șopronul local de salvare. La prânz, vă veți plimba de-a lungul plajelor verzi și nisipoase, respirând aerul pur al Mării Nordului. După-amiaza vă invită să interacționați cu instalațiile de exterior precum Twister. Seara se încheie lângă pietrele dramatice și vârtejurile de maree.",
-        "en": "Morning begins with a deep dive into maritime history at the local rescue shed. By midday, you'll be strolling along the expansive green and sandy beaches, taking in the pure North Sea air. Afternoon invites you to engage with playful outdoor installations like the Twister and standing seesaw. Evening concludes near the dramatic stones and tidal whirlpools along the coast."
+        "en": "Morning begins with a deep dive into maritime history at the local rescue shed. By midday, you'll be strolling along the expansive green and sandy beaches, taking in the pure North Sea air. Afternoon invites you to engage with playful outdoor installations like the Twister and standing seesaw. Evening concludes near the dramatic stones and tidal whirlpools along the coast.",
+        "tr": "Sabah, yerel kurtarma kulübesinde denizcilik tarihine derinlemesine bir girişle başlar. Öğlene doğru geniş yeşil ve kumlu plajlarda yürüyüşe çıkıp saf Kuzey Denizi havasını içinize çekersiniz. Öğleden sonra Twister ve ayakta tahterevalli gibi oyuncu açık hava enstalasyonlarıyla vakit geçirme daveti var. Akşam, kıyı boyunca dramatik kayalar ve gelgit girdaplarının yanında sona erer."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Morgens bietet der historische Rettungsschuppen einen trockenen Start in die Geschichte der Seenotrettung. Mittags trotzen wir dem Regen auf dem Deich, wo die Nordsee heute besonders rau und imposant wirkt. Nachmittags besuchen wir kurz die Fitnessgeräte an der Promenade, bevor die grauen Wolken tiefer sinken. Abends lassen wir den Tag am Hafen ausklingen, während die Lichter im Regen verschwimmen.",
             "hu": "Reggel a mentőhajó-skanzen védelmében ismerkedhetünk a tengeri mentés történetével, távol az esőtől. Délben a gáton sétálva élvezzük a viharos Északi-tenger látványát; az esőfelszerelés kötelező. Délután gyors látogatást teszünk a parti fitneszpontoknál, figyelve a csúszós felületekre. Este a kikötő fényeiben gyönyörködünk, ahogy az esőfüggöny lassan ráereszkedik a vizes gátakra.",
             "ro": "Dimineața începe la muzeul de bărci de salvare, un loc uscat și fascinant despre istoria maritimă. La prânz, ne plimbăm pe dig în ciuda ploii, admirând marea agitată și spectaculoasă sub cerul plumburiu. După-amiaza vizităm rapid punctele de fitness de pe faleză, având grijă la suprafețele alunecoase. Seara se încheie în port, unde luminile se reflectă melancolic în bălțile de pe asfalt.",
-            "en": "Morning starts at the rescue shed museum, a dry refuge to learn about maritime history while it pours outside. At noon, we brave the rain on the dike, where the North Sea looks particularly wild and impressive today. Afternoon is for quick stops at the promenade landmarks; watch your step on the wet surfaces. Evening finds us by the harbor, watching the lights blur into the misty rain."
+            "en": "Morning starts at the rescue shed museum, a dry refuge to learn about maritime history while it pours outside. At noon, we brave the rain on the dike, where the North Sea looks particularly wild and impressive today. Afternoon is for quick stops at the promenade landmarks; watch your step on the wet surfaces. Evening finds us by the harbor, watching the lights blur into the misty rain.",
+            "tr": "Sabah, dışarıda yağmur yağarken denizcilik tarihini öğrenebileceğiniz kuru bir sığınak olan kurtarma kulübe müzesinde başlar. Öğlen, bugün özellikle vahşi ve etkileyici görünen Kuzey Denizi’ne karşı set üstünde yağmura meydan okuyoruz. Öğleden sonra promenade’daki simge yerlerde hızlı duraklar; ıslak zeminde dikkatli olun. Akşam, liman kenarında ışıkların sisli yağmurda bulanmasını izleyerek geçer."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Rettungsschuppen Norddeich",
                 "hu": "Rettungsschuppen Norddeich",
                 "ro": "Rettungsschuppen Norddeich",
-                "en": "Rettungsschuppen Norddeich"
+                "en": "Rettungsschuppen Norddeich",
+                "tr": "Rettungsschuppen Norddeich"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort bei Regen: Erkunden Sie die historischen Rettungsboote im Trockenen und erfahren Sie mehr über die Helden der Nordsee. Regenschirm am Eingang lassen!",
                 "hu": "Tökéletes menedék esőben: fedett helyen ismerheti meg a történelmi mentőhajókat és az északi-tengeri hősök életét. Az esernyőt hagyja a bejáratnál!",
                 "ro": "Refugiul ideal pe ploaie: explorați bărcile de salvare istorice la adăpost și aflați poveștile eroilor de pe Marea Nordului. Lăsați umbrela la intrare!",
-                "en": "The perfect rainy day refuge: explore historic lifeboats indoors and learn about the heroes of the North Sea. Leave your umbrella at the entrance!"
+                "en": "The perfect rainy day refuge: explore historic lifeboats indoors and learn about the heroes of the North Sea. Leave your umbrella at the entrance!",
+                "tr": "Mükemmel bir yağmurlu gün sığınağı: iç mekânda tarihi can kurtaran teknelerini keşfedin ve Kuzey Denizi’nin kahramanlarını öğrenin. Şemsiyenizi girişte bırakın!"
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Grünstrand",
                 "hu": "Grünstrand",
                 "ro": "Grünstrand",
-                "en": "Grünstrand"
+                "en": "Grünstrand",
+                "tr": "Grünstrand"
               },
               "tip_5lang": {
                 "de": "Die Deichwiesen sind bei Regen sehr rutschig; bleiben Sie auf den befestigten Wegen, um den Blick auf die stürmische See sicher zu genießen. Gummistiefel empfohlen!",
                 "hu": "A füves gát esőben nagyon csúszós; maradjon a kiépített utakon, hogy biztonságban élvezhesse a viharos tenger látványát. Gumicsizma erősen ajánlott!",
                 "ro": "Pajiștile de pe dig sunt foarte alunecoase pe ploaie; rămâneți pe potecile asfaltate pentru a admira marea agitată în siguranță. Cizmele de cauciuc sunt utile!",
-                "en": "The grassy dikes get very slippery in the rain; stay on the paved paths to enjoy the stormy sea views safely. Rubber boots are highly recommended today!"
+                "en": "The grassy dikes get very slippery in the rain; stay on the paved paths to enjoy the stormy sea views safely. Rubber boots are highly recommended today!",
+                "tr": "Çimenli setler yağmurda çok kaygan olur; fırtınalı deniz manzaralarının tadını güvenle çıkarmak için asfalt yollarda kalın. Bugün lastik çizmeler şiddetle tavsiye edilir!"
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Sandstrand",
                 "hu": "Sandstrand",
                 "ro": "Sandstrand",
-                "en": "Sandstrand"
+                "en": "Sandstrand",
+                "tr": "Sandstrand"
               },
               "tip_5lang": {
                 "de": "Der nasse Sand ist herrlich fest zum Laufen; genießen Sie die Gischt der Brandung, aber achten Sie auf den starken Wind. Kapuze fest schnüren!",
                 "hu": "A nedves homok kiválóan alkalmas egy tempós sétára; élvezze a sós tengeri permetet, de figyeljen az erős szélre. A kapucnit kösse szorosra!",
                 "ro": "Nisipul umed este perfect pentru o plimbare rapidă; bucurați-vă de spuma valurilor, dar atenție la vântul puternic. Strângeți bine gluga pelerinei!",
-                "en": "The wet sand is firm and great for walking; enjoy the sea spray and the crashing waves, but mind the strong gusts. Tie your hood tight against the wind!"
+                "en": "The wet sand is firm and great for walking; enjoy the sea spray and the crashing waves, but mind the strong gusts. Tie your hood tight against the wind!",
+                "tr": "Islak kum sıkışık ve yürümek için çok uygun; deniz spreyi ve çarpan dalgaların tadını çıkarın, fakat güçlü rüzgarlara dikkat edin. Kapüşonunuzu rüzgara karşı sıkıca bağlayın!"
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Twister (Rückentrainer)",
                 "hu": "Twister (Rückentrainer)",
                 "ro": "Twister (Rückentrainer)",
-                "en": "Twister (Rückentrainer)"
+                "en": "Twister (Rückentrainer)",
+                "tr": "Twister (Rückentrainer)"
               },
               "tip_5lang": {
                 "de": "Ein kurzes Training zwischen den Schauern hält warm; da das Metall nass und rutschig sein kann, halten Sie sich besonders gut an den Griffen fest.",
                 "hu": "Egy rövid nyújtás két zápor között segít bemelegedni; mivel a fém nedves és csúszós lehet, kapaszkodjon erősen a gyakorlatok közben.",
                 "ro": "Un scurt antrenament între averse vă va menține cald; deoarece metalul este ud și alunecos, țineți-vă bine de mânere în timpul exercițiilor.",
-                "en": "A quick stretch between showers keeps the circulation going; as the metal is wet and slippery, ensure a firm grip on the handles at all times."
+                "en": "A quick stretch between showers keeps the circulation going; as the metal is wet and slippery, ensure a firm grip on the handles at all times.",
+                "tr": "Yağmur arasındaki kısa bir esneme dolaşımı canlı tutar; metal ıslak ve kaygan olduğundan, her zaman tutamaklara sağlam tutunun."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Stehwippe",
                 "hu": "Stehwippe",
                 "ro": "Stehwippe",
-                "en": "Stehwippe"
+                "en": "Stehwippe",
+                "tr": "Stehwippe"
               },
               "tip_5lang": {
                 "de": "Testen Sie Ihr Gleichgewicht im Wind; die Standfläche ist bei Regen glatt, nutzen Sie daher die Haltestangen für einen sicheren Stand auf der Wippe.",
                 "hu": "Tesztelje egyensúlyát a szélben; a taposófelület esőben csúszik, ezért mindenképpen használja a kapaszkodókat a biztonságos hintázáshoz.",
                 "ro": "Testați-vă echilibrul în vânt; suprafața de sprijin este lucioasă pe ploaie, așa că folosiți barele de susținere pentru o poziție sigură.",
-                "en": "Test your balance against the wind; the footplate is slick when wet, so use the handrails to maintain a steady stance on the seesaw today."
+                "en": "Test your balance against the wind; the footplate is slick when wet, so use the handrails to maintain a steady stance on the seesaw today.",
+                "tr": "Rüzgara karşı dengenizi test edin; ayak plakası ıslakken kaygandır, bu yüzden bugün tahterevallide dengede kalmak için korkulukları kullanın."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Steine",
                 "hu": "Steine",
                 "ro": "Steine",
-                "en": "Steine"
+                "en": "Steine",
+                "tr": "Steine"
               },
               "tip_5lang": {
                 "de": "Die Skulpturen wirken im Regen dunkler und mystischer; betreten Sie die nassen Steine nicht, da akute Rutschgefahr besteht. Nur aus der Ferne schauen!",
                 "hu": "A szobrok esőben sötétebbek és misztikusabbak; ne lépjen a vizes kövekre, mert rendkívül csúszósak. Maradjon a kijelölt aszfaltozott úton!",
                 "ro": "Sculpturile par mai întunecate și mistice sub ploaie; nu urcați pe pietrele ude, deoarece riscul de alunecare este mare. Admirați-le de pe potecă!",
-                "en": "The stone sculptures look darker and more mystical in the rain; do not climb on the wet stones as they are very slippery. View them from the path!"
+                "en": "The stone sculptures look darker and more mystical in the rain; do not climb on the wet stones as they are very slippery. View them from the path!",
+                "tr": "Yağmurda taş heykeller daha koyu ve gizemli görünür; çok kaygan oldukları için ıslak taşlara tırmanmayın. Yoldan izleyin!"
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Der Wasserstrudel",
                 "hu": "Der Wasserstrudel",
                 "ro": "Der Wasserstrudel",
-                "en": "Der Wasserstrudel"
+                "en": "Der Wasserstrudel",
+                "tr": "Der Wasserstrudel"
               },
               "tip_5lang": {
                 "de": "Das strömende Wasser passt zur Wetterstimmung; ein stimmungsvoller Ort für ein letztes Foto, bevor Sie sich im nahen Café ins Trockene retten.",
                 "hu": "A kavargó víz tökéletesen illik az esős hangulathoz; remek hely egy utolsó fotóhoz, mielőtt a közeli kávézó fedett teraszára menekülne.",
                 "ro": "Apa învolburată se potrivește cu atmosfera ploioasă; un loc pitoresc pentru o ultimă fotografie înainte de a vă refugia într-o cafenea apropiată.",
-                "en": "The swirling water perfectly matches the rainy mood; it's an atmospheric spot for one last photo before heading to a nearby cozy cafe."
+                "en": "The swirling water perfectly matches the rainy mood; it's an atmospheric spot for one last photo before heading to a nearby cozy cafe.",
+                "tr": "Dönen su, yağmurlu havaya mükemmel uyum sağlar; yakındaki samimi bir kafeye gitmeden önce son bir fotoğraf için atmosferik bir nokta."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Der Wintermorgen beginnt frisch im Rettungsschuppen, wo man die Kälte kurz vergisst. Mittags weht eine steife Brise über den leeren Strand, die kristallklare Luft ist herrlich belebend. Nachmittags nutzen wir die letzte Helligkeit für die Übungsgeräte, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend wird gemütlich, wenn die Hafenlichter die winterliche Dunkelheit erhellen.",
             "hu": "A téli reggel frissen indul a mentőhajó-skanzenben, ahol elfeledhetjük a kinti fagyot. Délben metsző szél fúj az üres strandon, a kristálytiszta levegő rendkívül élénkítő. Délután kihasználjuk az utolsó fényeket a fitneszparkban, mielőtt 17 óra körül lebukik a nap. Az este meghitté válik, ahogy a kikötő fényei megcsillannak a téli sötétségben.",
             "ro": "Dimineața de iarnă începe cu prospețime la muzeu, unde uităm pentru o clipă de ger. La prânz, o briză tăioasă suflă peste plaja pustie, aerul curat fiind de-a dreptul revigorant. După-amiaza profităm de ultima lumină la aparatele de fitness, înainte ca soarele să apună la ora 17:00. Seara devine primitoare odată cu aprinderea luminilor din port.",
-            "en": "The winter morning starts crisp at the rescue shed, providing a brief warm respite from the frost. At noon, a stiff breeze blows across the empty beach, but the air is wonderfully clear. Afternoon is for catching the last light at the exercise points before the 5 PM sunset. Evening turns cozy as the harbor lights begin to glow in the winter dark."
+            "en": "The winter morning starts crisp at the rescue shed, providing a brief warm respite from the frost. At noon, a stiff breeze blows across the empty beach, but the air is wonderfully clear. Afternoon is for catching the last light at the exercise points before the 5 PM sunset. Evening turns cozy as the harbor lights begin to glow in the winter dark.",
+            "tr": "Kış sabahı kurtarma kulübesinde serin ama kısa bir sıcak molayla başlar; öğlene doğru boş plajda sert bir esinti eser, fakat hava inanılmaz derecede berraktır. Öğleden sonra egzersiz noktalarında son ışıkları yakalamaya ayrılmıştır; akşam, liman ışıkları kış karanlığında parlamaya başladıkça ortam daha da içtenleşir. Gün batımı yaklaşık 17:00 civarında gerçekleşir."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Rettungsschuppen Norddeich",
                 "hu": "Rettungsschuppen Norddeich",
                 "ro": "Rettungsschuppen Norddeich",
-                "en": "Rettungsschuppen Norddeich"
+                "en": "Rettungsschuppen Norddeich",
+                "tr": "Rettungsschuppen Norddeich"
               },
               "tip_5lang": {
                 "de": "Ein wunderbar warmer Ort im Winter; tauchen Sie in die Geschichte ein, während draußen der Frost klirrt. Dicke Socken für den Museumsbesuch einplanen!",
                 "hu": "Csodásan meleg helyszín télen; merüljön el a történelemben, miközben kint repkednek a mínuszok. Réteges öltözet és vastag zokni javasolt!",
                 "ro": "Un loc minunat de cald iarna; lăsați-vă captivat de istorie în timp ce afară este ger. Planificați o vizită lungă pentru a vă încălzi bine!",
-                "en": "A wonderfully warm indoor spot in winter; dive into local history while the frost bites outside. Wear thick socks for a comfortable museum tour!"
+                "en": "A wonderfully warm indoor spot in winter; dive into local history while the frost bites outside. Wear thick socks for a comfortable museum tour!",
+                "tr": "Kışın harika sıcak bir iç mekan; dışarıda don varken yerel tarihe dalın. Rahat bir müze turu için kalın çoraplar giyin!"
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Grünstrand",
                 "hu": "Grünstrand",
                 "ro": "Grünstrand",
-                "en": "Grünstrand"
+                "en": "Grünstrand",
+                "tr": "Grünstrand"
               },
               "tip_5lang": {
                 "de": "Der Reif auf den Wiesen sieht magisch aus; tragen Sie Funktionsunterwäsche gegen den schneidenden Seewind, der hier im Winter besonders kräftig weht.",
                 "hu": "A zúzmarás fű látványa varázslatos; viseljen hőtartó aláöltözetet a metsző tengeri szél ellen, amely télen itt különösen felerősödik.",
                 "ro": "Chiciura de pe iarbă arată magic; purtați lenjerie termică împotriva vântului tăios de mare, care suflă cu putere aici în timpul iernii.",
-                "en": "The frost on the grass looks magical; wear thermal base layers against the biting sea wind, which blows much stronger here during the winter."
+                "en": "The frost on the grass looks magical; wear thermal base layers against the biting sea wind, which blows much stronger here during the winter.",
+                "tr": "Çim üzerindeki kırağı büyüleyici görünür; ısıran deniz rüzgarına karşı termal içlikler giyin, çünkü kışın buradaki rüzgar çok daha güçlü eser."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Sandstrand",
                 "hu": "Sandstrand",
                 "ro": "Sandstrand",
-                "en": "Sandstrand"
+                "en": "Sandstrand",
+                "tr": "Sandstrand"
               },
               "tip_5lang": {
                 "de": "Ein einsamer, herrlicher Winterstrand; da die Dämmerung früh beginnt, sollten Sie das fahle Winterlicht für einen kurzen, aber intensiven Spaziergang nutzen.",
                 "hu": "Magányos, gyönyörű téli strand; mivel korán sötétedik, használja ki a bágyadt téli fényt egy rövid, de annál frissítőbb tengerparti sétára.",
                 "ro": "O plajă de iarnă pustie și superbă; deoarece amurgul începe devreme, profitați de lumina palidă pentru o plimbare scurtă, dar intensă.",
-                "en": "A lonely and beautiful winter beach; as dusk begins early, make the most of the pale winter light for a short but invigorating seaside walk."
+                "en": "A lonely and beautiful winter beach; as dusk begins early, make the most of the pale winter light for a short but invigorating seaside walk.",
+                "tr": "Yalnız ve güzel bir kış plajı; alacakaranlık erken başladığı için kısa ama canlandırıcı deniz yürüyüşü için soluk kış ışığından yararlanın."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Twister (Rückentrainer)",
                 "hu": "Twister (Rückentrainer)",
                 "ro": "Twister (Rückentrainer)",
-                "en": "Twister (Rückentrainer)"
+                "en": "Twister (Rückentrainer)",
+                "tr": "Twister (Rückentrainer)"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Gerät, um die Muskeln aufzuwärmen; das kalte Metall erfordert unbedingt Handschuhe für einen angenehmen und sicheren Griff heute.",
                 "hu": "Használja az eszközt az izmok átmozgatásához; a hideg fém miatt ma mindenképpen viseljen kesztyűt a kényelmes és biztonságos fogás érdekében.",
                 "ro": "Folosiți aparatul pentru a vă încălzi mușchii; metalul rece necesită neapărat mănuși pentru o prindere confortabilă și sigură astăzi.",
-                "en": "Use the equipment to warm up your muscles; the cold metal absolutely requires gloves for a comfortable and secure grip during your workout."
+                "en": "Use the equipment to warm up your muscles; the cold metal absolutely requires gloves for a comfortable and secure grip during your workout.",
+                "tr": "Kaslarınızı ısıtmak için ekipmanı kullanın; soğuk metal rahat ve güvenli bir tutuş için kesinlikle eldiven gerektirir."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Stehwippe",
                 "hu": "Stehwippe",
                 "ro": "Stehwippe",
-                "en": "Stehwippe"
+                "en": "Stehwippe",
+                "tr": "Stehwippe"
               },
               "tip_5lang": {
                 "de": "Ein wenig Bewegung hilft gegen die Kälte; behalten Sie die Zeit im Auge, da die Sonne schnell sinkt und die Temperaturen danach drastisch fallen.",
                 "hu": "Egy kis mozgás segít a hideg ellen; figyelje az időt, mert a nap gyorsan nyugszik, és utána a hőmérséklet drasztikusan lecsökken a parton.",
                 "ro": "Puțină mișcare ajută împotriva frigului; fiți atenți la oră, deoarece soarele apune repede și temperaturile scad drastic imediat după aceea.",
-                "en": "A bit of movement helps fight the chill; keep an eye on the clock as the sun sets rapidly and temperatures drop sharply right after."
+                "en": "A bit of movement helps fight the chill; keep an eye on the clock as the sun sets rapidly and temperatures drop sharply right after.",
+                "tr": "Biraz hareket soğuğa karşı yardımcı olur; güneş hızla battığı ve sıcaklıklar hemen düşeceği için saate dikkat edin."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Steine",
                 "hu": "Steine",
                 "ro": "Steine",
-                "en": "Steine"
+                "en": "Steine",
+                "tr": "Steine"
               },
               "tip_5lang": {
                 "de": "Die Steine können bei Frost glatt sein; genießen Sie die gefrorene Szenerie des Wattenmeers, aber achten Sie auf einen sicheren Stand auf dem Weg.",
                 "hu": "A kövek fagyban csúszósak lehetnek; élvezze a Watt-tenger jeges látványát, de ügyeljen a stabil lépésekre a kövek közötti aszfaltozott úton.",
                 "ro": "Pietrele pot fi alunecoase din cauza înghețului; admirați peisajul înghețat al mării, dar asigurați-vă că aveți o poziție stabilă pe potecă.",
-                "en": "The stones may be icy in freezing temperatures; enjoy the frozen scenery of the Wadden Sea but watch your footing carefully on the paved path."
+                "en": "The stones may be icy in freezing temperatures; enjoy the frozen scenery of the Wadden Sea but watch your footing carefully on the paved path.",
+                "tr": "Kayalar donma sıcaklıklarında buzlu olabilir; Wadden Denizi’nin donmuş manzarasının tadını çıkarın ama döşeli yolda dikkatli yürüyün."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Der Wasserstrudel",
                 "hu": "Der Wasserstrudel",
                 "ro": "Der Wasserstrudel",
-                "en": "Der Wasserstrudel"
+                "en": "Der Wasserstrudel",
+                "tr": "Der Wasserstrudel"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Abschluss des Tages; die Hafenlichter beginnen gegen 17 Uhr zu flackern und erzeugen eine gemütliche, fast weihnachtliche Winterstimmung.",
                 "hu": "Csendes lezárása a napnak; a kikötői fények 17 óra körül gyúlnak ki, meghitt, már-már karácsonyi téli hangulatot árasztva a vízparton.",
                 "ro": "Un final liniștit de zi; luminile portului încep să clipească în jurul orei 17, creând o atmosferă de iarnă primitoare și caldă.",
-                "en": "A quiet end to your day; harbor lights begin flickering around 5 PM, creating a cozy and almost festive winter atmosphere by the waterfront."
+                "en": "A quiet end to your day; harbor lights begin flickering around 5 PM, creating a cozy and almost festive winter atmosphere by the waterfront.",
+                "tr": "Gününüzü sessiz bir şekilde sonlandırır; liman ışıkları 17:00 civarında yanıp sönmeye başlar ve kıyıda hoş ve neredeyse şenlikli bir kış atmosferi yaratır."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Rettungsschuppen Norddeich",
             "hu": "Rettungsschuppen Norddeich",
             "ro": "Rettungsschuppen Norddeich",
-            "en": "Rettungsschuppen Norddeich"
+            "en": "Rettungsschuppen Norddeich",
+            "tr": "Rettungsschuppen Norddeich"
           },
           "coords": [
             7.159556,
@@ -431,7 +477,8 @@
             "de": "Entdecken Sie in diesem historischen Schuppen die heldenhafte maritime Geschichte der örtlichen Rettungsschwimmer und versuchen Sie, früh zu kommen, um den nachmittäglichen Besucherstrom zu meiden.",
             "hu": "Fedezze fel a helyi vízimentők hősies tengeri történelmét ebben a történelmi fészerben, és próbáljon meg korán érkezni, hogy elkerülje a délutáni tömeget.",
             "ro": "Descoperiți istoria maritimă eroică a salvamarilor locali în acest șopron istoric și încercați să vizitați devreme pentru a evita aglomerația de după-amiază.",
-            "en": "Discover the heroic maritime history of local lifeguards in this historic shed, and try to visit early to avoid the afternoon crowds."
+            "en": "Discover the heroic maritime history of local lifeguards in this historic shed, and try to visit early to avoid the afternoon crowds.",
+            "tr": "Bu tarihi kulübede yerel can kurtaranların kahramanca denizcilik tarihini keşfedin ve öğleden sonraki kalabalıktan kaçınmak için erken ziyaret etmeye çalışın."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Grünstrand",
             "hu": "Grünstrand",
             "ro": "Grünstrand",
-            "en": "Grünstrand"
+            "en": "Grünstrand",
+            "tr": "Grünstrand"
           },
           "coords": [
             7.151539,
@@ -454,7 +502,8 @@
             "de": "Entspannen Sie am unberührten Grünstrand, der eine einzigartige Alternative zum Sand bietet und sich perfekt für ein Picknick eignet.",
             "hu": "Pihenjen ezen az érintetlen füves strandon, amely egyedülálló alternatívát kínál a homokkal szemben, és tökéletes egy piknikhez.",
             "ro": "Relaxați-vă pe această plajă de iarbă curată care oferă o alternativă unică la nisip, perfectă pentru un picnic fără pietriș.",
-            "en": "Relax on this pristine grassy beach which offers a unique alternative to sand, making it perfect for a picnic without the grit."
+            "en": "Relax on this pristine grassy beach which offers a unique alternative to sand, making it perfect for a picnic without the grit.",
+            "tr": "Kum yerine benzersiz bir alternatif sunan bu bakımlı çimenli plajda rahatlayın; kum olmadan piknik için ideal."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Sandstrand",
             "hu": "Sandstrand",
             "ro": "Sandstrand",
-            "en": "Sandstrand"
+            "en": "Sandstrand",
+            "tr": "Sandstrand"
           },
           "coords": [
             7.149118,
@@ -477,7 +527,8 @@
             "de": "Genießen Sie das klassische Nordsee-Erlebnis an diesem weitläufigen Sandstrand, aber überprüfen Sie unbedingt die Gezeiten, bevor Sie schwimmen gehen.",
             "hu": "Élvezze a klasszikus északi-tengeri élményt ezen a tágas homokos parton, de mindenképpen ellenőrizze az árapály menetrendjét fürdés előtt.",
             "ro": "Bucurați-vă de experiența clasică a Mării Nordului pe acest țărm nisipos întins, dar asigurați-vă că verificați programul mareelor înainte de a înota.",
-            "en": "Enjoy the classic North Sea experience on this expansive sandy shore, but make sure to check the tide schedule before you plan a swim."
+            "en": "Enjoy the classic North Sea experience on this expansive sandy shore, but make sure to check the tide schedule before you plan a swim.",
+            "tr": "Bu geniş kumluk kıyıda klasik Kuzey Denizi deneyiminin tadını çıkarın, ancak yüzme planlamadan önce kesinlikle gelgit saatlerini kontrol edin."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Hundestrand",
             "hu": "Hundestrand",
             "ro": "Hundestrand",
-            "en": "Hundestrand"
+            "en": "Hundestrand",
+            "tr": "Hundestrand"
           },
           "coords": [
             7.147311,
@@ -500,7 +552,8 @@
             "de": "Lassen Sie Ihre Vierbeiner an diesem speziellen Hundestrand frei herumlaufen, der auch tolle Fotomotive von spielenden Haustieren am Meer bietet.",
             "hu": "Hagyja szabadon kóborolni négylábú barátait ezen a kijelölt kutyastrandon, amely nagyszerű fotózási lehetőségeket is kínál a játékos háziállatokról.",
             "ro": "Lăsați prietenii cu patru picioare să alerge liber pe această plajă dedicată câinilor, care oferă și oportunități excelente de fotografiere.",
-            "en": "Let your four-legged friends roam freely at this dedicated dog beach, which also provides great photo opportunities of playful pets by the sea."
+            "en": "Let your four-legged friends roam freely at this dedicated dog beach, which also provides great photo opportunities of playful pets by the sea.",
+            "tr": "Dört ayaklı dostlarınızı bu ayrılmış köpek plajında özgürce koşturun; deniz kenarında oynayan evcil hayvanların fotoğrafları için de harika fırsatlar sunar."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Twister (Rückentrainer)",
             "hu": "Twister (Rückentrainer)",
             "ro": "Twister (Rückentrainer)",
-            "en": "Twister (Rückentrainer)"
+            "en": "Twister (Rückentrainer)",
+            "tr": "Twister (Rückentrainer)"
           },
           "coords": [
             7.155712,
@@ -523,7 +577,8 @@
             "de": "Trainieren Sie kurz Ihren Rücken an diesem Outdoor-Fitnessgerät und nutzen Sie die frische Meeresbrise, um Ihre Routine zu beleben.",
             "hu": "Mozgassa át hátát ezen a szabadtéri fitneszgépen, kihasználva a friss tengeri szellőt a napi rutin felpezsdítésére.",
             "ro": "Faceți un scurt antrenament pentru spate la acest echipament de fitness în aer liber, profitând de briza proaspătă a mării.",
-            "en": "Give your back a quick workout on this outdoor fitness equipment, taking advantage of the fresh sea breeze to energize your routine."
+            "en": "Give your back a quick workout on this outdoor fitness equipment, taking advantage of the fresh sea breeze to energize your routine.",
+            "tr": "Açık hava fitness ekipmanında sırtınıza hızlı bir antrenman verin; taze deniz esintisinin rutininize enerji katmasına izin verin."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Stehwippe",
             "hu": "Stehwippe",
             "ro": "Stehwippe",
-            "en": "Stehwippe"
+            "en": "Stehwippe",
+            "tr": "Stehwippe"
           },
           "coords": [
             7.154715,
@@ -546,7 +602,8 @@
             "de": "Testen Sie Ihr Gleichgewicht auf dieser Stehwippe direkt an der Promenade, eine kleine, unterhaltsame Herausforderung für Groß und Klein.",
             "hu": "Tesztelje egyensúlyát ezen az álló libikókán közvetlenül a sétány mellett, ami szórakoztató kihívás gyerekeknek és felnőtteknek egyaránt.",
             "ro": "Testați-vă echilibrul pe acest balansoar de tip stand chiar lângă promenadă, o mică provocare distractivă pentru copii și adulți.",
-            "en": "Test your balance on this standing seesaw right by the promenade, a fun little challenge for both kids and adults taking a stroll."
+            "en": "Test your balance on this standing seesaw right by the promenade, a fun little challenge for both kids and adults taking a stroll.",
+            "tr": "Promenade kenarında bu ayakta tahterevalli üzerinde dengenizi test edin; yürüyüş yapan hem çocuklar hem yetişkinler için eğlenceli küçük bir meydan okuma."
           }
         },
         {
@@ -554,7 +611,8 @@
             "de": "Steine",
             "hu": "Steine",
             "ro": "Steine",
-            "en": "Steine"
+            "en": "Steine",
+            "tr": "Steine"
           },
           "coords": [
             7.158167,
@@ -569,7 +627,8 @@
             "de": "Bewundern Sie diese strategisch platzierten Steine, die als Küstenschutz dienen und einen rauen, aber schönen Ort bieten, um die Wellen zu beobachten.",
             "hu": "Csodálja meg ezeket a stratégiailag elhelyezett köveket, amelyek partvédelemként szolgálnak, és lenyűgöző helyet biztosítanak a hullámok megfigyelésére.",
             "ro": "Admirați aceste pietre plasate strategic care servesc drept protecție a coastei și oferă un loc aspru, dar frumos, pentru a privi valurile.",
-            "en": "Admire these strategically placed stones that serve as coastal protection and offer a ruggedly beautiful spot to sit and watch the waves."
+            "en": "Admire these strategically placed stones that serve as coastal protection and offer a ruggedly beautiful spot to sit and watch the waves.",
+            "tr": "Kıyı koruması görevi gören ve dalgaları izlemek için engebeli şekilde güzel bir oturma noktası sunan stratejik olarak yerleştirilmiş bu taşları hayranlıkla izleyin."
           }
         },
         {
@@ -577,7 +636,8 @@
             "de": "Der Wasserstrudel",
             "hu": "Der Wasserstrudel",
             "ro": "Der Wasserstrudel",
-            "en": "Der Wasserstrudel"
+            "en": "Der Wasserstrudel",
+            "tr": "Der Wasserstrudel"
           },
           "coords": [
             7.158913,
@@ -592,7 +652,8 @@
             "de": "Beobachten Sie die faszinierenden, von den Gezeiten gebildeten Wassermuster hier, die man am besten mit etwas Abstand in ihrer vollen Größe erfassen kann.",
             "hu": "Figyelje meg az árapály által formált lenyűgöző vízmintákat itt, amelyeket a legjobban kicsit távolabbról, a teljes képet nézve lehet értékelni.",
             "ro": "Observați modelele fascinante de apă formate de maree aici, cel mai bine apreciate dacă stați puțin mai în spate pentru a vedea scara completă.",
-            "en": "Observe the mesmerizing water patterns formed by the tides here, best appreciated when standing a bit further back to grasp the full scale."
+            "en": "Observe the mesmerizing water patterns formed by the tides here, best appreciated when standing a bit further back to grasp the full scale.",
+            "tr": "Burada gelgitlerin oluşturduğu büyüleyici su desenlerini gözlemleyin; tam ölçeği kavramak için biraz geri durarak en iyi şekilde takdir edilir."
           }
         }
       ],
@@ -600,7 +661,8 @@
         "de": "Radeln Sie in den Morgen und erfahren Sie im historischen Schuppen alles über Küstenrettungen. Der Mittag bietet entspannende Pausen auf dem Grünstrand und am Sandstrand. Nachmittags radeln Sie zu den skurrilen Fitness-Stationen. Am Ende des Tages können Sie Ihr Fahrrad an den Steinen abstellen und das Wasser beobachten.",
         "hu": "Kezdje a reggelt tekeréssel, és ismerje meg a parti mentést a történelmi fészerben. A dél lazító megállókat kínál a zöld pázsiton és a homokos parton. Délután furcsa fitneszpontok felé kerekezik. A nap végén parkolja le kerékpárját a hullámtörő köveknél, és nézze a tenger örvénylését.",
         "ro": "Pedalați dimineața învățând despre salvările pe coastă la șopronul istoric. Prânzul oferă opriri relaxante de-a lungul peluzelor verzi și ale plajelor de nisip. După-amiaza, veți pedala spre locurile de fitness inedite. Pe măsură ce ziua se încheie, parcați bicicleta lângă pietre pentru a privi marea.",
-        "en": "Pedal into the morning learning about coastal rescues at the historic shed. Midday offers relaxing stops along both the green lawns and sandy stretches of the shoreline, including a playful dog beach. In the afternoon, you'll cycle towards the quirky fitness spots. As the day ends, park your bike by the breakwater stones to watch the sea swirl."
+        "en": "Pedal into the morning learning about coastal rescues at the historic shed. Midday offers relaxing stops along both the green lawns and sandy stretches of the shoreline, including a playful dog beach. In the afternoon, you'll cycle towards the quirky fitness spots. As the day ends, park your bike by the breakwater stones to watch the sea swirl.",
+        "tr": "Sabah bisikletle tarihi kulübede kıyı kurtarmaları hakkında bilgi edinerek başlar. Öğlene doğru kıyı şeridinin hem yeşil çimenleri hem kumlu kesimleri boyunca rahatlatıcı duraklar ve oyunlu bir köpek plajı sizi bekler. Öğleden sonra tuhaf fitness noktalarına doğru pedal çevirirsiniz. Gün biterken, denizin girdap oluşturduğu dalgaları izlemek için bisikletinizi kırma taşlarının yanında park edin."
       },
       "variants": {
         "rainy": {
@@ -608,7 +670,8 @@
             "de": "Der Vormittag startet geschützt im Rettungsschuppen, perfekt um den ersten Regen abzuwarten. Mittags radeln wir vorsichtig über den Deich, die salzige Gischt mischt sich mit den Tropfen. Nachmittags geht es zügig an der Küste entlang, wobei die Bremsen bei Nässe mehr Zeit brauchen. Abends lockt der Hafen mit warmen Unterkünften, während das Rad sicher im Trockenen steht.",
             "hu": "A délelőtt fedett helyen indul a múzeumban, ideális az első záporok átvészelésére. Délben óvatosan tekerünk a gáton, ahol a sós tengeri permet keveredik az esővel. Délután tempósan haladunk a parton, de figyelünk a hosszabb fékútra a vizes úton. Este a kikötő környéke nyújt menedéket, miközben a bringa már biztonságban pihen.",
             "ro": "Dimineața începe la adăpost în muzeu, perfect pentru a aștepta trecerea primelor ploi. La prânz, pedalăm cu grijă pe dig, unde stropii de ploaie se amestecă cu sarea mării. După-amiaza avansăm rapid pe coastă, fiind atenți la distanța de frânare mai mare pe asfalt ud. Seara, zona portului ne primește cu căldură pentru odihnă.",
-            "en": "The morning starts sheltered at the rescue museum, ideal for waiting out the initial showers. At noon, we cycle carefully along the dike, with salt spray mixing with raindrops. In the afternoon, we speed along the coast, keeping in mind that brakes need more time in the wet. Evening finds us heading for warm shelter as the bike is parked dry."
+            "en": "The morning starts sheltered at the rescue museum, ideal for waiting out the initial showers. At noon, we cycle carefully along the dike, with salt spray mixing with raindrops. In the afternoon, we speed along the coast, keeping in mind that brakes need more time in the wet. Evening finds us heading for warm shelter as the bike is parked dry.",
+            "tr": "Sabah kurtarma müzesinde korunaklı başlar; ilk sağanakları atlatmak için ideal. Öğlen set üzerinde dikkatlice bisiklet süreriz; tuzlu sprey yağmur damlalarıyla karışır. Öğleden sonra kıyı boyunca hızlanırız, ıslak zeminde frenlerin daha fazla mesafeye ihtiyaç duyacağını akılda tutarak. Akşam, bisikleti kuru şekilde park ederken sıcak bir sığınak ararız."
           },
           "stops": [
             {
@@ -616,13 +679,15 @@
                 "de": "Rettungsschuppen Norddeich",
                 "hu": "Rettungsschuppen Norddeich",
                 "ro": "Rettungsschuppen Norddeich",
-                "en": "Rettungsschuppen Norddeich"
+                "en": "Rettungsschuppen Norddeich",
+                "tr": "Rettungsschuppen Norddeich"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad direkt am Museum; drinnen bleiben Sie trocken und erfahren alles über die Seenotrettung. Eine gute Pause für Radler bei Dauerregen.",
                 "hu": "Parkoljon közvetlenül a múzeumnál; bent szárazon maradhat, és mindent megtudhat a tengeri mentésről. Kiváló pihenőhely kerékpárosoknak esőben.",
                 "ro": "Parcați bicicleta chiar lângă muzeu; în interior rămâneți uscat și aflați totul despre salvările maritime. O pauză binemeritată pe timp de ploaie.",
-                "en": "Park your bike right by the museum; stay dry inside while learning all about sea rescue. A great strategic break for cyclists during heavy rain."
+                "en": "Park your bike right by the museum; stay dry inside while learning all about sea rescue. A great strategic break for cyclists during heavy rain.",
+                "tr": "Bisikletinizi müzenin hemen yanına park edin; içeride kuru kalırken deniz kurtarmayı öğrenin. Şiddetli yağmur sırasında bisikletçiler için harika stratejik bir mola noktası."
               }
             },
             {
@@ -630,13 +695,15 @@
                 "de": "Grünstrand",
                 "hu": "Grünstrand",
                 "ro": "Grünstrand",
-                "en": "Grünstrand"
+                "en": "Grünstrand",
+                "tr": "Grünstrand"
               },
               "tip_5lang": {
                 "de": "Achtung, die Kurven auf dem Deichweg können bei Nässe rutschig sein; drosseln Sie das Tempo, um den Blick auf das Wattenmeer trotzdem zu genießen.",
                 "hu": "Figyelem, a gáton vezető út kanyarjai vizesen csúszósak lehetnek; lassítson a kanyarokban, hogy biztonságban csodálhassa a Watt-tenger látványát.",
                 "ro": "Atenție, curbele de pe dig pot fi alunecoase când sunt ude; reduceți viteza pentru a vă bucura de priveliștea Mării Nordului în siguranță.",
-                "en": "Caution: the curves on the dike path can be slippery when wet; slow down your pace to safely enjoy the views of the Wadden Sea anyway."
+                "en": "Caution: the curves on the dike path can be slippery when wet; slow down your pace to safely enjoy the views of the Wadden Sea anyway.",
+                "tr": "Dikkat: set yolundaki virajlar ıslakken kaygan olabilir; Wadden Denizi manzaralarının tadını güvenle çıkarmak için hızınızı azaltın."
               }
             },
             {
@@ -644,13 +711,15 @@
                 "de": "Sandstrand",
                 "hu": "Sandstrand",
                 "ro": "Sandstrand",
-                "en": "Sandstrand"
+                "en": "Sandstrand",
+                "tr": "Sandstrand"
               },
               "tip_5lang": {
                 "de": "Fahren Sie nicht direkt in den tiefen, nassen Sand; nutzen Sie die befestigten Abstellplätze für die Räder und genießen Sie die stürmische Brandung.",
                 "hu": "Ne hajtson bele a mély, vizes homokba; használja a kiépített kerékpártárolókat, és gyalogosan közelítse meg a hullámzó partvonalat.",
                 "ro": "nu intrați cu bicicleta direct în nisipul ud și adânc; folosiți parcările amenajate și bucurați-vă de zgomotul valurilor de pe faleză.",
-                "en": "Avoid cycling into the deep, wet sand; use the designated bike parking areas and walk to the water's edge to see the crashing winter surf."
+                "en": "Avoid cycling into the deep, wet sand; use the designated bike parking areas and walk to the water's edge to see the crashing winter surf.",
+                "tr": "Derin, ıslak kuma bisikletle girmeyin; belirlenmiş bisiklet park alanlarını kullanın ve çarpan kış surfunu görmek için su kenarına yürüyün."
               }
             },
             {
@@ -658,13 +727,15 @@
                 "de": "Hundestrand",
                 "hu": "Hundestrand",
                 "ro": "Hundestrand",
-                "en": "Hundestrand"
+                "en": "Hundestrand",
+                "tr": "Hundestrand"
               },
               "tip_5lang": {
                 "de": "Vorsicht vor Pfützen und spielenden Hunden, die bei Regen oft ungestümer sind; halten Sie auf dem schmalen Radweg ausreichend Abstand zu den Vierbeinern.",
                 "hu": "Vigyázzon a tócsákra és a játszó kutyákra, akik esőben gyakran szeleburdiak; a keskeny kerékpárúton tartson kellő távolságot a háziállatoktól.",
                 "ro": "Atenție la bălți și la câinii care se joacă, adesea mai agitați pe ploaie; păstrați o distanță sigură pe pista îngustă de biciclete.",
-                "en": "Watch out for puddles and playing dogs, who are often more energetic in the rain; keep a safe distance on the narrow cycle path today."
+                "en": "Watch out for puddles and playing dogs, who are often more energetic in the rain; keep a safe distance on the narrow cycle path today.",
+                "tr": "Çukurlara ve oyun oynayan köpeklere dikkat edin; yağmurda genellikle daha enerjik olurlar; bugün dar bisiklet yolunda güvenli bir mesafe bırakın."
               }
             },
             {
@@ -672,13 +743,15 @@
                 "de": "Twister (Rückentrainer)",
                 "hu": "Twister (Rückentrainer)",
                 "ro": "Twister (Rückentrainer)",
-                "en": "Twister (Rückentrainer)"
+                "en": "Twister (Rückentrainer)",
+                "tr": "Twister (Rückentrainer)"
               },
               "tip_5lang": {
                 "de": "Eine kurze Kurbelbewegung lockert die Beine nach der Fahrt; da die Griffe nass sind, empfiehlt sich ein kurzes Abwischen oder die Nutzung von Handschuhen.",
                 "hu": "Egy rövid tekerés ellazítja a lábakat a biciklizés után; mivel a fogantyúk nedvesek, érdemes letörölni őket vagy kesztyűt használni a gyakorlathoz.",
                 "ro": "O scurtă mișcare de rotație vă va relaxa picioarele după drum; deoarece mânerele sunt ude, se recomandă ștergerea lor sau folosirea mănușilor.",
-                "en": "A quick spin here loosens your legs after the ride; as the handles are wet, we recommend a quick wipe or using your gloves for a better grip."
+                "en": "A quick spin here loosens your legs after the ride; as the handles are wet, we recommend a quick wipe or using your gloves for a better grip.",
+                "tr": "Burada kısa bir dönüş bacaklarınızı gevşetir; tutamaklar ıslak olduğundan daha iyi bir tutuş için hızlıca silmenizi veya eldiven kullanmanızı öneririz."
               }
             },
             {
@@ -686,13 +759,15 @@
                 "de": "Stehwippe",
                 "hu": "Stehwippe",
                 "ro": "Stehwippe",
-                "en": "Stehwippe"
+                "en": "Stehwippe",
+                "tr": "Stehwippe"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Wippe für eine aktive Pause; stellen Sie sicher, dass Ihre Schuhe guten Grip auf der nassen Oberfläche haben, bevor Sie loswippen.",
                 "hu": "Használja a mérleghintát egy aktív pihenőhöz; győződjön meg róla, hogy cipője nem csúszik a vizes felületen, mielőtt elkezdené a gyakorlatot.",
                 "ro": "Folosiți balansoarul pentru o pauză activă; asigurați-vă că încălțămintea are aderență bună pe suprafața udă înainte de a începe exercițiul.",
-                "en": "Use the seesaw for an active break; ensure your footwear has good grip on the wet surface before you start rocking to maintain your balance."
+                "en": "Use the seesaw for an active break; ensure your footwear has good grip on the wet surface before you start rocking to maintain your balance.",
+                "tr": "Aktif bir mola için tahterevalli kullanın; başlamadan önce ıslak zeminde ayakkabınızın iyi kavrama sağladığından emin olun."
               }
             },
             {
@@ -700,13 +775,15 @@
                 "de": "Steine",
                 "hu": "Steine",
                 "ro": "Steine",
-                "en": "Steine"
+                "en": "Steine",
+                "tr": "Steine"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz an, aber lassen Sie das Rad auf dem Asphalt; die nassen Steinplatten sind tückisch und für Radschuhe besonders glatt. Nur gucken, nicht klettern!",
                 "hu": "Álljon meg egy pillanatra, de a bringát hagyja az aszfalton; a vizes kőlapok csalókák és csúszósak. Csak a kijelölt útról csodálja a szobrokat!",
                 "ro": "Opriți-vă scurt, dar lăsați bicicleta pe asfalt; plăcile de piatră ude sunt înșelătoare și alunecoase pentru pantofii de ciclism. Nu urcați pe ele!",
-                "en": "Stop briefly but leave your bike on the asphalt; the wet stone slabs are treacherous and very slippery for cycling shoes. Look, don't climb!"
+                "en": "Stop briefly but leave your bike on the asphalt; the wet stone slabs are treacherous and very slippery for cycling shoes. Look, don't climb!",
+                "tr": "Kısa bir mola verin ama bisikletinizi asfaltın üzerinde bırakın; ıslak taş plaklar tehlikelidir ve bisiklet ayakkabıları için çok kaygandır. Bakın, tırmanmayın!"
               }
             },
             {
@@ -714,13 +791,15 @@
                 "de": "Der Wasserstrudel",
                 "hu": "Der Wasserstrudel",
                 "ro": "Der Wasserstrudel",
-                "en": "Der Wasserstrudel"
+                "en": "Der Wasserstrudel",
+                "tr": "Der Wasserstrudel"
               },
               "tip_5lang": {
                 "de": "Ein letzter Stopp vor der Rückfahrt; bei Regen wirkt der Strudel besonders kraftvoll. Zeit, die Regenjacke noch einmal festzuzurren für den Endspurt.",
                 "hu": "Az utolsó megálló a visszaút előtt; esőben az örvény különösen erőteljesnek tűnik. Ideje még egyszer szorosra húzni a kabátot a befutó előtt.",
                 "ro": "Ultima oprire înainte de întoarcere; pe ploaie, vârtejul pare deosebit de puternic. E timpul să strângeți bine jacheta pentru ultima etapă.",
-                "en": "One last stop before heading back; the vortex looks especially powerful in the rain. Time to tighten your rain jacket for the final stretch."
+                "en": "One last stop before heading back; the vortex looks especially powerful in the rain. Time to tighten your rain jacket for the final stretch.",
+                "tr": "Geri dönüş yolundan önce son bir durak; girdap yağmurda özellikle güçlü görünür. Son etaba hazırlanmak için yağmurluğunuzu sıkın."
               }
             }
           ]
@@ -730,7 +809,8 @@
             "de": "Am Wintermorgen radeln wir dick eingepackt zum Rettungsschuppen, um uns kurz aufzuwärmen. Mittags führt die Tour am eisigen Deich entlang, wobei der kalte Gegenwind die Fahrt anstrengend, aber erfrischend macht. Nachmittags erreichen wir die Landmarken im letzten Tageslicht, bevor wir pünktlich zum frühen Sonnenuntergang gegen 17:00 Uhr das Ziel ansteuern.",
             "hu": "Téli reggelen alaposan felöltözve tekerünk a mentőhajó-skanzenhez egy rövid melegedőre. Délben a jeges gát mentén haladunk; a hideg szembeél bár nehezíti a haladást, rendkívül frissítő. Délután az utolsó napsugaraknál érjük el a látnivalókat, mielőtt a korai, 17 órai naplemente előtt célba érnénk a kikötőben.",
             "ro": "În dimineața de iarnă pedalăm bine înfofoliți spre muzeu pentru o scurtă încălzire. La prânz, turul continuă pe digul înghețat, unde vântul rece din față face drumul solicitant, dar revigorant. După-amiaza atingem reperele turistice sub ultima lumină, înainte de apusul devreme de la ora 17:00.",
-            "en": "On a winter morning, we cycle wrapped in layers to the rescue shed for a quick warm-up. At noon, the tour follows the icy dike; the cold headwind makes it challenging but refreshing. In the afternoon, we reach the landmarks in the fading daylight before finishing just in time for the early 5 PM sunset."
+            "en": "On a winter morning, we cycle wrapped in layers to the rescue shed for a quick warm-up. At noon, the tour follows the icy dike; the cold headwind makes it challenging but refreshing. In the afternoon, we reach the landmarks in the fading daylight before finishing just in time for the early 5 PM sunset.",
+            "tr": "Kış sabahında katmanlar halinde sarınmış şekilde kurtarma kulübesine kadar pedal çeviririz ve kısa bir ısınma molası veririz. Öğlene doğru tur buzlu sette devam eder; soğuk başağacı esintisi zorlu ama canlandırıcıdır. Öğleden sonra kaybolan ışıkta simge yerlerine ulaşırız ve günü erken 17:00’teki gün batımına yetişecek şekilde bitiririz."
           },
           "stops": [
             {
@@ -738,13 +818,15 @@
                 "de": "Rettungsschuppen Norddeich",
                 "hu": "Rettungsschuppen Norddeich",
                 "ro": "Rettungsschuppen Norddeich",
-                "en": "Rettungsschuppen Norddeich"
+                "en": "Rettungsschuppen Norddeich",
+                "tr": "Rettungsschuppen Norddeich"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause für Ihre Hände und Füße; drinnen herrscht eine angenehme Temperatur, während draußen der Winterwind pfeift.",
                 "hu": "Használja a múzeumlátogatást melegedő szünetként a kezei és lábai számára; bent kellemes a hőmérséklet, miközben kint süvít a téli szél.",
                 "ro": "Folosiți vizita la muzeu ca o pauză de încălzire pentru mâini și picioare; în interior este o temperatură plăcută, în timp ce afară șuieră vântul.",
-                "en": "Use the museum visit as a strategic warm-up break for your hands and feet; it's pleasantly warm inside while the winter wind howls outdoors."
+                "en": "Use the museum visit as a strategic warm-up break for your hands and feet; it's pleasantly warm inside while the winter wind howls outdoors.",
+                "tr": "Müze ziyareti elleriniz ve ayaklarınız için stratejik bir ısınma molası olarak kullanın; dışarıda kış rüzgarı ulurken içerisi hoşça sıcaktır."
               }
             },
             {
@@ -752,13 +834,15 @@
                 "de": "Grünstrand",
                 "hu": "Grünstrand",
                 "ro": "Grünstrand",
-                "en": "Grünstrand"
+                "en": "Grünstrand",
+                "tr": "Grünstrand"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen auf dem Radweg; der Ausblick auf das winterliche Wattenmeer ist atemberaubend, aber die Sicherheit geht beim Fahren vor.",
                 "hu": "Ügyeljen a jeges foltokra a kerékpárúton; a téli Watt-tenger látványa lélegzetelállító, de a biztonság az első a csúszós szakaszokon.",
                 "ro": "Fiți atenți la porțiunile înghețate de pe pistă; vederea spre mare este uluitoare iarna, dar siguranța este prioritară pe gheață.",
-                "en": "Watch out for icy patches on the cycle path; the view of the winter Wadden Sea is breathtaking, but safety comes first on the slippery dike."
+                "en": "Watch out for icy patches on the cycle path; the view of the winter Wadden Sea is breathtaking, but safety comes first on the slippery dike.",
+                "tr": "Bisiklet yolunda buzlu yamalara dikkat edin; kış Wadden Denizi manzarası nefes kesicidir, ancak kaygan sette güvenlik her şeyden önce gelir."
               }
             },
             {
@@ -766,13 +850,15 @@
                 "de": "Sandstrand",
                 "hu": "Sandstrand",
                 "ro": "Sandstrand",
-                "en": "Sandstrand"
+                "en": "Sandstrand",
+                "tr": "Sandstrand"
               },
               "tip_5lang": {
                 "de": "Der Sand kann im Winter hart gefroren sein; parken Sie das Rad und genießen Sie die klare Luft. Ein kurzer Stopp reicht, um nicht zu sehr auszukühlen.",
                 "hu": "A homok télen keményre fagyhat; parkoljon le és élvezze a tiszta levegőt. Egy rövid megálló elég, hogy ne hűljön ki túlságosan a szélben.",
                 "ro": "Nisipul poate fi înghețat bocnă iarna; parcați bicicleta și bucurați-vă de aerul curat. O oprire scurtă este suficientă pentru a nu îngheța.",
-                "en": "The sand can be frozen hard in winter; park your bike and enjoy the crisp, clear air. Keep the stop brief to avoid getting too chilled."
+                "en": "The sand can be frozen hard in winter; park your bike and enjoy the crisp, clear air. Keep the stop brief to avoid getting too chilled.",
+                "tr": "Kışın kum sertçe donmuş olabilir; bisikletinizi park edip temiz, keskin havanın tadını çıkarın. Çok üşümemek için durak kısa tutulmalı."
               }
             },
             {
@@ -780,13 +866,15 @@
                 "de": "Hundestrand",
                 "hu": "Hundestrand",
                 "ro": "Hundestrand",
-                "en": "Hundestrand"
+                "en": "Hundestrand",
+                "tr": "Hundestrand"
               },
               "tip_5lang": {
                 "de": "Auch im Winter sind hier Hunde unterwegs; halten Sie auf dem glatten Asphalt besonders viel Abstand, da Bremsmanöver länger dauern können.",
                 "hu": "Télen is sok kutya jár erre; a csúszós aszfalton tartson extra távolságot tőlük, mivel a fékezés ilyenkor jóval hosszabb időt vehet igénybe.",
                 "ro": "Chiar și iarna sunt câini pe aici; păstrați o distanță mai mare pe asfaltul alunecos, deoarece manevrele de frânare pot dura mai mult.",
-                "en": "Even in winter, many dogs are out here; maintain extra distance on the slick asphalt as braking maneuvers will take significantly longer today."
+                "en": "Even in winter, many dogs are out here; maintain extra distance on the slick asphalt as braking maneuvers will take significantly longer today.",
+                "tr": "Kışın bile burada birçok köpek bulunur; kaygan asfaltta fren manevraları çok daha uzun süreceği için ekstra mesafe bırakın."
               }
             },
             {
@@ -794,13 +882,15 @@
                 "de": "Twister (Rückentrainer)",
                 "hu": "Twister (Rückentrainer)",
                 "ro": "Twister (Rückentrainer)",
-                "en": "Twister (Rückentrainer)"
+                "en": "Twister (Rückentrainer)",
+                "tr": "Twister (Rückentrainer)"
               },
               "tip_5lang": {
                 "de": "Bewegung ist das beste Mittel gegen Kälte; nutzen Sie das Gerät kurz, um den Kreislauf in Schwung zu bringen, aber tragen Sie dabei unbedingt Handschuhe.",
                 "hu": "A mozgás a legjobb ellenszere a hidegnek; használja az eszközt a keringés felpezsdítésére, de közben feltétlenül viseljen meleg kesztyűt.",
                 "ro": "Mișcarea este cel mai bun remediu împotriva frigului; folosiți aparatul pentru a pune sângele în mișcare, dar purtați neapărat mănuși.",
-                "en": "Physical activity is the best remedy for the cold; use the equipment to boost your circulation, but make sure to keep your warm gloves on."
+                "en": "Physical activity is the best remedy for the cold; use the equipment to boost your circulation, but make sure to keep your warm gloves on.",
+                "tr": "Fiziksel aktivite soğuğa karşı en iyi ilaçtır; dolaşımınızı artırmak için ekipmanı kullanın, ancak sıcak eldivenlerinizi takmayı unutmayın."
               }
             },
             {
@@ -808,13 +898,15 @@
                 "de": "Stehwippe",
                 "hu": "Stehwippe",
                 "ro": "Stehwippe",
-                "en": "Stehwippe"
+                "en": "Stehwippe",
+                "tr": "Stehwippe"
               },
               "tip_5lang": {
                 "de": "Ein kleiner Balanceakt im Winterwind; achten Sie auf eine eisfreie Trittfläche, bevor Sie aufsteigen, um ein Ausrutschen auf dem Metall zu vermeiden.",
                 "hu": "Egy kis egyensúlyozás a téli szélben; mielőtt felállna, ellenőrizze, hogy a taposófelület jégmentes-e, nehogy megcsússzon a fém részeken.",
                 "ro": "Un mic exercițiu de echilibru în vântul de iarnă; verificați ca suprafața să nu fie înghețată înainte de a urca, pentru a evita alunecarea.",
-                "en": "A brief balancing act in the winter wind; check that the footplate is ice-free before stepping up to avoid any slips on the cold metal."
+                "en": "A brief balancing act in the winter wind; check that the footplate is ice-free before stepping up to avoid any slips on the cold metal.",
+                "tr": "Kış rüzgârında kısa bir denge hareketi; herhangi bir ayağa kalkmadan önce ayak plakasının buzsuz olduğundan emin olun, böylece soğuk metalde kayma olmasın."
               }
             },
             {
@@ -822,13 +914,15 @@
                 "de": "Steine",
                 "hu": "Steine",
                 "ro": "Steine",
-                "en": "Steine"
+                "en": "Steine",
+                "tr": "Steine"
               },
               "tip_5lang": {
                 "de": "Die gefrorenen Steine glitzern im Winterlicht; bleiben Sie für das Foto auf dem gestreuten Weg, da die Skulpturen selbst heute spiegelglatt sein können.",
                 "hu": "A fagyott kövek gyönyörűen csillognak a téli napfényben; a fotóhoz maradjon a felszórt úton, mert a szobrok felülete tükörsima és jeges lehet.",
                 "ro": "Pietrele înghețate strălucesc în lumina iernii; rămâneți pe poteca curățată pentru fotografii, deoarece sculpturile pot fi extrem de alunecoase.",
-                "en": "The frozen stones glitter beautifully in the winter light; stay on the treated path for photos, as the sculptures themselves can be ice-slicked."
+                "en": "The frozen stones glitter beautifully in the winter light; stay on the treated path for photos, as the sculptures themselves can be ice-slicked.",
+                "tr": "Donmuş taşlar kış ışığında güzelce parlar; fotoğraflar için işlem görmüş yolda kalın, çünkü heykellerin kendileri buzlu ve kaygan olabilir."
               }
             },
             {
@@ -836,13 +930,15 @@
                 "de": "Der Wasserstrudel",
                 "hu": "Der Wasserstrudel",
                 "ro": "Der Wasserstrudel",
-                "en": "Der Wasserstrudel"
+                "en": "Der Wasserstrudel",
+                "tr": "Der Wasserstrudel"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den stimmungsvollen Sonnenuntergang gegen 17 Uhr direkt am Hafenbecken; danach sollten Sie schnell ein warmes Lokal für den Abend aufsuchen.",
                 "hu": "Élvezze a hangulatos naplementét 17 óra körül közvetlenül a kikötőben; utána érdemes gyorsan keresni egy fűtött helyet a vacsorához.",
                 "ro": "Bucurați-vă de apusul de soare pitoresc în jurul orei 17 chiar lângă port; după aceea, căutați rapid un local călduros pentru seară.",
-                "en": "Enjoy the atmospheric sunset around 5 PM right by the harbor basin; afterwards, head quickly to a warm indoor venue for the evening."
+                "en": "Enjoy the atmospheric sunset around 5 PM right by the harbor basin; afterwards, head quickly to a warm indoor venue for the evening.",
+                "tr": "Liman havzası kenarında yaklaşık 17:00 civarında atmosferik gün batımının tadını çıkarın; ardından akşam için hızla sıcak bir iç mekâna gidin."
               }
             }
           ]
@@ -862,7 +958,8 @@
             "de": "Rettungsschuppen Norddeich",
             "hu": "Rettungsschuppen Norddeich",
             "ro": "Rettungsschuppen Norddeich",
-            "en": "Rettungsschuppen Norddeich"
+            "en": "Rettungsschuppen Norddeich",
+            "tr": "Rettungsschuppen Norddeich"
           },
           "coords": [
             7.159556,
@@ -877,7 +974,8 @@
             "de": "Entdecken Sie in diesem historischen Schuppen die heldenhafte maritime Geschichte der örtlichen Rettungsschwimmer und versuchen Sie, früh zu kommen, um den nachmittäglichen Besucherstrom zu meiden.",
             "hu": "Fedezze fel a helyi vízimentők hősies tengeri történelmét ebben a történelmi fészerben, és próbáljon meg korán érkezni, hogy elkerülje a délutáni tömeget.",
             "ro": "Descoperiți istoria maritimă eroică a salvamarilor locali în acest șopron istoric și încercați să vizitați devreme pentru a evita aglomerația de după-amiază.",
-            "en": "Discover the heroic maritime history of local lifeguards in this historic shed, and try to visit early to avoid the afternoon crowds."
+            "en": "Discover the heroic maritime history of local lifeguards in this historic shed, and try to visit early to avoid the afternoon crowds.",
+            "tr": "Bu tarihi kulübede yerel can kurtaranların kahramanca denizcilik tarihini keşfedin ve öğleden sonraki kalabalıktan kaçınmak için erken ziyaret etmeye çalışın."
           }
         },
         {
@@ -885,7 +983,8 @@
             "de": "Grünstrand",
             "hu": "Grünstrand",
             "ro": "Grünstrand",
-            "en": "Grünstrand"
+            "en": "Grünstrand",
+            "tr": "Grünstrand"
           },
           "coords": [
             7.151539,
@@ -900,7 +999,8 @@
             "de": "Entspannen Sie am unberührten Grünstrand, der eine einzigartige Alternative zum Sand bietet und sich perfekt für ein Picknick eignet.",
             "hu": "Pihenjen ezen az érintetlen füves strandon, amely egyedülálló alternatívát kínál a homokkal szemben, és tökéletes egy piknikhez.",
             "ro": "Relaxați-vă pe această plajă de iarbă curată care oferă o alternativă unică la nisip, perfectă pentru un picnic fără pietriș.",
-            "en": "Relax on this pristine grassy beach which offers a unique alternative to sand, making it perfect for a picnic without the grit."
+            "en": "Relax on this pristine grassy beach which offers a unique alternative to sand, making it perfect for a picnic without the grit.",
+            "tr": "Çakıl yerine eşsiz bir alternatif sunan bu bakir çimenli plajda rahatlayın; kum olmadığı için piknik için idealdir."
           }
         },
         {
@@ -908,7 +1008,8 @@
             "de": "Sandstrand",
             "hu": "Sandstrand",
             "ro": "Sandstrand",
-            "en": "Sandstrand"
+            "en": "Sandstrand",
+            "tr": "Kum Plajı"
           },
           "coords": [
             7.149118,
@@ -923,7 +1024,8 @@
             "de": "Genießen Sie das klassische Nordsee-Erlebnis an diesem weitläufigen Sandstrand, aber überprüfen Sie unbedingt die Gezeiten, bevor Sie schwimmen gehen.",
             "hu": "Élvezze a klasszikus északi-tengeri élményt ezen a tágas homokos parton, de mindenképpen ellenőrizze az árapály menetrendjét fürdés előtt.",
             "ro": "Bucurați-vă de experiența clasică a Mării Nordului pe acest țărm nisipos întins, dar asigurați-vă că verificați programul mareelor înainte de a înota.",
-            "en": "Enjoy the classic North Sea experience on this expansive sandy shore, but make sure to check the tide schedule before you plan a swim."
+            "en": "Enjoy the classic North Sea experience on this expansive sandy shore, but make sure to check the tide schedule before you plan a swim.",
+            "tr": "Bu geniş kumlu kıyıda klasik Kuzey Denizi deneyiminin tadını çıkarın; ancak yüzme planlamadan önce gelgit saatlerini kontrol etmeyi unutmayın."
           }
         },
         {
@@ -931,7 +1033,8 @@
             "de": "Hundestrand",
             "hu": "Hundestrand",
             "ro": "Hundestrand",
-            "en": "Hundestrand"
+            "en": "Hundestrand",
+            "tr": "Köpek Plajı"
           },
           "coords": [
             7.147311,
@@ -946,7 +1049,8 @@
             "de": "Lassen Sie Ihre Vierbeiner an diesem speziellen Hundestrand frei herumlaufen, der auch tolle Fotomotive von spielenden Haustieren am Meer bietet.",
             "hu": "Hagyja szabadon kóborolni négylábú barátait ezen a kijelölt kutyastrandon, amely nagyszerű fotózási lehetőségeket is kínál a játékos háziállatokról.",
             "ro": "Lăsați prietenii cu patru picioare să alerge liber pe această plajă dedicată câinilor, care oferă și oportunități excelente de fotografiere.",
-            "en": "Let your four-legged friends roam freely at this dedicated dog beach, which also provides great photo opportunities of playful pets by the sea."
+            "en": "Let your four-legged friends roam freely at this dedicated dog beach, which also provides great photo opportunities of playful pets by the sea.",
+            "tr": "Dört ayaklı dostlarınızı serbestçe koşup oynatabileceğiniz bu özel köpek plajında, deniz kenarındaki neşeli evcil hayvanların fotoğrafları için de harika fırsatlar var."
           }
         },
         {
@@ -954,7 +1058,8 @@
             "de": "Twister (Rückentrainer)",
             "hu": "Twister (Rückentrainer)",
             "ro": "Twister (Rückentrainer)",
-            "en": "Twister (Rückentrainer)"
+            "en": "Twister (Rückentrainer)",
+            "tr": "Twister (Sırt Egzersizi)"
           },
           "coords": [
             7.155712,
@@ -969,7 +1074,8 @@
             "de": "Trainieren Sie kurz Ihren Rücken an diesem Outdoor-Fitnessgerät und nutzen Sie die frische Meeresbrise, um Ihre Routine zu beleben.",
             "hu": "Mozgassa át hátát ezen a szabadtéri fitneszgépen, kihasználva a friss tengeri szellőt a napi rutin felpezsdítésére.",
             "ro": "Faceți un scurt antrenament pentru spate la acest echipament de fitness în aer liber, profitând de briza proaspătă a mării.",
-            "en": "Give your back a quick workout on this outdoor fitness equipment, taking advantage of the fresh sea breeze to energize your routine."
+            "en": "Give your back a quick workout on this outdoor fitness equipment, taking advantage of the fresh sea breeze to energize your routine.",
+            "tr": "Taze deniz esintisinden faydalanarak bu açık hava spor aletinde sırtınıza kısa bir antrenman yaptırın."
           }
         },
         {
@@ -977,7 +1083,8 @@
             "de": "Stehwippe",
             "hu": "Stehwippe",
             "ro": "Stehwippe",
-            "en": "Stehwippe"
+            "en": "Stehwippe",
+            "tr": "Ayakta Tahterevalli"
           },
           "coords": [
             7.154715,
@@ -992,7 +1099,8 @@
             "de": "Testen Sie Ihr Gleichgewicht auf dieser Stehwippe direkt an der Promenade, eine kleine, unterhaltsame Herausforderung für Groß und Klein.",
             "hu": "Tesztelje egyensúlyát ezen az álló libikókán közvetlenül a sétány mellett, ami szórakoztató kihívás gyerekeknek és felnőtteknek egyaránt.",
             "ro": "Testați-vă echilibrul pe acest balansoar de tip stand chiar lângă promenadă, o mică provocare distractivă pentru copii și adulți.",
-            "en": "Test your balance on this standing seesaw right by the promenade, a fun little challenge for both kids and adults taking a stroll."
+            "en": "Test your balance on this standing seesaw right by the promenade, a fun little challenge for both kids and adults taking a stroll.",
+            "tr": "Kordon boyunca yürüyüş yapan hem çocuklar hem yetişkinler için eğlenceli küçük bir meydan okuma olan bu ayakta tahterevallide dengeyi test edin."
           }
         },
         {
@@ -1000,7 +1108,8 @@
             "de": "Steine",
             "hu": "Steine",
             "ro": "Steine",
-            "en": "Steine"
+            "en": "Steine",
+            "tr": "Kayalar"
           },
           "coords": [
             7.158167,
@@ -1015,7 +1124,8 @@
             "de": "Bewundern Sie diese strategisch platzierten Steine, die als Küstenschutz dienen und einen rauen, aber schönen Ort bieten, um die Wellen zu beobachten.",
             "hu": "Csodálja meg ezeket a stratégiailag elhelyezett köveket, amelyek partvédelemként szolgálnak, és lenyűgöző helyet biztosítanak a hullámok megfigyelésére.",
             "ro": "Admirați aceste pietre plasate strategic care servesc drept protecție a coastei și oferă un loc aspru, dar frumos, pentru a privi valurile.",
-            "en": "Admire these strategically placed stones that serve as coastal protection and offer a ruggedly beautiful spot to sit and watch the waves."
+            "en": "Admire these strategically placed stones that serve as coastal protection and offer a ruggedly beautiful spot to sit and watch the waves.",
+            "tr": "Kıyı koruması olarak stratejik şekilde yerleştirilmiş bu kayalara hayran kalın; dalgaları izlemek için sağlam ve çarpıcı bir oturma noktası sunarlar."
           }
         },
         {
@@ -1023,7 +1133,8 @@
             "de": "Der Wasserstrudel",
             "hu": "Der Wasserstrudel",
             "ro": "Der Wasserstrudel",
-            "en": "Der Wasserstrudel"
+            "en": "Der Wasserstrudel",
+            "tr": "Su girdabı"
           },
           "coords": [
             7.158913,
@@ -1038,7 +1149,8 @@
             "de": "Beobachten Sie die faszinierenden, von den Gezeiten gebildeten Wassermuster hier, die man am besten mit etwas Abstand in ihrer vollen Größe erfassen kann.",
             "hu": "Figyelje meg az árapály által formált lenyűgöző vízmintákat itt, amelyeket a legjobban kicsit távolabbról, a teljes képet nézve lehet értékelni.",
             "ro": "Observați modelele fascinante de apă formate de maree aici, cel mai bine apreciate dacă stați puțin mai în spate pentru a vedea scara completă.",
-            "en": "Observe the mesmerizing water patterns formed by the tides here, best appreciated when standing a bit further back to grasp the full scale."
+            "en": "Observe the mesmerizing water patterns formed by the tides here, best appreciated when standing a bit further back to grasp the full scale.",
+            "tr": "Gelgitlerin oluşturduğu hipnotize edici su desenlerini gözlemleyin; tam ölçeği kavramak için biraz geri durarak en iyi şekilde izlenir."
           }
         }
       ],
@@ -1046,7 +1158,8 @@
         "de": "Beginnen Sie Ihre Autotour mit einem morgendlichen Besuch des Schifffahrtsmuseums. Die Mittagszeit ist ideal für kurze Fahrten zwischen den Stränden von Norddeich. Am späten Nachmittag können Sie sich an den Outdoor-Fitness-Wahrzeichen die Beine vertreten. Beenden Sie Ihre Küstenfahrt mit einem Abend an den mächtigen Wasserstrudeln.",
         "hu": "Kezdje autós túráját egy reggeli látogatással a tengerészeti múzeumban. A dél tökéletes a Norddeich különböző strandjai közötti rövid ugrásokhoz. Késő délután nyújtsa ki a lábát a szabadtéri fitneszpontokon. Fejezze be tengerparti utazását azzal, hogy este a hatalmas árapály-örvényeket figyeli a köveknél.",
         "ro": "Începeți turul cu mașina cu o vizită de dimineață la muzeul maritim. Prânzul este perfect pentru salturi scurte între diferitele plaje din Norddeich. La sfârșitul după-amiezii, întindeți-vă picioarele la punctele de fitness în aer liber. Încheiați-vă plimbarea pe coastă cu o seară privind vârtejurile puternice de maree.",
-        "en": "Start your driving tour with a morning visit to the maritime museum. Midday is perfect for short hops between the distinct green, sandy, and dog-friendly beaches of Norddeich. In the late afternoon, stretch your legs at the outdoor fitness landmarks. Finish your coastal drive with an evening watching the powerful tidal whirlpools near the rocky breakwaters."
+        "en": "Start your driving tour with a morning visit to the maritime museum. Midday is perfect for short hops between the distinct green, sandy, and dog-friendly beaches of Norddeich. In the late afternoon, stretch your legs at the outdoor fitness landmarks. Finish your coastal drive with an evening watching the powerful tidal whirlpools near the rocky breakwaters.",
+        "tr": "Sürüş turunuza denizcilik müzesine sabah ziyaretiyle başlayın. Öğle vakti Norddeich'in farklı yeşil, kumlu ve köpek dostu plajları arasında kısa gezintiler için ideal. İkindi vakti açık hava sporlandmarklarında bacaklarınızı gerin. Sahil sürüşünüze, kayalık dalgakıran yakınlarındaki güçlü gelgit girdaplarını akşam izleyerek son verin."
       },
       "variants": {
         "rainy": {
@@ -1054,7 +1167,8 @@
             "de": "Der Vormittag beginnt entspannt mit der Fahrt zum Rettungsschuppen, wo Sie direkt vor der Tür parken und trocken ins Museum schlüpfen können. Mittags nutzen wir das Auto als mobilen Unterstand, um die stürmische See vom Deichparkplatz aus zu beobachten. Nachmittags springen wir nur kurz für Fotos zu den Landmarken heraus. Abends erreichen wir bequem und trocken den Hafen.",
             "hu": "A délelőtt kényelmesen indul: autóval gurulunk a mentőhajó-skanzenig, ahol a bejárat közelében parkolva szárazon jutunk be. Délben az autó biztonságos menedékként szolgál, ahonnan a parkolóból is csodálhatjuk a viharos tengert. Délután csak rövid fotószünetekre szállunk ki a látnivalóknál. Este kényelemben és szárazon érjük el a kikötőt.",
             "ro": "Dimineața începe relaxat cu un drum până la muzeu, unde puteți parca aproape și intra fără să vă udați. La prânz, mașina servește drept adăpost mobil pentru a observa marea agitată direct din parcare. După-amiaza ieșim doar scurt pentru fotografii la punctele de interes. Seara ajungem confortabil și uscați în zona portului.",
-            "en": "The morning starts relaxed with a drive to the rescue shed, where you can park close by and slip inside dry. At noon, the car acts as a mobile shelter, allowing you to watch the stormy sea from the parking lot. In the afternoon, we hop out only briefly for photos at the landmarks. Evening finds us arriving at the harbor comfortably dry."
+            "en": "The morning starts relaxed with a drive to the rescue shed, where you can park close by and slip inside dry. At noon, the car acts as a mobile shelter, allowing you to watch the stormy sea from the parking lot. In the afternoon, we hop out only briefly for photos at the landmarks. Evening finds us arriving at the harbor comfortably dry.",
+            "tr": "Sabah, kurtarma kulübesine yapılan sürüşle sakin başlar; yakın parka aracı bırakıp kuru bir şekilde içeri girebilirsiniz. Öğle vakti araç hareketli bir sığınak görevi görerek otoparktan fırtınalı denizi izlemenizi sağlar. Öğleden sonra simge yapılar için sadece kısa fotoğraf molaları veriyoruz. Akşam ise limana varıyor ve konforlu bir şekilde kuru kalıyoruz."
           },
           "stops": [
             {
@@ -1062,13 +1176,15 @@
                 "de": "Rettungsschuppen Norddeich",
                 "hu": "Rettungsschuppen Norddeich",
                 "ro": "Rettungsschuppen Norddeich",
-                "en": "Rettungsschuppen Norddeich"
+                "en": "Rettungsschuppen Norddeich",
+                "tr": "Rettungsschuppen Norddeich"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf dem nahen Großparkplatz; der kurze Weg zum Museum ist auch bei starkem Regen gut zu bewältigen. Ein idealer Startpunkt für Autofahrer.",
                 "hu": "Parkoljon a közeli nagyparkolóban; a múzeumig tartó rövid séta még erős esőben is könnyen teljesíthető. Ideális kezdőpont autósoknak.",
                 "ro": "Parcați în parcarea mare din apropiere; drumul scurt până la muzeu este ușor de parcurs chiar și pe ploaie torențială. Un punct de start ideal.",
-                "en": "Park in the large nearby lot; the short walk to the museum is manageable even in heavy rain. An ideal starting point for car travelers today."
+                "en": "Park in the large nearby lot; the short walk to the museum is manageable even in heavy rain. An ideal starting point for car travelers today.",
+                "tr": "Büyük yakın otoparka park edin; müzeye kısa yürüyüş yoğun yağmurda bile katlanılabilir. Bugün araba ile seyahat edenler için ideal bir başlangıç noktası."
               }
             },
             {
@@ -1076,13 +1192,15 @@
                 "de": "Grünstrand",
                 "hu": "Grünstrand",
                 "ro": "Grünstrand",
-                "en": "Grünstrand"
+                "en": "Grünstrand",
+                "tr": "Yeşil Plaj"
               },
               "tip_5lang": {
                 "de": "Vom Parkplatz am Deich haben Sie einen guten Blick; bei Starkregen können Sie im Auto bleiben und die wilde Nordsee durch die Scheibe beobachten.",
                 "hu": "A gát melletti parkolóból remek kilátás nyílik; szakadó esőben maradjon az autóban, és a szélvédőn keresztül csodálja a vad Északi-tengert.",
                 "ro": "Din parcarea de lângă dig aveți o vedere bună; în caz de ploaie torențială, puteți rămâne în mașină pentru a observa marea prin parbriz.",
-                "en": "You get a great view from the parking lot by the dike; during heavy rain, stay inside and watch the wild North Sea through your windshield."
+                "en": "You get a great view from the parking lot by the dike; during heavy rain, stay inside and watch the wild North Sea through your windshield.",
+                "tr": "Setin yanındaki otoparktan harika bir manzara elde edersiniz; şiddetli yağmurda içeride kalıp rüzgarlı Kuzey Denizi'ni sileceklerin arkasından izleyin."
               }
             },
             {
@@ -1090,13 +1208,15 @@
                 "de": "Sandstrand",
                 "hu": "Sandstrand",
                 "ro": "Sandstrand",
-                "en": "Sandstrand"
+                "en": "Sandstrand",
+                "tr": "Kum Plajı"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den strandnahen Parkplatz für einen schnellen Sprung an die Wasserkante; so sind Sie bei einem plötzlichen Schauer schnell wieder im Trockenen.",
                 "hu": "Használja a parthoz közeli parkolót egy gyors kiszálláshoz a vízpartra; így egy hirtelen zápor esetén pillanatok alatt visszaérhet a száraz autóba.",
                 "ro": "Folosiți parcarea de lângă plajă pentru o vizită rapidă la malul apei; astfel, în caz de aversă, veți fi imediat înapoi la adăpost în mașină.",
-                "en": "Use the parking lot near the beach for a quick dash to the water's edge; this way, you can quickly return to the car if a sudden shower starts."
+                "en": "Use the parking lot near the beach for a quick dash to the water's edge; this way, you can quickly return to the car if a sudden shower starts.",
+                "tr": "Sahile hızlı bir koşu için plaja yakın otoparkı kullanın; böylece ani bir sağanak başladığında çabucak araca dönebilirsiniz."
               }
             },
             {
@@ -1104,13 +1224,15 @@
                 "de": "Hundestrand",
                 "hu": "Hundestrand",
                 "ro": "Hundestrand",
-                "en": "Hundestrand"
+                "en": "Hundestrand",
+                "tr": "Köpek Plajı"
               },
               "tip_5lang": {
                 "de": "Ideal, um den Hund kurz im Regen springen zu lassen; dank des nahen Parkplatzes können Sie das nasse Tier schnell wieder im Auto verstauen.",
                 "hu": "Ideális egy rövid esős kutyasétáltatáshoz; a közeli parkolónak köszönhetően a vizes kedvencet gyorsan vissza tudja tenni az autó biztonságába.",
                 "ro": "Ideal pentru o scurtă plimbare cu câinele pe ploaie; datorită parcării apropiate, puteți urca rapid animalul ud înapoi în mașină.",
-                "en": "Perfect for letting your dog have a quick splash in the rain; thanks to the nearby parking, you can get your wet pet back into the car quickly."
+                "en": "Perfect for letting your dog have a quick splash in the rain; thanks to the nearby parking, you can get your wet pet back into the car quickly.",
+                "tr": "Köpeğinizi yağmurda kısa bir sıçrama için bırakmak için ideal; yakın park sayesinde ıslak evcil hayvanınızı hızlıca araca alabilirsiniz."
               }
             },
             {
@@ -1118,13 +1240,15 @@
                 "de": "Twister (Rückentrainer)",
                 "hu": "Twister (Rückentrainer)",
                 "ro": "Twister (Rückentrainer)",
-                "en": "Twister (Rückentrainer)"
+                "en": "Twister (Rückentrainer)",
+                "tr": "Twister (Sırt Egzersizi)"
               },
               "tip_5lang": {
                 "de": "Nur ein kurzer Halt für eine kleine Bewegungseinheit; halten Sie ein Handtuch im Auto bereit, um sich nach dem Kontakt mit dem nassen Metall abzutrocknen.",
                 "hu": "Csak egy rövid megálló egy kis mozgáshoz; tartson egy törölközőt az autóban, hogy a vizes fémeszközök használata után gyorsan megszárítkozhasson.",
                 "ro": "O scurtă oprire pentru puțină mișcare; țineți un prosop în mașină pentru a vă șterge după contactul cu mânerele ude ale aparatului.",
-                "en": "Just a brief stop for some light exercise; keep a towel handy in the car to dry off after contact with the wet metal equipment handles."
+                "en": "Just a brief stop for some light exercise; keep a towel handy in the car to dry off after contact with the wet metal equipment handles.",
+                "tr": "Kısa bir hafif egzersiz molası için ideal; ıslak metal alet tutamaklarıyla temas sonrası kurulanmak için arabanızda bir havlu bulundurun."
               }
             },
             {
@@ -1132,13 +1256,15 @@
                 "de": "Stehwippe",
                 "hu": "Stehwippe",
                 "ro": "Stehwippe",
-                "en": "Stehwippe"
+                "en": "Stehwippe",
+                "tr": "Ayakta Tahterevalli"
               },
               "tip_5lang": {
                 "de": "Gönnen Sie sich den Spaß trotz Regen; achten Sie beim Aussteigen auf Pfützen auf dem Parkplatz und nutzen Sie die Haltegriffe an der Wippe.",
                 "hu": "Ne hagyja ki a mókát az eső ellenére sem; kiszálláskor ügyeljen a tócsákra a parkolóban, és a hintánál használja a biztonsági kapaszkodókat.",
                 "ro": "Nu ratați distracția în ciuda ploii; atenție la bălțile din parcare la coborâre și folosiți barele de susținere ale balansoarului.",
-                "en": "Enjoy the fun despite the rain; watch out for puddles in the parking lot when getting out, and make sure to use the seesaw's handrails."
+                "en": "Enjoy the fun despite the rain; watch out for puddles in the parking lot when getting out, and make sure to use the seesaw's handrails.",
+                "tr": "Yağmura rağmen eğlenin; aracınızdan inerken otoparktaki su birikintilerine dikkat edin ve tahterevallinin tutamaklarını kullanın."
               }
             },
             {
@@ -1146,13 +1272,15 @@
                 "de": "Steine",
                 "hu": "Steine",
                 "ro": "Steine",
-                "en": "Steine"
+                "en": "Steine",
+                "tr": "Kayalar"
               },
               "tip_5lang": {
                 "de": "Kurzer Fotostopp direkt von der Straße aus möglich; die nassen Skulpturen glänzen im Regen besonders schön, auch wenn man nur kurz aus dem Auto steigt.",
                 "hu": "Rövid fotómegálló közvetlenül az út mellől; a vizes szobrok gyönyörűen csillognak az esőben, még ha csak pár pillanatra is száll ki az autóból.",
                 "ro": "O scurtă oprire pentru poze este posibilă chiar de lângă drum; sculpturile ude strălucesc frumos în ploaie, chiar și pentru o vizită scurtă.",
-                "en": "A quick photo stop is possible right from the roadside; the wet sculptures glisten beautifully in the rain, even for a very brief visit."
+                "en": "A quick photo stop is possible right from the roadside; the wet sculptures glisten beautifully in the rain, even for a very brief visit.",
+                "tr": "Yol kenarından hızlı bir fotoğraf molası mümkündür; ıslak heykeller yağmurda güzelce parlak görünür, çok kısa bir ziyaret için bile."
               }
             },
             {
@@ -1160,13 +1288,15 @@
                 "de": "Der Wasserstrudel",
                 "hu": "Der Wasserstrudel",
                 "ro": "Der Wasserstrudel",
-                "en": "Der Wasserstrudel"
+                "en": "Der Wasserstrudel",
+                "tr": "Su girdabı"
               },
               "tip_5lang": {
                 "de": "Letzter Halt am Hafen; parken Sie kurz für einen Blick auf den Strudel, bevor Sie zu Ihrem nächsten Ziel oder einer warmen Unterkunft weiterfahren.",
                 "hu": "Utolsó megálló a kikötőnél; parkoljon le egy pillanatra az örvény látványáért, mielőtt továbbhajtana egy fűtött helyre vagy a szállására.",
                 "ro": "Ultima oprire în port; parcați scurt pentru a vedea vârtejul, înainte de a pleca spre o locație călduroasă pentru restul serii.",
-                "en": "Final stop at the harbor; park briefly for a look at the vortex before driving on to your next destination or a warm indoor venue."
+                "en": "Final stop at the harbor; park briefly for a look at the vortex before driving on to your next destination or a warm indoor venue.",
+                "tr": "Sonağa limanda uğrayın; girdabı kısa süreliğine görmek için kısa park edin, sonra bir sonraki durağa veya sıcak bir iç mekâna doğru sürün."
               }
             }
           ]
@@ -1176,7 +1306,8 @@
             "de": "Der Wintermorgen beginnt gemütlich mit der Fahrt zum Rettungsschuppen, wo die Heizung im Auto die Kälte draußen hält. Mittags bewundern wir den gefrorenen Strand bequem vom Deichparkplatz aus. Nachmittags steuern wir die Landmarken für kurze Besichtigungen an, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend endet warm in einem Restaurant am Hafen.",
             "hu": "A téli reggel kényelmesen indul: az autóban a fűtés távol tartja a kinti fagyot, miközben a múzeumhoz hajtunk. Délben a gát melletti parkolóból csodáljuk a jeges tengerpartot. Délután rövid kiszállásokkal tekintjük meg a látnivalókat, mielőtt 17 órakor lemegy a nap. Az este egy meleg kikötői étteremben ér véget.",
             "ro": "Dimineața de iarnă începe confortabil cu un drum spre muzeu, căldura din mașină fiind un mare avantaj. La prânz, admirăm plaja înghețată direct din parcarea de pe dig. După-amiaza vizităm rapid punctele de interes înainte de apusul de la ora 17:00. Seara se încheie la căldură, într-un restaurant din port.",
-            "en": "The winter morning starts comfortably with a drive to the rescue shed, with the car's heater keeping the frost at bay. At noon, we admire the frozen beach from the comfort of the dike parking lot. In the afternoon, we head to the landmarks for quick visits before the 5 PM sunset. The evening ends warmly at a harbor restaurant."
+            "en": "The winter morning starts comfortably with a drive to the rescue shed, with the car's heater keeping the frost at bay. At noon, we admire the frozen beach from the comfort of the dike parking lot. In the afternoon, we head to the landmarks for quick visits before the 5 PM sunset. The evening ends warmly at a harbor restaurant.",
+            "tr": "Kış sabahı, arabanın kaloriferi donu uzak tutarken rahat bir şekilde kurtarma kulübesine yapılan sürüşle başlar. Öğle vakti set otoparkından donmuş plajı hayranlıkla izliyoruz. Öğleden sonra 17:00'deki güneş batmadan önce simge yapılara kısa ziyaretler yapıyoruz. Akşam ise liman restoranında sıcak bir şekilde sona erer."
           },
           "stops": [
             {
@@ -1184,13 +1315,15 @@
                 "de": "Rettungsschuppen Norddeich",
                 "hu": "Rettungsschuppen Norddeich",
                 "ro": "Rettungsschuppen Norddeich",
-                "en": "Rettungsschuppen Norddeich"
+                "en": "Rettungsschuppen Norddeich",
+                "tr": "Rettungsschuppen Norddeich"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkmöglichkeiten direkt am Haus; so minimieren Sie die Zeit in der Kälte und können das beheizte Museum in vollen Zügen genießen.",
                 "hu": "Használja a közvetlenül az épület melletti parkolót; így minimális időt tölt a hidegben, és zavartalanul élvezheti a fűtött múzeum kiállításait.",
                 "ro": "Folosiți locurile de parcare de lângă clădire; astfel minimizați timpul petrecut în frig și vă puteți bucura din plin de muzeul încălzit.",
-                "en": "Use the parking spaces right by the building; this minimizes your time in the cold and lets you enjoy the heated museum to the fullest."
+                "en": "Use the parking spaces right by the building; this minimizes your time in the cold and lets you enjoy the heated museum to the fullest.",
+                "tr": "Binanın hemen yanındaki park yerlerini kullanın; bu soğukta dışarıda kalma sürenizi en aza indirir ve ısıtmalı müzenin keyfini tam olarak çıkarmanızı sağlar."
               }
             },
             {
@@ -1198,13 +1331,15 @@
                 "de": "Grünstrand",
                 "hu": "Grünstrand",
                 "ro": "Grünstrand",
-                "en": "Grünstrand"
+                "en": "Grünstrand",
+                "tr": "Yeşil Plaj"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz bietet einen tollen Panoramablick auf das winterliche Watt; perfekt für Fotos, ohne dass man zu lange dem eisigen Wind ausgesetzt ist.",
                 "hu": "A parkolóból nagyszerű panoráma nyílik a téli Watt-tengerre; tökéletes fotózáshoz anélkül, hogy túl sokáig kellene az erős fagyos szélben állnia.",
                 "ro": "Parcarea oferă o vedere panoramică excelentă asupra mării iarna; perfect pentru fotografii fără a sta prea mult expus la vântul înghețat.",
-                "en": "The parking lot offers a great panoramic view of the winter Wadden Sea; perfect for photos without long exposure to the biting coastal wind."
+                "en": "The parking lot offers a great panoramic view of the winter Wadden Sea; perfect for photos without long exposure to the biting coastal wind.",
+                "tr": "Otopark kış Wadden Denizi'nin harika bir panorama manzarasını sunar; ısırıcı kıyı rüzgarına uzun süre maruz kalmadan fotoğraflar için mükemmeldir."
               }
             },
             {
@@ -1212,13 +1347,15 @@
                 "de": "Sandstrand",
                 "hu": "Sandstrand",
                 "ro": "Sandstrand",
-                "en": "Sandstrand"
+                "en": "Sandstrand",
+                "tr": "Kum Plajı"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Abstecher zum gefrorenen Ufer lohnt sich; dank des nahen Autos können Sie sich nach dem windigen Spaziergang sofort wieder aufwärmen.",
                 "hu": "Megéri egy rövid kitérőt tenni a fagyos partra; a közeli autónak köszönhetően a szeles séta után azonnal visszaülhet a melegbe felfrissülni.",
                 "ro": "O scurtă vizită la malul înghețat merită efortul; datorită mașinii apropiate, vă puteți reîncălzi imediat după plimbarea prin vântul tăios.",
-                "en": "A brief detour to the frozen shoreline is worth it; thanks to the nearby car, you can warm up immediately after your windy seaside stroll."
+                "en": "A brief detour to the frozen shoreline is worth it; thanks to the nearby car, you can warm up immediately after your windy seaside stroll.",
+                "tr": "Donmuş kıyıya kısa bir sapma değer; yakın araba sayesinde rüzgarlı sahil yürüyüşünüzün ardından hemen ısınabilirsiniz."
               }
             },
             {
@@ -1226,13 +1363,15 @@
                 "de": "Hundestrand",
                 "hu": "Hundestrand",
                 "ro": "Hundestrand",
-                "en": "Hundestrand"
+                "en": "Hundestrand",
+                "tr": "Köpek Plajı"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich, um die Gassi-Runde im Winter kurz und knackig zu halten; die Sitzheizung ist nach der Rückkehr ein wahrer Segen.",
                 "hu": "Parkoljon a lehető legközelebb, hogy a téli kutyasétáltatás rövid és frissítő legyen; az ülésfűtés igazi áldás lesz, mire visszaér az autóhoz.",
                 "ro": "Parcați cât mai aproape pentru o plimbare scurtă și revigorantă cu câinele; încălzirea în scaune va fi o binecuvântare la întoarcerea în mașină.",
-                "en": "Park as close as possible to keep the winter dog walk short and sweet; your seat heater will be a true blessing once you return to the car."
+                "en": "Park as close as possible to keep the winter dog walk short and sweet; your seat heater will be a true blessing once you return to the car.",
+                "tr": "Kış köpek yürüyüşünü kısa ve tatlı tutmak için mümkün olduğunca yakın park edin; araca döndüğünüzde koltuk ısıtıcınız gerçek bir nimet olacaktır."
               }
             },
             {
@@ -1240,13 +1379,15 @@
                 "de": "Twister (Rückentrainer)",
                 "hu": "Twister (Rückentrainer)",
                 "ro": "Twister (Rückentrainer)",
-                "en": "Twister (Rückentrainer)"
+                "en": "Twister (Rückentrainer)",
+                "tr": "Twister (Sırt Egzersizi)"
               },
               "tip_5lang": {
                 "de": "Ein kurzes Training an der frischen Luft belebt; tragen Sie Handschuhe, um den Kontakt mit dem eiskalten Metall der Geräte angenehmer zu gestalten.",
                 "hu": "Egy rövid edzés a friss levegőn felpezsdít; viseljen kesztyűt, hogy a jéghideg fémalkatrészek érintése ne legyen kellemetlen a gyakorlat közben.",
                 "ro": "Un antrenament scurt în aer liber vă va revigora; purtați mănuși pentru a face contactul cu metalul înghețat al aparatelor mai suportabil.",
-                "en": "A brief outdoor workout is invigorating; wear gloves to make contact with the ice-cold metal of the equipment much more comfortable today."
+                "en": "A brief outdoor workout is invigorating; wear gloves to make contact with the ice-cold metal of the equipment much more comfortable today.",
+                "tr": "Kısa bir açık hava antrenmanı canlandırıcıdır; bugün ekipmanın buz gibi metaline temas etmeyi rahatlatmak için eldiven giyin."
               }
             },
             {
@@ -1254,13 +1395,15 @@
                 "de": "Stehwippe",
                 "hu": "Stehwippe",
                 "ro": "Stehwippe",
-                "en": "Stehwippe"
+                "en": "Stehwippe",
+                "tr": "Ayakta Tahterevalli"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp für den Kreislauf; achten Sie auf Glätte beim Aussteigen aus dem Auto und beim Betreten der metallenen Wippe im Winterwind.",
                 "hu": "Rövid megálló a keringés felpezsdítésére; ügyeljen a csúszós talajra az autóból kiszállva és a fém hinta használatakor a téli szélben.",
                 "ro": "O scurtă oprire pentru circulație; atenție la gheață când coborâți din mașină și când urcați pe balansoarul metalic în vântul de iarnă.",
-                "en": "A quick stop to boost circulation; watch out for icy patches when getting out of the car and when stepping onto the metal seesaw in the wind."
+                "en": "A quick stop to boost circulation; watch out for icy patches when getting out of the car and when stepping onto the metal seesaw in the wind.",
+                "tr": "Dolaşımı artırmak için kısa bir mola; arabadan inerken ve rüzgarda metal tahterevalliye basarken buzlu alanlara dikkat edin."
               }
             },
             {
@@ -1268,13 +1411,15 @@
                 "de": "Steine",
                 "hu": "Steine",
                 "ro": "Steine",
-                "en": "Steine"
+                "en": "Steine",
+                "tr": "Kayalar"
               },
               "tip_5lang": {
                 "de": "Vom Auto aus sind die Skulpturen ein toller Anblick; steigen Sie nur kurz aus, um die Frostkristalle auf dem Gestein aus der Nähe zu fotografieren.",
                 "hu": "Az autóból is remek látványt nyújtanak a szobrok; csak rövid időre szálljon ki, hogy lefotózhassa a köveken megcsillanó jégkristályokat.",
                 "ro": "Sculpturile sunt o priveliște frumoasă din mașină; coborâți doar scurt pentru a fotografia cristalele de gheață de pe pietre de aproape.",
-                "en": "The sculptures look great from the car; hop out just briefly to photograph the frost crystals on the stones up close in the winter light."
+                "en": "The sculptures look great from the car; hop out just briefly to photograph the frost crystals on the stones up close in the winter light.",
+                "tr": "Heykeller arabadayken harika görünür; kış ışığında kayalardaki buz kristallerinin yakından fotoğraflanması için sadece kısa süreli inin."
               }
             },
             {
@@ -1282,13 +1427,15 @@
                 "de": "Der Wasserstrudel",
                 "hu": "Der Wasserstrudel",
                 "ro": "Der Wasserstrudel",
-                "en": "Der Wasserstrudel"
+                "en": "Der Wasserstrudel",
+                "tr": "Su girdabı"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den frühen Sonnenuntergang um 17 Uhr im warmen Auto sitzend direkt am Hafen, bevor Sie zum Abendessen in ein nahes Restaurant fahren.",
                 "hu": "Élvezze a korai, 17 órai naplementét a meleg autóból közvetlenül a kikötőben, mielőtt továbbhajtana vacsorázni egy közeli étterembe.",
                 "ro": "Bucurați-vă de apusul devreme de la ora 17 din mașina încălzită, chiar în port, înainte de a merge la cină într-un restaurant apropiat.",
-                "en": "Enjoy the early 5 PM sunset from the warmth of your car right at the harbor, before driving to a nearby restaurant for a cozy dinner."
+                "en": "Enjoy the early 5 PM sunset from the warmth of your car right at the harbor, before driving to a nearby restaurant for a cozy dinner.",
+                "tr": "Akşamı, limanda aracınızın sıcaklığından 17:00'deki erken güneş batışını izleyerek keyiflendirin, ardından yakın bir restorana doğru sürün ve sıcak bir akşam yemeğinin tadını çıkarın."
               }
             }
           ]

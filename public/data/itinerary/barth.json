@@ -21,7 +21,8 @@
             "de": "Dammtor",
             "hu": "Dammtor városkapu",
             "ro": "Poarta Orașului Dammtor",
-            "en": "Dammtor City Gate"
+            "en": "Dammtor City Gate",
+            "tr": "Dammtor Şehir Kapısı"
           },
           "coords": [
             12.7219,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur des Dammtors, eines imposanten Überrests der alten Stadtbefestigung, und achten Sie auf die historischen Tafeln.",
             "hu": "Csodálja meg a Dammtor középkori építészetét, amely a régi városi erődítmények impozáns maradványa, és feltétlenül olvassa el a történetét bemutató táblákat.",
             "ro": "Admirați arhitectura medievală a Porții Dammtor, o rămășiță impunătoare a vechilor fortificații din Barth, și nu ratați plăcile care detaliază istoria sa fascinantă.",
-            "en": "Admire the medieval architecture of the Dammtor City Gate, an imposing remnant of Barth's old fortifications, and be sure to check the plaques detailing its history."
+            "en": "Admire the medieval architecture of the Dammtor City Gate, an imposing remnant of Barth's old fortifications, and be sure to check the plaques detailing its history.",
+            "tr": "Barth'ın eski surlarının etkileyici bir kalıntısı olan Dammtor Şehir Kapısı'nın ortaçağ mimarisine hayran kalın ve tarihini anlatan levhaları kontrol etmeyi unutmayın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Papenhof Barth",
             "hu": "Papenhof Barth",
             "ro": "Papenhof Barth",
-            "en": "Papenhof Barth"
+            "en": "Papenhof Barth",
+            "tr": "Papenhof Barth"
           },
           "coords": [
             12.723145,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie den Papenhof, eines der ältesten Profangebäude Pommerns, um in die Regionalgeschichte einzutauchen; tragen Sie bequeme Schuhe für die unebenen Holzböden.",
             "hu": "Fedezze fel a Papenhofot, Pomeránia egyik legrégebbi világi épületét, ahol elmerülhet a régió történelmében; viseljen kényelmes cipőt az egyenetlen fapadlók miatt.",
             "ro": "Explorați Papenhof, una dintre cele mai vechi clădiri seculare din Pomerania, unde puteți aprofunda istoria regională; purtați încălțăminte comodă pentru podelele din lemn.",
-            "en": "Explore the Papenhof, one of the oldest secular buildings in Pomerania, where you can delve into regional history; wear comfortable shoes for the uneven wooden floors."
+            "en": "Explore the Papenhof, one of the oldest secular buildings in Pomerania, where you can delve into regional history; wear comfortable shoes for the uneven wooden floors.",
+            "tr": "Pomeranya'nın en eski sivil binalarından biri olan Papenhof'u keşfedin; bölgesel tarihe dalın; düzensiz ahşap zeminler için rahat ayakkabılar giyin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Vineta-Museum",
             "hu": "Vineta Múzeum",
             "ro": "Muzeul Vineta",
-            "en": "Vineta Museum"
+            "en": "Vineta Museum",
+            "tr": "Vineta Müzesi"
           },
           "coords": [
             12.72515,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie die Legende der versunkenen Stadt Vineta durch faszinierende Ausstellungen in diesem Museum, und nehmen Sie am Eingang eine Broschüre zur Orientierung mit.",
             "hu": "Fedezze fel az elsüllyedt Vineta városának legendáját e lenyűgöző múzeum kiállításain keresztül, és kérjen egy tájékoztató füzetet a bejáratnál a felfedezéshez.",
             "ro": "Descoperiți legenda orașului scufundat Vineta prin expozițiile fascinante de la acest muzeu și luați o broșură de la intrare pentru a vă ghida explorarea.",
-            "en": "Discover the legend of the sunken city of Vineta through fascinating exhibits at this engaging museum, and grab a brochure at the entrance to guide your exploration."
+            "en": "Discover the legend of the sunken city of Vineta through fascinating exhibits at this engaging museum, and grab a brochure at the entrance to guide your exploration.",
+            "tr": "Bu ilgi çekici müzedeki sergilerle batık şehir Vineta efsanesini keşfedin ve geziniz için girişte bir broşür alın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Fangelturm",
             "hu": "Fangelturm",
             "ro": "Fangelturm",
-            "en": "Fangelturm"
+            "en": "Fangelturm",
+            "tr": "Fangelturm"
           },
           "coords": [
             12.727687,
@@ -105,7 +112,8 @@
             "de": "Stehen Sie vor dem historischen Fangelturm, einem ehemaligen Gefängnisturm, der von außen tolle Fotomotive bietet, also bringen Sie ein Weitwinkelobjektiv mit.",
             "hu": "Álljon meg a történelmi Fangelturm, az egykori börtöntorony előtt, amely kívülről remek fotótémát nyújt, ezért érdemes nagylátószögű objektívet hoznia a magassága miatt.",
             "ro": "Opriți-vă în fața istoricului Fangelturm, un fost turn-închisoare care oferă oportunități excelente de fotografiere din exterior, așa că aduceți un obiectiv cu unghi larg.",
-            "en": "Stand before the historic Fangelturm, a former prison tower that offers great photo opportunities from the outside, so bring a wide-angle lens to capture its height."
+            "en": "Stand before the historic Fangelturm, a former prison tower that offers great photo opportunities from the outside, so bring a wide-angle lens to capture its height.",
+            "tr": "Tarihi Fangelturm'un önünde durun; dışarıdan harika fotoğraf fırsatları sunan eski bir cezaevi kulesidir, yüksekliğini yakalamak için geniş açılı bir lens getirin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Adliges Damenstift",
             "hu": "Nemes Hölgyek Alapítványa",
             "ro": "Fundația Doamnelor Nobile",
-            "en": "Noble Ladies' Foundation"
+            "en": "Noble Ladies' Foundation",
+            "tr": "Soylu Hanımlar Vakfı"
           },
           "coords": [
             12.728684,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie das Adlige Damenstift, um die aristokratische Sozialgeschichte der Region zu verstehen, und betrachten Sie die sorgfältig restaurierten Fassaden im Innenhof.",
             "hu": "Látogasson el a Nemes Hölgyek Alapítványához, hogy megértse a régió arisztokratikus társadalomtörténetét, és nézze meg alaposan az udvarra néző, felújított homlokzatokat.",
             "ro": "Vizitați Fundația Doamnelor Nobile pentru a înțelege istoria socială aristocratică a regiunii și priviți cu atenție fațadele meticulos restaurate cu fața spre curte.",
-            "en": "Visit the Noble Ladies' Foundation to understand the aristocratic social history of the region, and look closely at the meticulously restored facades facing the courtyard."
+            "en": "Visit the Noble Ladies' Foundation to understand the aristocratic social history of the region, and look closely at the meticulously restored facades facing the courtyard.",
+            "tr": "Bölgenin aristokratik sosyal tarihini anlamak için Soylu Hanımlar Vakfı'nı ziyaret edin ve avluya bakan titizlikle restore edilmiş cephelere yakından bakın."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Barther Hafen",
             "hu": "Barth kikötő",
             "ro": "Portul Barth",
-            "en": "Barth Port"
+            "en": "Barth Port",
+            "tr": "Barth Limanı"
           },
           "coords": [
             12.727597,
@@ -151,7 +162,8 @@
             "de": "Schlendern Sie am belebten Barther Hafen entlang, um die traditionellen Segelschiffe zu beobachten, und gönnen Sie sich ein frisches Fischbrötchen an einem der Stände.",
             "hu": "Sétáljon végig a nyüzsgő barthi kikötőben, hogy megfigyelje a vízen ringatózó hagyományos vitorlásokat, és kóstoljon meg egy friss halas szendvicset a helyi standoknál.",
             "ro": "Plimbați-vă de-a lungul portului plin de viață Barth pentru a urmări corăbiile tradiționale pe apă și savurați un sandviș cu pește proaspăt de la una dintre tarabele locale.",
-            "en": "Stroll along the bustling Barth Port to watch the traditional sailing ships bobbing in the water, and treat yourself to a fresh fish sandwich from one of the local stalls."
+            "en": "Stroll along the bustling Barth Port to watch the traditional sailing ships bobbing in the water, and treat yourself to a fresh fish sandwich from one of the local stalls.",
+            "tr": "Geleneksel yelkenlilerin suda sallanışını izlemek için hareketli Barth Limanı boyunca gezin ve yerel tezgâhlardan birinden taze bir balık sandviçi ısmarlayın."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Windjammer-Museum",
             "hu": "Windjammer Múzeum",
             "ro": "Muzeul Windjammer",
-            "en": "Windjammer-Museum"
+            "en": "Windjammer-Museum",
+            "tr": "Windjammer-Museum"
           },
           "coords": [
             12.724055,
@@ -174,7 +187,8 @@
             "de": "Bewundern Sie die umfangreiche Sammlung maritimer Artefakte im Windjammer-Museum, um das Seefahrtserbe zu verstehen, und fragen Sie das Personal nach Führungen.",
             "hu": "Csodálja meg a Windjammer-Múzeum kiterjedt tengerészeti gyűjteményét, hogy megértse a város tengerészhagyatékát, és kérdezze a barátságos személyzetet a tárlatvezetésekről.",
             "ro": "Minunați-vă de colecția de artefacte maritime de la Windjammer-Museum pentru a înțelege moștenirea maritimă și întrebați personalul prietenos despre tururile ghidate.",
-            "en": "Marvel at the extensive collection of maritime artifacts at the Windjammer-Museum to grasp the city's seafaring legacy, and ask the friendly staff about guided tours."
+            "en": "Marvel at the extensive collection of maritime artifacts at the Windjammer-Museum to grasp the city's seafaring legacy, and ask the friendly staff about guided tours.",
+            "tr": "Şehrin denizcilik mirasını kavramak için Windjammer-Museum'daki geniş denizcilik eserleri koleksiyonuna hayran kalın ve rehberli turlar hakkında nazik personele soru sorun."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im mittelalterlichen Herzen von Barth und bewundern Sie gut erhaltene Befestigungsanlagen und bedeutende regionale Gebäude. Die Atmosphäre versetzt Sie sofort in die Vergangenheit zurück.\n\nTauchen Sie in die lokale Kultur ein durch faszinierende Museumsausstellungen, die Geschichten von versunkenen Städten und alten Traditionen enthüllen. Genießen Sie ein herzhaftes Mittagessen in der Nähe.\n\nVerbringen Sie den Nachmittag damit, aristokratische Hinterlassenschaften aufzuspüren und historische Wahrzeichen zu bestaunen. Der Spaziergang verbindet Sie tief mit dem architektonischen Erbe Pommerns.\n\nLassen Sie den Tag am belebten Hafen ausklingen, beobachten Sie das maritime Leben und tauchen Sie im Museum in die Seefahrtsgeschichte ein. Der Sonnenuntergang über dem Wasser ist unvergesslich.",
         "hu": "Kezdje a napot Barth középkori szívében, csodálja meg a jól megőrzött erődítményeket és a jelentős regionális épületeket. A történelmi hangulat azonnal visszarepíti az időben.\n\nAhogy a nap feljebb hág, merüljön el a helyi kultúrában az elsüllyedt városok és ősi hagyományok történeteit bemutató múzeumi kiállításokon. Élvezzen egy kiadós helyi ebédet a közelben.\n\nTöltse a délutánt az arisztokratikus örökségek felfedezésével és a város történelmi nevezetességeinek megcsodálásával. A séta mélyen összeköti Önt Pomeránia építészeti örökségével.\n\nZárja a napot a nyüzsgő kikötőben, figyelje a tengeri életet, majd merüljön el a tengerészeti történelemben a hajózási múzeumban. A víz felett lenyugvó nap látványa felejthetetlen.",
         "ro": "Începeți ziua explorând inima medievală a orașului Barth, admirând fortificațiile bine conservate și clădirile regionale semnificative. Atmosfera istorică vă transpune imediat înapoi în timp.\n\nPe măsură ce soarele urcă, scufundați-vă în cultura locală prin expoziții muzeale fascinante care descoperă povești despre orașe scufundate. Bucurați-vă de un prânz local copios în apropiere.\n\nPetreceți-vă după-amiaza urmărind moștenirile aristocratice și minunându-vă de reperele istorice ale orașului. Plimbarea vă conectează profund cu patrimoniul arhitectural al Pomeraniei.\n\nÎncheiați ziua în portul plin de viață, urmărind viața maritimă înainte de a pătrunde în istoria navigației la un muzeu nautic. Apusul de soare deasupra apei este pur și simplu de neuitat.",
-        "en": "Begin your day delving into the medieval heart of Barth, marveling at well-preserved fortifications and significant regional buildings. The historical atmosphere immediately transports you back in time.\n\nAs the sun climbs, immerse yourself in local culture through fascinating museum exhibits that uncover tales of sunken cities and ancient traditions. Enjoy a hearty local lunch nearby.\n\nSpend your afternoon tracing aristocratic legacies and marveling at the town's historical landmarks. The walk connects you deeply with the architectural heritage of Pomerania.\n\nConclude your day at the bustling port, watching maritime life unfold before diving into the seafaring history at a nautical museum. The sunset over the water is unforgettable."
+        "en": "Begin your day delving into the medieval heart of Barth, marveling at well-preserved fortifications and significant regional buildings. The historical atmosphere immediately transports you back in time.\n\nAs the sun climbs, immerse yourself in local culture through fascinating museum exhibits that uncover tales of sunken cities and ancient traditions. Enjoy a hearty local lunch nearby.\n\nSpend your afternoon tracing aristocratic legacies and marveling at the town's historical landmarks. The walk connects you deeply with the architectural heritage of Pomerania.\n\nConclude your day at the bustling port, watching maritime life unfold before diving into the seafaring history at a nautical museum. The sunset over the water is unforgettable.",
+        "tr": "Gününüzü Barth'ın ortaçağ kalbini keşfederek, iyi korunmuş surlara ve önemli bölgesel binalara hayran kalarak başlatın. Tarihi atmosfer sizi anında geçmişe götürecektir.\n\nGüneş yükseldikçe, batık şehirlerin ve eski geleneklerin hikâyelerini açığa çıkaran büyüleyici müze sergileriyle yerel kültüre dalın. Yakınlarda tatmin edici bir yerel öğle yemeğinin tadını çıkarın.\n\nÖğleden sonra soylu mirasları izleyip kasabanın tarihi simgelerine hayran kalarak gezin. Bu yürüyüş Pomeranya'nın mimari mirasıyla sizi derinlemesine bağlar.\n\nGününüzü hareketli limanda sonlandırın, deniz yaşamını izleyin ve denizcilik tarihine dalmak için bir denizcilik müzesine girin. Suyun üzerindeki gün batımı unutulmazdır."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Der Tag beginnt am Dammtor, wo die massiven Mauern ersten Schutz vor dem Nieselregen bieten. Kurze Wege führen uns schnell in die trockenen Ausstellungsräume des Papenhofs.\nMittags tauchen wir im Vineta-Museum tief in die Sagenwelt ein, während draußen der Regen gegen die Scheiben peitscht. Die dichten Gassen der Altstadt mindern den Wind.\nNachmittags besichtigen wir den Fangelturm und das Adlige Damenstift. Achten Sie auf das glatte Kopfsteinpflaster; wasserfeste Schuhe sind in den historischen Vierteln heute ein Muss.\nDer Abend klingt am Hafen und im Windjammer-Museum aus. Die raue Atmosphäre des Boddens im Regen wirkt besonders authentisch, bevor wir uns in die warme Museumswelt retten.",
             "hu": "A nap a Dammtornál indul, ahol a gótikus boltívek alatt húzódhatunk meg az első záporok elől. A rövid séták során gyorsan elérjük a Papenhof fedett kiállításait.\nDélben a Vineta Múzeumban merülünk el a legendákban, miközben az eső veri az ablakokat. Az óváros szűk utcái szerencsére valamennyire felfogják a szél erejét.\nDélután a Fangelturmot és a nemesi hölgyek alapítványát keressük fel. Ügyeljen a csúszós macskakövekre, a vízálló lábbeli ma elengedhetetlen a történelmi negyedben.\nAz estét a kikötő és a Windjammer Múzeum zárja. A Bodden hullámai az esőben igazi balti hangulatot árasztanak, mielőtt végleg behúzódnánk a múzeum melegébe.",
             "ro": "Ziua începe la Poarta Dammtor, unde zidurile masive oferă primul adăpost împotriva burniței. Distanțele scurte ne duc rapid în sălile uscate ale Papenhof.\nLa prânz, ne scufundăm în lumea legendelor la Muzeul Vineta, în timp ce ploaia bate în geamuri. Străzile înguste ale centrului vechi temperează vântul tăios.\nDupă-amiaza vizităm Turnul Fangelturm și Fundația Doamnelor Nobile. Atenție la pavajul umed care poate fi alunecos; încălțămintea impermeabilă este obligatorie astăzi.\nSeara se încheie la port și la Muzeul Windjammer. Atmosfera aspră a lagunei sub ploaie pare deosebit de autentică înainte de a ne refugia în căldura muzeului.",
-            "en": "The day starts at the Dammtor, where the massive walls provide initial shelter from the drizzle. Short walks lead us quickly to the dry exhibitions of the Papenhof.\nAt noon, we dive into the world of legends at the Vineta Museum while rain lashes against the windows. The narrow streets of the old town help block the coastal wind.\nIn the afternoon, we visit the Fangelturm and the Noble Ladies' Foundation. Watch out for slippery cobblestones; waterproof shoes are a must in the historic quarters today.\nThe evening concludes at the harbor and the Windjammer Museum. The raw atmosphere of the Bodden in the rain feels truly authentic before we retreat into the museum."
+            "en": "The day starts at the Dammtor, where the massive walls provide initial shelter from the drizzle. Short walks lead us quickly to the dry exhibitions of the Papenhof.\nAt noon, we dive into the world of legends at the Vineta Museum while rain lashes against the windows. The narrow streets of the old town help block the coastal wind.\nIn the afternoon, we visit the Fangelturm and the Noble Ladies' Foundation. Watch out for slippery cobblestones; waterproof shoes are a must in the historic quarters today.\nThe evening concludes at the harbor and the Windjammer Museum. The raw atmosphere of the Bodden in the rain feels truly authentic before we retreat into the museum.",
+            "tr": "Gün Dammtor'da başlar; devasa duvarlar hafif yağmurdan ilk korumayı sağlar. Kısa yürüyüşler bizi hızla Papenhof'un kuru sergilerine götürür.\nÖğle vakti, Vineta Müzesi'nde efsanelerin dünyasına dalıyoruz; yağmur pencerelere vururken dar sokaklar kıyı rüzgârını kesmeye yardımcı olur.\nÖğleden sonra Fangelturm ve Soylu Hanımlar Vakfı'nı ziyaret ediyoruz. Kaygan parke taşlarına dikkat edin; tarihi bölgelerde su geçirmez ayakkabılar şart bugün.\nAkşam liman ve Windjammer Museum'da sona erer. Yağmurlu Bodden'in ham atmosferi gerçekten özgündür; daha sonra müzeye sığınırız."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Dammtor",
                 "hu": "Dammtor városkapu",
                 "ro": "Poarta Orașului Dammtor",
-                "en": "Dammtor City Gate"
+                "en": "Dammtor City Gate",
+                "tr": "Dammtor Şehir Kapısı"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den breiten Torbogen als trockenen Aussichtspunkt auf die Stadtmauer und achten Sie auf das glatte Pflaster beim Durchschreiten.",
                 "hu": "Használja a széles kapualjat száraz kilátópontként a városfalra, és ügyeljen a csúszós kövekre, amikor áthalad az ősi építmény alatt.",
                 "ro": "Folosiți arcada largă a porții ca punct de observație uscat asupra zidului cetății și atenție la pavajul alunecos când treceți pe sub ea.",
-                "en": "Use the wide archway of the gate as a dry vantage point to view the city wall, and watch your step on the slick stones while passing through."
+                "en": "Use the wide archway of the gate as a dry vantage point to view the city wall, and watch your step on the slick stones while passing through.",
+                "tr": "Kapının geniş kemerini şehir duvarını gözetlemek için kuru bir seyir noktası olarak kullanın ve içinden geçerken ıslak taşlara dikkat edin."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Papenhof Barth",
                 "hu": "Papenhof Barth",
                 "ro": "Papenhof Barth",
-                "en": "Papenhof Barth"
+                "en": "Papenhof Barth",
+                "tr": "Papenhof Barth"
               },
               "tip_5lang": {
                 "de": "Dieses älteste Profangebäude der Stadt bietet perfekten Schutz vor Regen; bewundern Sie die mittelalterliche Bausubstanz in den Innenräumen.",
                 "hu": "A város legidősebb világi épülete tökéletes védelmet nyújt az eső elől; csodálja meg a középkori építészeti részleteket a belső terekben.",
                 "ro": "Cea mai veche clădire laică din oraș oferă protecție perfectă împotriva ploii; admirați detaliile arhitecturale medievale în interiorul cald.",
-                "en": "The city's oldest secular building offers perfect protection from the rain; admire the medieval architectural details within its sturdy walls."
+                "en": "The city's oldest secular building offers perfect protection from the rain; admire the medieval architectural details within its sturdy walls.",
+                "tr": "Şehrin en eski sivil binası yağmurdan mükemmel koruma sağlar; kalın duvarları içindeki ortaçağ mimari detaylara hayran kalın."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Vineta-Museum",
                 "hu": "Vineta Múzeum",
                 "ro": "Muzeul Vineta",
-                "en": "Vineta Museum"
+                "en": "Vineta Museum",
+                "tr": "Vineta Müzesi"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für regnerische Stunden, um die Mythen der versunkenen Stadt Vineta ohne nass zu werden im gemütlichen Ambiente zu erkunden.",
                 "hu": "Ideális helyszín az esős órákra, ahol anélkül ismerheti meg az elsüllyedt város, Vineta titkait, hogy elázna a borongós időben.",
                 "ro": "Un loc ideal pentru orele ploioase, unde puteți explora mitul orașului scufundat Vineta fără a vă uda, într-o ambianță culturală plăcută.",
-                "en": "An ideal spot for rainy hours to explore the myths of the sunken city of Vineta in a cozy setting while staying completely dry indoors."
+                "en": "An ideal spot for rainy hours to explore the myths of the sunken city of Vineta in a cozy setting while staying completely dry indoors.",
+                "tr": "Yağmurlu saatler için ideal bir mekân; Vineta batık şehir efsanelerini sıcak ve kuru bir ortamda keşfedin."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Fangelturm",
                 "hu": "Fangelturm",
                 "ro": "Fangelturm",
-                "en": "Fangelturm"
+                "en": "Fangelturm",
+                "tr": "Fangelturm"
               },
               "tip_5lang": {
                 "de": "Der massive Wehrturm schützt vor Wind und Wetter; erklimmen Sie die Stufen nur vorsichtig, da die Sicht oben heute etwas verhangen sein kann.",
                 "hu": "A masszív védőtorony óv a széltől és az esőtől; a lépcsőkön óvatosan haladjon, mert a kilátás fentről ma kissé ködös és borús lehet.",
                 "ro": "Turnul masiv de apărare vă protejează de vânt și ploaie; urcați treptele cu grijă, deoarece vizibilitatea de sus poate fi limitată astăzi.",
-                "en": "The massive defensive tower protects you from wind and rain; climb the steps carefully as the view from the top may be a bit misty today."
+                "en": "The massive defensive tower protects you from wind and rain; climb the steps carefully as the view from the top may be a bit misty today.",
+                "tr": "Büyük savunma kulesi rüzgâr ve yağmurdan korur; zirveye çıkarken dikkatli olun çünkü manzara biraz sisli olabilir."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Adliges Damenstift",
                 "hu": "Nemes Hölgyek Alapítványa",
                 "ro": "Fundația Doamnelor Nobile",
-                "en": "Noble Ladies' Foundation"
+                "en": "Noble Ladies' Foundation",
+                "tr": "Soylu Hanımlar Vakfı"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie die Anlage zügig und nutzen Sie die Vordächer der historischen Gebäude, um trocken zu bleiben; die Backsteinfassaden leuchten bei Regen.",
                 "hu": "Tekintse meg gyorsan az épületegyüttest, és használja a történelmi házak előtetőit menedékként; a vörös téglák esőben még élénkebbek.",
                 "ro": "Vizitați ansamblul rapid și folosiți streșinile clădirilor istorice pentru a rămâne uscați; fațadele de cărămidă strălucesc sub ploaie.",
-                "en": "Visit the complex efficiently and use the eaves of the historic buildings to stay dry; the red brick facades look remarkably vivid in the rain."
+                "en": "Visit the complex efficiently and use the eaves of the historic buildings to stay dry; the red brick facades look remarkably vivid in the rain.",
+                "tr": "Kompleksi verimli gezip tarihi binaların saçaklarını kullanarak kuru kalın; yağmurda kırmızı tuğla cepheler olağanüstü canlı görünür."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Barther Hafen",
                 "hu": "Barth kikötő",
                 "ro": "Portul Barth",
-                "en": "Barth Port"
+                "en": "Barth Port",
+                "tr": "Barth Limanı"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, windiger Blick auf den peitschenden Bodden lohnt sich; suchen Sie danach schnell Schutz in einem der nahen Hafenlokale.",
                 "hu": "Egy rövid, szeles pillantás a hullámzó Bodden-öbölre megéri a fáradtságot; utána keressen gyorsan menedéket a kikötői vendéglők egyikében.",
                 "ro": "O scurtă privire spre laguna agitată merită efortul; căutați apoi rapid adăpost în unul dintre localurile primitoare din apropierea portului.",
-                "en": "A brief, windy look at the choppy Bodden is worth it; afterwards, quickly seek shelter in one of the cozy nearby harbor restaurants."
+                "en": "A brief, windy look at the choppy Bodden is worth it; afterwards, quickly seek shelter in one of the cozy nearby harbor restaurants.",
+                "tr": "Dalgalı Bodden'a kısa, rüzgârlı bir bakış değerdir; ardından yakındaki sıcak liman restoranlarından birine hızla sığın."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Windjammer-Museum",
                 "hu": "Windjammer Múzeum",
                 "ro": "Muzeul Windjammer",
-                "en": "Windjammer-Museum"
+                "en": "Windjammer-Museum",
+                "tr": "Windjammer-Museum"
               },
               "tip_5lang": {
                 "de": "Perfekter Abschluss: In der ehemaligen Telegrafenstation vergessen Sie den Regen bei den faszinierenden Schiffsmodellen und maritimen Geschichten.",
                 "hu": "Tökéletes zárás: az egykori távíróállomáson a lenyűgöző hajómodellek és tengeri történetek között teljesen elfelejtheti a kinti esőzést.",
                 "ro": "Final perfect: în fosta stație de telegraf veți uita de ploaie admirând machetele fascinante de nave și poveștile maritime captivante.",
-                "en": "A perfect finish: in the former telegraph station, you'll forget the rain among the fascinating ship models and maritime history exhibits."
+                "en": "A perfect finish: in the former telegraph station, you'll forget the rain among the fascinating ship models and maritime history exhibits.",
+                "tr": "Mükemmel bir bitiriş: eski telgraf istasyonunda, büyüleyici gemi maketleri ve denizcilik sergileri arasında yağmuru unutacaksınız."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Die Wintertour startet am frostigen Dammtor. Die klare Seeluft ist erfrischend, doch wir sehnen uns bald nach der Wärme des Papenhofs.\nMittags bieten die Museen der Stadt wohlige Wärme und faszinierende Einblicke. Da es bereits gegen 17 Uhr dunkel wird, nutzen wir die hellen Stunden für die Architektur.\nNachmittags erkunden wir den Fangelturm und das Damenstift. Warme Kleidung in Schichten ist ratsam, da der Wind vom Bodden her eisig wehen kann.\nDer Tag endet bei Sonnenuntergang am Hafen. Das Windjammer-Museum ist ein wunderbar geheizter Ort, um den Tag inmitten maritimer Geschichte Revue passieren zu lassen.",
             "hu": "A téli túra a fagyos Dammtornál indul. A friss tengeri levegő élénkítő, de hamar megváltás lesz a Papenhof belső tereinek melege.\nDélben a város múzeumai nyújtanak menedéket a hideg elől. Mivel 17 óra körül már sötétedik, a világos órákat az építészeti látnivalókra szánjuk.\nDélután a Fangelturmot és a Damenstiftet látogatjuk meg. A réteges, meleg öltözet kötelező, mert az öböl felől fújó szél metszően hideg lehet.\nA nap a kikötőben ér véget a korai naplementével. A Windjammer Múzeum remekül fűtött helyszín a nap lezárásához a tengeri emlékek között.",
             "ro": "Turul de iarnă începe la Poarta Dammtor înghețată. Aerul marin este revigorant, dar vom căuta curând căldura primitoare de la Papenhof.\nLa prânz, muzeele orașului oferă adăpost cald și perspective fascinante. Deoarece se întunecă în jur de ora 17, folosim orele de lumină pentru arhitectură.\nDupă-amiaza explorăm Turnul Fangelturm și Fundația Doamnelor Nobile. Îmbrăcați-vă gros, în straturi, deoarece vântul de pe lagună poate fi înghețat.\nZiua se încheie la apus în port. Muzeul Windjammer este un loc minunat de bine încălzit pentru a trece în revistă ziua printre exponatele maritime.",
-            "en": "The winter tour starts at the frosty Dammtor. The crisp sea air is refreshing, but we'll soon crave the cozy warmth of the Papenhof.\nAt noon, the city's museums offer pleasant warmth and fascinating insights. Since it gets dark by 5 PM, we use the daylight hours for architecture.\nIn the afternoon, we explore the Fangelturm and the Noble Ladies' Foundation. Layered warm clothing is advised as the wind from the Bodden can be icy.\nThe day ends at sunset in the harbor. The Windjammer Museum is a wonderfully heated place to reflect on the day amidst maritime history."
+            "en": "The winter tour starts at the frosty Dammtor. The crisp sea air is refreshing, but we'll soon crave the cozy warmth of the Papenhof.\nAt noon, the city's museums offer pleasant warmth and fascinating insights. Since it gets dark by 5 PM, we use the daylight hours for architecture.\nIn the afternoon, we explore the Fangelturm and the Noble Ladies' Foundation. Layered warm clothing is advised as the wind from the Bodden can be icy.\nThe day ends at sunset in the harbor. The Windjammer Museum is a wonderfully heated place to reflect on the day amidst maritime history.",
+            "tr": "Kış turu buzlu Dammtor'da başlar. Ferahlatıcı deniz havası olsa da yakında Papenhof'un sıcaklığına ihtiyaç duyacağız.\nÖğle vakti şehir müzeleri hoş bir sıcaklık ve ilginç bilgiler sunar. Akşam 17:00'de karardığı için gündüz saatlerini mimari için kullanıyoruz.\nÖğleden sonra Fangelturm ve Soylu Hanımlar Vakfı'nı geziyoruz. Bodden'den gelen rüzgârın buz gibi olabileceğini göz önünde bulundurarak katmanlı sıcak giysiler önerilir.\nGün, limanda gün batımında sona erer. Windjammer Museum, erken karanlık düşerken denizcilik tarihini düşünmek için harika, ısıtmalı bir mekândır."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Dammtor",
                 "hu": "Dammtor városkapu",
                 "ro": "Poarta Orașului Dammtor",
-                "en": "Dammtor City Gate"
+                "en": "Dammtor City Gate",
+                "tr": "Dammtor Şehir Kapısı"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die klare winterliche Silhouette des Tores gegen den blauen Himmel; halten Sie Handschuhe für den kalten Wind bereit.",
                 "hu": "Csodálja meg a kapu tiszta téli sziluettjét a kék égbolt előtt; tartsa készenlétben a kesztyűit a fagyos északi szél ellen.",
                 "ro": "Admirați silueta clară de iarnă a porții pe fundalul cerului senin; pregătiți-vă mănușile pentru vântul rece care bate dinspre nord.",
-                "en": "Admire the gate's sharp winter silhouette against the clear sky; have your gloves ready for the biting cold wind coming from the coast."
+                "en": "Admire the gate's sharp winter silhouette against the clear sky; have your gloves ready for the biting cold wind coming from the coast.",
+                "tr": "Açık gökyüzüne karşı kapının keskin kış siluetine hayran kalın; sahilden gelen keskin soğuk rüzgâr için eldivenlerinizi hazır bulundurun."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Papenhof Barth",
                 "hu": "Papenhof Barth",
                 "ro": "Papenhof Barth",
-                "en": "Papenhof Barth"
+                "en": "Papenhof Barth",
+                "tr": "Papenhof Barth"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Papenhof als ersten Aufwärmstopp; die dicken Mauern halten die Kälte draußen und die historische Atmosphäre wirkt im Winter besonders heimelig.",
                 "hu": "Használja a Papenhofot az első melegedőhelyként; a vastag falak kint tartják a fagyot, a történelmi miliő pedig télen különösen otthonos.",
                 "ro": "Folosiți Papenhof ca prim punct de încălzire; zidurile groase țin frigul afară, iar atmosfera istorică pare deosebit de primitoare iarna.",
-                "en": "Use the Papenhof as your first warming station; the thick walls keep the frost out, and the historic atmosphere feels especially cozy in winter."
+                "en": "Use the Papenhof as your first warming station; the thick walls keep the frost out, and the historic atmosphere feels especially cozy in winter.",
+                "tr": "Papenhof'u ilk ısınma istasyonunuz olarak kullanın; kalın duvarlar buzlanmayı dışarda tutar ve tarihi atmosfer kışın özellikle samimi hissedilir."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Vineta-Museum",
                 "hu": "Vineta Múzeum",
                 "ro": "Muzeul Vineta",
-                "en": "Vineta Museum"
+                "en": "Vineta Museum",
+                "tr": "Vineta Müzesi"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie ein in die warme Welt der Sagen; im Winter ist das Museum der ideale Rückzugsort, um in Ruhe die Geschichte Barths zu studieren.",
                 "hu": "Merüljön el a legendák meleg világában; télen a múzeum az ideális menedék, ahol nyugodt körülmények között ismerheti meg Barth történetét.",
                 "ro": "Scufundați-vă în lumea caldă a legendelor; iarna, muzeul este refugiul ideal pentru a studia în liniște istoria fascinantă a orașului Barth.",
-                "en": "Dive into the warm world of legends; in winter, the museum is the ideal retreat to study the history of Barth in quiet, heated comfort."
+                "en": "Dive into the warm world of legends; in winter, the museum is the ideal retreat to study the history of Barth in quiet, heated comfort.",
+                "tr": "Efsanelerin sıcak dünyasına dalın; kışın müze Barth tarihini sessiz, ısıtmalı rahatlıkta incelemek için ideal bir sığınağıdır."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Fangelturm",
                 "hu": "Fangelturm",
                 "ro": "Fangelturm",
-                "en": "Fangelturm"
+                "en": "Fangelturm",
+                "tr": "Fangelturm"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Aufstieg für den Winterausblick über die verschneiten Dächer lohnt sich; oben weht jedoch eine sehr steife, kalte Brise.",
                 "hu": "Egy rövid lépcsőzés a havas háztetőkre nyíló téli kilátásért megéri a fáradtságot; fentről azonban metszően hideg szél fújhat.",
                 "ro": "O scurtă urcare pentru vederea de iarnă asupra acoperișurilor înzăpezite merită; sus însă, vântul suflă foarte rece și tăios.",
-                "en": "A brief climb for a winter view over the snowy rooftops is worth it; however, expect a very stiff and cold breeze at the top."
+                "en": "A brief climb for a winter view over the snowy rooftops is worth it; however, expect a very stiff and cold breeze at the top.",
+                "tr": "Karlı çatıların üzerindeki kış manzarası için kısa bir tırmanış değer; ancak zirvede çok sert ve soğuk bir esinti bekleyin."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Adliges Damenstift",
                 "hu": "Nemes Hölgyek Alapítványa",
                 "ro": "Fundația Doamnelor Nobile",
-                "en": "Noble Ladies' Foundation"
+                "en": "Noble Ladies' Foundation",
+                "tr": "Soylu Hanımlar Vakfı"
               },
               "tip_5lang": {
                 "de": "Die Anlage strahlt im Winter eine besondere Stille aus; ideal für Fotos ohne Laub an den Bäumen, die den Blick auf die Backsteingotik freigeben.",
                 "hu": "Az épületegyüttes télen különleges nyugalmat áraszt; a kopasz fák között ilyenkor nyílik a legjobb rálátás a gótikus téglaarchitektúrára.",
                 "ro": "Ansamblul emană o liniște deosebită iarna; copacii fără frunze permit fotografii excelente ale detaliilor arhitecturii gotice din cărămidă.",
-                "en": "The complex radiates a special stillness in winter; it's ideal for photos as the leafless trees offer clear views of the Brick Gothic architecture."
+                "en": "The complex radiates a special stillness in winter; it's ideal for photos as the leafless trees offer clear views of the Brick Gothic architecture.",
+                "tr": "Kompleks kışın özel bir dinginlik yayıyor; yapraksız ağaçlar Tuğla Gotik mimarinin net fotoğraflarını çekmek için idealdir."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Barther Hafen",
                 "hu": "Barth kikötő",
                 "ro": "Portul Barth",
-                "en": "Barth Port"
+                "en": "Barth Port",
+                "tr": "Barth Limanı"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das klare Licht und die vereisten Schiffsrümpfe bei Sonnenuntergang gegen 16:30 Uhr; danach schnell in das beheizte Museum wechseln.",
                 "hu": "Élvezze a tiszta fényt és a jeges hajótesteket a korai, fél 5 körüli naplementében; utána siessen a közeli, jól fűtött múzeumba.",
                 "ro": "Bucurați-vă de lumina clară și de coca navelor înghețate la apus, în jur de ora 16:30; apoi mergeți rapid spre muzeul încălzit.",
-                "en": "Enjoy the crisp light and the icy boat hulls at sunset around 4:30 PM; afterwards, move quickly to the nearby heated museum."
+                "en": "Enjoy the crisp light and the icy boat hulls at sunset around 4:30 PM; afterwards, move quickly to the nearby heated museum.",
+                "tr": "Gün batımında yaklaşık 16:30 civarında keskin ışığın ve buzlu tekne gövdelerinin keyfini çıkarın; ardından hızla yakınlardaki ısıtmalı müzeye geçin."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Windjammer-Museum",
                 "hu": "Windjammer Múzeum",
                 "ro": "Muzeul Windjammer",
-                "en": "Windjammer-Museum"
+                "en": "Windjammer-Museum",
+                "tr": "Windjammer-Museum"
               },
               "tip_5lang": {
                 "de": "Der perfekte warme Abschluss Ihres Wintertages; lassen Sie sich von den maritimen Schätzen verzaubern, während es draußen früh dunkel wird.",
                 "hu": "A téli nap tökéletes, meleg lezárása; hagyja, hogy elvarázsolják a tengeri kincsek, miközben odakint korán leszáll az éj.",
                 "ro": "Finalul cald și perfect al zilei de iarnă; lăsați-vă fermecați de comorile maritime în timp ce afară se întunecă devreme.",
-                "en": "The perfect warm finish to your winter day; let the maritime treasures enchant you while the early darkness falls outside."
+                "en": "The perfect warm finish to your winter day; let the maritime treasures enchant you while the early darkness falls outside.",
+                "tr": "Kış gününüzün mükemmel sıcak sonu; dışarıda erken karanlık inerken denizcilik hazineleri sizi büyülesin."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Marienkirche",
             "hu": "Szent Mária-templom",
             "ro": "Biserica Sf. Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Aziz Maryam Kilisesi"
           },
           "coords": [
             12.735994,
@@ -431,7 +477,8 @@
             "de": "Betreten Sie die Marienkirche, um ihr atemberaubendes backsteingotisches Inneres und die Orgel zu bewundern, und versuchen Sie, während einer Probezeit hier zu sein.",
             "hu": "Lépjen be a Szent Mária-templomba, hogy megcsodálja a lenyűgöző tégla gótikus belső teret és az orgonát, és próbálja úgy időzíteni a látogatást, hogy halljon egy próbát.",
             "ro": "Pășiți în Biserica Sf. Maria pentru a admira interiorul său impresionant din cărămidă gotică și orga istorică, încercând să vă sincronizați vizita pentru a prinde o repetiție.",
-            "en": "Step into St. Mary's Church to witness its stunning brick gothic interior and the impressive historic organ, trying to time your visit to hear a practice session if possible."
+            "en": "Step into St. Mary's Church to witness its stunning brick gothic interior and the impressive historic organ, trying to time your visit to hear a practice session if possible.",
+            "tr": "Aziz Maryam Kilisesi'ne girin ve etkileyici tuğla gotik iç mekanı ile tarihî orgu görün; mümkünse bir prova saatine denk getirmeye çalışın."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Bibelzentrum Barth",
             "hu": "Bibelzentrum Barth",
             "ro": "Bibelzentrum Barth",
-            "en": "Bibelzentrum Barth"
+            "en": "Bibelzentrum Barth",
+            "tr": "Bibelzentrum Barth"
           },
           "coords": [
             12.730442,
@@ -454,7 +502,8 @@
             "de": "Tauchen Sie im Bibelzentrum Barth mit interaktiven Ausstellungen in die Geschichte der niederdeutschen Bibel ein und genießen Sie einen ruhigen Moment im gepflegten Garten.",
             "hu": "Merüljön el az alnémet biblia történetében a Bibelzentrum Barth interaktív kiállításain, és élvezzen egy csendes pillanatot a gyönyörűen gondozott templomkertben.",
             "ro": "Cufundați-vă în istoria Bibliei în germana de jos la Bibelzentrum Barth, care oferă expoziții interactive, și bucurați-vă de un moment de liniște în grădina frumos îngrijită.",
-            "en": "Immerse yourself in the history of the Low German Bible at the Bibelzentrum Barth, featuring interactive exhibits, and enjoy a quiet moment in the beautifully kept garden."
+            "en": "Immerse yourself in the history of the Low German Bible at the Bibelzentrum Barth, featuring interactive exhibits, and enjoy a quiet moment in the beautifully kept garden.",
+            "tr": "Bibelzentrum Barth'ta Düşük Almanca İncil'in tarihine etkileşimli sergilerle dalın ve güzel bakımlı bahçede sessiz bir anın tadını çıkarın."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Fangelturm",
             "hu": "Fangelturm",
             "ro": "Fangelturm",
-            "en": "Fangelturm"
+            "en": "Fangelturm",
+            "tr": "Fangelturm"
           },
           "coords": [
             12.727687,
@@ -477,7 +527,8 @@
             "de": "Stehen Sie vor dem historischen Fangelturm, einem ehemaligen Gefängnisturm, der von außen tolle Fotomotive bietet, also bringen Sie ein Weitwinkelobjektiv mit.",
             "hu": "Álljon meg a történelmi Fangelturm, az egykori börtöntorony előtt, amely kívülről remek fotótémát nyújt, ezért érdemes nagylátószögű objektívet hoznia a magassága miatt.",
             "ro": "Opriți-vă în fața istoricului Fangelturm, un fost turn-închisoare care oferă oportunități excelente de fotografiere din exterior, așa că aduceți un obiectiv cu unghi larg.",
-            "en": "Stand before the historic Fangelturm, a former prison tower that offers great photo opportunities from the outside, so bring a wide-angle lens to capture its height."
+            "en": "Stand before the historic Fangelturm, a former prison tower that offers great photo opportunities from the outside, so bring a wide-angle lens to capture its height.",
+            "tr": "Tarihi Fangelturm'un önünde durun; eskiden cezaevi olarak kullanılan bu kule dışarıdan fotoğraf için harika olanaklar sunar, yüksekliğini yakalamak için geniş açılı bir lens getirin."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Adliges Damenstift",
             "hu": "Nemes Hölgyek Alapítványa",
             "ro": "Fundația Doamnelor Nobile",
-            "en": "Noble Ladies' Foundation"
+            "en": "Noble Ladies' Foundation",
+            "tr": "Noble Ladies' Foundation"
           },
           "coords": [
             12.728684,
@@ -500,7 +552,8 @@
             "de": "Besuchen Sie das Adlige Damenstift, um die aristokratische Sozialgeschichte der Region zu verstehen, und betrachten Sie die sorgfältig restaurierten Fassaden im Innenhof.",
             "hu": "Látogasson el a Nemes Hölgyek Alapítványához, hogy megértse a régió arisztokratikus társadalomtörténetét, és nézze meg alaposan az udvarra néző, felújított homlokzatokat.",
             "ro": "Vizitați Fundația Doamnelor Nobile pentru a înțelege istoria socială aristocratică a regiunii și priviți cu atenție fațadele meticulos restaurate cu fața spre curte.",
-            "en": "Visit the Noble Ladies' Foundation to understand the aristocratic social history of the region, and look closely at the meticulously restored facades facing the courtyard."
+            "en": "Visit the Noble Ladies' Foundation to understand the aristocratic social history of the region, and look closely at the meticulously restored facades facing the courtyard.",
+            "tr": "Noble Ladies' Foundation'ı ziyaret ederek bölgenin aristokratik sosyal tarihini öğrenin ve avluya bakan titizlikle restorasyon yapılmış cephelere yakından bakın."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Barther Hafen",
             "hu": "Barth kikötő",
             "ro": "Portul Barth",
-            "en": "Barth Port"
+            "en": "Barth Port",
+            "tr": "Barth Port"
           },
           "coords": [
             12.727597,
@@ -523,7 +577,8 @@
             "de": "Schlendern Sie am belebten Barther Hafen entlang, um die traditionellen Segelschiffe zu beobachten, und gönnen Sie sich ein frisches Fischbrötchen an einem der Stände.",
             "hu": "Sétáljon végig a nyüzsgő barthi kikötőben, hogy megfigyelje a vízen ringatózó hagyományos vitorlásokat, és kóstoljon meg egy friss halas szendvicset a helyi standoknál.",
             "ro": "Plimbați-vă de-a lungul portului plin de viață Barth pentru a urmări corăbiile tradiționale pe apă și savurați un sandviș cu pește proaspăt de la una dintre tarabele locale.",
-            "en": "Stroll along the bustling Barth Port to watch the traditional sailing ships bobbing in the water, and treat yourself to a fresh fish sandwich from one of the local stalls."
+            "en": "Stroll along the bustling Barth Port to watch the traditional sailing ships bobbing in the water, and treat yourself to a fresh fish sandwich from one of the local stalls.",
+            "tr": "Canlı Barth Limanı boyunca gezintiye çıkın, geleneksel yelkenlilerin suda oynayışını izleyin ve yerel tezgâhlardan birinden taze balık sandviçi ile kendinizi ödüllendirin."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Windjammer-Museum",
             "hu": "Windjammer Múzeum",
             "ro": "Muzeul Windjammer",
-            "en": "Windjammer-Museum"
+            "en": "Windjammer-Museum",
+            "tr": "Windjammer-Museum"
           },
           "coords": [
             12.724055,
@@ -546,7 +602,8 @@
             "de": "Bewundern Sie die umfangreiche Sammlung maritimer Artefakte im Windjammer-Museum, um das Seefahrtserbe zu verstehen, und fragen Sie das Personal nach Führungen.",
             "hu": "Csodálja meg a Windjammer-Múzeum kiterjedt tengerészeti gyűjteményét, hogy megértse a város tengerészhagyatékát, és kérdezze a barátságos személyzetet a tárlatvezetésekről.",
             "ro": "Minunați-vă de colecția de artefacte maritime de la Windjammer-Museum pentru a înțelege moștenirea maritimă și întrebați personalul prietenos despre tururile ghidate.",
-            "en": "Marvel at the extensive collection of maritime artifacts at the Windjammer-Museum to grasp the city's seafaring legacy, and ask the friendly staff about guided tours."
+            "en": "Marvel at the extensive collection of maritime artifacts at the Windjammer-Museum to grasp the city's seafaring legacy, and ask the friendly staff about guided tours.",
+            "tr": "Windjammer-Museum'daki geniş denizcilik eserleri koleksiyonuna hayran kalın; şehrin denizcilik mirasını kavramak için güler yüzlü personele rehberli turlar hakkında sorun."
           }
         },
         {
@@ -554,7 +611,8 @@
             "de": "Dammtor",
             "hu": "Dammtor városkapu",
             "ro": "Poarta Orașului Dammtor",
-            "en": "Dammtor City Gate"
+            "en": "Dammtor City Gate",
+            "tr": "Dammtor City Gate"
           },
           "coords": [
             12.7219,
@@ -569,7 +627,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur des Dammtors, eines imposanten Überrests der alten Stadtbefestigung, und achten Sie auf die historischen Tafeln.",
             "hu": "Csodálja meg a Dammtor középkori építészetét, amely a régi városi erődítmények impozáns maradványa, és feltétlenül olvassa el a történetét bemutató táblákat.",
             "ro": "Admirați arhitectura medievală a Porții Dammtor, o rămășiță impunătoare a vechilor fortificații din Barth, și nu ratați plăcile care detaliază istoria sa fascinantă.",
-            "en": "Admire the medieval architecture of the Dammtor City Gate, an imposing remnant of Barth's old fortifications, and be sure to check the plaques detailing its history."
+            "en": "Admire the medieval architecture of the Dammtor City Gate, an imposing remnant of Barth's old fortifications, and be sure to check the plaques detailing its history.",
+            "tr": "Dammtor Şehir Kapısı'nın ortaçağ mimarisine hayran kalın; Barth'ın eski tahkimatlarının etkileyici bir kalıntısı olan kapının tarihini anlatan levhaları mutlaka kontrol edin."
           }
         }
       ],
@@ -577,7 +636,8 @@
         "de": "Beginnen Sie Ihren Tag im mittelalterlichen Herzen von Barth und bewundern Sie gut erhaltene Befestigungsanlagen und bedeutende regionale Gebäude. Die Atmosphäre versetzt Sie sofort in die Vergangenheit zurück.\n\nTauchen Sie in die lokale Kultur ein durch faszinierende Museumsausstellungen, die Geschichten von versunkenen Städten und alten Traditionen enthüllen. Genießen Sie ein herzhaftes Mittagessen in der Nähe.\n\nVerbringen Sie den Nachmittag damit, aristokratische Hinterlassenschaften aufzuspüren und historische Wahrzeichen zu bestaunen. Der Spaziergang verbindet Sie tief mit dem architektonischen Erbe Pommerns.\n\nLassen Sie den Tag am belebten Hafen ausklingen, beobachten Sie das maritime Leben und tauchen Sie im Museum in die Seefahrtsgeschichte ein. Der Sonnenuntergang über dem Wasser ist unvergesslich.",
         "hu": "Kezdje a napot Barth középkori szívében, csodálja meg a jól megőrzött erődítményeket és a jelentős regionális épületeket. A történelmi hangulat azonnal visszarepíti az időben.\n\nAhogy a nap feljebb hág, merüljön el a helyi kultúrában az elsüllyedt városok és ősi hagyományok történeteit bemutató múzeumi kiállításokon. Élvezzen egy kiadós helyi ebédet a közelben.\n\nTöltse a délutánt az arisztokratikus örökségek felfedezésével és a város történelmi nevezetességeinek megcsodálásával. A séta mélyen összeköti Önt Pomeránia építészeti örökségével.\n\nZárja a napot a nyüzsgő kikötőben, figyelje a tengeri életet, majd merüljön el a tengerészeti történelemben a hajózási múzeumban. A víz felett lenyugvó nap látványa felejthetetlen.",
         "ro": "Începeți ziua explorând inima medievală a orașului Barth, admirând fortificațiile bine conservate și clădirile regionale semnificative. Atmosfera istorică vă transpune imediat înapoi în timp.\n\nPe măsură ce soarele urcă, scufundați-vă în cultura locală prin expoziții muzeale fascinante care descoperă povești despre orașe scufundate. Bucurați-vă de un prânz local copios în apropiere.\n\nPetreceți-vă după-amiaza urmărind moștenirile aristocratice și minunându-vă de reperele istorice ale orașului. Plimbarea vă conectează profund cu patrimoniul arhitectural al Pomeraniei.\n\nÎncheiați ziua în portul plin de viață, urmărind viața maritimă înainte de a pătrunde în istoria navigației la un muzeu nautic. Apusul de soare deasupra apei este pur și simplu de neuitat.",
-        "en": "Begin your day delving into the medieval heart of Barth, marveling at well-preserved fortifications and significant regional buildings. The historical atmosphere immediately transports you back in time.\n\nAs the sun climbs, immerse yourself in local culture through fascinating museum exhibits that uncover tales of sunken cities and ancient traditions. Enjoy a hearty local lunch nearby.\n\nSpend your afternoon tracing aristocratic legacies and marveling at the town's historical landmarks. The walk connects you deeply with the architectural heritage of Pomerania.\n\nConclude your day at the bustling port, watching maritime life unfold before diving into the seafaring history at a nautical museum. The sunset over the water is unforgettable."
+        "en": "Begin your day delving into the medieval heart of Barth, marveling at well-preserved fortifications and significant regional buildings. The historical atmosphere immediately transports you back in time.\n\nAs the sun climbs, immerse yourself in local culture through fascinating museum exhibits that uncover tales of sunken cities and ancient traditions. Enjoy a hearty local lunch nearby.\n\nSpend your afternoon tracing aristocratic legacies and marveling at the town's historical landmarks. The walk connects you deeply with the architectural heritage of Pomerania.\n\nConclude your day at the bustling port, watching maritime life unfold before diving into the seafaring history at a nautical museum. The sunset over the water is unforgettable.",
+        "tr": "Gününüzü Barth'ın ortaçağ kalbiyle başlayarak iyi korunmuş tahkimatları ve bölgenin önemli yapıları karşısında hayran kalarak geçirin. Tarihi atmosfer sizi hemen geçmişe götürüyor.\n\nGüneş yükseldikçe, batık şehirlerin ve eski geleneklerin hikâyelerini açığa çıkaran ilgi çekici müze sergileriyle yerel kültüre dalın. Yakınlarda doyurucu bir yerel öğle yemeğinin tadını çıkarın.\n\nÖğleden sonra soylu mirasları izleyip kasabanın tarihi simge yapılarına hayran kalarak gezin. Bu yürüyüş sizi Pomeranya'nın mimari mirasıyla derinden bağlar.\n\nGününüzü hareketli limanda deniz hayatını izleyerek ve ardından denizcilik müzesinde denizcilik tarihine dalarak sonlandırın. Suyun üzerindeki gün batımı unutulmazdır."
       },
       "variants": {
         "rainy": {
@@ -585,7 +645,8 @@
             "de": "Unsere Radtour startet an der Marienkirche. Der Regen macht die Wege etwas rutschig, daher fahren wir heute vorsichtiger und nutzen das Bibelzentrum für eine erste lange Pause.\nMittags radeln wir durch die Altstadt zum Fangelturm. Bei Regen ist die kurze Strecke zwischen den Sehenswürdigkeiten ideal, um nicht zu nass zu werden.\nNachmittags besichtigen wir das Damenstift und den Hafen. Achten Sie auf Pfützen und glattes Kopfsteinpflaster; Schutzbleche am Rad sind heute Gold wert.\nDer Tag endet am Windjammer-Museum und dem Dammtor. Das Fahrrad lässt sich sicher unterstellen, während wir die Ausstellungen im Trockenen genießen.",
             "hu": "Kerékpártúránk a Szent Mária-templomnál indul. Az eső kicsit csúszóssá teszi az utakat, ezért ma óvatosabban tekerünk, és a Biblia-központot használjuk pihenőnek.\nDélben az óvároson át a Fangelturmhoz biciklizünk. Esőben a látnivalók közötti rövid távolságok ideálisak, hogy ne ázzunk el túlságosan útközben.\nDélután a Damenstiftet és a kikötőt érintjük. Ügyeljen a tócsákra és a csúszós macskakőre; a sárvédő ma aranyat ér a kerékpáron.\nA nap a Windjammer Múzeumnál és a Dammtornál zárul. A biciklit biztonságos, fedett helyen hagyhatjuk, amíg a benti kiállításokat élvezzük.",
             "ro": "Turul nostru pe bicicletă începe la Biserica Sf. Maria. Ploaia face drumurile puțin alunecoase, așa că pedalăm cu atenție și folosim Centrul Biblic pentru o primă pauză.\nLa prânz, pedalăm prin centrul vechi spre Fangelturm. Pe ploaie, distanțele scurte între obiective sunt ideale pentru a nu ne uda prea tare pe parcurs.\nDupă-amiaza vizităm Fundația Doamnelor Nobile și portul. Atenție la bălți și la pavajul alunecos; apărătorile de noroi sunt esențiale astăzi.\nZiua se încheie la Muzeul Windjammer și Poarta Dammtor. Bicicleta poate fi parcată în siguranță cât timp ne bucurăm de expoziții la adăpost.",
-            "en": "Our cycling tour starts at St. Mary's Church. The rain makes the paths a bit slippery, so we ride more carefully and use the Bible Center for our first long break.\nAt noon, we cycle through the old town to the Fangelturm. In the rain, the short distances between sights are ideal to avoid getting too wet on the way.\nIn the afternoon, we visit the Noble Ladies' Foundation and the harbor. Watch out for puddles and slick cobblestones; mudguards on your bike are worth their weight in gold today.\nThe day ends at the Windjammer Museum and the Dammtor. You can park your bike securely while enjoying the indoor exhibitions in the dry."
+            "en": "Our cycling tour starts at St. Mary's Church. The rain makes the paths a bit slippery, so we ride more carefully and use the Bible Center for our first long break.\nAt noon, we cycle through the old town to the Fangelturm. In the rain, the short distances between sights are ideal to avoid getting too wet on the way.\nIn the afternoon, we visit the Noble Ladies' Foundation and the harbor. Watch out for puddles and slick cobblestones; mudguards on your bike are worth their weight in gold today.\nThe day ends at the Windjammer Museum and the Dammtor. You can park your bike securely while enjoying the indoor exhibitions in the dry.",
+            "tr": "Bisiklet turumuz Aziz Meryem Kilisesi'nde başlıyor. Yağmur yolları biraz kaygan yapıyor, bu yüzden daha dikkatli sürüyoruz ve ilk uzun molamız için Bibelzentrum'u kullanıyoruz.\nÖğle vakti, eski şehirden Fangelturm'a kadar pedal çeviriyoruz. Yağmurda, görülecek yerler arasındaki kısa mesafeler yolda çok ıslanmamak için ideal.\nÖğleden sonra Noble Ladies' Foundation ve limanı ziyaret ediyoruz. Su birikintilerine ve kaygan kaldırım taşlarına dikkat edin; çamurluklar bugün altın değerinde olacak.\nGün Windjammer Müzesi ve Dammtor'da sona eriyor. İç mekan sergilerinin keyfini çıkarırken bisikletinizi genellikle güvenli şekilde park edebilirsiniz."
           },
           "stops": [
             {
@@ -593,13 +654,15 @@
                 "de": "Marienkirche",
                 "hu": "Szent Mária-templom",
                 "ro": "Biserica Sf. Maria",
-                "en": "St. Mary's Church"
+                "en": "St. Mary's Church",
+                "tr": "Aziz Meryem Kilisesi"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz in der imposanten Hallenkirche und bewundern Sie die Wandmalereien, während draußen der erste Schauer vorüberzieht.",
                 "hu": "Keressen menedéket az impozáns csarnoktemplomban, és csodálja meg a falfestményeket, amíg kint elvonul az első zápor.",
                 "ro": "Căutați adăpost în biserica impunătoare și admirați picturile murale în timp ce prima repriză de ploaie trece pe afară.",
-                "en": "Seek shelter in the imposing hall church and admire the medieval murals while the first rain shower of the day passes outside."
+                "en": "Seek shelter in the imposing hall church and admire the medieval murals while the first rain shower of the day passes outside.",
+                "tr": "Gün içindeki ilk yağmur duşu dışarıda geçerken, etkileyici salon kilisede sığınak arayın ve ortaçağ duvar resimlerini hayranlıkla izleyin."
               }
             },
             {
@@ -607,13 +670,15 @@
                 "de": "Bibelzentrum Barth",
                 "hu": "Bibelzentrum Barth",
                 "ro": "Bibelzentrum Barth",
-                "en": "Bibelzentrum Barth"
+                "en": "Bibelzentrum Barth",
+                "tr": "Bibelzentrum Barth"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Ort zum Aufwärmen und Trocknen; die Ausstellungen zur Barther Bibel bieten reichlich Stoff für eine wetterbedingte Pause.",
                 "hu": "Tökéletes hely a bemelegedésre és a száradásra; a Barthi Biblia köré épülő kiállítás bőséges látnivalót kínál az esős szünet idejére.",
                 "ro": "Un loc perfect pentru a vă încălzi și usca; expozițiile despre Biblia din Barth oferă destule motive pentru o pauză prelungită din cauza vremii.",
-                "en": "A perfect place to warm up and dry off; the exhibitions on the Barth Bible offer plenty of material for a weather-related break."
+                "en": "A perfect place to warm up and dry off; the exhibitions on the Barth Bible offer plenty of material for a weather-related break.",
+                "tr": "Isınmak ve kurulanmak için mükemmel bir yer; Barth İncil'i hakkındaki sergiler, hava molası için bol malzeme sunuyor."
               }
             },
             {
@@ -621,13 +686,15 @@
                 "de": "Fangelturm",
                 "hu": "Fangelturm",
                 "ro": "Fangelturm",
-                "en": "Fangelturm"
+                "en": "Fangelturm",
+                "tr": "Fangelturm"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad am Turmfuß unter und erklimmen Sie die trockenen Stufen für einen Blick über das regenverhangene Barth.",
                 "hu": "Állítsa le a biciklit a torony tövében a fedett részen, és másszon fel a száraz lépcsőkön a kilátásért az esős város felett.",
                 "ro": "Parcați bicicleta la baza turnului sub adăpost și urcați treptele uscate pentru o priveliște asupra orașului Barth acoperit de ploaie.",
-                "en": "Park your bike under shelter at the base of the tower and climb the dry steps for a view over rain-shrouded Barth."
+                "en": "Park your bike under shelter at the base of the tower and climb the dry steps for a view over rain-shrouded Barth.",
+                "tr": "Bisikletinizi kulenin tabanındaki korunak altında park edin ve yağmurla örtülü Barth manzarası için kuru merdivenleri tırmanın."
               }
             },
             {
@@ -635,13 +702,15 @@
                 "de": "Adliges Damenstift",
                 "hu": "Nemes Hölgyek Alapítványa",
                 "ro": "Fundația Doamnelor Nobile",
-                "en": "Noble Ladies' Foundation"
+                "en": "Noble Ladies' Foundation",
+                "tr": "Noble Ladies' Foundation"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig über das nasse Pflaster der Anlage; die historischen Backsteingebäude bieten Schutz unter ihren breiten Dachüberständen.",
                 "hu": "Óvatosan tekerjen az alapítvány vizes macskaköves útjain; a történelmi téglaépületek széles ereszei alatt menedéket találhat az eső elől.",
                 "ro": "Pedalați cu grijă pe pavajul umed; clădirile istorice din cărămidă oferă adăpost sub streșinile lor largi în caz de aversă.",
-                "en": "Ride carefully over the wet pavement; the historic brick buildings offer excellent shelter under their wide eaves if a downpour starts."
+                "en": "Ride carefully over the wet pavement; the historic brick buildings offer excellent shelter under their wide eaves if a downpour starts.",
+                "tr": "Islak kaldırımda dikkatli sürün; tarihi tuğla binalar yağmur bastırırsa geniş saçaklarıyla mükemmel sığınak sağlar."
               }
             },
             {
@@ -649,13 +718,15 @@
                 "de": "Barther Hafen",
                 "hu": "Barth kikötő",
                 "ro": "Portul Barth",
-                "en": "Barth Port"
+                "en": "Barth Port",
+                "tr": "Barth Port"
               },
               "tip_5lang": {
                 "de": "Achtung, die Hafenkante kann bei Regen rutschig sein; genießen Sie kurz die frische Brise und nutzen Sie die Infotafeln als Regenschutz.",
                 "hu": "Vigyázat, a kikötőpart esőben csúszós lehet; élvezze rövid ideig a friss szellőt, és használja az információs táblákat esővédőnek.",
                 "ro": "Atenție, marginea portului poate fi alunecoasă pe ploaie; bucurați-vă scurt de briză și folosiți panourile informative ca protecție.",
-                "en": "Caution: the harbor edge can be slippery when wet; enjoy the fresh breeze briefly and use the info boards as makeshift rain cover."
+                "en": "Caution: the harbor edge can be slippery when wet; enjoy the fresh breeze briefly and use the info boards as makeshift rain cover.",
+                "tr": "Uyarı: liman kenarı ıslakken kaygan olabilir; taze esintinin tadını kısa süreli alın ve bilgi panolarını geçici yağmur sığınağı olarak kullanın."
               }
             },
             {
@@ -663,13 +734,15 @@
                 "de": "Windjammer-Museum",
                 "hu": "Windjammer Múzeum",
                 "ro": "Muzeul Windjammer",
-                "en": "Windjammer-Museum"
+                "en": "Windjammer-Museum",
+                "tr": "Windjammer-Museum"
               },
               "tip_5lang": {
                 "de": "Gönnen Sie sich eine ausgiebige Pause vom Regen im Inneren der Telegrafenstation; Ihr Rad findet meist einen geschützten Platz in der Nähe.",
                 "hu": "Tartson hosszabb szünetet az eső elől a távíróállomás belsejében; a biciklinek általában akad fedett hely a közelben.",
                 "ro": "Luați o pauză binemeritată de la ploaie în interiorul stației de telegraf; bicicleta va găsi de obicei un loc protejat în apropiere.",
-                "en": "Take a generous break from the rain inside the telegraph station; your bike can usually find a sheltered spot nearby."
+                "en": "Take a generous break from the rain inside the telegraph station; your bike can usually find a sheltered spot nearby.",
+                "tr": "Telgraf istasyonunun içinde yağa molası verin; bisikletiniz genellikle yakında korunaklı bir yer bulur."
               }
             },
             {
@@ -677,13 +750,15 @@
                 "de": "Dammtor",
                 "hu": "Dammtor városkapu",
                 "ro": "Poarta Orașului Dammtor",
-                "en": "Dammtor City Gate"
+                "en": "Dammtor City Gate",
+                "tr": "Dammtor City Gate"
               },
               "tip_5lang": {
                 "de": "Das massive Tor markiert das Ende der Tour; nutzen Sie den Durchgang ein letztes Mal zum Unterstellen bei einem plötzlichen Schauer.",
                 "hu": "A masszív kapu jelzi a túra végét; használja az átjárót utoljára pihenőhelyként, ha hirtelen zápor érné az út lezárásakor.",
                 "ro": "Poarta masivă marchează finalul turului; folosiți pasajul o ultimă dată pentru a vă adăposti în caz de ploaie neprevăzută.",
-                "en": "The massive gate marks the end of the tour; use the passage one last time to shelter if a sudden shower occurs at the finish."
+                "en": "The massive gate marks the end of the tour; use the passage one last time to shelter if a sudden shower occurs at the finish.",
+                "tr": "Hacimli kapı turun bitişini işaretler; bitişte ani bir sağanak olursa sığınmak için geçitten son bir kez geçin."
               }
             }
           ]
@@ -693,7 +768,8 @@
             "de": "Die winterliche Radtour führt uns zuerst zur Marienkirche. Der kalte Fahrtwind lässt uns die dicke Winterkleidung schätzen; wir planen mehr Zeit für Innenräume ein.\nMittags ist das Bibelzentrum ein willkommener Aufwärmort. Auf den Straßen kann es vereinzelt glatt sein, daher fahren wir besonnen und genießen die klare Winterruhe.\nNachmittags geht es über den Hafen zum Fangelturm. Der Blick auf den zugefrorenen oder frostigen Bodden ist einzigartig, solange die Sonne bis 17 Uhr noch scheint.\nDer Tag endet gemütlich im Windjammer-Museum. Die kurzen Wege zwischen den winterlichen Highlights machen Barth auch mit dem Rad in der kalten Jahreszeit erlebbar.",
             "hu": "A téli kerékpártúra először a Szent Mária-templomhoz vezet. A hideg menetszélben értékelni fogja a meleg ruhát; több időt szánunk a benti látnivalókra.\nDélben a Biblia-központ kiváló melegedőhely. Az utakon néhol jegesedés várható, ezért óvatosan tekerjünk, élvezve a csendes, téli nyugalmat.\nDélután a kikötő és a Fangelturm következik. A fagyos Bodden látványa egyedülálló, amíg a nap 17 óra körül le nem nyugszik az öböl felett.\nA nap a Windjammer Múzeumban zárul. A látnivalók közötti rövid távolságok kerékpárral télen is könnyen és gyorsan bejárhatóvá teszik Bartho-t.",
             "ro": "Turul de iarnă pe bicicletă ne duce mai întâi la Biserica Sf. Maria. Vântul rece ne face să apreciem hainele groase; planificăm mai mult timp pentru interior.\nLa prânz, Centrul Biblic este un punct de încălzire binevenit. Pe drumuri poate fi polei, așa că pedalăm cu prudență, savurând liniștea iernii.\nDupă-amiaza mergem spre port și Fangelturm. Vederea asupra lagunei înghețate este unică, atât timp cât soarele încă strălucește până la ora 17.\nZiua se încheie confortabil la Muzeul Windjammer. Distanțele scurte între punctele de interes fac ca Barth să fie accesibil cu bicicleta și iarna.",
-            "en": "The winter cycling tour leads us first to St. Mary's Church. The cold wind makes us appreciate thick clothing; we plan more time for indoor visits.\nAt noon, the Bible Center is a welcome warming station. There may be icy patches on the roads, so ride cautiously and enjoy the quiet winter atmosphere.\nIn the afternoon, we head via the harbor to the Fangelturm. The view of the frozen or frosty Bodden is unique as long as the sun shines until 5 PM.\nThe day ends cozily at the Windjammer Museum. The short distances between winter highlights make Barth enjoyable by bike even in the cold season."
+            "en": "The winter cycling tour leads us first to St. Mary's Church. The cold wind makes us appreciate thick clothing; we plan more time for indoor visits.\nAt noon, the Bible Center is a welcome warming station. There may be icy patches on the roads, so ride cautiously and enjoy the quiet winter atmosphere.\nIn the afternoon, we head via the harbor to the Fangelturm. The view of the frozen or frosty Bodden is unique as long as the sun shines until 5 PM.\nThe day ends cozily at the Windjammer Museum. The short distances between winter highlights make Barth enjoyable by bike even in the cold season.",
+            "tr": "Kış bisiklet turu önce Aziz Meryem Kilisesi'ne götürür. Soğuk rüzgâr kalın giysilerin değerini hissettirir; iç mekan ziyaretleri için daha fazla zaman planlıyoruz.\nÖğle vakti Bibelzentrum hoş bir ısınma istasyonu olur. Yollarda buzlu alanlar olabilir, bu yüzden dikkatle sürün ve sessiz kış atmosferinin tadını çıkarın.\nÖğleden sonra liman üzerinden Fangelturm'a doğru ilerliyoruz. Donmuş veya kırağı tutmuş Bodden manzarası, güneş saat 17:00'ye kadar parlıyorsa benzersizdir.\nGün, Windjammer Müzesi'nde sıcak ve rahat bir şekilde sona erer. Kışın kısa mesafeler Barth'ı bisikletle keşfetmeyi keyifli kılar."
           },
           "stops": [
             {
@@ -701,13 +777,15 @@
                 "de": "Marienkirche",
                 "hu": "Szent Mária-templom",
                 "ro": "Biserica Sf. Maria",
-                "en": "St. Mary's Church"
+                "en": "St. Mary's Church",
+                "tr": "Aziz Meryem Kilisesi"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Stille in der Kirche; ziehen Sie die Handschuhe erst drinnen aus, da die alten Mauern im Winter sehr kühl sein können.",
                 "hu": "Élvezze a templom csendjét; a kesztyűt csak bent vegye le, mert a régi falak télen nagyon hidegek lehetnek a látogatás során.",
                 "ro": "Bucurați-vă de liniștea bisericii; scoateți mănușile doar în interior, deoarece zidurile vechi pot fi foarte reci în timpul iernii.",
-                "en": "Enjoy the silence in the church; only take your gloves off once inside, as the ancient walls can be very cool in the winter months."
+                "en": "Enjoy the silence in the church; only take your gloves off once inside, as the ancient walls can be very cool in the winter months.",
+                "tr": "Kilisenin sessizliğinin tadını çıkarın; içeri girince eldivenlerinizi ancak çıkarın, zira antik duvarlar kış aylarında çok serin olabilir."
               }
             },
             {
@@ -715,13 +793,15 @@
                 "de": "Bibelzentrum Barth",
                 "hu": "Bibelzentrum Barth",
                 "ro": "Bibelzentrum Barth",
-                "en": "Bibelzentrum Barth"
+                "en": "Bibelzentrum Barth",
+                "tr": "Bibelzentrum Barth"
               },
               "tip_5lang": {
                 "de": "Ideal zum Aufwärmen nach der ersten Radetappe; nehmen Sie sich Zeit für die wertvollen Exponate in den geheizten Ausstellungsräumen.",
                 "hu": "Ideális melegedő az első kerékpáros szakasz után; szánjon időt az értékes kiállítási tárgyakra a jól fűtött belső terekben.",
                 "ro": "Ideal pentru a vă încălzi după prima etapă pe bicicletă; acordați-vă timp pentru exponatele valoroase în sălile de expoziție încălzite.",
-                "en": "Ideal for warming up after the first cycling leg; take your time with the valuable exhibits in the heated indoor galleries."
+                "en": "Ideal for warming up after the first cycling leg; take your time with the valuable exhibits in the heated indoor galleries.",
+                "tr": "İlk bisiklet etabından sonra ısınmak için ideal; ısıtmalı iç galerilerdeki değerli sergileri yavaşça gezin."
               }
             },
             {
@@ -729,13 +809,15 @@
                 "de": "Fangelturm",
                 "hu": "Fangelturm",
                 "ro": "Fangelturm",
-                "en": "Fangelturm"
+                "en": "Fangelturm",
+                "tr": "Fangelturm"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg wärmt auf, doch oben erwartet Sie eine frostige Brise; der Rundblick über das winterliche Barth ist die Mühe jedoch wert.",
                 "hu": "A lépcsőzés felmelegíti, de fent fagyos szél várja; a téli Barth panorámája azonban minden fáradozást megér a torony tetejéről.",
                 "ro": "Urcarea vă va încălzi, dar sus vă așteaptă o briză înghețată; totuși, panorama asupra orașului Barth iarna merită tot efortul.",
-                "en": "The climb will warm you up, but expect a frosty breeze at the top; the panoramic view over wintery Barth is well worth the effort."
+                "en": "The climb will warm you up, but expect a frosty breeze at the top; the panoramic view over wintery Barth is well worth the effort.",
+                "tr": "Tırmanış sizi ısıtacak, ancak zirvede buzlu bir esinti bekleyin; kışın Barth üzerine panoramik manzara çabaya değer."
               }
             },
             {
@@ -743,13 +825,15 @@
                 "de": "Adliges Damenstift",
                 "hu": "Nemes Hölgyek Alapítványa",
                 "ro": "Fundația Doamnelor Nobile",
-                "en": "Noble Ladies' Foundation"
+                "en": "Noble Ladies' Foundation",
+                "tr": "Noble Ladies' Foundation"
               },
               "tip_5lang": {
                 "de": "Die Architektur wirkt im klaren Winterlicht besonders streng und schön; parken Sie Ihr Rad vorsichtig auf eventuell glatten Flächen.",
                 "hu": "Az építészet a tiszta téli fényben különösen szép és szigorú; a kerékpárt óvatosan támassza le az esetlegesen jeges talajon.",
                 "ro": "Arhitectura pare deosebit de sobră și frumoasă în lumina clară de iarnă; parcați bicicleta cu grijă pe suprafețele potențial alunecoase.",
-                "en": "The architecture looks especially striking in the clear winter light; park your bike carefully on potentially icy or slippery ground."
+                "en": "The architecture looks especially striking in the clear winter light; park your bike carefully on potentially icy or slippery ground.",
+                "tr": "Mimari yapı net kış ışığında özellikle etkileyicidir; bisikletinizi olası buzlu veya kaygan zemine dikkat ederek park edin."
               }
             },
             {
@@ -757,13 +841,15 @@
                 "de": "Barther Hafen",
                 "hu": "Barth kikötő",
                 "ro": "Portul Barth",
-                "en": "Barth Port"
+                "en": "Barth Port",
+                "tr": "Barth Port"
               },
               "tip_5lang": {
                 "de": "Fahren Sie direkt ans Wasser für ein schnelles Foto vom winterlichen Bodden; der kalte Wind macht den Aufenthalt hier meist kurz.",
                 "hu": "Tekerjen közvetlenül a vízpartra egy gyors fotóért a téli Boddenről; a hideg szél miatt az itt tartózkodás általában rövid lesz.",
                 "ro": "Pedalați direct spre mal pentru o fotografie rapidă cu laguna iarna; vântul rece face ca oprirea aici să fie de obicei scurtă.",
-                "en": "Cycle right to the water's edge for a quick photo of the winter Bodden; the biting cold wind usually keeps this visit brief."
+                "en": "Cycle right to the water's edge for a quick photo of the winter Bodden; the biting cold wind usually keeps this visit brief.",
+                "tr": "Kısa bir kış Bodden fotoğrafı için su kıyısına kadar pedal çevirin; keskin soğuk rüzgâr genellikle bu ziyareti kısa tutar."
               }
             },
             {
@@ -771,13 +857,15 @@
                 "de": "Windjammer-Museum",
                 "hu": "Windjammer Múzeum",
                 "ro": "Muzeul Windjammer",
-                "en": "Windjammer-Museum"
+                "en": "Windjammer-Museum",
+                "tr": "Windjammer-Museum"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Museum als finalen, gemütlichen Stopp; das maritime Flair ist der perfekte Kontrast zur Kälte draußen am Hafen.",
                 "hu": "Használja a múzeumot utolsó, barátságos állomásként; a tengeri hangulat tökéletes kontrasztot alkot a kikötői fagyos széllel.",
                 "ro": "Folosiți muzeul ca ultimă oprire confortabilă; atmosfera maritimă este contrastul perfect pentru frigul de afară din port.",
-                "en": "Use the museum as your final, cozy stop; the maritime flair provides a perfect contrast to the freezing temperatures at the harbor."
+                "en": "Use the museum as your final, cozy stop; the maritime flair provides a perfect contrast to the freezing temperatures at the harbor.",
+                "tr": "Müze son, sıcacık durağınız olsun; denizcilik havası limanlardaki dondurucu sıcaklığa mükemmel bir zıtlık sağlar."
               }
             },
             {
@@ -785,13 +873,15 @@
                 "de": "Dammtor",
                 "hu": "Dammtor városkapu",
                 "ro": "Poarta Orașului Dammtor",
-                "en": "Dammtor City Gate"
+                "en": "Dammtor City Gate",
+                "tr": "Dammtor City Gate"
               },
               "tip_5lang": {
                 "de": "Das Tor im Winterlicht ist ein tolles letztes Motiv; achten Sie beim Losfahren auf Frost in den schattigen Torbögen.",
                 "hu": "A téli fényben fürdő kapu remek utolsó fotótéma; induláskor ügyeljen a fagyfoltokra az árnyékos kapualjak környékén.",
                 "ro": "Poarta în lumina iernii este un motiv fotografic excelent; atenție la gheață în zonele umbrite ale pasajului la plecare.",
-                "en": "The gate in winter light is a great final photo subject; watch out for frost in the shaded archways when starting off again."
+                "en": "The gate in winter light is a great final photo subject; watch out for frost in the shaded archways when starting off again.",
+                "tr": "Kış ışığındaki kapı harika bir final fotoğrafıdır; tekrar yola çıkarken gölgeli kemerlerdeki buzlanmaya dikkat edin."
               }
             }
           ]
@@ -811,7 +901,8 @@
             "de": "Bibelzentrum Barth",
             "hu": "Bibelzentrum Barth",
             "ro": "Bibelzentrum Barth",
-            "en": "Bibelzentrum Barth"
+            "en": "Bibelzentrum Barth",
+            "tr": "Bibelzentrum Barth"
           },
           "coords": [
             12.730442,
@@ -826,7 +917,8 @@
             "de": "Tauchen Sie im Bibelzentrum Barth mit interaktiven Ausstellungen in die Geschichte der niederdeutschen Bibel ein und genießen Sie einen ruhigen Moment im gepflegten Garten.",
             "hu": "Merüljön el az alnémet biblia történetében a Bibelzentrum Barth interaktív kiállításain, és élvezzen egy csendes pillanatot a gyönyörűen gondozott templomkertben.",
             "ro": "Cufundați-vă în istoria Bibliei în germana de jos la Bibelzentrum Barth, care oferă expoziții interactive, și bucurați-vă de un moment de liniște în grădina frumos îngrijită.",
-            "en": "Immerse yourself in the history of the Low German Bible at the Bibelzentrum Barth, featuring interactive exhibits, and enjoy a quiet moment in the beautifully kept garden."
+            "en": "Immerse yourself in the history of the Low German Bible at the Bibelzentrum Barth, featuring interactive exhibits, and enjoy a quiet moment in the beautifully kept garden.",
+            "tr": "Bibelzentrum Barth'ta Dole Almanca İncil'in tarihine dalın; etkileşimli sergiler sunar ve güzel bakılan bahçede sessiz bir anın tadını çıkarın."
           }
         },
         {
@@ -834,7 +926,8 @@
             "de": "Marienkirche",
             "hu": "Szent Mária-templom",
             "ro": "Biserica Sf. Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Aziz Meryem Kilisesi"
           },
           "coords": [
             12.735994,
@@ -849,7 +942,8 @@
             "de": "Betreten Sie die Marienkirche, um ihr atemberaubendes backsteingotisches Inneres und die Orgel zu bewundern, und versuchen Sie, während einer Probezeit hier zu sein.",
             "hu": "Lépjen be a Szent Mária-templomba, hogy megcsodálja a lenyűgöző tégla gótikus belső teret és az orgonát, és próbálja úgy időzíteni a látogatást, hogy halljon egy próbát.",
             "ro": "Pășiți în Biserica Sf. Maria pentru a admira interiorul său impresionant din cărămidă gotică și orga istorică, încercând să vă sincronizați vizita pentru a prinde o repetiție.",
-            "en": "Step into St. Mary's Church to witness its stunning brick gothic interior and the impressive historic organ, trying to time your visit to hear a practice session if possible."
+            "en": "Step into St. Mary's Church to witness its stunning brick gothic interior and the impressive historic organ, trying to time your visit to hear a practice session if possible.",
+            "tr": "Aziz Meryem Kilisesi'ne girin, etkileyici tuğla gotik iç mekânını ve görkemli tarihi orgu görün; mümkünse bir prova oturumunu duymak için ziyaretinizi zamanlamaya çalışın."
           }
         },
         {
@@ -857,7 +951,8 @@
             "de": "Barther Hafen",
             "hu": "Barth kikötő",
             "ro": "Portul Barth",
-            "en": "Barth Port"
+            "en": "Barth Port",
+            "tr": "Barth Port"
           },
           "coords": [
             12.727597,
@@ -872,7 +967,8 @@
             "de": "Schlendern Sie am belebten Barther Hafen entlang, um die traditionellen Segelschiffe zu beobachten, und gönnen Sie sich ein frisches Fischbrötchen an einem der Stände.",
             "hu": "Sétáljon végig a nyüzsgő barthi kikötőben, hogy megfigyelje a vízen ringatózó hagyományos vitorlásokat, és kóstoljon meg egy friss halas szendvicset a helyi standoknál.",
             "ro": "Plimbați-vă de-a lungul portului plin de viață Barth pentru a urmări corăbiile tradiționale pe apă și savurați un sandviș cu pește proaspăt de la una dintre tarabele locale.",
-            "en": "Stroll along the bustling Barth Port to watch the traditional sailing ships bobbing in the water, and treat yourself to a fresh fish sandwich from one of the local stalls."
+            "en": "Stroll along the bustling Barth Port to watch the traditional sailing ships bobbing in the water, and treat yourself to a fresh fish sandwich from one of the local stalls.",
+            "tr": "Canlı Barth Limanı boyunca gezintiye çıkın, geleneksel yelkenlilerin suda oynayışını izleyin ve yerel tezgâhlardan birinden taze balık sandviçi ile kendinizi ödüllendirin."
           }
         },
         {
@@ -880,7 +976,8 @@
             "de": "Windjammer-Museum",
             "hu": "Windjammer Múzeum",
             "ro": "Muzeul Windjammer",
-            "en": "Windjammer-Museum"
+            "en": "Windjammer-Museum",
+            "tr": "Windjammer-Museum"
           },
           "coords": [
             12.724055,
@@ -895,7 +992,8 @@
             "de": "Bewundern Sie die umfangreiche Sammlung maritimer Artefakte im Windjammer-Museum, um das Seefahrtserbe zu verstehen, und fragen Sie das Personal nach Führungen.",
             "hu": "Csodálja meg a Windjammer-Múzeum kiterjedt tengerészeti gyűjteményét, hogy megértse a város tengerészhagyatékát, és kérdezze a barátságos személyzetet a tárlatvezetésekről.",
             "ro": "Minunați-vă de colecția de artefacte maritime de la Windjammer-Museum pentru a înțelege moștenirea maritimă și întrebați personalul prietenos despre tururile ghidate.",
-            "en": "Marvel at the extensive collection of maritime artifacts at the Windjammer-Museum to grasp the city's seafaring legacy, and ask the friendly staff about guided tours."
+            "en": "Marvel at the extensive collection of maritime artifacts at the Windjammer-Museum to grasp the city's seafaring legacy, and ask the friendly staff about guided tours.",
+            "tr": "Windjammer-Museum'daki geniş denizcilik eserleri koleksiyonuna hayran kalın; şehrin denizcilik mirasını kavramak için güler yüzlü personele rehberli turlar hakkında sorun."
           }
         },
         {
@@ -903,7 +1001,8 @@
             "de": "Vineta-Museum",
             "hu": "Vineta Múzeum",
             "ro": "Muzeul Vineta",
-            "en": "Vineta Museum"
+            "en": "Vineta Museum",
+            "tr": "Vineta Museum"
           },
           "coords": [
             12.72515,
@@ -918,7 +1017,8 @@
             "de": "Entdecken Sie die Legende der versunkenen Stadt Vineta durch faszinierende Ausstellungen in diesem Museum, und nehmen Sie am Eingang eine Broschüre zur Orientierung mit.",
             "hu": "Fedezze fel az elsüllyedt Vineta városának legendáját e lenyűgöző múzeum kiállításain keresztül, és kérjen egy tájékoztató füzetet a bejáratnál a felfedezéshez.",
             "ro": "Descoperiți legenda orașului scufundat Vineta prin expozițiile fascinante de la acest muzeu și luați o broșură de la intrare pentru a vă ghida explorarea.",
-            "en": "Discover the legend of the sunken city of Vineta through fascinating exhibits at this engaging museum, and grab a brochure at the entrance to guide your exploration."
+            "en": "Discover the legend of the sunken city of Vineta through fascinating exhibits at this engaging museum, and grab a brochure at the entrance to guide your exploration.",
+            "tr": "Vineta'nın batık şehir efsanesini bu ilgi çekici müzedeki sergiler aracılığıyla keşfedin ve keşfinize rehberlik etmesi için girişte bir broşür alın."
           }
         },
         {
@@ -926,7 +1026,8 @@
             "de": "Papenhof Barth",
             "hu": "Papenhof Barth",
             "ro": "Papenhof Barth",
-            "en": "Papenhof Barth"
+            "en": "Papenhof Barth",
+            "tr": "Papenhof Barth"
           },
           "coords": [
             12.723145,
@@ -941,7 +1042,8 @@
             "de": "Erkunden Sie den Papenhof, eines der ältesten Profangebäude Pommerns, um in die Regionalgeschichte einzutauchen; tragen Sie bequeme Schuhe für die unebenen Holzböden.",
             "hu": "Fedezze fel a Papenhofot, Pomeránia egyik legrégebbi világi épületét, ahol elmerülhet a régió történelmében; viseljen kényelmes cipőt az egyenetlen fapadlók miatt.",
             "ro": "Explorați Papenhof, una dintre cele mai vechi clădiri seculare din Pomerania, unde puteți aprofunda istoria regională; purtați încălțăminte comodă pentru podelele din lemn.",
-            "en": "Explore the Papenhof, one of the oldest secular buildings in Pomerania, where you can delve into regional history; wear comfortable shoes for the uneven wooden floors."
+            "en": "Explore the Papenhof, one of the oldest secular buildings in Pomerania, where you can delve into regional history; wear comfortable shoes for the uneven wooden floors.",
+            "tr": "Papenhof'u keşfedin; Pomeranya'nın en eski sivil yapılarından biri olan bu yerde bölgesel tarihe dalabilirsiniz; düzensiz ahşap zeminler için rahat ayakkabılar giyin."
           }
         },
         {
@@ -949,7 +1051,8 @@
             "de": "Dammtor",
             "hu": "Dammtor városkapu",
             "ro": "Poarta Orașului Dammtor",
-            "en": "Dammtor City Gate"
+            "en": "Dammtor City Gate",
+            "tr": "Dammtor City Gate"
           },
           "coords": [
             12.7219,
@@ -964,7 +1067,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur des Dammtors, eines imposanten Überrests der alten Stadtbefestigung, und achten Sie auf die historischen Tafeln.",
             "hu": "Csodálja meg a Dammtor középkori építészetét, amely a régi városi erődítmények impozáns maradványa, és feltétlenül olvassa el a történetét bemutató táblákat.",
             "ro": "Admirați arhitectura medievală a Porții Dammtor, o rămășiță impunătoare a vechilor fortificații din Barth, și nu ratați plăcile care detaliază istoria sa fascinantă.",
-            "en": "Admire the medieval architecture of the Dammtor City Gate, an imposing remnant of Barth's old fortifications, and be sure to check the plaques detailing its history."
+            "en": "Admire the medieval architecture of the Dammtor City Gate, an imposing remnant of Barth's old fortifications, and be sure to check the plaques detailing its history.",
+            "tr": "Dammtor Şehir Kapısı'nın ortaçağ mimarisine hayran kalın; Barth'ın eski tahkimatlarının etkileyici bir kalıntısı olan kapının tarihini anlatan levhaları mutlaka kontrol edin."
           }
         }
       ],
@@ -972,7 +1076,8 @@
         "de": "Beginnen Sie Ihren Tag im mittelalterlichen Herzen von Barth und bewundern Sie gut erhaltene Befestigungsanlagen und bedeutende regionale Gebäude. Die Atmosphäre versetzt Sie sofort in die Vergangenheit zurück.\n\nTauchen Sie in die lokale Kultur ein durch faszinierende Museumsausstellungen, die Geschichten von versunkenen Städten und alten Traditionen enthüllen. Genießen Sie ein herzhaftes Mittagessen in der Nähe.\n\nVerbringen Sie den Nachmittag damit, aristokratische Hinterlassenschaften aufzuspüren und historische Wahrzeichen zu bestaunen. Der Spaziergang verbindet Sie tief mit dem architektonischen Erbe Pommerns.\n\nLassen Sie den Tag am belebten Hafen ausklingen, beobachten Sie das maritime Leben und tauchen Sie im Museum in die Seefahrtsgeschichte ein. Der Sonnenuntergang über dem Wasser ist unvergesslich.",
         "hu": "Kezdje a napot Barth középkori szívében, csodálja meg a jól megőrzött erődítményeket és a jelentős regionális épületeket. A történelmi hangulat azonnal visszarepíti az időben.\n\nAhogy a nap feljebb hág, merüljön el a helyi kultúrában az elsüllyedt városok és ősi hagyományok történeteit bemutató múzeumi kiállításokon. Élvezzen egy kiadós helyi ebédet a közelben.\n\nTöltse a délutánt az arisztokratikus örökségek felfedezésével és a város történelmi nevezetességeinek megcsodálásával. A séta mélyen összeköti Önt Pomeránia építészeti örökségével.\n\nZárja a napot a nyüzsgő kikötőben, figyelje a tengeri életet, majd merüljön el a tengerészeti történelemben a hajózási múzeumban. A víz felett lenyugvó nap látványa felejthetetlen.",
         "ro": "Începeți ziua explorând inima medievală a orașului Barth, admirând fortificațiile bine conservate și clădirile regionale semnificative. Atmosfera istorică vă transpune imediat înapoi în timp.\n\nPe măsură ce soarele urcă, scufundați-vă în cultura locală prin expoziții muzeale fascinante care descoperă povești despre orașe scufundate. Bucurați-vă de un prânz local copios în apropiere.\n\nPetreceți-vă după-amiaza urmărind moștenirile aristocratice și minunându-vă de reperele istorice ale orașului. Plimbarea vă conectează profund cu patrimoniul arhitectural al Pomeraniei.\n\nÎncheiați ziua în portul plin de viață, urmărind viața maritimă înainte de a pătrunde în istoria navigației la un muzeu nautic. Apusul de soare deasupra apei este pur și simplu de neuitat.",
-        "en": "Begin your day delving into the medieval heart of Barth, marveling at well-preserved fortifications and significant regional buildings. The historical atmosphere immediately transports you back in time.\n\nAs the sun climbs, immerse yourself in local culture through fascinating museum exhibits that uncover tales of sunken cities and ancient traditions. Enjoy a hearty local lunch nearby.\n\nSpend your afternoon tracing aristocratic legacies and marveling at the town's historical landmarks. The walk connects you deeply with the architectural heritage of Pomerania.\n\nConclude your day at the bustling port, watching maritime life unfold before diving into the seafaring history at a nautical museum. The sunset over the water is unforgettable."
+        "en": "Begin your day delving into the medieval heart of Barth, marveling at well-preserved fortifications and significant regional buildings. The historical atmosphere immediately transports you back in time.\n\nAs the sun climbs, immerse yourself in local culture through fascinating museum exhibits that uncover tales of sunken cities and ancient traditions. Enjoy a hearty local lunch nearby.\n\nSpend your afternoon tracing aristocratic legacies and marveling at the town's historical landmarks. The walk connects you deeply with the architectural heritage of Pomerania.\n\nConclude your day at the bustling port, watching maritime life unfold before diving into the seafaring history at a nautical museum. The sunset over the water is unforgettable.",
+        "tr": "Gününüzü Barth'ın ortaçağ kalbiyle başlayarak iyi korunmuş tahkimatları ve bölgenin önemli yapıları karşısında hayran kalarak geçirin. Tarihi atmosfer sizi hemen geçmişe götürüyor.\n\nGüneş yükseldikçe, batık şehirlerin ve eski geleneklerin hikâyelerini açığa çıkaran ilgi çekici müze sergileriyle yerel kültüre dalın. Yakınlarda doyurucu bir yerel öğle yemeğinin tadını çıkarın.\n\nÖğleden sonra soylu mirasları izleyip kasabanın tarihi simge yapılarına hayran kalarak gezin. Bu yürüyüş sizi Pomeranya'nın mimari mirasıyla derinden bağlar.\n\nGününüzü hareketli limanda deniz hayatını izleyerek ve ardından denizcilik müzesinde denizcilik tarihine dalarak sonlandırın. Suyun üzerindeki gün batımı unutulmazdır."
       },
       "variants": {
         "rainy": {
@@ -980,7 +1085,8 @@
             "de": "Wir starten unsere Autotour am Bibelzentrum, das uns sofort trockenen Unterschlupf bietet. Parkplätze in der Nähe erlauben es, Regenschirme nur kurz nutzen zu müssen.\nMittags fahren wir zur Marienkirche und weiter zum Hafen. Das Auto dient uns heute als mobile Basis, um zwischen den Museen und historischen Orten trocken zu bleiben.\nNachmittags stehen das Windjammer- und das Vineta-Museum auf dem Plan. Diese Ziele sind ideal für Regenwetter, da sie viel Zeit in geschlossenen Räumen bieten.\nDer Tag endet am Papenhof und dem Dammtor. Dank des Autos erreichen wir alle Stationen komfortabel, ohne uns dem unbeständigen Wetter lange aussetzen zu müssen.",
             "hu": "Autós túránkat a Biblia-központnál kezdjük, amely azonnal száraz menedéket nyújt. A közeli parkolók miatt az esernyőt csak rövid ideig kell használnunk.\nDélben a Szent Mária-templomhoz, majd a kikötőbe hajtunk. Az autó ma mozgó bázisunkként szolgál, hogy szárazon jussunk el a múzeumok és történelmi helyszínek között.\nDélután a Windjammer és a Vineta Múzeum szerepel a tervben. Ezek a célpontok ideálisak esőben, mivel bőséges benti látnivalót kínálnak a zord időben.\nA nap a Papenhofnál és a Dammtornál zárul. Az autónak köszönhetően kényelmesen érünk el minden állomást, anélkül, hogy kitennénk magunkat az esőnek.",
             "ro": "Începem turul cu mașina la Centrul Biblic, care ne oferă imediat adăpost uscat. Parcarea din apropiere ne permite să folosim umbrela doar pentru scurt timp.\nLa prânz, conducem spre Biserica Sf. Maria și apoi spre port. Mașina ne servește astăzi ca bază mobilă pentru a rămâne uscați între muzee și locuri istorice.\nDupă-amiaza, pe listă sunt Muzeul Windjammer și Muzeul Vineta. Aceste destinații sunt ideale pe ploaie, oferind mult timp în spații închise și calde.\nZiua se încheie la Papenhof și Poarta Dammtor. Datorită mașinii, ajungem confortabil la toate stațiile fără a ne expune prelungit vremii instabile.",
-            "en": "We start our car tour at the Bible Center, which immediately provides dry shelter. Nearby parking means we only need umbrellas for short dashes.\nAt noon, we drive to St. Mary's Church and then to the harbor. The car serves as our mobile base today, keeping us dry between museums and historic sites.\nIn the afternoon, the Windjammer and Vineta Museums are on the agenda. These destinations are ideal for rainy weather, offering plenty of indoor exploration.\nThe day ends at the Papenhof and the Dammtor. Thanks to the car, we reach all stops comfortably without having to face the unsettled weather for long."
+            "en": "We start our car tour at the Bible Center, which immediately provides dry shelter. Nearby parking means we only need umbrellas for short dashes.\nAt noon, we drive to St. Mary's Church and then to the harbor. The car serves as our mobile base today, keeping us dry between museums and historic sites.\nIn the afternoon, the Windjammer and Vineta Museums are on the agenda. These destinations are ideal for rainy weather, offering plenty of indoor exploration.\nThe day ends at the Papenhof and the Dammtor. Thanks to the car, we reach all stops comfortably without having to face the unsettled weather for long.",
+            "tr": "Araba turumuza hemen kuru sığınak sağlayan Bibelzentrum'da başlıyoruz. Yakındaki park imkânları sayesinde sadece kısa koşular için şemsiyelere ihtiyacımız var.\nÖğle vakti Aziz Meryem Kilisesi'ne, ardından limana gidiyoruz. Bugün araba bizim mobil üssümüz; müzeler ve tarihi yerler arasında kuru kalmamızı sağlıyor.\nÖğleden sonra Windjammer ve Vineta Müzeleri programda. Bu mekanlar yağmurlu hava için ideal, bol iç mekan keşfi sunuyorlar.\nGün Papenhof ve Dammtor'da sona eriyor. Araba sayesinde tüm duraklara rahatça ulaşıyor, bozuk hava koşullarında uzun süre dışarda kalmıyoruz."
           },
           "stops": [
             {
@@ -988,13 +1094,15 @@
                 "de": "Bibelzentrum Barth",
                 "hu": "Bibelzentrum Barth",
                 "ro": "Bibelzentrum Barth",
-                "en": "Bibelzentrum Barth"
+                "en": "Bibelzentrum Barth",
+                "tr": "Bibelzentrum Barth"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahen Parkplatz und verbringen Sie die erste Regenetappe entspannt in der spannenden Bibelausstellung.",
                 "hu": "Használja a közeli parkolót, és töltse az első esős szakaszt kényelmesen a Biblia-kiállítás izgalmas tárlatai között.",
                 "ro": "Folosiți parcarea din apropiere și petreceți prima etapă ploioasă relaxat, explorând expoziția biblică fascinantă.",
-                "en": "Use the nearby parking lot and spend the first rainy leg of the day relaxing in the fascinating Bible exhibition."
+                "en": "Use the nearby parking lot and spend the first rainy leg of the day relaxing in the fascinating Bible exhibition.",
+                "tr": "Yakındaki otoparkı kullanın ve günün ilk yağmurlu etabını ilgi çekici İncil sergisinde dinlenerek geçirin."
               }
             },
             {
@@ -1002,13 +1110,15 @@
                 "de": "Marienkirche",
                 "hu": "Szent Mária-templom",
                 "ro": "Biserica Sf. Maria",
-                "en": "St. Mary's Church"
+                "en": "St. Mary's Church",
+                "tr": "St. Mary's Church"
               },
               "tip_5lang": {
                 "de": "Kurzer Sprint vom Parkplatz in die Kirche; drinnen ist es trocken und die Akustik des Regens auf dem hohen Dach ist beeindruckend.",
                 "hu": "Csak egy rövid vágta a parkolótól a templomig; bent száraz minden, az eső kopogása a magas tetőn pedig lenyűgöző akusztikát ad.",
                 "ro": "Un scurt sprint de la parcare până în biserică; înăuntru este uscat, iar sunetul ploii pe acoperișul înalt este impresionant.",
-                "en": "A short dash from the parking lot to the church; inside it's dry, and the sound of rain on the high roof provides impressive acoustics."
+                "en": "A short dash from the parking lot to the church; inside it's dry, and the sound of rain on the high roof provides impressive acoustics.",
+                "tr": "Otoparktan kiliseye kısa bir koşu; içeride kuru ve yüksek çatının üzerindeki yağmur sesi etkileyici akustik sağlar."
               }
             },
             {
@@ -1016,13 +1126,15 @@
                 "de": "Barther Hafen",
                 "hu": "Barth kikötő",
                 "ro": "Portul Barth",
-                "en": "Barth Port"
+                "en": "Barth Port",
+                "tr": "Barth Port"
               },
               "tip_5lang": {
                 "de": "Sie können direkt am Hafen parken und den Ausblick auf den stürmischen Bodden bequem vom Auto aus oder unter einem Vordach genießen.",
                 "hu": "Közvetlenül a kikötőben is parkolhat, így a viharos Bodden látványát kényelmesen az autóból vagy egy előtető alól is élvezheti.",
                 "ro": "Puteți parca direct în port și puteți savura vederea asupra lagunei agitate confortabil din mașină sau de sub un adăpost.",
-                "en": "You can park right at the harbor and enjoy the view of the stormy Bodden comfortably from your car or under a nearby shelter."
+                "en": "You can park right at the harbor and enjoy the view of the stormy Bodden comfortably from your car or under a nearby shelter.",
+                "tr": "Tam limanda park edebilir, fırtınalı Bodden manzarasının tadını arabanız içinde veya yakınlardaki bir sığınakta konforla çıkarabilirsiniz."
               }
             },
             {
@@ -1030,13 +1142,15 @@
                 "de": "Windjammer-Museum",
                 "hu": "Windjammer Múzeum",
                 "ro": "Muzeul Windjammer",
-                "en": "Windjammer-Museum"
+                "en": "Windjammer-Museum",
+                "tr": "Windjammer-Museum"
               },
               "tip_5lang": {
                 "de": "Ein hervorragender Schlechtwetter-Stopp mit Parkplätzen in der Umgebung; lassen Sie sich Zeit für die Schiffsmodelle im Trockenen.",
                 "hu": "Kiváló rossz időre tervezett állomás környékbeli parkolókkal; szánjon bőséges időt a hajómodellekre a száraz belső térben.",
                 "ro": "O oprire excelentă pentru vreme rea, cu parcări în zonă; acordați-vă timp pentru machetele de nave în interiorul uscat.",
-                "en": "An excellent bad-weather stop with parking nearby; take your time exploring the ship models in dry, heated comfort."
+                "en": "An excellent bad-weather stop with parking nearby; take your time exploring the ship models in dry, heated comfort.",
+                "tr": "Yanında park yeri olan mükemmel bir kötü hava durağı; kuru, ısıtmalı ortamda gemi modellerini keşfetmek için zaman ayırın."
               }
             },
             {
@@ -1044,13 +1158,15 @@
                 "de": "Vineta-Museum",
                 "hu": "Vineta Múzeum",
                 "ro": "Muzeul Vineta",
-                "en": "Vineta Museum"
+                "en": "Vineta Museum",
+                "tr": "Vineta Museum"
               },
               "tip_5lang": {
                 "de": "Dank der zentralen Lage erreichen Sie das Museum schnell; drinnen vergessen Sie bei den Vineta-Mythen sofort das graue Regenwetter.",
                 "hu": "A központi elhelyezkedésnek köszönhetően gyorsan bejut a múzeumba; bent a Vineta-mítoszok között azonnal elfelejti a szürke esőt.",
                 "ro": "Datorită locației centrale, ajungeți rapid la muzeu; înăuntru, legendele despre Vineta vă vor face să uitați de ploaia de afară.",
-                "en": "Thanks to its central location, you'll reach the museum quickly; inside, the Vineta myths will make you forget the gray rain."
+                "en": "Thanks to its central location, you'll reach the museum quickly; inside, the Vineta myths will make you forget the gray rain.",
+                "tr": "Merkezi konumu sayesinde müzeye hızlıca ulaşırsınız; içeride Vineta efsaneleri gri yağmuru çabucak unutturur."
               }
             },
             {
@@ -1058,13 +1174,15 @@
                 "de": "Papenhof Barth",
                 "hu": "Papenhof Barth",
                 "ro": "Papenhof Barth",
-                "en": "Papenhof Barth"
+                "en": "Papenhof Barth",
+                "tr": "Papenhof Barth"
               },
               "tip_5lang": {
                 "de": "Suchen Sie einen Parkplatz in der Altstadt und besichtigen Sie diesen historischen Ort, der heute als stabiles Refugium vor Schauern dient.",
                 "hu": "Keressen parkolót az óvárosban, és látogassa meg ezt a történelmi helyszínt, amely ma stabil menedékként szolgál a záporok elől.",
                 "ro": "Căutați un loc de parcare în centrul vechi și vizitați acest loc istoric, care servește drept refugiu stabil împotriva ploii.",
-                "en": "Find a parking spot in the old town and visit this historic site, which today serves as a solid refuge from the rain showers."
+                "en": "Find a parking spot in the old town and visit this historic site, which today serves as a solid refuge from the rain showers.",
+                "tr": "Eski şehirde bir park yeri bulun ve bugün yağmurdan korunmak için sağlam bir sığınak olarak hizmet eden bu tarihi yeri ziyaret edin."
               }
             },
             {
@@ -1072,13 +1190,15 @@
                 "de": "Dammtor",
                 "hu": "Dammtor városkapu",
                 "ro": "Poarta Orașului Dammtor",
-                "en": "Dammtor City Gate"
+                "en": "Dammtor City Gate",
+                "tr": "Dammtor City Gate"
               },
               "tip_5lang": {
                 "de": "Fahren Sie durch das Tor oder parken Sie kurz davor für ein schnelles Abschiedsfoto; die Backsteine leuchten im Regen besonders intensiv.",
                 "hu": "Hajtson át a kapu alatt vagy parkoljon le előtte egy gyors búcsúfotóra; a vörös téglák esőben különösen intenzív színűek.",
                 "ro": "Treceți pe sub poartă sau parcați scurt înainte pentru o fotografie de adio; cărămizile strălucesc intens sub ploaie.",
-                "en": "Drive through the gate or park briefly before it for a quick farewell photo; the red bricks glow intensely in the rain."
+                "en": "Drive through the gate or park briefly before it for a quick farewell photo; the red bricks glow intensely in the rain.",
+                "tr": "Kapıdan geçin ya da kısa bir veda fotoğrafı için önünde kısa süre park edin; yağmurda kırmızı tuğlalar yoğun bir şekilde parlıyor."
               }
             }
           ]
@@ -1088,7 +1208,8 @@
             "de": "Die winterliche Autotour beginnt am warmen Bibelzentrum. Das Auto ermöglicht es uns, die kalten Wege zwischen den Sehenswürdigkeiten schnell zu überbrücken.\nMittags besuchen wir die Marienkirche und den Hafen. Die Heizung im Wagen ist heute unser bester Freund, während wir die klare Winterlandschaft des Boddens bewundern.\nNachmittags steuern wir das Windjammer- und das Vineta-Museum an. Diese warmen Orte sind perfekt, da das Tageslicht bereits gegen 17 Uhr schwindet.\nDer Tag endet am Papenhof und dem Dammtor. Mit dem Auto bleiben wir flexibel und warm, während wir die festlich beleuchteten oder frostigen Straßen Barths erkunden.",
             "hu": "A téli autós túra a meleg Biblia-központnál indul. Az autó lehetővé teszi, hogy a látnivalók közötti hideg szakaszokat gyorsan és kényelmesen hidaljuk át.\nDélben a Szent Mária-templomot és a kikötőt keressük fel. Az autó fűtése ma a legjobb barátunk lesz, miközben a Bodden tiszta téli táját csodáljuk.\nDélután a Windjammer és a Vineta Múzeum felé vesszük az irányt. Ezek a fűtött helyek tökéletesek, mivel a nappali fény már 17 óra körül elfogy.\nA nap a Papenhofnál és a Dammtornál zárul. Autóval rugalmasak és melegben maradunk, miközben Barth fagyos utcáit fedezzük fel.",
             "ro": "Turul de iarnă cu mașina începe la Centrul Biblic bine încălzit. Mașina ne permite să parcurgem rapid distanțele reci între obiectivele turistice.\nLa prânz vizităm Biserica Sf. Maria și portul. Căldura din mașină este cel mai bun prieten astăzi, în timp ce admirăm peisajul clar de iarnă al lagunei.\nDupă-amiaza ne îndreptăm spre Muzeul Windjammer și Muzeul Vineta. Aceste locuri calde sunt perfecte, deoarece lumina zilei scade deja în jur de ora 17.\nZiua se încheie la Papenhof și Poarta Dammtor. Cu mașina rămânem flexibili și la căldură în timp ce explorăm străzile înghețate ale orașului Barth.",
-            "en": "The winter car tour begins at the warm Bible Center. The car allows us to quickly bridge the cold gaps between the various sights.\nAt noon, we visit St. Mary's Church and the harbor. The car's heater is our best friend today as we admire the clear winter landscape of the Bodden.\nIn the afternoon, we head to the Windjammer and Vineta Museums. These warm locations are perfect as daylight fades as early as 5 PM.\nThe day ends at the Papenhof and the Dammtor. With the car, we stay flexible and warm while exploring the frosty streets of Barth."
+            "en": "The winter car tour begins at the warm Bible Center. The car allows us to quickly bridge the cold gaps between the various sights.\nAt noon, we visit St. Mary's Church and the harbor. The car's heater is our best friend today as we admire the clear winter landscape of the Bodden.\nIn the afternoon, we head to the Windjammer and Vineta Museums. These warm locations are perfect as daylight fades as early as 5 PM.\nThe day ends at the Papenhof and the Dammtor. With the car, we stay flexible and warm while exploring the frosty streets of Barth.",
+            "tr": "Kış araba turu sıcak Bibelzentrum'da başlar. Araba çeşitli görülecek yerler arasındaki soğuk boşlukları hızla kapatmamıza olanak sağlar.\nÖğle vakti Aziz Meryem Kilisesi ve limanı ziyaret ediyoruz. Bugün arabanın kaloriferi en yakın dostumuz; Bodden'in net kış manzarasını içeriden ısıtarak izliyoruz.\nÖğleden sonra Windjammer ve Vineta Müzeleri'ne gidiyoruz. Bu sıcak mekânlar, gün ışığı saat 17:00'de erken azaldığında mükemmel duraklardır.\nGün Papenhof ve Dammtor'da sona erer. Araba sayesinde Barth'ın donmuş sokaklarını keşfederken esnek ve sıcak kalıyoruz."
           },
           "stops": [
             {
@@ -1096,13 +1217,15 @@
                 "de": "Bibelzentrum Barth",
                 "hu": "Bibelzentrum Barth",
                 "ro": "Bibelzentrum Barth",
-                "en": "Bibelzentrum Barth"
+                "en": "Bibelzentrum Barth",
+                "tr": "Bibelzentrum Barth"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie im Warmen; das Bibelzentrum bietet eine wunderbar temperierte Umgebung für den Start in den winterlichen Tag.",
                 "hu": "Kezdjen a melegben; a Biblia-központ kellemesen temperált környezetet biztosít a téli városnézés elindításához.",
                 "ro": "Începeți la căldură; Centrul Biblic oferă un mediu plăcut încălzit pentru a începe ziua de iarnă în mod confortabil.",
-                "en": "Start in the warmth; the Bible Center offers a wonderfully tempered environment to begin your winter day of exploration."
+                "en": "Start in the warmth; the Bible Center offers a wonderfully tempered environment to begin your winter day of exploration.",
+                "tr": "Sıcakta başlayın; Bible Center kış keşfine başlamak için hoş bir ısıtılmış ortam sunar."
               }
             },
             {
@@ -1110,13 +1233,15 @@
                 "de": "Marienkirche",
                 "hu": "Szent Mária-templom",
                 "ro": "Biserica Sf. Maria",
-                "en": "St. Mary's Church"
+                "en": "St. Mary's Church",
+                "tr": "St. Mary's Church"
               },
               "tip_5lang": {
                 "de": "Die Kirche ist im Winter kühl; parken Sie nah und behalten Sie den Mantel während der kurzen Besichtigung der Wandmalereien an.",
                 "hu": "A templom télen hűvös; parkoljon a közelben, és tartsa magán a kabátot a falfestmények rövid megtekintése során.",
                 "ro": "Biserica este răcoroasă iarna; parcați aproape și păstrați haina pe dvs. în timpul vizitei scurte a picturilor murale.",
-                "en": "The church is cool in winter; park nearby and keep your coat on during your brief visit to see the medieval murals."
+                "en": "The church is cool in winter; park nearby and keep your coat on during your brief visit to see the medieval murals.",
+                "tr": "Kilise kışın serindir; yakınlara park edin ve ortaçağ duvar resimlerini görmek için kısa ziyaret sırasında paltolarınızı üzerinizde tutun."
               }
             },
             {
@@ -1124,13 +1249,15 @@
                 "de": "Barther Hafen",
                 "hu": "Barth kikötő",
                 "ro": "Portul Barth",
-                "en": "Barth Port"
+                "en": "Barth Port",
+                "tr": "Barth Port"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das Eis im Bodden bequem vom geheizten Auto aus oder steigen Sie nur kurz für ein schnelles Foto aus.",
                 "hu": "Élvezze a kilátást a Bodden jegére kényelmesen a fűtött autóból, vagy szálljon ki csak egy-egy gyors fotó erejéig.",
                 "ro": "Bucurați-vă de vederea gheții din lagună confortabil din mașina încălzită sau coborâți doar scurt pentru o fotografie rapidă.",
-                "en": "Enjoy the view of the ice in the Bodden comfortably from your heated car, or step out just briefly for a quick photo."
+                "en": "Enjoy the view of the ice in the Bodden comfortably from your heated car, or step out just briefly for a quick photo.",
+                "tr": "Bodden'deki buz manzarasını ısıtmalı arabanızdan konforla izleyin veya kısa bir fotoğraf için kısa süre dışarı çıkın."
               }
             },
             {
@@ -1138,13 +1265,15 @@
                 "de": "Windjammer-Museum",
                 "hu": "Windjammer Múzeum",
                 "ro": "Muzeul Windjammer",
-                "en": "Windjammer-Museum"
+                "en": "Windjammer-Museum",
+                "tr": "Windjammer-Museum"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt davor und tauchen Sie ein in die maritime Wärme; im Winter ist dies einer der behaglichsten Orte Barths.",
                 "hu": "Parkoljon le közvetlenül előtte, és merüljön el a tengeri hangulat melegében; télen ez Barth egyik legbarátságosabb helyszíne.",
                 "ro": "Parcați chiar în față și scufundați-vă în căldura maritimă; iarna, acesta este unul dintre cele mai primitoare locuri din Barth.",
-                "en": "Park right in front and dive into the maritime warmth; in winter, this is one of the most welcoming and cozy spots in Barth."
+                "en": "Park right in front and dive into the maritime warmth; in winter, this is one of the most welcoming and cozy spots in Barth.",
+                "tr": "Tam önüne park edin ve denizcilik sıcaklığına dalın; kışın burası Barth'taki en davetkâr ve rahat noktalardan biridir."
               }
             },
             {
@@ -1152,13 +1281,15 @@
                 "de": "Vineta-Museum",
                 "hu": "Vineta Múzeum",
                 "ro": "Muzeul Vineta",
-                "en": "Vineta Museum"
+                "en": "Vineta Museum",
+                "tr": "Vineta Museum"
               },
               "tip_5lang": {
                 "de": "Die warmen Museumsräume bieten einen tollen Schutz vor der Winterkälte; nutzen Sie die Zeit für die Mythen um die versunkene Stadt.",
                 "hu": "A meleg múzeumi termek remek védelmet nyújtanak a téli hideg ellen; használja ki az időt az elsüllyedt város mítoszaira.",
                 "ro": "Sălile calde ale muzeului oferă protecție excelentă împotriva frigului; folosiți timpul pentru a descoperi miturile orașului scufundat.",
-                "en": "The warm museum rooms provide great protection from the winter cold; spend your time delving into the myths of the sunken city."
+                "en": "The warm museum rooms provide great protection from the winter cold; spend your time delving into the myths of the sunken city.",
+                "tr": "Sıcak müze odaları kış soğuğundan mükemmel koruma sağlar; batık şehrin efsanelerine dalmak için zaman ayırın."
               }
             },
             {
@@ -1166,13 +1297,15 @@
                 "de": "Papenhof Barth",
                 "hu": "Papenhof Barth",
                 "ro": "Papenhof Barth",
-                "en": "Papenhof Barth"
+                "en": "Papenhof Barth",
+                "tr": "Papenhof Barth"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Fußweg vom Parkplatz zur historischen Bausubstanz lohnt sich auch im Winter; drinnen ist es angenehm geschützt.",
                 "hu": "A parkolótól egy rövid séta a történelmi épületig télen is megéri; bent kellemes védettséget élvezhet a kinti fagy ellen.",
                 "ro": "O scurtă plimbare de la parcare până la clădirea istorică merită și iarna; în interior sunteți protejat de gerul de afară.",
-                "en": "A short walk from the parking lot to the historic structure is worth it even in winter; inside you'll find pleasant shelter."
+                "en": "A short walk from the parking lot to the historic structure is worth it even in winter; inside you'll find pleasant shelter.",
+                "tr": "Otoparktan tarihi yapıya kısa bir yürüyüş yapmaya değer; içeri girdiğinizde hoş bir sığınak bulacaksınız."
               }
             },
             {
@@ -1180,13 +1313,15 @@
                 "de": "Dammtor",
                 "hu": "Dammtor városkapu",
                 "ro": "Poarta Orașului Dammtor",
-                "en": "Dammtor City Gate"
+                "en": "Dammtor City Gate",
+                "tr": "Dammtor City Gate"
               },
               "tip_5lang": {
                 "de": "Markanter Schlusspunkt der Tour; das beleuchtete Tor wirkt in der frühen Winterdämmerung gegen 17 Uhr besonders imposant.",
                 "hu": "A túra markáns zárópontja; a kivilágított kapu a korai téli szürkületben, 17 óra körül különösen impozáns látványt nyújt.",
                 "ro": "Punctul final marcant al turului; poarta iluminată arată deosebit de impunător în amurgul timpuriu de iarnă, în jur de ora 17.",
-                "en": "A striking conclusion to the tour; the illuminated gate looks especially imposing in the early winter dusk around 5 PM."
+                "en": "A striking conclusion to the tour; the illuminated gate looks especially imposing in the early winter dusk around 5 PM.",
+                "tr": "Turun çarpıcı bir sonu; aydınlatılmış kapı, kışın erken alacakaranlığında — yaklaşık 17:00 civarı — özellikle heybetli görünüyor."
               }
             }
           ]

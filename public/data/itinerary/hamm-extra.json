@@ -21,7 +21,8 @@
             "de": "Gustav-Lübcke-Museum",
             "hu": "Gustav-Lübcke-Múzeum",
             "ro": "Muzeul Gustav-Lübcke",
-            "en": "Gustav-Lübcke-Museum"
+            "en": "Gustav-Lübcke-Museum",
+            "tr": "Gustav-Lübcke-Museum"
           },
           "coords": [
             7.81,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie die beeindruckende Ägypten-Sammlung.",
             "hu": "Nézze meg a lenyűgöző egyiptomi gyűjteményt.",
             "ro": "Vizitați impresionanta colecție egipteană.",
-            "en": "Visit the impressive Egyptian collection."
+            "en": "Visit the impressive Egyptian collection.",
+            "tr": "Etkileyici Mısır koleksiyonunu ziyaret edin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Pauluskirche",
             "hu": "Pál-templom",
             "ro": "Biserica Sfântul Paul",
-            "en": "St. Paul's Church"
+            "en": "St. Paul's Church",
+            "tr": "St. Paul’s Church"
           },
           "coords": [
             7.818,
@@ -59,7 +62,8 @@
             "de": "Das Wahrzeichen der Innenstadt mit spätgotischem Kern.",
             "hu": "A belváros jelképe késő gótikus alapokkal.",
             "ro": "Simbolul centrului vechi cu elemente gotice târzii.",
-            "en": "The landmark of the city center with a late Gothic core."
+            "en": "The landmark of the city center with a late Gothic core.",
+            "tr": "Geç Gotik çekirdeğe sahip şehir merkezinin simgesi."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Mittagessen am Marktplatz",
             "hu": "Ebéd a piactéren",
             "ro": "Prânz în Piața Centrală",
-            "en": "Lunch at the Market Square"
+            "en": "Lunch at the Market Square",
+            "tr": "Market Meydanı’nda öğle yemeği"
           },
           "coords": [
             7.819,
@@ -82,7 +87,8 @@
             "de": "Probieren Sie westfälischen Pfefferpotthast.",
             "hu": "Kóstolja meg a vesztfáliai borsos marhatokányt.",
             "ro": "Încercați tocănița de vită vestfaliană cu piper.",
-            "en": "Try the traditional Westphalian Pfefferpotthast."
+            "en": "Try the traditional Westphalian Pfefferpotthast.",
+            "tr": "Geleneksel Westfalya Pfefferpotthast’ı deneyin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kurpark Hamm",
             "hu": "Hamm-i Kurpark",
             "ro": "Parcul Kurpark Hamm",
-            "en": "Kurpark Hamm"
+            "en": "Kurpark Hamm",
+            "tr": "Kurpark Hamm"
           },
           "coords": [
             7.835,
@@ -105,7 +112,8 @@
             "de": "Spaziergang entlang des Gradierwerks für gesunde Meeresluft.",
             "hu": "Séta a sólepárló fal mellett a sós tengeri levegőért.",
             "ro": "Plimbare de-a lungul gradinei de saramură pentru aer salin.",
-            "en": "Walk along the graduation tower for healthy saline air."
+            "en": "Walk along the graduation tower for healthy saline air.",
+            "tr": "Tuzlu sağlıklı hava için şifalı kule boyunca yürüyün."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Lippepark",
             "hu": "Lippe-park",
             "ro": "Parcul Lippe",
-            "en": "Lippepark"
+            "en": "Lippepark",
+            "tr": "Lippepark"
           },
           "coords": [
             7.81,
@@ -128,7 +137,8 @@
             "de": "Ein modernes Freizeitgelände auf altem Zechenareal.",
             "hu": "Modern szabadidőpark egy régi bánya területén.",
             "ro": "Un teren modern de recreere pe un fost sit minier.",
-            "en": "A modern recreational area on a former colliery site."
+            "en": "A modern recreational area on a former colliery site.",
+            "tr": "Eski bir kömür ocağı alanında modern bir rekreasyon alanı."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Abendessen im Brauhaus",
             "hu": "Vacsora a sörházban",
             "ro": "Cină la berărie",
-            "en": "Dinner at the Brewery"
+            "en": "Dinner at the Brewery",
+            "tr": "Bira Fabrikasında akşam yemeği"
           },
           "coords": [
             7.815,
@@ -151,7 +162,8 @@
             "de": "Frisch gezapftes lokales Bier genießen.",
             "hu": "Élvezze a frissen csapolt helyi sört.",
             "ro": "Savurați o bere locală proaspăt turnată.",
-            "en": "Enjoy a freshly tapped local beer."
+            "en": "Enjoy a freshly tapped local beer.",
+            "tr": "Taze çekilen yerel biranın tadını çıkarın."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Entdecken Sie Hamm zu Fuß, beginnend mit Kunst und Archäologie im Gustav-Lübcke-Museum. Nach einem Besuch der historischen Pauluskirche stärken Sie sich am Marktplatz. Der Nachmittag gehört der Erholung im Kurpark mit seinem Gradierwerk, bevor Sie im Lippepark den industriellen Charme der Region erleben und den Tag in einem gemütlichen Brauhaus ausklingen lassen.",
         "hu": "Fedezze fel Hamm városát gyalogosan, kezdve a Gustav-Lübcke-Múzeum művészeti és régészeti kincseivel. A történelmi Pál-templom megtekintése után ebédeljen a piactéren. A délutánt töltse a Kurpark sós levegőjén, majd ismerje meg a régió ipari múltját a Lippeparkban, végül zárja a napot egy hangulatos sörházban.",
         "ro": "Descoperiți Hamm pe jos, începând cu arta și arheologia de la Muzeul Gustav-Lübcke. După o vizită la istorica Biserică Sfântul Paul, luați masa în Piața Centrală. După-amiaza este dedicată relaxării în Kurpark, înainte de a experimenta farmecul industrial al regiunii în Lippepark și de a încheia ziua într-o berărie primitoare.",
-        "en": "Explore Hamm on foot, starting with art and archaeology at the Gustav-Lübcke-Museum. After visiting the historic St. Paul's Church, recharge at the market square. Spend the afternoon relaxing in the Kurpark with its graduation tower, then experience the region's industrial charm in Lippepark, before ending the day in a cozy brewery."
+        "en": "Explore Hamm on foot, starting with art and archaeology at the Gustav-Lübcke-Museum. After visiting the historic St. Paul's Church, recharge at the market square. Spend the afternoon relaxing in the Kurpark with its graduation tower, then experience the region's industrial charm in Lippepark, before ending the day in a cozy brewery.",
+        "tr": "Hamm’i yürüyerek keşfedin; Gustav-Lübcke-Museum’da sanat ve arkeoloji ile başlayın. Tarihi St. Paul’s Church’u ziyaret ettikten sonra Market Meydanı’nda enerji depolayın. Öğleden sonra şifalı kuleye sahip Kurpark’ta dinlenin, ardından Lippepark’ta bölgenin endüstriyel cazibesini yaşayın ve günü samimi bir bira fabrikasında sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -259,6 +272,10 @@
         "en": [
           "Wear comfortable shoes for the walk to Kurpark.",
           "A weekly market takes place at the square on Saturdays."
+        ],
+        "tr": [
+          "Kurpark’a yürüyüş için rahat ayakkabılar giyin.",
+          "Cumartesileri meydanda haftalık bir pazar kurulur."
         ]
       }
     },
@@ -275,7 +292,8 @@
             "de": "Lippepark",
             "hu": "Lippe-park",
             "ro": "Parcul Lippe",
-            "en": "Lippepark"
+            "en": "Lippepark",
+            "tr": "Lippepark"
           },
           "coords": [
             7.81,
@@ -290,7 +308,8 @@
             "de": "Blick von den Halden über das Stadtgebiet.",
             "hu": "Kilátás a meddőhányókról a városra.",
             "ro": "Vedere de pe halde peste zona orașului.",
-            "en": "View from the slag heaps over the city area."
+            "en": "View from the slag heaps over the city area.",
+            "tr": "Şehir alanına bakan atık yığınlarından manzara."
           }
         },
         {
@@ -298,7 +317,8 @@
             "de": "Pauluskirche",
             "hu": "Pál-templom",
             "ro": "Biserica Sfântul Paul",
-            "en": "St. Paul's Church"
+            "en": "St. Paul's Church",
+            "tr": "St. Paul’s Church"
           },
           "coords": [
             7.818,
@@ -313,7 +333,8 @@
             "de": "Zentraler Anlaufpunkt für Radfahrer.",
             "hu": "Központi megálló kerékpárosoknak.",
             "ro": "Punct central de întâlnire pentru bicicliști.",
-            "en": "Central meeting point for cyclists."
+            "en": "Central meeting point for cyclists.",
+            "tr": "Bisikletçiler için merkezi buluşma noktası."
           }
         },
         {
@@ -321,7 +342,8 @@
             "de": "Maximilianpark",
             "hu": "Maximilianpark",
             "ro": "Parcul Maximilian",
-            "en": "Maximilianpark"
+            "en": "Maximilianpark",
+            "tr": "Maximilianpark"
           },
           "coords": [
             7.882,
@@ -336,7 +358,8 @@
             "de": "Besuch des Glaselefanten, des größten der Welt.",
             "hu": "Látogatás a világ legnagyobb üvegelefántjánál.",
             "ro": "Vizitați Elefantul de Sticlă, cel mai mare din lume.",
-            "en": "Visit the Glass Elephant, the largest in the world."
+            "en": "Visit the Glass Elephant, the largest in the world.",
+            "tr": "Dünyanın en büyük Cam Fil’ini ziyaret edin."
           }
         },
         {
@@ -344,7 +367,8 @@
             "de": "Schloss Oberwerries",
             "hu": "Oberwerries-kastély",
             "ro": "Castelul Oberwerries",
-            "en": "Schloss Oberwerries"
+            "en": "Schloss Oberwerries",
+            "tr": "Schloss Oberwerries"
           },
           "coords": [
             7.914,
@@ -359,7 +383,8 @@
             "de": "Idyllisches Wasserschloss direkt an der Lippe.",
             "hu": "Idilli vízi kastély közvetlenül a Lippe partján.",
             "ro": "Castel de apă idilic direct pe râul Lippe.",
-            "en": "Idyllic water castle right on the Lippe river."
+            "en": "Idyllic water castle right on the Lippe river.",
+            "tr": "Lippe nehri kıyısında sakin bir su kalesi."
           }
         },
         {
@@ -367,7 +392,8 @@
             "de": "Schloss Heessen",
             "hu": "Heessen-kastély",
             "ro": "Castelul Heessen",
-            "en": "Schloss Heessen"
+            "en": "Schloss Heessen",
+            "tr": "Schloss Heessen"
           },
           "coords": [
             7.834,
@@ -382,7 +408,8 @@
             "de": "Beeindruckende Schlossanlage, heute ein Internat.",
             "hu": "Lenyűgöző kastélyegyüttes, ma bentlakásos iskola.",
             "ro": "Complex impresionant de castel, astăzi un internat.",
-            "en": "Impressive castle complex, now a boarding school."
+            "en": "Impressive castle complex, now a boarding school.",
+            "tr": "Şimdi yatılı okul olan etkileyici kale kompleksi."
           }
         },
         {
@@ -390,7 +417,8 @@
             "de": "Kaffeepause am Hafen",
             "hu": "Kávészünet a kikötőben",
             "ro": "Pauză de cafea în port",
-            "en": "Coffee break at the Harbor"
+            "en": "Coffee break at the Harbor",
+            "tr": "Liman’da kahve molası"
           },
           "coords": [
             7.818,
@@ -405,7 +433,8 @@
             "de": "Blick auf den größten Kanalknotenpunkt.",
             "hu": "Kilátás a legnagyobb csatornacsomópontra.",
             "ro": "Vedere spre cel mai mare nod de canale.",
-            "en": "View of the largest canal junction."
+            "en": "View of the largest canal junction.",
+            "tr": "En büyük kanal kavşağının manzarası."
           }
         }
       ],
@@ -413,7 +442,8 @@
         "de": "Diese Radtour verbindet Industriekultur mit Natur und herrschaftlichen Schlössern. Starten Sie im Lippepark und radeln Sie über das Zentrum zum Maximilianpark. Highlight ist der Glaselefant. Entlang der Lippe führen malerische Wege zu den Wasserschlössern Oberwerries und Heessen, bevor Sie am Hafen den Tag gemütlich abschließen.",
         "hu": "Ez a kerékpártúra összeköti az ipari kultúrát a természettel és az impozáns kastélyokkal. Kezdjen a Lippeparkban, majd tekerjen a központon át a Maximilianparkba. A fő látványosság az üvegelefánt. A Lippe menti festői utak elvezetik Oberwerries és Heessen vízi kastélyaihoz, végül a kikötőnél zárhatja a napot.",
         "ro": "Acest tur cu bicicleta îmbină cultura industrială cu natura și castelele impunătoare. Începeți în Lippepark și pedalați prin centru până la Maximilianpark. Punctul culminant este Elefantul de Sticlă. Potecile pitorești de-a lungul râului Lippe duc la castelele de apă Oberwerries și Heessen, înainte de a încheia ziua în port.",
-        "en": "This bike tour combines industrial culture with nature and stately castles. Start at Lippepark and cycle through the center to Maximilianpark. The highlight is the Glass Elephant. Picturesque paths along the Lippe lead to the water castles of Oberwerries and Heessen, before concluding the day at the harbor."
+        "en": "This bike tour combines industrial culture with nature and stately castles. Start at Lippepark and cycle through the center to Maximilianpark. The highlight is the Glass Elephant. Picturesque paths along the Lippe lead to the water castles of Oberwerries and Heessen, before concluding the day at the harbor.",
+        "tr": "Bu bisiklet turu endüstri kültürünü doğa ve görkemli kalelerle birleştirir. Lippepark’ta başlayıp merkezden Maximilianpark’a pedal çevirin. Öne çıkan yapı Cam Fil. Lippe boyunca kartpostallık patikalar sizi Oberwerries ve Heessen su kalelerine götürür; gün limanda sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -513,6 +543,10 @@
         "en": [
           "Use the 'Lupia' Lippe ferry (seasonal).",
           "Hamm is very bike-friendly and flat."
+        ],
+        "tr": [
+          "‘Lupia’ Lippe feribotunu kullanın (mevsimlik).",
+          "Hamm bisiklete çok elverişli ve düzdür."
         ]
       }
     },
@@ -529,7 +563,8 @@
             "de": "Gustav-Lübcke-Museum",
             "hu": "Gustav-Lübcke-Múzeum",
             "ro": "Muzeul Gustav-Lübcke",
-            "en": "Gustav-Lübcke-Museum"
+            "en": "Gustav-Lübcke-Museum",
+            "tr": "Gustav-Lübcke-Museum"
           },
           "coords": [
             7.81,
@@ -544,7 +579,8 @@
             "de": "Parken am Bahnhofsparkhaus.",
             "hu": "Parkolás a vasútállomás parkolóházában.",
             "ro": "Parcare la garajul gării.",
-            "en": "Park at the station parking garage."
+            "en": "Park at the station parking garage.",
+            "tr": "İstasyon otopark garajına park edin."
           }
         },
         {
@@ -552,7 +588,8 @@
             "de": "Pauluskirche",
             "hu": "Pál-templom",
             "ro": "Biserica Sfântul Paul",
-            "en": "St. Paul's Church"
+            "en": "St. Paul's Church",
+            "tr": "St. Paul’s Church"
           },
           "coords": [
             7.818,
@@ -567,7 +604,8 @@
             "de": "Kurzer Fußweg vom Museum.",
             "hu": "Rövid séta a múzeumtól.",
             "ro": "Scurtă plimbare de la muzeu.",
-            "en": "Short walk from the museum."
+            "en": "Short walk from the museum.",
+            "tr": "Müzeden kısa bir yürüyüş mesafesinde."
           }
         },
         {
@@ -575,7 +613,8 @@
             "de": "Maximilianpark",
             "hu": "Maximilianpark",
             "ro": "Parcul Maximilian",
-            "en": "Maximilianpark"
+            "en": "Maximilianpark",
+            "tr": "Maximilianpark"
           },
           "coords": [
             7.882,
@@ -590,7 +629,8 @@
             "de": "Großer Parkplatz direkt am Eingang.",
             "hu": "Nagy parkoló közvetlenül a bejáratnál.",
             "ro": "Parcare mare direct la intrare.",
-            "en": "Large parking lot right at the entrance."
+            "en": "Large parking lot right at the entrance.",
+            "tr": "Girişte büyük otopark."
           }
         },
         {
@@ -598,7 +638,8 @@
             "de": "Sri-Kamadchi-Ampal-Tempel",
             "hu": "Srí-Kamadcsi-Ampal hindu templom",
             "ro": "Templul Sri-Kamadchi-Ampal",
-            "en": "Sri-Kamadchi-Ampal-Temple"
+            "en": "Sri-Kamadchi-Ampal-Temple",
+            "tr": "Sri-Kamadchi-Ampal-Temple"
           },
           "coords": [
             7.964,
@@ -613,7 +654,8 @@
             "de": "Schuhe vor dem Betreten ausziehen.",
             "hu": "Belépés előtt vegye le a cipőjét.",
             "ro": "Scoateți încălțămintea înainte de a intra.",
-            "en": "Remove your shoes before entering."
+            "en": "Remove your shoes before entering.",
+            "tr": "İçeri girmeden önce ayakkabılarınızı çıkarın."
           }
         },
         {
@@ -621,7 +663,8 @@
             "de": "Schloss Heessen",
             "hu": "Heessen-kastély",
             "ro": "Castelul Heessen",
-            "en": "Schloss Heessen"
+            "en": "Schloss Heessen",
+            "tr": "Schloss Heessen"
           },
           "coords": [
             7.834,
@@ -636,7 +679,8 @@
             "de": "Malerische Kulisse für Fotos.",
             "hu": "Festői háttér a fotókhoz.",
             "ro": "Cadru pitoresc pentru fotografii.",
-            "en": "Picturesque backdrop for photos."
+            "en": "Picturesque backdrop for photos.",
+            "tr": "Fotoğraflar için kartpostallık bir fon."
           }
         },
         {
@@ -644,7 +688,8 @@
             "de": "Gastro-Abschluss in Heessen",
             "hu": "Gasztro-zárás Heessenben",
             "ro": "Final de zi gastronomic în Heessen",
-            "en": "Gastro finale in Heessen"
+            "en": "Gastro finale in Heessen",
+            "tr": "Heessen’de gastronomik final"
           },
           "coords": [
             7.828,
@@ -659,7 +704,8 @@
             "de": "Regionale Spezialitäten genießen.",
             "hu": "Élvezze a regionális különlegességeket.",
             "ro": "Savurați specialități regionale.",
-            "en": "Enjoy regional specialties."
+            "en": "Enjoy regional specialties.",
+            "tr": "Bölgesel spesiyalitelerin tadını çıkarın."
           }
         }
       ],
@@ -667,7 +713,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Highlights von Hamm. Nach Kultur im Zentrum fahren Sie zum berühmten Maximilianpark. Ein kultureller Kontrast erwartet Sie im beeindruckenden Hindu-Tempel in Uentrop. Den Abschluss bildet das Schloss Heessen, wo Sie die Architektur bewundern und in der Nähe den Tag kulinarisch ausklingen lassen können.",
         "hu": "Autóval kényelmesen elérheti Hamm legfontosabb látnivalóit. A belvárosi kultúra után látogasson el a híres Maximilianparkba. Kulturális kontraszt várja az impozáns uentropi hindu templomnál. A napot a Heessen-kastélynál zárja, ahol megcsodálhatja az építészetet és élvezheti a környék gasztronómiáját.",
         "ro": "Cu mașina puteți ajunge confortabil la punctele culminante din Hamm. După cultură în centru, conduceți spre celebrul Maximilianpark. Un contrast cultural vă așteaptă la impresionantul templu hindu din Uentrop. Finalul are loc la Castelul Heessen, unde puteți admira arhitectura și încheia ziua culinar în apropiere.",
-        "en": "By car, you can comfortably reach the highlights of Hamm. After culture in the center, drive to the famous Maximilianpark. A cultural contrast awaits at the impressive Hindu temple in Uentrop. The day concludes at Schloss Heessen, where you can admire the architecture and end the day with a culinary experience nearby."
+        "en": "By car, you can comfortably reach the highlights of Hamm. After culture in the center, drive to the famous Maximilianpark. A cultural contrast awaits at the impressive Hindu temple in Uentrop. The day concludes at Schloss Heessen, where you can admire the architecture and end the day with a culinary experience nearby.",
+        "tr": "Arabayla, Hamm’in öne çıkan noktalarına rahatça ulaşabilirsiniz. Merkezdeki kültürden sonra ünlü Maximilianpark’a sürün. Uentrop’taki etkileyici Hindu tapınağında kültürel bir kontrast sizi bekliyor. Gün, mimarisine hayran kalacağınız Schloss Heessen’de sona erer ve yakınlarda gastronomik bir deneyimle bitirilebilir."
       },
       "gastro_picks": {
         "de": [
@@ -767,6 +814,10 @@
         "en": [
           "Park in the center and walk to St. Paul's Church.",
           "Be mindful of the service times at the temple."
+        ],
+        "tr": [
+          "Merkezde park edin ve St. Paul’s Church’a yürüyün.",
+          "Tapınağın ibadet saatlerine dikkat edin."
         ]
       }
     },
@@ -783,7 +834,8 @@
             "de": "Gustav-Lübcke-Museum",
             "hu": "Gustav-Lübcke-Múzeum",
             "ro": "Muzeul Gustav-Lübcke",
-            "en": "Gustav-Lübcke-Museum"
+            "en": "Gustav-Lübcke-Museum",
+            "tr": "Gustav-Lübcke-Museum"
           },
           "coords": [
             7.81,
@@ -798,7 +850,8 @@
             "de": "Direkt gegenüber vom Hauptbahnhof.",
             "hu": "Közvetlenül a főpályaudvarral szemben.",
             "ro": "Direct vizavi de gara centrală.",
-            "en": "Directly opposite the main train station."
+            "en": "Directly opposite the main train station.",
+            "tr": "Ana tren istasyonunun tam karşısında."
           }
         },
         {
@@ -806,7 +859,8 @@
             "de": "Pauluskirche",
             "hu": "Pál-templom",
             "ro": "Biserica Sfântul Paul",
-            "en": "St. Paul's Church"
+            "en": "St. Paul's Church",
+            "tr": "St. Paul’s Church"
           },
           "coords": [
             7.818,
@@ -821,7 +875,8 @@
             "de": "Zentraler Knotenpunkt vieler Buslinien.",
             "hu": "Számos buszjárat központi csomópontja.",
             "ro": "Nod central pentru multe linii de autobuz.",
-            "en": "Central hub for many bus lines."
+            "en": "Central hub for many bus lines.",
+            "tr": "Birçok otobüs hattı için merkezi birleşim noktası."
           }
         },
         {
@@ -829,7 +884,8 @@
             "de": "Maximilianpark",
             "hu": "Maximilianpark",
             "ro": "Parcul Maximilian",
-            "en": "Maximilianpark"
+            "en": "Maximilianpark",
+            "tr": "Maximilianpark"
           },
           "coords": [
             7.882,
@@ -844,7 +900,8 @@
             "de": "Buslinie 1 oder 33 ab Willy-Brandt-Platz.",
             "hu": "1-es vagy 33-as busz a Willy-Brandt-Platzról.",
             "ro": "Linia de autobuz 1 sau 33 de la Willy-Brandt-Platz.",
-            "en": "Bus line 1 or 33 from Willy-Brandt-Platz."
+            "en": "Bus line 1 or 33 from Willy-Brandt-Platz.",
+            "tr": "Willy-Brandt-Platz’tan otobüs hattı 1 veya 33."
           }
         },
         {
@@ -852,7 +909,8 @@
             "de": "Kurpark Hamm",
             "hu": "Hamm-i Kurpark",
             "ro": "Parcul Kurpark Hamm",
-            "en": "Kurpark Hamm"
+            "en": "Kurpark Hamm",
+            "tr": "Kurpark Hamm"
           },
           "coords": [
             7.835,
@@ -867,7 +925,8 @@
             "de": "Gute Anbindung mit der Linie R31/R32.",
             "hu": "Jó összeköttetés az R31/R32 vonalakkal.",
             "ro": "Conexiune bună cu liniile R31/R32.",
-            "en": "Good connection with lines R31/R32."
+            "en": "Good connection with lines R31/R32.",
+            "tr": "R31/R32 hatlarıyla iyi bağlantı."
           }
         },
         {
@@ -875,7 +934,8 @@
             "de": "Abendessen im Zentrum",
             "hu": "Vacsora a központban",
             "ro": "Cină în centru",
-            "en": "Dinner in the Center"
+            "en": "Dinner in the Center",
+            "tr": "Merkezde akşam yemeği"
           },
           "coords": [
             7.818,
@@ -890,7 +950,8 @@
             "de": "Kurzer Weg zurück zum Bahnhof.",
             "hu": "Rövid út vissza a pályaudvarhoz.",
             "ro": "Drum scurt înapoi la gară.",
-            "en": "Short walk back to the station."
+            "en": "Short walk back to the station.",
+            "tr": "İstasyona kısa yürüyüşle dönüş."
           }
         }
       ],
@@ -898,7 +959,8 @@
         "de": "Hamm lässt sich hervorragend mit dem dichten Busnetz erkunden. Starten Sie am Museum gegenüber des Bahnhofs und schlendern Sie zur Pauluskirche. Ein Bus bringt Sie direkt zum Maximilianpark mit seinem markanten Glaselefanten. Nach Entspannung im Kurpark kehren Sie für ein Abendessen ins Zentrum zurück, bevor Sie Ihre Heimreise antreten.",
         "hu": "Hamm kiválóan felfedezhető a sűrű buszhálózattal. Kezdjen a pályaudvarral szemközti múzeumnál, majd sétáljon a Pál-templomhoz. Egy busz elviszi közvetlenül a Maximilianparkba az emblematikus üvegelefánthoz. A Kurparkban való pihenés után térjen vissza vacsorázni a központba, mielőtt hazautazna.",
         "ro": "Hamm poate fi explorat excelent cu rețeaua densă de autobuze. Începeți la muzeul de vizavi de gară și plimbați-vă până la Biserica Sfântul Paul. Un autobuz vă duce direct la Maximilianpark, cu faimosul său Elefant de Sticlă. După relaxarea în Kurpark, reveniți pentru cină în centru înainte de plecare.",
-        "en": "Hamm can be easily explored using the dense bus network. Start at the museum opposite the station and stroll to St. Paul's Church. A bus will take you directly to Maximilianpark and its iconic Glass Elephant. After relaxing in the Kurpark, return to the center for dinner before heading home."
+        "en": "Hamm can be easily explored using the dense bus network. Start at the museum opposite the station and stroll to St. Paul's Church. A bus will take you directly to Maximilianpark and its iconic Glass Elephant. After relaxing in the Kurpark, return to the center for dinner before heading home.",
+        "tr": "Hamm, yoğun otobüs ağıyla kolayca keşfedilebilir. İstasyona karşıdaki müzeden başlayıp Paul Kilisesi’ne doğru gezinin. Bir otobüs sizi doğrudan Maximilianpark ve ikonik Cam Fil’e götürecektir. Kurpark’ta dinlendikten sonra merkeze dönüp akşam yemeği yiyin, ardından eve gidin."
       },
       "gastro_picks": {
         "de": [
@@ -998,6 +1060,10 @@
         "en": [
           "Use the 9 AM Day Ticket for affordable travel.",
           "The 'Fahrtwind' app helps with bus planning."
+        ],
+        "tr": [
+          "Uygun fiyatlı seyahat için 09:00 Günlük Biletini kullanın.",
+          "'Fahrtwind' uygulaması otobüs planlamasında yardımcı olur."
         ]
       }
     }

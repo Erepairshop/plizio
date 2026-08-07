@@ -21,7 +21,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi városháza",
             "ro": "Primăria Istorică",
-            "en": "Historic Town Hall"
+            "en": "Historic Town Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             6.6365,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf das barocke Wappen über dem Portal.",
             "hu": "Figyelje meg a kapu feletti barokk címert.",
             "ro": "Observați blazonul baroc de deasupra portalului.",
-            "en": "Look for the Baroque coat of arms above the portal."
+            "en": "Look for the Baroque coat of arms above the portal.",
+            "tr": "Portalin üzerindeki Barok armayı arayın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St. Peter Kirche (Saardom)",
             "hu": "Szent Péter templom",
             "ro": "Biserica Sf. Petru",
-            "en": "St. Peter's Church"
+            "en": "St. Peter's Church",
+            "tr": "St. Peter Kilisesi"
           },
           "coords": [
             6.6358,
@@ -59,7 +62,8 @@
             "de": "Die größte romanische Kirche des Saarlandes.",
             "hu": "Sárvidék legnagyobb román stílusú temploma.",
             "ro": "Cea mai mare biserică romanică din Saarland.",
-            "en": "The largest Romanesque church in the Saarland."
+            "en": "The largest Romanesque church in the Saarland.",
+            "tr": "Saarland'daki en büyük Romanesk kilise."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Feinmechanisches Museum Fellenbergmühle",
             "hu": "Finommechanikai Múzeum",
             "ro": "Muzeul de Mecanică Fină",
-            "en": "Precision Mechanics Museum"
+            "en": "Precision Mechanics Museum",
+            "tr": "Hassas Mekanik Müzesi"
           },
           "coords": [
             6.637,
@@ -82,7 +87,8 @@
             "de": "Eine funktionierende Werkstatt aus dem 19. Jahrhundert.",
             "hu": "Működő 19. századi műhely bemutatókkal.",
             "ro": "Un atelier funcțional din secolul al XIX-lea.",
-            "en": "A working 19th-century workshop with demonstrations."
+            "en": "A working 19th-century workshop with demonstrations.",
+            "tr": "Canlı gösterimlerle çalışan 19. yüzyıl atölyesi."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Merziger Hafen & Brauhaus",
             "hu": "Merzigi kikötő és sörfőzde",
             "ro": "Portul Merzig și Berăria",
-            "en": "Merzig Harbor & Brewery"
+            "en": "Merzig Harbor & Brewery",
+            "tr": "Merzig Limanı ve Birasıryeri"
           },
           "coords": [
             6.6315,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie das lokale Viez-Bier im Brauhaus.",
             "hu": "Kóstolja meg a helyi almaboros sört a sörfőzdében.",
             "ro": "Gustați berea locală cu cidru la berărie.",
-            "en": "Try the local cider-beer at the brewery."
+            "en": "Try the local cider-beer at the brewery.",
+            "tr": "Bira fabrikasında yerel elma şarabı-birasını deneyin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Stadthalle Merzig",
             "hu": "Városi Csarnok",
             "ro": "Sala Municipală",
-            "en": "Merzig City Hall (Stadthalle)"
+            "en": "Merzig City Hall (Stadthalle)",
+            "tr": "Merzig Belediye Binası (Stadthalle)"
           },
           "coords": [
             6.6335,
@@ -128,7 +137,8 @@
             "de": "Zentrum für Kultur und Events direkt an der Saar.",
             "hu": "Kulturális központ közvetlenül a Saar-folyó partján.",
             "ro": "Centru cultural situat chiar pe malul râului Saar.",
-            "en": "Cultural center located directly on the Saar river."
+            "en": "Cultural center located directly on the Saar river.",
+            "tr": "Saar nehrinin hemen kıyısında kültür merkezi."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Garten der Sinne",
             "hu": "Érzékek Kertje",
             "ro": "Grădina Simțurilor",
-            "en": "Garden of the Senses"
+            "en": "Garden of the Senses",
+            "tr": "Duyular Bahçesi"
           },
           "coords": [
             6.6215,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie den Panoramablick über das Saartal.",
             "hu": "Élvezze a panorámát a Saar-völgyre.",
             "ro": "Bucurați-vă de panorama asupra văii râului Saar.",
-            "en": "Enjoy the panoramic view over the Saar valley."
+            "en": "Enjoy the panoramic view over the Saar valley.",
+            "tr": "Saar vadisi üzerinde panoramik manzaranın keyfini çıkarın."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Tag beginnt im Herzen von Merzig am barocken Rathaus und dem imposanten Saardom, einem Meisterwerk der Romanik. Nach dem Besuch der historischen Fellenbergmühle führt der Weg ans Saarufer. Hier verbindet sich industrielle Hafenkultur mit kulinarischem Genuss im Brauhaus. Den Abschluss bildet ein Spaziergang hinauf zum Kreuzberg, wo die Gärten der Sinne Ruhe und Weitblick bieten.",
         "hu": "A nap Merzig szívében indul a barokk városházánál és az impozáns Saardomnál, amely a román építészet remekműve. A történelmi Fellenbergmühle megtekintése után az út a Saar-parthoz vezet. Itt az ipari kikötői kultúra találkozik a sörfőzde gasztronómiai élményeivel. A napot a Kreuzbergre való felkapaszkodás zárja, ahol az Érzékek Kertje nyugalmat és pazar kilátást kínál.",
         "ro": "Ziua începe în inima orașului Merzig, la primăria barocă și impunătorul Saardom, o capodoperă a stilului romanic. După vizitarea morii istorice Fellenberg, traseul duce spre malul râului Saar. Aici, cultura industrială portuară se împletește cu deliciile culinare ale berăriei. Finalul zilei este marcat de o plimbare spre Kreuzberg, unde Grădina Simțurilor oferă liniște și o priveliște vastă.",
-        "en": "The day begins in the heart of Merzig at the Baroque town hall and the imposing Saardom, a masterpiece of Romanesque architecture. After visiting the historic Fellenberg mill, the path leads to the banks of the Saar. Here, industrial harbor culture meets culinary delights at the brewery. The day ends with a walk up to the Kreuzberg, where the Garden of the Senses offers peace and a wide view."
+        "en": "The day begins in the heart of Merzig at the Baroque town hall and the imposing Saardom, a masterpiece of Romanesque architecture. After visiting the historic Fellenberg mill, the path leads to the banks of the Saar. Here, industrial harbor culture meets culinary delights at the brewery. The day ends with a walk up to the Kreuzberg, where the Garden of the Senses offers peace and a wide view.",
+        "tr": "Gün, Merzig'in kalbinde Barok belediye binası ve etkileyici Saardom ile başlar; bu yapı Romanesk mimarinin bir başyapıtıdır. Tarihi Fellenberg değirmenini ziyaret ettikten sonra rota Saar kıyılarına iner. Burada endüstriyel liman kültürü, bira fabrikasında sunulan lezzetlerle birleşir. Gün, Duyular Bahçesi'nin huzur ve geniş manzarasıyla Kreuzberg'e yürüyüşle sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -267,6 +280,12 @@
           "The town center is compact and easy to explore on foot.",
           "Park near the Stadthalle for central access.",
           "The Fellenberg Mill is often closed on Mondays."
+        ],
+        "tr": [
+          "Merzig, Viez (elma şarabı) başkentidir; mutlaka tadın!",
+          "Kasaba merkezi kompakt ve yürüyerek keşfetmesi kolay.",
+          "Merkezi erişim için Stadthalle yakınında park edin.",
+          "Fellenberg Değirmeni genellikle Pazartesileri kapalıdır."
         ]
       }
     },
@@ -283,7 +302,8 @@
             "de": "St. Peter Kirche",
             "hu": "Szent Péter templom",
             "ro": "Biserica Sf. Petru",
-            "en": "St. Peter's Church"
+            "en": "St. Peter's Church",
+            "tr": "St. Peter Kilisesi"
           },
           "coords": [
             6.6358,
@@ -298,7 +318,8 @@
             "de": "Beginnen Sie die Tour an der markanten Doppelturmfassade.",
             "hu": "Kezdje a túrát a jellegzetes kéttornyú homlokzatnál.",
             "ro": "Începeți turul la fațada distinctivă cu două turnuri.",
-            "en": "Start the tour at the distinctive twin-tower facade."
+            "en": "Start the tour at the distinctive twin-tower facade.",
+            "tr": "Tura, ayırt edici çift kule cepheden başlayın."
           }
         },
         {
@@ -306,7 +327,8 @@
             "de": "Wolfspark Werner Freund",
             "hu": "Werner Freund Farkaspark",
             "ro": "Parcul de Lupi Werner Freund",
-            "en": "Werner Freund Wolf Park"
+            "en": "Werner Freund Wolf Park",
+            "tr": "Werner Freund Kurt Parkı"
           },
           "coords": [
             6.618,
@@ -321,7 +343,8 @@
             "de": "Weltweit einzigartig: Beobachten Sie Wölfe aus nächster Nähe.",
             "hu": "Világszinten egyedülálló: figyelje meg a farkasokat közelről.",
             "ro": "Unic în lume: observați lupii de foarte aproape.",
-            "en": "Globally unique: observe wolves from close proximity."
+            "en": "Globally unique: observe wolves from close proximity.",
+            "tr": "Dünya çapında eşsiz: kurtları yakından gözlemleyin."
           }
         },
         {
@@ -329,7 +352,8 @@
             "de": "Expeditionsmuseum Werner Freund",
             "hu": "Werner Freund Expedíciós Múzeum",
             "ro": "Muzeul de Expediții Werner Freund",
-            "en": "Werner Freund Expedition Museum"
+            "en": "Werner Freund Expedition Museum",
+            "tr": "Werner Freund Sefer Müzesi"
           },
           "coords": [
             6.619,
@@ -344,7 +368,8 @@
             "de": "Artefakte fremder Kulturen, gesammelt vom 'Wolfsmenschen'.",
             "hu": "A 'farkasember' által gyűjtött idegen kulturális leletek.",
             "ro": "Artefacte ale culturilor străine, colectate de 'omul-lup'.",
-            "en": "Artifacts of foreign cultures collected by the 'Wolf Man'."
+            "en": "Artifacts of foreign cultures collected by the 'Wolf Man'.",
+            "tr": "'Kurt Adam' tarafından toplanmış yabancı kültürlere ait eserler."
           }
         },
         {
@@ -352,7 +377,8 @@
             "de": "Merziger Hafen",
             "hu": "Merzigi kikötő",
             "ro": "Portul Merzig",
-            "en": "Merzig Harbor"
+            "en": "Merzig Harbor",
+            "tr": "Merzig Limanı"
           },
           "coords": [
             6.6315,
@@ -367,7 +393,8 @@
             "de": "Entspannter Stop am Saarradweg.",
             "hu": "Pihentető megálló a Saar menti kerékpárúton.",
             "ro": "Oprire relaxantă pe pista de biciclete de pe malul Saarului.",
-            "en": "Relaxing stop on the Saar cycle path."
+            "en": "Relaxing stop on the Saar cycle path.",
+            "tr": "Saar bisiklet yolunda dinlendirici bir mola."
           }
         },
         {
@@ -375,7 +402,8 @@
             "de": "Garten der Sinne",
             "hu": "Érzékek Kertje",
             "ro": "Grădina Simțurilor",
-            "en": "Garden of the Senses"
+            "en": "Garden of the Senses",
+            "tr": "Duyular Bahçesi"
           },
           "coords": [
             6.6215,
@@ -390,7 +418,8 @@
             "de": "Der Anstieg mit dem Rad lohnt sich für die Aussicht.",
             "hu": "A kerékpáros emelkedő megéri a kilátásért.",
             "ro": "Urcarea cu bicicleta merită pentru priveliște.",
-            "en": "The uphill ride is worth it for the view."
+            "en": "The uphill ride is worth it for the view.",
+            "tr": "Yokuş tırmanışı manzara için buna değer."
           }
         },
         {
@@ -398,7 +427,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi városháza",
             "ro": "Primăria Istorică",
-            "en": "Historic Town Hall"
+            "en": "Historic Town Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             6.6365,
@@ -413,7 +443,8 @@
             "de": "Ausklang der Tour in der Fußgängerzone.",
             "hu": "A túra lezárása a sétálóövezetben.",
             "ro": "Încheierea turului în zona pietonală.",
-            "en": "End the tour in the pedestrian zone."
+            "en": "End the tour in the pedestrian zone.",
+            "tr": "Turu yaya bölgesinde sonlandırın."
           }
         }
       ],
@@ -421,7 +452,8 @@
         "de": "Diese Radtour verbindet die kulturellen Schätze Merzigs mit der wilden Natur des Wolfsparks. Von der Altstadt führt der Weg hinauf in den Stadtwald zu den Gehegen der Polar- und Timberwölfe. Nach dem Besuch des faszinierenden Expeditionsmuseums rollen Sie entspannt hinunter zur Saar und genießen die Uferpromenade, bevor die Gärten der Sinne den grünen Abschluss bilden.",
         "hu": "Ez a kerékpártúra összeköti Merzig kulturális kincseit a Farkaspark vad természetével. Az óvárosból az út a városi erdőbe vezet a sarki és erdei farkasok kifutóihoz. A lenyűgöző expedíciós múzeum megtekintése után guruljon le a Saar-folyóhoz, és élvezze a vízparti sétányt, mielőtt az Érzékek Kertje zöld záróakkordként koronázná meg a napot.",
         "ro": "Acest tur cu bicicleta îmbină comorile culturale ale orașului Merzig cu natura sălbatică a Parcului de Lupi. Din centrul vechi, drumul urcă spre pădurea municipală, la țarcurile lupilor polari și de pădure. După vizitarea fascinantului muzeu de expediții, coborâți relaxat spre malul râului Saar și bucurați-vă de faleză, înainte ca Grădina Simțurilor să ofere un final verde zilei.",
-        "en": "This bike tour combines Merzig's cultural treasures with the wild nature of the Wolf Park. From the old town, the path leads up into the city forest to the enclosures of the polar and timber wolves. After visiting the fascinating expedition museum, enjoy a relaxed ride down to the Saar and along the riverside promenade before the Garden of the Senses provides a green finale."
+        "en": "This bike tour combines Merzig's cultural treasures with the wild nature of the Wolf Park. From the old town, the path leads up into the city forest to the enclosures of the polar and timber wolves. After visiting the fascinating expedition museum, enjoy a relaxed ride down to the Saar and along the riverside promenade before the Garden of the Senses provides a green finale.",
+        "tr": "Bu bisiklet turu Merzig'in kültürel hazinelerini Werner Freund Kurt Parkı'nın vahşi doğasıyla birleştirir. Eski şehirden rota şehir ormanına çıkarak kutup ve orman kurtlarının barınaklarına ulaşır. Büyüleyici sefer müzesini ziyaret ettikten sonra Saar'a ve nehir kıyısı promenadına rahat bir iniş yapın; gün, Duyular Bahçesi'nin yeşil finaliyle tamamlanır."
       },
       "gastro_picks": {
         "de": [
@@ -529,6 +561,12 @@
           "Use the Saar cycle path for flat sections.",
           "Plenty of bike racks are available at the Stadthalle.",
           "Wear a helmet in the forest."
+        ],
+        "tr": [
+          "Kurt Parkı'na tırmanış biraz kondisyon gerektirir.",
+          "Düz bölümler için Saar bisiklet yolunu kullanın.",
+          "Stadthalle'de bol sayıda bisiklet park yeri var.",
+          "Ormanda kask takın."
         ]
       }
     },
@@ -545,7 +583,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi városháza",
             "ro": "Primăria Istorică",
-            "en": "Historic Town Hall"
+            "en": "Historic Town Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             6.6365,
@@ -560,7 +599,8 @@
             "de": "Cluster 1: Parken Sie in der Nähe der Poststraße.",
             "hu": "1. klaszter: Parkoljon a Poststraße közelében.",
             "ro": "Cluster 1: Parcați în apropiere de Poststraße.",
-            "en": "Cluster 1: Park near Poststraße."
+            "en": "Cluster 1: Park near Poststraße.",
+            "tr": "Küme 1: Poststraße yakınında park edin."
           }
         },
         {
@@ -568,7 +608,8 @@
             "de": "St. Peter Kirche",
             "hu": "Szent Péter templom",
             "ro": "Biserica Sf. Petru",
-            "en": "St. Peter's Church"
+            "en": "St. Peter's Church",
+            "tr": "St. Peter Kilisesi"
           },
           "coords": [
             6.6358,
@@ -583,7 +624,8 @@
             "de": "Cluster 1: Kurzer Fußweg von der Altstadt.",
             "hu": "1. klaszter: Rövid séta az óvárostól.",
             "ro": "Cluster 1: Scurtă plimbare din centrul vechi.",
-            "en": "Cluster 1: Short walk from the old town."
+            "en": "Cluster 1: Short walk from the old town.",
+            "tr": "Küme 1: Eski şehirden kısa bir yürüyüş mesafesinde."
           }
         },
         {
@@ -591,7 +633,8 @@
             "de": "Feinmechanisches Museum",
             "hu": "Finommechanikai Múzeum",
             "ro": "Muzeul de Mecanică Fină",
-            "en": "Precision Mechanics Museum"
+            "en": "Precision Mechanics Museum",
+            "tr": "Hassas Mekanik Müzesi"
           },
           "coords": [
             6.637,
@@ -606,7 +649,8 @@
             "de": "Cluster 1: Letzter Stop zu Fuß im Zentrum.",
             "hu": "1. klaszter: Az utolsó gyalogos megálló a központban.",
             "ro": "Cluster 1: Ultima oprire pe jos în centru.",
-            "en": "Cluster 1: Last stop on foot in the center."
+            "en": "Cluster 1: Last stop on foot in the center.",
+            "tr": "Küme 1: Merkezde yaya olarak son durak."
           }
         },
         {
@@ -614,7 +658,8 @@
             "de": "Wolfspark Werner Freund",
             "hu": "Werner Freund Farkaspark",
             "ro": "Parcul de Lupi Werner Freund",
-            "en": "Werner Freund Wolf Park"
+            "en": "Werner Freund Wolf Park",
+            "tr": "Werner Freund Kurt Parkı"
           },
           "coords": [
             6.618,
@@ -629,7 +674,8 @@
             "de": "Cluster 2: Großer Parkplatz direkt am Wald.",
             "hu": "2. klaszter: Nagy parkoló közvetlenül az erdőnél.",
             "ro": "Cluster 2: Parcare mare chiar lângă pădure.",
-            "en": "Cluster 2: Large parking lot right by the forest."
+            "en": "Cluster 2: Large parking lot right by the forest.",
+            "tr": "Küme 2: Ormanın hemen yanında geniş otopark."
           }
         },
         {
@@ -637,7 +683,8 @@
             "de": "Expeditionsmuseum",
             "hu": "Expedíciós Múzeum",
             "ro": "Muzeul de Expediții",
-            "en": "Expedition Museum"
+            "en": "Expedition Museum",
+            "tr": "Sefer Müzesi"
           },
           "coords": [
             6.619,
@@ -652,7 +699,8 @@
             "de": "Cluster 2: Zu Fuß vom Wolfspark erreichbar.",
             "hu": "2. klaszter: Gyalogosan elérhető a Farkasparktól.",
             "ro": "Cluster 2: Accesibil pe jos de la Parcul de Lupi.",
-            "en": "Cluster 2: Reachable on foot from the Wolf Park."
+            "en": "Cluster 2: Reachable on foot from the Wolf Park.",
+            "tr": "Küme 2: Kurt Parkı'ndan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -660,7 +708,8 @@
             "de": "Garten der Sinne",
             "hu": "Érzékek Kertje",
             "ro": "Grădina Simțurilor",
-            "en": "Garden of the Senses"
+            "en": "Garden of the Senses",
+            "tr": "Duyular Bahçesi"
           },
           "coords": [
             6.6215,
@@ -675,7 +724,8 @@
             "de": "Cluster 3: Parken Sie direkt am Kreuzberg.",
             "hu": "3. klaszter: Parkoljon közvetlenül a Kreuzbergnél.",
             "ro": "Cluster 3: Parcați chiar la Kreuzberg.",
-            "en": "Cluster 3: Park directly at the Kreuzberg."
+            "en": "Cluster 3: Park directly at the Kreuzberg.",
+            "tr": "Küme 3: Kreuzberg'de doğrudan park edin."
           }
         }
       ],
@@ -683,7 +733,8 @@
         "de": "Mit dem Auto erkunden Sie Merzig in drei komfortablen Clustern. Zuerst parken Sie im Zentrum für den historischen Kern mit dem Saardom und der Fellenbergmühle. Danach fahren Sie zum Wolfspark im Stadtwald, wo Sie die beeindruckenden Gehege und das Expeditionsmuseum zu Fuß erkunden. Der Tag endet auf dem Kreuzberg, den Sie bequem per PKW erreichen, um die Aussicht aus den Gärten der Sinne zu genießen.",
         "hu": "Autóval három kényelmes klaszterben fedezheti fel Merziget. Először parkoljon a központban a történelmi mag, a Saardom és a Fellenbergmühle megtekintéséhez. Ezután hajtson a Farkasparkhoz a városi erdőbe, ahol gyalogosan járhatja be a kifutókat és az expedíciós múzeumot. A napot a Kreuzbergen zárja, amelyet kényelmesen elérhet autóval, hogy élvezze az Érzékek Kertjéből nyíló kilátást.",
         "ro": "Cu mașina, explorați Merzig în trei clustere confortabile. Mai întâi, parcați în centru pentru nucleul istoric cu Saardom și moara Fellenberg. Apoi, conduceți către Parcul de Lupi din pădurea orașului, unde explorați pe jos țarcurile și muzeul de expediții. Ziua se încheie pe Kreuzberg, unde ajungeți ușor cu mașina pentru a vă bucura de priveliștea din Grădina Simțurilor.",
-        "en": "Explore Merzig by car in three convenient clusters. First, park in the center for the historic core with the Saardom and the Fellenberg Mill. Then drive to the Wolf Park in the city forest, where you explore the impressive enclosures and the expedition museum on foot. The day ends on the Kreuzberg, easily reached by car, to enjoy the views from the Garden of the Senses."
+        "en": "Explore Merzig by car in three convenient clusters. First, park in the center for the historic core with the Saardom and the Fellenberg Mill. Then drive to the Wolf Park in the city forest, where you explore the impressive enclosures and the expedition museum on foot. The day ends on the Kreuzberg, easily reached by car, to enjoy the views from the Garden of the Senses.",
+        "tr": "Merzig'i arabayla üç kullanışlı kümede keşfedin. Önce Saardom ve Fellenberg Değirmeni ile tarihi çekirdek için merkezde park edin. Ardından şehir ormanındaki Kurt Parkı'na sürün; barınakları ve sefer müzesini yürüyerek keşfedin. Gün, araba ile kolayca ulaşılabilen Kreuzberg'de, Duyular Bahçesi'nden manzaraların keyfini çıkararak sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -791,6 +842,12 @@
           "The roads to the Wolf Park are well-maintained.",
           "Walking is more time-efficient within the clusters.",
           "Watch out for parking zones in the old town."
+        ],
+        "tr": [
+          "Çevredeki Park-and-Ride seçeneklerini kullanın.",
+          "Kurt Parkı'na giden yollar iyi durumda.",
+          "Kümeler içinde yürümek zaman açısından daha verimlidir.",
+          "Eski şehirdeki park alanlarına dikkat edin."
         ]
       }
     },
@@ -807,7 +864,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi városháza",
             "ro": "Primăria Istorică",
-            "en": "Historic Town Hall"
+            "en": "Historic Town Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             6.6365,
@@ -822,7 +880,8 @@
             "de": "Zentraler Startpunkt, nahe der Bushaltestelle Kirchplatz.",
             "hu": "Központi indulópont a Kirchplatz buszmegálló közelében.",
             "ro": "Punct central de plecare, aproape de stația de autobuz Kirchplatz.",
-            "en": "Central starting point, near the Kirchplatz bus stop."
+            "en": "Central starting point, near the Kirchplatz bus stop.",
+            "tr": "Merkezi başlangıç noktası, Kirchplatz otobüs durağı yakınında."
           }
         },
         {
@@ -830,7 +889,8 @@
             "de": "St. Peter Kirche",
             "hu": "Szent Péter templom",
             "ro": "Biserica Sf. Petru",
-            "en": "St. Peter's Church"
+            "en": "St. Peter's Church",
+            "tr": "St. Peter Kilisesi"
           },
           "coords": [
             6.6358,
@@ -845,7 +905,8 @@
             "de": "Zu Fuß vom Rathaus erreichbar.",
             "hu": "Gyalogosan elérhető a városházától.",
             "ro": "Accesibil pe jos de la primărie.",
-            "en": "Accessible on foot from the town hall."
+            "en": "Accessible on foot from the town hall.",
+            "tr": "Belediye binasından yürüyerek ulaşılabilir."
           }
         },
         {
@@ -853,7 +914,8 @@
             "de": "Merziger Hafen",
             "hu": "Merzigi kikötő",
             "ro": "Portul Merzig",
-            "en": "Merzig Harbor"
+            "en": "Merzig Harbor",
+            "tr": "Merzig Limanı"
           },
           "coords": [
             6.6315,
@@ -868,7 +930,8 @@
             "de": "Nutzen Sie den Stadtbus Richtung Hafen.",
             "hu": "Használja a kikötő felé tartó városi buszt.",
             "ro": "Folosiți autobuzul urban în direcția portului.",
-            "en": "Take the city bus towards the harbor."
+            "en": "Take the city bus towards the harbor.",
+            "tr": "Liman yönüne giden şehir otobüsünü kullanın."
           }
         },
         {
@@ -876,7 +939,8 @@
             "de": "Wolfspark Werner Freund",
             "hu": "Werner Freund Farkaspark",
             "ro": "Parcul de Lupi Werner Freund",
-            "en": "Werner Freund Wolf Park"
+            "en": "Werner Freund Wolf Park",
+            "tr": "Werner Freund Kurt Parkı"
           },
           "coords": [
             6.618,
@@ -891,7 +955,8 @@
             "de": "Buslinie Richtung Waldalgesheim/Harlingen.",
             "hu": "Buszjárat Waldalgesheim/Harlingen felé.",
             "ro": "Linie de autobuz spre Waldalgesheim/Harlingen.",
-            "en": "Bus line towards Waldalgesheim/Harlingen."
+            "en": "Bus line towards Waldalgesheim/Harlingen.",
+            "tr": "Waldalgesheim/Harlingen yönüne giden otobüs hattı."
           }
         },
         {
@@ -899,7 +964,8 @@
             "de": "Garten der Sinne",
             "hu": "Érzékek Kertje",
             "ro": "Grădina Simțurilor",
-            "en": "Garden of the Senses"
+            "en": "Garden of the Senses",
+            "tr": "Duyular Bahçesi"
           },
           "coords": [
             6.6215,
@@ -914,7 +980,8 @@
             "de": "Rückfahrt Richtung Stadtzentrum.",
             "hu": "Visszautazás a városközpont felé.",
             "ro": "Întoarcere spre centrul orașului.",
-            "en": "Return trip towards the city center."
+            "en": "Return trip towards the city center.",
+            "tr": "Dönüş yolculuğu şehir merkezine doğru."
           }
         }
       ],
@@ -922,7 +989,8 @@
         "de": "Mit dem effizienten Bussystem Merzigs erreichen Sie alle Highlights stressfrei. Nach dem kulturellen Auftakt im Zentrum bringt Sie der Bus direkt zum Hafen für eine Mittagspause am Wasser. Das absolute Highlight ist der Wolfspark, der gut an das Liniennetz angebunden ist. Zum Abschluss genießen Sie die botanische Pracht der Gärten der Sinne, bevor es zurück zum Bahnhof geht.",
         "hu": "Merzig hatékony buszhálózatával stresszmentesen érheti el az összes látnivalót. A központi kulturális kezdés után a busz közvetlenül a kikötőhöz viszi egy vízparti ebédszünetre. A nap fénypontja a Farkaspark, amely jól kapcsolódik a vonalhálózathoz. Végezetül élvezze az Érzékek Kertjének botanikai pompáját, mielőtt visszatérne a vasútállomáshoz.",
         "ro": "Cu sistemul eficient de autobuze din Merzig, ajungeți la toate atracțiile fără stres. După debutul cultural din centru, autobuzul vă duce direct în port pentru o pauză de prânz pe malul apei. Punctul culminant este Parcul de Lupi, bine conectat la rețeaua de transport. La final, bucurați-vă de splendoarea botanică a Grădinii Simțurilor înainte de a vă întoarce la gară.",
-        "en": "With Merzig's efficient bus system, you can reach all the highlights stress-free. After a cultural start in the center, the bus takes you directly to the harbor for a lunch break by the water. The absolute highlight is the Wolf Park, which is well-connected to the transit network. Finally, enjoy the botanical splendor of the Garden of the Senses before heading back to the train station."
+        "en": "With Merzig's efficient bus system, you can reach all the highlights stress-free. After a cultural start in the center, the bus takes you directly to the harbor for a lunch break by the water. The absolute highlight is the Wolf Park, which is well-connected to the transit network. Finally, enjoy the botanical splendor of the Garden of the Senses before heading back to the train station.",
+        "tr": "Merzig'in verimli otobüs sistemiyle tüm önemli noktalar strese girmeden ulaşılabilir. Merkezdeki kültürel başlangıcın ardından otobüs sizi öğle molası için doğrudan limana götürür. Mutlak öne çıkan yer Kurt Parkı'dır; toplu taşıma ağına iyi bağlıdır. Son olarak Duyular Bahçesi'nin botanik zenginliğinin tadını çıkarıp tren istasyonuna geri dönün."
       },
       "gastro_picks": {
         "de": [
@@ -1030,6 +1098,12 @@
           "Buses usually run every half hour.",
           "Use the Saar-VV app for real-time data.",
           "The main train station is the central transfer point."
+        ],
+        "tr": [
+          "Tüm kentsel alan için günlük bilet alın.",
+          "Otobüsler genellikle yarım saatte bir çalışır.",
+          "Gerçek zamanlı veriler için Saar-VV uygulamasını kullanın.",
+          "Ana tren istasyonu merkezi aktarma noktasıdır."
         ]
       }
     }

@@ -21,7 +21,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Old Town Hall"
           },
           "coords": [
             9.6646,
@@ -37,7 +38,8 @@
             "de": "Ein prächtiger Backsteinbau im Herzen der Altstadt.",
             "hu": "Pompás tégláépület az óváros szívében.",
             "ro": "O clădire magnifică din cărămidă în inima centrului vechi.",
-            "en": "A magnificent brick building in the heart of the old town."
+            "en": "A magnificent brick building in the heart of the old town.",
+            "tr": "Eski kent merkezinde görkemli bir tuğla yapı."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Marienkirche",
             "hu": "Szent Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "St. Mary's Church"
           },
           "coords": [
             9.6656,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie das gotische Gewölbe und den Altar.",
             "hu": "Csodálja meg a gótikus boltozatot és az oltárt.",
             "ro": "Admirați bolta gotică și altarul.",
-            "en": "Admire the Gothic vaulting and the altar."
+            "en": "Admire the Gothic vaulting and the altar.",
+            "tr": "Gotik tonozları ve sunak bölümünü hayranlıkla izleyin."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Jüdisches Museum",
             "hu": "Zsidó Múzeum",
             "ro": "Muzeul Evreiesc",
-            "en": "Jewish Museum"
+            "en": "Jewish Museum",
+            "tr": "Jewish Museum"
           },
           "coords": [
             9.6686,
@@ -85,7 +90,8 @@
             "de": "Eines der bedeutendsten jüdischen Museen Deutschlands.",
             "hu": "Németország egyik legjelentősebb zsidó múzeuma.",
             "ro": "Unul dintre cele mai importante muzee evreiești din Germania.",
-            "en": "One of Germany's most significant Jewish museums."
+            "en": "One of Germany's most significant Jewish museums.",
+            "tr": "Almanya'nın en önemli Yahudi müzelerinden biri."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Arsenal / Kulturzentrum",
             "hu": "Arsenal Kulturális Központ",
             "ro": "Centrul Cultural Arsenal",
-            "en": "Arsenal Cultural Center"
+            "en": "Arsenal Cultural Center",
+            "tr": "Arsenal Cultural Center"
           },
           "coords": [
             9.663,
@@ -109,7 +116,8 @@
             "de": "Historisches Militärgebäude, heute ein Kulturzentrum.",
             "hu": "Történelmi katonai épület, ma kulturális központ.",
             "ro": "Clădire militară istorică, astăzi centru cultural.",
-            "en": "Historic military building, now a cultural center."
+            "en": "Historic military building, now a cultural center.",
+            "tr": "Tarihi askeri yapı, şimdi bir kültür merkezi."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Mittagessen am Kanal",
             "hu": "Ebéd a csatornánál",
             "ro": "Prânz la canal",
-            "en": "Lunch by the canal"
+            "en": "Lunch by the canal",
+            "tr": "Lunch by the canal"
           },
           "coords": [
             9.682,
@@ -133,7 +142,8 @@
             "de": "Genießen Sie Fischgerichte mit Blick auf die Schiffe.",
             "hu": "Élvezze a halételeket a hajókra nyíló kilátással.",
             "ro": "Savurați preparate din pește cu vedere la nave.",
-            "en": "Enjoy fish dishes with a view of the ships."
+            "en": "Enjoy fish dishes with a view of the ships.",
+            "tr": "Enjoy fish dishes with a view of the ships."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Rendsburger Hochbrücke",
             "hu": "Rendsburgi magasvasúti híd",
             "ro": "Podul înalt Rendsburg",
-            "en": "Rendsburg High Bridge"
+            "en": "Rendsburg High Bridge",
+            "tr": "Rendsburg High Bridge"
           },
           "coords": [
             9.683,
@@ -157,7 +168,8 @@
             "de": "Ein Wahrzeichen der Ingenieurskunst aus dem Jahr 1913.",
             "hu": "A mérnöki művészet jelképe 1913-ból.",
             "ro": "Un simbol al ingineriei construit în 1913.",
-            "en": "A landmark of engineering from 1913."
+            "en": "A landmark of engineering from 1913.",
+            "tr": "1913 tarihli mühendislik anıtı."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Schwebefähre Erlebnis",
             "hu": "Lebegő komp élmény",
             "ro": "Experiența bacului transbordor",
-            "en": "Transporter Bridge Experience"
+            "en": "Transporter Bridge Experience",
+            "tr": "Transporter Bridge Experience"
           },
           "coords": [
             9.6835,
@@ -181,7 +194,8 @@
             "de": "Überqueren Sie den Kanal hängend unter der Brücke.",
             "hu": "Keljen át a csatornán a híd alatt függve.",
             "ro": "Traversați canalul suspendați sub pod.",
-            "en": "Cross the canal suspended under the bridge."
+            "en": "Cross the canal suspended under the bridge.",
+            "tr": "Köprünün altından asılı olarak kanalı geçin."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Vormittags erkunden Sie das Herz von Rendsburg: das Alte Rathaus, die Marienkirche und das bedeutende Jüdische Museum. Nach einem Spaziergang zum Arsenal tauchen Sie in die Stadtgeschichte ein. Der Nachmittag führt Sie zum Nord-Ostsee-Kanal, wo Sie nach einem regionalen Mittagessen das technische Wunderwerk der Hochbrücke und die seltene Schwebefähre hautnah erleben können.",
         "hu": "Délelőtt Rendsburg szívét fedezzük fel: a régi városházát, a Mária-templomot és a jelentős Zsidó Múzeumot. Az Arsenalhoz tett séta után elmélyedünk a várostörténetben. A délután a Kiel-csatornához vezet, ahol egy helyi ebéd után testközelből élhetjük át a magasvasúti híd mérnöki csodáját és a ritka lebegő kompot.",
         "ro": "Dimineața explorați inima orașului Rendsburg: Primăria Veche, Biserica Sfânta Maria și importantul Muzeu Evreiesc. După o plimbare spre Arsenal, vă scufundați în istoria orașului. După-amiaza vă conduce la Canalul Kiel, unde, după un prânz regional, puteți experimenta de aproape minunea tehnică a podului înalt și rarul bac transbordor.",
-        "en": "In the morning, explore the heart of Rendsburg: the Old Town Hall, St. Mary's Church, and the significant Jewish Museum. After a walk to the Arsenal, dive into the city's history. The afternoon leads you to the Kiel Canal, where after a regional lunch, you can experience the engineering marvel of the high bridge and the rare transporter bridge up close."
+        "en": "In the morning, explore the heart of Rendsburg: the Old Town Hall, St. Mary's Church, and the significant Jewish Museum. After a walk to the Arsenal, dive into the city's history. The afternoon leads you to the Kiel Canal, where after a regional lunch, you can experience the engineering marvel of the high bridge and the rare transporter bridge up close.",
+        "tr": "Sabah, Rendsburg’un kalbini keşfedin: Eski Belediye Binası, St. Maria Kilisesi ve önemli Yahudi Müzesi. Bir yürüyüşle Arsenal’e ulaştıktan sonra şehrin tarihine dalın. Öğleden sonra Kiel Kanalı’na gidin; bölgesel bir öğle yemeğinin ardından yüksek köprünün mühendislik harikasını ve nadir transporter köprüyü yakından deneyimleyebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -345,6 +360,11 @@
           "Follow the blue line on the ground for a perfect city tour.",
           "The transporter bridge is out of service during strong winds.",
           "Binoculars are worth bringing for the canal ships."
+        ],
+        "tr": [
+          "Mükemmel bir şehir turu için zemindeki mavi çizgiyi takip edin.",
+          "Transporter köprü kuvvetli rüzgarlarda hizmet dışıdır.",
+          "Kanal gemilerini izlemek için dürbün getirmeye değer."
         ]
       }
     },
@@ -361,7 +381,8 @@
             "de": "Rendsburger Hochbrücke",
             "hu": "Magasvasúti híd",
             "ro": "Podul înalt Rendsburg",
-            "en": "Rendsburg High Bridge"
+            "en": "Rendsburg High Bridge",
+            "tr": "Rendsburg Yüksek Köprüsü"
           },
           "coords": [
             9.683,
@@ -377,7 +398,8 @@
             "de": "Spektakulärer Blick auf die Eisenbahnbrücke.",
             "hu": "Látványos kilátás a vasúti hídra.",
             "ro": "Vedere spectaculoasă la podul feroviar.",
-            "en": "Spectacular view of the railway bridge."
+            "en": "Spectacular view of the railway bridge.",
+            "tr": "Demiryolu köprüsünün muhteşem manzarası."
           }
         },
         {
@@ -385,7 +407,8 @@
             "de": "Schiffsbegrüßungsanlage",
             "hu": "Hajóköszöntő állomás",
             "ro": "Stația de salut a navelor",
-            "en": "Ship Welcome Point"
+            "en": "Ship Welcome Point",
+            "tr": "Gemi Karşılama Noktası"
           },
           "coords": [
             9.703,
@@ -401,7 +424,8 @@
             "de": "Hören Sie die Nationalhymnen der vorbeifahrenden Schiffe.",
             "hu": "Hallgassa meg az elhaladó hajók nemzeti himnuszait.",
             "ro": "Ascultați imnurile naționale ale navelor care trec prin canal.",
-            "en": "Listen to the national anthems of the passing ships."
+            "en": "Listen to the national anthems of the passing ships.",
+            "tr": "Geçen gemilerin ulusal marşlarını dinleyin."
           }
         },
         {
@@ -409,7 +433,8 @@
             "de": "Radweg am Nord-Ostsee-Kanal",
             "hu": "Kiel-csatorna kerékpárút",
             "ro": "Pista de biciclete pe Canal",
-            "en": "Canal Cycling Path"
+            "en": "Canal Cycling Path",
+            "tr": "Kanal Bisiklet Yolu"
           },
           "coords": [
             9.65,
@@ -425,7 +450,8 @@
             "de": "Ebenes Radeln direkt am Wasserweg.",
             "hu": "Sík terepen való tekerés közvetlenül a víz mellett.",
             "ro": "Pedalat pe teren drept chiar lângă apă.",
-            "en": "Flat cycling right next to the water."
+            "en": "Flat cycling right next to the water.",
+            "tr": "Su kenarında düz ve rahat bisiklet sürüşü."
           }
         },
         {
@@ -433,7 +459,8 @@
             "de": "Mittagessen in Westerrönfeld",
             "hu": "Ebéd Westerrönfeldben",
             "ro": "Prânz în Westerrönfeld",
-            "en": "Lunch in Westerrönfeld"
+            "en": "Lunch in Westerrönfeld",
+            "tr": "Westerrönfeld’de Öğle Yemeği"
           },
           "coords": [
             9.655,
@@ -449,7 +476,8 @@
             "de": "Gemütliche Einkehr auf der Südseite des Kanals.",
             "hu": "Hangulatos étterem a csatorna déli oldalán.",
             "ro": "Popas primitor pe partea de sud a canalului.",
-            "en": "Cozy stop on the south side of the canal."
+            "en": "Cozy stop on the south side of the canal.",
+            "tr": "Kanalın güney yanında keyifli bir mola yeri."
           }
         },
         {
@@ -457,7 +485,8 @@
             "de": "Kanaltunnel (Fahrradlift)",
             "hu": "Csatorna-alagút (biciklilift)",
             "ro": "Tunelul Canalului (lift biciclete)",
-            "en": "Canal Tunnel (Bike Lift)"
+            "en": "Canal Tunnel (Bike Lift)",
+            "tr": "Kanal Tüneli (Bisiklet Asansörü)"
           },
           "coords": [
             9.66,
@@ -473,7 +502,8 @@
             "de": "Fahrt unter dem Kanal durch den Fußgängertunnel.",
             "hu": "Átkelés a csatorna alatt a gyalogos alagúton.",
             "ro": "Traversare pe sub canal prin tunelul pietonal.",
-            "en": "Ride under the canal through the pedestrian tunnel."
+            "en": "Ride under the canal through the pedestrian tunnel.",
+            "tr": "Yaya tünelinden kanalı altından sürün."
           }
         },
         {
@@ -481,7 +511,8 @@
             "de": "Marienkirche & Altstadt",
             "hu": "Mária-templom és óváros",
             "ro": "Biserica și centrul vechi",
-            "en": "St. Mary's & Old Town"
+            "en": "St. Mary's & Old Town",
+            "tr": "St. Maria & Eski Kent"
           },
           "coords": [
             9.6656,
@@ -497,7 +528,8 @@
             "de": "Kurzer Abstecher in den historischen Stadtkern.",
             "hu": "Rövid kitérő a történelmi városmagba.",
             "ro": "Scurtă abatere în centrul istoric.",
-            "en": "Short detour into the historic city core."
+            "en": "Short detour into the historic city core.",
+            "tr": "Tarihi şehir çekirdeğine kısa bir sapma."
           }
         },
         {
@@ -505,7 +537,8 @@
             "de": "Jüdisches Museum",
             "hu": "Zsidó Múzeum",
             "ro": "Muzeul Evreiesc",
-            "en": "Jewish Museum"
+            "en": "Jewish Museum",
+            "tr": "Yahudi Müzesi"
           },
           "coords": [
             9.6686,
@@ -521,7 +554,8 @@
             "de": "Kulturelles Highlight am Nachmittag.",
             "hu": "Délutáni kulturális fénypont.",
             "ro": "Punct culminant cultural al după-amiezii.",
-            "en": "Cultural highlight of the afternoon."
+            "en": "Cultural highlight of the afternoon.",
+            "tr": "Öğleden sonranın kültürel vurgusu."
           }
         },
         {
@@ -529,7 +563,8 @@
             "de": "Eider-Schleife",
             "hu": "Eider-kanyar",
             "ro": "Bucla râului Eider",
-            "en": "Eider Loop"
+            "en": "Eider Loop",
+            "tr": "Eider Döngüsü"
           },
           "coords": [
             9.65,
@@ -545,7 +580,8 @@
             "de": "Ruhige Naturpfade entlang der alten Eider.",
             "hu": "Csendes ösvények a régi Eider mentén.",
             "ro": "Cărări liniștite în natură de-a lungul vechiului râu Eider.",
-            "en": "Quiet nature trails along the old Eider."
+            "en": "Quiet nature trails along the old Eider.",
+            "tr": "Eski Eider boyunca sessiz doğa yolları."
           }
         }
       ],
@@ -553,7 +589,8 @@
         "de": "Erleben Sie Rendsburg und seine Wasserwege per Rad. Die Tour führt Sie entlang des imposanten Kanals zur Schiffsbegrüßungsanlage und bietet weite Blicke auf die Wasserstraße. Nach einer Überquerung durch den Kanaltunnel erkunden Sie die Altstadt und das Jüdische Museum, bevor Sie durch die idyllische Eider-Schleife zurückradeln.",
         "hu": "Fedezze fel Rendsburgot és víziútjait kerékpárral. A túra a lenyűgöző csatorna mentén vezet a hajóköszöntő állomáshoz, széles kilátást nyújtva a víziútra. A csatorna-alagúton való átkelés után felfedezzük az óvárost és a Zsidó Múzeumot, majd az idilli Eider-kanyaron keresztül tekerünk vissza.",
         "ro": "Experimentați Rendsburg și căile sale navigabile cu bicicleta. Turul vă duce de-a lungul canalului impunător până la stația de salut a navelor și oferă vederi largi asupra căii navigabile. După o traversare prin tunelul pe sub canal, explorați orașul vechi și Muzeul Evreiesc, înainte de a pedala înapoi prin idilica buclă a râului Eider.",
-        "en": "Experience Rendsburg and its waterways by bike. The tour takes you along the imposing canal to the ship greeting station and offers wide views of the waterway. After crossing through the canal tunnel, explore the old town and the Jewish Museum before cycling back through the idyllic Eider loop."
+        "en": "Experience Rendsburg and its waterways by bike. The tour takes you along the imposing canal to the ship greeting station and offers wide views of the waterway. After crossing through the canal tunnel, explore the old town and the Jewish Museum before cycling back through the idyllic Eider loop.",
+        "tr": "Rendsburg ve su yollarını bisikletle keşfedin. Tur sizi etkileyici kanaldan gemi karşılama istasyonuna götürür ve su yolunun geniş manzaralarını sunar. Kanal tünelinden geçtikten sonra eski kenti ve Yahudi Müzesi’ni keşfedin, ardından huzurlu Eider döngüsü üzerinden geri dönün."
       },
       "gastro_picks": {
         "de": [
@@ -673,6 +710,11 @@
           "The canal cycling path is very popular, watch for oncoming traffic.",
           "Use the tunnel lift to avoid stairs.",
           "Bring binoculars for ship details."
+        ],
+        "tr": [
+          "Kanal bisiklet yolu çok popülerdir, karşıdan gelen trafiğe dikkat edin.",
+          "Merdivenlerden kaçınmak için tünel asansörünü kullanın.",
+          "Gemi detayları için dürbün getirin."
         ]
       }
     },
@@ -689,7 +731,8 @@
             "de": "Altes Rathaus (Cluster Altstadt)",
             "hu": "Régi Városháza (Óváros klaszter)",
             "ro": "Primăria Veche (Cluster Centru)",
-            "en": "Old Town Hall (Old Town Cluster)"
+            "en": "Old Town Hall (Old Town Cluster)",
+            "tr": "Eski Belediye Binası (Eski Kent Kümesi)"
           },
           "coords": [
             9.6646,
@@ -705,7 +748,8 @@
             "de": "Parken Sie zentral und erkunden Sie den Kern zu Fuß.",
             "hu": "Parkoljon a központban, és gyalog fedezze fel a magot.",
             "ro": "Parcați central și explorați centrul pe jos.",
-            "en": "Park centrally and explore the core on foot."
+            "en": "Park centrally and explore the core on foot.",
+            "tr": "Merkezde park edin ve çekirdeği yürüyerek keşfedin."
           }
         },
         {
@@ -713,7 +757,8 @@
             "de": "Marienkirche",
             "hu": "Szent Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "St. Maria Kilisesi"
           },
           "coords": [
             9.6656,
@@ -729,7 +774,8 @@
             "de": "Nur 2 Minuten Fußweg vom Rathaus.",
             "hu": "Csak 2 perc séta a városházától.",
             "ro": "Doar 2 minute de mers pe jos de la primărie.",
-            "en": "Just a 2-minute walk from the town hall."
+            "en": "Just a 2-minute walk from the town hall.",
+            "tr": "Belediye binasından sadece 2 dakikalık yürüyüş mesafesinde."
           }
         },
         {
@@ -737,7 +783,8 @@
             "de": "Jüdisches Museum",
             "hu": "Zsidó Múzeum",
             "ro": "Muzeul Evreiesc",
-            "en": "Jewish Museum"
+            "en": "Jewish Museum",
+            "tr": "Yahudi Müzesi"
           },
           "coords": [
             9.6686,
@@ -753,7 +800,8 @@
             "de": "Bedeutende Sammlung im historischen Viertel.",
             "hu": "Jelentős gyűjtemény a történelmi negyedben.",
             "ro": "Colecție importantă în cartierul istoric.",
-            "en": "Significant collection in the historic district."
+            "en": "Significant collection in the historic district.",
+            "tr": "Tarihi bölgedeki önemli koleksiyon."
           }
         },
         {
@@ -761,7 +809,8 @@
             "de": "Arsenal (Cluster Altstadt)",
             "hu": "Arsenal (Óváros klaszter)",
             "ro": "Arsenal (Cluster Centru)",
-            "en": "Arsenal (Old Town Cluster)"
+            "en": "Arsenal (Old Town Cluster)",
+            "tr": "Arsenal (Eski Kent Kümesi)"
           },
           "coords": [
             9.663,
@@ -777,7 +826,8 @@
             "de": "Abschluss des Altstadt-Rundgangs.",
             "hu": "Az óvárosi körséta lezárása.",
             "ro": "Finalul turului prin centrul vechi.",
-            "en": "Wrapping up the old town tour."
+            "en": "Wrapping up the old town tour.",
+            "tr": "Eski kent turunu burada tamamlayın."
           }
         },
         {
@@ -785,7 +835,8 @@
             "de": "Mittagessen (Cluster Kanal)",
             "hu": "Ebéd (Csatorna klaszter)",
             "ro": "Prânz (Cluster Canal)",
-            "en": "Lunch (Canal Cluster)"
+            "en": "Lunch (Canal Cluster)",
+            "tr": "Öğle Yemeği (Kanal Kümesi)"
           },
           "coords": [
             9.682,
@@ -801,7 +852,8 @@
             "de": "Fahrt zum Kanalparkplatz für regionale Spezialitäten.",
             "hu": "Autózás a csatornaparti parkolóhoz a helyi ételekért.",
             "ro": "Călătorie până la parcarea de la canal pentru specialități regionale.",
-            "en": "Drive to the canal parking lot for regional specialties."
+            "en": "Drive to the canal parking lot for regional specialties.",
+            "tr": "Bölgesel lezzetler için kanaldaki otoparka gidin."
           }
         },
         {
@@ -809,7 +861,8 @@
             "de": "Rendsburger Hochbrücke",
             "hu": "Magasvasúti híd",
             "ro": "Podul înalt Rendsburg",
-            "en": "Rendsburg High Bridge"
+            "en": "Rendsburg High Bridge",
+            "tr": "Rendsburg Yüksek Köprüsü"
           },
           "coords": [
             9.683,
@@ -825,7 +878,8 @@
             "de": "Direkt neben den Brückenterrassen.",
             "hu": "Közvetlenül a Brückenterrassen mellett.",
             "ro": "Chiar lângă Brückenterrassen.",
-            "en": "Right next to the Brückenterrassen."
+            "en": "Right next to the Brückenterrassen.",
+            "tr": "Brückenterrassen’in hemen yanında."
           }
         },
         {
@@ -833,7 +887,8 @@
             "de": "Schiffsbegrüßungsanlage",
             "hu": "Hajóköszöntő állomás",
             "ro": "Stația de salut a navelor",
-            "en": "Ship Welcome Point"
+            "en": "Ship Welcome Point",
+            "tr": "Gemi Karşılama Noktası"
           },
           "coords": [
             9.703,
@@ -849,7 +904,8 @@
             "de": "Einzigartiges Schiffserlebnis in Osterrönfeld.",
             "hu": "Egyedülálló hajós élmény Osterrönfeldben.",
             "ro": "Experiență navală unică în Osterrönfeld.",
-            "en": "Unique ship experience in Osterrönfeld."
+            "en": "Unique ship experience in Osterrönfeld.",
+            "tr": "Osterrönfeld’de eşsiz bir gemi deneyimi."
           }
         },
         {
@@ -857,7 +913,8 @@
             "de": "Kanaltunnel (Erlebnisfahrt)",
             "hu": "Csatorna-alagút (élményút)",
             "ro": "Tunelul Canalului (traversare)",
-            "en": "Canal Tunnel (Drive)"
+            "en": "Canal Tunnel (Drive)",
+            "tr": "Kanal Tüneli (Araç)"
           },
           "coords": [
             9.66,
@@ -873,7 +930,8 @@
             "de": "Fahrt unter dem Kanal zurück zum Ausgangspunkt.",
             "hu": "Autózás a csatorna alatt vissza a kiindulópontra.",
             "ro": "Traversare pe sub canal înapoi la punctul de plecare.",
-            "en": "Driving under the canal back to the starting point."
+            "en": "Driving under the canal back to the starting point.",
+            "tr": "Başlangıç noktasına geri dönmek için kanalı altından araçla geçin."
           }
         }
       ],
@@ -881,7 +939,8 @@
         "de": "Mit dem Auto verbinden Sie bequem die historische Altstadt mit den technischen Wundern am Nord-Ostsee-Kanal. Vormittags erkunden Sie zu Fuß den Kern mit Rathaus, Marienkirche und Jüdischem Museum. Nachmittags wechseln Sie zum Kanal-Cluster, um die gigantische Hochbrücke und die Schiffsbegrüßungsanlage zu erleben, bevor Sie durch den Kanaltunnel unter dem Wasserweg hindurchfahren.",
         "hu": "Autóval kényelmesen kombinálhatja a történelmi óvárost a Kiel-csatorna technikai csodáival. Délelőtt gyalog fedezzük fel a központot a városházával, a Mária-templommal és a Zsidó Múzeummal. Délután a csatorna-klaszterhez megyünk, hogy megnézzük a gigantikus magasvasúti hidat és a hajóköszöntő állomást, majd a csatorna-alagúton keresztül hajtunk át a víziút alatt.",
         "ro": "Cu mașina, puteți combina confortabil orașul vechi istoric cu minunile tehnice de pe Canalul Kiel. Dimineața explorați pe jos centrul, cu primăria, biserica Marienkirche și Muzeul Evreiesc. După-amiaza vă mutați la clusterul canalului pentru a vedea giganticul pod înalt și stația de salut a navelor, înainte de a trece prin tunelul de sub calea navigabilă.",
-        "en": "By car, you can comfortably combine the historic old town with the technical wonders on the Kiel Canal. In the morning, explore the center on foot with the town hall, St. Mary's Church, and the Jewish Museum. In the afternoon, switch to the canal cluster to experience the gigantic high bridge and the ship greeting station before driving through the canal tunnel under the waterway."
+        "en": "By car, you can comfortably combine the historic old town with the technical wonders on the Kiel Canal. In the morning, explore the center on foot with the town hall, St. Mary's Church, and the Jewish Museum. In the afternoon, switch to the canal cluster to experience the gigantic high bridge and the ship greeting station before driving through the canal tunnel under the waterway.",
+        "tr": "Arabayla, tarihi eski kenti ve Kiel Kanalı’ndaki teknik harikaları rahatça birleştirebilirsiniz. Sabah, belediye binası, St. Maria Kilisesi ve Yahudi Müzesi ile merkezi yürüyerek keşfedin. Öğleden sonra kanal kümesine geçerek devasa yüksek köprüyü ve gemi karşılama istasyonunu deneyimleyin, ardından su yolunun altındaki kanal tünelinden araçla geçin."
       },
       "gastro_picks": {
         "de": [
@@ -1001,6 +1060,11 @@
           "Use the parking lots at the high bridge (Kreishafen).",
           "The transporter bridge also carries cars.",
           "Watch out for the height limit in the canal tunnel."
+        ],
+        "tr": [
+          "Yüksek köprü (Kreishafen) yanındaki otoparkları kullanın.",
+          "Transporter köprü aracı da taşıyabilir.",
+          "Kanal tünelindeki yükseklik sınırına dikkat edin."
         ]
       }
     },
@@ -1017,7 +1081,8 @@
             "de": "Bahnhof Rendsburg",
             "hu": "Rendsburg vasútállomás",
             "ro": "Gara Rendsburg",
-            "en": "Rendsburg Station"
+            "en": "Rendsburg Station",
+            "tr": "Rendsburg İstasyonu"
           },
           "coords": [
             9.67,
@@ -1033,7 +1098,8 @@
             "de": "Zentraler Ankunftspunkt für Nah- und Fernverkehr.",
             "hu": "Központi érkezési pont a helyi és távolsági forgalomnak.",
             "ro": "Punct central de sosire pentru traficul local și pe distanțe lungi.",
-            "en": "Central arrival point for local and long-distance traffic."
+            "en": "Central arrival point for local and long-distance traffic.",
+            "tr": "Yerel ve uzun mesafe trafiği için merkezi varış noktası."
           }
         },
         {
@@ -1041,7 +1107,8 @@
             "de": "Altstadt (Altes Rathaus)",
             "hu": "Óváros (Régi Városháza)",
             "ro": "Centrul vechi (Primăria)",
-            "en": "Old Town (Town Hall)"
+            "en": "Old Town (Town Hall)",
+            "tr": "Eski Kent (Belediye Binası)"
           },
           "coords": [
             9.6646,
@@ -1057,7 +1124,8 @@
             "de": "Nur 5 Min. mit dem Stadtbus vom Bahnhof.",
             "hu": "Csak 5 perc városi busszal az állomástól.",
             "ro": "Doar 5 minute cu autobuzul urban de la gară.",
-            "en": "Just 5 min by city bus from the station."
+            "en": "Just 5 min by city bus from the station.",
+            "tr": "İstasyondan şehir otobüsüyle sadece 5 dakika."
           }
         },
         {
@@ -1065,7 +1133,8 @@
             "de": "Marienkirche",
             "hu": "Szent Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "St. Maria Kilisesi"
           },
           "coords": [
             9.6656,
@@ -1081,7 +1150,8 @@
             "de": "Kulturelles Highlight im Zentrum.",
             "hu": "Kulturális fénypont a központban.",
             "ro": "Punct culminant cultural în centru.",
-            "en": "Cultural highlight in the center."
+            "en": "Cultural highlight in the center.",
+            "tr": "Merkezde kültürel bir vurgu."
           }
         },
         {
@@ -1089,7 +1159,8 @@
             "de": "Rendsburger Hochbrücke",
             "hu": "Magasvasúti híd",
             "ro": "Podul înalt Rendsburg",
-            "en": "Rendsburg High Bridge"
+            "en": "Rendsburg High Bridge",
+            "tr": "Rendsburg Yüksek Köprüsü"
           },
           "coords": [
             9.683,
@@ -1105,7 +1176,8 @@
             "de": "Bus 12 oder 15 Richtung Kreishafen nehmen.",
             "hu": "A 12-es vagy 15-ös buszt válassza Kreishafen felé.",
             "ro": "Luați autobuzul 12 sau 15 spre Kreishafen.",
-            "en": "Take bus 12 or 15 towards Kreishafen."
+            "en": "Take bus 12 or 15 towards Kreishafen.",
+            "tr": "Kreishafen yönüne giden 12 veya 15 numaralı otobüse binin."
           }
         },
         {
@@ -1113,7 +1185,8 @@
             "de": "Schwebefähre & Tunnel",
             "hu": "Lebegő komp és alagút",
             "ro": "Bacul și tunelul",
-            "en": "Transporter Bridge & Tunnel"
+            "en": "Transporter Bridge & Tunnel",
+            "tr": "Transporter Köprü & Tünel"
           },
           "coords": [
             9.6835,
@@ -1129,7 +1202,8 @@
             "de": "Zu Fuß durch den Tunnel zurück zur Stadt.",
             "hu": "Gyalog az alagúton keresztül vissza a városba.",
             "ro": "Pe jos prin tunel înapoi spre oraș.",
-            "en": "On foot through the tunnel back to the city."
+            "en": "On foot through the tunnel back to the city.",
+            "tr": "Kente yürüyerek tünelden geri dönün."
           }
         },
         {
@@ -1137,7 +1211,8 @@
             "de": "Arsenal / Kulturzentrum",
             "hu": "Arsenal Kulturális Központ",
             "ro": "Centrul Cultural Arsenal",
-            "en": "Arsenal Cultural Center"
+            "en": "Arsenal Cultural Center",
+            "tr": "Arsenal Kültür Merkezi"
           },
           "coords": [
             9.663,
@@ -1153,7 +1228,8 @@
             "de": "Letzter Stopp vor der Abfahrt.",
             "hu": "Utolsó megálló az indulás előtt.",
             "ro": "Ultima oprire înainte de plecare.",
-            "en": "Last stop before departure."
+            "en": "Last stop before departure.",
+            "tr": "Ayrılmadan önce son durak."
           }
         }
       ],
@@ -1161,7 +1237,8 @@
         "de": "Rendsburg lässt sich perfekt mit Bus und Bahn erkunden. Vom Bahnhof erreichen Sie schnell die Altstadt zum Rathaus und zur Marienkirche. Ein Stadtbus bringt Sie direkt zum Wahrzeichen, der Hochbrücke. Erleben Sie die Schwebefähre und nutzen Sie den Kanaltunnel als Fußgänger, bevor es mit dem Bus zurück zum Arsenal und zum Bahnhof geht.",
         "hu": "Rendsburg tökéletesen felfedezhető busszal és vonattal. Az állomástól gyorsan elérhető az óváros a városházával és a Mária-templommal. Egy városi busz egyenesen a város jelképéhez, a magasvasúti hídhoz visz. Próbálja ki a lebegő kompot és használja a csatorna-alagutat gyalogosként, mielőtt busszal visszatérne az Arsenalhoz és az állomáshoz.",
         "ro": "Rendsburg poate fi explorat perfect cu autobuzul și trenul. De la gară ajungeți rapid în orașul vechi la primărie și biserica Marienkirche. Un autobuz urban vă duce direct la simbolul orașului, podul înalt. Experimentați bacul transbordor și folosiți tunelul pe sub canal ca pieton, înainte de a reveni cu autobuzul la Arsenal și la gară.",
-        "en": "Rendsburg can be perfectly explored by bus and train. From the station, you quickly reach the old town and the town hall. A city bus takes you directly to the landmark, the high bridge. Experience the transporter bridge ferry and use the canal tunnel as a pedestrian before taking the bus back to the Arsenal and the station."
+        "en": "Rendsburg can be perfectly explored by bus and train. From the station, you quickly reach the old town and the town hall. A city bus takes you directly to the landmark, the high bridge. Experience the transporter bridge ferry and use the canal tunnel as a pedestrian before taking the bus back to the Arsenal and the station.",
+        "tr": "Rendsburg otobüs ve trenle mükemmel şekilde keşfedilebilir. İstasyondan eski kent ve belediye binasına hızlıca ulaşırsınız. Bir şehir otobüsü sizi simge yapı olan yüksek köprüye doğrudan götürür. Transporter köprü feribotunu deneyimleyin ve yaya olarak kanal tünelini kullanın, ardından Arsenal ve istasyona geri dönmek için otobüse binin."
       },
       "gastro_picks": {
         "de": [
@@ -1269,6 +1346,11 @@
           "The SH-Card offers discounts on museums.",
           "The NAH.SH app shows real-time departures.",
           "A day ticket is often cheaper than single trips."
+        ],
+        "tr": [
+          "SH-Card müzelerde indirimler sunar.",
+          "NAH.SH uygulaması gerçek zamanlı kalkışları gösterir.",
+          "Günlük bilet genellikle tekli yolculuklardan daha ucuzdur."
         ]
       }
     }

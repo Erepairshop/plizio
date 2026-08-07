@@ -3,55 +3,64 @@
     "de": "Englische Planke 1, 20459 Hamburg",
     "hu": "Englische Planke 1, 20459 Hamburg",
     "ro": "Englische Planke 1, 20459 Hamburg",
-    "en": "Englische Planke 1, 20459 Hamburg"
+    "en": "Englische Planke 1, 20459 Hamburg",
+    "tr": "Englische Planke 1, 20459 Hamburg"
   },
   "openingHours": {
     "de": "Mo-Su 09:00-19:30",
     "hu": "H-V 09:00-19:30",
     "ro": "Lu-Du 09:00-19:30",
-    "en": "Mon-Sun 09:00-19:30"
+    "en": "Mon-Sun 09:00-19:30",
+    "tr": "Pzt-Paz 09:00-19:30"
   },
   "entranceFee": {
     "de": "Kirche frei, Turm € 6,00, Kombi € 8,00",
     "hu": "Templom ingyenes, torony 6,00 €, kombinált jegy 8,00 €",
     "ro": "Biserica gratuit, turnul 6,00 €, bilet combinat 8,00 €",
-    "en": "Church free, tower € 6.00, combined ticket € 8.00"
+    "en": "Church free, tower € 6.00, combined ticket € 8.00",
+    "tr": "Kilise ücretsiz, kule €6,00, kombine bilet €8,00"
   },
   "website": "https://www.st-michaelis.de",
   "publicTransport": {
     "de": "S-Bahn S1, S3 bis Stadthausbrücke oder U3 Rödingsmarkt",
     "hu": "S1, S3 S-Bahn Stadthausbrücke-ig vagy U3 metró Rödingsmarkt-ig",
     "ro": "S-Bahn S1, S3 până la Stadthausbrücke sau metrou U3 Rödingsmarkt",
-    "en": "S-Bahn S1, S3 to Stadthausbrücke or U3 Rödingsmarkt"
+    "en": "S-Bahn S1, S3 to Stadthausbrücke or U3 Rödingsmarkt",
+    "tr": "S-Bahn S1, S3 ile Stadthausbrücke veya U3 Rödingsmarkt"
   },
   "parking": {
     "de": "Parkhaus Michel-Garage direkt unter dem Kirchplatz, ca. 3,00 €/Std.",
     "hu": "Michel-Garage parkolóház közvetlenül a templom tér alatt, kb. 3,00 €/óra.",
     "ro": "Parcare Michel-Garage chiar sub piața bisericii, cca. 3,00 €/oră.",
-    "en": "Michel-Garage parking directly under the church square, approx. € 3.00/hr."
+    "en": "Michel-Garage parking directly under the church square, approx. € 3.00/hr.",
+    "tr": "Michel-Garage kilise meydanının hemen altında, yaklaşık €3,00/saat."
   },
   "accessibility": {
     "de": "Kirchenschiff barrierefrei, Turm und Krypta über Fahrstuhl erreichbar.",
     "hu": "A templomhajó akadálymentes, a torony és a kripta lifttel elérhető.",
     "ro": "Interiorul bisericii este accesibil, turnul și cripta sunt accesibile prin lift.",
-    "en": "Nave is accessible, tower and crypt reachable via elevator."
+    "en": "Nave is accessible, tower and crypt reachable via elevator.",
+    "tr": "Nef erişilebilir, kule ve kripta asansörle ulaşılabilir."
   },
   "photoRules": {
     "de": "Erlaubt, außer bei Gottesdiensten und Konzerten.",
     "hu": "Engedélyezett, kivéve az istentiszteletek és koncertek alatt.",
     "ro": "Permis, cu excepția slujbelor și concertelor.",
-    "en": "Allowed, except during services and concerts."
+    "en": "Allowed, except during services and concerts.",
+    "tr": "İzinli, ayinler ve konserler sırasında hariç."
   },
   "bestTimeToVisit": {
     "de": "Zum Turmblasen täglich um 10:00 und 21:00 Uhr.",
     "hu": "A toronykürt-szó idején, naponta 10:00-kor és 21:00-kor.",
     "ro": "Pentru spectacolul trompetistului, zilnic la 10:00 și 21:00.",
-    "en": "For the tower trumpeter performance, daily at 10:00 AM and 9:00 PM."
+    "en": "For the tower trumpeter performance, daily at 10:00 AM and 9:00 PM.",
+    "tr": "Kule trompetçisinin performansı için, her gün 10:00 ve 21:00."
   },
   "audioGuide": {
     "de": "ja",
     "hu": "igen",
     "ro": "da",
-    "en": "yes"
+    "en": "yes",
+    "tr": "evet"
   }
 }

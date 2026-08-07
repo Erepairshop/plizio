@@ -21,7 +21,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             8.694,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die historischen Fachwerkhäuser rund um den Platz.",
             "hu": "Csodálja meg a teret övező történelmi fagerendás házakat.",
             "ro": "Admirați casele istorice cu grinzi de lemn din jurul pieței.",
-            "en": "Admire the historic half-timbered houses around the square."
+            "en": "Admire the historic half-timbered houses around the square.",
+            "tr": "Meydan çevresindeki tarihi yarı ahşap evlere hayran kalın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stadtmuseum Haus zum Löwen",
             "hu": "Városi Múzeum - Oroszlán-ház",
             "ro": "Muzeul Orașului Haus zum Löwen",
-            "en": "City Museum Haus zum Löwen"
+            "en": "City Museum Haus zum Löwen",
+            "tr": "Haus zum Löwen Şehir Müzesi"
           },
           "coords": [
             8.695,
@@ -59,7 +62,8 @@
             "de": "Erfahren Sie mehr über die hugenottische Geschichte der Stadt.",
             "hu": "Ismerje meg a város hugenotta múltját ebben a patinás épületben.",
             "ro": "Aflați mai multe despre istoria hughenoților din oraș.",
-            "en": "Learn about the Huguenot history of the town in this historic building."
+            "en": "Learn about the Huguenot history of the town in this historic building.",
+            "tr": "Bu tarihi binada kasabanın Protestan göçmen (Huguenot) tarihini öğrenin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Frankfurter Straße",
             "hu": "Frankfurti utca",
             "ro": "Strada Frankfurt",
-            "en": "Frankfurter Street"
+            "en": "Frankfurter Street",
+            "tr": "Frankfurter Caddesi"
           },
           "coords": [
             8.697,
@@ -82,7 +87,8 @@
             "de": "Perfekt für einen kleinen Schaufensterbummel am Vormittag.",
             "hu": "Tökéletes helyszín egy délelőtti kirakatnézegetéshez.",
             "ro": "Perfect pentru o plimbare relaxantă printre magazine.",
-            "en": "Perfect for a morning window shopping session."
+            "en": "Perfect for a morning window shopping session.",
+            "tr": "Sabah pencere alışverişi için ideal."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the center"
+            "en": "Lunch in the center",
+            "tr": "Merkezde Öğle Yemeği"
           },
           "coords": [
             8.698,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie Frankfurter Grüne Soße in einem lokalen Gasthaus.",
             "hu": "Kóstolja meg a frankfurti zöldmártást egy helyi vendéglőben.",
             "ro": "Încercați sosul verde de Frankfurt într-un restaurant local.",
-            "en": "Try Frankfurter Green Sauce in a local inn."
+            "en": "Try Frankfurter Green Sauce in a local inn.",
+            "tr": "Yerel bir handa Frankfurter Yeşil Sosu deneyin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Hugenottenhalle",
             "hu": "Hugenotta Csarnok",
             "ro": "Sala Hughenoților",
-            "en": "Huguenot Hall"
+            "en": "Huguenot Hall",
+            "tr": "Huguenot Salonu"
           },
           "coords": [
             8.7,
@@ -128,7 +137,8 @@
             "de": "Das kulturelle Herz der Stadt mit modernem Veranstaltungsprogramm.",
             "hu": "A város kulturális szíve, modern rendezvényprogrammal.",
             "ro": "Inima culturală a orașului, cu un program modern de evenimente.",
-            "en": "The cultural heart of the city with a modern event program."
+            "en": "The cultural heart of the city with a modern event program.",
+            "tr": "Modern etkinlik programına sahip şehrin kültürel kalbi."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Bansapark",
             "hu": "Bansapark",
             "ro": "Parcul Bansa",
-            "en": "Bansapark"
+            "en": "Bansapark",
+            "tr": "Bansapark"
           },
           "coords": [
             8.705,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie die Ruhe unter den alten Bäumen des Parks.",
             "hu": "Élvezze a nyugalmat a park öreg fái alatt.",
             "ro": "Bucurați-vă de liniște sub copacii bătrâni ai parcului.",
-            "en": "Enjoy the peace under the old trees of the park."
+            "en": "Enjoy the peace under the old trees of the park.",
+            "tr": "Parkın eski ağaçlarının gölgesinde huzurun tadını çıkarın."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Alter Friedhof",
             "hu": "Régi Temető",
             "ro": "Cimitirul Vechi",
-            "en": "Old Cemetery"
+            "en": "Old Cemetery",
+            "tr": "Eski Mezarlık"
           },
           "coords": [
             8.702,
@@ -174,7 +187,8 @@
             "de": "Ein Ort der Stille mit historisch bedeutenden Grabmälern.",
             "hu": "A csend helyszíne történelmileg jelentős síremlékekkel.",
             "ro": "Un loc al liniștii cu monumente funerare importante istoric.",
-            "en": "A place of silence with historically significant monuments."
+            "en": "A place of silence with historically significant monuments.",
+            "tr": "Tarihi açıdan önemli anıtlarla dolu sessiz bir mekân."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag beginnt im historischen Kern von Neu-Isenburg. Nach einem Besuch im Stadtmuseum schlendern Sie durch die Frankfurter Straße. Nach einem deftigen hessischen Mittagessen besuchen Sie die Hugenottenhalle und lassen den Nachmittag entspannt im Bansapark und auf dem Alten Friedhof ausklingen, der fast wie ein Skulpturengarten wirkt.",
         "hu": "A napot Neu-Isenburg történelmi magjában kezdi. A városi múzeum után a Frankfurter Straße üzletei között sétálhat. Egy bőséges hesseni ebéd után meglátogatja a Hugenotta Csarnokot, majd a délutánt a Bansapark nyugalmában és a Régi Temető történelmi emlékei között zárja, amely szinte szoborparkként funkcionál.",
         "ro": "Ziua începe în nucleul istoric al orașului Neu-Isenburg. După o vizită la muzeul orașului, vă plimbați pe Frankfurter Straße. După un prânz hessian consistent, vizitați Sala Hughenoților și încheiați după-amiaza relaxat în Bansapark și în Cimitirul Vechi, care arată aproape ca o grădină de sculpturi.",
-        "en": "Your day starts in the historic core of Neu-Isenburg. After visiting the city museum, stroll through Frankfurter Straße. Following a hearty Hessian lunch, visit the Huguenot Hall and spend a relaxed afternoon in Bansapark and the Old Cemetery, which feels almost like a sculpture garden with its historic monuments."
+        "en": "Your day starts in the historic core of Neu-Isenburg. After visiting the city museum, stroll through Frankfurter Straße. Following a hearty Hessian lunch, visit the Huguenot Hall and spend a relaxed afternoon in Bansapark and the Old Cemetery, which feels almost like a sculpture garden with its historic monuments.",
+        "tr": "Gününüze Neu-Isenburg'un tarihi çekirdeğinde başlayın. Şehir müzesini ziyaret ettikten sonra Frankfurter Straße'de gezin. Doyurucu bir Hessen öğle yemeğinin ardından Huguenot Salonu'nu ziyaret edin ve Bansapark ile Eski Mezarlık'ta rahat bir öğleden sonra geçirin; Eski Mezarlık tarihî anıtlarıyla neredeyse bir heykel bahçesini andırır."
       },
       "gastro_picks": {
         "de": [
@@ -290,6 +305,12 @@
           "Look out for the information boards about Huguenot history.",
           "Visit the market square preferably on a market day.",
           "Combine your city stroll with a coffee break on Frankfurter Straße."
+        ],
+        "tr": [
+          "Şehir merkezi düzdür ve yürüyerek keşfetmesi çok kolaydır.",
+          "Huguenot tarihine dair bilgi panolarına dikkat edin.",
+          "Tercihen pazar günlerinden birinde pazar meydanını ziyaret edin.",
+          "Şehir yürüyüşünüzü Frankfurter Straße'de bir kahve molası ile birleştirin."
         ]
       }
     },
@@ -306,7 +327,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             8.694,
@@ -321,7 +343,8 @@
             "de": "Startpunkt im historischen Zentrum.",
             "hu": "Kiindulópont a történelmi központban.",
             "ro": "Punct de plecare în centrul istoric.",
-            "en": "Starting point in the historic center."
+            "en": "Starting point in the historic center.",
+            "tr": "Tarihi merkezdeki başlangıç noktası."
           }
         },
         {
@@ -329,7 +352,8 @@
             "de": "Stadtmuseum Haus zum Löwen",
             "hu": "Városi Múzeum",
             "ro": "Muzeul Orașului",
-            "en": "City Museum"
+            "en": "City Museum",
+            "tr": "Şehir Müzesi"
           },
           "coords": [
             8.695,
@@ -344,7 +368,8 @@
             "de": "Fahrradständer direkt vor dem Museum vorhanden.",
             "hu": "Kerékpártároló közvetlenül a múzeum előtt.",
             "ro": "Suporturi de biciclete direct în fața muzeului.",
-            "en": "Bike racks available directly in front of the museum."
+            "en": "Bike racks available directly in front of the museum.",
+            "tr": "Müzenin hemen önünde bisiklet park yerleri mevcut."
           }
         },
         {
@@ -352,7 +377,8 @@
             "de": "Alter Friedhof",
             "hu": "Régi Temető",
             "ro": "Cimitirul Vechi",
-            "en": "Old Cemetery"
+            "en": "Old Cemetery",
+            "tr": "Eski Mezarlık"
           },
           "coords": [
             8.702,
@@ -367,7 +393,8 @@
             "de": "Ruhige Fahrt durch die südlichen Wohnviertel.",
             "hu": "Csendes tekerés a déli lakónegyedeken keresztül.",
             "ro": "O plimbare liniștită prin cartierele rezidențiale sudice.",
-            "en": "Quiet ride through the southern residential areas."
+            "en": "Quiet ride through the southern residential areas.",
+            "tr": "Güney yerleşim bölgelerinde sakin bir sürüş."
           }
         },
         {
@@ -375,7 +402,8 @@
             "de": "Gehspitzweiher",
             "hu": "Gehspitz-tó",
             "ro": "Lacul Gehspitzweiher",
-            "en": "Gehspitzweiher"
+            "en": "Gehspitzweiher",
+            "tr": "Gehspitzweiher"
           },
           "coords": [
             8.675,
@@ -390,7 +418,8 @@
             "de": "Wunderschönes Naturschutzgebiet, ideal für eine Picknickpause.",
             "hu": "Gyönyörű természetvédelmi terület, ideális egy piknikhez.",
             "ro": "Rezervație naturală minunată, ideală pentru o pauză de picnic.",
-            "en": "Beautiful nature reserve, ideal for a picnic break."
+            "en": "Beautiful nature reserve, ideal for a picnic break.",
+            "tr": "Piknik molası için ideal güzel bir doğa koruma alanı."
           }
         },
         {
@@ -398,7 +427,8 @@
             "de": "Spätes Mittagessen",
             "hu": "Kései ebéd",
             "ro": "Prânz târziu",
-            "en": "Late lunch"
+            "en": "Late lunch",
+            "tr": "Geç öğle yemeği"
           },
           "coords": [
             8.69,
@@ -413,7 +443,8 @@
             "de": "Stärken Sie sich nach der Tour im Grünen.",
             "hu": "Frissüljön fel a zöldben tett túra után.",
             "ro": "Reîncărcați-vă bateriile după turul în natură.",
-            "en": "Refuel after the nature tour."
+            "en": "Refuel after the nature tour.",
+            "tr": "Doğa turunun ardından enerji depolayın."
           }
         },
         {
@@ -421,7 +452,8 @@
             "de": "Frankfurter Straße",
             "hu": "Frankfurti utca",
             "ro": "Strada Frankfurt",
-            "en": "Frankfurter Street"
+            "en": "Frankfurter Street",
+            "tr": "Frankfurter Caddesi"
           },
           "coords": [
             8.697,
@@ -436,7 +468,8 @@
             "de": "Kurzer Stopp zum Abschluss im belebten Zentrum.",
             "hu": "Rövid pihenő a nap végén a pezsgő központban.",
             "ro": "Scurtă oprire la final în centrul animat.",
-            "en": "Short final stop in the lively center."
+            "en": "Short final stop in the lively center.",
+            "tr": "Hareketli merkezde kısa bir son durak."
           }
         }
       ],
@@ -444,7 +477,8 @@
         "de": "Mit dem Fahrrad erkunden Sie nicht nur das Zentrum, sondern auch die grüne Umgebung. Nach den historischen Highlights im Kern radeln Sie zum Gehspitzweiher, einem idyllischen Naturschutzgebiet im Südwesten. Die Wege sind flach und führen durch angenehme Wald- und Siedlungsgebiete, ideal für einen aktiven Tag in der Natur.",
         "hu": "Kerékpárral nemcsak a központot, hanem a zöld környezetet is felfedezheti. A történelmi látnivalók után a délnyugati Gehspitz-tóhoz tekerhet, amely egy idilli természetvédelmi terület. Az utak síkak, kellemes erdei és lakóövezeteken vezetnek keresztül, tökéletes helyszín egy aktív naphoz.",
         "ro": "Cu bicicleta explorați nu doar centrul, ci și împrejurimile verzi. După punctele istorice din centru, pedalați spre Gehspitzweiher, o rezervație naturală idilică în sud-vest. Traseele sunt plate și trec prin zone plăcute de pădure și așezări, ideale pentru o zi activă în natură.",
-        "en": "By bike, you explore not only the center but also the green surroundings. After the historic highlights in the core, cycle to Gehspitzweiher, an idyllic nature reserve in the southwest. The paths are flat and lead through pleasant forest and residential areas, ideal for an active day in nature."
+        "en": "By bike, you explore not only the center but also the green surroundings. After the historic highlights in the core, cycle to Gehspitzweiher, an idyllic nature reserve in the southwest. The paths are flat and lead through pleasant forest and residential areas, ideal for an active day in nature.",
+        "tr": "Bisikletle sadece merkezi değil, çevresindeki yeşil alanları da keşfedersiniz. Merkezdeki tarihi noktaların ardından güneybatıda yer alan sakin doğa koruma alanı Gehspitzweiher'e pedal çevirin. Yollar düz, hoş orman ve yerleşim alanlarından geçiyor; doğada aktif bir gün için ideal."
       },
       "gastro_picks": {
         "de": [
@@ -552,6 +586,12 @@
           "Take binoculars for the Gehspitzweiher.",
           "Many one-way streets in the city are open for cyclists.",
           "A detour into the Frankfurt City Forest is possible at any time."
+        ],
+        "tr": [
+          "Neu-Isenburg çevresindeki orman patikaları iyi bakımlıdır.",
+          "Gehspitzweiher için dürbün alın.",
+          "Şehirdeki birçok tek yönlü cadde bisikletlilere açıktır.",
+          "Frankfurt Şehir Ormanı'na kısa bir sapma her zaman mümkündür."
         ]
       }
     },
@@ -568,7 +608,8 @@
             "de": "Marktplatz (Parken)",
             "hu": "Piactér (Parkolás)",
             "ro": "Piața Centrală (Parcare)",
-            "en": "Market Square (Parking)"
+            "en": "Market Square (Parking)",
+            "tr": "Pazar Meydanı (Park)"
           },
           "coords": [
             8.694,
@@ -583,7 +624,8 @@
             "de": "Parken Sie im Parkhaus im Isenburg-Zentrum.",
             "hu": "Parkoljon az Isenburg-Zentrum parkolóházában.",
             "ro": "Parcați în parcarea centrului Isenburg.",
-            "en": "Park in the Isenburg-Zentrum parking garage."
+            "en": "Park in the Isenburg-Zentrum parking garage.",
+            "tr": "Isenburg-Zentrum otoparkına park edin."
           }
         },
         {
@@ -591,7 +633,8 @@
             "de": "Stadtmuseum Haus zum Löwen",
             "hu": "Városi Múzeum",
             "ro": "Muzeul Orașului",
-            "en": "City Museum"
+            "en": "City Museum",
+            "tr": "Şehir Müzesi"
           },
           "coords": [
             8.695,
@@ -606,7 +649,8 @@
             "de": "Zu Fuß vom Marktplatz erreichbar (Cluster 1).",
             "hu": "Gyalogosan elérhető a Piactérről (1. klaszter).",
             "ro": "Accesibil pe jos din Piața Centrală (Cluster 1).",
-            "en": "Accessible on foot from the Market Square (Cluster 1)."
+            "en": "Accessible on foot from the Market Square (Cluster 1).",
+            "tr": "Pazar Meydanı'ndan yürüyerek ulaşılabilir (Küme 1)."
           }
         },
         {
@@ -614,7 +658,8 @@
             "de": "Frankfurter Straße",
             "hu": "Frankfurti utca",
             "ro": "Strada Frankfurt",
-            "en": "Frankfurter Street"
+            "en": "Frankfurter Street",
+            "tr": "Frankfurter Caddesi"
           },
           "coords": [
             8.697,
@@ -629,7 +674,8 @@
             "de": "Hauptgeschäftsstraße im Zentrum.",
             "hu": "A város fő bevásárlóutcája.",
             "ro": "Principala stradă comercială din centru.",
-            "en": "Main shopping street in the center."
+            "en": "Main shopping street in the center.",
+            "tr": "Merkezdeki ana alışveriş caddesi."
           }
         },
         {
@@ -637,7 +683,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "tr": "Öğle yemeği"
           },
           "coords": [
             8.698,
@@ -652,7 +699,8 @@
             "de": "Viele Restaurants in unmittelbarer Nähe.",
             "hu": "Számos étterem a közvetlen közelben.",
             "ro": "Multe restaurante în imediata apropiere.",
-            "en": "Many restaurants in the immediate vicinity."
+            "en": "Many restaurants in the immediate vicinity.",
+            "tr": "Yakında birçok restoran bulunuyor."
           }
         },
         {
@@ -660,7 +708,8 @@
             "de": "Gehspitzweiher",
             "hu": "Gehspitz-tó",
             "ro": "Lacul Gehspitzweiher",
-            "en": "Gehspitzweiher"
+            "en": "Gehspitzweiher",
+            "tr": "Gehspitzweiher"
           },
           "coords": [
             8.675,
@@ -675,7 +724,8 @@
             "de": "Kostenfreier Parkplatz am Waldrand (Cluster 2).",
             "hu": "Ingyenes parkoló az erdő szélén (2. klaszter).",
             "ro": "Parcare gratuită la marginea pădurii (Cluster 2).",
-            "en": "Free parking at the edge of the forest (Cluster 2)."
+            "en": "Free parking at the edge of the forest (Cluster 2).",
+            "tr": "Orman kenarında ücretsiz park yeri (Küme 2)."
           }
         },
         {
@@ -683,7 +733,8 @@
             "de": "Zeppelin-Museum Zeppelinheim",
             "hu": "Zeppelin Múzeum Zeppelinheim",
             "ro": "Muzeul Zeppelin Zeppelinheim",
-            "en": "Zeppelin Museum Zeppelinheim"
+            "en": "Zeppelin Museum Zeppelinheim",
+            "tr": "Zeppelin Müzesi Zeppelinheim"
           },
           "coords": [
             8.625,
@@ -698,7 +749,8 @@
             "de": "Einzigartige Sammlung zur Geschichte der Luftschifffahrt (Cluster 3).",
             "hu": "Egyedülálló gyűjtemény a léghajózás történetéről (3. klaszter).",
             "ro": "Colecție unică despre istoria dirijabilelor (Cluster 3).",
-            "en": "Unique collection on the history of airship travel (Cluster 3)."
+            "en": "Unique collection on the history of airship travel (Cluster 3).",
+            "tr": "Hava gemisi seyahat tarihine dair benzersiz koleksiyon (Küme 3)."
           }
         }
       ],
@@ -706,7 +758,8 @@
         "de": "Mit dem Auto verbinden Sie den charmanten Stadtkern mit den spannenden Außenbezirken. Nach einem Vormittag in der Altstadt fahren Sie zum idyllischen Gehspitzweiher. Das absolute Highlight wartet zum Abschluss im Stadtteil Zeppelinheim: Das Zeppelin-Museum zeigt die faszinierende Ära der riesigen Luftschiffe, die einst ganz in der Nähe starteten.",
         "hu": "Autóval könnyedén összekötheti a hangulatos városközpontot az izgalmas külső negyedekkel. Az óvárosi délelőtt után a Gehspitz-tóhoz utazhat. A nap fénypontja a Zeppelinheim negyedben várja: a Zeppelin Múzeum a hatalmas léghajók korszakát mutatja be, amelyek egykor a közelben szálltak fel.",
         "ro": "Cu mașina, combinați centrul fermecător cu districtele exterioare captivante. După o dimineață în centrul vechi, conduceți spre idilicul Gehspitzweiher. Punctul culminant vă așteaptă la final în cartierul Zeppelinheim: Muzeul Zeppelin prezintă era fascinantă a dirijabilelor uriașe care decolau odinioară în apropiere.",
-        "en": "By car, you can combine the charming city center with the exciting outer districts. After a morning in the old town, drive to the idyllic Gehspitzweiher. The absolute highlight awaits at the end in the Zeppelinheim district: the Zeppelin Museum showcases the fascinating era of giant airships that once took off nearby."
+        "en": "By car, you can combine the charming city center with the exciting outer districts. After a morning in the old town, drive to the idyllic Gehspitzweiher. The absolute highlight awaits at the end in the Zeppelinheim district: the Zeppelin Museum showcases the fascinating era of giant airships that once took off nearby.",
+        "tr": "Arabayla, şirin şehir merkezini heyecan verici dış semtlerle birleştirebilirsiniz. Eski şehirde sabahın ardından huzurlu Gehspitzweiher'e gidin. Günün mutlak sürprizi uçakta: Zeppelinheim semtinde yer alan Zeppelin Müzesi, bir zamanlar yakında kalkan dev zeplinlerin büyüleyici dönemini sergiler."
       },
       "gastro_picks": {
         "de": [
@@ -814,6 +867,12 @@
           "The route to Zeppelinheim leads through the city forest.",
           "The Zeppelin Museum has its own visitor parking spaces.",
           "Watch out for speed cameras on Frankfurter Straße."
+        ],
+        "tr": [
+          "Merkezdeki otopark makul fiyatlar sunuyor.",
+          "Zeppelinheim'e giden rota şehir ormanından geçer.",
+          "Zeppelin Müzesi'nin kendi ziyaretçi park yerleri var.",
+          "Frankfurter Straße'de hız kameralarına dikkat edin."
         ]
       }
     },
@@ -830,7 +889,8 @@
             "de": "Hugenottenhalle",
             "hu": "Hugenotta Csarnok",
             "ro": "Sala Hughenoților",
-            "en": "Huguenot Hall"
+            "en": "Huguenot Hall",
+            "tr": "Huguenot Salonu"
           },
           "coords": [
             8.7,
@@ -845,7 +905,8 @@
             "de": "Zentrale Bushaltestelle 'Hugenottenhalle' direkt vor der Tür.",
             "hu": "Központi buszmegálló közvetlenül az épület előtt.",
             "ro": "Stație de autobuz centrală chiar în față.",
-            "en": "Central bus stop right in front of the building."
+            "en": "Central bus stop right in front of the building.",
+            "tr": "Binanın hemen önünde merkezi otobüs durağı var."
           }
         },
         {
@@ -853,7 +914,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             8.694,
@@ -868,7 +930,8 @@
             "de": "Kurzer Fußweg vom Kulturzentrum ins historische Herz (Cluster 1).",
             "hu": "Rövid séta a kulturális központból a történelmi magba (1. klaszter).",
             "ro": "Scurtă plimbare din centrul cultural în inima istorică (Cluster 1).",
-            "en": "Short walk from the cultural center to the historic heart (Cluster 1)."
+            "en": "Short walk from the cultural center to the historic heart (Cluster 1).",
+            "tr": "Kültür merkezinden tarihi merkeze kısa yürüyüş (Küme 1)."
           }
         },
         {
@@ -876,7 +939,8 @@
             "de": "Stadtmuseum Haus zum Löwen",
             "hu": "Városi Múzeum",
             "ro": "Muzeul Orașului",
-            "en": "City Museum"
+            "en": "City Museum",
+            "tr": "Şehir Müzesi"
           },
           "coords": [
             8.695,
@@ -891,7 +955,8 @@
             "de": "Eintritt oft kostenfrei oder sehr günstig.",
             "hu": "A belépés gyakran ingyenes vagy nagyon kedvező.",
             "ro": "Intrarea este adesea gratuită sau foarte ieftină.",
-            "en": "Entrance is often free or very inexpensive."
+            "en": "Entrance is often free or very inexpensive.",
+            "tr": "Giriş sıklıkla ücretsiz veya çok ucuzdur."
           }
         },
         {
@@ -899,7 +964,8 @@
             "de": "Zeppelin-Museum Zeppelinheim",
             "hu": "Zeppelin Múzeum Zeppelinheim",
             "ro": "Muzeul Zeppelin Zeppelinheim",
-            "en": "Zeppelin Museum Zeppelinheim"
+            "en": "Zeppelin Museum Zeppelinheim",
+            "tr": "Zeppelin Müzesi Zeppelinheim"
           },
           "coords": [
             8.625,
@@ -914,7 +980,8 @@
             "de": "Mit dem Bus oder der S-Bahn S7 (Cluster 2).",
             "hu": "Busszal vagy az S7-es S-Bahn-nal elérhető (2. klaszter).",
             "ro": "Accesibil cu autobuzul sau trenul urban S7 (Cluster 2).",
-            "en": "Accessible by bus or the S7 S-Bahn (Cluster 2)."
+            "en": "Accessible by bus or the S7 S-Bahn (Cluster 2).",
+            "tr": "Otobüs veya S7 S-Bahn ile ulaşılabilir (Küme 2)."
           }
         },
         {
@@ -922,7 +989,8 @@
             "de": "Frankfurter Straße",
             "hu": "Frankfurti utca",
             "ro": "Strada Frankfurt",
-            "en": "Frankfurter Street"
+            "en": "Frankfurter Street",
+            "tr": "Frankfurter Caddesi"
           },
           "coords": [
             8.697,
@@ -937,7 +1005,8 @@
             "de": "Rückkehr ins Zentrum für Einkäufe und Kaffee.",
             "hu": "Visszatérés a központba vásárláshoz és kávézáshoz.",
             "ro": "Revenire în centru pentru cumpărături și cafea.",
-            "en": "Return to the center for shopping and coffee."
+            "en": "Return to the center for shopping and coffee.",
+            "tr": "Alışveriş ve kahve için merkeze dönüş."
           }
         }
       ],
@@ -945,7 +1014,8 @@
         "de": "Nutzen Sie das dichte Busnetz und die S-Bahn, um Neu-Isenburg stressfrei zu erleben. Nach dem Kultur- und Geschichtsprogramm im Zentrum bringt Sie die S-Bahn direkt zum Zeppelin-Museum. Der Tag endet wieder in der Frankfurter Straße, wo Sie bequem alle Einkäufe erledigen können, bevor es mit dem Bus zurückgeht.",
         "hu": "Használja ki a sűrű buszhálózatot és az S-Bahn-t Neu-Isenburg felfedezéséhez. A központi kulturális és történelmi program után az S-Bahn repíti a Zeppelin Múzeumhoz. A nap ismét a Frankfurter Straßén zárul, ahol kényelmesen elintézheti a bevásárlást, mielőtt busszal indulna tovább.",
         "ro": "Profită de rețeaua densă de autobuze și de trenul urban pentru a experimenta Neu-Isenburg fără stres. După programul cultural și istoric din centru, trenul S-Bahn vă duce direct la Muzeul Zeppelin. Ziua se încheie din nou pe Frankfurter Straße, unde puteți face cumpărături înainte de a pleca cu autobuzul.",
-        "en": "Take advantage of the dense bus network and the S-Bahn to experience Neu-Isenburg stress-free. After the cultural and historical program in the center, the S-Bahn takes you directly to the Zeppelin Museum. The day ends back on Frankfurter Straße, where you can conveniently do all your shopping before heading back by bus."
+        "en": "Take advantage of the dense bus network and the S-Bahn to experience Neu-Isenburg stress-free. After the cultural and historical program in the center, the S-Bahn takes you directly to the Zeppelin Museum. The day ends back on Frankfurter Straße, where you can conveniently do all your shopping before heading back by bus.",
+        "tr": "Neu-Isenburg'u stres yaşamadan deneyimlemek için yoğun otobüs ağı ve S-Bahn'dan faydalanın. Merkezdeki kültürel ve tarihi programın ardından S-Bahn sizi doğrudan Zeppelin Müzesi'ne götürür. Gün, alışverişinizi rahatça yapabileceğiniz Frankfurter Straße'de sona erer; dönüş için otobüse kolayca binebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1053,6 +1123,12 @@
           "The 'Zeppelinheim' S-Bahn station is about a 10-minute walk from the museum.",
           "Use the RMV app for real-time information.",
           "Buses in the center run at very short intervals."
+        ],
+        "tr": [
+          "RMV bölgesi için günlük bilet genellikle iki yolculuktan sonra kârlıdır.",
+          "'Zeppelinheim' S-Bahn istasyonu müzeye yaklaşık 10 dakikalık yürüme mesafesindedir.",
+          "Gerçek zamanlı bilgi için RMV uygulamasını kullanın.",
+          "Merkezdeki otobüsler çok kısa aralıklarla çalışır."
         ]
       }
     }

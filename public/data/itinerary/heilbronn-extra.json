@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die astronomische Kunstuhr aus dem 16. Jahrhundert.",
             "hu": "Csodáld meg a 16. századi csillagászati műórát a homlokzaton.",
             "ro": "Admirați ceasul astronomic de artă din secolul al XVI-lea.",
-            "en": "Admire the 16th-century astronomical clock on the facade."
+            "en": "Admire the 16th-century astronomical clock on the facade.",
+            "tr": "Cephedeki 16. yüzyıl astronomik saate hayran kalın."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Der Westturm gilt als bedeutendes Renaissance-Bauwerk nördlich der Alpen.",
             "hu": "A nyugati torony az Alpoktól északra fekvő reneszánsz építészet remekműve.",
             "ro": "Turnul de vest este o lucrare importantă a Renașterii la nord de Alpi.",
-            "en": "The west tower is a major Renaissance structure north of the Alps."
+            "en": "The west tower is a major Renaissance structure north of the Alps.",
+            "tr": "Batı kulesi, Alp’lerin kuzeyindeki büyük bir Rönesans yapısıdır."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Ehemalige Hauskommende des Deutschen Ordens mit Stadtmuseum.",
             "hu": "A Német Lovagrend egykori székhelye, ma városi múzeum.",
             "ro": "Fosta comandă a Ordinului Teuton, acum muzeu municipal.",
-            "en": "Former commandery of the Teutonic Order, now a city museum."
+            "en": "Former commandery of the Teutonic Order, now a city museum.",
+            "tr": "Eskiden Şövalyeler Tarikatı komutanlığı olan, şimdi şehir müzesi."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Historischer Wehrturm, benannt nach Götz von Berlichingen.",
             "hu": "Történelmi védműtorony, mely Götz von Berlichingenről kapta nevét.",
             "ro": "Turn de apărare istoric, numit după Götz von Berlichingen.",
-            "en": "Historic defense tower named after Götz von Berlichingen."
+            "en": "Historic defense tower named after Götz von Berlichingen.",
+            "tr": "Götz von Berlichingen adıyla anılan tarihi savunma kulesi."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Lebendige Uferpromenade mit vielen Cafés direkt am Neckar.",
             "hu": "Élettel teli vízparti sétány kávézókkal a Neckar mentén.",
             "ro": "Promenadă plină de viață cu multe cafenele direct pe Neckar.",
-            "en": "Lively waterfront promenade with many cafés directly on the Neckar."
+            "en": "Lively waterfront promenade with many cafés directly on the Neckar.",
+            "tr": "Neckar boyunca birçok kafe ile canlı sahil yürüyüş yolu."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Deutschlands größtes Science Center in spektakulärer Architektur.",
             "hu": "Németország legnagyobb interaktív tudományos központja.",
             "ro": "Cel mai mare centru de știință din Germania într-o arhitectură spectaculoasă.",
-            "en": "Germany's largest science center in spectacular architecture."
+            "en": "Germany's largest science center in spectacular architecture.",
+            "tr": "Gösterişli mimaride Almanya’nın en büyük bilim merkezi."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Ihr Tag beginnt am Marktplatz mit dem prächtigen Rathaus und der Kilianskirche. Danach tauchen Sie im Deutschhof in die Geschichte des Deutschen Ordens ein. Nach einem kurzen Stopp am Götzenturm genießen Sie die Atmosphäre an der Neckarmeile, bevor Sie den Nachmittag in der faszinierenden Welt der Experimenta ausklingen lassen.",
         "hu": "A napot a főtéren kezdjük a pompás városházával és a Kilián-templommal. Ezután a Deutschhof falai között ismerkedünk meg a Német Lovagrend történetével. A Götzenturm érintése után a Neckar-parti sétányon pihenhetünk meg, végül az Experimenta interaktív világa vár ránk.",
         "ro": "Ziua începe în piața centrală cu primăria magnifică și Biserica Sf. Kilian. Apoi, explorați istoria Ordinului Teuton la Deutschhof. După o scurtă oprire la Götzenturm, bucurați-vă de atmosfera de pe Neckarmeile înainte de a încheia după-amiaza în lumea fascinantă a Experimenta.",
-        "en": "Your day starts at the market square with the magnificent town hall and St. Kilian's Church. Next, dive into the history of the Teutonic Order at the Deutschhof. After a quick stop at the Götzenturm, enjoy the atmosphere on the Neckarmeile before ending the afternoon in the fascinating world of Experimenta."
+        "en": "Your day starts at the market square with the magnificent town hall and St. Kilian's Church. Next, dive into the history of the Teutonic Order at the Deutschhof. After a quick stop at the Götzenturm, enjoy the atmosphere on the Neckarmeile before ending the afternoon in the fascinating world of Experimenta.",
+        "tr": "Gününüz pazar meydanında görkemli belediye binası ve St. Kilian Kilisesi ile başlar. Ardından Deutschhof’da Şövalyeler Tarikatı tarihine dalın. Götzenturm’da kısa bir duraktan sonra Neckarmeile’nin atmosferinin tadını çıkarın ve öğleden sonranızı Experimenta’nın büyüleyici dünyasında sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -289,6 +296,12 @@
           "Look out for the 'Käthchenhaus' on the market square.",
           "The Neckarmeile is particularly atmospheric in the evening.",
           "Book tickets for Experimenta online in advance."
+        ],
+        "tr": [
+          "Şehir merkezi düzdür ve yürüyerek keşfetmesi çok kolaydır.",
+          "Pazar meydanında 'Käthchenhaus'u arayın.",
+          "Neckarmeile akşamları özellikle atmosferiktir.",
+          "Experimenta için biletleri önceden çevrimiçi alın."
         ]
       }
     },
@@ -315,7 +328,8 @@
             "de": "Startpunkt im Zentrum mit vielen Abstellmöglichkeiten.",
             "hu": "Központi kiindulópont számos kerékpártárolóval.",
             "ro": "Punct de plecare în centru cu multe facilități de parcare.",
-            "en": "Central starting point with plenty of bike parking."
+            "en": "Central starting point with plenty of bike parking.",
+            "tr": "Bol bisiklet park yeri olan merkezi başlangıç noktası."
           }
         },
         {
@@ -333,7 +347,8 @@
             "de": "Kurzer Stopp am Wahrzeichen der Stadt.",
             "hu": "Rövid megálló a város jelképénél.",
             "ro": "Scurtă oprire la simbolul orașului.",
-            "en": "Short stop at the city's landmark."
+            "en": "Short stop at the city's landmark.",
+            "tr": "Şehrin simgesinde kısa mola."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Ideal erreichbar über den Neckarradweg.",
             "hu": "Kiválóan elérhető a Neckar menti kerékpárúton.",
             "ro": "Ideal accesibil prin pista de biciclete Neckar.",
-            "en": "Ideally accessible via the Neckar bike path."
+            "en": "Ideally accessible via the Neckar bike path.",
+            "tr": "İdeal olarak Neckar bisiklet yolu üzerinden ulaşılır."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Historische Gartenanlage mit alten Obstsorten.",
             "hu": "Történelmi kert régi gyümölcsfajtákkal.",
             "ro": "Grădină istorică cu soiuri vechi de fructe.",
-            "en": "Historic garden layout with old fruit varieties."
+            "en": "Historic garden layout with old fruit varieties.",
+            "tr": "Eski meyve çeşitleriyle tarihi bahçe düzeni."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Kleiner See mit idyllischem Wasserschloss.",
             "hu": "Kis tó idilli vízi kastéllyal.",
             "ro": "Mic lac cu un castel pe apă idilic.",
-            "en": "Small lake with an idyllic moated castle."
+            "en": "Small lake with an idyllic moated castle.",
+            "tr": "İdilize bir hendekli şatolu küçük göl."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Großzügiges Parkgelände am Neckar, ideal für eine Pause.",
             "hu": "Tágas park a Neckar mentén, ideális pihenőhely.",
             "ro": "Zonă de parc generoasă pe Neckar, ideală pentru o pauză.",
-            "en": "Spacious parkland on the Neckar, ideal for a break."
+            "en": "Spacious parkland on the Neckar, ideal for a break.",
+            "tr": "Neckar üzerindeki geniş park alanı, mola için ideal."
           }
         },
         {
@@ -423,7 +442,8 @@
             "de": "Markanter Turm an der alten Stadtmauer.",
             "hu": "Jellegzetes torony a régi városfalnál.",
             "ro": "Turn distinctiv la vechiul zid al orașului.",
-            "en": "Striking tower at the old city wall."
+            "en": "Striking tower at the old city wall.",
+            "tr": "Eski şehir duvarındaki çarpıcı kule."
           }
         },
         {
@@ -441,7 +461,8 @@
             "de": "Abschluss im historischen Hofareal.",
             "hu": "Befejezés a történelmi udvarban.",
             "ro": "Finalizare în zona istorică a curții.",
-            "en": "Conclusion in the historic courtyard area."
+            "en": "Conclusion in the historic courtyard area.",
+            "tr": "Tarihi avlu alanında sonuç noktası."
           }
         }
       ],
@@ -449,7 +470,8 @@
         "de": "Erkunden Sie Heilbronn auf zwei Rädern! Nach dem Start im Zentrum führt Sie der Weg zur Experimenta und weiter in den Osten zum Botanischen Obstgarten und dem idyllischen Trappensee. Entlang des Neckars radeln Sie zum weitläufigen Wertwiesenpark und kehren über den Götzenturm zurück in die Altstadt.",
         "hu": "Fedezze fel Heilbronnt két keréken! A központból indulva az utunk az Experimentához, majd keletre, a Botanikus Gyümölcsöskerthez és az idilli Trappensee-hez vezet. A Neckar mentén kerekezünk a tágas Wertwiesenparkig, majd a Götzenturm érintésével térünk vissza az óvárosba.",
         "ro": "Explorați Heilbronn pe două roți! După pornirea din centru, drumul vă duce la Experimenta și mai departe spre est la Grădina Botanică de Livezi și idilicul Trappensee. Mergeți cu bicicleta de-a lungul Neckarului până la vastul Wertwiesenpark și întoarceți-vă în orașul vechi prin Götzenturm.",
-        "en": "Explore Heilbronn on two wheels! After starting in the center, the path leads you to Experimenta and further east to the Botanical Orchard and the idyllic Trappensee. Cycle along the Neckar to the spacious Wertwiesenpark and return to the old town via the Götzenturm."
+        "en": "Explore Heilbronn on two wheels! After starting in the center, the path leads you to Experimenta and further east to the Botanical Orchard and the idyllic Trappensee. Cycle along the Neckar to the spacious Wertwiesenpark and return to the old town via the Götzenturm.",
+        "tr": "Heilbronn’u iki tekerde keşfedin! Merkezde başladıktan sonra rota sizi Experimenta’ya ve doğuda Botanik Meyve Bahçesi ile idilize Trappensee’ye götürür. Neckar boyunca sürün, geniş Wertwiesenpark’ta dinlenin ve Götzenturm üzerinden eski şehre geri dönün."
       },
       "gastro_picks": {
         "de": [
@@ -593,6 +615,12 @@
           "The route to the orchard has a slight incline.",
           "There are many bike rental stations in the city.",
           "Wertwiesenpark is ideal for families."
+        ],
+        "tr": [
+          "Düz kesimler için Neckar bisiklet yolunu kullanın.",
+          "Meyve bahçesine giden yol hafif bir eğime sahiptir.",
+          "Şehirde birçok bisiklet kiralama noktası vardır.",
+          "Wertwiesenpark aileler için idealdir."
         ]
       }
     },
@@ -619,7 +647,8 @@
             "de": "Parken Sie im Parkhaus am Marktplatz (Cluster Zentrum).",
             "hu": "Parkoljon a főtéri parkolóházban (Központi klaszter).",
             "ro": "Parcați în parcarea de la piața centrală (Cluster Centru).",
-            "en": "Park in the market square car park (Center cluster)."
+            "en": "Park in the market square car park (Center cluster).",
+            "tr": "Pazar meydanı otoparkında park edin (Merkez küme)."
           }
         },
         {
@@ -637,7 +666,8 @@
             "de": "Zufuß vom Rathaus erreichbar (Cluster Zentrum).",
             "hu": "Gyalogosan elérhető a városházától (Központi klaszter).",
             "ro": "Accesibil pe jos de la primărie (Cluster Centru).",
-            "en": "Accessible on foot from the town hall (Center cluster)."
+            "en": "Accessible on foot from the town hall (Center cluster).",
+            "tr": "Belediye binasından yürüyerek ulaşılabilir (Merkez küme)."
           }
         },
         {
@@ -655,7 +685,8 @@
             "de": "Kurzer Fußweg innerhalb der Innenstadt (Cluster Zentrum).",
             "hu": "Rövid gyalogút a belvároson belül (Központi klaszter).",
             "ro": "Scurtă plimbare în centrul orașului (Cluster Centru).",
-            "en": "Short walk within the city center (Center cluster)."
+            "en": "Short walk within the city center (Center cluster).",
+            "tr": "Şehir merkezinde kısa yürüyüş (Merkez küme)."
           }
         },
         {
@@ -673,7 +704,8 @@
             "de": "Kurze Fahrt zum Parkhaus Experimenta (Cluster Fluss).",
             "hu": "Rövid autóút az Experimenta parkolóházhoz (Folyó klaszter).",
             "ro": "Scurtă călătorie până la parcarea Experimenta (Cluster Râu).",
-            "en": "Short drive to the Experimenta car park (River cluster)."
+            "en": "Short drive to the Experimenta car park (River cluster).",
+            "tr": "Experimenta otoparkına kısa sürüş (Nehir kümesi)."
           }
         },
         {
@@ -691,7 +723,8 @@
             "de": "Zufuß von der Experimenta erreichbar (Cluster Fluss).",
             "hu": "Gyalogosan elérhető az Experimentától (Folyó klaszter).",
             "ro": "Accesibil pe jos de la Experimenta (Cluster Râu).",
-            "en": "Accessible on foot from Experimenta (River cluster)."
+            "en": "Accessible on foot from Experimenta (River cluster).",
+            "tr": "Experimenta’dan yürüyerek ulaşılabilir (Nehir kümesi)."
           }
         },
         {
@@ -709,7 +742,8 @@
             "de": "Fahrt zum Parkplatz am Trappensee (Cluster Ost).",
             "hu": "Autózás a Trappensee parkolóhoz (Keleti klaszter).",
             "ro": "Călătorie până la parcarea de la Trappensee (Cluster Est).",
-            "en": "Drive to the Trappensee car park (East cluster)."
+            "en": "Drive to the Trappensee car park (East cluster).",
+            "tr": "Trappensee otoparkına sürün (Doğu kümesi)."
           }
         },
         {
@@ -727,7 +761,8 @@
             "de": "Abschluss im Grünen (Cluster Ost).",
             "hu": "Befejezés a zöldben (Keleti klaszter).",
             "ro": "Final în verdeață (Cluster Est).",
-            "en": "Ending in the greenery (East cluster)."
+            "en": "Ending in the greenery (East cluster).",
+            "tr": "Yeşillikte bitiş (Doğu kümesi)."
           }
         }
       ],
@@ -735,7 +770,8 @@
         "de": "Diese Tour verbindet die Highlights im Zentrum mit den idyllischen Randgebieten. Nach der Erkundung der Altstadt zu Fuß (Rathaus, Kirche, Deutschhof) fahren Sie kurz zur Experimenta am Neckar. Den Nachmittag verbringen Sie im Osten der Stadt am Trappensee und im Botanischen Obstgarten, die bequem mit dem Auto erreichbar sind.",
         "hu": "Ez a túra összeköti a központ látnivalóit az idilli peremterületekkel. Az óváros gyalogos felfedezése után (Városháza, templom, Deutschhof) egy rövid autózással elérjük a Neckar-parti Experimentát. A délutánt a város keleti részén, a Trappensee-nél és a Botanikus Gyümölcsöskertben töltjük.",
         "ro": "Acest tur combină punctele de atracție din centru cu zonele periferice idilice. După explorarea centrului vechi pe jos (primărie, biserică, Deutschhof), conduceți puțin până la Experimenta de pe Neckar. Petreceți după-amiaza în estul orașului, la Trappensee și la Grădina Botanică de Livezi.",
-        "en": "This tour combines the highlights of the center with the idyllic outskirts. After exploring the old town on foot (town hall, church, Deutschhof), take a short drive to Experimenta on the Neckar. Spend the afternoon in the east of the city at Trappensee and the Botanical Orchard."
+        "en": "This tour combines the highlights of the center with the idyllic outskirts. After exploring the old town on foot (town hall, church, Deutschhof), take a short drive to Experimenta on the Neckar. Spend the afternoon in the east of the city at Trappensee and the Botanical Orchard.",
+        "tr": "Bu tur, merkezin öne çıkan noktalarını idilize çevreyle birleştirir. Eski şehri (belediye binası, kilise, Deutschhof) yürüyerek keşfettikten sonra Neckar’daki Experimenta’ya kısa bir sürüş yapın. Öğleden sonranızı şehrin doğusunda Trappensee ve Botanik Meyve Bahçesi’nde geçirin."
       },
       "gastro_picks": {
         "de": [
@@ -843,6 +879,12 @@
           "City center car parks are often full on Saturdays.",
           "The drive to Trappensee takes only about 10 minutes.",
           "Experimenta has its own multi-story car park."
+        ],
+        "tr": [
+          "Şehrin park yönlendirme sistemlerini kullanın.",
+          "Şehir merkezi otoparkları Cumartesi günleri sık sık doludur.",
+          "Trappensee’ye sürüş sadece yaklaşık 10 dakika sürer.",
+          "Experimenta’nın kendi çok katlı otoparkı vardır."
         ]
       }
     },
@@ -869,7 +911,8 @@
             "de": "Haltestelle Rathaus liegt direkt im Herzen der Stadt.",
             "hu": "A Rathaus megálló közvetlenül a város szívében található.",
             "ro": "Stația Rathaus se află direct în inima orașului.",
-            "en": "The Rathaus stop is located right in the heart of the city."
+            "en": "The Rathaus stop is located right in the heart of the city.",
+            "tr": "Rathaus durağı şehrin tam kalbinde yer alır."
           }
         },
         {
@@ -887,7 +930,8 @@
             "de": "Nur wenige Schritte von der Haltestelle Rathaus.",
             "hu": "Csak pár lépés a Rathaus megállótól.",
             "ro": "La doar câțiva pași de stația Rathaus.",
-            "en": "Just a few steps from the Rathaus stop."
+            "en": "Just a few steps from the Rathaus stop.",
+            "tr": "Rathaus durağından sadece birkaç adım uzaklıkta."
           }
         },
         {
@@ -905,7 +949,8 @@
             "de": "Zentraler Museumsstandort in Laufnähe.",
             "hu": "Központi múzeum gyalogos távolságra.",
             "ro": "Locație centrală a muzeului la mică distanță de mers pe jos.",
-            "en": "Central museum location within walking distance."
+            "en": "Central museum location within walking distance.",
+            "tr": "Yürüyüş mesafesinde merkezi müze konumu."
           }
         },
         {
@@ -923,7 +968,8 @@
             "de": "Erreichbar mit der Stadtbahnlinie S4 (Richtung Weinsberg).",
             "hu": "Az S4-es HÉV-vel érhető el (Weinsberg irányába).",
             "ro": "Accesibil cu linia de tren urban S4 (direcția Weinsberg).",
-            "en": "Accessible via city train line S4 (towards Weinsberg)."
+            "en": "Accessible via city train line S4 (towards Weinsberg).",
+            "tr": "Şehir treni S4 hattı ile (Weinsberg yönüne) ulaşılabilir."
           }
         },
         {
@@ -941,7 +987,8 @@
             "de": "Haltestelle Neckarturm am Vorplatz.",
             "hu": "Neckarturm megálló közvetlenül az épületnél.",
             "ro": "Stația Neckarturm în piața din față.",
-            "en": "Neckarturm stop in the forecourt."
+            "en": "Neckarturm stop in the forecourt.",
+            "tr": "Ön avluda Neckarturm durağı."
           }
         },
         {
@@ -959,7 +1006,8 @@
             "de": "Mit dem Bus direkt zum Parkeingang.",
             "hu": "Busszal közvetlenül a park bejáratához.",
             "ro": "Cu autobuzul direct la intrarea în parc.",
-            "en": "Take the bus directly to the park entrance."
+            "en": "Take the bus directly to the park entrance.",
+            "tr": "Otobüse binip doğrudan parka girişe ulaşın."
           }
         }
       ],
@@ -967,7 +1015,8 @@
         "de": "Nutzen Sie das ausgezeichnete Stadtbahn- und Bussystem von Heilbronn. Starten Sie im Herzen am Rathaus und fahren Sie mit der S-Bahn hinaus zum Trappensee. Zurück im Zentrum besuchen Sie die Experimenta und fahren zum Abschluss in den Süden zum entspannten Wertwiesenpark.",
         "hu": "Használja ki Heilbronn kiváló HÉV- és buszhálózatát. Kezdjen a központban a városházánál, majd az S-Bahnnal utazzon ki a Trappensee-hez. Visszatérve a belvárosba látogassa meg az Experimentát, végül buszozzon el délre, a pihentető Wertwiesenparkba.",
         "ro": "Profitați de sistemul excelent de trenuri urbane și autobuze din Heilbronn. Începeți în centru la primărie și mergeți cu S-Bahn până la Trappensee. Întors în centru, vizitați Experimenta și mergeți la final în sud, la relaxantul Wertwiesenpark.",
-        "en": "Take advantage of Heilbronn's excellent city train and bus system. Start in the heart at the town hall and take the S-Bahn out to Trappensee. Back in the center, visit Experimenta and finish by heading south to the relaxing Wertwiesenpark."
+        "en": "Take advantage of Heilbronn's excellent city train and bus system. Start in the heart at the town hall and take the S-Bahn out to Trappensee. Back in the center, visit Experimenta and finish by heading south to the relaxing Wertwiesenpark.",
+        "tr": "Heilbronn’un mükemmel şehir treni ve otobüs sisteminden yararlanın. Belediye binasının kalbinden başlayın ve Trappensee’ye S-Bahn ile gidin. Merkeze döndüğünüzde Experimenta’yı ziyaret edin ve günü dinlendirici Wertwiesenpark’a güneye doğru giderek bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -1075,6 +1124,12 @@
           "An HNV day ticket is worth it after three trips.",
           "The city train functions like a tram in the center.",
           "Posters at the stops are very clear."
+        ],
+        "tr": [
+          "S-Bahn şehir içinde her 20 dakikada bir çalışır.",
+          "HNV günlük bileti üç yolculuktan sonra kârlıdır.",
+          "Şehir treni merkezde tramvay gibi işletilir.",
+          "Duraklardaki afişler çok açıktır."
         ]
       }
     }

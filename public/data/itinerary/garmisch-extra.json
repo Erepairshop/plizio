@@ -21,7 +21,8 @@
             "de": "Historische Ludwigstraße",
             "hu": "Történelmi Ludwigstraße",
             "ro": "Strada istorică Ludwigstraße",
-            "en": "Historic Ludwigstrasse"
+            "en": "Historic Ludwigstrasse",
+            "tr": "Tarihi Ludwigstrasse"
           },
           "coords": [
             11.112,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die prachtvolle Lüftlmalerei an den Hausfassaden.",
             "hu": "Figyelje meg a házak homlokzatán látható díszes Lüftlmalerei festményeket.",
             "ro": "Admirați picturile tradiționale Lüftlmalerei de pe fațadele caselor.",
-            "en": "Look closely at the ornate Lüftlmalerei frescoes on the house facades."
+            "en": "Look closely at the ornate Lüftlmalerei frescoes on the house facades.",
+            "tr": "Ev cephelerindeki süslü Lüftlmalerei fresklerine yakından bakın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Werdenfels Museum",
             "hu": "Werdenfels Múzeum",
             "ro": "Muzeul Werdenfels",
-            "en": "Werdenfels Museum"
+            "en": "Werdenfels Museum",
+            "tr": "Werdenfels Müzesi"
           },
           "coords": [
             11.111,
@@ -59,7 +62,8 @@
             "de": "Ein tiefer Einblick in die bäuerliche Kultur des Werdenfelser Landes.",
             "hu": "Mély betekintés a Werdenfelser Land paraszti kultúrájába.",
             "ro": "O incursiune în cultura țărănească a regiunii Werdenfelser Land.",
-            "en": "A deep dive into the rural culture of the Werdenfelser Land."
+            "en": "A deep dive into the rural culture of the Werdenfelser Land.",
+            "tr": "Werdenfelser Land köy kültürüne derinlemesine bakış."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Alte Pfarrkirche St. Martin",
             "hu": "Szent Márton-öregplébániatemplom",
             "ro": "Vechea Biserică Parohială Sf. Martin",
-            "en": "Old Parish Church of St. Martin"
+            "en": "Old Parish Church of St. Martin",
+            "tr": "Eski Martin Paroş Kilisesi"
           },
           "coords": [
             11.114,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die gotischen Fresken aus dem 14. Jahrhundert.",
             "hu": "Csodálja meg a 14. századi gótikus freskókat.",
             "ro": "Admirați frescele gotice din secolul al XIV-lea.",
-            "en": "Admire the Gothic frescoes dating back to the 14th century."
+            "en": "Admire the Gothic frescoes dating back to the 14th century.",
+            "tr": "14. yüzyıla tarihlenen Gotik fresklere hayran kalın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Michael-Ende-Kurpark",
             "hu": "Michael Ende Kurpark",
             "ro": "Parcul Michael Ende",
-            "en": "Michael Ende Kurpark"
+            "en": "Michael Ende Kurpark",
+            "tr": "Michael Ende Kurparkı"
           },
           "coords": [
             11.088,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie das kleine Museum über den Autor von 'Momo'.",
             "hu": "Látogasson el a 'Momo' írójáról szóló kis múzeumba.",
             "ro": "Vizitați micul muzeu dedicat autorului cărții 'Momo'.",
-            "en": "Visit the small museum dedicated to the author of 'Momo'."
+            "en": "Visit the small museum dedicated to the author of 'Momo'.",
+            "tr": "'Momo' yazarına adanmış küçük müzeyi ziyaret edin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Garmisch Zentrum",
             "hu": "Garmisch központja",
             "ro": "Centrul Garmisch",
-            "en": "Garmisch Center"
+            "en": "Garmisch Center",
+            "tr": "Garmisch Merkezi"
           },
           "coords": [
             11.091,
@@ -128,7 +137,8 @@
             "de": "Ideal für den Kauf von Trachten und bayerischen Souvenirs.",
             "hu": "Ideális hely népviselet és bajor szuvenírek vásárlására.",
             "ro": "Ideal pentru achiziționarea de costume populare și suveniruri bavareze.",
-            "en": "Ideal for buying traditional Trachten and Bavarian souvenirs."
+            "en": "Ideal for buying traditional Trachten and Bavarian souvenirs.",
+            "tr": "Geleneksel Trachten ve Bavyera hediyelikleri almak için ideal."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Dieser Spaziergang verbindet die beiden historischen Kerne. Wir beginnen im malerischen Partenkirchen mit seinen bemalten Fassaden, besuchen das Heimatmuseum und spazieren dann hinüber in den Kurpark von Garmisch, wo wir den Tag entspannt ausklingen lassen.",
         "hu": "Ez a séta összeköti a város két történelmi magját. Partenkirchen festői homlokzataival kezdünk, meglátogatjuk a helytörténeti múzeumot, majd átsétálunk Garmisch Kurparkjába, ahol kényelmesen zárjuk a napot.",
         "ro": "Această plimbare unește cele două nuclee istorice. Începem în Partenkirchen cu fațadele sale pictate, vizităm muzeul local și apoi mergem spre Kurpark-ul din Garmisch, unde încheiem ziua relaxat.",
-        "en": "This walk connects the two historic centers. We start in picturesque Partenkirchen with its painted facades, visit the local museum, and then stroll over to Garmisch's Kurpark for a relaxed end to the day."
+        "en": "This walk connects the two historic centers. We start in picturesque Partenkirchen with its painted facades, visit the local museum, and then stroll over to Garmisch's Kurpark for a relaxed end to the day.",
+        "tr": "Bu yürüyüş iki tarihi merkezi birbirine bağlar. Boyalı cepheli Partenkirchen'de başlayıp yerel müzeyi ziyaret ediyor, ardından Garmisch'in Kurparkı'na yürüyerek günü rahatlatıcı bir şekilde sonlandırıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -240,6 +251,11 @@
           "Garmisch and Partenkirchen were once separate towns, which can still be felt in their distinct characters.",
           "The walkways are flat and well-maintained.",
           "It is best to park at the train station to reach both parts easily."
+        ],
+        "tr": [
+          "Garmisch ve Partenkirchen bir zamanlar ayrı kasabalardı; bu, hala farklı karakterlerinde hissedilir.",
+          "Yürüyüş yolları düz ve iyi bakımlıdır.",
+          "Her iki bölüme de kolay erişim için en iyisi tren istasyonunda park etmektir."
         ]
       }
     },
@@ -256,7 +272,8 @@
             "de": "Historische Ludwigstraße",
             "hu": "Történelmi Ludwigstraße",
             "ro": "Strada istorică Ludwigstraße",
-            "en": "Historic Ludwigstrasse"
+            "en": "Historic Ludwigstrasse",
+            "tr": "Tarihi Ludwigstrasse"
           },
           "coords": [
             11.112,
@@ -271,7 +288,8 @@
             "de": "Schieben Sie das Fahrrad kurz, um die Details der Malereien zu sehen.",
             "hu": "Tolja kicsit a biciklit, hogy jobban lássa a festmények részleteit.",
             "ro": "Mergeți puțin pe lângă bicicletă pentru a vedea detaliile picturilor.",
-            "en": "Walk your bike for a bit to see the details of the paintings."
+            "en": "Walk your bike for a bit to see the details of the paintings.",
+            "tr": "Resimlerin detaylarını görmek için bir süre bisikletinizi yürütün."
           }
         },
         {
@@ -279,7 +297,8 @@
             "de": "Olympia-Skistadion",
             "hu": "Olimpiai Sístadion",
             "ro": "Stadionul Olimpic de Schi",
-            "en": "Olympic Ski Stadium"
+            "en": "Olympic Ski Stadium",
+            "tr": "Olimpik Kayak Stadyumu"
           },
           "coords": [
             11.117,
@@ -294,7 +313,8 @@
             "de": "Besichtigen Sie die große Skisprungschanze aus der Nähe.",
             "hu": "Nézze meg közelről a hatalmas síugró sáncot.",
             "ro": "Vizitați de aproape marea trambulina de sărituri cu schiurile.",
-            "en": "Take a close look at the massive ski jump ramp."
+            "en": "Take a close look at the massive ski jump ramp.",
+            "tr": "Büyük sıçrama rampasına yakından bakın."
           }
         },
         {
@@ -302,7 +322,8 @@
             "de": "Partnachklamm",
             "hu": "Partnach-szurdok",
             "ro": "Cheile Partnach",
-            "en": "Partnach Gorge"
+            "en": "Partnach Gorge",
+            "tr": "Partnach Gorge"
           },
           "coords": [
             11.119,
@@ -317,7 +338,8 @@
             "de": "Fahrräder müssen am Eingang abgestellt werden. Regenjacke empfohlen!",
             "hu": "A bicikliket a bejáratnál kell hagyni. Esőkabát ajánlott!",
             "ro": "Bicicletele trebuie lăsate la intrare. Se recomandă pelerină de ploaie!",
-            "en": "Bikes must be parked at the entrance. Rain jacket recommended!"
+            "en": "Bikes must be parked at the entrance. Rain jacket recommended!",
+            "tr": "Bisikletler girişte park edilmelidir. Yağmurluk tavsiye edilir!"
           }
         },
         {
@@ -325,7 +347,8 @@
             "de": "Michael-Ende-Kurpark",
             "hu": "Michael Ende Kurpark",
             "ro": "Parcul Michael Ende",
-            "en": "Michael Ende Kurpark"
+            "en": "Michael Ende Kurpark",
+            "tr": "Michael Ende Kurparkı"
           },
           "coords": [
             11.088,
@@ -340,7 +363,8 @@
             "de": "Der Park bietet viele schattige Plätze zum Ausruhen.",
             "hu": "A park sok árnyékos helyet kínál a pihenéshez.",
             "ro": "Parcul oferă multe locuri umbroase pentru odihnă.",
-            "en": "The park offers many shaded spots for resting."
+            "en": "The park offers many shaded spots for resting.",
+            "tr": "Park dinlenmek için birçok gölgeli nokta sunar."
           }
         },
         {
@@ -348,7 +372,8 @@
             "de": "Alte Pfarrkirche St. Martin",
             "hu": "Szent Márton-öregplébániatemplom",
             "ro": "Vechea Biserică Parohială Sf. Martin",
-            "en": "Old Parish Church of St. Martin"
+            "en": "Old Parish Church of St. Martin",
+            "tr": "Aziz Martin Eski Paroş Kilisesi"
           },
           "coords": [
             11.114,
@@ -363,7 +388,8 @@
             "de": "Ein kurzer Stopp in der Ruhe der Kirche.",
             "hu": "Rövid megálló a templom csendjében.",
             "ro": "O scurtă oprire în liniștea bisericii.",
-            "en": "A brief stop in the silence of the church."
+            "en": "A brief stop in the silence of the church.",
+            "tr": "Kilisenin sessizliğinde kısa bir mola."
           }
         }
       ],
@@ -371,7 +397,8 @@
         "de": "Mit dem Rad erreichen wir bequem die spektakuläre Partnachklamm. Nach der Wanderung durch die Schlucht radeln wir zurück durch das Olympiastadion und erkunden die historischen Winkel beider Ortsteile.",
         "hu": "Biciklivel kényelmesen elérjük a látványos Partnach-szurdokot. A szurdoktúra után az Olimpiai Stadionon keresztül tekerünk vissza, és felfedezzük mindkét városrész történelmi szegleteit.",
         "ro": "Cu bicicleta ajungem ușor la spectaculoasele Chei Partnach. După drumeția prin chei, pedalăm înapoi prin Stadionul Olimpic și explorăm colțurile istorice ale ambelor cartiere.",
-        "en": "By bike, we easily reach the spectacular Partnach Gorge. After the hike through the gorge, we cycle back through the Olympic Stadium and explore the historic corners of both districts."
+        "en": "By bike, we easily reach the spectacular Partnach Gorge. After the hike through the gorge, we cycle back through the Olympic Stadium and explore the historic corners of both districts.",
+        "tr": "Bisikletle Partnach Kanyonu'na kolayca ulaşıyoruz. Kanyondaki yürüyüşten sonra Olimpiyat Stadyumu üzerinden bisikletle geri dönüp her iki semtin tarihi köşelerini keşfediyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -475,6 +502,11 @@
           "Use the well-marked bike paths along the Partnach river.",
           "An e-bike is highly recommended for the paths around Garmisch.",
           "Lock your bike securely at the entrance to the gorge."
+        ],
+        "tr": [
+          "Partnach nehri boyunca iyi işaretlenmiş bisiklet yollarını kullanın.",
+          "Garmisch çevresindeki yollar için e-bisiklet şiddetle tavsiye edilir.",
+          "Bisikletinizi kanyon girişinde güvenli şekilde kilitleyin."
         ]
       }
     },
@@ -491,7 +523,8 @@
             "de": "Zugspitze (Seilbahn Eibsee)",
             "hu": "Zugspitze (Eibsee felvonó)",
             "ro": "Zugspitze (Telecabina Eibsee)",
-            "en": "Zugspitze (Eibsee Cable Car)"
+            "en": "Zugspitze (Eibsee Cable Car)",
+            "tr": "Zugspitze (Eibsee Teleferiği)"
           },
           "coords": [
             10.992,
@@ -506,7 +539,8 @@
             "de": "Kaufen Sie Tickets vorab online, um Wartezeiten zu vermeiden.",
             "hu": "Vegye meg a jegyet előre online a várakozás elkerüléséhez.",
             "ro": "Cumpărați bilete online în avans pentru a evita cozile.",
-            "en": "Buy tickets online in advance to avoid waiting times."
+            "en": "Buy tickets online in advance to avoid waiting times.",
+            "tr": "Bekleme sürelerini önlemek için biletleri önceden çevrimiçi satın alın."
           }
         },
         {
@@ -514,7 +548,8 @@
             "de": "Eibsee",
             "hu": "Eibsee",
             "ro": "Lacul Eibsee",
-            "en": "Eibsee"
+            "en": "Eibsee",
+            "tr": "Eibsee"
           },
           "coords": [
             10.99,
@@ -529,7 +564,8 @@
             "de": "Ein Spaziergang am Ufer des kristallklaren Sees ist Pflicht.",
             "hu": "Kötelező séta a kristálytiszta tó partján.",
             "ro": "O plimbare pe malul lacului cu apă cristalină este obligatorie.",
-            "en": "A walk along the shore of the crystal-clear lake is a must."
+            "en": "A walk along the shore of the crystal-clear lake is a must.",
+            "tr": "Kristal berraklığındaki göl kıyısında yürüyüş mutlaka yapılmalı."
           }
         },
         {
@@ -537,7 +573,8 @@
             "de": "AlpspiX Aussichtsplattform",
             "hu": "AlpspiX kilátó",
             "ro": "Platforma AlpspiX",
-            "en": "AlpspiX Viewing Platform"
+            "en": "AlpspiX Viewing Platform",
+            "tr": "AlpspiX Seyir Platformu"
           },
           "coords": [
             11.05,
@@ -552,7 +589,8 @@
             "de": "Nichts für schwache Nerven – der Boden ist teils aus Gitterrost.",
             "hu": "Csak erős idegzetűeknek – a padló részben rácsos.",
             "ro": "Nu este pentru cei slabi de înger – podeaua este parțial din grătar metalic.",
-            "en": "Not for the faint-hearted – the floor is partially made of grating."
+            "en": "Not for the faint-hearted – the floor is partially made of grating.",
+            "tr": "Cesaret gerektirir – zeminin bir kısmı ızgaradan yapılmıştır."
           }
         },
         {
@@ -560,7 +598,8 @@
             "de": "Historische Ludwigstraße",
             "hu": "Történelmi Ludwigstraße",
             "ro": "Strada istorică Ludwigstraße",
-            "en": "Historic Ludwigstrasse"
+            "en": "Historic Ludwigstrasse",
+            "tr": "Tarihi Ludwigstrasse"
           },
           "coords": [
             11.112,
@@ -575,7 +614,8 @@
             "de": "Parken Sie am nahegelegenen Wanderparkplatz.",
             "hu": "Parkoljon a közeli túraparkolóban.",
             "ro": "Parcați în parcarea pentru drumeții din apropiere.",
-            "en": "Park at the nearby hiking car park."
+            "en": "Park at the nearby hiking car park.",
+            "tr": "Yakındaki yürüyüş otoparkına park edin."
           }
         }
       ],
@@ -583,7 +623,8 @@
         "de": "Diese Tour führt uns zu den Gipfeln. Wir starten früh an der Zugspitze, genießen das Panorama am Eibsee und besuchen die AlpspiX-Plattform, bevor wir den Tag in der Ludwigstraße in Partenkirchen gemütlich beenden.",
         "hu": "Ez a túra a csúcsokra vezet. Korán kezdünk a Zugspitzénél, élvezzük a panorámát az Eibsee-nél, és meglátogatjuk az AlpspiX kilátót, mielőtt a napot kényelmesen zárnánk a Ludwigstraßén.",
         "ro": "Acest tur ne duce pe culmi. Începem devreme la Zugspitze, savurăm panorama de la Eibsee și vizităm platforma AlpspiX, înainte de a încheia ziua plăcut pe strada Ludwigstraße.",
-        "en": "This tour takes us to the peaks. We start early at Zugspitze, enjoy the panorama at Eibsee, and visit the AlpspiX platform before ending the day comfortably on Ludwigstrasse."
+        "en": "This tour takes us to the peaks. We start early at Zugspitze, enjoy the panorama at Eibsee, and visit the AlpspiX platform before ending the day comfortably on Ludwigstrasse.",
+        "tr": "Bu tur bizi zirvelere götürüyor. Günün erken saatlerinde Zugspitze'de başlıyor, Eibsee'de panoramanın tadını çıkarıyor ve AlpspiX platformunu ziyaret ettikten sonra günü rahatça Ludwigstrasse'de sonlandırıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -687,6 +728,11 @@
           "Go to Zugspitze as early as possible to avoid the crowds.",
           "Parking fees at Eibsee are quite high, factor this in.",
           "Remember warm clothing for the mountain peak, even in summer."
+        ],
+        "tr": [
+          "Kalabalıktan kaçınmak için Zugspitze'ye mümkün olduğunca erken gidin.",
+          "Eibsee'deki otopark ücretleri oldukça yüksek, bunu göz önünde bulundurun.",
+          "Dağ zirvesi için yazın bile sıcak giysi bulundurmayı unutmayın."
         ]
       }
     },
@@ -703,7 +749,8 @@
             "de": "Michael-Ende-Kurpark",
             "hu": "Michael Ende Kurpark",
             "ro": "Parcul Michael Ende",
-            "en": "Michael Ende Kurpark"
+            "en": "Michael Ende Kurpark",
+            "tr": "Michael Ende Kurparkı"
           },
           "coords": [
             11.088,
@@ -718,7 +765,8 @@
             "de": "Nur wenige Gehminuten vom Bahnhof Garmisch-Partenkirchen entfernt.",
             "hu": "Csak pár perc séta a Garmisch-Partenkirchen vasútállomástól.",
             "ro": "La doar câteva minute de mers pe jos de gara Garmisch-Partenkirchen.",
-            "en": "Only a few minutes' walk from Garmisch-Partenkirchen station."
+            "en": "Only a few minutes' walk from Garmisch-Partenkirchen station.",
+            "tr": "Garmisch-Partenkirchen tren istasyonundan sadece birkaç dakika yürüme mesafesinde."
           }
         },
         {
@@ -726,7 +774,8 @@
             "de": "Olympia-Skistadion",
             "hu": "Olimpiai Sístadion",
             "ro": "Stadionul Olimpic de Schi",
-            "en": "Olympic Ski Stadium"
+            "en": "Olympic Ski Stadium",
+            "tr": "Olimpik Kayak Stadyumu"
           },
           "coords": [
             11.117,
@@ -741,7 +790,8 @@
             "de": "Nutzen Sie die Ortsbusse (Linie 1 oder 2) vom Bahnhof.",
             "hu": "Használja a helyi buszokat (1-es vagy 2-es vonal) az állomástól.",
             "ro": "Folosiți autobuzele locale (linia 1 sau 2) de la gară.",
-            "en": "Use the local buses (Line 1 or 2) from the station."
+            "en": "Use the local buses (Line 1 or 2) from the station.",
+            "tr": "İstasyondan yerel otobüsleri (Hat 1 veya 2) kullanın."
           }
         },
         {
@@ -749,7 +799,8 @@
             "de": "Partnachklamm",
             "hu": "Partnach-szurdok",
             "ro": "Cheile Partnach",
-            "en": "Partnach Gorge"
+            "en": "Partnach Gorge",
+            "tr": "Partnach Kanyonu"
           },
           "coords": [
             11.119,
@@ -764,7 +815,8 @@
             "de": "Vom Skistadion aus ist es ein 20-minütiger Spaziergang zum Eingang.",
             "hu": "A sístadiontól 20 perces séta a bejárat.",
             "ro": "De la stadionul de schi este o plimbare de 20 de minute până la intrare.",
-            "en": "It is a 20-minute walk from the ski stadium to the entrance."
+            "en": "It is a 20-minute walk from the ski stadium to the entrance.",
+            "tr": "Stadyumdan kanyon girişine yürüyüş yaklaşık 20 dakika sürer."
           }
         },
         {
@@ -772,7 +824,8 @@
             "de": "Historische Ludwigstraße",
             "hu": "Történelmi Ludwigstraße",
             "ro": "Strada istorică Ludwigstraße",
-            "en": "Historic Ludwigstrasse"
+            "en": "Historic Ludwigstrasse",
+            "tr": "Tarihi Ludwigstrasse"
           },
           "coords": [
             11.112,
@@ -787,7 +840,8 @@
             "de": "Mit dem Bus zurück Richtung Partenkirchen (Haltestelle Ludwigstraße).",
             "hu": "Busszal vissza Partenkirchen felé (Ludwigstraße megálló).",
             "ro": "Înapoi cu autobuzul spre Partenkirchen (stația Ludwigstraße).",
-            "en": "Take the bus back towards Partenkirchen (Ludwigstrasse stop)."
+            "en": "Take the bus back towards Partenkirchen (Ludwigstrasse stop).",
+            "tr": "Partenkirchen yönüne doğru otobüse binin (Ludwigstrasse durağı)."
           }
         },
         {
@@ -795,7 +849,8 @@
             "de": "Alte Pfarrkirche St. Martin",
             "hu": "Szent Márton-öregplébániatemplom",
             "ro": "Vechea Biserică Parohială Sf. Martin",
-            "en": "Old Parish Church of St. Martin"
+            "en": "Old Parish Church of St. Martin",
+            "tr": "Aziz Martin Eski Paroş Kilisesi"
           },
           "coords": [
             11.114,
@@ -810,7 +865,8 @@
             "de": "Ein schöner Abschluss direkt in der Altstadt von Partenkirchen.",
             "hu": "Szép lezárás közvetlenül Partenkirchen óvárosában.",
             "ro": "O încheiere frumoasă chiar în centrul vechi din Partenkirchen.",
-            "en": "A beautiful conclusion right in the old town of Partenkirchen."
+            "en": "A beautiful conclusion right in the old town of Partenkirchen.",
+            "tr": "Partenkirchen eski kentinde güzel bir sonuç noktası."
           }
         }
       ],
@@ -818,7 +874,8 @@
         "de": "Mit dem exzellenten Ortsbussystem erkunden wir stressfrei die Highlights. Vom Bahnhof geht es zum Kurpark, weiter zum Skistadion und zur Klamm, und schließlich in die historische Ludwigstraße.",
         "hu": "A kiváló helyi buszhálózattal stresszmentesen fedezzük fel a látnivalókat. Az állomástól a Kurparkba, majd a sístadionhoz és a szurdokhoz megyünk, végül a történelmi Ludwigstraßéra.",
         "ro": "Cu sistemul excelent de autobuze locale explorăm fără stres punctele de atracție. De la gară mergem la Kurpark, apoi la stadionul de schi și la chei, iar în final pe strada istorică Ludwigstraße.",
-        "en": "With the excellent local bus system, we explore the highlights stress-free. From the station, we head to the Kurpark, then to the ski stadium and the gorge, and finally to historic Ludwigstrasse."
+        "en": "With the excellent local bus system, we explore the highlights stress-free. From the station, we head to the Kurpark, then to the ski stadium and the gorge, and finally to historic Ludwigstrasse.",
+        "tr": "Mükemmel yerel otobüs sistemiyle önemli noktaları stressizce geziyoruz. İstasyondan Kurpark'a, sonra kayak stadyumuna ve kanyona, sonunda da tarihi Ludwigstrasse'ye gidiyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -922,6 +979,11 @@
           "With the guest card (Gästekarte), you can use local buses for free.",
           "Buses run regularly, but check the timetables on weekends.",
           "The train station is the central hub for all lines."
+        ],
+        "tr": [
+          "Misafir kartı (Gästekarte) ile yerel otobüsleri ücretsiz kullanabilirsiniz.",
+          "Otobüsler düzenli çalışır, ancak hafta sonları saatleri kontrol edin.",
+          "Tren istasyonu tüm hatlar için merkezi merkezdir."
         ]
       }
     }

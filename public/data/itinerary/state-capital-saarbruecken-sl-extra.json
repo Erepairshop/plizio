@@ -31,7 +31,8 @@
             "de": "Genießen Sie einen Kaffee auf dem Markt.",
             "hu": "Igyon meg egy kávét a hangulatos piacon.",
             "ro": "Savurați o cafea în piața istorică.",
-            "en": "Enjoy a coffee at the historic market square."
+            "en": "Enjoy a coffee at the historic market square.",
+            "tr": "Tarihi pazar meydanında bir kahve keyfi yapın."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die barocke Innenausstattung.",
             "hu": "Csodálja meg a barokk belső tereket.",
             "ro": "Admirați interiorul baroc spectaculos.",
-            "en": "Admire the stunning Baroque interior."
+            "en": "Admire the stunning Baroque interior.",
+            "tr": "Çarpıcı Barok iç mekanı hayranlıkla izleyin."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Ein neoklassizistisches Juwel am Saarufer.",
             "hu": "Neoklasszicista ékszerdoboz a Saar partján.",
             "ro": "O bijuterie neoclasică pe malul râului.",
-            "en": "A neoclassical jewel on the banks of the Saar."
+            "en": "A neoclassical jewel on the banks of the Saar.",
+            "tr": "Saar kıyısında neoklasik bir mücevher."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Bester Blick auf das Schloss und den Fluss.",
             "hu": "A legjobb kilátás a kastélyra és a folyóra.",
             "ro": "Cea mai bună vedere spre castel și râu.",
-            "en": "Best view of the castle and the river."
+            "en": "Best view of the castle and the river.",
+            "tr": "Kale ve nehrin en iyi manzarası."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Besuchen Sie das Historische Museum im Schloss.",
             "hu": "Látogassa meg a Történeti Múzeumot a várban.",
             "ro": "Vizitați Muzeul Istoric din interiorul castelului.",
-            "en": "Visit the Historical Museum inside the castle."
+            "en": "Visit the Historical Museum inside the castle.",
+            "tr": "Kalenin içindeki Tarih Müzesi'ni ziyaret edin."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Eines der bedeutendsten Barockbauwerke Deutschlands.",
             "hu": "Németország egyik legfontosabb barokk épülete.",
             "ro": "Una dintre cele mai importante clădiri baroce.",
-            "en": "One of Germany's most important Baroque buildings."
+            "en": "One of Germany's most important Baroque buildings.",
+            "tr": "Almanya'nın en önemli Barok yapılarından biri."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Morgens tauchen Sie ein in das geschäftige Treiben am St. Johanner Markt und besuchen die prächtige Basilika. Mittags spazieren Sie entlang der Saar zum Staatstheater und überqueren die geschichtsträchtige Alte Brücke. Nachmittags erkunden Sie das Saarbrücker Schloss mit seiner modernen Glaskuppel. Den Abschluss bildet die Ludwigskirche, ein Meisterwerk barocker Baukunst im weißen Gewand.",
         "hu": "A reggelt a nyüzsgő St. Johanner Markt kávézóiban kezdjük, majd a barokk bazilikát látogatjuk meg. Délben a Saar-parti sétányon érjük el a színházat, és átkelünk a történelmi Öreg hídon. Délután a várkastély modern és barokk elemeit fedezzük fel, beleértve a földalatti kazamatákat is. A napot a hófehér Ludwigskirche monumentális tereiben zárjuk, amely a város jelképe.",
         "ro": "Dimineața începe în piața vibrantă St. Johanner Markt, urmată de o vizită la bazilica barocă. La prânz, ne plimbăm pe malul râului Saar până la teatru și traversăm Vechiul Pod. După-amiaza este dedicată Castelului din Saarbrücken, unde istoria se îmbină cu arhitectura modernă. Încheiem turul la Ludwigskirche, considerată una dintre cele mai frumoase biserici baroce protestante din Germania.",
-        "en": "Start your morning at the lively St. Johanner Markt before visiting the ornate Basilica. At midday, stroll along the Saar river to the State Theatre and cross the historic Old Bridge. Afternoon is perfect for exploring Saarbrücken Castle and its hidden underground casemates. Finish your walk at Ludwigskirche, a stunning masterpiece of Baroque architecture that defines the city's skyline."
+        "en": "Start your morning at the lively St. Johanner Markt before visiting the ornate Basilica. At midday, stroll along the Saar river to the State Theatre and cross the historic Old Bridge. Afternoon is perfect for exploring Saarbrücken Castle and its hidden underground casemates. Finish your walk at Ludwigskirche, a stunning masterpiece of Baroque architecture that defines the city's skyline.",
+        "tr": "Gününüzü canlı St. Johanner Markt'ta sabahı başlatarak ve süslü Bazilika'yı ziyaret ederek başlatın. Öğle vakti Saar boyunca yürüyüp Devlet Tiyatrosu'na gidin ve tarihi Eski Köprü'yü geçin. Öğleden sonra Saarbrücken Kalesi ve gizli yer altı kasamatlarını keşfetmek için mükemmeldir. Yürüyüşünüzü şehrin siluetini tanımlayan etkileyici Barok yapı Ludwigskirche'de bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -289,6 +296,12 @@
           "The Saar river promenades are ideal for a quick break.",
           "Try local delicacies at the St. Johanner Markt terraces.",
           "Keep in mind that most museums are closed on Mondays."
+        ],
+        "tr": [
+          "Saarbrücken çok kompakt olup yürüyerek keşfetmek için idealdir.",
+          "Saar nehir promenadları hızlı bir mola için idealdir.",
+          "St. Johanner Markt teraslarında yerel lezzetleri deneyin.",
+          "Çoğu müzenin Pazartesi günleri kapalı olduğunu unutmayın."
         ]
       }
     },
@@ -315,7 +328,8 @@
             "de": "Starten Sie an diesem barocken Prachtbau.",
             "hu": "Kezdje a túrát ennél a barokk remekműnél.",
             "ro": "Începeți turul la această capodoperă barocă.",
-            "en": "Start your tour at this Baroque masterpiece."
+            "en": "Start your tour at this Baroque masterpiece.",
+            "tr": "Turunuza bu Barok başyapıtta başlayın."
           }
         },
         {
@@ -333,7 +347,8 @@
             "de": "Fahrradabstellplätze gibt es direkt am Schlossplatz.",
             "hu": "Kerékpártárolók közvetlenül a kastély téren.",
             "ro": "Parcare pentru biciclete direct în piața castelului.",
-            "en": "Bicycle parking is available directly at the castle square."
+            "en": "Bicycle parking is available directly at the castle square.",
+            "tr": "Kale meydanında doğrudan bisiklet park yeri mevcuttur."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Großzügiger Park mit Seilbahn und Themengärten.",
             "hu": "Hatalmas park kötélpályával és tematikus kertekkel.",
             "ro": "Parc generos cu telecabină și grădini tematice.",
-            "en": "Spacious park with a cable car and themed gardens."
+            "en": "Spacious park with a cable car and themed gardens.",
+            "tr": "Teleferik ve temalı bahçelerle geniş bir park."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Gotische Kirche in einem dörflichen Stadtteil.",
             "hu": "Gótikus templom egy falusias hangulatú negyedben.",
             "ro": "Biserică gotică într-un cartier cu aspect rural.",
-            "en": "Gothic church in a village-like district."
+            "en": "Gothic church in a village-like district.",
+            "tr": "Köy havasındaki bir mahallede gotik kilise."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Überqueren Sie die Saar auf der ältesten Brücke.",
             "hu": "Keljen át a Saaron a város legöregebb hídján.",
             "ro": "Traversați râul pe cel mai vechi pod.",
-            "en": "Cross the Saar on the city's oldest bridge."
+            "en": "Cross the Saar on the city's oldest bridge.",
+            "tr": "Şehrin en eski köprüsünden Saar'ı geçin."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Barocke Pracht im Herzen der Altstadt.",
             "hu": "Barokk pompa az óváros szívében.",
             "ro": "Splendoare barocă în inima orașului vechi.",
-            "en": "Baroque splendor in the heart of the old town."
+            "en": "Baroque splendor in the heart of the old town.",
+            "tr": "Eski şehrin kalbinde Barok gösterişi."
           }
         }
       ],
@@ -413,7 +432,8 @@
         "de": "Starten Sie Ihre Radtour an der barocken Ludwigskirche und fahren Sie zum Schloss. Von dort geht es entspannt flussaufwärts zum Deutsch-Französischen Garten, einer grünen Oase der Erholung. Nach einer Runde durch den Park radeln Sie zum historischen Stiftsbezirk St. Arnual. Den Rückweg nehmen Sie entlang der Saarpromenade, überqueren die Alte Brücke und enden in der lebhaften Altstadt von St. Johann.",
         "hu": "Kezdje kerékpáros túráját a barokk Ludwigskirche-nél, majd guruljon át a kastélyhoz. Innen a folyó mentén tekerjen el a Német-Francia Kertbe, amely a nyugalom szigete. A parki pihenő után látogasson el St. Arnual történelmi negyedébe, ahol gótikus templom várja. A visszaút a Saar-parti sétányon vezet, át az Öreg hídon, egészen St. Johann nyüzsgő óvárosáig.",
         "ro": "Începeți turul cu bicicleta la Ludwigskirche și pedalați spre castel. De acolo, urmați râul spre Grădina Germano-Franceză, o oază verde de relaxare. După o pauză în parc, pedalați spre cartierul istoric St. Arnual. Drumul de întoarcere vă poartă pe promenada râului Saar, traversând Vechiul Pod până în zona animată St. Johann.",
-        "en": "Start your bike tour at the Baroque Ludwigskirche and cycle to the castle. From there, enjoy a relaxed ride upstream to the German-French Garden, a green oasis of recreation. After a break in the park, cycle to the historic St. Arnual district. The return path takes you along the Saar promenade, over the Old Bridge, and ends in the vibrant old town of St. Johann."
+        "en": "Start your bike tour at the Baroque Ludwigskirche and cycle to the castle. From there, enjoy a relaxed ride upstream to the German-French Garden, a green oasis of recreation. After a break in the park, cycle to the historic St. Arnual district. The return path takes you along the Saar promenade, over the Old Bridge, and ends in the vibrant old town of St. Johann.",
+        "tr": "Bisiklet turunuzu Barok Ludwigskirche'de başlayıp kaleye doğru pedal çevirerek başlatın. Oradan, dinlendirici bir yükselişle Alman-Fransız Bahçesi'ne doğru sürün, dinlenme için yeşil bir vaha. Parkta bir moladan sonra tarihi St. Arnual mahallesine gidin. Geri dönüş yolu sizi Saar promenadı boyunca Eski Köprü üzerinden geçirir ve St. Johann'ın canlı eski kentinde sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -573,6 +593,12 @@
           "Bicycle transport on the Saarbahn is free during certain times.",
           "The German-French Garden is extensive, ideal for cyclists.",
           "Always wear a helmet, especially in city traffic."
+        ],
+        "tr": [
+          "Düz ve rahat bölümler için Saar bisiklet yolunu kullanın.",
+          "Saarbahn'da belirli saatlerde bisiklet taşımacılığı ücretsizdir.",
+          "Alman-Fransız Bahçesi geniştir, bisikletçiler için idealdir.",
+          "Özellikle şehir trafiğinde her zaman kask takın."
         ]
       }
     },
@@ -599,7 +625,8 @@
             "de": "Parken Sie am Ludwigsplatz (Cluster A).",
             "hu": "Parkoljon a Ludwigsplatzon (A klaszter).",
             "ro": "Parcați la Ludwigsplatz (Cluster A).",
-            "en": "Park at Ludwigsplatz (Cluster A)."
+            "en": "Park at Ludwigsplatz (Cluster A).",
+            "tr": "Ludwigsplatz'da park edin (Cluster A)."
           }
         },
         {
@@ -617,7 +644,8 @@
             "de": "Vom Ludwigsplatz aus 8 Min. zu Fuß (Cluster A).",
             "hu": "8 perc séta a Ludwigsplatztól (A klaszter).",
             "ro": "8 minute de mers de la Ludwigsplatz (Cluster A).",
-            "en": "8 min walk from Ludwigsplatz (Cluster A)."
+            "en": "8 min walk from Ludwigsplatz (Cluster A).",
+            "tr": "Ludwigsplatz'dan 8 dakikalık yürüme mesafesi (Cluster A)."
           }
         },
         {
@@ -635,7 +663,8 @@
             "de": "Großer kostenloser Parkplatz am Eingang Süd (Cluster B).",
             "hu": "Nagy ingyenes parkoló a déli bejáratnál (B klaszter).",
             "ro": "Parcare mare gratuită la intrarea de sud (Cluster B).",
-            "en": "Large free parking lot at the South entrance (Cluster B)."
+            "en": "Large free parking lot at the South entrance (Cluster B).",
+            "tr": "Güney girişinde büyük ücretsiz otopark (Cluster B)."
           }
         },
         {
@@ -653,7 +682,8 @@
             "de": "Kleiner Parkplatz direkt am Marktplatz (Cluster C).",
             "hu": "Kis parkoló közvetlenül a piactérnél (C klaszter).",
             "ro": "Parcare mică direct în piață (Cluster C).",
-            "en": "Small parking lot directly at the market square (Cluster C)."
+            "en": "Small parking lot directly at the market square (Cluster C).",
+            "tr": "Pazar meydanında doğrudan küçük otopark (Cluster C)."
           }
         },
         {
@@ -671,7 +701,8 @@
             "de": "Nutzen Sie das Parkhaus am Staatstheater (Cluster D).",
             "hu": "Használja a Staatstheater parkolóházát (D klaszter).",
             "ro": "Folosiți parcarea de la Staatstheater (Cluster D).",
-            "en": "Use the parking garage at the State Theatre (Cluster D)."
+            "en": "Use the parking garage at the State Theatre (Cluster D).",
+            "tr": "Devlet Tiyatrosu'ndaki otopark garajını kullanın (Cluster D)."
           }
         },
         {
@@ -689,7 +720,8 @@
             "de": "Nur 3 Min. zu Fuß vom Markt (Cluster D).",
             "hu": "Csak 3 perc séta a piactértől (D klaszter).",
             "ro": "La doar 3 minute de mers de la piață (Cluster D).",
-            "en": "Just 3 min walk from the market (Cluster D)."
+            "en": "Just 3 min walk from the market (Cluster D).",
+            "tr": "Pazardan sadece 3 dakika yürüme mesafesi (Cluster D)."
           }
         }
       ],
@@ -697,7 +729,8 @@
         "de": "Entdecken Sie Saarbrücken bequem mit dem Auto in vier Etappen. Zuerst erkunden Sie das barocke Ensemble um die Ludwigskirche und das Schloss zu Fuß. Danach fahren Sie zum weitläufigen Deutsch-Französischen Garten. Die dritte Station ist der idyllische Stadtteil St. Arnual mit seiner gotischen Stiftskirche. Zum Abschluss parken Sie zentral und genießen das Flair am St. Johanner Markt und die Basilika.",
         "hu": "Fedezze fel Saarbrückent autóval, négy klaszterre osztva. Először a Ludwigskirche és a kastély környékét járjuk be gyalog (A klaszter). Ezután átgurulunk a Német-Francia Kertbe egy hosszabb sétára. A harmadik megálló St. Arnual falusias központja. Végül a belvárosban parkolunk le, hogy felfedezzük a St. Johanner Markt nyüzsgését és a bazilikát.",
         "ro": "Descoperiți Saarbrücken confortabil cu mașina, în patru etape. Mai întâi, explorați ansamblul baroc din jurul Ludwigskirche și castelul la pas. Apoi, conduceți către Grădina Germano-Franceză pentru o plimbare relaxantă. A treia oprire este cartierul idilic St. Arnual. La final, parcați în centru pentru a vă bucura de atmosfera din St. Johanner Markt și de bazilică.",
-        "en": "Explore Saarbrücken comfortably by car in four main clusters. First, discover the Baroque ensemble around Ludwigskirche and the Castle on foot. Next, drive to the expansive German-French Garden. The third stop is the idyllic St. Arnual district with its Gothic collegiate church. Finally, park centrally to enjoy the flair of St. Johanner Markt and the nearby Basilica."
+        "en": "Explore Saarbrücken comfortably by car in four main clusters. First, discover the Baroque ensemble around Ludwigskirche and the Castle on foot. Next, drive to the expansive German-French Garden. The third stop is the idyllic St. Arnual district with its Gothic collegiate church. Finally, park centrally to enjoy the flair of St. Johanner Markt and the nearby Basilica.",
+        "tr": "Saarbrücken'i arabayla 4 ana kümede rahatça keşfedin. Önce Ludwigskirche çevresindeki Barok topluluğunu ve Kaleyi yaya olarak keşfedin. Sonra geniş Alman-Fransız Bahçesi'ne sürün. Üçüncü durak gotik kolejiyle huzurlu St. Arnual mahallesi. Son olarak, St. Johanner Markt ve yakınlarındaki Bazilika'nın tadını çıkarmak için merkezi bir yere park edin."
       },
       "gastro_picks": {
         "de": [
@@ -857,6 +890,12 @@
           "City center parking garages are expensive; consider P+R options.",
           "The A620 city highway can be very busy during rush hour.",
           "Parking at St. Johanner Markt is difficult; use nearby garages."
+        ],
+        "tr": [
+          "Saarbrücken için yeşil çevre rozeti (Umweltzone) gereklidir.",
+          "Şehir merkezi otopark garajları pahalıdır; P+R seçeneklerini düşünün.",
+          "A620 şehir otoyolu yoğun saatlerde çok kalabalık olabilir.",
+          "St. Johanner Markt'ta park etmek zordur; yakınlardaki garajları kullanın."
         ]
       }
     },
@@ -883,7 +922,8 @@
             "de": "Haltestelle: Johanneskirche (Saarbahn S1).",
             "hu": "Megálló: Johanneskirche (Saarbahn S1).",
             "ro": "Stația: Johanneskirche (Saarbahn S1).",
-            "en": "Stop: Johanneskirche (Saarbahn S1)."
+            "en": "Stop: Johanneskirche (Saarbahn S1).",
+            "tr": "Durak: Johanneskirche (Saarbahn S1)."
           }
         },
         {
@@ -901,7 +941,8 @@
             "de": "3 Min. zu Fuß vom Markt (Cluster A).",
             "hu": "3 perc séta a piactértől (A klaszter).",
             "ro": "3 minute de mers de la piață (Cluster A).",
-            "en": "3 min walk from the market (Cluster A)."
+            "en": "3 min walk from the market (Cluster A).",
+            "tr": "Pazar yerinden 3 dakikalık yürüme mesafesinde (Küme A)."
           }
         },
         {
@@ -919,7 +960,8 @@
             "de": "Bus 108 oder 128 bis St. Arnual Markt (Cluster B).",
             "hu": "108-as vagy 128-as busz St. Arnual Marktig (B klaszter).",
             "ro": "Autobuz 108 sau 128 până la St. Arnual Markt (Cluster B).",
-            "en": "Bus 108 or 128 to St. Arnual Markt (Cluster B)."
+            "en": "Bus 108 or 128 to St. Arnual Markt (Cluster B).",
+            "tr": "St. Arnual Markt’e otobüs 108 veya 128 ile (Küme B)."
           }
         },
         {
@@ -937,7 +979,8 @@
             "de": "Bus 126 direkt zum Haupteingang DFG (Cluster C).",
             "hu": "126-os busz közvetlenül a DFG főbejáratához (C klaszter).",
             "ro": "Autobuz 126 direct la intrarea principală DFG (Cluster C).",
-            "en": "Bus 126 directly to the main DFG entrance (Cluster C)."
+            "en": "Bus 126 directly to the main DFG entrance (Cluster C).",
+            "tr": "Ana DFG girişine direkt otobüs 126 ile (Küme C)."
           }
         },
         {
@@ -955,7 +998,8 @@
             "de": "Haltestelle: Schlossplatz (Cluster D).",
             "hu": "Megálló: Schlossplatz (D klaszter).",
             "ro": "Stația: Schlossplatz (Cluster D).",
-            "en": "Stop: Schlossplatz (Cluster D)."
+            "en": "Stop: Schlossplatz (Cluster D).",
+            "tr": "Durak: Schlossplatz (Küme D)."
           }
         },
         {
@@ -973,7 +1017,8 @@
             "de": "8 Min. zu Fuß vom Schloss (Cluster D).",
             "hu": "8 perc séta a kastélytól (D klaszter).",
             "ro": "8 minute de mers de la castel (Cluster D).",
-            "en": "8 min walk from the castle (Cluster D)."
+            "en": "8 min walk from the castle (Cluster D).",
+            "tr": "Kale’den 8 dakikalık yürüme mesafesinde (Küme D)."
           }
         }
       ],
@@ -981,7 +1026,8 @@
         "de": "Mit der Saarbahn und Bussen erreichen Sie alle Highlights mühelos. Beginnen Sie im Herzen von St. Johann am Markt. Ein kurzer Bustransfer bringt Sie in das malerische St. Arnual. Weiter geht es zum Deutsch-Französischen Garten, ideal für eine ausgiebige Mittagspause. Am Nachmittag bringt Sie der Bus zurück zum Schlossplatz, von wo aus Sie das Schloss und die Ludwigskirche bequem zu Fuß erkunden.",
         "hu": "A Saarbahn és a helyi buszok segítségével kényelmesen elérheti a város minden pontját. Kezdje a reggelt St. Johann szívében, a piacon. Egy rövid buszozással érje el St. Arnual festői negyedét. Ezután a Német-Francia Kert következik, amely ideális a déli pihenőhöz. Délután busszal térjen vissza a Schlossplatzra, ahonnan a vár és a Ludwigskirche sétatávolságra van.",
         "ro": "Cu ajutorul Saarbahn și al autobuzelor, puteți vizita toate atracțiile principale. Începeți în inima St. Johann, în piață. Un scurt transfer cu autobuzul vă duce în pitorescul cartier St. Arnual. Continuați spre Grădina Germano-Franceză pentru o pauză de prânz. După-amiaza, reveniți cu autobuzul la Schlossplatz, de unde puteți explora castelul și Ludwigskirche pe jos.",
-        "en": "Using the Saarbahn and local buses, you can effortlessly reach all the city's highlights. Start in the heart of St. Johann at the market square. A quick bus ride takes you to the picturesque St. Arnual district. Continue to the German-French Garden, perfect for an extended midday break. In the afternoon, take the bus back to Schlossplatz, from where you can explore the castle and Ludwigskirche on foot."
+        "en": "Using the Saarbahn and local buses, you can effortlessly reach all the city's highlights. Start in the heart of St. Johann at the market square. A quick bus ride takes you to the picturesque St. Arnual district. Continue to the German-French Garden, perfect for an extended midday break. In the afternoon, take the bus back to Schlossplatz, from where you can explore the castle and Ludwigskirche on foot.",
+        "tr": "Saarbahn ve yerel otobüsleri kullanarak şehrin tüm önemli noktalarına zahmetsizce ulaşabilirsiniz. Gezilere St. Johann’ın kalbi olan pazar meydanından başlayın. Kısa bir otobüs yolculuğu sizi resmedilmeye değer St. Arnual semtine götürür. Ardından öğle arası için ideal olan Alman-Fransız Bahçesi’ne devam edin. Öğleden sonra Schlossplatz’a otobüsle dönüp kaleyi ve Ludwigskirche’yi yürüyerek keşfedebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1141,6 +1187,12 @@
           "The Saarbahn S1 connects the main station with the city center.",
           "Use the 'SaarVV' app for live departure times.",
           "In the city center, buses run every 10-15 minutes."
+        ],
+        "tr": [
+          "Tüm şehir bölgesi için günlük bilet alın.",
+          "Saarbahn S1 ana istasyonu şehir merkezine bağlar.",
+          "Canlı kalkış saatleri için 'SaarVV' uygulamasını kullanın.",
+          "Şehir merkezinde otobüsler her 10-15 dakikada bir sefer yapar."
         ]
       }
     }

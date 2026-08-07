@@ -31,7 +31,8 @@
             "de": "Besuchen Sie den Marktplatz für die besten Fotomotive der Fachwerkhäuser.",
             "hu": "A piactéren készíthetjük a legjobb fotókat a jellegzetes favázas házakról.",
             "ro": "Vizitați piața centrală pentru cele mai bune fotografii cu casele tradiționale.",
-            "en": "Visit the market square for the best photo opportunities of the half-timbered houses."
+            "en": "Visit the market square for the best photo opportunities of the half-timbered houses.",
+            "tr": "Çerçeveli ahşap evlerin en iyi fotoğrafları için pazar meydanını ziyaret edin."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Die Besteck-Sammlung im ehemaligen Klosterbau ist weltweit einzigartig.",
             "hu": "Az egykori kolostorépületben található evőeszköz-gyűjtemény világszinten egyedülálló.",
             "ro": "Colecția de tacâmuri din fosta mănăstire este unică în lume.",
-            "en": "The cutlery collection in the former monastery building is unique worldwide."
+            "en": "The cutlery collection in the former monastery building is unique worldwide.",
+            "tr": "Eski manastır binasındaki çatal-bıçak koleksiyonu dünya çapında eşsizdir."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Futter für die Erdmännchen gibt es direkt am Eingang zu kaufen.",
             "hu": "A szurikáták számára alkalmas eledelt közvetlenül a bejáratnál vásárolhatunk.",
             "ro": "Hrana pentru suricate poate fi cumpărată direct de la intrare.",
-            "en": "Food for the meerkats can be purchased right at the entrance."
+            "en": "Food for the meerkats can be purchased right at the entrance.",
+            "tr": "Surikatlar için gerekli yiyeceği girişte satın alabilirsiniz."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Beachten Sie die moderne Architektur nach dem Wiederaufbau nach 1945.",
             "hu": "Figyeljük meg az 1945 utáni újjáépítés modern építészeti jegyeit.",
             "ro": "Observați arhitectura modernă rezultată în urma reconstrucției de după 1945.",
-            "en": "Note the modern architecture from the post-1945 reconstruction."
+            "en": "Note the modern architecture from the post-1945 reconstruction.",
+            "tr": "1945 sonrası yeniden yapılanmanın modern mimarisine dikkat edin."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Schauen Sie bei den Live-Schmiedevorführungen in der Gesenkschmiede Hendrichs zu.",
             "hu": "Nézzük meg az élő kovácsbemutatókat a Hendrichs süllyesztékes kovácsműhelyben.",
             "ro": "Urmăriți demonstrațiile live de forjare în atelierul Hendrichs.",
-            "en": "Watch the live forging demonstrations at the Hendrichs drop forge."
+            "en": "Watch the live forging demonstrations at the Hendrichs drop forge.",
+            "tr": "Hendrichs döverinde canlı dövme gösterilerini izleyin."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Morgens erkunden wir das malerische Gräfrath mit seinen Schieferhäusern und besuchen das weltberühmte Klingenmuseum. Mittags spazieren wir durch den Tierpark Fauna und genießen die Ruhe im Grünen. Nachmittags widmen wir uns der Industriegeschichte in der ehemaligen Gesenkschmiede. Der Abend klingt in der Solinger Innenstadt bei lokaler Gastronomie aus.",
         "hu": "Reggel a festői Gräfrath negyedet fedezzük fel palafalú házaival, és meglátogatjuk a világhírű Késmúzeumot. Délben a Fauna állatkertben sétálunk, élvezve a zöld környezetet. Délután a város ipari múltjával ismerkedünk egy egykori kovácsműhelyben. Az estét Solingen belvárosában zárjuk a helyi vendéglátóhelyek egyikében.",
         "ro": "Dimineața explorăm pitorescul cartier Gräfrath cu casele sale acoperite cu ardezie și vizităm celebrul Muzeu al Lamelor. La prânz ne plimbăm prin parcul zoo Fauna, bucurându-ne de liniște. După-amiaza ne dedicăm istoriei industriale într-o fostă forjă. Seara se încheie în centrul orașului Solingen, degustând preparate locale.",
-        "en": "In the morning, we explore picturesque Gräfrath with its slate-clad houses and visit the world-famous Blade Museum. At noon, we stroll through the Fauna animal park and enjoy the green surroundings. In the afternoon, we dive into industrial history at a former drop forge. The evening concludes in Solingen city center with local gastronomy."
+        "en": "In the morning, we explore picturesque Gräfrath with its slate-clad houses and visit the world-famous Blade Museum. At noon, we stroll through the Fauna animal park and enjoy the green surroundings. In the afternoon, we dive into industrial history at a former drop forge. The evening concludes in Solingen city center with local gastronomy.",
+        "tr": "Sabahları Gräfrath'ın kiremit kaplı evleri arasında gezip dünya çapında ünlü Bıçak Müzesi'ni ziyaret ediyoruz. Öğlen Fauna hayvan parkında yeşil çevrede geziniyoruz. Öğleden sonra eski bir döverde sanayi tarihine dalıyoruz. Akşam, yerel mutfakla Solingen şehir merkezinde sona eriyor."
       },
       "gastro_picks": {
         "de": [
@@ -239,6 +245,12 @@
           "The city is hilly, so allow generous time for walking.",
           "Many museums are closed on Mondays.",
           "Be sure to try the local waffles with cherries."
+        ],
+        "tr": [
+          "Gräfrath'taki taş döşeli sokaklar için rahat ayakkabılar giyin.",
+          "Şehir engebelidir, yürüyüş için bol zaman ayırın.",
+          "Birçok müze pazartesi günü kapalıdır.",
+          "Yerel vişneli waffle'ları mutlaka deneyin."
         ]
       }
     },
@@ -265,7 +277,8 @@
             "de": "Fahren Sie mit der Schwebefähre über die Wupper im Brückenpark.",
             "hu": "Próbáljuk ki a drótkötélpályás kompot a Wupper felett a híd alatti parkban.",
             "ro": "Folosiți bacul suspendat peste râul Wupper în parcul podului.",
-            "en": "Ride the suspension ferry across the Wupper in the bridge park."
+            "en": "Ride the suspension ferry across the Wupper in the bridge park.",
+            "tr": "Köprü parkında asma feribotla Wupper nehrini geçin."
           }
         },
         {
@@ -283,7 +296,8 @@
             "de": "Die Seilbahn spart den steilen Anstieg mit dem Fahrrad nach Oberburg.",
             "hu": "A libegővel megspórolhatjuk a meredek kerékpáros emelkedőt Oberburgba.",
             "ro": "Telescaunul vă scutește de urcarea abruptă cu bicicleta spre Oberburg.",
-            "en": "The cable car saves you the steep climb by bike to Oberburg."
+            "en": "The cable car saves you the steep climb by bike to Oberburg.",
+            "tr": "Teleferik bisikletle Oberburg'a dik tırmanışı kurtarır."
           }
         },
         {
@@ -301,7 +315,8 @@
             "de": "Der letzte funktionierende Schleifkotten an der Wupper bietet tolle Einblicke.",
             "hu": "A Wupper menti utolsó működő köszörűműhely bepillantást enged a múltba.",
             "ro": "Ultimul atelier de șlefuire funcțional de pe Wupper oferă perspective uimitoare.",
-            "en": "The last working grinding shop on the Wupper offers great insights."
+            "en": "The last working grinding shop on the Wupper offers great insights.",
+            "tr": "Wupper'daki son çalışan öğütme atölyesi büyük içgörüler sunar."
           }
         },
         {
@@ -319,7 +334,8 @@
             "de": "Ein idyllischer Stopp direkt am Flusslauf, ideal für eine Trinkpause.",
             "hu": "Idilli megálló közvetlenül a folyóparton, ideális egy frissítő pihenőhöz.",
             "ro": "O oprire idilică direct pe malul râului, ideală pentru o pauză.",
-            "en": "An idyllic stop right by the river, ideal for a hydration break."
+            "en": "An idyllic stop right by the river, ideal for a hydration break.",
+            "tr": "Nehir kenarında sakin bir mola yeri, su molası için ideal."
           }
         },
         {
@@ -337,7 +353,8 @@
             "de": "Ein kleiner, familiärer Park im Stadtteil Ohligs.",
             "hu": "Kicsi, családias hangulatú park Ohligs városrészben.",
             "ro": "Un parc mic și familial în cartierul Ohligs.",
-            "en": "A small, family-oriented park in the Ohligs district."
+            "en": "A small, family-oriented park in the Ohligs district.",
+            "tr": "Ohligs semtinde küçük, aile odaklı bir park."
           }
         }
       ],
@@ -345,7 +362,8 @@
         "de": "Diese Radtour führt uns durch das bergige Gelände zu den spektakulärsten Bauwerken Solingens. Wir starten an der höchsten Eisenbahnbrücke Deutschlands und radeln weiter zur imposanten Burganlage. Entlang der Wupper entdecken wir historische Schleifkotten, die noch heute von der alten Handwerkstradition zeugen. Ein Besuch im Vogelpark Ohligs rundet die Tour ab, bevor wir zurückkehren.",
         "hu": "Ez a kerékpártúra a hegyvidéki terepen át Solingen leglátványosabb építményeihez vezet. Németország legmagasabb vasúti hídjánál kezdünk, majd a lenyűgöző várkastélyhoz tekerünk. A Wupper mentén történelmi köszörűműhelyeket fedezünk fel, amelyek ma is őrizik a régi kézműves hagyományokat. Az Ohligs-i madárpark meglátogatása teszi teljessé a túrát.",
         "ro": "Acest tur cu bicicleta ne poartă prin terenul muntos către cele mai spectaculoase structuri din Solingen. Începem de la cel mai înalt pod feroviar din Germania și pedalăm spre impunătorul castel. De-a lungul râului Wupper descoperim ateliere istorice de șlefuire care depun mărturie despre vechea tradiție artizanală. O vizită la parcul de păsări încheie turul.",
-        "en": "This bike tour takes us through hilly terrain to Solingen's most spectacular structures. We start at Germany's highest railway bridge and cycle to the imposing castle. Along the Wupper, we discover historical grinding shops that still testify to the old craft tradition. A visit to the Ohligs bird park completes the tour before we return."
+        "en": "This bike tour takes us through hilly terrain to Solingen's most spectacular structures. We start at Germany's highest railway bridge and cycle to the imposing castle. Along the Wupper, we discover historical grinding shops that still testify to the old craft tradition. A visit to the Ohligs bird park completes the tour before we return.",
+        "tr": "Bu bisiklet turu bizi engebeli araziden Solingen'in en etkileyici yapılarına götürüyor. Almanya'nın en yüksek demiryolu köprüsünden başlayıp görkemli kaleye pedal çeviriyoruz. Wupper boyunca hala eski zanaat geleneğini gösteren tarihî öğütme atölyelerini keşfediyoruz. Tur, Ohligs kuş parkı ziyaretiyle tamamlanıp geri dönüş yapılır."
       },
       "gastro_picks": {
         "de": [
@@ -469,6 +487,12 @@
           "An e-bike is recommended for this tour in the Bergisches Land.",
           "Bike paths along the Wupper can be slippery after rain.",
           "Use the bike transport on the S-Bahn to Schaberg station."
+        ],
+        "tr": [
+          "Rota iyi bir temel kondisyona gereksinim duyar (çok sayıda tırmanış).",
+          "Bergisches Land turu için e-bisiklet önerilir.",
+          "Wupper boyunca bisiklet yolları yağmur sonrası kaygan olabilir.",
+          "S-Bahn'da bisiklet taşımayı kullanarak Schaberg istasyonuna gidin."
         ]
       }
     },
@@ -495,7 +519,8 @@
             "de": "Parken Sie auf dem Brandteich-Parkplatz am Rande des historischen Kerns.",
             "hu": "Parkoljunk a Brandteich parkolóban a történelmi központ szélén.",
             "ro": "Parcați în parcarea Brandteich de la marginea nucleului istoric.",
-            "en": "Park at the Brandteich parking lot on the edge of the historic core."
+            "en": "Park at the Brandteich parking lot on the edge of the historic core.",
+            "tr": "Tarihî çekirdeğin kenarında Brandteich otoparkına park edin."
           }
         },
         {
@@ -513,7 +538,8 @@
             "de": "Das Kindermuseum 'Klingenprinz' ist ideal für junge Besucher.",
             "hu": "A 'Klingenprinz' gyermekmúzeum ideális a fiatal látogatók számára.",
             "ro": "Muzeul pentru copii 'Klingenprinz' este ideal pentru micii vizitatori.",
-            "en": "The 'Klingenprinz' children's museum is ideal for young visitors."
+            "en": "The 'Klingenprinz' children's museum is ideal for young visitors.",
+            "tr": "'Klingenprinz' çocuk müzesi küçük ziyaretçiler için ideal."
           }
         },
         {
@@ -531,7 +557,8 @@
             "de": "Im Museumsshop gibt es oft Sonderverkäufe von Solinger Herstellern.",
             "hu": "A múzeumi boltban gyakran van solingeni gyártók akciós vására.",
             "ro": "În magazinul muzeului există adesea vânzări speciale ale producătorilor locali.",
-            "en": "The museum shop often has special sales from Solingen manufacturers."
+            "en": "The museum shop often has special sales from Solingen manufacturers.",
+            "tr": "Müze dükkanı sıklıkla Solingen üreticilerinin özel indirimlerine sahiptir."
           }
         },
         {
@@ -549,7 +576,8 @@
             "de": "Großer Wanderparkplatz an der B229 vorhanden, von dort kurzer Fußweg.",
             "hu": "Nagy kirándulóparkoló található a B229-es út mentén, onnan rövid séta.",
             "ro": "Există o parcare mare pe B229, de unde se ajunge repede pe jos.",
-            "en": "Large hikers' parking lot available on the B229, short walk from there."
+            "en": "Large hikers' parking lot available on the B229, short walk from there.",
+            "tr": "B229 üzerinde büyük bir yürüyüşçü otoparkı var, oradan kısa bir yürüyüşle ulaşılır."
           }
         },
         {
@@ -567,7 +595,8 @@
             "de": "Besuchen Sie die restaurierte Kapelle und den Rittersaal.",
             "hu": "Látogassuk meg a felújított kápolnát és a lovagtermet.",
             "ro": "Vizitați capela restaurată și sala cavalerilor.",
-            "en": "Visit the restored chapel and the knights' hall."
+            "en": "Visit the restored chapel and the knights' hall.",
+            "tr": "Restore edilmiş şapeli ve şövalyeler salonunu ziyaret edin."
           }
         }
       ],
@@ -575,7 +604,8 @@
         "de": "Mit dem Auto verbinden wir die weit verstreuten Highlights Solingens effizient. Wir beginnen im Norden im beschaulichen Gräfrath, besuchen das Klingenmuseum und fahren dann quer durch die Stadt zum Industriemuseum. Der Nachmittag gehört den beiden Wahrzeichen im Südosten: der gigantischen Müngstener Brücke und der historischen Schloss Burg, die majestätisch über der Wupper thront.",
         "hu": "Autóval hatékonyan köthetjük össze Solingen egymástól távol eső látnivalóit. Északon, a békés Gräfrathban kezdünk, megnézzük a Késmúzeumot, majd átvágunk a városon az Ipari Múzeumhoz. A délutánt a délkeleti rész két jelképének szenteljük: a gigantikus Müngstener hídnak és a történelmi Schloss Burg várnak, amely fenségesen magasodik a Wupper fölé.",
         "ro": "Cu mașina conectăm eficient punctele de atracție dispersate ale orașului Solingen. Începem în nord, în liniștitul Gräfrath, vizităm Muzeul Lamelor și apoi traversăm orașul către Muzeul Industriei. După-amiaza aparține celor două simboluri din sud-est: gigantul pod Müngstener și istoricul castel Schloss Burg, care tronează maiestuos deasupra râului.",
-        "en": "By car, we efficiently connect Solingen's widely scattered highlights. We start in the north in tranquil Gräfrath, visit the Blade Museum, and then drive across town to the Industrial Museum. The afternoon belongs to the two landmarks in the southeast: the gigantic Müngstener Bridge and historical Schloss Burg, which towers majestically over the Wupper."
+        "en": "By car, we efficiently connect Solingen's widely scattered highlights. We start in the north in tranquil Gräfrath, visit the Blade Museum, and then drive across town to the Industrial Museum. The afternoon belongs to the two landmarks in the southeast: the gigantic Müngstener Bridge and historical Schloss Burg, which towers majestically over the Wupper.",
+        "tr": "Araba ile Solingen'in genişçe dağılmış öne çıkan noktalarını verimli şekilde bağlıyoruz. Kuzeyde sakin Gräfrath'ta başlayıp Bıçak Müzesi'ni ziyaret ediyor, sonra sanayi müzesine doğru şehir çapında ilerliyoruz. Öğleden sonra güneydoğudaki iki simgeye ayırıyoruz: devasa Müngstener Köprüsü ve Wupper üzerinde görkemle yükselen tarihî Schloss Burg."
       },
       "gastro_picks": {
         "de": [
@@ -699,6 +729,12 @@
           "Use the well-developed country roads between the districts.",
           "Combine the bridge visit with a short hike.",
           "Watch out for speed cameras in the 30 km/h zones downtown."
+        ],
+        "tr": [
+          "Kale etrafındaki otoparklar hafta sonları sıkça doludur.",
+          "Semtler arası iyi gelişmiş devlet yollarını kullanın.",
+          "Köprü ziyaretini kısa bir yürüyüşle kombine edin.",
+          "Şehir merkezindeki 30 km/sa hız limitli bölgelerde radar tuzaklarına dikkat edin."
         ]
       }
     },
@@ -725,7 +761,8 @@
             "de": "Linie 683 verbindet Gräfrath direkt mit der Innenstadt und Burg.",
             "hu": "A 683-as trolibusz közvetlenül összeköti Gräfrath-ot a belvárossal és a várral.",
             "ro": "Linia 683 face legătura directă între Gräfrath, centru și castel.",
-            "en": "Line 683 connects Gräfrath directly with the city center and the castle."
+            "en": "Line 683 connects Gräfrath directly with the city center and the castle.",
+            "tr": "683 hattı Gräfrath'ı doğrudan şehir merkezi ve kale ile bağlar."
           }
         },
         {
@@ -743,7 +780,8 @@
             "de": "Haltestelle 'Industriemuseum' liegt nur wenige Meter vom Eingang entfernt.",
             "hu": "Az 'Industriemuseum' megálló csak pár méterre van a bejárattól.",
             "ro": "Stația 'Industriemuseum' se află la doar câțiva metri de intrare.",
-            "en": "The 'Industriemuseum' stop is just a few meters from the entrance."
+            "en": "The 'Industriemuseum' stop is just a few meters from the entrance.",
+            "tr": "'Industriemuseum' durağı girişten sadece birkaç metre uzaklıktadır."
           }
         },
         {
@@ -761,7 +799,8 @@
             "de": "Der zentrale Knotenpunkt 'Graf-Wilhelm-Platz' ist direkt nebenan.",
             "hu": "A központi csomópont, a 'Graf-Wilhelm-Platz' közvetlenül mellette van.",
             "ro": "Nodul central 'Graf-Wilhelm-Platz' este chiar alături.",
-            "en": "The central hub 'Graf-Wilhelm-Platz' is right next door."
+            "en": "The central hub 'Graf-Wilhelm-Platz' is right next door.",
+            "tr": "Merkezi merkez 'Graf-Wilhelm-Platz' hemen yanı başındadır."
           }
         },
         {
@@ -779,7 +818,8 @@
             "de": "Nehmen Sie die S7 bis Schaberg für den besten Zugang zur Brücke.",
             "hu": "Az S7-es vonattal Schaberg állomásig utazzon a legjobb megközelítéshez.",
             "ro": "Luați trenul S7 până la Schaberg pentru cel mai bun acces la pod.",
-            "en": "Take the S7 train to Schaberg for the best access to the bridge."
+            "en": "Take the S7 train to Schaberg for the best access to the bridge.",
+            "tr": "Köprüye en iyi erişim için S7 trenine binip Schaberg'e gidin."
           }
         },
         {
@@ -797,7 +837,8 @@
             "de": "Die Obus-Linie 683 fährt bis zur Haltestelle 'Burger Bahnhof'.",
             "hu": "A 683-as trolibusz a 'Burger Bahnhof' megállóig közlekedik.",
             "ro": "Linia de troleibuz 683 merge până la stația 'Burger Bahnhof'.",
-            "en": "Trolleybus line 683 runs to the 'Burger Bahnhof' stop."
+            "en": "Trolleybus line 683 runs to the 'Burger Bahnhof' stop.",
+            "tr": "Trolleybus hattı 683 'Burger Bahnhof' durağına gider."
           }
         }
       ],
@@ -805,7 +846,8 @@
         "de": "Mit dem Solinger Oberleitungsbus, einem der letzten Systeme Deutschlands, erkunden wir die Stadt umweltfreundlich. Von der historischen Altstadt Gräfrath geht es zum Industriemuseum und weiter ins Stadtzentrum. Ein besonderes Highlight ist die Fahrt mit der Müngstener Brückenbahn (S7), die uns direkt zur gewaltigen Brücke bringt. Zum Abschluss führt uns der Obus nach Burg zur festlichen Burganlage.",
         "hu": "Solingen trolibuszhálózatával – amely az egyik utolsó Németországban – környezetbarát módon fedezzük fel a várost. A történelmi Gräfrathból az Ipari Múzeumba, majd a városközpontba utazunk. Különleges élmény a Müngstener Brückenbahn (S7) vasút, amely közvetlenül a hatalmas hídhoz visz. Végül a trolival Burgba megyünk a várkastélyhoz.",
         "ro": "Cu troleibuzul din Solingen, unul dintre ultimele sisteme de acest gen din Germania, explorăm orașul ecologic. Din centrul istoric Gräfrath mergem la Muzeul Industriei și apoi în centrul orașului. Un punct culminant este călătoria cu trenul S7, care ne duce direct la podul uriaș. La final, troleibuzul ne poartă spre Burg, la impunătorul castel.",
-        "en": "With the Solingen trolleybus, one of the last systems in Germany, we explore the city in an eco-friendly way. From historic Gräfrath, we head to the Industrial Museum and then to the city center. A special highlight is the ride on the Müngstener Bridge Railway (S7), which takes us directly to the massive bridge. Finally, the trolleybus leads us to Burg for the festive castle."
+        "en": "With the Solingen trolleybus, one of the last systems in Germany, we explore the city in an eco-friendly way. From historic Gräfrath, we head to the Industrial Museum and then to the city center. A special highlight is the ride on the Müngstener Bridge Railway (S7), which takes us directly to the massive bridge. Finally, the trolleybus leads us to Burg for the festive castle.",
+        "tr": "Almanya'daki son sistemlerden biri olan Solingen troleybüsüyle şehri çevrecilik odaklı keşfediyoruz. Tarihi Gräfrath'tan Sanayi Müzesi'ne, oradan şehir merkezine gidiyoruz. Özel bir vurgusu Müngstener Köprüsü Demiryolu (S7) yolculuğudur; bu hat bizi doğrudan devasa köprüye götürür. Son olarak troleybüs Burg'a, şenlikli kaleye kadar götürür."
       },
       "gastro_picks": {
         "de": [
@@ -929,6 +971,12 @@
           "The trolleybuses run very quietly, watch out when crossing the street.",
           "Buses run less frequently on weekends, check the timetable.",
           "Graf-Wilhelm-Platz is the main transfer point."
+        ],
+        "tr": [
+          "Tüm şehir bölgesi için günlük bilet satın alın.",
+          "Troleybüsler çok sessiz çalışır, yolun karşısına geçerken dikkatli olun.",
+          "Otobüsler hafta sonları daha seyrek çalışır, tarifeyi kontrol edin.",
+          "Graf-Wilhelm-Platz ana aktarma noktasıdır."
         ]
       }
     }

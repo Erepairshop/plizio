@@ -3,55 +3,64 @@
     "de": "Am Dom 1, 28195 Bremen",
     "hu": "Am Dom 1, 28195 Bréma",
     "ro": "Am Dom 1, 28195 Bremen",
-    "en": "Am Dom 1, 28195 Bremen"
+    "en": "Am Dom 1, 28195 Bremen",
+    "tr": "Am Dom 1, 28195 Bremen"
   },
   "openingHours": {
     "de": "Mo-Fr 10:00-18:00, Sa 10:00-14:00, So 14:00-18:00",
     "hu": "H-P 10:00-18:00, Szo 10:00-14:00, V 14:00-18:00",
     "ro": "Lu-Vi 10:00-18:00, Sâm 10:00-14:00, Dum 14:00-18:00",
-    "en": "Mon-Fri 10:00-18:00, Sat 10:00-14:00, Sun 14:00-18:00"
+    "en": "Mon-Fri 10:00-18:00, Sat 10:00-14:00, Sun 14:00-18:00",
+    "tr": "Pzt-Cum 10:00-18:00, Cmt 10:00-14:00, Paz 14:00-18:00"
   },
   "entranceFee": {
     "de": "Dom kostenlos, Dom-Museum und Bleikeller ca. 5,00 €",
     "hu": "A dóm ingyenes, a dóm múzeum és az ólompince kb. 5,00 €",
     "ro": "Domul gratuit, Muzeul Domului și pivnița Bleikeller aprox. 5,00 €",
-    "en": "Cathedral free, Cathedral Museum and Bleikeller approx. €5.00"
+    "en": "Cathedral free, Cathedral Museum and Bleikeller approx. €5.00",
+    "tr": "Katedral ücretsiz, Katedral Müzesi ve Bleikeller yaklaşık €5,00"
   },
   "website": "https://www.stpetridom.de",
   "publicTransport": {
     "de": "Straßenbahnlinien 2/3 bis Haltestelle Domsheide",
     "hu": "2-es/3-as villamos a Domsheide megállóig",
     "ro": "Liniile de tramvai 2/3 până la stația Domsheide",
-    "en": "Tram lines 2/3 to Domsheide stop"
+    "en": "Tram lines 2/3 to Domsheide stop",
+    "tr": "Tramvay hatları 2/3 ile Domsheide durağı"
   },
   "parking": {
     "de": "Parkhaus am Dom direkt gegenüber, ca. 2,50 € pro Stunde",
     "hu": "Parkolóház a dóm mellett, szemben, kb. 2,50 €/óra",
     "ro": "Parcare la Dom chiar vizavi, aprox. 2,50 € pe oră",
-    "en": "Parking garage at the cathedral directly opposite, approx. €2.50 per hour"
+    "en": "Parking garage at the cathedral directly opposite, approx. €2.50 per hour",
+    "tr": "Katedralin hemen karşısında otopark garajı, yaklaşık €2,50/saat"
   },
   "accessibility": {
     "de": "Kirchenschiff barrierefrei, Bleikeller und Turmbesteigung nicht zugänglich für Rollstuhlfahrer",
     "hu": "A templomhajó akadálymentes, az ólompince és a torony kerekesszékkel nem látogatható",
     "ro": "Nava bisericii accesibilă, pivnița și urcarea în turn nu sunt accesibile utilizatorilor de scaune cu rotile",
-    "en": "Church nave accessible, Bleikeller and tower ascent not accessible for wheelchair users"
+    "en": "Church nave accessible, Bleikeller and tower ascent not accessible for wheelchair users",
+    "tr": "Kilise nefi erişilebilir, Bleikeller ve kule çıkışı tekerlekli sandalye için erişilemez"
   },
   "photoRules": {
     "de": "Fotografieren ohne Blitz erlaubt, während der Gottesdienste untersagt",
     "hu": "Vakufény nélküli fotózás engedélyezett, istentisztelet alatt tilos",
     "ro": "Fotografierea fără bliț permisă, interzisă în timpul slujbelor",
-    "en": "Photography without flash allowed, prohibited during church services"
+    "en": "Photography without flash allowed, prohibited during church services",
+    "tr": "Flaşsız fotoğrafçılık izinli, kilise hizmetleri sırasında yasak"
   },
   "bestTimeToVisit": {
     "de": "Später Nachmittag, wenn das Licht durch die Westfenster in das Hauptschiff fällt",
     "hu": "Késő délután, amikor a fény a nyugati ablakokon keresztül besüt a főhajóba",
     "ro": "După-amiaza târziu, când lumina cade prin ferestrele de vest în nava principală",
-    "en": "Late afternoon, when light falls through the west windows into the main nave"
+    "en": "Late afternoon, when light falls through the west windows into the main nave",
+    "tr": "Batı pencerelerinden ışık ana nefe düştüğünde geç öğleden sonra"
   },
   "audioGuide": {
     "de": "ja, am Infostand gegen Gebühr erhältlich",
     "hu": "igen, az információs pultnál vásárolható meg",
     "ro": "da, disponibil la punctul de informare contra cost",
-    "en": "yes, available at the info desk for a fee"
+    "en": "yes, available at the info desk for a fee",
+    "tr": "evet, bilgi masasından ücret karşılığında temin edilebilir"
   }
 }

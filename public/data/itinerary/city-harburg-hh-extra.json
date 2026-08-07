@@ -21,7 +21,8 @@
             "de": "Harburger Rathaus",
             "hu": "Harburg-i városháza",
             "ro": "Primăria Harburg",
-            "en": "Harburg Town Hall"
+            "en": "Harburg Town Hall",
+            "tr": "Harburg Belediye Binası"
           },
           "coords": [
             9.9885,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die prächtige Renaissance-Fassade.",
             "hu": "Csodálja meg a pompás reneszánsz homlokzatot.",
             "ro": "Admirați fațada splendidă în stil Renaștere.",
-            "en": "Admire the magnificent Renaissance facade."
+            "en": "Admire the magnificent Renaissance facade.",
+            "tr": "Muhteşem Rönesans cephesini hayranlıkla izleyin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Helms-Museum",
             "hu": "Helms Múzeum",
             "ro": "Muzeul Helms",
-            "en": "Helms Museum"
+            "en": "Helms Museum",
+            "tr": "Helms Müzesi"
           },
           "coords": [
             9.9905,
@@ -59,7 +62,8 @@
             "de": "Archäologisches Museum Hamburg mit regionalen Funden.",
             "hu": "Hamburg Régészeti Múzeuma helyi leletekkel.",
             "ro": "Muzeul Arheologic din Hamburg cu descoperiri regionale.",
-            "en": "Hamburg Archaeological Museum with regional finds."
+            "en": "Hamburg Archaeological Museum with regional finds.",
+            "tr": "Bölgesel buluntularla Hamburg Arkeoloji Müzesi."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "St. Maria-Kirche",
             "hu": "Szent Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Azize Meryem Kilisesi"
           },
           "coords": [
             9.9842,
@@ -82,7 +87,8 @@
             "de": "Eine neugotische Perle im Herzen Harburgs.",
             "hu": "Neogótikus gyöngyszem Harburg szívében.",
             "ro": "O perlă neogotică în inima districtului Harburg.",
-            "en": "A neo-Gothic gem in the heart of Harburg."
+            "en": "A neo-Gothic gem in the heart of Harburg.",
+            "tr": "Harburg’un kalbinde neo-Gotik bir mücevher."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Lämmertwiete",
             "hu": "Lämmertwiete",
             "ro": "Lämmertwiete",
-            "en": "Lämmertwiete"
+            "en": "Lämmertwiete",
+            "tr": "Lämmertwiete"
           },
           "coords": [
             9.9862,
@@ -105,7 +112,8 @@
             "de": "Historische Fachwerkhäuser mit tollen Restaurants.",
             "hu": "Történelmi fagerendás házak kiváló éttermekkel.",
             "ro": "Case istorice cu pereți de lemn și restaurante grozave.",
-            "en": "Historic half-timbered houses with great restaurants."
+            "en": "Historic half-timbered houses with great restaurants.",
+            "tr": "Harika restoranları olan tarihi ahşap evler."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Binnenhafen Harburg",
             "hu": "Harburg-i belső kikötő",
             "ro": "Portul interior Harburg",
-            "en": "Harburg Inland Port"
+            "en": "Harburg Inland Port",
+            "tr": "Harburg İç Limanı"
           },
           "coords": [
             9.9875,
@@ -128,7 +137,8 @@
             "de": "Mix aus alter Industriearchitektur und Moderne.",
             "hu": "Régi ipari építészet és a modern világ találkozása.",
             "ro": "Mix de arhitectură industrială veche și modernism.",
-            "en": "Mix of old industrial architecture and modernity."
+            "en": "Mix of old industrial architecture and modernity.",
+            "tr": "Eski endüstriyel mimari ile modernitenin karışımı."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Harburger Schloss",
             "hu": "Harburg-i kastély",
             "ro": "Castelul Harburg",
-            "en": "Harburg Castle"
+            "en": "Harburg Castle",
+            "tr": "Harburg Kalesi"
           },
           "coords": [
             9.9895,
@@ -151,7 +162,8 @@
             "de": "Die Wiege Harburgs auf der Schlossinsel.",
             "hu": "Harburg bölcsője a Kastély-szigeten.",
             "ro": "Leagănul districtului Harburg pe insula castelului.",
-            "en": "The cradle of Harburg on the Castle Island."
+            "en": "The cradle of Harburg on the Castle Island.",
+            "tr": "Kale Adası’nda Harburg’un beşiği."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie am prächtigen Rathaus und tauchen Sie im Helms-Museum in die Geschichte ein. Nach einem Besuch der Marienkirche genießen Sie Ihr Mittagessen in der malerischen Lämmertwiete. Der Nachmittag gehört dem Hafenflair und dem historischen Schloss, dem ältesten Gebäude des Stadtteils.",
         "hu": "Kezdje a napot a pompás városházánál, majd merüljön el a történelemben a Helms Múzeumban. A Mária-templom meglátogatása után ebédeljen a festői Lämmertwiete fagerendás házai között. A délután a kikötői hangulaté és a történelmi kastélyé, amely a negyed legrégebbi épülete.",
         "ro": "Începeți la primăria splendidă și scufundați-vă în istorie la Muzeul Helms. După o vizită la Biserica Sfânta Maria, bucurați-vă de prânz în pitorescul Lämmertwiete. După-amiaza aparține atmosferei portuare și castelului istoric, cea mai veche clădire a cartierului.",
-        "en": "Start at the magnificent Town Hall and dive into history at the Helms Museum. After visiting St. Mary's Church, enjoy lunch in the picturesque Lämmertwiete. The afternoon belongs to the harbor flair and the historic castle, the oldest building in the district."
+        "en": "Start at the magnificent Town Hall and dive into history at the Helms Museum. After visiting St. Mary's Church, enjoy lunch in the picturesque Lämmertwiete. The afternoon belongs to the harbor flair and the historic castle, the oldest building in the district.",
+        "tr": "Muhteşem Belediye Binası’ndan başlayın ve Helms Müzesi’nde tarihe dalın. Azize Meryem Kilisesi’ni gezdikten sonra resmedilmeye değer Lämmertwiete’de öğle yemeğinin tadını çıkarın. Öğleden sonra liman atmosferi ve bölgenin en eski binası olan tarihi kale sizin olacak."
       },
       "gastro_picks": {
         "de": [
@@ -291,6 +304,10 @@
         "en": [
           "Harburg is hillier than the rest of Hamburg, wear comfortable shoes.",
           "The Lämmertwiete is especially lively in the evening."
+        ],
+        "tr": [
+          "Harburg şehrin geri kalanından daha engebelidir, rahat ayakkabılar giyin.",
+          "Lämmertwiete akşamları özellikle canlıdır."
         ]
       }
     },
@@ -307,7 +324,8 @@
             "de": "Harburger Rathaus",
             "hu": "Harburg-i városháza",
             "ro": "Primăria Harburg",
-            "en": "Harburg Town Hall"
+            "en": "Harburg Town Hall",
+            "tr": "Harburg Belediye Binası"
           },
           "coords": [
             9.9885,
@@ -322,7 +340,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Központi kiindulópont.",
             "ro": "Punct de plecare în centru.",
-            "en": "Starting point in the center."
+            "en": "Starting point in the center.",
+            "tr": "Merkezde başlangıç noktası."
           }
         },
         {
@@ -330,7 +349,8 @@
             "de": "Phoenix-Hallen",
             "hu": "Phoenix-csarnokok",
             "ro": "Phoenix-Hallen",
-            "en": "Phoenix Halls"
+            "en": "Phoenix Halls",
+            "tr": "Phoenix Salonları"
           },
           "coords": [
             9.9928,
@@ -345,7 +365,8 @@
             "de": "Kulturzentrum in alten Fabrikhallen.",
             "hu": "Kulturális központ régi gyárépületekben.",
             "ro": "Centru cultural în vechi hale de fabrică.",
-            "en": "Cultural center in old factory halls."
+            "en": "Cultural center in old factory halls.",
+            "tr": "Eski fabrika salonlarında kültür merkezi."
           }
         },
         {
@@ -353,7 +374,8 @@
             "de": "Außenmühle",
             "hu": "Außenmühle",
             "ro": "Außenmühle",
-            "en": "Außenmühle"
+            "en": "Außenmühle",
+            "tr": "Außenmühle"
           },
           "coords": [
             9.9855,
@@ -368,7 +390,8 @@
             "de": "Großer See und Park für eine entspannte Runde.",
             "hu": "Nagy tó és park egy pihentető körhöz.",
             "ro": "Lac mare și parc pentru o tură relaxantă.",
-            "en": "Large lake and park for a relaxed round."
+            "en": "Large lake and park for a relaxed round.",
+            "tr": "Rahat bir tur için büyük göl ve park."
           }
         },
         {
@@ -376,7 +399,8 @@
             "de": "Binnenhafen Harburg",
             "hu": "Harburg-i belső kikötő",
             "ro": "Portul interior Harburg",
-            "en": "Harburg Inland Port"
+            "en": "Harburg Inland Port",
+            "tr": "Harburg İç Limanı"
           },
           "coords": [
             9.9875,
@@ -391,7 +415,8 @@
             "de": "Radfahren entlang der Kanäle.",
             "hu": "Kerékpározás a csatornák mentén.",
             "ro": "Ciclism de-a lungul canalelor.",
-            "en": "Cycling along the canals."
+            "en": "Cycling along the canals.",
+            "tr": "Kanal boyunca bisiklet sürün."
           }
         },
         {
@@ -399,7 +424,8 @@
             "de": "Harburger Schloss",
             "hu": "Harburg-i kastély",
             "ro": "Castelul Harburg",
-            "en": "Harburg Castle"
+            "en": "Harburg Castle",
+            "tr": "Harburg Kalesi"
           },
           "coords": [
             9.9895,
@@ -414,7 +440,8 @@
             "de": "Abschluss auf der historischen Insel.",
             "hu": "Zárás a történelmi szigeten.",
             "ro": "Final pe insula istorică.",
-            "en": "Final stop on the historic island."
+            "en": "Final stop on the historic island.",
+            "tr": "Tarihi adada son durak."
           }
         }
       ],
@@ -422,7 +449,8 @@
         "de": "Diese Tour verbindet Industriekultur mit Natur. Vom Rathaus geht es zu den Phoenix-Hallen und dann zum idyllischen Außenmühlenteich. Über den Binnenhafen radeln Sie schließlich zum Harburger Schloss.",
         "hu": "Ez a túra összeköti az ipari kultúrát a természettel. A városházától a Phoenix-csarnokokhoz, majd az idilli Außenmühle-tóhoz tekerünk. A belső kikötőn keresztül végül a Harburg-i kastélyhoz érünk.",
         "ro": "Acest tur îmbină cultura industrială cu natura. De la primărie mergeți la Phoenix-Hallen și apoi la idilicul lac Außenmühle. Prin portul interior pedalați în cele din urmă spre Castelul Harburg.",
-        "en": "This tour combines industrial culture with nature. From the Town Hall, head to the Phoenix Halls and then to the idyllic Außenmühle lake. Cycle through the inland port to reach Harburg Castle."
+        "en": "This tour combines industrial culture with nature. From the Town Hall, head to the Phoenix Halls and then to the idyllic Außenmühle lake. Cycle through the inland port to reach Harburg Castle.",
+        "tr": "Bu tur endüstriyel kültürü doğayla birleştirir. Belediye Binası’ndan Phoenix Salonları’na, oradan da huzurlu Außenmühle gölüne gidin. İç liman boyunca pedal çevirerek Harburg Kalesi’ne ulaşın."
       },
       "gastro_picks": {
         "de": [
@@ -522,6 +550,10 @@
         "en": [
           "Use Veloroute 11 for the way to Harburg.",
           "Watch out for cobblestones in the harbor area."
+        ],
+        "tr": [
+          "Harburg’a giderken Veloroute 11’i kullanın.",
+          "Liman bölgesinde parke taşlarına dikkat edin."
         ]
       }
     },
@@ -538,7 +570,8 @@
             "de": "Harburger Rathaus",
             "hu": "Harburg-i városháza",
             "ro": "Primăria Harburg",
-            "en": "Harburg Town Hall"
+            "en": "Harburg Town Hall",
+            "tr": "Harburg Belediye Binası"
           },
           "coords": [
             9.9885,
@@ -553,7 +586,8 @@
             "de": "Parken in der Tiefgarage am Rathaus.",
             "hu": "Parkolás a városháza mélygarázsában.",
             "ro": "Parcare în garajul subteran de la primărie.",
-            "en": "Park in the underground garage at the Town Hall."
+            "en": "Park in the underground garage at the Town Hall.",
+            "tr": "Belediye Binası altındaki kapalı otoparka park edin."
           }
         },
         {
@@ -561,7 +595,8 @@
             "de": "Helms-Museum",
             "hu": "Helms Múzeum",
             "ro": "Muzeul Helms",
-            "en": "Helms Museum"
+            "en": "Helms Museum",
+            "tr": "Helms Müzesi"
           },
           "coords": [
             9.9905,
@@ -576,7 +611,8 @@
             "de": "Fußläufig vom Rathaus erreichbar.",
             "hu": "Gyalogosan elérhető a városházától.",
             "ro": "Accesibil pe jos de la primărie.",
-            "en": "Within walking distance from the Town Hall."
+            "en": "Within walking distance from the Town Hall.",
+            "tr": "Belediye Binası’na yürüme mesafesinde."
           }
         },
         {
@@ -584,7 +620,8 @@
             "de": "Lämmertwiete",
             "hu": "Lämmertwiete",
             "ro": "Lämmertwiete",
-            "en": "Lämmertwiete"
+            "en": "Lämmertwiete",
+            "tr": "Lämmertwiete"
           },
           "coords": [
             9.9862,
@@ -599,7 +636,8 @@
             "de": "Mittagessen im historischen Kern.",
             "hu": "Ebéd a történelmi magban.",
             "ro": "Prânz în centrul istoric.",
-            "en": "Lunch in the historic core."
+            "en": "Lunch in the historic core.",
+            "tr": "Tarihi merkezde öğle yemeği."
           }
         },
         {
@@ -607,7 +645,8 @@
             "de": "Binnenhafen Harburg",
             "hu": "Harburg-i belső kikötő",
             "ro": "Portul interior Harburg",
-            "en": "Harburg Inland Port"
+            "en": "Harburg Inland Port",
+            "tr": "Harburg İç Limanı"
           },
           "coords": [
             9.9875,
@@ -622,7 +661,8 @@
             "de": "Fahrt zum Kanalplatz (Cluster B).",
             "hu": "Autózás a Kanalplatzhoz (B klaszter).",
             "ro": "Drum spre Kanalplatz (Cluster B).",
-            "en": "Drive to Kanalplatz (Cluster B)."
+            "en": "Drive to Kanalplatz (Cluster B).",
+            "tr": "Kanalplatz’a sürün (Küme B)."
           }
         },
         {
@@ -630,7 +670,8 @@
             "de": "Harburger Schloss",
             "hu": "Harburg-i kastély",
             "ro": "Castelul Harburg",
-            "en": "Harburg Castle"
+            "en": "Harburg Castle",
+            "tr": "Harburg Kalesi"
           },
           "coords": [
             9.9895,
@@ -645,7 +686,8 @@
             "de": "Kurzer Spaziergang vom Hafenparkplatz.",
             "hu": "Rövid séta a kikötői parkolótól.",
             "ro": "Scurtă plimbare de la parcarea portului.",
-            "en": "Short walk from the harbor parking lot."
+            "en": "Short walk from the harbor parking lot.",
+            "tr": "Liman otoparkından kısa yürüyüş."
           }
         },
         {
@@ -653,7 +695,8 @@
             "de": "Außenmühle",
             "hu": "Außenmühle",
             "ro": "Außenmühle",
-            "en": "Außenmühle"
+            "en": "Außenmühle",
+            "tr": "Außenmühle"
           },
           "coords": [
             9.9855,
@@ -668,7 +711,8 @@
             "de": "Fahrt zum großen Parkplatz Süd (Cluster C).",
             "hu": "Autózás a nagy déli parkolóhoz (C klaszter).",
             "ro": "Drum spre parcarea mare de sud (Cluster C).",
-            "en": "Drive to the large South parking lot (Cluster C)."
+            "en": "Drive to the large South parking lot (Cluster C).",
+            "tr": "Büyük Güney otoparkına sürün (Küme C)."
           }
         },
         {
@@ -676,7 +720,8 @@
             "de": "St. Maria-Kirche",
             "hu": "Szent Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Azize Meryem Kilisesi"
           },
           "coords": [
             9.9842,
@@ -691,7 +736,8 @@
             "de": "Abschlussbesuch auf dem Rückweg.",
             "hu": "Záró látogatás a visszaúton.",
             "ro": "Vizită de final pe drumul de întoarcere.",
-            "en": "Final visit on the way back."
+            "en": "Final visit on the way back.",
+            "tr": "Dönüş yolunda son ziyaret."
           }
         }
       ],
@@ -699,7 +745,8 @@
         "de": "Erkunden Sie Harburg in drei Clustern. Zuerst parken Sie am Rathaus für die Altstadt und das Museum. Danach fahren Sie zum Binnenhafen und dem Schloss auf der Insel. Zum Abschluss genießen Sie die Natur an der Außenmühle im Süden.",
         "hu": "Fedezze fel Harburgot három klaszterben. Először parkoljon a városházánál az óváros és a múzeum megtekintéséhez. Ezután hajtson a belső kikötőhöz és a szigeten álló kastélyhoz. Végezetül élvezze a természetet a déli Außenmühle tónál.",
         "ro": "Explorați Harburg în trei clustere. Mai întâi parcați la primărie pentru centrul vechi și muzeu. Apoi conduceți spre portul interior și castelul de pe insulă. La final, bucurați-vă de natură la lacul Außenmühle din sud.",
-        "en": "Explore Harburg in three clusters. First, park at the Town Hall for the old town and museum. Then drive to the inland port and the castle on the island. Finally, enjoy nature at the Außenmühle lake in the south."
+        "en": "Explore Harburg in three clusters. First, park at the Town Hall for the old town and museum. Then drive to the inland port and the castle on the island. Finally, enjoy nature at the Außenmühle lake in the south.",
+        "tr": "Harburg’u üç kümede keşfedin. Önce eski kent ve müze için Belediye Binası’na park edin. Ardından iç limana ve adadaki kaleye sürün. Son olarak güneydeki Außenmühle gölünde doğanın keyfini çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -799,6 +846,10 @@
         "en": [
           "Parking at Kanalplatz is often easier than in the center.",
           "Use the B73 for fast connections."
+        ],
+        "tr": [
+          "Kanalplatz’ta park etmek genellikle merkezdekinden daha kolaydır.",
+          "Hızlı bağlantılar için B73’ü kullanın."
         ]
       }
     },
@@ -815,7 +866,8 @@
             "de": "Harburger Rathaus",
             "hu": "Harburg-i városháza",
             "ro": "Primăria Harburg",
-            "en": "Harburg Town Hall"
+            "en": "Harburg Town Hall",
+            "tr": "Harburg Belediye Binası"
           },
           "coords": [
             9.9885,
@@ -830,7 +882,8 @@
             "de": "S-Bahn Station 'Harburg Rathaus' direkt vor der Tür.",
             "hu": "'Harburg Rathaus' S-Bahn megálló közvetlenül a kapuban.",
             "ro": "Stația de S-Bahn 'Harburg Rathaus' chiar în față.",
-            "en": "S-Bahn station 'Harburg Rathaus' right at the doorstep."
+            "en": "S-Bahn station 'Harburg Rathaus' right at the doorstep.",
+            "tr": "S-Bahn istasyonu 'Harburg Rathaus' kapıda."
           }
         },
         {
@@ -838,7 +891,8 @@
             "de": "Helms-Museum",
             "hu": "Helms Múzeum",
             "ro": "Muzeul Helms",
-            "en": "Helms Museum"
+            "en": "Helms Museum",
+            "tr": "Helms Müzesi"
           },
           "coords": [
             9.9905,
@@ -853,7 +907,8 @@
             "de": "Ganz nah am Rathaus.",
             "hu": "Nagyon közel a városházához.",
             "ro": "Foarte aproape de primărie.",
-            "en": "Very close to the Town Hall."
+            "en": "Very close to the Town Hall.",
+            "tr": "Belediye Binası’na çok yakın."
           }
         },
         {
@@ -861,7 +916,8 @@
             "de": "Lämmertwiete",
             "hu": "Lämmertwiete",
             "ro": "Lämmertwiete",
-            "en": "Lämmertwiete"
+            "en": "Lämmertwiete",
+            "tr": "Lämmertwiete"
           },
           "coords": [
             9.9862,
@@ -876,7 +932,8 @@
             "de": "Kurzer Spaziergang durch die Fußgängerzone.",
             "hu": "Rövid séta a sétálóövezeten keresztül.",
             "ro": "Scurtă plimbare prin zona pietonală.",
-            "en": "Short walk through the pedestrian zone."
+            "en": "Short walk through the pedestrian zone.",
+            "tr": "Yaya bölgesinden kısa yürüyüş."
           }
         },
         {
@@ -884,7 +941,8 @@
             "de": "Binnenhafen Harburg",
             "hu": "Harburg-i belső kikötő",
             "ro": "Portul interior Harburg",
-            "en": "Harburg Inland Port"
+            "en": "Harburg Inland Port",
+            "tr": "Harburg İç Limanı"
           },
           "coords": [
             9.9875,
@@ -899,7 +957,8 @@
             "de": "Bus 142 Richtung Hafen.",
             "hu": "142-es busz a kikötő felé.",
             "ro": "Autobuzul 142 în direcția port.",
-            "en": "Bus 142 towards the harbor."
+            "en": "Bus 142 towards the harbor.",
+            "tr": "Liman yönüne giden 142 numaralı otobüs."
           }
         },
         {
@@ -907,7 +966,8 @@
             "de": "Phoenix-Hallen",
             "hu": "Phoenix-csarnokok",
             "ro": "Phoenix-Hallen",
-            "en": "Phoenix Halls"
+            "en": "Phoenix Halls",
+            "tr": "Phoenix Salonları"
           },
           "coords": [
             9.9928,
@@ -922,7 +982,8 @@
             "de": "Rückfahrt mit Bus zum Bahnhof Harburg.",
             "hu": "Visszautazás busszal a harburgi pályaudvarra.",
             "ro": "Întoarcere cu autobuzul la gara Harburg.",
-            "en": "Return journey by bus to Harburg station."
+            "en": "Return journey by bus to Harburg station.",
+            "tr": "Harburg istasyonuna dönüş otobüsüyle."
           }
         },
         {
@@ -930,7 +991,8 @@
             "de": "Außenmühle",
             "hu": "Außenmühle",
             "ro": "Außenmühle",
-            "en": "Außenmühle"
+            "en": "Außenmühle",
+            "tr": "Außenmühle"
           },
           "coords": [
             9.9855,
@@ -945,7 +1007,8 @@
             "de": "Bus 145 bis Haltestelle 'Außenmühle'.",
             "hu": "145-ös busz az 'Außenmühle' megállóig.",
             "ro": "Autobuzul 145 până la stația 'Außenmühle'.",
-            "en": "Bus 145 to the 'Außenmühle' stop."
+            "en": "Bus 145 to the 'Außenmühle' stop.",
+            "tr": "'Außenmühle' durağına giden 145 numaralı otobüs."
           }
         }
       ],
@@ -953,7 +1016,8 @@
         "de": "Dank S-Bahn und Bussen ist Harburg gut erschlossen. Starten Sie im Zentrum (S3/S31), nutzen Sie den Bus 142 zum Hafen und den 145er zum Freizeitgebiet Außenmühle. Eine entspannte Tour ohne Parkplatzsorgen.",
         "hu": "Az S-Bahn-nak és a buszoknak köszönhetően Harburg jól bejárható. Kezdje a központban (S3/S31), használja a 142-es buszt a kikötőhöz, és a 145-öst az Außenmühle szabadidőparkhoz. Pihentető túra parkolási gondok nélkül.",
         "ro": "Datorită trenului S-Bahn și autobuzelor, Harburg este bine conectat. Începeți în centru (S3/S31), folosiți autobuzul 142 spre port și 145 spre zona de agrement Außenmühle. Un tur relaxant fără grija parcării.",
-        "en": "Thanks to the S-Bahn and buses, Harburg is well connected. Start in the center (S3/S31), use bus 142 to the harbor, and 145 to the Außenmühle recreation area. A relaxed tour without parking worries."
+        "en": "Thanks to the S-Bahn and buses, Harburg is well connected. Start in the center (S3/S31), use bus 142 to the harbor, and 145 to the Außenmühle recreation area. A relaxed tour without parking worries.",
+        "tr": "S‑Bahn ve otobüsler sayesinde Harburg iyi bağlanmıştır. Merkezden başlayın (S3/S31), limana 142, Außenmühle mesire alanına 145 numaralı otobüsü kullanın. Park yeri derdi olmadan rahat bir tur."
       },
       "gastro_picks": {
         "de": [
@@ -1053,6 +1117,10 @@
         "en": [
           "An HVV day ticket is particularly worth it here.",
           "The S-Bahn runs every 10 minutes to Hamburg city center."
+        ],
+        "tr": [
+          "Burada özellikle bir HVV günlük bileti almak kârlıdır.",
+          "S‑Bahn, Hamburg şehir merkezine her 10 dakikada bir çalışır."
         ]
       }
     }

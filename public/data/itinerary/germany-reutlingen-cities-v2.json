@@ -21,7 +21,8 @@
             "de": "Marktplatz & Maximilianbrunnen",
             "hu": "Piactér és Maximilian-kút",
             "ro": "Piața Mare și Fântâna Maximilian",
-            "en": "Market Square & Maximilian Fountain"
+            "en": "Market Square & Maximilian Fountain",
+            "tr": "Pazar Meydanı ve Maximilian Çeşmesi"
           },
           "coords": [
             9.2135,
@@ -36,7 +37,8 @@
             "de": "Dienstags und samstags ist hier Wochenmarkt.",
             "hu": "Kedden és szombaton reggel helyi piac van itt.",
             "ro": "Piața locală are loc aici marțea și sâmbăta.",
-            "en": "Visit on Tuesday or Saturday for the local market."
+            "en": "Visit on Tuesday or Saturday for the local market.",
+            "tr": "Yerel pazar için Salı veya Cumartesi günü ziyaret edin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Aziz Meryem Kilisesi"
           },
           "coords": [
             9.2118,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die goldene Engelsfigur auf dem Turm.",
             "hu": "Nézze meg az arany angyal figurát a torony tetején.",
             "ro": "Admirați îngerul de aur de pe vârful turnului.",
-            "en": "Look for the golden angel figure atop the tower."
+            "en": "Look for the golden angel figure atop the tower.",
+            "tr": "Kulenin tepesindeki altın melek figürünü arayın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Spreuerhofstraße",
             "hu": "Spreuerhofstraße (legszűkebb utca)",
             "ro": "Strada Spreuerhofstraße",
-            "en": "Spreuerhofstraße"
+            "en": "Spreuerhofstraße",
+            "tr": "Spreuerhofstraße"
           },
           "coords": [
             9.2155,
@@ -82,7 +87,8 @@
             "de": "Die engste Straße der Welt (nur 31 cm breit).",
             "hu": "A világ legszűkebb utcája, mindössze 31 cm széles.",
             "ro": "Cea mai îngustă stradă din lume (doar 31 cm lățime).",
-            "en": "The world's narrowest street (only 31 cm wide)."
+            "en": "The world's narrowest street (only 31 cm wide).",
+            "tr": "Dünyanın en dar sokağı (sadece 31 cm genişliğinde)."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Heimatmuseum Reutlingen",
             "hu": "Helytörténeti Múzeum",
             "ro": "Muzeul de Istorie Locală",
-            "en": "Local History Museum"
+            "en": "Local History Museum",
+            "tr": "Yerel Tarih Müzesi"
           },
           "coords": [
             9.2165,
@@ -105,7 +112,8 @@
             "de": "In einem ehemaligen Pfleghof des Klosters Königsbronn.",
             "hu": "Az egykori kolostori udvar épületében található.",
             "ro": "Situat în fosta curte a mănăstirii Königsbronn.",
-            "en": "Housed in a former monastery courtyard building."
+            "en": "Housed in a former monastery courtyard building.",
+            "tr": "Eski bir manastır avlusundaki yapıda yer alıyor."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Gartentor",
             "hu": "Kerti kapu",
             "ro": "Poarta Grădinii",
-            "en": "Gartentor"
+            "en": "Gartentor",
+            "tr": "Gartentor"
           },
           "coords": [
             9.2142,
@@ -128,7 +137,8 @@
             "de": "Ein gut erhaltenes Tor der ehemaligen Stadtmauer.",
             "hu": "A régi városfal egyik épségben maradt kapuja.",
             "ro": "O poartă bine conservată a fostului zid al orașului.",
-            "en": "A well-preserved gate of the former city wall."
+            "en": "A well-preserved gate of the former city wall.",
+            "tr": "Eski şehir duvarının iyi korunmuş bir kapısı."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Pomologie und Volkspark",
             "hu": "Pomológiai és Népkert",
             "ro": "Grădina Pomologică și Parcul Popular",
-            "en": "Pomology and Volkspark"
+            "en": "Pomology and Volkspark",
+            "tr": "Pomoloji ve Volkspark"
           },
           "coords": [
             9.2158,
@@ -151,7 +162,8 @@
             "de": "Schöner Rosengarten und Spielplätze für Kinder.",
             "hu": "Gyönyörű rózsakert és nagy játszótér várja itt.",
             "ro": "Grădină de trandafiri superbă și locuri de joacă.",
-            "en": "Features a beautiful rose garden and playgrounds."
+            "en": "Features a beautiful rose garden and playgrounds.",
+            "tr": "Güzel bir gül bahçesi ve oyun alanları barındırır."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Tübinger Tor",
             "hu": "Tübingeni kapu",
             "ro": "Poarta Tübingen",
-            "en": "Tübinger Tor"
+            "en": "Tübinger Tor",
+            "tr": "Tübinger Tor"
           },
           "coords": [
             9.2085,
@@ -174,7 +187,8 @@
             "de": "Das imposanteste der sieben mittelalterlichen Tore.",
             "hu": "A hét középkori városkapu közül a legimpozánsabb.",
             "ro": "Cea mai impunătoare dintre cele șapte porți medievale.",
-            "en": "The most impressive of the seven medieval gates."
+            "en": "The most impressive of the seven medieval gates.",
+            "tr": "Yedi ortaçağ kapısının en etkileyici olanı."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Nikolaikirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "tr": "Aziz Nikolaus Kilisesi"
           },
           "coords": [
             9.2098,
@@ -197,7 +212,8 @@
             "de": "Ehemalige Zunftkirche in der Oberstadt.",
             "hu": "Az egykori céhek temploma a felsővárosban.",
             "ro": "Fosta biserică a breslelor din orașul de sus.",
-            "en": "Former guild church in the upper town."
+            "en": "Former guild church in the upper town.",
+            "tr": "Üst kentteki eski lonca kilisesi."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Ihr Tag beginnt am historischen Marktplatz, dem pulsierenden Herz von Reutlingen. Nach dem Besuch der gotischen Marienkirche wagen Sie sich in die engste Straße der Welt. Mittags tauchen Sie im Heimatmuseum in die Stadtgeschichte ein. Der Nachmittag führt Sie durch das Gartentor in den entspannenden Volkspark, bevor Sie die massiven Stadttore bestaunen und den Tag an der Nikolaikirche ausklingen lassen.",
         "hu": "A napot a történelmi Piactéren kezdi, Reutlingen lüktető szívében. A gótikus Mária-templom után tegyen egy próbát a világ legszűkebb utcájában. Délben a Helytörténeti Múzeumban ismerkedhet meg a város múltjával. Délután a Kerti kapun át jut el a pihentető Népkertbe, majd a masszív városkapuk megcsodálása után a Szent Miklós-templomnál zárhatja a sétát.",
         "ro": "Ziua începe în Piața Mare istorică, inima vibrantă a orașului Reutlingen. După vizitarea bisericii gotice Sfânta Maria, aventurați-vă pe cea mai îngustă stradă din lume. La prânz, descoperiți istoria orașului la Muzeul de Istorie Locală. După-amiaza vă conduce prin Poarta Grădinii în parcul relaxant Volkspark, înainte de a admira porțile masive ale orașului și a încheia ziua la Biserica Sfântul Nicolae.",
-        "en": "Your day starts at the historic Market Square, the vibrant heart of Reutlingen. After visiting the Gothic St. Mary's Church, dare to walk through the world's narrowest street. At midday, dive into local history at the Heimatmuseum. The afternoon takes you through the Gartentor into the relaxing Volkspark, before marveling at the massive city gates and ending your walk at St. Nicholas Church."
+        "en": "Your day starts at the historic Market Square, the vibrant heart of Reutlingen. After visiting the Gothic St. Mary's Church, dare to walk through the world's narrowest street. At midday, dive into local history at the Heimatmuseum. The afternoon takes you through the Gartentor into the relaxing Volkspark, before marveling at the massive city gates and ending your walk at St. Nicholas Church.",
+        "tr": "Gününüz tarihi Pazar Meydanı'nda başlar; Reutlingen'in canlı kalbi burasıdır. Gotik Aziz Meryem Kilisesi'ni ziyaret ettikten sonra dünyanın en dar sokağından geçmeye cesaret edin. Öğle vaktinde Heimatmuseum'da yerel tarihe dalın. Öğleden sonra Gartentor'dan Volkspark'a geçip dinlenin, ardından görkemli şehir kapılarına hayran kalın ve yürüyüşünüzü Aziz Nikolaus Kilisesi'nde sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -349,6 +366,12 @@
           "Pay attention to the artistic facades on Wilhelmstraße.",
           "The Market Square is a great starting point for any exploration.",
           "Comfortable shoes are recommended for the cobblestone streets."
+        ],
+        "tr": [
+          "Eski kent kompakt ve en iyi yürüyerek keşfedilir.",
+          "Wilhelmstraße'deki sanatsal cephelere dikkat edin.",
+          "Pazar Meydanı, her keşif için mükemmel bir başlangıç noktasıdır.",
+          "Kupta taşlı sokaklar için rahat ayakkabılar önerilir."
         ]
       }
     },
@@ -365,7 +388,8 @@
             "de": "Achalm (Aussichtspunkt)",
             "hu": "Achalm (kilátóhely)",
             "ro": "Achalm (punct de belvedere)",
-            "en": "Achalm (Viewpoint)"
+            "en": "Achalm (Viewpoint)",
+            "tr": "Achalm (Manzara Noktası)"
           },
           "coords": [
             9.2395,
@@ -380,7 +404,8 @@
             "de": "Der Hausberg von Reutlingen mit fantastischem Rundblick.",
             "hu": "Reutlingen házi hegye fantasztikus panorámával.",
             "ro": "Muntele local al orașului cu o vedere panoramică superbă.",
-            "en": "Reutlingen's local mountain offering a 360-degree view."
+            "en": "Reutlingen's local mountain offering a 360-degree view.",
+            "tr": "Reutlingen'in yerel dağı, 360 derecelik manzara sunar."
           }
         },
         {
@@ -388,7 +413,8 @@
             "de": "Listhalle",
             "hu": "Listhalle",
             "ro": "Listhalle",
-            "en": "Listhalle"
+            "en": "Listhalle",
+            "tr": "Listhalle"
           },
           "coords": [
             9.2082,
@@ -403,7 +429,8 @@
             "de": "Kultur- und Veranstaltungszentrum direkt am Bahnhof.",
             "hu": "Kulturális és rendezvényközpont a vasútállomásnál.",
             "ro": "Centru cultural și de evenimente lângă gară.",
-            "en": "Culture and event center located right by the station."
+            "en": "Culture and event center located right by the station.",
+            "tr": "İstasyonun hemen yanında kültür ve etkinlik merkezi."
           }
         },
         {
@@ -411,7 +438,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Aziz Meryem Kilisesi"
           },
           "coords": [
             9.2118,
@@ -426,7 +454,8 @@
             "de": "Ein Wahrzeichen der spätgotischen Architektur.",
             "hu": "A késő gótikus építészet egyik remekműve.",
             "ro": "Un simbol al arhitecturii gotice târzii.",
-            "en": "A landmark of Late Gothic architecture."
+            "en": "A landmark of Late Gothic architecture.",
+            "tr": "Geç Gotik mimarinin bir simgesi."
           }
         },
         {
@@ -434,7 +463,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             9.2135,
@@ -449,7 +479,8 @@
             "de": "Zentraler Treffpunkt mit Außengastronomie.",
             "hu": "Központi találkozóhely teraszos éttermekkel.",
             "ro": "Punct central de întâlnire cu terase primitoare.",
-            "en": "Central meeting point with outdoor dining."
+            "en": "Central meeting point with outdoor dining.",
+            "tr": "Açık hava yemek seçenekleriyle merkezi toplanma noktası."
           }
         },
         {
@@ -457,7 +488,8 @@
             "de": "Spreuerhofstraße",
             "hu": "Spreuerhofstraße",
             "ro": "Spreuerhofstraße",
-            "en": "Spreuerhofstraße"
+            "en": "Spreuerhofstraße",
+            "tr": "Spreuerhofstraße"
           },
           "coords": [
             9.2155,
@@ -472,7 +504,8 @@
             "de": "Kurzer Stopp für ein Foto in der engsten Gasse.",
             "hu": "Rövid megálló egy fotóra a legszűkebb közben.",
             "ro": "O oprire scurtă pentru o poză pe cea mai îngustă uliță.",
-            "en": "Quick stop for a photo in the narrowest alley."
+            "en": "Quick stop for a photo in the narrowest alley.",
+            "tr": "En dar sokakta fotoğraf için hızlı bir durak."
           }
         },
         {
@@ -480,7 +513,8 @@
             "de": "Tübinger Tor",
             "hu": "Tübingeni kapu",
             "ro": "Poarta Tübingen",
-            "en": "Tübinger Tor"
+            "en": "Tübinger Tor",
+            "tr": "Tübinger Tor"
           },
           "coords": [
             9.2085,
@@ -495,7 +529,8 @@
             "de": "Teil der alten Stadtbefestigung.",
             "hu": "A régi városi erődítmény része.",
             "ro": "Parte a vechilor fortificații ale orașului.",
-            "en": "Part of the old city fortifications."
+            "en": "Part of the old city fortifications.",
+            "tr": "Eski şehir tahkimatının bir parçası."
           }
         },
         {
@@ -503,7 +538,8 @@
             "de": "Pomologie und Volkspark",
             "hu": "Pomológiai és Népkert",
             "ro": "Grădina Pomologică și Parcul Popular",
-            "en": "Pomology and Volkspark"
+            "en": "Pomology and Volkspark",
+            "tr": "Pomoloji ve Volkspark"
           },
           "coords": [
             9.2158,
@@ -518,7 +554,8 @@
             "de": "Perfekt für eine ausgiebige Pause im Grünen.",
             "hu": "Tökéletes hely egy hosszabb pihenőre a zöldben.",
             "ro": "Perfect pentru o pauză lungă în natură.",
-            "en": "Perfect for an extended break in the greenery."
+            "en": "Perfect for an extended break in the greenery.",
+            "tr": "Yeşillik içinde uzatılmış bir mola için ideal."
           }
         }
       ],
@@ -526,7 +563,8 @@
         "de": "Starten Sie sportlich mit einer Fahrt auf die Achalm, um den besten Überblick über die Region zu bekommen. Zurück im Tal erkunden Sie kulturelle Highlights wie die Listhalle und die Marienkirche. Nach einer Stärkung am Marktplatz und dem Pflichtbesuch in der Spreuerhofstraße radeln Sie zum Tübinger Tor. Den Abschluss bildet eine entspannte Runde durch die weitläufige Pomologie.",
         "hu": "Kezdje sportosan a napot: tekerjen fel az Achalmra a legjobb kilátásért. Visszatérve a völgybe olyan kulturális látnivalókat érinthet, mint a Listhalle és a Mária-templom. Egy piactéri ebéd és a Spreuerhofstraße után a Tübingeni kapu felé veheti az irányt. A napot egy kellemes bringázással zárhatja a tágas Pomológia parkban.",
         "ro": "Începeți ziua sportiv cu o urcare pe Achalm pentru cea mai bună vedere asupra regiunii. Revenind în vale, explorați puncte culturale precum Listhalle și Biserica Sfânta Maria. După o masă în Piața Mare și o vizită la Spreuerhofstraße, pedalați spre Poarta Tübingen. Încheiați cu o tură relaxantă prin parcul spațios Pomologie.",
-        "en": "Start your day actively with a ride up the Achalm for the best views over the region. Back in the valley, explore cultural highlights like the Listhalle and St. Mary's Church. After lunch at the Market Square and a must-see stop at Spreuerhofstraße, cycle to the Tübinger Tor. End your tour with a relaxing ride through the extensive Pomology park."
+        "en": "Start your day actively with a ride up the Achalm for the best views over the region. Back in the valley, explore cultural highlights like the Listhalle and St. Mary's Church. After lunch at the Market Square and a must-see stop at Spreuerhofstraße, cycle to the Tübinger Tor. End your tour with a relaxing ride through the extensive Pomology park.",
+        "tr": "Gününüzü Achalm'e tırmanışla aktif başlayın; bölgenin en iyi manzaralarını buradan izleyin. Vadide Listhalle ve Aziz Meryem Kilisesi gibi kültürel noktaları keşfedin. Pazar Meydanı'nda öğle yemeğinin ve Spreuerhofstraße'de görülmesi gereken bir durağın ardından bisikletle Tübinger Tor'a gidin. Turunuzu geniş Pomoloji parkında rahat bir sürüşle sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -634,6 +672,12 @@
           "In the pedestrian zone, you may need to push your bike at times.",
           "Use the marked cycle paths around the city center.",
           "Combine the tour with a detour to nearby Eningen."
+        ],
+        "tr": [
+          "Achalm'e tırmanış dik; e-bisiklet kesin bir avantaj sağlar.",
+          "Yaya bölgesinde zaman zaman bisikletinizi itmeniz gerekebilir.",
+          "Şehir merkezinin çevresindeki işaretli bisiklet yollarını kullanın.",
+          "Turu yakınlardaki Eningen'e bir sapmayla birleştirebilirsiniz."
         ]
       }
     },
@@ -650,7 +694,8 @@
             "de": "Parkhaus Stadtmitte (Cluster Altstadt)",
             "hu": "Városközpont parkolóház (Óváros klaszter)",
             "ro": "Parcare Centru (Cluster Orașul Vechi)",
-            "en": "City Center Parking (Old Town Cluster)"
+            "en": "City Center Parking (Old Town Cluster)",
+            "tr": "Şehir Merkezi Otoparkı (Eski Kent Kümesi)"
           },
           "coords": [
             9.2135,
@@ -665,7 +710,8 @@
             "de": "Zentraler Parkplatz, idealer Startpunkt.",
             "hu": "Központi parkoló, ideális kiindulópont.",
             "ro": "Parcare centrală, punct de plecare ideal.",
-            "en": "Central parking, ideal starting point."
+            "en": "Central parking, ideal starting point.",
+            "tr": "Merkezi otopark, ideal başlangıç noktası."
           }
         },
         {
@@ -673,7 +719,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             9.2135,
@@ -688,7 +735,8 @@
             "de": "Vom Parkhaus nur 2 Minuten zu Fuß.",
             "hu": "A parkolóháztól mindössze 2 perc gyalog.",
             "ro": "La doar 2 minute de mers pe jos de parcare.",
-            "en": "Just a 2-minute walk from the parking garage."
+            "en": "Just a 2-minute walk from the parking garage.",
+            "tr": "Otopark garajından sadece 2 dakikalık yürüme mesafesi."
           }
         },
         {
@@ -696,7 +744,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Aziz Meryem Kilisesi"
           },
           "coords": [
             9.2118,
@@ -711,7 +760,8 @@
             "de": "Besichtigen Sie den prachtvollen Innenraum.",
             "hu": "Nézze meg a lenyűgöző belső teret.",
             "ro": "Vizitați interiorul splendid.",
-            "en": "Visit the magnificent interior."
+            "en": "Visit the magnificent interior.",
+            "tr": "Muhteşem iç mekânı ziyaret edin."
           }
         },
         {
@@ -719,7 +769,8 @@
             "de": "Spreuerhofstraße",
             "hu": "Spreuerhofstraße",
             "ro": "Spreuerhofstraße",
-            "en": "Spreuerhofstraße"
+            "en": "Spreuerhofstraße",
+            "tr": "Spreuerhofstraße"
           },
           "coords": [
             9.2155,
@@ -734,7 +785,8 @@
             "de": "Ein kurioses Ziel für jeden Reutlingen-Besuch.",
             "hu": "Különleges látnivaló minden látogató számára.",
             "ro": "O destinație curioasă pentru orice vizitator.",
-            "en": "A curious destination for every visitor."
+            "en": "A curious destination for every visitor.",
+            "tr": "Her ziyaretçi için merak uyandıran bir hedef."
           }
         },
         {
@@ -742,7 +794,8 @@
             "de": "Pomologie Parkplatz (Cluster Parks)",
             "hu": "Pomológia parkoló (Parkok klaszter)",
             "ro": "Parcare Pomologie (Cluster Parcuri)",
-            "en": "Pomology Parking (Parks Cluster)"
+            "en": "Pomology Parking (Parks Cluster)",
+            "tr": "Pomoloji Otoparkı (Parklar Kümesi)"
           },
           "coords": [
             9.2158,
@@ -757,7 +810,8 @@
             "de": "Parken Sie hier für den Volkspark.",
             "hu": "Parkoljon itt a Népkert látogatásához.",
             "ro": "Parcați aici pentru parcul Volkspark.",
-            "en": "Park here to visit the Volkspark."
+            "en": "Park here to visit the Volkspark.",
+            "tr": "Volkspark'ı ziyaret etmek için buraya park edin."
           }
         },
         {
@@ -765,7 +819,8 @@
             "de": "Volkspark",
             "hu": "Népkert",
             "ro": "Parcul Popular",
-            "en": "Volkspark"
+            "en": "Volkspark",
+            "tr": "Volkspark"
           },
           "coords": [
             9.2165,
@@ -780,7 +835,8 @@
             "de": "Ideal für ein Picknick oder Mittagessen im Grünen.",
             "hu": "Ideális egy piknikhez vagy ebédhez a szabadban.",
             "ro": "Ideal pentru un picnic sau prânz în natură.",
-            "en": "Ideal for a picnic or lunch in the park."
+            "en": "Ideal for a picnic or lunch in the park.",
+            "tr": "Parkta piknik veya öğle yemeği için ideal."
           }
         },
         {
@@ -788,7 +844,8 @@
             "de": "Achalm Parkplatz (Cluster Aussicht)",
             "hu": "Achalm parkoló (Kilátás klaszter)",
             "ro": "Parcare Achalm (Cluster Vedere)",
-            "en": "Achalm Parking (View Cluster)"
+            "en": "Achalm Parking (View Cluster)",
+            "tr": "Achalm Otoparkı (Manzara Kümesi)"
           },
           "coords": [
             9.2355,
@@ -803,7 +860,8 @@
             "de": "Letzter Parkplatz vor dem Gipfelpfad.",
             "hu": "Az utolsó parkoló a csúcsra vezető út előtt.",
             "ro": "Ultima parcare înainte de poteca spre vârf.",
-            "en": "Last parking before the summit path."
+            "en": "Last parking before the summit path.",
+            "tr": "Zirve patikasından önceki son otopark."
           }
         },
         {
@@ -811,7 +869,8 @@
             "de": "Achalm Gipfel",
             "hu": "Achalm csúcs",
             "ro": "Vârful Achalm",
-            "en": "Achalm Summit"
+            "en": "Achalm Summit",
+            "tr": "Achalm Zirvesi"
           },
           "coords": [
             9.2395,
@@ -826,7 +885,8 @@
             "de": "Kurzer, steiler Spaziergang vom Parkplatz zum Turm.",
             "hu": "Rövid, meredek séta a parkolótól a toronyig.",
             "ro": "O plimbare scurtă și abruptă de la parcare la turn.",
-            "en": "Short, steep walk from the parking to the tower."
+            "en": "Short, steep walk from the parking to the tower.",
+            "tr": "Otoparktan kuleye kısa, dik bir yürüyüş."
           }
         }
       ],
@@ -834,7 +894,8 @@
         "de": "Nutzen Sie die Cluster-Strategie: Parken Sie zuerst im Zentrum, um den Marktplatz, die Marienkirche und die Spreuerhofstraße zu Fuß zu erkunden. Danach fahren Sie zum Parkbereich Pomologie für eine entspannte Mittagspause im Grünen. Zum krönenden Abschluss führt Sie die Fahrt hinauf zum Achalm-Parkplatz, von wo aus Sie den Gipfel erklimmen und die Aussicht genießen.",
         "hu": "Használja a klaszter-stratégiát: parkoljon le a központban, és fedezze fel gyalog a Piacteret, a Mária-templomot és a Spreuerhofstraßét. Ezután hajtson át a Pomológia parkolóhoz egy kellemes ebédre a zöldben. A nap méltó zárásaként vezessen fel az Achalm parkolójáig, ahonnan rövid sétával elérheti a csúcsot és élvezheti a panorámát.",
         "ro": "Folosiți strategia clusterelor: parcați mai întâi în centru pentru a explora pe jos Piața Mare, Biserica Sfânta Maria și Spreuerhofstraße. Apoi conduceți spre zona parcului Pomologie pentru o pauză de prânz relaxantă. La final, drumul vă poartă spre parcarea Achalm, de unde puteți urca pe vârf pentru a admira priveliștea.",
-        "en": "Use the cluster strategy: park in the center first to explore the Market Square, St. Mary's Church, and Spreuerhofstraße on foot. Then drive to the Pomology park area for a relaxing lunch break. For a grand finale, drive up to the Achalm parking lot, climb to the summit, and enjoy the breathtaking views."
+        "en": "Use the cluster strategy: park in the center first to explore the Market Square, St. Mary's Church, and Spreuerhofstraße on foot. Then drive to the Pomology park area for a relaxing lunch break. For a grand finale, drive up to the Achalm parking lot, climb to the summit, and enjoy the breathtaking views.",
+        "tr": "Küme stratejisini kullanın: önce merkeze park ederek Pazar Meydanı, Aziz Meryem Kilisesi ve Spreuerhofstraße'yi yürüyerek keşfedin. Ardından dinlendirici bir öğle molası için Pomoloji parkı bölgesine gidin. Gösterişli bir final için Achalm otoparkına tırmanın, zirveye çıkın ve nefes kesen manzaraların tadını çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -942,6 +1003,12 @@
           "In the old town, prefer parking garages over street parking.",
           "The road to Achalm is narrow; please drive carefully.",
           "Visit nearby Lichtenstein Castle (about 25 minutes away by car)."
+        ],
+        "tr": [
+          "Otopark yönlendirme sistemi, garajlardaki boş yerleri gösterir.",
+          "Eski kentte sokak parkı yerine katlı otoparkları tercih edin.",
+          "Achalm yolu dar; lütfen dikkatli sürün.",
+          "Yakındaki Lichtenstein Şatosu'nu ziyaret edin (arabayla yaklaşık 25 dakika)."
         ]
       }
     },
@@ -958,7 +1025,8 @@
             "de": "Hauptbahnhof Reutlingen",
             "hu": "Reutlingen Főpályaudvar",
             "ro": "Gara Centrală Reutlingen",
-            "en": "Reutlingen Main Station"
+            "en": "Reutlingen Main Station",
+            "tr": "Reutlingen Merkez İstasyonu"
           },
           "coords": [
             9.2082,
@@ -973,7 +1041,8 @@
             "de": "Zentraler Knotenpunkt für alle Buslinien.",
             "hu": "Minden buszjárat központi csomópontja.",
             "ro": "Nod central pentru toate liniile de autobuz.",
-            "en": "Central hub for all bus lines."
+            "en": "Central hub for all bus lines.",
+            "tr": "Tüm otobüs hatlarının merkezi bağlantı noktası."
           }
         },
         {
@@ -981,7 +1050,8 @@
             "de": "Marktplatz (Cluster Altstadt)",
             "hu": "Piactér (Óváros klaszter)",
             "ro": "Piața Mare (Cluster Orașul Vechi)",
-            "en": "Market Square (Old Town Cluster)"
+            "en": "Market Square (Old Town Cluster)",
+            "tr": "Pazar Meydanı (Eski Kent Kümesi)"
           },
           "coords": [
             9.2135,
@@ -996,7 +1066,8 @@
             "de": "Mit dem Bus direkt ins Herz der Stadt.",
             "hu": "Busszal közvetlenül a város szívébe érkezik.",
             "ro": "Cu autobuzul direct în inima orașului.",
-            "en": "Take the bus directly into the heart of the city."
+            "en": "Take the bus directly into the heart of the city.",
+            "tr": "Otobüse binip doğrudan şehrin kalbine gidin."
           }
         },
         {
@@ -1004,7 +1075,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Meryem Ana Kilisesi"
           },
           "coords": [
             9.2118,
@@ -1019,7 +1091,8 @@
             "de": "Nur wenige Gehminuten vom Marktplatz entfernt.",
             "hu": "Csak pár perc séta a Piactértől.",
             "ro": "La doar câteva minute de mers pe jos de piață.",
-            "en": "Only a few minutes' walk from the Market Square."
+            "en": "Only a few minutes' walk from the Market Square.",
+            "tr": "Pazar Meydanı'na sadece birkaç dakika yürüme mesafesinde."
           }
         },
         {
@@ -1027,7 +1100,8 @@
             "de": "Tübinger Tor",
             "hu": "Tübingeni kapu",
             "ro": "Poarta Tübingen",
-            "en": "Tübinger Tor"
+            "en": "Tübinger Tor",
+            "tr": "Tübinger Kapısı"
           },
           "coords": [
             9.2085,
@@ -1042,7 +1116,8 @@
             "de": "Erkunden Sie den westlichen Teil der Altstadt.",
             "hu": "Fedezze fel az óváros nyugati részét.",
             "ro": "Explorați partea de vest a orașului vechi.",
-            "en": "Explore the western part of the old town."
+            "en": "Explore the western part of the old town.",
+            "tr": "Eski kentin batı kısmını keşfedin."
           }
         },
         {
@@ -1050,7 +1125,8 @@
             "de": "Pomologie (Cluster Parks)",
             "hu": "Pomológia (Parkok klaszter)",
             "ro": "Pomologie (Cluster Parcuri)",
-            "en": "Pomology (Parks Cluster)"
+            "en": "Pomology (Parks Cluster)",
+            "tr": "Meyvecilik (Parklar Kümesi)"
           },
           "coords": [
             9.2158,
@@ -1065,7 +1141,8 @@
             "de": "Nutzen Sie den Stadtbus bis zur Haltestelle Pomologie.",
             "hu": "Használja a helyi buszt a Pomológia megállóig.",
             "ro": "Folosiți autobuzul urban până la stația Pomologie.",
-            "en": "Use the city bus to the Pomologie stop."
+            "en": "Use the city bus to the Pomologie stop.",
+            "tr": "Şehir otobüsünü Pomologie durağına kullanın."
           }
         },
         {
@@ -1073,7 +1150,8 @@
             "de": "Achalm (Fuß des Berges)",
             "hu": "Achalm (hegy lába)",
             "ro": "Achalm (la baza muntelui)",
-            "en": "Achalm (Foot of the Hill)"
+            "en": "Achalm (Foot of the Hill)",
+            "tr": "Achalm (Tepenin Ayağı)"
           },
           "coords": [
             9.2325,
@@ -1088,7 +1166,8 @@
             "de": "Buslinie 7 oder 8 bringt Sie in die Nähe des Aufstiegs.",
             "hu": "A 7-es vagy 8-as busz visz a hegy közelébe.",
             "ro": "Linia 7 sau 8 vă aduce aproape de urcare.",
-            "en": "Bus line 7 or 8 takes you near the ascent."
+            "en": "Bus line 7 or 8 takes you near the ascent.",
+            "tr": "7 veya 8 numaralı otobüs sizi tırmanışa yaklaştırır."
           }
         },
         {
@@ -1096,7 +1175,8 @@
             "de": "Achalm Gipfel",
             "hu": "Achalm csúcs",
             "ro": "Vârful Achalm",
-            "en": "Achalm Summit"
+            "en": "Achalm Summit",
+            "tr": "Achalm Zirvesi"
           },
           "coords": [
             9.2395,
@@ -1111,7 +1191,8 @@
             "de": "Genießen Sie den Aufstieg und den Ausblick zum Abschluss.",
             "hu": "Élvezze a túrát és a panorámát a nap végén.",
             "ro": "Bucurați-vă de urcare și de priveliște la final.",
-            "en": "Enjoy the hike and the view as a finale."
+            "en": "Enjoy the hike and the view as a finale.",
+            "tr": "Günü bir yürüyüş ve manzara ile taçlandırın."
           }
         }
       ],
@@ -1119,7 +1200,8 @@
         "de": "Erkunden Sie Reutlingen stressfrei mit dem Stadtbus. Nach der Ankunft am Hauptbahnhof führt Sie der erste Cluster in die Altstadt zum Marktplatz und zur Marienkirche. Ein kurzer Bustransfer bringt Sie zum Cluster Parks in die Pomologie. Am Nachmittag fahren Sie zum Fuße der Achalm und wandern zum Gipfel, um den Tag mit einem Blick über die Schwäbische Alb zu krönen.",
         "hu": "Fedezze fel Reutlingent stresszmentesen a városi buszokkal. A főpályaudvarról az első busz az óvárosi klaszterbe viszi (Piactér, Mária-templom). Egy rövid átszállással elérheti a Pomológia parkot. Délután utazzon ki az Achalm lábához, és túrázzon fel a csúcsra, hogy a napot a Sváb-Alb felejthetetlen panorámájával zárja.",
         "ro": "Explorați Reutlingen fără stres cu autobuzul urban. După sosirea la gară, primul cluster vă duce în orașul vechi la Piața Mare și Biserica Sfânta Maria. Un scurt transfer cu autobuzul vă duce la clusterul parcurilor, în Pomologie. După-amiaza, mergeți la baza muntelui Achalm și urcați pe vârf pentru a încheia ziua cu o priveliște superbă.",
-        "en": "Explore Reutlingen stress-free using city buses. After arriving at the station, the first cluster takes you to the old town's Market Square and St. Mary's Church. A short bus ride brings you to the parks cluster at Pomologie. In the afternoon, head to the foot of Achalm and hike to the summit to crown your day with views over the Swabian Alb."
+        "en": "Explore Reutlingen stress-free using city buses. After arriving at the station, the first cluster takes you to the old town's Market Square and St. Mary's Church. A short bus ride brings you to the parks cluster at Pomologie. In the afternoon, head to the foot of Achalm and hike to the summit to crown your day with views over the Swabian Alb.",
+        "tr": "Reutlingen'i şehir otobüsleriyle stressiz keşfedin. İstasyona vardıktan sonra ilk küme sizi eski kentin Pazar Meydanı ve Meryem Ana Kilisesi'ne götürür. Kısa bir otobüs yolculuğu sizi Pomologie'deki parklar kümesine getirir. Öğleden sonra Achalm'ın eteğine gidin ve günü Swabian Alb üzerine manzaralar eşliğinde zirve yürüyüşüyle sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -1227,6 +1309,12 @@
           "Bus schedules are well-coordinated with train arrivals.",
           "Lines 7 and 8 run regularly towards Achalm.",
           "Use the NALDO app for real-time transit data."
+        ],
+        "tr": [
+          "Tüm şehir alanı için günlük bilet satın alın.",
+          "Otobüs tarifeleri tren varışlarıyla iyi koordine edilmiştir.",
+          "7 ve 8 numaralı hatlar düzenli olarak Achalm yönüne gider.",
+          "Gerçek zamanlı toplu taşıma verileri için NALDO uygulamasını kullanın."
         ]
       }
     }

@@ -3,55 +3,64 @@
     "de": "Niederwalddenkmal 1, 65385 Rüdesheim am Rhein",
     "hu": "Niederwalddenkmal 1, 65385 Rüdesheim am Rhein",
     "ro": "Niederwalddenkmal 1, 65385 Rüdesheim am Rhein",
-    "en": "Niederwalddenkmal 1, 65385 Rüdesheim am Rhein"
+    "en": "Niederwalddenkmal 1, 65385 Rüdesheim am Rhein",
+    "tr": "Niederwalddenkmal 1, 65385 Rüdesheim am Rhein"
   },
   "openingHours": {
     "de": "24/7 (Gelände), Seilbahn März-Okt 09:30-18:00",
     "hu": "0-24 órában (terület), felvonó márc-okt 09:30-18:00",
     "ro": "Non-stop (teren), telecabină martie-octombrie 09:30-18:00",
-    "en": "24/7 (grounds), cable car Mar-Oct 09:30-18:00"
+    "en": "24/7 (grounds), cable car Mar-Oct 09:30-18:00",
+    "tr": "24/7 (alan), teleferik Mar-Eki 09:30-18:00"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.ruedesheim.de",
   "publicTransport": {
     "de": "Seilbahn ab Rüdesheim oder zu Fuß durch die Weinberge",
     "hu": "Felvonó Rüdesheimből vagy gyalog a szőlőültetvényeken keresztül",
     "ro": "Telecabină din Rüdesheim sau pe jos prin podgorii",
-    "en": "Cable car from Rüdesheim or on foot through the vineyards"
+    "en": "Cable car from Rüdesheim or on foot through the vineyards",
+    "tr": "Rüdesheim'dan teleferik veya bağlardan yürüyüş"
   },
   "parking": {
     "de": "Parkplatz am Denkmal, ca. €4 Pauschale",
     "hu": "Parkoló az emlékműnél, kb. 4 € átalány",
     "ro": "Parcare la monument, aprox. 4 € tarif fix",
-    "en": "Parking at the monument, approx. €4 flat rate"
+    "en": "Parking at the monument, approx. €4 flat rate",
+    "tr": "Anıta yakın park, yaklaşık €4 sabit ücret"
   },
   "accessibility": {
     "de": "Plateau am Niederwalddenkmal ist barrierefrei",
     "hu": "A Niederwalddenkmal fennsíkja akadálymentes",
     "ro": "Platoul de la Niederwalddenkmal este accesibil",
-    "en": "Plateau at the Niederwalddenkmal is barrier-free"
+    "en": "Plateau at the Niederwalddenkmal is barrier-free",
+    "tr": "Niederwalddenkmal platosu engelsiz"
   },
   "photoRules": {
     "de": "Erlaubt, Drohnenverbot im gesamten Denkmalbereich",
     "hu": "Megengedett, drónhasználati tilalom az emlékmű teljes területén",
     "ro": "Permis, interdicție pentru drone în întreaga zonă a monumentului",
-    "en": "Allowed, no-fly zone for drones in the entire monument area"
+    "en": "Allowed, no-fly zone for drones in the entire monument area",
+    "tr": "İzinli, anıt alanının tamamı drone için yasak bölge"
   },
   "bestTimeToVisit": {
     "de": "Zum Sonnenuntergang mit Blick über den Rheingau",
     "hu": "Napnyugtakor, kilátással a Rheingau-vidékre",
     "ro": "La apusul soarelui cu vedere asupra regiunii Rheingau",
-    "en": "At sunset with a view over the Rheingau"
+    "en": "At sunset with a view over the Rheingau",
+    "tr": "Rheingau manzarasına karşı gün batımında"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

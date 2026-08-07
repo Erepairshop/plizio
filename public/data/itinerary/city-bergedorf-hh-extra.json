@@ -21,7 +21,8 @@
             "de": "Bergedorfer Hafen",
             "hu": "Bergedorfi kikötő",
             "ro": "Portul Bergedorf",
-            "en": "Bergedorf Harbor"
+            "en": "Bergedorf Harbor",
+            "tr": "Bergedorf Limanı"
           },
           "coords": [
             10.2095,
@@ -37,7 +38,8 @@
             "de": "Frühstücken Sie mit Blick auf die historischen Kähne.",
             "hu": "Reggelizz a történelmi uszályok látványával.",
             "ro": "Luați micul dejun cu vedere la barjele istorice.",
-            "en": "Have breakfast with a view of the historic barges."
+            "en": "Have breakfast with a view of the historic barges.",
+            "tr": "Tarihi sandallara bakan manzarayla kahvaltı yapın."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Serrahn",
             "hu": "Serrahn negyed",
             "ro": "Cartierul Serrahn",
-            "en": "Serrahn Quarter"
+            "en": "Serrahn Quarter",
+            "tr": "Serrahn Mahallesi"
           },
           "coords": [
             10.2105,
@@ -61,7 +64,8 @@
             "de": "Die alte Hafenmauer bietet tolle Fotomotive.",
             "hu": "A régi kikötőfal remek fotótéma.",
             "ro": "Vechiul zid al portului oferă oportunități foto deosebite.",
-            "en": "The old harbor wall offers great photo opportunities."
+            "en": "The old harbor wall offers great photo opportunities.",
+            "tr": "Eski liman duvarı harika fotoğraf fırsatları sunar."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Rathaus Bergedorf",
             "hu": "Bergedorfi városháza",
             "ro": "Primăria Bergedorf",
-            "en": "Bergedorf Town Hall"
+            "en": "Bergedorf Town Hall",
+            "tr": "Bergedorf Belediye Binası"
           },
           "coords": [
             10.2115,
@@ -85,7 +90,8 @@
             "de": "Ein schönes Backsteingebäude aus der Kaiserzeit.",
             "hu": "Szép téglaépület a császári időkből.",
             "ro": "O clădire frumoasă din cărămidă din epoca imperială.",
-            "en": "A beautiful brick building from the imperial era."
+            "en": "A beautiful brick building from the imperial era.",
+            "tr": "İmparatorluk döneminden güzel bir tuğla bina."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "St. Petri und Pauli Kirche",
             "hu": "Szt. Péter és Pál templom",
             "ro": "Biserica Sf. Petru și Pavel",
-            "en": "St. Peter and Paul Church"
+            "en": "St. Peter and Paul Church",
+            "tr": "St. Peter ve Paul Kilisesi"
           },
           "coords": [
             10.2132,
@@ -109,7 +116,8 @@
             "de": "Bewundern Sie die reiche Innenausstattung.",
             "hu": "Csodáld meg a gazdag belső díszítést.",
             "ro": "Admirați interiorul bogat decorat.",
-            "en": "Admire the rich interior decoration."
+            "en": "Admire the rich interior decoration.",
+            "tr": "Zengin iç dekorasyonu hayranlıkla izleyin."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Schloss Bergedorf",
             "hu": "Bergedorfi kastély",
             "ro": "Castelul Bergedorf",
-            "en": "Bergedorf Castle"
+            "en": "Bergedorf Castle",
+            "tr": "Bergedorf Kalesi"
           },
           "coords": [
             10.2125,
@@ -133,7 +142,8 @@
             "de": "Besuchen Sie das Museum im einzigen Schloss Hamburgs.",
             "hu": "Látogasd meg a múzeumot Hamburg egyetlen kastélyában.",
             "ro": "Vizitați muzeul din singurul castel din Hamburg.",
-            "en": "Visit the museum in Hamburg's only castle."
+            "en": "Visit the museum in Hamburg's only castle.",
+            "tr": "Hamburg'un tek kalesindeki müzeyi ziyaret edin."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Block House Restaurant",
             "hu": "Block House étterem",
             "ro": "Restaurant Block House",
-            "en": "Block House Restaurant"
+            "en": "Block House Restaurant",
+            "tr": "Block House Restoranı"
           },
           "coords": [
             10.2108,
@@ -157,7 +168,8 @@
             "de": "Hier wurde die berühmte Kette gegründet.",
             "hu": "Itt alapították a híres étteremláncot.",
             "ro": "Aici a fost fondat faimosul lanț de restaurante.",
-            "en": "The famous chain was founded right here."
+            "en": "The famous chain was founded right here.",
+            "tr": "Ünlü zincir tam da burada kuruldu."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag am historischen Hafen und dem Serrahn, wo das alte Bergedorf lebendig wird. Nach einem kurzen Spaziergang zum Rathaus und der barocken Kirche steht das Highlight an: das einzige erhaltene Schloss auf Hamburger Stadtgebiet. Den Nachmittag verbringen Sie in den herrschaftlichen Räumen des Museums, bevor Sie in der Geburtsstätte der Block House Steaks einkehren.",
         "hu": "Kezdje a napot a történelmi kikötőben és a Serrahn negyedben, ahol a régi Bergedorf megelevenedik. Rövid séta után a Városháza és a barokk templom következik, majd a fő attrakció: Hamburg egyetlen megmaradt kastélya. A délutánt a múzeum elegáns termeiben töltheti, végül térjen be egy steakre ott, ahonnan a híres Block House hálózat elindult.",
         "ro": "Începeți ziua în portul istoric și în cartierul Serrahn, unde vechiul Bergedorf prinde viață. După o scurtă plimbare la Primărie și la biserica barocă, urmează atracția principală: singurul castel rămas pe teritoriul Hamburgului. Petreceți după-amiaza în sălile muzeului, apoi opriți-vă pentru o friptură chiar în locul unde a fost fondat lanțul Block House.",
-        "en": "Start your day at the historic harbor and the Serrahn district, where old Bergedorf comes alive. After a short walk to the Town Hall and the Baroque church, the highlight awaits: the only remaining castle in Hamburg. Spend the afternoon in the museum's grand rooms, then finish with a steak at the birthplace of the famous Block House chain."
+        "en": "Start your day at the historic harbor and the Serrahn district, where old Bergedorf comes alive. After a short walk to the Town Hall and the Baroque church, the highlight awaits: the only remaining castle in Hamburg. Spend the afternoon in the museum's grand rooms, then finish with a steak at the birthplace of the famous Block House chain.",
+        "tr": "Günü tarihlerle dolu liman ve Serrahn mahallesinde başlatın; burada eski Bergedorf canlanır. Kısa bir yürüyüşle Belediye Binası ve Barok kiliseye gittikten sonra günün yıldızı sizi bekler: Hamburg'da kalan tek kale. Öğleden sonranızı müzenin görkemli salonlarında geçirin, ardından ünlü Block House zincirinin doğduğu yerde bir biftekle günü bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -325,6 +338,12 @@
           "The S2 train takes you to Hamburg city center in 20 mins.",
           "Park in the parking garage next to the station.",
           "Visit the castle museum in the morning."
+        ],
+        "tr": [
+          "Bergedorf yürüyerek mükemmel şekilde keşfedilebilir.",
+          "S2 treni sizi 20 dakikada Hamburg şehir merkezine götürür.",
+          "İstasyon yanındaki otoparka park edin.",
+          "Kale müzesini sabahtan ziyaret edin."
         ]
       }
     },
@@ -341,7 +360,8 @@
             "de": "Bergedorfer Hafen",
             "hu": "Bergedorfi kikötő",
             "ro": "Portul Bergedorf",
-            "en": "Bergedorf Harbor"
+            "en": "Bergedorf Harbor",
+            "tr": "Bergedorf Limanı"
           },
           "coords": [
             10.2095,
@@ -357,7 +377,8 @@
             "de": "Startpunkt an der Bille.",
             "hu": "Kiindulópont a Bille-folyónál.",
             "ro": "Punct de plecare de pe râul Bille.",
-            "en": "Starting point at the Bille river."
+            "en": "Starting point at the Bille river.",
+            "tr": "Bille nehri kenarındaki başlangıç noktası."
           }
         },
         {
@@ -365,7 +386,8 @@
             "de": "Schloss Bergedorf",
             "hu": "Bergedorfi kastély",
             "ro": "Castelul Bergedorf",
-            "en": "Bergedorf Castle"
+            "en": "Bergedorf Castle",
+            "tr": "Bergedorf Kalesi"
           },
           "coords": [
             10.2125,
@@ -381,7 +403,8 @@
             "de": "Kurzer Stopp am Schlossgraben.",
             "hu": "Rövid megálló a várárok mellet.",
             "ro": "Scurtă oprire lângă șanțul castelului.",
-            "en": "Short stop by the castle moat."
+            "en": "Short stop by the castle moat.",
+            "tr": "Kale sığınağı yanında kısa bir mola."
           }
         },
         {
@@ -389,7 +412,8 @@
             "de": "Hamburger Sternwarte",
             "hu": "Hamburgi Csillagvizsgáló",
             "ro": "Observatorul Hamburg",
-            "en": "Hamburg Observatory"
+            "en": "Hamburg Observatory",
+            "tr": "Hamburg Gözlemevi"
           },
           "coords": [
             10.2415,
@@ -405,7 +429,8 @@
             "de": "Wunderschönes Parkgelände mit Kuppeln.",
             "hu": "Gyönyörű park kupolás épületekkel.",
             "ro": "Un parc superb cu clădiri cu cupolă.",
-            "en": "Beautiful park area with dome buildings."
+            "en": "Beautiful park area with dome buildings.",
+            "tr": "Kubbe yapılarıyla güzel bir park alanı."
           }
         },
         {
@@ -413,7 +438,8 @@
             "de": "Freilichtmuseum Rieck Haus",
             "hu": "Rieck Haus skanzen",
             "ro": "Muzeul Rieck Haus",
-            "en": "Rieck Haus Open-Air Museum"
+            "en": "Rieck Haus Open-Air Museum",
+            "tr": "Rieck Haus Açık Hava Müzesi"
           },
           "coords": [
             10.2285,
@@ -429,7 +455,8 @@
             "de": "Erfahren Sie alles über das Leben im Marschland.",
             "hu": "Ismerd meg a mocsárvidéki életet.",
             "ro": "Aflați totul despre viața în zonele mlăștinoase.",
-            "en": "Learn everything about life in the marshlands."
+            "en": "Learn everything about life in the marshlands.",
+            "tr": "Bataklık yaşamı hakkında her şeyi öğrenin."
           }
         },
         {
@@ -437,7 +464,8 @@
             "de": "Grander Mühle",
             "hu": "Grander malom",
             "ro": "Moara Grander",
-            "en": "Grander Mill"
+            "en": "Grander Mill",
+            "tr": "Grander Değirmeni"
           },
           "coords": [
             10.3605,
@@ -453,7 +481,8 @@
             "de": "Historische Wassermühle im Wald.",
             "hu": "Történelmi vízimalom az erdőben.",
             "ro": "Moară de apă istorică în pădure.",
-            "en": "Historic water mill in the forest."
+            "en": "Historic water mill in the forest.",
+            "tr": "Ormandaki tarihî su değirmeni."
           }
         }
       ],
@@ -461,7 +490,8 @@
         "de": "Diese Radtour verbindet die industrielle Geschichte mit der Natur. Von Bergedorfs Zentrum fahren wir zur Sternwarte auf dem Gojenberg. Danach geht es durch die Vier- und Marschlande zum Rieck Haus, einem der ältesten Bauernhäuser Norddeutschlands. Den Abschluss bildet die idyllische Grander Mühle.",
         "hu": "Ez a kerékpártúra összeköti az ipari történelmet a természettel. Bergedorf központjából a Gojenberg-en lévő Csillagvizsgálóhoz tekerünk, majd a mocsárvidéken át a Rieck Haus skanzenhez. A napot az erdő mélyén megbújó, idilli Grander malomnál zárjuk.",
         "ro": "Acest tur cu bicicleta îmbină istoria industrială cu natura. Din centrul Bergedorf, pedalăm spre Observatorul de pe Gojenberg, apoi prin mlaștini până la muzeul Rieck Haus. Încheiem ziua la idilica moară Grander, ascunsă în inima pădurii.",
-        "en": "This bike tour combines industrial history with nature. From central Bergedorf, we cycle to the Observatory on Gojenberg, then through the marshlands to the Rieck Haus open-air museum. The day ends at the idyllic Grander Mill, hidden in the forest."
+        "en": "This bike tour combines industrial history with nature. From central Bergedorf, we cycle to the Observatory on Gojenberg, then through the marshlands to the Rieck Haus open-air museum. The day ends at the idyllic Grander Mill, hidden in the forest.",
+        "tr": "Bu bisiklet turu, sanayi tarihini doğayla birleştiriyor. Merkez Bergedorf'tan Gojenberg'deki Gözlemevi'ne pedal çeviriyoruz, ardından bataklıklardan Rieck Haus açık hava müzesine ulaşıyoruz. Gün, ormanda saklı masalsı Grander Değirmeni'nde sona eriyor."
       },
       "gastro_picks": {
         "de": [
@@ -565,6 +595,11 @@
           "The Bille cycle path is particularly scenic.",
           "A helmet is advisable for the forest paths to the mill.",
           "Take enough water for the marshland section."
+        ],
+        "tr": [
+          "Bille bisiklet yolu özellikle manzaralıdır.",
+          "Değirmene giden orman yolları için kask tavsiye edilir.",
+          "Bataklık bölümü için yeterli su alın."
         ]
       }
     },
@@ -581,7 +616,8 @@
             "de": "Serrahn (Cluster A)",
             "hu": "Serrahn (A-klaszter)",
             "ro": "Serrahn (Cluster A)",
-            "en": "Serrahn (Cluster A)"
+            "en": "Serrahn (Cluster A)",
+            "tr": "Serrahn (Küme A)"
           },
           "coords": [
             10.2105,
@@ -597,7 +633,8 @@
             "de": "Parken am ZOB.",
             "hu": "Parkolás a központi buszállomásnál.",
             "ro": "Parcare la autogara centrală.",
-            "en": "Park at the central bus station."
+            "en": "Park at the central bus station.",
+            "tr": "Merkezi otobüs terminaline park edin."
           }
         },
         {
@@ -605,7 +642,8 @@
             "de": "Schloss Bergedorf (Cluster A)",
             "hu": "Bergedorfi kastély (A-klaszter)",
             "ro": "Castelul Bergedorf (Cluster A)",
-            "en": "Bergedorf Castle (Cluster A)"
+            "en": "Bergedorf Castle (Cluster A)",
+            "tr": "Bergedorf Kalesi (Küme A)"
           },
           "coords": [
             10.2125,
@@ -621,7 +659,8 @@
             "de": "Kurzer Fußweg vom Parkhaus.",
             "hu": "Rövid séta a parkolóháztól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking garage."
+            "en": "Short walk from the parking garage.",
+            "tr": "Otoparktan kısa bir yürüyüş mesafesi."
           }
         },
         {
@@ -629,7 +668,8 @@
             "de": "Freilichtmuseum Rieck Haus (Cluster B)",
             "hu": "Rieck Haus skanzen (B-klaszter)",
             "ro": "Muzeul Rieck Haus (Cluster B)",
-            "en": "Rieck Haus (Cluster B)"
+            "en": "Rieck Haus (Cluster B)",
+            "tr": "Rieck Haus (Küme B)"
           },
           "coords": [
             10.2285,
@@ -645,7 +685,8 @@
             "de": "Kostenloser Parkplatz am Museum.",
             "hu": "Ingyenes parkoló a múzeumnál.",
             "ro": "Parcare gratuită la muzeu.",
-            "en": "Free parking at the museum."
+            "en": "Free parking at the museum.",
+            "tr": "Müzede ücretsiz park yeri."
           }
         },
         {
@@ -653,7 +694,8 @@
             "de": "Landhaus Curslack (Cluster B)",
             "hu": "Landhaus Curslack (B-klaszter)",
             "ro": "Landhaus Curslack (Cluster B)",
-            "en": "Landhaus Curslack (Cluster B)"
+            "en": "Landhaus Curslack (Cluster B)",
+            "tr": "Landhaus Curslack (Küme B)"
           },
           "coords": [
             10.2295,
@@ -669,7 +711,8 @@
             "de": "Regionale Küche in gemütlicher Atmosphäre.",
             "hu": "Regionális konyha barátságos környezetben.",
             "ro": "Bucătărie regională într-o atmosferă primitoare.",
-            "en": "Regional cuisine in a cozy atmosphere."
+            "en": "Regional cuisine in a cozy atmosphere.",
+            "tr": "Sıcak bir atmosferde bölgesel mutfak."
           }
         },
         {
@@ -677,7 +720,8 @@
             "de": "Grander Mühle (Cluster C)",
             "hu": "Grander malom (C-klaszter)",
             "ro": "Moara Grander (Cluster C)",
-            "en": "Grander Mill (Cluster C)"
+            "en": "Grander Mill (Cluster C)",
+            "tr": "Grander Değirmeni (Küme C)"
           },
           "coords": [
             10.3605,
@@ -693,7 +737,8 @@
             "de": "Idyllische Waldlage, perfekt für einen Kurzstopp.",
             "hu": "Idilli erdei környezet, tökéletes megálló.",
             "ro": "Locație idilică în pădure, perfectă pentru o oprire.",
-            "en": "Idyllic forest location, perfect for a short stop."
+            "en": "Idyllic forest location, perfect for a short stop.",
+            "tr": "Kısa bir mola için ideal, içe dönük orman lokasyonu."
           }
         }
       ],
@@ -701,7 +746,8 @@
         "de": "Mit dem Auto erreichen Sie mühelos die Schätze im Umland. Nach dem Start im Zentrum mit dem Schloss fahren wir südlich ins Marschland zum historischen Rieck Haus. Ein lokales Mittagessen stärkt uns für die Fahrt zur abgelegenen Grander Mühle, einer Oase der Ruhe im Sachsenwald-Gebiet.",
         "hu": "Autóval könnyedén elérheti a környék kincseit. A központból és a kastélytól indulva délre, a mocsárvidékre megyünk a történelmi Rieck Haushoz. Egy helyi ebéd után továbbutazunk a távolabb eső Grander malomhoz, amely a nyugalom szigete a Sachsenwald közelében.",
         "ro": "Cu mașina puteți ajunge ușor la comorile din împrejurimi. Plecăm din centru, vizităm castelul, apoi mergem spre sud, în zona mlăștinoasă, la casa istorică Rieck. După un prânz local, continuăm drumul spre moara Grander, o oază de liniște lângă pădurea Sachsenwald.",
-        "en": "By car, you can easily reach the treasures of the surrounding area. Starting in the center with the castle, we drive south into the marshlands to the historic Rieck Haus. After a local lunch, we continue to the remote Grander Mill, an oasis of peace near the Sachsenwald forest."
+        "en": "By car, you can easily reach the treasures of the surrounding area. Starting in the center with the castle, we drive south into the marshlands to the historic Rieck Haus. After a local lunch, we continue to the remote Grander Mill, an oasis of peace near the Sachsenwald forest.",
+        "tr": "Arabayla çevrenin hazinelerine kolayca ulaşabilirsiniz. Merkezdeki kaleden başlayıp bataklıklara, tarihî Rieck Haus'a güney yönünde ilerliyoruz. Yerel bir öğle yemeğinin ardından uzaklardaki Grander Değirmeni'ne devam ediyoruz; Sachsenwald ormanına yakın huzur dolu bir vahadır."
       },
       "gastro_picks": {
         "de": [
@@ -807,6 +853,11 @@
           "Parking garages in the center are often full on weekends.",
           "The drive to Rieck Haus follows narrow dike roads.",
           "Watch out for cyclists in the Vierlande area."
+        ],
+        "tr": [
+          "Merkezdeki otopark garajları hafta sonları genellikle doludur.",
+          "Rieck Haus'a giden yol dar set yolları üzerinde ilerler.",
+          "Vierlande bölgesinde bisikletlilere dikkat edin."
         ]
       }
     },
@@ -823,7 +874,8 @@
             "de": "Rathaus Bergedorf (District 1)",
             "hu": "Városháza (1. körzet)",
             "ro": "Primăria Bergedorf (District 1)",
-            "en": "Town Hall (District 1)"
+            "en": "Town Hall (District 1)",
+            "tr": "Belediye Binası (Bölge 1)"
           },
           "coords": [
             10.2115,
@@ -839,7 +891,8 @@
             "de": "5 Min. Fußweg vom S-Bahnhof Bergedorf.",
             "hu": "5 perc séta a bergedorfi HÉV-állomástól.",
             "ro": "5 minute de mers de la gara S-Bahn Bergedorf.",
-            "en": "5 min walk from Bergedorf S-Bahn station."
+            "en": "5 min walk from Bergedorf S-Bahn station.",
+            "tr": "Bergedorf S-Bahn istasyonundan 5 dakikalık yürüyüş."
           }
         },
         {
@@ -847,7 +900,8 @@
             "de": "Schloss Bergedorf (District 1)",
             "hu": "Bergedorfi kastély (1. körzet)",
             "ro": "Castelul Bergedorf (District 1)",
-            "en": "Bergedorf Castle (District 1)"
+            "en": "Bergedorf Castle (District 1)",
+            "tr": "Bergedorf Kalesi (Bölge 1)"
           },
           "coords": [
             10.2125,
@@ -863,7 +917,8 @@
             "de": "Besichtigung des Heimatmuseums.",
             "hu": "Helytörténeti múzeum látogatása.",
             "ro": "Vizitarea muzeului de istorie locală.",
-            "en": "Visit the local history museum."
+            "en": "Visit the local history museum.",
+            "tr": "Yerel tarih müzesini ziyaret edin."
           }
         },
         {
@@ -871,7 +926,8 @@
             "de": "Hamburger Sternwarte (District 2)",
             "hu": "Csillagvizsgáló (2. körzet)",
             "ro": "Observatorul Hamburg (District 2)",
-            "en": "Observatory (District 2)"
+            "en": "Observatory (District 2)",
+            "tr": "Gözlemevi (Bölge 2)"
           },
           "coords": [
             10.2415,
@@ -887,7 +943,8 @@
             "de": "Bus 135 ab Bergedorf Bahnhof.",
             "hu": "135-ös busz a pályaudvartól.",
             "ro": "Autobuzul 135 de la gară.",
-            "en": "Bus 135 from the station."
+            "en": "Bus 135 from the station.",
+            "tr": "İstasyondan 135 numaralı otobüs."
           }
         },
         {
@@ -895,7 +952,8 @@
             "de": "Schloss-Café",
             "hu": "Kastély-kávézó",
             "ro": "Cafeneaua Castelului",
-            "en": "Castle Café"
+            "en": "Castle Café",
+            "tr": "Kale Kafesi"
           },
           "coords": [
             10.2128,
@@ -911,7 +969,8 @@
             "de": "Hausgemachter Kuchen im Schlosshof.",
             "hu": "Házias sütemények a kastélyudvaron.",
             "ro": "Prăjituri de casă în curtea castelului.",
-            "en": "Homemade cake in the castle courtyard."
+            "en": "Homemade cake in the castle courtyard.",
+            "tr": "Kale avlusunda ev yapımı kek."
           }
         }
       ],
@@ -919,7 +978,8 @@
         "de": "Nutzen Sie das dichte Busnetz Hamburgs. Wir starten im historischen Kern am Rathaus und Schloss. Danach bringt uns der Bus auf den Gojenberg zur berühmten Sternwarte. Den Nachmittag lassen wir entspannt im Schlosshof ausklingen, bevor uns die S-Bahn zurück in die City bringt.",
         "hu": "Használja ki Hamburg sűrű buszhálózatát. A történelmi magban kezdünk a Városházánál és a Kastélynál, majd busszal felmegyünk a Gojenbergre a híres Csillagvizsgálóhoz. A délutánt kellemesen zárjuk a kastély udvarán, mielőtt visszatérnénk a városba.",
         "ro": "Profită de rețeaua densă de autobuze din Hamburg. Începem în centrul istoric, la Primărie și Castel, apoi luăm autobuzul spre Gojenberg pentru faimosul Observator. Încheiem după-amiaza relaxat în curtea castelului, înainte ca trenul să ne ducă înapoi în oraș.",
-        "en": "Make use of Hamburg's dense bus network. We start in the historic core at the Town Hall and Castle, then take the bus up to Gojenberg to the famous Observatory. We end the afternoon relaxing in the castle courtyard before taking the S-Bahn back to the city."
+        "en": "Make use of Hamburg's dense bus network. We start in the historic core at the Town Hall and Castle, then take the bus up to Gojenberg to the famous Observatory. We end the afternoon relaxing in the castle courtyard before taking the S-Bahn back to the city.",
+        "tr": "Hamburg'un yoğun otobüs ağından yararlanın. Tarihi merkezde Belediye Binası ve Kale ile başlıyoruz, sonra Gojenberg'e giden otobüse binip ünlü Gözlemevi'ne ulaşıyoruz. Öğleden sonrayı kale avlusunda dinlenerek geçirip S-Bahn ile şehre geri dönüyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -1023,6 +1083,11 @@
           "Use the HVV app for real-time departures.",
           "A day ticket is worth it after just two trips.",
           "Bus 135 runs every 20 minutes."
+        ],
+        "tr": [
+          "Gerçek zamanlı kalkışlar için HVV uygulamasını kullanın.",
+          "Sadece iki yolculuktan sonra günlük bilet kendini amorti eder.",
+          "135 numaralı otobüs her 20 dakikada bir çalışır."
         ]
       }
     }

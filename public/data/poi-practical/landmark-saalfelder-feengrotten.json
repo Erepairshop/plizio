@@ -3,55 +3,64 @@
     "de": "Feengrottenweg 2, 07318 Saalfeld/Saale",
     "hu": "Feengrottenweg 2, 07318 Saalfeld/Saale",
     "ro": "Feengrottenweg 2, 07318 Saalfeld/Saale",
-    "en": "Feengrottenweg 2, 07318 Saalfeld/Saale"
+    "en": "Feengrottenweg 2, 07318 Saalfeld/Saale",
+    "tr": "Feengrottenweg 2, 07318 Saalfeld/Saale"
   },
   "openingHours": {
     "de": "Mo-Su 10:00-17:00",
     "hu": "Hé-Va 10:00-17:00",
     "ro": "Lu-Du 10:00-17:00",
-    "en": "Mon-Sun 10:00-17:00"
+    "en": "Mon-Sun 10:00-17:00",
+    "tr": "Pzt-Paz 10:00-17:00"
   },
   "entranceFee": {
     "de": "€14.00 Erwachsene (Grotten inkl. Museum)",
     "hu": "14,00 € felnőtt (barlangok múzeummal)",
     "ro": "14,00 € adulți (grote incl. muzeu)",
-    "en": "€14.00 adults (caves incl. museum)"
+    "en": "€14.00 adults (caves incl. museum)",
+    "tr": "€14,00 yetişkinler (mağaralar müze dahil)"
   },
   "website": "https://www.feengrotten.de",
   "publicTransport": {
     "de": "Buslinie A (Stadtverkehr Saalfeld)",
     "hu": "A-busz (Saalfeld helyi közlekedés)",
     "ro": "Linia de autobuz A (transport local Saalfeld)",
-    "en": "Bus line A (Saalfeld local transport)"
+    "en": "Bus line A (Saalfeld local transport)",
+    "tr": "A hattı otobüsü (Saalfeld yerel ulaşımı)"
   },
   "parking": {
     "de": "Großer Parkplatz vor dem Gelände",
     "hu": "Nagy parkoló a terület előtt",
     "ro": "Parcare mare în fața locației",
-    "en": "Large parking lot in front of the site"
+    "en": "Large parking lot in front of the site",
+    "tr": "Sitenin önünde büyük otopark"
   },
   "accessibility": {
     "de": "Grotten nicht barrierefrei (viele Stufen, niedrige Decken)",
     "hu": "A barlangok nem akadálymentesek (sok lépcső, alacsony mennyezet)",
     "ro": "Grotele nu sunt accesibile (multe trepte, tavane joase)",
-    "en": "Caves not accessible (many stairs, low ceilings)"
+    "en": "Caves not accessible (many stairs, low ceilings)",
+    "tr": "Mağaralar erişilemez (çok sayıda merdiven, alçak tavanlar)"
   },
   "photoRules": {
     "de": "Nur ohne Blitz",
     "hu": "Csak vaku nélkül",
     "ro": "Doar fără bliț",
-    "en": "Only without flash"
+    "en": "Only without flash",
+    "tr": "Sadece flaşsız"
   },
   "bestTimeToVisit": {
     "de": "Ganzjährig (konstante Temperatur)",
     "hu": "Egész évben (állandó hőmérséklet)",
     "ro": "Tot timpul anului (temperatură constantă)",
-    "en": "All year round (constant temperature)"
+    "en": "All year round (constant temperature)",
+    "tr": "Yılın her dönemi (sabit sıcaklık)"
   },
   "audioGuide": {
     "de": "Deutsch (Führung obligatorisch)",
     "hu": "Német (túravezetés kötelező)",
     "ro": "Germană (tur ghidat obligatoriu)",
-    "en": "German (guided tour mandatory)"
+    "en": "German (guided tour mandatory)",
+    "tr": "Almanca (rehberli tur zorunlu)"
   }
 }

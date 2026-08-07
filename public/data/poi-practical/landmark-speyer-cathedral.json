@@ -3,55 +3,64 @@
     "de": "Domplatz 1, 67346 Speyer",
     "hu": "Domplatz 1, 67346 Speyer",
     "ro": "Domplatz 1, 67346 Speyer",
-    "en": "Domplatz 1, 67346 Speyer"
+    "en": "Domplatz 1, 67346 Speyer",
+    "tr": "Domplatz 1, 67346 Speyer"
   },
   "openingHours": {
     "de": "Mo-Sa 09:00-19:00, So 11:30-17:30",
     "hu": "H-Szo 09:00-19:00, V 11:30-17:30",
     "ro": "L-Sâm 09:00-19:00, Dum 11:30-17:30",
-    "en": "Mon-Sat 09:00-19:00, Sun 11:30-17:30"
+    "en": "Mon-Sat 09:00-19:00, Sun 11:30-17:30",
+    "tr": "Pzt-Cum 09:00-19:00, Paz 11:30-17:30"
   },
   "entranceFee": {
     "de": "Kirchenschiff kostenlos, Krypta/Kaisersaal €6.00",
     "hu": "A templomhajó ingyenes, kripta/császári terem 6,00 €",
     "ro": "Nava bisericii gratuită, criptă/sală imperială 6 €",
-    "en": "Church nave free, crypt/imperial hall €6.00"
+    "en": "Church nave free, crypt/imperial hall €6.00",
+    "tr": "Kilisenin nefsi ücretsiz, kripta/imperial salon €6,00"
   },
   "website": "https://www.dom-zu-speyer.de",
   "publicTransport": {
     "de": "Bus 564, 565 bis Haltestelle Domplatz",
     "hu": "564-es, 565-ös busz a Domplatz megállóig",
     "ro": "Autobuz 564, 565 până la stația Domplatz",
-    "en": "Bus 564, 565 to Domplatz stop"
+    "en": "Bus 564, 565 to Domplatz stop",
+    "tr": "Bus 564, 565 Domplatz durağına"
   },
   "parking": {
     "de": "Großer Festplatz Parkplatz in Gehweite, ca. €3.00 Tagesticket.",
     "hu": "Nagy Festplatz parkoló sétatávolságra, kb. 3,00 € napijegy.",
     "ro": "Parcare mare Festplatz la distanță de mers pe jos, aprox. 3 € bilet zilnic.",
-    "en": "Large Festplatz parking within walking distance, approx. €3.00 daily ticket."
+    "en": "Large Festplatz parking within walking distance, approx. €3.00 daily ticket.",
+    "tr": "Yürüyüş mesafesinde büyük Festplatz otoparkı, yaklaşık günlük bilet €3,00."
   },
   "accessibility": {
     "de": "Hauptschiff barrierefrei, Krypta nur über Stufen.",
     "hu": "A főhajó akadálymentesített, a kripta csak lépcsőn érhető el.",
     "ro": "Nava principală accesibilă, cripta doar pe scări.",
-    "en": "Main nave accessible, crypt only via steps."
+    "en": "Main nave accessible, crypt only via steps.",
+    "tr": "Ana nef erişilebilir, kripta yalnızca basamaklarla."
   },
   "photoRules": {
     "de": "Erlaubt ohne Blitz, während Gottesdiensten untersagt.",
     "hu": "Vaku nélkül megengedett, istentisztelet alatt tilos.",
     "ro": "Permis fără bliț, interzis în timpul slujbelor.",
-    "en": "Allowed without flash, prohibited during church services."
+    "en": "Allowed without flash, prohibited during church services.",
+    "tr": "Flaşsız izin verilir, ibadet sırasında yasaktır."
   },
   "bestTimeToVisit": {
     "de": "Abendstunden für warmes Licht an der Fassade.",
     "hu": "Esti órákban, a homlokzatot érő meleg fényért.",
     "ro": "Orele serii, pentru lumina caldă pe fațadă.",
-    "en": "Evening hours for warm light on the facade."
+    "en": "Evening hours for warm light on the facade.",
+    "tr": "Cephede sıcak ışık için akşam saatleri."
   },
   "audioGuide": {
     "de": "App verfügbar, Führungen in mehreren Sprachen.",
     "hu": "App elérhető, vezetett túrák több nyelven.",
     "ro": "Aplicație disponibilă, tururi ghidate în mai multe limbi.",
-    "en": "App available, guided tours in several languages."
+    "en": "App available, guided tours in several languages.",
+    "tr": "Uygulama mevcut, rehberli turlar birkaç dilde."
   }
 }

@@ -21,7 +21,8 @@
             "de": "Rheintor Zons",
             "hu": "Zonsi Rajna-kapu",
             "ro": "Poarta Rinului Zons",
-            "en": "Rheintor Zons"
+            "en": "Rheintor Zons",
+            "tr": "Rheintor Zons"
           },
           "coords": [
             51.1212,
@@ -37,7 +38,8 @@
             "de": "Das imposante Haupttor der befestigten Stadt.",
             "hu": "Az erődített város lenyűgöző főkapuja.",
             "ro": "Poarta principală impunătoare a orașului fortificat.",
-            "en": "The imposing main gate of the fortified town."
+            "en": "The imposing main gate of the fortified town.",
+            "tr": "Güçlü kale kentinin görkemli ana kapısı."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Stadtbefestigung Zons",
             "hu": "Zons városfalai",
             "ro": "Fortificațiile orașului Zons",
-            "en": "Zons City Fortifications"
+            "en": "Zons City Fortifications",
+            "tr": "Zons Şehir Surları"
           },
           "coords": [
             51.1205,
@@ -61,7 +64,8 @@
             "de": "Spaziergang auf der gut erhaltenen mittelalterlichen Mauer.",
             "hu": "Séta a jó állapotban lévő középkori városfalakon.",
             "ro": "O plimbare pe zidurile medievale bine conservate.",
-            "en": "A walk along the well-preserved medieval walls."
+            "en": "A walk along the well-preserved medieval walls.",
+            "tr": "İyi korunmuş ortaçağ surları boyunca bir yürüyüş."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Juddeturm",
             "hu": "Juddeturm torony",
             "ro": "Turnul Juddeturm",
-            "en": "Juddeturm Tower"
+            "en": "Juddeturm Tower",
+            "tr": "Juddeturm Kulesi"
           },
           "coords": [
             51.1198,
@@ -85,7 +90,8 @@
             "de": "Ein markanter Turm mit barocker Haube.",
             "hu": "Jellegzetes torony barokk tetővel.",
             "ro": "Un turn distinctiv cu acoperiș baroc.",
-            "en": "A distinctive tower with a baroque cap."
+            "en": "A distinctive tower with a baroque cap.",
+            "tr": "Barok bir başlığa sahip ayırt edici bir kule."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Schloss Friedestrom",
             "hu": "Friedestrom-kastély",
             "ro": "Castelul Friedestrom",
-            "en": "Friedestrom Castle"
+            "en": "Friedestrom Castle",
+            "tr": "Friedestrom Kalesi"
           },
           "coords": [
             51.1202,
@@ -109,7 +116,8 @@
             "de": "Die ehemalige Zollburg der Kölner Erzbischöfe.",
             "hu": "A kölni érsekek egykori vámvára.",
             "ro": "Fostul castel vamal al arhiepiscopilor din Köln.",
-            "en": "The former customs castle of the Cologne Archbishops."
+            "en": "The former customs castle of the Cologne Archbishops.",
+            "tr": "Köln Başpiskoposlarının eski gümrük kalesi."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în orașul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "tr": "Eski Kentte Öğle Yemeği"
           },
           "coords": [
             51.1208,
@@ -133,7 +142,8 @@
             "de": "Probieren Sie rheinische Spezialitäten wie 'Himmel un Ääd'.",
             "hu": "Kóstolja meg a rajnai 'Himmel un Ääd'-et.",
             "ro": "Încercați specialități renane precum 'Himmel un Ääd'.",
-            "en": "Try Rhenish specialties like 'Himmel un Ääd'."
+            "en": "Try Rhenish specialties like 'Himmel un Ääd'.",
+            "tr": "'Himmel un Ääd' gibi Ren yöresi lezzetlerini deneyin."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Mühle Zons",
             "hu": "Zonsi szélmalom",
             "ro": "Moara din Zons",
-            "en": "Zons Windmill"
+            "en": "Zons Windmill",
+            "tr": "Zons Yel Değirmeni"
           },
           "coords": [
             51.1225,
@@ -157,7 +168,8 @@
             "de": "Historische Windmühle auf dem Wehrturm.",
             "hu": "Történelmi szélmalom egy védőtorony tetején.",
             "ro": "Moară de vânt istorică pe un turn de apărare.",
-            "en": "Historical windmill atop a defensive tower."
+            "en": "Historical windmill atop a defensive tower.",
+            "tr": "Savunma kulesi üstündeki tarihi yel değirmeni."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "St. Michael Kirche",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica Sf. Mihail",
-            "en": "St. Michael's Church"
+            "en": "St. Michael's Church",
+            "tr": "Aziz Michael Kilisesi"
           },
           "coords": [
             51.1075,
@@ -181,7 +194,8 @@
             "de": "Eine neugotische Hallenkirche im Stadtzentrum.",
             "hu": "Neogótikus csarnoktemplom a városközpontban.",
             "ro": "O biserică hală neogotică în centrul orașului.",
-            "en": "A neo-Gothic hall church in the city center."
+            "en": "A neo-Gothic hall church in the city center.",
+            "tr": "Şehir merkezinde neo-Gotik bir salon kilisesi."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Dormagen besticht durch die mittelalterliche Zollfeste Zons, auch bekannt als 'Rheinische Rothenburg'. Der Vormittag gehört den mächtigen Stadtmauern und dem Rheintor. Nach einem zünftigen rheinischen Mittagessen erkunden Sie das Schloss Friedestrom und die markante Windmühle. Der Spaziergang führt schließlich zur neugotischen St. Michael Kirche im Zentrum, wo der Tag entspannt ausklingt.",
         "hu": "Dormagen ékköve a középkori Zons, a 'rajnai Rothenburg'. A délelőttöt a hatalmas városfalak és a Rajna-kapu felfedezésével töltjük. Egy kiadós rajnai ebéd után megnézzük a Friedestrom-kastélyt és a jellegzetes szélmalmot. A séta végül a városközpont neogótikus Szent Mihály-templomához vezet, ahol nyugodt hangulatban zárhatjuk a napot.",
         "ro": "Dormagen impresionează prin cetatea medievală Zons, cunoscută sub numele de 'Rothenburg-ul de pe Rin'. Dimineața este dedicată zidurilor puternice ale orașului și Porții Rinului. După un prânz renan copios, explorați Castelul Friedestrom și moara de vânt distinctivă. Plimbarea se încheie la biserica neogotică Sf. Mihail din centru, pentru un final de zi relaxant.",
-        "en": "Dormagen is famous for the medieval fortress town of Zons, the 'Rhenish Rothenburg'. Spend the morning exploring the massive city walls and the Rheintor. After a hearty Rhenish lunch, visit Friedestrom Castle and the iconic windmill. The walk concludes at the neo-Gothic St. Michael's Church in the center, offering a peaceful end to the day."
+        "en": "Dormagen is famous for the medieval fortress town of Zons, the 'Rhenish Rothenburg'. Spend the morning exploring the massive city walls and the Rheintor. After a hearty Rhenish lunch, visit Friedestrom Castle and the iconic windmill. The walk concludes at the neo-Gothic St. Michael's Church in the center, offering a peaceful end to the day.",
+        "tr": "Dormagen, 'Ren'in Rothenburg'u' olan ortaçağ kaleleri kasabası Zons ile ünlüdür. Sabahı kocaman şehir surlarını ve Rheintor'u keşfederek geçirin. Bol bir Ren usulü öğle yemeğinin ardından Friedestrom Kalesi ve ikonik yel değirmenini ziyaret edin. Yürüyüş, merkeze dönen neo-Gotik Aziz Michael Kilisesi'nde sakin bir gün sonu sunar."
       },
       "gastro_picks": {
         "de": [
@@ -305,6 +320,10 @@
         "en": [
           "Wear comfortable shoes for the cobblestone streets in Zons.",
           "Visit Zons during the week to avoid the tourist crowds."
+        ],
+        "tr": [
+          "Zons'taki parke taşlı sokaklar için rahat ayakkabılar giyin.",
+          "Turist kalabalığından kaçınmak için Zons'u hafta içinde ziyaret edin."
         ]
       }
     },
@@ -321,7 +340,8 @@
             "de": "Kloster Knechtsteden",
             "hu": "Knechtsteden kolostor",
             "ro": "Mănăstirea Knechtsteden",
-            "en": "Knechtsteden Abbey"
+            "en": "Knechtsteden Abbey",
+            "tr": "Knechtsteden Manastırı"
           },
           "coords": [
             51.0772,
@@ -337,7 +357,8 @@
             "de": "Prämonstratenserabtei aus dem 12. Jahrhundert.",
             "hu": "12. századi premontrei apátság.",
             "ro": "Abacie premonstratensă din secolul al XII-lea.",
-            "en": "12th-century Premonstratensian abbey."
+            "en": "12th-century Premonstratensian abbey.",
+            "tr": "12. yüzyıla ait Premonstraten manastırı."
           }
         },
         {
@@ -345,7 +366,8 @@
             "de": "Tannenbusch",
             "hu": "Tannenbusch vadaspark",
             "ro": "Parcul Tannenbusch",
-            "en": "Tannenbusch Forest Park"
+            "en": "Tannenbusch Forest Park",
+            "tr": "Tannenbusch Orman Parkı"
           },
           "coords": [
             51.0955,
@@ -361,7 +383,8 @@
             "de": "Wildpark und Waldgebiet ideal für eine Pause.",
             "hu": "Vadaspark és erdő, ideális egy pihenőhöz.",
             "ro": "Parc cu animale sălbatice și zonă împădurită.",
-            "en": "Wildpark and forest area ideal for a break."
+            "en": "Wildpark and forest area ideal for a break.",
+            "tr": "Ara vermek için ideal hayvan parkı ve orman alanı."
           }
         },
         {
@@ -369,7 +392,8 @@
             "de": "Rheintor Zons",
             "hu": "Zonsi Rajna-kapu",
             "ro": "Poarta Rinului Zons",
-            "en": "Rheintor Zons"
+            "en": "Rheintor Zons",
+            "tr": "Rheintor Zons"
           },
           "coords": [
             51.1212,
@@ -385,7 +409,8 @@
             "de": "Das historische Eingangstor zur Festung.",
             "hu": "A vár történelmi bejárati kapuja.",
             "ro": "Poarta istorică de intrare în cetate.",
-            "en": "The historic entrance gate to the fortress."
+            "en": "The historic entrance gate to the fortress.",
+            "tr": "Kalenin tarihi giriş kapısı."
           }
         },
         {
@@ -393,7 +418,8 @@
             "de": "Mittagessen in Zons",
             "hu": "Ebéd Zonsban",
             "ro": "Prânz în Zons",
-            "en": "Lunch in Zons"
+            "en": "Lunch in Zons",
+            "tr": "Zons'ta Öğle Yemeği"
           },
           "coords": [
             51.1208,
@@ -409,7 +435,8 @@
             "de": "Radfahrerfreundliche Restaurants in der Altstadt.",
             "hu": "Kerékpáros-barát éttermek az óvárosban.",
             "ro": "Restaurante primitoare pentru bicicliști în orașul vechi.",
-            "en": "Cyclist-friendly restaurants in the old town."
+            "en": "Cyclist-friendly restaurants in the old town.",
+            "tr": "Eski kentte bisikletçilere uygun restoranlar."
           }
         },
         {
@@ -417,7 +444,8 @@
             "de": "Mühle Zons",
             "hu": "Zonsi szélmalom",
             "ro": "Moara din Zons",
-            "en": "Zons Windmill"
+            "en": "Zons Windmill",
+            "tr": "Zons Yel Değirmeni"
           },
           "coords": [
             51.1225,
@@ -433,7 +461,8 @@
             "de": "Die alte Mühle ist ein markantes Fotomotiv.",
             "hu": "A régi malom kiváló fotótéma.",
             "ro": "Vechea moară este un motiv fotografic excelent.",
-            "en": "The old mill is a striking photo subject."
+            "en": "The old mill is a striking photo subject.",
+            "tr": "Eski değirmen etkileyici bir fotoğraf konusudur."
           }
         },
         {
@@ -441,7 +470,8 @@
             "de": "Rheinradweg",
             "hu": "Rajnai kerékpárút",
             "ro": "Pista de biciclete de pe Rin",
-            "en": "Rhine Cycle Path"
+            "en": "Rhine Cycle Path",
+            "tr": "Ren Bisiklet Yolu"
           },
           "coords": [
             51.1245,
@@ -457,7 +487,8 @@
             "de": "Fahrt entlang des Rheins zurück zum Start.",
             "hu": "Visszatekintés a Rajna mentén a kiindulópontig.",
             "ro": "Plimbare de-a lungul Rinului înapoi la start.",
-            "en": "Ride along the Rhine back to the start."
+            "en": "Ride along the Rhine back to the start.",
+            "tr": "Başlangıca geri dönüşte Ren boyunca sürün."
           }
         }
       ],
@@ -465,7 +496,8 @@
         "de": "Diese Radtour verbindet die sakrale Stille von Kloster Knechtsteden mit dem mittelalterlichen Charme von Zons. Sie starten an der romanischen Abtei und radeln durch den Tannenbusch nach Zons. Nach der Erkundung der Festung und einem herzhaften Mittagessen führt der Weg entspannt entlang des Rheins zurück. Eine perfekte Mischung aus Kultur, Geschichte und Natur auf flachen Wegen.",
         "hu": "Ez a kerékpártúra összeköti a Knechtsteden kolostor szakrális csendjét Zons középkori bájával. A román stílusú apátságtól indulunk, majd a Tannenbusch erdőn át tekerünk Zonsba. Az erőd felfedezése és egy kiadós ebéd után az út kényelmesen, a Rajna mentén vezet vissza. A kultúra, a történelem és a természet tökéletes keveréke sík terepen.",
         "ro": "Acest tur cu bicicleta combină liniștea sacră a Mănăstirii Knechtsteden cu farmecul medieval al Zons. Începeți la abatia romanică și pedalați prin pădurea Tannenbusch până la Zons. După explorarea cetății și un prânz copios, drumul continuă relaxat de-a lungul Rinului. Un amestec perfect de cultură, istorie și natură pe trasee plate.",
-        "en": "This bike tour connects the sacred silence of Knechtsteden Abbey with the medieval charm of Zons. Start at the Romanesque abbey and cycle through the Tannenbusch forest to Zons. After exploring the fortress and a hearty lunch, the route leads back along the Rhine. A perfect mix of culture, history, and nature on flat paths."
+        "en": "This bike tour connects the sacred silence of Knechtsteden Abbey with the medieval charm of Zons. Start at the Romanesque abbey and cycle through the Tannenbusch forest to Zons. After exploring the fortress and a hearty lunch, the route leads back along the Rhine. A perfect mix of culture, history, and nature on flat paths.",
+        "tr": "Bu bisiklet turu, Knechtsteden Manastırı'nın kutsal sessizliğini Zons'un ortaçağ cazibesiyle birleştirir. Romanesk manastırda başlayıp Tannenbusch ormanı üzerinden Zons'a pedal çevirin. Kaleyi keşfedip doyurucu bir öğle yemeğinin ardından rota Ren boyunca geri döner. Düz yollarda kültür, tarih ve doğanın mükemmel bir karışımı."
       },
       "gastro_picks": {
         "de": [
@@ -565,6 +597,10 @@
         "en": [
           "The paths are flat and very well maintained.",
           "There are numerous bike racks in Zons."
+        ],
+        "tr": [
+          "Yollar düz ve çok iyi bakımlıdır.",
+          "Zons'ta çok sayıda bisiklet park yeri var."
         ]
       }
     },
@@ -581,7 +617,8 @@
             "de": "Cluster Zons: Rheintor",
             "hu": "Zons: Rajna-kapu",
             "ro": "Zons: Poarta Rinului",
-            "en": "Zons: Rheintor"
+            "en": "Zons: Rheintor",
+            "tr": "Zons: Rheintor"
           },
           "coords": [
             51.1212,
@@ -597,7 +634,8 @@
             "de": "Parken Sie auf dem großen Parkplatz vor der Stadtmauer.",
             "hu": "Parkoljon a városfal előtti nagy parkolóban.",
             "ro": "Parcați în parcarea mare din fața zidului orașului.",
-            "en": "Park in the large parking lot in front of the city wall."
+            "en": "Park in the large parking lot in front of the city wall.",
+            "tr": "Şehir duvarının önündeki büyük otoparka park edin."
           }
         },
         {
@@ -605,7 +643,8 @@
             "de": "Stadtbefestigung Zons",
             "hu": "Zons városfalai",
             "ro": "Fortificațiile Zons",
-            "en": "Zons City Walls"
+            "en": "Zons City Walls",
+            "tr": "Zons Şehir Surları"
           },
           "coords": [
             51.1205,
@@ -621,7 +660,8 @@
             "de": "Erkunden Sie die Gassen zu Fuß.",
             "hu": "Fedezze fel az utcákat gyalog.",
             "ro": "Explorați străzile pe jos.",
-            "en": "Explore the alleys on foot."
+            "en": "Explore the alleys on foot.",
+            "tr": "Arnavut kaldırımlı sokakları yürüyerek keşfedin."
           }
         },
         {
@@ -629,7 +669,8 @@
             "de": "Mühle Zons",
             "hu": "Zonsi szélmalom",
             "ro": "Moara din Zons",
-            "en": "Zons Windmill"
+            "en": "Zons Windmill",
+            "tr": "Zons Yel Değirmeni"
           },
           "coords": [
             51.1225,
@@ -645,7 +686,8 @@
             "de": "Ein Muss für jedes Fotoalbum.",
             "hu": "Minden fotóalbum elengedhetetlen része.",
             "ro": "O necesitate pentru orice album foto.",
-            "en": "A must for every photo album."
+            "en": "A must for every photo album.",
+            "tr": "Her fotoğraf albümü için olmazsa olmaz."
           }
         },
         {
@@ -653,7 +695,8 @@
             "de": "Cluster Knechtsteden: Kloster",
             "hu": "Knechtsteden: Kolostor",
             "ro": "Knechtsteden: Mănăstirea",
-            "en": "Knechtsteden: Abbey"
+            "en": "Knechtsteden: Abbey",
+            "tr": "Knechtsteden: Manastır"
           },
           "coords": [
             51.0772,
@@ -669,7 +712,8 @@
             "de": "Kurze Fahrt ins Grüne zur Abtei.",
             "hu": "Rövid autózás a természetbe az apátsághoz.",
             "ro": "Scurtă călătorie în natură către abatie.",
-            "en": "Short drive into the countryside to the abbey."
+            "en": "Short drive into the countryside to the abbey.",
+            "tr": "Manastıra kısa bir kırsal sürüş."
           }
         },
         {
@@ -677,7 +721,8 @@
             "de": "Mittagessen am Kloster",
             "hu": "Ebéd a kolostornál",
             "ro": "Prânz la mănăstire",
-            "en": "Lunch at the Abbey"
+            "en": "Lunch at the Abbey",
+            "tr": "Manastırda Öğle Yemeği"
           },
           "coords": [
             51.0768,
@@ -693,7 +738,8 @@
             "de": "Genießen Sie die Ruhe im Klosterhof.",
             "hu": "Élvezze a nyugalmat a kolostor udvarán.",
             "ro": "Bucurați-vă de liniște în curtea mănăstirii.",
-            "en": "Enjoy the peace in the monastery courtyard."
+            "en": "Enjoy the peace in the monastery courtyard.",
+            "tr": "Manastır avlusunda huzurun tadını çıkarın."
           }
         },
         {
@@ -701,7 +747,8 @@
             "de": "Cluster Tannenbusch: Wildpark",
             "hu": "Tannenbusch: Vadaspark",
             "ro": "Tannenbusch: Parcul cu animale",
-            "en": "Tannenbusch: Wildlife Park"
+            "en": "Tannenbusch: Wildlife Park",
+            "tr": "Tannenbusch: Yaban Hayatı Parkı"
           },
           "coords": [
             51.0955,
@@ -717,7 +764,8 @@
             "de": "Ideal für Familien und Naturliebhaber.",
             "hu": "Ideális családoknak és természetkedvelőknek.",
             "ro": "Ideal pentru familii și iubitori de natură.",
-            "en": "Ideal for families and nature lovers."
+            "en": "Ideal for families and nature lovers.",
+            "tr": "Aileler ve doğa severler için ideal."
           }
         },
         {
@@ -725,7 +773,8 @@
             "de": "Geoparc Tannenbusch",
             "hu": "Tannenbusch Geopark",
             "ro": "Geoparc Tannenbusch",
-            "en": "Tannenbusch Geoparc"
+            "en": "Tannenbusch Geoparc",
+            "tr": "Tannenbusch Jeoparkı"
           },
           "coords": [
             51.096,
@@ -741,7 +790,8 @@
             "de": "Geologische Highlights der Region.",
             "hu": "A régió geológiai érdekességei.",
             "ro": "Puncte geologice importante ale regiunii.",
-            "en": "Geological highlights of the region."
+            "en": "Geological highlights of the region.",
+            "tr": "Bölgenin jeolojik öne çıkan noktaları."
           }
         },
         {
@@ -749,7 +799,8 @@
             "de": "Abschluss am Rhein",
             "hu": "Napzárás a Rajnánál",
             "ro": "Final de zi pe Rin",
-            "en": "Farewell at the Rhine"
+            "en": "Farewell at the Rhine",
+            "tr": "Ren'de Veda"
           },
           "coords": [
             51.125,
@@ -765,7 +816,8 @@
             "de": "Blick auf den Fluss zum Abschluss.",
             "hu": "Kilátás a folyóra a nap végén.",
             "ro": "Privire asupra fluviului la final.",
-            "en": "View of the river to wrap up."
+            "en": "View of the river to wrap up.",
+            "tr": "Günü bitirmek için nehre bakış."
           }
         }
       ],
@@ -773,7 +825,8 @@
         "de": "Dormagen mit dem Auto zu erkunden ermöglicht den Besuch der drei wichtigsten Cluster: Die mittelalterliche Festung Zons, die ehrwürdige Abtei Knechtsteden und den erholsamen Tannenbusch. Sie parken jeweils zentral und erkunden die Highlights zu Fuß. So erleben Sie Geschichte, Spiritualität und Natur ganz entspannt an einem Tag, mit minimalen Fahrtzeiten zwischen den Standorten.",
         "hu": "Dormagen felfedezése autóval lehetővé teszi a három legfontosabb központ felkeresését: Zons középkori erődjét, a tekintélyes Knechtsteden apátságot és a pihentető Tannenbusch erdőt. Mindenhol központilag parkolunk, és gyalog fedezzük fel a látnivalókat. Így egyetlen nap alatt, minimális utazási idővel tapasztalhatjuk meg a történelmet, a spiritualitást és a természetet.",
         "ro": "Explorarea Dormagen cu mașina permite vizitarea celor mai importante trei puncte: cetatea medievală Zons, venerabila Abatie Knechtsteden și relaxanta pădure Tannenbusch. Parcați central în fiecare loc și explorați punctele de interes pe jos. Astfel, experimentați istoria, spiritualitatea și natura într-o singură zi, cu timpi minimi de condus între locații.",
-        "en": "Exploring Dormagen by car allows you to visit the three main clusters: the medieval fortress of Zons, the venerable Knechtsteden Abbey, and the relaxing Tannenbusch forest. You park centrally at each spot and explore the highlights on foot. This way, you experience history, spirituality, and nature in one relaxed day with minimal driving between sites."
+        "en": "Exploring Dormagen by car allows you to visit the three main clusters: the medieval fortress of Zons, the venerable Knechtsteden Abbey, and the relaxing Tannenbusch forest. You park centrally at each spot and explore the highlights on foot. This way, you experience history, spirituality, and nature in one relaxed day with minimal driving between sites.",
+        "tr": "Dormagen'i arabayla keşfetmek, üç ana kümeyi ziyaret etmenizi sağlar: Zons'un ortaçağ kalesi, saygın Knechtsteden Manastırı ve dinlendirici Tannenbusch ormanı. Her noktada merkezi olarak park edip önemli yerleri yürüyerek gezersiniz. Bu şekilde az sürüşle tarih, maneviyat ve doğayı rahat bir günde yaşarsınız."
       },
       "gastro_picks": {
         "de": [
@@ -873,6 +926,10 @@
         "en": [
           "Have parking fees ready for Zons.",
           "Tannenbusch is especially popular on weekends."
+        ],
+        "tr": [
+          "Zons için park ücretlerini hazır bulundurun.",
+          "Tannenbusch özellikle hafta sonları popülerdir."
         ]
       }
     },
@@ -889,7 +946,8 @@
             "de": "Dormagen Bahnhof",
             "hu": "Dormagen vasútállomás",
             "ro": "Gara Dormagen",
-            "en": "Dormagen Station"
+            "en": "Dormagen Station",
+            "tr": "Dormagen İstasyonu"
           },
           "coords": [
             51.1042,
@@ -905,7 +963,8 @@
             "de": "Zentraler Umsteigepunkt für Busse.",
             "hu": "Központi átszállási pont buszokra.",
             "ro": "Punct central de transfer pentru autobuze.",
-            "en": "Central transfer point for buses."
+            "en": "Central transfer point for buses.",
+            "tr": "Otobüsler için merkezi aktarma noktası."
           }
         },
         {
@@ -913,7 +972,8 @@
             "de": "Zons Altstadt (Bus 875)",
             "hu": "Zons óváros (875-ös busz)",
             "ro": "Zons Centrul Vechi (Autobuz 875)",
-            "en": "Zons Old Town (Bus 875)"
+            "en": "Zons Old Town (Bus 875)",
+            "tr": "Zons Eski Kent (Otobüs 875)"
           },
           "coords": [
             51.1212,
@@ -929,7 +989,8 @@
             "de": "Der Bus fährt direkt bis vor die Stadtmauer.",
             "hu": "A busz közvetlenül a városfalig közlekedik.",
             "ro": "Autobuzul merge direct până la zidul orașului.",
-            "en": "The bus goes directly to the city walls."
+            "en": "The bus goes directly to the city walls.",
+            "tr": "Otobüs doğrudan şehir surlarına gider."
           }
         },
         {
@@ -937,7 +998,8 @@
             "de": "Mittagessen in Zons",
             "hu": "Ebéd Zonsban",
             "ro": "Prânz în Zons",
-            "en": "Lunch in Zons"
+            "en": "Lunch in Zons",
+            "tr": "Zons'ta Öğle Yemeği"
           },
           "coords": [
             51.1208,
@@ -953,7 +1015,8 @@
             "de": "Genießen Sie die Atmosphäre in den Gassen.",
             "hu": "Élvezze a sikátorok hangulatát.",
             "ro": "Bucurați-vă de atmosfera de pe străduțe.",
-            "en": "Enjoy the atmosphere in the alleys."
+            "en": "Enjoy the atmosphere in the alleys.",
+            "tr": "Sokaklardaki atmosferin tadını çıkarın."
           }
         },
         {
@@ -961,7 +1024,8 @@
             "de": "Tannenbusch (Bus 871)",
             "hu": "Tannenbusch (871-es busz)",
             "ro": "Tannenbusch (Autobuz 871)",
-            "en": "Tannenbusch (Bus 871)"
+            "en": "Tannenbusch (Bus 871)",
+            "tr": "Tannenbusch (Otobüs 871)"
           },
           "coords": [
             51.0955,
@@ -977,7 +1041,8 @@
             "de": "Vom Bahnhof Dormagen umsteigen.",
             "hu": "Átszállás Dormagen vasútállomáson.",
             "ro": "Schimbați la gara Dormagen.",
-            "en": "Transfer at Dormagen station."
+            "en": "Transfer at Dormagen station.",
+            "tr": "Dormagen istasyonunda aktarma yapın."
           }
         },
         {
@@ -985,7 +1050,8 @@
             "de": "St. Michael Kirche",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica Sf. Mihail",
-            "en": "St. Michael's Church"
+            "en": "St. Michael's Church",
+            "tr": "Aziz Michael Kilisesi"
           },
           "coords": [
             51.1075,
@@ -1001,7 +1067,8 @@
             "de": "Zentral in der Stadt gelegen.",
             "hu": "A város központjában található.",
             "ro": "Situată central în oraș.",
-            "en": "Centrally located in the city."
+            "en": "Centrally located in the city.",
+            "tr": "Şehirde merkezi konumda."
           }
         },
         {
@@ -1009,7 +1076,8 @@
             "de": "Dormagen City Shopping",
             "hu": "Dormagen vásárlás",
             "ro": "Cumpărături în Dormagen",
-            "en": "Dormagen City Shopping"
+            "en": "Dormagen City Shopping",
+            "tr": "Dormagen Şehir Alışverişi"
           },
           "coords": [
             51.1065,
@@ -1025,7 +1093,8 @@
             "de": "Letzte Besorgungen vor der Rückreise.",
             "hu": "Utolsó bevásárlás a hazautazás előtt.",
             "ro": "Ultimele cumpărături înainte de plecare.",
-            "en": "Last-minute shopping before heading back."
+            "en": "Last-minute shopping before heading back.",
+            "tr": "Geri dönmeden önce son dakika alışverişi."
           }
         }
       ],
@@ -1033,7 +1102,8 @@
         "de": "Dormagen lässt sich hervorragend mit dem öffentlichen Nahverkehr erkunden. Vom Bahnhof Dormagen erreichen Sie mit dem Bus 875 in wenigen Minuten die Festungsstadt Zons. Nach einem Vormittag voller Geschichte und einem Mittagessen führt der Weg zurück über den Bahnhof zum Tannenbusch. Den Tag beschließt ein Besuch der St. Michael Kirche und ein kleiner Stadtbummel, bevor es bequem per Bahn zurückgeht.",
         "hu": "Dormagen kiválóan felfedezhető tömegközlekedéssel. A Dormagen vasútállomásról a 875-ös busszal percek alatt elérhető Zons erődvárosa. A történelemmel teli délelőtt és az ebéd után az út az állomáson keresztül a Tannenbusch vadasparkba vezet. A napot a Szent Mihály-templom megtekintése és egy kis városi séta zárja, mielőtt kényelmesen visszautaznánk vonattal.",
         "ro": "Dormagen poate fi explorat excelent cu transportul public. De la gara Dormagen, puteți ajunge în orașul cetate Zons în câteva minute cu autobuzul 875. După o dimineață plină de istorie și un prânz, drumul continuă prin gară către Tannenbusch. Ziua se încheie cu o vizită la biserica Sf. Mihail și o scurtă plimbare prin oraș înainte de plecarea cu trenul.",
-        "en": "Dormagen is easy to explore using public transport. From Dormagen station, bus 875 takes you to the fortress town of Zons in just a few minutes. After a morning of history and lunch, head back via the station to Tannenbusch forest. Wrap up the day with a visit to St. Michael's Church and a short stroll through the city before heading back by train."
+        "en": "Dormagen is easy to explore using public transport. From Dormagen station, bus 875 takes you to the fortress town of Zons in just a few minutes. After a morning of history and lunch, head back via the station to Tannenbusch forest. Wrap up the day with a visit to St. Michael's Church and a short stroll through the city before heading back by train.",
+        "tr": "Dormagen, toplu taşıma kullanarak kolayca keşfedilebilir. Dormagen istasyonundan otobüs 875 sizi birkaç dakikada Zons kalesi kasabasına götürür. Sabah tarih ve öğle yemeğinin ardından istasyon üzerinden Tannenbusch ormanına gidin. Günü Aziz Michael Kilisesi ziyareti ve şehirde kısa bir gezinti ile tamamlayıp trenle geri dönün."
       },
       "gastro_picks": {
         "de": [
@@ -1133,6 +1203,10 @@
         "en": [
           "Use a VRR day ticket.",
           "Buses run regularly from the station."
+        ],
+        "tr": [
+          "VRR günlük bileti kullanın.",
+          "Otobüsler istasyondan düzenli sefer yapar."
         ]
       }
     }

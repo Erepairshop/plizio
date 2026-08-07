@@ -31,7 +31,8 @@
             "de": "Besuchen Sie die historische Spielzeugsammlung im Obergeschoss.",
             "hu": "Nézze meg a történelmi játékgyűjteményt az emeleten.",
             "ro": "Vizitați colecția de jucării istorice de la etajul superior.",
-            "en": "Visit the historical toy collection on the upper floor."
+            "en": "Visit the historical toy collection on the upper floor.",
+            "tr": "Üst kattaki tarihi oyuncak koleksiyonunu ziyaret edin."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie den monumentalen Stuhlmannbrunnen.",
             "hu": "Csodálja meg a monumentális Stuhlmann-kutat.",
             "ro": "Admirați fântâna monumentală Stuhlmann.",
-            "en": "Admire the monumental Stuhlmannbrunnen fountain."
+            "en": "Admire the monumental Stuhlmannbrunnen fountain.",
+            "tr": "Anıtsal Stuhlmannbrunnen çeşmesine hayran kalın."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Hier ruht der berühmte Dichter Klopstock.",
             "hu": "Itt nyugszik a híres költő, Klopstock.",
             "ro": "Aici se odihnește celebrul poet Klopstock.",
-            "en": "The famous poet Klopstock is buried here."
+            "en": "The famous poet Klopstock is buried here.",
+            "tr": "Ünlü şair Klopstock burada defnedilidir."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Achten Sie auf die beeindruckende Architektur des ehemaligen Bahnhofs.",
             "hu": "Figyelje meg az egykori pályaudvar lenyűgöző építészetét.",
             "ro": "Observați arhitectura impresionantă a fostei gări.",
-            "en": "Note the impressive architecture of the former railway station."
+            "en": "Note the impressive architecture of the former railway station.",
+            "tr": "Eski tren istasyonunun etkileyici mimarisine dikkat edin."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Der beste Ort für ein Panoramafoto vom Containerterminal.",
             "hu": "A legjobb hely egy panorámaképhez a konténerterminálról.",
             "ro": "Cel mai bun loc pentru o fotografie panoramică a terminalului de containere.",
-            "en": "The best spot for a panoramic photo of the container terminal."
+            "en": "The best spot for a panoramic photo of the container terminal.",
+            "tr": "Konteyner terminalinin panoramik fotoğrafı için en iyi nokta."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Bekannt aus der TV-Show 'Inas Nacht'.",
             "hu": "Az 'Inas Nacht' című TV-műsorból ismert helyszín.",
             "ro": "Cunoscut din emisiunea TV 'Inas Nacht'.",
-            "en": "Famous location from the TV show 'Inas Nacht'."
+            "en": "Famous location from the TV show 'Inas Nacht'.",
+            "tr": "'Inas Nacht' televizyon programından ünlü mekan."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Spüren Sie die Atmosphäre des Hamburger Hafens zum Abschluss.",
             "hu": "Érezze át a hamburgi kikötő hangulatát a nap végén.",
             "ro": "Simțiți atmosfera portului Hamburg la finalul zilei.",
-            "en": "Feel the atmosphere of the Hamburg harbor at the end of the day."
+            "en": "Feel the atmosphere of the Hamburg harbor at the end of the day.",
+            "tr": "Günün sonunda Hamburg limanının atmosferini hissedin."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Morgens tauchen wir im Altonaer Museum tief in die Kulturgeschichte ein. Mittags spazieren wir über den Platz der Republik zum prächtigen Rathaus und der Christianskirche. Der Nachmittag gehört dem weiten Blick vom Altonaer Balkon über die Elbe. Den Tag lassen wir urig am Schellfischposten und dem historischen Fischmarkt ausklingen.",
         "hu": "Reggel az Altonai Múzeumban merülünk el a kultúrtörténetben. Délben a Köztársaság téren át sétálunk a pompás városháza és a Keresztény-templom felé. A délután az Altonai Balkonról nyíló elbai panorámáé. A napot a hangulatos Schellfischpostennél és a történelmi Halpiacnál zárjuk.",
         "ro": "Dimineața explorăm istoria culturală la Muzeul Altona. La prânz, ne plimbăm prin Piața Republicii către primăria magnifică și biserica Christianskirche. După-amiaza aparține vederii panoramice de pe Balconul Altona peste Elba. Încheiem ziua într-un mod autentic la Schellfischposten și piața istorică de pește.",
-        "en": "Morning starts with cultural history at the Altona Museum. At midday, we walk across Platz der Republik to the grand Rathaus and Christianskirche. The afternoon is dedicated to the sweeping views of the Elbe from the Altona Balcony. We wrap up the day with local vibes at Schellfischposten and the historic Fish Market."
+        "en": "Morning starts with cultural history at the Altona Museum. At midday, we walk across Platz der Republik to the grand Rathaus and Christianskirche. The afternoon is dedicated to the sweeping views of the Elbe from the Altona Balcony. We wrap up the day with local vibes at Schellfischposten and the historic Fish Market.",
+        "tr": "Sabah Altona Müzesi'nde kültür tarihiyle başlar. Öğle vakti Rathaus ve Christianskirche'e doğru Platz der Republik'i geçeriz. Öğleden sonra Altona Balkon'dan Elbe'nin geniş manzaralarına ayrılır. Günü Schellfischposten ve tarihi Balık Pazarı'ndaki yerel atmosferle tamamlarız."
       },
       "gastro_picks": {
         "de": [
@@ -283,6 +291,10 @@
         "en": [
           "Wear comfortable shoes for the cobblestones along the Elbe.",
           "The fish market is a must-see on Sunday mornings."
+        ],
+        "tr": [
+          "Elbe boyunca taş döşeli kaldırımlar için rahat ayakkabılar giyin.",
+          "Balık pazarı Pazar sabahları mutlaka görülmeli."
         ]
       }
     },
@@ -309,7 +321,8 @@
             "de": "Melden Sie sich für eine Führung durch das UNESCO-Welterbe an.",
             "hu": "Regisztráljon egy túrára az UNESCO Világörökség részeként.",
             "ro": "Înscrieți-vă pentru un tur al sitului UNESCO.",
-            "en": "Book a tour of this UNESCO World Heritage site."
+            "en": "Book a tour of this UNESCO World Heritage site.",
+            "tr": "Bu UNESCO Dünya Mirası alanı için bir tur rezervasyonu yapın."
           }
         },
         {
@@ -327,7 +340,8 @@
             "de": "Stellen Sie Ihr Rad sicher am Bahnhof Altona ab.",
             "hu": "Zárja le biztonságosan a biciklit az altonai pályaudvarnál.",
             "ro": "Parcați bicicleta în siguranță la gara Altona.",
-            "en": "Park your bike securely at the Altona station."
+            "en": "Park your bike securely at the Altona station.",
+            "tr": "Bisikletinizi Altona istasyonunda güvenle park edin."
           }
         },
         {
@@ -345,7 +359,8 @@
             "de": "Ein kurzer Stop für ein Foto vom Brunnen.",
             "hu": "Rövid megálló egy fotóra a kútnál.",
             "ro": "O scurtă oprire pentru o fotografie la fântână.",
-            "en": "A quick stop for a photo at the fountain."
+            "en": "A quick stop for a photo at the fountain.",
+            "tr": "Çeşmede hızlı bir fotoğraf molası verin."
           }
         },
         {
@@ -363,7 +378,8 @@
             "de": "Besuchen Sie das Grab von Matthias Claudius.",
             "hu": "Látogassa meg Matthias Claudius sírját.",
             "ro": "Vizitați mormântul lui Matthias Claudius.",
-            "en": "Visit the grave of Matthias Claudius."
+            "en": "Visit the grave of Matthias Claudius.",
+            "tr": "Matthias Claudius'un kabrini ziyaret edin."
           }
         },
         {
@@ -381,7 +397,8 @@
             "de": "Perfekt für eine kurze Pause im prachtvollen Innenhof.",
             "hu": "Tökéletes hely egy rövid szünetre a pompás belső udvaron.",
             "ro": "Perfect pentru o scurtă pauză în curtea interioară magnifică.",
-            "en": "Perfect for a quick break in the grand inner courtyard."
+            "en": "Perfect for a quick break in the grand inner courtyard.",
+            "tr": "Büyük iç avluda hızlı bir mola için ideal."
           }
         },
         {
@@ -399,7 +416,8 @@
             "de": "Genießen Sie den Wind vom Fluss.",
             "hu": "Élvezze a folyó felől fújó szelet.",
             "ro": "Bucurați-vă de briza de pe râu.",
-            "en": "Enjoy the breeze from the river."
+            "en": "Enjoy the breeze from the river.",
+            "tr": "Nehirden gelen esinti'nin tadını çıkarın."
           }
         },
         {
@@ -417,7 +435,8 @@
             "de": "Legen Sie hier eine längere Verschnaufpause ein.",
             "hu": "Itt tarthat egy hosszabb pihenőt.",
             "ro": "Luați o pauză mai lungă de respirație aici.",
-            "en": "Take a longer breathing break here."
+            "en": "Take a longer breathing break here.",
+            "tr": "Burada daha uzun bir nefes molası verin."
           }
         },
         {
@@ -435,7 +454,8 @@
             "de": "Fahren Sie von hier aus entspannt am Elbufer weiter.",
             "hu": "Innen kényelmesen tekerhet tovább az Elba-parton.",
             "ro": "De aici puteți pedala relaxat mai departe pe malul Elbei.",
-            "en": "From here, continue cycling relaxed along the Elbe bank."
+            "en": "From here, continue cycling relaxed along the Elbe bank.",
+            "tr": "Buradan Elbe kıyısı boyunca rahatça bisiklete devam edin."
           }
         }
       ],
@@ -443,7 +463,8 @@
         "de": "Per Rad erkunden wir erst den mystischen Jüdischen Friedhof, bevor wir über Ottensen zum Altonaer Museum fahren. Nach dem Kulturprogramm geht es zügig zum Rathaus und Balkon. Die Abfahrt zum Fischmarkt ist spektakulär und bietet ständigen Blick auf den Hafen.",
         "hu": "Biciklivel először a misztikus zsidó temetőt fedezzük fel, majd Ottensenen át az Altonai Múzeumba tekerünk. A kulturális program után gyorsan elérjük a városházát és a balkont. A lemenet a halpiachoz látványos, folyamatos kilátással a kikötőre.",
         "ro": "Cu bicicleta, explorăm mai întâi cimitirul evreiesc mistic înainte de a pedala prin Ottensen către Muzeul Altona. După programul cultural, ajungem rapid la primărie și la balcon. Coborârea spre piața de pește este spectaculoasă și oferă o vedere constantă asupra portului.",
-        "en": "By bike, we first explore the mystical Jewish Cemetery before cycling through Ottensen to the Altona Museum. After the culture fix, it's a quick ride to the Rathaus and Balcony. The ride down to the Fish Market is spectacular with constant harbor views."
+        "en": "By bike, we first explore the mystical Jewish Cemetery before cycling through Ottensen to the Altona Museum. After the culture fix, it's a quick ride to the Rathaus and Balcony. The ride down to the Fish Market is spectacular with constant harbor views.",
+        "tr": "Bisikletle önce mistik Yahudi Mezarlığı'nı keşfediyoruz, sonra Ottensen'den geçip Altona Müzesi'ne gidiyoruz. Kültür molasının ardından Rathaus ve Balkon'a hızlı bir sürüş. Balık Pazarı'na inen yol, sürekli liman manzaralarıyla muhteşemdir."
       },
       "gastro_picks": {
         "de": [
@@ -543,6 +564,10 @@
         "en": [
           "Use the StadtRAD bike-sharing stations at Altona station.",
           "Be careful on the steep descent to the Elbe bank."
+        ],
+        "tr": [
+          "Altona istasyonundaki StadtRAD bisiklet paylaşım istasyonlarını kullanın.",
+          "Elbe kıyısına inişte dik inişe dikkat edin."
         ]
       }
     },
@@ -569,7 +594,8 @@
             "de": "Parkhaus am Bahnhof Altona nutzen.",
             "hu": "Használja az altonai pályaudvar parkolóházát.",
             "ro": "Folosiți parcarea supraetajată de la gara Altona.",
-            "en": "Use the parking garage at Altona station."
+            "en": "Use the parking garage at Altona station.",
+            "tr": "Altona istasyonundaki otopark garajını kullanın."
           }
         },
         {
@@ -587,7 +613,8 @@
             "de": "Cluster 1: Fußläufig vom Museum erreichbar.",
             "hu": "1. klaszter: Gyalogosan elérhető a múzeumtól.",
             "ro": "Cluster 1: Accesibil pe jos de la muzeu.",
-            "en": "Cluster 1: Reachable on foot from the museum."
+            "en": "Cluster 1: Reachable on foot from the museum.",
+            "tr": "Küme 1: Müzeden yürüme mesafesinde."
           }
         },
         {
@@ -605,7 +632,8 @@
             "de": "Cluster 2: Parkplatzsuche rund um das Rathaus.",
             "hu": "2. klaszter: Parkolás a városháza környékén.",
             "ro": "Cluster 2: Căutarea unui loc de parcare în jurul primăriei.",
-            "en": "Cluster 2: Parking search around the Rathaus."
+            "en": "Cluster 2: Parking search around the Rathaus.",
+            "tr": "Küme 2: Rathaus çevresinde park arama."
           }
         },
         {
@@ -623,7 +651,8 @@
             "de": "Fußweg vom Rathaus aus.",
             "hu": "Gyalogút a városházától.",
             "ro": "Acces pietonal de la primărie.",
-            "en": "Walking path from the Rathaus."
+            "en": "Walking path from the Rathaus.",
+            "tr": "Rathaus'tan yürüyüş yolu."
           }
         },
         {
@@ -641,7 +670,8 @@
             "de": "Highlight von Cluster 2.",
             "hu": "A 2. klaszter fénypontja.",
             "ro": "Punctul culminant al Clusterului 2.",
-            "en": "Highlight of Cluster 2."
+            "en": "Highlight of Cluster 2.",
+            "tr": "Küme 2'nin öne çıkan noktası."
           }
         },
         {
@@ -659,7 +689,8 @@
             "de": "Cluster 3: Parkplatz am Fischmarkt suchen.",
             "hu": "3. klaszter: Parkolás a halpiacnál.",
             "ro": "Cluster 3: Căutarea unui loc de parcare la piața de pește.",
-            "en": "Cluster 3: Parking at the Fish Market."
+            "en": "Cluster 3: Parking at the Fish Market.",
+            "tr": "Küme 3: Balık Pazarı'nda park."
           }
         },
         {
@@ -677,7 +708,8 @@
             "de": "Gemütlicher Ausklang am Wasser.",
             "hu": "Kellemes zárás a vízparton.",
             "ro": "Final relaxant pe malul apei.",
-            "en": "Cozy wrap-up by the water."
+            "en": "Cozy wrap-up by the water.",
+            "tr": "Suyun kenarında samimi bir kapanış."
           }
         }
       ],
@@ -685,7 +717,8 @@
         "de": "Wir nutzen das Auto für drei Hauptstopps. Erst erkunden wir das Zentrum um den Bahnhof, dann fahren wir zum historischen Rathaus-Areal. Den Abschluss bildet der Hafenrand, wo wir das Fahrzeug abstellen und zwischen Schellfischposten und Fischauktionshalle spazieren.",
         "hu": "Az autót három fő megállóhoz használjuk. Először a pályaudvar környékét fedezzük fel, majd a történelmi városháza területére hajtunk. A napot a kikötő szélén zárjuk, ahol leparkolunk, és a Schellfischposten és a Halárverési Csarnok között sétálunk.",
         "ro": "Folosim mașina pentru trei opriri principale. Mai întâi explorăm centrul din jurul gării, apoi mergem către zona istorică a primăriei. Finalizăm la marginea portului, unde lăsăm mașina și ne plimbăm între Schellfischposten și hala de licitații de pește.",
-        "en": "We use the car for three main stops. First, we explore the area around the station, then drive to the historic Rathaus district. We finish at the harbor edge, parking the car to walk between Schellfischposten and the Fish Auction Hall."
+        "en": "We use the car for three main stops. First, we explore the area around the station, then drive to the historic Rathaus district. We finish at the harbor edge, parking the car to walk between Schellfischposten and the Fish Auction Hall.",
+        "tr": "Üç ana durak için arabayı kullanıyoruz. İlk olarak istasyon çevresini keşfediyoruz, sonra tarihi Rathaus bölgesine gidiyoruz. Günün sonunda liman kenarında park edip Schellfischposten ile Balık Müzayede Salonu arasında yürüyerek geziyi tamamlıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -785,6 +818,10 @@
         "en": [
           "Parking in Altona is often difficult; use parking garages.",
           "Roads to the Fish Market are closed on Sundays."
+        ],
+        "tr": [
+          "Altona'da park genellikle zordur; otopark garajlarını kullanın.",
+          "Balık Pazarı'na giden yollar Pazar günleri kapalıdır."
         ]
       }
     },
@@ -811,7 +848,8 @@
             "de": "Direkt am S-Bahnhof Altona gelegen.",
             "hu": "Közvetlenül az Altona S-Bahn megállónál.",
             "ro": "Situat direct la gara S-Bahn Altona.",
-            "en": "Located directly at Altona S-Bahn station."
+            "en": "Located directly at Altona S-Bahn station.",
+            "tr": "Doğrudan Altona S-Bahn istasyonunda yer alır."
           }
         },
         {
@@ -829,7 +867,8 @@
             "de": "Ein kurzer Fußweg vom Museum aus.",
             "hu": "Rövid séta a múzeumtól.",
             "ro": "O scurtă plimbare de la muzeu.",
-            "en": "A short walk from the museum."
+            "en": "A short walk from the museum.",
+            "tr": "Müzeden kısa bir yürüyüş mesafesinde."
           }
         },
         {
@@ -847,7 +886,8 @@
             "de": "Nutzen Sie den Bus 111 bis zur Station 'Rathaus Altona'.",
             "hu": "Használja a 111-es buszt a 'Rathaus Altona' megállóig.",
             "ro": "Folosiți autobuzul 111 până la stația 'Rathaus Altona'.",
-            "en": "Use bus 111 to 'Rathaus Altona' station."
+            "en": "Use bus 111 to 'Rathaus Altona' station.",
+            "tr": "111 numaralı otobüsü 'Rathaus Altona' durağına kullanın."
           }
         },
         {
@@ -865,7 +905,8 @@
             "de": "Zu Fuß vom Rathaus erreichbar.",
             "hu": "Gyalogosan elérhető a városházától.",
             "ro": "Accesibil pe jos de la primărie.",
-            "en": "Reachable on foot from the Rathaus."
+            "en": "Reachable on foot from the Rathaus.",
+            "tr": "Rathaus'tan yürüme mesafesinde ulaşılabilir."
           }
         },
         {
@@ -883,7 +924,8 @@
             "de": "Zentraler Aussichtspunkt im Cluster.",
             "hu": "Központi kilátópont a klaszterben.",
             "ro": "Punct de observație central în cluster.",
-            "en": "Central viewpoint in the cluster."
+            "en": "Central viewpoint in the cluster.",
+            "tr": "Kümedeki merkezi bakış noktası."
           }
         },
         {
@@ -901,7 +943,8 @@
             "de": "Bus 111 oder 112 Richtung Hafenstraße.",
             "hu": "111-es vagy 112-es busz a Hafenstraße irányába.",
             "ro": "Autobuzul 111 sau 112 în direcția Hafenstraße.",
-            "en": "Bus 111 or 112 towards Hafenstraße."
+            "en": "Bus 111 or 112 towards Hafenstraße.",
+            "tr": "Hafenstraße yönüne giden 111 veya 112 numaralı otobüs."
           }
         },
         {
@@ -919,7 +962,8 @@
             "de": "Letzter Stopp, ideal für ein kühles Getränk.",
             "hu": "Utolsó állomás, ideális egy hűsítő italra.",
             "ro": "Ultima oprire, ideală pentru o băutură rece.",
-            "en": "Final stop, ideal for a cold drink."
+            "en": "Final stop, ideal for a cold drink.",
+            "tr": "Son durak, soğuk bir içecek için ideal."
           }
         }
       ],
@@ -927,7 +971,8 @@
         "de": "Mit Bus und S-Bahn verbinden wir die Höhepunkte Altonas. Das Museum am S-Bahnhof ist der Startpunkt. Der Bus 111 bringt uns bequem zum Rathaus und Balkon, bevor wir die Elblinie Richtung Fischmarkt nehmen, wo das maritime Hamburg am lebendigsten ist.",
         "hu": "Busszal és S-Bahn-nal kötjük össze Altona fénypontjait. A múzeum a kiindulópont. A 111-es busz kényelmesen elvisz a városházához és a balkonhoz, mielőtt az elbai vonalon a halpiac felé vesszük az irányt, ahol a legélénkebb a tengeri Hamburg.",
         "ro": "Conectăm punctele culminante ale Altonei cu autobuzul și S-Bahn-ul. Muzeul de la gară este punctul de plecare. Autobuzul 111 ne duce confortabil la primărie și balcon, înainte de a urma linia Elbei spre piața de pește, unde Hamburgul maritim este cel mai animat.",
-        "en": "We connect Altona's highlights by bus and S-Bahn. The museum at the station is our starting point. Bus 111 takes us comfortably to the Rathaus and Balcony before we follow the Elbe line towards the Fish Market, where maritime Hamburg is at its liveliest."
+        "en": "We connect Altona's highlights by bus and S-Bahn. The museum at the station is our starting point. Bus 111 takes us comfortably to the Rathaus and Balcony before we follow the Elbe line towards the Fish Market, where maritime Hamburg is at its liveliest.",
+        "tr": "Altona'nın önemli noktalarını otobüs ve S-Bahn ile birbirine bağlıyoruz. İstasyondaki müze başlangıç noktamız. 111 numaralı otobüs bizi rahatça Rathaus ve Balkon’a götürüyor; ardından Elbe hattını takip edip denizci atmosferinin en canlı olduğu Balık Pazarı’na ulaşıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -1027,6 +1072,10 @@
         "en": [
           "Buy an HVV day ticket for maximum flexibility.",
           "The Elbe ferry 62 can be used with a standard HVV ticket."
+        ],
+        "tr": [
+          "Azami esneklik için bir HVV günlük bileti satın alın.",
+          "Elbe feribotu 62 standart HVV biletiyle kullanılabilir."
         ]
       }
     }

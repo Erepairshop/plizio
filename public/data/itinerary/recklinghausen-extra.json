@@ -31,7 +31,8 @@
             "de": "Genießen Sie einen Kaffee auf dem historischen Marktplatz.",
             "hu": "Igyon meg egy kávét a történelmi piactéren.",
             "ro": "Savurați o cafea în piața istorică a orașului.",
-            "en": "Enjoy a coffee at the historic marketplace."
+            "en": "Enjoy a coffee at the historic marketplace.",
+            "tr": "Tarihi pazar yerinde bir kahve keyfi yapın."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie das romanische Taufbecken im Inneren.",
             "hu": "Csodálja meg a belső román stílusú keresztelőmedencét.",
             "ro": "Admirați cristelnița romanică din interior.",
-            "en": "Admire the Romanesque baptismal font inside."
+            "en": "Admire the Romanesque baptismal font inside.",
+            "tr": "İçerideki Romanesk vaftiz teknesini hayranlıkla izleyin."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Das bedeutendste Museum für Ostkirchliche Kunst in der westlichen Welt.",
             "hu": "A nyugati világ legjelentősebb keleti egyházművészeti múzeuma.",
             "ro": "Cel mai important muzeu de artă bisericească răsăriteană din Occident.",
-            "en": "The most important museum of Eastern Church art in the Western world."
+            "en": "The most important museum of Eastern Church art in the Western world.",
+            "tr": "Batı dünyasındaki Doğu Kilisesi sanatının en önemli müzesi."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Perfekt für eine Mittagspause und modernes Shopping-Flair.",
             "hu": "Tökéletes ebédszünetre és modern vásárlásra.",
             "ro": "Perfect pentru o pauză de prânz și cumpărături moderne.",
-            "en": "Perfect for a lunch break and modern shopping flair."
+            "en": "Perfect for a lunch break and modern shopping flair.",
+            "tr": "Öğle arası ve modern alışveriş için mükemmel."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Zeitgenössische Kunst in einem ehemaligen Hochbunker.",
             "hu": "Kortárs művészet egy egykori légvédelmi bunkerben.",
             "ro": "Artă contemporană într-un fost buncăr de suprafață.",
-            "en": "Contemporary art in a former high-rise bunker."
+            "en": "Contemporary art in a former high-rise bunker.",
+            "tr": "Eski bir yüksek katlı sığınakta çağdaş sanat."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Das Herzstück der berühmten Ruhrfestspiele.",
             "hu": "A híres Ruhr-fesztivál központi helyszíne.",
             "ro": "Inima celebrului festival Ruhrfestspiele.",
-            "en": "The heart of the famous Ruhr Arts Festival."
+            "en": "The heart of the famous Ruhr Arts Festival.",
+            "tr": "Ünlü Ruhr Sanat Festivali'nin kalbi."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Kleiner, charmanter Tierpark im Stadtgarten.",
             "hu": "Kicsi, bájos állatkert a városligetben.",
             "ro": "O mică și fermecătoare grădină zoologică în parcul orașului.",
-            "en": "Small, charming zoo in the city garden."
+            "en": "Small, charming zoo in the city garden.",
+            "tr": "Şehir bahçesindeki küçük, sevimli hayvanat bahçesi."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Morgens erkunden Sie die historische Altstadt rund um den Marktplatz und die St. Peter Kirche. Mittags tauchen Sie im Ikonen-Museum in die Welt der spirituellen Kunst ein, gefolgt von einem Lunch im Palais Vest. Der Nachmittag steht im Zeichen der Kunsthalle und der Kultur am Ruhrfestspielhaus. Den Abend lassen Sie entspannt bei einem Spaziergang durch den Tiergarten im Stadtgarten ausklingen.",
         "hu": "Reggel a történelmi óvárost fedezzük fel a piactér és a Szent Péter-templom környékén. Délben az Ikon-múzeumban merülünk el a szakrális művészetben, majd ebédelünk a Palais Vestben. A délután a Kunsthalle és a Ruhr-fesztiválház kulturális kínálatáé. Az estét pihentető sétával zárjuk a városligeti állatkertben.",
         "ro": "Dimineața explorăm centrul istoric în jurul pieței vechi și a bisericii Sf. Petru. La prânz, vizităm Muzeul de Icoane pentru o incursiune în arta sacră, urmată de o masă la Palais Vest. După-amiaza este dedicată Kunsthalle și culturii de la Ruhrfestspielhaus. Seara se încheie relaxant cu o plimbare prin grădina zoologică din parcul orașului.",
-        "en": "In the morning, explore the historic old town around the marketplace and St. Peter's Church. At noon, immerse yourself in spiritual art at the Icon Museum, followed by lunch at Palais Vest. The afternoon is dedicated to the Kunsthalle and the culture at the Ruhrfestspielhaus. End your evening with a relaxing stroll through the zoo in the city garden."
+        "en": "In the morning, explore the historic old town around the marketplace and St. Peter's Church. At noon, immerse yourself in spiritual art at the Icon Museum, followed by lunch at Palais Vest. The afternoon is dedicated to the Kunsthalle and the culture at the Ruhrfestspielhaus. End your evening with a relaxing stroll through the zoo in the city garden.",
+        "tr": "Sabah pazar yeri ve St. Peter Kilisesi çevresindeki tarihi eski kenti keşfedin. Öğle vakti İkon Müzesi'nde manevi sanata dalın, ardından Palais Vest'te öğle yemeği yiyin. Öğleden sonra Kunsthalle ve Ruhrfestspielhaus'taki kültüre ayırın. Akşamınızı şehir bahçesindeki hayvanat bahçesinde rahat bir yürüyüşle sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +315,12 @@
           "Be sure to visit the Icon Museum – it is unique in the world.",
           "It is best to park in the Palais Vest parking garage.",
           "The Ruhr Arts Festival takes place in May and June – book tickets early!"
+        ],
+        "tr": [
+          "Eski kent çok kompakt ve yürüyerek mükemmel keşfedilebilir.",
+          "İkon Müzesi'ni mutlaka ziyaret edin – dünyada eşi benzeri yok.",
+          "En iyisi Palais Vest otoparkına park etmek.",
+          "Ruhr Sanat Festivali Mayıs ve Haziran'da yapılır – biletleri erken alın!"
         ]
       }
     },
@@ -333,7 +347,8 @@
             "de": "Startpunkt im Herzen der Stadt.",
             "hu": "Kiindulópont a város szívében.",
             "ro": "Punctul de plecare din inima orașului.",
-            "en": "Starting point in the heart of the city."
+            "en": "Starting point in the heart of the city.",
+            "tr": "Şehrin kalbinde başlangıç noktası."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Nahe am Hauptbahnhof gelegen.",
             "hu": "A főpályaudvar közelében található.",
             "ro": "Situat aproape de gara centrală.",
-            "en": "Located near the main station."
+            "en": "Located near the main station.",
+            "tr": "Ana tren istasyonuna yakın konumda."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Panoramablick vom grünen Hügel.",
             "hu": "Panoráma a zöld dombról.",
             "ro": "Vedere panoramică de pe dealul verde.",
-            "en": "Panoramic view from the green hill."
+            "en": "Panoramic view from the green hill.",
+            "tr": "Yeşil tepenin panoramik manzarası."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Kurze Pause im Grünen.",
             "hu": "Rövid szünet a zöldben.",
             "ro": "O scurtă pauză în natură.",
-            "en": "Short break in the greenery."
+            "en": "Short break in the greenery.",
+            "tr": "Yeşillikte kısa bir mola."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Entspannen am Rhein-Herne-Kanal.",
             "hu": "Pihenés a Rajna-Herne-csatornánál.",
             "ro": "Relaxare pe malul canalului Rhein-Herne.",
-            "en": "Relax at the Rhein-Herne Canal."
+            "en": "Relax at the Rhein-Herne Canal.",
+            "tr": "Rhein-Herne Kanalı'nda dinlenin."
           }
         },
         {
@@ -423,7 +442,8 @@
             "de": "Abschluss-Shopping im Zentrum.",
             "hu": "Záró vásárlás a központban.",
             "ro": "Final de zi cu cumpărături în centru.",
-            "en": "Closing shopping in the center."
+            "en": "Closing shopping in the center.",
+            "tr": "Merkezde kapanış alışverişi."
           }
         }
       ],
@@ -431,7 +451,8 @@
         "de": "Diese Fahrradtour verbindet das kulturelle Zentrum mit dem industriellen Erbe. Nach dem Start am Altstadtmarkt führt der Weg über die Kunsthalle hinauf zum Ruhrfestspielhaus. Nach einem Besuch im Tiergarten radeln Sie gen Süden zum Stadthafen am Kanal, wo Sie echtes Ruhrgebiets-Feeling erleben, bevor es zurück zum Palais Vest geht.",
         "hu": "Ez a kerékpártúra összeköti a kulturális központot az ipari örökséggel. Az óvárosi piactól indulva a Kunsthalle érintésével tekerünk fel a Ruhr-fesztiválházhoz. Az állatkerti látogatás után délnek vesszük az irányt a csatorna menti kikötőhöz, ahol igazi Ruhr-vidéki hangulatot élhetünk át, mielőtt visszatérünk a központba.",
         "ro": "Acest tur cu bicicleta îmbină centrul cultural cu moștenirea industrială. De la piața veche, drumul trece pe lângă Kunsthalle până la Ruhrfestspielhaus. După o vizită la grădina zoologică, pedalați spre sud către portul orașului de pe canal, unde experimentați atmosfera autentică a regiunii Ruhr, înainte de a reveni în centru.",
-        "en": "This bike tour connects the cultural center with industrial heritage. Starting at the Old Town market, the path leads via the Kunsthalle up to the Ruhrfestspielhaus. After a visit to the zoo, cycle south to the city harbor on the canal for a true Ruhr area feeling before heading back to Palais Vest."
+        "en": "This bike tour connects the cultural center with industrial heritage. Starting at the Old Town market, the path leads via the Kunsthalle up to the Ruhrfestspielhaus. After a visit to the zoo, cycle south to the city harbor on the canal for a true Ruhr area feeling before heading back to Palais Vest.",
+        "tr": "Bu bisiklet turu kültür merkezini endüstriyel mirasla birleştirir. Eski Kent pazarından başlayıp rota Kunsthalle üzerinden Ruhrfestspielhaus'a çıkar. Hayvanat bahçesini ziyaret ettikten sonra gerçek bir Ruhr hissi için kanaldaki şehir limanına güney yönünde pedal çevirin ve ardından Palais Vest'e geri dönün."
       },
       "gastro_picks": {
         "de": [
@@ -535,6 +556,11 @@
           "The path to the city harbor is flat and well-maintained.",
           "Use the RevierRad system for rental bikes.",
           "Follow the signs for the Industrial Heritage Route."
+        ],
+        "tr": [
+          "Şehir limanına giden yol düz ve iyi bakımlıdır.",
+          "Kiralık bisikletler için RevierRad sistemini kullanın.",
+          "Endüstri Mirası Rotası işaretlerini takip edin."
         ]
       }
     },
@@ -561,7 +587,8 @@
             "de": "Parken im Parkhaus Palais Vest.",
             "hu": "Parkolás a Palais Vest parkolóházban.",
             "ro": "Parcare în garajul Palais Vest.",
-            "en": "Park in the Palais Vest garage."
+            "en": "Park in the Palais Vest garage.",
+            "tr": "Palais Vest garajına park edin."
           }
         },
         {
@@ -579,7 +606,8 @@
             "de": "Historisches Wahrzeichen.",
             "hu": "Történelmi jelkép.",
             "ro": "Simbol istoric.",
-            "en": "Historical landmark."
+            "en": "Historical landmark.",
+            "tr": "Tarihi anıt."
           }
         },
         {
@@ -597,7 +625,8 @@
             "de": "In direkter Nähe zur Kirche.",
             "hu": "Közvetlenül a templom mellett.",
             "ro": "În imediata apropiere a bisericii.",
-            "en": "Directly next to the church."
+            "en": "Directly next to the church.",
+            "tr": "Doğrudan kilisenin yanında."
           }
         },
         {
@@ -615,7 +644,8 @@
             "de": "Ausreichend Parkplätze vor Ort.",
             "hu": "Bőséges parkolóhely a helyszínen.",
             "ro": "Suficiente locuri de parcare la fața locului.",
-            "en": "Ample parking available on-site."
+            "en": "Ample parking available on-site.",
+            "tr": "Yerde bol otopark mevcut."
           }
         },
         {
@@ -633,7 +663,8 @@
             "de": "Kurzer Fußweg vom Festspielhaus.",
             "hu": "Rövid séta a Fesztiválháztól.",
             "ro": "Scurtă plimbare de la teatrul festivalului.",
-            "en": "Short walk from the festival house."
+            "en": "Short walk from the festival house.",
+            "tr": "Festival evinden kısa yürüyüş."
           }
         },
         {
@@ -651,7 +682,8 @@
             "de": "Maritimer Hotspot im Süden.",
             "hu": "Vizi találkahely délen.",
             "ro": "Hotspot maritim în sud.",
-            "en": "Maritime hotspot in the south."
+            "en": "Maritime hotspot in the south.",
+            "tr": "Güneyde denizcilik merkezi."
           }
         },
         {
@@ -669,7 +701,8 @@
             "de": "Perfekter Ort für Souvenirs.",
             "hu": "Tökéletes hely szuveníreknek.",
             "ro": "Locul perfect pentru suveniruri.",
-            "en": "Perfect place for souvenirs."
+            "en": "Perfect place for souvenirs.",
+            "tr": "Hatıra eşyaları için mükemmel yer."
           }
         }
       ],
@@ -677,7 +710,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Cluster der Stadt. Starten Sie in der Altstadt (Cluster A) mit Markt, Kirche und Ikonen-Museum. Danach fahren Sie zum Festspielpark (Cluster B) für Kultur und Natur. Den Nachmittag verbringen Sie am Stadthafen (Cluster C), bevor Sie den Tag für einen kurzen Einkaufsbummel im Palais Vest beenden.",
         "hu": "Autóval kényelmesen elérheti a város különböző központjait. Kezdjen az óvárosban (A klaszter) a piaccal, a templommal és az Ikon-múzeummal. Ezután hajtson a Fesztiválparkhoz (B klaszter) kultúráért és természetért. A délutánt a kikötőben (C klaszter) töltse, majd zárja a napot egy rövid vásárlással a Palais Vestben.",
         "ro": "Cu mașina puteți ajunge confortabil la diferitele grupuri de obiective ale orașului. Începeți în centrul vechi (Cluster A) cu piața, biserica și Muzeul de Icoane. Apoi mergeți la parcul festivalului (Cluster B) pentru cultură și natură. Petreceți după-amiaza în port (Cluster C), înainte de a încheia ziua cu o scurtă sesiune de cumpărături la Palais Vest.",
-        "en": "By car, you can easily reach the city's various clusters. Start in the old town (Cluster A) with the market, church, and Icon Museum. Then drive to the Festival Park (Cluster B) for culture and nature. Spend the afternoon at the city harbor (Cluster C) before ending the day with a short shopping trip at Palais Vest."
+        "en": "By car, you can easily reach the city's various clusters. Start in the old town (Cluster A) with the market, church, and Icon Museum. Then drive to the Festival Park (Cluster B) for culture and nature. Spend the afternoon at the city harbor (Cluster C) before ending the day with a short shopping trip at Palais Vest.",
+        "tr": "Arabayla şehrin farklı kümelerine kolayca ulaşabilirsiniz. Eski kente (Küme A) pazar, kilise ve İkon Müzesi ile başlayın. Ardından kültür ve doğa için Festival Parkı'na (Küme B) sürün. Öğleden sonra şehir limanında (Küme C) vakit geçirin ve günü Palais Vest'te kısa bir alışverişle bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -777,6 +811,10 @@
         "en": [
           "Use the city's parking guidance system.",
           "The drive between clusters usually takes less than 10 minutes."
+        ],
+        "tr": [
+          "Şehrin otopark yönlendirme sistemini kullanın.",
+          "Kümeler arasındaki sürüş genellikle 10 dakikadan az sürer."
         ]
       }
     },
@@ -803,7 +841,8 @@
             "de": "Zentraler Busknoten in der Nähe.",
             "hu": "Központi buszcsomópont a közelben.",
             "ro": "Nod central de autobuze în apropiere.",
-            "en": "Central bus hub nearby."
+            "en": "Central bus hub nearby.",
+            "tr": "Yakında merkezi otobüs merkezi."
           }
         },
         {
@@ -821,7 +860,8 @@
             "de": "Kurzer Fußweg vom Markt.",
             "hu": "Rövid séta a piactértől.",
             "ro": "Scurtă plimbare din piață.",
-            "en": "Short walk from the market."
+            "en": "Short walk from the market.",
+            "tr": "Pazardan kısa yürüyüş."
           }
         },
         {
@@ -839,7 +879,8 @@
             "de": "Gegenüber vom Hauptbahnhof.",
             "hu": "Szemben a főpályaudvarral.",
             "ro": "Vis-a-vis de gara centrală.",
-            "en": "Opposite the main station."
+            "en": "Opposite the main station.",
+            "tr": "Ana istasyonun karşısında."
           }
         },
         {
@@ -857,7 +898,8 @@
             "de": "Mit dem Bus Linie 270 erreichbar.",
             "hu": "A 270-es busszal elérhető.",
             "ro": "Accesibil cu autobuzul linia 270.",
-            "en": "Accessible via bus line 270."
+            "en": "Accessible via bus line 270.",
+            "tr": "270 numaralı otobüs hattıyla ulaşılabilir."
           }
         },
         {
@@ -875,7 +917,8 @@
             "de": "Linie SB20 Richtung Herne.",
             "hu": "SB20-as vonal Herne irányába.",
             "ro": "Linia SB20 în direcția Herne.",
-            "en": "Line SB20 towards Herne."
+            "en": "Line SB20 towards Herne.",
+            "tr": "Herne yönüne giden SB20 hattı."
           }
         },
         {
@@ -893,7 +936,8 @@
             "de": "Zurück am Busbahnhof Viehtor.",
             "hu": "Vissza a Viehtor buszpályaudvarhoz.",
             "ro": "Înapoi la autogara Viehtor.",
-            "en": "Back at Viehtor bus station."
+            "en": "Back at Viehtor bus station.",
+            "tr": "Viehtor otobüs istasyonunda tekrar."
           }
         }
       ],
@@ -901,7 +945,8 @@
         "de": "Dank des dichten Busnetzes erkunden Sie Recklinghausen ganz entspannt ohne Parkplatzsuche. Vom Altstadtmarkt gelangen Sie schnell zum Bahnhofsviertel mit der Kunsthalle und weiter zum Festspielhaus. Ein besonderes Highlight ist die Fahrt zum Stadthafen im Süden, bevor es zurück zum Shopping ins Zentrum geht.",
         "hu": "A sűrű buszhálózatnak köszönhetően kényelmesen, parkolóhely-keresés nélkül fedezheti fel Recklinghausent. Az óvárosi piactól gyorsan eljuthat a vasútállomás környékére a Kunsthalléhoz, majd tovább a Fesztiválházhoz. Különleges élmény a déli kikötőhöz tett kirándulás, mielőtt visszatérne a központba vásárolni.",
         "ro": "Datorită rețelei dense de autobuze, explorați Recklinghausen relaxat, fără grija parcării. De la piața veche ajungeți rapid în zona gării la Kunsthalle și mai departe la teatrul festivalului. Un punct culminant este drumul spre portul din sud, înainte de a reveni în centru pentru cumpărături.",
-        "en": "Thanks to the dense bus network, you can explore Recklinghausen in a relaxed way without searching for parking. From the Old Town market, you can quickly reach the station district with the Kunsthalle and continue to the Festival House. A special highlight is the trip to the city harbor in the south before returning to the center for shopping."
+        "en": "Thanks to the dense bus network, you can explore Recklinghausen in a relaxed way without searching for parking. From the Old Town market, you can quickly reach the station district with the Kunsthalle and continue to the Festival House. A special highlight is the trip to the city harbor in the south before returning to the center for shopping.",
+        "tr": "Yoğun otobüs ağı sayesinde Recklinghausen'i park yeri aramadan rahatça keşfedebilirsiniz. Eski Kent pazarından Kunsthalle ile istasyon bölgesine hızla ulaşabilir ve Ruhrfestspielhaus'a devam edebilirsiniz. Güneydeki şehir limanına yapılan gezi özel bir öne çıkan noktadır; ardından alışveriş için merkeze dönebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1001,6 +1046,10 @@
         "en": [
           "Buy a day ticket for price level A.",
           "Use the VRR app for live departure times."
+        ],
+        "tr": [
+          "A fiyat seviyesinde günlük bilet alın.",
+          "Canlı kalkış saatleri için VRR uygulamasını kullanın."
         ]
       }
     }

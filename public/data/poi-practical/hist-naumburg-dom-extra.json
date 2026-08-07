@@ -3,55 +3,64 @@
     "de": "Domplatz 16, 06618 Naumburg (Saale)",
     "hu": "Domplatz 16, 06618 Naumburg (Saale)",
     "ro": "Domplatz 16, 06618 Naumburg (Saale)",
-    "en": "Domplatz 16, 06618 Naumburg (Saale)"
+    "en": "Domplatz 16, 06618 Naumburg (Saale)",
+    "tr": "Domplatz 16, 06618 Naumburg (Saale)"
   },
   "openingHours": {
     "de": "Mo-Sa 09:00-18:00, Su 11:00-18:00",
     "hu": "H-Szo 09:00-18:00, V 11:00-18:00",
     "ro": "Lu-Sâ 09:00-18:00, Du 11:00-18:00",
-    "en": "Mon-Sat 09:00-18:00, Sun 11:00-18:00"
+    "en": "Mon-Sat 09:00-18:00, Sun 11:00-18:00",
+    "tr": "Pzt-Cum 09:00-18:00, Paz 11:00-18:00"
   },
   "entranceFee": {
     "de": "€ 9,50 inklusive Audioguide",
     "hu": "9,50 € audioguide-dal együtt",
     "ro": "9,50 € inclusiv audioghid",
-    "en": "€ 9.50 including audioguide"
+    "en": "€ 9.50 including audioguide",
+    "tr": "€ 9,50 sesli rehber dahil"
   },
   "website": "https://www.naumburger-dom.de",
   "publicTransport": {
     "de": "Straßenbahn 'Wilde Zicke' ab Naumburg Hauptbahnhof",
     "hu": "„Wilde Zicke” villamos Naumburg főpályaudvarától",
     "ro": "Tramvaiul „Wilde Zicke” din gara centrală Naumburg",
-    "en": "'Wilde Zicke' tram from Naumburg Central Station"
+    "en": "'Wilde Zicke' tram from Naumburg Central Station",
+    "tr": "'Wilde Zicke' tramvayı Naumburg Merkez İstasyonundan"
   },
   "parking": {
     "de": "Parkplatz City-Parkhaus, ca. 1,50 €/Std.",
     "hu": "City-Parkhaus parkolóház, kb. 1,50 €/óra.",
     "ro": "Parcare City-Parkhaus, cca. 1,50 €/oră.",
-    "en": "City-Parkhaus parking garage, approx. € 1.50/hr."
+    "en": "City-Parkhaus parking garage, approx. € 1.50/hr.",
+    "tr": "City-Parkhaus otoparkı, yaklaşık € 1,50/saat."
   },
   "accessibility": {
     "de": "Dom weitgehend barrierefrei, Lettner nur über Stufen.",
     "hu": "A dóm nagyrészt akadálymentes, a szentélyrekesztő csak lépcsőn érhető el.",
     "ro": "Catedrala este în mare parte accesibilă, amvonul doar prin trepte.",
-    "en": "Cathedral largely accessible, rood screen only via steps."
+    "en": "Cathedral largely accessible, rood screen only via steps.",
+    "tr": "Katedral büyük ölçüde erişilebilir; ahşap bölme yalnızca basamakla ulaşılır."
   },
   "photoRules": {
     "de": "Privat ohne Blitz erlaubt.",
     "hu": "Saját célra, vaku nélkül engedélyezett.",
     "ro": "Permis în scop privat fără bliț.",
-    "en": "Private photography allowed without flash."
+    "en": "Private photography allowed without flash.",
+    "tr": "Özel fotoğraf flaşsız izinli."
   },
   "bestTimeToVisit": {
     "de": "Mittags, wenn das Licht optimal auf die Stifterfiguren fällt.",
     "hu": "Délben, amikor a fény optimálisan esik az alapítók szobraira.",
     "ro": "La prânz, când lumina cade optim pe statuile ctitorilor.",
-    "en": "At noon, when the light falls perfectly on the donor statues."
+    "en": "At noon, when the light falls perfectly on the donor statues.",
+    "tr": "Öğle vakti, ışığın bağışçı heykellerine mükemmel düştüğü zaman."
   },
   "audioGuide": {
     "de": "ja (im Eintrittspreis enthalten)",
     "hu": "igen (a belépőjegy ára tartalmazza)",
     "ro": "da (inclus în prețul biletului)",
-    "en": "yes (included in the admission price)"
+    "en": "yes (included in the admission price)",
+    "tr": "evet (giriş ücretine dahil)"
   }
 }

@@ -3,55 +3,64 @@
     "de": "Schlossstraße, 67434 Neustadt an der Weinstraße",
     "hu": "Schlossstraße, 67434 Neustadt an der Weinstraße",
     "ro": "Schlossstraße, 67434 Neustadt an der Weinstraße",
-    "en": "Schlossstraße, 67434 Neustadt an der Weinstraße"
+    "en": "Schlossstraße, 67434 Neustadt an der Weinstraße",
+    "tr": "Schlossstraße, 67434 Neustadt an der Weinstraße"
   },
   "openingHours": {
     "de": "Täglich 10:00-18:00 (Apr-Okt), 10:00-17:00 (Nov-Mär)",
     "hu": "Naponta 10:00-18:00 (ápr-okt), 10:00-17:00 (nov-márc)",
     "ro": "Zilnic 10:00-18:00 (apr-oct), 10:00-17:00 (nov-mar)",
-    "en": "Daily 10:00-18:00 (Apr-Oct), 10:00-17:00 (Nov-Mar)"
+    "en": "Daily 10:00-18:00 (Apr-Oct), 10:00-17:00 (Nov-Mar)",
+    "tr": "Her gün 10:00-18:00 (Nis-Eki), 10:00-17:00 (Kas-Mar)"
   },
   "entranceFee": {
     "de": "€5,50 Erwachsene",
     "hu": "5,50 € felnőtteknek",
     "ro": "5,50 € adulți",
-    "en": "€5.50 adults"
+    "en": "€5.50 adults",
+    "tr": "Yetişkinler €5.50"
   },
   "website": "https://www.hambacher-schloss.de",
   "publicTransport": {
     "de": "Buslinie 502 ab Hauptbahnhof Neustadt (Wstr.)",
     "hu": "502-es busz a Neustadt főpályaudvartól",
     "ro": "Autobuzul 502 de la gara principală Neustadt",
-    "en": "Bus line 502 from main station Neustadt"
+    "en": "Bus line 502 from main station Neustadt",
+    "tr": "Neustadt ana istasyonundan 502 numaralı otobüs"
   },
   "parking": {
     "de": "Wanderparkplatz unterhalb des Schlosses (kostenfrei, steiler Aufstieg).",
     "hu": "Wanderparkplatz a vár alatt (ingyenes, meredek emelkedő).",
     "ro": "Parcare pentru drumeți sub castel (gratuită, urcare abruptă).",
-    "en": "Hiking parking below the castle (free, steep climb)."
+    "en": "Hiking parking below the castle (free, steep climb).",
+    "tr": "Kale altındaki yürüyüş park yeri (ücretsiz, dik tırmanış)."
   },
   "accessibility": {
     "de": "Moderner Aufzug zur Hauptausstellung vorhanden, Zuwegung steil.",
     "hu": "Modern lift a fő kiállításhoz, a megközelítés meredek.",
     "ro": "Lift modern către expoziția principală, accesul este abrupt.",
-    "en": "Modern elevator to main exhibition available, access steep."
+    "en": "Modern elevator to main exhibition available, access steep.",
+    "tr": "Ana sergiye modern asansör mevcut, erişim dik."
   },
   "photoRules": {
     "de": "Privataufnahmen in der Ausstellung und im Außenbereich erlaubt.",
     "hu": "Magáncélú fotózás a kiállításon és kint engedélyezett.",
     "ro": "Fotografii private permise în expoziție și în exterior.",
-    "en": "Private photos in exhibition and outdoors allowed."
+    "en": "Private photos in exhibition and outdoors allowed.",
+    "tr": "Sergide ve dış mekanlarda özel fotoğraflara izin verilir."
   },
   "bestTimeToVisit": {
     "de": "Spätnachmittag für den Panoramablick über die Pfälzer Weinberge.",
     "hu": "Késő délután a pfalzi szőlőskertekre nyíló panorámáért.",
     "ro": "După-amiaza târziu pentru vederea panoramică asupra viilor din Pfalz.",
-    "en": "Late afternoon for the panoramic view over the Palatinate vineyards."
+    "en": "Late afternoon for the panoramic view over the Palatinate vineyards.",
+    "tr": "Palatinate bağları üzerine panoramik manzara için akşamüstü geç saatler."
   },
   "audioGuide": {
     "de": "ja (kostenfreie App verfügbar)",
     "hu": "igen (ingyenes alkalmazás elérhető)",
     "ro": "da (aplicație gratuită disponibilă)",
-    "en": "yes (free app available)"
+    "en": "yes (free app available)",
+    "tr": "evet (ücretsiz uygulama mevcut)"
   }
 }

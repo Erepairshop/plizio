@@ -31,7 +31,8 @@
             "de": "Entdecken Sie das 'Stadt des Lichts' Design in den Gassen.",
             "hu": "Fedezze fel a 'Fény városa' dizájnt a szűk utcákban.",
             "ro": "Descoperiți designul 'Orașul Luminii' pe străduțele vechi.",
-            "en": "Discover the 'City of Light' design elements in the alleys."
+            "en": "Discover the 'City of Light' design elements in the alleys.",
+            "tr": "Arkalardaki 'Işık Şehri' tasarım öğelerini keşfedin."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Die älteste Kirche der Stadt mit markantem Turm.",
             "hu": "A város legrégebbi temploma jellegzetes toronnyal.",
             "ro": "Cea mai veche biserică din oraș, cu un turn distinctiv.",
-            "en": "The oldest church in the city with a striking tower."
+            "en": "The oldest church in the city with a striking tower.",
+            "tr": "Şehrin en eski kilisesi, çarpıcı bir kuleye sahip."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Spannende Einblicke in die Industriegeschichte des Sauerlands.",
             "hu": "Izgalmas betekintés a Sauerland ipartörténetébe.",
             "ro": "Perspective fascinante asupra istoriei industriale din Sauerland.",
-            "en": "Exciting insights into the industrial history of Sauerland."
+            "en": "Exciting insights into the industrial history of Sauerland.",
+            "tr": "Sauerland'in endüstri tarihine dair heyecan verici içgörüler."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Interaktives Science Center für alle Altersgruppen.",
             "hu": "Interaktív tudományos központ minden korosztálynak.",
             "ro": "Centru de știință interactiv pentru toate vârstele.",
-            "en": "Interactive science center for all age groups."
+            "en": "Interactive science center for all age groups.",
+            "tr": "Tüm yaş grupları için etkileşimli bir bilim merkezi."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Grüne Oase mit der markanten Parkpalette.",
             "hu": "Zöld oázis a város közepén, pihenésre ideális.",
             "ro": "Oază de verdeață ideală pentru relaxare.",
-            "en": "Green oasis perfect for a relaxing stroll."
+            "en": "Green oasis perfect for a relaxing stroll.",
+            "tr": "Rahatlatıcı bir yürüyüş için mükemmel yeşil vaha."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Architektonisch wertvolles Zentrum für Theater und Konzerte.",
             "hu": "Építészetileg értékes színházi és koncertközpont.",
             "ro": "Centru cultural valoros din punct de vedere arhitectural.",
-            "en": "Architecturally significant center for theatre and concerts."
+            "en": "Architecturally significant center for theatre and concerts.",
+            "tr": "Tiyatro ve konserler için mimari açıdan önemli merkez."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Vormittags erkunden Sie die historische Altstadt und das Geschichtsmuseum. Mittags tauchen Sie in die Welt der Physik in der Phänomenta ein. Der Nachmittag gehört der Entspannung im Stadtpark, bevor Sie den Tag am modernen Kulturhaus ausklingen lassen.",
         "hu": "Délelőtt a történelmi óvárost és a helytörténeti múzeumot fedezzük fel. Délben a fizika világa vár a Phänomentában. A délután a pihenésé a városi parkban, végül a modern Kulturhaus környékén zárjuk a napot.",
         "ro": "Dimineața explorăm centrul istoric și muzeul de istorie. La prânz, universul fizicii ne așteaptă la Phänomenta. După-amiaza este dedicată relaxării în parcul orașului, încheind ziua lângă modernul Kulturhaus.",
-        "en": "In the morning, explore the historic old town and the local history museum. At noon, dive into the world of physics at Phänomenta. The afternoon is for relaxing in the city park, ending your day near the modern Kulturhaus."
+        "en": "In the morning, explore the historic old town and the local history museum. At noon, dive into the world of physics at Phänomenta. The afternoon is for relaxing in the city park, ending your day near the modern Kulturhaus.",
+        "tr": "Sabahları tarihi eski kenti ve yerel tarih müzesini keşfedin. Öğle vakti Phänomenta'da fizikle içe dalın. Öğleden sonra şehir parkında dinlenin ve günü modern Kulturhaus yakınında sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -249,6 +256,11 @@
           "Lüdenscheid is known as the 'City of Light'; look out for the light installations.",
           "Allow at least 2-3 hours for the Phänomenta science center.",
           "Sturdy shoes are recommended for the sometimes steep alleys of the old town."
+        ],
+        "tr": [
+          "Lüdenscheid 'Işık Şehri' olarak bilinir; ışık enstalasyonlarına dikkat edin.",
+          "Phänomenta bilim merkezi için en az 2–3 saat ayırın.",
+          "Eski kentteki bazen dik arnavut kaldırımlı sokaklar için sağlam ayakkabılar önerilir."
         ]
       }
     },
@@ -275,7 +287,8 @@
             "de": "Startpunkt im historischen Herzen.",
             "hu": "Kiindulópont a történelmi városközpontban.",
             "ro": "Punct de plecare în inima istorică.",
-            "en": "Starting point in the historic heart."
+            "en": "Starting point in the historic heart.",
+            "tr": "Tarihi kalbin başlangıç noktası."
           }
         },
         {
@@ -293,7 +306,8 @@
             "de": "Faszinierende Sammlung historischer Baukästen.",
             "hu": "Történelmi építőkészletek lenyűgöző gyűjteménye.",
             "ro": "Colecție fascinantă de seturi de construcție istorice.",
-            "en": "Fascinating collection of historical building sets."
+            "en": "Fascinating collection of historical building sets.",
+            "tr": "Tarihi yapı setlerinin büyüleyici koleksiyonu."
           }
         },
         {
@@ -311,7 +325,8 @@
             "de": "Ideal für eine entspannte Fahrt durchs Grüne.",
             "hu": "Ideális egy pihentető tekeréshez a zöldben.",
             "ro": "Ideal pentru o plimbare relaxantă prin natură.",
-            "en": "Ideal for a relaxed ride through the greenery."
+            "en": "Ideal for a relaxed ride through the greenery.",
+            "tr": "Yeşillikler içinde rahat bir gezinti için ideal."
           }
         },
         {
@@ -329,7 +344,8 @@
             "de": "Wunderschönes Wasserschloss im Süden der Stadt.",
             "hu": "Gyönyörű vízikastély a város déli részén.",
             "ro": "Castel pe apă superb în sudul orașului.",
-            "en": "Beautiful moated castle in the south of the city."
+            "en": "Beautiful moated castle in the south of the city.",
+            "tr": "Şehrin güneyindeki güzel hendekli kale."
           }
         },
         {
@@ -347,7 +363,8 @@
             "de": "Aussichtsturm mit Panoramablick über das Sauerland.",
             "hu": "Kilátó panorámás kilátással a Sauerlandra.",
             "ro": "Turn de observație cu vedere panoramică asupra Sauerland.",
-            "en": "Observation tower with panoramic views over Sauerland."
+            "en": "Observation tower with panoramic views over Sauerland.",
+            "tr": "Sauerland üzerinde panoramik manzaralar sunan gözlem kulesi."
           }
         },
         {
@@ -365,7 +382,8 @@
             "de": "Zurück im Zentrum für Kultur und Entspannung.",
             "hu": "Vissza a központba kultúráért és pihenésért.",
             "ro": "Înapoi în centru pentru cultură și relaxare.",
-            "en": "Back in the center for culture and relaxation."
+            "en": "Back in the center for culture and relaxation.",
+            "tr": "Kültür ve dinlenme için tekrar merkezde."
           }
         }
       ],
@@ -373,7 +391,8 @@
         "de": "Diese Radtour verbindet Kultur und Natur. Von der Altstadt zum Baukastenmuseum, dann durch den Stadtpark zum idyllischen Wasserschloss Neuenhof. Der Höhepunkt ist der Homerturm mit Weitblick, bevor es zurück ins Zentrum geht.",
         "hu": "Ez a kerékpártúra összeköti a kultúrát és a természetet. Az óvárostól az építőkészlet múzeumig, majd a parkon át a Neuenhof vízikastélyhoz tekerünk. A csúcspont a Homerturm kilátó, mielőtt visszatérnénk a központba.",
         "ro": "Acest tur cu bicicleta îmbină cultura și natura. Din centrul vechi la muzeul seturilor de construcție, apoi prin parc spre idilicul castel Neuenhof. Punctul culminant este turnul Homerturm cu vedere panoramică.",
-        "en": "This bike tour combines culture and nature. From the old town to the building set museum, then through the park to the idyllic moated castle Neuenhof. The highlight is the Homerturm tower with wide views."
+        "en": "This bike tour combines culture and nature. From the old town to the building set museum, then through the park to the idyllic moated castle Neuenhof. The highlight is the Homerturm tower with wide views.",
+        "tr": "Bu bisiklet turu kültür ve doğayı birleştirir. Eski kentten yapı seti müzesine, sonra park üzerinden pastoral Neuenhof Hendekli Kalesi'ne gidilir. Zirvede geniş manzaralar sunan Homerturm kulesi turu taçlandırır."
       },
       "gastro_picks": {
         "de": [
@@ -477,6 +496,11 @@
           "The route to Homerturm is hilly; an e-bike is highly recommended.",
           "Schloss Neuenhof can only be viewed from the outside.",
           "Wear a helmet as there are several downhill sections."
+        ],
+        "tr": [
+          "Homerturm'a giden rota engebelidir; e-bisiklet şiddetle tavsiye edilir.",
+          "Schloss Neuenhof yalnızca dışarıdan görülebilir.",
+          "Birden fazla iniş bölümü olduğu için kask takın."
         ]
       }
     },
@@ -503,7 +527,8 @@
             "de": "Parken Sie im Parkhaus am Stern-Center.",
             "hu": "Parkoljon a Stern-Center parkolóházában.",
             "ro": "Parcați în garajul de la Stern-Center.",
-            "en": "Park in the Stern-Center parking garage."
+            "en": "Park in the Stern-Center parking garage.",
+            "tr": "Stern-Center otoparkına park edin."
           }
         },
         {
@@ -521,7 +546,8 @@
             "de": "Zu Fuß erreichbar vom Marktplatz (Cluster A).",
             "hu": "Gyalogosan elérhető a piactérről (A-klaszter).",
             "ro": "Accesibil pe jos din piața centrală (Cluster A).",
-            "en": "Walkable from the market square (Cluster A)."
+            "en": "Walkable from the market square (Cluster A).",
+            "tr": "Pazar meydanından yürüyerek ulaşılabilir (Küme A)."
           }
         },
         {
@@ -539,7 +565,8 @@
             "de": "Eigener Parkplatz direkt vor Ort (Cluster B).",
             "hu": "Saját parkoló közvetlenül a helyszínen (B-klaszter).",
             "ro": "Parcare proprie direct la locație (Cluster B).",
-            "en": "Dedicated parking right on site (Cluster B)."
+            "en": "Dedicated parking right on site (Cluster B).",
+            "tr": "Tesiste doğrudan ayrılmış otopark (Küme B)."
           }
         },
         {
@@ -557,7 +584,8 @@
             "de": "Kurze Fahrt nach Süden zum Schlossgelände.",
             "hu": "Rövid út délre a kastély területéhez.",
             "ro": "Scurtă călătorie spre sud la domeniul castelului.",
-            "en": "Short drive south to the castle grounds."
+            "en": "Short drive south to the castle grounds.",
+            "tr": "Kale arazilerine kısa güney sürüşü."
           }
         },
         {
@@ -575,7 +603,8 @@
             "de": "Herrliches Naherholungsgebiet zum Spazierengehen.",
             "hu": "Csodálatos üdülőövezet egy nagy sétához.",
             "ro": "Zonă superbă de recreere pentru plimbări.",
-            "en": "Beautiful recreation area for a long stroll."
+            "en": "Beautiful recreation area for a long stroll.",
+            "tr": "Uzun bir yürüyüş için güzel dinlenme alanı."
           }
         },
         {
@@ -593,7 +622,8 @@
             "de": "Abschluss mit Panoramablick (kurzer Fußweg vom Parkplatz).",
             "hu": "Zárás panorámával (rövid séta a parkolótól).",
             "ro": "Final cu vedere panoramică (scurtă plimbare de la parcare).",
-            "en": "Finish with panoramic views (short walk from parking)."
+            "en": "Finish with panoramic views (short walk from parking).",
+            "tr": "Panoramik manzaralarla bitiş (otoparktan kısa yürüyüş)."
           }
         },
         {
@@ -611,7 +641,8 @@
             "de": "Rückkehr ins Zentrum für das Abendessen.",
             "hu": "Visszatérés a központba vacsorázni.",
             "ro": "Întoarcere în centru pentru cină.",
-            "en": "Return to the center for dinner."
+            "en": "Return to the center for dinner.",
+            "tr": "Akşam yemeği için merkeze dönüş."
           }
         }
       ],
@@ -619,7 +650,8 @@
         "de": "Diese Autotour kombiniert die städtischen Highlights mit der Natur des Sauerlands. Nach Kultur und Technik im Zentrum fahren Sie zum malerischen Schloss Neuenhof und genießen die Ruhe an der Versetalsperre, bevor der Homerturm den Blick weitet.",
         "hu": "Ez az autós túra ötvözi a városi látnivalókat a Sauerland természetével. A központi kultúra és technika után a festői Neuenhof kastélyhoz hajtunk, majd a Verse-víztározónál pihenünk, végül a Homerturm kilátó zárja a napot.",
         "ro": "Acest tur cu mașina combină punctele de atracție urbane cu natura din Sauerland. După cultură și tehnologie în centru, conduceți spre pitorescul castel Neuenhof și vă bucurați de liniște la Versetalsperre.",
-        "en": "This car tour combines urban highlights with Sauerland's nature. After culture and technology in the center, drive to the picturesque Neuenhof Castle and enjoy the peace at Versetalsperre reservoir."
+        "en": "This car tour combines urban highlights with Sauerland's nature. After culture and technology in the center, drive to the picturesque Neuenhof Castle and enjoy the peace at Versetalsperre reservoir.",
+        "tr": "Bu araba turu kentsel öne çıkanları Sauerland doğasıyla birleştirir. Merkezde kültür ve teknoloji gezisinin ardından fotojenik Neuenhof Kalesi'ne sürün ve Versetalsperre barajında huzurun tadını çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -723,6 +755,11 @@
           "Parking fees in the center are moderate.",
           "The roads to Versetalsperre are winding but scenic.",
           "There is a small hikers' parking lot at Homerturm."
+        ],
+        "tr": [
+          "Merkezde otopark ücretleri makul düzeydedir.",
+          "Versetalsperre'ye giden yollar dolambaçlı ama manzaralıdır.",
+          "Homerturm'da küçük bir yürüyüşçü otoparkı vardır."
         ]
       }
     },
@@ -749,7 +786,8 @@
             "de": "Zentraler Busbahnhof (ZOB) ist in Gehweite.",
             "hu": "A központi buszpályaudvar (ZOB) sétatávolságra van.",
             "ro": "Autogara centrală (ZOB) este la mică distanță.",
-            "en": "The central bus station (ZOB) is within walking distance."
+            "en": "The central bus station (ZOB) is within walking distance.",
+            "tr": "Merkezi otobüs terminali (ZOB) yürüme mesafesindedir."
           }
         },
         {
@@ -767,7 +805,8 @@
             "de": "Wahrzeichen im Stadtzentrum (Distrikt 1).",
             "hu": "Jellegzetes templom a városközpontban (1. kerület).",
             "ro": "Simbol în centrul orașului (Districtul 1).",
-            "en": "Landmark in the city center (District 1)."
+            "en": "Landmark in the city center (District 1).",
+            "tr": "Şehir merkezinde bir simge (Bölge 1)."
           }
         },
         {
@@ -785,7 +824,8 @@
             "de": "Mit dem Bus direkt zur Haltestelle Phänomenta (Distrikt 2).",
             "hu": "Busszal közvetlenül a Phänomenta megállóig (2. kerület).",
             "ro": "Cu autobuzul direct la stația Phänomenta (Districtul 2).",
-            "en": "By bus directly to the Phänomenta stop (District 2)."
+            "en": "By bus directly to the Phänomenta stop (District 2).",
+            "tr": "Doğrudan otobüsle Phänomenta durağına (Bölge 2)."
           }
         },
         {
@@ -803,7 +843,8 @@
             "de": "Erreichbar mit Linien Richtung Sauerfeld/Stadtpark.",
             "hu": "Elérhető a Sauerfeld/Stadtpark felé tartó járatokkal.",
             "ro": "Accesibil cu liniile spre Sauerfeld/Stadtpark.",
-            "en": "Accessible with bus lines towards Sauerfeld/Stadtpark."
+            "en": "Accessible with bus lines towards Sauerfeld/Stadtpark.",
+            "tr": "Sauerfeld/Stadtpark yönündeki otobüs hatlarıyla erişilebilir."
           }
         },
         {
@@ -821,7 +862,8 @@
             "de": "Zurück im Zentrum für Industriegeschichte.",
             "hu": "Vissza a központba az ipartörténetért.",
             "ro": "Înapoi în centru pentru istoria industrială.",
-            "en": "Back in the center for industrial history."
+            "en": "Back in the center for industrial history.",
+            "tr": "Endüstri tarihi için tekrar merkezde."
           }
         },
         {
@@ -839,7 +881,8 @@
             "de": "Kultureller Ausklang nahe dem ZOB.",
             "hu": "Kulturális zárás a buszpályaudvar közelében.",
             "ro": "Final cultural aproape de ZOB.",
-            "en": "Cultural finale near the bus station."
+            "en": "Cultural finale near the bus station.",
+            "tr": "Otobüs istasyonu yakınında kültürel final."
           }
         }
       ],
@@ -847,7 +890,8 @@
         "de": "Nutzen Sie das dichte Busnetz von Lüdenscheid. Start in der Altstadt, gefolgt von Technik-Spaß in der Phänomenta. Mittags entspannen Sie im Stadtpark, bevor Sie im Geschichtsmuseum mehr über das Sauerland erfahren.",
         "hu": "Használja Lüdenscheid kiterjedt buszhálózatát. Kezdés az óvárosban, majd technikai szórakozás a Phänomentában. Délben pihenés a parkban, végül a helytörténeti múzeumban ismerheti meg Sauerlandot.",
         "ro": "Utilizați rețeaua densă de autobuze din Lüdenscheid. Începeți în centrul vechi, urmat de distracție tehnică la Phänomenta. La prânz vă relaxați în parc, înainte de a afla mai multe despre Sauerland la muzeu.",
-        "en": "Make use of Lüdenscheid's dense bus network. Start in the old town, followed by technical fun at Phänomenta. At noon, relax in the park before learning more about Sauerland at the history museum."
+        "en": "Make use of Lüdenscheid's dense bus network. Start in the old town, followed by technical fun at Phänomenta. At noon, relax in the park before learning more about Sauerland at the history museum.",
+        "tr": "Lüdenscheid'in yoğun otobüs ağından yararlanın. Eski kentte başlayın, ardından Phänomenta'da teknik eğlence. Öğle vakti parkta dinlenin ve sonra tarih müzesinde Sauerland hakkında daha fazlasını öğrenin."
       },
       "gastro_picks": {
         "de": [
@@ -951,6 +995,11 @@
           "Get a day ticket for the MVG bus network.",
           "The ZOB (central bus station) at Sauerfeld is the main transfer point.",
           "Buses run very frequently on weekdays."
+        ],
+        "tr": [
+          "MVG otobüs ağı için günlük bilet alın.",
+          "Sauerfeld'deki ZOB (merkezi otobüs terminali) ana aktarma noktasıdır.",
+          "Hafta içi otobüsler çok sık çalışır."
         ]
       }
     }

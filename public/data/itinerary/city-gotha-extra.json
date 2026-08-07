@@ -21,7 +21,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             10.7021,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die rote Fassade der Renaissance.",
             "hu": "Figyeld meg a reneszánsz vörös homlokzatot.",
             "ro": "Admirați fațada roșie renascentistă.",
-            "en": "Look for the red Renaissance facade."
+            "en": "Look for the red Renaissance facade.",
+            "tr": "Kırmızı Rönesans cephesini arayın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Margarethenkirche",
             "hu": "Szent Margit-templom",
             "ro": "Biserica Sf. Margareta",
-            "en": "St. Margaret Church"
+            "en": "St. Margaret Church",
+            "tr": "Azize Margaret Kilisesi"
           },
           "coords": [
             10.7032,
@@ -59,7 +62,8 @@
             "de": "Einer der ältesten Orte der Stadt.",
             "hu": "A város egyik legrégebbi pontja.",
             "ro": "Unul dintre cele mai vechi locuri din oraș.",
-            "en": "One of the city's oldest spots."
+            "en": "One of the city's oldest spots.",
+            "tr": "Şehrin en eski noktalarından biri."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Augustinerkloster",
             "hu": "Ágoston-rendi kolostor",
             "ro": "Mănăstirea Augustiniană",
-            "en": "Augustinian Monastery"
+            "en": "Augustinian Monastery",
+            "tr": "Augustinian Manastırı"
           },
           "coords": [
             10.7065,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie den gotischen Kreuzgang.",
             "hu": "Nézd meg a gótikus keringőt.",
             "ro": "Vizitați claustrul gotic.",
-            "en": "Visit the Gothic cloister."
+            "en": "Visit the Gothic cloister.",
+            "tr": "Gotik avluyu ziyaret edin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kasematten",
             "hu": "Kazamaták",
             "ro": "Cazemate",
-            "en": "Casemates"
+            "en": "Casemates",
+            "tr": "Kasematlar"
           },
           "coords": [
             10.705,
@@ -105,7 +112,8 @@
             "de": "Warme Kleidung für unterirdische Gänge nötig.",
             "hu": "Meleg ruha kell a föld alatti járatokba.",
             "ro": "Haine groase necesare pentru tuneluri.",
-            "en": "Warm clothes needed for underground tunnels."
+            "en": "Warm clothes needed for underground tunnels.",
+            "tr": "Yeraltı tünelleri için sıcak giysi gerekli."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schloss Friedenstein",
             "hu": "Friedenstein-kastély",
             "ro": "Castelul Friedenstein",
-            "en": "Friedenstein Castle"
+            "en": "Friedenstein Castle",
+            "tr": "Friedenstein Kalesi"
           },
           "coords": [
             10.7045,
@@ -128,7 +137,8 @@
             "de": "Größte frühbarocke Schlossanlage Deutschlands.",
             "hu": "Németország legnagyobb kora barokk kastélya.",
             "ro": "Cel mai mare palat baroc timpuriu din Germania.",
-            "en": "Germany's largest early Baroque palace."
+            "en": "Germany's largest early Baroque palace.",
+            "tr": "Almanya'nın en büyük erken Barok sarayı."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Ekhof-Theater",
             "hu": "Ekhof-színház",
             "ro": "Teatrul Ekhof",
-            "en": "Ekhof Theater"
+            "en": "Ekhof Theater",
+            "tr": "Ekhof Tiyatrosu"
           },
           "coords": [
             10.7042,
@@ -151,7 +162,8 @@
             "de": "Ältestes Barocktheater mit Bühnenmaschinerie.",
             "hu": "A világ legrégebbi működő barokk színháza.",
             "ro": "Cel mai vechi teatru baroc funcțional.",
-            "en": "World's oldest working Baroque theater."
+            "en": "World's oldest working Baroque theater.",
+            "tr": "Dünyanın en eski çalışan Barok tiyatrosu."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Gothaer Orangerie",
             "hu": "Gothai Oranzsárium",
             "ro": "Oranjeria Gotha",
-            "en": "Gotha Orangerie"
+            "en": "Gotha Orangerie",
+            "tr": "Gotha Orangerie"
           },
           "coords": [
             10.71,
@@ -174,7 +187,8 @@
             "de": "Ein Hauch von Versailles in Thüringen.",
             "hu": "Egy kis Versailles Türingiában.",
             "ro": "O notă de Versailles în Turingia.",
-            "en": "A touch of Versailles in Thuringia."
+            "en": "A touch of Versailles in Thuringia.",
+            "tr": "Turingia'da Versailles dokunuşu."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie am historischen Hauptmarkt und erkunden Sie die Altstadt, bevor Sie unter die Erde in die massiven Kasematten abtauchen. Der Nachmittag gehört dem monumentalen Schloss Friedenstein und seinem einzigartigen Theater, gefolgt von einem entspannten Spaziergang durch die herrschaftliche Orangerie.",
         "hu": "Kezdje a napot a történelmi főtéren, majd fedezze fel az óváros kincseit. Merüljön el a vár alatti hatalmas kazamaták világában, délután pedig csodálja meg a monumentális Friedenstein-kastélyt és barokk színházát, mielőtt a pompás Oranzsáriumban pihenne meg.",
         "ro": "Începeți ziua în piața centrală istorică și explorați orașul vechi. Coborâți în impresionantele cazemate de sub castel, iar după-amiaza vizitați monumentala rezidență Friedenstein și teatrul său baroc unic, încheind cu o plimbare relaxantă prin oranjeria princiară.",
-        "en": "Start your day at the historic main market and explore the old town treasures. Descend into the massive underground casemates, and spend the afternoon at the monumental Friedenstein Castle and its unique theater, finishing with a peaceful walk through the grand Orangerie."
+        "en": "Start your day at the historic main market and explore the old town treasures. Descend into the massive underground casemates, and spend the afternoon at the monumental Friedenstein Castle and its unique theater, finishing with a peaceful walk through the grand Orangerie.",
+        "tr": "Gününüzü tarihi ana pazarda başlayıp eski kent hazinelerini keşfederek başlatın. Devasa yeraltı kasematlarına inin ve öğleden sonranızı anıtsal Friedenstein Kalesi ile benzersiz tiyatrosunda geçirin; günü büyük Orangerie'de huzurlu bir yürüyüşle bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -282,6 +297,10 @@
         "en": [
           "Gotha is very compact; comfortable shoes are enough.",
           "The casemate tour has fixed times; please check in advance."
+        ],
+        "tr": [
+          "Gotha çok kompaktır; rahat ayakkabılar yeterlidir.",
+          "Kasemat turunun sabit saatleri vardır; lütfen önceden kontrol edin."
         ]
       }
     },
@@ -298,7 +317,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             10.7021,
@@ -313,7 +333,8 @@
             "de": "Startpunkt im Herzen der Stadt.",
             "hu": "A város szívéből indulunk.",
             "ro": "Punctul de plecare din inima orașului.",
-            "en": "Starting point in the heart of the city."
+            "en": "Starting point in the heart of the city.",
+            "tr": "Şehrin kalbindeki başlangıç noktası."
           }
         },
         {
@@ -321,7 +342,8 @@
             "de": "Schloss Friedenstein",
             "hu": "Friedenstein-kastély",
             "ro": "Castelul Friedenstein",
-            "en": "Friedenstein Castle"
+            "en": "Friedenstein Castle",
+            "tr": "Friedenstein Kalesi"
           },
           "coords": [
             10.7045,
@@ -336,7 +358,8 @@
             "de": "Rad abstellen und den Innenhof besichtigen.",
             "hu": "Tegye le a bringát és nézze meg az udvart.",
             "ro": "Lăsați bicicleta și vizitați curtea interioară.",
-            "en": "Park your bike and visit the courtyard."
+            "en": "Park your bike and visit the courtyard.",
+            "tr": "Bisikletinizi park edin ve avluyu ziyaret edin."
           }
         },
         {
@@ -344,7 +367,8 @@
             "de": "Gothaer Orangerie",
             "hu": "Gothai Oranzsárium",
             "ro": "Oranjeria Gotha",
-            "en": "Gotha Orangerie"
+            "en": "Gotha Orangerie",
+            "tr": "Gotha Orangerie"
           },
           "coords": [
             10.71,
@@ -359,7 +383,8 @@
             "de": "Schöne Wege entlang der Gartenanlagen.",
             "hu": "Gyönyörű utak a kertek mentén.",
             "ro": "Trasee frumoase de-a lungul grădinilor.",
-            "en": "Beautiful paths along the gardens."
+            "en": "Beautiful paths along the gardens.",
+            "tr": "Bahçeler boyunca güzel patikalar."
           }
         },
         {
@@ -367,7 +392,8 @@
             "de": "Seeberg",
             "hu": "Seeberg-domb",
             "ro": "Dealul Seeberg",
-            "en": "Seeberg Hill"
+            "en": "Seeberg Hill",
+            "tr": "Seeberg Tepesi"
           },
           "coords": [
             10.745,
@@ -382,7 +408,8 @@
             "de": "Aussichtspunkt auf die Stadt und den Thüringer Wald.",
             "hu": "Kilátás a városra és a Türingiai-erdőre.",
             "ro": "Vedere asupra orașului și a Pădurii Turingiei.",
-            "en": "View over the city and the Thuringian Forest."
+            "en": "View over the city and the Thuringian Forest.",
+            "tr": "Şehrin ve Turing Ormanı'nın manzarası."
           }
         },
         {
@@ -390,7 +417,8 @@
             "de": "Herzogliches Museum",
             "hu": "Hercegi Múzeum",
             "ro": "Muzeul Ducal",
-            "en": "Ducal Museum"
+            "en": "Ducal Museum",
+            "tr": "Dükalık Müzesi"
           },
           "coords": [
             10.7075,
@@ -405,7 +433,8 @@
             "de": "Große Kunstsammlung in prachtvollem Gebäude.",
             "hu": "Nagy művészeti gyűjtemény pazar épületben.",
             "ro": "O colecție de artă vastă într-o clădire somptuoasă.",
-            "en": "Large art collection in a magnificent building."
+            "en": "Large art collection in a magnificent building.",
+            "tr": "Muhteşem bir binada geniş sanat koleksiyonu."
           }
         },
         {
@@ -413,7 +442,8 @@
             "de": "Augustinerkloster",
             "hu": "Ágoston-rendi kolostor",
             "ro": "Mănăstirea Augustiniană",
-            "en": "Augustinian Monastery"
+            "en": "Augustinian Monastery",
+            "tr": "Augustinian Manastırı"
           },
           "coords": [
             10.7065,
@@ -428,7 +458,8 @@
             "de": "Ein ruhiger Abschluss des Tages.",
             "hu": "A nap csendes lezárása.",
             "ro": "Un final de zi liniștit.",
-            "en": "A quiet end to the day."
+            "en": "A quiet end to the day.",
+            "tr": "Günün sessiz bir sonu."
           }
         }
       ],
@@ -436,7 +467,8 @@
         "de": "Diese Radtour kombiniert die barocke Pracht Gothas mit einem Ausflug in die Natur zum Seeberg. Sie sehen das Schloss, die Orangerie und genießen weite Ausblicke, bevor Sie den Tag mit Kultur im Herzoglichen Museum abschließen.",
         "hu": "Ez a bringatúra ötvözi Gotha barokk pompáját a Seeberg dombjának természetközeli élményével. Meglátogatja a kastélyt, az Oranzsáriumot, és gyönyörködik a panorámában, majd kultúrával zár a Hercegi Múzeumban.",
         "ro": "Acest tur cu bicicleta combină splendoarea barocă a Gothei cu o escapadă în natură pe dealul Seeberg. Vizitați castelul, oranjeria și vă bucurați de panorame, încheind ziua cu cultură la Muzeul Ducal.",
-        "en": "This bike tour combines Gotha's Baroque splendor with a nature excursion to Seeberg Hill. You'll visit the castle, the Orangerie, and enjoy wide views before finishing with culture at the Ducal Museum."
+        "en": "This bike tour combines Gotha's Baroque splendor with a nature excursion to Seeberg Hill. You'll visit the castle, the Orangerie, and enjoy wide views before finishing with culture at the Ducal Museum.",
+        "tr": "Bu bisiklet turu Gotha'nın Barok görkemini Seeberg Tepesi'ne doğa gezisiyle birleştirir. Kale, Orangerie'yi ziyaret edecek ve geniş manzaraların tadını çıkaracak, turu Dükalık Müzesi'nde kültürle sonlandıracaksınız."
       },
       "gastro_picks": {
         "de": [
@@ -536,6 +568,10 @@
         "en": [
           "The climb to Seeberg requires some fitness.",
           "In pedestrian zones, ride at walking pace."
+        ],
+        "tr": [
+          "Seeberg’e tırmanış biraz kondisyon gerektirir.",
+          "Yaya bölgelerinde yürüme hızında sürün."
         ]
       }
     },
@@ -552,7 +588,8 @@
             "de": "Parkplatz Schlosspark (Cluster A)",
             "hu": "Kastélypark parkoló (A-klaszter)",
             "ro": "Parcare Schlosspark (Cluster A)",
-            "en": "Schlosspark Parking (Cluster A)"
+            "en": "Schlosspark Parking (Cluster A)",
+            "tr": "Schlosspark Otoparkı (Küme A)"
           },
           "coords": [
             10.7085,
@@ -567,7 +604,8 @@
             "de": "Idealer Ausgangspunkt für den Schlossberg.",
             "hu": "Ideális kiindulópont a kastélydombhoz.",
             "ro": "Punct ideal de plecare pentru dealul castelului.",
-            "en": "Ideal starting point for the castle hill."
+            "en": "Ideal starting point for the castle hill.",
+            "tr": "Kale tepesine başlamak için ideal nokta."
           }
         },
         {
@@ -575,7 +613,8 @@
             "de": "Herzogliches Museum",
             "hu": "Hercegi Múzeum",
             "ro": "Muzeul Ducal",
-            "en": "Ducal Museum"
+            "en": "Ducal Museum",
+            "tr": "Dükalık Müzesi"
           },
           "coords": [
             10.7075,
@@ -590,7 +629,8 @@
             "de": "Kurzer Spaziergang vom Parkplatz.",
             "hu": "Rövid séta a parkolóból.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking lot."
+            "en": "Short walk from the parking lot.",
+            "tr": "Otoparktan kısa yürüyüş."
           }
         },
         {
@@ -598,7 +638,8 @@
             "de": "Gothaer Orangerie",
             "hu": "Gothai Oranzsárium",
             "ro": "Oranjeria Gotha",
-            "en": "Gotha Orangerie"
+            "en": "Gotha Orangerie",
+            "tr": "Gotha Orangerie"
           },
           "coords": [
             10.71,
@@ -613,7 +654,8 @@
             "de": "Zu Fuß erreichbar vom Museum.",
             "hu": "Gyalogosan elérhető a múzeumtól.",
             "ro": "Accesibil pe jos de la muzeu.",
-            "en": "Accessible on foot from the museum."
+            "en": "Accessible on foot from the museum.",
+            "tr": "Müzeden yürüyerek ulaşılabilir."
           }
         },
         {
@@ -621,7 +663,8 @@
             "de": "Schloss Friedenstein",
             "hu": "Friedenstein-kastély",
             "ro": "Castelul Friedenstein",
-            "en": "Friedenstein Castle"
+            "en": "Friedenstein Castle",
+            "tr": "Friedenstein Sarayı"
           },
           "coords": [
             10.7045,
@@ -636,7 +679,8 @@
             "de": "Zentraler Punkt des Cluster-Spaziergangs.",
             "hu": "A gyalogos klaszter központi pontja.",
             "ro": "Punctul central al plimbării în cluster.",
-            "en": "Central point of the cluster walk."
+            "en": "Central point of the cluster walk.",
+            "tr": "Küme yürüyüşünün merkezi noktası."
           }
         },
         {
@@ -644,7 +688,8 @@
             "de": "Altstadt / Rathaus (Cluster B)",
             "hu": "Óváros / Városháza (B-klaszter)",
             "ro": "Orașul Vechi / Primăria (Cluster B)",
-            "en": "Old Town / Rathaus (Cluster B)"
+            "en": "Old Town / Rathaus (Cluster B)",
+            "tr": "Eski Kent / Belediye Binası (Küme B)"
           },
           "coords": [
             10.7024,
@@ -659,7 +704,8 @@
             "de": "Kurze Fahrt ins Zentrum, dort parken.",
             "hu": "Rövid autóút a központba, parkolás ott.",
             "ro": "Scurtă deplasare în centru, parcare acolo.",
-            "en": "Short drive to the center, park there."
+            "en": "Short drive to the center, park there.",
+            "tr": "Merkeze kısa sürüş, oraya park edin."
           }
         },
         {
@@ -667,7 +713,8 @@
             "de": "Boxberg (Cluster C)",
             "hu": "Boxberg (C-klaszter)",
             "ro": "Boxberg (Cluster C)",
-            "en": "Boxberg (Cluster C)"
+            "en": "Boxberg (Cluster C)",
+            "tr": "Boxberg (Küme C)"
           },
           "coords": [
             10.655,
@@ -682,7 +729,8 @@
             "de": "Pferderennbahn und Waldwege.",
             "hu": "Lóversenypálya és erdei utak.",
             "ro": "Hipodrom și cărări de pădure.",
-            "en": "Horse race track and forest paths."
+            "en": "Horse race track and forest paths.",
+            "tr": "At yarışı pisti ve orman yolları."
           }
         },
         {
@@ -690,7 +738,8 @@
             "de": "Schloss Tenneberg (Nearby)",
             "hu": "Tenneberg-kastély (Közelben)",
             "ro": "Castelul Tenneberg (În apropiere)",
-            "en": "Tenneberg Castle (Nearby)"
+            "en": "Tenneberg Castle (Nearby)",
+            "tr": "Tenneberg Kalesi (Yakın)"
           },
           "coords": [
             10.585,
@@ -705,7 +754,8 @@
             "de": "Ein schöner Abschluss in Waltershausen.",
             "hu": "Szép lezárás Waltershausenben.",
             "ro": "Un final frumos în Waltershausen.",
-            "en": "A beautiful finish in Waltershausen."
+            "en": "A beautiful finish in Waltershausen.",
+            "tr": "Waltershausen’de güzel bir bitiş."
           }
         }
       ],
@@ -713,7 +763,8 @@
         "de": "Mit dem Auto erkunden Sie erst das barocke Ensemble Gothas in Clustern (Schlossberg und Altstadt) und fahren dann zum Boxberg und nach Waltershausen zum Schloss Tenneberg, um die Region kennenzulernen.",
         "hu": "Autóval előbb Gotha barokk együttesét fedezi fel két klaszterben (kastélydomb és óváros), majd átgurul a Boxbergre és Waltershausenbe a Tenneberg-kastélyhoz, hogy a környéket is lássa.",
         "ro": "Cu mașina explorați mai întâi ansamblul baroc al Gothei în clustere (dealul castelului și centrul vechi), apoi mergeți la Boxberg și în Waltershausen la castelul Tenneberg.",
-        "en": "By car, you'll first explore Gotha's Baroque ensemble in clusters (castle hill and old town), then drive to Boxberg and Waltershausen to see Tenneberg Castle and the surrounding region."
+        "en": "By car, you'll first explore Gotha's Baroque ensemble in clusters (castle hill and old town), then drive to Boxberg and Waltershausen to see Tenneberg Castle and the surrounding region.",
+        "tr": "Arabayla önce Gotha’nın Barok topluluğunu kümeler halinde keşfedeceksiniz (kale tepesi ve eski kent), ardından Tenneberg Kalesi ve çevresini görmek için Boxberg ve Waltershausen’e sürün."
       },
       "gastro_picks": {
         "de": [
@@ -813,6 +864,10 @@
         "en": [
           "Use the parking lots at the edge of the castle park.",
           "Waltershausen is only a 15-minute drive away."
+        ],
+        "tr": [
+          "Kale parkı kenarındaki otoparkları kullanın.",
+          "Waltershausen sadece 15 dakikalık sürüş mesafesinde."
         ]
       }
     },
@@ -829,7 +884,8 @@
             "de": "Gotha Hauptbahnhof",
             "hu": "Gothai főpályaudvar",
             "ro": "Gara Centrală Gotha",
-            "en": "Gotha Main Station"
+            "en": "Gotha Main Station",
+            "tr": "Gotha Ana Garı"
           },
           "coords": [
             10.718,
@@ -844,7 +900,8 @@
             "de": "Startpunkt mit der Thüringer Waldbahn.",
             "hu": "Indulás a Türingiai Erdei Vasúttal.",
             "ro": "Pornire cu tramvaiul Thüringer Waldbahn.",
-            "en": "Start with the Thuringian Forest Tram."
+            "en": "Start with the Thuringian Forest Tram.",
+            "tr": "Thüringen Orman Tramvayı ile başlayın."
           }
         },
         {
@@ -852,7 +909,8 @@
             "de": "Schloss Friedenstein (Cluster A)",
             "hu": "Friedenstein-kastély (A-klaszter)",
             "ro": "Castelul Friedenstein (Cluster A)",
-            "en": "Friedenstein Castle (Cluster A)"
+            "en": "Friedenstein Castle (Cluster A)",
+            "tr": "Friedenstein Sarayı (Küme A)"
           },
           "coords": [
             10.7045,
@@ -867,7 +925,8 @@
             "de": "Tram Linie 4 bis Haltestelle Schloss.",
             "hu": "4-es villamos a Kastély megállóig.",
             "ro": "Tramvaiul 4 până la stația Schloss.",
-            "en": "Tram line 4 to Schloss stop."
+            "en": "Tram line 4 to Schloss stop.",
+            "tr": "Tramvay hattı 4 ile Schloss durağına."
           }
         },
         {
@@ -875,7 +934,8 @@
             "de": "Ekhof-Theater",
             "hu": "Ekhof-színház",
             "ro": "Teatrul Ekhof",
-            "en": "Ekhof Theater"
+            "en": "Ekhof Theater",
+            "tr": "Ekhof Tiyatrosu"
           },
           "coords": [
             10.7042,
@@ -890,7 +950,8 @@
             "de": "Nur ein kurzer Weg innerhalb des Schlosses.",
             "hu": "Rövid séta a kastélyon belül.",
             "ro": "Scurtă plimbare în incinta castelului.",
-            "en": "Short walk inside the castle."
+            "en": "Short walk inside the castle.",
+            "tr": "Saray içinde kısa yürüyüş."
           }
         },
         {
@@ -898,7 +959,8 @@
             "de": "Hauptmarkt (Cluster B)",
             "hu": "Főtér (B-klaszter)",
             "ro": "Piața Centrală (Cluster B)",
-            "en": "Main Market (Cluster B)"
+            "en": "Main Market (Cluster B)",
+            "tr": "Ana Pazar (Küme B)"
           },
           "coords": [
             10.7024,
@@ -913,7 +975,8 @@
             "de": "Gyalog a kastélytól le a városba.",
             "hu": "Gyalog a kastélytól le a városba.",
             "ro": "Pe jos de la castel în jos spre oraș.",
-            "en": "Walk down from the castle to the town."
+            "en": "Walk down from the castle to the town.",
+            "tr": "Saraydan aşağı, kasabaya yürüyün."
           }
         },
         {
@@ -921,7 +984,8 @@
             "de": "Herzogliches Museum",
             "hu": "Hercegi Múzeum",
             "ro": "Muzeul Ducal",
-            "en": "Ducal Museum"
+            "en": "Ducal Museum",
+            "tr": "Dükalık Müzesi"
           },
           "coords": [
             10.7075,
@@ -936,7 +1000,8 @@
             "de": "Gyalog vissza a Schloss-negyedbe.",
             "hu": "Gyalog vissza a Schloss-negyedbe.",
             "ro": "Pe jos înapoi spre cartierul Schloss.",
-            "en": "Walk back towards the Schloss district."
+            "en": "Walk back towards the Schloss district.",
+            "tr": "Schloss bölgesine doğru geri yürüyün."
           }
         },
         {
@@ -944,7 +1009,8 @@
             "de": "Orangerie",
             "hu": "Oranzsárium",
             "ro": "Oranjerie",
-            "en": "Orangerie"
+            "en": "Orangerie",
+            "tr": "Orangerie"
           },
           "coords": [
             10.71,
@@ -959,7 +1025,8 @@
             "de": "Kurze Erholung vor der Rückfahrt.",
             "hu": "Rövid pihenő a visszautazás előtt.",
             "ro": "Scurtă relaxare înainte de plecare.",
-            "en": "Short relaxation before heading back."
+            "en": "Short relaxation before heading back.",
+            "tr": "Geri dönmeden önce kısa dinlenme."
           }
         }
       ],
@@ -967,7 +1034,8 @@
         "de": "Nutzen Sie die historische Thüringer Waldbahn, um das Schlossareal zu erreichen. Innerhalb der Cluster Schloss und Altstadt bewegen Sie sich zu Fuß, um die barocke Atmosphäre hautnah zu erleben, bevor Sie mit dem Bus oder der Tram zurück zum Bahnhof fahren.",
         "hu": "Használja a történelmi Erdei Vasutat a kastély eléréséhez. A kastély és az óváros klasztereken belül gyalogosan közlekedjen, hogy átélje a barokk hangulatot, majd busszal vagy villamossal térjen vissza az állomásra.",
         "ro": "Folosiți istoricul tramvai Thüringer Waldbahn pentru a ajunge la castel. În clusterele castel și centrul vechi deplasați-vă pe jos pentru a simți atmosfera barocă, apoi reveniți cu autobuzul sau tramvaiul la gară.",
-        "en": "Use the historic Thuringian Forest Tram to reach the castle area. Move on foot within the castle and old town clusters to fully experience the Baroque atmosphere before returning to the station by bus or tram."
+        "en": "Use the historic Thuringian Forest Tram to reach the castle area. Move on foot within the castle and old town clusters to fully experience the Baroque atmosphere before returning to the station by bus or tram.",
+        "tr": "Kale bölgesine ulaşmak için tarihi Thüringen Orman Tramvayını kullanın. Barok atmosferi tam yaşamak için kale ve eski kent kümeleri içinde yürüyerek ilerleyin, sonra gara otobüs veya tramvayla dönün."
       },
       "gastro_picks": {
         "de": [
@@ -1069,6 +1137,10 @@
         "en": [
           "A day ticket is worth it if you use the tram several times.",
           "The Forest Tram (line 4) is an experience in itself."
+        ],
+        "tr": [
+          "Tramvayı birkaç kez kullanacaksanız günlük bilet kârlıdır.",
+          "Orman Tramvayı (hat 4) başlı başına bir deneyimdir."
         ]
       }
     }

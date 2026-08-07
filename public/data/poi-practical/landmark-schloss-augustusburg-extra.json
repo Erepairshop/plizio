@@ -3,55 +3,64 @@
     "de": "Schlossstr. 6, 50321 Brühl",
     "hu": "Schlossstr. 6, 50321 Brühl",
     "ro": "Schlossstr. 6, 50321 Brühl",
-    "en": "Schlossstr. 6, 50321 Brühl"
+    "en": "Schlossstr. 6, 50321 Brühl",
+    "tr": "Schlossstr. 6, 50321 Brühl"
   },
   "openingHours": {
     "de": "Di-Fr 09:00-12:00, 13:30-16:00, Sa-Su 10:00-17:00",
     "hu": "K-P 09:00-12:00, 13:30-16:00, Szo-V 10:00-17:00",
     "ro": "Mar-Vin 09:00-12:00, 13:30-16:00, Sâm-Dum 10:00-17:00",
-    "en": "Tue-Fri 09:00-12:00, 13:30-16:00, Sat-Sun 10:00-17:00"
+    "en": "Tue-Fri 09:00-12:00, 13:30-16:00, Sat-Sun 10:00-17:00",
+    "tr": "Salı-Cuma 09:00-12:00, 13:30-16:00, Cmt-Paz 10:00-17:00"
   },
   "entranceFee": {
     "de": "€7.00 Erwachsene, €4.00 ermäßigt",
     "hu": "7,00 € felnőtt, 4,00 € kedvezményes",
     "ro": "7 € adulți, 4 € redus",
-    "en": "€7.00 adults, €4.00 reduced"
+    "en": "€7.00 adults, €4.00 reduced",
+    "tr": "€7,00 yetişkinler, €4,00 indirimli"
   },
   "website": "https://www.schlossbruehl.de",
   "publicTransport": {
     "de": "DB Bahnhof Brühl, 10 Min. Fußweg",
     "hu": "DB Brühl vasútállomás, 10 perc gyalog",
     "ro": "Gara DB Brühl, 10 minute pe jos",
-    "en": "DB train station Brühl, 10 min. walk"
+    "en": "DB train station Brühl, 10 min. walk",
+    "tr": "DB Brühl tren istasyonu, 10 dk. yürüme"
   },
   "parking": {
     "de": "Parkplatz am Schloss",
     "hu": "Parkoló a kastélynál",
     "ro": "Parcare la castel",
-    "en": "Parking at the castle"
+    "en": "Parking at the castle",
+    "tr": "Kastelde otopark"
   },
   "accessibility": {
     "de": "Barrierefrei durch speziellen Eingang",
     "hu": "Akadálymentesített, speciális bejáraton keresztül",
     "ro": "Accesibil, printr-o intrare specială",
-    "en": "Accessible via a special entrance"
+    "en": "Accessible via a special entrance",
+    "tr": "Özel girişle erişilebilir"
   },
   "photoRules": {
     "de": "Keine Fotos im Innenraum",
     "hu": "Belül tilos a fényképezés",
     "ro": "Nu sunt permise fotografii în interior",
-    "en": "No photos inside"
+    "en": "No photos inside",
+    "tr": "İçeride fotoğraf yok"
   },
   "bestTimeToVisit": {
     "de": "Vormittags zur Führung",
     "hu": "Délelőtt, a vezetett túrák idején",
     "ro": "Dimineața, pentru turul ghidat",
-    "en": "In the morning for the guided tour"
+    "en": "In the morning for the guided tour",
+    "tr": "Rehberli tur için sabah saatleri"
   },
   "audioGuide": {
     "de": "Deutsch, Englisch, Französisch",
     "hu": "német, angol, francia",
     "ro": "germană, engleză, franceză",
-    "en": "German, English, French"
+    "en": "German, English, French",
+    "tr": "Almanca, İngilizce, Fransızca"
   }
 }

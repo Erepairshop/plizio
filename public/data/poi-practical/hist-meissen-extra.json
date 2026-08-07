@@ -3,55 +3,64 @@
     "de": "Domplatz 1, 01662 Meißen",
     "hu": "Domplatz 1, 01662 Meißen",
     "ro": "Domplatz 1, 01662 Meißen",
-    "en": "Domplatz 1, 01662 Meißen"
+    "en": "Domplatz 1, 01662 Meißen",
+    "tr": "Domplatz 1, 01662 Meißen"
   },
   "openingHours": {
     "de": "Mo-Su 10:00-18:00",
     "hu": "H-V 10:00-18:00",
     "ro": "Lu-Du 10:00-18:00",
-    "en": "Mon-Sun 10:00-18:00"
+    "en": "Mon-Sun 10:00-18:00",
+    "tr": "Pzt-Paz 10:00-18:00"
   },
   "entranceFee": {
     "de": "Albrechtsburg € 10,00, Dom € 6,00",
     "hu": "Albrechtsburg 10,00 €, Dóm 6,00 €",
     "ro": "Albrechtsburg 10,00 €, Catedrala 6,00 €",
-    "en": "Albrechtsburg € 10.00, Cathedral € 6.00"
+    "en": "Albrechtsburg € 10.00, Cathedral € 6.00",
+    "tr": "Albrechtsburg €10,00, Katedral €6,00"
   },
   "website": "https://www.albrechtsburg-meissen.de",
   "publicTransport": {
     "de": "S-Bahn S1 bis Meißen-Altstadt",
     "hu": "S1-es S-Bahn Meißen-Altstadt megállóig",
     "ro": "S-Bahn S1 până la Meißen-Altstadt",
-    "en": "S-Bahn S1 to Meißen-Altstadt"
+    "en": "S-Bahn S1 to Meißen-Altstadt",
+    "tr": "S-Bahn S1 ile Meißen-Altstadt"
   },
   "parking": {
     "de": "Parkplatz am Elbufer, ca. 5,00 €/Tag.",
     "hu": "Parkoló az Elba partján, kb. 5,00 €/nap.",
     "ro": "Parcare pe malul Elbei, cca. 5,00 €/zi.",
-    "en": "Parking on the banks of the Elbe, approx. € 5.00/day."
+    "en": "Parking on the banks of the Elbe, approx. € 5.00/day.",
+    "tr": "Elbe kıyısına park, yaklaşık €5,00/gün."
   },
   "accessibility": {
     "de": "Burgberg über Aufzug barrierefrei erreichbar, Domplateau ebenerdig.",
     "hu": "A várhegy lifttel akadálymentesen elérhető, a dóm előtti tér sík.",
     "ro": "Dealul castelului este accesibil prin lift, platoul catedralei este la nivel.",
-    "en": "Castle hill accessible via elevator, cathedral plateau is level."
+    "en": "Castle hill accessible via elevator, cathedral plateau is level.",
+    "tr": "Kale tepesi asansörle ulaşılabilir, katedral platosu düz."
   },
   "photoRules": {
     "de": "Privat gegen Gebühr (€ 2,00) erlaubt.",
     "hu": "Saját célra, díj ellenében (2,00 €) engedélyezett.",
     "ro": "Permis în scop privat contra unei taxe (2,00 €).",
-    "en": "Private photography allowed for a fee (€ 2.00)."
+    "en": "Private photography allowed for a fee (€ 2.00).",
+    "tr": "Özel fotoğrafçılık ücretli olarak izinli (€2,00)."
   },
   "bestTimeToVisit": {
     "de": "Spätnachmittag für Fotos vom Elbufer aus.",
     "hu": "Késő délután az Elba-parti fotózáshoz.",
     "ro": "După-amiaza târziu pentru fotografii de pe malul Elbei.",
-    "en": "Late afternoon for photos from the banks of the Elbe."
+    "en": "Late afternoon for photos from the banks of the Elbe.",
+    "tr": "Elbe kıyısından fotoğraflar için geç öğleden sonra."
   },
   "audioGuide": {
     "de": "ja (HistoPad in der Burg)",
     "hu": "igen (HistoPad a várban)",
     "ro": "da (HistoPad în castel)",
-    "en": "yes (HistoPad available in the castle)"
+    "en": "yes (HistoPad available in the castle)",
+    "tr": "evet (HistoPad kalede mevcut)"
   }
 }

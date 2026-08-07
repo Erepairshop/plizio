@@ -31,7 +31,8 @@
             "de": "Interaktive Mathematik zum Anfassen für jedes Alter.",
             "hu": "Interaktív matematika minden korosztálynak, kipróbálható kísérletekkel.",
             "ro": "Matematică interactivă pentru toate vârstele, cu experimente practice.",
-            "en": "Interactive mathematics for all ages with hands-on experiments."
+            "en": "Interactive mathematics for all ages with hands-on experiments.",
+            "tr": "Her yaş için etkileşimli matematik, uygulamalı deneylerle."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Das historische Labor des berühmten Chemikers Justus von Liebig.",
             "hu": "Justus von Liebig híres kémikus eredeti laboratóriuma.",
             "ro": "Laboratorul istoric al celebrului chimist Justus von Liebig.",
-            "en": "The historical laboratory of the famous chemist Justus von Liebig."
+            "en": "The historical laboratory of the famous chemist Justus von Liebig.",
+            "tr": "Ünlü kimyager Justus von Liebig'in tarihi laboratuvarı."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Die zentrale Einkaufsmeile mit vielen Restaurants und Cafés.",
             "hu": "A központi sétálóutca számos étteremmel és kávézóval.",
             "ro": "Principala zonă pietonală cu multe restaurante și cafenele.",
-            "en": "The central shopping street with many restaurants and cafes."
+            "en": "The central shopping street with many restaurants and cafes.",
+            "tr": "Birçok restoran ve kafenin bulunduğu merkezi alışveriş caddesi."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Landesgeschichte im beeindruckenden Fachwerk-Schloss.",
             "hu": "Helytörténeti múzeum egy lenyűgöző gerendavázas kastélyban.",
             "ro": "Istorie locală într-un castel impresionant din bârne de lemn.",
-            "en": "Local history in an impressive half-timbered castle."
+            "en": "Local history in an impressive half-timbered castle.",
+            "tr": "Etkileyici bir yarı ahşap kalede yerel tarih."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Deutschlands ältester botanischer Garten an seinem ursprünglichen Standort.",
             "hu": "Németország legrégebbi botanikus kertje az eredeti helyén.",
             "ro": "Cea mai veche grădină botanică din Germania pe locația sa originală.",
-            "en": "Germany's oldest botanical garden at its original location."
+            "en": "Germany's oldest botanical garden at its original location.",
+            "tr": "Almanya'nın orijinal konumunda en eski botanik bahçesi."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Wahrzeichen der Stadt und Überrest der im Krieg zerstörten Kirche.",
             "hu": "A város jelképe, a háborúban elpusztult templom megmaradt tornya.",
             "ro": "Simbolul orașului și vestigiu al bisericii distruse în război.",
-            "en": "Landmark of the city and remnant of the church destroyed in the war."
+            "en": "Landmark of the city and remnant of the church destroyed in the war.",
+            "tr": "Şehrin simgesi ve savaşta yıkılan kiliseden kalma eser."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Gießen ist die Stadt des Wissens. Der Morgen beginnt interaktiv im Mathematikum, gefolgt von der Chemie-Geschichte bei Liebig. Mittags lockt die Fußgängerzone am Seltersweg zum Schlemmen. Nachmittags spazieren Sie durch das Alte Schloss zum ältesten Botanischen Garten Deutschlands. Der Tag endet mit einem Blick auf den historischen Stadtkirchenturm.",
         "hu": "Gießen a tudás városa. A reggel interaktív módon indul a Mathematikum-ban, majd Liebig kémiai laboratóriumában folytatódik. Ebéd után a Seltersweg sétálóutcájában pihenhetünk meg. A délután a Régi Kastély és a legrégebbi német botanikus kert felfedezésével telik. A napot a történelmi városi templomtorony látványával zárjuk.",
         "ro": "Gießen este orașul cunoașterii. Dimineața începe interactiv la Mathematikum, urmată de istoria chimiei la Liebig. La prânz, zona pietonală Seltersweg vă invită la masă. După-amiaza vă plimbați prin Castelul Vechi spre cea mai veche grădină botanică din Germania. Ziua se încheie cu o privire asupra turnului istoric al bisericii orașului.",
-        "en": "Gießen is a city of science. Start your morning interactively at the Mathematikum, followed by chemistry history at the Liebig Museum. After lunch on Seltersweg, explore the Old Castle and the oldest Botanical Garden in Germany. The day concludes with a view of the historic Stadtkirchenturm tower."
+        "en": "Gießen is a city of science. Start your morning interactively at the Mathematikum, followed by chemistry history at the Liebig Museum. After lunch on Seltersweg, explore the Old Castle and the oldest Botanical Garden in Germany. The day concludes with a view of the historic Stadtkirchenturm tower.",
+        "tr": "Gießen bir bilim şehridir. Sabahınızı Mathematikum'da etkileşimli olarak başlayın, ardından Liebig Müzesi'nde kimya tarihine geçin. Seltersweg'de öğle yemeğinden sonra Eski Kale ve Almanya'nın en eski Botanik Bahçesi'ni keşfedin. Gün, tarihi Stadtkirchenturm kulesinin manzarasıyla sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -293,6 +300,13 @@
           "The Botanical Garden is open until sunset during summer.",
           "Parking garages along the city ring are the best option for cars.",
           "Try the local 'Gießener Schlammbeiser' beer."
+        ],
+        "tr": [
+          "Şehir merkezı kompakt yapıda ve en iyi yürüyerek keşfedilir.",
+          "Mathematikum ziyaretiniz için en az 2 saat planlayın.",
+          "Botanik Bahçe yaz aylarında gün batımına kadar açıktır.",
+          "Araçlar için şehir halkası boyunca otoparklar en iyi seçenektir.",
+          "'Gießener Schlammbeiser' adlı yerel birayı deneyin."
         ]
       }
     },
@@ -319,7 +333,8 @@
             "de": "Starten Sie am historischen Laborgebäude.",
             "hu": "Kezdje a napot a történelmi laborépületnél.",
             "ro": "Începeți ziua la clădirea istorică a laboratorului.",
-            "en": "Start your day at the historic laboratory building."
+            "en": "Start your day at the historic laboratory building.",
+            "tr": "Güne tarihi laboratuvar binasında başlayın."
           }
         },
         {
@@ -337,7 +352,8 @@
             "de": "Kurze Fahrt zum Bahnhofsquartier.",
             "hu": "Rövid tekerés a vasútállomás környékére.",
             "ro": "O scurtă plimbare spre zona gării.",
-            "en": "A short ride to the station quarter."
+            "en": "A short ride to the station quarter.",
+            "tr": "İstasyon mahallesine kısa bir yolculuk."
           }
         },
         {
@@ -355,7 +371,8 @@
             "de": "Zwei Schlösser direkt nebeneinander am Brandplatz.",
             "hu": "Két kastély közvetlenül egymás mellett a Brandplatzon.",
             "ro": "Două castele situate unul lângă altul în Brandplatz.",
-            "en": "Two castles right next to each other at Brandplatz."
+            "en": "Two castles right next to each other at Brandplatz.",
+            "tr": "Brandplatz'da yan yana iki kale."
           }
         },
         {
@@ -373,7 +390,8 @@
             "de": "Fahrradfreundliche Cafés in der Fußgängerzone.",
             "hu": "Kerékpárosbarát kávézók a sétálóövezetben.",
             "ro": "Cafenele prietenoase cu bicicliștii în zona pietonală.",
-            "en": "Bike-friendly cafes in the pedestrian zone."
+            "en": "Bike-friendly cafes in the pedestrian zone.",
+            "tr": "Yaya bölgesinde bisiklet dostu kafeler."
           }
         },
         {
@@ -391,7 +409,8 @@
             "de": "Radeln Sie eine Runde um den großen See.",
             "hu": "Tekerjen körbe a nagy tó körül.",
             "ro": "Pedalați în jurul lacului mare.",
-            "en": "Cycle a loop around the large lake."
+            "en": "Cycle a loop around the large lake.",
+            "tr": "Büyük gölün etrafında bir tur yapın."
           }
         },
         {
@@ -409,7 +428,8 @@
             "de": "Stellen Sie das Rad am Eingang ab und genießen Sie die Ruhe.",
             "hu": "Tegye le a biciklit a bejáratnál és élvezze a csendet.",
             "ro": "Lăsați bicicleta la intrare și bucurați-vă de liniște.",
-            "en": "Park your bike at the entrance and enjoy the peace."
+            "en": "Park your bike at the entrance and enjoy the peace.",
+            "tr": "Bisikletinizi girişte park edin ve huzurun tadını çıkarın."
           }
         }
       ],
@@ -417,7 +437,8 @@
         "de": "Mit dem Rad entdecken Sie Gießen flexibel und schnell. Nach den Museen im Zentrum führt die Route zu den Schlössern am Brandplatz. Ein Abstecher zum Schwanenteich zeigt die grüne Seite der Stadt, bevor es zurück zum Botanischen Garten geht.",
         "hu": "Kerékpárral rugalmasan és gyorsan fedezheti fel Gießent. A központi múzeumok után az út a Brandplatz kastélyaihoz vezet. Egy kitérő a Schwanenteich felé megmutatja a város zöld arcát, mielőtt visszatérnénk a Botanikus kerthez.",
         "ro": "Cu bicicleta descoperiți Gießen într-un mod flexibil și rapid. După muzeele din centru, ruta duce la castelele din Brandplatz. O abatere spre Schwanenteich vă arată partea verde a orașului înainte de a reveni la Grădina Botanică.",
-        "en": "Explore Gießen flexibly and quickly by bike. After the central museums, the route leads to the castles at Brandplatz. A detour to Schwanenteich reveals the city's green side before heading back to the Botanical Garden."
+        "en": "Explore Gießen flexibly and quickly by bike. After the central museums, the route leads to the castles at Brandplatz. A detour to Schwanenteich reveals the city's green side before heading back to the Botanical Garden.",
+        "tr": "Gießen'i esnek ve hızlı keşfetmek için bisiklet kullanın. Merkezi müzelerden sonra rota Brandplatz'daki kalelere gider. Schwanenteich'e yapılan bir sapak şehrin yeşil yüzünü gösterir, ardından Botanik Bahçe'ye geri dönülür."
       },
       "gastro_picks": {
         "de": [
@@ -541,6 +562,12 @@
           "Use the paths along the Lahn river for longer tours.",
           "In the pedestrian zone, you may need to push your bike.",
           "Always lock your bike securely."
+        ],
+        "tr": [
+          "Gießen öğrenci şehridir ve birçok bisiklet yolu vardır.",
+          "Daha uzun turlar için Lahn nehri boyunca uzanan yolları kullanın.",
+          "Yaya bölgesinde bisikletinizi itmeniz gerekebilir.",
+          "Bisikletinizi her zaman güvenli şekilde kilitleyin."
         ]
       }
     },
@@ -567,7 +594,8 @@
             "de": "Parken Sie hier und besuchen Sie das Mathematikum zu Fuß.",
             "hu": "Parkoljon le itt, és látogassa meg a Mathematikumot gyalog.",
             "ro": "Parcați aici și vizitați Mathematikum pe jos.",
-            "en": "Park here and visit the Mathematikum on foot."
+            "en": "Park here and visit the Mathematikum on foot.",
+            "tr": "Buraya park edin ve Mathematikum'u yürüyarak ziyaret edin."
           }
         },
         {
@@ -586,7 +614,8 @@
             "de": "Nur 5 Minuten Fußweg vom Mathematikum.",
             "hu": "Csak 5 perc séta a Mathematikumtól.",
             "ro": "La doar 5 minute de mers pe jos de Mathematikum.",
-            "en": "Only a 5-minute walk from Mathematikum."
+            "en": "Only a 5-minute walk from Mathematikum.",
+            "tr": "Mathematikum'dan sadece 5 dakikalık yürüme mesafesinde."
           }
         },
         {
@@ -605,7 +634,8 @@
             "de": "Zentrales Parkhaus für Schlösser und Marktplatz.",
             "hu": "Központi parkolóház a kastélyokhoz és a piachoz.",
             "ro": "Parcare centrală pentru castele și piață.",
-            "en": "Central parking for castles and marketplace."
+            "en": "Central parking for castles and marketplace.",
+            "tr": "Kaleler ve pazar yeri için merkezi otopark."
           }
         },
         {
@@ -624,7 +654,8 @@
             "de": "Hessische Spezialitäten im Zentrum.",
             "hu": "Hesseni specialitások a központban.",
             "ro": "Specialități din Hessa în centru.",
-            "en": "Hessian specialties in the center."
+            "en": "Hessian specialties in the center.",
+            "tr": "Merkezde Hessen yöresel lezzetleri."
           }
         },
         {
@@ -643,7 +674,8 @@
             "de": "Genügend Parkplätze direkt am Erholungsgebiet.",
             "hu": "Elegendő parkolóhely közvetlenül a pihenőövezetnél.",
             "ro": "Suficiente locuri de parcare lângă zona de recreere.",
-            "en": "Ample parking directly at the recreation area."
+            "en": "Ample parking directly at the recreation area.",
+            "tr": "Dinlenme alanında doğrudan geniş park yeri."
           }
         }
       ],
@@ -651,7 +683,8 @@
         "de": "Diese Autotour verbindet die wissenschaftlichen Highlights im Süden mit den historischen Schlössern im Zentrum. Durch das Clustern von Parkplätzen sparen Sie Stress. Der Abschluss am Schwanenteich bietet viel Platz zum Entspannen vor der Heimreise.",
         "hu": "Ez az autós túra összeköti a déli tudományos látnivalókat a központi történelmi kastélyokkal. A parkolóhelyek csoportosításával stresszt takaríthat meg. A nap vége a Schwanenteich-nél tágas teret kínál a pihenésre a hazaút előtt.",
         "ro": "Acest tur cu mașina combină atracțiile științifice din sud cu castelele istorice din centru. Prin gruparea parcărilor economisiți timp. Finalul la Schwanenteich oferă mult spațiu pentru relaxare înainte de plecare.",
-        "en": "This car tour connects the scientific highlights in the south with the historic castles in the center. Clustering parking spots saves stress. The conclusion at Schwanenteich offers plenty of space to relax before heading home."
+        "en": "This car tour connects the scientific highlights in the south with the historic castles in the center. Clustering parking spots saves stress. The conclusion at Schwanenteich offers plenty of space to relax before heading home.",
+        "tr": "Bu araba turu güneydeki bilimsel noktaları şehir merkezindeki tarihî kalelerle birleştirir. Park yerlerini gruplayarak stresi azaltırsınız. Schwanenteich'te günün sonu eve dönmeden önce dinlenmek için bol alan sunar."
       },
       "gastro_picks": {
         "de": [
@@ -759,6 +792,12 @@
           "On-street parking in the city center is often difficult.",
           "A detour to Schiffenberg Monastery is well worth it by car.",
           "Watch out for one-way streets on the inner ring road."
+        ],
+        "tr": [
+          "Şehrin otopark yönlendirme sistemini kullanın.",
+          "Şehir merkezinde sokak üstü park genellikle zordur.",
+          "Schiffenberg Manastırı'na yapılan bir sapak arabayla kesinlikle değer.",
+          "İç ring yolunda tek yönlü sokaklara dikkat edin."
         ]
       }
     },
@@ -785,7 +824,8 @@
             "de": "Vom Hauptbahnhof nur 2 Gehminuten.",
             "hu": "A főpályaudvartól mindössze 2 perc gyalog.",
             "ro": "La doar 2 minute de mers pe jos de gara centrală.",
-            "en": "Only a 2-minute walk from the main station."
+            "en": "Only a 2-minute walk from the main station.",
+            "tr": "Ana istasyondan sadece 2 dakikalık yürüme mesafesi."
           }
         },
         {
@@ -804,7 +844,8 @@
             "de": "Kurzer Fußweg durch das Univiertel.",
             "hu": "Rövid séta az egyetemi negyeden át.",
             "ro": "Scurtă plimbare prin cartierul universitar.",
-            "en": "Short walk through the university quarter."
+            "en": "Short walk through the university quarter.",
+            "tr": "Üniversite mahallesi boyunca kısa bir yürüyüş."
           }
         },
         {
@@ -823,7 +864,8 @@
             "de": "Zentraler Umstiegsknoten für viele Buslinien.",
             "hu": "Központi átszállópont számos buszvonalhoz.",
             "ro": "Nod central de transfer pentru multe linii de autobuz.",
-            "en": "Central transfer hub for many bus lines."
+            "en": "Central transfer hub for many bus lines.",
+            "tr": "Birçok otobüs hattı için merkezi aktarma noktası."
           }
         },
         {
@@ -842,7 +884,8 @@
             "de": "Mitten im Geschehen.",
             "hu": "Az események központjában.",
             "ro": "În centrul acțiunii.",
-            "en": "Right in the middle of the action."
+            "en": "Right in the middle of the action.",
+            "tr": "Hareketin tam ortasında."
           }
         },
         {
@@ -861,7 +904,8 @@
             "de": "Haltestelle direkt vor dem Eingang.",
             "hu": "Megálló közvetlenül a bejárat előtt.",
             "ro": "Stație chiar în fața intrării.",
-            "en": "Bus stop directly in front of the entrance."
+            "en": "Bus stop directly in front of the entrance.",
+            "tr": "Girişin hemen önünde otobüs durağı."
           }
         }
       ],
@@ -869,7 +913,8 @@
         "de": "Mit dem dichten Busnetz von Gießen erreichen Sie alle Sehenswürdigkeiten bequem. Vom Bahnhof aus führt der Weg über die Museen zum Marktplatz, dem Herzen der Stadt. Genießen Sie die Flexibilität ohne Parkplatzsuche.",
         "hu": "Gießen sűrű autóbuszhálózatával minden látnivaló kényelmesen elérhető. A pályaudvartól a múzeumokon át az út a Marktplatzig, a város szívéig vezet. Élvezze a rugalmasságot parkolóhely-keresés nélkül.",
         "ro": "Cu rețeaua densă de autobuze din Gießen, puteți ajunge confortabil la toate atracțiile. De la gară, drumul trece pe la muzee spre Marktplatz, inima orașului. Bucurați-vă de flexibilitate fără grija parcării.",
-        "en": "With Gießen's dense bus network, you can reach all sights comfortably. From the station, the path leads past museums to Marktplatz, the heart of the city. Enjoy flexibility without the hassle of searching for parking."
+        "en": "With Gießen's dense bus network, you can reach all sights comfortably. From the station, the path leads past museums to Marktplatz, the heart of the city. Enjoy flexibility without the hassle of searching for parking.",
+        "tr": "Gießen'in yoğun otobüs ağıyla tüm görülmeye değer yerleri rahatça ulaşabilirsiniz. İstasyondan rota müzelerin yanından Marktplatz'a, şehrin kalbine gider. Park yeri arama zahmeti olmadan esneklikten keyif alın."
       },
       "gastro_picks": {
         "de": [
@@ -977,6 +1022,12 @@
           "Buses run less frequently on weekends; check the timetable.",
           "Marktplatz is the ideal starting point for bus connections.",
           "Use the RMV app for real-time transit data."
+        ],
+        "tr": [
+          "Tüm şehir bölgesi için bir günlük bilet alın.",
+          "Hafta sonları otobüsler daha seyrek çalışır; tarifeyi kontrol edin.",
+          "Marktplatz otobüs bağlantıları için ideal başlangıç noktasıdır.",
+          "Gerçek zamanlı toplu taşıma verileri için RMV uygulamasını kullanın."
         ]
       }
     }

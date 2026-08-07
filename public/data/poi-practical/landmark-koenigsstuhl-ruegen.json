@@ -3,55 +3,64 @@
     "de": "Stubbenkammer 2, 18546 Sassnitz",
     "hu": "Stubbenkammer 2, 18546 Sassnitz",
     "ro": "Stubbenkammer 2, 18546 Sassnitz",
-    "en": "Stubbenkammer 2, 18546 Sassnitz"
+    "en": "Stubbenkammer 2, 18546 Sassnitz",
+    "tr": "Stubbenkammer 2, 18546 Sassnitz"
   },
   "openingHours": {
     "de": "Easter-Oct 09:00-19:00, Nov-Easter 10:00-17:00",
     "hu": "Húsvéttól októberig 09:00-19:00, novembertől húsvétig 10:00-17:00",
     "ro": "De Paște-octombrie 09:00-19:00, noiembrie-Paște 10:00-17:00",
-    "en": "Easter-Oct 09:00-19:00, Nov-Easter 10:00-17:00"
+    "en": "Easter-Oct 09:00-19:00, Nov-Easter 10:00-17:00",
+    "tr": "Paskalya-Ekim 09:00-19:00, Kasım-Paskalya 10:00-17:00"
   },
   "entranceFee": {
     "de": "€12 Erwachsene, €6 Kinder (6-14 J.)",
     "hu": "12 € felnőtteknek, 6 € gyerekeknek (6-14 év)",
     "ro": "12 € adulți, 6 € copii (6-14 ani)",
-    "en": "€12 adults, €6 children (6-14 years)"
+    "en": "€12 adults, €6 children (6-14 years)",
+    "tr": "Yetişkin €12, çocuk €6 (6-14 yaş)"
   },
   "website": "https://www.koenigsstuhl.com",
   "publicTransport": {
     "de": "Bus 23 ab Sassnitz bis Nationalpark-Zentrum",
     "hu": "23-as busz Sassnitzból a Nemzeti Park központjáig",
     "ro": "Autobuzul 23 din Sassnitz până la Centrul Parcului Național",
-    "en": "Bus 23 from Sassnitz to National Park Center"
+    "en": "Bus 23 from Sassnitz to National Park Center",
+    "tr": "Sassnitz’ten Ulusal Park Merkezi’ne giden 23 numaralı otobüs"
   },
   "parking": {
     "de": "Großparkplatz Hagen, dann Pendelbus oder 3km Wanderung",
     "hu": "Hagen nagyparkoló, majd transzferbusz vagy 3 km-es túra",
     "ro": "Parcarea mare Hagen, apoi autobuz de transfer sau drumeție de 3 km",
-    "en": "Hagen large parking lot, then shuttle bus or 3km hike"
+    "en": "Hagen large parking lot, then shuttle bus or 3km hike",
+    "tr": "Hagen büyük otoparkı, sonra servis otobüsü veya 3 km yürüyüş"
   },
   "accessibility": {
     "de": "Barrierefrei über das Besucherzentrum und den neuen Skywalk",
     "hu": "Akadálymentesen megközelíthető a látogatóközponton és az új Skywalkon keresztül",
     "ro": "Accesibil pentru persoane cu dizabilități prin centrul de vizitatori și noul Skywalk",
-    "en": "Barrier-free via the visitor center and the new Skywalk"
+    "en": "Barrier-free via the visitor center and the new Skywalk",
+    "tr": "Ziyaretçi merkezi ve yeni Skywalk üzerinden engelli erişimine uygun"
   },
   "photoRules": {
     "de": "Privates Fotografieren erlaubt, Stative auf dem Skywalk eingeschränkt",
     "hu": "Privát fényképezés megengedett, állvány használata a Skywalkon korlátozott",
     "ro": "Fotografierea privată permisă, trepiedele limitate pe Skywalk",
-    "en": "Private photography permitted, tripods restricted on the Skywalk"
+    "en": "Private photography permitted, tripods restricted on the Skywalk",
+    "tr": "Özel fotoğrafçılığa izinli, Skywalk’ta tripodlar kısıtlı"
   },
   "bestTimeToVisit": {
     "de": "Vormittags vor 11:00 Uhr für weniger Andrang",
     "hu": "Délelőtt 11:00 óra előtt a kisebb tömeg érdekében",
     "ro": "Dimineața înainte de ora 11:00 pentru mai puțină aglomerație",
-    "en": "Mornings before 11:00 AM to avoid crowds"
+    "en": "Mornings before 11:00 AM to avoid crowds",
+    "tr": "Kalabalıktan kaçınmak için sabah 11:00’den önce"
   },
   "audioGuide": {
     "de": "de, en",
     "hu": "német, angol",
     "ro": "germană, engleză",
-    "en": "German, English"
+    "en": "German, English",
+    "tr": "Almanca, İngilizce"
   }
 }

@@ -21,7 +21,8 @@
             "de": "Rathaus Riesa",
             "hu": "Városháza",
             "ro": "Primăria Riesa",
-            "en": "Riesa Town Hall"
+            "en": "Riesa Town Hall",
+            "tr": "Riesa Belediye Binası"
           },
           "coords": [
             51.3055,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die Architektur des ehemaligen Klosters.",
             "hu": "Csodálja meg az egykori kolostor építészetét.",
             "ro": "Admirați arhitectura fostei mănăstiri.",
-            "en": "Admire the architecture of the former monastery."
+            "en": "Admire the architecture of the former monastery.",
+            "tr": "Eski manastırın mimarisine hayran kalın."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Riesaer Riese",
             "hu": "Riesai Óriás szobra",
             "ro": "Gigantul din Riesa",
-            "en": "Iron Giant Statue"
+            "en": "Iron Giant Statue",
+            "tr": "Demir Dev Heykeli"
           },
           "coords": [
             51.305,
@@ -61,7 +64,8 @@
             "de": "Das Wahrzeichen der Stadt – ein tolles Fotomotiv.",
             "hu": "A város jelképe – remek fotótéma.",
             "ro": "Simbolul orașului – un loc excelent pentru fotografii.",
-            "en": "The landmark of the city – a great photo spot."
+            "en": "The landmark of the city – a great photo spot.",
+            "tr": "Şehrin simgesi – harika bir fotoğraf noktası."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Klosterkirche St. Marien",
             "hu": "Szt. Mária kolostortemplom",
             "ro": "Biserica Mănăstirii Sf. Maria",
-            "en": "St. Mary's Monastery Church"
+            "en": "St. Mary's Monastery Church",
+            "tr": "St. Maria Manastır Kilisesi"
           },
           "coords": [
             51.306,
@@ -85,7 +90,8 @@
             "de": "Besuchen Sie den Kapitelsaal im Inneren.",
             "hu": "Látogassa meg a belső káptalantermet.",
             "ro": "Vizitați sala capitulară din interior.",
-            "en": "Visit the chapter house inside."
+            "en": "Visit the chapter house inside.",
+            "tr": "İçerideki bölüm odasını ziyaret edin."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Tierpark Riesa",
             "hu": "Riesai Vadaspark",
             "ro": "Grădina Zoologică Riesa",
-            "en": "Riesa Zoo"
+            "en": "Riesa Zoo",
+            "tr": "Riesa Hayvanat Bahçesi"
           },
           "coords": [
             51.3065,
@@ -109,7 +116,8 @@
             "de": "Ein kleiner, charmanter Tierpark im Klostergarten.",
             "hu": "Kicsi, bájos vadaspark a kolostorkertben.",
             "ro": "O grădină zoologică mică și fermecătoare în grădina mănăstirii.",
-            "en": "A small, charming zoo in the monastery garden."
+            "en": "A small, charming zoo in the monastery garden.",
+            "tr": "Manastır bahçesindeki küçük, şirin hayvanat bahçesi."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Stadtpark Riesa",
             "hu": "Városi park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "tr": "Şehir Parkı"
           },
           "coords": [
             51.304,
@@ -133,7 +142,8 @@
             "de": "Spaziergang entlang der Elbe im Grünen.",
             "hu": "Séta az Elba mentén a zöldben.",
             "ro": "Plimbare pe malul Elbei în natură.",
-            "en": "Walk along the Elbe in the greenery."
+            "en": "Walk along the Elbe in the greenery.",
+            "tr": "Yeşillikler içinde Elbe kıyısı boyunca yürüyün."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Elbbrücke Riesa",
             "hu": "Elba-híd",
             "ro": "Podul peste Elba",
-            "en": "Elbe Bridge"
+            "en": "Elbe Bridge",
+            "tr": "Elbe Köprüsü"
           },
           "coords": [
             51.309,
@@ -157,7 +168,8 @@
             "de": "Genießen Sie den weiten Blick über den Fluss.",
             "hu": "Élvezze a folyóra nyíló tágas kilátást.",
             "ro": "Bucurați-vă de vederea panoramică asupra râului.",
-            "en": "Enjoy the wide view over the river."
+            "en": "Enjoy the wide view over the river.",
+            "tr": "Nehir üzerindeki geniş manzaranın tadını çıkarın."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Entdecken Sie Riesa zu Fuß, beginnend am historischen Rathauskomplex. Der Weg führt Sie zum legendären Riesaer Riesen und in die Stille der Klosterkirche. Nach einem Besuch im idyllischen Tierpark schlendern Sie durch den weitläufigen Stadtpark direkt an der Elbe. Den Abschluss bildet der beeindruckende Blick von der Elbbrücke, bevor Sie den Tag in der Altstadt ausklingen lassen.",
         "hu": "Fedezze fel Riesát gyalogosan, kezdve a történelmi városháza épületegyüttesénél. Az út a legendás Riesai Óriáshoz és a kolostortemplom csendjéhez vezet. Az idilli vadaspark meglátogatása után tegyen egy sétát a hatalmas városi parkban közvetlenül az Elba partján. A napot az Elba-hídról nyíló lenyűgöző kilátás zárja, mielőtt visszatérne az óvárosba.",
         "ro": "Descoperiți Riesa la pas, începând de la complexul istoric al primăriei. Traseul vă duce la legendarul Gigant din Riesa și în liniștea bisericii mănăstirii. După o vizită la grădina zoologică idilică, plimbați-vă prin parcul orașului direct pe malul Elbei. Finalul este marcat de vederea impresionantă de pe podul peste Elba, înainte de a încheia ziua în centrul vechi.",
-        "en": "Explore Riesa on foot, starting at the historic town hall complex. The path leads you to the legendary Iron Giant and the silence of the monastery church. After a visit to the idyllic zoo, stroll through the extensive city park right on the Elbe. The tour concludes with the impressive view from the Elbe bridge before ending the day in the old town."
+        "en": "Explore Riesa on foot, starting at the historic town hall complex. The path leads you to the legendary Iron Giant and the silence of the monastery church. After a visit to the idyllic zoo, stroll through the extensive city park right on the Elbe. The tour concludes with the impressive view from the Elbe bridge before ending the day in the old town.",
+        "tr": "Tarihi belediye binası kompleksinden başlayarak Riesa’yı yürüyerek keşfedin. Yol sizi efsanevi Demir Dev’e ve manastır kilisesinin dinginliğine götürür. İdil bir hayvanat bahçesini ziyaret ettikten sonra Elbe kıyısındaki geniş şehir parkında gezinin. Tur, Elbe köprüsünden etkileyici manzarayla sona erer ve gün eski kentte tamamlanır."
       },
       "gastro_picks": {
         "de": [
@@ -265,6 +278,10 @@
         "en": [
           "The city center is flat and very easy to walk around.",
           "Combine the city park stroll with an ice cream by the Elbe."
+        ],
+        "tr": [
+          "Şehir merkezi düz ve yürümek için çok kolay.",
+          "Şehir parkı gezisini Elbe kenarında bir dondurma ile birleştirin."
         ]
       }
     },
@@ -281,7 +298,8 @@
             "de": "Rathaus Riesa",
             "hu": "Városháza",
             "ro": "Primăria Riesa",
-            "en": "Riesa Town Hall"
+            "en": "Riesa Town Hall",
+            "tr": "Riesa Belediye Binası"
           },
           "coords": [
             51.3055,
@@ -297,7 +315,8 @@
             "de": "Guter Startpunkt für Radtouren.",
             "hu": "Jó kiindulópont kerékpártúrákhoz.",
             "ro": "Punct de plecare excelent pentru tururi cu bicicleta.",
-            "en": "Good starting point for bike tours."
+            "en": "Good starting point for bike tours.",
+            "tr": "Bisiklet turları için iyi bir başlangıç noktası."
           }
         },
         {
@@ -305,7 +324,8 @@
             "de": "Nudelcenter Riesa",
             "hu": "Riesai Tésztaközpont",
             "ro": "Centrul Pastelor Riesa",
-            "en": "Riesa Noodle Center"
+            "en": "Riesa Noodle Center",
+            "tr": "Riesa Erişte Merkezi"
           },
           "coords": [
             51.308,
@@ -321,7 +341,8 @@
             "de": "Museum, Gläserne Produktion und Restaurant.",
             "hu": "Múzeum, látványkonyha és étterem.",
             "ro": "Muzeu, producție vizibilă și restaurant.",
-            "en": "Museum, glass production, and restaurant."
+            "en": "Museum, glass production, and restaurant.",
+            "tr": "Müze, cam üretimi ve restoran."
           }
         },
         {
@@ -329,7 +350,8 @@
             "de": "SACHSENarena",
             "hu": "SACHSENarena",
             "ro": "SACHSENarena",
-            "en": "SACHSENarena"
+            "en": "SACHSENarena",
+            "tr": "SACHSENarena"
           },
           "coords": [
             51.298,
@@ -345,7 +367,8 @@
             "de": "Moderne Multifunktionsarena für Events.",
             "hu": "Modern többfunkciós aréna rendezvényekhez.",
             "ro": "Arenă multifuncțională modernă pentru evenimente.",
-            "en": "Modern multi-purpose arena for events."
+            "en": "Modern multi-purpose arena for events.",
+            "tr": "Etkinlikler için modern çok amaçlı arena."
           }
         },
         {
@@ -353,7 +376,8 @@
             "de": "Stadtpark Riesa",
             "hu": "Városi park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "tr": "Şehir Parkı"
           },
           "coords": [
             51.304,
@@ -369,7 +393,8 @@
             "de": "Ideal zum Radeln im Grünen.",
             "hu": "Ideális kerékpározáshoz a zöldben.",
             "ro": "Ideal pentru ciclism în natură.",
-            "en": "Ideal for cycling in the greenery."
+            "en": "Ideal for cycling in the greenery.",
+            "tr": "Yeşillikte bisiklet sürmek için ideal."
           }
         },
         {
@@ -377,7 +402,8 @@
             "de": "Tierpark Riesa",
             "hu": "Riesai Vadaspark",
             "ro": "Grădina Zoologică Riesa",
-            "en": "Riesa Zoo"
+            "en": "Riesa Zoo",
+            "tr": "Riesa Hayvanat Bahçesi"
           },
           "coords": [
             51.3065,
@@ -393,7 +419,8 @@
             "de": "Kleiner Stopp für Tierfreunde.",
             "hu": "Rövid megálló az állatbarátoknak.",
             "ro": "O mică oprire pentru iubitorii de animale.",
-            "en": "A short stop for animal lovers."
+            "en": "A short stop for animal lovers.",
+            "tr": "Hayvanseverler için kısa bir durak."
           }
         },
         {
@@ -401,7 +428,8 @@
             "de": "Elbbrücke Riesa",
             "hu": "Elba-híd",
             "ro": "Podul peste Elba",
-            "en": "Elbe Bridge"
+            "en": "Elbe Bridge",
+            "tr": "Elbe Köprüsü"
           },
           "coords": [
             51.309,
@@ -417,7 +445,8 @@
             "de": "Spektakulärer Blick vom Fahrradweg.",
             "hu": "Látványos kilátás a kerékpárútról.",
             "ro": "Vedere spectaculoasă de pe pista de biciclete.",
-            "en": "Spectacular view from the bike path."
+            "en": "Spectacular view from the bike path.",
+            "tr": "Bisiklet yolundan muhteşem manzara."
           }
         },
         {
@@ -425,7 +454,8 @@
             "de": "Riesaer Riese",
             "hu": "Riesai Óriás szobra",
             "ro": "Gigantul din Riesa",
-            "en": "Iron Giant Statue"
+            "en": "Iron Giant Statue",
+            "tr": "Demir Dev Heykeli"
           },
           "coords": [
             51.305,
@@ -441,7 +471,8 @@
             "de": "Letzter Fotostopp vor der Rückkehr.",
             "hu": "Utolsó fotómegálló visszatérés előtt.",
             "ro": "Ultima oprire foto înainte de întoarcere.",
-            "en": "Final photo stop before returning."
+            "en": "Final photo stop before returning.",
+            "tr": "Dönüş öncesi son fotoğraf molası."
           }
         }
       ],
@@ -449,7 +480,8 @@
         "de": "Erfahren Sie Riesa auf dem Rad und nutzen Sie die hervorragenden Radwege entlang der Elbe. Vom Rathaus geht es zum Nudelcenter, wo Sie die industrielle Tradition der Stadt erleben. Über die SACHSENarena führt der Weg zurück in den Stadtpark und zum Tierpark. Ein Highlight ist die Überquerung der Elbe, bevor Sie den Riesaer Riesen in der Innenstadt besuchen.",
         "hu": "Fedezze fel Riesát kerékpáron, kihasználva az Elba menti kiváló kerékpárutakat. A városházától a Tésztaközpontba megyünk, ahol megismerheti a város ipari hagyományait. A SACHSENarena érintésével az út visszavezet a városi parkba és a vadasparkba. Kiemelt pont az Elba-hídon való átkelés, mielőtt megtekintené a Riesai Óriást a belvárosban.",
         "ro": "Explorați Riesa pe bicicletă, profitând de pistele excelente de-a lungul Elbei. De la primărie mergem spre Centrul Pastelor, unde veți experimenta tradiția industrială a orașului. Traseul trece pe lângă SACHSENarena și revine în parcul orașului și la grădina zoologică. Un punct culminant este traversarea Elbei înainte de a vizita Gigantul din Riesa în centrul orașului.",
-        "en": "Experience Riesa by bike, using the excellent cycling paths along the Elbe. From the town hall, head to the Noodle Center, where you can experience the city's industrial tradition. The route leads past the SACHSENarena back to the city park and zoo. A highlight is crossing the Elbe before visiting the Iron Giant in the city center."
+        "en": "Experience Riesa by bike, using the excellent cycling paths along the Elbe. From the town hall, head to the Noodle Center, where you can experience the city's industrial tradition. The route leads past the SACHSENarena back to the city park and zoo. A highlight is crossing the Elbe before visiting the Iron Giant in the city center.",
+        "tr": "Riesa'yı Elbe boyunca uzanan mükemmel bisiklet yollarını kullanarak keşfedin. Belediye binasından başlayıp şehre endüstriyel geleneğini yaşatan Noodle Center'a gidin. Güzergâh SACHSENarena'dan geçerek şehir parkı ve hayvanat bahçesine geri döner. Bir vurgusu, şehir merkezindeki Demir Dev'i ziyaret etmeden önce Elbe'yi geçmektir."
       },
       "gastro_picks": {
         "de": [
@@ -549,6 +581,10 @@
         "en": [
           "Riesa is located directly on the famous Elbe Cycle Path.",
           "Bicycle stands are available at all sights."
+        ],
+        "tr": [
+          "Riesa, ünlü Elbe Bisiklet Yolu üzerinde yer alır.",
+          "Tüm gezilecek yerlerde bisiklet park yerleri mevcuttur."
         ]
       }
     },
@@ -565,7 +601,8 @@
             "de": "Rathaus Riesa (Cluster Center)",
             "hu": "Városháza (Központi klaszter)",
             "ro": "Primăria Riesa (Cluster Centru)",
-            "en": "Riesa Town Hall (Center Cluster)"
+            "en": "Riesa Town Hall (Center Cluster)",
+            "tr": "Riesa Belediye Binası (Merkez Küme)"
           },
           "coords": [
             51.3055,
@@ -581,7 +618,8 @@
             "de": "Parken Sie zentral am Rathausplatz.",
             "hu": "Parkoljon központilag a Városháza téren.",
             "ro": "Parcați central în piața primăriei.",
-            "en": "Park centrally at the town hall square."
+            "en": "Park centrally at the town hall square.",
+            "tr": "Belediye binası meydanında merkezi park yapın."
           }
         },
         {
@@ -589,7 +627,8 @@
             "de": "Riesaer Riese",
             "hu": "Riesai Óriás szobra",
             "ro": "Gigantul din Riesa",
-            "en": "Iron Giant Statue"
+            "en": "Iron Giant Statue",
+            "tr": "Demir Dev Heykeli"
           },
           "coords": [
             51.305,
@@ -605,7 +644,8 @@
             "de": "Kurzer Fußweg vom Parkplatz.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking lot."
+            "en": "Short walk from the parking lot.",
+            "tr": "Park yerinden kısa yürüme mesafesinde."
           }
         },
         {
@@ -613,7 +653,8 @@
             "de": "Klosterkirche St. Marien",
             "hu": "Szt. Mária kolostortemplom",
             "ro": "Biserica Mănăstirii Sf. Maria",
-            "en": "St. Mary's Monastery Church"
+            "en": "St. Mary's Monastery Church",
+            "tr": "Meryem Ana Manastır Kilisesi"
           },
           "coords": [
             51.306,
@@ -629,7 +670,8 @@
             "de": "Direkt neben dem Rathaus gelegen.",
             "hu": "Közvetlenül a városháza mellett található.",
             "ro": "Situată chiar lângă primărie.",
-            "en": "Located right next to the town hall."
+            "en": "Located right next to the town hall.",
+            "tr": "Belediye binasının hemen yanında yer alır."
           }
         },
         {
@@ -637,7 +679,8 @@
             "de": "Nudelcenter Riesa (Cluster Nord)",
             "hu": "Riesai Tésztaközpont (Északi klaszter)",
             "ro": "Centrul Pastelor Riesa (Cluster Nord)",
-            "en": "Riesa Noodle Center (North Cluster)"
+            "en": "Riesa Noodle Center (North Cluster)",
+            "tr": "Riesa Noodle Center (Kuzey Küme)"
           },
           "coords": [
             51.308,
@@ -653,7 +696,8 @@
             "de": "Großer Gästeparkplatz vorhanden.",
             "hu": "Nagy vendégparkoló áll rendelkezésre.",
             "ro": "Există o parcare mare pentru vizitatori.",
-            "en": "Large guest parking lot available."
+            "en": "Large guest parking lot available.",
+            "tr": "Geniş misafir otoparkı mevcut."
           }
         },
         {
@@ -661,7 +705,8 @@
             "de": "Stadtpark Riesa (Cluster Elbe)",
             "hu": "Városi park (Elba klaszter)",
             "ro": "Parcul Orașului (Cluster Elba)",
-            "en": "City Park (Elbe Cluster)"
+            "en": "City Park (Elbe Cluster)",
+            "tr": "Şehir Parkı (Elbe Kümesi)"
           },
           "coords": [
             51.304,
@@ -677,7 +722,8 @@
             "de": "Nutzen Sie den Parkplatz am Elbufer.",
             "hu": "Használja az Elba-parti parkolót.",
             "ro": "Folosiți parcarea de pe malul Elbei.",
-            "en": "Use the parking lot on the Elbe bank."
+            "en": "Use the parking lot on the Elbe bank.",
+            "tr": "Elbe kıyısındaki otoparkı kullanın."
           }
         },
         {
@@ -685,7 +731,8 @@
             "de": "Elbbrücke Riesa",
             "hu": "Elba-híd",
             "ro": "Podul peste Elba",
-            "en": "Elbe Bridge"
+            "en": "Elbe Bridge",
+            "tr": "Elbe Köprüsü"
           },
           "coords": [
             51.309,
@@ -701,7 +748,8 @@
             "de": "Zu Fuß vom Stadtpark aus erreichbar.",
             "hu": "Gyalogosan elérhető a városi parkból.",
             "ro": "Accesibil pe jos din parcul orașului.",
-            "en": "Accessible on foot from the city park."
+            "en": "Accessible on foot from the city park.",
+            "tr": "Şehir parkından yaya olarak ulaşılabilir."
           }
         },
         {
@@ -709,7 +757,8 @@
             "de": "SACHSENarena",
             "hu": "SACHSENarena",
             "ro": "SACHSENarena",
-            "en": "SACHSENarena"
+            "en": "SACHSENarena",
+            "tr": "SACHSENarena"
           },
           "coords": [
             51.298,
@@ -725,7 +774,8 @@
             "de": "Blick auf die moderne Arena-Architektur.",
             "hu": "Tekintse meg a modern aréna-építészetet.",
             "ro": "Vedeți arhitectura modernă a arenei.",
-            "en": "See the modern arena architecture."
+            "en": "See the modern arena architecture.",
+            "tr": "Modern arena mimarisini görün."
           }
         }
       ],
@@ -733,7 +783,8 @@
         "de": "Die Autotour durch Riesa kombiniert Stadtzentrum und industrielle Highlights. Wir parken zuerst im Zentrum für das Rathaus und die Klosterkirche. Ein kurzer Transfer bringt uns zum berühmten Nudelcenter. Nachmittags erkunden wir den Elbbereich mit Stadtpark und Brücke, bevor wir zum Abschluss die moderne SACHSENarena anfahren. Diese Route bietet maximalen Komfort bei minimalen Wegen.",
         "hu": "A riesai autós túra ötvözi a városközpontot és az ipari látnivalókat. Először a centrumban parkolunk a városháza és a kolostortemplom megtekintéséhez. Egy rövid autózás után elérjük a híres Tésztaközpontot. Délután az Elba-partot, a városi parkot és a hidat fedezzük fel, végül a modern SACHSENarena felé vesszük az irányt. Ez az útvonal maximális kényelmet nyújt.",
         "ro": "Turul cu mașina prin Riesa combină centrul orașului cu punctele de atracție industriale. Parcați mai întâi în centru pentru primărie și biserica mănăstirii. Un scurt transfer ne duce la faimosul Centru al Pastelor. După-amiaza explorăm zona Elbei cu parcul orașului și podul, înainte de a merge la moderna SACHSENarena. Acest traseu oferă confort maxim.",
-        "en": "The car tour through Riesa combines the city center with industrial highlights. First, we park in the center for the town hall and monastery church. A short drive brings us to the famous Noodle Center. In the afternoon, we explore the Elbe area with the city park and bridge, before finishing at the modern SACHSENarena. This route offers maximum comfort with minimal walking."
+        "en": "The car tour through Riesa combines the city center with industrial highlights. First, we park in the center for the town hall and monastery church. A short drive brings us to the famous Noodle Center. In the afternoon, we explore the Elbe area with the city park and bridge, before finishing at the modern SACHSENarena. This route offers maximum comfort with minimal walking.",
+        "tr": "Riesa'daki araba turu, şehir merkezini endüstriyel noktalarla birleştirir. Önce belediye binası ve manastır kilisesi için merkezde park ediyoruz. Kısa bir sürüş bizi ünlü Noodle Center'a getirir. Öğleden sonra şehir parkı ve köprü ile Elbe bölgesini keşfedip modern SACHSENarena'da sona eriyoruz. Bu rota minimum yürüyüşle maksimum konfor sunar."
       },
       "gastro_picks": {
         "de": [
@@ -833,6 +884,10 @@
         "en": [
           "The parking situation in Riesa is relaxed.",
           "Use the Noodle Center for a longer lunch stop."
+        ],
+        "tr": [
+          "Riesa'da park durumu rahat.",
+          "Daha uzun öğle molası için Noodle Center'ı kullanın."
         ]
       }
     },
@@ -849,7 +904,8 @@
             "de": "Riesa Bahnhof / Rathaus",
             "hu": "Riesa vasútállomás / Városháza",
             "ro": "Gara Riesa / Primăria",
-            "en": "Riesa Station / Town Hall"
+            "en": "Riesa Station / Town Hall",
+            "tr": "Riesa İstasyonu / Belediye Binası"
           },
           "coords": [
             51.3055,
@@ -865,7 +921,8 @@
             "de": "Zentraler Knotenpunkt für alle Stadtbusse.",
             "hu": "Központi csomópont minden városi buszhoz.",
             "ro": "Nod central pentru toate autobuzele urbane.",
-            "en": "Central hub for all city buses."
+            "en": "Central hub for all city buses.",
+            "tr": "Tüm şehir otobüslerinin merkezi aktarma noktası."
           }
         },
         {
@@ -873,7 +930,8 @@
             "de": "Klosterkirche St. Marien",
             "hu": "Szt. Mária kolostortemplom",
             "ro": "Biserica Mănăstirii Sf. Maria",
-            "en": "St. Mary's Monastery Church"
+            "en": "St. Mary's Monastery Church",
+            "tr": "Meryem Ana Manastır Kilisesi"
           },
           "coords": [
             51.306,
@@ -889,7 +947,8 @@
             "de": "Fußläufig vom Rathausplatz erreichbar.",
             "hu": "Gyalogosan elérhető a Városháza térről.",
             "ro": "Accesibil pe jos din piața primăriei.",
-            "en": "Accessible on foot from the town hall square."
+            "en": "Accessible on foot from the town hall square.",
+            "tr": "Belediye binası meydanından yaya olarak ulaşılabilir."
           }
         },
         {
@@ -897,7 +956,8 @@
             "de": "Nudelcenter Riesa",
             "hu": "Riesai Tésztaközpont",
             "ro": "Centrul Pastelor Riesa",
-            "en": "Riesa Noodle Center"
+            "en": "Riesa Noodle Center",
+            "tr": "Riesa Noodle Center"
           },
           "coords": [
             51.308,
@@ -913,7 +973,8 @@
             "de": "Buslinie 430 oder 431 nehmen.",
             "hu": "Használja a 430-as vagy 431-es buszvonalat.",
             "ro": "Luați linia de autobuz 430 sau 431.",
-            "en": "Take bus line 430 or 431."
+            "en": "Take bus line 430 or 431.",
+            "tr": "430 veya 431 nolu otobüse binin."
           }
         },
         {
@@ -921,7 +982,8 @@
             "de": "Stadtpark Riesa",
             "hu": "Városi park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "tr": "Şehir Parkı"
           },
           "coords": [
             51.304,
@@ -937,7 +999,8 @@
             "de": "Kurzer Spaziergang von der Bushaltestelle.",
             "hu": "Rövid séta a buszmegállótól.",
             "ro": "Scurtă plimbare de la stația de autobuz.",
-            "en": "Short walk from the bus stop."
+            "en": "Short walk from the bus stop.",
+            "tr": "Otobüs durağından kısa yürüyüş."
           }
         },
         {
@@ -945,7 +1008,8 @@
             "de": "Elbbrücke Riesa",
             "hu": "Elba-híd",
             "ro": "Podul peste Elba",
-            "en": "Elbe Bridge"
+            "en": "Elbe Bridge",
+            "tr": "Elbe Köprüsü"
           },
           "coords": [
             51.309,
@@ -961,7 +1025,8 @@
             "de": "Vom Park aus zu Fuß zur Brücke.",
             "hu": "A parktól gyalogosan a hídig.",
             "ro": "De la parc, pe jos până la pod.",
-            "en": "Walk from the park to the bridge."
+            "en": "Walk from the park to the bridge.",
+            "tr": "Parktan köprüye yürüyün."
           }
         },
         {
@@ -969,7 +1034,8 @@
             "de": "Riesaer Riese",
             "hu": "Riesai Óriás szobra",
             "ro": "Gigantul din Riesa",
-            "en": "Iron Giant Statue"
+            "en": "Iron Giant Statue",
+            "tr": "Demir Dev Heykeli"
           },
           "coords": [
             51.305,
@@ -985,7 +1051,8 @@
             "de": "Wahrzeichen im Stadtzentrum.",
             "hu": "Jelkép a városközpontban.",
             "ro": "Simbol în centrul orașului.",
-            "en": "Landmark in the city center."
+            "en": "Landmark in the city center.",
+            "tr": "Şehir merkezinde bir simge yapı."
           }
         }
       ],
@@ -993,7 +1060,8 @@
         "de": "Riesa lässt sich dank des kompakten Bussystems auch ohne Auto gut erkunden. Wir starten am Bahnhofsbereich und besuchen die Klosterkirche. Ein Bus bringt uns direkt zum industriellen Highlight, dem Nudelcenter. Nach einer ausgiebigen Pause fahren wir zurück Richtung Elbe, um im Stadtpark zu entspannen und den Ausblick von der Brücke zu genießen.",
         "hu": "Riesa a kompakt buszrendszernek köszönhetően autó nélkül is jól felfedezhető. A vasútállomás környékén kezdünk, és meglátogatjuk a kolostortemplomot. Busz visz minket közvetlenül az ipari fő látnivalóhoz, a Tésztaközponthoz. Egy kiadós pihenő után visszautazunk az Elba irányába, hogy a városi parkban lazítsunk és élvezzük a hídról nyíló kilátást.",
         "ro": "Riesa poate fi explorată bine și fără mașină, datorită sistemului compact de autobuze. Începem în zona gării și vizităm biserica mănăstirii. Un autobuz ne duce direct la punctul de atracție industrial, Centrul Pastelor. După o pauză lungă, revenim spre Elba pentru a ne relaxa în parcul orașului și a ne bucura de vederea de pe pod.",
-        "en": "Riesa can be explored easily even without a car, thanks to its compact bus system. We start near the station area and visit the monastery church. A bus takes us directly to the industrial highlight, the Noodle Center. After an extensive break, we travel back towards the Elbe to relax in the city park and enjoy the view from the bridge."
+        "en": "Riesa can be explored easily even without a car, thanks to its compact bus system. We start near the station area and visit the monastery church. A bus takes us directly to the industrial highlight, the Noodle Center. After an extensive break, we travel back towards the Elbe to relax in the city park and enjoy the view from the bridge.",
+        "tr": "Riesa, kompakt otobüs sistemi sayesinde araba olmadan da kolayca keşfedilebilir. İstasyon bölgesi yakınından başlıyor ve manastır kilisesini ziyaret ediyoruz. Bir otobüs bizi doğrudan endüstriyel vurgu olan Noodle Center'a götürüyor. Uzun bir mola sonrası Elbe'ye doğru geri dönüp şehir parkında dinleniyor ve köprüden manzaranın keyfini çıkarıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -1093,6 +1161,10 @@
         "en": [
           "Day tickets for city buses are inexpensive.",
           "Buses usually run every half hour."
+        ],
+        "tr": [
+          "Şehir otobüsleri için günlük biletler ucuz.",
+          "Otobüsler genellikle yarım saatte bir çalışır."
         ]
       }
     }

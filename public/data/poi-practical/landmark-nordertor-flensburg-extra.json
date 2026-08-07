@@ -3,55 +3,64 @@
     "de": "Norderstraße, 24939 Flensburg",
     "hu": "Norderstraße, 24939 Flensburg",
     "ro": "Norderstraße, 24939 Flensburg",
-    "en": "Norderstraße, 24939 Flensburg"
+    "en": "Norderstraße, 24939 Flensburg",
+    "tr": "Norderstraße, 24939 Flensburg"
   },
   "openingHours": {
     "de": "24/7 (nur Außenbesichtigung)",
     "hu": "0-24 órában (csak külső megtekintés)",
     "ro": "Non-stop (doar vizitare exterioară)",
-    "en": "24/7 (exterior viewing only)"
+    "en": "24/7 (exterior viewing only)",
+    "tr": "7/24 (sadece dışarıdan görüntüleme)"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.flensburger-foerde.de",
   "publicTransport": {
     "de": "Bus Linien 1, 7 bis Nordertor",
     "hu": "1, 7-es buszjárat a Nordertorig",
     "ro": "Autobuzele 1, 7 până la Nordertor",
-    "en": "Bus lines 1, 7 to Nordertor"
+    "en": "Bus lines 1, 7 to Nordertor",
+    "tr": "1, 7 numaralı otobüs hatları Nordertor durağına"
   },
   "parking": {
     "de": "Parkplatz Phänomenta in direkter Nähe",
     "hu": "Phänomenta parkoló a közvetlen közelben",
     "ro": "Parcarea Phänomenta în imediata apropiere",
-    "en": "Parking lot Phänomenta in the immediate vicinity"
+    "en": "Parking lot Phänomenta in the immediate vicinity",
+    "tr": "Phänomenta otoparkı hemen yakınında"
   },
   "accessibility": {
     "de": "Ebenerdig und barrierefrei zugänglich",
     "hu": "Szintben és akadálymentesen megközelíthető",
     "ro": "Accesibil la nivel și fără bariere",
-    "en": "Accessible at ground level and barrier-free"
+    "en": "Accessible at ground level and barrier-free",
+    "tr": "Zemin seviyesinden erişilebilir ve engelsiz"
   },
   "photoRules": {
     "de": "Jederzeit erlaubt, schönes Motiv am Ende der Fußgängerzone",
     "hu": "Bármikor megengedett, gyönyörű téma a sétálóutca végén",
     "ro": "Permis oricând, un subiect frumos la capătul zonei pietonale",
-    "en": "Allowed anytime, beautiful motif at the end of the pedestrian zone"
+    "en": "Allowed anytime, beautiful motif at the end of the pedestrian zone",
+    "tr": "Her zaman izinli, yaya bölgesinin sonundaki güzel fotoğraf motifi"
   },
   "bestTimeToVisit": {
     "de": "Vormittags, wenn die Sonne auf die Nordfassade fällt",
     "hu": "Délelőtt, amikor a nap az északi homlokzatra süt",
     "ro": "Dimineața, când soarele bate pe fațada de nord",
-    "en": "Mornings when the sun hits the north facade"
+    "en": "Mornings when the sun hits the north facade",
+    "tr": "Kuzey cephesi güneş aldığında sabahları"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

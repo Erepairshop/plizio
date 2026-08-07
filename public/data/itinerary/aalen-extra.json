@@ -21,7 +21,8 @@
             "de": "Marktplatz Aalen",
             "hu": "Aaleni piactér",
             "ro": "Piața de piață Aalen",
-            "en": "Aalen Market Square"
+            "en": "Aalen Market Square",
+            "tr": "Aalen Pazar Meydanı"
           },
           "coords": [
             10.095,
@@ -36,7 +37,8 @@
             "de": "Genießen Sie die Atmosphäre am historischen Brunnen.",
             "hu": "Élvezze a hangulatot a történelmi kútnál.",
             "ro": "Bucurați-vă de atmosferă la fântâna istorică.",
-            "en": "Enjoy the atmosphere at the historical fountain."
+            "en": "Enjoy the atmosphere at the historical fountain.",
+            "tr": "Tarihi çeşmenin atmosferinin tadını çıkarın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Rathaus mit dem Aalener Spion",
             "hu": "Városháza az Aaleni Kémmel",
             "ro": "Primăria cu Spionul din Aalen",
-            "en": "Town Hall with the Aalen Spy"
+            "en": "Town Hall with the Aalen Spy",
+            "tr": "Belediye Binası ve Aalen Casusu"
           },
           "coords": [
             10.094,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die Figur am Turm, die die Stadt bewacht.",
             "hu": "Figyelje a toronyban lévő figurát, aki a várost vigyázza.",
             "ro": "Căutați figura de pe turn care păzește orașul.",
-            "en": "Watch for the figure on the tower guarding the city."
+            "en": "Watch for the figure on the tower guarding the city.",
+            "tr": "Şehri koruyan kuledeki figürü izleyin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Evangelische Stadtkirche",
             "hu": "Evangélikus Városi Templom",
             "ro": "Biserica Evanghelică",
-            "en": "Evangelical City Church"
+            "en": "Evangelical City Church",
+            "tr": "Protestan Şehir Kilisesi"
           },
           "coords": [
             10.096,
@@ -82,7 +87,8 @@
             "de": "Ein bedeutendes barockes Bauwerk im Zentrum.",
             "hu": "Egy jelentős barokk épület a központban.",
             "ro": "O clădire barocă importantă în centru.",
-            "en": "A significant baroque building in the center."
+            "en": "A significant baroque building in the center.",
+            "tr": "Merkezde önemli bir barok yapı."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Schillerhöhe",
             "hu": "Schiller-magaslat",
             "ro": "Schillerhöhe",
-            "en": "Schillerhöhe Viewpoint"
+            "en": "Schillerhöhe Viewpoint",
+            "tr": "Schillerhöhe Seyir Terası"
           },
           "coords": [
             10.105,
@@ -105,7 +112,8 @@
             "de": "Bester Panoramablick über die Dächer der Stadt.",
             "hu": "A legjobb panoráma a város háztetőire.",
             "ro": "Cea mai bună vedere panoramică peste acoperișurile orașului.",
-            "en": "Best panoramic view over the city roofs."
+            "en": "Best panoramic view over the city roofs.",
+            "tr": "Şehir çatıları üzerinde en iyi panoramik manzara."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Limesmuseum Aalen",
             "hu": "Limes Múzeum",
             "ro": "Muzeul Limes",
-            "en": "Limes Museum Aalen"
+            "en": "Limes Museum Aalen",
+            "tr": "Limes Müzesi Aalen"
           },
           "coords": [
             10.084,
@@ -128,7 +137,8 @@
             "de": "UNESCO-Welterbe: Erfahren Sie alles über die Römerzeit.",
             "hu": "UNESCO Világörökség: tudjon meg mindent a római korról.",
             "ro": "Patrimoniu UNESCO: aflați totul despre epoca romană.",
-            "en": "UNESCO World Heritage: learn all about the Roman era."
+            "en": "UNESCO World Heritage: learn all about the Roman era.",
+            "tr": "UNESCO Dünya Mirası: Roma dönemini her yönüyle öğrenin."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Limes-Thermen",
             "hu": "Limes Termálfürdő",
             "ro": "Termele Limes",
-            "en": "Limes Thermal Baths"
+            "en": "Limes Thermal Baths",
+            "tr": "Limes Termal Hamamları"
           },
           "coords": [
             10.076,
@@ -151,7 +162,8 @@
             "de": "Entspannen Sie im mineralreichen Heilwasser.",
             "hu": "Lazítson az ásványi anyagokban gazdag gyógyvízben.",
             "ro": "Relaxați-vă în apa termală bogată în minerale.",
-            "en": "Relax in the mineral-rich healing water."
+            "en": "Relax in the mineral-rich healing water.",
+            "tr": "Mineral bakımından zengin şifalı suda dinlenin."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag beginnt im historischen Herzen von Aalen auf dem Marktplatz, wo der berühmte Aalener Spion am Rathausturm über die Gassen wacht. Nach einem Besuch der barocken Stadtkirche führt ein kurzer Spaziergang hinauf zur Schillerhöhe für einen weiten Rundblick. Der Nachmittag widmet sich dem römischen Erbe im Limesmuseum, bevor Sie den Tag entspannt in den warmen Quellen der Limes-Thermen ausklingen lassen.",
         "hu": "Napja Aalen történelmi szívében kezdődik a piactéren, ahol a híres Aaleni Kém őrzi az utcákat a városháza tornyából. A barokk városi templom megtekintése után rövid séta vezet fel a Schillerhöhe-re a tágas panorámáért. A délután a római örökségé a Limes Múzeumban, mielőtt a napot a Limes Termálfürdő meleg forrásaiban pihenné ki.",
         "ro": "Ziua începe în inima istorică a orașului Aalen, în Piața de piață, unde faimosul Spion din Aalen veghează străzile de pe turnul primăriei. După o vizită la biserica barocă, o scurtă plimbare vă duce la Schillerhöhe pentru o vedere panoramică. După-amiaza este dedicată moștenirii romane la Muzeul Limes, înainte de a încheia ziua relaxându-vă în apele termale ale Termelor Limes.",
-        "en": "Your day starts in the historical heart of Aalen at the Market Square, where the famous Aalen Spy watches over the streets from the town hall tower. After visiting the baroque city church, a short walk leads up to Schillerhöhe for a sweeping view. The afternoon is dedicated to Roman heritage at the Limes Museum, before ending the day relaxing in the warm springs of the Limes Thermal Baths."
+        "en": "Your day starts in the historical heart of Aalen at the Market Square, where the famous Aalen Spy watches over the streets from the town hall tower. After visiting the baroque city church, a short walk leads up to Schillerhöhe for a sweeping view. The afternoon is dedicated to Roman heritage at the Limes Museum, before ending the day relaxing in the warm springs of the Limes Thermal Baths.",
+        "tr": "Gününüz Aalen'in tarihi kalbi Pazar Meydanı'nda başlar; ünlü Aalen Casusu belediye kulesinden sokakları gözetler. Barok şehir kilisesini gezdikten sonra kısa bir yürüyüşle Schillerhöhe'ye çıkarak geniş bir manzara izleyin. Öğleden sonra Limes Müzesi'nde Roma mirasına ayrılır; gününüzü Limes Termal Hamamları'nda dinlenerek sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -263,6 +276,11 @@
           "Aalen is very hilly, wear comfortable shoes.",
           "The Limes Thermal Baths often offer special rates in the evening.",
           "The Aalen Spy appears in many places as a souvenir."
+        ],
+        "tr": [
+          "Aalen çok engebelidir, rahat ayakkabılar giyin.",
+          "Limes Termal Hamamları akşam saatlerinde sıkça özel tarifeler sunar.",
+          "Aalen Casusu birçok yerde hediyelik olarak bulunur."
         ]
       }
     },
@@ -279,7 +297,8 @@
             "de": "Marktplatz Aalen",
             "hu": "Aaleni piactér",
             "ro": "Piața de piață Aalen",
-            "en": "Aalen Market Square"
+            "en": "Aalen Market Square",
+            "tr": "Aalen Pazar Meydanı"
           },
           "coords": [
             10.095,
@@ -294,7 +313,8 @@
             "de": "Startpunkt im Herzen der Stadt.",
             "hu": "Kiindulópont a város szívében.",
             "ro": "Punct de plecare în inima orașului.",
-            "en": "Starting point in the heart of the city."
+            "en": "Starting point in the heart of the city.",
+            "tr": "Şehrin kalbinde başlangıç noktası."
           }
         },
         {
@@ -302,7 +322,8 @@
             "de": "Besucherbergwerk Tiefer Stollen",
             "hu": "Tiefer Stollen látogatóbánya",
             "ro": "Mina Tiefer Stollen",
-            "en": "Besucherbergwerk Tiefer Stollen"
+            "en": "Besucherbergwerk Tiefer Stollen",
+            "tr": "Ziyaretçi Madeni Tiefer Stollen"
           },
           "coords": [
             10.117,
@@ -317,7 +338,8 @@
             "de": "Fahren Sie mit der Grubenbahn tief in den Berg.",
             "hu": "Utazzon bányavasúttal mélyen a hegy gyomrába.",
             "ro": "Călătoriți cu trenul minier adânc în munte.",
-            "en": "Ride the mine train deep into the mountain."
+            "en": "Ride the mine train deep into the mountain.",
+            "tr": "Maden trenine binip dağın derinliklerine inin."
           }
         },
         {
@@ -325,7 +347,8 @@
             "de": "Schloss Fachsenfeld",
             "hu": "Fachsenfeld kastély",
             "ro": "Castelul Fachsenfeld",
-            "en": "Schloss Fachsenfeld"
+            "en": "Schloss Fachsenfeld",
+            "tr": "Fachsenfeld Şatosu"
           },
           "coords": [
             10.048,
@@ -340,7 +363,8 @@
             "de": "Wunderschöner Landschaftspark und historische Bibliothek.",
             "hu": "Gyönyörű tájképi park és történelmi könyvtár.",
             "ro": "Parc peisagistic frumos și bibliotecă istorică.",
-            "en": "Beautiful landscape park and historical library."
+            "en": "Beautiful landscape park and historical library.",
+            "tr": "Güzel peyzaj parkı ve tarihi kütüphane."
           }
         },
         {
@@ -348,7 +372,8 @@
             "de": "Limesmuseum Aalen",
             "hu": "Limes Múzeum",
             "ro": "Muzeul Limes",
-            "en": "Limes Museum Aalen"
+            "en": "Limes Museum Aalen",
+            "tr": "Limes Müzesi Aalen"
           },
           "coords": [
             10.084,
@@ -363,7 +388,8 @@
             "de": "Spannende Einblicke in das Leben am Limes.",
             "hu": "Izgalmas betekintés a limes menti életbe.",
             "ro": "Perspective fascinante asupra vieții pe Limes.",
-            "en": "Exciting insights into life on the Limes."
+            "en": "Exciting insights into life on the Limes.",
+            "tr": "Limes'teki yaşam hakkında heyecan verici bilgiler."
           }
         },
         {
@@ -371,7 +397,8 @@
             "de": "Limes-Thermen",
             "hu": "Limes Termálfürdő",
             "ro": "Termele Limes",
-            "en": "Limes Thermal Baths"
+            "en": "Limes Thermal Baths",
+            "tr": "Limes Termal Hamamları"
           },
           "coords": [
             10.076,
@@ -386,7 +413,8 @@
             "de": "Kurze Entspannung nach der Radtour.",
             "hu": "Rövid lazítás a biciklitúra után.",
             "ro": "Scurtă relaxare după turul cu bicicleta.",
-            "en": "Short relaxation after the bike tour."
+            "en": "Short relaxation after the bike tour.",
+            "tr": "Bisiklet turu sonrası kısa rahatlama."
           }
         }
       ],
@@ -394,7 +422,8 @@
         "de": "Die Radtour führt Sie zunächst aus der Stadt hinaus zum Besucherbergwerk Tiefer Stollen, wo Sie die Bergbaugeschichte unter Tage erleben. Über idyllische Wege radeln Sie weiter zum Schloss Fachsenfeld mit seinem beeindruckenden Park. Zurück in Aalen besuchen Sie das Limesmuseum und gönnen sich zum Abschluss ein Bad in den Thermalquellen.",
         "hu": "A biciklitúra először a városon kívülre, a Tiefer Stollen látogatóbányához vezet, ahol megismerheti a föld alatti bányászat történetét. Idilli utakon tekerhet tovább a Fachsenfeld kastélyhoz és annak lenyűgöző parkjához. Visszatérve Aalenbe, látogasson el a Limes Múzeumba, majd fejezze be a napot egy fürdőzéssel a termálforrásokban.",
         "ro": "Turul cu bicicleta vă duce mai întâi în afara orașului la mina Tiefer Stollen, unde veți experimenta istoria mineritului în subteran. Pedalați pe drumuri idilice spre Castelul Fachsenfeld, cu parcul său impresionant. Reveniți în Aalen pentru a vizita Muzeul Limes și încheiați cu o baie în izvoarele termale.",
-        "en": "The bike tour first takes you out of the city to the Tiefer Stollen show mine, where you can experience mining history underground. Cycle on idyllic paths to Fachsenfeld Castle with its impressive park. Back in Aalen, visit the Limes Museum and finish the day with a soak in the thermal springs."
+        "en": "The bike tour first takes you out of the city to the Tiefer Stollen show mine, where you can experience mining history underground. Cycle on idyllic paths to Fachsenfeld Castle with its impressive park. Back in Aalen, visit the Limes Museum and finish the day with a soak in the thermal springs.",
+        "tr": "Bisiklet turu önce sizi Tiefer Stollen gösteri madenine, yeraltında madencilik tarihini deneyimlemeye götürür. Ardından sakin yollar üzerinden etkileyici parka sahip Fachsenfeld Şatosu'na pedal çevirin. Aalen'e döndüğünüzde Limes Müzesi'ni ziyaret edip günü termal sularda dinlenerek bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -494,6 +523,10 @@
         "en": [
           "The route to Fachsenfeld has some inclines.",
           "An e-bike is recommended for the Ostalb region."
+        ],
+        "tr": [
+          "Fachsenfeld'e giden rota bazı eğimlere sahiptir.",
+          "Ostalb bölgesi için e-bisiklet önerilir."
         ]
       }
     },
@@ -510,7 +543,8 @@
             "de": "Marktplatz Aalen",
             "hu": "Aaleni piactér",
             "ro": "Piața de piață Aalen",
-            "en": "Aalen Market Square"
+            "en": "Aalen Market Square",
+            "tr": "Aalen Pazar Meydanı"
           },
           "coords": [
             10.095,
@@ -525,7 +559,8 @@
             "de": "Parken Sie im Parkhaus Mercatura.",
             "hu": "Parkoljon a Mercatura parkolóházban.",
             "ro": "Parcați în parcarea Mercatura.",
-            "en": "Park in the Mercatura car park."
+            "en": "Park in the Mercatura car park.",
+            "tr": "Mercatura otoparkında park edin."
           }
         },
         {
@@ -533,7 +568,8 @@
             "de": "Rathaus & Spion",
             "hu": "Városháza és a Kém",
             "ro": "Primăria și Spionul",
-            "en": "Town Hall & Spy"
+            "en": "Town Hall & Spy",
+            "tr": "Belediye Binası ve Casus"
           },
           "coords": [
             10.094,
@@ -549,7 +585,8 @@
             "de": "Kurzer Fußweg vom Marktplatz.",
             "hu": "Rövid séta a piactértől.",
             "ro": "Scurtă plimbare de la piață.",
-            "en": "Short walk from the market square."
+            "en": "Short walk from the market square.",
+            "tr": "Pazar meydanından kısa bir yürüyüş."
           }
         },
         {
@@ -557,7 +594,8 @@
             "de": "Limesmuseum Aalen",
             "hu": "Limes Múzeum",
             "ro": "Muzeul Limes",
-            "en": "Limes Museum Aalen"
+            "en": "Limes Museum Aalen",
+            "tr": "Limes Müzesi Aalen"
           },
           "coords": [
             10.084,
@@ -573,7 +611,8 @@
             "de": "Großer Parkplatz direkt am Museum vorhanden.",
             "hu": "Nagy parkoló közvetlenül a múzeumnál.",
             "ro": "Parcare mare disponibilă direct la muzeu.",
-            "en": "Large parking lot available directly at the museum."
+            "en": "Large parking lot available directly at the museum.",
+            "tr": "Müzenin hemen önünde geniş otopark mevcut."
           }
         },
         {
@@ -581,7 +620,8 @@
             "de": "Besucherbergwerk Tiefer Stollen",
             "hu": "Tiefer Stollen látogatóbánya",
             "ro": "Mina Tiefer Stollen",
-            "en": "Besucherbergwerk Tiefer Stollen"
+            "en": "Besucherbergwerk Tiefer Stollen",
+            "tr": "Ziyaretçi Madeni Tiefer Stollen"
           },
           "coords": [
             10.117,
@@ -597,7 +637,8 @@
             "de": "Warme Kleidung für unter Tage nicht vergessen!",
             "hu": "Ne felejtsen el meleg ruhát vinni a föld alá!",
             "ro": "Nu uitați haine groase pentru subteran!",
-            "en": "Don't forget warm clothes for underground!"
+            "en": "Don't forget warm clothes for underground!",
+            "tr": "Yeraltı için sıcak giysileri unutmayın!"
           }
         },
         {
@@ -605,7 +646,8 @@
             "de": "Schloss Fachsenfeld",
             "hu": "Fachsenfeld kastély",
             "ro": "Castelul Fachsenfeld",
-            "en": "Schloss Fachsenfeld"
+            "en": "Schloss Fachsenfeld",
+            "tr": "Fachsenfeld Şatosu"
           },
           "coords": [
             10.048,
@@ -621,7 +663,8 @@
             "de": "Besuch der historischen Bibliothek lohnt sich.",
             "hu": "A történelmi könyvtár megtekintése megéri.",
             "ro": "Merită vizitată biblioteca istorică.",
-            "en": "The historical library is worth a visit."
+            "en": "The historical library is worth a visit.",
+            "tr": "Tarihi kütüphane ziyaret edilmeye değerdir."
           }
         },
         {
@@ -629,7 +672,8 @@
             "de": "Limes-Thermen",
             "hu": "Limes Termálfürdő",
             "ro": "Termele Limes",
-            "en": "Limes Thermal Baths"
+            "en": "Limes Thermal Baths",
+            "tr": "Limes Termal Hamamları"
           },
           "coords": [
             10.076,
@@ -645,7 +689,8 @@
             "de": "Baden wie die alten Römer.",
             "hu": "Fürödjön úgy, mint a régi rómaiak.",
             "ro": "Baie ca vechii romani.",
-            "en": "Bathe like the ancient Romans."
+            "en": "Bathe like the ancient Romans.",
+            "tr": "Antik Romalılar gibi banyo yapın."
           }
         }
       ],
@@ -653,7 +698,8 @@
         "de": "Mit dem Auto erschließen Sie bequem die Highlights von Aalen und Umgebung. Starten Sie in der Altstadt, erkunden Sie dann das faszinierende Limesmuseum und fahren Sie weiter zum Besucherbergwerk Tiefer Stollen für ein untertägiges Abenteuer. Ein Ausflug zum Schloss Fachsenfeld bietet Kultur und Natur, bevor Sie sich zum Abschluss in den Limes-Thermen regenerieren.",
         "hu": "Autóval kényelmesen elérheti Aalen és környéke fénypontjait. Kezdjen az óvárosban, fedezze fel a lenyűgöző Limes Múzeumot, majd menjen tovább a Tiefer Stollen látogatóbányába egy föld alatti kalandra. Egy kirándulás a Fachsenfeld kastélyhoz kultúrát és természetet kínál, mielőtt a nap végén a Limes Termálfürdőben regenerálódna.",
         "ro": "Cu mașina, puteți ajunge confortabil la cele mai importante atracții din Aalen și împrejurimi. Începeți în centrul vechi, explorați fascinantul Muzeu Limes și continuați spre mina Tiefer Stollen pentru o aventură subterană. O excursie la Castelul Fachsenfeld oferă cultură și natură, înainte de a vă regenera la final în Termele Limes.",
-        "en": "By car, you can comfortably reach the highlights of Aalen and its surroundings. Start in the old town, explore the fascinating Limes Museum, and drive to the Tiefer Stollen show mine for an underground adventure. A trip to Fachsenfeld Castle offers culture and nature, before regenerating at the Limes Thermal Baths at the end."
+        "en": "By car, you can comfortably reach the highlights of Aalen and its surroundings. Start in the old town, explore the fascinating Limes Museum, and drive to the Tiefer Stollen show mine for an underground adventure. A trip to Fachsenfeld Castle offers culture and nature, before regenerating at the Limes Thermal Baths at the end.",
+        "tr": "Arabayla Aalen ve çevresindeki önemli noktalar rahatça ulaşılabilir. Eski kente başlayın, etkileyici Limes Müzesi'ni keşfedin ve yeraltı macerası için Tiefer Stollen gösteri madenine gidin. Fachsenfeld Şatosu'na yapılan gezi doğa ve kültür sunar; günü Limes Termal Hamamları'nda yenilenerek bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -753,6 +799,10 @@
         "en": [
           "Parking in the old town can be difficult, use multi-story car parks.",
           "Book tickets for the show mine in advance."
+        ],
+        "tr": [
+          "Eski kentte park etmek zor olabilir, katlı otoparkları kullanın.",
+          "Gösteri madeni için biletleri önceden ayırtın."
         ]
       }
     },
@@ -769,7 +819,8 @@
             "de": "Marktplatz Aalen",
             "hu": "Aaleni piactér",
             "ro": "Piața de piață Aalen",
-            "en": "Aalen Market Square"
+            "en": "Aalen Market Square",
+            "tr": "Aalen Pazar Meydanı"
           },
           "coords": [
             10.095,
@@ -784,7 +835,8 @@
             "de": "Nur 5 Min. Fußweg vom Hauptbahnhof.",
             "hu": "Csak 5 perc séta a főpályaudvartól.",
             "ro": "Doar 5 minute de mers pe jos de la gara centrală.",
-            "en": "Just 5 min walk from the main station."
+            "en": "Just 5 min walk from the main station.",
+            "tr": "Ana istasyondan sadece 5 dakikalık yürüme mesafesi."
           }
         },
         {
@@ -792,7 +844,8 @@
             "de": "Rathaus mit Spion",
             "hu": "Városháza a Kémmel",
             "ro": "Primăria cu Spionul",
-            "en": "Town Hall with Spy"
+            "en": "Town Hall with Spy",
+            "tr": "Belediye Binası ve Casus"
           },
           "coords": [
             10.094,
@@ -808,7 +861,8 @@
             "de": "Historisches Zentrum zu Fuß erkunden.",
             "hu": "Fedezze fel a történelmi központot gyalog.",
             "ro": "Explorați centrul istoric la pas.",
-            "en": "Explore the historical center on foot."
+            "en": "Explore the historical center on foot.",
+            "tr": "Tarihi merkezi yürüyerek keşfedin."
           }
         },
         {
@@ -816,7 +870,8 @@
             "de": "Limesmuseum Aalen",
             "hu": "Limes Múzeum",
             "ro": "Muzeul Limes",
-            "en": "Limes Museum Aalen"
+            "en": "Limes Museum Aalen",
+            "tr": "Limes Müzesi Aalen"
           },
           "coords": [
             10.084,
@@ -832,7 +887,8 @@
             "de": "Buslinie 42 Richtung Wasseralfingen.",
             "hu": "42-es busz Wasseralfingen felé.",
             "ro": "Linia de autobuz 42 spre Wasseralfingen.",
-            "en": "Bus line 42 towards Wasseralfingen."
+            "en": "Bus line 42 towards Wasseralfingen.",
+            "tr": "Wasseralfingen yönüne 42 numaralı otobüs hattı."
           }
         },
         {
@@ -840,7 +896,8 @@
             "de": "Besucherbergwerk Tiefer Stollen",
             "hu": "Tiefer Stollen látogatóbánya",
             "ro": "Mina Tiefer Stollen",
-            "en": "Besucherbergwerk Tiefer Stollen"
+            "en": "Besucherbergwerk Tiefer Stollen",
+            "tr": "Ziyaretçi Madeni Tiefer Stollen"
           },
           "coords": [
             10.117,
@@ -856,7 +913,8 @@
             "de": "Haltestelle Bergbau-Museum.",
             "hu": "Bányamúzeum megálló.",
             "ro": "Stația Muzeul Mineritului.",
-            "en": "Bergbau-Museum stop."
+            "en": "Bergbau-Museum stop.",
+            "tr": "Bergbau-Museum durağı."
           }
         },
         {
@@ -864,7 +922,8 @@
             "de": "Limes-Thermen",
             "hu": "Limes Termálfürdő",
             "ro": "Termele Limes",
-            "en": "Limes Thermal Baths"
+            "en": "Limes Thermal Baths",
+            "tr": "Limes Termal Hamamları"
           },
           "coords": [
             10.076,
@@ -880,7 +939,8 @@
             "de": "Direkter Bus vom ZOB Aalen.",
             "hu": "Közvetlen busz az aaleni ZOB-ról.",
             "ro": "Autobuz direct de la ZOB Aalen.",
-            "en": "Direct bus from Aalen ZOB."
+            "en": "Direct bus from Aalen ZOB.",
+            "tr": "Aalen ZOB'dan direkt otobüs."
           }
         }
       ],
@@ -888,7 +948,8 @@
         "de": "Aalen lässt sich hervorragend mit dem dichten Busnetz erkunden. Starten Sie zentral am Marktplatz und nutzen Sie die Stadtbusse, um zum Limesmuseum und zum Besucherbergwerk in Wasseralfingen zu gelangen. Den krönenden Abschluss bildet die Fahrt zu den Limes-Thermen, die perfekt an den Nahverkehr angebunden sind.",
         "hu": "Aalen kiválóan felfedezhető a sűrű buszhálózattal. Kezdjen központilag a piactéren, és használja a városi buszokat a Limes Múzeumhoz és a wasseralfingeni látogatóbányához. A napot a Limes Termálfürdőbe tett utazás koronázza meg, amely tökéletesen kapcsolódik a tömegközlekedéshez.",
         "ro": "Aalen poate fi explorat excelent cu rețeaua densă de autobuze. Începeți central în Piața de piață și folosiți autobuzele urbane pentru a ajunge la Muzeul Limes și la mina din Wasseralfingen. Punctul culminant este drumul spre Termele Limes, care sunt perfect conectate la transportul public.",
-        "en": "Aalen can be easily explored with the dense bus network. Start centrally at the Market Square and use the city buses to reach the Limes Museum and the show mine in Wasseralfingen. The highlight is the trip to the Limes Thermal Baths, which are perfectly connected to public transport."
+        "en": "Aalen can be easily explored with the dense bus network. Start centrally at the Market Square and use the city buses to reach the Limes Museum and the show mine in Wasseralfingen. The highlight is the trip to the Limes Thermal Baths, which are perfectly connected to public transport.",
+        "tr": "Aalen, yoğun otobüs ağıyla kolayca keşfedilebilir. Pazar Meydanı'nda merkezi olarak başlayın ve Limes Müzesi ile gösteri madenine ulaşmak için şehir otobüslerini kullanın. Günün en keyifli kısmı, toplu taşıma ile mükemmel bağlara sahip Limes Termal Hamamları'na yapılan gezidir."
       },
       "gastro_picks": {
         "de": [
@@ -988,6 +1049,10 @@
         "en": [
           "Buy a day ticket for Aalen city transport.",
           "The 'OstalbMobil' app helps with timetable information."
+        ],
+        "tr": [
+          "Aalen şehir ulaşımı için günlük bilet alın.",
+          "'OstalbMobil' uygulaması saat bilgisi konusunda yardımcı olur."
         ]
       }
     }

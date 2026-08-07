@@ -21,7 +21,8 @@
             "de": "Kurpark Bad Homburg",
             "hu": "Bad Homburg Kurpark",
             "ro": "Kurpark Bad Homburg",
-            "en": "Bad Homburg Spa Park"
+            "en": "Bad Homburg Spa Park",
+            "tr": "Bad Homburg Kaplıca Parkı"
           },
           "coords": [
             50.229,
@@ -36,7 +37,8 @@
             "de": "Trinken Sie ein Glas Heilwasser am Elisabethenbrunnen.",
             "hu": "Igyon egy pohár gyógyvizet az Erzsébet-forrásnál.",
             "ro": "Beți un pahar de apă curativă la fântâna Elisabethenbrunnen.",
-            "en": "Drink a glass of healing water at the Elisabeth Spring."
+            "en": "Drink a glass of healing water at the Elisabeth Spring.",
+            "tr": "Elisabeth Kaynağı’nda şifalı sudan bir bardak için."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kaiser-Wilhelms-Bad",
             "hu": "Kaiser-Wilhelms-Bad",
             "ro": "Kaiser-Wilhelms-Bad",
-            "en": "Kaiser-Wilhelms-Bad"
+            "en": "Kaiser-Wilhelms-Bad",
+            "tr": "Kaiser-Wilhelms-Bad"
           },
           "coords": [
             50.228,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die prachtvolle neoklassizistische Fliesenarchitektur.",
             "hu": "Csodálja meg a pompás neoklasszicista csempeburkolatokat.",
             "ro": "Admirați arhitectura neoclasică splendidă placată cu faianță.",
-            "en": "Admire the magnificent neoclassical tile architecture."
+            "en": "Admire the magnificent neoclassical tile architecture.",
+            "tr": "Muhteşem neoklasik karo mimarisine hayran kalın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Spielbank Bad Homburg",
             "hu": "Bad Homburg Kaszinó",
             "ro": "Cazinoul Bad Homburg",
-            "en": "Bad Homburg Casino"
+            "en": "Bad Homburg Casino",
+            "tr": "Bad Homburg Kumarhanesi"
           },
           "coords": [
             50.23,
@@ -82,7 +87,8 @@
             "de": "Die 'Mutter von Monte Carlo' – historisches Flair pur.",
             "hu": "A 'Monte Carlo anyja' – tiszta történelmi hangulat.",
             "ro": "'Mama lui Monte Carlo' – o atmosferă istorică pură.",
-            "en": "The 'Mother of Monte Carlo' – pure historical flair."
+            "en": "The 'Mother of Monte Carlo' – pure historical flair.",
+            "tr": "'Monte Carlo'nun Annesi' – saf tarihî atmosfer."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Schloss Bad Homburg",
             "hu": "Bad Homburg Kastély",
             "ro": "Castelul Bad Homburg",
-            "en": "Bad Homburg Palace"
+            "en": "Bad Homburg Palace",
+            "tr": "Bad Homburg Sarayı"
           },
           "coords": [
             50.228,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie die Königsappartements der Landgrafen.",
             "hu": "Látogassa meg a tartományi grófok királyi lakosztályait.",
             "ro": "Vizitați apartamentele regale ale landgrafilor.",
-            "en": "Visit the royal apartments of the Landgraves."
+            "en": "Visit the royal apartments of the Landgraves.",
+            "tr": "Toprakgrafın kraliyet apartmanlarını ziyaret edin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Weißer Turm",
             "hu": "Fehér Torony",
             "ro": "Turnul Alb",
-            "en": "White Tower"
+            "en": "White Tower",
+            "tr": "Beyaz Kule"
           },
           "coords": [
             50.228,
@@ -128,7 +137,8 @@
             "de": "44 Meter hoher Rundturm mit exzellenter Fernsicht.",
             "hu": "44 méter magas kerek torony kiváló kilátással.",
             "ro": "Turn rotund de 44 m înălțime cu o panoramă excelentă.",
-            "en": "44-meter high round tower with excellent distant views."
+            "en": "44-meter high round tower with excellent distant views.",
+            "tr": "44 metre yüksekliğinde, uzak görüş için mükemmel yuvarlak kule."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Erlöserkirche",
             "hu": "Erlöserkirche",
             "ro": "Biserica Mântuitorului",
-            "en": "Church of the Redeemer"
+            "en": "Church of the Redeemer",
+            "tr": "Kurtarıcı Kilisesi"
           },
           "coords": [
             50.227,
@@ -151,7 +162,8 @@
             "de": "Die goldenen Mosaike im Inneren sind weltberühmt.",
             "hu": "A belső arany mozaikok világhírűek.",
             "ro": "Mozaicurile aurii din interior sunt faimoase în întreaga lume.",
-            "en": "The golden mosaics inside are world-famous."
+            "en": "The golden mosaics inside are world-famous.",
+            "tr": "İçerideki altın mozaikler dünya çapında ünlüdür."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Sinclair-Haus",
             "hu": "Sinclair-ház",
             "ro": "Casa Sinclair",
-            "en": "Sinclair House"
+            "en": "Sinclair House",
+            "tr": "Sinclair Evi"
           },
           "coords": [
             50.227,
@@ -174,7 +187,8 @@
             "de": "Wechselnde Ausstellungen moderner Kunst direkt am Schloss.",
             "hu": "Modern művészeti kiállítások közvetlenül a kastélynál.",
             "ro": "Expoziții temporare de artă modernă chiar lângă castel.",
-            "en": "Changing modern art exhibitions right by the palace."
+            "en": "Changing modern art exhibitions right by the palace.",
+            "tr": "Sarayın yanında değişen modern sanat sergileri."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Der Tag beginnt im weitläufigen Kurpark, wo Sie an den historischen Brunnen heilendes Wasser probieren können. Danach bewundern Sie das prunkvolle Kaiser-Wilhelms-Bad und das geschichtsträchtige Casino. Mittags erkunden Sie das Schlossareal mit dem markanten Weißen Turm. Ein kulturelles Highlight ist die Erlöserkirche mit ihren prachtvollen Mosaiken, gefolgt von zeitgenössischer Kunst im Sinclair-Haus.",
         "hu": "A nap a kiterjedt Kurparkban indul, ahol a történelmi forrásoknál megkóstolhatja a gyógyvizet. Ezután a pompás Kaiser-Wilhelms-Bad és a nagy múltú kaszinó épületét tekintheti meg. Délben a várkastély környékét fedezi fel a jellegzetes Fehér Toronnyal. A kulturális csúcspont az Erlöserkirche arany mozaikjaival, majd a kortárs művészet következik a Sinclair-házban.",
         "ro": "Ziua începe în vastul Kurpark, unde puteți gusta apă curativă la izvoarele istorice. Apoi, admirați somptuoasa Kaiser-Wilhelms-Bad și cazinoul plin de istorie. La prânz, explorați zona castelului cu distinctivul Turn Alb. Un punct culminant cultural este Biserica Mântuitorului, cu mozaicurile sale splendide, urmată de arta contemporană de la Casa Sinclair.",
-        "en": "The day starts in the extensive Spa Park, where you can taste healing water at the historic springs. Then, admire the magnificent Kaiser-Wilhelms-Bad and the historic casino. At noon, explore the palace grounds with the striking White Tower. A cultural highlight is the Church of the Redeemer with its magnificent mosaics, followed by contemporary art at Sinclair House."
+        "en": "The day starts in the extensive Spa Park, where you can taste healing water at the historic springs. Then, admire the magnificent Kaiser-Wilhelms-Bad and the historic casino. At noon, explore the palace grounds with the striking White Tower. A cultural highlight is the Church of the Redeemer with its magnificent mosaics, followed by contemporary art at Sinclair House.",
+        "tr": "Gün, geniş Kaplıca Parkı’nda başlar; burada tarihi kaynaklarda şifalı suyu tadabilirsiniz. Ardından muhteşem Kaiser-Wilhelms-Bad ve tarihi kumarhaneye hayran kalın. Öğle saatlerinde çarpıcı Beyaz Kule ile saray arazisini keşfedin. Kültürel bir zirve olarak Kurtarıcı Kilisesi’nin muhteşem mozaikleri ve ardından Sinclair Evi’nde çağdaş sanat sizi bekliyor."
       },
       "gastro_picks": {
         "de": [
@@ -326,6 +341,12 @@
           "Most sights are located close to each other.",
           "Wear comfortable shoes for the park and cobblestone streets.",
           "Book in advance for the palace tour."
+        ],
+        "tr": [
+          "Bad Homburg yürüyerek keşfetmek için mükemmeldir.",
+          "Çoğu görülecek yer birbirine yakındır.",
+          "Park ve taş döşeli sokaklar için rahat ayakkabılar giyin.",
+          "Saray turu için önceden rezervasyon yaptırın."
         ]
       }
     },
@@ -342,7 +363,8 @@
             "de": "Kurpark Bad Homburg",
             "hu": "Bad Homburg Kurpark",
             "ro": "Kurpark Bad Homburg",
-            "en": "Bad Homburg Spa Park"
+            "en": "Bad Homburg Spa Park",
+            "tr": "Bad Homburg Kaplıca Parkı"
           },
           "coords": [
             50.229,
@@ -357,7 +379,8 @@
             "de": "Große Wege ideal zum entspannten Radeln.",
             "hu": "Nagy utak, ideálisak a pihentető kerékpározáshoz.",
             "ro": "Alei largi, ideale pentru ciclism relaxat.",
-            "en": "Wide paths ideal for relaxed cycling."
+            "en": "Wide paths ideal for relaxed cycling.",
+            "tr": "Rahat bir gezinti için ideal geniş yollar."
           }
         },
         {
@@ -365,7 +388,8 @@
             "de": "Kaiser-Wilhelms-Bad",
             "hu": "Kaiser-Wilhelms-Bad",
             "ro": "Kaiser-Wilhelms-Bad",
-            "en": "Kaiser-Wilhelms-Bad"
+            "en": "Kaiser-Wilhelms-Bad",
+            "tr": "Kaiser-Wilhelms-Bad"
           },
           "coords": [
             50.228,
@@ -380,7 +404,8 @@
             "de": "Kurzer Fotostopp an der prachtvollen Fassade.",
             "hu": "Rövid fotómegálló a pompás homlokzatnál.",
             "ro": "Scurt popas pentru fotografii la fațada splendidă.",
-            "en": "Short photo stop at the magnificent facade."
+            "en": "Short photo stop at the magnificent facade.",
+            "tr": "Muhteşem cephede kısa fotoğraf molası."
           }
         },
         {
@@ -388,7 +413,8 @@
             "de": "Saalburg",
             "hu": "Saalburg",
             "ro": "Saalburg",
-            "en": "Saalburg"
+            "en": "Saalburg",
+            "tr": "Saalburg"
           },
           "coords": [
             50.271,
@@ -403,7 +429,8 @@
             "de": "Wiederaufgebautes Römerkastell am Limes.",
             "hu": "Újjáépített római erőd a limes mentén.",
             "ro": "Castru roman reconstruit pe Limes.",
-            "en": "Reconstructed Roman fort on the Limes."
+            "en": "Reconstructed Roman fort on the Limes.",
+            "tr": "Limes üzerindeki yeniden inşa edilmiş Roma kalesi."
           }
         },
         {
@@ -411,7 +438,8 @@
             "de": "Schloss Bad Homburg",
             "hu": "Bad Homburg Kastély",
             "ro": "Castelul Bad Homburg",
-            "en": "Bad Homburg Palace"
+            "en": "Bad Homburg Palace",
+            "tr": "Bad Homburg Sarayı"
           },
           "coords": [
             50.228,
@@ -426,7 +454,8 @@
             "de": "Stellen Sie das Rad am Schlosshof ab.",
             "hu": "Hagyja a kerékpárt a kastélyudvaron.",
             "ro": "Lăsați bicicleta în curtea castelului.",
-            "en": "Park your bike at the palace courtyard."
+            "en": "Park your bike at the palace courtyard.",
+            "tr": "Bisikletinizi saray avlusuna park edin."
           }
         },
         {
@@ -434,7 +463,8 @@
             "de": "Erlöserkirche",
             "hu": "Erlöserkirche",
             "ro": "Biserica Mântuitorului",
-            "en": "Church of the Redeemer"
+            "en": "Church of the Redeemer",
+            "tr": "Kurtarıcı Kilisesi"
           },
           "coords": [
             50.227,
@@ -449,7 +479,8 @@
             "de": "Ein Muss für Fans sakraler Architektur.",
             "hu": "A szakrális építészet kedvelőinek kötelező.",
             "ro": "O necesitate pentru fanii arhitecturii sacre.",
-            "en": "A must for fans of sacred architecture."
+            "en": "A must for fans of sacred architecture.",
+            "tr": "Kutsal mimari meraklıları için mutlaka görülmeli."
           }
         },
         {
@@ -457,7 +488,8 @@
             "de": "Sinclair-Haus",
             "hu": "Sinclair-ház",
             "ro": "Casa Sinclair",
-            "en": "Sinclair House"
+            "en": "Sinclair House",
+            "tr": "Sinclair Evi"
           },
           "coords": [
             50.227,
@@ -472,7 +504,8 @@
             "de": "Perfekter Abschluss mit moderner Kunst.",
             "hu": "Tökéletes befejezés modern művészettel.",
             "ro": "Încheiere perfectă cu artă modernă.",
-            "en": "Perfect finish with modern art."
+            "en": "Perfect finish with modern art.",
+            "tr": "Çağdaş sanatla mükemmel bir kapanış."
           }
         }
       ],
@@ -480,7 +513,8 @@
         "de": "Diese Radtour verbindet die Eleganz der Kurstadt mit der rauen Geschichte des Taunus. Nach dem Kurpark radeln Sie stetig bergauf zum UNESCO-Welterbe Saalburg, einem römischen Kastell. Zurück in der Stadt genießen Sie die barocke Pracht des Schlosses und die beeindruckenden Mosaike der Erlöserkirche, bevor Sie den Tag entspannt ausklingen lassen.",
         "hu": "Ez a kerékpártúra ötvözi a fürdőváros eleganciáját a Taunus vad történelmével. A Kurpark után folyamatosan felfelé tekerve éri el az UNESCO Világörökség Saalburg római erődöt. Visszatérve a városba, a kastély barokk pompáját és az Erlöserkirche lenyűgöző mozaikjait élvezheti, mielőtt nyugodtan befejezné a napot.",
         "ro": "Acest tur cu bicicleta combină eleganța orașului balnear cu istoria aspră a munților Taunus. După Kurpark, pedalați constant la deal până la castrul roman Saalburg, aflat în patrimoniul UNESCO. Revenind în oraș, vă bucurați de splendoarea barocă a castelului și de mozaicurile impresionante ale Bisericii Mântuitorului, înainte de a încheia ziua relaxat.",
-        "en": "This bike tour combines the elegance of the spa town with the rugged history of the Taunus. After the Spa Park, you cycle steadily uphill to the UNESCO World Heritage Saalburg, a Roman fort. Back in town, enjoy the baroque splendor of the palace and the impressive mosaics of the Church of the Redeemer before ending the day in relaxation."
+        "en": "This bike tour combines the elegance of the spa town with the rugged history of the Taunus. After the Spa Park, you cycle steadily uphill to the UNESCO World Heritage Saalburg, a Roman fort. Back in town, enjoy the baroque splendor of the palace and the impressive mosaics of the Church of the Redeemer before ending the day in relaxation.",
+        "tr": "Bu bisiklet turu, kaplıca kasabasının zarafetini Taunus’un sert tarihiyle birleştiriyor. Kaplıca Parkı’ndan sonra, UNESCO Dünya Mirası Saalburg’a, bir Roma kalesine doğru düzenli bir tırmanış yapıyorsunuz. Şehre döndüğünüzde sarayın barok görkemi ve Kurtarıcı Kilisesi’nin etkileyici mozaiklerinin tadını çıkarıp günü dinlenerek bitirebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -588,6 +622,12 @@
           "Use well-developed cycle paths like the Limes Cycle Path.",
           "An e-bike is highly recommended for the trip into the Taunus.",
           "Watch out for pedestrians in the Spa Park."
+        ],
+        "tr": [
+          "Saalburg yolunda kondisyon gereklidir (tırmanış).",
+          "Limes Bisiklet Yolu gibi iyi geliştirilmiş bisiklet yollarını kullanın.",
+          "Taunus’a yapılan yol için e-bisiklet şiddetle tavsiye edilir.",
+          "Kaplıca Parkı’nda yayalara dikkat edin."
         ]
       }
     },
@@ -604,7 +644,8 @@
             "de": "Saalburg (Cluster A)",
             "hu": "Saalburg (A csoport)",
             "ro": "Saalburg (Cluster A)",
-            "en": "Saalburg (Cluster A)"
+            "en": "Saalburg (Cluster A)",
+            "tr": "Saalburg (Küme A)"
           },
           "coords": [
             50.271,
@@ -619,7 +660,8 @@
             "de": "Direkt am Kastell parken und die Römerzeit erleben.",
             "hu": "Parkoljon közvetlenül az erődnél, és élje át a római kort.",
             "ro": "Parcați chiar lângă castru și experimentați epoca romană.",
-            "en": "Park directly at the fort and experience the Roman era."
+            "en": "Park directly at the fort and experience the Roman era.",
+            "tr": "Kalenin hemen önünde park edin ve Roma dönemini yaşayın."
           }
         },
         {
@@ -627,7 +669,8 @@
             "de": "Kurpark (Cluster B)",
             "hu": "Kurpark (B csoport)",
             "ro": "Kurpark (Cluster B)",
-            "en": "Kurpark (Cluster B)"
+            "en": "Kurpark (Cluster B)",
+            "tr": "Kurpark (Küme B)"
           },
           "coords": [
             50.229,
@@ -642,7 +685,8 @@
             "de": "Parkhaus am Kurhaus nutzen für entspannten Zugang.",
             "hu": "Használja a Kurhaus melletti parkolóházat a könnyű bejutáshoz.",
             "ro": "Folosiți parcarea de la Kurhaus pentru un acces relaxat.",
-            "en": "Use the parking garage at the Kurhaus for easy access."
+            "en": "Use the parking garage at the Kurhaus for easy access.",
+            "tr": "Kolay erişim için Kurhaus’taki otoparkı kullanın."
           }
         },
         {
@@ -650,7 +694,8 @@
             "de": "Kaiser-Wilhelms-Bad (Cluster B)",
             "hu": "Kaiser-Wilhelms-Bad (B csoport)",
             "ro": "Kaiser-Wilhelms-Bad (Cluster B)",
-            "en": "Kaiser-Wilhelms-Bad (Cluster B)"
+            "en": "Kaiser-Wilhelms-Bad (Cluster B)",
+            "tr": "Kaiser-Wilhelms-Bad (Küme B)"
           },
           "coords": [
             50.228,
@@ -665,7 +710,8 @@
             "de": "Zu Fuß vom Parkplatz im Kurpark erreichbar.",
             "hu": "Gyalogosan elérhető a Kurpark parkolójától.",
             "ro": "Accesibil pe jos de la parcarea din Kurpark.",
-            "en": "Accessible on foot from the Kurpark parking."
+            "en": "Accessible on foot from the Kurpark parking.",
+            "tr": "Kurpark otoparkından yürüyüş mesafesinde."
           }
         },
         {
@@ -673,7 +719,8 @@
             "de": "Spielbank (Cluster B)",
             "hu": "Kaszinó (B csoport)",
             "ro": "Cazinoul (Cluster B)",
-            "en": "Casino (Cluster B)"
+            "en": "Casino (Cluster B)",
+            "tr": "Kumarhane (Küme B)"
           },
           "coords": [
             50.23,
@@ -688,7 +735,8 @@
             "de": "Elegantes Gebäude mitten im Grünen.",
             "hu": "Elegáns épület a zöld közepén.",
             "ro": "Clădire elegantă în mijlocul naturii.",
-            "en": "Elegant building in the middle of greenery."
+            "en": "Elegant building in the middle of greenery.",
+            "tr": "Yeşillikler arasındaki zarif yapı."
           }
         },
         {
@@ -696,7 +744,8 @@
             "de": "Schloss (Cluster C)",
             "hu": "Kastély (C csoport)",
             "ro": "Castelul (Cluster C)",
-            "en": "Palace (Cluster C)"
+            "en": "Palace (Cluster C)",
+            "tr": "Saray (Küme C)"
           },
           "coords": [
             50.228,
@@ -711,7 +760,8 @@
             "de": "Parkhaus Schlossgarage ist nur wenige Schritte entfernt.",
             "hu": "A kastélygarázs parkolóháza csak pár lépésre van.",
             "ro": "Parcarea Schlossgarage este la doar câțiva pași.",
-            "en": "The Palace Garage parking is just a few steps away."
+            "en": "The Palace Garage parking is just a few steps away.",
+            "tr": "Saray Garajı park yeri sadece birkaç adım uzaklıkta."
           }
         },
         {
@@ -719,7 +769,8 @@
             "de": "Weißer Turm (Cluster C)",
             "hu": "Fehér Torony (C csoport)",
             "ro": "Turnul Alb (Cluster C)",
-            "en": "White Tower (Cluster C)"
+            "en": "White Tower (Cluster C)",
+            "tr": "Beyaz Kule (Küme C)"
           },
           "coords": [
             50.228,
@@ -734,7 +785,8 @@
             "de": "Das Wahrzeichen der Stadt direkt am Schloss.",
             "hu": "A város jelképe közvetlenül a kastélynál.",
             "ro": "Simbolul orașului chiar lângă castel.",
-            "en": "The landmark of the city right by the palace."
+            "en": "The landmark of the city right by the palace.",
+            "tr": "Sarayın yanında şehrin simgesi."
           }
         },
         {
@@ -742,7 +794,8 @@
             "de": "Erlöserkirche (Cluster C)",
             "hu": "Erlöserkirche (C csoport)",
             "ro": "Biserica Mântuitorului (Cluster C)",
-            "en": "Redeemer Church (Cluster C)"
+            "en": "Redeemer Church (Cluster C)",
+            "tr": "Kurtarıcı Kilisesi (Küme C)"
           },
           "coords": [
             50.227,
@@ -757,7 +810,8 @@
             "de": "Prachtvoller Abschluss der Cluster-Tour.",
             "hu": "Pompás befejezése a klaszter-túrának.",
             "ro": "Încheiere splendidă a turului pe clustere.",
-            "en": "Magnificent conclusion to the cluster tour."
+            "en": "Magnificent conclusion to the cluster tour.",
+            "tr": "Küme turuna görkemli bir son."
           }
         }
       ],
@@ -765,7 +819,8 @@
         "de": "Mit dem Auto erschließen Sie mühelos die Highlights von Bad Homburg und Umgebung. Zuerst besuchen Sie das römische Kastell Saalburg im Taunus. Danach parken Sie zentrumsnah für zwei Fußgänger-Cluster: Zuerst der weitläufige Kurpark mit seinen Heilquellen und dem historischen Bad, dann der Bereich um das Landgrafenschloss mit der beeindruckenden Erlöserkirche.",
         "hu": "Autóval könnyedén elérheti Bad Homburg és környéke legfontosabb látnivalóit. Először a Taunus-hegységben található Saalburg római erődöt látogatja meg. Ezután a központ közelében parkol két gyalogos klaszterhez: először a hatalmas Kurpark gyógyforrásaival és történelmi fürdőjével, majd a kastély környéke a lenyűgöző Erlöserkirche templommal.",
         "ro": "Cu mașina puteți vizita fără efort punctele culminante din Bad Homburg și împrejurimi. Mai întâi vizitați castrul roman Saalburg din munții Taunus. Apoi parcați aproape de centru pentru două clustere pietonale: mai întâi vastul Kurpark cu izvoarele sale curative și baia istorică, apoi zona din jurul castelului cu impresionanta Biserică a Mântuitorului.",
-        "en": "By car, you can effortlessly access the highlights of Bad Homburg and the surrounding area. First, visit the Roman fort Saalburg in the Taunus hills. Then park near the center for two walking clusters: first the extensive Spa Park with its healing springs and historic bath, then the area around the Palace with the impressive Church of the Redeemer."
+        "en": "By car, you can effortlessly access the highlights of Bad Homburg and the surrounding area. First, visit the Roman fort Saalburg in the Taunus hills. Then park near the center for two walking clusters: first the extensive Spa Park with its healing springs and historic bath, then the area around the Palace with the impressive Church of the Redeemer.",
+        "tr": "Arabayla Bad Homburg ve çevresindeki önemli noktalara zahmetsizce ulaşabilirsiniz. Önce Taunus tepelerindeki Roma kalesi Saalburg’u ziyaret edin. Ardından merkez yakınlarında iki yürüme kümesine park edin: önce şifalı kaynaklar ve tarihi hamamıyla geniş Kaplıca Parkı, sonra etkileyici Kurtarıcı Kilisesi’nin olduğu Saray çevresi."
       },
       "gastro_picks": {
         "de": [
@@ -873,6 +928,12 @@
           "The drive to Saalburg only takes about 15 minutes from the center.",
           "Pay attention to one-way street regulations in the old town.",
           "Use Park-and-Ride options on Saturdays."
+        ],
+        "tr": [
+          "Şehir merkezinde birkaç iyi işaretlenmiş otopark garajı var.",
+          "Merkezden Saalburg’a sürüş yaklaşık 15 dakika sürer.",
+          "Eski kentte tek yönlü sokak düzenlemelerine dikkat edin.",
+          "Cumartesileri Park-et-devam (Park-and-Ride) seçeneklerini kullanın."
         ]
       }
     },
@@ -889,7 +950,8 @@
             "de": "Kurpark Bad Homburg",
             "hu": "Bad Homburg Kurpark",
             "ro": "Kurpark Bad Homburg",
-            "en": "Bad Homburg Spa Park"
+            "en": "Bad Homburg Spa Park",
+            "tr": "Bad Homburg Kaplıca Parkı"
           },
           "coords": [
             50.229,
@@ -904,7 +966,8 @@
             "de": "Bushaltestelle 'Kurhaus' direkt am Parkeingang.",
             "hu": "A 'Kurhaus' buszmegálló közvetlenül a park bejáratánál.",
             "ro": "Stația de autobuz 'Kurhaus' chiar la intrarea în parc.",
-            "en": "Bus stop 'Kurhaus' right at the park entrance."
+            "en": "Bus stop 'Kurhaus' right at the park entrance.",
+            "tr": "Park girişinde 'Kurhaus' otobüs durağı."
           }
         },
         {
@@ -912,7 +975,8 @@
             "de": "Kaiser-Wilhelms-Bad",
             "hu": "Kaiser-Wilhelms-Bad",
             "ro": "Kaiser-Wilhelms-Bad",
-            "en": "Kaiser-Wilhelms-Bad"
+            "en": "Kaiser-Wilhelms-Bad",
+            "tr": "Kaiser-Wilhelms-Bad"
           },
           "coords": [
             50.228,
@@ -927,7 +991,8 @@
             "de": "Ein historisches Juwel im Kurviertel.",
             "hu": "Történelmi ékszerdoboz a fürdőnegyedben.",
             "ro": "O bijuterie istorică în cartierul balnear.",
-            "en": "A historical gem in the spa district."
+            "en": "A historical gem in the spa district.",
+            "tr": "Kaplıca bölgesinde tarihi bir inci."
           }
         },
         {
@@ -935,7 +1000,8 @@
             "de": "Schloss Bad Homburg",
             "hu": "Bad Homburg Kastély",
             "ro": "Castelul Bad Homburg",
-            "en": "Bad Homburg Palace"
+            "en": "Bad Homburg Palace",
+            "tr": "Bad Homburg Sarayı"
           },
           "coords": [
             50.228,
@@ -950,7 +1016,8 @@
             "de": "Vom Park aus ein schöner Spaziergang durch die Stadt.",
             "hu": "Szép séta a városon át a parkból.",
             "ro": "O plimbare frumoasă prin oraș de la parc.",
-            "en": "A nice walk through the city from the park."
+            "en": "A nice walk through the city from the park.",
+            "tr": "Parktan şehre güzel bir yürüyüş mesafesi."
           }
         },
         {
@@ -958,7 +1025,8 @@
             "de": "Erlöserkirche",
             "hu": "Erlöserkirche",
             "ro": "Biserica Mântuitorului",
-            "en": "Church of the Redeemer"
+            "en": "Church of the Redeemer",
+            "tr": "Kurtarıcı Kilisesi"
           },
           "coords": [
             50.227,
@@ -973,7 +1041,8 @@
             "de": "Die Kaiser-Kirche liegt nah am Schloss.",
             "hu": "A Császár-templom közel fekszik a kastélyhoz.",
             "ro": "Biserica Împăratului este situată aproape de castel.",
-            "en": "The Kaiser Church is located near the palace."
+            "en": "The Kaiser Church is located near the palace.",
+            "tr": "Kaiser Kilisesi saray yakınında yer alır."
           }
         },
         {
@@ -981,7 +1050,8 @@
             "de": "Saalburg",
             "hu": "Saalburg",
             "ro": "Saalburg",
-            "en": "Saalburg"
+            "en": "Saalburg",
+            "tr": "Saalburg"
           },
           "coords": [
             50.271,
@@ -996,7 +1066,8 @@
             "de": "Buslinie 5 hält direkt vor dem Kastell.",
             "hu": "Az 5-ös buszjárat közvetlenül az erőd előtt áll meg.",
             "ro": "Linia de autobuz 5 oprește chiar în fața castrului.",
-            "en": "Bus line 5 stops directly in front of the fort."
+            "en": "Bus line 5 stops directly in front of the fort.",
+            "tr": "Otobüs hattı 5 doğrudan kalenin önünde durur."
           }
         },
         {
@@ -1004,7 +1075,8 @@
             "de": "Spielbank Bad Homburg",
             "hu": "Kaszinó",
             "ro": "Cazinoul",
-            "en": "Casino"
+            "en": "Casino",
+            "tr": "Kumarhane"
           },
           "coords": [
             50.23,
@@ -1019,7 +1091,8 @@
             "de": "Rückfahrt in die Stadt für einen eleganten Abend.",
             "hu": "Visszatérés a városba egy elegáns estéhez.",
             "ro": "Revenire în oraș pentru o seară elegantă.",
-            "en": "Return to the city for an elegant evening."
+            "en": "Return to the city for an elegant evening.",
+            "tr": "Geri dönüp şık bir akşam için şehre dönün."
           }
         }
       ],
@@ -1027,7 +1100,8 @@
         "de": "Mit dem exzellenten Stadtbussystem erkunden Sie Bad Homburg stressfrei. Sie beginnen im zentralen Kurpark und spazieren zum Kaiser-Wilhelms-Bad. Nach der Besichtigung des Schlosses und der Erlöserkirche bringt Sie der Bus bequem hinauf zur Saalburg im Taunus. Den Tag lassen Sie nach der Rückfahrt im mondänen Casino ausklingen.",
         "hu": "A kiváló városi buszhálózattal stresszmentesen fedezheti fel Bad Homburgot. A központi Kurparkban kezd, majd elsétál a Kaiser-Wilhelms-Badhoz. A kastély és az Erlöserkirche megtekintése után a busz kényelmesen felviszi a Taunus-hegységben található Saalburghoz. A napot a visszaút után a patinás kaszinóban zárhatja.",
         "ro": "Cu sistemul excelent de autobuze urbane, explorați Bad Homburg fără stres. Începeți în Kurpark-ul central și mergeți pe jos la Kaiser-Wilhelms-Bad. După vizitarea castelului și a Bisericii Mântuitorului, autobuzul vă duce confortabil sus la Saalburg în munții Taunus. Încheiați ziua după întoarcere la cazinoul monden.",
-        "en": "Explore Bad Homburg stress-free with the excellent city bus system. You start in the central Spa Park and walk to the Kaiser-Wilhelms-Bad. After visiting the palace and the Church of the Redeemer, the bus takes you comfortably up to the Saalburg in the Taunus hills. End the day at the glamorous casino after your return."
+        "en": "Explore Bad Homburg stress-free with the excellent city bus system. You start in the central Spa Park and walk to the Kaiser-Wilhelms-Bad. After visiting the palace and the Church of the Redeemer, the bus takes you comfortably up to the Saalburg in the Taunus hills. End the day at the glamorous casino after your return.",
+        "tr": "Mükemmel şehir otobüs sistemiyle Bad Homburg’u stressiz keşfedin. Merkezi Kaplıca Parkı’nda başlıyor ve Kaiser-Wilhelms-Bad’a yürüyor, saray ve Kurtarıcı Kilisesi’ni gezdikten sonra otobüsle konforlu bir şekilde Taunus’taki Saalburg’a çıkıyorsunuz. Dönüşte ihtişamlı kumarhanede günü sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -1135,6 +1209,12 @@
           "A day ticket for the city area is worthwhile.",
           "Schedules are clearly visible at all stops.",
           "From Bad Homburg station, you can reach Frankfurt in 20 minutes."
+        ],
+        "tr": [
+          "Otobüs hattı 5 Saalburg’a düzenli sefer yapar.",
+          "Şehir bölgesi için günlük bilet almaya değer.",
+          "Saatler tüm duraklarda açıkça görünüyor.",
+          "Bad Homburg istasyonundan Frankfurt’a 20 dakikada ulaşabilirsiniz."
         ]
       }
     }

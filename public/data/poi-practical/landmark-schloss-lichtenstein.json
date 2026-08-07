@@ -3,55 +3,64 @@
     "de": "Schloss Lichtenstein 1, 72805 Lichtenstein",
     "hu": "Schloss Lichtenstein 1, 72805 Lichtenstein",
     "ro": "Schloss Lichtenstein 1, 72805 Lichtenstein",
-    "en": "Schloss Lichtenstein 1, 72805 Lichtenstein"
+    "en": "Schloss Lichtenstein 1, 72805 Lichtenstein",
+    "tr": "Schloss Lichtenstein 1, 72805 Lichtenstein"
   },
   "openingHours": {
     "de": "Mo-Su 09:00-17:30 (Apr-Okt)",
     "hu": "H-V 09:00-17:30 (ápr-okt)",
     "ro": "L-D 09:00-17:30 (apr-oct)",
-    "en": "Mon-Sun 09:00-17:30 (Apr-Oct)"
+    "en": "Mon-Sun 09:00-17:30 (Apr-Oct)",
+    "tr": "Pzt-Paz 09:00-17:30 (Nis-Eki)"
   },
   "entranceFee": {
     "de": "€12.00 Führung Erwachsene",
     "hu": "12,00 € felnőtt vezetés",
     "ro": "12 € tur ghidat adulți",
-    "en": "€12.00 guided tour adults"
+    "en": "€12.00 guided tour adults",
+    "tr": "€12,00 rehberli tur yetişkinler"
   },
   "website": "https://www.schloss-lichtenstein.de",
   "publicTransport": {
     "de": "Bus ab Reutlingen Hbf",
     "hu": "Busz Reutlingen főpályaudvartól",
     "ro": "Autobuz din gara centrală Reutlingen",
-    "en": "Bus from Reutlingen central station"
+    "en": "Bus from Reutlingen central station",
+    "tr": "Reutlingen merkez garından otobüs"
   },
   "parking": {
     "de": "Parkplatz direkt vor dem Schloss",
     "hu": "Parkoló közvetlenül a kastély előtt",
     "ro": "Parcare direct în fața castelului",
-    "en": "Parking directly in front of the castle"
+    "en": "Parking directly in front of the castle",
+    "tr": "Kalelerin hemen önünde otopark"
   },
   "accessibility": {
     "de": "Aufgrund der historischen Bausubstanz nicht barrierefrei",
     "hu": "A történelmi épületszerkezet miatt nem akadálymentesített",
     "ro": "Nu este accesibil din cauza structurii istorice",
-    "en": "Not accessible due to historic architecture"
+    "en": "Not accessible due to historic architecture",
+    "tr": "Tarihi mimari nedeniyle erişilemez"
   },
   "photoRules": {
     "de": "Privat erlaubt, kein Blitz",
     "hu": "Magáncélra megengedett, vaku tilos",
     "ro": "Permis pentru uz privat, fără bliț",
-    "en": "Allowed for private use, no flash"
+    "en": "Allowed for private use, no flash",
+    "tr": "Özel kullanım için izinli, flaş yok"
   },
   "bestTimeToVisit": {
     "de": "Herbst",
     "hu": "Ősz",
     "ro": "Toamnă",
-    "en": "Autumn"
+    "en": "Autumn",
+    "tr": "Sonbahar"
   },
   "audioGuide": {
     "de": "Deutsch",
     "hu": "német",
     "ro": "germană",
-    "en": "German"
+    "en": "German",
+    "tr": "Almanca"
   }
 }

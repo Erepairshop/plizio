@@ -21,7 +21,8 @@
             "de": "Rathaus Wernigerode",
             "hu": "Wernigerodei Városháza",
             "ro": "Primăria Wernigerode",
-            "en": "Wernigerode Town Hall"
+            "en": "Wernigerode Town Hall",
+            "tr": "Wernigerode Town Hall"
           },
           "coords": [
             10.7851,
@@ -36,7 +37,8 @@
             "de": "Das berühmte Fachwerk-Rathaus am Marktplatz fotografieren.",
             "hu": "Fotózzuk le a híres favázas városházát a főtéren.",
             "ro": "Fotografiați faimoasa primărie cu bârne pe piața centrală.",
-            "en": "Photograph the famous timber-framed town hall on the market square."
+            "en": "Photograph the famous timber-framed town hall on the market square.",
+            "tr": "Pazar meydanındaki ünlü ahşap iskeletli belediye binasının fotoğrafını çekin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Wohltäterbrunnen",
             "hu": "Jótevők kútja",
             "ro": "Fântâna Binefăcătorilor",
-            "en": "Benefactors' Fountain"
+            "en": "Benefactors' Fountain",
+            "tr": "Benefactors' Fountain"
           },
           "coords": [
             10.7852,
@@ -59,7 +62,8 @@
             "de": "Gusseiserner Brunnen zu Ehren der Spender der Stadt.",
             "hu": "Öntöttvas kút a város támogatóinak tiszteletére.",
             "ro": "Fântână din fontă în onoarea donatorilor orașului.",
-            "en": "Cast-iron fountain honoring the city's benefactors."
+            "en": "Cast-iron fountain honoring the city's benefactors.",
+            "tr": "Şehrin hayırseverlerini anan dökme demir çeşme."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schiefes Haus",
             "hu": "Ferde Ház",
             "ro": "Casa Înclinată",
-            "en": "Leaning House"
+            "en": "Leaning House",
+            "tr": "Leaning House"
           },
           "coords": [
             10.7844,
@@ -82,7 +87,8 @@
             "de": "Eine ehemalige Mühle, die sich durch Wassereinwirkung neigte.",
             "hu": "Egykori malom, amely a víz erejétől dőlt meg.",
             "ro": "O fostă moară care s-a înclinat din cauza apei.",
-            "en": "A former mill that leaned due to water erosion."
+            "en": "A former mill that leaned due to water erosion.",
+            "tr": "Su erozyonu nedeniyle eğilen eski bir değirmen."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kleinstes Haus",
             "hu": "Legkisebb Ház",
             "ro": "Cea mai mică casă",
-            "en": "Smallest House"
+            "en": "Smallest House",
+            "tr": "Smallest House"
           },
           "coords": [
             10.7871,
@@ -105,7 +112,8 @@
             "de": "Nur 2,95 Meter breit – heute ein winziges Museum.",
             "hu": "Csupán 2,95 méter széles – ma apró múzeum.",
             "ro": "Doar 2,95 metri lățime – astăzi un mic muzeu.",
-            "en": "Only 2.95 meters wide – now a tiny museum."
+            "en": "Only 2.95 meters wide – now a tiny museum.",
+            "tr": "Sadece 2,95 metre genişliğinde – şimdi küçük bir müze."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schloss Wernigerode",
             "hu": "Wernigerodei kastély",
             "ro": "Castelul Wernigerode",
-            "en": "Wernigerode Castle"
+            "en": "Wernigerode Castle",
+            "tr": "Wernigerode Castle"
           },
           "coords": [
             10.7945,
@@ -128,7 +137,8 @@
             "de": "Der Aufstieg lohnt sich für den Blick über den Harz.",
             "hu": "A kilátásért a Harz-hegységre érdemes felsétálni.",
             "ro": "Urcarea merită pentru vederea asupra munților Harz.",
-            "en": "The climb is worth it for the view over the Harz mountains."
+            "en": "The climb is worth it for the view over the Harz mountains.",
+            "tr": "Harz dağları manzarası için tırmanış buna değer."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în orașul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "tr": "Lunch in the Old Town"
           },
           "coords": [
             10.7865,
@@ -151,7 +162,8 @@
             "de": "Probieren Sie Wildgerichte aus der Harz-Region.",
             "hu": "Kóstolja meg a Harz-vidéki vadételeket.",
             "ro": "Încercați mâncăruri din vânat din regiunea Harz.",
-            "en": "Try game dishes from the Harz region."
+            "en": "Try game dishes from the Harz region.",
+            "tr": "Harz bölgesine özgü av etleri deneyin."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Harzer Schmalspurbahnen",
             "hu": "Harzi kisvasút",
             "ro": "Căile ferate Harz",
-            "en": "Harz Narrow Gauge Railways"
+            "en": "Harz Narrow Gauge Railways",
+            "tr": "Harz Narrow Gauge Railways"
           },
           "coords": [
             10.7895,
@@ -174,7 +187,8 @@
             "de": "Dampfloks beim Rangieren am Bahnhof beobachten.",
             "hu": "Nézze meg a tolató gőzmozdonyokat az állomáson.",
             "ro": "Urmăriți locomotivele cu abur la manevrare în gară.",
-            "en": "Watch steam locomotives maneuvering at the station."
+            "en": "Watch steam locomotives maneuvering at the station.",
+            "tr": "İstasyonda buharlı lokomotiflerin manevra yapışını izleyin."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Vormittags erkunden Sie das märchenhafte Zentrum der 'Bunten Stadt am Harz' mit seinen schiefen Fachwerkhäusern. Mittags steigen Sie zum thronenden Schloss hinauf, um die herrschaftlichen Säle und den Weitblick zu genießen. Nach einem deftigen regionalen Essen beenden Sie den Tag am Bahnhof der legendären Dampflokomotiven, wo die Zeit stehengeblieben scheint.",
         "hu": "Délelőtt a „Harz színes városa” mesebeli központját fedezzük fel, ferde favázas házaival. Délben felsétálunk a város fölé magasodó kastélyhoz, hogy megcsodáljuk a főúri termeket és a panorámát. Egy kiadós helyi ebéd után a napot a legendás gőzmozdonyok állomásán zárjuk, ahol megállt az idő.",
         "ro": "Dimineața explorați centrul de poveste al „Orașului Colorat din Harz”, cu casele sale cu bârne înclinate. La prânz, urcați la castelul impunător pentru a admira sălile nobiliare și panorama. După o masă regională consistentă, încheiați ziua la gara legendarelor locomotive cu abur, unde timpul pare să fi stat în loc.",
-        "en": "In the morning, explore the fairytale center of the 'Colorful City on the Harz' with its leaning half-timbered houses. At midday, climb up to the imposing castle to enjoy the stately halls and the panoramic view. After a hearty regional meal, finish the day at the station of the legendary steam locomotives, where time seems to have stood still."
+        "en": "In the morning, explore the fairytale center of the 'Colorful City on the Harz' with its leaning half-timbered houses. At midday, climb up to the imposing castle to enjoy the stately halls and the panoramic view. After a hearty regional meal, finish the day at the station of the legendary steam locomotives, where time seems to have stood still.",
+        "tr": "Sabah 'Harz'ın Renkli Şehri'nin masalsı merkezini eğik ahşap evleriyle keşfedin. Öğle vakti, görkemli salonların ve panoramik manzaranın keyfini çıkarmak için heybetli kaleye tırmanın. Doyurucu bir yöresel yemekten sonra, zamanın durmuş gibi göründüğü efsanevi buharlı lokomotiflerin istasyonunda günü bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +357,12 @@
           "The castle train runs directly from the market square to the castle if you want to avoid the climb.",
           "The best view of the castle is from the Agnesberg directly opposite.",
           "The narrow alleys of the old town often hide the most beautiful courtyards."
+        ],
+        "tr": [
+          "Wernigerode yayalar için çok uygun, ancak parke taşlar için rahat ayakkabılar giyin.",
+          "Tırmanışı istemezseniz kale treni doğrudan pazar meydanından kaleye gider.",
+          "Kaleyi en iyi gören yer karşısındaki Agnesberg'dir.",
+          "Eski kentin dar sokakları sıklıkla en güzel avluları saklar."
         ]
       }
     },
@@ -358,7 +379,8 @@
             "de": "Marktplatz Start",
             "hu": "Piactér start",
             "ro": "Piața Centrală Start",
-            "en": "Market Square Start"
+            "en": "Market Square Start",
+            "tr": "Market Square Start"
           },
           "coords": [
             10.7851,
@@ -373,7 +395,8 @@
             "de": "Fahrräder können in der Nähe der Touristeninfo geliehen werden.",
             "hu": "Biciklikat a turisztikai iroda közelében lehet bérelni.",
             "ro": "Bicicletele pot fi închiriate lângă biroul de informații turistice.",
-            "en": "Bikes can be rented near the tourist info office."
+            "en": "Bikes can be rented near the tourist info office.",
+            "tr": "Bisikletler turist bilgi ofisine yakın yerlerden kiralanabilir."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Luftfahrtmuseum",
             "hu": "Repülési Múzeum",
             "ro": "Muzeul Aviației",
-            "en": "Aviation Museum"
+            "en": "Aviation Museum",
+            "tr": "Aviation Museum"
           },
           "coords": [
             10.7635,
@@ -396,7 +420,8 @@
             "de": "Über 50 Flugzeuge und Hubschrauber in vier Hallen.",
             "hu": "Több mint 50 repülőgép és helikopter négy csarnokban.",
             "ro": "Peste 50 de avioane și elicoptere în patru hale.",
-            "en": "Over 50 aircraft and helicopters in four hangars."
+            "en": "Over 50 aircraft and helicopters in four hangars.",
+            "tr": "Dört hangarda 50'den fazla uçak ve helikopter."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Wildpark Christianental",
             "hu": "Christianental Vadaspark",
             "ro": "Parcul de animale Christianental",
-            "en": "Wildpark Christianental"
+            "en": "Wildpark Christianental",
+            "tr": "Wildpark Christianental"
           },
           "coords": [
             10.8085,
@@ -419,7 +445,8 @@
             "de": "Heimische Wildtiere wie Luchse und Wildkatzen beobachten.",
             "hu": "Nézze meg a hazai vadállatokat, például hiúzokat és vadmacskákat.",
             "ro": "Observați animale sălbatice locale, cum ar fi râșii și pisicile sălbatice.",
-            "en": "Watch native wildlife such as lynxes and wild cats."
+            "en": "Watch native wildlife such as lynxes and wild cats.",
+            "tr": "Vaşak ve yaban kedisi gibi yerli vahşi yaşamı izleyin."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Schloss Wernigerode",
             "hu": "Wernigerodei kastély",
             "ro": "Castelul Wernigerode",
-            "en": "Wernigerode Castle"
+            "en": "Wernigerode Castle",
+            "tr": "Wernigerode Castle"
           },
           "coords": [
             10.7945,
@@ -442,7 +470,8 @@
             "de": "Es gibt Fahrradständer am Eingang des Schlosshofes.",
             "hu": "A kastélyudvar bejáratánál vannak kerékpártárolók.",
             "ro": "Există rastele pentru biciclete la intrarea în curtea castelului.",
-            "en": "There are bike racks at the entrance to the castle courtyard."
+            "en": "There are bike racks at the entrance to the castle courtyard.",
+            "tr": "Kale avlusunun girişinde bisiklet park yerleri vardır."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Spätes Mittagessen",
             "hu": "Késői ebéd",
             "ro": "Prânz târziu",
-            "en": "Late Lunch"
+            "en": "Late Lunch",
+            "tr": "Geç Öğle Yemeği"
           },
           "coords": [
             10.7855,
@@ -465,7 +495,8 @@
             "de": "Ein kühles Harzer Bier nach der Tour genießen.",
             "hu": "Élvezzen egy hűvös Harzi sört a túra után.",
             "ro": "Savurați o bere rece din Harz după tur.",
-            "en": "Enjoy a cool Harz beer after the tour."
+            "en": "Enjoy a cool Harz beer after the tour.",
+            "tr": "Turdan sonra serin bir Harz birası tadını çıkarın."
           }
         }
       ],
@@ -473,7 +504,8 @@
         "de": "Diese Radtour verbindet Technikgeschichte mit Naturerlebnis. Wir starten im Zentrum, radeln zum beeindruckenden Luftfahrtmuseum und weiter durch grüne Wälder zum Wildpark. Den krönenden Abschluss bildet die Auffahrt zum Schloss, bevor wir gemütlich zurück in die Altstadt rollen.",
         "hu": "Ez a kerékpártúra összeköti a technikatörténetet a természetélménnyel. A központból indulunk, a lenyűgöző Repülési Múzeumhoz tekerünk, majd zöld erdőkön át a vadasparkba. A nap fénypontja a kastélyhoz való feljutás, mielőtt kényelmesen visszagurulnánk az óvárosba.",
         "ro": "Acest tur cu bicicleta îmbină istoria tehnicii cu experiența naturii. Pornim din centru, pedalăm spre impresionantul Muzeu al Aviației și continuăm prin păduri verzi spre parcul de animale. Punctul culminant este urcarea la castel, înainte de a coborî relaxat înapoi în orașul vechi.",
-        "en": "This bike tour combines technical history with a nature experience. We start in the center, cycle to the impressive Aviation Museum, and continue through green forests to the wildlife park. The crowning finale is the ride up to the castle before we roll leisurely back into the old town."
+        "en": "This bike tour combines technical history with a nature experience. We start in the center, cycle to the impressive Aviation Museum, and continue through green forests to the wildlife park. The crowning finale is the ride up to the castle before we roll leisurely back into the old town.",
+        "tr": "Bu bisiklet turu teknik tarih ile doğa deneyimini birleştiriyor. Merkezde başlıyoruz, etkileyici Havacılık Müzesi'ne pedal çeviriyor, yeşil ormanlar arasından yaban hayatı parkına devam ediyoruz. Taç niteliğindeki final kaleye tırmanış ve ardından eski kasabaya sakin bir dönüş."
       },
       "gastro_picks": {
         "de": [
@@ -593,6 +625,11 @@
           "The path to the wildlife park partly goes through steeper terrain, an e-bike is recommended.",
           "Watch out for hikers on the shared forest paths.",
           "There is a flight simulator in the Aviation Museum – book in advance!"
+        ],
+        "tr": [
+          "Yaban hayatı parkına giden yol kısmen daha dik araziden geçiyor, e-bisiklet önerilir.",
+          "Ortak orman patikalarında yürüyüşçülere dikkat edin.",
+          "Havacılık Müzesi'nde bir uçuş simülatörü var – önceden rezervasyon yapın!"
         ]
       }
     },
@@ -609,7 +646,8 @@
             "de": "Luftfahrtmuseum (Cluster A)",
             "hu": "Repülési Múzeum",
             "ro": "Muzeul Aviației",
-            "en": "Aviation Museum"
+            "en": "Aviation Museum",
+            "tr": "Havacılık Müzesi"
           },
           "coords": [
             10.7635,
@@ -624,7 +662,8 @@
             "de": "Großer Parkplatz direkt vor dem Museum vorhanden.",
             "hu": "Nagy parkoló közvetlenül a múzeum előtt.",
             "ro": "Parcare mare disponibilă chiar în fața muzeului.",
-            "en": "Large parking lot available directly in front of the museum."
+            "en": "Large parking lot available directly in front of the museum.",
+            "tr": "Müzenin hemen önünde büyük otopark mevcut."
           }
         },
         {
@@ -632,7 +671,8 @@
             "de": "Marktplatz (Cluster B)",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             10.7851,
@@ -647,7 +687,8 @@
             "de": "Parkhaus 'Zentrum' nutzen, dann 5 Min. Fußweg zum Markt.",
             "hu": "Használja a 'Zentrum' parkolóházat, majd 5 perc séta a piacig.",
             "ro": "Utilizați parcarea „Zentrum”, apoi 5 minute de mers pe jos până la piață.",
-            "en": "Use the 'Zentrum' parking garage, then a 5-minute walk to the market."
+            "en": "Use the 'Zentrum' parking garage, then a 5-minute walk to the market.",
+            "tr": "'Zentrum' otoparkını kullanın, ardından pazara 5 dakikalık yürüyüş."
           }
         },
         {
@@ -655,7 +696,8 @@
             "de": "Kleinstes Haus (Cluster B)",
             "hu": "Legkisebb Ház",
             "ro": "Cea mai mică casă",
-            "en": "Smallest House"
+            "en": "Smallest House",
+            "tr": "En Küçük Ev"
           },
           "coords": [
             10.7871,
@@ -670,7 +712,8 @@
             "de": "Zu Fuß vom Marktplatz erreichbar (Walking Cluster).",
             "hu": "Gyalogosan elérhető a Piactérről.",
             "ro": "Accesibil pe jos din piața centrală.",
-            "en": "Accessible on foot from the market square (Walking Cluster)."
+            "en": "Accessible on foot from the market square (Walking Cluster).",
+            "tr": "Pazar meydanından yürüyerek erişilebilir (Yürüyüş Kümesi)."
           }
         },
         {
@@ -678,7 +721,8 @@
             "de": "Schloss Wernigerode (Cluster C)",
             "hu": "Wernigerodei kastély",
             "ro": "Castelul Wernigerode",
-            "en": "Wernigerode Castle"
+            "en": "Wernigerode Castle",
+            "tr": "Wernigerode Kalesi"
           },
           "coords": [
             10.7945,
@@ -693,7 +737,8 @@
             "de": "Parkplatz 'Am Schloß' nutzen, von dort kurzer steiler Fußweg.",
             "hu": "Használja az 'Am Schloß' parkolót, onnan rövid meredek séta.",
             "ro": "Utilizați parcarea „Am Schloß”, de acolo un scurt drum abrupt pe jos.",
-            "en": "Use 'Am Schloß' parking, from there a short steep walk."
+            "en": "Use 'Am Schloß' parking, from there a short steep walk.",
+            "tr": "'Am Schloß' otoparkını kullanın, oradan kısa dik bir yürüyüş."
           }
         },
         {
@@ -701,7 +746,8 @@
             "de": "Wildpark Christianental",
             "hu": "Christianental Vadaspark",
             "ro": "Parcul de animale Christianental",
-            "en": "Wildpark Christianental"
+            "en": "Wildpark Christianental",
+            "tr": "Wildpark Christianental"
           },
           "coords": [
             10.8085,
@@ -716,7 +762,8 @@
             "de": "Eigener Waldparkplatz direkt am Eingang.",
             "hu": "Saját erdei parkoló közvetlenül a bejáratnál.",
             "ro": "Parcare proprie în pădure chiar la intrare.",
-            "en": "Dedicated forest parking right at the entrance."
+            "en": "Dedicated forest parking right at the entrance.",
+            "tr": "Girişte özel orman otoparkı mevcut."
           }
         }
       ],
@@ -724,7 +771,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Highlights außerhalb des Zentrums. Wir starten am Luftfahrtmuseum, parken dann am Rand der Altstadt für einen kurzen Rundgang zum Rathaus und fahren schließlich hinauf zum Schloss und zum Wildpark am Stadtrand.",
         "hu": "Autóval kényelmesen elérhetjük a központon kívüli látnivalókat is. A Repülési Múzeumnál kezdünk, majd az óváros szélén parkolunk egy rövid sétához a városházáig, végül felhajtunk a kastélyhoz és a város szélén található vadasparkhoz.",
         "ro": "Cu mașina ajungeți confortabil la punctele de atracție din afara centrului. Începem la Muzeul Aviației, apoi parcăm la marginea orașului vechi pentru un scurt tur spre primărie și, în final, urcăm la castel și la parcul de animale de la periferie.",
-        "en": "By car, you can easily reach the highlights outside the center. We start at the Aviation Museum, then park on the edge of the old town for a short walk to the town hall, and finally drive up to the castle and the wildlife park on the outskirts."
+        "en": "By car, you can easily reach the highlights outside the center. We start at the Aviation Museum, then park on the edge of the old town for a short walk to the town hall, and finally drive up to the castle and the wildlife park on the outskirts.",
+        "tr": "Arabayla merkezin dışındaki önemli noktalar kolayca ulaşılabilir. Havacılık Müzesi'nde başlıyoruz, sonra belediye binasına kısa yürüyüş için eski kasaba kıyısına park ediyoruz ve son olarak kaleye ve kasaba dışındaki yaban hayatı parkına çıkıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -824,6 +872,10 @@
         "en": [
           "Parking in the old town is difficult, use the signposted parking garages.",
           "The road to the castle is closed to private cars, use the parking lots at the foot of the hill."
+        ],
+        "tr": [
+          "Eski kasabada park etmek zordur, işaretli otoparkları kullanın.",
+          "Kaleye giden yol özel araçlara kapalıdır, tepenin eteklerindeki otoparkları kullanın."
         ]
       }
     },
@@ -840,7 +892,8 @@
             "de": "Wernigerode Hauptbahnhof",
             "hu": "Wernigerode főpályaudvar",
             "ro": "Gara Centrală Wernigerode",
-            "en": "Wernigerode Main Station"
+            "en": "Wernigerode Main Station",
+            "tr": "Wernigerode Ana İstasyonu"
           },
           "coords": [
             10.7895,
@@ -855,7 +908,8 @@
             "de": "Startpunkt für Busse und die Harzer Schmalspurbahn.",
             "hu": "Buszok és a harzi kisvasút indulási pontja.",
             "ro": "Punct de plecare pentru autobuze și calea ferată Harz.",
-            "en": "Starting point for buses and the Harz Narrow Gauge Railway."
+            "en": "Starting point for buses and the Harz Narrow Gauge Railway.",
+            "tr": "Otobüsler ve Harz Dar Hatlı Demiryolu için başlangıç noktası."
           }
         },
         {
@@ -863,7 +917,8 @@
             "de": "Rathaus (Altstadt-Cluster)",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "tr": "Belediye Binası"
           },
           "coords": [
             10.7851,
@@ -878,7 +933,8 @@
             "de": "Vom Bahnhof mit dem Citybus (Linie 201/204) zum Rendezvous.",
             "hu": "A vasútállomástól a Citybusszal (201/204) a Rendezvous megállóig.",
             "ro": "De la gară cu Citybus (linia 201/204) până la stația Rendezvous.",
-            "en": "From the station with the Citybus (line 201/204) to the Rendezvous stop."
+            "en": "From the station with the Citybus (line 201/204) to the Rendezvous stop.",
+            "tr": "İstasyondan Citybus ile (hat 201/204) Rendezvous durağına."
           }
         },
         {
@@ -886,7 +942,8 @@
             "de": "Schloss Wernigerode",
             "hu": "Wernigerodei kastély",
             "ro": "Castelul Wernigerode",
-            "en": "Wernigerode Castle"
+            "en": "Wernigerode Castle",
+            "tr": "Wernigerode Kalesi"
           },
           "coords": [
             10.7945,
@@ -901,7 +958,8 @@
             "de": "Die Wernigeröder Bimmelbahn nutzen (Shuttle zum Schloss).",
             "hu": "Használja a Wernigeröder Bimmelbahnt (ingajárat a kastélyhoz).",
             "ro": "Utilizați trenulețul Wernigeröder Bimmelbahn (navetă spre castel).",
-            "en": "Use the Wernigeröder Bimmelbahn (shuttle to the castle)."
+            "en": "Use the Wernigeröder Bimmelbahn (shuttle to the castle).",
+            "tr": "Kaleye servis yapan Wernigeröder Bimmelbahn'ı kullanın."
           }
         },
         {
@@ -909,7 +967,8 @@
             "de": "Mittagessen in der Stadt",
             "hu": "Ebéd a városban",
             "ro": "Prânz în oraș",
-            "en": "Lunch in town"
+            "en": "Lunch in town",
+            "tr": "Kasabada öğle yemeği"
           },
           "coords": [
             10.7845,
@@ -924,7 +983,8 @@
             "de": "Zentrale Restaurants am Marktplatz bequem erreichbar.",
             "hu": "A piactér központi éttermei könnyen elérhetők.",
             "ro": "Restaurantele centrale din piața centrală sunt ușor accesibile.",
-            "en": "Central restaurants at the market square easily accessible."
+            "en": "Central restaurants at the market square easily accessible.",
+            "tr": "Pazar meydanındaki merkezi restoranlar kolayca erişilebilir."
           }
         },
         {
@@ -932,7 +992,8 @@
             "de": "Luftfahrtmuseum",
             "hu": "Repülési Múzeum",
             "ro": "Muzeul Aviației",
-            "en": "Aviation Museum"
+            "en": "Aviation Museum",
+            "tr": "Havacılık Müzesi"
           },
           "coords": [
             10.7635,
@@ -947,7 +1008,8 @@
             "de": "Bus 202 oder 204 hält fast direkt vor dem Museum.",
             "hu": "A 202-es vagy 204-es busz szinte közvetlenül a múzeum előtt áll meg.",
             "ro": "Autobuzul 202 sau 204 oprește aproape direct în fața muzeului.",
-            "en": "Bus 202 or 204 stops almost directly in front of the museum."
+            "en": "Bus 202 or 204 stops almost directly in front of the museum.",
+            "tr": "202 veya 204 numaralı otobüs neredeyse doğrudan müzenin önünde durur."
           }
         }
       ],
@@ -955,7 +1017,8 @@
         "de": "Wernigerode lässt sich hervorragend mit dem ÖPNV erkunden. Dank des Citybusses und der touristischen Shuttle-Bahnen erreichen Sie alle Sights vom Marktplatz bis zum hochgelegenen Schloss stressfrei. Der Tag verbindet traditionelle Dampfzug-Atmosphäre am Bahnhof mit historischem Flair in der City.",
         "hu": "Wernigerode kiválóan felfedezhető tömegközlekedéssel. A Citybusnak és a turisztikai ingajáratoknak köszönhetően stresszmentesen elérhetjük az összes látnivalót a piactértől a magasan fekvő kastélyig. A nap ötvözi a hagyományos gőzmozdonyos hangulatot az óváros történelmi légkörével.",
         "ro": "Wernigerode poate fi explorat excelent cu transportul public. Datorită Citybus-ului și trenulețelor navetă turistice, ajungeți fără stres la toate obiectivele, de la piața centrală până la castelul situat la înălțime. Ziua îmbină atmosfera tradițională a trenurilor cu abur de la gară cu farmecul istoric din centru.",
-        "en": "Wernigerode can be explored excellently by public transport. Thanks to the Citybus and the tourist shuttle trains, you can reach all sights from the market square to the high-altitude castle stress-free. The day combines traditional steam train atmosphere at the station with historical flair in the city."
+        "en": "Wernigerode can be explored excellently by public transport. Thanks to the Citybus and the tourist shuttle trains, you can reach all sights from the market square to the high-altitude castle stress-free. The day combines traditional steam train atmosphere at the station with historical flair in the city.",
+        "tr": "Wernigerode toplu taşımayla mükemmel keşfedilebilir. Citybus ve turistik servis trenleri sayesinde pazar meydanından yüksek konumdaki kaleye kadar tüm gezilecek yerler stres olmadan ulaşılabilir. Gün, istasyondaki geleneksel buharlı tren atmosferini şehirdeki tarihsel cazibe ile birleştiriyor."
       },
       "gastro_picks": {
         "de": [
@@ -1055,6 +1118,10 @@
         "en": [
           "With the visitor's tax, you receive the HATIX ticket, which allows you to use buses in the Harz for free.",
           "The narrow-gauge railway timetables are posted at the station, ideal for timing."
+        ],
+        "tr": [
+          "Ziyaretçi vergisi ile HATIX bileti alırsınız; bu bilet Harz bölgesindeki otobüsleri ücretsiz kullanmanızı sağlar.",
+          "Dar hatlı demiryolunun saatleri istasyonda ilan edilir, zamanlama için ideal."
         ]
       }
     }

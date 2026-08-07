@@ -21,7 +21,8 @@
             "de": "Marktplatz",
             "hu": "Főtér",
             "ro": "Piața Primăriei",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             8.1365,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie das Rathaus und die Fachwerkhäuser.",
             "hu": "Csodálja meg a városházát és a favázas házakat.",
             "ro": "Admirați primăria și casele tradiționale cu bârne.",
-            "en": "Admire the city hall and half-timbered houses."
+            "en": "Admire the city hall and half-timbered houses.",
+            "tr": "Belediye binasını ve yarı ahşap evleri hayranlıkla izleyin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stiftskirche",
             "hu": "Stiftskirche",
             "ro": "Biserica Stiftskirche",
-            "en": "Stiftskirche"
+            "en": "Stiftskirche",
+            "tr": "Stiftskirche"
           },
           "coords": [
             8.1368,
@@ -59,7 +62,8 @@
             "de": "Die größte gotische Hallenkirche der Pfalz.",
             "hu": "Pfalz legnagyobb gótikus csarnoktemploma.",
             "ro": "Cea mai mare biserică gotică din Palatinat.",
-            "en": "The largest Gothic hall church in the Palatinate."
+            "en": "The largest Gothic hall church in the Palatinate.",
+            "tr": "Pfälz bölgesinin en büyük Gotik salon kilisesi."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Elwedritsche-Brunnen",
             "hu": "Elwedritsche-kút",
             "ro": "Fântâna Elwedritsche",
-            "en": "Elwedritsche Fountain"
+            "en": "Elwedritsche Fountain",
+            "tr": "Elwedritsche Çeşmesi"
           },
           "coords": [
             8.1356,
@@ -82,7 +87,8 @@
             "de": "Suchen Sie die Pfälzer Fabelwesen am Brunnen.",
             "hu": "Keresse meg a pfalzi mesebeli lényeket a kútnál.",
             "ro": "Căutați creaturile mitice locale la fântână.",
-            "en": "Find the mythical Palatinate creatures on the fountain."
+            "en": "Find the mythical Palatinate creatures on the fountain.",
+            "tr": "Çeşmede efsanevi Pfalz yaratıklarını bulun."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Casimirianum",
             "hu": "Casimirianum",
             "ro": "Casimirianum",
-            "en": "Casimirianum"
+            "en": "Casimirianum",
+            "tr": "Casimirianum"
           },
           "coords": [
             8.1345,
@@ -105,7 +112,8 @@
             "de": "Ein bedeutendes Renaissance-Bauwerk der Stadt.",
             "hu": "A város jelentős reneszánsz épülete.",
             "ro": "O clădire renascentistă importantă a orașului.",
-            "en": "A significant Renaissance building in the city."
+            "en": "A significant Renaissance building in the city.",
+            "tr": "Şehrin önemli bir Rönesans binası."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Eisenbahnmuseum Neustadt",
             "hu": "Neustadti Vasútmúzeum",
             "ro": "Muzeul Căilor Ferate Neustadt",
-            "en": "Neustadt Railway Museum"
+            "en": "Neustadt Railway Museum",
+            "tr": "Neustadt Demiryolu Müzesi"
           },
           "coords": [
             8.1432,
@@ -128,7 +137,8 @@
             "de": "Historische Dampfloks direkt am Bahnhof.",
             "hu": "Történelmi gőzmozdonyok közvetlenül az állomásnál.",
             "ro": "Locomotive cu abur istorice chiar lângă gară.",
-            "en": "Historic steam locomotives right by the station."
+            "en": "Historic steam locomotives right by the station.",
+            "tr": "İstasyonun hemen yanında tarihî buharlı lokomotifler."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Haardter Schloss (Terrasse)",
             "hu": "Haardti kastély terasza",
             "ro": "Terasa Castelului Haardt",
-            "en": "Haardt Castle Terrace"
+            "en": "Haardt Castle Terrace",
+            "tr": "Haardt Kalesi Terası"
           },
           "coords": [
             8.1405,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie den Blick über die Weinstraße.",
             "hu": "Élvezze a kilátást a Weinstraße vidékére.",
             "ro": "Bucurați-vă de priveliștea peste Drumul Vinului.",
-            "en": "Enjoy the view over the Wine Route."
+            "en": "Enjoy the view over the Wine Route.",
+            "tr": "Şarap Yolu üzerinde manzaranın tadını çıkarın."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Erkunden Sie das Herz der Pfalz zu Fuß. Ihr Tag beginnt am historischen Marktplatz mit seinen Prachtbauten. Nach dem Besuch der Stiftskirche und des Elwedritsche-Brunnens tauchen Sie im Casimirianum in die Geschichte ein. Ein Muss für Technikfans ist das Eisenbahnmuseum. Den Nachmittag krönt ein Spaziergang hinauf zum Haardter Schloss für ein Panorama über die endlosen Weinberge.",
         "hu": "Fedezze fel Pfalz szívét gyalogosan. Napja a történelmi főtéren kezdődik, csodás épületek között. A Stiftskirche és a különleges madaras kút után a Casimirianum reneszánsz falai várják. A technika szerelmeseinek kötelező a Vasútmúzeum. A délutánt egy kellemes séta koronázza meg a Haardti kastélyhoz, ahonnan beláthatja a végtelen szőlőültetvényeket.",
         "ro": "Explorați inima Palatinatului la pas. Ziua începe în piața istorică, înconjurată de clădiri superbe. După vizitarea bisericii Stiftskirche și a fântânii Elwedritsche, descoperiți istoria la Casimirianum. Pasionații de tehnică nu trebuie să rateze Muzeul Căilor Ferate. După-amiaza se încheie cu o plimbare spre Castelul Haardt pentru o panoramă asupra podgoriilor nesfârșite.",
-        "en": "Explore the heart of the Palatinate on foot. Your day starts at the historic market square, surrounded by grand buildings. After visiting the Stiftskirche and the whimsical fountain, dive into history at the Casimirianum. A must for rail fans is the Railway Museum. The afternoon is capped off with a walk up to Haardt Castle for a panoramic view over the endless vineyards."
+        "en": "Explore the heart of the Palatinate on foot. Your day starts at the historic market square, surrounded by grand buildings. After visiting the Stiftskirche and the whimsical fountain, dive into history at the Casimirianum. A must for rail fans is the Railway Museum. The afternoon is capped off with a walk up to Haardt Castle for a panoramic view over the endless vineyards.",
+        "tr": "Pfälz'in kalbini yürüyerek keşfedin. Gününüz, görkemli binalarla çevrili tarihî pazar meydanında başlar. Stiftskirche ve şirin çeşmeyi ziyaret ettikten sonra Casimirianum'da tarihe dalın. Demiryolu meraklıları için Demiryolu Müzesi olmazsa olmaz. Öğleden sonra, bitmek bilmeyen bağlar üzerinde panoramik bir manzara için Haardt Kalesi'ne tırmanışla gününüzü tamamlayın."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "In Palatinate wine taverns, it's common to share tables.",
           "Neustadt is perfectly connected to the hiking trail network.",
           "Look out for Elwedritsche figures all over the city."
+        ],
+        "tr": [
+          "Eski şehirdeki taş döşemeler için rahat ayakkabılar giyin.",
+          "Pfälz şarap lokallerinde masaları paylaşmak yaygındır.",
+          "Neustadt yürüyüş yolu ağına mükemmel bağlıdır.",
+          "Şehirde her yerde Elwedritsche figürlerine dikkat edin."
         ]
       }
     },
@@ -335,7 +354,8 @@
             "de": "Marktplatz",
             "hu": "Főtér",
             "ro": "Piața Primăriei",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             8.1365,
@@ -350,7 +370,8 @@
             "de": "Perfekter Startpunkt für die Weinstraße.",
             "hu": "Tökéletes kiindulópont a borúthoz.",
             "ro": "Punct de plecare ideal pentru Drumul Vinului.",
-            "en": "Perfect starting point for the Wine Route."
+            "en": "Perfect starting point for the Wine Route.",
+            "tr": "Şarap Yolu için mükemmel başlangıç noktası."
           }
         },
         {
@@ -358,7 +379,8 @@
             "de": "Burgruine Wolfsburg",
             "hu": "Wolfsburg várrom",
             "ro": "Ruinele Wolfsburg",
-            "en": "Wolfsburg Ruins"
+            "en": "Wolfsburg Ruins",
+            "tr": "Wolfsburg Harabeleri"
           },
           "coords": [
             8.1255,
@@ -373,7 +395,8 @@
             "de": "Ein etwas steiler Anstieg, der sich lohnt.",
             "hu": "Kicsit meredek emelkedő, de megéri.",
             "ro": "O urcare puțin abruptă, dar care merită.",
-            "en": "A slightly steep climb that is worth it."
+            "en": "A slightly steep climb that is worth it.",
+            "tr": "Biraz dik bir tırmanış ama buna değer."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Haardter Schloss",
             "hu": "Haardti kastély",
             "ro": "Castelul Haardt",
-            "en": "Haardt Castle"
+            "en": "Haardt Castle",
+            "tr": "Haardt Kalesi"
           },
           "coords": [
             8.1405,
@@ -396,7 +420,8 @@
             "de": "Wunderschöner Schlossgarten.",
             "hu": "Gyönyörű kastélykert.",
             "ro": "Grădină superbă a castelului.",
-            "en": "Beautiful castle garden."
+            "en": "Beautiful castle garden.",
+            "tr": "Güzel kale bahçesi."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Eisenbahnmuseum",
             "hu": "Vasútmúzeum",
             "ro": "Muzeul Căilor Ferate",
-            "en": "Railway Museum"
+            "en": "Railway Museum",
+            "tr": "Demiryolu Müzesi"
           },
           "coords": [
             8.1432,
@@ -419,7 +445,8 @@
             "de": "Kurzer Stopp bei den Dampf-Giganten.",
             "hu": "Rövid megálló az óriási gőzmozdonyoknál.",
             "ro": "Scurt popas la giganții cu abur.",
-            "en": "Short stop at the steam giants."
+            "en": "Short stop at the steam giants.",
+            "tr": "Buhar devlerine kısa bir mola."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Hambacher Schloss",
             "hu": "Hambachi kastély",
             "ro": "Castelul Hambach",
-            "en": "Hambach Castle"
+            "en": "Hambach Castle",
+            "tr": "Hambach Kalesi"
           },
           "coords": [
             8.1185,
@@ -442,7 +470,8 @@
             "de": "Die Wiege der deutschen Demokratie.",
             "hu": "A német demokrácia bölcsője.",
             "ro": "Locul de naștere al democrației germane.",
-            "en": "The cradle of German democracy."
+            "en": "The cradle of German democracy.",
+            "tr": "Alman demokrasisinin beşiği."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Elwedritsche-Brunnen",
             "hu": "Elwedritsche-kút",
             "ro": "Fântâna Elwedritsche",
-            "en": "Elwedritsche Fountain"
+            "en": "Elwedritsche Fountain",
+            "tr": "Elwedritsche Çeşmesi"
           },
           "coords": [
             8.1356,
@@ -465,7 +495,8 @@
             "de": "Ein letztes Foto mit den Fabelwesen.",
             "hu": "Egy utolsó fotó a mesebeli lényekkel.",
             "ro": "O ultimă fotografie cu creaturile mitice.",
-            "en": "A final photo with the mythical creatures."
+            "en": "A final photo with the mythical creatures.",
+            "tr": "Efsanevi yaratıklarla son bir fotoğraf."
           }
         }
       ],
@@ -473,7 +504,8 @@
         "de": "Mit dem Rad erleben Sie die Vielfalt rund um Neustadt. Von der Altstadt führt der Weg hinauf zur Wolfsburg und zum Haardter Schloss. Nach einer Abfahrt zum Eisenbahnmuseum geht es zur wichtigsten historischen Stätte der Region: dem Hambacher Schloss. Eine Tour durch Weinberge und Geschichte.",
         "hu": "Kerékpárral élvezheti igazán Neustadt környékét. Az óvárosból a Wolfsburg romjaihoz és a Haardti kastélyhoz vezet az út. A Vasútmúzeum után a régió legfontosabb történelmi helyszíne következik: a Hambachi kastély. Egy túra szőlőültetvények és a történelem mentén.",
         "ro": "Cu bicicleta veți experimenta diversitatea din jurul Neustadt. Din centrul vechi, drumul urcă spre ruinele Wolfsburg și Castelul Haardt. După o coborâre spre Muzeul Căilor Ferate, urmează cel mai important sit istoric: Castelul Hambach. Un tur prin podgorii și istorie.",
-        "en": "Experience the diversity around Neustadt by bike. From the old town, the path leads up to the Wolfsburg ruins and Haardt Castle. After a descent to the Railway Museum, head to the region's most important historical site: Hambach Castle. A tour through vineyards and history."
+        "en": "Experience the diversity around Neustadt by bike. From the old town, the path leads up to the Wolfsburg ruins and Haardt Castle. After a descent to the Railway Museum, head to the region's most important historical site: Hambach Castle. A tour through vineyards and history.",
+        "tr": "Neustadt çevresindeki çeşitliliği bisikletle deneyimleyin. Eski şehirden patika Wolfsburg harabeleri ve Haardt Kalesi'ne çıkar. Demiryolu Müzesi'ne inişten sonra bölgenin en önemli tarihî mekanı olan Hambach Kalesi'ne gidin. Bağlar ve tarih arasında bir tur."
       },
       "gastro_picks": {
         "de": [
@@ -573,6 +605,10 @@
         "en": [
           "An e-bike is highly recommended for the climbs to the castles.",
           "Use the marked bike paths through the vineyards."
+        ],
+        "tr": [
+          "Kalelere yapılan tırmanışlar için e-bisiklet şiddetle tavsiye edilir.",
+          "Bağlar arasındaki işaretli bisiklet yollarını kullanın."
         ]
       }
     },
@@ -589,7 +625,8 @@
             "de": "Marktplatz (Cluster Altstadt)",
             "hu": "Főtér (Óváros negyed)",
             "ro": "Piața Mare (Centrul Vechi)",
-            "en": "Market Square (Old Town Cluster)"
+            "en": "Market Square (Old Town Cluster)",
+            "tr": "Pazar Meydanı (Eski Şehir Kümesi)"
           },
           "coords": [
             8.1365,
@@ -604,7 +641,8 @@
             "de": "Parken Sie im Parkhaus am Zentrum.",
             "hu": "Parkoljon a központi parkolóházban.",
             "ro": "Parcați în parcarea etajată din centru.",
-            "en": "Park in the multi-storey car park near the center."
+            "en": "Park in the multi-storey car park near the center.",
+            "tr": "Merkeze yakın çok katlı otoparka park edin."
           }
         },
         {
@@ -612,7 +650,8 @@
             "de": "Stiftskirche",
             "hu": "Stiftskirche",
             "ro": "Biserica Stiftskirche",
-            "en": "Stiftskirche"
+            "en": "Stiftskirche",
+            "tr": "Stiftskirche"
           },
           "coords": [
             8.1368,
@@ -628,7 +667,8 @@
             "de": "Kurzer Fußweg vom Marktplatz.",
             "hu": "Rövid séta a főtértől.",
             "ro": "Scurtă plimbare din piață.",
-            "en": "Short walk from the market square."
+            "en": "Short walk from the market square.",
+            "tr": "Pazar meydanından kısa bir yürüyüş."
           }
         },
         {
@@ -636,7 +676,8 @@
             "de": "Elwedritsche-Brunnen",
             "hu": "Elwedritsche-kút",
             "ro": "Fântâna Elwedritsche",
-            "en": "Elwedritsche Fountain"
+            "en": "Elwedritsche Fountain",
+            "tr": "Elwedritsche Çeşmesi"
           },
           "coords": [
             8.1356,
@@ -652,7 +693,8 @@
             "de": "Wahrzeichen der Stadt.",
             "hu": "A város jelképe.",
             "ro": "Simbolul orașului.",
-            "en": "Landmark of the city."
+            "en": "Landmark of the city.",
+            "tr": "Şehrin simgesi."
           }
         },
         {
@@ -660,7 +702,8 @@
             "de": "Hambacher Schloss",
             "hu": "Hambachi kastély",
             "ro": "Castelul Hambach",
-            "en": "Hambach Castle"
+            "en": "Hambach Castle",
+            "tr": "Hambach Kalesi"
           },
           "coords": [
             8.1185,
@@ -676,7 +719,8 @@
             "de": "Großer Parkplatz unterhalb des Schlosses.",
             "hu": "Nagy parkoló a kastély alatt.",
             "ro": "Parcare mare sub castel.",
-            "en": "Large car park below the castle."
+            "en": "Large car park below the castle.",
+            "tr": "Kaleden aşağıda büyük bir otopark."
           }
         },
         {
@@ -684,7 +728,8 @@
             "de": "Eisenbahnmuseum",
             "hu": "Vasútmúzeum",
             "ro": "Muzeul Căilor Ferate",
-            "en": "Railway Museum"
+            "en": "Railway Museum",
+            "tr": "Demiryolu Müzesi"
           },
           "coords": [
             8.1432,
@@ -700,7 +745,8 @@
             "de": "Einfach per Auto erreichbar am Bahnhof.",
             "hu": "Autóval könnyen elérhető az állomásnál.",
             "ro": "Ușor accesibil cu mașina lângă gară.",
-            "en": "Easily accessible by car at the station."
+            "en": "Easily accessible by car at the station.",
+            "tr": "İstasyonda araçla kolay erişim."
           }
         },
         {
@@ -708,7 +754,8 @@
             "de": "Haardter Schloss",
             "hu": "Haardti kastély",
             "ro": "Castelul Haardt",
-            "en": "Haardt Castle"
+            "en": "Haardt Castle",
+            "tr": "Haardt Kalesi"
           },
           "coords": [
             8.1405,
@@ -724,7 +771,8 @@
             "de": "Aussichtspunkt bequem erreichbar.",
             "hu": "Kényelmesen elérhető kilátópont.",
             "ro": "Punct de belvedere ușor accesibil.",
-            "en": "Easily accessible viewpoint."
+            "en": "Easily accessible viewpoint.",
+            "tr": "Kolay erişilebilir seyir noktası."
           }
         }
       ],
@@ -732,7 +780,8 @@
         "de": "Mit dem Auto verbinden Sie die historischen Cluster von Neustadt. Zuerst erkunden Sie die Altstadt zu Fuß, parken dann um zum Hambacher Schloss für deutsche Geschichte pur. Später besuchen Sie das Eisenbahnmuseum und das Schloss in Haardt. Ideal, um viel in kurzer Zeit zu sehen.",
         "hu": "Autóval könnyen összekötheti Neustadt történelmi negyedeit. Előbb az óvárost járja be gyalog, majd guruljon át a Hambachi kastélyhoz a német történelemért. Később látogassa meg a Vasútmúzeumot és a Haardti kastélyt. Ideális, ha sokat szeretne látni rövid idő alatt.",
         "ro": "Cu mașina puteți conecta rapid districtele istorice din Neustadt. Mai întâi explorați centrul vechi la pas, apoi mergeți la Castelul Hambach pentru istoria germană. Ulterior, vizitați Muzeul Căilor Ferate și castelul din Haardt. Ideal pentru a vedea multe într-un timp scurt.",
-        "en": "Connect Neustadt's historical clusters by car. First, explore the old town on foot, then drive to Hambach Castle for pure German history. Later, visit the Railway Museum and the castle in Haardt. Ideal for seeing a lot in a short amount of time."
+        "en": "Connect Neustadt's historical clusters by car. First, explore the old town on foot, then drive to Hambach Castle for pure German history. Later, visit the Railway Museum and the castle in Haardt. Ideal for seeing a lot in a short amount of time.",
+        "tr": "Neustadt'ın tarihî kümelerini araçla birbirine bağlayın. Önce eski şehri yürüyerek keşfedin, sonra saf Alman tarih için Hambach Kalesi'ne sürün. Daha sonra Demiryolu Müzesi'ni ve Haardt'taki kaleyi ziyaret edin. Kısa sürede çok şey görmek için ideal."
       },
       "gastro_picks": {
         "de": [
@@ -832,6 +881,10 @@
         "en": [
           "Watch out for narrow streets in the old town.",
           "Park at Hambach Castle in the official lot."
+        ],
+        "tr": [
+          "Eski şehirde dar sokaklara dikkat edin.",
+          "Hambach Kalesi'nde resmi otoparka park edin."
         ]
       }
     },
@@ -848,7 +901,8 @@
             "de": "Eisenbahnmuseum",
             "hu": "Vasútmúzeum",
             "ro": "Muzeul Căilor Ferate",
-            "en": "Railway Museum"
+            "en": "Railway Museum",
+            "tr": "Demiryolu Müzesi"
           },
           "coords": [
             8.1432,
@@ -863,7 +917,8 @@
             "de": "Direkt am Hauptbahnhof gelegen.",
             "hu": "Közvetlenül a főpályaudvarnál.",
             "ro": "Situat chiar lângă gara centrală.",
-            "en": "Located right at the main station."
+            "en": "Located right at the main station.",
+            "tr": "Ana istasyonun hemen yanında konumlanmıştır."
           }
         },
         {
@@ -871,7 +926,8 @@
             "de": "Marktplatz",
             "hu": "Főtér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             8.1365,
@@ -887,7 +943,8 @@
             "de": "Kurzer Spaziergang vom Bahnhof.",
             "hu": "Rövid séta az állomástól.",
             "ro": "Scurtă plimbare de la gară.",
-            "en": "Short walk from the station."
+            "en": "Short walk from the station.",
+            "tr": "İstasyondan kısa yürüme mesafesi."
           }
         },
         {
@@ -895,7 +952,8 @@
             "de": "Elwedritsche-Brunnen",
             "hu": "Elwedritsche-kút",
             "ro": "Fântâna Elwedritsche",
-            "en": "Elwedritsche Fountain"
+            "en": "Elwedritsche Fountain",
+            "tr": "Elwedritsche Çeşmesi"
           },
           "coords": [
             8.1356,
@@ -911,7 +969,8 @@
             "de": "Witziger Stopp im Zentrum.",
             "hu": "Vicces megálló a központban.",
             "ro": "Oprire amuzantă în centru.",
-            "en": "Funny stop in the center."
+            "en": "Funny stop in the center.",
+            "tr": "Şehrin merkezinde eğlenceli bir durak."
           }
         },
         {
@@ -919,7 +978,8 @@
             "de": "Hambacher Schloss",
             "hu": "Hambachi kastély",
             "ro": "Castelul Hambach",
-            "en": "Hambach Castle"
+            "en": "Hambach Castle",
+            "tr": "Hambach Kalesi"
           },
           "coords": [
             8.1185,
@@ -935,7 +995,8 @@
             "de": "Nutzen Sie den Bus 502 ab dem Hauptbahnhof.",
             "hu": "Használja az 502-es buszt a főpályaudvartól.",
             "ro": "Luați autobuzul 502 de la gara centrală.",
-            "en": "Take bus 502 from the main station."
+            "en": "Take bus 502 from the main station.",
+            "tr": "Ana istasyondan 502 numaralı otobüse binin."
           }
         },
         {
@@ -943,7 +1004,8 @@
             "de": "Stiftskirche",
             "hu": "Stiftskirche",
             "ro": "Biserica Stiftskirche",
-            "en": "Stiftskirche"
+            "en": "Stiftskirche",
+            "tr": "Stiftskirche"
           },
           "coords": [
             8.1368,
@@ -959,7 +1021,8 @@
             "de": "Rückkehr in die Altstadt per Bus.",
             "hu": "Visszatérés az óvárosba busszal.",
             "ro": "Revenire în centrul vechi cu autobuzul.",
-            "en": "Return to the old town by bus."
+            "en": "Return to the old town by bus.",
+            "tr": "Eskiye otobüsle geri dönün."
           }
         }
       ],
@@ -967,7 +1030,8 @@
         "de": "Neustadt lässt sich hervorragend mit Bus und Bahn erkunden. Vom Eisenbahnmuseum am Bahnhof spazieren Sie in die Altstadt. Der Bus 502 bringt Sie bequem hinauf zum Hambacher Schloss und zurück. Ein stressfreier Tag ganz ohne Parkplatzsuche.",
         "hu": "Neustadt remekül felfedezhető busszal és vonattal. Az állomás melletti Vasútmúzeumból sétáljon be az óvárosba. Az 502-es busz kényelmesen felviszi a Hambachi kastélyhoz és vissza. Stresszmentes nap parkolóhely-keresés nélkül.",
         "ro": "Neustadt poate fi explorat excelent cu autobuzul și trenul. De la Muzeul Căilor Ferate de lângă gară, plimbați-vă în centrul vechi. Autobuzul 502 vă duce confortabil la Castelul Hambach și înapoi. O zi fără stres, fără căutarea unui loc de parcare.",
-        "en": "Neustadt is easily explored by bus and train. From the Railway Museum at the station, stroll into the old town. Bus 502 takes you comfortably up to Hambach Castle and back. A stress-free day without searching for parking."
+        "en": "Neustadt is easily explored by bus and train. From the Railway Museum at the station, stroll into the old town. Bus 502 takes you comfortably up to Hambach Castle and back. A stress-free day without searching for parking.",
+        "tr": "Neustadt otobüs ve trenle kolayca keşfedilebilir. İstasyondaki Demiryolu Müzesi’nden eski şehre doğru yürüyün. 502 numaralı otobüs sizi konforla Hambach Kalesi’ne ve geri götürür. Park yeri aramadan stressiz bir gün."
       },
       "gastro_picks": {
         "de": [
@@ -1067,6 +1131,10 @@
         "en": [
           "Use the VRN app for up-to-date bus departure times.",
           "A day ticket is often worth it from the second trip onwards."
+        ],
+        "tr": [
+          "Güncel otobüs kalkış saatleri için VRN uygulamasını kullanın.",
+          "Gün bileti genellikle ikinci yolculuktan itibaren kârlıdır."
         ]
       }
     }

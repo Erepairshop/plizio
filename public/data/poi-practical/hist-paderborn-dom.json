@@ -3,55 +3,64 @@
     "de": "Domplatz, 33098 Paderborn",
     "hu": "Domplatz, 33098 Paderborn",
     "ro": "Domplatz, 33098 Paderborn",
-    "en": "Domplatz, 33098 Paderborn"
+    "en": "Domplatz, 33098 Paderborn",
+    "tr": "Domplatz, 33098 Paderborn"
   },
   "openingHours": {
     "de": "Mo-Su 07:30-19:00 (außer während Gottesdiensten)",
     "hu": "H-V 07:30-19:00 (kivéve a szertartások alatt)",
     "ro": "Lu-Du 07:30-19:00 (cu excepția perioadelor de slujbă)",
-    "en": "Mon-Sun 07:30-19:00 (except during services)"
+    "en": "Mon-Sun 07:30-19:00 (except during services)",
+    "tr": "Pzt-Paz 07:30-19:00 (ayakta törenler sırasında hariç)"
   },
   "entranceFee": {
     "de": "frei",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.paderborner-dom.de",
   "publicTransport": {
     "de": "Buslinien bis Haltestelle Rathaus oder Kamp, dann 5 Min Fußweg",
     "hu": "Autóbuszjáratok a Rathaus vagy Kamp megállóig, onnan 5 perc séta",
     "ro": "Linii de autobuz până la stația Rathaus sau Kamp, apoi 5 min. de mers pe jos",
-    "en": "Bus lines to Rathaus or Kamp stop, then a 5-minute walk"
+    "en": "Bus lines to Rathaus or Kamp stop, then a 5-minute walk",
+    "tr": "Rathaus veya Kamp durağına giden otobüs hatları, ardından 5 dakikalık yürüyüş"
   },
   "parking": {
     "de": "Parkhaus am Dom (P7) oder Parkplatz Liboriberg (gebührenpflichtig).",
     "hu": "Parkolóház a dómnál (P7) vagy Liboriberg parkoló (fizetős).",
     "ro": "Parcare la dom (P7) sau parcarea Liboriberg (cu plată).",
-    "en": "Parking garage at the Cathedral (P7) or Liboriberg parking lot (paid)."
+    "en": "Parking garage at the Cathedral (P7) or Liboriberg parking lot (paid).",
+    "tr": "Katedralde otopark garajı (P7) veya Liboriberg otoparkı (ücretli)."
   },
   "accessibility": {
     "de": "Der Domraum ist barrierefrei zugänglich; Krypta nur über Stufen erreichbar.",
     "hu": "A dóm belső tere akadálymentes; a kripta csak lépcsőn érhető el.",
     "ro": "Spațiul domului este accesibil; cripta este accesibilă doar pe trepte.",
-    "en": "The cathedral interior is accessible; the crypt is only reachable via steps."
+    "en": "The cathedral interior is accessible; the crypt is only reachable via steps.",
+    "tr": "Katedral içi erişilebilir; kripta yalnızca merdivenle ulaşılabilir."
   },
   "photoRules": {
     "de": "Erlaubt ohne Blitz außerhalb der Gottesdienstzeiten; keine Stative.",
     "hu": "Vaku nélkül engedélyezett a szertartásokon kívül; állvány használata tilos.",
     "ro": "Permis fără bliț în afara orelor de slujbă; fără trepied.",
-    "en": "Allowed without flash outside of service times; no tripods."
+    "en": "Allowed without flash outside of service times; no tripods.",
+    "tr": "Ayin saatleri dışında flaşsız izin verilir; tripod yok."
   },
   "bestTimeToVisit": {
     "de": "Vormittags wegen des Lichteinfalls durch die Fenster; Hasenfenster im Innenhof beachten.",
     "hu": "Délelőtt az ablakokon besütő fény miatt; érdemes megnézni a Háromnyulas ablakot a belső udvaron.",
     "ro": "Dimineața pentru lumina care pătrunde prin ferestre; observați fereastra cu iepuri din curtea interioară.",
-    "en": "In the morning for the light through the windows; note the Hare Window in the inner courtyard."
+    "en": "In the morning for the light through the windows; note the Hare Window in the inner courtyard.",
+    "tr": "Sabahları, pencerelerden gelen ışık için; iç avludaki Tavşan Penceresi'ne dikkat edin."
   },
   "audioGuide": {
     "de": "nein (Flyer und geführte Touren verfügbar)",
     "hu": "nem (szórólapok és vezetett túrák elérhetők)",
     "ro": "nu (pliante și tururi ghidate disponibile)",
-    "en": "no (flyers and guided tours available)"
+    "en": "no (flyers and guided tours available)",
+    "tr": "hayır (broşür ve rehberli turlar mevcut)"
   }
 }

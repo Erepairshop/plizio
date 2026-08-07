@@ -31,7 +31,8 @@
             "de": "Zentraler Platz, ideal für einen morgendlichen Kaffee.",
             "hu": "Központi tér, ideális egy reggeli kávéhoz.",
             "ro": "Piață centrală, ideală pentru o cafea de dimineață.",
-            "en": "Central square, ideal for a morning coffee."
+            "en": "Central square, ideal for a morning coffee.",
+            "tr": "Merkez meydan, sabah kahvesi için ideal."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die neugotische Fassade des Rathauses.",
             "hu": "Csodálja meg a városháza neogótikus homlokzatát.",
             "ro": "Admirați fațada neogotică a primăriei.",
-            "en": "Admire the neo-Gothic facade of the town hall."
+            "en": "Admire the neo-Gothic facade of the town hall.",
+            "tr": "Belediye sarayının neo-Gotik cephesine hayran kalın."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Die älteste Kirche der Stadt mit markanten Türmen.",
             "hu": "A város legrégebbi temploma jellegzetes tornyokkal.",
             "ro": "Cea mai veche biserică din oraș, cu turnuri distinctive.",
-            "en": "The city's oldest church with striking towers."
+            "en": "The city's oldest church with striking towers.",
+            "tr": "Şehrin en eski kilisesi, çarpıcı kuleleriyle."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Historisches Viertel mit der Hospitalkirche.",
             "hu": "Történelmi negyed a kórházi templommal.",
             "ro": "Cartier istoric cu biserica spitalului.",
-            "en": "Historic district featuring the Hospital Church."
+            "en": "Historic district featuring the Hospital Church.",
+            "tr": "Hastane Kilisesi'ni içeren tarihî semt."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Erfahren Sie mehr über die Geschichte des Vogtlandes.",
             "hu": "Ismerje meg a Vogtland vidékének történelmét.",
             "ro": "Aflați mai multe despre istoria regiunii Vogtland.",
-            "en": "Learn more about the history of the Vogtland region."
+            "en": "Learn more about the history of the Vogtland region.",
+            "tr": "Vogtland bölgesinin tarihini daha fazla öğrenin."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Einer der schönsten Parks Deutschlands mit Botanischem Garten.",
             "hu": "Németország egyik legszebb parkja botanikus kerttel.",
             "ro": "Unul dintre cele mai frumoase parcuri din Germania.",
-            "en": "One of Germany's most beautiful parks with botanical gardens."
+            "en": "One of Germany's most beautiful parks with botanical gardens.",
+            "tr": "Botanik bahçeleriyle Almanya'nın en güzel parklarından biri."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Eine einzigartige Sammlung von Ortsschildern aus aller Welt.",
             "hu": "Egyedülálló helységnévtábla-gyűjtemény a világ minden tájáról.",
             "ro": "O colecție unică de indicatoare rutiere din întreaga lume.",
-            "en": "A unique collection of town signs from all over the world."
+            "en": "A unique collection of town signs from all over the world.",
+            "tr": "Dünyanın dört bir yanından şehir tabelalarının eşsiz koleksiyonu."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Ihre Stadterkundung beginnt auf der Hofer Freiheit, dem pulsierenden Herzen der Stadt. Nach einem Blick auf das neugotische Rathaus besuchen Sie die historische Michaeliskirche. Mittags tauchen Sie im Museum Bayerisches Vogtland in die regionale Kultur ein. Der Nachmittag gehört dem prachtvollen Theresienstein, wo Sie im Fernwehpark eine kuriose Sammlung internationaler Schilder bestaunen können.",
         "hu": "Városnézése a Hofer Freiheit téren, a város lüktető szívében kezdődik. A neogótikus városháza megtekintése után látogasson el a történelmi Michaeliskirche templomba. Délben a Museum Bayerisches Vogtland kiállításain keresztül merüljön el a régió kultúrájában. A délutánt a pompás Theresienstein parkban töltjük, ahol a Fernwehpark különleges nemzetközi táblagyűjteményét is megcsodálhatjuk.",
         "ro": "Explorarea orașului începe în Hofer Freiheit, inima vibrantă a orașului. După o privire asupra primăriei neogotice, vizitați istorica Michaeliskirche. La prânz, scufundați-vă în cultura regională la Museum Bayerisches Vogtland. După-amiaza este dedicată magnificului Theresienstein, unde puteți admira o colecție curioasă de indicatoare internaționale în Fernwehpark.",
-        "en": "Your city exploration begins at Hofer Freiheit, the pulsing heart of the city. After a look at the neo-Gothic town hall, visit the historic Michaeliskirche. At noon, immerse yourself in regional culture at the Museum Bayerisches Vogtland. The afternoon is dedicated to the magnificent Theresienstein park, where you can marvel at a curious collection of international signs in the Fernwehpark."
+        "en": "Your city exploration begins at Hofer Freiheit, the pulsing heart of the city. After a look at the neo-Gothic town hall, visit the historic Michaeliskirche. At noon, immerse yourself in regional culture at the Museum Bayerisches Vogtland. The afternoon is dedicated to the magnificent Theresienstein park, where you can marvel at a curious collection of international signs in the Fernwehpark.",
+        "tr": "Şehir keşfiniz Hofer Freiheit'te başlar, şehrin atar damarı. Neo-Gotik belediye binasına bir göz attıktan sonra tarihî Michaeliskirche'yi ziyaret edin. Öğlen Museum Bayerisches Vogtland'da bölgesel kültüre dalın. Öğleden sonra muhteşem Theresienstein parkına ayırın; burada Fernwehpark'taki ilginç uluslararası tabela koleksiyonuna hayran kalabilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -271,6 +279,12 @@
           "Pay attention to the small details on the historic facades.",
           "The path to Theresienstein is slightly uphill.",
           "Visit the museum in the morning to leave enough time for the park."
+        ],
+        "tr": [
+          "Şehir merkezi yürüyerek kolayca erişilebilir.",
+          "Tarihî cephelerdeki küçük detaylara dikkat edin.",
+          "Theresienstein'e giden yol biraz yokuşlu.",
+          "Park için yeterli zaman kalması adına müzeyi sabah ziyaret edin."
         ]
       }
     },
@@ -297,7 +311,8 @@
             "de": "Perfekter Treffpunkt für Radtourer.",
             "hu": "Tökéletes találkozóhely kerékpárosoknak.",
             "ro": "Punct de întâlnire perfect pentru bicicliști.",
-            "en": "Perfect meeting point for bike tourists."
+            "en": "Perfect meeting point for bike tourists.",
+            "tr": "Bisiklet turistleri için mükemmel buluşma noktası."
           }
         },
         {
@@ -315,7 +330,8 @@
             "de": "Kurzer Stopp im Zentrum.",
             "hu": "Rövid megálló a központban.",
             "ro": "Scurtă oprire în centru.",
-            "en": "Short stop in the center."
+            "en": "Short stop in the center.",
+            "tr": "Merkezde kısa durak."
           }
         },
         {
@@ -333,7 +349,8 @@
             "de": "Fahrradständer direkt vor dem Eingang.",
             "hu": "Kerékpártároló közvetlenül a bejárat előtt.",
             "ro": "Suporturi pentru biciclete direct în fața intrării.",
-            "en": "Bike racks right in front of the entrance."
+            "en": "Bike racks right in front of the entrance.",
+            "tr": "Girişin hemen önünde bisiklet park yerleri."
           }
         },
         {
@@ -351,7 +368,8 @@
             "de": "Schöne Wege zum Radeln im Park.",
             "hu": "Szép kerékpározható utak a parkban.",
             "ro": "Poteci frumoase pentru ciclism în parc.",
-            "en": "Beautiful paths for cycling in the park."
+            "en": "Beautiful paths for cycling in the park.",
+            "tr": "Parkta güzel bisiklet yolları."
           }
         },
         {
@@ -369,7 +387,8 @@
             "de": "Aussichtspunkt auf dem Rosenbühl.",
             "hu": "Kilátópont a Rosenbühl dombon.",
             "ro": "Punct de belvedere pe dealul Rosenbühl.",
-            "en": "Viewpoint on the Rosenbühl hill."
+            "en": "Viewpoint on the Rosenbühl hill.",
+            "tr": "Rosenbühl tepesindeki manzara noktası."
           }
         },
         {
@@ -387,7 +406,8 @@
             "de": "Genießen Sie die 6 km lange Rundtour um den See.",
             "hu": "Élvezze a 6 km-es körtúrát a tó körül.",
             "ro": "Bucurați-vă de turul de 6 km în jurul lacului.",
-            "en": "Enjoy the 6 km circular tour around the lake."
+            "en": "Enjoy the 6 km circular tour around the lake.",
+            "tr": "Göl etrafındaki 6 km'lik çevre turunun keyfini çıkarın."
           }
         },
         {
@@ -405,7 +425,8 @@
             "de": "Historischer Abschluss Ihrer Tour.",
             "hu": "Túrájának történelmi lezárása.",
             "ro": "Final istoric al turului tău.",
-            "en": "Historic conclusion to your tour."
+            "en": "Historic conclusion to your tour.",
+            "tr": "Turunuzun tarihî sonu."
           }
         }
       ],
@@ -413,7 +434,8 @@
         "de": "Diese Radtour kombiniert Stadtkultur mit Naturerlebnissen. Nach dem Start im Zentrum radeln Sie zum Theresienstein und hinauf zum Bismarckturm. Das Highlight ist die Fahrt nach Süden zum Untreusee, wo Sie den See umrunden können. Den Tag lassen Sie im historischen Hospitalviertel gemütlich ausklingen.",
         "hu": "Ez a kerékpártúra ötvözi a városi kultúrát a természet élményével. A központból indulva a Theresienstein parkhoz, majd fel a Bismarck-toronyhoz tekerünk. A túra fénypontja a déli irányú gurulás az Untreusee-tóhoz, amelyet körbe is biciklizhetünk. A napot a történelmi Hospitalviertel negyedben zárjuk.",
         "ro": "Acest tur cu bicicleta combină cultura urbană cu experiențele în natură. După pornirea din centru, mergeți cu bicicleta spre Theresienstein și sus la Turnul Bismarck. Punctul culminant este călătoria spre sud către Untreusee, unde puteți înconjura lacul. Încheiați ziua confortabil în cartierul istoric Hospitalviertel.",
-        "en": "This bike tour combines city culture with nature experiences. Starting in the center, cycle to Theresienstein and up to the Bismarck Tower. The highlight is the ride south to Untreusee, where you can cycle around the lake. End the day comfortably in the historic Hospitalviertel district."
+        "en": "This bike tour combines city culture with nature experiences. Starting in the center, cycle to Theresienstein and up to the Bismarck Tower. The highlight is the ride south to Untreusee, where you can cycle around the lake. End the day comfortably in the historic Hospitalviertel district.",
+        "tr": "Bu bisiklet turu şehir kültürünü doğa deneyimleriyle birleştirir. Merkezden başlayıp Theresienstein'e ve Bismarck Kulesi'ne bisikletle çıkın. Öne çıkan bölüm, göl etrafında tur atabileceğiniz güneye doğru Untreusee'ye yapılan sürüştür. Günü tarihî Hospitalviertel semtinde rahatça sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -521,6 +543,12 @@
           "Use the bike paths to Untreusee for a safe ride.",
           "Exercise caution in pedestrian zones in the city center.",
           "Check the gradients to the Bismarck Tower beforehand."
+        ],
+        "tr": [
+          "Saale Bisiklet Yolu doğrudan Hof'dan geçer.",
+          "Güvenli bir sürüş için Untreusee'ye giden bisiklet yollarını kullanın.",
+          "Şehir merkezindeki yaya bölgelerinde dikkatli olun.",
+          "Bismarck Kulesi'ne giden eğimleri önceden kontrol edin."
         ]
       }
     },
@@ -547,7 +575,8 @@
             "de": "Parkhaus am Rathaus nutzen.",
             "hu": "Használja a városháza melletti parkolóházat.",
             "ro": "Folosiți parcarea de la primărie.",
-            "en": "Use the parking garage at the town hall."
+            "en": "Use the parking garage at the town hall.",
+            "tr": "Belediye binasındaki otoparkı kullanın."
           }
         },
         {
@@ -565,7 +594,8 @@
             "de": "Zu Fuß vom Parkhaus erreichbar.",
             "hu": "Gyalogosan elérhető a parkolóháztól.",
             "ro": "Accesibil pe jos de la parcare.",
-            "en": "Accessible on foot from the parking garage."
+            "en": "Accessible on foot from the parking garage.",
+            "tr": "Otoparktan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -583,7 +613,8 @@
             "de": "Historisches Ensemble (Cluster Walk).",
             "hu": "Történelmi együttes (gyalogos séta).",
             "ro": "Ansamblu istoric (plimbare în cluster).",
-            "en": "Historic ensemble (cluster walk)."
+            "en": "Historic ensemble (cluster walk).",
+            "tr": "Tarihî topluluk (küme yürüyüşü)."
           }
         },
         {
@@ -601,7 +632,8 @@
             "de": "Teil des Innenstadt-Clusters.",
             "hu": "A belvárosi klaszter része.",
             "ro": "Face parte din clusterul centrului orașului.",
-            "en": "Part of the city center cluster."
+            "en": "Part of the city center cluster.",
+            "tr": "Şehir merkezi kümesinin bir parçası."
           }
         },
         {
@@ -619,7 +651,8 @@
             "de": "Parkplatz direkt am Haupteingang vorhanden.",
             "hu": "Parkoló közvetlenül a főbejáratnál.",
             "ro": "Parcare disponibilă direct la intrarea principală.",
-            "en": "Parking available right at the main entrance."
+            "en": "Parking available right at the main entrance.",
+            "tr": "Ana girişin hemen önünde otopark mevcut."
           }
         },
         {
@@ -637,7 +670,8 @@
             "de": "Vom Parkplatz Theresienstein zu Fuß.",
             "hu": "Gyalog a Theresienstein parkolójától.",
             "ro": "Pe jos de la parcarea Theresienstein.",
-            "en": "On foot from the Theresienstein parking."
+            "en": "On foot from the Theresienstein parking.",
+            "tr": "Theresienstein otoparkından yürüyerek."
           }
         },
         {
@@ -655,7 +689,8 @@
             "de": "Großer Besucherparkplatz am See.",
             "hu": "Nagy látogatói parkoló a tónál.",
             "ro": "Parcare mare pentru vizitatori lângă lac.",
-            "en": "Large visitor parking at the lake."
+            "en": "Large visitor parking at the lake.",
+            "tr": "Göldeki geniş ziyaretçi otoparkı."
           }
         }
       ],
@@ -663,7 +698,8 @@
         "de": "Mit dem Auto erkunden Sie effizient die verschiedenen Facetten von Hof. Wir beginnen mit einem Cluster-Walk in der historischen Altstadt. Danach fahren wir zum prachtvollen Park Theresienstein und beenden den Tag entspannt am Untreusee, dem Freizeitparadies im Süden der Stadt.",
         "hu": "Autóval hatékonyan fedezhetjük fel Hof különböző arcait. Egy gyalogos sétával kezdünk a történelmi óvárosban. Ezután a pompás Theresienstein parkhoz hajtunk, a napot pedig az Untreusee-tónál, a város déli szabadidős paradicsomában zárjuk.",
         "ro": "Cu mașina puteți explora eficient diferitele fațete ale orașului Hof. Începem cu o plimbare în cluster în centrul istoric vechi. Apoi mergem la magnificul parc Theresienstein și încheiem ziua relaxați la Untreusee, paradisul de agrement din sudul orașului.",
-        "en": "By car, you can efficiently explore the different facets of Hof. We start with a cluster walk in the historic old town. Then we drive to the magnificent Theresienstein park and end the day relaxed at Untreusee, the leisure paradise in the south of the city."
+        "en": "By car, you can efficiently explore the different facets of Hof. We start with a cluster walk in the historic old town. Then we drive to the magnificent Theresienstein park and end the day relaxed at Untreusee, the leisure paradise in the south of the city.",
+        "tr": "Arabayla Hof'un farklı yönlerini verimli şekilde keşfedebilirsiniz. Tarihî eski şehirde bir küme yürüyüşü ile başlıyoruz. Ardından muhteşem Theresienstein parkına gidip günü şehrin güneyindeki eğlence cenneti Untreusee'de rahatlayarak bitiriyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -771,6 +807,12 @@
           "Parking fees are moderate.",
           "There are free parking spots at Untreusee in the off-season.",
           "Navigate to the Theresienstein main entrance."
+        ],
+        "tr": [
+          "Merkezde park edin ve eski şehri yaya keşfedin.",
+          "Otopark ücretleri makul.",
+          "Sezon dışı Untreusee'de ücretsiz park yerleri vardır.",
+          "Theresienstein ana girişine yönlendirin."
         ]
       }
     },
@@ -797,7 +839,8 @@
             "de": "Zentraler Busknotenpunkt.",
             "hu": "Központi buszcsomópont.",
             "ro": "Nod central de autobuz.",
-            "en": "Central bus hub."
+            "en": "Central bus hub.",
+            "tr": "Merkezi otobüs aktarma noktası."
           }
         },
         {
@@ -815,7 +858,8 @@
             "de": "Kurzer Fußweg vom Busbahnhof.",
             "hu": "Rövid séta a buszpályaudvartól.",
             "ro": "Scurtă plimbare de la autogară.",
-            "en": "Short walk from the bus station."
+            "en": "Short walk from the bus station.",
+            "tr": "Otobüs durağından kısa yürüyüş."
           }
         },
         {
@@ -833,7 +877,8 @@
             "de": "Zentral im Altstadt-Cluster.",
             "hu": "Központi helyen az óvárosi klaszterben.",
             "ro": "Central în clusterul orașului vechi.",
-            "en": "Centrally located in the old town cluster."
+            "en": "Centrally located in the old town cluster.",
+            "tr": "Eski şehir kümesinde merkezi konumda."
           }
         },
         {
@@ -851,7 +896,8 @@
             "de": "Moderne Architektur im Norden der Stadt.",
             "hu": "Modern építészet a város északi részén.",
             "ro": "Arhitectură modernă în nordul orașului.",
-            "en": "Modern architecture in the north of the city."
+            "en": "Modern architecture in the north of the city.",
+            "tr": "Şehrin kuzeyinde modern mimari."
           }
         },
         {
@@ -869,7 +915,8 @@
             "de": "Buslinie hält direkt am Parkeingang.",
             "hu": "Az autóbusz közvetlenül a park bejáratánál áll meg.",
             "ro": "Linia de autobuz oprește direct la intrarea în parc.",
-            "en": "Bus line stops directly at the park entrance."
+            "en": "Bus line stops directly at the park entrance.",
+            "tr": "Otobüs hattı park girişinde direkt durur."
           }
         },
         {
@@ -887,7 +934,8 @@
             "de": "Busanbindung zum See (Saison beachten).",
             "hu": "Buszjárat a tóhoz (ügyeljen a szezonra).",
             "ro": "Legătură cu autobuzul către lac (atenție la sezon).",
-            "en": "Bus connection to the lake (check seasonality)."
+            "en": "Bus connection to the lake (check seasonality).",
+            "tr": "Göl için otobüs bağlantısı (mevsimselliği kontrol edin)."
           }
         }
       ],
@@ -895,7 +943,8 @@
         "de": "Erleben Sie Hof ganz ohne Stress mit dem öffentlichen Nahverkehr. Vom zentralen Busbahnhof erreichen Sie die Altstadt und das Museum. Eine kurze Busfahrt bringt Sie zum Theater und dem malerischen Theresienstein. Zum Abschluss fahren wir mit dem Bus zum Untreusee für eine Entspannungseinheit am Wasser.",
         "hu": "Ismerje meg Hof városát stresszmentesen, tömegközlekedéssel. A központi buszpályaudvartól könnyen elérhető az óváros és a múzeum. Egy rövid buszozással a színházhoz és a festői Theresienstein parkhoz juthatunk. Végül busszal megyünk az Untreusee-tóhoz egy kis vízparti pihenésre.",
         "ro": "Experimentați Hof fără stres cu transportul public. De la autogara centrală puteți ajunge în orașul vechi și la muzeu. O scurtă călătorie cu autobuzul vă duce la teatru și la pitorescul Theresienstein. În cele din urmă, mergem cu autobuzul la Untreusee pentru o sesiune de relaxare lângă apă.",
-        "en": "Experience Hof stress-free with public transport. From the central bus station, you can reach the old town and the museum. A short bus ride takes you to the theater and the picturesque Theresienstein. Finally, we take the bus to Untreusee for a relaxing session by the water."
+        "en": "Experience Hof stress-free with public transport. From the central bus station, you can reach the old town and the museum. A short bus ride takes you to the theater and the picturesque Theresienstein. Finally, we take the bus to Untreusee for a relaxing session by the water.",
+        "tr": "Hof'u toplu taşıma ile stressiz deneyimleyin. Merkezi otobüs istasyonundan eski şehir ve müzeye ulaşabilirsiniz. Kısa bir otobüs yolculuğu sizi tiyatroya ve kartpostallık Theresienstein'e götürür. Son olarak su kenarında dinlenmek için Untreusee'ye otobüsle gideriz."
       },
       "gastro_picks": {
         "de": [
@@ -1003,6 +1052,12 @@
           "Buses run at regular intervals.",
           "Check the departure times for Untreusee beforehand.",
           "The central transfer point is 'Hof Unteres Tor'."
+        ],
+        "tr": [
+          "Şehir otobüs ağı için günlük bilet satın alın.",
+          "Otobüsler düzenli aralıklarla çalışır.",
+          "Önceden Untreusee kalkış saatlerini kontrol edin.",
+          "Merkezi aktarma noktası 'Hof Unteres Tor' dur."
         ]
       }
     }

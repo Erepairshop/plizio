@@ -32,7 +32,8 @@
             "de": "Bestaunen Sie die riesigen Bergkristalle im Erdgeschoss.",
             "hu": "Nézze meg az óriási hegyikristályokat a földszinten.",
             "ro": "Admirați cristalele de stâncă uriașe de la parter.",
-            "en": "Check out the giant rock crystals on the ground floor."
+            "en": "Check out the giant rock crystals on the ground floor.",
+            "tr": "Zemin kattaki dev kristal kayaları keşfedin."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Steile Treppen, aber der Ausblick aus dem Felsenfenster lohnt sich.",
             "hu": "Meredek lépcsők, de a kilátás a sziklaablakból megéri.",
             "ro": "Scări abrupte, dar vederea de la fereastra din stâncă merită.",
-            "en": "Steep stairs, but the view from the rock window is worth it."
+            "en": "Steep stairs, but the view from the rock window is worth it.",
+            "tr": "Dik merdivenler, ama kaya penceresinden manzara buna değer."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Besuchen Sie die restaurierten Räume im inneren Teil.",
             "hu": "Látogassa meg a restaurált termeket a belső részen.",
             "ro": "Vizitați camerele restaurate din partea interioară.",
-            "en": "Visit the restored rooms in the inner section."
+            "en": "Visit the restored rooms in the inner section.",
+            "tr": "İç kısımdaki restore edilmiş odaları ziyaret edin."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Die Ruine bietet den besten Blick auf die Felsenkirche von oben.",
             "hu": "A romról nyílik a legjobb kilátás fentről a sziklatemplomra.",
             "ro": "Ruina oferă cea mai bună priveliște asupra bisericii de sus.",
-            "en": "The ruins offer the best view of the rock church from above."
+            "en": "The ruins offer the best view of the rock church from above.",
+            "tr": "Harabeler, kaya kilisesinin yukarıdan en iyi görüntüsünü sunar."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Probieren Sie den Idar-Obersteiner Spießbraten über Buchenfeuer.",
             "hu": "Kóstolja meg a bükkfaparázson sült helyi nyársas húst.",
             "ro": "Încercați friptura locală la proțap pe foc de fag.",
-            "en": "Try the local spit-roast prepared over beechwood fire."
+            "en": "Try the local spit-roast prepared over beechwood fire.",
+            "tr": "Kayın odunu ateşinde hazırlanan yerel şiş kebabı deneyin."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Ein modernes Kulturzentrum inmitten der historischen Stadt.",
             "hu": "Modern kulturális központ a történelmi város közepén.",
             "ro": "Un centru cultural modern în mijlocul orașului istoric.",
-            "en": "A modern cultural center in the middle of the historic town."
+            "en": "A modern cultural center in the middle of the historic town.",
+            "tr": "Tarihi kasaba ortasında modern bir kültür merkezi."
           }
         }
       ],
@@ -135,7 +141,8 @@
         "de": "Der Tag beginnt im Mineralienmuseum, gefolgt vom Aufstieg zur ikonischen Felsenkirche. Nach der Erkundung der Burgruinen Bosselstein und dem Schloss Oberstein genießen Sie die lokale Küche am Marktplatz. Ein entspannter Spaziergang zum Stadttheater schließt den Tag ab.",
         "hu": "A nap az Ásványmúzeumban kezdődik, majd következik az ikonikus sziklatemplom megmászása. Bosselstein várromja és az Oberstein-kastély után a főtéren élvezheti a helyi konyhát. Egy pihentető séta a Városi Színházhoz zárja a napot.",
         "ro": "Ziua începe la Muzeul Mineralelor, urmată de urcarea la emblematica biserică în stâncă. După explorarea ruinelor Bosselstein și a castelului Oberstein, savurați bucătăria locală în piață. O plimbare relaxantă spre teatrul orașului încheie ziua.",
-        "en": "The day starts at the Mineral Museum, followed by a climb to the iconic Rock Church. After exploring Bosselstein ruins and Oberstein Castle, enjoy local cuisine in the market square. A relaxed walk to the City Theater concludes the day."
+        "en": "The day starts at the Mineral Museum, followed by a climb to the iconic Rock Church. After exploring Bosselstein ruins and Oberstein Castle, enjoy local cuisine in the market square. A relaxed walk to the City Theater concludes the day.",
+        "tr": "Gün Mineraloji Müzesi’nde başlar, ardından ikonik Kaya Kilisesi’ne tırmanış gelir. Bosselstein harabeleri ve Oberstein Kalesi’ni keşfettikten sonra pazar meydanında yöresel mutfağın tadını çıkarın. Gün, Şehir Tiyatrosu’na yapılan rahat bir yürüyüşle sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -235,6 +242,10 @@
         "en": [
           "Wear sturdy shoes for the steep paths to the rock church.",
           "Museums are often closed on Mondays."
+        ],
+        "tr": [
+          "Kaya kilisesine giden dik patikalar için sağlam ayakkabı giyin.",
+          "Müzeler genellikle Pazartesi günleri kapalıdır."
         ]
       }
     },
@@ -262,7 +273,8 @@
             "de": "Sehen Sie, wie Edelsteine mit Wasserkraft geschliffen wurden.",
             "hu": "Nézze meg, hogyan csiszolták a köveket vízi erővel.",
             "ro": "Vedeți cum erau șlefuite pietrele folosind forța apei.",
-            "en": "See how gemstones were ground using water power."
+            "en": "See how gemstones were ground using water power.",
+            "tr": "Değerli taşların su gücüyle nasıl öğütüldüğünü görün."
           }
         },
         {
@@ -281,7 +293,8 @@
             "de": "Einzige für Besucher zugängliche Edelsteinmine Europas.",
             "hu": "Európa egyetlen látogatható drágakőbányája.",
             "ro": "Singura mină de nestemate din Europa deschisă vizitatorilor.",
-            "en": "The only gemstone mine in Europe open to visitors."
+            "en": "The only gemstone mine in Europe open to visitors.",
+            "tr": "Ziyarete açık Avrupa’daki tek değerli taş madeni."
           }
         },
         {
@@ -300,7 +313,8 @@
             "de": "Umfassende Sammlung in einer prachtvollen Gründerzeitvilla.",
             "hu": "Átfogó gyűjtemény egy pompás neobarokk villában.",
             "ro": "Colecție vastă într-o vilă splendidă din epoca fondatoare.",
-            "en": "Comprehensive collection in a magnificent historicist villa."
+            "en": "Comprehensive collection in a magnificent historicist villa.",
+            "tr": "Muhteşem bir tarihselci villada kapsamlı koleksiyon."
           }
         },
         {
@@ -319,7 +333,8 @@
             "de": "Stärken Sie sich im Stadtteil Idar vor der Weiterfahrt.",
             "hu": "Frissüljön fel Idar városrészben a folytatás előtt.",
             "ro": "Reîncărcați-vă bateriile în cartierul Idar înainte de plecare.",
-            "en": "Refuel in the Idar district before continuing your ride."
+            "en": "Refuel in the Idar district before continuing your ride.",
+            "tr": "Sürüşe devam etmeden önce Idar mahallesinde yakıt/enerji ikmali yapın."
           }
         },
         {
@@ -338,7 +353,8 @@
             "de": "Flache Strecke entlang des Flusses Richtung Oberstein.",
             "hu": "Lapos szakasz a folyó mentén Oberstein irányába.",
             "ro": "Traseu plat de-a lungul râului spre Oberstein.",
-            "en": "Flat stretch along the river towards Oberstein."
+            "en": "Flat stretch along the river towards Oberstein.",
+            "tr": "Oberstein yönünde nehir boyunca düz bir bölüm."
           }
         },
         {
@@ -357,7 +373,8 @@
             "de": "Ziel der Tour unterhalb der Felsenkirche.",
             "hu": "A túra célpontja közvetlenül a sziklatemplom alatt.",
             "ro": "Destinația turului sub biserica în stâncă.",
-            "en": "The tour destination just below the rock church."
+            "en": "The tour destination just below the rock church.",
+            "tr": "Kaya kilisesinin hemen altındaki gezi hedefi."
           }
         }
       ],
@@ -365,7 +382,8 @@
         "de": "Diese Radtour verbindet die industrielle Geschichte an der Weiherschleife mit der Geologie der Edelsteinminen. Nach dem Besuch des großen Edelsteinmuseums radeln Sie entspannt am Fluss Nahe entlang bis zum historischen Zentrum von Oberstein.",
         "hu": "Ez a kerékpártúra összeköti a Weiherschleife ipari múltját a drágakőbányák geológiájával. A nagy Drágakőmúzeum megtekintése után kényelmesen kerekezhet a Nahe folyó mentén Oberstein történelmi központjáig.",
         "ro": "Acest tur pe bicicletă îmbină istoria industrială de la Weiherschleife cu geologia minelor de nestemate. După vizitarea marelui muzeu, pedalați relaxat de-a lungul râului Nahe până în centrul istoric din Oberstein.",
-        "en": "This bike tour connects industrial history at Weiherschleife with the geology of the gemstone mines. After visiting the grand Gemstone Museum, enjoy a relaxed ride along the Nahe river to the historic center of Oberstein."
+        "en": "This bike tour connects industrial history at Weiherschleife with the geology of the gemstone mines. After visiting the grand Gemstone Museum, enjoy a relaxed ride along the Nahe river to the historic center of Oberstein.",
+        "tr": "Bu bisiklet turu Weiherschleife’deki sanayi tarihini taş ocağı jeolojisiyle birleştirir. Görkemli Taşlımüzesi'ni ziyaret ettikten sonra Nahe nehri boyunca rahat bir sürüşle Oberstein’in tarihi merkezine ulaşın."
       },
       "gastro_picks": {
         "de": [
@@ -465,6 +483,10 @@
         "en": [
           "The path to Steinkaulenberg has some inclines.",
           "Use a bike lock at the Gemstone Museum."
+        ],
+        "tr": [
+          "Steinkaulenberg’e giden yol bazı eğimleri içerir.",
+          "Taşlımüzesi’nde bisiklet kilidi kullanın."
         ]
       }
     },
@@ -492,7 +514,8 @@
             "de": "Tragen Sie warme Kleidung (ca. 8-10 Grad im Stollen).",
             "hu": "Viseljen meleg ruhát (kb. 8-10 fok van odabent).",
             "ro": "Purtați haine groase (cca. 8-10 grade în galerie).",
-            "en": "Wear warm clothing (approx. 8-10 degrees Celsius inside)."
+            "en": "Wear warm clothing (approx. 8-10 degrees Celsius inside).",
+            "tr": "Sıcak tutacak kıyafet giyin (içeride yaklaşık 8–10 °C)."
           }
         },
         {
@@ -511,7 +534,8 @@
             "de": "Direkt am Weiher gelegen, idyllischer Parkplatz.",
             "hu": "Közvetlenül a tó partján, idilli parkolóhely.",
             "ro": "Situată chiar lângă iaz, parcare idilică.",
-            "en": "Located right by the pond, idyllic parking spot."
+            "en": "Located right by the pond, idyllic parking spot.",
+            "tr": "Göletin hemen yanında, huzurlu park yeri."
           }
         },
         {
@@ -530,7 +554,8 @@
             "de": "Parkplatz direkt vor dem Museum verfügbar.",
             "hu": "Parkolóhely közvetlenül a múzeum előtt.",
             "ro": "Loc de parcare disponibil chiar în fața muzeului.",
-            "en": "Parking available directly in front of the museum."
+            "en": "Parking available directly in front of the museum.",
+            "tr": "Müzenin tam önünde otopark mevcut."
           }
         },
         {
@@ -549,7 +574,8 @@
             "de": "Parken Sie im Parkhaus am Marktplatz für den Stadtbummel.",
             "hu": "Parkoljon a főtéri parkolóházban a városi sétához.",
             "ro": "Parcați în parcarea supraetajată din piață pentru plimbare.",
-            "en": "Park in the multi-story car park for the town walk."
+            "en": "Park in the multi-story car park for the town walk.",
+            "tr": "Şehir gezisi için çok katlı otoparkı kullanın."
           }
         },
         {
@@ -568,7 +594,8 @@
             "de": "Vom Parkhaus aus zu Fuß erreichbar.",
             "hu": "A parkolóháztól gyalogosan elérhető.",
             "ro": "Accesibilă pe jos din parcarea supraetajată.",
-            "en": "Accessible on foot from the parking garage."
+            "en": "Accessible on foot from the parking garage.",
+            "tr": "Otoparktan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -587,7 +614,8 @@
             "de": "Kurzer, steiler Weg von der Felsenkirche weiter bergauf.",
             "hu": "Rövid, meredek út a sziklatemplomtól tovább felfelé.",
             "ro": "Drum scurt și abrupt de la biserică spre deal.",
-            "en": "Short, steep path further uphill from the rock church."
+            "en": "Short, steep path further uphill from the rock church.",
+            "tr": "Kaya kilisesinden daha yukarıya kısa, dik bir patika."
           }
         },
         {
@@ -606,7 +634,8 @@
             "de": "Letzter Blick über das Nahetal vor der Abfahrt.",
             "hu": "Utolsó pillantás a Nahe-völgyre a távozás előtt.",
             "ro": "Ultima vedere asupra văii Nahe înainte de plecare.",
-            "en": "Final view over the Nahe valley before departure."
+            "en": "Final view over the Nahe valley before departure.",
+            "tr": "Kalkıştan önce Nahe vadisi üzerine son manzara."
           }
         }
       ],
@@ -614,7 +643,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die etwas außerhalb gelegenen Minen und Schleifen. Danach parken Sie zentral in Oberstein, um die historischen Highlights wie die Felsenkirche und das Schloss zu Fuß zu erkunden. Der Tag verbindet Natur-Erlebnisse mit kulturellen Schätzen.",
         "hu": "Autóval kényelmesen elérheti a városon kívül fekvő bányákat és csiszolókat. Ezután parkoljon le Oberstein központjában, hogy gyalogosan fedezze fel a sziklatemplomot és a kastélyt. A nap a természeti élményeket ötvözi a kulturális kincsekkel.",
         "ro": "Cu mașina ajungeți ușor la minele și atelierele din afara orașului. Ulterior, parcați central în Oberstein pentru a explora pe jos biserica în stâncă și castelul. Ziua combină experiențele în natură cu tezaurele culturale.",
-        "en": "By car, you can easily reach the mines and grinding mills located outside town. Afterward, park centrally in Oberstein to explore the historic highlights like the rock church and castle on foot. The day blends nature experiences with cultural treasures."
+        "en": "By car, you can easily reach the mines and grinding mills located outside town. Afterward, park centrally in Oberstein to explore the historic highlights like the rock church and castle on foot. The day blends nature experiences with cultural treasures.",
+        "tr": "Arabayla, kasaba dışındaki madenlere ve taş değirmenlerine kolayca ulaşabilirsiniz. Sonrasında Oberstein’de merkezi bir yere park edip kaya kilisesi ve kale gibi tarihi noktaları yürüyerek keşfedin. Gün, doğa deneyimleriyle kültürel hazineleri harmanlar."
       },
       "gastro_picks": {
         "de": [
@@ -714,6 +744,10 @@
         "en": [
           "Use the 'Auf der Idar' parking garage; it's the most affordable.",
           "Be careful on the narrow streets of the old town."
+        ],
+        "tr": [
+          "En uygunu olan 'Auf der Idar' otoparkını kullanın.",
+          "Eski kentin dar sokaklarında dikkatli olun."
         ]
       }
     },
@@ -741,7 +775,8 @@
             "de": "Zentraler Knotenpunkt zwischen Idar und Oberstein.",
             "hu": "Idar és Oberstein közötti központi csomópont.",
             "ro": "Nod central între Idar și Oberstein.",
-            "en": "Central hub between the Idar and Oberstein districts."
+            "en": "Central hub between the Idar and Oberstein districts.",
+            "tr": "Idar ve Oberstein mahalleleri arasında merkezi nokta."
           }
         },
         {
@@ -760,7 +795,8 @@
             "de": "Nur 5 Minuten Fußweg vom Bahnhof Oberstein.",
             "hu": "Csak 5 perc séta az obersteini vasútállomástól.",
             "ro": "La doar 5 minute de mers pe jos de gară.",
-            "en": "Just a 5-minute walk from the Oberstein station."
+            "en": "Just a 5-minute walk from the Oberstein station.",
+            "tr": "Oberstein istasyonuna sadece 5 dakikalık yürüme mesafesi."
           }
         },
         {
@@ -779,7 +815,8 @@
             "de": "Beide Ziele lassen sich hervorragend zu Fuß kombinieren.",
             "hu": "A két célpont gyalogosan remekül kombinálható.",
             "ro": "Ambele obiective pot fi combinate excelent pe jos.",
-            "en": "Both sights can be perfectly combined on foot."
+            "en": "Both sights can be perfectly combined on foot.",
+            "tr": "Her iki görülecek yer yürüyerek mükemmel şekilde birleştirilebilir."
           }
         },
         {
@@ -798,7 +835,8 @@
             "de": "Linie 801 verbindet die Stadtteile im 15-Minuten-Takt.",
             "hu": "A 801-es busz 15 percenként köti össze a városrészeket.",
             "ro": "Linia 801 face legătura între cartiere la fiecare 15 minute.",
-            "en": "Bus line 801 connects the districts every 15 minutes."
+            "en": "Bus line 801 connects the districts every 15 minutes.",
+            "tr": "801 numaralı otobüs hattı mahalleleri her 15 dakikada bir bağlar."
           }
         },
         {
@@ -817,7 +855,8 @@
             "de": "Rückfahrt zum Bahnhof bequem per Bus möglich.",
             "hu": "A visszatérés az állomásra kényelmesen, busszal megoldható.",
             "ro": "Întoarcerea la gară se poate face ușor cu autobuzul.",
-            "en": "Return to the station is easily possible by bus."
+            "en": "Return to the station is easily possible by bus.",
+            "tr": "İstasyona dönüş otobüsle kolayca mümkün."
           }
         }
       ],
@@ -825,7 +864,8 @@
         "de": "Dank der dichten Bustaktung lassen sich Oberstein und Idar perfekt ohne Auto verbinden. Nach der Ankunft am Bahnhof erkunden Sie das Zentrum von Oberstein zu Fuß, bevor Sie mit dem Bus nach Idar zum großen Edelsteinmuseum fahren.",
         "hu": "A sűrű buszjáratoknak köszönhetően Oberstein és Idar tökéletesen összeköthető autó nélkül is. Az állomásra érkezés után gyalog fedezze fel Oberstein központját, majd busszal menjen át Idarba a nagy Drágakőmúzeumhoz.",
         "ro": "Datorită frecvenței mari a autobuzelor, Oberstein și Idar pot fi conectate perfect fără mașină. După sosirea la gară, explorați centrul pe jos, apoi luați autobuzul spre Idar pentru marele muzeu.",
-        "en": "Thanks to the frequent bus service, Oberstein and Idar can be perfectly combined without a car. After arriving at the station, explore the center of Oberstein on foot before taking a bus to Idar for the grand Gemstone Museum."
+        "en": "Thanks to the frequent bus service, Oberstein and Idar can be perfectly combined without a car. After arriving at the station, explore the center of Oberstein on foot before taking a bus to Idar for the grand Gemstone Museum.",
+        "tr": "Sık otobüs seferleri sayesinde Oberstein ve Idar arabasız rahatça birleştirilebilir. İstasyona vardıktan sonra önce Oberstein merkezini yürüyerek keşfedin, ardından görkemli Taşlımüzesi için Idar’a otobüsle geçin."
       },
       "gastro_picks": {
         "de": [
@@ -925,6 +965,10 @@
         "en": [
           "Buy a day ticket for the city bus.",
           "Buses depart from the station square."
+        ],
+        "tr": [
+          "Şehir içi otobüs için günlük bilet alın.",
+          "Otobüsler istasyon meydanından kalkar."
         ]
       }
     }

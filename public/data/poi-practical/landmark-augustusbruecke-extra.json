@@ -3,55 +3,64 @@
     "de": "Augustusbrücke, 01067 Dresden",
     "hu": "Augustusbrücke, 01067 Dresden",
     "ro": "Augustusbrücke, 01067 Dresden",
-    "en": "Augustusbrücke, 01067 Dresden"
+    "en": "Augustusbrücke, 01067 Dresden",
+    "tr": "Augustusbrücke, 01067 Dresden"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "0-24",
     "ro": "Non-stop",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "7/24"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.dresden.de",
   "publicTransport": {
     "de": "Straßenbahn Linien 4, 8, 9 bis Theaterplatz",
     "hu": "4-es, 8-as, 9-es villamos a Theaterplatzig",
     "ro": "Tramvai liniile 4, 8, 9 până la Theaterplatz",
-    "en": "Tram lines 4, 8, 9 to Theaterplatz"
+    "en": "Tram lines 4, 8, 9 to Theaterplatz",
+    "tr": "Tramvay hatları 4, 8, 9 ile Theaterplatz"
   },
   "parking": {
     "de": "Tiefgarage Semperoper oder Parkplatz Altmarkt (ca. 2-3€/Std.).",
     "hu": "Semperoper mélygarázs vagy Altmarkt parkoló (kb. 2-3 €/óra)",
     "ro": "Parcare subterană Semperoper sau parcare Altmarkt (aprox. 2-3 €/oră)",
-    "en": "Semperoper underground parking or Altmarkt parking (approx. €2-3/hr)"
+    "en": "Semperoper underground parking or Altmarkt parking (approx. €2-3/hr)",
+    "tr": "Semperoper yeraltı otoparkı veya Altmarkt otoparkı (yaklaşık €2-3/sa)"
   },
   "accessibility": {
     "de": "Ebenerdig und für Rollstuhlfahrer sowie Kinderwagen problemlos nutzbar.",
     "hu": "Szintbeli, kerekesszékesek és babakocsik számára problémamentesen használható.",
     "ro": "Accesibil la nivelul solului, utilizabil fără probleme pentru scaune cu rotile și cărucioare.",
-    "en": "Accessible at ground level, easy to use for wheelchair users and strollers."
+    "en": "Accessible at ground level, easy to use for wheelchair users and strollers.",
+    "tr": "Zemin seviyesinde erişilebilir, tekerlekli sandalye kullanıcıları ve bebek arabaları için kullanımı kolay."
   },
   "photoRules": {
     "de": "Erlaubt, bester Spot für das klassische Dresden-Panorama (Canaletto-Blick).",
     "hu": "Megengedett, a legjobb helyszín a klasszikus Drezda-panorámához (Canaletto-kilátás).",
     "ro": "Permis, cel mai bun loc pentru panorama clasică a Dresdei (vederea Canaletto).",
-    "en": "Allowed, best spot for the classic Dresden panorama (Canaletto view)."
+    "en": "Allowed, best spot for the classic Dresden panorama (Canaletto view).",
+    "tr": "İzinli, klasik Dresden panoraması (Canaletto manzarası) için en iyi nokta."
   },
   "bestTimeToVisit": {
     "de": "Sonnenuntergang für die goldene Stunde über der Elbfront.",
     "hu": "Napnyugtakor az arany óráért az Elba-part fölött.",
     "ro": "La apus pentru ora de aur deasupra malului Elbei.",
-    "en": "Sunset for the golden hour over the Elbe riverfront."
+    "en": "Sunset for the golden hour over the Elbe riverfront.",
+    "tr": "Elbe nehir kıyısında altın saat için gün batımı."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

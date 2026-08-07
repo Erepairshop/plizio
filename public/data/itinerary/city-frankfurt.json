@@ -21,7 +21,8 @@
             "de": "Römerberg",
             "hu": "Römerberg tér",
             "ro": "Piața Römerberg",
-            "en": "Römerberg Square"
+            "en": "Römerberg Square",
+            "tr": "Römerberg Meydanı"
           },
           "coords": [
             8.682222,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die ikonischen Fachwerkhäuser im historischen Herzen Frankfurts und kommen Sie früh, um den Gerechtigkeitsbrunnen ohne Menschenmassen zu fotografieren.",
             "hu": "Csodálja meg Frankfurt történelmi szívének ikonikus favázas házait, és érkezzen korán, hogy tömeg nélkül fotózhassa le az Igazság kútját.",
             "ro": "Admirați casele emblematice cu structură din lemn din inima istorică a Frankfurtului și sosiți devreme pentru a fotografia Fântâna Justiției fără aglomerație.",
-            "en": "Admire the iconic timber-framed houses of Frankfurt's historic heart and arrive early to photograph the Justice Fountain without the dense tourist crowds."
+            "en": "Admire the iconic timber-framed houses of Frankfurt's historic heart and arrive early to photograph the Justice Fountain without the dense tourist crowds.",
+            "tr": "Frankfurt'un tarihî kalbindeki ikonik yarı ahşap evlere hayran kalın ve Adalet Çeşmesi'ni yoğun turist kalabalığı olmadan fotoğraflamak için erken gelin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kaiserdom St. Bartholomäus",
             "hu": "Császári dóm",
             "ro": "Catedrala Imperială",
-            "en": "Imperial Cathedral"
+            "en": "Imperial Cathedral",
+            "tr": "İmparatorluk Katedrali"
           },
           "coords": [
             8.685,
@@ -59,7 +62,8 @@
             "de": "Bestaunen Sie die rote Sandsteinarchitektur dieser historischen Wahlstätte und prüfen Sie die Zeiten, um den Turm für eine kleine Gebühr zu besteigen.",
             "hu": "Gyönyörködjön e történelmi választási helyszín vörös homokkő építészetében, és ellenőrizze a nyitvatartást, ha egy kis díj ellenében megmászná a tornyot.",
             "ro": "Minunați-vă de arhitectura din gresie roșie a acestui sit istoric electoral și verificați programul pentru a urca în turn contra unei taxe modeste.",
-            "en": "Marvel at the soaring red sandstone architecture of this historic election site, and check the schedule to optionally climb the tower for a modest fee."
+            "en": "Marvel at the soaring red sandstone architecture of this historic election site, and check the schedule to optionally climb the tower for a modest fee.",
+            "tr": "Bu tarihî seçim yerinin yükselen kırmızı kumtaşı mimarisine hayran kalın ve isteğe bağlı olarak makul bir ücret karşılığında kuleye tırmanmak için programı kontrol edin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Die Schmiere",
             "hu": "Die Schmiere színház",
             "ro": "Teatrul Die Schmiere",
-            "en": "Die Schmiere Theater"
+            "en": "Die Schmiere Theater",
+            "tr": "Die Schmiere Tiyatrosu"
           },
           "coords": [
             8.677385,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie dieses legendäre satirische Kellertheater in einem ehemaligen Kloster und prüfen Sie das Abendprogramm für authentischen lokalen Humor.",
             "hu": "Fedezze fel ezt a legendás szatirikus színházat egy kolostor pincéjében, és nézze meg az esti műsort, ha igazi helyi humort szeretne tapasztalni.",
             "ro": "Descoperiți acest legendar teatru satiric subteran găzduit în subsolul unei mănăstiri și verificați programul de seară pentru a experimenta umorul local autentic.",
-            "en": "Discover this legendary underground satirical theater housed in a convent's basement, and check their evening program if you want to experience authentic local humor."
+            "en": "Discover this legendary underground satirical theater housed in a convent's basement, and check their evening program if you want to experience authentic local humor.",
+            "tr": "Bu efsanevi yer altı hiciv tiyatrosunu bir manastır bodrumunda keşfedin ve otantik yerel mizahı deneyimlemek isterseniz akşam programlarını kontrol edin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Goethe-Haus",
             "hu": "Goethe-ház",
             "ro": "Casa Goethe",
-            "en": "Goethe House"
+            "en": "Goethe House",
+            "tr": "Goethe Evi"
           },
           "coords": [
             8.677667,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie das detailgetreu rekonstruierte Geburtshaus von Deutschlands berühmtestem Schriftsteller und buchen Sie Tickets vorab online, um Schlangen zu vermeiden.",
             "hu": "Fedezze fel Németország leghíresebb írójának gondosan rekonstruált szülőházát, és foglalja le jegyeit online, hogy elkerülje a hosszú sorban állást a bejáratnál.",
             "ro": "Explorați casa natală meticulos reconstruită a celui mai faimos scriitor al Germaniei și rezervați-vă biletele online pentru a evita cozile lungi la intrare.",
-            "en": "Explore the meticulously reconstructed birthplace of Germany's most famous writer and pre-book your tickets online to avoid long queues at the entrance."
+            "en": "Explore the meticulously reconstructed birthplace of Germany's most famous writer and pre-book your tickets online to avoid long queues at the entrance.",
+            "tr": "Almanya'nın en ünlü yazarı olan Goethe'nin titizlikle yeniden inşa edilmiş doğduğu evi keşfedin ve girişte uzun kuyruklardan kaçınmak için biletlerinizi çevrimiçi önceden alın."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Main Tower",
             "hu": "Main Tower",
             "ro": "Main Tower",
-            "en": "Main Tower"
+            "en": "Main Tower",
+            "tr": "Main Tower"
           },
           "coords": [
             8.672222,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie den atemberaubenden Panoramablick auf die Skyline des Finanzviertels und bringen Sie eine Windjacke mit, da es oben sehr zugig sein kann.",
             "hu": "Élvezze a pénzügyi negyed felhőkarcolóira nyíló lélegzetelállító panorámát a kilátóból, és hozzon magával széldzsekit, mert odafent nagyon szeles lehet.",
             "ro": "Bucurați-vă de o panoramă uluitoare a zgârie-norilor din districtul financiar de pe puntea de observație și aduceți o jachetă, deoarece poate fi foarte vânt.",
-            "en": "Enjoy a breathtaking panoramic view of the financial district's skyline from the observation deck, bringing a windbreaker since it can get very breezy up top."
+            "en": "Enjoy a breathtaking panoramic view of the financial district's skyline from the observation deck, bringing a windbreaker since it can get very breezy up top.",
+            "tr": "Gözlem güvertesinden finans merkezinin çarpıcı bir panoramik manzarasının keyfini çıkarın; üst katlarda rüzgarlı olabileceği için rüzgarlık getirin."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Alte Oper",
             "hu": "Régi Opera",
             "ro": "Vechea Operă",
-            "en": "Old Opera House"
+            "en": "Old Opera House",
+            "tr": "Eski Opera Binası"
           },
           "coords": [
             8.671944,
@@ -151,7 +162,8 @@
             "de": "Betrachten Sie die prächtige Neorenaissance-Fassade dieses Konzerthauses und entspannen Sie auf einer Bank am Platz, um die elegante Atmosphäre aufzusaugen.",
             "hu": "Tekintse meg ennek a lenyűgöző koncertteremnek a neoreneszánsz homlokzatát, és pihenjen meg a téri padokon, hogy magába szívja az elegáns atmoszférát.",
             "ro": "Admirați fațada magnifică în stil neorenascentist a acestei săli de concerte și relaxați-vă pe o bancă în piața înconjurătoare pentru a absorbi atmosfera elegantă.",
-            "en": "Take in the magnificent Renaissance Revival facade of this premier concert hall, and relax on a bench in the surrounding square to soak up the elegant atmosphere."
+            "en": "Take in the magnificent Renaissance Revival facade of this premier concert hall, and relax on a bench in the surrounding square to soak up the elegant atmosphere.",
+            "tr": "Bu seçkin konser salonunun muhteşem Rönesans Yeniden Doğuş cephesini izleyin ve çevredeki meydandaki bir bankta oturup zarif atmosferin tadını çıkarın."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Morgen am historischen Römerberg und der beeindruckenden Kaiserdom. Mittags geht es weiter zur Kultur in der Schmiere, bevor Sie in die literarische Geschichte des Goethe-Hauses eintauchen. Verbringen Sie den Nachmittag mit dem Panoramablick vom Main Tower. Beenden Sie Ihre Tour entspannt an der eleganten Alten Oper, während die Abenddämmerung hereinbricht.",
         "hu": "Kezdje a reggelt a történelmi Römerberg és a lenyűgöző császári dóm felfedezésével. Délben egy kis helyi kultúra vár a Die Schmiere színháznál, mielőtt elmerülne a Goethe-ház irodalmi történetében. A délutánt a Main Tower kilátóján töltheti a felhőkarcolók panorámájával. Sétáját az elegáns Régi Opera közelében megpihenve zárja az este közeledtével.",
         "ro": "Începeți dimineața explorând istoricul Römerberg și superba Catedrală Imperială. La prânz vă îndreptați spre teatrul Die Schmiere, înainte de a descoperi istoria literară la Casa Goethe. Petreceți după-amiaza bucurându-vă de panoramele zgârie-norilor de la Main Tower. Încheiați turul pietonal relaxându-vă lângă eleganta Veche Operă, odată cu lăsarea serii.",
-        "en": "Start your morning exploring the historic Römerberg and the stunning Imperial Cathedral. Midday brings a shift towards culture at Die Schmiere before diving into the literary history of the Goethe House. Spend your afternoon enjoying panoramic skyline views from the Main Tower observation deck. Conclude your walking tour by relaxing near the elegant Old Opera House as evening falls."
+        "en": "Start your morning exploring the historic Römerberg and the stunning Imperial Cathedral. Midday brings a shift towards culture at Die Schmiere before diving into the literary history of the Goethe House. Spend your afternoon enjoying panoramic skyline views from the Main Tower observation deck. Conclude your walking tour by relaxing near the elegant Old Opera House as evening falls.",
+        "tr": "Sabahınızı tarihi Römerberg'i ve görkemli İmparatorluk Katedrali'ni keşfederek başlatın. Öğle vakti kültüre yönelip Die Schmiere'de vakit geçirin, ardından Goethe Evi'nin edebi tarihine dalın. Öğleden sonra Main Tower gözlem güvertesinden panoramik kent manzaralarının tadını çıkarın. Yürüyüş turunuzu akşam yaklaşırken Eski Opera Binası yakınlarında dinlenerek sonlandırın."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Starten Sie am Römerberg und suchen Sie bald Schutz im Kaiserdom. Genießen Sie mittags das Theater Die Schmiere und das Goethe-Haus im Trockenen. Nachmittags bietet der Main Tower vielleicht weniger Weitsicht, aber die Alte Oper entschädigt mit glanzvollem Innenraum. Regenschirm und rutschfeste Schuhe nicht vergessen!",
             "hu": "Kezdje a Römerbergen, majd keressen menedéket a Császári dómban. Délben élvezze a fedett Die Schmiere színházat és a Goethe-házat. Délután a Main Tower kilátása az eső miatt korlátozott lehet, de az esti Régi Opera belső tere kárpótolja. Ne felejtsen el esernyőt és csúszásmentes cipőt vinni a nedves macskakövekre!",
             "ro": "Începeți la Römerberg, apoi adăpostiți-vă în Catedrala Imperială. La prânz, bucurați-vă de teatrul Die Schmiere și Casa Goethe la interior. După-amiaza, Turnul Main are vizibilitate redusă, dar interiorul Vechii Opere este perfect. Luați o umbrelă și încălțăminte antiderapantă pentru piatra cubică umedă!",
-            "en": "Start at Römerberg and quickly seek shelter in the Imperial Cathedral. At noon, enjoy the indoor Die Schmiere theater and the Goethe House. In the afternoon, the Main Tower's views might be limited by rain, but the Old Opera offers a stunning indoor finale. Bring an umbrella and slip-resistant shoes!"
+            "en": "Start at Römerberg and quickly seek shelter in the Imperial Cathedral. At noon, enjoy the indoor Die Schmiere theater and the Goethe House. In the afternoon, the Main Tower's views might be limited by rain, but the Old Opera offers a stunning indoor finale. Bring an umbrella and slip-resistant shoes!",
+            "tr": "Römerberg'de başlayın ve hızla İmparatorluk Katedrali'nde sığınak arayın. Öğle saatlerinde kapalı mekan Die Schmiere tiyatrosu ve Goethe Evi'nin keyfini çıkarın. Öğleden sonra Main Tower manzaraları yağmurla sınırlanabilir, ancak Eski Opera çarpıcı bir kapalı final sunar. Bir şemsiye ve kaymaz tabanlı ayakkabılar getirin!"
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Römerberg",
                 "hu": "Römerberg tér",
                 "ro": "Piața Römerberg",
-                "en": "Römerberg Square"
+                "en": "Römerberg Square",
+                "tr": "Römerberg Meydanı"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die historischen Fachwerkhäuser kurz unter dem Regenschirm, aber achten Sie auf das nasse, rutschige Kopfsteinpflaster auf dem Platz.",
                 "hu": "Csodálja meg a történelmi favázas házakat az esernyője alól, de lépjen óvatosan, mert a vizes macskakő nagyon csúszós tud lenni.",
                 "ro": "Admirați rapid casele istorice cu cadru de lemn de sub umbrelă, dar pășiți cu grijă, deoarece piatra cubică umedă devine foarte alunecoasă.",
-                "en": "Admire the beautifully restored timber-framed houses quickly from under your umbrella, but step carefully as the wet cobblestones become quite slippery."
+                "en": "Admire the beautifully restored timber-framed houses quickly from under your umbrella, but step carefully as the wet cobblestones become quite slippery.",
+                "tr": "Islak taş döşemesinin oldukça kaygan hale geldiği için şemsiyenizin altından hızlıca güzelce restore edilmiş kerpiç evleri izleyin, ama dikkatli adım atın."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Kaiserdom St. Bartholomäus",
                 "hu": "Császári dóm",
                 "ro": "Catedrala Imperială",
-                "en": "Imperial Cathedral"
+                "en": "Imperial Cathedral",
+                "tr": "İmparatorluk Katedrali"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um sich abzutrocknen und die gotische Architektur zu bewundern; das riesige Kirchenschiff ist ein perfekter Zufluchtsort vor dem Regen.",
                 "hu": "Lépjen be, hogy megszáradjon és megcsodálja a gótikus építészetet; a hatalmas főhajó tökéletes és csendes menedék a kinti felhőszakadás elől.",
                 "ro": "Intrați pentru a vă usca și a admira arhitectura gotică grandioasă; naosul vast este un refugiu perfect și liniștit din calea ploii torențiale.",
-                "en": "Step inside to dry off and marvel at the grand gothic architecture; the vast, echoing nave is a perfect and peaceful refuge from the heavy downpour."
+                "en": "Step inside to dry off and marvel at the grand gothic architecture; the vast, echoing nave is a perfect and peaceful refuge from the heavy downpour.",
+                "tr": "İçeri girip kurulan ve büyük gotik mimariye hayran kalın; geniş yankılı nef, yoğun sağanak yağıştan kaçmak için mükemmel ve huzurlu bir sığınaktır."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Die Schmiere",
                 "hu": "Die Schmiere színház",
                 "ro": "Teatrul Die Schmiere",
-                "en": "Die Schmiere Theater"
+                "en": "Die Schmiere Theater",
+                "tr": "Die Schmiere Tiyatrosu"
               },
               "tip_5lang": {
                 "de": "Genießen Sie eine gemütliche, trockene Pause in diesem bekannten satirischen Kellertheater; die lebhafte Atmosphäre lässt Sie den Regen vergessen.",
                 "hu": "Élvezze a hangulatos, száraz pihenőt ebben a híres szatirikus pinczeszínházban; a vidám benti légkör teljesen elfeledteti a kinti rossz időt.",
                 "ro": "Bucurați-vă de o pauză confortabilă și uscată în acest renumit teatru satiric la subsol; atmosfera plină de viață vă face să uitați de ploaie.",
-                "en": "Enjoy a cozy, dry break in this renowned satirical basement theater; the lively indoor atmosphere will make you completely forget the gloomy weather."
+                "en": "Enjoy a cozy, dry break in this renowned satirical basement theater; the lively indoor atmosphere will make you completely forget the gloomy weather.",
+                "tr": "Bu ünlü taşraaltı (bodrum) hiciv tiyatrosunda rahat, kuru bir mola verin; canlı kapalı atmosfer kasvetli havayı tamamen unutturacaktır."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Goethe-Haus",
                 "hu": "Goethe-ház",
                 "ro": "Casa Goethe",
-                "en": "Goethe House"
+                "en": "Goethe House",
+                "tr": "Goethe Evi"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie ausreichend Zeit in den historischen Räumen, in denen Goethe lebte; eine ideale und trockene Indoor-Aktivität für einen nassen Nachmittag.",
                 "hu": "Töltsön el sok időt Goethe egykori otthonának történelmi szobáiban; ez a múzeum ideális és száraz beltéri program egy esős délutánra.",
                 "ro": "Petreceți timp explorând camerele istorice în care a trăit Goethe; este o activitate ideală și uscată la interior pentru o după-amiază ploioasă.",
-                "en": "Take your time exploring the historic rooms where Goethe once lived; it is an ideal and completely dry indoor activity for a rainy afternoon."
+                "en": "Take your time exploring the historic rooms where Goethe once lived; it is an ideal and completely dry indoor activity for a rainy afternoon.",
+                "tr": "Goethe'nin bir zamanlar yaşadığı tarihi odaları gezmek için zaman ayırın; yağmurlu bir öğleden sonra için ideal ve tamamen kapalı bir etkinliktir."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Main Tower",
                 "hu": "Main Tower",
                 "ro": "Main Tower",
-                "en": "Main Tower"
+                "en": "Main Tower",
+                "tr": "Main Tower"
               },
               "tip_5lang": {
                 "de": "Während die offene Plattform nass ist, bieten die verglasten Innenbereiche weiterhin dramatische, stimmungsvolle Panoramen der regnerischen Skyline.",
                 "hu": "Bár a nyitott kilátó nedves, a zárt belső terek továbbra is drámai és hangulatos panorámát nyújtanak az eső áztatta városi sziluettre.",
                 "ro": "Deși puntea deschisă este udă, zonele de vizionare interioare oferă totuși panorame dramatice și pline de atmosferă ale orizontului ploios.",
-                "en": "While the open-air deck is wet, the enclosed viewing areas still offer dramatic, moody panoramas of the rain-swept city skyline."
+                "en": "While the open-air deck is wet, the enclosed viewing areas still offer dramatic, moody panoramas of the rain-swept city skyline.",
+                "tr": "Açık hava güvertesi ıslak olsa da kapalı seyir alanları yağmurla yıkanmış kentin kasvetli, etkileyici panoramalarını sunmaya devam eder."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Alte Oper",
                 "hu": "Régi Opera",
                 "ro": "Vechea Operă",
-                "en": "Old Opera House"
+                "en": "Old Opera House",
+                "tr": "Eski Opera Binası"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Tag im prächtigen, trockenen Foyer dieses historischen Gebäudes und genießen Sie die Renaissance-Schönheit fernab der nassen Straßen.",
                 "hu": "Zárja a napot ennek a történelmi épületnek a lenyűgöző, száraz előcsarnokában, befogadva a reneszánsz szépséget, távol a vizes utcáktól.",
                 "ro": "Încheiați ziua în foaierul magnific și uscat al acestei clădiri istorice, admirând frumusețea renascentistă departe de străzile umede.",
-                "en": "End your day in the magnificent, dry foyer of this historic building, taking in its Renaissance beauty completely away from the wet streets."
+                "en": "End your day in the magnificent, dry foyer of this historic building, taking in its Renaissance beauty completely away from the wet streets.",
+                "tr": "Gününüzü bu tarihi binanın muhteşem, kuru fuayesinde bitirin ve Rönesans güzelliğini ıslak sokaklardan tamamen uzakta yaşayın."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Warme Kleidung ist Pflicht am Römerberg, bevor Sie sich im Kaiserdom aufwärmen. Mittags laden Die Schmiere und das Goethe-Haus ins Warme ein. Gegen 17:00 Uhr geht die Sonne unter: Der Main Tower bietet dann ein funkelndes Lichtermeer. Beenden Sie den kalten Wintertag in der wunderschön beleuchteten Alten Oper.",
             "hu": "A hideg Römerberg után melegedjen fel a Császári dómban. Délben a Die Schmiere és a Goethe-ház kínál fűtött menedéket. Délután 5 körül már sötétedik, így a Main Towerből gyönyörű kivilágított panoráma fogadja. Zárja a fagyos téli napot a lenyűgöző fényekben úszó Régi Opera meleg előcsarnokában. Réteges öltözködés ajánlott!",
             "ro": "Îmbrăcați-vă gros la Römerberg înainte de a vă încălzi în Catedrala Imperială. La prânz, Die Schmiere și Casa Goethe oferă refugii calde. Soarele apune pe la 17:00, transformând priveliștea de pe Turnul Main într-o mare de lumini. Încheiați ziua rece de iarnă admirând Vechea Operă frumos iluminată.",
-            "en": "Cold mornings at Römerberg call for warm layers before heading into the Cathedral. Midday offers cozy indoor warmth at Die Schmiere and Goethe House. By 17:00, the sun sets, transforming the Main Tower view into a sea of sparkling city lights. Finish the crisp winter day admiring the illuminated Old Opera."
+            "en": "Cold mornings at Römerberg call for warm layers before heading into the Cathedral. Midday offers cozy indoor warmth at Die Schmiere and Goethe House. By 17:00, the sun sets, transforming the Main Tower view into a sea of sparkling city lights. Finish the crisp winter day admiring the illuminated Old Opera.",
+            "tr": "Römerberg'de soğuk sabahlar, Katedrale gitmeden önce sıcak katmanlar giymeyi gerektirir. Öğle vakti Die Schmiere ve Goethe Evi'nde iç mekânın samimi sıcaklığı sizi karşılar. 17:00 civarında güneş batıp Main Tower manzarasını parıldayan şehir ışıkları denizine dönüştürür. Soğuk kış gününü aydınlatılmış Eski Opera'yı izleyerek tamamlayın."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Römerberg",
                 "hu": "Römerberg tér",
                 "ro": "Piața Römerberg",
-                "en": "Römerberg Square"
+                "en": "Römerberg Square",
+                "tr": "Römerberg Meydanı"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie sich warm an, um den frostigen Charme der Fassaden zu genießen, und flüchten Sie bei eisigem Wind rasch in ein nahegelegenes Café.",
                 "hu": "Öltözzön fel melegen, hogy élvezhesse a homlokzatok fagyos varázsát, és gyorsan húzódjon be egy kávézóba, ha feltámad a fagyos téli szél.",
                 "ro": "Îmbrăcați-vă gros pentru a vă bucura de farmecul înghețat al fațadelor, apoi retrageți-vă rapid la interior dacă vântul de iarnă se intensifică.",
-                "en": "Wrap up warmly to enjoy the frosty charm of the historic facades, then quickly head inside a nearby cafe if the freezing winter wind picks up."
+                "en": "Wrap up warmly to enjoy the frosty charm of the historic facades, then quickly head inside a nearby cafe if the freezing winter wind picks up.",
+                "tr": "Tarihi cephelerin donuk cazibesinin tadını çıkarmak için sıkıca sarının, sonra dondurucu kış rüzgarı şiddetlenirse yakındaki bir kafeye hızla girin."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Kaiserdom St. Bartholomäus",
                 "hu": "Császári dóm",
                 "ro": "Catedrala Imperială",
-                "en": "Imperial Cathedral"
+                "en": "Imperial Cathedral",
+                "tr": "İmparatorluk Katedrali"
               },
               "tip_5lang": {
                 "de": "Der Steinboden kann kühl sein, aber die ruhige Atmosphäre der Kathedrale ist an einem kalten Wintermorgen einzigartig und magisch.",
                 "hu": "A kőpadló hűvös lehet, de a katedrális békés, csendes atmoszférája egy hideg téli reggelen egyedülállóan varázslatos élményt nyújt.",
                 "ro": "Podelele din piatră pot fi reci, dar atmosfera senină și liniștită a catedralei este unică și magică într-o dimineață rece de iarnă.",
-                "en": "The stone floors can be chilly, but the serene, quiet atmosphere of the cathedral is uniquely magical and peaceful on a cold winter morning."
+                "en": "The stone floors can be chilly, but the serene, quiet atmosphere of the cathedral is uniquely magical and peaceful on a cold winter morning.",
+                "tr": "Taş zeminler serin olabilir, ancak katedralin sakin, sessiz atmosferi soğuk bir kış sabahında benzersiz şekilde büyülü ve huzurludur."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Die Schmiere",
                 "hu": "Die Schmiere színház",
                 "ro": "Teatrul Die Schmiere",
-                "en": "Die Schmiere Theater"
+                "en": "Die Schmiere Theater",
+                "tr": "Die Schmiere Tiyatrosu"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Hände auf und lachen Sie herzhaft in diesem beheizten Kellertheater, einer perfekten Zuflucht vor den eisigen Außentemperaturen.",
                 "hu": "Melegítse fel a kezét és nevessen egy jót ebben a fűtött pinczeszínházban, amely tökéletes menedék a fagyos kinti hőmérséklet elől.",
                 "ro": "Încălziți-vă mâinile și bucurați-vă de râsete în acest teatru încălzit la subsol, o evadare perfectă din temperaturile de îngheț de afară.",
-                "en": "Thaw your hands and enjoy some laughter in this warmly heated basement theater, a perfect cozy escape from the freezing outdoor temperatures."
+                "en": "Thaw your hands and enjoy some laughter in this warmly heated basement theater, a perfect cozy escape from the freezing outdoor temperatures.",
+                "tr": "Ellerinizi ısıtın ve bu sıcak ısıtmalı bodrum tiyatrosunda biraz kahkaha atın; dondurucu dış sıcaklıklardan mükemmel bir sığınaktır."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Goethe-Haus",
                 "hu": "Goethe-ház",
                 "ro": "Casa Goethe",
-                "en": "Goethe House"
+                "en": "Goethe House",
+                "tr": "Goethe Evi"
               },
               "tip_5lang": {
                 "de": "Schlendern Sie durch die gut erhaltenen, beheizten Räume dieses historischen Hauses, die einen warmen Einblick ins 18. Jahrhundert bieten.",
                 "hu": "Barangoljon ennek a történelmi háznak a jól karbantartott, fűtött szobáiban, amelyek meleg bepillantást engednek a 18. századi életbe.",
                 "ro": "Plimbați-vă prin camerele bine conservate și încălzite ale acestei case istorice, oferind o privire caldă asupra vieții din secolul al XVIII-lea.",
-                "en": "Roam the well-preserved, heated rooms of this historic house, offering a warm and fascinating glimpse into comfortable 18th-century life."
+                "en": "Roam the well-preserved, heated rooms of this historic house, offering a warm and fascinating glimpse into comfortable 18th-century life.",
+                "tr": "İyi korunmuş, ısıtmalı odalarda gezin; bu tarihi ev, 18. yüzyıl yaşamına sıcak ve ilgi çekici bir bakış sunar."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Main Tower",
                 "hu": "Main Tower",
                 "ro": "Main Tower",
-                "en": "Main Tower"
+                "en": "Main Tower",
+                "tr": "Main Tower"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie sich für die Aussichtsplattform warm an; der frühe Sonnenuntergang gegen 17 Uhr über der beleuchteten Stadt ist spektakulär.",
                 "hu": "Öltözzön fel melegen a kilátóhoz; a kora esti, 17:00 óra körüli naplemente a kivilágított város felett igazán lenyűgöző látványt nyújt.",
                 "ro": "Îmbrăcați-vă gros pentru puntea de observație; apusul devreme, în jur de ora 17:00, oferă o vedere spectaculoasă a orașului iluminat.",
-                "en": "Dress warmly for the observation deck; catching the early 5 PM sunset over the brightly illuminated city skyline is truly spectacular."
+                "en": "Dress warmly for the observation deck; catching the early 5 PM sunset over the brightly illuminated city skyline is truly spectacular.",
+                "tr": "Gözlem güvertesi için sıkı giyinin; erken saat 17:00 civarındaki gün batımını parlak aydınlatılmış şehir silueti üzerinde yakalamak gerçekten muhteşemdir."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Alte Oper",
                 "hu": "Régi Opera",
                 "ro": "Vechea Operă",
-                "en": "Old Opera House"
+                "en": "Old Opera House",
+                "tr": "Eski Opera Binası"
               },
               "tip_5lang": {
                 "de": "Die große Fassade sieht in den winterlichen Abendlichtern atemberaubend aus; treten Sie in das warme Foyer, um der beißenden Kälte zu entkommen.",
                 "hu": "A hatalmas homlokzat lélegzetelállítóan fest a téli esti fényekben; lépjen be a fűtött előcsarnokba, hogy elmeneküljön a csípős hideg elől.",
                 "ro": "Marea fațadă arată uluitor sub luminile serii de iarnă; pășiți în foaierul cald pentru a scăpa de frigul pătrunzător de afară.",
-                "en": "The grand facade looks breathtaking under the crisp winter evening lights; step inside the warm foyer to escape the biting outdoor cold."
+                "en": "The grand facade looks breathtaking under the crisp winter evening lights; step inside the warm foyer to escape the biting outdoor cold.",
+                "tr": "Görkemli cephe, net kış akşam ışıkları altında nefes kesici görünür; keskin dış soğuktan kaçmak için sıcak fuayeye girin."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Römerberg",
             "hu": "Römerberg tér",
             "ro": "Piața Römerberg",
-            "en": "Römerberg Square"
+            "en": "Römerberg Square",
+            "tr": "Römerberg Meydanı"
           },
           "coords": [
             8.682222,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie die ikonischen Fachwerkhäuser im historischen Herzen Frankfurts und kommen Sie früh, um den Gerechtigkeitsbrunnen ohne Menschenmassen zu fotografieren.",
             "hu": "Csodálja meg Frankfurt történelmi szívének ikonikus favázas házait, és érkezzen korán, hogy tömeg nélkül fotózhassa le az Igazság kútját.",
             "ro": "Admirați casele emblematice cu structură din lemn din inima istorică a Frankfurtului și sosiți devreme pentru a fotografia Fântâna Justiției fără aglomerație.",
-            "en": "Admire the iconic timber-framed houses of Frankfurt's historic heart and arrive early to photograph the Justice Fountain without the dense tourist crowds."
+            "en": "Admire the iconic timber-framed houses of Frankfurt's historic heart and arrive early to photograph the Justice Fountain without the dense tourist crowds.",
+            "tr": "Frankfurt'un tarihi kalbindeki ikonik kerpiç çerçeveli evleri hayranlıkla izleyin ve yoğun turist kalabalıkları olmadan Adalet Çeşmesi'ni fotoğraflamak için erken gelin."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Kaiserdom St. Bartholomäus",
             "hu": "Császári dóm",
             "ro": "Catedrala Imperială",
-            "en": "Imperial Cathedral"
+            "en": "Imperial Cathedral",
+            "tr": "İmparatorluk Katedrali"
           },
           "coords": [
             8.685,
@@ -403,7 +445,8 @@
             "de": "Bestaunen Sie die rote Sandsteinarchitektur dieser historischen Wahlstätte und prüfen Sie die Zeiten, um den Turm für eine kleine Gebühr zu besteigen.",
             "hu": "Gyönyörködjön e történelmi választási helyszín vörös homokkő építészetében, és ellenőrizze a nyitvatartást, ha egy kis díj ellenében megmászná a tornyot.",
             "ro": "Minunați-vă de arhitectura din gresie roșie a acestui sit istoric electoral și verificați programul pentru a urca în turn contra unei taxe modeste.",
-            "en": "Marvel at the soaring red sandstone architecture of this historic election site, and check the schedule to optionally climb the tower for a modest fee."
+            "en": "Marvel at the soaring red sandstone architecture of this historic election site, and check the schedule to optionally climb the tower for a modest fee.",
+            "tr": "Bu tarihi seçim yerinin yükselen kırmızı kumtaşı mimarisine hayran kalın ve isteğe bağlı olarak küçük bir ücret karşılığında kuleye tırmanma saatlerini kontrol edin."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Museum Angewandte Kunst",
             "hu": "Iparművészeti Múzeum",
             "ro": "Muzeul de Artă Aplicată",
-            "en": "Museum of Applied Arts"
+            "en": "Museum of Applied Arts",
+            "tr": "Uygulamalı Sanatlar Müzesi"
           },
           "coords": [
             8.680947,
@@ -426,7 +470,8 @@
             "de": "Schlendern Sie durch Richard Meiers strahlend weißes Architekturmeisterwerk für angewandte Kunst und nutzen Sie die kostenlosen Schließfächer für Ihre Taschen.",
             "hu": "Sétáljon végig Richard Meier lenyűgöző hófehér építészeti remekművén, és használja az ingyenes értékmegőrzőket a nehezebb táskák tárolására.",
             "ro": "Plimbați-vă prin capodopera arhitecturală albă a lui Richard Meier și utilizați dulapurile gratuite pentru a vă depozita gențile grele în timpul vizitei.",
-            "en": "Wander through Richard Meier’s stunning white architectural masterpiece filled with applied arts, and utilize the complimentary lockers to store your heavy bags."
+            "en": "Wander through Richard Meier’s stunning white architectural masterpiece filled with applied arts, and utilize the complimentary lockers to store your heavy bags.",
+            "tr": "Richard Meier'in muhteşem beyaz mimari başyapıtı içinde uygulamalı sanatlarla dolu galerilerde gezin ve ağır çantalarınızı bırakmak için ücretsiz dolaplardan yararlanın."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Deutsches Filmmuseum",
             "hu": "Német Filmmúzeum",
             "ro": "Muzeul German de Film",
-            "en": "German Film Museum"
+            "en": "German Film Museum",
+            "tr": "Alman Film Müzesi"
           },
           "coords": [
             8.677686,
@@ -449,7 +495,8 @@
             "de": "Tauchen Sie in die faszinierende Geschichte des Kinos durch interaktive Exponate ein und probieren Sie die historischen optischen Spielzeuge im ersten Stock aus.",
             "hu": "Merüljön el a mozi lenyűgöző történetében az interaktív kiállításokon, és próbálja ki a történelmi optikai játékokat az első emeleten.",
             "ro": "Cufundați-vă în istoria fascinantă a cinematografiei prin expoziții interactive și încercați să folosiți jucăriile optice istorice disponibile la primul etaj.",
-            "en": "Immerse yourself in the fascinating history of cinema through interactive exhibits, and try operating the historic optical toys available on the first floor."
+            "en": "Immerse yourself in the fascinating history of cinema through interactive exhibits, and try operating the historic optical toys available on the first floor.",
+            "tr": "Etkileşimli sergiler aracılığıyla sinema tarihine dalın ve birinci kattaki tarihi optik oyuncakları işletmeyi deneyin."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Städel Museum",
             "hu": "Städel Múzeum",
             "ro": "Muzeul Städel",
-            "en": "Städel Museum"
+            "en": "Städel Museum",
+            "tr": "Städel Müzesi"
           },
           "coords": [
             8.673858,
@@ -472,7 +520,8 @@
             "de": "Bewundern Sie sieben Jahrhunderte europäischer Kunst in einem der wichtigsten Museen Deutschlands und beginnen Sie am besten in der unterirdischen Halle.",
             "hu": "Töltsön időt az európai művészet hét évszázadának megcsodálásával Németország egyik legfontosabb múzeumában, és kezdje a látogatást a kortárs földalatti csarnokban.",
             "ro": "Petreceți timp admirând șapte secole de artă europeană într-unul dintre cele mai importante muzee din Germania, începând mai întâi cu sala subterană contemporană.",
-            "en": "Spend time admiring seven centuries of European art in one of Germany's most important museums, starting with the contemporary underground hall first."
+            "en": "Spend time admiring seven centuries of European art in one of Germany's most important museums, starting with the contemporary underground hall first.",
+            "tr": "Almanya'nın en önemli müzelerinden birinde yedi yüzyıllık Avrupa sanatını izleyerek zaman geçirin; önce çağdaş yer altı salonuyla başlayın."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Liebieghaus Skulpturensammlung",
             "hu": "Liebieghaus Szoborgyűjtemény",
             "ro": "Colecția de Sculptură Liebieghaus",
-            "en": "Liebieghaus Sculpture Collection"
+            "en": "Liebieghaus Sculpture Collection",
+            "tr": "Liebieghaus Heykel Koleksiyonu"
           },
           "coords": [
             8.671748,
@@ -495,7 +545,8 @@
             "de": "Bestaunen Sie die exquisite Skulpturensammlung von der Antike bis zum Klassizismus und machen Sie eine friedliche Pause im märchenhaften Hofcafé.",
             "hu": "Csodálja meg az ókori Egyiptomtól a neoklasszicizmusig terjedő lenyűgöző szoborgyűjteményt, és tartson békés pihenőt a múzeum mesébe illő udvari kávézójában.",
             "ro": "Minunați-vă de colecția rafinată de sculpturi din Egiptul antic până la neoclasicism și luați o pauză liniștită în cafeneaua fermecătoare din curtea muzeului.",
-            "en": "Marvel at the exquisite collection of sculptures from ancient Egypt to Neoclassicism, and take a peaceful break in the museum's charming fairytale courtyard café."
+            "en": "Marvel at the exquisite collection of sculptures from ancient Egypt to Neoclassicism, and take a peaceful break in the museum's charming fairytale courtyard café.",
+            "tr": "Antik Mısır'dan Neoklasisizm'e kadar uzanan etkileyici heykel koleksiyonuna hayran kalın ve müzenin sevimli masal avlusu kafesinde huzurlu bir mola verin."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Main Tower",
             "hu": "Main Tower",
             "ro": "Main Tower",
-            "en": "Main Tower"
+            "en": "Main Tower",
+            "tr": "Main Tower"
           },
           "coords": [
             8.672222,
@@ -518,7 +570,8 @@
             "de": "Genießen Sie den atemberaubenden Panoramablick auf die Skyline des Finanzviertels und bringen Sie eine Windjacke mit, da es oben sehr zugig sein kann.",
             "hu": "Élvezze a pénzügyi negyed felhőkarcolóira nyíló lélegzetelállító panorámát a kilátóból, és hozzon magával széldzsekit, mert odafent nagyon szeles lehet.",
             "ro": "Bucurați-vă de o panoramă uluitoare a zgârie-norilor din districtul financiar de pe puntea de observație și aduceți o jachetă, deoarece poate fi foarte vânt.",
-            "en": "Enjoy a breathtaking panoramic view of the financial district's skyline from the observation deck, bringing a windbreaker since it can get very breezy up top."
+            "en": "Enjoy a breathtaking panoramic view of the financial district's skyline from the observation deck, bringing a windbreaker since it can get very breezy up top.",
+            "tr": "Gözlem güvertesinden finans bölgesinin siluetine nefes kesici bir panoramik manzara sunar; üst katta çok rüzgarlı olabileceği için rüzgarlık getirin."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Radeln Sie vom zeitlosen Römerberg und dem Dom ans Südufer des Flusses. Mittags fahren Sie entlang des Museumsufer und genießen Design im Museum Angewandte Kunst sowie Kinogeschichte. Der Nachmittag ist den Meisterwerken des Städel Museums und Liebieghaus gewidmet. Fahren Sie schließlich zurück über den Fluss, um den Sonnenuntergang vom Main Tower zu erleben.",
         "hu": "Tekerjen a klasszikus Römerbergtől és a Dómtól a folyó déli partja felé. Délben a Museumsufer mentén haladva merüljön el a dizájnban a Museum Angewandte Kunst és a Filmmúzeum termeiben. A délutánt a Städel Múzeum és a Liebieghaus remekműveinek szenteljük. Végül térjen vissza a folyón át, hogy a Main Tower tetejéről nézze meg a naplementét.",
         "ro": "Pedalați de la Römerberg și Catedrală spre malul sudic al râului. La prânz, mergeți pe Museumsufer, bucurându-vă de design la Muzeul de Artă Aplicată și de istoria filmului. După-amiaza este dedicată capodoperelor de la Muzeul Städel și Liebieghaus. La final, traversați râul pentru a prinde apusul de pe impresionantul Main Tower.",
-        "en": "Pedal your way from the timeless Römerberg and the Cathedral towards the south bank of the river. By midday, cycle along the Museumsufer, soaking in design at the Museum Angewandte Kunst and cinematic history. The afternoon is dedicated to the masterpieces of the Städel Museum and Liebieghaus. Finally, ride back across the river to catch the sunset from atop the Main Tower."
+        "en": "Pedal your way from the timeless Römerberg and the Cathedral towards the south bank of the river. By midday, cycle along the Museumsufer, soaking in design at the Museum Angewandte Kunst and cinematic history. The afternoon is dedicated to the masterpieces of the Städel Museum and Liebieghaus. Finally, ride back across the river to catch the sunset from atop the Main Tower.",
+        "tr": "Zamansız Römerberg ve Katedral'den güneye nehir kıyısına doğru bisiklet sürün. Öğle vakti Museumsufer boyunca pedal çevirerek Uygulamalı Sanatlar'ta tasarımı ve sinema tarihini içinizde hissedin. Öğleden sonra Städel Müzesi ve Liebieghaus'un başyapıtlarına ayırın. Son olarak nehrin karşısına geri dönüp Main Tower'ın tepesinden gün batımını yakalayın."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Eine nasse Morgenfahrt vom Römerberg zum Kaiserdom erfordert Vorsicht auf rutschigem Pflaster. Mittags lockt das Museumsufer: Verbringen Sie Stunden im Museum Angewandte Kunst und Filmmuseum. Nachmittags bieten das Städel und Liebieghaus trockene Kultur. Regenkleidung tragen und auf nassen Straßenbahnschienen aufpassen!",
             "hu": "Az esős reggeli bringázás a Römerbergtől a Dómig óvatosságot igényel a csúszós utakon. Délben a Múzeumpart hívogat: az Iparművészeti és a Filmmúzeum órákra fedett programot nyújt. Délután a Städel és a Liebieghaus kínál száraz menedéket. Viseljen jó esőruhát, és óvatosan fékezzen a nedves villamossíneken!",
             "ro": "O plimbare umedă de la Römerberg la Catedrală necesită prudență pe drumurile alunecoase. La prânz, explorați Muzeul de Artă Aplicată și Muzeul de Film. După-amiaza, Muzeul Städel și Liebieghaus oferă cultură la interior. Purtați echipament de ploaie și frânați ușor pe șinele de tramvai umede!",
-            "en": "A wet morning ride from Römerberg to the Cathedral requires caution on slick roads. Midday is perfect for the Museum Embankment—stay dry inside the Applied Arts and Film museums. Afternoon rides to the Städel and Liebieghaus offer rich indoor culture. Wear good rain gear and brake gently on wet tram tracks!"
+            "en": "A wet morning ride from Römerberg to the Cathedral requires caution on slick roads. Midday is perfect for the Museum Embankment—stay dry inside the Applied Arts and Film museums. Afternoon rides to the Städel and Liebieghaus offer rich indoor culture. Wear good rain gear and brake gently on wet tram tracks!",
+            "tr": "Römerberg'den Katedrale ıslak bir sabah sürüşü parlak olmayan yol yüzeylerinde dikkat gerektirir. Öğle vakti Müzeler Yolu içindir—Uygulamalı Sanatlar ve Film müzelerinde kuru kalın. Öğleden sonraki sürüşler Städel ve Liebieghaus'ta zengin iç mekan kültürü sunar. İyi yağmurluk giyin ve ıslak tramvay raylarında nazikçe fren yapın!"
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Römerberg",
                 "hu": "Römerberg tér",
                 "ro": "Piața Römerberg",
-                "en": "Römerberg Square"
+                "en": "Römerberg Square",
+                "tr": "Römerberg Meydanı"
               },
               "tip_5lang": {
                 "de": "Machen Sie ein schnelles Foto des nassen Platzes, aber seien Sie extrem vorsichtig, wenn Sie über das rutschige Kopfsteinpflaster radeln.",
                 "hu": "Készítsen egy gyors fotót a vizes térről, de legyen rendkívül óvatos, amikor a nedves és nagyon csúszós macskaköveken teker át.",
                 "ro": "Faceți o fotografie rapidă a pieței umede, dar fiți extrem de atenți când pedalați peste piatra cubică alunecoasă din zonă.",
-                "en": "Snap a quick photo of the wet, reflective square, but be extremely careful cycling over the slippery cobblestones in the rain."
+                "en": "Snap a quick photo of the wet, reflective square, but be extremely careful cycling over the slippery cobblestones in the rain.",
+                "tr": "Islak, yansıtıcı meydanın hızlı bir fotoğrafını çekin, ancak yağmurda kaygan taş döşemeler üzerinde bisiklet sürerken son derece dikkatli olun."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Kaiserdom St. Bartholomäus",
                 "hu": "Császári dóm",
                 "ro": "Catedrala Imperială",
-                "en": "Imperial Cathedral"
+                "en": "Imperial Cathedral",
+                "tr": "İmparatorluk Katedrali"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad und trocknen Sie sich in dieser massiven Kathedrale ab; ihr historisches Inneres ist ein toller Schutz vor dem Regen.",
                 "hu": "Parkolja le a biciklit, és szárátkozzon meg ebben a hatalmas katedrálisban; történelmi belső tere csodálatos menedék az eső elől.",
                 "ro": "Parcați bicicleta și uscați-vă în interiorul acestei catedrale masive; interiorul său istoric este un adăpost magnific împotriva ploii.",
-                "en": "Park your bike safely and dry off inside this massive cathedral; its historic interior is a magnificent and quiet shelter from the rain."
+                "en": "Park your bike safely and dry off inside this massive cathedral; its historic interior is a magnificent and quiet shelter from the rain.",
+                "tr": "Bisikletinizi güvenle park edip bu devasa katedralin içinde kurulun; tarihi iç mekan yağmurdan kaçmak için muhteşem ve sessiz bir sığınaktır."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Museum Angewandte Kunst",
                 "hu": "Iparművészeti Múzeum",
                 "ro": "Muzeul de Artă Aplicată",
-                "en": "Museum of Applied Arts"
+                "en": "Museum of Applied Arts",
+                "tr": "Uygulamalı Sanatlar Müzesi"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Rad ab und erkunden Sie stundenlang die trockenen, hellen Galerien der angewandten Kunst, während es draußen gießt.",
                 "hu": "Lakatolja le a kerékpárt, és töltsön órákat az iparművészet száraz, világos galériáinak felfedezésével, amíg kint zuhog az eső.",
                 "ro": "Legați bicicleta și petreceți ore întregi explorând galeriile uscate și luminoase de artă aplicată în timp ce afară plouă torențial.",
-                "en": "Lock up securely and spend hours exploring the dry, bright galleries of applied arts while the heavy rain pours down outside."
+                "en": "Lock up securely and spend hours exploring the dry, bright galleries of applied arts while the heavy rain pours down outside.",
+                "tr": "Güvenli şekilde kilitleyip ağır yağmur dışarıda yağarken parlak, kuru uygulamalı sanat galerilerinde saatler geçirin."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Deutsches Filmmuseum",
                 "hu": "Német Filmmúzeum",
                 "ro": "Muzeul German de Film",
-                "en": "German Film Museum"
+                "en": "German Film Museum",
+                "tr": "Alman Film Müzesi"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in die Indoor-Welt des Kinos ein; die interaktiven Exponate sind eine großartige Möglichkeit, den Nachmittagsschauern zu entfliehen.",
                 "hu": "Merüljön el a mozi benti világában; az interaktív kiállítások remek lehetőséget kínálnak a délutáni záporok elől való menekülésre.",
                 "ro": "Pătrundeți în lumea interioară a cinematografiei; exponatele interactive sunt o modalitate excelentă de a scăpa de aversele de după-amiază.",
-                "en": "Dive into the fascinating indoor world of cinema; the interactive exhibits are a great way to completely escape the afternoon showers."
+                "en": "Dive into the fascinating indoor world of cinema; the interactive exhibits are a great way to completely escape the afternoon showers.",
+                "tr": "Sinemanın büyüleyici kapalı dünyasına dalın; etkileşimli sergiler öğleden sonraki sağanaklardan tamamen kaçmanın harika bir yoludur."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Städel Museum",
                 "hu": "Städel Múzeum",
                 "ro": "Muzeul Städel",
-                "en": "Städel Museum"
+                "en": "Städel Museum",
+                "tr": "Städel Müzesi"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Zuflucht in einer der besten Kunstsammlungen Deutschlands; die riesigen Innenräume sind perfekt für einen nassen Tag.",
                 "hu": "Keressen menedéket Németország egyik legjobb művészeti gyűjteményében; a hatalmas belső terek tökéletesek egy esős nap eltöltésére.",
                 "ro": "Căutați refugiu în una dintre cele mai bune colecții de artă din Germania; spațiile interioare vaste sunt perfecte pentru o zi umedă.",
-                "en": "Take refuge in one of Germany's finest art collections; the vast indoor gallery spaces are perfect for lingering on a very wet day."
+                "en": "Take refuge in one of Germany's finest art collections; the vast indoor gallery spaces are perfect for lingering on a very wet day.",
+                "tr": "Almanya'nın en iyi sanat koleksiyonlarından birinde sığınak bulun; geniş iç galeri alanları çok ıslak bir gün için uzun süre kalmaya uygundur."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Liebieghaus Skulpturensammlung",
                 "hu": "Liebieghaus Szoborgyűjtemény",
                 "ro": "Colecția de Sculptură Liebieghaus",
-                "en": "Liebieghaus Sculpture Collection"
+                "en": "Liebieghaus Sculpture Collection",
+                "tr": "Liebieghaus Heykel Koleksiyonu"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die beeindruckende Skulpturensammlung drinnen; achten Sie auf Ihre Schritte auf den nassen Wegen des Villengartens.",
                 "hu": "Fedezze fel a lenyűgöző szoborgyűjteményt bent; ügyeljen a lépéseire a villa kertjének csúszós és vizes ösvényein.",
                 "ro": "Explorați impresionanta colecție de sculpturi la interior; aveți grijă la pași pe aleile umede ale grădinii vilei înconjurătoare.",
-                "en": "Explore the impressive sculpture collection indoors; watch your step carefully on the wet paths of the surrounding historic villa garden."
+                "en": "Explore the impressive sculpture collection indoors; watch your step carefully on the wet paths of the surrounding historic villa garden.",
+                "tr": "Etkileyici heykel koleksiyonunu iç mekanda keşfedin; çevredeki tarihi villa bahçesinin ıslak yollarında adımlarınıza dikkat edin."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Main Tower",
                 "hu": "Main Tower",
                 "ro": "Main Tower",
-                "en": "Main Tower"
+                "en": "Main Tower",
+                "tr": "Main Tower"
               },
               "tip_5lang": {
                 "de": "Fahren Sie nach einer nassen Radtour zu den geschlossenen Aussichtsbereichen für einen dramatischen Blick auf die regnerische Skyline.",
                 "hu": "Egy esős tekerés után menjen fel a zárt kilátóterekbe, hogy drámai kilátásban legyen része az eső áztatta városi sziluettre.",
                 "ro": "După o plimbare ploioasă, urcați în zonele de vizionare închise pentru o vedere dramatică a orizontului ploios al Frankfurtului.",
-                "en": "After a rainy ride, head up directly to the enclosed viewing areas for a moody, dramatic view of Frankfurt's grey, rain-swept skyline."
+                "en": "After a rainy ride, head up directly to the enclosed viewing areas for a moody, dramatic view of Frankfurt's grey, rain-swept skyline.",
+                "tr": "Yağmurlu bir sürüşün ardından doğrudan kapalı seyir alanlarına çıkın; Frankfurt'un gri, yağmurla yıkanmış siluetine kasvetli, dramatik bir bakış sunar."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Kalte Winterluft am Römerberg: Ziehen Sie sich warm an! Wärmen Sie sich im Kaiserdom auf, bevor Sie zum Museumsufer radeln. Mittags bieten das Filmmuseum und das Städel gemütliche Pausen. Da es um 17 Uhr dunkel wird, prüfen Sie Ihr Fahrradlicht für die Fahrt zum Liebieghaus und den nächtlichen Main Tower.",
             "hu": "A fagyos reggeli tekerés a Römerbergen vastag kesztyűt kíván! Melegedjen fel a Dómban, majd irány a Múzeumpart. Délben a Filmmúzeum és a Städel nyújt fűtött pihenőt. Mivel 17:00 körül sötétedik, ellenőrizze a biciklilámpákat a Liebieghaushoz és a kivilágított Main Towerhez vezető kora esti úthoz.",
             "ro": "Aerul rece de iarnă la Römerberg necesită haine groase! Încălziți-vă în Catedrală înainte de a pedala spre muzee. La prânz, Muzeul de Film și Städel oferă pauze confortabile. Cum se întunecă la 17:00, verificați luminile bicicletei pentru drumul spre Liebieghaus și Turnul Main pe timp de noapte.",
-            "en": "Crisp winter cycling starts at Römerberg; bundle up! Warm up inside the Cathedral before hitting the Museum Embankment. Midday brings cozy visits to the Film Museum and Städel. By late afternoon, the sun sets around 17:00, so ensure your bike lights work before riding to the Liebieghaus and Main Tower in the dark."
+            "en": "Crisp winter cycling starts at Römerberg; bundle up! Warm up inside the Cathedral before hitting the Museum Embankment. Midday brings cozy visits to the Film Museum and Städel. By late afternoon, the sun sets around 17:00, so ensure your bike lights work before riding to the Liebieghaus and Main Tower in the dark.",
+            "tr": "Hafif, serin kış bisiklet turu Römerberg'de başlar; kalın giyinin! Katedral içinde ısının, sonra Müzeler Yolu'na çıkın. Öğle vakti Film Müzesi ve Städel'de iç mekan sıcaklığı sizi karşılayacak. Akşamüstü güneş yaklaşık 17:00 civarında battığı için Liebieghaus ve Main Tower'a karanlıkta sürmeden önce bisiklet ışıklarınızın çalıştığından emin olun."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Römerberg",
                 "hu": "Römerberg tér",
                 "ro": "Piața Römerberg",
-                "en": "Römerberg Square"
+                "en": "Römerberg Square",
+                "tr": "Römerberg Meydanı"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft, aber tragen Sie dicke Handschuhe für das Radfahren in den eisigen Morgentemperaturen.",
                 "hu": "Élvezze a friss téli levegőt, de mindenképpen viseljen vastag kesztyűt a fagyos reggeli hőmérsékletben való kerékpározáshoz.",
                 "ro": "Bucurați-vă de aerul proaspăt de iarnă, dar purtați mănuși groase pentru ciclism la temperaturile de îngheț ale dimineții.",
-                "en": "Enjoy the crisp winter air and frosty historic buildings, but wear thick windproof gloves for cycling in the freezing morning temperatures."
+                "en": "Enjoy the crisp winter air and frosty historic buildings, but wear thick windproof gloves for cycling in the freezing morning temperatures.",
+                "tr": "Serin kış havasının ve donmuş tarihi yapıların tadını çıkarın, ancak donuk sabah sıcaklıklarında bisiklet sürerken kalın rüzgâr geçirmez eldivenler takın."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Kaiserdom St. Bartholomäus",
                 "hu": "Császári dóm",
                 "ro": "Catedrala Imperială",
-                "en": "Imperial Cathedral"
+                "en": "Imperial Cathedral",
+                "tr": "İmparatorluk Katedrali"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um Ihre kalten Finger aufzuwärmen, während Sie die beeindruckende gotische Architektur dieser Stätte bewundern.",
                 "hu": "Lépjen be, hogy felmelegítse fagyos ujjait, miközben megcsodálja e történelmi helyszín lenyűgöző és masszív gótikus építészetét.",
                 "ro": "Intrați pentru a vă încălzi degetele reci în timp ce admirați arhitectura gotică impresionantă a acestui sit istoric.",
-                "en": "Step strictly inside to warm up your cold fingers and toes while admiring the awe-inspiring gothic architecture of this historic site."
+                "en": "Step strictly inside to warm up your cold fingers and toes while admiring the awe-inspiring gothic architecture of this historic site.",
+                "tr": "Soğuk parmaklarınızı ve ayak parmaklarınızı ısıtmak için mutlaka içeri girin ve bu tarihi yerin etkileyici gotik mimarisine hayran kalın."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Museum Angewandte Kunst",
                 "hu": "Iparművészeti Múzeum",
                 "ro": "Muzeul de Artă Aplicată",
-                "en": "Museum of Applied Arts"
+                "en": "Museum of Applied Arts",
+                "tr": "Uygulamalı Sanatlar Müzesi"
               },
               "tip_5lang": {
                 "de": "Dieses beheizte Museum bietet eine moderne Flucht vor der Winterkälte und zeigt wunderschönes Design und Handwerkskunst.",
                 "hu": "Ez a fűtött múzeum modern és világos menedéket nyújt a téli hideg elől, bemutatva a gyönyörű formatervezést és kézművességet.",
                 "ro": "Acest muzeu încălzit oferă o evadare modernă și luminoasă din frigul iernii, prezentând design și măiestrie frumoase.",
-                "en": "This thoroughly heated museum offers a bright, modern escape from the winter chill, showcasing beautiful design and fine craftsmanship."
+                "en": "This thoroughly heated museum offers a bright, modern escape from the winter chill, showcasing beautiful design and fine craftsmanship.",
+                "tr": "Tamamen ısıtılan bu müze, kış soğuğundan parlak, modern bir kaçış sunar; güzel tasarım ve ince işçiliği sergiler."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Deutsches Filmmuseum",
                 "hu": "Német Filmmúzeum",
                 "ro": "Muzeul German de Film",
-                "en": "German Film Museum"
+                "en": "German Film Museum",
+                "tr": "Alman Film Müzesi"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich bei interaktiven Kinoausstellungen auf; ein gemütlicher Halt während des kältesten Teils Ihrer Wintertour.",
                 "hu": "Melegedjen fel az interaktív moziélményekkel; ez egy igazán hangulatos megálló a téli kerékpártúra leghidegebb szakaszában.",
                 "ro": "Încălziți-vă cu exponate cinematografice interactive; este o oprire confortabilă în timpul celei mai reci părți a plimbării de iarnă.",
-                "en": "Warm up actively with interactive cinematic exhibits; it is a very cozy and engaging stop during the coldest part of your winter ride."
+                "en": "Warm up actively with interactive cinematic exhibits; it is a very cozy and engaging stop during the coldest part of your winter ride.",
+                "tr": "Etkileşimli sinema sergileriyle aktif olarak ısının; kış sürüşünüzün en soğuk bölümünde çok samimi ve ilgi çekici bir duraktır."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Städel Museum",
                 "hu": "Städel Múzeum",
                 "ro": "Muzeul Städel",
-                "en": "Städel Museum"
+                "en": "Städel Museum",
+                "tr": "Städel Müzesi"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie einen komfortablen Nachmittag drinnen und erkunden Sie Meisterwerke, perfekt geschützt vor den beißenden Winterwinden.",
                 "hu": "Töltsön el egy kényelmes délutánt bent a mesterművek felfedezésével, tökéletesen védve a kinti csípős és fagyos téli szelektől.",
                 "ro": "Petreceți o după-amiază confortabilă la interior explorând capodopere, perfect protejați de vânturile aspre de iarnă de afară.",
-                "en": "Spend a long, comfortable afternoon exploring masterpieces indoors, perfectly shielded from the biting and freezing winter winds outside."
+                "en": "Spend a long, comfortable afternoon exploring masterpieces indoors, perfectly shielded from the biting and freezing winter winds outside.",
+                "tr": "Dışarıdaki keskin ve dondurucu kış rüzgarlarından tamamen korunmuş, uzun ve rahat bir öğleden sonra geçirmek için başyapıtları iç mekanlarda keşfedin."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Liebieghaus Skulpturensammlung",
                 "hu": "Liebieghaus Szoborgyűjtemény",
                 "ro": "Colecția de Sculptură Liebieghaus",
-                "en": "Liebieghaus Sculpture Collection"
+                "en": "Liebieghaus Sculpture Collection",
+                "tr": "Liebieghaus Heykel Koleksiyonu"
               },
               "tip_5lang": {
                 "de": "Wandern Sie durch die warmen Hallen dieser historischen Villa, während der Winternachmittag langsam in die Dämmerung übergeht.",
                 "hu": "Sétáljon e történelmi villa meleg termeiben, és csodálja meg a szobrokat, ahogy a téli délután lassan sötétedésbe hajlik.",
                 "ro": "Plimbați-vă prin sălile calde ale acestei vile istorice pentru a vedea sculpturi în timp ce după-amiaza de iarnă se transformă în amurg.",
-                "en": "Wander through the warm halls of this historic villa to see stunning sculptures as the crisp winter afternoon slowly turns to dusk."
+                "en": "Wander through the warm halls of this historic villa to see stunning sculptures as the crisp winter afternoon slowly turns to dusk.",
+                "tr": "Bu tarihi villanın sıcak salonlarında dolaşarak etkileyici heykelleri görün ve serin kış öğleden sonrası yavaşça alacakaranlığa dönüşürken gezin."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Main Tower",
                 "hu": "Main Tower",
                 "ro": "Main Tower",
-                "en": "Main Tower"
+                "en": "Main Tower",
+                "tr": "Main Tower"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich für die kalte Plattform ein; der frühe Sonnenuntergang gegen 17 Uhr bietet einen Blick auf die funkelnden Lichter der Stadt.",
                 "hu": "Öltözzön fel melegen a hideg kilátóhoz; a kora esti, 17:00 óra körüli naplemente lélegzetelállító kilátást nyújt a csillogó városra.",
                 "ro": "Îmbrăcați-vă gros pentru puntea rece de observație; apusul devreme oferă o priveliște uluitoare asupra luminilor strălucitoare ale orașului.",
-                "en": "Bundle up strictly for the cold observation deck; the early sunset around 5 PM offers a breathtaking view of the sparkling city lights."
+                "en": "Bundle up strictly for the cold observation deck; the early sunset around 5 PM offers a breathtaking view of the sparkling city lights.",
+                "tr": "Soğuk gözlem güvertesi için sıkıca katlanın; erken gün batımı yaklaşık 17:00 civarında parıldayan şehir ışıklarının nefes kesici bir manzarasını sunar."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Kaiserdom St. Bartholomäus",
             "hu": "Császári dóm",
             "ro": "Catedrala Imperială",
-            "en": "Imperial Cathedral"
+            "en": "Imperial Cathedral",
+            "tr": "İmparatorluk Katedrali"
           },
           "coords": [
             8.685,
@@ -775,7 +860,8 @@
             "de": "Bestaunen Sie die rote Sandsteinarchitektur dieser historischen Wahlstätte und prüfen Sie die Zeiten, um den Turm für eine kleine Gebühr zu besteigen.",
             "hu": "Gyönyörködjön e történelmi választási helyszín vörös homokkő építészetében, és ellenőrizze a nyitvatartást, ha egy kis díj ellenében megmászná a tornyot.",
             "ro": "Minunați-vă de arhitectura din gresie roșie a acestui sit istoric electoral și verificați programul pentru a urca în turn contra unei taxe modeste.",
-            "en": "Marvel at the soaring red sandstone architecture of this historic election site, and check the schedule to optionally climb the tower for a modest fee."
+            "en": "Marvel at the soaring red sandstone architecture of this historic election site, and check the schedule to optionally climb the tower for a modest fee.",
+            "tr": "Bu tarihi seçim yerinin yükselen kırmızı kumtaşı mimarisine hayran kalın ve isteğe bağlı olarak küçük bir ücret karşılığında kuleye tırmanma saatlerini kontrol edin."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Römerberg",
             "hu": "Römerberg tér",
             "ro": "Piața Römerberg",
-            "en": "Römerberg Square"
+            "en": "Römerberg Square",
+            "tr": "Römerberg Meydanı"
           },
           "coords": [
             8.682222,
@@ -798,7 +885,8 @@
             "de": "Bewundern Sie die ikonischen Fachwerkhäuser im historischen Herzen Frankfurts und kommen Sie früh, um den Gerechtigkeitsbrunnen ohne Menschenmassen zu fotografieren.",
             "hu": "Csodálja meg Frankfurt történelmi szívének ikonikus favázas házait, és érkezzen korán, hogy tömeg nélkül fotózhassa le az Igazság kútját.",
             "ro": "Admirați casele emblematice cu structură din lemn din inima istorică a Frankfurtului și sosiți devreme pentru a fotografia Fântâna Justiției fără aglomerație.",
-            "en": "Admire the iconic timber-framed houses of Frankfurt's historic heart and arrive early to photograph the Justice Fountain without the dense tourist crowds."
+            "en": "Admire the iconic timber-framed houses of Frankfurt's historic heart and arrive early to photograph the Justice Fountain without the dense tourist crowds.",
+            "tr": "Frankfurt'un tarihi kalbindeki ikonik kerpiç çerçeveli evlere hayran kalın ve yoğun turist kalabalıkları olmadan Adalet Çeşmesi'ni fotoğraflamak için erken gelin."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Weltkulturen Museum",
             "hu": "Világkultúrák Múzeuma",
             "ro": "Muzeul Culturilor Lumii",
-            "en": "Museum of World Cultures"
+            "en": "Museum of World Cultures",
+            "tr": "Dünya Kültürleri Müzesi"
           },
           "coords": [
             8.679362,
@@ -821,7 +910,8 @@
             "de": "Gewinnen Sie einzigartige Perspektiven auf globale Kulturen in diesen eleganten Villen und prüfen Sie den Plan, da die Ausstellungen regelmäßig wechseln.",
             "hu": "Nyerjen egyedi perspektívákat a globális kultúrákról ezekben az elegáns történelmi villákban, és ellenőrizze az időszaki kiállításokat, mivel azok gyakran változnak.",
             "ro": "Obțineți perspective unice asupra culturilor globale în aceste vile istorice elegante și verificați programul expozițiilor temporare, deoarece acestea se schimbă destul de des.",
-            "en": "Gain unique perspectives on global cultures in these elegant historic villas, and check their temporary exhibition schedule as their displays change quite frequently."
+            "en": "Gain unique perspectives on global cultures in these elegant historic villas, and check their temporary exhibition schedule as their displays change quite frequently.",
+            "tr": "Bu zarif tarihi villalarda küresel kültürlere dair benzersiz bakış açıları edinin ve geçici sergi programlarını kontrol edin; sergiler sıklıkla değişir."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Städel Museum",
             "hu": "Städel Múzeum",
             "ro": "Muzeul Städel",
-            "en": "Städel Museum"
+            "en": "Städel Museum",
+            "tr": "Städel Müzesi"
           },
           "coords": [
             8.673858,
@@ -844,7 +935,8 @@
             "de": "Bewundern Sie sieben Jahrhunderte europäischer Kunst in einem der wichtigsten Museen Deutschlands und beginnen Sie am besten in der unterirdischen Halle.",
             "hu": "Töltsön időt az európai művészet hét évszázadának megcsodálásával Németország egyik legfontosabb múzeumában, és kezdje a látogatást a kortárs földalatti csarnokban.",
             "ro": "Petreceți timp admirând șapte secole de artă europeană într-unul dintre cele mai importante muzee din Germania, începând mai întâi cu sala subterană contemporană.",
-            "en": "Spend time admiring seven centuries of European art in one of Germany's most important museums, starting with the contemporary underground hall first."
+            "en": "Spend time admiring seven centuries of European art in one of Germany's most important museums, starting with the contemporary underground hall first.",
+            "tr": "Almaktan önce çağdaş yeraltı salonuyla başlayarak Almanya'nın en önemli müzelerinden birinde yedi yüzyıllık Avrupa sanatına hayran kalmak için zaman ayırın."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Stalburg Theater",
             "hu": "Stalburg Színház",
             "ro": "Teatrul Stalburg",
-            "en": "Stalburg Theater"
+            "en": "Stalburg Theater",
+            "tr": "Stalburg Tiyatrosu"
           },
           "coords": [
             8.683722,
@@ -867,7 +960,8 @@
             "de": "Erleben Sie die lebhafte lokale Kunstszene in dieser ehemaligen Apfelweinwirtschaft, für die eine frühzeitige Ticketbuchung wegen begrenzter Plätze empfohlen wird.",
             "hu": "Tapasztalja meg a nyüzsgő helyi művészeti szférát ebben az egykori almaborozóból lett színházban, ahol a korlátozott helyek miatt erősen ajánlott az előzetes jegyfoglalás.",
             "ro": "Experimentați scena artistică locală plină de viață în această fostă tavernă transformată în teatru, unde rezervarea biletelor în avans este foarte recomandată.",
-            "en": "Experience the lively local arts scene in this former cider house turned theater, where booking tickets well in advance is highly recommended due to limited seating."
+            "en": "Experience the lively local arts scene in this former cider house turned theater, where booking tickets well in advance is highly recommended due to limited seating.",
+            "tr": "Burası eskiden elma şarabı evi olan, limiti oturma nedeniyle biletlerin önceden alınması şiddetle tavsiye edilen canlı yerel sanat sahnesini deneyimleyin."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Künstlerhaus Mousonturm",
             "hu": "Mousonturm Művészeti Központ",
             "ro": "Centrul de Artă Mousonturm",
-            "en": "Mousonturm Arts Center"
+            "en": "Mousonturm Arts Center",
+            "tr": "Mousonturm Sanat Merkezi"
           },
           "coords": [
             8.698835,
@@ -890,7 +985,8 @@
             "de": "Schließen Sie Ihre kulturelle Tour in diesem Zentrum für zeitgenössische Kunst ab und trinken Sie einen Drink in der Bar, wo sich lokale Kreative treffen.",
             "hu": "Zárja kulturális felfedezését a kortárs előadóművészetek e dinamikus központjában, és igyon egy italt a csatolt bárban, ahol a helyi kreatívok gyülekeznek.",
             "ro": "Încheiați explorarea culturală la acest centru dinamic pentru artele spectacolului contemporan și savurați o băutură la barul alăturat, preferat de creativii locali.",
-            "en": "Conclude your cultural exploration at this dynamic center for contemporary performing arts, and grab a drink at the attached bar where local creatives gather."
+            "en": "Conclude your cultural exploration at this dynamic center for contemporary performing arts, and grab a drink at the attached bar where local creatives gather.",
+            "tr": "Kültürel keşfinizi çağdaş sahne sanatlarının bu dinamik merkezinde sonlandırın ve yerel yaratıcıların toplandığı bitişikteki barda bir içki alın."
           }
         }
       ],
@@ -898,7 +994,8 @@
         "de": "Beginnen Sie Ihre Fahrt am historischen Kaiserdom und dem lebhaften Römerberg. Fahren Sie mittags nach Süden, um globale Artefakte im Weltkulturen Museum und europäische Kunst im renommierten Städel Museum zu entdecken. Am späten Nachmittag fahren Sie in den Norden zum Stalburg Theater. Lassen Sie den Tag im Mousonturm, dem Zentrum für zeitgenössische Kunst, ausklingen.",
         "hu": "Kezdje az utat a történelmi császári dómnál és a nyüzsgő Römerberg téren. Délben vezessen délre, hogy felfedezze a globális kultúrákat a Weltkulturen Múzeumban, majd az európai művészetet a Städelben. A késő délutánt észak felé véve a Stalburg Színháznál töltheti. Zárja a napot a Mousonturmnál, Frankfurt kortárs művészeti központjában.",
         "ro": "Începeți traseul auto la Catedrala Imperială și piața animată Römerberg. La prânz, conduceți spre sud pentru a descoperi artefacte globale la Muzeul Weltkulturen, urmate de arta europeană de la Städel. Petreceți după-amiaza târziu îndreptându-vă spre nord pentru o reprezentație la Teatrul Stalburg. Încheiați ziua la Mousonturm, centrul de artă contemporană.",
-        "en": "Begin your drive at the historic Imperial Cathedral and the vibrant Römerberg square. Drive south at midday to uncover global artifacts at the Weltkulturen Museum, followed by European art at the prestigious Städel Museum. Spend your late afternoon moving towards the north to catch a performance at Stalburg Theater. Wrap up your day at the Mousonturm, Frankfurt's hub for contemporary arts."
+        "en": "Begin your drive at the historic Imperial Cathedral and the vibrant Römerberg square. Drive south at midday to uncover global artifacts at the Weltkulturen Museum, followed by European art at the prestigious Städel Museum. Spend your late afternoon moving towards the north to catch a performance at Stalburg Theater. Wrap up your day at the Mousonturm, Frankfurt's hub for contemporary arts.",
+        "tr": "Tarihi İmparatorluk Katedrali ve hareketli Römerberg meydanında sürüşe başlayın. Öğle civarı güney yönünde Weltkulturen Müzesi'nde dünya çapı eserleri keşfedin, ardından prestijli Städel Müzesi'nde Avrupa sanatına bakın. Geç öğleden sonra kuzeye doğru hareket ederek Stalburg Tiyatrosu'nda bir gösteri yakalayın. Günü Frankfurt'un çağdaş sanat merkezi Mousonturm'da tamamlayın."
       },
       "variants": {
         "rainy": {
@@ -906,7 +1003,8 @@
             "de": "Starten Sie mit einer trockenen Fahrt zum Kaiserdom und einem kurzen Regenspaziergang am Römerberg. Mittags verbringen Sie komfortabel im Weltkulturen und Städel Museum. Nachmittags fahren Sie zum Stalburg Theater und Mousonturm für trockene Unterhaltung. Nutzen Sie Parkhäuser und fahren Sie vorsichtig bei Nässe!",
             "hu": "Kezdje egy száraz úttal a Dómhoz, majd tegyen egy gyors, esernyős sétát a Römerbergen. A delet kényelmesen a Világkultúrák és a Städel múzeumokban töltheti. Délután vezessen a Stalburg Színházhoz és a Mousonturmhoz egy kis fedett szórakozásért. Használjon parkolóházakat, és vezessen óvatosan a csúszós utakon!",
             "ro": "Începeți cu un drum uscat spre Catedrală și o scurtă plimbare cu umbrela la Römerberg. Prânzul este petrecut confortabil la Muzeul Culturilor Lumii și Städel. După-amiaza, conduceți la Teatrul Stalburg și Mousonturm pentru divertisment la interior. Folosiți parcări acoperite și conduceți cu grijă pe ploaie!",
-            "en": "Start with a dry drive to the Cathedral, then quickly dash to Römerberg. Midday is comfortably spent indoors at the Museum of World Cultures and Städel Museum. In the afternoon, drive to the Stalburg Theater and Mousonturm Arts Center for indoor entertainment. Use covered parking and watch for slippery, wet roads!"
+            "en": "Start with a dry drive to the Cathedral, then quickly dash to Römerberg. Midday is comfortably spent indoors at the Museum of World Cultures and Städel Museum. In the afternoon, drive to the Stalburg Theater and Mousonturm Arts Center for indoor entertainment. Use covered parking and watch for slippery, wet roads!",
+            "tr": "Katedrale kuru bir sürüşle başlayın, ardından hızlıca Römerberg'e atın. Öğle saatleri Dünya Kültürleri Müzesi ve Städel Müzesi'nde rahatça kapalı alanda geçirilir. Öğleden sonra Stalburg Tiyatrosu ve Mousonturm Sanat Merkezi'ne sürün; kapalı eğlence için idealdir. Kapalı otopark kullanın ve kaygan, ıslak yollara dikkat edin!"
           },
           "stops": [
             {
@@ -914,13 +1012,15 @@
                 "de": "Kaiserdom St. Bartholomäus",
                 "hu": "Császári dóm",
                 "ro": "Catedrala Imperială",
-                "en": "Imperial Cathedral"
+                "en": "Imperial Cathedral",
+                "tr": "İmparatorluk Katedrali"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und eilen Sie hinein, um das große gotische Innere zu bewundern, ein friedlicher Zufluchtsort vor dem Starkregen.",
                 "hu": "Parkoljon a közelben, és siessen be a hatalmas gótikus belső térbe, amely békés és teljesen száraz menedék a heves esőzés elől.",
                 "ro": "Parcați în apropiere și grăbiți-vă înăuntru pentru a admira interiorul gotic grandios, un refugiu liniștit din calea ploii abundente.",
-                "en": "Park nearby and hurry inside to admire the grand gothic interior, a peaceful and completely dry refuge from the heavy pouring rain."
+                "en": "Park nearby and hurry inside to admire the grand gothic interior, a peaceful and completely dry refuge from the heavy pouring rain.",
+                "tr": "Yakınlarda park edin ve yoğun yağmurdan tamamen kuru bir sığınak olan görkemli gotik iç mekâna hayran olmak için içeri acele edin."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Römerberg",
                 "hu": "Römerberg tér",
                 "ro": "Piața Römerberg",
-                "en": "Römerberg Square"
+                "en": "Römerberg Square",
+                "tr": "Römerberg Meydanı"
               },
               "tip_5lang": {
                 "de": "Halten Sie Ihren Regenschirm für einen kurzen Spaziergang bereit; das nasse Kopfsteinpflaster spiegelt die umliegenden Gebäude wunderschön wider.",
                 "hu": "Tartsa kéznél az esernyőt egy rövid sétához a téren; a vizes macskakövek gyönyörűen tükrözik vissza a környező történelmi épületeket.",
                 "ro": "Țineți umbrela la îndemână pentru o scurtă plimbare; piatra cubică umedă reflectă frumos clădirile istorice din jur.",
-                "en": "Keep your umbrella handy for a brief walk around the historic square; the wet cobblestones reflect the surrounding buildings beautifully."
+                "en": "Keep your umbrella handy for a brief walk around the historic square; the wet cobblestones reflect the surrounding buildings beautifully.",
+                "tr": "Tarihi meydanda kısa bir yürüyüş için şemsiyenizi hazır tutun; ıslak kaldırım taşları çevredeki binaları güzelce yansıtır."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Weltkulturen Museum",
                 "hu": "Világkultúrák Múzeuma",
                 "ro": "Muzeul Culturilor Lumii",
-                "en": "Museum of World Cultures"
+                "en": "Museum of World Cultures",
+                "tr": "Dünya Kültürleri Müzesi"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie einen faszinierenden, trockenen Morgen drinnen und erkunden Sie globale Kulturen, geschützt vor dem trüben Wetter draußen.",
                 "hu": "Töltsön el egy lenyűgöző, száraz délelőttöt bent, fedezve fel a globális kultúrákat, teljesen védve a kinti borús időjárástól.",
                 "ro": "Petreceți o dimineață fascinantă și uscată la interior explorând culturile globale, complet protejați de vremea mohorâtă de afară.",
-                "en": "Spend a fascinating, completely dry morning indoors exploring global cultures, perfectly sheltered from the gloomy weather outside."
+                "en": "Spend a fascinating, completely dry morning indoors exploring global cultures, perfectly sheltered from the gloomy weather outside.",
+                "tr": "Kasvetli dış hava koşullarından tamamen korunaklı, kapalı alanda küresel kültürleri keşfederek ilgi çekici, tamamen kuru bir sabah geçirin."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Städel Museum",
                 "hu": "Städel Múzeum",
                 "ro": "Muzeul Städel",
-                "en": "Städel Museum"
+                "en": "Städel Museum",
+                "tr": "Städel Müzesi"
               },
               "tip_5lang": {
                 "de": "Genießen Sie einen komfortablen, regenfreien Nachmittag beim Durchstreifen jahrhundertealter Kunst in diesem klimatisierten Museum.",
                 "hu": "Élvezze a kényelmes, esőmentes délutánt évszázadok művészetében barangolva ebben a hatalmas, klimatizált épületben.",
                 "ro": "Bucurați-vă de o după-amiază confortabilă, fără ploaie, plimbându-vă prin secole de artă în acest magnific muzeu climatizat.",
-                "en": "Enjoy a comfortable, rain-free afternoon wandering through centuries of art in this magnificent, climate-controlled museum building."
+                "en": "Enjoy a comfortable, rain-free afternoon wandering through centuries of art in this magnificent, climate-controlled museum building.",
+                "tr": "İklim kontrollü bu muhteşem müze binasında yüzyıllar boyunca sanatın tadını çıkararak konforlu, yağmurdan uzak bir öğleden sonra geçirin."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Stalburg Theater",
                 "hu": "Stalburg Színház",
                 "ro": "Teatrul Stalburg",
-                "en": "Stalburg Theater"
+                "en": "Stalburg Theater",
+                "tr": "Stalburg Tiyatrosu"
               },
               "tip_5lang": {
                 "de": "Fahren Sie zu diesem gemütlichen Ort für ein warmes Kulturerlebnis; die lebhafte Atmosphäre hellt einen regnerischen Tag leicht auf.",
                 "hu": "Vezessen ehhez a hangulatos helyszínhez egy meleg kulturális élményért; a vidám benti légkör könnyedén feldob egy esős napot.",
                 "ro": "Conduceți spre acest loc primitor pentru o experiență culturală caldă; atmosfera sa plină de viață luminează o zi ploioasă.",
-                "en": "Drive easily to this cozy venue for a warm, dry cultural experience; its lively indoor atmosphere easily brightens up a grey rainy day."
+                "en": "Drive easily to this cozy venue for a warm, dry cultural experience; its lively indoor atmosphere easily brightens up a grey rainy day.",
+                "tr": "Sıcak, kuru bir kültürel deneyim için bu samimi mekâna kolayca sürün; canlı iç atmosferi gri bir yağmurlu günü kolayca aydınlatır."
               }
             },
             {
@@ -984,13 +1092,15 @@
                 "de": "Künstlerhaus Mousonturm",
                 "hu": "Mousonturm Művészeti Központ",
                 "ro": "Centrul de Artă Mousonturm",
-                "en": "Mousonturm Arts Center"
+                "en": "Mousonturm Arts Center",
+                "tr": "Mousonturm Sanat Merkezi"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag mit Avantgarde-Aufführungen drinnen; das überdachte Parkhaus in der Nähe hält Sie bis zur Heimfahrt trocken.",
                 "hu": "Zárja a napot avantgárd előadásokkal bent; a közeli fedett parkolóház garantálja, hogy szárazon marad a hazautazásig.",
                 "ro": "Încheiați ziua cu spectacole de avangardă la interior; parcarea acoperită din apropiere vă ține uscați până plecați acasă.",
-                "en": "Finish your day with avant-garde performances indoors; the secure covered parking nearby keeps you dry until you finally head home."
+                "en": "Finish your day with avant-garde performances indoors; the secure covered parking nearby keeps you dry until you finally head home.",
+                "tr": "Gününüzü avangard gösterilerle içeride bitirin; yakındaki güvenli kapalı otopark sizi eve gidene dek kuru tutar."
               }
             }
           ]
@@ -1000,7 +1110,8 @@
             "de": "Fahren Sie im beheizten Auto zum Kaiserdom und genießen Sie die frostige Luft am Römerberg. Mittags wärmen die Ausstellungen im Weltkulturen und Städel Museum. Wenn die Sonne um 17:00 Uhr untergeht, fahren Sie sicher zum Stalburg Theater und Mousonturm und genießen Sie die beleuchtete Winterstadt aus dem Auto.",
             "hu": "A fűtött autóból kiszállva csodálja meg a Dómot és a fagyos Römerberget. Délben a Világkultúrák és a Städel múzeumok fűtött termeiben melegedhet fel. Amikor 17:00 körül leereszkedik a sötétség, vezessen át a Stalburg Színházhoz és a Mousonturmhoz, élvezve a kivilágított téli város látványát az autóból.",
             "ro": "Conduceți la căldură spre Catedrală și bucurați-vă de aerul rece la Römerberg. La prânz, încălziți-vă în Muzeul Culturilor Lumii și Städel. Când soarele apune la 17:00, conduceți în siguranță spre Teatrul Stalburg și Mousonturm, admirând din mașină orașul de iarnă frumos iluminat.",
-            "en": "Drive warmly to the Cathedral and enjoy a brisk walk at Römerberg. Midday offers heated comfort inside the World Cultures and Städel museums. As the early sunset falls around 17:00, drive safely to the Stalburg Theater and Mousonturm, enjoying the glowing winter cityscapes from your heated car."
+            "en": "Drive warmly to the Cathedral and enjoy a brisk walk at Römerberg. Midday offers heated comfort inside the World Cultures and Städel museums. As the early sunset falls around 17:00, drive safely to the Stalburg Theater and Mousonturm, enjoying the glowing winter cityscapes from your heated car.",
+            "tr": "Katedrale sıcak bir sürüş yapın ve Römerberg'de hızlı bir yürüyüşin keyfini çıkarın. Öğle saatleri Dünya Kültürleri ve Städel müzelerinin içinde ısınma imkânı sunar. Erken gün batımı 17:00 civarında gerçekleşirken, Stalburg Tiyatrosu ve Mousonturm'a güvenli sürün; ısıtmalı aracınızdan karlı kış şehir manzaralarının tadını çıkarın."
           },
           "stops": [
             {
@@ -1008,13 +1119,15 @@
                 "de": "Kaiserdom St. Bartholomäus",
                 "hu": "Császári dóm",
                 "ro": "Catedrala Imperială",
-                "en": "Imperial Cathedral"
+                "en": "Imperial Cathedral",
+                "tr": "İmparatorluk Katedrali"
               },
               "tip_5lang": {
                 "de": "Verlassen Sie das beheizte Auto, um die ruhige, wenn auch kühle gotische Kathedrale zu erkunden; ihre Majestät wird im Winter verstärkt.",
                 "hu": "Hagyja el a fűtött autót, és fedezze fel a békés, bár hűvös gótikus katedrálist; csendes fensége a téli hónapokban még jobban érvényesül.",
                 "ro": "Lăsați mașina încălzită pentru a explora catedrala gotică senină, deși răcoroasă; măreția ei tăcută este amplificată iarna.",
-                "en": "Leave your heated car to explore the serene, albeit chilly, gothic cathedral; its quiet majesty is truly amplified in the winter."
+                "en": "Leave your heated car to explore the serene, albeit chilly, gothic cathedral; its quiet majesty is truly amplified in the winter.",
+                "tr": "Isıtmalı aracınızı bırakıp serin, ancak sakin gotik katedrali keşfedin; kışta sessiz ihtişamı gerçekten artar."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Römerberg",
                 "hu": "Römerberg tér",
                 "ro": "Piața Römerberg",
-                "en": "Römerberg Square"
+                "en": "Römerberg Square",
+                "tr": "Römerberg Meydanı"
               },
               "tip_5lang": {
                 "de": "Hüllen Sie sich in Ihren Wintermantel, um die frostigen Fachwerkhäuser zu bewundern, bevor Sie die Kälte zurück ins Auto treibt.",
                 "hu": "Burkolózzon meleg télikabátjába, hogy megcsodálja a fagyos favázas házakat, mielőtt a hideg visszakergetné a fűtött autóba.",
                 "ro": "Înfofoliți-vă în haina de iarnă pentru a admira casele cu cadru de lemn înainte ca frigul să vă trimită înapoi în mașină.",
-                "en": "Wrap up tightly in your thick winter coat to admire the frosty timber-framed houses before the cold quickly drives you back to the car."
+                "en": "Wrap up tightly in your thick winter coat to admire the frosty timber-framed houses before the cold quickly drives you back to the car.",
+                "tr": "Soğuk hızla sizi arabaya geri döndürmeden önce, donmuş ahşap çatılı evlere hayran kalmak için kalın kış kabanınızı sıkıca sarının."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Weltkulturen Museum",
                 "hu": "Világkultúrák Múzeuma",
                 "ro": "Muzeul Culturilor Lumii",
-                "en": "Museum of World Cultures"
+                "en": "Museum of World Cultures",
+                "tr": "Dünya Kültürleri Müzesi"
               },
               "tip_5lang": {
                 "de": "Tauen Sie in den warm beheizten Galerien auf, während Sie faszinierende ethnografische Exponate aus der ganzen Welt entdecken.",
                 "hu": "Olvadozzon a kellemesen fűtött galériákban, miközben lenyűgöző néprajzi kiállításokat fedez fel a világ minden tájáról.",
                 "ro": "Dezghețați-vă în galeriile calde în timp ce descoperiți exponate etnografice fascinante din întreaga lume.",
-                "en": "Thaw out completely in the warmly heated galleries while discovering fascinating ethnographic exhibits from all over the world."
+                "en": "Thaw out completely in the warmly heated galleries while discovering fascinating ethnographic exhibits from all over the world.",
+                "tr": "Sıcak ısıtmalı galerilerde tamamen ısının ve dünyanın dört bir yanından ilgi çekici etnografik eserleri keşfedin."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Städel Museum",
                 "hu": "Städel Múzeum",
                 "ro": "Muzeul Städel",
-                "en": "Städel Museum"
+                "en": "Städel Museum",
+                "tr": "Städel Müzesi"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie den eisigen Außentemperaturen und verbringen Sie Stunden mit erstklassiger Kunst in diesen gemütlichen, gut beleuchteten Hallen.",
                 "hu": "Meneküljön el a fagyos kinti hőmérséklet elől, és töltsön órákat a világszínvonalú művészetekben elmerülve ezekben a hangulatos termekben.",
                 "ro": "Scăpați de temperaturile de îngheț petrecând ore întregi scufundați în artă de talie mondială în aceste săli confortabile.",
-                "en": "Escape the freezing outdoor temperatures by spending hours immersed in world-class art within these cozy, well-lit halls."
+                "en": "Escape the freezing outdoor temperatures by spending hours immersed in world-class art within these cozy, well-lit halls.",
+                "tr": "Dışarıdaki dondurucu sıcaklıklardan kaçınmak için bu rahat, iyi aydınlatılmış salonlarda saatlerce dünya sınıfı sanatın içinde kaybolun."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Stalburg Theater",
                 "hu": "Stalburg Színház",
                 "ro": "Teatrul Stalburg",
-                "en": "Stalburg Theater"
+                "en": "Stalburg Theater",
+                "tr": "Stalburg Tiyatrosu"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die einladende Wärme und intime Atmosphäre dieses Theaters, wenn draußen der dunkle, kalte Winterabend hereinbricht.",
                 "hu": "Élvezze a színház hívogató melegét és meghitt atmoszféráját, miközben kint lassan leszáll a sötét, hideg téli este.",
                 "ro": "Bucurați-vă de căldura primitoare și atmosfera intimă a acestui teatru pe măsură ce se lasă seara întunecată și rece de iarnă.",
-                "en": "Enjoy the welcoming warmth and intimate atmosphere of this local theater as the dark, very cold winter evening sets in outside."
+                "en": "Enjoy the welcoming warmth and intimate atmosphere of this local theater as the dark, very cold winter evening sets in outside.",
+                "tr": "Dışarıda karanlık, çok soğuk bir kış gecesi başlarken bu yerel tiyatronun samimi atmosferi ve sıcaklığını keyifle yaşayın."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Künstlerhaus Mousonturm",
                 "hu": "Mousonturm Művészeti Központ",
                 "ro": "Centrul de Artă Mousonturm",
-                "en": "Mousonturm Arts Center"
+                "en": "Mousonturm Arts Center",
+                "tr": "Mousonturm Sanat Merkezi"
               },
               "tip_5lang": {
                 "de": "Erleben Sie moderne Kunst an einem wohlig beheizten Ort; die Rückfahrt bietet schöne Ausblicke auf die beleuchtete Winterstadt.",
                 "hu": "Tapasztalja meg a modern művészeteket egy kényelmesen fűtött helyszínen; a hazaút csodás kilátást nyújt a kivilágított téli városra.",
                 "ro": "Experimentați arte moderne într-un loc confortabil încălzit; drumul de întoarcere oferă vederi minunate ale orașului de iarnă iluminat.",
-                "en": "Experience cutting-edge arts in a comfortably heated venue; the warm drive back offers lovely views of the beautifully illuminated winter city."
+                "en": "Experience cutting-edge arts in a comfortably heated venue; the warm drive back offers lovely views of the beautifully illuminated winter city.",
+                "tr": "Konforlu ısıtmalı bir mekânda çağdaş sanatları deneyimleyin; sıcak dönüş yolunda güzelle aydınlatılmış kış şehrinin hoş manzaraları sizi bekler."
               }
             }
           ]

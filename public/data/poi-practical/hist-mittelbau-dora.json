@@ -3,55 +3,64 @@
     "de": "Kohnsteinweg 20, 99734 Nordhausen",
     "hu": "Kohnsteinweg 20, 99734 Nordhausen",
     "ro": "Kohnsteinweg 20, 99734 Nordhausen",
-    "en": "Kohnsteinweg 20, 99734 Nordhausen"
+    "en": "Kohnsteinweg 20, 99734 Nordhausen",
+    "tr": "Kohnsteinweg 20, 99734 Nordhausen"
   },
   "openingHours": {
     "de": "Di-So 10:00-18:00",
     "hu": "K-V 10:00-18:00",
     "ro": "Ma-Du 10:00-18:00",
-    "en": "Tue-Sun 10:00-18:00"
+    "en": "Tue-Sun 10:00-18:00",
+    "tr": "Salı-Pazar 10:00-18:00"
   },
   "entranceFee": {
     "de": "kostenfrei",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free of charge"
+    "en": "free of charge",
+    "tr": "ücretsiz"
   },
   "website": "https://www.buchenwald.de",
   "publicTransport": {
     "de": "Straßenbahn Linie 10 ab Nordhausen Bahnhof",
     "hu": "10-es villamos Nordhausen vasútállomástól",
     "ro": "Tramvai linia 10 din gara Nordhausen",
-    "en": "Tram line 10 from Nordhausen station"
+    "en": "Tram line 10 from Nordhausen station",
+    "tr": "Nordhausen istasyonundan tramvay hattı 10"
   },
   "parking": {
     "de": "Besucherparkplatz am Gelände, kostenfrei.",
     "hu": "Látogatói parkoló a területen, ingyenes.",
     "ro": "Parcare pentru vizitatori la fața locului, gratuit.",
-    "en": "Visitor parking on site, free of charge."
+    "en": "Visitor parking on site, free of charge.",
+    "tr": "Ziyaretçi otoparkı tesis içinde, ücretsiz."
   },
   "accessibility": {
     "de": "Gelände teilweise steil, Museumsbau voll barrierefrei.",
     "hu": "A terep helyenként meredek, a múzeumépület teljesen akadálymentes.",
     "ro": "Terenul este parțial abrupt, clădirea muzeului este complet accesibilă.",
-    "en": "Terrain is partly steep, the museum building is fully accessible."
+    "en": "Terrain is partly steep, the museum building is fully accessible.",
+    "tr": "Arazi kısmen dik; müze binası tamamen engelsiz erişime uygun."
   },
   "photoRules": {
     "de": "Außen erlaubt, Innenaufnahmen für Dokumentation.",
     "hu": "Kültéren megengedett, belső fotók csak dokumentációs céllal.",
     "ro": "Permis la exterior, fotografii la interior doar pentru documentare.",
-    "en": "Allowed outside, indoor photos for documentation purposes only."
+    "en": "Allowed outside, indoor photos for documentation purposes only.",
+    "tr": "Dış mekânda izinli, iç mekân fotoğrafları yalnızca dokümantasyon amaçlı."
   },
   "bestTimeToVisit": {
     "de": "Für Stollenbesichtigungen rechtzeitig anmelden.",
     "hu": "A tárnalátogatáshoz időben jelentkezzen be.",
     "ro": "Înscrieți-vă din timp pentru vizitarea galeriilor subterane.",
-    "en": "Register in advance for tours of the tunnels."
+    "en": "Register in advance for tours of the tunnels.",
+    "tr": "Tünel turları için önceden kayıt yaptırın."
   },
   "audioGuide": {
     "de": "ja, für das Außengelände",
     "hu": "igen, a kültéri részhez",
     "ro": "da, pentru zona exterioară",
-    "en": "yes, for the outdoor grounds"
+    "en": "yes, for the outdoor grounds",
+    "tr": "evet, dış alanlar için"
   }
 }

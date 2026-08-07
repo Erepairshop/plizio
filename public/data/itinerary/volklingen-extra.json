@@ -21,7 +21,8 @@
             "de": "Bahnhof Völklingen",
             "hu": "Völklingeni vasútállomás",
             "ro": "Gara Völklingen",
-            "en": "Völklingen Station"
+            "en": "Völklingen Station",
+            "tr": "Völklingen İstasyonu"
           },
           "coords": [
             6.8524,
@@ -36,7 +37,8 @@
             "de": "Historisches Empfangsgebäude, idealer Startpunkt.",
             "hu": "Történelmi felvételi épület, ideális kiindulópont.",
             "ro": "Clădire istorică, punctul de plecare ideal.",
-            "en": "Historic station building, ideal starting point."
+            "en": "Historic station building, ideal starting point.",
+            "tr": "Tarihi istasyon binası, ideal başlangıç noktası."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Völklinger Hütte",
             "hu": "Völklingeni Vasmű",
             "ro": "Combinatul siderurgic Völklingen",
-            "en": "Völklingen Ironworks"
+            "en": "Völklingen Ironworks",
+            "tr": "Völklingen Demir Çelik Fabrikası"
           },
           "coords": [
             6.8464,
@@ -59,7 +62,8 @@
             "de": "UNESCO-Weltkulturerbe, festes Schuhwerk empfohlen.",
             "hu": "UNESCO Világörökség, kényelmes cipő ajánlott.",
             "ro": "Patrimoniu UNESCO, se recomandă încălțăminte comodă.",
-            "en": "UNESCO World Heritage site, sturdy shoes recommended."
+            "en": "UNESCO World Heritage site, sturdy shoes recommended.",
+            "tr": "UNESCO Dünya Mirası alanı, sağlam ayakkabılar tavsiye edilir."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Saarbrücke Völklingen",
             "hu": "Völklingeni Saar-híd",
             "ro": "Podul peste Saar Völklingen",
-            "en": "Völklingen Saar Bridge"
+            "en": "Völklingen Saar Bridge",
+            "tr": "Völklingen Saar Köprüsü"
           },
           "coords": [
             6.848,
@@ -82,7 +87,8 @@
             "de": "Blick auf den Fluss und die Industriekulisse.",
             "hu": "Kilátás a folyóra és az ipari tájra.",
             "ro": "Vedere asupra râului și peisajului industrial.",
-            "en": "View of the river and the industrial backdrop."
+            "en": "View of the river and the industrial backdrop.",
+            "tr": "Nehir ve endüstriyel arka plan manzarası."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Vechea Primărie",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             6.8533,
@@ -105,7 +112,8 @@
             "de": "Prachtbau der Neorenaissance im Zentrum.",
             "hu": "Neoreneszánsz díszépület a központban.",
             "ro": "Clădire neorenascentistă superbă în centru.",
-            "en": "Grand Neo-Renaissance building in the center."
+            "en": "Grand Neo-Renaissance building in the center.",
+            "tr": "Merkezde görkemli Neo-Rönesans bina."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Handwerkerbrunnen",
             "hu": "Kézművesek kútja",
             "ro": "Fântâna Meșteșugarilor",
-            "en": "Craftsmen's Fountain"
+            "en": "Craftsmen's Fountain",
+            "tr": "Zanaatkârlar Çeşmesi"
           },
           "coords": [
             6.853,
@@ -128,7 +137,8 @@
             "de": "Symbol für die Arbeitswelt der Stadt.",
             "hu": "A város munkásvilágának jelképe.",
             "ro": "Simbol al lumii muncii din oraș.",
-            "en": "Symbol of the city's world of work."
+            "en": "Symbol of the city's world of work.",
+            "tr": "Şehrin emek dünyasının simgesi."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "St. Eligius-Kirche",
             "hu": "Szent Elégiusz-templom",
             "ro": "Biserica Sfântul Eligius",
-            "en": "St. Eligius Church"
+            "en": "St. Eligius Church",
+            "tr": "St. Eligius Kilisesi"
           },
           "coords": [
             6.854,
@@ -151,7 +162,8 @@
             "de": "Benannt nach dem Schutzpatron der Metallarbeiter.",
             "hu": "A fémmunkások védőszentjéről nevezték el.",
             "ro": "Numită după patronul metalurgiștilor.",
-            "en": "Named after the patron saint of metalworkers."
+            "en": "Named after the patron saint of metalworkers.",
+            "tr": "Metal işçilerinin koruyucu azizinin adını taşır."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Versöhnungskirche",
             "hu": "Megbékélés temploma",
             "ro": "Biserica Reconcilierii",
-            "en": "Church of Reconciliation"
+            "en": "Church of Reconciliation",
+            "tr": "Barış Kilisesi"
           },
           "coords": [
             6.8525,
@@ -174,7 +187,8 @@
             "de": "Herausragende Akustik und moderne Fenster.",
             "hu": "Kiváló akusztika és modern ablakok.",
             "ro": "Acustică remarcabilă și ferestre moderne.",
-            "en": "Outstanding acoustics and modern windows."
+            "en": "Outstanding acoustics and modern windows.",
+            "tr": "Olağanüstü akustik ve modern vitray pencereler."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Völklingen bietet eine faszinierende Reise durch die Industriegeschichte. Der Vormittag gehört der gigantischen Hütte, in der man den Geist der Eisenverhüttung spürt. Nachmittags erkunden wir den Stadtkern mit seinen Kirchen und dem prächtigen Rathaus, bevor der Tag am Saar-Ufer ausklingt.",
         "hu": "Völklingen lenyűgöző utazást kínál az ipartörténetben. A délelőtt a hatalmas Vasműé, ahol átélhetjük a vasgyártás hangulatát. Délután felfedezzük a városközpontot templomaival és a pompás városházával, mielőtt a napot a Saar-parton zárnánk.",
         "ro": "Völklingen oferă o călătorie fascinantă prin istoria industrială. Dimineața este dedicată combinatului gigantic, unde se simte spiritul metalurgiei. După-amiaza explorăm centrul orașului cu bisericile sale și primăria grandioasă, înainte de a încheia ziua pe malul râului Saar.",
-        "en": "Völklingen offers a fascinating journey through industrial history. The morning is spent at the massive Ironworks, where you can feel the spirit of iron smelting. In the afternoon, we explore the city center with its churches and the grand town hall, before ending the day on the banks of the Saar."
+        "en": "Völklingen offers a fascinating journey through industrial history. The morning is spent at the massive Ironworks, where you can feel the spirit of iron smelting. In the afternoon, we explore the city center with its churches and the grand town hall, before ending the day on the banks of the Saar.",
+        "tr": "Völklingen, endüstriyel tarih boyunca büyüleyici bir yolculuk sunuyor. Sabah devasa Demir Çelik Fabrikasında geçer; burada demir eritmenin ruhunu hissedebilirsiniz. Öğleden sonra kiliseler ve görkemli belediye binasıyla şehir merkezini keşfediyoruz, günü ise Saar kıyısında bitiriyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -322,6 +337,11 @@
           "The ironworks requires a lot of walking; comfortable shoes are a must.",
           "Special guided tours are often available on Sundays.",
           "Use the combined ticket for access to all exhibitions."
+        ],
+        "tr": [
+          "Demir çelik fabrikasında çok fazla yürüyüş gerekir; rahat ayakkabılar zorunludur.",
+          "Pazar günleri genellikle özel rehberli turlar sunulur.",
+          "Tüm sergilere erişim için birleşik bileti kullanın."
         ]
       }
     },
@@ -338,7 +358,8 @@
             "de": "Bahnhof Völklingen",
             "hu": "Völklingeni vasútállomás",
             "ro": "Gara Völklingen",
-            "en": "Völklingen Station"
+            "en": "Völklingen Station",
+            "tr": "Völklingen İstasyonu"
           },
           "coords": [
             6.8524,
@@ -353,7 +374,8 @@
             "de": "Start am Saar-Radweg.",
             "hu": "Indulás a Saar-kerékpárúton.",
             "ro": "Start pe pista de biciclete Saar.",
-            "en": "Start at the Saar Cycle Path."
+            "en": "Start at the Saar Cycle Path.",
+            "tr": "Saar Bisiklet Yolu'nda başlangıç."
           }
         },
         {
@@ -361,7 +383,8 @@
             "de": "Völklinger Stadtpark",
             "hu": "Völklingeni Városliget",
             "ro": "Parcul orașului Völklingen",
-            "en": "Völklingen City Park"
+            "en": "Völklingen City Park",
+            "tr": "Völklingen Şehir Parkı"
           },
           "coords": [
             6.858,
@@ -376,7 +399,8 @@
             "de": "Grüne Oase mit breiten Wegen.",
             "hu": "Zöld oázis széles utakkal.",
             "ro": "Oază verde cu alei largi.",
-            "en": "Green oasis with wide paths."
+            "en": "Green oasis with wide paths.",
+            "tr": "Geniş patikalı yeşil vaha."
           }
         },
         {
@@ -384,7 +408,8 @@
             "de": "Völklinger Hütte",
             "hu": "Völklingeni Vasmű",
             "ro": "Combinatul siderurgic Völklingen",
-            "en": "Völklingen Ironworks"
+            "en": "Völklingen Ironworks",
+            "tr": "Völklingen Demir Çelik Fabrikası"
           },
           "coords": [
             6.8464,
@@ -399,7 +424,8 @@
             "de": "Fahrradparkplätze am Eingang vorhanden.",
             "hu": "Kerékpártárolók a bejáratnál.",
             "ro": "Parcare pentru biciclete disponibilă la intrare.",
-            "en": "Bicycle parking available at the entrance."
+            "en": "Bicycle parking available at the entrance.",
+            "tr": "Girişte bisiklet park yeri mevcut."
           }
         },
         {
@@ -407,7 +433,8 @@
             "de": "Saarbrücke Völklingen",
             "hu": "Völklingeni Saar-híd",
             "ro": "Podul peste Saar Völklingen",
-            "en": "Völklingen Saar Bridge"
+            "en": "Völklingen Saar Bridge",
+            "tr": "Völklingen Saar Köprüsü"
           },
           "coords": [
             6.848,
@@ -422,7 +449,8 @@
             "de": "Einstieg in den Treppelweg am Fluss.",
             "hu": "Csatlakozás a folyóparti úthoz.",
             "ro": "Acces la drumul de pe malul râului.",
-            "en": "Access to the riverside towpath."
+            "en": "Access to the riverside towpath.",
+            "tr": "Nehir kenarı römork yolu erişimi."
           }
         },
         {
@@ -430,7 +458,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Vechea Primărie",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             6.8533,
@@ -445,7 +474,8 @@
             "de": "Zentraler Platz für eine kurze Pause.",
             "hu": "Központi tér egy rövid pihenőre.",
             "ro": "Piață centrală pentru o scurtă pauză.",
-            "en": "Central square for a short break."
+            "en": "Central square for a short break.",
+            "tr": "Kısa bir mola için merkezi meydan."
           }
         },
         {
@@ -453,7 +483,8 @@
             "de": "Handwerkerbrunnen",
             "hu": "Kézművesek kútja",
             "ro": "Fântâna Meșteșugarilor",
-            "en": "Craftsmen's Fountain"
+            "en": "Craftsmen's Fountain",
+            "tr": "Zanaatkârlar Çeşmesi"
           },
           "coords": [
             6.853,
@@ -468,7 +499,8 @@
             "de": "Idealer Ort für ein schnelles Foto.",
             "hu": "Ideális hely egy gyors fotóhoz.",
             "ro": "Loc ideal pentru o fotografie rapidă.",
-            "en": "Ideal spot for a quick photo."
+            "en": "Ideal spot for a quick photo.",
+            "tr": "Hızlı bir fotoğraf için ideal nokta."
           }
         }
       ],
@@ -476,7 +508,8 @@
         "de": "Per Rad lässt sich Völklingen und die Saar perfekt verbinden. Nach einer Runde durch den Stadtpark tauchen wir tief in die Industriekultur der Hütte ein. Der Rückweg führt entlang der Saar, wo Industrieromantik auf Flusslandschaft trifft.",
         "hu": "Kerékpárral Völklingen és a Saar-vidék tökéletesen összeköthető. A városligeti kör után elmélyedünk a vasmű ipari kultúrájában. A visszaút a Saar mentén vezet, ahol az ipari romantika találkozik a folyóparti tájjal.",
         "ro": "Cu bicicleta, Völklingen și râul Saar pot fi combinate perfect. După o tură prin parcul orașului, ne scufundăm în cultura industrială a combinatului. Drumul de întoarcere urmează cursul râului Saar, unde romantismul industrial întâlnește peisajul fluvial.",
-        "en": "Völklingen and the Saar can be perfectly combined by bike. After a loop through the city park, we dive deep into the industrial culture of the ironworks. The return journey leads along the Saar, where industrial romance meets the river landscape."
+        "en": "Völklingen and the Saar can be perfectly combined by bike. After a loop through the city park, we dive deep into the industrial culture of the ironworks. The return journey leads along the Saar, where industrial romance meets the river landscape.",
+        "tr": "Völklingen ve Saar bisikletle mükemmel şekilde birleştirilebilir. Şehir parkında bir turun ardından demir çelik fabrikasının endüstri kültürüne dalıyoruz. Dönüş yolu Saar boyunca, endüstriyel romantizmin nehir manzarasıyla buluştuğu bir güzergâhtır."
       },
       "gastro_picks": {
         "de": [
@@ -576,6 +609,10 @@
         "en": [
           "The Saar cycle path is flat and very well-developed.",
           "Watch out for pedestrians in the city park."
+        ],
+        "tr": [
+          "Saar bisiklet yolu düz ve çok iyi gelişmiş.",
+          "Şehir parkında yayalara dikkat edin."
         ]
       }
     },
@@ -592,7 +629,8 @@
             "de": "Völklinger Hütte (Cluster 1)",
             "hu": "Völklingeni Vasmű",
             "ro": "Combinatul siderurgic Völklingen",
-            "en": "Völklingen Ironworks"
+            "en": "Völklingen Ironworks",
+            "tr": "Völklingen Demir-İşletmesi"
           },
           "coords": [
             6.8464,
@@ -607,7 +645,8 @@
             "de": "Großer Parkplatz direkt am Weltkulturerbe.",
             "hu": "Nagy parkoló közvetlenül a Világörökség mellett.",
             "ro": "Parcare mare chiar lângă situl UNESCO.",
-            "en": "Large parking lot right at the World Heritage site."
+            "en": "Large parking lot right at the World Heritage site.",
+            "tr": "Dünya Mirası alanının hemen yanında büyük otopark."
           }
         },
         {
@@ -615,7 +654,8 @@
             "de": "Saarbrücke Völklingen",
             "hu": "Völklingeni Saar-híd",
             "ro": "Podul peste Saar Völklingen",
-            "en": "Völklingen Saar Bridge"
+            "en": "Völklingen Saar Bridge",
+            "tr": "Völklingen Saar Köprüsü"
           },
           "coords": [
             6.848,
@@ -630,7 +670,8 @@
             "de": "Kurzer Spaziergang von der Hütte aus.",
             "hu": "Rövid séta a vasműtől.",
             "ro": "Scurtă plimbare de la combinat.",
-            "en": "Short walk from the ironworks."
+            "en": "Short walk from the ironworks.",
+            "tr": "Demirhane'den kısa bir yürüyüş."
           }
         },
         {
@@ -638,7 +679,8 @@
             "de": "Altes Rathaus (Cluster 2)",
             "hu": "Régi Városháza",
             "ro": "Vechea Primărie",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             6.8533,
@@ -653,7 +695,8 @@
             "de": "Parkhaus in der Nähe nutzen.",
             "hu": "Használja a közeli parkolóházat.",
             "ro": "Folosiți parcarea supraetajată din apropiere.",
-            "en": "Use the nearby parking garage."
+            "en": "Use the nearby parking garage.",
+            "tr": "Yakındaki otopark katını kullanın."
           }
         },
         {
@@ -661,7 +704,8 @@
             "de": "Handwerkerbrunnen",
             "hu": "Kézművesek kútja",
             "ro": "Fântâna Meșteșugarilor",
-            "en": "Craftsmen's Fountain"
+            "en": "Craftsmen's Fountain",
+            "tr": "Zanaatkârlar Çeşmesi"
           },
           "coords": [
             6.853,
@@ -676,7 +720,8 @@
             "de": "Zu Fuß vom Rathaus erreichbar.",
             "hu": "Gyalogosan elérhető a városházától.",
             "ro": "Accesibil pe jos de la primărie.",
-            "en": "Accessible on foot from the town hall."
+            "en": "Accessible on foot from the town hall.",
+            "tr": "Belediye binasından yürüyerek ulaşılabilir."
           }
         },
         {
@@ -684,7 +729,8 @@
             "de": "St. Eligius-Kirche",
             "hu": "Szent Elégiusz-templom",
             "ro": "Biserica Sfântul Eligius",
-            "en": "St. Eligius Church"
+            "en": "St. Eligius Church",
+            "tr": "Aziz Eligius Kilisesi"
           },
           "coords": [
             6.854,
@@ -699,7 +745,8 @@
             "de": "Spaziergang durch den Stadtkern.",
             "hu": "Séta a városmagon keresztül.",
             "ro": "Plimbare prin nucleul orașului.",
-            "en": "Walk through the city core."
+            "en": "Walk through the city core.",
+            "tr": "Şehir merkezinden yürüyün."
           }
         },
         {
@@ -707,7 +754,8 @@
             "de": "Versöhnungskirche",
             "hu": "Megbékélés temploma",
             "ro": "Biserica Reconcilierii",
-            "en": "Church of Reconciliation"
+            "en": "Church of Reconciliation",
+            "tr": "Uzlaşma Kilisesi"
           },
           "coords": [
             6.8525,
@@ -722,7 +770,8 @@
             "de": "Nur wenige Schritte von St. Eligius.",
             "hu": "Csak pár lépés a Szent Elégiusztól.",
             "ro": "La doar câțiva pași de Sf. Eligius.",
-            "en": "Just a few steps from St. Eligius."
+            "en": "Just a few steps from St. Eligius.",
+            "tr": "Aziz Eligius'tan sadece birkaç adım uzaklıkta."
           }
         },
         {
@@ -730,7 +779,8 @@
             "de": "Völklinger Stadtpark (Cluster 3)",
             "hu": "Völklingeni Városliget",
             "ro": "Parcul orașului Völklingen",
-            "en": "Völklingen City Park"
+            "en": "Völklingen City Park",
+            "tr": "Völklingen Şehir Parkı"
           },
           "coords": [
             6.858,
@@ -745,7 +795,8 @@
             "de": "Parkplätze am Stadthallen-Umfeld.",
             "hu": "Parkolók a városi csarnok környékén.",
             "ro": "Parcări în jurul sălii polivalente.",
-            "en": "Parking around the city hall area."
+            "en": "Parking around the city hall area.",
+            "tr": "Belediye binası çevresinde park yeri."
           }
         }
       ],
@@ -753,7 +804,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Cluster von Völklingen. Wir starten intensiv beim Weltkulturerbe, bevor wir das Fahrzeug im Stadtzentrum abstellen und die historischen Sehenswürdigkeiten zu Fuß erkunden. Ein kurzer Trip zum Stadtpark rundet den Tag ab.",
         "hu": "Autóval kényelmesen elérheti Völklingen különböző részeit. Intenzíven kezdünk a Világörökségnél, majd a járművet a városközpontban hagyva gyalog fedezzük fel a történelmi látnivalókat. Egy rövid kiruccanás a Városligetbe teszi teljessé a napot.",
         "ro": "Cu mașina, puteți ajunge confortabil la diferitele zone din Völklingen. Începem intens la situl UNESCO, înainte de a lăsa vehiculul în centrul orașului pentru a explora atracțiile istorice pe jos. O scurtă vizită în parcul orașului completează ziua.",
-        "en": "By car, you can comfortably reach the various clusters of Völklingen. We start intensively at the World Heritage site, before leaving the vehicle in the city center and exploring the historic sights on foot. A short trip to the city park rounds off the day."
+        "en": "By car, you can comfortably reach the various clusters of Völklingen. We start intensively at the World Heritage site, before leaving the vehicle in the city center and exploring the historic sights on foot. A short trip to the city park rounds off the day.",
+        "tr": "Arabayla Völklingen'in farklı kümelerine rahatça ulaşabilirsiniz. Günümüze yoğun olarak Dünya Mirası alanında başlıyor, ardından aracı şehir merkezinde bırakıp tarihi yerleri yaya olarak geziyoruz. Kısa bir şehir parkı gezisi günün sonunu tamamlıyor."
       },
       "gastro_picks": {
         "de": [
@@ -853,6 +905,10 @@
         "en": [
           "Parking at the ironworks is free.",
           "In the city center, watch out for mandatory parking disc zones."
+        ],
+        "tr": [
+          "Demirhanede park ücretsizdir.",
+          "Şehir merkezinde, park diski uygulanan alanlara dikkat edin."
         ]
       }
     },
@@ -869,7 +925,8 @@
             "de": "Bahnhof Völklingen",
             "hu": "Völklingeni vasútállomás",
             "ro": "Gara Völklingen",
-            "en": "Völklingen Station"
+            "en": "Völklingen Station",
+            "tr": "Völklingen İstasyonu"
           },
           "coords": [
             6.8524,
@@ -884,7 +941,8 @@
             "de": "Zentraler Verkehrsknotenpunkt.",
             "hu": "Központi közlekedési csomópont.",
             "ro": "Nod central de transport.",
-            "en": "Central transport hub."
+            "en": "Central transport hub.",
+            "tr": "Merkezi ulaşım bağlantı noktası."
           }
         },
         {
@@ -892,7 +950,8 @@
             "de": "Völklinger Hütte",
             "hu": "Völklingeni Vasmű",
             "ro": "Combinatul siderurgic Völklingen",
-            "en": "Völklingen Ironworks"
+            "en": "Völklingen Ironworks",
+            "tr": "Völklingen Demir-İşletmesi"
           },
           "coords": [
             6.8464,
@@ -907,7 +966,8 @@
             "de": "Nur 5 Gehminuten vom Bahnhof.",
             "hu": "Mindössze 5 perc séta az állomástól.",
             "ro": "La doar 5 minute de mers pe jos de gară.",
-            "en": "Only a 5-minute walk from the station."
+            "en": "Only a 5-minute walk from the station.",
+            "tr": "İstasyondan sadece 5 dakikalık yürüme mesafesinde."
           }
         },
         {
@@ -915,7 +975,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Vechea Primărie",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             6.8533,
@@ -930,7 +991,8 @@
             "de": "Bus 110/184 bis Stadtbad/Rathaus.",
             "hu": "110/184-es busz a Stadtbad/Rathaus megállóig.",
             "ro": "Autobuzul 110/184 până la Stadtbad/Rathaus.",
-            "en": "Bus 110/184 to Stadtbad/Rathaus."
+            "en": "Bus 110/184 to Stadtbad/Rathaus.",
+            "tr": "Stadtbad/Rathaus yönüne giden 110/184 numaralı otobüsler."
           }
         },
         {
@@ -938,7 +1000,8 @@
             "de": "Handwerkerbrunnen",
             "hu": "Kézművesek kútja",
             "ro": "Fântâna Meșteșugarilor",
-            "en": "Craftsmen's Fountain"
+            "en": "Craftsmen's Fountain",
+            "tr": "Zanaatkârlar Çeşmesi"
           },
           "coords": [
             6.853,
@@ -953,7 +1016,8 @@
             "de": "Direkt im Fußgängerbereich.",
             "hu": "Közvetlenül a sétálóövezetben.",
             "ro": "Chiar în zona pietonală.",
-            "en": "Right in the pedestrian area."
+            "en": "Right in the pedestrian area.",
+            "tr": "Yaya bölgesinin tam içinde."
           }
         },
         {
@@ -961,7 +1025,8 @@
             "de": "St. Eligius-Kirche",
             "hu": "Szent Elégiusz-templom",
             "ro": "Biserica Sfântul Eligius",
-            "en": "St. Eligius Church"
+            "en": "St. Eligius Church",
+            "tr": "Aziz Eligius Kilisesi"
           },
           "coords": [
             6.854,
@@ -976,7 +1041,8 @@
             "de": "Zentraler Platz, gut angebunden.",
             "hu": "Központi tér, jó összeköttetéssel.",
             "ro": "Piață centrală, bine conectată.",
-            "en": "Central square, well-connected."
+            "en": "Central square, well-connected.",
+            "tr": "Merkezi meydan, iyi bağlantılı."
           }
         },
         {
@@ -984,7 +1050,8 @@
             "de": "Völklinger Stadtpark",
             "hu": "Völklingeni Városliget",
             "ro": "Parcul orașului Völklingen",
-            "en": "Völklingen City Park"
+            "en": "Völklingen City Park",
+            "tr": "Völklingen Şehir Parkı"
           },
           "coords": [
             6.858,
@@ -999,7 +1066,8 @@
             "de": "Bus bis Haltestelle Neues Rathaus.",
             "hu": "Busz a Neues Rathaus megállóig.",
             "ro": "Autobuz până la stația Neues Rathaus.",
-            "en": "Bus to the Neues Rathaus stop."
+            "en": "Bus to the Neues Rathaus stop.",
+            "tr": "Neues Rathaus durağına giden otobüs."
           }
         }
       ],
@@ -1007,7 +1075,8 @@
         "de": "Völklingen ist hervorragend an das Schienennetz angebunden. Vom Bahnhof ist die Hütte in wenigen Schritten erreicht. Regionale Busse verbinden das UNESCO-Erbe mit dem Stadtzentrum und den Parkanlagen, sodass ein Auto nicht nötig ist.",
         "hu": "Völklingen kiválóan csatlakozik a vasúthálózathoz. Az állomástól a vasmű pár lépéssel elérhető. Regionális buszok kötik össze az UNESCO örökséget a városközponttal és a parkokkal, így nincs szükség autóra.",
         "ro": "Völklingen este excelent conectat la rețeaua feroviară. De la gară, combinatul este la doar câțiva pași. Autobuzele regionale conectează situl UNESCO cu centrul orașului și parcurile, astfel că nu este nevoie de mașină.",
-        "en": "Völklingen is excellently connected to the rail network. The ironworks can be reached in just a few steps from the station. Regional buses connect the UNESCO heritage site with the city center and the parks, so a car is not necessary."
+        "en": "Völklingen is excellently connected to the rail network. The ironworks can be reached in just a few steps from the station. Regional buses connect the UNESCO heritage site with the city center and the parks, so a car is not necessary.",
+        "tr": "Völklingen demiryolu ağına mükemmel bağlı. Demirhane istasyondan sadece birkaç adımda ulaşılabilir. Bölgesel otobüsler UNESCO miras alanını şehir merkezi ve parklarla bağladığından araba gerekli değil."
       },
       "gastro_picks": {
         "de": [
@@ -1107,6 +1176,10 @@
         "en": [
           "Use the Saarbahn for trips to Saarbrücken.",
           "Day tickets are usually cheaper."
+        ],
+        "tr": [
+          "Saarbrücken'e gitmek için Saarbahn'ı kullanın.",
+          "Günlük biletler genellikle daha ucuzdur."
         ]
       }
     }

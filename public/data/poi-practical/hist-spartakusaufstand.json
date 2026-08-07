@@ -3,55 +3,64 @@
     "de": "Lindenstraße/Ecke Zimmerstraße, 10969 Berlin",
     "hu": "Lindenstraße/Ecke Zimmerstraße, 10969 Berlin",
     "ro": "Lindenstraße/Ecke Zimmerstraße, 10969 Berlin",
-    "en": "Lindenstraße/Ecke Zimmerstraße, 10969 Berlin"
+    "en": "Lindenstraße/Ecke Zimmerstraße, 10969 Berlin",
+    "tr": "Lindenstraße/Köşe Zimmerstraße, 10969 Berlin"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "7/24"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "",
   "publicTransport": {
     "de": "U6 (Kochstraße/Checkpoint Charlie)",
     "hu": "U6 metró (Kochstraße/Checkpoint Charlie)",
     "ro": "U6 (Kochstraße/Checkpoint Charlie)",
-    "en": "U6 (Kochstraße/Checkpoint Charlie)"
+    "en": "U6 (Kochstraße/Checkpoint Charlie)",
+    "tr": "U6 (Kochstraße/Checkpoint Charlie)"
   },
   "parking": {
     "de": "Parken im öffentlichen Straßenraum schwierig und teuer.",
     "hu": "Utcai parkolás nehézkes és drága.",
     "ro": "Parcarea pe străzile publice este dificilă și scumpă.",
-    "en": "Parking on public streets is difficult and expensive."
+    "en": "Parking on public streets is difficult and expensive.",
+    "tr": "Kamusal sokaklarda park etmek zor ve pahalı."
   },
   "accessibility": {
     "de": "Ebenerdig zugänglich (Gehweg).",
     "hu": "Akadálymentesen megközelíthető (járda).",
     "ro": "Accesibil la nivelul solului (trotuar).",
-    "en": "Ground-level accessible (sidewalk)."
+    "en": "Ground-level accessible (sidewalk).",
+    "tr": "Kaldırım düzeyinde erişilebilir (yer seviyesinde)."
   },
   "photoRules": {
     "de": "Erlaubt.",
     "hu": "Engedélyezett.",
     "ro": "Permis.",
-    "en": "Allowed."
+    "en": "Allowed.",
+    "tr": "İzinli."
   },
   "bestTimeToVisit": {
     "de": "Tagsüber zur Besichtigung der Informationstafeln.",
     "hu": "Napközben az információs táblák megtekintéséhez.",
     "ro": "În timpul zilei pentru a citi panourile informative.",
-    "en": "During the day to view the information boards."
+    "en": "During the day to view the information boards.",
+    "tr": "Gündüz bilgi panolarını görmek için."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

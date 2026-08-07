@@ -21,7 +21,8 @@
             "de": "Rathaus-Galerie",
             "hu": "Rathaus-Galerie",
             "ro": "Rathaus-Galerie",
-            "en": "Rathaus-Galerie"
+            "en": "Rathaus-Galerie",
+            "tr": "Rathaus-Galerie"
           },
           "coords": [
             51.0315,
@@ -36,7 +37,8 @@
             "de": "Moderner Treffpunkt im Zentrum von Wiesdorf.",
             "hu": "Wiesdorf központjának modern találkozóhelye.",
             "ro": "Punct de întâlnire modern în centrul orașului Wiesdorf.",
-            "en": "Modern meeting point in the heart of Wiesdorf."
+            "en": "Modern meeting point in the heart of Wiesdorf.",
+            "tr": "Wiesdorf kalbinde modern buluşma noktası."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Christuskirche Wiesdorf",
             "hu": "Wiesdorfi Krisztus-templom",
             "ro": "Biserica Christuskirche Wiesdorf",
-            "en": "Christ Church Wiesdorf"
+            "en": "Christ Church Wiesdorf",
+            "tr": "Christ Church Wiesdorf"
           },
           "coords": [
             51.0285,
@@ -59,7 +62,8 @@
             "de": "Schlichte evangelische Kirche mit schöner Backsteinarchitektur.",
             "hu": "Egyszerű evangélikus templom szép téglaarchitektúrával.",
             "ro": "Biserică evanghelică simplă cu arhitectură frumoasă din cărămidă.",
-            "en": "Simple Protestant church with beautiful brick architecture."
+            "en": "Simple Protestant church with beautiful brick architecture.",
+            "tr": "Güzel tuğla mimarili sade Protestan kilisesi."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Japanischer Garten",
             "hu": "Japánkert",
             "ro": "Grădina Japoneză",
-            "en": "Japanese Garden"
+            "en": "Japanese Garden",
+            "tr": "Japon Bahçesi"
           },
           "coords": [
             51.0135,
@@ -82,7 +87,8 @@
             "de": "Einer der schönsten Gärten Deutschlands, besonders zur Kirschblüte.",
             "hu": "Németország egyik legszebb kertje, különösen cseresznyevirágzáskor.",
             "ro": "Una dintre cele mai frumoase grădini din Germania, superbă la înflorirea cireșilor.",
-            "en": "One of Germany's most beautiful gardens, stunning during cherry blossoms."
+            "en": "One of Germany's most beautiful gardens, stunning during cherry blossoms.",
+            "tr": "Kiraz çiçekleri döneminde etkileyici, Almanya'nın en güzel bahçelerinden biri."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Neuland-Park",
             "hu": "Neuland-Park",
             "ro": "Parcul Neuland",
-            "en": "Neuland-Park"
+            "en": "Neuland-Park",
+            "tr": "Neuland-Park"
           },
           "coords": [
             51.0355,
@@ -105,7 +112,8 @@
             "de": "Ehemaliges Laga-Gelände direkt am Rheinufer.",
             "hu": "Egykori kertészeti kiállítási terület közvetlenül a Rajna partján.",
             "ro": "Fost sit de expoziție horticole chiar pe malul Rinului.",
-            "en": "Former garden show grounds directly on the banks of the Rhine."
+            "en": "Former garden show grounds directly on the banks of the Rhine.",
+            "tr": "Ren Nehri kıyısında eski bahçe fuarı alanı."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "BayArena",
             "hu": "BayArena",
             "ro": "BayArena",
-            "en": "BayArena"
+            "en": "BayArena",
+            "tr": "BayArena"
           },
           "coords": [
             51.0385,
@@ -128,7 +137,8 @@
             "de": "Das hochmoderne Stadion von Bayer 04 Leverkusen.",
             "hu": "A Bayer 04 Leverkusen ultramodern stadionja.",
             "ro": "Stadionul ultramodern al echipei Bayer 04 Leverkusen.",
-            "en": "The ultra-modern stadium of Bayer 04 Leverkusen."
+            "en": "The ultra-modern stadium of Bayer 04 Leverkusen.",
+            "tr": "Bayer 04 Leverkusen'in ultra-modern stadyumu."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Wildpark Reuschenberg",
             "hu": "Reuschenberg vadaspark",
             "ro": "Parcul de animale Reuschenberg",
-            "en": "Reuschenberg Wildlife Park"
+            "en": "Reuschenberg Wildlife Park",
+            "tr": "Reuschenberg Vahşi Yaşam Parkı"
           },
           "coords": [
             51.0485,
@@ -151,7 +162,8 @@
             "de": "Heimische Tiere in weitläufigen Gehegen.",
             "hu": "Hazai állatfajok tágas kifutókban.",
             "ro": "Animale native în incinte spațioase.",
-            "en": "Native animals in spacious enclosures."
+            "en": "Native animals in spacious enclosures.",
+            "tr": "Geniş yaşam alanlarında yerli hayvanlar."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag beginnt im Herzen von Wiesdorf bei der Rathaus-Galerie, dem pulsierenden Mittelpunkt der Stadt. Nach einem kurzen Besuch der Christuskirche spazieren Sie zum Highlight: dem Japanischen Garten. Mittags genießen Sie die Weite des Neuland-Parks am Rhein. Am Nachmittag bewundern Sie die Architektur der BayArena, bevor der Tag entspannt im Wildpark Reuschenberg zwischen Rehen und Ottern ausklingt.",
         "hu": "A napot Wiesdorf szívében, a Rathaus-Galerie környékén kezdi, ami a város lüktető központja. A Krisztus-templom érintésével elsétál a város ékkövéhez, a Japánkerthez. Délben a Rajna-parti Neuland-Park tágas zöldfelületein pihenhet. Délután megcsodálhatja a BayArena modern stadionját, végül pedig a Reuschenberg vadasparkban, őzek és vidrák között zárhatja a napot.",
         "ro": "Ziua începe în inima cartierului Wiesdorf, la Rathaus-Galerie, centrul vibrant al orașului. După o scurtă vizită la Christuskirche, mergeți spre punctul culminant: Grădina Japoneză. La prânz, bucurați-vă de spațiul vast al Parcului Neuland de pe malul Rinului. După-amiaza, admirați arhitectura BayArena, înainte de a încheia ziua relaxat la parcul de animale Reuschenberg, printre căprioare și vidre.",
-        "en": "Your day starts in the heart of Wiesdorf at the Rathaus-Galerie, the city's vibrant center. After a quick visit to Christ Church, walk to the highlight: the Japanese Garden. At midday, enjoy the wide spaces of Neuland-Park on the Rhine. In the afternoon, admire the architecture of the BayArena before ending the day relaxed at the Reuschenberg Wildlife Park among deer and otters."
+        "en": "Your day starts in the heart of Wiesdorf at the Rathaus-Galerie, the city's vibrant center. After a quick visit to Christ Church, walk to the highlight: the Japanese Garden. At midday, enjoy the wide spaces of Neuland-Park on the Rhine. In the afternoon, admire the architecture of the BayArena before ending the day relaxed at the Reuschenberg Wildlife Park among deer and otters.",
+        "tr": "Gününüz Wiesdorf kalbinde Rathaus-Galerie'de başlar; şehrin canlı merkezi burasıdır. Christ Church'i kısa bir ziyaretin ardından vurguya, Japon Bahçesi'ne yürüyün. Öğle vakti Ren kıyısındaki geniş Neuland-Park'ın tadını çıkarın. Öğleden sonra BayArena'nın mimarisine hayran kalın ve günü geyik ve su samurları arasında Reuschenberg Vahşi Yaşam Parkı'nda dinlenerek bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "Use the pedestrian bridge to Neuland-Park for great photos.",
           "The Japanese Garden is most impressive in spring.",
           "Combine your BayArena visit with a stadium tour."
+        ],
+        "tr": [
+          "Leverkusen düz ve yürüyüş veya bisiklet için ideal.",
+          "Neuland-Park için yaya köprüsünü harika fotoğraflar için kullanın.",
+          "Japon Bahçesi en etkileyici haliyle ilkbaharda olur.",
+          "BayArena ziyaretinizi stadyum turuyla birleştirin."
         ]
       }
     },
@@ -335,7 +354,8 @@
             "de": "Rathaus-Galerie",
             "hu": "Rathaus-Galerie",
             "ro": "Rathaus-Galerie",
-            "en": "Rathaus-Galerie"
+            "en": "Rathaus-Galerie",
+            "tr": "Rathaus-Galerie"
           },
           "coords": [
             51.0315,
@@ -350,7 +370,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Központi indulópont.",
             "ro": "Punct de plecare în centru.",
-            "en": "Starting point in the center."
+            "en": "Starting point in the center.",
+            "tr": "Merkezde başlangıç noktası."
           }
         },
         {
@@ -358,7 +379,8 @@
             "de": "BayArena",
             "hu": "BayArena",
             "ro": "BayArena",
-            "en": "BayArena"
+            "en": "BayArena",
+            "tr": "BayArena"
           },
           "coords": [
             51.0385,
@@ -373,7 +395,8 @@
             "de": "Fotostopp am Stadion.",
             "hu": "Fotómegálló a stadionnál.",
             "ro": "Popas foto la stadion.",
-            "en": "Photo stop at the stadium."
+            "en": "Photo stop at the stadium.",
+            "tr": "Stadyumda fotoğraf molası."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Wildpark Reuschenberg",
             "hu": "Reuschenberg vadaspark",
             "ro": "Parcul de animale Reuschenberg",
-            "en": "Reuschenberg Wildlife Park"
+            "en": "Reuschenberg Wildlife Park",
+            "tr": "Reuschenberg Vahşi Yaşam Parkı"
           },
           "coords": [
             51.0485,
@@ -396,7 +420,8 @@
             "de": "Kurze Pause im Grünen.",
             "hu": "Rövid szünet a zöldben.",
             "ro": "Scurtă pauză în natură.",
-            "en": "Short break in the greenery."
+            "en": "Short break in the greenery.",
+            "tr": "Yeşillikte kısa mola."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Industriemuseum Sensenhammer",
             "hu": "Sensenhammer ipari múzeum",
             "ro": "Muzeul industrial Sensenhammer",
-            "en": "Sensenhammer Industrial Museum"
+            "en": "Sensenhammer Industrial Museum",
+            "tr": "Sensenhammer Endüstri Müzesi"
           },
           "coords": [
             51.0505,
@@ -419,7 +445,8 @@
             "de": "Alte Schmiedekunst erleben.",
             "hu": "Régi kovácsművészet élménye.",
             "ro": "Experimentați vechea artă a forjării.",
-            "en": "Experience old blacksmithing art."
+            "en": "Experience old blacksmithing art.",
+            "tr": "Eski demircilik sanatını deneyimleyin."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Schloss Morsbroich",
             "hu": "Morsbroich-kastély",
             "ro": "Castelul Morsbroich",
-            "en": "Morsbroich Castle"
+            "en": "Morsbroich Castle",
+            "tr": "Morsbroich Şatosu"
           },
           "coords": [
             51.0345,
@@ -442,7 +470,8 @@
             "de": "Barockschloss mit moderner Kunst.",
             "hu": "Barokk kastély modern művészettel.",
             "ro": "Castel baroc cu artă modernă.",
-            "en": "Baroque castle with modern art."
+            "en": "Baroque castle with modern art.",
+            "tr": "Modern sanatla barok şato."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Japanischer Garten",
             "hu": "Japánkert",
             "ro": "Grădina Japoneză",
-            "en": "Japanese Garden"
+            "en": "Japanese Garden",
+            "tr": "Japon Bahçesi"
           },
           "coords": [
             51.0135,
@@ -465,7 +495,8 @@
             "de": "Oase der Ruhe.",
             "hu": "A nyugalom oázisa.",
             "ro": "Oază de liniște.",
-            "en": "Oasis of peace."
+            "en": "Oasis of peace.",
+            "tr": "Huzur vahası."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Neuland-Park",
             "hu": "Neuland-Park",
             "ro": "Parcul Neuland",
-            "en": "Neuland-Park"
+            "en": "Neuland-Park",
+            "tr": "Neuland-Park"
           },
           "coords": [
             51.0355,
@@ -488,7 +520,8 @@
             "de": "Abschluss am Rhein.",
             "hu": "Zárás a Rajnánál.",
             "ro": "Final pe malul Rinului.",
-            "en": "Finish at the Rhine."
+            "en": "Finish at the Rhine.",
+            "tr": "Turu Ren kıyısında bitirin."
           }
         }
       ],
@@ -496,7 +529,8 @@
         "de": "Mit dem Rad erkunden Sie die ganze Vielfalt Leverkusens. Vom modernen Zentrum geht es zur BayArena und weiter zum Wildpark. Nach Technik-Geschichte im Sensenhammer und Kultur im Schloss Morsbroich radeln Sie durch grüne Korridore zum Japanischen Garten und beenden die Tour am Rhein.",
         "hu": "Kerékpárral Leverkusen teljes sokszínűségét felfedezheti. A modern központtól a BayArena felé veszi az irányt, majd a vadaspark következik. A Sensenhammer technikai emlékei és a Morsbroich-kastély kultúrája után zöld folyosókon át tekerhet a Japánkertig, a túrát pedig a Rajna-parton zárhatja.",
         "ro": "Cu bicicleta explorați întreaga diversitate a orașului Leverkusen. Din centrul modern mergeți spre BayArena și mai departe spre parcul de animale. După istoria tehnicii la Sensenhammer și cultură la Castelul Morsbroich, pedalați prin coridoare verzi către Grădina Japoneză și încheiați turul pe malul Rinului.",
-        "en": "By bike, you explore the full diversity of Leverkusen. From the modern center, head to BayArena and on to the wildlife park. After technical history at Sensenhammer and culture at Morsbroich Castle, cycle through green corridors to the Japanese Garden and finish the tour by the Rhine."
+        "en": "By bike, you explore the full diversity of Leverkusen. From the modern center, head to BayArena and on to the wildlife park. After technical history at Sensenhammer and culture at Morsbroich Castle, cycle through green corridors to the Japanese Garden and finish the tour by the Rhine.",
+        "tr": "Bisikletle Leverkusen'in tüm çeşitliliğini keşfedersiniz. Modern merkezden BayArena'ya, oradan vahşi yaşam parkına yönelin. Sensenhammer'da teknik tarihe, Morsbroich Şatosu'nda kültüre uğradıktan sonra yeşil koridorlardan Japon Bahçesi'ne bisikletle ulaşın ve turu Ren kıyısında bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -592,6 +626,9 @@
         ],
         "en": [
           "Many cycle paths lead through parks, away from main roads."
+        ],
+        "tr": [
+          "Birçok bisiklet yolu ana yollardan uzak, park içlerinden geçer."
         ]
       }
     },
@@ -608,7 +645,8 @@
             "de": "Industriemuseum Sensenhammer",
             "hu": "Sensenhammer ipari múzeum",
             "ro": "Muzeul industrial Sensenhammer",
-            "en": "Sensenhammer Industrial Museum"
+            "en": "Sensenhammer Industrial Museum",
+            "tr": "Sensenhammer Endüstri Müzesi"
           },
           "coords": [
             51.0505,
@@ -623,7 +661,8 @@
             "de": "Parken direkt am Museum möglich.",
             "hu": "Parkolás közvetlenül a múzeumnál.",
             "ro": "Parcare disponibilă chiar la muzeu.",
-            "en": "Parking available directly at the museum."
+            "en": "Parking available directly at the museum.",
+            "tr": "Müzeye doğrudan park yeri mevcut."
           }
         },
         {
@@ -631,7 +670,8 @@
             "de": "Schloss Morsbroich",
             "hu": "Morsbroich-kastély",
             "ro": "Castelul Morsbroich",
-            "en": "Morsbroich Castle"
+            "en": "Morsbroich Castle",
+            "tr": "Morsbroich Şatosu"
           },
           "coords": [
             51.0345,
@@ -646,7 +686,8 @@
             "de": "Wanderung durch den Schlosspark.",
             "hu": "Séta a kastélyparkban.",
             "ro": "Plimbare prin parcul castelului.",
-            "en": "Walk through the castle park."
+            "en": "Walk through the castle park.",
+            "tr": "Şato parkında yürüyün."
           }
         },
         {
@@ -654,7 +695,8 @@
             "de": "Wildpark Reuschenberg",
             "hu": "Reuschenberg vadaspark",
             "ro": "Parcul de animale Reuschenberg",
-            "en": "Reuschenberg Wildlife Park"
+            "en": "Reuschenberg Wildlife Park",
+            "tr": "Reuschenberg Vahşi Yaşam Parkı"
           },
           "coords": [
             51.0485,
@@ -669,7 +711,8 @@
             "de": "Cluster Nord: Auto am Wildpark parken.",
             "hu": "Északi klaszter: parkolás a vadasparknál.",
             "ro": "Cluster Nord: parcați mașina la parcul de animale.",
-            "en": "North Cluster: park at the wildlife park."
+            "en": "North Cluster: park at the wildlife park.",
+            "tr": "Kuzey Kümesi: vahşi yaşam parkında park edin."
           }
         },
         {
@@ -677,7 +720,8 @@
             "de": "BayArena",
             "hu": "BayArena",
             "ro": "BayArena",
-            "en": "BayArena"
+            "en": "BayArena",
+            "tr": "BayArena"
           },
           "coords": [
             51.0385,
@@ -692,7 +736,8 @@
             "de": "Zu Fuß vom Wildpark (ca. 1,5 km).",
             "hu": "Gyalog a vadasparktól (kb. 1,5 km).",
             "ro": "Pe jos de la parcul de animale (aprox. 1,5 km).",
-            "en": "On foot from the wildlife park (approx. 1.5 km)."
+            "en": "On foot from the wildlife park (approx. 1.5 km).",
+            "tr": "Vahşi yaşam parkından yürüyerek (yaklaşık 1,5 km)."
           }
         },
         {
@@ -700,7 +745,8 @@
             "de": "Japanischer Garten",
             "hu": "Japánkert",
             "ro": "Grădina Japoneză",
-            "en": "Japanese Garden"
+            "en": "Japanese Garden",
+            "tr": "Japon Bahçesi"
           },
           "coords": [
             51.0135,
@@ -715,7 +761,8 @@
             "de": "Besucherparkplatz am Chempark nutzen.",
             "hu": "Használja a Chempark látogatói parkolóját.",
             "ro": "Folosiți parcarea pentru vizitatori de la Chempark.",
-            "en": "Use the visitor parking at Chempark."
+            "en": "Use the visitor parking at Chempark.",
+            "tr": "Chempark ziyaretçi otoparkını kullanın."
           }
         },
         {
@@ -723,7 +770,8 @@
             "de": "Neuland-Park",
             "hu": "Neuland-Park",
             "ro": "Parcul Neuland",
-            "en": "Neuland-Park"
+            "en": "Neuland-Park",
+            "tr": "Neuland-Park"
           },
           "coords": [
             51.0355,
@@ -738,7 +786,8 @@
             "de": "Großer Parkplatz an der Rheinallee.",
             "hu": "Nagy parkoló a Rheinallee mentén.",
             "ro": "Parcare mare pe Rheinallee.",
-            "en": "Large parking lot on Rheinallee."
+            "en": "Large parking lot on Rheinallee.",
+            "tr": "Rheinallee üzerinde büyük otopark."
           }
         },
         {
@@ -746,7 +795,8 @@
             "de": "Christuskirche Wiesdorf",
             "hu": "Wiesdorfi Krisztus-templom",
             "ro": "Biserica Christuskirche Wiesdorf",
-            "en": "Christ Church Wiesdorf"
+            "en": "Christ Church Wiesdorf",
+            "tr": "Christ Church Wiesdorf"
           },
           "coords": [
             51.0285,
@@ -761,7 +811,8 @@
             "de": "Cluster Zentrum: Kurzer Fußweg.",
             "hu": "Központi klaszter: rövid séta.",
             "ro": "Cluster Centru: scurtă plimbare.",
-            "en": "Center Cluster: short walk."
+            "en": "Center Cluster: short walk.",
+            "tr": "Merkez Kümesi: kısa yürüyüş."
           }
         },
         {
@@ -769,7 +820,8 @@
             "de": "Rathaus-Galerie",
             "hu": "Rathaus-Galerie",
             "ro": "Rathaus-Galerie",
-            "en": "Rathaus-Galerie"
+            "en": "Rathaus-Galerie",
+            "tr": "Rathaus-Galerie"
           },
           "coords": [
             51.0315,
@@ -784,7 +836,8 @@
             "de": "Parkhaus direkt im Center.",
             "hu": "Parkolóház közvetlenül a központban.",
             "ro": "Parcare etajată chiar în centru.",
-            "en": "Parking garage directly in the center."
+            "en": "Parking garage directly in the center.",
+            "tr": "Merkezin hemen içinde otopark garajı."
           }
         }
       ],
@@ -792,7 +845,8 @@
         "de": "Diese Tour verbindet die historischen Außenbezirke mit dem modernen Kern. Sie starten im Norden bei der Industriegeschichte und dem Barockschloss. Mittags erkunden Sie den Wildpark und das Stadion zu Fuß (Cluster-Walking), bevor Sie in den Süden zum Japanischen Garten fahren. Der Tag endet im Stadtzentrum von Wiesdorf.",
         "hu": "Ez a túra összeköti a történelmi külvárosokat a modern központtal. Északon kezd az ipartörténeti emlékekkel és a barokk kastéllyal. Délben a vadasparkot és a stadiont gyalogosan fedezi fel (klaszter-séta), majd délnek veszi az irányt a Japánkerthez. A nap Wiesdorf városközpontjában ér véget.",
         "ro": "Acest tur conectează cartierele istorice exterioare cu nucleul modern. Începeți în nord cu istoria industrială și castelul baroc. La prânz explorați parcul de animale și stadionul pe jos (cluster-walking), înainte de a merge spre sud la Grădina Japoneză. Ziua se încheie în centrul orașului Wiesdorf.",
-        "en": "This tour connects the historical outskirts with the modern core. Start in the north with industrial history and the Baroque castle. At midday, explore the wildlife park and stadium on foot (cluster-walking) before driving south to the Japanese Garden. The day ends in Wiesdorf city center."
+        "en": "This tour connects the historical outskirts with the modern core. Start in the north with industrial history and the Baroque castle. At midday, explore the wildlife park and stadium on foot (cluster-walking) before driving south to the Japanese Garden. The day ends in Wiesdorf city center.",
+        "tr": "Bu tur tarihi çevreleri modern çekirdekle bağlar. Kuzeyde endüstri tarihi ve barok şato ile başlayın. Öğle vakti vahşi yaşam parkı ve stadyumu yürüyerek keşfedin (küme-yürüme) ve ardından güneyi Japon Bahçesi'ne araçla gidin. Gün Wiesdorf şehir merkezinde sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -888,6 +942,9 @@
         ],
         "en": [
           "Use the multi-story car parks in the center to avoid fines."
+        ],
+        "tr": [
+          "Para cezasından kaçınmak için merkezdeki çok katlı otoparkları kullanın."
         ]
       }
     },
@@ -904,7 +961,8 @@
             "de": "Rathaus-Galerie",
             "hu": "Rathaus-Galerie",
             "ro": "Rathaus-Galerie",
-            "en": "Rathaus-Galerie"
+            "en": "Rathaus-Galerie",
+            "tr": "Rathaus-Galerie"
           },
           "coords": [
             51.0315,
@@ -919,7 +977,8 @@
             "de": "Zentraler Busbahnhof (Leverkusen Mitte) direkt nebenan.",
             "hu": "A központi buszpályaudvar (Leverkusen Mitte) közvetlenül mellette.",
             "ro": "Autogara centrală (Leverkusen Mitte) chiar alături.",
-            "en": "Central bus station (Leverkusen Mitte) right next door."
+            "en": "Central bus station (Leverkusen Mitte) right next door.",
+            "tr": "Merkez otobüs terminali (Leverkusen Mitte) hemen yanı başında."
           }
         },
         {
@@ -927,7 +986,8 @@
             "de": "Schloss Morsbroich",
             "hu": "Morsbroich-kastély",
             "ro": "Castelul Morsbroich",
-            "en": "Morsbroich Castle"
+            "en": "Morsbroich Castle",
+            "tr": "Morsbroich Sarayı"
           },
           "coords": [
             51.0345,
@@ -942,7 +1002,8 @@
             "de": "Buslinie 209 oder 211 ab Leverkusen Mitte.",
             "hu": "209-es vagy 211-es busz Leverkusen Mitte felől.",
             "ro": "Linia de autobuz 209 sau 211 de la Leverkusen Mitte.",
-            "en": "Bus line 209 or 211 from Leverkusen Mitte."
+            "en": "Bus line 209 or 211 from Leverkusen Mitte.",
+            "tr": "Leverkusen Mitte'den 209 veya 211 numaralı otobüs hattı."
           }
         },
         {
@@ -950,7 +1011,8 @@
             "de": "BayArena",
             "hu": "BayArena",
             "ro": "BayArena",
-            "en": "BayArena"
+            "en": "BayArena",
+            "tr": "BayArena"
           },
           "coords": [
             51.0385,
@@ -965,7 +1027,8 @@
             "de": "Bahnhof Leverkusen Mitte nutzen.",
             "hu": "Használja Leverkusen Mitte vasútállomását.",
             "ro": "Folosiți gara Leverkusen Mitte.",
-            "en": "Use Leverkusen Mitte station."
+            "en": "Use Leverkusen Mitte station.",
+            "tr": "Leverkusen Mitte istasyonunu kullanın."
           }
         },
         {
@@ -973,7 +1036,8 @@
             "de": "Japanischer Garten",
             "hu": "Japánkert",
             "ro": "Grădina Japoneză",
-            "en": "Japanese Garden"
+            "en": "Japanese Garden",
+            "tr": "Japon Bahçesi"
           },
           "coords": [
             51.0135,
@@ -988,7 +1052,8 @@
             "de": "Haltestelle 'Chempark S-Bahn' oder Bus 201.",
             "hu": "'Chempark S-Bahn' megálló vagy 201-es busz.",
             "ro": "Stația 'Chempark S-Bahn' sau autobuzul 201.",
-            "en": "Stop 'Chempark S-Bahn' or bus 201."
+            "en": "Stop 'Chempark S-Bahn' or bus 201.",
+            "tr": "'Chempark S-Bahn' durağında inin veya 201 numaralı otobüse binin."
           }
         },
         {
@@ -996,7 +1061,8 @@
             "de": "Neuland-Park",
             "hu": "Neuland-Park",
             "ro": "Parcul Neuland",
-            "en": "Neuland-Park"
+            "en": "Neuland-Park",
+            "tr": "Neuland-Park"
           },
           "coords": [
             51.0355,
@@ -1011,7 +1077,8 @@
             "de": "Bus 201/211 Richtung Wiesdorf.",
             "hu": "201/211-es busz Wiesdorf irányába.",
             "ro": "Autobuz 201/211 spre Wiesdorf.",
-            "en": "Bus 201/211 towards Wiesdorf."
+            "en": "Bus 201/211 towards Wiesdorf.",
+            "tr": "Wiesdorf yönüne giden 201/211 numaralı otobüsler."
           }
         }
       ],
@@ -1019,7 +1086,8 @@
         "de": "Dank des gut ausgebauten Busnetzes sind alle Highlights Leverkusens leicht erreichbar. Vom Bahnhof Leverkusen Mitte aus steuern Sie das Kunstmuseum Schloss Morsbroich an, besuchen das berühmte Fußballstadion und die fernöstliche Oase des Japanischen Gartens, bevor Sie die Tour am Rhein abrunden.",
         "hu": "A jól kiépített buszhálózatnak köszönhetően Leverkusen minden főbb látnivalója könnyen elérhető. A Leverkusen Mitte állomástól a Morsbroich-kastély művészeti múzeumához indul, meglátogatja a híres futballstadiont és a Japánkert távol-keleti oázisát, mielőtt a Rajna-parton zárná a túrát.",
         "ro": "Datorită rețelei de autobuze bine dezvoltate, toate punctele importante din Leverkusen sunt ușor accesibile. De la gara Leverkusen Mitte mergeți spre muzeul de artă Castelul Morsbroich, vizitați celebrul stadion de fotbal și oaza orientală a Grădinii Japoneze, înainte de a încheia turul pe malul Rinului.",
-        "en": "Thanks to the well-developed bus network, all of Leverkusen's highlights are easily accessible. From Leverkusen Mitte station, head to the Morsbroich Castle art museum, visit the famous football stadium and the Far Eastern oasis of the Japanese Garden before finishing the tour by the Rhine."
+        "en": "Thanks to the well-developed bus network, all of Leverkusen's highlights are easily accessible. From Leverkusen Mitte station, head to the Morsbroich Castle art museum, visit the famous football stadium and the Far Eastern oasis of the Japanese Garden before finishing the tour by the Rhine.",
+        "tr": "Gelişmiş otobüs ağı sayesinde Leverkusen'in bütün önemli noktalarına kolayca ulaşılır. Leverkusen Mitte istasyonundan başlayarak Morsbroich Sanat Müzesi'ne gidin, ünlü futbol stadyumunu ve Japon Bahçesi'nin Uzak Doğu vahasını ziyaret edin, turu Ren kıyısında sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -1115,6 +1183,9 @@
         ],
         "en": [
           "A day ticket for the VRR area is worth it."
+        ],
+        "tr": [
+          "VRR bölgesi için günlük bilet almaya değer."
         ]
       }
     }

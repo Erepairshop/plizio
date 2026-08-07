@@ -21,7 +21,8 @@
             "de": "Deutsches Schloss- und Beschlägemuseum",
             "hu": "Német Kulcs- és Zármúzeum",
             "ro": "Muzeul German de Încuietori și Feronerie",
-            "en": "German Lock and Fittings Museum"
+            "en": "German Lock and Fittings Museum",
+            "tr": "Alman Kilit ve Donanım Müzesi"
           },
           "coords": [
             7.044,
@@ -36,7 +37,8 @@
             "de": "Interaktive Stationen zum Knacken von Schlössern.",
             "hu": "Interaktív állomások, ahol kipróbálhatod a zárfeltörést.",
             "ro": "Stații interactive unde poți încerca să spargi încuietori.",
-            "en": "Interactive stations where you can try lock-picking."
+            "en": "Interactive stations where you can try lock-picking.",
+            "tr": "Kilidi açmayı deneyebileceğiniz interaktif istasyonlar."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Christuskirche",
             "hu": "Krisztus-templom",
             "ro": "Biserica lui Hristos",
-            "en": "Christ Church"
+            "en": "Christ Church",
+            "tr": "İsa Kilisesi (Christ Church)"
           },
           "coords": [
             7.043,
@@ -59,7 +62,8 @@
             "de": "Beeindruckende Jugendstil-Architektur im Stadtzentrum.",
             "hu": "Lenyűgöző szecessziós építészet a városközpontban.",
             "ro": "Arhitectură Art Nouveau impresionantă în centrul orașului.",
-            "en": "Impressive Art Nouveau architecture in the city center."
+            "en": "Impressive Art Nouveau architecture in the city center.",
+            "tr": "Şehir merkezinde etkileyici Art Nouveau mimarisi."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Bürgerhaus Velbert",
             "hu": "Velberti Polgári Ház",
             "ro": "Casa Cetățeanului Velbert",
-            "en": "Velbert Civic Center"
+            "en": "Velbert Civic Center",
+            "tr": "Velbert Belediye Merkezi"
           },
           "coords": [
             7.048,
@@ -82,7 +87,8 @@
             "de": "Ein kulturelles Zentrum mit markanter moderner Architektur.",
             "hu": "Kulturális központ markáns modern építészettel.",
             "ro": "Un centru cultural cu o arhitectură modernă distinctivă.",
-            "en": "A cultural center with striking modern architecture."
+            "en": "A cultural center with striking modern architecture.",
+            "tr": "Çarpıcı modern mimariye sahip bir kültür merkezi."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Herminghauspark",
             "hu": "Herminghauspark",
             "ro": "Parcul Herminghaus",
-            "en": "Herminghaus Park"
+            "en": "Herminghaus Park",
+            "tr": "Herminghaus Parkı"
           },
           "coords": [
             7.035,
@@ -105,7 +112,8 @@
             "de": "Perfekt für ein Picknick und ein Besuch im Tiergehege.",
             "hu": "Tökéletes piknikhez és az állatsimogatóhoz.",
             "ro": "Perfect pentru un picnic și o vizită la țarcurile cu animale.",
-            "en": "Perfect for a picnic and a visit to the animal enclosures."
+            "en": "Perfect for a picnic and a visit to the animal enclosures.",
+            "tr": "Piknik ve hayvan barınaklarını ziyaret için ideal."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Gastro-Pause (Mitte)",
             "hu": "Gasztro-pihenő (Belváros)",
             "ro": "Pauză gastronomică (Centru)",
-            "en": "Gastro Break (Center)"
+            "en": "Gastro Break (Center)",
+            "tr": "Gastronomi Molası (Merkez)"
           },
           "coords": [
             7.041,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie Bergische Waffeln mit Kirschen.",
             "hu": "Kóstolja meg a bergi gofrit meggyel.",
             "ro": "Încercați vafele Bergische cu cireșe.",
-            "en": "Try Bergische waffles with cherries."
+            "en": "Try Bergische waffles with cherries.",
+            "tr": "Bergische ızgarası ve vişne deneyin."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Forum Niederberg",
             "hu": "Niederberg Fórum",
             "ro": "Forum Niederberg",
-            "en": "Forum Niederberg"
+            "en": "Forum Niederberg",
+            "tr": "Forum Niederberg"
           },
           "coords": [
             7.042,
@@ -151,7 +162,8 @@
             "de": "Zentraler Platz für Events und kleine Einkäufe.",
             "hu": "Központi tér eseményekhez és kisebb vásárláshoz.",
             "ro": "Piață centrală pentru evenimente și cumpărături mici.",
-            "en": "Central square for events and small shopping."
+            "en": "Central square for events and small shopping.",
+            "tr": "Etkinlikler ve küçük alışveriş için merkezi meydan."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag beginnt im Herzen von Velbert-Mitte. Sie erkunden die faszinierende Welt der Schlösser und Schlüssel im spezialisierten Museum, gefolgt von der eleganten Christuskirche. Nach einem Spaziergang durch das moderne Bürgerhaus entspannen Sie im weitläufigen Herminghauspark. Mittags genießen Sie lokale Köstlichkeiten in der Fußgängerzone, bevor Sie den Nachmittag am belebten Forum Niederberg ausklingen lassen.",
         "hu": "A napot Velbert központjában kezdi a különleges Kulcs- és Zármúzeumban, majd megtekinti a szecessziós Krisztus-templomot. Egy rövid séta után a Polgári Háznál pihenjen meg a Herminghauspark zöldjében. Ebédre kóstoljon meg egy helyi gofrit a sétálóutcában, majd fedezze fel a modern városközpontot és a Forum Niederberget a nap zárásaként.",
         "ro": "Ziua începe în inima orașului Velbert-Mitte. Veți explora lumea fascinantă a încuietorilor și cheilor în muzeul specializat, urmat de eleganta Biserică a lui Hristos. După o plimbare pe lângă modernul Bürgerhaus, vă relaxați în vastul Parc Herminghaus. La prânz, savurați delicatese locale în zona pietonală, înainte de a încheia după-amiaza la animatul Forum Niederberg.",
-        "en": "Your day starts in the heart of Velbert-Mitte. Explore the fascinating world of locks and keys at the specialized museum, followed by the elegant Christ Church. After a stroll past the modern Civic Center, relax in the expansive Herminghaus Park. At lunch, enjoy local delicacies in the pedestrian zone before ending the afternoon at the lively Forum Niederberg."
+        "en": "Your day starts in the heart of Velbert-Mitte. Explore the fascinating world of locks and keys at the specialized museum, followed by the elegant Christ Church. After a stroll past the modern Civic Center, relax in the expansive Herminghaus Park. At lunch, enjoy local delicacies in the pedestrian zone before ending the afternoon at the lively Forum Niederberg.",
+        "tr": "Gününüz Velbert-Mitte'nin kalbinde başlıyor. Uzman kilit müzesinde kilit ve anahtarların büyüleyici dünyasını keşfedin, ardından zarif İsa Kilisesi'ni görün. Modern Belediye Merkezi'nin yanından yürüdükten sonra geniş Herminghaus Parkı'nda dinlenin. Öğle yemeğinde yaya bölgesinde yerel lezzetlerin tadını çıkarın ve öğleden sonrayı canlı Forum Niederberg'de sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -279,6 +292,11 @@
           "Velbert is hilly, comfortable shoes are a must.",
           "The lock museum is closed on Mondays.",
           "Park in the garage at the Forum for central access."
+        ],
+        "tr": [
+          "Velbert tepeli bir yer, rahat ayakkabılar şart.",
+          "Kilit müzesi Pazartesi günleri kapalıdır.",
+          "Merkezi erişim için Forum'daki garaja park edin."
         ]
       }
     },
@@ -295,7 +313,8 @@
             "de": "Deutsches Schloss- und Beschlägemuseum",
             "hu": "Zármúzeum",
             "ro": "Muzeul de Încuietori",
-            "en": "Lock Museum"
+            "en": "Lock Museum",
+            "tr": "Kilit Müzesi"
           },
           "coords": [
             7.044,
@@ -310,7 +329,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Kezdőpont a központban.",
             "ro": "Punct de pornire în centru.",
-            "en": "Starting point in the center."
+            "en": "Starting point in the center.",
+            "tr": "Merkezde başlangıç noktası."
           }
         },
         {
@@ -318,7 +338,8 @@
             "de": "Herminghauspark",
             "hu": "Herminghauspark",
             "ro": "Parcul Herminghaus",
-            "en": "Herminghaus Park"
+            "en": "Herminghaus Park",
+            "tr": "Herminghaus Parkı"
           },
           "coords": [
             7.035,
@@ -333,7 +354,8 @@
             "de": "Kurze Fahrt durch die Grünanlage.",
             "hu": "Rövid tekerés a zöldövezeten át.",
             "ro": "O scurtă plimbare cu bicicleta prin parc.",
-            "en": "A short ride through the green park."
+            "en": "A short ride through the green park.",
+            "tr": "Yeşil parkın içinden kısa bir sürüş."
           }
         },
         {
@@ -341,7 +363,8 @@
             "de": "Mariendom Neviges",
             "hu": "Nevigesi Mária-dóm",
             "ro": "Domul din Neviges",
-            "en": "Mariendom Neviges"
+            "en": "Mariendom Neviges",
+            "tr": "Neviges Mariendom"
           },
           "coords": [
             7.088,
@@ -356,7 +379,8 @@
             "de": "Brutalistisches Meisterwerk von Gottfried Böhm.",
             "hu": "Gottfried Böhm brutalista remekműve.",
             "ro": "Capodoperă brutalistă de Gottfried Böhm.",
-            "en": "Brutalist masterpiece by Gottfried Böhm."
+            "en": "Brutalist masterpiece by Gottfried Böhm.",
+            "tr": "Gottfried Böhm'un brutalist başyapıtı."
           }
         },
         {
@@ -364,7 +388,8 @@
             "de": "Schloss Hardenberg",
             "hu": "Hardenberg-kastély",
             "ro": "Castelul Hardenberg",
-            "en": "Hardenberg Castle"
+            "en": "Hardenberg Castle",
+            "tr": "Hardenberg Şatosu"
           },
           "coords": [
             7.092,
@@ -379,7 +404,8 @@
             "de": "Wasserschloss mit schönem Schlosspark.",
             "hu": "Vízi kastély szép parkkal.",
             "ro": "Castel pe apă cu un parc frumos.",
-            "en": "Moated castle with a lovely park."
+            "en": "Moated castle with a lovely park.",
+            "tr": "Güzel bir parka sahip su çevreli şato."
           }
         },
         {
@@ -387,7 +413,8 @@
             "de": "Alt-Langenberg",
             "hu": "Ó-Langenberg",
             "ro": "Centrul vechi Langenberg",
-            "en": "Old Langenberg"
+            "en": "Old Langenberg",
+            "tr": "Eski Langenberg"
           },
           "coords": [
             7.12,
@@ -402,7 +429,8 @@
             "de": "Historische Fachwerkhäuser in engen Gassen.",
             "hu": "Történelmi fagerendás házak szűk utcákban.",
             "ro": "Case istorice cu pereți din lemn în piațete înguste.",
-            "en": "Historic half-timbered houses in narrow alleys."
+            "en": "Historic half-timbered houses in narrow alleys.",
+            "tr": "Dar sokaklarda tarihi yarı ahşap evler."
           }
         },
         {
@@ -410,7 +438,8 @@
             "de": "Bismarckturm",
             "hu": "Bismarck-torony",
             "ro": "Turnul Bismarck",
-            "en": "Bismarck Tower"
+            "en": "Bismarck Tower",
+            "tr": "Bismarck Kulesi"
           },
           "coords": [
             7.125,
@@ -425,7 +454,8 @@
             "de": "Anstrengender Anstieg, aber toller Ausblick.",
             "hu": "Fárasztó emelkedő, de pazar kilátás.",
             "ro": "Urcare obositoare, dar o priveliște minunată.",
-            "en": "Tough climb, but great view."
+            "en": "Tough climb, but great view.",
+            "tr": "Zorlu bir tırmanış, ama harika manzara."
           }
         },
         {
@@ -433,7 +463,8 @@
             "de": "Sender Langenberg",
             "hu": "Langenbergi adótorony",
             "ro": "Transmițătorul Langenberg",
-            "en": "Langenberg Transmitter"
+            "en": "Langenberg Transmitter",
+            "tr": "Langenberg Verici"
           },
           "coords": [
             7.135,
@@ -448,7 +479,8 @@
             "de": "Weithin sichtbare Landmarke der Region.",
             "hu": "A régió messziről látható jelképe.",
             "ro": "Un punct de reper vizibil de departe în regiune.",
-            "en": "A landmark of the region visible from afar."
+            "en": "A landmark of the region visible from afar.",
+            "tr": "Uzaklardan görünen bölgenin simgesi."
           }
         }
       ],
@@ -456,7 +488,8 @@
         "de": "Diese sportliche Tour verbindet die drei Stadtteile Velberts. Von der Mitte radeln Sie durch den Herminghauspark nach Süden zum spektakulären Mariendom in Neviges. Nach einer Pause am Wasserschloss Hardenberg führt der Weg über Hügel ins malerische Langenberg. Dort erwarten Sie historische Gassen, der Bismarckturm und die ikonischen Sendemasten, bevor Sie die Tour beenden.",
         "hu": "Ez a sportos túra összeköti Velbert három városrészét. A központból a Herminghausparkon át délre teker a látványos nevigesi dómhoz. A Hardenberg-vízikastélynál tartott szünet után dombokon át vezet az út a festői Langenbergbe. Ott történelmi utcák, a Bismarck-torony és az ikonikus adótornyok várják, mielőtt befejezné a túrát.",
         "ro": "Acest tur sportiv conectează cele trei districte ale orașului Velbert. Din centru, pedalați prin Parcul Herminghaus spre sud, până la spectaculosul Dom din Neviges. După o pauză la castelul pe apă Hardenberg, drumul trece peste dealuri spre pitorescul Langenberg. Acolo vă așteaptă străduțe istorice, Turnul Bismarck și faimoasele turnuri de transmisie.",
-        "en": "This athletic tour connects the three districts of Velbert. From the center, cycle through Herminghaus Park south to the spectacular Mariendom in Neviges. After a break at Hardenberg moated castle, the path leads over hills to picturesque Langenberg. There, historic alleys, the Bismarck Tower, and iconic transmitter masts await before finishing the tour."
+        "en": "This athletic tour connects the three districts of Velbert. From the center, cycle through Herminghaus Park south to the spectacular Mariendom in Neviges. After a break at Hardenberg moated castle, the path leads over hills to picturesque Langenberg. There, historic alleys, the Bismarck Tower, and iconic transmitter masts await before finishing the tour.",
+        "tr": "Bu sportif tur Velbert'in üç mahallesini birbirine bağlıyor. Merkezden başlayıp Herminghaus Parkı'ndan güneye Mariendom Neviges'e kadar bisikletle gidin. Hardenberg su şatosunda bir mola verdikten sonra yol tepeler üzerinden resmedilmeye değer Langenberg'e ulaşıyor. Orada tarihi sokaklar, Bismarck Kulesi ve ikonik verici direkleri sizi bekliyor ve tur burada sona eriyor."
       },
       "gastro_picks": {
         "de": [
@@ -560,6 +593,11 @@
           "The route to Langenberg has steep sections, e-bikes recommended.",
           "Use the 'Panoramaradweg Niederbergbahn' for flatter segments.",
           "Bring plenty of water, few kiosks along the route."
+        ],
+        "tr": [
+          "Langenberg'e giden rota dik bölümlere sahip, e-bisiklet tavsiye edilir.",
+          "'Panoramaradweg Niederbergbahn' daha düz bölümler için kullanın.",
+          "Bol su getirin, rotada az sayıda büfe var."
         ]
       }
     },
@@ -576,7 +614,8 @@
             "de": "Schloss- und Beschlägemuseum (Mitte)",
             "hu": "Zármúzeum (Központ)",
             "ro": "Muzeul de Încuietori (Centru)",
-            "en": "Lock Museum (Center)"
+            "en": "Lock Museum (Center)",
+            "tr": "Kilit Müzesi (Merkez)"
           },
           "coords": [
             7.044,
@@ -591,7 +630,8 @@
             "de": "Parkhaus am Forum nutzen.",
             "hu": "Használja a Forum parkolóházát.",
             "ro": "Utilizați parcarea de la Forum.",
-            "en": "Use the parking garage at the Forum."
+            "en": "Use the parking garage at the Forum.",
+            "tr": "Forum'daki otopark garajını kullanın."
           }
         },
         {
@@ -599,7 +639,8 @@
             "de": "Christuskirche",
             "hu": "Krisztus-templom",
             "ro": "Biserica lui Hristos",
-            "en": "Christ Church"
+            "en": "Christ Church",
+            "tr": "İsa Kilisesi"
           },
           "coords": [
             7.043,
@@ -614,7 +655,8 @@
             "de": "Kurzer Fußweg vom Museum.",
             "hu": "Rövid séta a múzeumtól.",
             "ro": "Scurtă plimbare de la muzeu.",
-            "en": "Short walk from the museum."
+            "en": "Short walk from the museum.",
+            "tr": "Müzeden kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -622,7 +664,8 @@
             "de": "Mariendom Neviges",
             "hu": "Nevigesi dóm",
             "ro": "Domul Neviges",
-            "en": "Neviges Cathedral"
+            "en": "Neviges Cathedral",
+            "tr": "Neviges Katedrali"
           },
           "coords": [
             7.088,
@@ -637,7 +680,8 @@
             "de": "Einzigartige Betonarchitektur.",
             "hu": "Egyedülálló betonépítészet.",
             "ro": "Arhitectură unică din beton.",
-            "en": "Unique concrete architecture."
+            "en": "Unique concrete architecture.",
+            "tr": "Eşi benzeri olmayan beton mimarisi."
           }
         },
         {
@@ -645,7 +689,8 @@
             "de": "Schloss Hardenberg",
             "hu": "Hardenberg-kastély",
             "ro": "Castelul Hardenberg",
-            "en": "Hardenberg Castle"
+            "en": "Hardenberg Castle",
+            "tr": "Hardenberg Şatosu"
           },
           "coords": [
             7.092,
@@ -660,7 +705,8 @@
             "de": "Gleich um die Ecke vom Dom zu Fuß erreichbar.",
             "hu": "A dóm sarkánál, gyalogosan elérhető.",
             "ro": "După colț de Dom, accesibil pe jos.",
-            "en": "Around the corner from the Cathedral, reachable on foot."
+            "en": "Around the corner from the Cathedral, reachable on foot.",
+            "tr": "Katedralin köşesinde, yürüme mesafesinde."
           }
         },
         {
@@ -668,7 +714,8 @@
             "de": "Alt-Langenberg",
             "hu": "Ó-Langenberg",
             "ro": "Centrul vechi Langenberg",
-            "en": "Old Langenberg"
+            "en": "Old Langenberg",
+            "tr": "Eski Langenberg"
           },
           "coords": [
             7.12,
@@ -683,7 +730,8 @@
             "de": "Parkplatz P1/P2 in der Nähe der Altstadt.",
             "hu": "P1/P2 parkoló az óváros közelében.",
             "ro": "Parcarea P1/P2 lângă centrul vechi.",
-            "en": "Parking P1/P2 near the old town."
+            "en": "Parking P1/P2 near the old town.",
+            "tr": "Eski kente yakın P1/P2 otoparkları."
           }
         },
         {
@@ -691,7 +739,8 @@
             "de": "Event-Kirche Langenberg",
             "hu": "Langenbergi Event-templom",
             "ro": "Biserica de Evenimente Langenberg",
-            "en": "Event Church Langenberg"
+            "en": "Event Church Langenberg",
+            "tr": "Etkinlik Kilisesi Langenberg"
           },
           "coords": [
             7.122,
@@ -706,7 +755,8 @@
             "de": "Wunderschön restaurierte Kulturkirche.",
             "hu": "Gyönyörűen felújított kultúrtemplom.",
             "ro": "Biserică culturală restaurată superb.",
-            "en": "Beautifully restored cultural church."
+            "en": "Beautifully restored cultural church.",
+            "tr": "Güzel restore edilmiş kültür kilisesi."
           }
         },
         {
@@ -714,7 +764,8 @@
             "de": "Bismarckturm",
             "hu": "Bismarck-torony",
             "ro": "Turnul Bismarck",
-            "en": "Bismarck Tower"
+            "en": "Bismarck Tower",
+            "tr": "Bismarck Kulesi"
           },
           "coords": [
             7.125,
@@ -729,7 +780,8 @@
             "de": "Fahrt zum Parkplatz am Hordtberg.",
             "hu": "Hajtson a hordtbergi parkolóhoz.",
             "ro": "Conduceți până la parcarea de pe Hordtberg.",
-            "en": "Drive to the parking area at Hordtberg."
+            "en": "Drive to the parking area at Hordtberg.",
+            "tr": "Hordtberg'deki otopark alanına sürün."
           }
         },
         {
@@ -737,7 +789,8 @@
             "de": "Sender Langenberg (Aussicht)",
             "hu": "Langenbergi adó (Kilátás)",
             "ro": "Transmițătorul Langenberg (Vedere)",
-            "en": "Langenberg Transmitter (View)"
+            "en": "Langenberg Transmitter (View)",
+            "tr": "Langenberg Verici (Manzara)"
           },
           "coords": [
             7.135,
@@ -752,7 +805,8 @@
             "de": "Ein letzter Blick über das Bergische Land.",
             "hu": "Utolsó pillantás a Bergisches Landra.",
             "ro": "O ultimă privire peste Bergisches Land.",
-            "en": "A last look over the Bergisches Land."
+            "en": "A last look over the Bergisches Land.",
+            "tr": "Bergisches Land üzerinde son bir bakış."
           }
         }
       ],
@@ -760,7 +814,8 @@
         "de": "Mit dem Auto entdecken Sie Velbert in drei Etappen. Zuerst erleben Sie Kultur und Geschichte in Velbert-Mitte. Danach fahren Sie nach Neviges zum Mariendom und dem Wasserschloss Hardenberg, die nah beieinander liegen. Zum Abschluss erkunden Sie das malerische Langenberg mit seinen Fachwerkhäusern und genießen den Panoramablick vom Bismarckturm und dem Sender Langenberg.",
         "hu": "Autóval három szakaszban fedezi fel Velbertet. Először a kultúrát és történelmet éli át Velbert-Mitte központjában. Ezután Nevigesbe utazik a dómhoz és a Hardenberg-vízikastélyhoz, amelyek közel vannak egymáshoz. Zárásként a festői Langenberget fedezi fel a fagerendás házaival, és élvezi a panorámát a Bismarck-toronytól és az adótoronytól.",
         "ro": "Cu mașina, descoperiți Velbert în trei etape. Mai întâi, experimentați cultura și istoria în centrul orașului Velbert. Apoi conduceți spre Neviges pentru Dom și castelul pe apă Hardenberg, care sunt aproape unul de celălalt. La final, explorați pitorescul Langenberg cu casele sale din lemn și bucurați-vă de panorama de la Turnul Bismarck și Transmițătorul Langenberg.",
-        "en": "By car, discover Velbert in three stages. First, experience culture and history in Velbert-Mitte. Then drive to Neviges for the Cathedral and Hardenberg moated castle, which are located close together. To finish, explore picturesque Langenberg with its half-timbered houses and enjoy the panoramic view from the Bismarck Tower and Langenberg Transmitter."
+        "en": "By car, discover Velbert in three stages. First, experience culture and history in Velbert-Mitte. Then drive to Neviges for the Cathedral and Hardenberg moated castle, which are located close together. To finish, explore picturesque Langenberg with its half-timbered houses and enjoy the panoramic view from the Bismarck Tower and Langenberg Transmitter.",
+        "tr": "Arabayla Velbert'i üç aşamada keşfedin. İlk olarak Velbert-Mitte'de kültür ve tarihi deneyimleyin. Ardından Katedral ve Hardenberg su şatosu için Neviges'e sürün; bunlar birbirine yakın konumdadır. Son olarak yarı ahşap evlerle dolu pitoresk Langenberg'i keşfedin ve Bismarck Kulesi ile Langenberg Verici'den panoramik manzaranın tadını çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -864,6 +919,11 @@
           "Watch out for parking zones in Langenberg old town.",
           "The route between districts leads through country roads.",
           "Combine Neviges and Langenberg, they are located close together."
+        ],
+        "tr": [
+          "Langenberg eski kentinde park bölgelerine dikkat edin.",
+          "Mahalleler arasındaki rota kırsal yollar üzerinden geçer.",
+          "Neviges ve Langenberg'i birleştirin, birbirine yakın konumdadırlar."
         ]
       }
     },
@@ -880,7 +940,8 @@
             "de": "Deutsches Schloss- und Beschlägemuseum",
             "hu": "Zármúzeum",
             "ro": "Muzeul de Încuietori",
-            "en": "Lock Museum"
+            "en": "Lock Museum",
+            "tr": "Kilit Müzesi"
           },
           "coords": [
             7.044,
@@ -895,7 +956,8 @@
             "de": "Haltestelle Velbert ZOB in der Nähe.",
             "hu": "A Velbert ZOB megálló a közelben.",
             "ro": "Stația Velbert ZOB este în apropiere.",
-            "en": "Velbert ZOB station nearby."
+            "en": "Velbert ZOB station nearby.",
+            "tr": "Velbert ZOB istasyonu yakınında."
           }
         },
         {
@@ -903,7 +965,8 @@
             "de": "Herminghauspark",
             "hu": "Herminghauspark",
             "ro": "Parcul Herminghaus",
-            "en": "Herminghaus Park"
+            "en": "Herminghaus Park",
+            "tr": "Herminghaus Parkı"
           },
           "coords": [
             7.035,
@@ -918,7 +981,8 @@
             "de": "Kurze Busfahrt oder Fußweg vom ZOB.",
             "hu": "Rövid buszút vagy séta a központi buszállomástól.",
             "ro": "O scurtă călătorie cu autobuzul sau pe jos de la ZOB.",
-            "en": "Short bus ride or walk from the main bus station (ZOB)."
+            "en": "Short bus ride or walk from the main bus station (ZOB).",
+            "tr": "Ana otobüs terminalinden (ZOB) kısa otobüs yolculuğu veya yürüyüş."
           }
         },
         {
@@ -926,7 +990,8 @@
             "de": "Mariendom Neviges",
             "hu": "Nevigesi dóm",
             "ro": "Domul Neviges",
-            "en": "Neviges Cathedral"
+            "en": "Neviges Cathedral",
+            "tr": "Neviges Katedrali"
           },
           "coords": [
             7.088,
@@ -941,7 +1006,8 @@
             "de": "Bus 649 vom ZOB direkt nach Neviges Markt.",
             "hu": "A 649-es busz a ZOB-tól közvetlenül a Neviges Markthoz.",
             "ro": "Autobuzul 649 de la ZOB direct la Neviges Markt.",
-            "en": "Bus 649 from ZOB directly to Neviges Markt."
+            "en": "Bus 649 from ZOB directly to Neviges Markt.",
+            "tr": "ZOB'den Neviges Markt'a direkt 649 numaralı otobüs."
           }
         },
         {
@@ -949,7 +1015,8 @@
             "de": "Schloss Hardenberg",
             "hu": "Hardenberg-kastély",
             "ro": "Castelul Hardenberg",
-            "en": "Hardenberg Castle"
+            "en": "Hardenberg Castle",
+            "tr": "Hardenberg Kalesi"
           },
           "coords": [
             7.092,
@@ -964,7 +1031,8 @@
             "de": "5 Minuten Fußweg vom Mariendom.",
             "hu": "5 perc séta a dómtól.",
             "ro": "5 minute de mers pe jos de la Dom.",
-            "en": "5-minute walk from the Cathedral."
+            "en": "5-minute walk from the Cathedral.",
+            "tr": "Katedrale 5 dakikalık yürüme mesafesinde."
           }
         },
         {
@@ -972,7 +1040,8 @@
             "de": "Alt-Langenberg",
             "hu": "Ó-Langenberg",
             "ro": "Centrul vechi Langenberg",
-            "en": "Old Langenberg"
+            "en": "Old Langenberg",
+            "tr": "Eski Langenberg"
           },
           "coords": [
             7.12,
@@ -987,7 +1056,8 @@
             "de": "S-Bahn S9 von Neviges nach Langenberg.",
             "hu": "S9-es gyorsvasút Nevigesből Langenbergbe.",
             "ro": "Trenul S-Bahn S9 de la Neviges la Langenberg.",
-            "en": "S-Bahn S9 train from Neviges to Langenberg."
+            "en": "S-Bahn S9 train from Neviges to Langenberg.",
+            "tr": "Neviges'ten Langenberg'e S-Bahn S9 treni."
           }
         },
         {
@@ -995,7 +1065,8 @@
             "de": "Event-Kirche Langenberg",
             "hu": "Event-templom",
             "ro": "Biserica de Evenimente",
-            "en": "Event Church"
+            "en": "Event Church",
+            "tr": "Etkinlik Kilisesi"
           },
           "coords": [
             7.122,
@@ -1010,7 +1081,8 @@
             "de": "Zentral in der Altstadt gelegen.",
             "hu": "Központi elhelyezkedés az óvárosban.",
             "ro": "Situată central în orașul vechi.",
-            "en": "Centrally located in the old town."
+            "en": "Centrally located in the old town.",
+            "tr": "Eski şehrin merkezinde konumlanmış."
           }
         }
       ],
@@ -1018,7 +1090,8 @@
         "de": "Nutzen Sie das ausgezeichnete ÖPNV-Netz Velberts. Sie starten im Zentrum am Schlossmuseum und dem Herminghauspark. Mit dem Schnellbus erreichen Sie in 20 Minuten Neviges mit seinem berühmten Dom und dem Wasserschloss. Die S-Bahn S9 bringt Sie schließlich in wenigen Minuten ins historische Langenberg, wo Sie den Tag in den malerischen Gassen ausklingen lassen.",
         "hu": "Használja ki Velbert kiváló tömegközlekedési hálózatát. A központban kezd a Zármúzeumnál és a Herminghausparknál. Gyorsbusszal 20 perc alatt elérheti Nevigest a híres dómjával és a vízikastéllyal. Az S9-es vonat végül pár perc alatt elviszi a történelmi Langenbergbe, ahol a festői utcákon fejezheti be a napot.",
         "ro": "Profitati de rețeaua excelentă de transport public din Velbert. Începeți în centru, la Muzeul Încuietorilor și Parcul Herminghaus. Cu autobuzul rapid ajungeți în 20 de minute în Neviges, cu faimosul său Dom și castelul pe apă. Trenul S9 vă duce apoi în câteva minute în istoricul Langenberg, unde vă puteți încheia ziua pe străduțele pitorești.",
-        "en": "Take advantage of Velbert's excellent public transport network. Start in the center at the Lock Museum and Herminghaus Park. By rapid bus, reach Neviges in 20 minutes with its famous Cathedral and moated castle. Finally, the S9 train takes you in a few minutes to historic Langenberg, where you can end the day in the picturesque alleys."
+        "en": "Take advantage of Velbert's excellent public transport network. Start in the center at the Lock Museum and Herminghaus Park. By rapid bus, reach Neviges in 20 minutes with its famous Cathedral and moated castle. Finally, the S9 train takes you in a few minutes to historic Langenberg, where you can end the day in the picturesque alleys.",
+        "tr": "Velbert'in mükemmel toplu taşıma ağından yararlanın. Merkezde Kilit Müzesi ve Herminghaus Parkı ile başlayın. Hızlı otobüsle Neviges'e 20 dakikada ulaşın; ünlü Katedrali ve hendekli kalesi burada. Son olarak S9 treni birkaç dakikada sizi tarihi Langenberg'e götürür; günü resmedilmeye değer sokaklarda bitirebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1122,6 +1195,11 @@
           "The 'VRR Preisstufe A' ticket covers the entire city area.",
           "The S9 runs every half hour between Neviges and Langenberg.",
           "Use the 'VRR' app for real-time departures."
+        ],
+        "tr": [
+          "'VRR Preisstufe A' bileti şehir alanının tamamını kapsar.",
+          "S9, Neviges ile Langenberg arasında yarım saatte bir çalışır.",
+          "Gerçek zamanlı kalkışlar için 'VRR' uygulamasını kullanın."
         ]
       }
     }

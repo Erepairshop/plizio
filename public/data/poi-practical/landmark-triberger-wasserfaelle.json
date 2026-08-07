@@ -3,55 +3,64 @@
     "de": "Hauptstraße 85, 78098 Triberg",
     "hu": "Hauptstraße 85, 78098 Triberg",
     "ro": "Hauptstraße 85, 78098 Triberg",
-    "en": "Hauptstraße 85, 78098 Triberg"
+    "en": "Hauptstraße 85, 78098 Triberg",
+    "tr": "Hauptstraße 85, 78098 Triberg"
   },
   "openingHours": {
     "de": "Mo-So 09:00-22:00",
     "hu": "H-V 09:00-22:00",
     "ro": "L-D 09:00-22:00",
-    "en": "Mon-Sun 09:00-22:00"
+    "en": "Mon-Sun 09:00-22:00",
+    "tr": "Pzt-Paz 09:00-22:00"
   },
   "entranceFee": {
     "de": "€8.00 Erwachsene, €7.50 ermäßigt",
     "hu": "8,00 € felnőtt, 7,50 € kedvezményes",
     "ro": "8 € adulți, 7,50 € redus",
-    "en": "€8.00 adults, €7.50 reduced"
+    "en": "€8.00 adults, €7.50 reduced",
+    "tr": "€8,00 yetişkinler, €7,50 indirimli"
   },
   "website": "https://www.triberg.de",
   "publicTransport": {
     "de": "Bus 7270 bis Haltestelle Wasserfälle",
     "hu": "7270-es busz a Wasserfälle megállóig",
     "ro": "Autobuz 7270 până la stația Wasserfälle",
-    "en": "Bus 7270 to Wasserfälle stop"
+    "en": "Bus 7270 to Wasserfälle stop",
+    "tr": "Bus 7270 Wasserfälle durağına"
   },
   "parking": {
     "de": "Parkhaus im Zentrum (P1), ca. €2.00/Std.",
     "hu": "Parkolóház a központban (P1), kb. 2,00 €/óra.",
     "ro": "Parcare în centru (P1), aprox. 2 €/oră.",
-    "en": "Parking garage in the center (P1), approx. €2.00/hr."
+    "en": "Parking garage in the center (P1), approx. €2.00/hr.",
+    "tr": "Merkezde otopark garajı (P1), yaklaşık €2,00/sa."
   },
   "accessibility": {
     "de": "Asphaltierte Wege vorhanden, aber teils sehr steil.",
     "hu": "Aszfaltozott utak vannak, de részben nagyon meredekek.",
     "ro": "Există drumuri asfaltate, dar pe alocuri foarte abrupte.",
-    "en": "Paved paths available, but sometimes very steep."
+    "en": "Paved paths available, but sometimes very steep.",
+    "tr": "Seyir yolları asfaltlı, ancak bazen çok dik."
   },
   "photoRules": {
     "de": "Erlaubt, Stative auf den Plattformen teils störend.",
     "hu": "Megengedett, az állványok a platformokon esetenként zavaróak.",
     "ro": "Permis, trepiedele pot fi deranjante pe platforme.",
-    "en": "Allowed, tripods sometimes disruptive on the platforms."
+    "en": "Allowed, tripods sometimes disruptive on the platforms.",
+    "tr": "İzin verildi, platformlarda tripodlar bazen rahatsız edici olabilir."
   },
   "bestTimeToVisit": {
     "de": "Winterabend bei Beleuchtung oder nach starkem Regen.",
     "hu": "Téli este, kivilágítva, vagy erős esőzés után.",
     "ro": "O seară de iarnă cu iluminat sau după ploi abundente.",
-    "en": "Winter evening when lit up or after heavy rain."
+    "en": "Winter evening when lit up or after heavy rain.",
+    "tr": "Işıklandırıldığında kış akşamı veya yoğun yağış sonrası."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

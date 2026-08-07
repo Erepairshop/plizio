@@ -21,7 +21,8 @@
             "de": "Rittertor",
             "hu": "Lovagkapu",
             "ro": "Poarta Cavalerilor",
-            "en": "Rittertor"
+            "en": "Rittertor",
+            "tr": "Rittertor"
           },
           "coords": [
             6.7325,
@@ -36,7 +37,8 @@
             "de": "Das letzte erhaltene Stadttor der mittelalterlichen Befestigung.",
             "hu": "A középkori erődítmény utolsó épségben maradt városkapuja.",
             "ro": "Ultima poartă medievală rămasă din vechile fortificații.",
-            "en": "The last remaining city gate of the medieval fortifications."
+            "en": "The last remaining city gate of the medieval fortifications.",
+            "tr": "Orta Çağ surlarının kalan son şehir kapısı."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Burg Dinslaken",
             "hu": "Dinslakeni vár",
             "ro": "Castelul Dinslaken",
-            "en": "Dinslaken Castle"
+            "en": "Dinslaken Castle",
+            "tr": "Dinslaken Kalesi"
           },
           "coords": [
             6.7318,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie den Innenhof des heutigen Rathauses.",
             "hu": "Nézze meg a mai városháza belső udvarát.",
             "ro": "Vizitați curtea interioară a actualei primării.",
-            "en": "Visit the inner courtyard of what is now the town hall."
+            "en": "Visit the inner courtyard of what is now the town hall.",
+            "tr": "Şimdi belediye binası olan yapının avlusunu ziyaret edin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "St. Vincentius Kirche",
             "hu": "Szent Vince-templom",
             "ro": "Biserica Sf. Vincențiu",
-            "en": "St. Vincentius Church"
+            "en": "St. Vincentius Church",
+            "tr": "St. Vincentius Kilisesi"
           },
           "coords": [
             6.7322,
@@ -82,7 +87,8 @@
             "de": "Gotische Hallenkirche mit wertvoller Ausstattung.",
             "hu": "Gótikus csarnoktemplom értékes belső berendezéssel.",
             "ro": "Biserică gotică tip hală cu interior valoros.",
-            "en": "Gothic hall church with valuable interior furnishings."
+            "en": "Gothic hall church with valuable interior furnishings.",
+            "tr": "Değerli iç donanımlara sahip gotik salon kilisesi."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museum Voswinckelshof",
             "hu": "Voswinckelshof Múzeum",
             "ro": "Muzeul Voswinckelshof",
-            "en": "Voswinckelshof Museum"
+            "en": "Voswinckelshof Museum",
+            "tr": "Voswinckelshof Müzesi"
           },
           "coords": [
             6.7335,
@@ -105,7 +112,8 @@
             "de": "Erfahren Sie mehr über die Stadtgeschichte im historischen Adelshof.",
             "hu": "Ismerje meg a város történelmét ebben a nemesi udvarházban.",
             "ro": "Aflați istoria orașului în această fostă reședință nobiliară.",
-            "en": "Learn about city history in this historical noble estate."
+            "en": "Learn about city history in this historical noble estate.",
+            "tr": "Bu tarihi soylu konağında şehir tarihini öğrenin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Evangelische Stadtkirche",
             "hu": "Evangélikus városi templom",
             "ro": "Biserica Evanghelică",
-            "en": "Evangelical City Church"
+            "en": "Evangelical City Church",
+            "tr": "Protestan Şehir Kilisesi"
           },
           "coords": [
             6.7305,
@@ -128,7 +137,8 @@
             "de": "Barocke Architektur direkt am Altmarkt.",
             "hu": "Barokk építészet közvetlenül az óvárosi piac mellett.",
             "ro": "Arhitectură barocă situată chiar lângă piața veche.",
-            "en": "Baroque architecture located right by the old market square."
+            "en": "Baroque architecture located right by the old market square.",
+            "tr": "Eski pazar meydanının hemen yanında bulunan barok mimari."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Stadtpark & Stadthalle",
             "hu": "Városliget és Városi Csarnok",
             "ro": "Parcul Orașului și Stadthalle",
-            "en": "City Park & Stadthalle"
+            "en": "City Park & Stadthalle",
+            "tr": "Şehir Parkı & Stadthalle"
           },
           "coords": [
             6.735,
@@ -151,7 +162,8 @@
             "de": "Entspannung im Grünen nach dem Stadtrundgang.",
             "hu": "Pihenés a zöldben a városnézés után.",
             "ro": "Relaxare în natură după turul orașului.",
-            "en": "Relax in the greenery after your city tour."
+            "en": "Relax in the greenery after your city tour.",
+            "tr": "Şehir turunuzun ardından yeşillikte dinlenin."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Vormittag beginnt historisch am Rittertor und der alten Burg, dem Herzstück der Altstadt. Nach dem Besuch der St. Vincentius Kirche erkunden wir die lokale Geschichte im Museum Voswinckelshof. Mittags bietet der Altmarkt bürgerliche Küche. Der Nachmittag führt durch die barocke Stadtkirche zum weitläufigen Stadtpark für einen entspannten Ausklang.",
         "hu": "A délelőtt történelmi hangulatban indul a Lovagkapunál és a várnál, az óváros szívében. A Szent Vince-templom után a Voswinckelshof Múzeumban mélyülünk el a helyi múltban. Ebédre az Altmarkt környéke kínál házias ízeket. Délután a barokk városi templomot érintve a városi park zöldjében zárjuk a napot.",
         "ro": "Dimineața începe istoric la Poarta Cavalerilor și vechiul castel, inima orașului vechi. După vizitarea bisericii Sf. Vincențiu, explorăm istoria locală la Muzeul Voswinckelshof. La prânz, piața veche oferă opțiuni gastronomice locale. După-amiaza trece pe la biserica evanghelică barocă și se încheie relaxant în parcul orașului.",
-        "en": "The morning starts with a historical touch at the Rittertor and the old castle, the heart of the Old Town. After visiting St. Vincentius Church, we explore local history at the Voswinckelshof Museum. For lunch, the Altmarkt offers traditional German cuisine. The afternoon leads through the baroque city church to the spacious city park for a relaxed finish."
+        "en": "The morning starts with a historical touch at the Rittertor and the old castle, the heart of the Old Town. After visiting St. Vincentius Church, we explore local history at the Voswinckelshof Museum. For lunch, the Altmarkt offers traditional German cuisine. The afternoon leads through the baroque city church to the spacious city park for a relaxed finish.",
+        "tr": "Sabah Rittertor ve eski kalede, Eski Şehir'in kalbinde tarihî bir dokunuşla başlar. St. Vincentius Kilisesi'ni ziyaret ettikten sonra Voswinckelshof Müzesi'nde yerel tarihi keşfederiz. Öğle yemeği için Altmarkt geleneksel Alman mutfağı sunar. Öğleden sonra barok şehir kilisesinden geniş şehir parkına geçilir ve rahat bir son yapar."
       },
       "gastro_picks": {
         "de": [
@@ -267,6 +280,12 @@
           "Look for the information boards at the castle.",
           "It's best to park in the Neutor Galerie underground garage.",
           "The Altmarkt often hosts a small market on Saturdays."
+        ],
+        "tr": [
+          "Eski şehir çok kompakt ve yürüyerek mükemmel şekilde keşfedilebilir.",
+          "Kaledeki bilgilendirme panolarını arayın.",
+          "En iyi Neutor Galerie yeraltı otoparkında park etmek.",
+          "Altmarkt genellikle cumartesi günleri küçük bir pazara ev sahipliği yapar."
         ]
       }
     },
@@ -283,7 +302,8 @@
             "de": "Burg Dinslaken",
             "hu": "Dinslakeni vár",
             "ro": "Castelul Dinslaken",
-            "en": "Dinslaken Castle"
+            "en": "Dinslaken Castle",
+            "tr": "Dinslaken Kalesi"
           },
           "coords": [
             6.7318,
@@ -298,7 +318,8 @@
             "de": "Startpunkt im Herzen der Stadt.",
             "hu": "Kiindulópont a város szívében.",
             "ro": "Punct de plecare în inima orașului.",
-            "en": "Starting point in the heart of the city."
+            "en": "Starting point in the heart of the city.",
+            "tr": "Şehrin kalbinde başlangıç noktası."
           }
         },
         {
@@ -306,7 +327,8 @@
             "de": "Ledigenheim Lohberg",
             "hu": "Lohbergi legényszálló",
             "ro": "Căminul Lohberg",
-            "en": "Ledigenheim Lohberg"
+            "en": "Ledigenheim Lohberg",
+            "tr": "Ledigenheim Lohberg"
           },
           "coords": [
             6.756,
@@ -321,7 +343,8 @@
             "de": "Architektonisch wertvolles Gebäude der Gartenstadt.",
             "hu": "A kertváros építészetileg jelentős épülete.",
             "ro": "Clădire de valoare arhitecturală din orașul-grădină.",
-            "en": "Architecturally valuable building in the garden city."
+            "en": "Architecturally valuable building in the garden city.",
+            "tr": "Bahçe kentindeki mimari değeri yüksek yapı."
           }
         },
         {
@@ -329,7 +352,8 @@
             "de": "Zeche Lohberg",
             "hu": "Lohberg bánya",
             "ro": "Mina Lohberg",
-            "en": "Lohberg Colliery"
+            "en": "Lohberg Colliery",
+            "tr": "Lohberg Maden Ocağı"
           },
           "coords": [
             6.758,
@@ -344,7 +368,8 @@
             "de": "Eindrucksvolles Industriedenkmal mit Fördertürmen.",
             "hu": "Lenyűgöző ipari műemlék akna-tornyokkal.",
             "ro": "Monument industrial impresionant cu turnuri de extracție.",
-            "en": "Impressive industrial monument with winding towers."
+            "en": "Impressive industrial monument with winding towers.",
+            "tr": "Baş döndürücü kulelere sahip etkileyici bir endüstriyel anıt."
           }
         },
         {
@@ -352,7 +377,8 @@
             "de": "Lohberg-Park",
             "hu": "Lohberg-park",
             "ro": "Parcul Lohberg",
-            "en": "Lohberg Park"
+            "en": "Lohberg Park",
+            "tr": "Lohberg Parkı"
           },
           "coords": [
             6.762,
@@ -367,7 +393,8 @@
             "de": "Neue Landschaft auf altem Zechengelände.",
             "hu": "Új tájépítészet a régi bányaterületen.",
             "ro": "Peisaj nou amenajat pe vechiul sit minier.",
-            "en": "New landscape architecture on the former mining site."
+            "en": "New landscape architecture on the former mining site.",
+            "tr": "Eski madencilik alanında yeni peyzaj düzenlemesi."
           }
         },
         {
@@ -375,7 +402,8 @@
             "de": "Rotbachsee",
             "hu": "Rotbach-tó",
             "ro": "Lacul Rotbach",
-            "en": "Rotbach Lake"
+            "en": "Rotbach Lake",
+            "tr": "Rotbach Gölü"
           },
           "coords": [
             6.745,
@@ -390,7 +418,8 @@
             "de": "Beliebtes Naherholungsgebiet im Süden.",
             "hu": "Népszerű pihenőhely a déli részen.",
             "ro": "Zonă populară de recreere în sudul orașului.",
-            "en": "Popular local recreation area in the south."
+            "en": "Popular local recreation area in the south.",
+            "tr": "Güneyde popüler yerel dinlenme alanı."
           }
         },
         {
@@ -398,7 +427,8 @@
             "de": "Trabrennbahn",
             "hu": "Ügetőpálya",
             "ro": "Hipodrom",
-            "en": "Harness Racing Track"
+            "en": "Harness Racing Track",
+            "tr": "Köşe At Yarış Pisti"
           },
           "coords": [
             6.738,
@@ -413,7 +443,8 @@
             "de": "Traditionsreiche Rennbahn von Dinslaken.",
             "hu": "Dinslaken nagy múltú versenypályája.",
             "ro": "Hipodrom cu o lungă tradiție în Dinslaken.",
-            "en": "Traditional racing track of Dinslaken."
+            "en": "Traditional racing track of Dinslaken.",
+            "tr": "Dinslaken'in geleneksel yarış pisti."
           }
         },
         {
@@ -421,7 +452,8 @@
             "de": "Altmarkt",
             "hu": "Óvárosi piac",
             "ro": "Piața Veche",
-            "en": "Old Market"
+            "en": "Old Market",
+            "tr": "Eski Pazar"
           },
           "coords": [
             6.731,
@@ -436,7 +468,8 @@
             "de": "Rückkehr ins Zentrum für ein kühles Getränk.",
             "hu": "Visszatérés a központba egy hűsítő italra.",
             "ro": "Revenire în centru pentru o băutură răcoritoare.",
-            "en": "Return to the center for a cool drink."
+            "en": "Return to the center for a cool drink.",
+            "tr": "Serin bir içecek için merkeze dönüş."
           }
         }
       ],
@@ -444,7 +477,8 @@
         "de": "Dinslaken per Rad verbindet Stadtgeschichte mit Industriekultur. Vom Zentrum radeln wir zur Gartenstadt Lohberg und der imposanten Zeche. Nach einer Runde durch den neuen Park führt der Weg nach Süden zum idyllischen Rotbachsee. Über die historische Trabrennbahn geht es entspannt zurück in die Altstadt.",
         "hu": "Dinslaken kerékpárral összeköti a várostörténetet az ipari kultúrával. A központból a Lohberg kertvároshoz és a hatalmas bányához tekerünk. Az új park után az út délre, az idilli Rotbach-tóhoz vezet. A történelmi ügetőpályán keresztül térünk vissza kényelmesen az óvárosba.",
         "ro": "Dinslaken pe bicicletă îmbină istoria orașului cu cultura industrială. Din centru pedalăm spre orașul-grădină Lohberg și impunătoarea mină. După o tură prin noul parc, drumul ne duce spre sud, la idilicul lac Rotbach. Trecând pe la hipodromul istoric, ne întoarcem relaxați în orașul vechi.",
-        "en": "Cycling through Dinslaken combines city history with industrial culture. From the center, we ride to the Lohberg Garden City and the impressive colliery. After a loop through the new park, the path leads south to the idyllic Rotbach Lake. Passing the historical harness racing track, we return comfortably to the Old Town."
+        "en": "Cycling through Dinslaken combines city history with industrial culture. From the center, we ride to the Lohberg Garden City and the impressive colliery. After a loop through the new park, the path leads south to the idyllic Rotbach Lake. Passing the historical harness racing track, we return comfortably to the Old Town.",
+        "tr": "Dinslaken’de bisiklete binmek şehir tarihini sanayi kültürüyle birleştirir. Merkezden Lohberg Bahçe Şehri ve etkileyici madene sürüyoruz. Yeni parkta bir turdan sonra yol güneye Rotbach Gölü’nün huzurlu alanına çıkıyor. Tarihi eyer yarışı pistinden geçerek Eski Kent’e rahatça geri dönüyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -552,6 +586,12 @@
           "The route through Lohberg is well signposted.",
           "There are numerous benches for breaks at Rotbach Lake.",
           "A detour to the 'Garden City' is worth it for the architecture."
+        ],
+        "tr": [
+          "Rahat bisiklet sürüşü için Aşağı Ren’in düz arazi yapımından yararlanın.",
+          "Lohberg rotası iyi işaretlenmiştir.",
+          "Rotbach Gölü’nde molalar için çok sayıda oturma bankı var.",
+          "Mimari açıdan ‘Bahçe Şehri’ne küçük bir sapma yapmaya değer."
         ]
       }
     },
@@ -568,7 +608,8 @@
             "de": "Rittertor (Parkplatz)",
             "hu": "Lovagkapu (parkoló)",
             "ro": "Poarta Cavalerilor (parcare)",
-            "en": "Rittertor (Parking)"
+            "en": "Rittertor (Parking)",
+            "tr": "Rittertor (Otopark)"
           },
           "coords": [
             6.7325,
@@ -584,7 +625,8 @@
             "de": "Idealer Startpunkt für den Altstadt-Cluster.",
             "hu": "Ideális kiindulópont az óvárosi részhez.",
             "ro": "Punct de plecare ideal pentru centrul vechi.",
-            "en": "Ideal starting point for the Old Town cluster."
+            "en": "Ideal starting point for the Old Town cluster.",
+            "tr": "Eski Kent kümesi için ideal başlangıç noktası."
           }
         },
         {
@@ -592,7 +634,8 @@
             "de": "Burg Dinslaken",
             "hu": "Dinslakeni vár",
             "ro": "Castelul Dinslaken",
-            "en": "Dinslaken Castle"
+            "en": "Dinslaken Castle",
+            "tr": "Dinslaken Sarayı"
           },
           "coords": [
             6.7318,
@@ -608,7 +651,8 @@
             "de": "Kurzer Spaziergang vom Parkplatz.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking lot."
+            "en": "Short walk from the parking lot.",
+            "tr": "Otoparktan kısa bir yürüyüş mesafesinde."
           }
         },
         {
@@ -616,7 +660,8 @@
             "de": "Museum Voswinckelshof",
             "hu": "Voswinckelshof Múzeum",
             "ro": "Muzeul Voswinckelshof",
-            "en": "Voswinckelshof Museum"
+            "en": "Voswinckelshof Museum",
+            "tr": "Voswinckelshof Müzesi"
           },
           "coords": [
             6.7335,
@@ -632,7 +677,8 @@
             "de": "Letzter Stopp im Zentrum vor dem Fahrzeugwechsel.",
             "hu": "Utolsó megálló a központban az autós szakasz előtt.",
             "ro": "Ultima oprire în centru înainte de a lua mașina.",
-            "en": "Last stop in the center before driving."
+            "en": "Last stop in the center before driving.",
+            "tr": "Araç kullanmadan önce merkezdeki son durak."
           }
         },
         {
@@ -640,7 +686,8 @@
             "de": "Zeche Lohberg (Cluster B)",
             "hu": "Lohberg bánya",
             "ro": "Mina Lohberg",
-            "en": "Lohberg Colliery"
+            "en": "Lohberg Colliery",
+            "tr": "Lohberg Maden İşletmesi"
           },
           "coords": [
             6.758,
@@ -656,7 +703,8 @@
             "de": "Parken am Kreativquartier.",
             "hu": "Parkolás a kreatív negyednél.",
             "ro": "Parcare la cartierul creativ.",
-            "en": "Parking at the creative quarter."
+            "en": "Parking at the creative quarter.",
+            "tr": "Yaratıcı bölge yanında otopark mevcut."
           }
         },
         {
@@ -664,7 +712,8 @@
             "de": "Ledigenheim Lohberg",
             "hu": "Lohbergi legényszálló",
             "ro": "Căminul Lohberg",
-            "en": "Ledigenheim Lohberg"
+            "en": "Ledigenheim Lohberg",
+            "tr": "Ledigenheim Lohberg"
           },
           "coords": [
             6.756,
@@ -680,7 +729,8 @@
             "de": "Fußläufig im Gartenstadt-Viertel.",
             "hu": "Gyalogosan elérhető a kertvárosi negyedben.",
             "ro": "Accesibil pe jos în cartierul-grădină.",
-            "en": "Within walking distance in the garden city district."
+            "en": "Within walking distance in the garden city district.",
+            "tr": "Bahçe şehir mahallesinde yürüme mesafesinde."
           }
         },
         {
@@ -688,7 +738,8 @@
             "de": "Rotbachsee (Cluster C)",
             "hu": "Rotbach-tó",
             "ro": "Lacul Rotbach",
-            "en": "Rotbach Lake"
+            "en": "Rotbach Lake",
+            "tr": "Rotbach Gölü"
           },
           "coords": [
             6.745,
@@ -704,7 +755,8 @@
             "de": "Natur pur am Stadtrand.",
             "hu": "Tiszta természet a város szélén.",
             "ro": "Natură pură la marginea orașului.",
-            "en": "Pure nature at the city outskirts."
+            "en": "Pure nature at the city outskirts.",
+            "tr": "Şehir dışında saf doğa."
           }
         },
         {
@@ -712,7 +764,8 @@
             "de": "Trabrennbahn",
             "hu": "Ügetőpálya",
             "ro": "Hipodrom",
-            "en": "Harness Racing Track"
+            "en": "Harness Racing Track",
+            "tr": "Eyer Yarışı Pisti"
           },
           "coords": [
             6.738,
@@ -728,7 +781,8 @@
             "de": "Blick auf das traditionsreiche Areal.",
             "hu": "Kilátás a nagy múltú területre.",
             "ro": "Vedere asupra zonei cu tradiție.",
-            "en": "View of the traditional area."
+            "en": "View of the traditional area.",
+            "tr": "Geleneksel alanın manzarası."
           }
         }
       ],
@@ -736,7 +790,8 @@
         "de": "Diese Tour nutzt das Auto für die Sprünge zwischen den Dinslakener Highlights. Wir parken zuerst zentral, um den historischen Kern zu Fuß zu erleben. Danach fahren wir in den Norden zum Industriedenkmal Lohberg. Den Abschluss bildet der Süden mit dem Rotbachsee und der Trabrennbahn, wo wir die weite Landschaft des Niederrheins genießen.",
         "hu": "Ez a túra az autót használja a Dinslaken látnivalói közötti ugrásokhoz. Először a központban parkolunk, hogy gyalog fedezzük fel a történelmi magot. Ezután északra hajtunk a Lohberg ipari műemlékhez. A napot délen, a Rotbach-tónál és az ügetőpályánál zárjuk, élvezve az Alsó-Rajna vidék tágas tájait.",
         "ro": "Acest tur folosește mașina pentru a face saltul între principalele atracții din Dinslaken. Parcăm întâi central pentru a explora nucleul istoric pe jos. Apoi conducem spre nord la monumentul industrial Lohberg. Încheiem în sud, la lacul Rotbach și hipodrom, unde ne bucurăm de peisajul vast al regiunii Niederrhein.",
-        "en": "This tour uses the car to jump between Dinslaken's highlights. We first park centrally to explore the historical core on foot. Then we drive north to the Lohberg industrial monument. The day concludes in the south at Rotbach Lake and the harness racing track, where we enjoy the wide landscapes of the Lower Rhine."
+        "en": "This tour uses the car to jump between Dinslaken's highlights. We first park centrally to explore the historical core on foot. Then we drive north to the Lohberg industrial monument. The day concludes in the south at Rotbach Lake and the harness racing track, where we enjoy the wide landscapes of the Lower Rhine.",
+        "tr": "Bu tur, Dinslaken’in öne çıkan noktaları arasında araba kullanımıyla atlamalar yapıyor. Önce tarihi çekirdeği keşfetmek için merkezi bir yere park ediyoruz. Ardından kuzeye Lohberg sanayi anıtına gidiyoruz. Gün, güneye Rotbach Gölü ve eyer yarışı pistinde geniş Aşağı Ren manzaralarının tadını çıkararak sona eriyor."
       },
       "gastro_picks": {
         "de": [
@@ -844,6 +899,12 @@
           "Free parking is available at the colliery site in Lohberg.",
           "Driving times between clusters are short (under 15 min).",
           "Perfect to combine with a visit to nearby Wesel."
+        ],
+        "tr": [
+          "Rittertor’daki otopark sık sık dolu olur, otopark garajlarını kullanın.",
+          "Lohberg maden sahasında ücretsiz otopark mevcuttur.",
+          "Kümeler arasındaki sürüş süreleri kısadır (15 dakikanın altında).",
+          "Yakındaki Wesel ziyaretine kombin etmek için mükemmel."
         ]
       }
     },
@@ -860,7 +921,8 @@
             "de": "Altmarkt (Zentrum)",
             "hu": "Óvárosi piac",
             "ro": "Piața Veche",
-            "en": "Old Market"
+            "en": "Old Market",
+            "tr": "Eski Pazar"
           },
           "coords": [
             6.731,
@@ -876,7 +938,8 @@
             "de": "Zentraler Ankunftspunkt am Busbahnhof.",
             "hu": "Központi érkezési pont a buszpályaudvarnál.",
             "ro": "Punct central de sosire la autogară.",
-            "en": "Central arrival point at the bus station."
+            "en": "Central arrival point at the bus station.",
+            "tr": "Otobüs terminalinde merkezi varış noktası."
           }
         },
         {
@@ -884,7 +947,8 @@
             "de": "St. Vincentius Kirche",
             "hu": "Szent Vince-templom",
             "ro": "Biserica Sf. Vincențiu",
-            "en": "St. Vincentius Church"
+            "en": "St. Vincentius Church",
+            "tr": "St. Vincentius Kilisesi"
           },
           "coords": [
             6.7322,
@@ -900,7 +964,8 @@
             "de": "Fußläufig im Zentrum.",
             "hu": "Gyalogosan a központban.",
             "ro": "Accesibil pe jos în centru.",
-            "en": "Within walking distance in the center."
+            "en": "Within walking distance in the center.",
+            "tr": "Merkezde yürüme mesafesinde."
           }
         },
         {
@@ -908,7 +973,8 @@
             "de": "Burg Dinslaken",
             "hu": "Dinslakeni vár",
             "ro": "Castelul Dinslaken",
-            "en": "Dinslaken Castle"
+            "en": "Dinslaken Castle",
+            "tr": "Dinslaken Sarayı"
           },
           "coords": [
             6.7318,
@@ -924,7 +990,8 @@
             "de": "Ehemals Sitz der Grafen von Kleve.",
             "hu": "Egykor Kleve grófjainak székhelye.",
             "ro": "Fosta reședință a conților de Kleve.",
-            "en": "Former seat of the Counts of Kleve."
+            "en": "Former seat of the Counts of Kleve.",
+            "tr": "Kleve Kontları’nın eski ikametgâhı."
           }
         },
         {
@@ -932,7 +999,8 @@
             "de": "Zeche Lohberg (District B)",
             "hu": "Lohberg bánya",
             "ro": "Mina Lohberg",
-            "en": "Lohberg Colliery"
+            "en": "Lohberg Colliery",
+            "tr": "Lohberg Maden İşletmesi"
           },
           "coords": [
             6.758,
@@ -948,7 +1016,8 @@
             "de": "Mit dem Bus direkt zum Zechengelände.",
             "hu": "Busszal közvetlenül a bányaterülethez.",
             "ro": "Cu autobuzul direct la situl minei.",
-            "en": "By bus directly to the colliery site."
+            "en": "By bus directly to the colliery site.",
+            "tr": "Maden sahasına direkt otobüs seferiyle ulaşılır."
           }
         },
         {
@@ -956,7 +1025,8 @@
             "de": "Ledigenheim",
             "hu": "Legényszálló",
             "ro": "Căminul",
-            "en": "Ledigenheim"
+            "en": "Ledigenheim",
+            "tr": "Ledigenheim"
           },
           "coords": [
             6.756,
@@ -972,7 +1042,8 @@
             "de": "Architektur-Highlight in der Nachbarschaft.",
             "hu": "Építészeti fénypont a szomszédságban.",
             "ro": "Punct de reper arhitectural în vecinătate.",
-            "en": "Architectural highlight in the neighborhood."
+            "en": "Architectural highlight in the neighborhood.",
+            "tr": "Mahallede mimari bir başyapıt."
           }
         },
         {
@@ -980,7 +1051,8 @@
             "de": "Altmarkt (Abend)",
             "hu": "Óvárosi piac (este)",
             "ro": "Piața Veche (seara)",
-            "en": "Old Market (Evening)"
+            "en": "Old Market (Evening)",
+            "tr": "Eski Pazar (Akşam)"
           },
           "coords": [
             6.731,
@@ -996,7 +1068,8 @@
             "de": "Rückkehr zum Bahnhof für die Abreise.",
             "hu": "Visszatérés az állomásra a hazautazáshoz.",
             "ro": "Revenire la gară pentru plecare.",
-            "en": "Return to the station for departure."
+            "en": "Return to the station for departure.",
+            "tr": "Ayrılış için istasyona dönüş."
           }
         }
       ],
@@ -1004,7 +1077,8 @@
         "de": "Dinslaken mit Bus und Bahn ist entspannt und nachhaltig. Wir starten in der Altstadt, wo alle Sehenswürdigkeiten nah beieinander liegen. Eine kurze Busfahrt bringt uns in den Stadtteil Lohberg, um das Erbe des Bergbaus zu bestaunen. Nach dem Eintauchen in die Industriekultur führt der Weg zurück in den gemütlichen Stadtkern.",
         "hu": "Dinslaken busszal és vonattal kényelmes és fenntartható. Az óvárosban kezdünk, ahol minden látnivaló közel van egymáshoz. Egy rövid buszozás elvisz a Lohberg negyedbe, hogy megcsodáljuk a bányászat örökségét. Az ipari kultúrában való elmélyülés után az út visszavezet a hangulatos városközpontba.",
         "ro": "Dinslaken cu autobuzul și trenul este o variantă relaxată și sustenabilă. Începem în orașul vechi, unde toate atracțiile sunt aproape una de alta. O scurtă călătorie cu autobuzul ne duce în cartierul Lohberg pentru a admira moștenirea minieră. După incursiunea în cultura industrială, ne întoarcem în centrul primitor.",
-        "en": "Dinslaken by bus and train is relaxed and sustainable. We start in the Old Town, where all the sights are close to each other. A short bus ride takes us to the Lohberg district to marvel at the mining heritage. After immersing ourselves in industrial culture, the path leads back to the cozy city center."
+        "en": "Dinslaken by bus and train is relaxed and sustainable. We start in the Old Town, where all the sights are close to each other. A short bus ride takes us to the Lohberg district to marvel at the mining heritage. After immersing ourselves in industrial culture, the path leads back to the cozy city center.",
+        "tr": "Dinslaken’e otobüs ve trenle gitmek rahat ve sürdürülebilirdir. Turlara Eski Kent’ten başlıyoruz; tüm görülecek yerler birbirine yakındır. Kısa bir otobüs yolculuğu bizi madencilik mirasına hayran kalacağımız Lohberg mahallesine götürür. Sanayi kültürüne daldıktan sonra yol arkadaş canlısı şehir merkezine geri döner."
       },
       "gastro_picks": {
         "de": [
@@ -1112,6 +1186,12 @@
           "A day ticket for the VRR area is often the cheapest choice.",
           "Dinslaken station is well-connected to the regional train network.",
           "It's about a 10-minute walk from the station to the Altmarkt."
+        ],
+        "tr": [
+          "Lohberg’e NIAG otobüs hatlarını (ör. 26 numaralı hat) kullanın.",
+          "VRR bölgesi için günlük bilet genellikle en ekonomik seçenektir.",
+          "Dinslaken istasyonu bölgesel tren ağına iyi bağlıdır.",
+          "İstasyondan Altmarkt’a yaklaşık 10 dakikalık bir yürüyüştür."
         ]
       }
     }

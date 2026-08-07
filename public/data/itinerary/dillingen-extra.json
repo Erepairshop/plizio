@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die gründerzeitliche Architektur des Bahnhofsgebäudes.",
             "hu": "Csodálja meg a pályaudvar historizáló épületét.",
             "ro": "Admirați arhitectura istorică a clădirii gării.",
-            "en": "Admire the historicist architecture of the station building."
+            "en": "Admire the historicist architecture of the station building.",
+            "tr": "İstasyon binasının tarihselci mimarisine hayran kalın."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein altes Bahndepot, das heute als modernes Kulturzentrum dient.",
             "hu": "Régi mozdonyraktár, amely ma kulturális központ.",
             "ro": "Un vechi depou feroviar transformat în centru cultural.",
-            "en": "An old engine shed now serving as a cultural hub."
+            "en": "An old engine shed now serving as a cultural hub.",
+            "tr": "Eskiden bir lokomotif hangarı olan, şimdi kültürel bir merkez olarak hizmet veren yapı."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Die größte Kirche des Saarlandes mit beeindruckender Doppelturmfassade.",
             "hu": "Saar-vidék legnagyobb temploma monumentális kettős toronnyal.",
             "ro": "Cea mai mare biserică din Saarland, cu turnuri duble impresionante.",
-            "en": "The largest church in Saarland with a massive twin-tower facade."
+            "en": "The largest church in Saarland with a massive twin-tower facade.",
+            "tr": "Saarland'ın en büyük kilisesi, görkemli çift kule cephesiyle."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein symbolischer Brunnen, benannt nach der Schutzpatronin der Blinden.",
             "hu": "Szimbolikus kút, a vakok védőszentjéről elnevezve.",
             "ro": "Fântână simbolică numită după patroana nevăzătorilor.",
-            "en": "A symbolic fountain named after the patron saint of the blind."
+            "en": "A symbolic fountain named after the patron saint of the blind.",
+            "tr": "Körlerin koruyucu azizinin adını taşıyan sembolik bir çeşme."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Besuchen Sie das Schloss und den angrenzenden historischen Park.",
             "hu": "Látogassa meg a kastélyt és a hozzá tartozó történelmi parkot.",
             "ro": "Vizitați castelul și parcul istoric adiacent.",
-            "en": "Visit the castle and the adjacent historical park."
+            "en": "Visit the castle and the adjacent historical park.",
+            "tr": "Şatoyu ve bitişiğindeki tarihi parkı ziyaret edin."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ideal für einen entspannten Abschluss im Grünen.",
             "hu": "Ideális hely a zöldben való pihenéshez a nap végén.",
             "ro": "Ideal pentru o relaxare în natură la finalul zilei.",
-            "en": "Perfect for a relaxing finish surrounded by nature."
+            "en": "Perfect for a relaxing finish surrounded by nature.",
+            "tr": "Doğayla çevrili rahatlatıcı bir bitiriş için mükemmel."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Dillingen verbindet auf faszinierende Weise Industriegeschichte mit sakraler Monumentalität. Der Morgen beginnt am Bahnhof und führt zum Lokschuppen, einem Zeugnis der Eisenbahntradition. Mittags beeindruckt der Saardom, bevor es zum ruhigeren Schlossbezirk und in den weitläufigen Stadtpark geht.",
         "hu": "Dillingen izgalmas keveréke az ipari örökségnek és a monumentális építészetnek. A reggel a vasúti emlékekkel indul a Lokschuppen környékén, majd a hatalmas Saardom bűvöli el a látogatót. A délután a kastély és a városi park zöld övezetében telik, távol a gyár lüktetésétől.",
         "ro": "Dillingen îmbină fascinant istoria industrială cu monumentalitatea sacră. Dimineața începe la gară și continuă spre Lokschuppen, un martor al tradiției feroviare. La prânz, Saardom impresionează prin dimensiuni, urmat de o după-amiază liniștită la Castelul Vechi și în parcul orașului.",
-        "en": "Dillingen offers a fascinating blend of industrial heritage and monumental architecture. Start your morning with railway history at Lokschuppen. Midday is dominated by the massive Saardom cathedral, while the afternoon is spent in the peaceful castle district and the lush city park."
+        "en": "Dillingen offers a fascinating blend of industrial heritage and monumental architecture. Start your morning with railway history at Lokschuppen. Midday is dominated by the massive Saardom cathedral, while the afternoon is spent in the peaceful castle district and the lush city park.",
+        "tr": "Dillingen, endüstriyel miras ile anıtsal mimarinin büyüleyici bir karışımını sunar. Sabahınıza tren tarihiyle Lokschuppen’de başlayın. Öğle vakti devasa Saardom katedrali hakim olurken, öğleden sonra huzurlu kale semti ve yemyeşil şehir parkında geçer."
       },
       "gastro_picks": {
         "de": [
@@ -233,6 +240,11 @@
           "The city is flat and very easy to explore on foot.",
           "Check the current events calendar for Lokschuppen before visiting.",
           "The Saardom is best illuminated in the morning hours."
+        ],
+        "tr": [
+          "Şehir düz ve yürüyerek keşfetmesi çok kolay.",
+          "Ziyaretten önce Lokschuppen’in güncel etkinlik takvimini kontrol edin.",
+          "Saardom en iyi sabah saatlerinde aydınlatılmış olur."
         ]
       }
     },
@@ -259,7 +271,8 @@
             "de": "Startpunkt an der imposanten Kathedrale.",
             "hu": "Kezdőpont az impozáns székesegyháznál.",
             "ro": "Punct de plecare la catedrala impunătoare.",
-            "en": "Starting point at the imposing cathedral."
+            "en": "Starting point at the imposing cathedral.",
+            "tr": "Başlangıç noktası: görkemli katedralin önünde."
           }
         },
         {
@@ -277,7 +290,8 @@
             "de": "Kurze Fahrt zum historischen Adelssitz.",
             "hu": "Rövid tekerés a történelmi nemesi székhelyig.",
             "ro": "Scurtă plimbare până la reședința istorică.",
-            "en": "Short ride to the historic noble seat."
+            "en": "Short ride to the historic noble seat.",
+            "tr": "Tarihi soylu mevkiye kısa bisiklet sürüşü."
           }
         },
         {
@@ -295,7 +309,8 @@
             "de": "Radwege führen durch die gepflegte Anlage.",
             "hu": "Kerékpárutak vezetnek át a gondozott parkon.",
             "ro": "Piste de biciclete prin parcul bine întreținut.",
-            "en": "Bike paths lead through the well-kept grounds."
+            "en": "Bike paths lead through the well-kept grounds.",
+            "tr": "Bisiklet yolları bakımlı alanlardan geçer."
           }
         },
         {
@@ -313,7 +328,8 @@
             "de": "Spüren Sie die gewaltige Dimension des Stahlwerks.",
             "hu": "Érezze az acélmű hatalmas méreteit a kapunál.",
             "ro": "Simțiți dimensiunea uriașă a oțelăriei la poartă.",
-            "en": "Feel the massive scale of the steelworks at the gate."
+            "en": "Feel the massive scale of the steelworks at the gate.",
+            "tr": "Kapıda çelik fabrikasının muazzam ölçeğini hissedin."
           }
         },
         {
@@ -331,7 +347,8 @@
             "de": "Meisterwerk der Reformarchitektur.",
             "hu": "A reformépítészet remekműve.",
             "ro": "Capodoperă a arhitecturii reformiste.",
-            "en": "A masterpiece of reform architecture."
+            "en": "A masterpiece of reform architecture.",
+            "tr": "Reform mimarisinin bir başyapıtı."
           }
         },
         {
@@ -349,7 +366,8 @@
             "de": "Industriecharme trifft auf Kultur.",
             "hu": "Ipari báj és kultúra találkozása.",
             "ro": "Șarmul industrial întâlnește cultura.",
-            "en": "Industrial charm meets culture."
+            "en": "Industrial charm meets culture.",
+            "tr": "Endüstriyel cazibe ile kültürün buluştuğu yer."
           }
         },
         {
@@ -367,7 +385,8 @@
             "de": "Zielort mit Radabstellplätzen.",
             "hu": "Célállomás kerékpártárolókkal.",
             "ro": "Destinație cu spații de parcare pentru biciclete.",
-            "en": "Destination with bike parking facilities."
+            "en": "Destination with bike parking facilities.",
+            "tr": "Bisiklet park alanı bulunan varış noktası."
           }
         }
       ],
@@ -375,7 +394,8 @@
         "de": "Diese Radtour führt Sie von der religiösen Pracht des Saardoms bis zu den stählernen Riesen der Dillinger Hütte. Genießen Sie die Kontraste zwischen den grünen Parkanlagen und der rauen Industriekultur, ergänzt durch architektonische Highlights wie das Tessenow-Haus.",
         "hu": "Ez a kerékpártúra a Saardom vallási pompájától a Dillinger Hütte acélóriásaiig vezet. Élvezze a zöld parkok és a nyers ipari kultúra közötti kontrasztot, kiegészítve olyan építészeti gyöngyszemekkel, mint a Tessenow-ház.",
         "ro": "Acest tur cu bicicleta vă poartă de la splendoarea religioasă a Saardom la giganții de oțel ai Dillinger Hütte. Bucurați-vă de contrastele dintre parcurile verzi și cultura industrială aspră, completate de atracții arhitecturale precum Casa Tessenow.",
-        "en": "This bike tour takes you from the religious grandeur of the Saardom to the steel giants of the Dillinger Hütte. Enjoy the contrasts between lush parks and raw industrial culture, complemented by architectural highlights like the Tessenow House."
+        "en": "This bike tour takes you from the religious grandeur of the Saardom to the steel giants of the Dillinger Hütte. Enjoy the contrasts between lush parks and raw industrial culture, complemented by architectural highlights like the Tessenow House.",
+        "tr": "Bu bisiklet turu sizi Saardom’un dinsel ihtişamından Dillinger Hütte’nin çelik devlerine götürür. Yemyeşil parklarla ham endüstri kültürü arasındaki kontrastların keyfini çıkarın; Tessenow Evi gibi mimari öne çıkan noktalar da turu tamamlar."
       },
       "gastro_picks": {
         "de": [
@@ -479,6 +499,11 @@
           "Use the well-developed bike paths along the Saar river.",
           "Drink plenty of water, especially during the tour near the steelworks.",
           "A bike lock is necessary at all stops."
+        ],
+        "tr": [
+          "Saar nehrinin yanındaki iyi geliştirilmiş bisiklet yollarını kullanın.",
+          "Özellikle çelik fabrikası yakınındaki tur sırasında bol su için.",
+          "Tüm duraklarda bir bisiklet kilidi gerekli."
         ]
       }
     },
@@ -505,7 +530,8 @@
             "de": "Parken Sie direkt am Marktplatz.",
             "hu": "Parkoljon közvetlenül a piactéren.",
             "ro": "Parcați direct în piața centrală.",
-            "en": "Park directly at the market square."
+            "en": "Park directly at the market square.",
+            "tr": "Pazar meydanına doğrudan park edin."
           }
         },
         {
@@ -523,7 +549,8 @@
             "de": "Kurzer Spaziergang vom Saardom.",
             "hu": "Rövid séta a Saardomtól.",
             "ro": "Scurtă plimbare de la Saardom.",
-            "en": "Short walk from the Saardom."
+            "en": "Short walk from the Saardom.",
+            "tr": "Saardom’dan kısa bir yürüyüş mesafesi."
           }
         },
         {
@@ -541,7 +568,8 @@
             "de": "Historisches Ambiente im Zentrum.",
             "hu": "Történelmi hangulat a központban.",
             "ro": "Ambiantă istorică în centru.",
-            "en": "Historical atmosphere in the center."
+            "en": "Historical atmosphere in the center.",
+            "tr": "Merkezde tarihi bir atmosfer."
           }
         },
         {
@@ -559,7 +587,8 @@
             "de": "Parkplatz direkt am Eingang vorhanden.",
             "hu": "Parkoló közvetlenül a bejáratnál.",
             "ro": "Parcare disponibilă chiar la intrare.",
-            "en": "Parking available right at the entrance."
+            "en": "Parking available right at the entrance.",
+            "tr": "Girişin hemen yanında park yeri mevcut."
           }
         },
         {
@@ -577,7 +606,8 @@
             "de": "Fahrt zum Aussichtspunkt auf das Werk.",
             "hu": "Autózás a gyárra néző kilátóponthoz.",
             "ro": "Drum spre punctul de observație asupra uzinei.",
-            "en": "Drive to the viewpoint overlooking the plant."
+            "en": "Drive to the viewpoint overlooking the plant.",
+            "tr": "Tesisi gören seyir noktasına araçla gidin."
           }
         },
         {
@@ -595,7 +625,8 @@
             "de": "Einfach erreichbar im Wohnviertel.",
             "hu": "Könnyen elérhető a lakónegyedben.",
             "ro": "Ușor accesibil în zona rezidențială.",
-            "en": "Easily accessible in the residential area."
+            "en": "Easily accessible in the residential area.",
+            "tr": "Yerleşim alanında kolay erişilebilir."
           }
         },
         {
@@ -613,7 +644,8 @@
             "de": "Großer Parkplatz für Besucher.",
             "hu": "Nagy parkoló a látogatóknak.",
             "ro": "Parcare mare pentru vizitatori.",
-            "en": "Large parking lot for visitors."
+            "en": "Large parking lot for visitors.",
+            "tr": "Ziyaretçiler için büyük otopark."
           }
         }
       ],
@@ -621,7 +653,8 @@
         "de": "Dillingen mit dem Auto zu erkunden, erlaubt den schnellen Wechsel zwischen dem urbanen Zentrum und den beeindruckenden Industrieanlagen. Nach dem Besuch des monumentalen Saardoms führt die Route zum Schloss und Stadtpark, bevor die Fahrt zum gigantischen Stahlwerk und dem architektonisch wertvollen Tessenow-Haus abrundet.",
         "hu": "Dillingen autóval történő felfedezése lehetővé teszi a gyors váltást a városközpont és a lenyűgöző ipari létesítmények között. A monumentális Saardom megtekintése után az út a kastélyhoz és a városi parkhoz vezet, majd az óriási acélmű és az építészetileg értékes Tessenow-ház látványával zárul.",
         "ro": "Explorarea orașului Dillingen cu mașina permite schimbarea rapidă între centrul urban și instalațiile industriale impresionante. După vizitarea monumentalului Saardom, traseul duce la castel și parcul orașului, înainte de a încheia cu vizualizarea giganticei oțelării și a valoroasei Case Tessenow.",
-        "en": "Exploring Dillingen by car allows for quick transitions between the urban center and impressive industrial sites. After visiting the monumental Saardom, the route leads to the castle and city park, finishing with a look at the massive steelworks and the architecturally significant Tessenow House."
+        "en": "Exploring Dillingen by car allows for quick transitions between the urban center and impressive industrial sites. After visiting the monumental Saardom, the route leads to the castle and city park, finishing with a look at the massive steelworks and the architecturally significant Tessenow House.",
+        "tr": "Dillingen’i arabayla keşfetmek, kentsel merkez ile etkileyici sanayi tesisleri arasında hızlı geçişler sağlar. Anıtsal Saardom’u ziyaret ettikten sonra rota kaleye ve şehir parkına yönelir; tur, devasa çelik fabrikası ve mimari açıdan önemli Tessenow Evi ile sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -725,6 +758,11 @@
           "Watch for parking disc zones in the city center.",
           "The steelworks are spectacularly lit up at night.",
           "Combine the tour with a trip to the Saarschleife (30 min drive)."
+        ],
+        "tr": [
+          "Şehir merkezinde park diski zonlarına dikkat edin.",
+          "Çelik fabrikası geceleyin etkileyici şekilde aydınlatılır.",
+          "Turunuzu Saarschleife gezisiyle birleştirebilirsiniz (30 dk sürüş)."
         ]
       }
     },
@@ -751,7 +789,8 @@
             "de": "Zentraler Ankunftspunkt mit Busknotenpunkt.",
             "hu": "Központi érkezési pont buszcsatlakozásokkal.",
             "ro": "Punct central de sosire cu nod de autobuze.",
-            "en": "Central arrival point with bus hub."
+            "en": "Central arrival point with bus hub.",
+            "tr": "Otobüs merkezine sahip merkezi varış noktası."
           }
         },
         {
@@ -769,7 +808,8 @@
             "de": "Vom Bahnhof aus bequem zu Fuß erreichbar.",
             "hu": "A vasútállomástól kényelmesen elérhető gyalog.",
             "ro": "Accesibil ușor pe jos de la gară.",
-            "en": "Easily accessible on foot from the station."
+            "en": "Easily accessible on foot from the station.",
+            "tr": "İstasyon’dan yürüyerek kolay erişim."
           }
         },
         {
@@ -787,7 +827,8 @@
             "de": "Nutzen Sie den City-Bus zum Marktplatz.",
             "hu": "Használja a helyi buszt a piactérig.",
             "ro": "Folosiți autobuzul urban până în piață.",
-            "en": "Use the city bus to the market square."
+            "en": "Use the city bus to the market square.",
+            "tr": "Pazar meydanına şehir otobüsünü kullanın."
           }
         },
         {
@@ -805,7 +846,8 @@
             "de": "Kurzer Fußweg vom Saardom durch das Zentrum.",
             "hu": "Rövid séta a Saardomtól a központon át.",
             "ro": "Scurtă plimbare de la Saardom prin centru.",
-            "en": "Short walk from the Saardom through the center."
+            "en": "Short walk from the Saardom through the center.",
+            "tr": "Saardom’dan merkez boyunca kısa yürüyüş."
           }
         },
         {
@@ -823,7 +865,8 @@
             "de": "Bushaltestelle direkt am Parkeingang.",
             "hu": "Buszmegálló közvetlenül a park bejáratánál.",
             "ro": "Stație de autobuz chiar la intrarea în parc.",
-            "en": "Bus stop right at the park entrance."
+            "en": "Bus stop right at the park entrance.",
+            "tr": "Park girişinde otobüs durağı hemen yanı başında."
           }
         },
         {
@@ -841,7 +884,8 @@
             "de": "Rückfahrt mit dem Bus zum Bahnhof.",
             "hu": "Visszautazás busszal a pályaudvarra.",
             "ro": "Întoarcere cu autobuzul la gară.",
-            "en": "Return by bus to the station."
+            "en": "Return by bus to the station.",
+            "tr": "İstasyona dönüş otobüsle."
           }
         }
       ],
@@ -849,7 +893,8 @@
         "de": "Dillingen ist hervorragend an das regionale Verkehrsnetz angebunden. Diese Route nutzt den Bahnhof als Basis und verbindet die kulturellen Highlights im Zentrum. Dank kurzer Wege und einer guten Taktung der Stadtbusse lassen sich Saardom, Schloss und Stadtpark stressfrei ohne Auto erleben.",
         "hu": "Dillingen kiválóan kapcsolódik a regionális közlekedési hálózathoz. Ez az útvonal a pályaudvart használja bázisként, és összeköti a központi kulturális helyszíneket. A rövid távolságoknak és a jó buszközlekedésnek köszönhetően a Saardom, a kastély és a park autó nélkül is kényelmesen bejárható.",
         "ro": "Dillingen este excelent conectat la rețeaua regională de transport. Acest traseu folosește gara ca bază și conectează principalele atracții culturale din centru. Datorită distanțelor scurte și frecvenței bune a autobuzelor, Saardom, castelul și parcul pot fi vizitate fără stres, fără mașină.",
-        "en": "Dillingen is excellently connected to the regional transport network. This route uses the station as a base and connects the cultural highlights in the center. Thanks to short distances and good bus frequency, the Saardom, castle, and park can be experienced stress-free without a car."
+        "en": "Dillingen is excellently connected to the regional transport network. This route uses the station as a base and connects the cultural highlights in the center. Thanks to short distances and good bus frequency, the Saardom, castle, and park can be experienced stress-free without a car.",
+        "tr": "Dillingen, bölgesel ulaşım ağına mükemmel bağlıdır. Bu rota istasyonu başlangıç noktası olarak kullanır ve merkezdeki kültürel öne çıkanları birbirine bağlar. Kısa mesafeler ve iyi otobüs sıklığı sayesinde Saardom, kale ve park arabalara gerek duymadan stressiz şekilde gezilebilir."
       },
       "gastro_picks": {
         "de": [
@@ -953,6 +998,11 @@
           "Use the Saar-Mobil app for up-to-date schedules.",
           "A KVS day ticket is often cheaper than single fares.",
           "The bus station (ZOB) is located right at the station entrance."
+        ],
+        "tr": [
+          "Güncel tarifeler için Saar-Mobil uygulamasını kullanın.",
+          "KVS günlük bileti genellikle tekli biletlerden daha ekonomiktir.",
+          "Otobüs terminali (ZOB) istasyon girişinin hemen önünde yer alır."
         ]
       }
     }

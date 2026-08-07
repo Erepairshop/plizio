@@ -3,55 +3,64 @@
     "de": "Externsteiner Straße 35, 32802 Horn-Bad Meinberg",
     "hu": "Externsteiner Straße 35, 32802 Horn-Bad Meinberg",
     "ro": "Externsteiner Straße 35, 32802 Horn-Bad Meinberg",
-    "en": "Externsteiner Straße 35, 32802 Horn-Bad Meinberg"
+    "en": "Externsteiner Straße 35, 32802 Horn-Bad Meinberg",
+    "tr": "Externsteiner Straße 35, 32802 Horn-Bad Meinberg"
   },
   "openingHours": {
     "de": "Gelände 24/7, Felsaufstieg Apr-Okt 10:00-18:00",
     "hu": "Terület 24/7, sziklamászás ápr-okt 10:00-18:00",
     "ro": "Teren 24/7, ascensiunea pe stânci apr-oct 10:00-18:00",
-    "en": "Grounds 24/7, rock ascent Apr-Oct 10:00-18:00"
+    "en": "Grounds 24/7, rock ascent Apr-Oct 10:00-18:00",
+    "tr": "Alan 24/7, kaya çıkışı Nis-Eki 10:00-18:00"
   },
   "entranceFee": {
     "de": "Gelände frei, Felsaufstieg ca. 4,00 € Erwachsene",
     "hu": "Terület ingyenes, sziklamászás kb. 4,00 € felnőtteknek",
     "ro": "Acces liber, ascensiunea pe stânci aprox. 4,00 € pentru adulți",
-    "en": "Grounds free, rock ascent approx. €4.00 for adults"
+    "en": "Grounds free, rock ascent approx. €4.00 for adults",
+    "tr": "Alan ücretsiz, kaya çıkışı yetişkinler için yaklaşık €4,00"
   },
   "website": "https://www.externsteine-info.de",
   "publicTransport": {
     "de": "Bus 782 ab Bahnhof Horn-Bad Meinberg oder Detmold",
     "hu": "782-es busz a Horn-Bad Meinberg vagy Detmold vasútállomástól",
     "ro": "Autobuz 782 din gara Horn-Bad Meinberg sau Detmold",
-    "en": "Bus 782 from Horn-Bad Meinberg or Detmold train station"
+    "en": "Bus 782 from Horn-Bad Meinberg or Detmold train station",
+    "tr": "Horn-Bad Meinberg veya Detmold tren istasyonundan 782 numaralı otobüs"
   },
   "parking": {
     "de": "Großparkplatz am Info-Zentrum, ca. 4,00 € Tagesgebühr",
     "hu": "Nagy parkoló az információs központnál, kb. 4,00 € napidíj",
     "ro": "Parcare mare la centrul de informare, taxă zilnică aprox. 4,00 €",
-    "en": "Large parking lot at the info center, approx. €4.00 daily fee"
+    "en": "Large parking lot at the info center, approx. €4.00 daily fee",
+    "tr": "Bilgi merkezi önünde büyük otopark, günlük yaklaşık €4,00 ücret"
   },
   "accessibility": {
     "de": "Wanderwege rund um den See barrierefrei, Felsaufstieg nur über extrem steile Treppen",
     "hu": "A tó körüli túraútvonalak akadálymentesek, a sziklák csak meredek lépcsőkön át érhetők el",
     "ro": "Traseele de drumeție din jurul lacului sunt accesibile, ascensiunea pe stânci doar prin scări extrem de abrupte",
-    "en": "Hiking trails around the lake accessible, rock ascent only via extremely steep stairs"
+    "en": "Hiking trails around the lake accessible, rock ascent only via extremely steep stairs",
+    "tr": "Göldeki yürüyüş yolları erişilebilir, kaya çıkışı yalnızca son derece dik merdivenlerle"
   },
   "photoRules": {
     "de": "Fotografieren erlaubt, Drohnenflug im Naturschutzgebiet strikt untersagt",
     "hu": "Fotózás engedélyezett, drón reptetése a természetvédelmi területen szigorúan tilos",
     "ro": "Fotografierea permisă, zborul cu drona în rezervația naturală strict interzis",
-    "en": "Photography allowed, drone flight in the nature reserve strictly prohibited"
+    "en": "Photography allowed, drone flight in the nature reserve strictly prohibited",
+    "tr": "Fotoğraf çekmek serbest, doğa koruma alanında drone uçuşu kesinlikle yasak"
   },
   "bestTimeToVisit": {
     "de": "Frühmorgens im Herbst, wenn Nebel über dem See und den Felsen liegt",
     "hu": "Kora reggel ősszel, amikor köd ül a tó és a sziklák felett",
     "ro": "Devreme dimineața în timpul toamnei, când ceața acoperă lacul și stâncile",
-    "en": "Early morning in autumn, when fog lies over the lake and the rocks"
+    "en": "Early morning in autumn, when fog lies over the lake and the rocks",
+    "tr": "Sonbaharda göl ve kayalar üzerinde sis varken erken sabah"
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

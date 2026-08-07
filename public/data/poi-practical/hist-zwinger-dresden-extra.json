@@ -3,55 +3,64 @@
     "de": "Sophienstraße, 01067 Dresden",
     "hu": "Sophienstraße, 01067 Drezda, Németország",
     "ro": "Sophienstraße, 01067 Dresda, Germania",
-    "en": "Sophienstraße, 01067 Dresden, Germany"
+    "en": "Sophienstraße, 01067 Dresden, Germany",
+    "tr": "Sophienstraße, 01067 Dresden, Almanya"
   },
   "openingHours": {
     "de": "Innenhof 06:00-22:30, Museen Di-So 10:00-18:00",
     "hu": "Belső udvar: 06:00-22:30, múzeumok: K-V 10:00-18:00",
     "ro": "Curtea interioară: 06:00-22:30, muzee: Ma-D 10:00-18:00",
-    "en": "Inner courtyard 06:00-22:30, museums Tue-Sun 10:00-18:00"
+    "en": "Inner courtyard 06:00-22:30, museums Tue-Sun 10:00-18:00",
+    "tr": "İç avlu 06:00-22:30, müzeler Salı-Pazar 10:00-18:00"
   },
   "entranceFee": {
     "de": "Hof kostenlos, Museen (Zwinger-Ticket) 14 €",
     "hu": "Udvar ingyenes, múzeumok (Zwinger-jegy): 14 €",
     "ro": "Curtea gratuită, muzee (Zwinger-Ticket): 14 €",
-    "en": "Courtyard free, museums (Zwinger ticket) 14 €"
+    "en": "Courtyard free, museums (Zwinger ticket) 14 €",
+    "tr": "Avlu ücretsiz, müzeler (Zwinger bileti) 14 €"
   },
   "website": "https://www.skd.museum",
   "publicTransport": {
     "de": "Straßenbahn 4, 8, 9 bis Haltestelle Postplatz",
     "hu": "4-es, 8-as, 9-es villamos a Postplatz megállóig",
     "ro": "Tramvaiele 4, 8, 9 până la stația Postplatz",
-    "en": "Tram 4, 8, 9 to stop Postplatz"
+    "en": "Tram 4, 8, 9 to stop Postplatz",
+    "tr": "Tramvay 4, 8, 9 Postplatz durağına"
   },
   "parking": {
     "de": "Parkhaus Altmarkt-Galerie, ca. 2,50 €/Std.",
     "hu": "Altmarkt-Galerie parkolóház, kb. 2,50 €/óra",
     "ro": "Parcarea Altmarkt-Galerie, aprox. 2,50 €/oră",
-    "en": "Altmarkt-Galerie parking garage, approx. 2.50 €/hour"
+    "en": "Altmarkt-Galerie parking garage, approx. 2.50 €/hour",
+    "tr": "Altmarkt-Galerie otoparkı, yaklaşık 2,50 €/saat"
   },
   "accessibility": {
     "de": "Innenhof barrierefrei, Museen über Aufzüge zugänglich.",
     "hu": "A belső udvar akadálymentes, a múzeumok lifttel elérhetők.",
     "ro": "Curtea interioară accesibilă, muzeele accesibile prin lift.",
-    "en": "Inner courtyard accessible, museums accessible via elevators."
+    "en": "Inner courtyard accessible, museums accessible via elevators.",
+    "tr": "İç avlu erişilebilir, müzelere asansörle erişim sağlanır."
   },
   "photoRules": {
     "de": "Im Hof frei, in Museen ohne Blitz (Fotogenehmigung teils nötig).",
     "hu": "Az udvaron szabad, a múzeumokban vaku nélkül (néha fotójegy kell).",
     "ro": "Liber în curte, fără bliț în muzee (uneori e necesar permis foto).",
-    "en": "Free in the courtyard, in museums without flash (photo permit may be needed)."
+    "en": "Free in the courtyard, in museums without flash (photo permit may be needed).",
+    "tr": "Avluda ücretsiz, müzelerde flaşsız fotoğraf (fotoğraf izni gerekebilir)."
   },
   "bestTimeToVisit": {
     "de": "Abends bei Beleuchtung für den Innenhof ohne Touristenmassen.",
     "hu": "Este, kivilágításnál, amikor az udvaron már nincs tömeg.",
     "ro": "Seara, iluminat, pentru a savura curtea fără mulțimi de turiști.",
-    "en": "Evening with lighting for the courtyard without the crowds."
+    "en": "Evening with lighting for the courtyard without the crowds.",
+    "tr": "Kalabalık olmadan avlu aydınlatması için akşam."
   },
   "audioGuide": {
     "de": "Deutsch, Englisch, Französisch, Russisch, Japanisch",
     "hu": "német, angol, francia, orosz, japán",
     "ro": "germană, engleză, franceză, rusă, japoneză",
-    "en": "German, English, French, Russian, Japanese"
+    "en": "German, English, French, Russian, Japanese",
+    "tr": "Almanca, İngilizce, Fransızca, Rusça, Japonca"
   }
 }

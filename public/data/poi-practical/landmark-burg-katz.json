@@ -3,55 +3,64 @@
     "de": "Burg Katz, 56346 St. Goarshausen",
     "hu": "Burg Katz, 56346 St. Goarshausen",
     "ro": "Burg Katz, 56346 St. Goarshausen",
-    "en": "Burg Katz, 56346 St. Goarshausen"
+    "en": "Burg Katz, 56346 St. Goarshausen",
+    "tr": "Burg Katz, 56346 St. Goarshausen"
   },
   "openingHours": {
     "de": "geschlossen (Privatbesitz)",
     "hu": "zárva (magántulajdon)",
     "ro": "închis (proprietate privată)",
-    "en": "closed (private property)"
+    "en": "closed (private property)",
+    "tr": "kapalı (özel mülkiyet)"
   },
   "entranceFee": {
     "de": "kein öffentlicher Zutritt",
     "hu": "nem nyilvános",
     "ro": "nu există acces public",
-    "en": "no public access"
+    "en": "no public access",
+    "tr": "halka açık erişim yok"
   },
   "website": "",
   "publicTransport": {
     "de": "Bahnhof St. Goarshausen, Ansicht vom Rheinufer aus.",
     "hu": "St. Goarshausen vasútállomás, kilátás a Rajna-partról.",
     "ro": "Gara St. Goarshausen, vedere de pe malul Rinului.",
-    "en": "St. Goarshausen station, view from the Rhine riverbank."
+    "en": "St. Goarshausen station, view from the Rhine riverbank.",
+    "tr": "St. Goarshausen istasyonu, Rhinenin kıyısından görünüm."
   },
   "parking": {
     "de": "Parkplätze am Rheinufer in St. Goarshausen vorhanden.",
     "hu": "Parkolási lehetőség a Rajna-parton St. Goarshausenban.",
     "ro": "Parcări disponibile pe malul Rinului în St. Goarshausen.",
-    "en": "Parking spaces available on the Rhine riverbank in St. Goarshausen."
+    "en": "Parking spaces available on the Rhine riverbank in St. Goarshausen.",
+    "tr": "St. Goarshausen’de Rhine kıyısında park yerleri mevcut."
   },
   "accessibility": {
     "de": "Nicht zugänglich, nur von außen zu besichtigen.",
     "hu": "Nem látogatható, csak kívülről tekinthető meg.",
     "ro": "Nu este accesibil, poate fi vizitat doar din exterior.",
-    "en": "Not accessible, can only be viewed from the outside."
+    "en": "Not accessible, can only be viewed from the outside.",
+    "tr": "Erişilemez, yalnızca dışarıdan görülebilir."
   },
   "photoRules": {
     "de": "Bester Blick für Fotos vom Aussichtspunkt Maria Ruh gegenüber.",
     "hu": "Legjobb kilátás a fotózáshoz a szemközti Maria Ruh kilátópontról.",
     "ro": "Cea mai bună vedere pentru fotografii este de la punctul de observație Maria Ruh de vizavi.",
-    "en": "Best view for photos from the Maria Ruh viewpoint opposite."
+    "en": "Best view for photos from the Maria Ruh viewpoint opposite.",
+    "tr": "Fotoğraflar için en iyi görünüm karşıdaki Maria Ruh seyir noktası."
   },
   "bestTimeToVisit": {
     "de": "Später Nachmittag für direktes Sonnenlicht auf der Fassade.",
     "hu": "Késő délután a homlokzatot érő közvetlen napfényért.",
     "ro": "După-amiaza târziu pentru lumina directă a soarelui pe fațadă.",
-    "en": "Late afternoon for direct sunlight on the facade."
+    "en": "Late afternoon for direct sunlight on the facade.",
+    "tr": "Cephe üzerinde direkt güneş ışığı için öğleden sonra geç saatler."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

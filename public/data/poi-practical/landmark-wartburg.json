@@ -3,55 +3,64 @@
     "de": "Auf der Wartburg 1, 99817 Eisenach",
     "hu": "Auf der Wartburg 1, 99817 Eisenach",
     "ro": "Auf der Wartburg 1, 99817 Eisenach",
-    "en": "Auf der Wartburg 1, 99817 Eisenach"
+    "en": "Auf der Wartburg 1, 99817 Eisenach",
+    "tr": "Auf der Wartburg 1, 99817 Eisenach"
   },
   "openingHours": {
     "de": "Mo-So 09:00-17:00",
     "hu": "H-V 09:00-17:00",
     "ro": "Lu-Dum 09:00-17:00",
-    "en": "Mon-Sun 09:00-17:00"
+    "en": "Mon-Sun 09:00-17:00",
+    "tr": "Pzt-Pazar 09:00-17:00"
   },
   "entranceFee": {
     "de": "€12.00 Erwachsene, inklusive Führung",
     "hu": "12,00 € felnőtt, idegenvezetéssel együtt",
     "ro": "12,00 € adulți, include tur ghidat",
-    "en": "€12.00 adult, includes guided tour"
+    "en": "€12.00 adult, includes guided tour",
+    "tr": "€12,00 yetişkin, rehberli tur dahil"
   },
   "website": "https://www.wartburg.de",
   "publicTransport": {
     "de": "Wartburg-Liniendienst (Bus 10) ab Bahnhof Eisenach",
     "hu": "Wartburg-járat (10-es busz) az Eisenach vasútállomástól",
     "ro": "Serviciul Wartburg (autobuz 10) din gara Eisenach",
-    "en": "Wartburg service (bus 10) from Eisenach station"
+    "en": "Wartburg service (bus 10) from Eisenach station",
+    "tr": "Eisenach istasyonundan Wartburg servisi (otobüs 10)"
   },
   "parking": {
     "de": "Parkplatz unterhalb der Burg, ca. €5.00 Pauschale.",
     "hu": "Parkoló a vár alatt, kb. 5,00 € átalánydíj.",
     "ro": "Parcare sub castel, aprox. 5,00 € tarif fix.",
-    "en": "Parking below the castle, approx. €5.00 flat rate."
+    "en": "Parking below the castle, approx. €5.00 flat rate.",
+    "tr": "Kale altında otopark, yaklaşık €5,00 sabit ücret."
   },
   "accessibility": {
     "de": "Eingeschränkt barrierefrei, Fahrdienst für Gehbehinderte möglich.",
     "hu": "Korlátozottan akadálymentesített, mozgássérülteknek szállítási lehetőség.",
     "ro": "Accesibilitate limitată, serviciu de transport disponibil pentru persoanele cu mobilitate redusă.",
-    "en": "Limited accessibility, transport service possible for those with limited mobility."
+    "en": "Limited accessibility, transport service possible for those with limited mobility.",
+    "tr": "Sınırlı erişim, hareket kısıtlılığı olanlar için taşıma hizmeti mümkün."
   },
   "photoRules": {
     "de": "Erlaubt gegen kleine Gebühr im Innenbereich.",
     "hu": "Beltéren kis díj ellenében engedélyezett.",
     "ro": "Permis contra unei taxe mici în interior.",
-    "en": "Allowed for a small fee indoors."
+    "en": "Allowed for a small fee indoors.",
+    "tr": "İçeride küçük bir ücret karşılığı izinli."
   },
   "bestTimeToVisit": {
     "de": "Frühmorgens vor Ankunft der ersten Reisebusse.",
     "hu": "Kora reggel, az első turistabuszok érkezése előtt.",
     "ro": "Dis-de-dimineață, înainte de sosirea primelor autocare.",
-    "en": "Early morning before the arrival of the first tourist buses."
+    "en": "Early morning before the arrival of the first tourist buses.",
+    "tr": "İlk turist otobüsleri gelmeden önce erken sabah."
   },
   "audioGuide": {
     "de": "In mehreren Sprachen für die Museen verfügbar.",
     "hu": "Több nyelven elérhető a múzeumok számára.",
     "ro": "Disponibil în mai multe limbi pentru muzee.",
-    "en": "Available in several languages for the museums."
+    "en": "Available in several languages for the museums.",
+    "tr": "Müzeler için birkaç dilde mevcut."
   }
 }

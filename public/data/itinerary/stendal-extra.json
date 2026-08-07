@@ -31,7 +31,8 @@
             "de": "Der Roland von 1525 ist eines der Wahrzeichen der Hansezeit.",
             "hu": "Az 1525-ös Roland-szobor a város hanza-kori büszkesége.",
             "ro": "Statuia lui Roland din 1525 este simbolul libertății hanseatice.",
-            "en": "The Roland statue from 1525 is a prime symbol of Hanseatic liberty."
+            "en": "The Roland statue from 1525 is a prime symbol of Hanseatic liberty.",
+            "tr": "1525 tarihli Roland heykeli, Hansa özgürlüğünün başlıca simgesidir."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die Astronomische Uhr im Inneren dieser spätgotischen Kirche.",
             "hu": "Nézze meg a csillagászati órát a késő gótikus templom belsejében.",
             "ro": "Admirați ceasul astronomic din interiorul acestei biserici gotice târzii.",
-            "en": "Admire the astronomical clock inside this late Gothic church."
+            "en": "Admire the astronomical clock inside this late Gothic church.",
+            "tr": "Bu geç Gotik kilisenin içindeki astronomik saate hayran kalın."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Erfahren Sie alles über den Begründer der klassischen Archäologie.",
             "hu": "Ismerje meg a klasszikus régészet atyjának életművét.",
             "ro": "Aflați totul despre fondatorul arheologiei clasice.",
-            "en": "Learn about the founder of classical archaeology in his birthplace."
+            "en": "Learn about the founder of classical archaeology in his birthplace.",
+            "tr": "Klasik arkeolojinin kurucusu hakkında doğduğu yerde bilgi edinin."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein Meisterwerk der Backsteingotik mit beeindruckenden Glasmalereien.",
             "hu": "Téglagótikus remekmű lenyűgöző üvegfestményekkel.",
             "ro": "O capodoperă a goticului din cărămidă cu vitralii impresionante.",
-            "en": "A masterpiece of brick Gothic with impressive stained glass windows."
+            "en": "A masterpiece of brick Gothic with impressive stained glass windows.",
+            "tr": "Etkileyici vitray pencereleriyle tuğla Gotik bir başyapıt."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Das älteste Stadttor der Region, erbaut im 13. Jahrhundert.",
             "hu": "A régió legrégebbi városkapuja, a 13. században épült.",
             "ro": "Cea mai veche poartă a orașului din regiune, construită în secolul XIII.",
-            "en": "The oldest city gate in the region, built in the 13th century."
+            "en": "The oldest city gate in the region, built in the 13th century.",
+            "tr": "Bölgede 13. yüzyılda inşa edilmiş en eski şehir kapısı."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Eines der schönsten spätgotischen Stadttore Deutschlands.",
             "hu": "Németország egyik legszebb késő gótikus városkapuja.",
             "ro": "Una dintre cele mai frumoase porți de oraș gotice din Germania.",
-            "en": "One of the most beautiful late Gothic city gates in Germany."
+            "en": "One of the most beautiful late Gothic city gates in Germany.",
+            "tr": "Almanya’daki en güzel geç Gotik şehir kapılarından biri."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Morgens erkunden Sie das Herz der Hansestadt am Marktplatz mit dem prächtigen Rathaus. Mittags tauchen Sie im Winckelmann-Museum in die Welt der Antike ein. Nachmittags spazieren Sie zum monumentalen Dom St. Nikolaus, bevor Sie die massiven Stadttore besichtigen. Den Abend lassen Sie in der historischen Altstadt bei regionaler Küche ausklingen.",
         "hu": "Reggel a Hanza-város szívét, a főteret és a díszes városházát fedezzük fel. Délben a Winckelmann-múzeumban az ókor világába repülünk. Délután a monumentális Szent Miklós dómot és a középkori városkapukat látogatjuk meg. Az estét az óváros történelmi falai között, helyi ízek társaságában tölthetjük.",
         "ro": "Dimineața explorăm inima orașului hanseatic în piața centrală, cu primăria sa magnifică. La prânz, ne scufundăm în lumea antichității la Muzeul Winckelmann. După-amiaza, ne plimbăm spre catedrala monumentală Sf. Nicolae, înainte de a vizita porțile masive ale orașului. Seara se încheie în centrul istoric, savurând preparate regionale.",
-        "en": "Morning starts in the heart of the Hanseatic city at the market square with the magnificent town hall. At midday, dive into the ancient world at the Winckelmann Museum. Afternoon features a walk to the monumental St. Nicholas Cathedral and the massive medieval city gates. End your day in the historic old town enjoying local Altmark cuisine."
+        "en": "Morning starts in the heart of the Hanseatic city at the market square with the magnificent town hall. At midday, dive into the ancient world at the Winckelmann Museum. Afternoon features a walk to the monumental St. Nicholas Cathedral and the massive medieval city gates. End your day in the historic old town enjoying local Altmark cuisine.",
+        "tr": "Sabah, muhteşem belediye binasıyla pazar meydanının kalbinde başlar. Öğle vakti Winckelmann Müzesi’nde antik dünyaya dalın. Öğleden sonra görkemli St. Nicholas Katedrali ve devasa ortaçağ şehir kapılarına doğru yürüyüş yapın. Günü tarihi eski şehirde yöresel Altmark mutfağının tadını çıkararak bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -249,6 +256,11 @@
           "The old town is very compact and perfect for exploring on foot.",
           "Pay attention to the small brick Gothic details on the facades.",
           "Combine your city tour with a tower climb for a great view if available."
+        ],
+        "tr": [
+          "Eski şehir çok kompakt ve yürüyerek keşfetmek için mükemmel.",
+          "Cephelerdeki küçük tuğla Gotik detaylara dikkat edin.",
+          "Mevcutsa muhteşem bir manzara için turunuza bir kule çıkışı ekleyin."
         ]
       }
     },
@@ -275,7 +287,8 @@
             "de": "Starten Sie zentral am Marktplatz.",
             "hu": "Kezdje a túrát a város szívében.",
             "ro": "Începeți turul central, în piața primăriei.",
-            "en": "Start centrally at the market square."
+            "en": "Start centrally at the market square.",
+            "tr": "Turunuza merkezde, pazar meydanından başlayın."
           }
         },
         {
@@ -293,7 +306,8 @@
             "de": "Kurzer Stopp direkt neben dem Rathaus.",
             "hu": "Rövid megálló a városháza mellett.",
             "ro": "Scurt popas chiar lângă primărie.",
-            "en": "Quick stop right next to the town hall."
+            "en": "Quick stop right next to the town hall.",
+            "tr": "Belediye binasının hemen yanında hızlı bir durak."
           }
         },
         {
@@ -311,7 +325,8 @@
             "de": "Eines der Wahrzeichen Stendals auf dem Weg nach Norden.",
             "hu": "Stendal egyik jelképe az északi útvonalon.",
             "ro": "Unul dintre simbolurile orașului în drum spre nord.",
-            "en": "One of Stendal's landmarks on your way north."
+            "en": "One of Stendal's landmarks on your way north.",
+            "tr": "Kuzeye giderken Stendal’ın simgelerinden biri."
           }
         },
         {
@@ -329,7 +344,8 @@
             "de": "Das kulturelle Zentrum der Region Altmark.",
             "hu": "Az Altmark régió kulturális központja.",
             "ro": "Centrul cultural al regiunii Altmark.",
-            "en": "The cultural heart of the Altmark region."
+            "en": "The cultural heart of the Altmark region.",
+            "tr": "Altmark bölgesinin kültürel kalbi."
           }
         },
         {
@@ -347,7 +363,8 @@
             "de": "Mittagspause und Kultur im Museumsgarten.",
             "hu": "Kulturális élmény és pihenő a múzeumkertben.",
             "ro": "Pauză de prânz și cultură în grădina muzeului.",
-            "en": "Midday break and culture in the museum garden."
+            "en": "Midday break and culture in the museum garden.",
+            "tr": "Öğle molası ve müze bahçesinde kültür."
           }
         },
         {
@@ -365,7 +382,8 @@
             "de": "Radeln Sie bequem durch den Dombezirk.",
             "hu": "Kényelmes tekerés a dómnegyeden át.",
             "ro": "Pedalați lejer prin districtul catedralei.",
-            "en": "Cycle easily through the cathedral district."
+            "en": "Cycle easily through the cathedral district.",
+            "tr": "Katedral semti boyunca bisikletle kolayca dolaşın."
           }
         },
         {
@@ -383,7 +401,8 @@
             "de": "Das Tor markiert den östlichen Rand der Altstadt.",
             "hu": "A kapu az óváros keleti szélét jelzi.",
             "ro": "Poarta marchează marginea estică a centrului vechi.",
-            "en": "The gate marks the eastern edge of the old town."
+            "en": "The gate marks the eastern edge of the old town.",
+            "tr": "Kapı, eski şehrin doğu sınırını işaretler."
           }
         },
         {
@@ -401,7 +420,8 @@
             "de": "Entspannter Abschluss im Grünen mit heimischen Tieren.",
             "hu": "Pihentető befejezés a zöldben, hazai állatokkal.",
             "ro": "Final relaxant în natură, cu animale locale.",
-            "en": "Relaxing end in the greenery with local animals."
+            "en": "Relaxing end in the greenery with local animals.",
+            "tr": "Yerel hayvanlarla yeşillikte rahatlatıcı bir son."
           }
         }
       ],
@@ -409,7 +429,8 @@
         "de": "Mit dem Rad erreichen Sie mühelos alle Sehenswürdigkeiten. Vormittags besuchen Sie den Markt und das Theater. Nachmittags geht es vom Dom zu den historischen Toren. Den krönenden Abschluss bildet eine Fahrt zum Tiergarten am Stadtrand, wo Sie die Natur genießen können.",
         "hu": "Kerékpárral könnyedén elérhető minden látnivaló. Délelőtt a piacot és a színházat látogatjuk meg, délután a dóm és a városkapuk következnek. A napot a város szélén található vadasparkban zárjuk, ahol élvezhetjük a természet nyugalmát.",
         "ro": "Cu bicicleta ajungeți fără efort la toate atracțiile. Dimineața vizitați piața și teatrul. După-amiaza traseul trece pe la catedrală și porțile istorice. Punctul culminant este plimbarea spre grădina zoologică de la marginea orașului, unde puteți savura natura.",
-        "en": "By bike, you can effortlessly reach all sights. Visit the market and theater in the morning, followed by the cathedral and historical gates in the afternoon. The highlight is a ride to the Tiergarten on the outskirts, where you can enjoy local nature."
+        "en": "By bike, you can effortlessly reach all sights. Visit the market and theater in the morning, followed by the cathedral and historical gates in the afternoon. The highlight is a ride to the Tiergarten on the outskirts, where you can enjoy local nature.",
+        "tr": "Bisikletle tüm görülecek yerlere zahmetsizce ulaşabilirsiniz. Sabah pazar ve tiyatroyu ziyaret edin, ardından öğleden sonra katedral ve tarihi kapılara gidin. Günün vurucu noktası, şehrin dışında yer alan Tiergarten’e yapacağınız sürüş; burada yerel doğanın tadını çıkarabilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -513,6 +534,11 @@
           "Stendal is bike-friendly with mostly flat paths.",
           "Use the cycling paths along the remnants of the city walls.",
           "A detour into the surrounding Altmark countryside is well worth it."
+        ],
+        "tr": [
+          "Stendal bisiklete uygun, yollar çoğunlukla düz.",
+          "Şehir surlarının kalıntıları boyunca bisiklet yollarını kullanın.",
+          "Çevredeki Altmark kırsalına bir sapmanın fazlasıyla değer."
         ]
       }
     },
@@ -539,7 +565,8 @@
             "de": "Parken Sie zentral am Marktplatz (Cluster A).",
             "hu": "Parkoljon a főtéren (A klaszter).",
             "ro": "Parcați central în piața primăriei (Cluster A).",
-            "en": "Park centrally at the market square (Cluster A)."
+            "en": "Park centrally at the market square (Cluster A).",
+            "tr": "Pazar meydanında merkezi olarak park edin (Küme A)."
           }
         },
         {
@@ -557,7 +584,8 @@
             "de": "Fußläufig vom Rathaus erreichbar (Cluster A).",
             "hu": "Gyalogosan elérhető a városházától (A klaszter).",
             "ro": "Accesibil pe jos de la primărie (Cluster A).",
-            "en": "Accessible on foot from the town hall (Cluster A)."
+            "en": "Accessible on foot from the town hall (Cluster A).",
+            "tr": "Belediye binasından yürüyerek erişilebilir (Küme A)."
           }
         },
         {
@@ -575,7 +603,8 @@
             "de": "Letzter Stopp in Cluster A zu Fuß.",
             "hu": "Az A klaszter utolsó gyalogos megállója.",
             "ro": "Ultima oprire pe jos din Cluster A.",
-            "en": "Last walking stop in Cluster A."
+            "en": "Last walking stop in Cluster A.",
+            "tr": "Küme A’daki son yürüme durağı."
           }
         },
         {
@@ -593,7 +622,8 @@
             "de": "Fahrt zum Dombezirk (Cluster B).",
             "hu": "Autózás a dómnegyedbe (B klaszter).",
             "ro": "Deplasare cu mașina spre districtul catedralei (Cluster B).",
-            "en": "Drive to the cathedral district (Cluster B)."
+            "en": "Drive to the cathedral district (Cluster B).",
+            "tr": "Katedral semtine araçla gidin (Küme B)."
           }
         },
         {
@@ -611,7 +641,8 @@
             "de": "Zu Fuß vom Dom aus (Cluster B).",
             "hu": "Gyalogosan a dómtól (B klaszter).",
             "ro": "Pe jos de la catedrală (Cluster B).",
-            "en": "Walking from the cathedral (Cluster B)."
+            "en": "Walking from the cathedral (Cluster B).",
+            "tr": "Katedralden yürüyerek (Küme B)."
           }
         },
         {
@@ -629,7 +660,8 @@
             "de": "Fahrt zum nördlichen Stadttor (Cluster C).",
             "hu": "Autózás az északi városkapuhoz (C klaszter).",
             "ro": "Deplasare spre poarta de nord a orașului (Cluster C).",
-            "en": "Drive to the northern city gate (Cluster C)."
+            "en": "Drive to the northern city gate (Cluster C).",
+            "tr": "Kuzey şehir kapısına araçla gidin (Küme C)."
           }
         },
         {
@@ -647,7 +679,8 @@
             "de": "Kurze Fahrt zum Tiergarten im Süden.",
             "hu": "Rövid autózás a déli vadasparkhoz.",
             "ro": "Scurtă deplasare spre grădina zoologică din sud.",
-            "en": "Short drive to the Tiergarten in the south."
+            "en": "Short drive to the Tiergarten in the south.",
+            "tr": "Güneye, Tiergarten’e kısa bir sürüş."
           }
         }
       ],
@@ -655,7 +688,8 @@
         "de": "Mit dem Auto erkunden Sie Stendal effizient in Clustern. Zuerst besichtigen Sie das Zentrum zu Fuß, dann fahren Sie zum Dombezirk. Nachmittags besuchen Sie das Uenglinger Tor und beenden den Tag entspannt im Tiergarten. Ideal, um viel in kurzer Zeit zu sehen.",
         "hu": "Autóval hatékonyan, klaszterekre bontva fedezzük fel Stendalt. Előbb a központot járjuk be gyalog, majd átgurulunk a dóm környékére. Délután az északi kaput és végül a vadasparkot látogatjuk meg. Ideális választás, ha kevés idő alatt sokat szeretne látni.",
         "ro": "Cu mașina explorați Stendal eficient, pe zone. Mai întâi vizitați centrul pe jos, apoi conduceți spre districtul catedralei. După-amiaza vizitați Poarta Uenglinger și încheiați ziua relaxat la grădina zoologică. Ideal pentru a vedea multe într-un timp scurt.",
-        "en": "By car, you explore Stendal efficiently in clusters. First, tour the center on foot, then drive to the cathedral district. In the afternoon, visit the Uenglinger Gate and finish the day relaxed at the Tiergarten. Perfect for seeing a lot in a limited time."
+        "en": "By car, you explore Stendal efficiently in clusters. First, tour the center on foot, then drive to the cathedral district. In the afternoon, visit the Uenglinger Gate and finish the day relaxed at the Tiergarten. Perfect for seeing a lot in a limited time.",
+        "tr": "Arabayla Stendal’ı kümeler halinde verimli şekilde keşfedin. İlk olarak merkezi yürüyerek gezin, ardından katedral semtine araçla geçin. Öğleden sonra Uenglinger Kapısı’nı ziyaret edin ve günü Tiergarten’de rahatlayarak bitirin. Kısıtlı zamanda çok görmek için ideal."
       },
       "gastro_picks": {
         "de": [
@@ -759,6 +793,11 @@
           "Use the parking lots at the edge of the old town.",
           "Residential parking often applies in the inner city.",
           "Plan for about 2-3 hours for Cluster A."
+        ],
+        "tr": [
+          "Eski şehrin kenarındaki otoparkları kullanın.",
+          "İç şehirde genellikle yerleşim park uygulamaları geçerli olabilir.",
+          "Küme A için yaklaşık 2–3 saat planlayın."
         ]
       }
     },
@@ -785,7 +824,8 @@
             "de": "Zentrale Haltestelle am Markt.",
             "hu": "Központi megálló a piacnál.",
             "ro": "Stație centrală în piață.",
-            "en": "Central bus stop at the market."
+            "en": "Central bus stop at the market.",
+            "tr": "Pazardaki merkezi otobüs durağı."
           }
         },
         {
@@ -803,7 +843,8 @@
             "de": "Zu Fuß vom Markt erreichbar.",
             "hu": "Gyalogosan elérhető a piactól.",
             "ro": "Accesibil pe jos din piață.",
-            "en": "Walking distance from the market."
+            "en": "Walking distance from the market.",
+            "tr": "Pazardan yürüme mesafesinde."
           }
         },
         {
@@ -821,7 +862,8 @@
             "de": "Spaziergang durch die historische Gasse.",
             "hu": "Séta a történelmi kisutcán.",
             "ro": "O plimbare pe strada istorică.",
-            "en": "A stroll through the historic alley."
+            "en": "A stroll through the historic alley.",
+            "tr": "Tarihi aradan bir gezinti."
           }
         },
         {
@@ -839,7 +881,8 @@
             "de": "Busfahrt zum Dom.",
             "hu": "Busszal a dómhoz.",
             "ro": "Cu autobuzul spre catedrală.",
-            "en": "Bus ride to the cathedral."
+            "en": "Bus ride to the cathedral.",
+            "tr": "Katedrale otobüs yolculuğu."
           }
         },
         {
@@ -857,7 +900,8 @@
             "de": "Busverbindung Richtung Norden.",
             "hu": "Buszjárat észak felé.",
             "ro": "Conexiune de autobuz spre nord.",
-            "en": "Bus connection heading north."
+            "en": "Bus connection heading north.",
+            "tr": "Kuzeye giden otobüs bağlantısı."
           }
         },
         {
@@ -875,7 +919,8 @@
             "de": "Abschluss im kulturellen Viertel.",
             "hu": "Befejezés a kulturális negyedben.",
             "ro": "Final în cartierul cultural.",
-            "en": "Conclusion in the cultural district."
+            "en": "Conclusion in the cultural district.",
+            "tr": "Kültür bölgesinde sonuçlandırma."
           }
         }
       ],
@@ -883,7 +928,8 @@
         "de": "Stendal lässt sich gut mit dem lokalen Bussystem erkunden. Nach dem kulturellen Start im Zentrum bringt Sie der Bus zum Dom. Nachmittags besuchen Sie das Theater und das Uenglinger Tor. Die Wege zwischen den Haltestellen und Sehenswürdigkeiten sind kurz und gut ausgeschildert.",
         "hu": "Stendal jól bejárható a helyi buszhálózattal. A központi kulturális kezdés után a busz egészen a dómig visz. Délután a színházat és az északi városkaput látogatjuk meg. A megállók és a látnivalók közötti távolság rövid és jól ki van táblázva.",
         "ro": "Stendal poate fi explorat bine cu sistemul local de autobuze. După un start cultural în centru, autobuzul vă duce la catedrală. După-amiaza vizitați teatrul și Poarta Uenglinger. Distanțele dintre stații și obiective sunt scurte și bine semnalizate.",
-        "en": "Stendal is easy to explore using the local bus system. After a cultural start in the center, the bus takes you to the cathedral. In the afternoon, visit the theater and the Uenglinger Gate. Walking distances between stops and sights are short and well-marked."
+        "en": "Stendal is easy to explore using the local bus system. After a cultural start in the center, the bus takes you to the cathedral. In the afternoon, visit the theater and the Uenglinger Gate. Walking distances between stops and sights are short and well-marked.",
+        "tr": "Stendal, yerel otobüs sistemiyle kolayca keşfedilebilir. Merkezde kültürel bir başlangıcın ardından otobüs sizi katedrale götürür. Öğleden sonra tiyatroyu ve Uenglinger Kapısı'nı ziyaret edin. Duraklar ve görülecek yerler arasındaki yürüme mesafeleri kısa ve iyi işaretlenmiştir."
       },
       "gastro_picks": {
         "de": [
@@ -987,6 +1033,11 @@
           "Check the bus schedule online in advance.",
           "A day ticket is often the cheapest option.",
           "Most lines meet at the main station or the market square."
+        ],
+        "tr": [
+          "Otobüs saatlerini önceden çevrimiçi kontrol edin.",
+          "Günlük bilet genellikle en ucuz seçenektir.",
+          "Çoğu hat ana istasyonda veya pazar meydanında buluşur."
         ]
       }
     }

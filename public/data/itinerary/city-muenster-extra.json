@@ -21,7 +21,8 @@
             "de": "Prinzipalmarkt",
             "hu": "Prinzipalmarkt",
             "ro": "Prinzipalmarkt",
-            "en": "Prinzipalmarkt"
+            "en": "Prinzipalmarkt",
+            "tr": "Prinzipalmarkt"
           },
           "coords": [
             7.6285,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die Giebelhäuser.",
             "hu": "Nézze meg az árkádos polgárházakat.",
             "ro": "Admirați casele cu frontoane.",
-            "en": "Look at the gabled merchant houses."
+            "en": "Look at the gabled merchant houses.",
+            "tr": "Çatılı tüccar evlerine bakın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi Városháza",
             "ro": "Primăria Istorică",
-            "en": "Historical City Hall"
+            "en": "Historical City Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             7.6288,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie den Friedenssaal von 1648.",
             "hu": "Látogasson el az 1648-as béketerembe.",
             "ro": "Vizitați Sala Păcii din 1648.",
-            "en": "Visit the Hall of Peace from 1648."
+            "en": "Visit the Hall of Peace from 1648.",
+            "tr": "1648'den Barış Salonu'nu ziyaret edin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Lambertikirche",
             "hu": "Lamberti-templom",
             "ro": "Biserica Sf. Lambert",
-            "en": "St. Lamberti Church"
+            "en": "St. Lamberti Church",
+            "tr": "St. Lamberti Kilisesi"
           },
           "coords": [
             7.6295,
@@ -82,7 +87,8 @@
             "de": "Suchen Sie die drei Eisenkörbe am Turm.",
             "hu": "Keresse meg a torony három vasketrecét.",
             "ro": "Căutați cele trei coșuri de fier de pe turn.",
-            "en": "Find the three iron cages on the tower."
+            "en": "Find the three iron cages on the tower.",
+            "tr": "Kuledeki üç demir kafesi bulun."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "St.-Paulus-Dom",
             "hu": "Szent Pál-székesegyház",
             "ro": "Catedrala Sf. Paul",
-            "en": "St. Paul's Cathedral"
+            "en": "St. Paul's Cathedral",
+            "tr": "St. Paul Katedrali"
           },
           "coords": [
             7.626,
@@ -105,7 +112,8 @@
             "de": "Die astronomische Uhr zeigt das Jahr 1542.",
             "hu": "A csillagászati óra 1542-ből származik.",
             "ro": "Ceasul astronomic datează din 1542.",
-            "en": "The astronomical clock dates to 1542."
+            "en": "The astronomical clock dates to 1542.",
+            "tr": "Astronomik saat 1542 tarihli."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "LWL-Museum für Kunst und Kultur",
             "hu": "LWL Művészeti és Kulturális Múzeum",
             "ro": "Muzeul de Artă LWL",
-            "en": "LWL Museum of Art and Culture"
+            "en": "LWL Museum of Art and Culture",
+            "tr": "LWL Sanat ve Kültür Müzesi"
           },
           "coords": [
             7.6245,
@@ -128,7 +137,8 @@
             "de": "Moderne Architektur trifft auf Mittelalter.",
             "hu": "Modern építészet találkozása a középkorral.",
             "ro": "Arhitectura modernă întâlnește evul mediu.",
-            "en": "Modern architecture meets the Middle Ages."
+            "en": "Modern architecture meets the Middle Ages.",
+            "tr": "Modern mimari ile Orta Çağ buluşuyor."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Erbdrostenhof",
             "hu": "Erbdrostenhof palota",
             "ro": "Palatul Erbdrostenhof",
-            "en": "Erbdrostenhof Palace"
+            "en": "Erbdrostenhof Palace",
+            "tr": "Erbdrostenhof Sarayı"
           },
           "coords": [
             7.632,
@@ -151,7 +162,8 @@
             "de": "Ein barocker Adelshof von Johann Conrad Schlaun.",
             "hu": "Johann Conrad Schlaun barokk palotája.",
             "ro": "Un palat baroc proiectat de Schlaun.",
-            "en": "A baroque palace designed by Schlaun."
+            "en": "A baroque palace designed by Schlaun.",
+            "tr": "Schlaun tarafından tasarlanmış bir barok saray."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Tag beginnt am Prinzipalmarkt mit seinen charakteristischen Bogengängen. Nach der Besichtigung des Friedenssaals im Rathaus erkunden wir die Lambertikirche und den mächtigen Dom mit seiner astronomischen Uhr. Der Nachmittag gehört der Kunst im LWL-Museum, bevor wir den barocken Erbdrostenhof bewundern.",
         "hu": "A napot a Prinzipalmarkton kezdjük, jellegzetes árkádos házaival. A városháza Béketeremének megtekintése után felfedezzük a Lamberti-templomot és a hatalmas székesegyházat a csillagászati órával. Délután az LWL Múzeum műkincsei várnak, végül a barokk Erbdrostenhof udvarát csodáljuk meg.",
         "ro": "Ziua începe în Piața Principală cu arcadele sale caracteristice. După vizitarea Sălii Păcii din Primărie, explorăm Biserica Sf. Lambert și catedrala impunătoare cu ceasul său astronomic. După-amiaza este dedicată artei la Muzeul LWL, înainte de a admira palatul baroc Erbdrostenhof.",
-        "en": "The day begins at the Prinzipalmarkt with its characteristic arcades. After visiting the Hall of Peace in the City Hall, we explore St. Lamberti Church and the massive cathedral with its astronomical clock. The afternoon is dedicated to art in the LWL Museum before admiring the baroque Erbdrostenhof."
+        "en": "The day begins at the Prinzipalmarkt with its characteristic arcades. After visiting the Hall of Peace in the City Hall, we explore St. Lamberti Church and the massive cathedral with its astronomical clock. The afternoon is dedicated to art in the LWL Museum before admiring the baroque Erbdrostenhof.",
+        "tr": "Gün, karakteristik kemerleriyle Prinzipalmarkt’ta başlar. Belediye Sarayı’ndaki Huzur Salonu’nu ziyaret ettikten sonra St. Lamberti Kilisesi ve astronomik saatli büyük katedrali keşfediyoruz. Öğleden sonra LWL Müzesi’nde sanata zaman ayırdıktan sonra barok Erbdrostenhof’a hayran oluyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -299,6 +312,12 @@
           "Most sights are close to each other in the old town area.",
           "Wednesday and Saturday are market days at the Cathedral, great for local snacks.",
           "The Hall of Peace in the City Hall requires a small entrance fee."
+        ],
+        "tr": [
+          "Münster bisiklet şehridir; yürürken bisiklet yollarına dikkat edin.",
+          "Çoğu görülecek yer eski şehir bölgesinde birbirine yakındır.",
+          "Çarşamba ve Cumartesi Katedral’de pazar günleridir; yerel atıştırmalıklar için çok uygundur.",
+          "Belediye Sarayı’ndaki Huzur Salonu için küçük bir giriş ücreti alınır."
         ]
       }
     },
@@ -315,7 +334,8 @@
             "de": "Schloss Münster",
             "hu": "Münsteri kastély",
             "ro": "Castelul din Münster",
-            "en": "Münster Castle"
+            "en": "Münster Castle",
+            "tr": "Münster Kalesi"
           },
           "coords": [
             7.6135,
@@ -330,7 +350,8 @@
             "de": "Heute Sitz der Universität Münster.",
             "hu": "Ma a Münsteri Egyetem székhelye.",
             "ro": "Astăzi este sediul Universității din Münster.",
-            "en": "Today it serves as the seat of Münster University."
+            "en": "Today it serves as the seat of Münster University.",
+            "tr": "Günümüzde Münster Üniversitesi'nin merkezi olarak hizmet veriyor."
           }
         },
         {
@@ -338,7 +359,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanik Bahçe"
           },
           "coords": [
             7.6105,
@@ -353,7 +375,8 @@
             "de": "Besuchen Sie die Tropenhäuser hinter dem Schloss.",
             "hu": "Látogassa meg a trópusi házakat a kastély mögött.",
             "ro": "Vizitați serele tropicale din spatele castelului.",
-            "en": "Visit the tropical greenhouses behind the castle."
+            "en": "Visit the tropical greenhouses behind the castle.",
+            "tr": "Kalenin arkasındaki tropik seraları ziyaret edin."
           }
         },
         {
@@ -361,7 +384,8 @@
             "de": "Aasee",
             "hu": "Aasee-tó",
             "ro": "Lacul Aasee",
-            "en": "Lake Aasee"
+            "en": "Lake Aasee",
+            "tr": "Aasee Gölü"
           },
           "coords": [
             7.618,
@@ -376,7 +400,8 @@
             "de": "Bekannt für die Giant Pool Balls von Claes Oldenburg.",
             "hu": "Híres a Claes Oldenburg által alkotott óriás biliárdgolyókról.",
             "ro": "Cunoscut pentru bilele gigantice de biliard ale lui Claes Oldenburg.",
-            "en": "Famous for the Giant Pool Balls by Claes Oldenburg."
+            "en": "Famous for the Giant Pool Balls by Claes Oldenburg.",
+            "tr": "Claes Oldenburg’un Dev Havuz Topları ile ünlüdür."
           }
         },
         {
@@ -384,7 +409,8 @@
             "de": "LWL-Museum für Kunst und Kultur",
             "hu": "LWL Múzeum",
             "ro": "Muzeul LWL",
-            "en": "LWL Museum"
+            "en": "LWL Museum",
+            "tr": "LWL Müzesi"
           },
           "coords": [
             7.6245,
@@ -399,7 +425,8 @@
             "de": "Stellen Sie Ihr Rad am Aegidiimarkt ab.",
             "hu": "Parkolja le a kerékpárt az Aegidiimarkton.",
             "ro": "Parcați bicicleta la Aegidiimarkt.",
-            "en": "Park your bike at Aegidiimarkt."
+            "en": "Park your bike at Aegidiimarkt.",
+            "tr": "Bisikletinizi Aegidiimarkt’ta park edin."
           }
         },
         {
@@ -407,7 +434,8 @@
             "de": "Prinzipalmarkt",
             "hu": "Prinzipalmarkt",
             "ro": "Prinzipalmarkt",
-            "en": "Prinzipalmarkt"
+            "en": "Prinzipalmarkt",
+            "tr": "Prinzipalmarkt"
           },
           "coords": [
             7.6285,
@@ -422,7 +450,8 @@
             "de": "Schieben Sie das Rad auf dem Kopfsteinpflaster.",
             "hu": "Tolja a biciklit a macskaköves részen.",
             "ro": "Împingeți bicicleta pe pavajul cu piatră cubică.",
-            "en": "Push your bike on the cobblestone sections."
+            "en": "Push your bike on the cobblestone sections.",
+            "tr": "Külek taşlı bölümlerde bisikletinizi itiniz."
           }
         },
         {
@@ -430,7 +459,8 @@
             "de": "St.-Paulus-Dom",
             "hu": "Szent Pál-székesegyház",
             "ro": "Catedrala Sf. Paul",
-            "en": "St. Paul's Cathedral"
+            "en": "St. Paul's Cathedral",
+            "tr": "St. Paulus Katedrali"
           },
           "coords": [
             7.626,
@@ -445,7 +475,8 @@
             "de": "Das Paradiesportal ist kunsthistorisch bedeutend.",
             "hu": "A Paradicsom-kapu művészettörténeti jelentőségű.",
             "ro": "Portalul Paradisului este semnificativ din punct de vedere istoric.",
-            "en": "The Paradise Portal is historically significant."
+            "en": "The Paradise Portal is historically significant.",
+            "tr": "Cennet Portalı tarihsel açıdan önemlidir."
           }
         }
       ],
@@ -453,7 +484,8 @@
         "de": "Münster per Rad: Wir starten am barocken Residenzschloss und dem angrenzenden Botanischen Garten. Über die Promenade radeln wir zum Aasee, genießen die Skulpturen und fahren dann ins Zentrum zum LWL-Museum. Der Abschluss führt uns über den Prinzipalmarkt zum Domplatz.",
         "hu": "Münster kerékpáron: a barokk rezidenciakastélynál és a szomszédos Botanikus kertnél kezdünk. A Promenádon keresztül az Aasee-tóhoz tekerünk, megcsodáljuk a szobrokat, majd a központba, az LWL Múzeumba hajtunk. Végül a Prinzipalmarkton át a Dóm térre érkezünk.",
         "ro": "Münster pe bicicletă: începem la castelul rezidențial baroc și Grădina Botanică adiacentă. Pedalăm pe Promenadă spre lacul Aasee, ne bucurăm de sculpturi și apoi mergem spre centru la Muzeul LWL. Finalul ne poartă prin Piața Principală către Domplatz.",
-        "en": "Münster by bike: We start at the baroque residential castle and the adjacent Botanical Garden. Cycling along the Promenade, we reach Lake Aasee, enjoy the sculptures, and then head to the center to the LWL Museum. The tour finishes via the Prinzipalmarkt at Domplatz."
+        "en": "Münster by bike: We start at the baroque residential castle and the adjacent Botanical Garden. Cycling along the Promenade, we reach Lake Aasee, enjoy the sculptures, and then head to the center to the LWL Museum. The tour finishes via the Prinzipalmarkt at Domplatz.",
+        "tr": "Münster bisikletle: Turumuza barok yerleşim kalesi ve bitişiğindeki Botanik Bahçe’den başlıyoruz. Promenade boyunca Aasee Gölü’ne ulaşıp heykellerin tadını çıkarıyor, ardından merkeze LWL Müzesi’ne gidiyoruz. Tur, Prinzipalmarkt üzerinden Domplatz’ta sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -577,6 +609,12 @@
           "Use the 'Radstation' at the main station for bike rentals.",
           "Pay attention to the right of way of other cyclists.",
           "The castle offers great photo opportunities in the morning."
+        ],
+        "tr": [
+          "Promenade, eski şehir etrafında bir bisiklet otobanıdır.",
+          "Ana istasyondaki 'Radstation'ı bisiklet kiralamak için kullanın.",
+          "Diğer bisikletlilerin geçiş önceliğine dikkat edin.",
+          "Kale sabahları harika fotoğraf fırsatları sunar."
         ]
       }
     },
@@ -593,7 +631,8 @@
             "de": "Prinzipalmarkt",
             "hu": "Prinzipalmarkt",
             "ro": "Prinzipalmarkt",
-            "en": "Prinzipalmarkt"
+            "en": "Prinzipalmarkt",
+            "tr": "Prinzipalmarkt"
           },
           "coords": [
             7.6285,
@@ -608,7 +647,8 @@
             "de": "Parken Sie im Parkhaus am Domplatz.",
             "hu": "Parkoljon a Dóm téri parkolóházban.",
             "ro": "Parcați în garajul de la Domplatz.",
-            "en": "Park in the parking garage at Domplatz."
+            "en": "Park in the parking garage at Domplatz.",
+            "tr": "Domplatz’taki otopark garajına park edin."
           }
         },
         {
@@ -616,7 +656,8 @@
             "de": "Historisches Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "City Hall"
+            "en": "City Hall",
+            "tr": "Belediye Sarayı"
           },
           "coords": [
             7.6288,
@@ -631,7 +672,8 @@
             "de": "Fußweg innerhalb des Clusters Altstadt.",
             "hu": "Gyalogos táv az óvárosi klaszteren belül.",
             "ro": "Distanță de mers pe jos în zona veche.",
-            "en": "Walking distance within the Old Town cluster."
+            "en": "Walking distance within the Old Town cluster.",
+            "tr": "Eski Şehir kümesi içinde yürüme mesafesinde."
           }
         },
         {
@@ -639,7 +681,8 @@
             "de": "St.-Paulus-Dom",
             "hu": "Székesegyház",
             "ro": "Catedrala",
-            "en": "Cathedral"
+            "en": "Cathedral",
+            "tr": "Katedral"
           },
           "coords": [
             7.626,
@@ -654,7 +697,8 @@
             "de": "Letzter Stopp im Cluster Altstadt.",
             "hu": "Utolsó állomás az óvárosi klaszterben.",
             "ro": "Ultima oprire în zona veche.",
-            "en": "Last stop in the Old Town cluster."
+            "en": "Last stop in the Old Town cluster.",
+            "tr": "Eski Şehir kümesindeki son durak."
           }
         },
         {
@@ -662,7 +706,8 @@
             "de": "Schloss Münster",
             "hu": "Münsteri kastély",
             "ro": "Castelul din Münster",
-            "en": "Münster Castle"
+            "en": "Münster Castle",
+            "tr": "Münster Kalesi"
           },
           "coords": [
             7.6135,
@@ -677,7 +722,8 @@
             "de": "Parken auf dem großen Schlossplatz.",
             "hu": "Parkolás a nagy Kastély téren.",
             "ro": "Parcare în marea piață a castelului.",
-            "en": "Parking available on the large Schlossplatz."
+            "en": "Parking available on the large Schlossplatz.",
+            "tr": "Geniş Schlossplatz’ta park yeri mevcut."
           }
         },
         {
@@ -685,7 +731,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanik Bahçe"
           },
           "coords": [
             7.6105,
@@ -700,7 +747,8 @@
             "de": "Fußweg vom Schlossgarten.",
             "hu": "Gyalogos táv a kastélykertből.",
             "ro": "Distanță de mers pe jos din grădina castelului.",
-            "en": "Walking distance from the castle garden."
+            "en": "Walking distance from the castle garden.",
+            "tr": "Kale bahçesinden yürüme mesafesinde."
           }
         },
         {
@@ -708,7 +756,8 @@
             "de": "Aasee",
             "hu": "Aasee-tó",
             "ro": "Lacul Aasee",
-            "en": "Lake Aasee"
+            "en": "Lake Aasee",
+            "tr": "Aasee Gölü"
           },
           "coords": [
             7.618,
@@ -723,7 +772,8 @@
             "de": "Parkplatz an den Aaseeterrassen.",
             "hu": "Parkoló az Aasee-teraszoknál.",
             "ro": "Parcare la terasele Aasee.",
-            "en": "Parking at the Aasee terraces."
+            "en": "Parking at the Aasee terraces.",
+            "tr": "Aasee teraslarında park imkanı."
           }
         },
         {
@@ -731,7 +781,8 @@
             "de": "Lambertikirche",
             "hu": "Lamberti-templom",
             "ro": "Biserica Sf. Lambert",
-            "en": "St. Lamberti Church"
+            "en": "St. Lamberti Church",
+            "tr": "St. Lamberti Kilisesi"
           },
           "coords": [
             7.6295,
@@ -746,7 +797,8 @@
             "de": "Abendlicher Blick auf den Turmwächter.",
             "hu": "Esti pillantás a toronyőrre.",
             "ro": "Priviți spre turn pentru paznicul de noapte.",
-            "en": "Evening view of the tower watchman."
+            "en": "Evening view of the tower watchman.",
+            "tr": "Kule bekçisinin akşam görünümü."
           }
         }
       ],
@@ -754,7 +806,8 @@
         "de": "Mit dem Auto nutzen wir drei Cluster: Zuerst die Altstadt mit Rathaus und Dom (Parkhaus Domplatz). Danach das Schloss-Areal mit Botanischem Garten. Den späten Nachmittag verbringen wir am Aasee, bevor wir für einen letzten Blick zur Lambertikirche zurückkehren.",
         "hu": "Autóval három klasztert látogatunk meg: először az óvárost a városházával és a dómmal (parkolás a Dóm téren). Ezután a kastély környéke következik a botanikus kerttel. A késő délutánt az Aasee-nél töltjük, majd visszatérünk a Lamberti-templomhoz.",
         "ro": "Cu mașina folosim trei grupuri de obiective: mai întâi centrul vechi cu primăria și catedrala (parcare la Domplatz). Apoi zona castelului cu grădina botanică. Petrecem după-amiaza târziu la Aasee, înainte de a reveni pentru o ultimă privire la Biserica Sf. Lambert.",
-        "en": "By car, we visit three clusters: first the old town with the city hall and cathedral (parking at Domplatz). Next is the castle area with the botanical garden. We spend the late afternoon at Lake Aasee before returning for a final look at St. Lamberti Church."
+        "en": "By car, we visit three clusters: first the old town with the city hall and cathedral (parking at Domplatz). Next is the castle area with the botanical garden. We spend the late afternoon at Lake Aasee before returning for a final look at St. Lamberti Church.",
+        "tr": "Arabayla üç küme geziyoruz: önce şehir merkeziyle Belediye Sarayı ve katedral (Domplatz’ta park). Sonra botanik bahçesi ile kale bölgesi. Akşamüstünü Aasee Gölü’nde geçirip son olarak St. Lamberti Kilisesi’ni tekrar ziyaret ediyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -882,6 +935,12 @@
           "Parking garages at the edge of the old town are less stressful.",
           "There are usually free parking spots at Schlossplatz.",
           "Be aware of the low emission zone in the city center."
+        ],
+        "tr": [
+          "Otopark rehberlik sistemlerini kullanın, şehir merkezi sık sık kalabalıktır.",
+          "Eski şehrin kenarındaki otopark garajları daha az streslidir.",
+          "Genellikle Schlossplatz’ta ücretsiz park yerleri bulunur.",
+          "Şehir merkezindeki düşük emisyon bölgesinin farkında olun."
         ]
       }
     },
@@ -898,7 +957,8 @@
             "de": "Prinzipalmarkt",
             "hu": "Prinzipalmarkt",
             "ro": "Prinzipalmarkt",
-            "en": "Prinzipalmarkt"
+            "en": "Prinzipalmarkt",
+            "tr": "Prinzipalmarkt"
           },
           "coords": [
             7.6285,
@@ -913,7 +973,8 @@
             "de": "Zentraler Umstieg am Hauptbahnhof möglich.",
             "hu": "Központi átszállási lehetőség a főpályaudvarnál.",
             "ro": "Transfer central posibil la gara principală.",
-            "en": "Central transfer possible at the main station."
+            "en": "Central transfer possible at the main station.",
+            "tr": "Ana istasyonda merkezi aktarma imkanı var."
           }
         },
         {
@@ -921,7 +982,8 @@
             "de": "Historisches Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "City Hall"
+            "en": "City Hall",
+            "tr": "Belediye Sarayı"
           },
           "coords": [
             7.6288,
@@ -936,7 +998,8 @@
             "de": "Fußweg im historischen Zentrum.",
             "hu": "Gyalogos táv a történelmi központban.",
             "ro": "Mers pe jos în centrul istoric.",
-            "en": "Walking distance in the historical center."
+            "en": "Walking distance in the historical center.",
+            "tr": "Tarihi merkezde yürüme mesafesinde."
           }
         },
         {
@@ -944,7 +1007,8 @@
             "de": "Schloss Münster",
             "hu": "Münsteri kastély",
             "ro": "Castelul din Münster",
-            "en": "Münster Castle"
+            "en": "Münster Castle",
+            "tr": "Münster Kalesi"
           },
           "coords": [
             7.6135,
@@ -959,7 +1023,8 @@
             "de": "Buslinien 1, 11, 12 und 13 halten hier.",
             "hu": "Az 1, 11, 12 és 13-as buszok állnak meg itt.",
             "ro": "Liniile de autobuz 1, 11, 12 și 13 opresc aici.",
-            "en": "Bus lines 1, 11, 12, and 13 stop here."
+            "en": "Bus lines 1, 11, 12, and 13 stop here.",
+            "tr": "1, 11, 12 ve 13 numaralı otobüs hatları burada durur."
           }
         },
         {
@@ -967,7 +1032,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanik Bahçe"
           },
           "coords": [
             7.6105,
@@ -982,7 +1048,8 @@
             "de": "Fußweg hinter das Hauptgebäude des Schlosses.",
             "hu": "Gyalogos táv a kastély főépülete mögött.",
             "ro": "Mers pe jos în spatele clădirii principale.",
-            "en": "Walk behind the main castle building."
+            "en": "Walk behind the main castle building.",
+            "tr": "Ana kale binasının arkasından yürüyün."
           }
         },
         {
@@ -990,7 +1057,8 @@
             "de": "Aasee",
             "hu": "Aasee-tó",
             "ro": "Lacul Aasee",
-            "en": "Lake Aasee"
+            "en": "Lake Aasee",
+            "tr": "Aasee Gölü"
           },
           "coords": [
             7.618,
@@ -1005,7 +1073,8 @@
             "de": "Buslinie 14 fährt direkt zum See.",
             "hu": "A 14-es busz közvetlenül a tóhoz visz.",
             "ro": "Linia 14 merge direct la lac.",
-            "en": "Bus line 14 goes directly to the lake."
+            "en": "Bus line 14 goes directly to the lake.",
+            "tr": "14 numaralı otobüs doğrudan göle gider."
           }
         },
         {
@@ -1013,7 +1082,8 @@
             "de": "St.-Paulus-Dom",
             "hu": "Székesegyház",
             "ro": "Catedrala",
-            "en": "Cathedral"
+            "en": "Cathedral",
+            "tr": "Katedral"
           },
           "coords": [
             7.626,
@@ -1028,7 +1098,8 @@
             "de": "Ausstieg an der Haltestelle Domplatz.",
             "hu": "Szálljon le a Domplatz megállónál.",
             "ro": "Coborâți la stația Domplatz.",
-            "en": "Get off at the Domplatz stop."
+            "en": "Get off at the Domplatz stop.",
+            "tr": "Domplatz durağında inin."
           }
         }
       ],
@@ -1036,7 +1107,8 @@
         "de": "Bequem mit dem Bus: Vom Prinzipalmarkt fahren wir zum Schloss und Botanischen Garten. Ein kurzer Transit-Hop bringt uns zum Aasee für Entspannung am Wasser. Den Tag beenden wir am Domplatz, der von vielen Linien bedient wird.",
         "hu": "Kényelmesen busszal: a Prinzipalmarkttól a kastélyhoz és a botanikus kerthez utazunk. Egy rövid buszos szakasz után az Aasee-nél lazítunk a vízparton. A napot a Dóm téren zárjuk, amelyet számos járat érint.",
         "ro": "Confortabil cu autobuzul: de la Piața Principală mergem la castel și grădina botanică. O scurtă călătorie ne duce la Aasee pentru relaxare pe malul apei. Încheiem ziua la Domplatz, deservit de multe linii.",
-        "en": "Conveniently by bus: From Prinzipalmarkt, we ride to the castle and botanical garden. A short transit hop takes us to Lake Aasee for relaxation by the water. We end the day at Domplatz, which is served by many lines."
+        "en": "Conveniently by bus: From Prinzipalmarkt, we ride to the castle and botanical garden. A short transit hop takes us to Lake Aasee for relaxation by the water. We end the day at Domplatz, which is served by many lines.",
+        "tr": "Otobüsle rahat: Prinzipalmarkt’tan kalesine ve botanik bahçesine gidiyoruz. Kısa bir aktarma ile Aasee Gölü’ne gidip su kenarında dinleniyoruz. Gün, birçok hattın hizmet verdiği Domplatz’ta sona eriyor."
       },
       "gastro_picks": {
         "de": [
@@ -1144,6 +1216,12 @@
           "A day ticket is usually cheaper than single rides.",
           "Buses run very frequently in the city center.",
           "In the evening, night buses (N lines) depart from the main station."
+        ],
+        "tr": [
+          "Gerçek zamanlı tarifeler için 'mobi' uygulamasını kullanın.",
+          "Günlük bilet genellikle tek binişlerden daha ucuzdur.",
+          "Otobüsler şehir merkezinde çok sık çalışır.",
+          "Akşamları gece otobüsleri (N hatları) ana istasyondan kalkar."
         ]
       }
     }

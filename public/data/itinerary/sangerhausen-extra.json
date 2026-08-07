@@ -21,7 +21,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             11.2985,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Renaissance-Fassade am Marktplatz.",
             "hu": "Csodáld meg a reneszánsz homlokzatot a piactéren.",
             "ro": "Admirați fațada renascentistă din piața centrală.",
-            "en": "Admire the Renaissance facade on the market square."
+            "en": "Admire the Renaissance facade on the market square.",
+            "tr": "Pazar meydanındaki Rönesans cepheye hayran kalın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Sankt-Jakobi-Kirche",
             "hu": "Szent Jakab-templom",
             "ro": "Biserica Sfântul Iacob",
-            "en": "St. James Church"
+            "en": "St. James Church",
+            "tr": "St. James Kilisesi"
           },
           "coords": [
             11.2975,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die schiefen Säulen im Inneren.",
             "hu": "Figyeld meg a ferde oszlopokat a belső térben.",
             "ro": "Observați coloanele înclinate din interior.",
-            "en": "Look for the leaning columns inside the nave."
+            "en": "Look for the leaning columns inside the nave.",
+            "tr": "Nave içindeki eğik sütunları arayın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schloss Sangerhausen",
             "hu": "Sangerhauseni kastély",
             "ro": "Castelul Sangerhausen",
-            "en": "Sangerhausen Castle"
+            "en": "Sangerhausen Castle",
+            "tr": "Sangerhausen Kalesi"
           },
           "coords": [
             11.3005,
@@ -82,7 +87,8 @@
             "de": "Ein schöner Renaissancebau, heute Sitz des Amtsgerichts.",
             "hu": "Szép reneszánsz épület, ma a járásbíróság székhelye.",
             "ro": "O frumoasă clădire renascentistă, astăzi sediul tribunalului.",
-            "en": "A beautiful Renaissance building, now housing the local court."
+            "en": "A beautiful Renaissance building, now housing the local court.",
+            "tr": "Güzel bir Rönesans binası, şimdi yerel mahkemeye ev sahipliği yapıyor."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Spengler-Museum",
             "hu": "Spengler-múzeum",
             "ro": "Muzeul Spengler",
-            "en": "Spengler Museum"
+            "en": "Spengler Museum",
+            "tr": "Spengler Müzesi"
           },
           "coords": [
             11.3035,
@@ -105,7 +112,8 @@
             "de": "Das Highlight ist das vollständige Skelett eines Mammuts.",
             "hu": "A fő látványosság egy mamut teljes csontváza.",
             "ro": "Piesa centrală este scheletul complet al unui mamut.",
-            "en": "The highlight is the complete skeleton of a mammoth."
+            "en": "The highlight is the complete skeleton of a mammoth.",
+            "tr": "Vurgulanması gereken eser, bir mamutun eksiksiz iskeletidir."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Europa-Rosarium",
             "hu": "Európa-Rosárium",
             "ro": "Rozariul European",
-            "en": "Europa Rosarium"
+            "en": "Europa Rosarium",
+            "tr": "Europa Rosarium"
           },
           "coords": [
             11.3145,
@@ -128,7 +137,8 @@
             "de": "Die weltweit größte Rosensammlung mit über 8600 Sorten.",
             "hu": "A világ legnagyobb rózsagyűjteménye 8600+ fajtával.",
             "ro": "Cea mai mare colecție de trandafiri din lume, cu peste 8600 soiuri.",
-            "en": "The world's largest rose collection with over 8,600 varieties."
+            "en": "The world's largest rose collection with over 8,600 varieties.",
+            "tr": "8.600'ün üzerinde çeşidiyle dünyanın en büyük gül koleksiyonu."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Ulrichskirche",
             "hu": "Ulrich-templom",
             "ro": "Biserica Sfântul Ulrich",
-            "en": "St. Ulrich Church"
+            "en": "St. Ulrich Church",
+            "tr": "Aziz Ulrich Kilisesi"
           },
           "coords": [
             11.2945,
@@ -151,7 +162,8 @@
             "de": "Ein bedeutendes Beispiel romanischer Architektur.",
             "hu": "A román építészet egyik jelentős példája.",
             "ro": "Un exemplu important de arhitectură romanică.",
-            "en": "A significant example of Romanesque architecture."
+            "en": "A significant example of Romanesque architecture.",
+            "tr": "Romanesk mimarinin önemli bir örneği."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Tag beginnt im historischen Herzen von Sangerhausen am Alten Rathaus und der Jakobikirche. Nach einem Blick auf das Renaissanceschloss tauchen Sie im Spengler-Museum in die Urgeschichte ein. Der Nachmittag gehört ganz dem Duft und der Farbenpracht des weltberühmten Rosariums, bevor der Spaziergang an der romanischen Ulrichskirche endet.",
         "hu": "A nap Sangerhausen történelmi szívében kezdődik a Régi Városházánál és a Szent Jakab-templomnál. A reneszánsz kastély megtekintése után a Spengler-múzeumban merülhet el az őstörténetben. A délután a világhírű Rosárium illatárjában és színeiben telik, majd a séta a román stílusú Ulrich-templomnál zárul.",
         "ro": "Ziua începe în inima istorică a orașului Sangerhausen, la Primăria Veche și Biserica Sf. Iacob. După o privire asupra castelului renascentist, explorați preistoria la Muzeul Spengler. După-amiaza este dedicată în întregime parfumului și culorilor celebrului Rozariu, înainte ca plimbarea să se încheie la biserica romanică Sf. Ulrich.",
-        "en": "The day begins in the historic heart of Sangerhausen at the Old Town Hall and St. James Church. After viewing the Renaissance castle, dive into prehistory at the Spengler Museum. The afternoon is spent amidst the fragrance and colors of the world-famous Rosarium, before concluding the walk at the Romanesque St. Ulrich Church."
+        "en": "The day begins in the historic heart of Sangerhausen at the Old Town Hall and St. James Church. After viewing the Renaissance castle, dive into prehistory at the Spengler Museum. The afternoon is spent amidst the fragrance and colors of the world-famous Rosarium, before concluding the walk at the Romanesque St. Ulrich Church.",
+        "tr": "Gün, Sangerhausen'in tarihi kalbinde Eski Belediye Binası ve Aziz James Kilisesi'nde başlar. Rönesans kalesini gördükten sonra Spengler Müzesi'nde tarihöncesine dalın. Öğleden sonrası dünya çapında ünlü Rosarium'un kokuları ve renkleri arasında geçer; yürüyüşü Romanesk Aziz Ulrich Kilisesi'nde sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "The rose blooming peaks in June and July.",
           "The old town is compact and very easy to explore on foot.",
           "Allow enough time for the mammoth exhibit in the museum."
+        ],
+        "tr": [
+          "Geniş Rosarium alanları için rahat ayakkabılar şart.",
+          "Güllerin en yoğun açma dönemi Haziran ve Temmuz'dur.",
+          "Eski şehir kompakt ve yürüyerek gezmesi çok kolay.",
+          "Müzedeki mamut sergisi için yeterli zamanı ayırın."
         ]
       }
     },
@@ -335,7 +354,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             11.2985,
@@ -350,7 +370,8 @@
             "de": "Startpunkt im Herzen der Stadt.",
             "hu": "Kiindulópont a város szívében.",
             "ro": "Punct de plecare în inima orașului.",
-            "en": "Starting point in the heart of the city."
+            "en": "Starting point in the heart of the city.",
+            "tr": "Şehrin kalbinde başlangıç noktası."
           }
         },
         {
@@ -358,7 +379,8 @@
             "de": "Europa-Rosarium",
             "hu": "Európa-Rosárium",
             "ro": "Rozariul European",
-            "en": "Europa Rosarium"
+            "en": "Europa Rosarium",
+            "tr": "Europa Rosarium"
           },
           "coords": [
             11.3145,
@@ -373,7 +395,8 @@
             "de": "Fahrräder müssen am Eingang abgestellt werden.",
             "hu": "A kerékpárokat a bejáratnál kell hagyni.",
             "ro": "Bicicletele trebuie lăsate la intrare.",
-            "en": "Bicycles must be parked at the entrance."
+            "en": "Bicycles must be parked at the entrance.",
+            "tr": "Bisikletler girişte park edilmelidir."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Moltkewarte",
             "hu": "Moltkewarte",
             "ro": "Moltkewarte",
-            "en": "Moltkewarte"
+            "en": "Moltkewarte",
+            "tr": "Moltkewarte"
           },
           "coords": [
             11.3285,
@@ -396,7 +420,8 @@
             "de": "Aussichtsturm mit Panoramablick über das Goldene Aue.",
             "hu": "Kilátótorony panorámával a Goldene Aue vidékére.",
             "ro": "Turn de observație cu vedere panoramică asupra regiunii.",
-            "en": "Observation tower with panoramic views over the Golden Aue."
+            "en": "Observation tower with panoramic views over the Golden Aue.",
+            "tr": "Golden Aue üzerinde panoramik manzaralar sunan gözlem kulesi."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Schloss Sangerhausen",
             "hu": "Sangerhauseni kastély",
             "ro": "Castelul Sangerhausen",
-            "en": "Sangerhausen Castle"
+            "en": "Sangerhausen Castle",
+            "tr": "Sangerhausen Kalesi"
           },
           "coords": [
             11.3005,
@@ -419,7 +445,8 @@
             "de": "Ein kurzer Stopp am historischen Schloss.",
             "hu": "Rövid megálló a történelmi kastélynál.",
             "ro": "O scurtă oprire la castelul istoric.",
-            "en": "A quick stop at the historic castle."
+            "en": "A quick stop at the historic castle.",
+            "tr": "Tarihi kalede kısa bir mola."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Spengler-Museum",
             "hu": "Spengler-múzeum",
             "ro": "Muzeul Spengler",
-            "en": "Spengler Museum"
+            "en": "Spengler Museum",
+            "tr": "Spengler Müzesi"
           },
           "coords": [
             11.3035,
@@ -442,7 +470,8 @@
             "de": "Kulturpause vor der Rückfahrt.",
             "hu": "Kulturális pihenő a visszautat megelőzően.",
             "ro": "Pauză culturală înainte de întoarcere.",
-            "en": "Cultural break before the return ride."
+            "en": "Cultural break before the return ride.",
+            "tr": "Dönüş yolculuğu öncesi kültürel ara."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Ulrichskirche",
             "hu": "Ulrich-templom",
             "ro": "Biserica Sfântul Ulrich",
-            "en": "St. Ulrich Church"
+            "en": "St. Ulrich Church",
+            "tr": "Aziz Ulrich Kilisesi"
           },
           "coords": [
             11.2945,
@@ -465,7 +495,8 @@
             "de": "Abschluss an der romanischen Kirche.",
             "hu": "Zárás a román stílusú templomnál.",
             "ro": "Final la biserica romanică.",
-            "en": "Finish at the Romanesque church."
+            "en": "Finish at the Romanesque church.",
+            "tr": "Romanesk kilisede bitiş."
           }
         }
       ],
@@ -473,7 +504,8 @@
         "de": "Diese Radtour kombiniert die Stadt-Highlights mit einem Ausflug zur Moltkewarte. Nach dem Besuch des Rosariums führt die Strecke bergauf zur Aussichtswarte, von wo aus man einen herrlichen Blick genießt. Zurück in der Stadt runden das Schloss, das Museum und die Ulrichskirche den Tag ab.",
         "hu": "Ez a kerékpártúra ötvözi a város nevezetességeit a Moltkewarte kilátóval. A Rosárium után az út felfelé vezet a kilátóhoz, ahonnan pazar panoráma nyílik. Visszatérve a városba a kastély, a múzeum és az Ulrich-templom teszi teljessé a napot.",
         "ro": "Acest tur cu bicicleta combină atracțiile orașului cu o excursie la Moltkewarte. După vizitarea Rozariului, traseul urcă spre turnul de observație, de unde vă bucurați de o priveliște superbă. Revenind în oraș, castelul, muzeul și biserica Sf. Ulrich completează ziua.",
-        "en": "This bike tour combines city highlights with an excursion to Moltkewarte. After visiting the Rosarium, the route leads uphill to the observation tower for magnificent views. Back in town, the castle, museum, and St. Ulrich Church round off the day."
+        "en": "This bike tour combines city highlights with an excursion to Moltkewarte. After visiting the Rosarium, the route leads uphill to the observation tower for magnificent views. Back in town, the castle, museum, and St. Ulrich Church round off the day.",
+        "tr": "Bu bisiklet turu şehirdeki öne çıkan yerleri Moltkewarte'ye bir geziyle birleştirir. Rosarium'u ziyaret ettikten sonra rota gözlem kulesine doğru yükselir ve muhteşem manzaralar sunar. Şehre döndüğünüzde kale, müze ve Aziz Ulrich Kilisesi günün tamamlanmasını sağlar."
       },
       "gastro_picks": {
         "de": [
@@ -593,6 +625,11 @@
           "The climb to Moltkewarte requires some fitness.",
           "Use the well-developed bike paths within the city.",
           "Cycling is prohibited inside the Rosarium grounds."
+        ],
+        "tr": [
+          "Moltkewarte'ye tırmanış biraz kondisyon gerektirir.",
+          "Şehir içindeki iyi gelişmiş bisiklet yollarını kullanın.",
+          "Rosarium alanı içinde bisiklet sürmek yasaktır."
         ]
       }
     },
@@ -609,7 +646,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             11.2985,
@@ -624,7 +662,8 @@
             "de": "Parken Sie zentral auf dem Marktplatz.",
             "hu": "Parkoljon központilag a piactéren.",
             "ro": "Parcați central în piața mare.",
-            "en": "Park centrally at the market square."
+            "en": "Park centrally at the market square.",
+            "tr": "Pazar meydanında merkezi olarak park edin."
           }
         },
         {
@@ -632,7 +671,8 @@
             "de": "Sankt-Jakobi-Kirche",
             "hu": "Szent Jakab-templom",
             "ro": "Biserica Sfântul Iacob",
-            "en": "St. James Church"
+            "en": "St. James Church",
+            "tr": "Aziz James Kilisesi"
           },
           "coords": [
             11.2975,
@@ -647,7 +687,8 @@
             "de": "Nur wenige Schritte vom Parkplatz entfernt.",
             "hu": "Csak pár lépésre a parkolótól.",
             "ro": "La doar câțiva pași de parcare.",
-            "en": "Just a few steps from the parking lot."
+            "en": "Just a few steps from the parking lot.",
+            "tr": "Otoparktan sadece birkaç adım ötede."
           }
         },
         {
@@ -655,7 +696,8 @@
             "de": "Schaubergwerk Röhrigschacht",
             "hu": "Röhrigschacht bemutatóbánya",
             "ro": "Mina-muzeu Röhrigschacht",
-            "en": "Röhrigschacht Adventure Mine"
+            "en": "Röhrigschacht Adventure Mine",
+            "tr": "Röhrigschacht Macera Madeni"
           },
           "coords": [
             11.2585,
@@ -670,7 +712,8 @@
             "de": "Fahrt nach Wettelrode. Untertage-Führung durch die Bergbaugeschichte.",
             "hu": "Utazás Wettelrode-ba. Bányatörténeti túra a föld alatt.",
             "ro": "Călătorie spre Wettelrode. Tur subteran prin istoria mineritului.",
-            "en": "Drive to Wettelrode. Underground tour through mining history."
+            "en": "Drive to Wettelrode. Underground tour through mining history.",
+            "tr": "Wettelrode'ye sürün. Maden tarihini yeraltında gezerek keşfedin."
           }
         },
         {
@@ -678,7 +721,8 @@
             "de": "Europa-Rosarium",
             "hu": "Európa-Rosárium",
             "ro": "Rozariul European",
-            "en": "Europa Rosarium"
+            "en": "Europa Rosarium",
+            "tr": "Europa Rosarium"
           },
           "coords": [
             11.3145,
@@ -693,7 +737,8 @@
             "de": "Großer Parkplatz direkt am Haupteingang vorhanden.",
             "hu": "Nagy parkoló közvetlenül a főbejáratnál.",
             "ro": "Parcare mare disponibilă chiar la intrarea principală.",
-            "en": "Large parking lot available directly at the main entrance."
+            "en": "Large parking lot available directly at the main entrance.",
+            "tr": "Ana girişin hemen yanında geniş bir otopark mevcut."
           }
         },
         {
@@ -701,7 +746,8 @@
             "de": "Spengler-Museum",
             "hu": "Spengler-múzeum",
             "ro": "Muzeul Spengler",
-            "en": "Spengler Museum"
+            "en": "Spengler Museum",
+            "tr": "Spengler Müzesi"
           },
           "coords": [
             11.3035,
@@ -716,7 +762,8 @@
             "de": "Kurzer Stopp vor der Abfahrt.",
             "hu": "Rövid megálló indulás előtt.",
             "ro": "Scurtă oprire înainte de plecare.",
-            "en": "Short stop before departure."
+            "en": "Short stop before departure.",
+            "tr": "Kalkış öncesi kısa bir durak."
           }
         }
       ],
@@ -724,7 +771,8 @@
         "de": "Mit dem Auto erreichen Sie bequem das etwas außerhalb gelegene Schaubergwerk Röhrigschacht, wo Sie tief in die Bergbautradition eintauchen. Den Rest des Tages verbringen Sie in der Kernstadt zwischen der historischen Altstadt und dem weitläufigen Europa-Rosarium.",
         "hu": "Autóval kényelmesen elérhető a városon kívül eső Röhrigschacht bemutatóbánya, ahol mélyen elmerülhet a bányászati hagyományokban. A nap hátralévő részét a belvárosban, a történelmi óváros és a tágas Rosárium között töltheti.",
         "ro": "Cu mașina puteți ajunge ușor la mina Röhrigschacht, aflată puțin în afara orașului, unde veți descoperi tradiția minieră. Restul zilei este dedicat centrului vechi istoric și vastului Rozariu European.",
-        "en": "By car, you can easily reach the Röhrigschacht Adventure Mine just outside town, where you can dive deep into mining traditions. Spend the rest of the day in the city center between the historic old town and the expansive Europa Rosarium."
+        "en": "By car, you can easily reach the Röhrigschacht Adventure Mine just outside town, where you can dive deep into mining traditions. Spend the rest of the day in the city center between the historic old town and the expansive Europa Rosarium.",
+        "tr": "Arabayla, kasaba dışında yer alan Röhrigschacht Macera Madeni'ne kolayca ulaşabilirsiniz; burada madencilik geleneklerine derinlemesine dalın. Günün kalanını tarihi eski şehir ile geniş Europa Rosarium arasında şehir merkezinde geçirin."
       },
       "gastro_picks": {
         "de": [
@@ -828,6 +876,11 @@
           "Advance booking is recommended for the adventure mine.",
           "Don't forget warm clothing for underground (approx. 12°C).",
           "Parking at the Rosarium is subject to a fee."
+        ],
+        "tr": [
+          "Macera madeni için önceden rezervasyon önerilir.",
+          "Yeraltı için (yaklaşık 12°C) sıcak kıyafetleri unutmayın.",
+          "Rosarium'da park ücrete tabidir."
         ]
       }
     },
@@ -844,7 +897,8 @@
             "de": "Bahnhof Sangerhausen",
             "hu": "Sangerhausen vasútállomás",
             "ro": "Gara Sangerhausen",
-            "en": "Sangerhausen Station"
+            "en": "Sangerhausen Station",
+            "tr": "Sangerhausen Garı"
           },
           "coords": [
             11.3035,
@@ -859,7 +913,8 @@
             "de": "Zentraler Ankunftspunkt.",
             "hu": "Központi érkezési pont.",
             "ro": "Punct central de sosire.",
-            "en": "Central arrival point."
+            "en": "Central arrival point.",
+            "tr": "Merkezi varış noktası."
           }
         },
         {
@@ -867,7 +922,8 @@
             "de": "Europa-Rosarium",
             "hu": "Európa-Rosárium",
             "ro": "Rozariul European",
-            "en": "Europa Rosarium"
+            "en": "Europa Rosarium",
+            "tr": "Europa Rosarium"
           },
           "coords": [
             11.3145,
@@ -882,7 +938,8 @@
             "de": "Vom Bahnhof mit der Stadtbuslinie erreichbar.",
             "hu": "A vasútállomástól helyi busszal elérhető.",
             "ro": "Accesibil cu autobuzul urban de la gară.",
-            "en": "Reach via city bus from the train station."
+            "en": "Reach via city bus from the train station.",
+            "tr": "Tren istasyonundan şehir otobüsüyle ulaşılır."
           }
         },
         {
@@ -890,7 +947,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             11.2985,
@@ -905,7 +963,8 @@
             "de": "Vom Rosarium zurück ins Zentrum fahren.",
             "hu": "A Rosáriumból vissza a központba.",
             "ro": "Din Rozariu înapoi în centru.",
-            "en": "Take the bus back from the Rosarium to the center."
+            "en": "Take the bus back from the Rosarium to the center.",
+            "tr": "Rosarium'dan merkeze dönüş için otobüse binin."
           }
         },
         {
@@ -913,7 +972,8 @@
             "de": "Spengler-Museum",
             "hu": "Spengler-múzeum",
             "ro": "Muzeul Spengler",
-            "en": "Spengler Museum"
+            "en": "Spengler Museum",
+            "tr": "Spengler Müzesi"
           },
           "coords": [
             11.3035,
@@ -928,7 +988,8 @@
             "de": "In der Nähe des Bahnhofs gelegen.",
             "hu": "A vasútállomás közelében található.",
             "ro": "Situat în apropierea gării.",
-            "en": "Located near the train station."
+            "en": "Located near the train station.",
+            "tr": "Tren istasyonuna yakın konumlu."
           }
         },
         {
@@ -936,7 +997,8 @@
             "de": "Ulrichskirche",
             "hu": "Ulrich-templom",
             "ro": "Biserica Sfântul Ulrich",
-            "en": "St. Ulrich Church"
+            "en": "St. Ulrich Church",
+            "tr": "Aziz Ulrich Kilisesi"
           },
           "coords": [
             11.2945,
@@ -951,7 +1013,8 @@
             "de": "Kurzer Fußweg vom Stadtzentrum.",
             "hu": "Rövid séta a városközponttól.",
             "ro": "Scurtă plimbare din centrul orașului.",
-            "en": "Short walk from the city center."
+            "en": "Short walk from the city center.",
+            "tr": "Şehir merkezinden kısa bir yürüme mesafesinde."
           }
         }
       ],
@@ -959,7 +1022,8 @@
         "de": "Dank der Stadtbuslinien lassen sich die Rosenstadt und ihre Sehenswürdigkeiten stressfrei ohne Auto erkunden. Starten Sie am Rosarium und kehren Sie dann ins historische Zentrum zurück, um das Mammut im Museum und die mittelalterlichen Kirchen zu bewundern.",
         "hu": "A helyi buszjáratoknak köszönhetően a rózsaváros és nevezetességei stresszmentesen, autó nélkül is felfedezhetők. Kezdjen a Rosáriumnál, majd térjen vissza a történelmi központba, hogy megcsodálja a múzeumi mamutot és a középkori templomokat.",
         "ro": "Datorită liniilor de autobuz urban, orașul trandafirilor și atracțiile sale pot fi explorate fără stres, fără mașină. Începeți la Rozariu și apoi reveniți în centrul istoric pentru a admira mamutul din muzeu și bisericile medievale.",
-        "en": "Thanks to city bus lines, the rose city and its sights can be explored stress-free without a car. Start at the Rosarium and then return to the historic center to admire the mammoth in the museum and the medieval churches."
+        "en": "Thanks to city bus lines, the rose city and its sights can be explored stress-free without a car. Start at the Rosarium and then return to the historic center to admire the mammoth in the museum and the medieval churches.",
+        "tr": "Şehir otobüsü hatları sayesinde gül şehri ve görülmesi gereken yerler arabasız, stressiz keşfedilebilir. Rosarium'da başlayın, sonra tarihi merkeze dönüp müzedeki mamutu ve ortaçağ kiliselerini hayranlıkla izleyin."
       },
       "gastro_picks": {
         "de": [
@@ -1063,6 +1127,11 @@
           "Check the bus schedule (VGS) online beforehand.",
           "Tickets can often be purchased directly from the bus driver.",
           "It's only about a 10-minute walk from the station to the market."
+        ],
+        "tr": [
+          "Önceden otobüs tarifesini (VGS) çevrimiçi kontrol edin.",
+          "Biletler genellikle doğrudan şoförden satın alınabilir.",
+          "İstasyondan pazara sadece yaklaşık 10 dakikalık bir yürüme mesafesi var."
         ]
       }
     }

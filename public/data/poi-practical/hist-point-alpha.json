@@ -3,55 +3,64 @@
     "de": "Platz der Deutschen Einheit 1, 36419 Geisa",
     "hu": "Platz der Deutschen Einheit 1, 36419 Geisa",
     "ro": "Platz der Deutschen Einheit 1, 36419 Geisa",
-    "en": "Platz der Deutschen Einheit 1, 36419 Geisa"
+    "en": "Platz der Deutschen Einheit 1, 36419 Geisa",
+    "tr": "Platz der Deutschen Einheit 1, 36419 Geisa"
   },
   "openingHours": {
     "de": "Mo-Su 10:00-18:00 (Apr-Okt), 10:00-17:00 (Mär/Nov)",
     "hu": "H-V 10:00-18:00 (ápr-okt), 10:00-17:00 (márc/nov)",
     "ro": "Lu-Du 10:00-18:00 (apr-oct), 10:00-17:00 (mar/nov)",
-    "en": "Mon-Sun 10:00-18:00 (Apr-Oct), 10:00-17:00 (Mar/Nov)"
+    "en": "Mon-Sun 10:00-18:00 (Apr-Oct), 10:00-17:00 (Mar/Nov)",
+    "tr": "Pzt-Paz 10:00-18:00 (Nis-Eki), 10:00-17:00 (Mar/Kas)"
   },
   "entranceFee": {
     "de": "9,00 € Erwachsene, 7,00 € ermäßigt",
     "hu": "9,00 € felnőtt, 7,00 € kedvezményes",
     "ro": "9,00 € adulți, 7,00 € redus",
-    "en": "9.00 € adults, 7.00 € reduced"
+    "en": "9.00 € adults, 7.00 € reduced",
+    "tr": "9,00 € yetişkin, 7,00 € indirimli"
   },
   "website": "https://www.pointalpha.com",
   "publicTransport": {
     "de": "Bus 300 ab Bad Salzungen oder Fulda bis Haltestelle Geisa",
     "hu": "300-as busz Bad Salzungen vagy Fulda felől Geisa megállóig",
     "ro": "Autobuzul 300 de la Bad Salzungen sau Fulda până la stația Geisa",
-    "en": "Bus 300 from Bad Salzungen or Fulda to Geisa stop"
+    "en": "Bus 300 from Bad Salzungen or Fulda to Geisa stop",
+    "tr": "Bad Salzungen veya Fulda'dan 300 numaralı otobüs ile Geisa durağı"
   },
   "parking": {
     "de": "Kostenlose Parkplätze direkt am US-Camp und am Haus auf der Grenze.",
     "hu": "Ingyenes parkolók közvetlenül az amerikai tábornál és a Határháznál.",
     "ro": "Parcare gratuită direct la tabăra americană și la Casa de pe Frontieră.",
-    "en": "Free parking directly at the US Camp and the House on the Border."
+    "en": "Free parking directly at the US Camp and the House on the Border.",
+    "tr": "ABD Kampı ve Sınırdaki Ev önünde ücretsiz park alanı."
   },
   "accessibility": {
     "de": "Häuser barrierefrei; Außengelände (Kolonnenweg) teilweise steil und uneben.",
     "hu": "Az épületek akadálymentesek; a kültéri rész (Kolonnenweg) helyenként meredek és egyenetlen.",
     "ro": "Clădirile sunt accesibile; terenul exterior (Kolonnenweg) parțial abrupt și denivelat.",
-    "en": "Buildings are accessible; outdoor grounds (Kolonnenweg) partially steep and uneven."
+    "en": "Buildings are accessible; outdoor grounds (Kolonnenweg) partially steep and uneven.",
+    "tr": "Binalar erişilebilir; dış alanlar (Kolonnenweg) kısmen dik ve engebeli."
   },
   "photoRules": {
     "de": "Fotografieren im Außenbereich und in den Ausstellungen für private Zwecke erlaubt.",
     "hu": "Magáncélú fotózás a szabadtéren és a kiállításokon is engedélyezett.",
     "ro": "Fotografierea în exterior și în expoziții permisă în scop privat.",
-    "en": "Photography in the outdoor area and exhibitions allowed for private purposes."
+    "en": "Photography in the outdoor area and exhibitions allowed for private purposes.",
+    "tr": "Açık alan ve sergilerde özel amaçlı fotoğraf çekimine izin verilir."
   },
   "bestTimeToVisit": {
     "de": "Nachmittags, um den Sonnenuntergang über der Rhön vom Beobachtungsturm zu sehen.",
     "hu": "Délután, hogy a kilátótoronyból láthassuk a Rhön feletti naplementét.",
     "ro": "După-amiaza pentru a vedea apusul peste Rhön din turnul de observație.",
-    "en": "In the afternoon to see the sunset over the Rhön from the observation tower."
+    "en": "In the afternoon to see the sunset over the Rhön from the observation tower.",
+    "tr": "Gözlem kulesinden Rhön üzerinde gün batımını görmek için öğleden sonra."
   },
   "audioGuide": {
     "de": "Ja (DE, EN)",
     "hu": "Igen (német, angol)",
     "ro": "Da (DE, EN)",
-    "en": "Yes (DE, EN)"
+    "en": "Yes (DE, EN)",
+    "tr": "Evet (DE, EN)"
   }
 }

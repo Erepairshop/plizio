@@ -3,55 +3,64 @@
     "de": "Tempelhofer Damm, 12101 Berlin",
     "hu": "Tempelhofer Damm, 12101 Berlin",
     "ro": "Tempelhofer Damm, 12101 Berlin",
-    "en": "Tempelhofer Damm, 12101 Berlin"
+    "en": "Tempelhofer Damm, 12101 Berlin",
+    "tr": "Tempelhofer Damm, 12101 Berlin"
   },
   "openingHours": {
     "de": "Parkgelände: Sonnenaufgang bis Sonnenuntergang; Terminalgebäude nur mit Führung",
     "hu": "Park: napkeltétől napnyugtáig; terminálépület csak vezetéssel",
     "ro": "Parcul: de la răsărit până la apus; clădirea terminalului doar cu tur ghidat",
-    "en": "Park: sunrise to sunset; terminal building by guided tour only"
+    "en": "Park: sunrise to sunset; terminal building by guided tour only",
+    "tr": "Park: gün doğumundan gün batımına; terminal binası sadece rehberli tur ile"
   },
   "entranceFee": {
     "de": "Park: kostenfrei; Gebäudeführung: ab €17.50",
     "hu": "Park: ingyenes; épületbejárás: 17,50 €-tól",
     "ro": "Parc: gratuit; turul clădirii: de la 17,50 €",
-    "en": "Park: free; guided building tour: from €17.50"
+    "en": "Park: free; guided building tour: from €17.50",
+    "tr": "Park: ücretsiz; rehberli bina turu: €17,50’den başlayan fiyatlarla"
   },
   "website": "https://www.thf-berlin.de",
   "publicTransport": {
     "de": "U6 bis Tempelhof oder Paradestraße, S-Bahn S41, S42 bis Tempelhof",
     "hu": "U6-os metró Tempelhof vagy Paradestraße megállóig, S41, S42 vonat Tempelhofig",
     "ro": "Metrou U6 până la Tempelhof sau Paradestraße, S-Bahn S41, S42 până la Tempelhof",
-    "en": "U6 to Tempelhof or Paradestraße, S-Bahn S41, S42 to Tempelhof"
+    "en": "U6 to Tempelhof or Paradestraße, S-Bahn S41, S42 to Tempelhof",
+    "tr": "U6 ile Tempelhof veya Paradestraße, S-Bahn S41, S42 ile Tempelhof"
   },
   "parking": {
     "de": "Parkplätze am Columbiadamm und Tempelhofer Damm vorhanden, oft überfüllt",
     "hu": "Parkolók a Columbiadamm és Tempelhofer Damm mentén, gyakran zsúfoltak",
     "ro": "Locuri de parcare pe Columbiadamm și Tempelhofer Damm, adesea aglomerate",
-    "en": "Parking available at Columbiadamm and Tempelhofer Damm, often crowded"
+    "en": "Parking available at Columbiadamm and Tempelhofer Damm, often crowded",
+    "tr": "Columbiadamm ve Tempelhofer Damm’de park yeri mevcuttur, genellikle kalabalıktır"
   },
   "accessibility": {
     "de": "Parkgelände voll barrierefrei; Gebäude nur teilweise (je nach Tour)",
     "hu": "A park teljes mértékben akadálymentes; az épület csak részben (túrától függően)",
     "ro": "Parcul este complet accesibil; clădirea doar parțial (în funcție de tur)",
-    "en": "Park fully accessible; building only partially (depending on the tour)"
+    "en": "Park fully accessible; building only partially (depending on the tour)",
+    "tr": "Park tamamen engelsizdir; bina sadece kısmen (tura bağlı olarak)"
   },
   "photoRules": {
     "de": "Auf dem Feld uneingeschränkt erlaubt; im Gebäude nur für private Zwecke",
     "hu": "A reptéri mezőn korlátozás nélkül szabad; az épületben csak magáncélra",
     "ro": "Pe câmp permis fără restricții; în clădire doar pentru uz privat",
-    "en": "Unrestricted on the field; inside the building for private purposes only"
+    "en": "Unrestricted on the field; inside the building for private purposes only",
+    "tr": "Alan üzerinde kısıtlama yoktur; binanın içinde sadece özel amaçlar için"
   },
   "bestTimeToVisit": {
     "de": "Zum Sonnenuntergang auf der Westseite des Feldes",
     "hu": "Naplementekor a mező nyugati oldalán",
     "ro": "La apus, pe partea de vest a câmpului",
-    "en": "At sunset on the west side of the field"
+    "en": "At sunset on the west side of the field",
+    "tr": "Günün batımında alanın batı tarafında"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

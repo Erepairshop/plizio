@@ -3,55 +3,64 @@
     "de": "Theaterplatz, 99423 Weimar",
     "hu": "Theaterplatz, 99423 Weimar, Németország",
     "ro": "Theaterplatz, 99423 Weimar, Germania",
-    "en": "Theaterplatz, 99423 Weimar, Germany"
+    "en": "Theaterplatz, 99423 Weimar, Germany",
+    "tr": "Theaterplatz, 99423 Weimar, Germany"
   },
   "openingHours": {
     "de": "24/7 (Altstadt)",
     "hu": "Bármikor látogatható (óváros)",
     "ro": "24/7 (orașul vechi)",
-    "en": "24/7 (old town)"
+    "en": "24/7 (old town)",
+    "tr": "7/24 (eski şehir)"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.weimar.de",
   "publicTransport": {
     "de": "Alle Stadtbuslinien bis Goetheplatz/Zentrum",
     "hu": "Minden városi buszjárat a Goetheplatz/Zentrum megállóig",
     "ro": "Toate liniile de autobuz până la Goetheplatz/Centru",
-    "en": "All city bus lines to Goetheplatz/Zentrum"
+    "en": "All city bus lines to Goetheplatz/Zentrum",
+    "tr": "Goetheplatz/Merkez durağına tüm şehir otobüs hatları"
   },
   "parking": {
     "de": "Parkhaus Atrium (ca. 1,50 €/Std.) oder Tiefgarage Beethovenplatz.",
     "hu": "Atrium parkolóház (kb. 1,50 €/óra) vagy Beethovenplatz mélygarázs.",
     "ro": "Parcarea Atrium (aprox. 1,50 €/oră) sau parcarea subterană Beethovenplatz.",
-    "en": "Atrium parking garage (approx. 1.50 €/hour) or Beethovenplatz underground parking."
+    "en": "Atrium parking garage (approx. 1.50 €/hour) or Beethovenplatz underground parking.",
+    "tr": "Atrium otoparkı (yaklaşık 1,50 €/saat) veya Beethovenplatz yeraltı otoparkı."
   },
   "accessibility": {
     "de": "Altstadt weitgehend eben, Museen oft barrierefrei umgebaut.",
     "hu": "Az óváros jórészt sík, a múzeumok gyakran akadálymentesítettek.",
     "ro": "Centrul vechi este în mare parte plat, muzeele sunt adesea accesibile.",
-    "en": "Old town largely flat, museums often adapted for accessibility."
+    "en": "Old town largely flat, museums often adapted for accessibility.",
+    "tr": "Eski şehir büyük ölçüde düz, müzeler genellikle erişime uyarlanmış."
   },
   "photoRules": {
     "de": "Erlaubt (außen).",
     "hu": "Kültéren engedélyezett.",
     "ro": "Permis (în exterior).",
-    "en": "Allowed (outdoors)."
+    "en": "Allowed (outdoors).",
+    "tr": "Açık alanda izinli."
   },
   "bestTimeToVisit": {
     "de": "Mai bis September für das kulturelle Leben im Freien.",
     "hu": "Májustól szeptemberig a pezsgő szabadtéri kulturális élet miatt.",
     "ro": "Din mai până în septembrie pentru viața culturală în aer liber.",
-    "en": "May to September for the outdoor cultural life."
+    "en": "May to September for the outdoor cultural life.",
+    "tr": "Açık hava kültür hayatı için Mayıs-Eylül arası."
   },
   "audioGuide": {
     "de": "ja (über Weimar-App)",
     "hu": "igen (Weimar applikáción keresztül)",
     "ro": "da (prin aplicația Weimar)",
-    "en": "yes (via Weimar app)"
+    "en": "yes (via Weimar app)",
+    "tr": "evet (Weimar uygulaması üzerinden)"
   }
 }

@@ -21,7 +21,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             7.3204,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf das Giebelhaus-Ensemble.",
             "hu": "Figyelje meg a látványos oromzatos házakat.",
             "ro": "Admirați ansamblul de case cu frontoane.",
-            "en": "Look for the ensemble of gabled houses."
+            "en": "Look for the ensemble of gabled houses.",
+            "tr": "Çatma çatılı evlerin topluluğunu arayın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi Városháza",
             "ro": "Primăria Istorică",
-            "en": "Historic Town Hall"
+            "en": "Historic Town Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             7.3206,
@@ -59,7 +62,8 @@
             "de": "Das Wahrzeichen der Stadt von 1555.",
             "hu": "A város 1555-ben épült jelképe.",
             "ro": "Simbolul orașului, construit în 1555.",
-            "en": "The city landmark, built in 1555."
+            "en": "The city landmark, built in 1555.",
+            "tr": "Şehrin simgesi, 1555 yılında inşa edilmiş."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Professorenhaus",
             "hu": "Professzorok háza",
             "ro": "Casa Profesorilor",
-            "en": "Professors House"
+            "en": "Professors House",
+            "tr": "Profesörler Evi"
           },
           "coords": [
             7.3188,
@@ -82,7 +87,8 @@
             "de": "Ein bedeutendes Fachwerkhaus des Barock.",
             "hu": "Jelentős barokk favázas épület.",
             "ro": "O importantă casă barocă din paiantă.",
-            "en": "An important Baroque half-timbered house."
+            "en": "An important Baroque half-timbered house.",
+            "tr": "Önemli bir Barok yarı ahşap yapı."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "St. Bonifatius",
             "hu": "Szt. Bonifác templom",
             "ro": "Biserica Sf. Bonifaiu",
-            "en": "St. Boniface Church"
+            "en": "St. Boniface Church",
+            "tr": "Aziz Boniface Kilisesi"
           },
           "coords": [
             7.3195,
@@ -105,7 +112,8 @@
             "de": "Beeindruckende neugotische Architektur.",
             "hu": "Lenyűgöző neogótikus építészet.",
             "ro": "Arhitectură neogotică impresionantă.",
-            "en": "Impressive Neo-Gothic architecture."
+            "en": "Impressive Neo-Gothic architecture.",
+            "tr": "Etkileyici Neo-Gotik mimari."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "tr": "Eski Kentte öğle yemeği"
           },
           "coords": [
             7.3202,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie lokale Spezialitäten.",
             "hu": "Kóstolja meg a helyi specialitásokat.",
             "ro": "Încercați specialitățile locale.",
-            "en": "Try some local specialties."
+            "en": "Try some local specialties.",
+            "tr": "Yerel spesiyalitelerden bazılarını deneyin."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Emslandmuseum",
             "hu": "Emsland Múzeum",
             "ro": "Muzeul Emsland",
-            "en": "Emsland Museum"
+            "en": "Emsland Museum",
+            "tr": "Emsland Müzesi"
           },
           "coords": [
             7.3165,
@@ -151,7 +162,8 @@
             "de": "Regionalgeschichte anschaulich erklärt.",
             "hu": "A régió történelme szemléletesen.",
             "ro": "Istoria regională explicată clar.",
-            "en": "Regional history clearly explained."
+            "en": "Regional history clearly explained.",
+            "tr": "Bölgesel tarih açık şekilde anlatılıyor."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Pulverturm",
             "hu": "Lőportorony",
             "ro": "Turnul Pulberii",
-            "en": "Powder Tower"
+            "en": "Powder Tower",
+            "tr": "Barut Kulesi"
           },
           "coords": [
             7.3175,
@@ -174,7 +187,8 @@
             "de": "Überrest der alten Stadtbefestigung.",
             "hu": "A régi városfal megmaradt része.",
             "ro": "Rămășiță a vechii fortificații a orașului.",
-            "en": "Remnant of the old city fortifications."
+            "en": "Remnant of the old city fortifications.",
+            "tr": "Eski şehir surlarından bir kalıntı."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Lookentor",
             "hu": "Lookentor kapu",
             "ro": "Poarta Lookentor",
-            "en": "Lookentor Gate"
+            "en": "Lookentor Gate",
+            "tr": "Lookentor Kapısı"
           },
           "coords": [
             7.322,
@@ -197,7 +212,8 @@
             "de": "Modernes Shopping am historischen Ort.",
             "hu": "Modern bevásárlóközpont történelmi helyen.",
             "ro": "Shopping modern într-un loc istoric.",
-            "en": "Modern shopping at a historic site."
+            "en": "Modern shopping at a historic site.",
+            "tr": "Tarihi bir mekânda modern alışveriş."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Ein entspannter Tag in Lingen beginnt am historischen Marktplatz. Bestaunen Sie das Rathaus und das Professorenhaus, bevor Sie in die Geschichte des Emslandes eintauchen. Nach einem lokalen Mittagessen erkunden Sie die Relikte der Stadtmauer und lassen den Tag im modernen Lookentor ausklingen, wo Geschichte auf Shopping trifft.",
         "hu": "A nap Lingen történelmi főterén indul, ahol megcsodálhatjuk a régi városházát és a patinás Professzor-házat. A délelőtti séta után merüljön el a régió múltjában az Emsland Múzeumban. A délutánt a városfal maradványai és a modern Lookentor negyed felfedezése teszi teljessé, ahol a múlt és a jelen vásárlási élménye találkozik.",
         "ro": "O zi relaxantă în Lingen începe în piața istorică a orașului. Admirați primăria și Casa Profesorilor înainte de a explora istoria regiunii la Muzeul Emsland. După un prânz local, descoperiți relicvele zidului cetății și încheiați ziua la Lookentor, un amestec modern de istorie și experiențe de shopping.",
-        "en": "A relaxed day in Lingen starts at the historic market square. Admire the town hall and the Professors House before diving into Emsland's history at the museum. After a local lunch, explore the remnants of the city wall and end your tour at the modern Lookentor, where history meets contemporary shopping."
+        "en": "A relaxed day in Lingen starts at the historic market square. Admire the town hall and the Professors House before diving into Emsland's history at the museum. After a local lunch, explore the remnants of the city wall and end your tour at the modern Lookentor, where history meets contemporary shopping.",
+        "tr": "Lingen’de rahat bir gün tarihi pazar meydanında başlar. Belediye binasına ve Profesörler Evi’ne hayran kalın, sonra müzede Emsland tarihine dalın. Yerel bir öğle yemeğinin ardından şehir duvarı kalıntılarını keşfedin ve turunuzu tarihin çağdaş alışverişle buluştuğu modern Lookentor’da sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -329,6 +346,12 @@
           "Wednesdays and Saturdays are market days.",
           "Visit the Professors House for theatrical performances.",
           "Lingen is perfectly explored on foot."
+        ],
+        "tr": [
+          "Şehir merkezi neredeyse tamamen yaya bölgesidir.",
+          "Çarşamba ve Cumartesi günleri pazar kuruluyor.",
+          "Profesörler Evi’nde tiyatro gösterilerine katılın.",
+          "Lingen yürüyerek kolayca keşfedilir."
         ]
       }
     },
@@ -345,7 +368,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             7.3204,
@@ -360,7 +384,8 @@
             "de": "Idealer Startpunkt für Radtouren.",
             "hu": "Ideális kiindulópont kerékpártúrákhoz.",
             "ro": "Punct de plecare ideal pentru tururi cicliste.",
-            "en": "Ideal starting point for bike tours."
+            "en": "Ideal starting point for bike tours.",
+            "tr": "Bisiklet turları için ideal başlangıç noktası."
           }
         },
         {
@@ -368,7 +393,8 @@
             "de": "St. Bonifatius",
             "hu": "Szt. Bonifác templom",
             "ro": "Biserica Sf. Bonifaiu",
-            "en": "St. Boniface Church"
+            "en": "St. Boniface Church",
+            "tr": "Aziz Boniface Kilisesi"
           },
           "coords": [
             7.3195,
@@ -383,7 +409,8 @@
             "de": "Zentral gelegene Kirche am Ems-Radweg.",
             "hu": "Központi templom az Ems kerékpárútnál.",
             "ro": "Biserică centrală lângă pista Ems.",
-            "en": "Centrally located church by the Ems bike path."
+            "en": "Centrally located church by the Ems bike path.",
+            "tr": "Ems bisiklet yolu kenarında merkezi konumda kilise."
           }
         },
         {
@@ -391,7 +418,8 @@
             "de": "Emslandmuseum",
             "hu": "Emsland Múzeum",
             "ro": "Muzeul Emsland",
-            "en": "Emsland Museum"
+            "en": "Emsland Museum",
+            "tr": "Emsland Müzesi"
           },
           "coords": [
             7.3165,
@@ -406,7 +434,8 @@
             "de": "Fahrradständer direkt am Eingang vorhanden.",
             "hu": "Kerékpártárolók közvetlenül a bejáratnál.",
             "ro": "Rasteluri de biciclete chiar la intrare.",
-            "en": "Bike racks available right at the entrance."
+            "en": "Bike racks available right at the entrance.",
+            "tr": "Girişte bisiklet park yerleri mevcut."
           }
         },
         {
@@ -414,7 +443,8 @@
             "de": "Wasserfall Hanekenfähr",
             "hu": "Hanekenfähr vízesés",
             "ro": "Cascada Hanekenfähr",
-            "en": "Hanekenfähr Waterfall"
+            "en": "Hanekenfähr Waterfall",
+            "tr": "Hanekenfähr Şelalesi"
           },
           "coords": [
             7.288,
@@ -429,7 +459,8 @@
             "de": "Ein idyllisches Ausflugsziel an der Ems.",
             "hu": "Idilli kirándulóhely az Ems folyónál.",
             "ro": "O destinație idilică pe malul Ems.",
-            "en": "An idyllic excursion spot on the Ems."
+            "en": "An idyllic excursion spot on the Ems.",
+            "tr": "Ems üzerinde huzurlu bir gezi noktası."
           }
         },
         {
@@ -437,7 +468,8 @@
             "de": "Gastro am Wasser",
             "hu": "Vízi gasztronómia",
             "ro": "Gastro la apă",
-            "en": "Waterside Gastro"
+            "en": "Waterside Gastro",
+            "tr": "Nehir kenarı gastro"
           },
           "coords": [
             7.289,
@@ -452,7 +484,8 @@
             "de": "Einkehren mit Blick auf den Fluss.",
             "hu": "Ebéd folyóra néző kilátással.",
             "ro": "Masă cu vedere la râu.",
-            "en": "Dining with a view of the river."
+            "en": "Dining with a view of the river.",
+            "tr": "Nehir manzaralı yemek deneyimi."
           }
         },
         {
@@ -460,7 +493,8 @@
             "de": "Pulverturm",
             "hu": "Lőportorony",
             "ro": "Turnul Pulberii",
-            "en": "Powder Tower"
+            "en": "Powder Tower",
+            "tr": "Barut Kulesi"
           },
           "coords": [
             7.3175,
@@ -475,7 +509,8 @@
             "de": "Schöner Fotostopp auf dem Rückweg.",
             "hu": "Szép fotómegálló a visszaúton.",
             "ro": "Un popas foto frumos la întoarcere.",
-            "en": "Nice photo stop on the way back."
+            "en": "Nice photo stop on the way back.",
+            "tr": "Dönüş yolunda güzel bir fotoğraf noktası."
           }
         },
         {
@@ -483,7 +518,8 @@
             "de": "Lookentor",
             "hu": "Lookentor kapu",
             "ro": "Poarta Lookentor",
-            "en": "Lookentor Gate"
+            "en": "Lookentor Gate",
+            "tr": "Lookentor Kapısı"
           },
           "coords": [
             7.322,
@@ -498,7 +534,8 @@
             "de": "Sichere Fahrradparkplätze in der Nähe.",
             "hu": "Biztonságos kerékpárparkolók a közelben.",
             "ro": "Parcare securizată pentru biciclete în apropiere.",
-            "en": "Secure bike parking available nearby."
+            "en": "Secure bike parking available nearby.",
+            "tr": "Yakında güvenli bisiklet parkı mevcut."
           }
         }
       ],
@@ -506,7 +543,8 @@
         "de": "Erkunden Sie Lingen und seine grüne Umgebung mit dem Rad. Nach einer kulturellen Runde durch die Altstadt führt Sie der Ems-Radweg zum malerischen Wasserfall Hanekenfähr. Genießen Sie die Natur und eine entspannte Pause am Wasser, bevor Sie entlang des Kanals zurück in das Stadtzentrum radeln.",
         "hu": "Fedezze fel Lingent és zöld környezetét két keréken. Az óvárosi kulturális kör után az Ems kerékpárút vezet a festői Hanekenfähr vízeséshez. Élvezze a természetet és a vízparti pihenőt, majd a csatorna mentén tekerjen vissza a városközpontba.",
         "ro": "Explorați Lingen și împrejurimile sale verzi cu bicicleta. După un tur cultural prin centrul vechi, pista de biciclete Ems vă duce la pitoreasca cascadă Hanekenfähr. Bucurați-vă de natură și de o pauză relaxantă la apă înainte de a pedala înapoi spre centru pe malul canalului.",
-        "en": "Explore Lingen and its green surroundings by bike. After a cultural circuit through the old town, the Ems cycle path leads you to the scenic Hanekenfähr waterfall. Enjoy nature and a relaxed riverside break before cycling back to the city center along the canal."
+        "en": "Explore Lingen and its green surroundings by bike. After a cultural circuit through the old town, the Ems cycle path leads you to the scenic Hanekenfähr waterfall. Enjoy nature and a relaxed riverside break before cycling back to the city center along the canal.",
+        "tr": "Lingen ve çevresinin yeşil alanlarını bisikletle keşfedin. Eski kentteki kültürel bir turun ardından Ems bisiklet yolu sizi manzaralı Hanekenfähr şelalesine götürür. Doğanın ve sakin bir nehir kenarı molasının tadını çıkarın, sonra kanaldan şehir merkezine geri pedal çevirin."
       },
       "gastro_picks": {
         "de": [
@@ -614,6 +652,12 @@
           "The Ems cycle path is flat and family-friendly.",
           "Bike rental is available at the train station.",
           "Watch out for signs pointing to 'Hanekenfähr'."
+        ],
+        "tr": [
+          "İyi gelişmiş bisiklet yolu ağını kullanın.",
+          "Ems bisiklet yolu düz ve aile dostudur.",
+          "Tren istasyonunda bisiklet kiralama mevcut.",
+          "'Hanekenfähr' yön işaretlerine dikkat edin."
         ]
       }
     },
@@ -630,7 +674,8 @@
             "de": "Markttiefgarage (Parken)",
             "hu": "Piactéri mélygarázs (Parkolás)",
             "ro": "Parcare subterană Piață",
-            "en": "Market Underground Parking"
+            "en": "Market Underground Parking",
+            "tr": "Pazar Yerinin Altı Otoparkı"
           },
           "coords": [
             7.3204,
@@ -645,7 +690,8 @@
             "de": "Zentrales Parken direkt am Geschehen.",
             "hu": "Központi parkolás az események közelében.",
             "ro": "Parcare centrală chiar lângă obiective.",
-            "en": "Central parking right in the heart of action."
+            "en": "Central parking right in the heart of action.",
+            "tr": "Aksiyonun tam kalbinde merkezi otopark."
           }
         },
         {
@@ -653,7 +699,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi Városháza",
             "ro": "Primăria Istorică",
-            "en": "Historic Town Hall"
+            "en": "Historic Town Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             7.3206,
@@ -668,7 +715,8 @@
             "de": "Fußläufig vom Parkplatz erreichbar.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos de la parcare.",
-            "en": "Walkable from the parking lot."
+            "en": "Walkable from the parking lot.",
+            "tr": "Otoparktan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -676,7 +724,8 @@
             "de": "Professorenhaus",
             "hu": "Professzorok háza",
             "ro": "Casa Profesorilor",
-            "en": "Professors House"
+            "en": "Professors House",
+            "tr": "Profesörler Evi"
           },
           "coords": [
             7.3188,
@@ -691,7 +740,8 @@
             "de": "Sehenswertes Barockgebäude in der City.",
             "hu": "Érdemes megnézni ezt a barokk épületet.",
             "ro": "Clădire barocă remarcabilă în oraș.",
-            "en": "Remarkable Baroque building in the city."
+            "en": "Remarkable Baroque building in the city.",
+            "tr": "Şehirde göze çarpan Barok yapı."
           }
         },
         {
@@ -699,7 +749,8 @@
             "de": "Lunch in Lingen",
             "hu": "Ebéd Lingenben",
             "ro": "Prânz în Lingen",
-            "en": "Lunch in Lingen"
+            "en": "Lunch in Lingen",
+            "tr": "Lingen’de öğle yemeği"
           },
           "coords": [
             7.3202,
@@ -714,7 +765,8 @@
             "de": "Vielseitige Auswahl in der Fußgängerzone.",
             "hu": "Változatos kínálat a sétálóutcában.",
             "ro": "Selecție variată în zona pietonală.",
-            "en": "Diverse selection in the pedestrian zone."
+            "en": "Diverse selection in the pedestrian zone.",
+            "tr": "Yaya bölgesinde çeşitli seçenekler."
           }
         },
         {
@@ -722,7 +774,8 @@
             "de": "Wasserfall Hanekenfähr",
             "hu": "Hanekenfähr vízesés",
             "ro": "Cascada Hanekenfähr",
-            "en": "Hanekenfähr Waterfall"
+            "en": "Hanekenfähr Waterfall",
+            "tr": "Hanekenfähr Şelalesi"
           },
           "coords": [
             7.288,
@@ -737,7 +790,8 @@
             "de": "Großer Parkplatz vor Ort vorhanden.",
             "hu": "Helyben nagy parkoló áll rendelkezésre.",
             "ro": "Parcare mare disponibilă la fața locului.",
-            "en": "Large parking lot available on site."
+            "en": "Large parking lot available on site.",
+            "tr": "Yerde geniş bir otopark mevcut."
           }
         },
         {
@@ -745,7 +799,8 @@
             "de": "Emslandmuseum",
             "hu": "Emsland Múzeum",
             "ro": "Muzeul Emsland",
-            "en": "Emsland Museum"
+            "en": "Emsland Museum",
+            "tr": "Emsland Müzesi"
           },
           "coords": [
             7.3165,
@@ -760,7 +815,8 @@
             "de": "Kulturstopp auf dem Rückweg.",
             "hu": "Kulturális megálló a visszaúton.",
             "ro": "Popas cultural la întoarcere.",
-            "en": "Cultural stop on the way back."
+            "en": "Cultural stop on the way back.",
+            "tr": "Dönüş yolunda kültürel bir durak."
           }
         },
         {
@@ -768,7 +824,8 @@
             "de": "Lookentor",
             "hu": "Lookentor kapu",
             "ro": "Poarta Lookentor",
-            "en": "Lookentor Gate"
+            "en": "Lookentor Gate",
+            "tr": "Lookentor Kapısı"
           },
           "coords": [
             7.322,
@@ -783,7 +840,8 @@
             "de": "Idealer Abschluss vor der Heimfahrt.",
             "hu": "Ideális záróprogram hazautazás előtt.",
             "ro": "Final ideal înainte de plecare.",
-            "en": "Ideal final stop before heading home."
+            "en": "Ideal final stop before heading home.",
+            "tr": "Eve dönmeden önce ideal son durak."
           }
         }
       ],
@@ -791,7 +849,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Höhepunkte von Lingen. Starten Sie im historischen Zentrum und parken Sie direkt unter dem Marktplatz. Nach der Besichtigung des Rathauses und einem Mittagessen fahren Sie ein kurzes Stück zum Naturparadies Hanekenfähr. Der Tag endet mit Kultur im Emslandmuseum und einem Bummel am Lookentor.",
         "hu": "Autóval kényelmesen elérheti Lingen legfontosabb látnivalóit. Kezdjen a történelmi központban, parkoljon közvetlenül a főtér alatt. A városháza megtekintése és az ebéd után tegyen egy rövid autós kirándulást a Hanekenfähr természetvédelmi területre. A napot az Emsland Múzeum és a Lookentor környéki séta zárja.",
         "ro": "Cu mașina, puteți ajunge confortabil la punctele de atracție din Lingen. Începeți în centrul istoric și parcați chiar sub piața centrală. După vizitarea primăriei și prânz, conduceți puțin până la paradisul natural Hanekenfähr. Ziua se încheie cu cultură la Muzeul Emsland și o plimbare la Lookentor.",
-        "en": "By car, you can comfortably reach Lingen's highlights. Start in the historic center, parking directly under the market square. After visiting the town hall and lunch, take a short drive to the natural paradise of Hanekenfähr. The day concludes with culture at the Emsland Museum and a stroll at Lookentor."
+        "en": "By car, you can comfortably reach Lingen's highlights. Start in the historic center, parking directly under the market square. After visiting the town hall and lunch, take a short drive to the natural paradise of Hanekenfähr. The day concludes with culture at the Emsland Museum and a stroll at Lookentor.",
+        "tr": "Arabayla Lingen’in önemli noktalarına rahatça ulaşabilirsiniz. Tarihi merkezde başlayın, pazaryerinin altında doğrudan park edin. Belediye binasını ziyaret edip öğle yemeğinden sonra kısa bir sürüşle Hanekenfähr’in doğal cennetine gidin. Gün, Emsland Müzesi’ndeki kültürle ve Lookentor’da bir gezintiyle sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -899,6 +958,12 @@
           "Parking fees are moderate.",
           "You can reach Hanekenfähr in 15 minutes.",
           "Avoid rush hour in the late afternoon."
+        ],
+        "tr": [
+          "Şehrin park rehberlik sistemini kullanın.",
+          "Park ücretleri makuldür.",
+          "Hanekenfähr’e 15 dakikada ulaşabilirsiniz.",
+          "Akşamüstü yoğun saatlerinden kaçının."
         ]
       }
     },
@@ -915,7 +980,8 @@
             "de": "ZOB Lingen (Bahnhof)",
             "hu": "Lingen vasútállomás (ZOB)",
             "ro": "Lingen ZOB (Gară)",
-            "en": "Lingen ZOB (Station)"
+            "en": "Lingen ZOB (Station)",
+            "tr": "Lingen ZOB (İstasyon)"
           },
           "coords": [
             7.3235,
@@ -930,7 +996,8 @@
             "de": "Zentraler Knotenpunkt für alle Buslinien.",
             "hu": "Minden buszjárat központi csomópontja.",
             "ro": "Nod central pentru toate liniile de autobuz.",
-            "en": "Central hub for all bus lines."
+            "en": "Central hub for all bus lines.",
+            "tr": "Tüm otobüs hatlarının merkezi aktarma noktası."
           }
         },
         {
@@ -938,7 +1005,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi Városháza",
             "ro": "Primăria Istorică",
-            "en": "Historic Town Hall"
+            "en": "Historic Town Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             7.3206,
@@ -953,7 +1021,8 @@
             "de": "Kurzer Fußweg vom Marktplatz.",
             "hu": "Rövid séta a főtértől.",
             "ro": "Scurtă plimbare de la piața centrală.",
-            "en": "Short walk from the market square."
+            "en": "Short walk from the market square.",
+            "tr": "Pazar meydanından kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -961,7 +1030,8 @@
             "de": "Mittagessen in der City",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în oraș",
-            "en": "Lunch in the city"
+            "en": "Lunch in the city",
+            "tr": "Şehirde öğle yemeği"
           },
           "coords": [
             7.3202,
@@ -976,7 +1046,8 @@
             "de": "Viele Cafés in unmittelbarer Nähe.",
             "hu": "Számos kávézó a közvetlen közelben.",
             "ro": "Multe cafenele în imediata apropiere.",
-            "en": "Many cafes in the immediate vicinity."
+            "en": "Many cafes in the immediate vicinity.",
+            "tr": "Çevrede birçok kafe var."
           }
         },
         {
@@ -984,7 +1055,8 @@
             "de": "Emslandmuseum",
             "hu": "Emsland Múzeum",
             "ro": "Muzeul Emsland",
-            "en": "Emsland Museum"
+            "en": "Emsland Museum",
+            "tr": "Emsland Müzesi"
           },
           "coords": [
             7.3165,
@@ -999,7 +1071,8 @@
             "de": "Bushaltestelle 'Museum' ganz nah.",
             "hu": "A 'Museum' buszmegálló egészen közel van.",
             "ro": "Stația de autobuz 'Museum' este foarte aproape.",
-            "en": "Bus stop 'Museum' is very close."
+            "en": "Bus stop 'Museum' is very close.",
+            "tr": "'Müze' otobüs durağı çok yakın."
           }
         },
         {
@@ -1007,7 +1080,8 @@
             "de": "Wasserfall Hanekenfähr",
             "hu": "Hanekenfähr vízesés",
             "ro": "Cascada Hanekenfähr",
-            "en": "Hanekenfähr Waterfall"
+            "en": "Hanekenfähr Waterfall",
+            "tr": "Hanekenfähr Şelalesi"
           },
           "coords": [
             7.288,
@@ -1022,7 +1096,8 @@
             "de": "Mit Linie 161/165 erreichbar.",
             "hu": "A 161/165-ös járattal érhető el.",
             "ro": "Accesibil cu liniile 161/165.",
-            "en": "Accessible with line 161/165."
+            "en": "Accessible with line 161/165.",
+            "tr": "161/165 hattıyla ulaşılabilir."
           }
         },
         {
@@ -1030,7 +1105,8 @@
             "de": "Lookentor",
             "hu": "Lookentor kapu",
             "ro": "Poarta Lookentor",
-            "en": "Lookentor Gate"
+            "en": "Lookentor Gate",
+            "tr": "Lookentor Kapısı"
           },
           "coords": [
             7.322,
@@ -1045,7 +1121,8 @@
             "de": "Rückfahrt zum Bahnhof bequem möglich.",
             "hu": "Kényelmes visszautazás az állomásra.",
             "ro": "Întoarcere comodă la gară.",
-            "en": "Easy return to the station."
+            "en": "Easy return to the station.",
+            "tr": "İstasyona kolay dönüş."
           }
         }
       ],
@@ -1053,7 +1130,8 @@
         "de": "Nutzen Sie Lingens Stadtbusse für einen entspannten Tag. Starten Sie am ZOB und erkunden Sie die Altstadt zu Fuß. Nach Kultur und Mittagessen bringt Sie der Bus direkt zum Ausflugsziel Hanekenfähr an der Ems. Am späten Nachmittag kehren Sie zurück ins Zentrum für einen Besuch im Lookentor und die Weiterreise vom Bahnhof.",
         "hu": "Használja Lingen városi buszait a kényelmes felfedezéshez. Kezdjen a központi buszállomáson, majd fedezze fel gyalog az óvárost. A kulturális programok és az ebéd után a busz közvetlenül a Hanekenfähr vízeséshez viszi. Késő délután térjen vissza a központba egy kis vásárlásra a Lookentorhoz, mielőtt továbbutazna.",
         "ro": "Folosiți autobuzele din Lingen pentru o zi relaxantă. Începeți la ZOB și explorați centrul vechi pe jos. După cultură și prânz, autobuzul vă duce direct la destinația Hanekenfähr de pe Ems. Seara, reveniți în centru pentru o vizită la Lookentor și plecarea din gară.",
-        "en": "Use Lingen's city buses for a relaxed day. Start at the central bus station and explore the old town on foot. After culture and lunch, the bus takes you directly to the Hanekenfähr excursion spot on the Ems. In the late afternoon, return to the center for a visit to Lookentor before continuing your journey from the station."
+        "en": "Use Lingen's city buses for a relaxed day. Start at the central bus station and explore the old town on foot. After culture and lunch, the bus takes you directly to the Hanekenfähr excursion spot on the Ems. In the late afternoon, return to the center for a visit to Lookentor before continuing your journey from the station.",
+        "tr": "Rahat bir gün için Lingen’in şehir otobüslerini kullanın. Merkez otobüs durağından başlayıp eski şehri yürüyerek keşfedin. Kültür ve öğle yemeğinin ardından otobüs sizi doğrudan Ems üzerindeki Hanekenfähr gezinti yerine götürür. Akşamüstü dönerken merkeze Lookentor’u ziyaret edin ve ardından istasyondan yolculuğunuza devam edin."
       },
       "gastro_picks": {
         "de": [
@@ -1161,6 +1239,12 @@
           "Buses run on a regular timed schedule.",
           "Hanekenfähr is served regularly.",
           "Schedules are posted at every station."
+        ],
+        "tr": [
+          "LiLi otobüsü için günlük bilet alın.",
+          "Otobüsler düzenli zamanlı sefer yapar.",
+          "Hanekenfähr düzenli olarak servis edilir.",
+          "Saat tarifeleri her istasyonda asılıdır."
         ]
       }
     }

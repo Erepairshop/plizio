@@ -32,7 +32,8 @@
             "de": "Bewundern Sie die klassizistische Architektur von Hansen.",
             "hu": "Csodáld meg Hansen klasszicista építészetét.",
             "ro": "Admirați arhitectura neoclasică a lui Hansen.",
-            "en": "Admire the Neoclassical architecture by Hansen."
+            "en": "Admire the Neoclassical architecture by Hansen.",
+            "tr": "Hansen’in Neoklasik mimarisini hayranlıkla izleyin."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Das Wahrzeichen am Marktplatz, ideal für ein schnelles Foto.",
             "hu": "A piactér jelképe, ideális egy gyors fotóhoz.",
             "ro": "Simbolul pieței centrale, ideal pentru o fotografie rapidă.",
-            "en": "The landmark of the market square, ideal for a quick photo."
+            "en": "The landmark of the market square, ideal for a quick photo.",
+            "tr": "Pazar meydanının simgesi, hızlı bir fotoğraf için ideal."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Genießen Sie das bunte Treiben und die Krabbenkutter.",
             "hu": "Élvezd a nyüzsgést és a rákászhajók látványát.",
             "ro": "Bucurați-vă de agitația portului și de bărcile de pescuit.",
-            "en": "Enjoy the colorful hustle and the shrimp cutters."
+            "en": "Enjoy the colorful hustle and the shrimp cutters.",
+            "tr": "Renkli kalabalığın ve karides satıcılarının tadını çıkarın."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Tauchen Sie ein in die Welt des Dichters der 'Grauen Stadt'.",
             "hu": "Merülj el a 'Szürke város' költőjének világában.",
             "ro": "Explorați lumea poetului 'Orașului gri'.",
-            "en": "Immerse yourself in the world of the poet of the 'Grey City'."
+            "en": "Immerse yourself in the world of the poet of the 'Grey City'.",
+            "tr": "'Gri Şehir' şairinin dünyasına dalın."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Besuchen Sie das Wrack der 'Uelvesbüller Wrack' im Keller.",
             "hu": "Nézd meg az uelvesbülli hajóroncsot az alagsorban.",
             "ro": "Vedeți epava din Uelvesbüll în subsolul muzeului.",
-            "en": "See the Uelvesbüll shipwreck in the basement."
+            "en": "See the Uelvesbüll shipwreck in the basement.",
+            "tr": "Bodrumda Uelvesbüll gemi enkazını görün."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Berühmt für die Krokusblüte im Frühjahr im Schlosspark.",
             "hu": "Híres a tavaszi krókuszvirágzásról a kastélyparkban.",
             "ro": "Faimos pentru înflorirea crocusului primăvara în parcul castelului.",
-            "en": "Famous for the crocus blooming in spring in the castle park."
+            "en": "Famous for the crocus blooming in spring in the castle park.",
+            "tr": "Kale parkında ilkbaharda açan çiğdemleriyle ünlüdür."
           }
         },
         {
@@ -146,7 +152,8 @@
             "de": "Erfahren Sie alles über Rungholt und das Leben am Deich.",
             "hu": "Tudj meg mindent Rungholtról és a gát menti életről.",
             "ro": "Aflați totul despre Rungholt și viața pe dig.",
-            "en": "Learn everything about Rungholt and life on the dike."
+            "en": "Learn everything about Rungholt and life on the dike.",
+            "tr": "Rungholt ve set üstündeki yaşam hakkında her şeyi öğrenin."
           }
         }
       ],
@@ -154,7 +161,8 @@
         "de": "Vormittags erkunden wir das historische Herz rund um die Marienkirche und den idyllischen Binnenhafen. Nachmittags widmen wir uns der Literatur im Storm-Haus und der maritimen Geschichte. Den Abschluss bildet das prächtige Schloss und das NordseeMuseum, bevor wir den Abend bei frischen Krabben am Hafen ausklingen lassen.",
         "hu": "Délelőtt a Marienkirche körüli történelmi magot és az idilli belső kikötőt fedezzük fel. Délután a Storm-ház irodalmának és a tengerészeti történelemnek szenteljük időnket. A napot a pompás kastély és az Északi-tenger Múzeum zárja, mielőtt a kikötőben friss rákokkal búcsúztatnánk az estét.",
         "ro": "Dimineața explorăm centrul istoric din jurul Marienkirche și portul interior idilic. După-amiaza ne dedicăm literaturii în casa lui Storm și istoriei maritime. Ziua se încheie cu splendidul castel și Muzeul Mării Nordului, înainte de a savura o seară cu creveți proaspeți în port.",
-        "en": "In the morning, we explore the historical heart around Marienkirche and the idyllic inner harbor. The afternoon is dedicated to literature in the Storm House and maritime history. We conclude the day with the magnificent castle and the North Sea Museum before ending the evening with fresh shrimp at the harbor."
+        "en": "In the morning, we explore the historical heart around Marienkirche and the idyllic inner harbor. The afternoon is dedicated to literature in the Storm House and maritime history. We conclude the day with the magnificent castle and the North Sea Museum before ending the evening with fresh shrimp at the harbor.",
+        "tr": "Sabah Marienkirche çevresindeki tarihi kalbi ve sakin iç limanı keşfediyoruz. Öğleden sonra Storm Evi’nde edebiyata ve denizcilik tarihine ayrılıyor. Günü muhteşem kale ve Kuzey Deniz Müzesi ile bitirip akşamı limanda taze karideslerle sonlandırıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -314,6 +322,12 @@
           "Watch the tides; the harbor can be almost empty at low tide.",
           "A Pharisäer (coffee with rum) is a must-try.",
           "Wear windproof clothing; there is almost always a breeze."
+        ],
+        "tr": [
+          "Husum kompakt, her şey yürüyerek kolayca ulaşılabilir.",
+          "Gelgitleri gözleyin; liman alçak tide neredeyse boş olabilir.",
+          "Bir Pharisäer (romlu kahve) mutlaka denenmeli.",
+          "Rüzgara dayanıklı kıyafet giyin; neredeyse her zaman esinti vardır."
         ]
       }
     },
@@ -341,7 +355,8 @@
             "de": "Perfekter Startpunkt für die Radtour.",
             "hu": "Tökéletes kiindulópont a kerékpártúrához.",
             "ro": "Punct de plecare perfect pentru turul cu bicicleta.",
-            "en": "Perfect starting point for the bike tour."
+            "en": "Perfect starting point for the bike tour.",
+            "tr": "Bisiklet turu için mükemmel başlangıç noktası."
           }
         },
         {
@@ -360,7 +375,8 @@
             "de": "Kurzer Stopp beim berühmten Dichter.",
             "hu": "Rövid megálló a híres költőnél.",
             "ro": "O scurtă oprire la celebrul poet.",
-            "en": "Short stop at the famous poet's house."
+            "en": "Short stop at the famous poet's house.",
+            "tr": "Ünlü şairin evinde kısa durak."
           }
         },
         {
@@ -379,7 +395,8 @@
             "de": "Radeln Sie entspannt durch den Schlosspark.",
             "hu": "Kerekezz kényelmesen a kastélyparkon keresztül.",
             "ro": "Pedalați relaxat prin parcul castelului.",
-            "en": "Cycle relaxed through the castle park."
+            "en": "Cycle relaxed through the castle park.",
+            "tr": "Kale parkında rahatça bisiklet sürün."
           }
         },
         {
@@ -398,7 +415,8 @@
             "de": "Aussichtspunkt und historisches Denkmal.",
             "hu": "Kilátópont és történelmi emlékmű.",
             "ro": "Punct de observație și monument istoric.",
-            "en": "Viewpoint and historical monument."
+            "en": "Viewpoint and historical monument.",
+            "tr": "Manzara noktası ve tarihi anıt."
           }
         },
         {
@@ -417,7 +435,8 @@
             "de": "Fahrt am Deich mit Blick auf das Wattenmeer.",
             "hu": "Gát menti tekerés kilátással a Watt-tengerre.",
             "ro": "Plimbare pe dig cu vedere la Marea Watt.",
-            "en": "Ride on the dike with a view of the Wadden Sea."
+            "en": "Ride on the dike with a view of the Wadden Sea.",
+            "tr": "Wadden Denizi manzarasıyla set üzerinde sürüş."
           }
         },
         {
@@ -436,7 +455,8 @@
             "de": "Maritimer Ausklang der Tour.",
             "hu": "A túra tengerészeti lezárása.",
             "ro": "Finalul maritim al turului.",
-            "en": "Maritime conclusion of the tour."
+            "en": "Maritime conclusion of the tour.",
+            "tr": "Turun denizcilik sonu."
           }
         }
       ],
@@ -444,7 +464,8 @@
         "de": "Mit dem Rad erkunden wir erst das Zentrum, bevor wir zum Wasserturm und dann weit hinaus an den Dockkoog fahren. Die weite Sicht über das Wattenmeer und die frische Brise am Deich machen diese Tour aus.",
         "hu": "Kerékpárral először a központot fedezzük fel, mielőtt a víztoronyhoz, majd messze ki a Dockkooghoz tekernénk. A Watt-tengerre nyíló tágas kilátás és a gáton fújó friss szellő teszi különlegessé ezt a túrát.",
         "ro": "Cu bicicleta explorăm mai întâi centrul, înainte de a merge la turnul de apă și apoi departe la Dockkoog. Vederea panoramică asupra Mării Watt și briza proaspătă de pe dig definesc acest tur.",
-        "en": "By bike, we first explore the center before cycling to the water tower and then far out to Dockkoog. The wide view over the Wadden Sea and the fresh breeze on the dike define this tour."
+        "en": "By bike, we first explore the center before cycling to the water tower and then far out to Dockkoog. The wide view over the Wadden Sea and the fresh breeze on the dike define this tour.",
+        "tr": "Bisikletle önce merkezi keşfediyor, sonra su kulesine ve Dockkoog’a kadar uzağa pedal çeviriyoruz. Set üzerindeki geniş Wadden Denizi manzarası ve taze esinti bu turu tanımlar."
       },
       "gastro_picks": {
         "de": [
@@ -564,6 +585,11 @@
           "Bicycles can be rented at the train station.",
           "Headwinds on the dike can be very exhausting; E-bikes are recommended.",
           "Use the well-signposted bike paths towards Nordstrand."
+        ],
+        "tr": [
+          "Tren istasyonunda bisiklet kiralanabilir.",
+          "Setteki rüzgarlar çok yorucu olabilir; E-bisikletler önerilir.",
+          "Nordstrand yönündeki iyi işaretlenmiş bisiklet yollarını kullanın."
         ]
       }
     },
@@ -591,7 +617,8 @@
             "de": "Parken am Parkhaus am Hafen.",
             "hu": "Parkolás a kikötői parkolóházban.",
             "ro": "Parcare la etaj în port.",
-            "en": "Parking at the harbor parking garage."
+            "en": "Parking at the harbor parking garage.",
+            "tr": "Liman otopark garajında park edin."
           }
         },
         {
@@ -610,7 +637,8 @@
             "de": "Wenige Gehminuten vom Hafenparkplatz.",
             "hu": "Pár perc séta a kikötői parkolótól.",
             "ro": "Câteva minute de mers pe jos de la parcarea din port.",
-            "en": "A few minutes' walk from the harbor parking lot."
+            "en": "A few minutes' walk from the harbor parking lot.",
+            "tr": "Liman otoparkından birkaç dakikalık yürüme mesafesi."
           }
         },
         {
@@ -629,7 +657,8 @@
             "de": "Erkunden Sie die Altstadtgassen zu Fuß.",
             "hu": "Fedezd fel az óváros utcáit gyalog.",
             "ro": "Explorați străzile orașului vechi pe jos.",
-            "en": "Explore the old town alleys on foot."
+            "en": "Explore the old town alleys on foot.",
+            "tr": "Eski şehir sokaklarını yürüyerek keşfedin."
           }
         },
         {
@@ -648,7 +677,8 @@
             "de": "Parkplatz direkt am Schloss verfügbar.",
             "hu": "Parkoló közvetlenül a kastélynál elérhető.",
             "ro": "Parcare disponibilă direct la castel.",
-            "en": "Parking available directly at the castle."
+            "en": "Parking available directly at the castle.",
+            "tr": "Kalenin hemen yanında park yeri mevcut."
           }
         },
         {
@@ -667,7 +697,8 @@
             "de": "Spaziergang vom Schloss durch die Einkaufsstraße.",
             "hu": "Séta a kastélytól a bevásárlóutcán át.",
             "ro": "Plimbare de la castel prin strada comercială.",
-            "en": "Walk from the castle through the shopping street."
+            "en": "Walk from the castle through the shopping street.",
+            "tr": "Kaleden alışveriş caddesi boyunca yürüyün."
           }
         },
         {
@@ -686,7 +717,8 @@
             "de": "Kurzer Stopp am Rande der Stadt.",
             "hu": "Rövid megálló a város szélén.",
             "ro": "O scurtă oprire la marginea orașului.",
-            "en": "Short stop at the edge of town."
+            "en": "Short stop at the edge of town.",
+            "tr": "Kasaba dışındaki kısa mola."
           }
         },
         {
@@ -705,7 +737,8 @@
             "de": "Großer Parkplatz am Deich, ideal für Nordsee-Blick.",
             "hu": "Nagy parkoló a gátnál, ideális kilátás az Északi-tengerre.",
             "ro": "Parcare mare la dig, ideală pentru vederea la Marea Nordului.",
-            "en": "Large parking lot at the dike, ideal for North Sea views."
+            "en": "Large parking lot at the dike, ideal for North Sea views.",
+            "tr": "Sette büyük otopark, Kuzey Denizi manzaraları için ideal."
           }
         }
       ],
@@ -713,7 +746,8 @@
         "de": "Mit dem Auto verbinden wir die Highlights des Zentrums mit den Außenbezirken. Wir parken zentral für den Hafen und das Storm-Haus, wechseln dann zum Schloss und fahren schließlich zum Wasserturm und direkt an die Nordsee am Dockkoog.",
         "hu": "Autóval összekötjük a központ fénypontjait a külső negyedekkel. Központi helyen parkolunk a kikötőhöz és a Storm-házhoz, majd átváltunk a kastélyhoz, végül a víztoronyhoz és közvetlenül az Északi-tengerhez hajtunk a Dockkoognál.",
         "ro": "Cu mașina conectăm atracțiile centrului cu zonele exterioare. Parcăm central pentru port și casa lui Storm, apoi ne mutăm la castel și în final mergem la turnul de apă și direct la Marea Nordului la Dockkoog.",
-        "en": "By car, we connect the highlights of the center with the outskirts. We park centrally for the harbor and Storm House, then move to the castle and finally drive to the water tower and directly to the North Sea at Dockkoog."
+        "en": "By car, we connect the highlights of the center with the outskirts. We park centrally for the harbor and Storm House, then move to the castle and finally drive to the water tower and directly to the North Sea at Dockkoog.",
+        "tr": "Arabayla merkezdeki ve dış mahallelerdeki önemli noktaları birleştiriyoruz. Liman ve Storm Evi için merkezi park ediyor, sonra kaleye geçiyor ve son olarak su kulesine ve Dockkoog’taki Kuzey Denizi’ne sürüyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -817,6 +851,11 @@
           "Parking in the center is paid; use parking garages.",
           "The road to Dockkoog is well-developed.",
           "During peak season, the harbor street can get crowded."
+        ],
+        "tr": [
+          "Merkezde park ücretlidir; otopark garajlarını kullanın.",
+          "Dockkoog yolunun altyapısı iyi durumda.",
+          "Yoğun sezonda liman caddesi kalabalık olabilir."
         ]
       }
     },
@@ -844,7 +883,8 @@
             "de": "Der Bahnhof liegt sehr nah am Hafen.",
             "hu": "A vasútállomás nagyon közel van a kikötőhöz.",
             "ro": "Gara este foarte aproape de port.",
-            "en": "The train station is very close to the harbor."
+            "en": "The train station is very close to the harbor.",
+            "tr": "Tren istasyonu limana çok yakın."
           }
         },
         {
@@ -863,7 +903,8 @@
             "de": "Zu Fuß durch die Fußgängerzone vom Hafen.",
             "hu": "Gyalog a sétálóutcán át a kikötőtől.",
             "ro": "Pe jos prin zona pietonală de la port.",
-            "en": "On foot through the pedestrian zone from the harbor."
+            "en": "On foot through the pedestrian zone from the harbor.",
+            "tr": "Liman’dan yaya bölgesi boyunca yürüyerek geçin."
           }
         },
         {
@@ -882,7 +923,8 @@
             "de": "Stadtbus-Linie 1061 Richtung Schloss.",
             "hu": "1061-es városi busz a kastély felé.",
             "ro": "Linia de autobuz 1061 spre castel.",
-            "en": "City bus line 1061 towards the castle."
+            "en": "City bus line 1061 towards the castle.",
+            "tr": "Kale yönüne giden 1061 şehir otobüs hattı."
           }
         },
         {
@@ -901,7 +943,8 @@
             "de": "Kurzer Fußweg vom Schlosspark.",
             "hu": "Rövid séta a kastélyparktól.",
             "ro": "Scurtă plimbare de la parcul castelului.",
-            "en": "Short walk from the castle park."
+            "en": "Short walk from the castle park.",
+            "tr": "Kale parkından kısa yürüyüş mesafesi."
           }
         },
         {
@@ -920,7 +963,8 @@
             "de": "Bus zurück Richtung Hafen nutzen.",
             "hu": "Használd a buszt vissza a kikötő felé.",
             "ro": "Folosiți autobuzul înapoi spre port.",
-            "en": "Use the bus back towards the harbor."
+            "en": "Use the bus back towards the harbor.",
+            "tr": "Limana geri dönmek için otobüsü kullanın."
           }
         }
       ],
@@ -928,7 +972,8 @@
         "de": "Vom Bahnhof aus nutzen wir die kurzen Wege und den Stadtbus. Wir besuchen den Hafen und die Kirche im Zentrum, nehmen dann den Bus zum Schloss und erkunden die Museen der Stadt, bevor es zurück zum Bahnhof geht.",
         "hu": "A vasútállomásról indulva a rövid utakat és a városi buszt használjuk. Meglátogatjuk a kikötőt és a templomot a központban, majd busszal megyünk a kastélyhoz és felfedezzük a város múzeumait, mielőtt visszatérnénk az állomásra.",
         "ro": "Plecând de la gară, folosim distanțele scurte și autobuzul urban. Vizităm portul și biserica din centru, apoi luăm autobuzul spre castel și explorăm muzeele orașului înainte de a ne întoarce la gară.",
-        "en": "Starting from the train station, we use the short distances and the city bus. We visit the harbor and church in the center, then take the bus to the castle and explore the city's museums before returning to the station."
+        "en": "Starting from the train station, we use the short distances and the city bus. We visit the harbor and church in the center, then take the bus to the castle and explore the city's museums before returning to the station.",
+        "tr": "Tren istasyonundan başlayarak kısa mesafeleri ve şehir otobüsünü kullanıyoruz. Merkezde limanı ve kiliseyi ziyaret edip sonra kaleye giden otobüse biniyor ve şehrin müzelerini gezip istasyona geri dönüyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -1032,6 +1077,11 @@
           "Buses usually run every 30 minutes.",
           "A day ticket is worthwhile for groups.",
           "Many paths in the center are fastest on foot, even when using public transit."
+        ],
+        "tr": [
+          "Otobüsler genellikle her 30 dakikada bir çalışır.",
+          "Gruplar için günlük bilet kârlıdır.",
+          "Merkezdeki birçok yol, toplu taşıma kullansanız bile yürüyerek daha hızlıdır."
         ]
       }
     }

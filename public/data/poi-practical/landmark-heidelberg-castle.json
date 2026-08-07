@@ -3,55 +3,64 @@
     "de": "Schlosshof 1, 69117 Heidelberg",
     "hu": "Schlosshof 1, 69117 Heidelberg",
     "ro": "Schlosshof 1, 69117 Heidelberg",
-    "en": "Schlosshof 1, 69117 Heidelberg"
+    "en": "Schlosshof 1, 69117 Heidelberg",
+    "tr": "Schlosshof 1, 69117 Heidelberg"
   },
   "openingHours": {
     "de": "Schlosshof & Fasskeller 08:00-18:00",
     "hu": "Várudvar & Hordópince 08:00-18:00",
     "ro": "Curtea castelului & pivnița de butoaie 08:00-18:00",
-    "en": "Castle courtyard & barrel cellar 08:00-18:00"
+    "en": "Castle courtyard & barrel cellar 08:00-18:00",
+    "tr": "Şato avlusu ve fıçı mahzeni 08:00-18:00"
   },
   "entranceFee": {
     "de": "Schloßticket ca. 9,00 € (inkl. Bergbahn und Fasskeller)",
     "hu": "Várjegy kb. 9,00 € (tartalmazza a hegyi vasutat és a hordópincét)",
     "ro": "Bilet castel aprox. 9,00 € (incl. funicularul și pivnița)",
-    "en": "Castle ticket approx. €9.00 (incl. mountain railway and barrel cellar)"
+    "en": "Castle ticket approx. €9.00 (incl. mountain railway and barrel cellar)",
+    "tr": "Şato bileti yaklaşık €9,00 (dağ trenine ve fıçı mahzenine dahil)"
   },
   "website": "https://www.schloss-heidelberg.de",
   "publicTransport": {
     "de": "Bus 33 bis Haltestelle Bergbahn",
     "hu": "33-as busz a Bergbahn megállóig",
     "ro": "Autobuz 33 până la stația Bergbahn",
-    "en": "Bus 33 to Bergbahn stop"
+    "en": "Bus 33 to Bergbahn stop",
+    "tr": "33 numaralı otobüs ile Bergbahn durağına"
   },
   "parking": {
     "de": "Parkhaus P12 Kornmarkt, von dort mit der Bergbahn nach oben",
     "hu": "P12 Kornmarkt parkolóház, onnan a hegyi vasúttal fel",
     "ro": "Parcare P12 Kornmarkt, de acolo cu funicularul în sus",
-    "en": "Parking garage P12 Kornmarkt, from there take the mountain railway up"
+    "en": "Parking garage P12 Kornmarkt, from there take the mountain railway up",
+    "tr": "P12 Kornmarkt otopark garajı, oradan dağ trenine binin"
   },
   "accessibility": {
     "de": "Schlosshof durch Kopfsteinpflaster mühsam, spezielle Rollstuhltouren möglich",
     "hu": "A várudvar a macskakövek miatt nehézkes, különleges kerekesszékes túrák lehetségesek",
     "ro": "Curtea castelului dificilă din cauza pavajului, posibile tururi speciale pentru scaune cu rotile",
-    "en": "Castle courtyard difficult due to cobblestones, special wheelchair tours possible"
+    "en": "Castle courtyard difficult due to cobblestones, special wheelchair tours possible",
+    "tr": "Şato avlusu taş döşeme nedeniyle zor, özel tekerlekli sandalye turları mümkün"
   },
   "photoRules": {
     "de": "Außenaufnahmen frei, in den Innenräumen (nur Führung) oft verboten",
     "hu": "Külső fotók szabadok, a belső terekben (csak vezetéssel) gyakran tilos",
     "ro": "Fotografii exterioare libere, adesea interzise în interior (doar cu ghid)",
-    "en": "Exterior shots free, often forbidden in the interior (only with guided tour)"
+    "en": "Exterior shots free, often forbidden in the interior (only with guided tour)",
+    "tr": "Dış çekimler ücretsiz, iç mekânlarda genellikle yasak (sadece rehberli tur ile)"
   },
   "bestTimeToVisit": {
     "de": "Am späten Nachmittag für den goldenen Blick auf die Altstadt",
     "hu": "Késő délután, az óvárosra nyíló arany kilátásért",
     "ro": "După-amiaza târziu pentru vederea aurie asupra centrului vechi",
-    "en": "Late afternoon for the golden view of the Old Town"
+    "en": "Late afternoon for the golden view of the Old Town",
+    "tr": "Eski Şehir’in altın manzarası için geç öğleden sonra"
   },
   "audioGuide": {
     "de": "ja, in 11 Sprachen gegen Gebühr am Eingang erhältlich",
     "hu": "igen, 11 nyelven, díj ellenében a bejáratnál",
     "ro": "da, disponibil în 11 limbi contra cost la intrare",
-    "en": "yes, available in 11 languages for a fee at the entrance"
+    "en": "yes, available in 11 languages for a fee at the entrance",
+    "tr": "Evet, girişte ücret karşılığında 11 dilde mevcut"
   }
 }

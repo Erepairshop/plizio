@@ -21,7 +21,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             54.1953,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die schiere Größe – es ist der größte Marktplatz Deutschlands.",
             "hu": "Csodálja meg a méretét – ez Németország legnagyobb piactere.",
             "ro": "Admirați dimensiunea sa – este cea mai mare piață din Germania.",
-            "en": "Admire the sheer scale – it is the largest marketplace in Germany."
+            "en": "Admire the sheer scale – it is the largest marketplace in Germany.",
+            "tr": "Boyutuna hayran kalacaksınız – Almanya’nın en büyük pazar yeridir."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St. Jürgen Kirche",
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
-            "en": "St. Jürgen Church"
+            "en": "St. Jürgen Church",
+            "tr": "Aziz Jürgen Kilisesi"
           },
           "coords": [
             54.1965,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie das Innere dieser historischen spätgotischen Kirche am Markt.",
             "hu": "Látogasson el a piac melletti késő gótikus templom belsejébe.",
             "ro": "Vizitați interiorul acestei biserici gotice târzii de lângă piață.",
-            "en": "Visit the interior of this historic late Gothic church by the market."
+            "en": "Visit the interior of this historic late Gothic church by the market.",
+            "tr": "Pazar yanındaki bu tarihî geç gotik kilisenin içini ziyaret edin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Altes Pastorat",
             "hu": "Régi Lelkészlak",
             "ro": "Vechiul Pastorat",
-            "en": "Old Pastorate"
+            "en": "Old Pastorate",
+            "tr": "Eski Pastörlük"
           },
           "coords": [
             54.1968,
@@ -82,7 +87,8 @@
             "de": "Eines der ältesten erhaltenen Gebäude der Stadt mit schöner Architektur.",
             "hu": "A város egyik legrégebbi fennmaradt épülete szép építészettel.",
             "ro": "Una dintre cele mai vechi clădiri conservate din oraș, cu o arhitectură frumoasă.",
-            "en": "One of the oldest surviving buildings in the city with beautiful architecture."
+            "en": "One of the oldest surviving buildings in the city with beautiful architecture.",
+            "tr": "Güzel mimariye sahip şehrin ayakta kalan en eski binalarından biri."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museumsinsel Lüttenheid",
             "hu": "Lüttenheid Múzeumsziget",
             "ro": "Insula Muzeelor Lüttenheid",
-            "en": "Museum Island Lüttenheid"
+            "en": "Museum Island Lüttenheid",
+            "tr": "Müze Adası Lüttenheid"
           },
           "coords": [
             54.1975,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie das Brahms-Haus und das Klaus-Groth-Museum in diesem Viertel.",
             "hu": "Fedezze fel a Brahms-házat és a Klaus Groth Múzeumot ebben a negyedben.",
             "ro": "Descoperiți Casa Brahms și Muzeul Klaus Groth în acest cartier.",
-            "en": "Explore the Brahms House and Klaus Groth Museum in this district."
+            "en": "Explore the Brahms House and Klaus Groth Museum in this district.",
+            "tr": "Bu semtte Brahms Evi ve Klaus Groth Müzesi’ni keşfedin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Marktpirat (Gastro)",
             "hu": "Marktpirat Étterem",
             "ro": "Restaurantul Marktpirat",
-            "en": "Marktpirat Restaurant"
+            "en": "Marktpirat Restaurant",
+            "tr": "Marktpirat Restoranı"
           },
           "coords": [
             54.195,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie regionale Dithmarscher Spezialitäten direkt am Markt.",
             "hu": "Élvezze a regionális Dithmarscher specialitásokat közvetlenül a piacon.",
             "ro": "Bucurați-vă de specialități regionale Dithmarscher chiar în piață.",
-            "en": "Enjoy regional Dithmarscher specialties right at the market."
+            "en": "Enjoy regional Dithmarscher specialties right at the market.",
+            "tr": "Tam pazar yerinde bölgesel Dithmarscher lezzetlerinin tadını çıkarın."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Dithmarscher Landesmuseum",
             "hu": "Dithmarscher Tartományi Múzeum",
             "ro": "Muzeul Regional Dithmarscher",
-            "en": "Dithmarscher Regional Museum"
+            "en": "Dithmarscher Regional Museum",
+            "tr": "Dithmarscher Bölge Müzesi"
           },
           "coords": [
             54.1935,
@@ -151,7 +162,8 @@
             "de": "Lernen Sie die spannende Geschichte der Bauernrepublik Dithmarschen kennen.",
             "hu": "Ismerje meg a Dithmarscheni Parasztreztársaság izgalmas történetét.",
             "ro": "Aflați istoria fascinantă a republicii țărănești Dithmarschen.",
-            "en": "Learn about the exciting history of the Dithmarschen peasant republic."
+            "en": "Learn about the exciting history of the Dithmarschen peasant republic.",
+            "tr": "Dithmarschen köylü cumhuriyetinin heyecan verici tarihini öğrenin."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Heider Wasserturm",
             "hu": "Heidei Víztorony",
             "ro": "Turnul de Apă din Heide",
-            "en": "Heide Water Tower"
+            "en": "Heide Water Tower",
+            "tr": "Heide Su Kulesi"
           },
           "coords": [
             54.1925,
@@ -174,7 +187,8 @@
             "de": "Das Wahrzeichen der Stadt steht in einer gepflegten Parkanlage.",
             "hu": "A város jelképe egy gondozott parkban található.",
             "ro": "Simbolul orașului se află într-o zonă de parc bine întreținută.",
-            "en": "The city's landmark stands in a well-kept park area."
+            "en": "The city's landmark stands in a well-kept park area.",
+            "tr": "Şehrin simgesi bakımlı bir park alanında bulunur."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem gewaltigen Marktplatz, dem Herzstück von Heide. Nach einem Besuch der spätgotischen St. Jürgen Kirche tauchen Sie in die Kulturgeschichte auf der Museumsinsel Lüttenheid ein. Der Nachmittag gehört der Regionalgeschichte im Landesmuseum, bevor Sie den Tag entspannt am markanten Wasserturm ausklingen lassen.",
         "hu": "Kezdje a napot a hatalmas Piactéren, Heide szívében. A késő gótikus Szent György-templom megtekintése után merüljön el a kultúrtörténetben a Lüttenheid Múzeumszigeten. A délután a tartományi múzeumé, majd a napot a város jelképénél, a víztoronynál zárhatja egy kellemes séta keretében.",
         "ro": "Începeți ziua în uriașa Piață a Pieței, inima orașului Heide. După o vizită la biserica gotică târzie Sf. Gheorghe, scufundați-vă în istoria culturală pe Insula Muzeelor Lüttenheid. După-amiaza este dedicată istoriei regionale la Muzeul Landului, înainte de a încheia ziua relaxat la emblematicul Turn de Apă.",
-        "en": "Start your day at the massive Market Square, the centerpiece of Heide. After visiting the late Gothic St. Jürgen Church, dive into cultural history on Museum Island Lüttenheid. The afternoon is dedicated to regional history at the Landesmuseum, before ending the day in a relaxed manner at the iconic Water Tower."
+        "en": "Start your day at the massive Market Square, the centerpiece of Heide. After visiting the late Gothic St. Jürgen Church, dive into cultural history on Museum Island Lüttenheid. The afternoon is dedicated to regional history at the Landesmuseum, before ending the day in a relaxed manner at the iconic Water Tower.",
+        "tr": "Gününüzü devasa Pazar Meydanı’nda başlatın; Heide’nin merkezidir. Geç gotik Aziz Jürgen Kilisesi’ni ziyaret ettikten sonra Müze Adası Lüttenheid’de kültürel tarihe dalın. Öğleden sonra Landesmuseum’da bölgesel tarihe ayrılır; günü ikonik Su Kulesi’nde rahatlayarak bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -282,6 +297,10 @@
         "en": [
           "Heide is flat and compact, ideal for exploring on foot.",
           "Saturday is market day - a must-see!"
+        ],
+        "tr": [
+          "Heide düzdür ve kompakt yapıda, yürüyerek keşfetmek için ideal.",
+          "Cumartesi pazar günü — mutlaka görülmeli!"
         ]
       }
     },
@@ -298,7 +317,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             54.1953,
@@ -313,7 +333,8 @@
             "de": "Der perfekte Startpunkt für jede Tour.",
             "hu": "Tökéletes kiindulópont minden túrához.",
             "ro": "Punctul de plecare perfect pentru orice tur.",
-            "en": "The perfect starting point for any tour."
+            "en": "The perfect starting point for any tour.",
+            "tr": "Her turun mükemmel başlangıç noktası."
           }
         },
         {
@@ -321,7 +342,8 @@
             "de": "Museumsinsel Lüttenheid",
             "hu": "Lüttenheid Múzeumsziget",
             "ro": "Insula Muzeelor Lüttenheid",
-            "en": "Museum Island Lüttenheid"
+            "en": "Museum Island Lüttenheid",
+            "tr": "Müze Adası Lüttenheid"
           },
           "coords": [
             54.1975,
@@ -336,7 +358,8 @@
             "de": "Kulturelles Zentrum der Stadt.",
             "hu": "A város kulturális központja.",
             "ro": "Centrul cultural al orașului.",
-            "en": "Cultural center of the city."
+            "en": "Cultural center of the city.",
+            "tr": "Şehrin kültür merkezi."
           }
         },
         {
@@ -344,7 +367,8 @@
             "de": "Heider Wasserturm",
             "hu": "Heidei Víztorony",
             "ro": "Turnul de Apă din Heide",
-            "en": "Heide Water Tower"
+            "en": "Heide Water Tower",
+            "tr": "Heide Su Kulesi"
           },
           "coords": [
             54.1925,
@@ -359,7 +383,8 @@
             "de": "Schöner Stopp im Grünen.",
             "hu": "Szép megálló a zöldben.",
             "ro": "O oprire frumoasă în natură.",
-            "en": "Beautiful stop in the greenery."
+            "en": "Beautiful stop in the greenery.",
+            "tr": "Yeşillikler içinde güzel bir mola noktası."
           }
         },
         {
@@ -367,7 +392,8 @@
             "de": "Landgasthof (Umland)",
             "hu": "Vidéki Fogadó",
             "ro": "Han rural",
-            "en": "Country Inn"
+            "en": "Country Inn",
+            "tr": "Taşra Hanı"
           },
           "coords": [
             54.215,
@@ -382,7 +408,8 @@
             "de": "Pause bei einer Radtour durch die Marsch.",
             "hu": "Pihenő a mocsárvidéki kerékpártúra során.",
             "ro": "Pauză în timpul unui tur cu bicicleta prin mlaștină.",
-            "en": "Break during a bike tour through the marshlands."
+            "en": "Break during a bike tour through the marshlands.",
+            "tr": "Bataklıklar boyunca bisiklet turu sırasında mola."
           }
         },
         {
@@ -390,7 +417,8 @@
             "de": "Dithmarscher Landesmuseum",
             "hu": "Dithmarscher Tartományi Múzeum",
             "ro": "Muzeul Regional Dithmarscher",
-            "en": "Dithmarscher Regional Museum"
+            "en": "Dithmarscher Regional Museum",
+            "tr": "Dithmarscher Bölge Müzesi"
           },
           "coords": [
             54.1935,
@@ -405,7 +433,8 @@
             "de": "Ein tiefer Einblick in die Region.",
             "hu": "Mély betekintés a régióba.",
             "ro": "O incursiune profundă în regiune.",
-            "en": "A deep look into the region."
+            "en": "A deep look into the region.",
+            "tr": "Bölgeye derin bir bakış."
           }
         },
         {
@@ -413,7 +442,8 @@
             "de": "Altes Pastorat",
             "hu": "Régi Lelkészlak",
             "ro": "Vechiul Pastorat",
-            "en": "Old Pastorate"
+            "en": "Old Pastorate",
+            "tr": "Eski Pastoral Konut"
           },
           "coords": [
             54.1968,
@@ -428,7 +458,8 @@
             "de": "Historisches Finale der Tour.",
             "hu": "A túra történelmi fináléja.",
             "ro": "Finalul istoric al turului.",
-            "en": "Historical finale of the tour."
+            "en": "Historical finale of the tour.",
+            "tr": "Turun tarihi finali."
           }
         }
       ],
@@ -436,7 +467,8 @@
         "de": "Erkunden Sie Heide und das flache Umland mit dem Fahrrad. Nach den kulturellen Highlights in der Stadtmitte führt Sie die Tour ein Stück hinaus in die typische Dithmarscher Landschaft, bevor Sie am Nachmittag ins Landesmuseum zurückkehren.",
         "hu": "Fedezze fel Heidét és a sík környéket kerékpárral. A városközpont kulturális látnivalói után a túra kivezeti Önt a jellegzetes Dithmarscheni tájra, majd délután visszatér a tartományi múzeumba.",
         "ro": "Explorați Heide și împrejurimile plate cu bicicleta. După atracțiile culturale din centrul orașului, turul vă poartă puțin în peisajul tipic din Dithmarschen, înainte de a reveni la Muzeul Landului după-amiaza.",
-        "en": "Explore Heide and the flat surroundings by bike. After the cultural highlights in the city center, the tour takes you out into the typical Dithmarschen landscape before returning to the Landesmuseum in the afternoon."
+        "en": "Explore Heide and the flat surroundings by bike. After the cultural highlights in the city center, the tour takes you out into the typical Dithmarschen landscape before returning to the Landesmuseum in the afternoon.",
+        "tr": "Heide ve düzlük çevresini bisikletle keşfedin. Şehir merkezindeki kültürel noktaların ardından tur sizi tipik Dithmarschen manzarasına çıkarır ve öğleden sonra Landesmuseum’a geri döner."
       },
       "gastro_picks": {
         "de": [
@@ -536,6 +568,10 @@
         "en": [
           "Use the well-signposted cycle paths.",
           "Watch out for the wind – it often blows hard in the marshes."
+        ],
+        "tr": [
+          "İyi işaretlenmiş bisiklet yollarını kullanın.",
+          "Rüzgara dikkat edin — bataklıklarda sık sık sert eser."
         ]
       }
     },
@@ -552,7 +588,8 @@
             "de": "Marktplatz (Cluster A)",
             "hu": "Piactér (A csoport)",
             "ro": "Piața Mare (Cluster A)",
-            "en": "Market Square (Cluster A)"
+            "en": "Market Square (Cluster A)",
+            "tr": "Pazar Meydanı (Küme A)"
           },
           "coords": [
             54.1953,
@@ -567,7 +604,8 @@
             "de": "Parken Sie zentral am Markt.",
             "hu": "Parkoljon központilag a piacon.",
             "ro": "Parcați central în piață.",
-            "en": "Park centrally at the market."
+            "en": "Park centrally at the market.",
+            "tr": "Pazarda merkezi olarak park edin."
           }
         },
         {
@@ -575,7 +613,8 @@
             "de": "St. Jürgen Kirche",
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
-            "en": "St. Jürgen Church"
+            "en": "St. Jürgen Church",
+            "tr": "St. Jürgen Kilisesi"
           },
           "coords": [
             54.1965,
@@ -590,7 +629,8 @@
             "de": "Kurzer Spaziergang vom Parkplatz.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking lot."
+            "en": "Short walk from the parking lot.",
+            "tr": "Otoparktan kısa bir yürüme mesafesinde."
           }
         },
         {
@@ -598,7 +638,8 @@
             "de": "Museumsinsel Lüttenheid",
             "hu": "Lüttenheid Múzeumsziget",
             "ro": "Insula Muzeelor Lüttenheid",
-            "en": "Museum Island Lüttenheid"
+            "en": "Museum Island Lüttenheid",
+            "tr": "Müze Adası Lüttenheid"
           },
           "coords": [
             54.1975,
@@ -613,7 +654,8 @@
             "de": "Zu Fuß erreichbar innerhalb des Clusters.",
             "hu": "Gyalogosan elérhető a csoporton belül.",
             "ro": "Accesibil pe jos în cadrul clusterului.",
-            "en": "Accessible on foot within the cluster."
+            "en": "Accessible on foot within the cluster.",
+            "tr": "Küme içinden yürüyerek ulaşılabilir."
           }
         },
         {
@@ -621,7 +663,8 @@
             "de": "Meldorfer Dom (Cluster B)",
             "hu": "Meldorfi Dóm (B csoport)",
             "ro": "Domul din Meldorf (Cluster B)",
-            "en": "Meldorf Cathedral (Cluster B)"
+            "en": "Meldorf Cathedral (Cluster B)",
+            "tr": "Meldorf Katedrali (Küme B)"
           },
           "coords": [
             54.0905,
@@ -636,7 +679,8 @@
             "de": "Ein imposanter 'Dom' in der Nachbarstadt.",
             "hu": "Egy impozáns 'dóm' a szomszédos városban.",
             "ro": "O catedrală impunătoare în orașul vecin.",
-            "en": "An impressive 'cathedral' in the neighboring town."
+            "en": "An impressive 'cathedral' in the neighboring town.",
+            "tr": "Komşu kasabadaki etkileyici bir 'katedral'."
           }
         },
         {
@@ -644,7 +688,8 @@
             "de": "Mittagessen in Meldorf",
             "hu": "Ebéd Meldorfban",
             "ro": "Prânz în Meldorf",
-            "en": "Lunch in Meldorf"
+            "en": "Lunch in Meldorf",
+            "tr": "Meldorf’ta öğle yemeği"
           },
           "coords": [
             54.091,
@@ -659,7 +704,8 @@
             "de": "Gemütliche Lokale rund um den Domplatz.",
             "hu": "Hangulatos éttermek a dóm tér körül.",
             "ro": "Localuri primitoare în jurul pieței catedralei.",
-            "en": "Cozy places around the cathedral square."
+            "en": "Cozy places around the cathedral square.",
+            "tr": "Katedral meydanı çevresinde samimi mekanlar."
           }
         },
         {
@@ -667,7 +713,8 @@
             "de": "Heider Wasserturm (Cluster C)",
             "hu": "Heidei Víztorony (C csoport)",
             "ro": "Turnul de Apă din Heide (Cluster C)",
-            "en": "Heide Water Tower (Cluster C)"
+            "en": "Heide Water Tower (Cluster C)",
+            "tr": "Heide Su Kulesi (Küme C)"
           },
           "coords": [
             54.1925,
@@ -682,7 +729,8 @@
             "de": "Zurück in Heide am Wahrzeichen parken.",
             "hu": "Vissza Heidében, parkoljon a jelképnél.",
             "ro": "Înapoi în Heide, parcați lângă simbolul orașului.",
-            "en": "Back in Heide, park by the landmark."
+            "en": "Back in Heide, park by the landmark.",
+            "tr": "Heide’ye geri dönüp simge yapının yanında park edin."
           }
         },
         {
@@ -690,7 +738,8 @@
             "de": "Dithmarscher Landesmuseum",
             "hu": "Dithmarscher Tartományi Múzeum",
             "ro": "Muzeul Regional Dithmarscher",
-            "en": "Dithmarscher Regional Museum"
+            "en": "Dithmarscher Regional Museum",
+            "tr": "Dithmarscher Bölge Müzesi"
           },
           "coords": [
             54.1935,
@@ -705,7 +754,8 @@
             "de": "Kurzer Fußweg vom Wasserturm.",
             "hu": "Rövid gyalogút a víztoronytól.",
             "ro": "Scurtă plimbare de la Turnul de Apă.",
-            "en": "Short walk from the water tower."
+            "en": "Short walk from the water tower.",
+            "tr": "Su kulesinden kısa yürüme mesafesinde."
           }
         }
       ],
@@ -713,7 +763,8 @@
         "de": "Nutzen Sie das Auto für einen kombinierten Ausflug. Vormittags erkunden Sie das Zentrum von Heide zu Fuß ab dem Marktplatz. Ein kleiner Roadtrip führt Sie zum imposanten Dom in Meldorf, bevor Sie den Nachmittag wieder in Heide am Wasserturm und dem Landesmuseum verbringen.",
         "hu": "Használja az autót egy kombinált kiránduláshoz. Délelőtt fedezze fel Heide központját gyalogosan a Piactérről indulva. Egy kis autós túra elviszi az impozáns meldorfi dómhoz, majd a délutánt ismét Heidében, a víztoronynál és a tartományi múzeumban töltheti.",
         "ro": "Folosiți mașina pentru o excursie combinată. Dimineața explorați centrul orașului Heide pe jos din Piața Mare. O scurtă călătorie vă duce la catedrala impunătoare din Meldorf, înainte de a petrece după-amiaza din nou în Heide, la Turnul de Apă și Muzeul Landului.",
-        "en": "Use the car for a combined trip. In the morning, explore the center of Heide on foot from the Market Square. A small road trip takes you to the impressive cathedral in Meldorf before spending the afternoon back in Heide at the Water Tower and the Landesmuseum."
+        "en": "Use the car for a combined trip. In the morning, explore the center of Heide on foot from the Market Square. A small road trip takes you to the impressive cathedral in Meldorf before spending the afternoon back in Heide at the Water Tower and the Landesmuseum.",
+        "tr": "Kombine bir gezi için arabayı kullanın. Sabah Market Meydanı’ndan yürüyerek Heide’nin merkezini keşfedin. Küçük bir yol gezisi sizi Meldorf’daki etkileyici katedrale götürür, öğleden sonra ise Heide’de Su Kulesi ve Landesmuseum’da vakit geçirin."
       },
       "gastro_picks": {
         "de": [
@@ -813,6 +864,10 @@
         "en": [
           "Parking spaces are plentiful at the Market Square.",
           "Combine Heide with a trip to the North Sea."
+        ],
+        "tr": [
+          "Pazar Meydanı’nda bol park yeri vardır.",
+          "Heide’yi Kuzey Denizi’ne bir geziyle birleştirin."
         ]
       }
     },
@@ -829,7 +884,8 @@
             "de": "Heide Bahnhof",
             "hu": "Heide Vasútállomás",
             "ro": "Gara Heide",
-            "en": "Heide Station"
+            "en": "Heide Station",
+            "tr": "Heide İstasyonu"
           },
           "coords": [
             54.192,
@@ -844,7 +900,8 @@
             "de": "Zentraler Ankunftspunkt mit Busanschlüssen.",
             "hu": "Központi érkezési pont buszcsatlakozásokkal.",
             "ro": "Punct central de sosire cu conexiuni de autobuz.",
-            "en": "Central arrival point with bus connections."
+            "en": "Central arrival point with bus connections.",
+            "tr": "Otobüs bağlantılarıyla merkezi varış noktası."
           }
         },
         {
@@ -852,7 +909,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             54.1953,
@@ -867,7 +925,8 @@
             "de": "Mit dem Bus direkt ins Herz der Stadt.",
             "hu": "Busszal közvetlenül a város szívébe.",
             "ro": "Cu autobuzul direct în inima orașului.",
-            "en": "By bus directly into the heart of the city."
+            "en": "By bus directly into the heart of the city.",
+            "tr": "Otobüsle doğrudan şehrin kalbine."
           }
         },
         {
@@ -875,7 +934,8 @@
             "de": "St. Jürgen Kirche",
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
-            "en": "St. Jürgen Church"
+            "en": "St. Jürgen Church",
+            "tr": "St. Jürgen Kilisesi"
           },
           "coords": [
             54.1965,
@@ -890,7 +950,8 @@
             "de": "Nur ein kurzer Weg vom Marktplatz.",
             "hu": "Csak egy rövid út a piactérről.",
             "ro": "La doar o scurtă distanță de Piața Mare.",
-            "en": "Just a short walk from the market square."
+            "en": "Just a short walk from the market square.",
+            "tr": "Pazar meydanından sadece kısa bir yürüyüş."
           }
         },
         {
@@ -898,7 +959,8 @@
             "de": "Museumsinsel Lüttenheid",
             "hu": "Lüttenheid Múzeumsziget",
             "ro": "Insula Muzeelor Lüttenheid",
-            "en": "Museum Island Lüttenheid"
+            "en": "Museum Island Lüttenheid",
+            "tr": "Müze Adası Lüttenheid"
           },
           "coords": [
             54.1975,
@@ -913,7 +975,8 @@
             "de": "Gequirlte Geschichte zu Fuß erreichbar.",
             "hu": "Sűrű történelem gyalogosan elérhető közelségben.",
             "ro": "Istorie densă accesibilă pe jos.",
-            "en": "Dense history reachable on foot."
+            "en": "Dense history reachable on foot.",
+            "tr": "Yürüyerek ulaşılabilen yoğun tarih."
           }
         },
         {
@@ -921,7 +984,8 @@
             "de": "Heider Wasserturm",
             "hu": "Heidei Víztorony",
             "ro": "Turnul de Apă din Heide",
-            "en": "Heide Water Tower"
+            "en": "Heide Water Tower",
+            "tr": "Heide Su Kulesi"
           },
           "coords": [
             54.1925,
@@ -936,7 +1000,8 @@
             "de": "Busfahrt zum Stadtpark am Turm.",
             "hu": "Buszozás a toronynál lévő városi parkhoz.",
             "ro": "Călătorie cu autobuzul către parcul orașului de lângă turn.",
-            "en": "Bus ride to the city park by the tower."
+            "en": "Bus ride to the city park by the tower.",
+            "tr": "Kule yanındaki şehir parkına otobüsle ulaşım."
           }
         },
         {
@@ -944,7 +1009,8 @@
             "de": "Dithmarscher Landesmuseum",
             "hu": "Dithmarscher Tartományi Múzeum",
             "ro": "Muzeul Regional Dithmarscher",
-            "en": "Dithmarscher Regional Museum"
+            "en": "Dithmarscher Regional Museum",
+            "tr": "Dithmarscher Bölge Müzesi"
           },
           "coords": [
             54.1935,
@@ -959,7 +1025,8 @@
             "de": "Abschluss im Museum vor der Heimfahrt.",
             "hu": "Zárás a múzeumban a hazaút előtt.",
             "ro": "Final la muzeu înainte de drumul spre casă.",
-            "en": "Finish at the museum before heading home."
+            "en": "Finish at the museum before heading home.",
+            "tr": "Eve dönmeden önce müzede bitirin."
           }
         }
       ],
@@ -967,7 +1034,8 @@
         "de": "Heide lässt sich wunderbar mit öffentlichen Verkehrsmitteln erkunden. Vom Bahnhof gelangen Sie schnell zum Marktplatz, wo die wichtigsten Sehenswürdigkeiten in Laufweite liegen. Ein weiterer Bus bringt Sie zum Wasserturm und dem nahegelegenen Landesmuseum.",
         "hu": "Heide csodálatosan felfedezhető tömegközlekedéssel. A vasútállomástól gyorsan elérheti a Piacteret, ahol a legfontosabb látnivalók sétatávolságra vannak. Egy másik busz elviszi a víztoronyhoz és a közeli tartományi múzeumhoz.",
         "ro": "Heide poate fi explorat minunat cu transportul public. De la gară ajungeți rapid în Piața Mare, unde principalele atracții sunt la mică distanță de mers pe jos. Un alt autobuz vă duce la Turnul de Apă și la Muzeul Landului din apropiere.",
-        "en": "Heide can be explored wonderfully by public transport. From the station, you can quickly reach the Market Square, where the most important sights are within walking distance. Another bus takes you to the Water Tower and the nearby Landesmuseum."
+        "en": "Heide can be explored wonderfully by public transport. From the station, you can quickly reach the Market Square, where the most important sights are within walking distance. Another bus takes you to the Water Tower and the nearby Landesmuseum.",
+        "tr": "Heide toplu taşıma ile harika keşfedilebilir. İstasyondan kısa sürede Pazar Meydanı’na ulaşabilir ve önemli görülecek yerlerin çoğu yürüyüş mesafesindedir. Başka bir otobüs Su Kulesi’ne ve yakınlardaki Landesmuseum’a gider."
       },
       "gastro_picks": {
         "de": [
@@ -1067,6 +1135,10 @@
         "en": [
           "Check the bus connections at the station in advance.",
           "A day ticket is often worth it."
+        ],
+        "tr": [
+          "İstasyonlardaki otobüs bağlantılarını önceden kontrol edin.",
+          "Günlük bilet genellikle buna değerdir."
         ]
       }
     }

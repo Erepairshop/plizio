@@ -21,7 +21,8 @@
             "de": "Schlossplatz",
             "hu": "Kastély tér",
             "ro": "Schlossplatz",
-            "en": "Schlossplatz"
+            "en": "Schlossplatz",
+            "tr": "Schlossplatz"
           },
           "coords": [
             49.2017,
@@ -36,7 +37,8 @@
             "de": "Blick auf das Landgraf-Ludwig-Denkmal.",
             "hu": "Nézd meg Lajos tartománygróf emlékművét.",
             "ro": "Vedeți monumentul Landgraf Ludwig.",
-            "en": "Check out the Landgraf Ludwig monument."
+            "en": "Check out the Landgraf Ludwig monument.",
+            "tr": "Landgraf Ludwig anıtını görün."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St. Pirminius Kirche",
             "hu": "Szent Pirmin-templom",
             "ro": "Biserica Sf. Pirmin",
-            "en": "St. Pirminius Church"
+            "en": "St. Pirminius Church",
+            "tr": "St. Pirminius Kilisesi"
           },
           "coords": [
             49.2008,
@@ -59,7 +62,8 @@
             "de": "Beeindruckende neuromanische Architektur.",
             "hu": "Lenyűgöző neoromán építészet.",
             "ro": "Arhitectură neoromanică impresionantă.",
-            "en": "Impressive Neo-Romanesque architecture."
+            "en": "Impressive Neo-Romanesque architecture.",
+            "tr": "Etkileyici Neo-Romanesk mimari."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             49.2012,
@@ -82,7 +87,8 @@
             "de": "Beherbergt das Stadtmuseum zur Schuhgeschichte.",
             "hu": "Itt található a városi cipőmúzeum.",
             "ro": "Găzduiește muzeul istoriei pantofilor.",
-            "en": "Houses the city's shoe history museum."
+            "en": "Houses the city's shoe history museum.",
+            "tr": "Şehrin ayakkabı tarihini anlatan müzeye ev sahipliği yapar."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Forum Alte Post",
             "hu": "Régi Posta Fórum",
             "ro": "Forum Alte Post",
-            "en": "Forum Alte Post"
+            "en": "Forum Alte Post",
+            "tr": "Forum Alte Post"
           },
           "coords": [
             49.2035,
@@ -105,7 +112,8 @@
             "de": "Kulturzentrum im prachtvollen Renaissancebau.",
             "hu": "Kulturális központ egy pompás épületben.",
             "ro": "Centru cultural într-o clădire superbă.",
-            "en": "Cultural center in a grand building."
+            "en": "Cultural center in a grand building.",
+            "tr": "Görkemli bir binadaki kültür merkezi."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "tr": "Şehir Merkezinde Öğle Yemeği"
           },
           "coords": [
             49.2025,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie Pfälzer Spezialitäten.",
             "hu": "Kóstold meg a Rajna-vidéki ételeket.",
             "ro": "Încercați specialitățile locale.",
-            "en": "Try local Palatinate specialties."
+            "en": "Try local Palatinate specialties.",
+            "tr": "Yerel Pfalz (Palatinate) lezzetlerini deneyin."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Dynamikum",
             "hu": "Dynamikum tudományos központ",
             "ro": "Dynamikum",
-            "en": "Dynamikum Science Center"
+            "en": "Dynamikum Science Center",
+            "tr": "Dynamikum Bilim Merkezi"
           },
           "coords": [
             49.2038,
@@ -151,7 +162,8 @@
             "de": "Mitmach-Museum in der alten Schuhfabrik.",
             "hu": "Interaktív múzeum a régi cipőgyárban.",
             "ro": "Muzeu interactiv în fosta fabrică.",
-            "en": "Hands-on museum in the old shoe factory."
+            "en": "Hands-on museum in the old shoe factory.",
+            "tr": "Eski ayakkabı fabrikasında etkileşimli müze."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Strecktalpark",
             "hu": "Strecktalpark",
             "ro": "Parcul Strecktal",
-            "en": "Strecktalpark"
+            "en": "Strecktalpark",
+            "tr": "Strecktalpark"
           },
           "coords": [
             49.2065,
@@ -174,7 +187,8 @@
             "de": "Entspannung am See und Wasserspielplatz.",
             "hu": "Pihenés a tónál és vízi játszótér.",
             "ro": "Relaxare lângă lac și loc de joacă.",
-            "en": "Relaxation by the lake and water park."
+            "en": "Relaxation by the lake and water park.",
+            "tr": "Göl kenarında dinlenme ve su parkı."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Morgens erkunden Sie die barocke Pracht des Schlossplatzes und die geschichtsträchtige Pirminiuskirche. Mittags tauchen Sie im Forum Alte Post in die lokale Kultur ein, bevor Sie regionale Küche genießen. Der Nachmittag gehört dem Dynamikum, wo Physik spielerisch erlebt wird, und endet entspannt im grünen Strecktalpark.",
         "hu": "Reggel a Schlossplatz barokk pompájával és a Pirminius-templom történetével kezdünk. Délben az Alte Post kulturális kínálatát fedezzük fel, majd helyi ízeket kóstolunk. Délután a Dynamikum interaktív világa vár a régi cipőgyárban, a napot pedig a Strecktalpark zöld övezetében, egy kellemes sétával zárjuk.",
         "ro": "Dimineața explorezi splendoarea barocă a pieței Schlossplatz și istoria bisericii Pirminius. La prânz te bucuri de cultură la Forum Alte Post și de gastronomia locală. După-amiaza este dedicată experimentelor la Dynamikum, în incinta fostei fabrici de pantofi, iar ziua se încheie relaxant în parcul Strecktalpark.",
-        "en": "Start your morning at the baroque Schlossplatz and the historic St. Pirminius Church. At midday, dive into culture at Forum Alte Post before a local lunch. The afternoon is spent at the interactive Dynamikum science center, located in a former shoe factory, ending with a relaxing stroll through the green Strecktalpark."
+        "en": "Start your morning at the baroque Schlossplatz and the historic St. Pirminius Church. At midday, dive into culture at Forum Alte Post before a local lunch. The afternoon is spent at the interactive Dynamikum science center, located in a former shoe factory, ending with a relaxing stroll through the green Strecktalpark.",
+        "tr": "Gününüze barok Schlossplatz ve tarihi St. Pirminius Kilisesi’nde başlayın. Öğle vakti Forum Alte Post’ta kültüre dalın ve yerel bir öğle yemeği yiyin. Öğleden sonra eski bir ayakkabı fabrikasında yer alan etkileşimli Dynamikum bilim merkezinde vakit geçirin ve günü yeşil Strecktalpark’ta sakin bir yürüyüşle sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -286,6 +301,11 @@
           "Wear comfortable shoes for the 'Seven Hills'.",
           "Dynamikum is perfect for families.",
           "Park centrally at Exerzierplatz."
+        ],
+        "tr": [
+          "'Yedi Tepeler' için rahat ayakkabılar giyin.",
+          "Dynamikum aileler için ideal.",
+          "Exerzierplatz’ta merkezi olarak park edin."
         ]
       }
     },
@@ -302,7 +322,8 @@
             "de": "Schlossplatz",
             "hu": "Kastély tér",
             "ro": "Schlossplatz",
-            "en": "Schlossplatz"
+            "en": "Schlossplatz",
+            "tr": "Schlossplatz"
           },
           "coords": [
             49.2017,
@@ -317,7 +338,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Kiindulópont a központban.",
             "ro": "Punct de plecare în centru.",
-            "en": "Starting point in the center."
+            "en": "Starting point in the center.",
+            "tr": "Merkezde başlangıç noktası."
           }
         },
         {
@@ -325,7 +347,8 @@
             "de": "Neuffer am Park",
             "hu": "Neuffer am Park",
             "ro": "Neuffer am Park",
-            "en": "Neuffer am Park"
+            "en": "Neuffer am Park",
+            "tr": "Neuffer am Park"
           },
           "coords": [
             49.2055,
@@ -340,7 +363,8 @@
             "de": "Ehemalige Schuhfabrik, heute Gesundheitszentrum.",
             "hu": "Egykori cipőgyár, ma egészségközpont.",
             "ro": "Fostă fabrică de pantofi, azi centru medical.",
-            "en": "Former shoe factory, now a health center."
+            "en": "Former shoe factory, now a health center.",
+            "tr": "Eski ayakkabı fabrikası, şimdi bir sağlık merkezi."
           }
         },
         {
@@ -348,7 +372,8 @@
             "de": "Forum Alte Post",
             "hu": "Régi Posta Fórum",
             "ro": "Forum Alte Post",
-            "en": "Forum Alte Post"
+            "en": "Forum Alte Post",
+            "tr": "Forum Alte Post"
           },
           "coords": [
             49.2035,
@@ -363,7 +388,8 @@
             "de": "Kultur und Kunst entdecken.",
             "hu": "Kultúra és művészet.",
             "ro": "Artă și cultură.",
-            "en": "Discover art and culture."
+            "en": "Discover art and culture.",
+            "tr": "Sanatı ve kültürü keşfedin."
           }
         },
         {
@@ -371,7 +397,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "tr": "Öğle yemeği"
           },
           "coords": [
             49.2025,
@@ -386,7 +413,8 @@
             "de": "Energie tanken für die Hügel.",
             "hu": "Gyűjts erőt a dombokhoz.",
             "ro": "Reîncărcare pentru dealuri.",
-            "en": "Recharge for the hills."
+            "en": "Recharge for the hills.",
+            "tr": "Tepeler için enerji depolayın."
           }
         },
         {
@@ -394,7 +422,8 @@
             "de": "Dynamikum",
             "hu": "Dynamikum",
             "ro": "Dynamikum",
-            "en": "Dynamikum"
+            "en": "Dynamikum",
+            "tr": "Dynamikum"
           },
           "coords": [
             49.2038,
@@ -409,7 +438,8 @@
             "de": "Wissenschaft zum Anfassen.",
             "hu": "Kézzelfogható tudomány.",
             "ro": "Știință interactivă.",
-            "en": "Hands-on science."
+            "en": "Hands-on science.",
+            "tr": "Ellerle deneyimlenen bilim."
           }
         },
         {
@@ -417,7 +447,8 @@
             "de": "Strecktalpark",
             "hu": "Strecktalpark",
             "ro": "Strecktalpark",
-            "en": "Strecktalpark"
+            "en": "Strecktalpark",
+            "tr": "Strecktalpark"
           },
           "coords": [
             49.2065,
@@ -432,7 +463,8 @@
             "de": "Schöne Radwege durch den Park.",
             "hu": "Szép kerékpárutak a parkban.",
             "ro": "Piste frumoase în parc.",
-            "en": "Nice bike paths through the park."
+            "en": "Nice bike paths through the park.",
+            "tr": "Park boyunca güzel bisiklet yolları."
           }
         },
         {
@@ -440,7 +472,8 @@
             "de": "Westwallmuseum",
             "hu": "Westwallmuseum",
             "ro": "Westwallmuseum",
-            "en": "Westwallmuseum"
+            "en": "Westwallmuseum",
+            "tr": "Westwallmuseum"
           },
           "coords": [
             49.1855,
@@ -455,7 +488,8 @@
             "de": "Bunkeranlage in Niedersimten.",
             "hu": "Bunkerrendszer Niedersimtenben.",
             "ro": "Sistem de buncăre în Niedersimten.",
-            "en": "Bunker complex in Niedersimten."
+            "en": "Bunker complex in Niedersimten.",
+            "tr": "Niedersimten’deki sığınak kompleksi."
           }
         }
       ],
@@ -463,7 +497,8 @@
         "de": "Diese Biketour verbindet Industriegeschichte mit Natur. Nach dem Start im Zentrum radeln Sie zum Neuffer am Park und zur Alten Post. Nach dem Mittagessen erkunden Sie das Dynamikum und das grüne Strecktal. Den Abschluss bildet die Fahrt zum Westwallmuseum, einer eindrucksvollen Bunkeranlage am Stadtrand.",
         "hu": "Ez a kerékpártúra összeköti az ipari múltat a természettel. A központból a Neuffer parkhoz és az Alte Posthoz tekerünk. Ebéd után a Dynamikum és a Strecktalpark következik. A napot a városszéli Westwallmuseum bunkerrendszerének izgalmas felfedezésével zárjuk.",
         "ro": "Acest tur pe bicicletă îmbină istoria industrială cu natura. Din centru pedalăm spre Neuffer am Park și Alte Post. După prânz vizităm Dynamikum și parcul Strecktal. Finalul aparține muzeului Westwallmuseum, un complex de buncăre impresionant situat la marginea orașului.",
-        "en": "This bike tour connects industrial heritage with nature. Starting in the center, cycle to Neuffer am Park and Alte Post. After lunch, explore Dynamikum and the Strecktal valley. Finish your trip with a ride to the Westwallmuseum, an impressive bunker complex on the outskirts."
+        "en": "This bike tour connects industrial heritage with nature. Starting in the center, cycle to Neuffer am Park and Alte Post. After lunch, explore Dynamikum and the Strecktal valley. Finish your trip with a ride to the Westwallmuseum, an impressive bunker complex on the outskirts.",
+        "tr": "Bu bisiklet turu sanayi mirasını doğayla birleştirir. Merkezden başlayıp Neuffer am Park ve Alte Post’a pedallayın. Öğle yemeğinden sonra Dynamikum ve Strecktal vadisini keşfedin. Geziyi, kenardaki etkileyici bir sığınak kompleksi olan Westwallmuseum’a sürüşle sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -567,6 +602,11 @@
           "Pirmasens is hilly, an e-bike is recommended.",
           "Bring a warm jacket for the Westwallmuseum.",
           "Use the marked cycle paths."
+        ],
+        "tr": [
+          "Pirmasens engebelidir, bir e-bisiklet önerilir.",
+          "Westwallmuseum için sıcak bir ceket getirin.",
+          "İşaretli bisiklet yollarını kullanın."
         ]
       }
     },
@@ -583,7 +623,8 @@
             "de": "Cluster Zentrum: Schlossplatz",
             "hu": "Központi klaszter: Schlossplatz",
             "ro": "Cluster Centru: Schlossplatz",
-            "en": "Center Cluster: Schlossplatz"
+            "en": "Center Cluster: Schlossplatz",
+            "tr": "Merkez Kümesi: Schlossplatz"
           },
           "coords": [
             49.2017,
@@ -598,7 +639,8 @@
             "de": "Parken Sie im Parkhaus am Schlossplatz.",
             "hu": "Parkolj a Schlossplatz parkolóházban.",
             "ro": "Parcați în parcarea de la Schlossplatz.",
-            "en": "Park at the Schlossplatz parking garage."
+            "en": "Park at the Schlossplatz parking garage.",
+            "tr": "Schlossplatz otoparkına park edin."
           }
         },
         {
@@ -606,7 +648,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             49.2012,
@@ -621,7 +664,8 @@
             "de": "Kurzer Fußweg vom Schlossplatz.",
             "hu": "Rövid séta a Schlossplatztól.",
             "ro": "Scurtă plimbare de la Schlossplatz.",
-            "en": "Short walk from Schlossplatz."
+            "en": "Short walk from Schlossplatz.",
+            "tr": "Schlossplatz’tan kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -629,7 +673,8 @@
             "de": "Forum Alte Post",
             "hu": "Régi Posta Fórum",
             "ro": "Forum Alte Post",
-            "en": "Forum Alte Post"
+            "en": "Forum Alte Post",
+            "tr": "Forum Alte Post"
           },
           "coords": [
             49.2035,
@@ -644,7 +689,8 @@
             "de": "Beeindruckende Fassade.",
             "hu": "Lenyűgöző homlokzat.",
             "ro": "Fațadă impresionantă.",
-            "en": "Impressive facade."
+            "en": "Impressive facade.",
+            "tr": "Etkileyici cephe."
           }
         },
         {
@@ -652,7 +698,8 @@
             "de": "Cluster Rheinberger: Dynamikum",
             "hu": "Rheinberger klaszter: Dynamikum",
             "ro": "Cluster Rheinberger: Dynamikum",
-            "en": "Rheinberger Cluster: Dynamikum"
+            "en": "Rheinberger Cluster: Dynamikum",
+            "tr": "Rheinberger Kümesi: Dynamikum"
           },
           "coords": [
             49.2038,
@@ -667,7 +714,8 @@
             "de": "Parken direkt am Rheinberger-Komplex.",
             "hu": "Parkolás közvetlenül a Rheinbergnél.",
             "ro": "Parcare direct la complexul Rheinberger.",
-            "en": "Park right at the Rheinberger complex."
+            "en": "Park right at the Rheinberger complex.",
+            "tr": "Rheinberger kompleksinin hemen önüne park edin."
           }
         },
         {
@@ -675,7 +723,8 @@
             "de": "Mittagessen im Park",
             "hu": "Ebéd a parkban",
             "ro": "Prânz în parc",
-            "en": "Lunch in the Park"
+            "en": "Lunch in the Park",
+            "tr": "Parkta öğle yemeği"
           },
           "coords": [
             49.2025,
@@ -690,7 +739,8 @@
             "de": "Fußläufig vom Dynamikum erreichbar.",
             "hu": "Gyalogosan elérhető a Dynamikumtól.",
             "ro": "Accesibil pe jos de la Dynamikum.",
-            "en": "Walking distance from Dynamikum."
+            "en": "Walking distance from Dynamikum.",
+            "tr": "Dynamikum’dan yürüme mesafesinde."
           }
         },
         {
@@ -698,7 +748,8 @@
             "de": "Strecktalpark",
             "hu": "Strecktalpark",
             "ro": "Strecktalpark",
-            "en": "Strecktalpark"
+            "en": "Strecktalpark",
+            "tr": "Strecktalpark"
           },
           "coords": [
             49.2065,
@@ -713,7 +764,8 @@
             "de": "Erholung im Herzen der Stadt.",
             "hu": "Pihenés a város szívében.",
             "ro": "Relaxare în inima orașului.",
-            "en": "Relaxation in the heart of the city."
+            "en": "Relaxation in the heart of the city.",
+            "tr": "Şehrin kalbinde dinlenme."
           }
         },
         {
@@ -721,7 +773,8 @@
             "de": "Fahrt zum Westwallmuseum",
             "hu": "Westwallmuseum kirándulás",
             "ro": "Westwallmuseum",
-            "en": "Westwallmuseum Drive"
+            "en": "Westwallmuseum Drive",
+            "tr": "Westwallmuseum Sürüşü"
           },
           "coords": [
             49.1855,
@@ -736,7 +789,8 @@
             "de": "Kostenloser Parkplatz vor dem Museum.",
             "hu": "Ingyenes parkoló a múzeum előtt.",
             "ro": "Parcare gratuită în fața muzeului.",
-            "en": "Free parking in front of the museum."
+            "en": "Free parking in front of the museum.",
+            "tr": "Müze önünde ücretsiz park yeri."
           }
         }
       ],
@@ -744,7 +798,8 @@
         "de": "Mit dem Auto erkunden Sie Pirmasens effizient in Clustern. Zuerst das historische Zentrum rund um den Schlossplatz, dann der Rheinberger-Komplex mit dem Dynamikum und dem Strecktalpark. Den Nachmittag krönt ein kurzer Ausflug zum Westwallmuseum in Niedersimten, um die unterirdische Geschichte der Region zu erleben.",
         "hu": "Autóval kényelmesen, klaszterekben fedezzük fel Pirmasens-t. Először a Schlossplatz környéki történelmi központot, majd a Rheinberger-komplexumot a Dynamikummal és a Strecktalparkkal látogatjuk meg. A nap fénypontja a niedersimteni Westwallmuseum, ahol a régió föld alatti történelmét ismerhetjük meg.",
         "ro": "Cu mașina explorezi Pirmasens eficient în clustere. Începem cu centrul istoric lângă Schlossplatz, apoi complexul Rheinberger cu Dynamikum și parcul Strecktal. După-amiaza se încheie cu o scurtă excursie la Westwallmuseum în Niedersimten, pentru a descoperi istoria subterană a regiunii.",
-        "en": "Explore Pirmasens efficiently by car in clusters. Start with the historic center around Schlossplatz, then visit the Rheinberger complex housing Dynamikum and Strecktalpark. The afternoon is topped off with a short drive to the Westwallmuseum in Niedersimten to experience the region's underground history."
+        "en": "Explore Pirmasens efficiently by car in clusters. Start with the historic center around Schlossplatz, then visit the Rheinberger complex housing Dynamikum and Strecktalpark. The afternoon is topped off with a short drive to the Westwallmuseum in Niedersimten to experience the region's underground history.",
+        "tr": "Pirmasens’i verimli şekilde araba ile kümeler halinde keşfedin. Schlossplatz çevresindeki tarihi merkezle başlayın, ardından Dynamikum ve Strecktalpark’ı barındıran Rheinberger kompleksini ziyaret edin. Öğleden sonra bölgenin yeraltı tarihini deneyimlemek için Niedersimten’deki Westwallmuseum’a kısa bir sürüş yapın."
       },
       "gastro_picks": {
         "de": [
@@ -848,6 +903,11 @@
           "Use parking garages to save time.",
           "The Westwall bunker is only open on weekends/holidays.",
           "The city is steep; a car is very comfortable."
+        ],
+        "tr": [
+          "Zaman kazanmak için otopark katlarını kullanın.",
+          "Westwall sığınağı yalnızca hafta sonları/tatillerde açıktır.",
+          "Şehir dik; araba çok konforludur."
         ]
       }
     },
@@ -864,7 +924,8 @@
             "de": "Hauptbahnhof Pirmasens",
             "hu": "Főpályaudvar",
             "ro": "Gara Centrală Pirmasens",
-            "en": "Main Station Pirmasens"
+            "en": "Main Station Pirmasens",
+            "tr": "Pirmasens Ana Garı"
           },
           "coords": [
             49.2065,
@@ -879,7 +940,8 @@
             "de": "Zentraler Ankunftspunkt.",
             "hu": "Központi érkezési pont.",
             "ro": "Punct central de sosire.",
-            "en": "Central arrival point."
+            "en": "Central arrival point.",
+            "tr": "Merkezi varış noktası."
           }
         },
         {
@@ -887,7 +949,8 @@
             "de": "Dynamikum (Rheinberger)",
             "hu": "Dynamikum",
             "ro": "Dynamikum",
-            "en": "Dynamikum"
+            "en": "Dynamikum",
+            "tr": "Dynamikum"
           },
           "coords": [
             49.2038,
@@ -902,7 +965,8 @@
             "de": "Direkt neben dem Bahnhof.",
             "hu": "Közvetlenül az állomás mellett.",
             "ro": "Chiar lângă gară.",
-            "en": "Right next to the station."
+            "en": "Right next to the station.",
+            "tr": "İstasyonun hemen yanında."
           }
         },
         {
@@ -910,7 +974,8 @@
             "de": "Exerzierplatz (Bus-Hub)",
             "hu": "Exerzierplatz (Buszcsomópont)",
             "ro": "Exerzierplatz (Hub Bus)",
-            "en": "Exerzierplatz (Bus Hub)"
+            "en": "Exerzierplatz (Bus Hub)",
+            "tr": "Exerzierplatz (Otobüs Aktarma Noktası)"
           },
           "coords": [
             49.2015,
@@ -925,7 +990,8 @@
             "de": "Zentraler Umsteigepunkt für Stadtbusse.",
             "hu": "Városi buszok központi átszállóhelye.",
             "ro": "Punct central de transfer pentru autobuze.",
-            "en": "Central transfer point for city buses."
+            "en": "Central transfer point for city buses.",
+            "tr": "Şehir otobüsleri için merkezi aktarma noktası."
           }
         },
         {
@@ -933,7 +999,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "tr": "Öğle yemeği"
           },
           "coords": [
             49.2025,
@@ -948,7 +1015,8 @@
             "de": "Viele Optionen am Exerzierplatz.",
             "hu": "Számos lehetőség az Exerzierplatznál.",
             "ro": "Multe opțiuni la Exerzierplatz.",
-            "en": "Many options at Exerzierplatz."
+            "en": "Many options at Exerzierplatz.",
+            "tr": "Exerzierplatz’ta birçok seçenek."
           }
         },
         {
@@ -956,7 +1024,8 @@
             "de": "Schlossplatz & Altes Rathaus",
             "hu": "Schlossplatz és Régi Városháza",
             "ro": "Schlossplatz și Primăria Veche",
-            "en": "Schlossplatz & Old Town Hall"
+            "en": "Schlossplatz & Old Town Hall",
+            "tr": "Schlossplatz & Eski Belediye Binası"
           },
           "coords": [
             49.2017,
@@ -971,7 +1040,8 @@
             "de": "Das Herz der Stadt.",
             "hu": "A város szíve.",
             "ro": "Inima orașului.",
-            "en": "The heart of the city."
+            "en": "The heart of the city.",
+            "tr": "Şehrin kalbi."
           }
         },
         {
@@ -979,7 +1049,8 @@
             "de": "Forum Alte Post",
             "hu": "Régi Posta Fórum",
             "ro": "Forum Alte Post",
-            "en": "Forum Alte Post"
+            "en": "Forum Alte Post",
+            "tr": "Forum Alte Post"
           },
           "coords": [
             49.2035,
@@ -994,7 +1065,8 @@
             "de": "Mit dem Bus Linie 201/202 erreichbar.",
             "hu": "Elérhető a 201/202-es buszokkal.",
             "ro": "Accesibil cu liniile 201/202.",
-            "en": "Reach via bus lines 201/202."
+            "en": "Reach via bus lines 201/202.",
+            "tr": "201/202 numaralı otobüs hatlarıyla ulaşılır."
           }
         },
         {
@@ -1002,7 +1074,8 @@
             "de": "Strecktalpark",
             "hu": "Strecktalpark",
             "ro": "Strecktalpark",
-            "en": "Strecktalpark"
+            "en": "Strecktalpark",
+            "tr": "Strecktalpark"
           },
           "coords": [
             49.2065,
@@ -1017,7 +1090,8 @@
             "de": "Entspannter Ausklang.",
             "hu": "Pihentető befejezés.",
             "ro": "Final relaxant.",
-            "en": "Relaxing finish."
+            "en": "Relaxing finish.",
+            "tr": "Rahatlatıcı bitiş."
           }
         }
       ],
@@ -1025,7 +1099,8 @@
         "de": "Vom Hauptbahnhof aus erreichen Sie bequem das Dynamikum. Mit den Stadtbussen gelangen Sie zum zentralen Exerzierplatz für ein Mittagessen und die Erkundung des Schlossplatzes. Der Tag endet kulturell in der Alten Post und mit einem Spaziergang im nahegelegenen Strecktalpark, alles gut vernetzt durch den ÖPNV.",
         "hu": "A főpályaudvarról kényelmesen elérhető a Dynamikum. A helyi buszokkal az Exerzierplatz-ra utazunk ebédelni, majd a Schlossplatz-ot fedezzük fel. A napot az Alte Post kulturális élményeivel és egy sétával zárjuk a Strecktalparkban, mindezt a jól szervezett tömegközlekedéssel.",
         "ro": "De la gara centrală ajungeți ușor la Dynamikum. Cu autobuzele locale mergem la Exerzierplatz pentru prânz și explorăm Schlossplatz. Ziua se încheie cultural la Forum Alte Post și cu o plimbare în parcul Strecktal, totul fiind bine conectat prin rețeaua de transport public.",
-        "en": "From the main station, you can easily reach Dynamikum. Use city buses to get to Exerzierplatz for lunch and to explore Schlossplatz. End your day with culture at Alte Post and a stroll in Strecktalpark, all well-connected by public transport."
+        "en": "From the main station, you can easily reach Dynamikum. Use city buses to get to Exerzierplatz for lunch and to explore Schlossplatz. End your day with culture at Alte Post and a stroll in Strecktalpark, all well-connected by public transport.",
+        "tr": "Ana istasyondan Dynamikum’a kolayca ulaşabilirsiniz. Öğle yemeği için Exerzierplatz’a gitmek ve Schlossplatz’ı keşfetmek için şehir otobüslerini kullanın. Gününüzü Alte Post’ta kültürle ve Strecktalpark’ta bir yürüyüşle sonlandırın; hepsi toplu taşıma ile iyi bağlantılıdır."
       },
       "gastro_picks": {
         "de": [
@@ -1129,6 +1204,11 @@
           "Buy a day ticket for the city bus.",
           "All lines meet at Exerzierplatz.",
           "Check the weekend bus frequency."
+        ],
+        "tr": [
+          "Şehir otobüsü için günlük bilet satın alın.",
+          "Tüm hatlar Exerzierplatz’ta buluşur.",
+          "Hafta sonu otobüs sıklığını kontrol edin."
         ]
       }
     }

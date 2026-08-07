@@ -21,7 +21,8 @@
             "de": "Mariendom",
             "hu": "Mária-székesegyház",
             "ro": "Catedrala Sf. Maria",
-            "en": "Mariendom Cathedral"
+            "en": "Mariendom Cathedral",
+            "tr": "Mariendom Katedrali"
           },
           "coords": [
             7.398,
@@ -36,7 +37,8 @@
             "de": "Romanisches Juwel mit vier Türmen direkt an der Stadtmauer.",
             "hu": "Négytornyos román stílusú ékszerdoboz a városfal mellett.",
             "ro": "O bijuterie romanică cu patru turnuri lângă zidul orașului.",
-            "en": "Romanesque gem with four towers right by the city wall."
+            "en": "Romanesque gem with four towers right by the city wall.",
+            "tr": "Şehir duvarının hemen yanında dört kuleli Romanesk bir mücevher."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Runder Turm",
             "hu": "Kerek-torony",
             "ro": "Turnul Rotund",
-            "en": "Round Tower"
+            "en": "Round Tower",
+            "tr": "Yuvarlak Kule"
           },
           "coords": [
             7.397,
@@ -59,7 +62,8 @@
             "de": "Das Wahrzeichen der Stadt – erklimmen Sie die 56 Meter.",
             "hu": "A város jelképe – mássza meg az 56 méteres tornyot.",
             "ro": "Simbolul orașului – urcați cei 56 de metri pentru vedere.",
-            "en": "The landmark of the city – climb the 56-meter tower."
+            "en": "The landmark of the city – climb the 56-meter tower.",
+            "tr": "Şehrin simgesi – 56 metrelik kuleye tırmanın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Rheintor",
             "hu": "Rajnai kapu",
             "ro": "Poarta Rinului",
-            "en": "Rhine Gate"
+            "en": "Rhine Gate",
+            "tr": "Ren Kapısı"
           },
           "coords": [
             7.404,
@@ -82,7 +87,8 @@
             "de": "Mittelalterliches Stadttor, früher wichtigster Zugang vom Fluss.",
             "hu": "Középkori városkapu, egykor a legfontosabb folyó felőli bejárat.",
             "ro": "Poartă medievală, fosta intrare principală de pe fluviu.",
-            "en": "Medieval town gate, formerly the main river entrance."
+            "en": "Medieval town gate, formerly the main river entrance.",
+            "tr": "Eski nehir girişi olan ortaçağ kent kapısı."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Alte Krahnen",
             "hu": "Régi daru",
             "ro": "Macaraua Veche",
-            "en": "Old Crane"
+            "en": "Old Crane",
+            "tr": "Eski Vinci"
           },
           "coords": [
             7.406,
@@ -105,7 +112,8 @@
             "de": "Steinmetzkunst von 1554 – ein Relikt der Handelsgeschichte.",
             "hu": "1554-es kőfaragó remekmű – a kereskedelmi múlt emléke.",
             "ro": "Capodoperă din 1554 – relicvă a istoriei comerciale locale.",
-            "en": "Stonemasonry from 1554 – a relic of trade history."
+            "en": "Stonemasonry from 1554 – a relic of trade history.",
+            "tr": "1554 yapımı taş işçiliği – ticaret tarihinin bir kalıntısı."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Geysir-Erlebniszentrum & Boot",
             "hu": "Gejzír-központ és hajóút",
             "ro": "Centrul Geyser și plimbare cu barca",
-            "en": "Geyser Center & Boat Trip"
+            "en": "Geyser Center & Boat Trip",
+            "tr": "Geyser Merkezi ve Tekne Gezisi"
           },
           "coords": [
             7.4035,
@@ -128,7 +137,8 @@
             "de": "Bootstrip zum höchsten Kaltwassergeysir der Welt (Namedyer Werth).",
             "hu": "Hajóút a világ legmagasabb hidegvizes gejzírjéhez.",
             "ro": "Călătorie cu barca spre cel mai înalt gheizer de apă rece.",
-            "en": "Boat trip to the world's highest cold-water geyser."
+            "en": "Boat trip to the world's highest cold-water geyser.",
+            "tr": "Dünyanın en yüksek soğuk su gayzeri için tekne gezisi."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Essbare Stadt",
             "hu": "Ehető Város",
             "ro": "Orașul Comestibil",
-            "en": "Edible City"
+            "en": "Edible City",
+            "tr": "Yenilebilir Şehir"
           },
           "coords": [
             7.401,
@@ -151,7 +162,8 @@
             "de": "Naschen erlaubt! Urbane Gärten mit Kräutern und Gemüse.",
             "hu": "Kóstolni ér! Városi kertek fűszerekkel és zöldségekkel.",
             "ro": "Gustatul este permis! Grădini urbane cu plante și legume.",
-            "en": "Snacking allowed! Urban gardens with herbs and veggies."
+            "en": "Snacking allowed! Urban gardens with herbs and veggies.",
+            "tr": "Atıştırmaya izin var! Şehir içi bahçelerde otlar ve sebzeler."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Schlossgarten",
             "hu": "Kastélykert",
             "ro": "Grădina Castelului",
-            "en": "Castle Garden"
+            "en": "Castle Garden",
+            "tr": "Kale Bahçesi"
           },
           "coords": [
             7.402,
@@ -174,7 +187,8 @@
             "de": "Idyllischer Parkruhepol am Rande der mittelalterlichen Ruine.",
             "hu": "Idilli pihenőhely a középkori romok szomszédságában.",
             "ro": "Un loc idilic de odihnă lângă ruinele medievale.",
-            "en": "Idyllic peaceful park near the medieval ruins."
+            "en": "Idyllic peaceful park near the medieval ruins.",
+            "tr": "Ortaçağ kalıntılarına yakın sakin ve idil bir park."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Entdecken Sie Andernach zu Fuß, beginnend am majestätischen Mariendom. Wir erkunden die Stadtmauer und den Runden Turm, bevor es zum Rhein geht. Nach einem Mittagessen am Fluss ist der Nachmittag dem spektakulären Geysir gewidmet. Den Ausklang finden wir in den innovativen Gärten der 'Essbaren Stadt', wo Natur und Urbanität verschmelzen.",
         "hu": "Fedezze fel Andernachot gyalog, a fenséges Mária-székesegyháztól indulva. Bejárjuk a városfalat és a Kerek-toronyt, majd a Rajna-part felé vesszük az irányt. A folyóparti ebéd után a délutánt a látványos gejzírnek szenteljük. A napot az 'Ehető Város' innovatív kertjeiben zárjuk, ahol a természet és a városi élet összefonódik.",
         "ro": "Descoperiți Andernach la pas, începând de la maiestuoasa Catedrală Sf. Maria. Explorăm zidurile orașului și Turnul Rotund înainte de a merge spre Rin. După un prânz pe malul fluviului, după-amiaza este dedicată gheizerului spectaculos. Încheiem ziua în grădinile inovatoare ale 'Orașului Comestibil', unde natura se împletește cu urbanul.",
-        "en": "Discover Andernach on foot, starting at the majestic Mariendom. We explore the city walls and Round Tower before heading to the Rhine. After lunch by the river, the afternoon is dedicated to the spectacular geyser. We end the day in the innovative gardens of the 'Edible City', where nature and urban life blend seamlessly."
+        "en": "Discover Andernach on foot, starting at the majestic Mariendom. We explore the city walls and Round Tower before heading to the Rhine. After lunch by the river, the afternoon is dedicated to the spectacular geyser. We end the day in the innovative gardens of the 'Edible City', where nature and urban life blend seamlessly.",
+        "tr": "Andernach'ı yürüyerek keşfedin; görkemli Mariendom'dan başlayın. Kent surları ve Yuvarlak Kule'yi gezdikten sonra Ren kıyısına inin. Nehir kenarında öğle yemeği sonrası öğleden öğlenin geri kalanı etkileyici gayzere ayrılır. Günü, doğa ile kentsel yaşamın uyum içinde olduğu 'Yenilebilir Şehir' bahçelerinde sonlandırıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +357,12 @@
           "In the 'Edible City', you are welcome to taste ripe berries and herbs.",
           "The city wall is almost fully preserved and offers great photo ops.",
           "Use the Geyser Center app for additional interactive info."
+        ],
+        "tr": [
+          "Tekne kuyruklarını önlemek için gayzer biletinizi önceden çevrimiçi satın alın.",
+          "'Yenilebilir Şehir'de olgun meyve ve otları tatmanız hoş karşılanır.",
+          "Şehir surları neredeyse tamamen korunmuş durumda ve harika fotoğraf fırsatları sunuyor.",
+          "Ek etkileşimli bilgiler için Geyser Center uygulamasını kullanın."
         ]
       }
     },
@@ -358,7 +379,8 @@
             "de": "Alte Krahnen",
             "hu": "Régi daru",
             "ro": "Macaraua Veche",
-            "en": "Old Crane"
+            "en": "Old Crane",
+            "tr": "Eski Vinç"
           },
           "coords": [
             7.406,
@@ -373,7 +395,8 @@
             "de": "Startpunkt am Rheinufer-Radweg.",
             "hu": "Kiindulópont a Rajna-parti kerékpárúton.",
             "ro": "Punct de plecare pe pista de biciclete de pe malul Rinului.",
-            "en": "Starting point on the Rhine river bike path."
+            "en": "Starting point on the Rhine river bike path.",
+            "tr": "Ren nehir bisiklet yolunun başlangıç noktası."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Bollwerk",
             "hu": "Bástya",
             "ro": "Bastionul",
-            "en": "Bollwerk Fortress"
+            "en": "Bollwerk Fortress",
+            "tr": "Bollwerk Kalesi"
           },
           "coords": [
             7.407,
@@ -396,7 +420,8 @@
             "de": "Ehemalige Zollstation und Wehranlage.",
             "hu": "Egykori vámállomás és védmű.",
             "ro": "Fosta stație vamală și structură defensivă.",
-            "en": "Former toll station and defensive fortification."
+            "en": "Former toll station and defensive fortification.",
+            "tr": "Eski gümrük noktası ve savunma yapısı."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Namedyer Werth (Geysir)",
             "hu": "Gejzír-sziget",
             "ro": "Insula Gheizerului",
-            "en": "Geyser Island"
+            "en": "Geyser Island",
+            "tr": "Geyser Adası"
           },
           "coords": [
             7.41,
@@ -419,7 +445,8 @@
             "de": "Fahrrad am Schiffsanleger parken, Fahrt zur Halbinsel.",
             "hu": "Parkolja le a bringát a kikötőnél, majd hajózás a félszigetre.",
             "ro": "Parcați bicicleta la debarcader, apoi mergeți cu barca spre peninsulă.",
-            "en": "Park your bike at the pier, then take the boat to the peninsula."
+            "en": "Park your bike at the pier, then take the boat to the peninsula.",
+            "tr": "Bisikletinizi iskelede park edin, sonra yarımadaya gitmek için tekneye binin."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Schloss Namedy",
             "hu": "Namedy-kastély",
             "ro": "Castelul Namedy",
-            "en": "Namedy Castle"
+            "en": "Namedy Castle",
+            "tr": "Namedy Şatosu"
           },
           "coords": [
             7.35,
@@ -442,7 +470,8 @@
             "de": "Schönes Wasserschloss, Sitz der Hohenzollern.",
             "hu": "Gyönyörű vízi kastély, a Hohenzollern-család székhelye.",
             "ro": "Castel pe apă frumos, sediul familiei Hohenzollern.",
-            "en": "Beautiful moated castle, seat of the Hohenzollern family."
+            "en": "Beautiful moated castle, seat of the Hohenzollern family.",
+            "tr": "Güzel hendekli şato, Hohenzollern ailesinin ikametgâhı."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Rheinufer Andernach",
             "hu": "Andernachi Rajna-part",
             "ro": "Malul Rinului Andernach",
-            "en": "Rhine Banks"
+            "en": "Rhine Banks",
+            "tr": "Ren Kıyıları"
           },
           "coords": [
             7.404,
@@ -465,7 +495,8 @@
             "de": "Flache, entspannte Fahrt zurück in die Stadt.",
             "hu": "Lapos, pihentető tekerés vissza a városba.",
             "ro": "Plimbare plată și relaxantă înapoi în oraș.",
-            "en": "Flat, relaxed ride back into the city."
+            "en": "Flat, relaxed ride back into the city.",
+            "tr": "Şehre dönüşte düz, rahat bir sürüş."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Rheintor",
             "hu": "Rajnai kapu",
             "ro": "Poarta Rinului",
-            "en": "Rhine Gate"
+            "en": "Rhine Gate",
+            "tr": "Ren Kapısı"
           },
           "coords": [
             7.404,
@@ -488,7 +520,8 @@
             "de": "Durchfahrt in die Altstadt.",
             "hu": "Áthaladás az óvárosba.",
             "ro": "Trecere spre orașul vechi.",
-            "en": "Passage into the old town."
+            "en": "Passage into the old town.",
+            "tr": "Eski kente geçiş."
           }
         },
         {
@@ -496,7 +529,8 @@
             "de": "Essbare Stadt",
             "hu": "Ehető Város",
             "ro": "Orașul Comestibil",
-            "en": "Edible City"
+            "en": "Edible City",
+            "tr": "Edible City"
           },
           "coords": [
             7.401,
@@ -511,7 +545,8 @@
             "de": "Gemüsebeete direkt am Radweg.",
             "hu": "Zöldségágyások közvetlenül a kerékpárút mentén.",
             "ro": "Straturi de legume chiar lângă pista de biciclete.",
-            "en": "Vegetable beds right along the bike path."
+            "en": "Vegetable beds right along the bike path.",
+            "tr": "Bisiklet yolu boyunca sebze yatakları."
           }
         },
         {
@@ -519,7 +554,8 @@
             "de": "Mariendom",
             "hu": "Mária-székesegyház",
             "ro": "Catedrala Sf. Maria",
-            "en": "Mariendom"
+            "en": "Mariendom",
+            "tr": "Mariendom"
           },
           "coords": [
             7.398,
@@ -534,7 +570,8 @@
             "de": "Letzter Stopp vor der Abfahrt.",
             "hu": "Utolsó megálló az indulás előtt.",
             "ro": "Ultima oprire înainte de plecare.",
-            "en": "Final stop before departure."
+            "en": "Final stop before departure.",
+            "tr": "Kalkıştan önceki son durak."
           }
         }
       ],
@@ -542,7 +579,8 @@
         "de": "Diese Radtour führt Sie entlang des Rheins zum Schloss Namedy und zurück zum berühmten Geysir. Die Strecke ist flach und ideal für Genussradler.",
         "hu": "Ez a kerékpártúra a Rajna mentén vezet a Namedy-kastélyhoz, majd vissza a híres gejzírhez. Az út sík, ideális hobbi-bicikliseknek.",
         "ro": "Acest tur cu bicicleta vă conduce de-a lungul Rinului spre Castelul Namedy și înapoi la faimosul gheizer. Traseul este plat și relaxant.",
-        "en": "This bike tour takes you along the Rhine to Namedy Castle and back to the famous geyser. The route is flat and ideal for leisure cyclists."
+        "en": "This bike tour takes you along the Rhine to Namedy Castle and back to the famous geyser. The route is flat and ideal for leisure cyclists.",
+        "tr": "Bu bisiklet turu sizi Ren boyunca Namedy Şatosu'na götürür ve ünlü gayzire geri getirir. Rota düz olup dinlenme amaçlı bisikletçiler için idealdir."
       },
       "gastro_picks": {
         "de": [
@@ -642,6 +680,10 @@
         "en": [
           "The Rhine cycle path is very well developed and almost gradient-free.",
           "Watch out for pedestrians on the Rhine promenade."
+        ],
+        "tr": [
+          "Ren bisiklet yolu çok iyi gelişmiş ve neredeyse eğimsizdir.",
+          "Ren promenadında yayalara dikkat edin."
         ]
       }
     },
@@ -658,7 +700,8 @@
             "de": "Geysir-Zentrum Parkplatz",
             "hu": "Gejzír-központ parkoló",
             "ro": "Parcare Centru Geysir",
-            "en": "Geyser Center Parking"
+            "en": "Geyser Center Parking",
+            "tr": "Geyser Center Otoparkı"
           },
           "coords": [
             7.4035,
@@ -673,7 +716,8 @@
             "de": "Cluster A: Parken Sie hier für Geysir und Rheinufer.",
             "hu": "A klaszter: Parkoljon itt a gejzírhez és a Rajna-parthoz.",
             "ro": "Cluster A: Parcați aici pentru gheizer și malul Rinului.",
-            "en": "Cluster A: Park here for the Geyser and Rhine banks."
+            "en": "Cluster A: Park here for the Geyser and Rhine banks.",
+            "tr": "A Kümesi: Geyser ve Ren kıyıları için burada park edin."
           }
         },
         {
@@ -681,7 +725,8 @@
             "de": "Rheintor",
             "hu": "Rajnai kapu",
             "ro": "Poarta Rinului",
-            "en": "Rhine Gate"
+            "en": "Rhine Gate",
+            "tr": "Ren Kapısı"
           },
           "coords": [
             7.404,
@@ -696,7 +741,8 @@
             "de": "Cluster A: Zu Fuß vom Parkplatz erreichbar.",
             "hu": "A klaszter: Gyalogosan elérhető a parkolótól.",
             "ro": "Cluster A: Accesibil pe jos din parcare.",
-            "en": "Cluster A: Reachable on foot from the parking lot."
+            "en": "Cluster A: Reachable on foot from the parking lot.",
+            "tr": "A Kümesi: Otoparktan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -704,7 +750,8 @@
             "de": "Alte Krahnen",
             "hu": "Régi daru",
             "ro": "Macaraua Veche",
-            "en": "Old Crane"
+            "en": "Old Crane",
+            "tr": "Eski Vinç"
           },
           "coords": [
             7.406,
@@ -719,7 +766,8 @@
             "de": "Cluster A: Kurzer Spaziergang am Wasser.",
             "hu": "A klaszter: Rövid séta a vízparton.",
             "ro": "Cluster A: Scurtă plimbare pe malul apei.",
-            "en": "Cluster A: Short walk by the water."
+            "en": "Cluster A: Short walk by the water.",
+            "tr": "A Kümesi: Su kenarında kısa bir yürüyüş."
           }
         },
         {
@@ -727,7 +775,8 @@
             "de": "Mariendom",
             "hu": "Mária-székesegyház",
             "ro": "Catedrala Sf. Maria",
-            "en": "Mariendom"
+            "en": "Mariendom",
+            "tr": "Mariendom"
           },
           "coords": [
             7.398,
@@ -742,7 +791,8 @@
             "de": "Cluster B: Fahrt zum Domparkplatz.",
             "hu": "B klaszter: Hajtson át a Dóm-parkolóba.",
             "ro": "Cluster B: Conduceți spre parcarea Catedralei.",
-            "en": "Cluster B: Drive to the Cathedral parking."
+            "en": "Cluster B: Drive to the Cathedral parking.",
+            "tr": "B Kümesi: Katedrale araçla gidin."
           }
         },
         {
@@ -750,7 +800,8 @@
             "de": "Runder Turm",
             "hu": "Kerek-torony",
             "ro": "Turnul Rotund",
-            "en": "Round Tower"
+            "en": "Round Tower",
+            "tr": "Yuvarlak Kule"
           },
           "coords": [
             7.397,
@@ -765,7 +816,8 @@
             "de": "Cluster B: Zu Fuß vom Dom.",
             "hu": "B klaszter: Gyalog a Dómtól.",
             "ro": "Cluster B: Pe jos de la Catedrală.",
-            "en": "Cluster B: Walk from the Cathedral."
+            "en": "Cluster B: Walk from the Cathedral.",
+            "tr": "B Kümesi: Katedralden yürüyün."
           }
         },
         {
@@ -773,7 +825,8 @@
             "de": "Schloss Namedy",
             "hu": "Namedy-kastély",
             "ro": "Castelul Namedy",
-            "en": "Namedy Castle"
+            "en": "Namedy Castle",
+            "tr": "Namedy Şatosu"
           },
           "coords": [
             7.35,
@@ -788,7 +841,8 @@
             "de": "Cluster C: Kurze Fahrt zum Wasserschloss.",
             "hu": "C klaszter: Rövid autóút a vízi kastélyhoz.",
             "ro": "Cluster C: Scurt drum cu mașina spre castel.",
-            "en": "Cluster C: Short drive to the moated castle."
+            "en": "Cluster C: Short drive to the moated castle.",
+            "tr": "C Kümesi: Hendekli şatoya kısa sürüş."
           }
         },
         {
@@ -796,7 +850,8 @@
             "de": "Burgruine Andernach",
             "hu": "Andernachi várrom",
             "ro": "Ruinele Cetății",
-            "en": "Castle Ruins"
+            "en": "Castle Ruins",
+            "tr": "Kale Harabeleri"
           },
           "coords": [
             7.402,
@@ -811,7 +866,8 @@
             "de": "Cluster D: Rückkehr zum Stadtpark.",
             "hu": "D klaszter: Visszatérés a városi parkhoz.",
             "ro": "Cluster D: Revenire la parcul orașului.",
-            "en": "Cluster D: Return to the city park."
+            "en": "Cluster D: Return to the city park.",
+            "tr": "D Kümesi: Şehir parkına dönüş."
           }
         }
       ],
@@ -819,7 +875,8 @@
         "de": "Mit dem Auto verbinden wir das Stadtzentrum mit dem Umland. Wir parken in strategischen Clustern, um die Altstadt zu Fuß zu erleben und fahren dann zum idyllischen Schloss Namedy am Stadtrand.",
         "hu": "Autóval kötjük össze a városközpontot a környékkel. Stratégiai klaszterekben parkolunk, hogy az óvárost gyalog fedezzük fel, majd elautózunk az idilli Namedy-kastélyhoz.",
         "ro": "Cu mașina conectăm centrul orașului cu împrejurimile. Parcăm în clustere strategice pentru a explora orașul vechi pe jos, apoi conducem spre idilicul Castel Namedy.",
-        "en": "By car, we connect the city center with the surrounding areas. We park in strategic clusters to experience the old town on foot, then drive to the idyllic Namedy Castle on the outskirts."
+        "en": "By car, we connect the city center with the surrounding areas. We park in strategic clusters to experience the old town on foot, then drive to the idyllic Namedy Castle on the outskirts.",
+        "tr": "Arabayla şehir merkezini çevre bölgelerle bağlıyoruz. Tarihi kenti yürüyerek deneyimlemek için stratejik kümelerde park ediyoruz, sonra şehrin dışında yer alan huzurlu Namedy Şatosu'na araçla gidiyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -919,6 +976,10 @@
         "en": [
           "Use the parking lots by the Rhine; they are often cheaper than central ones.",
           "Namedy Castle is often reserved for events, check the website beforehand."
+        ],
+        "tr": [
+          "Ren kıyısındaki otoparkları kullanın; genellikle merkezdekilerden daha ucuzlardır.",
+          "Namedy Şatosu sıklıkla etkinlikler için ayrılır, önceden web sitesini kontrol edin."
         ]
       }
     },
@@ -935,7 +996,8 @@
             "de": "Bahnhof Andernach",
             "hu": "Andernach vasútállomás",
             "ro": "Gara Andernach",
-            "en": "Andernach Station"
+            "en": "Andernach Station",
+            "tr": "Andernach Garı"
           },
           "coords": [
             7.393,
@@ -950,7 +1012,8 @@
             "de": "Ankunftspunkt, Start des Stadt-Clusters.",
             "hu": "Érkezési pont, a városi klaszter kezdete.",
             "ro": "Punct de sosire, începutul clusterului urban.",
-            "en": "Arrival point, start of the city cluster."
+            "en": "Arrival point, start of the city cluster.",
+            "tr": "Varış noktası, şehir kümesinin başlangıcı."
           }
         },
         {
@@ -958,7 +1021,8 @@
             "de": "Mariendom",
             "hu": "Mária-székesegyház",
             "ro": "Catedrala Sf. Maria",
-            "en": "Mariendom"
+            "en": "Mariendom",
+            "tr": "Mariendom"
           },
           "coords": [
             7.398,
@@ -973,7 +1037,8 @@
             "de": "Spaziergang vom Bahnhof (0.6 km).",
             "hu": "Séta az állomástól (0.6 km).",
             "ro": "Plimbare de la gară (0.6 km).",
-            "en": "Walk from the station (0.6 km)."
+            "en": "Walk from the station (0.6 km).",
+            "tr": "Gardan yürüyüş (0,6 km)."
           }
         },
         {
@@ -981,7 +1046,8 @@
             "de": "Runder Turm",
             "hu": "Kerek-torony",
             "ro": "Turnul Rotund",
-            "en": "Round Tower"
+            "en": "Round Tower",
+            "tr": "Yuvarlak Kule"
           },
           "coords": [
             7.397,
@@ -996,7 +1062,8 @@
             "de": "Zu Fuß innerhalb des Altstadt-Clusters.",
             "hu": "Gyalog az óvárosi klaszteren belül.",
             "ro": "Pe jos în cadrul clusterului orașului vechi.",
-            "en": "Walk within the old town cluster."
+            "en": "Walk within the old town cluster.",
+            "tr": "Eski şehir kümesi içinde yürüyüş."
           }
         },
         {
@@ -1004,7 +1071,8 @@
             "de": "Rheinufer / Geysir-Zentrum",
             "hu": "Rajna-part / Gejzír-központ",
             "ro": "Malul Rinului / Centrul Geysir",
-            "en": "Rhine Bank / Geyser Center"
+            "en": "Rhine Bank / Geyser Center",
+            "tr": "Ren Kıyısı / Geyser Center"
           },
           "coords": [
             7.4035,
@@ -1019,7 +1087,8 @@
             "de": "Buslinie 335 zum Geysir-Zentrum.",
             "hu": "335-ös busz a Gejzír-központhoz.",
             "ro": "Linia de autobuz 335 spre Centrul Geysir.",
-            "en": "Bus line 335 to the Geyser Center."
+            "en": "Bus line 335 to the Geyser Center.",
+            "tr": "Geyser Center'a giden 335 numaralı otobüs hattı."
           }
         },
         {
@@ -1027,7 +1096,8 @@
             "de": "Alte Krahnen",
             "hu": "Régi daru",
             "ro": "Macaraua Veche",
-            "en": "Old Crane"
+            "en": "Old Crane",
+            "tr": "Eski Vinç"
           },
           "coords": [
             7.406,
@@ -1042,7 +1112,8 @@
             "de": "Spaziergang an der Promenade.",
             "hu": "Séta a sétányon.",
             "ro": "Plimbare pe promenadă.",
-            "en": "Walk along the promenade."
+            "en": "Walk along the promenade.",
+            "tr": "Promenad boyunca yürüyün."
           }
         },
         {
@@ -1050,7 +1121,8 @@
             "de": "Essbare Stadt",
             "hu": "Ehető Város",
             "ro": "Orașul Comestibil",
-            "en": "Edible City"
+            "en": "Edible City",
+            "tr": "Edible City"
           },
           "coords": [
             7.401,
@@ -1065,7 +1137,8 @@
             "de": "Zu Fuß zurück Richtung Zentrum.",
             "hu": "Gyalog vissza a központ irányába.",
             "ro": "Pe jos înapoi spre centru.",
-            "en": "Walk back towards the center."
+            "en": "Walk back towards the center.",
+            "tr": "Merkeze doğru yürüyün."
           }
         }
       ],
@@ -1073,7 +1146,8 @@
         "de": "Andernach ist per Bahn perfekt erreichbar. Vom Bahnhof aus erkunden wir die Altstadt zu Fuß, nutzen lokale Busse zum Geysir-Zentrum und genießen den Tag stressfrei ohne Parkplatzsuche.",
         "hu": "Andernach vonattal tökéletesen elérhető. Az állomástól gyalog fedezzük fel az óvárost, helyi buszokat használunk a Gejzír-központhoz, és stresszmentesen élvezzük a napot parkolókeresés nélkül.",
         "ro": "Andernach este perfect accesibil cu trenul. Din gară explorăm orașul vechi pe jos, folosim autobuzele locale spre Centrul Geysir și ne bucurăm de zi fără stresul parcării.",
-        "en": "Andernach is perfectly accessible by train. From the station, we explore the old town on foot, use local buses to reach the Geyser Center, and enjoy a stress-free day without looking for parking."
+        "en": "Andernach is perfectly accessible by train. From the station, we explore the old town on foot, use local buses to reach the Geyser Center, and enjoy a stress-free day without looking for parking.",
+        "tr": "Andernach trene mükemmel ulaşılabilir. Garından tarihi kenti yürüyerek keşfediyor, Geyser Center'a ulaşmak için yerel otobüsleri kullanıyor ve park yeri aramadan stressiz bir gün geçiriyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -1168,6 +1242,10 @@
         "en": [
           "The VRM day ticket is ideal for buses and trains in the region.",
           "The train station is fully barrier-free."
+        ],
+        "tr": [
+          "Bölgede otobüs ve trenler için VRM günlük bileti idealdir.",
+          "Tren istasyonu tamamen engellilere uygundur."
         ]
       }
     }

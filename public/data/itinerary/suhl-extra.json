@@ -31,7 +31,8 @@
             "de": "Bewundere das Rathaus und die Statue des Waffenschmieds.",
             "hu": "Csodáld meg a városházát és a fegyverkovács szobrát.",
             "ro": "Admiră primăria și statuia armurierului în piață.",
-            "en": "Admire the town hall and the 'Waffenschmied' statue."
+            "en": "Admire the town hall and the 'Waffenschmied' statue.",
+            "tr": "Belediye binasını ve 'Waffenschmied' heykelini hayranlıkla izleyin."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Größte erhaltene Barockkirche in Thüringen.",
             "hu": "Türingia legnagyobb épségben maradt barokk temploma.",
             "ro": "Cea mai mare biserică barocă păstrată din Turingia.",
-            "en": "The largest preserved Baroque church in Thuringia."
+            "en": "The largest preserved Baroque church in Thuringia.",
+            "tr": "Turingen'deki en büyük korunmuş Barok kilise."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Erfahre alles über die jahrhundertelange Tradition der Waffenstadt.",
             "hu": "Ismerd meg a fegyverváros évszázados hagyományait.",
             "ro": "Află totul despre tradiția seculară a orașului armelor.",
-            "en": "Learn all about the centuries-old tradition of the weapon city."
+            "en": "Learn all about the centuries-old tradition of the weapon city.",
+            "tr": "Silah şehrinin yüzyıllık geleneği hakkında her şeyi öğrenin."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probiere eine echte Thüringer Rostbratwurst.",
             "hu": "Kóstolj meg egy igazi türingiai sült kolbászt.",
             "ro": "Gustă un cârnat autentic Thüringer Rostbratwurst.",
-            "en": "Try a real Thuringian Rostbratwurst."
+            "en": "Try a real Thuringian Rostbratwurst.",
+            "tr": "Gerçek bir Turingen Rostbratwurst deneyin."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Heimat der legendären Simson-Zweiräder.",
             "hu": "A legendás Simson kétkerekűek otthona.",
             "ro": "Locul unde s-au născut legendarele motociclete Simson.",
-            "en": "Home of the legendary Simson motorcycles."
+            "en": "Home of the legendary Simson motorcycles.",
+            "tr": "Efsanevi Simson motosikletlerinin memleketi."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Kleiner Aufstieg mit schönem Blick über die Stadt.",
             "hu": "Rövid emelkedő szép kilátással a városra.",
             "ro": "O urcare scurtă cu o vedere frumoasă asupra orașului.",
-            "en": "A short climb with a beautiful view over the city."
+            "en": "A short climb with a beautiful view over the city.",
+            "tr": "Şehrin üzerinde güzel manzaralı kısa bir tırmanış."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Genieße die Abendstimmung im Thüringer Wald.",
             "hu": "Élvezd az esti hangulatot a Türingiai-erdőben.",
             "ro": "Bucură-te de atmosfera serii în Pădurea Turingiei.",
-            "en": "Enjoy the evening atmosphere in the Thuringian Forest."
+            "en": "Enjoy the evening atmosphere in the Thuringian Forest.",
+            "tr": "Turingen Ormanı'nda akşam atmosferinin tadını çıkarın."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Suhl, am Südhang des Thüringer Waldes gelegen, blickt auf eine reiche Geschichte als Waffenstadt zurück. Dein Tag beginnt am historischen Marktplatz mit der Marienkirche. Nach dem Besuch des einzigartigen Waffenmuseums und einem herzhaften Mittagessen führt dich der Weg zum Fahrzeugmuseum, wo die Simson-Kultmopeds warten. Der Tag endet mit einem beschaulichen Blick von der Ottilienkapelle.",
         "hu": "Suhl a Türingiai-erdő déli lejtőjén fekszik, és gazdag múltra tekint vissza fegyvergyártó központként. A napod a történelmi piactéren és a Marienkirche templomnál indul. Az egyedülálló fegyvermúzeum és egy kiadós ebéd után a Járműmúzeumba látogatsz, ahol a kultikus Simson motorok várnak. A napot az Ottilienkapelle kápolnától nyíló panorámával zárhatod.",
         "ro": "Suhl, situat pe versantul sudic al Pădurii Turingiei, are o istorie bogată ca oraș al armelor. Ziua ta începe în piața istorică, lângă Marienkirche. După vizitarea unicului muzeu al armelor și un prânz copios, drumul te duce la Muzeul Vehiculelor, unde te așteaptă legendarele mopede Simson. Ziua se încheie cu o vedere liniștită de la Capela Ottilie.",
-        "en": "Suhl, located on the southern slope of the Thuringian Forest, has a rich history as a city of weapons. Your day starts at the historic market square with the St. Mary's Church. After visiting the unique weapon museum and a hearty lunch, head to the vehicle museum, where cult Simson motorcycles await. The day concludes with a peaceful view from the Ottilie Chapel."
+        "en": "Suhl, located on the southern slope of the Thuringian Forest, has a rich history as a city of weapons. Your day starts at the historic market square with the St. Mary's Church. After visiting the unique weapon museum and a hearty lunch, head to the vehicle museum, where cult Simson motorcycles await. The day concludes with a peaceful view from the Ottilie Chapel.",
+        "tr": "Güney yamaçlarında yer alan Suhl, silah şehri olarak zengin bir tarihe sahiptir. Gününüze St. Mary Kilisesi'ndeki tarihi pazar meydanında başlarsınız. Benzersiz silah müzesini ve doyurucu bir öğle yemeğini takiben, kült Simson motosikletlerinin sergilendiği araç müzesine gidin. Gün, Ottilie Şapeli'nden sakin bir manzarayla sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +315,12 @@
           "Be sure to visit the weapon museum early to enjoy the details.",
           "Hiking shoes are recommended even for the city tour.",
           "The weather in the Thuringian Forest can change quickly."
+        ],
+        "tr": [
+          "Şehir merkezi yürüyerek kolayca gezilebilir, ancak bazı eğimler bekleyin.",
+          "Detayların tadını çıkarmak için silah müzesini erken ziyaret edin.",
+          "Şehir turu için bile yürüyüş ayakkabısı önerilir.",
+          "Turingen Ormanı'nda hava hızla değişebilir."
         ]
       }
     },
@@ -333,7 +347,8 @@
             "de": "Startpunkt im Herzen der Stadt.",
             "hu": "Indulópont a város szívében.",
             "ro": "Punctul de plecare din inima orașului.",
-            "en": "Starting point in the heart of the city."
+            "en": "Starting point in the heart of the city.",
+            "tr": "Şehrin kalbinde başlangıç noktası."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Steiler Anstieg, aber die beste Aussicht auf Suhl.",
             "hu": "Meredek emelkedő, de innen a legjobb a kilátás Suhlra.",
             "ro": "Urcare abruptă, dar cea mai bună vedere asupra orașului.",
-            "en": "Steep climb, but the best view of Suhl."
+            "en": "Steep climb, but the best view of Suhl.",
+            "tr": "Dik tırmanış, ancak Suhl'ün en iyi manzarası."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Heimische Tiere in schöner Waldlage.",
             "hu": "Hazai állatok gyönyörű erdei környezetben.",
             "ro": "Animale locale într-un cadru forestier superb.",
-            "en": "Native animals in a beautiful forest location."
+            "en": "Native animals in a beautiful forest location.",
+            "tr": "Güzel bir orman konumunda yerli hayvanlar."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Stärke dich für den Nachmittag.",
             "hu": "Gyűjts erőt a délutánra.",
             "ro": "Prinde puteri pentru după-amiază.",
-            "en": "Refuel for the afternoon."
+            "en": "Refuel for the afternoon.",
+            "tr": "Öğleden sonra için yakıt ikmali yapın."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Passend zum Rad-Tag: Die Geschichte der Simson-Zweiräder.",
             "hu": "A bringás naphoz illően: a Simson motorok története.",
             "ro": "Potrivit pentru o zi pe roți: istoria mopedelor Simson.",
-            "en": "Fitting for a bike day: The history of Simson two-wheelers."
+            "en": "Fitting for a bike day: The history of Simson two-wheelers.",
+            "tr": "Bisiklet günü için uygun: Simson iki tekerleklerinin tarihi."
           }
         },
         {
@@ -423,7 +442,8 @@
             "de": "Modernes Kulturzentrum mit interessanter Architektur.",
             "hu": "Modern kulturális központ érdekes építészettel.",
             "ro": "Centru cultural modern cu o arhitectură interesantă.",
-            "en": "Modern cultural center with interesting architecture."
+            "en": "Modern cultural center with interesting architecture.",
+            "tr": "İlginç mimariye sahip modern kültür merkezi."
           }
         }
       ],
@@ -431,7 +451,8 @@
         "de": "Suhl mit dem Rad zu erkunden erfordert Ausdauer, belohnt aber mit fantastischen Ausblicken. Deine Tour führt vom Zentrum hinauf zum Domberg und dem Bismarckturm. Nach einer Waldetappe zum Tierpark genießt du eine Abfahrt zurück in die Stadt, wo du die Technikgeschichte im Fahrzeugmuseum bestaunen kannst.",
         "hu": "Suhl felfedezése kerékpárral kitartást igényel, de fantasztikus kilátással jutalmaz. A túrád a központból indul fel a Dombergre és a Bismarck-toronyhoz. Egy erdei szakasz után a Vadasparkba érsz, majd legurulhatsz a városba, ahol a Járműmúzeum technikai érdekességeit láthatod.",
         "ro": "Explorarea orașului Suhl pe bicicletă necesită rezistență, dar oferă priveliști fantastice. Turul tău pornește din centru spre Domberg și Turnul Bismarck. După o etapă prin pădure până la Grădina Zoologică, te bucuri de o coborâre spre oraș, unde poți admira istoria tehnicii la Muzeul Vehiculelor.",
-        "en": "Exploring Suhl by bike requires stamina but rewards you with fantastic views. Your tour leads from the center up to Domberg and the Bismarck Tower. After a forest stretch to the Tierpark, enjoy a ride back into town to marvel at technical history in the Vehicle Museum."
+        "en": "Exploring Suhl by bike requires stamina but rewards you with fantastic views. Your tour leads from the center up to Domberg and the Bismarck Tower. After a forest stretch to the Tierpark, enjoy a ride back into town to marvel at technical history in the Vehicle Museum.",
+        "tr": "Suhl'ü bisikletle keşfetmek dayanıklılık gerektirir ama size muhteşem manzaralar sunar. Turunuz merkezden Domberg ve Bismarck Kulesi'ne çıkar. Tierpark'a doğru bir orman etabı sonrası, araç müzesinde teknik tarihe hayran kalmak için şehre geri dönün."
       },
       "gastro_picks": {
         "de": [
@@ -539,6 +560,12 @@
           "Watch out for hikers on the forest paths.",
           "Check your brakes before descending from Domberg.",
           "Bring plenty of water for the climbs."
+        ],
+        "tr": [
+          "Domberg'in dik yokuşları için e-bisiklet şiddetle tavsiye edilir.",
+          "Orman yollarında yürüyüşçülere dikkat edin.",
+          "Domberg'den iniş öncesi frenlerinizi kontrol edin.",
+          "Tırmanışlar için bol su getirin."
         ]
       }
     },
@@ -565,7 +592,8 @@
             "de": "Parke im Parkhaus am CCS.",
             "hu": "Parkolj a CCS melletti parkolóházban.",
             "ro": "Parchează în parcarea de la CCS.",
-            "en": "Park in the parking garage at CCS."
+            "en": "Park in the parking garage at CCS.",
+            "tr": "CCS otoparkına park edin."
           }
         },
         {
@@ -584,7 +612,8 @@
             "de": "Ein Muss in der Waffenstadt.",
             "hu": "Kihagyhatatlan látnivaló a fegyvervárosban.",
             "ro": "O vizită obligatorie în orașul armelor.",
-            "en": "A must-see in the city of weapons."
+            "en": "A must-see in the city of weapons.",
+            "tr": "Silah şehrinde görülmesi gereken yer."
           }
         },
         {
@@ -603,7 +632,8 @@
             "de": "Beeindruckende Sammlung ostdeutscher Fahrzeuggeschichte.",
             "hu": "Kelet-német járműtörténet lenyűgöző gyűjteménye.",
             "ro": "O colecție impresionantă de vehicule din Germania de Est.",
-            "en": "Impressive collection of East German vehicle history."
+            "en": "Impressive collection of East German vehicle history.",
+            "tr": "Doğu Alman araç tarihinin etkileyici koleksiyonu."
           }
         },
         {
@@ -622,7 +652,8 @@
             "de": "Fahre hinauf zum Domberg.",
             "hu": "Hajts fel a Dombergre.",
             "ro": "Urcă cu mașina până pe Domberg.",
-            "en": "Drive up to the Domberg."
+            "en": "Drive up to the Domberg.",
+            "tr": "Domberg'e arabayla çıkın."
           }
         },
         {
@@ -641,7 +672,8 @@
             "de": "Essen mit Panoramablick.",
             "hu": "Ebéd panorámás kilátással.",
             "ro": "Masă cu vedere panoramică.",
-            "en": "Dining with a panoramic view."
+            "en": "Dining with a panoramic view.",
+            "tr": "Panoramik manzaralı yemek."
           }
         },
         {
@@ -660,7 +692,8 @@
             "de": "Direkt am Parkplatz gelegen.",
             "hu": "Közvetlenül a parkolónál található.",
             "ro": "Situat chiar lângă parcare.",
-            "en": "Located right by the parking lot."
+            "en": "Located right by the parking lot.",
+            "tr": "Otoparkın hemen yanında yer alır."
           }
         },
         {
@@ -679,7 +712,8 @@
             "de": "Kurzer Spaziergang zum Ausklang.",
             "hu": "Rövid séta a levezetéshez.",
             "ro": "O scurtă plimbare la final.",
-            "en": "Short walk to finish the day."
+            "en": "Short walk to finish the day.",
+            "tr": "Günü bitirmek için kısa yürüyüş."
           }
         }
       ],
@@ -687,7 +721,8 @@
         "de": "Mit dem Auto verbindest du bequem das Stadtzentrum mit den Aussichtspunkten im Thüringer Wald. Zuerst erkundest du zu Fuß die Museen im Zentrum (Waffen und Fahrzeuge). Danach fährst du hinauf zum Domberg für ein Mittagessen mit Aussicht und besuchst am Nachmittag den idyllisch gelegenen Tierpark am Stadtrand.",
         "hu": "Autóval kényelmesen összekötheted a városközpontot a Türingiai-erdő kilátópontjaival. Először gyalogosan fedezed fel a központi múzeumokat (fegyverek és járművek). Ezután felhajtasz a Dombergre egy panorámás ebédre, délután pedig meglátogatod a város szélén fekvő idilli Vadasparkot.",
         "ro": "Cu mașina poți conecta confortabil centrul orașului cu punctele de belvedere din Pădurea Turingiei. Mai întâi explorezi la pas muzeele din centru (arme și vehicule). Apoi conduci până pe Domberg pentru un prânz cu vedere și vizitezi după-amiaza grădina zoologică idilică de la marginea orașului.",
-        "en": "By car, you can comfortably combine the city center with viewpoints in the Thuringian Forest. First, explore the museums in the center (weapons and vehicles) on foot. Then drive up to the Domberg for lunch with a view, and in the afternoon visit the idyllic Tierpark on the outskirts."
+        "en": "By car, you can comfortably combine the city center with viewpoints in the Thuringian Forest. First, explore the museums in the center (weapons and vehicles) on foot. Then drive up to the Domberg for lunch with a view, and in the afternoon visit the idyllic Tierpark on the outskirts.",
+        "tr": "Arabayla şehir merkezini Turingen Ormanı'ndaki seyir noktalarıyla rahatça birleştirebilirsiniz. İlk önce merkezdeki müzeleri (silahlar ve araçlar) yürüyerek keşfedin. Ardından öğle yemeği için manzaralı Domberg'e çıkın ve öğleden sonra kenardaki idil Tierpark'ı ziyaret edin."
       },
       "gastro_picks": {
         "de": [
@@ -795,6 +830,12 @@
           "Park centrally to reach the weapon and vehicle museums on foot.",
           "Suhl has many one-way streets in the center.",
           "There are plenty of gas stations on the outskirts."
+        ],
+        "tr": [
+          "Domberg'e giden yol dar ve virajlıdır.",
+          "Silah ve araç müzelerine yürüyerek ulaşmak için merkezi park edin.",
+          "Suhl'ün merkezinde birçok tek yönlü sokak vardır.",
+          "Çevre semtlerde bol benzin istasyonu vardır."
         ]
       }
     },
@@ -821,7 +862,8 @@
             "de": "Zentraler Knotenpunkt für Busse.",
             "hu": "Központi buszcsomópont.",
             "ro": "Nod central pentru autobuze.",
-            "en": "Central hub for buses."
+            "en": "Central hub for buses.",
+            "tr": "Otobüsler için merkezi merkez."
           }
         },
         {
@@ -840,7 +882,8 @@
             "de": "Kurzer Fußweg vom Marktplatz.",
             "hu": "Rövid séta a piactértől.",
             "ro": "Scurtă plimbare de la piața centrală.",
-            "en": "Short walk from the market square."
+            "en": "Short walk from the market square.",
+            "tr": "Pazar meydanından kısa yürüyüş."
           }
         },
         {
@@ -859,7 +902,8 @@
             "de": "Nahe dem Busbahnhof Zentrum gelegen.",
             "hu": "A központi buszpályaudvar közelében.",
             "ro": "Situat aproape de autogara centrală.",
-            "en": "Located near the central bus station."
+            "en": "Located near the central bus station.",
+            "tr": "Merkezi otobüs terminaline yakın konumda."
           }
         },
         {
@@ -878,7 +922,8 @@
             "de": "Genieße die lokale Küche.",
             "hu": "Élvezd a helyi konyhát.",
             "ro": "Bucură-te de bucătăria locală.",
-            "en": "Enjoy the local cuisine."
+            "en": "Enjoy the local cuisine.",
+            "tr": "Yerel mutfağın tadını çıkarın."
           }
         },
         {
@@ -897,7 +942,8 @@
             "de": "Nimm die Buslinie G zum Tierpark.",
             "hu": "Használd a G jelű buszt a Vadasparkig.",
             "ro": "Ia linia de autobuz G până la grădina zoologică.",
-            "en": "Take bus line G to the Tierpark."
+            "en": "Take bus line G to the Tierpark.",
+            "tr": "Tierpark'a gitmek için G otobüs hattını kullanın."
           }
         },
         {
@@ -916,7 +962,8 @@
             "de": "Busse fahren regelmäßig zurück.",
             "hu": "A buszok rendszeresen járnak vissza.",
             "ro": "Autobuzele circulă regulat înapoi.",
-            "en": "Buses run regularly back to the center."
+            "en": "Buses run regularly back to the center.",
+            "tr": "Otobüsler merkeze düzenli olarak geri gider."
           }
         }
       ],
@@ -924,7 +971,8 @@
         "de": "Suhls öffentlicher Nahverkehr ist gut ausgebaut. Du startest am Marktplatz und besuchst die zentralen Museen bequem zu Fuß. Am Nachmittag bringt dich die Buslinie G direkt zum Tierpark, wo du die Seele im Grünen baumeln lassen kannst, bevor es zurück ins Zentrum geht.",
         "hu": "Suhl tömegközlekedése jól kiépített. A piactéren kezdesz, és a központi múzeumokat kényelmesen, gyalog látogatod meg. Délután a G jelű busz egyenesen a Vadasparkba visz, ahol kikapcsolódhatsz a zöldben, mielőtt visszatérnél a központba.",
         "ro": "Transportul public din Suhl este bine dezvoltat. Începi în piața centrală și vizitezi muzeele centrale confortabil la pas. După-amiaza, linia de autobuz G te duce direct la grădina zoologică, unde te poți relaxa în natură înainte de a te întoarce în centru.",
-        "en": "Suhl's public transport is well-developed. You start at the market square and visit the central museums comfortably on foot. In the afternoon, bus line G takes you directly to the Tierpark, where you can unwind in the greenery before heading back to the center."
+        "en": "Suhl's public transport is well-developed. You start at the market square and visit the central museums comfortably on foot. In the afternoon, bus line G takes you directly to the Tierpark, where you can unwind in the greenery before heading back to the center.",
+        "tr": "Suhl'ün toplu taşıması iyi gelişmiştir. Pazar meydanında başlayıp merkezdeki müzeleri rahatça yürüyerek ziyaret edersiniz. Öğleden sonra G hattı sizi doğrudan Tierpark'a götürür; burada yeşillikler içinde dinlenip merkeze dönebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1032,6 +1080,12 @@
           "Weekend schedules are somewhat reduced.",
           "Look for the 'CCS' stop for the vehicle museum.",
           "The bus line to the Tierpark is very punctual."
+        ],
+        "tr": [
+          "Şehir bölgesi için günlük bilet alın.",
+          "Hafta sonu tarifeleri biraz azaltılmıştır.",
+          "Araç müzesi için 'CCS' durağını arayın.",
+          "Tierpark'a giden otobüs hattı çok dakiktir."
         ]
       }
     }

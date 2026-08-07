@@ -21,7 +21,8 @@
             "de": "Hugenottenkirche",
             "hu": "Hugenotta templom",
             "ro": "Biserica Hughenoților",
-            "en": "Huguenot Church"
+            "en": "Huguenot Church",
+            "tr": "Huguenot Kilisesi"
           },
           "coords": [
             11.001,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die schlichte barocke Architektur der hugenottischen Siedler.",
             "hu": "Csodálja meg a hugenotta telepesek letisztult barokk építészetét.",
             "ro": "Admirați arhitectura barocă sobră a coloniștilor hughenoți.",
-            "en": "Admire the simple Baroque architecture of the Huguenot settlers."
+            "en": "Admire the simple Baroque architecture of the Huguenot settlers.",
+            "tr": "Huguenot yerleşimcilerin sade Barok mimarisine hayran kalın."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kunstpalais Erlangen",
             "hu": "Erlangeni Művészeti Palota",
             "ro": "Kunstpalais Erlangen",
-            "en": "Kunstpalais Erlangen"
+            "en": "Kunstpalais Erlangen",
+            "tr": "Kunstpalais Erlangen"
           },
           "coords": [
             11.003,
@@ -61,7 +64,8 @@
             "de": "Internationale zeitgenössische Kunst direkt am Marktplatz.",
             "hu": "Nemzetközi kortárs művészet közvetlenül a főtéren.",
             "ro": "Artă contemporană internațională chiar în piața centrală.",
-            "en": "International contemporary art right on the market square."
+            "en": "International contemporary art right on the market square.",
+            "tr": "Pazar meydanının hemen yanında uluslararası çağdaş sanat."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Schlossgarten & Orangerie",
             "hu": "Kastélykert és Orangerie",
             "ro": "Grădina Castelului și Oranjeria",
-            "en": "Palace Garden & Orangerie"
+            "en": "Palace Garden & Orangerie",
+            "tr": "Saray Bahçesi ve Orangerie"
           },
           "coords": [
             11.004,
@@ -85,7 +90,8 @@
             "de": "Ein herrlicher Ort zum Entspannen im Herzen der barocken Planstadt.",
             "hu": "Csodálatos hely a kikapcsolódásra a barokk tervezett város szívében.",
             "ro": "Un loc minunat pentru relaxare în inima orașului baroc.",
-            "en": "A wonderful place to relax in the heart of the Baroque planned city."
+            "en": "A wonderful place to relax in the heart of the Baroque planned city.",
+            "tr": "Barok planlı kentin kalbinde dinlenmek için harika bir yer."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanik Bahçe"
           },
           "coords": [
             11.006,
@@ -109,7 +116,8 @@
             "de": "Verpassen Sie nicht das Alpinum und die Gewächshäuser.",
             "hu": "Ne hagyja ki az Alpinumot és az üvegházakat.",
             "ro": "Nu ratați Alpinum-ul și serele tropicale.",
-            "en": "Don't miss the Alpinum and the greenhouses."
+            "en": "Don't miss the Alpinum and the greenhouses.",
+            "tr": "Alpinumu ve seraları kaçırmayın."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Stadtmuseum Erlangen",
             "hu": "Erlangeni Városi Múzeum",
             "ro": "Muzeul Orașului Erlangen",
-            "en": "Erlangen City Museum"
+            "en": "Erlangen City Museum",
+            "tr": "Erlangen Kent Müzesi"
           },
           "coords": [
             11.002,
@@ -133,7 +142,8 @@
             "de": "Erfahren Sie alles über die hugenottische Geschichte der Stadt.",
             "hu": "Ismerje meg a város hugenotta történelmének minden részletét.",
             "ro": "Aflați totul despre istoria hughenotă a orașului.",
-            "en": "Learn all about the city's Huguenot history."
+            "en": "Learn all about the city's Huguenot history.",
+            "tr": "Kentin Gürgenot (Huguenot) tarihini her yönüyle öğrenin."
           }
         }
       ],
@@ -141,7 +151,8 @@
         "de": "Erlangen besticht durch seine barocke Symmetrie. Dieser Rundgang führt Sie von der historischen Hugenottenkirche über den Marktplatz direkt in die grüne Lunge der Stadt. Der Schlossgarten und der angrenzende Botanische Garten bieten Ruhe, während das Stadtmuseum die faszinierende Geschichte der Glaubensflüchtlinge beleuchtet, die Erlangen prägten.",
         "hu": "Erlangen barokk szimmetriája lenyűgöző. Ez a séta a történelmi hugenotta templomtól a főtéren át közvetlenül a város zöld szívébe vezet. A Kastélykert és a szomszédos Botanikus kert nyugalmat áraszt, míg a Városi Múzeum a várost meghatározó hitvalló menekültek izgalmas történetét mutatja be.",
         "ro": "Erlangen impresionează prin simetria sa barocă. Acest tur vă duce de la biserica istorică a hughenoților, prin piața centrală, direct în plămânul verde al orașului. Grădina Castelului și Grădina Botanică oferă liniște, în timp ce Muzeul Orașului reflectă istoria fascinantă a refugiaților care au modelat Erlangenul.",
-        "en": "Erlangen impresses with its Baroque symmetry. This walking tour takes you from the historic Huguenot Church via the market square directly into the green heart of the city. The Palace Garden and the adjacent Botanical Garden offer peace, while the City Museum highlights the fascinating history of the refugees who shaped Erlangen."
+        "en": "Erlangen impresses with its Baroque symmetry. This walking tour takes you from the historic Huguenot Church via the market square directly into the green heart of the city. The Palace Garden and the adjacent Botanical Garden offer peace, while the City Museum highlights the fascinating history of the refugees who shaped Erlangen.",
+        "tr": "Erlangen Barok simetrisiyle etkiler. Bu yürüyüş turu sizi tarihi Gürgenot Kilisesi'nden pazar meydanına ve doğrudan kentin yeşil kalbine götürür. Saray Bahçesi ve bitişiğindeki Botanik Bahçe huzur sunarken, Kent Müzesi kenti şekillendiren mültecilerin büyüleyici tarihini öne çıkarır."
       },
       "gastro_picks": {
         "de": [
@@ -301,6 +312,12 @@
           "Visit the market square in the morning for the best light.",
           "Many museums are closed on Mondays.",
           "Combine the Botanical Garden with the Palace Garden."
+        ],
+        "tr": [
+          "Şehir merkezi düz ve yürüyerek keşfetmesi çok kolay.",
+          "En iyi ışık için sabah pazar meydanını ziyaret edin.",
+          "Birçok müze pazartesi günleri kapalıdır.",
+          "Botanik Bahçe'yi Saray Bahçesi ile birleştirin."
         ]
       }
     },
@@ -317,7 +334,8 @@
             "de": "Hugenottenkirche",
             "hu": "Hugenotta templom",
             "ro": "Biserica Hughenoților",
-            "en": "Huguenot Church"
+            "en": "Huguenot Church",
+            "tr": "Gürgenot Kilisesi"
           },
           "coords": [
             11.001,
@@ -333,7 +351,8 @@
             "de": "Startpunkt im barocken Zentrum.",
             "hu": "Kiindulópont a barokk központban.",
             "ro": "Punct de plecare în centrul baroc.",
-            "en": "Starting point in the Baroque center."
+            "en": "Starting point in the Baroque center.",
+            "tr": "Barok merkezin başlangıç noktası."
           }
         },
         {
@@ -341,7 +360,8 @@
             "de": "Siemens MedMuseum",
             "hu": "Siemens Orvostechnikai Múzeum",
             "ro": "Muzeul Siemens Med",
-            "en": "Siemens MedMuseum"
+            "en": "Siemens MedMuseum",
+            "tr": "Siemens MedMüze"
           },
           "coords": [
             11.011,
@@ -357,7 +377,8 @@
             "de": "Spannende Reise durch die Geschichte der Medizintechnik.",
             "hu": "Izgalmas utazás az orvostechnológia történetében.",
             "ro": "O călătorie captivantă prin istoria tehnologiei medicale.",
-            "en": "Exciting journey through the history of medical technology."
+            "en": "Exciting journey through the history of medical technology.",
+            "tr": "Tıp teknolojisi tarihine heyecanlı bir yolculuk."
           }
         },
         {
@@ -365,7 +386,8 @@
             "de": "Schlossgarten",
             "hu": "Kastélykert",
             "ro": "Grădina Castelului",
-            "en": "Palace Garden"
+            "en": "Palace Garden",
+            "tr": "Saray Bahçesi"
           },
           "coords": [
             11.004,
@@ -381,7 +403,8 @@
             "de": "Fahrrad abstellen und die Orangerie bewundern.",
             "hu": "Tegye le a biciklit és csodálja meg az Orangerie-t.",
             "ro": "Lăsați bicicleta și admirați Oranjeria.",
-            "en": "Park your bike and admire the Orangerie."
+            "en": "Park your bike and admire the Orangerie.",
+            "tr": "Bisikletinizi park edin ve Orangerie'yi izleyin."
           }
         },
         {
@@ -389,7 +412,8 @@
             "de": "Bergkirchweih-Gelände (Burgberg)",
             "hu": "Bergkirchweih terület (Burgberg)",
             "ro": "Zona Bergkirchweih (Burgberg)",
-            "en": "Bergkirchweih Grounds (Burgberg)"
+            "en": "Bergkirchweih Grounds (Burgberg)",
+            "tr": "Bergkirchweih Alanı (Burgberg)"
           },
           "coords": [
             11.004,
@@ -405,7 +429,8 @@
             "de": "Genießen Sie den Blick über die Stadt von den alten Bierkellern.",
             "hu": "Élvezze a kilátást a városra a régi sörpincéktől.",
             "ro": "Bucurați-vă de priveliștea asupra orașului de la vechile pivnițe de bere.",
-            "en": "Enjoy the view over the city from the old beer cellars."
+            "en": "Enjoy the view over the city from the old beer cellars.",
+            "tr": "Eski bira mahzenlerinden şehrin manzarasının keyfini çıkarın."
           }
         },
         {
@@ -413,7 +438,8 @@
             "de": "Stadtmuseum Erlangen",
             "hu": "Erlangeni Városi Múzeum",
             "ro": "Muzeul Orașului Erlangen",
-            "en": "Erlangen City Museum"
+            "en": "Erlangen City Museum",
+            "tr": "Erlangen Kent Müzesi"
           },
           "coords": [
             11.002,
@@ -429,7 +455,8 @@
             "de": "Historisches Gebäude im Norden der Innenstadt.",
             "hu": "Történelmi épület a belváros északi részén.",
             "ro": "Clădire istorică în nordul centrului orașului.",
-            "en": "Historic building in the north of the city center."
+            "en": "Historic building in the north of the city center.",
+            "tr": "Şehir merkezinin kuzeyinde tarihi bir bina."
           }
         }
       ],
@@ -437,7 +464,8 @@
         "de": "Erlangen ist eine Fahrradstadt. Auf zwei Rädern lässt sich die Achse zwischen dem modernen Siemens-Areal und dem traditionellen Burgberg perfekt erkunden. Nach einem Blick in die Medizintechnik radeln wir durch den barocken Kern zum Burgberg, wo die berühmte Bergkirchweih stattfindet, und kehren über die Altstadt zurück.",
         "hu": "Erlangen a kerékpárosok városa. Két keréken tökéletesen felfedezhető a modern Siemens-negyed és a hagyományos Burgberg közötti tengely. Az orvostechnológiai látogatás után a barokk központon át tekerünk a Burgbergre, a híres Bergkirchweih helyszínére, majd az óvároson keresztül térünk vissza.",
         "ro": "Erlangen este un oraș al bicicletelor. Pe două roți puteți explora perfect axa dintre zona modernă Siemens și tradiționalul Burgberg. După o incursiune în tehnologia medicală, pedalăm prin centrul baroc către Burgberg, locul unde are loc faimosul Bergkirchweih, și ne întoarcem prin orașul vechi.",
-        "en": "Erlangen is a bicycle city. On two wheels, you can perfectly explore the axis between the modern Siemens area and the traditional Burgberg. After a look at medical technology, we cycle through the Baroque core to the Burgberg, where the famous Bergkirchweih takes place, and return via the old town."
+        "en": "Erlangen is a bicycle city. On two wheels, you can perfectly explore the axis between the modern Siemens area and the traditional Burgberg. After a look at medical technology, we cycle through the Baroque core to the Burgberg, where the famous Bergkirchweih takes place, and return via the old town.",
+        "tr": "Erlangen bir bisiklet şehridir. İki teker üzerinde, modern Siemens bölgesi ile geleneksel Burgberg arasındaki ekseni mükemmel şekilde keşfedebilirsiniz. Tıp teknolojisine bir bakışın ardından Barok merkeze doğru pedal çevirir, ünlü Bergkirchweih'in yapıldığı Burgberg'e ulaşıp eski şehir üzerinden geri dönersiniz."
       },
       "gastro_picks": {
         "de": [
@@ -541,6 +569,11 @@
           "Use the well-developed cycle paths.",
           "The Burgberg is steep; pushing your bike is no shame.",
           "Watch out for the cobblestone streets in the old town."
+        ],
+        "tr": [
+          "İyi gelişmiş bisiklet yollarını kullanın.",
+          "Burgberg dik; bisikletinizi itmek utanılacak bir şey değil.",
+          "Eski şehirdeki kaldırım taşlarına dikkat edin."
         ]
       }
     },
@@ -557,7 +590,8 @@
             "de": "Hugenottenkirche (Cluster A)",
             "hu": "Hugenotta templom (A-klaszter)",
             "ro": "Biserica Hughenoților (Cluster A)",
-            "en": "Huguenot Church (Cluster A)"
+            "en": "Huguenot Church (Cluster A)",
+            "tr": "Gürgenot Kilisesi (Küme A)"
           },
           "coords": [
             11.001,
@@ -573,7 +607,8 @@
             "de": "Parken Sie am Bahnhofsplatz oder in den Arcaden.",
             "hu": "Parkoljon a vasútállomásnál vagy az Arcadenben.",
             "ro": "Parcați la gara centrală sau la Arcaden.",
-            "en": "Park at the station square or in the Arcaden."
+            "en": "Park at the station square or in the Arcaden.",
+            "tr": "İstasyon meydanında veya Arcaden'de park edin."
           }
         },
         {
@@ -581,7 +616,8 @@
             "de": "Schlossgarten & Orangerie (Cluster A)",
             "hu": "Kastélykert és Orangerie (A-klaszter)",
             "ro": "Grădina Castelului și Oranjeria (Cluster A)",
-            "en": "Palace Garden & Orangerie (Cluster A)"
+            "en": "Palace Garden & Orangerie (Cluster A)",
+            "tr": "Saray Bahçesi ve Orangerie (Küme A)"
           },
           "coords": [
             11.004,
@@ -597,7 +633,8 @@
             "de": "Kurzer Spaziergang vom Parkplatz aus.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking area."
+            "en": "Short walk from the parking area.",
+            "tr": "Otopark alanından kısa yürüyüş."
           }
         },
         {
@@ -605,7 +642,8 @@
             "de": "Bergkirchweih-Gelände (Cluster B)",
             "hu": "Bergkirchweih terület (B-klaszter)",
             "ro": "Zona Bergkirchweih (Cluster B)",
-            "en": "Bergkirchweih Grounds (Cluster B)"
+            "en": "Bergkirchweih Grounds (Cluster B)",
+            "tr": "Bergkirchweih Alanı (Küme B)"
           },
           "coords": [
             11.004,
@@ -621,7 +659,8 @@
             "de": "Parken Sie am Parkplatz am Burgberg.",
             "hu": "Parkoljon a Burgberg melletti parkolóban.",
             "ro": "Parcați în zona Burgberg.",
-            "en": "Park at the Burgberg parking lot."
+            "en": "Park at the Burgberg parking lot.",
+            "tr": "Burgberg otoparkında park edin."
           }
         },
         {
@@ -629,7 +668,8 @@
             "de": "Stadtmuseum Erlangen (Cluster B)",
             "hu": "Erlangeni Városi Múzeum (B-klaszter)",
             "ro": "Muzeul Orașului Erlangen (Cluster B)",
-            "en": "Erlangen City Museum (Cluster B)"
+            "en": "Erlangen City Museum (Cluster B)",
+            "tr": "Erlangen Kent Müzesi (Küme B)"
           },
           "coords": [
             11.002,
@@ -645,7 +685,8 @@
             "de": "Vom Burgberg aus zu Fuß erreichbar.",
             "hu": "A Burgbergről gyalogosan is megközelíthető.",
             "ro": "Accesibil pe jos dinspre Burgberg.",
-            "en": "Walkable from the Burgberg area."
+            "en": "Walkable from the Burgberg area.",
+            "tr": "Burgberg bölgesinden yürünebilir mesafede."
           }
         },
         {
@@ -653,7 +694,8 @@
             "de": "Siemens MedMuseum (Cluster C)",
             "hu": "Siemens Orvostechnikai Múzeum (C-klaszter)",
             "ro": "Muzeul Siemens Med (Cluster C)",
-            "en": "Siemens MedMuseum (Cluster C)"
+            "en": "Siemens MedMuseum (Cluster C)",
+            "tr": "Siemens MedMüze (Küme C)"
           },
           "coords": [
             11.011,
@@ -669,7 +711,8 @@
             "de": "Parkhaus direkt am Museum verfügbar.",
             "hu": "Parkolóház közvetlenül a múzeumnál.",
             "ro": "Parcare disponibilă chiar lângă muzeu.",
-            "en": "Parking garage available directly at the museum."
+            "en": "Parking garage available directly at the museum.",
+            "tr": "Müzenin hemen yanında otopark garajı mevcut."
           }
         }
       ],
@@ -677,7 +720,8 @@
         "de": "Mit dem Auto erkunden wir Erlangen in thematischen Clustern. Wir beginnen im barocken Zentrum (Hugenottenkirche und Schlossgarten), fahren dann zum nördlichen Burgberg mit seinen berühmten Bierkellern und dem Stadtmuseum, und schließen den Tag im modernen Siemens-Areal ab. Diese Route minimiert den Parkplatzsuchverkehr durch gezieltes Ansteuern der Schwerpunkte.",
         "hu": "Autóval tematikus csoportokban fedezzük fel Erlangent. A barokk központban kezdünk (Hugenotta templom és Kastélykert), majd az északi Burgberg felé vesszük az irányt a híres sörpincékkel és a Városi Múzeummal, a napot pedig a modern Siemens-negyedben zárjuk. Ez az útvonal a hangsúlyos pontok célzott felkeresésével minimalizálja a parkolóhely-keresést.",
         "ro": "Cu mașina explorăm Erlangen în clustere tematice. Începem în centrul baroc (Biserica Hughenoților și Grădina Castelului), apoi mergem spre Burgberg în nord, cu faimoasele sale pivnițe de bere și Muzeul Orașului, și încheiem ziua în zona modernă Siemens. Această rută minimizează căutarea parcărilor prin vizitarea punctelor principale.",
-        "en": "By car, we explore Erlangen in thematic clusters. We start in the Baroque center (Huguenot Church and Palace Garden), then drive to the northern Burgberg with its famous beer cellars and the City Museum, and finish the day in the modern Siemens area. This route minimizes searching for parking by targeting the main hubs directly."
+        "en": "By car, we explore Erlangen in thematic clusters. We start in the Baroque center (Huguenot Church and Palace Garden), then drive to the northern Burgberg with its famous beer cellars and the City Museum, and finish the day in the modern Siemens area. This route minimizes searching for parking by targeting the main hubs directly.",
+        "tr": "Arabayla, Erlangen'i tematik kümeler halinde keşfediyoruz. Barok merkezde (Gürgenot Kilisesi ve Saray Bahçesi) başlıyor, sonra ünlü bira mahzenleri ve Kent Müzesi ile kuzeydeki Burgberg'e sürüyor ve günü modern Siemens bölgesinde bitiriyoruz. Bu rota ana merkezleri hedefleyerek park yeri aramayı en aza indirir."
       },
       "gastro_picks": {
         "de": [
@@ -781,6 +825,11 @@
           "Use the city's parking guidance systems.",
           "Many streets in the city center are one-way.",
           "The Burgberg is often crowded on weekends."
+        ],
+        "tr": [
+          "Şehrin park rehberlik sistemlerini kullanın.",
+          "Şehir merkezindeki birçok cadde tek yönlüdür.",
+          "Hafta sonları Burgberg sık sık kalabalıktır."
         ]
       }
     },
@@ -797,7 +846,8 @@
             "de": "Hugenottenkirche",
             "hu": "Hugenotta templom",
             "ro": "Biserica Hughenoților",
-            "en": "Huguenot Church"
+            "en": "Huguenot Church",
+            "tr": "Gürgenot Kilisesi"
           },
           "coords": [
             11.001,
@@ -813,7 +863,8 @@
             "de": "Direkt am Hauptbahnhof gelegen.",
             "hu": "Közvetlenül a főpályaudvar mellett.",
             "ro": "Situată chiar lângă gara centrală.",
-            "en": "Located directly at the main station."
+            "en": "Located directly at the main station.",
+            "tr": "Ana istasyonun hemen yanında yer alır."
           }
         },
         {
@@ -821,7 +872,8 @@
             "de": "Kunstpalais Erlangen",
             "hu": "Erlangeni Művészeti Palota",
             "ro": "Kunstpalais Erlangen",
-            "en": "Kunstpalais Erlangen"
+            "en": "Kunstpalais Erlangen",
+            "tr": "Kunstpalais Erlangen"
           },
           "coords": [
             11.003,
@@ -837,7 +889,8 @@
             "de": "Nur wenige Gehminuten von der Kirche entfernt.",
             "hu": "Csak pár perc séta a templomtól.",
             "ro": "La doar câteva minute de mers pe jos de biserică.",
-            "en": "Just a few minutes' walk from the church."
+            "en": "Just a few minutes' walk from the church.",
+            "tr": "Kiliseden sadece birkaç dakika yürüme mesafesinde."
           }
         },
         {
@@ -845,7 +898,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanik Bahçe"
           },
           "coords": [
             11.006,
@@ -861,7 +915,8 @@
             "de": "Nutzen Sie den City-Liner Bus.",
             "hu": "Használja a City-Liner buszt.",
             "ro": "Folosiți autobuzul City-Liner.",
-            "en": "Use the City-Liner bus."
+            "en": "Use the City-Liner bus.",
+            "tr": "City-Liner otobüsünü kullanın."
           }
         },
         {
@@ -869,7 +924,8 @@
             "de": "Schlossgarten & Orangerie",
             "hu": "Kastélykert és Orangerie",
             "ro": "Grădina Castelului și Oranjeria",
-            "en": "Palace Garden & Orangerie"
+            "en": "Palace Garden & Orangerie",
+            "tr": "Saray Bahçesi ve Orangerie"
           },
           "coords": [
             11.004,
@@ -885,7 +941,8 @@
             "de": "Direkt neben dem Botanischen Garten.",
             "hu": "Közvetlenül a Botanikus kert mellett.",
             "ro": "Chiar lângă Grădina Botanică.",
-            "en": "Right next to the Botanical Garden."
+            "en": "Right next to the Botanical Garden.",
+            "tr": "Botanik Bahçe'nin hemen yanında."
           }
         },
         {
@@ -893,7 +950,8 @@
             "de": "Siemens MedMuseum",
             "hu": "Siemens Orvostechnikai Múzeum",
             "ro": "Muzeul Siemens Med",
-            "en": "Siemens MedMuseum"
+            "en": "Siemens MedMuseum",
+            "tr": "Siemens MedMüze"
           },
           "coords": [
             11.011,
@@ -909,7 +967,8 @@
             "de": "Kurze Fahrt mit dem Stadtbus Richtung Süden.",
             "hu": "Rövid buszozás déli irányba.",
             "ro": "Scurtă călătorie cu autobuzul spre sud.",
-            "en": "Short ride with the city bus heading south."
+            "en": "Short ride with the city bus heading south.",
+            "tr": "Güneye giden şehir otobüsüyle kısa bir yolculuk."
           }
         }
       ],
@@ -917,7 +976,8 @@
         "de": "Erlangens öffentliches Verkehrsnetz ist ideal für Kurztrips. Vom Hauptbahnhof aus sind die barocken Highlights fußläufig erreichbar. Der City-Liner und andere Buslinien verbinden das Zentrum schnell mit dem Botanischen Garten und dem Siemens MedMuseum im Osten. Eine stressfreie Art, Kultur und Wissenschaft zu verbinden.",
         "hu": "Erlangen tömegközlekedése ideális rövid utakhoz. A főpályaudvartól a barokk látnivalók gyalogosan is elérhetők. A City-Liner és más buszvonalak gyorsan összekötik a központot a Botanikus kerttel és a keleti részen fekvő Siemens Orvostechnikai Múzeummal. Stresszmentes módja a kultúra és a tudomány ötvözésének.",
         "ro": "Rețeaua de transport public din Erlangen este ideală pentru excursii scurte. De la gara centrală, atracțiile baroce sunt accesibile pe jos. City-Liner și alte linii de autobuz conectează rapid centrul cu Grădina Botanică și Muzeul Siemens Med din est. O modalitate fără stres de a îmbina cultura cu știința.",
-        "en": "Erlangen's public transport network is ideal for short trips. From the main station, the Baroque highlights are within walking distance. The City-Liner and other bus lines quickly connect the center with the Botanical Garden and the Siemens MedMuseum in the east. A stress-free way to combine culture and science."
+        "en": "Erlangen's public transport network is ideal for short trips. From the main station, the Baroque highlights are within walking distance. The City-Liner and other bus lines quickly connect the center with the Botanical Garden and the Siemens MedMuseum in the east. A stress-free way to combine culture and science.",
+        "tr": "Erlangen'in toplu taşıma ağı kısa geziler için ideal. Ana istasyondan Barok noktalar yürüme mesafesinde. City-Liner ve diğer otobüs hatları merkezi Botanik Bahçe ve doğudaki Siemens MedMüze ile hızlıca bağlar. Kültür ve bilimi rahatça birleştirmenin stressiz bir yolu."
       },
       "gastro_picks": {
         "de": [
@@ -1021,6 +1081,11 @@
           "Use the VGN app for real-time info.",
           "A day ticket is often worth it from the second ride.",
           "Buses run very frequently in the city center."
+        ],
+        "tr": [
+          "Gerçek zamanlı bilgi için VGN uygulamasını kullanın.",
+          "Genellikle ikinci binekten itibaren gün bileti kârlıdır.",
+          "Otobüsler şehir merkezinde çok sık çalışır."
         ]
       }
     }

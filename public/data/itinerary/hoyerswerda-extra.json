@@ -32,7 +32,8 @@
             "de": "Bewundern Sie die rekonstruierten Giebelhäuser und das Rathaus.",
             "hu": "Csodálja meg a rekonstruált oromzatos házakat és a városházát.",
             "ro": "Admirați casele cu fronton reconstruite și primăria.",
-            "en": "Admire the reconstructed gable houses and the town hall."
+            "en": "Admire the reconstructed gable houses and the town hall.",
+            "tr": "Yeniden inşa edilmiş alınlıklı evleri ve belediye binasını hayranlıkla izleyin."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Die älteste Kirche der Stadt mit wertvoller Innenausstattung.",
             "hu": "A város legrégebbi temploma értékes belső berendezéssel.",
             "ro": "Cea mai veche biserică din oraș, cu un interior valoros.",
-            "en": "The oldest church in the city with valuable interior furnishings."
+            "en": "The oldest church in the city with valuable interior furnishings.",
+            "tr": "Şehrin en eski kilisesi, değerli iç dekorasyonlara sahiptir."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Besuchen Sie das Stadtmuseum im ältesten Gebäude der Stadt.",
             "hu": "Látogasson el a városi múzeumba a város legrégebbi épületében.",
             "ro": "Vizitați muzeul orașului în cea mai veche clădire din oraș.",
-            "en": "Visit the city museum in the oldest building in the city."
+            "en": "Visit the city museum in the oldest building in the city.",
+            "tr": "Şehrin en eski binasında şehir müzesini ziyaret edin."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Ein kompakter, familienfreundlicher Zoo direkt am Schloss.",
             "hu": "Kompakt, családbarát állatkert közvetlenül a kastély mellett.",
             "ro": "O grădină zoologică compactă și primitoare, chiar lângă castel.",
-            "en": "A compact, family-friendly zoo right next to the castle."
+            "en": "A compact, family-friendly zoo right next to the castle.",
+            "tr": "Kalenin hemen yanındaki kompakt, aile dostu bir hayvanat bahçesi."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Modernes Einkaufszentrum im Herzen der Neustadt.",
             "hu": "Modern bevásárlóközpont az Újváros szívében.",
             "ro": "Centru comercial modern în inima orașului nou.",
-            "en": "Modern shopping center in the heart of the New Town."
+            "en": "Modern shopping center in the heart of the New Town.",
+            "tr": "Yeni Şehir'in kalbinde modern alışveriş merkezi."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Entdecken Sie die Geschichte der Computertechnik von Konrad Zuse.",
             "hu": "Fedezze fel a Konrad Zuse által alapított számítástechnika történetét.",
             "ro": "Descoperiți istoria tehnologiei computerelor de Konrad Zuse.",
-            "en": "Discover the history of computer technology by Konrad Zuse."
+            "en": "Discover the history of computer technology by Konrad Zuse.",
+            "tr": "Konrad Zuse tarafından bilgisayar teknolojisi tarihini keşfedin."
           }
         }
       ],
@@ -135,7 +141,8 @@
         "de": "Der Tag beginnt am historischen Marktplatz der Altstadt, umgeben von sanierten Bürgerhäusern. Nach einem Besuch der alten Johanneskirche führt der Weg zum imposanten Schloss, das die Stadtgeschichte bewahrt. Mittags erkunden Sie den direkt angrenzenden Zoo. Der Nachmittag gehört der Neustadt mit dem Lausitz-Center und dem faszinierenden Zuse-Computermuseum, das an den Pionier Konrad Zuse erinnert.",
         "hu": "A nap az óváros történelmi piacterén kezdődik, felújított polgárházak gyűrűjében. A régi Szent János-templom megtekintése után az út a város történelmét őrző impozáns kastélyhoz vezet. Délben a közvetlen szomszédságban lévő állatkertet fedezzük fel. A délután az Újvárosé, a Lausitz-Centerrel és a lenyűgöző Zuse Számítógépes Múzeummal, amely Konrad Zuse úttörő munkásságának állít emléket.",
         "ro": "Ziua începe în piața istorică a centrului vechi, înconjurată de case cetățenești renovate. După o vizită la vechea biserică Sf. Ioan, drumul duce la castelul impunător care păstrează istoria orașului. La prânz, explorăm grădina zoologică adiacentă. După-amiaza aparține orașului nou, cu Lausitz-Center și fascinantul Muzeu al Computerelor Zuse, care amintește de pionierul Konrad Zuse.",
-        "en": "The day begins at the historic market square of the Old Town, surrounded by renovated townhouses. After visiting the old St. John's Church, the path leads to the imposing castle, which preserves the city's history. At noon, you explore the directly adjacent zoo. The afternoon is dedicated to the New Town with the Lausitz-Center and the fascinating Zuse Computer Museum, commemorating pioneer Konrad Zuse."
+        "en": "The day begins at the historic market square of the Old Town, surrounded by renovated townhouses. After visiting the old St. John's Church, the path leads to the imposing castle, which preserves the city's history. At noon, you explore the directly adjacent zoo. The afternoon is dedicated to the New Town with the Lausitz-Center and the fascinating Zuse Computer Museum, commemorating pioneer Konrad Zuse.",
+        "tr": "Gün, yenilenmiş kasaba evleriyle çevrili tarihi Eski Pazar Meydanı'nda başlar. Eski St. John Kilisesi'ni ziyaret ettikten sonra yol kentin tarihini koruyan heybetli kaleye çıkar. Öğle vakti doğrudan bitişiğindeki hayvanat bahçesini gezersiniz. Öğleden sonra Yeni Şehir'e ayrılmıştır; Lausitz-Center ve öncü Konrad Zuse'yi anan ilginç Zuse Bilgisayar Müzesi sizi bekler."
       },
       "gastro_picks": {
         "de": [
@@ -259,6 +266,12 @@
           "Watch for the bilingual street signs (German/Sorbian).",
           "Combine the zoo visit with the castle museum.",
           "Use the pedestrian paths along the Elster river."
+        ],
+        "tr": [
+          "Eski Şehir çok kompakt ve yürüyerek keşfetmek için kolaydır.",
+          "İki dilli (Almanca/Sorpyaca) sokak tabelalarına dikkat edin.",
+          "Hayvanat bahçesi ziyaretini kale müzesiyle birleştirin.",
+          "Elster nehri boyunca yaya yollarını kullanın."
         ]
       }
     },
@@ -286,7 +299,8 @@
             "de": "Perfekter Startpunkt für eine Radtour durch die Stadt.",
             "hu": "Tökéletes kiindulópont egy városi kerékpártúrához.",
             "ro": "Punctul de plecare perfect pentru un tur al orașului cu bicicleta.",
-            "en": "Perfect starting point for a bike tour through the city."
+            "en": "Perfect starting point for a bike tour through the city.",
+            "tr": "Şehir içi bisiklet turu için mükemmel başlangıç noktası."
           }
         },
         {
@@ -305,7 +319,8 @@
             "de": "Fahrradabstellplätze sind direkt am Eingang vorhanden.",
             "hu": "Kerékpártárolók közvetlenül a bejáratnál találhatók.",
             "ro": "Există locuri de parcare pentru biciclete chiar la intrare.",
-            "en": "Bicycle parking spaces are available directly at the entrance."
+            "en": "Bicycle parking spaces are available directly at the entrance.",
+            "tr": "Bisiklet park yerleri doğrudan girişte mevcuttur."
           }
         },
         {
@@ -324,7 +339,8 @@
             "de": "Wellness und Badespaß für eine entspannte Mittagspause.",
             "hu": "Wellness és fürdőzés egy pihentető ebédszünethez.",
             "ro": "Wellness și distracție la scăldat pentru o pauză de prânz relaxantă.",
-            "en": "Wellness and bathing fun for a relaxed lunch break."
+            "en": "Wellness and bathing fun for a relaxed lunch break.",
+            "tr": "Rahat bir öğle molası için wellness ve yüzme eğlencesi."
           }
         },
         {
@@ -343,7 +359,8 @@
             "de": "Moderne Ausstellung in der Neustadt.",
             "hu": "Modern kiállítás az Újvárosban.",
             "ro": "Expoziție modernă în orașul nou.",
-            "en": "Modern exhibition in the New Town."
+            "en": "Modern exhibition in the New Town.",
+            "tr": "Yeni Şehir'de modern sergi."
           }
         },
         {
@@ -362,7 +379,8 @@
             "de": "Kurzer Shopping-Stopp auf der Tour.",
             "hu": "Rövid vásárlási megálló a túra során.",
             "ro": "O scurtă oprire pentru cumpărături în timpul turului.",
-            "en": "Short shopping stop on the tour."
+            "en": "Short shopping stop on the tour.",
+            "tr": "Tura kısa bir alışveriş molası ekleyin."
           }
         },
         {
@@ -381,7 +399,8 @@
             "de": "Ruhiger Moment in der historischen Kirche.",
             "hu": "Csendes pillanat a történelmi templomban.",
             "ro": "Un moment de liniște în biserica istorică.",
-            "en": "Quiet moment in the historic church."
+            "en": "Quiet moment in the historic church.",
+            "tr": "Tarihi kilisede sessiz an."
           }
         },
         {
@@ -400,7 +419,8 @@
             "de": "Abschluss der Tour am Schlosspark.",
             "hu": "A túra lezárása a kastélyparkban.",
             "ro": "Încheierea turului în parcul castelului.",
-            "en": "End of the tour at the castle park."
+            "en": "End of the tour at the castle park.",
+            "tr": "Turun sonu, kale parkında."
           }
         }
       ],
@@ -408,7 +428,8 @@
         "de": "Diese Radtour verbindet die historische Altstadt mit der modernen Neustadt und dem Naherholungsgebiet Lausitzbad. Wir starten am Marktplatz, besuchen den Zoo und radeln dann zum Lausitzbad für Entspannung. Am Nachmittag erkunden wir das Computermuseum und das Lausitz-Center, bevor wir über die Johanneskirche zurück zum Schloss radeln, wo die Tour gemütlich ausklingt.",
         "hu": "Ez a kerékpártúra összeköti a történelmi óvárost a modern Újvárossal és a Lausitzbad üdülőövezettel. A piactérről indulunk, meglátogatjuk az állatkertet, majd a Lausitzbadhoz tekerünk pihenni. Délután felfedezzük a számítógépes múzeumot és a Lausitz-Centert, mielőtt a Szent János-templomon keresztül visszatekerünk a kastélyhoz, ahol a túra kényelmesen véget ér.",
         "ro": "Acest tur cu bicicleta conectează centrul vechi istoric cu orașul nou modern și zona de recreere Lausitzbad. Începem din piață, vizităm grădina zoologică și apoi mergem cu bicicleta la Lausitzbad pentru relaxare. După-amiaza explorăm muzeul computerelor și Lausitz-Center, înainte de a pedala înapoi la castel prin biserica Sf. Ioan, unde turul se încheie confortabil.",
-        "en": "This bike tour connects the historic Old Town with the modern New Town and the Lausitzbad recreation area. We start at the market square, visit the zoo, and then cycle to Lausitzbad for relaxation. In the afternoon, we explore the computer museum and the Lausitz-Center before cycling back to the castle via St. John's Church, where the tour ends comfortably."
+        "en": "This bike tour connects the historic Old Town with the modern New Town and the Lausitzbad recreation area. We start at the market square, visit the zoo, and then cycle to Lausitzbad for relaxation. In the afternoon, we explore the computer museum and the Lausitz-Center before cycling back to the castle via St. John's Church, where the tour ends comfortably.",
+        "tr": "Bu bisiklet turu tarihi Eski Şehir’i modern Yeni Şehir ve Lausitzbad rekreasyon alanıyla birleştirir. Pazar meydanında başlıyoruz, hayvanat bahçesini ziyaret ediyoruz ve dinlenme için Lausitzbad’e pedal çeviriyoruz. Öğleden sonra bilgisayar müzesini ve Lausitz-Center’ı geziyor, sonra St. Johann Kilisesi üzerinden kaleye bisikletle dönerek turu rahatça sonlandırıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -516,6 +537,12 @@
           "Use the bike paths along the main streets.",
           "Combine the tour with a trip to the Lusatian Lake District.",
           "Wear a helmet, especially in the busy New Town."
+        ],
+        "tr": [
+          "Şehir düz ve bisiklet için ideal.",
+          "Ana caddeler boyunca bisiklet yollarını kullanın.",
+          "Turu Lausitzer Göller Bölgesi gezisiyle birleştirin.",
+          "Özellikle yoğun Yeni Şehir’de kask takın."
         ]
       }
     },
@@ -543,7 +570,8 @@
             "de": "Zentraler Parkplatz am Marktplatz verfügbar.",
             "hu": "Központi parkoló áll rendelkezésre a piactéren.",
             "ro": "Parcare centrală disponibilă în piață.",
-            "en": "Central parking available at the market square."
+            "en": "Central parking available at the market square.",
+            "tr": "Pazar meydanında merkezi otopark mevcut."
           }
         },
         {
@@ -562,7 +590,8 @@
             "de": "Kurzer Spaziergang vom Marktplatz zum Schloss.",
             "hu": "Rövid séta a piactértől a kastélyig.",
             "ro": "O scurtă plimbare de la piață la castel.",
-            "en": "Short walk from the market square to the castle."
+            "en": "Short walk from the market square to the castle.",
+            "tr": "Pazar meydanından kaleye kısa yürüyüş mesafesi."
           }
         },
         {
@@ -581,7 +610,8 @@
             "de": "Direkt neben dem Schloss, kein Umparken nötig.",
             "hu": "Közvetlenül a kastély mellett, nem kell átparkolni.",
             "ro": "Chiar lângă castel, nu este nevoie de mutarea mașinii.",
-            "en": "Right next to the castle, no need to move the car."
+            "en": "Right next to the castle, no need to move the car.",
+            "tr": "Kalenin hemen yanında, arabayı taşımaya gerek yok."
           }
         },
         {
@@ -600,7 +630,8 @@
             "de": "Eigener Parkplatz direkt vor dem Museum.",
             "hu": "Saját parkoló közvetlenül a múzeum előtt.",
             "ro": "Parcare proprie chiar în fața muzeului.",
-            "en": "Private parking directly in front of the museum."
+            "en": "Private parking directly in front of the museum.",
+            "tr": "Müzenin hemen önünde özel otopark."
           }
         },
         {
@@ -619,7 +650,8 @@
             "de": "Großes Parkhaus mit direktem Zugang zum Center.",
             "hu": "Nagy parkolóház közvetlen hozzáféréssel a központhoz.",
             "ro": "Parcare mare cu acces direct la centru.",
-            "en": "Large parking garage with direct access to the center."
+            "en": "Large parking garage with direct access to the center.",
+            "tr": "Merkeze doğrudan erişimli büyük çok katlı otopark."
           }
         },
         {
@@ -638,7 +670,8 @@
             "de": "Ein Muss für Fans der Krabat-Sage, 10 Min. Fahrt.",
             "hu": "Kihagyhatatlan a Krabat-rajongóknak, 10 perc autóval.",
             "ro": "O necesitate pentru fanii legendei Krabat, 10 min. de mers cu mașina.",
-            "en": "A must for fans of the Krabat legend, 10 min drive."
+            "en": "A must for fans of the Krabat legend, 10 min drive.",
+            "tr": "Krabat efsanesi hayranları için mutlaka görülmesi gereken yer, 10 dakikalık sürüş."
           }
         }
       ],
@@ -646,7 +679,8 @@
         "de": "Mit dem Auto erkunden wir Hoyerswerda und die mystische Krabat-Mühle im nahegelegenen Schwarzkollm. Wir starten in der Altstadt, parken zentral für Schloss und Zoo. Danach geht es in die Neustadt zum Zuse-Museum und zum Shopping. Den krönenden Abschluss bildet der Besuch der Krabat-Mühle, wo die sorbische Sage lebendig wird.",
         "hu": "Autóval fedezzük fel Hoyerswerdát és a közeli Schwarzkollmban található misztikus Krabat-malmot. Az óvárosban kezdünk, központi helyen parkolunk a kastély és az állatkert meglátogatásához. Ezután az Újvárosba megyünk a Zuse múzeumba és vásárolni. A napot a Krabat-malom meglátogatása koronázza meg, ahol életre kel a szorb legenda.",
         "ro": "Cu mașina explorăm Hoyerswerda și moara mistică Krabat din Schwarzkollm, aflată în apropiere. Începem în centrul vechi, parcând central pentru castel și grădina zoologică. Apoi mergem în orașul nou la muzeul Zuse și la cumpărături. Punctul culminant este vizita la moara Krabat, unde legenda sorabă prinde viață.",
-        "en": "By car, we explore Hoyerswerda and the mystical Krabat Mill in nearby Schwarzkollm. We start in the Old Town, parking centrally for the castle and zoo. Then we head to the New Town for the Zuse museum and shopping. The grand finale is a visit to the Krabat Mill, where the Sorbian legend comes to life."
+        "en": "By car, we explore Hoyerswerda and the mystical Krabat Mill in nearby Schwarzkollm. We start in the Old Town, parking centrally for the castle and zoo. Then we head to the New Town for the Zuse museum and shopping. The grand finale is a visit to the Krabat Mill, where the Sorbian legend comes to life.",
+        "tr": "Arabayla Hoyerswerda ve yakınlardaki Schwarzkollm’daki mistik Krabat Değirmeni’ni keşfediyoruz. Eski Şehir’de başlıyoruz, kale ve hayvanat bahçesi için merkezi olarak park ediyoruz. Ardından Yeni Şehir’e Zuse müzesi ve alışveriş için gidiyoruz. Büyük final, Sorb efsanesinin canlandığı Krabat Değirmeni ziyaretiyle oluyor."
       },
       "gastro_picks": {
         "de": [
@@ -754,6 +788,12 @@
           "The drive to Schwarzkollm takes about 10-15 minutes.",
           "Parking at the zoo is often full on weekends.",
           "Watch for wildlife crossing on the country roads."
+        ],
+        "tr": [
+          "Uzun süreli kalışlar için Yeni Şehir’deki çok katlı otoparkları kullanın.",
+          "Schwarzkollm’e sürüş yaklaşık 10–15 dakika sürer.",
+          "Hafta sonları hayvanat bahçesi otoparkı sık sık dolu olur.",
+          "Kırsal yollarda yaban hayatı geçişlerine dikkat edin."
         ]
       }
     },
@@ -781,7 +821,8 @@
             "de": "Bushaltestelle 'Markt' direkt am Platz.",
             "hu": "Buszmegálló 'Markt' közvetlenül a téren.",
             "ro": "Stația de autobuz 'Markt' chiar în piață.",
-            "en": "Bus stop 'Markt' right at the square."
+            "en": "Bus stop 'Markt' right at the square.",
+            "tr": "'Markt' otobüs durağı meydanda hemen yanında."
           }
         },
         {
@@ -800,7 +841,8 @@
             "de": "Vom Marktplatz bequem zu Fuß erreichbar.",
             "hu": "A piactértől kényelmesen elérhető gyalog.",
             "ro": "Accesibil convenabil pe jos din piață.",
-            "en": "Conveniently accessible on foot from the market square."
+            "en": "Conveniently accessible on foot from the market square.",
+            "tr": "Pazar meydanından yürüyerek kolay ulaşım."
           }
         },
         {
@@ -819,7 +861,8 @@
             "de": "Eingang in der Nähe der Schlossanlage.",
             "hu": "Bejárat a kastélyegyüttes közelében.",
             "ro": "Intrarea este lângă complexul castelului.",
-            "en": "Entrance near the castle complex."
+            "en": "Entrance near the castle complex.",
+            "tr": "Giriş kale kompleksine yakın."
           }
         },
         {
@@ -838,7 +881,8 @@
             "de": "Zentrale Umsteigestelle 'Lausitzer Platz'.",
             "hu": "Központi átszállópont 'Lausitzer Platz'.",
             "ro": "Punct central de transfer 'Lausitzer Platz'.",
-            "en": "Central transfer point 'Lausitzer Platz'."
+            "en": "Central transfer point 'Lausitzer Platz'.",
+            "tr": "Merkezi aktarma noktası 'Lausitzer Platz'."
           }
         },
         {
@@ -857,7 +901,8 @@
             "de": "Vom Lausitz-Center kurzer Fußweg durch die Neustadt.",
             "hu": "A Lausitz-Centertől rövid séta az Újvároson keresztül.",
             "ro": "De la Lausitz-Center, o scurtă plimbare prin orașul nou.",
-            "en": "Short walk from the Lausitz-Center through the New Town."
+            "en": "Short walk from the Lausitz-Center through the New Town.",
+            "tr": "Lausitz-Center’dan Yeni Şehir üzerinden kısa yürüyüş."
           }
         },
         {
@@ -876,7 +921,8 @@
             "de": "Rückfahrt mit dem Citybus in die Altstadt.",
             "hu": "Visszautazás a városi busszal az óvárosba.",
             "ro": "Întoarcere cu autobuzul local în centrul vechi.",
-            "en": "Return journey by city bus to the Old Town."
+            "en": "Return journey by city bus to the Old Town.",
+            "tr": "Dönüş yolculuğu şehir otobüsüyle Eski Şehir’e."
           }
         }
       ],
@@ -884,7 +930,8 @@
         "de": "Hoyerswerda lässt sich hervorragend mit dem dichten Citybus-Netz erkunden. Wir starten in der Altstadt am Markt und besuchen Schloss und Zoo. Danach bringt uns der Bus in die Neustadt zum Lausitz-Center und zum Zuse-Museum. Die Tour endet wieder in der Altstadt an der Johanneskirche, bequem erreichbar mit dem öffentlichen Nahverkehr.",
         "hu": "Hoyerswerda kiválóan felfedezhető a sűrű városi buszhálózattal. Az óvárosban, a piacon kezdünk, meglátogatjuk a kastélyt és az állatkertet. Ezután a busz elvisz minket az Újvárosba, a Lausitz-Centerhez és a Zuse múzeumhoz. A túra ismét az óvárosban ér véget a Szent János-templomnál, amely tömegközlekedéssel kényelmesen elérhető.",
         "ro": "Hoyerswerda poate fi explorată excelent cu rețeaua densă de autobuze locale. Începem în piața din centrul vechi și vizităm castelul și grădina zoologică. Apoi autobuzul ne duce în orașul nou la Lausitz-Center și la muzeul Zuse. Turul se încheie din nou în centrul vechi la biserica Sf. Ioan, ușor accesibilă cu transportul public.",
-        "en": "Hoyerswerda can be explored excellently with the dense city bus network. We start in the Old Town at the market and visit the castle and zoo. Then the bus takes us to the New Town to the Lausitz-Center and the Zuse Museum. The tour ends back in the Old Town at St. John's Church, easily accessible by public transport."
+        "en": "Hoyerswerda can be explored excellently with the dense city bus network. We start in the Old Town at the market and visit the castle and zoo. Then the bus takes us to the New Town to the Lausitz-Center and the Zuse Museum. The tour ends back in the Old Town at St. John's Church, easily accessible by public transport.",
+        "tr": "Hoyerswerda, yoğun şehir otobüs ağıyla mükemmel şekilde keşfedilebilir. Eski Şehir’de pazarda başlıyoruz, kale ve hayvanat bahçesini ziyaret ediyoruz. Ardından otobüs bizi Lausitz-Center ve Zuse Müzesi için Yeni Şehir’e götürüyor. Tur, toplu taşıma ile kolayca ulaşılabilen St. Johann Kilisesi’nde Eski Şehir’e geri dönerek sona eriyor."
       },
       "gastro_picks": {
         "de": [
@@ -992,6 +1039,12 @@
           "Buses usually run every 30 minutes.",
           "Use the VVO app for real-time information.",
           "The main transfer points are the train station and Lausitzer Platz."
+        ],
+        "tr": [
+          "Şehir otobüsü için günlük bilet alın.",
+          "Otobüsler genellikle her 30 dakikada bir çalışır.",
+          "Gerçek zamanlı bilgi için VVO uygulamasını kullanın.",
+          "Ana aktarma noktaları tren istasyonu ve Lausitzer Platz’tır."
         ]
       }
     }

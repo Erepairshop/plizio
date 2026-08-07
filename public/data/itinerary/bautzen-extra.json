@@ -21,7 +21,8 @@
             "de": "Reichenturm",
             "hu": "Reichenturm (Gazdag-torony)",
             "ro": "Reichenturm",
-            "en": "Reichenturm"
+            "en": "Reichenturm",
+            "tr": "Reichenturm"
           },
           "coords": [
             14.4278,
@@ -36,7 +37,8 @@
             "de": "Der schiefe Turm von Bautzen bietet eine tolle Aussicht.",
             "hu": "Bautzen ferde tornya, nagyszerű panorámával.",
             "ro": "Turnul înclinat din Bautzen oferă o vedere panoramică excelentă.",
-            "en": "Bautzen's leaning tower offers a great panoramic view."
+            "en": "Bautzen's leaning tower offers a great panoramic view.",
+            "tr": "Bautzen'in eğik kulesi harika bir panoramik manzara sunuyor."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Hauptmarkt & Rathaus",
             "hu": "Főtér és Városháza",
             "ro": "Piața Principală și Primăria",
-            "en": "Main Market & Town Hall"
+            "en": "Main Market & Town Hall",
+            "tr": "Ana Pazar & Belediye Binası"
           },
           "coords": [
             14.4242,
@@ -59,7 +62,8 @@
             "de": "Schauen Sie sich die Senfläden direkt am Platz an.",
             "hu": "Nézze meg a mustárboltokat közvetlenül a téren.",
             "ro": "Vizitați magazinele de muștar direct în piață.",
-            "en": "Check out the mustard shops right on the square."
+            "en": "Check out the mustard shops right on the square.",
+            "tr": "Tam meydandaki hardal dükkanlarına göz atın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Dom St. Petri",
             "hu": "Szent Péter-dóm",
             "ro": "Catedrala Sf. Petru",
-            "en": "St. Peter's Cathedral"
+            "en": "St. Peter's Cathedral",
+            "tr": "Aziz Petrus Katedrali"
           },
           "coords": [
             14.4239,
@@ -82,7 +87,8 @@
             "de": "Deutschlands größte Simultankirche (evangelisch & katholisch).",
             "hu": "Németország legnagyobb szimultán (közös) temploma.",
             "ro": "Cea mai mare biserică simultană (catolică și protestantă) din Germania.",
-            "en": "Germany's largest simultaneous church (Protestant & Catholic)."
+            "en": "Germany's largest simultaneous church (Protestant & Catholic).",
+            "tr": "Almanya'nın en büyük eşzamanlı kilisesi (Protestan & Katolik)."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Ortenburg",
             "hu": "Ortenburg vára",
             "ro": "Castelul Ortenburg",
-            "en": "Ortenburg Castle"
+            "en": "Ortenburg Castle",
+            "tr": "Ortenburg Kalesi"
           },
           "coords": [
             14.4206,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie das Matthiastor mit dem Reiterstandbild.",
             "hu": "Nézze meg a Mátyás-kaput a lovasszoborral.",
             "ro": "Vizitați Poarta lui Matia cu statuia ecvestră.",
-            "en": "Visit the Matthias Gate with the equestrian statue."
+            "en": "Visit the Matthias Gate with the equestrian statue.",
+            "tr": "Atlı heykelli Matthias Kapısı'nı ziyaret edin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Sorbische Museum",
             "hu": "Szorb Múzeum",
             "ro": "Muzeul Sorb",
-            "en": "Sorbian Museum"
+            "en": "Sorbian Museum",
+            "tr": "Sorb Müzesi"
           },
           "coords": [
             14.4208,
@@ -128,7 +137,8 @@
             "de": "Eintauchen in die sorbische Kultur und Sprache.",
             "hu": "Merüljön el a szorb kultúrában és nyelvben.",
             "ro": "Descoperiți cultura și limba sorabilor.",
-            "en": "Dive into the Sorbian culture and language."
+            "en": "Dive into the Sorbian culture and language.",
+            "tr": "Sorb kültürüne ve diline dalın."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Alte Wasserkunst",
             "hu": "Régi Vízmű",
             "ro": "Vechea Moară de Apă",
-            "en": "Old Waterworks"
+            "en": "Old Waterworks",
+            "tr": "Eski Su İstasyonu"
           },
           "coords": [
             14.4205,
@@ -151,7 +162,8 @@
             "de": "Technisches Denkmal und Wahrzeichen der Stadt.",
             "hu": "Technikai műemlék és a város jelképe.",
             "ro": "Monument tehnic și simbol al orașului.",
-            "en": "Technical monument and landmark of the city."
+            "en": "Technical monument and landmark of the city.",
+            "tr": "Şehrin teknik anıtı ve simgesi."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Michaeliskirche",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica Sf. Mihail",
-            "en": "St. Michael's Church"
+            "en": "St. Michael's Church",
+            "tr": "Aziz Mikhael Kilisesi"
           },
           "coords": [
             14.4208,
@@ -174,7 +187,8 @@
             "de": "Direkt neben der Alten Wasserkunst gelegen.",
             "hu": "Közvetlenül a Régi Vízmű mellett található.",
             "ro": "Situată chiar lângă Vechea Moară de Apă.",
-            "en": "Located right next to the Old Waterworks."
+            "en": "Located right next to the Old Waterworks.",
+            "tr": "Eski Su İstasyonu'nun hemen yanında yer alır."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Friedensbrücke",
             "hu": "Béke-híd",
             "ro": "Podul Păcii",
-            "en": "Peace Bridge"
+            "en": "Peace Bridge",
+            "tr": "Barış Köprüsü"
           },
           "coords": [
             14.4215,
@@ -197,7 +212,8 @@
             "de": "Bester Blick auf die Stadtsilhouette und die Spree.",
             "hu": "A legjobb kilátás a város sziluettjére és a Spreere.",
             "ro": "Cea mai bună vedere a siluetei orașului și a râului Spree.",
-            "en": "Best view of the city skyline and the Spree river."
+            "en": "Best view of the city skyline and the Spree river.",
+            "tr": "Şehir silueti ve Spree nehri için en iyi görüntü noktası."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Bautzen, die Stadt der Türme, empfängt Sie mit einer beeindruckenden mittelalterlichen Silhouette. Der Vormittag steht im Zeichen der Geschichte und der sorbischen Kultur, während der Nachmittag Sie zu den technischen Wundern an der Spree führt. Den Abschluss bildet ein Spaziergang über die Friedensbrücke mit dem ikonischen Postkartenblick.",
         "hu": "Bautzen, a tornyok városa, lenyűgöző középkori sziluettjével várja Önt. A délelőtt a történelem és a szorb kultúra jegyében telik, míg a délután a Spree-parti technikai csodákhoz vezet. A napot a Béke-hídon tett séta zárja, az ikonikus képeslap-kilátással.",
         "ro": "Bautzen, orașul turnurilor, vă întâmpină cu o siluetă medievală impresionantă. Dimineața este dedicată istoriei și culturii sorabilor, în timp ce după-amiaza vă conduce la minunile tehnice de pe râul Spree. Ziua se încheie cu o plimbare pe Podul Păcii, oferind acea vedere emblematică de carte poștală.",
-        "en": "Bautzen, the city of towers, welcomes you with an impressive medieval skyline. The morning is dedicated to history and Sorbian culture, while the afternoon leads you to the technical wonders along the Spree. The day concludes with a stroll across the Peace Bridge, featuring the iconic postcard view."
+        "en": "Bautzen, the city of towers, welcomes you with an impressive medieval skyline. The morning is dedicated to history and Sorbian culture, while the afternoon leads you to the technical wonders along the Spree. The day concludes with a stroll across the Peace Bridge, featuring the iconic postcard view.",
+        "tr": "Kuleler kenti Bautzen, etkileyici bir ortaçağ siluetiyle sizi karşılıyor. Sabah tarih ve Sorb kültürüne ayrılırken, öğleden sonra sizi Spree kıyısındaki teknik harikalara götürüyor. Gün, kartpostal görüntüsünü sunan Barış Köprüsü'nde yapılan bir gezintiyle sona eriyor."
       },
       "gastro_picks": {
         "de": [
@@ -325,6 +342,11 @@
           "The old town is very compact and can be explored perfectly on foot.",
           "Look out for the bilingual street signs (German/Sorbian).",
           "Buy the famous Bautzen mustard as a souvenir."
+        ],
+        "tr": [
+          "Eski şehir çok kompakt ve yürüyerek mükemmel şekilde keşfedilebilir.",
+          "İkili sokak tabelalarını (Almanca/Sorbça) gözlemleyin.",
+          "Ünlü Bautzen hardalını hatıra olarak satın alın."
         ]
       }
     },
@@ -341,7 +363,8 @@
             "de": "Reichenturm",
             "hu": "Reichenturm",
             "ro": "Reichenturm",
-            "en": "Reichenturm"
+            "en": "Reichenturm",
+            "tr": "Reichenturm"
           },
           "coords": [
             14.4278,
@@ -356,7 +379,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Indulópont a központban.",
             "ro": "Punct de plecare în centru.",
-            "en": "Starting point in the center."
+            "en": "Starting point in the center.",
+            "tr": "Merkezde başlangıç noktası."
           }
         },
         {
@@ -364,7 +388,8 @@
             "de": "Dom St. Petri",
             "hu": "Szent Péter-dóm",
             "ro": "Catedrala Sf. Petru",
-            "en": "St. Peter's Cathedral"
+            "en": "St. Peter's Cathedral",
+            "tr": "Aziz Petrus Katedrali"
           },
           "coords": [
             14.4239,
@@ -379,7 +404,8 @@
             "de": "Kurzer Stopp am beeindruckenden Dom.",
             "hu": "Rövid megálló a lenyűgöző dómnál.",
             "ro": "Scurtă oprire la catedrala impresionantă.",
-            "en": "Short stop at the impressive cathedral."
+            "en": "Short stop at the impressive cathedral.",
+            "tr": "Etkileyici katedralde kısa durak."
           }
         },
         {
@@ -387,7 +413,8 @@
             "de": "Friedensbrücke",
             "hu": "Béke-híd",
             "ro": "Podul Păcii",
-            "en": "Peace Bridge"
+            "en": "Peace Bridge",
+            "tr": "Barış Köprüsü"
           },
           "coords": [
             14.4215,
@@ -402,7 +429,8 @@
             "de": "Fotostopp auf dem Weg aus der Stadt.",
             "hu": "Fotómegálló a városból kifelé menet.",
             "ro": "Oprire pentru fotografii la ieșirea din oraș.",
-            "en": "Photo stop on the way out of town."
+            "en": "Photo stop on the way out of town.",
+            "tr": "Şehirden çıkarken fotoğraf molası."
           }
         },
         {
@@ -410,7 +438,8 @@
             "de": "Talsperre Bautzen",
             "hu": "Bautzeni víztározó",
             "ro": "Barajul Bautzen",
-            "en": "Bautzen Reservoir"
+            "en": "Bautzen Reservoir",
+            "tr": "Bautzen Rezervuarı"
           },
           "coords": [
             14.445,
@@ -425,7 +454,8 @@
             "de": "Perfekt für eine Pause am Wasser.",
             "hu": "Tökéletes egy pihenőhöz a víznél.",
             "ro": "Perfect pentru o pauză lângă apă.",
-            "en": "Perfect for a break by the water."
+            "en": "Perfect for a break by the water.",
+            "tr": "Suyun kenarında mola için ideal."
           }
         },
         {
@@ -433,7 +463,8 @@
             "de": "Dinosaurierpark Kleinwelka",
             "hu": "Kleinwelka dinoszaurusz park",
             "ro": "Parcul de dinozauri Kleinwelka",
-            "en": "Dinosaur Park Kleinwelka"
+            "en": "Dinosaur Park Kleinwelka",
+            "tr": "Kleinwelka Dinozor Parkı"
           },
           "coords": [
             14.385,
@@ -448,7 +479,8 @@
             "de": "Deutschlands größter Saurierpark.",
             "hu": "Németország legnagyobb dínóparkja.",
             "ro": "Cel mai mare parc de dinozauri din Germania.",
-            "en": "Germany's largest dinosaur park."
+            "en": "Germany's largest dinosaur park.",
+            "tr": "Almanya'nın en büyük dinozor parkı."
           }
         },
         {
@@ -456,7 +488,8 @@
             "de": "Ortenburg",
             "hu": "Ortenburg vára",
             "ro": "Castelul Ortenburg",
-            "en": "Ortenburg Castle"
+            "en": "Ortenburg Castle",
+            "tr": "Ortenburg Kalesi"
           },
           "coords": [
             14.4206,
@@ -471,7 +504,8 @@
             "de": "Zurück in der Altstadt.",
             "hu": "Vissza az óvárosba.",
             "ro": "Înapoi în orașul vechi.",
-            "en": "Back in the old town."
+            "en": "Back in the old town.",
+            "tr": "Tekrar eski şehirde."
           }
         }
       ],
@@ -479,7 +513,8 @@
         "de": "Diese Radtour kombiniert den mittelalterlichen Charme von Bautzen mit der Natur der Umgebung. Nach einer Erkundung der Türme radeln Sie zur Talsperre und zum berühmten Saurierpark in Kleinwelka, bevor Sie über ruhige Wege zurückkehren.",
         "hu": "Ez a kerékpártúra ötvözi Bautzen középkori báját a környék természetével. A tornyok felfedezése után a víztározóhoz és a híres Kleinwelka dínóparkhoz teker, majd csendes utakon tér vissza.",
         "ro": "Acest tur cu bicicleta combină farmecul medieval al orașului Bautzen cu natura din împrejurimi. După explorarea turnurilor, pedalați spre baraj și faimosul parc de dinozauri din Kleinwelka, înainte de a reveni pe drumuri liniștite.",
-        "en": "This bike tour combines Bautzen's medieval charm with the surrounding nature. After exploring the towers, you cycle to the reservoir and the famous Dinosaur Park in Kleinwelka before returning via quiet paths."
+        "en": "This bike tour combines Bautzen's medieval charm with the surrounding nature. After exploring the towers, you cycle to the reservoir and the famous Dinosaur Park in Kleinwelka before returning via quiet paths.",
+        "tr": "Bu bisiklet turu Bautzen'in ortaçağ çekiciliğini çevredeki doğayla birleştirir. Kuleleri keşfettikten sonra rezervuara ve Kleinwelka'daki ünlü Dinozor Parkı'na pedal çevirip sakin patikalar üzerinden geri dönüyorsunuz."
       },
       "gastro_picks": {
         "de": [
@@ -583,6 +618,11 @@
           "The paths around the reservoir are flat and well-developed.",
           "The old town has many cobblestones, pushing is often better.",
           "A bike lock is mandatory at the Dinosaur Park."
+        ],
+        "tr": [
+          "Rezervuar çevresindeki yollar düz ve iyi geliştirilmiş.",
+          "Eski şehirde birçok kaldırım taşı var, itmek genellikle daha iyi.",
+          "Dinozor Parkı'nda bisiklet kilidi zorunludur."
         ]
       }
     },
@@ -599,7 +639,8 @@
             "de": "Reichenturm (Cluster Altstadt)",
             "hu": "Reichenturm (Óváros klaszter)",
             "ro": "Reichenturm (Clusterul orașului vechi)",
-            "en": "Reichenturm (Old Town Cluster)"
+            "en": "Reichenturm (Old Town Cluster)",
+            "tr": "Reichenturm (Eski Şehir Kümesi)"
           },
           "coords": [
             14.4278,
@@ -614,7 +655,8 @@
             "de": "Parken Sie am Krone-Parkplatz.",
             "hu": "Parkoljon a Krone parkolóban.",
             "ro": "Parcați la parcarea Krone.",
-            "en": "Park at the Krone parking lot."
+            "en": "Park at the Krone parking lot.",
+            "tr": "Krone otoparkına park edin."
           }
         },
         {
@@ -622,7 +664,8 @@
             "de": "Dom St. Petri",
             "hu": "Szent Péter-dóm",
             "ro": "Catedrala Sf. Petru",
-            "en": "St. Peter's Cathedral"
+            "en": "St. Peter's Cathedral",
+            "tr": "Aziz Petrus Katedrali"
           },
           "coords": [
             14.4239,
@@ -637,7 +680,8 @@
             "de": "Zu Fuß vom Parkplatz erreichbar.",
             "hu": "Gyalog elérhető a parkolótól.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking lot."
+            "en": "Accessible on foot from the parking lot.",
+            "tr": "Otoparktan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -645,7 +689,8 @@
             "de": "Ortenburg",
             "hu": "Ortenburg",
             "ro": "Castelul Ortenburg",
-            "en": "Ortenburg Castle"
+            "en": "Ortenburg Castle",
+            "tr": "Ortenburg Kalesi"
           },
           "coords": [
             14.4206,
@@ -660,7 +705,8 @@
             "de": "Abschluss des Altstadt-Clusters.",
             "hu": "Az óvárosi klaszter zárása.",
             "ro": "Finalul clusterului orașului vechi.",
-            "en": "End of the old town cluster."
+            "en": "End of the old town cluster.",
+            "tr": "Eski şehir kümesinin sonu."
           }
         },
         {
@@ -668,7 +714,8 @@
             "de": "Dinosaurierpark Kleinwelka",
             "hu": "Saurierpark Kleinwelka",
             "ro": "Parcul de dinozauri Kleinwelka",
-            "en": "Dinosaur Park Kleinwelka"
+            "en": "Dinosaur Park Kleinwelka",
+            "tr": "Kleinwelka Dinozor Parkı"
           },
           "coords": [
             14.385,
@@ -683,7 +730,8 @@
             "de": "Fahrt zum nächsten Cluster.",
             "hu": "Utazás a következő klaszterhez.",
             "ro": "Conduceți spre următorul cluster.",
-            "en": "Drive to the next cluster."
+            "en": "Drive to the next cluster.",
+            "tr": "Bir sonraki kümeye sürün."
           }
         },
         {
@@ -691,7 +739,8 @@
             "de": "Irrgarten Kleinwelka",
             "hu": "Kleinwelkai útvesztő",
             "ro": "Labirintul Kleinwelka",
-            "en": "Kleinwelka Maze"
+            "en": "Kleinwelka Maze",
+            "tr": "Kleinwelka Labirenti"
           },
           "coords": [
             14.386,
@@ -706,7 +755,8 @@
             "de": "Direkt neben dem Saurierpark (zu Fuß).",
             "hu": "Közvetlenül a dínópark mellett (gyalog).",
             "ro": "Chiar lângă parcul de dinozauri (pe jos).",
-            "en": "Right next to the Dinosaur Park (on foot)."
+            "en": "Right next to the Dinosaur Park (on foot).",
+            "tr": "Dinozor Parkı'nın hemen yanında (yürüyerek)."
           }
         },
         {
@@ -714,7 +764,8 @@
             "de": "Gedenkstätte Bautzen",
             "hu": "Bautzeni Emlékhely",
             "ro": "Memorialul Bautzen",
-            "en": "Bautzen Memorial"
+            "en": "Bautzen Memorial",
+            "tr": "Bautzen Anıtı"
           },
           "coords": [
             14.4375,
@@ -729,7 +780,8 @@
             "de": "Fahrt zurück in die Stadt (Bautzen II).",
             "hu": "Utazás vissza a városba (Bautzen II).",
             "ro": "Conduceți înapoi în oraș (Bautzen II).",
-            "en": "Drive back to town (Bautzen II)."
+            "en": "Drive back to town (Bautzen II).",
+            "tr": "Şehre geri dönün (Bautzen II)."
           }
         }
       ],
@@ -737,7 +789,8 @@
         "de": "Mit dem Auto erkunden Sie Bautzen effizient in Clustern. Zuerst die historische Altstadt zu Fuß, dann ein Ausflug in den Norden zum Saurierpark Kleinwelka. Zum Abschluss besuchen Sie die bewegende Gedenkstätte im Stadtgebiet.",
         "hu": "Autóval hatékonyan, klaszterekben fedezheti fel Bautzent. Először a történelmi óvárost gyalog, majd egy kirándulás északra, a Kleinwelka dínóparkba. Végül látogasson el a megrendítő városi emlékhelyre.",
         "ro": "Cu mașina, explorați Bautzen eficient în clustere. Mai întâi orașul vechi istoric pe jos, apoi o excursie în nord la parcul de dinozauri Kleinwelka. La final, vizitați memorialul emoționant din oraș.",
-        "en": "By car, you explore Bautzen efficiently in clusters. First, the historical old town on foot, then a trip north to the Dinosaur Park Kleinwelka. Finally, visit the moving memorial in the city area."
+        "en": "By car, you explore Bautzen efficiently in clusters. First, the historical old town on foot, then a trip north to the Dinosaur Park Kleinwelka. Finally, visit the moving memorial in the city area.",
+        "tr": "Arabayla Bautzen'i kümeler halinde verimli keşfedersiniz. Önce tarihi eski şehir yürüyerek, sonra kuzeye Dinozor Parkı Kleinwelka'ya bir gezi. Son olarak şehir bölgesindeki etkileyici anıtı ziyaret edin."
       },
       "gastro_picks": {
         "de": [
@@ -841,6 +894,11 @@
           "Use central parking lots; the old town is largely car-free.",
           "Allow enough time for the Dinosaur Park if you're with kids.",
           "Watch out for one-way streets near the cathedral."
+        ],
+        "tr": [
+          "Merkezi otoparkları kullanın; eski şehir büyük ölçüde araçsızdır.",
+          "Çocuklarla birlikteyseniz Dinozor Parkı için yeterli zaman ayırın.",
+          "Katedral yakınlarındaki tek yönlü sokaklara dikkat edin."
         ]
       }
     },
@@ -857,7 +915,8 @@
             "de": "Bahnhof Bautzen",
             "hu": "Bautzeni vasútállomás",
             "ro": "Gara Bautzen",
-            "en": "Bautzen Station"
+            "en": "Bautzen Station",
+            "tr": "Bautzen Garı"
           },
           "coords": [
             14.43,
@@ -872,7 +931,8 @@
             "de": "Startpunkt für Reisende.",
             "hu": "Indulópont az utazóknak.",
             "ro": "Punct de plecare pentru călători.",
-            "en": "Starting point for travelers."
+            "en": "Starting point for travelers.",
+            "tr": "Seyahat edenler için başlangıç noktası."
           }
         },
         {
@@ -880,7 +940,8 @@
             "de": "Kornmarkt",
             "hu": "Kornmarkt",
             "ro": "Kornmarkt",
-            "en": "Kornmarkt"
+            "en": "Kornmarkt",
+            "tr": "Kornmarkt"
           },
           "coords": [
             14.4275,
@@ -895,7 +956,8 @@
             "de": "Busfahrt vom Bahnhof ins Zentrum.",
             "hu": "Buszozás az állomástól a központba.",
             "ro": "Călătorie cu autobuzul de la gară la centru.",
-            "en": "Bus ride from the station to the center."
+            "en": "Bus ride from the station to the center.",
+            "tr": "Gar'dan merkeze otobüs yolculuğu."
           }
         },
         {
@@ -903,7 +965,8 @@
             "de": "Reichenturm",
             "hu": "Reichenturm",
             "ro": "Reichenturm",
-            "en": "Reichenturm"
+            "en": "Reichenturm",
+            "tr": "Reichenturm"
           },
           "coords": [
             14.4278,
@@ -918,7 +981,8 @@
             "de": "Direkt am Kornmarkt gelegen (zu Fuß).",
             "hu": "Közvetlenül a Kornmarktnál (gyalog).",
             "ro": "Situat chiar la Kornmarkt (pe jos).",
-            "en": "Located right at Kornmarkt (on foot)."
+            "en": "Located right at Kornmarkt (on foot).",
+            "tr": "Kornmarkt'ın hemen yanında yer alır (yürüyerek)."
           }
         },
         {
@@ -926,7 +990,8 @@
             "de": "Dom St. Petri",
             "hu": "Szent Péter-dóm",
             "ro": "Catedrala Sf. Petru",
-            "en": "St. Peter's Cathedral"
+            "en": "St. Peter's Cathedral",
+            "tr": "Aziz Petrus Katedrali"
           },
           "coords": [
             14.4239,
@@ -941,7 +1006,8 @@
             "de": "Spaziergang durch die Altstadt.",
             "hu": "Séta az óvároson keresztül.",
             "ro": "Plimbare prin orașul vechi.",
-            "en": "Stroll through the old town."
+            "en": "Stroll through the old town.",
+            "tr": "Eski şehirde gezinti."
           }
         },
         {
@@ -949,7 +1015,8 @@
             "de": "Kleinwelka (Saurierpark)",
             "hu": "Kleinwelka (Dínópark)",
             "ro": "Kleinwelka (Parcul de dinozauri)",
-            "en": "Kleinwelka (Dinosaur Park)"
+            "en": "Kleinwelka (Dinosaur Park)",
+            "tr": "Kleinwelka (Dinozor Parkı)"
           },
           "coords": [
             14.385,
@@ -964,7 +1031,8 @@
             "de": "Buslinie 103/104 ab Lauengraben.",
             "hu": "103/104-es busz a Lauengrabentől.",
             "ro": "Linia de autobuz 103/104 de la Lauengraben.",
-            "en": "Bus line 103/104 from Lauengraben."
+            "en": "Bus line 103/104 from Lauengraben.",
+            "tr": "Lauengraben'den 103/104 numaralı otobüs hattı."
           }
         },
         {
@@ -972,7 +1040,8 @@
             "de": "Hauptmarkt",
             "hu": "Főtér",
             "ro": "Piața Principală",
-            "en": "Main Market"
+            "en": "Main Market",
+            "tr": "Ana Pazar"
           },
           "coords": [
             14.4242,
@@ -987,7 +1056,8 @@
             "de": "Zurück im Herzen der Stadt.",
             "hu": "Vissza a város szívébe.",
             "ro": "Înapoi în inima orașului.",
-            "en": "Back in the heart of the city."
+            "en": "Back in the heart of the city.",
+            "tr": "Şehrin kalbine dönüş."
           }
         }
       ],
@@ -995,7 +1065,8 @@
         "de": "Bautzen lässt sich gut mit Bus und Bahn entdecken. Vom Bahnhof geht es ins historische Zentrum, wo die wichtigsten Sights fußläufig beieinander liegen. Ein Regionalbus bringt Sie bequem zum Saurierpark Kleinwelka und zurück.",
         "hu": "Bautzen jól felfedezhető busszal és vonattal. Az állomástól a történelmi központba megyünk, ahol a legfontosabb látnivalók gyalogosan is közel vannak. Egy helyközi busz kényelmesen elviszi a Kleinwelka dínóparkba és vissza.",
         "ro": "Bautzen poate fi descoperit ușor cu autobuzul și trenul. De la gară mergem spre centrul istoric, unde principalele obiective turistice sunt la distanță de mers pe jos. Un autobuz regional vă duce confortabil la parcul de dinozauri Kleinwelka și înapoi.",
-        "en": "Bautzen is easy to discover by bus and train. From the station, you head to the historical center, where the main sights are within walking distance. A regional bus takes you comfortably to the Dinosaur Park Kleinwelka and back."
+        "en": "Bautzen is easy to discover by bus and train. From the station, you head to the historical center, where the main sights are within walking distance. A regional bus takes you comfortably to the Dinosaur Park Kleinwelka and back.",
+        "tr": "Bautzen, otobüs ve trenle keşfetmesi kolaydır. Gar'dan tarihi merkeze gidilir; ana görülecek yerler yürüme mesafesindedir. Bölgesel bir otobüs sizi konforla Kleinwelka Dinozor Parkı'na ve geri götürür."
       },
       "gastro_picks": {
         "de": [
@@ -1099,6 +1170,11 @@
           "Use the VVO app for real-time schedules.",
           "Buses to Kleinwelka run regularly but less frequently on weekends.",
           "It's a 15-minute walk from the station to the center if you miss the bus."
+        ],
+        "tr": [
+          "Gerçek zamanlı tarifeler için VVO uygulamasını kullanın.",
+          "Kleinwelka'ya giden otobüsler düzenli çalışır ancak hafta sonları daha seyrek olabilir.",
+          "Otobüsü kaçırırsanız gar ile merkez arasında yürümek 15 dakika sürer."
         ]
       }
     }

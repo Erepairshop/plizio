@@ -21,7 +21,8 @@
             "de": "Rathaus Glauchau",
             "hu": "Városháza",
             "ro": "Primăria Glauchau",
-            "en": "Glauchau Town Hall"
+            "en": "Glauchau Town Hall",
+            "tr": "Glauchau Belediye Sarayı"
           },
           "coords": [
             50.8152,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Architektur am Marktplatz.",
             "hu": "Csodálja meg a főtér építészetét.",
             "ro": "Admirați arhitectura pieței centrale.",
-            "en": "Admire the architecture on the market square."
+            "en": "Admire the architecture on the market square.",
+            "tr": "Pazar meydanındaki mimariye hayran kalın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St. Georgen Kirche",
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
-            "en": "St. George's Church"
+            "en": "St. George's Church",
+            "tr": "Aziz George Kilisesi"
           },
           "coords": [
             50.8158,
@@ -59,7 +62,8 @@
             "de": "Besichtigen Sie die wertvolle Gottfried-Silbermann-Orgel.",
             "hu": "Nézze meg az értékes Gottfried Silbermann-orgonát.",
             "ro": "Vedeți valoroasa orgă Gottfried Silbermann.",
-            "en": "Visit the valuable Gottfried Silbermann organ."
+            "en": "Visit the valuable Gottfried Silbermann organ.",
+            "tr": "Değerli Gottfried Silbermann orgunu ziyaret edin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schloss Forderglauchau",
             "hu": "Forderglauchau kastély",
             "ro": "Castelul Forderglauchau",
-            "en": "Forderglauchau Castle"
+            "en": "Forderglauchau Castle",
+            "tr": "Forderglauchau Kalesi"
           },
           "coords": [
             50.8172,
@@ -82,7 +87,8 @@
             "de": "Frührenaissanceschloss mit beeindruckendem Innenhof.",
             "hu": "Kora reneszánsz kastély lenyűgöző belső udvarral.",
             "ro": "Castel renascentist timpuriu cu o curte interioară impresionantă.",
-            "en": "Early Renaissance castle with an impressive courtyard."
+            "en": "Early Renaissance castle with an impressive courtyard.",
+            "tr": "Etkileyici avluya sahip Erken Rönesans kalesi."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Schloss Hinterglauchau",
             "hu": "Hinterglauchau kastély",
             "ro": "Castelul Hinterglauchau",
-            "en": "Hinterglauchau Castle"
+            "en": "Hinterglauchau Castle",
+            "tr": "Hinterglauchau Kalesi"
           },
           "coords": [
             50.8175,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie das Schlossmuseum zur Stadtgeschichte.",
             "hu": "Látogasson el a városi múzeumba a kastélyban.",
             "ro": "Vizitați muzeul castelului dedicat istoriei orașului.",
-            "en": "Visit the castle museum dedicated to city history."
+            "en": "Visit the castle museum dedicated to city history.",
+            "tr": "Şehir tarihine adanmış kale müzesini ziyaret edin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schlossgarten",
             "hu": "Kastélykert",
             "ro": "Grădina Castelului",
-            "en": "Castle Garden"
+            "en": "Castle Garden",
+            "tr": "Kale Bahçesi"
           },
           "coords": [
             50.8182,
@@ -128,7 +137,8 @@
             "de": "Ein idyllischer Ort für eine kurze Pause im Grünen.",
             "hu": "Idilli hely egy rövid pihenőhöz a zöldben.",
             "ro": "Un loc idilic pentru o scurtă pauză în natură.",
-            "en": "An idyllic place for a short break in the greenery."
+            "en": "An idyllic place for a short break in the greenery.",
+            "tr": "Yeşillikler içinde kısa bir mola için idyllik bir yer."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Gründelpark",
             "hu": "Gründelpark",
             "ro": "Parcul Gründel",
-            "en": "Gründelpark"
+            "en": "Gründelpark",
+            "tr": "Gründelpark"
           },
           "coords": [
             50.8085,
@@ -151,7 +162,8 @@
             "de": "Spazieren Sie um den Gründelteich.",
             "hu": "Sétáljon egyet a Gründel-tó körül.",
             "ro": "Plimbați-vă în jurul lacului Gründelteich.",
-            "en": "Take a stroll around the Gründel pond."
+            "en": "Take a stroll around the Gründel pond.",
+            "tr": "Gründel gölü çevresinde gezintiye çıkın."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Bismarckturm",
             "hu": "Bismarck-torony",
             "ro": "Turnul Bismarck",
-            "en": "Bismarck Tower"
+            "en": "Bismarck Tower",
+            "tr": "Bismarck Kulesi"
           },
           "coords": [
             50.8042,
@@ -174,7 +187,8 @@
             "de": "Bester Aussichtspunkt über die Stadt und das Umland.",
             "hu": "A legjobb kilátópont a városra és a környékre.",
             "ro": "Cel mai bun punct de observație asupra orașului.",
-            "en": "Best viewpoint over the city and surroundings."
+            "en": "Best viewpoint over the city and surroundings.",
+            "tr": "Şehir ve çevresi için en iyi seyir noktası."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag am historischen Marktplatz und besichtigen Sie die St. Georgen Kirche mit ihrer berühmten Orgel. Vormittags erkunden Sie das Doppel-Schloss-Ensemble Forder- und Hinterglauchau, das kulturelle Herz der Stadt. Nach einem Spaziergang durch den Schlossgarten führt der Weg am Nachmittag in den weitläufigen Gründelpark. Den krönenden Abschluss bietet der Sonnenuntergang am Bismarckturm.",
         "hu": "Kezdje a napot a történelmi piactéren, és látogassa meg a Szent György-templomot híres orgonájával. Délelőtt fedezze fel a Forder- és Hinterglauchau kettős kastélyegyüttest, a város kulturális szívét. A kastélykerti séta után az út délután a tágas Gründelparkba vezet. A nap fénypontja a Bismarck-toronynál élvezhető naplemente lesz.",
         "ro": "Începeți ziua în piața istorică și vizitați Biserica Sf. Gheorghe, renumită pentru orga sa. Dimineața, explorați ansamblul de castele Forder și Hinterglauchau, inima culturală a orașului. După o plimbare prin grădina castelului, traseul vă duce după-amiaza în parcul Gründel. Finalul perfect este oferit de apusul de soare de la Turnul Bismarck.",
-        "en": "Start your day at the historic market square and visit St. George's Church with its famous organ. In the morning, explore the Forder and Hinterglauchau double castle ensemble, the cultural heart of the city. After a walk through the castle garden, the path leads to the spacious Gründelpark in the afternoon. The perfect conclusion is the sunset at the Bismarck Tower."
+        "en": "Start your day at the historic market square and visit St. George's Church with its famous organ. In the morning, explore the Forder and Hinterglauchau double castle ensemble, the cultural heart of the city. After a walk through the castle garden, the path leads to the spacious Gründelpark in the afternoon. The perfect conclusion is the sunset at the Bismarck Tower.",
+        "tr": "Güne tarihi pazar meydanında başlayın ve ünlü orga sahip Aziz George Kilisesi’ni ziyaret edin. Sabah saatlerinde şehrin kültürel kalbi olan Forder ve Hinterglauchau çift kale kompleksini keşfedin. Kale bahçesinde bir yürüyüşten sonra yol öğleden sonra geniş Gründelpark’a çıkar. Günün mükemmel sonu Bismarck Kulesi’ndeki gün batımıdır."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +357,12 @@
           "The Silbermann organ can often be heard during concerts.",
           "Park in the city center and explore everything on foot.",
           "The castle museum is usually closed on Mondays."
+        ],
+        "tr": [
+          "Şehir tepelidir, rahat ayakkabılar önerilir.",
+          "Silbermann orgu konserlerde sık sık duyulabilir.",
+          "Şehir merkezine park edin ve her yeri yürüyerek keşfedin.",
+          "Kale müzesi genellikle pazartesi günleri kapalıdır."
         ]
       }
     },
@@ -358,7 +379,8 @@
             "de": "Rathaus Glauchau",
             "hu": "Városháza",
             "ro": "Primăria Glauchau",
-            "en": "Glauchau Town Hall"
+            "en": "Glauchau Town Hall",
+            "tr": "Glauchau Belediye Sarayı"
           },
           "coords": [
             50.8152,
@@ -373,7 +395,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Központi indítópont.",
             "ro": "Punct de pornire în centru.",
-            "en": "Starting point in the center."
+            "en": "Starting point in the center.",
+            "tr": "Merkezde başlangıç noktası."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Wasserturm",
             "hu": "Víztorony",
             "ro": "Turnul de apă",
-            "en": "Water Tower"
+            "en": "Water Tower",
+            "tr": "Su Kulesi"
           },
           "coords": [
             50.8225,
@@ -396,7 +420,8 @@
             "de": "Imposantes technisches Denkmal.",
             "hu": "Impozáns műszaki műemlék.",
             "ro": "Monument tehnic impunător.",
-            "en": "Imposing technical monument."
+            "en": "Imposing technical monument.",
+            "tr": "Etkileyici bir teknik anıt."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Bismarckturm",
             "hu": "Bismarck-torony",
             "ro": "Turnul Bismarck",
-            "en": "Bismarck Tower"
+            "en": "Bismarck Tower",
+            "tr": "Bismarck Kulesi"
           },
           "coords": [
             50.8042,
@@ -419,7 +445,8 @@
             "de": "Steiler Anstieg, aber tolle Aussicht.",
             "hu": "Meredek emelkedő, de remek kilátás.",
             "ro": "Urcare abruptă, dar vedere excelentă.",
-            "en": "Steep climb, but great view."
+            "en": "Steep climb, but great view.",
+            "tr": "Zorlu çıkış, ancak harika manzara."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Gründelpark",
             "hu": "Gründelpark",
             "ro": "Parcul Gründel",
-            "en": "Gründelpark"
+            "en": "Gründelpark",
+            "tr": "Gründelpark"
           },
           "coords": [
             50.8085,
@@ -442,7 +470,8 @@
             "de": "Radweg durch den Park.",
             "hu": "Kerékpárút a parkon keresztül.",
             "ro": "Pistă de biciclete prin parc.",
-            "en": "Bike path through the park."
+            "en": "Bike path through the park.",
+            "tr": "Park içinden bisiklet yolu."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Schlossgarten",
             "hu": "Kastélykert",
             "ro": "Grădina Castelului",
-            "en": "Castle Garden"
+            "en": "Castle Garden",
+            "tr": "Kale Bahçesi"
           },
           "coords": [
             50.8182,
@@ -465,7 +495,8 @@
             "de": "Kurze Pause im Grünen.",
             "hu": "Rövid pihenő a zöldben.",
             "ro": "Scurtă pauză în natură.",
-            "en": "Short break in the greenery."
+            "en": "Short break in the greenery.",
+            "tr": "Yeşillikte kısa mola."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Schloss Hinterglauchau",
             "hu": "Hinterglauchau kastély",
             "ro": "Castelul Hinterglauchau",
-            "en": "Hinterglauchau Castle"
+            "en": "Hinterglauchau Castle",
+            "tr": "Hinterglauchau Kalesi"
           },
           "coords": [
             50.8175,
@@ -488,7 +520,8 @@
             "de": "Museumsbesuch einplanen.",
             "hu": "Tervezzen be egy múzeumlátogatást.",
             "ro": "Planificați o vizită la muzeu.",
-            "en": "Plan a museum visit."
+            "en": "Plan a museum visit.",
+            "tr": "Bir müze ziyareti planlayın."
           }
         },
         {
@@ -496,7 +529,8 @@
             "de": "Schloss Forderglauchau",
             "hu": "Forderglauchau kastély",
             "ro": "Castelul Forderglauchau",
-            "en": "Forderglauchau Castle"
+            "en": "Forderglauchau Castle",
+            "tr": "Forderglauchau Kalesi"
           },
           "coords": [
             50.8172,
@@ -511,7 +545,8 @@
             "de": "Architektur-Highlight.",
             "hu": "Építészeti csúcspont.",
             "ro": "Punct culminant arhitectural.",
-            "en": "Architectural highlight."
+            "en": "Architectural highlight.",
+            "tr": "Mimari bir başyapıt."
           }
         },
         {
@@ -519,7 +554,8 @@
             "de": "St. Georgen Kirche",
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
-            "en": "St. George's Church"
+            "en": "St. George's Church",
+            "tr": "Aziz George Kilisesi"
           },
           "coords": [
             50.8158,
@@ -534,7 +570,8 @@
             "de": "Abschluss im Zentrum.",
             "hu": "Zárás a központban.",
             "ro": "Final în centru.",
-            "en": "Finish in the center."
+            "en": "Finish in the center.",
+            "tr": "Merkezde bitirin."
           }
         }
       ],
@@ -542,7 +579,8 @@
         "de": "Diese Radtour verbindet die industriellen Denkmäler wie den Wasserturm mit den herrschaftlichen Schlössern. Die Route führt Sie durch den Gründelpark und bietet am Bismarckturm eine sportliche Herausforderung mit Weitblick. Den Abschluss bildet die historische Altstadt.",
         "hu": "Ez a kerékpártúra összeköti az ipari műemlékeket, mint a víztorony, az előkelő kastélyokkal. Az útvonal a Gründelparkon keresztül vezet, és a Bismarck-toronynál sportos kihívást kínál remek kilátással. A túra a történelmi óvárosban ér véget.",
         "ro": "Acest tur cu bicicleta combină monumentele industriale, precum turnul de apă, cu castelele nobiliare. Traseul vă poartă prin parcul Gründel și oferă o provocare sportivă la Turnul Bismarck, cu o vedere panoramică. Finalul are loc în centrul istoric.",
-        "en": "This bike tour combines industrial monuments like the water tower with stately castles. The route takes you through Gründelpark and offers a sporting challenge with a view at the Bismarck Tower. The tour concludes in the historic old town."
+        "en": "This bike tour combines industrial monuments like the water tower with stately castles. The route takes you through Gründelpark and offers a sporting challenge with a view at the Bismarck Tower. The tour concludes in the historic old town.",
+        "tr": "Bu bisiklet turu su kulesi gibi endüstriyel anıtları görkemli kalelerle birleştirir. Rota sizi Gründelpark’tan geçirir ve Bismarck Kulesi’nde manzaralı sportif bir meydan okuma sunar. Tur tarihi eski şehirde sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -642,6 +680,10 @@
         "en": [
           "Use the bike paths along the Mulde river.",
           "Some sections in the city have cobblestones."
+        ],
+        "tr": [
+          "Mulde nehri boyunca bisiklet yollarını kullanın.",
+          "Şehrin bazı bölümlerinde taşıt döşemesi vardır."
         ]
       }
     },
@@ -658,7 +700,8 @@
             "de": "Rathaus Glauchau",
             "hu": "Városháza",
             "ro": "Primăria Glauchau",
-            "en": "Glauchau Town Hall"
+            "en": "Glauchau Town Hall",
+            "tr": "Glauchau Belediye Sarayı"
           },
           "coords": [
             50.8152,
@@ -674,7 +717,8 @@
             "de": "Parken am Markt.",
             "hu": "Parkolás a piacon.",
             "ro": "Parcare în piață.",
-            "en": "Parking at the market."
+            "en": "Parking at the market.",
+            "tr": "Pazardaki otopark."
           }
         },
         {
@@ -682,7 +726,8 @@
             "de": "St. Georgen Kirche",
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
-            "en": "St. George's Church"
+            "en": "St. George's Church",
+            "tr": "Aziz George Kilisesi"
           },
           "coords": [
             50.8158,
@@ -698,7 +743,8 @@
             "de": "Kurzer Fußweg vom Markt.",
             "hu": "Rövid séta a piactértől.",
             "ro": "Scurtă plimbare din piață.",
-            "en": "Short walk from the market."
+            "en": "Short walk from the market.",
+            "tr": "Pazardan kısa bir yürüyüş."
           }
         },
         {
@@ -706,7 +752,8 @@
             "de": "Schloss Forderglauchau",
             "hu": "Forderglauchau kastély",
             "ro": "Castelul Forderglauchau",
-            "en": "Forderglauchau Castle"
+            "en": "Forderglauchau Castle",
+            "tr": "Forderglauchau Şatosu"
           },
           "coords": [
             50.8172,
@@ -722,7 +769,8 @@
             "de": "Teil des Schloss-Clusters.",
             "hu": "A kastély-klaszter része.",
             "ro": "Parte a grupului de castele.",
-            "en": "Part of the castle cluster."
+            "en": "Part of the castle cluster.",
+            "tr": "Kale kümesinin bir parçası."
           }
         },
         {
@@ -730,7 +778,8 @@
             "de": "Schloss Hinterglauchau",
             "hu": "Hinterglauchau kastély",
             "ro": "Castelul Hinterglauchau",
-            "en": "Hinterglauchau Castle"
+            "en": "Hinterglauchau Castle",
+            "tr": "Hinterglauchau Şatosu"
           },
           "coords": [
             50.8175,
@@ -746,7 +795,8 @@
             "de": "Hauptmuseum im Schloss.",
             "hu": "Főmúzeum a kastélyban.",
             "ro": "Muzeul principal din castel.",
-            "en": "Main museum in the castle."
+            "en": "Main museum in the castle.",
+            "tr": "Şatodaki ana müze."
           }
         },
         {
@@ -754,7 +804,8 @@
             "de": "Wasserturm",
             "hu": "Víztorony",
             "ro": "Turnul de apă",
-            "en": "Water Tower"
+            "en": "Water Tower",
+            "tr": "Su Kulesi"
           },
           "coords": [
             50.8225,
@@ -770,7 +821,8 @@
             "de": "Fotostopp am Industriedenkmal.",
             "hu": "Fotómegálló az ipari műemléknél.",
             "ro": "Oprire foto la monumentul industrial.",
-            "en": "Photo stop at the industrial monument."
+            "en": "Photo stop at the industrial monument.",
+            "tr": "Endüstriyel anıtta fotoğraf molası."
           }
         },
         {
@@ -778,7 +830,8 @@
             "de": "Gründelpark",
             "hu": "Gründelpark",
             "ro": "Parcul Gründel",
-            "en": "Gründelpark"
+            "en": "Gründelpark",
+            "tr": "Gründelpark"
           },
           "coords": [
             50.8085,
@@ -794,7 +847,8 @@
             "de": "Parken am Parkeingang.",
             "hu": "Parkolás a park bejáratánál.",
             "ro": "Parcare la intrarea în parc.",
-            "en": "Parking at the park entrance."
+            "en": "Parking at the park entrance.",
+            "tr": "Park girişinde otopark."
           }
         },
         {
@@ -802,7 +856,8 @@
             "de": "Schlossgarten",
             "hu": "Kastélykert",
             "ro": "Grădina Castelului",
-            "en": "Castle Garden"
+            "en": "Castle Garden",
+            "tr": "Kale Bahçesi"
           },
           "coords": [
             50.8182,
@@ -818,7 +873,8 @@
             "de": "Kurze Fahrt zurück.",
             "hu": "Rövid út vissza.",
             "ro": "Scurtă călătorie înapoi.",
-            "en": "Short drive back."
+            "en": "Short drive back.",
+            "tr": "Kısa bir dönüş sürüşü."
           }
         },
         {
@@ -826,7 +882,8 @@
             "de": "Bismarckturm",
             "hu": "Bismarck-torony",
             "ro": "Turnul Bismarck",
-            "en": "Bismarck Tower"
+            "en": "Bismarck Tower",
+            "tr": "Bismarck Kulesi"
           },
           "coords": [
             50.8042,
@@ -842,7 +899,8 @@
             "de": "Letzter Stopp mit Weitblick.",
             "hu": "Utolsó megálló kilátással.",
             "ro": "Ultima oprire cu panoramă.",
-            "en": "Last stop with a view."
+            "en": "Last stop with a view.",
+            "tr": "Manzaralı son durak."
           }
         }
       ],
@@ -850,7 +908,8 @@
         "de": "Nutzen Sie das Auto für den Transfer zwischen den drei Hauptclustern: Altstadt/Schlösser, dem industriellen Norden und dem Parkareal im Süden. In der Altstadt parken Sie einmal und erkunden Rathaus, Kirche und beide Schlösser zu Fuß. Danach fahren Sie zum markanten Wasserturm und beenden den Tag entspannt im Gründelpark und am Bismarckturm.",
         "hu": "Használja az autót a három fő terület közötti közlekedésre: az óváros/kastélyok, az ipari észak és a déli parkövezet. Az óvárosban egyszer parkoljon le, és gyalog fedezze fel a városházát, a templomot és mindkét kastélyt. Ezután hajtson a jellegzetes víztoronyhoz, majd zárja a napot pihentetően a Gründelparkban és a Bismarck-toronynál.",
         "ro": "Folosiți mașina pentru transferul între cele trei zone principale: orașul vechi/castelele, nordul industrial și zona parcului din sud. În orașul vechi parcați o singură dată și explorați primăria, biserica și ambele castele la pas. Apoi mergeți la turnul de apă și încheiați ziua relaxat în parcul Gründel și la Turnul Bismarck.",
-        "en": "Use the car for transfers between the three main clusters: old town/castles, the industrial north, and the park area in the south. Park once in the old town to explore the town hall, church, and both castles on foot. Then drive to the striking water tower and finish the day relaxed in Gründelpark and at the Bismarck Tower."
+        "en": "Use the car for transfers between the three main clusters: old town/castles, the industrial north, and the park area in the south. Park once in the old town to explore the town hall, church, and both castles on foot. Then drive to the striking water tower and finish the day relaxed in Gründelpark and at the Bismarck Tower.",
+        "tr": "Eski kent/kale, kuzeydeki sanayi ve güneydeki park alanı olmak üzere üç ana küme arasında geçişler için arabayı kullanın. Belediye binasını, kiliseyi ve her iki şatoyu yürüyerek keşfetmek için eski kentte bir kez park edin. Ardından çarpıcı su kulesine sürün ve günü Gründelpark ile Bismarck Kulesi'nde rahatlayarak bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -950,6 +1009,10 @@
         "en": [
           "Parking in the center is subject to fees.",
           "Watch out for one-way streets in the old town."
+        ],
+        "tr": [
+          "Merkezde park ücretlidir.",
+          "Eski kentte tek yönlü sokaklara dikkat edin."
         ]
       }
     },
@@ -966,7 +1029,8 @@
             "de": "Rathaus Glauchau",
             "hu": "Városháza",
             "ro": "Primăria Glauchau",
-            "en": "Glauchau Town Hall"
+            "en": "Glauchau Town Hall",
+            "tr": "Glauchau Belediye Binası"
           },
           "coords": [
             50.8152,
@@ -982,7 +1046,8 @@
             "de": "Zentraler Busknoten am Markt.",
             "hu": "Központi buszcsomópont a piacon.",
             "ro": "Nod central de autobuze în piață.",
-            "en": "Central bus hub at the market."
+            "en": "Central bus hub at the market.",
+            "tr": "Pazardaki merkezi otobüs düğümü."
           }
         },
         {
@@ -990,7 +1055,8 @@
             "de": "Schloss Hinterglauchau",
             "hu": "Hinterglauchau kastély",
             "ro": "Castelul Hinterglauchau",
-            "en": "Hinterglauchau Castle"
+            "en": "Hinterglauchau Castle",
+            "tr": "Hinterglauchau Şatosu"
           },
           "coords": [
             50.8175,
@@ -1006,7 +1072,8 @@
             "de": "Zu Fuß erreichbar vom Markt.",
             "hu": "Gyalog elérhető a piactértől.",
             "ro": "Accesibil pe jos din piață.",
-            "en": "Accessible on foot from the market."
+            "en": "Accessible on foot from the market.",
+            "tr": "Pazardan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -1014,7 +1081,8 @@
             "de": "Schlossgarten",
             "hu": "Kastélykert",
             "ro": "Grădina Castelului",
-            "en": "Castle Garden"
+            "en": "Castle Garden",
+            "tr": "Kale Bahçesi"
           },
           "coords": [
             50.8182,
@@ -1030,7 +1098,8 @@
             "de": "Direkt neben dem Schloss.",
             "hu": "Közvetlenül a kastély mellett.",
             "ro": "Chiar lângă castel.",
-            "en": "Right next to the castle."
+            "en": "Right next to the castle.",
+            "tr": "Şatonun hemen yanında."
           }
         },
         {
@@ -1038,7 +1107,8 @@
             "de": "Gründelpark",
             "hu": "Gründelpark",
             "ro": "Parcul Gründel",
-            "en": "Gründelpark"
+            "en": "Gründelpark",
+            "tr": "Gründelpark"
           },
           "coords": [
             50.8085,
@@ -1054,7 +1124,8 @@
             "de": "Nutzen Sie die Stadtlinie zum Park.",
             "hu": "Használja a helyi buszjáratot a parkhoz.",
             "ro": "Utilizați linia urbană spre parc.",
-            "en": "Use the city bus line to the park."
+            "en": "Use the city bus line to the park.",
+            "tr": "Park için şehir otobüs hattını kullanın."
           }
         },
         {
@@ -1062,7 +1133,8 @@
             "de": "Bismarckturm",
             "hu": "Bismarck-torony",
             "ro": "Turnul Bismarck",
-            "en": "Bismarck Tower"
+            "en": "Bismarck Tower",
+            "tr": "Bismarck Kulesi"
           },
           "coords": [
             50.8042,
@@ -1078,7 +1150,8 @@
             "de": "Vom Park aus bergauf.",
             "hu": "A parktól felfelé.",
             "ro": "Urcare dinspre parc.",
-            "en": "Uphill from the park."
+            "en": "Uphill from the park.",
+            "tr": "Parktan yukarı doğru yokuşta."
           }
         },
         {
@@ -1086,7 +1159,8 @@
             "de": "St. Georgen Kirche",
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
-            "en": "St. George's Church"
+            "en": "St. George's Church",
+            "tr": "St. George Kilisesi"
           },
           "coords": [
             50.8158,
@@ -1102,7 +1176,8 @@
             "de": "Rückfahrt ins Zentrum.",
             "hu": "Visszautazás a központba.",
             "ro": "Întoarcere în centru.",
-            "en": "Return to the center."
+            "en": "Return to the center.",
+            "tr": "Merkeze dönüş."
           }
         }
       ],
@@ -1110,7 +1185,8 @@
         "de": "Dank der Stadtbusse lassen sich das historische Zentrum und die grünen Oasen im Süden leicht verbinden. Entdecken Sie erst die Schlösser zu Fuß und nehmen Sie dann den Bus zum Gründelpark. Ein kurzer Spaziergang bringt Sie zum Bismarckturm, bevor Sie den Tag in der Nähe der St. Georgen Kirche ausklingen lassen.",
         "hu": "A helyi autóbuszoknak köszönhetően a történelmi központ és a déli zöld oázisok könnyen összekapcsolhatók. Fedezze fel először gyalog a kastélyokat, majd utazzon busszal a Gründelparkhoz. Egy rövid séta elviszi a Bismarck-toronyhoz, mielőtt a napot a Szent György-templom közelében fejezné be.",
         "ro": "Datorită autobuzelor urbane, centrul istoric și oazele verzi din sud pot fi conectate ușor. Descoperiți mai întâi castelele la pas, apoi luați autobuzul spre parcul Gründel. O scurtă plimbare vă duce la Turnul Bismarck, înainte de a încheia ziua lângă Biserica Sf. Gheorghe.",
-        "en": "Thanks to city buses, the historic center and the green oases in the south are easily connected. First discover the castles on foot, then take the bus to Gründelpark. A short walk takes you to the Bismarck Tower before ending the day near St. George's Church."
+        "en": "Thanks to city buses, the historic center and the green oases in the south are easily connected. First discover the castles on foot, then take the bus to Gründelpark. A short walk takes you to the Bismarck Tower before ending the day near St. George's Church.",
+        "tr": "Şehir otobüsleri sayesinde tarihi merkez ile güneydeki yeşil alanlar kolayca birbirine bağlanır. Önce şatoları yürüyerek keşfedin, sonra Gründelpark'a otobüsle gidin. Kısa bir yürüyüşle Bismarck Kulesi'ne ulaşın ve günü St. George Kilisesi yakınında bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -1210,6 +1286,10 @@
         "en": [
           "Check the schedules of the city bus lines.",
           "A day ticket is often worth it from the second trip onwards."
+        ],
+        "tr": [
+          "Şehir otobüs hatlarının tarifelerini kontrol edin.",
+          "İkinci yolculuktan itibaren genellikle günlük bilet kârlıdır."
         ]
       }
     }

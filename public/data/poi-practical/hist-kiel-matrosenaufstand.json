@@ -3,55 +3,64 @@
     "de": "Ratsdienergarten, 24103 Kiel",
     "hu": "Ratsdienergarten, 24103 Kiel",
     "ro": "Ratsdienergarten, 24103 Kiel",
-    "en": "Ratsdienergarten, 24103 Kiel"
+    "en": "Ratsdienergarten, 24103 Kiel",
+    "tr": "Ratsdienergarten, 24103 Kiel"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "7/24"
   },
   "entranceFee": {
     "de": "kostenfrei",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.kiel.de",
   "publicTransport": {
     "de": "Hauptbahnhof Kiel, 10 Minuten Fußweg",
     "hu": "Kiel főpályaudvar, 10 perc séta",
     "ro": "Gara principală Kiel, 10 minute de mers pe jos",
-    "en": "Kiel main station, 10 min walk"
+    "en": "Kiel main station, 10 min walk",
+    "tr": "Kiel ana istasyonu, 10 dk yürüyüş"
   },
   "parking": {
     "de": "Parkhaus am Schloßquartier, ca. 2,00 €/Std.",
     "hu": "Parkoló a Schloßquartier-nél, kb. 2,00 €/óra.",
     "ro": "Parcare la Schloßquartier, aprox. 2,00 €/oră.",
-    "en": "Parking at Schloßquartier, approx. €2.00/hr."
+    "en": "Parking at Schloßquartier, approx. €2.00/hr.",
+    "tr": "Schloßquartier'de park, yaklaşık €2.00/saat."
   },
   "accessibility": {
     "de": "Öffentlicher Park, ebenerdig und voll barrierefrei.",
     "hu": "Nyilvános park, síkszintű és teljesen akadálymentes.",
     "ro": "Parc public, plan și complet accesibil.",
-    "en": "Public park, level and fully barrier-free."
+    "en": "Public park, level and fully barrier-free.",
+    "tr": "Halka açık park, düz ve tam engelli erişimli."
   },
   "photoRules": {
     "de": "Erlaubt.",
     "hu": "Szabad.",
     "ro": "Permis.",
-    "en": "Allowed."
+    "en": "Allowed.",
+    "tr": "İzinli."
   },
   "bestTimeToVisit": {
     "de": "Tagsüber für gute Sicht auf die Gedenktafeln.",
     "hu": "Napközben az emléktáblák jó láthatóságáért.",
     "ro": "În timpul zilei pentru o bună vizibilitate a plăcilor comemorative.",
-    "en": "During the day for good visibility of the memorial plaques."
+    "en": "During the day for good visibility of the memorial plaques.",
+    "tr": "Anıt plakalarının iyi görülmesi için gündüz saatlerinde."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

@@ -3,55 +3,64 @@
     "de": "Am Markt, 28195 Bremen",
     "hu": "Am Markt, 28195 Bréma",
     "ro": "Am Markt, 28195 Bremen",
-    "en": "Am Markt, 28195 Bremen"
+    "en": "Am Markt, 28195 Bremen",
+    "tr": "Am Markt, 28195 Bremen"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "éjjel-nappal",
     "ro": "non-stop",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "24/7"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.bremen-tourismus.de",
   "publicTransport": {
     "de": "Straßenbahn 2, 3 (Obernstraße) oder 4, 6, 8 (Domsheide)",
     "hu": "2-es, 3-as villamos (Obernstraße) vagy 4, 6, 8-as villamos (Domsheide)",
     "ro": "Tramvaiul 2, 3 (Obernstraße) sau 4, 6, 8 (Domsheide)",
-    "en": "Tram 2, 3 (Obernstraße) or 4, 6, 8 (Domsheide)"
+    "en": "Tram 2, 3 (Obernstraße) or 4, 6, 8 (Domsheide)",
+    "tr": "Tramvay 2, 3 (Obernstraße) veya 4, 6, 8 (Domsheide)"
   },
   "parking": {
     "de": "BREPARKhaus Am Dom (~2,50 €/Std.)",
     "hu": "BREPARKhaus Am Dom parkolóház (~2,50 €/óra)",
     "ro": "BREPARKhaus Am Dom (~2,50 €/oră)",
-    "en": "BREPARKhaus Am Dom (~2.50 €/hr)"
+    "en": "BREPARKhaus Am Dom (~2.50 €/hr)",
+    "tr": "BREPARKhaus Am Dom (~2,50 €/saat)"
   },
   "accessibility": {
     "de": "Barrierefrei, allerdings erschwert das historische Kopfsteinpflaster die Anfahrt.",
     "hu": "Akadálymentes, bár a történelmi macskaköves út nehezítheti a közlekedést.",
     "ro": "Accesibil, deși pavajul istoric cu piatră cubică îngreunează accesul.",
-    "en": "Accessible, though the historic cobblestones can make approach difficult."
+    "en": "Accessible, though the historic cobblestones can make approach difficult.",
+    "tr": "Erişilebilir, ancak tarihi taş döşeme yaklaşımı zorlaştırabilir."
   },
   "photoRules": {
     "de": "Uneingeschränkt erlaubt, Stativ auf dem Marktplatz behindert oft Passanten.",
     "hu": "Korlátozás nélkül megengedett, az állvány használata a téren zavarhatja a gyalogosokat.",
     "ro": "Permis fără restricții, trepiedul pe piața centrală poate stânjeni trecătorii.",
-    "en": "Permitted without restrictions, though tripods on the market square often obstruct pedestrians."
+    "en": "Permitted without restrictions, though tripods on the market square often obstruct pedestrians.",
+    "tr": "Kısıtlama olmadan izinli, fakat pazar meydanındaki tripotlar genellikle yayaları engeller."
   },
   "bestTimeToVisit": {
     "de": "Frühmorgens vor dem Einsetzen des Lieferverkehrs und der Touristenströme.",
     "hu": "Kora reggel, még az áruszállítás és a turistaáradat megindulása előtt.",
     "ro": "Dimineața devreme, înainte de începerea traficului de aprovizionare și a fluxului de turiști.",
-    "en": "Early morning before the start of delivery traffic and tourist crowds."
+    "en": "Early morning before the start of delivery traffic and tourist crowds.",
+    "tr": "Teslimat trafiği ve turist kalabalığı başlamadan önce erken sabah."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

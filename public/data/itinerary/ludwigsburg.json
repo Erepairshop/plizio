@@ -21,7 +21,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Marktplatz"
           },
           "coords": [
             9.191919,
@@ -36,7 +37,8 @@
             "de": "Genießen Sie die elegante Atmosphäre dieses bürgerlichen Zentrums mit seinen zwei Kirchen, das von Arkaden im italienischen Stil umrahmt wird, ideal für eine kurze Kaffeepause.",
             "hu": "Élvezze a város ikertemplomos polgári szívének elegáns hangulatát, amelyet olasz stílusú árkádok öveznek, tökéletes helyszínt nyújtva egy gyors kávészünethez.",
             "ro": "Bucurați-vă de atmosfera elegantă a acestei inimi civice cu două biserici a orașului, încadrată perfect de arcade în stil italian, ideale pentru o scurtă pauză de cafea.",
-            "en": "Soak in the elegant atmosphere of this twin-churched civic heart of the city, perfectly framed by Italian-style arcades that are ideal for a quick coffee break."
+            "en": "Soak in the elegant atmosphere of this twin-churched civic heart of the city, perfectly framed by Italian-style arcades that are ideal for a quick coffee break.",
+            "tr": "İtalyan tarzı kemerlerle çerçevelenmiş, şehir merkezinin bu çift kiliseli zarif atmosferinin tadını çıkarın; hızlı bir kahve molası için ideal."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Ludwigsburg Museum",
             "hu": "Ludwigsburg Múzeum",
             "ro": "Muzeul Ludwigsburg",
-            "en": "Ludwigsburg Museum"
+            "en": "Ludwigsburg Museum",
+            "tr": "Ludwigsburg Müzesi"
           },
           "coords": [
             9.1927,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie die reiche kulturelle und königliche Geschichte der Region in diesem modernen Museum, das die Gründung der Stadt nahtlos mit ihrer barocken Architektur verbindet.",
             "hu": "Fedezze fel a régió gazdag kulturális és királyi történelmét ebben a modern múzeumban, amely zökkenőmentesen köti össze a város alapítását a nagyszerű barokk építészettel.",
             "ro": "Descoperiți istoria culturală și regală bogată a regiunii în acest muzeu modern, care conectează perfect fondarea orașului de arhitectura sa barocă grandioasă.",
-            "en": "Uncover the rich cultural and royal history of the region in this modern museum, which seamlessly connects the founding of the city to its grand baroque architecture."
+            "en": "Uncover the rich cultural and royal history of the region in this modern museum, which seamlessly connects the founding of the city to its grand baroque architecture.",
+            "tr": "Şehrin kuruluşunu büyük barok mimarisiyle kesintisiz şekilde bağlayan modern bu müzede bölgenin zengin kültürel ve kraliyet tarihini keşfedin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Residenzschloss Ludwigsburg",
             "hu": "Ludwigsburgi kastély",
             "ro": "Palatul Rezidențial Ludwigsburg",
-            "en": "Ludwigsburg Residential Palace"
+            "en": "Ludwigsburg Residential Palace",
+            "tr": "Ludwigsburg Saray Konutu"
           },
           "coords": [
             9.195833,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie eines der größten erhaltenen Barockschlösser Deutschlands, wo Sie früh eintreffen sollten, um sich einen Platz bei der faszinierenden Innenführung zu sichern.",
             "hu": "Fedezze fel Németország egyik legnagyobb fennmaradt barokk kastélyát, ahová érdemes korán érkezni, hogy biztosítson magának helyet a lenyűgöző belső tárlatvezetésen.",
             "ro": "Explorați unul dintre cele mai mari palate baroce supraviețuitoare din Germania, unde ar trebui să ajungeți devreme pentru a vă asigura un loc la fascinantul tur ghidat al interiorului.",
-            "en": "Explore one of Germany's largest surviving Baroque palaces, where you should arrive early to secure a spot on the fascinating guided interior tour."
+            "en": "Explore one of Germany's largest surviving Baroque palaces, where you should arrive early to secure a spot on the fascinating guided interior tour.",
+            "tr": "Almanya'nın ayakta kalan en büyük Barok saraylarından birini keşfedin; etkileyici iç turda yer almak için erken varın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Blühendes Barock",
             "hu": "Virágzó Barokk Kertek",
             "ro": "Grădinile Baroce Înflorite",
-            "en": "Blooming Baroque Gardens"
+            "en": "Blooming Baroque Gardens",
+            "tr": "Blooming Baroque Bahçeleri"
           },
           "coords": [
             9.19583,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie durch diese weitläufigen, lebendigen historischen Gärten und achten Sie auf die saisonalen Blumenarrangements, wobei Sie Wochenenden meiden sollten.",
             "hu": "Sétáljon végig ezeken a hatalmas, élettel teli történelmi kerteken, figyelje a szezonális virágkiállításokat, és kerülje a hétvégéket a legnagyobb tömeg elkerülése érdekében.",
             "ro": "Plimbați-vă prin aceste grădini istorice întinse și vibrante, urmărind aranjamentele florale de sezon și evitând weekendurile pentru a scăpa de cele mai mari aglomerații.",
-            "en": "Stroll through these expansive, vibrant historical gardens, keeping an eye out for the seasonal floral displays and avoiding weekends to escape the biggest crowds."
+            "en": "Stroll through these expansive, vibrant historical gardens, keeping an eye out for the seasonal floral displays and avoiding weekends to escape the biggest crowds.",
+            "tr": "Geniş, canlı tarihi bahçelerde dolaşın; mevsimsel çiçek gösterilerine dikkat edin ve en yoğun kalabalıktan kaçınmak için hafta sonlarını tercih etmeyin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Märchengarten",
             "hu": "Mesekert",
             "ro": "Grădina Basmelor",
-            "en": "Fairy Tale Garden"
+            "en": "Fairy Tale Garden",
+            "tr": "Masal Bahçesi"
           },
           "coords": [
             9.198917,
@@ -128,7 +137,8 @@
             "de": "Erfreuen Sie Ihr inneres Kind in dieser märchenhaften, nostalgischen Attraktion, für deren interaktive mechanische Darstellungen Sie ein paar Münzen mitbringen sollten.",
             "hu": "Szerezzen örömet belső gyermekének ebben a varázslatos, nosztalgikus látványosságban, és hozzon magával aprópénzt az interaktív mechanikus figurák beindításához.",
             "ro": "Încântați-vă copilul interior în această atracție nostalgică ce dă viață poveștilor clasice și aduceți câteva monede pentru a activa afișajele mecanice interactive.",
-            "en": "Delight your inner child in this whimsical, nostalgic attraction that brings classic stories to life, and bring some coins to activate the interactive mechanical displays."
+            "en": "Delight your inner child in this whimsical, nostalgic attraction that brings classic stories to life, and bring some coins to activate the interactive mechanical displays.",
+            "tr": "Klasik hikâyeleri canlandıran bu eğlenceli, nostaljik mekânda iç çocuğunuzu şımartın; etkileşimli mekanik düzenekleri çalıştırmak için biraz bozuk para alın."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Schloss Favorite",
             "hu": "Favorite kastély",
             "ro": "Palatul Favorite",
-            "en": "Favorite Palace"
+            "en": "Favorite Palace",
+            "tr": "Favorite Sarayı"
           },
           "coords": [
             9.19556,
@@ -151,7 +162,8 @@
             "de": "Bewundern Sie dieses charmante Jagdschloss in einem ruhigen Park und nehmen Sie sich Zeit für einen Spaziergang auf den Waldwegen, um Rehe zu beobachten.",
             "hu": "Csodálja meg ezt a bájos vadászkastélyt egy békés parkban, és szánjon időt a környező erdei ösvények bejárására, ahol helyi őzeket is megfigyelhet.",
             "ro": "Admirați această fermecătoare cabană de vânătoare dintr-un parc liniștit, făcând o plimbare pe potecile forestiere din jur pentru a observa căprioarele locale.",
-            "en": "Admire this charming hunting lodge set within a peaceful park, taking time to walk the surrounding forested paths to spot local wildlife like roaming deer."
+            "en": "Admire this charming hunting lodge set within a peaceful park, taking time to walk the surrounding forested paths to spot local wildlife like roaming deer.",
+            "tr": "Huzurlu bir park içindeki bu şirin av köşküne hayran kalın; çevredeki ormanlık patikalarda dolaşarak geyik gibi yerel vahşi yaşamı gözlemleyin."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie am lebhaften Marktplatz und genießen Sie die barocke Symmetrie, bevor Sie das Ludwigsburg Museum besuchen, um die königlichen Ursprünge der Stadt zu verstehen.\n\nDer Mittag entfaltet sich am prächtigen Residenzschloss Ludwigsburg, gefolgt von einem farbenfrohen Spaziergang durch die ausgedehnten Gärten des Blühenden Barocks.\n\nWecken Sie Kindheitserinnerungen im Märchengarten, wo animierte Dioramen in einer üppigen Umgebung Besucher jeden Alters verzaubern.\n\nBeenden Sie Ihren Spaziergang am Lustschloss Favorite und genießen Sie die ruhige Waldkulisse, während die Abendsonne die Fassade in goldenes Licht taucht.",
         "hu": "Kezdje a nyüzsgő Piactéren a barokk szimmetria megcsodálásával, majd látogasson el a Ludwigsburg Múzeumba a királyi város eredetének megismeréséhez.\n\nA dél a lenyűgöző Ludwigsburgi kastélynál folytatódik, amelyet egy színpompás séta követ a kiterjedt Virágzó Barokk Kertekben.\n\nÉbressze fel gyermekkori emlékeit a Mesekertben, ahol a megelevenedő diorámák buja környezetben varázsolnak el minden korosztályt.\n\nZárja sétáját a Favorite kastélynál, és élvezze a békés erdei környezetet, miközben az esti naplemente aranyló fénnyel világítja meg a homlokzatot.",
         "ro": "Începeți în Piața Centrală plină de viață, admirând simetria barocă, înainte de a vizita Muzeul Ludwigsburg pentru a înțelege originile orașului regal.\n\nAmiaza se desfășoară la magnificul Palat Rezidențial Ludwigsburg, urmată de o plimbare plină de culoare prin Grădinile Baroce Înflorite.\n\nReconectați-vă cu nostalgia copilăriei la Grădina Basmelor, unde dioramele animate captivează vizitatorii de toate vârstele într-un cadru luxuriant.\n\nÎncheiați-vă plimbarea la Palatul Favorite, bucurându-vă de împrejurimile liniștite ale parcului forestier, în timp ce soarele de seară scaldă fațada în nuanțe aurii.",
-        "en": "Start at the lively Market Square, taking in the Baroque symmetry before heading to the Ludwigsburg Museum to understand the royal city's origins.\n\nThe midday unfolds at the magnificent Ludwigsburg Residential Palace, followed by a vibrant walk through the extensive Blooming Baroque Gardens.\n\nReconnect with childhood nostalgia at the Fairy Tale Garden, where animated dioramas captivate visitors of all ages in a lush setting.\n\nConclude your walk at the Favorite Palace, enjoying the serene forest park surroundings as the evening sun casts golden hues on the grand facade."
+        "en": "Start at the lively Market Square, taking in the Baroque symmetry before heading to the Ludwigsburg Museum to understand the royal city's origins.\n\nThe midday unfolds at the magnificent Ludwigsburg Residential Palace, followed by a vibrant walk through the extensive Blooming Baroque Gardens.\n\nReconnect with childhood nostalgia at the Fairy Tale Garden, where animated dioramas captivate visitors of all ages in a lush setting.\n\nConclude your walk at the Favorite Palace, enjoying the serene forest park surroundings as the evening sun casts golden hues on the grand facade.",
+        "tr": "Canlı Marktplatz’ta başlayın, Barok simetriyi izleyip Ludwigsburg Müzesi’ne giderek kraliyet kentin kökenlerini anlayın.\n\nÖğle vakti görkemli Ludwigsburg Saray Konutu’nda geçer, ardından geniş Blooming Baroque Bahçeleri’nde canlı bir yürüyüş yaparsınız.\n\nMasal Bahçesi’nde çocukluk nostaljisiyle yeniden bağlantı kurun; animasyonlu dioramalar her yaştan ziyaretçiyi büyüler.\n\nYürüyüşünüzü Favorite Sarayı’nda sonlandırın; akşam güneşi büyük cephenin üzerinde altın tonlar yayarken sakin orman parkının tadını çıkarın."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Morgen beginnt auf dem Marktplatz, wo die Arkaden Schutz vor dem Regen bieten. Vormittags erkunden wir das trockene Ludwigsburg Museum und tauchen tief in die Stadtgeschichte ein. Mittags führt der Weg ins Residenzschloss, dessen prächtige Säle uns das graue Wetter vergessen lassen. Nachmittags spazieren wir durch die Gärten und beenden den Tag im gemütlichen Schloss Favorite.",
             "hu": "A napot a Piactér árkádjai alatt kezdjük, amelyek kiváló menedéket nyújtanak. Délelőtt a Ludwigsburg Múzeum fedett tereiben ismerkedünk a múlt emlékeivel. Délben a kastély aranyozott termeiben sétálunk, teljesen kizárva a kinti esőt. Délután a kertek vizes ösvényein át érünk el a Favorite kastélyhoz, ahol a túra zárul. Este a város fényei megcsillannak a nedves kövezeten.",
             "ro": "Începem dimineața în Piața Centrală, profitând de arcadele care ne protejează de ploaie. Înainte de prânz, explorăm interiorul Muzeului Ludwigsburg, un refugiu cultural perfect. Prânzul ne găsește în sălile somptuoase ale Palatului Rezidențial, unde ploaia nu ne poate ajunge. După-amiaza vizităm grădinile și încheiem la Palatul Favorite. Seara, luminile orașului se reflectă superb pe asfaltul ud.",
-            "en": "Morning starts at the Market Square, using the arcades as shelter from the rain. Before noon, we explore the Ludwigsburg Museum, staying dry while diving into history. Midday is spent inside the Residential Palace, where grand interiors make us forget the weather. In the afternoon, we take a damp but fresh walk to Favorite Palace. Evening settles in with city lights reflecting on the wet streets."
+            "en": "Morning starts at the Market Square, using the arcades as shelter from the rain. Before noon, we explore the Ludwigsburg Museum, staying dry while diving into history. Midday is spent inside the Residential Palace, where grand interiors make us forget the weather. In the afternoon, we take a damp but fresh walk to Favorite Palace. Evening settles in with city lights reflecting on the wet streets.",
+            "tr": "Sabah Marktplatz’ta kemerlerin yağmurdan korunma için sunduğu sığınakta başlar. Öğle öncesi Ludwigsburg Müzesi’ni keşfederek kuru kalır ve tarihe dalarız. Öğle vakti Saray Konutu’nda iç mekanlarda hava koşullarını unutacak kadar etkileyici odalar vardır. Öğleden sonra hafif yağışlı ama taze bir yürüyüşle Favorite Sarayı’na gideriz. Akşam, şehir ışıkları ıslak sokaklara yansırken geri döneriz."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Marktplatz",
                 "hu": "Piactér",
                 "ro": "Piața Centrală",
-                "en": "Market Square"
+                "en": "Market Square",
+                "tr": "Marktplatz"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das barocke Treiben aus dem Schutz der umliegenden Arkadengänge; die nassen Pflastersteine spiegeln die Kirchenfassaden wider. Ein fester Regenschirm ist bei Wind ratsam.",
                 "hu": "Csodálja meg a barokk épületeket a környező árkádok és kávézók biztonságos fedezékéből; az esőben csillogó kövezet különleges látvány, de viseljen csúszásmentes talpú cipőt a téren.",
                 "ro": "Admirați arhitectura barocă de la adăpostul arcadelor; pavajul ud reflectă fațadele bisericilor într-un mod pitoresc. Recomandăm o umbrelă rezistentă la vânt pentru traversarea pieței.",
-                "en": "Admire the baroque buildings from the safety of the surrounding arcades; the wet cobblestones offer great photo ops. Carry a sturdy umbrella as the square can be quite windy during rain."
+                "en": "Admire the baroque buildings from the safety of the surrounding arcades; the wet cobblestones offer great photo ops. Carry a sturdy umbrella as the square can be quite windy during rain.",
+                "tr": "Barok binalara çevre kemerlerin güvenliğinden bakın; ıslak kaldırım taşları harika fotoğraf fırsatları sunar. Meydan rüzgarlı olabileceğinden sağlam bir şemsiye taşıyın."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Ludwigsburg Museum",
                 "hu": "Ludwigsburg Múzeum",
                 "ro": "Muzeul Ludwigsburg",
-                "en": "Ludwigsburg Museum"
+                "en": "Ludwigsburg Museum",
+                "tr": "Ludwigsburg Müzesi"
               },
               "tip_5lang": {
                 "de": "Das ideale Versteck vor dem Regen bietet spannende Einblicke in die Stadtgründung; nutzen Sie die Garderobe für Ihre nassen Mäntel. Perfekt, um eine Stunde im Trockenen zu verbringen.",
                 "hu": "Ideális menedék az eső elől, ahol interaktív módon ismerheti meg a város alapítását; használja a ruhatárat a vizes kabátoknak. Kiváló helyszín egy órát szárazon tölteni a kiállítások közt.",
                 "ro": "Refugiul ideal împotriva ploii, oferind detalii fascinante despre istoria orașului; folosiți garderoba pentru hainele ude. Este locul perfect pentru a petrece o oră la căldură și uscat.",
-                "en": "The perfect indoor escape, offering fascinating insights into the city's origins; use the cloakroom for your wet coats. Spend a dry hour exploring the interactive historical exhibits."
+                "en": "The perfect indoor escape, offering fascinating insights into the city's origins; use the cloakroom for your wet coats. Spend a dry hour exploring the interactive historical exhibits.",
+                "tr": "Mükemmel bir kapalı kaçış noktası; şehrin kökenleri hakkında ilgi çekici bilgiler sunar; ıslak mantolarınızı vestiyere bırakın. Etkileşimli tarih sergilerini keşfetmek için kuru bir saat geçirin."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Residenzschloss Ludwigsburg",
                 "hu": "Ludwigsburgi kastély",
                 "ro": "Palatul Rezidențial Ludwigsburg",
-                "en": "Ludwigsburg Residential Palace"
+                "en": "Ludwigsburg Residential Palace",
+                "tr": "Ludwigsburg Saray Konutu"
               },
               "tip_5lang": {
                 "de": "In den prunkvollen Innenräumen spielt das Wetter keine Rolle; buchen Sie eine Führung, um die Highlights ohne nass zu werden zu sehen. Die langen Gänge bieten viel Platz zum Flanieren.",
                 "hu": "A pompás belső terekben az időjárás teljesen lényegtelen; foglaljon vezetett túrát, hogy száraz lábbal csodálhassa meg a termeket. A hosszú folyosók bőséges helyet kínálnak a sétához.",
                 "ro": "În interiorul somptuos, vremea de afară devine irelevantă; rezervați un tur ghidat pentru a vedea cele mai frumoase săli fără a vă uda. Holurile lungi sunt perfecte pentru o plimbare regală.",
-                "en": "Inside the magnificent rooms, the weather is irrelevant; book a guided tour to see the highlights without getting wet. The long corridors provide ample space for a dry, royal stroll."
+                "en": "Inside the magnificent rooms, the weather is irrelevant; book a guided tour to see the highlights without getting wet. The long corridors provide ample space for a dry, royal stroll.",
+                "tr": "Görkemli odalarda hava önemsizdir; ıslanmadan önemli yerleri görmek için rehberli tur rezervasyonu yapın. Uzun koridorlar kuru ve kraliyet tarzı bir yürüyüş için bol alan sağlar."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Blühendes Barock",
                 "hu": "Virágzó Barokk Kertek",
                 "ro": "Grădinile Baroce Înflorite",
-                "en": "Blooming Baroque Gardens"
+                "en": "Blooming Baroque Gardens",
+                "tr": "Blooming Baroque Bahçeleri"
               },
               "tip_5lang": {
                 "de": "Die Blumenfarben wirken im Regen besonders intensiv; bleiben Sie auf den befestigten Hauptwegen, um Matsch zu vermeiden. Ein Regenponcho bietet hier mehr Bewegungsfreiheit als ein Schirm.",
                 "hu": "A virágok színei esőben különösen élénkek; maradjon a kövezett főutakon, hogy elkerülje a sarat. Egy esőponcsó itt nagyobb szabadságot ad a nézelődéshez, mint egy esernyő.",
                 "ro": "Culorile florilor par mult mai intense în ploaie; rămâneți pe aleile principale pavate pentru a evita noroiul. O pelerină de ploaie oferă mai multă libertate de mișcare decât o umbrelă.",
-                "en": "Flower colors look especially vibrant in the rain; stick to the paved main paths to avoid mud. A rain poncho offers more freedom of movement than an umbrella while exploring the gardens."
+                "en": "Flower colors look especially vibrant in the rain; stick to the paved main paths to avoid mud. A rain poncho offers more freedom of movement than an umbrella while exploring the gardens.",
+                "tr": "Çiçek renkleri yağmurda özellikle canlı görünür; çamura girmemek için ana döşeli yollarda kalın. Bahçeleri gezerken şemsiye yerine yağmurluk daha rahat hareket sağlar."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Märchengarten",
                 "hu": "Mesekert",
                 "ro": "Grădina Basmelor",
-                "en": "Fairy Tale Garden"
+                "en": "Fairy Tale Garden",
+                "tr": "Masal Bahçesi"
               },
               "tip_5lang": {
                 "de": "Viele Märchenstationen sind überdacht und bieten kurze Pausen im Trockenen; achten Sie auf rutschige Holzstege bei den Wasserfontänen. Die mystische Stimmung im Regen passt perfekt zu den Sagen.",
                 "hu": "Sok meseállomás fedett, így rövid pihenőt tarthat szárazon; vigyázzon a csúszós fapadlókra a szökőkutak közelében. Az eső áztatta kert misztikus hangulata jól illik a régi történetekhez.",
                 "ro": "Multe stații cu povești sunt acoperite, oferind scurte pauze la uscat; atenție la podurile de lemn care devin alunecoase. Atmosfera mistică pe ploaie se potrivește perfect cu legendele grădinii.",
-                "en": "Many fairy tale stations are covered, offering brief dry breaks; be careful of slippery wooden walkways near the fountains. The misty rain adds a perfect mystical vibe to the stories."
+                "en": "Many fairy tale stations are covered, offering brief dry breaks; be careful of slippery wooden walkways near the fountains. The misty rain adds a perfect mystical vibe to the stories.",
+                "tr": "Birçok masal istasyonu örtülüdür ve kısa kuru molalar sunar; çeşmelerin yanında kaygan ahşap yürüyüş yollarına dikkat edin. Hafif yağmur masallara gizemli bir atmosfer katar."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Schloss Favorite",
                 "hu": "Favorite kastély",
                 "ro": "Palatul Favorite",
-                "en": "Favorite Palace"
+                "en": "Favorite Palace",
+                "tr": "Favorite Sarayı"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour im Inneren dieses charmanten Jagdschlosses; der Blick aus den Fenstern auf den verregneten Park ist sehr poetisch. Ideal, um auf das Ende des Schauers zu warten.",
                 "hu": "Zárja a túrát e bájos vadászkastély falai között; az ablakokból nyíló kilátás az eső áztatta parkra rendkívül költői. Ideális helyszín megvárni egy nagyobb zápor végét.",
                 "ro": "Încheiați turul în interiorul acestui castel de vânătoare fermecător; priveliștea spre parcul plouat este foarte poetică. Este locul ideal pentru a aștepta oprirea unei averse trecătoare.",
-                "en": "Finish your tour inside this charming hunting lodge; the view through the windows of the rain-soaked park is very poetic. It's a great spot to wait out the end of a rain shower."
+                "en": "Finish your tour inside this charming hunting lodge; the view through the windows of the rain-soaked park is very poetic. It's a great spot to wait out the end of a rain shower.",
+                "tr": "Turunuzu bu şirin av köşkünün içinde bitirin; pencerelerden görünen yağmurla ıslanmış park manzarası çok şiirseldir. Yağmurun dinmesini beklemek için güzel bir noktadır."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Der frostige Morgen beginnt auf dem Marktplatz, wo der Duft von gerösteten Kastanien in der Luft liegt. Im Museum wärmen wir uns bei der Stadtgeschichte auf, bevor es zum Residenzschloss geht. Mittags strahlen die barocken Säle eine königliche Kälte aus, die durch die warme Beleuchtung gemildert wird. Da die Sonne gegen 17:00 Uhr sinkt, genießen wir die dämmerigen Gärten und das beleuchtete Schloss Favorite.",
             "hu": "A fagyos reggel a Piactéren indul, ahol a sült gesztenye illata lengi be a teret. A múzeumban melegszünk fel délelőtt, mielőtt a kastély felé vennénk az irányt. Délben a barokk termek fenséges, de hűvös nyugalmát élvezzük a meleg fények alatt. Mivel a nap 17:00 körül már lebukik, a szürkületi kertet és a kivilágított Favorite kastélyt már esti pompájában csodáljuk meg.",
             "ro": "Dimineața geroasă începe în Piața Centrală, unde mirosul de castane coapte umple aerul. Ne încălzim la muzeu înainte de a vizita palatul. La prânz, sălile baroce oferă o atmosferă regală, îndulcită de luminile calde de interior. Deoarece soarele apune în jur de ora 17:00, ne bucurăm de grădinile înserate și de silueta iluminată a Palatului Favorite pe final de zi.",
-            "en": "A frosty morning starts at Market Square with the scent of roasted chestnuts in the air. We warm up inside the museum before heading to the Residential Palace. Midday highlights the royal interiors, made cozy by warm lighting. Since the sun sets around 17:00, we enjoy the twilight gardens and the beautifully lit Favorite Palace as the temperature drops."
+            "en": "A frosty morning starts at Market Square with the scent of roasted chestnuts in the air. We warm up inside the museum before heading to the Residential Palace. Midday highlights the royal interiors, made cozy by warm lighting. Since the sun sets around 17:00, we enjoy the twilight gardens and the beautifully lit Favorite Palace as the temperature drops.",
+            "tr": "Serin bir sabah Marktplatz’ta kavrulmuş kestane kokusuyla başlar. Müzede ısınır, ardından Saray Konutu’na gideriz. Öğle saatlerinde kral dairelerinin sıcak aydınlatmasıyla iç mekanlar daha da davetkardır. Güneş saat 17:00 civarında battığı için alacakaranlık bahçelerin ve güzelce aydınlatılmış Favorite Sarayı’nın tadını çıkarırız."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Marktplatz",
                 "hu": "Piactér",
                 "ro": "Piața Centrală",
-                "en": "Market Square"
+                "en": "Market Square",
+                "tr": "Marktplatz"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die winterliche Atmosphäre bei einem heißen Getränk an einem der Marktstände; die barocken Kirchen wirken im Winterlicht besonders streng. Ziehen Sie sich dicke Socken an.",
                 "hu": "Élvezze a téli hangulatot egy forró itallal az egyik standnál; a barokk templomok a téli fényben különösen méltóságteljesek. Viseljen vastag zoknit és réteges ruházatot.",
                 "ro": "Bucurați-vă de atmosfera de iarnă cu o băutură caldă de la standuri; bisericile baroce par mult mai impunătoare în lumina iernii. Recomandăm șosete groase și îmbrăcăminte stratificată.",
-                "en": "Enjoy the winter atmosphere with a hot drink from a stall; the baroque churches look especially grand in the crisp winter light. Wear thick socks as the stone square gets cold."
+                "en": "Enjoy the winter atmosphere with a hot drink from a stall; the baroque churches look especially grand in the crisp winter light. Wear thick socks as the stone square gets cold.",
+                "tr": "Kış atmosferinin tadını sıcak bir içecek ile çıkarın; barok kiliseler keskin kış ışığında özellikle etkileyicidir. Taş meydan soğuk olduğundan kalın çorap giyin."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Ludwigsburg Museum",
                 "hu": "Ludwigsburg Múzeum",
                 "ro": "Muzeul Ludwigsburg",
-                "en": "Ludwigsburg Museum"
+                "en": "Ludwigsburg Museum",
+                "tr": "Ludwigsburg Müzesi"
               },
               "tip_5lang": {
                 "de": "Ein hervorragender Ort, um der Kälte für eine Weile zu entfliehen; die Ausstellungen sind gut beheizt. Nutzen Sie die Gelegenheit, um die dicken Winterjacken kurz abzulegen.",
                 "hu": "Kiváló helyszín, hogy egy időre elmeneküljön a fagy elől; a kiállítótermek jól fűtöttek. Használja ki az alkalmat, hogy levegye a nehéz téli kabátot a séta közben.",
                 "ro": "Un loc excelent pentru a scăpa de ger pentru o vreme; expozițiile sunt bine încălzite. Profitat de ocazie pentru a lăsa haina groasă la garderobă în timpul vizitei.",
-                "en": "An excellent place to escape the frost for a while; the exhibition halls are well-heated. Take the opportunity to leave your heavy winter coat at the cloakroom while you explore."
+                "en": "An excellent place to escape the frost for a while; the exhibition halls are well-heated. Take the opportunity to leave your heavy winter coat at the cloakroom while you explore.",
+                "tr": "Bir süre dona karşı kaçmak için mükemmel bir yer; sergi salonları iyi ısıtılır. Ağır kış kabanınızı vestiyerde bırakma fırsatını değerlendirin."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Residenzschloss Ludwigsburg",
                 "hu": "Ludwigsburgi kastély",
                 "ro": "Palatul Rezidențial Ludwigsburg",
-                "en": "Ludwigsburg Residential Palace"
+                "en": "Ludwigsburg Residential Palace",
+                "tr": "Ludwigsburg Saray Konutu"
               },
               "tip_5lang": {
                 "de": "Die riesigen Säle können trotz Heizung kühl sein, behalten Sie einen leichten Schal um; das Schloss wirkt im Winter besonders märchenhaft. Führungen finden auch im Winter regelmäßig statt.",
                 "hu": "A hatalmas termek a fűtés ellenére is hűvösek lehetnek, tartson magán egy sálat; a kastély télen igazi mesebeli látványt nyújt. A vezetett túrák télen is menetrend szerint indulnak.",
                 "ro": "Sălile uriașe pot fi răcoroase chiar și cu încălzire, deci păstrați un fular pe umeri; palatul arată ca într-un basm de iarnă. Tururile ghidate sunt disponibile regulat și iarna.",
-                "en": "The vast halls can be chilly despite heating, so keep a light scarf on; the palace looks like a winter fairy tale. Guided tours run regularly throughout the colder months."
+                "en": "The vast halls can be chilly despite heating, so keep a light scarf on; the palace looks like a winter fairy tale. Guided tours run regularly throughout the colder months.",
+                "tr": "Geniş salonlar ısıtma olmasına rağmen serin olabilir, bu yüzden hafif bir atkı bulundurun; saray bir kış masalını andırır. Rehberli turlar soğuk aylarda düzenli olarak yapılır."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Blühendes Barock",
                 "hu": "Virágzó Barokk Kertek",
                 "ro": "Grădinile Baroce Înflorite",
-                "en": "Blooming Baroque Gardens"
+                "en": "Blooming Baroque Gardens",
+                "tr": "Blooming Baroque Bahçeleri"
               },
               "tip_5lang": {
                 "de": "Auch ohne Blütenpracht faszinieren die geometrischen Formen der Hecken im Frost; achten Sie auf glatte Stellen auf den Gehwegen. Die klare Luft bietet eine weite Sicht über die Anlage.",
                 "hu": "Virágok nélkül is lenyűgözőek a dérlepte sövények geometriai formái; figyeljen a jeges foltokra az utakon. A tiszta téli levegőben messzire elláthat a parkban.",
                 "ro": "Chiar și fără flori, formele geometrice ale gardurilor vii acoperite de brumă sunt fascinante; atenție la porțiunile înghețate. Aerul curat oferă o vizibilitate excelentă peste parcuri.",
-                "en": "Even without blooms, the geometric hedge patterns look fascinating covered in frost; watch out for icy patches. The crisp air offers great visibility across the entire garden complex."
+                "en": "Even without blooms, the geometric hedge patterns look fascinating covered in frost; watch out for icy patches. The crisp air offers great visibility across the entire garden complex.",
+                "tr": "Çiçek olmasa bile geometrik çit desenleri kırağıla kaplıyken ilginç görünür; buzlu bölgelere dikkat edin. Keskin hava tüm bahçe kompleksinde iyi görüş sağlar."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Märchengarten",
                 "hu": "Mesekert",
                 "ro": "Grădina Basmelor",
-                "en": "Fairy Tale Garden"
+                "en": "Fairy Tale Garden",
+                "tr": "Masal Bahçesi"
               },
               "tip_5lang": {
                 "de": "Einige Stationen sind im Winter im Winterschlaf, aber die Ruhe im Park ist magisch; warme Handschuhe sind bei den interaktiven Figuren Pflicht. Perfekt für einen ruhigen Winterspaziergang.",
                 "hu": "Néhány állomás téli álmot alszik, de a park nyugalma ilyenkor varázslatos; az interaktív figuráknál a meleg kesztyű kötelező. Ideális helyszín egy csendes, téli sétához.",
                 "ro": "Unele stații sunt în repaus pe timp de iarnă, dar liniștea parcului este magică; mănușile groase sunt obligatorii la figurinele interactive. Perfect pentru o plimbare liniștită.",
-                "en": "Some stations may be closed, but the park's winter silence is magical; warm gloves are a must for the interactive features. Perfect for a quiet, contemplative winter stroll."
+                "en": "Some stations may be closed, but the park's winter silence is magical; warm gloves are a must for the interactive features. Perfect for a quiet, contemplative winter stroll.",
+                "tr": "Bazı istasyonlar kapalı olabilir ama parkın kış sessizliği büyüleyicidir; etkileşimli bölümler için sıcak eldiven şart. Sakin, düşünceli bir kış yürüyüşü için ideal."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Schloss Favorite",
                 "hu": "Favorite kastély",
                 "ro": "Palatul Favorite",
-                "en": "Favorite Palace"
+                "en": "Favorite Palace",
+                "tr": "Favorite Sarayı"
               },
               "tip_5lang": {
                 "de": "In der frühen Dunkelheit wird das Schloss wunderschön angestrahlt und wirkt wie ein Lichtblick im Park; drinnen ist es angenehm temperiert. Ein toller Abschluss vor der Heimkehr in die Kälte.",
                 "hu": "A korai sötétedésben a kastély gyönyörű kivilágítást kap, fénylő pontként állva a parkban; belül kellemes a hőmérséklet. Remek záróakkord, mielőtt visszatérne a kinti fagyba.",
                 "ro": "Odată cu lăsarea serii timpurii, castelul este iluminat superb, fiind un punct luminos în parc; interiorul este încălzit plăcut. Un final excelent înainte de a pleca spre casă prin frig.",
-                "en": "With the early sunset, the palace is beautifully illuminated, standing as a beacon in the park; the interior is pleasantly warm. A great final stop before heading back into the cold."
+                "en": "With the early sunset, the palace is beautifully illuminated, standing as a beacon in the park; the interior is pleasantly warm. A great final stop before heading back into the cold.",
+                "tr": "Erken gün batımıyla saray güzelce aydınlatılır ve parkta bir işaret gibi durur; iç mekan hoş sıcaklıktadır. Soğuğa dönmeden önce son durak için harika bir yer."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Marktplatz"
           },
           "coords": [
             9.191919,
@@ -380,7 +420,8 @@
             "de": "Genießen Sie die elegante Atmosphäre dieses bürgerlichen Zentrums mit seinen zwei Kirchen, das von Arkaden im italienischen Stil umrahmt wird, ideal für eine kurze Kaffeepause.",
             "hu": "Élvezze a város ikertemplomos polgári szívének elegáns hangulatát, amelyet olasz stílusú árkádok öveznek, tökéletes helyszínt nyújtva egy gyors kávészünethez.",
             "ro": "Bucurați-vă de atmosfera elegantă a acestei inimi civice cu două biserici a orașului, încadrată perfect de arcade în stil italian, ideale pentru o scurtă pauză de cafea.",
-            "en": "Soak in the elegant atmosphere of this twin-churched civic heart of the city, perfectly framed by Italian-style arcades that are ideal for a quick coffee break."
+            "en": "Soak in the elegant atmosphere of this twin-churched civic heart of the city, perfectly framed by Italian-style arcades that are ideal for a quick coffee break.",
+            "tr": "Şehrin çift kiliseli sivil kalbinin bu zarif atmosferinin tadını çıkarın; İtalyan tarzı kemerlerle çevrili olması hızlı bir kahve molası için ideal."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Residenzschloss Ludwigsburg",
             "hu": "Ludwigsburgi kastély",
             "ro": "Palatul Rezidențial Ludwigsburg",
-            "en": "Ludwigsburg Residential Palace"
+            "en": "Ludwigsburg Residential Palace",
+            "tr": "Ludwigsburg Saray Konutu"
           },
           "coords": [
             9.195833,
@@ -403,7 +445,8 @@
             "de": "Erkunden Sie eines der größten erhaltenen Barockschlösser Deutschlands, wo Sie früh eintreffen sollten, um sich einen Platz bei der faszinierenden Innenführung zu sichern.",
             "hu": "Fedezze fel Németország egyik legnagyobb fennmaradt barokk kastélyát, ahová érdemes korán érkezni, hogy biztosítson magának helyet a lenyűgöző belső tárlatvezetésen.",
             "ro": "Explorați unul dintre cele mai mari palate baroce supraviețuitoare din Germania, unde ar trebui să ajungeți devreme pentru a vă asigura un loc la fascinantul tur ghidat al interiorului.",
-            "en": "Explore one of Germany's largest surviving Baroque palaces, where you should arrive early to secure a spot on the fascinating guided interior tour."
+            "en": "Explore one of Germany's largest surviving Baroque palaces, where you should arrive early to secure a spot on the fascinating guided interior tour.",
+            "tr": "Almanya'nın ayakta kalan en büyük Barok saraylarından birini keşfedin; etkileyici iç turda yer almak için erken varın."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Blühendes Barock",
             "hu": "Virágzó Barokk Kertek",
             "ro": "Grădinile Baroce Înflorite",
-            "en": "Blooming Baroque Gardens"
+            "en": "Blooming Baroque Gardens",
+            "tr": "Blooming Baroque Bahçeleri"
           },
           "coords": [
             9.19583,
@@ -426,7 +470,8 @@
             "de": "Spazieren Sie durch diese weitläufigen, lebendigen historischen Gärten und achten Sie auf die saisonalen Blumenarrangements, wobei Sie Wochenenden meiden sollten.",
             "hu": "Sétáljon végig ezeken a hatalmas, élettel teli történelmi kerteken, figyelje a szezonális virágkiállításokat, és kerülje a hétvégéket a legnagyobb tömeg elkerülése érdekében.",
             "ro": "Plimbați-vă prin aceste grădini istorice întinse și vibrante, urmărind aranjamentele florale de sezon și evitând weekendurile pentru a scăpa de cele mai mari aglomerații.",
-            "en": "Stroll through these expansive, vibrant historical gardens, keeping an eye out for the seasonal floral displays and avoiding weekends to escape the biggest crowds."
+            "en": "Stroll through these expansive, vibrant historical gardens, keeping an eye out for the seasonal floral displays and avoiding weekends to escape the biggest crowds.",
+            "tr": "Geniş, canlı tarihi bahçelerde dolaşın; mevsimsel çiçek gösterilerine dikkat edin ve en büyük kalabalıklardan kaçınmak için hafta sonlarını tercih etmeyin."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Schloss Favorite",
             "hu": "Favorite kastély",
             "ro": "Palatul Favorite",
-            "en": "Favorite Palace"
+            "en": "Favorite Palace",
+            "tr": "Favorite Sarayı"
           },
           "coords": [
             9.19556,
@@ -449,7 +495,8 @@
             "de": "Bewundern Sie dieses charmante Jagdschloss in einem ruhigen Park und nehmen Sie sich Zeit für einen Spaziergang auf den Waldwegen, um Rehe zu beobachten.",
             "hu": "Csodálja meg ezt a bájos vadászkastélyt egy békés parkban, és szánjon időt a környező erdei ösvények bejárására, ahol helyi őzeket is megfigyelhet.",
             "ro": "Admirați această fermecătoare cabană de vânătoare dintr-un parc liniștit, făcând o plimbare pe potecile forestiere din jur pentru a observa căprioarele locale.",
-            "en": "Admire this charming hunting lodge set within a peaceful park, taking time to walk the surrounding forested paths to spot local wildlife like roaming deer."
+            "en": "Admire this charming hunting lodge set within a peaceful park, taking time to walk the surrounding forested paths to spot local wildlife like roaming deer.",
+            "tr": "Huzurlu bir park içindeki bu şirin av köşküne hayran kalın; çevredeki ormanlık patikalarda dolaşarak geyik gibi dolaşan yerel vahşi yaşamı gözetleyin."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Seeschloss Monrepos",
             "hu": "Monrepos tóparti kastély",
             "ro": "Palatul de pe lac Monrepos",
-            "en": "Monrepos Lakeside Palace"
+            "en": "Monrepos Lakeside Palace",
+            "tr": "Monrepos Göl Kenarı Sarayı"
           },
           "coords": [
             9.16944,
@@ -472,7 +520,8 @@
             "de": "Entspannen Sie am ruhigen See bei diesem Rokoko-Meisterwerk, wo das Mieten eines kleinen Ruderboots die malerischsten Ausblicke auf die Schlossfassade vom Wasser aus bietet.",
             "hu": "Pihenjen a csendes tó partján ennél a rokokó remekműnél, ahol egy csónak bérlése kínálja a legjobb és legfestőibb kilátást a kastély homlokzatára a vízről.",
             "ro": "Relaxați-vă lângă lacul liniștit la această capodoperă rococo, unde închirierea unei mici bărci cu vâsle oferă cele mai pitorești vederi ale fațadei de pe apă.",
-            "en": "Relax by the serene lake at this rococo masterpiece, where renting a small rowboat offers the best, most picturesque views of the palace facade from the water."
+            "en": "Relax by the serene lake at this rococo masterpiece, where renting a small rowboat offers the best, most picturesque views of the palace facade from the water.",
+            "tr": "Bu rokoko başyapıtının göl kenarında dinlenin; küçük bir sandal kiralamak sarayın cephesini sudan izlemek için en manzaralı seçenektir."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Simigolf",
             "hu": "Simigolf",
             "ro": "Simigolf",
-            "en": "Simigolf"
+            "en": "Simigolf",
+            "tr": "Simigolf"
           },
           "coords": [
             9.146838,
@@ -495,7 +545,8 @@
             "de": "Genießen Sie eine unbeschwerte Pause mit der Familie auf dieser gepflegten Minigolfanlage, die ein unterhaltsames Wettbewerbselement und eine tolle Möglichkeit zum Entspannen bietet.",
             "hu": "Élvezze a könnyed kikapcsolódást a családdal ezen a jól karbantartott minigolfpályán, amely szórakoztató versenyszellemet és remek kikapcsolódást kínál a délutáni napsütésben.",
             "ro": "Bucurați-vă de o pauză veselă alături de familie la acest teren de minigolf bine întreținut, oferind un element competitiv distractiv și o modalitate excelentă de relaxare.",
-            "en": "Enjoy a lighthearted break with the family at this well-maintained minigolf course, offering a fun competitive element and a great way to unwind in the afternoon sun."
+            "en": "Enjoy a lighthearted break with the family at this well-maintained minigolf course, offering a fun competitive element and a great way to unwind in the afternoon sun.",
+            "tr": "Aile ile hafif, eğlenceli bir mola için iyi bakımlı bu minigolf sahasında keyifli rekabet ve öğleden sonra dinlenmesi sunar."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Radeln Sie zum belebten Marktplatz für einen schnellen Kaffee und fahren Sie dann bequem zum prächtigen Residenzschloss Ludwigsburg für eine inspirierende Führung.\n\nSteigen Sie vom Fahrrad, um durch das Blühende Barock zu schlendern und die farbenfrohe Blumenpracht sowie die wunderschön angelegten königlichen Gärten auf sich wirken zu lassen.\n\nGenießen Sie eine luftige Fahrt zum Schloss Favorite und setzen Sie Ihren Weg zum idyllischen Seeschloss Monrepos fort, das malerische Ausblicke auf das Wasser bietet.\n\nLassen Sie Ihren aktiven Tag mit einer spaßigen, entspannenden Runde Minigolf bei Simigolf ausklingen und nutzen Sie das verbleibende Abendlicht optimal aus.",
         "hu": "Tekerjen el a nyüzsgő Piactérre egy gyors kávéra, majd kényelmesen biciklizzen át a lenyűgöző Ludwigsburgi kastélyhoz egy inspiráló tárlatvezetésre.\n\nSzálljon le a kerékpárról, hogy sétáljon egyet a Virágzó Barokk Kertekben, elmerülve az élénk virágkompozíciók és a gyönyörűen parkosított királyi birtok látványában.\n\nÉlvezze a kellemes utazást a Favorite kastélyhoz, majd folytassa útját az idilli Monrepos tóparti kastély felé, amely festői vízparti kilátást nyújt.\n\nZárja aktív napját egy vidám, pihentető minigolfozással a Simigolfnál, kihasználva a kellemes kora esti napfényt.",
         "ro": "Pedalați spre Piața Centrală aglomerată pentru o cafea rapidă, apoi mergeți ușor către grandiosul Palat Rezidențial Ludwigsburg pentru un tur ghidat captivant.\n\nCoborâți de pe bicicletă pentru a vă plimba prin Grădinile Baroce Înflorite, bucurându-vă de aranjamentele florale vibrante și de terenurile regale frumos amenajate.\n\nBucurați-vă de o plimbare răcoroasă până la Palatul Favorite, apoi continuați-vă călătoria către idilicul Palat Monrepos pentru vederi pitorești la malul apei.\n\nÎncheiați-vă ziua activă cu o rundă distractivă și relaxantă de minigolf la Simigolf, profitând la maximum de lumina plăcută a serii.",
-        "en": "Cycle to the bustling Market Square for a quick coffee, then easily pedal over to the grand Ludwigsburg Residential Palace for an inspiring historical tour.\n\nHop off the bike to wander through the Blooming Baroque Gardens, soaking in the vibrant floral displays and beautifully landscaped royal grounds.\n\nEnjoy a breezy ride to the Favorite Palace, then continue your journey towards the idyllic Monrepos Lakeside Palace for scenic waterside views.\n\nWrap up your active day with a fun, relaxing round of minigolf at Simigolf, making the most of the lingering evening daylight."
+        "en": "Cycle to the bustling Market Square for a quick coffee, then easily pedal over to the grand Ludwigsburg Residential Palace for an inspiring historical tour.\n\nHop off the bike to wander through the Blooming Baroque Gardens, soaking in the vibrant floral displays and beautifully landscaped royal grounds.\n\nEnjoy a breezy ride to the Favorite Palace, then continue your journey towards the idyllic Monrepos Lakeside Palace for scenic waterside views.\n\nWrap up your active day with a fun, relaxing round of minigolf at Simigolf, making the most of the lingering evening daylight.",
+        "tr": "Hızlı bir kahve için hareketli Marktplatz’a bisikletle gidin, sonra ilham verici bir tarih turu için kolayca büyük Ludwigsburg Saray Konutu’na pedal çevirin.\n\nBisikletten inip Blooming Baroque Bahçeleri’nde dolaşın; canlı çiçek sergilerinin ve özenle düzenlenmiş kraliyet alanlarının tadını çıkarın.\n\nTaze bir sürüşle Favorite Sarayı’na gidin, ardından manzaralı su kenarı görüntüleri için Monrepos Göl Kenarı Sarayı’na devam edin.\n\nGün batımının kalan ışıklarıyla Simigolf’ta eğlenceli ve dinlendirici bir minigolf turuyla aktif gününüzü sonlandırın."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Trotz Regen starten wir am Marktplatz und nutzen die schnellen Wege zum Residenzschloss. Die Fahrt durch das Blühende Barock erfordert Vorsicht auf nassem Kies, bietet aber frische Luft. Nachmittags radeln wir zum Favorite- und weiter zum Seeschloss Monrepos, wo der See mystisch im Regen liegt. Den Tag beenden wir beim Simigolf, wobei wir auf wetterfeste Kleidung und griffige Reifen achten.",
             "hu": "Esőben is a Piactérről indulunk, gyorsan átkerekezve a kastélyhoz. A Virágzó Barokk kertjeiben óvatosan hajtsunk a vizes murván. Délután a Favorite kastély érintésével tekerünk a Monrepos-tóhoz, amely ködösen csillog a szitáló esőben. A napot a Simigolfnál zárjuk, ügyelve a vízhatlan öltözetre és a csúszós kanyarokra az erdei utakon.",
             "ro": "Pornim din Piața Centrală în ciuda ploii, pedalând rapid spre palat. Traversarea grădinilor necesită atenție pe pietrișul ud, dar oferă un aer proaspăt. După-amiază mergem spre Palatul Favorite și Monrepos, unde lacul arată mistic sub stropii de ploaie. Încheiem la Simigolf, fiind echipați cu haine impermeabile și atenți la suprafețele alunecoase.",
-            "en": "Despite the rain, we start at Market Square and bike quickly to the palace. Riding through the gardens requires care on wet gravel, but the air is incredibly fresh. Afternoon takes us past Favorite to Monrepos Lake, appearing mystical in the mist. We end at Simigolf, making sure to wear waterproof gear and watch for slippery patches on the bike paths."
+            "en": "Despite the rain, we start at Market Square and bike quickly to the palace. Riding through the gardens requires care on wet gravel, but the air is incredibly fresh. Afternoon takes us past Favorite to Monrepos Lake, appearing mystical in the mist. We end at Simigolf, making sure to wear waterproof gear and watch for slippery patches on the bike paths.",
+            "tr": "Yağmura rağmen Marktplatz’ta başlıyoruz ve saraya hızla bisikletle gidiyoruz. Bahçelerde ıslak çakıl üzerinde dikkatli sürmek gerekiyor ama hava inanılmaz derecede temiz. Öğleden sonra Favorite ve ardından sisli Monrepos Gölü manzarasından geçiyoruz; göl mistik görünür. Simigolf’ta yağmurluk giymeyi ve bisiklet yollarındaki kaygan yerlere dikkat etmeyi unutmayın."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Marktplatz",
                 "hu": "Piactér",
                 "ro": "Piața Centrală",
-                "en": "Market Square"
+                "en": "Market Square",
+                "tr": "Marktplatz"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad unter den Arkaden, während Sie sich orientieren; das Kopfsteinpflaster ist bei Nässe extrem rutschig. Prüfen Sie Ihre Bremsen, bevor es weitergeht.",
                 "hu": "Parkolja le kerékpárját az árkádok alatt, amíg tájékozódik; a macskaköves út esőben rendkívül csúszós. Ellenőrizze a fékeket, mielőtt továbbindulna a kastély felé.",
                 "ro": "Parcați bicicleta sub arcade în timp ce vă orientați; piatra cubică este extrem de alunecoasă pe ploaie. Verificați frânele înainte de a pleca spre următoarea oprire.",
-                "en": "Park your bike under the arcades while you check your map; the cobblestones are extremely slippery when wet. Check your brakes before heading out towards the palace."
+                "en": "Park your bike under the arcades while you check your map; the cobblestones are extremely slippery when wet. Check your brakes before heading out towards the palace.",
+                "tr": "Haritanızı kontrol ederken bisikletinizi kemerlerin altına park edin; ıslak kaldırım taşları son derece kaygandır. Saraya doğru yola çıkmadan önce frenlerinizi kontrol edin."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Residenzschloss Ludwigsburg",
                 "hu": "Ludwigsburgi kastély",
                 "ro": "Palatul Rezidențial Ludwigsburg",
-                "en": "Ludwigsburg Residential Palace"
+                "en": "Ludwigsburg Residential Palace",
+                "tr": "Ludwigsburg Saray Konutu"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die überdachten Fahrradständer in der Nähe des Eingangs; im Schloss können Sie sich während der Führung aufwärmen und trocknen. Die Zufahrten sind gut befestigt.",
                 "hu": "Használja a bejárat közeli fedett kerékpártárolókat; a kastélytúra alatt felmelegedhet és megszáradhat. A bevezető utak jól burkoltak, így sármentesen elérhetők.",
                 "ro": "Folosiți rastelele acoperite pentru biciclete de lângă intrare; vă puteți încălzi și usca în interiorul palatului în timpul turului. Căile de acces sunt bine amenajate și fără noroi.",
-                "en": "Use the covered bike racks near the entrance; the palace tour is a perfect chance to dry off and warm up. The access roads are well-paved, keeping your bike relatively clean."
+                "en": "Use the covered bike racks near the entrance; the palace tour is a perfect chance to dry off and warm up. The access roads are well-paved, keeping your bike relatively clean.",
+                "tr": "Girişin yakınındaki örtülü bisiklet parklarını kullanın; saray turu kuruyup ısınmak için mükemmel bir fırsattır. Giriş yolları iyi döşelidir, bisikletinizi nispeten temiz tutar."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Blühendes Barock",
                 "hu": "Virágzó Barokk Kertek",
                 "ro": "Grădinile Baroce Înflorite",
-                "en": "Blooming Baroque Gardens"
+                "en": "Blooming Baroque Gardens",
+                "tr": "Blooming Baroque Bahçeleri"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam auf den Kieswegen, da Pfützen die Tiefe von Löchern verbergen können; Schutzbleche am Rad sind heute Gold wert. Die Gärten sind bei Regen herrlich leer.",
                 "hu": "Hajtson lassan a murvás utakon, mert a tócsák elrejthetik az úthibákat; a sárvédő ma aranyat ér. Esőben a kertek csodásan üresek, élvezze a zavartalan tekerést.",
                 "ro": "Pedalați încet pe aleile cu pietriș, deoarece bălțile pot ascunde gropi; aripile la bicicletă sunt esențiale astăzi. Grădinile sunt plăcut de libere pe timp de ploaie.",
-                "en": "Ride slowly on gravel paths as puddles can hide deep potholes; mudguards on your bike are a lifesaver today. The gardens are wonderfully quiet and empty in the rain."
+                "en": "Ride slowly on gravel paths as puddles can hide deep potholes; mudguards on your bike are a lifesaver today. The gardens are wonderfully quiet and empty in the rain.",
+                "tr": "Su birikintileri derin çukurları saklayabileceğinden çakıllı yollarda yavaş sürün; çamurluklar bugün hayat kurtarıcıdır. Yağmurda bahçeler harika şekilde sakin ve boş olur."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Schloss Favorite",
                 "hu": "Favorite kastély",
                 "ro": "Palatul Favorite",
-                "en": "Favorite Palace"
+                "en": "Favorite Palace",
+                "tr": "Favorite Sarayı"
               },
               "tip_5lang": {
                 "de": "Der Anstieg zum Schloss ist kurz, aber auf nassem Asphalt tückisch; parken Sie das Rad sicher am Fuß des Schlosses. Ein kurzer Besuch im Inneren bringt Sie ins Trockene.",
                 "hu": "A kastélyhoz vezető emelkedő rövid, de a vizes aszfalton trükkös lehet; parkoljon le biztonságosan a kastély tövében. Egy rövid belső látogatás segít megszáradni.",
                 "ro": "Urcarea spre castel este scurtă, dar poate fi înșelătoare pe asfaltul ud; parcați bicicleta în siguranță la bază. O scurtă vizită în interior vă va feri de ploaie.",
-                "en": "The climb to the palace is short but can be tricky on wet asphalt; park your bike securely at the base. A quick visit inside will get you out of the rain for a bit."
+                "en": "The climb to the palace is short but can be tricky on wet asphalt; park your bike securely at the base. A quick visit inside will get you out of the rain for a bit.",
+                "tr": "Saray tırmanışı kısa ama ıslak asfaltta zor olabilir; bisikletinizi tabanda güvenle park edin. İçeri kısa bir ziyaret sizi yağmurdan bir süre korur."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Seeschloss Monrepos",
                 "hu": "Monrepos tóparti kastély",
                 "ro": "Palatul de pe lac Monrepos",
-                "en": "Monrepos Lakeside Palace"
+                "en": "Monrepos Lakeside Palace",
+                "tr": "Monrepos Göl Kenarı Sarayı"
               },
               "tip_5lang": {
                 "de": "Der Weg am Seeufer kann matschig sein, wählen Sie die befestigten Alleen; die Aussicht auf den See im Regen ist sehr atmosphärisch. Tragen Sie wasserfeste Überschuhe.",
                 "hu": "A tóparti ösvény saras lehet, válassza inkább a kövezett fasorokat; a kilátás a tóra az esőben nagyon hangulatos. Viseljen vízálló kamáslit a cipőjén.",
                 "ro": "Poteca de pe malul lacului poate fi noroioasă, alegeți aleile pavate; vederea spre lac pe ploaie este foarte atmosferică. Recomandăm protecții impermeabile pentru încălțăminte.",
-                "en": "The lakeside path might be muddy, so stick to the paved avenues; the view of the lake in the rain is very atmospheric. Wear waterproof shoe covers to keep your feet dry."
+                "en": "The lakeside path might be muddy, so stick to the paved avenues; the view of the lake in the rain is very atmospheric. Wear waterproof shoe covers to keep your feet dry.",
+                "tr": "Göl kenarı yolu çamurlu olabilir, bu yüzden döşeli yollarda kalın; yağmurda göl manzarası çok atmosferiktir. Ayaklarınızı kuru tutmak için su geçirmez ayakkabı örtüleri giyin."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Simigolf",
                 "hu": "Simigolf",
                 "ro": "Simigolf",
-                "en": "Simigolf"
+                "en": "Simigolf",
+                "tr": "Simigolf"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie vorab, ob die Anlage bei starkem Regen geöffnet ist; bei leichtem Schauer sind die Bahnen spielbar, aber rutschig. Ein heißer Tee danach im Clubhaus wirkt Wunder.",
                 "hu": "Előre ellenőrizze, hogy heves esőben nyitva vannak-e; szemerkélő esőben a pályák használhatók, de csúszósak. Egy forró tea a klubházban utána csodákra képes.",
                 "ro": "Verificați din timp dacă locația este deschisă pe ploaie torențială; pe burniță terenul este utilizabil, dar alunecos. Un ceai cald la club după joc va face minuni.",
-                "en": "Check ahead if they are open during heavy rain; the courses are playable in light rain but can be slippery. A hot tea in the clubhouse afterwards will work wonders."
+                "en": "Check ahead if they are open during heavy rain; the courses are playable in light rain but can be slippery. A hot tea in the clubhouse afterwards will work wonders.",
+                "tr": "Yoğun yağmurda açık olup olmadıklarını önceden kontrol edin; hafif yağmurda oyun mümkün ama kaygan olabilir. Sonrasında kulübe içinde sıcak bir çay harika gelir."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Ein frostiger Start am Marktplatz führt uns auf zwei Rädern durch die winterliche Stadt. Im Residenzschloss finden wir Wärme, bevor wir durch die kahlen, aber reifbedeckten Gärten zum Schloss Favorite fahren. Die Route zum Seeschloss Monrepos ist bei klarer Winterluft herrlich, doch wir achten auf Glätte. Da es um 17:00 Uhr dunkel wird, beenden wir unsere Tour zügig beim Simigolf, eingepackt in Thermokleidung.",
             "hu": "A fagyos reggel a Piactéren indul, majd két keréken vágunk át a téli városon. A kastély falai között melegszünk fel, mielőtt a dérlepte parkon át a Favorite kastélyhoz tekernénk. A Monrepos-tóhoz vezető út a friss téli levegőben élénkítő, de vigyázunk a jeges szakaszokra. Mivel 17:00-kor sötétedik, a napot korán zárjuk a Simigolfnál, jól felöltözve.",
             "ro": "Începem ziua geroasă în Piața Centrală, traversând orașul pe două roți. Ne încălzim în Palatul Rezidențial, apoi pedalăm prin grădinile acoperite de brumă spre Palatul Favorite. Drumul spre Monrepos este revigorant în aerul rece, dar suntem atenți la gheață. Deoarece se întunecă la ora 17:00, încheiem turul rapid la Simigolf, echipați cu haine termice.",
-            "en": "A frosty start at Market Square leads us through the winter city on two wheels. We find warmth inside the Residential Palace before riding through frost-covered gardens to Favorite Palace. The route to Monrepos Lake is refreshing in the crisp air, but we watch for icy spots. Since it gets dark by 17:00, we wrap up our tour early at Simigolf, bundled in thermal gear."
+            "en": "A frosty start at Market Square leads us through the winter city on two wheels. We find warmth inside the Residential Palace before riding through frost-covered gardens to Favorite Palace. The route to Monrepos Lake is refreshing in the crisp air, but we watch for icy spots. Since it gets dark by 17:00, we wrap up our tour early at Simigolf, bundled in thermal gear.",
+            "tr": "Marktplatz’ta donmuş bir başlangıçla iki teker üzerinde kış şehrinden geçiyoruz. Sarayın içindeki ısınmanın tadını çıkarıp donla kaplı bahçelerden Favorite Sarayı’na sürüyoruz. Monrepos Gölü’ne giden rota serin havada canlandırıcı ama buzlu noktalara dikkat ediyoruz. Akşam 17:00’de hava karardığı için Simigolf’ta turumuzu erken bitiriyoruz ve termal giysilerle koruyoruz."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Marktplatz",
                 "hu": "Piactér",
                 "ro": "Piața Centrală",
-                "en": "Market Square"
+                "en": "Market Square",
+                "tr": "Marktplatz"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf gefrorenes Kondenswasser auf dem Kopfsteinpflaster; warme Handschuhe sind für die Fahrt unerlässlich. Ein kurzer Stopp für einen heißen Kakao wärmt die Hände auf.",
                 "hu": "Ügyeljen a macskaköveken megfagyott párára; a meleg kesztyű elengedhetetlen a tekeréshez. Egy rövid megálló egy forró kakaóra segít átmelegíteni az ujjait a továbbindulás előtt.",
                 "ro": "Atenție la condensul înghețat de pe piatra cubică; mănușile groase sunt esențiale pentru pedalat. O scurtă oprire pentru o cacao fierbinte vă va încălzi mâinile imediat.",
-                "en": "Watch out for frozen condensation on the cobblestones; warm gloves are essential for the ride. A quick stop for hot cocoa will warm your hands before you continue the tour."
+                "en": "Watch out for frozen condensation on the cobblestones; warm gloves are essential for the ride. A quick stop for hot cocoa will warm your hands before you continue the tour.",
+                "tr": "Kaldırım taşlarındaki donmuş terlemelere dikkat edin; sürüş için sıcak eldivenler şart. Devam etmeden önce elinizi ısıtmak için sıcak kakao molası iyi gelir."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Residenzschloss Ludwigsburg",
                 "hu": "Ludwigsburgi kastély",
                 "ro": "Palatul Rezidențial Ludwigsburg",
-                "en": "Ludwigsburg Residential Palace"
+                "en": "Ludwigsburg Residential Palace",
+                "tr": "Ludwigsburg Saray Konutu"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad und genießen Sie die Wärme der Innenräume während der Führung; der Temperaturunterschied ist groß. Ziehen Sie eine Schicht aus, um im Schloss nicht zu schwitzen.",
                 "hu": "Parkoljon le, és élvezze a belső terek melegét a vezetés alatt; a hőmérséklet-különbség jelentős. Vegyen le egy réteg ruhát bent, hogy ne izzadjon meg a túra alatt.",
                 "ro": "Parcați bicicleta și bucurați-vă de căldura interioară în timpul turului; diferența de temperatură este mare. Dați jos un strat de haine în interior pentru a nu transpira.",
-                "en": "Park your bike and enjoy the warmth of the interiors during the tour; the temperature difference is significant. Peel off a layer inside so you don't overheat during the visit."
+                "en": "Park your bike and enjoy the warmth of the interiors during the tour; the temperature difference is significant. Peel off a layer inside so you don't overheat during the visit.",
+                "tr": "Bisikletinizi park edip turun sırasında iç mekanların sıcaklığının tadını çıkarın; sıcaklık farkı belirgindir. Ziyaret sırasında aşırı ısınmamak için içerde bir kat çıkarın."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Blühendes Barock",
                 "hu": "Virágzó Barokk Kertek",
                 "ro": "Grădinile Baroce Înflorite",
-                "en": "Blooming Baroque Gardens"
+                "en": "Blooming Baroque Gardens",
+                "tr": "Blooming Baroque Bahçeleri"
               },
               "tip_5lang": {
                 "de": "Die Wege können bei Frost hart und holprig sein, fahren Sie mit etwas weniger Reifendruck für mehr Grip; die winterliche Stille ist einmalig. Halten Sie Ausschau nach vereisten Kurven.",
                 "hu": "A fagyott utak kemények és döcögősek lehetnek, kicsit laposabb gumikkal jobb a tapadás; a téli csend itt egyedülálló. Legyen óvatos a jeges kanyarokban a kertek között.",
                 "ro": "Drumurile înghețate pot fi rigide și denivelate, pedalați cu o presiune mai mică în pneuri pentru aderență; liniștea iernii este unică. Fiți atenți la curbele cu gheață.",
-                "en": "Frozen paths can be hard and bumpy, so ride with slightly lower tire pressure for better grip; the winter silence is unique. Keep an eye out for icy patches in the curves."
+                "en": "Frozen paths can be hard and bumpy, so ride with slightly lower tire pressure for better grip; the winter silence is unique. Keep an eye out for icy patches in the curves.",
+                "tr": "Donmuş yollar sert ve tümseklidir, daha iyi tutuş için lastik basıncını biraz düşürerek sürün; kış sessizliği benzersizdir. Virajlarda buzlu bölgeler için dikkatli olun."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Schloss Favorite",
                 "hu": "Favorite kastély",
                 "ro": "Palatul Favorite",
-                "en": "Favorite Palace"
+                "en": "Favorite Palace",
+                "tr": "Favorite Sarayı"
               },
               "tip_5lang": {
                 "de": "Der Park um das Schloss wirkt im Winter sehr weitläufig und leer; nutzen Sie die kurzen Tage, um das Schloss im goldenen Nachmittagslicht zu sehen. Tragen Sie eine winddichte Jacke.",
                 "hu": "A kastély körüli park télen tágasnak és üresnek hat; használja ki a rövid nappalt, hogy az aranyló délutáni fényben láthassa az épületet. Viseljen szélálló kabátot a dombon.",
                 "ro": "Parcul din jurul castelului pare foarte vast și liber iarna; profitați de zilele scurte pentru a vedea castelul în lumina aurie a după-amiezii. Purtați o jachetă rezistentă la vânt.",
-                "en": "The park around the palace feels very spacious and empty in winter; use the short days to see the building in the golden afternoon light. Wear a windproof jacket for the hill climb."
+                "en": "The park around the palace feels very spacious and empty in winter; use the short days to see the building in the golden afternoon light. Wear a windproof jacket for the hill climb.",
+                "tr": "Saray çevresindeki park kışın çok geniş ve boş hisseder; kısa günleri kullanarak binayı altın öğleden sonra ışığında görün. Tırmanış için rüzgâra dayanıklı bir ceket giyin."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Seeschloss Monrepos",
                 "hu": "Monrepos tóparti kastély",
                 "ro": "Palatul de pe lac Monrepos",
-                "en": "Monrepos Lakeside Palace"
+                "en": "Monrepos Lakeside Palace",
+                "tr": "Monrepos Göl Kenarı Sarayı"
               },
               "tip_5lang": {
                 "de": "Bei klarem Wetter spiegelt sich die Wintersonne im kalten See, ein tolles Fotomotiv; der Radweg dorthin ist meist gut geräumt. Achten Sie auf den kalten Wind am Ufer.",
                 "hu": "Tiszta időben a téli nap megcsillan a hideg vízen, remek fotótéma; az odavezető kerékpárút általában jól takarított. Figyeljen a part menti hideg szélre tekerés közben.",
                 "ro": "Pe vreme senină, soarele de iarnă se reflectă în lacul rece, oferind fotografii superbe; pista de biciclete este de obicei curățată. Atenție la vântul tăios de pe malul lacului.",
-                "en": "In clear weather, the winter sun reflects off the cold lake, making for a great photo; the bike path there is usually well-cleared. Watch out for the biting cold wind by the shore."
+                "en": "In clear weather, the winter sun reflects off the cold lake, making for a great photo; the bike path there is usually well-cleared. Watch out for the biting cold wind by the shore.",
+                "tr": "Açık havada kış güneşi soğuk göl üzerinde yansır ve harika fotoğraflar sunar; oraya giden bisiklet yolu genellikle temizlenir. Sahildeki keskin soğuk rüzgâra karşı dikkatli olun."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Simigolf",
                 "hu": "Simigolf",
                 "ro": "Simigolf",
-                "en": "Simigolf"
+                "en": "Simigolf",
+                "tr": "Simigolf"
               },
               "tip_5lang": {
                 "de": "Die Tour endet hier in der Dämmerung; stellen Sie sicher, dass Ihr Fahrradlicht funktioniert, da es bereits dunkel wird. Bewegen Sie sich beim Spielen viel, um warm zu bleiben.",
                 "hu": "A túra itt ér véget a szürkületben; győződjön meg róla, hogy a kerékpárlámpák működnek, mert már sötétedik. Játék közben mozogjon sokat, hogy fenntartsa testhőmérsékletét.",
                 "ro": "Turul se încheie aici la amurg; asigurați-vă că luminile bicicletei funcționează, deoarece se întunecă deja. Mișcați-vă mult în timpul jocului pentru a vă menține căldura.",
-                "en": "The tour ends here at dusk; ensure your bike lights are working as it will be dark. Stay active while playing to keep your body temperature up in the evening chill."
+                "en": "The tour ends here at dusk; ensure your bike lights are working as it will be dark. Stay active while playing to keep your body temperature up in the evening chill.",
+                "tr": "Tur burada alacakaranlıkta biter; bisiklet ışıklarınızın çalıştığından emin olun çünkü karanlık olacaktır. Akşam üşümesini önlemek için oyun sırasında aktif kalın."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Ludwigsburg Museum",
             "hu": "Ludwigsburg Múzeum",
             "ro": "Muzeul Ludwigsburg",
-            "en": "Ludwigsburg Museum"
+            "en": "Ludwigsburg Museum",
+            "tr": "Ludwigsburg Müzesi"
           },
           "coords": [
             9.1927,
@@ -724,7 +803,8 @@
             "de": "Entdecken Sie die reiche kulturelle und königliche Geschichte der Region in diesem modernen Museum, das die Gründung der Stadt nahtlos mit ihrer barocken Architektur verbindet.",
             "hu": "Fedezze fel a régió gazdag kulturális és királyi történelmét ebben a modern múzeumban, amely zökkenőmentesen köti össze a város alapítását a nagyszerű barokk építészettel.",
             "ro": "Descoperiți istoria culturală și regală bogată a regiunii în acest muzeu modern, care conectează perfect fondarea orașului de arhitectura sa barocă grandioasă.",
-            "en": "Uncover the rich cultural and royal history of the region in this modern museum, which seamlessly connects the founding of the city to its grand baroque architecture."
+            "en": "Uncover the rich cultural and royal history of the region in this modern museum, which seamlessly connects the founding of the city to its grand baroque architecture.",
+            "tr": "Şehrin kuruluşunu büyük barok mimarisiyle kesintisiz şekilde bağlayan modern bu müzede bölgenin zengin kültürel ve kraliyet tarihini keşfedin."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             9.191919,
@@ -747,7 +828,8 @@
             "de": "Genießen Sie die elegante Atmosphäre dieses bürgerlichen Zentrums mit seinen zwei Kirchen, das von Arkaden im italienischen Stil umrahmt wird, ideal für eine kurze Kaffeepause.",
             "hu": "Élvezze a város ikertemplomos polgári szívének elegáns hangulatát, amelyet olasz stílusú árkádok öveznek, tökéletes helyszínt nyújtva egy gyors kávészünethez.",
             "ro": "Bucurați-vă de atmosfera elegantă a acestei inimi civice cu două biserici a orașului, încadrată perfect de arcade în stil italian, ideale pentru o scurtă pauză de cafea.",
-            "en": "Soak in the elegant atmosphere of this twin-churched civic heart of the city, perfectly framed by Italian-style arcades that are ideal for a quick coffee break."
+            "en": "Soak in the elegant atmosphere of this twin-churched civic heart of the city, perfectly framed by Italian-style arcades that are ideal for a quick coffee break.",
+            "tr": "Şehrin çift kiliseli sivil merkezi olan bu zarif atmosferin tadını çıkarın; İtalyan tarzı kemerlerle çevrili yapılar hızlı bir kahve molası için ideal."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Residenzschloss Ludwigsburg",
             "hu": "Ludwigsburgi kastély",
             "ro": "Palatul Rezidențial Ludwigsburg",
-            "en": "Ludwigsburg Residential Palace"
+            "en": "Ludwigsburg Residential Palace",
+            "tr": "Ludwigsburg Saray Konutu"
           },
           "coords": [
             9.195833,
@@ -770,7 +853,8 @@
             "de": "Erkunden Sie eines der größten erhaltenen Barockschlösser Deutschlands, wo Sie früh eintreffen sollten, um sich einen Platz bei der faszinierenden Innenführung zu sichern.",
             "hu": "Fedezze fel Németország egyik legnagyobb fennmaradt barokk kastélyát, ahová érdemes korán érkezni, hogy biztosítson magának helyet a lenyűgöző belső tárlatvezetésen.",
             "ro": "Explorați unul dintre cele mai mari palate baroce supraviețuitoare din Germania, unde ar trebui să ajungeți devreme pentru a vă asigura un loc la fascinantul tur ghidat al interiorului.",
-            "en": "Explore one of Germany's largest surviving Baroque palaces, where you should arrive early to secure a spot on the fascinating guided interior tour."
+            "en": "Explore one of Germany's largest surviving Baroque palaces, where you should arrive early to secure a spot on the fascinating guided interior tour.",
+            "tr": "Almanya'nın ayakta kalan en büyük Barok saraylarından birini keşfedin; etkileyici iç tur için erken gelmeyi unutmayın."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Schloss Favorite",
             "hu": "Favorite kastély",
             "ro": "Palatul Favorite",
-            "en": "Favorite Palace"
+            "en": "Favorite Palace",
+            "tr": "Favorite Sarayı"
           },
           "coords": [
             9.19556,
@@ -793,7 +878,8 @@
             "de": "Bewundern Sie dieses charmante Jagdschloss in einem ruhigen Park und nehmen Sie sich Zeit für einen Spaziergang auf den Waldwegen, um Rehe zu beobachten.",
             "hu": "Csodálja meg ezt a bájos vadászkastélyt egy békés parkban, és szánjon időt a környező erdei ösvények bejárására, ahol helyi őzeket is megfigyelhet.",
             "ro": "Admirați această fermecătoare cabană de vânătoare dintr-un parc liniștit, făcând o plimbare pe potecile forestiere din jur pentru a observa căprioarele locale.",
-            "en": "Admire this charming hunting lodge set within a peaceful park, taking time to walk the surrounding forested paths to spot local wildlife like roaming deer."
+            "en": "Admire this charming hunting lodge set within a peaceful park, taking time to walk the surrounding forested paths to spot local wildlife like roaming deer.",
+            "tr": "Sakin bir park içindeki bu şirin av köşküne hayran kalın; etraftaki orman yollarında yürüyüş yaparak geyik gibi yerel vahşi yaşamı gözlemlemeye vakit ayırın."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Seeschloss Monrepos",
             "hu": "Monrepos tóparti kastély",
             "ro": "Palatul de pe lac Monrepos",
-            "en": "Monrepos Lakeside Palace"
+            "en": "Monrepos Lakeside Palace",
+            "tr": "Monrepos Göl Kenarı Sarayı"
           },
           "coords": [
             9.16944,
@@ -816,7 +903,8 @@
             "de": "Entspannen Sie am ruhigen See bei diesem Rokoko-Meisterwerk, wo das Mieten eines kleinen Ruderboots die malerischsten Ausblicke auf die Schlossfassade vom Wasser aus bietet.",
             "hu": "Pihenjen a csendes tó partján ennél a rokokó remekműnél, ahol egy csónak bérlése kínálja a legjobb és legfestőibb kilátást a kastély homlokzatára a vízről.",
             "ro": "Relaxați-vă lângă lacul liniștit la această capodoperă rococo, unde închirierea unei mici bărci cu vâsle oferă cele mai pitorești vederi ale fațadei de pe apă.",
-            "en": "Relax by the serene lake at this rococo masterpiece, where renting a small rowboat offers the best, most picturesque views of the palace facade from the water."
+            "en": "Relax by the serene lake at this rococo masterpiece, where renting a small rowboat offers the best, most picturesque views of the palace facade from the water.",
+            "tr": "Bu rokoko başyapıtının huzurlu göl kenarında dinlenin; küçük bir kürek teknesi kiralamak, saray cephesinin sudan en fotojenik görünümünü sunar."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Evangelische Stadtkirche",
             "hu": "Evangélikus Városi Templom",
             "ro": "Biserica Evanghelică a Orașului",
-            "en": "Evangelical City Church"
+            "en": "Evangelical City Church",
+            "tr": "Protestan Şehir Kilisesi"
           },
           "coords": [
             9.14376,
@@ -839,7 +928,8 @@
             "de": "Nehmen Sie sich einen Moment Zeit zur stillen Einkehr in diesem markanten historischen Kirchengebäude und bewundern Sie die dezenten architektonischen Details.",
             "hu": "Szánjon egy percet a csendes elmélkedésre ebben a lenyűgöző történelmi templomban, értékelve a visszafogott, megnyugtató építészeti részleteket.",
             "ro": "Luați-vă un moment de reflecție liniștită în această biserică istorică impresionantă, apreciind detaliile sale arhitecturale discrete și atmosfera calmă.",
-            "en": "Take a moment for quiet reflection in this striking historical church building, appreciating its understated architectural details that contrast with the nearby palaces."
+            "en": "Take a moment for quiet reflection in this striking historical church building, appreciating its understated architectural details that contrast with the nearby palaces.",
+            "tr": "Bu etkileyici tarihi kilise binasında kısa bir sessiz düşünme molası verin; sade mimari detaylarının yakınlardaki saraylarla oluşturduğu kontrasta dikkat edin."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Fahren Sie bequem ins Stadtzentrum und beginnen Sie mit der reichen Geschichte im Ludwigsburg Museum, gefolgt von einem kurzen Spaziergang über den eleganten Marktplatz.\n\nParken Sie in der Nähe des monumentalen Residenzschlosses Ludwigsburg, um seine großen Säle zu erkunden, und fahren Sie dann unkompliziert zum nahen Schloss Favorite.\n\nEine kurze, malerische Fahrt bringt Sie zum atemberaubenden Seeschloss Monrepos, wo Sie sich die Beine vertreten und die ruhigen Wasserspiegelungen bewundern können.\n\nBeenden Sie den Tag mit einer Fahrt in die nördlichen Außenbezirke und finden Sie friedliche Besinnung in der historischen Evangelischen Stadtkirche, bevor Sie heimkehren.",
         "hu": "Vezessen kényelmesen a városközpontba, és kezdje a napot a Ludwigsburg Múzeum gazdag történelmével, majd tegyen egy rövid sétát az elegáns Piactéren.\n\nParkoljon le a monumentális Ludwigsburgi kastély közelében, fedezze fel hatalmas termeit, majd vezessen át a közeli Favorite kastélyhoz.\n\nEgy rövid, festői autózás elviszi a lenyűgöző Monrepos tóparti kastélyhoz, ahol kinyújtóztathatja végtagjait és megcsodálhatja a csendes tó tükröződéseit.\n\nZárja a napot egy autózással az északi külvárosba, ahol békés elmélyülést talál a történelmi Evangélikus Városi Templomban a hazatérés előtt.",
         "ro": "Conduceți ușor spre centrul orașului, începând cu istoria bogată a Muzeului Ludwigsburg, urmată de o scurtă plimbare prin Piața Centrală elegantă.\n\nParcați lângă monumentalul Palat Rezidențial Ludwigsburg pentru a explora sălile sale grandioase, apoi conduceți rapid la Palatul Favorite din apropiere.\n\nUn scurt drum pitoresc vă duce la uimitorul Palat Monrepos, unde vă puteți dezmorți picioarele și admira reflexiile liniștite ale apei.\n\nÎncheiați ziua cu o plimbare spre periferia nordică, găsind momente de reflecție pașnică la istorica Biserică Evanghelică a Orașului înainte de a pleca acasă.",
-        "en": "Drive smoothly into the city center, starting with the Ludwigsburg Museum's rich history, followed by a quick stroll across the elegant Market Square.\n\nPark near the monumental Ludwigsburg Residential Palace to explore its grand halls, then easily drive over to the beautifully situated Favorite Palace.\n\nA short scenic drive takes you to the stunning Monrepos Lakeside Palace, where you can stretch your legs and admire the serene water reflections.\n\nFinish the day with a drive to the northern outskirts, finding peaceful reflection at the historic Evangelical City Church before heading home."
+        "en": "Drive smoothly into the city center, starting with the Ludwigsburg Museum's rich history, followed by a quick stroll across the elegant Market Square.\n\nPark near the monumental Ludwigsburg Residential Palace to explore its grand halls, then easily drive over to the beautifully situated Favorite Palace.\n\nA short scenic drive takes you to the stunning Monrepos Lakeside Palace, where you can stretch your legs and admire the serene water reflections.\n\nFinish the day with a drive to the northern outskirts, finding peaceful reflection at the historic Evangelical City Church before heading home.",
+        "tr": "Şehre sakin bir sürüşle girin; önce Ludwigsburg Müzesi'nin zengin tarihini keşfedin, sonra zarif Pazar Meydanı'nda kısa bir yürüyüş yapın.\n\nAnıtsal Ludwigsburg Saray Konutu'nun yakınında park edip büyük salonlarını keşfedin, ardından kolayca güzel konumdaki Favorite Sarayı'na gidin.\n\nKısa ve manzaralı bir sürüş sizi Monrepos Göl Kenarı Sarayı'na götürür; burada bacaklarınızı esnetip sakin su yansımalarına hayran kalabilirsiniz.\n\nGünü kuzey kenarlarına doğru bir sürüşle tamamlayın; tarihi Protestan Şehir Kilisesi'nde huzurlu bir an bulduktan sonra eve dönün."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Bequem und trocken starten wir am Museum, bevor wir zum Marktplatz fahren. Die Fahrt zum Residenzschloss und zum Schloss Favorite ist bei Regen im Auto stressfrei. Nachmittags besuchen wir das Seeschloss Monrepos und genießen den Blick auf den See aus dem warmen Wagen oder dem Clubhaus. Den Tag beenden wir bei der Evangelischen Stadtkirche, während wir draußen das Prasseln des Regens hören.",
             "hu": "Kényelmesen és szárazon indulunk a múzeumnál, majd rövid autózással érjük el a Piacteret. A kastélyok látogatása esőben autóval a legpraktikusabb választás. Délután a Monrepos-tónál gyönyörködünk a kilátásban a meleg autóból vagy a közeli étteremből. A napot az Evangélikus Városi Templomnál zárjuk, miközben odakint kopog az eső, mi pedig élvezzük a fedett nyugalmat.",
             "ro": "Începem confortabil la muzeu, apoi conducem spre Piața Centrală, evitând ploaia. Vizitarea Palatului Rezidențial și a Palatului Favorite este mult mai simplă cu mașina pe vreme rea. După-amiaza mergem la Monrepos, unde putem admira lacul din confortul mașinii sau al localurilor din apropiere. Încheiem ziua la Biserica Evanghelică, ascultând ploaia de la adăpost.",
-            "en": "Comfortably dry, we start at the museum before driving to Market Square. Visiting the Residential and Favorite palaces is stress-free by car during rain. In the afternoon, we head to Monrepos Lake, enjoying the water views from the warmth of the car or a nearby cafe. We finish the day at the Evangelical City Church, finding peace indoors while the rain patters outside."
+            "en": "Comfortably dry, we start at the museum before driving to Market Square. Visiting the Residential and Favorite palaces is stress-free by car during rain. In the afternoon, we head to Monrepos Lake, enjoying the water views from the warmth of the car or a nearby cafe. We finish the day at the Evangelical City Church, finding peace indoors while the rain patters outside.",
+            "tr": "Rahatça kuru bir havada müzede başlıyoruz, sonra Pazar Meydanı'na araçla gidiyoruz. Yağmurda Saray Konutu ve Favorite saraylarını araçla ziyaret etmek zahmetsiz. Öğleden sonra Monrepos Gölü'ne gidiyoruz; araç içinden veya yakın bir kafeden su manzarasının keyfini çıkarıyoruz. Günü Protestan Şehir Kilisesi'nde tamamlayıp dışarıdaki yağmurun sesiyle içerde huzur buluyoruz."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Ludwigsburg Museum",
                 "hu": "Ludwigsburg Múzeum",
                 "ro": "Muzeul Ludwigsburg",
-                "en": "Ludwigsburg Museum"
+                "en": "Ludwigsburg Museum",
+                "tr": "Ludwigsburg Müzesi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkhäuser in der Innenstadt, um direkt ins Museum zu gelangen; so bleiben Sie komplett trocken. Ein idealer Startpunkt für einen verregneten Vormittag.",
                 "hu": "Használja a belvárosi parkolóházakat, hogy közvetlenül a múzeumba juthasson; így teljesen száraz maradhat. Ideális kiindulópont egy esős délelőtthöz a város szívében.",
                 "ro": "Folosiți parcările subterane din centru pentru a ajunge direct la muzeu; astfel veți rămâne complet uscat. Un punct de plecare ideal pentru o dimineață ploioasă.",
-                "en": "Use the downtown parking garages to get direct access to the museum; this way you'll stay completely dry. An ideal starting point for a rainy morning in the city center."
+                "en": "Use the downtown parking garages to get direct access to the museum; this way you'll stay completely dry. An ideal starting point for a rainy morning in the city center.",
+                "tr": "Müzeye doğrudan erişim için şehir merkezindeki otopark garajlarını kullanın; böylece tamamen kuru kalırsınız. Yağmurlu sabahlar için ideal başlangıç noktası."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Marktplatz",
                 "hu": "Piactér",
                 "ro": "Piața Centrală",
-                "en": "Market Square"
+                "en": "Market Square",
+                "tr": "Pazar Meydanı"
               },
               "tip_5lang": {
                 "de": "Suchen Sie einen Parkplatz nah an den Arkaden, um den Weg im Freien kurz zu halten; die Aussicht auf den Platz ist auch aus dem Auto heraus schön. Vorsicht beim Aussteigen auf nassem Stein.",
                 "hu": "Keressen parkolót az árkádok közelében, hogy lerövidítse a kinti utat; a tér látványa az autóból is élvezhető. Legyen óvatos kiszálláskor a vizes, csúszós macskaköveken.",
                 "ro": "Căutați un loc de parcare aproape de arcade pentru a scurta drumul prin ploaie; piața se vede frumos și din mașină. Atenție la coborâre pe piatra cubică udă.",
-                "en": "Look for a parking spot near the arcades to keep your time in the rain minimal; the square looks lovely even from the car. Be careful when stepping out onto wet stones."
+                "en": "Look for a parking spot near the arcades to keep your time in the rain minimal; the square looks lovely even from the car. Be careful when stepping out onto wet stones.",
+                "tr": "Islanma sürenizi en aza indirmek için kemerlerin yakınında bir park yeri arayın; meydan arabadan bile güzel görünür. Islak taşlara adım atarken dikkatli olun."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Residenzschloss Ludwigsburg",
                 "hu": "Ludwigsburgi kastély",
                 "ro": "Palatul Rezidențial Ludwigsburg",
-                "en": "Ludwigsburg Residential Palace"
+                "en": "Ludwigsburg Residential Palace",
+                "tr": "Ludwigsburg Saray Konutu"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz direkt am Schloss spart Ihnen lange Fußwege im Regen; nutzen Sie die Zeit drinnen für eine ausgiebige Tour. Das Schloss bietet perfekten Schutz vor schlechtem Wetter.",
                 "hu": "A közvetlenül a kastélynál lévő parkoló megkíméli a hosszú sétától az esőben; szánjon bőséges időt a belső túrára. A kastély tökéletes védelmet nyújt a rossz idő ellen.",
                 "ro": "Parcarea directă de la palat vă scutește de mersul pe jos prin ploaie; profitați de timpul petrecut în interior pentru un tur detaliat. Palatul este refugiul perfect pe vreme rea.",
-                "en": "The parking lot directly at the palace saves you from long walks in the rain; use the time indoors for a detailed tour. The palace offers perfect protection from bad weather."
+                "en": "The parking lot directly at the palace saves you from long walks in the rain; use the time indoors for a detailed tour. The palace offers perfect protection from bad weather.",
+                "tr": "Sarayın hemen yanındaki otopark sizi yağmurda uzun yürüyüşlerden kurtarır; içeriği detaylı bir tur için kullanın. Saray kötü havadan mükemmel koruma sağlar."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Schloss Favorite",
                 "hu": "Favorite kastély",
                 "ro": "Palatul Favorite",
-                "en": "Favorite Palace"
+                "en": "Favorite Palace",
+                "tr": "Favorite Sarayı"
               },
               "tip_5lang": {
                 "de": "Fahren Sie bis zum Parkplatz am Favoritepark; der Weg zum Schloss ist kurz und von Bäumen gesäumt, die etwas Schutz bieten. Die warme Atmosphäre im Inneren ist sehr einladend.",
                 "hu": "Hajtson a Favoritepark melletti parkolóig; a kastélyhoz vezető út rövid és a fák némi védelmet nyújtanak. A belső tér meleg és hívogató hangulata feledteti a kinti záport.",
                 "ro": "Conduceți până la parcarea de lângă Favoritepark; drumul spre castel este scurt, iar copacii oferă puțin adăpost. Atmosfera caldă din interior este foarte primitoare.",
-                "en": "Drive to the parking area by Favoritepark; the walk to the palace is short and the trees offer some shelter. The warm indoor atmosphere is very welcoming on a grey day."
+                "en": "Drive to the parking area by Favoritepark; the walk to the palace is short and the trees offer some shelter. The warm indoor atmosphere is very welcoming on a grey day.",
+                "tr": "Favoritepark yakınındaki otoparka araçla gidin; saraya yürüyüş kısa ve ağaçlar bir miktar koruma sağlar. Gri bir günde iç mekandaki sıcak atmosfer çok davetkardır."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Seeschloss Monrepos",
                 "hu": "Monrepos tóparti kastély",
                 "ro": "Palatul de pe lac Monrepos",
-                "en": "Monrepos Lakeside Palace"
+                "en": "Monrepos Lakeside Palace",
+                "tr": "Monrepos Göl Kenarı Sarayı"
               },
               "tip_5lang": {
                 "de": "Parken Sie mit Blick auf den See, falls der Regen zu stark für einen Spaziergang ist; die Szenerie wirkt im Regen sehr beruhigend. Das Restaurant bietet einen tollen Panoramablick.",
                 "hu": "Parkoljon le kilátással a tóra, ha túl erősen esne a sétához; a táj esőben is rendkívül megnyugtató. Az étterem panorámás ablakai mögül szárazon élvezheti a látványt.",
                 "ro": "Parcați cu vedere spre lac dacă ploaia este prea puternică pentru plimbare; peisajul este foarte relaxant pe ploaie. Restaurantul oferă o vedere panoramică excelentă.",
-                "en": "Park with a view of the lake if the rain is too heavy for a walk; the scenery is very calming in the rain. The restaurant's windows offer a great dry panoramic view."
+                "en": "Park with a view of the lake if the rain is too heavy for a walk; the scenery is very calming in the rain. The restaurant's windows offer a great dry panoramic view.",
+                "tr": "Yağmur yürüyüşe çok yoğunsa göle bakan bir yere park edin; yağmurda manzara çok sakinleştiricidir. Restoranın pencereleri kuru ve panoramik bir görünüm sunar."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Evangelische Stadtkirche",
                 "hu": "Evangélikus Városi Templom",
                 "ro": "Biserica Evanghelică a Orașului",
-                "en": "Evangelical City Church"
+                "en": "Evangelical City Church",
+                "tr": "Protestan Şehir Kilisesi"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Ort, um den Tag Revue passieren zu lassen, während es draußen regnet; Parkmöglichkeiten finden sich oft direkt in der Nähe. Achten Sie auf die Öffnungszeiten am späten Nachmittag.",
                 "hu": "Csendes hely a nap lezárásához, miközben kint esik; parkolóhelyek gyakran találhatók a közvetlen közelben. Ügyeljen a késő délutáni nyitvatartási időkre a látogatáskor.",
                 "ro": "Un loc liniștit pentru a încheia ziua în timp ce afară plouă; locurile de parcare se găsesc adesea în apropiere. Verificați programul de vizitare pentru după-amiaza târziu.",
-                "en": "A peaceful spot to reflect on the day while it rains outside; parking spaces are often available nearby. Check the late afternoon opening hours before you arrive."
+                "en": "A peaceful spot to reflect on the day while it rains outside; parking spaces are often available nearby. Check the late afternoon opening hours before you arrive.",
+                "tr": "Dışarı yağmur yağarken günü düşünmek için huzurlu bir nokta; yakınlarda genellikle park yeri bulunur. Gelmeden önce akşamüstü geç saat açılış saatlerini kontrol edin."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Der frostige Tag beginnt im gut beheizten Museum, bevor wir die kurze Fahrt zum winterlichen Marktplatz unternehmen. Im Residenzschloss und im Schloss Favorite genießen wir die prunkvolle Wärme, während draußen der Frost die Gärten überzieht. Nachmittags fahren wir zum Seeschloss Monrepos und beobachten den Sonnenuntergang gegen 17:00 Uhr über dem eisigen See. Den Tag beenden wir spirituell und warm in der Stadtkirche.",
             "hu": "A fagyos nap a jól fűtött múzeumban indul, majd rövid autózással jutunk a téli Piactérre. A kastélyok termeiben élvezzük a pompás meleget, miközben odakint a zúzmara belepi a kerteket. Délután a Monrepos-tóhoz hajtunk, hogy 17:00 körül végignézzük a naplementét a jeges víz felett. A napot a városi templom békéjében és melegében zárjuk.",
             "ro": "Ziua geroasă începe la muzeul bine încălzit, urmată de o scurtă deplasare spre piața de iarnă. În sălile palatelor ne bucurăm de căldura somptuoasă, în timp ce gerul acoperă grădinile de afară. După-amiaza conducem spre Monrepos pentru a vedea apusul în jur de ora 17:00 peste lacul înghețat. Încheiem ziua la biserică, într-o atmosferă spirituală și caldă.",
-            "en": "The frosty day starts in the well-heated museum, followed by a short drive to the winter Market Square. Inside the palaces, we enjoy the grand warmth while frost covers the gardens outside. In the afternoon, we drive to Monrepos Lake to watch the sunset around 17:00 over the icy water. We finish the day in the peaceful warmth of the city church."
+            "en": "The frosty day starts in the well-heated museum, followed by a short drive to the winter Market Square. Inside the palaces, we enjoy the grand warmth while frost covers the gardens outside. In the afternoon, we drive to Monrepos Lake to watch the sunset around 17:00 over the icy water. We finish the day in the peaceful warmth of the city church.",
+            "tr": "Buzlu gün iyi ısıtılan müzede başlar, ardından kış Pazar Meydanı'na kısa bir sürüş. Sarayların içinde büyük bir sıcaklığın tadını çıkarırken dışarıda bahçeler kıra bürünür. Öğleden sonra Monrepos Gölü'ne sürüp yaklaşık 17:00 civarında buzlu su üzerinde gün batımını izliyoruz. Günü şehir kilisesinin huzurlu sıcaklığında bitiriyoruz."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Ludwigsburg Museum",
                 "hu": "Ludwigsburg Múzeum",
                 "ro": "Muzeul Ludwigsburg",
-                "en": "Ludwigsburg Museum"
+                "en": "Ludwigsburg Museum",
+                "tr": "Ludwigsburg Müzesi"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie den Tag hier, um sich bei niedrigen Außentemperaturen aufzuwärmen; das Museum ist ein perfekter Winterrückzugsort. Nutzen Sie das Parkhaus, um Kaltstarts zu vermeiden.",
                 "hu": "Kezdje itt a napot, hogy a kinti hideg után jól átmelegedjen; a múzeum tökéletes téli menedék. Használja a közeli parkolóházat, hogy megkímélje autóját a fagyos várakozástól.",
                 "ro": "Începeți ziua aici pentru a vă încălzi după gerul de afară; muzeul este un refugiu perfect de iarnă. Folosiți parcarea acoperită pentru a evita înghețarea mașinii.",
-                "en": "Start your day here to warm up when outside temperatures are low; the museum is a perfect winter retreat. Use the parking garage to avoid a cold start for your car later."
+                "en": "Start your day here to warm up when outside temperatures are low; the museum is a perfect winter retreat. Use the parking garage to avoid a cold start for your car later.",
+                "tr": "Düşük dış sıcaklıklarda ısınmak için gününüze burada başlayın; müze mükemmel bir kış sığınağıdır. Aracınızın soğuk başlangıcını önlemek için otopark garajını kullanın."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Marktplatz",
                 "hu": "Piactér",
                 "ro": "Piața Centrală",
-                "en": "Market Square"
+                "en": "Market Square",
+                "tr": "Pazar Meydanı"
               },
               "tip_5lang": {
                 "de": "Parken Sie kurz, um die weihnachtliche oder winterliche Stimmung auf dem Platz zu genießen; die Barockkirchen sind im Winter oft beheizt. Vorsicht vor Glatteis auf dem großen Platz.",
                 "hu": "Parkoljon le rövid időre, hogy élvezze a tér téli hangulatát; a barokk templomok belül gyakran fűtöttek ilyenkor. Legyen óvatos a jegesedéssel a nagy, nyitott téren.",
                 "ro": "Parcați scurt pentru a vă bucura de atmosfera de iarnă din piață; bisericile baroce sunt adesea încălzite la interior. Atenție la gheața de pe pavajul pieței mari.",
-                "en": "Park briefly to enjoy the festive winter atmosphere in the square; the baroque churches are often heated inside. Watch out for black ice on the open square surfaces."
+                "en": "Park briefly to enjoy the festive winter atmosphere in the square; the baroque churches are often heated inside. Watch out for black ice on the open square surfaces.",
+                "tr": "Meydandaki neşeli kış atmosferinin tadını çıkarmak için kısa süre park edin; barok kiliseler genellikle içeri doğru ısıtılır. Açık meydan yüzeylerinde siyah buz için dikkatli olun."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Residenzschloss Ludwigsburg",
                 "hu": "Ludwigsburgi kastély",
                 "ro": "Palatul Rezidențial Ludwigsburg",
-                "en": "Ludwigsburg Residential Palace"
+                "en": "Ludwigsburg Residential Palace",
+                "tr": "Ludwigsburg Saray Konutu"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Wagen auf dem Schlossvorplatz stehen und genießen Sie die warme Pracht der Innenräume; die Wintersonne fällt flach durch die hohen Fenster. Ein Schal für die Gänge ist ratsam.",
                 "hu": "Hagyja az autót a kastély előtti parkolóban, és élvezze a belső terek melegét; a téli nap alacsonyan süt be a hatalmas ablakokon. A hosszú folyosókon érdemes sálat viselni.",
                 "ro": "Lăsați mașina în parcarea palatului și bucurați-vă de splendoarea caldă din interior; soarele de iarnă luminează frumos ferestrele înalte. Recomandăm un fular pentru holurile mari.",
-                "en": "Leave your car in the palace parking lot and enjoy the grand warmth inside; the winter sun shines beautifully through the tall windows. A scarf is recommended for the corridors."
+                "en": "Leave your car in the palace parking lot and enjoy the grand warmth inside; the winter sun shines beautifully through the tall windows. A scarf is recommended for the corridors.",
+                "tr": "Aracınızı saray otoparkında bırakın ve içerideki görkemli sıcaklığın tadını çıkarın; kış güneşi uzun pencerelerden güzel süzülür. Koridorlar için bir atkı önerilir."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Schloss Favorite",
                 "hu": "Favorite kastély",
                 "ro": "Palatul Favorite",
-                "en": "Favorite Palace"
+                "en": "Favorite Palace",
+                "tr": "Favorite Sarayı"
               },
               "tip_5lang": {
                 "de": "Die kurze Fahrt hierher erspart Ihnen den kalten Wind im Park; das Schlösschen wirkt im Winterlicht besonders edel. Drinnen finden Sie eine gemütliche und warme Zuflucht.",
                 "hu": "A rövid autózás megkíméli önt a parki hideg széltől; a kastély a téli fényekben különösen előkelő látvány. Odabent barátságos és meleg menedéket talál a látogatás alatt.",
                 "ro": "Scurta deplasare cu mașina vă ferește de vântul rece din parc; castelul arată extrem de elegant în lumina iernii. În interior veți găsi un refugiu primitor și cald.",
-                "en": "The short drive here saves you from the cold wind in the park; the lodge looks especially elegant in the winter light. Inside, you'll find a cozy and warm sanctuary."
+                "en": "The short drive here saves you from the cold wind in the park; the lodge looks especially elegant in the winter light. Inside, you'll find a cozy and warm sanctuary.",
+                "tr": "Buraya kısa sürüş sizi parkın soğuk rüzgarından korur; kır köşkü kış ışığında özellikle zarif görünür. İçeride sıcak ve konforlu bir sığınak bulursunuz."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Seeschloss Monrepos",
                 "hu": "Monrepos tóparti kastély",
                 "ro": "Palatul de pe lac Monrepos",
-                "en": "Monrepos Lakeside Palace"
+                "en": "Monrepos Lakeside Palace",
+                "tr": "Monrepos Göl Kenarı Sarayı"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den eventuell zugefrorenen See direkt aus Ihrem beheizten Auto; der Parkplatz bietet eine gute Sicht. Perfekt für den Sonnenuntergang gegen 17:00 Uhr.",
                 "hu": "Élvezze a kilátást az esetlegesen befagyott tóra közvetlenül a fűtött autóból; a parkolóból kiváló a rálátás. Tökéletes helyszín a 17:00 körüli téli naplemente megtekintéséhez.",
                 "ro": "Bucurați-vă de vederea spre lacul posibil înghețat direct din mașina încălzită; parcarea oferă o vizibilitate bună. Este locul ideal pentru apusul de la ora 17:00.",
-                "en": "Enjoy the view of the possibly frozen lake directly from your heated car; the parking lot offers a great vantage point. Perfect for watching the sunset around 17:00."
+                "en": "Enjoy the view of the possibly frozen lake directly from your heated car; the parking lot offers a great vantage point. Perfect for watching the sunset around 17:00.",
+                "tr": "Isıtmalı arabanızdan olası donmuş göl manzarasının keyfini çıkarın; otopark güzel bir bakış noktası sunar. Yaklaşık 17:00 civarında gün batımını izlemek için ideal."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Evangelische Stadtkirche",
                 "hu": "Evangélikus Városi Templom",
                 "ro": "Biserica Evanghelică a Orașului",
-                "en": "Evangelical City Church"
+                "en": "Evangelical City Church",
+                "tr": "Protestan Şehir Kilisesi"
               },
               "tip_5lang": {
                 "de": "Ein besinnlicher Ort, um sich vor der Heimfahrt noch einmal aufzuwärmen; achten Sie auf glatte Stufen am Eingang. Parkplätze sind in der kühlen Abendzeit meist gut verfügbar.",
                 "hu": "Meghitt hely az átmelegedéshez a hazaindulás előtt; ügyeljen a jeges lépcsőkre a bejáratnál. Parkolóhelyek a hűvös esti órákban általában könnyen találhatók a közelben.",
                 "ro": "Un loc liniștit pentru a vă încălzi înainte de drumul spre casă; atenție la treptele înghețate de la intrare. Locurile de parcare sunt de obicei disponibile seara în apropiere.",
-                "en": "A peaceful place to warm up one last time before heading home; watch out for icy steps at the entrance. Parking is usually easy to find nearby during the cold evening hours."
+                "en": "A peaceful place to warm up one last time before heading home; watch out for icy steps at the entrance. Parking is usually easy to find nearby during the cold evening hours.",
+                "tr": "Eve gitmeden önce son kez ısınmak için huzurlu bir yer; girişteki buzlu basamaklara dikkat edin. Soğuk akşam saatlerinde yakında genellikle park yeri bulmak kolaydır."
               }
             }
           ]

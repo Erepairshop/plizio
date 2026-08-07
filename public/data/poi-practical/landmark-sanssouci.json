@@ -3,55 +3,64 @@
     "de": "Maulbeerallee, 14469 Potsdam",
     "hu": "Maulbeerallee, 14469 Potsdam",
     "ro": "Maulbeerallee, 14469 Potsdam",
-    "en": "Maulbeerallee, 14469 Potsdam"
+    "en": "Maulbeerallee, 14469 Potsdam",
+    "tr": "Maulbeerallee, 14469 Potsdam"
   },
   "openingHours": {
     "de": "Di-Su 10:00-17:30 (Apr-Okt), 10:00-16:30 (Nov-Mär)",
     "hu": "K-V 10:00-17:30 (ápr-okt), 10:00-16:30 (nov-márc)",
     "ro": "Mar-Dum 10:00-17:30 (apr-oct), 10:00-16:30 (noi-mar)",
-    "en": "Tue-Sun 10:00-17:30 (Apr-Oct), 10:00-16:30 (Nov-Mar)"
+    "en": "Tue-Sun 10:00-17:30 (Apr-Oct), 10:00-16:30 (Nov-Mar)",
+    "tr": "Salı-Pazar 10:00-17:30 (Nis-Eki), 10:00-16:30 (Kas-Mar)"
   },
   "entranceFee": {
     "de": "€14.00 Erwachsene (Schloss), €6.00 (Parkführungen)",
     "hu": "14,00 € felnőtt (kastély), 6,00 € (parkvezetések)",
     "ro": "14 € adulți (castel), 6 € (tururi în parc)",
-    "en": "€14.00 adults (palace), €6.00 (park tours)"
+    "en": "€14.00 adults (palace), €6.00 (park tours)",
+    "tr": "€14,00 yetişkinler (saray), €6,00 (park turları)"
   },
   "website": "https://www.spsg.de",
   "publicTransport": {
     "de": "S-Bhf Potsdam Hbf, dann Tram 91/94",
     "hu": "S-Bhf Potsdam Hbf, majd 91/94-es villamos",
     "ro": "S-Bhf Potsdam Hbf, apoi tramvaiul 91/94",
-    "en": "S-Bhf Potsdam Hbf, then tram 91/94"
+    "en": "S-Bhf Potsdam Hbf, then tram 91/94",
+    "tr": "S-Bhf Potsdam Hbf, sonra tramvay 91/94"
   },
   "parking": {
     "de": "Parkplatz am Schloss Sanssouci",
     "hu": "Parkoló a Sanssouci-kastélynál",
     "ro": "Parcare la Castelul Sanssouci",
-    "en": "Parking at Sanssouci Palace"
+    "en": "Parking at Sanssouci Palace",
+    "tr": "Sanssouci Sarayı'nda otopark"
   },
   "accessibility": {
     "de": "Schloss teilweise, Park gut zugänglich",
     "hu": "A kastély részben, a park jól látogatható",
     "ro": "Castelul parțial, parcul ușor accesibil",
-    "en": "Palace partially, park well accessible"
+    "en": "Palace partially, park well accessible",
+    "tr": "Saray kısmen, park iyi erişilebilir"
   },
   "photoRules": {
     "de": "Nur mit Fotogenehmigung",
     "hu": "Csak fényképezési engedéllyel",
     "ro": "Doar cu permis foto",
-    "en": "Only with photography permit"
+    "en": "Only with photography permit",
+    "tr": "Sadece fotoğrafçılık izni ile"
   },
   "bestTimeToVisit": {
     "de": "Frühling (Blütezeit)",
     "hu": "Tavasz (virágzás ideje)",
     "ro": "Primăvară (perioada înfloririi)",
-    "en": "Spring (blossom season)"
+    "en": "Spring (blossom season)",
+    "tr": "İlkbahar (çiçeklenme mevsimi)"
   },
   "audioGuide": {
     "de": "Deutsch, Englisch, Französisch, Spanisch, Italienisch, Japanisch, Russisch",
     "hu": "német, angol, francia, spanyol, olasz, japán, orosz",
     "ro": "germană, engleză, franceză, spaniolă, italiană, japoneză, rusă",
-    "en": "German, English, French, Spanish, Italian, Japanese, Russian"
+    "en": "German, English, French, Spanish, Italian, Japanese, Russian",
+    "tr": "Almanca, İngilizce, Fransızca, İspanyolca, İtalyanca, Japonca, Rusça"
   }
 }

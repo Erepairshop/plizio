@@ -21,7 +21,8 @@
             "de": "Museum Villa \"Irmgard\"",
             "hu": "Villa \"Irmgard\" Múzeum",
             "ro": "Muzeul Villa \"Irmgard\"",
-            "en": "Museum Villa \"Irmgard\""
+            "en": "Museum Villa \"Irmgard\"",
+            "tr": "Müze Villa \"Irmgard\""
           },
           "coords": [
             14.156204,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie die historischen Räume, in denen Maxim Gorki einst weilte, und werfen Sie einen Blick auf den saisonalen Veranstaltungsplan der literarischen Villa.",
             "hu": "Fedezze fel azokat a történelmi szobákat, ahol egykor Makszim Gorkij szállt meg, és ne felejtse el előzetesen megnézni a villa szezonális eseménynaptárát.",
             "ro": "Explorați camerele istorice în care a stat cândva Maxim Gorki, oferind o incursiune în istoria literară; verificați programul evenimentelor de sezon înainte de vizită.",
-            "en": "Explore the historic rooms where Maxim Gorky once stayed, offering a glimpse into literary history; be sure to check the seasonal event schedule before visiting."
+            "en": "Explore the historic rooms where Maxim Gorky once stayed, offering a glimpse into literary history; be sure to check the seasonal event schedule before visiting.",
+            "tr": "Maxim Gorki’nin bir zamanlar kaldığı tarihi odaları keşfedin; ziyaret öncesi mevsimsel etkinlik takvimini kontrol etmeyi unutmayın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kunstpavillion",
             "hu": "Művészeti Pavilon",
             "ro": "Pavilionul de Artă",
-            "en": "Art Pavilion"
+            "en": "Art Pavilion",
+            "tr": "Sanat Pavyonu"
           },
           "coords": [
             14.165842,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie zeitgenössische Kunstausstellungen in diesem markanten modernen Pavillon direkt am Strand und besuchen Sie ihn am Morgen für das beste natürliche Licht.",
             "hu": "Csodálja meg a kortárs művészeti kiállításokat ebben a lenyűgöző modern pavilonban közvetlenül a tengerparton, és látogasson el reggel a legjobb természetes fényért.",
             "ro": "Admirați expozițiile de artă contemporană găzduite în acest pavilion modern chiar pe plajă și vizitați-l dimineața pentru cea mai bună lumină naturală.",
-            "en": "Admire contemporary art exhibitions housed in this striking modern pavilion right by the beach, and visit during morning hours for the best natural light."
+            "en": "Admire contemporary art exhibitions housed in this striking modern pavilion right by the beach, and visit during morning hours for the best natural light.",
+            "tr": "Plaj kenarındaki çarpıcı modern pavyonda çağdaş sanat sergilerini hayranlıkla izleyin; en iyi doğal ışık için sabah saatlerinde ziyaret edin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Konzertmuschel",
             "hu": "Koncertkagyló",
             "ro": "Scoica de Concerte",
-            "en": "Concert Shell"
+            "en": "Concert Shell",
+            "tr": "Konser Sahnesi"
           },
           "coords": [
             14.169021,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie Open-Air-Aufführungen an diesem klassischen Musikpavillon, dem kulturellen Herzen der Promenade, also sichern Sie sich frühzeitig einen Platz.",
             "hu": "Élvezze a szabadtéri előadásokat ezen a klasszikus zenepavilonon, amely a sétány kulturális szíve, ezért a nyári koncertszezonban érkezzen korán a jó helyekért.",
             "ro": "Bucurați-vă de spectacole în aer liber la acest pavilion clasic, inima culturală a promenadei, așa că asigurați-vă un loc devreme în timpul sezonului de vară.",
-            "en": "Enjoy open-air performances at this classic bandstand that forms the cultural heart of the promenade, so grab a seat early during the summer concert season."
+            "en": "Enjoy open-air performances at this classic bandstand that forms the cultural heart of the promenade, so grab a seat early during the summer concert season.",
+            "tr": "Promenadın kültürel kalbini oluşturan bu klasik açık hava sahnesinde gösterilerin tadını çıkarın; yaz konser sezonunda erken yer kapın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kletterparcours",
             "hu": "Kalandpark",
             "ro": "Traseu de Cățărare",
-            "en": "Climbing Park"
+            "en": "Climbing Park",
+            "tr": "Tırmanış Parkı"
           },
           "coords": [
             14.160571,
@@ -105,7 +112,8 @@
             "de": "Testen Sie Ihre Geschicklichkeit in diesem Waldkletterpark mit Routen für alle Niveaus; tragen Sie festes, geschlossenes Schuhwerk für Sicherheit und Komfort.",
             "hu": "Tegye próbára ügyességét ebben az erdei kalandparkban, amely minden szintnek kihívást jelent; a biztonság érdekében feltétlenül zárt cipőt viseljen.",
             "ro": "Testați-vă agilitatea în acest parc de aventură cu trasee pentru toate nivelurile; purtați încălțăminte robustă, închisă, pentru siguranță și confort.",
-            "en": "Test your agility at this woodland climbing park which offers challenging routes for all levels; wear sturdy, closed-toe shoes for safety and comfort."
+            "en": "Test your agility at this woodland climbing park which offers challenging routes for all levels; wear sturdy, closed-toe shoes for safety and comfort.",
+            "tr": "Her seviyeye uygun zorlu parkurlar sunan bu orman tırmanış parkında çevikliğinizi test edin; güvenlik ve rahatlık için sağlam, kapalı burunlu ayakkabı giyin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Motorisches Sitzen",
             "hu": "Motorikus Ülőalkalmatosságok",
             "ro": "Scaune Motrice",
-            "en": "Motoric Seating"
+            "en": "Motoric Seating",
+            "tr": "Motorik Oturma"
           },
           "coords": [
             14.162162,
@@ -128,7 +137,8 @@
             "de": "Setzen Sie sich mit dieser interaktiven Kunstinstallation auseinander, die spielerische Bewegung fördert, und nehmen Sie sich einen Moment Zeit zum Ausruhen.",
             "hu": "Lépjen kapcsolatba ezzel az egyedi, játékos mozgást ösztönző interaktív művészeti installációval; szánjon egy percet a pihenésre az ergonómikus formákon.",
             "ro": "Interacționați cu această instalație de artă inedită menită să promoveze mișcarea; luați-vă un moment pentru a vă odihni și explora structurile ergonomice.",
-            "en": "Engage with this unique interactive art installation designed to promote playful movement; take a moment to rest and interact with the ergonomic structures."
+            "en": "Engage with this unique interactive art installation designed to promote playful movement; take a moment to rest and interact with the ergonomic structures.",
+            "tr": "Oyunlu hareketi teşvik etmek için tasarlanmış bu benzersiz etkileşimli sanat enstalasyonuyla etkileşime geçin; dinlenmek ve ergonomik yapılarla etkileşimde bulunmak için bir an ayırın."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Baumwipfelpfad Usedom",
             "hu": "Usedom Lombkoronasétány",
             "ro": "Poteca deasupra Copacilor Usedom",
-            "en": "Usedom Treetop Walk"
+            "en": "Usedom Treetop Walk",
+            "tr": "Usedom Ağaç Tepesi Yolu"
           },
           "coords": [
             14.168293,
@@ -151,7 +162,8 @@
             "de": "Spazieren Sie auf diesem erhöhten Pfad über den Baumwipfeln und genießen Sie spektakuläre Ausblicke; besuchen Sie ihn gegen Sonnenuntergang für tolle Fotos.",
             "hu": "Sétáljon a fák lombkoronája felett ezen a lenyűgöző kilátást nyújtó tanösvényen; naplemente környékén látogasson el ide, ha tökéletes fotókat szeretne készíteni.",
             "ro": "Plimbați-vă deasupra copacilor pe această potecă suspendată cu vederi spectaculoase asupra insulei; vizitați-o la apus pentru fotografii de coastă uluitoare.",
-            "en": "Walk above the treetops on this elevated path offering spectacular views of the island; visit near sunset for truly breathtaking coastal photography opportunities."
+            "en": "Walk above the treetops on this elevated path offering spectacular views of the island; visit near sunset for truly breathtaking coastal photography opportunities.",
+            "tr": "Adanın muhteşem manzaralarını sunan bu yükseltilmiş yolda ağaç tepelerinin üzerinde yürüyün; gerçekten nefes kesen kıyı fotoğrafları için gün batımına yakın ziyaret edin."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Vormittag widmet sich der Literatur und Kunst: Entdecken Sie die inspirierende Atmosphäre in der Villa Irmgard und die Strandausstellungen im Kunstpavillion. Gegen Mittag erleben Sie das klassische Kurort-Flair an der Konzertmuschel. Am Nachmittag wird es aktiv beim Kletterparcours und der interaktiven Kunst. Den perfekten Abschluss bildet der weite Blick vom Baumwipfelpfad in den frühen Abendstunden.",
         "hu": "A délelőtt az irodalomé és a művészeté: fedezze fel a Villa Irmgard inspiráló légkörét és a Művészeti Pavilon tengerparti kiállításait. Délben élvezze a klasszikus üdülőhelyi hangulatot a koncertkagylónál. A délután az aktív kikapcsolódásé a kalandparkban és az interaktív művészeti formákon. A tökéletes befejezést a lombkoronasétányról nyíló tágas kilátás nyújtja a kora esti órákban.",
         "ro": "Dimineața este dedicată literaturii și artei: descoperiți atmosfera inspirată a Vilei Irmgard și expozițiile Pavilionului de Artă. La amiază, simțiți vibrația stațiunii la scoica de concerte. După-amiaza devine activă în parcul de aventură și la instalațiile de artă interactivă. Ziua se încheie perfect cu o vedere panoramică spectaculoasă de pe poteca suspendată.",
-        "en": "The morning is dedicated to literature and art: discover the inspiring atmosphere at Villa Irmgard and the seaside exhibitions in the Art Pavilion. Midday brings you to the classic resort vibe at the concert bandstand. The afternoon gets active with challenges at the climbing park and interactive seating. The perfect finale is the sweeping coastal view from the treetop walk in the early evening."
+        "en": "The morning is dedicated to literature and art: discover the inspiring atmosphere at Villa Irmgard and the seaside exhibitions in the Art Pavilion. Midday brings you to the classic resort vibe at the concert bandstand. The afternoon gets active with challenges at the climbing park and interactive seating. The perfect finale is the sweeping coastal view from the treetop walk in the early evening.",
+        "tr": "Sabah edebiyat ve sanata adanmıştır: Villa Irmgard’daki ilham verici atmosferi ve Sanat Pavyonu’ndaki deniz kenarı sergilerini keşfedin. Öğle vakti sizi konser sahnesinin klasik tatil ruhu karşılar. Öğleden sonra tırmanış parkında ve etkileşimli oturma alanlarında aktif olun. Mükemmel final, akşamüstü erken saatlerde ağaç tepesi yolundan geniş kıyı manzarasıdır."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Vormittag gehört den kulturellen Schätzen in der Villa Irmgard, wo Sie das Prasseln des Regens an den historischen Fenstern genießen können. Mittags führt ein kurzer Spaziergang unter dem Regenschirm zum Kunstpavillon. Am Nachmittag trotzen wir dem Wetter im Wald; die Bäume bieten etwas Schutz, doch wasserfeste Kleidung ist am Baumwipfelpfad unverzichtbar. Der Abend klingt bei gemütlicher Atmosphäre in Meeresnähe aus.",
             "hu": "A délelőttöt a Villa Irmgard kulturális kincsei között töltjük, ahol a történelmi ablakokon kopogó eső adja az aláfestést. Délben egy rövid, esernyős séta vezet a Művészeti Pavilonhoz. Délután dacolunk az elemekkel az erdőben; a fák némi védelmet nyújtanak, de a lombkoronasétányon a vízhatlan öltözet elengedhetetlen. Az estét a tengerpart közeli vendéglátóhelyek egyikében, fedett helyen zárjuk.",
             "ro": "Dimineața este dedicată comorilor culturale din Vila Irmgard, unde vă puteți bucura de sunetul ploii pe ferestrele istorice. La prânz, o scurtă plimbare sub umbrelă vă duce la Pavilionul de Artă. După-amiaza înfruntăm vremea în pădure; copacii oferă protecție, dar hainele impermeabile sunt indispensabile pe traseul deasupra copacilor. Seara se încheie într-o atmosferă primitoare, aproape de mare.",
-            "en": "The morning is dedicated to cultural treasures at Villa Irmgard, where you can enjoy the rain tapping on historical windows. At noon, a short umbrella walk leads to the Art Pavilion. In the afternoon, we brave the elements in the forest; the trees provide some cover, but waterproof gear is essential for the treetop walk. The evening concludes in a cozy, sheltered spot near the sea."
+            "en": "The morning is dedicated to cultural treasures at Villa Irmgard, where you can enjoy the rain tapping on historical windows. At noon, a short umbrella walk leads to the Art Pavilion. In the afternoon, we brave the elements in the forest; the trees provide some cover, but waterproof gear is essential for the treetop walk. The evening concludes in a cozy, sheltered spot near the sea.",
+            "tr": "Sabah yağmur sesiyle tarihi pencerelerde keyif alacağınız Villa Irmgard’daki kültürel hazinelere ayrılmıştır. Öğle vakti kısa bir şemsiye yürüyüşü sizi Sanat Pavyonu’na götürür. Öğleden sonra ormanda doğa koşullarına meydan okuyoruz; ağaçlar bir miktar koruma sağlar ama ağaç tepesi yürüyüşü için su geçirmez ekipman şarttır. Akşam deniz kenarında korunaklı, sıcak bir mekânda sona erer."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Museum Villa \"Irmgard\"",
                 "hu": "Villa \"Irmgard\" Múzeum",
                 "ro": "Muzeul Villa \"Irmgard\"",
-                "en": "Museum Villa \"Irmgard\""
+                "en": "Museum Villa \"Irmgard\"",
+                "tr": "Müze Villa \"Irmgard\""
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die authentische Einrichtung und Gedenkstätte von Maxim Gorki; der Innenraum ist der perfekte Zufluchtsort vor dem Küstenregen.",
                 "hu": "Csodálja meg Maxim Gorkij hiteles emlékszobáját és bútorait; a belső terek tökéletes menedéket nyújtanak a tengerparti eső elől.",
                 "ro": "Admirați mobilierul autentic și memorialul lui Maxim Gorki; interiorul este refugiul perfect împotriva ploii de pe coastă.",
-                "en": "Admire the authentic furnishings and Maxim Gorky memorial; the interior is the perfect sanctuary from the coastal rain."
+                "en": "Admire the authentic furnishings and Maxim Gorky memorial; the interior is the perfect sanctuary from the coastal rain.",
+                "tr": "Otantik döşemeleri ve Maxim Gorki anısına hayran kalın; iç mekan kıyı yağmurundan kaçmak için ideal bir sığınaktır."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Kunstpavillion",
                 "hu": "Művészeti Pavilon",
                 "ro": "Pavilionul de Artă",
-                "en": "Art Pavilion"
+                "en": "Art Pavilion",
+                "tr": "Sanat Pavyonu"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie wechselnde Ausstellungen zeitgenössischer Kunst in diesem runden Bau; nutzen Sie den überdachten Eingangsbereich zum Abschütteln der Nässe.",
                 "hu": "Fedezze fel a kortárs művészeti kiállításokat ebben a kerek épületben; használja a fedett bejáratot a nedvesség lerázására.",
                 "ro": "Explorați expozițiile de artă contemporană în această clădire rotundă; folosiți zona de intrare acoperită pentru a vă scutura de umezeală.",
-                "en": "Explore changing contemporary art exhibitions in this circular building; use the covered entrance area to shake off the wetness."
+                "en": "Explore changing contemporary art exhibitions in this circular building; use the covered entrance area to shake off the wetness.",
+                "tr": "Bu yuvarlak binada değişen çağdaş sanat sergilerini keşfedin; ıslaklığı silkelemek için kapalı giriş alanını kullanın."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Konzertmuschel",
                 "hu": "Koncertkagyló",
                 "ro": "Scoica de Concerte",
-                "en": "Concert Shell"
+                "en": "Concert Shell",
+                "tr": "Konser Sahnesi"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Architektur dieser Bühne direkt an der Promenade; bei Regen bietet die Rückseite der Muschel kurzzeitig Windschutz.",
                 "hu": "Tekintse meg a színpad építészetét közvetlenül a sétányon; esőben a kagyló hátoldala rövid ideig szélvédelmet nyújthat.",
                 "ro": "Observați arhitectura acestei scene direct pe promenadă; în caz de ploaie, spatele scoicii oferă protecție temporară împotriva vântului.",
-                "en": "View the architecture of this stage right on the promenade; in rain, the back of the shell provides brief wind protection."
+                "en": "View the architecture of this stage right on the promenade; in rain, the back of the shell provides brief wind protection.",
+                "tr": "Promenad üzerindeki bu sahnenin mimarisini görün; yağmurda kabuğun arkası kısa süreli rüzgar koruması sağlar."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Kletterparcours",
                 "hu": "Kalandpark",
                 "ro": "Traseu de Cățărare",
-                "en": "Climbing Park"
+                "en": "Climbing Park",
+                "tr": "Tırmanış Parkı"
               },
               "tip_5lang": {
                 "de": "Die Anlage unter Buchen bietet natürlichen Schutz vor leichtem Niesel; prüfen Sie vorab die Öffnung, da nasse Seile Rutschgefahr bedeuten.",
                 "hu": "A bükkfák alatti pálya természetes védelmet nyújt szemerkélő esőben; ellenőrizze a nyitvatartást, mert a nedves kötelek csúszósak lehetnek.",
                 "ro": "Traseul de sub fagi oferă protecție naturală împotriva burniței; verificați programul, deoarece corzile ude pot fi alunecoase.",
-                "en": "The course under beech trees offers natural protection from light drizzle; check if open, as wet ropes can be slippery."
+                "en": "The course under beech trees offers natural protection from light drizzle; check if open, as wet ropes can be slippery.",
+                "tr": "Kayın ağaçları altındaki parkur hafif çiskeleme için doğal koruma sunar; açık olup olmadığını kontrol edin çünkü ıslak halatlar kaygan olabilir."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Motorisches Sitzen",
                 "hu": "Motorikus Ülőalkalmatosságok",
                 "ro": "Scaune Motrice",
-                "en": "Motoric Seating"
+                "en": "Motoric Seating",
+                "tr": "Motorik Oturma"
               },
               "tip_5lang": {
                 "de": "Testen Sie diese ergonomischen Skulpturen kurz für ein Foto; wischen Sie die Sitzflächen vor der Benutzung mit einem Tuch trocken.",
                 "hu": "Tesztelje ezeket az ergonomikus szobrokat egy gyors fotó erejéig; használat előtt törölje szárazra az ülőfelületeket egy kendővel.",
                 "ro": "Testați aceste sculpturi ergonomice pentru o fotografie rapidă; ștergeți suprafețele de șezut cu o cârpă înainte de utilizare.",
-                "en": "Test these ergonomic sculptures briefly for a photo; wipe the seats dry with a cloth before using them."
+                "en": "Test these ergonomic sculptures briefly for a photo; wipe the seats dry with a cloth before using them.",
+                "tr": "Fotoğraf için bu ergonomik heykelleri kısa süre test edin; kullanmadan önce oturakları bir bezle kurulayın."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Baumwipfelpfad Usedom",
                 "hu": "Usedom Lombkoronasétány",
                 "ro": "Poteca deasupra Copacilor Usedom",
-                "en": "Usedom Treetop Walk"
+                "en": "Usedom Treetop Walk",
+                "tr": "Usedom Ağaç Tepesi Yolu"
               },
               "tip_5lang": {
                 "de": "Erleben Sie den Wald aus der Vogelperspektive im Regen; die Aussichtsplattform ist exponiert, daher ist eine windfeste Regenjacke Pflicht.",
                 "hu": "Élje át az erdőt madártávlatból esőben is; a kilátóterasz nyitott, ezért a szélálló esőkabát viselése kötelező.",
                 "ro": "Experimentați pădurea din perspectiva păsărilor pe ploaie; platforma de observare este expusă, deci o geacă de ploaie rezistentă la vânt este obligatorie.",
-                "en": "Experience the forest from a bird's eye view in the rain; the observation deck is exposed, so a windproof raincoat is mandatory."
+                "en": "Experience the forest from a bird's eye view in the rain; the observation deck is exposed, so a windproof raincoat is mandatory.",
+                "tr": "Yağmurda ormanı kuşbakışı deneyimleyin; gözlem güvertesi açıkta olduğundan rüzgar geçirmez bir yağmurluk zorunludur."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Der Wintermorgen beginnt frisch in der Villa Irmgard, wo die Heizwärme den historischen Charme verstärkt. Mittags spazieren wir kurz durch die klare Ostseeluft zum Kunstpavillon. Am frühen Nachmittag besuchen wir den Baumwipfelpfad, um das sanfte Licht vor dem Sonnenuntergang gegen 16:30 Uhr einzufangen. Der Abend kommt früh und lädt zu einem heißen Tee in einem der beleuchteten Strandpavillons ein.",
             "hu": "A téli reggel frissen indul a Villa Irmgardban, ahol a fűtés melege fokozza a történelmi bájt. Délben a tiszta tengeri levegőn átsétálunk a Művészeti Pavilonhoz. Kora délután látogatunk el a lombkoronasétányra, hogy elcsípjük a lágy fényeket a 16:30 körüli naplemente előtt. Az este korán érkezik, és egy forró teára csábít a kivilágított tengerparti pavilonok egyikébe.",
             "ro": "Dimineața de iarnă începe proaspăt la Vila Irmgard, unde căldura sporește farmecul istoric. La prânz, ne plimbăm prin aerul curat al Balticii spre Pavilionul de Artă. După-amiaza devreme vizităm poteca deasupra copacilor pentru a surprinde lumina blândă înainte de apusul de la 16:30. Seara vine devreme, invitându-vă la un ceai fierbinte într-unul dintre pavilioanele luminate de pe plajă.",
-            "en": "The winter morning starts fresh at Villa Irmgard, where indoor warmth enhances the historical charm. At noon, we walk through the crisp Baltic air to the Art Pavilion. In the early afternoon, visit the treetop walk to catch the soft light before the sunset around 4:30 PM. The evening arrives early, inviting you for a hot tea in one of the illuminated beach pavilions."
+            "en": "The winter morning starts fresh at Villa Irmgard, where indoor warmth enhances the historical charm. At noon, we walk through the crisp Baltic air to the Art Pavilion. In the early afternoon, visit the treetop walk to catch the soft light before the sunset around 4:30 PM. The evening arrives early, inviting you for a hot tea in one of the illuminated beach pavilions.",
+            "tr": "Kış sabahı Villa Irmgard’da taze başlar; iç mekân sıcaklığı tarihi çekiciliği artırır. Öğle vakti temiz Baltık havasında Sanat Pavyonu’na yürüyoruz. Erken öğleden sonra gün batımı öncesi yumuşak ışığı yakalamak için ağaç tepesi yolunu ziyaret edin; gün batımı yaklaşık 16:30 civarıdır. Akşam erken gelir ve aydınlatılmış plaj pavyonlarında sıcak bir çaya davet eder."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Museum Villa \"Irmgard\"",
                 "hu": "Villa \"Irmgard\" Múzeum",
                 "ro": "Muzeul Villa \"Irmgard\"",
-                "en": "Museum Villa \"Irmgard\""
+                "en": "Museum Villa \"Irmgard\"",
+                "tr": "Müze Villa \"Irmgard\""
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe der Nebensaison in den warmen Ausstellungsräumen; dicke Socken sind in historischen Gebäuden immer von Vorteil.",
                 "hu": "Élvezze a főszezonon kívüli nyugalmat a meleg kiállítótermekben; a történelmi épületekben a vastag zokni mindig előnyös.",
                 "ro": "Bucurați-vă de liniștea extrasezonului în sălile calde de expoziție; șosetele groase sunt întotdeauna un avantaj în clădirile istorice.",
-                "en": "Enjoy the off-season tranquility in the warm exhibition rooms; thick socks are always an advantage in historical buildings."
+                "en": "Enjoy the off-season tranquility in the warm exhibition rooms; thick socks are always an advantage in historical buildings.",
+                "tr": "Sıcak sergi odalarında sezon dışı dinginliğin tadını çıkarın; tarihi binalarda kalın çoraplar her zaman avantaj sağlar."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Kunstpavillion",
                 "hu": "Művészeti Pavilon",
                 "ro": "Pavilionul de Artă",
-                "en": "Art Pavilion"
+                "en": "Art Pavilion",
+                "tr": "Sanat Pavyonu"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Kunstwerke in der beheizten Rotunde; das Winterlicht durch die Glasfront verleiht der Kunst eine besondere Note.",
                 "hu": "Tekintse meg a műalkotásokat a fűtött rotundában; az üvegfalon átszűrődő téli fény különleges hangulatot ad a művészetnek.",
                 "ro": "Admirați operele de artă în rotonda încălzită; lumina de iarnă prin frontul de sticlă oferă artei o notă deosebită.",
-                "en": "View the artworks in the heated rotunda; the winter light through the glass front gives the art a special touch."
+                "en": "View the artworks in the heated rotunda; the winter light through the glass front gives the art a special touch.",
+                "tr": "Isıtmalı rotundada eserleri görün; cam önden gelen kış ışığı sanata ayrı bir hava verir."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Konzertmuschel",
                 "hu": "Koncertkagyló",
                 "ro": "Scoica de Concerte",
-                "en": "Concert Shell"
+                "en": "Concert Shell",
+                "tr": "Konser Sahnesi"
               },
               "tip_5lang": {
                 "de": "Die weiße Muschel wirkt im winterlichen Licht besonders skulptural; nutzen Sie diesen Punkt für einen schnellen, windigen Fotostopp.",
                 "hu": "A fehér kagyló a téli fényben különösen szoborszerűen hat; használja ezt a pontot egy gyors, szeles fotómegállóra.",
                 "ro": "Scoica albă pare deosebit de sculpturală în lumina iernii; folosiți acest punct pentru o oprire foto rapidă și vântoasă.",
-                "en": "The white shell looks particularly sculptural in winter light; use this spot for a quick, windy photo stop."
+                "en": "The white shell looks particularly sculptural in winter light; use this spot for a quick, windy photo stop.",
+                "tr": "Beyaz kabuk kış ışığında özellikle heykelsi görünür; rüzgârlı kısa bir fotoğraf molası için bu noktayı kullanın."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Kletterparcours",
                 "hu": "Kalandpark",
                 "ro": "Traseu de Cățărare",
-                "en": "Climbing Park"
+                "en": "Climbing Park",
+                "tr": "Tırmanış Parkı"
               },
               "tip_5lang": {
                 "de": "Im Winter oft geschlossen, aber der angrenzende Waldweg bietet herrliche Frostlandschaften; tragen Sie festes Schuhwerk für gefrorene Pfade.",
                 "hu": "Télen gyakran zárva tart, de a szomszédos erdei út csodás zúzmarás tájat kínál; viseljen stabil cipőt a fagyott ösvényekhez.",
                 "ro": "Adesea închis iarna, dar poteca forestieră adiacentă oferă peisaje înghețate superbe; purtați încălțăminte stabilă pentru poteci înghețate.",
-                "en": "Often closed in winter, but the adjacent forest path offers beautiful frost landscapes; wear sturdy shoes for frozen paths."
+                "en": "Often closed in winter, but the adjacent forest path offers beautiful frost landscapes; wear sturdy shoes for frozen paths.",
+                "tr": "Kışın genellikle kapalıdır, ama bitişikteki orman yolu güzel kırağı manzaraları sunar; donmuş patikalar için sağlam ayakkabı giyin."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Motorisches Sitzen",
                 "hu": "Motorikus Ülőalkalmatosságok",
                 "ro": "Scaune Motrice",
-                "en": "Motoric Seating"
+                "en": "Motoric Seating",
+                "tr": "Motorik Oturma"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Balance-Test an der frischen Luft aktiviert den Kreislauf; vermeiden Sie langes Sitzen auf dem kalten Metall.",
                 "hu": "Egy rövid egyensúlyteszt a friss levegőn felpezsdíti a keringést; kerülje a hosszas ücsörgést a hideg fémen.",
                 "ro": "Un scurt test de echilibru în aer liber activează circulația; evitați șederea prelungită pe metalul rece.",
-                "en": "A short balance test in the fresh air activates circulation; avoid sitting for long on the cold metal."
+                "en": "A short balance test in the fresh air activates circulation; avoid sitting for long on the cold metal.",
+                "tr": "Temiz havada kısa bir denge testi dolaşımı canlandırır; soğuk metalde uzun süre oturmaktan kaçının."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Baumwipfelpfad Usedom",
                 "hu": "Usedom Lombkoronasétány",
                 "ro": "Poteca deasupra Copacilor Usedom",
-                "en": "Usedom Treetop Walk"
+                "en": "Usedom Treetop Walk",
+                "tr": "Usedom Ağaç Tepesi Yolu"
               },
               "tip_5lang": {
                 "de": "Der Blick über die kahlen Baumwipfel bis zur Ostsee ist im Winter besonders weit; Handschuhe sind wegen des kalten Geländers wichtig.",
                 "hu": "A kopár lombkoronák feletti kilátás a tengerig télen különösen tiszta; a hideg korlátok miatt a kesztyű használata fontos.",
                 "ro": "Vederea peste vârfurile golașe ale copacilor până la mare este deosebit de clară iarna; mănușile sunt importante din cauza balustradelor reci.",
-                "en": "The view over the bare treetops to the Baltic Sea is particularly clear in winter; gloves are important due to the cold railings."
+                "en": "The view over the bare treetops to the Baltic Sea is particularly clear in winter; gloves are important due to the cold railings.",
+                "tr": "Yapraksız ağaçların üzerinden Baltık Denizi manzarası kışın özellikle nettir; soğuk korkuluklar için eldivenler önemlidir."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Tropenzoo Bansin",
             "hu": "Bansin Trópusi Állatkert",
             "ro": "Zoo Tropical Bansin",
-            "en": "Bansin Tropical Zoo"
+            "en": "Bansin Tropical Zoo",
+            "tr": "Bansin Tropikal Hayvanat Bahçesi"
           },
           "coords": [
             14.138599,
@@ -380,7 +420,8 @@
             "de": "Entdecken Sie exotische Tiere in diesem gemütlichen Tropenzoo, der Besucher jeden Alters begeistert, und kaufen Sie in der Hochsaison Ihre Tickets online.",
             "hu": "Fedezze fel az egzotikus vadvilágot ebben a hangulatos trópusi állatkertben; a forgalmas nyári hónapokban érdemes előre, online megvásárolni a jegyeket.",
             "ro": "Descoperiți fauna exotică în această mică grădină zoologică tropicală; cumpărați biletele online în avans în timpul lunilor aglomerate de vară.",
-            "en": "Discover exotic wildlife in this intimate tropical zoo that delights visitors of all ages; buy your tickets online in advance during the busy summer months."
+            "en": "Discover exotic wildlife in this intimate tropical zoo that delights visitors of all ages; buy your tickets online in advance during the busy summer months.",
+            "tr": "Her yaşa hitap eden bu samimi tropikal hayvanat bahçesinde egzotik vahşi yaşamı keşfedin; yoğun yaz aylarında biletlerinizi önceden çevrimiçi alın."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Evangelische Kirche Bansin",
             "hu": "Bansin Evangélikus Templom",
             "ro": "Biserica Evanghelică Bansin",
-            "en": "Bansin Evangelical Church"
+            "en": "Bansin Evangelical Church",
+            "tr": "Bansin Evanjelik Kilisesi"
           },
           "coords": [
             14.136886,
@@ -403,7 +445,8 @@
             "de": "Bewundern Sie die schlichte Eleganz dieser Küstenkirche zur stillen Einkehr und informieren Sie sich am Aushang über abendliche Chorauftritte.",
             "hu": "Csodálja meg e tengerparti templom egyszerű eleganciáját, amely csendes elmélkedésre csábít; ellenőrizze a hirdetőtáblán az esti kórusfellépések időpontjait.",
             "ro": "Admirați eleganța simplă a acestei biserici de coastă; verificați panoul informativ pentru programul spectacolelor corale de seară.",
-            "en": "Admire the simple elegance of this coastal church which offers a moment of peaceful reflection; check the notice board for evening choir performance schedules."
+            "en": "Admire the simple elegance of this coastal church which offers a moment of peaceful reflection; check the notice board for evening choir performance schedules.",
+            "tr": "Bu kıyı kilisesinin sade zarafetine hayran kalın; akşam koro performansları için ilan panosunu kontrol edin."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Hans-Werner-Richter-Haus",
             "hu": "Hans-Werner-Richter Ház",
             "ro": "Casa Hans-Werner-Richter",
-            "en": "Hans-Werner-Richter House"
+            "en": "Hans-Werner-Richter House",
+            "tr": "Hans-Werner-Richter Evi"
           },
           "coords": [
             14.144749,
@@ -426,7 +470,8 @@
             "de": "Erfahren Sie in diesem Literaturmuseum mehr über den Gründer der Gruppe 47 und nehmen Sie sich Zeit für die gut kuratierten Infotafeln im ehemaligen Arbeitszimmer.",
             "hu": "Ismerje meg a 47-es Csoport alapítóját ebben az irodalmi múzeumban; szánjon időt a jól összeállított információs panelekre az író egykori munkaterületén.",
             "ro": "Aflați despre fondatorul Grupului 47 în acest muzeu literar dedicat; acordați-vă timp pentru a citi panourile informative din fostul spațiu de lucru al autorului.",
-            "en": "Learn about the founder of Group 47 in this dedicated literary museum; take time to read the well-curated informational panels in the author's former workspace."
+            "en": "Learn about the founder of Group 47 in this dedicated literary museum; take time to read the well-curated informational panels in the author's former workspace.",
+            "tr": "Group 47’nin kurucusu hakkında bu adanmış edebiyat müzesinde bilgi edinin; yazarın eski çalışma alanındaki özenle hazırlanmış bilgi panolarını okumak için zaman ayırın."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Museum Villa \"Irmgard\"",
             "hu": "Villa \"Irmgard\" Múzeum",
             "ro": "Muzeul Villa \"Irmgard\"",
-            "en": "Museum Villa \"Irmgard\""
+            "en": "Museum Villa \"Irmgard\"",
+            "tr": "Müze Villa \"Irmgard\""
           },
           "coords": [
             14.156204,
@@ -449,7 +495,8 @@
             "de": "Erkunden Sie die historischen Räume, in denen Maxim Gorki einst weilte, und werfen Sie einen Blick auf den saisonalen Veranstaltungsplan der literarischen Villa.",
             "hu": "Fedezze fel azokat a történelmi szobákat, ahol egykor Makszim Gorkij szállt meg, és ne felejtse el előzetesen megnézni a villa szezonális eseménynaptárát.",
             "ro": "Explorați camerele istorice în care a stat cândva Maxim Gorki, oferind o incursiune în istoria literară; verificați programul evenimentelor de sezon înainte de vizită.",
-            "en": "Explore the historic rooms where Maxim Gorky once stayed, offering a glimpse into literary history; be sure to check the seasonal event schedule before visiting."
+            "en": "Explore the historic rooms where Maxim Gorky once stayed, offering a glimpse into literary history; be sure to check the seasonal event schedule before visiting.",
+            "tr": "Maxim Gorki’nin bir zamanlar kaldığı tarihi odaları keşfedin; ziyaret öncesi mevsimsel etkinlik takvimini kontrol etmeyi unutmayın."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Kunstpavillion",
             "hu": "Művészeti Pavilon",
             "ro": "Pavilionul de Artă",
-            "en": "Art Pavilion"
+            "en": "Art Pavilion",
+            "tr": "Sanat Pavyonu"
           },
           "coords": [
             14.165842,
@@ -472,7 +520,8 @@
             "de": "Bewundern Sie zeitgenössische Kunstausstellungen in diesem markanten modernen Pavillon direkt am Strand und besuchen Sie ihn am Morgen für das beste natürliche Licht.",
             "hu": "Csodálja meg a kortárs művészeti kiállításokat ebben a lenyűgöző modern pavilonban közvetlenül a tengerparton, és látogasson el reggel a legjobb természetes fényért.",
             "ro": "Admirați expozițiile de artă contemporană găzduite în acest pavilion modern chiar pe plajă și vizitați-l dimineața pentru cea mai bună lumină naturală.",
-            "en": "Admire contemporary art exhibitions housed in this striking modern pavilion right by the beach, and visit during morning hours for the best natural light."
+            "en": "Admire contemporary art exhibitions housed in this striking modern pavilion right by the beach, and visit during morning hours for the best natural light.",
+            "tr": "Plaj kenarındaki çarpıcı modern pavyonda çağdaş sanat sergilerini hayranlıkla izleyin; en iyi doğal ışık için sabah saatlerinde ziyaret edin."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Konzertmuschel",
             "hu": "Koncertkagyló",
             "ro": "Scoica de Concerte",
-            "en": "Concert Shell"
+            "en": "Concert Shell",
+            "tr": "Konser Sahnesi"
           },
           "coords": [
             14.169021,
@@ -495,7 +545,8 @@
             "de": "Genießen Sie Open-Air-Aufführungen an diesem klassischen Musikpavillon, dem kulturellen Herzen der Promenade, also sichern Sie sich frühzeitig einen Platz.",
             "hu": "Élvezze a szabadtéri előadásokat ezen a klasszikus zenepavilonon, amely a sétány kulturális szíve, ezért a nyári koncertszezonban érkezzen korán a jó helyekért.",
             "ro": "Bucurați-vă de spectacole în aer liber la acest pavilion clasic, inima culturală a promenadei, așa că asigurați-vă un loc devreme în timpul sezonului de vară.",
-            "en": "Enjoy open-air performances at this classic bandstand that forms the cultural heart of the promenade, so grab a seat early during the summer concert season."
+            "en": "Enjoy open-air performances at this classic bandstand that forms the cultural heart of the promenade, so grab a seat early during the summer concert season.",
+            "tr": "Promenadın kültürel kalbini oluşturan bu klasik açık hava sahnesinde gösterilerin tadını çıkarın; yaz konser sezonunda erken yer kapın."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Ostseetherme",
             "hu": "Keleti-tengeri Termálfürdő",
             "ro": "Băile Termale Baltice",
-            "en": "Baltic Sea Thermal Baths"
+            "en": "Baltic Sea Thermal Baths",
+            "tr": "Baltık Denizi Termal Havuzları"
           },
           "coords": [
             14.17841,
@@ -518,7 +570,8 @@
             "de": "Entspannen Sie Ihre Muskeln im warmen Heilwasser dieses Thermalbads am Meer und packen Sie ein zusätzliches Handtuch und Badeschuhe für einen angenehmen Besuch ein.",
             "hu": "Lazítsa el izmait e tengerparti fürdőkomplexum meleg, gyógyító termálvizében; pakoljon be egy extra törölközőt és papucsot a kényelmes látogatás érdekében.",
             "ro": "Relaxați-vă mușchii în apele termale vindecătoare ale acestui complex balnear de la malul mării; luați un prosop suplimentar și șlapi pentru confort.",
-            "en": "Relax your muscles in the warm, healing thermal waters of this seaside spa complex; pack an extra towel and flip-flops for a comfortable visit."
+            "en": "Relax your muscles in the warm, healing thermal waters of this seaside spa complex; pack an extra towel and flip-flops for a comfortable visit.",
+            "tr": "Deniz kenarındaki bu spa kompleksinin sıcak, şifalı termal sularında kaslarınızı gevşetin; rahat bir ziyaret için ekstra havlu ve terlik paketleyin."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Der Morgen auf dem Rad beginnt in Bansin bei exotischen Tieren und einer stillen Kirche. Mittags tauchen Sie in die Literaturgeschichte und Kunst von Heringsdorf ein. Am Nachmittag radeln Sie gemütlich entlang der Promenade und genießen das maritime Flair an der Konzertmuschel. Abends winkt die pure Entspannung in den warmen Fluten der Ostseetherme.",
         "hu": "A reggel Bansinban indul két keréken, egzotikus állatokkal és egy csendes templommal. Délben elmerülhet Heringsdorf irodalmi múltjában és művészetében. Délután kényelmesen kerekezhet a sétány mentén, kiélvezve a koncertkagyló tengerparti hangulatát. Este tiszta relaxáció várja a Keleti-tengeri Termálfürdő meleg medencéiben.",
         "ro": "Dimineața pe bicicletă începe în Bansin cu animale exotice și o biserică liniștită. La prânz vă scufundați în istoria literară și arta din Heringsdorf. După-amiaza pedalați confortabil de-a lungul promenadei, bucurându-vă de atmosfera maritimă la scoica de concerte. Seara aduce o relaxare pură în apele termale vindecătoare.",
-        "en": "The morning bike ride begins in Bansin with exotic animals and a peaceful church. Midday dives into the rich literary history and contemporary art of Heringsdorf. The afternoon features a leisurely ride along the promenade, soaking in the seaside atmosphere by the concert shell. The evening promises pure relaxation in the warm waters of the thermal baths."
+        "en": "The morning bike ride begins in Bansin with exotic animals and a peaceful church. Midday dives into the rich literary history and contemporary art of Heringsdorf. The afternoon features a leisurely ride along the promenade, soaking in the seaside atmosphere by the concert shell. The evening promises pure relaxation in the warm waters of the thermal baths.",
+        "tr": "Sabah bisiklet gezisi, egzotik hayvanlar ve huzurlu bir kilise ile Bansin’de başlar. Öğle vakti Heringsdorf’un zengin edebiyat tarihi ve çağdaş sanatı sizi bekler. Öğleden sonra promenad boyunca keyifli bir sürüşle konser sahnesinin deniz kenarı atmosferini içinize çekersiniz. Akşam ise termal havuzların sıcak sularında saf bir rahatlama vaat eder."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Die Radtour startet geschützt im Tropenzoo, wo exotische Wärme den Regen vergessen lässt. Mittags radeln wir schnell zu den Museen in Bansin und Heringsdorf, um trocken zu bleiben. Der Nachmittag bietet Kunst und Kultur in festen Gebäuden. Seien Sie vorsichtig auf den glatten Promenadenwegen. Der Tag endet perfekt entspannt in der Ostseetherme, während es draußen stürmt.",
             "hu": "A kerékpártúra védett helyen, a trópusi állatkertben indul, ahol az egzotikus meleg feledteti az esőt. Délben gyorsan áttekerünk a bansini és heringsdorfi múzeumokhoz, hogy szárazon maradjunk. A délután művészetet és kultúrát kínál stabil épületekben. Legyen óvatos a csúszós sétányokon. A nap tökéletesen zárul a termálfürdőben, miközben odakint tombol a vihar.",
             "ro": "Turul cu bicicleta începe protejat la zoo tropical, unde căldura exotică vă face să uitați de ploaie. La prânz, pedalăm rapid spre muzeele din Bansin și Heringsdorf pentru a rămâne uscați. După-amiaza oferă artă și cultură în clădiri solide. Atenție la pistele alunecoase de pe promenadă. Ziua se termină relaxant la băile termale, în timp ce afară este furtună.",
-            "en": "The bike tour starts sheltered in the tropical zoo, where exotic warmth makes you forget the rain. At noon, we cycle quickly to the museums in Bansin and Heringsdorf to stay dry. The afternoon offers art and culture in solid buildings. Be careful on the slippery promenade paths. The day ends perfectly relaxed in the thermal baths while it storms outside."
+            "en": "The bike tour starts sheltered in the tropical zoo, where exotic warmth makes you forget the rain. At noon, we cycle quickly to the museums in Bansin and Heringsdorf to stay dry. The afternoon offers art and culture in solid buildings. Be careful on the slippery promenade paths. The day ends perfectly relaxed in the thermal baths while it storms outside.",
+            "tr": "Bisiklet turu tropikal hayvanat bahçesinde korunaklı şekilde başlar; egzotik sıcaklık yağmuru unutturur. Öğle vakti kısa süreli ıslanmamak için Bansin ve Heringsdorf’taki müzelere hızlıca sürüyoruz. Öğleden sonra katı bina içindeki sanat ve kültür sunar. Kaygan promenad yollarına dikkat edin. Gün, dışarıda fırtına olsa bile termal havuzlarda mükemmel şekilde sona erer."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Tropenzoo Bansin",
                 "hu": "Bansin Trópusi Állatkert",
                 "ro": "Zoo Tropical Bansin",
-                "en": "Bansin Tropical Zoo"
+                "en": "Bansin Tropical Zoo",
+                "tr": "Bansin Tropikal Hayvanat Bahçesi"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie Exoten im warmen Tropenhaus; ein idealer Startpunkt, um den ersten Regenschauer des Tages trocken zu überbrücken.",
                 "hu": "Figyelje meg az egzotikus állatokat a meleg trópusi házban; ideális kezdőpont az első eső zápor száraz átvészelésére.",
                 "ro": "Observați animalele exotice în casa tropicală caldă; un punct de plecare ideal pentru a trece peste prima ploaie a zilei.",
-                "en": "Observe exotic animals in the warm tropical house; an ideal starting point to stay dry during the day's first rain shower."
+                "en": "Observe exotic animals in the warm tropical house; an ideal starting point to stay dry during the day's first rain shower.",
+                "tr": "Sıcak tropikal evde egzotik hayvanları gözlemleyin; günün ilk yağmur duşunda kuru kalmak için ideal bir başlangıç noktası."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Evangelische Kirche Bansin",
                 "hu": "Bansin Evangélikus Templom",
                 "ro": "Biserica Evanghelică Bansin",
-                "en": "Bansin Evangelical Church"
+                "en": "Bansin Evangelical Church",
+                "tr": "Bansin Evanjelik Kilisesi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen spirituellen Ort für eine kurze Rast im Trockenen; die schlichte Holzarchitektur wirkt bei Regen besonders beruhigend.",
                 "hu": "Használja ezt a spirituális helyet egy rövid pihenőre a szárazon; az egyszerű faépítészet esőben különösen megnyugtató.",
                 "ro": "Folosiți acest loc spiritual pentru o scurtă odihnă la uscat; arhitectura simplă din lemn este deosebit de liniștitoare pe ploaie.",
-                "en": "Use this spiritual place for a brief rest in the dry; the simple wooden architecture is particularly calming during the rain."
+                "en": "Use this spiritual place for a brief rest in the dry; the simple wooden architecture is particularly calming during the rain.",
+                "tr": "Kısa bir dinlenme için bu manevi mekanı kullanın; sade ahşap mimari yağmur sırasında özellikle sakinleştiricidir."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Hans-Werner-Richter-Haus",
                 "hu": "Hans-Werner-Richter Ház",
                 "ro": "Casa Hans-Werner-Richter",
-                "en": "Hans-Werner-Richter House"
+                "en": "Hans-Werner-Richter House",
+                "tr": "Hans-Werner-Richter Evi"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie ein in die Literaturgeschichte der 'Gruppe 47'; die Ausstellungen sind komplett überdacht und bieten Schutz vor Nässe.",
                 "hu": "Merüljön el a 'Gruppe 47' irodalmi történelmében; a kiállítások teljesen fedettek, így védelmet nyújtanak a nedvesség ellen.",
                 "ro": "Cufundați-vă în istoria literară a 'Grupului 47'; expozițiile sunt complet acoperite și oferă protecție împotriva umezelii.",
-                "en": "Dive into the literary history of 'Group 47'; the exhibitions are completely covered and provide protection from the wet."
+                "en": "Dive into the literary history of 'Group 47'; the exhibitions are completely covered and provide protection from the wet.",
+                "tr": "'Group 47'nin edebi geçmişine dalın; sergiler tamamen kapalıdır ve ıslaktan koruma sağlar."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Museum Villa \"Irmgard\"",
                 "hu": "Villa \"Irmgard\" Múzeum",
                 "ro": "Muzeul Villa \"Irmgard\"",
-                "en": "Museum Villa \"Irmgard\""
+                "en": "Museum Villa \"Irmgard\"",
+                "tr": "Müze Villa \"Irmgard\""
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad am Ständer und genießen Sie die warme Atmosphäre der Künstlervilla; Regenjacken können im Eingangsbereich abgelegt werden.",
                 "hu": "Parkolja le kerékpárját a tárolónál, és élvezze a művészvilla meleg hangulatát; az esőkabátokat a bejáratnál le lehet tenni.",
                 "ro": "Parcați bicicleta la suport și bucurați-vă de atmosfera caldă a vilei de artiști; pelerinele de ploaie pot fi lăsate la intrare.",
-                "en": "Park your bike at the stand and enjoy the warm atmosphere of the artist villa; raincoats can be left in the entrance area."
+                "en": "Park your bike at the stand and enjoy the warm atmosphere of the artist villa; raincoats can be left in the entrance area.",
+                "tr": "Bisikletinizi standa park edin ve sanatçı vilasının sıcak atmosferinin tadını çıkarın; yağmurluklar giriş alanında bırakılabilir."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Kunstpavillion",
                 "hu": "Művészeti Pavilon",
                 "ro": "Pavilionul de Artă",
-                "en": "Art Pavilion"
+                "en": "Art Pavilion",
+                "tr": "Sanat Pavyonu"
               },
               "tip_5lang": {
                 "de": "Ein kultureller Stopp direkt am Radweg; der Innenraum bietet Schutz, während Sie moderne Kunstwerke ganz in Ruhe betrachten können.",
                 "hu": "Kulturális megálló közvetlenül a kerékpárút mellett; a belső tér védelmet nyújt, miközben nyugodtan nézheti a modern műalkotásokat.",
                 "ro": "O oprire culturală direct pe pista de biciclete; interiorul oferă protecție în timp ce puteți privi operele de artă modernă în liniște.",
-                "en": "A cultural stop right on the bike path; the interior provides shelter while you can view modern artworks in peace."
+                "en": "A cultural stop right on the bike path; the interior provides shelter while you can view modern artworks in peace.",
+                "tr": "Bisiklet yolunun hemen üzerindeki kültürel bir durak; iç mekan size modern eserleri huzur içinde izlerken koruma sağlar."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Konzertmuschel",
                 "hu": "Koncertkagyló",
                 "ro": "Scoica de Concerte",
-                "en": "Concert Shell"
+                "en": "Concert Shell",
+                "tr": "Konser Sahnesi"
               },
               "tip_5lang": {
                 "de": "Kurzer Fotostopp an der Promenade; achten Sie auf Fußgänger mit Regenschirmen, die auf dem nassen Asphalt oft unvorhersehbar ausweichen.",
                 "hu": "Gyors fotómegálló a sétányon; figyeljen az esernyős gyalogosokra, akik a vizes aszfalton gyakran kiszámíthatatlanul térnek ki.",
                 "ro": "Scurtă oprire foto pe promenadă; atenție la pietonii cu umbrele, care pe asfaltul ud adesea evită în mod imprevizibil.",
-                "en": "Quick photo stop on the promenade; watch out for pedestrians with umbrellas, who often dodge unpredictably on wet asphalt."
+                "en": "Quick photo stop on the promenade; watch out for pedestrians with umbrellas, who often dodge unpredictably on wet asphalt.",
+                "tr": "Promenadda hızlı bir fotoğraf molası; ıslak asfaltta şemsiyeli yayalara dikkat edin, sıklıkla öngörülemez manevra yaparlar."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Ostseetherme",
                 "hu": "Keleti-tengeri Termálfürdő",
                 "ro": "Băile Termale Baltice",
-                "en": "Baltic Sea Thermal Baths"
+                "en": "Baltic Sea Thermal Baths",
+                "tr": "Baltık Denizi Termal Havuzları"
               },
               "tip_5lang": {
                 "de": "Das ultimative Ziel bei Regen; entspannen Sie in den Thermalbecken und lassen Sie den nasskalten Tag im warmen Wasser ausklingen.",
                 "hu": "A végső cél esőben; lazítson a termálmedencékben, és zárja a nyirkos napot a meleg vízben.",
                 "ro": "Destinația supremă pe ploaie; relaxați-vă în bazinele termale și încheiați ziua umedă și rece în apa caldă.",
-                "en": "The ultimate rainy-day destination; relax in the thermal pools and let the damp day end in the warm water."
+                "en": "The ultimate rainy-day destination; relax in the thermal pools and let the damp day end in the warm water.",
+                "tr": "En nihai yağmurlu gün hedefi; termal havuzlarda rahatlayın ve nemli günü sıcak suda sonlandırın."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Winterliches Radeln erfordert gute Handschuhe gegen den Seewind. Wir starten im warmen Tropenzoo und folgen der Küste zu den kulturellen Highlights. Die kurzen Wege zwischen den Museen halten die Kälte in Schach. Mittags wärmen wir uns in den Ausstellungen auf. Beachten Sie das frühe Lichtspiel am Strand und beenden Sie die Tour vor der Dunkelheit in der wohlig warmen Ostseetherme.",
             "hu": "A téli kerékpározás jó kesztyűt igényel a tengeri szél ellen. A meleg trópusi állatkertben kezdünk, majd a part mentén haladunk a kulturális pontokhoz. A múzeumok közötti rövid távok segítenek elviselni a hideget. Napközben a kiállításokon melegszünk fel. Figyelje a korai fényeket a parton, és fejezze be a túrát sötétedés előtt a kellemesen meleg termálfürdőben.",
             "ro": "Pedalarea pe timp de iarnă necesită mănuși bune împotriva vântului marin. Începem la zoo tropical și urmăm coasta spre punctele culturale. Distanțele scurte între muzee țin frigul la distanță. La prânz ne încălzim în expoziții. Observați jocul de lumini de pe plajă și terminați turul înainte de întuneric la băile termale calde.",
-            "en": "Winter cycling requires good gloves against the sea wind. We start in the warm tropical zoo and follow the coast to cultural highlights. Short distances between museums keep the cold at bay. Warm up in the exhibitions during the day. Note the early play of light on the beach and finish the tour before dark in the cozy thermal baths."
+            "en": "Winter cycling requires good gloves against the sea wind. We start in the warm tropical zoo and follow the coast to cultural highlights. Short distances between museums keep the cold at bay. Warm up in the exhibitions during the day. Note the early play of light on the beach and finish the tour before dark in the cozy thermal baths.",
+            "tr": "Kış bisikleti güçlü eldivenler gerektirir; deniz rüzgarına karşı koruma sağlar. Tropikal hayvanat bahçesinde ısınarak başlıyoruz ve kıyıyı takip ederek kültürel noktalara ulaşıyoruz. Müzeler arasındaki kısa mesafeler soğuğu uzak tutar. Gün içinde sergilerde ısının. Plajdaki ışığın erken oyununu göz önünde bulundurun ve turu kararmadan önce sıcak termal havuzlarda bitirin."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Tropenzoo Bansin",
                 "hu": "Bansin Trópusi Állatkert",
                 "ro": "Zoo Tropical Bansin",
-                "en": "Bansin Tropical Zoo"
+                "en": "Bansin Tropical Zoo",
+                "tr": "Bansin Tropikal Hayvanat Bahçesi"
               },
               "tip_5lang": {
                 "de": "Ein wunderbarer Ort zum Aufwärmen; die tropischen Temperaturen bieten einen starken Kontrast zur frostigen Ostseeluft draußen.",
                 "hu": "Csodálatos hely a felmelegedéshez; a trópusi hőmérséklet erős kontrasztot mutat a kinti fagyos tengeri levegővel.",
                 "ro": "Un loc minunat pentru încălzire; temperaturile tropicale oferă un contrast puternic cu aerul înghețat al Balticii de afară.",
-                "en": "A wonderful place to warm up; the tropical temperatures offer a sharp contrast to the frosty Baltic air outside."
+                "en": "A wonderful place to warm up; the tropical temperatures offer a sharp contrast to the frosty Baltic air outside.",
+                "tr": "Isınmak için harika bir yer; tropikal sıcaklıklar dışarıdaki buzlu Baltık havasıyla keskin bir tezat sunar."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Evangelische Kirche Bansin",
                 "hu": "Bansin Evangélikus Templom",
                 "ro": "Biserica Evanghelică Bansin",
-                "en": "Bansin Evangelical Church"
+                "en": "Bansin Evangelical Church",
+                "tr": "Bansin Evanjelik Kilisesi"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Stille dieses Ortes; im Winter ist die Kirche ein friedlicher Rückzugsort ohne die üblichen Touristenströme.",
                 "hu": "Csodálja meg a hely csendjét; télen a templom békés menedék a szokásos turistatömeg nélkül.",
                 "ro": "Admirați liniștea acestui loc; iarna, biserica este un refugiu pașnic, fără fluxul obișnuit de turiști.",
-                "en": "Admire the silence of this place; in winter, the church is a peaceful retreat without the usual tourist crowds."
+                "en": "Admire the silence of this place; in winter, the church is a peaceful retreat without the usual tourist crowds.",
+                "tr": "Bu yerin sükûnetine hayran kalın; kışın kilise normal turist kalabalıkları olmadan huzurlu bir sığınaktır."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Hans-Werner-Richter-Haus",
                 "hu": "Hans-Werner-Richter Ház",
                 "ro": "Casa Hans-Werner-Richter",
-                "en": "Hans-Werner-Richter House"
+                "en": "Hans-Werner-Richter House",
+                "tr": "Hans-Werner-Richter Evi"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Bibliothek und das Archiv; die beheizten Räume laden dazu ein, länger in der Literaturgeschichte zu verweilen.",
                 "hu": "Látogasson el a könyvtárba és az archívumba; a fűtött szobák hívogatnak, hogy hosszabb időt töltsön el az irodalomtörténetben.",
                 "ro": "Vizitați biblioteca și arhiva; încăperile încălzite vă invită să zăboviți mai mult în istoria literară.",
-                "en": "Visit the library and archive; the heated rooms invite you to linger longer in literary history."
+                "en": "Visit the library and archive; the heated rooms invite you to linger longer in literary history.",
+                "tr": "Kütüphane ve arşivi ziyaret edin; ısıtmalı odalar sizi edebi tarihte daha uzun kalmaya davet eder."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Museum Villa \"Irmgard\"",
                 "hu": "Villa \"Irmgard\" Múzeum",
                 "ro": "Muzeul Villa \"Irmgard\"",
-                "en": "Museum Villa \"Irmgard\""
+                "en": "Museum Villa \"Irmgard\"",
+                "tr": "Müze Villa \"Irmgard\""
               },
               "tip_5lang": {
                 "de": "Die Villa wirkt im Winterlicht besonders edel; wärmen Sie sich im Inneren auf, bevor Sie die letzte Etappe der Tour antreten.",
                 "hu": "A villa téli fényben különösen elegáns; melegedjen fel odabent, mielőtt nekivágna a túra utolsó szakaszának.",
                 "ro": "Vila pare deosebit de nobilă în lumina iernii; încălziți-vă în interior înainte de a începe ultima etapă a turului.",
-                "en": "The villa looks particularly elegant in winter light; warm up inside before starting the last leg of the tour."
+                "en": "The villa looks particularly elegant in winter light; warm up inside before starting the last leg of the tour.",
+                "tr": "Vila kış ışığında özellikle zarif görünür; turun son etabına başlamadan önce içeride ısın."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Kunstpavillion",
                 "hu": "Művészeti Pavilon",
                 "ro": "Pavilionul de Artă",
-                "en": "Art Pavilion"
+                "en": "Art Pavilion",
+                "tr": "Sanat Pavyonu"
               },
               "tip_5lang": {
                 "de": "Ein schneller Stopp für zeitgenössische Kunst; die Glasarchitektur bietet auch im Winter einen hellen, freundlichen Ort der Inspiration.",
                 "hu": "Gyors megálló a kortárs művészetért; az üvegarchitektúra télen is világos, barátságos helyet kínál az inspirációhoz.",
                 "ro": "O oprire rapidă pentru artă contemporană; arhitectura din sticlă oferă un loc luminos și prietenos de inspirație chiar și iarna.",
-                "en": "A quick stop for contemporary art; the glass architecture offers a bright, friendly place of inspiration even in winter."
+                "en": "A quick stop for contemporary art; the glass architecture offers a bright, friendly place of inspiration even in winter.",
+                "tr": "Çağdaş sanat için kısa bir durak; cam mimari kışın bile parlak, dostça bir ilham mekânı sunar."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Konzertmuschel",
                 "hu": "Koncertkagyló",
                 "ro": "Scoica de Concerte",
-                "en": "Concert Shell"
+                "en": "Concert Shell",
+                "tr": "Konser Sahnesi"
               },
               "tip_5lang": {
                 "de": "Bei klarem Winterwetter bietet sich hier ein toller Blick auf die gefrorene Ostsee; ziehen Sie das Tuch vors Gesicht gegen den kalten Wind.",
                 "hu": "Tiszta téli időben remek kilátás nyílik innen a fagyos Keleti-tengerre; húzza a sálat az arca elé a hideg szél ellen.",
                 "ro": "Pe vreme senină de iarnă, aici aveți o vedere excelentă asupra mării înghețate; trageți eșarfa peste față împotriva vântului rece.",
-                "en": "In clear winter weather, there's a great view of the frozen Baltic Sea; pull your scarf over your face against the cold wind."
+                "en": "In clear winter weather, there's a great view of the frozen Baltic Sea; pull your scarf over your face against the cold wind.",
+                "tr": "Açık kış havasında donmuş Baltık Denizi manzarası harika olur; soğuk rüzgara karşı eşarbınızı yüzünüze çekin."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Ostseetherme",
                 "hu": "Keleti-tengeri Termálfürdő",
                 "ro": "Băile Termale Baltice",
-                "en": "Baltic Sea Thermal Baths"
+                "en": "Baltic Sea Thermal Baths",
+                "tr": "Baltic Sea Termal Hamamları"
               },
               "tip_5lang": {
                 "de": "Die Belohnung für die Winterfahrt; genießen Sie die Außenbecken, während die kalte Luft über das dampfende Wasser streicht.",
                 "hu": "A téli tekerés jutalma; élvezze a kültéri medencéket, miközben a hideg levegő simogatja a gőzölgő vizet.",
                 "ro": "Răsplata pentru tura de iarnă; bucurați-vă de bazinele exterioare în timp ce aerul rece trece peste apa care aburește.",
-                "en": "The reward for the winter ride; enjoy the outdoor pools while the cold air brushes over the steaming water."
+                "en": "The reward for the winter ride; enjoy the outdoor pools while the cold air brushes over the steaming water.",
+                "tr": "Kış gezisinin ödülü; soğuk hava buharlaşan suyun üzerinden eserken açık havuzların tadını çıkarın."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Usedomer Technikausstellung",
             "hu": "Usedom Műszaki Kiállítás",
             "ro": "Expoziția Tehnică Usedom",
-            "en": "Usedom Technical Exhibition"
+            "en": "Usedom Technical Exhibition",
+            "tr": "Usedom Teknik Sergisi"
           },
           "coords": [
             14.130366,
@@ -775,7 +860,8 @@
             "de": "Machen Sie eine Zeitreise und erkunden Sie historische Maschinen und Fahrzeuge; planen Sie mindestens zwei Stunden ein, um die technischen Details zu würdigen.",
             "hu": "Lépjen vissza az időben, és fedezze fel a történelmi gépek és járművek hatalmas gyűjteményét; szánjon legalább két órát a technikai részletek tanulmányozására.",
             "ro": "Pășiți în trecut explorând o vastă colecție de utilaje și vehicule istorice; alocați cel puțin două ore pentru a aprecia pe deplin detaliile tehnice.",
-            "en": "Step back in time as you explore a vast collection of historical machinery and vehicles; allow at least two hours to fully appreciate the intricate technical details."
+            "en": "Step back in time as you explore a vast collection of historical machinery and vehicles; allow at least two hours to fully appreciate the intricate technical details.",
+            "tr": "Geniş bir tarihi makine ve araç koleksiyonunu keşfederken zamanda yolculuk yapın; ince teknik ayrıntıları tam anlamıyla görmek için en az iki saat ayırın."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Museum Rolf Werner",
             "hu": "Rolf Werner Múzeum",
             "ro": "Muzeul Rolf Werner",
-            "en": "Museum Rolf Werner"
+            "en": "Museum Rolf Werner",
+            "tr": "Müze Rolf Werner"
           },
           "coords": [
             14.137172,
@@ -798,7 +885,8 @@
             "de": "Betrachten Sie die lebendigen Werke dieses regionalen Künstlers in einem charmanten Ambiente; das Kombiticket ist ideal, wenn Sie auch andere Galerien besuchen.",
             "hu": "Tekintse meg ennek a regionális művésznek az élénk alkotásait hangulatos környezetben; a kombinált jegy remek spórolási lehetőség a helyi galériák látogatásához.",
             "ro": "Vizionați lucrările vibrante ale acestui artist regional într-un cadru fermecător; cumpărarea biletului combinat este o modalitate excelentă de a economisi.",
-            "en": "View the vibrant works of this regional artist in a charming setting; purchasing the combined ticket offers a great way to save if visiting other local galleries."
+            "en": "View the vibrant works of this regional artist in a charming setting; purchasing the combined ticket offers a great way to save if visiting other local galleries.",
+            "tr": "Bu bölgesel sanatçının canlı eserlerini şirin bir mekânda görün; diğer yerel galerileri ziyaret ediyorsanız kombine bilet almak tasarruf sağlar."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Baumwipfelpfad Usedom",
             "hu": "Usedom Lombkoronasétány",
             "ro": "Poteca deasupra Copacilor Usedom",
-            "en": "Usedom Treetop Walk"
+            "en": "Usedom Treetop Walk",
+            "tr": "Usedom Ağaç Tepesi Yolu"
           },
           "coords": [
             14.168293,
@@ -821,7 +910,8 @@
             "de": "Spazieren Sie auf diesem erhöhten Pfad über den Baumwipfeln und genießen Sie spektakuläre Ausblicke; besuchen Sie ihn gegen Sonnenuntergang für tolle Fotos.",
             "hu": "Sétáljon a fák lombkoronája felett ezen a lenyűgöző kilátást nyújtó tanösvényen; naplemente környékén látogasson el ide, ha tökéletes fotókat szeretne készíteni.",
             "ro": "Plimbați-vă deasupra copacilor pe această potecă suspendată cu vederi spectaculoase asupra insulei; vizitați-o la apus pentru fotografii de coastă uluitoare.",
-            "en": "Walk above the treetops on this elevated path offering spectacular views of the island; visit near sunset for truly breathtaking coastal photography opportunities."
+            "en": "Walk above the treetops on this elevated path offering spectacular views of the island; visit near sunset for truly breathtaking coastal photography opportunities.",
+            "tr": "Adanın manzaralarını sunan bu yükseltilmiş patikada ağaçların üzerinden yürüyün; gerçekten nefes kesen kıyı fotoğrafları için günbatımına yakın ziyaret edin."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Präsidentenberg",
             "hu": "Elnök-hegy",
             "ro": "Muntele Președintelui",
-            "en": "President's Hill"
+            "en": "President's Hill",
+            "tr": "Cumhurbaşkanı Tepesi"
           },
           "coords": [
             14.168885,
@@ -844,7 +935,8 @@
             "de": "Wandern Sie auf diese natürliche Erhebung für einen Panoramablick über die Ostseeküste; tragen Sie bequeme Wanderschuhe, da der Weg leicht uneben ist.",
             "hu": "Túrázzon fel erre a festői magaslatra, ahonnan panorámás kilátás nyílik a balti partvidékre; viseljen kényelmes cipőt, mivel az ösvény egyenetlen lehet.",
             "ro": "Urcați pe această colină naturală pentru vederi panoramice asupra coastei baltice; purtați pantofi de mers confortabili, deoarece poteca poate fi neregulată.",
-            "en": "Hike up to this scenic natural elevation for panoramic views across the Baltic coastline; wear comfortable walking shoes as the path can be slightly uneven."
+            "en": "Hike up to this scenic natural elevation for panoramic views across the Baltic coastline; wear comfortable walking shoes as the path can be slightly uneven.",
+            "tr": "Baltık kıyısına uzanan panoramik manzaralar için bu manzaralı doğal yükseltiye tırmanın; yol biraz engebeli olabileceğinden rahat yürüyüş ayakkabıları giyin."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Fürstentelefon",
             "hu": "Hercegi Telefon",
             "ro": "Telefonul Princiar",
-            "en": "Prince's Telephone"
+            "en": "Prince's Telephone",
+            "tr": "Prens'in Telefonu"
           },
           "coords": [
             14.159485,
@@ -867,7 +960,8 @@
             "de": "Entdecken Sie dieses skurrile historische Kommunikationsdenkmal in der Nähe der Promenade, das ein lustiges Fotomotiv bietet, also halten Sie die Kamera bereit.",
             "hu": "Fedezze fel ezt a sétány közelében megbúvó furcsa történelmi kommunikációs emlékművet; remek fotótéma, ezért tartsa kéznél a fényképezőgépét séta közben.",
             "ro": "Descoperiți acest monument istoric de comunicare neobișnuit ascuns lângă promenadă; este o ocazie excelentă pentru fotografii, așa că țineți aparatul la îndemână.",
-            "en": "Discover this quirky historical communication landmark tucked near the promenade; it makes for a fun photo op, so keep your camera handy as you stroll by."
+            "en": "Discover this quirky historical communication landmark tucked near the promenade; it makes for a fun photo op, so keep your camera handy as you stroll by.",
+            "tr": "Kordon yakınına gizlenmiş bu tuhaf tarihi iletişim işaretini keşfedin; yürürken fotoğraf için iyi bir fırsat olur, bu yüzden kameranızı elinizin altında tutun."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Ostseetherme",
             "hu": "Keleti-tengeri Termálfürdő",
             "ro": "Băile Termale Baltice",
-            "en": "Baltic Sea Thermal Baths"
+            "en": "Baltic Sea Thermal Baths",
+            "tr": "Baltic Sea Termal Hamamları"
           },
           "coords": [
             14.17841,
@@ -890,7 +985,8 @@
             "de": "Entspannen Sie Ihre Muskeln im warmen Heilwasser dieses Thermalbads am Meer und packen Sie ein zusätzliches Handtuch und Badeschuhe für einen angenehmen Besuch ein.",
             "hu": "Lazítsa el izmait e tengerparti fürdőkomplexum meleg, gyógyító termálvizében; pakoljon be egy extra törölközőt és papucsot a kényelmes látogatás érdekében.",
             "ro": "Relaxați-vă mușchii în apele termale vindecătoare ale acestui complex balnear de la malul mării; luați un prosop suplimentar și șlapi pentru confort.",
-            "en": "Relax your muscles in the warm, healing thermal waters of this seaside spa complex; pack an extra towel and flip-flops for a comfortable visit."
+            "en": "Relax your muscles in the warm, healing thermal waters of this seaside spa complex; pack an extra towel and flip-flops for a comfortable visit.",
+            "tr": "Bu deniz kenarı spa kompleksinin sıcak, şifalı termal sularında kaslarınızı gevşetin; rahat bir ziyaret için ekstra havlu ve terlik paketleyin."
           }
         }
       ],
@@ -898,7 +994,8 @@
         "de": "Der Roadtrip startet faszinierend mit historischer Technik und regionaler Kunst in den Museen von Bansin. Zur Mittagszeit steuern Sie den beeindruckenden Baumwipfelpfad an, um die Insel von oben zu bewundern. Am Nachmittag erwarten Sie herrliche Ausblicke vom Präsidentenberg und kuriosen Entdeckungen am Fürstentelefon. Der späte Nachmittag lädt zu einem ausgiebigen Erholungsbad in der Ostseetherme ein.",
         "hu": "Az autós túra izgalmasan indul a történelmi technikával és regionális művészettel a bansini múzeumokban. Délben a lenyűgöző lombkoronasétány felé veszi az irányt, hogy fentről csodálja meg a szigetet. Délután csodálatos kilátás várja az Elnök-hegyről és érdekes felfedezések a Hercegi Telefonnál. A késő délután kiadós és pihentető fürdőzésre csábít a termálfürdőben.",
         "ro": "Excursia auto începe fascinant cu tehnică istorică și artă regională în muzeele din Bansin. La prânz vă îndreptați spre impresionanta potecă suspendată pentru a admira insula de sus. După-amiaza oferă priveliști magnifice de pe Muntele Președintelui și descoperiri curioase la Telefonul Princiar. După-amiaza târzie vă invită la o baie relaxantă prelungită în apele termale.",
-        "en": "The road trip kicks off with a fascinating look at historical technology and regional art in Bansin's museums. Midday directs you to the impressive treetop walk to admire the island from high above. The afternoon offers magnificent natural views from President's Hill and quirky historical finds. The late afternoon perfectly wraps up with an extended, soothing soak at the coastal thermal baths."
+        "en": "The road trip kicks off with a fascinating look at historical technology and regional art in Bansin's museums. Midday directs you to the impressive treetop walk to admire the island from high above. The afternoon offers magnificent natural views from President's Hill and quirky historical finds. The late afternoon perfectly wraps up with an extended, soothing soak at the coastal thermal baths.",
+        "tr": "Road trip, Bansin müzelerindeki tarihi teknoloji ve bölgesel sanatlara ilginç bir bakışla başlar. Öğlen sizi adayı yüksekten seyretmek için etkileyici ağaç tepesi yürüyüşüne yönlendirir. Öğleden sonra Cumhurbaşkanı Tepesi’nden muhteşem doğal manzaralar ve ilginç tarihi keşifler sunulur. Geç öğleden sonra ise sahil termal hamamlarında uzun, rahatlatıcı bir banyo ile gün mükemmel şekilde sona erer."
       },
       "variants": {
         "rainy": {
@@ -906,7 +1003,8 @@
             "de": "Mit dem Auto erkunden wir Usedom wetterunabhängig. Der Vormittag startet bei der Technikausstellung im Trockenen. Mittags fahren wir bequem zum Museum Rolf Werner. Nachmittags besuchen wir den Baumwipfelpfad; Parken Sie nah am Eingang, um den Regenweg kurz zu halten. Den stürmischen Abend genießen wir in der Ostseetherme, die direkt mit dem Auto erreichbar ist.",
             "hu": "Autóval az időjárástól függetlenül fedezzük fel Usedomet. A délelőtt a műszaki kiállításon indul, fedett helyen. Délben kényelmesen átgurulunk a Rolf Werner Múzeumhoz. Délután a lombkoronasétány következik; parkoljon közel a bejárathoz, hogy rövid legyen az út az esőben. A viharos estét a termálfürdőben élvezzük, amely közvetlenül elérhető autóval.",
             "ro": "Cu mașina explorăm Usedom independent de vreme. Dimineața începe la expoziția tehnică, la adăpost. La prânz conducem confortabil spre Muzeul Rolf Werner. După-amiaza vizităm poteca deasupra copacilor; parcați aproape de intrare pentru a scurta drumul prin ploaie. Seara furtunoasă o petrecem la băile termale, accesibile direct cu mașina.",
-            "en": "By car, we explore Usedom regardless of the weather. The morning starts at the technical exhibition in the dry. At noon, we drive comfortably to the Rolf Werner Museum. In the afternoon, visit the treetop walk; park close to the entrance to keep the walk in the rain short. We enjoy the stormy evening at the thermal baths, directly accessible by car."
+            "en": "By car, we explore Usedom regardless of the weather. The morning starts at the technical exhibition in the dry. At noon, we drive comfortably to the Rolf Werner Museum. In the afternoon, visit the treetop walk; park close to the entrance to keep the walk in the rain short. We enjoy the stormy evening at the thermal baths, directly accessible by car.",
+            "tr": "Arabayla, hava ne olursa olsun Usedom'u keşfediyoruz. Sabah teknik sergide kuru olarak başlıyoruz. Öğlen rahatça Rolf Werner Müzesi'ne gidiyoruz. Öğleden sonra ağaç tepesi yürüyüşünü ziyaret edin; yağmurda yürüyüşü kısa tutmak için girişe yakın park edin. Fırtınalı akşamı doğrudan arabayla ulaşabileceğiniz termal hamamlarda geçiriyoruz."
           },
           "stops": [
             {
@@ -914,13 +1012,15 @@
                 "de": "Usedomer Technikausstellung",
                 "hu": "Usedom Műszaki Kiállítás",
                 "ro": "Expoziția Tehnică Usedom",
-                "en": "Usedom Technical Exhibition"
+                "en": "Usedom Technical Exhibition",
+                "tr": "Usedom Teknik Sergisi"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie historische Fahrzeuge und Technik in großen Hallen; ein perfekter Ort, um den Vormittagsregen komplett im Trockenen zu verbringen.",
                 "hu": "Fedezzen fel történelmi járműveket és technikát a nagy csarnokokban; tökéletes hely a délelőtti eső szárazon történő átvészelésére.",
                 "ro": "Descoperiți vehicule și tehnică istorică în hale mari; un loc perfect pentru a petrece ploaia de dimineață complet la uscat.",
-                "en": "Discover historical vehicles and technology in large halls; a perfect place to spend the morning rain completely in the dry."
+                "en": "Discover historical vehicles and technology in large halls; a perfect place to spend the morning rain completely in the dry.",
+                "tr": "Büyük salonlarda tarihî araçları ve teknolojiyi keşfedin; sabah yağmurunu tamamen içeride geçirilecek mükemmel bir yer."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Museum Rolf Werner",
                 "hu": "Rolf Werner Múzeum",
                 "ro": "Muzeul Rolf Werner",
-                "en": "Museum Rolf Werner"
+                "en": "Museum Rolf Werner",
+                "tr": "Müze Rolf Werner"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Farbgewalt der Gemälde im ehemaligen Wohnhaus; der kurze Weg vom Parkplatz macht diesen Stopp ideal bei Schietwetter.",
                 "hu": "Csodálja meg a festmények színgazdagságát az egykori lakóházban; a közeli parkoló miatt ez a megálló ideális rossz időben is.",
                 "ro": "Admirați explozia de culori a picturilor în fosta casă de locuit; distanța scurtă de la parcare face această oprire ideală pe vreme rea.",
-                "en": "Admire the vibrant colors of the paintings in the former residence; the short walk from the parking lot makes this stop ideal in bad weather."
+                "en": "Admire the vibrant colors of the paintings in the former residence; the short walk from the parking lot makes this stop ideal in bad weather.",
+                "tr": "Eski konuttaki tabloların canlı renklerine hayran kalın; otoparktan kısa yürüyüş kötü havada bu durağı ideal kılar."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Baumwipfelpfad Usedom",
                 "hu": "Usedom Lombkoronasétány",
                 "ro": "Poteca deasupra Copacilor Usedom",
-                "en": "Usedom Treetop Walk"
+                "en": "Usedom Treetop Walk",
+                "tr": "Usedom Ağaç Tepesi Yolu"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Aufzug zum Turm, um trocken nach oben zu gelangen; die Aussicht auf die aufgewühlte Ostsee ist auch bei Regen spektakulär.",
                 "hu": "Használja a torony liftjét, hogy szárazon jusson fel; a felkavart tenger látványa esőben is lenyűgöző.",
                 "ro": "Folosiți liftul spre turn pentru a ajunge sus fără să vă udați; vederea mării agitate este spectaculoasă chiar și pe ploaie.",
-                "en": "Use the elevator to the tower to get up dry; the view of the turbulent Baltic Sea is spectacular even in the rain."
+                "en": "Use the elevator to the tower to get up dry; the view of the turbulent Baltic Sea is spectacular even in the rain.",
+                "tr": "Kuleye kuru çıkmak için asansörü kullanın; fırtınalı Baltık Denizi manzarası yağmurda bile muhteşemdir."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Präsidentenberg",
                 "hu": "Elnök-hegy",
                 "ro": "Muntele Președintelui",
-                "en": "President's Hill"
+                "en": "President's Hill",
+                "tr": "Cumhurbaşkanı Tepesi"
               },
               "tip_5lang": {
                 "de": "Ein schneller Blick vom Aussichtspunkt; bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht durch die Windschutzscheibe.",
                 "hu": "Gyors pillantás a kilátóból; heves esőben maradjon az autóban, és élvezze a kilátást a szélvédőn keresztül.",
                 "ro": "O privire rapidă de la punctul de observare; în caz de ploaie torențială, rămâneți în mașină și admirați vederea prin parbriz.",
-                "en": "A quick look from the viewpoint; in heavy rain, stay in the car and enjoy the view through the windshield."
+                "en": "A quick look from the viewpoint; in heavy rain, stay in the car and enjoy the view through the windshield.",
+                "tr": "İzleme noktasından hızlı bir bakış; yoğun yağmurda arabada kalıp ön camdan manzaranın keyfini çıkarın."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Fürstentelefon",
                 "hu": "Hercegi Telefon",
                 "ro": "Telefonul Princiar",
-                "en": "Prince's Telephone"
+                "en": "Prince's Telephone",
+                "tr": "Prens'in Telefonu"
               },
               "tip_5lang": {
                 "de": "Dieses historische Denkmal im Wald ist ein kurzes Fotomotiv; parken Sie kurz am Wegrand für einen schnellen Sprung ins Freie.",
                 "hu": "Ez az erdei emlékmű egy gyors fotótéma; parkoljon le rövid időre az út szélén egy gyors kiszállás erejéig.",
                 "ro": "Acest monument istoric din pădure este un scurt motiv foto; parcați scurt pe marginea drumului pentru o ieșire rapidă afară.",
-                "en": "This historical monument in the forest is a quick photo op; park briefly by the roadside for a quick dash outside."
+                "en": "This historical monument in the forest is a quick photo op; park briefly by the roadside for a quick dash outside.",
+                "tr": "Ormancıktaki bu tarihî anıt hızlı bir fotoğraf molasıdır; kısa bir dışarı çıkış için yol kenarına kısa süreli park edin."
               }
             },
             {
@@ -984,13 +1092,15 @@
                 "de": "Ostseetherme",
                 "hu": "Keleti-tengeri Termálfürdő",
                 "ro": "Băile Termale Baltice",
-                "en": "Baltic Sea Thermal Baths"
+                "en": "Baltic Sea Thermal Baths",
+                "tr": "Baltic Sea Termal Hamamları"
               },
               "tip_5lang": {
                 "de": "Dank der Tiefgarage gelangen Sie völlig trocken in den Wellnessbereich; genießen Sie den Regen einfach von der warmen Sauna aus.",
                 "hu": "A mélygarázsnak köszönhetően teljesen szárazon juthat a wellness részlegbe; élvezze az eső látványát a meleg szaunából.",
                 "ro": "Datorită parcării subterane, ajungeți complet uscați în zona wellness; bucurați-vă de ploaie pur și simplu din sauna caldă.",
-                "en": "Thanks to the underground parking, you can reach the wellness area completely dry; just enjoy the rain from the warm sauna."
+                "en": "Thanks to the underground parking, you can reach the wellness area completely dry; just enjoy the rain from the warm sauna.",
+                "tr": "Yer altı otoparkı sayesinde wellness alanına tamamen kuru ulaşabilirsiniz; sadece sıcak saunadan yağmuru keyifle izleyin."
               }
             }
           ]
@@ -1000,7 +1110,8 @@
             "de": "Die winterliche Autotour bietet Komfort und Wärme zwischen den Zielen. Wir starten bei der Technikausstellung und tauchen in die Geschichte ein. Mittags geht es zum Museum Rolf Werner. Die Fahrt zum Baumwipfelpfad bietet Ausblicke auf schneebedeckte Dünen. Erleben Sie den frühen Sonnenuntergang an der Küste und wärmen Sie sich am Abend in der Ostseetherme auf, dem perfekten Winterhighlight.",
             "hu": "A téli autós túra kényelmet és meleget nyújt a célpontok között. A műszaki kiállításon kezdünk, elmerülve a történelemben. Délben a Rolf Werner Múzeum következik. Az út a lombkoronasétányhoz havas dűnék látványát kínálja. Élje át a korai naplementét a parton, este pedig melegedjen fel a termálfürdőben, ami a tökéletes téli program.",
             "ro": "Turul cu mașina iarna oferă confort și căldură între destinații. Începem la expoziția tehnică și ne cufundăm în istorie. La prânz mergem la Muzeul Rolf Werner. Drumul spre poteca deasupra copacilor oferă vederi spre dunele înzăpezite. Experimentați apusul timpuriu pe coastă și încălziți-vă seara la băile termale.",
-            "en": "The winter car tour offers comfort and warmth between destinations. We start at the technical exhibition and dive into history. At noon, head to the Rolf Werner Museum. The drive to the treetop walk offers views of snow-covered dunes. Experience the early sunset on the coast and warm up in the evening at the thermal baths."
+            "en": "The winter car tour offers comfort and warmth between destinations. We start at the technical exhibition and dive into history. At noon, head to the Rolf Werner Museum. The drive to the treetop walk offers views of snow-covered dunes. Experience the early sunset on the coast and warm up in the evening at the thermal baths.",
+            "tr": "Kış araba turu, destinasyonlar arasında konfor ve sıcaklık sunar. Teknik sergide başlayıp tarihe dalıyoruz. Öğlen Rolf Werner Müzesi'ne gidin. Ağaç tepesi yürüyüşüne giden sürüş karla kaplı kumulları gösterir. Erken günbatımını kıyıda deneyimleyin ve akşam termal hamamlarda ısının."
           },
           "stops": [
             {
@@ -1008,13 +1119,15 @@
                 "de": "Usedomer Technikausstellung",
                 "hu": "Usedom Műszaki Kiállítás",
                 "ro": "Expoziția Tehnică Usedom",
-                "en": "Usedom Technical Exhibition"
+                "en": "Usedom Technical Exhibition",
+                "tr": "Usedom Teknik Sergisi"
               },
               "tip_5lang": {
                 "de": "Die Hallen sind gut geschützt; bestaunen Sie die Oldtimer ohne zu frieren, während draußen der Winterwind über die Insel fegt.",
                 "hu": "A csarnokok jól védettek; csodálja meg a veterán autókat fagyoskodás nélkül, miközben odakint téli szél seper végig a szigeten.",
                 "ro": "Halele sunt bine protejate; admirați mașinile de epocă fără să înghețați, în timp ce afară vântul de iarnă mătură insula.",
-                "en": "The halls are well protected; marvel at the vintage cars without freezing while the winter wind sweeps across the island outside."
+                "en": "The halls are well protected; marvel at the vintage cars without freezing while the winter wind sweeps across the island outside.",
+                "tr": "Salonlar iyi korunmuş; adanın dışında kış rüzgarı eserken klasik arabalara üşümeden hayran kalın."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Museum Rolf Werner",
                 "hu": "Rolf Werner Múzeum",
                 "ro": "Muzeul Rolf Werner",
-                "en": "Museum Rolf Werner"
+                "en": "Museum Rolf Werner",
+                "tr": "Müze Rolf Werner"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die gemütliche Galerie; die leuchtenden Farben der Usedomer Landschaftsbilder sind ein toller Kontrast zum winterlichen Grau.",
                 "hu": "Látogasson el a barátságos galériába; az usedomi tájképek élénk színei remek kontrasztot alkotnak a téli szürkeséggel.",
                 "ro": "Vizitați galeria primitoare; culorile vibrante ale peisajelor din Usedom sunt un contrast excelent cu griul iernii.",
-                "en": "Visit the cozy gallery; the vibrant colors of the Usedom landscape paintings are a great contrast to the winter gray."
+                "en": "Visit the cozy gallery; the vibrant colors of the Usedom landscape paintings are a great contrast to the winter gray.",
+                "tr": "Sıcak galeriyi ziyaret edin; Usedom manzara tablolarının canlı renkleri kışın gri tonlarına harika bir kontrast sunar."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Baumwipfelpfad Usedom",
                 "hu": "Usedom Lombkoronasétány",
                 "ro": "Poteca deasupra Copacilor Usedom",
-                "en": "Usedom Treetop Walk"
+                "en": "Usedom Treetop Walk",
+                "tr": "Usedom Ağaç Tepesi Yolu"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft sorgt für Fernsicht bis zur Insel Rügen; tragen Sie eine Mütze, da es auf dem Aussichtsturm sehr zugig sein kann.",
                 "hu": "A tiszta téli levegő távoli kilátást biztosít akár Rügen szigetéig; viseljen sapkát, mert a kilátótoronyban nagyon huzatos lehet.",
                 "ro": "Aerul curat de iarnă asigură vizibilitate până la insula Rügen; purtați căciulă, deoarece în turnul de observare poate fi curent.",
-                "en": "The clear winter air provides long-distance views to Rügen Island; wear a hat, as it can be very drafty on the observation tower."
+                "en": "The clear winter air provides long-distance views to Rügen Island; wear a hat, as it can be very drafty on the observation tower.",
+                "tr": "Temiz kış havası Rügen Adası'na uzun mesafe görüşleri sağlar; gözlem kulesinde çok rüzgarlı olabileceğinden bere takın."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Präsidentenberg",
                 "hu": "Elnök-hegy",
                 "ro": "Muntele Președintelui",
-                "en": "President's Hill"
+                "en": "President's Hill",
+                "tr": "Cumhurbaşkanı Tepesi"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die blaue Stunde über der Ostsee; der Parkplatz ist nah, sodass Sie nach dem Fotostopp schnell wieder ins warme Auto können.",
                 "hu": "Élje át a kék órát a tenger felett; a parkoló közel van, így a fotózás után gyorsan visszaülhet a meleg autóba.",
                 "ro": "Experimentați ora albastră deasupra mării; parcarea este aproape, astfel încât să puteți reveni rapid în mașina caldă după fotografii.",
-                "en": "Experience the blue hour over the Baltic Sea; the parking is close, so you can quickly return to the warm car after the photo stop."
+                "en": "Experience the blue hour over the Baltic Sea; the parking is close, so you can quickly return to the warm car after the photo stop.",
+                "tr": "Baltık Denizi üzerinde mavi saati yaşayın; otopark yakın olduğundan fotoğraf molasından sonra hızlıca sıcak arabaya dönebilirsiniz."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Fürstentelefon",
                 "hu": "Hercegi Telefon",
                 "ro": "Telefonul Princiar",
-                "en": "Prince's Telephone"
+                "en": "Prince's Telephone",
+                "tr": "Prens'in Telefonu"
               },
               "tip_5lang": {
                 "de": "Ein historischer Fund am Wegesrand; im Winter ohne Laub ist das Denkmal zwischen den kahlen Stämmen besonders gut sichtbar.",
                 "hu": "Történelmi lelet az út mentén; télen, lombkorona nélkül az emlékmű a kopár törzsek között különösen jól látható.",
                 "ro": "O descoperire istorică la marginea drumului; iarna, fără frunziș, monumentul este deosebit de vizibil printre trunchiurile golașe.",
-                "en": "A historical find by the roadside; in winter, without foliage, the monument is particularly visible among the bare trunks."
+                "en": "A historical find by the roadside; in winter, without foliage, the monument is particularly visible among the bare trunks.",
+                "tr": "Yol kenarındaki tarihî bir keşif; kışın yapraklar olmadığı için anıt çıplak gövdeler arasında özellikle görünür."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Ostseetherme",
                 "hu": "Keleti-tengeri Termálfürdő",
                 "ro": "Băile Termale Baltice",
-                "en": "Baltic Sea Thermal Baths"
+                "en": "Baltic Sea Thermal Baths",
+                "tr": "Baltic Sea Termal Hamamları"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich nach dem Tag auf Usedoms Straßen gründlich auf; die Solebecken sind besonders wohltuend für die wintermüden Knochen.",
                 "hu": "Melegedjen fel alaposan az usedomi utakon töltött nap után; a sós vizes medencék különösen jót tesznek a téltől megfáradt testnek.",
                 "ro": "Încălziți-vă bine după ziua petrecută pe drumurile din Usedom; bazinele cu apă sărată sunt deosebit de benefice pentru oasele obosite de iarnă.",
-                "en": "Warm up thoroughly after the day on Usedom's roads; the brine pools are particularly beneficial for winter-tired bones."
+                "en": "Warm up thoroughly after the day on Usedom's roads; the brine pools are particularly beneficial for winter-tired bones.",
+                "tr": "Usedom yollarında geçen bir günün ardından iyice ısının; tuzlu su havuzları kış yorgunu kemikler için özellikle faydalıdır."
               }
             }
           ]

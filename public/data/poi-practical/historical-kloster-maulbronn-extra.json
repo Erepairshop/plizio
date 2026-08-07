@@ -3,55 +3,64 @@
     "de": "Klosterhof 5, 75433 Maulbronn",
     "hu": "Klosterhof 5, 75433 Maulbronn",
     "ro": "Klosterhof 5, 75433 Maulbronn",
-    "en": "Klosterhof 5, 75433 Maulbronn"
+    "en": "Klosterhof 5, 75433 Maulbronn",
+    "tr": "Klosterhof 5, 75433 Maulbronn"
   },
   "openingHours": {
     "de": "März-Okt: täglich 09:00-17:30",
     "hu": "Március-október: naponta 09:00-17:30",
     "ro": "Martie-octombrie: zilnic 09:00-17:30",
-    "en": "March-Oct: daily 09:00-17:30"
+    "en": "March-Oct: daily 09:00-17:30",
+    "tr": "Mar-Eki: günlük 09:00-17:30"
   },
   "entranceFee": {
     "de": "9 € Erwachsene, 4,50 € ermäßigt",
     "hu": "9 € felnőtt, 4,50 € kedvezményes",
     "ro": "9 € adulți, 4,50 € redus",
-    "en": "9 € adults, 4.50 € reduced"
+    "en": "9 € adults, 4.50 € reduced",
+    "tr": "9 € yetişkin, 4,50 € indirimli"
   },
   "website": "https://www.kloster-maulbronn.de",
   "publicTransport": {
     "de": "Bus 700 ab Mühlacker oder Bretten; am Wochenende Klosterstadt-Express.",
     "hu": "700-es busz Mühlackerből vagy Brettenből; hétvégén Klosterstadt-Express.",
     "ro": "Autobuzul 700 din Mühlacker sau Bretten; în weekend circulă Klosterstadt-Express.",
-    "en": "Bus 700 from Mühlacker or Bretten; on weekends, the Klosterstadt-Express."
+    "en": "Bus 700 from Mühlacker or Bretten; on weekends, the Klosterstadt-Express.",
+    "tr": "Mühlacker veya Bretten’den 700 numaralı otobüs; hafta sonları Klosterstadt-Express."
   },
   "parking": {
     "de": "Parkplatz am Klosterhof oder Tiefer See, ca. 1 €/Std.",
     "hu": "Parkoló a Klosterhofnál vagy a Tiefer See-nél, kb. 1 €/óra.",
     "ro": "Parcare la Klosterhof sau la Tiefer See, aprox. 1 €/oră.",
-    "en": "Parking at Klosterhof or Tiefer See, approx. 1 €/hr."
+    "en": "Parking at Klosterhof or Tiefer See, approx. 1 €/hr.",
+    "tr": "Klosterhof veya Tiefer See’de otopark, yaklaşık 1 €/saat."
   },
   "accessibility": {
     "de": "Klosterhof barrierefrei, Innenräume teils Stufen.",
     "hu": "A Klosterhof akadálymentes, a belső terekben néhol lépcsők találhatók.",
     "ro": "Klosterhof este accesibil, spațiile interioare au pe alocuri trepte.",
-    "en": "Klosterhof is barrier-free; interiors have some steps."
+    "en": "Klosterhof is barrier-free; interiors have some steps.",
+    "tr": "Klosterhof engelli erişimine uygun; iç mekanlarda birkaç basamak var."
   },
   "photoRules": {
     "de": "Privat ohne Blitz erlaubt.",
     "hu": "Privát használatra, vaku nélkül engedélyezett.",
     "ro": "Permis pentru uz privat, fără bliț.",
-    "en": "Allowed for private use without flash."
+    "en": "Allowed for private use without flash.",
+    "tr": "Özel kullanım için flaşsız izinli."
   },
   "bestTimeToVisit": {
     "de": "Mittags, um die Lichteffekte im Kreuzgang zu sehen.",
     "hu": "Délidőben, hogy lássuk a fényhatásokat a kerengőben.",
     "ro": "La prânz, pentru a observa jocurile de lumini din claustru.",
-    "en": "At noon, to see the light effects in the cloister."
+    "en": "At noon, to see the light effects in the cloister.",
+    "tr": "Manastır avlusunda ışık oyunlarını görmek için öğlen."
   },
   "audioGuide": {
     "de": "Deutsch, Englisch, Französisch, Italienisch",
     "hu": "Német, angol, francia, olasz",
     "ro": "Germană, engleză, franceză, italiană",
-    "en": "German, English, French, Italian"
+    "en": "German, English, French, Italian",
+    "tr": "Almanca, İngilizce, Fransızca, İtalyanca"
   }
 }

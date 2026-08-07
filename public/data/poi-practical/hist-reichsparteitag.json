@@ -3,55 +3,64 @@
     "de": "Bayernstraße 110, 90471 Nürnberg",
     "hu": "Bayernstraße 110, 90471 Nürnberg",
     "ro": "Bayernstraße 110, 90471 Nürnberg",
-    "en": "Bayernstraße 110, 90471 Nürnberg"
+    "en": "Bayernstraße 110, 90471 Nürnberg",
+    "tr": "Bayernstraße 110, 90471 Nürnberg"
   },
   "openingHours": {
     "de": "Mo-Su 10:00-18:00",
     "hu": "H-V 10:00-18:00",
     "ro": "Lu-Du 10:00-18:00",
-    "en": "Mon-Sun 10:00-18:00"
+    "en": "Mon-Sun 10:00-18:00",
+    "tr": "Pzt-Paz 10:00-18:00"
   },
   "entranceFee": {
     "de": "6,00 € (Interimsausstellung während Umbau)",
     "hu": "6,00 € (időszakos kiállítás az átépítés alatt)",
     "ro": "6,00 € (expoziție interimară în timpul renovării)",
-    "en": "6.00 € (interim exhibition during renovation)"
+    "en": "6.00 € (interim exhibition during renovation)",
+    "tr": "6,00 € (yenileme sırasında geçici sergi)"
   },
   "website": "https://museen.nuernberg.de/dokuzentrum",
   "publicTransport": {
     "de": "Straßenbahn Linie 8 oder Bus 36 bis Haltestelle Doku-Zentrum",
     "hu": "8-as villamos vagy 36-os busz a Doku-Zentrum megállóig",
     "ro": "Tramvaiul linia 8 sau autobuzul 36 până la stația Doku-Zentrum",
-    "en": "Tram line 8 or bus 36 to Doku-Zentrum stop"
+    "en": "Tram line 8 or bus 36 to Doku-Zentrum stop",
+    "tr": "Tramvay hattı 8 veya 36 numaralı otobüs ile Doku-Zentrum durağı"
   },
   "parking": {
     "de": "Parkplätze entlang der Bayernstraße und am Volksfestplatz (außer bei Events kostenlos).",
     "hu": "Parkolók a Bayernstraße mentén és a Volksfestplatznál (események kivételével ingyenes).",
     "ro": "Locuri de parcare pe Bayernstraße și la Volksfestplatz (gratuite în afara evenimentelor).",
-    "en": "Parking spaces along Bayernstraße and at Volksfestplatz (free except during events)."
+    "en": "Parking spaces along Bayernstraße and at Volksfestplatz (free except during events).",
+    "tr": "Bayernstraße boyunca ve Volksfestplatz'ta park yerleri (etkinlikler sırasında hariç ücretsiz)."
   },
   "accessibility": {
     "de": "Die Interimsausstellung und das Gelände sind barrierefrei zugänglich.",
     "hu": "Az időszakos kiállítás és a terület akadálymentesen látogatható.",
     "ro": "Expoziția interimară și terenul sunt accesibile.",
-    "en": "The interim exhibition and the grounds are accessible."
+    "en": "The interim exhibition and the grounds are accessible.",
+    "tr": "Geçici sergi ve araziler erişilebilir."
   },
   "photoRules": {
     "de": "Private Fotos ohne Blitz in der Ausstellung erlaubt; Drohnenverbot auf dem Gelände.",
     "hu": "Vaku nélküli magánfotók engedélyezettek a kiállításon; a területen drónt használni tilos.",
     "ro": "Fotografii private fără bliț permise în expoziție; utilizarea dronelor interzisă.",
-    "en": "Private photos without flash allowed in the exhibition; drone ban on the grounds."
+    "en": "Private photos without flash allowed in the exhibition; drone ban on the grounds.",
+    "tr": "Sergide flaşsız özel fotoğraflara izin verilir; arazide drone yasağı var."
   },
   "bestTimeToVisit": {
     "de": "Kombination aus Ausstellungsbesuch und Rundgang um den Dutzendteich (Zeppelinfeld).",
     "hu": "Érdemes a kiállítást egybekötni a Dutzendteich és a Zeppelinfeld körüli sétával.",
     "ro": "Combinați vizita la expoziție cu o plimbare în jurul lacului Dutzendteich (Zeppelinfeld).",
-    "en": "Combine the exhibition visit with a walk around the Dutzendteich (Zeppelin Field)."
+    "en": "Combine the exhibition visit with a walk around the Dutzendteich (Zeppelin Field).",
+    "tr": "Sergi ziyaretini Dutzendteich (Zeppelin Field) çevresinde bir yürüyüşle birleştirin."
   },
   "audioGuide": {
     "de": "Ja (DE, EN, FR, IT, ES, RU, PL, CN)",
     "hu": "Igen (német, angol, francia, olasz, spanyol, orosz, lengyel, kínai)",
     "ro": "Da (DE, EN, FR, IT, ES, RU, PL, CN)",
-    "en": "Yes (DE, EN, FR, IT, ES, RU, PL, CN)"
+    "en": "Yes (DE, EN, FR, IT, ES, RU, PL, CN)",
+    "tr": "Evet (DE, EN, FR, IT, ES, RU, PL, CN)"
   }
 }

@@ -3,55 +3,64 @@
     "de": "Lennéstraße 1, 19053 Schwerin",
     "hu": "Lennéstraße 1, 19053 Schwerin",
     "ro": "Lennéstraße 1, 19053 Schwerin",
-    "en": "Lennéstraße 1, 19053 Schwerin"
+    "en": "Lennéstraße 1, 19053 Schwerin",
+    "tr": "Lennéstraße 1, 19053 Schwerin"
   },
   "openingHours": {
     "de": "Di-So 10:00-18:00",
     "hu": "K-V 10:00-18:00",
     "ro": "Mar-Dum 10:00-18:00",
-    "en": "Tue-Sun 10:00-18:00"
+    "en": "Tue-Sun 10:00-18:00",
+    "tr": "Sal-Paz 10:00-18:00"
   },
   "entranceFee": {
     "de": "€8.50 Erwachsene, €6.50 ermäßigt",
     "hu": "8,50 € felnőtt, 6,50 € kedvezményes",
     "ro": "8,50 € adulți, 6,50 € redus",
-    "en": "€8.50 adults, €6.50 reduced"
+    "en": "€8.50 adults, €6.50 reduced",
+    "tr": "€8,50 yetişkinler, €6,50 indirimli"
   },
   "website": "https://www.mv-schloesser.de/schwerin",
   "publicTransport": {
     "de": "Straßenbahn Linie 1, 10 bis Haltestelle Schlossblick",
     "hu": "1-es, 10-es villamos a Schlossblick megállóig",
     "ro": "Tramvai linia 1, 10 până la stația Schlossblick",
-    "en": "Tram line 1, 10 to Schlossblick stop"
+    "en": "Tram line 1, 10 to Schlossblick stop",
+    "tr": "Tramvay hattı 1, 10 Schlossblick durağına"
   },
   "parking": {
     "de": "Parkhaus Altstadtcenter in der Nähe, ca. €1.50/Std.",
     "hu": "Altstadtcenter parkolóház a közelben, kb. 1,50 €/óra",
     "ro": "Parcare Altstadtcenter în apropiere, aprox. 1,50 €/oră",
-    "en": "Altstadtcenter parking garage nearby, approx. €1.50/hr."
+    "en": "Altstadtcenter parking garage nearby, approx. €1.50/hr.",
+    "tr": "Altstadtcenter otopark garajı yakında, yaklaşık €1,50/sa."
   },
   "accessibility": {
     "de": "Barrierefrei über Aufzug im Innenhof erreichbar.",
     "hu": "Akadálymentesített, az udvari lifttel közelíthető meg.",
     "ro": "Accesibil, se poate ajunge cu liftul din curtea interioară.",
-    "en": "Accessible via elevator in the courtyard."
+    "en": "Accessible via elevator in the courtyard.",
+    "tr": "Avludaki asansör ile erişilebilir."
   },
   "photoRules": {
     "de": "Erlaubt für private Zwecke ohne Blitz und Stativ.",
     "hu": "Magáncélra megengedett, vaku és állvány nélkül.",
     "ro": "Permis pentru uz privat, fără bliț și trepied.",
-    "en": "Allowed for private use without flash and tripod."
+    "en": "Allowed for private use without flash and tripod.",
+    "tr": "Flaşsız ve tripodsuz özel kullanım için izin verildi."
   },
   "bestTimeToVisit": {
     "de": "Frühmorgens für Spiegelungen im Schlosssee.",
     "hu": "Kora reggel, a kastélytó tükröződéséért.",
     "ro": "Dimineața devreme, pentru reflexiile în lacul castelului.",
-    "en": "Early morning for reflections in the castle lake."
+    "en": "Early morning for reflections in the castle lake.",
+    "tr": "Kale gölünde yansımalar için erken sabah."
   },
   "audioGuide": {
     "de": "Deutsch, Englisch, Französisch verfügbar.",
     "hu": "német, angol, francia elérhető.",
     "ro": "germană, engleză, franceză disponibile.",
-    "en": "German, English, French available."
+    "en": "German, English, French available.",
+    "tr": "Almanca, İngilizce, Fransızca mevcut."
   }
 }

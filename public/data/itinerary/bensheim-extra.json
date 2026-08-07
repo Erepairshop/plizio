@@ -21,7 +21,8 @@
             "de": "Marktplatz & Baunack-Haus",
             "hu": "Piactér és Baunack-ház",
             "ro": "Piața Mare și Casa Baunack",
-            "en": "Market Square & Baunack House"
+            "en": "Market Square & Baunack House",
+            "tr": "Pazar Yeri & Baunack Evi"
           },
           "coords": [
             49.6813,
@@ -36,7 +37,8 @@
             "de": "Fachwerk-Idylle pur.",
             "hu": "Csodás favázas házak.",
             "ro": "Case tradiționale superbe.",
-            "en": "Beautiful half-timbered houses."
+            "en": "Beautiful half-timbered houses.",
+            "tr": "Güzel yarı ahşap evler."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St. Georg Kirche",
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
-            "en": "St. George Church"
+            "en": "St. George Church",
+            "tr": "Aziz Georg Kilisesi"
           },
           "coords": [
             49.6819,
@@ -59,7 +62,8 @@
             "de": "Klassizistische Architektur.",
             "hu": "Klasszicista stílusú épület.",
             "ro": "Arhitectură clasicistă.",
-            "en": "Classicist architecture."
+            "en": "Classicist architecture.",
+            "tr": "Klasisist mimari."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Wambolter Hof",
             "hu": "Wambolter-udvar",
             "ro": "Curtea Wambolter",
-            "en": "Wambolter Hof"
+            "en": "Wambolter Hof",
+            "tr": "Wambolter Hof"
           },
           "coords": [
             49.682,
@@ -82,7 +87,8 @@
             "de": "Ehemaliger Adelshof.",
             "hu": "Egykori nemesi kúria.",
             "ro": "Fost conac nobiliar.",
-            "en": "Former noble residence."
+            "en": "Former noble residence.",
+            "tr": "Eski soylu konutu."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Roter Turm",
             "hu": "Vörös torony",
             "ro": "Turnul Roșu",
-            "en": "Red Tower"
+            "en": "Red Tower",
+            "tr": "Kırmızı Kule"
           },
           "coords": [
             49.6802,
@@ -105,7 +112,8 @@
             "de": "Teil der alten Stadtmauer.",
             "hu": "A városfal maradványa.",
             "ro": "Parte din vechiul zid.",
-            "en": "Part of the old city wall."
+            "en": "Part of the old city wall.",
+            "tr": "Eski şehir surunun bir parçası."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Dalberger Hof",
             "hu": "Dalberger-udvar",
             "ro": "Curtea Dalberger",
-            "en": "Dalberger Hof"
+            "en": "Dalberger Hof",
+            "tr": "Dalberger Hof"
           },
           "coords": [
             49.6815,
@@ -128,7 +137,8 @@
             "de": "Barocker Adelshof.",
             "hu": "Barokk nemesi udvarház.",
             "ro": "Curte nobiliară barocă.",
-            "en": "Baroque noble court."
+            "en": "Baroque noble court.",
+            "tr": "Barok soylu avlusu."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kirchberghäuschen",
             "hu": "Kirchberg-házikó",
             "ro": "Căsuța de pe Kirchberg",
-            "en": "Kirchberghäuschen"
+            "en": "Kirchberghäuschen",
+            "tr": "Kirchberghäuschen"
           },
           "coords": [
             49.6853,
@@ -151,7 +162,8 @@
             "de": "Bester Blick über die Reben.",
             "hu": "Legjobb kilátás a dűlőkre.",
             "ro": "Cea mai bună vedere spre vii.",
-            "en": "Best view over the vineyards."
+            "en": "Best view over the vineyards.",
+            "tr": "Bağlar üzerinde en iyi manzara."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Vormittags erkunden wir die historische Altstadt mit ihren prächtigen Fachwerkhäusern rund um den Marktplatz. Mittags spazieren wir vorbei an den Adelshöfen zum markanten Roten Turm. Nachmittags führt uns ein moderater Anstieg hinauf zum Kirchberghäuschen, wo wir bei regionalem Wein den Blick über die Hessische Bergstraße genießen und den Tag entspannt ausklingen lassen.",
         "hu": "Délelőtt a történelmi óváros favázas házaival ismerkedünk a piactér környékén. Délben az egykori nemesi udvarházak és a középkori Vörös torony mentén sétálunk. Délután egy közepes emelkedővel felkapaszkodunk a Kirchberghäuschenhez, ahol a szőlőültetvényekre nyíló panoráma és egy pohár helyi bor társaságában pihenhetünk meg a túra végén.",
         "ro": "Dimineața explorăm centrul istoric cu casele sale tradiționale din jurul pieței centrale. La prânz ne plimbăm pe lângă fostele curți nobiliare până la Turnul Roșu medieval. După-amiaza urcăm panta spre Kirchberghäuschen, unde ne bucurăm de o panoramă spectaculoasă asupra podgoriilor din Bergstraße, însoțită de un pahar de vin local, într-o atmosferă relaxantă.",
-        "en": "Morning starts in the historic old town, admiring half-timbered houses around the Market Square. Midday takes us past noble courts to the medieval Red Tower. In the afternoon, we take a moderate hike up to the Kirchberghäuschen viewpoint, where we enjoy panoramic views over the vineyards of the Hessische Bergstraße and local wine before concluding the day."
+        "en": "Morning starts in the historic old town, admiring half-timbered houses around the Market Square. Midday takes us past noble courts to the medieval Red Tower. In the afternoon, we take a moderate hike up to the Kirchberghäuschen viewpoint, where we enjoy panoramic views over the vineyards of the Hessische Bergstraße and local wine before concluding the day.",
+        "tr": "Sabah, Pazar Meydanı çevresindeki yarı ahşap evleri izleyerek tarihi eski şehirde başlar. Öğle vakti bizleri soylu avluların yanından Kırmızı Kule'ye götürür. Öğleden sonra, Kirchberghäuschen seyir noktasına doğru orta zorlukta bir yürüyüş yaparız; burada Hessische Bergstraße'nin bağları ve yöresel şaraplar üzerinde panoramik manzaraların keyfini çıkarıp günü sonlandırırız."
       },
       "gastro_picks": {
         "de": [
@@ -299,6 +312,11 @@
           "Bensheim is on the sunny Bergstraße; sun protection is advised.",
           "The hike to Kirchberg is short but steadily uphill.",
           "Best parking is at the Griesel parking garage."
+        ],
+        "tr": [
+          "Bensheim güneşli Bergstraße üzerinde; güneş koruması önerilir.",
+          "Kirchberg'e yürüyüş kısa ama sürekli olarak tırmanış içerir.",
+          "En iyi park yeri Griesel otoparkındadır."
         ]
       }
     },
@@ -315,7 +333,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             49.6813,
@@ -330,7 +349,8 @@
             "de": "Perfekter Startpunkt.",
             "hu": "Tökéletes kiindulópont.",
             "ro": "Punct de plecare ideal.",
-            "en": "Perfect starting point."
+            "en": "Perfect starting point.",
+            "tr": "Mükemmel başlangıç noktası."
           }
         },
         {
@@ -338,7 +358,8 @@
             "de": "Roter Turm",
             "hu": "Vörös torony",
             "ro": "Turnul Roșu",
-            "en": "Red Tower"
+            "en": "Red Tower",
+            "tr": "Kızıl Kule"
           },
           "coords": [
             49.6802,
@@ -353,7 +374,8 @@
             "de": "Kurzer Fotostopp.",
             "hu": "Rövid fotómegálló.",
             "ro": "Scurt popas foto.",
-            "en": "Quick photo stop."
+            "en": "Quick photo stop.",
+            "tr": "Hızlı fotoğraf molası."
           }
         },
         {
@@ -361,7 +383,8 @@
             "de": "Staatspark Fürstenlager",
             "hu": "Fürstenlager Állami Park",
             "ro": "Parcul Statului Fürstenlager",
-            "en": "Staatspark Fürstenlager"
+            "en": "Staatspark Fürstenlager",
+            "tr": "Staatspark Fürstenlager"
           },
           "coords": [
             49.704,
@@ -376,7 +399,8 @@
             "de": "Englischer Landschaftspark.",
             "hu": "Angol tájképi kert.",
             "ro": "Parc peisagistic englez.",
-            "en": "English landscape park."
+            "en": "English landscape park.",
+            "tr": "İngiliz peyzaj parkı."
           }
         },
         {
@@ -384,7 +408,8 @@
             "de": "Dalberger Hof",
             "hu": "Dalberger-udvar",
             "ro": "Curtea Dalberger",
-            "en": "Dalberger Hof"
+            "en": "Dalberger Hof",
+            "tr": "Dalberger Hof"
           },
           "coords": [
             49.6815,
@@ -399,7 +424,8 @@
             "de": "Historisches Ambiente.",
             "hu": "Történelmi hangulat.",
             "ro": "Ambiantă istorică.",
-            "en": "Historical ambiance."
+            "en": "Historical ambiance.",
+            "tr": "Tarihi atmosfer."
           }
         },
         {
@@ -407,7 +433,8 @@
             "de": "Wambolter Hof",
             "hu": "Wambolter-udvar",
             "ro": "Curtea Wambolter",
-            "en": "Wambolter Hof"
+            "en": "Wambolter Hof",
+            "tr": "Wambolter Hof"
           },
           "coords": [
             49.682,
@@ -422,7 +449,8 @@
             "de": "Prachtbau der Renaissance.",
             "hu": "Reneszánsz épület.",
             "ro": "Clădire renascentistă.",
-            "en": "Renaissance building."
+            "en": "Renaissance building.",
+            "tr": "Rönesans yapısı."
           }
         },
         {
@@ -430,7 +458,8 @@
             "de": "Kirchberghäuschen",
             "hu": "Kirchberg-házikó",
             "ro": "Căsuța de pe Kirchberg",
-            "en": "Kirchberghäuschen"
+            "en": "Kirchberghäuschen",
+            "tr": "Kirchberghäuschen"
           },
           "coords": [
             49.6853,
@@ -445,7 +474,8 @@
             "de": "Anstrengung lohnt sich.",
             "hu": "Megéri a fáradtságot.",
             "ro": "Merită efortul.",
-            "en": "Worth the effort."
+            "en": "Worth the effort.",
+            "tr": "Çabaya değer."
           }
         }
       ],
@@ -453,7 +483,8 @@
         "de": "Diese Radtour kombiniert Stadtgeschichte mit herrlicher Natur. Nach dem Start in der Altstadt radeln wir in den Norden zum Staatspark Fürstenlager, einer weitläufigen Parkanlage. Mittags kehren wir zurück zu den historischen Höfen von Bensheim. Der krönende Abschluss ist die Fahrt hinauf zum Kirchberg, die etwas Kondition erfordert, aber mit einer grandiosen Aussicht belohnt wird.",
         "hu": "Ez a kerékpártúra ötvözi a várostörténetet a lenyűgöző természettel. Az óvárosi rajt után északra tekerünk a Fürstenlager Állami Parkba. Délben visszatérünk Bensheim történelmi nemesi udvarházaihoz. A nap fénypontja a Kirchbergre való feltekerés, ami bár igényel némi kondíciót, de a pazar kilátás kárpótol minden fáradozásért.",
         "ro": "Acest tur cu bicicleta îmbină istoria orașului cu natura splendidă. După pornirea din centrul vechi, pedalăm spre nord către Parcul Fürstenlager, o zonă vastă de relaxare. La prânz revenim la curțile istorice din Bensheim. Finalul perfect este urcarea pe Kirchberg, care necesită puțină condiție fizică, dar răsplătește cu o vedere panoramică superbă.",
-        "en": "This cycling tour combines city history with stunning nature. After starting in the old town, we ride north to Staatspark Fürstenlager, an expansive parkland. At midday, we return to Bensheim's historic noble courts. The highlight is the climb up to Kirchberg, which requires some stamina but rewards you with a magnificent panoramic view."
+        "en": "This cycling tour combines city history with stunning nature. After starting in the old town, we ride north to Staatspark Fürstenlager, an expansive parkland. At midday, we return to Bensheim's historic noble courts. The highlight is the climb up to Kirchberg, which requires some stamina but rewards you with a magnificent panoramic view.",
+        "tr": "Bu bisiklet turu şehir tarihini muhteşem doğayla birleştirir. Eski şehirde başladıktan sonra kuzeye, geniş bir park alanı olan Staatspark Fürstenlager’a sürüyoruz. Öğle vakti Bensheim’in tarihî soylu konaklarına geri dönüyoruz. Zirve, bazı dayanıklılık gerektiren Kirchberg tırmanışıdır; ancak muhteşem bir panoramik manzara ile ödüllendirir."
       },
       "gastro_picks": {
         "de": [
@@ -557,6 +588,11 @@
           "Use 'The Bergstraße' cycle path.",
           "Good brakes are essential for the Kirchberg descent.",
           "Please be considerate of pedestrians in Fürstenlager."
+        ],
+        "tr": [
+          "'The Bergstraße' bisiklet yolunu kullanın.",
+          "Kirchberg inişi için iyi frenler şart.",
+          "Fürstenlager’da yayalara karşı saygılı olun."
         ]
       }
     },
@@ -573,7 +609,8 @@
             "de": "Altstadt Parkplatz Griesel",
             "hu": "Griesel parkoló (Óváros)",
             "ro": "Parcare Centrul Vechi Griesel",
-            "en": "Old Town Parking Griesel"
+            "en": "Old Town Parking Griesel",
+            "tr": "Eski Şehir Otoparkı Griesel"
           },
           "coords": [
             49.6835,
@@ -588,7 +625,8 @@
             "de": "Zentraler Parkplatz.",
             "hu": "Központi parkoló.",
             "ro": "Parcare centrală.",
-            "en": "Central parking."
+            "en": "Central parking.",
+            "tr": "Merkezi otopark."
           }
         },
         {
@@ -596,7 +634,8 @@
             "de": "Marktplatz (Cluster A)",
             "hu": "Piactér (A csoport)",
             "ro": "Piața Centrală (Cluster A)",
-            "en": "Market Square (Cluster A)"
+            "en": "Market Square (Cluster A)",
+            "tr": "Pazar Meydanı (Küme A)"
           },
           "coords": [
             49.6813,
@@ -611,7 +650,8 @@
             "de": "Zu Fuß vom Parkplatz.",
             "hu": "Gyalog a parkolótól.",
             "ro": "Pe jos de la parcare.",
-            "en": "On foot from parking."
+            "en": "On foot from parking.",
+            "tr": "Otoparktan yürüme mesafesinde."
           }
         },
         {
@@ -619,7 +659,8 @@
             "de": "St. Georg Kirche (Cluster A)",
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
-            "en": "St. George Church"
+            "en": "St. George Church",
+            "tr": "Aziz George Kilisesi"
           },
           "coords": [
             49.6819,
@@ -634,7 +675,8 @@
             "de": "Kurzer Fußweg.",
             "hu": "Rövid séta.",
             "ro": "Scurtă plimbare.",
-            "en": "Short walk."
+            "en": "Short walk.",
+            "tr": "Kısa yürüyüş."
           }
         },
         {
@@ -642,7 +684,8 @@
             "de": "Staatspark Fürstenlager (Cluster B)",
             "hu": "Fürstenlager Állami Park",
             "ro": "Parcul Fürstenlager",
-            "en": "Staatspark Fürstenlager"
+            "en": "Staatspark Fürstenlager",
+            "tr": "Staatspark Fürstenlager"
           },
           "coords": [
             49.704,
@@ -657,7 +700,8 @@
             "de": "Parken am Parkeingang.",
             "hu": "Parkolás a bejáratnál.",
             "ro": "Parcare la intrare.",
-            "en": "Parking at entrance."
+            "en": "Parking at entrance.",
+            "tr": "Girişte otopark."
           }
         },
         {
@@ -665,7 +709,8 @@
             "de": "Wambolter Hof",
             "hu": "Wambolter-udvar",
             "ro": "Curtea Wambolter",
-            "en": "Wambolter Hof"
+            "en": "Wambolter Hof",
+            "tr": "Wambolter Hof"
           },
           "coords": [
             49.682,
@@ -680,7 +725,8 @@
             "de": "Zurück in der Stadt.",
             "hu": "Vissza a városba.",
             "ro": "Înapoi în oraș.",
-            "en": "Back in town."
+            "en": "Back in town.",
+            "tr": "Şehir merkezine dönüş."
           }
         },
         {
@@ -688,7 +734,8 @@
             "de": "Roter Turm",
             "hu": "Vörös torony",
             "ro": "Turnul Roșu",
-            "en": "Red Tower"
+            "en": "Red Tower",
+            "tr": "Kızıl Kule"
           },
           "coords": [
             49.6802,
@@ -703,7 +750,8 @@
             "de": "Ehem. Festungsturm.",
             "hu": "Egykori vártorony.",
             "ro": "Fost turn de cetate.",
-            "en": "Former fortress tower."
+            "en": "Former fortress tower.",
+            "tr": "Eski bir kale kulesi."
           }
         },
         {
@@ -711,7 +759,8 @@
             "de": "Kirchberghäuschen",
             "hu": "Kirchberg-házikó",
             "ro": "Căsuța de pe Kirchberg",
-            "en": "Kirchberghäuschen"
+            "en": "Kirchberghäuschen",
+            "tr": "Kirchberghäuschen"
           },
           "coords": [
             49.6853,
@@ -726,7 +775,8 @@
             "de": "Parkplatz unterhalb.",
             "hu": "Lenti parkoló.",
             "ro": "Parcare mai jos.",
-            "en": "Parking below."
+            "en": "Parking below.",
+            "tr": "Aşağıda otopark."
           }
         }
       ],
@@ -734,7 +784,8 @@
         "de": "Mit dem Auto verbinden wir die Highlights von Bensheim und dem Stadtteil Auerbach. Zuerst erkunden wir das Zentrum zu Fuß. Dann fahren wir nach Auerbach zum Staatspark Fürstenlager, um die weitläufige Parkanlage zu genießen. Den Abschluss bildet die kurze Fahrt zum Kirchberg, von wo aus wir einen fantastischen Blick über das Rheintal bis zum Odenwald haben.",
         "hu": "Autóval kényelmesen összekötjük Bensheim és Auerbach városrész látnivalóit. Előbb gyalogosan fedezzük fel a központot. Ezután Auerbachba hajtunk a Fürstenlager Állami Parkhoz. A napot a Kirchbergnél zárjuk, ahonnan fantasztikus kilátás nyílik a Rajna-völgytől egészen az Odenwald hegységig.",
         "ro": "Cu mașina legăm atracțiile principale din Bensheim și cartierul Auerbach. Întâi explorăm centrul pe jos. Apoi conducem spre Auerbach la Parcul Fürstenlager pentru a ne bucura de zona verde vastă. Încheiem cu o scurtă deplasare spre Kirchberg, de unde avem o vedere panoramică superbă peste valea Rinului până la Odenwald.",
-        "en": "By car, we combine the highlights of Bensheim and the Auerbach district. We start by exploring the center on foot. Then, we drive to Auerbach for the Staatspark Fürstenlager to enjoy the expansive parklands. The day ends with a short drive to the Kirchberg parking, offering a fantastic view from the Rhine valley to the Odenwald mountains."
+        "en": "By car, we combine the highlights of Bensheim and the Auerbach district. We start by exploring the center on foot. Then, we drive to Auerbach for the Staatspark Fürstenlager to enjoy the expansive parklands. The day ends with a short drive to the Kirchberg parking, offering a fantastic view from the Rhine valley to the Odenwald mountains.",
+        "tr": "Arabayla, Bensheim ve Auerbach bölgesinin öne çıkanlarını birleştiriyoruz. Merkezi yürüyerek keşfetmeyle başlıyoruz. Ardından Staatspark Fürstenlager için Auerbach’a sürüyoruz ve geniş park alanlarının keyfini çıkarıyoruz. Gün, Rhine vadisinden Odenwald dağlarına uzanan muhteşem manzara sunan Kirchberg otoparkına kısa bir sürüşle sona eriyor."
       },
       "gastro_picks": {
         "de": [
@@ -838,6 +889,11 @@
           "Finding street parking in the old town can be tricky.",
           "Use the Griesel or Neumarkt parking garages.",
           "Drive carefully through the narrow streets of Auerbach."
+        ],
+        "tr": [
+          "Eski şehirde sokak üzerinde park yeri bulmak zor olabilir.",
+          "Griesel veya Neumarkt otopark yapılarını kullanın.",
+          "Auerbach’ın dar sokaklarında dikkatli sürün."
         ]
       }
     },
@@ -854,7 +910,8 @@
             "de": "Bensheim Bahnhof / Marktplatz",
             "hu": "Bensheim vasútállomás / Piactér",
             "ro": "Gara Bensheim / Piața Centrală",
-            "en": "Bensheim Station / Market Square"
+            "en": "Bensheim Station / Market Square",
+            "tr": "Bensheim İstasyonu / Pazar Meydanı"
           },
           "coords": [
             49.6813,
@@ -869,7 +926,8 @@
             "de": "Knotenpunkt aller Busse.",
             "hu": "Buszjáratok csomópontja.",
             "ro": "Nod principal pentru autobuze.",
-            "en": "Hub for all local buses."
+            "en": "Hub for all local buses.",
+            "tr": "Tüm yerel otobüsler için merkez."
           }
         },
         {
@@ -877,7 +935,8 @@
             "de": "St. Georg Kirche",
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
-            "en": "St. George Church"
+            "en": "St. George Church",
+            "tr": "Aziz George Kilisesi"
           },
           "coords": [
             49.6819,
@@ -892,7 +951,8 @@
             "de": "Fußläufig erreichbar.",
             "hu": "Gyalogosan elérhető.",
             "ro": "Accesibil pe jos.",
-            "en": "Within walking distance."
+            "en": "Within walking distance.",
+            "tr": "Yürüme mesafesinde."
           }
         },
         {
@@ -900,7 +960,8 @@
             "de": "Staatspark Fürstenlager",
             "hu": "Fürstenlager Állami Park",
             "ro": "Parcul Fürstenlager",
-            "en": "Staatspark Fürstenlager"
+            "en": "Staatspark Fürstenlager",
+            "tr": "Staatspark Fürstenlager"
           },
           "coords": [
             49.704,
@@ -915,7 +976,8 @@
             "de": "Buslinie 669 nach Auerbach.",
             "hu": "669-es busz Auerbach felé.",
             "ro": "Autobuzul 669 spre Auerbach.",
-            "en": "Bus 669 towards Auerbach."
+            "en": "Bus 669 towards Auerbach.",
+            "tr": "Auerbach yönüne giden 669 numaralı otobüs."
           }
         },
         {
@@ -923,7 +985,8 @@
             "de": "Roter Turm",
             "hu": "Vörös torony",
             "ro": "Turnul Roșu",
-            "en": "Red Tower"
+            "en": "Red Tower",
+            "tr": "Kızıl Kule"
           },
           "coords": [
             49.6802,
@@ -938,7 +1001,8 @@
             "de": "Zurück mit dem Bus.",
             "hu": "Vissza busszal.",
             "ro": "Înapoi cu autobuzul.",
-            "en": "Back by bus."
+            "en": "Back by bus.",
+            "tr": "Otobüsle dönüş."
           }
         },
         {
@@ -946,7 +1010,8 @@
             "de": "Kirchberghäuschen",
             "hu": "Kirchberg-házikó",
             "ro": "Căsuța de pe Kirchberg",
-            "en": "Kirchberghäuschen"
+            "en": "Kirchberghäuschen",
+            "tr": "Kirchberghäuschen"
           },
           "coords": [
             49.6853,
@@ -961,7 +1026,8 @@
             "de": "Kurze Wanderung am Ende.",
             "hu": "Rövid túra a végén.",
             "ro": "Scurtă drumeție la final.",
-            "en": "Short hike at the end."
+            "en": "Short hike at the end.",
+            "tr": "Günün sonunda kısa bir yürüyüş."
           }
         }
       ],
@@ -969,7 +1035,8 @@
         "de": "Bensheim lässt sich hervorragend mit Bus und Bahn erkunden. Vom Bahnhof starten wir in die Altstadt. Mit dem Bus 669 gelangen wir bequem nach Auerbach zum Staatspark Fürstenlager. Mittags kehren wir ins Zentrum zurück, um den geschichtsträchtigen Roten Turm zu sehen. Den Tag beenden wir mit einem Spaziergang hinauf zum Kirchberg, dem Wahrzeichen der Stadt.",
         "hu": "Bensheim kiválóan felfedezhető busszal és vonattal. Az állomástól indulunk az óvárosba. A 669-es busszal kényelmesen eljutunk Auerbachba, a Fürstenlager Állami Parkhoz. Délben visszatérünk a központba a történelmi Vörös toronyhoz. A napot egy sétával zárjuk a város jelképéhez, a Kirchberg-házikóhoz.",
         "ro": "Bensheim poate fi explorat excelent cu autobuzul și trenul. De la gară pornim spre centrul vechi. Cu autobuzul 669 ajungem confortabil în Auerbach la Parcul Fürstenlager. La prânz revenim în centru pentru a vedea Turnul Roșu istoric. Încheiem ziua cu o plimbare spre Kirchberghäuschen, simbolul orașului.",
-        "en": "Bensheim is easily explored by bus and train. From the station, we start in the old town. Bus line 669 takes us comfortably to Auerbach for the Staatspark Fürstenlager. At midday, we return to the center to see the historic Red Tower. We conclude the day with a walk up to the Kirchberg, the city's iconic landmark."
+        "en": "Bensheim is easily explored by bus and train. From the station, we start in the old town. Bus line 669 takes us comfortably to Auerbach for the Staatspark Fürstenlager. At midday, we return to the center to see the historic Red Tower. We conclude the day with a walk up to the Kirchberg, the city's iconic landmark.",
+        "tr": "Bensheim otobüs ve trenle kolayca gezilebilir. İstasyondan eski şehirde başlıyoruz. 669 numaralı otobüs bizi rahatça Staatspark Fürstenlager’a götürür. Öğle vakti merkeze dönüp tarihî Kızıl Kule’yi görüyoruz. Günü, şehrin simgesi olan Kirchberg’e yürüyüşle sonlandırıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -1073,6 +1140,11 @@
           "Download the VRN ticket app.",
           "Buses usually run every 20-30 minutes.",
           "The 'Tages-Karte' (day ticket) is great for groups."
+        ],
+        "tr": [
+          "VRN bilet uygulamasını indirin.",
+          "Otobüsler genellikle 20–30 dakikada bir çalışır.",
+          "'Tages-Karte' (günlük bilet) gruplar için idealdir."
         ]
       }
     }

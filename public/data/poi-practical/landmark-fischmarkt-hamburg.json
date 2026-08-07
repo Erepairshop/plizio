@@ -3,55 +3,64 @@
     "de": "Große Elbstraße 9, 22767 Hamburg",
     "hu": "Große Elbstraße 9, 22767 Hamburg",
     "ro": "Große Elbstraße 9, 22767 Hamburg",
-    "en": "Große Elbstraße 9, 22767 Hamburg"
+    "en": "Große Elbstraße 9, 22767 Hamburg",
+    "tr": "Große Elbstraße 9, 22767 Hamburg"
   },
   "openingHours": {
     "de": "So 05:00-09:30 (Sommer), So 07:00-09:30 (Winter)",
     "hu": "V 05:00-09:30 (nyár), V 07:00-09:30 (tél)",
     "ro": "Dum 05:00-09:30 (vară), Dum 07:00-09:30 (iarnă)",
-    "en": "Sun 05:00-09:30 (summer), Sun 07:00-09:30 (winter)"
+    "en": "Sun 05:00-09:30 (summer), Sun 07:00-09:30 (winter)",
+    "tr": "Pazar 05:00-09:30 (yaz), Pazar 07:00-09:30 (kış)"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.hamburg.de/fischmarkt/",
   "publicTransport": {
     "de": "S1/S3 bis Reeperbahn oder Fähre 62 bis Fischmarkt",
     "hu": "S1/S3 Reeperbahnig vagy 62-es komp Fischmarktig",
     "ro": "S1/S3 până la Reeperbahn sau feribotul 62 până la Fischmarkt",
-    "en": "S1/S3 to Reeperbahn or ferry 62 to Fischmarkt"
+    "en": "S1/S3 to Reeperbahn or ferry 62 to Fischmarkt",
+    "tr": "S1/S3 ile Reeperbahn veya 62 numaralı vapur ile Fischmarkt"
   },
   "parking": {
     "de": "Kaum Möglichkeiten am Sonntag, besser Parkhäuser Reeperbahn nutzen",
     "hu": "Vasárnap alig van lehetőség, jobb a Reeperbahn parkolóházait használni",
     "ro": "Puține posibilități duminica, mai bine utilizați parcările din Reeperbahn",
-    "en": "Hardly any possibilities on Sunday, better to use Reeperbahn parking garages"
+    "en": "Hardly any possibilities on Sunday, better to use Reeperbahn parking garages",
+    "tr": "Pazar günü neredeyse hiç imkan yok, Reeperbahn otoparklarını kullanmak daha iyi"
   },
   "accessibility": {
     "de": "Ebenerdiges Gelände, bei hohem Andrang für Rollstuhlfahrer jedoch schwierig zu navigieren",
     "hu": "Síkszintű terület, nagy tömeg esetén kerekesszékkel nehezen navigálható",
     "ro": "Teren plan, totuși dificil de navigat pentru utilizatorii de scaune cu rotile în caz de aglomerație mare",
-    "en": "Ground-level site, but difficult to navigate for wheelchair users when crowded"
+    "en": "Ground-level site, but difficult to navigate for wheelchair users when crowded",
+    "tr": "Zemin seviyesinde yer alır, ancak kalabalık olduğunda tekerlekli sandalye kullanıcıları için zor"
   },
   "photoRules": {
     "de": "Fotografieren erlaubt, Marktschreier lassen sich oft gerne ablichten",
     "hu": "Fotózás engedélyezett, az árusok gyakran szívesen pózolnak",
     "ro": "Fotografierea permisă, comercianții se lasă adesea fotografiați cu plăcere",
-    "en": "Photography allowed, market criers are often happy to be photographed"
+    "en": "Photography allowed, market criers are often happy to be photographed",
+    "tr": "Fotoğraf çekmek serbest, pazarcı bağırıcılar sıklıkla fotoğraf çektirmeyi severler"
   },
   "bestTimeToVisit": {
     "de": "06:00 Uhr morgens für die authentischste Atmosphäre und die besten Marktschreier",
     "hu": "Reggel 6:00-kor a leghitelesebb hangulatért és a legjobb árusokért",
     "ro": "06:00 dimineața pentru cea mai autentică atmosferă și cei mai buni comercianți",
-    "en": "6:00 am for the most authentic atmosphere and best market criers"
+    "en": "6:00 am for the most authentic atmosphere and best market criers",
+    "tr": "En otantik atmosfer ve en iyi pazarcı bağırıcılar için sabah 06:00"
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

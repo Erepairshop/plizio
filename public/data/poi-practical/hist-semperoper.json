@@ -3,55 +3,64 @@
     "de": "Theaterplatz 2, 01067 Dresden",
     "hu": "Theaterplatz 2, 01067 Dresden",
     "ro": "Theaterplatz 2, 01067 Dresden",
-    "en": "Theaterplatz 2, 01067 Dresden"
+    "en": "Theaterplatz 2, 01067 Dresden",
+    "tr": "Theaterplatz 2, 01067 Dresden"
   },
   "openingHours": {
     "de": "Besichtigungen nur im Rahmen von Führungen (Zeiten variieren)",
     "hu": "Látogatás csak vezetés keretében (időpontok változóak)",
     "ro": "Vizite doar în cadrul tururilor ghidate (orele variază)",
-    "en": "Visits only as part of guided tours (times vary)"
+    "en": "Visits only as part of guided tours (times vary)",
+    "tr": "Ziyaretler yalnızca rehberli turlar kapsamında (saatler değişir)"
   },
   "entranceFee": {
     "de": "Führung ca. 13 € Erwachsene, Ermäßigt 8 €",
     "hu": "Vezetés kb. 13 € felnőtt, kedvezményes 8 €",
     "ro": "Tur ghidat aprox. 13 € adulți, 8 € redus",
-    "en": "Guided tour approx. 13 € adults, 8 € reduced"
+    "en": "Guided tour approx. 13 € adults, 8 € reduced",
+    "tr": "Rehberli tur yaklaşık 13 € yetişkin, 8 € indirimli"
   },
   "website": "https://www.semperoper-erleben.de",
   "publicTransport": {
     "de": "Straßenbahn 4, 8, 9 (Theaterplatz)",
     "hu": "4-es, 8-as, 9-es villamos (Theaterplatz)",
     "ro": "Tramvaiul 4, 8, 9 (Theaterplatz)",
-    "en": "Tram 4, 8, 9 (Theaterplatz)"
+    "en": "Tram 4, 8, 9 (Theaterplatz)",
+    "tr": "Tramvay 4, 8, 9 (Theaterplatz)"
   },
   "parking": {
     "de": "Tiefgarage unter dem Theaterplatz, ca. 2 €/Std.",
     "hu": "Mélygarázs a Theaterplatz alatt, kb. 2 €/óra",
     "ro": "Parcare subterană sub Theaterplatz, aprox. 2 €/oră",
-    "en": "Underground parking under Theaterplatz, approx. 2 €/hr"
+    "en": "Underground parking under Theaterplatz, approx. 2 €/hr",
+    "tr": "Theaterplatz altında otopark, yaklaşık 2 €/saat"
   },
   "accessibility": {
     "de": "Barrierefrei über Aufzüge erreichbar.",
     "hu": "Liftekkel akadálymentesen megközelíthető.",
     "ro": "Accesibil persoanelor cu dizabilități prin lifturi.",
-    "en": "Barrier-free access via elevators."
+    "en": "Barrier-free access via elevators.",
+    "tr": "Asansörler ile engelli erişimi mevcut."
   },
   "photoRules": {
     "de": "In der Regel nur ohne Blitz für den privaten Gebrauch gestattet.",
     "hu": "Általában csak vaku nélkül, magáncélra engedélyezett.",
     "ro": "De regulă, permis doar fără bliț pentru uz privat.",
-    "en": "Usually only allowed without flash for private use."
+    "en": "Usually only allowed without flash for private use.",
+    "tr": "Genellikle özel kullanım için yalnızca flaşsız izin verilir."
   },
   "bestTimeToVisit": {
     "de": "Vormittags für Führungen, abends für Vorstellungen.",
     "hu": "Délelőtt vezetésekre, este előadásokra.",
     "ro": "Dimineața pentru tururi ghidate, seara pentru spectacole.",
-    "en": "In the morning for tours, in the evening for performances."
+    "en": "In the morning for tours, in the evening for performances.",
+    "tr": "Turlar için sabah, gösteriler için akşam."
   },
   "audioGuide": {
     "de": "nein (Führungen in DE/EN/FR)",
     "hu": "nincs (vezetett túrák)",
     "ro": "nu (tururi ghidate)",
-    "en": "no (guided tours)"
+    "en": "no (guided tours)",
+    "tr": "hayır (rehberli turlar)"
   }
 }

@@ -3,55 +3,64 @@
     "de": "Burg Hohenzollern, 72379 Burg Hohenzollern",
     "hu": "Burg Hohenzollern, 72379 Burg Hohenzollern",
     "ro": "Burg Hohenzollern, 72379 Burg Hohenzollern",
-    "en": "Burg Hohenzollern, 72379 Burg Hohenzollern"
+    "en": "Burg Hohenzollern, 72379 Burg Hohenzollern",
+    "tr": "Burg Hohenzollern, 72379 Burg Hohenzollern"
   },
   "openingHours": {
     "de": "Täglich 10:00-18:00",
     "hu": "Naponta 10:00-18:00",
     "ro": "Zilnic 10:00-18:00",
-    "en": "Daily 10:00-18:00"
+    "en": "Daily 10:00-18:00",
+    "tr": "Günlük 10:00-18:00"
   },
   "entranceFee": {
     "de": "Erwachsene ca. 22,00 € (nur Online-Tickets!)",
     "hu": "Felnőtt kb. 22,00 € (csak online jegyek!)",
     "ro": "Adulți aprox. 22,00 € (doar bilete online!)",
-    "en": "Adults approx. €22.00 (online tickets only!)"
+    "en": "Adults approx. €22.00 (online tickets only!)",
+    "tr": "Yetişkinler yaklaşık €22,00 (sadece online bilet!)"
   },
   "website": "https://www.burg-hohenzollern.com",
   "publicTransport": {
     "de": "Bahn bis Hechingen, dann Shuttle-Bus (Linie 300) direkt zur Burg",
     "hu": "Vonat Hechingenig, majd transzferbusz (300-as vonal) közvetlenül a várhoz",
     "ro": "Tren până la Hechingen, apoi autobuz de transfer (linia 300) direct la castel",
-    "en": "Train to Hechingen, then shuttle bus (line 300) directly to the castle"
+    "en": "Train to Hechingen, then shuttle bus (line 300) directly to the castle",
+    "tr": "Hechingen’e tren, sonra şatoya direkt servis otobüsü (300 hattı)"
   },
   "parking": {
     "de": "Besucherparkplatz unterhalb der Burg, ca. 4,00 €, dann Pendelbus nutzen",
     "hu": "Látogatói parkoló a vár alatt, kb. 4,00 €, majd használd a transzferbuszt",
     "ro": "Parcare pentru vizitatori sub castel, aprox. 4,00 €, apoi folosiți autobuzul de transfer",
-    "en": "Visitor parking below the castle, approx. €4.00, then use shuttle bus"
+    "en": "Visitor parking below the castle, approx. €4.00, then use shuttle bus",
+    "tr": "Şato aşağısında ziyaretçi otoparkı, yaklaşık €4,00, sonra servis otobüsünü kullanın"
   },
   "accessibility": {
     "de": "Shuttle-Bus ist barrierefrei, Burghof ebenerdig, einige Räume nur über Stufen",
     "hu": "A transzferbusz akadálymentes, a várudvar sík, néhány szoba csak lépcsőn érhető el",
     "ro": "Autobuzul de transfer este accesibil, curtea castelului la nivelul solului, unele camere doar prin trepte",
-    "en": "Shuttle bus is barrier-free, castle courtyard level, some rooms only via steps"
+    "en": "Shuttle bus is barrier-free, castle courtyard level, some rooms only via steps",
+    "tr": "Servis otobüsü engelli erişimine uygun, şato avlu seviyesinde, bazı odalar yalnızca basamakla ulaşılabilir"
   },
   "photoRules": {
     "de": "Fotografieren in den Schauräumen untersagt, im Außenbereich erlaubt",
     "hu": "A bemutatótermekben a fotózás tilos, a külső területen engedélyezett",
     "ro": "Fotografierea interzisă în sălile de expoziție, permisă în exterior",
-    "en": "Photography prohibited in the exhibition rooms, allowed in the outdoor area"
+    "en": "Photography prohibited in the exhibition rooms, allowed in the outdoor area",
+    "tr": "Sergi odalarında fotoğraf çekmek yasak, dış alanda izinli"
   },
   "bestTimeToVisit": {
     "de": "Bei klarem Wetter oder über der Nebeldecke für spektakuläre Fernsicht",
     "hu": "Tiszta időben vagy a ködtakaró felett a látványos távoli kilátásért",
     "ro": "Pe vreme senină sau deasupra stratului de ceață pentru o vedere panoramică spectaculoasă",
-    "en": "In clear weather or above the fog layer for spectacular distant views"
+    "en": "In clear weather or above the fog layer for spectacular distant views",
+    "tr": "Açık havalarda veya sis tabakasının üzerinde muhteşem uzak manzaralar için"
   },
   "audioGuide": {
     "de": "ja, über die Burg-App auf dem eigenen Smartphone",
     "hu": "igen, a vár-alkalmazáson keresztül a saját okostelefonon",
     "ro": "da, prin aplicația castelului pe propriul smartphone",
-    "en": "yes, via the castle app on your own smartphone"
+    "en": "yes, via the castle app on your own smartphone",
+    "tr": "Evet, şato uygulaması üzerinden kendi akıllı telefonunuzla"
   }
 }

@@ -3,55 +3,64 @@
     "de": "Rathausplatz 1, 86150 Augsburg",
     "hu": "Rathausplatz 1, 86150 Augsburg",
     "ro": "Rathausplatz 1, 86150 Augsburg",
-    "en": "Rathausplatz 1, 86150 Augsburg"
+    "en": "Rathausplatz 1, 86150 Augsburg",
+    "tr": "Rathausplatz 1, 86150 Augsburg"
   },
   "openingHours": {
     "de": "Täglich 10:00-18:00 (Goldener Saal)",
     "hu": "Naponta 10:00–18:00 (Aranyterem)",
     "ro": "Zilnic 10:00-18:00 (Sala de Aur)",
-    "en": "Daily 10:00-18:00 (Golden Hall)"
+    "en": "Daily 10:00-18:00 (Golden Hall)",
+    "tr": "Günlük 10:00-18:00 (Altın Salon)"
   },
   "entranceFee": {
     "de": "€2.50 Erwachsene (Goldener Saal)",
     "hu": "Felnőtt 2,50 € (Aranyterem)",
     "ro": "2,50 € adulți (Sala de Aur)",
-    "en": "€2.50 adults (Golden Hall)"
+    "en": "€2.50 adults (Golden Hall)",
+    "tr": "€2,50 yetişkinler (Altın Salon)"
   },
   "website": "https://www.augsburg.de/kultur/sehenswuerdigkeiten/rathaus",
   "publicTransport": {
     "de": "Straßenbahn 1, 2 bis 'Rathausplatz'",
     "hu": "1-es vagy 2-es villamos Rathausplatz megállóig",
     "ro": "Tramvaiul 1, 2 până la stația „Rathausplatz”",
-    "en": "Tram 1, 2 to 'Rathausplatz' stop"
+    "en": "Tram 1, 2 to 'Rathausplatz' stop",
+    "tr": "Tramvay 1, 2 ile 'Rathausplatz' durağı"
   },
   "parking": {
     "de": "Parkhaus Ludwigstraße, ca. 300m entfernt",
     "hu": "Ludwigstraße parkolóház, kb. 300 m távolságra",
     "ro": "Parcarea Ludwigstraße, la aprox. 300 m distanță",
-    "en": "Ludwigstraße parking garage, approx. 300m away"
+    "en": "Ludwigstraße parking garage, approx. 300m away",
+    "tr": "Ludwigstraße otopark garajı, yaklaşık 300 m uzaklıkta"
   },
   "accessibility": {
     "de": "Barrierefrei über Aufzug erreichbar",
     "hu": "Lifttel akadálymentesen megközelíthető",
     "ro": "Accesibil prin lift",
-    "en": "Accessible via elevator"
+    "en": "Accessible via elevator",
+    "tr": "Asansör ile erişilebilir"
   },
   "photoRules": {
     "de": "Erlaubt für private Zwecke",
     "hu": "Magáncélra engedélyezett",
     "ro": "Permis în scopuri private",
-    "en": "Allowed for private purposes"
+    "en": "Allowed for private purposes",
+    "tr": "Özel amaçlar için izinli"
   },
   "bestTimeToVisit": {
     "de": "Vormittags bei Sonnenschein für den besten Glanz im Goldenen Saal",
     "hu": "Délelőtt napsütésben, az Aranyterem csillogásának megtekintéséhez",
     "ro": "Dimineața în zilele însorite pentru strălucirea maximă a Sălii de Aur",
-    "en": "Mornings on sunny days for the best shine in the Golden Hall"
+    "en": "Mornings on sunny days for the best shine in the Golden Hall",
+    "tr": "Altın Salonun en iyi parlaklığı için güneşli günlerde sabahlar"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

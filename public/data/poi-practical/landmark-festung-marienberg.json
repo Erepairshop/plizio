@@ -3,55 +3,64 @@
     "de": "Marienberg, 97012 Würzburg",
     "hu": "Marienberg, 97012 Würzburg",
     "ro": "Marienberg, 97012 Würzburg",
-    "en": "Marienberg, 97012 Würzburg"
+    "en": "Marienberg, 97012 Würzburg",
+    "tr": "Marienberg, 97012 Würzburg"
   },
   "openingHours": {
     "de": "Burghöfe 24/7, Museum Di-So 10:00-17:00",
     "hu": "Várudvarok 24/7, Múzeum K-V 10:00-17:00",
     "ro": "Curțile cetății 24/7, Muzeu Mar-Dum 10:00-17:00",
-    "en": "Castle courtyards 24/7, Museum Tue-Sun 10:00-17:00"
+    "en": "Castle courtyards 24/7, Museum Tue-Sun 10:00-17:00",
+    "tr": "Şato avluları 24/7, Müze Sal-Paz 10:00-17:00"
   },
   "entranceFee": {
     "de": "Außengelände kostenlos, Museum ca. 5,00 €",
     "hu": "Külső terület ingyenes, Múzeum kb. 5,00 €",
     "ro": "Zona exterioară gratuită, Muzeu aprox. 5,00 €",
-    "en": "Outdoor area free, Museum approx. €5.00"
+    "en": "Outdoor area free, Museum approx. €5.00",
+    "tr": "Açık alan ücretsiz, Müze yaklaşık €5,00"
   },
   "website": "https://www.schloesser.bayern.de",
   "publicTransport": {
     "de": "Buslinie 9 (Kulturlinie) ab Residenz bis zur Festung",
     "hu": "9-es buszjárat (Kulturlinie) a Residenztől a várig",
     "ro": "Linia de autobuz 9 (Kulturlinie) de la Rezidență până la cetate",
-    "en": "Bus line 9 (Kulturlinie) from Residenz to the fortress"
+    "en": "Bus line 9 (Kulturlinie) from Residenz to the fortress",
+    "tr": "Residenz’den kaleye giden 9 numaralı (Kulturlinie) otobüs"
   },
   "parking": {
     "de": "Parkplatz direkt vor dem Haupttor, ca. 3,00 € Tagesgebühr",
     "hu": "Parkoló közvetlenül a főkapu előtt, kb. 3,00 € napidíj",
     "ro": "Parcare direct în fața porții principale, taxă zilnică aprox. 3,00 €",
-    "en": "Parking lot directly in front of the main gate, approx. €3.00 daily fee"
+    "en": "Parking lot directly in front of the main gate, approx. €3.00 daily fee",
+    "tr": "Ana kapı önünde otopark, günlük yaklaşık €3,00 ücret"
   },
   "accessibility": {
     "de": "Teilweise Kopfsteinpflaster und starke Steigungen, nur eingeschränkt barrierefrei",
     "hu": "Részben macskaköves és meredek emelkedők, csak korlátozottan akadálymentes",
     "ro": "Parțial pavaj din piatră cubică și pante abrupte, accesibil doar limitat",
-    "en": "Partly cobblestone and steep inclines, only limited barrier-free access"
+    "en": "Partly cobblestone and steep inclines, only limited barrier-free access",
+    "tr": "Kısmen kaldırım taşı ve dik yokuşlar, engelsiz erişim sınırlı"
   },
   "photoRules": {
     "de": "Außenbereich erlaubt, in den Museumsräumen Blitzlichtverbot",
     "hu": "Külső területen engedélyezett, a múzeumi termekben vaku tilos",
     "ro": "Exterior permis, interzis blițul în sălile muzeului",
-    "en": "Exterior allowed, flash photography prohibited in museum rooms"
+    "en": "Exterior allowed, flash photography prohibited in museum rooms",
+    "tr": "Dış mekan serbest, müze odalarında flaşlı fotoğraf yasak"
   },
   "bestTimeToVisit": {
     "de": "Spätnachmittag für den Blick über die Stadt Würzburg und den Main",
     "hu": "Késő délután, a Würzburg városára és a Majna folyóra nyíló kilátásért",
     "ro": "După-amiaza târziu pentru vederea asupra orașului Würzburg și a râului Main",
-    "en": "Late afternoon for the view over the city of Würzburg and the Main river"
+    "en": "Late afternoon for the view over the city of Würzburg and the Main river",
+    "tr": "Würzburg şehri ve Main nehri manzarası için geç öğleden sonra"
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

@@ -3,55 +3,64 @@
     "de": "Alter Markt, 18439 Stralsund",
     "hu": "Alter Markt, 18439 Stralsund",
     "ro": "Alter Markt, 18439 Stralsund",
-    "en": "Alter Markt, 18439 Stralsund"
+    "en": "Alter Markt, 18439 Stralsund",
+    "tr": "Alter Markt, 18439 Stralsund"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "7/24"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.stralsundtourismus.de",
   "publicTransport": {
     "de": "VVR Buslinien (Knieperwall/Olof-Palme-Platz)",
     "hu": "VVR buszjáratok (Knieperwall/Olof-Palme-Platz)",
     "ro": "Liniile de autobuz VVR (Knieperwall/Olof-Palme-Platz)",
-    "en": "VVR bus lines (Knieperwall/Olof-Palme-Platz)"
+    "en": "VVR bus lines (Knieperwall/Olof-Palme-Platz)",
+    "tr": "VVR otobüs hatları (Knieperwall/Olof-Palme-Platz)"
   },
   "parking": {
     "de": "Parkhaus Am Meeresmuseum, ca. 1,50 €/Std.",
     "hu": "Parkolóház a Meeresmuseum-nál, kb. 1,50 €/óra",
     "ro": "Parcarea Am Meeresmuseum, aprox. 1,50 €/oră",
-    "en": "Parking garage Am Meeresmuseum, approx. 1.50 €/hr"
+    "en": "Parking garage Am Meeresmuseum, approx. 1.50 €/hr",
+    "tr": "Am Meeresmuseum otopark garajı, yaklaşık 1,50 €/saat"
   },
   "accessibility": {
     "de": "Altstadt hat viel Kopfsteinpflaster, teils mühsam.",
     "hu": "Az óvárosban sok a macskakő, helyenként nehézkes a közlekedés.",
     "ro": "Centrul vechi are mult pavaj cu piatră cubică, parțial dificil.",
-    "en": "Old town has many cobblestones, sometimes difficult."
+    "en": "Old town has many cobblestones, sometimes difficult.",
+    "tr": "Eski şehirde çok sayıda kaldırım taşı var, bazen zorlayıcı."
   },
   "photoRules": {
     "de": "Erlaubt.",
     "hu": "Engedélyezett.",
     "ro": "Permis.",
-    "en": "Allowed."
+    "en": "Allowed.",
+    "tr": "İzinli."
   },
   "bestTimeToVisit": {
     "de": "In der Nebensaison für ruhige Spaziergänge am Hafen.",
     "hu": "Szezonon kívül nyugodt kikötői sétákhoz.",
     "ro": "În extrasezon pentru plimbări liniștite în port.",
-    "en": "In the low season for quiet walks at the harbor."
+    "en": "In the low season for quiet walks at the harbor.",
+    "tr": "Liman kıyısında sakin yürüyüşler için düşük sezonda."
   },
   "audioGuide": {
     "de": "nein (Stadtführungen verfügbar)",
     "hu": "nincs (városvezetések elérhetőek)",
     "ro": "nu (tururi ale orașului disponibile)",
-    "en": "no (city tours available)"
+    "en": "no (city tours available)",
+    "tr": "hayır (şehir turları mevcut)"
   }
 }

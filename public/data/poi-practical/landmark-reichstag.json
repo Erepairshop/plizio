@@ -3,55 +3,64 @@
     "de": "Platz der Republik 1, 11011 Berlin",
     "hu": "Platz der Republik 1, 11011 Berlin",
     "ro": "Platz der Republik 1, 11011 Berlin",
-    "en": "Platz der Republik 1, 11011 Berlin"
+    "en": "Platz der Republik 1, 11011 Berlin",
+    "tr": "Platz der Republik 1, 11011 Berlin"
   },
   "openingHours": {
     "de": "Mo-Su 08:00-24:00 (letzter Einlass 21:45)",
     "hu": "Hé-Va 08:00-24:00 (utolsó belépés 21:45)",
     "ro": "Lu-Du 08:00-24:00 (ultima intrare 21:45)",
-    "en": "Mon-Sun 08:00-24:00 (last admission 21:45)"
+    "en": "Mon-Sun 08:00-24:00 (last admission 21:45)",
+    "tr": "Pzt-Paz 08:00-24:00 (son giriş 21:45)"
   },
   "entranceFee": {
     "de": "free (Anmeldung zwingend erforderlich)",
     "hu": "ingyenes (előzetes regisztráció kötelező)",
     "ro": "gratuit (înregistrare obligatorie)",
-    "en": "free (registration mandatory)"
+    "en": "free (registration mandatory)",
+    "tr": "ücretsiz (kayıt zorunlu)"
   },
   "website": "https://www.bundestag.de",
   "publicTransport": {
     "de": "U-Bhf Bundestag (U5), S-Bhf Brandenburger Tor",
     "hu": "Metró: Bundestag (U5), S-Bahn: Brandenburger Tor",
     "ro": "Metrou: Bundestag (U5), S-Bahn: Brandenburger Tor",
-    "en": "Metro: Bundestag (U5), S-Bahn: Brandenburger Tor"
+    "en": "Metro: Bundestag (U5), S-Bahn: Brandenburger Tor",
+    "tr": "Metro: Bundestag (U5), S-Bahn: Brandenburger Tor"
   },
   "parking": {
     "de": "Keine Parkplätze direkt am Haus",
     "hu": "Nincs parkoló közvetlenül az épületnél",
     "ro": "Fără parcare direct la clădire",
-    "en": "No parking directly at the building"
+    "en": "No parking directly at the building",
+    "tr": "Binanın hemen önünde park yeri yok"
   },
   "accessibility": {
     "de": "Komplett barrierefrei, Aufzüge zur Kuppel vorhanden",
     "hu": "Teljesen akadálymentes, liftek állnak rendelkezésre a kupolához",
     "ro": "Complet accesibil, lifturi disponibile către cupolă",
-    "en": "Completely accessible, elevators available to the dome"
+    "en": "Completely accessible, elevators available to the dome",
+    "tr": "Tamamen erişilebilir, kubbeye asansörlerle çıkış var"
   },
   "photoRules": {
     "de": "Erlaubt",
     "hu": "Engedélyezett",
     "ro": "Permis",
-    "en": "Allowed"
+    "en": "Allowed",
+    "tr": "İzinli"
   },
   "bestTimeToVisit": {
     "de": "Dämmerung für den Blick über Berlin",
     "hu": "Szürkületkor a berlini kilátásért",
     "ro": "La crepuscul pentru priveliștea asupra Berlinului",
-    "en": "At dusk for the view over Berlin"
+    "en": "At dusk for the view over Berlin",
+    "tr": "Berlin manzarası için alacakaranlıkta"
   },
   "audioGuide": {
     "de": "Deutsch, Englisch, Französisch, Spanisch, Italienisch, Portugiesisch, Polnisch, Russisch, Türkisch",
     "hu": "Német, angol, francia, spanyol, olasz, portugál, lengyel, orosz, török",
     "ro": "Germană, engleză, franceză, spaniolă, italiană, portugheză, poloneză, rusă, turcă",
-    "en": "German, English, French, Spanish, Italian, Portuguese, Polish, Russian, Turkish"
+    "en": "German, English, French, Spanish, Italian, Portuguese, Polish, Russian, Turkish",
+    "tr": "Almanca, İngilizce, Fransızca, İspanyolca, İtalyanca, Portekizce, Lehçe, Rusça, Türkçe"
   }
 }

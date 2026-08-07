@@ -3,55 +3,64 @@
     "de": "Im Neuen Garten 11, 14469 Potsdam",
     "hu": "Im Neuen Garten 11, 14469 Potsdam",
     "ro": "Im Neuen Garten 11, 14469 Potsdam",
-    "en": "Im Neuen Garten 11, 14469 Potsdam"
+    "en": "Im Neuen Garten 11, 14469 Potsdam",
+    "tr": "Im Neuen Garten 11, 14469 Potsdam"
   },
   "openingHours": {
     "de": "Di-So 10:00-17:30 (Sommer), 10:00-16:30 (Winter)",
     "hu": "K-V 10:00-17:30 (nyáron), 10:00-16:30 (télen)",
     "ro": "Ma-Du 10:00-17:30 (vara), 10:00-16:30 (iarna)",
-    "en": "Tue-Sun 10:00-17:30 (summer), 10:00-16:30 (winter)"
+    "en": "Tue-Sun 10:00-17:30 (summer), 10:00-16:30 (winter)",
+    "tr": "Salı-Pazar 10:00-17:30 (yaz), 10:00-16:30 (kış)"
   },
   "entranceFee": {
     "de": "€14 Erwachsene (inkl. Audioguide)",
     "hu": "14 € felnőtt (audioguide-dal együtt)",
     "ro": "14 € adulți (audioghid inclus)",
-    "en": "€14 adults (incl. audio guide)"
+    "en": "€14 adults (incl. audio guide)",
+    "tr": "€14 yetişkin (sesli rehber dahil)"
   },
   "website": "https://www.spsg.de",
   "publicTransport": {
     "de": "Tram 92, 96 oder Bus 603 (Reiterweg/Alleestraße)",
     "hu": "92, 96-os villamos vagy 603-as busz (Reiterweg/Alleestraße megálló)",
     "ro": "Tramvaiul 92, 96 sau autobuzul 603 (Reiterweg/Alleestraße)",
-    "en": "Tram 92, 96 or bus 603 (Reiterweg/Alleestraße)"
+    "en": "Tram 92, 96 or bus 603 (Reiterweg/Alleestraße)",
+    "tr": "Tramvay 92, 96 veya otobüs 603 (Reiterweg/Alleestraße)"
   },
   "parking": {
     "de": "Parkplatz am Neuen Garten (~2 €/Std.)",
     "hu": "Parkoló a Neuer Gartennél (~2 €/óra)",
     "ro": "Parcare la Neuer Garten (~2 €/oră)",
-    "en": "Parking lot at the Neuer Garten (~2 €/hr)"
+    "en": "Parking lot at the Neuer Garten (~2 €/hr)",
+    "tr": "Neuer Garten'da otopark (~2 €/saat)"
   },
   "accessibility": {
     "de": "Erdgeschoss barrierefrei, das Obergeschoss ist über einen Aufzug erreichbar.",
     "hu": "A földszint akadálymentes, az emelet lifttel érhető el.",
     "ro": "Parterul este accesibil, etajul superior este accesibil prin lift.",
-    "en": "Ground floor is accessible; the upper floor can be reached via elevator."
+    "en": "Ground floor is accessible; the upper floor can be reached via elevator.",
+    "tr": "Zemin kat erişilebilir; üst kata asansörle ulaşılabiliyor."
   },
   "photoRules": {
     "de": "Erlaubt gegen eine Fotoerlaubnisgebühr (3 €) für die Innenräume.",
     "hu": "A belső terekben fotójegy (3 €) ellenében engedélyezett.",
     "ro": "Permis în interior contra unei taxe de fotografiere (3 €).",
-    "en": "Permitted in the interior for a photography permit fee (3 €)."
+    "en": "Permitted in the interior for a photography permit fee (3 €).",
+    "tr": "İç mekânda fotoğraf çekimine izin var; fotoğraf izni ücreti (3 €)."
   },
   "bestTimeToVisit": {
     "de": "Später Nachmittag für stimmungsvolles Licht im umliegenden Park.",
     "hu": "Késő délután, a környező park hangulatos fényei miatt.",
     "ro": "După-amiaza târziu pentru lumină atmosferică în parcul înconjurător.",
-    "en": "Late afternoon for atmospheric light in the surrounding park."
+    "en": "Late afternoon for atmospheric light in the surrounding park.",
+    "tr": "Çevredeki parkta atmosferik ışık için geç öğleden sonra."
   },
   "audioGuide": {
     "de": "ja (DE, EN, FR, IT, ES, RU)",
     "hu": "igen (DE, EN, FR, IT, ES, RU)",
     "ro": "da (DE, EN, FR, IT, ES, RU)",
-    "en": "yes (DE, EN, FR, IT, ES, RU)"
+    "en": "yes (DE, EN, FR, IT, ES, RU)",
+    "tr": "evet (DE, EN, FR, IT, ES, RU)"
   }
 }

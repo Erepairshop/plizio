@@ -3,55 +3,64 @@
     "de": "Donaupark, 78194 Immendingen",
     "hu": "Donaupark, 78194 Immendingen",
     "ro": "Donaupark, 78194 Immendingen",
-    "en": "Donaupark, 78194 Immendingen"
+    "en": "Donaupark, 78194 Immendingen",
+    "tr": "Donaupark, 78194 Immendingen"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "7/24"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.immendingen.de",
   "publicTransport": {
     "de": "Bahnhof Immendingen (Ringzug), ca. 15 Minuten Fußweg zum Versickerungsbereich",
     "hu": "Immendingen vasútállomás (Ringzug), kb. 15 perc séta az elszivárgás területéig",
     "ro": "Gara Immendingen (Ringzug), aprox. 15 minute de mers pe jos până la zona de infiltrare",
-    "en": "Immendingen train station (Ringzug), approx. 15-minute walk to the sinking area"
+    "en": "Immendingen train station (Ringzug), approx. 15-minute walk to the sinking area",
+    "tr": "Immendingen tren istasyonu (Ringzug), batma alanına yaklaşık 15 dakikalık yürüyüş"
   },
   "parking": {
     "de": "Parkplatz an der Donauhalle Immendingen, kostenfrei",
     "hu": "Parkoló az immendingeni Donauhalle-nél, ingyenes",
     "ro": "Parcare la Donauhalle Immendingen, gratuită",
-    "en": "Parking lot at Donauhalle Immendingen, free of charge"
+    "en": "Parking lot at Donauhalle Immendingen, free of charge",
+    "tr": "Donauhalle Immendingen otoparkı, ücretsiz"
   },
   "accessibility": {
     "de": "Befestigte Kieswege vorhanden, direkter Zugang zum Flussbett jedoch steinig und uneben",
     "hu": "Kavicsos utak vannak, de a közvetlen mederhozzáférés köves és egyenetlen",
     "ro": "Căi de pietriș disponibile, dar accesul direct la albia râului este pietros și denivelat",
-    "en": "Paved gravel paths available, direct access to the riverbed however stony and uneven"
+    "en": "Paved gravel paths available, direct access to the riverbed however stony and uneven",
+    "tr": "Döşeli çakıl yollar mevcut, nehir yatağına doğrudan erişim ise taşlı ve engebeli"
   },
   "photoRules": {
     "de": "Fotografieren jederzeit gestattet",
     "hu": "Fotózás bármikor engedélyezett",
     "ro": "Fotografierea permisă oricând",
-    "en": "Photography permitted at all times"
+    "en": "Photography permitted at all times",
+    "tr": "Fotoğrafçılığa her zaman izinli"
   },
   "bestTimeToVisit": {
     "de": "Sommermonate Juli und August, da hier die Versickerung oft vollständig zu beobachten ist",
     "hu": "Júliusi és augusztusi nyári hónapok, mivel ilyenkor gyakran teljesen megfigyelhető az elszivárgás",
     "ro": "Lunile de vară iulie și august, deoarece infiltrarea este adesea observabilă complet în această perioadă",
-    "en": "Summer months July and August, as the sinking is often completely observable then"
+    "en": "Summer months July and August, as the sinking is often completely observable then",
+    "tr": "Batma genellikle tamamen gözlemlendiği için yaz ayları Temmuz ve Ağustos"
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

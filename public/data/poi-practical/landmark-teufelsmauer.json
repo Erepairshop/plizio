@@ -3,55 +3,64 @@
     "de": "Teufelsmauerstieg, 06502 Thale",
     "hu": "Teufelsmauerstieg, 06502 Thale",
     "ro": "Teufelsmauerstieg, 06502 Thale",
-    "en": "Teufelsmauerstieg, 06502 Thale"
+    "en": "Teufelsmauerstieg, 06502 Thale",
+    "tr": "Teufelsmauerstieg, 06502 Thale"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "24/7"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.bodetal.de",
   "publicTransport": {
     "de": "Bus 257 bis Thale, anschließend Wanderung",
     "hu": "257-es busz Thale-ig, majd túrázás",
     "ro": "Autobuz 257 până la Thale, apoi drumeție",
-    "en": "Bus 257 to Thale, followed by a hike"
+    "en": "Bus 257 to Thale, followed by a hike",
+    "tr": "Bus 257 ile Thale'ye, ardından bir yürüyüş"
   },
   "parking": {
     "de": "Parkplatz am Kloster Wendhusen, teils kostenlos.",
     "hu": "Parkoló a Wendhusen kolostornál, részben ingyenes.",
     "ro": "Parcare la Mănăstirea Wendhusen, parțial gratuită.",
-    "en": "Parking at Wendhusen Monastery, partially free."
+    "en": "Parking at Wendhusen Monastery, partially free.",
+    "tr": "Wendhusen Manastırı'nda otopark, kısmen ücretsiz."
   },
   "accessibility": {
     "de": "Nicht barrierefrei, steile und unebene Wanderwege.",
     "hu": "Nem akadálymentesített, meredek és egyenetlen túraútvonalak.",
     "ro": "Nu este accesibil, trasee de drumeție abrupte și denivelate.",
-    "en": "Not accessible, steep and uneven hiking trails."
+    "en": "Not accessible, steep and uneven hiking trails.",
+    "tr": "Erişilebilir değil, dik ve engebeli yürüyüş yolları."
   },
   "photoRules": {
     "de": "Uneingeschränkt erlaubt, Drohnen im Naturschutzgebiet verboten.",
     "hu": "Korlátlanul megengedett, drónok a természetvédelmi területen tilosak.",
     "ro": "Permis fără restricții, drone interzise în rezervația naturală.",
-    "en": "Allowed without restrictions, drones prohibited in the nature reserve."
+    "en": "Allowed without restrictions, drones prohibited in the nature reserve.",
+    "tr": "Kısıtlama olmadan izin verildi, doğa rezervinde drone yasaktır."
   },
   "bestTimeToVisit": {
     "de": "Sonnenaufgang für dramatische Schatten an den Felsen.",
     "hu": "Napkelte, a sziklákon játszó drámai árnyékokért.",
     "ro": "Răsărit de soare pentru umbre dramatice pe stânci.",
-    "en": "Sunrise for dramatic shadows on the rocks."
+    "en": "Sunrise for dramatic shadows on the rocks.",
+    "tr": "Kayalar üzerinde dramatik gölgeler için gün doğumu."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

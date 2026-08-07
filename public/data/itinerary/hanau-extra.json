@@ -21,7 +21,8 @@
             "de": "Neustädter Rathaus",
             "hu": "Újvárosi városháza",
             "ro": "Primăria Orașului Nou",
-            "en": "Neustadt Town Hall"
+            "en": "Neustadt Town Hall",
+            "tr": "Neustadt Belediye Binası"
           },
           "coords": [
             8.9185,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die barocke Fassade am Marktplatz.",
             "hu": "Csodálja meg a barokk homlokzatot a főtéren.",
             "ro": "Admirați fațada barocă din piața centrală.",
-            "en": "Admire the baroque facade on the marketplace."
+            "en": "Admire the baroque facade on the marketplace.",
+            "tr": "Pazar yerindeki barok cephenin tadını çıkarın."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Brüder-Grimm-Nationaldenkmal",
             "hu": "Grimm-testvérek nemzeti emlékműve",
             "ro": "Monumentul Național al Fraților Grimm",
-            "en": "Brothers Grimm National Monument"
+            "en": "Brothers Grimm National Monument",
+            "tr": "Kardeşler Grimm Ulusal Anıtı"
           },
           "coords": [
             8.9182,
@@ -61,7 +64,8 @@
             "de": "Der Startpunkt der Deutschen Märchenstraße.",
             "hu": "A Német Meseút kiindulópontja.",
             "ro": "Punctul de plecare al Drumului German al Poveștilor.",
-            "en": "The starting point of the German Fairy Tale Route."
+            "en": "The starting point of the German Fairy Tale Route.",
+            "tr": "Alman Masal Rotası’nın başlangıç noktası."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Deutsches Goldschmiedehaus",
             "hu": "Német Aranyművesek Háza",
             "ro": "Casa Germană a Aurarilor",
-            "en": "German Goldsmiths' House"
+            "en": "German Goldsmiths' House",
+            "tr": "Alman Kuyumcular Evi"
           },
           "coords": [
             8.9195,
@@ -85,7 +90,8 @@
             "de": "Einzigartige Schmuckkunst im alten Rathaus.",
             "hu": "Egyedülálló ékszerművészet a régi városházán.",
             "ro": "Artă unică a bijuteriilor în vechea primărie.",
-            "en": "Unique jewelry art in the old town hall."
+            "en": "Unique jewelry art in the old town hall.",
+            "tr": "Eski belediye binasında eşsiz takı sanatı."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Aziz Maria Kilisesi"
           },
           "coords": [
             8.9205,
@@ -109,7 +116,8 @@
             "de": "Besichtigen Sie die spätgotischen Details.",
             "hu": "Tekintse meg a késő gótikus részleteket.",
             "ro": "Vizitați detaliile gotice târzii.",
-            "en": "Visit the late Gothic details."
+            "en": "Visit the late Gothic details.",
+            "tr": "Geç gotik detayları ziyaret edin."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în orașul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "tr": "Eski Kentte öğle yemeği"
           },
           "coords": [
             8.919,
@@ -133,7 +142,8 @@
             "de": "Probieren Sie hessische Spezialitäten.",
             "hu": "Kóstolja meg a hesseni különlegességeket.",
             "ro": "Încercați specialitățile din Hessa.",
-            "en": "Try some Hessian specialties."
+            "en": "Try some Hessian specialties.",
+            "tr": "Hessen’e özgü lezzetleri deneyin."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Staatliche Zeichenakademie",
             "hu": "Állami Rajzakadémia",
             "ro": "Academia de Stat de Desen",
-            "en": "State Academy of Drawing"
+            "en": "State Academy of Drawing",
+            "tr": "Resim Akademisi Eyalet Okulu"
           },
           "coords": [
             8.915,
@@ -157,7 +168,8 @@
             "de": "Zentrum für Design und edles Handwerk.",
             "hu": "A design és a nemes kézművesség központja.",
             "ro": "Centru pentru design și meșteșuguri nobile.",
-            "en": "Center for design and fine craftsmanship."
+            "en": "Center for design and fine craftsmanship.",
+            "tr": "Tasarım ve güzel zanaat merkezi."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Morgen beginnt im Herzen Hanaus am Marktplatz, wo die Brüder Grimm über die Stadt wachen. Nach einem Besuch im prachtvollen Goldschmiedehaus tauchen Sie in die Geschichte der Marienkirche ein. Der Mittag gehört der regionalen Küche in den Gassen der Altstadt, bevor Sie am Nachmittag die künstlerische Tradition der Zeichenakademie kennenlernen.",
         "hu": "A reggel Hanau szívében, a piactéren kezdődik, ahol a Grimm-testvérek szobra őrzi a várost. A pompás Aranyművesek Háza után a Mária-templom történelmébe merülhet el. Az ebéd a helyi konyháé az óváros szűk utcáiban, majd délután a Rajzakadémia művészeti hagyományaival ismerkedhet meg.",
         "ro": "Dimineața începe în inima orașului Hanau, în piața centrală, unde frații Grimm veghează asupra orașului. După o vizită la splendida Casă a Aurarilor, veți explora istoria Bisericii Sfânta Maria. Prânzul este dedicat bucătăriei regionale pe străduțele orașului vechi, urmat de tradiția artistică a Academiei de Desen.",
-        "en": "Your morning begins in the heart of Hanau at the marketplace, where the Brothers Grimm watch over the city. After a visit to the magnificent Goldsmiths' House, delve into the history of St. Mary's Church. Lunch is dedicated to regional cuisine in the old town lanes, followed by the artistic tradition of the Drawing Academy in the afternoon."
+        "en": "Your morning begins in the heart of Hanau at the marketplace, where the Brothers Grimm watch over the city. After a visit to the magnificent Goldsmiths' House, delve into the history of St. Mary's Church. Lunch is dedicated to regional cuisine in the old town lanes, followed by the artistic tradition of the Drawing Academy in the afternoon.",
+        "tr": "Gününüz Hanau’nun kalbi olan pazar yerinde başlar; burada Kardeşler Grimm şehri izler. Muhteşem Kuyumcular Evi’ni ziyaret ettikten sonra Aziz Maria Kilisesi’nin tarihine dalın. Öğle yemeği eski kent sokaklarında bölgesel mutfağa ayrılır; öğleden sonra Resim Akademisi’nin sanatsal geleneğini keşfedin."
       },
       "gastro_picks": {
         "de": [
@@ -265,6 +278,10 @@
         "en": [
           "Wear comfortable shoes for the cobblestone streets.",
           "Visit the market on Saturday morning."
+        ],
+        "tr": [
+          "Arnavut kaldırımlı sokaklar için rahat ayakkabılar giyin.",
+          "Cumartesi sabahı pazarı ziyaret edin."
         ]
       }
     },
@@ -281,7 +298,8 @@
             "de": "Brüder-Grimm-Nationaldenkmal",
             "hu": "Grimm-testvérek emlékműve",
             "ro": "Monumentul Fraților Grimm",
-            "en": "Brothers Grimm Monument"
+            "en": "Brothers Grimm Monument",
+            "tr": "Kardeşler Grimm Anıtı"
           },
           "coords": [
             8.9182,
@@ -297,7 +315,8 @@
             "de": "Fotoshooting mit Jacob und Wilhelm.",
             "hu": "Fotózás Jacobbal és Wilhelmmel.",
             "ro": "Sesiune foto cu Jacob și Wilhelm.",
-            "en": "Photo op with Jacob and Wilhelm."
+            "en": "Photo op with Jacob and Wilhelm.",
+            "tr": "Jacob ve Wilhelm ile fotoğraf fırsatı."
           }
         },
         {
@@ -305,7 +324,8 @@
             "de": "Schloss Philippsruhe",
             "hu": "Philippsruhe-kastély",
             "ro": "Castelul Philippsruhe",
-            "en": "Philippsruhe Castle"
+            "en": "Philippsruhe Castle",
+            "tr": "Philippsruhe Sarayı"
           },
           "coords": [
             8.8955,
@@ -321,7 +341,8 @@
             "de": "Barockschloss direkt am Mainufer.",
             "hu": "Barokk kastély közvetlenül a Majna partján.",
             "ro": "Castel baroc chiar pe malul râului Main.",
-            "en": "Baroque castle right on the banks of the Main."
+            "en": "Baroque castle right on the banks of the Main.",
+            "tr": "Main kıyısında barok saray."
           }
         },
         {
@@ -329,7 +350,8 @@
             "de": "Historisches Museum Hanau",
             "hu": "Hanaui Történeti Múzeum",
             "ro": "Muzeul de Istorie Hanau",
-            "en": "Hanau Historical Museum"
+            "en": "Hanau Historical Museum",
+            "tr": "Hanau Tarih Müzesi"
           },
           "coords": [
             8.8958,
@@ -345,7 +367,8 @@
             "de": "Eintauchen in die Stadtgeschichte.",
             "hu": "Merüljön el a város történelmében.",
             "ro": "Aflați mai multe despre istoria orașului.",
-            "en": "Dive into the city's history."
+            "en": "Dive into the city's history.",
+            "tr": "Şehrin tarihine dalın."
           }
         },
         {
@@ -353,7 +376,8 @@
             "de": "Mittagessen in Kesselstadt",
             "hu": "Ebéd Kesselstadtban",
             "ro": "Prânz în Kesselstadt",
-            "en": "Lunch in Kesselstadt"
+            "en": "Lunch in Kesselstadt",
+            "tr": "Kesselstadt’ta öğle yemeği"
           },
           "coords": [
             8.897,
@@ -369,7 +393,8 @@
             "de": "Genießen Sie den Blick auf den Main.",
             "hu": "Élvezze a Majnára nyíló kilátást.",
             "ro": "Bucurați-vă de priveliștea spre râul Main.",
-            "en": "Enjoy the view of the Main river."
+            "en": "Enjoy the view of the Main river.",
+            "tr": "Main nehrine bakan manzilenin tadını çıkarın."
           }
         },
         {
@@ -377,7 +402,8 @@
             "de": "Staatspark Wilhelmsbad",
             "hu": "Wilhelmsbad Állami Park",
             "ro": "Parcul de Stat Wilhelmsbad",
-            "en": "Wilhelmsbad State Park"
+            "en": "Wilhelmsbad State Park",
+            "tr": "Wilhelmsbad Eyalet Parkı"
           },
           "coords": [
             8.885,
@@ -393,7 +419,8 @@
             "de": "Historische Kuranlage mit Karussell.",
             "hu": "Történelmi fürdőhely körhintával.",
             "ro": "Complex balnear istoric cu carusel.",
-            "en": "Historical spa complex with a carousel."
+            "en": "Historical spa complex with a carousel.",
+            "tr": "Atlıkarınca bulunan tarihi kaplıca kompleksi."
           }
         },
         {
@@ -401,7 +428,8 @@
             "de": "Wilhelmsbad Ausklang",
             "hu": "Wilhelmsbad levezetés",
             "ro": "Wilhelmsbad relaxare",
-            "en": "Wilhelmsbad Wind-down"
+            "en": "Wilhelmsbad Wind-down",
+            "tr": "Wilhelmsbad’ta sakinleşme"
           },
           "coords": [
             8.8845,
@@ -417,7 +445,8 @@
             "de": "Entspannen an den Teichen.",
             "hu": "Pihenés a tavaknál.",
             "ro": "Relaxare lângă iazuri.",
-            "en": "Relaxing by the ponds."
+            "en": "Relaxing by the ponds.",
+            "tr": "Göletler kenarında dinlenme."
           }
         }
       ],
@@ -425,7 +454,8 @@
         "de": "Diese Tour verbindet das urbane Hanau mit den grünen Oasen der Umgebung. Vom Denkmal im Zentrum radeln Sie entspannt am Main entlang zum Schloss Philippsruhe. Nach einer kulturellen Pause im Museum führt der Weg durch Kesselstadt bis zur märchenhaften Kuranlage Wilhelmsbad, wo Sie den Tag zwischen alten Bäumen ausklingen lassen.",
         "hu": "Ez a túra összeköti Hanau városi hangulatát a környék zöld oázisaival. A központi emlékműtől kényelmesen kerekezhet a Majna mentén a Philippsruhe-kastélyig. A múzeumi kitérő után az út Kesselstadton keresztül a mesebeli Wilhelmsbad fürdőhelyig vezet, ahol öreg fák között zárhatja a napot.",
         "ro": "Acest tur îmbină atmosfera urbană din Hanau cu oazele verzi din împrejurimi. De la monumentul central, pedalați relaxat de-a lungul râului Main până la Castelul Philippsruhe. După o pauză culturală la muzeu, drumul continuă prin Kesselstadt până la stațiunea balneară de basm Wilhelmsbad.",
-        "en": "This tour combines urban Hanau with the green oases of the surrounding area. From the monument in the center, cycle relaxedly along the Main to Philippsruhe Castle. After a cultural break in the museum, the path leads through Kesselstadt to the fairytale spa complex of Wilhelmsbad, where you can end the day among old trees."
+        "en": "This tour combines urban Hanau with the green oases of the surrounding area. From the monument in the center, cycle relaxedly along the Main to Philippsruhe Castle. After a cultural break in the museum, the path leads through Kesselstadt to the fairytale spa complex of Wilhelmsbad, where you can end the day among old trees.",
+        "tr": "Bu gezi, kentsel Hanau ile çevresindeki yeşil vahaları birleştirir. Merkezdeki anıttan başlayıp Main boyunca rahatça bisiklete binerek Philippsruhe Sarayı’na gidin. Müzede kültürel bir moladan sonra rota Kesselstadt’tan geçerek Wilhelmsbad’in masal gibi kaplıca kompleksine çıkar; günü eski ağaçlar arasında bitirebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -525,6 +555,10 @@
         "en": [
           "Use the marked Main cycle paths.",
           "The historical carousel in Wilhelmsbad is a must-see."
+        ],
+        "tr": [
+          "İşaretli Main bisiklet yollarını kullanın.",
+          "Wilhelmsbad’daki tarihi atlıkarınca mutlaka görülmeli."
         ]
       }
     },
@@ -541,7 +575,8 @@
             "de": "Neustädter Rathaus",
             "hu": "Újvárosi városháza",
             "ro": "Primăria Orașului Nou",
-            "en": "Neustadt Town Hall"
+            "en": "Neustadt Town Hall",
+            "tr": "Neustadt Belediye Binası"
           },
           "coords": [
             8.9185,
@@ -557,7 +592,8 @@
             "de": "Parken Sie im Parkhaus am Markt.",
             "hu": "Parkoljon a piaci parkolóházban.",
             "ro": "Parcați în parcarea de lângă piață.",
-            "en": "Park in the parking garage at the market."
+            "en": "Park in the parking garage at the market.",
+            "tr": "Pazardaki otopark garajına park edin."
           }
         },
         {
@@ -565,7 +601,8 @@
             "de": "Brüder-Grimm-Nationaldenkmal",
             "hu": "Grimm-testvérek emlékműve",
             "ro": "Monumentul Fraților Grimm",
-            "en": "Brothers Grimm Monument"
+            "en": "Brothers Grimm Monument",
+            "tr": "Kardeşler Grimm Anıtı"
           },
           "coords": [
             8.9182,
@@ -581,7 +618,8 @@
             "de": "Zentraler Treffpunkt für Stadtführungen.",
             "hu": "Városnéző túrák központi találkozóhelye.",
             "ro": "Punct central de întâlnire pentru tururi ghidate.",
-            "en": "Central meeting point for city tours."
+            "en": "Central meeting point for city tours.",
+            "tr": "Şehir turları için merkezi buluşma noktası."
           }
         },
         {
@@ -589,7 +627,8 @@
             "de": "Deutsches Goldschmiedehaus",
             "hu": "Német Aranyművesek Háza",
             "ro": "Casa Germană a Aurarilor",
-            "en": "German Goldsmiths' House"
+            "en": "German Goldsmiths' House",
+            "tr": "Alman Kuyumcular Evi"
           },
           "coords": [
             8.9195,
@@ -605,7 +644,8 @@
             "de": "Bewundern Sie die Handwerkskunst.",
             "hu": "Csodálja meg a kézműves remekeket.",
             "ro": "Admirați măiestria meșteșugului.",
-            "en": "Admire the craftsmanship."
+            "en": "Admire the craftsmanship.",
+            "tr": "Zanaatkârlığı izleyin."
           }
         },
         {
@@ -613,7 +653,8 @@
             "de": "Schloss Philippsruhe",
             "hu": "Philippsruhe-kastély",
             "ro": "Castelul Philippsruhe",
-            "en": "Philippsruhe Castle"
+            "en": "Philippsruhe Castle",
+            "tr": "Philippsruhe Sarayı"
           },
           "coords": [
             8.8955,
@@ -629,7 +670,8 @@
             "de": "Besuch der Papiertheater-Sammlung.",
             "hu": "Papírszínház-gyűjtemény megtekintése.",
             "ro": "Vizitarea colecției de teatre de hârtie.",
-            "en": "Visit the paper theater collection."
+            "en": "Visit the paper theater collection.",
+            "tr": "Kağıt tiyatrosu koleksiyonunu ziyaret edin."
           }
         },
         {
@@ -637,7 +679,8 @@
             "de": "Mittagessen am Schloss",
             "hu": "Ebéd a kastélynál",
             "ro": "Prânz la castel",
-            "en": "Lunch at the Castle"
+            "en": "Lunch at the Castle",
+            "tr": "Sarayda öğle yemeği"
           },
           "coords": [
             8.8965,
@@ -653,7 +696,8 @@
             "de": "Kaffee und Kuchen mit Aussicht.",
             "hu": "Kávé és sütemény kilátással.",
             "ro": "Cafea și prăjituri cu vedere.",
-            "en": "Coffee and cake with a view."
+            "en": "Coffee and cake with a view.",
+            "tr": "Manzarayla kahve ve pasta."
           }
         },
         {
@@ -661,7 +705,8 @@
             "de": "Staatspark Wilhelmsbad",
             "hu": "Wilhelmsbad Állami Park",
             "ro": "Parcul de Stat Wilhelmsbad",
-            "en": "Wilhelmsbad State Park"
+            "en": "Wilhelmsbad State Park",
+            "tr": "Wilhelmsbad Eyalet Parkı"
           },
           "coords": [
             8.885,
@@ -677,7 +722,8 @@
             "de": "Spaziergang zur künstlichen Burgruine.",
             "hu": "Séta a mesterséges várromhoz.",
             "ro": "Plimbare spre ruinele castelului artificial.",
-            "en": "Walk to the artificial castle ruins."
+            "en": "Walk to the artificial castle ruins.",
+            "tr": "Yapay kale kalıntılarına yürüyüş."
           }
         },
         {
@@ -685,7 +731,8 @@
             "de": "Wilhelmsbad Sonnenuntergang",
             "hu": "Naplemente Wilhelmsbadban",
             "ro": "Apus de soare în Wilhelmsbad",
-            "en": "Sunset at Wilhelmsbad"
+            "en": "Sunset at Wilhelmsbad",
+            "tr": "Wilhelmsbad’ta gün batımı"
           },
           "coords": [
             8.886,
@@ -701,7 +748,8 @@
             "de": "Romantischer Abschluss am Weiher.",
             "hu": "Romantikus lezárás a tónál.",
             "ro": "Final romantic lângă iaz.",
-            "en": "Romantic ending by the pond."
+            "en": "Romantic ending by the pond.",
+            "tr": "Gölet kenarında romantik bir sona ulaşın."
           }
         }
       ],
@@ -709,7 +757,8 @@
         "de": "Erleben Sie die Höhepunkte Hanaus komfortabel mit dem Auto. Nach einem Stadtbummel im Zentrum fahren Sie zum barocken Schloss Philippsruhe, dem Juwel am Mainufer. Nach einer ausgiebigen Besichtigung und einem Mittagessen führt Sie die Fahrt in den Norden zum Staatspark Wilhelmsbad. Diese historische Kuranlage bietet perfekte Fotomotive und einen entspannten Tagesausklang.",
         "hu": "Fedezze fel Hanau fénypontjait kényelmesen, autóval. A belvárosi séta után hajtson a barokk Philippsruhe-kastélyhoz, amely a Majna-part ékköve. Egy alapos látogatás és ebéd után az út északra, a Wilhelmsbad Állami Parkba vezet. Ez a történelmi fürdőhely tökéletes fotótémákat és pihentető napzárást kínál.",
         "ro": "Experimentați punctele culminante ale orașului Hanau confortabil cu mașina. După o plimbare prin centrul orașului, conduceți spre castelul baroc Philippsruhe, bijuteria de pe malul râului Main. După o vizită detaliată și prânz, drumul vă duce spre nord, la Parcul de Stat Wilhelmsbad. Acest complex balnear istoric oferă motive fotografice perfecte.",
-        "en": "Experience the highlights of Hanau comfortably by car. After a stroll through the city center, drive to the baroque Philippsruhe Castle, the jewel on the banks of the Main. After an extensive tour and lunch, the drive takes you north to the Wilhelmsbad State Park. This historical spa complex offers perfect photo opportunities and a relaxed end to the day."
+        "en": "Experience the highlights of Hanau comfortably by car. After a stroll through the city center, drive to the baroque Philippsruhe Castle, the jewel on the banks of the Main. After an extensive tour and lunch, the drive takes you north to the Wilhelmsbad State Park. This historical spa complex offers perfect photo opportunities and a relaxed end to the day.",
+        "tr": "Hanau’nun öne çıkanlarını konforlu bir şekilde araba ile deneyimleyin. Şehir merkezinde bir gezintinin ardından barok Philippsruhe Sarayı’na, Main kıyısındaki mücevherine sürün. Geniş bir tur ve öğle yemeğinin ardından kuzeye doğru Wilhelmsbad Eyalet Parkı’na gidin. Bu tarihi kaplıca kompleksi mükemmel fotoğraf fırsatları ve güne sakin bir son sunar."
       },
       "gastro_picks": {
         "de": [
@@ -809,6 +858,10 @@
         "en": [
           "Parking in Wilhelmsbad is usually free.",
           "Plan time for the museums in the castle."
+        ],
+        "tr": [
+          "Wilhelmsbad’da park genellikle ücretsizdir.",
+          "Saraydaki müzeler için zaman planlayın."
         ]
       }
     },
@@ -825,7 +878,8 @@
             "de": "Hanau Hauptbahnhof",
             "hu": "Hanau főpályaudvar",
             "ro": "Gara Centrală Hanau",
-            "en": "Hanau Main Station"
+            "en": "Hanau Main Station",
+            "tr": "Hanau Ana İstasyonu"
           },
           "coords": [
             8.93,
@@ -841,7 +895,8 @@
             "de": "Zentraler Knotenpunkt für Busse und Bahnen.",
             "hu": "Buszok és vonatok központi csomópontja.",
             "ro": "Nod central pentru autobuze și trenuri.",
-            "en": "Central hub for buses and trains."
+            "en": "Central hub for buses and trains.",
+            "tr": "Otobüsler ve trenler için merkezi bağlantı noktası."
           }
         },
         {
@@ -849,7 +904,8 @@
             "de": "Freiheitsplatz",
             "hu": "Szabadság tér",
             "ro": "Piața Libertății",
-            "en": "Freiheitsplatz"
+            "en": "Freiheitsplatz",
+            "tr": "Freiheitsplatz"
           },
           "coords": [
             8.917,
@@ -865,7 +921,8 @@
             "de": "Der Busbahnhof im Herzen der Stadt.",
             "hu": "Autóbusz-állomás a város szívében.",
             "ro": "Autogara din inima orașului.",
-            "en": "The bus station in the heart of the city."
+            "en": "The bus station in the heart of the city.",
+            "tr": "Şehrin kalbindeki otobüs terminali."
           }
         },
         {
@@ -873,7 +930,8 @@
             "de": "Brüder-Grimm-Nationaldenkmal",
             "hu": "Grimm-testvérek emlékműve",
             "ro": "Monumentul Fraților Grimm",
-            "en": "Brothers Grimm Monument"
+            "en": "Brothers Grimm Monument",
+            "tr": "Kardeşler Grimm Anıtı"
           },
           "coords": [
             8.9182,
@@ -889,7 +947,8 @@
             "de": "Kurzer Fußweg vom Freiheitsplatz.",
             "hu": "Rövid séta a Szabadság térről.",
             "ro": "Scurtă plimbare de la Piața Libertății.",
-            "en": "Short walk from Freiheitsplatz."
+            "en": "Short walk from Freiheitsplatz.",
+            "tr": "Freiheitsplatz’a kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -897,7 +956,8 @@
             "de": "Schloss Philippsruhe",
             "hu": "Philippsruhe-kastély",
             "ro": "Castelul Philippsruhe",
-            "en": "Philippsruhe Castle"
+            "en": "Philippsruhe Castle",
+            "tr": "Philippsruhe Sarayı"
           },
           "coords": [
             8.8955,
@@ -913,7 +973,8 @@
             "de": "Buslinie 5 oder 10 Richtung Schloss.",
             "hu": "5-ös vagy 10-es busz a kastély felé.",
             "ro": "Linia de autobuz 5 sau 10 spre castel.",
-            "en": "Bus line 5 or 10 towards the castle."
+            "en": "Bus line 5 or 10 towards the castle.",
+            "tr": "Saray yönüne giden 5 veya 10 numaralı otobüs hattı."
           }
         },
         {
@@ -921,7 +982,8 @@
             "de": "Wilhelmsbad Staatspark",
             "hu": "Wilhelmsbad Állami Park",
             "ro": "Parcul de Stat Wilhelmsbad",
-            "en": "Wilhelmsbad State Park"
+            "en": "Wilhelmsbad State Park",
+            "tr": "Wilhelmsbad Eyalet Parkı"
           },
           "coords": [
             8.885,
@@ -937,7 +999,8 @@
             "de": "Direkte Anbindung mit der RB58.",
             "hu": "Közvetlen kapcsolat az RB58 vonattal.",
             "ro": "Conexiune directă cu trenul RB58.",
-            "en": "Direct connection with the RB58 train."
+            "en": "Direct connection with the RB58 train.",
+            "tr": "RB58 treniyle doğrudan bağlantı."
           }
         },
         {
@@ -945,7 +1008,8 @@
             "de": "Gastro am Bahnhof Wilhelmsbad",
             "hu": "Gasztro a wilhelmsbadi állomásnál",
             "ro": "Gastro la gara Wilhelmsbad",
-            "en": "Gastro at Wilhelmsbad Station"
+            "en": "Gastro at Wilhelmsbad Station",
+            "tr": "Wilhelmsbad İstasyonu çevresinde gastronomi"
           },
           "coords": [
             8.887,
@@ -961,7 +1025,8 @@
             "de": "Traditionelle Lokale im Bahnhofsbereich.",
             "hu": "Hagyományos vendéglők az állomás környékén.",
             "ro": "Localuri tradiționale în zona gării.",
-            "en": "Traditional eateries in the station area."
+            "en": "Traditional eateries in the station area.",
+            "tr": "İstasyon çevresinde geleneksel lokantalar."
           }
         }
       ],
@@ -969,7 +1034,8 @@
         "de": "Hanau lässt sich hervorragend mit Bus und Bahn erkunden. Vom Hauptbahnhof gelangen Sie schnell zum Freiheitsplatz, dem Knotenpunkt für den Stadtbummel und das Grimm-Denkmal. Mit dem Stadtbus geht es weiter zum Schloss Philippsruhe und später mit der Regionalbahn nach Wilhelmsbad. So erleben Sie Geschichte und Natur ganz ohne Parkplatzsuche.",
         "hu": "Hanau kiválóan felfedezhető busszal és vonattal. A főpályaudvarról gyorsan elérheti a Szabadság teret, amely a belvárosi séta és a Grimm-emlékmű csomópontja. Városi busszal folytathatja az utat a Philippsruhe-kastélyhoz, majd regionális vonattal Wilhelmsbadba. Így parkolóhely keresése nélkül élvezheti a történelmet és a természetet.",
         "ro": "Hanau poate fi explorat excelent cu autobuzul și trenul. De la gara centrală ajungeți rapid la Piața Libertății, nodul central pentru plimbări și monumentul Grimm. Cu autobuzul urban continuați spre Castelul Philippsruhe, iar apoi cu trenul regional spre Wilhelmsbad. Astfel experimentați istoria și natura fără grija parcării.",
-        "en": "Hanau can be explored excellently by bus and train. From the main station, you can quickly reach Freiheitsplatz, the hub for city strolls and the Grimm monument. Continue by city bus to Philippsruhe Castle and later by regional train to Wilhelmsbad. This way, you can experience history and nature without the hassle of searching for parking."
+        "en": "Hanau can be explored excellently by bus and train. From the main station, you can quickly reach Freiheitsplatz, the hub for city strolls and the Grimm monument. Continue by city bus to Philippsruhe Castle and later by regional train to Wilhelmsbad. This way, you can experience history and nature without the hassle of searching for parking.",
+        "tr": "Hanau, otobüs ve trenle mükemmel şekilde keşfedilebilir. Ana istasyondan Freiheitsplatz’a hızlıca ulaşabilir; burası şehir gezileri ve Grimm anıtı için merkezdir. Şehir içi otobüsle Philippsruhe Sarayı’na, ardından bölgesel trenle Wilhelmsbad’a devam edin. Böylece park yeri arama derdi olmadan tarih ve doğayı deneyimleyebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1069,6 +1135,10 @@
         "en": [
           "Use the Hessenticket option.",
           "The 'RMV' app helps with schedule information."
+        ],
+        "tr": [
+          "Hessenticket seçeneğini kullanın.",
+          "'RMV' uygulaması tarifeler hakkında bilgi verir."
         ]
       }
     }

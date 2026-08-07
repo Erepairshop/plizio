@@ -21,7 +21,8 @@
             "de": "Ernst-Bloch-Zentrum",
             "hu": "Ernst-Bloch Központ",
             "ro": "Centrul Ernst-Bloch",
-            "en": "Ernst-Bloch-Zentrum"
+            "en": "Ernst-Bloch-Zentrum",
+            "tr": "Ernst-Bloch-Merkezı"
           },
           "coords": [
             8.4431,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie das rekonstruierte Arbeitszimmer des Philosophen.",
             "hu": "Nézze meg a filozófus rekonstruált dolgozószobáját.",
             "ro": "Vizitați biroul reconstruit al filosofului.",
-            "en": "Visit the reconstructed study of the philosopher."
+            "en": "Visit the reconstructed study of the philosopher.",
+            "tr": "Filozofun yeniden inşa edilmiş çalışma odasını ziyaret edin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Wilhelm-Hack-Museum",
             "hu": "Wilhelm-Hack Múzeum",
             "ro": "Muzeul Wilhelm-Hack",
-            "en": "Wilhelm-Hack-Museum"
+            "en": "Wilhelm-Hack-Museum",
+            "tr": "Wilhelm-Hack-Müzesi"
           },
           "coords": [
             8.4421,
@@ -59,7 +62,8 @@
             "de": "Die Miró-Wand an der Außenfassade ist ein absolutes Highlight.",
             "hu": "A külső falon található Miró-mozaik a múzeum jelképe.",
             "ro": "Peretele Miró de pe fațada exterioară este un punct de atracție.",
-            "en": "The Miró wall on the outer facade is an absolute highlight."
+            "en": "The Miró wall on the outer facade is an absolute highlight.",
+            "tr": "Dış cephedeki Miró duvarı kesinlikle bir başyapıttır."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Lutherturm",
             "hu": "Luther-torony",
             "ro": "Turnul Luther",
-            "en": "Lutherturm"
+            "en": "Lutherturm",
+            "tr": "Lutherturm"
           },
           "coords": [
             8.4452,
@@ -82,7 +87,8 @@
             "de": "Der Turm ist der Rest einer im Krieg zerstörten Kirche.",
             "hu": "A torony egy háborúban elpusztult templom maradványa.",
             "ro": "Turnul este restul unei biserici distruse în război.",
-            "en": "The tower is the remnant of a church destroyed in the war."
+            "en": "The tower is the remnant of a church destroyed in the war.",
+            "tr": "Kule, savaşta yıkılan bir kilisenin kalıntısıdır."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Hemshof",
             "hu": "Hemshof negyed",
             "ro": "Cartierul Hemshof",
-            "en": "Hemshof District"
+            "en": "Hemshof District",
+            "tr": "Hemshof Mahallesi"
           },
           "coords": [
             8.4385,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie hier internationale Spezialitäten in den kleinen Gassen.",
             "hu": "Kóstoljon nemzetközi ételeket a kis utcák éttermeiben.",
             "ro": "Încercați specialități internaționale pe străzile mici.",
-            "en": "Try international specialties in the small alleys."
+            "en": "Try international specialties in the small alleys.",
+            "tr": "Dar sokaklarda uluslararası lezzetleri deneyin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Friedenskirche",
             "hu": "Béke-templom",
             "ro": "Biserica Păcii",
-            "en": "Friedenskirche"
+            "en": "Friedenskirche",
+            "tr": "Friedenskirche"
           },
           "coords": [
             8.4361,
@@ -128,7 +137,8 @@
             "de": "Ein beeindruckender Zentralbau des Klassizismus.",
             "hu": "A klasszicizmus lenyűgöző centrális építménye.",
             "ro": "O construcție centrală impresionantă a clasicismului.",
-            "en": "An impressive central building of Classicism."
+            "en": "An impressive central building of Classicism.",
+            "tr": "Klasisizmin etkileyici merkezi binası."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Rhein-Galerie",
             "hu": "Rhein-Galerie",
             "ro": "Rhein-Galerie",
-            "en": "Rhein-Galerie"
+            "en": "Rhein-Galerie",
+            "tr": "Rhein-Galerie"
           },
           "coords": [
             8.4485,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie den Blick auf den Rhein von der Promenade aus.",
             "hu": "Élvezze a Rajnára nyíló kilátást a sétányról.",
             "ro": "Bucurați-vă de vederea spre Rin de pe promenadă.",
-            "en": "Enjoy the view of the Rhine from the promenade."
+            "en": "Enjoy the view of the Rhine from the promenade.",
+            "tr": "Kordon boyunca Ren manzarasının tadını çıkarın."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Vormittags erkunden Sie die intellektuelle Seite Ludwigshafens im Bloch-Zentrum und bewundern die Miró-Wand. Mittags tauchen Sie in das multikulturelle Flair des Hemshofs ein. Der Nachmittag gehört der klassischen Architektur und dem modernen Shopping am Rheinufer.",
         "hu": "Délelőtt Ludwigshafen intellektuális oldalát ismeri meg a Bloch Központban, és megcsodálja a Miró-falat. Ebédidőben a Hemshof multikulturális hangulatában merülhet el. A délután a klasszikus építészeté és a modern vásárlásé a Rajna partján.",
         "ro": "Dimineața explorați latura intelectuală a orașului Ludwigshafen la Centrul Bloch și admirați peretele Miró. La prânz vă scufundați în atmosfera multiculturală din Hemshof. După-amiaza este dedicată arhitecturii clasice și cumpărăturilor moderne pe malul Rinului.",
-        "en": "In the morning, explore the intellectual side of Ludwigshafen at the Bloch Center and admire the Miró wall. At noon, immerse yourself in the multicultural flair of Hemshof. The afternoon is dedicated to classical architecture and modern shopping on the banks of the Rhine."
+        "en": "In the morning, explore the intellectual side of Ludwigshafen at the Bloch Center and admire the Miró wall. At noon, immerse yourself in the multicultural flair of Hemshof. The afternoon is dedicated to classical architecture and modern shopping on the banks of the Rhine.",
+        "tr": "Sabah Bloch Merkezi'nde Ludwigshafen'in entelektüel yönünü keşfedin ve Miró duvarına hayran olun. Öğlen Hemshof'un çokkültürlü havasına kendinizi bırakın. Öğleden sonra ise Ren kıyısında klasik mimari ve modern alışverişe ayrılmıştır."
       },
       "gastro_picks": {
         "de": [
@@ -259,6 +272,10 @@
         "en": [
           "Ludwigshafen is flat and ideal for exploring on foot.",
           "The Miró wall is best lit in the morning."
+        ],
+        "tr": [
+          "Ludwigshafen düzdür ve yürüyerek keşfetmek için idealdir.",
+          "Miró duvarı sabahları en güzel aydınlanır."
         ]
       }
     },
@@ -275,7 +292,8 @@
             "de": "Südwest-Stadion",
             "hu": "Südwest-Stadion",
             "ro": "Südwest-Stadion",
-            "en": "Südwest-Stadion"
+            "en": "Südwest-Stadion",
+            "tr": "Güneybatı Stadyumu"
           },
           "coords": [
             8.4352,
@@ -290,7 +308,8 @@
             "de": "Ein historisches Stadion, das einst 80.000 Zuschauer fasste.",
             "hu": "Történelmi stadion, amely egykor 80 000 nézőt fogadott.",
             "ro": "Un stadion istoric care odinioară avea o capacitate de 80.000 de spectatori.",
-            "en": "A historic stadium that once held 80,000 spectators."
+            "en": "A historic stadium that once held 80,000 spectators.",
+            "tr": "Bir zamanlar 80.000 seyirciyi ağırlayan tarihi bir stadyum."
           }
         },
         {
@@ -298,7 +317,8 @@
             "de": "Ernst-Bloch-Zentrum",
             "hu": "Ernst-Bloch Központ",
             "ro": "Centrul Ernst-Bloch",
-            "en": "Ernst-Bloch-Zentrum"
+            "en": "Ernst-Bloch-Zentrum",
+            "tr": "Ernst-Bloch-Merkezı"
           },
           "coords": [
             8.4431,
@@ -313,7 +333,8 @@
             "de": "Erfahren Sie mehr über das 'Prinzip Hoffnung'.",
             "hu": "Ismerje meg a 'remény elvét'.",
             "ro": "Aflați mai multe despre 'principiul speranței'.",
-            "en": "Learn more about the 'principle of hope'."
+            "en": "Learn more about the 'principle of hope'.",
+            "tr": "'Umut ilkesi' hakkında daha fazla bilgi edinin."
           }
         },
         {
@@ -321,7 +342,8 @@
             "de": "Wilhelm-Hack-Museum",
             "hu": "Wilhelm-Hack Múzeum",
             "ro": "Muzeul Wilhelm-Hack",
-            "en": "Wilhelm-Hack-Museum"
+            "en": "Wilhelm-Hack-Museum",
+            "tr": "Wilhelm-Hack-Müzesi"
           },
           "coords": [
             8.4421,
@@ -336,7 +358,8 @@
             "de": "Moderne Kunst in einem markanten Industriebau.",
             "hu": "Modern művészet egy jellegzetes ipari épületben.",
             "ro": "Artă modernă într-o clădire industrială marcantă.",
-            "en": "Modern art in a striking industrial building."
+            "en": "Modern art in a striking industrial building.",
+            "tr": "Etkileyici bir sanayi binasında modern sanat."
           }
         },
         {
@@ -344,7 +367,8 @@
             "de": "Hemshof",
             "hu": "Hemshof negyed",
             "ro": "Cartierul Hemshof",
-            "en": "Hemshof District"
+            "en": "Hemshof District",
+            "tr": "Hemshof Mahallesi"
           },
           "coords": [
             8.4385,
@@ -359,7 +383,8 @@
             "de": "Der älteste Stadtteil mit lebendiger Kultur.",
             "hu": "A legidősebb városrész pezsgő kultúrával.",
             "ro": "Cel mai vechi cartier cu o cultură vibrantă.",
-            "en": "The oldest district with vibrant culture."
+            "en": "The oldest district with vibrant culture.",
+            "tr": "Canlı kültüre sahip en eski semt."
           }
         },
         {
@@ -367,7 +392,8 @@
             "de": "Ebertpark",
             "hu": "Ebertpark",
             "ro": "Ebertpark",
-            "en": "Ebertpark"
+            "en": "Ebertpark",
+            "tr": "Ebertpark"
           },
           "coords": [
             8.4151,
@@ -382,7 +408,8 @@
             "de": "Besuchen Sie den wunderschönen Rosengarten im Park.",
             "hu": "Látogassa meg a park gyönyörű rózsakertjét.",
             "ro": "Vizitați minunata grădină de trandafiri din parc.",
-            "en": "Visit the beautiful rose garden in the park."
+            "en": "Visit the beautiful rose garden in the park.",
+            "tr": "Parktaki güzel gül bahçesini ziyaret edin."
           }
         },
         {
@@ -390,7 +417,8 @@
             "de": "Lutherturm",
             "hu": "Luther-torony",
             "ro": "Turnul Luther",
-            "en": "Lutherturm"
+            "en": "Lutherturm",
+            "tr": "Lutherturm"
           },
           "coords": [
             8.4452,
@@ -405,7 +433,8 @@
             "de": "Ein Wahrzeichen inmitten moderner Architektur.",
             "hu": "Jellegzetes torony a modern épületek között.",
             "ro": "Un simbol în mijlocul arhitecturii moderne.",
-            "en": "A landmark in the midst of modern architecture."
+            "en": "A landmark in the midst of modern architecture.",
+            "tr": "Modern mimarinin ortasında bir simge yapı."
           }
         },
         {
@@ -413,7 +442,8 @@
             "de": "Rhein-Galerie",
             "hu": "Rhein-Galerie",
             "ro": "Rhein-Galerie",
-            "en": "Rhein-Galerie"
+            "en": "Rhein-Galerie",
+            "tr": "Rhein-Galerie"
           },
           "coords": [
             8.4485,
@@ -428,7 +458,8 @@
             "de": "Perfekter Ort für einen Abschluss am Wasser.",
             "hu": "Tökéletes hely a nap befejezéséhez a víznél.",
             "ro": "Locul perfect pentru un final pe malul apei.",
-            "en": "Perfect place for a finale by the water."
+            "en": "Perfect place for a finale by the water.",
+            "tr": "Suyun kenarında bir final için mükemmel yer."
           }
         }
       ],
@@ -436,7 +467,8 @@
         "de": "Diese Radtour verbindet die weiten Parks und Stadien mit dem kulturellen Kern. Sie starten im Süden, radeln durch das Zentrum zum Ebertpark im Nordwesten und enden schließlich entspannt an der Rheinpromenade.",
         "hu": "Ez a kerékpártúra összeköti a tágas parkokat és stadionokat a kulturális központtal. Délen kezd, a központon át az északnyugati Ebertparkig teker, végül a Rajna-sétányon pihenhet meg.",
         "ro": "Acest tur cu bicicleta combină parcurile și stadioanele vaste cu nucleul cultural. Începeți în sud, pedalați prin centru până la Ebertpark în nord-vest și încheiați relaxat pe promenada Rinului.",
-        "en": "This bike tour connects the vast parks and stadiums with the cultural core. You start in the south, cycle through the center to Ebertpark in the northwest, and finally end relaxed on the Rhine promenade."
+        "en": "This bike tour connects the vast parks and stadiums with the cultural core. You start in the south, cycle through the center to Ebertpark in the northwest, and finally end relaxed on the Rhine promenade.",
+        "tr": "Bu bisiklet turu geniş parkları ve stadyumları kültürel merkezle birleştirir. Güneyde başlayıp merkezden Ebertpark'a kuzeye doğru bisiklet sürer ve son olarak Ren promenadında rahat bir şekilde sonlandırırsınız."
       },
       "gastro_picks": {
         "de": [
@@ -536,6 +568,10 @@
         "en": [
           "Use the bike paths along the Rhine.",
           "Ludwigshafen is very bike-friendly due to its flat topography."
+        ],
+        "tr": [
+          "Ren boyunca bisiklet yollarını kullanın.",
+          "Ludwigshafen düz bir topoğrafyaya sahip olduğu için bisiklete çok uygundur."
         ]
       }
     },
@@ -552,7 +588,8 @@
             "de": "Ernst-Bloch-Zentrum",
             "hu": "Ernst-Bloch Központ",
             "ro": "Centrul Ernst-Bloch",
-            "en": "Ernst-Bloch-Zentrum"
+            "en": "Ernst-Bloch-Zentrum",
+            "tr": "Ernst-Bloch-Zentrum"
           },
           "coords": [
             8.4431,
@@ -567,7 +604,8 @@
             "de": "Parken Sie im Parkhaus am Berliner Platz.",
             "hu": "Parkoljon a Berliner Platz parkolóházában.",
             "ro": "Parcați în parcarea de la Berliner Platz.",
-            "en": "Park in the parking garage at Berliner Platz."
+            "en": "Park in the parking garage at Berliner Platz.",
+            "tr": "Berliner Platz'taki otoparka park edin."
           }
         },
         {
@@ -575,7 +613,8 @@
             "de": "Wilhelm-Hack-Museum",
             "hu": "Wilhelm-Hack Múzeum",
             "ro": "Muzeul Wilhelm-Hack",
-            "en": "Wilhelm-Hack-Museum"
+            "en": "Wilhelm-Hack-Museum",
+            "tr": "Wilhelm-Hack-Museum"
           },
           "coords": [
             8.4421,
@@ -590,7 +629,8 @@
             "de": "Nur ein kurzer Fußweg vom Bloch-Zentrum.",
             "hu": "Csak rövid séta a Bloch Központtól.",
             "ro": "Doar o scurtă plimbare de la Centrul Bloch.",
-            "en": "Just a short walk from the Bloch Center."
+            "en": "Just a short walk from the Bloch Center.",
+            "tr": "Bloch Merkezi'ne sadece kısa bir yürüyüş mesafesinde."
           }
         },
         {
@@ -598,7 +638,8 @@
             "de": "Friedenskirche",
             "hu": "Béke-templom",
             "ro": "Biserica Păcii",
-            "en": "Friedenskirche"
+            "en": "Friedenskirche",
+            "tr": "Friedenskirche"
           },
           "coords": [
             8.4361,
@@ -613,7 +654,8 @@
             "de": "Klassizistische Kirche in der Nähe des Hemshofs.",
             "hu": "Klasszicista templom a Hemshof közelében.",
             "ro": "Biserică clasicistă în apropiere de Hemshof.",
-            "en": "Classicist church near Hemshof."
+            "en": "Classicist church near Hemshof.",
+            "tr": "Hemshof yakınlarında klasikci kilise."
           }
         },
         {
@@ -621,7 +663,8 @@
             "de": "Hemshof",
             "hu": "Hemshof negyed",
             "ro": "Cartierul Hemshof",
-            "en": "Hemshof District"
+            "en": "Hemshof District",
+            "tr": "Hemshof Mahallesi"
           },
           "coords": [
             8.4385,
@@ -636,7 +679,8 @@
             "de": "Erkunden Sie den Stadtteil zu Fuß nach dem Parken.",
             "hu": "A parkolás után gyalog fedezze fel a negyedet.",
             "ro": "Explorați cartierul pe jos după parcare.",
-            "en": "Explore the district on foot after parking."
+            "en": "Explore the district on foot after parking.",
+            "tr": "Park ettikten sonra mahalleyi yürüyerek keşfedin."
           }
         },
         {
@@ -644,7 +688,8 @@
             "de": "Ebertpark",
             "hu": "Ebertpark",
             "ro": "Ebertpark",
-            "en": "Ebertpark"
+            "en": "Ebertpark",
+            "tr": "Ebertpark"
           },
           "coords": [
             8.4151,
@@ -659,7 +704,8 @@
             "de": "Nutzen Sie den großen Parkplatz am Haupteingang.",
             "hu": "Használja a főbejáratnál lévő nagy parkolót.",
             "ro": "Utilizați parcarea mare de la intrarea principală.",
-            "en": "Use the large parking lot at the main entrance."
+            "en": "Use the large parking lot at the main entrance.",
+            "tr": "Ana girişteki geniş otoparkı kullanın."
           }
         },
         {
@@ -667,7 +713,8 @@
             "de": "Lutherturm",
             "hu": "Luther-torony",
             "ro": "Turnul Luther",
-            "en": "Lutherturm"
+            "en": "Lutherturm",
+            "tr": "Lutherturm"
           },
           "coords": [
             8.4452,
@@ -682,7 +729,8 @@
             "de": "Kurzer Stopp am ehemaligen Kirchturm.",
             "hu": "Rövid megálló az egykori templomtoronynál.",
             "ro": "Scurtă oprire la fostul turn al bisericii.",
-            "en": "Short stop at the former church tower."
+            "en": "Short stop at the former church tower.",
+            "tr": "Eski kilise kulesinde kısa bir durak."
           }
         },
         {
@@ -690,7 +738,8 @@
             "de": "Rhein-Galerie",
             "hu": "Rhein-Galerie",
             "ro": "Rhein-Galerie",
-            "en": "Rhein-Galerie"
+            "en": "Rhein-Galerie",
+            "tr": "Rhein-Galerie"
           },
           "coords": [
             8.4485,
@@ -705,7 +754,8 @@
             "de": "Parkhaus direkt im Center vorhanden.",
             "hu": "A központban saját parkolóház található.",
             "ro": "Parcare disponibilă direct în centru.",
-            "en": "Parking garage available directly in the mall."
+            "en": "Parking garage available directly in the mall.",
+            "tr": "Alışveriş merkezinin içinde doğrudan otopark vardır."
           }
         }
       ],
@@ -713,7 +763,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Cluster der Stadt. Vom kulturellen Zentrum fahren Sie zum Ebertpark im Norden und beenden den Tag an der Rhein-Galerie. Die Route minimiert die Parkplatzsuche durch Nutzung großer Parkhäuser.",
         "hu": "Autóval kényelmesen elérheti a város különböző részeit. A kulturális központból az északi Ebertparkba utazik, majd a Rhein-Galerie-nél zárja a napot. Az útvonal minimalizálja a parkolóhely-keresést a nagy parkolóházak használatával.",
         "ro": "Cu mașina ajungeți confortabil în diferitele clustere ale orașului. Din centrul cultural conduceți spre Ebertpark în nord și încheiați ziua la Rhein-Galerie. Ruta minimizează căutarea locurilor de parcare prin utilizarea parcărilor mari.",
-        "en": "By car, you can easily reach the various clusters of the city. From the cultural center, drive to Ebertpark in the north and end the day at Rhein-Galerie. The route minimizes the search for parking by using large parking garages."
+        "en": "By car, you can easily reach the various clusters of the city. From the cultural center, drive to Ebertpark in the north and end the day at Rhein-Galerie. The route minimizes the search for parking by using large parking garages.",
+        "tr": "Arabayla şehrin farklı kümelerine kolayca ulaşabilirsiniz. Kültür merkezinden kuzeydeki Ebertpark'a sürün ve günü Rhein-Galerie'de sonlandırın. Rota, büyük otoparkların kullanılmasıyla park arayışını en aza indirir."
       },
       "gastro_picks": {
         "de": [
@@ -813,6 +864,10 @@
         "en": [
           "Use the city center parking guidance system.",
           "Watch out for one-way street regulations in Hemshof."
+        ],
+        "tr": [
+          "Şehir merkezi otopark yönlendirme sistemini kullanın.",
+          "Hemshof'ta tek yön trafik düzenlemelerine dikkat edin."
         ]
       }
     },
@@ -829,7 +884,8 @@
             "de": "Südwest-Stadion",
             "hu": "Südwest-Stadion",
             "ro": "Südwest-Stadion",
-            "en": "Südwest-Stadion"
+            "en": "Südwest-Stadion",
+            "tr": "Südwest-Stadion"
           },
           "coords": [
             8.4352,
@@ -844,7 +900,8 @@
             "de": "Erreichbar mit der Straßenbahnlinie 6.",
             "hu": "A 6-os villamossal érhető el.",
             "ro": "Accesibil cu linia de tramvai 6.",
-            "en": "Accessible via tram line 6."
+            "en": "Accessible via tram line 6.",
+            "tr": "Tramvay hattı 6 ile ulaşılabilir."
           }
         },
         {
@@ -852,7 +909,8 @@
             "de": "Ernst-Bloch-Zentrum",
             "hu": "Ernst-Bloch Központ",
             "ro": "Centrul Ernst-Bloch",
-            "en": "Ernst-Bloch-Zentrum"
+            "en": "Ernst-Bloch-Zentrum",
+            "tr": "Ernst-Bloch-Zentrum"
           },
           "coords": [
             8.4431,
@@ -867,7 +925,8 @@
             "de": "Zentrale Haltestelle 'Berliner Platz' nutzen.",
             "hu": "Használja a központi 'Berliner Platz' megállót.",
             "ro": "Utilizați stația centrală 'Berliner Platz'.",
-            "en": "Use the central station 'Berliner Platz'."
+            "en": "Use the central station 'Berliner Platz'.",
+            "tr": "Merkez istasyonu 'Berliner Platz'ı kullanın."
           }
         },
         {
@@ -875,7 +934,8 @@
             "de": "Wilhelm-Hack-Museum",
             "hu": "Wilhelm-Hack Múzeum",
             "ro": "Muzeul Wilhelm-Hack",
-            "en": "Wilhelm-Hack-Museum"
+            "en": "Wilhelm-Hack-Museum",
+            "tr": "Wilhelm-Hack-Museum"
           },
           "coords": [
             8.4421,
@@ -890,7 +950,8 @@
             "de": "Ein kurzer Fußweg vom Berliner Platz.",
             "hu": "Rövid séta a Berliner Platzról.",
             "ro": "O scurtă plimbare de la Berliner Platz.",
-            "en": "A short walk from Berliner Platz."
+            "en": "A short walk from Berliner Platz.",
+            "tr": "Berliner Platz'tan kısa bir yürüyüş."
           }
         },
         {
@@ -898,7 +959,8 @@
             "de": "Hemshof",
             "hu": "Hemshof negyed",
             "ro": "Cartierul Hemshof",
-            "en": "Hemshof District"
+            "en": "Hemshof District",
+            "tr": "Hemshof District"
           },
           "coords": [
             8.4385,
@@ -913,7 +975,8 @@
             "de": "Fahren Sie bis zur Haltestelle 'Hemshofstraße'.",
             "hu": "Utazzon a 'Hemshofstraße' megállóig.",
             "ro": "Mergeți până la stația 'Hemshofstraße'.",
-            "en": "Travel to the 'Hemshofstraße' stop."
+            "en": "Travel to the 'Hemshofstraße' stop.",
+            "tr": "'Hemshofstraße' durağına gidin."
           }
         },
         {
@@ -921,7 +984,8 @@
             "de": "Ebertpark",
             "hu": "Ebertpark",
             "ro": "Ebertpark",
-            "en": "Ebertpark"
+            "en": "Ebertpark",
+            "tr": "Ebertpark"
           },
           "coords": [
             8.4151,
@@ -936,7 +1000,8 @@
             "de": "Linie 10 bringt Sie direkt zum Parkeingang.",
             "hu": "A 10-es járat közvetlenül a park bejáratához viszi.",
             "ro": "Linia 10 vă duce direct la intrarea în parc.",
-            "en": "Line 10 takes you directly to the park entrance."
+            "en": "Line 10 takes you directly to the park entrance.",
+            "tr": "10 numaralı hat sizi doğrudan park girişine götürür."
           }
         },
         {
@@ -944,7 +1009,8 @@
             "de": "Lutherturm",
             "hu": "Luther-torony",
             "ro": "Turnul Luther",
-            "en": "Lutherturm"
+            "en": "Lutherturm",
+            "tr": "Lutherturm"
           },
           "coords": [
             8.4452,
@@ -959,7 +1025,8 @@
             "de": "Umsteigen am Berliner Platz oder Rathaus.",
             "hu": "Átszállás a Berliner Platznál vagy a Rathausnál.",
             "ro": "Schimbați la Berliner Platz sau Rathaus.",
-            "en": "Change at Berliner Platz or Rathaus."
+            "en": "Change at Berliner Platz or Rathaus.",
+            "tr": "Berliner Platz veya Rathaus'ta aktarma yapın."
           }
         },
         {
@@ -967,7 +1034,8 @@
             "de": "Rhein-Galerie",
             "hu": "Rhein-Galerie",
             "ro": "Rhein-Galerie",
-            "en": "Rhein-Galerie"
+            "en": "Rhein-Galerie",
+            "tr": "Rhein-Galerie"
           },
           "coords": [
             8.4485,
@@ -982,7 +1050,8 @@
             "de": "Haltestelle 'Rhein-Galerie' direkt vor der Tür.",
             "hu": "A 'Rhein-Galerie' megálló közvetlenül az épület előtt van.",
             "ro": "Stația 'Rhein-Galerie' direct în fața ușii.",
-            "en": "The 'Rhein-Galerie' stop is directly in front."
+            "en": "The 'Rhein-Galerie' stop is directly in front.",
+            "tr": "'Rhein-Galerie' durağı doğrudan önündedir."
           }
         }
       ],
@@ -990,7 +1059,8 @@
         "de": "Das gut ausgebaute Straßenbahnnetz der RNV bringt Sie schnell zu allen Sehenswürdigkeiten. Besonders praktisch ist der zentrale Knotenpunkt Berliner Platz, von dem aus Sie sternförmig alle Stadtteile erreichen können.",
         "hu": "Az RNV jól kiépített villamoshálózata gyorsan elviszi minden látnivalóhoz. Különösen praktikus a központi Berliner Platz csomópont, ahonnan csillagtúraszerűen érheti el a városrészeket.",
         "ro": "Rețeaua de tramvai bine dezvoltată a RNV vă duce rapid la toate obiectivele. Nodul central Berliner Platz este deosebit de practic, de unde puteți ajunge în toate cartierele în formă de stea.",
-        "en": "The well-developed tram network of the RNV takes you quickly to all the sights. The central hub Berliner Platz is particularly practical, from where you can reach all parts of the city in a star shape."
+        "en": "The well-developed tram network of the RNV takes you quickly to all the sights. The central hub Berliner Platz is particularly practical, from where you can reach all parts of the city in a star shape.",
+        "tr": "RNV'nin iyi gelişmiş tramvay ağı sizi tüm görülecek yerlere hızlıca götürür. Özellikle yıldız şeklinde şehrin tüm bölgelerine ulaşılan merkez düğüm Berliner Platz pratiktir."
       },
       "gastro_picks": {
         "de": [
@@ -1090,6 +1160,10 @@
         "en": [
           "Use the RNV app for real-time departures.",
           "The 24-hour ticket is worth it starting from three trips."
+        ],
+        "tr": [
+          "Gerçek zamanlı kalkışlar için RNV uygulamasını kullanın.",
+          "24 saatlik bilet üç yolculuktan itibaren kârlıdır."
         ]
       }
     }

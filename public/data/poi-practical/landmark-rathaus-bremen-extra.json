@@ -3,55 +3,64 @@
     "de": "Am Markt 21, 28195 Bremen",
     "hu": "Am Markt 21, 28195 Bréma",
     "ro": "Am Markt 21, 28195 Bremen",
-    "en": "Am Markt 21, 28195 Bremen"
+    "en": "Am Markt 21, 28195 Bremen",
+    "tr": "Am Markt 21, 28195 Bremen"
   },
   "openingHours": {
     "de": "Mo-Fr 11:00-17:00 (Führungen), Sa-Su 10:00-17:00",
     "hu": "Hé-Pé 11:00-17:00 (túrák), Szo-Va 10:00-17:00",
     "ro": "Lu-Vi 11:00-17:00 (tururi), Sâm-Du 10:00-17:00",
-    "en": "Mon-Fri 11:00-17:00 (tours), Sat-Sun 10:00-17:00"
+    "en": "Mon-Fri 11:00-17:00 (tours), Sat-Sun 10:00-17:00",
+    "tr": "Pzt-Cuma 11:00-17:00 (turlar), Cmt-Paz 10:00-17:00"
   },
   "entranceFee": {
     "de": "€9.00 Führung Erwachsene",
     "hu": "9,00 € vezetett túra felnőtteknek",
     "ro": "9,00 € tur ghidat adulți",
-    "en": "€9.00 guided tour adults"
+    "en": "€9.00 guided tour adults",
+    "tr": "€9,00 rehberli tur yetişkin"
   },
   "website": "https://www.rathaus.bremen.de",
   "publicTransport": {
     "de": "Straßenbahn Linien 2, 3, 4, 6, 8 (Haltestelle Domsheide)",
     "hu": "2, 3, 4, 6, 8-es villamos (Domsheide megálló)",
     "ro": "Tramvai liniile 2, 3, 4, 6, 8 (stația Domsheide)",
-    "en": "Tram lines 2, 3, 4, 6, 8 (Domsheide stop)"
+    "en": "Tram lines 2, 3, 4, 6, 8 (Domsheide stop)",
+    "tr": "Tramvay hatları 2, 3, 4, 6, 8 (Domsheide durağı)"
   },
   "parking": {
     "de": "Parkhaus Mitte oder Parkhaus Pressehaus",
     "hu": "Parkhaus Mitte vagy Pressehaus parkoló",
     "ro": "Parcare Mitte sau Pressehaus",
-    "en": "Parking Mitte or Parking Pressehaus"
+    "en": "Parking Mitte or Parking Pressehaus",
+    "tr": "Parking Mitte veya Parking Pressehaus"
   },
   "accessibility": {
     "de": "Barrierefrei über Seiteneingang zugänglich",
     "hu": "Akadálymentes, oldalsó bejáraton át megközelíthető",
     "ro": "Accesibil prin intrarea laterală",
-    "en": "Accessible via side entrance"
+    "en": "Accessible via side entrance",
+    "tr": "Yan girişten erişilebilir"
   },
   "photoRules": {
     "de": "Privat erlaubt",
     "hu": "Magáncélra engedélyezett",
     "ro": "Permis pentru uz privat",
-    "en": "Allowed for private use"
+    "en": "Allowed for private use",
+    "tr": "Özel kullanım için izinli"
   },
   "bestTimeToVisit": {
     "de": "Vormittags für ruhigere Führungen",
     "hu": "Délelőtt a nyugodtabb túrákért",
     "ro": "Dimineața pentru tururi mai liniștite",
-    "en": "Mornings for quieter tours"
+    "en": "Mornings for quieter tours",
+    "tr": "Daha sakin turlar için sabahlar"
   },
   "audioGuide": {
     "de": "Deutsch, Englisch",
     "hu": "Német, angol",
     "ro": "Germană, engleză",
-    "en": "German, English"
+    "en": "German, English",
+    "tr": "Almanca, İngilizce"
   }
 }

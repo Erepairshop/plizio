@@ -21,7 +21,8 @@
             "de": "Unteres Schloss",
             "hu": "Alsó Kastély",
             "ro": "Castelul de Jos",
-            "en": "Lower Palace"
+            "en": "Lower Palace",
+            "tr": "Lower Palace"
           },
           "coords": [
             8.0242,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die barocke Fassade und die Gruft der Nassau-Siegener Fürsten.",
             "hu": "Csodáld meg a barokk homlokzatot és a hercegi kriptát.",
             "ro": "Admirați fațada barocă și cripta prinților de Nassau-Siegen.",
-            "en": "Admire the Baroque facade and the crypt of the Princes of Nassau-Siegen."
+            "en": "Admire the Baroque facade and the crypt of the Princes of Nassau-Siegen.",
+            "tr": "Barok cepheye ve Nassau-Siegen Prensleri'nin kriptine hayran kalın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Nikolaikirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "tr": "St. Nicholas Church"
           },
           "coords": [
             8.0255,
@@ -59,7 +62,8 @@
             "de": "Das goldene Krönchen auf dem Turm ist das Wahrzeichen der Stadt.",
             "hu": "A torony tetején lévő arany korona a város jelképe.",
             "ro": "Coroana de aur de pe turn este simbolul orașului.",
-            "en": "The golden crown on top of the tower is the city's landmark."
+            "en": "The golden crown on top of the tower is the city's landmark.",
+            "tr": "Kulenin tepesindeki altın taç şehrin simgesidir."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sf. Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "St. Mary's Church"
           },
           "coords": [
             8.0245,
@@ -82,7 +87,8 @@
             "de": "Die einzige erhaltene Barockkirche der Stadt mit beeindruckender Akustik.",
             "hu": "A város egyetlen épségben maradt barokk temploma.",
             "ro": "Singura biserică barocă păstrată din oraș, cu o acustică impresionantă.",
-            "en": "The city's only preserved Baroque church with impressive acoustics."
+            "en": "The city's only preserved Baroque church with impressive acoustics.",
+            "tr": "Etkileyici akustiğe sahip şehrin tek korunmuş Barok kilisesi."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museum für Gegenwartskunst",
             "hu": "Kortárs Művészeti Múzeum",
             "ro": "Muzeul de Artă Contemporană",
-            "en": "Museum of Contemporary Art"
+            "en": "Museum of Contemporary Art",
+            "tr": "Museum of Contemporary Art"
           },
           "coords": [
             8.0221,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie die Sammlung Lambrecht-Schadeberg mit Werken von Rubens.",
             "hu": "Nézd meg a Lambrecht-Schadeberg gyűjteményt Rubens műveivel.",
             "ro": "Vizitați colecția Lambrecht-Schadeberg cu lucrări de Rubens.",
-            "en": "Visit the Lambrecht-Schadeberg collection featuring works by Rubens."
+            "en": "Visit the Lambrecht-Schadeberg collection featuring works by Rubens.",
+            "tr": "Rubens'in eserlerini içeren Lambrecht-Schadeberg koleksiyonunu ziyaret edin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Oberes Schloss",
             "hu": "Felső Kastély",
             "ro": "Castelul de Sus",
-            "en": "Upper Palace"
+            "en": "Upper Palace",
+            "tr": "Upper Palace"
           },
           "coords": [
             8.0302,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie den weiten Blick über die Stadt vom Schlosspark aus.",
             "hu": "Élvezd a városra nyíló kilátást a kastélyparkból.",
             "ro": "Bucurați-vă de panorama orașului din parcul castelului.",
-            "en": "Enjoy the wide view over the city from the palace park."
+            "en": "Enjoy the wide view over the city from the palace park.",
+            "tr": "Saray parkından şehrin geniş manzarasının keyfini çıkarın."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Stadtmauer Siegen",
             "hu": "Városfal",
             "ro": "Zidul Cetății",
-            "en": "City Walls"
+            "en": "City Walls",
+            "tr": "City Walls"
           },
           "coords": [
             8.0285,
@@ -151,7 +162,8 @@
             "de": "Ein Spaziergang entlang der Reste der mittelalterlichen Befestigung.",
             "hu": "Séta a középkori erődítmény maradványai mentén.",
             "ro": "O plimbare de-a lungul resturilor fortificației medievale.",
-            "en": "A walk along the remains of the medieval fortifications."
+            "en": "A walk along the remains of the medieval fortifications.",
+            "tr": "Ortaçağ surlarının kalıntıları boyunca bir yürüyüş."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im Unteren Schloss und erkunden Sie die barocke Architektur der Oberstadt. Nach dem Besuch der Nikolaikirche mit ihrem goldenen Krönchen führt der Weg zum Museum für Gegenwartskunst. Der Nachmittag gehört dem Oberen Schloss und seinem prächtigen Park, bevor Sie den Tag an den historischen Stadtmauern mit Blick auf das Siegerland ausklingen lassen.",
         "hu": "Kezdje a napot az Alsó Kastélynál, majd fedezze fel a felsőváros barokk építészetét. A Szent Miklós-templom arany koronájának megtekintése után látogasson el a Kortárs Művészeti Múzeumba. A délutánt töltse a Felső Kastélyban és annak pompás parkjában, végül zárja a napot a történelmi városfalaknál, kilátással a Siegerland vidékére.",
         "ro": "Începeți ziua la Castelul de Jos și explorați arhitectura barocă a orașului de sus. După vizitarea Bisericii Sf. Nicolae cu coroana sa de aur, drumul duce la Muzeul de Artă Contemporană. După-amiaza aparține Castelului de Sus și parcului său magnific, înainte de a încheia ziua la zidurile istorice ale orașului, cu vedere spre regiunea Siegerland.",
-        "en": "Start your day at the Lower Palace and explore the Baroque architecture of the Upper City. After visiting St. Nicholas Church with its golden crown, head to the Museum of Contemporary Art. Spend the afternoon at the Upper Palace and its magnificent park, finally ending the day at the historical city walls with views over the Siegerland region."
+        "en": "Start your day at the Lower Palace and explore the Baroque architecture of the Upper City. After visiting St. Nicholas Church with its golden crown, head to the Museum of Contemporary Art. Spend the afternoon at the Upper Palace and its magnificent park, finally ending the day at the historical city walls with views over the Siegerland region.",
+        "tr": "Gününüzü Lower Palace'ta başlayıp Upper City'nin Barok mimarisini keşfederek başlatın. Altın tacı olan St. Nicholas Church'u ziyaret ettikten sonra Museum of Contemporary Art'a yönelin. Öğleden sonrayı Upper Palace ve muhteşem parkında geçirin; günü Siegerland manzaralı tarihî şehir surlarında sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "The 'Krönchen' is beautifully illuminated at night.",
           "Use the glass elevators between the lower and upper city.",
           "Visit Rubens' birthplace for local history."
+        ],
+        "tr": [
+          "Yukarı şehir çok dik, rahat ayakkabılar giyin.",
+          "'Krönchen' gece güzel aydınlatılır.",
+          "Alt ve üst şehir arasındaki cam asansörleri kullanın.",
+          "Yerel tarih için Rubens'in doğduğu evi ziyaret edin."
         ]
       }
     },
@@ -335,7 +354,8 @@
             "de": "Sieg-Ufer",
             "hu": "Sieg-part",
             "ro": "Malul râului Sieg",
-            "en": "Sieg Riverbank"
+            "en": "Sieg Riverbank",
+            "tr": "Sieg Riverbank"
           },
           "coords": [
             8.0185,
@@ -350,7 +370,8 @@
             "de": "Idealer Startpunkt für eine Radtour entlang des Flusses.",
             "hu": "Ideális kiindulópont egy folyó menti kerékpártúrához.",
             "ro": "Punct de plecare ideal pentru o tură cu bicicleta de-a lungul râului.",
-            "en": "Ideal starting point for a bike tour along the river."
+            "en": "Ideal starting point for a bike tour along the river.",
+            "tr": "Nehir boyunca bisiklet turu için ideal başlangıç noktası."
           }
         },
         {
@@ -358,7 +379,8 @@
             "de": "Unteres Schloss",
             "hu": "Alsó Kastély",
             "ro": "Castelul de Jos",
-            "en": "Lower Palace"
+            "en": "Lower Palace",
+            "tr": "Lower Palace"
           },
           "coords": [
             8.0242,
@@ -373,7 +395,8 @@
             "de": "Fahrradständer befinden sich direkt am Schlossplatz.",
             "hu": "Kerékpártárolók közvetlenül a kastélytéren találhatók.",
             "ro": "Suporturile pentru biciclete se află direct în piața castelului.",
-            "en": "Bike racks are located directly at the palace square."
+            "en": "Bike racks are located directly at the palace square.",
+            "tr": "Bisiklet parkları doğrudan saray meydanında bulunmaktadır."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "KrönchenCenter",
             "hu": "KrönchenCenter",
             "ro": "KrönchenCenter",
-            "en": "KrönchenCenter"
+            "en": "KrönchenCenter",
+            "tr": "KrönchenCenter"
           },
           "coords": [
             8.0235,
@@ -396,7 +420,8 @@
             "de": "Kulturelles Zentrum mit Bibliothek und Archiv.",
             "hu": "Kulturális központ könyvtárral és archívummal.",
             "ro": "Centru cultural cu bibliotecă și arhivă.",
-            "en": "Cultural center with library and archive."
+            "en": "Cultural center with library and archive.",
+            "tr": "Kütüphane ve arşiv bulunan kültür merkezi."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Aktives Museum Südwestfalen",
             "hu": "Dél-Vesztfáliai Aktív Múzeum",
             "ro": "Muzeul Activ Südwestfalen",
-            "en": "Active Museum South Westphalia"
+            "en": "Active Museum South Westphalia",
+            "tr": "Active Museum South Westphalia"
           },
           "coords": [
             8.0215,
@@ -419,7 +445,8 @@
             "de": "Gedenkstätte für die Opfer des Nationalsozialismus.",
             "hu": "Emlékhely a nemzetiszocializmus áldozatainak.",
             "ro": "Memorial pentru victimele național-socialismului.",
-            "en": "Memorial for the victims of National Socialism."
+            "en": "Memorial for the victims of National Socialism.",
+            "tr": "Ulusal Sosyalizm kurbanları için anıt."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Oberes Schloss",
             "hu": "Felső Kastély",
             "ro": "Castelul de Sus",
-            "en": "Upper Palace"
+            "en": "Upper Palace",
+            "tr": "Upper Palace"
           },
           "coords": [
             8.0302,
@@ -442,7 +470,8 @@
             "de": "Achtung: Steiler Anstieg zur Oberstadt, E-Bikes empfohlen.",
             "hu": "Figyelem: Meredek emelkedő a felsővárosba, e-bike ajánlott.",
             "ro": "Atenție: Urcare abruptă spre orașul de sus, se recomandă e-bike.",
-            "en": "Caution: Steep climb to the upper city, e-bikes recommended."
+            "en": "Caution: Steep climb to the upper city, e-bikes recommended.",
+            "tr": "Dikkat: Yukarı şehre tırmanış dik, e-bisiklet önerilir."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Nikolaikirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "tr": "St. Nicholas Church"
           },
           "coords": [
             8.0255,
@@ -465,7 +495,8 @@
             "de": "Kurzer Stopp am Marktplatz im Herzen der Oberstadt.",
             "hu": "Rövid megálló a piactéren a felsőváros szívében.",
             "ro": "Scurtă oprire în piața centrală din inima orașului de sus.",
-            "en": "Short stop at the market square in the heart of the upper city."
+            "en": "Short stop at the market square in the heart of the upper city.",
+            "tr": "Yukarı şehrin kalbindeki pazar meydanında kısa durak."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Stadtmauer Siegen",
             "hu": "Városfal",
             "ro": "Zidul Cetății",
-            "en": "City Walls"
+            "en": "City Walls",
+            "tr": "City Walls"
           },
           "coords": [
             8.0285,
@@ -488,7 +520,8 @@
             "de": "Abschluss der Tour mit Blick auf die Befestigungsanlagen.",
             "hu": "A túra lezárása az erődítmények látványával.",
             "ro": "Încheierea turului cu o vedere spre fortificații.",
-            "en": "End of the tour with a view of the fortifications."
+            "en": "End of the tour with a view of the fortifications.",
+            "tr": "Sur manzarasıyla turun sonu."
           }
         }
       ],
@@ -496,7 +529,8 @@
         "de": "Diese Radtour verbindet die grüne Sieg mit den historischen Höhen der Stadt. Nach dem entspannten Start am Flussufer fordern die Anstiege zur Oberstadt Ihre Kondition. Belohnt werden Sie mit den kulturellen Highlights am Unteren und Oberen Schloss sowie tiefen Einblicken in die Stadtgeschichte im Aktiven Museum.",
         "hu": "Ez a kerékpártúra összeköti a zöld Sieg folyót a város történelmi magasságaival. A folyóparti pihentető kezdés után a felsővárosi emelkedők próbára teszik az erőnlétet. A jutalom az Alsó és Felső Kastély kulturális látnivalói, valamint a város történelmének mélyebb megismerése az Aktív Múzeumban.",
         "ro": "Acest tur cu bicicleta combină zona verde a râului Sieg cu înălțimile istorice ale orașului. După startul relaxant pe malul râului, urcările spre orașul de sus vă vor solicita condiția fizică. Veți fi răsplătiți cu atracțiile culturale de la Castelele de Jos și de Sus și cu incursiuni în istoria orașului la Muzeul Activ.",
-        "en": "This bike tour combines the green Sieg river with the historical heights of the city. After a relaxed start on the riverbank, the climbs to the Upper City will test your fitness. You'll be rewarded with cultural highlights at the Lower and Upper Palaces and deep insights into city history at the Active Museum."
+        "en": "This bike tour combines the green Sieg river with the historical heights of the city. After a relaxed start on the riverbank, the climbs to the Upper City will test your fitness. You'll be rewarded with cultural highlights at the Lower and Upper Palaces and deep insights into city history at the Active Museum.",
+        "tr": "Bu bisiklet turu yeşil Sieg nehrini şehirdeki tarihî yüksekliklerle birleştirir. Nehir kenarında rahat bir başlangıcın ardından Yukarı Şehir'e yapılan tırmanışlar kondisyonunuzu sınayacak. Lower ve Upper Palace'taki kültürel ögelerle ödüllendirileceksiniz ve Active Museum'da şehir tarihine dair derin içgörüler edineceksiniz."
       },
       "gastro_picks": {
         "de": [
@@ -604,6 +638,12 @@
           "Use the marked bike paths along the Sieg river.",
           "In the pedestrian zone, ride at walking pace or push your bike.",
           "Descents can be steep, check your brakes."
+        ],
+        "tr": [
+          "Topografya nedeniyle Siegen için e-bisiklet şiddetle tavsiye edilir.",
+          "Sieg nehri boyunca işaretlenmiş bisiklet yollarını kullanın.",
+          "Yaya bölgesinde yürüyüş hızında sürün veya bisikletinizi itin.",
+          "İnişler dik olabilir, frenlerinizi kontrol edin."
         ]
       }
     },
@@ -620,7 +660,8 @@
             "de": "Unteres Schloss (Cluster A)",
             "hu": "Alsó Kastély (A csoport)",
             "ro": "Castelul de Jos (Cluster A)",
-            "en": "Lower Palace (Cluster A)"
+            "en": "Lower Palace (Cluster A)",
+            "tr": "Alt Saray (A Kümelenmesi)"
           },
           "coords": [
             8.0242,
@@ -635,7 +676,8 @@
             "de": "Parken Sie in der Tiefgarage Karstadt direkt am Schloss.",
             "hu": "Parkolj a Karstadt mélygarázsban közvetlenül a kastélynál.",
             "ro": "Parcați în garajul subteran Karstadt direct la castel.",
-            "en": "Park in the Karstadt underground garage directly at the palace."
+            "en": "Park in the Karstadt underground garage directly at the palace.",
+            "tr": "Sarayın hemen yanında Karstadt yeraltı otoparkına park edin."
           }
         },
         {
@@ -643,7 +685,8 @@
             "de": "Museum für Gegenwartskunst (Cluster A)",
             "hu": "Kortárs Művészeti Múzeum (A csoport)",
             "ro": "Muzeul de Artă Contemporană (Cluster A)",
-            "en": "Museum of Contemporary Art (Cluster A)"
+            "en": "Museum of Contemporary Art (Cluster A)",
+            "tr": "Çağdaş Sanat Müzesi (A Kümelenmesi)"
           },
           "coords": [
             8.0221,
@@ -658,7 +701,8 @@
             "de": "Kurzer Fußweg vom Parkhaus am Unteren Schloss.",
             "hu": "Rövid séta az Alsó Kastély parkolóházától.",
             "ro": "Scurtă plimbare de la parcarea de la Castelul de Jos.",
-            "en": "Short walk from the parking garage at the Lower Palace."
+            "en": "Short walk from the parking garage at the Lower Palace.",
+            "tr": "Alt Saray otoparkından kısa bir yürüme mesafesinde."
           }
         },
         {
@@ -666,7 +710,8 @@
             "de": "Nikolaikirche (Cluster B)",
             "hu": "Szent Miklós-templom (B csoport)",
             "ro": "Biserica Sf. Nicolae (Cluster B)",
-            "en": "St. Nicholas Church (Cluster B)"
+            "en": "St. Nicholas Church (Cluster B)",
+            "tr": "Aziz Nicholas Kilisesi (B Kümelenmesi)"
           },
           "coords": [
             8.0255,
@@ -681,7 +726,8 @@
             "de": "Parken am Marktplatz oder im Parkhaus Löhrtor.",
             "hu": "Parkolás a piactéren vagy a Löhrtor parkolóházban.",
             "ro": "Parcare în piața centrală sau în garajul Löhrtor.",
-            "en": "Parking at the market square or in the Löhrtor garage."
+            "en": "Parking at the market square or in the Löhrtor garage.",
+            "tr": "Pazar meydanında veya Löhrtor otoparkında park edin."
           }
         },
         {
@@ -689,7 +735,8 @@
             "de": "Marienkirche (Cluster B)",
             "hu": "Mária-templom (B csoport)",
             "ro": "Biserica Sf. Maria (Cluster B)",
-            "en": "St. Mary's Church (Cluster B)"
+            "en": "St. Mary's Church (Cluster B)",
+            "tr": "Aziz Mary Kilisesi (B Kümelenmesi)"
           },
           "coords": [
             8.0245,
@@ -704,7 +751,8 @@
             "de": "Zu Fuß erreichbar vom Marktplatz-Parkplatz.",
             "hu": "Gyalogosan elérhető a piactéri parkolóból.",
             "ro": "Accesibil pe jos din parcarea din piața centrală.",
-            "en": "Accessible on foot from the market square parking."
+            "en": "Accessible on foot from the market square parking.",
+            "tr": "Pazar meydanı otoparkından yürüyerek ulaşılabilir."
           }
         },
         {
@@ -712,7 +760,8 @@
             "de": "Oberes Schloss (Cluster C)",
             "hu": "Felső Kastély (C csoport)",
             "ro": "Castelul de Sus (Cluster C)",
-            "en": "Upper Palace (Cluster C)"
+            "en": "Upper Palace (Cluster C)",
+            "tr": "Üst Saray (C Kümelenmesi)"
           },
           "coords": [
             8.0302,
@@ -727,7 +776,8 @@
             "de": "Eigener Parkplatz direkt vor dem Schlossgelände vorhanden.",
             "hu": "Saját parkoló közvetlenül a kastély területe előtt.",
             "ro": "Parcare proprie disponibilă direct în fața castelului.",
-            "en": "Own parking available directly in front of the palace grounds."
+            "en": "Own parking available directly in front of the palace grounds.",
+            "tr": "Saray arazisinin hemen önünde kendi park yeri mevcut."
           }
         },
         {
@@ -735,7 +785,8 @@
             "de": "Stadtmauer Siegen (Cluster C)",
             "hu": "Városfal (C csoport)",
             "ro": "Zidul Cetății (Cluster C)",
-            "en": "City Walls (Cluster C)"
+            "en": "City Walls (Cluster C)",
+            "tr": "Şehir Surları (C Kümelenmesi)"
           },
           "coords": [
             8.0285,
@@ -750,7 +801,8 @@
             "de": "Vom Parkplatz am Oberen Schloss in wenigen Minuten zu Fuß.",
             "hu": "A Felső Kastély parkolójától pár perc séta.",
             "ro": "La câteva minute de mers pe jos de la parcarea Castelului de Sus.",
-            "en": "A few minutes walk from the Upper Palace parking."
+            "en": "A few minutes walk from the Upper Palace parking.",
+            "tr": "Üst Saray otoparkından birkaç dakika yürüme mesafesinde."
           }
         },
         {
@@ -758,7 +810,8 @@
             "de": "KrönchenCenter",
             "hu": "KrönchenCenter",
             "ro": "KrönchenCenter",
-            "en": "KrönchenCenter"
+            "en": "KrönchenCenter",
+            "tr": "KrönchenCenter"
           },
           "coords": [
             8.0235,
@@ -773,7 +826,8 @@
             "de": "Modernes Zentrum für Bildung und Kultur.",
             "hu": "Modern oktatási és kulturális központ.",
             "ro": "Centru modern pentru educație și cultură.",
-            "en": "Modern center for education and culture."
+            "en": "Modern center for education and culture.",
+            "tr": "Eğitim ve kültür için modern merkez."
           }
         },
         {
@@ -781,7 +835,8 @@
             "de": "Aktives Museum Südwestfalen",
             "hu": "Aktív Múzeum",
             "ro": "Muzeul Activ",
-            "en": "Active Museum"
+            "en": "Active Museum",
+            "tr": "Aktif Müze"
           },
           "coords": [
             8.0215,
@@ -796,7 +851,8 @@
             "de": "Abschluss im historischen Teil der Unterstadt.",
             "hu": "Zárás az alsóváros történelmi részén.",
             "ro": "Încheiere în partea istorică a orașului de jos.",
-            "en": "Conclusion in the historical part of the lower city."
+            "en": "Conclusion in the historical part of the lower city.",
+            "tr": "Alt şehrin tarihi kesiminde kapanış."
           }
         }
       ],
@@ -804,7 +860,8 @@
         "de": "Entdecken Sie Siegen komfortabel in drei Clustern. Zuerst erkunden Sie das Untere Schloss und das Museum für Gegenwartskunst. Danach führt die Fahrt in die Oberstadt zum Marktplatz mit seinen historischen Kirchen. Den Nachmittag verbringen Sie auf der Anhöhe am Oberen Schloss mit seinen Gärten, bevor Sie die Tour im unteren Stadtkern abschließen.",
         "hu": "Fedezze fel Siegent kényelmesen, három csoportba osztva. Először az Alsó Kastélyt és a Kortárs Művészeti Múzeumot nézze meg. Ezután autózzon a felsővárosba, a piactér történelmi templomaihoz. A délutánt töltse a Felső Kastélynál és annak kertjeiben, majd zárja a túrát a városközpont alsó részén.",
         "ro": "Descoperiți Siegen confortabil în trei grupuri (clustere). Mai întâi explorați Castelul de Jos și Muzeul de Artă Contemporană. Apoi, drumul duce în orașul de sus la piața centrală cu bisericile sale istorice. După-amiaza o veți petrece la înălțime, la Castelul de Sus și grădinile sale, înainte de a încheia turul în centrul orașului de jos.",
-        "en": "Discover Siegen comfortably in three clusters. First, explore the Lower Palace and the Museum of Contemporary Art. Then drive to the Upper City to the market square and its historical churches. Spend the afternoon on the heights at the Upper Palace and its gardens before concluding the tour in the lower city center."
+        "en": "Discover Siegen comfortably in three clusters. First, explore the Lower Palace and the Museum of Contemporary Art. Then drive to the Upper City to the market square and its historical churches. Spend the afternoon on the heights at the Upper Palace and its gardens before concluding the tour in the lower city center.",
+        "tr": "Siegen'i rahatça üç kümelenmede keşfedin. Önce Alt Saray ve Çağdaş Sanat Müzesi'ni gezin. Ardından tepeye, pazar meydanına ve tarihi kiliselere gidin. Öğleden sonrayı Üst Saray ve bahçelerinde geçirip turu alt şehir merkezinde tamamlayın."
       },
       "gastro_picks": {
         "de": [
@@ -912,6 +969,12 @@
           "On weekends, parking in the upper city is limited.",
           "Navigate to 'Oberes Schloss' for the best parking with a view.",
           "Avoid rush hour around the Löhrtor area."
+        ],
+        "tr": [
+          "Üst şehirdeki otoparklar genellikle dardır, dikkatli sürün.",
+          "Hafta sonları üst şehirde park yeri sınırlıdır.",
+          "'Oberes Schloss' yönünde navigasyon yapın; manzaralı en iyi park yeri burasıdır.",
+          "Löhrtor bölgesinde yoğun saatlerden kaçının."
         ]
       }
     },
@@ -928,7 +991,8 @@
             "de": "Unteres Schloss",
             "hu": "Alsó Kastély",
             "ro": "Castelul de Jos",
-            "en": "Lower Palace"
+            "en": "Lower Palace",
+            "tr": "Alt Saray"
           },
           "coords": [
             8.0242,
@@ -943,7 +1007,8 @@
             "de": "Buslinien C100/C101 vom Hauptbahnhof bis Haltestelle 'Kölner Tor'.",
             "hu": "C100/C101 busz a főpályaudvartól a 'Kölner Tor' megállóig.",
             "ro": "Liniile de autobuz C100/C101 de la gară până la stația 'Kölner Tor'.",
-            "en": "Bus lines C100/C101 from main station to 'Kölner Tor' stop."
+            "en": "Bus lines C100/C101 from main station to 'Kölner Tor' stop.",
+            "tr": "Ana istasyondan 'Kölner Tor' durağına C100/C101 otobüs hatları."
           }
         },
         {
@@ -951,7 +1016,8 @@
             "de": "Museum für Gegenwartskunst",
             "hu": "Kortárs Művészeti Múzeum",
             "ro": "Muzeul de Artă Contemporană",
-            "en": "Museum of Contemporary Art"
+            "en": "Museum of Contemporary Art",
+            "tr": "Çağdaş Sanat Müzesi"
           },
           "coords": [
             8.0221,
@@ -966,7 +1032,8 @@
             "de": "Zu Fuß vom Kölner Tor in wenigen Minuten erreichbar.",
             "hu": "Gyalog a Kölner Tortól pár perc alatt elérhető.",
             "ro": "Accesibil pe jos de la Kölner Tor în câteva minute.",
-            "en": "Accessible on foot from Kölner Tor in a few minutes."
+            "en": "Accessible on foot from Kölner Tor in a few minutes.",
+            "tr": "Kölner Tor'dan birkaç dakikalık yürüme mesafesinde erişilebilir."
           }
         },
         {
@@ -974,7 +1041,8 @@
             "de": "KrönchenCenter",
             "hu": "KrönchenCenter",
             "ro": "KrönchenCenter",
-            "en": "KrönchenCenter"
+            "en": "KrönchenCenter",
+            "tr": "KrönchenCenter"
           },
           "coords": [
             8.0235,
@@ -989,7 +1057,8 @@
             "de": "Zentraler Treffpunkt für Kulturinteressierte.",
             "hu": "Központi találkozóhely a kultúra iránt érdeklődőknek.",
             "ro": "Punct central de întâlnire pentru cei interesați de cultură.",
-            "en": "Central meeting point for those interested in culture."
+            "en": "Central meeting point for those interested in culture.",
+            "tr": "Kültürle ilgilenenler için merkezi buluşma noktası."
           }
         },
         {
@@ -997,7 +1066,8 @@
             "de": "Nikolaikirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "tr": "Aziz Nicholas Kilisesi"
           },
           "coords": [
             8.0255,
@@ -1012,7 +1082,8 @@
             "de": "Buslinie UX6 vom Unteren Schloss Richtung Rathaus.",
             "hu": "UX6-os busz az Alsó Kastélytól a Városháza felé.",
             "ro": "Linia de autobuz UX6 de la Castelul de Jos spre Primărie.",
-            "en": "Bus line UX6 from Lower Palace towards City Hall."
+            "en": "Bus line UX6 from Lower Palace towards City Hall.",
+            "tr": "Alt Saray'dan Belediye yönüne UX6 otobüs hattı."
           }
         },
         {
@@ -1020,7 +1091,8 @@
             "de": "Oberes Schloss",
             "hu": "Felső Kastély",
             "ro": "Castelul de Sus",
-            "en": "Upper Palace"
+            "en": "Upper Palace",
+            "tr": "Üst Saray"
           },
           "coords": [
             8.0302,
@@ -1035,7 +1107,8 @@
             "de": "Buslinie C105/C106 bis Haltestelle 'Oberes Schloss'.",
             "hu": "C105/C106 busz az 'Oberes Schloss' megállóig.",
             "ro": "Linia de autobuz C105/C106 până la stația 'Oberes Schloss'.",
-            "en": "Bus line C105/C106 to 'Oberes Schloss' stop."
+            "en": "Bus line C105/C106 to 'Oberes Schloss' stop.",
+            "tr": "'Oberes Schloss' durağına C105/C106 otobüs hattı."
           }
         },
         {
@@ -1043,7 +1116,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sf. Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Aziz Mary Kilisesi"
           },
           "coords": [
             8.0245,
@@ -1058,7 +1132,8 @@
             "de": "In der Nähe der Haltestelle 'Marburger Tor'.",
             "hu": "A 'Marburger Tor' megálló közelében.",
             "ro": "În apropierea stației 'Marburger Tor'.",
-            "en": "Near the 'Marburger Tor' stop."
+            "en": "Near the 'Marburger Tor' stop.",
+            "tr": "'Marburger Tor' durağının yakınında."
           }
         },
         {
@@ -1066,7 +1141,8 @@
             "de": "Stadtmauer Siegen",
             "hu": "Városfal",
             "ro": "Zidul Cetății",
-            "en": "City Walls"
+            "en": "City Walls",
+            "tr": "Şehir Surları"
           },
           "coords": [
             8.0285,
@@ -1081,7 +1157,8 @@
             "de": "Abschluss im historischen Teil vor der Rückfahrt zum Bahnhof.",
             "hu": "Befejezés a történelmi részen a vasútállomásra való visszatérés előtt.",
             "ro": "Încheiere în partea istorică înainte de întoarcerea la gară.",
-            "en": "Conclusion in the historical part before returning to the station."
+            "en": "Conclusion in the historical part before returning to the station.",
+            "tr": "İstasyona dönmeden önce tarihi kesimde kapanış."
           }
         }
       ],
@@ -1089,7 +1166,8 @@
         "de": "Dank des gut ausgebauten Busnetzes erreichen Sie alle Sehenswürdigkeiten Siegens mühelos. Beginnen Sie im Tal am Unteren Schloss und lassen Sie sich bequem mit dem Bus auf die Anhöhen der Oberstadt bringen. So sparen Sie sich den steilen Aufstieg und haben mehr Zeit für die Museen und historischen Kirchen der Stadt.",
         "hu": "A jól kiépített buszhálózatnak köszönhetően Siegen összes látnivalója könnyen elérhető. Kezdje a völgyben az Alsó Kastélynál, majd buszozzon kényelmesen a felsőváros magaslataira. Így megspórolja a meredek emelkedőt, és több ideje marad a múzeumokra és a történelmi templomokra.",
         "ro": "Datorită rețelei de autobuze bine dezvoltate, puteți ajunge cu ușurință la toate atracțiile din Siegen. Începeți în vale la Castelul de Jos și lăsați-vă transportați confortabil cu autobuzul pe colinele orașului de sus. Astfel economisiți urcarea abruptă și aveți mai mult timp pentru muzee și bisericile istorice.",
-        "en": "Thanks to the well-developed bus network, you can reach all of Siegen's sights effortlessly. Start in the valley at the Lower Palace and take the bus comfortably to the heights of the Upper City. This saves you the steep climb and gives you more time for the museums and historical churches."
+        "en": "Thanks to the well-developed bus network, you can reach all of Siegen's sights effortlessly. Start in the valley at the Lower Palace and take the bus comfortably to the heights of the Upper City. This saves you the steep climb and gives you more time for the museums and historical churches.",
+        "tr": "İyi gelişmiş otobüs ağı sayesinde Siegen'in tüm görmeciklerine zahmetsizce ulaşabilirsiniz. Vadide Alt Saray'da başlayıp konforla Üst Şehir'e otobüsle çıkın. Bu dik tırmanışı kurtarır ve müzeler ile tarihi kiliseler için daha fazla zaman sağlar."
       },
       "gastro_picks": {
         "de": [
@@ -1197,6 +1275,12 @@
           "Lines C105/C106 go directly to the Upper Palace.",
           "Buses run less frequently on weekends, check the timetable.",
           "From the station, the pedestrian zone leads directly into the lower city."
+        ],
+        "tr": [
+          "Tüm şehir bölgesi için günlük bilet satın alın.",
+          "C105/C106 hatları doğrudan Üst Saray'a gider.",
+          "Otobüsler hafta sonları daha seyrek çalışır, tarifeyi kontrol edin.",
+          "İstasyondan yaya bölgesi doğrudan alt şehre çıkar."
         ]
       }
     }

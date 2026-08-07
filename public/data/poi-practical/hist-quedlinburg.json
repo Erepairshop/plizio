@@ -3,55 +3,64 @@
     "de": "Schlossberg 1, 06484 Quedlinburg",
     "hu": "Schlossberg 1, 06484 Quedlinburg",
     "ro": "Schlossberg 1, 06484 Quedlinburg",
-    "en": "Schlossberg 1, 06484 Quedlinburg"
+    "en": "Schlossberg 1, 06484 Quedlinburg",
+    "tr": "Schlossberg 1, 06484 Quedlinburg"
   },
   "openingHours": {
     "de": "Di-Su 10:00-18:00 (Stiftskirche & Domschatz)",
     "hu": "K-V 10:00-18:00 (vártemplom és dómkincstár)",
     "ro": "Ma-Du 10:00-18:00 (biserica și tezaurul domului)",
-    "en": "Tue-Sun 10:00-18:00 (collegiate church & cathedral treasury)"
+    "en": "Tue-Sun 10:00-18:00 (collegiate church & cathedral treasury)",
+    "tr": "Sal-Paz 10:00-18:00 (kolej kilisesi ve katedral hazinesi)"
   },
   "entranceFee": {
     "de": "12,00 € Erwachsene (Kombi-Ticket Museum/Kirche)",
     "hu": "12,00 € felnőtt (kombinált múzeum/templom jegy)",
     "ro": "12,00 € adulți (bilet combinat muzeu/biserică)",
-    "en": "12.00 € adults (combined museum/church ticket)"
+    "en": "12.00 € adults (combined museum/church ticket)",
+    "tr": "12,00 € yetişkin (müze/kilise kombine bilet)"
   },
   "website": "https://www.stiftskirche-quedlinburg.de",
   "publicTransport": {
     "de": "Regionalbahn bis Quedlinburg, dann 15 Min Fußweg durch die Altstadt",
     "hu": "Regionális vonattal Quedlinburgig, onnan 15 perc séta az óvároson át",
     "ro": "Tren regional până la Quedlinburg, apoi 15 min. de mers pe jos prin orașul vechi",
-    "en": "Regional train to Quedlinburg, then a 15-minute walk through the old town"
+    "en": "Regional train to Quedlinburg, then a 15-minute walk through the old town",
+    "tr": "Quedlinburg bölgesel trenine, ardından eski şehir üzerinden 15 dakikalık yürüyüş"
   },
   "parking": {
     "de": "Parkplatz 'Schloßparkplatz' unterhalb des Berges (kostenpflichtig).",
     "hu": "'Schloßparkplatz' parkoló a domb lábánál (fizetős).",
     "ro": "Parcarea 'Schloßparkplatz' la baza dealului (cu plată).",
-    "en": "'Schloßparkplatz' parking lot at the foot of the hill (paid)."
+    "en": "'Schloßparkplatz' parking lot at the foot of the hill (paid).",
+    "tr": "'Schloßparkplatz' tepenin eteğindeki otopark (ücretli)."
   },
   "accessibility": {
     "de": "Eingeschränkt; steiler Kopfsteinpflasteraufstieg zum Schlossberg; Kirche teils Stufen.",
     "hu": "Korlátozott; meredek macskaköves út vezet a várhegyre; a templomban sok a lépcső.",
     "ro": "Limitat; urcare abruptă pe piatră cubică spre Schlossberg; biserica are trepte.",
-    "en": "Limited; steep cobblestone climb to the castle hill; church has some steps."
+    "en": "Limited; steep cobblestone climb to the castle hill; church has some steps.",
+    "tr": "Sınırlı erişim; kaleye tırmanış dik taş döşeli; kilisede bazı basamaklar var."
   },
   "photoRules": {
     "de": "In der Stiftskirche und im Domschatz ist Fotografieren streng untersagt.",
     "hu": "A vártemplomban és a dómkincstárban a fotózás szigorúan tilos.",
     "ro": "Fotografierea strict interzisă în biserică și în tezaurul domului.",
-    "en": "Photography is strictly prohibited inside the collegiate church and cathedral treasury."
+    "en": "Photography is strictly prohibited inside the collegiate church and cathedral treasury.",
+    "tr": "Kolej kilisesi ve katedral hazinesinde iç mekan fotoğrafı kesinlikle yasaktır."
   },
   "bestTimeToVisit": {
     "de": "Früher Vormittag für das beste Licht auf den Fachwerkhäusern am Schlossberg.",
     "hu": "Kora délelőtt, amikor a legszebb a fény a várhegy gerendavázas házain.",
     "ro": "Dimineața devreme pentru cea mai bună lumină pe casele cu cadrane de lemn.",
-    "en": "Early morning for the best light on the half-timbered houses at the castle hill."
+    "en": "Early morning for the best light on the half-timbered houses at the castle hill.",
+    "tr": "Kale tepesindeki yarı ahşap evler için en iyi ışıkta sabah erken saatleri."
   },
   "audioGuide": {
     "de": "Ja (DE, EN, FR, JP)",
     "hu": "Igen (német, angol, francia, japán)",
     "ro": "Da (DE, EN, FR, JP)",
-    "en": "Yes (DE, EN, FR, JP)"
+    "en": "Yes (DE, EN, FR, JP)",
+    "tr": "Evet (DE, EN, FR, JP)"
   }
 }

@@ -21,7 +21,8 @@
             "de": "Meißner Rathaus",
             "hu": "Meißeni Városháza",
             "ro": "Primăria din Meissen",
-            "en": "Meissen Town Hall"
+            "en": "Meissen Town Hall",
+            "tr": "Meissen Belediye Binası"
           },
           "coords": [
             13.4706,
@@ -36,7 +37,8 @@
             "de": "Das spätgotische Rathaus ist das Herzstück des Marktplatzes.",
             "hu": "A késő gótikus városháza a főtér ékköve.",
             "ro": "Primăria gotică este inima pieței centrale.",
-            "en": "The late Gothic town hall is the centerpiece of the market square."
+            "en": "The late Gothic town hall is the centerpiece of the market square.",
+            "tr": "Geç Gotik belediye binası pazar alanının merkez parçasıdır."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Bennohaus",
             "hu": "Benno-ház",
             "ro": "Casa Benno",
-            "en": "Bennohaus"
+            "en": "Bennohaus",
+            "tr": "Bennohaus"
           },
           "coords": [
             13.4704,
@@ -59,7 +62,8 @@
             "de": "Eines der ältesten Bürgerhäuser der Stadt mit reicher Geschichte.",
             "hu": "A város egyik legrégebbi polgárháza gazdag történelemmel.",
             "ro": "Una dintre cele mai vechi case de cetățeni din oraș.",
-            "en": "One of the oldest townhouses with a rich history."
+            "en": "One of the oldest townhouses with a rich history.",
+            "tr": "Zengin bir tarihe sahip en eski şehir evlerinden biri."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Frauenkirche Meißen",
             "hu": "Meißeni Miasszonyunk templom",
             "ro": "Biserica Maicii Domnului",
-            "en": "Church of Our Lady Meissen"
+            "en": "Church of Our Lady Meissen",
+            "tr": "Meissen Meryem Ana Kilisesi"
           },
           "coords": [
             13.4715,
@@ -82,7 +87,8 @@
             "de": "Hören Sie das weltweit erste Glockenspiel aus Meissener Porzellan.",
             "hu": "Hallgassa meg a világ első meisseni porcelán harangjátékát.",
             "ro": "Ascultați primul carillon de porțelan din lume.",
-            "en": "Listen to the world's first porcelain carillon."
+            "en": "Listen to the world's first porcelain carillon.",
+            "tr": "Dünyanın ilk porselen çan kulesini dinleyin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Tuchmachertor",
             "hu": "Posztósok kapuja",
             "ro": "Poarta Postăvarilor",
-            "en": "Clothmakers' Gate"
+            "en": "Clothmakers' Gate",
+            "tr": "Dokumacılar Kapısı"
           },
           "coords": [
             13.4735,
@@ -105,7 +112,8 @@
             "de": "Ein prachtvolles Renaissanceportal am Rande der Altstadt.",
             "hu": "Pompás reneszánsz kapu az óváros szélén.",
             "ro": "O poartă renascentistă magnifică la marginea centrului vechi.",
-            "en": "A magnificent Renaissance portal at the edge of the old town."
+            "en": "A magnificent Renaissance portal at the edge of the old town.",
+            "tr": "Eski kentin kenarında görkemli bir Rönesans portalı."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Albrechtsburg",
             "hu": "Albrechtsburg vára",
             "ro": "Castelul Albrechtsburg",
-            "en": "Albrechtsburg Castle"
+            "en": "Albrechtsburg Castle",
+            "tr": "Albrechtsburg Kalesi"
           },
           "coords": [
             13.471,
@@ -128,7 +137,8 @@
             "de": "Deutschlands ältestes Schloss bietet interaktive Ausstellungen.",
             "hu": "Németország legrégebbi kastélya interaktív kiállításokkal vár.",
             "ro": "Cel mai vechi castel din Germania oferă expoziții interactive.",
-            "en": "Germany's oldest castle offers interactive exhibitions."
+            "en": "Germany's oldest castle offers interactive exhibitions.",
+            "tr": "Almanya'nın en eski kalesi etkileşimli sergiler sunar."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Meißner Dom",
             "hu": "Meißeni dóm",
             "ro": "Catedrala din Meissen",
-            "en": "Meissen Cathedral"
+            "en": "Meissen Cathedral",
+            "tr": "Meissen Katedrali"
           },
           "coords": [
             13.4712,
@@ -151,7 +162,8 @@
             "de": "Ein Meisterwerk der deutschen Gotik mit Blick über das Elbtal.",
             "hu": "A német gótika remekműve kilátással az Elba völgyére.",
             "ro": "O capodoperă a goticului german cu vedere spre valea Elbei.",
-            "en": "A masterpiece of German Gothic with views over the Elbe valley."
+            "en": "A masterpiece of German Gothic with views over the Elbe valley.",
+            "tr": "Elbe vadisine bakan Alman Gotik ustası."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Diese Route führt Sie durch das historische Herz von Meißen. Wir beginnen auf dem malerischen Marktplatz und bewundern die gotische Architektur. Der Höhepunkt ist der Aufstieg zum Burgberg, wo die Wiege Sachsens mit der Albrechtsburg und dem Dom auf Sie wartet. Den Abschluss bildet ein entspannter Blick über die roten Dächer der Stadt.",
         "hu": "Ez az útvonal Meissen történelmi szívébe kalauzol. A festői piactéren kezdünk, megcsodálva a gótikus építészetet. A nap fénypontja a várhegy megmászása, ahol Szászország bölcsője, az Albrechtsburg és a dóm várja Önt. A túrát a város piros tetőire nyíló lenyűgöző panorámával zárjuk.",
         "ro": "Acest traseu vă poartă prin inima istorică a orașului Meissen. Începem în piața centrală pitorească, admirând arhitectura gotică. Punctul culminant este urcarea pe dealul castelului, unde vă așteaptă Albrechtsburg și Catedrala. Încheiem cu o vedere relaxantă peste acoperișurile roșii ale orașului.",
-        "en": "This route takes you through the historical heart of Meissen. We begin at the picturesque market square, admiring the Gothic architecture. The highlight is the ascent to the castle hill, where the cradle of Saxony awaits you with the Albrechtsburg and the Cathedral. We finish with a relaxed view over the city's red rooftops."
+        "en": "This route takes you through the historical heart of Meissen. We begin at the picturesque market square, admiring the Gothic architecture. The highlight is the ascent to the castle hill, where the cradle of Saxony awaits you with the Albrechtsburg and the Cathedral. We finish with a relaxed view over the city's red rooftops.",
+        "tr": "Bu rota sizi Meissen'in tarihi kalbinden geçirir. Resmedilmeye değer pazar meydanında Gotik mimariyi gezeriz. Zirve, Albrechtsburg ve Katedral ile Saksonya'nın beşiğine çıkıştır. Geziyi şehrin kırmızı çatılarına karşı rahat bir manzara ile bitiririz."
       },
       "gastro_picks": {
         "de": [
@@ -259,6 +272,10 @@
         "en": [
           "Wear comfortable shoes for the cobblestone streets.",
           "The climb to the castle is steep; alternatively, use the panoramic lift."
+        ],
+        "tr": [
+          "Arnavut kaldırımı sokaklar için rahat ayakkabılar giyin.",
+          "Kaleye tırmanış dik; alternatif olarak panoramik asansörü kullanın."
         ]
       }
     },
@@ -275,7 +292,8 @@
             "de": "Porzellan-Manufaktur Meissen",
             "hu": "Meisseni Porcelánmanufaktúra",
             "ro": "Manufactura de Porțelan Meissen",
-            "en": "Meissen Porcelain Manufactory"
+            "en": "Meissen Porcelain Manufactory",
+            "tr": "Meissen Porselen Fabrikası"
           },
           "coords": [
             13.4658,
@@ -290,7 +308,8 @@
             "de": "Besuchen Sie die Schauwerkstatt und sehen Sie, wie das 'Weiße Gold' entsteht.",
             "hu": "Látogasson el a bemutatóműhelybe, és nézze meg a 'fehér arany' születését.",
             "ro": "Vizitați atelierul demonstrativ pentru a vedea cum se creează 'aurul alb'.",
-            "en": "Visit the demonstration workshop to see how the 'White Gold' is created."
+            "en": "Visit the demonstration workshop to see how the 'White Gold' is created.",
+            "tr": "Beyaz Altın'ın nasıl yapıldığını görmek için atölye gösterimini ziyaret edin."
           }
         },
         {
@@ -298,7 +317,8 @@
             "de": "Schloss Siebeneichen",
             "hu": "Siebeneichen kastély",
             "ro": "Castelul Siebeneichen",
-            "en": "Schloss Siebeneichen"
+            "en": "Schloss Siebeneichen",
+            "tr": "Siebeneichen Sarayı"
           },
           "coords": [
             13.4665,
@@ -313,7 +333,8 @@
             "de": "Genießen Sie den Park und die Aussicht auf die Elbe von diesem Renaissanceschloss.",
             "hu": "Élvezze a parkot és az Elbára nyíló kilátást ebből a reneszánsz kastélyból.",
             "ro": "Bucurați-vă de parc și de vederea spre Elba de la acest castel renascentist.",
-            "en": "Enjoy the park and the view of the Elbe from this Renaissance castle."
+            "en": "Enjoy the park and the view of the Elbe from this Renaissance castle.",
+            "tr": "Bu Rönesans şatosunun parkının ve Elbe manzarasının tadını çıkarın."
           }
         },
         {
@@ -321,7 +342,8 @@
             "de": "Meißner Rathaus",
             "hu": "Meißeni Városháza",
             "ro": "Primăria din Meissen",
-            "en": "Meissen Town Hall"
+            "en": "Meissen Town Hall",
+            "tr": "Meissen Belediye Binası"
           },
           "coords": [
             13.4706,
@@ -336,7 +358,8 @@
             "de": "Parken Sie an der Elbe und laufen Sie hoch zum Marktplatz.",
             "hu": "Parkoljon az Elba partján, és sétáljon fel a piactérre.",
             "ro": "Parcați lângă Elba și urcați pe jos spre piața centrală.",
-            "en": "Park near the Elbe and walk up to the market square."
+            "en": "Park near the Elbe and walk up to the market square.",
+            "tr": "Elbe yakınında park edip pazar meydanına yürüyün."
           }
         },
         {
@@ -344,7 +367,8 @@
             "de": "Frauenkirche Meißen",
             "hu": "Meißeni Miasszonyunk templom",
             "ro": "Biserica Maicii Domnului",
-            "en": "Church of Our Lady Meissen"
+            "en": "Church of Our Lady Meissen",
+            "tr": "Meissen Meryem Ana Kilisesi"
           },
           "coords": [
             13.4715,
@@ -359,7 +383,8 @@
             "de": "In unmittelbarer Nähe zum Marktplatz (zu Fuß erreichbar).",
             "hu": "A piactér közvetlen közelében, gyalogosan elérhető.",
             "ro": "În imediata apropiere a pieței centrale (accesibil pe jos).",
-            "en": "In the immediate vicinity of the market square (within walking distance)."
+            "en": "In the immediate vicinity of the market square (within walking distance).",
+            "tr": "Pazar meydanının hemen yakınında (yürüme mesafesinde)."
           }
         },
         {
@@ -367,7 +392,8 @@
             "de": "Albrechtsburg",
             "hu": "Albrechtsburg vára",
             "ro": "Castelul Albrechtsburg",
-            "en": "Albrechtsburg Castle"
+            "en": "Albrechtsburg Castle",
+            "tr": "Albrechtsburg Kalesi"
           },
           "coords": [
             13.471,
@@ -382,7 +408,8 @@
             "de": "Cluster-Lauf: Parkplatz Domplatz nutzen oder Elbkai.",
             "hu": "Klaszter-séta: használja a Domplatz parkolót vagy az Elbakait.",
             "ro": "Cluster walking: folosiți parcarea Domplatz sau cheiul Elbei.",
-            "en": "Cluster walking: use the Domplatz parking or the Elbe quay."
+            "en": "Cluster walking: use the Domplatz parking or the Elbe quay.",
+            "tr": "Küme halinde yürüyüş: Domplatz otoparkını veya Elbe rıhtımını kullanın."
           }
         },
         {
@@ -390,7 +417,8 @@
             "de": "Meißner Dom",
             "hu": "Meißeni dóm",
             "ro": "Catedrala din Meissen",
-            "en": "Meissen Cathedral"
+            "en": "Meissen Cathedral",
+            "tr": "Meissen Katedrali"
           },
           "coords": [
             13.4712,
@@ -405,7 +433,8 @@
             "de": "Direkt neben der Albrechtsburg gelegen.",
             "hu": "Közvetlenül az Albrechtsburg mellett található.",
             "ro": "Situată chiar lângă castelul Albrechtsburg.",
-            "en": "Located right next to the Albrechtsburg."
+            "en": "Located right next to the Albrechtsburg.",
+            "tr": "Albrechtsburg'un hemen yanında yer alır."
           }
         }
       ],
@@ -413,7 +442,8 @@
         "de": "Mit dem Auto erkunden wir sowohl das Stadtzentrum als auch die etwas außerhalb gelegenen Highlights. Wir starten in der weltberühmten Porzellan-Manufaktur und besuchen danach das idyllische Schloss Siebeneichen. Am Nachmittag parken wir zentrumsnah, um das geschlossene Ensemble von Marktplatz und Burgberg zu Fuß zu entdecken.",
         "hu": "Autóval fedezzük fel a városközpontot és a kissé távolabb eső látnivalókat is. A világhírű Porcelánmanufaktúrában kezdünk, majd az idilli Siebeneichen kastélyt látogatjuk meg. Délután a központ közelében parkolunk, hogy gyalogosan fedezzük fel a piactér és a várhegy egységét.",
         "ro": "Cu mașina explorăm atât centrul orașului, cât și atracțiile de la periferie. Începem la faimoasa Manufactură de Porțelan, apoi vizităm idilicul Castel Siebeneichen. După-amiaza parcăm aproape de centru pentru a descoperi la pas ansamblul pieței centrale și al dealului castelului.",
-        "en": "By car, we explore both the city center and the highlights located slightly outside. We start at the world-famous Porcelain Manufactory and then visit the idyllic Siebeneichen Castle. In the afternoon, we park near the center to discover the ensemble of the market square and castle hill on foot."
+        "en": "By car, we explore both the city center and the highlights located slightly outside. We start at the world-famous Porcelain Manufactory and then visit the idyllic Siebeneichen Castle. In the afternoon, we park near the center to discover the ensemble of the market square and castle hill on foot.",
+        "tr": "Arabayla, hem şehir merkezini hem de biraz dışarıda kalan önemli noktaları keşfediyoruz. Dünyaca ünlü Porselen Fabrikası'nda başlıyoruz, ardından sakin Siebeneichen Sarayı'nı ziyaret ediyoruz. Öğleden sonra merkezin yakınında park edip pazar meydanı ve kale tepesi topluluğunu yaya olarak keşfediyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -513,6 +543,10 @@
         "en": [
           "Use the 'Altstadt' parking lot on the Elbe embankment.",
           "Parking fees at Domplatz are higher, but the walk is shorter."
+        ],
+        "tr": [
+          "Elbe kıyısındaki 'Altstadt' otoparkını kullanın.",
+          "Domplatz'taki otopark ücretleri daha yüksek, ancak yürüyüş daha kısadır."
         ]
       }
     },
@@ -529,7 +563,8 @@
             "de": "Elberadweg Meißen",
             "hu": "Meißeni Elbai Kerékpárút",
             "ro": "Pista de biciclete de pe Elba",
-            "en": "Elbe Cycle Route Meissen"
+            "en": "Elbe Cycle Route Meissen",
+            "tr": "Elbe Bisiklet Rotası Meissen"
           },
           "coords": [
             13.475,
@@ -544,7 +579,8 @@
             "de": "Genießen Sie die Fahrt entlang des Flusses mit Blick auf die Burg.",
             "hu": "Élvezze a folyó menti tekerést kilátással a várra.",
             "ro": "Bucurați-vă de plimbarea de-a lungul râului cu vedere spre castel.",
-            "en": "Enjoy the ride along the river with views of the castle."
+            "en": "Enjoy the ride along the river with views of the castle.",
+            "tr": "Kalenin manzaralarıyla nehir boyunca sürüşün tadını çıkarın."
           }
         },
         {
@@ -552,7 +588,8 @@
             "de": "Meißner Rathaus",
             "hu": "Meißeni Városháza",
             "ro": "Primăria din Meissen",
-            "en": "Meissen Town Hall"
+            "en": "Meissen Town Hall",
+            "tr": "Meissen Belediye Binası"
           },
           "coords": [
             13.4706,
@@ -567,7 +604,8 @@
             "de": "Schieben Sie das Rad in der Fußgängerzone.",
             "hu": "A sétálóövezetben tolja a kerékpárt.",
             "ro": "Împingeți bicicleta în zona pietonală.",
-            "en": "Push your bike in the pedestrian zone."
+            "en": "Push your bike in the pedestrian zone.",
+            "tr": "Yaya bölgesinde bisikletinizi itiniz."
           }
         },
         {
@@ -575,7 +613,8 @@
             "de": "Frauenkirche Meißen",
             "hu": "Meißeni Miasszonyunk templom",
             "ro": "Biserica Maicii Domnului",
-            "en": "Church of Our Lady Meissen"
+            "en": "Church of Our Lady Meissen",
+            "tr": "Meissen Meryem Ana Kilisesi"
           },
           "coords": [
             13.4715,
@@ -590,7 +629,8 @@
             "de": "Kleine Pause am Fuße des Burgbergs.",
             "hu": "Kis pihenő a várhegy lábánál.",
             "ro": "Mică pauză la poalele dealului castelului.",
-            "en": "Short break at the foot of the castle hill."
+            "en": "Short break at the foot of the castle hill.",
+            "tr": "Kale tepesinin eteğinde kısa bir mola."
           }
         },
         {
@@ -598,7 +638,8 @@
             "de": "Porzellan-Manufaktur Meissen",
             "hu": "Meisseni Porcelánmanufaktúra",
             "ro": "Manufactura de Porțelan Meissen",
-            "en": "Meissen Porcelain Manufactory"
+            "en": "Meissen Porcelain Manufactory",
+            "tr": "Meissen Porselen Fabrikası"
           },
           "coords": [
             13.4658,
@@ -613,7 +654,8 @@
             "de": "Fahrradständer sind direkt vor dem Eingang vorhanden.",
             "hu": "Kerékpártárolók közvetlenül a bejárat előtt találhatók.",
             "ro": "Suporturile pentru biciclete sunt disponibile chiar în fața intrării.",
-            "en": "Bike racks are available right in front of the entrance."
+            "en": "Bike racks are available right in front of the entrance.",
+            "tr": "Girişin hemen önünde bisiklet park yerleri mevcut."
           }
         },
         {
@@ -621,7 +663,8 @@
             "de": "Schloss Siebeneichen",
             "hu": "Siebeneichen kastély",
             "ro": "Castelul Siebeneichen",
-            "en": "Schloss Siebeneichen"
+            "en": "Schloss Siebeneichen",
+            "tr": "Siebeneichen Sarayı"
           },
           "coords": [
             13.4665,
@@ -636,7 +679,8 @@
             "de": "Ein schöner Anstieg durch die Weinberge.",
             "hu": "Szép emelkedő a szőlőültetvényeken keresztül.",
             "ro": "O urcare frumoasă printre podgorii.",
-            "en": "A nice climb through the vineyards."
+            "en": "A nice climb through the vineyards.",
+            "tr": "Bağlar arasından hoş bir tırmanış."
           }
         },
         {
@@ -644,7 +688,8 @@
             "de": "Albrechtsburg",
             "hu": "Albrechtsburg vára",
             "ro": "Castelul Albrechtsburg",
-            "en": "Albrechtsburg Castle"
+            "en": "Albrechtsburg Castle",
+            "tr": "Albrechtsburg Kalesi"
           },
           "coords": [
             13.471,
@@ -659,7 +704,8 @@
             "de": "Anstrengender Aufstieg, aber die Aussicht belohnt.",
             "hu": "Fárasztó emelkedő, de a kilátás kárpótol.",
             "ro": "Urcare obositoare, dar priveliștea merită.",
-            "en": "Strenuous climb, but the view is rewarding."
+            "en": "Strenuous climb, but the view is rewarding.",
+            "tr": "Zorlu tırmanış, ancak manzara buna değer."
           }
         },
         {
@@ -667,7 +713,8 @@
             "de": "Meißner Dom",
             "hu": "Meißeni dóm",
             "ro": "Catedrala din Meissen",
-            "en": "Meissen Cathedral"
+            "en": "Meissen Cathedral",
+            "tr": "Meissen Katedrali"
           },
           "coords": [
             13.4712,
@@ -682,7 +729,8 @@
             "de": "Das Rad am Domplatz sicher anschließen.",
             "hu": "Zárja le biztonságosan a kerékpárt a Domplatzon.",
             "ro": "Încuiați bicicleta în siguranță în Domplatz.",
-            "en": "Lock your bike securely at Domplatz."
+            "en": "Lock your bike securely at Domplatz.",
+            "tr": "Bisikletinizi Domplatz'ta güvenli şekilde kilitleyin."
           }
         }
       ],
@@ -690,7 +738,8 @@
         "de": "Erkunden Sie Meißen auf zwei Rädern! Wir kombinieren den berühmten Elberadweg mit den kulturellen Schätzen der Stadt. Von der Porzellan-Manufaktur bis hinauf zur Albrechtsburg bietet diese Tour Bewegung und Geschichte in perfekter Mischung. Genießen Sie die Aussichten über das sächsische Weinland.",
         "hu": "Fedezze fel Meissent két keréken! Összekötjük a híres Elbai Kerékpárutat a város kulturális kincseivel. A Porcelánmanufaktúrától az Albrechtsburgig ez a túra a mozgás és a történelem tökéletes keverékét kínálja. Élvezze a szász borvidékre nyíló kilátást.",
         "ro": "Explorați Meissen pe două roți! Combinăm celebra pistă de biciclete de pe Elba cu comorile culturale ale orașului. De la Manufactura de Porțelan până la Albrechtsburg, acest tur oferă un amestec perfect de mișcare și istorie. Bucurați-vă de priveliștile asupra regiunii viticole saxone.",
-        "en": "Explore Meissen on two wheels! We combine the famous Elbe Cycle Route with the city's cultural treasures. From the Porcelain Manufactory up to the Albrechtsburg, this tour offers a perfect mix of exercise and history. Enjoy the views over the Saxon wine country."
+        "en": "Explore Meissen on two wheels! We combine the famous Elbe Cycle Route with the city's cultural treasures. From the Porcelain Manufactory up to the Albrechtsburg, this tour offers a perfect mix of exercise and history. Enjoy the views over the Saxon wine country.",
+        "tr": "Meissen'i iki teker üzerinde keşfedin! Elbe Bisiklet Rotası'nı şehrin kültürel hazineleriyle birleştiriyoruz. Porselen Fabrikası'ndan Albrechtsburg'a kadar bu tur egzersiz ve tarihin mükemmel karışımını sunar. Saksonya bağlarına karşı manzaraların tadını çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -790,6 +839,10 @@
         "en": [
           "The cycle path along the Elbe is flat, the paths to the castle are steep.",
           "Use the bike lift if available."
+        ],
+        "tr": [
+          "Elbe boyunca bisiklet yolu düz, kaleye giden yollar dik.",
+          "Mevcutsa bisiklet asansörünü kullanın."
         ]
       }
     },
@@ -806,7 +859,8 @@
             "de": "Meißner Rathaus",
             "hu": "Meißeni Városháza",
             "ro": "Primăria din Meissen",
-            "en": "Meissen Town Hall"
+            "en": "Meissen Town Hall",
+            "tr": "Meissen Belediye Binası"
           },
           "coords": [
             13.4706,
@@ -821,7 +875,8 @@
             "de": "Zentraler Ausstiegspunkt für die Altstadt.",
             "hu": "Központi megálló az óvároshoz.",
             "ro": "Punct central de coborâre pentru centrul vechi.",
-            "en": "Central drop-off point for the old town."
+            "en": "Central drop-off point for the old town.",
+            "tr": "Eski kent için merkezi bırakma noktası."
           }
         },
         {
@@ -829,7 +884,8 @@
             "de": "Frauenkirche Meißen",
             "hu": "Meißeni Miasszonyunk templom",
             "ro": "Biserica Maicii Domnului",
-            "en": "Church of Our Lady Meissen"
+            "en": "Church of Our Lady Meissen",
+            "tr": "Meissen Meryem Ana Kilisesi"
           },
           "coords": [
             13.4715,
@@ -844,7 +900,8 @@
             "de": "Vom Rathaus aus bequem zu Fuß erreichbar.",
             "hu": "A városházától könnyen elérhető gyalog.",
             "ro": "Accesibil ușor pe jos de la primărie.",
-            "en": "Easily accessible on foot from the town hall."
+            "en": "Easily accessible on foot from the town hall.",
+            "tr": "Belediye binasından yürüyerek kolay erişilebilir."
           }
         },
         {
@@ -852,7 +909,8 @@
             "de": "Albrechtsburg",
             "hu": "Albrechtsburg vára",
             "ro": "Castelul Albrechtsburg",
-            "en": "Albrechtsburg Castle"
+            "en": "Albrechtsburg Castle",
+            "tr": "Albrechtsburg Kalesi"
           },
           "coords": [
             13.471,
@@ -867,7 +925,8 @@
             "de": "Nutzen Sie den Stadtbus bis zum Burgberg.",
             "hu": "Használja a helyi buszt a várhegyig.",
             "ro": "Folosiți autobuzul urban până la dealul castelului.",
-            "en": "Use the city bus to the castle hill."
+            "en": "Use the city bus to the castle hill.",
+            "tr": "Kale tepesine şehir otobüsünü kullanın."
           }
         },
         {
@@ -875,7 +934,8 @@
             "de": "Meißner Dom",
             "hu": "Meißeni dóm",
             "ro": "Catedrala din Meissen",
-            "en": "Meissen Cathedral"
+            "en": "Meissen Cathedral",
+            "tr": "Meissen Katedrali"
           },
           "coords": [
             13.4712,
@@ -890,7 +950,8 @@
             "de": "Direkt neben der Haltestelle 'Domplatz'.",
             "hu": "Közvetlenül a 'Domplatz' megálló mellett.",
             "ro": "Situată chiar lângă stația 'Domplatz'.",
-            "en": "Located right next to the 'Domplatz' stop."
+            "en": "Located right next to the 'Domplatz' stop.",
+            "tr": "'Domplatz' durağının hemen yanında yer alır."
           }
         },
         {
@@ -898,7 +959,8 @@
             "de": "Porzellan-Manufaktur Meissen",
             "hu": "Meisseni Porcelánmanufaktúra",
             "ro": "Manufactura de Porțelan Meissen",
-            "en": "Meissen Porcelain Manufactory"
+            "en": "Meissen Porcelain Manufactory",
+            "tr": "Meissen Porselen Fabrikası"
           },
           "coords": [
             13.4658,
@@ -913,7 +975,8 @@
             "de": "Buslinie C verbindet die Altstadt mit der Manufaktur.",
             "hu": "A C buszjárat köti össze az óvárost a manufaktúrával.",
             "ro": "Linia de autobuz C leagă centrul vechi de manufactură.",
-            "en": "Bus line C connects the old town with the manufactory."
+            "en": "Bus line C connects the old town with the manufactory.",
+            "tr": "C hattı eski kent ile fabrikayı bağlar."
           }
         },
         {
@@ -921,7 +984,8 @@
             "de": "Schloss Siebeneichen",
             "hu": "Siebeneichen kastély",
             "ro": "Castelul Siebeneichen",
-            "en": "Schloss Siebeneichen"
+            "en": "Schloss Siebeneichen",
+            "tr": "Siebeneichen Sarayı"
           },
           "coords": [
             13.4665,
@@ -936,7 +1000,8 @@
             "de": "Prüfen Sie den Fahrplan für die Rückfahrt ins Zentrum.",
             "hu": "Ellenőrizze a menetrendet a központba való visszatéréshez.",
             "ro": "Verificați orarul pentru întoarcerea în centru.",
-            "en": "Check the schedule for the return trip to the center."
+            "en": "Check the schedule for the return trip to the center.",
+            "tr": "Merkeze dönüş için sefer tarifesini kontrol edin."
           }
         }
       ],
@@ -944,7 +1009,8 @@
         "de": "Erleben Sie Meißen entspannt mit dem öffentlichen Nahverkehr. Diese Route verbindet die historische Altstadt bequem mit der Porzellan-Manufaktur und dem Schloss Siebeneichen. Wir nutzen Stadtbusse und kurze Fußwege, um die wichtigsten Monumente der Stadt ohne Parkplatzsorgen zu besichtigen.",
         "hu": "Fedezze fel Meissent kényelmesen tömegközlekedéssel! Ez az útvonal összeköti a történelmi óvárost a Porcelánmanufaktúrával és a Siebeneichen kastéllyal. Városi buszokat és rövid sétákat kombinálunk, hogy parkolási gondok nélkül láthassa a legfontosabb műemlékeket.",
         "ro": "Experimentați Meissen relaxat, folosind transportul public. Acest traseu leagă confortabil centrul istoric de Manufactura de Porțelan și Castelul Siebeneichen. Folosim autobuzele urbane și scurte plimbări pentru a vizita cele mai importante monumente fără grija parcării.",
-        "en": "Experience Meissen in a relaxed way with public transport. This route conveniently connects the historic old town with the Porcelain Manufactory and Siebeneichen Castle. We use city buses and short walks to see the city's most important monuments without parking worries."
+        "en": "Experience Meissen in a relaxed way with public transport. This route conveniently connects the historic old town with the Porcelain Manufactory and Siebeneichen Castle. We use city buses and short walks to see the city's most important monuments without parking worries.",
+        "tr": "Toplu taşıma ile Meissen'i rahatça deneyimleyin. Bu rota tarihi eski kenti Porselen Fabrikası ve Siebeneichen Sarayı ile pratik şekilde bağlar. Park sorunu olmadan şehrin en önemli anıtlarını görmek için şehir otobüsleri ve kısa yürüyüşler kullanıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -1044,6 +1110,10 @@
         "en": [
           "Buy a day ticket for the VVO area.",
           "The 'VGA' bus line serves the most important tourist spots."
+        ],
+        "tr": [
+          "VVO bölgesi için günlük bilet satın alın.",
+          "'VGA' otobüs hattı en önemli turistik yerleri hizmete sunar."
         ]
       }
     }

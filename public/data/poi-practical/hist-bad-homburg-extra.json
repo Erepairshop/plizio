@@ -3,55 +3,64 @@
     "de": "Schloss 1, 61348 Bad Homburg vor der Höhe",
     "hu": "Schloss 1, 61348 Bad Homburg vor der Höhe",
     "ro": "Schloss 1, 61348 Bad Homburg vor der Höhe",
-    "en": "Schloss 1, 61348 Bad Homburg vor der Höhe"
+    "en": "Schloss 1, 61348 Bad Homburg vor der Höhe",
+    "tr": "Schloss 1, 61348 Bad Homburg vor der Höhe"
   },
   "openingHours": {
     "de": "März-Oktober: Di-So 10:00-17:00; November-Februar: Di-So 10:00-16:00",
     "hu": "Március–Október: Ke–Va 10:00–17:00; November–Február: Ke–Va 10:00–16:00",
     "ro": "Martie-Octombrie: Ma-Du 10:00-17:00; Noiembrie-Februarie: Ma-Du 10:00-16:00",
-    "en": "March-October: Tue-Sun 10:00-17:00; November-February: Tue-Sun 10:00-16:00"
+    "en": "March-October: Tue-Sun 10:00-17:00; November-February: Tue-Sun 10:00-16:00",
+    "tr": "Mart-Ekim: Sal-Pazar 10:00-17:00; Kasım-Şubat: Sal-Pazar 10:00-16:00"
   },
   "entranceFee": {
     "de": "€4.50 Erwachsene (Besichtigung nur mit Führung)",
     "hu": "Felnőtt 4,50 € (látogatás csak vezetéssel)",
     "ro": "4,50 € adulți (vizitare doar cu tur ghidat)",
-    "en": "€4.50 adults (viewing by guided tour only)"
+    "en": "€4.50 adults (viewing by guided tour only)",
+    "tr": "€4,50 yetişkinler (görme yalnızca rehberli tur ile)"
   },
   "website": "https://www.schloesser-hessen.de",
   "publicTransport": {
     "de": "S5 bis Bad Homburg, dann Bus 1, 4, 11 bis 'Schloss'",
     "hu": "S5 vonat Bad Homburgig, majd 1, 4 vagy 11-es busz Schloss megállóig",
     "ro": "S5 până la Bad Homburg, apoi autobuzul 1, 4, 11 până la „Schloss”",
-    "en": "S5 to Bad Homburg, then bus 1, 4, 11 to 'Schloss' stop"
+    "en": "S5 to Bad Homburg, then bus 1, 4, 11 to 'Schloss' stop",
+    "tr": "S5 ile Bad Homburg, ardından otobüs 1, 4, 11 ile 'Schloss' durağı"
   },
   "parking": {
     "de": "Parkhaus Schlossgarage direkt unterhalb",
     "hu": "Schlossgarage parkolóház közvetlenül a kastély alatt",
     "ro": "Parcarea subterană Schlossgarage direct dedesubt",
-    "en": "Schlossgarage parking directly below"
+    "en": "Schlossgarage parking directly below",
+    "tr": "Schlossgarage otopark doğrudan altında"
   },
   "accessibility": {
     "de": "Schlosshof und Park barrierefrei; Schlossräume nur über Treppen (kein Aufzug)",
     "hu": "A kastélyudvar és a park akadálymentes; a termek csak lépcsőn érhetők el (nincs lift)",
     "ro": "Curtea castelului și parcul sunt accesibile; sălile castelului doar prin scări (fără lift)",
-    "en": "Castle courtyard and park accessible; castle rooms via stairs only (no elevator)"
+    "en": "Castle courtyard and park accessible; castle rooms via stairs only (no elevator)",
+    "tr": "Kale avlusu ve park erişilebilir; kale odalarına sadece merdivenle (asansör yok)"
   },
   "photoRules": {
     "de": "In den Innenräumen generell untersagt",
     "hu": "A belső terekben általában tilos",
     "ro": "În general interzis în interior",
-    "en": "Generally prohibited in the interiors"
+    "en": "Generally prohibited in the interiors",
+    "tr": "İç mekanlarda genellikle yasak"
   },
   "bestTimeToVisit": {
     "de": "Frühlingszeit, wenn der Weiße Turm inmitten der Blüten steht",
     "hu": "Tavasszal, amikor a Fehér torony virágpompában áll",
     "ro": "Primăvara, când Turnul Alb este înconjurat de flori",
-    "en": "Springtime, when the White Tower stands amidst the blossoms"
+    "en": "Springtime, when the White Tower stands amidst the blossoms",
+    "tr": "Beyaz Kule çiçekler arasında iken, bahar zamanı"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

@@ -21,7 +21,8 @@
             "de": "Am Sande",
             "hu": "Am Sande tér",
             "ro": "Piața Am Sande",
-            "en": "Am Sande Square"
+            "en": "Am Sande Square",
+            "tr": "Am Sande Meydanı"
           },
           "coords": [
             10.412,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die prächtigen Backsteingiebel.",
             "hu": "Figyeld meg a pompás tégla-oromzatokat.",
             "ro": "Admirați frontoanele magnifice din cărămidă.",
-            "en": "Look at the magnificent brick gables."
+            "en": "Look at the magnificent brick gables.",
+            "tr": "Görkemli tuğla çatı yüzlerini izleyin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St. Johannis",
             "hu": "Szent János templom",
             "ro": "Biserica Sf. Ioan",
-            "en": "St. John's Church"
+            "en": "St. John's Church",
+            "tr": "St. John Kilisesi"
           },
           "coords": [
             10.414,
@@ -59,7 +62,8 @@
             "de": "Der schiefe Turm ist ein Wahrzeichen.",
             "hu": "A ferde torony a város egyik jelképe.",
             "ro": "Turnul înclinat este un simbol al orașului.",
-            "en": "The leaning tower is a city landmark."
+            "en": "The leaning tower is a city landmark.",
+            "tr": "Eğik kulesi şehir simgesidir."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Wasserturm",
             "hu": "Víztorony",
             "ro": "Turnul de apă",
-            "en": "Water Tower"
+            "en": "Water Tower",
+            "tr": "Su Kulesi"
           },
           "coords": [
             10.416,
@@ -82,7 +87,8 @@
             "de": "Bester Panoramablick über die Altstadt.",
             "hu": "A legjobb panoráma az óvárosra.",
             "ro": "Cea mai bună vedere panoramică asupra centrului vechi.",
-            "en": "Best panoramic view over the old town."
+            "en": "Best panoramic view over the old town.",
+            "tr": "Eski kente en iyi panoramik manzara."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Stintmarkt & Alter Kran",
             "hu": "Stintmarkt és Régi daru",
             "ro": "Stintmarkt și Macaraua Veche",
-            "en": "Stintmarkt & Old Crane"
+            "en": "Stintmarkt & Old Crane",
+            "tr": "Stintmarkt & Eski Vinci"
           },
           "coords": [
             10.41,
@@ -105,7 +112,8 @@
             "de": "Idealer Ort für eine Mittagspause am Wasser.",
             "hu": "Ideális hely egy vízparti ebédhez.",
             "ro": "Locul ideal pentru o pauză de prânz pe malul apei.",
-            "en": "Ideal spot for a lunch break by the water."
+            "en": "Ideal spot for a lunch break by the water.",
+            "tr": "Suyun kenarında öğle molası için ideal nokta."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi Városháza",
             "ro": "Primăria Istorică",
-            "en": "Historic Town Hall"
+            "en": "Historic Town Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             10.408,
@@ -128,7 +137,8 @@
             "de": "Buchen Sie eine Führung für die Prunksäle.",
             "hu": "Foglalj vezetést a dísztermek megtekintéséhez.",
             "ro": "Rezervați un tur pentru a vedea sălile de gală.",
-            "en": "Book a tour to see the ceremonial halls."
+            "en": "Book a tour to see the ceremonial halls.",
+            "tr": "Tören salonlarını görmek için tur rezervasyonu yapın."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "St. Michaelis",
             "hu": "Szent Mihály templom",
             "ro": "Biserica Sf. Mihail",
-            "en": "St. Michael's Church"
+            "en": "St. Michael's Church",
+            "tr": "St. Michael Kilisesi"
           },
           "coords": [
             10.402,
@@ -151,7 +162,8 @@
             "de": "Hier sang Johann Sebastian Bach im Chor.",
             "hu": "Itt énekelt Johann Sebastian Bach a kórusban.",
             "ro": "Aici a cântat J.S. Bach în cor.",
-            "en": "Johann Sebastian Bach sang in the choir here."
+            "en": "Johann Sebastian Bach sang in the choir here.",
+            "tr": "Johann Sebastian Bach burada koro olarak şarkı söyledi."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Deutsches Salzmuseum",
             "hu": "Német Sómúzeum",
             "ro": "Muzeul German al Sării",
-            "en": "German Salt Museum"
+            "en": "German Salt Museum",
+            "tr": "Alman Tuz Müzesi"
           },
           "coords": [
             10.404,
@@ -174,7 +187,8 @@
             "de": "Erfahren Sie alles über das weiße Gold.",
             "hu": "Tudj meg mindent a fehér aranyról.",
             "ro": "Aflați totul despre aurul alb.",
-            "en": "Learn everything about the white gold."
+            "en": "Learn everything about the white gold.",
+            "tr": "Beyaz altın hakkında her şeyi öğrenin."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Starten Sie am prächtigen Marktplatz Am Sande und besuchen Sie die gotische St. Johanniskirche. Der Wasserturm bietet danach eine weite Aussicht. Mittags entspannen Sie am historischen Hafen Stintmarkt. Nachmittags erkunden Sie das prächtige Rathaus und die Michaeliskirche, bevor Sie im Salzmuseum tief in die Hansegeschichte eintauchen.",
         "hu": "Kezdje a napot a monumentális Am Sande téren, majd látogasson el a gótikus Szent János templomba. A Víztoronyból csodás kilátás nyílik az óvárosra. Az ebédet a Stintmarkt kikötőjében költse el. Délután a Városháza és a Szent Mihály templom várja, a napot pedig a Sómúzeumban zárhatja, megismerve Lüneburg gazdagságának forrását.",
         "ro": "Începeți ziua în monumentala piață Am Sande, apoi vizitați biserica gotică Sf. Ioan. Turnul de apă oferă o vedere panoramică superbă. Prânzul este ideal în zona portului Stintmarkt. După-amiaza, explorați Primăria și biserica Sf. Mihail, iar la final descoperiți istoria aurului alb la Muzeul Sării, motorul bogăției hanseatice.",
-        "en": "Start at the monumental Am Sande square and visit the Gothic St. John's Church. The Water Tower offers a great panoramic view. Enjoy lunch at the historic Stintmarkt harbor. In the afternoon, explore the magnificent Town Hall and St. Michael's Church, before diving into Hanseatic history at the Salt Museum."
+        "en": "Start at the monumental Am Sande square and visit the Gothic St. John's Church. The Water Tower offers a great panoramic view. Enjoy lunch at the historic Stintmarkt harbor. In the afternoon, explore the magnificent Town Hall and St. Michael's Church, before diving into Hanseatic history at the Salt Museum.",
+        "tr": "Anıtsal Am Sande meydanında başlayın ve Gotik St. John Kilisesi'ni ziyaret edin. Su Kulesi harika bir panoramik manzara sunar. Tarihi Stintmarkt limanında öğle yemeğinin tadını çıkarın. Öğleden sonra muhteşem Belediye Binası ve St. Michael Kilisesi'ni keşfedin; ardından Hanse tarihi için Tuz Müzesi'ne girin."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +357,12 @@
           "Parking in the old town is difficult; use parking garages on the outskirts.",
           "Wednesdays and Saturdays are market days in front of the Town Hall.",
           "Look out for the 'pregnant houses' near Waagestraße."
+        ],
+        "tr": [
+          "Lüneburg yaya dostudur, ancak kaldırım taşı için rahat ayakkabılar giyin.",
+          "Eski kentte park etmek zordur; kentin kenarındaki otopark garajlarını kullanın.",
+          "Çarşamba ve Cumartesi günleri Belediye Binası önünde pazar kurulur.",
+          "'Waagestraße' yakınlarındaki 'hamile evlere' dikkat edin."
         ]
       }
     },
@@ -358,7 +379,8 @@
             "de": "Am Sande",
             "hu": "Am Sande tér",
             "ro": "Piața Am Sande",
-            "en": "Am Sande Square"
+            "en": "Am Sande Square",
+            "tr": "Am Sande Meydanı"
           },
           "coords": [
             10.412,
@@ -373,7 +395,8 @@
             "de": "Anfang der Fußgängerzone.",
             "hu": "A sétálóövezet kezdete.",
             "ro": "Începutul zonei pietonale.",
-            "en": "Start of the pedestrian zone."
+            "en": "Start of the pedestrian zone.",
+            "tr": "Yaya bölgesinin başlangıcı."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Wasserturm",
             "hu": "Víztorony",
             "ro": "Turnul de apă",
-            "en": "Water Tower"
+            "en": "Water Tower",
+            "tr": "Su Kulesi"
           },
           "coords": [
             10.416,
@@ -396,7 +420,8 @@
             "de": "Fahrradständer direkt am Turm.",
             "hu": "Kerékpártároló közvetlenül a toronynál.",
             "ro": "Suporturi pentru biciclete chiar lângă turn.",
-            "en": "Bike racks right by the tower."
+            "en": "Bike racks right by the tower.",
+            "tr": "Kulenin hemen yanında bisiklet park yerleri."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Stintmarkt",
             "hu": "Stintmarkt",
             "ro": "Stintmarkt",
-            "en": "Stintmarkt"
+            "en": "Stintmarkt",
+            "tr": "Stintmarkt"
           },
           "coords": [
             10.41,
@@ -419,7 +445,8 @@
             "de": "Historischer Hafenarm.",
             "hu": "Történelmi kikötőág.",
             "ro": "Braț istoric al portului.",
-            "en": "Historic harbor arm."
+            "en": "Historic harbor arm.",
+            "tr": "Tarihi liman kolu."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "tr": "Belediye Binası"
           },
           "coords": [
             10.408,
@@ -442,7 +470,8 @@
             "de": "Backsteingotik in Perfektion.",
             "hu": "A tégla-gótika tökélye.",
             "ro": "Perfecțiunea stilului gotic din cărămidă.",
-            "en": "Brick Gothic in perfection."
+            "en": "Brick Gothic in perfection.",
+            "tr": "Mükemmel tuğla Gotik örneği."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Kalkberg",
             "hu": "Mészkőhegy",
             "ro": "Kalkberg",
-            "en": "Kalkberg"
+            "en": "Kalkberg",
+            "tr": "Kalkberg"
           },
           "coords": [
             10.398,
@@ -465,7 +495,8 @@
             "de": "Naturdenkmal mit Aussicht.",
             "hu": "Természeti emlékhely kilátással.",
             "ro": "Monument natural cu vedere panoramică.",
-            "en": "Natural monument with a view."
+            "en": "Natural monument with a view.",
+            "tr": "Manzaralı doğal anıt."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "St. Michaelis",
             "hu": "Szent Mihály templom",
             "ro": "Biserica Sf. Mihail",
-            "en": "St. Michael's Church"
+            "en": "St. Michael's Church",
+            "tr": "St. Michael Kilisesi"
           },
           "coords": [
             10.402,
@@ -488,7 +520,8 @@
             "de": "Beeindruckende Hallenkirche.",
             "hu": "Lenyűgöző csarnoktemplom.",
             "ro": "O biserică-hală impresionantă.",
-            "en": "Impressive hall church."
+            "en": "Impressive hall church.",
+            "tr": "Etkileyici salon kilisesi."
           }
         },
         {
@@ -496,7 +529,8 @@
             "de": "Salzmuseum",
             "hu": "Sómúzeum",
             "ro": "Muzeul Sării",
-            "en": "Salt Museum"
+            "en": "Salt Museum",
+            "tr": "Tuz Müzesi"
           },
           "coords": [
             10.404,
@@ -511,7 +545,8 @@
             "de": "Großes Gelände, gut erreichbar.",
             "hu": "Nagy terület, jól megközelíthető.",
             "ro": "Zonă vastă, ușor accesibilă.",
-            "en": "Large grounds, easily accessible."
+            "en": "Large grounds, easily accessible.",
+            "tr": "Geniş alanlar, kolay erişimli."
           }
         },
         {
@@ -519,7 +554,8 @@
             "de": "Kurpark",
             "hu": "Kurpark",
             "ro": "Kurpark",
-            "en": "Kurpark"
+            "en": "Kurpark",
+            "tr": "Kurpark"
           },
           "coords": [
             10.41,
@@ -534,7 +570,8 @@
             "de": "Schöner Abschluss im Grünen.",
             "hu": "Szép befejezés a zöldben.",
             "ro": "Final frumos în mijlocul naturii.",
-            "en": "Nice finish in the greenery."
+            "en": "Nice finish in the greenery.",
+            "tr": "Yeşillikte güzel bir bitiriş."
           }
         }
       ],
@@ -542,7 +579,8 @@
         "de": "Per Rad erkunden Sie nicht nur die Altstadt, sondern auch den Kalkberg und den Kurpark. Vom Sande geht es zum Wasserturm, dann über den Hafen zum Rathaus. Nach dem Besuch der Michaeliskirche radeln Sie zum Salzmuseum und entspannen abschließend im Kurpark.",
         "hu": "Kerékpárral nemcsak az óvárost, hanem a Mészkőhegyet és a Kurparkot is felfedezheti. Az Am Sande tértől a Víztoronyhoz, majd a kikötőn át a Városházához vezet az út. A Szent Mihály templom után a Sómúzeum következik, végül a Kurparkban pihenhet meg.",
         "ro": "Cu bicicleta explorați nu doar centrul vechi, ci și dealul Kalkberg și parcul Kurpark. De la Piața Am Sande mergeți la Turnul de apă, apoi prin port la Primărie. După vizitarea bisericii Sf. Mihail, pedalați spre Muzeul Sării și relaxați-vă în final în parcul Kurpark.",
-        "en": "By bike, you can explore not only the old town but also the Kalkberg hill and the Kurpark. From Am Sande, head to the Water Tower, then via the harbor to the Town Hall. After visiting St. Michael's, cycle to the Salt Museum and finish with relaxation in the Kurpark."
+        "en": "By bike, you can explore not only the old town but also the Kalkberg hill and the Kurpark. From Am Sande, head to the Water Tower, then via the harbor to the Town Hall. After visiting St. Michael's, cycle to the Salt Museum and finish with relaxation in the Kurpark.",
+        "tr": "Bisikletle sadece eski kenti değil, aynı zamanda Kalkberg tepesini ve Kurpark'ı da keşfedebilirsiniz. Am Sande'den Su Kulesi'ne gidin, sonra liman üzerinden Belediye Binası'na doğru sürün. St. Michael'i ziyaret ettikten sonra Tuz Müzesi'ne pedal çevirin ve Kurpark'ta dinlenerek bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -642,6 +680,10 @@
         "en": [
           "Many alleys in the old town are one-way, but often open for cyclists in both directions.",
           "Use the Ilmenau bike path for excursions into nature."
+        ],
+        "tr": [
+          "Eski kentte birçok ara sokak tek yönlüdür, ancak çoğu zaman bisikletlilere her iki yönde açıktır.",
+          "Doğaya çıkışlar için Ilmenau bisiklet yolunu kullanın."
         ]
       }
     },
@@ -658,7 +700,8 @@
             "de": "Am Sande (Parken: Am Wall)",
             "hu": "Am Sande tér (Parkolás: Am Wall)",
             "ro": "Piața Am Sande (Parcare: Am Wall)",
-            "en": "Am Sande (Parking: Am Wall)"
+            "en": "Am Sande (Parking: Am Wall)",
+            "tr": "Am Sande (Park: Am Wall)"
           },
           "coords": [
             10.412,
@@ -673,7 +716,8 @@
             "de": "Zentraler Platz der Hansezeit.",
             "hu": "A Hanza-kor központi tere.",
             "ro": "Piața centrală din epoca hanseatică.",
-            "en": "Central square of the Hanseatic era."
+            "en": "Central square of the Hanseatic era.",
+            "tr": "Hanse döneminin merkezi meydanı."
           }
         },
         {
@@ -681,7 +725,8 @@
             "de": "St. Johannis",
             "hu": "Szent János templom",
             "ro": "Biserica Sf. Ioan",
-            "en": "St. John's Church"
+            "en": "St. John's Church",
+            "tr": "St. John Kilisesi"
           },
           "coords": [
             10.414,
@@ -697,7 +742,8 @@
             "de": "Gotische Backsteinarchitektur.",
             "hu": "Gótikus téglaépítészet.",
             "ro": "Arhitectură gotică din cărămidă.",
-            "en": "Gothic brick architecture."
+            "en": "Gothic brick architecture.",
+            "tr": "Gotik tuğla mimarisi."
           }
         },
         {
@@ -705,7 +751,8 @@
             "de": "Stintmarkt",
             "hu": "Stintmarkt",
             "ro": "Stintmarkt",
-            "en": "Stintmarkt"
+            "en": "Stintmarkt",
+            "tr": "Stintmarkt"
           },
           "coords": [
             10.41,
@@ -721,7 +768,8 @@
             "de": "Fotogener Alter Kran am Hafen.",
             "hu": "Fotogén Régi daru a kikötőben.",
             "ro": "Macaraua Veche din port, foarte fotogenică.",
-            "en": "Photogenic Old Crane at the harbor."
+            "en": "Photogenic Old Crane at the harbor.",
+            "tr": "Limanın fotojenik Eski Vinci."
           }
         },
         {
@@ -729,7 +777,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "tr": "Belediye Binası"
           },
           "coords": [
             10.408,
@@ -745,7 +794,8 @@
             "de": "Das Herz der Stadtverwaltung.",
             "hu": "A városigazgatás szíve.",
             "ro": "Inima administrației orașului.",
-            "en": "The heart of city administration."
+            "en": "The heart of city administration.",
+            "tr": "Şehir idaresinin kalbi."
           }
         },
         {
@@ -753,7 +803,8 @@
             "de": "Salzmuseum (Parken am Museum)",
             "hu": "Sómúzeum (Parkolás a múzeumnál)",
             "ro": "Muzeul Sării (Parcare la muzeu)",
-            "en": "Salt Museum (Parking at museum)"
+            "en": "Salt Museum (Parking at museum)",
+            "tr": "Tuz Müzesi (Müzede park yeri)"
           },
           "coords": [
             10.404,
@@ -769,7 +820,8 @@
             "de": "Parken direkt auf dem Gelände.",
             "hu": "Parkolás közvetlenül a területen.",
             "ro": "Parcare chiar în incintă.",
-            "en": "Parking directly on the grounds."
+            "en": "Parking directly on the grounds.",
+            "tr": "Arsada doğrudan park imkânı."
           }
         },
         {
@@ -777,7 +829,8 @@
             "de": "Kloster Lüne (Kurze Fahrt)",
             "hu": "Lüne kolostor (Rövid autózás)",
             "ro": "Mănăstirea Lüne (Drum scurt)",
-            "en": "Lüne Abbey (Short drive)"
+            "en": "Lüne Abbey (Short drive)",
+            "tr": "Lüne Manastırı (Kısa sürüş)"
           },
           "coords": [
             10.432,
@@ -793,7 +846,8 @@
             "de": "Ehemaliges Benediktinerinnenkloster.",
             "hu": "Egykori bencés apácakolostor.",
             "ro": "Fostă mănăstire benedictină.",
-            "en": "Former Benedictine nunnery."
+            "en": "Former Benedictine nunnery.",
+            "tr": "Eski bir Benediktin rahibe manastırı."
           }
         }
       ],
@@ -801,7 +855,8 @@
         "de": "Mit dem Auto parken Sie zentral für den Altstadt-Rundgang (Sande, Stintmarkt, Rathaus). Danach fahren Sie zum Salzmuseum im Süden der Stadt. Zum Abschluss führt die Fahrt zum nahegelegenen Kloster Lüne, einer Oase der Ruhe mit bedeutender Textilkunst.",
         "hu": "Autóval központi helyen parkolva fedezze fel az óvárost (Sande, Stintmarkt, Városháza). Ezután hajtson a város déli részén található Sómúzeumba. Zárásként látogasson el a közeli Lüne kolostorba, amely a nyugalom szigete jelentős textilgyűjteménnyel.",
         "ro": "Cu mașina parcați central pentru turul orașului vechi (Sande, Stintmarkt, Primărie). Apoi mergeți la Muzeul Sării în sudul orașului. La final, vizitați mănăstirea Lüne din apropiere, o oază de liniște cu o colecție importantă de artă textilă.",
-        "en": "By car, park centrally for the old town tour (Sande, Stintmarkt, Town Hall). Then drive to the Salt Museum in the south of the city. Finally, take a short drive to the nearby Lüne Abbey, an oasis of calm with significant textile art."
+        "en": "By car, park centrally for the old town tour (Sande, Stintmarkt, Town Hall). Then drive to the Salt Museum in the south of the city. Finally, take a short drive to the nearby Lüne Abbey, an oasis of calm with significant textile art.",
+        "tr": "Arabayla geliyorsanız, eski şehir turu için merkezde park edin (Sande, Stintmarkt, Belediye Binası). Ardından şehrin güneyindeki Tuz Müzesi'ne gidin. Son olarak, kısa bir sürüşle yakınlardaki Lüne Manastırı'na uğrayın; önemli tekstil sanatlarıyla sakin bir vaha."
       },
       "gastro_picks": {
         "de": [
@@ -901,6 +956,10 @@
         "en": [
           "Use P+R parking lots if you plan to stay longer in the old town.",
           "In the city center, many spots are reserved for residents; watch the signs."
+        ],
+        "tr": [
+          "Eski şehirde daha uzun kalmayı planlıyorsanız P+R otoparklarını kullanın.",
+          "Şehir merkezinde birçok yer sakinlere ayrılmış; tabelaları takip edin."
         ]
       }
     },
@@ -917,7 +976,8 @@
             "de": "Bahnhof / ZOB",
             "hu": "Vasútállomás",
             "ro": "Gara Lüneburg",
-            "en": "Lüneburg Station"
+            "en": "Lüneburg Station",
+            "tr": "Lüneburg Tren İstasyonu"
           },
           "coords": [
             10.419,
@@ -932,7 +992,8 @@
             "de": "Startpunkt vieler Buslinien.",
             "hu": "Számos buszjárat indulóhelye.",
             "ro": "Punctul de plecare pentru multe linii de autobuz.",
-            "en": "Starting point for many bus lines."
+            "en": "Starting point for many bus lines.",
+            "tr": "Birçok otobüs hattının başlangıç noktası."
           }
         },
         {
@@ -940,7 +1001,8 @@
             "de": "Am Sande",
             "hu": "Am Sande tér",
             "ro": "Piața Am Sande",
-            "en": "Am Sande Square"
+            "en": "Am Sande Square",
+            "tr": "Am Sande Meydanı"
           },
           "coords": [
             10.412,
@@ -956,7 +1018,8 @@
             "de": "Zentraler Busknotenpunkt der Altstadt.",
             "hu": "Az óváros központi buszos csomópontja.",
             "ro": "Nod central de autobuze în orașul vechi.",
-            "en": "Central bus hub in the old town."
+            "en": "Central bus hub in the old town.",
+            "tr": "Eski şehirde merkezi otobüs merkezi."
           }
         },
         {
@@ -964,7 +1027,8 @@
             "de": "Rathaus & Stintmarkt",
             "hu": "Városháza és Stintmarkt",
             "ro": "Primăria și Stintmarkt",
-            "en": "Town Hall & Stintmarkt"
+            "en": "Town Hall & Stintmarkt",
+            "tr": "Belediye Binası ve Stintmarkt"
           },
           "coords": [
             10.408,
@@ -980,7 +1044,8 @@
             "de": "Zu Fuß vom Sande erreichbar.",
             "hu": "Gyalogosan elérhető az Am Sande tértől.",
             "ro": "Accesibil pe jos din Piața Am Sande.",
-            "en": "Accessible on foot from Am Sande."
+            "en": "Accessible on foot from Am Sande.",
+            "tr": "Am Sande'den yürüyerek ulaşılabilir."
           }
         },
         {
@@ -988,7 +1053,8 @@
             "de": "St. Michaelis",
             "hu": "Szent Mihály templom",
             "ro": "Biserica Sf. Mihail",
-            "en": "St. Michael's Church"
+            "en": "St. Michael's Church",
+            "tr": "St. Michael Kilisesi"
           },
           "coords": [
             10.402,
@@ -1004,7 +1070,8 @@
             "de": "Blick auf das Senkungsgebiet.",
             "hu": "Kilátás a süllyedő városnegyedre.",
             "ro": "Vedere spre zona de scufundare a terenului.",
-            "en": "View of the land subsidence area."
+            "en": "View of the land subsidence area.",
+            "tr": "Arazi çöküntü alanının manzarası."
           }
         },
         {
@@ -1012,7 +1079,8 @@
             "de": "Salzmuseum",
             "hu": "Sómúzeum",
             "ro": "Muzeul Sării",
-            "en": "Salt Museum"
+            "en": "Salt Museum",
+            "tr": "Tuz Müzesi"
           },
           "coords": [
             10.404,
@@ -1028,7 +1096,8 @@
             "de": "Buslinie 5007 oder 5012 nutzen.",
             "hu": "Használja az 5007-es vagy 5012-es buszt.",
             "ro": "Folosiți linia de autobuz 5007 sau 5012.",
-            "en": "Use bus line 5007 or 5012."
+            "en": "Use bus line 5007 or 5012.",
+            "tr": "5007 veya 5012 numaralı otobüsleri kullanın."
           }
         },
         {
@@ -1036,7 +1105,8 @@
             "de": "Wasserturm",
             "hu": "Víztorony",
             "ro": "Turnul de apă",
-            "en": "Water Tower"
+            "en": "Water Tower",
+            "tr": "Su Kulesi"
           },
           "coords": [
             10.416,
@@ -1052,7 +1122,8 @@
             "de": "Nahe dem Bahnhof für die Rückreise.",
             "hu": "Közel az állomáshoz a visszautazáshoz.",
             "ro": "Aproape de gară pentru călătoria de întoarcere.",
-            "en": "Near the station for the return journey."
+            "en": "Near the station for the return journey.",
+            "tr": "Dönüş yolculuğu için istasyonun yakınında."
           }
         }
       ],
@@ -1060,7 +1131,8 @@
         "de": "Vom Bahnhof bringt Sie der Bus direkt zum Sande, dem Herz der Altstadt. Nach einem ausgiebigen Spaziergang durch den Hafen und zum Rathaus fahren Sie mit dem Bus zum Salzmuseum. Zum Abschluss besuchen Sie den Wasserturm, bevor es zurück zum Bahnhof geht.",
         "hu": "A vasútállomástól busz viszi az óváros szívébe, az Am Sande térre. A kikötő és a Városháza bejárása után buszozzon el a Sómúzeumba. A napot a Víztoronynál zárja, ahonnan már csak egy rövid séta a vasútállomás.",
         "ro": "De la gară, autobuzul vă duce direct în inima orașului vechi, în Piața Am Sande. După o plimbare prin port și la Primărie, luați autobuzul către Muzeul Sării. Încheiați vizita la Turnul de apă, situat convenabil aproape de gară.",
-        "en": "From the train station, the bus takes you directly to Am Sande, the heart of the old town. After an extensive walk through the harbor and to the Town Hall, take a bus to the Salt Museum. Finally, visit the Water Tower before heading back to the station."
+        "en": "From the train station, the bus takes you directly to Am Sande, the heart of the old town. After an extensive walk through the harbor and to the Town Hall, take a bus to the Salt Museum. Finally, visit the Water Tower before heading back to the station.",
+        "tr": "Tren istasyonundan otobüs sizi doğrudan eski şehrin kalbi Am Sande'ye götürür. Liman boyunca ve Belediye Binası'na uzanan geniş bir yürüyüşün ardından Tuz Müzesi'ne otobüsle gidin. Son olarak Su Kulesi'ni ziyaret edip istasyona geri dönün."
       },
       "gastro_picks": {
         "de": [
@@ -1160,6 +1232,10 @@
         "en": [
           "A day ticket for the HVV (Hamburg Transport Association) is worthwhile.",
           "Buses from Am Sande run very frequently."
+        ],
+        "tr": [
+          "HVV (Hamburg Ulaşım Birliği) için günlük bilet almak kârlıdır.",
+          "Am Sande'den kalkan otobüsler çok sık çalışır."
         ]
       }
     }

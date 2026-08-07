@@ -3,55 +3,64 @@
     "de": "Marktplatz 1, 86720 Nördlingen",
     "hu": "Marktplatz 1, 86720 Nördlingen",
     "ro": "Marktplatz 1, 86720 Nördlingen",
-    "en": "Marktplatz 1, 86720 Nördlingen"
+    "en": "Marktplatz 1, 86720 Nördlingen",
+    "tr": "Marktplatz 1, 86720 Nördlingen"
   },
   "openingHours": {
     "de": "24/7 (Stadtmauer), Turm Daniel 09:00-18:00",
     "hu": "Városfal 0-24, Daniel-torony 09:00-18:00",
     "ro": "Zidul cetății non-stop, Turnul Daniel 09:00-18:00",
-    "en": "City wall 24/7, Daniel Tower 09:00-18:00"
+    "en": "City wall 24/7, Daniel Tower 09:00-18:00",
+    "tr": "Şehir suru 24/7, Daniel Kulesi 09:00-18:00"
   },
   "entranceFee": {
     "de": "Stadtmauer frei, Turm Daniel € 3,50",
     "hu": "Városfal ingyenes, Daniel-torony 3,50 €",
     "ro": "Zidul cetății gratuit, Turnul Daniel 3,50 €",
-    "en": "City wall free, Daniel Tower € 3.50"
+    "en": "City wall free, Daniel Tower € 3.50",
+    "tr": "Şehir suru ücretsiz, Daniel Kulesi € 3,50"
   },
   "website": "https://www.noerdlingen.de",
   "publicTransport": {
     "de": "Bahnhof Nördlingen, 5 Minuten Fußweg zur Altstadt",
     "hu": "Nördlingen vasútállomás, 5 perc séta az óváros",
     "ro": "Gara Nördlingen, 5 minute de mers pe jos până în centrul vechi",
-    "en": "Nördlingen station, 5-minute walk to the old town"
+    "en": "Nördlingen station, 5-minute walk to the old town",
+    "tr": "Nördlingen istasyonu, eski şehre 5 dakikalık yürüme mesafesi"
   },
   "parking": {
     "de": "Parkplatz am Hallenbad, kostenfrei außerhalb der Stadtmauer.",
     "hu": "Hallenbad parkoló, ingyenes a városfalon kívül.",
     "ro": "Parcare la Hallenbad, gratuit în afara zidurilor cetății.",
-    "en": "Hallenbad parking, free of charge outside the city walls."
+    "en": "Hallenbad parking, free of charge outside the city walls.",
+    "tr": "Hallenbad otoparkı, şehir duvarlarının dışında ücretsiz."
   },
   "accessibility": {
     "de": "Stadtmauerrundgang nicht barrierefrei, Innenstadt ebenerdig.",
     "hu": "A városfali körséta nem akadálymentes, a belváros sík terület.",
     "ro": "Circuitul zidului cetății nu este accesibil, centrul orașului este plan.",
-    "en": "City wall walk is not accessible, the city center is level."
+    "en": "City wall walk is not accessible, the city center is level.",
+    "tr": "Şehir suru yürüyüşü erişime uygun değil; şehir merkezi düz."
   },
   "photoRules": {
     "de": "Erlaubt.",
     "hu": "Engedélyezett.",
     "ro": "Permis.",
-    "en": "Allowed."
+    "en": "Allowed.",
+    "tr": "İzinli."
   },
   "bestTimeToVisit": {
     "de": "Abends, wenn der Türmer jede halbe Stunde seinen Ruf absetzt.",
     "hu": "Este, amikor a toronyőr félóránként elkiáltja magát.",
     "ro": "Seara, când paznicul turnului își strigă chemarea la fiecare jumătate de oră.",
-    "en": "In the evening, when the watchman calls out from the tower every half hour."
+    "en": "In the evening, when the watchman calls out from the tower every half hour.",
+    "tr": "Akşamüstü, nöbetçinin her yarım saatte bir kaledeki kulübeden seslendiği zaman."
   },
   "audioGuide": {
     "de": "ja, im Stadtmuseum verfügbar",
     "hu": "igen, a városi múzeumban elérhető",
     "ro": "da, disponibil la muzeul orașului",
-    "en": "yes, available at the city museum"
+    "en": "yes, available at the city museum",
+    "tr": "evet, şehir müzesinde temin edilebilir"
   }
 }

@@ -21,7 +21,8 @@
             "de": "Trinkhalle",
             "hu": "Trinkhalle (Ivócsarnok)",
             "ro": "Trinkhalle",
-            "en": "Trinkhalle"
+            "en": "Trinkhalle",
+            "tr": "Trinkhalle"
           },
           "coords": [
             8.24,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Fresken in der Korridor-Galerie.",
             "hu": "Csodálja meg a folyosó freskóit a helyi legendákról.",
             "ro": "Admirați frescele care înfățișează legende locale.",
-            "en": "Admire the corridor frescoes depicting local legends."
+            "en": "Admire the corridor frescoes depicting local legends.",
+            "tr": "Yerel efsaneleri betimleyen koridor fresklerini hayranlıkla izleyin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kurhaus Baden-Baden",
             "hu": "Kurhaus Baden-Baden",
             "ro": "Kurhaus Baden-Baden",
-            "en": "Kurhaus Baden-Baden"
+            "en": "Kurhaus Baden-Baden",
+            "tr": "Kurhaus Baden-Baden"
           },
           "coords": [
             8.242,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie das Casino am Vormittag für eine Führung.",
             "hu": "Délelőtt tegyen egy vezetett túrát a híres kaszinóban.",
             "ro": "Vizitați cazinoul dimineața pentru un tur ghidat.",
-            "en": "Take a guided tour of the famous casino in the morning."
+            "en": "Take a guided tour of the famous casino in the morning.",
+            "tr": "Ünlü kumarhanenin sabah rehberli turuna katılın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Friedrichsbad",
             "hu": "Friedrichsbad termálfürdő",
             "ro": "Băile Friedrichsbad",
-            "en": "Friedrichsbad Spa"
+            "en": "Friedrichsbad Spa",
+            "tr": "Friedrichsbad Spa"
           },
           "coords": [
             8.244,
@@ -82,7 +87,8 @@
             "de": "Erleben Sie das römisch-irische Badetradition ohne Badekleidung.",
             "hu": "Próbálja ki a római-ír fürdőkultúrát (fürdőruha nélkül).",
             "ro": "Experimentați tradiția băii romano-irlandeze.",
-            "en": "Experience the Roman-Irish bathing tradition."
+            "en": "Experience the Roman-Irish bathing tradition.",
+            "tr": "Roma-İrlanda hamam geleneğini deneyimleyin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museum Frieder Burda",
             "hu": "Frieder Burda Múzeum",
             "ro": "Muzeul Frieder Burda",
-            "en": "Museum Frieder Burda"
+            "en": "Museum Frieder Burda",
+            "tr": "Museum Frieder Burda"
           },
           "coords": [
             8.244,
@@ -105,7 +112,8 @@
             "de": "Achten Sie auf die Architektur von Richard Meier.",
             "hu": "Figyelje meg Richard Meier modern építészeti remekművét.",
             "ro": "Admirați arhitectura modernă semnată de Richard Meier.",
-            "en": "Notice the modern architecture by Richard Meier."
+            "en": "Notice the modern architecture by Richard Meier.",
+            "tr": "Richard Meier imzası taşıyan modern mimariye dikkat edin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Lichtentaler Allee",
             "hu": "Lichtentaler Allee sétány",
             "ro": "Aleea Lichtentaler",
-            "en": "Lichtentaler Allee"
+            "en": "Lichtentaler Allee",
+            "tr": "Lichtentaler Allee"
           },
           "coords": [
             8.243,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie entlang der Oos unter den alten Bäumen.",
             "hu": "Sétáljon az Oos-patak partján az öreg fák alatt.",
             "ro": "Plimbați-vă de-a lungul râului Oos sub arborii seculari.",
-            "en": "Stroll along the Oos river under the ancient trees."
+            "en": "Stroll along the Oos river under the ancient trees.",
+            "tr": "Antik ağaçlar altından Oos nehri boyunca yürüyün."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Caracalla Therme",
             "hu": "Caracalla termálfürdő",
             "ro": "Termele Caracalla",
-            "en": "Caracalla Therme"
+            "en": "Caracalla Therme",
+            "tr": "Caracalla Therme"
           },
           "coords": [
             8.246,
@@ -151,7 +162,8 @@
             "de": "Nutzen Sie den Außenbereich mit dem Strömungskanal.",
             "hu": "Élvezze a sodrófolyosót a külső medencében.",
             "ro": "Bucurați-vă de canalul cu curent din piscina exterioară.",
-            "en": "Enjoy the current channel in the outdoor pool area."
+            "en": "Enjoy the current channel in the outdoor pool area.",
+            "tr": "Açık havuz alanındaki akım kanalının keyfini çıkarın."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Festspielhaus",
             "hu": "Festspielhaus (Operaház)",
             "ro": "Festspielhaus",
-            "en": "Festspielhaus"
+            "en": "Festspielhaus",
+            "tr": "Festspielhaus"
           },
           "coords": [
             8.235,
@@ -174,7 +187,8 @@
             "de": "Deutschlands größtes Opernhaus bietet erstklassige Akustik.",
             "hu": "Németország legnagyobb operaháza kiváló akusztikával.",
             "ro": "Cea mai mare operă din Germania are o acustică de top.",
-            "en": "Germany's largest opera house offers world-class acoustics."
+            "en": "Germany's largest opera house offers world-class acoustics.",
+            "tr": "Almanya'nın en büyük opera binası, dünya standartlarında akustiğe sahip."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im glanzvollen Kurzentrum. Nach einem Besuch in der Trinkhalle können Sie im historischen Friedrichsbad entspannen. Der Nachmittag gehört der Kunst im Burda Museum und einem Spaziergang in der prachtvollen Parkanlage Lichtentaler Allee. Beenden Sie den Tag mit einem Blick auf das moderne Festspielhaus, dem architektonischen Stolz der Stadt.",
         "hu": "Kezdje a napot az elegáns fürdőnegyedben. A Trinkhalle megtekintése után merüljön el a Friedrichsbad történelmi medencéiben. Délután a művészeté a főszerep a Burda Múzeumban, majd tegyen egy pihentető sétát a Lichtentaler Allee parkban. A napot a monumentális Festspielhaus épületénél zárhatja, amely a város modern kulturális jelképe.",
         "ro": "Începeți ziua în zona balneară elegantă. După o vizită la Trinkhalle, relaxați-vă în atmosfera istorică de la Friedrichsbad. După-amiaza este dedicată artei la Muzeul Burda și unei plimbări pe splendida alee Lichtentaler. Încheiați ziua admirând Festspielhaus, un simbol al culturii moderne din oraș, recunoscut pentru acustica sa excepțională.",
-        "en": "Start your day in the glamorous spa district. After visiting the Trinkhalle, immerse yourself in the historical pools of Friedrichsbad. The afternoon is dedicated to art at the Burda Museum, followed by a relaxing stroll along the Lichtentaler Allee. Finish your day at the monumental Festspielhaus, a modern cultural landmark and architectural pride of the city."
+        "en": "Start your day in the glamorous spa district. After visiting the Trinkhalle, immerse yourself in the historical pools of Friedrichsbad. The afternoon is dedicated to art at the Burda Museum, followed by a relaxing stroll along the Lichtentaler Allee. Finish your day at the monumental Festspielhaus, a modern cultural landmark and architectural pride of the city.",
+        "tr": "Glamoröz spa bölgesinde güne başlayın. Trinkhalle'yi ziyaret ettikten sonra Friedrichsbad'in tarihî havuzlarına dalın. Öğleden sonra Burda Müzesi'nde sanat için ayırın, ardından Lichtentaler Allee boyunca rahatlatıcı bir yürüyüş yapın. Günü kentin modern kültür simgesi ve mimari gururu olan anıtsal Festspielhaus'ta bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -326,6 +341,12 @@
           "Wear comfortable shoes for the park walks.",
           "The casino requires formal attire (jacket) in the evening.",
           "It is recommended to book thermal bath tickets in advance."
+        ],
+        "tr": [
+          "Şehir yürüyerek keşfetmek için ideal.",
+          "Park yürüyüşleri için rahat ayakkabılar giyin.",
+          "Kumarda akşamları resmi kıyafet (ceket) istenmektedir.",
+          "Termal hamam biletlerini önceden rezerve etmeniz önerilir."
         ]
       }
     },
@@ -342,7 +363,8 @@
             "de": "Trinkhalle",
             "hu": "Trinkhalle",
             "ro": "Trinkhalle",
-            "en": "Trinkhalle"
+            "en": "Trinkhalle",
+            "tr": "Trinkhalle"
           },
           "coords": [
             8.24,
@@ -357,7 +379,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Indulópont a központban.",
             "ro": "Punct de plecare în centru.",
-            "en": "Starting point in the center."
+            "en": "Starting point in the center.",
+            "tr": "Merkezde başlayan nokta."
           }
         },
         {
@@ -365,7 +388,8 @@
             "de": "Lichtentaler Allee",
             "hu": "Lichtentaler Allee",
             "ro": "Aleea Lichtentaler",
-            "en": "Lichtentaler Allee"
+            "en": "Lichtentaler Allee",
+            "tr": "Lichtentaler Allee"
           },
           "coords": [
             8.243,
@@ -380,7 +404,8 @@
             "de": "Perfekte Radwege entlang des Flusses.",
             "hu": "Tökéletes kerékpárutak a folyó mentén.",
             "ro": "Piste de biciclete perfecte de-a lungul râului.",
-            "en": "Perfect bike paths along the river."
+            "en": "Perfect bike paths along the river.",
+            "tr": "Nehir boyunca mükemmel bisiklet yolları."
           }
         },
         {
@@ -388,7 +413,8 @@
             "de": "Kloster Lichtenthal",
             "hu": "Lichtenthali kolostor",
             "ro": "Mănăstirea Lichtenthal",
-            "en": "Lichtenthal Abbey"
+            "en": "Lichtenthal Abbey",
+            "tr": "Lichtenthal Manastırı"
           },
           "coords": [
             8.255,
@@ -403,7 +429,8 @@
             "de": "Ein ruhiger Ort am Ende der Allee.",
             "hu": "Csendes kolostor a sétány végén.",
             "ro": "O mănăstire liniștită la capătul aleii.",
-            "en": "A peaceful abbey at the end of the promenade."
+            "en": "A peaceful abbey at the end of the promenade.",
+            "tr": "Promenadın sonunda huzurlu bir manastır."
           }
         },
         {
@@ -411,7 +438,8 @@
             "de": "Museum Frieder Burda",
             "hu": "Frieder Burda Múzeum",
             "ro": "Muzeul Frieder Burda",
-            "en": "Museum Frieder Burda"
+            "en": "Museum Frieder Burda",
+            "tr": "Museum Frieder Burda"
           },
           "coords": [
             8.244,
@@ -426,7 +454,8 @@
             "de": "Moderne Kunst im grünen Park.",
             "hu": "Modern művészet a zöld parkban.",
             "ro": "Artă modernă într-un parc verde.",
-            "en": "Modern art set in a green park."
+            "en": "Modern art set in a green park.",
+            "tr": "Yeşil bir park içinde modern sanat."
           }
         },
         {
@@ -434,7 +463,8 @@
             "de": "Schloss Hohenbaden",
             "hu": "Hohenbaden várkastély",
             "ro": "Castelul Hohenbaden",
-            "en": "Hohenbaden Castle"
+            "en": "Hohenbaden Castle",
+            "tr": "Hohenbaden Kalesi"
           },
           "coords": [
             8.244,
@@ -449,7 +479,8 @@
             "de": "Anstrengender Aufstieg, aber toller Ausblick.",
             "hu": "Fárasztó emelkedő, de pazar kilátás.",
             "ro": "Urcare solicitantă, dar priveliște superbă.",
-            "en": "Tough climb but rewarding panoramic views."
+            "en": "Tough climb but rewarding panoramic views.",
+            "tr": "Zorlu bir tırmanış ama ödülü panoramik manzaralar."
           }
         },
         {
@@ -457,7 +488,8 @@
             "de": "Festspielhaus",
             "hu": "Festspielhaus",
             "ro": "Festspielhaus",
-            "en": "Festspielhaus"
+            "en": "Festspielhaus",
+            "tr": "Festspielhaus"
           },
           "coords": [
             8.235,
@@ -472,7 +504,8 @@
             "de": "Ehemaliger Stadtbahnhof als Eingang.",
             "hu": "A korábbi pályaudvar az épület bejárata.",
             "ro": "Fosta gară a orașului servește drept intrare.",
-            "en": "The former train station serves as the entrance."
+            "en": "The former train station serves as the entrance.",
+            "tr": "Eski tren istasyonu giriş olarak kullanılıyor."
           }
         }
       ],
@@ -480,7 +513,8 @@
         "de": "Erkunden Sie Baden-Baden auf zwei Rädern. Radeln Sie die Lichtentaler Allee bis zum Kloster Lichtenthal entlang. Der Rückweg führt Sie zur modernen Kunst und schließlich steil bergauf zum Alten Schloss Hohenbaden für ein Panorama über den Schwarzwald. Zum Abschluss besichtigen Sie das Festspielhaus.",
         "hu": "Fedezze fel Baden-Badent két keréken. Tekerjen végig a Lichtentaler Allee-n a Lichtenthal kolostorig. A visszaút modern művészetet ígér, majd egy meredekebb szakasz következik a Hohenbaden várkastélyhoz a fekete-erdei panorámáért. A napot a monumentális Festspielhaus épületénél zárhatja.",
         "ro": "Explorați Baden-Baden pe două roți. Pedalați de-a lungul aleii Lichtentaler până la Mănăstirea Lichtenthal. Drumul de întoarcere vă poartă spre arta modernă și apoi în urcare spre Castelul Hohenbaden pentru o panoramă asupra Pădurii Negre. Încheiați turul la clădirea impresionantă Festspielhaus.",
-        "en": "Explore Baden-Baden on two wheels. Cycle along the Lichtentaler Allee all the way to Lichtenthal Abbey. The return trip takes you to modern art and then on a steeper climb to Hohenbaden Castle for a panorama over the Black Forest. End your tour at the impressive Festspielhaus."
+        "en": "Explore Baden-Baden on two wheels. Cycle along the Lichtentaler Allee all the way to Lichtenthal Abbey. The return trip takes you to modern art and then on a steeper climb to Hohenbaden Castle for a panorama over the Black Forest. End your tour at the impressive Festspielhaus.",
+        "tr": "Baden-Baden'i iki teker üzerinde keşfedin. Lichtentaler Allee boyunca Lichtenthal Manastırı'na kadar pedal çevirin. Dönüş yolunda modern sanata uğrayın; ardından Hohenbaden Kalesi'ne daha dik bir tırmanışla Kara Orman manzarası için çıkın. Turunuzu etkileyici Festspielhaus'ta sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -584,6 +618,11 @@
           "Watch out for pedestrians on the promenades.",
           "An e-bike is recommended for the climb to the castle.",
           "Refill your water bottle at the city fountains."
+        ],
+        "tr": [
+          "Promenadlarda yaya trafiğine dikkat edin.",
+          "Kaleye tırmanış için e-bisiklet tavsiye edilir.",
+          "Su şişenizi şehir çeşmelerinde doldurun."
         ]
       }
     },
@@ -600,7 +639,8 @@
             "de": "Trinkhalle",
             "hu": "Trinkhalle",
             "ro": "Trinkhalle",
-            "en": "Trinkhalle"
+            "en": "Trinkhalle",
+            "tr": "Trinkhalle"
           },
           "coords": [
             8.24,
@@ -616,7 +656,8 @@
             "de": "Parken Sie im Kurhaus-Parkhaus.",
             "hu": "Parkoljon a Kurhaus mélygarázsában.",
             "ro": "Parcați în garajul de la Kurhaus.",
-            "en": "Park in the Kurhaus parking garage."
+            "en": "Park in the Kurhaus parking garage.",
+            "tr": "Kurhaus otopark garajında park edin."
           }
         },
         {
@@ -624,7 +665,8 @@
             "de": "Kurhaus Baden-Baden",
             "hu": "Kurhaus",
             "ro": "Kurhaus",
-            "en": "Kurhaus"
+            "en": "Kurhaus",
+            "tr": "Kurhaus"
           },
           "coords": [
             8.242,
@@ -640,7 +682,8 @@
             "de": "Zentrum der Belle Époque.",
             "hu": "A Belle Époque központja.",
             "ro": "Centrul perioadei Belle Époque.",
-            "en": "Center of the Belle Époque."
+            "en": "Center of the Belle Époque.",
+            "tr": "Belle Époque merkezi."
           }
         },
         {
@@ -648,7 +691,8 @@
             "de": "Festspielhaus",
             "hu": "Festspielhaus",
             "ro": "Festspielhaus",
-            "en": "Festspielhaus"
+            "en": "Festspielhaus",
+            "tr": "Festspielhaus"
           },
           "coords": [
             8.235,
@@ -664,7 +708,8 @@
             "de": "Klassizistische Pracht.",
             "hu": "Klasszicista pompa.",
             "ro": "Sudoare clasicistă.",
-            "en": "Classicist splendor."
+            "en": "Classicist splendor.",
+            "tr": "Klasisist görkem."
           }
         },
         {
@@ -672,7 +717,8 @@
             "de": "Friedrichsbad",
             "hu": "Friedrichsbad",
             "ro": "Friedrichsbad",
-            "en": "Friedrichsbad"
+            "en": "Friedrichsbad",
+            "tr": "Friedrichsbad"
           },
           "coords": [
             8.244,
@@ -688,7 +734,8 @@
             "de": "Cluster Altstadtbäder.",
             "hu": "Óvárosi fürdőnegyed.",
             "ro": "Zona băilor din orașul vechi.",
-            "en": "Old town spa cluster."
+            "en": "Old town spa cluster.",
+            "tr": "Eski şehir spa kümelenmesi."
           }
         },
         {
@@ -696,7 +743,8 @@
             "de": "Caracalla Therme",
             "hu": "Caracalla termál",
             "ro": "Termele Caracalla",
-            "en": "Caracalla Therme"
+            "en": "Caracalla Therme",
+            "tr": "Caracalla Therme"
           },
           "coords": [
             8.246,
@@ -712,7 +760,8 @@
             "de": "Modernes Badeerlebnis.",
             "hu": "Modern fürdőélmény.",
             "ro": "Experiență modernă la baie.",
-            "en": "Modern spa experience."
+            "en": "Modern spa experience.",
+            "tr": "Modern spa deneyimi."
           }
         },
         {
@@ -720,7 +769,8 @@
             "de": "Museum Frieder Burda",
             "hu": "Burda Múzeum",
             "ro": "Muzeul Burda",
-            "en": "Burda Museum"
+            "en": "Burda Museum",
+            "tr": "Burda Museum"
           },
           "coords": [
             8.244,
@@ -736,7 +786,8 @@
             "de": "Parken an der Lichtentaler Allee.",
             "hu": "Parkolás a Lichtentaler Allee-nál.",
             "ro": "Parcare la aleea Lichtentaler.",
-            "en": "Parking at Lichtentaler Allee."
+            "en": "Parking at Lichtentaler Allee.",
+            "tr": "Lichtentaler Allee'de park yeri."
           }
         },
         {
@@ -744,7 +795,8 @@
             "de": "Lichtentaler Allee",
             "hu": "Lichtentaler sétány",
             "ro": "Aleea Lichtentaler",
-            "en": "Lichtentaler Allee"
+            "en": "Lichtentaler Allee",
+            "tr": "Lichtentaler Allee"
           },
           "coords": [
             8.243,
@@ -760,7 +812,8 @@
             "de": "Grüner Salon der Stadt.",
             "hu": "A város zöld szalonja.",
             "ro": "Salonul verde al orașului.",
-            "en": "The city's green salon."
+            "en": "The city's green salon.",
+            "tr": "Kentin yeşil salonu."
           }
         },
         {
@@ -768,7 +821,8 @@
             "de": "Schloss Hohenbaden",
             "hu": "Hohenbaden vár",
             "ro": "Castelul Hohenbaden",
-            "en": "Hohenbaden Castle"
+            "en": "Hohenbaden Castle",
+            "tr": "Hohenbaden Kalesi"
           },
           "coords": [
             8.244,
@@ -784,7 +838,8 @@
             "de": "Direkte Zufahrt zum Parkplatz möglich.",
             "hu": "Közvetlen behajtás a parkolóig.",
             "ro": "Acces direct până la parcare.",
-            "en": "Direct access to the parking lot."
+            "en": "Direct access to the parking lot.",
+            "tr": "Otoparka doğrudan erişim."
           }
         }
       ],
@@ -792,7 +847,8 @@
         "de": "Nutzen Sie das Auto, um zwischen den drei Highlights-Clustern zu wechseln. Zuerst das Kurviertel mit dem Kasino, dann die Altstadt-Thermen und am Ende die Fahrt hinauf zum Alten Schloss. So sparen Sie Energie für die ausgiebigen Spaziergänge in den Parks und Museen.",
         "hu": "Használja az autót a város három fő negyede közötti váltáshoz. Kezdjen a kaszinó környékén, majd irány az óvárosi termálfürdők világa, végül autózzon fel a Hohenbaden várba a kilátásért. Így megspórolja az energiát a múzeumi és parkbéli sétákhoz.",
         "ro": "Folosiți mașina pentru a schimba rapid între cele trei zone principale. Începeți cu zona cazinoului, continuați cu băile din orașul vechi și finalizați cu o urcare la Castelul Hohenbaden pentru panoramă. Astfel, vă păstrați energia pentru plimbările lungi în parcuri și muzee.",
-        "en": "Use the car to hop between the three main clusters of highlights. Start in the casino district, move to the old town thermal baths, and finally drive up to Hohenbaden Castle for the views. This saves your energy for extensive strolls in the parks and museums."
+        "en": "Use the car to hop between the three main clusters of highlights. Start in the casino district, move to the old town thermal baths, and finally drive up to Hohenbaden Castle for the views. This saves your energy for extensive strolls in the parks and museums.",
+        "tr": "Aracı kullanarak üç ana cazibe merkezi arasında atlayın. Kumarhane bölgesinde başlayın, eski şehir termallerine geçin ve manzaralar için Hohenbaden Kalesi'ne sürün. Bu, parklar ve müzelerde uzun yürüyüşler için enerjinizi korur."
       },
       "gastro_picks": {
         "de": [
@@ -896,6 +952,11 @@
           "Parking garages are well-signposted.",
           "Part of the old town is a pedestrian zone.",
           "Use navigation for the drive up to the castle."
+        ],
+        "tr": [
+          "Otopark garajları iyi işaretlenmiş.",
+          "Eski şehrin bir bölümü yaya bölgesidir.",
+          "Kaleye çıkışta navigasyon kullanın."
         ]
       }
     },
@@ -912,7 +973,8 @@
             "de": "Trinkhalle",
             "hu": "Trinkhalle",
             "ro": "Trinkhalle",
-            "en": "Trinkhalle"
+            "en": "Trinkhalle",
+            "tr": "Trinkhalle"
           },
           "coords": [
             8.24,
@@ -927,7 +989,8 @@
             "de": "Buslinie 201 vom Bahnhof ins Zentrum.",
             "hu": "A 201-es busz hozza be a pályaudvartól a központba.",
             "ro": "Linia de autobuz 201 vă aduce de la gară în centru.",
-            "en": "Bus line 201 takes you from the station to the center."
+            "en": "Bus line 201 takes you from the station to the center.",
+            "tr": "201 numaralı otobüs sizi istasyondan merkeze götürür."
           }
         },
         {
@@ -935,7 +998,8 @@
             "de": "Kurhaus Baden-Baden",
             "hu": "Kurhaus",
             "ro": "Kurhaus",
-            "en": "Kurhaus"
+            "en": "Kurhaus",
+            "tr": "Kurhaus"
           },
           "coords": [
             8.242,
@@ -950,7 +1014,8 @@
             "de": "Haltestelle 'Leopoldsplatz' ist der Knotenpunkt.",
             "hu": "A 'Leopoldsplatz' megálló a központi átszállóhely.",
             "ro": "Stația 'Leopoldsplatz' este nodul principal de transport.",
-            "en": "Stop 'Leopoldsplatz' is the main transit hub."
+            "en": "Stop 'Leopoldsplatz' is the main transit hub.",
+            "tr": "‘Leopoldsplatz’ durağı ana ulaşım merkezi."
           }
         },
         {
@@ -958,7 +1023,8 @@
             "de": "Friedrichsbad",
             "hu": "Friedrichsbad",
             "ro": "Friedrichsbad",
-            "en": "Friedrichsbad"
+            "en": "Friedrichsbad",
+            "tr": "Friedrichsbad"
           },
           "coords": [
             8.244,
@@ -973,7 +1039,8 @@
             "de": "Kurzer Fußweg vom Zentrum.",
             "hu": "Rövid séta a központtól.",
             "ro": "Scurtă plimbare din centru.",
-            "en": "Short walk from the center."
+            "en": "Short walk from the center.",
+            "tr": "Merkeze kısa bir yürüyüş mesafesinde."
           }
         },
         {
@@ -981,7 +1048,8 @@
             "de": "Lichtentaler Allee",
             "hu": "Lichtentaler Allee",
             "ro": "Aleea Lichtentaler",
-            "en": "Lichtentaler Allee"
+            "en": "Lichtentaler Allee",
+            "tr": "Lichtentaler Allee"
           },
           "coords": [
             8.243,
@@ -996,7 +1064,8 @@
             "de": "Mit dem Bus direkt zum Museum Burda.",
             "hu": "Busszal közvetlenül a Burda Múzeumhoz mehet.",
             "ro": "Cu autobuzul direct la Muzeul Burda.",
-            "en": "Take the bus directly to the Burda Museum."
+            "en": "Take the bus directly to the Burda Museum.",
+            "tr": "Otobüsle doğrudan Burda Müzesi'ne gidin."
           }
         },
         {
@@ -1004,7 +1073,8 @@
             "de": "Museum Frieder Burda",
             "hu": "Burda Múzeum",
             "ro": "Muzeul Burda",
-            "en": "Burda Museum"
+            "en": "Burda Museum",
+            "tr": "Burda Museum"
           },
           "coords": [
             8.244,
@@ -1019,7 +1089,8 @@
             "de": "Eingebettet in den Park.",
             "hu": "A parkba ágyazott múzeum.",
             "ro": "Muzeu integrat în parc.",
-            "en": "Museum nestled in the park."
+            "en": "Museum nestled in the park.",
+            "tr": "Park içinde konumlanan müze."
           }
         },
         {
@@ -1027,7 +1098,8 @@
             "de": "Festspielhaus",
             "hu": "Festspielhaus",
             "ro": "Festspielhaus",
-            "en": "Festspielhaus"
+            "en": "Festspielhaus",
+            "tr": "Festspielhaus"
           },
           "coords": [
             8.235,
@@ -1042,7 +1114,8 @@
             "de": "Viele Buslinien halten direkt davor.",
             "hu": "Számos buszjárat megáll közvetlenül előtte.",
             "ro": "Multe linii de autobuz opresc chiar în față.",
-            "en": "Many bus lines stop directly in front."
+            "en": "Many bus lines stop directly in front.",
+            "tr": "Birçok otobüs hattı doğrudan önünde durur."
           }
         }
       ],
@@ -1050,7 +1123,8 @@
         "de": "Baden-Baden hat ein effizientes Bussystem, das den Bahnhof mit dem Zentrum verbindet. Die Linie 201 ist Ihre wichtigste Verbindung zwischen Kurhaus, Lichtentaler Allee und Festspielhaus. So erreichen Sie alle Sehenswürdigkeiten bequem, auch wenn sie etwas weiter auseinander liegen.",
         "hu": "Baden-Baden hatékony buszhálózattal rendelkezik, amely összeköti a vasútállomást a központtal. A 201-es járat a legfontosabb kapocs a Kurhaus, a Lichtentaler Allee és a Festspielhaus között. Így kényelmesen elérheti az összes látnivalót, még a távolabb esőket is.",
         "ro": "Baden-Baden are un sistem de autobuze eficient care conectează gara de centru. Linia 201 este principala legătură între Kurhaus, aleea Lichtentaler și Festspielhaus. Astfel, puteți ajunge confortabil la toate atracțiile, chiar dacă sunt situate la distanță.",
-        "en": "Baden-Baden has an efficient bus network connecting the train station to the center. Line 201 is your key link between the Kurhaus, Lichtentaler Allee, and the Festspielhaus. This allows you to reach all sights comfortably, even those slightly further apart."
+        "en": "Baden-Baden has an efficient bus network connecting the train station to the center. Line 201 is your key link between the Kurhaus, Lichtentaler Allee, and the Festspielhaus. This allows you to reach all sights comfortably, even those slightly further apart.",
+        "tr": "Baden-Baden, tren istasyonunu merkeze bağlayan verimli bir otobüs ağına sahip. 201 hattı Kurhaus, Lichtentaler Allee ve Festspielhaus arasında önemli bağlantınızı sağlar. Bu sayede biraz daha uzak olan tüm görülecek yerlere rahatça ulaşabilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1154,6 +1228,11 @@
           "Buy a day ticket for the bus.",
           "Bus 201 runs every 10 minutes.",
           "Stop announcements are very clear."
+        ],
+        "tr": [
+          "Otobüs için günlük bilet alın.",
+          "201 numaralı otobüs her 10 dakikada bir çalışır.",
+          "Durak anonsları çok net."
         ]
       }
     }

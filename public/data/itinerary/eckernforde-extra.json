@@ -21,7 +21,8 @@
             "de": "Bonbonkocherei",
             "hu": "Bonbon-főzde",
             "ro": "Fabrica de Bomboane",
-            "en": "Candy Factory"
+            "en": "Candy Factory",
+            "tr": "Şeker Fabrikası"
           },
           "coords": [
             9.8385,
@@ -36,7 +37,8 @@
             "de": "Schauen Sie bei der traditionellen Herstellung von Bonbons zu.",
             "hu": "Nézze meg a hagyományos cukorkakészítés folyamatát.",
             "ro": "Urmăriți procesul tradițional de fabricare a bomboanelor.",
-            "en": "Watch the traditional candy-making process live."
+            "en": "Watch the traditional candy-making process live.",
+            "tr": "Geleneksel şeker yapım sürecini canlı izleyin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Sarayı"
           },
           "coords": [
             9.837,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie das Stadtmuseum im historischen Gebäude.",
             "hu": "Látogasson el a történelmi épületben található városi múzeumba.",
             "ro": "Vizitați muzeul orașului în clădirea istorică.",
-            "en": "Visit the city museum located in the historic building."
+            "en": "Visit the city museum located in the historic building.",
+            "tr": "Tarihi binadaki şehir müzesini ziyaret edin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "St. Nicolai Kirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "tr": "Aziz Nikolaus Kilisesi"
           },
           "coords": [
             9.8365,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie den spätgotischen Flügelaltar von Hans Gudewerdt II.",
             "hu": "Csodálja meg Hans Gudewerdt II. késő gótikus szárnyasoltárát.",
             "ro": "Admirați altarul triptic târziu-gotic de Hans Gudewerdt II.",
-            "en": "Admire the late Gothic winged altar by Hans Gudewerdt II."
+            "en": "Admire the late Gothic winged altar by Hans Gudewerdt II.",
+            "tr": "Hans Gudewerdt II tarafından yapılmış geç gotik kanatlı sunak eserine hayran kalın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Eckernförder Hafen",
             "hu": "Eckernfördei kikötő",
             "ro": "Portul Eckernförde",
-            "en": "Eckernförde Harbor"
+            "en": "Eckernförde Harbor",
+            "tr": "Eckernförde Limanı"
           },
           "coords": [
             9.839,
@@ -105,7 +112,8 @@
             "de": "Kaufen Sie frischen Fisch direkt vom Kutter.",
             "hu": "Vásároljon friss halat közvetlenül a halászhajókról.",
             "ro": "Cumpărați pește proaspăt direct de pe pescadoare.",
-            "en": "Buy fresh fish directly from the fishing cutters."
+            "en": "Buy fresh fish directly from the fishing cutters.",
+            "tr": "Tuzak teknelerinden taze balık satın alın."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Rundsilo",
             "hu": "Kerek siló",
             "ro": "Silozul Rotund",
-            "en": "Round Silo"
+            "en": "Round Silo",
+            "tr": "Yuvarlak Silо"
           },
           "coords": [
             9.8395,
@@ -128,7 +137,8 @@
             "de": "Ein markantes Wahrzeichen der Stadt am Hafen.",
             "hu": "A város jellegzetes ipari műemléke a kikötőben.",
             "ro": "Un punct de reper industrial distinctiv în port.",
-            "en": "A distinctive industrial landmark in the harbor."
+            "en": "A distinctive industrial landmark in the harbor.",
+            "tr": "Limanın ayırt edici endüstriyel simgesi."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Alte Fischräucherei",
             "hu": "Régi halfüstölő",
             "ro": "Vechea Afumătoare de Pește",
-            "en": "Old Fish Smokehouse"
+            "en": "Old Fish Smokehouse",
+            "tr": "Eski Balık Fümehanesi"
           },
           "coords": [
             9.834,
@@ -151,7 +162,8 @@
             "de": "Erfahren Sie alles über die Tradition des Räucherns.",
             "hu": "Ismerje meg a halfüstölés hagyományait ebben az ipartörténeti múzeumban.",
             "ro": "Aflați totul despre tradiția afumării peștelui.",
-            "en": "Learn all about the tradition of fish smoking."
+            "en": "Learn all about the tradition of fish smoking.",
+            "tr": "Balık tütsüleme geleneği hakkında her şeyi öğrenin."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Ostsee Info-Center",
             "hu": "Balti-tenger Információs Központ",
             "ro": "Centrul de Informare Marea Baltică",
-            "en": "Baltic Sea Info Center"
+            "en": "Baltic Sea Info Center",
+            "tr": "Baltık Denizi Bilgi Merkezi"
           },
           "coords": [
             9.842,
@@ -174,7 +187,8 @@
             "de": "Entdecken Sie die Unterwasserwelt der Ostsee im Tastbecken.",
             "hu": "Fedezze fel a Balti-tenger víz alatti világát a simogató medencénél.",
             "ro": "Descoperiți lumea subacvatică a Mării Baltice.",
-            "en": "Discover the underwater world of the Baltic Sea."
+            "en": "Discover the underwater world of the Baltic Sea.",
+            "tr": "Baltık Denizi'nin su altı dünyasını keşfedin."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Eckernförder Strand",
             "hu": "Eckernfördei strand",
             "ro": "Plaja Eckernförde",
-            "en": "Eckernförde Beach"
+            "en": "Eckernförde Beach",
+            "tr": "Eckernförde Plajı"
           },
           "coords": [
             9.845,
@@ -197,7 +212,8 @@
             "de": "Entspannen Sie im Strandkorb und genießen Sie den Meerblick.",
             "hu": "Pihenjen egy tipikus északi strandkosárban és élvezze a kilátást.",
             "ro": "Relaxați-vă într-un coș de plajă și bucurați-vă de priveliște.",
-            "en": "Relax in a beach chair and enjoy the sea view."
+            "en": "Relax in a beach chair and enjoy the sea view.",
+            "tr": "Bir plaj sandalyesinde rahatlayın ve deniz manzarasının tadını çıkarın."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Ihr Tag in Eckernförde beginnt süß in der Bonbonkocherei, bevor Sie in die Geschichte des Alten Rathauses und der St. Nicolai Kirche eintauchen. Mittags genießen Sie das maritime Flair am Hafen. Der Nachmittag steht im Zeichen der Fischereitradition und der Meeresbiologie, gekrönt von einem entspannten Ausklang am feinen Sandstrand der Ostsee.",
         "hu": "A napot édesen kezdjük a Bonbon-főzdében, majd Eckernförde történelmi központját fedezzük fel a városháza és a templom érintésével. A kikötői ebéd után a halfüstölés hagyományaival ismerkedünk, majd a tenger élővilágát kutatjuk az Info-Centerben. A napot a homokos parton, a hullámok morajlását hallgatva zárjuk.",
         "ro": "Ziua începe cu o notă dulce la fabrica de bomboane, urmată de o incursiune în istoria locală la Primăria Veche și Biserica Sf. Nicolae. Prânzul în port oferă o atmosferă maritimă autentică. După-amiaza este dedicată tradițiilor pescărești și biologiei marine, terminând cu o relaxare binemeritată pe plaja fină a Mării Baltice.",
-        "en": "Start your day with a sweet visit to the candy factory before diving into history at the Old Town Hall and St. Nicholas Church. Enjoy a maritime lunch at the harbor. The afternoon explores fishing traditions and marine life at the Info Center, finishing with a relaxing evening on the soft sandy beach of the Baltic Sea."
+        "en": "Start your day with a sweet visit to the candy factory before diving into history at the Old Town Hall and St. Nicholas Church. Enjoy a maritime lunch at the harbor. The afternoon explores fishing traditions and marine life at the Info Center, finishing with a relaxing evening on the soft sandy beach of the Baltic Sea.",
+        "tr": "Gününüze önce şeker fabrikasını ziyaret ederek başlayın, ardından Eski Belediye Sarayı ve Aziz Nikolaus Kilisesi'nde tarihe dalın. Limanda denizcilik temalı bir öğle yemeğinin tadını çıkarın. Öğleden sonra balıkçılık geleneklerini ve Bilgi Merkezi'nde deniz yaşamını keşfedin, akşamı Baltık Denizi'nin yumuşak kumlu plajında dinlenerek bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -365,6 +382,12 @@
           "Look for the blue tiles in the ground marking the 'Culture Path'.",
           "Buying fresh fish directly from the boats is a must-do experience!",
           "Harbor parking fills up quickly; consider using the P+R lots."
+        ],
+        "tr": [
+          "Şehir merkezi büyük ölçüde yayalaştırılmıştır ve yürüyerek keşfetmek için idealdir.",
+          "Yerdeki mavi karolarla işaretlenmiş 'Kültür Yolu'nu arayın.",
+          "Teknelerden doğrudan taze balık satın almak mutlaka yapılması gereken bir deneyimdir!",
+          "Liman otoparkı çabuk dolar; P+R alanlarını kullanmayı düşünün."
         ]
       }
     },
@@ -381,7 +404,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Sarayı"
           },
           "coords": [
             9.837,
@@ -396,7 +420,8 @@
             "de": "Starten Sie im Herzen der Stadt.",
             "hu": "Kezdje a túrát a város szívében.",
             "ro": "Începeți turul în inima orașului.",
-            "en": "Start your tour in the heart of the city."
+            "en": "Start your tour in the heart of the city.",
+            "tr": "Turunuza şehrin kalbinden başlayın."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "St. Nicolai Kirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "tr": "Aziz Nikolaus Kilisesi"
           },
           "coords": [
             9.8365,
@@ -419,7 +445,8 @@
             "de": "Kurzer Stopp an der historischen Backsteinkirche.",
             "hu": "Rövid megálló a történelmi tégla-templomnál.",
             "ro": "Scurt popas la biserica istorică din cărămidă.",
-            "en": "Short stop at the historic brick church."
+            "en": "Short stop at the historic brick church.",
+            "tr": "Tarihi tuğla kilisede kısa bir durak."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Alte Fischräucherei",
             "hu": "Régi halfüstölő",
             "ro": "Vechea Afumătoare de Pește",
-            "en": "Old Fish Smokehouse"
+            "en": "Old Fish Smokehouse",
+            "tr": "Eski Balık Fümehanesi"
           },
           "coords": [
             9.834,
@@ -442,7 +470,8 @@
             "de": "Erfahren Sie mehr über das Räucherhandwerk.",
             "hu": "Ismerje meg a füstölőmesterek munkáját.",
             "ro": "Aflați mai multe despre meșteșugul afumării.",
-            "en": "Learn more about the craft of fish smoking."
+            "en": "Learn more about the craft of fish smoking.",
+            "tr": "Balık tütsüleme zanaatı hakkında daha fazla bilgi edinin."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Eckernförder Hafen",
             "hu": "Eckernfördei kikötő",
             "ro": "Portul Eckernförde",
-            "en": "Eckernförde Harbor"
+            "en": "Eckernförde Harbor",
+            "tr": "Eckernförde Limanı"
           },
           "coords": [
             9.839,
@@ -465,7 +495,8 @@
             "de": "Radeln Sie entlang der Kaianlage.",
             "hu": "Tekerjen végig a rakpart mentén.",
             "ro": "Pedalați de-a lungul cheiului.",
-            "en": "Cycle along the quay walls."
+            "en": "Cycle along the quay walls.",
+            "tr": "Rıhtım duvarları boyunca bisiklete binin."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Rundsilo",
             "hu": "Kerek siló",
             "ro": "Silozul Rotund",
-            "en": "Round Silo"
+            "en": "Round Silo",
+            "tr": "Yuvarlak Silо"
           },
           "coords": [
             9.8395,
@@ -488,7 +520,8 @@
             "de": "Markanter Fotostopp am Hafen.",
             "hu": "Jellegzetes fotópont a kikötőben.",
             "ro": "Punct de reper ideal pentru fotografii.",
-            "en": "Striking photo stop at the harbor."
+            "en": "Striking photo stop at the harbor.",
+            "tr": "Limanın çarpıcı fotoğraf durağı."
           }
         },
         {
@@ -496,7 +529,8 @@
             "de": "Bonbonkocherei",
             "hu": "Bonbon-főzde",
             "ro": "Fabrica de Bomboane",
-            "en": "Candy Factory"
+            "en": "Candy Factory",
+            "tr": "Şeker Fabrikası"
           },
           "coords": [
             9.8385,
@@ -511,7 +545,8 @@
             "de": "Süße Pause in der Altstadt.",
             "hu": "Édes pihenő az óvárosban.",
             "ro": "Pauză dulce în centrul vechi.",
-            "en": "Sweet break in the old town."
+            "en": "Sweet break in the old town.",
+            "tr": "Eski kentte tatlı bir mola."
           }
         },
         {
@@ -519,7 +554,8 @@
             "de": "Ostsee Info-Center",
             "hu": "Balti-tenger Információs Központ",
             "ro": "Centrul de Informare Marea Baltică",
-            "en": "Baltic Sea Info Center"
+            "en": "Baltic Sea Info Center",
+            "tr": "Baltık Denizi Bilgi Merkezi"
           },
           "coords": [
             9.842,
@@ -534,7 +570,8 @@
             "de": "Direkt am Strandradweg gelegen.",
             "hu": "Közvetlenül a tengerparti kerékpárút mellett.",
             "ro": "Situat chiar pe pista de biciclete de pe plajă.",
-            "en": "Located directly on the beach cycle path."
+            "en": "Located directly on the beach cycle path.",
+            "tr": "Doğrudan plaj bisiklet yolu üzerinde yer alır."
           }
         },
         {
@@ -542,7 +579,8 @@
             "de": "Eckernförder Strand",
             "hu": "Eckernfördei strand",
             "ro": "Plaja Eckernförde",
-            "en": "Eckernförde Beach"
+            "en": "Eckernförde Beach",
+            "tr": "Eckernförde Plajı"
           },
           "coords": [
             9.845,
@@ -557,7 +595,8 @@
             "de": "Genießen Sie die weite Bucht vom Rad aus.",
             "hu": "Élvezze az öböl látványát a nyeregből.",
             "ro": "Bucurați-vă de golf de pe bicicletă.",
-            "en": "Enjoy the wide bay views from your bike."
+            "en": "Enjoy the wide bay views from your bike.",
+            "tr": "Bisikletinizle geniş koy manzaralarının tadını çıkarın."
           }
         }
       ],
@@ -565,7 +604,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Eckernförde besonders effizient. Vom historischen Zentrum geht es zur Fischräucherei und weiter zum belebten Hafen. Nach einer süßen Stärkung radeln Sie entlang der Ostseeküste zum Info-Center und genießen schließlich die kilometerlange Strandpromenade.",
         "hu": "Kerékpárral különösen hatékonyan fedezheti fel a várost. A történelmi központból a halfüstölőhöz, majd a nyüzsgő kikötőhöz vezet az út. Egy édes kitérő után a part menti kerékpárúton jutunk el az Info-Centerhez, végül pedig a kilométereken át húzódó strand sétányát élvezzük.",
         "ro": "Explorați Eckernförde eficient cu bicicleta. Din centrul istoric mergeți spre afumătoare și apoi spre portul plin de viață. După o gustare dulce, pedalați de-a lungul coastei spre Centrul de Informare și bucurați-vă de promenada lungă a plajei.",
-        "en": "Explore Eckernförde efficiently by bike. Ride from the historic center to the fish smokehouse and on to the lively harbor. After a sweet treat, cycle along the Baltic coast to the Info Center and finally enjoy the miles of beach promenade."
+        "en": "Explore Eckernförde efficiently by bike. Ride from the historic center to the fish smokehouse and on to the lively harbor. After a sweet treat, cycle along the Baltic coast to the Info Center and finally enjoy the miles of beach promenade.",
+        "tr": "Eckernförde'yi verimli bir şekilde bisikletle keşfedin. Tarihi merkezden balık fümehanesine ve hareketli limana gidin. Tatlı bir moladan sonra Baltık kıyısı boyunca Bilgi Merkezi'ne pedal çevirin ve sonunda uzun plaj gezinti yolunun tadını çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -689,6 +729,12 @@
           "Take advantage of the well-maintained paths along the promenade.",
           "Bikes must be pushed in the pedestrian zone.",
           "Make sure to have enough water for longer rides around the Noor."
+        ],
+        "tr": [
+          "Baltık Kıyısı Bisiklet Yolu doğrudan şehrin içinden geçer.",
+          "Kordon boyunca iyi bakımlı yollardan yararlanın.",
+          "Yaya bölgesinde bisikletler itmek zorundadır.",
+          "Noor çevresindeki daha uzun turlar için yeterli su bulundurduğunuzdan emin olun."
         ]
       }
     },
@@ -705,7 +751,8 @@
             "de": "Bonbonkocherei",
             "hu": "Bonbon-főzde",
             "ro": "Fabrica de Bomboane",
-            "en": "Candy Factory"
+            "en": "Candy Factory",
+            "tr": "Şeker Fabrikası"
           },
           "coords": [
             9.8385,
@@ -720,7 +767,8 @@
             "de": "Parken Sie im Parkhaus am Hafen (Cluster A).",
             "hu": "Parkoljon a kikötői parkolóházban (A zóna).",
             "ro": "Parcați în parcarea etajată din port (Cluster A).",
-            "en": "Park at the harbor parking garage (Cluster A)."
+            "en": "Park at the harbor parking garage (Cluster A).",
+            "tr": "Liman otopark garajına (Küme A) park edin."
           }
         },
         {
@@ -728,7 +776,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Sarayı"
           },
           "coords": [
             9.837,
@@ -743,7 +792,8 @@
             "de": "Fußläufig vom Parkplatz erreichbar.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking lot."
+            "en": "Accessible on foot from the parking lot.",
+            "tr": "Otoparktan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -751,7 +801,8 @@
             "de": "St. Nicolai Kirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "tr": "Aziz Nikolaus Kilisesi"
           },
           "coords": [
             9.8365,
@@ -766,7 +817,8 @@
             "de": "Teil des Altstadt-Spaziergangs.",
             "hu": "Az óvárosi séta része.",
             "ro": "Parte din plimbarea în centrul vechi.",
-            "en": "Part of the old town walking tour."
+            "en": "Part of the old town walking tour.",
+            "tr": "Eski kent yürüyüş turunun bir parçası."
           }
         },
         {
@@ -774,7 +826,8 @@
             "de": "Eckernförder Hafen",
             "hu": "Eckernfördei kikötő",
             "ro": "Portul Eckernförde",
-            "en": "Eckernförde Harbor"
+            "en": "Eckernförde Harbor",
+            "tr": "Eckernförde Limanı"
           },
           "coords": [
             9.839,
@@ -789,7 +842,8 @@
             "de": "Maritimer Abschluss von Cluster A.",
             "hu": "Az A zóna tengerparti záróakkordja.",
             "ro": "Finalul maritim al Clusterului A.",
-            "en": "The maritime finish for Cluster A."
+            "en": "The maritime finish for Cluster A.",
+            "tr": "Küme A için denizcilik bitiş noktası."
           }
         },
         {
@@ -797,7 +851,8 @@
             "de": "Alte Fischräucherei",
             "hu": "Régi halfüstölő",
             "ro": "Vechea Afumătoare de Pește",
-            "en": "Old Fish Smokehouse"
+            "en": "Old Fish Smokehouse",
+            "tr": "Eski Balık Fümehanesi"
           },
           "coords": [
             9.834,
@@ -812,7 +867,8 @@
             "de": "Fahrt zu Cluster B im Süden der Stadt.",
             "hu": "Autózás a B zónába, a város déli részére.",
             "ro": "Mergeți spre Clusterul B din sudul orașului.",
-            "en": "Drive to Cluster B in the southern part of town."
+            "en": "Drive to Cluster B in the southern part of town.",
+            "tr": "Şehrin güney kısmındaki Küme B'ye araçla gidin."
           }
         },
         {
@@ -820,7 +876,8 @@
             "de": "Rundsilo",
             "hu": "Kerek siló",
             "ro": "Silozul Rotund",
-            "en": "Round Silo"
+            "en": "Round Silo",
+            "tr": "Yuvarlak Silо"
           },
           "coords": [
             9.8395,
@@ -835,7 +892,8 @@
             "de": "Kurzer Fotostopp auf dem Weg zum Strand.",
             "hu": "Rövid fotómegálló a strand felé menet.",
             "ro": "Scurt popas foto în drum spre plajă.",
-            "en": "Short photo stop on the way to the beach."
+            "en": "Short photo stop on the way to the beach.",
+            "tr": "Plaja giderken kısa fotoğraf molası."
           }
         },
         {
@@ -843,7 +901,8 @@
             "de": "Ostsee Info-Center",
             "hu": "Balti-tenger Információs Központ",
             "ro": "Centrul de Informare Marea Baltică",
-            "en": "Baltic Sea Info Center"
+            "en": "Baltic Sea Info Center",
+            "tr": "Baltık Denizi Bilgi Merkezi"
           },
           "coords": [
             9.842,
@@ -858,7 +917,8 @@
             "de": "Parken am Strandparkplatz (Cluster C).",
             "hu": "Parkolás a strand melletti parkolóban (C zóna).",
             "ro": "Parcați în parcarea de la plajă (Cluster C).",
-            "en": "Park at the beach parking lot (Cluster C)."
+            "en": "Park at the beach parking lot (Cluster C).",
+            "tr": "Plaj otoparkına (Küme C) park edin."
           }
         },
         {
@@ -866,7 +926,8 @@
             "de": "Eckernförder Strand",
             "hu": "Eckernfördei strand",
             "ro": "Plaja Eckernförde",
-            "en": "Eckernförde Beach"
+            "en": "Eckernförde Beach",
+            "tr": "Eckernförde Plajı"
           },
           "coords": [
             9.845,
@@ -881,7 +942,8 @@
             "de": "Fußläufig vom Info-Center erreichbar.",
             "hu": "Gyalogosan elérhető az Info-Centertől.",
             "ro": "Accesibil pe jos de la Centrul de Informare.",
-            "en": "Accessible on foot from the Info Center."
+            "en": "Accessible on foot from the Info Center.",
+            "tr": "Bilgi Merkezi'nden yürüyerek ulaşılabilir."
           }
         }
       ],
@@ -889,7 +951,8 @@
         "de": "Mit dem Auto nutzen Sie ein effizientes Cluster-System. Sie parken zentral für die Altstadt und den Hafen, fahren dann für die Fischräucherei ein Stück weiter südlich und beenden den Tag entspannt am großen Strandparkplatz, von wo aus Sie das Info-Center und die Ostsee genießen.",
         "hu": "Autóval a hatékony zóna-rendszert használjuk. Központi helyen parkolunk az óváros és a kikötő felfedezéséhez, majd délebbre hajtunk a halfüstölőhöz. A napot a tágas strandparkolóban zárjuk, ahonnan kényelmesen elérhető az Info-Center és a Balti-tenger partja.",
         "ro": "Cu mașina folosiți un sistem eficient de clustere. Parcați central pentru centrul vechi și port, apoi mergeți spre sud pentru afumătoare și terminați ziua în parcarea mare de la plajă, de unde puteți vizita Centrul de Informare și Marea Baltică.",
-        "en": "By car, use an efficient cluster system. Park centrally for the old town and harbor, then drive a bit further south for the fish smokehouse, and finish the day at the large beach parking lot, perfectly located for the Info Center and the Baltic Sea."
+        "en": "By car, use an efficient cluster system. Park centrally for the old town and harbor, then drive a bit further south for the fish smokehouse, and finish the day at the large beach parking lot, perfectly located for the Info Center and the Baltic Sea.",
+        "tr": "Arabayla, verimli bir küme sistemi kullanın. Eski kent ve liman için merkezi park edin, ardından balık fümehanesi için biraz daha güneye gidin ve günü Bilgi Merkezi ve Baltık Denizi için ideal konumdaki büyük plaj otoparkında bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -997,6 +1060,12 @@
           "The 'Noortor' parking garage often has spaces available even in summer.",
           "Pay attention to the one-way street system in the old town.",
           "Parking at South Beach is often cheaper than in the direct center."
+        ],
+        "tr": [
+          "Liman ödemeleri için park uygulamasını kullanın.",
+          "'Noortor' otopark garajı yazın bile genellikle yer bulur.",
+          "Eski kentte tek yönlü cadde sistemine dikkat edin.",
+          "Güney Plaj'da park merkezdekinden genellikle daha ucuzdur."
         ]
       }
     },
@@ -1013,7 +1082,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Sarayı"
           },
           "coords": [
             9.837,
@@ -1028,7 +1098,8 @@
             "de": "Vom Bahnhof (ZOB) in 5 Minuten erreichbar.",
             "hu": "A vasútállomástól (ZOB) 5 perc alatt elérhető.",
             "ro": "Accesibil în 5 minute de la gară (ZOB).",
-            "en": "Reach it in 5 minutes from the train station (ZOB)."
+            "en": "Reach it in 5 minutes from the train station (ZOB).",
+            "tr": "Tren istasyonundan (ZOB) 5 dakikada ulaşılır."
           }
         },
         {
@@ -1036,7 +1107,8 @@
             "de": "St. Nicolai Kirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "tr": "Aziz Nikolaus Kilisesi"
           },
           "coords": [
             9.8365,
@@ -1051,7 +1123,8 @@
             "de": "Kurzer Fußweg durch die Fußgängerzone.",
             "hu": "Rövid séta a sétálóutcán keresztül.",
             "ro": "Scurtă plimbare prin zona pietonală.",
-            "en": "Short walk through the pedestrian zone."
+            "en": "Short walk through the pedestrian zone.",
+            "tr": "Yaya bölgesinden kısa bir yürüyüş."
           }
         },
         {
@@ -1059,7 +1132,8 @@
             "de": "Bonbonkocherei",
             "hu": "Bonbon-főzde",
             "ro": "Fabrica de Bomboane",
-            "en": "Candy Factory"
+            "en": "Candy Factory",
+            "tr": "Şeker Fabrikası"
           },
           "coords": [
             9.8385,
@@ -1074,7 +1148,8 @@
             "de": "Fußläufig im Stadtzentrum.",
             "hu": "Gyalogosan a városközpontban.",
             "ro": "Accesibil pe jos în centrul orașului.",
-            "en": "Accessible on foot in the city center."
+            "en": "Accessible on foot in the city center.",
+            "tr": "Şehir merkezinde yürüyerek ulaşılabilir."
           }
         },
         {
@@ -1082,7 +1157,8 @@
             "de": "Eckernförder Hafen",
             "hu": "Eckernfördei kikötő",
             "ro": "Portul Eckernförde",
-            "en": "Eckernförde Harbor"
+            "en": "Eckernförde Harbor",
+            "tr": "Eckernförde Limanı"
           },
           "coords": [
             9.839,
@@ -1097,7 +1173,8 @@
             "de": "Zentraler Punkt für alle Buslinien am Hafen.",
             "hu": "Minden kikötői buszjárat központi megállója.",
             "ro": "Punct central pentru toate liniile de autobuz din port.",
-            "en": "Central point for all harbor bus lines."
+            "en": "Central point for all harbor bus lines.",
+            "tr": "Tüm liman otobüs hatlarının merkezi noktası."
           }
         },
         {
@@ -1105,7 +1182,8 @@
             "de": "Rundsilo",
             "hu": "Kerek siló",
             "ro": "Silozul Rotund",
-            "en": "Round Silo"
+            "en": "Round Silo",
+            "tr": "Yuvarlak Silо"
           },
           "coords": [
             9.8395,
@@ -1120,7 +1198,8 @@
             "de": "Direkt neben der Hafenbrücke.",
             "hu": "Közvetlenül a kikötői híd mellett.",
             "ro": "Chiar lângă podul din port.",
-            "en": "Right next to the harbor bridge."
+            "en": "Right next to the harbor bridge.",
+            "tr": "Liman köprüsünün hemen yanında."
           }
         },
         {
@@ -1128,7 +1207,8 @@
             "de": "Alte Fischräucherei",
             "hu": "Régi halfüstölő",
             "ro": "Vechea Afumătoare de Pește",
-            "en": "Old Fish Smokehouse"
+            "en": "Old Fish Smokehouse",
+            "tr": "Eski Balık Fümehanesi"
           },
           "coords": [
             9.834,
@@ -1143,7 +1223,8 @@
             "de": "Busfahrt Richtung Süden (Linie 1/2).",
             "hu": "Buszozás dél felé (1-es vagy 2-es járat).",
             "ro": "Călătorie cu autobuzul spre sud (Liniile 1/2).",
-            "en": "Bus ride heading south (Line 1/2)."
+            "en": "Bus ride heading south (Line 1/2).",
+            "tr": "Güneye giden otobüs yolculuğu (Hat 1/2)."
           }
         },
         {
@@ -1151,7 +1232,8 @@
             "de": "Ostsee Info-Center",
             "hu": "Balti-tenger Információs Központ",
             "ro": "Centrul de Informare Marea Baltică",
-            "en": "Baltic Sea Info Center"
+            "en": "Baltic Sea Info Center",
+            "tr": "Baltık Denizi Bilgi Merkezi"
           },
           "coords": [
             9.842,
@@ -1166,7 +1248,8 @@
             "de": "Bus bis Haltestelle 'Stadthalle/Strand'.",
             "hu": "Busszal a 'Stadthalle/Strand' megállóig.",
             "ro": "Autobuz până la stația 'Stadthalle/Strand'.",
-            "en": "Bus to 'Stadthalle/Strand' stop."
+            "en": "Bus to 'Stadthalle/Strand' stop.",
+            "tr": "'Stadthalle/Strand' durağına giden otobüs."
           }
         },
         {
@@ -1174,7 +1257,8 @@
             "de": "Eckernförder Strand",
             "hu": "Eckernfördei strand",
             "ro": "Plaja Eckernförde",
-            "en": "Eckernförde Beach"
+            "en": "Eckernförde Beach",
+            "tr": "Eckernförde Plajı"
           },
           "coords": [
             9.845,
@@ -1189,7 +1273,8 @@
             "de": "Vom Info-Center direkt auf den Sand.",
             "hu": "Az Info-Centertől egyenesen a homokos partra.",
             "ro": "De la Centrul de Informare direct pe nisip.",
-            "en": "From the Info Center straight onto the sand."
+            "en": "From the Info Center straight onto the sand.",
+            "tr": "Bilgi Merkezi'nden düz olarak kuma çıkın."
           }
         }
       ],
@@ -1197,7 +1282,8 @@
         "de": "Eckernförde lässt sich wunderbar mit dem Stadtbus entdecken. Nach der Erkundung der Altstadt zu Fuß bringt Sie der Bus bequem zu den etwas entfernteren Sehenswürdigkeiten wie der Fischräucherei und dem Info-Center am Strand. Perfekt für einen entspannten Tag ohne Parkplatzsuche.",
         "hu": "Eckernförde remekül felfedezhető a helyi buszjáratokkal. Az óváros gyalogos bejárása után a busz kényelmesen elviszi a távolabbi látnivalókhoz, mint a halfüstölő vagy a strandnál található Info-Center. Tökéletes választás egy nyugodt naphoz parkolási gondok nélkül.",
         "ro": "Eckernförde poate fi descoperit minunat cu autobuzul local. După explorarea centrului vechi pe jos, autobuzul vă duce confortabil la atracțiile mai îndepărtate, cum ar fi afumătoarea și Centrul de Informare de pe plajă. Perfect pentru o zi relaxată fără grija parcării.",
-        "en": "Eckernförde is easy to discover with the local city bus. After exploring the old town on foot, the bus takes you comfortably to the more distant sights like the fish smokehouse and the Info Center at the beach. Perfect for a relaxed day without searching for parking."
+        "en": "Eckernförde is easy to discover with the local city bus. After exploring the old town on foot, the bus takes you comfortably to the more distant sights like the fish smokehouse and the Info Center at the beach. Perfect for a relaxed day without searching for parking.",
+        "tr": "Eckernförde'yi yerel şehir otobüsü ile keşfetmek kolaydır. Eski kenti yürüyerek gezdikten sonra otobüs sizi balık fümehanesi ve plajdaki Bilgi Merkezi gibi daha uzak görülecek yerlere rahatça götürür. Park yeri aramadan rahat bir gün için idealdir."
       },
       "gastro_picks": {
         "de": [
@@ -1305,6 +1391,12 @@
           "The ZOB at the train station is the central transport hub.",
           "Buses usually run every 30 minutes.",
           "The schedule is limited on Sundays."
+        ],
+        "tr": [
+          "Ziyaretçi kartı (Kurkarte) genellikle otobüs bileti olarak da geçer.",
+          "Tren istasyonundaki ZOB merkezi ulaşım noktasıdır.",
+          "Otobüsler genellikle her 30 dakikada bir kalkar.",
+          "Pazar günleri seferler sınırlıdır."
         ]
       }
     }

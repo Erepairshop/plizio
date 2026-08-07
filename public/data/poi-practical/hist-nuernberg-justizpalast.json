@@ -3,55 +3,64 @@
     "de": "Fürther Str. 110, 90429 Nürnberg",
     "hu": "Fürther Str. 110, 90429 Nürnberg",
     "ro": "Fürther Str. 110, 90429 Nürnberg",
-    "en": "Fürther Str. 110, 90429 Nürnberg"
+    "en": "Fürther Str. 110, 90429 Nürnberg",
+    "tr": "Fürther Str. 110, 90429 Nürnberg"
   },
   "openingHours": {
     "de": "Mi-Mo 09:00-18:00, Di geschlossen",
     "hu": "Sze-H 09:00-18:00, kedden zárva",
     "ro": "Mi-Lu 09:00-18:00, marți închis",
-    "en": "Wed-Mon 09:00-18:00, Tue closed"
+    "en": "Wed-Mon 09:00-18:00, Tue closed",
+    "tr": "Çarş.-Pzt 09:00-18:00, Salı kapalı"
   },
   "entranceFee": {
     "de": "6,00 € Erwachsene, 1,50 € ermäßigt",
     "hu": "6,00 € felnőtt, 1,50 € kedvezményes",
     "ro": "6,00 € adulți, 1,50 € redus",
-    "en": "€ 6.00 adults, € 1.50 reduced"
+    "en": "€ 6.00 adults, € 1.50 reduced",
+    "tr": "€ 6,00 yetişkin, € 1,50 indirimli"
   },
   "website": "https://museen.nuernberg.de/memorium-nuerberger-prozesse",
   "publicTransport": {
     "de": "U-Bahn Linie U1 bis Station Bärenschanze",
     "hu": "U1-es metró Bärenschanze állomásig",
     "ro": "Metrou linia U1 până la stația Bärenschanze",
-    "en": "Subway line U1 to Bärenschanze station"
+    "en": "Subway line U1 to Bärenschanze station",
+    "tr": "Bärenschanze istasyonuna metro hattı U1"
   },
   "parking": {
     "de": "Begrenzte kostenpflichtige Parkplätze in den umliegenden Straßen; Parkhaus Fürther Straße.",
     "hu": "Korlátozott számú fizetős parkoló a környező utcákban; Fürther Straße parkolóház.",
     "ro": "Locuri de parcare cu plată limitate în străzile adiacente; parcarea Fürther Straße.",
-    "en": "Limited paid parking in the surrounding streets; Fürther Straße parking garage."
+    "en": "Limited paid parking in the surrounding streets; Fürther Straße parking garage.",
+    "tr": "Çevre sokaklarda sınırlı ücretli park; Fürther Straße otopark garajı."
   },
   "accessibility": {
     "de": "Barrierefreier Zugang zum Memorium und Saal 600 über Aufzug möglich.",
     "hu": "Akadálymentes bejutás a Memoriumhoz és a 600-as terembe lifttel lehetséges.",
     "ro": "Acces fără bariere la Memorium și Sala 600 posibil prin lift.",
-    "en": "Barrier-free access to the Memorium and Courtroom 600 via elevator."
+    "en": "Barrier-free access to the Memorium and Courtroom 600 via elevator.",
+    "tr": "Memorium ve Duruşma Salonu 600'e asansörle engelsiz erişim."
   },
   "photoRules": {
     "de": "Fotografieren ohne Blitz für private Zwecke im Ausstellungsbereich gestattet.",
     "hu": "Magáncélú fotózás vaku nélkül megengedett a kiállítás területén.",
     "ro": "Fotografiatul fără bliț în scop privat este permis în zona expoziției.",
-    "en": "Photography without flash for private purposes allowed in the exhibition area."
+    "en": "Photography without flash for private purposes allowed in the exhibition area.",
+    "tr": "Sergi alanında flaşsız özel fotoğrafçılık izinli."
   },
   "bestTimeToVisit": {
     "de": "Wochentage vormittags; Saal 600 ist bei laufendem Gerichtsbetrieb nicht zugänglich.",
     "hu": "Hétköznap délelőtt; a 600-as terem bírósági tárgyalások idején nem látogatható.",
     "ro": "În timpul săptămânii dimineața; Sala 600 nu este accesibilă în timpul ședințelor de judecată.",
-    "en": "Weekday mornings; Courtroom 600 is not accessible during active court proceedings."
+    "en": "Weekday mornings; Courtroom 600 is not accessible during active court proceedings.",
+    "tr": "Hafta içi sabahları; Duruşma Salonu 600 aktif mahkeme duruşmaları sırasında erişilebilir değil."
   },
   "audioGuide": {
     "de": "Ja (DE, EN, FR, IT, ES, RU, PL, CN)",
     "hu": "Igen (DE, EN, FR, IT, ES, RU, PL, CN)",
     "ro": "Da (DE, EN, FR, IT, ES, RU, PL, CN)",
-    "en": "Yes (DE, EN, FR, IT, ES, RU, PL, CN)"
+    "en": "Yes (DE, EN, FR, IT, ES, RU, PL, CN)",
+    "tr": "Evet (DE, EN, FR, IT, ES, RU, PL, CN)"
   }
 }

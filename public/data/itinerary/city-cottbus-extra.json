@@ -21,7 +21,8 @@
             "de": "Altmarkt",
             "hu": "Altmarkt (Ópiac tér)",
             "ro": "Piața Veche",
-            "en": "Old Market Square"
+            "en": "Old Market Square",
+            "tr": "Eski Pazar Meydanı"
           },
           "coords": [
             14.3331,
@@ -36,7 +37,8 @@
             "de": "Bester Startpunkt für einen Kaffee.",
             "hu": "Kezdje itt a napot egy jó kávéval.",
             "ro": "Cel mai bun punct de plecare pentru o cafea.",
-            "en": "Best starting point for a coffee."
+            "en": "Best starting point for a coffee.",
+            "tr": "Kahve için en iyi başlangıç noktası."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Oberkirche St. Nikolai",
             "hu": "Szt. Miklós felsőtemplom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "tr": "Aziz Nikolaos Kilisesi"
           },
           "coords": [
             14.3348,
@@ -59,7 +62,8 @@
             "de": "Vom Turm hat man eine tolle Aussicht.",
             "hu": "A toronyból remek a kilátás.",
             "ro": "Turnul oferă o vedere excelentă.",
-            "en": "The tower offers a great view."
+            "en": "The tower offers a great view.",
+            "tr": "Kule harika bir manzara sunar."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Spremberger Turm",
             "hu": "Sprembergi torony",
             "ro": "Turnul Spremberger",
-            "en": "Spremberg Tower"
+            "en": "Spremberg Tower",
+            "tr": "Spremberg Kulesi"
           },
           "coords": [
             14.3324,
@@ -82,7 +87,8 @@
             "de": "Das Wahrzeichen der Stadt.",
             "hu": "A város jelképe, érdemes megmászni.",
             "ro": "Simbolul orașului, merită urcat.",
-            "en": "The landmark of the city."
+            "en": "The landmark of the city.",
+            "tr": "Şehrin simgesi."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Staatstheater Cottbus",
             "hu": "Cottbusi Állami Színház",
             "ro": "Teatrul de Stat",
-            "en": "State Theatre Cottbus"
+            "en": "State Theatre Cottbus",
+            "tr": "Cottbus Eyalet Tiyatrosu"
           },
           "coords": [
             14.3268,
@@ -105,7 +112,8 @@
             "de": "Ein Jugendstil-Juwel.",
             "hu": "A szecesszió egyik gyöngyszeme.",
             "ro": "O bijuterie în stil Jugendstil.",
-            "en": "An Art Nouveau jewel."
+            "en": "An Art Nouveau jewel.",
+            "tr": "Bir Art Nouveau mücevheri."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen am Altmarkt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch at Old Market"
+            "en": "Lunch at Old Market",
+            "tr": "Eski Pazar'da öğle yemeği"
           },
           "coords": [
             14.3335,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie lokale Plinsen.",
             "hu": "Kóstolja meg a helyi lepényt (Plinsen).",
             "ro": "Încercați clătitele locale (Plinsen).",
-            "en": "Try the local pancakes (Plinsen)."
+            "en": "Try the local pancakes (Plinsen).",
+            "tr": "Yerel krep Plinsen'i deneyin."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Fürst-Pückler-Park Branitz",
             "hu": "Branitzi kastélypark",
             "ro": "Parcul Branitz",
-            "en": "Branitz Park"
+            "en": "Branitz Park",
+            "tr": "Branitz Parkı"
           },
           "coords": [
             14.3645,
@@ -151,7 +162,8 @@
             "de": "Besuchen Sie die Wasserpyramide.",
             "hu": "Nézze meg a vízben álló piramist.",
             "ro": "Vizitați piramida de apă.",
-            "en": "Visit the water pyramid."
+            "en": "Visit the water pyramid.",
+            "tr": "Su piramidini ziyaret edin."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Schloss Branitz",
             "hu": "Branitzi kastély",
             "ro": "Castelul Branitz",
-            "en": "Branitz Castle"
+            "en": "Branitz Castle",
+            "tr": "Branitz Sarayı"
           },
           "coords": [
             14.3628,
@@ -174,7 +187,8 @@
             "de": "Pücklers Erbe hautnah erleben.",
             "hu": "Pückler herceg hagyatéka.",
             "ro": "Moștenirea prințului Pückler.",
-            "en": "Experience Pückler's legacy."
+            "en": "Experience Pückler's legacy.",
+            "tr": "Pückler'ın mirasını deneyimleyin."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Herzen von Cottbus auf dem Altmarkt, umgeben von barocken Bürgerhäusern. Nach einem Blick in die Oberkirche führt Sie der Weg zum Spremberger Turm, dem markanten Stadttor. Der Vormittag endet am prachtvollen Staatstheater im Jugendstil. Nach einer Stärkung spazieren Sie durch das Grüne zum Branitzer Park, wo die einzigartigen Erdpyramiden des Fürsten Pückler auf Sie warten. Ein Besuch im Schloss rundet den Tag ab.",
         "hu": "Kezdje a napot Cottbus történelmi szívében, az Altmarkton, barokk polgárházak gyűrűjében. A gótikus felsőtemplom után irány a Sprembergi torony, amely a város kapujaként tornyosul. A délelőttöt a szecessziós Állami Színház lenyűgöző épületénél zárjuk. Ebéd után egy hosszabb séta következik a Branitzi parkba, ahol Pückler herceg világhírű földpiramisait és elegáns kastélyát fedezheti fel az esti búcsú előtt.",
         "ro": "Începeți ziua în inima istorică a orașului Cottbus, la Altmarkt, înconjurat de case baroce. După o vizită la Biserica Superioară, drumul vă duce la Turnul Spremberger, poarta emblematică a orașului. Dimineața se încheie la magnificul Teatru de Stat în stil Art Nouveau. După prânz, o plimbare prin zone verzi vă conduce la Parcul Branitz, unde vă așteaptă piramidele de pământ unice ale prințului Pückler și castelul său elegant.",
-        "en": "Start your day in the historical heart of Cottbus at Altmarkt, surrounded by Baroque townhouses. After visiting St. Nicholas Church, head to the Spremberg Tower, the city's iconic gate. The morning ends at the magnificent Art Nouveau State Theatre. After a lunch break, take a walk through the greenery to Branitz Park, where Prince Pückler's unique earth pyramids and his elegant castle await you for a relaxing afternoon."
+        "en": "Start your day in the historical heart of Cottbus at Altmarkt, surrounded by Baroque townhouses. After visiting St. Nicholas Church, head to the Spremberg Tower, the city's iconic gate. The morning ends at the magnificent Art Nouveau State Theatre. After a lunch break, take a walk through the greenery to Branitz Park, where Prince Pückler's unique earth pyramids and his elegant castle await you for a relaxing afternoon.",
+        "tr": "Gününüzü Cottbus'un tarihi kalbi Altmarkt'ta Barok evlerle çevrili olarak başlayın. Aziz Nikolaos Kilisesi'ni ziyaret ettikten sonra şehrin simgesi kapısı olan Spremberg Kulesi'ne yürüyün. Sabah, muhteşem Art Nouveau Eyalet Tiyatrosu'nda sona erer. Öğle molasından sonra yeşilliklerde yürüyüş yapın; Prens Pückler'ın benzersiz toprak piramitleri ve zarif sarayı sizi rahatlatıcı bir öğleden sonra için bekliyor."
       },
       "gastro_picks": {
         "de": [
@@ -318,6 +333,10 @@
         "en": [
           "Cottbus is very flat and ideal for exploring on foot.",
           "Branitz Park is extensive, so plan enough time for a stroll."
+        ],
+        "tr": [
+          "Cottbus çok düzdür ve yürüyerek keşfetmek için idealdir.",
+          "Branitz Parkı geniştir, bu yüzden bir gezinti için yeterli zaman planlayın."
         ]
       }
     },
@@ -334,7 +353,8 @@
             "de": "Altmarkt",
             "hu": "Altmarkt",
             "ro": "Altmarkt",
-            "en": "Altmarkt"
+            "en": "Altmarkt",
+            "tr": "Altmarkt"
           },
           "coords": [
             14.3331,
@@ -349,7 +369,8 @@
             "de": "Fahrradparkplätze direkt am Platz.",
             "hu": "Kerékpártárolók közvetlenül a téren.",
             "ro": "Parcare pentru biciclete chiar în piață.",
-            "en": "Bicycle parking right on the square."
+            "en": "Bicycle parking right on the square.",
+            "tr": "Meydanın hemen üzerinde bisiklet park yeri."
           }
         },
         {
@@ -357,7 +378,8 @@
             "de": "Flugplatzmuseum",
             "hu": "Repülőtéri Múzeum",
             "ro": "Muzeul Aviației",
-            "en": "Airfield Museum"
+            "en": "Airfield Museum",
+            "tr": "Havaalanı Müzesi"
           },
           "coords": [
             14.2931,
@@ -372,7 +394,8 @@
             "de": "Viele historische Flugzeuge im Freien.",
             "hu": "Sok történelmi repülőgép a szabadban.",
             "ro": "Multe avioane istorice în aer liber.",
-            "en": "Many historic aircraft outdoors."
+            "en": "Many historic aircraft outdoors.",
+            "tr": "Birçok tarihi uçak açık alanda."
           }
         },
         {
@@ -380,7 +403,8 @@
             "de": "Spremberger Turm",
             "hu": "Sprembergi torony",
             "ro": "Turnul Spremberger",
-            "en": "Spremberg Tower"
+            "en": "Spremberg Tower",
+            "tr": "Spremberg Kulesi"
           },
           "coords": [
             14.3324,
@@ -395,7 +419,8 @@
             "de": "Kurzer Stopp für das Panorama.",
             "hu": "Gyors megálló a panorámáért.",
             "ro": "Scurtă oprire pentru panoramă.",
-            "en": "Short stop for the panorama."
+            "en": "Short stop for the panorama.",
+            "tr": "Panorama için kısa mola."
           }
         },
         {
@@ -403,7 +428,8 @@
             "de": "Staatstheater",
             "hu": "Állami Színház",
             "ro": "Teatrul de Stat",
-            "en": "State Theatre"
+            "en": "State Theatre",
+            "tr": "Eyalet Tiyatrosu"
           },
           "coords": [
             14.3268,
@@ -418,7 +444,8 @@
             "de": "Beeindruckende Fassade.",
             "hu": "Lenyűgöző homlokzat.",
             "ro": "Fațadă impresionantă.",
-            "en": "Impressive facade."
+            "en": "Impressive facade.",
+            "tr": "Etkileyici cephe."
           }
         },
         {
@@ -426,7 +453,8 @@
             "de": "Gartenrestaurant",
             "hu": "Kerti étterem",
             "ro": "Restaurant de grădină",
-            "en": "Garden Restaurant"
+            "en": "Garden Restaurant",
+            "tr": "Bahçe Restoranı"
           },
           "coords": [
             14.335,
@@ -441,7 +469,8 @@
             "de": "Radler-freundlich.",
             "hu": "Biciklisbarát vendéglő.",
             "ro": "Prietenos cu bicicliștii.",
-            "en": "Cyclist-friendly spot."
+            "en": "Cyclist-friendly spot.",
+            "tr": "Bisikletçiler için uygun mekan."
           }
         },
         {
@@ -449,7 +478,8 @@
             "de": "Tierpark Cottbus",
             "hu": "Cottbusi Állatpark",
             "ro": "Grădina Zoologică",
-            "en": "Cottbus Zoo"
+            "en": "Cottbus Zoo",
+            "tr": "Cottbus Hayvanat Bahçesi"
           },
           "coords": [
             14.3551,
@@ -464,7 +494,8 @@
             "de": "Schön gelegen an der Spree.",
             "hu": "Szép fekvés a Spree partján.",
             "ro": "Situată frumos pe malul râului Spree.",
-            "en": "Beautifully located by the Spree."
+            "en": "Beautifully located by the Spree.",
+            "tr": "Spree kenarında güzel konumlanmış."
           }
         },
         {
@@ -472,7 +503,8 @@
             "de": "Schloss Branitz",
             "hu": "Branitzi kastély",
             "ro": "Castelul Branitz",
-            "en": "Branitz Castle"
+            "en": "Branitz Castle",
+            "tr": "Branitz Sarayı"
           },
           "coords": [
             14.3628,
@@ -487,7 +519,8 @@
             "de": "Fahrräder müssen im Park geschoben werden.",
             "hu": "A parkban tolni kell a kerékpárt.",
             "ro": "Bicicletele trebuie împinse în parc.",
-            "en": "Bicycles must be pushed in the park."
+            "en": "Bicycles must be pushed in the park.",
+            "tr": "Parkta bisikletlerle yürümek zorunludur."
           }
         },
         {
@@ -495,7 +528,8 @@
             "de": "Landpyramide",
             "hu": "Földpiramis",
             "ro": "Piramida de pământ",
-            "en": "Land Pyramid"
+            "en": "Land Pyramid",
+            "tr": "Toprak Piramidi"
           },
           "coords": [
             14.368,
@@ -510,7 +544,8 @@
             "de": "Einmaliger Anblick.",
             "hu": "Egyedülálló látvány.",
             "ro": "O vedere unică.",
-            "en": "A unique sight."
+            "en": "A unique sight.",
+            "tr": "Eşsiz bir görünüm."
           }
         }
       ],
@@ -518,7 +553,8 @@
         "de": "Mit dem Rad erkunden Sie sowohl das Zentrum als auch die Außenbezirke. Nach dem Altmarkt fahren Sie zum Flugplatzmuseum im Nordwesten. Zurück in der Stadt passieren Sie den Turm und das Theater, bevor Sie entlang der Spree zum Tierpark und in den weitläufigen Branitzer Park radeln. Perfekt für alle, die gerne Strecke machen.",
         "hu": "Kerékpárral a központot és a külső részeket is bejárhatja. Az Altmarkt után északnyugatnak indulunk a Repülőtéri Múzeumhoz. Visszatérve a városba érintjük a tornyot és a színházat, majd a Spree mentén tekerve érjük el az Állatparkot és a hatalmas Branitzi parkot. Ideális választás a mozgás kedvelőinek.",
         "ro": "Cu bicicleta explorați atât centrul, cât și zonele periferice. După Altmarkt, pedalați spre Muzeul Aviației în nord-vest. Revenind în oraș, treceți pe lângă turn și teatru înainte de a pedala de-a lungul râului Spree spre Grădina Zoologică și parcul vast Branitz. Perfect pentru cei cărora le place să parcurgă distanțe mai mari.",
-        "en": "By bike, you can explore both the center and the outskirts. After Altmarkt, ride to the Airfield Museum in the northwest. Back in town, pass the tower and the theatre before cycling along the Spree to the Zoo and the extensive Branitz Park. Perfect for those who like to cover some distance."
+        "en": "By bike, you can explore both the center and the outskirts. After Altmarkt, ride to the Airfield Museum in the northwest. Back in town, pass the tower and the theatre before cycling along the Spree to the Zoo and the extensive Branitz Park. Perfect for those who like to cover some distance.",
+        "tr": "Bisikletle hem merkezi hem çevreyi keşfedebilirsiniz. Altmarkt'tan sonra kuzeybatıda Havaalanı Müzesi'ne gidin. Şehre döndüğünüzde kule ve tiyatronun yanından geçin, ardından Spree boyunca Hayvanat Bahçesi'ne ve geniş Branitz Parkı'na pedallayın. Biraz mesafe kat etmeyi sevenler için mükemmel."
       },
       "gastro_picks": {
         "de": [
@@ -618,6 +654,10 @@
         "en": [
           "Use the Spree cycle path for a relaxed ride.",
           "In some parts of the parks, you must walk your bike."
+        ],
+        "tr": [
+          "Rahat bir sürüş için Spree bisiklet yolunu kullanın.",
+          "Parkların bazı bölümlerinde bisikleti yürütmek zorunludur."
         ]
       }
     },
@@ -634,7 +674,8 @@
             "de": "Altmarkt (Cluster A)",
             "hu": "Altmarkt (A-klaszter)",
             "ro": "Altmarkt (Cluster A)",
-            "en": "Altmarkt (Cluster A)"
+            "en": "Altmarkt (Cluster A)",
+            "tr": "Altmarkt (Küme A)"
           },
           "coords": [
             14.3331,
@@ -649,7 +690,8 @@
             "de": "Parkhaus am Schloßkirchplatz nutzen.",
             "hu": "Parkoljon a Schloßkirchplatz közeli házban.",
             "ro": "Folosiți parcarea de la Schloßkirchplatz.",
-            "en": "Use the parking garage at Schloßkirchplatz."
+            "en": "Use the parking garage at Schloßkirchplatz.",
+            "tr": "Schloßkirchplatz'taki otopark garajını kullanın."
           }
         },
         {
@@ -657,7 +699,8 @@
             "de": "Spremberger Turm (Cluster A)",
             "hu": "Sprembergi torony",
             "ro": "Turnul Spremberger",
-            "en": "Spremberg Tower"
+            "en": "Spremberg Tower",
+            "tr": "Spremberg Kulesi"
           },
           "coords": [
             14.3324,
@@ -672,7 +715,8 @@
             "de": "Zu Fuß vom Altmarkt erreichbar.",
             "hu": "Gyalogosan elérhető az Altmarkttól.",
             "ro": "Accesibil pe jos de la Altmarkt.",
-            "en": "Accessible on foot from Altmarkt."
+            "en": "Accessible on foot from Altmarkt.",
+            "tr": "Altmarkt'tan yaya ulaşılabilir."
           }
         },
         {
@@ -680,7 +724,8 @@
             "de": "Staatstheater (Cluster A)",
             "hu": "Állami Színház",
             "ro": "Teatrul de Stat",
-            "en": "State Theatre"
+            "en": "State Theatre",
+            "tr": "Eyalet Tiyatrosu"
           },
           "coords": [
             14.3268,
@@ -695,7 +740,8 @@
             "de": "Kurzer Spaziergang durch den Park.",
             "hu": "Rövid séta a parkon át.",
             "ro": "Scurtă plimbare prin parc.",
-            "en": "Short walk through the park."
+            "en": "Short walk through the park.",
+            "tr": "Parktan kısa yürüyüş."
           }
         },
         {
@@ -703,7 +749,8 @@
             "de": "Flugplatzmuseum (Cluster B)",
             "hu": "Repülőtéri Múzeum (B-klaszter)",
             "ro": "Muzeul Aviației (Cluster B)",
-            "en": "Airfield Museum (Cluster B)"
+            "en": "Airfield Museum (Cluster B)",
+            "tr": "Havaalanı Müzesi (Küme B)"
           },
           "coords": [
             14.2931,
@@ -718,7 +765,8 @@
             "de": "Großer Parkplatz vor Ort.",
             "hu": "Nagy parkoló a helyszínen.",
             "ro": "Parcare mare la fața locului.",
-            "en": "Large parking lot on-site."
+            "en": "Large parking lot on-site.",
+            "tr": "Sitede geniş otopark."
           }
         },
         {
@@ -726,7 +774,8 @@
             "de": "Mittagessen (Cluster B)",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "tr": "Öğle Yemeği"
           },
           "coords": [
             14.305,
@@ -741,7 +790,8 @@
             "de": "Hiesige Gastronomie entdecken.",
             "hu": "Fedezze fel a környék ízeit.",
             "ro": "Descoperiți aromele locale.",
-            "en": "Discover local flavors."
+            "en": "Discover local flavors.",
+            "tr": "Yerel lezzetleri keşfedin."
           }
         },
         {
@@ -749,7 +799,8 @@
             "de": "Schloss Branitz (Cluster C)",
             "hu": "Branitzi kastély (C-klaszter)",
             "ro": "Castelul Branitz (Cluster C)",
-            "en": "Branitz Castle (Cluster C)"
+            "en": "Branitz Castle (Cluster C)",
+            "tr": "Branitz Sarayı (Küme C)"
           },
           "coords": [
             14.3628,
@@ -764,7 +815,8 @@
             "de": "Parkplatz an der Kastanienallee.",
             "hu": "Parkoló a Kastanienallee mentén.",
             "ro": "Parcare pe Kastanienallee.",
-            "en": "Parking at Kastanienallee."
+            "en": "Parking at Kastanienallee.",
+            "tr": "Kastanienallee'de park yeri."
           }
         },
         {
@@ -772,7 +824,8 @@
             "de": "Tierpark Cottbus (Cluster C)",
             "hu": "Cottbusi Állatpark",
             "ro": "Grădina Zoologică",
-            "en": "Cottbus Zoo"
+            "en": "Cottbus Zoo",
+            "tr": "Cottbus Hayvanat Bahçesi"
           },
           "coords": [
             14.3551,
@@ -787,7 +840,8 @@
             "de": "Nur 5 Min Fahrt vom Schloss.",
             "hu": "Csak 5 perc autóval a kastélytól.",
             "ro": "Doar 5 minute cu mașina de la castel.",
-            "en": "Only 5 mins drive from the castle."
+            "en": "Only 5 mins drive from the castle.",
+            "tr": "Saraydan sadece 5 dk sürüş mesafesinde."
           }
         },
         {
@@ -795,7 +849,8 @@
             "de": "Fürst-Pückler-Park (Cluster C)",
             "hu": "Kastélypark",
             "ro": "Parcul Branitz",
-            "en": "Branitz Park"
+            "en": "Branitz Park",
+            "tr": "Branitz Parkı"
           },
           "coords": [
             14.3645,
@@ -810,7 +865,8 @@
             "de": "Kurzer Abendspaziergang.",
             "hu": "Rövid esti séta.",
             "ro": "Scurtă plimbare de seară.",
-            "en": "Short evening stroll."
+            "en": "Short evening stroll.",
+            "tr": "Kısa bir akşam yürüyüşü."
           }
         }
       ],
@@ -818,7 +874,8 @@
         "de": "Mit dem Auto verbinden Sie das historische Zentrum effizient mit den kulturellen Highlights am Stadtrand. Nach einem Vormittag in der Altstadt (Cluster A) fahren Sie zum beeindruckenden Flugplatzmuseum (Cluster B). Den Nachmittag verbringen Sie im weitläufigen Branitz (Cluster C), wo Sie Schloss, Park und Tierpark ohne Zeitdruck erkunden können. Die Parkmöglichkeiten sind an allen Clustern hervorragend.",
         "hu": "Autóval hatékonyan kötheti össze a történelmi belvárost a külvárosi látnivalókkal. Az óvárosi délelőtt (A-klaszter) után irány az északnyugati Repülőtéri Múzeum (B-klaszter). A délutánt a tágas Branitzban (C-klaszter) töltjük, ahol a kastély, a park és az állatpark kényelmesen felfedezhető. A parkolás minden klaszternél megoldott és egyszerű.",
         "ro": "Cu mașina, conectați eficient centrul istoric cu atracțiile culturale de la periferie. După o dimineață în centrul vechi (Cluster A), conduceți spre impresionantul Muzeu al Aviației (Cluster B). Petreceți după-amiaza în zona vastă Branitz (Cluster C), unde puteți explora castelul, parcul și grădina zoologică fără grabă. Facilitățile de parcare sunt excelente la toate clusterele.",
-        "en": "By car, you can efficiently combine the historic center with cultural highlights on the outskirts. After a morning in the old town (Cluster A), drive to the impressive Airfield Museum (Cluster B). Spend the afternoon in the spacious Branitz area (Cluster C), where you can explore the castle, park, and zoo at your own pace. Parking facilities are excellent at all clusters."
+        "en": "By car, you can efficiently combine the historic center with cultural highlights on the outskirts. After a morning in the old town (Cluster A), drive to the impressive Airfield Museum (Cluster B). Spend the afternoon in the spacious Branitz area (Cluster C), where you can explore the castle, park, and zoo at your own pace. Parking facilities are excellent at all clusters.",
+        "tr": "Arabayla, tarihi merkez ile çevrelerindeki kültürel noktaları verimli şekilde birleştirebilirsiniz. Eski şehirde (Küme A) geçirilen bir sabahın ardından etkileyici Havaalanı Müzesi'ne (Küme B) sürün. Öğleden sonrayı geniş Branitz alanında (Küme C) geçirip kale, park ve hayvanat bahçesini kendi temponuzda keşfedin. Tüm kümelerde otopark olanakları mükemmeldir."
       },
       "gastro_picks": {
         "de": [
@@ -918,6 +975,10 @@
         "en": [
           "In the center, it's best to use a parking garage.",
           "The distances between clusters are short (approx. 10-15 mins)."
+        ],
+        "tr": [
+          "Merkezde en iyisi bir otopark kullanmaktır.",
+          "Kümeler arasındaki mesafeler kısadır (yakl. 10–15 dk)."
         ]
       }
     },
@@ -934,7 +995,8 @@
             "de": "Altmarkt (Bezirk A)",
             "hu": "Altmarkt (A-kerület)",
             "ro": "Altmarkt (District A)",
-            "en": "Altmarkt (District A)"
+            "en": "Altmarkt (District A)",
+            "tr": "Altmarkt (Bölge A)"
           },
           "coords": [
             14.3331,
@@ -949,7 +1011,8 @@
             "de": "Zentraler Knotenpunkt für Straßenbahnen.",
             "hu": "A villamoshálózat központi csomópontja.",
             "ro": "Nod central pentru tramvaie.",
-            "en": "Central hub for trams."
+            "en": "Central hub for trams.",
+            "tr": "Tramvayların merkezi aktarma noktası."
           }
         },
         {
@@ -957,7 +1020,8 @@
             "de": "Spremberger Turm (Bezirk A)",
             "hu": "Sprembergi torony",
             "ro": "Turnul Spremberger",
-            "en": "Spremberg Tower"
+            "en": "Spremberg Tower",
+            "tr": "Spremberg Kulesi"
           },
           "coords": [
             14.3324,
@@ -972,7 +1036,8 @@
             "de": "Kurzer Fußweg vom Altmarkt.",
             "hu": "Rövid séta az Altmarkttól.",
             "ro": "Scurtă plimbare de la Altmarkt.",
-            "en": "Short walk from Altmarkt."
+            "en": "Short walk from Altmarkt.",
+            "tr": "Altmarkt'tan kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -980,7 +1045,8 @@
             "de": "Staatstheater (Bezirk A)",
             "hu": "Állami Színház",
             "ro": "Teatrul de Stat",
-            "en": "State Theatre"
+            "en": "State Theatre",
+            "tr": "Devlet Tiyatrosu"
           },
           "coords": [
             14.3268,
@@ -995,7 +1061,8 @@
             "de": "Haltestelle 'Schillerplatz' direkt davor.",
             "hu": "Megálló a Schillerplatznál közvetlenül előtte.",
             "ro": "Stația 'Schillerplatz' chiar în față.",
-            "en": "Stop 'Schillerplatz' right in front."
+            "en": "Stop 'Schillerplatz' right in front.",
+            "tr": "'Schillerplatz' durağı hemen önünde."
           }
         },
         {
@@ -1003,7 +1070,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the center"
+            "en": "Lunch in the center",
+            "tr": "Merkezde öğle yemeği"
           },
           "coords": [
             14.334,
@@ -1018,7 +1086,8 @@
             "de": "Große Auswahl an Lokalen.",
             "hu": "Sok étterem közül választhat.",
             "ro": "O selecție largă de restaurante.",
-            "en": "Large selection of restaurants."
+            "en": "Large selection of restaurants.",
+            "tr": "Geniş restoran seçkisi."
           }
         },
         {
@@ -1026,7 +1095,8 @@
             "de": "Branitzer Park (Bezirk B)",
             "hu": "Branitzi park (B-kerület)",
             "ro": "Parcul Branitz (District B)",
-            "en": "Branitz Park (District B)"
+            "en": "Branitz Park (District B)",
+            "tr": "Branitz Parkı (Bölge B)"
           },
           "coords": [
             14.3645,
@@ -1041,7 +1111,8 @@
             "de": "Buslinie 10 fährt direkt zum Park.",
             "hu": "A 10-es busz közvetlenül a parkhoz visz.",
             "ro": "Linia de autobuz 10 merge direct la parc.",
-            "en": "Bus line 10 goes directly to the park."
+            "en": "Bus line 10 goes directly to the park.",
+            "tr": "10 numaralı otobüs doğrudan parka gider."
           }
         },
         {
@@ -1049,7 +1120,8 @@
             "de": "Schloss Branitz (Bezirk B)",
             "hu": "Branitzi kastély",
             "ro": "Castelul Branitz",
-            "en": "Branitz Castle"
+            "en": "Branitz Castle",
+            "tr": "Branitz Sarayı"
           },
           "coords": [
             14.3628,
@@ -1064,7 +1136,8 @@
             "de": "Historische Räume besichtigen.",
             "hu": "Látogassa meg a történelmi szobákat.",
             "ro": "Vizitați camerele istorice.",
-            "en": "Visit the historical rooms."
+            "en": "Visit the historical rooms.",
+            "tr": "Tarihi odaları gezin."
           }
         },
         {
@@ -1072,7 +1145,8 @@
             "de": "Tierpark (Bezirk B)",
             "hu": "Állatpark",
             "ro": "Grădina Zoologică",
-            "en": "Zoo"
+            "en": "Zoo",
+            "tr": "Hayvanat Bahçesi"
           },
           "coords": [
             14.3551,
@@ -1087,7 +1161,8 @@
             "de": "Abfahrt mit Bus 10 zurück zum Hbf.",
             "hu": "A 10-es busszal vissza a főpályaudvarra.",
             "ro": "Înapoi la gară cu autobuzul 10.",
-            "en": "Back to the main station with bus 10."
+            "en": "Back to the main station with bus 10.",
+            "tr": "Ana istasyona geri dönüş otobüs 10 ile."
           }
         }
       ],
@@ -1095,7 +1170,8 @@
         "de": "Cottbus lässt sich hervorragend mit Tram und Bus entdecken. Der Vormittag gehört dem Zentrum (Bezirk A) mit Altmarkt, Turm und Theater. Nach dem Mittagessen bringt Sie der Bus bequem zum Branitzer Park (Bezirk B). Dort erkunden Sie die Pückler-Pyramiden und das Schloss, bevor Sie vom Tierpark aus wieder den Rückweg antreten. Ein Tag ohne Parkplatzsuche.",
         "hu": "Cottbus kiválóan felfedezhető villamossal és busszal. A délelőtt a belvárosé (A-kerület): Altmarkt, torony és színház. Ebéd után a 10-es busz kényelmesen elviszi a Branitzi parkba (B-kerület). Ott felfedezheti a Pückler-piramisokat és a kastélyt, majd az Állatparktól indulhat vissza. Egy nap parkolóhely-keresés nélkül.",
         "ro": "Cottbus poate fi explorat excelent cu tramvaiul și autobuzul. Dimineața aparține centrului (District A) cu Altmarkt, turnul și teatrul. După prânz, autobuzul vă duce confortabil la Parcul Branitz (District B). Acolo explorați piramidele Pückler și castelul, înainte de a pleca înapoi de la Grădina Zoologică. O zi fără grija parcării.",
-        "en": "Cottbus can be easily explored by tram and bus. The morning is dedicated to the center (District A) with Altmarkt, the tower, and the theatre. After lunch, the bus takes you comfortably to Branitz Park (District B). There, you can explore the Pückler pyramids and the castle before heading back from the Zoo. A day without the stress of finding parking."
+        "en": "Cottbus can be easily explored by tram and bus. The morning is dedicated to the center (District A) with Altmarkt, the tower, and the theatre. After lunch, the bus takes you comfortably to Branitz Park (District B). There, you can explore the Pückler pyramids and the castle before heading back from the Zoo. A day without the stress of finding parking.",
+        "tr": "Cottbus, tramvay ve otobüsle kolayca keşfedilebilir. Sabah Altmarkt, kule ve tiyatronun bulunduğu merkez (Bölge A)'a ayrılmıştır. Öğle yemeğinden sonra otobüs sizi rahatça Branitz Parkı'na (Bölge B) götürür. Orada Pückler piramitlerini ve sarayı keşfedip ardından Hayvanat Bahçesi'nden geri dönebilirsiniz. Park yeri arama stresinden uzak bir gün."
       },
       "gastro_picks": {
         "de": [
@@ -1195,6 +1271,10 @@
         "en": [
           "Buy a day ticket for city transport.",
           "The 'VBB Bus & Bahn' app helps with departure times."
+        ],
+        "tr": [
+          "Kent içi ulaşım için günlük bilet alın.",
+          "'VBB Bus & Bahn' uygulaması kalkış saatlerinde yardımcı olur."
         ]
       }
     }

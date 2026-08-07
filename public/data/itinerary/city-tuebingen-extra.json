@@ -21,7 +21,8 @@
             "de": "Marktplatz Tübingen",
             "hu": "Tübingeni Piactér",
             "ro": "Piața Primăriei din Tübingen",
-            "en": "Tübingen Market Square"
+            "en": "Tübingen Market Square",
+            "tr": "Tübingen Pazar Meydanı"
           },
           "coords": [
             9.0556,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie das astronomische Uhrwerk am Rathaus.",
             "hu": "Nézze meg a városháza csillagászati óráját.",
             "ro": "Admirați ceasul astronomic de pe primărie.",
-            "en": "Admire the astronomical clock on the town hall."
+            "en": "Admire the astronomical clock on the town hall.",
+            "tr": "Belediye binasındaki astronomik saati hayranlıkla izleyin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Rathaus Tübingen",
             "hu": "Városháza",
             "ro": "Primăria Tübingen",
-            "en": "Tübingen Town Hall"
+            "en": "Tübingen Town Hall",
+            "tr": "Tübingen Belediye Binası"
           },
           "coords": [
             9.0555,
@@ -59,7 +62,8 @@
             "de": "Das älteste Gebäude am Platz mit prächtigen Wandmalereien.",
             "hu": "A tér legrégebbi épülete pazar falfestményekkel.",
             "ro": "Cea mai veche clădire din piață, cu picturi murale superbe.",
-            "en": "The oldest building on the square with magnificent murals."
+            "en": "The oldest building on the square with magnificent murals.",
+            "tr": "Karedeki en eski bina, görkemli duvar resimleriyle."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stiftskirche St. Georg",
             "hu": "Szent György-templom",
             "ro": "Biserica Sfântul Gheorghe",
-            "en": "St. George's Collegiate Church"
+            "en": "St. George's Collegiate Church",
+            "tr": "St. George Kolej Kilisesi"
           },
           "coords": [
             9.0568,
@@ -82,7 +87,8 @@
             "de": "Besteigen Sie den Turm für einen Blick über die Altstadt.",
             "hu": "Másszon fel a toronyba az óvárosi kilátásért.",
             "ro": "Urcați în turn pentru o priveliște asupra orașului vechi.",
-            "en": "Climb the tower for a view over the old town."
+            "en": "Climb the tower for a view over the old town.",
+            "tr": "Eski şehir üzerinde bir manzara için kuleye tırmanın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Schloss Hohentübingen",
             "hu": "Hohentübingen kastély",
             "ro": "Castelul Hohentübingen",
-            "en": "Hohentübingen Castle"
+            "en": "Hohentübingen Castle",
+            "tr": "Hohentübingen Kalesi"
           },
           "coords": [
             9.0505,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie das Schlossportal, ein Meisterwerk der Renaissance.",
             "hu": "Nézze meg a várkaput, a reneszánsz mesterművét.",
             "ro": "Vizitați poarta castelului, o capodoperă a Renașterii.",
-            "en": "Visit the castle portal, a Renaissance masterpiece."
+            "en": "Visit the castle portal, a Renaissance masterpiece.",
+            "tr": "Rönesans başyapıtı olan kale portalını ziyaret edin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Museum im Schloss Hohentübingen",
             "hu": "Vármúzeum",
             "ro": "Muzeul Castelului",
-            "en": "Museum of the University of Tübingen"
+            "en": "Museum of the University of Tübingen",
+            "tr": "Tübingen Üniversitesi Müzesi"
           },
           "coords": [
             9.0506,
@@ -128,7 +137,8 @@
             "de": "Hier lagern die ältesten Kunstwerke der Menschheit.",
             "hu": "Itt találhatók az emberiség legrégebbi műalkotásai.",
             "ro": "Aici se află cele mai vechi opere de artă ale omenirii.",
-            "en": "The world's oldest works of art are kept here."
+            "en": "The world's oldest works of art are kept here.",
+            "tr": "Dünyanın en eski sanat eserleri burada saklanmaktadır."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Neckarfront",
             "hu": "Neckar-part",
             "ro": "Faleza râului Neckar",
-            "en": "Neckarfront"
+            "en": "Neckarfront",
+            "tr": "Neckarfront"
           },
           "coords": [
             9.0565,
@@ -151,7 +162,8 @@
             "de": "Das klassische Fotomotiv mit den bunten Häusern am Fluss.",
             "hu": "Klasszikus fotótéma a színes folyóparti házakkal.",
             "ro": "Motivul fotografic clasic cu casele colorate de pe râu.",
-            "en": "The classic photo motif with colorful houses by the river."
+            "en": "The classic photo motif with colorful houses by the river.",
+            "tr": "Nehir kenarındaki renkli evlerle klasik fotoğraf motifi."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Hölderlinturm",
             "hu": "Hölderlin-torony",
             "ro": "Turnul Hölderlin",
-            "en": "Hölderlin's Tower"
+            "en": "Hölderlin's Tower",
+            "tr": "Hölderlin Kulesi"
           },
           "coords": [
             9.0562,
@@ -174,7 +187,8 @@
             "de": "Wohnort des Dichters Friedrich Hölderlin in seinen späten Jahren.",
             "hu": "Friedrich Hölderlin költő lakhelye késői éveiben.",
             "ro": "Locuința poetului Friedrich Hölderlin în ultimii săi ani.",
-            "en": "Home of the poet Friedrich Hölderlin in his later years."
+            "en": "Home of the poet Friedrich Hölderlin in his later years.",
+            "tr": "Şair Friedrich Hölderlin’in son yıllarda yaşadığı ev."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Alter Botanischer Garten",
             "hu": "Régi Botanikus Kert",
             "ro": "Grădina Botanică Veche",
-            "en": "Old Botanical Garden"
+            "en": "Old Botanical Garden",
+            "tr": "Eski Botanik Bahçe"
           },
           "coords": [
             9.0585,
@@ -197,7 +212,8 @@
             "de": "Ein grüner Rückzugsort direkt im Stadtzentrum.",
             "hu": "Zöld menedék közvetlenül a városközpontban.",
             "ro": "O oază de liniște chiar în centrul orașului.",
-            "en": "A green retreat right in the city center."
+            "en": "A green retreat right in the city center.",
+            "tr": "Şehir merkezinde yeşil bir kaçış yeri."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem historischen Marktplatz mit seinem kunstvollen Rathaus. Nach einem Besuch der Stiftskirche steigen Sie hinauf zum Schloss Hohentübingen, das nicht nur Geschichte, sondern auch faszinierende archäologische Funde bietet. Der Nachmittag gehört der berühmten Neckarfront und dem Hölderlinturm, bevor Sie den Tag entspannt im Alten Botanischen Garten ausklingen lassen.",
         "hu": "Kezdje a napot a történelmi piactéren a díszes városházával. A Szent György-templom után sétáljon fel a Hohentübingen várba, amely nemcsak történelmet, hanem lenyűgöző régészeti leleteket is rejt. A délutánt töltse a híres Neckar-parton és a Hölderlin-toronynál, majd zárja a napot pihentető sétával a Régi Botanikus Kertben.",
         "ro": "Începeți ziua în piața istorică cu primăria sa decorată. După o vizită la biserică, urcați la castelul Hohentübingen, care oferă istorie și descoperiri arheologice fascinante. După-amiaza aparține celebrei faleze Neckar și turnului Hölderlin, înainte de a încheia ziua relaxat în Grădina Botanică Veche.",
-        "en": "Start your day at the historical market square with its ornate town hall. After visiting the collegiate church, walk up to Hohentübingen Castle, which offers history and fascinating archaeological finds. Spend the afternoon at the famous Neckarfront and Hölderlin's Tower, before ending the day with a relaxing stroll in the Old Botanical Garden."
+        "en": "Start your day at the historical market square with its ornate town hall. After visiting the collegiate church, walk up to Hohentübingen Castle, which offers history and fascinating archaeological finds. Spend the afternoon at the famous Neckarfront and Hölderlin's Tower, before ending the day with a relaxing stroll in the Old Botanical Garden.",
+        "tr": "Gününüzü, süslü belediye binasının bulunduğu tarihi pazar meydanında başlatın. Kolej kilisesini ziyaret ettikten sonra, tarih ve ilgi çekici arkeolojik buluntular sunan Hohentübingen Kalesi’ne yürüyün. Öğleden sonranızı ünlü Neckarfront ve Hölderlin Kulesi’nde geçirin, günü Eski Botanik Bahçe’de rahat bir gezintiyle sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -345,6 +362,11 @@
           "Tübingen is quite hilly, so wear comfortable walking shoes.",
           "The old town is mostly car-free and perfect for wandering.",
           "A punting boat trip (Stocherkahn) is a top highlight in summer."
+        ],
+        "tr": [
+          "Tübingen oldukça tepelidir, bu yüzden rahat yürüyüş ayakkabıları giyin.",
+          "Eski şehir çoğunlukla araçsızdır ve dolaşmak için mükemmeldir.",
+          "Yazın bir Stocherkahn (sazlıkteki) gezisi en popüler deneyimlerden biridir."
         ]
       }
     },
@@ -361,7 +383,8 @@
             "de": "Neckarfront",
             "hu": "Neckar-part",
             "ro": "Faleza Neckar",
-            "en": "Neckarfront"
+            "en": "Neckarfront",
+            "tr": "Neckarfront"
           },
           "coords": [
             9.0565,
@@ -376,7 +399,8 @@
             "de": "Starten Sie Ihre Tour entlang der Eberhardsbrücke.",
             "hu": "Kezdje a túrát az Eberhards-híd mentén.",
             "ro": "Începeți turul de-a lungul podului Eberhardsbrücke.",
-            "en": "Start your tour along the Eberhards Bridge."
+            "en": "Start your tour along the Eberhards Bridge.",
+            "tr": "Turunuza Eberhards Köprüsü boyunca başlayın."
           }
         },
         {
@@ -384,7 +408,8 @@
             "de": "Alter Botanischer Garten",
             "hu": "Régi Botanikus Kert",
             "ro": "Grădina Botanică Veche",
-            "en": "Old Botanical Garden"
+            "en": "Old Botanical Garden",
+            "tr": "Eski Botanik Bahçe"
           },
           "coords": [
             9.0585,
@@ -399,7 +424,8 @@
             "de": "Gute Wege für Radfahrer durch den Park.",
             "hu": "Jó kerékpárutak a parkon keresztül.",
             "ro": "Alei bune pentru bicicliști prin park.",
-            "en": "Good paths for cyclists through the park."
+            "en": "Good paths for cyclists through the park.",
+            "tr": "Parktan geçen bisikletçiler için iyi yollar."
           }
         },
         {
@@ -407,7 +433,8 @@
             "de": "Kloster Bebenhausen",
             "hu": "Bebenhauseni kolostor",
             "ro": "Mănăstirea Bebenhausen",
-            "en": "Bebenhausen Abbey"
+            "en": "Bebenhausen Abbey",
+            "tr": "Bebenhausen Manastırı"
           },
           "coords": [
             9.0592,
@@ -422,7 +449,8 @@
             "de": "Eine idyllische Fahrt durch den Naturpark Schönbuch.",
             "hu": "Idilli tekerés a Schönbuch natúrparkon át.",
             "ro": "O plimbare idilică prin parcul natural Schönbuch.",
-            "en": "An idyllic ride through the Schönbuch Nature Park."
+            "en": "An idyllic ride through the Schönbuch Nature Park.",
+            "tr": "Schönbuch Tabiat Parkı’nda ülkesel, sakin bir sürüş."
           }
         },
         {
@@ -430,7 +458,8 @@
             "de": "Schloss Hohentübingen",
             "hu": "Hohentübingen vár",
             "ro": "Castelul Hohentübingen",
-            "en": "Hohentübingen Castle"
+            "en": "Hohentübingen Castle",
+            "tr": "Hohentübingen Kalesi"
           },
           "coords": [
             9.0505,
@@ -445,7 +474,8 @@
             "de": "Der Anstieg ist steil, aber die Aussicht lohnt sich.",
             "hu": "Meredek az emelkedő, de a kilátás megéri.",
             "ro": "Urcarea este abruptă, dar priveliștea merită.",
-            "en": "The climb is steep, but the view is worth it."
+            "en": "The climb is steep, but the view is worth it.",
+            "tr": "Tırmanış dik, ancak manzara buna değer."
           }
         },
         {
@@ -453,7 +483,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             9.0556,
@@ -468,7 +499,8 @@
             "de": "Schieben Sie Ihr Rad in der Fußgängerzone.",
             "hu": "A gyalogos zónában tolja a kerékpárt.",
             "ro": "Împingeți bicicleta în zona pietonală.",
-            "en": "Push your bike in the pedestrian zone."
+            "en": "Push your bike in the pedestrian zone.",
+            "tr": "Yaya bölgesinde bisikletinizi iterek ilerleyin."
           }
         },
         {
@@ -476,7 +508,8 @@
             "de": "Wilhelmsstift",
             "hu": "Wilhelmsstift",
             "ro": "Wilhelmsstift",
-            "en": "Wilhelmsstift"
+            "en": "Wilhelmsstift",
+            "tr": "Wilhelmsstift"
           },
           "coords": [
             9.056,
@@ -491,7 +524,8 @@
             "de": "Ehemaliges Kloster und bedeutendes Studienhaus.",
             "hu": "Egykori kolostor és jelentős kollégium.",
             "ro": "Fostă mănăstire și importantă casă de studii.",
-            "en": "Former monastery and significant seminary."
+            "en": "Former monastery and significant seminary.",
+            "tr": "Eski manastır ve önemli bir ilahiyat okulu."
           }
         },
         {
@@ -499,7 +533,8 @@
             "de": "Hölderlinturm",
             "hu": "Hölderlin-torony",
             "ro": "Turnul Hölderlin",
-            "en": "Hölderlin's Tower"
+            "en": "Hölderlin's Tower",
+            "tr": "Hölderlin Kulesi"
           },
           "coords": [
             9.0562,
@@ -514,7 +549,8 @@
             "de": "Letzter Stopp am Ufer des Neckars.",
             "hu": "Utolsó állomás a Neckar partján.",
             "ro": "Ultima oprire pe malul râului Neckar.",
-            "en": "Last stop on the banks of the Neckar."
+            "en": "Last stop on the banks of the Neckar.",
+            "tr": "Neckar kıyısındaki son durak."
           }
         }
       ],
@@ -522,7 +558,8 @@
         "de": "Erkunden Sie Tübingen und seine Umgebung mit dem Fahrrad. Von der Neckarfront fahren Sie durch den Schönbuch zum wunderschönen Kloster Bebenhausen. Zurück in der Stadt bewältigen Sie den Anstieg zum Schloss und genießen die historische Atmosphäre der Altstadt auf zwei Rädern.",
         "hu": "Fedezze fel Tübingent és környékét kerékpárral. A Neckar-parttól tekerjen a Schönbuch-erdőn át a gyönyörű bebenhauseni kolostorig. Visszatérve a városba győzze le a várba vezető emelkedőt, és élvezze az óváros hangulatát két keréken.",
         "ro": "Explorați Tübingen și împrejurimile sale cu bicicleta. De la faleza Neckar, pedalați prin Schönbuch până la frumoasa mănăstire Bebenhausen. Reveniți în oraș, urcați panta spre castel și bucurați-vă de atmosfera istorică pe două roți.",
-        "en": "Explore Tübingen and its surroundings by bike. From the Neckarfront, ride through the Schönbuch forest to the beautiful Bebenhausen Abbey. Back in town, tackle the climb to the castle and enjoy the historical atmosphere of the old town on two wheels."
+        "en": "Explore Tübingen and its surroundings by bike. From the Neckarfront, ride through the Schönbuch forest to the beautiful Bebenhausen Abbey. Back in town, tackle the climb to the castle and enjoy the historical atmosphere of the old town on two wheels.",
+        "tr": "Tübingen'i ve çevresini bisikletle keşfedin. Neckarfront'tan başlayıp Schönbuch ormanından güzel Bebenhausen Manastırı'na gidin. Şehre döndüğünüzde kaleye tırmanın ve eski kentin tarihi atmosferinin tadını iki teker üzerinde çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -626,6 +663,11 @@
           "Use the marked cycle paths in the Ammer Valley.",
           "In the old town, cycling is often restricted to walking pace.",
           "A helmet is advised, especially for the descent from the castle."
+        ],
+        "tr": [
+          "Ammer Vadisi'ndeki işaretlenmiş bisiklet yollarını kullanın.",
+          "Eski şehirde bisiklet genellikle yaya hızına sınırlıdır.",
+          "Kask tavsiye edilir, özellikle kaleden iniş için."
         ]
       }
     },
@@ -642,7 +684,8 @@
             "de": "Parkhaus Altstadt-Mitte",
             "hu": "Altstadt-Mitte parkolóház",
             "ro": "Parcare Altstadt-Mitte",
-            "en": "Altstadt-Mitte Parking"
+            "en": "Altstadt-Mitte Parking",
+            "tr": "Altstadt-Mitte Otoparkı"
           },
           "coords": [
             9.0575,
@@ -657,7 +700,8 @@
             "de": "Bester Ausgangspunkt für den Stadtrundgang zu Fuß.",
             "hu": "Legjobb kiindulópont a gyalogos városnézéshez.",
             "ro": "Cel mai bun punct de plecare pentru turul pietonal.",
-            "en": "Best starting point for exploring the city on foot."
+            "en": "Best starting point for exploring the city on foot.",
+            "tr": "Şehri yürüyerek keşfetmek için en iyi başlangıç noktası."
           }
         },
         {
@@ -665,7 +709,8 @@
             "de": "Marktplatz & Rathaus",
             "hu": "Piactér és Városháza",
             "ro": "Piața Primăriei",
-            "en": "Market Square & Town Hall"
+            "en": "Market Square & Town Hall",
+            "tr": "Pazar Yeri ve Belediye Binası"
           },
           "coords": [
             9.0556,
@@ -680,7 +725,8 @@
             "de": "Cluster A: Zu Fuß vom Parkhaus erreichbar.",
             "hu": "A klaszter: Gyalogosan elérhető a parkolóháztól.",
             "ro": "Cluster A: Accesibil pe jos din parcare.",
-            "en": "Cluster A: Within walking distance from the parking."
+            "en": "Cluster A: Within walking distance from the parking.",
+            "tr": "A Kümesi: Otoparktan yürüme mesafesinde."
           }
         },
         {
@@ -688,7 +734,8 @@
             "de": "Stiftskirche St. Georg",
             "hu": "Szent György-templom",
             "ro": "Biserica Sfântul Gheorghe",
-            "en": "St. George's Collegiate Church"
+            "en": "St. George's Collegiate Church",
+            "tr": "Aziz Georg Kolej Kilisesi"
           },
           "coords": [
             9.0568,
@@ -703,7 +750,8 @@
             "de": "Cluster A: Beeindruckende gotische Architektur.",
             "hu": "A klaszter: Lenyűgöző gótikus építészet.",
             "ro": "Cluster A: Arhitectură gotică impresionantă.",
-            "en": "Cluster A: Impressive Gothic architecture."
+            "en": "Cluster A: Impressive Gothic architecture.",
+            "tr": "A Kümesi: Etkileyici Gotik mimari."
           }
         },
         {
@@ -711,7 +759,8 @@
             "de": "Schloss Hohentübingen",
             "hu": "Hohentübingen vár",
             "ro": "Castelul Hohentübingen",
-            "en": "Hohentübingen Castle"
+            "en": "Hohentübingen Castle",
+            "tr": "Hohentübingen Kalesi"
           },
           "coords": [
             9.0505,
@@ -726,7 +775,8 @@
             "de": "Cluster A: Genießen Sie den Panoramablick.",
             "hu": "A klaszter: Élvezze a panorámát.",
             "ro": "Cluster A: Bucurați-vă de panorama orașului.",
-            "en": "Cluster A: Enjoy the panoramic view."
+            "en": "Cluster A: Enjoy the panoramic view.",
+            "tr": "A Kümesi: Panoramik manzaranın keyfini çıkarın."
           }
         },
         {
@@ -734,7 +784,8 @@
             "de": "Neckarfront",
             "hu": "Neckar-part",
             "ro": "Faleza Neckar",
-            "en": "Neckarfront"
+            "en": "Neckarfront",
+            "tr": "Neckarfront"
           },
           "coords": [
             9.0565,
@@ -749,7 +800,8 @@
             "de": "Cluster A: Mittagspause am Wasser.",
             "hu": "A klaszter: Ebédszünet a víznél.",
             "ro": "Cluster A: Pauză de prânz lângă apă.",
-            "en": "Cluster A: Lunch break by the water."
+            "en": "Cluster A: Lunch break by the water.",
+            "tr": "A Kümesi: Suyun kenarında öğle molası."
           }
         },
         {
@@ -757,7 +809,8 @@
             "de": "Kloster Bebenhausen",
             "hu": "Bebenhauseni kolostor",
             "ro": "Mănăstirea Bebenhausen",
-            "en": "Bebenhausen Abbey"
+            "en": "Bebenhausen Abbey",
+            "tr": "Bebenhausen Manastırı"
           },
           "coords": [
             9.0592,
@@ -772,7 +825,8 @@
             "de": "Cluster B: Kurze Fahrt aus der Stadt heraus.",
             "hu": "B klaszter: Rövid autóút a városon kívülre.",
             "ro": "Cluster B: O scurtă călătorie în afara orașului.",
-            "en": "Cluster B: A short drive outside the city."
+            "en": "Cluster B: A short drive outside the city.",
+            "tr": "B Kümesi: Şehrin biraz dışında, kısa bir sürüş mesafesinde."
           }
         },
         {
@@ -780,7 +834,8 @@
             "de": "Bebenhausen Dorf",
             "hu": "Bebenhausen falu",
             "ro": "Satul Bebenhausen",
-            "en": "Bebenhausen Village"
+            "en": "Bebenhausen Village",
+            "tr": "Bebenhausen Köyü"
           },
           "coords": [
             9.06,
@@ -795,7 +850,8 @@
             "de": "Cluster B: Ein perfekt erhaltenes historisches Dorf.",
             "hu": "B klaszter: Tökéletesen megőrzött történelmi falu.",
             "ro": "Cluster B: Un sat istoric perfect conservat.",
-            "en": "Cluster B: A perfectly preserved historical village."
+            "en": "Cluster B: A perfectly preserved historical village.",
+            "tr": "B Kümesi: Mükemmel korunmuş tarihi bir köy."
           }
         }
       ],
@@ -803,7 +859,8 @@
         "de": "Parken Sie zentral und erkunden Sie die Tübinger Altstadt zu Fuß. Das Cluster-Modell erlaubt es Ihnen, die wichtigsten Sehenswürdigkeiten wie den Marktplatz, das Schloss und die Neckarfront stressfrei zu besuchen. Am Nachmittag fahren Sie zum nahegelegenen Kloster Bebenhausen, einem Juwel der Zisterzienserarchitektur im Naturpark Schönbuch.",
         "hu": "Parkoljon a központban, és fedezze fel a tübingeni óvárost gyalog. A klaszter-modell lehetővé teszi a legfontosabb látnivalók, mint a piactér, a vár és a Neckar-part kényelmes bejárását. Délután autózzon a közeli Bebenhausen kolostorhoz, amely a ciszterci építészet gyöngyszeme a Schönbuch parkban.",
         "ro": "Parcați în centru și explorați orașul vechi pe jos. Modelul de cluster vă permite să vizitați principalele obiective (piața, castelul, faleza) fără stres. După-amiaza, conduceți până la mănăstirea Bebenhausen, o bijuterie a arhitecturii cisterciene din parcul Schönbuch.",
-        "en": "Park centrally and explore Tübingen's old town on foot. The cluster model allows you to visit key sights like the market square, castle, and Neckarfront stress-free. In the afternoon, drive to the nearby Bebenhausen Abbey, a gem of Cistercian architecture in the Schönbuch Nature Park."
+        "en": "Park centrally and explore Tübingen's old town on foot. The cluster model allows you to visit key sights like the market square, castle, and Neckarfront stress-free. In the afternoon, drive to the nearby Bebenhausen Abbey, a gem of Cistercian architecture in the Schönbuch Nature Park.",
+        "tr": "Merkezde park edin ve Tübingen'in eski kentini yürüyerek keşfedin. Küme modeli, pazar yeri, kale ve Neckarfront gibi önemli noktaları stressizce ziyaret etmenizi sağlar. Öğleden sonra yakınlardaki Bebenhausen Manastırı'na gidin; Schönbuch Tabiat Parkı'ndaki bu Çiziterzyen mimarisi inciyi görün."
       },
       "gastro_picks": {
         "de": [
@@ -907,6 +964,11 @@
           "Follow the city's dynamic parking guidance system.",
           "Bebenhausen has a large parking lot right by the abbey.",
           "Avoid peak commuting hours on the B27 road."
+        ],
+        "tr": [
+          "Şehrin dinamik park yönlendirme sistemini takip edin.",
+          "Bebenhausen'de manastırın yanında büyük bir otopark var.",
+          "B27 yolunda yoğun işe gidip gelme saatlerinden kaçının."
         ]
       }
     },
@@ -923,7 +985,8 @@
             "de": "Tübingen Hauptbahnhof",
             "hu": "Tübingeni főpályaudvar",
             "ro": "Gara Centrală Tübingen",
-            "en": "Tübingen Main Station"
+            "en": "Tübingen Main Station",
+            "tr": "Tübingen Ana İstasyonu"
           },
           "coords": [
             9.0578,
@@ -938,7 +1001,8 @@
             "de": "Zentraler Knotenpunkt für alle Buslinien.",
             "hu": "Minden autóbuszvonal központi csomópontja.",
             "ro": "Nod central pentru toate liniile de autobuz.",
-            "en": "Central hub for all bus lines."
+            "en": "Central hub for all bus lines.",
+            "tr": "Tüm otobüs hatları için merkez nokta."
           }
         },
         {
@@ -946,7 +1010,8 @@
             "de": "Neckarbrücke",
             "hu": "Neckar-híd",
             "ro": "Podul Neckarbrücke",
-            "en": "Neckar Bridge"
+            "en": "Neckar Bridge",
+            "tr": "Neckar Köprüsü"
           },
           "coords": [
             9.0575,
@@ -961,7 +1026,8 @@
             "de": "District A: Wichtigste Haltestelle für die Altstadt.",
             "hu": "A körzet: Az óváros legfontosabb megállója.",
             "ro": "District A: Cea mai importantă stație pentru centrul vechi.",
-            "en": "District A: Most important stop for the old town."
+            "en": "District A: Most important stop for the old town.",
+            "tr": "A Bölgesi: Eski şehir için en önemli durak."
           }
         },
         {
@@ -969,7 +1035,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Primăriei",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             9.0556,
@@ -984,7 +1051,8 @@
             "de": "District A: Nur ein kurzer Fußweg von der Brücke.",
             "hu": "A körzet: Csak rövid séta a hídtól.",
             "ro": "District A: Doar o scurtă plimbare de la pod.",
-            "en": "District A: Just a short walk from the bridge."
+            "en": "District A: Just a short walk from the bridge.",
+            "tr": "A Bölgesi: Köprüden sadece kısa bir yürüme mesafesinde."
           }
         },
         {
@@ -992,7 +1060,8 @@
             "de": "Schloss Hohentübingen",
             "hu": "Hohentübingen vár",
             "ro": "Castelul Hohentübingen",
-            "en": "Hohentübingen Castle"
+            "en": "Hohentübingen Castle",
+            "tr": "Hohentübingen Kalesi"
           },
           "coords": [
             9.0505,
@@ -1007,7 +1076,8 @@
             "de": "District A: Zu Fuß durch die Gassen erreichbar.",
             "hu": "A körzet: Gyalogosan elérhető a szűk utcákon át.",
             "ro": "District A: Accesibil pe jos prin străduțele înguste.",
-            "en": "District A: Reachable on foot through the narrow alleys."
+            "en": "District A: Reachable on foot through the narrow alleys.",
+            "tr": "A Bölgesi: Dar sokaklardan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -1015,7 +1085,8 @@
             "de": "Hölderlinturm",
             "hu": "Hölderlin-torony",
             "ro": "Turnul Hölderlin",
-            "en": "Hölderlin's Tower"
+            "en": "Hölderlin's Tower",
+            "tr": "Hölderlin Kulesi"
           },
           "coords": [
             9.0562,
@@ -1030,7 +1101,8 @@
             "de": "District A: Direkt am Ufer gelegen.",
             "hu": "A körzet: Közvetlenül a folyóparton.",
             "ro": "District A: Situat direct pe malul râului.",
-            "en": "District A: Located directly on the river bank."
+            "en": "District A: Located directly on the river bank.",
+            "tr": "A Bölgesi: Nehrin kıyısında doğrudan konumlanmış."
           }
         },
         {
@@ -1038,7 +1110,8 @@
             "de": "Kloster Bebenhausen",
             "hu": "Bebenhauseni kolostor",
             "ro": "Mănăstirea Bebenhausen",
-            "en": "Bebenhausen Abbey"
+            "en": "Bebenhausen Abbey",
+            "tr": "Bebenhausen Manastırı"
           },
           "coords": [
             9.0592,
@@ -1053,7 +1126,8 @@
             "de": "District B: Mit der Buslinie 826 oder 754 ab Stadtmitte.",
             "hu": "B körzet: A 826-os vagy 754-es busszal a központból.",
             "ro": "District B: Cu autobuzul 826 sau 754 din centrul orașului.",
-            "en": "District B: Take bus 826 or 754 from the city center."
+            "en": "District B: Take bus 826 or 754 from the city center.",
+            "tr": "B Bölgesi: Şehir merkezinden 826 veya 754 numaralı otobüse binin."
           }
         },
         {
@@ -1061,7 +1135,8 @@
             "de": "Alter Botanischer Garten",
             "hu": "Régi Botanikus Kert",
             "ro": "Grădina Botanică Veche",
-            "en": "Old Botanical Garden"
+            "en": "Old Botanical Garden",
+            "tr": "Eski Botanik Bahçesi"
           },
           "coords": [
             9.0585,
@@ -1076,7 +1151,8 @@
             "de": "District C: Mit dem Bus zurück in die Stadt.",
             "hu": "C körzet: Busszal vissza a városba.",
             "ro": "District C: Înapoi în oraș cu autobuzul.",
-            "en": "District C: Back to town by bus."
+            "en": "District C: Back to town by bus.",
+            "tr": "C Bölgesi: Otobüsle tekrar şehre dönüş."
           }
         }
       ],
@@ -1084,7 +1160,8 @@
         "de": "Tübingen verfügt über ein ausgezeichnetes Bussystem. Nutzen Sie die zentralen Haltestellen wie 'Neckarbrücke', um die Altstadt-Cluster zu erkunden. Ein besonderes Highlight ist die einfache Busanbindung zum Kloster Bebenhausen, sodass Sie auch ohne Auto die Umgebung genießen können. Den Tag beenden Sie im Botanischen Garten unweit der Universität.",
         "hu": "Tübingen kiváló buszhálózattal rendelkezik. Használja a központi megállókat, mint a 'Neckarbrücke', az óvárosi klaszterek felfedezéséhez. Külön előny a könnyű buszos összeköttetés Bebenhausenbe, így autó nélkül is élvezheti a környéket. A napot az egyetemhez közeli Botanikus Kertben zárhatja.",
         "ro": "Tübingen are un sistem de autobuze excelent. Utilizați stațiile centrale precum 'Neckarbrücke' pentru a explora centrul vechi. Un punct forte este conexiunea ușoară cu autobuzul către mănăstirea Bebenhausen. Încheiați ziua în Grădina Botanică de lângă universitate.",
-        "en": "Tübingen has an excellent bus system. Use central stops like 'Neckarbrücke' to explore the old town clusters. A special highlight is the easy bus connection to Bebenhausen Abbey, allowing you to enjoy the surroundings without a car. End the day in the Botanical Garden near the university."
+        "en": "Tübingen has an excellent bus system. Use central stops like 'Neckarbrücke' to explore the old town clusters. A special highlight is the easy bus connection to Bebenhausen Abbey, allowing you to enjoy the surroundings without a car. End the day in the Botanical Garden near the university.",
+        "tr": "Tübingen mükemmel bir otobüs sistemine sahip. Eski kent kümelerini keşfetmek için 'Neckarbrücke' gibi merkezi durakları kullanın. Öne çıkan bir özellik de Bebenhausen Manastırı'na kolay otobüs bağlantısıdır; çevreyi arabasız da gezmenize olanak tanır. Günü üniversiteye yakın Botanik Bahçe'de sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -1188,6 +1265,11 @@
           "Purchase a day ticket for the entire city zone.",
           "Buses run less frequently on weekends, so check the schedule.",
           "City buses are often free to use on Saturdays."
+        ],
+        "tr": [
+          "Tüm şehir bölgesi için günlük bilet satın alın.",
+          "Hafta sonları otobüsler daha seyrek çalışır, bu yüzden tarifeyi kontrol edin.",
+          "Şehir otobüsleri Cumartesi günleri genellikle ücretsizdir."
         ]
       }
     }

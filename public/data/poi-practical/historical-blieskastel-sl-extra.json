@@ -3,55 +3,64 @@
     "de": "Paradeplatz, 66440 Blieskastel",
     "hu": "Paradeplatz, 66440 Blieskastel",
     "ro": "Paradeplatz, 66440 Blieskastel",
-    "en": "Paradeplatz, 66440 Blieskastel"
+    "en": "Paradeplatz, 66440 Blieskastel",
+    "tr": "Paradeplatz, 66440 Blieskastel"
   },
   "openingHours": {
     "de": "24/7 (Altstadt)",
     "hu": "24/7 (Óváros)",
     "ro": "Non-stop (Centrul Vechi)",
-    "en": "24/7 (Old Town)"
+    "en": "24/7 (Old Town)",
+    "tr": "24/7 (Eski Şehir)"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.blieskastel.de",
   "publicTransport": {
     "de": "Bus 501 ab Homburg oder St. Ingbert bis Blieskastel Busbahnhof",
     "hu": "Busz 501 Homburgból vagy St. Ingbertből a Blieskastel Busbahnhofig",
     "ro": "Autobuz 501 din Homburg sau St. Ingbert până la autogara Blieskastel",
-    "en": "Bus 501 from Homburg or St. Ingbert to Blieskastel bus station"
+    "en": "Bus 501 from Homburg or St. Ingbert to Blieskastel bus station",
+    "tr": "Homburg veya St. Ingbert'ten 501 otobüsü Blieskastel otobüs terminaline"
   },
   "parking": {
     "de": "Großer Parkplatz am Bliesfreizeitzentrum, teils kostenlos.",
     "hu": "Nagy parkoló a Bliesfreizeitzentrumnál, részben ingyenes.",
     "ro": "Parcare mare la centrul de agrement Blies, parțial gratuită.",
-    "en": "Large parking lot at the Blies leisure center, partially free."
+    "en": "Large parking lot at the Blies leisure center, partially free.",
+    "tr": "Blies rekreasyon merkezinde büyük otopark, kısmen ücretsiz."
   },
   "accessibility": {
     "de": "Historische Altstadt mit einigem Kopfsteinpflaster.",
     "hu": "Történelmi óváros, helyenként macskaköves utakkal.",
     "ro": "Centru istoric cu pavaj din piatră cubică.",
-    "en": "Historic old town with some cobblestone."
+    "en": "Historic old town with some cobblestone.",
+    "tr": "Tarihi eski şehirde bazı parke taşları var."
   },
   "photoRules": {
     "de": "Überall im öffentlichen Raum erlaubt.",
     "hu": "Mindenütt engedélyezett közterületen.",
     "ro": "Permis peste tot în spațiul public.",
-    "en": "Allowed everywhere in public spaces."
+    "en": "Allowed everywhere in public spaces.",
+    "tr": "Kamusal alanlarda her yerde izinli."
   },
   "bestTimeToVisit": {
     "de": "Samstagvormittags zum Wochenmarkt auf dem Paradeplatz.",
     "hu": "Szombat délelőtt, a Paradeplatz heti piacára.",
     "ro": "Sâmbătă dimineața pentru piața săptămânală din Paradeplatz.",
-    "en": "Saturday morning for the weekly market at Paradeplatz."
+    "en": "Saturday morning for the weekly market at Paradeplatz.",
+    "tr": "Paradeplatz'daki haftalık pazar için cumartesi sabahı."
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

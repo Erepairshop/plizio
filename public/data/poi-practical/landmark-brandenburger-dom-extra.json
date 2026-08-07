@@ -3,55 +3,64 @@
     "de": "Burghof 9, 14776 Brandenburg an der Havel",
     "hu": "Burghof 9, 14776 Brandenburg an der Havel",
     "ro": "Burghof 9, 14776 Brandenburg an der Havel",
-    "en": "Burghof 9, 14776 Brandenburg an der Havel"
+    "en": "Burghof 9, 14776 Brandenburg an der Havel",
+    "tr": "Burghof 9, 14776 Brandenburg an der Havel"
   },
   "openingHours": {
     "de": "Mo-Sa 10:00-17:00, So 11:30-17:00",
     "hu": "Hétfő-szombat 10:00-17:00, vasárnap 11:30-17:00",
     "ro": "Lun-Sâm 10:00-17:00, Dum 11:30-17:00",
-    "en": "Mon-Sat 10:00-17:00, Sun 11:30-17:00"
+    "en": "Mon-Sat 10:00-17:00, Sun 11:30-17:00",
+    "tr": "Pzt-Cum 10:00-17:00, Paz 11:30-17:00"
   },
   "entranceFee": {
     "de": "Eintritt frei, Spende erbeten; Museum 5€",
     "hu": "Ingyenes belépés, adományokat szívesen fogadnak; múzeum 5 €",
     "ro": "Intrare liberă, se solicită donații; muzeu 5 €",
-    "en": "Free admission, donations welcome; museum €5"
+    "en": "Free admission, donations welcome; museum €5",
+    "tr": "Giriş ücretsiz, bağışlar memnuniyetle karşılanır; müze €5"
   },
   "website": "https://www.dom-brandenburg.de",
   "publicTransport": {
     "de": "Straßenbahn Linie 6 bis Haltestelle Dom.",
     "hu": "6-os villamos a Dom megállóig.",
     "ro": "Linia de tramvai 6 până la stația Dom.",
-    "en": "Tram line 6 to Dom station."
+    "en": "Tram line 6 to Dom station.",
+    "tr": "6 numaralı tramvay ile Dom durağına."
   },
   "parking": {
     "de": "Kostenfreie Parkplätze am Grillendamm, ca. 5 Min. Fußweg.",
     "hu": "Ingyenes parkoló a Grillendamm-nál, kb. 5 perc séta.",
     "ro": "Parcare gratuită la Grillendamm, aprox. 5 minute de mers pe jos.",
-    "en": "Free parking at Grillendamm, approx. 5 min walk."
+    "en": "Free parking at Grillendamm, approx. 5 min walk.",
+    "tr": "Grillendamm’da ücretsiz otopark, yaklaşık 5 dakika yürüme."
   },
   "accessibility": {
     "de": "Kirchenraum barrierefrei, Klausurgebäude und Museum teils mit Stufen.",
     "hu": "A templomtér akadálymentesített, a kolostorépület és a múzeum részben lépcsős.",
     "ro": "Sala bisericii este accesibilă, clădirea mănăstirii și muzeul au parțial trepte.",
-    "en": "Church space is accessible, cloister and museum have some steps."
+    "en": "Church space is accessible, cloister and museum have some steps.",
+    "tr": "Kilise mekanı erişilebilir, manastır ve müzede bazı basamaklar var."
   },
   "photoRules": {
     "de": "Erlaubt ohne Blitz, während Gottesdiensten strikt untersagt.",
     "hu": "Vakumentes fotózás engedélyezett, istentisztelet alatt szigorúan tilos.",
     "ro": "Permis fără bliț, strict interzis în timpul serviciilor religioase.",
-    "en": "Allowed without flash, strictly forbidden during services."
+    "en": "Allowed without flash, strictly forbidden during services.",
+    "tr": "Flaşsız izinli, ayinler sırasında kesinlikle yasaktır."
   },
   "bestTimeToVisit": {
     "de": "Sommernachmittage, wenn das Licht durch die Fenster fällt.",
     "hu": "Nyári délutánok, amikor a fény átsüt az ablakokon.",
     "ro": "După-amiezele de vară, când lumina pătrunde prin ferestre.",
-    "en": "Summer afternoons when light falls through the windows."
+    "en": "Summer afternoons when light falls through the windows.",
+    "tr": "Pencerelerden ışık girdiğinde yaz öğleden sonraları."
   },
   "audioGuide": {
     "de": "Deutsch (Leihgeräte am Einlass verfügbar)",
     "hu": "Német (kölcsönözhető eszközök a bejáratnál)",
     "ro": "Germană (dispozitive disponibile la intrare)",
-    "en": "German (rental devices available at the entrance)"
+    "en": "German (rental devices available at the entrance)",
+    "tr": "Almanca (girişte kiralık cihazlar mevcut)"
   }
 }

@@ -3,55 +3,64 @@
     "de": "Auf der Wartburg 1, 99817 Eisenach",
     "hu": "Auf der Wartburg 1, 99817 Eisenach",
     "ro": "Auf der Wartburg 1, 99817 Eisenach",
-    "en": "Auf der Wartburg 1, 99817 Eisenach"
+    "en": "Auf der Wartburg 1, 99817 Eisenach",
+    "tr": "Auf der Wartburg 1, 99817 Eisenach"
   },
   "openingHours": {
     "de": "April-Oktober: täglich 08:30-17:00; November-März: täglich 09:00-15:30",
     "hu": "Április-október: naponta 08:30-17:00; november-március: naponta 09:00-15:30",
     "ro": "Aprilie-octombrie: zilnic 08:30-17:00; noiembrie-martie: zilnic 09:00-15:30",
-    "en": "April-October: daily 08:30-17:00; November-March: daily 09:00-15:30"
+    "en": "April-October: daily 08:30-17:00; November-March: daily 09:00-15:30",
+    "tr": "Nisan–Ekim: günlük 08:30–17:00; Kasım–Mart: günlük 09:00–15:30"
   },
   "entranceFee": {
     "de": "€12 Erwachsene, €8 Ermäßigt (inkl. Führung)",
     "hu": "12 € felnőtt, 8 € kedvezményes (tárlatvezetéssel)",
     "ro": "12 € adulți, 8 € redus (include tur ghidat)",
-    "en": "€12 adults, €8 reduced (incl. guided tour)"
+    "en": "€12 adults, €8 reduced (incl. guided tour)",
+    "tr": "€12 yetişkin, €8 indirimli (rehberli tur dahil)"
   },
   "website": "https://www.wartburg.de",
   "publicTransport": {
     "de": "Buslinie 10 (Wartburg-Linie) ab Hauptbahnhof Eisenach",
     "hu": "10-es buszjárat (Wartburg-vonal) az eisenachi főpályaudvartól",
     "ro": "Linia de autobuz 10 (linia Wartburg) de la gara centrală din Eisenach",
-    "en": "Bus line 10 (Wartburg line) from Eisenach central station"
+    "en": "Bus line 10 (Wartburg line) from Eisenach central station",
+    "tr": "Eisenach merkez istasyonundan Otobüs hattı 10 (Wartburg hattı)"
   },
   "parking": {
     "de": "Großer Besucherparkplatz unterhalb der Burg, ca. 500m Fußweg, Gebühr ca. €5",
     "hu": "Nagy látogatói parkoló a vár alatt, kb. 500 m gyalogút, díja kb. 5 €",
     "ro": "Parcare mare sub castel, aprox. 500 m de mers pe jos, taxă aprox. 5 €",
-    "en": "Large visitor parking below the castle, approx. 500m walk, fee approx. €5"
+    "en": "Large visitor parking below the castle, approx. 500m walk, fee approx. €5",
+    "tr": "Kalenin aşağısında büyük ziyaretçi otoparkı, yaklaşık 500 m yürüyüş, ücret yaklaşık €5"
   },
   "accessibility": {
     "de": "Teilweise barrierefrei; steiler Anstieg zur Burg, Shuttleservice für Gehbehinderte verfügbar",
     "hu": "Részben akadálymentesített; meredek út a várig, transzferjárat elérhető mozgáskorlátozottaknak",
     "ro": "Parțial accesibil; urcare abruptă spre castel, serviciu de transfer disponibil pentru persoane cu mobilitate redusă",
-    "en": "Partially accessible; steep climb to the castle, shuttle service available for those with walking difficulties"
+    "en": "Partially accessible; steep climb to the castle, shuttle service available for those with walking difficulties",
+    "tr": "Kısmen erişilebilir; kaleye dik bir tırmanış var, yürümekte zorlananlar için servis mevcut"
   },
   "photoRules": {
     "de": "Privatfotos ohne Blitz erlaubt; für professionelle Aufnahmen Genehmigung erforderlich",
     "hu": "Magáncélú fotózás vaku nélkül engedélyezett; professzionális felvételekhez engedély szükséges",
     "ro": "Fotografii private fără bliț permise; pentru fotografii profesionale este necesară autorizație",
-    "en": "Private photos without flash allowed; permission required for professional photography"
+    "en": "Private photos without flash allowed; permission required for professional photography",
+    "tr": "Flaşsız özel fotoğraflara izin verilir; profesyonel fotoğrafçılık için izin gereklidir"
   },
   "bestTimeToVisit": {
     "de": "Früher Vormittag an Wochentagen, um den großen Reisegruppen zu entgehen",
     "hu": "Hétköznap kora délelőtt, hogy elkerülje a nagy csoportokat",
     "ro": "Dimineața devreme în zilele lucrătoare, pentru a evita grupurile mari de turiști",
-    "en": "Early morning on weekdays to avoid large tour groups"
+    "en": "Early morning on weekdays to avoid large tour groups",
+    "tr": "Büyük tur gruplarından kaçınmak için hafta içi sabah erken saatler"
   },
   "audioGuide": {
     "de": "Verfügbar in Deutsch, Englisch, Französisch und weiteren Sprachen",
     "hu": "Elérhető német, angol, francia és más nyelveken",
     "ro": "Disponibil în germană, engleză, franceză și alte limbi",
-    "en": "Available in German, English, French, and other languages"
+    "en": "Available in German, English, French, and other languages",
+    "tr": "Almanca, İngilizce, Fransızca ve diğer dillerde mevcut"
   }
 }

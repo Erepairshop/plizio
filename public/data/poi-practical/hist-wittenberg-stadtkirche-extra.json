@@ -3,55 +3,64 @@
     "de": "Kirchplatz 11, 06886 Lutherstadt Wittenberg",
     "hu": "Kirchplatz 11, 06886 Lutherstadt Wittenberg, Németország",
     "ro": "Kirchplatz 11, 06886 Lutherstadt Wittenberg, Germania",
-    "en": "Kirchplatz 11, 06886 Lutherstadt Wittenberg, Germany"
+    "en": "Kirchplatz 11, 06886 Lutherstadt Wittenberg, Germany",
+    "tr": "Kirchplatz 11, 06886 Lutherstadt Wittenberg, Germany"
   },
   "openingHours": {
     "de": "Mo-Sa 10:00-18:00, So 11:30-18:00",
     "hu": "H-Szo 10:00-18:00, V 11:30-18:00",
     "ro": "L-S 10:00-18:00, D 11:30-18:00",
-    "en": "Mon-Sat 10:00-18:00, Sun 11:30-18:00"
+    "en": "Mon-Sat 10:00-18:00, Sun 11:30-18:00",
+    "tr": "Pzt-Cum 10:00-18:00, Paz 11:30-18:00"
   },
   "entranceFee": {
     "de": "2 € Spende erbeten",
     "hu": "2 € adományt kérnek",
     "ro": "Se recomandă o donație de 2 €",
-    "en": "2 € donation requested"
+    "en": "2 € donation requested",
+    "tr": "2 € bağış istenir"
   },
   "website": "https://www.stadtkirche-wittenberg.de",
   "publicTransport": {
     "de": "Bus Haltestelle Marktplatz, ca. 10 Min Fußweg vom Hauptbahnhof",
     "hu": "Buszmegálló: Marktplatz, kb. 10 perc séta a főpályaudvartól",
     "ro": "Stația de autobuz Marktplatz, aprox. 10 min. pe jos de la gară",
-    "en": "Bus stop Marktplatz, approx. 10 min walk from central station"
+    "en": "Bus stop Marktplatz, approx. 10 min walk from central station",
+    "tr": "Marktplatz otobüs durağı, merkez istasyondan yaklaşık 10 dakikalık yürüme mesafesi"
   },
   "parking": {
     "de": "Parkplatz Arsenal-Center oder Wallstraße, ca. 2 €/Std.",
     "hu": "Arsenal-Center parkoló vagy Wallstraße, kb. 2 €/óra",
     "ro": "Parcarea Arsenal-Center sau Wallstraße, aprox. 2 €/oră",
-    "en": "Arsenal-Center parking or Wallstraße, approx. 2 €/hour"
+    "en": "Arsenal-Center parking or Wallstraße, approx. 2 €/hour",
+    "tr": "Arsenal-Center otoparkı veya Wallstraße, yaklaşık 2 €/saat"
   },
   "accessibility": {
     "de": "Ebenerdiger Zugang über das Hauptportal möglich.",
     "hu": "Akadálymentes belépés a főkapun keresztül.",
     "ro": "Acces fără trepte prin portalul principal.",
-    "en": "Level access via the main portal possible."
+    "en": "Level access via the main portal possible.",
+    "tr": "Ana kapı üzerinden düz erişim mümkün."
   },
   "photoRules": {
     "de": "Fotografieren für private Zwecke ohne Blitz erlaubt.",
     "hu": "Magáncélú fotózás vaku nélkül engedélyezett.",
     "ro": "Fotografiatul pentru uz privat permis fără bliț.",
-    "en": "Photography for private use allowed without flash."
+    "en": "Photography for private use allowed without flash.",
+    "tr": "Özel kullanım için flaşsız fotoğraf çekimine izin verilir."
   },
   "bestTimeToVisit": {
     "de": "Vormittags unter der Woche für ruhige Atmosphäre außerhalb der Gottesdienste.",
     "hu": "Hétköznap délelőtt, az istentiszteleteken kívüli nyugodt légkörért.",
     "ro": "Dimineața în timpul săptămânii pentru o atmosferă liniștită.",
-    "en": "Weekday mornings for a quiet atmosphere outside of services."
+    "en": "Weekday mornings for a quiet atmosphere outside of services.",
+    "tr": "Ayinlerin dışında sakin bir atmosfer için hafta içi sabahları."
   },
   "audioGuide": {
     "de": "Deutsch, Englisch",
     "hu": "német, angol",
     "ro": "germană, engleză",
-    "en": "German, English"
+    "en": "German, English",
+    "tr": "Almanca, İngilizce"
   }
 }

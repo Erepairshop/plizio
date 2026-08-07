@@ -3,55 +3,64 @@
     "de": "Wildenauer Str., 82467 Garmisch-Partenkirchen",
     "hu": "Wildenauer Str., 82467 Garmisch-Partenkirchen",
     "ro": "Wildenauer Str., 82467 Garmisch-Partenkirchen",
-    "en": "Wildenauer Str., 82467 Garmisch-Partenkirchen"
+    "en": "Wildenauer Str., 82467 Garmisch-Partenkirchen",
+    "tr": "Wildenauer Str., 82467 Garmisch-Partenkirchen"
   },
   "openingHours": {
     "de": "Jun-Sep 08:00-20:00, Oct-May 08:00-18:00",
     "hu": "Jún.-szept. 08:00-20:00, okt.-máj. 08:00-18:00",
     "ro": "Iun-Sep 08:00-20:00, Oct-Mai 08:00-18:00",
-    "en": "Jun-Sep 08:00-20:00, Oct-May 08:00-18:00"
+    "en": "Jun-Sep 08:00-20:00, Oct-May 08:00-18:00",
+    "tr": "Haz-Eyl 08:00-20:00, Eki-May 08:00-18:00"
   },
   "entranceFee": {
     "de": "€7,50 Erwachsene, €3,00 Kinder",
     "hu": "7,50 € felnőtt, 3,00 € gyerek",
     "ro": "7,50 € adulți, 3,00 € copii",
-    "en": "€7.50 adults, €3.00 children"
+    "en": "€7.50 adults, €3.00 children",
+    "tr": "€7,50 yetişkin, €3,00 çocuk"
   },
   "website": "https://www.partnachklamm.de",
   "publicTransport": {
     "de": "Ortsbus Linie 1 oder 2 bis zum Skistadion",
     "hu": "1-es vagy 2-es helyi busz a sístadionig",
     "ro": "Autobuz local linia 1 sau 2 până la stadionul de schi",
-    "en": "Local bus line 1 or 2 to the ski stadium"
+    "en": "Local bus line 1 or 2 to the ski stadium",
+    "tr": "Yerel otobüs hattı 1 veya 2 ile kayak stadyumuna"
   },
   "parking": {
     "de": "Parkplatz am Skistadion, ca. 25 Min. Fußweg zur Klamm",
     "hu": "Parkoló a sístadionnál, kb. 25 perc séta a szurdokig",
     "ro": "Parcare la stadionul de schi, aprox. 25 min. de mers pe jos până la chei",
-    "en": "Parking at ski stadium, approx. 25 min. walk to the gorge"
+    "en": "Parking at ski stadium, approx. 25 min. walk to the gorge",
+    "tr": "Kayak stadyumu otoparkı, kanyon için yaklaşık 25 dk yürüyüş"
   },
   "accessibility": {
     "de": "Nicht barrierefrei (enge Tunnel, Stufen, Nässe)",
     "hu": "Nem akadálymentes (szűk alagutak, lépcsők, nedvesség)",
     "ro": "Nu este accesibil (tuneluri înguste, trepte, umezeală)",
-    "en": "Not accessible (narrow tunnels, stairs, wet conditions)"
+    "en": "Not accessible (narrow tunnels, stairs, wet conditions)",
+    "tr": "Erişim yok (dar tüneller, merdivenler, ıslak koşullar)"
   },
   "photoRules": {
     "de": "Erlaubt, aber Stativ wegen enger Wege oft problematisch",
     "hu": "Engedélyezett, de az állvány a szűk utak miatt gyakran problémás",
     "ro": "Permis, dar trepiedul este adesea problematic din cauza cărărilor înguste",
-    "en": "Allowed, but tripods often problematic due to narrow paths"
+    "en": "Allowed, but tripods often problematic due to narrow paths",
+    "tr": "İzinli, ancak dar yollar nedeniyle tripodlar genellikle sorunlu"
   },
   "bestTimeToVisit": {
     "de": "Direkt bei Öffnung um 08:00 Uhr, um Gegenverkehr zu vermeiden",
     "hu": "Nyitáskor, reggel 8-kor, a szembejövő forgalom elkerülése érdekében",
     "ro": "Chiar la deschidere, la ora 08:00, pentru a evita traficul din sens opus",
-    "en": "Right at opening at 08:00, to avoid oncoming traffic"
+    "en": "Right at opening at 08:00, to avoid oncoming traffic",
+    "tr": "08:00'de açılışta, gelen trafikten kaçınmak için"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

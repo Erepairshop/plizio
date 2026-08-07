@@ -3,55 +3,64 @@
     "de": "72379 Burg Hohenzollern",
     "hu": "72379 Burg Hohenzollern",
     "ro": "72379 Burg Hohenzollern",
-    "en": "72379 Burg Hohenzollern"
+    "en": "72379 Burg Hohenzollern",
+    "tr": "72379 Burg Hohenzollern"
   },
   "openingHours": {
     "de": "Täglich 10:00-18:30 (Sommer), 10:00-17:30 (Winter)",
     "hu": "Naponta 10:00-18:30 (nyáron), 10:00-17:30 (télen)",
     "ro": "Zilnic 10:00-18:30 (vara), 10:00-17:30 (iarna)",
-    "en": "Daily 10:00-18:30 (summer), 10:00-17:30 (winter)"
+    "en": "Daily 10:00-18:30 (summer), 10:00-17:30 (winter)",
+    "tr": "Her gün 10:00-18:30 (yaz), 10:00-17:30 (kış)"
   },
   "entranceFee": {
     "de": "€22 Erwachsene (Tickets nur online verfügbar)",
     "hu": "22 € felnőtt (jegyek csak online kaphatók)",
     "ro": "22 € adulți (bilete disponibile doar online)",
-    "en": "€22 adults (tickets only available online)"
+    "en": "€22 adults (tickets only available online)",
+    "tr": "€22 yetişkin (biletler yalnızca çevrimiçi mevcut)"
   },
   "website": "https://www.burg-hohenzollern.com",
   "publicTransport": {
     "de": "Pendelbus 300 ab Bahnhof Hechingen zur Burg",
     "hu": "300-as ingajárat Hechingen vasútállomásától a várhoz",
     "ro": "Autobuzul pendulă 300 de la gara Hechingen la castel",
-    "en": "Shuttle bus 300 from Hechingen station to the castle"
+    "en": "Shuttle bus 300 from Hechingen station to the castle",
+    "tr": "Hechingen istasyonundan kaleye giden 300 numaralı servis otobüsü"
   },
   "parking": {
     "de": "Besucherparkplatz unterhalb der Burg (~4 €), inkl. Shuttle-Service.",
     "hu": "Látogatói parkoló a vár alatt (~4 €), transzferrel együtt.",
     "ro": "Parcare pentru vizitatori sub castel (~4 €), inclusiv serviciu de transfer.",
-    "en": "Visitor parking below the castle (~4 €), including shuttle service."
+    "en": "Visitor parking below the castle (~4 €), including shuttle service.",
+    "tr": "Kaleye aşağıdaki ziyaretçi otoparkı (~4 €), servis hizmeti dahil."
   },
   "accessibility": {
     "de": "Shuttlebus ist barrierefrei, das Burggelände ist teilweise sehr steil.",
     "hu": "A transzferbusz akadálymentes, a vár területe részben igen meredek.",
     "ro": "Autobuzul de transfer este accesibil, terenul castelului este parțial foarte abrupt.",
-    "en": "The shuttle bus is accessible, but the castle grounds are partly very steep."
+    "en": "The shuttle bus is accessible, but the castle grounds are partly very steep.",
+    "tr": "Servis otobüsü engelli erişimine uygun, ancak kale alanı kısmen çok dik."
   },
   "photoRules": {
     "de": "Im Außenbereich erlaubt, Innenaufnahmen nur in bestimmten Zonen.",
     "hu": "Kültéren megengedett, belső fotózás csak bizonyos zónákban lehetséges.",
     "ro": "Permis în exterior, fotografii în interior doar în anumite zone.",
-    "en": "Permitted outdoors, indoor photography only in designated zones."
+    "en": "Permitted outdoors, indoor photography only in designated zones.",
+    "tr": "Açık alanlarda izinli, iç mekânda yalnızca belirlenmiş bölgelerde fotoğraf çekimi."
   },
   "bestTimeToVisit": {
     "de": "Bei klarem Wetter für die Panorama-Fernsicht über die Schwäbische Alb.",
     "hu": "Tiszta időben, a Sváb-Alpokra nyíló panoráma miatt.",
     "ro": "Pe vreme senină pentru vederea panoramică asupra Alpii Șvabi.",
-    "en": "On a clear day for the panoramic view over the Swabian Jura."
+    "en": "On a clear day for the panoramic view over the Swabian Jura.",
+    "tr": "Temiz bir günde Swabian Jura üzerinde panoramik manzara için."
   },
   "audioGuide": {
     "de": "ja (über die Burg-App für Smartphones)",
     "hu": "igen (okostelefonos vár-alkalmazáson keresztül)",
     "ro": "da (prin aplicația castelului pentru smartphone)",
-    "en": "yes (via the castle app for smartphones)"
+    "en": "yes (via the castle app for smartphones)",
+    "tr": "evet (akıllı telefonlar için kale uygulaması üzerinden)"
   }
 }

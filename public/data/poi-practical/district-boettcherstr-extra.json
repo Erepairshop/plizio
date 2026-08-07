@@ -3,55 +3,64 @@
     "de": "Böttcherstraße, 28195 Bremen",
     "hu": "Böttcherstraße, 28195 Bréma",
     "ro": "Böttcherstraße, 28195 Bremen",
-    "en": "Böttcherstraße, 28195 Bremen"
+    "en": "Böttcherstraße, 28195 Bremen",
+    "tr": "Böttcherstraße, 28195 Bremen"
   },
   "openingHours": {
     "de": "24/7 (Geschäfte und Museen haben abweichende Zeiten)",
     "hu": "0-24 (az üzletek és múzeumok nyitvatartása eltérő)",
     "ro": "24/7 (magazinele și muzeele au programe diferite)",
-    "en": "24/7 (shops and museums have varying hours)"
+    "en": "24/7 (shops and museums have varying hours)",
+    "tr": "7/24 (mağaza ve müzelerin açılış saatleri değişkendir)"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.boettcherstrasse.de",
   "publicTransport": {
     "de": "Straßenbahn 2, 3, 4, 6, 8 bis 'Domsheide'",
     "hu": "2, 3, 4, 6, 8-as villamos 'Domsheide' megállóig",
     "ro": "Tramvaiul 2, 3, 4, 6, 8 până la 'Domsheide'",
-    "en": "Tram 2, 3, 4, 6, 8 to 'Domsheide'"
+    "en": "Tram 2, 3, 4, 6, 8 to 'Domsheide'",
+    "tr": "Tramvay 2, 3, 4, 6, 8 'Domsheide'"
   },
   "parking": {
     "de": "Parkhaus Am Dom in unmittelbarer Nähe",
     "hu": "Am Dom parkolóház a közvetlen közelben",
     "ro": "Parcarea Am Dom în imediata apropiere",
-    "en": "Am Dom parking garage in the immediate vicinity"
+    "en": "Am Dom parking garage in the immediate vicinity",
+    "tr": "Hemen yakınında Am Dom otopark garajı"
   },
   "accessibility": {
     "de": "Barrierefrei zugänglich, ebenerdige Backsteinpflasterung",
     "hu": "Akadálymentesen megközelíthető, egyszintű téglaburkolat",
     "ro": "Accesibil, pavaj din cărămidă la nivel",
-    "en": "Accessible, level brick paving"
+    "en": "Accessible, level brick paving",
+    "tr": "Erişilebilir, düz tuğla döşeme"
   },
   "photoRules": {
     "de": "Erlaubt; das Glockenspiel darf gefilmt werden",
     "hu": "Engedélyezett; a harangjáték videózható",
     "ro": "Permis; jocul de clopote poate fi filmat",
-    "en": "Allowed; the glockenspiel may be filmed"
+    "en": "Allowed; the glockenspiel may be filmed",
+    "tr": "İzinli; çan kulesi çalgı saati filme alınabilir"
   },
   "bestTimeToVisit": {
     "de": "Zu jeder vollen Stunde zwischen 12:00 und 18:00 Uhr, um das Glockenspiel zu hören",
     "hu": "12:00 és 18:00 óra között minden egész órakor, a harangjáték idején",
     "ro": "La fiecare oră fixă între 12:00 și 18:00, pentru a auzi jocul de clopote",
-    "en": "Every hour on the hour between 12:00 and 18:00 to hear the glockenspiel"
+    "en": "Every hour on the hour between 12:00 and 18:00 to hear the glockenspiel",
+    "tr": "Çan kulesini saat başlarında 12:00 ile 18:00 arasında dinleyebilirsiniz"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

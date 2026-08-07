@@ -21,7 +21,8 @@
             "de": "Elisabethkirche",
             "hu": "Erzsébet-templom",
             "ro": "Biserica Sfânta Elisabeta",
-            "en": "St. Elizabeth's Church"
+            "en": "St. Elizabeth's Church",
+            "tr": "Aziz Elizabeth Kilisesi"
           },
           "coords": [
             8.7702,
@@ -36,7 +37,8 @@
             "de": "Früh am Morgen ist es am ruhigsten bei der Heiligen Elisabeth.",
             "hu": "Kora reggel a legcsendesebb Árpád-házi Szent Erzsébet sírjánál.",
             "ro": "Dimineața devreme este cea mai liniștită la mormântul Sfintei Elisabeta.",
-            "en": "Early morning is the quietest time at the shrine of St. Elizabeth."
+            "en": "Early morning is the quietest time at the shrine of St. Elizabeth.",
+            "tr": "Sabah erken saatler Aziz Elizabeth'in kutsal alanında en sessiz zamandır."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Marburger Oberstadt",
             "hu": "Marburgi felsőváros",
             "ro": "Orașul de Sus din Marburg",
-            "en": "Marburg Oberstadt"
+            "en": "Marburg Oberstadt",
+            "tr": "Marburg Oberstadt"
           },
           "coords": [
             8.7695,
@@ -59,7 +62,8 @@
             "de": "Nutzen Sie den Oberstadt-Aufzug, um sich einige Stufen zu sparen.",
             "hu": "Használja a felsővárosi liftet, hogy megspóroljon néhány lépcsőfokot.",
             "ro": "Folosiți liftul spre Orașul de Sus pentru a economisi câteva trepte.",
-            "en": "Use the Oberstadt elevator to save yourself some steps."
+            "en": "Use the Oberstadt elevator to save yourself some steps.",
+            "tr": "Birkaç adımı kurtarmak için Oberstadt asansörünü kullanın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Rathaus Marburg",
             "hu": "Marburgi városháza",
             "ro": "Primăria Marburg",
-            "en": "Marburg Town Hall"
+            "en": "Marburg Town Hall",
+            "tr": "Marburg Belediye Sarayı"
           },
           "coords": [
             8.7692,
@@ -82,7 +87,8 @@
             "de": "Der Gockel auf dem Rathaus schlägt zu jeder vollen Stunde mit den Flügeln.",
             "hu": "A városháza óráján lévő kakas minden egész órakor csapkod a szárnyával.",
             "ro": "Cocoșul de pe primărie dă din aripi la fiecare oră fixă.",
-            "en": "The rooster on the town hall clock flaps its wings every full hour."
+            "en": "The rooster on the town hall clock flaps its wings every full hour.",
+            "tr": "Belediye saatindeki horoz her dolu saatte kanat çırpar."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Alte Universität",
             "hu": "Régi Egyetem",
             "ro": "Vechea Universitate",
-            "en": "Old University"
+            "en": "Old University",
+            "tr": "Eski Üniversite"
           },
           "coords": [
             8.7712,
@@ -105,7 +112,8 @@
             "de": "Ein neugotisches Prachtstück direkt am Lahnufer gelegen.",
             "hu": "Neogótikus remekmű közvetlenül a Lahn folyó partján.",
             "ro": "O capodoperă neogotică situată direct pe malul râului Lahn.",
-            "en": "A neo-Gothic masterpiece located directly on the banks of the Lahn."
+            "en": "A neo-Gothic masterpiece located directly on the banks of the Lahn.",
+            "tr": "Lahn kıyısında doğrudan yer alan neo-Gotik başyapıt."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Landgrafenschloss Marburg",
             "hu": "Marburgi várkastély",
             "ro": "Castelul Landgraf din Marburg",
-            "en": "Marburg Landgrafenschloss"
+            "en": "Marburg Landgrafenschloss",
+            "tr": "Marburg Landgrafenschloss"
           },
           "coords": [
             8.7668,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie den Rittersaal, einen der größten gotischen Säle Deutschlands.",
             "hu": "Látogassa meg a lovagtermet, Németország egyik legnagyobb gótikus termét.",
             "ro": "Vizitați Sala Cavalerilor, una dintre cele mai mari săli gotice din Germania.",
-            "en": "Visit the Knight's Hall, one of the largest Gothic halls in Germany."
+            "en": "Visit the Knight's Hall, one of the largest Gothic halls in Germany.",
+            "tr": "Almanya'nın en büyük gotik salonlarından biri olan Şövalyeler Salonunu ziyaret edin."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Religionskundliche Sammlung",
             "hu": "Vallástudományi Gyűjtemény",
             "ro": "Colecția de Istorie a Religiilor",
-            "en": "Religionskundliche Sammlung"
+            "en": "Religionskundliche Sammlung",
+            "tr": "Dini İnançlar Müzesi"
           },
           "coords": [
             8.7725,
@@ -151,7 +162,8 @@
             "de": "Ein weltweit einzigartiges Museum über die Vielfalt der Religionen.",
             "hu": "Világszerte egyedülálló múzeum a vallások sokszínűségéről.",
             "ro": "Un muzeu unic în lume despre diversitatea religiilor.",
-            "en": "A globally unique museum about the diversity of religions."
+            "en": "A globally unique museum about the diversity of religions.",
+            "tr": "Dinlerin çeşitliliği hakkında dünya çapında benzersiz bir müze."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag beginnt an der imposanten Elisabethkirche. Von dort spazieren Sie durch die verwinkelten Gassen der Oberstadt bis zum historischen Marktplatz. Nach der Besichtigung der Alten Universität erklimmen Sie den Schlossberg. Der Nachmittag gehört dem Landgrafenschloss und der spannenden Religionskundlichen Sammlung, bevor der Tag in der malerischen Altstadt ausklingt.",
         "hu": "A nap az impozáns Erzsébet-templomnál kezdődik. Innen a felsőváros kanyargós utcáin át sétálunk a történelmi piactérre. A Régi Egyetem megtekintése után felkapaszkodunk a várhegyre. A délután a várkastélyé és az izgalmas Vallástudományi Gyűjteményé, mielőtt a nap a festői óvárosban véget érne.",
         "ro": "Ziua începe la impunătoarea Biserică Sfânta Elisabeta. De acolo, vă plimbați prin străduțele întortocheate ale Orașului de Sus până în piața istorică. După vizitarea Vechii Universități, urcați pe dealul castelului. După-amiaza este dedicată Castelului Landgraf și Colecției de Istorie a Religiilor, înainte ca ziua să se încheie în centrul vechi pitoresc.",
-        "en": "Your day starts at the impressive St. Elizabeth's Church. From there, stroll through the winding alleys of the Oberstadt to the historic marketplace. After visiting the Old University, climb the castle hill. The afternoon is dedicated to the Landgrafenschloss and the fascinating Religious Studies Collection, before the day ends in the picturesque old town."
+        "en": "Your day starts at the impressive St. Elizabeth's Church. From there, stroll through the winding alleys of the Oberstadt to the historic marketplace. After visiting the Old University, climb the castle hill. The afternoon is dedicated to the Landgrafenschloss and the fascinating Religious Studies Collection, before the day ends in the picturesque old town.",
+        "tr": "Gününüz etkileyici Aziz Elizabeth Kilisesi'nde başlar. Oradan Oberstadt'ın dolambaçlı sokaklarında tarihi pazaryerine doğru yürüyün. Eski Üniversite'yi ziyaret ettikten sonra kale tepesine tırmanın. Öğleden sonra Landgrafenschloss ve büyüleyici Dini İnançlar Koleksiyonu'na ayrılmıştır; gün ise pitoresk eski kentte sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -299,6 +312,11 @@
           "Marburg is very hilly, comfortable shoes are a must.",
           "The elevator at Pilgrimstein connects the lower and upper town.",
           "Look out for the Marburg Grimm-Dich-Pfad fairy tale figures throughout the city."
+        ],
+        "tr": [
+          "Marburg oldukça engebelidir, rahat ayakkabılar şart.",
+          "Pilgrimstein'deki asansör alt kent ile üst kent arasında bağ kurar.",
+          "Şehir genelinde Marburg Grimm-Dich-Pfad masal figürlerine dikkat edin."
         ]
       }
     },
@@ -315,7 +333,8 @@
             "de": "Elisabethkirche",
             "hu": "Erzsébet-templom",
             "ro": "Biserica Sfânta Elisabeta",
-            "en": "St. Elizabeth's Church"
+            "en": "St. Elizabeth's Church",
+            "tr": "Aziz Elizabeth Kilisesi"
           },
           "coords": [
             8.7702,
@@ -330,7 +349,8 @@
             "de": "Starten Sie flach im Tal.",
             "hu": "Kezdjen sík terepen a völgyben.",
             "ro": "Începeți pe teren plat în vale.",
-            "en": "Start on flat ground in the valley."
+            "en": "Start on flat ground in the valley.",
+            "tr": "Vadi tarafında düz zeminden başlayın."
           }
         },
         {
@@ -338,7 +358,8 @@
             "de": "Lahnradweg",
             "hu": "Lahn kerékpárút",
             "ro": "Traseul de biciclete Lahn",
-            "en": "Lahn Cycle Path"
+            "en": "Lahn Cycle Path",
+            "tr": "Lahn Bisiklet Yolu"
           },
           "coords": [
             8.775,
@@ -353,7 +374,8 @@
             "de": "Wunderschöne Strecke entlang des Flusses.",
             "hu": "Gyönyörű szakasz a folyó mentén.",
             "ro": "Un traseu superb de-a lungul râului.",
-            "en": "Beautiful stretch along the river."
+            "en": "Beautiful stretch along the river.",
+            "tr": "Nehir boyunca güzel bir etap."
           }
         },
         {
@@ -361,7 +383,8 @@
             "de": "Botanischer Garten Marburg",
             "hu": "Marburgi Botanikus Kert",
             "ro": "Grădina Botanică Marburg",
-            "en": "Botanical Garden Marburg"
+            "en": "Botanical Garden Marburg",
+            "tr": "Marburg Botanik Bahçesi"
           },
           "coords": [
             8.8105,
@@ -376,7 +399,8 @@
             "de": "Der neue Garten auf den Lahnbergen bietet viel Platz.",
             "hu": "Az új kert a Lahn-hegyen tágas tereket kínál.",
             "ro": "Noua grădină de pe Lahnberge oferă mult spațiu.",
-            "en": "The new garden on the Lahnberge offers plenty of space."
+            "en": "The new garden on the Lahnberge offers plenty of space.",
+            "tr": "Lahnberge'deki yeni bahçe bol alan sunuyor."
           }
         },
         {
@@ -384,7 +408,8 @@
             "de": "Spiegelslustturm",
             "hu": "Spiegelslust-torony",
             "ro": "Turnul Spiegelslust",
-            "en": "Spiegelslustturm"
+            "en": "Spiegelslustturm",
+            "tr": "Spiegelslustturm"
           },
           "coords": [
             8.7885,
@@ -399,7 +424,8 @@
             "de": "Der Anstieg wird mit dem besten Blick auf Marburg belohnt.",
             "hu": "Az emelkedőt a legjobb marburgi kilátás jutalmazza.",
             "ro": "Urcarea este răsplătită cu cea mai bună priveliște asupra Marburgului.",
-            "en": "The climb is rewarded with the best view of Marburg."
+            "en": "The climb is rewarded with the best view of Marburg.",
+            "tr": "Tırmanış Marburg'un en iyi manzarasıyla ödüllendirir."
           }
         },
         {
@@ -407,7 +433,8 @@
             "de": "Landgrafenschloss Marburg",
             "hu": "Marburgi várkastély",
             "ro": "Castelul Landgraf din Marburg",
-            "en": "Marburg Landgrafenschloss"
+            "en": "Marburg Landgrafenschloss",
+            "tr": "Marburg Landgrafenschloss"
           },
           "coords": [
             8.7668,
@@ -422,7 +449,8 @@
             "de": "Fahren Sie vorsichtig durch die steilen Gassen.",
             "hu": "Óvatosan közlekedjen a meredek utcákon.",
             "ro": "Conduceți cu atenție prin străduțele abrupte.",
-            "en": "Ride carefully through the steep alleys."
+            "en": "Ride carefully through the steep alleys.",
+            "tr": "Engebeli dar sokaklarda dikkatli sürün."
           }
         },
         {
@@ -430,7 +458,8 @@
             "de": "Alte Universität",
             "hu": "Régi Egyetem",
             "ro": "Vechea Universitate",
-            "en": "Old University"
+            "en": "Old University",
+            "tr": "Eski Üniversite"
           },
           "coords": [
             8.7712,
@@ -445,7 +474,8 @@
             "de": "Ein entspannter Abschluss im Tal.",
             "hu": "Nyugodt befejezés a völgyben.",
             "ro": "O încheiere relaxată în vale.",
-            "en": "A relaxed conclusion in the valley."
+            "en": "A relaxed conclusion in the valley.",
+            "tr": "Vadide rahat bir son."
           }
         }
       ],
@@ -453,7 +483,8 @@
         "de": "Diese Radtour kombiniert die Lahn-Aue mit den Höhenzügen um Marburg. Nach dem Start an der Elisabethkirche radeln Sie zum Neuen Botanischen Garten. Es folgt der sportliche Anstieg zum Spiegelslustturm für das perfekte Panorama. Über den Schlossberg geht es zurück in die Altstadt zur Alten Universität.",
         "hu": "Ez a kerékpártúra ötvözi a Lahn-völgyet a Marburg körüli dombokkal. Az Erzsébet-templomtól az új Botanikus Kertig tekerünk. Ezután következik a sportos emelkedő a Spiegelslust-toronyhoz a tökéletes panorámáért. A várhegyen keresztül térünk vissza az óvárosba a Régi Egyetemhez.",
         "ro": "Acest tur cu bicicleta combină lunca râului Lahn cu dealurile din jurul Marburgului. După startul de la Biserica Sfânta Elisabeta, pedalați spre Noua Grădină Botanică. Urmează urcarea sportivă spre Turnul Spiegelslust pentru o panoramă perfectă. Prin dealul castelului reveniți în centrul vechi la Vechea Universitate.",
-        "en": "This bike tour combines the Lahn valley with the ridges around Marburg. After starting at St. Elizabeth's Church, cycle to the New Botanical Garden. This is followed by a sporty climb to the Spiegelslustturm for the perfect panorama. Via the castle hill, return to the old town to the Old University."
+        "en": "This bike tour combines the Lahn valley with the ridges around Marburg. After starting at St. Elizabeth's Church, cycle to the New Botanical Garden. This is followed by a sporty climb to the Spiegelslustturm for the perfect panorama. Via the castle hill, return to the old town to the Old University.",
+        "tr": "Bu bisiklet turu Lahn vadisini Marburg çevresindeki sırtlarla birleştirir. Aziz Elizabeth Kilisesi'nde başlayıp Yeni Botanik Bahçe'ye pedal çevirin. Bunu mükemmel panorama için Spiegelslustturm'a sportif bir tırmanış takip eder. Kale tepesinden Eski Üniversite'ye geri dönerek eski kente varırsınız."
       },
       "gastro_picks": {
         "de": [
@@ -557,6 +588,11 @@
           "An e-bike is recommended for the Lahnberge hills.",
           "There is partial cobblestone in the Oberstadt.",
           "Use the Lahn cycle path for flat sections."
+        ],
+        "tr": [
+          "Lahnberge tepeleri için bir e-bisiklet tavsiye edilir.",
+          "Oberstadt'ta kısmi parke taşları vardır.",
+          "Düz bölümler için Lahn bisiklet yolunu kullanın."
         ]
       }
     },
@@ -573,7 +609,8 @@
             "de": "Elisabethkirche",
             "hu": "Erzsébet-templom",
             "ro": "Biserica Sfânta Elisabeta",
-            "en": "St. Elizabeth's Church"
+            "en": "St. Elizabeth's Church",
+            "tr": "Aziz Elizabeth Kilisesi"
           },
           "coords": [
             8.7702,
@@ -588,7 +625,8 @@
             "de": "Parkhaus Nord ist in direkter Nähe.",
             "hu": "Az északi parkolóház közvetlen közelben van.",
             "ro": "Parcarea Nord este în imediata apropiere.",
-            "en": "Parkhaus Nord is in the immediate vicinity."
+            "en": "Parkhaus Nord is in the immediate vicinity.",
+            "tr": "Parkhaus Nord hemen yakınında."
           }
         },
         {
@@ -596,7 +634,8 @@
             "de": "Marburger Oberstadt",
             "hu": "Marburgi felsőváros",
             "ro": "Orașul de Sus din Marburg",
-            "en": "Marburg Oberstadt"
+            "en": "Marburg Oberstadt",
+            "tr": "Marburg Oberstadt"
           },
           "coords": [
             8.7695,
@@ -611,7 +650,8 @@
             "de": "Lassen Sie das Auto stehen und erkunden Sie die Gassen zu Fuß.",
             "hu": "Hagyja az autót, és fedezze fel az utcákat gyalog.",
             "ro": "Lăsați mașina și explorați străduțele la pas.",
-            "en": "Leave the car and explore the alleys on foot."
+            "en": "Leave the car and explore the alleys on foot.",
+            "tr": "Arabayı bırakın ve sokakları yürüyerek keşfedin."
           }
         },
         {
@@ -619,7 +659,8 @@
             "de": "Landgrafenschloss Marburg",
             "hu": "Marburgi várkastély",
             "ro": "Castelul Landgraf din Marburg",
-            "en": "Marburg Landgrafenschloss"
+            "en": "Marburg Landgrafenschloss",
+            "tr": "Marburg Landgrafenschloss"
           },
           "coords": [
             8.7668,
@@ -634,7 +675,8 @@
             "de": "Wenige Parkplätze direkt am Schloss, besser im Parkhaus Oberstadt.",
             "hu": "Kevés parkolóhely a várnál, jobb a felsővárosi parkolóház.",
             "ro": "Puține locuri de parcare la castel, mai bine în parcarea Oberstadt.",
-            "en": "Few parking spots at the castle, better use the Oberstadt parking garage."
+            "en": "Few parking spots at the castle, better use the Oberstadt parking garage.",
+            "tr": "Kale önünde az sayıda park yeri var, Oberstadt otoparkını kullanmak daha iyidir."
           }
         },
         {
@@ -642,7 +684,8 @@
             "de": "Spiegelslustturm",
             "hu": "Spiegelslust-torony",
             "ro": "Turnul Spiegelslust",
-            "en": "Spiegelslustturm"
+            "en": "Spiegelslustturm",
+            "tr": "Spiegelslustturm"
           },
           "coords": [
             8.7885,
@@ -657,7 +700,8 @@
             "de": "Bequeme Auffahrt zum Aussichtspunkt.",
             "hu": "Kényelmes feljutás autóval a kilátóhoz.",
             "ro": "Acces auto facil până la punctul de belvedere.",
-            "en": "Comfortable drive up to the viewpoint."
+            "en": "Comfortable drive up to the viewpoint.",
+            "tr": "Gezinti alanına konforlu bir sürüş."
           }
         },
         {
@@ -665,7 +709,8 @@
             "de": "Botanischer Garten Marburg",
             "hu": "Marburgi Botanikus Kert",
             "ro": "Grădina Botanică Marburg",
-            "en": "Botanical Garden Marburg"
+            "en": "Botanical Garden Marburg",
+            "tr": "Marburg Botanik Bahçesi"
           },
           "coords": [
             8.8105,
@@ -680,7 +725,8 @@
             "de": "Großer Parkplatz auf den Lahnbergen.",
             "hu": "Nagy parkoló a Lahn-hegyen.",
             "ro": "Parcare mare pe Lahnberge.",
-            "en": "Large parking area on the Lahnberge."
+            "en": "Large parking area on the Lahnberge.",
+            "tr": "Lahnberge'de geniş bir otopark alanı."
           }
         },
         {
@@ -688,7 +734,8 @@
             "de": "Alte Universität",
             "hu": "Régi Egyetem",
             "ro": "Vechea Universitate",
-            "en": "Old University"
+            "en": "Old University",
+            "tr": "Eski Üniversite"
           },
           "coords": [
             8.7712,
@@ -703,7 +750,8 @@
             "de": "Parkhaus Erlenring nutzen.",
             "hu": "Használja az Erlenring parkolóházat.",
             "ro": "Folosiți parcarea Erlenring.",
-            "en": "Use the Erlenring parking garage."
+            "en": "Use the Erlenring parking garage.",
+            "tr": "Erlenring otoparkını kullanın."
           }
         }
       ],
@@ -711,7 +759,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ebenen Marburgs. Nach der Elisabethkirche und der Oberstadt fahren Sie hinauf zum Schloss. Danach geht es zu den Lahnbergen: erst zum Spiegelslustturm für den Ausblick, dann in den weitläufigen Botanischen Garten, bevor Sie den Tag am Lahnufer beenden.",
         "hu": "Autóval kényelmesen elérheti Marburg különböző szintjeit. Az Erzsébet-templom és a felsőváros után felhajtunk a várhoz. Ezután a Lahn-hegy következik: előbb a Spiegelslust-torony a kilátásért, majd a tágas Botanikus Kert, mielőtt a napot a Lahn partján zárnánk.",
         "ro": "Cu mașina ajungeți ușor la diferitele niveluri ale Marburgului. După Biserica Sfânta Elisabeta și Orașul de Sus, urcați spre castel. Urmează Lahnberge: mai întâi Turnul Spiegelslust pentru priveliște, apoi Grădina Botanică vastă, înainte de a încheia ziua pe malul râului Lahn.",
-        "en": "By car, you can easily reach the different levels of Marburg. After St. Elizabeth's Church and the Oberstadt, drive up to the castle. Then head to the Lahnberge: first to the Spiegelslustturm for the view, then to the extensive Botanical Garden, before ending the day on the banks of the Lahn."
+        "en": "By car, you can easily reach the different levels of Marburg. After St. Elizabeth's Church and the Oberstadt, drive up to the castle. Then head to the Lahnberge: first to the Spiegelslustturm for the view, then to the extensive Botanical Garden, before ending the day on the banks of the Lahn.",
+        "tr": "Arabayla Marburg'un farklı seviyelerine kolayca ulaşabilirsiniz. Aziz Elizabeth Kilisesi ve Oberstadt'tan sonra kaleye çıkın. Ardından Lahnberge'ye yönelin: önce manzara için Spiegelslustturm, sonra geniş Botanik Bahçe ve günü Lahn kıyısında sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -815,6 +864,11 @@
           "Parking in the Oberstadt is difficult, use parking garages.",
           "The roads to the castle are very narrow.",
           "A parking ticket is often valid for multiple zones."
+        ],
+        "tr": [
+          "Oberstadt'ta park etmek zordur, otoparkları kullanın.",
+          "Kaleye giden yollar çok dardır.",
+          "Bir park bileti genellikle birden fazla bölge için geçerlidir."
         ]
       }
     },
@@ -831,7 +885,8 @@
             "de": "Elisabethkirche",
             "hu": "Erzsébet-templom",
             "ro": "Biserica Sfânta Elisabeta",
-            "en": "St. Elizabeth's Church"
+            "en": "St. Elizabeth's Church",
+            "tr": "Aziz Elizabeth Kilisesi"
           },
           "coords": [
             8.7702,
@@ -846,7 +901,8 @@
             "de": "Bushaltestelle 'Elisabethkirche' direkt davor.",
             "hu": "'Elisabethkirche' buszmegálló közvetlenül előtte.",
             "ro": "Stația de autobuz 'Elisabethkirche' este chiar în față.",
-            "en": "Bus stop 'Elisabethkirche' is right in front."
+            "en": "Bus stop 'Elisabethkirche' is right in front.",
+            "tr": "'Elisabethkirche' otobüs durağı tam karşısında."
           }
         },
         {
@@ -854,7 +910,8 @@
             "de": "Marburger Oberstadt",
             "hu": "Marburgi felsőváros",
             "ro": "Orașul de Sus din Marburg",
-            "en": "Marburg Oberstadt"
+            "en": "Marburg Oberstadt",
+            "tr": "Marburg Oberstadt"
           },
           "coords": [
             8.7695,
@@ -869,7 +926,8 @@
             "de": "Kurzer Spaziergang oder Schlossbus (Linie 10) nutzen.",
             "hu": "Rövid séta vagy használja a várbuszt (10-es vonal).",
             "ro": "O scurtă plimbare sau folosiți autobuzul castelului (linia 10).",
-            "en": "Short walk or use the Castle Bus (Line 10)."
+            "en": "Short walk or use the Castle Bus (Line 10).",
+            "tr": "Kısa yürüyüş veya Burg Otobüsü'nü (Hat 10) kullanın."
           }
         },
         {
@@ -877,7 +935,8 @@
             "de": "Landgrafenschloss Marburg",
             "hu": "Marburgi várkastély",
             "ro": "Castelul Landgraf din Marburg",
-            "en": "Marburg Landgrafenschloss"
+            "en": "Marburg Landgrafenschloss",
+            "tr": "Marburg Landgrafenschloss"
           },
           "coords": [
             8.7668,
@@ -892,7 +951,8 @@
             "de": "Die Linie 10 bringt Sie direkt zum Schlossberg.",
             "hu": "A 10-es busz közvetlenül a várhegyre visz.",
             "ro": "Linia 10 vă duce direct pe dealul castelului.",
-            "en": "Line 10 takes you directly to the castle hill."
+            "en": "Line 10 takes you directly to the castle hill.",
+            "tr": "Hat 10 sizi doğrudan kale tepesine götürür."
           }
         },
         {
@@ -900,7 +960,8 @@
             "de": "Botanischer Garten Marburg",
             "hu": "Marburgi Botanikus Kert",
             "ro": "Grădina Botanică Marburg",
-            "en": "Botanical Garden Marburg"
+            "en": "Botanical Garden Marburg",
+            "tr": "Botanik Bahçe Marburg"
           },
           "coords": [
             8.8105,
@@ -915,7 +976,8 @@
             "de": "Buslinie 7 oder 9 Richtung Lahnberge.",
             "hu": "7-es vagy 9-es busz a Lahn-hegy irányába.",
             "ro": "Linia 7 sau 9 spre Lahnberge.",
-            "en": "Bus line 7 or 9 towards Lahnberge."
+            "en": "Bus line 7 or 9 towards Lahnberge.",
+            "tr": "Lahnberge yönüne giden 7 veya 9 numaralı otobüs."
           }
         },
         {
@@ -923,7 +985,8 @@
             "de": "Alte Universität",
             "hu": "Régi Egyetem",
             "ro": "Vechea Universitate",
-            "en": "Old University"
+            "en": "Old University",
+            "tr": "Eski Üniversite"
           },
           "coords": [
             8.7712,
@@ -938,7 +1001,8 @@
             "de": "Zentraler Umstieg am Rudolf-Platz möglich.",
             "hu": "Központi átszállás a Rudolf-Platznál.",
             "ro": "Schimb central posibil la Rudolf-Platz.",
-            "en": "Central transfer possible at Rudolf-Platz."
+            "en": "Central transfer possible at Rudolf-Platz.",
+            "tr": "Rudolf-Platz'ta merkezi aktarma imkânı mevcut."
           }
         },
         {
@@ -946,7 +1010,8 @@
             "de": "Religionskundliche Sammlung",
             "hu": "Vallástudományi Gyűjtemény",
             "ro": "Colecția de Istorie a Religiilor",
-            "en": "Religionskundliche Sammlung"
+            "en": "Religionskundliche Sammlung",
+            "tr": "Dinler Tarihi Koleksiyonu"
           },
           "coords": [
             8.7725,
@@ -961,7 +1026,8 @@
             "de": "Zu Fuß von der Alten Universität erreichbar.",
             "hu": "Gyalogosan elérhető a Régi Egyetemtől.",
             "ro": "Accesibil pe jos de la Vechea Universitate.",
-            "en": "Within walking distance from the Old University."
+            "en": "Within walking distance from the Old University.",
+            "tr": "Eski Üniversite'ye yürüme mesafesinde."
           }
         }
       ],
@@ -969,7 +1035,8 @@
         "de": "Marburg lässt sich hervorragend mit dem Bus erkunden. Der Schlossbus erspart Ihnen den steilen Aufstieg. Nach dem Stadtzentrum bringt Sie der Stadtbus zu den Lahnbergen in den Botanischen Garten. Ein perfekt vernetzter Tag zwischen Kultur und Natur.",
         "hu": "Marburg kiválóan felfedezhető busszal. A várbusz megkíméli a meredek emelkedőtől. A városközpont után a helyi járat kivisz a Lahn-hegyre a Botanikus Kertbe. Tökéletesen összekapcsolt nap a kultúra és a természet között.",
         "ro": "Marburg poate fi explorat excelent cu autobuzul. Autobuzul castelului vă scutește de urcarea abruptă. După centrul orașului, autobuzul urban vă duce pe Lahnberge la Grădina Botanică. O zi perfect conectată între cultură și natură.",
-        "en": "Marburg can be explored excellently by bus. The Castle Bus saves you the steep climb. After the city center, the city bus takes you to the Lahnberge hills and the Botanical Garden. A perfectly networked day between culture and nature."
+        "en": "Marburg can be explored excellently by bus. The Castle Bus saves you the steep climb. After the city center, the city bus takes you to the Lahnberge hills and the Botanical Garden. A perfectly networked day between culture and nature.",
+        "tr": "Marburg otobüsle mükemmel keşfedilebilir. Burg Otobüsü dik tırmanışı kurtarır. Şehir merkezinden sonra şehir içi otobüs sizi Lahnberge tepelerine ve Botanik Bahçe'ye götürür. Kültür ve doğa arasında kusursuz şekilde bağlı bir gün."
       },
       "gastro_picks": {
         "de": [
@@ -1073,6 +1140,11 @@
           "A day ticket for zone 1 is usually sufficient.",
           "The RMV app shows real-time departures.",
           "Line 10 (Castle Bus) runs every half hour."
+        ],
+        "tr": [
+          "Genellikle 1. bölge için günlük bilet yeterlidir.",
+          "RMV uygulaması gerçek zamanlı kalkışları gösterir.",
+          "Hat 10 (Burg Otobüsü) her yarım saatte bir çalışır."
         ]
       }
     }

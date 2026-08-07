@@ -31,7 +31,8 @@
             "de": "Erfahren Sie mehr über den Bauxitabbau.",
             "hu": "Ismerje meg a bauxitbányászatot.",
             "ro": "Aflați despre minieritul de bauxită.",
-            "en": "Learn about the bauxite mining history."
+            "en": "Learn about the bauxite mining history.",
+            "tr": "Boksit madenciliği tarihini öğrenin."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Lokales Obst und Kunsthandwerk.",
             "hu": "Helyi gyümölcsök és kézműves áruk.",
             "ro": "Fructe locale și artizanat.",
-            "en": "Local fruits and handicrafts."
+            "en": "Local fruits and handicrafts.",
+            "tr": "Yerel meyveler ve el sanatları."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Blick auf den Demerara-Fluss.",
             "hu": "Kilátás a Demerara folyóra.",
             "ro": "Vedere spre râul Demerara.",
-            "en": "View of the Demerara River."
+            "en": "View of the Demerara River.",
+            "tr": "Demerara Nehri manzarası."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein koloniales Gästehaus am Fluss.",
             "hu": "Koloniális vendégház a folyóparton.",
             "ro": "O casă de oaspeți colonială pe râu.",
-            "en": "A colonial guest house by the river."
+            "en": "A colonial guest house by the river.",
+            "tr": "Nehir kenarında bir sömürge misafirhanesi."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Probieren Sie fangfrischen Fisch.",
             "hu": "Kóstolja meg a frissen fogott halat.",
             "ro": "Gustați peștele proaspăt prins.",
-            "en": "Taste the freshly caught river fish."
+            "en": "Taste the freshly caught river fish.",
+            "tr": "Taze yakalanmış nehir balıklarını tadın."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ruhiger Weg unter Palmen.",
             "hu": "Csendes út a pálmák alatt.",
             "ro": "Alee liniștită sub palmiere.",
-            "en": "Quiet path under the palms."
+            "en": "Quiet path under the palms.",
+            "tr": "Palmiye ağaçları altındaki sessiz patika."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "In Linden erkunden wir die Geschichte der Bauxit-Hauptstadt. Wir beginnen im Museum und dem lebhaften Mackenzie-Markt.\n\nMittags besuchen wir das elegante Watooka House am Ufer des Demerara.\n\nNach dem Essen genießen wir die Ruhe am Flussufer.\n\nEine entspannte Tour durch die Bergbaugeschichte.",
         "hu": "Lindenben a bauxit-főváros történetét fedezzük fel. A múzeumban és a nyüzsgő Mackenzie piacon kezdünk.\n\nDélben az elegáns Watooka House-t látogatjuk meg a Demerara partján.\n\nAz ebéd után a folyóparti sétány csendjét élvezzük.\n\nPihentető túra a bányászati múlt nyomában.",
         "ro": "În Linden explorăm istoria capitalei bauxitei. Începem la muzeu și la piața animată Mackenzie.\n\nLa prânz vizităm eleganta casă Watooka de pe malul râului Demerara.\n\nDupă prânz ne bucurăm de liniștea falezei.\n\nUn tur relaxant prin istoria minieră.",
-        "en": "In Linden, we explore the history of the bauxite capital. We start at the museum and the lively Mackenzie market.\n\nMidday visit to the elegant Watooka House on the banks of the Demerara.\n\nAfter lunch, we enjoy the peace of the riverside walk.\n\nA relaxing tour through mining heritage."
+        "en": "In Linden, we explore the history of the bauxite capital. We start at the museum and the lively Mackenzie market.\n\nMidday visit to the elegant Watooka House on the banks of the Demerara.\n\nAfter lunch, we enjoy the peace of the riverside walk.\n\nA relaxing tour through mining heritage.",
+        "tr": "Linden'de boksit başkentinin tarihini keşfediyoruz. Müze ve canlı Mackenzie pazarından başlıyoruz.\n\nÖğlen Demerara kıyısındaki zarif Watooka House'u ziyaret.\n\nÖğle yemeğinden sonra nehir kıyısı yürüyüşünün huzurunun tadını çıkarıyoruz.\n\nMadencilik mirası içinde dinlendirici bir tur."
       },
       "gastro_picks": {
         "de": [
@@ -237,6 +244,12 @@
           "Wear comfortable walking shoes.",
           "Hydration is key.",
           "Book Watooka House in advance."
+        ],
+        "tr": [
+          "Hava hızla değişebilir.",
+          "Rahat yürüyüş ayakkabıları giyin.",
+          "Susuz kalmamak önemli.",
+          "Watooka House'u önceden rezervasyon yapın."
         ]
       }
     },
@@ -263,7 +276,8 @@
             "de": "Einführung in die Stadt.",
             "hu": "Bevezetés a városba.",
             "ro": "Introducere în istoria orașului.",
-            "en": "Introduction to the city."
+            "en": "Introduction to the city.",
+            "tr": "Şehre giriş bilgisi."
           }
         },
         {
@@ -281,7 +295,8 @@
             "de": "Radeln Sie am Flussufer.",
             "hu": "Kerekezzen a folyóparton.",
             "ro": "Pedalați pe malul râului.",
-            "en": "Cycle along the riverbank."
+            "en": "Cycle along the riverbank.",
+            "tr": "Nehir kıyısı boyunca bisiklet sürün."
           }
         },
         {
@@ -299,7 +314,8 @@
             "de": "Ein atemberaubender blauer See.",
             "hu": "Lélegzetelállító kék tó.",
             "ro": "Un lac albastru uimitor.",
-            "en": "Stunning blue water lake."
+            "en": "Stunning blue water lake.",
+            "tr": "Çarpıcı mavi suya sahip göl."
           }
         },
         {
@@ -317,7 +333,8 @@
             "de": "Lokales Leben pur.",
             "hu": "Igazi helyi élet.",
             "ro": "Viață locală autentică.",
-            "en": "Pure local life."
+            "en": "Pure local life.",
+            "tr": "Saf yerel hayat."
           }
         },
         {
@@ -335,7 +352,8 @@
             "de": "Abschluss am Wasser.",
             "hu": "Zárás a víznél.",
             "ro": "Final la malul apei.",
-            "en": "Finish by the water."
+            "en": "Finish by the water.",
+            "tr": "Geziyi su kenarında bitirin."
           }
         }
       ],
@@ -343,7 +361,8 @@
         "de": "Mit dem Fahrrad erreichen wir den berühmten Blue Lake außerhalb von Linden. Vorher besuchen wir das Museum und Watooka House.\n\nDer Blue Lake bietet eine einzigartige Kulisse für Fotos.\n\nZurück in Mackenzie tauchen wir in das geschäftige Treiben der High Street ein.\n\nEine sportliche Tour zu den Naturwundern.",
         "hu": "Kerékpárral elérjük a Linden melletti híres Kék-tavat. Előtte megnézzük a múzeumot és a Watooka House-t.\n\nA Kék-tó egyedülálló helyszín a fotózáshoz.\n\nVisszatérve Mackenzie-be, elmerülünk a High Street forgatagában.\n\nSportos túra a természeti csodákhoz.",
         "ro": "Cu bicicleta ajungem la celebrul Lac Albastru de lângă Linden. Înainte vizităm muzeul și casa Watooka.\n\nLacul Albastru oferă un cadru unic pentru fotografii.\n\nÎntorși în Mackenzie, ne cufundăm în agitația de pe High Street.\n\nUn tur sportiv spre minunile naturii.",
-        "en": "By bike, we explore Linden's natural surroundings. First, we visit the museum and Watooka House.\n\nThe Blue Lake provides a unique backdrop for photos with its turquoise water.\n\nBack in Mackenzie, we dive into the bustle of High Street.\n\nAn active tour reaching local wonders."
+        "en": "By bike, we explore Linden's natural surroundings. First, we visit the museum and Watooka House.\n\nThe Blue Lake provides a unique backdrop for photos with its turquoise water.\n\nBack in Mackenzie, we dive into the bustle of High Street.\n\nAn active tour reaching local wonders.",
+        "tr": "Bisikletle Linden'in doğal çevresini keşfediyoruz. İlk olarak müze ve Watooka House'u ziyaret ediyoruz.\n\nTurkuaz suyu ile Mavi Göl fotoğraflar için benzersiz bir arka plan sunar.\n\nMackenzie'ye geri dönünce High Street'in hareketliliğine dalıyoruz.\n\nYerel harikaları kapsayan aktif bir tur."
       },
       "gastro_picks": {
         "de": [
@@ -451,6 +470,12 @@
           "Wear a helmet.",
           "Check your brakes.",
           "Sunscreen is mandatory."
+        ],
+        "tr": [
+          "Gölle giden yol kumlu.",
+          "Kask takın.",
+          "Frenlerinizi kontrol edin.",
+          "Güneş kremi zorunludur."
         ]
       }
     },
@@ -477,7 +502,8 @@
             "de": "Parken am Mackenzie Square.",
             "hu": "Parkolás a Mackenzie téren.",
             "ro": "Parcare la Mackenzie Square.",
-            "en": "Park at Mackenzie Square."
+            "en": "Park at Mackenzie Square.",
+            "tr": "Mackenzie Meydanı'na park edin."
           }
         },
         {
@@ -495,7 +521,8 @@
             "de": "Gehdistanz vom Museum.",
             "hu": "Sétatávolság a múzeumtól.",
             "ro": "Distanță de mers de la muzeu.",
-            "en": "Walking distance from museum."
+            "en": "Walking distance from museum.",
+            "tr": "Müzeye yürüme mesafesinde."
           }
         },
         {
@@ -513,7 +540,8 @@
             "de": "Zweiter Cluster: Minenfahrzeuge.",
             "hu": "Második klaszter: bányagépek.",
             "ro": "Al doilea cluster: utilaje miniere.",
-            "en": "Second cluster: mining area."
+            "en": "Second cluster: mining area.",
+            "tr": "İkinci küme: madencilik alanı."
           }
         },
         {
@@ -531,7 +559,8 @@
             "de": "Dritter Cluster: Flussseite.",
             "hu": "Harmadik klaszter: folyópart.",
             "ro": "Al treilea cluster: zona râului.",
-            "en": "Third cluster: riverfront."
+            "en": "Third cluster: riverfront.",
+            "tr": "Üçüncü küme: nehir kıyısı."
           }
         },
         {
@@ -549,7 +578,8 @@
             "de": "Essen mit Aussicht.",
             "hu": "Étkezés kilátással.",
             "ro": "Masă cu priveliște.",
-            "en": "Lunch with a view."
+            "en": "Lunch with a view.",
+            "tr": "Manzaralı öğle yemeği."
           }
         },
         {
@@ -567,7 +597,8 @@
             "de": "Ein Relikt aus dem Jahr 1855.",
             "hu": "Egy 1855-ös relikvia.",
             "ro": "O relicvă din 1855.",
-            "en": "A relic from 1855."
+            "en": "A relic from 1855.",
+            "tr": "1855'ten kalma bir kalıntı."
           }
         },
         {
@@ -585,7 +616,8 @@
             "de": "Blick nach Westen.",
             "hu": "Nyugati kilátás.",
             "ro": "Vedere spre vest.",
-            "en": "Westward river views."
+            "en": "Westward river views.",
+            "tr": "Batıya doğru nehir manzaraları."
           }
         }
       ],
@@ -593,7 +625,8 @@
         "de": "Das Auto erlaubt uns den Besuch des Blue Lake und des historischen Wasserrads in Christianburg.\n\nWir erkunden das Zentrum, fahren dann zum See und kehren für ein stilvolles Mittagessen nach Watooka zurück.\n\nDer Nachmittag endet an der historischen Sägemühle.\n\nEin kompletter Überblick über die Region Linden.",
         "hu": "Az autó lehetővé teszi a Kék-tó és a christianburgi történelmi vízikerék meglátogatását.\n\nBejárjuk a központot, elautózunk a tóhoz, majd visszatérünk Watookába egy elegáns ebédre.\n\nA délután a régi fűrészmalom maradványainál zárul.\n\nTeljes áttekintés Linden környékéről.",
         "ro": "Mașina ne permite să vizităm Lacul Albastru și roata istorică de apă din Christianburg.\n\nExplorăm centrul, mergem la lac și revenim la Watooka pentru un prânz elegant.\n\nDupă-amiaza se încheie la vestigiile vechiului gater.\n\nO imagine completă a regiunii Linden.",
-        "en": "The car allows us to visit both the Blue Lake and the historic waterwheel in Christianburg.\n\nWe explore the center, drive to the lake, and return to Watooka for a stylish lunch.\n\nAfternoon concludes at the remains of the old sawmill.\n\nA comprehensive overview of the Linden area."
+        "en": "The car allows us to visit both the Blue Lake and the historic waterwheel in Christianburg.\n\nWe explore the center, drive to the lake, and return to Watooka for a stylish lunch.\n\nAfternoon concludes at the remains of the old sawmill.\n\nA comprehensive overview of the Linden area.",
+        "tr": "Araba ile Mavi Göl ve Christianburg'daki tarihi su çarkını ziyaret edebiliriz.\n\nMerkezi keşfedip göle doğru sürüyoruz ve şık bir öğle yemeği için Watooka'ya geri dönüyoruz.\n\nÖğleden sonra eski kereste değirmeninin kalıntılarında sona erer.\n\nLinden bölgesinin kapsamlı bir özeti."
       },
       "gastro_picks": {
         "de": [
@@ -701,6 +734,12 @@
           "Watch out for mining trucks.",
           "Parking is usually not an issue.",
           "Visit the waterwheel during daylight."
+        ],
+        "tr": [
+          "Çakıllı yollarda dikkatli sürün.",
+          "Kamyonlara dikkat edin.",
+          "Park yeri genellikle sorun olmaz.",
+          "Su çarkını gündüz ziyaret edin."
         ]
       }
     },
@@ -727,7 +766,8 @@
             "de": "Minibus-Drehkreuz.",
             "hu": "Minibusz csomópont.",
             "ro": "Nod de microbuze.",
-            "en": "Minibus transport hub."
+            "en": "Minibus transport hub.",
+            "tr": "Minibüs ulaşım merkezi."
           }
         },
         {
@@ -745,7 +785,8 @@
             "de": "Kurze Fahrt vom Markt.",
             "hu": "Rövid út a piactól.",
             "ro": "Scurtă cursă de la piață.",
-            "en": "Short ride from the market."
+            "en": "Short ride from the market.",
+            "tr": "Pazara kısa mesafe."
           }
         },
         {
@@ -763,7 +804,8 @@
             "de": "Nehmen Sie ein Taxi zum Ufer.",
             "hu": "Hívjon taxit a folyóparthoz.",
             "ro": "Luați un taxi spre mal.",
-            "en": "Take a short taxi to the riverbank."
+            "en": "Take a short taxi to the riverbank.",
+            "tr": "Nehir kıyısına kısa bir taksiye binin."
           }
         },
         {
@@ -781,7 +823,8 @@
             "de": "Ruhiger Mittagstisch.",
             "hu": "Csendes ebédhely.",
             "ro": "Loc de prânz liniștit.",
-            "en": "Quiet lunch spot."
+            "en": "Quiet lunch spot.",
+            "tr": "Sakin öğle yemeği mekânı."
           }
         },
         {
@@ -799,7 +842,8 @@
             "de": "Überquerung nach Wismar.",
             "hu": "Átkelés Wismarba.",
             "ro": "Traversarea spre Wismar.",
-            "en": "Crossing over to Wismar."
+            "en": "Crossing over to Wismar.",
+            "tr": "Wismar’a geçiş."
           }
         },
         {
@@ -817,7 +861,8 @@
             "de": "Lokalbusse nach Christianburg.",
             "hu": "Helyi buszok Christianburgba.",
             "ro": "Autobuze locale spre Christianburg.",
-            "en": "Local buses to Christianburg."
+            "en": "Local buses to Christianburg.",
+            "tr": "Christianburg’a giden yerel otobüsler."
           }
         }
       ],
@@ -825,7 +870,8 @@
         "de": "Mit Taxis und Minibussen erkunden wir beide Seiten des Flusses. Vom Markt zum Museum und dann zum eleganten Watooka-Viertel.\n\nWir genießen ein Mittagessen am Fluss, bevor wir die Brücke nach Wismar überqueren.\n\nDer Nachmittag endet am historischen Wasserrad von Christianburg.\n\nEin authentisches Erlebnis des Alltags in Linden.",
         "hu": "Taxikkal és minibuszokkal fedezzük fel a folyó mindkét oldalát. A piactól a múzeumhoz, majd az elegáns Watooka negyedbe megyünk.\n\nÉlvezzük az ebédet a folyóparton, mielőtt átkelnénk a hídon Wismarba.\n\nA délután a christianburgi történelmi vízikereknél zárul.\n\nHiteles élmény Linden mindennapjairól.",
         "ro": "Cu taxiuri și microbuze explorăm ambele maluri ale râului. De la piață la muzeu și apoi în elegantul cartier Watooka.\n\nNe bucurăm de prânz pe malul râului înainte de a traversa podul spre Wismar.\n\nDupă-amiaza se încheie la roata istorică din Christianburg.\n\nO experiență autentică a vieții de zi cu zi din Linden.",
-        "en": "Using taxis and minibuses, we explore both sides of the river. From the market to the museum and then to the elegant Watooka district.\n\nEnjoy lunch by the river before crossing the bridge to Wismar.\n\nAfternoon concludes at the historic Christianburg waterwheel.\n\nAn authentic experience of daily life in Linden."
+        "en": "Using taxis and minibuses, we explore both sides of the river. From the market to the museum and then to the elegant Watooka district.\n\nEnjoy lunch by the river before crossing the bridge to Wismar.\n\nAfternoon concludes at the historic Christianburg waterwheel.\n\nAn authentic experience of daily life in Linden.",
+        "tr": "Taksi ve minibüsleri kullanarak nehrin her iki yakasını geziyoruz. Pazardan müzeye, oradan da şık Watooka semtine gidiyoruz.\n\nKöprüyü geçmeden önce nehir kıyısında öğle yemeğinin tadını çıkarın.\n\nÖğleden sonra tarihi Christianburg su çarkında sona eriyor.\n\nLinden’de günlük yaşamın otantik bir deneyimi."
       },
       "gastro_picks": {
         "de": [
@@ -933,6 +979,12 @@
           "Agree on the price beforehand.",
           "The bridge can be congested.",
           "Ask locals for directions."
+        ],
+        "tr": [
+          "Taksiler genellikle otobüslerden daha hızlıdır.",
+          "Fiyatı önceden kararlaştırın.",
+          "Köprü kalabalık olabilir.",
+          "Yön için yerlilere sorun."
         ]
       }
     }

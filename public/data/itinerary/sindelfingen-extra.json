@@ -31,7 +31,8 @@
             "de": "Der belebte Mittelpunkt mit Wochenmarkt-Atmosphäre.",
             "hu": "A város nyüzsgő központja, heti piaci hangulattal.",
             "ro": "Centrul vibrant al orașului cu atmosferă de piață săptămânală.",
-            "en": "The lively center with a weekly market atmosphere."
+            "en": "The lively center with a weekly market atmosphere.",
+            "tr": "Haftalık pazar atmosferine sahip canlı merkez."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Symbol der internationalen Städtepartnerschaften.",
             "hu": "A nemzetközi testvérvárosi kapcsolatok jelképe.",
             "ro": "Simbol al parteneriatelor internaționale între orașe.",
-            "en": "Symbol of international city partnerships."
+            "en": "Symbol of international city partnerships.",
+            "tr": "Uluslararası şehir ortaklıklarının simgesi."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Eine der ältesten Kirchen in Baden-Württemberg.",
             "hu": "Baden-Württemberg egyik legrégebbi temploma.",
             "ro": "Una dintre cele mai vechi biserici din Baden-Württemberg.",
-            "en": "One of the oldest churches in Baden-Württemberg."
+            "en": "One of the oldest churches in Baden-Württemberg.",
+            "tr": "Baden-Württemberg'deki en eski kiliselerden biri."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Wunderschönes Fachwerkhaus, heute ein Stadtmuseum.",
             "hu": "Gyönyörű favázas épület, ma városi múzeum.",
             "ro": "O casă superbă cu pereți de lemn, azi muzeu al orașului.",
-            "en": "Beautiful half-timbered house, now a city museum."
+            "en": "Beautiful half-timbered house, now a city museum.",
+            "tr": "Güzel ahşap çerçeveli ev, şimdi bir kent müzesi."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Erfahren Sie alles über die Textilgeschichte der Stadt.",
             "hu": "Ismerje meg a város textilipari múltját.",
             "ro": "Aflați totul despre istoria textilă a orașului.",
-            "en": "Learn everything about the city's textile history."
+            "en": "Learn everything about the city's textile history.",
+            "tr": "Şehrin tekstil tarihi hakkında her şeyi öğrenin."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Idyllischer See für einen entspannten Spaziergang.",
             "hu": "Idilli tó egy pihentető sétához.",
             "ro": "Lac idilic pentru o plimbare relaxantă.",
-            "en": "Idyllic lake for a relaxed walk."
+            "en": "Idyllic lake for a relaxed walk.",
+            "tr": "Rahat bir yürüyüş için huzurlu göl."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Weitläufige Parkanlage mit schönen Teichen.",
             "hu": "Tágas parkos terület szép tavakkal.",
             "ro": "Parc vast cu iazuri frumoase.",
-            "en": "Spacious park area with beautiful ponds."
+            "en": "Spacious park area with beautiful ponds.",
+            "tr": "Güzel göletleri olan geniş park alanı."
           }
         },
         {
@@ -157,7 +164,8 @@
             "de": "Genießen Sie schwäbische Spezialitäten zum Abschluss.",
             "hu": "Élvezze a sváb specialitásokat a nap végén.",
             "ro": "Savurați specialități șvăbești la finalul zilei.",
-            "en": "Enjoy Swabian specialties as a final treat."
+            "en": "Enjoy Swabian specialties as a final treat.",
+            "tr": "Son ikram olarak Swabian lezzetlerinin tadını çıkarın."
           }
         }
       ],
@@ -165,7 +173,8 @@
         "de": "Ihr Tag beginnt am Marktplatz, dem pulsierenden Herzen von Sindelfingen. Entdecken Sie die historische Martinskirche und das beeindruckende Alte Rathaus, bevor Sie in die Welt der Weberei eintauchen. Nach einem Mittagessen spazieren Sie zum idyllischen Klostersee. Der Nachmittag gehört der Erholung im Sommerhofenpark, wo die Natur mitten in der Stadt zum Verweilen einlädt.",
         "hu": "A napot a Marktplatzon, Sindelfingen lüktető szívében kezdi. Fedezze fel a történelmi Martinskirche templomot és a lenyűgöző Altes Rathaus épületét, mielőtt elmerülne a szövés világában. Ebéd után sétáljon el az idilli Klostersee tóhoz. A délután a pihenésé a Sommerhofenparkban, ahol a természet a város közepén hívogatja a látogatókat.",
         "ro": "Ziua începe în Marktplatz, inima vibrantă a orașului Sindelfingen. Descoperiți istorica Martinskirche și impresionantul Altes Rathaus înainte de a explora lumea țesătoriei. După prânz, plimbați-vă spre idilicul lac Klostersee. După-amiaza este dedicată relaxării în Sommerhofenpark, unde natura vă invită la odihnă chiar în centrul orașului.",
-        "en": "Your day begins at the Marktplatz, the pulsing heart of Sindelfingen. Discover the historic Martinskirche and the impressive Old Town Hall before diving into the world of weaving. After lunch, stroll to the idyllic Klostersee. The afternoon is dedicated to relaxation in Sommerhofenpark, where nature invites you to linger in the middle of the city."
+        "en": "Your day begins at the Marktplatz, the pulsing heart of Sindelfingen. Discover the historic Martinskirche and the impressive Old Town Hall before diving into the world of weaving. After lunch, stroll to the idyllic Klostersee. The afternoon is dedicated to relaxation in Sommerhofenpark, where nature invites you to linger in the middle of the city.",
+        "tr": "Gününüz Sindelfingen'in nabzı olan Marktplatz'ta başlar. Tarihi Martinskirche'yi ve etkileyici Eski Belediye Binası'nı keşfedin, ardından dokumacılığın dünyasına dalın. Öğle yemeğinden sonra huzurlu Klostersee'ye doğru yürüyün. Öğleden sonra, şehrin ortasında doğanın sizi dinlenmeye davet ettiği Sommerhofenpark'ta rahatlamaya ayrılmıştır."
       },
       "gastro_picks": {
         "de": [
@@ -325,6 +334,12 @@
           "Visit the Marktplatz on Saturdays for the regional market.",
           "Wear comfortable shoes for the park strolls.",
           "Book a table at the Brauhaus if visiting on a weekend."
+        ],
+        "tr": [
+          "Sindelfingen yürüyerek keşfetmek için idealdir; gezilecek yerler birbirine yakındır.",
+          "Cumartesi günleri bölgesel pazar için Marktplatz'ı ziyaret edin.",
+          "Parkta yürüyüşler için rahat ayakkabılar giyin.",
+          "Hafta sonu ziyaret ediyorsanız Brauhaus'ta masa ayırtın."
         ]
       }
     },
@@ -351,7 +366,8 @@
             "de": "Ein Muss für Autofans auf dem alten Flughafengelände.",
             "hu": "Autórajongóknak kötelező a régi repülőtér területén.",
             "ro": "Un loc obligatoriu pentru fanii auto, pe vechiul aeroport.",
-            "en": "A must-see for car enthusiasts on the old airfield grounds."
+            "en": "A must-see for car enthusiasts on the old airfield grounds.",
+            "tr": "Eski havaalanı arazisinde araba meraklıları için mutlaka görülmesi gereken yer."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Schöne Radwege rund um den See.",
             "hu": "Szép kerékpárutak a tó körül.",
             "ro": "Piste de biciclete frumoase în jurul lacului.",
-            "en": "Beautiful bike paths around the lake."
+            "en": "Beautiful bike paths around the lake.",
+            "tr": "Göl etrafında güzel bisiklet yolları."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Zentraler Treffpunkt für eine kurze Pause.",
             "hu": "Központi találkozóhely egy rövid szünethez.",
             "ro": "Punct central de întâlnire pentru o scurtă pauză.",
-            "en": "Central meeting point for a short break."
+            "en": "Central meeting point for a short break.",
+            "tr": "Kısa bir mola için merkezi buluşma noktası."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Stärken Sie sich in einem der urigen Gasthäuser.",
             "hu": "Frissüljön fel az egyik patinás vendéglőben.",
             "ro": "Prindeți puteri la unul dintre hanurile tradiționale.",
-            "en": "Refuel in one of the quaint guesthouses."
+            "en": "Refuel in one of the quaint guesthouses.",
+            "tr": "Şirin konukevlerinden birinde yakıt ikmali yapın."
           }
         },
         {
@@ -423,7 +442,8 @@
             "de": "Beeindruckende romanische Architektur.",
             "hu": "Lenyűgöző román stílusú építészet.",
             "ro": "Arhitectură romanică impresionantă.",
-            "en": "Impressive Romanesque architecture."
+            "en": "Impressive Romanesque architecture.",
+            "tr": "Etkileyici Romanesk mimari."
           }
         },
         {
@@ -441,7 +461,8 @@
             "de": "Perfekt für eine entspannte Radrunde durchs Grüne.",
             "hu": "Tökéletes egy pihentető tekeréshez a zöldben.",
             "ro": "Perfect pentru o tură relaxantă cu bicicleta prin verdeață.",
-            "en": "Perfect for a relaxed bike ride through the greenery."
+            "en": "Perfect for a relaxed bike ride through the greenery.",
+            "tr": "Yeşillikler arasında rahat bir bisiklet turu için mükemmel."
           }
         },
         {
@@ -459,7 +480,8 @@
             "de": "Historische Webstühle in Aktion erleben.",
             "hu": "Történelmi szövőszékek működés közben.",
             "ro": "Vedeți războaie de țesut istorice în acțiune.",
-            "en": "Experience historic looms in action."
+            "en": "Experience historic looms in action.",
+            "tr": "Tarihi dokuma tezgâhlarını çalışırken deneyimleyin."
           }
         }
       ],
@@ -467,7 +489,8 @@
         "de": "Mit dem Rad erkunden Sie sowohl das Zentrum als auch das aufregende Umland. Starten Sie bei der Motorworld in Böblingen/Sindelfingen, bevor Sie durch die Natur zum Klostersee fahren. Nach einem Mittagessen in der Altstadt besichtigen Sie die Martinskirche und genießen die weiten Radwege im Sommerhofenpark. Den Abschluss bildet ein Besuch im Webereimuseum.",
         "hu": "Kerékpárral felfedezheti mind a központot, mind az izgalmas környéket. Kezdjen a Motorworldnél, mielőtt a természeten át a Klosterseehez kerekezne. Az óvárosi ebéd után látogassa meg a Martinskirche templomot, és élvezze a Sommerhofenpark tágas kerékpárútjait. A napot a Webereimuseum megtekintése zárja.",
         "ro": "Cu bicicleta veți explora atât centrul, cât și împrejurimile captivante. Începeți la Motorworld înainte de a pedala prin natură spre Klostersee. După un prânz în centrul vechi, vizitați Martinskirche și bucurați-vă de pistele largi din Sommerhofenpark. Finalizați ziua cu o vizită la Muzeul Țesătoriei.",
-        "en": "By bike, you can explore both the center and the exciting surroundings. Start at Motorworld before riding through nature to Klostersee. After lunch in the old town, visit Martinskirche and enjoy the wide bike paths in Sommerhofenpark. The tour ends with a visit to the Weaving Museum."
+        "en": "By bike, you can explore both the center and the exciting surroundings. Start at Motorworld before riding through nature to Klostersee. After lunch in the old town, visit Martinskirche and enjoy the wide bike paths in Sommerhofenpark. The tour ends with a visit to the Weaving Museum.",
+        "tr": "Bisikletle hem merkezi hem de çevresindeki ilginç alanları keşfedebilirsiniz. Motorworld'de başlayıp doğa içinde Klostersee'ye doğru sürün. Eski kentte öğle yemeğinden sonra Martinskirche'yi ziyaret edin ve Sommerhofenpark'taki geniş bisiklet yollarının keyfini çıkarın. Tur, Dokuma Müzesi ziyaretiyle sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -627,6 +650,12 @@
           "A bike lock is mandatory when visiting museums.",
           "The route to Sommerhofenpark is particularly pleasant to ride.",
           "There are plenty of bike racks at Motorworld."
+        ],
+        "tr": [
+          "Sindelfingen ile Böblingen arasındaki iyi gelişmiş bisiklet yollarını kullanın.",
+          "Müzeleri ziyaret ederken bisiklet kilidi zorunludur.",
+          "Sommerhofenpark'a giden rota özellikle keyifli sürüş sunar.",
+          "Motorworld'de bol miktarda bisiklet park yeri var."
         ]
       }
     },
@@ -653,7 +682,8 @@
             "de": "Parken Sie im Parkhaus Marktplatz für kurzen Zugang.",
             "hu": "Parkoljon a Marktplatz mélygarázsban a gyors kijutáshoz.",
             "ro": "Parcați în garajul Marktplatz pentru acces rapid.",
-            "en": "Park in the Marktplatz parking garage for quick access."
+            "en": "Park in the Marktplatz parking garage for quick access.",
+            "tr": "Hızlı erişim için Marktplatz otoparkına park edin."
           }
         },
         {
@@ -671,7 +701,8 @@
             "de": "Kurzer Fußweg vom Marktplatz.",
             "hu": "Rövid séta a főtértől.",
             "ro": "Scurtă plimbare din Marktplatz.",
-            "en": "Short walk from the market square."
+            "en": "Short walk from the market square.",
+            "tr": "Market meydanından kısa yürüyüş."
           }
         },
         {
@@ -689,7 +720,8 @@
             "de": "Ein Highlight der schwäbischen Fachwerkarchitektur.",
             "hu": "A sváb favázas építészet egyik fénypontja.",
             "ro": "Un punct culminant al arhitecturii șvăbești.",
-            "en": "A highlight of Swabian half-timbered architecture."
+            "en": "A highlight of Swabian half-timbered architecture.",
+            "tr": "Swabian yarı ahşap mimarisinin bir vurgusu."
           }
         },
         {
@@ -707,7 +739,8 @@
             "de": "Parken direkt auf dem Gelände möglich.",
             "hu": "Parkolás közvetlenül a helyszínen lehetséges.",
             "ro": "Parcare posibilă direct în incintă.",
-            "en": "Parking is available directly on-site."
+            "en": "Parking is available directly on-site.",
+            "tr": "Yerinde doğrudan park yeri mevcut."
           }
         },
         {
@@ -725,7 +758,8 @@
             "de": "Modernes Restaurant mit Automobil-Thema.",
             "hu": "Modern étterem autó-tematikával.",
             "ro": "Restaurant modern cu tematică auto.",
-            "en": "Modern restaurant with an automotive theme."
+            "en": "Modern restaurant with an automotive theme.",
+            "tr": "Otomotiv temalı modern restoran."
           }
         },
         {
@@ -743,7 +777,8 @@
             "de": "Parkplatz direkt am Parkeingang nutzen.",
             "hu": "Használja a park bejáratánál lévő parkolót.",
             "ro": "Folosiți parcarea direct de la intrarea în parc.",
-            "en": "Use the parking lot directly at the park entrance."
+            "en": "Use the parking lot directly at the park entrance.",
+            "tr": "Park girişindeki otoparkı kullanın."
           }
         },
         {
@@ -761,7 +796,8 @@
             "de": "Spaziergang am Ufer zum Tagesausklang.",
             "hu": "Séta a parton a nap végén.",
             "ro": "Plimbare pe mal la final de zi.",
-            "en": "Stroll along the shore to end the day."
+            "en": "Stroll along the shore to end the day.",
+            "tr": "Günü kıyı boyunca gezintiyle sonlandırın."
           }
         }
       ],
@@ -769,7 +805,8 @@
         "de": "Diese Autotour verbindet die historische Altstadt mit der modernen Automobilwelt. Beginnen Sie im Zentrum mit Kirche und Rathaus, bevor Sie zur berühmten Motorworld fahren. Genießen Sie dort ein Mittagessen zwischen Oldtimern. Am Nachmittag bringt Sie das Auto zu den weitläufigen Parks der Stadt, wo Sie entspannte Spaziergänge unternehmen können.",
         "hu": "Ez az autós túra összeköti a történelmi óvárost a modern autóvilággal. Kezdjen a központban a templommal és a városházával, mielőtt a híres Motorworldhöz hajtana. Élvezze az ebédet a veterán autók között. Délután az autó a város tágas parkjaihoz viszi, ahol pihentető sétákat tehet.",
         "ro": "Acest tur cu mașina îmbină centrul vechi istoric cu lumea modernă a automobilelor. Începeți în centru cu biserica și primăria, înainte de a conduce spre faimosul Motorworld. Savurați prânzul printre mașini de epocă. După-amiaza, mașina vă va duce la parcurile vaste ale orașului pentru plimbări relaxante.",
-        "en": "This car tour combines the historic old town with the modern automotive world. Start in the center with the church and town hall before driving to the famous Motorworld. Enjoy lunch among classic cars. In the afternoon, the car takes you to the city's extensive parks for relaxed walks."
+        "en": "This car tour combines the historic old town with the modern automotive world. Start in the center with the church and town hall before driving to the famous Motorworld. Enjoy lunch among classic cars. In the afternoon, the car takes you to the city's extensive parks for relaxed walks.",
+        "tr": "Bu araba turu tarihi eski kenti modern otomotiv dünyasıyla birleştirir. Kilise ve belediye binası ile merkezde başlayıp ünlü Motorworld'e doğru sürün. Klasik arabaların arasında öğle yemeğinin keyfini çıkarın. Öğleden sonra şehirdeki geniş parklara gidip rahat yürüyüşler yapın."
       },
       "gastro_picks": {
         "de": [
@@ -929,6 +966,12 @@
           "The A81 can be very crowded during rush hours, plan for extra time.",
           "At Motorworld, parking is often free for visitors for a limited time.",
           "A detour to nearby Böblingen is worth it for the lake district."
+        ],
+        "tr": [
+          "Sokak üzeri park yerleri genellikle dolu olduğundan merkezdeki otoparkları kullanın.",
+          "A81, yoğun saatlerde çok kalabalık olabilir; ek zaman planlayın.",
+          "Motorworld'de ziyaretçiler için sınırlı süre ücretsiz park sıkça sunulur.",
+          "Yakınlardaki Böblingen'e yapılan bir sapma göl bölgesi için değerlidir."
         ]
       }
     },
@@ -955,7 +998,8 @@
             "de": "Zentraler Busknotenpunkt der Stadt.",
             "hu": "A város központi buszcsomópontja.",
             "ro": "Nodul central de autobuze al orașului.",
-            "en": "Central bus hub of the city."
+            "en": "Central bus hub of the city.",
+            "tr": "Şehrin merkezi otobüs merkezi."
           }
         },
         {
@@ -973,7 +1017,8 @@
             "de": "Vom ZOB bequem zu Fuß erreichbar.",
             "hu": "A ZOB-tól könnyen elérhető gyalog.",
             "ro": "Accesibil ușor pe jos de la ZOB.",
-            "en": "Easily accessible on foot from the ZOB."
+            "en": "Easily accessible on foot from the ZOB.",
+            "tr": "ZOB'den yürüyerek kolay erişilebilir."
           }
         },
         {
@@ -991,7 +1036,8 @@
             "de": "Nur wenige Gehminuten vom Bahnhof Böblingen.",
             "hu": "Csak pár perc séta a böblingeni vasútállomástól.",
             "ro": "La doar câteva minute de mers de gara Böblingen.",
-            "en": "Just a few minutes' walk from Böblingen station."
+            "en": "Just a few minutes' walk from Böblingen station.",
+            "tr": "Böblingen istasyonundan sadece birkaç dakika yürüme mesafesinde."
           }
         },
         {
@@ -1009,7 +1055,8 @@
             "de": "Restaurants mit Seeblick genießen.",
             "hu": "Élvezze az éttermeket tóra néző kilátással.",
             "ro": "Bucurați-vă de restaurantele cu vedere la lac.",
-            "en": "Enjoy restaurants with a lake view."
+            "en": "Enjoy restaurants with a lake view.",
+            "tr": "Göl manzaralı restoranların tadını çıkarın."
           }
         },
         {
@@ -1027,7 +1074,8 @@
             "de": "Buslinie 701 bringt Sie direkt zum Park.",
             "hu": "A 701-es busz közvetlenül a parkhoz visz.",
             "ro": "Linia 701 vă duce direct la parc.",
-            "en": "Bus line 701 takes you directly to the park."
+            "en": "Bus line 701 takes you directly to the park.",
+            "tr": "701 numaralı otobüs hattı sizi doğrudan parka götürür."
           }
         },
         {
@@ -1045,7 +1093,8 @@
             "de": "Traditionelles Handwerk hautnah.",
             "hu": "Hagyományos kézművesség testközelből.",
             "ro": "Meșteșug tradițional de aproape.",
-            "en": "Traditional craft experience."
+            "en": "Traditional craft experience.",
+            "tr": "Geleneksel zanaat deneyimi."
           }
         },
         {
@@ -1063,7 +1112,8 @@
             "de": "Ein schöner Ort für den Sonnenuntergang.",
             "hu": "Szép hely a naplemente megtekintéséhez.",
             "ro": "Un loc frumos pentru apusul soarelui.",
-            "en": "A beautiful spot for the sunset."
+            "en": "A beautiful spot for the sunset.",
+            "tr": "Gün batımı için güzel bir nokta."
           }
         }
       ],
@@ -1071,7 +1121,8 @@
         "de": "Nutzen Sie das dichte Bus- und S-Bahn-Netz von Sindelfingen und Böblingen. Vom zentralen Marktplatz gelangen Sie schnell in die Altstadt und per S-Bahn direkt zur Motorworld. Nach einem Mittagessen an den Böblinger Seen bringt Sie der Bus zurück zum erholsamen Sommerhofenpark und schließlich zum Webereimuseum und Klostersee im Zentrum.",
         "hu": "Használja Sindelfingen és Böblingen sűrű busz- és S-Bahn hálózatát. A központi Marktplatzról gyorsan elérheti az óvárost, az S-Bahn-nal pedig közvetlenül a Motorworldhöz juthat. A böblingeni tavaknál elfogyasztott ebéd után a busz visszaviszi a pihentető Sommerhofenparkba, végül pedig a központban található Webereimuseumhoz és Klosterseehez.",
         "ro": "Folosiți rețeaua densă de autobuze și S-Bahn din Sindelfingen și Böblingen. Din Marktplatz ajungeți rapid în centrul vechi, iar cu S-Bahn direct la Motorworld. După un prânz la lacurile din Böblingen, autobuzul vă duce înapoi la Sommerhofenpark și, în final, la Muzeul Țesătoriei și la Klostersee în centru.",
-        "en": "Use the dense bus and S-Bahn network of Sindelfingen and Böblingen. From the central Marktplatz, you can quickly reach the old town, and take the S-Bahn directly to Motorworld. After lunch at the Böblingen lakes, the bus takes you back to the relaxing Sommerhofenpark and finally to the Weaving Museum and Klostersee in the center."
+        "en": "Use the dense bus and S-Bahn network of Sindelfingen and Böblingen. From the central Marktplatz, you can quickly reach the old town, and take the S-Bahn directly to Motorworld. After lunch at the Böblingen lakes, the bus takes you back to the relaxing Sommerhofenpark and finally to the Weaving Museum and Klostersee in the center.",
+        "tr": "Sindelfingen ve Böblingen'in yoğun otobüs ve S-Bahn ağı ile seyahat edin. Merkez Marktplatz'tan eski kente hızla ulaşabilir ve S-Bahn ile doğrudan Motorworld'e gidebilirsiniz. Böblingen göllerinde öğle yemeği sonrası otobüs sizi rahat Sommerhofenpark'a geri götürür ve son olarak Dokuma Müzesi ile Klostersee'ye merkezi bir ulaşım sağlar."
       },
       "gastro_picks": {
         "de": [
@@ -1231,6 +1282,12 @@
           "Buses run very regularly in the center.",
           "Use the 'VVS Mobil' app for real-time information.",
           "S-Bahn and buses run every 10 minutes between Sindelfingen and Böblingen."
+        ],
+        "tr": [
+          "VVS ağı için günlük bilet alın (Bölge 2 veya 3).",
+          "Merkezde otobüsler çok düzenli çalışır.",
+          "'VVS Mobil' uygulamasını gerçek zamanlı bilgi için kullanın.",
+          "Sindelfingen ile Böblingen arasında S-Bahn ve otobüsler her 10 dakikada bir çalışır."
         ]
       }
     }

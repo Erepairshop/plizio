@@ -3,55 +3,64 @@
     "de": "Am Markt 21, 28195 Bremen",
     "hu": "Am Markt 21, 28195 Bréma",
     "ro": "Am Markt 21, 28195 Bremen",
-    "en": "Am Markt 21, 28195 Bremen"
+    "en": "Am Markt 21, 28195 Bremen",
+    "tr": "Am Markt 21, 28195 Bremen"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "24/7"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.bremen-tourismus.de",
   "publicTransport": {
     "de": "Straßenbahn 2, 3 bis Haltestelle Obernstraße",
     "hu": "2-es, 3-as villamos az Obernstraße megállóig",
     "ro": "Tramvai 2, 3 până la stația Obernstraße",
-    "en": "Tram 2, 3 to Obernstraße stop"
+    "en": "Tram 2, 3 to Obernstraße stop",
+    "tr": "Tramvay 2, 3 Obernstraße durağına"
   },
   "parking": {
     "de": "Parkhaus Pressehaus in der Nähe, ca. €2.50/Std.",
     "hu": "Pressehaus parkolóház a közelben, kb. 2,50 €/óra.",
     "ro": "Parcare Pressehaus în apropiere, aprox. 2,50 €/oră.",
-    "en": "Pressehaus parking garage nearby, approx. €2.50/hr."
+    "en": "Pressehaus parking garage nearby, approx. €2.50/hr.",
+    "tr": "Pressehaus otopark garajı yakında, yaklaşık €2,50/sa."
   },
   "accessibility": {
     "de": "Vollständig barrierefrei auf dem Marktplatz zugänglich.",
     "hu": "Teljesen akadálymentesített a piactéren.",
     "ro": "Complet accesibil în piața centrală.",
-    "en": "Completely accessible on the market square."
+    "en": "Completely accessible on the market square.",
+    "tr": "Pazar meydanında tamamen erişilebilir."
   },
   "photoRules": {
     "de": "Uneingeschränkt erlaubt, Stativ bei Events eingeschränkt.",
     "hu": "Korlátlanul megengedett, rendezvények alatt állvány használata korlátozott.",
     "ro": "Permis fără restricții, trepied restricționat în timpul evenimentelor.",
-    "en": "Allowed without restrictions, tripod restricted during events."
+    "en": "Allowed without restrictions, tripod restricted during events.",
+    "tr": "Kısıtlama olmadan izin verildi, etkinliklerde tripod kısıtlıdır."
   },
   "bestTimeToVisit": {
     "de": "Abends, wenn der Marktplatz stimmungsvoll beleuchtet ist.",
     "hu": "Este, amikor a piactér hangulatosan ki van világítva.",
     "ro": "Seara, când piața este iluminată feeric.",
-    "en": "Evening when the market square is atmospherically lit."
+    "en": "Evening when the market square is atmospherically lit.",
+    "tr": "Pazar meydanı atmosferik olarak aydınlatıldığında akşam."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

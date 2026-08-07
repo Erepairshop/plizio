@@ -3,55 +3,64 @@
     "de": "Am Markt, 23966 Wismar",
     "hu": "Am Markt, 23966 Wismar, Németország",
     "ro": "Am Markt, 23966 Wismar, Germania",
-    "en": "Am Markt, 23966 Wismar, Germany"
+    "en": "Am Markt, 23966 Wismar, Germany",
+    "tr": "Am Markt, 23966 Wismar, Germany"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "7/24"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.wismar.de",
   "publicTransport": {
     "de": "Buslinien 1, 4 (ZOB/Zentrum)",
     "hu": "1-es és 4-es buszjárat (ZOB/Zentrum megálló)",
     "ro": "Liniile de autobuz 1, 4 (ZOB/Centru)",
-    "en": "Bus lines 1, 4 (ZOB/Center)"
+    "en": "Bus lines 1, 4 (ZOB/Center)",
+    "tr": "1, 4 numaralı otobüs hatları (ZOB/Merkez)"
   },
   "parking": {
     "de": "Parkplatz Altstadt/Hafen, ca. 1 €/Std.",
     "hu": "Óvárosi/kikötői parkoló, kb. 1 €/óra",
     "ro": "Parcare în orașul vechi/port, aprox. 1 €/oră",
-    "en": "Old Town/Harbor parking, approx. 1 €/hour"
+    "en": "Old Town/Harbor parking, approx. 1 €/hour",
+    "tr": "Eski Şehir/Liman otoparkı, yaklaşık 1 €/saat"
   },
   "accessibility": {
     "de": "Marktplatz und Hafen gut zugänglich, Seitenstraßen mit Kopfsteinpflaster.",
     "hu": "A piactér és a kikötő jól megközelíthető, az oldalszintek macskakövesek.",
     "ro": "Piața centrală și portul sunt accesibile, străzile laterale au pavaj.",
-    "en": "Market square and harbor accessible, side streets have cobblestones."
+    "en": "Market square and harbor accessible, side streets have cobblestones.",
+    "tr": "Pazar meydanı ve liman erişilebilir, yan sokaklar parke taşlı."
   },
   "photoRules": {
     "de": "Erlaubt.",
     "hu": "Engedélyezett.",
     "ro": "Permis.",
-    "en": "Allowed."
+    "en": "Allowed.",
+    "tr": "İzinli."
   },
   "bestTimeToVisit": {
     "de": "Vormittags für den Fischmarkt am Hafen.",
     "hu": "Délelőtt a kikötői halpiac miatt.",
     "ro": "Dimineața pentru piața de pește din port.",
-    "en": "In the morning for the fish market at the harbor."
+    "en": "In the morning for the fish market at the harbor.",
+    "tr": "Liman balık pazarı için sabahları."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

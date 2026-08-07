@@ -3,55 +3,64 @@
     "de": "An der Arche 1, 06642 Nebra (Unstrut)",
     "hu": "An der Arche 1, 06642 Nebra (Unstrut)",
     "ro": "An der Arche 1, 06642 Nebra (Unstrut)",
-    "en": "An der Arche 1, 06642 Nebra (Unstrut)"
+    "en": "An der Arche 1, 06642 Nebra (Unstrut)",
+    "tr": "An der Arche 1, 06642 Nebra (Unstrut)"
   },
   "openingHours": {
     "de": "Apr-Oct Di-So 10:00-18:00, Nov-Mar Di-Fr 10:00-16:00",
     "hu": "ápr-okt K-V 10:00-18:00, nov-márc K-P 10:00-16:00",
     "ro": "apr-oct marți-duminică 10:00-18:00, nov-martie marți-vineri 10:00-16:00",
-    "en": "Apr-Oct Tue-Sun 10:00-18:00, Nov-Mar Tue-Fri 10:00-16:00"
+    "en": "Apr-Oct Tue-Sun 10:00-18:00, Nov-Mar Tue-Fri 10:00-16:00",
+    "tr": "Nis-Eki Salı-Pazar 10:00-18:00, Kas-Mar Salı-Cuma 10:00-16:00"
   },
   "entranceFee": {
     "de": "€9,50 Erwachsene, €5,00 Kinder",
     "hu": "9,50 € felnőtteknek, 5,00 € gyerekeknek",
     "ro": "9,50 € adulți, 5,00 € copii",
-    "en": "€9.50 adults, €5.00 children"
+    "en": "€9.50 adults, €5.00 children",
+    "tr": "€9,50 yetişkin, €5,00 çocuk"
   },
   "website": "https://www.himmelsscheibe-erleben.de",
   "publicTransport": {
     "de": "Bahn bis Wangen (Unstrut), dann 15 Min. Fußweg oder Shuttle",
     "hu": "Vonat Wangenbe (Unstrut), majd 15 perc séta vagy transzfer",
     "ro": "Tren până la Wangen (Unstrut), apoi 15 min de mers pe jos sau transfer",
-    "en": "Train to Wangen (Unstrut), then 15 min walk or shuttle"
+    "en": "Train to Wangen (Unstrut), then 15 min walk or shuttle",
+    "tr": "Wangen (Unstrut) trenine, sonra 15 dakikalık yürüyüş veya servis"
   },
   "parking": {
     "de": "Kostenpflichtiger Parkplatz an der Arche Nebra",
     "hu": "Fizetős parkoló az Arche Nebránál",
     "ro": "Parcare cu plată la Arche Nebra",
-    "en": "Paid parking at Arche Nebra"
+    "en": "Paid parking at Arche Nebra",
+    "tr": "Arche Nebra'da ücretli otopark"
   },
   "accessibility": {
     "de": "Besucherzentrum Arche Nebra ist voll barrierefrei",
     "hu": "Az Arche Nebra látogatóközpont teljesen akadálymentes",
     "ro": "Centrul de vizitatori Arche Nebra este complet accesibil",
-    "en": "Visitor center Arche Nebra is fully barrier-free"
+    "en": "Visitor center Arche Nebra is fully barrier-free",
+    "tr": "Ziyaretçi merkezi Arche Nebra tamamen engelsiz"
   },
   "photoRules": {
     "de": "Im Planetarium verboten, in der Ausstellung ohne Blitz erlaubt",
     "hu": "A planetáriumban tilos, a kiállításon vaku nélkül megengedett",
     "ro": "Interzis în planetariu, permis fără bliț în expoziție",
-    "en": "Forbidden in the planetarium, allowed in the exhibition without flash"
+    "en": "Forbidden in the planetarium, allowed in the exhibition without flash",
+    "tr": "Planetaryumda yasak, sergide flaş olmadan izinli"
   },
   "bestTimeToVisit": {
     "de": "Wochentags, um Vorführungen im Planetarium in Ruhe zu sehen",
     "hu": "Hétköznap, hogy nyugodtan megtekinthesd a planetáriumi előadásokat",
     "ro": "În timpul săptămânii pentru a vedea demonstrațiile din planetariu în liniște",
-    "en": "Weekdays to see shows in the planetarium in peace"
+    "en": "Weekdays to see shows in the planetarium in peace",
+    "tr": "Planetaryumdaki gösterileri huzur içinde izlemek için hafta içi"
   },
   "audioGuide": {
     "de": "de, en",
     "hu": "német, angol",
     "ro": "germană, engleză",
-    "en": "German, English"
+    "en": "German, English",
+    "tr": "Almanca, İngilizce"
   }
 }

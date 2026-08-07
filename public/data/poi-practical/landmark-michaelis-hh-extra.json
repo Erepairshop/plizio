@@ -3,55 +3,64 @@
     "de": "Englische Planke 1, 20459 Hamburg",
     "hu": "Englische Planke 1, 20459 Hamburg",
     "ro": "Englische Planke 1, 20459 Hamburg",
-    "en": "Englische Planke 1, 20459 Hamburg"
+    "en": "Englische Planke 1, 20459 Hamburg",
+    "tr": "Englische Planke 1, 20459 Hamburg"
   },
   "openingHours": {
     "de": "Daily 09:00-19:30 (May-Sep), 10:00-17:30 (Nov-Mar)",
     "hu": "Naponta 09:00-19:30 (máj-szept), 10:00-17:30 (nov-márc)",
     "ro": "Zilnic 09:00-19:30 (mai-sept), 10:00-17:30 (nov-martie)",
-    "en": "Daily 09:00-19:30 (May-Sep), 10:00-17:30 (Nov-Mar)"
+    "en": "Daily 09:00-19:30 (May-Sep), 10:00-17:30 (Nov-Mar)",
+    "tr": "Günlük 09:00-19:30 (May-Eyl), 10:00-17:30 (Kas-Mar)"
   },
   "entranceFee": {
     "de": "Kirche frei, Turm €8, Krypta €6, Kombi €10",
     "hu": "Templom ingyenes, torony 8 €, kripta 6 €, kombinált 10 €",
     "ro": "Biserica gratuit, turn 8 €, criptă 6 €, bilet combinat 10 €",
-    "en": "Church free, tower €8, crypt €6, combi €10"
+    "en": "Church free, tower €8, crypt €6, combi €10",
+    "tr": "Kilise ücretsiz, kule €8, kripta €6, kombi €10"
   },
   "website": "https://www.st-michaelis.de",
   "publicTransport": {
     "de": "U-Bahn U3 bis Rödingsmarkt oder S-Bahn S1/S3 bis Stadthausbrücke",
     "hu": "U3 metró a Rödingsmarktig vagy S1/S3 S-Bahn a Stadthausbrückéig",
     "ro": "Metrou U3 până la Rödingsmarkt sau S-Bahn S1/S3 până la Stadthausbrücke",
-    "en": "U-Bahn U3 to Rödingsmarkt or S-Bahn S1/S3 to Stadthausbrücke"
+    "en": "U-Bahn U3 to Rödingsmarkt or S-Bahn S1/S3 to Stadthausbrücke",
+    "tr": "U-Bahn U3 ile Rödingsmarkt veya S-Bahn S1/S3 ile Stadthausbrücke"
   },
   "parking": {
     "de": "Parkhaus Michel-Garage direkt unter dem Kirchplatz",
     "hu": "Michel-Garage parkolóház közvetlenül a templomtér alatt",
     "ro": "Parcare Michel-Garage direct sub piața bisericii",
-    "en": "Parking garage Michel-Garage directly under the church square"
+    "en": "Parking garage Michel-Garage directly under the church square",
+    "tr": "Kilise meydanının hemen altında Michel-Garage otoparkı"
   },
   "accessibility": {
     "de": "Kirche und Krypta barrierefrei, Turm per Fahrstuhl erreichbar",
     "hu": "Templom és kripta akadálymentes, torony lifttel elérhető",
     "ro": "Biserica și cripta accesibile, turnul accesibil cu liftul",
-    "en": "Church and crypt barrier-free, tower accessible via elevator"
+    "en": "Church and crypt barrier-free, tower accessible via elevator",
+    "tr": "Kilise ve kripta engelsiz, kule asansörle erişilebilir"
   },
   "photoRules": {
     "de": "In der Kirche erlaubt (außer während Gottesdiensten), kein Blitz",
     "hu": "A templomban megengedett (kivéve istentisztelet alatt), vaku tilos",
     "ro": "Permis în biserică (cu excepția slujbelor), fără bliț",
-    "en": "Allowed in the church (except during services), no flash"
+    "en": "Allowed in the church (except during services), no flash",
+    "tr": "Kilisede izinli (ayine katılım sırasında hariç), flaş yok"
   },
   "bestTimeToVisit": {
     "de": "Mittags um 12:00 Uhr zum Orgelspiel",
     "hu": "Délben 12:00 órakor az orgonajátékhoz",
     "ro": "La prânz, la ora 12:00, pentru concertul de orgă",
-    "en": "At noon at 12:00 PM for the organ performance"
+    "en": "At noon at 12:00 PM for the organ performance",
+    "tr": "Org performansı için öğle vakti 12:00'de"
   },
   "audioGuide": {
     "de": "de, en",
     "hu": "német, angol",
     "ro": "germană, engleză",
-    "en": "German, English"
+    "en": "German, English",
+    "tr": "Almanca, İngilizce"
   }
 }

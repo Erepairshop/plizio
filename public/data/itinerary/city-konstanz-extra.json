@@ -31,7 +31,8 @@
             "de": "Dreht sich alle 4 Minuten um ihre eigene Achse.",
             "hu": "4 percenként fordul meg a saját tengelye körül.",
             "ro": "Se rotește în jurul axei sale la fiecare 4 minute.",
-            "en": "Rotates on its axis every 4 minutes."
+            "en": "Rotates on its axis every 4 minutes.",
+            "tr": "Her 4 dakikada bir ekseni etrafında döner."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ort der Papstwahl während des Konstanzer Konzils.",
             "hu": "A pápaválasztás helyszíne a konstanzi zsinat alatt.",
             "ro": "Locul alegerii papale în timpul Conciliului de la Konstanz.",
-            "en": "Site of the papal election during the Council of Constance."
+            "en": "Site of the papal election during the Council of Constance.",
+            "tr": "Konzil von Constance sırasında papalık seçim yeridir."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Wunderschöne Renaissance-Fassade mit Fresken.",
             "hu": "Gyönyörű reneszánsz homlokzat freskókkal.",
             "ro": "Fațadă renascentistă superbă cu fresce.",
-            "en": "Beautiful Renaissance facade with frescoes."
+            "en": "Beautiful Renaissance facade with frescoes.",
+            "tr": "Fresklerle süslü güzel Rönesans cephesi."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Besteigen Sie den Turm für einen Blick über den See.",
             "hu": "Másszon fel a toronyba a tavi panorámáért.",
             "ro": "Urcați în turn pentru o vedere asupra lacului.",
-            "en": "Climb the tower for a view over the lake."
+            "en": "Climb the tower for a view over the lake.",
+            "tr": "Gölün üzerine bakmak için kuleye tırmanın."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ehemaliges Zunfthaus mit regionaler Kunst.",
             "hu": "Egykori céhház regionális művészeti alkotásokkal.",
             "ro": "Fosta casă a breslei cu artă regională.",
-            "en": "Former guild house with regional art."
+            "en": "Former guild house with regional art.",
+            "tr": "Bölgesel sanatlarla eski lonca binası."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Mittelalterlicher Wachturm an der Rheinbrücke.",
             "hu": "Középkori őrtorony a Rajna-hídnál.",
             "ro": "Turn de veghe medieval la podul peste Rin.",
-            "en": "Medieval watchtower at the Rhine bridge."
+            "en": "Medieval watchtower at the Rhine bridge.",
+            "tr": "Ren köprüsündeki ortaçağ gözetleme kulesi."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Ihr Tag beginnt am geschäftigen Hafen mit der majestätischen Imperia. Schlendern Sie durch die engen Gassen der Altstadt zum prächtigen Münster und dem historischen Rathaus. Nach einer Kulturpause im Rosgartenmuseum führt der Weg zum Rheintorturm, wo der See in den Rhein fließt.",
         "hu": "Napja a forgalmas kikötőben kezdődik a fenséges Imperia-szobornál. Sétáljon az óváros szűk utcáin a pompás dómhoz és a történelmi városházához. A Rosgartenmuseum kulturális kitérője után az út a Rheintorturmhoz vezet, ahol a tó a Rajnába torkollik.",
         "ro": "Ziua începe în portul aglomerat, cu maiestuoasa Imperia. Plimbați-vă pe străzile înguste ale orașului vechi către catedrală și primăria istorică. După o pauză culturală la Rosgartenmuseum, drumul duce la Rheintorturm, unde lacul se varsă în Rin.",
-        "en": "Your day starts at the busy harbor with the majestic Imperia. Stroll through the narrow alleys of the old town to the magnificent Minster and the historical town hall. After a cultural break at the Rosgartenmuseum, the path leads to the Rheintorturm, where the lake flows into the Rhine."
+        "en": "Your day starts at the busy harbor with the majestic Imperia. Stroll through the narrow alleys of the old town to the magnificent Minster and the historical town hall. After a cultural break at the Rosgartenmuseum, the path leads to the Rheintorturm, where the lake flows into the Rhine.",
+        "tr": "Gününüz, görkemli Imperia ile hareketli limanda başlar. Dar eski şehir sokaklarında katedrale ve tarihi belediye binasına doğru gezin. Rosgartenmuseum’da bir kültürel mola verdikten sonra yol, gölün Ren’e aktığı Rheintorturm’a çıkar."
       },
       "gastro_picks": {
         "de": [
@@ -289,6 +296,12 @@
           "Look out for the Stolpersteine (stumbling stones) commemorating Jewish history.",
           "Drink the tap water – it comes directly from the lake and is excellent.",
           "Visit the Imperia statue in the morning for the best photo light."
+        ],
+        "tr": [
+          "Eski şehir çok kompakt ve yürüyerek keşfetmek için ideal.",
+          "Yahudi tarihini anan Stolpersteine (takılma taşları) için gözünüzü dört açın.",
+          "Musluktan su içebilirsiniz – gölden doğrudan geliyor ve mükemmel.",
+          "En iyi fotoğraf ışığı için sabah Imperia heykelini ziyaret edin."
         ]
       }
     },
@@ -315,7 +328,8 @@
             "de": "Starten Sie Ihre Tour direkt am historischen Hafen.",
             "hu": "Kezdje a túrát közvetlenül a történelmi kikötőben.",
             "ro": "Începeți turul chiar în portul istoric.",
-            "en": "Start your tour right at the historical harbor."
+            "en": "Start your tour right at the historical harbor.",
+            "tr": "Turunuza tarihi limandan başlayın."
           }
         },
         {
@@ -333,7 +347,8 @@
             "de": "Fahrradparkplätze direkt auf dem Münsterplatz vorhanden.",
             "hu": "Kerékpárparkolók közvetlenül a Münsterplatzon.",
             "ro": "Parcare pentru biciclete disponibilă chiar în Münsterplatz.",
-            "en": "Bicycle parking available directly on Münsterplatz."
+            "en": "Bicycle parking available directly on Münsterplatz.",
+            "tr": "Münsterplatz'da doğrudan bisiklet park yeri mevcut."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Spannende Einblicke in die Pfahlbauten-Geschichte.",
             "hu": "Izgalmas betekintés a cölöpházak történelmébe.",
             "ro": "Perspective fascinante asupra istoriei locuințelor pe piloni.",
-            "en": "Exciting insights into the pile dwelling history."
+            "en": "Exciting insights into the pile dwelling history.",
+            "tr": "Kazıklı yerleşim tarihi hakkında heyecan verici bilgiler."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Fahrrad-Highway führt fast direkt bis zum Inseleingang.",
             "hu": "Kerékpáros 'sztráda' vezet szinte közvetlenül a bejáratig.",
             "ro": "O pistă de biciclete duce aproape direct la intrarea pe insulă.",
-            "en": "A bike 'highway' leads almost directly to the island entrance."
+            "en": "A bike 'highway' leads almost directly to the island entrance.",
+            "tr": "Neredeyse doğrudan ada girişine çıkan bir bisiklet 'otoyolu' var."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Die schönste Uferpromenade für den Rückweg.",
             "hu": "A legszebb tóparti sétány a visszaúthoz.",
             "ro": "Cea mai frumoasă promenadă de pe mal pentru drumul de întoarcere.",
-            "en": "The most beautiful lakeside promenade for the return trip."
+            "en": "The most beautiful lakeside promenade for the return trip.",
+            "tr": "Dönüş yolunda en güzel göl kıyısı yürüyüş yolu."
           }
         }
       ],
@@ -395,7 +413,8 @@
         "de": "Mit dem Rad erkunden Sie erst das Stadtzentrum, bevor Sie am Rhein entlang zur Insel Mainau radeln. Genießen Sie die Blumenpracht der 'Blumeninsel' und kehren Sie über die elegante Seestraße mit Blick auf die Alpen zurück.",
         "hu": "Kerékpárral először a városközpontot fedezheti fel, majd a Rajna mentén a Mainau-szigetre kerekezhet. Élvezze a 'virágsziget' színpompáját, majd térjen vissza az elegáns Seestraße-n keresztül, az Alpokra nyíló kilátással.",
         "ro": "Cu bicicleta, explorați mai întâi centrul orașului înainte de a pedala de-a lungul Rinului către insula Mainau. Bucurați-vă de splendoarea 'insulei florilor' și reveniți prin eleganta Seestraße cu vedere spre Alpi.",
-        "en": "By bike, you first explore the city center before cycling along the Rhine to Mainau Island. Enjoy the floral splendor of the 'Flower Island' and return via the elegant Seestraße with views of the Alps."
+        "en": "By bike, you first explore the city center before cycling along the Rhine to Mainau Island. Enjoy the floral splendor of the 'Flower Island' and return via the elegant Seestraße with views of the Alps.",
+        "tr": "Bisikletle önce şehir merkezini keşfeder, ardından Ren boyunca Mainau Adası'na doğru pedal çevirirsiniz. \"Çiçek Adası\"nın çiçek görkemiyle keyfini çıkarın ve Alpler manzaralı şık Seestraße üzerinden geri dönün."
       },
       "gastro_picks": {
         "de": [
@@ -483,6 +502,12 @@
           "Rent e-bikes for the stretch to Mainau if it's windy.",
           "Use the bike ferry to Meersburg for an extended tour.",
           "Always lock your bike on Mainau island."
+        ],
+        "tr": [
+          "Konstanz bisiklet dostu bir şehir (bisiklet caddeleri).",
+          "Rüzgarlıysa Mainau'ya kadar e-bisiklet kiralayın.",
+          "Uzun bir tur için Meersburg'a giden bisiklet feribotunu kullanın.",
+          "Mainau adasında bisikletinizi her zaman kilitleyin."
         ]
       }
     },
@@ -509,7 +534,8 @@
             "de": "Zentralster Parkplatz für den Altstadt-Cluster.",
             "hu": "A legközpontibb parkoló az óvárosi részhez.",
             "ro": "Cea mai centrală parcare pentru clusterul orașului vechi.",
-            "en": "Most central parking for the old town cluster."
+            "en": "Most central parking for the old town cluster.",
+            "tr": "Eski şehir kümesi için en merkezi otopark."
           }
         },
         {
@@ -527,7 +553,8 @@
             "de": "Vom Parkhaus in 5 Minuten zu Fuß erreichbar.",
             "hu": "A parkolóból 5 perc gyaloglással elérhető.",
             "ro": "Accesibil în 5 minute pe jos din parcare.",
-            "en": "Accessible in 5 minutes on foot from the parking."
+            "en": "Accessible in 5 minutes on foot from the parking.",
+            "tr": "Otoparktan 5 dakikada yürüyüş mesafesinde erişilebilir."
           }
         },
         {
@@ -545,7 +572,8 @@
             "de": "Kurzer Spaziergang durch die Unterführung zum Hafen.",
             "hu": "Rövid séta az aluljárón keresztül a kikötőbe.",
             "ro": "Scurtă plimbare prin pasajul subteran către port.",
-            "en": "Short walk through the underpass to the harbor."
+            "en": "Short walk through the underpass to the harbor.",
+            "tr": "İskeleye kısa bir yürüyüşle altgeçitten ulaşılır."
           }
         },
         {
@@ -563,7 +591,8 @@
             "de": "Großer Besucherparkplatz direkt vor der Brücke.",
             "hu": "Nagy látogatói parkoló közvetlenül a híd előtt.",
             "ro": "Parcare mare pentru vizitatori chiar înainte de pod.",
-            "en": "Large visitor parking right before the bridge."
+            "en": "Large visitor parking right before the bridge.",
+            "tr": "Köprü öncesinde büyük ziyaretçi otoparkı."
           }
         },
         {
@@ -581,7 +610,8 @@
             "de": "Letzter Stopp vor der Rückreise am Stadteingang.",
             "hu": "Utolsó megálló a városbejáratnál a hazaút előtt.",
             "ro": "Ultima oprire la intrarea în oraș înainte de întoarcere.",
-            "en": "Last stop at the city entrance before heading back."
+            "en": "Last stop at the city entrance before heading back.",
+            "tr": "Geri dönmeden önce şehir girişindeki son durak."
           }
         }
       ],
@@ -589,7 +619,8 @@
         "de": "Dank des PKWs kombinieren Sie den historischen Kern von Konstanz mit der weitläufigen Insel Mainau. Nach dem Altstadt-Spaziergang fahren Sie bequem zum Blumenparadies und beenden den Tag am markanten Rheintorturm.",
         "hu": "Az autónak köszönhetően kombinálhatja Konstanz történelmi magját a tágas Mainau-szigettel. Az óvárosi séta után kényelmesen autózhat a virágparadicsomba, majd a napot a jellegzetes Rheintorturmnál zárhatja.",
         "ro": "Datorită mașinii, combinați nucleul istoric al orașului Konstanz cu vasta insulă Mainau. După plimbarea în orașul vechi, conduceți confortabel către paradisul florilor și încheiați ziua la distinctivul Rheintorturm.",
-        "en": "Thanks to the car, you combine the historical core of Constance with the sprawling Mainau Island. After the old town walk, drive comfortably to the floral paradise and end the day at the prominent Rheintorturm."
+        "en": "Thanks to the car, you combine the historical core of Constance with the sprawling Mainau Island. After the old town walk, drive comfortably to the floral paradise and end the day at the prominent Rheintorturm.",
+        "tr": "Arabayla Konstanz'ın tarihi çekirdeğini ve yayılan Mainau Adası'nı birleştirirsiniz. Eski şehir gezisinin ardından rahatça çiçek cennetine sürün ve günü belirgin Rheintorturm'da sonlandırın."
       },
       "gastro_picks": {
         "de": [],
@@ -633,6 +664,12 @@
           "Mainau Island has its own parking fee.",
           "Avoid rush hours on the Rhine bridge.",
           "The parking guidance system in Constance is very accurate."
+        ],
+        "tr": [
+          "Eski şehirde park pahalıdır, çevredeki P+R alanlarını kullanın.",
+          "Mainau Adası'nın kendine ait bir park ücreti vardır.",
+          "Ren köprüsündeki yoğun saatlerden kaçının.",
+          "Konstanz'taki park yönlendirme sistemi çok doğru."
         ]
       }
     },
@@ -659,7 +696,8 @@
             "de": "Direkt am Bahnhof Konstanz (Zentraler Knotenpunkt).",
             "hu": "Közvetlenül a konstanzi pályaudvarnál (központi csomópont).",
             "ro": "Chiar lângă gara Konstanz (nod central).",
-            "en": "Right by Constance station (central hub)."
+            "en": "Right by Constance station (central hub).",
+            "tr": "Konstanz istasyonunun hemen yanında (merkezi bağlantı noktası)."
           }
         },
         {
@@ -677,7 +715,8 @@
             "de": "Zu Fuß durch die historische Hussenstraße erreichbar.",
             "hu": "Gyalogosan a történelmi Hussenstraße-n keresztül elérhető.",
             "ro": "Accesibil pe jos prin istorica Hussenstraße.",
-            "en": "Accessible on foot through the historical Hussenstraße."
+            "en": "Accessible on foot through the historical Hussenstraße.",
+            "tr": "Tarihi Hussenstraße üzerinden yürüme mesafesinde ulaşılabilir."
           }
         },
         {
@@ -695,7 +734,8 @@
             "de": "Buslinie 4 fährt alle 15 Minuten direkt zum Eingang.",
             "hu": "A 4-es busz 15 percenként jár közvetlenül a bejárathoz.",
             "ro": "Linia de autobuz 4 circulă la fiecare 15 minute direct la intrare.",
-            "en": "Bus line 4 runs every 15 minutes directly to the entrance."
+            "en": "Bus line 4 runs every 15 minutes directly to the entrance.",
+            "tr": "4 numaralı otobüs her 15 dakikada doğrudan girişe gider."
           }
         },
         {
@@ -713,7 +753,8 @@
             "de": "Haltestelle 'Sternenplatz' liegt nur 5 Min. entfernt.",
             "hu": "A 'Sternenplatz' megálló mindössze 5 percre található.",
             "ro": "Stația 'Sternenplatz' este la doar 5 minute distanță.",
-            "en": "The 'Sternenplatz' stop is only 5 minutes away."
+            "en": "The 'Sternenplatz' stop is only 5 minutes away.",
+            "tr": "\"Sternenplatz\" durağı sadece 5 dakika uzaklıkta."
           }
         },
         {
@@ -731,7 +772,8 @@
             "de": "Búcsú-stopp a pályaudvar közelében.",
             "hu": "Búcsú-stop a pályaudvar közelében.",
             "ro": "Oprire de adio lângă gară.",
-            "en": "Farewell stop near the train station."
+            "en": "Farewell stop near the train station.",
+            "tr": "Tren istasyonu yakınındaki veda durağı."
           }
         }
       ],
@@ -739,7 +781,8 @@
         "de": "Nutzen Sie den hervorragenden Stadtbus, um mühelos zwischen der Altstadt und der Insel Mainau zu wechseln. Der Bahnhof dient als idealer Ankerpunkt für Ihre Entdeckungsreise durch Geschichte und Natur.",
         "hu": "Használja a kiváló városi buszhálózatot a kényelmes közlekedéshez az óváros és a Mainau-sziget között. A pályaudvar ideális kiindulópont a történelem és a természet felfedezéséhez.",
         "ro": "Folosiți excelenta rețea de autobuze urbane pentru a vă deplasa fără efort între orașul vechi și insula Mainau. Gara servește ca punct de ancorare ideal pentru călătoria dvs. de descoperire a istoriei și naturii.",
-        "en": "Use the excellent city bus network to move effortlessly between the old town and Mainau Island. The train station serves as the perfect anchor point for your journey through history and nature."
+        "en": "Use the excellent city bus network to move effortlessly between the old town and Mainau Island. The train station serves as the perfect anchor point for your journey through history and nature.",
+        "tr": "Eski şehir ile Mainau Adası arasında zahmetsizce hareket etmek için mükemmel şehir otobüsü ağını kullanın. Tren istasyonu, tarihle doğa arasındaki yolculuğunuz için mükemmel bir merkez görevi görür."
       },
       "gastro_picks": {
         "de": [],
@@ -783,6 +826,12 @@
           "The Constance Guest Card often provides free public transport.",
           "Lake Constance ferries are a great alternative way to travel.",
           "Buses to Mainau are often crowded in season but run frequently."
+        ],
+        "tr": [
+          "Şehir otobüsü (Kırmızı Otobüs) için günlük bilet alın.",
+          "Konstanz Misafir Kartı genellikle ücretsiz toplu taşıma sağlar.",
+          "Bodensee feribotları alternatif ve keyifli bir ulaşım yoludur.",
+          "Sezon sırasında Mainau'ya giden otobüsler genellikle kalabalıktır ama sık sefer yapar."
         ]
       }
     }

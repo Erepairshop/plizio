@@ -21,7 +21,8 @@
             "de": "Fruchtmarkt",
             "hu": "Gyümölcspiac",
             "ro": "Piața de Fructe",
-            "en": "Fruit Market"
+            "en": "Fruit Market",
+            "tr": "Meyve Pazarı"
           },
           "coords": [
             7.1695,
@@ -37,7 +38,8 @@
             "de": "Ideal für einen Kaffee am Morgen vor der Tour.",
             "hu": "Ideális egy reggeli kávéhoz a túra előtt.",
             "ro": "Ideal pentru o cafea de dimineață înainte de tur.",
-            "en": "Ideal for a morning coffee before the tour."
+            "en": "Ideal for a morning coffee before the tour.",
+            "tr": "Tur öncesi sabah kahvesi için ideal."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             7.1698,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die barocke Fassade im Stadtzentrum.",
             "hu": "Csodálja meg a barokk homlokzatot a városközpontban.",
             "ro": "Admirați fațada barocă din centrul orașului.",
-            "en": "Admire the Baroque facade in the city center."
+            "en": "Admire the Baroque facade in the city center.",
+            "tr": "Şehir merkezindeki Barok cepheyi hayranlıkla izleyin."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Wendalinusbasilika",
             "hu": "Wendalinus-bazilika",
             "ro": "Bazilica Wendalinus",
-            "en": "Wendalinus Basilica"
+            "en": "Wendalinus Basilica",
+            "tr": "Wendalinus Bazilikası"
           },
           "coords": [
             7.1705,
@@ -85,7 +90,8 @@
             "de": "Besuchen Sie das Grabmal des heiligen Wendalinus.",
             "hu": "Látogasson el Szent Wendalinus sírjához.",
             "ro": "Vizitați mormântul Sfântului Wendalinus.",
-            "en": "Visit the tomb of Saint Wendalinus."
+            "en": "Visit the tomb of Saint Wendalinus.",
+            "tr": "Aziz Wendalinus'un türbesini ziyaret edin."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Wendelsbrunnen",
             "hu": "Wendel-kút",
             "ro": "Fântâna Wendels",
-            "en": "Wendel's Fountain"
+            "en": "Wendel's Fountain",
+            "tr": "Wendel Çeşmesi"
           },
           "coords": [
             7.1688,
@@ -109,7 +116,8 @@
             "de": "Ein kleiner Brunnen zu Ehren des Stadtheiligen.",
             "hu": "Egy kis kút a város védőszentjének tiszteletére.",
             "ro": "O fântână mică în onoarea sfântului patron al orașului.",
-            "en": "A small fountain in honor of the city's patron saint."
+            "en": "A small fountain in honor of the city's patron saint.",
+            "tr": "Şehrin koruyucu azizine adanmış küçük bir çeşme."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Museum St. Wendel",
             "hu": "St. Wendel Múzeum",
             "ro": "Muzeul St. Wendel",
-            "en": "St. Wendel Museum"
+            "en": "St. Wendel Museum",
+            "tr": "St. Wendel Müzesi"
           },
           "coords": [
             7.171,
@@ -133,7 +142,8 @@
             "de": "Spannende Einblicke in die regionale Kunstgeschichte.",
             "hu": "Izgalmas betekintés a regionális művészettörténetbe.",
             "ro": "Informații captivante despre istoria artei regionale.",
-            "en": "Exciting insights into regional art history."
+            "en": "Exciting insights into regional art history.",
+            "tr": "Bölgesel sanat tarihi hakkında heyecan verici bilgiler."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Schloßplatz",
             "hu": "Kastély tér",
             "ro": "Piața Castelului",
-            "en": "Castle Square"
+            "en": "Castle Square",
+            "tr": "Kale Meydanı"
           },
           "coords": [
             7.169,
@@ -157,7 +168,8 @@
             "de": "Perfekt für ein gemütliches Mittagessen im Freien.",
             "hu": "Tökéletes egy hangulatos szabadtéri ebédhez.",
             "ro": "Perfect pentru un prânz plăcut în aer liber.",
-            "en": "Perfect for a cozy outdoor lunch."
+            "en": "Perfect for a cozy outdoor lunch.",
+            "tr": "Samimi bir açık hava öğle yemeği için ideal."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Straße der Skulpturen",
             "hu": "Szobrok útja",
             "ro": "Strada Sculpturilor",
-            "en": "Street of Sculptures"
+            "en": "Street of Sculptures",
+            "tr": "Heykeller Sokağı"
           },
           "coords": [
             7.175,
@@ -181,7 +194,8 @@
             "de": "Einzigartige Freiluftgalerie in herrlicher Natur.",
             "hu": "Egyedülálló szabadtéri galéria csodás természetben.",
             "ro": "Galerie unică în aer liber în natură superbă.",
-            "en": "Unique open-air gallery in beautiful nature."
+            "en": "Unique open-air gallery in beautiful nature.",
+            "tr": "Güzel doğa içinde benzersiz bir açık hava galerisi."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Morgens erkunden wir den historischen Kern rund um die majestätische Basilika und das alte Rathaus. Nach einem Besuch im Stadtmuseum genießen wir das Mittagessen am lebhaften Schloßplatz. Der Nachmittag ist einem Spaziergang auf der Straße der Skulpturen gewidmet, wo Kunst und Natur verschmelzen. Ein entspannter Tag im Herzen des Saarlandes.",
         "hu": "Reggel a fenséges bazilika és a régi városháza körüli történelmi magot fedezzük fel. A városi múzeum meglátogatása után a nyüzsgő Kastély téren ebédelünk. A délutánt a Szobrok útján tett sétának szenteljük, ahol a művészet és a természet egybeolvad. Egy pihentető nap Saar-vidék szívében.",
         "ro": "Dimineața explorăm nucleul istoric din jurul bazilicii maiestuoase și a primăriei vechi. După o vizită la muzeul orașului, luăm prânzul în animata Piață a Castelului. După-amiaza este dedicată unei plimbări pe Strada Sculpturilor, unde arta și natura se contopesc. O zi relaxantă în inima Saarlandului.",
-        "en": "Morning explores the historical core around the majestic Basilica and the old town hall. After visiting the city museum, we enjoy lunch at the lively Castle Square. The afternoon is dedicated to a stroll along the Street of Sculptures, where art and nature merge. A relaxing day in the heart of Saarland."
+        "en": "Morning explores the historical core around the majestic Basilica and the old town hall. After visiting the city museum, we enjoy lunch at the lively Castle Square. The afternoon is dedicated to a stroll along the Street of Sculptures, where art and nature merge. A relaxing day in the heart of Saarland.",
+        "tr": "Sabah, görkemli Bazilika ve eski belediye binası etrafındaki tarihi çekirdeği keşfetmekle geçer. Kent müzesini ziyaret ettikten sonra canlı Kale Meydanı'nda öğle yemeğinin tadını çıkarıyoruz. Öğleden sonra, sanat ve doğanın birleştiği Heykeller Sokağı'nda gezintiye ayrılmış. Saarland'ın kalbinde dinlendirici bir gün."
       },
       "gastro_picks": {
         "de": [
@@ -333,6 +348,12 @@
           "Watch out for the cobblestones in the narrow alleys.",
           "A local market often takes place on Saturdays.",
           "The Basilica is open for prayers at noon."
+        ],
+        "tr": [
+          "Eski şehir en iyi yürüyerek keşfedilir.",
+          "Dar sokaklardaki kaldırım taşlarına dikkat edin.",
+          "Yerel bir pazar sıklıkla cumartesi günleri kurulur.",
+          "Bazilika öğle namazı için açıktır."
         ]
       }
     },
@@ -349,7 +370,8 @@
             "de": "Fruchtmarkt",
             "hu": "Gyümölcspiac",
             "ro": "Piața de Fructe",
-            "en": "Fruit Market"
+            "en": "Fruit Market",
+            "tr": "Meyve Pazarı"
           },
           "coords": [
             7.1695,
@@ -365,7 +387,8 @@
             "de": "Startpunkt mit guten Fahrradstellplätzen.",
             "hu": "Kiindulópont jó kerékpártárolókkal.",
             "ro": "Punct de plecare cu locuri bune de parcare pentru biciclete.",
-            "en": "Starting point with good bike parking."
+            "en": "Starting point with good bike parking.",
+            "tr": "İyi bisiklet parkı olan başlangıç noktası."
           }
         },
         {
@@ -373,7 +396,8 @@
             "de": "Wendalinusbasilika",
             "hu": "Wendalinus-bazilika",
             "ro": "Bazilica Wendalinus",
-            "en": "Wendalinus Basilica"
+            "en": "Wendalinus Basilica",
+            "tr": "Wendalinus Bazilikası"
           },
           "coords": [
             7.1705,
@@ -389,7 +413,8 @@
             "de": "Wahrzeichen der Stadt, ein Muss für jeden Besucher.",
             "hu": "A város jelképe, minden látogatónak kötelező.",
             "ro": "Emblema orașului, un obiectiv obligatoriu.",
-            "en": "Landmark of the city, a must-see for every visitor."
+            "en": "Landmark of the city, a must-see for every visitor.",
+            "tr": "Şehrin simgesi, her ziyaretçi için görülmesi gereken yer."
           }
         },
         {
@@ -397,7 +422,8 @@
             "de": "Missionshaus St. Wendel",
             "hu": "Missziós ház",
             "ro": "Casa Misiunii",
-            "en": "Mission House"
+            "en": "Mission House",
+            "tr": "Misyon Evi"
           },
           "coords": [
             7.185,
@@ -413,7 +439,8 @@
             "de": "Beeindruckender Komplex mit eigenem Museum.",
             "hu": "Lenyűgöző komplexum saját múzeummal.",
             "ro": "Complex impresionant cu propriul muzeu.",
-            "en": "Impressive complex with its own museum."
+            "en": "Impressive complex with its own museum.",
+            "tr": "Kendi müzesi olan etkileyici bir kompleks."
           }
         },
         {
@@ -421,7 +448,8 @@
             "de": "Straße der Skulpturen",
             "hu": "Szobrok útja",
             "ro": "Strada Sculpturilor",
-            "en": "Street of Sculptures"
+            "en": "Street of Sculptures",
+            "tr": "Heykeller Sokağı"
           },
           "coords": [
             7.21,
@@ -437,7 +465,8 @@
             "de": "Entlang des Radwegs radeln und Kunst genießen.",
             "hu": "Kerékpározzon a műalkotások mentén.",
             "ro": "Mergeți cu bicicleta de-a lungul sculpturilor.",
-            "en": "Cycle along the sculptures and enjoy the art."
+            "en": "Cycle along the sculptures and enjoy the art.",
+            "tr": "Heykeller boyunca bisiklete binin ve sanatın tadını çıkarın."
           }
         },
         {
@@ -445,7 +474,8 @@
             "de": "Schloßplatz",
             "hu": "Kastély tér",
             "ro": "Piața Castelului",
-            "en": "Castle Square"
+            "en": "Castle Square",
+            "tr": "Kale Meydanı"
           },
           "coords": [
             7.169,
@@ -461,7 +491,8 @@
             "de": "Einkehr nach der großen Runde.",
             "hu": "Megálló a nagy kör után.",
             "ro": "Oprire după turul lung.",
-            "en": "Stop for refreshments after the long loop."
+            "en": "Stop for refreshments after the long loop.",
+            "tr": "Uzun tur sonrası bir şeyler içmek için durun."
           }
         },
         {
@@ -469,7 +500,8 @@
             "de": "Museum St. Wendel",
             "hu": "St. Wendel Múzeum",
             "ro": "Muzeul St. Wendel",
-            "en": "St. Wendel Museum"
+            "en": "St. Wendel Museum",
+            "tr": "St. Wendel Müzesi"
           },
           "coords": [
             7.171,
@@ -485,7 +517,8 @@
             "de": "Kultureller Abschluss der Tour.",
             "hu": "A túra kulturális zárása.",
             "ro": "Finalul cultural al turului.",
-            "en": "Cultural conclusion of the tour."
+            "en": "Cultural conclusion of the tour.",
+            "tr": "Turun kültürel finali."
           }
         }
       ],
@@ -493,7 +526,8 @@
         "de": "Diese Fahrradtour verbindet die Stadtgeschichte mit der grünen Umgebung. Nach der Besichtigung der Basilika führt uns der Weg zum Missionshaus und weiter auf den Radweg der Skulpturenstraße. Hier erleben wir zeitgenössische Kunst unter freiem Himmel. Zurück in der Stadt lassen wir den Tag am Schloßplatz ausklingen.",
         "hu": "Ez a kerékpártúra összeköti a város történelmét a zöld környezettel. A bazilika megtekintése után utunk a Missziós házhoz, majd tovább a Szobrok útja kerékpárútra vezet. Itt kortárs művészetet láthatunk a szabad ég alatt. A városba visszatérve a Kastély téren zárjuk a napot.",
         "ro": "Acest tur cu bicicleta îmbină istoria orașului cu împrejurimile verzi. După vizitarea bazilicii, drumul ne duce la Casa Misiunii și mai departe pe pista de biciclete a Străzii Sculpturilor. Aici experimentăm arta contemporană în aer liber. Revenind în oraș, încheiem ziua în Piața Castelului.",
-        "en": "This bike tour combines city history with the green surroundings. After visiting the Basilica, our path leads to the Mission House and further onto the sculpture street bike path. Here we experience contemporary art in the open air. Back in the city, we end the day at Castle Square."
+        "en": "This bike tour combines city history with the green surroundings. After visiting the Basilica, our path leads to the Mission House and further onto the sculpture street bike path. Here we experience contemporary art in the open air. Back in the city, we end the day at Castle Square.",
+        "tr": "Bu bisiklet turu şehir tarihini yeşil çevreyle birleştiriyor. Bazilikayı ziyaret ettikten sonra rotamız Misyon Evi'ne ve devamında heykel sokağı bisiklet yoluna gidiyor. Burada açık havada çağdaş sanatı deneyimliyoruz. Şehre döndüğümüzde günü Kale Meydanı'nda sonlandırıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -601,6 +635,12 @@
           "Use the Wendalinus bike path for the return journey.",
           "A helmet is recommended on the field paths.",
           "Check tire pressure before the climb to the Mission House."
+        ],
+        "tr": [
+          "Heykel yolu iyi işaretlenmiştir.",
+          "Dönüş yolunda Wendalinus bisiklet yolunu kullanın.",
+          "Tarlalardaki patikalarda kask önerilir.",
+          "Misyon Evi'ne tırmanış öncesi lastik basıncını kontrol edin."
         ]
       }
     },
@@ -617,7 +657,8 @@
             "de": "Fruchtmarkt",
             "hu": "Gyümölcspiac",
             "ro": "Piața de Fructe",
-            "en": "Fruit Market"
+            "en": "Fruit Market",
+            "tr": "Meyve Pazarı"
           },
           "coords": [
             7.1695,
@@ -633,7 +674,8 @@
             "de": "Parkhaus in der Nähe nutzen.",
             "hu": "Használja a közeli parkolóházat.",
             "ro": "Utilizați parcarea etajată din apropiere.",
-            "en": "Use the nearby parking garage."
+            "en": "Use the nearby parking garage.",
+            "tr": "Yakındaki otoparkı kullanın."
           }
         },
         {
@@ -641,7 +683,8 @@
             "de": "Wendalinusbasilika",
             "hu": "Wendalinus-bazilika",
             "ro": "Bazilica Wendalinus",
-            "en": "Wendalinus Basilica"
+            "en": "Wendalinus Basilica",
+            "tr": "Wendalinus Bazilikası"
           },
           "coords": [
             7.1705,
@@ -657,7 +700,8 @@
             "de": "Fußläufig vom Parkplatz erreichbar.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking area."
+            "en": "Accessible on foot from the parking area.",
+            "tr": "Otoparktan yürüyerek erişilebilir."
           }
         },
         {
@@ -665,7 +709,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             7.1698,
@@ -681,7 +726,8 @@
             "de": "Herz des historischen Viertels.",
             "hu": "A történelmi negyed szíve.",
             "ro": "Inima cartierului istoric.",
-            "en": "Heart of the historical district."
+            "en": "Heart of the historical district.",
+            "tr": "Tarihi bölgenin kalbi."
           }
         },
         {
@@ -689,7 +735,8 @@
             "de": "Missionshaus St. Wendel",
             "hu": "Missziós ház",
             "ro": "Casa Misiunii",
-            "en": "Mission House"
+            "en": "Mission House",
+            "tr": "Misyon Evi"
           },
           "coords": [
             7.185,
@@ -705,7 +752,8 @@
             "de": "Großer Besucherparkplatz vorhanden.",
             "hu": "Nagy látogatói parkoló áll rendelkezésre.",
             "ro": "Parcare mare pentru vizitatori disponibilă.",
-            "en": "Large visitor parking lot available."
+            "en": "Large visitor parking lot available.",
+            "tr": "Geniş ziyaretçi otoparkı mevcut."
           }
         },
         {
@@ -713,7 +761,8 @@
             "de": "Straße der Skulpturen",
             "hu": "Szobrok útja",
             "ro": "Strada Sculpturilor",
-            "en": "Street of Sculptures"
+            "en": "Street of Sculptures",
+            "tr": "Heykeller Sokağı"
           },
           "coords": [
             7.175,
@@ -729,7 +778,8 @@
             "de": "Parken am Wanderparkplatz.",
             "hu": "Parkolás a kirándulóparkolóban.",
             "ro": "Parcare la parcarea pentru drumeții.",
-            "en": "Park at the hiker's parking lot."
+            "en": "Park at the hiker's parking lot.",
+            "tr": "Yürüyüşçü otoparkında park edin."
           }
         },
         {
@@ -737,7 +787,8 @@
             "de": "Schloßplatz",
             "hu": "Kastély tér",
             "ro": "Piața Castelului",
-            "en": "Castle Square"
+            "en": "Castle Square",
+            "tr": "Kale Meydanı"
           },
           "coords": [
             7.169,
@@ -753,7 +804,8 @@
             "de": "Zentraler Platz für die Mittagspause.",
             "hu": "Központi tér az ebédszünethez.",
             "ro": "Piață centrală pentru pauza de prânz.",
-            "en": "Central square for lunch break."
+            "en": "Central square for lunch break.",
+            "tr": "Öğle molası için merkezi meydan."
           }
         },
         {
@@ -761,7 +813,8 @@
             "de": "Museum St. Wendel",
             "hu": "St. Wendel Múzeum",
             "ro": "Muzeul St. Wendel",
-            "en": "St. Wendel Museum"
+            "en": "St. Wendel Museum",
+            "tr": "St. Wendel Müzesi"
           },
           "coords": [
             7.171,
@@ -777,7 +830,8 @@
             "de": "Kulturelles Highlight zum Abschluss.",
             "hu": "Kulturális fénypont a végére.",
             "ro": "Punct culminant cultural la final.",
-            "en": "Cultural highlight to finish."
+            "en": "Cultural highlight to finish.",
+            "tr": "Bitirmek için kültürel bir vurgu."
           }
         }
       ],
@@ -785,7 +839,8 @@
         "de": "Mit dem Auto erreichen wir bequem alle wichtigen Stationen. Wir beginnen im Zentrum, besuchen dann das etwas außerhalb gelegene Missionshaus und den Skulpturenweg. Die Kombination aus kurzen Fahrten und Spaziergängen ermöglicht es uns, viel zu sehen, ohne müde zu werden. Das Museum bildet den feierlichen Abschluss.",
         "hu": "Autóval kényelmesen elérjük az összes fontos állomást. A központban kezdünk, majd meglátogatjuk a kicsit kijjebb eső Missziós házat és a Szobrok útját. A rövid autózások és séták kombinációja lehetővé teszi, hogy sokat lássunk anélkül, hogy elfáradnánk. A múzeum adja az ünnepélyes zárást.",
         "ro": "Cu mașina ajungem confortabil la toate stațiile importante. Începem în centru, apoi vizităm Casa Misiunii situată puțin în exterior și Strada Sculpturilor. Combinația de călătorii scurte și plimbări ne permite să vedem multe fără să obosim. Muzeul reprezintă finalul solemn.",
-        "en": "By car, we can comfortably reach all the important stations. We start in the center, then visit the Mission House located slightly outside and the sculpture path. The combination of short drives and walks allows us to see a lot without getting tired. The museum provides a solemn conclusion."
+        "en": "By car, we can comfortably reach all the important stations. We start in the center, then visit the Mission House located slightly outside and the sculpture path. The combination of short drives and walks allows us to see a lot without getting tired. The museum provides a solemn conclusion.",
+        "tr": "Arabayla tüm önemli duraklara rahatça ulaşabiliyoruz. Merkezde başlıyoruz, ardından biraz dışarıda yer alan Misyon Evi ve heykel yolunu ziyaret ediyoruz. Kısa sürüşler ve yürüyüşlerin kombinasyonu, yorgun düşmeden çok şey görmemizi sağlıyor. Müze ciddi bir son sunuyor."
       },
       "gastro_picks": {
         "de": [
@@ -893,6 +948,12 @@
           "The city center is partially a pedestrian zone.",
           "Parking garages are well signposted.",
           "Allow some time for finding a parking spot on market days."
+        ],
+        "tr": [
+          "Park ve Git (Park-and-Ride) seçeneklerini kullanın.",
+          "Şehir merkezi kısmen yaya bölgesidir.",
+          "Otopark katları iyi işaretlenmiştir.",
+          "Pazar günlerinde park yeri bulmak için biraz zaman ayırın."
         ]
       }
     },
@@ -909,7 +970,8 @@
             "de": "Fruchtmarkt",
             "hu": "Gyümölcspiac",
             "ro": "Piața de Fructe",
-            "en": "Fruit Market"
+            "en": "Fruit Market",
+            "tr": "Meyve Pazarı"
           },
           "coords": [
             7.1695,
@@ -925,7 +987,8 @@
             "de": "Busbahnhof in unmittelbarer Nähe.",
             "hu": "Buszpályaudvar a közvetlen közelben.",
             "ro": "Autogara în imediata apropiere.",
-            "en": "Bus station in the immediate vicinity."
+            "en": "Bus station in the immediate vicinity.",
+            "tr": "Hemen yakınında otobüs durağı var."
           }
         },
         {
@@ -933,7 +996,8 @@
             "de": "Wendalinusbasilika",
             "hu": "Wendalinus-bazilika",
             "ro": "Bazilica Wendalinus",
-            "en": "Wendalinus Basilica"
+            "en": "Wendalinus Basilica",
+            "tr": "Wendalinus Bazilikası"
           },
           "coords": [
             7.1705,
@@ -949,7 +1013,8 @@
             "de": "Zentraler Anlaufpunkt in der Altstadt.",
             "hu": "Központi találkozóhely az óvárosban.",
             "ro": "Punct central în orașul vechi.",
-            "en": "Central meeting point in the old town."
+            "en": "Central meeting point in the old town.",
+            "tr": "Eski şehirde merkezi buluşma noktası."
           }
         },
         {
@@ -957,7 +1022,8 @@
             "de": "Missionshaus St. Wendel",
             "hu": "Missziós ház",
             "ro": "Casa Misiunii",
-            "en": "Mission House"
+            "en": "Mission House",
+            "tr": "Misyon Evi"
           },
           "coords": [
             7.185,
@@ -973,7 +1039,8 @@
             "de": "Regelmäßige Busverbindungen ab ZOB.",
             "hu": "Rendszeres buszjáratok a pályaudvarról.",
             "ro": "Legături regulate de autobuz de la ZOB.",
-            "en": "Regular bus connections from the main station."
+            "en": "Regular bus connections from the main station.",
+            "tr": "Ana istasyondan düzenli otobüs bağlantıları."
           }
         },
         {
@@ -981,7 +1048,8 @@
             "de": "Straße der Skulpturen",
             "hu": "Szobrok útja",
             "ro": "Strada Sculpturilor",
-            "en": "Street of Sculptures"
+            "en": "Street of Sculptures",
+            "tr": "Heykeller Sokağı"
           },
           "coords": [
             7.175,
@@ -997,7 +1065,8 @@
             "de": "Bushaltestelle Baltersweiler nutzen.",
             "hu": "Használja a baltersweileri buszmegállót.",
             "ro": "Utilizați stația de autobuz Baltersweiler.",
-            "en": "Use the Baltersweiler bus stop."
+            "en": "Use the Baltersweiler bus stop.",
+            "tr": "Baltersweiler otobüs durağını kullanın."
           }
         },
         {
@@ -1005,7 +1074,8 @@
             "de": "Museum St. Wendel",
             "hu": "St. Wendel Múzeum",
             "ro": "Muzeul St. Wendel",
-            "en": "St. Wendel Museum"
+            "en": "St. Wendel Museum",
+            "tr": "St. Wendel Müzesi"
           },
           "coords": [
             7.171,
@@ -1021,7 +1091,8 @@
             "de": "Zurück im Zentrum für Kultur.",
             "hu": "Újra a központban a kultúráért.",
             "ro": "Înapoi în centru pentru cultură.",
-            "en": "Back in the center for culture."
+            "en": "Back in the center for culture.",
+            "tr": "Kültür için tekrar merkezde."
           }
         },
         {
@@ -1029,7 +1100,8 @@
             "de": "Schloßplatz",
             "hu": "Kastély tér",
             "ro": "Piața Castelului",
-            "en": "Castle Square"
+            "en": "Castle Square",
+            "tr": "Kale Meydanı"
           },
           "coords": [
             7.169,
@@ -1045,7 +1117,8 @@
             "de": "Gemütlicher Ausklang vor der Rückreise.",
             "hu": "Hangulatos zárás a hazautazás előtt.",
             "ro": "Încheiere plăcută înainte de plecare.",
-            "en": "Cozy end before the return journey."
+            "en": "Cozy end before the return journey.",
+            "tr": "Dönüş yolculuğu öncesi samimi bir bitiş."
           }
         }
       ],
@@ -1053,7 +1126,8 @@
         "de": "Mit dem gut ausgebauten Busnetz entdecken wir die Highlights der Stadt. Wir starten am Fruchtmarkt, fahren zum beeindruckenden Missionshaus und besuchen den Skulpturenweg. Dank des ÖPNV können wir flexibel zwischen den kulturellen Standorten und den Naturpfaden wechseln. Den Tag beenden wir entspannt in der Altstadt.",
         "hu": "A jól kiépített buszhálózattal fedezzük fel a város nevezetességeit. A Gyümölcspiacról indulunk, ellátogatunk a lenyűgöző Missziós házhoz és a Szobrok útjához. A tömegközlekedésnek köszönhetően rugalmasan válthatunk a kulturális helyszínek és a természetjáró utak között. A napot pihentetően zárjuk az óvárosban.",
         "ro": "Descoperim punctele forte ale orașului cu rețeaua bine dezvoltată de autobuze. Pornim de la Piața de Fructe, mergem la impresionanta Casă a Misiunii și vizităm Strada Sculpturilor. Datorită transportului public, putem schimba flexibil între locațiile culturale și potecile naturale. Încheiem ziua relaxat în orașul vechi.",
-        "en": "With the well-developed bus network, we discover the city's highlights. We start at the Fruit Market, travel to the impressive Mission House and visit the sculpture path. Thanks to public transport, we can flexibly switch between cultural sites and nature trails. We end the day relaxed in the old town."
+        "en": "With the well-developed bus network, we discover the city's highlights. We start at the Fruit Market, travel to the impressive Mission House and visit the sculpture path. Thanks to public transport, we can flexibly switch between cultural sites and nature trails. We end the day relaxed in the old town.",
+        "tr": "Gelişmiş otobüs ağıyla şehrin öne çıkanlarını keşfediyoruz. Meyve Pazarı'nda başlayıp etkileyici Misyon Evi'ne gidiyor ve heykel yolunu ziyaret ediyoruz. Toplu taşıma sayesinde kültürel alanlar ile doğa yürüyüşleri arasında esnekçe geçiş yapabiliyoruz. Günü eski şehirde dinlenerek bitiriyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -1161,6 +1235,12 @@
           "Schedules are posted at every stop.",
           "Buses run less frequently on weekends.",
           "Use the Saar-VV app for real-time data."
+        ],
+        "tr": [
+          "Şehir bölgesi için günlük bilet alın.",
+          "Saatler her durakta ilan edilir.",
+          "Hafta sonları otobüsler daha seyrek çalışır.",
+          "Gerçek zamanlı veriler için Saar-VV uygulamasını kullanın."
         ]
       }
     }

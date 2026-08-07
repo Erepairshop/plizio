@@ -3,55 +3,64 @@
     "de": "Hafenstraße 2, 78462 Konstanz",
     "hu": "Hafenstraße 2, 78462 Konstanz",
     "ro": "Hafenstraße 2, 78462 Konstanz",
-    "en": "Hafenstraße 2, 78462 Konstanz"
+    "en": "Hafenstraße 2, 78462 Konstanz",
+    "tr": "Hafenstraße 2, 78462 Konstanz"
   },
   "openingHours": {
     "de": "Außenbesichtigung 24/7; Restaurant im EG täglich 11:00-22:00",
     "hu": "Kívülről bármikor; földszinti étterem naponta 11:00–22:00",
     "ro": "Vizită exterioară non-stop; restaurant la parter zilnic 11:00-22:00",
-    "en": "Outdoor viewing 24/7; ground floor restaurant daily 11:00-22:00"
+    "en": "Outdoor viewing 24/7; ground floor restaurant daily 11:00-22:00",
+    "tr": "Açık hava izleme 24/7; zemin kattaki restoran her gün 11:00-22:00"
   },
   "entranceFee": {
     "de": "free (außer bei Veranstaltungen)",
     "hu": "ingyenes (kivéve rendezvények alatt)",
     "ro": "gratuit (cu excepția evenimentelor)",
-    "en": "free (except during events)"
+    "en": "free (except during events)",
+    "tr": "ücretsiz (etkinlikler dışında)"
   },
   "website": "https://www.konzil-konstanz.de",
   "publicTransport": {
     "de": "Direkt am Bahnhof Konstanz (alle Linien)",
     "hu": "Közvetlenül a konstanz-i pályaudvarnál (minden vonal)",
     "ro": "Direct lângă gara Konstanz (toate liniile)",
-    "en": "Directly at Konstanz station (all lines)"
+    "en": "Directly at Konstanz station (all lines)",
+    "tr": "Doğrudan Konstanz istasyonunda (tüm hatlar)"
   },
   "parking": {
     "de": "Parkhaus am Fischmarkt oder Parkhaus LAGO, ca. €2.50/Std.",
     "hu": "Parkhaus am Fischmarkt vagy LAGO parkolóház, kb. 2,50 €/óra",
     "ro": "Parcarea de la Fischmarkt sau parcarea LAGO, aprox. 2,50 €/oră",
-    "en": "Parking garage at Fischmarkt or LAGO parking, approx. €2.50/hr"
+    "en": "Parking garage at Fischmarkt or LAGO parking, approx. €2.50/hr",
+    "tr": "Fischmarkt otoparkı veya LAGO otoparkı, yaklaşık €2.50/sa"
   },
   "accessibility": {
     "de": "Erdgeschoss barrierefrei; obere Säle bei Veranstaltungen meist über Aufzug erreichbar",
     "hu": "A földszint akadálymentes; a felső termek rendezvények idején lifttel megközelíthetők",
     "ro": "Parterul este accesibil; sălile superioare sunt de obicei accesibile prin lift în timpul evenimentelor",
-    "en": "Ground floor accessible; upper halls usually reachable via elevator during events"
+    "en": "Ground floor accessible; upper halls usually reachable via elevator during events",
+    "tr": "Zemin kat erişilebilir; üst salonlar genelde etkinliklerde asansörle ulaşılıyor"
   },
   "photoRules": {
     "de": "Erlaubt; besonders schön vom Hafen aus mit der Imperia-Statue",
     "hu": "Megengedett; a kikötő felől az Imperia-szoborral együtt mutat a legjobban",
     "ro": "Permis; deosebit de frumos din port, împreună cu statuia Imperia",
-    "en": "Allowed; particularly beautiful from the harbor with the Imperia statue"
+    "en": "Allowed; particularly beautiful from the harbor with the Imperia statue",
+    "tr": "İzinli; özellikle Imperia heykeliyle limandan bakış çok güzeldir"
   },
   "bestTimeToVisit": {
     "de": "Zur blauen Stunde direkt am Seeufer",
     "hu": "A kék órában közvetlenül a tóparton",
     "ro": "La ora albastră direct pe malul lacului",
-    "en": "During the blue hour directly on the lakeside"
+    "en": "During the blue hour directly on the lakeside",
+    "tr": "Doğrudan göl kenarında mavi saatte"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

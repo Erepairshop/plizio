@@ -21,7 +21,8 @@
             "de": "Alter Hansehafen",
             "hu": "Régi Hanza-kikötő",
             "ro": "Vechiul port hanseatic",
-            "en": "Old Hanseatic Harbor"
+            "en": "Old Hanseatic Harbor",
+            "tr": "Eski Hansa Limanı"
           },
           "coords": [
             9.475,
@@ -37,7 +38,8 @@
             "de": "Bester Fotospot für die historischen Fachwerkhäuser am Wasser.",
             "hu": "A legjobb fotópont a vízparti történelmi szakaszos házakhoz.",
             "ro": "Cel mai bun loc pentru fotografii cu casele istorice de pe mal.",
-            "en": "Best photo spot for the historic timber-framed houses by the water."
+            "en": "Best photo spot for the historic timber-framed houses by the water.",
+            "tr": "Suyun kenarındaki tarihi yarı-ahşap evler için en iyi fotoğraf noktası."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Holzkran",
             "hu": "Fadaru",
             "ro": "Macara de lemn",
-            "en": "Wooden Crane"
+            "en": "Wooden Crane",
+            "tr": "Ahşap Vinç"
           },
           "coords": [
             9.4762,
@@ -61,7 +64,8 @@
             "de": "Rekonstruktion eines Tretkrans aus dem Jahr 1650.",
             "hu": "Egy 1650-ből származó taposódaru rekonstrukciója.",
             "ro": "Reconstrucția unei macarale cu pedale din anul 1650.",
-            "en": "Reconstruction of a treadwheel crane from 1650."
+            "en": "Reconstruction of a treadwheel crane from 1650.",
+            "tr": "1650'den kalma bir ayak çevirmeli vincin yeniden yapımı."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Schwedenspeicher",
             "hu": "Schwedenspeicher Múzeum",
             "ro": "Muzeul Schwedenspeicher",
-            "en": "Schwedenspeicher Museum"
+            "en": "Schwedenspeicher Museum",
+            "tr": "Schwedenspeicher Müzesi"
           },
           "coords": [
             9.4771,
@@ -85,7 +90,8 @@
             "de": "Spannende Ausstellungen zur Stadtgeschichte im ehemaligen Speicher.",
             "hu": "Izgalmas várostörténeti kiállítások az egykori raktárépületben.",
             "ro": "Expoziții fascinante despre istoria orașului într-un fost depozit.",
-            "en": "Exciting exhibitions on city history in a former warehouse."
+            "en": "Exciting exhibitions on city history in a former warehouse.",
+            "tr": "Eski bir ambar olan binada şehir tarihine dair heyecan verici sergiler."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Bürgermeister-Hintze-Haus",
             "hu": "Bürgermeister-Hintze-ház",
             "ro": "Casa Bürgermeister-Hintze",
-            "en": "Bürgermeister-Hintze-Haus"
+            "en": "Bürgermeister-Hintze-Haus",
+            "tr": "Bürgermeister-Hintze-Haus"
           },
           "coords": [
             9.4745,
@@ -109,7 +116,8 @@
             "de": "Prachtvolle Renaissance-Fassade aus dem Jahr 1621.",
             "hu": "Pompás reneszánsz homlokzat 1621-ből.",
             "ro": "Fațadă renascentistă magnifică din anul 1621.",
-            "en": "Magnificent Renaissance facade dating back to 1621."
+            "en": "Magnificent Renaissance facade dating back to 1621.",
+            "tr": "1621 yılına tarihlenen görkemli Rönesans cephesi."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "St. Cosmae et Damiani",
             "hu": "Szent Kozma és Damján templom",
             "ro": "Biserica Sf. Cosmae și Damiani",
-            "en": "St. Cosmae et Damiani Church"
+            "en": "St. Cosmae et Damiani Church",
+            "tr": "St. Cosmae et Damiani Kilisesi"
           },
           "coords": [
             9.4735,
@@ -133,7 +142,8 @@
             "de": "Bewundern Sie die berühmte Huß-Schnitger-Orgel im Inneren.",
             "hu": "Csodálja meg a híres Huß-Schnitger orgonát a belső térben.",
             "ro": "Admirați celebra orgă Huß-Schnitger în interior.",
-            "en": "Admire the famous Huß-Schnitger organ inside."
+            "en": "Admire the famous Huß-Schnitger organ inside.",
+            "tr": "İçerideki ünlü Huß-Schnitger orgunu hayranlıkla izleyin."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Zeughaus",
             "hu": "Fegyvertár (Zeughaus)",
             "ro": "Zeughaus (Arsenal)",
-            "en": "Zeughaus (Arsenal)"
+            "en": "Zeughaus (Arsenal)",
+            "tr": "Zeughaus (Cephanelik)"
           },
           "coords": [
             9.472,
@@ -157,7 +168,8 @@
             "de": "Ehemaliges königlich-schwedisches Arsenal, heute Kulturzentrum.",
             "hu": "Egykori királyi svéd fegyvertár, ma kulturális központ.",
             "ro": "Fost arsenal regal suedez, astăzi centru cultural.",
-            "en": "Former Royal Swedish Arsenal, now a cultural center."
+            "en": "Former Royal Swedish Arsenal, now a cultural center.",
+            "tr": "Eski Kraliyet İsveç Cephaneliği, şimdi kültür merkezi."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Insel Stade",
             "hu": "Stade-sziget park",
             "ro": "Insula Stade",
-            "en": "Insel Stade Park"
+            "en": "Insel Stade Park",
+            "tr": "Insel Stade Parkı"
           },
           "coords": [
             9.468,
@@ -181,7 +194,8 @@
             "de": "Besuchen Sie das Freilichtmuseum auf der idyllischen Insel.",
             "hu": "Látogasson el a szabadtéri múzeumba az idilli szigeten.",
             "ro": "Vizitați muzeul în aer liber de pe insula idilică.",
-            "en": "Visit the open-air museum on this idyllic island."
+            "en": "Visit the open-air museum on this idyllic island.",
+            "tr": "Bu ıssız adadaki açık hava müzesini ziyaret edin."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag am malerischen Alten Hansehafen, dem Herzstück der Stader Altstadt. Nach der Besichtigung des Holzkrans und des Schwedenspeichers tauchen Sie tiefer in die Gassen ein, vorbei am prächtigen Hintze-Haus zur Cosmae-Kirche. Der Nachmittag gehört dem Zeughaus, bevor Sie den Tag entspannt im Grünen auf der Insel Stade beim Freilichtmuseum ausklingen lassen.",
         "hu": "Kezdje a napot a festői Régi Hanza-kikötőben, Stade óvárosának szívében. A Fadaru és a Schwedenspeicher múzeum megtekintése után merüljön el a szűk utcákban, érintve a pompás Hintze-házat a Szent Kozma templomig. A délutánt töltse a Fegyvertárban (Zeughaus), majd zárja a napot pihentető környezetben, a Stade-szigeti szabadtéri múzeum parkjában.",
         "ro": "Începeți ziua în pitorescul Port Vechi Hanseatic, inima orașului vechi din Stade. După ce vizitați Macaraua de lemn și Muzeul Schwedenspeicher, explorați străzile înguste, trecând pe lângă splendida Casă Hintze către Biserica Sf. Cosmae. După-amiaza este dedicată clădirii Zeughaus, înainte de a încheia ziua relaxat în zona verde a Insulei Stade, lângă muzeul în aer liber.",
-        "en": "Start your day at the picturesque Old Hanseatic Harbor, the heart of Stade's old town. After seeing the Wooden Crane and the Schwedenspeicher Museum, dive deeper into the alleys, passing the magnificent Hintze House towards St. Cosmae Church. Spend your afternoon at the Zeughaus before ending the day with a relaxing stroll on Insel Stade near the open-air museum."
+        "en": "Start your day at the picturesque Old Hanseatic Harbor, the heart of Stade's old town. After seeing the Wooden Crane and the Schwedenspeicher Museum, dive deeper into the alleys, passing the magnificent Hintze House towards St. Cosmae Church. Spend your afternoon at the Zeughaus before ending the day with a relaxing stroll on Insel Stade near the open-air museum.",
+        "tr": "Gününüzü pitoresk Eski Hansa Limanı'nda, Stade'in eski kentinin kalbinde başlatın. Ahşap Vinç ve Schwedenspeicher Müzesi'ni gördükten sonra sokaklara dalın, görkemli Hintze Evi'nden St. Cosmae Kilisesi'ne doğru ilerleyin. Öğleden sonranızı Zeughaus'ta geçirin ve günü açık hava müzesinin yakınındaki Insel Stade'de rahat bir yürüyüşle sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -345,6 +360,11 @@
           "Wear comfortable shoes for the historic cobblestone streets.",
           "Combine your visit with a boat trip on the moat (Burggraben).",
           "The old town is very compact and best explored on foot."
+        ],
+        "tr": [
+          "Tarihi parke taşlı sokaklar için rahat ayakkabılar giyin.",
+          "Ziyaretinizi hendek üzerinde bir tekne turu ile birleştirin (Burggraben).",
+          "Eski şehir çok kompakt ve en iyi yürüyerek keşfedilir."
         ]
       }
     },
@@ -361,7 +381,8 @@
             "de": "Alter Hansehafen",
             "hu": "Régi Hanza-kikötő",
             "ro": "Portul Vechi Hanseatic",
-            "en": "Old Hanseatic Harbor"
+            "en": "Old Hanseatic Harbor",
+            "tr": "Eski Hanzalı Liman"
           },
           "coords": [
             9.475,
@@ -377,7 +398,8 @@
             "de": "Fahrrad abstellen und das Hafenambiente genießen.",
             "hu": "Tegye le a biciklit és élvezze a kikötői hangulatot.",
             "ro": "Parcați bicicleta și bucurați-vă de atmosfera portului.",
-            "en": "Park your bike and enjoy the harbor atmosphere."
+            "en": "Park your bike and enjoy the harbor atmosphere.",
+            "tr": "Bisikletinizi park edin ve limanın atmosferinin tadını çıkarın."
           }
         },
         {
@@ -385,7 +407,8 @@
             "de": "Holzkran",
             "hu": "Fadaru",
             "ro": "Macara de lemn",
-            "en": "Wooden Crane"
+            "en": "Wooden Crane",
+            "tr": "Ahşap Vinç"
           },
           "coords": [
             9.4762,
@@ -401,7 +424,8 @@
             "de": "Ein Wahrzeichen der Stader Seefahrtsgeschichte.",
             "hu": "Stade tengerészeti történelmének jelképe.",
             "ro": "Un simbol al istoriei maritime din Stade.",
-            "en": "A landmark of Stade's maritime history."
+            "en": "A landmark of Stade's maritime history.",
+            "tr": "Stade'nin denizcilik tarihinin simgesi."
           }
         },
         {
@@ -409,7 +433,8 @@
             "de": "Schwedenspeicher",
             "hu": "Schwedenspeicher",
             "ro": "Schwedenspeicher",
-            "en": "Schwedenspeicher"
+            "en": "Schwedenspeicher",
+            "tr": "Schwedenspeicher"
           },
           "coords": [
             9.4771,
@@ -425,7 +450,8 @@
             "de": "Museumsbesuch ist ein Muss für Geschichtsfans.",
             "hu": "A múzeumlátogatás kötelező a történelem kedvelőinek.",
             "ro": "Vizitarea muzeului este obligatorie pentru fanii istoriei.",
-            "en": "A museum visit is a must for history buffs."
+            "en": "A museum visit is a must for history buffs.",
+            "tr": "Tarih meraklıları için bir müze ziyareti şart."
           }
         },
         {
@@ -433,7 +459,8 @@
             "de": "St. Wilhadi",
             "hu": "Szent Willihad templom",
             "ro": "Biserica Sf. Wilhadi",
-            "en": "St. Wilhadi Church"
+            "en": "St. Wilhadi Church",
+            "tr": "St. Wilhadi Kilisesi"
           },
           "coords": [
             9.4715,
@@ -449,7 +476,8 @@
             "de": "Gotische Hallenkirche mit imposantem Turm.",
             "hu": "Gótikus csarnoktemplom impozáns toronnyal.",
             "ro": "Biserică gotică cu un turn impunător.",
-            "en": "Gothic hall church with an impressive tower."
+            "en": "Gothic hall church with an impressive tower.",
+            "tr": "Etkileyici bir kuleye sahip gotik salon kilise."
           }
         },
         {
@@ -457,7 +485,8 @@
             "de": "St. Cosmae et Damiani",
             "hu": "Szent Kozma templom",
             "ro": "Biserica Sf. Cosmae",
-            "en": "St. Cosmae Church"
+            "en": "St. Cosmae Church",
+            "tr": "St. Cosmae Kilisesi"
           },
           "coords": [
             9.4735,
@@ -473,7 +502,8 @@
             "de": "Besichtigung der historischen Orgel.",
             "hu": "A történelmi orgona megtekintése.",
             "ro": "Vizitarea orgii istorice.",
-            "en": "Visit the historic organ."
+            "en": "Visit the historic organ.",
+            "tr": "Tarihi orgu ziyaret edin."
           }
         },
         {
@@ -481,7 +511,8 @@
             "de": "Zeughaus",
             "hu": "Zeughaus",
             "ro": "Zeughaus",
-            "en": "Zeughaus"
+            "en": "Zeughaus",
+            "tr": "Zeughaus"
           },
           "coords": [
             9.472,
@@ -497,7 +528,8 @@
             "de": "Kultur und Geschichte im Herzen der Stadt.",
             "hu": "Kultúra és történelem a város szívében.",
             "ro": "Cultură și istorie în inima orașului.",
-            "en": "Culture and history in the heart of the city."
+            "en": "Culture and history in the heart of the city.",
+            "tr": "Şehrin kalbinde kültür ve tarih."
           }
         },
         {
@@ -505,7 +537,8 @@
             "de": "Insel Stade",
             "hu": "Stade-sziget",
             "ro": "Insula Stade",
-            "en": "Insel Stade"
+            "en": "Insel Stade",
+            "tr": "Insel Stade"
           },
           "coords": [
             9.468,
@@ -521,7 +554,8 @@
             "de": "Idyllische Radwege rund um die Insel.",
             "hu": "Idilli kerékpárutak a sziget körül.",
             "ro": "Piste de biciclete idilice în jurul insulei.",
-            "en": "Idyllic bike paths around the island."
+            "en": "Idyllic bike paths around the island.",
+            "tr": "Adanın etrafında idil bisiklet yolları."
           }
         },
         {
@@ -529,7 +563,8 @@
             "de": "Bürgermeister-Hintze-Haus",
             "hu": "Hintze-ház",
             "ro": "Casa Hintze",
-            "en": "Hintze House"
+            "en": "Hintze House",
+            "tr": "Hintze Evi"
           },
           "coords": [
             9.4745,
@@ -545,7 +580,8 @@
             "de": "Kurzer Stopp für ein Foto der Fassade.",
             "hu": "Rövid megálló a homlokzat lefotózásához.",
             "ro": "O scurtă oprire pentru o fotografie a fațadei.",
-            "en": "Quick stop for a photo of the facade."
+            "en": "Quick stop for a photo of the facade.",
+            "tr": "Cephe fotoğrafı için kısa bir durak."
           }
         }
       ],
@@ -553,7 +589,8 @@
         "de": "Erkunden Sie Stade mit dem Rad und genießen Sie die Freiheit auf zwei Rädern. Von den historischen Häfen über die beeindruckenden Kirchen bis hin zu den grünen Oasen der Stadt – diese Route zeigt Ihnen alle Highlights effizient und entspannt.",
         "hu": "Fedezze fel Stadét kerékpáron, és élvezze a szabadságot két keréken. A történelmi kikötőktől a lenyűgöző templomokon át a város zöld oázisaiig – ez az útvonal hatékonyan és kényelmesen mutatja be az összes látnivalót.",
         "ro": "Explorați Stade cu bicicleta și bucurați-vă de libertate. De la porturile istorice la bisericile impresionante și oazele verzi ale orașului – acest traseu vă arată toate punctele de interes în mod eficient și relaxat.",
-        "en": "Explore Stade by bike and enjoy the freedom on two wheels. From the historic harbors to the impressive churches and the city's green oases – this route shows you all the highlights efficiently and comfortably."
+        "en": "Explore Stade by bike and enjoy the freedom on two wheels. From the historic harbors to the impressive churches and the city's green oases – this route shows you all the highlights efficiently and comfortably.",
+        "tr": "Stade'i bisikletle keşfedin ve iki teker üzerindeki özgürlüğün tadını çıkarın. Tarihi limanlardan etkileyici kiliselere ve şehrin yeşil vaha noktalarına kadar — bu rota size tüm önemli noktaları verimli ve konforlu şekilde gösterir."
       },
       "gastro_picks": {
         "de": [
@@ -653,6 +690,10 @@
         "en": [
           "Use the well-developed bike paths along the moat.",
           "Watch out for pedestrians in the narrow old town."
+        ],
+        "tr": [
+          "Hendek boyunca gelişmiş bisiklet yollarını kullanın.",
+          "Dar eski şehirde yayalara dikkat edin."
         ]
       }
     },
@@ -669,7 +710,8 @@
             "de": "Alter Hansehafen",
             "hu": "Régi Hanza-kikötő",
             "ro": "Portul Vechi Hanseatic",
-            "en": "Old Hanseatic Harbor"
+            "en": "Old Hanseatic Harbor",
+            "tr": "Eski Hanzalı Liman"
           },
           "coords": [
             9.475,
@@ -685,7 +727,8 @@
             "de": "Parken Sie am Parkplatz 'Am Sande'.",
             "hu": "Parkoljon az 'Am Sande' parkolóban.",
             "ro": "Parcați la parcarea 'Am Sande'.",
-            "en": "Park at the 'Am Sande' parking lot."
+            "en": "Park at the 'Am Sande' parking lot.",
+            "tr": "\"Am Sande\" otoparkında park edin."
           }
         },
         {
@@ -693,7 +736,8 @@
             "de": "Schwedenspeicher",
             "hu": "Schwedenspeicher",
             "ro": "Schwedenspeicher",
-            "en": "Schwedenspeicher"
+            "en": "Schwedenspeicher",
+            "tr": "Schwedenspeicher"
           },
           "coords": [
             9.4771,
@@ -709,7 +753,8 @@
             "de": "Kurzer Fußweg vom Hafen.",
             "hu": "Rövid séta a kikötőtől.",
             "ro": "Scurtă plimbare de la port.",
-            "en": "Short walk from the harbor."
+            "en": "Short walk from the harbor.",
+            "tr": "Limandan kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -717,7 +762,8 @@
             "de": "St. Cosmae et Damiani",
             "hu": "Szent Kozma templom",
             "ro": "Biserica Sf. Cosmae",
-            "en": "St. Cosmae Church"
+            "en": "St. Cosmae Church",
+            "tr": "St. Cosmae Kilisesi"
           },
           "coords": [
             9.4735,
@@ -733,7 +779,8 @@
             "de": "Zentraler Anlaufpunkt in der Altstadt.",
             "hu": "Központi találkozóhely az óvárosban.",
             "ro": "Punct central în orașul vechi.",
-            "en": "Central meeting point in the old town."
+            "en": "Central meeting point in the old town.",
+            "tr": "Eski şehirde merkezi buluşma noktası."
           }
         },
         {
@@ -741,7 +788,8 @@
             "de": "Altes Land (Obstgarten)",
             "hu": "Altes Land (Gyümölcsös)",
             "ro": "Altes Land (Livezi)",
-            "en": "Altes Land (Orchards)"
+            "en": "Altes Land (Orchards)",
+            "tr": "Altes Land (Meyve Bahçeleri)"
           },
           "coords": [
             9.55,
@@ -757,7 +805,8 @@
             "de": "Erkunden Sie die Apfelplantagen in der Umgebung.",
             "hu": "Fedezze fel a környékbeli almáskerteket.",
             "ro": "Explorați livezile de meri din împrejurimi.",
-            "en": "Explore the apple orchards in the surroundings."
+            "en": "Explore the apple orchards in the surroundings.",
+            "tr": "Çevredeki elma bahçelerini keşfedin."
           }
         },
         {
@@ -765,7 +814,8 @@
             "de": "Insel Stade",
             "hu": "Stade-sziget",
             "ro": "Insula Stade",
-            "en": "Insel Stade"
+            "en": "Insel Stade",
+            "tr": "Insel Stade"
           },
           "coords": [
             9.468,
@@ -781,7 +831,8 @@
             "de": "Rückkehr zur Stadtinsel für Entspannung.",
             "hu": "Visszatérés a városszigetre pihenéshez.",
             "ro": "Revenire pe insula orașului pentru relaxare.",
-            "en": "Return to the city island for relaxation."
+            "en": "Return to the city island for relaxation.",
+            "tr": "Rahatlamak için şehir adasına geri dönün."
           }
         },
         {
@@ -789,7 +840,8 @@
             "de": "Zeughaus",
             "hu": "Zeughaus",
             "ro": "Zeughaus",
-            "en": "Zeughaus"
+            "en": "Zeughaus",
+            "tr": "Zeughaus"
           },
           "coords": [
             9.472,
@@ -805,7 +857,8 @@
             "de": "Abschluss im historischen Zentrum.",
             "hu": "Befejezés a történelmi központban.",
             "ro": "Final în centrul istoric.",
-            "en": "Finish in the historic center."
+            "en": "Finish in the historic center.",
+            "tr": "Tarihi merkezde bitirin."
           }
         }
       ],
@@ -813,7 +866,8 @@
         "de": "Mit dem Auto kombinieren Sie das Beste aus Stade mit einem Abstecher ins 'Alte Land', das größte zusammenhängende Obstbaugebiet Nordeuropas. Nach dem Stadtrundgang fahren Sie hinaus in die Plantagen und genießen die weite Landschaft, bevor Sie für den Abend zurückkehren.",
         "hu": "Autóval kombinálhatja Stade legjavát egy kitérővel az 'Altes Land' régióba, Észak-Európa legnagyobb összefüggő gyümölcstermesztő vidékére. A városnézés után hajtson ki az ültetvényekre, élvezze a tágas tájat, majd térjen vissza az esti pihenésre.",
         "ro": "Cu mașina, combinați tot ce este mai bun în Stade cu o escapadă în 'Altes Land', cea mai mare regiune pomicolă compactă din nordul Europei. După turul orașului, conduceți spre livezi și bucurați-vă de peisajul vast înainte de a reveni pentru seară.",
-        "en": "By car, combine the best of Stade with a detour to 'Altes Land', Northern Europe's largest contiguous fruit-growing region. After the city tour, drive out to the orchards and enjoy the wide landscape before returning for the evening."
+        "en": "By car, combine the best of Stade with a detour to 'Altes Land', Northern Europe's largest contiguous fruit-growing region. After the city tour, drive out to the orchards and enjoy the wide landscape before returning for the evening.",
+        "tr": "Arabayla, Stade'nin en iyilerini 'Altes Land' (Kuzey Avrupa'nın en büyük kesintisiz meyve yetiştirme bölgesi) turu ile birleştirin. Şehir turunun ardından bahçelere doğru sürün ve akşam için geri dönmeden önce geniş manzaranın tadını çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -913,6 +967,10 @@
         "en": [
           "Parking in Stade is easily available near the center.",
           "Use Park-and-Ride options during major events."
+        ],
+        "tr": [
+          "Stade'de park merkezi yakınlarında kolaylıkla bulunur.",
+          "Büyük etkinliklerde Park ve Sür seçeneklerini kullanın."
         ]
       }
     },
@@ -929,7 +987,8 @@
             "de": "Stade Bahnhof",
             "hu": "Stade vasútállomás",
             "ro": "Gara Stade",
-            "en": "Stade Station"
+            "en": "Stade Station",
+            "tr": "Stade İstasyonu"
           },
           "coords": [
             9.478,
@@ -945,7 +1004,8 @@
             "de": "Idealer Startpunkt für Bahnreisende.",
             "hu": "Ideális kiindulópont vasúti utazóknak.",
             "ro": "Punct de plecare ideal pentru călătorii cu trenul.",
-            "en": "Ideal starting point for train travelers."
+            "en": "Ideal starting point for train travelers.",
+            "tr": "Trenle gelenler için ideal başlangıç noktası."
           }
         },
         {
@@ -953,7 +1013,8 @@
             "de": "Alter Hansehafen",
             "hu": "Régi Hanza-kikötő",
             "ro": "Portul Vechi Hanseatic",
-            "en": "Old Hanseatic Harbor"
+            "en": "Old Hanseatic Harbor",
+            "tr": "Eski Hanzalı Liman"
           },
           "coords": [
             9.475,
@@ -969,7 +1030,8 @@
             "de": "Kurze Busfahrt vom Bahnhof ins Zentrum.",
             "hu": "Rövid buszút az állomástól a központba.",
             "ro": "Scurtă călătorie cu autobuzul de la gară în centru.",
-            "en": "Short bus ride from the station to the center."
+            "en": "Short bus ride from the station to the center.",
+            "tr": "İstasyondan merkeze kısa bir otobüs yolculuğu."
           }
         },
         {
@@ -977,7 +1039,8 @@
             "de": "Schwedenspeicher",
             "hu": "Schwedenspeicher",
             "ro": "Schwedenspeicher",
-            "en": "Schwedenspeicher"
+            "en": "Schwedenspeicher",
+            "tr": "Schwedenspeicher"
           },
           "coords": [
             9.4771,
@@ -993,7 +1056,8 @@
             "de": "Zu Fuß erreichbar vom Hafen.",
             "hu": "Gyalogosan elérhető a kikötőtől.",
             "ro": "Accesibil pe jos de la port.",
-            "en": "Accessible on foot from the harbor."
+            "en": "Accessible on foot from the harbor.",
+            "tr": "Limandan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -1001,7 +1065,8 @@
             "de": "St. Cosmae et Damiani",
             "hu": "Szent Kozma templom",
             "ro": "Biserica Sf. Cosmae",
-            "en": "St. Cosmae Church"
+            "en": "St. Cosmae Church",
+            "tr": "St. Cosmae Kilisesi"
           },
           "coords": [
             9.4735,
@@ -1017,7 +1082,8 @@
             "de": "Mitten im historischen Kern.",
             "hu": "A történelmi mag közepén.",
             "ro": "În inima centrului istoric.",
-            "en": "In the heart of the historic core."
+            "en": "In the heart of the historic core.",
+            "tr": "Tarihi çekirdeğin kalbinde."
           }
         },
         {
@@ -1025,7 +1091,8 @@
             "de": "Zeughaus",
             "hu": "Zeughaus",
             "ro": "Zeughaus",
-            "en": "Zeughaus"
+            "en": "Zeughaus",
+            "tr": "Zeughaus"
           },
           "coords": [
             9.472,
@@ -1041,7 +1108,8 @@
             "de": "Kultureller Höhepunkt.",
             "hu": "Kulturális csúcspont.",
             "ro": "Punct culminant cultural.",
-            "en": "Cultural highlight."
+            "en": "Cultural highlight.",
+            "tr": "Kültürel bir etkinlik noktası."
           }
         },
         {
@@ -1049,7 +1117,8 @@
             "de": "Insel Stade",
             "hu": "Stade-sziget",
             "ro": "Insula Stade",
-            "en": "Insel Stade"
+            "en": "Insel Stade",
+            "tr": "Insel Stade"
           },
           "coords": [
             9.468,
@@ -1065,7 +1134,8 @@
             "de": "Letzter Stopp vor der Rückreise zum Bahnhof.",
             "hu": "Utolsó megálló a vasútállomásra való visszatérés előtt.",
             "ro": "Ultima oprire înainte de întoarcerea la gară.",
-            "en": "Last stop before returning to the station."
+            "en": "Last stop before returning to the station.",
+            "tr": "İstasyona dönmeden önceki son durak."
           }
         }
       ],
@@ -1073,7 +1143,8 @@
         "de": "Nutzen Sie den öffentlichen Nahverkehr, um Stade entspannt zu erreichen. Vom Bahnhof aus führt Sie der Weg durch die historische Altstadt zu allen wichtigen Museen und Kirchen, bevor Sie den Tag auf der grünen Museumsinsel abschließen.",
         "hu": "Használja a tömegközlekedést Stade kényelmes eléréséhez. Az állomástól az óvároson át vezet az út az összes fontos múzeumhoz és templomhoz, majd a napot a zöld múzeumszigeten zárhatja.",
         "ro": "Utilizați transportul public pentru a ajunge relaxat în Stade. De la gară, traseul vă poartă prin centrul istoric către toate muzeele și bisericile importante, înainte de a încheia ziua pe insula muzeelor.",
-        "en": "Use public transport to reach Stade comfortably. From the station, the path leads through the historic old town to all important museums and churches before ending the day on the green museum island."
+        "en": "Use public transport to reach Stade comfortably. From the station, the path leads through the historic old town to all important museums and churches before ending the day on the green museum island.",
+        "tr": "Stade'e rahat ulaşmak için toplu taşıma kullanın. İstasyondan rota tarihi eski şehirden geçerek tüm önemli müze ve kiliselere götürür ve günü yeşil müze adasında sona erdirir."
       },
       "gastro_picks": {
         "de": [
@@ -1173,6 +1244,10 @@
         "en": [
           "City buses run regularly from the station.",
           "A day ticket is worth it for groups."
+        ],
+        "tr": [
+          "Şehir otobüsleri istasyondan düzenli sefer yapar.",
+          "Gruplar için gün bileti kârlıdır."
         ]
       }
     }

@@ -3,55 +3,64 @@
     "de": "Am Museum 1, 24866 Busdorf",
     "hu": "Am Museum 1, 24866 Busdorf",
     "ro": "Am Museum 1, 24866 Busdorf",
-    "en": "Am Museum 1, 24866 Busdorf"
+    "en": "Am Museum 1, 24866 Busdorf",
+    "tr": "Am Museum 1, 24866 Busdorf"
   },
   "openingHours": {
     "de": "Apr-Okt: täglich 09:00-18:00 (Wikinger Häuser)",
     "hu": "Ápr-Okt: naponta 09:00-18:00 (viking házak)",
     "ro": "Apr-Oct: zilnic 09:00-18:00 (casele vikinge)",
-    "en": "Apr-Oct: daily 09:00-18:00 (Viking houses)"
+    "en": "Apr-Oct: daily 09:00-18:00 (Viking houses)",
+    "tr": "Nis-Eki: günlük 09:00-18:00 (Viking evleri)"
   },
   "entranceFee": {
     "de": "9 € Erwachsene, 5 € ermäßigt",
     "hu": "9 € felnőtt, 5 € kedvezményes",
     "ro": "9 € adulți, 5 € redus",
-    "en": "€9 adults, €5 reduced"
+    "en": "€9 adults, €5 reduced",
+    "tr": "9 € yetişkin, 5 € indirimli"
   },
   "website": "https://www.haithabu.de",
   "publicTransport": {
     "de": "Bus 1622 ab Schleswig Bahnhof bis Haltestelle Haddeby.",
     "hu": "1622-es busz Schleswig vasútállomástól a Haddeby megállóig.",
     "ro": "Autobuzul 1622 de la gara Schleswig până la stația Haddeby.",
-    "en": "Bus 1622 from Schleswig station to Haddeby stop."
+    "en": "Bus 1622 from Schleswig station to Haddeby stop.",
+    "tr": "Schleswig istasyonundan Haddeby durağına giden 1622 numaralı otobüs."
   },
   "parking": {
     "de": "Kostenpflichtiger Parkplatz am Museum, ca. 3 € Tagesticket.",
     "hu": "Fizetős parkoló a múzeumnál, kb. 3 € napijegy.",
     "ro": "Parcare cu plată la muzeu, aprox. 3 € bilet de o zi.",
-    "en": "Paid parking at the museum, approx. €3 day ticket."
+    "en": "Paid parking at the museum, approx. €3 day ticket.",
+    "tr": "Müzede ücretli otopark, yaklaşık günlük 3 € bilet."
   },
   "accessibility": {
     "de": "Wege zu den Häusern sind Naturpfade, für Rollstühle anstrengend.",
     "hu": "A házakhoz vezető utak természetes erdei ösvények, kerekesszékkel nehezen járhatóak.",
     "ro": "Drumurile către case sunt poteci naturale, obositoare pentru scaunele cu rotile.",
-    "en": "Paths to the houses are natural trails, strenuous for wheelchairs."
+    "en": "Paths to the houses are natural trails, strenuous for wheelchairs.",
+    "tr": "Evlerin yolları doğal patikalardır, tekerlekli sandalyeler için zorludur."
   },
   "photoRules": {
     "de": "Erlaubt ohne Blitz in den Museen.",
     "hu": "Megengedett vaku nélkül a múzeumokban.",
     "ro": "Permis fără bliț în muzee.",
-    "en": "Allowed without flash in the museums."
+    "en": "Allowed without flash in the museums.",
+    "tr": "Müzelerde flaşsız izinli."
   },
   "bestTimeToVisit": {
     "de": "Wochentags im Mai oder September, um Schulklassen zu meiden.",
     "hu": "Hétköznap májusban vagy szeptemberben, az iskolai csoportok elkerülése érdekében.",
     "ro": "În timpul săptămânii în mai sau septembrie, pentru a evita grupurile școlare.",
-    "en": "Weekdays in May or September to avoid school groups."
+    "en": "Weekdays in May or September to avoid school groups.",
+    "tr": "Okul gruplarından kaçınmak için Mayıs veya Eylül hafta içleri."
   },
   "audioGuide": {
     "de": "Deutsch, Englisch, Dänisch",
     "hu": "német, angol, dán",
     "ro": "germană, engleză, daneză",
-    "en": "German, English, Danish"
+    "en": "German, English, Danish",
+    "tr": "Almanca, İngilizce, Danca"
   }
 }

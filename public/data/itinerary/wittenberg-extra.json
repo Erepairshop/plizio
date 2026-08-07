@@ -21,7 +21,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Market Square"
           },
           "coords": [
             12.6435,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Statuen von Luther und Melanchthon.",
             "hu": "Nézze meg Luther és Melanchthon szobrait.",
             "ro": "Admirați statuile lui Luther și Melanchthon.",
-            "en": "Admire the statues of Luther and Melanchthon."
+            "en": "Admire the statues of Luther and Melanchthon.",
+            "tr": "Luther ve Melanchthon heykellerini hayranlıkla izleyin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Cranach-Höfe",
             "hu": "Cranach-udvarok",
             "ro": "Curțile Cranach",
-            "en": "Cranach Yards"
+            "en": "Cranach Yards",
+            "tr": "Cranach Yards"
           },
           "coords": [
             12.643,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie die historische Druckerei im Hof.",
             "hu": "Látogassa meg a történelmi nyomdát az udvarban.",
             "ro": "Vizitați tipografia istorică din curte.",
-            "en": "Visit the historical printing shop in the courtyard."
+            "en": "Visit the historical printing shop in the courtyard.",
+            "tr": "Avludaki tarihi matbaayı ziyaret edin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stadtkirche St. Marien",
             "hu": "Szent Mária városi templom",
             "ro": "Biserica Sf. Maria",
-            "en": "St. Mary's Town Church"
+            "en": "St. Mary's Town Church",
+            "tr": "St. Mary's Town Church"
           },
           "coords": [
             12.6448,
@@ -82,7 +87,8 @@
             "de": "Der Cranach-Altar ist ein Meisterwerk der Reformation.",
             "hu": "A Cranach-oltár a reformáció mesterműve.",
             "ro": "Altarul Cranach este o capodoperă a Reformei.",
-            "en": "The Cranach altar is a masterpiece of the Reformation."
+            "en": "The Cranach altar is a masterpiece of the Reformation.",
+            "tr": "Cranach sunağı Reform’un bir şaheseridir."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Schlosskirche",
             "hu": "Vártemplom",
             "ro": "Biserica Castelului",
-            "en": "Castle Church"
+            "en": "Castle Church",
+            "tr": "Castle Church"
           },
           "coords": [
             12.6391,
@@ -105,7 +112,8 @@
             "de": "Die Thesentür, an der Luther seine 95 Thesen anschlug.",
             "hu": "A vártemplom kapuja, ahová Luther kiszegezte téziseit.",
             "ro": "Ușa pe care Luther și-a afișat cele 95 de teze.",
-            "en": "The door where Luther posted his 95 theses."
+            "en": "The door where Luther posted his 95 theses.",
+            "tr": "Luther’in 95 tezi astığı kapı."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Melanchthonhaus",
             "hu": "Melanchthon-ház",
             "ro": "Casa Melanchthon",
-            "en": "Melanchthon House"
+            "en": "Melanchthon House",
+            "tr": "Melanchthon House"
           },
           "coords": [
             12.6488,
@@ -128,7 +137,8 @@
             "de": "Ein Renaissance-Juwel mit einem schönen Garten.",
             "hu": "Reneszánsz ékszerdoboz gyönyörű kerttel.",
             "ro": "O bijuterie renascentistă cu o grădină superbă.",
-            "en": "A Renaissance gem with a beautiful garden."
+            "en": "A Renaissance gem with a beautiful garden.",
+            "tr": "Güzel bir bahçesi olan bir Rönesans mücevheri."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Lutherhaus",
             "hu": "Luther-ház",
             "ro": "Casa lui Luther",
-            "en": "Luther House"
+            "en": "Luther House",
+            "tr": "Luther House"
           },
           "coords": [
             12.65,
@@ -151,7 +162,8 @@
             "de": "Das größte reformationsgeschichtliche Museum der Welt.",
             "hu": "A világ legnagyobb reformációtörténeti múzeuma.",
             "ro": "Cel mai mare muzeu al Reformei din lume.",
-            "en": "The world's largest museum of Reformation history."
+            "en": "The world's largest museum of Reformation history.",
+            "tr": "Dünya çapında Reform tarihi müzelerinin en büyüğü."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Leucorea",
             "hu": "Leucorea Egyetem",
             "ro": "Universitatea Leucorea",
-            "en": "Leucorea University"
+            "en": "Leucorea University",
+            "tr": "Leucorea University"
           },
           "coords": [
             12.6476,
@@ -174,7 +187,8 @@
             "de": "Der historische Campus der alten Universität.",
             "hu": "A régi egyetem történelmi kampusza.",
             "ro": "Campusul istoric al vechii universități.",
-            "en": "The historic campus of the old university."
+            "en": "The historic campus of the old university.",
+            "tr": "Eski üniversitenin tarihi kampüsü."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt am Marktplatz, umgeben von prachtvollen Bürgerhäusern. Wandeln Sie auf den Spuren der Reformatoren durch die Cranach-Höfe zur Stadtkirche. Der Mittag gehört der berühmten Schlosskirche, bevor Sie am Nachmittag die Wohnhäuser von Melanchthon und Luther im Osten der Stadt erkunden. Ein ruhiger Ausklang an der Leucorea rundet das geschichtsträchtige Erlebnis ab.",
         "hu": "Kezdje a napot az óváros szívében, a Piactéren, ahol a reformátorok szobrai állnak. A Cranach-udvarok érintésével haladjon a Városi templom felé, majd csodálja meg a Vártemplom híres kapuját. Délután látogasson el Melanchthon és Luther egykori lakóházaiba, amelyek ma lenyűgöző múzeumok. A túrát a történelmi egyetemi negyedben, a Leucorea udvarán fejezheti be.",
         "ro": "Începeți ziua în inima centrului vechi, la Marktplatz, înconjurat de clădiri istorice superbe. Mergeți pe urmele reformatorilor prin Curțile Cranach către Biserica Orașului. Prânzul este dedicat celebrei Schlosskirche, înainte de a explora după-amiaza casele memoriale ale lui Melanchthon și Luther. O plimbare liniștită prin campusul Leucorea încheie această experiență bogată în istorie.",
-        "en": "Start your day in the heart of the old town at the Market Square, surrounded by grand townhouses. Walk in the footsteps of the Reformers through the Cranach Yards to the Town Church. Midday is reserved for the famous Castle Church, before spending the afternoon exploring the homes of Melanchthon and Luther. A quiet conclusion at the Leucorea campus completes the historical journey."
+        "en": "Start your day in the heart of the old town at the Market Square, surrounded by grand townhouses. Walk in the footsteps of the Reformers through the Cranach Yards to the Town Church. Midday is reserved for the famous Castle Church, before spending the afternoon exploring the homes of Melanchthon and Luther. A quiet conclusion at the Leucorea campus completes the historical journey.",
+        "tr": "Gününüzü eski şehrin kalbinde, görkemli şehir evleriyle çevrili Market Square’de başlatın. Reformcuların izlerini takip ederek Cranach Yards’dan Town Church’e yürüyün. Öğle vaktini ünlü Castle Church’e ayırın; öğleden sonra Melanchthon ve Luther’in evlerini keşfederek geçirin. Tarihi yolculuğu sessiz bir kapanış için Leucorea kampüsünde tamamlayın."
       },
       "gastro_picks": {
         "de": [
@@ -286,6 +301,11 @@
           "The old town is compact and best explored on foot.",
           "A combined ticket for museums offers great value.",
           "Look for the 'Luther cobblestones' in the pavement."
+        ],
+        "tr": [
+          "Eski şehir kompakt yapıda olup en iyi yürüyerek keşfedilir.",
+          "Müzeler için kombine bilet iyi bir fiyat/performans sunar.",
+          "Döşemede 'Luther döşemelerini' arayın."
         ]
       }
     },
@@ -302,7 +322,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Market Square"
           },
           "coords": [
             12.6435,
@@ -317,7 +338,8 @@
             "de": "Fahrradständer sind direkt am Rathaus vorhanden.",
             "hu": "Kerékpártárolók közvetlenül a városháza mellett.",
             "ro": "Suporturi de biciclete direct lângă primărie.",
-            "en": "Bike racks are available right next to the town hall."
+            "en": "Bike racks are available right next to the town hall.",
+            "tr": "Bisiklet park yerleri belediye binasının hemen yanında mevcut."
           }
         },
         {
@@ -325,7 +347,8 @@
             "de": "Cranach-Höfe",
             "hu": "Cranach-udvarok",
             "ro": "Curțile Cranach",
-            "en": "Cranach Yards"
+            "en": "Cranach Yards",
+            "tr": "Cranach Yards"
           },
           "coords": [
             12.643,
@@ -340,7 +363,8 @@
             "de": "Im Hof lässt es sich gut pausieren.",
             "hu": "Az udvar kiváló pihenőhely.",
             "ro": "Curtea este un loc excelent pentru o pauză.",
-            "en": "The courtyard is a great place for a short break."
+            "en": "The courtyard is a great place for a short break.",
+            "tr": "Avlu kısa bir mola için harika bir yerdir."
           }
         },
         {
@@ -348,7 +372,8 @@
             "de": "Schlosskirche",
             "hu": "Vártemplom",
             "ro": "Biserica Castelului",
-            "en": "Castle Church"
+            "en": "Castle Church",
+            "tr": "Castle Church"
           },
           "coords": [
             12.6391,
@@ -363,7 +388,8 @@
             "de": "Der Schlossturm bietet einen tollen Rundblick.",
             "hu": "A vártoronyból remek körpanoráma nyílik.",
             "ro": "Turnul castelului oferă o panoramă circulară excelentă.",
-            "en": "The castle tower offers a great circular view."
+            "en": "The castle tower offers a great circular view.",
+            "tr": "Kale kulesi harika bir çevresel manzara sunar."
           }
         },
         {
@@ -371,7 +397,8 @@
             "de": "Hundertwasserschule",
             "hu": "Hundertwasser-iskola",
             "ro": "Școala Hundertwasser",
-            "en": "Hundertwasser School"
+            "en": "Hundertwasser School",
+            "tr": "Hundertwasser School"
           },
           "coords": [
             12.6455,
@@ -386,7 +413,8 @@
             "de": "Ein bunter Kontrast zur Backsteingotik.",
             "hu": "Színes kontraszt a tégla-gótikával szemben.",
             "ro": "Un contrast colorat față de goticul din cărămidă.",
-            "en": "A colorful contrast to the Brick Gothic style."
+            "en": "A colorful contrast to the Brick Gothic style.",
+            "tr": "Tuğla Gotik stile renkli bir kontrast."
           }
         },
         {
@@ -394,7 +422,8 @@
             "de": "Lutherhaus",
             "hu": "Luther-ház",
             "ro": "Casa lui Luther",
-            "en": "Luther House"
+            "en": "Luther House",
+            "tr": "Luther Evi"
           },
           "coords": [
             12.65,
@@ -409,7 +438,8 @@
             "de": "Das größte Luther-Museum weltweit.",
             "hu": "A világ legnagyobb Luther-múzeuma.",
             "ro": "Cel mai mare muzeu Luther din lume.",
-            "en": "The largest Luther museum in the world."
+            "en": "The largest Luther museum in the world.",
+            "tr": "Dünyanın en büyük Luther müzesi."
           }
         },
         {
@@ -417,7 +447,8 @@
             "de": "Melanchthonhaus",
             "hu": "Melanchthon-ház",
             "ro": "Casa Melanchthon",
-            "en": "Melanchthon House"
+            "en": "Melanchthon House",
+            "tr": "Melanchthon Evi"
           },
           "coords": [
             12.6488,
@@ -432,7 +463,8 @@
             "de": "Besichtigen Sie den liebevoll gepflegten Garten.",
             "hu": "Tekintse meg a gondosan ápolt kertet.",
             "ro": "Vizitați grădina îngrijită cu dragoste.",
-            "en": "Visit the lovingly maintained garden."
+            "en": "Visit the lovingly maintained garden.",
+            "tr": "Özenle bakılan bahçeyi ziyaret edin."
           }
         },
         {
@@ -440,7 +472,8 @@
             "de": "Leucorea",
             "hu": "Leucorea Egyetem",
             "ro": "Universitatea Leucorea",
-            "en": "Leucorea University"
+            "en": "Leucorea University",
+            "tr": "Leucorea Üniversitesi"
           },
           "coords": [
             12.6476,
@@ -455,7 +488,8 @@
             "de": "Ruhiger Innenhof für eine kurze Rast.",
             "hu": "Csendes belső udvar egy rövid pihenőhöz.",
             "ro": "Curte interioară liniștită pentru un scurt popas.",
-            "en": "Quiet courtyard for a short rest."
+            "en": "Quiet courtyard for a short rest.",
+            "tr": "Kısa bir dinlenme için sakin avlu."
           }
         },
         {
@@ -463,7 +497,8 @@
             "de": "Stadtkirche St. Marien",
             "hu": "Szent Mária városi templom",
             "ro": "Biserica Sf. Maria",
-            "en": "St. Mary's Town Church"
+            "en": "St. Mary's Town Church",
+            "tr": "St. Marys Kasaba Kilisesi"
           },
           "coords": [
             12.6448,
@@ -478,7 +513,8 @@
             "de": "Letzter Stopp vor der Abfahrt.",
             "hu": "Utolsó állomás az indulás előtt.",
             "ro": "Ultima oprire înainte de plecare.",
-            "en": "Last stop before departure."
+            "en": "Last stop before departure.",
+            "tr": "Kalkıştan önceki son durak."
           }
         }
       ],
@@ -486,7 +522,8 @@
         "de": "Mit dem Rad erkunden Sie Wittenberg effizient und sehen auch die architektonisch einzigartige Hundertwasserschule. Von der Altstadt radeln Sie durch grüne Parkanlagen zu den Luther-Gedenkstätten. Die ebenen Wege entlang der Elbe bieten sich für eine entspannte Fahrt zwischen den historischen Highlights an.",
         "hu": "Kerékpárral hatékonyan fedezheti fel Wittenberget, beleértve az egyedülálló Hundertwasser-iskolát is. Az óvárostól zöld parkokon át tekerhet a Luther-emlékhelyekig. Az Elba menti sík utak ideálisak egy pihentető biciklizéshez a történelmi látnivalók között.",
         "ro": "Cu bicicleta explorați Wittenberg eficient și vedeți inclusiv școala Hundertwasser, unică din punct de vedere arhitectural. Din centrul vechi pedalați prin parcuri verzi către locurile memoriale Luther. Drumurile plate de-a lungul Elbei sunt perfecte pentru o plimbare relaxată printre atracțiile istorice.",
-        "en": "By bike, you can efficiently explore Wittenberg, including the architecturally unique Hundertwasser School. From the old town, cycle through green parks to the Luther memorial sites. The flat paths along the Elbe are ideal for a relaxed ride between historical highlights."
+        "en": "By bike, you can efficiently explore Wittenberg, including the architecturally unique Hundertwasser School. From the old town, cycle through green parks to the Luther memorial sites. The flat paths along the Elbe are ideal for a relaxed ride between historical highlights.",
+        "tr": "Bisikletle, mimari açıdan benzersiz Hundertwasser Okulu da dahil olmak üzere Wittenberg'i verimli bir şekilde keşfedebilirsiniz. Eski kentten yeşil parklardan geçip Luther anıtlara ulaşın. Elbe boyunca düz yollar, tarihî noktalar arasında rahat bir gezinti için idealdir."
       },
       "gastro_picks": {
         "de": [
@@ -590,6 +627,11 @@
           "Many streets in the old town have cobblestones.",
           "Bikes can be rented at the train station.",
           "Use the Elbe Cycle Route for a trip into the countryside."
+        ],
+        "tr": [
+          "Eski kentte birçok sokak taşlıdır.",
+          "Bisikletler tren istasyonunda kiralanabilir.",
+          "Kırsala yapılacak bir gezi için Elbe Bisiklet Rotasını kullanın."
         ]
       }
     },
@@ -606,7 +648,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             12.6435,
@@ -621,7 +664,8 @@
             "de": "Parken Sie im Parkhaus Arsenal für kurzen Fußweg.",
             "hu": "Parkoljon az Arsenal parkolóházban a rövid séta érdekében.",
             "ro": "Parcați în parcarea Arsenal pentru un acces rapid.",
-            "en": "Park at the Arsenal parking garage for a short walk."
+            "en": "Park at the Arsenal parking garage for a short walk.",
+            "tr": "Kısa bir yürüyüş için Arsenal otoparkına park edin."
           }
         },
         {
@@ -629,7 +673,8 @@
             "de": "Stadtkirche St. Marien",
             "hu": "Szent Mária városi templom",
             "ro": "Biserica Sf. Maria",
-            "en": "St. Mary's Town Church"
+            "en": "St. Mary's Town Church",
+            "tr": "St. Marys Kasaba Kilisesi"
           },
           "coords": [
             12.6448,
@@ -644,7 +689,8 @@
             "de": "Fußweg vom Marktplatz.",
             "hu": "Gyalogosan a Piactérről.",
             "ro": "Acces pietonal din piață.",
-            "en": "Walking distance from the market square."
+            "en": "Walking distance from the market square.",
+            "tr": "Pazar meydanına yürüme mesafesinde."
           }
         },
         {
@@ -652,7 +698,8 @@
             "de": "Schlosskirche",
             "hu": "Vártemplom",
             "ro": "Biserica Castelului",
-            "en": "Castle Church"
+            "en": "Castle Church",
+            "tr": "Kale Kilisesi"
           },
           "coords": [
             12.6391,
@@ -667,7 +714,8 @@
             "de": "Ein Muss für jeden Wittenberg-Besuch.",
             "hu": "Minden wittenbergi látogatás kötelező eleme.",
             "ro": "O vizită obligatorie în Wittenberg.",
-            "en": "A must-see for every Wittenberg visitor."
+            "en": "A must-see for every Wittenberg visitor.",
+            "tr": "Her Wittenberg ziyaretçisi için görülmesi gereken yer."
           }
         },
         {
@@ -675,7 +723,8 @@
             "de": "Hundertwasserschule",
             "hu": "Hundertwasser-iskola",
             "ro": "Școala Hundertwasser",
-            "en": "Hundertwasser School"
+            "en": "Hundertwasser School",
+            "tr": "Hundertwasser Okulu"
           },
           "coords": [
             12.6455,
@@ -690,7 +739,8 @@
             "de": "Eigener Parkplatz vor der Schule.",
             "hu": "Saját parkoló az iskola előtt.",
             "ro": "Parcare proprie în fața școlii.",
-            "en": "Dedicated parking in front of the school."
+            "en": "Dedicated parking in front of the school.",
+            "tr": "Okul önünde ayrılmış park yeri var."
           }
         },
         {
@@ -698,7 +748,8 @@
             "de": "Lutherhaus",
             "hu": "Luther-ház",
             "ro": "Casa lui Luther",
-            "en": "Luther House"
+            "en": "Luther House",
+            "tr": "Luther Evi"
           },
           "coords": [
             12.65,
@@ -713,7 +764,8 @@
             "de": "Parkplatz 'Wallstraße' nutzen.",
             "hu": "Használja a 'Wallstraße' parkolót.",
             "ro": "Utilizați parcarea din Wallstraße.",
-            "en": "Use the 'Wallstraße' parking lot."
+            "en": "Use the 'Wallstraße' parking lot.",
+            "tr": "'Wallstraße' otoparkını kullanın."
           }
         },
         {
@@ -721,7 +773,8 @@
             "de": "Melanchthonhaus",
             "hu": "Melanchthon-ház",
             "ro": "Casa Melanchthon",
-            "en": "Melanchthon House"
+            "en": "Melanchthon House",
+            "tr": "Melanchthon Evi"
           },
           "coords": [
             12.6488,
@@ -736,7 +789,8 @@
             "de": "Direkt neben dem Lutherhaus.",
             "hu": "Közvetlenül a Luther-ház mellett.",
             "ro": "Direct lângă casa lui Luther.",
-            "en": "Right next to the Luther House."
+            "en": "Right next to the Luther House.",
+            "tr": "Luther Evi'nin hemen yanında."
           }
         },
         {
@@ -744,7 +798,8 @@
             "de": "Cranach-Höfe",
             "hu": "Cranach-udvarok",
             "ro": "Curțile Cranach",
-            "en": "Cranach Yards"
+            "en": "Cranach Yards",
+            "tr": "Cranach Avluları"
           },
           "coords": [
             12.643,
@@ -759,7 +814,8 @@
             "de": "Rückkehr in die Altstadt.",
             "hu": "Visszatérés az óvárosba.",
             "ro": "Revenire în centrul vechi.",
-            "en": "Return to the old town."
+            "en": "Return to the old town.",
+            "tr": "Eski kente geri dönüş."
           }
         },
         {
@@ -767,7 +823,8 @@
             "de": "Leucorea",
             "hu": "Leucorea Egyetem",
             "ro": "Universitatea Leucorea",
-            "en": "Leucorea University"
+            "en": "Leucorea University",
+            "tr": "Leucorea Üniversitesi"
           },
           "coords": [
             12.6476,
@@ -782,7 +839,8 @@
             "de": "Abschluss im historischen Viertel.",
             "hu": "Zárás a történelmi negyedben.",
             "ro": "Final în cartierul istoric.",
-            "en": "End of the day in the historic district."
+            "en": "End of the day in the historic district.",
+            "tr": "Günün sonu tarihî bölgede."
           }
         }
       ],
@@ -790,7 +848,8 @@
         "de": "Nutzen Sie das Auto, um bequem zwischen den zwei Haupt-Clustern der Stadt zu pendeln: der Altstadt im Westen und dem Luther-Areal im Osten. So sparen Sie Energie für die ausführlichen Museumsbesuche und können auch die etwas südlich gelegene Hundertwasserschule problemlos einbinden.",
         "hu": "Használja az autót a kényelmes közlekedéshez a város két fő központja között: a nyugati óváros és a keleti Luther-negyed között. Így marad energiája a részletes múzeumlátogatásokra, és a délebbre fekvő Hundertwasser-iskolát is könnyen útba ejtheti.",
         "ro": "Folosiți mașina pentru a face naveta confortabil între cele două zone principale: centrul vechi din vest și zona Luther din est. Astfel economisiți energie pentru vizitele detaliate la muzee și puteți include ușor și școala Hundertwasser situată mai la sud.",
-        "en": "Use the car to conveniently commute between the two main clusters: the old town in the west and the Luther area in the east. This saves energy for extensive museum visits and allows you to easily include the Hundertwasser School to the south."
+        "en": "Use the car to conveniently commute between the two main clusters: the old town in the west and the Luther area in the east. This saves energy for extensive museum visits and allows you to easily include the Hundertwasser School to the south.",
+        "tr": "İki ana küme arasında rahat ulaşım için arabayı kullanın: batıdaki eski kent ve doğudaki Luther bölgesi. Bu, geniş müze gezileri için enerji tasarrufu sağlar ve güneye doğru Hundertwasser Okulu'nu kolayca rotanıza eklemenize imkân verir."
       },
       "gastro_picks": {
         "de": [
@@ -894,6 +953,11 @@
           "Parking in the old town is limited; use multi-story car parks.",
           "Wittenberg is well-connected via the B2 and B187 roads.",
           "Be aware of pedestrian zones."
+        ],
+        "tr": [
+          "Eski kentte park yeri sınırlıdır; çok katlı otoparkları kullanın.",
+          "Wittenberg B2 ve B187 yolları ile iyi bağlantılıdır.",
+          "Yaya bölgelerinin farkında olun."
         ]
       }
     },
@@ -910,7 +974,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             12.6435,
@@ -925,7 +990,8 @@
             "de": "Vom Hauptbahnhof mit dem Bus Linie 300 oder 304.",
             "hu": "A vasútállomástól a 300-as vagy 304-es busszal.",
             "ro": "De la gara centrală cu autobuzul 300 sau 304.",
-            "en": "Take bus 300 or 304 from the main station."
+            "en": "Take bus 300 or 304 from the main station.",
+            "tr": "Ana istasyondan 300 veya 304 numaralı otobüse binin."
           }
         },
         {
@@ -933,7 +999,8 @@
             "de": "Schlosskirche",
             "hu": "Vártemplom",
             "ro": "Biserica Castelului",
-            "en": "Castle Church"
+            "en": "Castle Church",
+            "tr": "Kale Kilisesi"
           },
           "coords": [
             12.6391,
@@ -948,7 +1015,8 @@
             "de": "Kurzer Fußweg durch die Schlossstraße.",
             "hu": "Rövid séta a Schlossstraßén keresztül.",
             "ro": "Scurtă plimbare pe Schlossstraße.",
-            "en": "Short walk through Schlossstraße."
+            "en": "Short walk through Schlossstraße.",
+            "tr": "Schlossstraße boyunca kısa bir yürüyüş."
           }
         },
         {
@@ -956,7 +1024,8 @@
             "de": "Stadtkirche St. Marien",
             "hu": "Szent Mária városi templom",
             "ro": "Biserica Sf. Maria",
-            "en": "St. Mary's Town Church"
+            "en": "St. Mary's Town Church",
+            "tr": "St. Marys Kasaba Kilisesi"
           },
           "coords": [
             12.6448,
@@ -971,7 +1040,8 @@
             "de": "Zentral in der Altstadt gelegen.",
             "hu": "Központi elhelyezkedés az óvárosban.",
             "ro": "Situată central în orașul vechi.",
-            "en": "Centrally located in the old town."
+            "en": "Centrally located in the old town.",
+            "tr": "Eski kentin merkezinde konumlu."
           }
         },
         {
@@ -979,7 +1049,8 @@
             "de": "Lutherhaus",
             "hu": "Luther-ház",
             "ro": "Casa lui Luther",
-            "en": "Luther House"
+            "en": "Luther House",
+            "tr": "Luther Evi"
           },
           "coords": [
             12.65,
@@ -994,7 +1065,8 @@
             "de": "Busfahrt zum östlichen Ende der Altstadt.",
             "hu": "Buszozás az óváros keleti végébe.",
             "ro": "Cursă cu autobuzul către capătul estic al orașului vechi.",
-            "en": "Bus ride to the eastern end of the old town."
+            "en": "Bus ride to the eastern end of the old town.",
+            "tr": "Eski kentin doğu ucuna otobüsle ulaşım."
           }
         },
         {
@@ -1002,7 +1074,8 @@
             "de": "Melanchthonhaus",
             "hu": "Melanchthon-ház",
             "ro": "Casa Melanchthon",
-            "en": "Melanchthon House"
+            "en": "Melanchthon House",
+            "tr": "Melanchthon Evi"
           },
           "coords": [
             12.6488,
@@ -1017,7 +1090,8 @@
             "de": "Zu Fuß vom Lutherhaus erreichbar.",
             "hu": "Gyalogosan elérhető a Luther-háztól.",
             "ro": "Accesibil pe jos de la Casa Luther.",
-            "en": "Walking distance from the Luther House."
+            "en": "Walking distance from the Luther House.",
+            "tr": "Luther Evi'ne yürüme mesafesinde."
           }
         },
         {
@@ -1025,7 +1099,8 @@
             "de": "Leucorea",
             "hu": "Leucorea Egyetem",
             "ro": "Universitatea Leucorea",
-            "en": "Leucorea University"
+            "en": "Leucorea University",
+            "tr": "Leucorea Üniversitesi"
           },
           "coords": [
             12.6476,
@@ -1040,7 +1115,8 @@
             "de": "Ein historischer Ort der Gelehrsamkeit.",
             "hu": "A tudomány történelmi színhelye.",
             "ro": "Un loc istoric al cunoașterii.",
-            "en": "A historic place of learning."
+            "en": "A historic place of learning.",
+            "tr": "Tarihî bir öğrenim yeri."
           }
         },
         {
@@ -1048,7 +1124,8 @@
             "de": "Cranach-Höfe",
             "hu": "Cranach-udvarok",
             "ro": "Curțile Cranach",
-            "en": "Cranach Yards"
+            "en": "Cranach Yards",
+            "tr": "Cranach Avluları"
           },
           "coords": [
             12.643,
@@ -1063,7 +1140,8 @@
             "de": "Mit dem Bus zurück Richtung Zentrum.",
             "hu": "Busszal vissza a központ felé.",
             "ro": "Cu autobuzul înapoi spre centru.",
-            "en": "Take the bus back towards the center."
+            "en": "Take the bus back towards the center.",
+            "tr": "Merkeze doğru geri dönmek için otobüse binin."
           }
         }
       ],
@@ -1071,7 +1149,8 @@
         "de": "Vom Hauptbahnhof aus bringt Sie der Bus direkt in die Altstadt. Entdecken Sie die zentralen Plätze und Kirchen zu Fuß, bevor Sie für den Weg zum Lutherhaus und Melanchthonhaus erneut den Bus nutzen. Wittenbergs öffentliches Verkehrsnetz verbindet den Bahnhof optimal mit den UNESCO-Welterbestätten.",
         "hu": "A főpályaudvarról a busz közvetlenül az óvárosba viszi. Fedezze fel a központi tereket és templomokat gyalog, majd a Luther- és Melanchthon-házhoz vezető úthoz vegye igénybe ismét a buszt. Wittenberg tömegközlekedése optimálisan összeköti az állomást az UNESCO világörökségi helyszínekkel.",
         "ro": "De la gara centrală, autobuzul vă duce direct în centrul vechi. Descoperiți piețele și bisericile centrale la pas, înainte de a folosi din nou autobuzul pentru drumul către casa lui Luther și a lui Melanchthon. Rețeaua de transport public din Wittenberg conectează optim gara de siturile UNESCO.",
-        "en": "From the main station, the bus takes you directly to the old town. Explore the central squares and churches on foot before using the bus again for the journey to the Luther and Melanchthon Houses. Wittenberg's public transport system perfectly connects the station with the UNESCO World Heritage sites."
+        "en": "From the main station, the bus takes you directly to the old town. Explore the central squares and churches on foot before using the bus again for the journey to the Luther and Melanchthon Houses. Wittenberg's public transport system perfectly connects the station with the UNESCO World Heritage sites.",
+        "tr": "Ana istasyondan otobüs sizi doğrudan eski kente götürür. Merkezi meydanları ve kiliseleri yürüyerek keşfedin, ardından Luther ve Melanchthon Evleri'ne yolculuk için tekrar otobüsü kullanın. Wittenberg'in toplu taşıma sistemi istasyonu UNESCO Dünya Mirası alanlarıyla mükemmel şekilde bağlar."
       },
       "gastro_picks": {
         "de": [
@@ -1175,6 +1254,11 @@
           "Use the 'Wittenberg mobil' app for schedules.",
           "Day tickets are often cheaper than single fares.",
           "Buses depart regularly from the station."
+        ],
+        "tr": [
+          "'Wittenberg mobil' uygulamasını tarifeler için kullanın.",
+          "Günlük biletler genellikle tek biletlerden daha ucuzdur.",
+          "Otobüsler istasyondan düzenli olarak kalkar."
         ]
       }
     }

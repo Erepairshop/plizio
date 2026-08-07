@@ -3,55 +3,64 @@
     "de": "Arenastraße 11, 46047 Oberhausen",
     "hu": "Arenastraße 11, 46047 Oberhausen",
     "ro": "Arenastraße 11, 46047 Oberhausen",
-    "en": "Arenastraße 11, 46047 Oberhausen"
+    "en": "Arenastraße 11, 46047 Oberhausen",
+    "tr": "Arenastraße 11, 46047 Oberhausen"
   },
   "openingHours": {
     "de": "Di-So 10:00-18:00 (Feiertags auch Montags)",
     "hu": "K-V 10:00-18:00 (ünnepnapokon hétfőn is)",
     "ro": "Mar-Dum 10:00-18:00 (și în zilele de luni de sărbători)",
-    "en": "Tue-Sun 10:00-18:00 (also Mondays on holidays)"
+    "en": "Tue-Sun 10:00-18:00 (also Mondays on holidays)",
+    "tr": "Salı-Pazar 10:00-18:00 (resmi tatillerde Pazartesi de açık)"
   },
   "entranceFee": {
     "de": "Erwachsene ca. 14,00 €, Ermäßigt ca. 11,00 €",
     "hu": "Felnőtt kb. 14,00 €, kedvezményes kb. 11,00 €",
     "ro": "Adulți aprox. 14,00 €, redus aprox. 11,00 €",
-    "en": "Adults approx. €14.00, reduced approx. €11.00"
+    "en": "Adults approx. €14.00, reduced approx. €11.00",
+    "tr": "Yetişkinler yaklaşık €14,00, indirimli yaklaşık €11,00"
   },
   "website": "https://www.gasometer.de",
   "publicTransport": {
     "de": "Bus/Bahn bis Haltestelle Neue Mitte",
     "hu": "Busz/vonat a Neue Mitte megállóig",
     "ro": "Autobuz/tren până la stația Neue Mitte",
-    "en": "Bus/train to Neue Mitte stop"
+    "en": "Bus/train to Neue Mitte stop",
+    "tr": "Neue Mitte durağına otobüs/tren"
   },
   "parking": {
     "de": "Kostenfreie Parkplätze am Centro Oberhausen, ca. 5 Minuten Fußweg",
     "hu": "Ingyenes parkolók a Centro Oberhausennél, kb. 5 perc séta",
     "ro": "Parcări gratuite la Centro Oberhausen, aprox. 5 minute de mers pe jos",
-    "en": "Free parking at Centro Oberhausen, approx. 5-minute walk"
+    "en": "Free parking at Centro Oberhausen, approx. 5-minute walk",
+    "tr": "Centro Oberhausen’de ücretsiz otopark, yaklaşık 5 dakikalık yürüme mesafesi"
   },
   "accessibility": {
     "de": "Vollständig barrierefrei, Gläserner Panoramaaufzug zur Aussichtsplattform vorhanden",
     "hu": "Teljesen akadálymentes, üveg panorámalift a kilátóhoz",
     "ro": "Complet accesibil, lift panoramic din sticlă către platforma de observare disponibil",
-    "en": "Completely barrier-free, glass panorama elevator to the viewing platform available"
+    "en": "Completely barrier-free, glass panorama elevator to the viewing platform available",
+    "tr": "Tamamen engelli erişimine uygun, seyir platformuna cam panoramik asansör mevcut"
   },
   "photoRules": {
     "de": "Fotografieren für private Zwecke ausdrücklich erwünscht",
     "hu": "Magáncélú fotózás kifejezetten ajánlott",
     "ro": "Fotografierea în scopuri private este încurajată",
-    "en": "Photography for private purposes explicitly encouraged"
+    "en": "Photography for private purposes explicitly encouraged",
+    "tr": "Özel amaçlı fotoğraf çekimi açıkça teşvik ediliyor"
   },
   "bestTimeToVisit": {
     "de": "Bei klarem Wetter für den Fernblick über das gesamte Ruhrgebiet",
     "hu": "Tiszta időben, a teljes Ruhr-vidékre nyíló panorámáért",
     "ro": "Pe vreme senină pentru vederea panoramică asupra întregii regiuni Ruhr",
-    "en": "In clear weather for the long-distance view over the entire Ruhr area"
+    "en": "In clear weather for the long-distance view over the entire Ruhr area",
+    "tr": "Tüm Ruhr bölgesine uzun mesafe manzarası için açık havalarda"
   },
   "audioGuide": {
     "de": "ja, Audio-Guides zur jeweiligen Ausstellung verfügbar",
     "hu": "igen, audio-idegenvezetés elérhető az aktuális kiállításhoz",
     "ro": "da, ghiduri audio disponibile pentru fiecare expoziție",
-    "en": "yes, audio guides available for the respective exhibition"
+    "en": "yes, audio guides available for the respective exhibition",
+    "tr": "Evet, ilgili sergi için sesli rehberler mevcut"
   }
 }

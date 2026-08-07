@@ -3,55 +3,64 @@
     "de": "Spiridon-Louis-Ring 21, 80809 München",
     "hu": "Spiridon-Louis-Ring 21, 80809 München",
     "ro": "Spiridon-Louis-Ring 21, 80809 München",
-    "en": "Spiridon-Louis-Ring 21, 80809 München"
+    "en": "Spiridon-Louis-Ring 21, 80809 München",
+    "tr": "Spiridon-Louis-Ring 21, 80809 München"
   },
   "openingHours": {
     "de": "24/7 (Parkgelände), Olympiaturm 09:00-24:00",
     "hu": "0-24 órában (park), Olympiaturm 09:00-24:00",
     "ro": "Non-stop (parc), Turnul Olimpic 09:00-24:00",
-    "en": "24/7 (park), Olympic Tower 09:00-24:00"
+    "en": "24/7 (park), Olympic Tower 09:00-24:00",
+    "tr": "7/24 (park), Olimpik Kule 09:00-24:00"
   },
   "entranceFee": {
     "de": "Park frei, Olympiaturm €13, Stadionbesichtigung €3.50",
     "hu": "Park ingyenes, Olympiaturm 13 €, stadiontúra 3,50 €",
     "ro": "Parc gratuit, Turnul Olimpic 13 €, tur stadion 3,50 €",
-    "en": "Park free, Olympic Tower €13, stadium tour €3.50"
+    "en": "Park free, Olympic Tower €13, stadium tour €3.50",
+    "tr": "Park ücretsiz, Olimpik Kule €13, stadyum turu €3,50"
   },
   "website": "https://www.olympiapark.de",
   "publicTransport": {
     "de": "U-Bahn U3 bis Haltestelle Olympiazentrum",
     "hu": "U3 metró az Olympiazentrum megállóig",
     "ro": "Metrou U3 până la stația Olympiazentrum",
-    "en": "U-Bahn U3 to station Olympiazentrum"
+    "en": "U-Bahn U3 to station Olympiazentrum",
+    "tr": "U-Bahn U3 ile Olympiazentrum istasyonuna"
   },
   "parking": {
     "de": "Parkharfe am Olympiastadion, ca. €5/Tag",
     "hu": "Parkharfe az Olimpiai Stadionnál, kb. 5 €/nap",
     "ro": "Parcare la stadionul olimpic, aprox. 5 €/zi",
-    "en": "Parking lot at Olympic Stadium, approx. €5/day"
+    "en": "Parking lot at Olympic Stadium, approx. €5/day",
+    "tr": "Olimpik Stadyum otoparkı, yaklaşık €5/gün"
   },
   "accessibility": {
     "de": "Gelände und Turm sind barrierefrei",
     "hu": "A terület és a torony akadálymentes",
     "ro": "Terenul și turnul sunt accesibile",
-    "en": "Grounds and tower are barrier-free"
+    "en": "Grounds and tower are barrier-free",
+    "tr": "Alanlar ve kule engelsiz"
   },
   "photoRules": {
     "de": "Erlaubt, Stativnutzung auf dem Olympiaberg sehr beliebt",
     "hu": "Megengedett, állvány használata az Olympiabergen nagyon népszerű",
     "ro": "Permis, utilizarea trepiedului pe muntele olimpic este foarte populară",
-    "en": "Allowed, tripod use on the Olympic mountain very popular"
+    "en": "Allowed, tripod use on the Olympic mountain very popular",
+    "tr": "İzinli, Olimpik tepede tripod kullanımı çok popüler"
   },
   "bestTimeToVisit": {
     "de": "Zum Sonnenuntergang auf dem Olympiaberg für den Blick über München",
     "hu": "Napnyugtakor az Olympiabergen a müncheni kilátásért",
     "ro": "La apusul soarelui pe muntele olimpic pentru priveliștea asupra München-ului",
-    "en": "At sunset on the Olympic mountain for the view over Munich"
+    "en": "At sunset on the Olympic mountain for the view over Munich",
+    "tr": "Münih manzarası için gün batımında Olimpik tepede"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

@@ -21,7 +21,8 @@
             "de": "Naumburger Dom",
             "hu": "Naumburgi dóm",
             "ro": "Catedrala din Naumburg",
-            "en": "Naumburg Cathedral"
+            "en": "Naumburg Cathedral",
+            "tr": "Naumburg Katedrali"
           },
           "coords": [
             11.803,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die Stifterfiguren Uta und Ekkehard im Westchor.",
             "hu": "Nézzék meg Uta és Ekkehard világhírű szobrát a nyugati kórusban.",
             "ro": "Admirați faimoasele statui ale ctitorilor Uta și Ekkehard din corul de vest.",
-            "en": "Look for the world-famous donor figures Uta and Ekkehard in the west choir."
+            "en": "Look for the world-famous donor figures Uta and Ekkehard in the west choir.",
+            "tr": "Batı korosunda dünya çapında ünlü bağışçı figürleri Uta ve Ekkehard'ı arayın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Nietzsche-Haus",
             "hu": "Nietzsche-ház",
             "ro": "Casa Nietzsche",
-            "en": "Nietzsche House"
+            "en": "Nietzsche House",
+            "tr": "Nietzsche Evi"
           },
           "coords": [
             11.808,
@@ -59,7 +62,8 @@
             "de": "Das Haus, in dem der Philosoph seine Jugend verbrachte.",
             "hu": "A ház, ahol a filozófus a gyermekkorát töltötte.",
             "ro": "Casa în care filozoful și-a petrecut tinerețea.",
-            "en": "The house where the philosopher spent his youth and adolescence."
+            "en": "The house where the philosopher spent his youth and adolescence.",
+            "tr": "Filozofun gençlik ve ergenlik yıllarını geçirdiği ev."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Marktplatz & Mittagessen",
             "hu": "Piactér és ebéd",
             "ro": "Piața Mare și prânzul",
-            "en": "Market Square & Lunch"
+            "en": "Market Square & Lunch",
+            "tr": "Pazar Meydanı ve Öğle Yemeği"
           },
           "coords": [
             11.81,
@@ -82,7 +87,8 @@
             "de": "Probieren Sie eine Thüringer Rostbratwurst an einem der Stände.",
             "hu": "Próbálja ki a türingiai sült kolbászt az egyik árusnál.",
             "ro": "Încercați un cârnat Thüringer Rostbratwurst la tarabele locale.",
-            "en": "Try a Thuringian Rostbratwurst from one of the local stands."
+            "en": "Try a Thuringian Rostbratwurst from one of the local stands.",
+            "tr": "Yerel tezgâhlardan birinden bir Thüringen Rostbratwurst deneyin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Wenzelskirche",
             "hu": "Vencel-templom",
             "ro": "Biserica Sfântul Venceslau",
-            "en": "St. Wenceslaus Church"
+            "en": "St. Wenceslaus Church",
+            "tr": "Aziz Wenceslaus Kilisesi"
           },
           "coords": [
             11.811,
@@ -105,7 +112,8 @@
             "de": "Hören Sie die Hildebrandt-Orgel, die von J.S. Bach abgenommen wurde.",
             "hu": "Hallgassa meg a híres Hildebrandt-orgonát, melyet Bach is tesztelt.",
             "ro": "Ascultați celebra orgă Hildebrandt, inspectată odinioară de J.S. Bach.",
-            "en": "Listen to the Hildebrandt organ, which was approved by J.S. Bach."
+            "en": "Listen to the Hildebrandt organ, which was approved by J.S. Bach.",
+            "tr": "J.S. Bach tarafından onaylanan Hildebrandt orgunu dinleyin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Stadtmuseum Hohe Lilie",
             "hu": "Hohe Lilie Várostörténeti Múzeum",
             "ro": "Muzeul Orașului Hohe Lilie",
-            "en": "City Museum Hohe Lilie"
+            "en": "City Museum Hohe Lilie",
+            "tr": "Hohe Lilie Şehir Müzesi"
           },
           "coords": [
             11.811,
@@ -128,7 +137,8 @@
             "de": "Eines der schönsten Bürgerhäuser Deutschlands mit gotischen Details.",
             "hu": "Németország egyik legszebb polgárháza gótikus részletekkel.",
             "ro": "Una dintre cele mai frumoase case de burghezi din Germania.",
-            "en": "One of Germany's most beautiful merchant houses with Gothic details."
+            "en": "One of Germany's most beautiful merchant houses with Gothic details.",
+            "tr": "Gotik detaylara sahip Almanya'nın en güzel tüccar evlerinden biri."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Marientor",
             "hu": "Mária-kapu",
             "ro": "Poarta Marientor",
-            "en": "Marientor Gate"
+            "en": "Marientor Gate",
+            "tr": "Marientor Kapısı"
           },
           "coords": [
             11.815,
@@ -151,7 +162,8 @@
             "de": "Das einzig erhaltene Stadttor der einstigen Befestigungsanlage.",
             "hu": "Az egykori városfal egyetlen épen maradt kapuja.",
             "ro": "Singura poartă a orașului care s-a păstrat din vechea fortificație.",
-            "en": "The only surviving city gate of the former medieval fortification."
+            "en": "The only surviving city gate of the former medieval fortification.",
+            "tr": "Eski ortaçağ surlarının ayakta kalan tek şehir kapısı."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag am UNESCO-Welterbe, dem Naumburger Dom, bevor Sie durch die Gassen zum Nietzsche-Haus spazieren. Der Mittag gehört dem belebten Marktplatz. Am Nachmittag entdecken Sie die prächtige Wenzelskirche und das Stadtmuseum, um schließlich am historischen Marientor den Spaziergang mit einem Blick auf die alte Stadtmauer abzuschließen.",
         "hu": "Kezdje a napot az UNESCO világörökség részét képező Naumburgi dómnál, majd sétáljon át a hangulatos utcákon a Nietzsche-házhoz. Az ebédet a nyüzsgő piactéren fogyassza el. Délután fedezze fel a Vencel-templom orgonáját és a várostörténeti múzeumot, végül zárja a túrát a történelmi Mária-kapunál, ahol a régi városfal maradványait láthatja.",
         "ro": "Începeți ziua la Catedrala din Naumburg, sit UNESCO, înainte de a vă plimba prin oraș spre Casa Nietzsche. Prânzul este rezervat Pieței Mari pline de viață. După-amiaza, descoperiți Biserica Sf. Venceslau și Muzeul Orașului, încheind traseul la poarta istorică Marientor pentru a admira resturile vechilor ziduri fortificate.",
-        "en": "Start your day at the UNESCO World Heritage Naumburg Cathedral before strolling through the streets to the Nietzsche House. Enjoy lunch at the vibrant Market Square. In the afternoon, discover the magnificent St. Wenceslaus Church and the City Museum, finally concluding your walk at the historic Marientor gate to see the remnants of the old city walls."
+        "en": "Start your day at the UNESCO World Heritage Naumburg Cathedral before strolling through the streets to the Nietzsche House. Enjoy lunch at the vibrant Market Square. In the afternoon, discover the magnificent St. Wenceslaus Church and the City Museum, finally concluding your walk at the historic Marientor gate to see the remnants of the old city walls.",
+        "tr": "Güne UNESCO Dünya Mirası Naumburg Katedrali'nde başlayın, ardından Nietzsche Evi'ne doğru sokaklarda gezinin. Canlı Pazar Meydanı'nda öğle yemeğinin tadını çıkarın. Öğleden sonra muhteşem Aziz Wenceslaus Kilisesi ve Şehir Müzesi'ni keşfedin; yürüyüşünüzü tarihi Marientor kapısında eski şehir duvarlarının kalıntılarını görerek sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -303,6 +316,12 @@
           "Wear comfortable shoes for the historic cobblestone streets.",
           "Combine your visit with a local wine tasting session.",
           "Check the opening hours of St. Wenceslaus Church for organ recitals."
+        ],
+        "tr": [
+          "Eski şehir kompakt ve yürüyerek keşfetmek için ideal.",
+          "Tarihi parke taşlı sokaklar için rahat ayakkabılar giyin.",
+          "Ziyaretinizi yerel bir şarap tadımıyla birleştirin.",
+          "Org dinletileri için Aziz Wenceslaus Kilisesi'nin açılış saatlerini kontrol edin."
         ]
       }
     },
@@ -319,7 +338,8 @@
             "de": "Naumburger Dom",
             "hu": "Naumburgi dóm",
             "ro": "Catedrala din Naumburg",
-            "en": "Naumburg Cathedral"
+            "en": "Naumburg Cathedral",
+            "tr": "Naumburg Katedrali"
           },
           "coords": [
             11.803,
@@ -334,7 +354,8 @@
             "de": "Parken Sie Ihr Rad sicher am Haupteingang.",
             "hu": "Parkolja le biztonságosan a biciklit a főbejáratnál.",
             "ro": "Parcați bicicleta în siguranță la intrarea principală.",
-            "en": "Park your bike safely at the main entrance."
+            "en": "Park your bike safely at the main entrance.",
+            "tr": "Bisikletinizi ana girişte güvenle park edin."
           }
         },
         {
@@ -342,7 +363,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             11.81,
@@ -357,7 +379,8 @@
             "de": "Ein idealer Ort für eine kurze Radpause.",
             "hu": "Ideális hely egy rövid kerékpáros pihenőhöz.",
             "ro": "Un loc ideal pentru o scurtă pauză de pedalat.",
-            "en": "An ideal place for a short cycling break."
+            "en": "An ideal place for a short cycling break.",
+            "tr": "Kısa bir bisiklet molası için ideal bir yer."
           }
         },
         {
@@ -365,7 +388,8 @@
             "de": "Marientor",
             "hu": "Mária-kapu",
             "ro": "Poarta Marientor",
-            "en": "Marientor Gate"
+            "en": "Marientor Gate",
+            "tr": "Marientor Kapısı"
           },
           "coords": [
             11.815,
@@ -380,7 +404,8 @@
             "de": "Radweg führt direkt an den alten Befestigungen entlang.",
             "hu": "A kerékpárút közvetlenül a régi erődítmények mellett halad.",
             "ro": "Pista de biciclete trece chiar pe lângă vechile fortificații.",
-            "en": "The bike path runs directly along the old fortifications."
+            "en": "The bike path runs directly along the old fortifications.",
+            "tr": "Bisiklet yolu eski surların hemen boyunca ilerliyor."
           }
         },
         {
@@ -388,7 +413,8 @@
             "de": "Mittagessen an der Saale",
             "hu": "Ebéd a Saale partján",
             "ro": "Prânz pe malul râului Saale",
-            "en": "Lunch by the Saale River"
+            "en": "Lunch by the Saale River",
+            "tr": "Saale Nehri Kenarında Öğle Yemeği"
           },
           "coords": [
             11.82,
@@ -403,7 +429,8 @@
             "de": "Genießen Sie den Blick auf den Fluss während der Pause.",
             "hu": "Élvezze a folyóra nyíló kilátást a szünet alatt.",
             "ro": "Bucurați-vă de vederea la râu în timpul pauzei.",
-            "en": "Enjoy the river view during your lunch break."
+            "en": "Enjoy the river view during your lunch break.",
+            "tr": "Öğle molanız sırasında nehir manzarasının tadını çıkarın."
           }
         },
         {
@@ -411,7 +438,8 @@
             "de": "Max-Klinger-Haus",
             "hu": "Max-Klinger-ház",
             "ro": "Casa Max Klinger",
-            "en": "Max Klinger House"
+            "en": "Max Klinger House",
+            "tr": "Max Klinger Evi"
           },
           "coords": [
             11.834,
@@ -426,7 +454,8 @@
             "de": "Wunderschön gelegenes Haus des Künstlers im Weinberg.",
             "hu": "A művész gyönyörűen fekvő háza a szőlőhegyen.",
             "ro": "Casa artistului, situată superb într-o podgorie.",
-            "en": "Beautifully located house of the artist in a vineyard."
+            "en": "Beautifully located house of the artist in a vineyard.",
+            "tr": "Bağlık alanda güzel konumlanmış sanatçının evi."
           }
         },
         {
@@ -434,7 +463,8 @@
             "de": "Nietzsche-Haus",
             "hu": "Nietzsche-ház",
             "ro": "Casa Nietzsche",
-            "en": "Nietzsche House"
+            "en": "Nietzsche House",
+            "tr": "Nietzsche Evi"
           },
           "coords": [
             11.808,
@@ -449,7 +479,8 @@
             "de": "Rückfahrt durch das historische Stadtzentrum.",
             "hu": "Visszaút a történelmi városközponton keresztül.",
             "ro": "Drumul de întoarcere prin centrul istoric al orașului.",
-            "en": "Return journey through the historic city center."
+            "en": "Return journey through the historic city center.",
+            "tr": "Tarihi şehir merkezinden dönüş yolculuğu."
           }
         }
       ],
@@ -457,7 +488,8 @@
         "de": "Entdecken Sie Naumburg und seine Umgebung mit dem Fahrrad. Vom Dom geht es durch die Altstadt zum Flussufer der Saale. Nach einer Stärkung am Wasser radeln Sie zum Max-Klinger-Haus in die Weinberge, um die künstlerische Seite der Region zu erleben, bevor Sie zurück zum Nietzsche-Haus kehren.",
         "hu": "Fedezze fel Naumburgot és környékét kerékpárral. A dómtól az óvároson át a Saale folyó partjáig tekerhet. Egy vízparti ebéd után irány a szőlőhegyen fekvő Max-Klinger-ház, ahol megismerheti a régió művészeti oldalát, majd térjen vissza a Nietzsche-házhoz.",
         "ro": "Explorați Naumburg și împrejurimile sale cu bicicleta. De la catedrală, pedalați prin centrul vechi până pe malul râului Saale. După un prânz lângă apă, mergeți spre Casa Max Klinger din podgorii pentru a descoperi latura artistică a regiunii, înainte de a reveni la Casa Nietzsche.",
-        "en": "Discover Naumburg and its surroundings by bike. From the cathedral, ride through the old town to the banks of the Saale river. After a lunch break by the water, cycle to the Max Klinger House in the vineyards to experience the artistic side of the region before returning to the Nietzsche House."
+        "en": "Discover Naumburg and its surroundings by bike. From the cathedral, ride through the old town to the banks of the Saale river. After a lunch break by the water, cycle to the Max Klinger House in the vineyards to experience the artistic side of the region before returning to the Nietzsche House.",
+        "tr": "Naumburg ve çevresini bisikletle keşfedin. Katedralden başlayıp eski şehirden Saale nehir kıyılarına doğru pedal çevirin. Suyun kenarında bir öğle molasından sonra bağlardaki Max Klinger Evi'ne gidin ve bölgenin sanatsal yönünü deneyimledikten sonra Nietzsche Evi'ne geri dönün."
       },
       "gastro_picks": {
         "de": [
@@ -565,6 +597,12 @@
           "The route to the Max Klinger House has some gentle slopes.",
           "Bike locks are mandatory when visiting the museums.",
           "Plan some time for photo stops in the vineyards."
+        ],
+        "tr": [
+          "Bakımı iyi yapılmış Saale Bisiklet Yolu'nu kullanın.",
+          "Max Klinger Evi'ne giden rota bazı hafif eğimlere sahip.",
+          "Müzeleri ziyaret ederken bisiklet kilitleri zorunludur.",
+          "Bağlarda fotoğraf molaları için zaman planlayın."
         ]
       }
     },
@@ -581,7 +619,8 @@
             "de": "Naumburger Dom (Parkplatz)",
             "hu": "Naumburgi dóm (parkoló)",
             "ro": "Catedrala Naumburg (parcare)",
-            "en": "Naumburg Cathedral (Parking)"
+            "en": "Naumburg Cathedral (Parking)",
+            "tr": "Naumburg Katedrali (Otopark)"
           },
           "coords": [
             11.803,
@@ -596,7 +635,8 @@
             "de": "Großer Parkplatz direkt am Domplatz.",
             "hu": "Tágas parkoló közvetlenül a dóm téren.",
             "ro": "Parcare mare situată chiar în piața catedralei.",
-            "en": "Large parking lot directly at the Cathedral Square."
+            "en": "Large parking lot directly at the Cathedral Square.",
+            "tr": "Katedral Meydanı'nın hemen yanında geniş otopark."
           }
         },
         {
@@ -604,7 +644,8 @@
             "de": "Nietzsche-Haus",
             "hu": "Nietzsche-ház",
             "ro": "Casa Nietzsche",
-            "en": "Nietzsche House"
+            "en": "Nietzsche House",
+            "tr": "Nietzsche Evi"
           },
           "coords": [
             11.808,
@@ -619,7 +660,8 @@
             "de": "Cluster-Walking: Kurzer Spaziergang vom Domparkplatz.",
             "hu": "Séta a dóm parkolójától.",
             "ro": "Plimbare scurtă de la parcarea catedralei.",
-            "en": "Short walk from the cathedral parking lot."
+            "en": "Short walk from the cathedral parking lot.",
+            "tr": "Katedral otoparkından kısa bir yürüyüş mesafesinde."
           }
         },
         {
@@ -627,7 +669,8 @@
             "de": "Marktplatz (Altstadt Cluster)",
             "hu": "Piactér (Óváros cluster)",
             "ro": "Piața Mare (centrul vechi)",
-            "en": "Market Square (Old Town Cluster)"
+            "en": "Market Square (Old Town Cluster)",
+            "tr": "Pazar Meydanı (Eski Şehir Kümesi)"
           },
           "coords": [
             11.81,
@@ -642,7 +685,8 @@
             "de": "Parken Sie im Parkhaus am Markgrafenweg.",
             "hu": "Parkoljon a Markgrafenweg parkolóházban.",
             "ro": "Parcați în garajul de pe Markgrafenweg.",
-            "en": "Park in the parking garage at Markgrafenweg."
+            "en": "Park in the parking garage at Markgrafenweg.",
+            "tr": "Markgrafenweg'deki otopark garajına park edin."
           }
         },
         {
@@ -650,7 +694,8 @@
             "de": "Wenzelskirche",
             "hu": "Vencel-templom",
             "ro": "Biserica Sf. Venceslau",
-            "en": "St. Wenceslaus Church"
+            "en": "St. Wenceslaus Church",
+            "tr": "Aziz Wenceslaus Kilisesi"
           },
           "coords": [
             11.811,
@@ -665,7 +710,8 @@
             "de": "Nur wenige Schritte vom Marktplatz entfernt.",
             "hu": "Csak pár lépésre a piactértől.",
             "ro": "La doar câțiva pași de Piața Mare.",
-            "en": "Just a few steps from the Market Square."
+            "en": "Just a few steps from the Market Square.",
+            "tr": "Pazar Meydanı'ndan sadece birkaç adım uzaklıkta."
           }
         },
         {
@@ -673,7 +719,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "tr": "Eski Şehirde Öğle Yemeği"
           },
           "coords": [
             11.812,
@@ -688,7 +735,8 @@
             "de": "Zahlreiche Restaurants in Laufweite.",
             "hu": "Számos étterem sétatávolságra.",
             "ro": "Numeroase restaurante la distanță de mers pe jos.",
-            "en": "Numerous restaurants within walking distance."
+            "en": "Numerous restaurants within walking distance.",
+            "tr": "Yürüme mesafesinde birçok restoran var."
           }
         },
         {
@@ -696,7 +744,8 @@
             "de": "Marientor",
             "hu": "Mária-kapu",
             "ro": "Poarta Marientor",
-            "en": "Marientor Gate"
+            "en": "Marientor Gate",
+            "tr": "Marientor Kapısı"
           },
           "coords": [
             11.815,
@@ -711,7 +760,8 @@
             "de": "Cluster-Walking: Vom Marktplatz durch die Fußgängerzone.",
             "hu": "Séta a piactértől a sétálóutcán át.",
             "ro": "Plimbare din Piața Mare prin zona pietonală.",
-            "en": "Walk from the Market Square through the pedestrian zone."
+            "en": "Walk from the Market Square through the pedestrian zone.",
+            "tr": "Pazar Meydanı'ndan yayalaştırılmış bölge üzerinden yürüyün."
           }
         },
         {
@@ -719,7 +769,8 @@
             "de": "Max-Klinger-Haus (Grochlitz)",
             "hu": "Max-Klinger-ház",
             "ro": "Casa Max Klinger",
-            "en": "Max Klinger House"
+            "en": "Max Klinger House",
+            "tr": "Max Klinger Evi"
           },
           "coords": [
             11.834,
@@ -734,7 +785,8 @@
             "de": "Eigener Parkplatz direkt am Museum.",
             "hu": "Saját parkoló közvetlenül a múzeumnál.",
             "ro": "Parcare proprie chiar la muzeu.",
-            "en": "Private parking available directly at the museum."
+            "en": "Private parking available directly at the museum.",
+            "tr": "Müzeye doğrudan özel otopark mevcut."
           }
         }
       ],
@@ -742,7 +794,8 @@
         "de": "Mit dem Auto nutzen Sie praktische Cluster: Parken Sie zuerst am Dom und erkunden Sie diesen sowie das Nietzsche-Haus zu Fuß. Danach fahren Sie ins Stadtzentrum (Cluster Altstadt) für Marktplatz, Wenzelskirche und Mittagessen. Den Abschluss bildet eine kurze Fahrt zum Max-Klinger-Haus, das etwas außerhalb inmitten der Weinberge liegt.",
         "hu": "Autóval praktikus klasztereket látogathat meg: parkoljon először a dómnál, és fedezze fel azt, valamint a Nietzsche-házat gyalog. Ezután hajtson be a városközpontba az óvárosi klaszterhez (piactér, Vencel-templom, ebéd). A napot egy rövid autózással zárja a városon kívüli, szőlőhegyek közötti Max-Klinger-háznál.",
         "ro": "Cu mașina, folosiți grupuri practice de obiective: parcați întâi la catedrală și explorați-o împreună cu Casa Nietzsche pe jos. Apoi, conduceți spre centrul orașului (centrul vechi) pentru Piața Mare, Biserica Sf. Venceslau și prânz. Încheiați ziua cu o scurtă călătorie până la Casa Max Klinger, situată în afara orașului, printre podgorii.",
-        "en": "By car, use practical clusters: first, park at the cathedral and explore it along with the Nietzsche House on foot. Then, drive to the city center (Old Town cluster) for the Market Square, St. Wenceslaus Church, and lunch. Finish with a short drive to the Max Klinger House, located just outside town amidst the vineyards."
+        "en": "By car, use practical clusters: first, park at the cathedral and explore it along with the Nietzsche House on foot. Then, drive to the city center (Old Town cluster) for the Market Square, St. Wenceslaus Church, and lunch. Finish with a short drive to the Max Klinger House, located just outside town amidst the vineyards.",
+        "tr": "Arabayla pratik kümeleri kullanın: önce katedrale park edin ve Nietzsche Evi ile birlikte yürüyerek keşfedin. Ardından şehir merkezine (Eski Şehir kümesi) gidip Pazar Meydanı, Aziz Wenceslaus Kilisesi ve öğle yemeğini yapın. Son olarak bağlar arasındaki, kasaba dışında yer alan Max Klinger Evi'ne kısa bir sürüş yapın."
       },
       "gastro_picks": {
         "de": [
@@ -850,6 +903,12 @@
           "Parking in the old town is often time-limited.",
           "Watch out for one-way streets in the historic center.",
           "The drive to the Max Klinger House is very scenic."
+        ],
+        "tr": [
+          "Şehrin dışındaki Park-et-devam (Park-and-Ride) tesislerini kullanın.",
+          "Eski şehirde park etme çoğunlukla süre sınırlıdır.",
+          "Tarihi merkezde tek yönlü sokaklara dikkat edin.",
+          "Max Klinger Evi'ne giden sürüş manzarası çok güzeldir."
         ]
       }
     },
@@ -866,7 +925,8 @@
             "de": "Naumburg Hauptbahnhof",
             "hu": "Naumburg főpályaudvar",
             "ro": "Gara Centrală Naumburg",
-            "en": "Naumburg Main Station"
+            "en": "Naumburg Main Station",
+            "tr": "Naumburg Ana İstasyonu"
           },
           "coords": [
             11.799,
@@ -881,7 +941,8 @@
             "de": "Startpunkt der historischen Straßenbahn 'Wilde Zicke'.",
             "hu": "A 'Wilde Zicke' történelmi villamos kezdőpontja.",
             "ro": "Punctul de plecare al tramvaiului istoric 'Wilde Zicke'.",
-            "en": "Starting point of the historic 'Wilde Zicke' tram."
+            "en": "Starting point of the historic 'Wilde Zicke' tram.",
+            "tr": "Tarihi 'Wilde Zicke' tramvayının başlangıç noktası."
           }
         },
         {
@@ -889,7 +950,8 @@
             "de": "Naumburger Dom",
             "hu": "Naumburgi dóm",
             "ro": "Catedrala Naumburg",
-            "en": "Naumburg Cathedral"
+            "en": "Naumburg Cathedral",
+            "tr": "Naumburg Katedrali"
           },
           "coords": [
             11.803,
@@ -904,7 +966,8 @@
             "de": "Mit der Straßenbahn bis zur Haltestelle Salztor.",
             "hu": "Villamossal a Salztor megállóig.",
             "ro": "Cu tramvaiul până la stația Salztor.",
-            "en": "Take the tram to the Salztor stop."
+            "en": "Take the tram to the Salztor stop.",
+            "tr": "Tramvaya binip Salztor durağında inin."
           }
         },
         {
@@ -912,7 +975,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Mare",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             11.81,
@@ -927,7 +991,8 @@
             "de": "Cluster-Walking vom Dom durch die Fußgängerzone.",
             "hu": "Séta a dómtól a sétálóutcán keresztül.",
             "ro": "Plimbare de la catedrală prin zona pietonală.",
-            "en": "Walk from the cathedral through the pedestrian zone."
+            "en": "Walk from the cathedral through the pedestrian zone.",
+            "tr": "Katedralden yayalaştırılmış bölge üzerinden yürüyün."
           }
         },
         {
@@ -935,7 +1000,8 @@
             "de": "Stadtmuseum Hohe Lilie",
             "hu": "Hohe Lilie Várostörténeti Múzeum",
             "ro": "Muzeul Orașului Hohe Lilie",
-            "en": "City Museum Hohe Lilie"
+            "en": "City Museum Hohe Lilie",
+            "tr": "Hohe Lilie Şehir Müzesi"
           },
           "coords": [
             11.811,
@@ -950,7 +1016,8 @@
             "de": "Eines der bedeutendsten Gebäude am Markt.",
             "hu": "A piactér egyik legjelentősebb épülete.",
             "ro": "Una dintre cele mai importante clădiri din piață.",
-            "en": "One of the most significant buildings on the market square."
+            "en": "One of the most significant buildings on the market square.",
+            "tr": "Pazar meydanındaki en önemli binalardan biri."
           }
         },
         {
@@ -958,7 +1025,8 @@
             "de": "Marientor",
             "hu": "Mária-kapu",
             "ro": "Poarta Marientor",
-            "en": "Marientor Gate"
+            "en": "Marientor Gate",
+            "tr": "Marientor Kapısı"
           },
           "coords": [
             11.815,
@@ -973,7 +1041,8 @@
             "de": "Spaziergang entlang der historischen Befestigungsanlage.",
             "hu": "Séta a történelmi erődítmények mentén.",
             "ro": "Plimbare de-a lungul vechii fortificații.",
-            "en": "Stroll along the historic medieval fortifications."
+            "en": "Stroll along the historic medieval fortifications.",
+            "tr": "Tarihi ortaçağ surları boyunca gezinin."
           }
         },
         {
@@ -981,7 +1050,8 @@
             "de": "Naumburger Straßenbahn (Fahrt)",
             "hu": "Naumburgi villamosozás",
             "ro": "Călătorie cu tramvaiul din Naumburg",
-            "en": "Naumburg Tram Ride"
+            "en": "Naumburg Tram Ride",
+            "tr": "Naumburg Tramvay Gezisi"
           },
           "coords": [
             11.805,
@@ -996,7 +1066,8 @@
             "de": "Fahrt zurück zum Bahnhof mit der Ringstraßenbahn.",
             "hu": "Visszautazás a vasútállomásra a körvillamossal.",
             "ro": "Întoarcerea la gară cu tramvaiul circular.",
-            "en": "Return journey to the station with the circular tram."
+            "en": "Return journey to the station with the circular tram.",
+            "tr": "Dairesel tramvayla istasyona dönüş yolculuğu."
           }
         }
       ],
@@ -1004,7 +1075,8 @@
         "de": "Naumburg lässt sich wunderbar mit der kleinsten Straßenbahn Deutschlands entdecken. Starten Sie am Hauptbahnhof und fahren Sie zur Altstadt. Besuchen Sie den Dom und das Stadtmuseum am Markt. Nach einem Spaziergang zum Marientor bringt Sie die historische Bahn, liebevoll 'Wilde Zicke' genannt, wieder zurück zum Bahnhof.",
         "hu": "Naumburg csodálatosan felfedezhető Németország legkisebb villamoshálózatával. Kezdjen a főpályaudvarnál, és utazzon az óvárosba. Látogassa meg a dómot és a várostörténeti múzeumot a piactéren. A Mária-kapuhoz tett séta után a helyiek által csak 'Wilde Zicke'-nek hívott történelmi járat viszi vissza az állomásra.",
         "ro": "Naumburg poate fi descoperit minunat cu cea mai mică rețea de tramvai din Germania. Începeți de la gara centrală și mergeți spre centrul vechi. Vizitați catedrala și Muzeul Orașului din piață. După o plimbare până la Marientor, tramvaiul istoric, numit cu drag 'Wilde Zicke', vă va aduce înapoi la gară.",
-        "en": "Naumburg can be wonderfully explored using Germany's smallest tram network. Start at the main station and ride to the old town. Visit the cathedral and the City Museum on the market square. After a walk to the Marientor gate, the historic tram, affectionately called 'Wilde Zicke', will take you back to the station."
+        "en": "Naumburg can be wonderfully explored using Germany's smallest tram network. Start at the main station and ride to the old town. Visit the cathedral and the City Museum on the market square. After a walk to the Marientor gate, the historic tram, affectionately called 'Wilde Zicke', will take you back to the station.",
+        "tr": "Naumburg, Almanya'nın en küçük tramvay ağı kullanılarak harika şekilde keşfedilebilir. Ana istasyondan başlayıp eski şehre gidin. Pazar meydanında katedral ve Şehir Müzesi'ni ziyaret edin. Marientor kapısına yürüdükten sonra, sevgiyle 'Wilde Zicke' olarak adlandırılan tarihi tramvay sizi istasyona geri götürecektir."
       },
       "gastro_picks": {
         "de": [
@@ -1112,6 +1184,12 @@
           "Tickets can be purchased directly from the driver.",
           "Consider combining your ride with a visit to the tram depot.",
           "The route offers great views of the historic villas."
+        ],
+        "tr": [
+          "Tramvay her 30 dakikada bir çalışır.",
+          "Biletler doğrudan şoförden satın alınabilir.",
+          "Gezinizi tramvay deposunu ziyaretle birleştirmeyi düşünün.",
+          "Güzergah tarihi villaların güzel manzaralarını sunuyor."
         ]
       }
     }

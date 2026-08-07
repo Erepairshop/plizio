@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die Terrakotta-Figuren am Tor.",
             "hu": "Nézze meg a kapu különleges terrakotta figuráit.",
             "ro": "Admirați figurile de teracotă de pe poartă.",
-            "en": "Check out the unique terracotta figures on the gate."
+            "en": "Check out the unique terracotta figures on the gate.",
+            "tr": "Kapıdaki benzersiz terrakota figürlerini inceleyin."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Fachwerkhäuser, die direkt in die Mauer gebaut wurden.",
             "hu": "Közvetlenül a városfalba épített fachwerk házak.",
             "ro": "Case din lemn construite direct în zidul cetății.",
-            "en": "Half-timbered houses built directly into the wall."
+            "en": "Half-timbered houses built directly into the wall.",
+            "tr": "Doğrudan sur duvarına inşa edilmiş ahşap karkas evler."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Das am besten erhaltene Vortor der Anlage.",
             "hu": "Az erődrendszer legépségben maradt előkapuja.",
             "ro": "Cea mai bine conservată poartă exterioară a complexului.",
-            "en": "The best-preserved outer gate of the fortification."
+            "en": "The best-preserved outer gate of the fortification.",
+            "tr": "Hisarın en iyi korunmuş dış kapısı."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Eine gotische Kirche mit modernem Konzertsaal im Inneren.",
             "hu": "Gótikus templom, belül modern koncertteremmel.",
             "ro": "O biserică gotică cu o sală de concerte modernă în interior.",
-            "en": "A Gothic church with a modern concert hall inside."
+            "en": "A Gothic church with a modern concert hall inside.",
+            "tr": "İçinde modern bir konser salonu olan Gotik bir kilise."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Probieren Sie lokale Mecklenburger Küche.",
             "hu": "Kóstolja meg a helyi mecklenburgi konyhát.",
             "ro": "Încercați bucătăria locală din Mecklenburg.",
-            "en": "Try local Mecklenburg cuisine."
+            "en": "Try local Mecklenburg cuisine.",
+            "tr": "Yerel Mecklenburg mutfağını deneyin."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Besuchen Sie das Stadtgeschichtsmuseum im Tor.",
             "hu": "Látogassa meg a várostörténeti múzeumot a kapuban.",
             "ro": "Vizitați muzeul de istorie a orașului din poartă.",
-            "en": "Visit the city history museum inside the gate."
+            "en": "Visit the city history museum inside the gate.",
+            "tr": "Kapı içindeki şehir tarih müzesini ziyaret edin."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Ein entspanner Spaziergang Richtung Tollensesee.",
             "hu": "Pihentető séta a Tollensesee irányába.",
             "ro": "O plimbare relaxantă spre lacul Tollensesee.",
-            "en": "A relaxing stroll towards Lake Tollensesee."
+            "en": "A relaxing stroll towards Lake Tollensesee.",
+            "tr": "Tollensesee Gölü’ne doğru rahatlatıcı bir yürüyüş."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Vormittags erkunden Sie die 'Stadt der vier Tore' entlang der mittelalterlichen Stadtmauer mit ihren einzigartigen Wiekhäusern. Nach der Besichtigung der beeindruckenden Konzertkirche genießen Sie ein lokales Mittagessen am Marktplatz. Der Nachmittag führt Sie durch das historische Treptower Tor bis zum weitläufigen Kulturpark am Rande des Tollensesees.",
         "hu": "Délelőtt a 'négy kapu városát' fedezzük fel a középkori városfal mentén, megcsodálva az egyedülálló Wiekhäusereket. A lenyűgöző Konzertkirche megtekintése után helyi ebédet fogyasztunk a főtéren. Délután a történelmi Treptower Toron keresztül sétálunk ki a Tollensesee partján fekvő Kulturparkba.",
         "ro": "Dimineața explorăm 'orașul celor patru porți' de-a lungul zidului medieval al cetății, cu casele sale unice Wiekhäuser. După vizitarea impresionantei Konzertkirche, savurați un prânz local în piața centrală. După-amiaza vă conduce prin poarta istorică Treptower Tor până la Kulturpark, situat pe malul lacului Tollensesee.",
-        "en": "In the morning, explore the 'City of Four Gates' along the medieval city wall with its unique Wiekhäuser. After visiting the impressive Concert Church, enjoy a local lunch at the market square. The afternoon leads you through the historic Treptower Tor to the expansive Kulturpark on the shores of Lake Tollensesee."
+        "en": "In the morning, explore the 'City of Four Gates' along the medieval city wall with its unique Wiekhäuser. After visiting the impressive Concert Church, enjoy a local lunch at the market square. The afternoon leads you through the historic Treptower Tor to the expansive Kulturpark on the shores of Lake Tollensesee.",
+        "tr": "Sabah, benzersiz Wiekhäuser’li ortaçağ suru boyunca 'Dört Kapılı Şehir'i keşfedin. Etkileyici Konser Kilisesi'ni ziyaret ettikten sonra pazar meydanında yerel bir öğle yemeğinin tadını çıkarın. Öğleden sonra tarihi Treptower Tor’dan geçip Tollensesee kıyısındaki geniş Kulturpark’a ulaşın."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +315,12 @@
           "Check the concert schedule for the Marienkirche in advance.",
           "The gates often house small, interesting exhibitions.",
           "It is best to park on the ring road outside the city wall."
+        ],
+        "tr": [
+          "Şehir suru yürüyüşe tamamen açıktır (yak. 2,3 km).",
+          "Marienkirche konser programını önceden kontrol edin.",
+          "Kapılar genellikle küçük, ilginç sergilere ev sahipliği yapar.",
+          "En iyisi şehir suru dışındaki ring yolunda park etmektir."
         ]
       }
     },
@@ -333,7 +347,8 @@
             "de": "Umrunden Sie die Altstadt entlang der Tore.",
             "hu": "Kerülje meg az óvárost a kapuk mentén.",
             "ro": "Înconjurați orașul vechi de-a lungul porților.",
-            "en": "Circle the old town along the gates."
+            "en": "Circle the old town along the gates.",
+            "tr": "Kapılar boyunca eski şehri dolaşın."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Kurzer Stopp an der Backsteingotik.",
             "hu": "Rövid megálló a vörös téglás gótikánál.",
             "ro": "Scurt popas la arhitectura gotică din cărămidă.",
-            "en": "Quick stop at the Brick Gothic landmark."
+            "en": "Quick stop at the Brick Gothic landmark.",
+            "tr": "Tuğla Gotik simge önünde kısa bir mola."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Fahrt entlang des Nordufers.",
             "hu": "Kerékpározás az északi part mentén.",
             "ro": "Plimbare pe malul de nord al lacului.",
-            "en": "Ride along the northern shore."
+            "en": "Ride along the northern shore.",
+            "tr": "Kuzey kıyısı boyunca sürün."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Ein steiler Anstieg, der sich für die Aussicht lohnt.",
             "hu": "Meredek emelkedő, de a kilátás megéri.",
             "ro": "O urcare abruptă care merită pentru priveliște.",
-            "en": "A steep climb, but worth it for the view."
+            "en": "A steep climb, but worth it for the view.",
+            "tr": "Manzara için zorlu bir tırmanış, ama değiyor."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Ruhiger Platz am Seeufer für eine Pause.",
             "hu": "Csendes hely a tóparton a pihenéshez.",
             "ro": "Loc liniștit pe malul lacului pentru o pauză.",
-            "en": "Quiet spot by the lakeshore for a break."
+            "en": "Quiet spot by the lakeshore for a break.",
+            "tr": "Göl kıyısında sessiz bir dinlenme noktası."
           }
         },
         {
@@ -423,7 +442,8 @@
             "de": "Erfrischen Sie sich im sauberen Wasser.",
             "hu": "Frissüljön fel a tiszta vízben.",
             "ro": "Răcoriți-vă în apa curată.",
-            "en": "Refresh yourself in the clean water."
+            "en": "Refresh yourself in the clean water.",
+            "tr": "Temiz suda serinleyin."
           }
         }
       ],
@@ -431,7 +451,8 @@
         "de": "Beginnen Sie mit einer schnellen Umrundung der Stadtmauer, bevor Sie die Konzertkirche besichtigen. Dann geht es hinaus zum Tollensesee, wo Sie dem Uferweg bis zum Belvedere folgen, einem Tempelbau mit herrlicher Aussicht. Nach einem Picknick am See führt der Rückweg zum Augustabad, wo Sie den Tag entspannt ausklingen lassen können.",
         "hu": "Kezdje a napot a városfal gyors megkerülésével, majd látogassa meg a koncerttemplomot. Ezután tekerjen ki a Tollensesee-hez, ahol a parti utat követve eljut a Belvedere-hez, amely pazar kilátást nyújt. Egy tóparti piknik után az út az Augustabad strandhoz vezet, ahol kellemesen zárhatja a napot.",
         "ro": "Începeți cu un ocol rapid al zidului cetății înainte de a vizita biserica de concerte. Apoi porniți spre lacul Tollensesee, urmând drumul de pe mal până la Belvedere, un edificiu tip templu cu o vedere magnifică. După un picnic pe malul lacului, drumul de întoarcere vă duce la Augustabad, unde vă puteți relaxa la finalul zilei.",
-        "en": "Start with a quick loop around the city wall before visiting the Concert Church. Then head out to Lake Tollensesee, following the shore path to the Belvedere, a temple-like building with magnificent views. After a picnic by the lake, the return journey takes you to Augustabad beach for a relaxed finish."
+        "en": "Start with a quick loop around the city wall before visiting the Concert Church. Then head out to Lake Tollensesee, following the shore path to the Belvedere, a temple-like building with magnificent views. After a picnic by the lake, the return journey takes you to Augustabad beach for a relaxed finish.",
+        "tr": "Şehri çevreleyen sur turuyla kısa bir tura başlayın, ardından Konser Kilisesi’ni ziyaret edin. Sonra Tollensesee Gölü’ne doğru kıyı yolunu izleyerek Belvedere’ye ulaşın; burası tapınağı andıran ve muhteşem manzaralar sunan bir yapı. Göldeki piknikten sonra dönüş yolunda Augustabad plajına uğrayarak rahat bir bitiriş yapın."
       },
       "gastro_picks": {
         "de": [
@@ -555,6 +576,12 @@
           "Watch out for pedestrians on the promenade.",
           "The Belvedere is accessible via a forest path.",
           "Take enough water with you, as there are few shops on the west shore."
+        ],
+        "tr": [
+          "Göl çevresi turu yaklaşık 35 km uzunluğundadır.",
+          "Promenade'da yayalara dikkat edin.",
+          "Belvedere orman patikasıyla ulaşılabilir.",
+          "Batı kıyısında az sayıda dükkan olduğu için yeterli su alın."
         ]
       }
     },
@@ -581,7 +608,8 @@
             "de": "Parken Sie im Parkhaus am Marktplatz.",
             "hu": "Parkoljon a Marktplatz alatti mélygarázsban.",
             "ro": "Parcați în parcarea de la Marktplatz.",
-            "en": "Park in the underground garage at the market square."
+            "en": "Park in the underground garage at the market square.",
+            "tr": "Pazar meydanındaki yeraltı garajına park edin."
           }
         },
         {
@@ -599,7 +627,8 @@
             "de": "Zu Fuß vom Marktplatz erreichbar.",
             "hu": "Gyalogosan elérhető a főtértől.",
             "ro": "Accesibil pe jos din piața centrală.",
-            "en": "Accessible on foot from the market square."
+            "en": "Accessible on foot from the market square.",
+            "tr": "Pazar meydanından yürüyerek ulaşılabilir."
           }
         },
         {
@@ -617,7 +646,8 @@
             "de": "Spaziergang entlang der Ostmauer.",
             "hu": "Séta a keleti városfal mentén.",
             "ro": "Plimbare de-a lungul zidului de est.",
-            "en": "Stroll along the eastern wall."
+            "en": "Stroll along the eastern wall.",
+            "tr": "Doğu duvarı boyunca gezinti yapın."
           }
         },
         {
@@ -635,7 +665,8 @@
             "de": "Parkplatz direkt am Belvedere vorhanden.",
             "hu": "Parkoló közvetlenül a Belvedere mellett.",
             "ro": "Parcare disponibilă chiar la Belvedere.",
-            "en": "Parking available right at the Belvedere."
+            "en": "Parking available right at the Belvedere.",
+            "tr": "Belvedere'nin hemen yanında otopark mevcut."
           }
         },
         {
@@ -653,7 +684,8 @@
             "de": "Kurzer Abstieg zum See.",
             "hu": "Rövid leereszkedés a tóhoz.",
             "ro": "Scurtă coborâre spre lac.",
-            "en": "Short descent to the lake."
+            "en": "Short descent to the lake.",
+            "tr": "Göl kenarına kısa bir iniş."
           }
         },
         {
@@ -671,7 +703,8 @@
             "de": "Restaurant am Badehaus.",
             "hu": "Étterem a Badehaus-nál.",
             "ro": "Restaurant la Badehaus.",
-            "en": "Restaurant at the Badehaus."
+            "en": "Restaurant at the Badehaus.",
+            "tr": "Badehaus'ta restoran."
           }
         },
         {
@@ -689,7 +722,8 @@
             "de": "Ein letzter Blick auf das Wasser.",
             "hu": "Még egy utolsó pillantás a vízre.",
             "ro": "O ultimă privire asupra apei.",
-            "en": "A last look at the water."
+            "en": "A last look at the water.",
+            "tr": "Suyla son bir bakış."
           }
         }
       ],
@@ -697,7 +731,8 @@
         "de": "Diese Tour nutzt das Auto, um bequem zwischen der historischen Altstadt und den Highlights am Tollensesee zu wechseln. Vormittags parken Sie zentral für einen Rundgang zu den Toren und Wiekhäusern. Danach fahren Sie hinauf zum Belvedere für das beste Panorama der Region, gefolgt von einem entspannten Mittagessen direkt am Seeufer.",
         "hu": "Ez a túra az autót használja, hogy kényelmesen váltson a történelmi óváros és a Tollensesee látnivalói között. Délelőtt a központban parkolunk a kapuk és Wiekhäuserek megtekintéséhez. Ezután felautózunk a Belvedere-hez a régió legjobb panorámájáért, majd egy pihentető ebédet fogyasztunk közvetlenül a tóparton.",
         "ro": "Acest tur folosește mașina pentru a face legătura confortabil între centrul istoric și atracțiile de pe malul lacului Tollensesee. Dimineața parcați central pentru un tur al porților și caselor Wiekhäuser. Apoi conduceți până la Belvedere pentru cea mai bună panoramă din regiune, urmată de un prânz relaxant chiar pe malul lacului.",
-        "en": "This tour uses the car to comfortably switch between the historic old town and the highlights at Lake Tollensesee. In the morning, park centrally for a tour of the gates and Wiekhäuser. Then drive up to the Belvedere for the region's best panorama, followed by a relaxed lunch directly on the lakeshore."
+        "en": "This tour uses the car to comfortably switch between the historic old town and the highlights at Lake Tollensesee. In the morning, park centrally for a tour of the gates and Wiekhäuser. Then drive up to the Belvedere for the region's best panorama, followed by a relaxed lunch directly on the lakeshore.",
+        "tr": "Bu tur, tarihi şehir merkezi ile Tollensesee Gölü'ndeki öne çıkan noktalar arasında rahatça geçiş yapmak için araba kullanır. Sabah kapıların ve Wiekhäuser'in turu için merkezde park edin. Ardından bölgenin en iyi panoraması için Belvedere'ye çıkın ve göl kıyısında sakin bir öğle yemeğinin tadını çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -805,6 +840,12 @@
           "Avoid rush hour on the Friedrich-Engels-Ring.",
           "A narrow forest road leads to the Belvedere.",
           "Combine the trip with a detour to Burg Stargard (10 min drive)."
+        ],
+        "tr": [
+          "Şehir merkezindeki otopark ücretleri ılımlıdır.",
+          "Friedrich-Engels-Ring'de yoğun saatlerden kaçının.",
+          "Belvedere'ye dar bir orman yolu götürür.",
+          "Gezinizi Burg Stargard'a (10 dakikalık sürüş) bir sapmayla birleştirin."
         ]
       }
     },
@@ -831,7 +872,8 @@
             "de": "Zentraler Knotenpunkt für alle Buslinien.",
             "hu": "Központi csomópont minden buszjáratnak.",
             "ro": "Nod central pentru toate liniile de autobuz.",
-            "en": "Central hub for all bus lines."
+            "en": "Central hub for all bus lines.",
+            "tr": "Tüm otobüs hatlarının merkezi aktarma noktası."
           }
         },
         {
@@ -849,7 +891,8 @@
             "de": "Zu Fuß vom ZOB durch die Fußgängerzone.",
             "hu": "Gyalog a buszpályaudvartól a sétálóutcán át.",
             "ro": "Pe jos de la autogară prin zona pietonală.",
-            "en": "On foot from the bus station through the pedestrian zone."
+            "en": "On foot from the bus station through the pedestrian zone.",
+            "tr": "Otobüs terminalinden yaya bölgesinden yürüyerek."
           }
         },
         {
@@ -867,7 +910,8 @@
             "de": "Spaziergang zum Treptower Tor.",
             "hu": "Séta a Treptower Tor irányába.",
             "ro": "Plimbare spre poarta Treptower Tor.",
-            "en": "Walk towards Treptower Tor."
+            "en": "Walk towards Treptower Tor.",
+            "tr": "Treptower Tor yönüne yürüyün."
           }
         },
         {
@@ -885,7 +929,8 @@
             "de": "Nutzen Sie die Stadtbusse Richtung Broda.",
             "hu": "Használja a helyi buszokat Broda irányába.",
             "ro": "Folosiți autobuzele locale spre Broda.",
-            "en": "Use the city buses towards Broda."
+            "en": "Use the city buses towards Broda.",
+            "tr": "Broda yönüne giden şehir otobüslerini kullanın."
           }
         },
         {
@@ -903,7 +948,8 @@
             "de": "Entspannung am Nordufer.",
             "hu": "Pihenés az északi parton.",
             "ro": "Relaxare pe malul de nord.",
-            "en": "Relaxing on the northern shore."
+            "en": "Relaxing on the northern shore.",
+            "tr": "Kuzey kıyısında dinlenme."
           }
         },
         {
@@ -921,7 +967,8 @@
             "de": "Ein schöner Spaziergang zurück Richtung Zentrum.",
             "hu": "Szép séta vissza a központ irányába.",
             "ro": "O plimbare frumoasă înapoi spre centru.",
-            "en": "A nice walk back towards the center."
+            "en": "A nice walk back towards the center.",
+            "tr": "Merkeze doğru güzel bir yürüyüşle geri dönün."
           }
         }
       ],
@@ -929,7 +976,8 @@
         "de": "Mit dem Stadtbus verbinden Sie die historische Innenstadt bequem mit dem Tollensesee. Nach einem Vormittag inmitten der Backsteingotik und der Stadtmauer bringt Sie die Linie 2 direkt zum Seeufer. Genießen Sie dort die frische Luft und ein Mittagessen, bevor Sie durch den Kulturpark zurück zum Bahnhof schlendern.",
         "hu": "A helyi autóbuszokkal kényelmesen összeköthetjük a történelmi belvárost a Tollensesee-vel. A vörös téglás gótika és a városfal megtekintése után a 2-es busz egyenesen a tópartra viszi. Élvezze a friss levegőt és az ebédet, majd sétáljon át a Kulturparkon vissza az állomásig.",
         "ro": "Cu autobuzul urban faceți legătura confortabil între centrul istoric și lacul Tollensesee. După o dimineață petrecută în mijlocul arhitecturii gotice și al zidului cetății, linia 2 vă duce direct pe malul lacului. Bucurați-vă de aerul proaspăt și de prânz înainte de a vă întoarce pe jos prin Kulturpark spre gară.",
-        "en": "With the city bus, you can easily connect the historic city center with Lake Tollensesee. After a morning spent among Brick Gothic architecture and the city wall, line 2 takes you directly to the lakeshore. Enjoy the fresh air and lunch there before strolling back through the Kulturpark to the station."
+        "en": "With the city bus, you can easily connect the historic city center with Lake Tollensesee. After a morning spent among Brick Gothic architecture and the city wall, line 2 takes you directly to the lakeshore. Enjoy the fresh air and lunch there before strolling back through the Kulturpark to the station.",
+        "tr": "Şehir otobüsü ile tarihi şehir merkezi ile Tollensesee Gölü kıyısını kolayca bağlayabilirsiniz. Tuğla Gotik mimari ve şehir duvarı arasında geçirilen bir sabahın ardından 2 numaralı hat sizi doğrudan göl kenarına götürür. Orada temiz havanın ve öğle yemeğinin tadını çıkarın, sonra Kulturpark'tan istasyona doğru yürüyerek geri dönün."
       },
       "gastro_picks": {
         "de": [
@@ -1053,6 +1101,12 @@
           "Buses run less frequently on weekends.",
           "The 'Kulturpark' stop is ideal for lake access.",
           "You can find real-time departures in the 'neubrandenburg App'."
+        ],
+        "tr": [
+          "Şehir otobüs ağı için günlük bilet alın.",
+          "Haftasonları otobüsler daha seyrek çalışır.",
+          "'Kulturpark' durağı göle erişim için ideal.",
+          "Gerçek zamanlı kalkışları 'neubrandenburg App'inde bulabilirsiniz."
         ]
       }
     }

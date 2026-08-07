@@ -3,55 +3,64 @@
     "de": "Schloßallee, 01468 Moritzburg",
     "hu": "Schloßallee, 01468 Moritzburg",
     "ro": "Schloßallee, 01468 Moritzburg",
-    "en": "Schloßallee, 01468 Moritzburg"
+    "en": "Schloßallee, 01468 Moritzburg",
+    "tr": "Schloßallee, 01468 Moritzburg"
   },
   "openingHours": {
     "de": "Mo-Su 10:00-18:00",
     "hu": "H-V 10:00-18:00",
     "ro": "Lu-Du 10:00-18:00",
-    "en": "Mon-Sun 10:00-18:00"
+    "en": "Mon-Sun 10:00-18:00",
+    "tr": "Pazartesi-Pazar 10:00-18:00"
   },
   "entranceFee": {
     "de": "€ 10,00 Schlossbesichtigung",
     "hu": "10,00 € kastélylátogatás",
     "ro": "10,00 € vizitarea castelului",
-    "en": "€ 10.00 castle tour"
+    "en": "€ 10.00 castle tour",
+    "tr": "€ 10,00 kale turu"
   },
   "website": "https://www.schloss-moritzburg.de",
   "publicTransport": {
     "de": "Bus 405/426 ab Dresden oder Lößnitzgrundbahn",
     "hu": "405/426-os busz Drezdából vagy a Lößnitzgrundbahn kisvasút",
     "ro": "Autobuz 405/426 din Dresda sau trenul Lößnitzgrundbahn",
-    "en": "Bus 405/426 from Dresden or the Lößnitzgrundbahn railway"
+    "en": "Bus 405/426 from Dresden or the Lößnitzgrundbahn railway",
+    "tr": "Dresden'den otobüs 405/426 veya Lößnitzgrundbahn demiryolu"
   },
   "parking": {
     "de": "Großer Parkplatz in der Schloßallee, ca. 5,00 €/Tag.",
     "hu": "Nagy parkoló a Schloßallee-n, kb. 5,00 €/nap.",
     "ro": "Parcare mare pe Schloßallee, cca. 5,00 €/zi.",
-    "en": "Large parking lot on Schloßallee, approx. € 5.00/day."
+    "en": "Large parking lot on Schloßallee, approx. € 5.00/day.",
+    "tr": "Schloßallee üzerinde büyük otopark, yaklaşık € 5,00/gün."
   },
   "accessibility": {
     "de": "Schlosspark barrierefrei, Schlossinneres über Aufzug zugänglich.",
     "hu": "A kastélypark akadálymentes, a belső tér lifttel elérhető.",
     "ro": "Parcul castelului este accesibil, interiorul castelului prin lift.",
-    "en": "Castle park is accessible, castle interior via elevator."
+    "en": "Castle park is accessible, castle interior via elevator.",
+    "tr": "Kale parkı erişilebilir, kale içi asansörle."
   },
   "photoRules": {
     "de": "Privat gegen Gebühr (€ 2,00) im Innenraum.",
     "hu": "Saját célra, díj ellenében (2,00 €) a belső térben.",
     "ro": "Permis în interior în scop privat contra unei taxe (2,00 €).",
-    "en": "Private photography in the interior for a fee (€ 2.00)."
+    "en": "Private photography in the interior for a fee (€ 2.00).",
+    "tr": "İç mekânda özel fotoğraf ücretli (€ 2,00)."
   },
   "bestTimeToVisit": {
     "de": "Winter, wenn das Schloss wie im Film 'Aschenbrödel' aussieht.",
     "hu": "Télen, amikor a kastély pont úgy fest, mint a Hamupipőke-filmben.",
     "ro": "Iarna, când castelul arată ca în filmul „Cenușăreasa”.",
-    "en": "Winter, when the castle looks just like in the movie 'Three Wishes for Cinderella'."
+    "en": "Winter, when the castle looks just like in the movie 'Three Wishes for Cinderella'.",
+    "tr": "Kışın, kale filmin 'Üç Dilekli Sindirella'daki gibi göründüğünde."
   },
   "audioGuide": {
     "de": "ja",
     "hu": "igen",
     "ro": "da",
-    "en": "yes"
+    "en": "yes",
+    "tr": "evet"
   }
 }

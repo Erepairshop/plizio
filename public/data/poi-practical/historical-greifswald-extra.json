@@ -3,55 +3,64 @@
     "de": "Marktplatz, 17489 Greifswald",
     "hu": "Marktplatz, 17489 Greifswald",
     "ro": "Marktplatz, 17489 Greifswald",
-    "en": "Marktplatz, 17489 Greifswald"
+    "en": "Marktplatz, 17489 Greifswald",
+    "tr": "Marktplatz, 17489 Greifswald"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "24/7"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.greifswald.de",
   "publicTransport": {
     "de": "Vom Hauptbahnhof ca. 10 Min Fußweg durch die Fußgängerzone.",
     "hu": "A főpályaudvartól kb. 10 perc séta a sétálóutcán keresztül.",
     "ro": "De la gara centrală, aproximativ 10 minute de mers pe jos prin zona pietonală.",
-    "en": "Approx. 10 min walk from the main station through the pedestrian area."
+    "en": "Approx. 10 min walk from the main station through the pedestrian area.",
+    "tr": "Ana istasyondan yaya bölgesinden yaklaşık 10 dk yürüme."
   },
   "parking": {
     "de": "Parkplatz am Hansering, ca. 1,50 €/Std.",
     "hu": "Parkoló a Hanseringen, kb. 1,50 €/óra.",
     "ro": "Parcare la Hansering, aprox. 1,50 €/oră.",
-    "en": "Parking at Hansering, approx. €1.50/hr."
+    "en": "Parking at Hansering, approx. €1.50/hr.",
+    "tr": "Hansering'de park, yaklaşık €1.50/saat."
   },
   "accessibility": {
     "de": "Marktplatz barrierefrei gepflastert.",
     "hu": "A főtér akadálymentesen burkolt.",
     "ro": "Piața centrală este pavată accesibil.",
-    "en": "Market square is paved accessibly."
+    "en": "Market square is paved accessibly.",
+    "tr": "Pazar yeri döşemeli ve erişilebilir."
   },
   "photoRules": {
     "de": "Uneingeschränkt erlaubt.",
     "hu": "Korlátozás nélkül megengedett.",
     "ro": "Permis nelimitat.",
-    "en": "Unrestricted allowed."
+    "en": "Unrestricted allowed.",
+    "tr": "Sınırsız izinli."
   },
   "bestTimeToVisit": {
     "de": "Donnerstags zum Markttag für lokales Flair.",
     "hu": "Csütörtökönként, a piaci napon a helyi hangulatért.",
     "ro": "Joia, în ziua de piață, pentru farmecul local.",
-    "en": "Thursdays for market day to experience local flair."
+    "en": "Thursdays for market day to experience local flair.",
+    "tr": "Yerel atmosferi deneyimlemek için perşembe günleri pazar günü."
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

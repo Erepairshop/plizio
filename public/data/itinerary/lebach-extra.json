@@ -21,7 +21,8 @@
             "de": "Lebacher Marktplatz",
             "hu": "Lebachi piactér",
             "ro": "Piața Centrală Lebach",
-            "en": "Lebach Market Square"
+            "en": "Lebach Market Square",
+            "tr": "Lebach Market Square"
           },
           "coords": [
             6.9085,
@@ -36,7 +37,8 @@
             "de": "Dienstags und freitags findet hier der Wochenmarkt statt.",
             "hu": "Kedden és pénteken tartják itt a heti piacot.",
             "ro": "Piața săptămânală are loc aici marțea și vinerea.",
-            "en": "The weekly market takes place here on Tuesdays and Fridays."
+            "en": "The weekly market takes place here on Tuesdays and Fridays.",
+            "tr": "Haftalık pazar burada Salı ve Cuma günleri kurulur."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Lebacher Rathaus",
             "hu": "Lebachi városháza",
             "ro": "Primăria Lebach",
-            "en": "Lebach Town Hall"
+            "en": "Lebach Town Hall",
+            "tr": "Lebach Town Hall"
           },
           "coords": [
             6.9092,
@@ -59,7 +62,8 @@
             "de": "Ein moderner Zweckbau im Zentrum der Stadt.",
             "hu": "Modern stílusú épület a város szívében.",
             "ro": "O clădire modernă situată în centrul orașului.",
-            "en": "A modern administrative building in the city center."
+            "en": "A modern administrative building in the city center.",
+            "tr": "Şehir merkezinde modern bir yönetim binası."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Katholische Kirche Hl. Dreifaltigkeit",
             "hu": "Szent Háromság katolikus templom",
             "ro": "Biserica Sfânta Treime",
-            "en": "Holy Trinity Catholic Church"
+            "en": "Holy Trinity Catholic Church",
+            "tr": "Holy Trinity Catholic Church"
           },
           "coords": [
             6.9072,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf die neugotische Architektur des Turms.",
             "hu": "Figyelje meg a torony neogótikus építészeti stílusát.",
             "ro": "Admirați arhitectura neogotică a turnului.",
-            "en": "Note the neo-Gothic architecture of the tower."
+            "en": "Note the neo-Gothic architecture of the tower.",
+            "tr": "Kulenin neo-Gotik mimarisine dikkat edin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Pickardstraße",
             "hu": "Pickard utca",
             "ro": "Strada Pickard",
-            "en": "Pickardstrasse"
+            "en": "Pickardstrasse",
+            "tr": "Pickardstrasse"
           },
           "coords": [
             6.9105,
@@ -105,7 +112,8 @@
             "de": "Die Haupteinkaufsstraße mit Cafés für eine Pause.",
             "hu": "A fő bevásárlóutca, számos kávézóval a pihenéshez.",
             "ro": "Principala stradă comercială, cu cafenele pentru pauză.",
-            "en": "The main shopping street with cafes for a short break."
+            "en": "The main shopping street with cafes for a short break.",
+            "tr": "Kısa bir mola için kafelerin olduğu ana alışveriş caddesi."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Asiatischer Garten",
             "hu": "Ázsiai kert",
             "ro": "Grădina Asiatică",
-            "en": "Asian Garden"
+            "en": "Asian Garden",
+            "tr": "Asian Garden"
           },
           "coords": [
             6.9162,
@@ -128,7 +137,8 @@
             "de": "Ein Ort der Ruhe mit authentischer Fernost-Atmosphäre.",
             "hu": "A nyugalom szigete autentikus távol-keleti hangulattal.",
             "ro": "Un loc liniștit cu o atmosferă autentică orientală.",
-            "en": "A place of peace with an authentic Far East atmosphere."
+            "en": "A place of peace with an authentic Far East atmosphere.",
+            "tr": "Otantik Uzak Doğu atmosferiyle bir sükûnet yeri."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Vormittag in Lebach beginnt am lebhaften Marktplatz, dem sozialen Zentrum. Nach einem kurzen Blick auf das Rathaus besuchen Sie die imposante Dreifaltigkeitskirche. Der Weg führt durch die Pickardstraße, wo Sie lokales Flair genießen können. Den Abschluss bildet der Asiatische Garten, eine grüne Oase mit Teichen und Pagoden, die zum Entspannen einlädt.",
         "hu": "A délelőtt a pezsgő piactéren indul, Lebach társasági központjában. A városháza megtekintése után a monumentális Szent Háromság templomot látogatjuk meg. A Pickard utcán keresztül sétálva megismerhetjük a helyi üzleteket, majd a túrát az Ázsiai kertben zárjuk, ahol tavak és pagodák között pihenhetünk meg a zöldben.",
         "ro": "Dimineața începe în piața centrală, inima socială a orașului Lebach. După o scurtă oprire la primărie, vizitați impresionanta biserică Sfânta Treime. Traseul continuă pe strada Pickard pentru o sesiune de shopping local, finalizându-se în Grădina Asiatică, o oază verde cu iazuri și pagode ce oferă relaxare deplină.",
-        "en": "Start your morning at the bustling Market Square, Lebach's social hub. After seeing the Town Hall, visit the grand Holy Trinity Church. Stroll through Pickardstrasse to soak in the local atmosphere before ending your walk at the Asian Garden, a serene green oasis featuring ponds and pagodas, perfect for unwinding."
+        "en": "Start your morning at the bustling Market Square, Lebach's social hub. After seeing the Town Hall, visit the grand Holy Trinity Church. Stroll through Pickardstrasse to soak in the local atmosphere before ending your walk at the Asian Garden, a serene green oasis featuring ponds and pagodas, perfect for unwinding.",
+        "tr": "Sabahınıza Lebach'ın sosyal merkezi olan hareketli Market Square'de başlayın. Belediye Sarayı'nı gördükten sonra görkemli Holy Trinity Church'u ziyaret edin. Yerel atmosferi hissetmek için Pickardstrasse'de gezin ve yürüyüşünüzü göletler ve pagodalar içeren huzurlu bir yeşil vaha olan Asian Garden'da sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -240,6 +251,11 @@
           "Lebach's center is compact and very easy to explore on foot.",
           "Parking is available directly at the Market Square.",
           "Visit the Asian Garden during midday for the ultimate quiet experience."
+        ],
+        "tr": [
+          "Lebach'ın merkezi kompakt ve yürüyerek keşfetmesi çok kolaydır.",
+          "Market Square'de doğrudan park yeri mevcuttur.",
+          "Azami sessizlik deneyimi için Asian Garden'ı öğle saatlerinde ziyaret edin."
         ]
       }
     },
@@ -256,7 +272,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Market Square"
           },
           "coords": [
             6.9085,
@@ -271,7 +288,8 @@
             "de": "Zentraler Startpunkt für Radtouren im Umland.",
             "hu": "Központi indulópont a környékbeli kerékpártúrákhoz.",
             "ro": "Punct central de plecare pentru tururi cu bicicleta.",
-            "en": "Central starting point for cycling tours in the area."
+            "en": "Central starting point for cycling tours in the area.",
+            "tr": "Bölgedeki bisiklet turları için merkezi başlangıç noktası."
           }
         },
         {
@@ -279,7 +297,8 @@
             "de": "Evangelische Kirche",
             "hu": "Evangélikus templom",
             "ro": "Biserica Evanghelică",
-            "en": "Protestant Church"
+            "en": "Protestant Church",
+            "tr": "Protestant Church"
           },
           "coords": [
             6.9125,
@@ -294,7 +313,8 @@
             "de": "Eine schlichte Kirche in ruhiger Lage.",
             "hu": "Egyszerű templom csendes környezetben.",
             "ro": "O biserică simplă situată într-o zonă liniștită.",
-            "en": "A simple church in a quiet location."
+            "en": "A simple church in a quiet location.",
+            "tr": "Sessiz bir konumdaki sade bir kilise."
           }
         },
         {
@@ -302,7 +322,8 @@
             "de": "Asiatischer Garten",
             "hu": "Ázsiai kert",
             "ro": "Grădina Asiatică",
-            "en": "Asian Garden"
+            "en": "Asian Garden",
+            "tr": "Asian Garden"
           },
           "coords": [
             6.9162,
@@ -317,7 +338,8 @@
             "de": "Fahrradständer am Eingang vorhanden.",
             "hu": "Kerékpártárolók találhatók a bejáratnál.",
             "ro": "Suporturi pentru biciclete disponibile la intrare.",
-            "en": "Bicycle racks available at the entrance."
+            "en": "Bicycle racks available at the entrance.",
+            "tr": "Girişte bisiklet park yerleri mevcut."
           }
         },
         {
@@ -325,7 +347,8 @@
             "de": "Kaltensteinquelle",
             "hu": "Kaltenstein-forrás",
             "ro": "Izvorul Kaltenstein",
-            "en": "Kaltenstein Spring"
+            "en": "Kaltenstein Spring",
+            "tr": "Kaltenstein Spring"
           },
           "coords": [
             6.9215,
@@ -340,7 +363,8 @@
             "de": "Geologisches Denkmal mit interessanten Steinformatiionen.",
             "hu": "Geológiai emlékhely érdekes sziklaformációkkal.",
             "ro": "Monument geologic cu formațiuni stâncoase interesante.",
-            "en": "Geological monument with interesting rock formations."
+            "en": "Geological monument with interesting rock formations.",
+            "tr": "İlginç kaya oluşumlarına sahip jeolojik anıt."
           }
         },
         {
@@ -348,7 +372,8 @@
             "de": "Pickardstraße",
             "hu": "Pickard utca",
             "ro": "Strada Pickard",
-            "en": "Pickardstrasse"
+            "en": "Pickardstrasse",
+            "tr": "Pickardstrasse"
           },
           "coords": [
             6.9105,
@@ -363,7 +388,8 @@
             "de": "Ideal für eine späte Mittagspause.",
             "hu": "Ideális egy késői ebédszünethez.",
             "ro": "Ideal pentru o pauză de prânz târzie.",
-            "en": "Ideal for a late lunch break."
+            "en": "Ideal for a late lunch break.",
+            "tr": "Geç bir öğle molası için ideal."
           }
         },
         {
@@ -371,7 +397,8 @@
             "de": "Hoxberg Aussichtspunkt",
             "hu": "Hoxberg kilátópont",
             "ro": "Punct de belvedere Hoxberg",
-            "en": "Hoxberg Viewpoint"
+            "en": "Hoxberg Viewpoint",
+            "tr": "Hoxberg Viewpoint"
           },
           "coords": [
             6.885,
@@ -386,7 +413,8 @@
             "de": "Ein steiler Anstieg, der mit Panoramablick belohnt wird.",
             "hu": "Meredek emelkedő, amely panorámás kilátással jutalmaz.",
             "ro": "O urcare abruptă răsplătită cu o vedere panoramică.",
-            "en": "A steep climb rewarded with panoramic views."
+            "en": "A steep climb rewarded with panoramic views.",
+            "tr": "Panoramik manzaralarla ödüllendirilen dik bir tırmanış."
           }
         }
       ],
@@ -394,7 +422,8 @@
         "de": "Erkunden Sie Lebach und seine Umgebung sportlich mit dem Rad. Vom Marktplatz führt die Route zur schlichten Evangelischen Kirche und weiter zum beruhigenden Asiatischen Garten. Ein Highlight ist das geologische Naturdenkmal Kaltensteinquelle. Nach einer Stärkung im Zentrum endet der Tag mit dem Aufstieg zum Hoxberg, von wo aus Sie den Blick über das Saarland genießen können.",
         "hu": "Fedezze fel Lebach környékét kerékpárral. A piactérről indulva érintjük az evangélikus templomot, majd az Ázsiai kertben pihenünk meg. A túra egyik csúcspontja a geológiai ritkaságnak számító Kaltenstein-forrás. A központban tett pihenő után a napot a Hoxberg megmászásával zárjuk, ahonnan csodás kilátás nyílik a Saar-vidékre.",
         "ro": "Explorați Lebach și împrejurimile sale într-un mod activ, cu bicicleta. De la piață, traseul duce la biserica evanghelică și apoi la liniștitoarea Grădină Asiatică. Un punct forte este monumentul geologic Izvorul Kaltenstein. După o pauză în centru, ziua se încheie cu urcarea pe Hoxberg pentru o vedere panoramică asupra regiunii Saarland.",
-        "en": "Explore Lebach and its surroundings by bike. From the Market Square, the route leads to the simple Protestant Church and then to the calming Asian Garden. A highlight is the Kaltenstein Spring, a unique geological site. After a break in the center, finish your day with a climb to the Hoxberg viewpoint for sweeping views over the Saarland region."
+        "en": "Explore Lebach and its surroundings by bike. From the Market Square, the route leads to the simple Protestant Church and then to the calming Asian Garden. A highlight is the Kaltenstein Spring, a unique geological site. After a break in the center, finish your day with a climb to the Hoxberg viewpoint for sweeping views over the Saarland region.",
+        "tr": "Market Square'den başlayarak Lebach ve çevresini bisikletle keşfedin. Rota sade Protestant Church'a, ardından sakinleştirici Asian Garden'a gider. Bir diğer önemli durak benzersiz bir jeolojik alan olan Kaltenstein Spring'tir. Merkezde bir mola verdikten sonra Saarland bölgesine yayılan geniş manzaralar için Hoxberg viewpoint'a tırmanışla gününüzü tamamlayın."
       },
       "gastro_picks": {
         "de": [
@@ -498,6 +527,11 @@
           "Make use of the well-maintained cycle paths in the Theel Valley.",
           "The Hoxberg climb requires a reasonable fitness level.",
           "Always wear a helmet, especially on the forest trails."
+        ],
+        "tr": [
+          "Theel Vadisi'ndeki iyi bakımlı bisiklet yollarından yararlanın.",
+          "Hoxberg tırmanışı makul bir kondisyon gerektirir.",
+          "Her zaman kask takın, özellikle orman patikalarında."
         ]
       }
     },
@@ -514,7 +548,8 @@
             "de": "Lebacher Rathaus",
             "hu": "Lebachi városháza",
             "ro": "Primăria Lebach",
-            "en": "Lebach Town Hall"
+            "en": "Lebach Town Hall",
+            "tr": "Lebach Belediye Binası"
           },
           "coords": [
             6.9092,
@@ -529,7 +564,8 @@
             "de": "Parken Sie zentral für den ersten Cluster-Walk.",
             "hu": "Parkoljon a központban az első gyalogos körhöz.",
             "ro": "Parcați central pentru prima plimbare în cluster.",
-            "en": "Park centrally for the first cluster walk."
+            "en": "Park centrally for the first cluster walk.",
+            "tr": "İlk küme yürüyüşü için merkeze park edin."
           }
         },
         {
@@ -537,7 +573,8 @@
             "de": "Lebacher Marktplatz",
             "hu": "Lebachi piactér",
             "ro": "Piața Centrală",
-            "en": "Lebach Market Square"
+            "en": "Lebach Market Square",
+            "tr": "Lebach Pazar Meydanı"
           },
           "coords": [
             6.9085,
@@ -552,7 +589,8 @@
             "de": "Vom Rathaus aus in 2 Minuten zu Fuß erreichbar.",
             "hu": "A városházától 2 perc sétával elérhető.",
             "ro": "Accesibil pe jos în 2 minute de la primărie.",
-            "en": "Reachable in 2 minutes on foot from the town hall."
+            "en": "Reachable in 2 minutes on foot from the town hall.",
+            "tr": "Belediye binasından yürüyerek 2 dakikada ulaşılabilir."
           }
         },
         {
@@ -560,7 +598,8 @@
             "de": "Hl. Dreifaltigkeit",
             "hu": "Szent Háromság templom",
             "ro": "Biserica Sfânta Treime",
-            "en": "Holy Trinity Church"
+            "en": "Holy Trinity Church",
+            "tr": "Kutsal Üçleme Kilisesi"
           },
           "coords": [
             6.9072,
@@ -575,7 +614,8 @@
             "de": "Letzter Stopp im Zentrum-Cluster.",
             "hu": "Utolsó állomás a központi blokkban.",
             "ro": "Ultima oprire din clusterul central.",
-            "en": "Last stop in the central cluster."
+            "en": "Last stop in the central cluster.",
+            "tr": "Merkez kümesindeki son durak."
           }
         },
         {
@@ -583,7 +623,8 @@
             "de": "Asiatischer Garten",
             "hu": "Ázsiai kert",
             "ro": "Grădina Asiatică",
-            "en": "Asian Garden"
+            "en": "Asian Garden",
+            "tr": "Asya Bahçesi"
           },
           "coords": [
             6.9162,
@@ -598,7 +639,8 @@
             "de": "Eigener Parkplatz direkt vor dem Eingang.",
             "hu": "Saját parkoló közvetlenül a bejárat előtt.",
             "ro": "Parcare proprie chiar în fața intrării.",
-            "en": "Dedicated parking right in front of the entrance."
+            "en": "Dedicated parking right in front of the entrance.",
+            "tr": "Girişin tam önünde ayrılmış park yeri."
           }
         },
         {
@@ -606,7 +648,8 @@
             "de": "Pickardstraße",
             "hu": "Pickard utca",
             "ro": "Strada Pickard",
-            "en": "Pickardstrasse"
+            "en": "Pickardstrasse",
+            "tr": "Pickardstrasse"
           },
           "coords": [
             6.9105,
@@ -621,7 +664,8 @@
             "de": "Vom Gartenparkplatz zurück ins Zentrum.",
             "hu": "A kerti parkolótól vissza a központba.",
             "ro": "De la parcarea grădinii înapoi în centru.",
-            "en": "Return to the center from the garden parking."
+            "en": "Return to the center from the garden parking.",
+            "tr": "Bahçe park yerinden merkeze dönüş."
           }
         },
         {
@@ -629,7 +673,8 @@
             "de": "Kaltensteinquelle",
             "hu": "Kaltenstein-forrás",
             "ro": "Izvorul Kaltenstein",
-            "en": "Kaltenstein Spring"
+            "en": "Kaltenstein Spring",
+            "tr": "Kaltenstein Kaynağı"
           },
           "coords": [
             6.9215,
@@ -644,7 +689,8 @@
             "de": "Kleiner Parkplatz am Waldrand vorhanden.",
             "hu": "Kis parkoló az erdő szélén rendelkezésre áll.",
             "ro": "O parcare mică disponibilă la marginea pădurii.",
-            "en": "Small parking lot available at the forest edge."
+            "en": "Small parking lot available at the forest edge.",
+            "tr": "Orman kenarında küçük bir otopark mevcut."
           }
         },
         {
@@ -652,7 +698,8 @@
             "de": "Hoxberg",
             "hu": "Hoxberg",
             "ro": "Hoxberg",
-            "en": "Hoxberg"
+            "en": "Hoxberg",
+            "tr": "Hoxberg"
           },
           "coords": [
             6.885,
@@ -667,7 +714,8 @@
             "de": "Parken Sie oben am Plateau für kurze Wege.",
             "hu": "Parkoljon fent a fennsíkon a rövid sétához.",
             "ro": "Parcați sus pe platou pentru distanțe scurte.",
-            "en": "Park up on the plateau for short walking distances."
+            "en": "Park up on the plateau for short walking distances.",
+            "tr": "Kısa yürüyüş mesafeleri için plato üzerinde park edin."
           }
         }
       ],
@@ -675,7 +723,8 @@
         "de": "Diese Autotour kombiniert Stadtkultur mit Natur-Highlights. Zuerst erkunden Sie das Zentrum zu Fuß (Marktplatz, Rathaus, Kirche). Danach fahren Sie zum Asiatischen Garten für eine entspannte Stunde im Grünen. Den Abschluss bilden die geologische Kaltensteinquelle und der Hoxberg, beide bequem mit dem Auto erreichbar und perfekt für Panoramafotos zum Tagesabschluss.",
         "hu": "Ez az autós túra ötvözi a városi kultúrát a természet kincseivel. Először a központot fedezzük fel gyalog (piactér, városháza, templom). Ezután az Ázsiai kerthez autózunk egy nyugodt pihenőre. A napot a geológiai érdekességű Kaltenstein-forrásnál és a Hoxbergnél zárjuk, amelyek autóval kényelmesen elérhetőek és remek fotóhelyszínek.",
         "ro": "Acest tur cu mașina combină cultura urbană cu punctele de atracție naturale. Mai întâi explorați centrul pe jos (piața, primăria, biserica). Apoi mergeți la Grădina Asiatică pentru o oră de relaxare în natură. Finalul aparține Izvorului Kaltenstein și dealului Hoxberg, ambele accesibile ușor cu mașina și perfecte pentru fotografii panoramice.",
-        "en": "This car tour combines urban culture with natural highlights. First, explore the center on foot (Market Square, Town Hall, Church). Then, drive to the Asian Garden for a relaxing hour in the greenery. End your day at the geological Kaltenstein Spring and Hoxberg hill, both easily accessible by car and perfect for panoramic photos to wrap up your visit."
+        "en": "This car tour combines urban culture with natural highlights. First, explore the center on foot (Market Square, Town Hall, Church). Then, drive to the Asian Garden for a relaxing hour in the greenery. End your day at the geological Kaltenstein Spring and Hoxberg hill, both easily accessible by car and perfect for panoramic photos to wrap up your visit.",
+        "tr": "Bu araba turu kentsel kültürü doğanın öne çıkan noktalarıyla birleştirir. Önce merkezde (Pazar Meydanı, Belediye Binası, Kilise) yürüyerek keşfedin. Ardından dinlendirici bir saat için Asya Bahçesi'ne sürün. Gününüzü, her ikisi de araçla kolayca erişilebilen ve ziyaretinizi panoramik fotoğraflarla sonlandırmak için ideal olan jeolojik Kaltenstein Kaynağı ve Hoxberg tepesinde bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -779,6 +828,11 @@
           "Parking in Lebach is often time-limited (use a parking disc).",
           "The roads to Hoxberg are narrow but well-paved.",
           "Use cluster parking spots to avoid unnecessary driving around."
+        ],
+        "tr": [
+          "Lebach'ta park etme genellikle süreyle sınırlıdır (park diski kullanın).",
+          "Hoxberg'e giden yollar dar ama iyi asfaltlıdır.",
+          "Gereksiz dolaşmayı önlemek için küme park yerlerini kullanın."
         ]
       }
     },
@@ -795,7 +849,8 @@
             "de": "Lebacher Marktplatz",
             "hu": "Lebachi piactér",
             "ro": "Piața Centrală",
-            "en": "Lebach Market Square"
+            "en": "Lebach Market Square",
+            "tr": "Lebach Pazar Meydanı"
           },
           "coords": [
             6.9085,
@@ -810,7 +865,8 @@
             "de": "Der Busbahnhof (ZOB) ist direkt nebenan.",
             "hu": "A központi buszállomás (ZOB) közvetlenül mellette van.",
             "ro": "Autogara (ZOB) este chiar alături.",
-            "en": "The central bus station (ZOB) is right next door."
+            "en": "The central bus station (ZOB) is right next door.",
+            "tr": "Merkezi otobüs terminali (ZOB) hemen yanındadır."
           }
         },
         {
@@ -818,7 +874,8 @@
             "de": "Lebacher Rathaus",
             "hu": "Lebachi városháza",
             "ro": "Primăria Lebach",
-            "en": "Lebach Town Hall"
+            "en": "Lebach Town Hall",
+            "tr": "Lebach Belediye Binası"
           },
           "coords": [
             6.9092,
@@ -833,7 +890,8 @@
             "de": "Kurzer Fußweg vom Marktplatz.",
             "hu": "Rövid séta a piactértől.",
             "ro": "Scurtă plimbare de la piață.",
-            "en": "Short walk from the Market Square."
+            "en": "Short walk from the Market Square.",
+            "tr": "Pazar Meydanı'ndan kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -841,7 +899,8 @@
             "de": "Hl. Dreifaltigkeit",
             "hu": "Szent Háromság templom",
             "ro": "Biserica Sfânta Treime",
-            "en": "Holy Trinity Church"
+            "en": "Holy Trinity Church",
+            "tr": "Kutsal Üçleme Kilisesi"
           },
           "coords": [
             6.9072,
@@ -856,7 +915,8 @@
             "de": "Zentrales Wahrzeichen im Stadtkern.",
             "hu": "A városmag központi jelképe.",
             "ro": "Simbol central în inima orașului.",
-            "en": "Central landmark in the city core."
+            "en": "Central landmark in the city core.",
+            "tr": "Şehir merkezinde merkezi bir simge."
           }
         },
         {
@@ -864,7 +924,8 @@
             "de": "Asiatischer Garten",
             "hu": "Ázsiai kert",
             "ro": "Grădina Asiatică",
-            "en": "Asian Garden"
+            "en": "Asian Garden",
+            "tr": "Asya Bahçesi"
           },
           "coords": [
             6.9162,
@@ -879,7 +940,8 @@
             "de": "Mit dem Lokalbus Richtung Jabach erreichbar.",
             "hu": "A Jabach felé tartó helyi busszal elérhető.",
             "ro": "Accesibil cu autobuzul local spre Jabach.",
-            "en": "Accessible via local bus towards Jabach."
+            "en": "Accessible via local bus towards Jabach.",
+            "tr": "Jabach yönüne giden yerel otobüsle ulaşılabilir."
           }
         },
         {
@@ -887,7 +949,8 @@
             "de": "Pickardstraße",
             "hu": "Pickard utca",
             "ro": "Strada Pickard",
-            "en": "Pickardstrasse"
+            "en": "Pickardstrasse",
+            "tr": "Pickardstrasse"
           },
           "coords": [
             6.9105,
@@ -902,7 +965,8 @@
             "de": "Rückfahrt zum ZOB/Zentrum.",
             "hu": "Visszautazás a buszállomáshoz/központhoz.",
             "ro": "Întoarcere la autogară/centru.",
-            "en": "Return trip to the bus station/center."
+            "en": "Return trip to the bus station/center.",
+            "tr": "Otobüs durağı/merkeze dönüş yolculuğu."
           }
         },
         {
@@ -910,7 +974,8 @@
             "de": "Evangelische Kirche",
             "hu": "Evangélikus templom",
             "ro": "Biserica Evanghelică",
-            "en": "Protestant Church"
+            "en": "Protestant Church",
+            "tr": "Protestan Kilisesi"
           },
           "coords": [
             6.9125,
@@ -925,7 +990,8 @@
             "de": "Vom Zentrum aus in 10 Min. zu Fuß erreichbar.",
             "hu": "A központból 10 perc sétával elérhető.",
             "ro": "Accesibil pe jos în 10 minute din centru.",
-            "en": "Reachable in 10 minutes on foot from the center."
+            "en": "Reachable in 10 minutes on foot from the center.",
+            "tr": "Merkezden yürüyerek 10 dakikada ulaşılabilir."
           }
         }
       ],
@@ -933,7 +999,8 @@
         "de": "Dank des zentralen Busbahnhofs ist Lebach gut vernetzt. Beginnen Sie im Stadtkern mit Marktplatz, Rathaus und der Dreifaltigkeitskirche. Eine kurze Busfahrt bringt Sie zum Asiatischen Garten. Nach der Rückkehr ins Zentrum lädt die Pickardstraße zum Bummeln ein, bevor Sie den Tag an der ruhigen Evangelischen Kirche abschließen.",
         "hu": "A központi buszállomásnak köszönhetően Lebach tömegközlekedéssel is jól bejárható. Kezdje a városmagban: piactér, városháza és a Szent Háromság templom. Egy rövid buszozással eljuthat az Ázsiai kertbe. A központba visszatérve a Pickard utca hívogat egy kis nézelődésre, végül az evangélikus templomnál zárhatja a napot.",
         "ro": "Datorită autogării centrale, Lebach este bine conectat. Începeți în centrul orașului cu piața, primăria și biserica Sfânta Treime. O scurtă călătorie cu autobuzul vă duce la Grădina Asiatică. După revenirea în centru, strada Pickard vă invită la o plimbare, înainte de a încheia ziua la liniștita biserică evanghelică.",
-        "en": "Thanks to the central bus station, Lebach is well-connected. Start in the town core with the Market Square, Town Hall, and Holy Trinity Church. A short bus ride takes you to the Asian Garden. After returning to the center, browse the shops on Pickardstrasse before ending your day at the quiet Protestant Church."
+        "en": "Thanks to the central bus station, Lebach is well-connected. Start in the town core with the Market Square, Town Hall, and Holy Trinity Church. A short bus ride takes you to the Asian Garden. After returning to the center, browse the shops on Pickardstrasse before ending your day at the quiet Protestant Church.",
+        "tr": "Merkezi otobüs terminali sayesinde Lebach iyi bağlıdır. Pazar Meydanı, Belediye Binası ve Kutsal Üçleme Kilisesi ile şehir merkezinde başlayın. Kısa bir otobüs yolculuğu sizi Asya Bahçesi'ne götürür. Merkeze döndükten sonra Pickardstrasse'deki dükkanlara göz atın ve gününüzü sakin Protestan Kilisesi'nde sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -1037,6 +1104,11 @@
           "The Saarbahn (S1) connects Lebach directly to Saarbrücken.",
           "Check local bus frequencies, especially on weekends.",
           "A day pass is often more cost-effective than single tickets."
+        ],
+        "tr": [
+          "Saarbahn (S1) Lebach'i doğrudan Saarbrücken'e bağlıyor.",
+          "Özellikle hafta sonları yerel otobüs sıklıklarını kontrol edin.",
+          "Günlük geçiş genellikle tekli biletlerden daha ekonomik olur."
         ]
       }
     }

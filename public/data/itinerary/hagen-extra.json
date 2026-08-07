@@ -21,7 +21,8 @@
             "de": "Hagener Stadttheater",
             "hu": "Hageni Városi Színház",
             "ro": "Teatrul Municipal din Hagen",
-            "en": "Hagen City Theater"
+            "en": "Hagen City Theater",
+            "tr": "Hagen Şehir Tiyatrosu"
           },
           "coords": [
             7.473,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Jugendstil-Architektur vor der ersten Vorstellung.",
             "hu": "Csodáld meg a szecessziós épületet az előadások előtt.",
             "ro": "Admirați arhitectura Art Nouveau înainte de spectacol.",
-            "en": "Admire the Art Nouveau architecture before the shows start."
+            "en": "Admire the Art Nouveau architecture before the shows start.",
+            "tr": "Gösteriler başlamadan önce Art Nouveau mimarisini hayranlıkla izleyin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Osthaus Museum Hagen",
             "hu": "Osthaus Múzeum",
             "ro": "Muzeul Osthaus",
-            "en": "Osthaus Museum"
+            "en": "Osthaus Museum",
+            "tr": "Osthaus Müzesi"
           },
           "coords": [
             7.475,
@@ -59,7 +62,8 @@
             "de": "Das Interieur wurde von Henry van de Velde gestaltet.",
             "hu": "A belső teret Henry van de Velde tervezte.",
             "ro": "Interiorul a fost proiectat de Henry van de Velde.",
-            "en": "The interior was designed by Henry van de Velde."
+            "en": "The interior was designed by Henry van de Velde.",
+            "tr": "İç mekan Henry van de Velde tarafından tasarlandı."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Emil Schumacher Museum",
             "hu": "Emil Schumacher Múzeum",
             "ro": "Muzeul Emil Schumacher",
-            "en": "Emil Schumacher Museum"
+            "en": "Emil Schumacher Museum",
+            "tr": "Emil Schumacher Müzesi"
           },
           "coords": [
             7.475,
@@ -82,7 +87,8 @@
             "de": "Direkt neben dem Osthaus Museum in einem modernen Glasbau.",
             "hu": "Közvetlenül az Osthaus mellett, modern üvegépületben.",
             "ro": "Chiar lângă Osthaus, într-o clădire modernă de sticlă.",
-            "en": "Located right next to Osthaus in a modern glass building."
+            "en": "Located right next to Osthaus in a modern glass building.",
+            "tr": "Osthaus'un hemen yanında modern cam bir binada yer alır."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagspause im Zentrum",
             "hu": "Ebéd a belvárosban",
             "ro": "Pauză de prânz în centru",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "tr": "Şehir Merkezinde Öğle Yemeği"
           },
           "coords": [
             7.472,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie westfälische Spezialitäten in der Fußgängerzone.",
             "hu": "Kóstold meg a vesztfáliai ételeket a sétálóutcában.",
             "ro": "Încercați specialități vestfaliene în zona pietonală.",
-            "en": "Try Westphalian specialties in the pedestrian zone."
+            "en": "Try Westphalian specialties in the pedestrian zone.",
+            "tr": "Yaya bölgesinde Westfalya yöresel lezzetlerini deneyin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Bunkermuseum Hagen",
             "hu": "Hageni Bunkermúzeum",
             "ro": "Muzeul Bunkerului Hagen",
-            "en": "Hagen Bunker Museum"
+            "en": "Hagen Bunker Museum",
+            "tr": "Hagen Bunker Müzesi"
           },
           "coords": [
             7.471,
@@ -128,7 +137,8 @@
             "de": "Ein beklemmender, aber wichtiger Einblick in die Geschichte.",
             "hu": "Nyomasztó, de fontos betekintés a történelembe.",
             "ro": "O privire apăsătoare, dar importantă asupra istoriei.",
-            "en": "An oppressive but important insight into history."
+            "en": "An oppressive but important insight into history.",
+            "tr": "Bunaltıcı ama önemli bir tarih yorumu."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Stadtgarten Hagen",
             "hu": "Városi Park",
             "ro": "Parcul Orașului",
-            "en": "Hagen City Garden"
+            "en": "Hagen City Garden",
+            "tr": "Hagen Şehir Bahçesi"
           },
           "coords": [
             7.465,
@@ -151,7 +162,8 @@
             "de": "Perfekter Ort für einen entspannten Spaziergang zum Abschluss.",
             "hu": "Tökéletes hely egy pihentető sétához a nap végén.",
             "ro": "Locul perfect pentru o plimbare relaxantă la final.",
-            "en": "Perfect place for a relaxing walk to end the day."
+            "en": "Perfect place for a relaxing walk to end the day.",
+            "tr": "Günü bitirmek için dinlendirici bir yürüyüşe uygun mükemmel yer."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag in Hagen beginnt im kulturellen Herzen der Stadt. Vormittags tauchen Sie im Museumsquartier in die Welt des Impressionismus und der abstrakten Kunst ein. Nach einer Stärkung im Zentrum erkunden Sie die unterirdische Geschichte im Bunkermuseum, bevor Sie den späten Nachmittag im idyllischen Stadtgarten ausklingen lassen.",
         "hu": "Hageni napja a város kulturális szívében kezdődik. Délelőtt a múzeumi negyedben merülhet el az impresszionizmus és az absztrakt művészet világában. A központban elfogyasztott ebéd után a Bunkermúzeumban fedezheti fel a föld alatti történelmet, majd a késő délutánt az idilli Városi Parkban zárhatja.",
         "ro": "Ziua ta în Hagen începe în inima culturală a orașului. Dimineața, te vei cufunda în lumea impresionismului și a artei abstracte în cartierul muzeelor. După un prânz în centru, vei explora istoria subterană la Muzeul Bunkerului, înainte de a încheia după-amiaza târzie în idilicul Stadtgarten.",
-        "en": "Your day in Hagen starts in the cultural heart of the city. In the morning, immerse yourself in the world of Impressionism and abstract art in the museum quarter. After a meal in the center, explore underground history at the Bunker Museum before ending the late afternoon in the idyllic City Garden."
+        "en": "Your day in Hagen starts in the cultural heart of the city. In the morning, immerse yourself in the world of Impressionism and abstract art in the museum quarter. After a meal in the center, explore underground history at the Bunker Museum before ending the late afternoon in the idyllic City Garden.",
+        "tr": "Hagen'deki gününüz şehrin kültürel kalbinde başlar. Sabah, müze bölgesinde Empresyonizm ve soyut sanat dünyasına dalın. Merkezde bir öğün sonrası Bunker Müzesi'nde yeraltı tarihini keşfedin ve geç öğleden sonrayı huzurlu Şehir Bahçesi'nde bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -275,6 +288,10 @@
         "en": [
           "The museums are very close to each other, ideal on foot.",
           "Wear comfortable shoes for the walk to the City Garden."
+        ],
+        "tr": [
+          "Müzeler birbirine çok yakın, yürüyerek ideal.",
+          "Şehir Bahçesi'ne yürüyüş için rahat ayakkabılar giyin."
         ]
       }
     },
@@ -291,7 +308,8 @@
             "de": "Osthaus Museum",
             "hu": "Osthaus Múzeum",
             "ro": "Muzeul Osthaus",
-            "en": "Osthaus Museum"
+            "en": "Osthaus Museum",
+            "tr": "Osthaus Müzesi"
           },
           "coords": [
             7.475,
@@ -306,7 +324,8 @@
             "de": "Startpunkt im Zentrum mit hervorragender Kunst.",
             "hu": "Központi kezdőpont kiváló művészeti alkotásokkal.",
             "ro": "Punct de pornire în centru cu artă excelentă.",
-            "en": "Starting point in the center with excellent art."
+            "en": "Starting point in the center with excellent art.",
+            "tr": "Merkezdeki başlangıç noktası, mükemmel sanat sunar."
           }
         },
         {
@@ -314,7 +333,8 @@
             "de": "Wildpark im Stadtwald",
             "hu": "Vadaspark a városi erdőben",
             "ro": "Parcul de animale din pădurea orașului",
-            "en": "Wildpark in the City Forest"
+            "en": "Wildpark in the City Forest",
+            "tr": "Şehir Ormanındaki Vahşi Park"
           },
           "coords": [
             7.458,
@@ -329,7 +349,8 @@
             "de": "Steiler Anstieg, aber tolle Waldwege.",
             "hu": "Meredek emelkedő, de remek erdei utak.",
             "ro": "Urcare abruptă, dar trasee forestiere superbe.",
-            "en": "Steep climb, but great forest trails."
+            "en": "Steep climb, but great forest trails.",
+            "tr": "Dik tırmanış, ama harika orman patikaları."
           }
         },
         {
@@ -337,7 +358,8 @@
             "de": "LWL-Freilichtmuseum Hagen",
             "hu": "Hageni Szabadtéri Múzeum",
             "ro": "Muzeul în aer liber din Hagen",
-            "en": "LWL Open-air Museum Hagen"
+            "en": "LWL Open-air Museum Hagen",
+            "tr": "LWL Açık Hava Müzesi Hagen"
           },
           "coords": [
             7.485,
@@ -352,7 +374,8 @@
             "de": "Das Mäckingerbachtal ist ideal für Radfahrer.",
             "hu": "A Mäckingerbachtal völgy ideális kerékpárosoknak.",
             "ro": "Valea Mäckingerbachtal este ideală pentru bicicliști.",
-            "en": "The Mäckingerbach valley is ideal for cyclists."
+            "en": "The Mäckingerbach valley is ideal for cyclists.",
+            "tr": "Mäckingerbach vadisi bisikletçiler için ideal."
           }
         },
         {
@@ -360,7 +383,8 @@
             "de": "Schloss Hohenlimburg",
             "hu": "Hohenlimburgi kastély",
             "ro": "Castelul Hohenlimburg",
-            "en": "Hohenlimburg Castle"
+            "en": "Hohenlimburg Castle",
+            "tr": "Hohenlimburg Şatosu"
           },
           "coords": [
             7.57,
@@ -375,7 +399,8 @@
             "de": "Historisches Schloss mit Blick über das Lennetal.",
             "hu": "Történelmi kastély kilátással a Lenne-völgyre.",
             "ro": "Castel istoric cu vedere spre Valea Lenne.",
-            "en": "Historic castle with views over the Lenne valley."
+            "en": "Historic castle with views over the Lenne valley.",
+            "tr": "Lenne vadisi üzerinde manzaralara sahip tarihi şato."
           }
         }
       ],
@@ -383,7 +408,8 @@
         "de": "Hagen mit dem Rad zu erkunden bedeutet, die Höhenzüge des Sauerlands zu spüren. Vom Zentrum aus fahren Sie in den Stadtwald zum Wildpark. Das absolute Highlight ist das Freilichtmuseum, wo Handwerk lebendig wird. Zum Abschluss radeln Sie entlang der Lenne bis zum beeindruckenden Schloss Hohenlimburg.",
         "hu": "Hagen kerékpáros felfedezése a Sauerland dombjainak megtapasztalását jelenti. A központból a városi erdőbe, a vadasparkhoz tekerhetünk. Az abszolút csúcspont a Szabadtéri Múzeum, ahol a kézművesség életre kel. Végezetül a Lenne mentén tekerhetünk a lenyűgöző Hohenlimburgi kastélyig.",
         "ro": "Explorarea orașului Hagen cu bicicleta înseamnă să simți dealurile din Sauerland. Din centru, mergi spre pădurea orașului la Wildpark. Punctul culminant absolut este muzeul în aer liber, unde meșteșugurile prind viață. La final, pedalează de-a lungul Lennei până la impresionantul Castel Hohenlimburg.",
-        "en": "Exploring Hagen by bike means feeling the ridges of the Sauerland. From the center, ride into the city forest to the game park. The absolute highlight is the open-air museum, where craftsmanship comes to life. Finally, cycle along the Lenne to the impressive Hohenlimburg Castle."
+        "en": "Exploring Hagen by bike means feeling the ridges of the Sauerland. From the center, ride into the city forest to the game park. The absolute highlight is the open-air museum, where craftsmanship comes to life. Finally, cycle along the Lenne to the impressive Hohenlimburg Castle.",
+        "tr": "Hagen'i bisikletle keşfetmek Sauerland'ın sırtlarını hissetmek demektir. Merkezden şehir ormanına, hayvan parkına sürün. Kesinlikle görülmesi gereken yer, zanaatkârlığın canlandığı açık hava müzesidir. Son olarak Lenne boyunca pedal çevirip etkileyici Hohenlimburg Şatosu'na ulaşın."
       },
       "gastro_picks": {
         "de": [
@@ -483,6 +509,10 @@
         "en": [
           "Be prepared for some climbs.",
           "Use the Lenneradweg cycle path for the trip to Hohenlimburg."
+        ],
+        "tr": [
+          "Birkaç tırmanışa hazırlıklı olun.",
+          "Hohenlimburg'a yapacağınız yolculuk için Lenneradweg bisiklet yolunu kullanın."
         ]
       }
     },
@@ -499,7 +529,8 @@
             "de": "Osthaus Museum (Cluster Zentrum)",
             "hu": "Osthaus Múzeum (Belváros klaszter)",
             "ro": "Muzeul Osthaus (Cluster Centru)",
-            "en": "Osthaus Museum (Center Cluster)"
+            "en": "Osthaus Museum (Center Cluster)",
+            "tr": "Osthaus Müzesi (Merkez Kümesi)"
           },
           "coords": [
             7.475,
@@ -514,7 +545,8 @@
             "de": "Parken Sie im Parkhaus am Theater.",
             "hu": "Parkolj a színház melletti parkolóházban.",
             "ro": "Parcați în parcarea de la teatru.",
-            "en": "Park in the parking garage at the theater."
+            "en": "Park in the parking garage at the theater.",
+            "tr": "Tiyatronun otopark yapısında park edin."
           }
         },
         {
@@ -522,7 +554,8 @@
             "de": "Emil Schumacher Museum",
             "hu": "Emil Schumacher Múzeum",
             "ro": "Muzeul Emil Schumacher",
-            "en": "Emil Schumacher Museum"
+            "en": "Emil Schumacher Museum",
+            "tr": "Emil Schumacher Müzesi"
           },
           "coords": [
             7.475,
@@ -538,7 +571,8 @@
             "de": "Zu Fuß vom Osthaus Museum erreichbar.",
             "hu": "Gyalog elérhető az Osthaustól.",
             "ro": "Accesibil pe jos de la Muzeul Osthaus.",
-            "en": "Accessible on foot from the Osthaus Museum."
+            "en": "Accessible on foot from the Osthaus Museum.",
+            "tr": "Osthaus Müzesi'nden yürüyerek ulaşılabilir."
           }
         },
         {
@@ -546,7 +580,8 @@
             "de": "Bunkermuseum Hagen",
             "hu": "Hageni Bunkermúzeum",
             "ro": "Muzeul Bunkerului Hagen",
-            "en": "Hagen Bunker Museum"
+            "en": "Hagen Bunker Museum",
+            "tr": "Hagen Bunker Müzesi"
           },
           "coords": [
             7.471,
@@ -562,7 +597,8 @@
             "de": "Letzter Stopp im Zentrum-Cluster.",
             "hu": "Utolsó állomás a belvárosi klaszterben.",
             "ro": "Ultima oprire în clusterul central.",
-            "en": "Last stop in the center cluster."
+            "en": "Last stop in the center cluster.",
+            "tr": "Merkez kümede son durak."
           }
         },
         {
@@ -570,7 +606,8 @@
             "de": "LWL-Freilichtmuseum (Cluster Süd)",
             "hu": "Hageni skanzen (Déli klaszter)",
             "ro": "Muzeul în aer liber (Cluster Sud)",
-            "en": "LWL Open-air Museum (South Cluster)"
+            "en": "LWL Open-air Museum (South Cluster)",
+            "tr": "LWL Açık Hava Müzesi (Güney Kümesi)"
           },
           "coords": [
             7.485,
@@ -586,7 +623,8 @@
             "de": "Großer Parkplatz direkt am Eingang.",
             "hu": "Nagy parkoló közvetlenül a bejáratnál.",
             "ro": "Parcare mare chiar la intrare.",
-            "en": "Large parking lot right at the entrance."
+            "en": "Large parking lot right at the entrance.",
+            "tr": "Girişin hemen yanında büyük otopark."
           }
         },
         {
@@ -594,7 +632,8 @@
             "de": "Schloss Hohenlimburg (Cluster Ost)",
             "hu": "Hohenlimburgi kastély (Keleti klaszter)",
             "ro": "Castelul Hohenlimburg (Cluster Est)",
-            "en": "Hohenlimburg Castle (East Cluster)"
+            "en": "Hohenlimburg Castle (East Cluster)",
+            "tr": "Hohenlimburg Şatosu (Doğu Kümesi)"
           },
           "coords": [
             7.57,
@@ -610,7 +649,8 @@
             "de": "Höhenburg mit reicher Geschichte.",
             "hu": "Gazdag történelmű hegyi vár.",
             "ro": "Castel pe deal cu o istorie bogată.",
-            "en": "Hilltop castle with a rich history."
+            "en": "Hilltop castle with a rich history.",
+            "tr": "Zengin bir tarihe sahip tepe şatosu."
           }
         }
       ],
@@ -618,7 +658,8 @@
         "de": "Mit dem Auto verbinden Sie die weitläufigen Highlights Hagens mühelos. Sie starten im Zentrum-Cluster mit hochkarätiger Kunst und Zeitgeschichte. Danach fahren Sie in den Süden zum Freilichtmuseum, um die Technikgeschichte im Grünen zu erleben. Den krönenden Abschluss bildet das Schloss Hohenlimburg im Osten der Stadt.",
         "hu": "Autóval könnyedén összekötheti Hagen távoli látnivalóit. A belvárosi klaszterben kezdhet magas színvonalú művészettel és kortárs történelemmel. Ezután délre utazik a Szabadtéri Múzeumba, hogy a természetben tapasztalja meg a technikatörténetet. A napot a város keleti részén található Hohenlimburgi kastély koronázza meg.",
         "ro": "Cu mașina, puteți conecta fără efort punctele de atracție din Hagen. Începeți în clusterul central cu artă de înaltă calitate și istorie contemporană. Apoi mergeți spre sud la muzeul în aer liber pentru a experimenta istoria tehnologiei în natură. Finalul perfect este Castelul Hohenlimburg din estul orașului.",
-        "en": "By car, you can effortlessly connect Hagen's spread-out highlights. Start in the center cluster with high-caliber art and contemporary history. Then drive south to the open-air museum to experience technical history in a green setting. The crowning finale is Hohenlimburg Castle in the east of the city."
+        "en": "By car, you can effortlessly connect Hagen's spread-out highlights. Start in the center cluster with high-caliber art and contemporary history. Then drive south to the open-air museum to experience technical history in a green setting. The crowning finale is Hohenlimburg Castle in the east of the city.",
+        "tr": "Arabayla, Hagen'in yayılmış önemli noktalarını zahmetsizce birbirine bağlayabilirsiniz. Yüksek kalibreli sanat ve çağdaş tarih için merkez kümesiyle başlayın. Ardından teknik tarihin yeşil bir ortamda yaşandığı açık hava müzesine güneyde sürün. Günün taçlandırması ise şehrin doğusundaki Hohenlimburg Şatosu olacak."
       },
       "gastro_picks": {
         "de": [
@@ -718,6 +759,10 @@
         "en": [
           "Parking in the center is paid, usually free at the open-air museum.",
           "Travel time to Hohenlimburg can be longer during rush hour."
+        ],
+        "tr": [
+          "Merkezde park ücretlidir, genellikle açık hava müzesinde ücretsizdir.",
+          "Hohenlimburg'a seyahat trafiğin yoğun olduğu saatlerde daha uzun sürebilir."
         ]
       }
     },
@@ -734,7 +779,8 @@
             "de": "Hagener Stadttheater (Bezirk Zentrum)",
             "hu": "Hageni Városi Színház (Központi negyed)",
             "ro": "Teatrul Municipal din Hagen (District Centru)",
-            "en": "Hagen City Theater (Center District)"
+            "en": "Hagen City Theater (Center District)",
+            "tr": "Hagen Şehir Tiyatrosu (Merkez Bölgesi)"
           },
           "coords": [
             7.473,
@@ -749,7 +795,8 @@
             "de": "Vom Hauptbahnhof in 10 Min. zu Fuß erreichbar.",
             "hu": "A főpályaudvartól 10 perc gyalog.",
             "ro": "Accesibil în 10 minute pe jos de la gara centrală.",
-            "en": "Reach in 10 mins on foot from the main station."
+            "en": "Reach in 10 mins on foot from the main station.",
+            "tr": "Ana istasyondan yürüyerek 10 dakikada ulaşılır."
           }
         },
         {
@@ -757,7 +804,8 @@
             "de": "Osthaus Museum",
             "hu": "Osthaus Múzeum",
             "ro": "Muzeul Osthaus",
-            "en": "Osthaus Museum"
+            "en": "Osthaus Museum",
+            "tr": "Osthaus Müzesi"
           },
           "coords": [
             7.475,
@@ -773,7 +821,8 @@
             "de": "Wichtiger Ankerpunkt der Route Industriekultur.",
             "hu": "Az Ipari Kultúra Útvonalának fontos állomása.",
             "ro": "Punct de ancorare important pe Traseul Culturii Industriale.",
-            "en": "Important anchor point on the Industrial Culture Route."
+            "en": "Important anchor point on the Industrial Culture Route.",
+            "tr": "Endüstri Kültürü Rotası'nda önemli bir cazibe noktası."
           }
         },
         {
@@ -781,7 +830,8 @@
             "de": "LWL-Freilichtmuseum (Bezirk Selbecke)",
             "hu": "Hageni skanzen (Selbecke negyed)",
             "ro": "Muzeul în aer liber (District Selbecke)",
-            "en": "LWL Open-air Museum (Selbecke District)"
+            "en": "LWL Open-air Museum (Selbecke District)",
+            "tr": "LWL Açık Hava Müzesi (Selbecke Bölgesi)"
           },
           "coords": [
             7.485,
@@ -797,7 +847,8 @@
             "de": "Buslinie 512 hält direkt vor dem Museum.",
             "hu": "Az 512-es busz közvetlenül a múzeum előtt áll meg.",
             "ro": "Linia de autobuz 512 oprește chiar în fața muzeului.",
-            "en": "Bus line 512 stops right in front of the museum."
+            "en": "Bus line 512 stops right in front of the museum.",
+            "tr": "512 numaralı otobüs hattı müzenin hemen önünde durur."
           }
         },
         {
@@ -805,7 +856,8 @@
             "de": "Schloss Hohenlimburg (Bezirk Hohenlimburg)",
             "hu": "Hohenlimburgi kastély (Hohenlimburg negyed)",
             "ro": "Castelul Hohenlimburg (District Hohenlimburg)",
-            "en": "Hohenlimburg Castle (Hohenlimburg District)"
+            "en": "Hohenlimburg Castle (Hohenlimburg District)",
+            "tr": "Hohenlimburg Şatosu (Hohenlimburg Bölgesi)"
           },
           "coords": [
             7.57,
@@ -821,7 +873,8 @@
             "de": "RB91 oder RE16 ab Hagen Hbf nach Hohenlimburg.",
             "hu": "RB91 vagy RE16 vonat Hagen főpályaudvarról.",
             "ro": "Trenul RB91 sau RE16 de la gara Hagen spre Hohenlimburg.",
-            "en": "RB91 or RE16 train from Hagen Hbf to Hohenlimburg."
+            "en": "RB91 or RE16 train from Hagen Hbf to Hohenlimburg.",
+            "tr": "Hagen Hbf'den Hohenlimburg'a RB91 veya RE16 trenleri."
           }
         },
         {
@@ -829,7 +882,8 @@
             "de": "Stadtgarten Hagen",
             "hu": "Városi Park",
             "ro": "Parcul Orașului",
-            "en": "Hagen City Garden"
+            "en": "Hagen City Garden",
+            "tr": "Hagen Şehir Bahçesi"
           },
           "coords": [
             7.465,
@@ -845,7 +899,8 @@
             "de": "Gute Busverbindung zurück ins Zentrum.",
             "hu": "Jó buszközlekedés vissza a központba.",
             "ro": "Legătură bună de autobuz înapoi în centru.",
-            "en": "Good bus connection back to the center."
+            "en": "Good bus connection back to the center.",
+            "tr": "Merkeze geri iyi otobüs bağlantısı."
           }
         }
       ],
@@ -853,7 +908,8 @@
         "de": "Dank eines gut ausgebauten Bus- und Bahnnetzes ist Hagen ideal ohne Auto zu erleben. Sie starten kulturell im Zentrum und nutzen dann die direkte Busverbindung zum weitläufigen Freilichtmuseum. Mit dem Regionalzug erreichen Sie schnell Hohenlimburg für eine Zeitreise ins Mittelalter, bevor Sie den Tag entspannt im Stadtgarten beenden.",
         "hu": "A jól kiépített busz- és vasúthálózatnak köszönhetően Hagen autó nélkül is kiválóan felfedezhető. Kulturális kezdés után közvetlen busszal juthat el a tágas Szabadtéri Múzeumba. Regionális vonattal gyorsan elérheti Hohenlimburgot egy középkori időutazáshoz, majd a napot a Városi Parkban zárhatja.",
         "ro": "Datorită unei rețele bune de autobuze și trenuri, Hagen este ideal de experimentat fără mașină. Începeți cultural în centru și apoi folosiți legătura directă de autobuz către muzeul în aer liber. Cu trenul regional ajungeți rapid la Hohenlimburg pentru o călătorie în timp în Evul Mediu, înainte de a încheia ziua relaxat în Stadtgarten.",
-        "en": "Thanks to a well-developed bus and train network, Hagen is ideal to experience without a car. Start culturally in the center and then take the direct bus to the extensive open-air museum. Reach Hohenlimburg quickly by regional train for a journey back to the Middle Ages before ending the day relaxed in the City Garden."
+        "en": "Thanks to a well-developed bus and train network, Hagen is ideal to experience without a car. Start culturally in the center and then take the direct bus to the extensive open-air museum. Reach Hohenlimburg quickly by regional train for a journey back to the Middle Ages before ending the day relaxed in the City Garden.",
+        "tr": "İyi gelişmiş otobüs ve tren ağı sayesinde Hagen, araba olmadan deneyimlemek için idealdir. Kültürel olarak merkezde başlayın, ardından geniş açık hava müzesine direkt otobüsle gidin. Bölgesel trenle Hohenlimburg'a hızlıca ulaşarak Orta Çağ'a dönüş yapın ve günü Şehir Bahçesi'nde sakinleştirici şekilde bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -953,6 +1009,10 @@
         "en": [
           "Use a day ticket for the VRR.",
           "Bus line 512 runs every 15 or 30 minutes to the open-air museum."
+        ],
+        "tr": [
+          "VRR için günlük bilet kullanın.",
+          "512 numaralı otobüs hattı açık hava müzesine 15 veya 30 dakikada bir çalışır."
         ]
       }
     }

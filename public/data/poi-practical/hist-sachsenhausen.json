@@ -3,55 +3,64 @@
     "de": "Straße der Nationen 22, 16515 Oranienburg",
     "hu": "Straße der Nationen 22, 16515 Oranienburg",
     "ro": "Straße der Nationen 22, 16515 Oranienburg",
-    "en": "Straße der Nationen 22, 16515 Oranienburg"
+    "en": "Straße der Nationen 22, 16515 Oranienburg",
+    "tr": "Straße der Nationen 22, 16515 Oranienburg"
   },
   "openingHours": {
     "de": "Mo-Su 08:30-18:00 (Mär-Okt), 08:30-16:30 (Nov-Feb)",
     "hu": "H-V 08:30-18:00 (márc-okt), 08:30-16:30 (nov-febr)",
     "ro": "Lu-Du 08:30-18:00 (mar-oct), 08:30-16:30 (nov-feb)",
-    "en": "Mon-Sun 08:30-18:00 (Mar-Oct), 08:30-16:30 (Nov-Feb)"
+    "en": "Mon-Sun 08:30-18:00 (Mar-Oct), 08:30-16:30 (Nov-Feb)",
+    "tr": "Pzt-Paz 08:30-18:00 (Mar-Eki), 08:30-16:30 (Kas-Şub)"
   },
   "entranceFee": {
     "de": "frei (Spende erbeten)",
     "hu": "ingyenes (adományokat elfogadnak)",
     "ro": "gratuit (se recomandă o donație)",
-    "en": "free (donations welcome)"
+    "en": "free (donations welcome)",
+    "tr": "ücretsiz (bağışlar memnuniyetle kabul edilir)"
   },
   "website": "https://www.sachsenhausen-sbg.de",
   "publicTransport": {
     "de": "S-Bahn S1 oder Regionalbahn bis Oranienburg, dann Bus 804 oder 20 Min Fußweg",
     "hu": "S1-es S-Bahn vagy regionális vonat Oranienburgig, onnan 804-es busz vagy 20 perc séta",
     "ro": "S-Bahn S1 sau tren regional până la Oranienburg, apoi autobuzul 804 sau 20 min. de mers pe jos",
-    "en": "S-Bahn S1 or regional train to Oranienburg, then bus 804 or a 20-minute walk"
+    "en": "S-Bahn S1 or regional train to Oranienburg, then bus 804 or a 20-minute walk",
+    "tr": "S-Bahn S1 veya bölgesel tren ile Oranienburg, sonra 804 numaralı otobüs veya 20 dakikalık yürüyüş"
   },
   "parking": {
     "de": "Großer Besucherparkplatz vor dem Gelände (kostenpflichtig).",
     "hu": "Nagy fizetős látogatói parkoló a terület előtt.",
     "ro": "Parcare mare pentru vizitatori în fața sitului (cu plată).",
-    "en": "Large paid visitor parking lot in front of the site."
+    "en": "Large paid visitor parking lot in front of the site.",
+    "tr": "Sitenin önünde büyük ücretli ziyaretçi otoparkı."
   },
   "accessibility": {
     "de": "Weitgehend barrierefrei; Wege im Lagerbereich bestehen jedoch teils aus grobem Kies.",
     "hu": "Nagyrészt akadálymentesített; a tábor területén az utak egy része azonban durva kavicsos.",
     "ro": "În mare parte accesibil; totuși, aleile din zona lagărului sunt parțial din pietriș grosier.",
-    "en": "Largely accessible; however, paths in the camp area are partly made of coarse gravel."
+    "en": "Largely accessible; however, paths in the camp area are partly made of coarse gravel.",
+    "tr": "Büyük ölçüde erişilebilir; ancak kamp alanındaki yollar kısmen iri çakıl kaplı."
   },
   "photoRules": {
     "de": "Erlaubt für private Zwecke; Pietät wahren; keine Fotos in sensiblen Bereichen.",
     "hu": "Magáncélra engedélyezett; a kegyeleti szempontok betartása mellett; érzékeny területeken tilos a fotózás.",
     "ro": "Permis în scopuri private; mențineți pietatea; fără fotografii în zonele sensibile.",
-    "en": "Allowed for private purposes; maintain respect; no photos in sensitive areas."
+    "en": "Allowed for private purposes; maintain respect; no photos in sensitive areas.",
+    "tr": "Özel amaçlı fotoğrafa izinli; saygı gösterin; hassas alanlarda fotoğraf yok."
   },
   "bestTimeToVisit": {
     "de": "Wochentags morgens für eine ruhige Atmosphäre; viel Zeit (min. 4 Std) einplanen.",
     "hu": "Hétköznap reggel a nyugodt hangulatért; sok időt (legalább 4 órát) szánjunk rá.",
     "ro": "În diminețile din timpul săptămânii pentru o atmosferă liniștită; alocați mult timp (min. 4 ore).",
-    "en": "Weekday mornings for a quiet atmosphere; allow plenty of time (min. 4 hours)."
+    "en": "Weekday mornings for a quiet atmosphere; allow plenty of time (min. 4 hours).",
+    "tr": "Hareketli olmayan bir atmosfer için hafta içi sabahları; bolca zaman ayırın (en az 4 saat)."
   },
   "audioGuide": {
     "de": "Ja (DE, EN, FR, ES, IT, NL, PL)",
     "hu": "Igen (német, angol, francia, spanyol, olasz, holland, lengyel)",
     "ro": "Da (DE, EN, FR, ES, IT, NL, PL)",
-    "en": "Yes (DE, EN, FR, ES, IT, NL, PL)"
+    "en": "Yes (DE, EN, FR, ES, IT, NL, PL)",
+    "tr": "Evet (DE, EN, FR, ES, IT, NL, PL)"
   }
 }

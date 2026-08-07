@@ -3,55 +3,64 @@
     "de": "Friedrichstraße 43-45, 10117 Berlin",
     "hu": "Friedrichstraße 43-45, 10117 Berlin",
     "ro": "Friedrichstraße 43-45, 10117 Berlin",
-    "en": "Friedrichstraße 43-45, 10117 Berlin"
+    "en": "Friedrichstraße 43-45, 10117 Berlin",
+    "tr": "Friedrichstraße 43-45, 10117 Berlin"
   },
   "openingHours": {
     "de": "24/7 (Mauermuseum: täglich 10:00-20:00)",
     "hu": "éjjel-nappal (Mauermuseum: naponta 10:00-20:00)",
     "ro": "non-stop (Mauermuseum: zilnic 10:00-20:00)",
-    "en": "24/7 (Wall Museum: daily 10:00-20:00)"
+    "en": "24/7 (Wall Museum: daily 10:00-20:00)",
+    "tr": "7/24 (Duvar Müzesi: günlük 10:00-20:00)"
   },
   "entranceFee": {
     "de": "kostenlos (Museum: €17,50 Erwachsene)",
     "hu": "ingyenes (Múzeum: 17,50 € felnőtt)",
     "ro": "gratuit (Muzeu: 17,50 € adulți)",
-    "en": "free (Museum: €17.50 adults)"
+    "en": "free (Museum: €17.50 adults)",
+    "tr": "ücretsiz (Müze: €17,50 yetişkin)"
   },
   "website": "https://www.mauermuseum.de",
   "publicTransport": {
     "de": "U-Bahn Linie U6 (Haltestelle Kochstraße)",
     "hu": "U6-os metróvonal (Kochstraße megálló)",
     "ro": "Linia de metrou U6 (stația Kochstraße)",
-    "en": "U-Bahn line U6 (Kochstraße stop)"
+    "en": "U-Bahn line U6 (Kochstraße stop)",
+    "tr": "U-Bahn U6 hattı (Kochstraße durağı)"
   },
   "parking": {
     "de": "Sehr schwierig; Parkhaus Quartier Schützenstraße (~3 €/Std.).",
     "hu": "Nagyon nehéz; Quartier Schützenstraße parkolóház (~3 €/óra).",
     "ro": "Foarte dificil; parcarea Quartier Schützenstraße (~3 €/oră).",
-    "en": "Very difficult; Quartier Schützenstraße parking garage (~3 €/hr)."
+    "en": "Very difficult; Quartier Schützenstraße parking garage (~3 €/hr).",
+    "tr": "Çok zor; Quartier Schützenstraße otoparkı (~3 €/saat)."
   },
   "accessibility": {
     "de": "Die Straßenebene am ehemaligen Kontrollpunkt ist voll barrierefrei.",
     "hu": "Az egykori ellenőrzőpont utcai szintje teljesen akadálymentes.",
     "ro": "Nivelul străzii la fostul punct de control este complet accesibil.",
-    "en": "The street level at the former checkpoint is fully accessible."
+    "en": "The street level at the former checkpoint is fully accessible.",
+    "tr": "Eski kontrol noktasındaki sokak düzeyi tamamen erişilebilir."
   },
   "photoRules": {
     "de": "Erlaubt, jedoch ist der Bereich oft extrem von Touristen überlaufen.",
     "hu": "Megengedett, bár a terület gyakran rendkívül zsúfolt turistákkal.",
     "ro": "Permis, totuși zona este adesea extrem de aglomerată de turiști.",
-    "en": "Permitted, though the area is often extremely crowded with tourists."
+    "en": "Permitted, though the area is often extremely crowded with tourists.",
+    "tr": "İzinli, ancak alan sıklıkla turistlerle aşırı kalabalık."
   },
   "bestTimeToVisit": {
     "de": "Spät abends für stimmungsvolle Fotos ohne große Menschenmassen.",
     "hu": "Késő este, hangulatos fotókhoz a nagy tömeg nélkül.",
     "ro": "Seara târziu pentru fotografii atmosferice fără mulțimi mari.",
-    "en": "Late evening for atmospheric photos without the large crowds."
+    "en": "Late evening for atmospheric photos without the large crowds.",
+    "tr": "Büyük kalabalık olmadan atmosferik fotoğraflar için geç akşam."
   },
   "audioGuide": {
     "de": "nein (Audioguides nur im angrenzenden Mauermuseum)",
     "hu": "nincs (audioguide csak a szomszédos Mauermuseumban)",
     "ro": "nu (audioghiduri doar în muzeul adiacent Mauermuseum)",
-    "en": "no (audio guides only available in the adjacent Wall Museum)"
+    "en": "no (audio guides only available in the adjacent Wall Museum)",
+    "tr": "hayır (sesli rehberler yalnızca bitişikteki Duvar Müzesi'nde mevcut)"
   }
 }

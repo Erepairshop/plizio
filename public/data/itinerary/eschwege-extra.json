@@ -21,7 +21,8 @@
             "de": "Marktplatz & Rathaus",
             "hu": "Piactér és Városháza",
             "ro": "Piața de desfacere și Primăria",
-            "en": "Market Square & Town Hall"
+            "en": "Market Square & Town Hall",
+            "tr": "Pazar Meydanı ve Belediye Binası"
           },
           "coords": [
             10.051,
@@ -36,7 +37,8 @@
             "de": "Warten Sie auf das Dietemann-Figurenspiel am Rathausturm.",
             "hu": "Várja meg a Dietemann-figura játékát a városháza tornyában.",
             "ro": "Așteptați jocul figurii Dietemann din turnul primăriei.",
-            "en": "Wait for the Dietemann figure to emerge from the town hall tower."
+            "en": "Wait for the Dietemann figure to emerge from the town hall tower.",
+            "tr": "Belediye kulesinden Dietemann figürünün çıkmasını bekleyin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Nikolaiturm",
             "hu": "Nikolai-torony",
             "ro": "Turnul Nikolai",
-            "en": "Nikolai Tower"
+            "en": "Nikolai Tower",
+            "tr": "Nikolai Kulesi"
           },
           "coords": [
             10.05,
@@ -59,7 +62,8 @@
             "de": "Der höchste Turm der Stadt bietet eine tolle Aussicht.",
             "hu": "A város legmagasabb tornya kiváló kilátást nyújt.",
             "ro": "Cel mai înalt turn din oraș oferă o priveliște excelentă.",
-            "en": "The tallest tower in town offers a great view."
+            "en": "The tallest tower in town offers a great view.",
+            "tr": "Şehirdeki en yüksek kule harika bir manzara sunar."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Neustädter Kirche",
             "hu": "Újvárosi templom",
             "ro": "Biserica din Orașul Nou",
-            "en": "New Town Church"
+            "en": "New Town Church",
+            "tr": "Yeni Şehir Kilisesi"
           },
           "coords": [
             10.052,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die gotische Architektur im Inneren.",
             "hu": "Csodálja meg a belső gótikus építészetet.",
             "ro": "Admirați arhitectura gotică din interior.",
-            "en": "Admire the Gothic architecture inside."
+            "en": "Admire the Gothic architecture inside.",
+            "tr": "İçerideki Gotik mimariye hayran kalın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Zinnfigurenkabinett",
             "hu": "Ólomfigura-múzeum",
             "ro": "Cabinetul de figuri de cositor",
-            "en": "Tin Figure Cabinet"
+            "en": "Tin Figure Cabinet",
+            "tr": "Kalay Figür Kabinesi"
           },
           "coords": [
             10.053,
@@ -105,7 +112,8 @@
             "de": "Tausende handbemalte Figuren zeigen historische Szenen.",
             "hu": "Több ezer kézzel festett figura mutat be történelmi jeleneteket.",
             "ro": "Mii de figurine pictate manual prezintă scene istorice.",
-            "en": "Thousands of hand-painted figures depict historical scenes."
+            "en": "Thousands of hand-painted figures depict historical scenes.",
+            "tr": "Binlerce el boyaması figür tarihsel sahneleri canlandırır."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Landgrafenschloss Eschwege",
             "hu": "Eschwegei tartománygrófi kastély",
             "ro": "Castelul Landgrafen din Eschwege",
-            "en": "Landgrave Castle Eschwege"
+            "en": "Landgrave Castle Eschwege",
+            "tr": "Eschwege Landgraf Şatosu"
           },
           "coords": [
             10.054,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie den Schlosshof und die umliegenden Parks.",
             "hu": "Látogassa meg a várudvart és a környező parkokat.",
             "ro": "Vizitați curtea castelului și parcurile din jur.",
-            "en": "Visit the castle courtyard and the surrounding parks."
+            "en": "Visit the castle courtyard and the surrounding parks.",
+            "tr": "Şato avlusunu ve çevresindeki parkları ziyaret edin."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanik Bahçe"
           },
           "coords": [
             10.056,
@@ -151,7 +162,8 @@
             "de": "Ideal für einen entspannten Abschluss des Tages.",
             "hu": "Ideális a nap pihentető lezárásához.",
             "ro": "Ideal pentru o încheiere relaxantă a zilei.",
-            "en": "Ideal for a relaxing end to the day."
+            "en": "Ideal for a relaxing end to the day.",
+            "tr": "Günü dinlendirici bir şekilde sonlandırmak için ideal."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Eschwege verzaubert mit über 1000 Fachwerkhäusern. Ihr Spaziergang beginnt am Marktplatz, wo der Dietemann stündlich aus dem Rathausturm bläst. Nach dem Besuch historischer Türme und Kirchen tauchen Sie im Zinnfigurenkabinett in Miniaturwelten ein. Den Nachmittag verbringen Sie am prächtigen Landgrafenschloss, bevor Sie im Botanischen Garten zwischen seltenen Pflanzen zur Ruhe kommen.",
         "hu": "Eschwege több mint 1000 favázas házával varázsolja el a látogatókat. A séta a Piactéren kezdődik, ahol a Dietemann óránként fújja kürtjét a városháza tornyából. A történelmi tornyok és templomok után az ónfigura-múzeumban miniatűr világokba csöppenhetünk. A délutánt a pompás tartománygrófi kastélynál töltjük, majd a Botanikus kert ritka növényei között pihenhetünk meg.",
         "ro": "Eschwege încântă cu peste 1000 de case cu structură din lemn. Plimbarea începe în Piața de desfacere, unde Dietemann suflă în corn la fiecare oră din turnul primăriei. După vizitarea turnurilor și bisericilor istorice, vă scufundați în lumi în miniatură la Cabinetul de figuri de cositor. Petreceți după-amiaza la magnificul castel Landgrafen, înainte de a vă relaxa în Grădina Botanică.",
-        "en": "Eschwege enchants with over 1000 half-timbered houses. Your walk starts at the Market Square, where the Dietemann blows his horn hourly from the town hall tower. After visiting historical towers and churches, dive into miniature worlds at the Tin Figure Cabinet. Spend the afternoon at the grand Landgrave Castle before finding peace among rare plants in the Botanical Garden."
+        "en": "Eschwege enchants with over 1000 half-timbered houses. Your walk starts at the Market Square, where the Dietemann blows his horn hourly from the town hall tower. After visiting historical towers and churches, dive into miniature worlds at the Tin Figure Cabinet. Spend the afternoon at the grand Landgrave Castle before finding peace among rare plants in the Botanical Garden.",
+        "tr": "Eschwege 1000'den fazla yarı ahşap evle büyüler. Yürüyüşünüz, Dietemann'ın her saat başı belediye kulesinden boru çaldığı Pazar Meydanı'nda başlar. Tarihi kule ve kiliseleri ziyaret ettikten sonra Kalay Figür Kabinesi'nde minyatür dünyalara dalın. Öğleden sonranızı büyük Landgraf Şatosu'nda geçirin ve nadir bitkiler arasında Botanik Bahçe'de huzuru bulun."
       },
       "gastro_picks": {
         "de": [
@@ -299,6 +312,11 @@
           "Wear comfortable shoes for the cobblestones in the old town.",
           "Pay attention to the many small details on the half-timbered houses.",
           "Combine the city tour with a break in one of the cozy cafes."
+        ],
+        "tr": [
+          "Eski şehirdeki kaldırım taşları için rahat ayakkabılar giyin.",
+          "Yarı ahşap evlerdeki birçok küçük ayrıntıya dikkat edin.",
+          "Şehir turunu şirin kafelerden birinde mola ile birleştirin."
         ]
       }
     },
@@ -315,7 +333,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața de desfacere",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             10.051,
@@ -330,7 +349,8 @@
             "de": "Startpunkt im Herzen der Fachwerkstadt.",
             "hu": "Kiindulópont a favázas házak városának szívében.",
             "ro": "Punct de plecare în inima orașului cu structură din lemn.",
-            "en": "Starting point in the heart of the half-timbered town."
+            "en": "Starting point in the heart of the half-timbered town.",
+            "tr": "Yarı ahşap kasabanın kalbinde başlangıç noktası."
           }
         },
         {
@@ -338,7 +358,8 @@
             "de": "Landgrafenschloss",
             "hu": "Tartománygrófi kastély",
             "ro": "Castelul Landgrafen",
-            "en": "Landgrave Castle"
+            "en": "Landgrave Castle",
+            "tr": "Landgraf Şatosu"
           },
           "coords": [
             10.054,
@@ -353,7 +374,8 @@
             "de": "Kurzer Stopp am Schloss auf dem Weg zur Werra.",
             "hu": "Rövid megálló a kastélynál a Werra felé vezető úton.",
             "ro": "Scurtă oprire la castel în drum spre Werra.",
-            "en": "Short stop at the castle on the way to the Werra."
+            "en": "Short stop at the castle on the way to the Werra.",
+            "tr": "Werraya giderken şatoda kısa durak."
           }
         },
         {
@@ -361,7 +383,8 @@
             "de": "Werratalsee - Südufer",
             "hu": "Werratal-tó - déli part",
             "ro": "Lacul Werratal - malul sudic",
-            "en": "Werratal Lake - South Shore"
+            "en": "Werratal Lake - South Shore",
+            "tr": "Werratal Gölü - Güney Kıyısı"
           },
           "coords": [
             10.08,
@@ -376,7 +399,8 @@
             "de": "Schöner Radweg direkt am Wasser.",
             "hu": "Szép kerékpárút közvetlenül a víz mellett.",
             "ro": "Pistă frumoasă de biciclete chiar lângă apă.",
-            "en": "Beautiful bike path right by the water."
+            "en": "Beautiful bike path right by the water.",
+            "tr": "Suyun hemen yanında güzel bir bisiklet yolu."
           }
         },
         {
@@ -384,7 +408,8 @@
             "de": "Meinhard-Schwebda (Schloss)",
             "hu": "Meinhard-Schwebda (kastély)",
             "ro": "Meinhard-Schwebda (castel)",
-            "en": "Meinhard-Schwebda (Castle)"
+            "en": "Meinhard-Schwebda (Castle)",
+            "tr": "Meinhard-Schwebda (Şato)"
           },
           "coords": [
             10.105,
@@ -399,7 +424,8 @@
             "de": "Ein idyllisches Wasserschloss in der Nähe.",
             "hu": "Egy idilli vízi kastély a közelben.",
             "ro": "Un castel pe apă idilic în apropiere.",
-            "en": "An idyllic moated castle nearby."
+            "en": "An idyllic moated castle nearby.",
+            "tr": "Yakınlarda idyllik bir hendekli şato."
           }
         },
         {
@@ -407,7 +433,8 @@
             "de": "Werratalsee - Nordufer",
             "hu": "Werratal-tó - északi part",
             "ro": "Lacul Werratal - malul nordic",
-            "en": "Werratal Lake - North Shore"
+            "en": "Werratal Lake - North Shore",
+            "tr": "Werratal Gölü - Kuzey Kıyısı"
           },
           "coords": [
             10.075,
@@ -422,7 +449,8 @@
             "de": "Blick auf Eschwege über den See.",
             "hu": "Kilátás Eschwegére a tavon keresztül.",
             "ro": "Vedere spre Eschwege peste lac.",
-            "en": "View of Eschwege across the lake."
+            "en": "View of Eschwege across the lake.",
+            "tr": "Gölün karşısından Eschwege manzarası."
           }
         },
         {
@@ -430,7 +458,8 @@
             "de": "Dietemann-Turm",
             "hu": "Dietemann-torony",
             "ro": "Turnul Dietemann",
-            "en": "Dietemann Tower"
+            "en": "Dietemann Tower",
+            "tr": "Dietemann Kulesi"
           },
           "coords": [
             10.051,
@@ -445,7 +474,8 @@
             "de": "Zurück in der Altstadt für ein Foto.",
             "hu": "Vissza az óvárosba egy fotóra.",
             "ro": "Înapoi în orașul vechi pentru o fotografie.",
-            "en": "Back in the old town for a photo."
+            "en": "Back in the old town for a photo.",
+            "tr": "Fotoğraf için eski şehre geri dönüş."
           }
         },
         {
@@ -453,7 +483,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanik Bahçe"
           },
           "coords": [
             10.056,
@@ -468,7 +499,8 @@
             "de": "Entspannter Ausklang der Radtour.",
             "hu": "A kerékpártúra pihentető lezárása.",
             "ro": "Încheiere relaxantă a turului cu bicicleta.",
-            "en": "Relaxing conclusion to the bike tour."
+            "en": "Relaxing conclusion to the bike tour.",
+            "tr": "Bisiklet turuna dinlendirici bir son."
           }
         }
       ],
@@ -476,7 +508,8 @@
         "de": "Entdecken Sie Eschwege und seine wasserreiche Umgebung mit dem Rad. Nach dem Start in der Altstadt führt die Route zum malerischen Werratalsee. Sie umrunden den See und machen einen Abstecher zum Wasserschloss Schwebda. Genießen Sie die flachen Wege am Flussufer und den Blick auf die Hessische Schweiz. Die Tour endet wieder in Eschwege, perfekt für eine Einkehr in der Brauerei.",
         "hu": "Fedezze fel Eschwegét és vízi környezetét kerékpárral. Az óvárosi indulás után az útvonal a festői Werratal-tóhoz vezet. Megkerüljük a tavat, és egy kitérőt teszünk a schwebdai vízi kastélyhoz. Élvezze a folyóparti sík utakat és a kilátást a Hesseni-Svájcra. A túra ismét Eschwegében ér véget, tökéletes egy sörfőzdei látogatáshoz.",
         "ro": "Descoperiți Eschwege și împrejurimile sale bogate în apă cu bicicleta. După startul în orașul vechi, traseul duce la pitorescul lac Werratal. Înconjurați lacul și faceți o vizită la castelul pe apă Schwebda. Bucurați-vă de potecile plate de pe malul râului și de vederea spre Elveția Hessiană. Turul se termină înapoi în Eschwege, perfect pentru o oprire la berărie.",
-        "en": "Explore Eschwege and its water-rich surroundings by bike. Starting in the old town, the route leads to the picturesque Werratal Lake. Circle the lake and take a detour to the moated Schwebda Castle. Enjoy the flat paths along the riverbank and the views of Hessian Switzerland. The tour ends back in Eschwege, perfect for a brewery visit."
+        "en": "Explore Eschwege and its water-rich surroundings by bike. Starting in the old town, the route leads to the picturesque Werratal Lake. Circle the lake and take a detour to the moated Schwebda Castle. Enjoy the flat paths along the riverbank and the views of Hessian Switzerland. The tour ends back in Eschwege, perfect for a brewery visit.",
+        "tr": "Eschwege ve suyla zengin çevresini bisikletle keşfedin. Eski kentten başlayan rota, büyüleyici Werratal Gölü’ne götürür. Gölün etrafını dolaşın ve hendekli Schwebda Şatosu’na bir sapma yapın. Nehir kıyısındaki düz yolların ve Hessen İsviçre’sinin manzaralarının tadını çıkarın. Tur, bira fabrikası ziyareti için ideal şekilde tekrar Eschwege’de sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -580,6 +613,11 @@
           "The Werratal bike path is very well signposted.",
           "Take enough water for the ride around the lake.",
           "The paths are mostly paved and flat."
+        ],
+        "tr": [
+          "Werratal bisiklet yolu çok iyi işaretlenmiştir.",
+          "Göl etrafındaki sürüş için yeterince su alın.",
+          "Yollar çoğunlukla asfalt ve düzdür."
         ]
       }
     },
@@ -596,7 +634,8 @@
             "de": "Altstadt-Parkplatz (Cluster A)",
             "hu": "Óvárosi parkoló (A csoport)",
             "ro": "Parcare Orașul Vechi (Cluster A)",
-            "en": "Old Town Parking (Cluster A)"
+            "en": "Old Town Parking (Cluster A)",
+            "tr": "Eski Kent Parkı (Kümelenme A)"
           },
           "coords": [
             10.052,
@@ -611,7 +650,8 @@
             "de": "Zentraler Parkplatz, idealer Startpunkt.",
             "hu": "Központi parkoló, ideális kiindulópont.",
             "ro": "Parcare centrală, punct de plecare ideal.",
-            "en": "Central parking, ideal starting point."
+            "en": "Central parking, ideal starting point.",
+            "tr": "Merkezi otopark, ideal başlangıç noktası."
           }
         },
         {
@@ -619,7 +659,8 @@
             "de": "Marktplatz & Dietemann",
             "hu": "Piactér és Dietemann",
             "ro": "Piața de desfacere și Dietemann",
-            "en": "Market Square & Dietemann"
+            "en": "Market Square & Dietemann",
+            "tr": "Pazar Meydanı & Dietemann"
           },
           "coords": [
             10.051,
@@ -634,7 +675,8 @@
             "de": "Zu Fuß vom Parkplatz erreichbar.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking lot."
+            "en": "Accessible on foot from the parking lot.",
+            "tr": "Otoparktan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -642,7 +684,8 @@
             "de": "Zinnfigurenkabinett",
             "hu": "Ólomfigura-múzeum",
             "ro": "Cabinetul de figuri de cositor",
-            "en": "Tin Figure Cabinet"
+            "en": "Tin Figure Cabinet",
+            "tr": "Teneke Figür Kabinesi"
           },
           "coords": [
             10.053,
@@ -657,7 +700,8 @@
             "de": "Teil des Altstadt-Clusters.",
             "hu": "Az óvárosi csoport része.",
             "ro": "Face parte din clusterul orașului vechi.",
-            "en": "Part of the Old Town cluster."
+            "en": "Part of the Old Town cluster.",
+            "tr": "Eski Kent kümesinin parçası."
           }
         },
         {
@@ -665,7 +709,8 @@
             "de": "Leuchtberg & Bismarckturm (Cluster B)",
             "hu": "Leuchtberg és Bismarck-torony (B csoport)",
             "ro": "Leuchtberg și Turnul Bismarck (Cluster B)",
-            "en": "Leuchtberg & Bismarck Tower (Cluster B)"
+            "en": "Leuchtberg & Bismarck Tower (Cluster B)",
+            "tr": "Leuchtberg & Bismarck Kulesi (Kümelenme B)"
           },
           "coords": [
             10.075,
@@ -680,7 +725,8 @@
             "de": "Wanderung zum Turm für Panoramablick.",
             "hu": "Túra a toronyhoz a panorámáért.",
             "ro": "Drumeție la turn pentru vedere panoramică.",
-            "en": "Hike to the tower for panoramic views."
+            "en": "Hike to the tower for panoramic views.",
+            "tr": "Panoramik manzaralar için kuleye yürüyün."
           }
         },
         {
@@ -688,7 +734,8 @@
             "de": "Werratalsee-Greifvogelstation",
             "hu": "Werratal-tavi ragadozómadár-állomás",
             "ro": "Stația de păsări de pradă Werratalsee",
-            "en": "Werratal Lake Raptor Station"
+            "en": "Werratal Lake Raptor Station",
+            "tr": "Werratal Gölü Yırtıcı Kuş İstasyonu"
           },
           "coords": [
             10.085,
@@ -703,7 +750,8 @@
             "de": "Spannende Einblicke in die Welt der Falknerei.",
             "hu": "Izgalmas betekintés a solymászat világába.",
             "ro": "Informații fascinante despre lumea șoimăritului.",
-            "en": "Exciting insights into the world of falconry."
+            "en": "Exciting insights into the world of falconry.",
+            "tr": "Şahin yetiştiriciliği dünyasına heyecan verici bakışlar."
           }
         },
         {
@@ -711,7 +759,8 @@
             "de": "Landgrafenschloss (Cluster C)",
             "hu": "Tartománygrófi kastély (C csoport)",
             "ro": "Castelul Landgrafen (Cluster C)",
-            "en": "Landgrave Castle (Cluster C)"
+            "en": "Landgrave Castle (Cluster C)",
+            "tr": "Toprak Hükümdarı Şatosu (Kümelenme C)"
           },
           "coords": [
             10.054,
@@ -726,7 +775,8 @@
             "de": "Rückkehr in die Stadt zum Schloss.",
             "hu": "Visszatérés a városba a kastélyhoz.",
             "ro": "Revenire în oraș la castel.",
-            "en": "Return to the city for the castle."
+            "en": "Return to the city for the castle.",
+            "tr": "Şato için şehre geri dönün."
           }
         },
         {
@@ -734,7 +784,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanik Bahçe"
           },
           "coords": [
             10.056,
@@ -749,7 +800,8 @@
             "de": "Direkt neben dem Schloss gelegen.",
             "hu": "Közvetlenül a kastély mellett található.",
             "ro": "Situat chiar lângă castel.",
-            "en": "Located right next to the castle."
+            "en": "Located right next to the castle.",
+            "tr": "Şatonun hemen yanında yer alır."
           }
         }
       ],
@@ -757,7 +809,8 @@
         "de": "Mit dem Auto erkunden Sie Eschwege und die umliegenden Highlights flexibel. Vormittags widmen Sie sich der Altstadt und dem Zinnfigurenkabinett. Nach einer kurzen Fahrt erreichen Sie den Leuchtberg, von dessen Bismarckturm Sie einen herrlichen Blick über das Werratal genießen. Am Nachmittag lockt der Werratalsee und die Greifvogelstation, bevor der Tag am Schloss und im Botanischen Garten ausklingt.",
         "hu": "Autóval rugalmasan fedezheti fel Eschwegét és a környék látnivalóit. Délelőtt az óvárosra és az ónfigura-múzeumra összpontosítunk. Rövid autózás után elérjük a Leuchtberget, amelynek Bismarck-tornyából csodálatos kilátás nyílik a Werra-völgyre. Délután a Werratal-tó és a ragadozómadár-állomás várja, mielőtt a napot a kastélynál és a Botanikus kertben zárnánk.",
         "ro": "Cu mașina, explorați Eschwege și atracțiile din jur cu flexibilitate. Dimineața vă dedicați orașului vechi și Cabinetului de figuri de cositor. După o scurtă călătorie, ajungeți la Leuchtberg, de unde Turnul Bismarck oferă o vedere superbă asupra văii Werra. După-amiaza, lacul Werratal și stația de păsări de pradă vă atrag, înainte ca ziua să se încheie la castel și în Grădina Botanică.",
-        "en": "By car, you can flexibly explore Eschwege and its surrounding highlights. In the morning, focus on the old town and the Tin Figure Cabinet. After a short drive, reach Leuchtberg, where the Bismarck Tower offers a magnificent view over the Werra Valley. In the afternoon, Werratal Lake and the Raptor Station beckon before the day ends at the castle and the Botanical Garden."
+        "en": "By car, you can flexibly explore Eschwege and its surrounding highlights. In the morning, focus on the old town and the Tin Figure Cabinet. After a short drive, reach Leuchtberg, where the Bismarck Tower offers a magnificent view over the Werra Valley. In the afternoon, Werratal Lake and the Raptor Station beckon before the day ends at the castle and the Botanical Garden.",
+        "tr": "Arabayla Eschwege ve çevresindeki önemli noktaları esnek şekilde keşfedebilirsiniz. Sabah eski kent ve Teneke Figür Kabinesi’ne odaklanın. Kısa bir sürüşün ardından Leuchtberg’e ulaşın; burada Bismarck Kulesi Werra Vadisi üzerinde muhteşem bir manzara sunar. Öğleden sonra Werratal Gölü ve Yırtıcı Kuş İstasyonu sizi bekler; gün şato ve Botanik Bahçe ile sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -861,6 +914,11 @@
           "There are several parking zones in the city center.",
           "The climb to the Bismarck Tower requires sturdy footwear.",
           "Allow time to find parking on market days."
+        ],
+        "tr": [
+          "Şehir merkezinde birkaç park bölgesi vardır.",
+          "Bismarck Kulesi’ne tırmanış sağlam ayakkabı gerektirir.",
+          "Pazar günlerinde park yeri bulmak için zaman ayırın."
         ]
       }
     },
@@ -877,7 +935,8 @@
             "de": "Bahnhof Eschwege Stadt",
             "hu": "Eschwege Stadt vasútállomás",
             "ro": "Gara Eschwege Stadt",
-            "en": "Eschwege Stadt Station"
+            "en": "Eschwege Stadt Station",
+            "tr": "Eschwege Stadt İstasyonu"
           },
           "coords": [
             10.057,
@@ -892,7 +951,8 @@
             "de": "Direkter Anschluss an den Regionalverkehr.",
             "hu": "Közvetlen csatlakozás a regionális közlekedéshez.",
             "ro": "Conexiune directă la transportul regional.",
-            "en": "Direct connection to regional transport."
+            "en": "Direct connection to regional transport.",
+            "tr": "Bölgesel ulaşıma doğrudan bağlantı."
           }
         },
         {
@@ -900,7 +960,8 @@
             "de": "Marktplatz (Cluster Altstadt)",
             "hu": "Piactér (Óváros csoport)",
             "ro": "Piața de desfacere (Cluster Orașul Vechi)",
-            "en": "Market Square (Old Town Cluster)"
+            "en": "Market Square (Old Town Cluster)",
+            "tr": "Pazar Meydanı (Eski Kent Kümesi)"
           },
           "coords": [
             10.051,
@@ -915,7 +976,8 @@
             "de": "Mit dem Stadtbus bequem ins Zentrum.",
             "hu": "Városi busszal kényelmesen a központba.",
             "ro": "Cu autobuzul urban ajungeți confortabil în centru.",
-            "en": "Comfortably reach the center by city bus."
+            "en": "Comfortably reach the center by city bus.",
+            "tr": "Şehiriçi otobüsüyle merkeze rahatça ulaşın."
           }
         },
         {
@@ -923,7 +985,8 @@
             "de": "Nikolaiturm",
             "hu": "Nikolai-torony",
             "ro": "Turnul Nikolai",
-            "en": "Nikolai Tower"
+            "en": "Nikolai Tower",
+            "tr": "Nikolai Kulesi"
           },
           "coords": [
             10.05,
@@ -938,7 +1001,8 @@
             "de": "Kurzer Fußweg vom Marktplatz.",
             "hu": "Rövid séta a piactértől.",
             "ro": "Scurtă plimbare de la piață.",
-            "en": "Short walk from the market square."
+            "en": "Short walk from the market square.",
+            "tr": "Pazar meydanından kısa yürüme mesafesinde."
           }
         },
         {
@@ -946,7 +1010,8 @@
             "de": "Zinnfigurenkabinett",
             "hu": "Ólomfigura-múzeum",
             "ro": "Cabinetul de figuri de cositor",
-            "en": "Tin Figure Cabinet"
+            "en": "Tin Figure Cabinet",
+            "tr": "Teneke Figür Kabinesi"
           },
           "coords": [
             10.053,
@@ -961,7 +1026,8 @@
             "de": "Ein Highlight im Altstadt-Cluster.",
             "hu": "Az óvárosi csoport egyik fénypontja.",
             "ro": "Un punct culminant în clusterul orașului vechi.",
-            "en": "A highlight in the Old Town cluster."
+            "en": "A highlight in the Old Town cluster.",
+            "tr": "Eski Kent kümesinde bir öne çıkan nokta."
           }
         },
         {
@@ -969,7 +1035,8 @@
             "de": "Landgrafenschloss (Cluster Schloss)",
             "hu": "Tartománygrófi kastély (Kastély csoport)",
             "ro": "Castelul Landgrafen (Cluster Castel)",
-            "en": "Landgrave Castle (Palace Cluster)"
+            "en": "Landgrave Castle (Palace Cluster)",
+            "tr": "Toprak Hükümdarı Şatosu (Saray Kümesi)"
           },
           "coords": [
             10.054,
@@ -984,7 +1051,8 @@
             "de": "Buslinie Richtung Schloss/Botanischer Garten.",
             "hu": "Buszjárat a kastély/botanikus kert irányába.",
             "ro": "Linie de autobuz spre castel/grădina botanică.",
-            "en": "Bus line towards the castle/botanical garden."
+            "en": "Bus line towards the castle/botanical garden.",
+            "tr": "Şato/botanik bahçesi yönüne giden otobüs hattı."
           }
         },
         {
@@ -992,7 +1060,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanik Bahçe"
           },
           "coords": [
             10.056,
@@ -1007,7 +1076,8 @@
             "de": "Entspannter Ort vor der Rückreise.",
             "hu": "Pihentető hely a hazautazás előtt.",
             "ro": "Loc relaxant înainte de călătoria de întoarcere.",
-            "en": "Relaxing spot before the return journey."
+            "en": "Relaxing spot before the return journey.",
+            "tr": "Dönüş yolculuğu öncesi dinlenmek için ideal bir nokta."
           }
         }
       ],
@@ -1015,7 +1085,8 @@
         "de": "Nutzen Sie den öffentlichen Nahverkehr für einen entspannten Tag in Eschwege. Vom modernen Stadtbahnhof erreichen Sie mit dem Bus schnell den Marktplatz. Hier erkunden Sie das Herz der Fachwerkstadt zu Fuß. Nach dem Zinnfigurenkabinett bringt Sie der Bus weiter zum Schlossbezirk. Entdecken Sie die Geschichte der Landgrafen und genießen Sie die Ruhe im Botanischen Garten, bevor Sie bequem mit der Bahn abreisen.",
         "hu": "Használja a tömegközlekedést egy pihentető naphoz Eschwegében. A modern városi vasútállomástól busszal gyorsan elérheti a Piacteret. Itt gyalogosan fedezhetjük fel a favázas város szívét. Az ónfigura-múzeum után a busz továbbvisz a kastélynegyedbe. Fedezze fel a tartománygrófok történelmét, és élvezze a Botanikus kert nyugalmát, mielőtt kényelmesen elutazna vonattal.",
         "ro": "Folosiți transportul public pentru o zi relaxantă în Eschwege. De la gara modernă a orașului ajungeți rapid cu autobuzul în Piața de desfacere. Aici explorați inima orașului cu structură din lemn pe jos. După Cabinetul de figuri de cositor, autobuzul vă duce mai departe în zona castelului. Descoperiți istoria landgrafilor și bucurați-vă de liniștea din Grădina Botanică, înainte de a pleca confortabil cu trenul.",
-        "en": "Use public transport for a relaxed day in Eschwege. From the modern city station, quickly reach the Market Square by bus. Here, explore the heart of the half-timbered town on foot. After the Tin Figure Cabinet, the bus takes you further to the castle district. Discover the history of the Landgraves and enjoy the peace of the Botanical Garden before conveniently departing by train."
+        "en": "Use public transport for a relaxed day in Eschwege. From the modern city station, quickly reach the Market Square by bus. Here, explore the heart of the half-timbered town on foot. After the Tin Figure Cabinet, the bus takes you further to the castle district. Discover the history of the Landgraves and enjoy the peace of the Botanical Garden before conveniently departing by train.",
+        "tr": "Toplu taşıma kullanarak Eschwege’de rahat bir gün geçirin. Modern şehir istasyonundan otobüsle hızla Pazar Meydanı’na ulaşın. Burada yarı ahşap kasabanın kalbini yürüyerek keşfedin. Teneke Figür Kabinesi’nden sonra otobüs sizi şato bölgesine götürür. Toprak Hükümdarların tarihini keşfedin ve dönüş için trene rahatça binmeden önce Botanik Bahçe’nin dinginliğinin keyfini çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -1119,6 +1190,11 @@
           "City buses run regularly between the station and the center.",
           "A day ticket for the NVV network is often worthwhile.",
           "The city station is barrier-free."
+        ],
+        "tr": [
+          "Şehir içi otobüsler istasyon ile merkez arasında düzenli olarak çalışır.",
+          "NVV ağı için bir günlük bilet genellikle kârlıdır.",
+          "Şehir istasyonu engelsizdir."
         ]
       }
     }

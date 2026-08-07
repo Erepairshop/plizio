@@ -21,7 +21,8 @@
             "de": "Buttermarkt",
             "hu": "Vajpiac (Buttermarkt)",
             "ro": "Piața de unt",
-            "en": "Buttermarkt Square"
+            "en": "Buttermarkt Square",
+            "tr": "Buttermarkt Meydanı"
           },
           "coords": [
             9.6521,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie den Markt am Mittwoch oder Samstag für frische regionale Produkte.",
             "hu": "Szerdán és szombaton friss helyi termékekkel telik meg a tér.",
             "ro": "Vizitați piața miercuri sau sâmbătă pentru produse locale proaspete.",
-            "en": "Visit the market on Wednesday or Saturday for fresh local produce."
+            "en": "Visit the market on Wednesday or Saturday for fresh local produce.",
+            "tr": "Taze yöresel ürünler için Çarşamba veya Cumartesi günü pazarı ziyaret edin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St. Nikolai-Kirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "tr": "Aziz Nikolaus Kilisesi"
           },
           "coords": [
             9.6535,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die barocke Architektur und die historische Orgel.",
             "hu": "Csodálja meg a barokk építészetet és a történelmi orgonát.",
             "ro": "Admirați arhitectura barocă și orga istorică.",
-            "en": "Admire the baroque architecture and the historic organ."
+            "en": "Admire the baroque architecture and the historic organ.",
+            "tr": "Barok mimariye ve tarihi orga hayran kalın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Krückau-Brücke",
             "hu": "Krückau-híd",
             "ro": "Podul Krückau",
-            "en": "Krückau Bridge"
+            "en": "Krückau Bridge",
+            "tr": "Krückau Köprüsü"
           },
           "coords": [
             9.6515,
@@ -82,7 +87,8 @@
             "de": "Ein schöner Fotospot mit Blick auf den Fluss und die alten Lagerhäuser.",
             "hu": "Szép fotóhelyszín kilátással a folyóra és a régi raktárakra.",
             "ro": "Un loc excelent pentru fotografii, cu vedere la râu și depozitele vechi.",
-            "en": "A beautiful photo spot with views of the river and old warehouses."
+            "en": "A beautiful photo spot with views of the river and old warehouses.",
+            "tr": "Nehir ve eski ambarların manzaralarıyla güzel bir fotoğraf noktası."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Industriemuseum Elmshorn",
             "hu": "Elmshorni Ipari Múzeum",
             "ro": "Muzeul Industriei Elmshorn",
-            "en": "Elmshorn Industry Museum"
+            "en": "Elmshorn Industry Museum",
+            "tr": "Elmshorn Sanayi Müzesi"
           },
           "coords": [
             9.6495,
@@ -105,7 +112,8 @@
             "de": "Tauchen Sie ein in die Geschichte der Leder- und Tuchindustrie.",
             "hu": "Merüljön el a bőr- és textilipar történelmében.",
             "ro": "Descoperiți istoria industriei de piele și textile.",
-            "en": "Immerse yourself in the history of the leather and textile industry."
+            "en": "Immerse yourself in the history of the leather and textile industry.",
+            "tr": "Deri ve tekstil endüstrisinin tarihine kendinizi kaptırın."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Torhaus Elmshorn",
             "hu": "Torhaus kulturális központ",
             "ro": "Centrul cultural Torhaus",
-            "en": "Torhaus Cultural Centre"
+            "en": "Torhaus Cultural Centre",
+            "tr": "Torhaus Kültür Merkezi"
           },
           "coords": [
             9.6538,
@@ -128,7 +137,8 @@
             "de": "Oft gibt es hier wechselnde Kunstausstellungen regionaler Künstler.",
             "hu": "Gyakran láthatók itt helyi művészek időszaki kiállításai.",
             "ro": "Aici au loc adesea expoziții de artă ale artiștilor regionali.",
-            "en": "There are often rotating art exhibitions by regional artists here."
+            "en": "There are often rotating art exhibitions by regional artists here.",
+            "tr": "Burada sık sık bölgesel sanatçıların dönen sergileri olur."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Steindammpark",
             "hu": "Steindammpark",
             "ro": "Parcul Steindamm",
-            "en": "Steindamm Park"
+            "en": "Steindamm Park",
+            "tr": "Steindamm Parkı"
           },
           "coords": [
             9.6645,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie den See und den Rosengarten zum Abschluss des Tages.",
             "hu": "Élvezze a tavat és a rózsakertet a nap végén.",
             "ro": "Bucurați-vă de lac și de grădina de trandafiri la finalul zilei.",
-            "en": "Enjoy the lake and the rose garden to end your day."
+            "en": "Enjoy the lake and the rose garden to end your day.",
+            "tr": "Gününüzü göl ve gül bahçesiyle sonlandırın."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Entdecken Sie den industriellen Charme und die grünen Seiten Elmshorns zu Fuß. Der Tag beginnt im historischen Zentrum am Buttermarkt und führt durch die bewegte Industriegeschichte bis hin zum entspannten Steindammpark. Ein perfekter Mix aus Kultur, Geschichte und Natur in der größten Stadt des Kreises Pinneberg.",
         "hu": "Fedezze fel Elmshorn ipari báját és zöld oldalát gyalogosan. A nap a történelmi központban, a Buttermarkton indul, majd az ipari múzeumon keresztül vezet a pihentető Steindammparkig. A kultúra, a történelem és a természet tökéletes keveréke Pinneberg járás legnagyobb városában.",
         "ro": "Descoperiți farmecul industrial și latura verde a orașului Elmshorn la pas. Ziua începe în centrul istoric la Buttermarkt și continuă prin istoria industrială până la relaxantul Parc Steindamm. Un amestec perfect de cultură, istorie și natură în cel mai mare oraș din districtul Pinneberg.",
-        "en": "Discover the industrial charm and green sides of Elmshorn on foot. The day begins in the historic center at Buttermarkt and leads through the turbulent industrial history to the relaxing Steindamm Park. A perfect mix of culture, history, and nature in the largest city of the Pinneberg district."
+        "en": "Discover the industrial charm and green sides of Elmshorn on foot. The day begins in the historic center at Buttermarkt and leads through the turbulent industrial history to the relaxing Steindamm Park. A perfect mix of culture, history, and nature in the largest city of the Pinneberg district.",
+        "tr": "Elmshorn'un sanayi cazibesini ve yeşil yönlerini yürüyerek keşfedin. Gün tarihi merkezdeki Buttermarkt'ta başlar ve hareketli sanayi tarihinden dinlendirici Steindamm Parkı'na kadar uzanır. Pinneberg ilçesinin en büyük şehrinde kültür, tarih ve doğanın mükemmel bir karışımı."
       },
       "gastro_picks": {
         "de": [
@@ -259,6 +272,10 @@
         "en": [
           "Wear comfortable shoes as the cobblestones in the center are old.",
           "Pay attention to market days and times."
+        ],
+        "tr": [
+          "Merkezdeki kaldırım taşları eski olduğu için rahat ayakkabılar giyin.",
+          "Pazar günleri ve saatlerine dikkat edin."
         ]
       }
     },
@@ -275,7 +292,8 @@
             "de": "Wasserturm Elmshorn",
             "hu": "Elmshorni Víztorony",
             "ro": "Turnul de apă Elmshorn",
-            "en": "Elmshorn Water Tower"
+            "en": "Elmshorn Water Tower",
+            "tr": "Elmshorn Su Kulesi"
           },
           "coords": [
             9.6585,
@@ -290,7 +308,8 @@
             "de": "Ein Wahrzeichen der Stadt, das weithin sichtbar ist.",
             "hu": "A város jelképe, amely már messziről látható.",
             "ro": "Un simbol al orașului, vizibil de la distanță.",
-            "en": "A landmark of the city that is visible from afar."
+            "en": "A landmark of the city that is visible from afar.",
+            "tr": "Uzaklardan görülebilen şehir simgesi."
           }
         },
         {
@@ -298,7 +317,8 @@
             "de": "Steindammpark",
             "hu": "Steindammpark",
             "ro": "Parcul Steindamm",
-            "en": "Steindamm Park"
+            "en": "Steindamm Park",
+            "tr": "Steindamm Parkı"
           },
           "coords": [
             9.6645,
@@ -313,7 +333,8 @@
             "de": "Ideal zum Radfahren auf den gut ausgebauten Wegen.",
             "hu": "Ideális kerékpározáshoz a jól kiépített utakon.",
             "ro": "Ideal pentru ciclism pe potecile bine întreținute.",
-            "en": "Ideal for cycling on the well-maintained paths."
+            "en": "Ideal for cycling on the well-maintained paths.",
+            "tr": "Bakımlı patikalarda bisiklet için ideal."
           }
         },
         {
@@ -321,7 +342,8 @@
             "de": "Liether Wald",
             "hu": "Liether-erdő",
             "ro": "Pădurea Liether",
-            "en": "Liether Forest"
+            "en": "Liether Forest",
+            "tr": "Liether Ormanı"
           },
           "coords": [
             9.6855,
@@ -336,7 +358,8 @@
             "de": "Entdecken Sie die Liether Kalkgrube, ein nationales Geotop.",
             "hu": "Fedezze fel a Liether mészbányát, egy nemzeti jelentőségű geotópot.",
             "ro": "Descoperiți cariera de var Liether, un geotop național.",
-            "en": "Discover the Liether lime pit, a national geotope."
+            "en": "Discover the Liether lime pit, a national geotope.",
+            "tr": "Liether kireç çukurunu, ulusal bir jeotopu keşfedin."
           }
         },
         {
@@ -344,7 +367,8 @@
             "de": "Krückau-Brücke",
             "hu": "Krückau-híd",
             "ro": "Podul Krückau",
-            "en": "Krückau Bridge"
+            "en": "Krückau Bridge",
+            "tr": "Krückau Köprüsü"
           },
           "coords": [
             9.6515,
@@ -359,7 +383,8 @@
             "de": "Radeln Sie entlang des Krückau-Weges direkt ins Zentrum.",
             "hu": "Kerekezzen a Krückau-menti úton egyenesen a központba.",
             "ro": "Mergeți cu bicicleta pe poteca de-a lungul râului Krückau direct spre centru.",
-            "en": "Cycle along the Krückau path directly into the center."
+            "en": "Cycle along the Krückau path directly into the center.",
+            "tr": "Krückau yolu boyunca doğrudan merkeze bisikletle gidin."
           }
         },
         {
@@ -367,7 +392,8 @@
             "de": "Buttermarkt",
             "hu": "Vajpiac (Buttermarkt)",
             "ro": "Piața de unt",
-            "en": "Buttermarkt Square"
+            "en": "Buttermarkt Square",
+            "tr": "Buttermarkt Meydanı"
           },
           "coords": [
             9.6521,
@@ -382,7 +408,8 @@
             "de": "Stellen Sie das Rad ab und genießen Sie einen Kaffee.",
             "hu": "Tegye le a biciklit és élvezzen egy kávét.",
             "ro": "Lăsați bicicleta și savurați o cafea.",
-            "en": "Park your bike and enjoy a coffee."
+            "en": "Park your bike and enjoy a coffee.",
+            "tr": "Bisikletinizi park edip bir kahve molası verin."
           }
         },
         {
@@ -390,7 +417,8 @@
             "de": "Industriemuseum Elmshorn",
             "hu": "Elmshorni Ipari Múzeum",
             "ro": "Muzeul Industriei Elmshorn",
-            "en": "Elmshorn Industry Museum"
+            "en": "Elmshorn Industry Museum",
+            "tr": "Elmshorn Sanayi Müzesi"
           },
           "coords": [
             9.6495,
@@ -405,7 +433,8 @@
             "de": "Das Museum bietet Fahrradabstellplätze direkt vor dem Eingang.",
             "hu": "A múzeum előtt közvetlenül vannak kerékpártárolók.",
             "ro": "Muzeul oferă locuri de parcare pentru biciclete chiar în fața intrării.",
-            "en": "The museum offers bike parking right in front of the entrance."
+            "en": "The museum offers bike parking right in front of the entrance.",
+            "tr": "Müzenin girişinin hemen önünde bisiklet park yeri bulunur."
           }
         }
       ],
@@ -413,7 +442,8 @@
         "de": "Diese Fahrradtour verbindet das urbane Elmshorn mit der umliegenden Natur. Vom markanten Wasserturm geht es durch den Steindammpark bis zum geologisch spannenden Liether Wald. Die Rückfahrt führt entspannt am Flussufer der Krückau zurück in das Herz der Stadt.",
         "hu": "Ez a kerékpártúra összeköti Elmshorn városias részeit a környező természettel. A jellegzetes víztoronytól a Steindammparkon át a geológiailag izgalmas Liether-erdőig tekerhetünk. A visszaút a Krückau folyó partján vezet kényelmesen a város szívébe.",
         "ro": "Acest tur cu bicicleta combină zona urbană din Elmshorn cu natura înconjurătoare. De la turnul de apă emblematic, traseul trece prin Parcul Steindamm până la pădurea Liether, fascinantă din punct de vedere geologic. Întoarcerea pe malul râului Krückau vă aduce relaxat în inima orașului.",
-        "en": "This bike tour connects urban Elmshorn with the surrounding nature. From the striking water tower, it goes through Steindamm Park to the geologically exciting Liether Forest. The return trip leads relaxedly along the banks of the Krückau river back into the heart of the city."
+        "en": "This bike tour connects urban Elmshorn with the surrounding nature. From the striking water tower, it goes through Steindamm Park to the geologically exciting Liether Forest. The return trip leads relaxedly along the banks of the Krückau river back into the heart of the city.",
+        "tr": "Bu bisiklet turu kentsel Elmshorn'u çevredeki doğayla birleştirir. Etkileyici su kulesinden başlayarak Steindamm Parkı'ndan jeolojik açıdan heyecan verici Liether Ormanı'na gider. Dönüş yolunda Krückau nehrinin kıyıları boyunca rahatça şehir merkezine geri dönülür."
       },
       "gastro_picks": {
         "de": [
@@ -513,6 +543,10 @@
         "en": [
           "Use the Krückau hiking trails, these are open to cyclists.",
           "Be careful of pedestrians in the park."
+        ],
+        "tr": [
+          "Krückau yürüyüş yollarını kullanın, bisikletçilere açıktır.",
+          "Parkta yayalara dikkat edin."
         ]
       }
     },
@@ -529,7 +563,8 @@
             "de": "Buttermarkt (Parkplatz)",
             "hu": "Buttermarkt (Parkoló)",
             "ro": "Buttermarkt (Parcare)",
-            "en": "Buttermarkt (Parking)"
+            "en": "Buttermarkt (Parking)",
+            "tr": "Buttermarkt (Park yeri)"
           },
           "coords": [
             9.6521,
@@ -544,7 +579,8 @@
             "de": "Parken Sie zentral für den ersten Cluster-Walk.",
             "hu": "Parkoljon a központban az első séta-fürtöz.",
             "ro": "Parcați central pentru prima plimbare în grup.",
-            "en": "Park centrally for the first cluster walk."
+            "en": "Park centrally for the first cluster walk.",
+            "tr": "İlk kümelenmiş yürüyüş için merkezi olarak park edin."
           }
         },
         {
@@ -552,7 +588,8 @@
             "de": "St. Nikolai-Kirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "tr": "Aziz Nikolaus Kilisesi"
           },
           "coords": [
             9.6535,
@@ -567,7 +604,8 @@
             "de": "Zu Fuß vom Parkplatz Buttermarkt erreichbar.",
             "hu": "Gyalogosan elérhető a Buttermarkt parkolótól.",
             "ro": "Accesibil pe jos de la parcarea Buttermarkt.",
-            "en": "Accessible on foot from the Buttermarkt parking lot."
+            "en": "Accessible on foot from the Buttermarkt parking lot.",
+            "tr": "Buttermarkt otoparkından yürüyerek ulaşılabilir."
           }
         },
         {
@@ -575,7 +613,8 @@
             "de": "Industriemuseum Elmshorn",
             "hu": "Elmshorni Ipari Múzeum",
             "ro": "Muzeul Industriei Elmshorn",
-            "en": "Elmshorn Industry Museum"
+            "en": "Elmshorn Industry Museum",
+            "tr": "Elmshorn Sanayi Müzesi"
           },
           "coords": [
             9.6495,
@@ -590,7 +629,8 @@
             "de": "Kostenfreie Parkplätze direkt am Museum verfügbar.",
             "hu": "Ingyenes parkolóhelyek közvetlenül a múzeumnál.",
             "ro": "Locuri de parcare gratuite disponibile chiar la muzeu.",
-            "en": "Free parking spaces available directly at the museum."
+            "en": "Free parking spaces available directly at the museum.",
+            "tr": "Müzenin yanında doğrudan ücretsiz park alanları mevcut."
           }
         },
         {
@@ -598,7 +638,8 @@
             "de": "Torhaus Elmshorn",
             "hu": "Torhaus kulturális központ",
             "ro": "Centrul cultural Torhaus",
-            "en": "Torhaus Cultural Centre"
+            "en": "Torhaus Cultural Centre",
+            "tr": "Torhaus Kültür Merkezi"
           },
           "coords": [
             9.6538,
@@ -613,7 +654,8 @@
             "de": "Ein kurzer Spaziergang vom Museum.",
             "hu": "Rövid séta a múzeumtól.",
             "ro": "O scurtă plimbare de la muzeu.",
-            "en": "A short walk from the museum."
+            "en": "A short walk from the museum.",
+            "tr": "Müzeden kısa bir yürüyüş mesafesinde."
           }
         },
         {
@@ -621,7 +663,8 @@
             "de": "Liether Wald",
             "hu": "Liether-erdő",
             "ro": "Pădurea Liether",
-            "en": "Liether Forest"
+            "en": "Liether Forest",
+            "tr": "Liether Ormanı"
           },
           "coords": [
             9.6855,
@@ -636,7 +679,8 @@
             "de": "Großer Wanderparkplatz am Waldrand.",
             "hu": "Nagy kirándulóparkoló az erdő szélén.",
             "ro": "Parcare mare pentru drumeții la marginea pădurii.",
-            "en": "Large hiking parking lot at the edge of the forest."
+            "en": "Large hiking parking lot at the edge of the forest.",
+            "tr": "Ormanın kenarında büyük bir yürüyüş park yeri."
           }
         },
         {
@@ -644,7 +688,8 @@
             "de": "Steindammpark",
             "hu": "Steindammpark",
             "ro": "Parcul Steindamm",
-            "en": "Steindamm Park"
+            "en": "Steindamm Park",
+            "tr": "Steindamm Parkı"
           },
           "coords": [
             9.6645,
@@ -659,7 +704,8 @@
             "de": "Parken Sie am Steindamm für den letzten Cluster.",
             "hu": "Parkoljon a Steindammon az utolsó fürtöz.",
             "ro": "Parcați pe Steindamm pentru ultimul grup.",
-            "en": "Park on Steindamm for the final cluster."
+            "en": "Park on Steindamm for the final cluster.",
+            "tr": "Son küme için Steindamm'da park edin."
           }
         },
         {
@@ -667,7 +713,8 @@
             "de": "Wasserturm Elmshorn",
             "hu": "Elmshorni Víztorony",
             "ro": "Turnul de apă Elmshorn",
-            "en": "Elmshorn Water Tower"
+            "en": "Elmshorn Water Tower",
+            "tr": "Elmshorn Su Kulesi"
           },
           "coords": [
             9.6585,
@@ -682,7 +729,8 @@
             "de": "Vom Steindammpark zu Fuß erreichbar.",
             "hu": "A Steindammparkból gyalogosan elérhető.",
             "ro": "Accesibil pe jos din Parcul Steindamm.",
-            "en": "Accessible on foot from Steindamm Park."
+            "en": "Accessible on foot from Steindamm Park.",
+            "tr": "Steindamm Parkı'ndan yürüyerek ulaşılabilir."
           }
         }
       ],
@@ -690,7 +738,8 @@
         "de": "Mit dem Auto erreichen Sie bequem alle Highlights von Elmshorn, einschließlich des etwas außerhalb gelegenen Liether Waldes. Die Route nutzt das Cluster-Prinzip: Parken im Zentrum für Markt und Kirche, dann Fahrt zum Industriemuseum und zum Abschluss Natur pur im Wald und Park. Effizient und abwechslungsreich.",
         "hu": "Autóval kényelmesen elérheti Elmshorn összes látnivalóját, beleértve a kicsit távolabb eső Liether-erdőt is. Az útvonal a fürtözési elvet követi: parkolás a központban a piachoz és a templomhoz, majd autózás az ipari múzeumhoz, végül tiszta természet az erdőben és a parkban. Hatékony és változatos.",
         "ro": "Cu mașina puteți ajunge confortabil la toate punctele de atracție din Elmshorn, inclusiv la pădurea Liether, situată puțin în afara orașului. Traseul folosește principiul grupurilor: parcare în centru pentru piață și biserică, apoi deplasare la Muzeul Industriei și, la final, natură pură în pădure și parc. Eficient și variat.",
-        "en": "By car, you can comfortably reach all the highlights of Elmshorn, including the slightly outlying Liether Forest. The route uses the cluster principle: parking in the center for the market and church, then driving to the Industry Museum, and finally pure nature in the forest and park. Efficient and varied."
+        "en": "By car, you can comfortably reach all the highlights of Elmshorn, including the slightly outlying Liether Forest. The route uses the cluster principle: parking in the center for the market and church, then driving to the Industry Museum, and finally pure nature in the forest and park. Efficient and varied.",
+        "tr": "Arabayla, biraz dışarıda kalan Liether Ormanı dahil Elmshorn'un tüm önemli noktalarına rahatça ulaşabilirsiniz. Rota küme prensibini kullanır: pazar ve kilise için merkezde park, ardından Sanayi Müzesi'ne sürüş ve son olarak orman ve parkta saf doğa. Verimli ve çeşitli."
       },
       "gastro_picks": {
         "de": [
@@ -790,6 +839,10 @@
         "en": [
           "Use the parking garages in the center, as street parking is often full.",
           "In Schleswig-Holstein, parking is often free on Sundays."
+        ],
+        "tr": [
+          "Merkezdeki otoparkları kullanın, zira sokak park yerleri sık sık doludur.",
+          "Schleswig-Holstein'de pazar günleri genellikle park ücretsizdir."
         ]
       }
     },
@@ -806,7 +859,8 @@
             "de": "Bahnhof Elmshorn",
             "hu": "Elmshorn vasútállomás",
             "ro": "Gara Elmshorn",
-            "en": "Elmshorn Station"
+            "en": "Elmshorn Station",
+            "tr": "Elmshorn İstasyonu"
           },
           "coords": [
             9.6543,
@@ -821,7 +875,8 @@
             "de": "Der zentrale Knotenpunkt für alle Buslinien.",
             "hu": "A központi csomópont minden buszjárat számára.",
             "ro": "Nodul central pentru toate liniile de autobuz.",
-            "en": "The central hub for all bus lines."
+            "en": "The central hub for all bus lines.",
+            "tr": "Tüm otobüs hatlarının merkezi aktarma noktası."
           }
         },
         {
@@ -829,7 +884,8 @@
             "de": "Buttermarkt",
             "hu": "Vajpiac (Buttermarkt)",
             "ro": "Piața de unt",
-            "en": "Buttermarkt Square"
+            "en": "Buttermarkt Square",
+            "tr": "Buttermarkt Meydanı"
           },
           "coords": [
             9.6521,
@@ -844,7 +900,8 @@
             "de": "Vom Bahnhof in wenigen Minuten zu Fuß erreichbar.",
             "hu": "Az állomástól pár perc sétával elérhető.",
             "ro": "Accesibil pe jos de la gară în câteva minute.",
-            "en": "Accessible on foot from the station in a few minutes."
+            "en": "Accessible on foot from the station in a few minutes.",
+            "tr": "İstasyondan birkaç dakikalık yürüme mesafesinde."
           }
         },
         {
@@ -852,7 +909,8 @@
             "de": "Industriemuseum Elmshorn",
             "hu": "Elmshorni Ipari Múzeum",
             "ro": "Muzeul Industriei Elmshorn",
-            "en": "Elmshorn Industry Museum"
+            "en": "Elmshorn Industry Museum",
+            "tr": "Elmshorn Sanayi Müzesi"
           },
           "coords": [
             9.6495,
@@ -867,7 +925,8 @@
             "de": "Nutzen Sie die Stadtbuslinie bis zur Haltestelle 'Industriemuseum'.",
             "hu": "Használja a városi buszt az 'Industriemuseum' megállóig.",
             "ro": "Utilizați linia de autobuz urban până la stația „Industriemuseum”.",
-            "en": "Use the city bus line to the 'Industriemuseum' stop."
+            "en": "Use the city bus line to the 'Industriemuseum' stop.",
+            "tr": "'Industriemuseum' durağına giden şehir otobüsünü kullanın."
           }
         },
         {
@@ -875,7 +934,8 @@
             "de": "Steindammpark",
             "hu": "Steindammpark",
             "ro": "Parcul Steindamm",
-            "en": "Steindamm Park"
+            "en": "Steindamm Park",
+            "tr": "Steindamm Parkı"
           },
           "coords": [
             9.6645,
@@ -890,7 +950,8 @@
             "de": "Busfahrt bis zum Steindamm, danach kurzer Fußweg.",
             "hu": "Buszozás a Steindammig, majd rövid séta.",
             "ro": "Călătorie cu autobuzul până la Steindamm, apoi o scurtă plimbare.",
-            "en": "Bus ride to Steindamm, followed by a short walk."
+            "en": "Bus ride to Steindamm, followed by a short walk.",
+            "tr": "Steindamm'e otobüsle gidip ardından kısa bir yürüyüş yapın."
           }
         },
         {
@@ -898,7 +959,8 @@
             "de": "Wasserturm Elmshorn",
             "hu": "Elmshorni Víztorony",
             "ro": "Turnul de apă Elmshorn",
-            "en": "Elmshorn Water Tower"
+            "en": "Elmshorn Water Tower",
+            "tr": "Elmshorn Su Kulesi"
           },
           "coords": [
             9.6585,
@@ -913,7 +975,8 @@
             "de": "Zu Fuß vom Park aus erreichbar.",
             "hu": "A parkból gyalogosan elérhető.",
             "ro": "Accesibil pe jos din parc.",
-            "en": "Accessible on foot from the park."
+            "en": "Accessible on foot from the park.",
+            "tr": "Parktan yürüyerek erişilebilir."
           }
         },
         {
@@ -921,7 +984,8 @@
             "de": "Liether Wald",
             "hu": "Liether-erdő",
             "ro": "Pădurea Liether",
-            "en": "Liether Forest"
+            "en": "Liether Forest",
+            "tr": "Liether Ormanı"
           },
           "coords": [
             9.6855,
@@ -936,7 +1000,8 @@
             "de": "Regionale Buslinien führen in die Nähe des Waldes.",
             "hu": "Regionális buszjáratok állnak meg az erdő közelében.",
             "ro": "Liniile de autobuz regionale opresc în apropierea pădurii.",
-            "en": "Regional bus lines stop near the forest."
+            "en": "Regional bus lines stop near the forest.",
+            "tr": "Bölgesel otobüs hatları ormanın yakınında durur."
           }
         }
       ],
@@ -944,7 +1009,8 @@
         "de": "Dank des gut ausgebauten Stadtbusnetzes lässt sich Elmshorn auch ohne eigenes Fahrzeug hervorragend erkunden. Starten Sie am Bahnhof, dem Herzen der Stadt, besuchen Sie die historischen Stätten im Zentrum und lassen Sie den Tag in den weitläufigen Parks und Wäldern ausklingen, die alle gut angebunden sind.",
         "hu": "A jól kiépített városi buszhálózatnak köszönhetően Elmshorn saját jármű nélkül is kiválóan felfedezhető. Kezdjen az állomáson, a város szívében, látogassa meg a központ történelmi helyszíneit, majd zárja a napot a tágas parkokban és erdőkben, amelyek mind jól megközelíthetők.",
         "ro": "Datorită rețelei bine dezvoltate de autobuze urbane, Elmshorn poate fi explorat excelent și fără vehicul propriu. Începeți de la gară, inima orașului, vizitați siturile istorice din centru și încheiați ziua în parcurile și pădurile vaste, toate fiind bine conectate.",
-        "en": "Thanks to the well-developed city bus network, Elmshorn can be explored excellently even without your own vehicle. Start at the station, the heart of the city, visit the historic sites in the center, and end the day in the spacious parks and forests, all of which are well-connected."
+        "en": "Thanks to the well-developed city bus network, Elmshorn can be explored excellently even without your own vehicle. Start at the station, the heart of the city, visit the historic sites in the center, and end the day in the spacious parks and forests, all of which are well-connected.",
+        "tr": "Gelişmiş şehir otobüsü ağı sayesinde Elmshorn kendi arabanız olmasa bile mükemmel şekilde keşfedilebilir. Şehir merkezinin kalbi olan istasyonda başlayın, merkezdeki tarihi yerleri ziyaret edin ve günü geniş parklar ile ormanlarda sonlandırın; hepsi iyi bağlantılara sahip."
       },
       "gastro_picks": {
         "de": [
@@ -1044,6 +1110,10 @@
         "en": [
           "Download the HVV app for real-time schedules.",
           "A day ticket is usually cheaper than single trips."
+        ],
+        "tr": [
+          "Gerçek zamanlı tarifeler için HVV uygulamasını indirin.",
+          "Günlük bilet genellikle tekli yolculuklardan daha ucuzdur."
         ]
       }
     }

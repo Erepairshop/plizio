@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die Neorenaissance-Fassade des Rathauses.",
             "hu": "Csodálja meg a városháza neoreneszánsz homlokzatát.",
             "ro": "Admirați fațada neorenascentistă a primăriei.",
-            "en": "Admire the Neo-Renaissance facade of the town hall."
+            "en": "Admire the Neo-Renaissance facade of the town hall.",
+            "tr": "Belediye binasının Neo-Rönesans cephesine hayran kalın."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Achten Sie auf die modernen Glasfenster im Inneren.",
             "hu": "Figyelje meg a belső tér modern üvegablakait.",
             "ro": "Observați vitraliile moderne din interior.",
-            "en": "Look for the modern stained glass windows inside."
+            "en": "Look for the modern stained glass windows inside.",
+            "tr": "İçerideki modern vitray pencereleri arayın."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Ein ruhiger Ort für einen Spaziergang im Grünen.",
             "hu": "Csendes hely egy zöldellő sétához a város szívében.",
             "ro": "Un loc liniștit pentru o plimbare în aer liber.",
-            "en": "A peaceful spot for a walk in the greenery."
+            "en": "A peaceful spot for a walk in the greenery.",
+            "tr": "Yeşillikte yürüyüş için huzurlu bir nokta."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Entdecken Sie die Werke des berühmten Sohnes der Stadt.",
             "hu": "Fedezze fel a város híres szülöttének geometrikus műveit.",
             "ro": "Descoperiți operele celebrului fiu al orașului.",
-            "en": "Discover the works of the city's famous son, Josef Albers."
+            "en": "Discover the works of the city's famous son, Josef Albers.",
+            "tr": "Şehrin ünlü oğlu Josef Albers'in eserlerini keşfedin."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein monumentales Zeugnis der Bottroper Bergbaugeschichte.",
             "hu": "A bottropi bányászat monumentális történelmi emléke.",
             "ro": "O mărturie monumentală a istoriei miniere din Bottrop.",
-            "en": "A monumental testimony to Bottrop's mining history."
+            "en": "A monumental testimony to Bottrop's mining history.",
+            "tr": "Bottrop'un madencilik tarihine dair anıtsal bir tanıklık."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Beginnen Sie Ihren Tag am historischen Rathaus und schlendern Sie durch die Innenstadt zur Herz-Jesu-Kirche. Der Mittag führt Sie in den erholsamen Stadtgarten, wo Kunst und Natur im Josef Albers Museum verschmelzen. Den Abschluss bildet der imposante Malakoffturm, der an die stolze Bergbauvergangenheit erinnert.",
         "hu": "Kezdje a napot a történelmi városházánál, majd sétáljon át a belvároson a Jézus Szíve templomhoz. A délután a pihentető Stadtgartenbe vezet, ahol a Josef Albers Múzeumban találkozik a művészet és a természet. A túrát az impozáns Malakoff-torony zárja, amely a város büszke bányászati múltját idézi.",
         "ro": "Începeți ziua la primăria istorică și plimbați-vă prin centrul orașului până la Biserica Herz-Jesu. După-amiaza vă poartă în relaxantul Stadtgarten, unde arta și natura fuzionează în Muzeul Josef Albers. Vizita se încheie la impunătorul turn Malakoff, care amintește de mândrul trecut minier.",
-        "en": "Start your day at the historic town hall and stroll through the city center to the Herz-Jesu Church. Midday takes you to the relaxing Stadtgarten, where art and nature merge in the Josef Albers Museum. The tour concludes at the imposing Malakoff Tower, a reminder of the city's proud mining heritage."
+        "en": "Start your day at the historic town hall and stroll through the city center to the Herz-Jesu Church. Midday takes you to the relaxing Stadtgarten, where art and nature merge in the Josef Albers Museum. The tour concludes at the imposing Malakoff Tower, a reminder of the city's proud mining heritage.",
+        "tr": "Gününüzü tarihi belediye binasında başlatın ve şehir merkezinden Herz‑Jesu Kilisesi'ne yürüyün. Öğle vakti sizi Josef Albers Müzesi'nde sanat ve doğanın kaynaştığı rahatlatıcı Stadtgarten'e götürür. Tur, şehrin gururlu madencilik mirasını hatırlatan etkileyici Malakoff Kulesi'nde sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -271,6 +277,12 @@
           "Wear comfortable shoes for the park paths.",
           "Museums are usually closed on Mondays.",
           "Combine the Stadtgarten with a cafe visit."
+        ],
+        "tr": [
+          "Bottrop düzlük ve kompakt bir yapıya sahiptir, yürüyerek keşfetmek için ideal.",
+          "Park yolları için rahat ayakkabılar giyin.",
+          "Müzeler genellikle Pazartesi günleri kapalıdır.",
+          "Stadtgarten'i bir kafe ziyaretiyle birleştirin."
         ]
       }
     },
@@ -297,7 +309,8 @@
             "de": "Startpunkt im Herzen der Stadt.",
             "hu": "Kiindulópont a város szívében.",
             "ro": "Punctul de plecare din inima orașului.",
-            "en": "Starting point in the heart of the city."
+            "en": "Starting point in the heart of the city.",
+            "tr": "Şehrin kalbinde başlangıç noktası."
           }
         },
         {
@@ -315,7 +328,8 @@
             "de": "Schneller Fotostopp am Förderturm.",
             "hu": "Gyors fotómegálló a bányatoronynál.",
             "ro": "Oprire scurtă pentru poze la turnul de extracție.",
-            "en": "Quick photo stop at the winding tower."
+            "en": "Quick photo stop at the winding tower.",
+            "tr": "Kıvrımlı kulede hızlı fotoğraf molası."
           }
         },
         {
@@ -333,7 +347,8 @@
             "de": "Der Aufstieg lohnt sich für das Panorama.",
             "hu": "Megéri felmászni a panoráma miatt.",
             "ro": "Urcarea merită pentru panorama oferită.",
-            "en": "The climb is worth it for the panorama."
+            "en": "The climb is worth it for the panorama.",
+            "tr": "Tırmanış panoramaya değiyor."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Blick auf die längste Skihalle der Welt.",
             "hu": "Kilátás a világ leghosszabb fedett sípályájára.",
             "ro": "Vedere către cea mai lungă pârtie de schi indoor din lume.",
-            "en": "View of the world's longest indoor ski slope."
+            "en": "View of the world's longest indoor ski slope.",
+            "tr": "Dünyanın en uzun kapalı kayak pistinin manzarası."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Besuchen Sie das Amphitheater auf dem Gipfel.",
             "hu": "Látogassa meg a csúcson lévő amfiteátrumot.",
             "ro": "Vizitați amfiteatrul de pe culme.",
-            "en": "Visit the amphitheater on the summit."
+            "en": "Visit the amphitheater on the summit.",
+            "tr": "Zirvedeki amfitiyatroyu ziyaret edin."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Entspannter Ausklang der Radtour.",
             "hu": "A kerékpártúra pihentető lezárása.",
             "ro": "Încheiere relaxată a turului cu bicicleta.",
-            "en": "A relaxed end to the bike tour."
+            "en": "A relaxed end to the bike tour.",
+            "tr": "Bisiklet turuna rahat bir son."
           }
         }
       ],
@@ -395,7 +413,8 @@
         "de": "Erkunden Sie Bottrops industrielle Wahrzeichen auf zwei Rädern. Vom Zentrum geht es zum Tetraeder für eine atemberaubende Aussicht und weiter zum Alpincenter. Nach einer Fahrt durch das Grüne erreichen Sie die Halde Haniel mit ihrem einzigartigen Kreuzweg, bevor Sie gemütlich im Stadtgarten ausrollen.",
         "hu": "Fedezze fel Bottrop ipari jelképeit két keréken. A központból a Tetraéderhez tekerünk a lélegzetelállító kilátásért, majd az Alpincenter következik. Egy zöldebb szakasz után érjük el a Halde Hanielt és annak egyedülálló keresztútját, végül a Stadtgartenben pihenhetjük ki a túra fáradalmait.",
         "ro": "Explorați simbolurile industriale ale orașului Bottrop pe două roți. Din centru plecați spre Tetraeder pentru o priveliște uluitoare, continuând spre Alpincenter. După o tură prin natură ajungeți la Halde Haniel cu drumul său unic al crucii, înainte de a reveni relaxat în Stadtgarten.",
-        "en": "Explore Bottrop's industrial landmarks on two wheels. Head from the center to the Tetraeder for breathtaking views, then on to the Alpincenter. After a ride through the greenery, reach Halde Haniel with its unique Way of the Cross, before finishing leisurely in the Stadtgarten."
+        "en": "Explore Bottrop's industrial landmarks on two wheels. Head from the center to the Tetraeder for breathtaking views, then on to the Alpincenter. After a ride through the greenery, reach Halde Haniel with its unique Way of the Cross, before finishing leisurely in the Stadtgarten.",
+        "tr": "Bottrop'un endüstriyel simge yapılarını iki teker üzerinde keşfedin. Merkezden nefes kesen manzaralar için Tetraeder'e, sonra Alpincenter'a gidin. Yeşillikler içinden bir sürüşün ardından eşsiz İstasyonist Yolu'na sahip Halde Haniel'e ulaşın, ardından Stadtgarten'de sakin bir şekilde bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -519,6 +538,12 @@
           "Use the well-developed cycle path network of the Ruhr area.",
           "Take enough water with you for the slag heap climbs.",
           "Watch out for hikers on the shared paths."
+        ],
+        "tr": [
+          "Kömür yığınlarına tırmanışlar dik; e‑bisikletler tavsiye edilir.",
+          "Ruhr bölgesinin iyi gelişmiş bisiklet yolu ağını kullanın.",
+          "Kül yığını tırmanışları için yeterince su alın.",
+          "Paylaşılan yollarda yürüyüşçülere dikkat edin."
         ]
       }
     },
@@ -545,7 +570,8 @@
             "de": "Parken Sie im nahen Parkhaus Hansazentrum.",
             "hu": "Parkoljon a közeli Hansazentrum parkolóházban.",
             "ro": "Parcați în parcarea Hansazentrum din apropiere.",
-            "en": "Park in the nearby Hansazentrum parking garage."
+            "en": "Park in the nearby Hansazentrum parking garage.",
+            "tr": "Yakınlardaki Hansazentrum otoparkına park edin."
           }
         },
         {
@@ -563,7 +589,8 @@
             "de": "Kurzer Spaziergang vom Rathaus (Cluster A).",
             "hu": "Rövid séta a városházától (A klaszter).",
             "ro": "Scurtă plimbare de la primărie (Cluster A).",
-            "en": "Short walk from the town hall (Cluster A)."
+            "en": "Short walk from the town hall (Cluster A).",
+            "tr": "Belediye binasından kısa yürüyüş (Küme A)."
           }
         },
         {
@@ -581,7 +608,8 @@
             "de": "Parkplatz direkt unterhalb der Halde (Cluster B).",
             "hu": "Parkoló közvetlenül a meddőhányó alatt (B klaszter).",
             "ro": "Parcare chiar sub haldă (Cluster B).",
-            "en": "Parking lot directly below the heap (Cluster B)."
+            "en": "Parking lot directly below the heap (Cluster B).",
+            "tr": "Otopark doğrudan yığının altında (Küme B)."
           }
         },
         {
@@ -599,7 +627,8 @@
             "de": "Vom Tetraeder zu Fuß erreichbar (Cluster B).",
             "hu": "Gyalog is elérhető a Tetraédertől (B klaszter).",
             "ro": "Accesibil pe jos de la Tetraeder (Cluster B).",
-            "en": "Walkable from the Tetraeder (Cluster B)."
+            "en": "Walkable from the Tetraeder (Cluster B).",
+            "tr": "Tetraeder'den yürünebilir (Küme B)."
           }
         },
         {
@@ -617,7 +646,8 @@
             "de": "Großer Besucherparkplatz vorhanden (Cluster C).",
             "hu": "Nagy látogatói parkoló áll rendelkezésre (C klaszter).",
             "ro": "Parcare mare disponibilă pentru vizitatori (Cluster C).",
-            "en": "Large visitor parking available (Cluster C)."
+            "en": "Large visitor parking available (Cluster C).",
+            "tr": "Büyük ziyaretçi otoparkı mevcut (Küme C)."
           }
         },
         {
@@ -635,7 +665,8 @@
             "de": "Direkt neben dem Movie Park (Cluster C).",
             "hu": "Közvetlenül a Movie Park mellett (C klaszter).",
             "ro": "Chiar lângă Movie Park (Cluster C).",
-            "en": "Right next to Movie Park (Cluster C)."
+            "en": "Right next to Movie Park (Cluster C).",
+            "tr": "Movie Park'ın hemen yanında (Küme C)."
           }
         },
         {
@@ -653,7 +684,8 @@
             "de": "Ruhiger Abschluss zurück in der Stadt.",
             "hu": "Csendes lezárás visszaérve a városba.",
             "ro": "Final liniștit la revenirea în oraș.",
-            "en": "Quiet finish back in the city."
+            "en": "Quiet finish back in the city.",
+            "tr": "Şehre geri dönüp sessiz bir bitiş."
           }
         }
       ],
@@ -661,7 +693,8 @@
         "de": "Diese Autotour kombiniert Stadtkultur mit Freizeitspaß. Nach dem Besuch des Zentrums (Cluster A) erkunden Sie die Industriekultur am Tetraeder (Cluster B). Der Nachmittag gehört dem Movie Park im Norden (Cluster C), bevor Sie den Tag entspannt im Stadtgarten ausklingen lassen. Perfekt für Familien und Entdecker.",
         "hu": "Ez az autós túra ötvözi a városi kultúrát a szabadidős élményekkel. A központ megtekintése után (A klaszter) az ipari örökséget kutatjuk a Tetraédernél (B klaszter). A délután az északon fekvő Movie Parké (C klaszter), majd a napot a Stadtgartenben zárjuk. Ideális családoknak és felfedezőknek.",
         "ro": "Acest tur auto combină cultura urbană cu distracția. După vizitarea centrului (Cluster A), explorați cultura industrială la Tetraeder (Cluster B). După-amiaza este dedicată Movie Park din nord (Cluster C), înainte de a încheia ziua relaxat în Stadtgarten. Perfect pentru familii și exploratori.",
-        "en": "This car tour combines urban culture with leisure fun. After visiting the center (Cluster A), explore industrial culture at the Tetraeder (Cluster B). The afternoon is dedicated to Movie Park in the north (Cluster C), before ending the day relaxed in the Stadtgarten. Perfect for families and explorers."
+        "en": "This car tour combines urban culture with leisure fun. After visiting the center (Cluster A), explore industrial culture at the Tetraeder (Cluster B). The afternoon is dedicated to Movie Park in the north (Cluster C), before ending the day relaxed in the Stadtgarten. Perfect for families and explorers.",
+        "tr": "Bu araba turu kentsel kültürü eğlenceyle birleştirir. Merkez ziyareti (Küme A) sonrası endüstriyel kültürü Tetraeder'de (Küme B) keşfedin. Öğleden sonra kuzeydeki Movie Park'a (Küme C) ayrılmıştır; gün Stadtgarten'de rahat bir şekilde sona erer. Aileler ve kaşifler için mükemmel."
       },
       "gastro_picks": {
         "de": [
@@ -785,6 +818,12 @@
           "Use the A2 motorway for a quick trip north.",
           "Park at the clusters and walk the short distances.",
           "During holiday periods, arrive early at Movie Park."
+        ],
+        "tr": [
+          "Movie Park'ta otopark ücretlerine dikkat edin.",
+          "Kuzeye hızlı bir gezi için A2 otoyolunu kullanın.",
+          "Kümelere park edin ve kısa mesafeleri yürüyün.",
+          "Tatil dönemlerinde Movie Park'a erken varın."
         ]
       }
     },
@@ -811,7 +850,8 @@
             "de": "Zentraler Busbahnhof (ZOB) in Gehweite.",
             "hu": "Központi buszpályaudvar (ZOB) sétatávolságra.",
             "ro": "Autogara centrală (ZOB) la mică distanță.",
-            "en": "Central bus station (ZOB) within walking distance."
+            "en": "Central bus station (ZOB) within walking distance.",
+            "tr": "Merkezi otobüs terminali (ZOB) yürüyüş mesafesinde."
           }
         },
         {
@@ -829,7 +869,8 @@
             "de": "Kurzer Fußweg vom ZOB.",
             "hu": "Rövid séta a buszpályaudvartól.",
             "ro": "Scurtă plimbare de la autogară.",
-            "en": "Short walk from the bus station."
+            "en": "Short walk from the bus station.",
+            "tr": "Otobüs terminalinden kısa yürüyüş."
           }
         },
         {
@@ -847,7 +888,8 @@
             "de": "Mit dem Bus zur Haltestelle Im Stadtgarten.",
             "hu": "Busszal az 'Im Stadtgarten' megállóig.",
             "ro": "Cu autobuzul până la stația Im Stadtgarten.",
-            "en": "By bus to the stop 'Im Stadtgarten'."
+            "en": "By bus to the stop 'Im Stadtgarten'.",
+            "tr": "'Im Stadtgarten' durağına otobüsle ulaşım."
           }
         },
         {
@@ -865,7 +907,8 @@
             "de": "Bus 261 bis Tetraeder, dann kurzer Aufstieg.",
             "hu": "261-es busz a Tetraederig, majd rövid kaptató.",
             "ro": "Autobuzul 261 până la Tetraeder, apoi urcare scurtă.",
-            "en": "Bus 261 to Tetraeder, then a short climb."
+            "en": "Bus 261 to Tetraeder, then a short climb.",
+            "tr": "Tetraeder'e giden 261 numaralı otobüs, ardından kısa bir tırmanış."
           }
         },
         {
@@ -883,7 +926,8 @@
             "de": "Zu Fuß vom Tetraeder erreichbar.",
             "hu": "Gyalogosan elérhető a Tetraédertől.",
             "ro": "Accesibil pe jos de la Tetraeder.",
-            "en": "Walkable from the Tetraeder."
+            "en": "Walkable from the Tetraeder.",
+            "tr": "Tetraeder'den yürünebilir."
           }
         },
         {
@@ -901,7 +945,8 @@
             "de": "Rückfahrt mit dem Bus ins Grüne.",
             "hu": "Visszautazás busszal a zöldbe.",
             "ro": "Revenire cu autobuzul în zona verde.",
-            "en": "Return by bus to the green area."
+            "en": "Return by bus to the green area.",
+            "tr": "Yeşil alana dönüşte otobüsle geri dönün."
           }
         }
       ],
@@ -909,7 +954,8 @@
         "de": "Entdecken Sie Bottrop ganz entspannt mit dem Bus. Nach dem Stadtzentrum führt die Route zum Quadrat Museum. Danach geht es mit dem ÖPNV zu den Halden, wo der Tetraeder und das Alpincenter warten. Den Tag beenden Sie wieder im Stadtgarten, bevor es zurück zum ZOB geht.",
         "hu": "Fedezze fel Bottropot kényelmesen, busszal. A városközpont után az út a Quadrat Múzeumhoz vezet. Ezt követően tömegközlekedéssel utazunk a meddőhányókhoz, ahol a Tetraéder és az Alpincenter várja. A napot ismét a Stadtgartenben zárjuk, mielőtt visszatérnénk a buszpályaudvarra.",
         "ro": "Descoperiți Bottrop relaxat cu autobuzul. După centrul orașului, traseul duce la Muzeul Quadrat. Apoi continuați cu transportul public spre halde, unde vă așteaptă Tetraeder și Alpincenter. Încheiați ziua din nou în Stadtgarten înainte de revenirea la autogară.",
-        "en": "Discover Bottrop in a relaxed way by bus. After the city center, the route leads to the Quadrat Museum. Then take public transport to the slag heaps, where the Tetraeder and the Alpincenter await. End the day back in the Stadtgarten before returning to the bus station."
+        "en": "Discover Bottrop in a relaxed way by bus. After the city center, the route leads to the Quadrat Museum. Then take public transport to the slag heaps, where the Tetraeder and the Alpincenter await. End the day back in the Stadtgarten before returning to the bus station.",
+        "tr": "Bottrop'u otobüsle rahatça keşfedin. Şehir merkezinin ardından rota Quadrat Müzesi'ne gider. Sonra kamu ulaşımıyla kül yığınlarına ulaşın; burada Tetraeder ve Alpincenter sizi bekler. Günü Stadtgarten'de bitirip otobüs terminaline geri dönün."
       },
       "gastro_picks": {
         "de": [
@@ -1017,6 +1063,12 @@
           "A day ticket of price level A is usually sufficient.",
           "The ZOB is the central hub for all lines.",
           "Buses run less frequently on weekends."
+        ],
+        "tr": [
+          "Gerçek zamanlı bilgiler için Vestische uygulamasını kullanın.",
+          "A fiyat seviyesindeki bir günlük bilet genellikle yeterlidir.",
+          "ZOB tüm hatların merkezi bağlantı noktasıdır.",
+          "Otobüsler hafta sonları daha seyrek çalışır."
         ]
       }
     }

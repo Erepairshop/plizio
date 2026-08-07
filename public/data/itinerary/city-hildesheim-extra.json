@@ -21,7 +21,8 @@
             "de": "St. Michaelis Kirche",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica Sfântul Mihail",
-            "en": "St. Michael's Church"
+            "en": "St. Michael's Church",
+            "tr": "St. Michael Kilisesi"
           },
           "coords": [
             9.9431,
@@ -37,7 +38,8 @@
             "de": "Blicken Sie nach oben auf die bemalte Holzdecke aus dem 13. Jahrhundert.",
             "hu": "Nézzen fel a 13. századi festett fatemplom-mennyezetre.",
             "ro": "Priviți tavanul de lemn pictat din secolul al XIII-lea.",
-            "en": "Look up at the 13th-century painted wooden ceiling."
+            "en": "Look up at the 13th-century painted wooden ceiling.",
+            "tr": "13. yüzyıla ait boyalı ahşap tavana yukarı bakın."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Magdalenengarten",
             "hu": "Magdolna-kert",
             "ro": "Grădina Magdalenei",
-            "en": "Magdalenengarten"
+            "en": "Magdalenengarten",
+            "tr": "Magdalenengarten"
           },
           "coords": [
             9.9405,
@@ -61,7 +64,8 @@
             "de": "Einer der ältesten Klostergärten in Niedersachsen, ideal für Fotos.",
             "hu": "Alsó-Szászország egyik legrégebbi kolostorkertje, ideális fotóhelyszín.",
             "ro": "Una dintre cele mai vechi grădini monahale din Saxonia Inferioară.",
-            "en": "One of the oldest monastery gardens in Lower Saxony, perfect for photos."
+            "en": "One of the oldest monastery gardens in Lower Saxony, perfect for photos.",
+            "tr": "Aşağı Saksonya'nın en eski manastır bahçelerinden biri, fotoğraf için ideal."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Roemer- und Pelizaeus-Museum",
             "hu": "Roemer- és Pelizaeus-Múzeum",
             "ro": "Muzeul Roemer și Pelizaeus",
-            "en": "Roemer and Pelizaeus Museum"
+            "en": "Roemer and Pelizaeus Museum",
+            "tr": "Roemer ve Pelizaeus Müzesi"
           },
           "coords": [
             9.9458,
@@ -85,7 +90,8 @@
             "de": "Weltberühmt für seine altägyptische Sammlung – ein Muss.",
             "hu": "Világhírű ókori egyiptomi gyűjteménye miatt kötelező látnivaló.",
             "ro": "Renumit la nivel mondial pentru colecția sa de antichități egiptene.",
-            "en": "World-famous for its Ancient Egyptian collection – a must-see."
+            "en": "World-famous for its Ancient Egyptian collection – a must-see.",
+            "tr": "Antik Mısır koleksiyonu ile dünya çapında ünlü – görülmeye değer."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Hildesheimer Dom",
             "hu": "Hildesheimi dóm",
             "ro": "Catedrala din Hildesheim",
-            "en": "Hildesheim Cathedral"
+            "en": "Hildesheim Cathedral",
+            "tr": "Hildesheim Katedrali"
           },
           "coords": [
             9.9472,
@@ -109,7 +116,8 @@
             "de": "Besuchen Sie den 1000-jährigen Rosenstock im Kreuzgang.",
             "hu": "Keresse meg az 1000 éves rózsabokrot a kerengőben.",
             "ro": "Vizitați tufa de trandafiri de 1000 de ani din claustru.",
-            "en": "Visit the 1000-year-old rose bush in the cloister."
+            "en": "Visit the 1000-year-old rose bush in the cloister.",
+            "tr": "Manastırdaki 1000 yaşındaki güldenizi ziyaret edin."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Historischer Marktplatz",
             "hu": "Történelmi Piactér",
             "ro": "Piața istorică a orașului",
-            "en": "Historical Market Square"
+            "en": "Historical Market Square",
+            "tr": "Tarihi Pazar Meydanı"
           },
           "coords": [
             9.9517,
@@ -133,7 +142,8 @@
             "de": "Das Herz der Altstadt mit beeindruckenden Fachwerkhäusern.",
             "hu": "Az óváros szíve lenyűgöző favázas házaival.",
             "ro": "Inima centrului vechi, cu case impresionante din lemn.",
-            "en": "The heart of the old town with impressive timber-framed houses."
+            "en": "The heart of the old town with impressive timber-framed houses.",
+            "tr": "Eski şehrin kalbi, etkileyici yarı ahşap evlerle çevrili."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Knochenhaueramtshaus",
             "hu": "Mészárosok céhháza",
             "ro": "Casa breslei măcelarilor",
-            "en": "Butchers Guild Hall"
+            "en": "Butchers Guild Hall",
+            "tr": "Kasaplar Lonca Salonu"
           },
           "coords": [
             9.9516,
@@ -157,7 +168,8 @@
             "de": "Eines der schönsten Fachwerkhäuser der Welt – genießen Sie den Anblick.",
             "hu": "A világ egyik legszebb favázas háza, tökéletes kávézóhelyszín.",
             "ro": "Una dintre cele mai frumoase clădiri cu bârne din lume.",
-            "en": "One of the most beautiful half-timbered houses in the world."
+            "en": "One of the most beautiful half-timbered houses in the world.",
+            "tr": "Dünyanın en güzel yarı ahşap binalarından biri."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Entdecken Sie Hildesheim zu Fuß, beginnend bei den UNESCO-Welterbestätten. Der Vormittag gehört der Architektur von St. Michaelis und der Ruhe des Magdalenengartens. Nach dem Eintauchen in die ägyptische Geschichte im Museum führt der Weg zum Dom mit seiner berühmten Rose. Der Tag endet prachtvoll auf dem Marktplatz inmitten historischer Fachwerk-Architektur.",
         "hu": "Fedezze fel Hildesheimet gyalogosan, az UNESCO világörökségi helyszíneit érintve. A délelőtt a Szent Mihály-templom építészeti remekeit és a Magdolna-kert nyugalmát kínálja. A múzeumi egyiptomi tárlat után a dóm ezeréves rózsabokrához vezet az út. A nap a Piactér pazar favázas épületei között, egy hangulatos kávézóban ér véget.",
         "ro": "Descoperiți Hildesheim pe jos, începând cu siturile UNESCO. Dimineața este dedicată arhitecturii Bisericii Sf. Mihail și liniștii din Grădina Magdalenei. După o incursiune în istoria egipteană la muzeu, drumul duce la Catedrală și trandafirul său legendar. Ziua se încheie glorios în Piața Mare, înconjurată de casele istorice cu bârne de lemn.",
-        "en": "Explore Hildesheim on foot, starting with its UNESCO World Heritage sites. The morning is dedicated to the architecture of St. Michael's and the tranquility of Magdalenengarten. After diving into Egyptian history at the museum, head to the Cathedral and its legendary rose bush. The day ends grandly at the Market Square, surrounded by historic half-timbered architecture."
+        "en": "Explore Hildesheim on foot, starting with its UNESCO World Heritage sites. The morning is dedicated to the architecture of St. Michael's and the tranquility of Magdalenengarten. After diving into Egyptian history at the museum, head to the Cathedral and its legendary rose bush. The day ends grandly at the Market Square, surrounded by historic half-timbered architecture.",
+        "tr": "Hildesheim'i yürüyerek keşfedin; UNESCO Dünya Mirası siteleriyle başlayın. Sabah St. Michael'in mimarisine ve Magdalenengarten'in sükunetine ayrılmalı. Müzede Mısır tarihine daldıktan sonra Katedral ve efsanevi güldenize geçin. Gün, tarihi yarı ahşap binalarla çevrili Pazar Meydanı'nda görkemli bir şekilde sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -309,6 +322,12 @@
           "Look for the World Heritage plaques on the ground that guide the way.",
           "Entry to the Cathedral is free, but the Cathedral Museum has a fee.",
           "Most sights are closed on Mondays."
+        ],
+        "tr": [
+          "Eski şehirdeki kaldırım taşları için rahat ayakkabılar giyin.",
+          "Yolu gösteren zemin üzerindeki Dünya Mirası levhalarını arayın.",
+          "Katedrale giriş ücretsizdir, ancak Katedral Müzesi ücretlidir.",
+          "Çoğu turistik yer pazartesi günleri kapalıdır."
         ]
       }
     },
@@ -325,7 +344,8 @@
             "de": "St. Michaelis Kirche",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica Sfântul Mihail",
-            "en": "St. Michael's Church"
+            "en": "St. Michael's Church",
+            "tr": "St. Michael Kilisesi"
           },
           "coords": [
             9.9431,
@@ -341,7 +361,8 @@
             "de": "Fahrradständer befinden sich direkt am Fuße des Michaelishügels.",
             "hu": "Kerékpártárolók közvetlenül a domb alján találhatók.",
             "ro": "Rasteluri de biciclete se află chiar la baza dealului Sf. Mihail.",
-            "en": "Bicycle racks are located directly at the foot of St. Michael's Hill."
+            "en": "Bicycle racks are located directly at the foot of St. Michael's Hill.",
+            "tr": "Bisiklet park yerleri doğrudan St. Michael Tepesi'nin eteğinde bulunur."
           }
         },
         {
@@ -349,7 +370,8 @@
             "de": "Magdalenengarten",
             "hu": "Magdolna-kert",
             "ro": "Grădina Magdalenei",
-            "en": "Magdalenengarten"
+            "en": "Magdalenengarten",
+            "tr": "Magdalenengarten"
           },
           "coords": [
             9.9405,
@@ -365,7 +387,8 @@
             "de": "In den Gärten bitte schieben, nicht fahren.",
             "hu": "A kertben kérjük tolja a kerékpárt, ne tekerjen.",
             "ro": "Vă rugăm să mergeți pe lângă bicicletă în interiorul grădinii.",
-            "en": "Please push your bike inside the gardens, no riding."
+            "en": "Please push your bike inside the gardens, no riding.",
+            "tr": "Bahçelerin içinde lütfen bisikletinizi iterek ilerleyin, sürmeyin."
           }
         },
         {
@@ -373,7 +396,8 @@
             "de": "Hildesheimer Dom",
             "hu": "Hildesheimi dóm",
             "ro": "Catedrala din Hildesheim",
-            "en": "Hildesheim Cathedral"
+            "en": "Hildesheim Cathedral",
+            "tr": "Hildesheim Katedrali"
           },
           "coords": [
             9.9472,
@@ -389,7 +413,8 @@
             "de": "UNESCO-Weltkulturerbe mit den Bernwardstüren.",
             "hu": "UNESCO világörökség a híres Bernward-kapukkal.",
             "ro": "Patrimoniu UNESCO cu celebrele porți Bernward.",
-            "en": "UNESCO World Heritage site featuring the Bernward Doors."
+            "en": "UNESCO World Heritage site featuring the Bernward Doors.",
+            "tr": "Bernward Kapıları'nı içeren UNESCO Dünya Mirası alanı."
           }
         },
         {
@@ -397,7 +422,8 @@
             "de": "Basilika St. Godehard",
             "hu": "Szent Godehard-bazilika",
             "ro": "Bazilica Sfântul Godehard",
-            "en": "St. Godehard's Basilica"
+            "en": "St. Godehard's Basilica",
+            "tr": "St. Godehard Bazilikası"
           },
           "coords": [
             9.95,
@@ -413,7 +439,8 @@
             "de": "Eine fast unveränderte romanische Basilika.",
             "hu": "Egy szinte változatlan formában fennmaradt román kori bazilika.",
             "ro": "O bazilică romanică aproape neschimbată.",
-            "en": "An almost unchanged Romanesque basilica."
+            "en": "An almost unchanged Romanesque basilica.",
+            "tr": "Neredeyse değişmemiş bir Romanesk bazilika."
           }
         },
         {
@@ -421,7 +448,8 @@
             "de": "Kehrwiederturm",
             "hu": "Kehrwieder-torony",
             "ro": "Turnul Kehrwieder",
-            "en": "Kehrwieder Tower"
+            "en": "Kehrwieder Tower",
+            "tr": "Kehrwieder Kulesi"
           },
           "coords": [
             9.9525,
@@ -437,7 +465,8 @@
             "de": "Der letzte erhaltene Turm der mittelalterlichen Stadtbefestigung.",
             "hu": "A középkori városfal utolsó épségben maradt tornya.",
             "ro": "Ultimul turn rămas din fortificațiile medievale ale orașului.",
-            "en": "The last remaining tower of the medieval city fortifications."
+            "en": "The last remaining tower of the medieval city fortifications.",
+            "tr": "Ortaçağ şehir surlarının kalan son kulesi."
           }
         },
         {
@@ -445,7 +474,8 @@
             "de": "Historischer Marktplatz",
             "hu": "Történelmi Piactér",
             "ro": "Piața istorică a orașului",
-            "en": "Historical Market Square"
+            "en": "Historical Market Square",
+            "tr": "Tarihi Pazar Meydanı"
           },
           "coords": [
             9.9517,
@@ -461,7 +491,8 @@
             "de": "Ideal für eine Mittagspause mit Blick auf die Fassaden.",
             "hu": "Ideális egy ebédszünethez a homlokzatok bűvöletében.",
             "ro": "Ideal pentru o pauză de prânz cu vedere la fațade.",
-            "en": "Ideal for a lunch break with a view of the facades."
+            "en": "Ideal for a lunch break with a view of the facades.",
+            "tr": "Cephelerin manzarası eşliğinde öğle molası için ideal."
           }
         },
         {
@@ -469,7 +500,8 @@
             "de": "Hohnsensee",
             "hu": "Hohnsensee",
             "ro": "Lacul Hohnsensee",
-            "en": "Hohnsensee"
+            "en": "Hohnsensee",
+            "tr": "Hohnsensee"
           },
           "coords": [
             9.955,
@@ -485,7 +517,8 @@
             "de": "Entspannen Sie am Seeufer nach der Stadttour.",
             "hu": "Pihenjen a tóparton a városnézés után.",
             "ro": "Relaxați-vă pe malul lacului după turul orașului.",
-            "en": "Relax by the lakeshore after your city tour."
+            "en": "Relax by the lakeshore after your city tour.",
+            "tr": "Kent turunuzun ardından göl kıyısında dinlenin."
           }
         }
       ],
@@ -493,7 +526,8 @@
         "de": "Erfahren Sie Hildesheim auf zwei Rädern. Diese Route verbindet die kulturellen Highlights im Zentrum mit einer entspannten Fahrt zum Hohnsensee. Vom Michaelishügel über den Dom bis zum Kehrwiederturm entdecken Sie die Geschichte der Stadt effizient und aktiv. Der Abschluss am See bietet Natur pur direkt vor den Toren der Stadt.",
         "hu": "Fedezze fel Hildesheimet két keréken. Ez az útvonal összeköti a belváros kulturális fénypontjait egy pihentető tekeréssel a Hohnsensee-tóhoz. A Szent Mihály-dombtól a dóm érintésével a Kehrwieder-toronyig hatékonyan és aktívan ismerheti meg a város történelmét. A tóparti befejezés igazi kikapcsolódást nyújt a város kapujában.",
         "ro": "Explorați Hildesheim pe două roți. Acest traseu combină atracțiile culturale din centru cu o plimbare relaxantă spre lacul Hohnsensee. De la dealul Sf. Mihail, trecând pe la Catedrală până la Turnul Kehrwieder, veți descoperi istoria orașului în mod eficient și activ. Finalul la lac oferă natură pură chiar la porțile orașului.",
-        "en": "Experience Hildesheim on two wheels. This route connects the cultural highlights in the center with a relaxing ride to Hohnsensee lake. From St. Michael's Hill to the Cathedral and the Kehrwieder Tower, you'll discover the city's history efficiently and actively. The finish at the lake offers pure nature right at the city's doorstep."
+        "en": "Experience Hildesheim on two wheels. This route connects the cultural highlights in the center with a relaxing ride to Hohnsensee lake. From St. Michael's Hill to the Cathedral and the Kehrwieder Tower, you'll discover the city's history efficiently and actively. The finish at the lake offers pure nature right at the city's doorstep.",
+        "tr": "Hildesheim'i iki teker üzerinde deneyimleyin. Bu rota merkezdeki kültürel noktaları Hohnsensee gölüne keyifli bir sürüşle bağlıyor. St. Michael Tepesi'nden Katedral ve Kehrwieder Kulesi'ne kadar şehrin tarihini verimli ve aktif biçimde keşfedeceksiniz. Göldeki bitiş, şehrin kapısında saf doğa sunar."
       },
       "gastro_picks": {
         "de": [
@@ -597,6 +631,11 @@
           "Many one-way streets in the old town are open to cyclists in both directions.",
           "Use the bike paths along the Innerste river for a scenic, green ride.",
           "Lock your bike at official racks, especially around the Market Square."
+        ],
+        "tr": [
+          "Eski şehirdeki birçok tek yönlü sokak bisikletçiler için iki yönlü açıktır.",
+          "Manzara ve yeşillik için Innerste nehri boyunca bisiklet yollarını kullanın.",
+          "Bisikletinizi özellikle Pazar Meydanı çevresinde resmi park yerlerine kilitleyin."
         ]
       }
     },
@@ -613,7 +652,8 @@
             "de": "Parkhaus Zentrum (Cluster A Start)",
             "hu": "Belvárosi parkolóház",
             "ro": "Parcare Centru",
-            "en": "City Center Parking"
+            "en": "City Center Parking",
+            "tr": "Şehir Merkezi Otoparkı"
           },
           "coords": [
             9.953,
@@ -629,7 +669,8 @@
             "de": "Zentraler Ausgangspunkt für den Stadtrundgang.",
             "hu": "Központi kiindulópont a városnézéshez.",
             "ro": "Punct de plecare central pentru turul orașului.",
-            "en": "Central starting point for your city walk."
+            "en": "Central starting point for your city walk.",
+            "tr": "Şehir yürüyüşünüz için merkezi başlangıç noktası."
           }
         },
         {
@@ -637,7 +678,8 @@
             "de": "Historischer Marktplatz",
             "hu": "Történelmi Piactér",
             "ro": "Piața istorică a orașului",
-            "en": "Historical Market Square"
+            "en": "Historical Market Square",
+            "tr": "Tarihi Pazar Meydanı"
           },
           "coords": [
             9.9517,
@@ -653,7 +695,8 @@
             "de": "Bewundern Sie das Knochenhaueramtshaus am Morgen.",
             "hu": "Csodálja meg a Mészárosok céhházát reggeli fényben.",
             "ro": "Admirați Casa breslei măcelarilor în lumina dimineții.",
-            "en": "Admire the Butchers Guild Hall in the morning light."
+            "en": "Admire the Butchers Guild Hall in the morning light.",
+            "tr": "Kasaplar Lonca Salonu'nu sabah ışığında hayranlıkla izleyin."
           }
         },
         {
@@ -661,7 +704,8 @@
             "de": "Hildesheimer Dom",
             "hu": "Hildesheimi dóm",
             "ro": "Catedrala din Hildesheim",
-            "en": "Hildesheim Cathedral"
+            "en": "Hildesheim Cathedral",
+            "tr": "Hildesheim Katedrali"
           },
           "coords": [
             9.9472,
@@ -677,7 +721,8 @@
             "de": "Kurzer Spaziergang vom Marktplatz zum Domhügel.",
             "hu": "Rövid séta a Piactértől a Dóm-dombig.",
             "ro": "Scurtă plimbare de la Piața Mare la dealul Catedralei.",
-            "en": "Short walk from the Market Square to Cathedral Hill."
+            "en": "Short walk from the Market Square to Cathedral Hill.",
+            "tr": "Pazar Meydanı'ndan Katedral Tepesi'ne kısa yürüyüş."
           }
         },
         {
@@ -685,7 +730,8 @@
             "de": "St. Michaelis Kirche (Cluster B)",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica Sfântul Mihail",
-            "en": "St. Michael's Church"
+            "en": "St. Michael's Church",
+            "tr": "St. Michael Kilisesi"
           },
           "coords": [
             9.9431,
@@ -701,7 +747,8 @@
             "de": "Parkplatz direkt unterhalb der Kirche nutzen.",
             "hu": "Használja a közvetlenül a templom alatti parkolót.",
             "ro": "Folosiți parcarea aflată chiar sub biserică.",
-            "en": "Use the parking lot directly below the church."
+            "en": "Use the parking lot directly below the church.",
+            "tr": "Kilisenin hemen altındaki otoparkı kullanın."
           }
         },
         {
@@ -709,7 +756,8 @@
             "de": "Magdalenengarten",
             "hu": "Magdolna-kert",
             "ro": "Grădina Magdalenei",
-            "en": "Magdalenengarten"
+            "en": "Magdalenengarten",
+            "tr": "Magdalenengarten"
           },
           "coords": [
             9.9405,
@@ -725,7 +773,8 @@
             "de": "Perfekt für einen ruhigen Spaziergang nach der Besichtigung.",
             "hu": "Tökéletes egy csendes sétához a templomlátogatás után.",
             "ro": "Perfect pentru o plimbare liniștită după vizitarea bisericii.",
-            "en": "Perfect for a quiet stroll after the church visit."
+            "en": "Perfect for a quiet stroll after the church visit.",
+            "tr": "Kilise ziyaretinin ardından sakin bir gezinti için ideal."
           }
         },
         {
@@ -733,7 +782,8 @@
             "de": "Basilika St. Godehard (Cluster C)",
             "hu": "Szent Godehard-bazilika",
             "ro": "Bazilica Sfântul Godehard",
-            "en": "St. Godehard's Basilica"
+            "en": "St. Godehard's Basilica",
+            "tr": "St. Godehard Bazilikası"
           },
           "coords": [
             9.95,
@@ -749,7 +799,8 @@
             "de": "Parken in der Nähe des Godehardplatzes.",
             "hu": "Parkolás a Godehardplatz közelében.",
             "ro": "Parcare în apropiere de Godehardplatz.",
-            "en": "Parking near Godehardplatz."
+            "en": "Parking near Godehardplatz.",
+            "tr": "Godehardplatz yakınında otopark."
           }
         },
         {
@@ -757,7 +808,8 @@
             "de": "Kehrwiederturm",
             "hu": "Kehrwieder-torony",
             "ro": "Turnul Kehrwieder",
-            "en": "Kehrwieder Tower"
+            "en": "Kehrwieder Tower",
+            "tr": "Kehrwieder Kulesi"
           },
           "coords": [
             9.9525,
@@ -773,7 +825,8 @@
             "de": "Spaziergang durch das Godehardiviertel.",
             "hu": "Séta a Godehardi-negyeden keresztül.",
             "ro": "Plimbare prin cartierul Godehardi.",
-            "en": "A walk through the Godehardi quarter."
+            "en": "A walk through the Godehardi quarter.",
+            "tr": "Godehardi mahallesinde bir yürüyüş."
           }
         },
         {
@@ -781,7 +834,8 @@
             "de": "Schloss Marienburg (Optionaler Trip)",
             "hu": "Marienburg kastély",
             "ro": "Castelul Marienburg",
-            "en": "Marienburg Castle"
+            "en": "Marienburg Castle",
+            "tr": "Marienburg Şatosu"
           },
           "coords": [
             9.766,
@@ -797,7 +851,8 @@
             "de": "Nur 15-20 Min Fahrt für einen tollen Blick von außen.",
             "hu": "Csak 15-20 perc autóút a fantasztikus külső kilátásért.",
             "ro": "Doar 15-20 min de mers cu mașina pentru o vedere exterioară superbă.",
-            "en": "Just a 15-20 min drive for a great exterior view."
+            "en": "Just a 15-20 min drive for a great exterior view.",
+            "tr": "Muhteşem dış görünüşü için sadece 15–20 dakikalık sürüş mesafesinde."
           }
         }
       ],
@@ -805,7 +860,8 @@
         "de": "Nutzen Sie das Auto, um die verschiedenen historischen Cluster Hildesheims bequem zu erreichen. Beginnen Sie im Zentrum (Marktplatz/Dom), fahren Sie dann zum Michaelishügel und weiter zum Godehardiviertel. Durch das Parken an strategischen Punkten minimieren Sie Fußwege zwischen den Vierteln, genießen aber dennoch die Atmosphäre der UNESCO-Stätten zu Fuß.",
         "hu": "Használja autóját Hildesheim különböző történelmi negyedeinek kényelmes eléréséhez. Kezdjen a központban (Piactér/Dóm), majd hajtson a Szent Mihály-dombhoz és tovább a Godehardi-negyedbe. Stratégiai pontokon parkolva minimalizálhatja a gyaloglást a távolabbi pontok között, mégis testközelből élvezheti az UNESCO helyszínek hangulatát.",
         "ro": "Folosiți mașina pentru a ajunge confortabil la diferitele clustere istorice din Hildesheim. Începeți în centru (Piața Mare/Catedrală), apoi conduceți spre dealul Sf. Mihail și mai departe spre cartierul Godehardi. Parcând în puncte strategice, minimizați mersul pe jos între districte, bucurându-vă totodată de atmosfera siturilor UNESCO.",
-        "en": "Use your car to conveniently reach Hildesheim's various historic clusters. Start in the center (Market Square/Cathedral), then drive to St. Michael's Hill and on to the Godehardi quarter. By parking at strategic points, you minimize walking between districts while still enjoying the atmosphere of the UNESCO sites on foot."
+        "en": "Use your car to conveniently reach Hildesheim's various historic clusters. Start in the center (Market Square/Cathedral), then drive to St. Michael's Hill and on to the Godehardi quarter. By parking at strategic points, you minimize walking between districts while still enjoying the atmosphere of the UNESCO sites on foot.",
+        "tr": "Arabayı kullanarak Hildesheim'in çeşitli tarihi kümelerine rahatça ulaşın. Merkezde (Pazar Meydanı/Katedral) başlayın, ardından St. Michael Tepesi'ne ve Godehardi mahallesine gidin. Stratejik noktalara park ederek semtler arasındaki yürüme mesafesini azaltırken UNESCO alanlarının atmosferinin tadını yürüyerek çıkarabilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -909,6 +965,11 @@
           "Use the parking guidance system to find available spots in garages.",
           "Parking fees downtown are moderate, but a parking disc is often required.",
           "Avoid rush hour around the Berliner Kreisel roundabout."
+        ],
+        "tr": [
+          "Garajlarda boş yer bulmak için otopark yönlendirme sistemini kullanın.",
+          "Şehir merkezinde otopark ücretleri ılımlıdır, ancak sık sık park saati diski gereklidir.",
+          "Berliner Kreisel kavşağı çevresinde yoğun saatlerden kaçının."
         ]
       }
     },
@@ -925,7 +986,8 @@
             "de": "Hauptbahnhof Hildesheim",
             "hu": "Hildesheim főpályaudvar",
             "ro": "Gara Centrală Hildesheim",
-            "en": "Hildesheim Main Station"
+            "en": "Hildesheim Main Station",
+            "tr": "Hildesheim Ana İstasyonu"
           },
           "coords": [
             9.954,
@@ -941,7 +1003,8 @@
             "de": "Startpunkt für Busse in alle Richtungen.",
             "hu": "Kiindulópont minden irányba induló buszjáratokhoz.",
             "ro": "Punct de plecare pentru autobuze în toate direcțiile.",
-            "en": "Starting point for buses in all directions."
+            "en": "Starting point for buses in all directions.",
+            "tr": "Her yöne giden otobüslerin başlangıç noktası."
           }
         },
         {
@@ -949,7 +1012,8 @@
             "de": "Historischer Marktplatz (Bus 1/5)",
             "hu": "Történelmi Piactér",
             "ro": "Piața istorică a orașului",
-            "en": "Historical Market Square"
+            "en": "Historical Market Square",
+            "tr": "Tarihi Pazar Meydanı"
           },
           "coords": [
             9.9517,
@@ -965,7 +1029,8 @@
             "de": "Ausstieg Haltestelle 'Schuhstraße' oder 'City'.",
             "hu": "Szálljon le a 'Schuhstraße' vagy 'City' megállónál.",
             "ro": "Coborâți la stația 'Schuhstraße' sau 'City'.",
-            "en": "Get off at 'Schuhstraße' or 'City' stop."
+            "en": "Get off at 'Schuhstraße' or 'City' stop.",
+            "tr": "'Schuhstraße' veya 'City' durağında inin."
           }
         },
         {
@@ -973,7 +1038,8 @@
             "de": "Hildesheimer Dom",
             "hu": "Hildesheimi dóm",
             "ro": "Catedrala din Hildesheim",
-            "en": "Hildesheim Cathedral"
+            "en": "Hildesheim Cathedral",
+            "tr": "Hildesheim Katedrali"
           },
           "coords": [
             9.9472,
@@ -989,7 +1055,8 @@
             "de": "Kurzer Fußweg vom Marktplatz.",
             "hu": "Rövid séta a Piactértől.",
             "ro": "Scurtă plimbare de la Piața Mare.",
-            "en": "Short walk from the Market Square."
+            "en": "Short walk from the Market Square.",
+            "tr": "Pazar Meydanı'ndan kısa yürüyüş."
           }
         },
         {
@@ -997,7 +1064,8 @@
             "de": "St. Michaelis Kirche",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica Sfântul Mihail",
-            "en": "St. Michael's Church"
+            "en": "St. Michael's Church",
+            "tr": "St. Michael Kilisesi"
           },
           "coords": [
             9.9431,
@@ -1013,7 +1081,8 @@
             "de": "Haltestelle 'Michaeliskirche' direkt vor dem Hügel.",
             "hu": "'Michaeliskirche' megálló közvetlenül a domb előtt.",
             "ro": "Stația 'Michaeliskirche' chiar în fața dealului.",
-            "en": "'Michaeliskirche' stop right in front of the hill."
+            "en": "'Michaeliskirche' stop right in front of the hill.",
+            "tr": "'Michaeliskirche' durağı tam tepenin önünde."
           }
         },
         {
@@ -1021,7 +1090,8 @@
             "de": "Roemer- und Pelizaeus-Museum",
             "hu": "Roemer- és Pelizaeus-Múzeum",
             "ro": "Muzeul Roemer și Pelizaeus",
-            "en": "Roemer and Pelizaeus Museum"
+            "en": "Roemer and Pelizaeus Museum",
+            "tr": "Roemer ve Pelizaeus Müzesi"
           },
           "coords": [
             9.9458,
@@ -1037,7 +1107,8 @@
             "de": "Vom Michaelishügel bequem zu Fuß erreichbar.",
             "hu": "A Szent Mihály-dombtól kényelmesen elérhető gyalog.",
             "ro": "Accesibil ușor pe jos de la dealul Sf. Mihail.",
-            "en": "Easily accessible on foot from St. Michael's Hill."
+            "en": "Easily accessible on foot from St. Michael's Hill.",
+            "tr": "St. Michael Tepesi'nden kolayca yürüyüşle ulaşılabilir."
           }
         },
         {
@@ -1045,7 +1116,8 @@
             "de": "Kehrwiederturm",
             "hu": "Kehrwieder-torony",
             "ro": "Turnul Kehrwieder",
-            "en": "Kehrwieder Tower"
+            "en": "Kehrwieder Tower",
+            "tr": "Kehrwieder Kulesi"
           },
           "coords": [
             9.9525,
@@ -1061,7 +1133,8 @@
             "de": "Haltestelle 'Wollenweberstraße' nutzen.",
             "hu": "Használja a 'Wollenweberstraße' megállót.",
             "ro": "Folosiți stația 'Wollenweberstraße'.",
-            "en": "Use the 'Wollenweberstraße' stop."
+            "en": "Use the 'Wollenweberstraße' stop.",
+            "tr": "'Wollenweberstraße' durağını kullanın."
           }
         }
       ],
@@ -1069,7 +1142,8 @@
         "de": "Erkunden Sie Hildesheim stressfrei mit dem Stadtbus. Das dichte Netz verbindet den Hauptbahnhof schnell mit dem Marktplatz und den UNESCO-Kirchen. Diese Route minimiert lange Fußwege und bringt Sie direkt zu den Toren der bedeutendsten Sehenswürdigkeiten. Ideal für Besucher, die den Komfort des öffentlichen Nahverkehrs schätzen.",
         "hu": "Fedezze fel Hildesheimet stresszmentesen a városi buszokkal. A sűrű hálózat gyorsan összeköti a főpályaudvart a Piactérrel és az UNESCO-templomokkal. Ez az útvonal minimalizálja a hosszú gyaloglásokat, és közvetlenül a legjelentősebb látnivalók kapujához viszi Önt. Ideális választás a tömegközlekedés kényelmét kedvelőknek.",
         "ro": "Explorați Hildesheim fără stres folosind autobuzele urbane. Rețeaua densă conectează rapid gara centrală cu Piața Mare și bisericile UNESCO. Acest traseu minimizează mersul pe jos pe distanțe lungi și vă duce direct la porțile celor mai importante obiective turistice. Ideal pentru vizitatorii care apreciază confortul transportului public.",
-        "en": "Explore Hildesheim stress-free with the city bus. The dense network quickly connects the main station with the Market Square and the UNESCO churches. This route minimizes long walks and takes you directly to the gates of the most important sights. Ideal for visitors who appreciate the convenience of public transport."
+        "en": "Explore Hildesheim stress-free with the city bus. The dense network quickly connects the main station with the Market Square and the UNESCO churches. This route minimizes long walks and takes you directly to the gates of the most important sights. Ideal for visitors who appreciate the convenience of public transport.",
+        "tr": "Şehir otobüsü ile Hildesheim'i stressiz keşfedin. Yoğun ağ ana istasyonu Pazar Meydanı ve UNESCO kiliselerine hızlıca bağlar. Bu rota uzun yürüyüşleri en aza indirir ve en önemli görülecek yerlerin kapılarına doğrudan götürür. Toplu taşımayı konforlu bulan ziyaretçiler için ideal."
       },
       "gastro_picks": {
         "de": [
@@ -1173,6 +1247,11 @@
           "Buy a day ticket for tariff zone HI; it's cheaper than single tickets.",
           "The SVHI app provides real-time departure times for all lines.",
           "Almost all buses stop at the central transfer point 'Schuhstraße'."
+        ],
+        "tr": [
+          "HI tarif bölgesi için günlük bilet alın; tekli biletlerden daha ucuzdur.",
+          "SVHI uygulaması tüm hatların gerçek zamanlı kalkış saatlerini sağlar.",
+          "Neredeyse tüm otobüsler merkezi aktarma noktası 'Schuhstraße' durağında durur."
         ]
       }
     }

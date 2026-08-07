@@ -3,55 +3,64 @@
     "de": "Panoramastraße 1A, 10178 Berlin",
     "hu": "Panoramastraße 1A, 10178 Berlin",
     "ro": "Panoramastraße 1A, 10178 Berlin",
-    "en": "Panoramastraße 1A, 10178 Berlin"
+    "en": "Panoramastraße 1A, 10178 Berlin",
+    "tr": "Panoramastraße 1A, 10178 Berlin"
   },
   "openingHours": {
     "de": "Mär-Okt 09:00-23:00, Nov-Feb 10:00-23:00",
     "hu": "Márc-Okt 09:00-23:00, Nov-Feb 10:00-23:00",
     "ro": "Mar-Oct 09:00-23:00, Noi-Feb 10:00-23:00",
-    "en": "Mar-Oct 09:00-23:00, Nov-Feb 10:00-23:00"
+    "en": "Mar-Oct 09:00-23:00, Nov-Feb 10:00-23:00",
+    "tr": "Mar-Eki 09:00-23:00, Kas-Şub 10:00-23:00"
   },
   "entranceFee": {
     "de": "ca. 25,00 € - 30,00 € (je nach Ticket-Typ)",
     "hu": "kb. 25,00 € - 30,00 € (jegytípustól függően)",
     "ro": "aprox. 25,00 € - 30,00 € (în funcție de tipul de bilet)",
-    "en": "approx. €25.00 - €30.00 (depending on ticket type)"
+    "en": "approx. €25.00 - €30.00 (depending on ticket type)",
+    "tr": "yaklaşık €25,00 - €30,00 (bilet türüne bağlı)"
   },
   "website": "https://tv-turm.de",
   "publicTransport": {
     "de": "S-Bahn/U-Bahn/Tram Alexanderplatz",
     "hu": "S-Bahn/U-Bahn/Villamos Alexanderplatz",
     "ro": "S-Bahn/U-Bahn/Tramvai Alexanderplatz",
-    "en": "S-Bahn/U-Bahn/Tram Alexanderplatz"
+    "en": "S-Bahn/U-Bahn/Tram Alexanderplatz",
+    "tr": "S-Bahn/U-Bahn/Tram Alexanderplatz"
   },
   "parking": {
     "de": "Parkhaus Alexa Mall, ca. 2,00 €/h, 10 Minuten Fußweg",
     "hu": "Alexa bevásárlóközpont parkolója, kb. 2,00 €/óra, 10 perc séta",
     "ro": "Parcare centrul comercial Alexa, aprox. 2,00 €/h, 10 minute de mers pe jos",
-    "en": "Alexa Mall parking garage, approx. €2.00/h, 10-minute walk"
+    "en": "Alexa Mall parking garage, approx. €2.00/h, 10-minute walk",
+    "tr": "Alexa Alışveriş Merkezi otoparkı, yaklaşık €2,00/saat, 10 dakikalık yürüyüş"
   },
   "accessibility": {
     "de": "Nicht barrierefrei für Rollstuhlfahrer aus Brandschutzgründen (Evakuierung)",
     "hu": "Tűzvédelmi okokból (evakuálás) kerekesszékkel nem látogatható",
     "ro": "Nu este accesibil pentru utilizatorii de scaune cu rotile din motive de siguranță la incendiu (evacuare)",
-    "en": "Not accessible for wheelchair users due to fire safety reasons (evacuation)"
+    "en": "Not accessible for wheelchair users due to fire safety reasons (evacuation)",
+    "tr": "Tahliye nedeniyle yangın güvenliği gerekçesiyle tekerlekli sandalye kullanıcıları için erişilemez"
   },
   "photoRules": {
     "de": "Fotografieren erlaubt, keine Blitzaufnahmen durch die Fensterscheiben",
     "hu": "Fotózás engedélyezett, vaku használata az ablaküvegen át tilos",
     "ro": "Fotografierea permisă, interzisă folosirea blițului prin ferestre",
-    "en": "Photography allowed, no flash shots through the window panes"
+    "en": "Photography allowed, no flash shots through the window panes",
+    "tr": "Fotoğraf çekmek serbest, cam panellerden flaşla çekim yasak"
   },
   "bestTimeToVisit": {
     "de": "Vormittags unter der Woche, um lange Wartezeiten am Sicherheitscheck zu vermeiden",
     "hu": "Hétköznap délelőtt, a hosszú biztonsági ellenőrzési sorok elkerülése érdekében",
     "ro": "Dimineața în timpul săptămânii, pentru a evita timpii lungi de așteptare la controlul de securitate",
-    "en": "Weekdays in the morning to avoid long wait times at security"
+    "en": "Weekdays in the morning to avoid long wait times at security",
+    "tr": "Güvenlikte uzun beklememek için hafta içi sabah saatleri"
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

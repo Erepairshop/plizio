@@ -21,7 +21,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi Városháza",
             "ro": "Primăria Istorică",
-            "en": "Historical Town Hall"
+            "en": "Historical Town Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             9.517,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Barockfassade am Marktplatz.",
             "hu": "Csodálja meg a főtéri barokk homlokzatot.",
             "ro": "Admirați fațada barocă din piața centrală.",
-            "en": "Admire the Baroque facade on the market square."
+            "en": "Admire the Baroque facade on the market square.",
+            "tr": "Pazar meydanındaki Barok cepheye hayran kalın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St. Laurentii-Kirche",
             "hu": "Szent Lőrinc-templom",
             "ro": "Biserica Sf. Laurențiu",
-            "en": "St. Lawrence Church"
+            "en": "St. Lawrence Church",
+            "tr": "Aziz Lawrence Kilisesi"
           },
           "coords": [
             9.5165,
@@ -59,7 +62,8 @@
             "de": "Größte Barockkirche in Schleswig-Holstein.",
             "hu": "Schleswig-Holstein legnagyobb barokk temploma.",
             "ro": "Cea mai mare biserică barocă din Schleswig-Holstein.",
-            "en": "Largest Baroque church in Schleswig-Holstein."
+            "en": "Largest Baroque church in Schleswig-Holstein.",
+            "tr": "Schleswig-Holstein’daki en büyük Barok kilise."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Klosterhof",
             "hu": "Kolostorudvar",
             "ro": "Curtea Mănăstirii",
-            "en": "Monastery Courtyard"
+            "en": "Monastery Courtyard",
+            "tr": "Manastır Avlusu"
           },
           "coords": [
             9.5155,
@@ -82,7 +87,8 @@
             "de": "Ein Ort der Stille mit historischem Flair.",
             "hu": "A nyugalom szigete történelmi hangulattal.",
             "ro": "Un loc al liniștii cu aer istoric.",
-            "en": "A place of silence with historical flair."
+            "en": "A place of silence with historical flair.",
+            "tr": "Tarihi hava taşıyan bir sessizlik mekanı."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Stiftskirche",
             "hu": "Alapítványi templom",
             "ro": "Biserica Mănăstirii",
-            "en": "Abbey Church"
+            "en": "Abbey Church",
+            "tr": "Manastır Kilisesi"
           },
           "coords": [
             9.5152,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie das Adelige Damenstift.",
             "hu": "Látogasson el a nemesi hölgyalapítványhoz.",
             "ro": "Vizitați fundația pentru doamne nobile.",
-            "en": "Visit the noble ladies' foundation."
+            "en": "Visit the noble ladies' foundation.",
+            "tr": "Seçkin hanımlar vakfını ziyaret edin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kreismuseum Prinzeßhof",
             "hu": "Prinzeßhof Megyei Múzeum",
             "ro": "Muzeul Prinzeßhof",
-            "en": "Prinzeßhof District Museum"
+            "en": "Prinzeßhof District Museum",
+            "tr": "Prinzeßhof Bölge Müzesi"
           },
           "coords": [
             9.514,
@@ -128,7 +137,8 @@
             "de": "Stadtgeschichte in einem ehemaligen Adelshof.",
             "hu": "Várostörténet egy egykori nemesi udvarházban.",
             "ro": "Istoria orașului într-o fostă reședință nobiliară.",
-            "en": "City history in a former noble residence."
+            "en": "City history in a former noble residence.",
+            "tr": "Eski soylu konakta şehir tarihi."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Stadtpark Itzehoe",
             "hu": "Városi park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "tr": "Şehir Parkı"
           },
           "coords": [
             9.525,
@@ -151,7 +162,8 @@
             "de": "Perfekt für eine Pause am Seerosenteich.",
             "hu": "Tökéletes pihenőhely a tavirózsás tónál.",
             "ro": "Perfect pentru o pauză lângă lacul cu nuferi.",
-            "en": "Perfect for a break by the lily pond."
+            "en": "Perfect for a break by the lily pond.",
+            "tr": "Nilüferli göletin yanında mola için ideal."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Landgericht Itzehoe",
             "hu": "Megyei Bíróság",
             "ro": "Tribunalul Itzehoe",
-            "en": "Regional Court"
+            "en": "Regional Court",
+            "tr": "Bölge Mahkemesi"
           },
           "coords": [
             9.519,
@@ -174,7 +187,8 @@
             "de": "Imposantes Gebäude aus der preußischen Zeit.",
             "hu": "Impozáns épület a porosz időkből.",
             "ro": "Clădire impunătoare din perioada prusacă.",
-            "en": "Imposing building from the Prussian era."
+            "en": "Imposing building from the Prussian era.",
+            "tr": "Prusya döneminden etkileyici bina."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ein entspannter Spaziergang durch die historische Mitte von Itzehoe. Vormittags erkunden wir das barocke Rathaus und die monumentale St. Laurentii-Kirche. Der Mittag gehört dem Klosterhof und dem Prinzeßhof-Museum, wo Sie tief in die Geschichte von Schleswig-Holstein eintauchen. Den Nachmittag lassen wir im weitläufigen Stadtpark ausklingen, bevor wir das prächtige Landgerichtsgebäude bewundern.",
         "hu": "Kényelmes séta Itzehoe történelmi központjában. Délelőtt a barokk városházát és a monumentális Szent Lőrinc-templomot fedezzük fel. A dél körüli időt a kolostorudvarban és a Prinzeßhof múzeumban töltjük, mélyebbre ásva a régió történelmében. A délutánt a tágas városi parkban zárjuk, majd megcsodáljuk az igazságügyi palota impozáns épületét.",
         "ro": "O plimbare relaxată prin centrul istoric al orașului Itzehoe. Dimineața explorăm primăria barocă și biserica monumentală Sf. Laurențiu. Amiaza este dedicată Curții Mănăstirii și Muzeului Prinzeßhof, unde descoperiți istoria regiunii. După-amiaza ne relaxăm în parcul orașului, înainte de a admira clădirea impunătoare a Tribunalului.",
-        "en": "A relaxed walk through the historical heart of Itzehoe. In the morning, explore the Baroque town hall and the monumental St. Lawrence Church. Midday is spent at the Monastery Courtyard and Prinzeßhof Museum, diving deep into local history. The afternoon ends in the spacious City Park, followed by a view of the grand Regional Court building."
+        "en": "A relaxed walk through the historical heart of Itzehoe. In the morning, explore the Baroque town hall and the monumental St. Lawrence Church. Midday is spent at the Monastery Courtyard and Prinzeßhof Museum, diving deep into local history. The afternoon ends in the spacious City Park, followed by a view of the grand Regional Court building.",
+        "tr": "Itzehoe’nin tarihi kalbinde sakin bir yürüyüş. Sabah Barok belediye binası ve heybetli Aziz Lawrence Kilisesi’ni keşfedin. Öğle saatlerinde Manastır Avlusu ve Prinzeßhof Müzesi’nde yerel tarihe dalın. Öğleden sonra geniş Şehir Parkı’nda son bulur; ardından görkemli Bölge Mahkemesi binasının manzarasıyla kapanış yapın."
       },
       "gastro_picks": {
         "de": [
@@ -338,6 +353,11 @@
           "The city center is flat and very easy to explore on foot.",
           "Market days (Wed & Sat) are especially vibrant.",
           "Look out for the memorial 'Stolpersteine' in the pedestrian zone."
+        ],
+        "tr": [
+          "Şehir merkezi düz ve yürüyerek çok kolay gezilebilir.",
+          "Pazar günleri (Çarş. ve Cumartesi) özellikle canlıdır.",
+          "Yaya bölgesindeki 'Stolpersteine' anıtına dikkat edin."
         ]
       }
     },
@@ -354,7 +374,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi Városháza",
             "ro": "Primăria Istorică",
-            "en": "Historical Town Hall"
+            "en": "Historical Town Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             9.517,
@@ -369,7 +390,8 @@
             "de": "Startpunkt am Marktplatz.",
             "hu": "Kiindulópont a főtéren.",
             "ro": "Punct de plecare în piață.",
-            "en": "Starting point at the market."
+            "en": "Starting point at the market.",
+            "tr": "Pazar yerinde başlangıç noktası."
           }
         },
         {
@@ -377,7 +399,8 @@
             "de": "St. Laurentii-Kirche",
             "hu": "Szent Lőrinc-templom",
             "ro": "Biserica Sf. Laurențiu",
-            "en": "St. Lawrence Church"
+            "en": "St. Lawrence Church",
+            "tr": "Aziz Lawrence Kilisesi"
           },
           "coords": [
             9.5165,
@@ -392,7 +415,8 @@
             "de": "Prachtvoller Barock-Innenraum.",
             "hu": "Pompás barokk belső tér.",
             "ro": "Interior baroc splendid.",
-            "en": "Splendid Baroque interior."
+            "en": "Splendid Baroque interior.",
+            "tr": "Muhteşem Barok iç mekan."
           }
         },
         {
@@ -400,7 +424,8 @@
             "de": "Klosterhof",
             "hu": "Kolostorudvar",
             "ro": "Curtea Mănăstirii",
-            "en": "Monastery Courtyard"
+            "en": "Monastery Courtyard",
+            "tr": "Manastır Avlusu"
           },
           "coords": [
             9.5155,
@@ -415,7 +440,8 @@
             "de": "Ruhiger Innenhof zum Verweilen.",
             "hu": "Csendes belső udvar pihenéshez.",
             "ro": "Curte interioară liniștită.",
-            "en": "Quiet courtyard for a break."
+            "en": "Quiet courtyard for a break.",
+            "tr": "Mola için sakin avlu."
           }
         },
         {
@@ -423,7 +449,8 @@
             "de": "Kreismuseum Prinzeßhof",
             "hu": "Prinzeßhof Múzeum",
             "ro": "Muzeul Prinzeßhof",
-            "en": "Prinzeßhof Museum"
+            "en": "Prinzeßhof Museum",
+            "tr": "Prinzeßhof Müzesi"
           },
           "coords": [
             9.514,
@@ -438,7 +465,8 @@
             "de": "Kulturgeschichte hautnah.",
             "hu": "Kulturális történelem testközelből.",
             "ro": "Istorie culturală autentică.",
-            "en": "Cultural history firsthand."
+            "en": "Cultural history firsthand.",
+            "tr": "Kültür tarihini bizzat yaşayın."
           }
         },
         {
@@ -446,7 +474,8 @@
             "de": "Stadtpark Itzehoe",
             "hu": "Városi park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "tr": "Şehir Parkı"
           },
           "coords": [
             9.525,
@@ -461,7 +490,8 @@
             "de": "Schöne Radwege durch das Grüne.",
             "hu": "Szép kerékpárutak a zöldben.",
             "ro": "Piste frumoase prin verdeață.",
-            "en": "Beautiful bike paths through the green."
+            "en": "Beautiful bike paths through the green.",
+            "tr": "Yeşillik içinde güzel bisiklet yolları."
           }
         },
         {
@@ -469,7 +499,8 @@
             "de": "Landgericht Itzehoe",
             "hu": "Bíróság",
             "ro": "Tribunalul",
-            "en": "Regional Court"
+            "en": "Regional Court",
+            "tr": "Bölge Mahkemesi"
           },
           "coords": [
             9.519,
@@ -484,7 +515,8 @@
             "de": "Backsteinarchitektur bewundern.",
             "hu": "Téglaépítészet megcsodálása.",
             "ro": "Admirați arhitectura din cărămidă.",
-            "en": "Admire the brick architecture."
+            "en": "Admire the brick architecture.",
+            "tr": "Tuğla mimariye hayran kalın."
           }
         },
         {
@@ -492,7 +524,8 @@
             "de": "Germanisches Grabmal",
             "hu": "Germán síremlék",
             "ro": "Monument Germanic",
-            "en": "Germanic Monument"
+            "en": "Germanic Monument",
+            "tr": "Cermen Anıtı"
           },
           "coords": [
             9.505,
@@ -507,7 +540,8 @@
             "de": "Aussichtspunkt auf dem Galgenberg.",
             "hu": "Kilátópont a Galgenbergen.",
             "ro": "Punct de belvedere pe Galgenberg.",
-            "en": "Viewpoint on Galgenberg hill."
+            "en": "Viewpoint on Galgenberg hill.",
+            "tr": "Galgenberg tepesinde seyir noktası."
           }
         },
         {
@@ -515,7 +549,8 @@
             "de": "Stör-Promenade",
             "hu": "Stör-sétány",
             "ro": "Promenada Stör",
-            "en": "Stör Promenade"
+            "en": "Stör Promenade",
+            "tr": "Stör Promenade"
           },
           "coords": [
             9.51,
@@ -530,7 +565,8 @@
             "de": "Rückfahrt entlang des Flusses.",
             "hu": "Visszaút a folyó mentén.",
             "ro": "Întoarcere de-a lungul râului.",
-            "en": "Return ride along the river."
+            "en": "Return ride along the river.",
+            "tr": "Nehir boyunca dönüş sürüşü."
           }
         }
       ],
@@ -538,7 +574,8 @@
         "de": "Diese Tour verbindet städtische Geschichte mit der Natur rund um die Stör. Nach den Highlights im Zentrum radeln wir zum Galgenberg zum Germanischen Grabmal, von wo man einen weiten Blick über die Marschlandschaft hat. Die Rückfahrt führt uns entspannt an der Stör-Promenade entlang.",
         "hu": "Ez a túra összeköti a városi történelmet a Stör folyó körüli természettel. A központ látnivalói után kitekerünk a Galgenbergre a germán síremlékhez, ahonnan pazar kilátás nyílik a mocsárvidékre. A visszaút a Stör-sétányon vezet.",
         "ro": "Acest tur îmbină istoria urbană cu natura din jurul râului Stör. După atracțiile din centru, pedalăm spre Galgenberg la monumentul germanic, de unde aveți o vedere panoramică asupra mlaștinilor. Întoarcerea este relaxată pe promenada Stör.",
-        "en": "This tour combines urban history with the nature surrounding the Stör river. After the city center highlights, we cycle to Galgenberg hill to see the Germanic monument, offering wide views over the marshlands. The return ride follows the scenic Stör promenade."
+        "en": "This tour combines urban history with the nature surrounding the Stör river. After the city center highlights, we cycle to Galgenberg hill to see the Germanic monument, offering wide views over the marshlands. The return ride follows the scenic Stör promenade.",
+        "tr": "Bu tur, kentsel tarihi Stör nehrinin çevresindeki doğayla birleştirir. Şehir merkezi önemli yerlerini gezdikten sonra geniş bataklık manzaraları sunan Cermen anıtını görmek için Galgenberg tepesine bisikletle çıkıyoruz. Dönüş ise manzaralı Stör promenadı boyunca olur."
       },
       "gastro_picks": {
         "de": [
@@ -638,6 +675,10 @@
         "en": [
           "Use the well-marked bike paths along the Stör river.",
           "Be careful with the wind in the open marshlands."
+        ],
+        "tr": [
+          "Stör nehri boyunca iyi işaretlenmiş bisiklet yollarını kullanın.",
+          "Açık bataklık alanlarında rüzgara dikkat edin."
         ]
       }
     },
@@ -654,7 +695,8 @@
             "de": "Historisches Rathaus",
             "hu": "Városháza",
             "ro": "Primăria Istorică",
-            "en": "Historical Town Hall"
+            "en": "Historical Town Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             9.517,
@@ -669,7 +711,8 @@
             "de": "Cluster A: Parken in der Innenstadt.",
             "hu": "A klaszter: Parkolás a belvárosban.",
             "ro": "Cluster A: Parcare în centrul orașului.",
-            "en": "Cluster A: Parking in the city center."
+            "en": "Cluster A: Parking in the city center.",
+            "tr": "A Kümesi: Şehir merkezinde park."
           }
         },
         {
@@ -677,7 +720,8 @@
             "de": "St. Laurentii-Kirche",
             "hu": "Szent Lőrinc-templom",
             "ro": "Biserica Sf. Laurențiu",
-            "en": "St. Lawrence Church"
+            "en": "St. Lawrence Church",
+            "tr": "Aziz Lawrence Kilisesi"
           },
           "coords": [
             9.5165,
@@ -693,7 +737,8 @@
             "de": "Kurzer Fußweg vom Marktplatz.",
             "hu": "Rövid séta a főtértől.",
             "ro": "Scurtă plimbare din piață.",
-            "en": "Short walk from the market square."
+            "en": "Short walk from the market square.",
+            "tr": "Pazar meydanından kısa yürüyüş."
           }
         },
         {
@@ -701,7 +746,8 @@
             "de": "Klosterhof",
             "hu": "Kolostorudvar",
             "ro": "Curtea Mănăstirii",
-            "en": "Monastery Courtyard"
+            "en": "Monastery Courtyard",
+            "tr": "Manastır Avlusu"
           },
           "coords": [
             9.5155,
@@ -717,7 +763,8 @@
             "de": "Zu Fuß innerhalb des Zentrums erreichbar.",
             "hu": "Gyalogosan elérhető a központon belül.",
             "ro": "Accesibil pe jos în interiorul centrului.",
-            "en": "Accessible on foot within the center."
+            "en": "Accessible on foot within the center.",
+            "tr": "Merkez içinde yürüyerek ulaşılabilir."
           }
         },
         {
@@ -725,7 +772,8 @@
             "de": "Stiftskirche",
             "hu": "Alapítványi templom",
             "ro": "Biserica Mănăstirii",
-            "en": "Abbey Church"
+            "en": "Abbey Church",
+            "tr": "Manastır Kilisesi"
           },
           "coords": [
             9.5152,
@@ -741,7 +789,8 @@
             "de": "Teil des historischen Ensembles.",
             "hu": "A történelmi együttes része.",
             "ro": "Parte a ansamblului istoric.",
-            "en": "Part of the historical ensemble."
+            "en": "Part of the historical ensemble.",
+            "tr": "Tarihi topluluğun parçası."
           }
         },
         {
@@ -749,7 +798,8 @@
             "de": "Kreismuseum Prinzeßhof",
             "hu": "Prinzeßhof Múzeum",
             "ro": "Muzeul Prinzeßhof",
-            "en": "Prinzeßhof Museum"
+            "en": "Prinzeßhof Museum",
+            "tr": "Prinzeßhof Müzesi"
           },
           "coords": [
             9.514,
@@ -765,7 +815,8 @@
             "de": "Cluster B: Fahrt zum Prinzeßhof.",
             "hu": "B klaszter: Hajtás a Prinzeßhofhoz.",
             "ro": "Cluster B: Deplasare la Prinzeßhof.",
-            "en": "Cluster B: Drive to Prinzeßhof."
+            "en": "Cluster B: Drive to Prinzeßhof.",
+            "tr": "B Kümesi: Prinzeßhof’a araçla gidin."
           }
         },
         {
@@ -773,7 +824,8 @@
             "de": "Landgericht Itzehoe",
             "hu": "Bíróság",
             "ro": "Tribunalul",
-            "en": "Regional Court"
+            "en": "Regional Court",
+            "tr": "Bölge Mahkemesi"
           },
           "coords": [
             9.519,
@@ -789,7 +841,8 @@
             "de": "Kurzer Spaziergang vom Museum.",
             "hu": "Rövid séta a múzeumtól.",
             "ro": "Scurtă plimbare de la muzeu.",
-            "en": "Short walk from the museum."
+            "en": "Short walk from the museum.",
+            "tr": "Müzeden kısa yürüyüş."
           }
         },
         {
@@ -797,7 +850,8 @@
             "de": "Stadtpark Itzehoe",
             "hu": "Városi park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "tr": "Şehir Parkı"
           },
           "coords": [
             9.525,
@@ -813,7 +867,8 @@
             "de": "Cluster C: Parken am Stadtpark.",
             "hu": "C klaszter: Parkolás a városi parknál.",
             "ro": "Cluster C: Parcare la parcul orașului.",
-            "en": "Cluster C: Parking at the city park."
+            "en": "Cluster C: Parking at the city park.",
+            "tr": "C Kümesi: Şehir parkında park edin."
           }
         },
         {
@@ -821,7 +876,8 @@
             "de": "Germanisches Grabmal",
             "hu": "Germán síremlék",
             "ro": "Monument Germanic",
-            "en": "Germanic Monument"
+            "en": "Germanic Monument",
+            "tr": "Cermen Anıtı"
           },
           "coords": [
             9.505,
@@ -837,7 +893,8 @@
             "de": "Kurzer Stopp zum Abschluss.",
             "hu": "Rövid megálló a befejezéshez.",
             "ro": "Scurtă oprire la final.",
-            "en": "Short stop to finish."
+            "en": "Short stop to finish.",
+            "tr": "Bitiriş için kısa durak."
           }
         }
       ],
@@ -845,7 +902,8 @@
         "de": "Mit dem Auto entdecken wir Itzehoe in drei bequemen Etappen. Zuerst erkunden wir zu Fuß den historischen Kern rund um das Rathaus und den Klosterhof. Danach fahren wir zum Prinzeßhof-Museum und zum Landgericht. Den Abschluss bildet ein Besuch im Stadtpark und eine kurze Fahrt zum Germanischen Grabmal mit seiner markanten Aussicht.",
         "hu": "Autóval három kényelmes szakaszban fedezzük fel Itzehoe-t. Először gyalogosan járjuk be a történelmi magot a városháza és a kolostorudvar körül. Ezután a Prinzeßhof múzeumhoz és a bírósághoz hajtunk. A napot a városi parkban zárjuk, majd egy rövid autózással a germán síremlékhez látogatunk.",
         "ro": "Cu mașina descoperim Itzehoe în trei etape confortabile. Mai întâi explorăm pe jos nucleul istoric din jurul primăriei și curții mănăstirii. Apoi conducem spre Muzeul Prinzeßhof și Tribunal. Încheiem cu o vizită în parcul orașului și o scurtă deplasare la monumentul germanic.",
-        "en": "By car, we discover Itzehoe in three comfortable stages. First, explore the historical core around the town hall and monastery on foot. Then, drive to the Prinzeßhof Museum and the Regional Court. We finish with a visit to the city park and a short drive to the Germanic monument with its striking view."
+        "en": "By car, we discover Itzehoe in three comfortable stages. First, explore the historical core around the town hall and monastery on foot. Then, drive to the Prinzeßhof Museum and the Regional Court. We finish with a visit to the city park and a short drive to the Germanic monument with its striking view.",
+        "tr": "Arabayla Itzehoe’yu rahat üç aşamada keşfediyoruz. Önce belediye binası ve manastır çevresindeki tarihi çekirdeği yürüyerek gezin. Ardından Prinzeßhof Müzesi ve Bölge Mahkemesi’ne araçla gidin. Geziyi şehir parkı ziyareti ve etkileyici manzaralı Cermen anıtına kısa bir sürüşle tamamlıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -945,6 +1003,10 @@
         "en": [
           "Use the multi-storey car parks in the city center for the first part of the tour.",
           "Outer destinations are well-signposted."
+        ],
+        "tr": [
+          "Turun ilk kısmı için şehir merkezindeki çok katlı otoparkları kullanın.",
+          "Uzak noktalar iyi yönlendirilmiş."
         ]
       }
     },
@@ -961,7 +1023,8 @@
             "de": "Historisches Rathaus",
             "hu": "Városháza",
             "ro": "Primăria Istorică",
-            "en": "Historical Town Hall"
+            "en": "Historical Town Hall",
+            "tr": "Tarihi Belediye Binası"
           },
           "coords": [
             9.517,
@@ -976,7 +1039,8 @@
             "de": "Zentraler Knotenpunkt der Busse.",
             "hu": "A buszjáratok központi csomópontja.",
             "ro": "Nod central pentru autobuze.",
-            "en": "Central hub for local buses."
+            "en": "Central hub for local buses.",
+            "tr": "Yerel otobüsler için merkezi nokta."
           }
         },
         {
@@ -984,7 +1048,8 @@
             "de": "St. Laurentii-Kirche",
             "hu": "Szent Lőrinc-templom",
             "ro": "Biserica Sf. Laurențiu",
-            "en": "St. Lawrence Church"
+            "en": "St. Lawrence Church",
+            "tr": "Aziz Lawrence Kilisesi"
           },
           "coords": [
             9.5165,
@@ -1000,7 +1065,8 @@
             "de": "In Sichtweite vom Marktplatz.",
             "hu": "Látótávolságra a főtértől.",
             "ro": "La vedere din piață.",
-            "en": "Within sight of the market square."
+            "en": "Within sight of the market square.",
+            "tr": "Pazar meydanının görüş alanında."
           }
         },
         {
@@ -1008,7 +1074,8 @@
             "de": "Klosterhof",
             "hu": "Kolostorudvar",
             "ro": "Curtea Mănăstirii",
-            "en": "Monastery Courtyard"
+            "en": "Monastery Courtyard",
+            "tr": "Manastır Avlusu"
           },
           "coords": [
             9.5155,
@@ -1024,7 +1091,8 @@
             "de": "Gemütlicher Gang durch das Viertel.",
             "hu": "Hangulatos séta a negyeden át.",
             "ro": "Plimbare plăcută prin cartier.",
-            "en": "Atmospheric walk through the district."
+            "en": "Atmospheric walk through the district.",
+            "tr": "Semt boyunca atmosferik yürüyüş."
           }
         },
         {
@@ -1032,7 +1100,8 @@
             "de": "Kreismuseum Prinzeßhof",
             "hu": "Prinzeßhof Múzeum",
             "ro": "Muzeul Prinzeßhof",
-            "en": "Prinzeßhof Museum"
+            "en": "Prinzeßhof Museum",
+            "tr": "Prinzeßhof Müzesi"
           },
           "coords": [
             9.514,
@@ -1048,7 +1117,8 @@
             "de": "Nutzung der Stadtbuslinie.",
             "hu": "Városi buszjárat használata.",
             "ro": "Utilizarea liniei de autobuz urban.",
-            "en": "Use the city bus line."
+            "en": "Use the city bus line.",
+            "tr": "Şehir otobüs hattını kullanın."
           }
         },
         {
@@ -1056,7 +1126,8 @@
             "de": "Landgericht Itzehoe",
             "hu": "Bíróság",
             "ro": "Tribunalul",
-            "en": "Regional Court"
+            "en": "Regional Court",
+            "tr": "Bölge Mahkemesi"
           },
           "coords": [
             9.519,
@@ -1072,7 +1143,8 @@
             "de": "Spaziergang durch die Justizstraßen.",
             "hu": "Séta az igazságügyi utcákon.",
             "ro": "Plimbare prin străzile tribunalului.",
-            "en": "Walk through the judicial streets."
+            "en": "Walk through the judicial streets.",
+            "tr": "Adliye sokaklarında yürüyün."
           }
         },
         {
@@ -1080,7 +1152,8 @@
             "de": "Stadtpark Itzehoe",
             "hu": "Városi park",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "tr": "Kent Parkı"
           },
           "coords": [
             9.525,
@@ -1096,7 +1169,8 @@
             "de": "Busfahrt zum Erholungsgebiet.",
             "hu": "Buszozás az üdülőterületre.",
             "ro": "Călătorie cu autobuzul spre zona de recreere.",
-            "en": "Bus ride to the recreation area."
+            "en": "Bus ride to the recreation area.",
+            "tr": "Rekreasyon alanına otobüs yolculuğu."
           }
         },
         {
@@ -1104,7 +1178,8 @@
             "de": "Germanisches Grabmal",
             "hu": "Germán síremlék",
             "ro": "Monument Germanic",
-            "en": "Germanic Monument"
+            "en": "Germanic Monument",
+            "tr": "Cermen Anıtı"
           },
           "coords": [
             9.505,
@@ -1120,7 +1195,8 @@
             "de": "Letzte Etappe mit dem Bus.",
             "hu": "Utolsó szakasz busszal.",
             "ro": "Ultima etapă cu autobuzul.",
-            "en": "Final leg by bus."
+            "en": "Final leg by bus.",
+            "tr": "Son etabı otobüsle tamamlayın."
           }
         }
       ],
@@ -1128,7 +1204,8 @@
         "de": "Nutzen Sie das dichte Stadtbusnetz von Itzehoe. Vom Marktplatz aus erkunden wir die historischen Zentren, bevor wir mit dem Bus zum Prinzeßhof-Museum und später zum Stadtpark fahren. Den Tag beenden wir mit einer Fahrt zum Galgenberg, um das Germanische Grabmal zu sehen.",
         "hu": "Használja Itzehoe sűrű városi buszhálózatát. A főtérről kiindulva felfedezzük a történelmi látnivalókat, majd busszal megyünk a Prinzeßhof múzeumhoz és a városi parkhoz. A napot a Galgenbergre való utazással zárjuk a germán síremlék megtekintéséhez.",
         "ro": "Utilizați rețeaua densă de autobuze din Itzehoe. Din piața centrală explorăm centrele istorice, înainte de a merge cu autobuzul la Muzeul Prinzeßhof și mai târziu în parcul orașului. Încheiem ziua cu o călătorie spre Galgenberg pentru a vedea monumentul germanic.",
-        "en": "Make use of Itzehoe's dense city bus network. Starting from the market square, we explore the historical sites before taking the bus to the Prinzeßhof Museum and later to the city park. We end the day with a trip to Galgenberg to see the Germanic monument."
+        "en": "Make use of Itzehoe's dense city bus network. Starting from the market square, we explore the historical sites before taking the bus to the Prinzeßhof Museum and later to the city park. We end the day with a trip to Galgenberg to see the Germanic monument.",
+        "tr": "Itzehoe'nun yoğun şehir otobüsü ağından faydalanın. Pazar meydanından başlayarak tarihi yerleri keşfedip sonra Prinzeßhof Müzesi'ne ve devamında kent parkına otobüsle gidin. Günü Cermen anıtını görmek için Galgenberg'e yapılan bir geziyle sonlandırıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -1228,6 +1305,10 @@
         "en": [
           "An HVV day ticket covers all bus rides within the city area.",
           "Check the timetables posted at the bus stops."
+        ],
+        "tr": [
+          "Bir HVV günlük bileti, şehir alanındaki tüm otobüs yolculuklarını kapsar.",
+          "Otobüs duraklarına asılan tarifelere bakın."
         ]
       }
     }

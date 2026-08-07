@@ -21,7 +21,8 @@
             "de": "Burg Klopp",
             "hu": "Klopp-vár",
             "ro": "Castelul Klopp",
-            "en": "Klopp Castle"
+            "en": "Klopp Castle",
+            "tr": "Klopp Şatosu"
           },
           "coords": [
             7.8935,
@@ -37,7 +38,8 @@
             "de": "Bester Panoramablick über das Binger Loch und das Rheintal.",
             "hu": "A legjobb panoráma a Binger Lochra és a Rajna-völgyre.",
             "ro": "Cea mai bună panoramă asupra văii Rinului și Binger Loch.",
-            "en": "Best panoramic view over the Binger Loch and the Rhine Valley."
+            "en": "Best panoramic view over the Binger Loch and the Rhine Valley.",
+            "tr": "Binger Loch ve Ren Vadisi üzerine en iyi panoramik manzara."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Basilika St. Martin",
             "hu": "Szt. Márton-bazilika",
             "ro": "Bazilica Sf. Martin",
-            "en": "Basilica of St. Martin"
+            "en": "Basilica of St. Martin",
+            "tr": "Aziz Martin Bazilikası"
           },
           "coords": [
             7.8945,
@@ -61,7 +64,8 @@
             "de": "Spätgotische Architektur mit romanischer Krypta aus dem 11. Jahrhundert.",
             "hu": "Késő gótikus építészet 11. századi román kori kriptával.",
             "ro": "Arhitectură gotică târzie cu o criptă romanică din secolul al XI-lea.",
-            "en": "Late Gothic architecture with an 11th-century Romanesque crypt."
+            "en": "Late Gothic architecture with an 11th-century Romanesque crypt.",
+            "tr": "11. yüzyıla ait Romaesk bir kripta sahip Geç Gotik mimari."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Stefan-George-Haus",
             "hu": "Stefan-George-ház",
             "ro": "Casa Stefan George",
-            "en": "Stefan George House"
+            "en": "Stefan George House",
+            "tr": "Stefan George Evi"
           },
           "coords": [
             7.8955,
@@ -85,7 +90,8 @@
             "de": "Museum im Geburtshaus des berühmten Dichters.",
             "hu": "Múzeum a híres költő szülőházában.",
             "ro": "Muzeu în casa natală a celebrului poet.",
-            "en": "Museum in the birthplace of the famous poet."
+            "en": "Museum in the birthplace of the famous poet.",
+            "tr": "Ünlü şairin doğduğu yerdeki müze."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în orașul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "tr": "Eski Şehirde Öğle Yemeği"
           },
           "coords": [
             7.8948,
@@ -109,7 +116,8 @@
             "de": "Probieren Sie regionale Weine und den Binger Zwiebelkuchen.",
             "hu": "Kóstolja meg a helyi borokat és a bingeni hagymás lepényt.",
             "ro": "Gustați vinurile locale și tarta cu ceapă din Bingen.",
-            "en": "Try local wines and the Bingen onion cake."
+            "en": "Try local wines and the Bingen onion cake.",
+            "tr": "Yerel şarapları ve Bingen soğan kekini deneyin."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Kulturufer Bingen",
             "hu": "Bingeni kultúrpart",
             "ro": "Faleza Culturală Bingen",
-            "en": "Bingen Culture Bank"
+            "en": "Bingen Culture Bank",
+            "tr": "Bingen Kültür Rıhtımı"
           },
           "coords": [
             7.897,
@@ -133,7 +142,8 @@
             "de": "3 km lange Rheinpromenade mit Gärten und Spielplätzen.",
             "hu": "3 km hosszú Rajna-parti sétány kertekkel és játszóterekkel.",
             "ro": "Faleză de 3 km de-a lungul Rinului cu grădini și locuri de joacă.",
-            "en": "3 km long Rhine promenade with gardens and playgrounds."
+            "en": "3 km long Rhine promenade with gardens and playgrounds.",
+            "tr": "Bahçeler ve oyun alanlarıyla 3 km uzunluğunda Ren promenadı."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Museum am Strom",
             "hu": "Múzeum a folyónál",
             "ro": "Muzeul de lângă râu",
-            "en": "Museum am Strom"
+            "en": "Museum am Strom",
+            "tr": "Museum am Strom"
           },
           "coords": [
             7.8985,
@@ -157,7 +168,8 @@
             "de": "Ausstellung zu Hildegard von Bingen und römischer Medizingeschichte.",
             "hu": "Bingeni Szent Hildegárd és a római orvostudomány története.",
             "ro": "Expoziție despre Hildegard von Bingen și medicina romană.",
-            "en": "Exhibition on Hildegard von Bingen and Roman medical history."
+            "en": "Exhibition on Hildegard von Bingen and Roman medical history.",
+            "tr": "Hildegard von Bingen ve Roma tıp tarihine dair sergi."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Blick auf den Mäuseturm",
             "hu": "Kilátás az Egértoronyra",
             "ro": "Vedere spre Turnul Șoarecilor",
-            "en": "View of the Mouse Tower"
+            "en": "View of the Mouse Tower",
+            "tr": "Fare Kulesi Manzarası"
           },
           "coords": [
             7.882,
@@ -181,7 +194,8 @@
             "de": "Der Park am Mäuseturm bietet den besten Blick auf das Wahrzeichen.",
             "hu": "Az Egértorony parkjából nyílik a legjobb kilátás a jelképre.",
             "ro": "Parcul de lângă Turnul Șoarecilor oferă cea mai bună priveliște.",
-            "en": "The Park am Mäuseturm offers the best view of the landmark."
+            "en": "The Park am Mäuseturm offers the best view of the landmark.",
+            "tr": "Park am Mäuseturm simge yapının en iyi manzarasını sunar."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie den Tag auf der Burg Klopp mit einem fantastischen Blick auf den Rhein. Danach spazieren Sie in die Altstadt zur gotischen Basilika und zum Stefan-George-Haus. Mittags genießen Sie regionale Köstlichkeiten in einem der gemütlichen Gasthäuser. Der Nachmittag gehört dem Kulturufer, wo Sie am Rhein entlang schlendern und im Museum am Strom mehr über Hildegard von Bingen erfahren. Zum Abschluss genießen Sie die Abendstimmung mit Blick auf den legendären Mäuseturm.",
         "hu": "Kezdje a napot a Klopp-várban, ahonnan fantasztikus kilátás nyílik a Rajnára. Ezután sétáljon az óvárosba a gótikus bazilikához és a Stefan-George-házhoz. Délben kóstolja meg a régió finomságait egy hangulatos vendéglőben. A délután a kultúrparté, ahol a Rajna mentén korzózhat, és a folyó menti múzeumban megismerheti Bingeni Szent Hildegárd életét. Zárásként élvezze az estét az Egértoronynál.",
         "ro": "Începeți ziua la Castelul Klopp cu o vedere fantastică asupra Rinului. Apoi mergeți în centrul vechi la bazilica gotică și la Casa Stefan George. La prânz, savurați delicatese regionale într-o tavernă primitoare. După-amiaza aparține falezei culturale, unde vă puteți plimba de-a lungul Rinului și puteți afla mai multe despre Hildegard von Bingen la muzeu. Încheiați ziua admirând legendarul Turn al Șoarecilor în lumina apusului.",
-        "en": "Start your day at Klopp Castle with a fantastic view of the Rhine. Then walk into the old town to the Gothic basilica and the Stefan George House. At noon, enjoy regional delicacies in a cozy inn. The afternoon is dedicated to the Kulturufer, where you can stroll along the Rhine and learn more about Hildegard von Bingen at the museum. Finally, enjoy the evening atmosphere with a view of the legendary Mouse Tower."
+        "en": "Start your day at Klopp Castle with a fantastic view of the Rhine. Then walk into the old town to the Gothic basilica and the Stefan George House. At noon, enjoy regional delicacies in a cozy inn. The afternoon is dedicated to the Kulturufer, where you can stroll along the Rhine and learn more about Hildegard von Bingen at the museum. Finally, enjoy the evening atmosphere with a view of the legendary Mouse Tower.",
+        "tr": "Güne Klopp Şatosu'nda Ren manzarasıyla başlayın. Ardından Gotik bazilika ve Stefan George Evi'ne doğru eski şehre yürüyün. Öğlen, samimi bir hanede bölgesel lezzetlerin tadını çıkarın. Öğleden sonra Kulturufer'e ayrılmıştır; burada Ren boyunda gezip Museum am Strom'da Hildegard von Bingen hakkında daha fazla bilgi edinebilirsiniz. Son olarak, efsanevi Fare Kulesi manzarası eşliğinde akşam atmosferinin tadını çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -325,6 +340,10 @@
         "en": [
           "Bingen is very pedestrian-friendly, most sights are located close to each other.",
           "Take the ferry to Rüdesheim for a short trip to the other side of the Rhine."
+        ],
+        "tr": [
+          "Bingen yaya dostudur, çoğu görülecek yer birbirine yakın konumdadır.",
+          "Kısa bir Ren karşıya geçişi için Rüdesheim'a feribotla gidin."
         ]
       }
     },
@@ -341,7 +360,8 @@
             "de": "Drususbrücke",
             "hu": "Drusus-híd",
             "ro": "Podul Drusus",
-            "en": "Drusus Bridge"
+            "en": "Drusus Bridge",
+            "tr": "Drusus Köprüsü"
           },
           "coords": [
             7.8865,
@@ -357,7 +377,8 @@
             "de": "Älteste Steinbrücke Deutschlands über die Nahe.",
             "hu": "Németország legrégebbi kőhídja a Nahe folyón.",
             "ro": "Cel mai vechi pod de piatră din Germania, peste râul Nahe.",
-            "en": "Oldest stone bridge in Germany over the Nahe river."
+            "en": "Oldest stone bridge in Germany over the Nahe river.",
+            "tr": "Nahe nehri üzerindeki Almanya'nın en eski taş köprüsü."
           }
         },
         {
@@ -365,7 +386,8 @@
             "de": "Burg Klopp",
             "hu": "Klopp-vár",
             "ro": "Castelul Klopp",
-            "en": "Klopp Castle"
+            "en": "Klopp Castle",
+            "tr": "Klopp Şatosu"
           },
           "coords": [
             7.8935,
@@ -381,7 +403,8 @@
             "de": "Ein steiler Anstieg, der mit bester Aussicht belohnt wird.",
             "hu": "Meredek emelkedő, amit a legjobb kilátás hálál meg.",
             "ro": "O urcare abruptă, răsplătită cu cea mai bună priveliște.",
-            "en": "A steep climb rewarded with the best view."
+            "en": "A steep climb rewarded with the best view.",
+            "tr": "En iyi manzarayla ödüllendirilen dik bir tırmanış."
           }
         },
         {
@@ -389,7 +412,8 @@
             "de": "Rochuskapelle",
             "hu": "Rókus-kápolna",
             "ro": "Capela Sf. Rochus",
-            "en": "Rochus Chapel"
+            "en": "Rochus Chapel",
+            "tr": "Rochus Şapeli"
           },
           "coords": [
             7.915,
@@ -405,7 +429,8 @@
             "de": "Wallfahrtskapelle auf dem Rochusberg mit weitem Blick.",
             "hu": "Zarándokkápolna a Rochus-hegyen, messzire nyúló kilátással.",
             "ro": "Capelă de pelerinaj pe muntele Rochus cu o vedere panoramică.",
-            "en": "Pilgrimage chapel on the Rochusberg with a far-reaching view."
+            "en": "Pilgrimage chapel on the Rochusberg with a far-reaching view.",
+            "tr": "Rochusberg'de uzak görüşlü bir hac şapeli."
           }
         },
         {
@@ -413,7 +438,8 @@
             "de": "Gastro am Rhein",
             "hu": "Gasztro a Rajnánál",
             "ro": "Gastro pe Rin",
-            "en": "Gastro on the Rhine"
+            "en": "Gastro on the Rhine",
+            "tr": "Ren'de Gastro"
           },
           "coords": [
             7.897,
@@ -429,7 +455,8 @@
             "de": "Radler-Stopp direkt am Kulturufer.",
             "hu": "Biciklis pihenő közvetlenül a kultúrparton.",
             "ro": "Popas pentru bicicliști chiar pe malul Rinului.",
-            "en": "Cyclist stop right on the Culture Bank."
+            "en": "Cyclist stop right on the Culture Bank.",
+            "tr": "Kültür Rıhtımı üzerinde bisikletçilerin mola yeri."
           }
         },
         {
@@ -437,7 +464,8 @@
             "de": "Kulturufer Bingen",
             "hu": "Bingeni kultúrpart",
             "ro": "Faleza Culturală Bingen",
-            "en": "Bingen Culture Bank"
+            "en": "Bingen Culture Bank",
+            "tr": "Bingen Kültür Rıhtımı"
           },
           "coords": [
             7.8975,
@@ -453,7 +481,8 @@
             "de": "Perfekt ausgebaute Wege entlang des Stroms.",
             "hu": "Tökéletesen kiépített utak a folyó mentén.",
             "ro": "Piste perfect amenajate de-a lungul fluviului.",
-            "en": "Perfectly developed paths along the river."
+            "en": "Perfectly developed paths along the river.",
+            "tr": "Nehir boyunca mükemmel geliştirilmiş yollar."
           }
         },
         {
@@ -461,7 +490,8 @@
             "de": "Museum am Strom",
             "hu": "Múzeum a folyónál",
             "ro": "Muzeul de lângă râu",
-            "en": "Museum am Strom"
+            "en": "Museum am Strom",
+            "tr": "Museum am Strom"
           },
           "coords": [
             7.8985,
@@ -477,7 +507,8 @@
             "de": "Sicherer Fahrradabstellplatz direkt vor dem Museum.",
             "hu": "Biztonságos biciklitároló közvetlenül a múzeum előtt.",
             "ro": "Parcare sigură pentru biciclete chiar în fața muzeului.",
-            "en": "Secure bike parking right in front of the museum."
+            "en": "Secure bike parking right in front of the museum.",
+            "tr": "Müzenin hemen önünde güvenli bisiklet park yeri."
           }
         },
         {
@@ -485,7 +516,8 @@
             "de": "Park am Mäuseturm",
             "hu": "Egértorony-park",
             "ro": "Parcul de lângă Turnul Șoarecilor",
-            "en": "Park am Mäuseturm"
+            "en": "Park am Mäuseturm",
+            "tr": "Park am Mäuseturm"
           },
           "coords": [
             7.882,
@@ -501,7 +533,8 @@
             "de": "Entspannung pur mit Blick auf den Rheinarm.",
             "hu": "Tiszta kikapcsolódás a Rajna-ágra nyíló kilátással.",
             "ro": "Relaxare pură cu vedere spre brațul Rinului.",
-            "en": "Pure relaxation with a view of the Rhine arm."
+            "en": "Pure relaxation with a view of the Rhine arm.",
+            "tr": "Ren kolu manzarası eşliğinde tam dinlenme."
           }
         }
       ],
@@ -509,7 +542,8 @@
         "de": "Erkunden Sie Bingen auf zwei Rädern. Starten Sie an der historischen Drususbrücke und radeln Sie hinauf zur Burg Klopp. Ein sportlicher Abstecher führt Sie zur Rochuskapelle auf den Rochusberg, bevor Sie zum Rheinufer hinunterrollen. Nach einer Stärkung am Kulturufer radeln Sie gemütlich am Fluss entlang bis zum Park am Mäuseturm, wo Sie den Tag entspannt ausklingen lassen.",
         "hu": "Fedezze fel Bingent két keréken. Kezdjen a történelmi Drusus-hídnál, majd tekerjen fel a Klopp-várba. Egy sportos kitérővel látogasson el a Rochus-hegyi kápolnához, mielőtt legurulna a Rajna-partra. A kultúrparti frissítő után kényelmesen biciklizhet a folyó mentén az Egértorony parkjáig, ahol nyugodtan zárhatja a napot.",
         "ro": "Explorați Bingen pe două roți. Începeți la istoricul pod Drusus și pedalați până la Castelul Klopp. O abatere sportivă vă duce la Capela Sf. Rochus de pe munte, înainte de a coborî spre malul Rinului. După o gustare pe faleză, pedalați relaxat de-a lungul fluviului până la Parcul Turnului Șoarecilor.",
-        "en": "Explore Bingen on two wheels. Start at the historic Drusus Bridge and cycle up to Klopp Castle. A sporty detour takes you to the Rochus Chapel on the Rochusberg before rolling down to the Rhine bank. After strengthening yourself at the Kulturufer, cycle comfortably along the river to the Park am Mäuseturm."
+        "en": "Explore Bingen on two wheels. Start at the historic Drusus Bridge and cycle up to Klopp Castle. A sporty detour takes you to the Rochus Chapel on the Rochusberg before rolling down to the Rhine bank. After strengthening yourself at the Kulturufer, cycle comfortably along the river to the Park am Mäuseturm.",
+        "tr": "Bingen'i iki teker üzerinde keşfedin. Drusus Köprüsü'nden başlayın ve Klopp Şatosu'na pedal çevirin. Sportif bir rota sizi Rochusberg'deki Rochus Şapeli'ne götürür, ardından Ren kıyısına doğru inersiniz. Kulturufer'de güç depoladıktan sonra nehir boyunca Park am Mäuseturm'a rahatça sürün."
       },
       "gastro_picks": {
         "de": [
@@ -609,6 +643,10 @@
         "en": [
           "The Rhine cycle path is particularly flat and well-developed here.",
           "An e-bike or good fitness is recommended for the Rochusberg."
+        ],
+        "tr": [
+          "Ren bisiklet yolu burada özellikle düz ve iyi geliştirilmiştir.",
+          "Rochusberg için e-bisiklet veya iyi bir kondisyona sahip olmak önerilir."
         ]
       }
     },
@@ -625,7 +663,8 @@
             "de": "Burg Klopp (Cluster A)",
             "hu": "Klopp-vár (A klaszter)",
             "ro": "Castelul Klopp (Cluster A)",
-            "en": "Klopp Castle (Cluster A)"
+            "en": "Klopp Castle (Cluster A)",
+            "tr": "Klopp Şatosu (Küme A)"
           },
           "coords": [
             7.8935,
@@ -641,7 +680,8 @@
             "de": "Parken Sie direkt an der Burg oder am nahen Parkplatz.",
             "hu": "Parkoljon közvetlenül a várnál vagy a közeli parkolóban.",
             "ro": "Parcați chiar la castel sau în parcarea din apropiere.",
-            "en": "Park directly at the castle or at the nearby parking lot."
+            "en": "Park directly at the castle or at the nearby parking lot.",
+            "tr": "Doğrudan şatonun yanında veya yakındaki otoparkta park edin."
           }
         },
         {
@@ -649,7 +689,8 @@
             "de": "Basilika St. Martin (Cluster A)",
             "hu": "Szt. Márton-bazilika (A klaszter)",
             "ro": "Bazilica Sf. Martin (Cluster A)",
-            "en": "Basilica of St. Martin (Cluster A)"
+            "en": "Basilica of St. Martin (Cluster A)",
+            "tr": "Aziz Martin Bazilikası (Küme A)"
           },
           "coords": [
             7.8945,
@@ -665,7 +706,8 @@
             "de": "Kurzer Fußweg von der Burg hinunter in die Stadt.",
             "hu": "Rövid séta a vártól lefelé a városba.",
             "ro": "Scurtă plimbare de la castel în jos spre oraș.",
-            "en": "Short walk from the castle down into the town."
+            "en": "Short walk from the castle down into the town.",
+            "tr": "Şatodan kasaba içine doğru kısa bir yürüyüş."
           }
         },
         {
@@ -673,7 +715,8 @@
             "de": "Rochuskapelle (Cluster B)",
             "hu": "Rókus-kápolna (B klaszter)",
             "ro": "Capela Sf. Rochus (Cluster B)",
-            "en": "Rochus Chapel (Cluster B)"
+            "en": "Rochus Chapel (Cluster B)",
+            "tr": "Rochus Şapeli (Küme B)"
           },
           "coords": [
             7.915,
@@ -689,7 +732,8 @@
             "de": "Bequeme Anfahrt mit dem Auto auf den Rochusberg.",
             "hu": "Kényelmes feljutás autóval a Rochus-hegyre.",
             "ro": "Acces ușor cu mașina pe muntele Rochus.",
-            "en": "Easy drive up the Rochusberg by car."
+            "en": "Easy drive up the Rochusberg by car.",
+            "tr": "Rochusberg'e arabayla kolay tırmanış."
           }
         },
         {
@@ -697,7 +741,8 @@
             "de": "Mittagessen (Cluster B)",
             "hu": "Ebéd (B klaszter)",
             "ro": "Prânz (Cluster B)",
-            "en": "Lunch (Cluster B)"
+            "en": "Lunch (Cluster B)",
+            "tr": "Öğle Yemeği (Küme B)"
           },
           "coords": [
             7.916,
@@ -713,7 +758,8 @@
             "de": "Genießen Sie den Ausblick beim Essen auf dem Berg.",
             "hu": "Élvezze a kilátást étkezés közben a hegyen.",
             "ro": "Bucurați-vă de priveliște în timp ce luați masa pe munte.",
-            "en": "Enjoy the view while eating on the mountain."
+            "en": "Enjoy the view while eating on the mountain.",
+            "tr": "Dağda yemek yerken manzaranın tadını çıkarın."
           }
         },
         {
@@ -721,7 +767,8 @@
             "de": "Museum am Strom (Cluster C)",
             "hu": "Múzeum a folyónál (C klaszter)",
             "ro": "Muzeul de lângă râu (Cluster C)",
-            "en": "Museum am Strom (Cluster C)"
+            "en": "Museum am Strom (Cluster C)",
+            "tr": "Museum am Strom (Küme C)"
           },
           "coords": [
             7.8985,
@@ -737,7 +784,8 @@
             "de": "Großer Parkplatz direkt am Kulturufer.",
             "hu": "Nagy parkoló közvetlenül a kultúrparton.",
             "ro": "Parcare mare chiar pe faleza culturală.",
-            "en": "Large parking lot directly at the Culture Bank."
+            "en": "Large parking lot directly at the Culture Bank.",
+            "tr": "Kültür Rıhtımı'nda doğrudan büyük otopark."
           }
         },
         {
@@ -745,7 +793,8 @@
             "de": "Kulturufer (Cluster C)",
             "hu": "Kultúrpart (C klaszter)",
             "ro": "Faleza (Cluster C)",
-            "en": "Kulturufer (Cluster C)"
+            "en": "Kulturufer (Cluster C)",
+            "tr": "Kulturufer (Küme C)"
           },
           "coords": [
             7.897,
@@ -761,7 +810,8 @@
             "de": "Lassen Sie das Auto stehen und erkunden Sie das Ufer zu Fuß.",
             "hu": "Hagyja az autót, és fedezze fel a partot gyalog.",
             "ro": "Lăsați mașina și explorați faleza la pas.",
-            "en": "Leave the car and explore the bank on foot."
+            "en": "Leave the car and explore the bank on foot.",
+            "tr": "Arabayı bırakın ve rıhtımı yürüyerek keşfedin."
           }
         },
         {
@@ -769,7 +819,8 @@
             "de": "Mäuseturm View (Cluster C)",
             "hu": "Egértorony kilátás (C klaszter)",
             "ro": "Vedere Turnul Șoarecilor (Cluster C)",
-            "en": "Mouse Tower View (Cluster C)"
+            "en": "Mouse Tower View (Cluster C)",
+            "tr": "Fare Kulesi Manzarası (Küme C)"
           },
           "coords": [
             7.882,
@@ -785,7 +836,8 @@
             "de": "Der schönste Abschluss einer Tagestour.",
             "hu": "Az egynapos túra legszebb lezárása.",
             "ro": "Cea mai frumoasă încheiere a turului de o zi.",
-            "en": "The most beautiful way to end a day tour."
+            "en": "The most beautiful way to end a day tour.",
+            "tr": "Günlük turu sonlandırmak için en güzel rota."
           }
         }
       ],
@@ -793,7 +845,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Ebenen Bingens. Starten Sie im Stadtzentrum an der Burg Klopp und der Basilika. Danach fahren Sie hinauf zum Rochusberg für ein Mittagessen mit Weitblick. Am Nachmittag parken Sie am Kulturufer, um das Museum am Strom und die weitläufigen Parkanlagen zu Fuß zu genießen. Den Blick auf den Mäuseturm gibt es zum krönenden Abschluss.",
         "hu": "Autóval kényelmesen elérheti Bingen különböző szintjeit. Kezdjen a városközpontban a Klopp-várnál és a bazilikánál. Ezután hajtson fel a Rochus-hegyre egy panorámás ebédhez. Délután parkoljon le a kultúrparton, hogy gyalogosan fedezhesse fel a múzeumot és a tágas parkokat. Az Egértorony látványa lesz a nap koronája.",
         "ro": "Cu mașina puteți ajunge ușor în diferitele zone ale orașului. Începeți în centru la castel și bazilică. Apoi urcați pe muntele Rochus pentru un prânz cu vedere panoramică. După-amiaza parcați la faleză pentru a vizita muzeul și parcurile pe jos. Vederea spre Turnul Șoarecilor este punctul culminant al zilei.",
-        "en": "By car, you can easily reach the different levels of Bingen. Start in the city center at Klopp Castle and the Basilica. Then drive up the Rochusberg for a lunch with a view. In the afternoon, park at the Culture Bank to enjoy the museum and the extensive parks on foot. The view of the Mouse Tower is the crowning finale."
+        "en": "By car, you can easily reach the different levels of Bingen. Start in the city center at Klopp Castle and the Basilica. Then drive up the Rochusberg for a lunch with a view. In the afternoon, park at the Culture Bank to enjoy the museum and the extensive parks on foot. The view of the Mouse Tower is the crowning finale.",
+        "tr": "Arabayla Bingen'in farklı seviyelerine kolayca ulaşabilirsiniz. Şehir merkezinde Klopp Şatosu ve Bazilikayla başlayın. Ardından Rochusberg'e tırmanıp manzaralı bir öğle yemeği yiyin. Öğleden sonra müze ve geniş parkların tadını çıkarmak için Kültür Rıhtımı'nda park edin. Fare Kulesi manzarası günün taçlandırmasıdır."
       },
       "gastro_picks": {
         "de": [
@@ -893,6 +946,10 @@
         "en": [
           "Parking in the city center is often time-limited, use parking garages.",
           "The road to the Rochusberg is well-developed and offers many parking options."
+        ],
+        "tr": [
+          "Şehir merkezinde park genellikle zamanla sınırlıdır, otoparkları kullanın.",
+          "Rochusberg yolunun durumu iyi ve birçok park imkanı sunar."
         ]
       }
     },
@@ -909,7 +966,8 @@
             "de": "Bingen Stadtbahnhof",
             "hu": "Bingen városi pályaudvar",
             "ro": "Gara Bingen Stadt",
-            "en": "Bingen Stadt Station"
+            "en": "Bingen Stadt Station",
+            "tr": "Bingen Stadt İstasyonu"
           },
           "coords": [
             7.896,
@@ -925,7 +983,8 @@
             "de": "Zentraler Ankunftspunkt für Regionalzüge.",
             "hu": "Központi érkezési pont a regionális vonatok számára.",
             "ro": "Punct central de sosire pentru trenurile regionale.",
-            "en": "Central arrival point for regional trains."
+            "en": "Central arrival point for regional trains.",
+            "tr": "Bölgesel trenler için merkezi varış noktası."
           }
         },
         {
@@ -933,7 +992,8 @@
             "de": "Burg Klopp",
             "hu": "Klopp-vár",
             "ro": "Castelul Klopp",
-            "en": "Klopp Castle"
+            "en": "Klopp Castle",
+            "tr": "Klopp Şatosu"
           },
           "coords": [
             7.8935,
@@ -949,7 +1009,8 @@
             "de": "Vom Stadtbahnhof in wenigen Minuten zu Fuß erreichbar.",
             "hu": "A városi pályaudvartól pár perc sétával elérhető.",
             "ro": "Accesibil în câteva minute pe jos de la gară.",
-            "en": "Accessible on foot from the station in a few minutes."
+            "en": "Accessible on foot from the station in a few minutes.",
+            "tr": "İstasyondan birkaç dakikada yürüme mesafesinde erişilebilir."
           }
         },
         {
@@ -957,7 +1018,8 @@
             "de": "Altstadt / Basilica",
             "hu": "Óváros / Bazilika",
             "ro": "Orașul vechi / Bazilica",
-            "en": "Old Town / Basilica"
+            "en": "Old Town / Basilica",
+            "tr": "Eski Şehir / Bazilika"
           },
           "coords": [
             7.8945,
@@ -973,7 +1035,8 @@
             "de": "Das historische Herz der Stadt.",
             "hu": "A város történelmi szíve.",
             "ro": "Inima istorică a orașului.",
-            "en": "The historical heart of the city."
+            "en": "The historical heart of the city.",
+            "tr": "Şehrin tarihî kalbi."
           }
         },
         {
@@ -981,7 +1044,8 @@
             "de": "Kulturufer",
             "hu": "Kultúrpart",
             "ro": "Faleza Culturală",
-            "en": "Culture Bank"
+            "en": "Culture Bank",
+            "tr": "Kültür Rıhtımı"
           },
           "coords": [
             7.897,
@@ -997,7 +1061,8 @@
             "de": "Genießen Sie Ihr Mittagessen am Rheinufer.",
             "hu": "Élvezze az ebédet a Rajna partján.",
             "ro": "Savurați prânzul pe malul Rinului.",
-            "en": "Enjoy your lunch on the Rhine bank."
+            "en": "Enjoy your lunch on the Rhine bank.",
+            "tr": "Ren bankında öğle yemeğinizin tadını çıkarın."
           }
         },
         {
@@ -1005,7 +1070,8 @@
             "de": "Museum am Strom",
             "hu": "Múzeum a folyónál",
             "ro": "Muzeul de lângă râu",
-            "en": "Museum am Strom"
+            "en": "Museum am Strom",
+            "tr": "Museum am Strom"
           },
           "coords": [
             7.8985,
@@ -1021,7 +1087,8 @@
             "de": "Direkt an der Promenade gelegen.",
             "hu": "Közvetlenül a sétányon található.",
             "ro": "Situat direct pe faleză.",
-            "en": "Located directly on the promenade."
+            "en": "Located directly on the promenade.",
+            "tr": "Promenade üzerinde doğrudan konumlanmış."
           }
         },
         {
@@ -1029,7 +1096,8 @@
             "de": "Bingen Hbf",
             "hu": "Bingen főpályaudvar",
             "ro": "Gara Centrală Bingen",
-            "en": "Bingen Central Station"
+            "en": "Bingen Central Station",
+            "tr": "Bingen Merkez İstasyonu"
           },
           "coords": [
             7.886,
@@ -1045,7 +1113,8 @@
             "de": "Bus- oder Zugverbindung vom Stadtzentrum.",
             "hu": "Busz- vagy vonatkapcsolat a városközpontból.",
             "ro": "Legătură cu autobuzul sau trenul din centru.",
-            "en": "Bus or train connection from the city center."
+            "en": "Bus or train connection from the city center.",
+            "tr": "Şehir merkezinden otobüs veya tren bağlantısı."
           }
         },
         {
@@ -1053,7 +1122,8 @@
             "de": "Mäuseturm Panorama",
             "hu": "Egértorony panoráma",
             "ro": "Panoramă Turnul Șoarecilor",
-            "en": "Mouse Tower Panorama"
+            "en": "Mouse Tower Panorama",
+            "tr": "Fare Kulesi Panoraması"
           },
           "coords": [
             7.882,
@@ -1069,7 +1139,8 @@
             "de": "Vom Hauptbahnhof aus in wenigen Minuten zu Fuß erreichbar.",
             "hu": "A főpályaudvartól pár perc sétára.",
             "ro": "La câteva minute de mers pe jos de gara centrală.",
-            "en": "A few minutes' walk from the central station."
+            "en": "A few minutes' walk from the central station.",
+            "tr": "Merkez istasyondan birkaç dakikalık yürüyüş mesafesinde."
           }
         }
       ],
@@ -1077,7 +1148,8 @@
         "de": "Nutzen Sie die hervorragende Bahnanbindung Bingens. Starten Sie am Stadtbahnhof und erkunden Sie die historische Oberstadt mit der Burg Klopp. Mittags schlendern Sie zum Kulturufer, das bequem zu Fuß erreichbar ist. Am Nachmittag bringt Sie ein kurzer Transit zum Hauptbahnhof (Bingen Hbf), von wo aus Sie das Panorama des Mäuseturms und die Nahemündung entdecken können.",
         "hu": "Használja ki Bingen kiváló vasúti összeköttetéseit. Kezdjen a városi pályaudvarnál, és fedezze fel a történelmi felsővárost a Klopp-várral. Délben sétáljon le a kultúrpartra, amely gyalog is könnyen elérhető. Délután egy rövid utazással érje el a főpályaudvart, ahonnan az Egértorony panorámája és a Nahe-torkolat fedezhető fel.",
         "ro": "Profitați de legăturile feroviare excelente din Bingen. Începeți la gara de oraș și explorați centrul istoric și Castelul Klopp. La prânz, mergeți pe faleză, care este ușor accesibilă pe jos. După-amiaza, un scurt tranzit vă duce la gara centrală (Bingen Hbf), de unde puteți descoperi panorama Turnului Șoarecilor.",
-        "en": "Take advantage of Bingen's excellent rail connections. Start at the city station and explore the historic upper town with Klopp Castle. At noon, stroll to the Culture Bank, which is easily accessible on foot. In the afternoon, a short transit takes you to the main station (Bingen Hbf), from where you can discover the Mouse Tower panorama."
+        "en": "Take advantage of Bingen's excellent rail connections. Start at the city station and explore the historic upper town with Klopp Castle. At noon, stroll to the Culture Bank, which is easily accessible on foot. In the afternoon, a short transit takes you to the main station (Bingen Hbf), from where you can discover the Mouse Tower panorama.",
+        "tr": "Bingen'in mükemmel demiryolu bağlantılarından yararlanın. Şehir istasyonunda başlayıp Klopp Şatosu'nun bulunduğu tarihî üst şehri keşfedin. Öğlen Kültür Rıhtımı'na yürüyün; burası yaya ile kolayca ulaşılabilir. Öğleden sonra kısa bir aktarma ile ana istasyona (Bingen Hbf) gidin; buradan Fare Kulesi panoramasını keşfedebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1177,6 +1249,10 @@
         "en": [
           "Bingen has two stations: 'Stadt' is more central, 'Hbf' is closer to the Mouse Tower.",
           "The regional train between both stations runs very frequently."
+        ],
+        "tr": [
+          "Bingen'in iki istasyonu vardır: 'Stadt' daha merkezi, 'Hbf' Fare Kulesi'ne daha yakın.",
+          "Her iki istasyon arasındaki bölgesel tren çok sık çalışır."
         ]
       }
     }

@@ -21,7 +21,8 @@
             "de": "Christuskirche",
             "hu": "Krisztus-templom",
             "ro": "Biserica lui Hristos",
-            "en": "Christ Church"
+            "en": "Christ Church",
+            "tr": "Christ Church"
           },
           "coords": [
             7.1771,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die neugotische Architektur im Stadtzentrum.",
             "hu": "Csodálja meg a neogótikus építészetet a városközpontban.",
             "ro": "Admirați arhitectura neogotică din centrul orașului.",
-            "en": "Admire the neo-Gothic architecture in the city center."
+            "en": "Admire the neo-Gothic architecture in the city center.",
+            "tr": "Şehir merkezindeki neo-Gotik mimariye hayran kalın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stumm-Denkmal",
             "hu": "Stumm-emlékmű",
             "ro": "Monumentul Stumm",
-            "en": "Stumm Monument"
+            "en": "Stumm Monument",
+            "tr": "Stumm Monument"
           },
           "coords": [
             7.1777,
@@ -59,7 +62,8 @@
             "de": "Ein Denkmal für die Industriellenfamilie Stumm.",
             "hu": "Emlékmű az iparos Stumm család tiszteletére.",
             "ro": "Un monument dedicat familiei de industriași Stumm.",
-            "en": "A monument dedicated to the Stumm industrialist family."
+            "en": "A monument dedicated to the Stumm industrialist family.",
+            "tr": "Stumm sanayici ailesine adanmış bir anıt."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Altes Hüttenareal",
             "hu": "Régi Vasmű Területe",
             "ro": "Vechiul Sit Siderurgic",
-            "en": "Old Ironworks Site"
+            "en": "Old Ironworks Site",
+            "tr": "Old Ironworks Site"
           },
           "coords": [
             7.1752,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die gigantischen Hochöfen hautnah.",
             "hu": "Fedezze fel testközelből a hatalmas nagyolvasztókat.",
             "ro": "Explorați furnalele gigantice de aproape.",
-            "en": "Explore the gigantic blast furnaces up close."
+            "en": "Explore the gigantic blast furnaces up close.",
+            "tr": "Dev yüksek fırınları yakından keşfedin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen am Hüttenareal",
             "hu": "Ebéd a Vasműnél",
             "ro": "Prânz la Situl Siderurgic",
-            "en": "Lunch at the Ironworks"
+            "en": "Lunch at the Ironworks",
+            "tr": "Lunch at the Ironworks"
           },
           "coords": [
             7.1765,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie saarländische Lyoner in industrieller Atmosphäre.",
             "hu": "Kóstolja meg a saar-vidéki Lyonert ipari környezetben.",
             "ro": "Gustați Lyoner din Saarland într-o atmosferă industrială.",
-            "en": "Try Saarland Lyoner in an industrial atmosphere."
+            "en": "Try Saarland Lyoner in an industrial atmosphere.",
+            "tr": "Endüstriyel bir atmosferde Saarland Lyoner deneyin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Gebläsehalle",
             "hu": "Fúvógépház",
             "ro": "Hala Suflantelor",
-            "en": "Blower Hall"
+            "en": "Blower Hall",
+            "tr": "Blower Hall"
           },
           "coords": [
             7.1745,
@@ -128,7 +137,8 @@
             "de": "Ein beeindruckender Ort für Konzerte und Ausstellungen.",
             "hu": "Lenyűgöző helyszín koncertek és kiállítások számára.",
             "ro": "O locație impresionantă pentru concerte și expoziții.",
-            "en": "An impressive venue for concerts and exhibitions."
+            "en": "An impressive venue for concerts and exhibitions.",
+            "tr": "Konserler ve sergiler için etkileyici bir mekan."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Spitzbunker",
             "hu": "Spitz-bunker",
             "ro": "Buncăr Spitz",
-            "en": "Spitz Bunker"
+            "en": "Spitz Bunker",
+            "tr": "Spitz Bunker"
           },
           "coords": [
             7.1728,
@@ -151,7 +162,8 @@
             "de": "Ein markanter Luftschutzbunker aus dem Zweiten Weltkrieg.",
             "hu": "Jellegzetes légoltalmi bunker a második világháborúból.",
             "ro": "Un buncăr antiaerian distinctiv din Al Doilea Război Mondial.",
-            "en": "A distinctive air-raid bunker from World War II."
+            "en": "A distinctive air-raid bunker from World War II.",
+            "tr": "II. Dünya Savaşı'ndan ayırt edici bir hava saldırısı sığınağı."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Neunkirchen, die ehemalige Stadt von Kohle und Eisen, bietet heute eine faszinierende Mischung aus Industriekultur und urbanem Leben. Beginnen Sie Ihren Rundgang im Herzen der Stadt bei der Christuskirche und dem Stumm-Denkmal, Symbole der glanzvollen Industriegeschichte. Der Höhepunkt ist das Alte Hüttenareal, wo monumentale Stahlstrukturen eine dramatische Kulisse bilden. Der Tag endet beim einzigartigen Spitzbunker, einem Mahnmal der Technikgeschichte.",
         "hu": "Neunkirchen, az egykori szén- és acélváros ma az ipari kultúra és a városi élet izgalmas keverékét kínálja. Kezdje a sétát a város szívében a Krisztus-templomnál és a Stumm-emlékműnél, amelyek a dicső ipari múlt jelképei. A nap fénypontja a Régi Vasmű Területe, ahol a monumentális acélszerkezetek drámai hátteret adnak. A napot a különleges Spitz-bunkernél zárjuk, amely a technikatörténet egyik mementója.",
         "ro": "Neunkirchen, fostul oraș al cărbunelui și fierului, oferă astăzi un amestec fascinant de cultură industrială și viață urbană. Începeți turul în inima orașului la Christuskirche și monumentul Stumm, simboluri ale istoriei industriale glorioase. Punctul culminant este Vechiul Sit Siderurgic, unde structurile monumentale de oțel formează un cadru dramatic. Ziua se încheie la buncărul Spitz, un monument unic al istoriei tehnice.",
-        "en": "Neunkirchen, the former city of coal and iron, today offers a fascinating blend of industrial culture and urban life. Start your tour in the heart of the city at Christ Church and the Stumm Monument, symbols of the glorious industrial history. The highlight is the Old Ironworks Site, where monumental steel structures create a dramatic backdrop. The day ends at the unique Spitz Bunker, a memorial to technical history."
+        "en": "Neunkirchen, the former city of coal and iron, today offers a fascinating blend of industrial culture and urban life. Start your tour in the heart of the city at Christ Church and the Stumm Monument, symbols of the glorious industrial history. The highlight is the Old Ironworks Site, where monumental steel structures create a dramatic backdrop. The day ends at the unique Spitz Bunker, a memorial to technical history.",
+        "tr": "Neunkirchen, eskiden kömür ve demir kenti, bugün sanayi kültürü ile kentsel yaşamın büyüleyici bir karışımını sunuyor. Turunuza kentin kalbinde Christ Church ve Stumm Anıtı'nda başlayın; bunlar görkemli sanayi tarihinin simgeleridir. Vurgu noktası, anıtsal çelik yapılarının dramatik bir arka plan oluşturduğu Old Ironworks Site'tır. Gün, teknik tarihe bir anıt niteliğindeki benzersiz Spitz Bunker'de sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -299,6 +312,11 @@
           "The ironworks site is best explored on foot; wear sturdy footwear.",
           "Combine your visit with a shopping trip to the Saarpark-Center.",
           "The information boards along the Hüttenweg provide exciting insights into the workers' lives."
+        ],
+        "tr": [
+          "Demirhane alanı yürüyerek keşfetmek için en uygunudur; sağlam ayakkabı giyin.",
+          "Ziyaretinizi Saarpark-Center'da alışverişle birleştirin.",
+          "Hüttenweg boyunca yer alan bilgi panoları işçilerin hayatına dair ilginç bilgiler sunar."
         ]
       }
     },
@@ -315,7 +333,8 @@
             "de": "Altes Hüttenareal",
             "hu": "Régi Vasmű",
             "ro": "Vechiul Sit",
-            "en": "Old Ironworks"
+            "en": "Old Ironworks",
+            "tr": "Old Ironworks"
           },
           "coords": [
             7.1752,
@@ -330,7 +349,8 @@
             "de": "Starten Sie Ihre Tour am Herzstück der Industriegeschichte.",
             "hu": "Kezdje túráját az ipari múlt központjában.",
             "ro": "Începeți turul în inima istoriei industriale.",
-            "en": "Start your tour at the heart of industrial history."
+            "en": "Start your tour at the heart of industrial history.",
+            "tr": "Sanayi tarihinin kalbinde turunuza başlayın."
           }
         },
         {
@@ -338,7 +358,8 @@
             "de": "Ellenfeldstadion",
             "hu": "Ellenfeld Stadion",
             "ro": "Stadionul Ellenfeld",
-            "en": "Ellenfeld Stadium"
+            "en": "Ellenfeld Stadium",
+            "tr": "Ellenfeld Stadium"
           },
           "coords": [
             7.1912,
@@ -353,7 +374,8 @@
             "de": "Besuchen Sie das traditionsreiche Fußballstadion von Borussia Neunkirchen.",
             "hu": "Látogassa meg a Borussia Neunkirchen hagyományos futballstadionját.",
             "ro": "Vizitați stadionul istoric al echipei Borussia Neunkirchen.",
-            "en": "Visit the traditional football stadium of Borussia Neunkirchen."
+            "en": "Visit the traditional football stadium of Borussia Neunkirchen.",
+            "tr": "Borussia Neunkirchen'in geleneksel futbol stadyumunu ziyaret edin."
           }
         },
         {
@@ -361,7 +383,8 @@
             "de": "Zoo Neunkirchen",
             "hu": "Neunkircheni Állatkert",
             "ro": "Grădina Zoologică",
-            "en": "Neunkirchen Zoo"
+            "en": "Neunkirchen Zoo",
+            "tr": "Neunkirchen Zoo"
           },
           "coords": [
             7.1965,
@@ -376,7 +399,8 @@
             "de": "Der Zoo ist berühmt für seine Elefantenherde.",
             "hu": "Az állatkert híres az elefántcsordájáról.",
             "ro": "Grădina zoologică este faimoasă pentru turma sa de elefanți.",
-            "en": "The zoo is famous for its elephant herd."
+            "en": "The zoo is famous for its elephant herd.",
+            "tr": "Hayvanat bahçesi fil sürüsüyle ünlüdür."
           }
         },
         {
@@ -384,7 +408,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sf. Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "St. Mary's Church"
           },
           "coords": [
             7.1728,
@@ -399,7 +424,8 @@
             "de": "Eine neobarocke Kirche mit prachtvoller Innenausstattung.",
             "hu": "Neobarokk templom pompás belső díszítéssel.",
             "ro": "O biserică neobarocă cu un interior spectaculos.",
-            "en": "A neo-Baroque church with magnificent interior decor."
+            "en": "A neo-Baroque church with magnificent interior decor.",
+            "tr": "Görkemli iç dekorasyona sahip neo-Barok bir kilise."
           }
         }
       ],
@@ -407,7 +433,8 @@
         "de": "Diese Fahrradtour verbindet die raue Schönheit der Industrieareale mit den grünen Oasen der Stadt. Von den rostigen Riesen des Hüttenareals radeln Sie zum historischen Stadion und weiter zum beliebten Zoo. Die Route führt Sie durch abwechslungsreiche Viertel bis zur prächtigen Marienkirche.",
         "hu": "Ez a kerékpáros túra az ipari területek nyers szépségét ötvözi a város zöld oázisaival. A vasmű rozsdás óriásaitól a történelmi stadionhoz, majd a népszerű állatkerthez kerekezünk. Az útvonal változatos negyedeken át vezet a pompás Mária-templomig.",
         "ro": "Acest tur cu bicicleta combină frumusețea brută a siturilor industriale cu oazele verzi ale orașului. De la giganții ruginiți ai sitului siderurgic, pedalați spre stadionul istoric și apoi spre populara grădină zoologică. Traseul vă poartă prin cartiere variate până la superba biserică Marienkirche.",
-        "en": "This bike tour combines the raw beauty of industrial sites with the city's green oases. From the rusty giants of the ironworks, cycle to the historic stadium and on to the popular zoo. The route takes you through diverse neighborhoods to the magnificent St. Mary's Church."
+        "en": "This bike tour combines the raw beauty of industrial sites with the city's green oases. From the rusty giants of the ironworks, cycle to the historic stadium and on to the popular zoo. The route takes you through diverse neighborhoods to the magnificent St. Mary's Church.",
+        "tr": "Bu bisiklet turu, sanayi alanlarının ham güzelliğini kentin yeşil vahalarıyla birleştirir. Paslı devlerden tarihi stadyuma ve popüler hayvanat bahçesine pedal çevirin. Rota sizi farklı mahallelerden geçirerek görkemli St. Mary's Church'a götürür."
       },
       "gastro_picks": {
         "de": [
@@ -503,6 +530,9 @@
         ],
         "en": [
           "The paths between clusters are mostly flat."
+        ],
+        "tr": [
+          "Kümeler arasındaki yollar çoğunlukla düz."
         ]
       }
     },
@@ -519,7 +549,8 @@
             "de": "Christuskirche (Cluster Center)",
             "hu": "Krisztus-templom",
             "ro": "Christuskirche",
-            "en": "Christ Church"
+            "en": "Christ Church",
+            "tr": "Christ Church"
           },
           "coords": [
             7.1771,
@@ -534,7 +565,8 @@
             "de": "Parken Sie im Saarpark-Center für diesen Cluster.",
             "hu": "Parkoljon a Saarpark-Centerben ehhez a környékhez.",
             "ro": "Parcați la Saarpark-Center pentru acest cluster.",
-            "en": "Park at Saarpark-Center for this cluster."
+            "en": "Park at Saarpark-Center for this cluster.",
+            "tr": "Bu küme için Saarpark-Center'da park edin."
           }
         },
         {
@@ -542,7 +574,8 @@
             "de": "Stumm-Denkmal",
             "hu": "Stumm-emlékmű",
             "ro": "Monumentul Stumm",
-            "en": "Stumm Monument"
+            "en": "Stumm Monument",
+            "tr": "Stumm Monument"
           },
           "coords": [
             7.1777,
@@ -557,7 +590,8 @@
             "de": "Ein kurzer Fußweg vom Center entfernt.",
             "hu": "Rövid séta a bevásárlóközponttól.",
             "ro": "O scurtă plimbare de la centru.",
-            "en": "A short walk from the center."
+            "en": "A short walk from the center.",
+            "tr": "Merkezden kısa bir yürüyüş mesafesinde."
           }
         },
         {
@@ -565,7 +599,8 @@
             "de": "Altes Hüttenareal",
             "hu": "Régi Vasmű",
             "ro": "Vechiul Sit",
-            "en": "Old Ironworks"
+            "en": "Old Ironworks",
+            "tr": "Old Ironworks"
           },
           "coords": [
             7.1752,
@@ -580,7 +615,8 @@
             "de": "Beeindruckende Industriekulisse.",
             "hu": "Lenyűgöző ipari háttér.",
             "ro": "Cadru industrial impresionant.",
-            "en": "Impressive industrial setting."
+            "en": "Impressive industrial setting.",
+            "tr": "Etkileyici endüstriyel ortam."
           }
         },
         {
@@ -588,7 +624,8 @@
             "de": "Zoo Neunkirchen (Cluster Ost)",
             "hu": "Állatkert (Kelet)",
             "ro": "Grădina Zoologică",
-            "en": "Zoo (East)"
+            "en": "Zoo (East)",
+            "tr": "Zoo (East)"
           },
           "coords": [
             7.1965,
@@ -603,7 +640,8 @@
             "de": "Nutzen Sie den großen Parkplatz am Zooeingang.",
             "hu": "Használja az állatkert bejáratánál lévő nagy parkolót.",
             "ro": "Utilizați parcarea mare de la intrarea grădinii zoologice.",
-            "en": "Use the large parking lot at the zoo entrance."
+            "en": "Use the large parking lot at the zoo entrance.",
+            "tr": "Hayvanat bahçesi girişindeki geniş otoparkı kullanın."
           }
         }
       ],
@@ -611,7 +649,8 @@
         "de": "Mit dem Auto erkunden Sie bequem die beiden Hauptattraktionen: das industrielle Erbe im Zentrum und die Naturerlebnisse im Osten. Nach einem Stadtbummel fahren Sie zum weitläufigen Zoo, der besonders für Familien ein Muss ist.",
         "hu": "Autóval kényelmesen fedezheti fel a két fő látnivalót: a központ ipari örökségét és a keleti rész természeti élményeit. A városi séta után guruljon el a tágas állatkerthez, amely családoknak kötelező program.",
         "ro": "Cu mașina, puteți explora confortabil cele două atracții principale: moștenirea industrială din centru și experiențele în natură din est. După o plimbare prin oraș, mergeți la grădina zoologică spațioasă, un punct obligatoriu pentru familii.",
-        "en": "By car, you can comfortably explore the two main attractions: the industrial heritage in the center and the nature experiences in the east. After a city stroll, drive to the spacious zoo, a must-see especially for families."
+        "en": "By car, you can comfortably explore the two main attractions: the industrial heritage in the center and the nature experiences in the east. After a city stroll, drive to the spacious zoo, a must-see especially for families.",
+        "tr": "Arabayla şehir merkezindeki sanayi mirasını ve doğa deneyimlerini doğuda rahatça keşfedebilirsiniz. Bir şehir gezisinin ardından özellikle aileler için görülmesi gereken geniş hayvanat bahçesine sürün."
       },
       "gastro_picks": {
         "de": [
@@ -707,6 +746,9 @@
         ],
         "en": [
           "Parking in the center is easy thanks to multi-story car parks."
+        ],
+        "tr": [
+          "Merkezde çok katlı otoparklar sayesinde park etmek kolay."
         ]
       }
     },
@@ -723,7 +765,8 @@
             "de": "Neunkirchen Hauptbahnhof",
             "hu": "Neunkirchen Főpályaudvar",
             "ro": "Gara Centrală Neunkirchen",
-            "en": "Neunkirchen Main Station"
+            "en": "Neunkirchen Main Station",
+            "tr": "Neunkirchen Main Station"
           },
           "coords": [
             7.1705,
@@ -738,7 +781,8 @@
             "de": "Ihr Ankunftspunkt mit direkter Busanbindung zum Zentrum.",
             "hu": "Érkezési pont közvetlen buszjáratokkal a központba.",
             "ro": "Punctul de sosire cu conexiuni directe de autobuz către centru.",
-            "en": "Your arrival point with direct bus connections to the center."
+            "en": "Your arrival point with direct bus connections to the center.",
+            "tr": "Merkezle direkt otobüs bağlantıları olan varış noktanız."
           }
         },
         {
@@ -746,7 +790,8 @@
             "de": "Altes Hüttenareal",
             "hu": "Régi Vasmű",
             "ro": "Vechiul Sit",
-            "en": "Old Ironworks"
+            "en": "Old Ironworks",
+            "tr": "Old Ironworks"
           },
           "coords": [
             7.1752,
@@ -761,7 +806,8 @@
             "de": "Kurze Busfahrt oder 10 Min. Fußweg vom Bahnhof.",
             "hu": "Rövid buszozás vagy 10 perc séta az állomástól.",
             "ro": "Călătorie scurtă cu autobuzul sau 10 minute pe jos de la gară.",
-            "en": "Short bus ride or 10 min walk from the station."
+            "en": "Short bus ride or 10 min walk from the station.",
+            "tr": "İstasyondan kısa bir otobüs yolculuğu veya 10 dakikalık yürüyüş."
           }
         },
         {
@@ -769,7 +815,8 @@
             "de": "Zoo Neunkirchen",
             "hu": "Állatkert",
             "ro": "Grădina Zoologică",
-            "en": "Zoo"
+            "en": "Zoo",
+            "tr": "Zoo"
           },
           "coords": [
             7.1965,
@@ -784,7 +831,8 @@
             "de": "Nutzen Sie die Buslinie 302 vom Zentrum zum Zoo.",
             "hu": "Használja a 302-es buszt a központból az állatkertig.",
             "ro": "Utilizați linia de autobuz 302 de la centru la grădina zoologică.",
-            "en": "Use bus line 302 from the center to the zoo."
+            "en": "Use bus line 302 from the center to the zoo.",
+            "tr": "Merkezden hayvanat bahçesine 302 numaralı hattı kullanın."
           }
         }
       ],
@@ -792,7 +840,8 @@
         "de": "Vom Hauptbahnhof aus erreichen Sie alle Sehenswürdigkeiten bequem mit dem dichten Busnetz. Starten Sie beim historischen Hüttenareal und fahren Sie dann entspannt zum Zoo. Die Stadt ist kompakt und ideal für Transit-Entdecker.",
         "hu": "A főpályaudvartól minden látnivaló kényelmesen elérhető a sűrű buszhálózattal. Kezdje a történelmi vasműnél, majd utazzon pihentetően az állatkertig. A város kompakt és ideális a tömegközlekedéssel utazóknak.",
         "ro": "De la gara centrală, puteți ajunge la toate atracțiile cu rețeaua densă de autobuze. Începeți la situl istoric și apoi călătoriți relaxat spre grădina zoologică. Orașul este compact și ideal pentru exploratorii cu transportul în comun.",
-        "en": "From the main station, you can reach all sights easily with the dense bus network. Start at the historic ironworks site and then take a relaxed ride to the zoo. The city is compact and ideal for transit explorers."
+        "en": "From the main station, you can reach all sights easily with the dense bus network. Start at the historic ironworks site and then take a relaxed ride to the zoo. The city is compact and ideal for transit explorers.",
+        "tr": "Ana istasyondan, yoğun otobüs ağı sayesinde tüm görülmeye değer yerlerine kolayca ulaşabilirsiniz. Turunuza tarihi demirhane alanında başlayın, ardından hayvanat bahçesine rahat bir yolculuk yapın. Şehir kompakt olup toplu taşıma meraklıları için idealdir."
       },
       "gastro_picks": {
         "de": [
@@ -888,6 +937,9 @@
         ],
         "en": [
           "The 'Saarfahrplan' app helps in finding connections."
+        ],
+        "tr": [
+          "Bağlantıları bulmak için 'Saarfahrplan' uygulaması yardımcı olur."
         ]
       }
     }

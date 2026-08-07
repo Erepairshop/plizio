@@ -3,55 +3,64 @@
     "de": "Schlossstr. 1, 59394 Nordkirchen",
     "hu": "Schlossstr. 1, 59394 Nordkirchen",
     "ro": "Schlossstr. 1, 59394 Nordkirchen",
-    "en": "Schlossstr. 1, 59394 Nordkirchen"
+    "en": "Schlossstr. 1, 59394 Nordkirchen",
+    "tr": "Schlossstr. 1, 59394 Nordkirchen"
   },
   "openingHours": {
     "de": "Park 24/7, Innenhof zugänglich",
     "hu": "Park 24/7, az udvar látogatható",
     "ro": "Parc 24/7, curtea interioară accesibilă",
-    "en": "Park 24/7, inner courtyard accessible"
+    "en": "Park 24/7, inner courtyard accessible",
+    "tr": "Park 24/7, iç avlu erişilebilir"
   },
   "entranceFee": {
     "de": "free (Park), €5.00 Führungen Innen",
     "hu": "ingyenes (park), 5,00 € beltéri vezetés",
     "ro": "gratuit (parc), 5 € tururi interior",
-    "en": "free (park), €5.00 tours inside"
+    "en": "free (park), €5.00 tours inside",
+    "tr": "ücretsiz (park), iç turlar €5,00"
   },
   "website": "https://www.schloss-nordkirchen.de",
   "publicTransport": {
     "de": "Bahnhof Capelle (Westf), dann Bus",
     "hu": "Capelle (Westf) vasútállomás, majd busz",
     "ro": "Gara Capelle (Westf), apoi autobuz",
-    "en": "Train station Capelle (Westf), then bus"
+    "en": "Train station Capelle (Westf), then bus",
+    "tr": "Capelle (Westf) tren istasyonu, sonra otobüs"
   },
   "parking": {
     "de": "Kostenlose Parkplätze am Schloss",
     "hu": "Ingyenes parkolás a kastélynál",
     "ro": "Parcare gratuită la castel",
-    "en": "Free parking at the castle"
+    "en": "Free parking at the castle",
+    "tr": "Kastelde ücretsiz otopark"
   },
   "accessibility": {
     "de": "Barrierefrei im Park und Innenhof",
     "hu": "Akadálymentesített park és udvar",
     "ro": "Accesibil în parc și în curte",
-    "en": "Accessible in park and courtyard"
+    "en": "Accessible in park and courtyard",
+    "tr": "Park ve avlu erişilebilir"
   },
   "photoRules": {
     "de": "Erlaubt",
     "hu": "Megengedett",
     "ro": "Permis",
-    "en": "Allowed"
+    "en": "Allowed",
+    "tr": "İzin veriliyor"
   },
   "bestTimeToVisit": {
     "de": "Sommer für Picknick im Park",
     "hu": "Nyár, piknikhez a parkban",
     "ro": "Vară pentru picnic în parc",
-    "en": "Summer for a picnic in the park"
+    "en": "Summer for a picnic in the park",
+    "tr": "Parkta piknik için yaz"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

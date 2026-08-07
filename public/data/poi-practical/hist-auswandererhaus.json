@@ -3,55 +3,64 @@
     "de": "H.-H.-Meier-Straße 3, 27568 Bremerhaven",
     "hu": "H.-H.-Meier-Straße 3, 27568 Bremerhaven",
     "ro": "H.-H.-Meier-Straße 3, 27568 Bremerhaven",
-    "en": "H.-H.-Meier-Straße 3, 27568 Bremerhaven"
+    "en": "H.-H.-Meier-Straße 3, 27568 Bremerhaven",
+    "tr": "H.-H.-Meier-Straße 3, 27568 Bremerhaven"
   },
   "openingHours": {
     "de": "März-Oktober: täglich 10:00-18:00; November-Februar: täglich 10:00-17:00",
     "hu": "Március–Október: naponta 10:00–18:00; November–Február: naponta 10:00–17:00",
     "ro": "Martie-Octombrie: zilnic 10:00-18:00; Noiembrie-Februarie: zilnic 10:00-17:00",
-    "en": "March-October: daily 10:00-18:00; November-February: daily 10:00-17:00"
+    "en": "March-October: daily 10:00-18:00; November-February: daily 10:00-17:00",
+    "tr": "Mart-Ekim: günlük 10:00-18:00; Kasım-Şubat: günlük 10:00-17:00"
   },
   "entranceFee": {
     "de": "€15.80 Erwachsene, €8.20 Kinder",
     "hu": "Felnőtt 15,80 €, gyermek 8,20 €",
     "ro": "15,80 € adulți, 8,20 € copii",
-    "en": "€15.80 adults, €8.20 children"
+    "en": "€15.80 adults, €8.20 children",
+    "tr": "€15,80 yetişkin, €8,20 çocuk"
   },
   "website": "https://www.dah-bremerhaven.de",
   "publicTransport": {
     "de": "Bus 502, 505, 506 bis Haltestelle 'Havenwelten'",
     "hu": "502, 505, 506 busz Havenwelten megállóig",
     "ro": "Autobuzul 502, 505, 506 până la stația „Havenwelten”",
-    "en": "Bus 502, 505, 506 to 'Havenwelten' stop"
+    "en": "Bus 502, 505, 506 to 'Havenwelten' stop",
+    "tr": "'Havenwelten' durağına otobüs 502, 505, 506"
   },
   "parking": {
     "de": "Parkhaus Havenwelten direkt gegenüber",
     "hu": "Havenwelten parkolóház közvetlenül szemben",
     "ro": "Parcarea Havenwelten direct vizavi",
-    "en": "Havenwelten parking garage directly opposite"
+    "en": "Havenwelten parking garage directly opposite",
+    "tr": "Havenwelten otopark garajı karşısında doğrudan"
   },
   "accessibility": {
     "de": "Voll barrierefrei; Rollstühle leihweise verfügbar",
     "hu": "Teljesen akadálymentes; kerekesszék kölcsönözhető",
     "ro": "Complet accesibil; scaune cu rotile disponibile pentru împrumut",
-    "en": "Fully accessible; wheelchairs available for loan"
+    "en": "Fully accessible; wheelchairs available for loan",
+    "tr": "Tam erişilebilir; tekerlekli sandalyeler ödünç alınabilir"
   },
   "photoRules": {
     "de": "Fotografieren ohne Blitz erlaubt",
     "hu": "Vaku nélküli fényképezés megengedett",
     "ro": "Fotografierea fără bliț permisă",
-    "en": "Photography without flash allowed"
+    "en": "Photography without flash allowed",
+    "tr": "Flaşsız fotoğraf çekimine izin verilir"
   },
   "bestTimeToVisit": {
     "de": "Wochentags ab 14:00 Uhr (weniger Schulklassen)",
     "hu": "Hétköznap 14:00 után (kevesebb az iskolás csoport)",
     "ro": "În zilele lucrătoare după ora 14:00 (mai puține grupuri școlare)",
-    "en": "Weekdays after 2:00 PM (fewer school groups)"
+    "en": "Weekdays after 2:00 PM (fewer school groups)",
+    "tr": "Hafta içi 14:00 sonrası (daha az okul grubu)"
   },
   "audioGuide": {
     "de": "Personalisiertes RFID-Ticket für interaktive Stationen (DE/EN)",
     "hu": "Személyre szabott RFID-jegy az interaktív állomásokhoz (DE/EN)",
     "ro": "Bilet RFID personalizat pentru stațiile interactive (DE/EN)",
-    "en": "Personalized RFID ticket for interactive stations (DE/EN)"
+    "en": "Personalized RFID ticket for interactive stations (DE/EN)",
+    "tr": "Etkileşimli istasyonlar için kişiselleştirilmiş RFID bilet (DE/EN)"
   }
 }

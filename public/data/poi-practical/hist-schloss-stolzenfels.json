@@ -3,55 +3,64 @@
     "de": "Schlossweg, 56075 Koblenz-Stolzenfels",
     "hu": "Schlossweg, 56075 Koblenz-Stolzenfels",
     "ro": "Schlossweg, 56075 Koblenz-Stolzenfels",
-    "en": "Schlossweg, 56075 Koblenz-Stolzenfels"
+    "en": "Schlossweg, 56075 Koblenz-Stolzenfels",
+    "tr": "Schlossweg, 56075 Koblenz-Stolzenfels"
   },
   "openingHours": {
     "de": "Di-Su 10:00-18:00 (Feb-Nov), Dez/Jan geschlossen",
     "hu": "K-V 10:00-18:00 (febr-nov), dec/jan zárva",
     "ro": "Ma-Du 10:00-18:00 (feb-nov), dec/ian închis",
-    "en": "Tue-Sun 10:00-18:00 (Feb-Nov), Dec/Jan closed"
+    "en": "Tue-Sun 10:00-18:00 (Feb-Nov), Dec/Jan closed",
+    "tr": "Sal-Paz 10:00-18:00 (Şub-Kas), Ara/Oca kapalı"
   },
   "entranceFee": {
     "de": "5,00 € Erwachsene, 3,00 € Kinder",
     "hu": "Felnőtt 5,00 €, gyermek 3,00 €",
     "ro": "5,00 € adulți, 3,00 € copii",
-    "en": "5.00 € adults, 3.00 € children"
+    "en": "5.00 € adults, 3.00 € children",
+    "tr": "5,00 € yetişkin, 3,00 € çocuk"
   },
   "website": "https://www.schloss-stolzenfels.de",
   "publicTransport": {
     "de": "Bus 650 ab Koblenz Hbf bis Haltestelle Stolzenfels Schlossweg",
     "hu": "650-es busz Koblenz főpályaudvartól Stolzenfels Schlossweg megállóig",
     "ro": "Autobuzul 650 de la Gara Centrală Koblenz până la stația Stolzenfels Schlossweg",
-    "en": "Bus 650 from Koblenz Hbf to Stolzenfels Schlossweg stop"
+    "en": "Bus 650 from Koblenz Hbf to Stolzenfels Schlossweg stop",
+    "tr": "Koblenz Hbf'den 650 numaralı otobüs ile Stolzenfels Schlossweg durağına"
   },
   "parking": {
     "de": "Sehr kleiner Parkplatz an der B9 unterhalb des Schlosses; langer steiler Fußweg (20 Min).",
     "hu": "Nagyon kicsi parkoló a B9 út mentén a kastély alatt; hosszú, meredek séta (20 perc).",
     "ro": "Parcare foarte mică pe B9 sub castel; drum lung și abrupt pe jos (20 min).",
-    "en": "Very small parking lot on B9 below the castle; long steep walk (20 mins)."
+    "en": "Very small parking lot on B9 below the castle; long steep walk (20 mins).",
+    "tr": "Kaleden aşağı B9 üzerinde çok küçük bir otopark; uzun dik bir yürüyüş (20 dk)."
   },
   "accessibility": {
     "de": "Nicht barrierefrei; steiler Serpentinenaufstieg zum Schloss; im Schloss viele Treppen.",
     "hu": "Nem akadálymentes; meredek szerpentin vezet a kastélyhoz; a kastélyban sok a lépcső.",
     "ro": "Nu este accesibil persoanelor cu dizabilități; urcare abruptă în serpentine spre castel; multe scări în interior.",
-    "en": "Not barrier-free; steep serpentine ascent to the castle; many stairs inside the castle."
+    "en": "Not barrier-free; steep serpentine ascent to the castle; many stairs inside the castle.",
+    "tr": "Engelliler için uygun değil; kaleye dik serpantin tırmanış ve içerde çok sayıda merdiven."
   },
   "photoRules": {
     "de": "In den Innenräumen nur ohne Blitz und Stativ erlaubt (nach Kauf einer Fotoerlaubnis).",
     "hu": "A belső terekben csak vaku és állvány nélkül engedélyezett (fotójegy vásárlása után).",
     "ro": "În interior permis doar fără bliț și trepied (după achiziționarea unui permis foto).",
-    "en": "Inside only allowed without flash and tripod (after purchasing a photo permit)."
+    "en": "Inside only allowed without flash and tripod (after purchasing a photo permit).",
+    "tr": "İçeride yalnızca flaşsız ve tripod olmadan (fotoğraf izni satın alındıktan sonra) izinli."
   },
   "bestTimeToVisit": {
     "de": "Mai oder September für angenehme Temperaturen beim steilen Aufstieg.",
     "hu": "Május vagy szeptember a kellemes hőmérséklet miatt a meredek emelkedőn.",
     "ro": "Mai sau septembrie pentru temperaturi plăcute în timpul urcării abrupte.",
-    "en": "May or September for pleasant temperatures during the steep climb."
+    "en": "May or September for pleasant temperatures during the steep climb.",
+    "tr": "Dik tırmanış sırasında hoş sıcaklıklar için Mayıs veya Eylül."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

@@ -21,7 +21,8 @@
             "de": "Rathaus Neumünster",
             "hu": "Neumünsteri városháza",
             "ro": "Primăria Neumünster",
-            "en": "Neumünster Town Hall"
+            "en": "Neumünster Town Hall",
+            "tr": "Neumünster Belediye Binası"
           },
           "coords": [
             9.988,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die neugotische Backsteinfassade am Großflecken.",
             "hu": "Csodálja meg a Großflecken téren álló neogótikus téglaépületet.",
             "ro": "Admirați fațada neogotică din cărămidă din piața Großflecken.",
-            "en": "Admire the neo-Gothic brick facade on the Großflecken square."
+            "en": "Admire the neo-Gothic brick facade on the Großflecken square.",
+            "tr": "Großflecken meydanında neo-Gotik tuğla cephesi hayranlık uyandırıyor."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Vicelinkirche",
             "hu": "Vicelin-templom",
             "ro": "Biserica Vicelin",
-            "en": "Vicelin Church"
+            "en": "Vicelin Church",
+            "tr": "Vicelin Kilisesi"
           },
           "coords": [
             9.9865,
@@ -59,7 +62,8 @@
             "de": "Klassizistische Architektur von Christian Frederik Hansen.",
             "hu": "Christian Frederik Hansen klasszicista építészeti remekműve.",
             "ro": "Arhitectură clasicistă de Christian Frederik Hansen.",
-            "en": "Classicist architecture designed by Christian Frederik Hansen."
+            "en": "Classicist architecture designed by Christian Frederik Hansen.",
+            "tr": "Christian Frederik Hansen tarafından tasarlanan klasikçi mimari."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museum Tuch + Technik",
             "hu": "Posztó és Technika Múzeum",
             "ro": "Muzeul Postavului și Tehnicii",
-            "en": "Cloth + Technology Museum"
+            "en": "Cloth + Technology Museum",
+            "tr": "Dokuma ve Teknoloji Müzesi"
           },
           "coords": [
             9.9845,
@@ -82,7 +87,8 @@
             "de": "Interaktive Zeitreise durch 2000 Jahre Textilgeschichte.",
             "hu": "Interaktív időutazás 2000 év textilipari történelmén át.",
             "ro": "Călătorie interactivă prin 2000 de ani de istorie textilă.",
-            "en": "Interactive journey through 2000 years of textile history."
+            "en": "Interactive journey through 2000 years of textile history.",
+            "tr": "2000 yıllık tekstil tarihine interaktif bir yolculuk."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "tr": "Şehir Merkezinde Öğle Yemeği"
           },
           "coords": [
             9.987,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie lokale Holsteiner Spezialitäten.",
             "hu": "Kóstolja meg a helyi holsteini különlegességeket.",
             "ro": "Încercați specialitățile locale din Holstein.",
-            "en": "Try some local Holstein specialties."
+            "en": "Try some local Holstein specialties.",
+            "tr": "Yerel Holstein lezzetlerini deneyin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Caspar-von-Saldern-Haus",
             "hu": "Caspar-von-Saldern-ház",
             "ro": "Casa Caspar-von-Saldern",
-            "en": "Caspar-von-Saldern-Haus"
+            "en": "Caspar-von-Saldern-Haus",
+            "tr": "Caspar-von-Saldern-Haus"
           },
           "coords": [
             9.9985,
@@ -128,7 +137,8 @@
             "de": "Das älteste Bürgerhaus der Stadt, heute ein Kulturzentrum.",
             "hu": "A város legrégebbi polgárháza, ma kulturális központ.",
             "ro": "Cea mai veche casă de cetățeni din oraș, azi centru cultural.",
-            "en": "The oldest townhouse in the city, now a cultural center."
+            "en": "The oldest townhouse in the city, now a cultural center.",
+            "tr": "Şehrin en eski şehir evidir, şimdi kültür merkezi olarak kullanılıyor."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Wasserturm",
             "hu": "Víztorony",
             "ro": "Turnul de apă",
-            "en": "Water Tower"
+            "en": "Water Tower",
+            "tr": "Su Kulesi"
           },
           "coords": [
             9.9825,
@@ -151,7 +162,8 @@
             "de": "Ein Wahrzeichen der industriellen Entwicklung der Stadt.",
             "hu": "A város ipari fejlődésének egyik jelképe.",
             "ro": "Un simbol al dezvoltării industriale a orașului.",
-            "en": "A landmark representing the city's industrial development."
+            "en": "A landmark representing the city's industrial development.",
+            "tr": "Şehrin sanayi gelişimini temsil eden bir simge yapı."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag am historischen Großflecken, dem Herzen von Neumünster. Nach dem Besuch der beeindruckenden Vicelinkirche tauchen Sie im preisgekrönten Museum Tuch + Technik tief in die industrielle Vergangenheit der Stadt ein. Nach einem stärkenden Mittagessen spazieren Sie zum ehrwürdigen Caspar-von-Saldern-Haus und beenden Ihre Tour am markanten Wasserturm, der stolz über die Stadt wacht.",
         "hu": "Kezdje a napot a Großflecken téren, Neumünster történelmi szívében. A lenyűgöző Vicelin-templom megtekintése után merüljön el a város ipari múltjában a díjnyertes Posztó és Technika Múzeumban. Egy kiadós ebéd után sétáljon el a tiszteletre méltó Caspar-von-Saldern-házhoz, majd fejezze be a túrát a város fölé magasodó jellegzetes víztoronynál.",
         "ro": "Începeți ziua la Großflecken, inima istorică a orașului Neumünster. După vizitarea impunătoarei biserici Vicelin, descoperiți trecutul industrial al orașului la premiatul Muzeu al Postavului și Tehnicii. După un prânz revigorant, mergeți spre onorabila Casă Caspar-von-Saldern și încheiați turul la turnul de apă distinctiv care veghează asupra orașului.",
-        "en": "Start your day at Großflecken, the historical heart of Neumünster. After visiting the impressive Vicelin Church, dive deep into the city's industrial past at the award-winning Cloth + Technology Museum. Following a restorative lunch, stroll to the venerable Caspar-von-Saldern-Haus and end your tour at the striking Water Tower that watches over the city."
+        "en": "Start your day at Großflecken, the historical heart of Neumünster. After visiting the impressive Vicelin Church, dive deep into the city's industrial past at the award-winning Cloth + Technology Museum. Following a restorative lunch, stroll to the venerable Caspar-von-Saldern-Haus and end your tour at the striking Water Tower that watches over the city.",
+        "tr": "Gününüzü tarihi kalp Großflecken'de başlatın. Etkileyici Vicelin Kilisesi'ni ziyaret ettikten sonra ödüllü Dokuma ve Teknoloji Müzesi'nde kentin sanayi geçmişine derinlemesine dalın. Dinlendirici bir öğle yemeğinin ardından saygın Caspar-von-Saldern-Haus'a yürüyün ve turunuzu kente hakim olan etkileyici Su Kulesi'nde sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -267,6 +280,12 @@
           "Look out for the Stolpersteine (stumbling stones) that commemorate local history.",
           "The Großflecken often hosts weekly markets with regional products.",
           "Combine your museum visit with a coffee at the museum cafe."
+        ],
+        "tr": [
+          "Şehir merkezi düz ve yürüyerek çok kolay keşfedilebilir.",
+          "Yerel tarihi anan Stolpersteine (takılma taşları) aramayı unutmayın.",
+          "Großflecken genellikle yöresel ürünlerle haftalık pazarlar düzenler.",
+          "Müze ziyaretinizi müze kafesinde bir kahve ile birleştirin."
         ]
       }
     },
@@ -283,7 +302,8 @@
             "de": "Vicelinkirche",
             "hu": "Vicelin-templom",
             "ro": "Biserica Vicelin",
-            "en": "Vicelin Church"
+            "en": "Vicelin Church",
+            "tr": "Vicelin Kilisesi"
           },
           "coords": [
             9.9865,
@@ -298,7 +318,8 @@
             "de": "Startpunkt im Zentrum mit guter Fahrradinfrastruktur.",
             "hu": "Központi kezdőpont jó kerékpáros infrastruktúrával.",
             "ro": "Punct de pornire în centru cu infrastructură bună pentru biciclete.",
-            "en": "Starting point in the center with good cycling infrastructure."
+            "en": "Starting point in the center with good cycling infrastructure.",
+            "tr": "İyi bisiklet altyapısına sahip merkezde başlangıç noktası."
           }
         },
         {
@@ -306,7 +327,8 @@
             "de": "Gerisch-Skulpturenpark",
             "hu": "Gerisch Szoborpark",
             "ro": "Parcul de Sculpturi Gerisch",
-            "en": "Gerisch Sculpture Park"
+            "en": "Gerisch Sculpture Park",
+            "tr": "Gerisch Heykel Parkı"
           },
           "coords": [
             9.9755,
@@ -321,7 +343,8 @@
             "de": "Zeitgenössische Kunst in einer weitläufigen Parkanlage.",
             "hu": "Kortárs művészet egy tágas parkos környezetben.",
             "ro": "Artă contemporană într-un parc vast.",
-            "en": "Contemporary art set in an expansive parkland."
+            "en": "Contemporary art set in an expansive parkland.",
+            "tr": "Geniş bir park alanında yerleştirilmiş çağdaş sanat."
           }
         },
         {
@@ -329,7 +352,8 @@
             "de": "Tierpark Neumünster",
             "hu": "Neumünsteri Állatpark",
             "ro": "Grădina Zoologică Neumünster",
-            "en": "Neumünster Wildlife Park"
+            "en": "Neumünster Wildlife Park",
+            "tr": "Neumünster Vahşi Yaşam Parkı"
           },
           "coords": [
             9.9455,
@@ -344,7 +368,8 @@
             "de": "Heimische und exotische Tiere in naturnahen Gehegen.",
             "hu": "Hazai és egzotikus állatok természetközeli kifutókban.",
             "ro": "Animale native și exotice în habitate naturale.",
-            "en": "Native and exotic animals in naturalistic enclosures."
+            "en": "Native and exotic animals in naturalistic enclosures.",
+            "tr": "Doğal görünümlü barınaklarda yerli ve egzotik hayvanlar."
           }
         },
         {
@@ -352,7 +377,8 @@
             "de": "Mittagessen am Tierpark",
             "hu": "Ebéd az állatparknál",
             "ro": "Prânz la Grădina Zoologică",
-            "en": "Lunch near the Wildlife Park"
+            "en": "Lunch near the Wildlife Park",
+            "tr": "Vahşi Yaşam Parkı yakınında öğle yemeği"
           },
           "coords": [
             9.947,
@@ -367,7 +393,8 @@
             "de": "Entspannte Pause im Grünen vor der Weiterfahrt.",
             "hu": "Pihentető szünet a zöldben a továbbindulás előtt.",
             "ro": "Pauză relaxantă în natură înainte de a continua.",
-            "en": "Relaxing break in the greenery before continuing."
+            "en": "Relaxing break in the greenery before continuing.",
+            "tr": "Devam etmeden önce yeşillikte rahat bir mola."
           }
         },
         {
@@ -375,7 +402,8 @@
             "de": "Museum Tuch + Technik",
             "hu": "Posztó és Technika Múzeum",
             "ro": "Muzeul Postavului și Tehnicii",
-            "en": "Cloth + Technology Museum"
+            "en": "Cloth + Technology Museum",
+            "tr": "Dokuma ve Teknoloji Müzesi"
           },
           "coords": [
             9.9845,
@@ -390,7 +418,8 @@
             "de": "Ein Muss für Technikbegeisterte (Kurzbesuch).",
             "hu": "A technika szerelmeseinek kötelező (rövid látogatás).",
             "ro": "Obligatoriu pentru pasionații de tehnică (vizită scurtă).",
-            "en": "A must-see for technology enthusiasts (short visit)."
+            "en": "A must-see for technology enthusiasts (short visit).",
+            "tr": "Teknoloji meraklıları için mutlaka görülmesi gereken yer (kısa ziyaret)."
           }
         },
         {
@@ -398,7 +427,8 @@
             "de": "Wasserturm",
             "hu": "Víztorony",
             "ro": "Turnul de apă",
-            "en": "Water Tower"
+            "en": "Water Tower",
+            "tr": "Su Kulesi"
           },
           "coords": [
             9.9825,
@@ -413,7 +443,8 @@
             "de": "Letzter Fotostopp vor der Rückkehr zum Startpunkt.",
             "hu": "Utolsó fotómegálló a kezdőponthoz való visszatérés előtt.",
             "ro": "Ultima oprire foto înainte de revenirea la punctul de plecare.",
-            "en": "Last photo stop before returning to the starting point."
+            "en": "Last photo stop before returning to the starting point.",
+            "tr": "Başlangıç noktasına dönmeden önce son fotoğraf durağı."
           }
         }
       ],
@@ -421,7 +452,8 @@
         "de": "Erkunden Sie Neumünster aktiv mit dem Rad! Vom Zentrum geht es zum künstlerischen Gerisch-Skulpturenpark und weiter zum weitläufigen Tierpark. Nach einem entspannten Mittagessen im Grünen radeln Sie zurück in die Stadt, um die Textilgeschichte im Museum Tuch + Technik zu entdecken, bevor der markante Wasserturm den Abschluss bildet.",
         "hu": "Fedezze fel Neumünstert aktívan kerékpárral! A központból a művészeti Gerisch Szoborparkba, majd a tágas állatparkba vezet az út. Egy pihentető, zöldövezeti ebéd után tekerjen vissza a városba, hogy felfedezze a textilipart a Posztó és Technika Múzeumban, végül pedig a jellegzetes víztorony zárja a napot.",
         "ro": "Explorați Neumünster activ pe bicicletă! Din centru porniți spre Parcul de Sculpturi Gerisch și continuați spre vasta grădină zoologică. După un prânz relaxant în natură, pedalați înapoi în oraș pentru a descoperi istoria textilă la Muzeul Postavului și Tehnicii, încheind cu emblematicul turn de apă.",
-        "en": "Explore Neumünster actively by bike! Head from the center to the artistic Gerisch Sculpture Park and further to the expansive Wildlife Park. After a relaxing lunch in the greenery, cycle back to town to discover textile history at the Cloth + Technology Museum, before finishing at the striking Water Tower."
+        "en": "Explore Neumünster actively by bike! Head from the center to the artistic Gerisch Sculpture Park and further to the expansive Wildlife Park. After a relaxing lunch in the greenery, cycle back to town to discover textile history at the Cloth + Technology Museum, before finishing at the striking Water Tower.",
+        "tr": "Neumünster'i bisikletle aktif olarak keşfedin! Merkezden Gerisch Heykel Parkı'na, oradan da geniş Vahşi Yaşam Parkı'na gidin. Yeşillikte rahatlatıcı bir öğle yemeğinin ardından tekstil tarihini keşfetmek için kasabaya geri dönün; turu etkileyici Su Kulesi'nde bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -529,6 +561,12 @@
           "Combine the tour with a ride along the Schwale cycle path.",
           "Use the bike racks located right at the museum entrance.",
           "The route to the Wildlife Park goes through pleasant residential areas."
+        ],
+        "tr": [
+          "Neumünster iyi gelişmiş bir bisiklet yolu ağına sahip.",
+          "Turunuzu Schwale bisiklet yolunda bir sürüşle birleştirin.",
+          "Müze girişinin hemen yanındaki bisiklet park yerlerini kullanın.",
+          "Vahşi Yaşam Parkı'na giden rota hoş yerleşim alanlarından geçer."
         ]
       }
     },
@@ -545,7 +583,8 @@
             "de": "Parken am Großflecken (Zentrum)",
             "hu": "Parkolás a Großflecken közelében (Központ)",
             "ro": "Parcare la Großflecken (Centru)",
-            "en": "Parking at Großflecken (Center)"
+            "en": "Parking at Großflecken (Center)",
+            "tr": "Großflecken (Merkez) otoparkı"
           },
           "coords": [
             9.988,
@@ -560,7 +599,8 @@
             "de": "Zentraler Parkplatz für den Cluster Innenstadt.",
             "hu": "Központi parkoló a belvárosi csomóponthoz.",
             "ro": "Parcare centrală pentru clusterul din centrul orașului.",
-            "en": "Central parking for the downtown cluster."
+            "en": "Central parking for the downtown cluster.",
+            "tr": "Şehir merkezi kümesi için merkezi otopark."
           }
         },
         {
@@ -568,7 +608,8 @@
             "de": "Vicelinkirche",
             "hu": "Vicelin-templom",
             "ro": "Biserica Vicelin",
-            "en": "Vicelin Church"
+            "en": "Vicelin Church",
+            "tr": "Vicelin Kilisesi"
           },
           "coords": [
             9.9865,
@@ -583,7 +624,8 @@
             "de": "Zu Fuß vom Parkplatz erreichbar (Walk-Hop).",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking lot."
+            "en": "Accessible on foot from the parking lot.",
+            "tr": "Otoparktan yürüyerek erişilebilir."
           }
         },
         {
@@ -591,7 +633,8 @@
             "de": "Museum Tuch + Technik",
             "hu": "Posztó és Technika Múzeum",
             "ro": "Muzeul Postavului și Tehnicii",
-            "en": "Cloth + Technology Museum"
+            "en": "Cloth + Technology Museum",
+            "tr": "Kumaş ve Teknoloji Müzesi"
           },
           "coords": [
             9.9845,
@@ -606,7 +649,8 @@
             "de": "Lassen Sie das Auto stehen und gehen Sie zu Fuß (Walk-Hop).",
             "hu": "Hagyja az autót, és menjen gyalog.",
             "ro": "Lăsați mașina și mergeți pe jos.",
-            "en": "Leave the car and go on foot (Walk-Hop)."
+            "en": "Leave the car and go on foot (Walk-Hop).",
+            "tr": "Aracı bırakın ve yürüyün (Yürü-Atla)."
           }
         },
         {
@@ -614,7 +658,8 @@
             "de": "Einfelder See",
             "hu": "Einfelder-tó",
             "ro": "Lacul Einfeld",
-            "en": "Einfelder See"
+            "en": "Einfelder See",
+            "tr": "Einfelder See"
           },
           "coords": [
             10.0105,
@@ -629,7 +674,8 @@
             "de": "Kurze Fahrt nach Norden zum Naherholungsgebiet.",
             "hu": "Rövid autóút északra a pihenőövezethez.",
             "ro": "Scurtă călătorie spre nord la zona de agrement.",
-            "en": "Short drive north to the recreation area."
+            "en": "Short drive north to the recreation area.",
+            "tr": "Eğlence alanına kısa bir kuzey sürüşü."
           }
         },
         {
@@ -637,7 +683,8 @@
             "de": "Mittagessen am See",
             "hu": "Ebéd a tónál",
             "ro": "Prânz la lac",
-            "en": "Lunch by the Lake"
+            "en": "Lunch by the Lake",
+            "tr": "Göldeki Öğle Yemeği"
           },
           "coords": [
             10.012,
@@ -652,7 +699,8 @@
             "de": "Genießen Sie den Blick auf das Wasser beim Essen.",
             "hu": "Élvezze a vízre nyíló kilátást ebéd közben.",
             "ro": "Bucurați-vă de priveliștea spre apă în timpul mesei.",
-            "en": "Enjoy the water view while dining."
+            "en": "Enjoy the water view while dining.",
+            "tr": "Yemek yerken su manzarasının tadını çıkarın."
           }
         },
         {
@@ -660,7 +708,8 @@
             "de": "Tierpark Neumünster",
             "hu": "Neumünsteri Állatpark",
             "ro": "Grădina Zoologică Neumünster",
-            "en": "Neumünster Wildlife Park"
+            "en": "Neumünster Wildlife Park",
+            "tr": "Neumünster Vahşi Yaşam Parkı"
           },
           "coords": [
             9.9455,
@@ -675,7 +724,8 @@
             "de": "Großer Parkplatz direkt am Eingang vorhanden.",
             "hu": "Közvetlenül a bejáratnál nagy parkoló található.",
             "ro": "Parcare mare disponibilă chiar la intrare.",
-            "en": "Large parking lot available right at the entrance."
+            "en": "Large parking lot available right at the entrance.",
+            "tr": "Girişin hemen yanında büyük otopark mevcut."
           }
         },
         {
@@ -683,7 +733,8 @@
             "de": "Designer Outlet Neumünster",
             "hu": "Neumünsteri Designer Outlet",
             "ro": "Designer Outlet Neumünster",
-            "en": "Designer Outlet Neumünster"
+            "en": "Designer Outlet Neumünster",
+            "tr": "Designer Outlet Neumünster"
           },
           "coords": [
             9.965,
@@ -698,7 +749,8 @@
             "de": "Shopping-Paradies direkt an der B205/A7.",
             "hu": "Vásárlási paradicsom közvetlenül a B205/A7 mellett.",
             "ro": "Paradisul cumpărăturilor chiar lângă B205/A7.",
-            "en": "Shopping paradise right off the B205/A7."
+            "en": "Shopping paradise right off the B205/A7.",
+            "tr": "B205/A7 kenarında alışveriş cenneti."
           }
         }
       ],
@@ -706,7 +758,8 @@
         "de": "Erleben Sie Neumünster und Umgebung komfortabel mit dem Auto. Starten Sie im Zentrum (Cluster 1) mit Rathaus und Vicelinkirche zu Fuß. Danach führt Sie die Fahrt zum malerischen Einfelder See im Norden für eine entspannte Mittagspause. Am Nachmittag besuchen Sie den Tierpark im Westen und krönen den Tag mit einem Shopping-Erlebnis im berühmten Designer Outlet.",
         "hu": "Fedezze fel Neumünstert és környékét kényelmesen autóval. Kezdjen a központban (1. csomópont) a városháza és a Vicelin-templom gyalogos megtekintésével. Ezután az út az északon fekvő festői Einfelder-tóhoz vezet egy pihentető ebédszünetre. Délután látogasson el a nyugati állatparkba, majd koronázza meg a napot vásárlással a híres Designer Outletben.",
         "ro": "Experimentați Neumünster și împrejurimile confortabil cu mașina. Începeți în centru (cluster 1) cu primăria și biserica Vicelin pe jos. Apoi, drumul vă duce la pitorescul lac Einfeld din nord pentru o pauză de prânz relaxantă. După-amiaza, vizitați grădina zoologică din vest și încheiați ziua cu o sesiune de cumpărături la celebrul Designer Outlet.",
-        "en": "Experience Neumünster and its surroundings comfortably by car. Start in the center (Cluster 1) with the Town Hall and Vicelin Church on foot. Then, drive to the picturesque Einfelder See in the north for a relaxing lunch break. In the afternoon, visit the Wildlife Park in the west and crown the day with a shopping experience at the famous Designer Outlet."
+        "en": "Experience Neumünster and its surroundings comfortably by car. Start in the center (Cluster 1) with the Town Hall and Vicelin Church on foot. Then, drive to the picturesque Einfelder See in the north for a relaxing lunch break. In the afternoon, visit the Wildlife Park in the west and crown the day with a shopping experience at the famous Designer Outlet.",
+        "tr": "Neumünster ve çevresini konforlu bir şekilde araçla keşfedin. Şehrin merkezinde (Küme 1) Belediye Binası ve Vicelin Kilisesi ile yürüyüşe başlayın. Ardından, kuzeydeki pitoresk Einfelder See'ye rahatlatıcı bir öğle molası için sürün. Öğleden sonra batıdaki Vahşi Yaşam Parkı'nı ziyaret edin ve günü ünlü Designer Outlet'te alışverişle taçlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -814,6 +867,12 @@
           "Use the parking guidance system in the city center.",
           "The drive to the lake takes only about 15-20 minutes.",
           "Parking at the Wildlife Park is often full on weekends, arrive early."
+        ],
+        "tr": [
+          "Designer Outlet ziyaretçilere ücretsiz otopark sunar.",
+          "Şehir merkezindeki otopark yönlendirme sistemini kullanın.",
+          "Göl yolculuğu sadece yaklaşık 15-20 dakika sürer.",
+          "Vahşi Yaşam Parkı otoparkı hafta sonları genellikle doludur, erken gelin."
         ]
       }
     },
@@ -830,7 +889,8 @@
             "de": "ZOB Neumünster (Zentrum)",
             "hu": "Neumünster ZOB (Központi pályaudvar)",
             "ro": "ZOB Neumünster (Centru)",
-            "en": "ZOB Neumünster (Central Station)"
+            "en": "ZOB Neumünster (Central Station)",
+            "tr": "ZOB Neumünster (Merkez İstasyon)"
           },
           "coords": [
             9.982,
@@ -845,7 +905,8 @@
             "de": "Zentraler Knotenpunkt für alle Buslinien.",
             "hu": "Minden buszjárat központi csomópontja.",
             "ro": "Nod central pentru toate liniile de autobuz.",
-            "en": "Central hub for all bus lines."
+            "en": "Central hub for all bus lines.",
+            "tr": "Tüm otobüs hatlarının merkezi düğüm noktası."
           }
         },
         {
@@ -853,7 +914,8 @@
             "de": "Museum Tuch + Technik",
             "hu": "Posztó és Technika Múzeum",
             "ro": "Muzeul Postavului și Tehnicii",
-            "en": "Cloth + Technology Museum"
+            "en": "Cloth + Technology Museum",
+            "tr": "Kumaş ve Teknoloji Müzesi"
           },
           "coords": [
             9.9845,
@@ -868,7 +930,8 @@
             "de": "Kurzer Fußweg vom Bahnhof/ZOB.",
             "hu": "Rövid séta a vasútállomástól/buszpályaudvartól.",
             "ro": "Scurtă plimbare de la gară/ZOB.",
-            "en": "Short walk from the station/ZOB."
+            "en": "Short walk from the station/ZOB.",
+            "tr": "İstasyondan/ZOB'den kısa bir yürüyüş."
           }
         },
         {
@@ -876,7 +939,8 @@
             "de": "Gerisch-Skulpturenpark",
             "hu": "Gerisch Szoborpark",
             "ro": "Parcul de Sculpturi Gerisch",
-            "en": "Gerisch Sculpture Park"
+            "en": "Gerisch Sculpture Park",
+            "tr": "Gerisch Heykel Parkı"
           },
           "coords": [
             9.9755,
@@ -891,7 +955,8 @@
             "de": "Erreichbar mit der Buslinie 3 oder 33 (Transit-Hop).",
             "hu": "A 3-as vagy 33-as busszal érhető el.",
             "ro": "Accesibil cu linia de autobuz 3 sau 33.",
-            "en": "Reach via bus line 3 or 33 (Transit-Hop)."
+            "en": "Reach via bus line 3 or 33 (Transit-Hop).",
+            "tr": "3 veya 33 numaralı otobüsle ulaşılır (Toplu Taşıma-Atla)."
           }
         },
         {
@@ -899,7 +964,8 @@
             "de": "Mittagessen am Großflecken",
             "hu": "Ebéd a Großflecken téren",
             "ro": "Prânz la Großflecken",
-            "en": "Lunch at Großflecken"
+            "en": "Lunch at Großflecken",
+            "tr": "Großflecken'de Öğle Yemeği"
           },
           "coords": [
             9.988,
@@ -914,7 +980,8 @@
             "de": "Rückkehr ins Zentrum für eine kulinarische Pause.",
             "hu": "Visszatérés a központba egy gasztronómiai szünetre.",
             "ro": "Revenire în centru pentru o pauză culinară.",
-            "en": "Return to the center for a culinary break."
+            "en": "Return to the center for a culinary break.",
+            "tr": "Gurme molası için merkeze dönün."
           }
         },
         {
@@ -922,7 +989,8 @@
             "de": "Einfelder See",
             "hu": "Einfelder-tó",
             "ro": "Lacul Einfeld",
-            "en": "Einfelder See"
+            "en": "Einfelder See",
+            "tr": "Einfelder See"
           },
           "coords": [
             10.0105,
@@ -937,7 +1005,8 @@
             "de": "Buslinie 5 oder 55 Richtung Einfeld (Transit-Hop).",
             "hu": "5-ös vagy 55-ös busz Einfeld felé.",
             "ro": "Linia de autobuz 5 sau 55 spre Einfeld.",
-            "en": "Bus line 5 or 55 towards Einfeld (Transit-Hop)."
+            "en": "Bus line 5 or 55 towards Einfeld (Transit-Hop).",
+            "tr": "Einfeld yönüne 5 veya 55 numaralı otobüs (Toplu Taşıma-Atla)."
           }
         },
         {
@@ -945,7 +1014,8 @@
             "de": "Vicelinkirche",
             "hu": "Vicelin-templom",
             "ro": "Biserica Vicelin",
-            "en": "Vicelin Church"
+            "en": "Vicelin Church",
+            "tr": "Vicelin Kilisesi"
           },
           "coords": [
             9.9865,
@@ -960,7 +1030,8 @@
             "de": "Abschluss im Zentrum, nah am ZOB für die Heimreise.",
             "hu": "Zárás a központban, közel a buszpályaudvarhoz a hazautazáshoz.",
             "ro": "Final în centru, aproape de ZOB pentru plecare.",
-            "en": "Finish in the center, close to ZOB for the return journey."
+            "en": "Finish in the center, close to ZOB for the return journey.",
+            "tr": "Dönüş yolculuğu için ZOB'a yakın olan merkezde bitirin."
           }
         }
       ],
@@ -968,7 +1039,8 @@
         "de": "Entdecken Sie Neumünster entspannt mit dem Stadtbus. Nach dem Start am ZOB besuchen Sie das Museum Tuch + Technik und fahren dann zum Gerisch-Skulpturenpark. Mittags lockt die Gastronomie am Großflecken, bevor Sie der Bus zum Einfelder See bringt. Den Tag lassen Sie an der Vicelinkirche im Herzen der Stadt ausklingen.",
         "hu": "Fedezze fel Neumünstert kényelmesen a városi buszokkal. A buszpályaudvarról indulva látogasson el a Posztó és Technika Múzeumba, majd a Gerisch Szoborparkba. Ebédidőben a Großflecken tér gasztronómiája várja, mielőtt a busz az Einfelder-tóhoz vinné. A napot a város szívében, a Vicelin-templomnál zárhatja.",
         "ro": "Descoperiți Neumünster relaxat cu autobuzul urban. După pornirea de la ZOB, vizitați Muzeul Postavului și Tehnicii, apoi mergeți la Parcul de Sculpturi Gerisch. La prânz, bucurați-vă de gastronomia de la Großflecken, înainte ca autobuzul să vă ducă la lacul Einfeld. Încheiați ziua la biserica Vicelin, în inima orașului.",
-        "en": "Discover Neumünster in a relaxed way with the city bus. After starting at ZOB, visit the Cloth + Technology Museum and then head to the Gerisch Sculpture Park. At lunchtime, enjoy the gastronomy at Großflecken before the bus takes you to Einfelder See. End your day at the Vicelin Church in the heart of the city."
+        "en": "Discover Neumünster in a relaxed way with the city bus. After starting at ZOB, visit the Cloth + Technology Museum and then head to the Gerisch Sculpture Park. At lunchtime, enjoy the gastronomy at Großflecken before the bus takes you to Einfelder See. End your day at the Vicelin Church in the heart of the city.",
+        "tr": "Şehir otobüsüyle Neumünster'i rahatça keşfedin. ZOB'de başladıktan sonra Kumaş ve Teknoloji Müzesi'ni ziyaret edin, ardından Gerisch Heykel Parkı'na gidin. Öğle vaktinde Großflecken'deki gastronominin keyfini çıkarın, sonra otobüs sizi Einfelder See'ye götürsün. Gününüzü şehrin kalbindeki Vicelin Kilisesi'nde sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -1076,6 +1148,12 @@
           "Buses run on a regular schedule, usually every 30 minutes.",
           "Timetables are posted at every stop and are available online.",
           "The ZOB is located right next to the main railway station."
+        ],
+        "tr": [
+          "Şehir otobüs ağı (SWN) için günlük bilet satın alın.",
+          "Otobüsler genellikle her 30 dakikada bir düzenli sefer yapar.",
+          "Saatler her durakta ilan edilir ve çevrimiçi mevcuttur.",
+          "ZOB ana tren istasyonunun hemen yanında yer alır."
         ]
       }
     }

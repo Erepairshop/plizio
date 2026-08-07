@@ -3,55 +3,64 @@
     "de": "Domplatz 2, 96049 Bamberg",
     "hu": "Domplatz 2, 96049 Bamberg",
     "ro": "Domplatz 2, 96049 Bamberg",
-    "en": "Domplatz 2, 96049 Bamberg"
+    "en": "Domplatz 2, 96049 Bamberg",
+    "tr": "Domplatz 2, 96049 Bamberg"
   },
   "openingHours": {
     "de": "April-Oktober: 08:00-18:00; November-März: 08:00-17:00",
     "hu": "Április–Október: 08:00–18:00; November–Március: 08:00–17:00",
     "ro": "Aprilie-Octombrie: 08:00-18:00; Noiembrie-Martie: 08:00-17:00",
-    "en": "April-October: 08:00-18:00; November-March: 08:00-17:00"
+    "en": "April-October: 08:00-18:00; November-March: 08:00-17:00",
+    "tr": "Nisan-Ekim: 08:00-18:00; Kasım-Mart: 08:00-17:00"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.bamberger-dom.de",
   "publicTransport": {
     "de": "Bus 910 bis Haltestelle 'Domplatz'",
     "hu": "910-es busz Domplatz megállóig",
     "ro": "Autobuzul 910 până la stația „Domplatz”",
-    "en": "Bus 910 to 'Domplatz' stop"
+    "en": "Bus 910 to 'Domplatz' stop",
+    "tr": "'Domplatz' durağına otobüs 910"
   },
   "parking": {
     "de": "Tiefgarage Residenzschloss, ca. 10 Min. Fußweg bergauf",
     "hu": "Residenzschloss mélygarázs, kb. 10 perc séta felfelé",
     "ro": "Parcarea subterană Residenzschloss, aprox. 10 min. de mers pe jos la deal",
-    "en": "Residenzschloss underground parking, approx. 10 min. walk uphill"
+    "en": "Residenzschloss underground parking, approx. 10 min. walk uphill",
+    "tr": "Residenzschloss yer altı otoparkı, yaklaşık 10 dk yokuş yukarı yürüme mesafesi"
   },
   "accessibility": {
     "de": "Barrierefrei über das Adamspforte-Portal zugänglich",
     "hu": "Az Ádám-kapun (Adamspforte) keresztül akadálymentesen megközelíthető",
     "ro": "Accesibil prin poarta Adamspforte",
-    "en": "Accessible via the Adam's Gate (Adamspforte) portal"
+    "en": "Accessible via the Adam's Gate (Adamspforte) portal",
+    "tr": "Adam's Gate (Adamspforte) portalı üzerinden erişilebilir"
   },
   "photoRules": {
     "de": "Erlaubt ohne Blitz außerhalb der Gottesdienste",
     "hu": "Szertartásokon kívül vaku nélkül megengedett",
     "ro": "Permis fără bliț în afara orelor de slujbă",
-    "en": "Allowed without flash outside of church services"
+    "en": "Allowed without flash outside of church services",
+    "tr": "Kilise hizmetleri dışında flaşsız fotoğraf çekimine izin verilir"
   },
   "bestTimeToVisit": {
     "de": "Nachmittags, wenn die Sonne durch die Westfenster fällt",
     "hu": "Délután, amikor a nap besüt a nyugati ablakokon",
     "ro": "După-amiaza, când soarele pătrunde prin vitraliile de vest",
-    "en": "In the afternoon when the sun falls through the west windows"
+    "en": "In the afternoon when the sun falls through the west windows",
+    "tr": "Güneş batısı batı pencerelerinden içeri düştüğünde öğleden sonra"
   },
   "audioGuide": {
     "de": "Ja, am Infostand gegen Gebühr",
     "hu": "Igen, az infópultnál díj ellenében igényelhető",
     "ro": "Da, la punctul de informare contra cost",
-    "en": "Yes, available at the information stand for a fee"
+    "en": "Yes, available at the information stand for a fee",
+    "tr": "Evet, bilgi standında ücret karşılığında mevcut"
   }
 }

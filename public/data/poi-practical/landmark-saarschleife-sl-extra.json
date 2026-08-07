@@ -3,55 +3,64 @@
     "de": "Cloef, 66693 Mettlach",
     "hu": "Cloef, 66693 Mettlach",
     "ro": "Cloef, 66693 Mettlach",
-    "en": "Cloef, 66693 Mettlach"
+    "en": "Cloef, 66693 Mettlach",
+    "tr": "Cloef, 66693 Mettlach"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "24/7"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.saarschleife.de",
   "publicTransport": {
     "de": "Bus 201",
     "hu": "201-es busz",
     "ro": "Autobuz 201",
-    "en": "Bus 201"
+    "en": "Bus 201",
+    "tr": "Bus 201"
   },
   "parking": {
     "de": "Parkplatz Cloef",
     "hu": "Cloef parkoló",
     "ro": "Parcare Cloef",
-    "en": "Parking Cloef"
+    "en": "Parking Cloef",
+    "tr": "Cloef otoparkı"
   },
   "accessibility": {
     "de": "Barrierefrei",
     "hu": "Akadálymentes",
     "ro": "Accesibil",
-    "en": "Accessible"
+    "en": "Accessible",
+    "tr": "Erişilebilir"
   },
   "photoRules": {
     "de": "Erlaubt",
     "hu": "Engedélyezett",
     "ro": "Permis",
-    "en": "Allowed"
+    "en": "Allowed",
+    "tr": "İzin veriliyor"
   },
   "bestTimeToVisit": {
     "de": "Sonnenaufgang",
     "hu": "Napfelkelte",
     "ro": "Răsărit",
-    "en": "Sunrise"
+    "en": "Sunrise",
+    "tr": "Gün doğumu"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

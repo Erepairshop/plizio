@@ -3,55 +3,64 @@
     "de": "Domkloster 4, 50667 Köln",
     "hu": "Domkloster 4, 50667 Köln",
     "ro": "Domkloster 4, 50667 Köln",
-    "en": "Domkloster 4, 50667 Cologne"
+    "en": "Domkloster 4, 50667 Cologne",
+    "tr": "Domkloster 4, 50667 Köln"
   },
   "openingHours": {
     "de": "Täglich 06:00-20:00 (Besichtigung nur außerhalb der Messen)",
     "hu": "Naponta 06:00-20:00 (látogatás csak misén kívül)",
     "ro": "Zilnic 06:00-20:00 (vizitare doar în afara orelor de liturghie)",
-    "en": "Daily 06:00-20:00 (visiting only outside of masses)"
+    "en": "Daily 06:00-20:00 (visiting only outside of masses)",
+    "tr": "Günlük 06:00-20:00 (aynin dışında ziyaret)"
   },
   "entranceFee": {
     "de": "Dom frei, Turmbesteigung 6€, Schatzkammer 6€",
     "hu": "A dóm ingyenes, toronylátogatás 6 €, kincstár 6 €",
     "ro": "Dom gratuit, urcare în turn 6 €, tezaur 6 €",
-    "en": "Cathedral free, tower ascent €6, treasury €6"
+    "en": "Cathedral free, tower ascent €6, treasury €6",
+    "tr": "Katedral ücretsiz, kule çıkışı €6, hazinede €6"
   },
   "website": "https://www.koelner-dom.de",
   "publicTransport": {
     "de": "Direkt am Kölner Hauptbahnhof (alle Linien).",
     "hu": "Közvetlenül a kölni főpályaudvarnál (minden vonal).",
     "ro": "Chiar lângă gara centrală din Köln (toate liniile).",
-    "en": "Right at Cologne main station (all lines)."
+    "en": "Right at Cologne main station (all lines).",
+    "tr": "Tam da Köln ana istasyonunda (tüm hatlar)."
   },
   "parking": {
     "de": "Parkhaus am Dom, Einfahrt über Tunnel (teuer, oft überfüllt).",
     "hu": "Parkolóház a dóm mellett, bejárat az alagúton keresztül (drága, gyakran túlzsúfolt).",
     "ro": "Parcare la catedrală, intrare prin tunel (scumpă, adesea aglomerată).",
-    "en": "Parking garage at the cathedral, entrance via tunnel (expensive, often full)."
+    "en": "Parking garage at the cathedral, entrance via tunnel (expensive, often full).",
+    "tr": "Katedrale ait otopark garajı, giriş tünel üzerinden (pahalı, sık dolu)."
   },
   "accessibility": {
     "de": "Kirchenraum barrierefrei erreichbar, Turm nur über 533 Stufen.",
     "hu": "A templomtér akadálymentesített, a torony 533 lépcsőn érhető el.",
     "ro": "Sala bisericii este accesibilă, turnul se poate accesa doar pe 533 de trepte.",
-    "en": "Church room is accessible, tower only via 533 steps."
+    "en": "Church room is accessible, tower only via 533 steps.",
+    "tr": "Kilise mabedi erişilebilir, kuleye 533 basamakla çıkılıyor."
   },
   "photoRules": {
     "de": "Erlaubt ohne Blitz, während der Liturgie streng verboten.",
     "hu": "Vakumentes fotózás engedélyezett, liturgia alatt szigorúan tilos.",
     "ro": "Permis fără bliț, strict interzis în timpul liturghiei.",
-    "en": "Allowed without flash, strictly forbidden during liturgy."
+    "en": "Allowed without flash, strictly forbidden during liturgy.",
+    "tr": "Flaşsız izinli, ayin sırasında kesinlikle yasak."
   },
   "bestTimeToVisit": {
     "de": "Mittagszeit, wenn die Sonne durch das Richter-Fenster leuchtet.",
     "hu": "Délidőben, amikor a nap a Richter-ablakon keresztül világít.",
     "ro": "La prânz, când soarele strălucește prin fereastra Richter.",
-    "en": "At noon when the sun shines through the Richter window."
+    "en": "At noon when the sun shines through the Richter window.",
+    "tr": "Öğle vakti Richter penceresinden güneş süzüldüğünde."
   },
   "audioGuide": {
     "de": "Deutsch, Englisch (über das Domforum buchbar)",
     "hu": "Német, angol (a Domforumon keresztül foglalható)",
     "ro": "Germană, engleză (se pot rezerva prin Domforum)",
-    "en": "German, English (bookable via Domforum)"
+    "en": "German, English (bookable via Domforum)",
+    "tr": "Almanca, İngilizce (Domforum üzerinden rezervasyon)"
   }
 }

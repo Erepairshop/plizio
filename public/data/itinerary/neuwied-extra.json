@@ -21,7 +21,8 @@
             "de": "Schloss Neuwied",
             "hu": "Neuwiedi kastély",
             "ro": "Castelul Neuwied",
-            "en": "Neuwied Castle"
+            "en": "Neuwied Castle",
+            "tr": "Neuwied Kalesi"
           },
           "coords": [
             7.4578,
@@ -37,7 +38,8 @@
             "de": "Bewundern Sie die Fassade des Residenzschlosses der Fürsten zu Wied.",
             "hu": "Csodálja meg a Wied hercegek rezidenciájának homlokzatát.",
             "ro": "Admirați fațada castelului de reședință al prinților de Wied.",
-            "en": "Admire the facade of the residence castle of the Princes of Wied."
+            "en": "Admire the facade of the residence castle of the Princes of Wied.",
+            "tr": "Wied Prensleri’nin ikametgah kalesinin cephesine hayran kalın."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Marktkirche",
             "hu": "Piac téri templom",
             "ro": "Biserica Pieței",
-            "en": "Market Church"
+            "en": "Market Church",
+            "tr": "Pazar Kilisesi"
           },
           "coords": [
             7.4602,
@@ -61,7 +64,8 @@
             "de": "Ein Symbol der religiösen Toleranz, für die Neuwied bekannt ist.",
             "hu": "A vallási tolerancia szimbóluma, amelyről Neuwied híres.",
             "ro": "Un simbol al toleranței religioase pentru care este cunoscut Neuwied.",
-            "en": "A symbol of the religious tolerance Neuwied is known for."
+            "en": "A symbol of the religious tolerance Neuwied is known for.",
+            "tr": "Neuwied’in bilinen dini hoşgörüsünün simgesi."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Roentgen-Museum",
             "hu": "Roentgen Múzeum",
             "ro": "Muzeul Roentgen",
-            "en": "Roentgen Museum"
+            "en": "Roentgen Museum",
+            "tr": "Roentgen Müzesi"
           },
           "coords": [
             7.4625,
@@ -85,7 +90,8 @@
             "de": "Weltberühmte Möbelkunst der Ebenisten Abraham und David Roentgen.",
             "hu": "Abraham és David Roentgen világhírű bútorművészeti alkotásai.",
             "ro": "Arta mobilierului de renume mondial a ebeniștilor Abraham și David Roentgen.",
-            "en": "World-famous furniture art by cabinetmakers Abraham and David Roentgen."
+            "en": "World-famous furniture art by cabinetmakers Abraham and David Roentgen.",
+            "tr": "Marangozlar Abraham ve David Roentgen’in dünya çapında ünlü mobilya sanatı."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "tr": "Şehir Merkezinde Öğle Yemeği"
           },
           "coords": [
             7.4595,
@@ -109,7 +116,8 @@
             "de": "Probieren Sie rheinische Spezialitäten in einem lokalen Gasthaus.",
             "hu": "Kóstolja meg a rajnai specialitásokat egy helyi fogadóban.",
             "ro": "Gustați specialități renane într-un han local.",
-            "en": "Try Rhenish specialties in a local inn."
+            "en": "Try Rhenish specialties in a local inn.",
+            "tr": "Yerel bir hanede Ren bölgesi özel lezzetlerini deneyin."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Deichinformationszentrum",
             "hu": "Gát-információs Központ",
             "ro": "Centrul de Informare Dig",
-            "en": "Dike Information Center"
+            "en": "Dike Information Center",
+            "tr": "Set Bilgi Merkezi"
           },
           "coords": [
             7.4565,
@@ -133,7 +142,8 @@
             "de": "Erfahren Sie alles über den gewaltigen Hochwasserschutzdeich.",
             "hu": "Tudjon meg mindent a hatalmas árvízvédelmi gátról.",
             "ro": "Aflați totul despre digul masiv de protecție împotriva inundațiilor.",
-            "en": "Learn all about the massive flood protection dike."
+            "en": "Learn all about the massive flood protection dike.",
+            "tr": "Dev sel koruma seti hakkında her şeyi öğrenin."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Deichmauer & Raiffeisenbrücke",
             "hu": "Gátfal és Raiffeisen-híd",
             "ro": "Zidul Digului și Podul Raiffeisen",
-            "en": "Dike Wall & Raiffeisen Bridge"
+            "en": "Dike Wall & Raiffeisen Bridge",
+            "tr": "Set Duvarı & Raiffeisen Köprüsü"
           },
           "coords": [
             7.4535,
@@ -157,7 +168,8 @@
             "de": "Ein Spaziergang auf der Mauer bietet den besten Blick auf den Rhein.",
             "hu": "A falon tett séta kínálja a legjobb kilátást a Rajnára.",
             "ro": "O plimbare pe zid oferă cea mai bună vedere asupra Rinului.",
-            "en": "A walk on the wall offers the best view of the Rhine."
+            "en": "A walk on the wall offers the best view of the Rhine.",
+            "tr": "Duvar üzerinde bir yürüyüş Ren nehrinin en iyi manzarasını sunar."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Rheinanlagen Promenade",
             "hu": "Rajna-parti sétány",
             "ro": "Promenada de pe Rin",
-            "en": "Rhine Promenade"
+            "en": "Rhine Promenade",
+            "tr": "Ren Kordonu"
           },
           "coords": [
             7.4555,
@@ -181,7 +194,8 @@
             "de": "Lassen Sie den Tag entspannt am Flussufer ausklingen.",
             "hu": "Zárja a napot pihentetően a folyóparton.",
             "ro": "Încheiați ziua relaxat pe malul râului.",
-            "en": "End the day in a relaxed way on the riverbank."
+            "en": "End the day in a relaxed way on the riverbank.",
+            "tr": "Günü nehir kıyısında rahatlayarak bitirin."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag beginnt am prächtigen Schloss Neuwied, dem Herzstück der 'Deichstadt'. Nach einem Einblick in die religiöse Toleranz in der Marktkirche bestaunen Sie feinste Handwerkskunst im Roentgen-Museum. Nach einem rheinischen Mittagessen erkunden Sie den imposanten Deich, der die Stadt seit fast 100 Jahren schützt, und genießen die Aussicht von der Raiffeisenbrücke.",
         "hu": "A nap a pompás Neuwiedi kastélynál kezdődik, a „gátak városa” szívében. A Marktkirche vallási toleranciájának megismerése után a Roentgen Múzeum finom kézműves remekműveit csodálhatja meg. Egy rajnai ebéd után felfedezi a várost közel 100 éve védő hatalmas gátat, és élvezi a kilátást a Raiffeisen-hídról.",
         "ro": "Ziua începe la magnificul Castel Neuwied, inima „orașului digului”. După o incursiune în toleranța religioasă la Marktkirche, admirați cea mai fină măiestrie la Muzeul Roentgen. După un prânz renan, explorați digul impunător care protejează orașul de aproape 100 de ani și bucurați-vă de priveliștea de pe Podul Raiffeisen.",
-        "en": "Your day starts at the magnificent Neuwied Castle, the heart of the 'Dike City'. After gaining insight into religious tolerance at the Market Church, marvel at the finest craftsmanship in the Roentgen Museum. After a Rhenish lunch, explore the imposing dike that has protected the city for nearly 100 years and enjoy the view from the Raiffeisen Bridge."
+        "en": "Your day starts at the magnificent Neuwied Castle, the heart of the 'Dike City'. After gaining insight into religious tolerance at the Market Church, marvel at the finest craftsmanship in the Roentgen Museum. After a Rhenish lunch, explore the imposing dike that has protected the city for nearly 100 years and enjoy the view from the Raiffeisen Bridge.",
+        "tr": "Gününüz, “Set Şehri”nin kalbi olan muhteşem Neuwied Kalesi’nde başlar. Pazar Kilisesi’nde dini hoşgörüye dair bilgi edindikten sonra Roentgen Müzesi’nde en ince zanaatkârlığa hayran kalın. Ren usulü bir öğle yemeğinin ardından şehri neredeyse 100 yıldır koruyan görkemli seti keşfedin ve Raiffeisen Köprüsü’nden manzaranın tadını çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -289,6 +304,10 @@
         "en": [
           "The city center is flat and very easy to explore on foot.",
           "Visit the Dike Information Center to understand the technology behind the wall."
+        ],
+        "tr": [
+          "Şehir merkezi düzdür ve yürüyerek çok kolay keşfedilir.",
+          "Duvarın arkasındaki teknolojiyi anlamak için Set Bilgi Merkezi’ni ziyaret edin."
         ]
       }
     },
@@ -305,7 +324,8 @@
             "de": "Schloss Neuwied",
             "hu": "Neuwiedi kastély",
             "ro": "Castelul Neuwied",
-            "en": "Neuwied Castle"
+            "en": "Neuwied Castle",
+            "tr": "Neuwied Kalesi"
           },
           "coords": [
             7.4578,
@@ -321,7 +341,8 @@
             "de": "Startpunkt an der barocken Residenz.",
             "hu": "Kiindulópont a barokk rezidenciánál.",
             "ro": "Punct de plecare la reședința barocă.",
-            "en": "Starting point at the baroque residence."
+            "en": "Starting point at the baroque residence.",
+            "tr": "Barok konut olarak başlangıç noktası."
           }
         },
         {
@@ -329,7 +350,8 @@
             "de": "Schloss Engers",
             "hu": "Engersi kastély",
             "ro": "Castelul Engers",
-            "en": "Engers Castle"
+            "en": "Engers Castle",
+            "tr": "Engers Kalesi"
           },
           "coords": [
             7.5435,
@@ -345,7 +367,8 @@
             "de": "Ein Juwel des Spätbarocks direkt am Rhein.",
             "hu": "A késő barokk ékköve közvetlenül a Rajna partján.",
             "ro": "O bijuterie a barocului târziu direct pe Rin.",
-            "en": "A gem of late Baroque directly on the Rhine."
+            "en": "A gem of late Baroque directly on the Rhine.",
+            "tr": "Ren kıyısında geç Barok dönemin bir mücevheri."
           }
         },
         {
@@ -353,7 +376,8 @@
             "de": "Zoo Neuwied",
             "hu": "Neuwiedi Állatkert",
             "ro": "Grădina Zoologică Neuwied",
-            "en": "Neuwied Zoo"
+            "en": "Neuwied Zoo",
+            "tr": "Neuwied Hayvanat Bahçesi"
           },
           "coords": [
             7.5452,
@@ -369,7 +393,8 @@
             "de": "Größter Zoo in Rheinland-Pfalz.",
             "hu": "Rajna-vidék-Pfalz legnagyobb állatkertje.",
             "ro": "Cea mai mare grădină zoologică din Renania-Palatinat.",
-            "en": "Largest zoo in Rhineland-Palatinate."
+            "en": "Largest zoo in Rhineland-Palatinate.",
+            "tr": "Renanya-Palatinate’in en büyük hayvanat bahçesi."
           }
         },
         {
@@ -377,7 +402,8 @@
             "de": "Mittagspause Heimbach-Weis",
             "hu": "Ebédszünet Heimbach-Weis-ban",
             "ro": "Pauză de prânz în Heimbach-Weis",
-            "en": "Lunch Break in Heimbach-Weis"
+            "en": "Lunch Break in Heimbach-Weis",
+            "tr": "Heimbach-Weis’te Öğle Molası"
           },
           "coords": [
             7.5355,
@@ -393,7 +419,8 @@
             "de": "Stärken Sie sich für die Rückfahrt ins Zentrum.",
             "hu": "Gyűjtsön erőt a központba való visszakerekezéshez.",
             "ro": "Reîncărcați-vă bateriile pentru drumul de întoarcere spre centru.",
-            "en": "Get some energy for the ride back to the center."
+            "en": "Get some energy for the ride back to the center.",
+            "tr": "Merkeze dönüş yolculuğu için enerji depolayın."
           }
         },
         {
@@ -401,7 +428,8 @@
             "de": "Roentgen-Museum",
             "hu": "Roentgen Múzeum",
             "ro": "Muzeul Roentgen",
-            "en": "Roentgen Museum"
+            "en": "Roentgen Museum",
+            "tr": "Roentgen Müzesi"
           },
           "coords": [
             7.4625,
@@ -417,7 +445,8 @@
             "de": "Prunkmöbel von Weltrang.",
             "hu": "Világszínvonalú díszbútorok.",
             "ro": "Mobilier de lux de clasă mondială.",
-            "en": "World-class luxury furniture."
+            "en": "World-class luxury furniture.",
+            "tr": "Dünya çapında lüks mobilya."
           }
         },
         {
@@ -425,7 +454,8 @@
             "de": "Rheinufer & Deich",
             "hu": "Rajna-part és gát",
             "ro": "Malul Rinului și digul",
-            "en": "Rhine Bank & Dike"
+            "en": "Rhine Bank & Dike",
+            "tr": "Ren Kıyısı & Set"
           },
           "coords": [
             7.4565,
@@ -441,7 +471,8 @@
             "de": "Entspanntes Ausrollen auf dem Deichweg.",
             "hu": "Pihentető gurulás a gát menti úton.",
             "ro": "Rulare relaxată pe drumul digului.",
-            "en": "Relaxed coasting on the dike path."
+            "en": "Relaxed coasting on the dike path.",
+            "tr": "Set yolunda rahat bir gezinti."
           }
         }
       ],
@@ -449,7 +480,8 @@
         "de": "Diese Radtour verbindet die kulturellen Highlights von Neuwied. Vom Schlosspark radeln Sie rheinaufwärts zum prunkvollen Schloss Engers. Danach geht es bergauf zum Zoo Neuwied, bevor Sie über Heimbach-Weis zurück ins Zentrum fahren, um dort die Roentgen-Möbelkunst zu bewundern und den Tag am Rheindeich zu beenden.",
         "hu": "Ez a kerékpártúra összeköti Neuwied kulturális fénypontjait. A kastélyparkból a Rajna mentén tekerhet a pompás Engersi kastélyig. Ezután felfelé vezet az út a Neuwiedi Állatkerthez, majd Heimbach-Weis érintésével tér vissza a központba, hogy megcsodálja a Roentgen bútorművészetet, és a Rajna-gáton zárja a napot.",
         "ro": "Acest tur cu bicicleta combină punctele de atracție culturale din Neuwied. Din parcul castelului, pedalați în amonte până la somptuosul Castel Engers. Apoi urcați spre Grădina Zoologică Neuwied, înainte de a vă întoarce în centru prin Heimbach-Weis pentru a admira arta mobilierului Roentgen și a încheia ziua la digul Rinului.",
-        "en": "This bike tour connects the cultural highlights of Neuwied. From the castle park, cycle upstream to the magnificent Engers Castle. Then head uphill to Neuwied Zoo before returning to the center via Heimbach-Weis to admire the Roentgen furniture art and end the day at the Rhine dike."
+        "en": "This bike tour connects the cultural highlights of Neuwied. From the castle park, cycle upstream to the magnificent Engers Castle. Then head uphill to Neuwied Zoo before returning to the center via Heimbach-Weis to admire the Roentgen furniture art and end the day at the Rhine dike.",
+        "tr": "Bu bisiklet turu Neuwied’in kültürel önemli noktalarını birbirine bağlıyor. Kale parkından başlayıp yukarı doğru muhteşem Engers Kalesi’ne pedal çevirin. Ardından Neuwied Hayvanat Bahçesi’ne çıkın ve Heimbach-Weis üzerinden merkeze geri dönerek Roentgen mobilya sanatına hayran kalın ve günü Ren setinde bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -549,6 +581,10 @@
         "en": [
           "The Rhine cycle path is flat, the route to the zoo requires some fitness.",
           "In Engers, there are many nice places to stop for a break directly by the water."
+        ],
+        "tr": [
+          "Ren bisiklet yolu düzdür, hayvanat bahçesine giden rota biraz kondisyon gerektirir.",
+          "Engers’te su kenarında mola verebileceğiniz birçok hoş mekan bulunur."
         ]
       }
     },
@@ -565,7 +601,8 @@
             "de": "Cluster Zentrum: Schloss & Deich",
             "hu": "Központ klaszter: Kastély és Gát",
             "ro": "Cluster Centru: Castel și Dig",
-            "en": "Center Cluster: Castle & Dike"
+            "en": "Center Cluster: Castle & Dike",
+            "tr": "Merkez Kümesi: Kale & Set"
           },
           "coords": [
             7.4578,
@@ -581,7 +618,8 @@
             "de": "Parken Sie zentral und erkunden Sie das Schloss und die Deichmauer zu Fuß.",
             "hu": "Parkoljon a központban, és fedezze fel a kastélyt és a gátfalat gyalog.",
             "ro": "Parcați central și explorați castelul și zidul digului pe jos.",
-            "en": "Park centrally and explore the castle and dike wall on foot."
+            "en": "Park centrally and explore the castle and dike wall on foot.",
+            "tr": "Merkezde park edin ve kaleyi ile set duvarını yürüyerek keşfedin."
           }
         },
         {
@@ -589,7 +627,8 @@
             "de": "Roentgen-Museum",
             "hu": "Roentgen Múzeum",
             "ro": "Muzeul Roentgen",
-            "en": "Roentgen Museum"
+            "en": "Roentgen Museum",
+            "tr": "Roentgen Müzesi"
           },
           "coords": [
             7.4625,
@@ -605,7 +644,8 @@
             "de": "Nur ein kurzer Spaziergang vom Parkplatz entfernt.",
             "hu": "Csak rövid séta a parkolótól.",
             "ro": "La doar o scurtă plimbare de parcare.",
-            "en": "Just a short walk from the parking lot."
+            "en": "Just a short walk from the parking lot.",
+            "tr": "Otoparktan sadece kısa bir yürüyüş mesafesi."
           }
         },
         {
@@ -613,7 +653,8 @@
             "de": "Monrepos (Museum)",
             "hu": "Monrepos (Múzeum)",
             "ro": "Monrepos (Muzeu)",
-            "en": "Monrepos (Museum)"
+            "en": "Monrepos (Museum)",
+            "tr": "Monrepos (Müze)"
           },
           "coords": [
             7.4455,
@@ -629,7 +670,8 @@
             "de": "Archäologisches Forschungszentrum in herrlicher Höhenlage.",
             "hu": "Régészeti kutatóközpont gyönyörű, magasan fekvő területen.",
             "ro": "Centru de cercetare arheologică într-o locație superbă la înălțime.",
-            "en": "Archaeological research center in a beautiful upland location."
+            "en": "Archaeological research center in a beautiful upland location.",
+            "tr": "Güzel bir yükseltide arkeolojik araştırma merkezi."
           }
         },
         {
@@ -637,7 +679,8 @@
             "de": "Mittagessen in Heimbach-Weis",
             "hu": "Ebéd Heimbach-Weis-ban",
             "ro": "Prânz în Heimbach-Weis",
-            "en": "Lunch in Heimbach-Weis"
+            "en": "Lunch in Heimbach-Weis",
+            "tr": "Heimbach-Weis’te Öğle Yemeği"
           },
           "coords": [
             7.5355,
@@ -653,7 +696,8 @@
             "de": "Rustikale Küche vor dem Zoobesuch.",
             "hu": "Rusztikus konyha az állatkerti látogatás előtt.",
             "ro": "Bucătărie rustică înainte de vizita la grădina zoologică.",
-            "en": "Rustic cuisine before the zoo visit."
+            "en": "Rustic cuisine before the zoo visit.",
+            "tr": "Hayvanat bahçesi ziyareti öncesi rustik mutfak."
           }
         },
         {
@@ -661,7 +705,8 @@
             "de": "Zoo Neuwied",
             "hu": "Neuwiedi Állatkert",
             "ro": "Grădina Zoologică Neuwied",
-            "en": "Neuwied Zoo"
+            "en": "Neuwied Zoo",
+            "tr": "Neuwied Hayvanat Bahçesi"
           },
           "coords": [
             7.5452,
@@ -677,7 +722,8 @@
             "de": "Großer Parkplatz direkt am Eingang vorhanden.",
             "hu": "Saját nagy parkoló közvetlenül a bejáratnál.",
             "ro": "Parcare mare disponibilă chiar la intrare.",
-            "en": "Large parking lot available directly at the entrance."
+            "en": "Large parking lot available directly at the entrance.",
+            "tr": "Girişin hemen yanında büyük bir otopark mevcut."
           }
         },
         {
@@ -685,7 +731,8 @@
             "de": "Schloss Engers (Abendstimmung)",
             "hu": "Engersi kastély (esti hangulat)",
             "ro": "Castelul Engers (atmosferă de seară)",
-            "en": "Engers Castle (Evening Atmosphere)"
+            "en": "Engers Castle (Evening Atmosphere)",
+            "tr": "Engers Kalesi (Akşam Atmosferi)"
           },
           "coords": [
             7.5435,
@@ -701,7 +748,8 @@
             "de": "Perfekter Ort für ein Foto zum Abschluss.",
             "hu": "Tökéletes hely egy záró fotóhoz.",
             "ro": "Locul perfect pentru o fotografie de final.",
-            "en": "Perfect place for a final photo."
+            "en": "Perfect place for a final photo.",
+            "tr": "Son bir fotoğraf için mükemmel yer."
           }
         }
       ],
@@ -709,7 +757,8 @@
         "de": "Mit dem Auto erreichen Sie mühelos die verstreuten Highlights. Beginnen Sie im Zentrum mit dem Schloss und dem Roentgen-Museum. Danach führt die Fahrt hinauf zum prähistorischen Forschungszentrum Monrepos. Den Nachmittag verbringen Sie im weitläufigen Zoo Neuwied, bevor Sie den Tag am malerischen Schloss Engers am Rheinufer ausklingen lassen.",
         "hu": "Autóval könnyedén elérheti a szétszórt látnivalókat. Kezdje a központban a kastéllyal és a Roentgen Múzeummal. Ezután az út felfelé vezet a Monrepos őstörténeti kutatóközponthoz. A délutánt a tágas Neuwiedi Állatkertben tölti, majd a napot a Rajna-parti festői Engersi kastélynál zárja.",
         "ro": "Cu mașina, puteți ajunge fără efort la punctele de atracție dispersate. Începeți în centru cu castelul și Muzeul Roentgen. Apoi, drumul duce sus la centrul de cercetare preistorică Monrepos. Petreceți după-amiaza la vasta grădină zoologică Neuwied, înainte de a încheia ziua la pitorescul Castel Engers de pe malul Rinului.",
-        "en": "By car, you can effortlessly reach the scattered highlights. Start in the center with the castle and the Roentgen Museum. Then, the drive leads up to the Monrepos prehistoric research center. Spend the afternoon at the extensive Neuwied Zoo before ending the day at the picturesque Engers Castle on the banks of the Rhine."
+        "en": "By car, you can effortlessly reach the scattered highlights. Start in the center with the castle and the Roentgen Museum. Then, the drive leads up to the Monrepos prehistoric research center. Spend the afternoon at the extensive Neuwied Zoo before ending the day at the picturesque Engers Castle on the banks of the Rhine.",
+        "tr": "Araba ile dağınık noktalar zahmetsizce ulaşılabilir. Merkezde kaleyi ve Roentgen Müzesi’ni gezin. Ardından Monrepos tarihöncesi araştırma merkezine doğru yol alın. Öğleden sonranızı geniş Neuwied Hayvanat Bahçesi’nde geçirin ve günü Ren kıyısındaki pitoresk Engers Kalesi’nde sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -809,6 +858,10 @@
         "en": [
           "Use the parking lots on the Rhine bank.",
           "The drive to Monrepos offers great views over the Neuwied Basin."
+        ],
+        "tr": [
+          "Ren kıyısındaki otoparkları kullanın.",
+          "Monrepos’a giden sürüş, Neuwied Havzası üzerinde harika manzaralar sunar."
         ]
       }
     },
@@ -825,7 +878,8 @@
             "de": "Schloss Neuwied",
             "hu": "Neuwiedi kastély",
             "ro": "Castelul Neuwied",
-            "en": "Neuwied Castle"
+            "en": "Neuwied Castle",
+            "tr": "Neuwied Kalesi"
           },
           "coords": [
             7.4578,
@@ -841,7 +895,8 @@
             "de": "Vom Bahnhof Neuwied in wenigen Minuten erreichbar.",
             "hu": "A neuwiedi vasútállomástól pár perc alatt elérhető.",
             "ro": "Accesibil în câteva minute de la gara Neuwied.",
-            "en": "Accessible in a few minutes from Neuwied station."
+            "en": "Accessible in a few minutes from Neuwied station.",
+            "tr": "Neuwied istasyonundan birkaç dakika içinde ulaşılabilir."
           }
         },
         {
@@ -849,7 +904,8 @@
             "de": "Roentgen-Museum",
             "hu": "Roentgen Múzeum",
             "ro": "Muzeul Roentgen",
-            "en": "Roentgen Museum"
+            "en": "Roentgen Museum",
+            "tr": "Roentgen Müzesi"
           },
           "coords": [
             7.4625,
@@ -865,7 +921,8 @@
             "de": "Zentral im Stadtkern gelegen.",
             "hu": "Központban, a városmagban található.",
             "ro": "Situat central în nucleul orașului.",
-            "en": "Centrally located in the city core."
+            "en": "Centrally located in the city core.",
+            "tr": "Şehir merkezinde merkezi konumda."
           }
         },
         {
@@ -873,7 +930,8 @@
             "de": "Zoo Neuwied",
             "hu": "Neuwiedi Állatkert",
             "ro": "Grădina Zoologică Neuwied",
-            "en": "Neuwied Zoo"
+            "en": "Neuwied Zoo",
+            "tr": "Neuwied Hayvanat Bahçesi"
           },
           "coords": [
             7.5452,
@@ -889,7 +947,8 @@
             "de": "Buslinie 154/155 ab Zentrum bringt Sie direkt zum Zoo.",
             "hu": "A központból induló 154/155-ös buszjárat közvetlenül az állatkerthez viszi.",
             "ro": "Linia de autobuz 154/155 din centru vă duce direct la grădina zoologică.",
-            "en": "Bus line 154/155 from the center takes you directly to the zoo."
+            "en": "Bus line 154/155 from the center takes you directly to the zoo.",
+            "tr": "Merkezden 154/155 otobüs hattı sizi doğrudan hayvanat bahçesine götürür."
           }
         },
         {
@@ -897,7 +956,8 @@
             "de": "Heimbach-Weis (Gastro)",
             "hu": "Heimbach-Weis (Gasztro)",
             "ro": "Heimbach-Weis (Gastro)",
-            "en": "Heimbach-Weis (Gastro)"
+            "en": "Heimbach-Weis (Gastro)",
+            "tr": "Heimbach-Weis (Gastronomi)"
           },
           "coords": [
             7.5355,
@@ -913,7 +973,8 @@
             "de": "Kurzer Fußweg vom Zoo in den Ortskern.",
             "hu": "Rövid séta az állatkerttől a településközpontba.",
             "ro": "O scurtă plimbare de la grădina zoologică până în centrul localității.",
-            "en": "Short walk from the zoo to the village center."
+            "en": "Short walk from the zoo to the village center.",
+            "tr": "Hayvanat bahçesinden köy merkezine kısa yürüyüş."
           }
         },
         {
@@ -921,7 +982,8 @@
             "de": "Schloss Engers",
             "hu": "Engersi kastély",
             "ro": "Castelul Engers",
-            "en": "Engers Castle"
+            "en": "Engers Castle",
+            "tr": "Engers Kalesi"
           },
           "coords": [
             7.5435,
@@ -937,7 +999,8 @@
             "de": "Engers hat einen eigenen Bahnhof (RB 27).",
             "hu": "Engersnek saját vasútállomása van (RB 27).",
             "ro": "Engers are propria gară (RB 27).",
-            "en": "Engers has its own train station (RB 27)."
+            "en": "Engers has its own train station (RB 27).",
+            "tr": "Engers’in kendi tren istasyonu var (RB 27)."
           }
         },
         {
@@ -945,7 +1008,8 @@
             "de": "Rheinufer Promenade",
             "hu": "Rajna-parti sétány",
             "ro": "Promenada de pe malul Rinului",
-            "en": "Rhine Bank Promenade"
+            "en": "Rhine Bank Promenade",
+            "tr": "Ren Kıyısı Yürüyüş Yolu"
           },
           "coords": [
             7.5455,
@@ -961,7 +1025,8 @@
             "de": "Abschluss direkt am Fluss vor der Rückfahrt.",
             "hu": "Zárás közvetlenül a folyónál a visszautazás előtt.",
             "ro": "Final direct pe râu înainte de întoarcere.",
-            "en": "Finish directly by the river before the return trip."
+            "en": "Finish directly by the river before the return trip.",
+            "tr": "Dönüş yolculuğu öncesi doğrudan nehir kenarında bitirin."
           }
         }
       ],
@@ -969,7 +1034,8 @@
         "de": "Nutzen Sie Bus und Bahn für Ihre Entdeckungstour. Starten Sie beim Residenzschloss im Zentrum. Ein Linienbus bringt Sie bequem zum Zoo Neuwied. Nach einem gemütlichen Mittagessen im Stadtteil Heimbach-Weis führt der Weg weiter zum prunkvollen Schloss Engers, das ideal an das Schienennetz angebunden ist, um Ihre Reise entspannt abzuschließen.",
         "hu": "Használja a buszt és a vonatot felfedező túrájához. Kezdjen a központban található rezidenciakastélynál. Egy menetrend szerinti autóbusz kényelmesen elviszi a Neuwiedi Állatkerthez. A Heimbach-Weis városrészben elfogyasztott kellemes ebéd után az út a pompás Engersi kastélyhoz vezet, amely kiváló vasúti kapcsolattal rendelkezik az utazás pihentető befejezéséhez.",
         "ro": "Folosiți autobuzul și trenul pentru turul de descoperire. Începeți la castelul de reședință din centru. Un autobuz de linie vă duce confortabil la Grădina Zoologică Neuwied. După un prânz plăcut în cartierul Heimbach-Weis, drumul continuă spre somptuosul Castel Engers, care este ideal conectat la rețeaua feroviară pentru a vă încheia călătoria relaxat.",
-        "en": "Use bus and train for your discovery tour. Start at the residence castle in the center. A regular bus takes you comfortably to Neuwied Zoo. After a pleasant lunch in the Heimbach-Weis district, the route continues to the magnificent Engers Castle, which is ideally connected to the rail network for a relaxed conclusion to your trip."
+        "en": "Use bus and train for your discovery tour. Start at the residence castle in the center. A regular bus takes you comfortably to Neuwied Zoo. After a pleasant lunch in the Heimbach-Weis district, the route continues to the magnificent Engers Castle, which is ideally connected to the rail network for a relaxed conclusion to your trip.",
+        "tr": "Keşif turunuz için otobüs ve treni kullanın. Merkezdeki konut kalesinde başlayın. Düzenli bir otobüs sizi rahatça Neuwied Hayvanat Bahçesi’ne götürür. Heimbach-Weis’te keyifli bir öğle yemeğinin ardından güzide Engers Kalesi’ne devam edin; burası tren ağına ideal bağlantıyla gezinizi sakin bir şekilde sonlandırır."
       },
       "gastro_picks": {
         "de": [
@@ -1069,6 +1135,10 @@
         "en": [
           "Buy a day ticket for the VRM transport association.",
           "Buses to the zoo run regularly from the central bus station (ZOB)."
+        ],
+        "tr": [
+          "VRM ulaşım birliğinin gün biletini alın.",
+          "Hayvanat bahçesine giden otobüsler merkezi otobüs terminalinden (ZOB) düzenli olarak kalkar."
         ]
       }
     }

@@ -3,55 +3,64 @@
     "de": "Buchenwald, 99427 Weimar",
     "hu": "Buchenwald, 99427 Weimar",
     "ro": "Buchenwald, 99427 Weimar",
-    "en": "Buchenwald, 99427 Weimar"
+    "en": "Buchenwald, 99427 Weimar",
+    "tr": "Buchenwald, 99427 Weimar"
   },
   "openingHours": {
     "de": "Di-So 10:00-18:00 (Apr-Okt), 10:00-16:00 (Nov-Mär)",
     "hu": "K-V 10:00-18:00 (ápr-okt), 10:00-16:00 (nov-márc)",
     "ro": "Ma-Du 10:00-18:00 (apr-oct), 10:00-16:00 (nov-mar)",
-    "en": "Tue-Sun 10:00-18:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)"
+    "en": "Tue-Sun 10:00-18:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)",
+    "tr": "Salı-Pazar 10:00-18:00 (Nis-Eki), 10:00-16:00 (Kas-Mar)"
   },
   "entranceFee": {
     "de": "kostenlos (Spenden erbeten)",
     "hu": "ingyenes (adományokat elfogadnak)",
     "ro": "gratuit (donațiile sunt binevenite)",
-    "en": "free (donations requested)"
+    "en": "free (donations requested)",
+    "tr": "ücretsiz (bağışlar rica edilir)"
   },
   "website": "https://www.buchenwald.de",
   "publicTransport": {
     "de": "Buslinie 6 ab Weimar Hauptbahnhof",
     "hu": "6-os buszjárat a weimari főpályaudvarról",
     "ro": "Linia de autobuz 6 de la Gara Centrală din Weimar",
-    "en": "Bus line 6 from Weimar main station"
+    "en": "Bus line 6 from Weimar main station",
+    "tr": "Weimar ana istasyonundan 6 numaralı otobüs"
   },
   "parking": {
     "de": "Großer kostenloser Parkplatz direkt vor der Gedenkstätte.",
     "hu": "Nagy, ingyenes parkoló közvetlenül az emlékhely előtt.",
     "ro": "Parcare mare gratuită chiar în fața memorialului.",
-    "en": "Large free parking lot directly in front of the memorial site."
+    "en": "Large free parking lot directly in front of the memorial site.",
+    "tr": "Anıtın hemen önünde büyük ücretsiz otopark."
   },
   "accessibility": {
     "de": "Größtenteils barrierefrei, einige historische Wege sind jedoch geschottert.",
     "hu": "Nagyrészt akadálymentesített, de néhány történelmi út kavicsos.",
     "ro": "În mare parte accesibil, însă unele drumuri istorice sunt pietruite.",
-    "en": "Mostly accessible, though some historic paths are graveled."
+    "en": "Mostly accessible, though some historic paths are graveled.",
+    "tr": "Çoğunlukla erişilebilir, ancak bazı tarihi patikalar çakıllıdır."
   },
   "photoRules": {
     "de": "Erlaubt, außer im Krematorium; respektvolles Verhalten ist zwingend.",
     "hu": "Megengedett, kivéve a krematórium területén; a tiszteletteljes viselkedés kötelező.",
     "ro": "Permis, cu excepția crematoriului; comportamentul respectuos este obligatoriu.",
-    "en": "Permitted, except in the crematorium; respectful behavior is mandatory."
+    "en": "Permitted, except in the crematorium; respectful behavior is mandatory.",
+    "tr": "Yakma fırınında hariç olmak üzere izinli; saygılı davranış zorunludur."
   },
   "bestTimeToVisit": {
     "de": "Wochentags am Nachmittag für eine ruhigere Atmosphäre.",
     "hu": "Hétköznap délután a nyugodtabb látogatás érdekében.",
     "ro": "În zilele lucrătoare după-amiaza pentru o atmosferă mai liniștită.",
-    "en": "Weekdays in the afternoon for a quieter atmosphere."
+    "en": "Weekdays in the afternoon for a quieter atmosphere.",
+    "tr": "Daha sakin bir atmosfer için hafta içi öğleden sonra."
   },
   "audioGuide": {
     "de": "ja (DE, EN, FR, IT, ES, PL)",
     "hu": "igen (DE, EN, FR, IT, ES, PL)",
     "ro": "da (DE, EN, FR, IT, ES, PL)",
-    "en": "yes (DE, EN, FR, IT, ES, PL)"
+    "en": "yes (DE, EN, FR, IT, ES, PL)",
+    "tr": "evet (DE, EN, FR, IT, ES, PL)"
   }
 }

@@ -21,7 +21,8 @@
             "de": "Anker-Gottes-Kirche",
             "hu": "Horgonyisten Temploma",
             "ro": "Biserica Ancorei",
-            "en": "Anchor of God Church"
+            "en": "Anchor of God Church",
+            "tr": "Tanrı Çapa Kilisesi"
           },
           "coords": [
             10.22651,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die ankerförmige Architektur zu Ehren der Seeleute und werfen Sie einen Blick auf das Brett für abendliche Orgelkonzerte.",
             "hu": "Csodálja meg a helyi tengerészeket tisztelő, horgony témájú építészetet, és nézze meg a hirdetőtáblát az esti orgonakoncertekért.",
             "ro": "Admirați arhitectura în formă de ancoră care onorează marinarii locali și nu uitați să verificați panoul pentru concertele de orgă de seară.",
-            "en": "Admire the stunning anchor-themed architecture that honors local sailors, and remember to check the notice board for lovely evening organ concerts."
+            "en": "Admire the stunning anchor-themed architecture that honors local sailors, and remember to check the notice board for lovely evening organ concerts.",
+            "tr": "Yerel denizcileri onurlandıran çapa temalı muhteşem mimariye hayran kalın ve güzel akşam org konserleri için ilan panosunu kontrol etmeyi unutmayın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Musikmuschel",
             "hu": "Zenepavilon",
             "ro": "Pavilionul de Muzică",
-            "en": "Music Shell"
+            "en": "Music Shell",
+            "tr": "Müzik Kabuğu"
           },
           "coords": [
             10.218312,
@@ -59,7 +62,8 @@
             "de": "Genießen Sie kostenlose Open-Air-Auftritte in diesem muschelförmigen Pavillon, aber kommen Sie etwas früher für eine Bank am Ufer.",
             "hu": "Élvezze az ingyenes szabadtéri előadásokat ebben a kagyló alakú pavilonban, de érkezzen korábban, hogy jó helyet kapjon a parton.",
             "ro": "Bucurați-vă de spectacole gratuite în aer liber în acest pavilion acustic și ajungeți devreme pentru a prinde o bancă lângă apă.",
-            "en": "Enjoy free open-air performances in this shell-shaped acoustic pavilion, but arrive a bit early to secure a good bench near the beautiful waterfront."
+            "en": "Enjoy free open-air performances in this shell-shaped acoustic pavilion, but arrive a bit early to secure a good bench near the beautiful waterfront.",
+            "tr": "Bu kabuk şeklindeki akustik pavyonda ücretsiz açık hava performanslarının tadını çıkarın; ancak güzel sahil manzarasına yakın iyi bir sırta yerleşmek için biraz erken gelin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kurstrand",
             "hu": "Gyógyfürdő strand",
             "ro": "Plaja Kurstrand",
-            "en": "Spa Beach"
+            "en": "Spa Beach",
+            "tr": "Kür Plajı"
           },
           "coords": [
             10.220355,
@@ -82,7 +87,8 @@
             "de": "Entspannen Sie am feinen weißen Sand dieses gepflegten Kurstrandes und mieten Sie einen traditionellen Strandkorb als perfekten Windschutz.",
             "hu": "Pihenjen a gondozott fürdőstrand finom fehér homokján, és béreljen egy hagyományos Strandkorbot a hűvösebb szél elleni védelem érdekében.",
             "ro": "Relaxați-vă pe nisipul alb și fin al acestei plaje balneare și luați în considerare închirierea unui Strandkorb pentru protecție împotriva vântului.",
-            "en": "Relax on the fine white sands of this well-kept spa beach perfect for sunbathing, and consider renting a traditional Strandkorb for wind protection."
+            "en": "Relax on the fine white sands of this well-kept spa beach perfect for sunbathing, and consider renting a traditional Strandkorb for wind protection.",
+            "tr": "Güneşlenmek için ideal, iyi bakımlı bu ince beyaz kumlu kür plajında dinlenin; rüzgârdan korunmak için geleneksel bir Strandkorb kiralamayı düşünün."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "De Laboer Lachmöwen",
             "hu": "De Laboer Lachmöwen Színház",
             "ro": "Teatrul De Laboer Lachmöwen",
-            "en": "De Laboer Lachmöwen Theater"
+            "en": "De Laboer Lachmöwen Theater",
+            "tr": "De Laboer Lachmöwen Tiyatrosu"
           },
           "coords": [
             10.225155,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die plattdeutsche Kultur in diesen unterhaltsamen Theaterstücken und buchen Sie Ihre Tickets frühzeitig, da sie sehr beliebt sind.",
             "hu": "Fedezze fel az alnémet kultúrát a rendkívül szórakoztató vígjátékokon keresztül, de foglaljon jegyet előre, mert a helyek gyorsan elfogynak.",
             "ro": "Descoperiți cultura locală autentică prin piese de teatru de comedie și asigurați-vă că rezervați biletele din timp deoarece se epuizează rapid.",
-            "en": "Discover authentic Low German culture through highly entertaining comedic plays, and try to book your tickets well in advance as seats fill up fast."
+            "en": "Discover authentic Low German culture through highly entertaining comedic plays, and try to book your tickets well in advance as seats fill up fast.",
+            "tr": "Son derece eğlenceli komedi oyunlarıyla özgün Aşağı Sakson kültürünü keşfedin; koltuklar çabuk dolduğundan biletinizi önceden almaya çalışın."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Laboe Strand",
             "hu": "Laboe tengerpart",
             "ro": "Plaja Laboe",
-            "en": "Laboe Beach"
+            "en": "Laboe Beach",
+            "tr": "Laboe Plajı"
           },
           "coords": [
             10.227434,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie an diesem lebhaften Küstenabschnitt mit Blick auf Schiffe und holen Sie sich ein leckeres Fischbrötchen an der Promenade.",
             "hu": "Sétáljon végig az élénk partszakaszon, ahonnan remek kilátás nyílik a hajókra, és vegyen egy finom halas szendvicset a sétányon.",
             "ro": "Plimbați-vă de-a lungul acestei coaste pline de viață cu vedere la nave și cumpărați un sandviș delicios cu pește de la un chioșc.",
-            "en": "Stroll along this lively coastal stretch offering excellent views of passing ships, and grab a delicious fish sandwich from a nearby promenade kiosk."
+            "en": "Stroll along this lively coastal stretch offering excellent views of passing ships, and grab a delicious fish sandwich from a nearby promenade kiosk.",
+            "tr": "Geçen gemilerin mükemmel manzaralarını sunan bu canlı kıyı şeridinde yürüyün ve yakındaki promenat gişesinden lezzetli bir balık sandviçi alın."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "U-995",
             "hu": "U-995 Tengeralattjáró",
             "ro": "Submarinul U-995",
-            "en": "U-995 Submarine"
+            "en": "U-995 Submarine",
+            "tr": "U-995 Denizaltısı"
           },
           "coords": [
             10.228856,
@@ -151,7 +162,8 @@
             "de": "Betreten Sie dieses originale U-Boot aus dem Zweiten Weltkrieg, um die Enge zu erleben, und tragen Sie bequeme Schuhe für die schmalen Luken.",
             "hu": "Lépjen be ebbe az eredeti második világháborús tengeralattjáróba, és viseljen kényelmes cipőt a szűk ajtónyílásokon való átjutáshoz.",
             "ro": "Pășiți în acest submarin original din al Doilea Război Mondial pentru a vedea condițiile înguste și purtați încălțăminte comodă.",
-            "en": "Step inside this original WWII submarine to experience the incredibly cramped conditions, and wear comfortable shoes to navigate the narrow hatches."
+            "en": "Step inside this original WWII submarine to experience the incredibly cramped conditions, and wear comfortable shoes to navigate the narrow hatches.",
+            "tr": "Orijinal II. Dünya Savaşı denizaltısına girip inanılmaz derecede dar koşulları deneyimleyin; dar kapaklardan geçmek için rahat ayakkabılar giyin."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Marine-Ehrenmal Laboe",
             "hu": "Laboe Tengerészeti Emlékmű",
             "ro": "Memorialul Naval Laboe",
-            "en": "Laboe Naval Memorial"
+            "en": "Laboe Naval Memorial",
+            "tr": "Laboe Denizcilik Anıtı"
           },
           "coords": [
             10.230775,
@@ -174,7 +187,8 @@
             "de": "Erklimmen Sie den Turm für atemberaubende Ausblicke über die Ostsee und besuchen Sie die unterirdische Gedenkhalle für gefallene Seeleute.",
             "hu": "Mássza meg az emlékmű tornyát a Balti-tengerre nyíló lélegzetelállító kilátásért, és szánjon időt a tengerészek földalatti emlékcsarnokára is.",
             "ro": "Urcați în turnul memorialului pentru vederi uluitoare spre Marea Baltică și vizitați sala de reflecție subterană în onoarea marinarilor.",
-            "en": "Climb the imposing memorial tower for breathtaking views across the Baltic Sea, and take time to visit the underground reflection hall honoring lost sailors."
+            "en": "Climb the imposing memorial tower for breathtaking views across the Baltic Sea, and take time to visit the underground reflection hall honoring lost sailors.",
+            "tr": "Baltık Denizi boyunca nefes kesici manzaralar için görkemli anıt kulesine tırmanın ve kayıp denizcileri anan yeraltı düşünce salonunu ziyaret etmek için zaman ayırın."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Starten Sie an der historischen Ankerkirche und spazieren Sie zum Küsten-Musikpavillon. Genießen Sie mittags den erholsamen Kurstrand und entdecken Sie die lokale Kultur bei den Lachmöwen. Nachmittags flanieren Sie am Laboe Strand und erkunden das faszinierende U-Boot U-995. Schließen Sie den Tag am überragenden Marine-Ehrenmal mit Blick auf die abendliche Küste ab.",
         "hu": "Kezdje a történelmi horgonytemplomnál, majd irány a tengerparti zenepavilon. Élvezze a pihentető Kurstrandot és fedezze fel a helyi kultúrát a Lachmöwen színházban. Délután sétáljon végig a Laboe strandon, mielőtt felfedezné a lenyűgöző U-995 tengeralattjárót. Zárja a napot a magasodó Tengerészeti Emlékműnél a lenyűgöző parti naplemente látványával.",
         "ro": "Începeți la biserica istorică a ancorei, apoi mergeți la pavilionul de muzică de la malul mării. Bucurați-vă de Kurstrand relaxant și descoperiți cultura locală la teatrul Lachmöwen. După-amiaza, plimbați-vă pe plaja Laboe înainte de a explora submarinul U-995. Încheiați la impresionantul Memorial Naval pentru priveliști superbe de coastă la apus.",
-        "en": "Start at the historic anchor church, then stroll towards the scenic coastal music pavilion. Enjoy the relaxing Kurstrand beach and discover authentic local culture at the Lachmöwen theater. Walk along the vibrant Laboe Strand before stepping inside the fascinating U-995 submarine. Conclude your day at the towering Naval Memorial, taking in stunning twilight coastal views."
+        "en": "Start at the historic anchor church, then stroll towards the scenic coastal music pavilion. Enjoy the relaxing Kurstrand beach and discover authentic local culture at the Lachmöwen theater. Walk along the vibrant Laboe Strand before stepping inside the fascinating U-995 submarine. Conclude your day at the towering Naval Memorial, taking in stunning twilight coastal views.",
+        "tr": "Geziye tarihi çapa kilisesinden başlayın, sonra manzaralı sahil müzik pavyonuna doğru yürüyün. Dinlendirici Kurstrand plajının tadını çıkarın ve Lachmöwen tiyatrosunda yerel kültürü keşfedin. Canlı Laboe Strand boyunca yürüyün ve ardından büyüleyici U-995 denizaltısının içine girin. Günü zamansız kıyı manzaraları eşliğinde Denizcilik Anıtı'nda sonlandırın."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Ein regnerischer Tag in Laboe beginnt in der schützenden Kirche. Mittags spazieren wir am stürmischen Hafen entlang zum Theater. Nachmittags bieten das U-Boot und das Ehrenmal perfekte Indoor-Ziele, um dem Wetter zu trotzen. Am Abend genießen wir den Blick auf die raue Ostsee unter dem Regenschirm.",
             "hu": "A borús Laboe-i reggelt a templom nyugalmában kezdjük. Délben a szélvédett sétányon haladunk a színház felé. Délután a tengeralattjáró belseje és az emlékmű kiállítása kínál száraz menedéket. Este az esőtől csillogó kikötői fények zárják a napot a sós tengeri levegőn.",
             "ro": "O zi ploioasă în Laboe începe în liniștea bisericii. La prânz, ne plimbăm pe faleză spre teatru, protejați de umbrele. După-amiaza, submarinul și memorialul oferă adăpost perfect în interior. Seara, admirăm marea agitată și luminile portului care se reflectă pe asfaltul umed.",
-            "en": "A rainy day in Laboe starts in the shelter of the church. At noon, we walk along the breezy promenade towards the theater. In the afternoon, the submarine interior and the memorial museum provide perfect dry havens. The evening ends with views of the stormy Baltic Sea under an umbrella."
+            "en": "A rainy day in Laboe starts in the shelter of the church. At noon, we walk along the breezy promenade towards the theater. In the afternoon, the submarine interior and the memorial museum provide perfect dry havens. The evening ends with views of the stormy Baltic Sea under an umbrella.",
+            "tr": "Laboe'da yağmurlu bir gün kilisenin korumasında başlar. Öğle vakti rüzgârlı promenatta tiyatroya doğru yürürüz. Öğleden sonra denizaltı içi ve anıt müzesi mükemmel kuru sığınaklar sunar. Akşam, şemsiye altında fırtınalı Baltık Denizi manzaralarıyla sona erer."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Anker-Gottes-Kirche",
                 "hu": "Horgonyisten Temploma",
                 "ro": "Biserica Ancorei",
-                "en": "Anchor of God Church"
+                "en": "Anchor of God Church",
+                "tr": "Tanrı Çapa Kilisesi"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die maritime Dekoration im Inneren der Kirche, die einen wunderbaren trockenen Rückzugsort vor dem ersten Küstenregen bietet.",
                 "hu": "Csodáld meg a templom tengeri díszítését, amely kiváló fedett menedéket nyújt a reggeli tengerparti záporok elől.",
                 "ro": "Admirați decorațiunile maritime din interiorul bisericii, care oferă un refugiu uscat excelent împotriva primei ploi de pe coastă.",
-                "en": "Admire the maritime decorations inside the church, which provides a wonderful dry retreat from the early coastal rain."
+                "en": "Admire the maritime decorations inside the church, which provides a wonderful dry retreat from the early coastal rain.",
+                "tr": "Kilisenin içindeki denizci süslemelerine hayran kalın; erken kıyı yağmurundan kuruyan harika bir sığınaktır."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Musikmuschel",
                 "hu": "Zenepavilon",
                 "ro": "Pavilionul de Muzică",
-                "en": "Music Shell"
+                "en": "Music Shell",
+                "tr": "Müzik Kabuğu"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Dach der Muschel für eine kurze Pause und lauschen Sie dem beruhigenden Prasseln des Regens auf das Meer.",
                 "hu": "Használd ki a pavilon tetejét egy rövid pihenőre, és hallgasd a tengerre hulló eső megnyugtató kopogását.",
                 "ro": "Folosiți acoperișul pavilionului pentru o scurtă pauză și ascultați sunetul liniștitor al ploii care cade peste mare.",
-                "en": "Use the shell's roof for a short break and listen to the soothing sound of rain hitting the surface of the sea."
+                "en": "Use the shell's roof for a short break and listen to the soothing sound of rain hitting the surface of the sea.",
+                "tr": "Kısa bir mola için kabuğun çatısını kullanın ve yağmurun deniz yüzeyine vurmasının sakinleştirici sesini dinleyin."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Kurstrand",
                 "hu": "Gyógyfürdő strand",
                 "ro": "Plaja Kurstrand",
-                "en": "Spa Beach"
+                "en": "Spa Beach",
+                "tr": "Kür Plajı"
               },
               "tip_5lang": {
                 "de": "Ein Spaziergang am nassen Sand wirkt belebend; suchen Sie danach Schutz in einem der Strandkörbe mit Verdeck.",
                 "hu": "A vizes homokban való séta élénkítő hatású; utána keress védelmet az egyik tetővel ellátott strandkosárban.",
                 "ro": "O plimbare pe nisipul ud este revigorantă; după aceea, căutați adăpost într-unul dintre coșurile de plajă cu coviltir.",
-                "en": "A walk on the wet sand is invigorating; afterwards, seek shelter in one of the roofed beach chairs."
+                "en": "A walk on the wet sand is invigorating; afterwards, seek shelter in one of the roofed beach chairs.",
+                "tr": "Islak kumda yürümek canlandırıcıdır; sonrası için çatılı plaj sandalyelerinden birinde sığınak arayın."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "De Laboer Lachmöwen",
                 "hu": "De Laboer Lachmöwen Színház",
                 "ro": "Teatrul De Laboer Lachmöwen",
-                "en": "De Laboer Lachmöwen Theater"
+                "en": "De Laboer Lachmöwen Theater",
+                "tr": "De Laboer Lachmöwen Tiyatrosu"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Foyer dieses gemütlichen Mundarttheaters, um sich aufzuwärmen und dem Regen für eine Weile zu entkommen.",
                 "hu": "Látogass el a hangulatos tájszínház előcsarnokába, hogy felmelegedj és egy időre elmenekülj a zuhogó eső elől.",
                 "ro": "Vizitați foierul acestui teatru local primitor pentru a vă încălzi și a scăpa pentru o vreme de ploaia de afară.",
-                "en": "Visit the foyer of this cozy dialect theater to warm up and escape the rain for a while."
+                "en": "Visit the foyer of this cozy dialect theater to warm up and escape the rain for a while.",
+                "tr": "Bu samimi ağız tiyatrosunun fuayesini ziyaret ederek ısının ve bir süre yağmurdan kaçının."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Laboe Strand",
                 "hu": "Laboe tengerpart",
                 "ro": "Plaja Laboe",
-                "en": "Laboe Beach"
+                "en": "Laboe Beach",
+                "tr": "Laboe Plajı"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Fähren durch den Regenschleier; feste Regenbekleidung ist hier wegen des starken Windes unerlässlich.",
                 "hu": "Figyeld a kompokat az esőfüggönyön keresztül; a felerősödő szél miatt a vízhatlan öltözet itt elengedhetetlen.",
                 "ro": "Urmăriți feriboturile prin perdeaua de ploaie; îmbrăcămintea impermeabilă este esențială aici din cauza vântului puternic.",
-                "en": "Watch the ferries through the veil of rain; sturdy rain gear is essential here due to the strengthening wind."
+                "en": "Watch the ferries through the veil of rain; sturdy rain gear is essential here due to the strengthening wind.",
+                "tr": "Yağmur perdesi arasından feribotları izleyin; güçlenen rüzgâr nedeniyle sağlam yağmurluk önemli."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "U-995",
                 "hu": "U-995 Tengeralattjáró",
                 "ro": "Submarinul U-995",
-                "en": "U-995 Submarine"
+                "en": "U-995 Submarine",
+                "tr": "U-995 Denizaltısı"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das enge Innere des U-Boots, wo es garantiert trocken bleibt, während draußen die Wellen peitschen.",
                 "hu": "Fedezd fel a tengeralattjáró szűk belső tereit, ahol garantáltan száraz maradsz, miközben kint ostoroznak a hullámok.",
                 "ro": "Explorați interiorul strâmt al submarinului, unde veți rămâne garantat uscat în timp ce afară valurile se izbesc de mal.",
-                "en": "Explore the cramped interior of the submarine, where you are guaranteed to stay dry while the waves lash outside."
+                "en": "Explore the cramped interior of the submarine, where you are guaranteed to stay dry while the waves lash outside.",
+                "tr": "Dışarıda dalgalar çarparken içi kesinlikle kuru kalacağınız denizaltının dar iç mekanını keşfedin."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Marine-Ehrenmal Laboe",
                 "hu": "Laboe Tengerészeti Emlékmű",
                 "ro": "Memorialul Naval Laboe",
-                "en": "Laboe Naval Memorial"
+                "en": "Laboe Naval Memorial",
+                "tr": "Laboe Denizcilik Anıtı"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Fahrstuhl zum Turm für eine regensichere Aussicht und besuchen Sie die informative unterirdische Gedenkhalle.",
                 "hu": "Használd a torony liftjét az esőmentes kilátásért, és látogasd meg a föld alatti emlékház tanulságos kiállításait.",
                 "ro": "Folosiți liftul spre turn pentru o vedere protejată de ploaie și vizitați sala memorială subterană foarte informativă.",
-                "en": "Use the tower elevator for a rain-safe view and visit the informative underground memorial hall."
+                "en": "Use the tower elevator for a rain-safe view and visit the informative underground memorial hall.",
+                "tr": "Yağmurdan korunaklı bir manzara için kule asansörünü kullanın ve bilgilendirici yeraltı anıt salonunu ziyaret edin."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Winter in Laboe besticht durch klare Luft und Ruhe. Nach dem Besuch der Kirche wärmen wir uns mittags in den Cafés nahe der Promenade auf. Da es gegen 17 Uhr dunkel wird, verbringen wir den späten Nachmittag im Museum des Ehrenmals. Der Abend endet mit einem winterlichen Deichspaziergang.",
             "hu": "A téli Laboe a friss levegőről és a csendről szól. A templomlátogatás után délben a közeli kávézókban melegszünk fel. Mivel 17 óra körül sötétedik, a késő délutánt az emlékmű múzeumában töltjük. A napot egy frissítő esti séta zárja a havas vagy deres töltésen.",
             "ro": "Iarna în Laboe impresionează prin aerul curat și liniște. După biserică, ne încălzim la prânz în cafenelele de lângă faleză. Deoarece se întunecă în jur de ora 17, petrecem după-amiaza în muzeul memorialului. Seara se încheie cu o plimbare revigorantă pe dig.",
-            "en": "Winter in Laboe is all about crisp air and tranquility. After the church visit, we warm up at noon in the cafes near the promenade. As it gets dark around 5 PM, we spend the late afternoon in the memorial museum. The day ends with a brisk evening walk along the wintery dike."
+            "en": "Winter in Laboe is all about crisp air and tranquility. After the church visit, we warm up at noon in the cafes near the promenade. As it gets dark around 5 PM, we spend the late afternoon in the memorial museum. The day ends with a brisk evening walk along the wintery dike.",
+            "tr": "Laboe'da kış; taze hava ve dinginlik demektir. Kilise ziyaretinden sonra öğle vakti promenat yakınlarındaki kafelerde ısınıyoruz. Saat 17:00 civarı karardığında, öğleden sonrayı anıt müzesinde geçiriyoruz. Gün, kışlık set boyunca hızlı bir akşam yürüyüşüyle sona erer."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Anker-Gottes-Kirche",
                 "hu": "Horgonyisten Temploma",
                 "ro": "Biserica Ancorei",
-                "en": "Anchor of God Church"
+                "en": "Anchor of God Church",
+                "tr": "Tanrı Çapa Kilisesi"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die festliche Stille in der beheizten Kirche; ein idealer Ort, um die Wintertour besinnlich zu beginnen.",
                 "hu": "Élvezd az ünnepi csendet a fűtött templomban; ideális helyszín a téli túra meghitt elkezdéséhez.",
                 "ro": "Bucurați-vă de liniștea festivă din biserica încălzită; un loc ideal pentru a începe turul de iarnă în mod meditativ.",
-                "en": "Enjoy the festive silence in the heated church; an ideal place to start your winter tour contemplatively."
+                "en": "Enjoy the festive silence in the heated church; an ideal place to start your winter tour contemplatively.",
+                "tr": "Isıtmalı kilisede huzurlu bir sessizliğin tadını çıkarın; kış turuna düşünceli başlamak için ideal bir yer."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Musikmuschel",
                 "hu": "Zenepavilon",
                 "ro": "Pavilionul de Muzică",
-                "en": "Music Shell"
+                "en": "Music Shell",
+                "tr": "Müzik Kabuğu"
               },
               "tip_5lang": {
                 "de": "Die Muschel wirkt im Winterschlaf besonders skulptural; ziehen Sie Handschuhe an für Fotos der vereisten Ostsee.",
                 "hu": "A pavilon téli álma során különleges látványt nyújt; húzz kesztyűt a jegesedő Balti-tengerről készült fotókhoz.",
                 "ro": "Pavilionul arată deosebit în timpul hibernării; purtați mănuși pentru fotografiile cu Marea Baltică înghețată.",
-                "en": "The shell looks particularly sculptural in winter; wear gloves for taking photos of the icy Baltic Sea."
+                "en": "The shell looks particularly sculptural in winter; wear gloves for taking photos of the icy Baltic Sea.",
+                "tr": "Kabuğun kışın özellikle heykelsi görünümü vardır; buzlu Baltık Denizi fotoğrafları için eldiven giyin."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Kurstrand",
                 "hu": "Gyógyfürdő strand",
                 "ro": "Plaja Kurstrand",
-                "en": "Spa Beach"
+                "en": "Spa Beach",
+                "tr": "Kür Plajı"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die Weite des menschenleeren Strandes; achten Sie auf glatte Stellen auf den gefrorenen Wegen.",
                 "hu": "Tapasztald meg az üres tengerpart végtelenségét; figyelj a jeges foltokra a fagyott sétányokon.",
                 "ro": "Experimentați vastitatea plajei pustii; aveți grijă la porțiunile alunecoase de pe potecile înghețate.",
-                "en": "Experience the vastness of the empty beach; watch out for slippery patches on the frozen paths."
+                "en": "Experience the vastness of the empty beach; watch out for slippery patches on the frozen paths.",
+                "tr": "Bomboş plajın genişliğini deneyimleyin; donmuş patikalarda kaygan bölgeler olabileceğine dikkat edin."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "De Laboer Lachmöwen",
                 "hu": "De Laboer Lachmöwen Színház",
                 "ro": "Teatrul De Laboer Lachmöwen",
-                "en": "De Laboer Lachmöwen Theater"
+                "en": "De Laboer Lachmöwen Theater",
+                "tr": "De Laboer Lachmöwen Tiyatrosu"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie den Spielplan auf winterliche Aufführungen; das warme Licht des Theaters ist abends sehr einladend.",
                 "hu": "Ellenőrizd a műsort a téli előadásokért; a színház meleg fényei este különösen hívogatóak a hideg után.",
                 "ro": "Verificați programul pentru spectacole de iarnă; luminile calde ale teatrului sunt foarte primitoare seara.",
-                "en": "Check the schedule for winter performances; the theater's warm light is very inviting in the evening cold."
+                "en": "Check the schedule for winter performances; the theater's warm light is very inviting in the evening cold.",
+                "tr": "Kış gösteri programını kontrol edin; tiyatronun sıcak ışığı akşamın soğuğunda çok davetkârdır."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Laboe Strand",
                 "hu": "Laboe tengerpart",
                 "ro": "Plaja Laboe",
-                "en": "Laboe Beach"
+                "en": "Laboe Beach",
+                "tr": "Laboe Plajı"
               },
               "tip_5lang": {
                 "de": "Der Winterwind kann schneidend sein; tragen Sie einen winddichten Schal beim Blick auf den Kieler Leuchtturm.",
                 "hu": "A téli szél metsző lehet; viselj szélálló sálat, miközben a távolban lévő kieli világítótornyot nézed.",
                 "ro": "Vântul de iarnă poate fi tăios; purtați o eșarfă rezistentă la vânt în timp ce priviți farul din Kiel.",
-                "en": "The winter wind can be biting; wear a windproof scarf while gazing at the Kiel lighthouse in the distance."
+                "en": "The winter wind can be biting; wear a windproof scarf while gazing at the Kiel lighthouse in the distance.",
+                "tr": "Kış rüzgârı keskin olabilir; uzaktaki Kiel deniz fenerine bakarken rüzgârdan koruyan bir atkı takın."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "U-995",
                 "hu": "U-995 Tengeralattjáró",
                 "ro": "Submarinul U-995",
-                "en": "U-995 Submarine"
+                "en": "U-995 Submarine",
+                "tr": "U-995 Denizaltısı"
               },
               "tip_5lang": {
                 "de": "Die Metallhülle kühlt stark ab; im Inneren ist es jedoch windgeschützt und wärmer als direkt an der Wasserkante.",
                 "hu": "A fémtest erősen lehűl, de belül szélvédett és melegebb a klíma, mint közvetlenül a vízparton.",
                 "ro": "Corpul metalic se răcește puternic; totuși, în interior este ferit de vânt și mai cald decât chiar pe malul apei.",
-                "en": "The metal hull cools down significantly; however, inside it is sheltered from the wind and warmer than the shoreline."
+                "en": "The metal hull cools down significantly; however, inside it is sheltered from the wind and warmer than the shoreline.",
+                "tr": "Metal gövde belirgin şekilde soğur; ancak içinde kıyıdan daha rüzgârsız ve nispeten daha sıcaktır."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Marine-Ehrenmal Laboe",
                 "hu": "Laboe Tengerészeti Emlékmű",
                 "ro": "Memorialul Naval Laboe",
-                "en": "Laboe Naval Memorial"
+                "en": "Laboe Naval Memorial",
+                "tr": "Laboe Denizcilik Anıtı"
               },
               "tip_5lang": {
                 "de": "Die Aussichtsplattform bietet im Winter oft weite Fernsicht; besuchen Sie danach die geheizte Historische Halle.",
                 "hu": "A kilátóból télen gyakran messzebb látni a tiszta levegő miatt; utána látogasd meg a fűtött Történelmi Csarnokot.",
                 "ro": "Platforma de observare oferă adesea o vizibilitate mare iarna; vizitați apoi Sala Istorică încălzită.",
-                "en": "The observation deck often offers long-distance views in winter; visit the heated Historical Hall afterwards."
+                "en": "The observation deck often offers long-distance views in winter; visit the heated Historical Hall afterwards.",
+                "tr": "Gözlem güvertesi kışın uzak mesafe görüşleri sunar; ardından ısıtmalı Tarih Salonu'nu ziyaret edin."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Anker-Gottes-Kirche",
             "hu": "Horgonyisten Temploma",
             "ro": "Biserica Ancorei",
-            "en": "Anchor of God Church"
+            "en": "Anchor of God Church",
+            "tr": "Tanrı Çapa Kilisesi"
           },
           "coords": [
             10.22651,
@@ -431,7 +477,8 @@
             "de": "Bewundern Sie die ankerförmige Architektur zu Ehren der Seeleute und werfen Sie einen Blick auf das Brett für abendliche Orgelkonzerte.",
             "hu": "Csodálja meg a helyi tengerészeket tisztelő, horgony témájú építészetet, és nézze meg a hirdetőtáblát az esti orgonakoncertekért.",
             "ro": "Admirați arhitectura în formă de ancoră care onorează marinarii locali și nu uitați să verificați panoul pentru concertele de orgă de seară.",
-            "en": "Admire the stunning anchor-themed architecture that honors local sailors, and remember to check the notice board for lovely evening organ concerts."
+            "en": "Admire the stunning anchor-themed architecture that honors local sailors, and remember to check the notice board for lovely evening organ concerts.",
+            "tr": "Yerel denizcileri onurlandıran çapa temalı muhteşem mimariye hayran kalın ve güzel akşam org konserleri için ilan panosunu kontrol etmeyi unutmayın."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Kurstrand",
             "hu": "Gyógyfürdő strand",
             "ro": "Plaja Kurstrand",
-            "en": "Spa Beach"
+            "en": "Spa Beach",
+            "tr": "Kür Plajı"
           },
           "coords": [
             10.220355,
@@ -454,7 +502,8 @@
             "de": "Entspannen Sie am feinen weißen Sand dieses gepflegten Kurstrandes und mieten Sie einen traditionellen Strandkorb als perfekten Windschutz.",
             "hu": "Pihenjen a gondozott fürdőstrand finom fehér homokján, és béreljen egy hagyományos Strandkorbot a hűvösebb szél elleni védelem érdekében.",
             "ro": "Relaxați-vă pe nisipul alb și fin al acestei plaje balneare și luați în considerare închirierea unui Strandkorb pentru protecție împotriva vântului.",
-            "en": "Relax on the fine white sands of this well-kept spa beach perfect for sunbathing, and consider renting a traditional Strandkorb for wind protection."
+            "en": "Relax on the fine white sands of this well-kept spa beach perfect for sunbathing, and consider renting a traditional Strandkorb for wind protection.",
+            "tr": "Güneşlenmek için ideal, iyi bakımlı bu ince beyaz kumlu kür plajında dinlenin; rüzgârdan korunmak için geleneksel bir Strandkorb kiralamayı düşünün."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Freistrand",
             "hu": "Szabadstrand",
             "ro": "Plaja Liberă",
-            "en": "Free Beach"
+            "en": "Free Beach",
+            "tr": "Ücretsiz Plaj"
           },
           "coords": [
             10.225498,
@@ -477,7 +527,8 @@
             "de": "Entfliehen Sie den Massen an diesem Naturstrand mit unberührten Dünen und bringen Sie eine Decke mit, da hier Strandkörbe seltener sind.",
             "hu": "Meneküljön el a tömeg elől ezen a természetes strandon, és hozzon magával egy pokrócot, mivel itt kevesebb a bérelhető nyugágy.",
             "ro": "Scăpați de aglomerație la această plajă naturală cu dune imaculate și aduceți o pătură, deoarece șezlongurile nu sunt atât de frecvente aici.",
-            "en": "Escape the main crowds at this expansive natural beach offering pristine dunes, and bring your own blanket since beach chairs aren't widely available here."
+            "en": "Escape the main crowds at this expansive natural beach offering pristine dunes, and bring your own blanket since beach chairs aren't widely available here.",
+            "tr": "Geniş ve doğal bu plajda ana kalabalıklardan kaçının; plaj sandalyeleri yaygın olmadığından kendi battaniyenizi getirin."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "U-995",
             "hu": "U-995 Tengeralattjáró",
             "ro": "Submarinul U-995",
-            "en": "U-995 Submarine"
+            "en": "U-995 Submarine",
+            "tr": "U-995 Denizaltısı"
           },
           "coords": [
             10.228856,
@@ -500,7 +552,8 @@
             "de": "Betreten Sie dieses originale U-Boot aus dem Zweiten Weltkrieg, um die Enge zu erleben, und tragen Sie bequeme Schuhe für die schmalen Luken.",
             "hu": "Lépjen be ebbe az eredeti második világháborús tengeralattjáróba, és viseljen kényelmes cipőt a szűk ajtónyílásokon való átjutáshoz.",
             "ro": "Pășiți în acest submarin original din al Doilea Război Mondial pentru a vedea condițiile înguste și purtați încălțăminte comodă.",
-            "en": "Step inside this original WWII submarine to experience the incredibly cramped conditions, and wear comfortable shoes to navigate the narrow hatches."
+            "en": "Step inside this original WWII submarine to experience the incredibly cramped conditions, and wear comfortable shoes to navigate the narrow hatches.",
+            "tr": "Orijinal II. Dünya Savaşı denizaltısına girip inanılmaz derecede dar koşulları deneyimleyin; dar kapaklardan geçmek için rahat ayakkabılar giyin."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Marine-Ehrenmal Laboe",
             "hu": "Laboe Tengerészeti Emlékmű",
             "ro": "Memorialul Naval Laboe",
-            "en": "Laboe Naval Memorial"
+            "en": "Laboe Naval Memorial",
+            "tr": "Laboe Denizcilik Anıtı"
           },
           "coords": [
             10.230775,
@@ -523,7 +577,8 @@
             "de": "Erklimmen Sie den Turm für atemberaubende Ausblicke über die Ostsee und besuchen Sie die unterirdische Gedenkhalle für gefallene Seeleute.",
             "hu": "Mássza meg az emlékmű tornyát a Balti-tengerre nyíló lélegzetelállító kilátásért, és szánjon időt a tengerészek földalatti emlékcsarnokára is.",
             "ro": "Urcați în turnul memorialului pentru vederi uluitoare spre Marea Baltică și vizitați sala de reflecție subterană în onoarea marinarilor.",
-            "en": "Climb the imposing memorial tower for breathtaking views across the Baltic Sea, and take time to visit the underground reflection hall honoring lost sailors."
+            "en": "Climb the imposing memorial tower for breathtaking views across the Baltic Sea, and take time to visit the underground reflection hall honoring lost sailors.",
+            "tr": "Baltık Denizi boyunca nefes kesici manzaralar için görkemli anıt kulesine tırmanın ve kayıp denizcileri anan yeraltı düşünce salonunu ziyaret etmek için zaman ayırın."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Fördepanorama u. Kieler Bucht",
             "hu": "Kieli-öböl panoráma",
             "ro": "Panorama Fiordului",
-            "en": "Fjord Panorama"
+            "en": "Fjord Panorama",
+            "tr": "Fiyort Panoraması"
           },
           "coords": [
             10.241663,
@@ -546,7 +602,8 @@
             "de": "Bewundern Sie das Panorama, wo die Kieler Förde auf das Meer trifft, und bringen Sie eine Kamera für spektakuläre Fotos im Sonnenuntergang mit.",
             "hu": "Csodálja meg a lenyűgöző panorámát, ahol a Kieli-fjord találkozik a tengerrel, és hozzon magával fényképezőgépet a naplemente megörökítéséhez.",
             "ro": "Admirați panoramele superbe unde fiordul Kiel întâlnește marea și aduceți un aparat foto pentru fotografii spectaculoase la apus.",
-            "en": "Marvel at the sweeping panoramic vistas where the bustling Kiel Fjord meets the sea, and bring a camera for spectacular golden hour photography."
+            "en": "Marvel at the sweeping panoramic vistas where the bustling Kiel Fjord meets the sea, and bring a camera for spectacular golden hour photography.",
+            "tr": "Hareketli Kiel Fiyordu'nun denizle buluştuğu geniş panoramik manzaralara hayran kalın; muhteşem altın saat fotoğrafları için bir fotoğraf makinesi getirin."
           }
         },
         {
@@ -554,7 +611,8 @@
             "de": "Strohfigur Laboe",
             "hu": "Laboe Szalmafigura",
             "ro": "Figurina de paie Laboe",
-            "en": "Straw figure Laboe"
+            "en": "Straw figure Laboe",
+            "tr": "Saman Heykel Laboe"
           },
           "coords": [
             10.232987,
@@ -569,7 +627,8 @@
             "de": "Bewundern Sie diese kunstvoll geflochtenen Kunstwerke zur Feier der Ernte und besuchen Sie sie im Spätsommer für die beste Erfahrung.",
             "hu": "Csodálja meg az aratást ünneplő, bonyolultan szőtt vidéki művészeti installációkat, és látogasson el nyár végén a legjobb látványért.",
             "ro": "Admirați aceste instalații de artă rurală împletite care sărbătoresc recolta și vizitați la sfârșitul verii pentru a le vedea în splendoarea lor.",
-            "en": "Marvel at these intricately woven rural art installations celebrating the local harvest, and visit in late summer to see the displays at their best."
+            "en": "Marvel at these intricately woven rural art installations celebrating the local harvest, and visit in late summer to see the displays at their best.",
+            "tr": "Yerel hasadı kutlayan bu özenle dokunmuş kırsal sanat yerleştirmelerine hayran kalın; sergilerin en iyi olduğu geç yaz aylarında ziyaret edin."
           }
         }
       ],
@@ -577,7 +636,8 @@
         "de": "Radeln Sie von der friedlichen Kirche zum Kurstrand, um die frische Meeresbrise zu spüren. Fahren Sie weiter zum Freistrand und tauchen Sie beim U-995 in die Geschichte ein. Nachmittags passieren Sie das Ehrenmal für Panoramablicke auf die Kieler Bucht. Beenden Sie den Tag an der einzigartigen Strohfigur, die den ländlichen Charme Laboes perfekt einfängt.",
         "hu": "Kerékpározzon a templomtól a Kurstrandhoz a friss reggeli tengeri szellőért. Folytassa útját a Freistrand felé, majd merüljön el a tengerészeti történelemben az U-995-nél. Tekerjen el az Emlékmű mellett, majd csodálja meg a panorámát a Kieli-öbölnél. Zárjon a különleges szalmafiguránál, elmerülve Laboe vidéki, tengerparti bájában.",
         "ro": "Pedalați de la biserică spre Kurstrand pentru a simți briza proaspătă a dimineții. Continuați spre Freistrand și descoperiți istoria navală la uimitorul submarin U-995. Treceți pe lângă Memorialul Naval și urcați pentru vederi panoramice la Kieler Bucht. Terminați la figurina de paie, reflectând la farmecul rural al acestui oraș de coastă.",
-        "en": "Cycle from the peaceful church to Kurstrand to catch the fresh morning sea breeze. Continue your scenic ride to Freistrand before delving into naval history at U-995. Pedal past the iconic Naval Memorial and ride up for sweeping panoramic Kieler Bucht views. Finish by the unique straw figure, perfectly capturing Laboe's rural seaside charm."
+        "en": "Cycle from the peaceful church to Kurstrand to catch the fresh morning sea breeze. Continue your scenic ride to Freistrand before delving into naval history at U-995. Pedal past the iconic Naval Memorial and ride up for sweeping panoramic Kieler Bucht views. Finish by the unique straw figure, perfectly capturing Laboe's rural seaside charm.",
+        "tr": "Sakin kiliseden Kurstrand'a bisikletle sabah deniz esintisini yakalayın. Manzaralı rotayı Freistrand'a kadar sürdürün, ardından U-995'te denizcilik tarihine dalın. İkonik Denizcilik Anıtı'nın yanından pedal çevirip Kieler Bucht'a bakan geniş panoramik manzaralar için yukarı sürün. Günün sonunda Laboe'nun kırsal sahil cazibesini yakalayan benzersiz saman heykelinin yanında durun."
       },
       "variants": {
         "rainy": {
@@ -585,7 +645,8 @@
             "de": "Trotz Regen ist Laboe mit dem Rad gut erkundbar. Wir starten bei der Kirche und fahren vorsichtig über nasse Wege zum Strand. Mittags bieten das U-Boot und das Ehrenmal lange Pausen im Trockenen. Achten Sie auf rutschiges Laub und Pfützen auf dem Förderadweg.",
             "hu": "Esőben is jól bejárható Laboe kerékpárral. A templomtól indulunk, és óvatosan tekerünk a vizes utakon a strand felé. Délben a tengeralattjáró és az emlékmű hosszú, száraz pihenőt kínál. Ügyelj a csúszós levelekre és a tócsákra a fjord menti bicikliúton.",
             "ro": "În ciuda ploii, Laboe poate fi explorat bine cu bicicleta. Pornim de la biserică și pedalăm cu atenție pe drumurile ude spre plajă. La prânz, submarinul și memorialul oferă pauze lungi la uscat. Atenție la frunzele alunecoase și bălțile de pe pista de biciclete.",
-            "en": "Despite the rain, Laboe is easily explorable by bike. We start at the church and ride carefully over wet paths to the beach. At noon, the submarine and the memorial offer long dry breaks. Watch out for slippery leaves and puddles on the fjord cycle path."
+            "en": "Despite the rain, Laboe is easily explorable by bike. We start at the church and ride carefully over wet paths to the beach. At noon, the submarine and the memorial offer long dry breaks. Watch out for slippery leaves and puddles on the fjord cycle path.",
+            "tr": "Yağmura rağmen Laboe bisikletle kolayca keşfedilebilir. Kiliseden başlayıp ıslak patikalarda dikkatli sürüyoruz plaja doğru. Öğle vakti denizaltı ve anıt uzun kuru molalar sunuyor. Fiyort bisiklet yolunda kaygan yapraklar ve su birikintilerine dikkat edin."
           },
           "stops": [
             {
@@ -593,13 +654,15 @@
                 "de": "Anker-Gottes-Kirche",
                 "hu": "Horgonyisten Temploma",
                 "ro": "Biserica Ancorei",
-                "en": "Anchor of God Church"
+                "en": "Anchor of God Church",
+                "tr": "Tanrı Çapa Kilisesi"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad unter den Bäumen ab und nutzen Sie die Kirche für einen trockenen Moment der Besinnung.",
                 "hu": "Parkold a biciklidet a fák alá, és használd a templomot egy száraz, elmélyült pillanatra az út megkezdése előtt.",
                 "ro": "Parcați bicicleta sub copaci și folosiți biserica pentru un moment de liniște la uscat înainte de plecare.",
-                "en": "Park your bike under the trees and use the church for a dry moment of reflection before starting your ride."
+                "en": "Park your bike under the trees and use the church for a dry moment of reflection before starting your ride.",
+                "tr": "Bisikletinizi ağaçların altına park edin ve sürüşe başlamadan önce kısa bir kuru düşünce molası için kiliseyi kullanın."
               }
             },
             {
@@ -607,13 +670,15 @@
                 "de": "Kurstrand",
                 "hu": "Gyógyfürdő strand",
                 "ro": "Plaja Kurstrand",
-                "en": "Spa Beach"
+                "en": "Spa Beach",
+                "tr": "Kür Plajı"
               },
               "tip_5lang": {
                 "de": "Der befestigte Weg ist auch bei Regen gut befahrbar; reduzieren Sie den Reifendruck leicht für besseren Grip.",
                 "hu": "A kiépített út esőben is jól járható; csökkentsd kicsit a guminyomást a jobb tapadás érdekében a vizes aszfalton.",
                 "ro": "Drumul pavat este practicabil și pe ploaie; reduceți ușor presiunea în pneuri pentru o aderență mai bună pe asfaltul ud.",
-                "en": "The paved path is easily rideable even in rain; slightly reduce tire pressure for better grip on wet surfaces."
+                "en": "The paved path is easily rideable even in rain; slightly reduce tire pressure for better grip on wet surfaces.",
+                "tr": "Döşeli yol yağmurluyken bile kolayca sürülebilir; ıslak zeminde daha iyi tutuş için lastik basıncını biraz düşürün."
               }
             },
             {
@@ -621,13 +686,15 @@
                 "de": "Freistrand",
                 "hu": "Szabadstrand",
                 "ro": "Plaja Liberă",
-                "en": "Free Beach"
+                "en": "Free Beach",
+                "tr": "Ücretsiz Plaj"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz unter dem Vordach der nahen Gebäude, wenn ein Schauer aufzieht, und genießen Sie den Blick aufs Meer.",
                 "hu": "Keress menedéket a közeli épületek előtetője alatt, ha zápor érkezik, és élvezd a tenger látványát szárazon.",
                 "ro": "Căutați adăpost sub streșinile clădirilor din apropiere dacă vine o aversă și bucurați-vă de vederea spre mare.",
-                "en": "Seek shelter under the eaves of nearby buildings if a shower arrives, and enjoy the sea view while staying dry."
+                "en": "Seek shelter under the eaves of nearby buildings if a shower arrives, and enjoy the sea view while staying dry.",
+                "tr": "Kısa bir sağanak gelirse yakındaki binaların saçakları altına sığının ve kuru kalarak deniz manzarasının tadını çıkarın."
               }
             },
             {
@@ -635,13 +702,15 @@
                 "de": "U-995",
                 "hu": "U-995 Tengeralattjáró",
                 "ro": "Submarinul U-995",
-                "en": "U-995 Submarine"
+                "en": "U-995 Submarine",
+                "tr": "U-995 Denizaltısı"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Abstellplätze direkt am Ehrenmal; das U-Boot bietet eine ideale lange Pause vor dem Regen.",
                 "hu": "Használd az emlékmű melletti kerékpártárolókat; a tengeralattjáró ideális hosszú pihenőhely az eső elől.",
                 "ro": "Folosiți parcările de biciclete de lângă memorial; submarinul oferă o pauză lungă ideală departe de ploaie.",
-                "en": "Use the bike racks right by the memorial; the submarine provides an ideal long break away from the rain."
+                "en": "Use the bike racks right by the memorial; the submarine provides an ideal long break away from the rain.",
+                "tr": "Anıtın hemen yanında bisiklet park yerlerini kullanın; denizaltı yağmurdan uzak uzun bir mola için ideal."
               }
             },
             {
@@ -649,13 +718,15 @@
                 "de": "Marine-Ehrenmal Laboe",
                 "hu": "Laboe Tengerészeti Emlékmű",
                 "ro": "Memorialul Naval Laboe",
-                "en": "Laboe Naval Memorial"
+                "en": "Laboe Naval Memorial",
+                "tr": "Laboe Denizcilik Anıtı"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ausstellungen im Inneren, während Ihr Rad draußen im Regen steht; der Turm ist per Aufzug erreichbar.",
                 "hu": "Nézd meg a belső kiállításokat, amíg a biciklid kint ázik; a torony lifttel érhető el, így nem kell ázni a lépcsőkön.",
                 "ro": "Vizitați expozițiile din interior în timp ce bicicleta stă afară în ploaie; turnul este accesibil cu liftul.",
-                "en": "Visit the indoor exhibitions while your bike is outside; the tower is accessible by elevator, avoiding the wet stairs."
+                "en": "Visit the indoor exhibitions while your bike is outside; the tower is accessible by elevator, avoiding the wet stairs.",
+                "tr": "Bisikletiniz dışarıdayken kapalı sergileri ziyaret edin; kule asansörle erişilebilir, ıslak merdivenleri aşmanıza yardımcı olur."
               }
             },
             {
@@ -663,13 +734,15 @@
                 "de": "Fördepanorama u. Kieler Bucht",
                 "hu": "Kieli-öböl panoráma",
                 "ro": "Panorama Fiordului",
-                "en": "Fjord Panorama"
+                "en": "Fjord Panorama",
+                "tr": "Fiyort Panoraması"
               },
               "tip_5lang": {
                 "de": "Bei Regen ist die Sicht oft dramatisch; tragen Sie eine gute Brille, um die Gischt aus den Augen zu halten.",
                 "hu": "Esőben a látvány gyakran drámai; viselj megfelelő szemüveget, hogy a felverődő víz ne kerüljön a szemedbe.",
                 "ro": "Pe ploaie, vederea este adesea dramatică; purtați ochelari buni pentru a ține stropii departe de ochi.",
-                "en": "The view is often dramatic in the rain; wear good glasses to keep the spray out of your eyes while cycling."
+                "en": "The view is often dramatic in the rain; wear good glasses to keep the spray out of your eyes while cycling.",
+                "tr": "Manzara yağmurda sıklıkla dramatiktir; sürüş sırasında püskürtüyü gözlerinizden uzak tutmak için iyi gözlük takın."
               }
             },
             {
@@ -677,13 +750,15 @@
                 "de": "Strohfigur Laboe",
                 "hu": "Laboe Szalmafigura",
                 "ro": "Figurina de paie Laboe",
-                "en": "Straw figure Laboe"
+                "en": "Straw figure Laboe",
+                "tr": "Saman Heykel Laboe"
               },
               "tip_5lang": {
                 "de": "Ein schnelles Foto vom Rad aus reicht hier; die Figur wirkt bei Regen fast wie ein kleiner Wächter der Küste.",
                 "hu": "Egy gyors fotó a bicikliről elég itt; az esőben ázó figura szinte olyan, mint a partvidék kis őre.",
                 "ro": "O fotografie rapidă de pe bicicletă este suficientă; figurina udă arată ca un mic paznic al coastei.",
-                "en": "A quick photo from your bike is enough; the rain-soaked figure looks like a little guardian of the coast."
+                "en": "A quick photo from your bike is enough; the rain-soaked figure looks like a little guardian of the coast.",
+                "tr": "Bisikletinizden hızlı bir fotoğraf yeterlidir; yağmurla ıslanmış heykel kıyının küçük bir koruyucusu gibidir."
               }
             }
           ]
@@ -693,7 +768,8 @@
             "de": "Winterliches Radfahren in Laboe erfordert warme Kleidung. Nach dem Start an der Kirche genießen wir die freie Fahrt auf leeren Wegen. Mittags wärmen wir uns bei Stopps am Ehrenmal auf. Da es früh dunkelt, nutzen wir das letzte Tageslicht für die Panoramastrecke an der Steilküste.",
             "hu": "A téli biciklizés Laboe-ban meleg öltözetet igényel. A templomtól indulva élvezzük az üres utakat. Napközben az emlékműnél tartunk melegedő szünetet. Mivel korán sötétedik, az utolsó fényeket a partmenti panorámaúton használjuk ki.",
             "ro": "Ciclismul de iarnă în Laboe necesită haine groase. Pornind de la biserică, ne bucurăm de drumurile libere. La prânz, ne încălzim la memorial. Deoarece se întunecă devreme, folosim ultima lumină pentru traseul panoramic de pe coastă.",
-            "en": "Winter cycling in Laboe requires warm layers. Starting at the church, we enjoy the open rides on empty paths. At noon, we take warming breaks at the memorial. As it gets dark early, we use the last daylight for the panoramic route along the cliffs."
+            "en": "Winter cycling in Laboe requires warm layers. Starting at the church, we enjoy the open rides on empty paths. At noon, we take warming breaks at the memorial. As it gets dark early, we use the last daylight for the panoramic route along the cliffs.",
+            "tr": "Laboe'da kış bisikleti için sıcak katmanlar gerekir. Kiliseden başlayıp tenha patikalarda açık sürüşlerin tadını çıkarıyoruz. Öğle vakti anıtta ısınma molaları veriyoruz. Hava erken karardığı için son gündoğumu ışığını uçurumlar boyunca panoramik rotada kullanıyoruz."
           },
           "stops": [
             {
@@ -701,13 +777,15 @@
                 "de": "Anker-Gottes-Kirche",
                 "hu": "Horgonyisten Temploma",
                 "ro": "Biserica Ancorei",
-                "en": "Anchor of God Church"
+                "en": "Anchor of God Church",
+                "tr": "Tanrı Çapa Kilisesi"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie die Tour im Warmen und checken Sie den Reifendruck; kalte Luft lässt diesen oft leicht sinken.",
                 "hu": "Kevesd a túrát a melegben, és ellenőrizd a guminyomást; a hideg levegő miatt az gyakran csökkenhet.",
                 "ro": "Începeți turul la căldură și verificați presiunea în pneuri; aerul rece o face adesea să scadă ușor.",
-                "en": "Start your tour in the warmth and check your tire pressure; cold air often causes it to drop slightly."
+                "en": "Start your tour in the warmth and check your tire pressure; cold air often causes it to drop slightly.",
+                "tr": "Turunuza sıcak başlayın ve lastik basıncınızı kontrol edin; soğuk hava genellikle basıncı biraz düşürür."
               }
             },
             {
@@ -715,13 +793,15 @@
                 "de": "Kurstrand",
                 "hu": "Gyógyfürdő strand",
                 "ro": "Plaja Kurstrand",
-                "en": "Spa Beach"
+                "en": "Spa Beach",
+                "tr": "Spa Plajı"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf dem Deichweg, da Gischt auf dem Asphalt gefrieren kann; der Blick ist herrlich klar.",
                 "hu": "Óvatosan tekerj a gát mentén, mert a kicsapódó pára ráfagyhat az aszfaltra; a kilátás viszont gyönyörűen tiszta.",
                 "ro": "Pedalați cu atenție pe dig, deoarece vaporii pot îngheța pe asfalt; în schimb, vederea este extrem de clară.",
-                "en": "Ride carefully along the dike as sea spray can freeze on the asphalt; however, the view is wonderfully clear."
+                "en": "Ride carefully along the dike as sea spray can freeze on the asphalt; however, the view is wonderfully clear.",
+                "tr": "Deniz spreyi asfalt üzerinde donabileceği için set boyunca dikkatli sürün; ancak manzara olağanüstü açıktır."
               }
             },
             {
@@ -729,13 +809,15 @@
                 "de": "Freistrand",
                 "hu": "Szabadstrand",
                 "ro": "Plaja Liberă",
-                "en": "Free Beach"
+                "en": "Free Beach",
+                "tr": "Ücretsiz Plaj"
               },
               "tip_5lang": {
                 "de": "Hier weht der Winterwind am stärksten; ein kurzer Stopp für Fotos der einsamen Küste lohnt sich trotz Kälte.",
                 "hu": "Itt fúj a legerősebben a téli szél; a hideg ellenére egy rövid megálló megéri a magányos partról készülő fotókért.",
                 "ro": "Aici vântul de iarnă bate cel mai tare; merită o scurtă oprire pentru poze cu coasta pustie, în ciuda frigului.",
-                "en": "The winter wind blows strongest here; a short stop for photos of the lonely coast is worth it despite the cold."
+                "en": "The winter wind blows strongest here; a short stop for photos of the lonely coast is worth it despite the cold.",
+                "tr": "Kış rüzgârı burada en güçlü eser; soğuğa rağmen yalnız kıyının fotoğrafları için kısa bir mola vermeye değiyor."
               }
             },
             {
@@ -743,13 +825,15 @@
                 "de": "U-995",
                 "hu": "U-995 Tengeralattjáró",
                 "ro": "Submarinul U-995",
-                "en": "U-995 Submarine"
+                "en": "U-995 Submarine",
+                "tr": "U-995 Denizaltı"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Rad gut ab; im Inneren des U-Boots verbringen Sie viel Zeit im Windschatten und im Warmen.",
                 "hu": "Zárd le jól a biciklidet; a tengeralattjáró belsejében hosszabb időt tölthetsz szélvédett, viszonylag meleg helyen.",
                 "ro": "Încuiați bine bicicleta; în interiorul submarinului veți petrece mult timp la adăpost de vânt și la căldură.",
-                "en": "Lock your bike securely; inside the submarine, you'll spend plenty of time sheltered from the wind and in relative warmth."
+                "en": "Lock your bike securely; inside the submarine, you'll spend plenty of time sheltered from the wind and in relative warmth.",
+                "tr": "Bisikletinizi güvenli şekilde kilitleyin; denizaltının içinde rüzgârdan korunmuş ve nispeten sıcak bir ortamda bolca zaman geçireceksiniz."
               }
             },
             {
@@ -757,13 +841,15 @@
                 "de": "Marine-Ehrenmal Laboe",
                 "hu": "Laboe Tengerészeti Emlékmű",
                 "ro": "Memorialul Naval Laboe",
-                "en": "Laboe Naval Memorial"
+                "en": "Laboe Naval Memorial",
+                "tr": "Laboe Denizcilik Anıtı"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ausstellungsräume, um die gefrorenen Finger aufzuwärmen, bevor Sie die letzte Etappe antreten.",
                 "hu": "Látogasd meg a kiállítótermeket, hogy felmelegítsd átfagyott ujjaidat, mielőtt nekivágsz az utolsó szakasznak.",
                 "ro": "Vizitați sălile de expoziție pentru a vă încălzi degetele înghețate înainte de a porni în ultima etapă.",
-                "en": "Visit the exhibition rooms to warm up your frozen fingers before tackling the final leg of the journey."
+                "en": "Visit the exhibition rooms to warm up your frozen fingers before tackling the final leg of the journey.",
+                "tr": "Donmuş parmaklarınızı ısıtmak için sergi odalarını ziyaret edin, sonra yolun son etabına devam edin."
               }
             },
             {
@@ -771,13 +857,15 @@
                 "de": "Fördepanorama u. Kieler Bucht",
                 "hu": "Kieli-öböl panoráma",
                 "ro": "Panorama Fiordului",
-                "en": "Fjord Panorama"
+                "en": "Fjord Panorama",
+                "tr": "Fiyort Panorama"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die untergehende Sonne gegen 16:30 Uhr; achten Sie auf beginnende Glätte auf den Waldwegen.",
                 "hu": "Élvezd a lemenő napot 16:30 körül; ügyelj az erdei utakon kezdődő jegesedésre a sötétedés közeledtével.",
                 "ro": "Bucurați-vă de apusul soarelui în jurul orei 16:30; atenție la gheața care începe să se formeze pe potecile din pădure.",
-                "en": "Enjoy the setting sun around 4:30 PM; watch out for black ice forming on forest paths as darkness approaches."
+                "en": "Enjoy the setting sun around 4:30 PM; watch out for black ice forming on forest paths as darkness approaches.",
+                "tr": "Gün batımının tadını yaklaşık 16:30 civarında çıkarın; karanlık yaklaşırken orman yollarında siyah buz oluşabileceğine dikkat edin."
               }
             },
             {
@@ -785,13 +873,15 @@
                 "de": "Strohfigur Laboe",
                 "hu": "Laboe Szalmafigura",
                 "ro": "Figurina de paie Laboe",
-                "en": "Straw figure Laboe"
+                "en": "Straw figure Laboe",
+                "tr": "Saman Figürü Laboe"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Reflektoren an Ihrem Rad, da es nun dunkel wird; die Figur ist ein schöner Orientierungspunkt.",
                 "hu": "Ügyelj a kerékpár prizmáira, mert ilyenkor már sötétedik; a figura jó tájékozódási pont a visszaúton.",
                 "ro": "Atenție la reflectorizantele bicicletei, deoarece se întunecă; figurina este un bun punct de reper pe drumul de întoarcere.",
-                "en": "Check your bike's reflectors as it's getting dark; the figure is a good landmark for your return journey."
+                "en": "Check your bike's reflectors as it's getting dark; the figure is a good landmark for your return journey.",
+                "tr": "Giderek kararıyor; dönüş yolunuz için iyi bir işaret olduğu için bisikletinizin reflektörlerini kontrol edin."
               }
             }
           ]
@@ -811,7 +901,8 @@
             "de": "Strohfigur der Probsteier Korntage",
             "hu": "Probsteier Szalmafigura",
             "ro": "Figurina de paie Probsteier",
-            "en": "Probsteier Straw Figure"
+            "en": "Probsteier Straw Figure",
+            "tr": "Probsteier Saman Figürü"
           },
           "coords": [
             10.244441,
@@ -826,7 +917,8 @@
             "de": "Erkunden Sie die massiven Strohskulpturen, die das landwirtschaftliche Erbe ehren, und nutzen Sie die Festivalkarte, um alle Figuren zu finden.",
             "hu": "Fedezze fel ezeket a hatalmas szalmaszobrokat, amelyek a régió mezőgazdasági örökségét tisztelik, és használja a fesztiváltérképet az összes megtalálásához.",
             "ro": "Explorați aceste sculpturi masive din paie care onorează moștenirea agricolă și verificați harta festivalului pentru a găsi toate figurinele.",
-            "en": "Explore these massive temporary straw sculptures honoring regional agricultural heritage, and check the local festival map to find all the hidden figures."
+            "en": "Explore these massive temporary straw sculptures honoring regional agricultural heritage, and check the local festival map to find all the hidden figures.",
+            "tr": "Bölgesel tarım mirasını anan bu dev geçici saman heykellerini keşfedin ve tüm gizli figürleri bulmak için yerel festival haritasını kontrol edin."
           }
         },
         {
@@ -834,7 +926,8 @@
             "de": "Anker-Gottes-Kirche",
             "hu": "Horgonyisten Temploma",
             "ro": "Biserica Ancorei",
-            "en": "Anchor of God Church"
+            "en": "Anchor of God Church",
+            "tr": "Tanrı Çıpası Kilisesi"
           },
           "coords": [
             10.22651,
@@ -849,7 +942,8 @@
             "de": "Bewundern Sie die ankerförmige Architektur zu Ehren der Seeleute und werfen Sie einen Blick auf das Brett für abendliche Orgelkonzerte.",
             "hu": "Csodálja meg a helyi tengerészeket tisztelő, horgony témájú építészetet, és nézze meg a hirdetőtáblát az esti orgonakoncertekért.",
             "ro": "Admirați arhitectura în formă de ancoră care onorează marinarii locali și nu uitați să verificați panoul pentru concertele de orgă de seară.",
-            "en": "Admire the stunning anchor-themed architecture that honors local sailors, and remember to check the notice board for lovely evening organ concerts."
+            "en": "Admire the stunning anchor-themed architecture that honors local sailors, and remember to check the notice board for lovely evening organ concerts.",
+            "tr": "Yerel denizcileri onurlandıran çıpa temalı etkileyici mimariye hayran kalın ve güzel akşam org konserleri için ilan panosunu kontrol etmeyi unutmayın."
           }
         },
         {
@@ -857,7 +951,8 @@
             "de": "De Laboer Lachmöwen",
             "hu": "De Laboer Lachmöwen Színház",
             "ro": "Teatrul De Laboer Lachmöwen",
-            "en": "De Laboer Lachmöwen Theater"
+            "en": "De Laboer Lachmöwen Theater",
+            "tr": "De Laboer Lachmöwen Tiyatrosu"
           },
           "coords": [
             10.225155,
@@ -872,7 +967,8 @@
             "de": "Entdecken Sie die plattdeutsche Kultur in diesen unterhaltsamen Theaterstücken und buchen Sie Ihre Tickets frühzeitig, da sie sehr beliebt sind.",
             "hu": "Fedezze fel az alnémet kultúrát a rendkívül szórakoztató vígjátékokon keresztül, de foglaljon jegyet előre, mert a helyek gyorsan elfogynak.",
             "ro": "Descoperiți cultura locală autentică prin piese de teatru de comedie și asigurați-vă că rezervați biletele din timp deoarece se epuizează rapid.",
-            "en": "Discover authentic Low German culture through highly entertaining comedic plays, and try to book your tickets well in advance as seats fill up fast."
+            "en": "Discover authentic Low German culture through highly entertaining comedic plays, and try to book your tickets well in advance as seats fill up fast.",
+            "tr": "Son derece eğlenceli komedi oyunlarıyla otantik Aşağı Almanca kültürünü keşfedin ve koltuklar hızla dolduğu için biletlerinizi önceden almaya çalışın."
           }
         },
         {
@@ -880,7 +976,8 @@
             "de": "U-995",
             "hu": "U-995 Tengeralattjáró",
             "ro": "Submarinul U-995",
-            "en": "U-995 Submarine"
+            "en": "U-995 Submarine",
+            "tr": "U-995 Denizaltı"
           },
           "coords": [
             10.228856,
@@ -895,7 +992,8 @@
             "de": "Betreten Sie dieses originale U-Boot aus dem Zweiten Weltkrieg, um die Enge zu erleben, und tragen Sie bequeme Schuhe für die schmalen Luken.",
             "hu": "Lépjen be ebbe az eredeti második világháborús tengeralattjáróba, és viseljen kényelmes cipőt a szűk ajtónyílásokon való átjutáshoz.",
             "ro": "Pășiți în acest submarin original din al Doilea Război Mondial pentru a vedea condițiile înguste și purtați încălțăminte comodă.",
-            "en": "Step inside this original WWII submarine to experience the incredibly cramped conditions, and wear comfortable shoes to navigate the narrow hatches."
+            "en": "Step inside this original WWII submarine to experience the incredibly cramped conditions, and wear comfortable shoes to navigate the narrow hatches.",
+            "tr": "Bu orijinal II. Dünya Savaşı denizaltısının içine girip inanılmaz derecede dar koşulları deneyimleyin; dar kapaklarda gezinmek için rahat ayakkabılar giyin."
           }
         },
         {
@@ -903,7 +1001,8 @@
             "de": "Marine-Ehrenmal Laboe",
             "hu": "Laboe Tengerészeti Emlékmű",
             "ro": "Memorialul Naval Laboe",
-            "en": "Laboe Naval Memorial"
+            "en": "Laboe Naval Memorial",
+            "tr": "Laboe Denizcilik Anıtı"
           },
           "coords": [
             10.230775,
@@ -918,7 +1017,8 @@
             "de": "Erklimmen Sie den Turm für atemberaubende Ausblicke über die Ostsee und besuchen Sie die unterirdische Gedenkhalle für gefallene Seeleute.",
             "hu": "Mássza meg az emlékmű tornyát a Balti-tengerre nyíló lélegzetelállító kilátásért, és szánjon időt a tengerészek földalatti emlékcsarnokára is.",
             "ro": "Urcați în turnul memorialului pentru vederi uluitoare spre Marea Baltică și vizitați sala de reflecție subterană în onoarea marinarilor.",
-            "en": "Climb the imposing memorial tower for breathtaking views across the Baltic Sea, and take time to visit the underground reflection hall honoring lost sailors."
+            "en": "Climb the imposing memorial tower for breathtaking views across the Baltic Sea, and take time to visit the underground reflection hall honoring lost sailors.",
+            "tr": "Baltık Denizi manzarası için etkileyici anıt kulesine tırmanın ve kayıp denizcileri anan yeraltı düşünme salonunu ziyaret etmeye vakit ayırın."
           }
         },
         {
@@ -926,7 +1026,8 @@
             "de": "Fördepanorama u. Kieler Bucht",
             "hu": "Kieli-öböl panoráma",
             "ro": "Panorama Fiordului",
-            "en": "Fjord Panorama"
+            "en": "Fjord Panorama",
+            "tr": "Fiyort Panorama"
           },
           "coords": [
             10.241663,
@@ -941,7 +1042,8 @@
             "de": "Bewundern Sie das Panorama, wo die Kieler Förde auf das Meer trifft, und bringen Sie eine Kamera für spektakuläre Fotos im Sonnenuntergang mit.",
             "hu": "Csodálja meg a lenyűgöző panorámát, ahol a Kieli-fjord találkozik a tengerrel, és hozzon magával fényképezőgépet a naplemente megörökítéséhez.",
             "ro": "Admirați panoramele superbe unde fiordul Kiel întâlnește marea și aduceți un aparat foto pentru fotografii spectaculoase la apus.",
-            "en": "Marvel at the sweeping panoramic vistas where the bustling Kiel Fjord meets the sea, and bring a camera for spectacular golden hour photography."
+            "en": "Marvel at the sweeping panoramic vistas where the bustling Kiel Fjord meets the sea, and bring a camera for spectacular golden hour photography.",
+            "tr": "Hareketli Kiel Fiyordu'nun denizle buluştuğu geniş panoramik manzaralara hayran kalın ve mükemmel altın saat fotoğrafları için bir fotoğraf makinesi getirin."
           }
         },
         {
@@ -949,7 +1051,8 @@
             "de": "Kieler Förde",
             "hu": "Kieli-fjord",
             "ro": "Fiordul Kiel",
-            "en": "Kiel Fjord"
+            "en": "Kiel Fjord",
+            "tr": "Kiel Fiyordu"
           },
           "coords": [
             10.196126,
@@ -964,7 +1067,8 @@
             "de": "Beobachten Sie die massiven Fähren und flinken Segelboote und packen Sie eine Windjacke ein, da die Küstenbrise recht frisch sein kann.",
             "hu": "Nézze meg a hatalmas kompok és vitorlások békés elhaladását, és csomagoljon egy könnyű széldzsekit, mivel a parti szellő elég hűvös lehet.",
             "ro": "Priviți feriboturile uriașe și bărcile cu pânze alunecând pașnic și luați o jachetă de vânt, deoarece briza de coastă poate fi destul de rece.",
-            "en": "Watch the massive international ferries and nimble sailboats glide peacefully by, and pack a light windbreaker as the coastal breezes can be quite brisk."
+            "en": "Watch the massive international ferries and nimble sailboats glide peacefully by, and pack a light windbreaker as the coastal breezes can be quite brisk.",
+            "tr": "Büyük uluslararası feribotlar ve çevik yelkenlilerin huzur içinde süzülüşünü izleyin; kıyı esintileri oldukça serin olabileceğinden hafif bir rüzgârlık paketleyin."
           }
         }
       ],
@@ -972,7 +1076,8 @@
         "de": "Fahren Sie zu den traditionellen Strohfiguren, bevor Sie die malerische Ankerkirche besuchen. Sehen Sie sich lokales Theater an und fahren Sie zum U-Boot U-995. Am Nachmittag bewundern Sie das imposante Ehrenmal und fahren die Küste für tolle Panoramen hinauf. Beenden Sie Ihre Tour am Kieler Fjord und genießen Sie den maritimen Sonnenuntergang.",
         "hu": "Vezessen a hagyományos szalmafigurákhoz, majd látogassa meg a hangulatos templomot. Nézze meg a helyi komédiát, majd utazzon az ikonikus U-995 tengeralattjáróhoz. Csodálja meg a Tengerészeti Emlékművet, majd menjen a part mentén a panorámáért. Fejezze be útját a Kieli-fjord mentén, élvezve a békés tengeri naplementét.",
         "ro": "Conduceți la figurinele tradiționale de paie înainte de a vizita biserica pitorească. Urmăriți comedia locală la Lachmöwen, apoi conduceți la faimosul submarin U-995. Admirați impozantul Memorial Naval și mergeți pe coastă pentru vederi panoramice. Încheiați plimbarea pe malul fiordului Kiel, bucurându-vă de apusul maritim liniștit.",
-        "en": "Drive to the traditional straw figures before visiting the quaint and historic anchor church. Check out the local theater scene, then drive towards the iconic U-995 submarine. Admire the imposing Naval Memorial and head up the scenic coast for sweeping panoramas. Wrap up your scenic drive along the Kiel Fjord, enjoying a peaceful maritime sunset."
+        "en": "Drive to the traditional straw figures before visiting the quaint and historic anchor church. Check out the local theater scene, then drive towards the iconic U-995 submarine. Admire the imposing Naval Memorial and head up the scenic coast for sweeping panoramas. Wrap up your scenic drive along the Kiel Fjord, enjoying a peaceful maritime sunset.",
+        "tr": "Keşif turunuza geleneksel saman figürlerine doğru sürerek başlayın, sonra tarihî çıpa kilisesini ziyaret edin. Yerel tiyatro sahnesini görün, ardından ikonik U-995 denizaltısına doğru ilerleyin. Etkileyici Denizcilik Anıtı'na hayran kalın ve manzaralı kıyı boyunca geniş panoramalar için yola çıkın. Gün batımında Kiel Fiyordu boyunca huzurlu deniz manzarasının tadını çıkararak turu sonlandırın."
       },
       "variants": {
         "rainy": {
@@ -980,7 +1085,8 @@
             "de": "Im Auto bleibt Laboe auch bei Dauerregen gemütlich. Wir besuchen zuerst die Strohfigur im Umland und parken dann nah am Zentrum für die Kirche. Mittags bieten das U-Boot und das Ehrenmal ausgiebige Indoor-Erlebnisse. Den Abend lassen wir mit einer Fahrt entlang der Kieler Förde ausklingen.",
             "hu": "Autóval Laboe tartós esőben is kényelmes marad. Először a környékbeli szalmafigurát nézzük meg, majd a központhoz közel parkolunk a templomnál. Délben a tengeralattjáró és az emlékmű kínál tartalmas benti programot. Az estét a Kieli-fjord menti autózással zárjuk.",
             "ro": "Cu mașina, Laboe rămâne confortabil chiar și pe ploaie continuă. Vizităm întâi figurina de paie din împrejurimi, apoi parcăm lângă centru pentru biserică. La prânz, submarinul și memorialul oferă experiențe lungi în interior. Seara se încheie cu o plimbare cu mașina pe malul fiordului.",
-            "en": "By car, Laboe remains comfortable even during persistent rain. First, we visit the straw figure in the surroundings, then park close to the center for the church. At noon, the submarine and memorial offer extensive indoor experiences. The evening ends with a drive along the Kiel Fjord."
+            "en": "By car, Laboe remains comfortable even during persistent rain. First, we visit the straw figure in the surroundings, then park close to the center for the church. At noon, the submarine and memorial offer extensive indoor experiences. The evening ends with a drive along the Kiel Fjord.",
+            "tr": "Arabayla Laboe sürekli yağmur altında bile konforlu kalır. Önce çevredeki saman figürünü ziyaret ederiz, sonra kilise için merkeze yakın park ederiz. Öğle vakti denizaltı ve anıt geniş iç mekan deneyimleri sunar. Akşam, Kiel Fiyordu boyunca bir sürüşle sona erer."
           },
           "stops": [
             {
@@ -988,13 +1094,15 @@
                 "de": "Strohfigur der Probsteier Korntage",
                 "hu": "Probsteier Szalmafigura",
                 "ro": "Figurina de paie Probsteier",
-                "en": "Probsteier Straw Figure"
+                "en": "Probsteier Straw Figure",
+                "tr": "Probsteier Saman Figürü"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Figur direkt vom Parkstreifen aus, um im Trockenen zu bleiben, während Sie die Details bewundern.",
                 "hu": "Csodáld meg a figurát közvetlenül a parkolóból, így szárazon maradhatsz, miközben a részleteket figyeled.",
                 "ro": "Admirați figurina direct de pe banda de parcare pentru a rămâne la uscat în timp ce îi observați detaliile.",
-                "en": "Admire the figure directly from the parking strip to stay dry while you observe the craftsmanship."
+                "en": "Admire the figure directly from the parking strip to stay dry while you observe the craftsmanship.",
+                "tr": "Zanaatkarlığı gözlemlerken kuru kalmak için figürü doğrudan park şeridinden hayranlıkla izleyin."
               }
             },
             {
@@ -1002,13 +1110,15 @@
                 "de": "Anker-Gottes-Kirche",
                 "hu": "Horgonyisten Temploma",
                 "ro": "Biserica Ancorei",
-                "en": "Anchor of God Church"
+                "en": "Anchor of God Church",
+                "tr": "Tanrı Çıpası Kilisesi"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf dem nahen Marktplatz; der kurze Weg zur Kirche minimiert den Kontakt mit dem Küstenregen.",
                 "hu": "Parkolj a közeli piactéren; a templomhoz vezető rövid út minimálisra csökkenti a tengerparti esővel való érintkezést.",
                 "ro": "Parcați în piața din apropiere; drumul scurt spre biserică minimizează contactul cu ploaia de coastă.",
-                "en": "Park in the nearby marketplace; the short walk to the church minimizes your exposure to the coastal rain."
+                "en": "Park in the nearby marketplace; the short walk to the church minimizes your exposure to the coastal rain.",
+                "tr": "Yakınlardaki pazar yerine park edin; kiliseye kısa yürüyüş kıyı yağmuruna maruz kalmanızı azaltır."
               }
             },
             {
@@ -1016,13 +1126,15 @@
                 "de": "De Laboer Lachmöwen",
                 "hu": "De Laboer Lachmöwen Színház",
                 "ro": "Teatrul De Laboer Lachmöwen",
-                "en": "De Laboer Lachmöwen Theater"
+                "en": "De Laboer Lachmöwen Theater",
+                "tr": "De Laboer Lachmöwen Tiyatrosu"
               },
               "tip_5lang": {
                 "de": "Das Theater liegt direkt an der Straße; ideal für einen schnellen Wechsel vom warmen Auto in die kulturelle Gemütlichkeit.",
                 "hu": "A színház közvetlenül az út mellett található; ideális a gyors átváltáshoz a meleg autóból a kulturális kényelembe.",
                 "ro": "Teatrul este situat chiar lângă drum; ideal pentru o trecere rapidă de la mașina caldă la confortul cultural.",
-                "en": "The theater is located right by the road; ideal for a quick transition from the warm car to cultural coziness."
+                "en": "The theater is located right by the road; ideal for a quick transition from the warm car to cultural coziness.",
+                "tr": "Tiyatro yol kenarında yer alır; sıcak arabadan kültürel bir rahatlığa hızlı geçiş için ideal."
               }
             },
             {
@@ -1030,13 +1142,15 @@
                 "de": "U-995",
                 "hu": "U-995 Tengeralattjáró",
                 "ro": "Submarinul U-995",
-                "en": "U-995 Submarine"
+                "en": "U-995 Submarine",
+                "tr": "U-995 Denizaltı"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den großen Parkplatz am Ehrenmal; das U-Boot bietet eine spannende Welt unter Deck, fernab vom Wetter.",
                 "hu": "Használd az emlékmű nagy parkolóját; a tengeralattjáró izgalmas világot kínál a fedélzet alatt, távol az időjárástól.",
                 "ro": "Folosiți parcarea mare de la memorial; submarinul oferă o lume fascinantă sub punte, departe de vremea rea.",
-                "en": "Use the large parking lot at the memorial; the submarine offers an exciting world below deck, away from the weather."
+                "en": "Use the large parking lot at the memorial; the submarine offers an exciting world below deck, away from the weather.",
+                "tr": "Anıtın geniş otoparkını kullanın; denizaltı güvertenin altındaki heyecan verici bir dünya sunar, hava şartlarından uzakta."
               }
             },
             {
@@ -1044,13 +1158,15 @@
                 "de": "Marine-Ehrenmal Laboe",
                 "hu": "Laboe Tengerészeti Emlékmű",
                 "ro": "Memorialul Naval Laboe",
-                "en": "Laboe Naval Memorial"
+                "en": "Laboe Naval Memorial",
+                "tr": "Laboe Denizcilik Anıtı"
               },
               "tip_5lang": {
                 "de": "Die weitläufigen Innenräume und die Gedenkhalle sind der perfekte Ort, um einen regnerischen Nachmittag sinnvoll zu verbringen.",
                 "hu": "A tágas belső terek és az emlékcsarnok tökéletes helyszínek egy esős délután tartalmas eltöltéséhez.",
                 "ro": "Interioarele spațioase și sala memorială sunt locul perfect pentru a petrece util o după-amiază ploioasă.",
-                "en": "The spacious interiors and the memorial hall are the perfect places to spend a rainy afternoon meaningfully."
+                "en": "The spacious interiors and the memorial hall are the perfect places to spend a rainy afternoon meaningfully.",
+                "tr": "Geniş iç mekânlar ve anıt salonu, yağmurlu bir öğleden sonrayı anlamlı geçirmek için mükemmeldir."
               }
             },
             {
@@ -1058,13 +1174,15 @@
                 "de": "Fördepanorama u. Kieler Bucht",
                 "hu": "Kieli-öböl panoráma",
                 "ro": "Panorama Fiordului",
-                "en": "Fjord Panorama"
+                "en": "Fjord Panorama",
+                "tr": "Fiyort Panorama"
               },
               "tip_5lang": {
                 "de": "Fahren Sie die Panoramastraße langsam ab; der Scheibenwischer rahmt die dramatische Sicht auf die Ostsee ein.",
                 "hu": "Hajts végig lassan a panorámaúton; az ablaktörlő ütemes mozgása mögül drámai kilátás nyílik a háborgó Balti-tengerre.",
                 "ro": "Conduceți încet pe drumul panoramic; ștergătoarele încadrează vederea dramatică asupra Marii Baltice.",
-                "en": "Drive slowly along the panoramic road; the wipers frame the dramatic view of the stormy Baltic Sea."
+                "en": "Drive slowly along the panoramic road; the wipers frame the dramatic view of the stormy Baltic Sea.",
+                "tr": "Panoramik yol boyunca yavaş sürün; silecekler fırtınalı Baltık Denizi'nin dramatik manzarasını çerçeveler."
               }
             },
             {
@@ -1072,13 +1190,15 @@
                 "de": "Kieler Förde",
                 "hu": "Kieli-fjord",
                 "ro": "Fiordul Kiel",
-                "en": "Kiel Fjord"
+                "en": "Kiel Fjord",
+                "tr": "Kiel Fiyordu"
               },
               "tip_5lang": {
                 "de": "Vom Auto aus lassen sich die großen Pötte im Kanal besonders gut beobachten; bleiben Sie einfach im warmen Cockpit sitzen.",
                 "hu": "Az autóból különösen jól megfigyelhetők a csatorna nagy hajói; maradj egyszerűen a meleg kocsiban és élvezd a látványt.",
                 "ro": "Din mașină puteți observa foarte bine navele mari de pe canal; rămâneți pur și simplu în cockpitul cald.",
-                "en": "The large ships in the canal can be observed particularly well from the car; just stay in your warm seat and enjoy."
+                "en": "The large ships in the canal can be observed particularly well from the car; just stay in your warm seat and enjoy.",
+                "tr": "Kanaldaki büyük gemiler arabadan özellikle iyi izlenir; sadece sıcak koltuğunuzda kalıp keyfini çıkarın."
               }
             }
           ]
@@ -1088,7 +1208,8 @@
             "de": "Laboe im Winter ist mit dem Auto ein entspanntes Erlebnis. Wir starten bei der Strohfigur und genießen die geheizte Fahrt zwischen den Sehenswürdigkeiten. Nachmittags erkunden wir das Marine-Ehrenmal. Da es um 17 Uhr dunkel ist, nutzen wir die Dämmerung für eine stimmungsvolle Fahrt am Fjord entlang.",
             "hu": "A téli Laboe autóval kifejezetten pihentető élmény. A szalmafigurától indulunk, és élvezzük a fűtött utazást a látnivalók között. Délután az emlékművet fedezzük fel. Mivel 17 órakor már sötét van, a szürkületet egy hangulatos fjord menti autózásra használjuk ki.",
             "ro": "Laboe iarna este o experiență relaxantă cu mașina. Începem de la figurina de paie și ne bucurăm de călătoria încălzită între obiective. După-amiaza explorăm memorialul. Deoarece se întunecă la ora 17, folosim amurgul pentru o tură pitorească pe malul fiordului.",
-            "en": "Laboe in winter is a relaxed experience by car. We start at the straw figure and enjoy the heated ride between sights. In the afternoon, we explore the Naval Memorial. As it gets dark by 5 PM, we use the twilight for an atmospheric drive along the fjord."
+            "en": "Laboe in winter is a relaxed experience by car. We start at the straw figure and enjoy the heated ride between sights. In the afternoon, we explore the Naval Memorial. As it gets dark by 5 PM, we use the twilight for an atmospheric drive along the fjord.",
+            "tr": "Laboe kışın arabayla huzurlu bir deneyim sunar. Turumuza saman figüründen başlayıp ziyaretler arasında ısıtmalı sürüşün tadını çıkarırız. Öğleden sonra Denizcilik Anıtı'nı gezeriz. Saat 17:00 civarında kararırken, alacakaranlığı fiyort boyunca atmosferik bir sürüş için kullanırız."
           },
           "stops": [
             {
@@ -1096,13 +1217,15 @@
                 "de": "Strohfigur der Probsteier Korntage",
                 "hu": "Probsteier Szalmafigura",
                 "ro": "Figurina de paie Probsteier",
-                "en": "Probsteier Straw Figure"
+                "en": "Probsteier Straw Figure",
+                "tr": "Probsteier Saman Figürü"
               },
               "tip_5lang": {
                 "de": "Die Figur ist im Winter oft frostbedeckt; ein wunderschöner Anblick, den man bequem vom Auto aus fotografieren kann.",
                 "hu": "A figurát télen gyakran zúzmara fedi; gyönyörű látvány, amelyet kényelmesen, az autóból is lefotózhatsz.",
                 "ro": "Figurina este adesea acoperită de chiciură iarna; o priveliște frumoasă care poate fi fotografiată confortabil din mașină.",
-                "en": "The figure is often covered in frost in winter; a beautiful sight that you can photograph comfortably from your car."
+                "en": "The figure is often covered in frost in winter; a beautiful sight that you can photograph comfortably from your car.",
+                "tr": "Figür kışın sıkça kırağıyla kaplı olur; bunu rahatça aracınızdan fotoğraflayabileceğiniz güzel bir manzara olarak görün."
               }
             },
             {
@@ -1110,13 +1233,15 @@
                 "de": "Anker-Gottes-Kirche",
                 "hu": "Horgonyisten Temploma",
                 "ro": "Biserica Ancorei",
-                "en": "Anchor of God Church"
+                "en": "Anchor of God Church",
+                "tr": "Tanrı Çıpası Kilisesi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkplätze direkt vor der Tür; die beheizte Kirche bietet einen warmen und friedlichen Stopp.",
                 "hu": "Használd a közvetlenül a bejárat előtti parkolókat; a fűtött templom meleg és békés megállót kínál a hidegben.",
                 "ro": "Folosiți locurile de parcare chiar din față; biserica încălzită oferă o oprire caldă și liniștită.",
-                "en": "Use the parking spaces right in front; the heated church provides a warm and peaceful stop during the cold day."
+                "en": "Use the parking spaces right in front; the heated church provides a warm and peaceful stop during the cold day.",
+                "tr": "Tam önündeki park yerlerini kullanın; ısıtmalı kilise soğuk günde sıcak ve huzurlu bir mola sağlar."
               }
             },
             {
@@ -1124,13 +1249,15 @@
                 "de": "De Laboer Lachmöwen",
                 "hu": "De Laboer Lachmöwen Színház",
                 "ro": "Teatrul De Laboer Lachmöwen",
-                "en": "De Laboer Lachmöwen Theater"
+                "en": "De Laboer Lachmöwen Theater",
+                "tr": "De Laboer Lachmöwen Tiyatrosu"
               },
               "tip_5lang": {
                 "de": "Im Winter sind die Abendvorstellungen oft ausverkauft; parken Sie rechtzeitig am Straßenrand für einen Besuch.",
                 "hu": "Télen az esti előadások gyakran teltházasak; parkolj időben az út mentén, ha be szeretnél nézni egy rövid időre.",
                 "ro": "Iarna, spectacolele de seară sunt adesea sold-out; parcați din timp pe marginea drumului pentru o vizită.",
-                "en": "In winter, evening performances are often sold out; park in good time along the roadside for a visit."
+                "en": "In winter, evening performances are often sold out; park in good time along the roadside for a visit.",
+                "tr": "Kışın akşam gösterileri genellikle tükenir; ziyaret için yol kenarında erkenden park edin."
               }
             },
             {
@@ -1138,13 +1265,15 @@
                 "de": "U-995",
                 "hu": "U-995 Tengeralattjáró",
                 "ro": "Submarinul U-995",
-                "en": "U-995 Submarine"
+                "en": "U-995 Submarine",
+                "tr": "U-995 Denizaltı"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie das lange Stehen in der Kälte und gehen Sie direkt vom Parkplatz zum U-Boot-Eingang unter Deck.",
                 "hu": "Kerüld a hosszú álldogálást a hidegben, és menj egyenesen a parkolóból a tengeralattjáró fedélzet alatti bejáratához.",
                 "ro": "Evitați să stați mult timp în frig și mergeți direct din parcare la intrarea de sub punte a submarinului.",
-                "en": "Avoid standing in the cold for too long and head straight from the parking lot to the submarine's interior entrance."
+                "en": "Avoid standing in the cold for too long and head straight from the parking lot to the submarine's interior entrance.",
+                "tr": "Çok uzun süre soğukta beklemekten kaçının ve otoparktan doğrudan denizaltının iç girişine yönelin."
               }
             },
             {
@@ -1152,13 +1281,15 @@
                 "de": "Marine-Ehrenmal Laboe",
                 "hu": "Laboe Tengerészeti Emlékmű",
                 "ro": "Memorialul Naval Laboe",
-                "en": "Laboe Naval Memorial"
+                "en": "Laboe Naval Memorial",
+                "tr": "Laboe Denizcilik Anıtı"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ausstellungshalle; die dicken Mauern halten die Wärme gut und bieten Schutz vor dem Winterwind.",
                 "hu": "Látogasd meg a kiállítócsarnokot; a vastag falak jól tartják a meleget és védelmet nyújtanak a téli szél ellen.",
                 "ro": "Vizitați sala de expoziție; zidurile groase mențin bine căldura și oferă protecție împotriva vântului de iarnă.",
-                "en": "Visit the exhibition hall; the thick walls retain heat well and provide excellent protection from the winter wind."
+                "en": "Visit the exhibition hall; the thick walls retain heat well and provide excellent protection from the winter wind.",
+                "tr": "Sergi salonunu ziyaret edin; kalın duvarlar ısıyı iyi muhafaza eder ve kış rüzgârından mükemmel koruma sağlar."
               }
             },
             {
@@ -1166,13 +1297,15 @@
                 "de": "Fördepanorama u. Kieler Bucht",
                 "hu": "Kieli-öböl panoráma",
                 "ro": "Panorama Fiordului",
-                "en": "Fjord Panorama"
+                "en": "Fjord Panorama",
+                "tr": "Fiyort Panorama"
               },
               "tip_5lang": {
                 "de": "Die Fernsicht ist im Winter oft phänomenal; genießen Sie das Panorama bei eingeschalteter Standheizung.",
                 "hu": "A látótávolság télen gyakran lenyűgöző; élvezd a panorámát a meleg autóból, miközben kint fagy.",
                 "ro": "Vizibilitatea la distanță este adesea fenomenală iarna; bucurați-vă de panoramă din mașina încălzită.",
-                "en": "The long-distance visibility is often phenomenal in winter; enjoy the panorama from your warm car while it freezes outside."
+                "en": "The long-distance visibility is often phenomenal in winter; enjoy the panorama from your warm car while it freezes outside.",
+                "tr": "Kışın uzun mesafe görüşü sık sık olağanüstüdür; dışarısı donar vaziyetteyken panoramayı sıcak aracınızdan keyifle izleyin."
               }
             },
             {
@@ -1180,13 +1313,15 @@
                 "de": "Kieler Förde",
                 "hu": "Kieli-fjord",
                 "ro": "Fiordul Kiel",
-                "en": "Kiel Fjord"
+                "en": "Kiel Fjord",
+                "tr": "Kiel Fiyordu"
               },
               "tip_5lang": {
                 "de": "Die Lichter der gegenüberliegenden Werften spiegeln sich im dunklen Wasser; eine Fahrt bei Dämmerung ist sehr stimmungsvoll.",
                 "hu": "A szemközti hajógyárak fényei tükröződnek a sötét vízben; a szürkületi autózás itt rendkívül hangulatos.",
                 "ro": "Luminile șantierelor navale de vis-a-vis se oglindesc în apa întunecată; o plimbare la amurg este foarte atmosferică.",
-                "en": "The lights of the shipyards opposite reflect in the dark water; a drive at twilight is very atmospheric here."
+                "en": "The lights of the shipyards opposite reflect in the dark water; a drive at twilight is very atmospheric here.",
+                "tr": "Karşıdaki tersanelerin ışıkları karanlık suda yansır; alacakaranlıkta yapılan bir sürüş burada çok atmosferiktir."
               }
             }
           ]

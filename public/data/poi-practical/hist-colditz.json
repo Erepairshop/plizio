@@ -3,55 +3,64 @@
     "de": "Schlossgasse 1, 04680 Colditz",
     "hu": "Schlossgasse 1, 04680 Colditz",
     "ro": "Schlossgasse 1, 04680 Colditz",
-    "en": "Schlossgasse 1, 04680 Colditz"
+    "en": "Schlossgasse 1, 04680 Colditz",
+    "tr": "Schlossgasse 1, 04680 Colditz"
   },
   "openingHours": {
     "de": "Täglich 10:00-18:00 (Apr-Okt), 10:00-16:00 (Nov-Mär)",
     "hu": "Naponta 10:00-18:00 (ápr-okt), 10:00-16:00 (nov-márc)",
     "ro": "Zilnic 10:00-18:00 (apr-oct), 10:00-16:00 (nov-mar)",
-    "en": "Daily 10:00-18:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)"
+    "en": "Daily 10:00-18:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)",
+    "tr": "Günlük 10:00-18:00 (Nis-Eki), 10:00-16:00 (Kas-Mar)"
   },
   "entranceFee": {
     "de": "€10 Erwachsene (Escape-Tour), €5 Außengelände",
     "hu": "10 € felnőtt (Escape-Tour), 5 € csak a külső terület",
     "ro": "10 € adulți (Escape-Tour), 5 € teren exterior",
-    "en": "€10 adults (Escape Tour), €5 grounds only"
+    "en": "€10 adults (Escape Tour), €5 grounds only",
+    "tr": "€10 yetişkin (Escape Tour), yalnızca alan €5"
   },
   "website": "https://www.schloss-colditz.de",
   "publicTransport": {
     "de": "Regionalbus ab Leipzig Hauptbahnhof oder Grimma",
     "hu": "Regionális buszjárat Lipcse főpályaudvaráról vagy Grimmából",
     "ro": "Autobuz regional de la Gara Centrală din Leipzig sau Grimma",
-    "en": "Regional bus from Leipzig Main Station or Grimma"
+    "en": "Regional bus from Leipzig Main Station or Grimma",
+    "tr": "Leipzig Hauptbahnhof veya Grimma'dan bölgesel otobüs"
   },
   "parking": {
     "de": "Zentraler Schlossparkplatz Colditz (geringe Gebühr).",
     "hu": "Központi várparkoló Colditzban (alacsony díj).",
     "ro": "Parcare centrală la castelul Colditz (taxă mică).",
-    "en": "Central castle parking in Colditz (small fee)."
+    "en": "Central castle parking in Colditz (small fee).",
+    "tr": "Colditz'te merkezi kale otoparkı (küçük ücret)."
   },
   "accessibility": {
     "de": "Nur eingeschränkt barrierefrei; viele Treppen und Kopfsteinpflaster im Schloss.",
     "hu": "Csak korlátozottan akadálymentes; sok lépcső és macskakő a várban.",
     "ro": "Accesibilitate limitată; multe scări și piatră cubică în castel.",
-    "en": "Limited accessibility; many stairs and cobblestones in the castle."
+    "en": "Limited accessibility; many stairs and cobblestones in the castle.",
+    "tr": "Sınırlı erişim; kalede çok sayıda merdiven ve parke taşları var."
   },
   "photoRules": {
     "de": "In den Außenanlagen erlaubt, in der Ausstellung nur ohne Blitz.",
     "hu": "A külső részeken szabad, a kiállításon csak vaku nélkül.",
     "ro": "Permis în spațiile exterioare, în expoziție doar fără bliț.",
-    "en": "Permitted on the grounds, flash-free photography only in the exhibition."
+    "en": "Permitted on the grounds, flash-free photography only in the exhibition.",
+    "tr": "Arazide izinli, sergide yalnızca flaşsız fotoğraf çekimine izin var."
   },
   "bestTimeToVisit": {
     "de": "Wochenende für die Teilnahme an der populären 'Escape-Tour'.",
     "hu": "Hétvégén, a népszerű „Escape-Tour” vezetéseken való részvételhez.",
     "ro": "În weekend pentru participarea la popularul „Escape-Tour”.",
-    "en": "Weekends to participate in the popular 'Escape Tour'."
+    "en": "Weekends to participate in the popular 'Escape Tour'.",
+    "tr": "Popüler 'Escape Tour'a katılmak için hafta sonları."
   },
   "audioGuide": {
     "de": "ja (interaktiver HistoPad-Tablet-Guide)",
     "hu": "igen (interaktív HistoPad tabletes útmutató)",
     "ro": "da (ghid interactiv HistoPad pe tabletă)",
-    "en": "yes (interactive HistoPad tablet guide)"
+    "en": "yes (interactive HistoPad tablet guide)",
+    "tr": "evet (etkileşimli HistoPad tablet rehber)"
   }
 }

@@ -3,55 +3,64 @@
     "de": "Reeperbahn, 20359 Hamburg",
     "hu": "Reeperbahn, 20359 Hamburg",
     "ro": "Reeperbahn, 20359 Hamburg",
-    "en": "Reeperbahn, 20359 Hamburg"
+    "en": "Reeperbahn, 20359 Hamburg",
+    "tr": "Reeperbahn, 20359 Hamburg"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "24/7"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "",
   "publicTransport": {
     "de": "S-Bahn Reeperbahn",
     "hu": "S-Bahn: Reeperbahn",
     "ro": "S-Bahn Reeperbahn",
-    "en": "S-Bahn Reeperbahn"
+    "en": "S-Bahn Reeperbahn",
+    "tr": "S-Bahn Reeperbahn"
   },
   "parking": {
     "de": "Parkhaus Millerntor",
     "hu": "Millerntor parkolóház",
     "ro": "Parcare Millerntor",
-    "en": "Millerntor parking garage"
+    "en": "Millerntor parking garage",
+    "tr": "Millerntor otoparkı"
   },
   "accessibility": {
     "de": "Barrierefrei",
     "hu": "Akadálymentes",
     "ro": "Accesibil",
-    "en": "Accessible"
+    "en": "Accessible",
+    "tr": "Erişilebilir"
   },
   "photoRules": {
     "de": "Privat erlaubt",
     "hu": "Magáncélra engedélyezett",
     "ro": "Permis pentru uz privat",
-    "en": "Allowed for private use"
+    "en": "Allowed for private use",
+    "tr": "Özel kullanım için izinli"
   },
   "bestTimeToVisit": {
     "de": "Wochenendnächte",
     "hu": "Hétvégi éjszakák",
     "ro": "Nopțile de weekend",
-    "en": "Weekend nights"
+    "en": "Weekend nights",
+    "tr": "Hafta sonu geceleri"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

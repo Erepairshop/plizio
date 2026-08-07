@@ -21,7 +21,8 @@
             "de": "St. Mariä Himmelfahrt",
             "hu": "St. Mariä Himmelfahrt",
             "ro": "St. Mariä Himmelfahrt",
-            "en": "St. Mariä Himmelfahrt"
+            "en": "St. Mariä Himmelfahrt",
+            "tr": "St. Mariä Himmelfahrt"
           },
           "coords": [
             6.3958,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag in dieser beeindruckenden Kirche mit ihren wunderschönen Buntglasfenstern, am besten direkt nach dem Frühstück.",
             "hu": "Kezdje a napot ebben a lenyűgöző templomban, melynek gyönyörű ólomüveg ablakai vannak, lehetőleg rögtön reggeli után.",
             "ro": "Începeți ziua în această biserică impresionantă cu vitraliile sale superbe, de preferat imediat după un mic dejun relaxant.",
-            "en": "Start your day in this impressive church with its beautiful stained glass windows, ideally right after a relaxing breakfast."
+            "en": "Start your day in this impressive church with its beautiful stained glass windows, ideally right after a relaxing breakfast.",
+            "tr": "Güzel vitray pencereleri olan bu etkileyici kilisede güne başlayın; ideal olarak rahat bir kahvaltının hemen ardından."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Rheinpromenade",
             "hu": "Rajnai sétány",
             "ro": "Promenada Rinului",
-            "en": "Rhine Promenade"
+            "en": "Rhine Promenade",
+            "tr": "Ren Promenade"
           },
           "coords": [
             6.392904,
@@ -59,7 +62,8 @@
             "de": "Schlendern Sie gemütlich entlang der längsten und schönsten Rheinpromenade Deutschlands und genießen Sie die klare Morgenluft.",
             "hu": "Sétáljon kényelmesen Németország leghosszabb és legszebb rajnai sétányán, miközben élvezi a friss reggeli levegőt.",
             "ro": "Plimbați-vă pe îndelete de-a lungul celei mai lungi și frumoase promenade de pe Rin din Germania, savurând aerul proaspăt al dimineții.",
-            "en": "Stroll leisurely along the longest and most beautiful Rhine promenade in Germany, enjoying the crisp and fresh morning air."
+            "en": "Stroll leisurely along the longest and most beautiful Rhine promenade in Germany, enjoying the crisp and fresh morning air.",
+            "tr": "Almanya'nın en uzun ve en güzel Ren promenadında yavaşça yürüyün, ferah ve taze sabah havasının tadını çıkarın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Mühlenturm",
             "hu": "Mühlenturm",
             "ro": "Mühlenturm",
-            "en": "Mühlenturm"
+            "en": "Mühlenturm",
+            "tr": "Mühlenturm"
           },
           "coords": [
             6.400889,
@@ -82,7 +87,8 @@
             "de": "Besichtigen Sie diesen historischen Turm der alten Stadtmauer, der eine tolle Aussicht auf den Fluss bietet und bei Sonnenlicht fantastisch aussieht.",
             "hu": "Látogassa meg az egykori városfal történelmi tornyát, amely nagyszerű kilátást nyújt a folyóra és napsütésben fantasztikusan mutat.",
             "ro": "Vizitați acest turn istoric al vechiului zid al orașului, care oferă o priveliște minunată asupra râului și arată fantastic în lumina soarelui.",
-            "en": "Visit this historic tower of the old city wall, which offers a great view of the river and looks fantastic in the sunlight."
+            "en": "Visit this historic tower of the old city wall, which offers a great view of the river and looks fantastic in the sunlight.",
+            "tr": "Nehir manzarası sunan ve güneşte harika görünen eski şehir duvarının bu tarihi kulesini ziyaret edin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museum Koenraad Bosman",
             "hu": "Koenraad Bosman Múzeum",
             "ro": "Muzeul Koenraad Bosman",
-            "en": "Museum Koenraad Bosman"
+            "en": "Museum Koenraad Bosman",
+            "tr": "Museum Koenraad Bosman"
           },
           "coords": [
             6.399278,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die spannende Stadtgeschichte in diesem charmanten Museum, wo Sie auch Werke rheinischer Künstler bewundern können.",
             "hu": "Fedezze fel a város izgalmas történelmét ebben a bájos múzeumban, ahol rajnai művészek alkotásait is megcsodálhatja.",
             "ro": "Descoperiți istoria fascinantă a orașului în acest muzeu fermecător, unde puteți admira și opere ale artiștilor renani.",
-            "en": "Discover the fascinating city history in this charming museum, where you can also admire works by Rhenish artists."
+            "en": "Discover the fascinating city history in this charming museum, where you can also admire works by Rhenish artists.",
+            "tr": "Bu şirin müzede büyüleyici şehir tarihini keşfedin ve Ren kökenli sanatçıların eserlerine hayran kalın."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Skulpturenpark",
             "hu": "Szoborpark",
             "ro": "Parcul de sculpturi",
-            "en": "Sculpture Park"
+            "en": "Sculpture Park",
+            "tr": "Heykel Parkı"
           },
           "coords": [
             6.400491,
@@ -128,7 +137,8 @@
             "de": "Lassen Sie den Nachmittag in diesem gepflegten Park ausklingen, wo moderne Skulpturen zwischen alten Bäumen eine wunderbare Ruhe ausstrahlen.",
             "hu": "Zárja a délutánt ebben a gondozott parkban, ahol a modern szobrok az öreg fák között csodálatos nyugalmat árasztanak.",
             "ro": "Încheiați după-amiaza în acest parc îngrijit, unde sculpturile moderne printre copacii bătrâni emană o liniște minunată.",
-            "en": "End the afternoon in this well-kept park, where modern sculptures among old trees exude a wonderful sense of tranquility."
+            "en": "End the afternoon in this well-kept park, where modern sculptures among old trees exude a wonderful sense of tranquility.",
+            "tr": "Öğleden sonrayı iyi bakımlı bu parkta geçirin; eski ağaçlar arasındaki modern heykeller huzurlu bir atmosfer sunar."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Rees lockt mit seiner charmanten Altstadt und der Rheinnähe. Am Vormittag erkunden wir historische Bauwerke und die idyllische Promenade. Mittags tauchen wir in die Geschichte der Stadt ein. Der Nachmittag steht im Zeichen von Kunst und Natur, bevor wir den Tag entspannt am Skulpturenpark ausklingen lassen.",
         "hu": "Rees elbűvölő óvárosával és a Rajna közelségével csábít. Délelőtt felfedezzük a történelmi épületeket és az idilli sétányt. Délben elmerülünk a város történelmében. A délután a művészet és a természet jegyében telik, mielőtt a napot nyugodtan zárnánk a szoborparkban.",
         "ro": "Rees ne atrage cu orașul său vechi fermecător și proximitatea față de Rin. Dimineața explorăm clădirile istorice și promenada idilică. La prânz ne scufundăm în istoria orașului. După-amiaza este dedicată artei și naturii, înainte de a încheia ziua relaxant în parcul de sculpturi.",
-        "en": "Rees attracts with its charming old town and proximity to the Rhine. In the morning we explore historical buildings and the idyllic promenade. At noon we dive into the city's history. The afternoon is dedicated to art and nature, before we end the day relaxing at the sculpture park."
+        "en": "Rees attracts with its charming old town and proximity to the Rhine. In the morning we explore historical buildings and the idyllic promenade. At noon we dive into the city's history. The afternoon is dedicated to art and nature, before we end the day relaxing at the sculpture park.",
+        "tr": "Rees, sevimli eski kenti ve Ren'e yakın konumuyla cezbediyor. Sabah tarihi yapıları ve huzurlu promenadı keşfediyoruz. Öğle vakti şehrin tarihine dalıyoruz. Öğleden sonra sanat ve doğaya ayırıyoruz, günü ise heykel parkında dinlenerek bitiriyoruz."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgens bietet die St. Mariä Himmelfahrt Kirche trockenen Schutz vor dem Regen. Mittags trotzen wir den Schauern an der Rheinpromenade und suchen Unterschlupf im massiven Mühlenturm. Der Nachmittag gehört den Ausstellungen im Museum Koenraad Bosman. Abends wirkt der Skulpturenpark im Regen fast mystisch; achten Sie auf rutschige Wege und tragen Sie unbedingt wasserfeste Kleidung und Schuhe.",
             "hu": "Reggel a templom hűvös falaiban találunk menedéket az eső elől. Délben a Rajna-parti sétányon a széllel dacolunk, majd a Mühlenturm kövei közt pihenünk. Délután a múzeumi tárlatok kínálnak száraz kikapcsolódást. Estére a szoborpark ködös, titokzatos arcát mutatja a lámpák fényében; vigyázzunk a csúszós ösvényeken és használjunk vízálló lábbelit a városnézés során.",
             "ro": "Dimineața începe sub bolțile bisericii, un adăpost perfect împotriva ploii. La prânz, înfruntăm stropii pe faleză, apoi ne refugiem în turnul Mühlenturm. După-amiaza este dedicată muzeului călduros. Seara, parcul de sculpturi capătă un farmec melancolic; aveți grijă la potecile ce pot deveni alunecoase și asigurați-vă că aveți o pelerină de ploaie rezistentă.",
-            "en": "Morning starts under the dry arches of the church. At noon, we brave the rain on the Rhine promenade before taking cover in the historic Mühlenturm. The afternoon is spent exploring the warm museum galleries. Evening brings a misty charm to the sculpture park; watch your step on slippery paths and bring a sturdy umbrella and waterproof gear for a comfortable walk."
+            "en": "Morning starts under the dry arches of the church. At noon, we brave the rain on the Rhine promenade before taking cover in the historic Mühlenturm. The afternoon is spent exploring the warm museum galleries. Evening brings a misty charm to the sculpture park; watch your step on slippery paths and bring a sturdy umbrella and waterproof gear for a comfortable walk.",
+            "tr": "Sabah kilisenin kuru kemerli bölümlerinde başlıyor. Öğle vakti Ren promenadında yağmura aldırmadan yürüyüp sonra tarihi Mühlenturm'da sığınıyoruz. Öğleden sonra sıcak müze galerilerini geziyoruz. Akşam heykel parkına sisli bir hava gelir; kaygan patikalara dikkat edin ve konforlu bir yürüyüş için sağlam bir şemsiye ve su geçirmez giysi getirin."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "St. Mariä Himmelfahrt",
                 "hu": "St. Mariä Himmelfahrt",
                 "ro": "St. Mariä Himmelfahrt",
-                "en": "St. Mariä Himmelfahrt"
+                "en": "St. Mariä Himmelfahrt",
+                "tr": "St. Mariä Himmelfahrt"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe im gotischen Kirchenschiff, während draußen der Regen prasselt; ideal für eine trockene Besichtigung. Vorsicht vor nassem Steinboden am Eingang.",
                 "hu": "Élvezze a gótikus hajó csendjét, miközben kint kopog az eső; ez a helyszín tökéletes száraz menedék. Legyen óvatos a bejáratnál a vizes, csúszós kőpadlóval.",
                 "ro": "Bucurați-vă de liniștea navei gotice în timp ce ploaia bate în geamuri; un loc ideal pentru o vizită uscată. Atenție la podeaua de piatră umedă de la intrare.",
-                "en": "Enjoy the silence of the Gothic nave while the rain pours outside; a perfect spot for a dry visit. Be careful of the wet, slippery stone floor at the entrance."
+                "en": "Enjoy the silence of the Gothic nave while the rain pours outside; a perfect spot for a dry visit. Be careful of the wet, slippery stone floor at the entrance.",
+                "tr": "Yağmur dışarıya dökülürken Gotik nefin sessizliğinin tadını çıkarın; kuru bir ziyaret için ideal. Girişteki ıslak, kaygan taş zemine dikkat edin."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Rheinpromenade",
                 "hu": "Rajnai sétány",
                 "ro": "Promenada Rinului",
-                "en": "Rhine Promenade"
+                "en": "Rhine Promenade",
+                "tr": "Ren Promenade"
               },
               "tip_5lang": {
                 "de": "Der Blick auf den grauen Rhein hat bei Regen einen besonderen Reiz; nutzen Sie die überdachten Pavillons für Pausen. Windfeste Kleidung schützt vor der Gischt.",
                 "hu": "A szürke Rajna látványa esőben is lenyűgöző; használja a fedett pavilonokat rövid pihenőkre. A szélálló ruházat megvédi Önt a vízparti hűvös permettől.",
                 "ro": "Vederea Rinului gri are un farmec aparte pe ploaie; folosiți pavilioanele acoperite pentru pauze. O jachetă rezistentă la vânt vă va proteja de umezeala râului.",
-                "en": "The view of the grey Rhine has a unique charm in the rain; use the covered pavilions for breaks. Windproof clothing will protect you from the riverside spray."
+                "en": "The view of the grey Rhine has a unique charm in the rain; use the covered pavilions for breaks. Windproof clothing will protect you from the riverside spray.",
+                "tr": "Yağmurda gri Ren manzarasının kendine has bir çekiciliği var; molalar için örtülü pavilyonları kullanın. Nehir kenarındaki sıçramalara karşı rüzgar geçirmez giysi korur."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Mühlenturm",
                 "hu": "Mühlenturm",
                 "ro": "Mühlenturm",
-                "en": "Mühlenturm"
+                "en": "Mühlenturm",
+                "tr": "Mühlenturm"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern des Turms bieten hervorragenden Schutz vor Schauern; erkunden Sie die Geschichte im Inneren. Die Stufen können bei Feuchtigkeit glatt sein.",
                 "hu": "A torony vastag falai kiváló védelmet nyújtanak a záporok elől; fedezze fel a belső tér történelmét. A lépcsők nedves időben fokozottan csúszhatnak.",
                 "ro": "Zidurile groase ale turnului oferă protecție excelentă împotriva averselor; explorați istoria din interior. Treptele pot fi alunecoase din cauza umidității.",
-                "en": "The thick walls of the tower provide excellent shelter from showers; explore the history inside. Steps can be slippery when moisture levels are high."
+                "en": "The thick walls of the tower provide excellent shelter from showers; explore the history inside. Steps can be slippery when moisture levels are high.",
+                "tr": "Kulenin kalın duvarları sağanaklardan mükemmel sığınak sağlar; içindeki tarihi keşfedin. Nem yüksek olduğunda merdivenler kaygan olabilir."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Museum Koenraad Bosman",
                 "hu": "Koenraad Bosman Múzeum",
                 "ro": "Muzeul Koenraad Bosman",
-                "en": "Museum Koenraad Bosman"
+                "en": "Museum Koenraad Bosman",
+                "tr": "Museum Koenraad Bosman"
               },
               "tip_5lang": {
                 "de": "Verweilen Sie länger in den Ausstellungsräumen, um den stärksten Regen gemütlich im Trockenen auszusitzen. Schirme können meist im Eingangsbereich deponiert werden.",
                 "hu": "Időzzön el hosszabban a kiállítótermekben, hogy kényelmesen, szárazon várja meg a nagyobb eső végét. Az esernyőket a bejáratnál kijelölt helyen hagyhatja.",
                 "ro": "Petreceți mai mult timp în sălile de expoziție pentru a aștepta trecerea ploii într-un mediu plăcut. Umbrelele pot fi lăsate de obicei la intrare.",
-                "en": "Stay longer in the exhibition rooms to comfortably wait out the heaviest rain in the dry. Umbrellas can usually be stored in the designated entrance area."
+                "en": "Stay longer in the exhibition rooms to comfortably wait out the heaviest rain in the dry. Umbrellas can usually be stored in the designated entrance area.",
+                "tr": "En şiddetli yağmuru kuru şekilde beklemek için sergi odalarında daha uzun kalın. Şemsiyeler genellikle belirlenmiş giriş alanında saklanabilir."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Skulpturenpark",
                 "hu": "Szoborpark",
                 "ro": "Parcul de sculpturi",
-                "en": "Sculpture Park"
+                "en": "Sculpture Park",
+                "tr": "Heykel Parkı"
               },
               "tip_5lang": {
                 "de": "Die nassen Skulpturen glänzen im Regen besonders schön; halten Sie sich für einen schnellen Rundgang unter den Bäumen. Wasserdichtes Schuhwerk ist hier Pflicht.",
                 "hu": "A vizes szobrok különlegesen csillognak az esőben; maradjon a fák alatt a gyors körséta során. A vízálló lábbeli kötelező a füves, sáros részek miatt.",
                 "ro": "Sculpturile umede strălucesc frumos în ploaie; rămâneți sub copaci pentru un tur rapid al parcului. Încălțămintea impermeabilă este obligatorie pe poteci.",
-                "en": "Wet sculptures glisten beautifully in the rain; stay under the trees for a quick circuit. Waterproof footwear is essential for the damp paths."
+                "en": "Wet sculptures glisten beautifully in the rain; stay under the trees for a quick circuit. Waterproof footwear is essential for the damp paths.",
+                "tr": "Islak heykeller yağmurda güzelce parlar; hızlı bir tur için ağaçların altında kalın. Nemli patikalar için su geçirmez ayakkabı şart."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Morgens empfängt uns die Stille der beheizten Kirche als Schutz vor dem Frost. Mittags spazieren wir kurz über die frostige Rheinpromenade zum geschichtsträchtigen Mühlenturm. Der Nachmittag wird im warmen Museum Koenraad Bosman verbracht, bevor es gegen 17:00 Uhr dunkel wird. Den Skulpturenpark besuchen wir noch in der Dämmerung, um danach die gemütliche Beleuchtung der Altstadt zu genießen.",
             "hu": "Reggel a fűtött templom békéje fogad a kinti fagy ellen. Délben a deres Rajna-parton sétálunk, a Mühlenturm pedig történelmi hangulatot áraszt a téli fényben. Délután a Koenraad Bosman Múzeumban melegedünk fel a műtárgyak között. Mivel 17:00 körül sötétedik, a szoborparkot még alkonyat előtt keressük fel, majd élvezzük a kisváros karácsonyi díszkivilágítását.",
             "ro": "Dimineața, liniștea bisericii încălzite ne oferă protecție împotriva gerului. La prânz, ne plimbăm scurt pe faleza înghețată spre turnul Mühlenturm. După-amiaza este petrecută în căldura muzeului Koenraad Bosman. Deoarece se întunecă în jur de ora 17:00, vizităm parcul de sculpturi în amurg, admirând apoi luminile festive ale orașului vechi.",
-            "en": "Morning greets us with the warmth of the heated church, a refuge from the frost. At noon, we take a brisk walk along the frozen Rhine before visiting the historic tower. The afternoon is spent in the cozy museum galleries. Since sunset is around 17:00, visit the sculpture park in the fading light before enjoying the city's charming winter lights."
+            "en": "Morning greets us with the warmth of the heated church, a refuge from the frost. At noon, we take a brisk walk along the frozen Rhine before visiting the historic tower. The afternoon is spent in the cozy museum galleries. Since sunset is around 17:00, visit the sculpture park in the fading light before enjoying the city's charming winter lights.",
+            "tr": "Sabah bizi kilisenin ısıtmalı sıcaklığı karşılar; donan bir sığınağıdır. Öğle vakti donmuş Ren boyunca canlı bir yürüyüş yapıp sonra tarihi kuleyi ziyaret ediyoruz. Öğleden sonra sıcak müze galerilerinde vakit geçiriyoruz. Gün batımı yaklaşık 17:00 civarında olduğundan, solan ışıkta heykel parkını ziyaret edin ve ardından şehrin cazip kış ışıklarının keyfini çıkarın."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "St. Mariä Himmelfahrt",
                 "hu": "St. Mariä Himmelfahrt",
                 "ro": "St. Mariä Himmelfahrt",
-                "en": "St. Mariä Himmelfahrt"
+                "en": "St. Mariä Himmelfahrt",
+                "tr": "St. Mariä Himmelfahrt"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen besinnlichen und vor allem warmen Start in den Tag; bewundern Sie die Details in Ruhe. Achten Sie auf Glätte auf den Treppenstufen.",
                 "hu": "A templom meghitt és mindenekelőtt meleg kezdést biztosít a napnak; csodálja meg a részleteket. Ügyeljen a lépcsőkön az esetleges jegesedésre.",
                 "ro": "Biserica oferă un început de zi contemplativ și, mai ales, călduros; admirați detaliile în tihnă. Atenție la gheața ce se poate forma pe trepte.",
-                "en": "The church provides a contemplative and, above all, warm start to the day; admire the details in peace. Watch out for icy patches on the steps."
+                "en": "The church provides a contemplative and, above all, warm start to the day; admire the details in peace. Watch out for icy patches on the steps.",
+                "tr": "Kilise gününe düşünceli ve her şeyden önce sıcak bir başlangıç sağlar; ayrıntıları sakinlikle inceleyin. Basamaklardaki buzlu bölgelere dikkat edin."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Rheinpromenade",
                 "hu": "Rajnai sétány",
                 "ro": "Promenada Rinului",
-                "en": "Rhine Promenade"
+                "en": "Rhine Promenade",
+                "tr": "Ren Promenade"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft am Fluss ist erfrischend; ziehen Sie sich nach dem Zwiebelprinzip warm an. Der kalte Wind vom Wasser erfordert eine gute Kopfbedeckung.",
                 "hu": "A tiszta téli levegő a folyónál frissítő; öltözzön rétegesen a parti sétához. A víz felől érkező hideg szél miatt viseljen meleg sapkát és sálat.",
                 "ro": "Aerul curat de iarnă de lângă râu este revigorant; îmbrăcați-vă în straturi pentru plimbare. Vântul rece de pe apă necesită o căciulă călduroasă.",
-                "en": "The crisp winter air by the river is refreshing; dress in warm layers for the walk. The cold wind from the water requires a good hat and scarf."
+                "en": "The crisp winter air by the river is refreshing; dress in warm layers for the walk. The cold wind from the water requires a good hat and scarf.",
+                "tr": "Nehir kenarındaki keskin kış havası canlandırıcıdır; yürüyüş için sıcak katmanlar giyin. Sudaki soğuk rüzgar için iyi bir bere ve atkı gereklidir."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Mühlenturm",
                 "hu": "Mühlenturm",
                 "ro": "Mühlenturm",
-                "en": "Mühlenturm"
+                "en": "Mühlenturm",
+                "tr": "Mühlenturm"
               },
               "tip_5lang": {
                 "de": "Im Inneren des Turms ist es deutlich windgeschützter als auf der Promenade; ein kurzer Stopp zum Aufwärmen. Der Ausblick auf das Eistreiben ist fantastisch.",
                 "hu": "A torony belsejében sokkal védettebb a hely a széltől, mint a sétányon; tartsunk itt egy melegedő pihenőt. A jeges Rajna látványa innen lenyűgöző.",
                 "ro": "În interiorul turnului este mult mai adăpostit decât pe faleză; un scurt popas pentru încălzire. Vederea spre gheața de pe râu este fantastică.",
-                "en": "Inside the tower, it's much more sheltered from the wind than on the promenade; a good spot to warm up. The view of the drifting ice is fantastic."
+                "en": "Inside the tower, it's much more sheltered from the wind than on the promenade; a good spot to warm up. The view of the drifting ice is fantastic.",
+                "tr": "Kulenin içinde, gezinti yolundaki rüzgâra göre çok daha korunaklı; ısınmak için iyi bir nokta. Sürüklenen buzların manzarası muhteşem."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Museum Koenraad Bosman",
                 "hu": "Koenraad Bosman Múzeum",
                 "ro": "Muzeul Koenraad Bosman",
-                "en": "Museum Koenraad Bosman"
+                "en": "Museum Koenraad Bosman",
+                "tr": "Museum Koenraad Bosman"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch als ausgiebige Aufwärmphase während der kältesten Stunden des Tages. Geben Sie schwere Wintermäntel an der Garderobe ab.",
                 "hu": "Használja ki a múzeumlátogatást egy alapos melegedésre a nap leghidegebb óráiban. A nehéz téli kabátokat tegye le a ruhatárban a kényelmes nézelődéshez.",
                 "ro": "Folosiți vizita la muzeu ca o etapă de încălzire prelungită în cele mai reci ore ale zilei. Lăsați paltoanele grele de iarnă la garderobă.",
-                "en": "Use the museum visit as an extended warming phase during the coldest hours of the day. Leave heavy winter coats at the cloakroom for comfort."
+                "en": "Use the museum visit as an extended warming phase during the coldest hours of the day. Leave heavy winter coats at the cloakroom for comfort.",
+                "tr": "Müze ziyaretini günün en soğuk saatlerinde uzatılmış bir ısınma fazı olarak kullanın. Rahatınız için ağır kışlık montları vestiyere bırakın."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Skulpturenpark",
                 "hu": "Szoborpark",
                 "ro": "Parcul de sculpturi",
-                "en": "Sculpture Park"
+                "en": "Sculpture Park",
+                "tr": "Sculpture Park"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Park vor 16:30 Uhr, um die Werke noch bei Tageslicht zu sehen; Schnee verleiht ihnen eine weiße Haube. Feste Winterschuhe sind nötig.",
                 "hu": "Látogasson el ide 16:30 előtt, hogy még nappali fényben lássa a műveket; a hó fehér sapkát ad nekik. Strapabíró téli cipő szükséges a havon.",
                 "ro": "Vizitați parcul înainte de 16:30 pentru a vedea lucrările la lumina zilei; zăpada le oferă un decor feeric. Sunt necesari bocanci de iarnă solizi.",
-                "en": "Visit the park before 16:30 to see the works in daylight; snow gives them a beautiful white cap. Sturdy winter shoes are necessary on the snow."
+                "en": "Visit the park before 16:30 to see the works in daylight; snow gives them a beautiful white cap. Sturdy winter shoes are necessary on the snow.",
+                "tr": "Eserleri gündüz ışığında görmek için parka 16:30'dan önce uğrayın; kar onlara güzel bir beyaz başlık verir. Karlı zeminlerde sağlam kışlık ayakkabılar gereklidir."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Museum Koenraad Bosman",
             "hu": "Koenraad Bosman Múzeum",
             "ro": "Muzeul Koenraad Bosman",
-            "en": "Museum Koenraad Bosman"
+            "en": "Museum Koenraad Bosman",
+            "tr": "Museum Koenraad Bosman"
           },
           "coords": [
             6.399278,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie die spannende Stadtgeschichte in diesem charmanten Museum, wo Sie auch Werke rheinischer Künstler bewundern können.",
             "hu": "Fedezze fel a város izgalmas történelmét ebben a bájos múzeumban, ahol rajnai művészek alkotásait is megcsodálhatja.",
             "ro": "Descoperiți istoria fascinantă a orașului în acest muzeu fermecător, unde puteți admira și opere ale artiștilor renani.",
-            "en": "Discover the fascinating city history in this charming museum, where you can also admire works by Rhenish artists."
+            "en": "Discover the fascinating city history in this charming museum, where you can also admire works by Rhenish artists.",
+            "tr": "Bu şirin müzede kentin ilgi çekici tarihini keşfedin; burada Renli sanatçıların eserlerini de görebilirsiniz."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Mühlenturm",
             "hu": "Mühlenturm",
             "ro": "Mühlenturm",
-            "en": "Mühlenturm"
+            "en": "Mühlenturm",
+            "tr": "Mühlenturm"
           },
           "coords": [
             6.400889,
@@ -352,7 +388,8 @@
             "de": "Besichtigen Sie diesen historischen Turm der alten Stadtmauer, der eine tolle Aussicht auf den Fluss bietet und bei Sonnenlicht fantastisch aussieht.",
             "hu": "Látogassa meg az egykori városfal történelmi tornyát, amely nagyszerű kilátást nyújt a folyóra és napsütésben fantasztikusan mutat.",
             "ro": "Vizitați acest turn istoric al vechiului zid al orașului, care oferă o priveliște minunată asupra râului și arată fantastic în lumina soarelui.",
-            "en": "Visit this historic tower of the old city wall, which offers a great view of the river and looks fantastic in the sunlight."
+            "en": "Visit this historic tower of the old city wall, which offers a great view of the river and looks fantastic in the sunlight.",
+            "tr": "Eski şehir duvarının bu tarihi kulesini ziyaret edin; nehre harika bir bakış sunar ve güneş altında muhteşem görünür."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Wolfersömer Woy",
             "hu": "Wolfersömer Woy",
             "ro": "Wolfersömer Woy",
-            "en": "Wolfersömer Woy"
+            "en": "Wolfersömer Woy",
+            "tr": "Wolfersömer Woy"
           },
           "coords": [
             6.428763,
@@ -375,7 +413,8 @@
             "de": "Radeln Sie zu diesem idyllischen Gewässer, das von üppiger Natur umgeben ist, und machen Sie hier eine erholsame Pause am Ufer.",
             "hu": "Tekerjen el ehhez a buja természettel körülvett, idilli tóhoz, és tartson egy pihentető szünetet a nyugodt parton.",
             "ro": "Bicicliți până la acest lac idilic înconjurat de natură luxuriantă și faceți o pauză relaxantă pe malul liniștit.",
-            "en": "Cycle to this idyllic lake surrounded by lush nature and take a relaxing break on the peaceful shore."
+            "en": "Cycle to this idyllic lake surrounded by lush nature and take a relaxing break on the peaceful shore.",
+            "tr": "Yeşilliklerle çevrili bu huzurlu göle bisikletle gidin ve sakin kıyıda dinlenme molası verin."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Reeser Meer",
             "hu": "Reeser Meer",
             "ro": "Reeser Meer",
-            "en": "Reeser Meer"
+            "en": "Reeser Meer",
+            "tr": "Reeser Meer"
           },
           "coords": [
             6.456828,
@@ -398,7 +438,8 @@
             "de": "Entdecken Sie dieses weitläufige Naturschutzgebiet, das zahlreichen Vogelarten ein Zuhause bietet und ideal für Naturbeobachtungen ist.",
             "hu": "Fedezze fel ezt a kiterjedt természetvédelmi területet, amely számos madárfajnak ad otthont, és ideális a természet megfigyelésére.",
             "ro": "Descoperiți această rezervație naturală vastă, care adăpostește numeroase specii de păsări și este ideală pentru observarea naturii.",
-            "en": "Discover this expansive nature reserve, which is home to numerous bird species and ideal for wildlife observation."
+            "en": "Discover this expansive nature reserve, which is home to numerous bird species and ideal for wildlife observation.",
+            "tr": "Çok sayıda kuş türüne ev sahipliği yapan, vahşi yaşam gözlemi için ideal bu geniş doğa rezervini keşfedin."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Aspeler Meer",
             "hu": "Aspeler Meer",
             "ro": "Aspeler Meer",
-            "en": "Aspeler Meer"
+            "en": "Aspeler Meer",
+            "tr": "Aspeler Meer"
           },
           "coords": [
             6.431821,
@@ -421,7 +463,8 @@
             "de": "Beenden Sie Ihre Radtour an diesem friedlichen See nahe des Schlosses Aspel, dessen spiegelglatte Oberfläche besonders abends zauberhaft wirkt.",
             "hu": "Fejezze be kerékpártúráját ennél a békés tónál az Aspel-kastély közelében, melynek tükörsima vize különösen este varázslatos.",
             "ro": "Încheiați-vă plimbarea cu bicicleta la acest lac pașnic de lângă Castelul Aspel, a cărui suprafață netedă este magică mai ales seara.",
-            "en": "Finish your bike ride at this peaceful lake near Aspel Castle, whose mirror-like surface is especially magical in the evening."
+            "en": "Finish your bike ride at this peaceful lake near Aspel Castle, whose mirror-like surface is especially magical in the evening.",
+            "tr": "Bisiklet gezisini Aspel Kalesi yakınlarındaki bu sakin gölde sonlandırın; aynamsı yüzeyi özellikle akşamları büyüleyicidir."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Das Fahrrad ist ideal, um Rees und die umliegenden Seenplatten zu entdecken. Nach einer kulturellen Dosis am Morgen in der Altstadt, führt uns der Weg hinaus ins Grüne. Die Mittagszeit verbringen wir an ruhigen Gewässern, die zum Verweilen einladen. Am späten Nachmittag genießen wir die Abendsonne am Wasser.",
         "hu": "A kerékpár ideális Rees és a környező tóvidék felfedezésére. A reggeli kulturális adag után az óvárosban, utunk a zöldbe vezet. A delet nyugodt vizek mellett töltjük, amelyek maradásra csábítanak. Késő délután a lemenő nap sugarait élvezzük a vízparton.",
         "ro": "Bicicleta este ideală pentru a descoperi Rees și districtul lacurilor din jur. După o doză culturală dimineața în centrul vechi, drumul ne duce în natură. Petrecem prânzul la ape liniștite care ne invită să zăbovim. Spre seară, ne bucurăm de soarele apusului lângă apă.",
-        "en": "The bicycle is ideal for discovering Rees and the surrounding lake district. After a cultural dose in the old town in the morning, our path leads out into nature. We spend lunchtime by quiet waters that invite you to linger. In the late afternoon, we enjoy the evening sun by the water."
+        "en": "The bicycle is ideal for discovering Rees and the surrounding lake district. After a cultural dose in the old town in the morning, our path leads out into nature. We spend lunchtime by quiet waters that invite you to linger. In the late afternoon, we enjoy the evening sun by the water.",
+        "tr": "Bisiklet, Rees ve çevresindeki göl bölgesini keşfetmek için idealdir. Sabah eski kentte kültür dozunu aldıktan sonra yolumuz doğaya çıkıyor. Öğle yemeğini sakin suların kenarında, keyifle dinlenmeye davet eden bir yerde geçiriyoruz. Geç öğleden sonra su kenarında akşam güneşinin tadını çıkarıyoruz."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Morgens beginnen wir die Tour im geschützten Museum Koenraad Bosman. Mittags radeln wir vorsichtig zum Mühlenturm, um dem Wind zu entkommen. Nachmittags führen die Wege am Wolfersömer Woy und Reeser Meer entlang; achten Sie auf spritzendes Wasser und matschige Uferwege. Abends erreichen wir das Aspeler Meer; Regenbekleidung und Schutzbleche sind heute Ihre wichtigsten Begleiter.",
             "hu": "Reggel a túrát a védett Koenraad Bosman Múzeumban kezdjük. Délben óvatosan átkerekezünk a Mühlenturmhoz, hogy elmeneküljünk a szél elől. Délután az utunk a Wolfersömer Woy és a Reeser Meer mentén vezet; ügyeljünk a felcsapódó vízre és a sáros parti utakra. Estére érjük el az Aspeler Meert; az esővédő ruházat és a sárvédő ma kötelező kellék.",
             "ro": "Dimineața începem turul în muzeul protejat Koenraad Bosman. La prânz, pedalăm cu grijă spre Mühlenturm pentru a scăpa de vânt. După-amiaza, drumurile ne duc pe lângă Wolfersömer Woy și Reeser Meer; atenție la apă și la potecile noroioase de pe mal. Seara ajungem la Aspeler Meer; pelerina de ploaie și apărătorile de noroi sunt esențiale astăzi.",
-            "en": "Morning starts with a visit to the sheltered Koenraad Bosman Museum. At noon, we cycle carefully to the Mühlenturm to escape the wind. Afternoon routes lead along Wolfersömer Woy and Reeser Meer; watch out for splashes and muddy paths. By evening we reach Aspeler Meer; full rain gear and mudguards are your most important companions today."
+            "en": "Morning starts with a visit to the sheltered Koenraad Bosman Museum. At noon, we cycle carefully to the Mühlenturm to escape the wind. Afternoon routes lead along Wolfersömer Woy and Reeser Meer; watch out for splashes and muddy paths. By evening we reach Aspeler Meer; full rain gear and mudguards are your most important companions today.",
+            "tr": "Sabah, korunaklı Koenraad Bosman Müzesi ziyaretiyle başlıyor. Öğlen rüzgârdan kaçmak için dikkatli bisiklet sürüşüyle Mühlenturm'a gidiyoruz. Öğleden sonraki rotalar Wolfersömer Woy ve Reeser Meer boyunca; sıçramalara ve çamurlu yollara dikkat edin. Akşama doğru Aspeler Meer'e varıyoruz; bugün için tam yağmurluk ve çamurluklar en önemli eşyanız olacak."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Museum Koenraad Bosman",
                 "hu": "Koenraad Bosman Múzeum",
                 "ro": "Muzeul Koenraad Bosman",
-                "en": "Museum Koenraad Bosman"
+                "en": "Museum Koenraad Bosman",
+                "tr": "Museum Koenraad Bosman"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Zeit für einen trockenen Museumsbesuch. Die warme Atmosphäre hilft beim Trocknen der Kleidung.",
                 "hu": "Parkolja le kerékpárját fedett helyen, és használja ki az időt egy száraz múzeumlátogatásra. A meleg környezet segít a ruházat megszárításában.",
                 "ro": "Parcați bicicleta într-un loc protejat și folosiți timpul pentru o vizită uscată la muzeu. Atmosfera caldă ajută la uscarea hainelor umede.",
-                "en": "Park your bike in a sheltered spot and use the time for a dry museum visit. The warm atmosphere helps in drying out any damp gear."
+                "en": "Park your bike in a sheltered spot and use the time for a dry museum visit. The warm atmosphere helps in drying out any damp gear.",
+                "tr": "Bisikletinizi korunaklı bir yerde park edin ve kuru bir müze ziyareti için zamanı kullanın. Sıcak atmosfer nemli ekipmanların kurumasına yardımcı olur."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Mühlenturm",
                 "hu": "Mühlenturm",
                 "ro": "Mühlenturm",
-                "en": "Mühlenturm"
+                "en": "Mühlenturm",
+                "tr": "Mühlenturm"
               },
               "tip_5lang": {
                 "de": "Der Turm dient als perfekter windfester Stopp während einer Regenfahrt; parken Sie nah an den Mauern. Vorsicht vor rutschigem Kopfsteinpflaster davor.",
                 "hu": "A torony tökéletes szélvédett megálló egy esős tekerés során; parkoljon közel a falakhoz. Vigyázzon az előtte lévő csúszós macskakövekre.",
                 "ro": "Turnul servește ca un popas perfect rezistent la vânt în timpul unei curse pe ploaie; parcați aproape de ziduri. Atenție la pavajul alunecos din față.",
-                "en": "The tower serves as a perfect windproof stop during a rainy ride; park close to the walls. Be careful of slippery cobblestones in front of it."
+                "en": "The tower serves as a perfect windproof stop during a rainy ride; park close to the walls. Be careful of slippery cobblestones in front of it.",
+                "tr": "Kule, yağmurlu bir sürüş sırasında mükemmel rüzgâr geçirmez bir mola yeri sağlar; duvarlara yakın park edin. Önündeki kaygan kaldırım taşlarına dikkat edin."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Wolfersömer Woy",
                 "hu": "Wolfersömer Woy",
                 "ro": "Wolfersömer Woy",
-                "en": "Wolfersömer Woy"
+                "en": "Wolfersömer Woy",
+                "tr": "Wolfersömer Woy"
               },
               "tip_5lang": {
                 "de": "Bei Regen wirken die Wasserflächen besonders dramatisch; bleiben Sie auf den asphaltierten Wegen. Vermeiden Sie Bremsmanöver auf nassem Laub am Boden.",
                 "hu": "Esőben a vízfelületek különösen drámai látványt nyújtanak; maradjon az aszfaltozott utakon. Kerülje a hirtelen fékezést a nedves leveleken az úton.",
                 "ro": "Pe ploaie, suprafețele de apă par deosebit de dramatice; rămâneți pe drumurile asfaltate. Evitați frânarea bruscă pe frunzele umede de pe sol.",
-                "en": "In the rain, the water surfaces look particularly dramatic; stay on the paved paths. Avoid sudden braking on wet leaves scattered on the ground."
+                "en": "In the rain, the water surfaces look particularly dramatic; stay on the paved paths. Avoid sudden braking on wet leaves scattered on the ground.",
+                "tr": "Yağmurdayken su yüzeyleri özellikle dramatik görünür; parke taşlı yolları kullanın. Zeminde dağılmış ıslak yapraklarda ani frenleme yapmaktan kaçının."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Reeser Meer",
                 "hu": "Reeser Meer",
                 "ro": "Reeser Meer",
-                "en": "Reeser Meer"
+                "en": "Reeser Meer",
+                "tr": "Reeser Meer"
               },
               "tip_5lang": {
                 "de": "Die Sicht kann bei Regen eingeschränkt sein; achten Sie auf andere Radfahrer und nutzen Sie Licht. Die Uferwege können stellenweise tiefe Pfützen bilden.",
                 "hu": "Esőben a látási viszonyok korlátozottak lehetnek; figyeljen másokra és használjon lámpát. A parti utakon helyenként mély tócsák alakulhatnak ki.",
                 "ro": "Vizibilitatea poate fi limitată pe ploaie; fiți atenți la ceilalți bicicliști și folosiți luminile. Potecile de pe mal pot avea bălți adânci.",
-                "en": "Visibility may be limited in the rain; watch out for other cyclists and use your lights. Bank paths may have deep puddles in some places."
+                "en": "Visibility may be limited in the rain; watch out for other cyclists and use your lights. Bank paths may have deep puddles in some places.",
+                "tr": "Yağmurda görüş sınırlı olabilir; diğer bisikletçilere dikkat edin ve ışıklarınızı kullanın. Kıyı yollarında bazı yerlerde derin su birikleri olabilir."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Aspeler Meer",
                 "hu": "Aspeler Meer",
                 "ro": "Aspeler Meer",
-                "en": "Aspeler Meer"
+                "en": "Aspeler Meer",
+                "tr": "Aspeler Meer"
               },
               "tip_5lang": {
                 "de": "Ein letzter Stopp im Grünen; suchen Sie bei Bedarf Schutz unter dichten Baumkronen. Trocknen Sie Ihr Rad nach der Tour gut ab, um Rost zu vermeiden.",
                 "hu": "Egy utolsó megálló a zöldben; ha szükséges, keressen menedéket a sűrű lombkoronák alatt. A túra után törölje szárazra a biciklit a rozsda ellen.",
                 "ro": "Un ultim popas în natură; căutați adăpost sub coroanele dese ale copacilor dacă este necesar. Uscați bine bicicleta după tur pentru a evita rugina.",
-                "en": "A final stop in the greenery; seek shelter under thick tree canopies if needed. Dry your bike well after the tour to prevent any rust forming."
+                "en": "A final stop in the greenery; seek shelter under thick tree canopies if needed. Dry your bike well after the tour to prevent any rust forming.",
+                "tr": "Yeşillikte son bir mola; gerekirse kalın ağaç gövdelerinin altına sığın. Turu bitirdikten sonra bisikletinizi iyi kurulayın, paslanmayı önlemek için."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Morgens starten wir im beheizten Museum, um uns für die frostige Tour zu wappnen. Mittags führt ein kurzer Ritt zum Mühlenturm, wo wir die Aussicht genießen. Der Nachmittag am Wolfersömer Woy und Reeser Meer erfordert warme Handschuhe und Thermokleidung gegen den eisigen Fahrtwind. Da es um 17:00 Uhr dunkel wird, beenden wir den Ausflug am Aspeler Meer noch vor Sonnenuntergang.",
             "hu": "Reggel a fűtött múzeumban kezdünk, hogy felkészüljünk a fagyos túrára. Délben egy rövid tekerés vezet a Mühlenturmhoz, ahol élvezzük a kilátást. A délután a Wolfersömer Woy és a Reeser Meer mentén meleg kesztyűt és termoruházatot igényel a jeges menetszél ellen. Mivel 17:00-kor sötétedik, a kirándulást az Aspeler Meernél még naplemente előtt befejezzük.",
             "ro": "Dimineața începem în muzeul încălzit pentru a ne pregăti de turul geros. La prânz, o scurtă cursă ne duce la Mühlenturm pentru a admira priveliștea. După-amiaza la Wolfersömer Woy și Reeser Meer necesită mănuși calde și haine termice împotriva vântului înghețat. Deoarece se întunecă la ora 17:00, încheiem excursia la Aspeler Meer înainte de apus.",
-            "en": "Morning starts in the heated museum to prepare for the frosty tour. At noon, a short ride leads to the Mühlenturm to enjoy the view. The afternoon at Wolfersömer Woy and Reeser Meer requires warm gloves and thermal clothing against the icy wind. As it gets dark by 17:00, we finish the excursion at Aspeler Meer well before the winter sunset."
+            "en": "Morning starts in the heated museum to prepare for the frosty tour. At noon, a short ride leads to the Mühlenturm to enjoy the view. The afternoon at Wolfersömer Woy and Reeser Meer requires warm gloves and thermal clothing against the icy wind. As it gets dark by 17:00, we finish the excursion at Aspeler Meer well before the winter sunset.",
+            "tr": "Sabah, donlu tura hazırlanmak için ısıtmalı müzede başlıyor. Öğlen kısa bir sürüşle manzaranın keyfini çıkarmak için Mühlenturm'a gidiliyor. Öğleden sonra Wolfersömer Woy ve Reeser Meer'de aşırı soğuk rüzgâra karşı sıcak eldivenler ve termal giysiler gereklidir. Saat 17:00'de kararmadan önce Aspeler Meer'de gezintiyi tamamlıyoruz."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Museum Koenraad Bosman",
                 "hu": "Koenraad Bosman Múzeum",
                 "ro": "Muzeul Koenraad Bosman",
-                "en": "Museum Koenraad Bosman"
+                "en": "Museum Koenraad Bosman",
+                "tr": "Museum Koenraad Bosman"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Aufenthalt im Museum, um Ihre Glieder vor dem Start der Radtour aufzuwärmen. Thermoskannen mit Tee können hier meist aufgefüllt werden.",
                 "hu": "Használja ki a múzeumi tartózkodást, hogy alaposan átmelegedjen a bringázás megkezdése előtt. A teás termoszt itt általában újra tudja tölteni.",
                 "ro": "Folosiți șederea la muzeu pentru a vă încălzi înainte de a porni la drum cu bicicleta. Termosurile cu ceai pot fi de obicei reumplute aici.",
-                "en": "Use your time in the museum to warm up your limbs before starting the bike tour. You can usually refill your thermos with hot tea here."
+                "en": "Use your time in the museum to warm up your limbs before starting the bike tour. You can usually refill your thermos with hot tea here.",
+                "tr": "Müzedeki zamanınızı bisiklet turuna başlamadan önce uzuvlarınızı ısıtmak için kullanın. Genellikle burada termosunuzu sıcak çayla doldurabilirsiniz."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Mühlenturm",
                 "hu": "Mühlenturm",
                 "ro": "Mühlenturm",
-                "en": "Mühlenturm"
+                "en": "Mühlenturm",
+                "tr": "Mühlenturm"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, windstiller Stopp hinter den alten Mauern ist ideal, um die Handschuhe kurz auszuziehen. Prüfen Sie die Reifenhaftung auf eventuellem Reif.",
                 "hu": "Egy rövid, szélvédett megálló a régi falak mögött ideális, hogy rövid időre levegye a kesztyűt. Ellenőrizze a gumik tapadást a deres úton.",
                 "ro": "Un scurt popas ferit de vânt în spatele zidurilor vechi este ideal pentru a vă scoate mănușile. Verificați aderența anvelopelor pe brumă.",
-                "en": "A short, windless stop behind the old walls is ideal for taking off your gloves for a moment. Check your tire grip on any possible frost."
+                "en": "A short, windless stop behind the old walls is ideal for taking off your gloves for a moment. Check your tire grip on any possible frost.",
+                "tr": "Eski duvarların arkasındaki kısa, rüzgârsız mola eldivenlerinizi bir an için çıkarmak için idealdir. Olası buzlanmaya karşı lastiklerin tutuşunu kontrol edin."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Wolfersömer Woy",
                 "hu": "Wolfersömer Woy",
                 "ro": "Wolfersömer Woy",
-                "en": "Wolfersömer Woy"
+                "en": "Wolfersömer Woy",
+                "tr": "Wolfersömer Woy"
               },
               "tip_5lang": {
                 "de": "Die gefrorene Natur bietet tolle Fotomotive; bleiben Sie wegen Glättegefahr auf den geräumten Hauptwegen. Der Fahrtwind ist am offenen Wasser extrem kalt.",
                 "hu": "A fagyott természet remek fotótémákat kínál; a csúszásveszély miatt maradjon a letakarított főutakon. A menetszél a nyílt víznél rendkívül hideg.",
                 "ro": "Natura înghețată oferă motive foto grozave; rămâneți pe drumurile principale curățate din cauza riscului de polei. Vântul este extrem de rece lângă apă.",
-                "en": "The frozen nature offers great photo opportunities; stay on the cleared main paths due to ice risk. The wind is extremely cold by the open water."
+                "en": "The frozen nature offers great photo opportunities; stay on the cleared main paths due to ice risk. The wind is extremely cold by the open water.",
+                "tr": "Donmuş doğa harika fotoğraf fırsatları sunar; buz riski nedeniyle temizlenmiş ana patikalarda kalın. Açık su kenarında rüzgâr son derece soğuktur."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Reeser Meer",
                 "hu": "Reeser Meer",
                 "ro": "Reeser Meer",
-                "en": "Reeser Meer"
+                "en": "Reeser Meer",
+                "tr": "Reeser Meer"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne spiegelt sich herrlich auf dem Wasser; schützen Sie Ihr Gesicht mit einer Fettcreme vor Kälte. Treten Sie gleichmäßig, um warm zu bleiben.",
                 "hu": "A téli napfény csodásan tükröződik a vízen; arcát zsíros krémmel védje a metsző hideg ellen. Tekerjen egyenletesen, hogy testhőmérsékletét fenntartsa.",
                 "ro": "Soarele de iarnă se reflectă superb pe apă; protejați-vă fața cu o cremă hidratantă împotriva frigului. Pedalați constant pentru a vă menține cald.",
-                "en": "The winter sun reflects beautifully on the water; protect your face from the cold with a rich cream. Cycle at a steady pace to keep your body warm."
+                "en": "The winter sun reflects beautifully on the water; protect your face from the cold with a rich cream. Cycle at a steady pace to keep your body warm.",
+                "tr": "Kış güneşi suyun üzerinde güzel yansır; soğuktan yüzünüzü korumak için zengin bir krem kullanın. Vücudunuzu sıcak tutmak için sabit bir tempoda pedal çevirin."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Aspeler Meer",
                 "hu": "Aspeler Meer",
                 "ro": "Aspeler Meer",
-                "en": "Aspeler Meer"
+                "en": "Aspeler Meer",
+                "tr": "Aspeler Meer"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor Einbruch der Dunkelheit an, da die Wege nicht beleuchtet sind; Reflektoren sind jetzt wichtig. Ein heißes Getränk beendet die Tour perfekt.",
                 "hu": "Érkezzen meg sötétedés előtt, mivel az utak nincsenek kivilágítva; a fényvisszaverők most fontosak. Egy forró ital tökéletesen zárja a túrát.",
                 "ro": "Ajungeți înainte de lăsarea întunericului, deoarece drumurile nu sunt iluminate; reflectorizantele sunt esențiale. O băutură caldă încheie turul.",
-                "en": "Arrive before dark as the paths are not illuminated; reflectors are very important now. A hot drink will end the frosty tour perfectly."
+                "en": "Arrive before dark as the paths are not illuminated; reflectors are very important now. A hot drink will end the frosty tour perfectly.",
+                "tr": "Yollar aydınlatılmadığı için kararmadan önce varın; reflektörler artık çok önemli. Sıcak bir içecek donlu turu mükemmel şekilde sonlandırır."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Rheinpromenade",
             "hu": "Rajnai sétány",
             "ro": "Promenada Rinului",
-            "en": "Rhine Promenade"
+            "en": "Rhine Promenade",
+            "tr": "Rhine Promenade"
           },
           "coords": [
             6.392904,
@@ -622,7 +689,8 @@
             "de": "Schlendern Sie gemütlich entlang der längsten und schönsten Rheinpromenade Deutschlands und genießen Sie die klare Morgenluft.",
             "hu": "Sétáljon kényelmesen Németország leghosszabb és legszebb rajnai sétányán, miközben élvezi a friss reggeli levegőt.",
             "ro": "Plimbați-vă pe îndelete de-a lungul celei mai lungi și frumoase promenade de pe Rin din Germania, savurând aerul proaspăt al dimineții.",
-            "en": "Stroll leisurely along the longest and most beautiful Rhine promenade in Germany, enjoying the crisp and fresh morning air."
+            "en": "Stroll leisurely along the longest and most beautiful Rhine promenade in Germany, enjoying the crisp and fresh morning air.",
+            "tr": "Almanya'nın en uzun ve en güzel Ren promenadında rahatça gezin, taze ve keskin sabah havasının keyfini çıkarın."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Sporthafen Obermörmter",
             "hu": "Obermörmter sportkikötő",
             "ro": "Portul sportiv Obermörmter",
-            "en": "Sporthafen Obermörmter"
+            "en": "Sporthafen Obermörmter",
+            "tr": "Sporthafen Obermörmter"
           },
           "coords": [
             6.390717,
@@ -645,7 +714,8 @@
             "de": "Fahren Sie zu diesem kleinen Sporthafen, wo die sanft schaukelnden Boote ein malerisches und wunderbar entspannendes Fotomotiv abgeben.",
             "hu": "Vezessen ehhez a kis kikötőhöz, ahol a lágyan ringatózó csónakok festői és csodálatosan pihentető fotótémát nyújtanak.",
             "ro": "Conduceți până la acest mic port sportiv, unde bărcile care se leagănă ușor oferă un motiv fotografic pitoresc și minunat de relaxant.",
-            "en": "Drive to this small marina, where the gently swaying boats provide a picturesque and wonderfully relaxing photo opportunity."
+            "en": "Drive to this small marina, where the gently swaying boats provide a picturesque and wonderfully relaxing photo opportunity.",
+            "tr": "Nazikçe sallanan teknelerin fotoğrafı için pitoresk ve son derece dinlendirici bir fırsat sunduğu bu küçük marinalara aracınızla gidin."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Wisseler See",
             "hu": "Wisseler See",
             "ro": "Lacul Wissel",
-            "en": "Wisseler See"
+            "en": "Wisseler See",
+            "tr": "Wisseler See"
           },
           "coords": [
             6.299812,
@@ -668,7 +739,8 @@
             "de": "Machen Sie Halt an diesem beliebten Freizeitsee, der mit seinen sauberen Stränden zu einem kurzen, erfrischenden Spaziergang am Wasser einlädt.",
             "hu": "Álljon meg ennél a népszerű szabadidős tónál, amely tiszta strandjaival egy rövid, frissítő vízparti sétára hívogat.",
             "ro": "Opriți-vă la acest lac de agrement popular, care, cu plajele sale curate, vă invită la o scurtă și revigorantă plimbare pe malul apei.",
-            "en": "Stop at this popular recreational lake, which invites you to take a short, refreshing walk along the water with its clean beaches."
+            "en": "Stop at this popular recreational lake, which invites you to take a short, refreshing walk along the water with its clean beaches.",
+            "tr": "Temiz kumsallarıyla su kenarında kısa, ferahlatıcı bir yürüyüş yapmaya davet eden popüler rekreasyon gölünde durun."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Mahnensee",
             "hu": "Mahnensee",
             "ro": "Lacul Mahnen",
-            "en": "Mahnensee"
+            "en": "Mahnensee",
+            "tr": "Mahnensee"
           },
           "coords": [
             6.344234,
@@ -691,7 +764,8 @@
             "de": "Entspannen Sie sich an den ruhigen Ufern dieses Naturgewässers, das abseits des Trubels liegt und perfekte Bedingungen für ein Picknick bietet.",
             "hu": "Pihenjen meg ennek a természetes tónak a csendes partján, amely távol esik a nyüzsgéstől és tökéletes feltételeket kínál egy piknikhez.",
             "ro": "Relaxați-vă pe malurile liniștite ale acestui lac natural, care se află departe de agitație și oferă condiții perfecte pentru un picnic.",
-            "en": "Relax on the quiet shores of this natural lake, which is away from the hustle and bustle and offers perfect conditions for a picnic."
+            "en": "Relax on the quiet shores of this natural lake, which is away from the hustle and bustle and offers perfect conditions for a picnic.",
+            "tr": "Koşuşturmadan uzak bu doğal gölün sessiz kıyılarında piknik için mükemmel koşullarda dinlenin."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Empelsches Meer",
             "hu": "Empelsches Meer",
             "ro": "Empelsches Meer",
-            "en": "Empelsches Meer"
+            "en": "Empelsches Meer",
+            "tr": "Empelsches Meer"
           },
           "coords": [
             6.417605,
@@ -714,7 +789,8 @@
             "de": "Schließen Sie Ihren Ausflug an diesem versteckten Juwel ab, dessen naturbelassene Umgebung sich hervorragend für einen abendlichen Spaziergang eignet.",
             "hu": "Zárja kirándulását ennél a rejtett gyöngyszemnél, melynek érintetlen természeti környezete kiválóan alkalmas egy esti sétára.",
             "ro": "Încheiați-vă excursia la această bijuterie ascunsă, ale cărei împrejurimi naturale neatinse sunt excelente pentru o plimbare de seară.",
-            "en": "Conclude your trip at this hidden gem, whose pristine natural surroundings are excellently suited for an evening stroll."
+            "en": "Conclude your trip at this hidden gem, whose pristine natural surroundings are excellently suited for an evening stroll.",
+            "tr": "Gününüzü, bakir doğası akşam yürüyüşü için mükemmel olan bu gizli mücevherde sonlandırın."
           }
         }
       ],
@@ -722,7 +798,8 @@
         "de": "Mit dem Auto lassen sich die weitläufigen Natur- und Wasserlandschaften rund um Rees bequem erreichen. Wir starten direkt am Rhein und fahren dann von Hafen zu See. Mittags erwartet uns ein erfrischender Stopp am Strand. Der Tag endet an einem abgelegenen Natursee, wo die Stille der Landschaft greifbar wird.",
         "hu": "Autóval könnyen elérhetők a Rees körüli kiterjedt természeti és vízi tájak. Közvetlenül a Rajnánál kezdünk, majd kikötőből tóhoz hajtunk. Délben frissítő megálló vár ránk a strandon. A nap egy eldugott természetes tónál ér véget, ahol a táj csendje szinte kézzel fogható.",
         "ro": "Cu mașina, peisajele naturale și acvatice extinse din jurul orașului Rees pot fi atinse cu ușurință. Începem direct pe Rin și apoi conducem de la port la lac. La prânz ne așteaptă o oprire revigorantă pe plajă. Ziua se termină la un lac natural izolat, unde liniștea peisajului devine palpabilă.",
-        "en": "By car, the extensive natural and aquatic landscapes around Rees can be easily reached. We start right on the Rhine and then drive from port to lake. At noon, a refreshing stop at the beach awaits us. The day ends at a secluded natural lake, where the silence of the landscape becomes tangible."
+        "en": "By car, the extensive natural and aquatic landscapes around Rees can be easily reached. We start right on the Rhine and then drive from port to lake. At noon, a refreshing stop at the beach awaits us. The day ends at a secluded natural lake, where the silence of the landscape becomes tangible.",
+        "tr": "Arabayla, Rees çevresindeki geniş doğal ve su manzaralarına kolayca ulaşılabilir. Tamamen Ren kıyısından başlayıp limandan göle doğru sürüyoruz. Öğle vakti plajda ferahlatıcı bir mola bizi bekliyor. Gün, manzaranın sessizliğinin hissedildiği ıssız bir doğal gölde sona eriyor."
       },
       "variants": {
         "rainy": {
@@ -730,7 +807,8 @@
             "de": "Morgens genießen wir den Blick auf die Rheinpromenade gemütlich aus dem trockenen Auto. Mittags führt die Fahrt zum Sporthafen Obermörmter, wo wir die Schiffe im Regen beobachten. Nachmittags besuchen wir den Wisseler See und Mahnensee; die Seenlandschaft wirkt bei Regen besonders ruhig. Abends erreichen wir das Empelsche Meer; ein Regenschirm für die kurzen Wege zum Ufer ist heute unerlässlich.",
             "hu": "Reggel a Rajnai sétány látványát kényelmesen, a száraz autóból élvezzük. Délben az út az Obermörmter sportkikötőhöz vezet, ahol az esőben pihenő hajókat figyelhetjük meg. Délután a Wisseler See és a Mahnensee következik; a tóvidék esőben különösen békés arcát mutatja. Estére érjük el az Empelsches Meert; egy esernyő a partig tartó rövid sétákhoz ma nélkülözhetetlen.",
             "ro": "Dimineața admirăm faleza Rinului din confortul mașinii uscate. La prânz, drumul ne duce la portul sportiv Obermörmter, unde observăm ambarcațiunile pe ploaie. După-amiaza vizităm lacurile Wissel și Mahnen; peisajul lacustru pare deosebit de liniștit pe ploaie. Seara ajungem la Empelsche Meer; o umbrelă pentru scurte plimbări până la mal este indispensabilă astăzi.",
-            "en": "Morning starts by enjoying the Rhine promenade from the comfort of our dry car. At noon, the drive leads to Sporthafen Obermörmter to watch the boats in the rain. Afternoon visits to Wisseler See and Mahnensee reveal a peaceful lakeside atmosphere. By evening we reach Empelsches Meer; a sturdy umbrella for short walks to the shore is essential for today's trip."
+            "en": "Morning starts by enjoying the Rhine promenade from the comfort of our dry car. At noon, the drive leads to Sporthafen Obermörmter to watch the boats in the rain. Afternoon visits to Wisseler See and Mahnensee reveal a peaceful lakeside atmosphere. By evening we reach Empelsches Meer; a sturdy umbrella for short walks to the shore is essential for today's trip.",
+            "tr": "Sabah, kuru aracımızın konforunda Ren promenadının tadını çıkararak başlıyor. Öğlen, tekneleri yağmurda izlemek için Sporthafen Obermörmter'e gidiyoruz. Öğleden sonraki ziyaretler Wisseler See ve Mahnensee'de huzurlu bir göl kenarı atmosferi sunuyor. Akşamüstü Empelsches Meer'e varıyoruz; kıyıya kısa yürüyüşler için sağlam bir şemsiye bugün için elzem."
           },
           "stops": [
             {
@@ -738,13 +816,15 @@
                 "de": "Rheinpromenade",
                 "hu": "Rajnai sétány",
                 "ro": "Promenada Rinului",
-                "en": "Rhine Promenade"
+                "en": "Rhine Promenade",
+                "tr": "Rhine Promenade"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkplätze mit direktem Blick auf den Fluss, um das Panorama trocken zu genießen. Ein kurzer Gang mit Schirm lohnt sich für die frische Luft.",
                 "hu": "Használja a folyóra néző parkolókat, hogy szárazon élvezze a panorámát. Egy rövid, esernyős séta a friss levegőért még esőben is megéri a fák alatt.",
                 "ro": "Folosiți locurile de parcare cu vedere directă la râu pentru a admira panorama la uscat. O scurtă plimbare cu umbrela merită pentru aerul curat de pe mal.",
-                "en": "Use the parking spaces with a direct river view to enjoy the panorama while staying dry. A short walk with an umbrella is worth it for the fresh air."
+                "en": "Use the parking spaces with a direct river view to enjoy the panorama while staying dry. A short walk with an umbrella is worth it for the fresh air.",
+                "tr": "Doğrudan nehir manzaralı park yerlerini kullanarak panoramanın tadını çıkarın ve kuru kalın. Şemsiye ile kısa bir yürüyüş taze hava için değer."
               }
             },
             {
@@ -752,13 +832,15 @@
                 "de": "Sporthafen Obermörmter",
                 "hu": "Obermörmter sportkikötő",
                 "ro": "Portul sportiv Obermörmter",
-                "en": "Sporthafen Obermörmter"
+                "en": "Sporthafen Obermörmter",
+                "tr": "Sporthafen Obermörmter"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Treiben im Hafen durch die Frontscheibe; Regen erzeugt eine ruhige Stimmung. Achten Sie beim Aussteigen auf Pfützen auf dem unebenen Boden.",
                 "hu": "Figyelje a kikötői életet a szélvédőn keresztül; az eső különleges, nyugodt hangulatot áraszt. Kiszálláskor ügyeljen a tócsákra az egyenetlen talajon.",
                 "ro": "Observați activitatea din port prin parbriz; ploaia creează o atmosferă foarte liniștită. Atenție la bălțile de pe solul denivelat când coborâți din mașină.",
-                "en": "Watch the harbor activity through the windshield; the rain creates a very calm atmosphere. Be careful of puddles on the uneven ground when stepping out."
+                "en": "Watch the harbor activity through the windshield; the rain creates a very calm atmosphere. Be careful of puddles on the uneven ground when stepping out.",
+                "tr": "Camdan liman hareketliliğini izleyin; yağmur çok sakin bir atmosfer yaratır. Dışarı çıkarken düzensiz zemindeki su birikintilerine dikkat edin."
               }
             },
             {
@@ -766,13 +848,15 @@
                 "de": "Wisseler See",
                 "hu": "Wisseler See",
                 "ro": "Lacul Wissel",
-                "en": "Wisseler See"
+                "en": "Wisseler See",
+                "tr": "Wisseler See"
               },
               "tip_5lang": {
                 "de": "Der große See wirkt bei Regen weitläufig und mystisch; ideal für Fotos aus dem geschützten Auto heraus. Die Zufahrtswege können stellenweise rutschig sein.",
                 "hu": "A hatalmas tó esőben tágasnak és titokzatosnak tűnik; ideális fotótéma a védett autóból is. A bekötőutak helyenként csúszósak lehetnek a sár miatt.",
                 "ro": "Lacul mare pare vast și mistic pe ploaie; ideal pentru fotografii din interiorul mașinii. Drumurile de acces pot fi alunecoase în unele locuri.",
-                "en": "The large lake looks vast and mystical in the rain; ideal for photos from the sheltered car. The access roads can be slippery in places due to the mud."
+                "en": "The large lake looks vast and mystical in the rain; ideal for photos from the sheltered car. The access roads can be slippery in places due to the mud.",
+                "tr": "Büyük göl yağmurda geniş ve mistik görünür; korunaklı araçtan fotoğraf çekmek ideal. Erişim yolları bazı yerlerde çamur nedeniyle kaygan olabilir."
               }
             },
             {
@@ -780,13 +864,15 @@
                 "de": "Mahnensee",
                 "hu": "Mahnensee",
                 "ro": "Lacul Mahnen",
-                "en": "Mahnensee"
+                "en": "Mahnensee",
+                "tr": "Mahnensee"
               },
               "tip_5lang": {
                 "de": "Suchen Sie einen Parkplatz nah am Ufer für einen Blick auf die regnerische Wasserfläche. Halten Sie die Scheibenheizung bereit, damit die Sicht klar bleibt.",
                 "hu": "Keressen parkolóhelyet közel a parthoz, hogy rálásson az eső áztatta vízfelületre. Használja a szélvédőfűtést, hogy a látási viszonyok tiszták maradjanak.",
                 "ro": "Căutați un loc de parcare aproape de mal pentru o vedere asupra apei plouate. Folosiți dezaburirea parbrizului pentru a menține vizibilitatea clară.",
-                "en": "Find a parking spot close to the shore for a view of the rain-soaked water surface. Keep the windshield defroster on to ensure clear visibility."
+                "en": "Find a parking spot close to the shore for a view of the rain-soaked water surface. Keep the windshield defroster on to ensure clear visibility.",
+                "tr": "Yağmurla ıslanmış su yüzeyinin manzarası için kıyıya yakın bir park yeri bulun. Net görüş için silecek ve buğu çözücünüzü açık tutun."
               }
             },
             {
@@ -794,13 +880,15 @@
                 "de": "Empelsches Meer",
                 "hu": "Empelsches Meer",
                 "ro": "Empelsches Meer",
-                "en": "Empelsches Meer"
+                "en": "Empelsches Meer",
+                "tr": "Empelsches Meer"
               },
               "tip_5lang": {
                 "de": "Ein schöner Abschluss der Tour; der Regen trommelt beruhigend auf das Autodach. Prüfen Sie vor der Rückfahrt die Wischerblätter auf volle Funktion.",
                 "hu": "A túra szép zárása; az eső megnyugtatóan kopog az autótetőn a természet lágy ölén. Hazaindulás előtt ellenőrizze az ablaktörlők tökéletes működését.",
                 "ro": "Un final frumos al turului; ploaia bate liniștitor pe plafonul mașinii în mijlocul naturii. Verificați ștergătoarele înainte de drumul de întoarcere.",
-                "en": "A beautiful end to the tour; the rain drums soothingly on the car roof. Check your wiper blades for full functionality before the drive home."
+                "en": "A beautiful end to the tour; the rain drums soothingly on the car roof. Check your wiper blades for full functionality before the drive home.",
+                "tr": "Turun güzel bir sonu; yağmur aracın tavanına sakinleştirici bir şekilde vurur. Eve dönüşten önce silecek lastiklerinizi kontrol edin."
               }
             }
           ]
@@ -810,7 +898,8 @@
             "de": "Morgens genießen wir die Aussicht auf den winterlichen Rhein bei eingeschalteter Autoheizung. Mittags führt die Fahrt zum Sporthafen Obermörmter, wo der Frost die Masten der Schiffe verziert. Nachmittags besuchen wir den Wisseler See und Mahnensee; die klare Winterluft sorgt für weite Sicht. Den Stopp am Empelschen Meer legen wir vor 17:00 Uhr ein, bevor die Dunkelheit die Seenlandschaft einhüllt.",
             "hu": "Reggel a téli Rajna látványát élvezzük a bekapcsolt autóhűtés mellett. Délben az út az Obermörmter sportkikötőhöz vezet, ahol a dér díszíti a hajók árbocait. Délután a Wisseler See és a Mahnensee következik; a tiszta téli levegő távoli kilátást biztosít. Az Empelsches Meernél tett megállót még 17:00 előttre időzítjük, mielőtt a sötétség leszáll.",
             "ro": "Dimineața admirăm Rinul hibernal cu încălzirea mașinii pornită. La prânz, drumul ne duce la portul sportiv Obermörmter, unde chiciura decorează catargele. După-amiaza vizităm lacurile Wissel și Mahnen; aerul curat oferă o vizibilitate excelentă. Facem popasul la Empelsche Meer înainte de ora 17:00, înainte ca întunericul să cuprindă totul.",
-            "en": "Morning starts with views of the wintry Rhine with the car heater on. At noon, the drive leads to Sporthafen Obermörmter, where frost decorates the boat masts. Afternoon visits to Wisseler See and Mahnensee offer clear views thanks to the crisp air. We schedule the stop at Empelsches Meer before 17:00, before darkness envelops the landscape."
+            "en": "Morning starts with views of the wintry Rhine with the car heater on. At noon, the drive leads to Sporthafen Obermörmter, where frost decorates the boat masts. Afternoon visits to Wisseler See and Mahnensee offer clear views thanks to the crisp air. We schedule the stop at Empelsches Meer before 17:00, before darkness envelops the landscape.",
+            "tr": "Sabah, araba kaloriferi açıkken kışlık Ren manzaralarıyla başlıyor. Öğlen, teknelerin direklerine don kondurduğu Sporthafen Obermörmter'e gidiyoruz. Öğleden sonra Wisseler See ve Mahnensee, temiz havanın verdiği net görüşler sunuyor. Empelsches Meer durağını saat 17:00'den önce, karanlık çökmadan önce planlıyoruz."
           },
           "stops": [
             {
@@ -818,13 +907,15 @@
                 "de": "Rheinpromenade",
                 "hu": "Rajnai sétány",
                 "ro": "Promenada Rinului",
-                "en": "Rhine Promenade"
+                "en": "Rhine Promenade",
+                "tr": "Rhine Promenade"
               },
               "tip_5lang": {
                 "de": "Vom warmen Fahrersitz aus haben Sie den besten Blick auf die Eisschollen im Fluss. Vorsicht beim Parken auf eventuell nicht geräumten Flächen am Ufer.",
                 "hu": "A meleg vezetőülésből nyílik a legjobb kilátás a folyón úszó jégtáblákra. Legyen óvatos a parkoláskor a parthoz közeli, esetleg le nem takarított részeken.",
                 "ro": "Din scaunul cald al șoferului aveți cea mai bună vedere asupra sloiurilor de gheață. Atenție la parcare în zonele de pe mal care pot fi necurățate de zăpadă.",
-                "en": "From the warm driver's seat, you have the best view of the ice floes in the river. Be careful when parking on potentially uncleared areas near the bank."
+                "en": "From the warm driver's seat, you have the best view of the ice floes in the river. Be careful when parking on potentially uncleared areas near the bank.",
+                "tr": "Sıcak sürücü koltuğundan nehirdeki buz sürülerini en iyi şekilde izleyebilirsiniz. Banka yakınlarında muhtemelen temizlenmemiş alanlara park ederken dikkatli olun."
               }
             },
             {
@@ -832,13 +923,15 @@
                 "de": "Sporthafen Obermörmter",
                 "hu": "Obermörmter sportkikötő",
                 "ro": "Portul sportiv Obermörmter",
-                "en": "Sporthafen Obermörmter"
+                "en": "Sporthafen Obermörmter",
+                "tr": "Sporthafen Obermörmter"
               },
               "tip_5lang": {
                 "de": "Die gefrorenen Taue im Hafen sind ein tolles Fotomotiv; bleiben Sie im Auto, um nicht auszukühlen. Achten Sie auf Glatteis auf den Zufahrtsrampen zum Wasser.",
                 "hu": "A kikötőben megfagyott kötelek remek fotótémák; maradjon az autóban, hogy ne hűljön ki. Ügyeljen a jegesedésre a vízhez vezető lejtős bekötőutakon.",
                 "ro": "Frânghiile înghețate din port sunt motive foto grozave; rămâneți în mașină pentru a nu vă răci. Atenție la polei pe rampele de acces spre apă.",
-                "en": "The frozen ropes in the harbor are great photo motifs; stay in the car to keep warm. Watch out for black ice on the access ramps leading to the water."
+                "en": "The frozen ropes in the harbor are great photo motifs; stay in the car to keep warm. Watch out for black ice on the access ramps leading to the water.",
+                "tr": "Limanın donmuş halatları harika fotoğraf motifleri sunar; sıcak kalmak için araç içinde kalın. Suyu gösteren rampa erişimlerinde siyah buz olabileceğine dikkat edin."
               }
             },
             {
@@ -846,13 +939,15 @@
                 "de": "Wisseler See",
                 "hu": "Wisseler See",
                 "ro": "Lacul Wissel",
-                "en": "Wisseler See"
+                "en": "Wisseler See",
+                "tr": "Wisseler See"
               },
               "tip_5lang": {
                 "de": "Bei klarem Frostwetter ist die Sicht über den See fantastisch; nutzen Sie eine Sonnenbrille gegen die Schneereflektion. Die Parkplatzsuche ist im Winter einfach.",
                 "hu": "Tiszta, fagyos időben a kilátás a tó felett fantasztikus; használjon napszemüveget a hó visszatükröződése ellen. Télen a parkolóhely-keresés nagyon egyszerű.",
                 "ro": "Pe vreme geroasă și senină, vederea peste lac este fantastică; folosiți ochelari de soare împotriva reflexiei zăpezii. Parcarea este ușoară pe timp de iarnă.",
-                "en": "In clear, frosty weather, the view across the lake is fantastic; use sunglasses against the snow glare. Finding a parking spot is very easy in the winter."
+                "en": "In clear, frosty weather, the view across the lake is fantastic; use sunglasses against the snow glare. Finding a parking spot is very easy in the winter.",
+                "tr": "Açık, donlu havada göl boyunca manzara muhteşemdir; kar parlamasına karşı güneş gözlüğü kullanın. Kışın park yeri bulmak çok kolaydır."
               }
             },
             {
@@ -860,13 +955,15 @@
                 "de": "Mahnensee",
                 "hu": "Mahnensee",
                 "ro": "Lacul Mahnen",
-                "en": "Mahnensee"
+                "en": "Mahnensee",
+                "tr": "Mahnensee"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für eine kurze Pause mit heißem Kaffee aus der Thermoskanne im warmen Wagen. Prüfen Sie die Frostschutzkonzentration im Wischwasser.",
                 "hu": "Ideális hely egy rövid szünethez a meleg autóban, egy termosznyi forró kávé társaságában. Ellenőrizze a fagyálló koncentrációját az ablakmosó folyadékban.",
                 "ro": "Un loc ideal pentru o scurtă pauză cu cafea fierbinte din termos în mașina caldă. Verificați concentrația de antigel din lichidul de parbriz.",
-                "en": "An ideal spot for a short break with hot coffee from a thermos in the warm car. Check the antifreeze concentration in your windshield washer fluid."
+                "en": "An ideal spot for a short break with hot coffee from a thermos in the warm car. Check the antifreeze concentration in your windshield washer fluid.",
+                "tr": "Sıcak arabada termosla alınmış sıcak kahve için kısa bir mola için ideal bir nokta. Cam suyu antifriz konsantrasyonunu kontrol edin."
               }
             },
             {
@@ -874,13 +971,15 @@
                 "de": "Empelsches Meer",
                 "hu": "Empelsches Meer",
                 "ro": "Empelsches Meer",
-                "en": "Empelsches Meer"
+                "en": "Empelsches Meer",
+                "tr": "Empelsches Meer"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die blaue Stunde über dem gefrorenen See, bevor die Kälte der Nacht zunimmt. Fahren Sie bei einsetzender Dunkelheit besonders vorausschauend.",
                 "hu": "Élje át a kék órát a befagyott tó felett, mielőtt az éjszakai hideg felerősödne. A sötétség beálltával vezessen különösen előrelátóan a jeges utakon.",
                 "ro": "Experimentați „ora albastră” deasupra lacului înghețat înainte ca gerul nopții să crească. Conduceți cu prudență sporită pe măsură ce se lasă întunericul.",
-                "en": "Experience the blue hour over the frozen lake before the night's cold intensifies. Drive with extra caution as darkness sets in on potentially icy roads."
+                "en": "Experience the blue hour over the frozen lake before the night's cold intensifies. Drive with extra caution as darkness sets in on potentially icy roads.",
+                "tr": "Gecenin soğuğu yoğunlaşmadan önce donmuş gölün üzerindeki mavi saati deneyimleyin. Karanlık çökerken muhtemelen buzlu yollarda ekstra dikkatle sürün."
               }
             }
           ]

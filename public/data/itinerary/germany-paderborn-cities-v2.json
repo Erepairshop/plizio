@@ -21,7 +21,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața de piață",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             8.7548,
@@ -37,7 +38,8 @@
             "de": "Samstags findet hier der bunte Wochenmarkt statt.",
             "hu": "Szombatonként színes heti piac várja a látogatókat.",
             "ro": "Sâmbăta are loc aici piața săptămânală colorată.",
-            "en": "On Saturdays, the colorful weekly market takes place here."
+            "en": "On Saturdays, the colorful weekly market takes place here.",
+            "tr": "Cumartesileri burada renkli haftalık pazar kurulur."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Rathaus Paderborn",
             "hu": "Paderborni Városháza",
             "ro": "Primăria Paderborn",
-            "en": "Paderborn Town Hall"
+            "en": "Paderborn Town Hall",
+            "tr": "Paderborn Belediye Binası"
           },
           "coords": [
             8.7538,
@@ -61,7 +64,8 @@
             "de": "Prachtbau der Weserrenaissance mit drei Giebeln.",
             "hu": "Weser-reneszánsz remekmű három díszes oromzattal.",
             "ro": "Clădire superbă în stil Renașterea Weser cu trei frontoane.",
-            "en": "Weser Renaissance masterpiece with three gables."
+            "en": "Weser Renaissance masterpiece with three gables.",
+            "tr": "Üç alınlıklı Weser Rönesans başyapıtı."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Adam-und-Eva-Haus",
             "hu": "Ádám és Éva ház",
             "ro": "Casa Adam și Eva",
-            "en": "Adam and Eve House"
+            "en": "Adam and Eve House",
+            "tr": "Adem ve Havva Evi"
           },
           "coords": [
             8.7545,
@@ -85,7 +90,8 @@
             "de": "Ältestes Fachwerkhaus der Stadt mit Schnitzereien.",
             "hu": "A város legrégebbi fagerendás háza faragványokkal.",
             "ro": "Cea mai veche casă cu paiantă din oraș, cu sculpturi.",
-            "en": "City's oldest half-timbered house with intricate carvings."
+            "en": "City's oldest half-timbered house with intricate carvings.",
+            "tr": "Şehrin en eski yarı ahşap evi, ince oymalarla."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Paderborner Dom",
             "hu": "Paderborni dóm",
             "ro": "Catedrala din Paderborn",
-            "en": "Paderborn Cathedral"
+            "en": "Paderborn Cathedral",
+            "tr": "Paderborn Katedrali"
           },
           "coords": [
             8.7562,
@@ -109,7 +116,8 @@
             "de": "Suchen Sie das berühmte Drei-Hasen-Fenster im Kreuzgang.",
             "hu": "Keresse a híres Három Nyúl ablakot a kerengőben.",
             "ro": "Căutați faimoasa fereastră cu Trei Iepuri în claustru.",
-            "en": "Look for the famous Three Hares window in the cloister."
+            "en": "Look for the famous Three Hares window in the cloister.",
+            "tr": "Manastırdaki ünlü Üç Tavşan camına bakın."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Kaiserpfalz",
             "hu": "Császári palota",
             "ro": "Palatul Imperial",
-            "en": "Imperial Palace"
+            "en": "Imperial Palace",
+            "tr": "İmparatorluk Sarayı"
           },
           "coords": [
             8.7565,
@@ -133,7 +142,8 @@
             "de": "Museum über die Zeit Karls des Großen.",
             "hu": "Múzeum Nagy Károly koráról és a palota történetéről.",
             "ro": "Muzeu despre perioada lui Carol cel Mare.",
-            "en": "Museum showcasing the era of Charlemagne."
+            "en": "Museum showcasing the era of Charlemagne.",
+            "tr": "Şarlman dönemini sergileyen müze."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Bartholomäuskapelle",
             "hu": "Bertalan-kápolna",
             "ro": "Capela Sf. Bartolomeu",
-            "en": "Bartholomew Chapel"
+            "en": "Bartholomew Chapel",
+            "tr": "Bartholomew Şapeli"
           },
           "coords": [
             8.7567,
@@ -157,7 +168,8 @@
             "de": "Älteste Hallenkirche nördlich der Alpen mit toller Akustik.",
             "hu": "Az Alpoktól északra fekvő legrégebbi csarnoktemplom.",
             "ro": "Cea mai veche biserică hală la nord de Alpi.",
-            "en": "Oldest hall church north of the Alps with great acoustics."
+            "en": "Oldest hall church north of the Alps with great acoustics.",
+            "tr": "Alpler'in kuzeyindeki en eski salon kilisesi, harika akustiğe sahip."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Gaukirche",
             "hu": "Gaukirche",
             "ro": "Gaukirche",
-            "en": "Gaukirche"
+            "en": "Gaukirche",
+            "tr": "Gaukirche"
           },
           "coords": [
             8.7562,
@@ -181,7 +194,8 @@
             "de": "Romanische Kirche direkt gegenüber dem Domgelände.",
             "hu": "Román stílusú templom közvetlenül a dóm mellett.",
             "ro": "Biserică romanică situată vis-a-vis de catedrală.",
-            "en": "Romanesque church located directly opposite the cathedral."
+            "en": "Romanesque church located directly opposite the cathedral.",
+            "tr": "Katedralin tam karşısında yer alan Romanesk kilise."
           }
         },
         {
@@ -189,7 +203,8 @@
             "de": "Paderquellen",
             "hu": "Pader-források",
             "ro": "Izvoarele Pader",
-            "en": "Pader Springs"
+            "en": "Pader Springs",
+            "tr": "Pader Kaynakları"
           },
           "coords": [
             8.7515,
@@ -205,7 +220,8 @@
             "de": "Über 200 Quellen bilden den kürzesten Fluss Deutschlands.",
             "hu": "Több mint 200 forrás alkotja Németország legrövidebb folyóját.",
             "ro": "Peste 200 de izvoare formează cel mai scurt râu din Germania.",
-            "en": "Over 200 springs form Germany's shortest river."
+            "en": "Over 200 springs form Germany's shortest river.",
+            "tr": "200'den fazla kaynak Almanya'nın en kısa nehrini oluşturur."
           }
         }
       ],
@@ -213,7 +229,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem historischen Marktplatz und bewundern Sie das imposante Rathaus. Ein kurzer Spaziergang führt Sie zum Adam-und-Eva-Haus und zum majestätischen Dom mit seiner Kaiserpfalz. Am Nachmittag entdecken Sie die Stille der Bartholomäuskapelle und die romanische Gaukirche. Den Abschluss bildet ein entspannter Spaziergang an den Paderquellen, wo das Wasser direkt aus dem Boden sprudelt.",
         "hu": "Kezdje a napot a történelmi piactéren, és csodálja meg az impozáns városházát. Egy rövid séta elvezeti az Ádám és Éva házhoz, majd a fenséges dómhoz és a Császári palotához. Délután fedezze fel a Bertalan-kápolna csendjét és a román stílusú Gaukirche-t. A napot a Pader-forrásoknál zárja, ahol a víz közvetlenül a város szívében tör fel a föld alól.",
         "ro": "Începeți ziua în piața istorică și admirați primăria impunătoare. O scurtă plimbare vă duce la Casa Adam și Eva și la maiestuoasa catedrală cu Palatul Imperial. După-amiaza, descoperiți liniștea Capelei Sf. Bartolomeu și biserica romanică Gaukirche. Încheiați cu o plimbare relaxantă la izvoarele Pader, unde apa țâșnește direct din pământ în centrul orașului.",
-        "en": "Start your day at the historic market square and admire the imposing town hall. A short walk takes you to the Adam and Eve House and the majestic cathedral with its Imperial Palace. In the afternoon, discover the silence of the Bartholomew Chapel and the Romanesque Gaukirche. Finish with a relaxed stroll at the Pader springs, where the water bubbles directly from the ground in the city center."
+        "en": "Start your day at the historic market square and admire the imposing town hall. A short walk takes you to the Adam and Eve House and the majestic cathedral with its Imperial Palace. In the afternoon, discover the silence of the Bartholomew Chapel and the Romanesque Gaukirche. Finish with a relaxed stroll at the Pader springs, where the water bubbles directly from the ground in the city center.",
+        "tr": "Gününüzü tarihi pazar meydanında başlayıp etkileyici belediye binasını izleyin. Kısa bir yürüyüşle Adem ve Havva Evi'ne ve İmparatorluk Sarayı ile görkemli katedrale ulaşın. Öğleden sonra Bartholomew Şapeli'nin dinginliğini ve Romanesk Gaukirche'yi keşfedin. Gününüzü şehir merkezinde yerden fışkıran suyun bulunduğu Pader kaynaklarında rahat bir yürüyüşle bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -373,6 +390,12 @@
           "Visit the tourist information at the town hall for city maps.",
           "The Pader springs are especially beautiful in spring.",
           "Keep an eye out for the many small fountains throughout the city."
+        ],
+        "tr": [
+          "Paderborn çok düz olup yürüyerek keşfetmek için mükemmeldir.",
+          "Şehir haritaları için belediye binasındaki tourist information'ı ziyaret edin.",
+          "Pader kaynakları özellikle ilkbaharda çok güzeldir.",
+          "Şehirdeki birçok küçük çeşmeye dikkat edin."
         ]
       }
     },
@@ -389,7 +412,8 @@
             "de": "Rathaus Paderborn",
             "hu": "Paderborni Városháza",
             "ro": "Primăria Paderborn",
-            "en": "Paderborn Town Hall"
+            "en": "Paderborn Town Hall",
+            "tr": "Paderborn Belediye Binası"
           },
           "coords": [
             8.7538,
@@ -405,7 +429,8 @@
             "de": "Startpunkt im Herzen der Stadt.",
             "hu": "A város szívében fekvő kiindulópont.",
             "ro": "Punct de plecare în inima orașului.",
-            "en": "Starting point in the heart of the city."
+            "en": "Starting point in the heart of the city.",
+            "tr": "Şehrin kalbindeki başlangıç noktası."
           }
         },
         {
@@ -413,7 +438,8 @@
             "de": "Paderborner Dom",
             "hu": "Paderborni dóm",
             "ro": "Catedrala din Paderborn",
-            "en": "Paderborn Cathedral"
+            "en": "Paderborn Cathedral",
+            "tr": "Paderborn Katedrali"
           },
           "coords": [
             8.7562,
@@ -429,7 +455,8 @@
             "de": "Fahrradabstellplätze direkt am Domplatz.",
             "hu": "Kerékpártárolók közvetlenül a dóm téren.",
             "ro": "Parcare pentru biciclete chiar în piața catedralei.",
-            "en": "Bicycle parking available directly at the cathedral square."
+            "en": "Bicycle parking available directly at the cathedral square.",
+            "tr": "Katedral meydanında doğrudan bisiklet park yeri mevcut."
           }
         },
         {
@@ -437,7 +464,8 @@
             "de": "Paderquellen",
             "hu": "Pader-források",
             "ro": "Izvoarele Pader",
-            "en": "Pader Springs"
+            "en": "Pader Springs",
+            "tr": "Pader Kaynakları"
           },
           "coords": [
             8.7515,
@@ -453,7 +481,8 @@
             "de": "Schieben Sie das Rad durch die Parkanlage.",
             "hu": "Tolja a biciklit a park területén.",
             "ro": "Împingeți bicicleta prin zona parcului.",
-            "en": "Please walk your bike through the park area."
+            "en": "Please walk your bike through the park area.",
+            "tr": "Park alanı boyunca lütfen bisikletinizi yürüyerek geçin."
           }
         },
         {
@@ -461,7 +490,8 @@
             "de": "Heinz Nixdorf MuseumsForum",
             "hu": "Heinz Nixdorf MúzeumFórum",
             "ro": "Heinz Nixdorf MuseumsForum",
-            "en": "Heinz Nixdorf MuseumsForum"
+            "en": "Heinz Nixdorf MuseumsForum",
+            "tr": "Heinz Nixdorf MuseumsForum"
           },
           "coords": [
             8.7365,
@@ -477,7 +507,8 @@
             "de": "Größtes Computermuseum der Welt.",
             "hu": "A világ legnagyobb számítástechnikai múzeuma.",
             "ro": "Cel mai mare muzeu de calculatoare din lume.",
-            "en": "The world's largest computer museum."
+            "en": "The world's largest computer museum.",
+            "tr": "Dünyanın en büyük bilgisayar müzesi."
           }
         },
         {
@@ -485,7 +516,8 @@
             "de": "Schloss Neuhaus",
             "hu": "Neuhaus-kastély",
             "ro": "Castelul Neuhaus",
-            "en": "Schloss Neuhaus"
+            "en": "Schloss Neuhaus",
+            "tr": "Schloss Neuhaus"
           },
           "coords": [
             8.7115,
@@ -501,7 +533,8 @@
             "de": "Wunderschönes Wasserschloss mit Barockgarten.",
             "hu": "Gyönyörű vízi kastély barokk kerttel.",
             "ro": "Castel pe apă superb cu grădină barocă.",
-            "en": "Beautiful water castle with a Baroque garden."
+            "en": "Beautiful water castle with a Baroque garden.",
+            "tr": "Barok bir bahçeye sahip güzel su kalesi."
           }
         },
         {
@@ -509,7 +542,8 @@
             "de": "Gaukirche",
             "hu": "Gaukirche",
             "ro": "Gaukirche",
-            "en": "Gaukirche"
+            "en": "Gaukirche",
+            "tr": "Gaukirche"
           },
           "coords": [
             8.7562,
@@ -525,7 +559,8 @@
             "de": "Rückkehr in die Altstadt zum Abschluss.",
             "hu": "Visszatérés az óvárosba a nap végén.",
             "ro": "Revenire în centrul vechi pentru final.",
-            "en": "Return to the old town to finish the day."
+            "en": "Return to the old town to finish the day.",
+            "tr": "Günü bitirmek için eski kente geri dönün."
           }
         }
       ],
@@ -533,7 +568,8 @@
         "de": "Diese Radtour verbindet die historische Altstadt mit modernen Museen und prachtvollen Schlössern. Nach dem Start am Rathaus und dem Besuch des Doms radeln Sie entlang der Pader zum weltgrößten Computermuseum. Ein Highlight ist das Wasserschloss Neuhaus mit seinen weitläufigen Gärten, bevor Sie gemütlich zurück ins Zentrum fahren.",
         "hu": "Ez a kerékpártúra összeköti a történelmi óvárost a modern múzeumokkal és pompás kastélyokkal. A városházi indulás és a dóm megtekintése után a Pader mentén kerekezik a világ legnagyobb számítástechnikai múzeumához. A túra fénypontja a Neuhaus-kastély és annak hatalmas kertje, mielőtt kényelmesen visszatérne a központba.",
         "ro": "Acest tur cu bicicleta îmbină centrul istoric cu muzeele moderne și castelele somptuoase. După plecarea de la primărie și vizitarea catedralei, pedalați de-a lungul râului Pader către cel mai mare muzeu de calculatoare din lume. Un punct culminant este castelul Neuhaus cu grădinile sale vaste, înainte de a reveni relaxat în centru.",
-        "en": "This bike tour connects the historic old town with modern museums and grand palaces. After starting at the town hall and visiting the cathedral, you'll cycle along the Pader to the world's largest computer museum. A highlight is the Neuhaus water castle and its extensive gardens, before a leisurely ride back to the center."
+        "en": "This bike tour connects the historic old town with modern museums and grand palaces. After starting at the town hall and visiting the cathedral, you'll cycle along the Pader to the world's largest computer museum. A highlight is the Neuhaus water castle and its extensive gardens, before a leisurely ride back to the center.",
+        "tr": "Bu bisiklet turu, tarihi eski kenti modern müzeler ve görkemli saraylarla birleştirir. Belediye binasında başlayıp katedrali ziyaret ettikten sonra Pader boyunca dünyanın en büyük bilgisayar müzesine bisikletle ulaşacaksınız. Öne çıkan noktalardan biri Neuhaus su kalesi ve geniş bahçeleri, ardından merkeze keyifli bir dönüş."
       },
       "gastro_picks": {
         "de": [
@@ -641,6 +677,12 @@
           "HNF offers free lockers for helmets.",
           "Schloss Neuhaus has many shaded paths.",
           "Check the castle opening hours in advance."
+        ],
+        "tr": [
+          "Rahat bir rota için Pader bisiklet yolunu takip edin.",
+          "HNF kasklar için ücretsiz dolaplar sunar.",
+          "Schloss Neuhaus'un birçok gölgeli yolu vardır.",
+          "Kale açılış saatlerini önceden kontrol edin."
         ]
       }
     },
@@ -657,7 +699,8 @@
             "de": "Paderborner Dom",
             "hu": "Paderborni dóm",
             "ro": "Catedrala din Paderborn",
-            "en": "Paderborn Cathedral"
+            "en": "Paderborn Cathedral",
+            "tr": "Paderborn Katedrali"
           },
           "coords": [
             8.7562,
@@ -673,7 +716,8 @@
             "de": "Parken Sie im Parkhaus am Domplatz.",
             "hu": "Parkoljon a dóm téri parkolóházban.",
             "ro": "Parcați în parcarea de la piața catedralei.",
-            "en": "Park in the multi-story car park at Cathedral Square."
+            "en": "Park in the multi-story car park at Cathedral Square.",
+            "tr": "Katedral Meydanı'ndaki çok katlı otoparka park edin."
           }
         },
         {
@@ -681,7 +725,8 @@
             "de": "Kaiserpfalz",
             "hu": "Császári palota",
             "ro": "Palatul Imperial",
-            "en": "Imperial Palace"
+            "en": "Imperial Palace",
+            "tr": "İmparatorluk Sarayı"
           },
           "coords": [
             8.7565,
@@ -697,7 +742,8 @@
             "de": "Direkt neben dem Dom, kein Autowechsel nötig.",
             "hu": "Közvetlenül a dóm mellett, nem kell autóba ülni.",
             "ro": "Chiar lângă catedrală, nu e nevoie de mașină.",
-            "en": "Right next to the cathedral, no need to move the car."
+            "en": "Right next to the cathedral, no need to move the car.",
+            "tr": "Katedralin hemen yanında, arabayı taşımaya gerek yok."
           }
         },
         {
@@ -705,7 +751,8 @@
             "de": "Rathaus Paderborn",
             "hu": "Paderborni Városháza",
             "ro": "Primăria Paderborn",
-            "en": "Paderborn Town Hall"
+            "en": "Paderborn Town Hall",
+            "tr": "Paderborn Belediye Binası"
           },
           "coords": [
             8.7538,
@@ -721,7 +768,8 @@
             "de": "Kurzer Spaziergang durch die Fußgängerzone.",
             "hu": "Rövid séta a sétálóutcán keresztül.",
             "ro": "Scurtă plimbare prin zona pietonală.",
-            "en": "Short stroll through the pedestrian zone."
+            "en": "Short stroll through the pedestrian zone.",
+            "tr": "Yaya bölgesinden kısa bir yürüyüş."
           }
         },
         {
@@ -729,7 +777,8 @@
             "de": "Heinz Nixdorf MuseumsForum",
             "hu": "Heinz Nixdorf MúzeumFórum",
             "ro": "Heinz Nixdorf MuseumsForum",
-            "en": "Heinz Nixdorf MuseumsForum"
+            "en": "Heinz Nixdorf MuseumsForum",
+            "tr": "Heinz Nixdorf Müzeler Forumu"
           },
           "coords": [
             8.7365,
@@ -745,7 +794,8 @@
             "de": "Großer kostenloser Parkplatz direkt vor der Tür.",
             "hu": "Nagy ingyenes parkoló közvetlenül a bejáratnál.",
             "ro": "Parcare mare gratuită chiar în fața porții.",
-            "en": "Large free parking lot right in front."
+            "en": "Large free parking lot right in front.",
+            "tr": "Tam önünde büyük ücretsiz otopark."
           }
         },
         {
@@ -753,7 +803,8 @@
             "de": "Schloss Neuhaus",
             "hu": "Neuhaus-kastély",
             "ro": "Castelul Neuhaus",
-            "en": "Schloss Neuhaus"
+            "en": "Schloss Neuhaus",
+            "tr": "Schloss Neuhaus"
           },
           "coords": [
             8.7115,
@@ -769,7 +820,8 @@
             "de": "Nutzen Sie den Parkplatz 'Hermann-Löns-Stadion'.",
             "hu": "Használja a 'Hermann-Löns-Stadion' parkolót.",
             "ro": "Folosiți parcarea 'Hermann-Löns-Stadion'.",
-            "en": "Use the 'Hermann-Löns-Stadion' parking area."
+            "en": "Use the 'Hermann-Löns-Stadion' parking area.",
+            "tr": "'Hermann-Löns-Stadion' otoparkını kullanın."
           }
         },
         {
@@ -777,7 +829,8 @@
             "de": "Paderquellen",
             "hu": "Pader-források",
             "ro": "Izvoarele Pader",
-            "en": "Pader Springs"
+            "en": "Pader Springs",
+            "tr": "Pader Kaynakları"
           },
           "coords": [
             8.7515,
@@ -793,7 +846,8 @@
             "de": "Letzter Stopp vor der Abfahrt aus dem Zentrum.",
             "hu": "Utolsó megálló az elutazás előtt.",
             "ro": "Ultima oprire înainte de plecarea din centru.",
-            "en": "Final stop before leaving the center."
+            "en": "Final stop before leaving the center.",
+            "tr": "Merkezden ayrılmadan önce son durak."
           }
         }
       ],
@@ -801,7 +855,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Highlights Paderborns. Den Vormittag verbringen Sie in der Altstadt rund um den Dom und die Kaiserpfalz, wo Sie das Auto einmal stehen lassen können. Danach geht es zum HNF, dem größten Computermuseum, und schließlich zum prachtvollen Schloss Neuhaus, bevor Sie den Tag an den ruhigen Paderquellen ausklingen lassen.",
         "hu": "Autóval kényelmesen elérheti Paderborn különféle látnivalóit. A délelőttöt az óvárosban tölti a dóm és a Császári palota környékén, ahol egyszer kell csak leparkolnia. Ezután a HNF-hez, a legnagyobb számítástechnikai múzeumhoz, végül pedig a pompás Neuhaus-kastélyhoz vezet az út, mielőtt a napot a csendes Pader-forrásoknál zárná.",
         "ro": "Cu mașina puteți ajunge confortabil la diferitele atracții din Paderborn. Petreceți dimineața în centrul vechi, în jurul catedralei și al Palatului Imperial, unde puteți lăsa mașina într-un singur loc. Apoi mergeți la HNF, cel mai mare muzeu de calculatoare, și în final la somptuosul castel Neuhaus, înainte de a încheia ziua la liniștitele izvoare Pader.",
-        "en": "By car, you can comfortably reach the various highlights of Paderborn. Spend the morning in the old town around the cathedral and Imperial Palace, where you can leave the car parked once. Then it's on to the HNF, the world's largest computer museum, and finally the magnificent Schloss Neuhaus, before ending the day at the peaceful Pader springs."
+        "en": "By car, you can comfortably reach the various highlights of Paderborn. Spend the morning in the old town around the cathedral and Imperial Palace, where you can leave the car parked once. Then it's on to the HNF, the world's largest computer museum, and finally the magnificent Schloss Neuhaus, before ending the day at the peaceful Pader springs.",
+        "tr": "Arabayla Paderborn'un çeşitli önemli noktalarına rahatça ulaşabilirsiniz. Sabahı katedral ve İmparatorluk Sarayı çevresindeki eski şehirde geçirip arabayı bir kez park edin. Ardından dünyanın en büyük bilgisayar müzesi olan HNF'ye ve son olarak görkemli Schloss Neuhaus'a gidin; günü sakin Pader kaynaklarında sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -909,6 +964,12 @@
           "An environmental badge is required for the city center.",
           "Avoid rush hour traffic on the inner ring road.",
           "Parking at the HNF is free for museum visitors."
+        ],
+        "tr": [
+          "Şehir merkezindeki otopark yönlendirme sistemi çok güvenilir.",
+          "Şehir merkezi için çevre rozeti gereklidir.",
+          "İç ring yolunda yoğun saatlerden kaçının.",
+          "HNF'de otopark müze ziyaretçileri için ücretsizdir."
         ]
       }
     },
@@ -925,7 +986,8 @@
             "de": "Rathaus Paderborn",
             "hu": "Paderborni Városháza",
             "ro": "Primăria Paderborn",
-            "en": "Paderborn Town Hall"
+            "en": "Paderborn Town Hall",
+            "tr": "Paderborn Belediye Binası"
           },
           "coords": [
             8.7538,
@@ -941,7 +1003,8 @@
             "de": "Zentraler Knotenpunkt vieler Buslinien.",
             "hu": "Számos buszjárat központi csomópontja.",
             "ro": "Nod central pentru multe linii de autobuz.",
-            "en": "Central hub for many bus lines."
+            "en": "Central hub for many bus lines.",
+            "tr": "Birçok otobüs hattının merkezi düğüm noktası."
           }
         },
         {
@@ -949,7 +1012,8 @@
             "de": "Paderborner Dom",
             "hu": "Paderborni dóm",
             "ro": "Catedrala din Paderborn",
-            "en": "Paderborn Cathedral"
+            "en": "Paderborn Cathedral",
+            "tr": "Paderborn Katedrali"
           },
           "coords": [
             8.7562,
@@ -965,7 +1029,8 @@
             "de": "Nur wenige Gehminuten vom Rathaus entfernt.",
             "hu": "Csak pár perc séta a városházától.",
             "ro": "La doar câteva minute de mers pe jos de primărie.",
-            "en": "Only a few minutes' walk from the town hall."
+            "en": "Only a few minutes' walk from the town hall.",
+            "tr": "Belediye binasından sadece birkaç dakikalık yürüme mesafesinde."
           }
         },
         {
@@ -973,7 +1038,8 @@
             "de": "Paderquellen",
             "hu": "Pader-források",
             "ro": "Izvoarele Pader",
-            "en": "Pader Springs"
+            "en": "Pader Springs",
+            "tr": "Pader Kaynakları"
           },
           "coords": [
             8.7515,
@@ -989,7 +1055,8 @@
             "de": "Naherholungsgebiet mitten in der Stadt.",
             "hu": "Pihenőhely a város közepén.",
             "ro": "Zonă de recreere chiar în mijlocul orașului.",
-            "en": "Recreation area right in the city center."
+            "en": "Recreation area right in the city center.",
+            "tr": "Şehir merkezinde dinlenme alanı."
           }
         },
         {
@@ -997,7 +1064,8 @@
             "de": "Heinz Nixdorf MuseumsForum",
             "hu": "Heinz Nixdorf MúzeumFórum",
             "ro": "Heinz Nixdorf MuseumsForum",
-            "en": "Heinz Nixdorf MuseumsForum"
+            "en": "Heinz Nixdorf MuseumsForum",
+            "tr": "Heinz Nixdorf Müzeler Forumu"
           },
           "coords": [
             8.7365,
@@ -1013,7 +1081,8 @@
             "de": "Buslinie 11 fährt direkt bis vor das Museum.",
             "hu": "A 11-es busz közvetlenül a múzeum előtt áll meg.",
             "ro": "Linia de autobuz 11 oprește chiar în fața muzeului.",
-            "en": "Bus line 11 goes directly to the museum."
+            "en": "Bus line 11 goes directly to the museum.",
+            "tr": "11 numaralı otobüs hattı doğrudan müzeye gider."
           }
         },
         {
@@ -1021,7 +1090,8 @@
             "de": "Schloss Neuhaus",
             "hu": "Neuhaus-kastély",
             "ro": "Castelul Neuhaus",
-            "en": "Schloss Neuhaus"
+            "en": "Schloss Neuhaus",
+            "tr": "Schloss Neuhaus"
           },
           "coords": [
             8.7115,
@@ -1037,7 +1107,8 @@
             "de": "Linien 1, 8 oder 11 verbinden Schloss und Zentrum.",
             "hu": "Az 1, 8 vagy 11-es busz köti össze a kastélyt a központtal.",
             "ro": "Liniile 1, 8 sau 11 fac legătura între castel și centru.",
-            "en": "Lines 1, 8, or 11 connect the castle and the center."
+            "en": "Lines 1, 8, or 11 connect the castle and the center.",
+            "tr": "1, 8 veya 11 numaralı hatlar sarayı ile merkez arasını bağlar."
           }
         }
       ],
@@ -1045,7 +1116,8 @@
         "de": "Nutzen Sie das ausgezeichnete Paderborner Bussystem, um die Stadt stressfrei zu erkunden. Starten Sie am zentralen Rathaus, besuchen Sie den Dom und die nahen Paderquellen zu Fuß. Danach bringt Sie die Linie 11 zum HNF Computermuseum und weiter zum prachtvollen Schloss Neuhaus. Ein Tag voller Kultur, bequem erreichbar mit nur einem Tagesticket.",
         "hu": "Használja Paderborn kiváló buszhálózatát a város stresszmentes felfedezéséhez. Kezdjen a központi városházánál, látogasson el gyalog a dómhoz és a közeli Pader-forrásokhoz. Ezután a 11-es busz elviszi a HNF múzeumhoz, majd tovább a pompás Neuhaus-kastélyhoz. Egy kulturális nap, kényelmesen, egyetlen napijeggyel.",
         "ro": "Folosiți sistemul excelent de autobuze din Paderborn pentru a explora orașul fără stres. Începeți la primăria centrală, vizitați pe jos catedrala și izvoarele Pader din apropiere. Apoi, linia 11 vă duce la muzeul HNF și mai departe la somptuosul castel Neuhaus. O zi plină de cultură, accesibilă confortabil cu un singur bilet de o zi.",
-        "en": "Use Paderborn's excellent bus system to explore the city stress-free. Start at the central town hall, visit the cathedral and the nearby Pader springs on foot. Then, line 11 takes you to the HNF museum and on to the magnificent Schloss Neuhaus. A day full of culture, easily accessible with just one day ticket."
+        "en": "Use Paderborn's excellent bus system to explore the city stress-free. Start at the central town hall, visit the cathedral and the nearby Pader springs on foot. Then, line 11 takes you to the HNF museum and on to the magnificent Schloss Neuhaus. A day full of culture, easily accessible with just one day ticket.",
+        "tr": "Paderborn'un mükemmel otobüs sistemini kullanarak şehri stressiz keşfedin. Merkezi belediye binasında başlayın, katedrali ve yakınlardaki Pader kaynaklarını yürüyerek ziyaret edin. Ardından 11 numaralı hat sizi HNF müzesine ve görkemli Schloss Neuhaus'a götürür. Tek bir günlük biletle kolayca ulaşılabilen dolu dolu bir kültür günü."
       },
       "gastro_picks": {
         "de": [
@@ -1153,6 +1225,12 @@
           "The PaderSprinter app provides real-time departures.",
           "Buses run very frequently in the center.",
           "Night buses operate on weekends for late returns."
+        ],
+        "tr": [
+          "Tüm şehir alanı için günlük bilet satın alın.",
+          "PaderSprinter uygulaması gerçek zamanlı kalkışları sağlar.",
+          "Merkezde otobüsler çok sık çalışır.",
+          "Hafta sonları geç dönüşler için gece otobüsleri hizmet verir."
         ]
       }
     }

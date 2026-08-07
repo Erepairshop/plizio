@@ -3,55 +3,64 @@
     "de": "Pfaueninselchaussee 100, 14109 Berlin",
     "hu": "Pfaueninselchaussee 100, 14109 Berlin",
     "ro": "Pfaueninselchaussee 100, 14109 Berlin",
-    "en": "Pfaueninselchaussee 100, 14109 Berlin"
+    "en": "Pfaueninselchaussee 100, 14109 Berlin",
+    "tr": "Pfaueninselchaussee 100, 14109 Berlin"
   },
   "openingHours": {
     "de": "Fähre: Mo-Su 09:00-18:00 (Saisonabhängig)",
     "hu": "Komp: H-V 09:00-18:00 (szezonfüggő)",
     "ro": "Ferry: L-D 09:00-18:00 (sezonier)",
-    "en": "Ferry: Mon-Sun 09:00-18:00 (seasonal)"
+    "en": "Ferry: Mon-Sun 09:00-18:00 (seasonal)",
+    "tr": "Vapur: Pzt-Paz 09:00-18:00 (mevsimsel)"
   },
   "entranceFee": {
     "de": "€4.00 (Fähre und Insel)",
     "hu": "4,00 € (komp és sziget)",
     "ro": "4 € (ferry și insulă)",
-    "en": "€4.00 (ferry and island)"
+    "en": "€4.00 (ferry and island)",
+    "tr": "€4,00 (vapur ve ada)"
   },
   "website": "https://www.spsg.de",
   "publicTransport": {
     "de": "S-Bahn Wannsee, dann Bus 218",
     "hu": "Wannsee S-Bahn, majd 218-as busz",
     "ro": "S-Bahn Wannsee, apoi autobuz 218",
-    "en": "S-Bahn Wannsee, then bus 218"
+    "en": "S-Bahn Wannsee, then bus 218",
+    "tr": "S-Bahn Wannsee, sonra otobüs 218"
   },
   "parking": {
     "de": "Parkplatz an der Fähre",
     "hu": "Parkoló a kompnál",
     "ro": "Parcare la ferry",
-    "en": "Parking at the ferry"
+    "en": "Parking at the ferry",
+    "tr": "Vapurda otopark"
   },
   "accessibility": {
     "de": "Insel teilweise erschwert durch Sandwege",
     "hu": "A sziget részben nehezen járható a homokos utak miatt",
     "ro": "Insula parțial dificilă din cauza drumurilor de nisip",
-    "en": "Island partially difficult due to sandy paths"
+    "en": "Island partially difficult due to sandy paths",
+    "tr": "Ada kumlu patikalar nedeniyle kısmen zor"
   },
   "photoRules": {
     "de": "Privat erlaubt",
     "hu": "Magáncélra megengedett",
     "ro": "Permis pentru uz privat",
-    "en": "Allowed for private use"
+    "en": "Allowed for private use",
+    "tr": "Özel kullanım için izinli"
   },
   "bestTimeToVisit": {
     "de": "Wochentags morgens",
     "hu": "Hétköznap reggel",
     "ro": "În timpul săptămânii dimineața",
-    "en": "Weekdays in the morning"
+    "en": "Weekdays in the morning",
+    "tr": "Hafta içi sabahları"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

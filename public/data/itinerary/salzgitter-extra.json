@@ -21,7 +21,8 @@
             "de": "Kniestedter Kirche",
             "hu": "Kniestedter templom",
             "ro": "Biserica Kniestedter",
-            "en": "Kniestedt Church"
+            "en": "Kniestedt Church",
+            "tr": "Kniestedt Kilisesi"
           },
           "coords": [
             10.3752,
@@ -36,7 +37,8 @@
             "de": "Heute ein Kulturzentrum für Konzerte.",
             "hu": "Ma koncerteknek otthont adó kulturális központ.",
             "ro": "Astăzi un centru cultural pentru concerte.",
-            "en": "Today a cultural center for concerts."
+            "en": "Today a cultural center for concerts.",
+            "tr": "Bugün konserler için kültür merkezi."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St.-Marien-Kirche",
             "hu": "Szent Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "St. Mary Kilisesi"
           },
           "coords": [
             10.3731,
@@ -59,7 +62,8 @@
             "de": "Gotische Hallenkirche im historischen Kern.",
             "hu": "Gótikus csarnoktemplom a történelmi magban.",
             "ro": "Biserică gotică în nucleul istoric.",
-            "en": "Gothic hall church in the historical core."
+            "en": "Gothic hall church in the historical core.",
+            "tr": "Tarihi çekirdekte gotik salon kilisesi."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Altstadt Salzgitter-Bad",
             "hu": "Salzgitter-Bad óvárosa",
             "ro": "Orașul vechi Salzgitter-Bad",
-            "en": "Salzgitter-Bad Old Town"
+            "en": "Salzgitter-Bad Old Town",
+            "tr": "Salzgitter-Bad Eski Kent"
           },
           "coords": [
             10.3715,
@@ -82,7 +87,8 @@
             "de": "Fachwerkidylle und kleine Cafés.",
             "hu": "Fagerendás idill és kis kávézók.",
             "ro": "Idilă cu case de lemn și mici cafenele.",
-            "en": "Half-timbered idyll and small cafes."
+            "en": "Half-timbered idyll and small cafes.",
+            "tr": "Yarım ahşap evlerin ve küçük kafelerin idilsi."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Thermalsolbad",
             "hu": "Termálfürdő",
             "ro": "Baia Termală",
-            "en": "Thermal Brine Bath"
+            "en": "Thermal Brine Bath",
+            "tr": "Termal Tuzlu Su Hamamı"
           },
           "coords": [
             10.3685,
@@ -105,7 +112,8 @@
             "de": "Heilende Sole direkt aus der Tiefe.",
             "hu": "Gyógyító sóoldat közvetlenül a mélyből.",
             "ro": "Saramură vindecătoare direct din adâncuri.",
-            "en": "Healing brine directly from the depths."
+            "en": "Healing brine directly from the depths.",
+            "tr": "Derinlikten çıkan şifalı tuzlu su."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Rosengarten",
             "hu": "Rózsakert",
             "ro": "Grădina de trandafiri",
-            "en": "Rose Garden"
+            "en": "Rose Garden",
+            "tr": "Gül Bahçesi"
           },
           "coords": [
             10.3655,
@@ -128,7 +137,8 @@
             "de": "Wunderschöne Blütenpracht im Kurpark.",
             "hu": "Gyönyörű virágpompa a gyógyparkban.",
             "ro": "Splendoare florală în parcul de cură.",
-            "en": "Beautiful floral splendor in the spa park."
+            "en": "Beautiful floral splendor in the spa park.",
+            "tr": "Kaplıca parkında güzel çiçek gösterisi."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Bismarckturm",
             "hu": "Bismarck-torony",
             "ro": "Turnul Bismarck",
-            "en": "Bismarck Tower"
+            "en": "Bismarck Tower",
+            "tr": "Bismarck Kulesi"
           },
           "coords": [
             10.3622,
@@ -151,7 +162,8 @@
             "de": "Bester Panoramablick über das Harzvorland.",
             "hu": "A legjobb panoráma a Harz előterére.",
             "ro": "Cea mai bună vedere panoramică asupra Harz.",
-            "en": "Best panoramic view over the Harz foreland."
+            "en": "Best panoramic view over the Harz foreland.",
+            "tr": "Harz ovası üzerine en güzel panoramik manzara."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Entdecken Sie den historischen Süden von Salzgitter zu Fuß. Wir beginnen an der Kniestedter Kirche und spazieren durch den malerischen Ortskern von Salzgitter-Bad mit seinen Fachwerkhäusern. Nach einem entspannten Mittagessen tauchen wir in das heilende Wasser des Thermalsolbads ein. Den Nachmittag verbringen wir im duftenden Rosengarten, bevor wir zum Bismarckturm aufsteigen, um den weiten Blick bis zum Harz zu genießen.",
         "hu": "Fedezze fel gyalogosan Salzgitter történelmi déli részét. A Kniestedter templomnál kezdünk, majd végigsétálunk Salzgitter-Bad festői, fagerendás házakkal teli központján. Egy pihentető ebéd után elmerülünk a termálfürdő gyógyító vizében. A délutánt az illatos Rózsakertben töltjük, mielőtt felmásznánk a Bismarck-toronyhoz, hogy élvezzük a Harz-hegységig terjedő kilátást.",
         "ro": "Descoperiți sudul istoric al orașului Salzgitter pe jos. Începem de la Biserica Kniestedter și ne plimbăm prin centrul pitoresc din Salzgitter-Bad, cu casele sale din lemn. După un prânz relaxat, ne scufundăm în apele vindecătoare ale băii termale. Petrecem după-amiaza în Grădina de Trandafiri parfumată, înainte de a urca la Turnul Bismarck pentru a ne bucura de vederea largă până la Harz.",
-        "en": "Explore the historical south of Salzgitter on foot. We begin at the Kniestedter Church and stroll through the picturesque center of Salzgitter-Bad with its half-timbered houses. After a relaxed lunch, we immerse ourselves in the healing waters of the thermal brine bath. We spend the afternoon in the fragrant Rose Garden before ascending to the Bismarck Tower to enjoy the wide view as far as the Harz Mountains."
+        "en": "Explore the historical south of Salzgitter on foot. We begin at the Kniestedter Church and stroll through the picturesque center of Salzgitter-Bad with its half-timbered houses. After a relaxed lunch, we immerse ourselves in the healing waters of the thermal brine bath. We spend the afternoon in the fragrant Rose Garden before ascending to the Bismarck Tower to enjoy the wide view as far as the Harz Mountains.",
+        "tr": "Salzgitter'in tarihi güneyini yürüyerek keşfedin. Kniestedt Kilisesi'nde başlıyoruz ve yarım ahşap evlerle dolu kartpostallık Salzgitter-Bad merkezinde dolaşıyoruz. Rahat bir öğle yemeğinin ardından termal tuzlu suyun şifalı sularına kendimizi bırakıyoruz. Öğleden sonrayı kokulu Gül Bahçesi'nde geçirip Bismarck Kulesi'ne tırmanıyor ve Harz Dağları'na kadar uzanan geniş manzaranın tadını çıkarıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -263,6 +276,11 @@
           "Salzgitter-Bad is hilly, comfortable shoes are a must.",
           "The thermal brine bath also offers a great sauna landscape.",
           "Kniestedt Church is often only accessible during events."
+        ],
+        "tr": [
+          "Salzgitter-Bad engebeli, rahat ayakkabılar şart.",
+          "Termal tuzlu su hamamı ayrıca geniş bir sauna alanı sunar.",
+          "Kniestedt Kilisesi genellikle yalnızca etkinliklerde açık olur."
         ]
       }
     },
@@ -279,7 +297,8 @@
             "de": "Bismarckturm",
             "hu": "Bismarck-torony",
             "ro": "Turnul Bismarck",
-            "en": "Bismarck Tower"
+            "en": "Bismarck Tower",
+            "tr": "Bismarck Kulesi"
           },
           "coords": [
             10.3622,
@@ -294,7 +313,8 @@
             "de": "Startpunkt mit Weitblick vor der langen Fahrt.",
             "hu": "Kilátópont a hosszú út megkezdése előtt.",
             "ro": "Punct de plecare cu vedere înainte de drumul lung.",
-            "en": "Starting point with a view before the long ride."
+            "en": "Starting point with a view before the long ride.",
+            "tr": "Uzun yolculuktan önce manzaralı başlangıç noktası."
           }
         },
         {
@@ -302,7 +322,8 @@
             "de": "Burgberg-Turm",
             "hu": "Burgberg-torony",
             "ro": "Turnul Burgberg",
-            "en": "Burgberg Tower"
+            "en": "Burgberg Tower",
+            "tr": "Burgberg Kulesi"
           },
           "coords": [
             10.3325,
@@ -317,7 +338,8 @@
             "de": "Überreste einer alten Höhenburg.",
             "hu": "Egy régi hegyi vár maradványai.",
             "ro": "Rămășițele unei vechi cetăți montane.",
-            "en": "Remains of an old hilltop castle."
+            "en": "Remains of an old hilltop castle.",
+            "tr": "Eski bir tepe kalesinin kalıntıları."
           }
         },
         {
@@ -325,7 +347,8 @@
             "de": "Schloss Salder",
             "hu": "Salder-kastély",
             "ro": "Castelul Salder",
-            "en": "Salder House"
+            "en": "Salder House",
+            "tr": "Salder Evi"
           },
           "coords": [
             10.3375,
@@ -340,7 +363,8 @@
             "de": "Städtisches Museum im prachtvollen Renaissancebau.",
             "hu": "Városi múzeum egy pompás reneszánsz épületben.",
             "ro": "Muzeul municipal într-o clădire renascentistă magnifică.",
-            "en": "City museum in a magnificent Renaissance building."
+            "en": "City museum in a magnificent Renaissance building.",
+            "tr": "Görkemli bir Rönesans binasında şehir müzesi."
           }
         },
         {
@@ -348,7 +372,8 @@
             "de": "Salzgittersee (Nordstrand)",
             "hu": "Salzgitter-tó (északi strand)",
             "ro": "Lacul Salzgitter (plaja de nord)",
-            "en": "Salzgittersee (North Beach)"
+            "en": "Salzgittersee (North Beach)",
+            "tr": "Salzgitter Gölü (Kuzey Plajı)"
           },
           "coords": [
             10.3155,
@@ -363,7 +388,8 @@
             "de": "Pause am Sandstrand oder Wasserski.",
             "hu": "Pihenő a homokos strandon vagy vízisí.",
             "ro": "Pauză pe plaja cu nisip sau schi nautic.",
-            "en": "Break on the sandy beach or water skiing."
+            "en": "Break on the sandy beach or water skiing.",
+            "tr": "Kumlu plajda mola veya su kayağı."
           }
         },
         {
@@ -371,7 +397,8 @@
             "de": "Gedenkstätte Drütte",
             "hu": "Drütte emlékhely",
             "ro": "Memorialul Drütte",
-            "en": "Drütte Memorial"
+            "en": "Drütte Memorial",
+            "tr": "Drütte Anıtı"
           },
           "coords": [
             10.4125,
@@ -386,7 +413,8 @@
             "de": "Wichtiger Ort der Industriegeschichte und Erinnerung.",
             "hu": "Az ipartörténet és az emlékezet fontos helyszíne.",
             "ro": "Loc important al istoriei industriale și memoriei.",
-            "en": "Important site of industrial history and remembrance."
+            "en": "Important site of industrial history and remembrance.",
+            "tr": "Sanayi tarihi ve anma açısından önemli bir mekân."
           }
         },
         {
@@ -394,7 +422,8 @@
             "de": "Gauß-Aussichtsturm",
             "hu": "Gauß-kilátó",
             "ro": "Turnul de observație Gauß",
-            "en": "Gauss Viewpoint"
+            "en": "Gauss Viewpoint",
+            "tr": "Gauss Seyir Noktası"
           },
           "coords": [
             10.3855,
@@ -409,7 +438,8 @@
             "de": "Blick über die Industrielandschaft Salzgitters.",
             "hu": "Kilátás Salzgitter ipari tájára.",
             "ro": "Vedere asupra peisajului industrial din Salzgitter.",
-            "en": "View over Salzgitter's industrial landscape."
+            "en": "View over Salzgitter's industrial landscape.",
+            "tr": "Salzgitter'in sanayi peyzajına bakış."
           }
         }
       ],
@@ -417,7 +447,8 @@
         "de": "Diese Radtour verbindet die weiten Distanzen der Stadt. Wir starten hügelig am Bismarckturm und fahren über den Burgberg nach Norden. Das Highlight ist Schloss Salder mit seiner Regionalgeschichte. Danach entspannen wir am Salzgittersee, dem 'Meer von Salzgitter'. Auf dem Rückweg halten wir an der Gedenkstätte Drütte direkt am Stahlwerk, bevor wir die Tour mit einem Blick über die Industriekulisse beenden.",
         "hu": "Ez a kerékpártúra összeköti a város távoli pontjait. Dombos terepen kezdünk a Bismarck-toronynál, majd a Burgbergen keresztül észak felé tekerünk. A fénypont a Salder-kastély és annak regionális történeti gyűjteménye. Ezután a Salzgittersee-nél, 'Salzgitter tengerénél' pihenünk. Visszaúton megállunk a Drütte emlékhelynél közvetlenül az acélmű mellett, mielőtt az ipari díszletek feletti kilátással zárnánk a túrát.",
         "ro": "Acest tur cu bicicleta conectează distanțele mari ale orașului. Începem deluros la Turnul Bismarck și mergem spre nord prin Burgberg. Punctul culminant este Castelul Salder cu istoria sa regională. După aceea, ne relaxăm la Salzgittersee, 'marea din Salzgitter'. La întoarcere, ne oprim la Memorialul Drütte, chiar lângă oțelărie, înainte de a încheia turul cu o vedere asupra decorului industrial.",
-        "en": "This bike tour connects the city's vast distances. We start in the hilly south at the Bismarck Tower and ride north via the Burgberg. The highlight is Salder House with its regional history. Afterwards, we relax at the Salzgittersee, known as the 'Sea of Salzgitter'. On the way back, we stop at the Drütte Memorial right by the steel works before ending the tour with a view over the industrial skyline."
+        "en": "This bike tour connects the city's vast distances. We start in the hilly south at the Bismarck Tower and ride north via the Burgberg. The highlight is Salder House with its regional history. Afterwards, we relax at the Salzgittersee, known as the 'Sea of Salzgitter'. On the way back, we stop at the Drütte Memorial right by the steel works before ending the tour with a view over the industrial skyline.",
+        "tr": "Bu bisiklet turu şehrin geniş mesafelerini birleştirir. Güneydeki engebeli bölgede Bismarck Kulesi'nde başlıyor ve Burgberg üzerinden kuzeye gidiyoruz. Öne çıkan nokta bölgesel tarih sunan Salder Evi. Sonrasında 'Salzgitter Denizi' olarak bilinen Salzgitter Gölü'nde dinleniyoruz. Geri dönüş yolunda çelik fabrikasının yanı başındaki Drütte Anıtı'nda durup sanayi silüeti üzerinde bir manzara ile turu bitiriyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -521,6 +552,11 @@
           "The route between Bad and Lebenstedt is flat but long.",
           "Use the circular path around the lake (approx. 15 km).",
           "Watch out for truck traffic near the steel works."
+        ],
+        "tr": [
+          "Bad ile Lebenstedt arasındaki rota düz ama uzun.",
+          "Göl etrafındaki çevre yolunu kullanın (yakl. 15 km).",
+          "Çelik fabrikası yakınında kamyon trafiğine dikkat edin."
         ]
       }
     },
@@ -537,7 +573,8 @@
             "de": "Bismarckturm",
             "hu": "Bismarck-torony",
             "ro": "Turnul Bismarck",
-            "en": "Bismarck Tower"
+            "en": "Bismarck Tower",
+            "tr": "Bismarck Kulesi"
           },
           "coords": [
             10.3622,
@@ -552,7 +589,8 @@
             "de": "Parkplatz direkt am Turm (Cluster Bad).",
             "hu": "Parkoló közvetlenül a toronynál (Bad klaszter).",
             "ro": "Parcare chiar lângă turn (Cluster Bad).",
-            "en": "Parking right at the tower (Bad cluster)."
+            "en": "Parking right at the tower (Bad cluster).",
+            "tr": "Kulenin hemen yanında otopark (Bad bölgesi)."
           }
         },
         {
@@ -560,7 +598,8 @@
             "de": "Thermalsolbad",
             "hu": "Termálfürdő",
             "ro": "Baia Termală",
-            "en": "Thermal Brine Bath"
+            "en": "Thermal Brine Bath",
+            "tr": "Termal Tuzlu Su Hamamı"
           },
           "coords": [
             10.3685,
@@ -575,7 +614,8 @@
             "de": "Hop: Walk. Entspannung am Vormittag.",
             "hu": "Mód: séta. Pihenés délelőtt.",
             "ro": "Hop: Walk. Relaxare dimineața.",
-            "en": "Hop: Walk. Morning relaxation."
+            "en": "Hop: Walk. Morning relaxation.",
+            "tr": "Atlayış: Yürü. Sabah dinlenmesi."
           }
         },
         {
@@ -583,7 +623,8 @@
             "de": "Schloss Salder",
             "hu": "Salder-kastély",
             "ro": "Castelul Salder",
-            "en": "Salder House"
+            "en": "Salder House",
+            "tr": "Salder Evi"
           },
           "coords": [
             10.3375,
@@ -598,7 +639,8 @@
             "de": "Hop: Car. Hauptmuseum der Stadt.",
             "hu": "Mód: autó. A város fő múzeuma.",
             "ro": "Hop: Car. Muzeul principal al orașului.",
-            "en": "Hop: Car. Main museum of the city."
+            "en": "Hop: Car. Main museum of the city.",
+            "tr": "Atlayış: Araba. Şehrin ana müzesi."
           }
         },
         {
@@ -606,7 +648,8 @@
             "de": "Museums-Backhaus",
             "hu": "Múzeumi sütőház",
             "ro": "Brădetul muzeului",
-            "en": "Museum Bakehouse"
+            "en": "Museum Bakehouse",
+            "tr": "Fırın Müzesi"
           },
           "coords": [
             10.3385,
@@ -621,7 +664,8 @@
             "de": "Hop: Walk. Historisches Handwerk erleben.",
             "hu": "Mód: séta. Történelmi mesterségek élménye.",
             "ro": "Hop: Walk. Experimentați meșteșugurile istorice.",
-            "en": "Hop: Walk. Experience historical crafts."
+            "en": "Hop: Walk. Experience historical crafts.",
+            "tr": "Atlayış: Yürü. Tarihi el sanatlarını deneyimleyin."
           }
         },
         {
@@ -629,7 +673,8 @@
             "de": "Salzgittersee",
             "hu": "Salzgitter-tó",
             "ro": "Lacul Salzgitter",
-            "en": "Salzgitter Lake"
+            "en": "Salzgitter Lake",
+            "tr": "Salzgitter Gölü"
           },
           "coords": [
             10.3155,
@@ -644,7 +689,8 @@
             "de": "Hop: Car. Großer Freizeitwert.",
             "hu": "Mód: autó. Kiváló szabadidős helyszín.",
             "ro": "Hop: Car. Valoare recreativă mare.",
-            "en": "Hop: Car. Great recreational value."
+            "en": "Hop: Car. Great recreational value.",
+            "tr": "Atlayış: Araba. Harika rekreasyon alanı."
           }
         },
         {
@@ -652,7 +698,8 @@
             "de": "Wasserski-Anlage",
             "hu": "Vízisí-pálya",
             "ro": "Instalație de schi nautic",
-            "en": "Water Ski Facility"
+            "en": "Water Ski Facility",
+            "tr": "Su Kayağı Tesisi"
           },
           "coords": [
             10.3085,
@@ -667,7 +714,8 @@
             "de": "Hop: Walk. Zuschauen oder Mitmachen.",
             "hu": "Mód: séta. Nézze vagy próbálja ki.",
             "ro": "Hop: Walk. Vizionați sau participați.",
-            "en": "Hop: Walk. Watch or join in."
+            "en": "Hop: Walk. Watch or join in.",
+            "tr": "Atlayış: Yürü. İzleyin veya katılın."
           }
         },
         {
@@ -675,7 +723,8 @@
             "de": "Gedenkstätte Drütte",
             "hu": "Drütte emlékhely",
             "ro": "Memorialul Drütte",
-            "en": "Drütte Memorial"
+            "en": "Drütte Memorial",
+            "tr": "Drütte Anıtı"
           },
           "coords": [
             10.4125,
@@ -690,7 +739,8 @@
             "de": "Hop: Car. Imposante Stahlwerk-Kulisse.",
             "hu": "Mód: autó. Impozáns acélmű-díszlet.",
             "ro": "Hop: Car. Decor impresionant de oțelărie.",
-            "en": "Hop: Car. Impressive steelworks backdrop."
+            "en": "Hop: Car. Impressive steelworks backdrop.",
+            "tr": "Atlayış: Araba. Etkileyici çelik fabrikası fonu."
           }
         },
         {
@@ -698,7 +748,8 @@
             "de": "St.-Marien-Kirche",
             "hu": "Szent Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "St. Mary Kilisesi"
           },
           "coords": [
             10.3731,
@@ -713,7 +764,8 @@
             "de": "Hop: Car. Abschluss im Süden.",
             "hu": "Mód: autó. Befejezés délen.",
             "ro": "Hop: Car. Final în sud.",
-            "en": "Hop: Car. Ending in the south."
+            "en": "Hop: Car. Ending in the south.",
+            "tr": "Atlayış: Araba. Güneyde bitiş noktası."
           }
         }
       ],
@@ -721,7 +773,8 @@
         "de": "Mit dem Auto erschließen wir die Cluster von Salzgitter. Wir starten im Süden (Bad) mit Wellness und Aussicht. Danach fahren wir nach Salder zum Renaissance-Schloss. Der Nachmittag gehört dem Salzgittersee in Lebenstedt, wo wir spazieren oder den Wasserskifahrern zuschauen. Den Abschluss bildet die eindrucksvolle Gedenkstätte Drütte inmitten des riesigen Industrieareals der Salzgitter AG.",
         "hu": "Autóval fedezzük fel Salzgitter különböző körzeteit. Délen (Bad) kezdünk wellnesszel és kilátással. Ezután Salderbe hajtunk a reneszánsz kastélyhoz. A délután a lebenstedti Salzgittersee-é, ahol sétálhatunk vagy nézhetjük a vízisíelőket. A túrát a lenyűgöző Drütte emlékhely zárja a Salzgitter AG hatalmas ipari területének közepén.",
         "ro": "Cu mașina explorăm clusterele din Salzgitter. Începem în sud (Bad) cu wellness și priveliște. Apoi mergem la Salder pentru castelul renascentist. După-amiaza aparține lacului Salzgittersee din Lebenstedt, unde ne plimbăm sau privim schiorii nautici. Finalul este marcat de impresionantul Memorial Drütte din mijlocul uriașei zone industriale a Salzgitter AG.",
-        "en": "By car, we unlock the different clusters of Salzgitter. We start in the south (Bad) with wellness and views. Then we drive to Salder for the Renaissance castle. The afternoon is dedicated to the Salzgittersee in Lebenstedt, where we can walk or watch the water skiers. The day concludes with the impressive Drütte Memorial in the midst of the vast industrial area of Salzgitter AG."
+        "en": "By car, we unlock the different clusters of Salzgitter. We start in the south (Bad) with wellness and views. Then we drive to Salder for the Renaissance castle. The afternoon is dedicated to the Salzgittersee in Lebenstedt, where we can walk or watch the water skiers. The day concludes with the impressive Drütte Memorial in the midst of the vast industrial area of Salzgitter AG.",
+        "tr": "Arabayla Salzgitter'in farklı kümelerini açıyoruz. Güneye (Bad) başlıyor, wellness ve manzaralar. Ardından Rönesans kalesi için Salder'e gidiyoruz. Öğleden sonra Lebenstedt'teki Salzgitter Gölü'ne ayrılıyor, burada yürüyüş yapabilir veya su kayağı izleyebiliriz. Gün, geniş Sanayi bölgesinin ortasındaki etkileyici Drütte Anıtı ile sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -825,6 +878,11 @@
           "Use the B6/B248 expressway for fast cluster changes.",
           "Parking at Salder House is free of charge.",
           "The Drütte Memorial is part of an active factory site, bring your ID."
+        ],
+        "tr": [
+          "Hızlı küme değişimleri için B6/B248 hızlı yolunu kullanın.",
+          "Salder Evi'nde park ücretsizdir.",
+          "Drütte Anıtı aktif bir fabrika sahasının parçasıdır, kimliğinizi getirin."
         ]
       }
     },
@@ -841,7 +899,8 @@
             "de": "Salzgitter-Bad Altstadt",
             "hu": "Salzgitter-Bad óváros",
             "ro": "SZ-Bad Orașul Vechi",
-            "en": "Salzgitter-Bad Old Town"
+            "en": "Salzgitter-Bad Old Town",
+            "tr": "Salzgitter-Bad Eski Kent"
           },
           "coords": [
             10.3715,
@@ -856,7 +915,8 @@
             "de": "Vom Bahnhof SZ-Bad leicht zu Fuß erreichbar.",
             "hu": "Az SZ-Bad vasútállomástól könnyen elérhető gyalog.",
             "ro": "Ușor accesibil pe jos de la gara SZ-Bad.",
-            "en": "Easily accessible on foot from SZ-Bad station."
+            "en": "Easily accessible on foot from SZ-Bad station.",
+            "tr": "SZ-Bad istasyonundan yürüyerek kolay ulaşım."
           }
         },
         {
@@ -864,7 +924,8 @@
             "de": "Thermalsolbad",
             "hu": "Termálfürdő",
             "ro": "Baia Termală",
-            "en": "Thermal Brine Bath"
+            "en": "Thermal Brine Bath",
+            "tr": "Termal Tuzlu Su Hamamı"
           },
           "coords": [
             10.3685,
@@ -879,7 +940,8 @@
             "de": "Hop: Walk. Wellness im Süden.",
             "hu": "Mód: séta. Wellness délen.",
             "ro": "Hop: Walk. Wellness în sud.",
-            "en": "Hop: Walk. Wellness in the south."
+            "en": "Hop: Walk. Wellness in the south.",
+            "tr": "Atlayış: Yürü. Güneye wellness."
           }
         },
         {
@@ -887,7 +949,8 @@
             "de": "Schloss Salder",
             "hu": "Salder-kastély",
             "ro": "Castelul Salder",
-            "en": "Salder House"
+            "en": "Salder House",
+            "tr": "Salder Evi"
           },
           "coords": [
             10.3375,
@@ -902,7 +965,8 @@
             "de": "Hop: Transit (Bus 612/613).",
             "hu": "Mód: tömegközlekedés (612/613 busz).",
             "ro": "Hop: Transit (Autobuz 612/613).",
-            "en": "Hop: Transit (Bus 612/613)."
+            "en": "Hop: Transit (Bus 612/613).",
+            "tr": "Atlayış: Toplu taşıma (Otobüs 612/613)."
           }
         },
         {
@@ -910,7 +974,8 @@
             "de": "City-Carree Lebenstedt",
             "hu": "City-Carree Lebenstedt",
             "ro": "City-Carree Lebenstedt",
-            "en": "City-Carree Lebenstedt"
+            "en": "City-Carree Lebenstedt",
+            "tr": "City-Carree Lebenstedt"
           },
           "coords": [
             10.3255,
@@ -925,7 +990,8 @@
             "de": "Hop: Transit. Urbanes Zentrum im Norden.",
             "hu": "Mód: tömegközlekedés. Városi központ északon.",
             "ro": "Hop: Transit. Centru urban în nord.",
-            "en": "Hop: Transit. Urban center in the north."
+            "en": "Hop: Transit. Urban center in the north.",
+            "tr": "Atlayış: Toplu taşıma. Kuzeydeki kentsel merkez."
           }
         },
         {
@@ -933,7 +999,8 @@
             "de": "Salzgittersee (Südstrand)",
             "hu": "Salzgitter-tó (déli strand)",
             "ro": "Lacul Salzgitter (plaja de sud)",
-            "en": "Salzgittersee (South Beach)"
+            "en": "Salzgittersee (South Beach)",
+            "tr": "Salzgitter Gölü (Güney Plajı)"
           },
           "coords": [
             10.3125,
@@ -948,7 +1015,8 @@
             "de": "Hop: Walk. Ausklang am Wasser.",
             "hu": "Mód: séta. Befejezés a víznél.",
             "ro": "Hop: Walk. Final la apă.",
-            "en": "Hop: Walk. Ending by the water."
+            "en": "Hop: Walk. Ending by the water.",
+            "tr": "Atlayış: Yürü. Su kenarında bitiş."
           }
         }
       ],
@@ -956,7 +1024,8 @@
         "de": "Mit Bus und Bahn erkunden wir Salzgitter von Süd nach Nord. Nach dem Start im historischen SZ-Bad und dem Thermalsolbad nehmen wir den Bus Richtung Salder. Dort besichtigen wir das Schloss und fahren weiter nach Lebenstedt. Der Tag endet urban im City-Carree und mit einem kurzen Spaziergang am Ufer des Salzgittersees.",
         "hu": "Busszal és vonattal fedezzük fel Salzgittert délről északra. A történelmi SZ-Badban és a termálfürdőben kezdünk, majd busszal indulunk Salder felé. Ott megnézzük a kastélyt, majd továbbmegyünk Lebenstedtbe. A nap a City-Carree-ben, majd egy rövid tóparti sétával zárul a Salzgittersee-nél.",
         "ro": "Cu autobuzul și trenul explorăm Salzgitter de la sud la nord. După începutul în istoricul SZ-Bad și baia termală, luăm autobuzul spre Salder. Acolo vizităm castelul și continuăm spre Lebenstedt. Ziua se încheie urban în City-Carree și cu o scurtă plimbare pe malul lacului Salzgittersee.",
-        "en": "By bus and train, we explore Salzgitter from south to north. After starting in historical SZ-Bad and the thermal brine bath, we take the bus towards Salder. There we visit the house and continue to Lebenstedt. The day ends in the urban City-Carree and with a short walk along the shores of the Salzgittersee."
+        "en": "By bus and train, we explore Salzgitter from south to north. After starting in historical SZ-Bad and the thermal brine bath, we take the bus towards Salder. There we visit the house and continue to Lebenstedt. The day ends in the urban City-Carree and with a short walk along the shores of the Salzgittersee.",
+        "tr": "Otobüs ve trenle Salzgitter'i güneyden kuzeye keşfediyoruz. Tarihi SZ-Bad ve termal tuzlu su hamamında başladıktan sonra Salder'e otobüsle gidiyoruz. Orada evi ziyaret edip Lebenstedt'e devam ediyoruz. Gün, kentsel City-Carree'de sona erer ve Salzgitter Gölü kıyısında kısa bir yürüyüşle tamamlanır."
       },
       "gastro_picks": {
         "de": [
@@ -1060,6 +1129,11 @@
           "Download the VGB app for up-to-date bus connections.",
           "A day ticket for price level 2 usually covers everything.",
           "Buses run less frequently on weekends."
+        ],
+        "tr": [
+          "Güncel otobüs bağlantıları için VGB uygulamasını indirin.",
+          "Seviye 2 fiyat dilimi için günlük bilet genellikle her şeyi kapsar.",
+          "Hafta sonları otobüsler daha seyrek çalışır."
         ]
       }
     }

@@ -3,55 +3,64 @@
     "de": "Schloßpark 1, 34131 Kassel",
     "hu": "Schloßpark 1, 34131 Kassel, Németország",
     "ro": "Schloßpark 1, 34131 Kassel, Germania",
-    "en": "Schloßpark 1, 34131 Kassel, Germany"
+    "en": "Schloßpark 1, 34131 Kassel, Germany",
+    "tr": "Schloßpark 1, 34131 Kassel, Germany"
   },
   "openingHours": {
     "de": "Park 24/7, Schloss Di-So 10:00-17:00",
     "hu": "Park: 24/7, kastély: K-V 10:00-17:00",
     "ro": "Parc: 24/7, Castel: Ma-D 10:00-17:00",
-    "en": "Park 24/7, Castle Tue-Sun 10:00-17:00"
+    "en": "Park 24/7, Castle Tue-Sun 10:00-17:00",
+    "tr": "Park 7/24, Kale Sal-Paz 10:00-17:00"
   },
   "entranceFee": {
     "de": "Park kostenlos; Schloss/Herkules ca. 6 €",
     "hu": "Park ingyenes; kastély/Herkules-szobor kb. 6 €",
     "ro": "Parc gratuit; Castel/Hercule aprox. 6 €",
-    "en": "Park free; Castle/Hercules approx. 6 €"
+    "en": "Park free; Castle/Hercules approx. 6 €",
+    "tr": "Park ücretsiz; Kale/Herkül yaklaşık 6 €"
   },
   "website": "https://www.museum-kassel.de",
   "publicTransport": {
     "de": "Straßenbahn 1 (Wilhelmshöhe/Park)",
     "hu": "1-es villamos (Wilhelmshöhe/Park megálló)",
     "ro": "Tramvaiul 1 (stația Wilhelmshöhe/Park)",
-    "en": "Tram 1 (stop Wilhelmshöhe/Park)"
+    "en": "Tram 1 (stop Wilhelmshöhe/Park)",
+    "tr": "Tramvay 1 (Wilhelmshöhe/Park durağı)"
   },
   "parking": {
     "de": "Großer Parkplatz am Schloss oder Herkules, ca. 5-7 €/Tag.",
     "hu": "Nagy parkoló a kastélynál vagy a Herkulesnél, kb. 5-7 €/nap.",
     "ro": "Parcare mare la castel sau la Hercule, aprox. 5-7 €/zi.",
-    "en": "Large parking lot at the castle or Hercules, approx. 5-7 €/day."
+    "en": "Large parking lot at the castle or Hercules, approx. 5-7 €/day.",
+    "tr": "Kale veya Herkül yanında büyük park yeri, yaklaşık 5-7 €/gün."
   },
   "accessibility": {
     "de": "Teilweise sehr steile Wege im Bergpark.",
     "hu": "A hegyi parkban (Bergpark) helyenként nagyon meredek utak vannak.",
     "ro": "Unele poteci din parcul montan sunt foarte abrupte.",
-    "en": "Partially very steep paths in the mountain park."
+    "en": "Partially very steep paths in the mountain park.",
+    "tr": "Dağ parkında kısmen çok dik patikalar."
   },
   "photoRules": {
     "de": "Erlaubt für private Zwecke, Stativ verboten.",
     "hu": "Magáncélra engedélyezett, állvány használata tilos.",
     "ro": "Permis pentru uz privat, trepiedul interzis.",
-    "en": "Allowed for private use, tripods forbidden."
+    "en": "Allowed for private use, tripods forbidden.",
+    "tr": "Özel kullanım için izinli, tripod yasak."
   },
   "bestTimeToVisit": {
     "de": "Mittwochs, sonntags und feiertags (Mai-Okt) zu den Wasserspielen.",
     "hu": "Szerdánként, vasárnaponként és ünnepnapokon (május-október) a vízijátékok idején.",
     "ro": "Miercurea, duminica și de sărbători (mai-oct) pentru jocurile de apă.",
-    "en": "Wednesdays, Sundays, and holidays (May-Oct) for the water features."
+    "en": "Wednesdays, Sundays, and holidays (May-Oct) for the water features.",
+    "tr": "Su gösterileri için Çarşamba, Pazar ve tatiller (Mayıs-Ekim)."
   },
   "audioGuide": {
     "de": "ja",
     "hu": "igen",
     "ro": "da",
-    "en": "yes"
+    "en": "yes",
+    "tr": "evet"
   }
 }

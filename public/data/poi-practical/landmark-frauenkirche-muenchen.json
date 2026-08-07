@@ -3,55 +3,64 @@
     "de": "Frauenplatz 1, 80331 München",
     "hu": "Frauenplatz 1, 80331 München",
     "ro": "Frauenplatz 1, 80331 München",
-    "en": "Frauenplatz 1, 80331 München"
+    "en": "Frauenplatz 1, 80331 München",
+    "tr": "Frauenplatz 1, 80331 München"
   },
   "openingHours": {
     "de": "Täglich 08:00-20:00",
     "hu": "Naponta 08:00-20:00",
     "ro": "Zilnic 08:00-20:00",
-    "en": "Daily 08:00-20:00"
+    "en": "Daily 08:00-20:00",
+    "tr": "Günlük 08:00-20:00"
   },
   "entranceFee": {
     "de": "Kirche kostenlos, Südturm ca. 7,50 €",
     "hu": "Templom ingyenes, déli torony kb. 7,50 €",
     "ro": "Biserica gratuită, turnul de sud aprox. 7,50 €",
-    "en": "Church free, south tower approx. €7.50"
+    "en": "Church free, south tower approx. €7.50",
+    "tr": "Kilise ücretsiz, güney kulesi yaklaşık €7,50"
   },
   "website": "https://www.muenchner-dom.de",
   "publicTransport": {
     "de": "S-Bahn/U-Bahn Marienplatz",
     "hu": "S-Bahn/U-Bahn Marienplatz",
     "ro": "S-Bahn/U-Bahn Marienplatz",
-    "en": "S-Bahn/U-Bahn Marienplatz"
+    "en": "S-Bahn/U-Bahn Marienplatz",
+    "tr": "S-Bahn/U-Bahn Marienplatz"
   },
   "parking": {
     "de": "Parkhaus Marienplatz-Garage, ca. 4,00 € pro Stunde",
     "hu": "Marienplatz-Garage parkolóház, kb. 4,00 €/óra",
     "ro": "Parcare Marienplatz-Garage, aprox. 4,00 € pe oră",
-    "en": "Marienplatz parking garage, approx. €4.00 per hour"
+    "en": "Marienplatz parking garage, approx. €4.00 per hour",
+    "tr": "Marienplatz otopark garajı, yaklaşık €4,00/saat"
   },
   "accessibility": {
     "de": "Kirchenraum voll barrierefrei, Aufstieg zum Südturm über Lift möglich",
     "hu": "Templomtér teljesen akadálymentes, feljutás a déli toronyba lifttel lehetséges",
     "ro": "Sala bisericii complet accesibilă, urcarea în turnul de sud posibilă prin lift",
-    "en": "Church space fully barrier-free, ascent to south tower possible via elevator"
+    "en": "Church space fully barrier-free, ascent to south tower possible via elevator",
+    "tr": "Kilise tamamen engelli erişimine uygun, güney kulesine asansörle çıkış mümkün"
   },
   "photoRules": {
     "de": "Fotografieren erlaubt, während Gottesdiensten streng untersagt",
     "hu": "Fotózás engedélyezett, istentiszteletek alatt szigorúan tilos",
     "ro": "Fotografierea permisă, strict interzisă în timpul slujbelor",
-    "en": "Photography allowed, strictly prohibited during church services"
+    "en": "Photography allowed, strictly prohibited during church services",
+    "tr": "Fotoğraf çekimine izinli, kilise ayinleri sırasında kesinlikle yasak"
   },
   "bestTimeToVisit": {
     "de": "Vormittags, wenn die Sonne durch die hohen Fenster den Innenraum erhellt",
     "hu": "Délelőtt, amikor a nap a magas ablakokon át megvilágítja a belső teret",
     "ro": "Dimineața, când soarele luminează interiorul prin ferestrele înalte",
-    "en": "Morning, when the sun illuminates the interior through the high windows"
+    "en": "Morning, when the sun illuminates the interior through the high windows",
+    "tr": "Sabah, iç mekanı yüksek pencerelerden güneş aydınlatırken"
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nem",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

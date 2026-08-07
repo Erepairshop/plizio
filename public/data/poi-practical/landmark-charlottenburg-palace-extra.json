@@ -3,55 +3,64 @@
     "de": "Spandauer Damm 10, 14059 Berlin",
     "hu": "Spandauer Damm 10, 14059 Berlin",
     "ro": "Spandauer Damm 10, 14059 Berlin",
-    "en": "Spandauer Damm 10, 14059 Berlin"
+    "en": "Spandauer Damm 10, 14059 Berlin",
+    "tr": "Spandauer Damm 10, 14059 Berlin"
   },
   "openingHours": {
     "de": "Di-So 10:00-17:30 (April-Okt), 10:00-16:30 (Nov-März)",
     "hu": "Kedd-vasárnap 10:00-17:30 (április-október), 10:00-16:30 (november-március)",
     "ro": "Mar-Dum 10:00-17:30 (apr-oct), 10:00-16:30 (nov-mar)",
-    "en": "Tue-Sun 10:00-17:30 (Apr-Oct), 10:00-16:30 (Nov-Mar)"
+    "en": "Tue-Sun 10:00-17:30 (Apr-Oct), 10:00-16:30 (Nov-Mar)",
+    "tr": "Sal-Paz 10:00-17:30 (Nis-Eki), 10:00-16:30 (Kas-Mar)"
   },
   "entranceFee": {
     "de": "Kombikarte 19€, Altes Schloss 12€",
     "hu": "Kombinált jegy 19 €, Altes Schloss (Régi kastély) 12 €",
     "ro": "Bilet combinat 19 €, Altes Schloss (Castelul Vechi) 12 €",
-    "en": "Combined ticket €19, Altes Schloss (Old Palace) €12"
+    "en": "Combined ticket €19, Altes Schloss (Old Palace) €12",
+    "tr": "Kombine bilet €19, Altes Schloss (Eski Saray) €12"
   },
   "website": "https://www.spsg.de",
   "publicTransport": {
     "de": "U7 bis Richard-Wagner-Platz oder Bus M45.",
     "hu": "U7 metró a Richard-Wagner-Platzig vagy M45-ös busz.",
     "ro": "Metrou U7 până la Richard-Wagner-Platz sau autobuzul M45.",
-    "en": "Subway U7 to Richard-Wagner-Platz or bus M45."
+    "en": "Subway U7 to Richard-Wagner-Platz or bus M45.",
+    "tr": "U-Bahn U7 ile Richard-Wagner-Platz veya M45 otobüsü."
   },
   "parking": {
     "de": "Kostenpflichtiger Besucherparkplatz direkt vor dem Schloss.",
     "hu": "Fizetős látogatói parkoló közvetlenül a kastély előtt.",
     "ro": "Parcare cu plată pentru vizitatori chiar în fața castelului.",
-    "en": "Paid visitor parking directly in front of the palace."
+    "en": "Paid visitor parking directly in front of the palace.",
+    "tr": "Sarayın hemen önünde ücretli ziyaretçi otoparkı."
   },
   "accessibility": {
     "de": "Erdgeschoss barrierefrei, obere Etagen über Aufzüge zugänglich.",
     "hu": "A földszint akadálymentesített, a felső szintek lifttel érhetők el.",
     "ro": "Parterul este accesibil, etajele superioare sunt accesibile cu liftul.",
-    "en": "Ground floor is accessible, upper floors reachable via elevators."
+    "en": "Ground floor is accessible, upper floors reachable via elevators.",
+    "tr": "Zemin kat erişilebilir, üst katlara asansörle ulaşılabiliyor."
   },
   "photoRules": {
     "de": "Privat gegen Gebühr von 3€ (Fotoerlaubnis-Sticker) erlaubt.",
     "hu": "Magáncélú engedélyezett 3 € díj ellenében (fotózási matrica).",
     "ro": "Permis în scop privat pentru o taxă de 3 € (autocolant de permisiune foto).",
-    "en": "Private use allowed for a €3 fee (photo permit sticker)."
+    "en": "Private use allowed for a €3 fee (photo permit sticker).",
+    "tr": "Özel kullanım €3 ücretle izinli (foto izin etiketi)."
   },
   "bestTimeToVisit": {
     "de": "Wochentags morgens oder zur Kirschblüte im Schlosspark.",
     "hu": "Hétköznap reggel vagy cseresznyevirágzás idején a kastélyparkban.",
     "ro": "În timpul săptămânii dimineața sau în perioada înfloririi cireșilor în parcul castelului.",
-    "en": "Weekdays in the morning or during cherry blossom season in the palace park."
+    "en": "Weekdays in the morning or during cherry blossom season in the palace park.",
+    "tr": "Hafta içi sabahları veya saray parkındaki kiraz çiçeği mevsiminde."
   },
   "audioGuide": {
     "de": "Deutsch, Englisch, Französisch und weitere (im Preis enthalten)",
     "hu": "Német, angol, francia és egyéb nyelveken (az ár tartalmazza)",
     "ro": "Germană, engleză, franceză și altele (incluse în preț)",
-    "en": "German, English, French and others (included in price)"
+    "en": "German, English, French and others (included in price)",
+    "tr": "Almanca, İngilizce, Fransızca ve diğerleri (fiyata dahil)"
   }
 }

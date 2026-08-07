@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die neugotische Architektur im Stadtzentrum.",
             "hu": "Csodálja meg a városközpont neogótikus építészetét.",
             "ro": "Admirați arhitectura neogotică din centrul orașului.",
-            "en": "Admire the neo-Gothic architecture in the city center."
+            "en": "Admire the neo-Gothic architecture in the city center.",
+            "tr": "Şehir merkezinde neo-Gotik mimariye hayran olun."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein Zentrum für alternative Kultur in einem alten Schlachthof.",
             "hu": "Alternatív kulturális központ egy régi vágóhídon.",
             "ro": "Un centru pentru cultură alternativă într-un fost abator.",
-            "en": "A center for alternative culture in an old slaughterhouse."
+            "en": "A center for alternative culture in an old slaughterhouse.",
+            "tr": "Eski bir mezbahada alternatif kültür için bir merkez."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Besuchen Sie das Regenwaldhaus und den Schmetterlingspark.",
             "hu": "Látogassa meg az esőerdő-házat és a pillangóparkot.",
             "ro": "Vizitați casa pădurii tropicale și parcul de fluturi.",
-            "en": "Visit the rainforest house and the butterfly park."
+            "en": "Visit the rainforest house and the butterfly park.",
+            "tr": "Yağmur ormanı evini ve kelebek parkını ziyaret edin."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein schöner Ort für einen Spaziergang am See.",
             "hu": "Gyönyörű hely egy sétához a tó partján.",
             "ro": "Un loc minunat pentru o plimbare pe malul lacului.",
-            "en": "A beautiful place for a walk by the lake."
+            "en": "A beautiful place for a walk by the lake.",
+            "tr": "Göl kenarında yürüyüş için güzel bir yer."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Entworfen von Ludwig Mies van der Rohe, heute Museen.",
             "hu": "Mies van der Rohe tervezte, ma múzeumként működnek.",
             "ro": "Proiectate de Mies van der Rohe, astăzi sunt muzee.",
-            "en": "Designed by Ludwig Mies van der Rohe, now museums."
+            "en": "Designed by Ludwig Mies van der Rohe, now museums.",
+            "tr": "Ludwig Mies van der Rohe tarafından tasarlandı, şimdi müzeler."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Genießen Sie ein lokales Bier im großen Biergarten.",
             "hu": "Élvezzen egy helyi sört a hatalmas sörkertben.",
             "ro": "Savurați o bere locală în marea grădină de vară.",
-            "en": "Enjoy a local beer in the large beer garden."
+            "en": "Enjoy a local beer in the large beer garden.",
+            "tr": "Büyük bira bahçesinde yerel bir bira tadını çıkarın."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Krefeld zu Fuß entdecken bedeutet, die Mischung aus Industrieerbe und grünen Oasen zu erleben. Wir beginnen im Herzen der Stadt an der Dionysiuskirche und spazieren durch das Stadtzentrum zur Kulturfabrik. Danach führt uns der Weg nach Nordosten zum Zoo und in den weitläufigen Stadtwald, wo moderne Architektur auf Mies van der Rohe trifft.",
         "hu": "Krefeld gyalogos felfedezése az ipari örökség és a zöld oázisok keverékét jelenti. A város szívében, a Dionysius-templomnál kezdünk, majd a belvároson át a Kulturfabrikhoz sétálunk. Ezután az út északkeletre, az Állatkertbe és a tágas Stadtwaldba vezet, ahol Mies van der Rohe modern építészete vár ránk.",
         "ro": "Descoperirea orașului Krefeld la pas înseamnă experimentarea amestecului de patrimoniu industrial și oaze verzi. Începem în inima orașului, la Biserica Dionysius, și ne plimbăm prin centru până la Kulturfabrik. Apoi, drumul ne poartă spre nord-est, la Grădina Zoologică și în vastul Stadtwald, unde întâlnim arhitectura modernă a lui Mies van der Rohe.",
-        "en": "Discovering Krefeld on foot means experiencing the mix of industrial heritage and green oases. We start in the heart of the city at the Dionysius Church and walk through the city center to the Kulturfabrik. Then the path leads northeast to the Zoo and into the spacious Stadtwald, where modern architecture meets Mies van der Rohe."
+        "en": "Discovering Krefeld on foot means experiencing the mix of industrial heritage and green oases. We start in the heart of the city at the Dionysius Church and walk through the city center to the Kulturfabrik. Then the path leads northeast to the Zoo and into the spacious Stadtwald, where modern architecture meets Mies van der Rohe.",
+        "tr": "Krefeld'i yürüyerek keşfetmek, endüstriyel miras ile yeşil vahayı deneyimlemek demektir. Şehir merkezindeki Dionysius Kilisesi'nden başlayıp Kulturfabrik'e doğru yürürüz. Ardından yol kuzeydoğuya Zoo'ya ve geniş Stadtwald'a çıkar; burada modern mimari Mies van der Rohe ile buluşur."
       },
       "gastro_picks": {
         "de": [
@@ -249,6 +256,11 @@
           "Krefeld is very flat, ideal for walking.",
           "Look out for the Silk Weaver statue in the center.",
           "The Stadtwald region is perfect for a relaxed afternoon."
+        ],
+        "tr": [
+          "Krefeld çok düzdür, yürüyüş için idealdir.",
+          "Merkezdeki Silk Weaver heykeline dikkat edin.",
+          "Stadtwald bölgesi rahat bir öğleden sonra için mükemmeldir."
         ]
       }
     },
@@ -275,7 +287,8 @@
             "de": "Besuchen Sie die Wasserburg und das Jagdschloss.",
             "hu": "Látogassa meg a vízi várat és a vadászkastélyt.",
             "ro": "Vizitați castelul cu apă și castelul de vânătoare.",
-            "en": "Visit the water castle and the hunting lodge."
+            "en": "Visit the water castle and the hunting lodge.",
+            "tr": "Su kalesini ve av köşkünü ziyaret edin."
           }
         },
         {
@@ -293,7 +306,8 @@
             "de": "Bummeln Sie durch die charmanten mittelalterlichen Gassen.",
             "hu": "Sétáljon a bájos középkori utcákon.",
             "ro": "Plimbați-vă pe străzile medievale fermecătoare.",
-            "en": "Stroll through the charming medieval streets."
+            "en": "Stroll through the charming medieval streets.",
+            "tr": "Büyüleyici ortaçağ sokaklarında gezinin."
           }
         },
         {
@@ -311,7 +325,8 @@
             "de": "Erfahren Sie alles über Krefelds Seidengeschichte.",
             "hu": "Tudjon meg mindent Krefeld selyemgyártásának történetéről.",
             "ro": "Aflați totul despre istoria mătăsii din Krefeld.",
-            "en": "Learn all about Krefeld's silk history."
+            "en": "Learn all about Krefeld's silk history.",
+            "tr": "Krefeld'in ipek tarihini öğrenin."
           }
         },
         {
@@ -329,7 +344,8 @@
             "de": "Ein kurzer Stopp für die Elefanten und Nashörner.",
             "hu": "Rövid megálló az elefántoknál és orrszarvúknál.",
             "ro": "O scurtă oprire pentru elefanți și rinoceri.",
-            "en": "A short stop for the elephants and rhinos."
+            "en": "A short stop for the elephants and rhinos.",
+            "tr": "Filler ve gergedanlar için kısa bir durak."
           }
         },
         {
@@ -347,7 +363,8 @@
             "de": "Wichtige Station der Architektur-Moderne.",
             "hu": "A modern építészet egyik fontos állomása.",
             "ro": "Stație importantă a arhitecturii moderne.",
-            "en": "Important station of modern architecture."
+            "en": "Important station of modern architecture.",
+            "tr": "Modern mimarinin önemli bir durağı."
           }
         },
         {
@@ -365,7 +382,8 @@
             "de": "Radeln Sie durch den größten Park der Stadt.",
             "hu": "Kerekezzen át a város legnagyobb parkján.",
             "ro": "Pedalați prin cel mai mare parc al orașului.",
-            "en": "Cycle through the largest park in the city."
+            "en": "Cycle through the largest park in the city.",
+            "tr": "Şehrin en büyük parkında bisiklet sürün."
           }
         }
       ],
@@ -373,7 +391,8 @@
         "de": "Mit dem Fahrrad erkunden wir das grüne Krefeld und seine historische Seite in Linn. Wir radeln von der beeindruckenden Burg Linn durch die Altstadt und erfahren mehr über die Seidentradition im Textilmuseum. Der Rückweg führt uns quer durch die Stadt zum Zoo und endet in der entspannten Atmosphäre des Stadtwaldes.",
         "hu": "Kerékpárral fedezzük fel a zöld Krefeldet és Linn történelmi oldalát. A lenyűgöző Linn várától indulunk, átkerekezünk az óvároson, és megismerjük a selyemhagyományt a Textilmúzeumban. A visszaút a városon keresztül az Állatkertbe vezet, majd a Stadtwald nyugodt légkörében ér véget.",
         "ro": "Cu bicicleta explorăm Krefeldul verde și latura sa istorică din Linn. Pedalăm de la impresionantul castel Linn prin centrul vechi și aflăm mai multe despre tradiția mătăsii la Muzeul Textil. Drumul de întoarcere ne poartă prin oraș către Grădina Zoologică și se termină în atmosfera relaxantă a parcului Stadtwald.",
-        "en": "By bike, we explore green Krefeld and its historical side in Linn. We cycle from the impressive Linn Castle through the old town and learn more about the silk tradition in the Textile Museum. The return path leads across the city to the Zoo and ends in the relaxed atmosphere of the Stadtwald."
+        "en": "By bike, we explore green Krefeld and its historical side in Linn. We cycle from the impressive Linn Castle through the old town and learn more about the silk tradition in the Textile Museum. The return path leads across the city to the Zoo and ends in the relaxed atmosphere of the Stadtwald.",
+        "tr": "Bisikletle etkileyici Linn Kalesi'nden başlayıp eski kasaba üzerinden Tekstil Müzesi'ne kadar yeşil Krefeld'i ve tarihî yanını keşfediyoruz. Dönüş yolu şehrin içinden Zoo'ya ve rahat Stadtwald atmosferinde sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -477,6 +496,11 @@
           "There are many bike paths away from the main roads.",
           "Linn is particularly bike-friendly.",
           "Combine the tour with a ride to the Rhine (Uerdingen)."
+        ],
+        "tr": [
+          "Ana yollardan uzak birçok bisiklet yolu bulunur.",
+          "Linn özellikle bisiklet dostudur.",
+          "Turu Ren'e (Uerdingen) bir sürüşle birleştirin."
         ]
       }
     },
@@ -503,7 +527,8 @@
             "de": "Parken Sie am Museumsplatz.",
             "hu": "Parkoljon a Múzeum téren.",
             "ro": "Parcați în piața muzeului.",
-            "en": "Park at the museum square."
+            "en": "Park at the museum square.",
+            "tr": "Müze meydanına park edin."
           }
         },
         {
@@ -521,7 +546,8 @@
             "de": "Bester Cluster-Spaziergang in Krefeld.",
             "hu": "A legjobb gyalogos klaszter Krefeldben.",
             "ro": "Cea mai bună zonă de plimbare din Krefeld.",
-            "en": "Best cluster walk in Krefeld."
+            "en": "Best cluster walk in Krefeld.",
+            "tr": "Krefeld'de en iyi küme yürüyüşü."
           }
         },
         {
@@ -539,7 +565,8 @@
             "de": "Weltberühmte Sammlung von Textilien.",
             "hu": "Világhírű textilgyűjtemény.",
             "ro": "Colecție de textile faimoasă în întreaga lume.",
-            "en": "World-famous collection of textiles."
+            "en": "World-famous collection of textiles.",
+            "tr": "Dünya çapında ünlü tekstil koleksiyonu."
           }
         },
         {
@@ -557,7 +584,8 @@
             "de": "Cluster Nord: Stadtwald & Haus Lange.",
             "hu": "Északi klaszter: Stadtwald és Haus Lange.",
             "ro": "Clusterul de Nord: Stadtwald și Haus Lange.",
-            "en": "North cluster: Stadtwald & Haus Lange."
+            "en": "North cluster: Stadtwald & Haus Lange.",
+            "tr": "Kuzey kümesi: Stadtwald & Haus Lange."
           }
         },
         {
@@ -575,7 +603,8 @@
             "de": "Moderne Kunst in Bauhaus-Architektur.",
             "hu": "Modern művészet Bauhaus építészetben.",
             "ro": "Artă modernă în arhitectură Bauhaus.",
-            "en": "Modern art in Bauhaus architecture."
+            "en": "Modern art in Bauhaus architecture.",
+            "tr": "Bauhaus mimarisinde modern sanat."
           }
         },
         {
@@ -593,7 +622,8 @@
             "de": "Kurze Fahrt vom Stadtwald zum Zoo.",
             "hu": "Rövid autóút a Stadtwaldtól az Állatkertig.",
             "ro": "Drum scurt cu mașina de la Stadtwald la Zoo.",
-            "en": "Short drive from Stadtwald to the Zoo."
+            "en": "Short drive from Stadtwald to the Zoo.",
+            "tr": "Stadtwald'dan Zoo'ya kısa sürüş."
           }
         }
       ],
@@ -601,7 +631,8 @@
         "de": "Diese Autotour nutzt das Cluster-Prinzip: Wir erkunden zuerst den historischen Stadtteil Linn mit seiner Burg und dem Textilmuseum zu Fuß. Danach fahren wir in den Norden zum Stadtwald und den Mies-van-der-Rohe-Häusern, bevor wir den Tag im Zoo oder bei einer kurzen Fahrt in die Innenstadt abschließen.",
         "hu": "Ez az autós túra a klaszter-elvet használja: először Linn történelmi negyedét fedezzük fel gyalogosan (vár, múzeum), majd északra hajtunk a Stadtwaldhoz és a Mies van der Rohe házakhoz, végül az Állatkerttel vagy egy rövid belvárosi kitérővel zárjuk a napot.",
         "ro": "Acest tur cu mașina folosește principiul clusterelor: explorăm mai întâi cartierul istoric Linn cu castelul și Muzeul Textil pe jos. Apoi conducem spre nord către Stadtwald și casele Mies van der Rohe, înainte de a încheia ziua la Grădina Zoologică sau cu o scurtă vizită în centru.",
-        "en": "This car tour uses the cluster principle: we first explore the historical district of Linn with its castle and the Textile Museum on foot. Then we drive north to the Stadtwald and the Mies van der Rohe houses, before ending the day at the Zoo or with a short drive to the city center."
+        "en": "This car tour uses the cluster principle: we first explore the historical district of Linn with its castle and the Textile Museum on foot. Then we drive north to the Stadtwald and the Mies van der Rohe houses, before ending the day at the Zoo or with a short drive to the city center.",
+        "tr": "Bu araba turu küme ilkesini kullanır: önce Linn'in kale ve Tekstil Müzesi ile tarihî semtini yürüyerek keşfediyoruz. Ardından kuzeye Stadtwald ve Mies van der Rohe evlerine sürüp günü Zoo'da veya şehir merkezine kısa bir sürüşle bitiriyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -705,6 +736,11 @@
           "In Linn, there are good parking options at the edge of the historic core.",
           "The connection between districts is fast by car.",
           "Park in the Stadtwald right by the restaurant."
+        ],
+        "tr": [
+          "Linn'de tarihî çekirdeğin kenarında iyi park seçenekleri vardır.",
+          "Semtler arasındaki bağlantı arabayla hızlıdır.",
+          "Restoranın hemen yanında Stadtwald'da park edin."
         ]
       }
     },
@@ -731,7 +767,8 @@
             "de": "Zentraler Startpunkt am Rheinstraße-Knotenpunkt.",
             "hu": "Központi indulópont a Rheinstraße csomópontnál.",
             "ro": "Punct de plecare central la nodul Rheinstraße.",
-            "en": "Central starting point at the Rheinstraße junction."
+            "en": "Central starting point at the Rheinstraße junction.",
+            "tr": "Rheinstraße kavşağında merkezi başlangıç noktası."
           }
         },
         {
@@ -749,7 +786,8 @@
             "de": "Nutzen Sie die Straßenbahn 044 bis Burg Linn.",
             "hu": "Használja a 044-es villamost Burg Linnig.",
             "ro": "Utilizați tramvaiul 044 până la Burg Linn.",
-            "en": "Use tram 044 to Burg Linn."
+            "en": "Use tram 044 to Burg Linn.",
+            "tr": "Burg Linn'e tramvay 044'ü kullanın."
           }
         },
         {
@@ -767,7 +805,8 @@
             "de": "Zu Fuß erreichbar von der Burg.",
             "hu": "Gyalogosan elérhető a vártól.",
             "ro": "Accesibil pe jos de la castel.",
-            "en": "Accessible on foot from the castle."
+            "en": "Accessible on foot from the castle.",
+            "tr": "Kaleden yürüyerek ulaşılabilir."
           }
         },
         {
@@ -785,7 +824,8 @@
             "de": "Ein Muss für Geschichtsinteressierte in Linn.",
             "hu": "Történelemkedvelőknek kötelező Linnben.",
             "ro": "O necesitate pentru cei interesați de istorie în Linn.",
-            "en": "A must for history buffs in Linn."
+            "en": "A must for history buffs in Linn.",
+            "tr": "Linn'de tarih meraklıları için mutlaka görülmesi gereken yer."
           }
         },
         {
@@ -803,7 +843,8 @@
             "de": "Mit Bus/Bahn zurück Richtung Zentrum/Zoo.",
             "hu": "Busszal vagy villamossal vissza a központ/állatkert felé.",
             "ro": "Cu autobuzul/tramvaiul înapoi spre centru/zoo.",
-            "en": "Take the bus/tram back towards center/zoo."
+            "en": "Take the bus/tram back towards center/zoo.",
+            "tr": "Merkez/zoo yönüne otobüs/tramvayla geri dönün."
           }
         },
         {
@@ -821,7 +862,8 @@
             "de": "Entspannung zum Abschluss des Tages.",
             "hu": "Pihenés a nap végén.",
             "ro": "Relaxare la sfârșitul zilei.",
-            "en": "Relaxation to end the day."
+            "en": "Relaxation to end the day.",
+            "tr": "Günü dinlenerek bitirme."
           }
         }
       ],
@@ -829,7 +871,8 @@
         "de": "Krefelds öffentlicher Nahverkehr verbindet die Zentren effizient. Wir starten in der City und fahren mit der Straßenbahn 044 direkt in das mittelalterliche Linn. Nach einem Cluster-Spaziergang durch Burg, Altstadt und Textilmuseum führt uns der Transit zurück in den grünen Norden zum Zoo und Stadtwald.",
         "hu": "Krefeld tömegközlekedése hatékonyan köti össze a központokat. A belvárosból indulunk, és a 044-es villamossal közvetlenül a középkori Linnbe utazunk. A vár, az óváros és a Textilmúzeum gyalogos bejárása után tömegközlekedéssel térünk vissza az északi zöldövezetbe, az Állatkerthez és a Stadtwaldhoz.",
         "ro": "Transportul public din Krefeld conectează eficient centrele. Începem în oraș și mergem cu tramvaiul 044 direct în Linn-ul medieval. După o plimbare prin castel, centrul vechi și Muzeul Textil, tranzitul ne duce înapoi în nordul verde, la Grădina Zoologică și Stadtwald.",
-        "en": "Krefeld's public transport connects the centers efficiently. We start in the city and take tram 044 directly to medieval Linn. After a cluster walk through the castle, old town, and Textile Museum, transit leads us back to the green north to the Zoo and Stadtwald."
+        "en": "Krefeld's public transport connects the centers efficiently. We start in the city and take tram 044 directly to medieval Linn. After a cluster walk through the castle, old town, and Textile Museum, transit leads us back to the green north to the Zoo and Stadtwald.",
+        "tr": "Krefeld'in toplu taşıması merkezleri verimli şekilde birbirine bağlar. Şehirde başlayıp doğrudan ortaçağ Linn'e giden tramvay 044'ü alıyoruz. Kale, eski kasaba ve Tekstil Müzesi'ni içeren küme yürüyüşten sonra transit bizi kuzeydeki Zoo ve Stadtwald'a geri götürür."
       },
       "gastro_picks": {
         "de": [
@@ -933,6 +976,11 @@
           "Download the VRR app for live schedules.",
           "A day ticket is worth it for this route.",
           "Tram 044 runs every 15 minutes to Linn."
+        ],
+        "tr": [
+          "Canlı tarifeler için VRR uygulamasını indirin.",
+          "Bu rota için günlük biletye değer.",
+          "Tramvay 044 Linn'e her 15 dakikada bir çalışır."
         ]
       }
     }

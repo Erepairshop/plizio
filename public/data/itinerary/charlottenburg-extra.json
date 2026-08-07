@@ -21,7 +21,8 @@
             "de": "Schloss Charlottenburg",
             "hu": "Charlottenburg kastély",
             "ro": "Palatul Charlottenburg",
-            "en": "Charlottenburg Palace"
+            "en": "Charlottenburg Palace",
+            "tr": "Charlottenburg Sarayı"
           },
           "coords": [
             13.295833,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die prachtvollen Räume dieses barocken Schlosses, das Berlins königliche Geschichte erzählt, und kommen Sie früh, um die weitläufigen Gärten in Ruhe zu genießen.",
             "hu": "Csodálja meg e barokk kastély pompás termeit, melyek Berlin királyi múltját idézik, és érkezzen korán, hogy nyugodtan sétálhasson a tágas kertekben.",
             "ro": "Admirați sălile somptuoase ale acestui palat baroc ce reflectă istoria regală a Berlinului și veniți devreme pentru a vă bucura în liniște de grădinile întinse.",
-            "en": "Admire the sumptuous rooms of this baroque palace that reflects Berlin's royal history, and arrive early to enjoy a peaceful stroll through the expansive gardens."
+            "en": "Admire the sumptuous rooms of this baroque palace that reflects Berlin's royal history, and arrive early to enjoy a peaceful stroll through the expansive gardens.",
+            "tr": "Berlin'in kraliyet tarihini yansıtan bu barok sarayın görkemli odalarına hayran kalın ve geniş bahçelerde huzurlu bir yürüyüşün tadını çıkarmak için erken varın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Keramik-Museum Berlin",
             "hu": "Kerámia Múzeum Berlin",
             "ro": "Muzeul de Ceramică Berlin",
-            "en": "Ceramics Museum Berlin"
+            "en": "Ceramics Museum Berlin",
+            "tr": "Porselen Müzesi Berlin"
           },
           "coords": [
             13.304034,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie einzigartige Keramikkunstwerke in diesem charmanten Museum, das lokale Handwerkskunst zeigt, und achten Sie auf die wechselnden Sonderausstellungen.",
             "hu": "Fedezzen fel egyedi kerámiaalkotásokat ebben a bájos múzeumban, amely a helyi kézművességet mutatja be, és figyeljen az izgalmas időszaki kiállításokra is.",
             "ro": "Descoperiți opere de artă ceramică unice în acest muzeu fermecător ce expune măiestria locală și acordați atenție expozițiilor temporare captivante.",
-            "en": "Discover unique ceramic artworks in this charming museum showcasing local craftsmanship, and make sure to check out their rotating temporary exhibitions."
+            "en": "Discover unique ceramic artworks in this charming museum showcasing local craftsmanship, and make sure to check out their rotating temporary exhibitions.",
+            "tr": "Yerel zanaatkârlığı sergileyen bu şirin müzede benzersiz seramik eserleri keşfedin ve geçici sergilerini kontrol etmeyi unutmayın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Deutsche Oper Berlin",
             "hu": "Német Opera Berlin",
             "ro": "Opera Germană din Berlin",
-            "en": "Deutsche Oper Berlin"
+            "en": "Deutsche Oper Berlin",
+            "tr": "Deutsche Oper Berlin"
           },
           "coords": [
             13.308333,
@@ -82,7 +87,8 @@
             "de": "Erleben Sie die moderne Architektur dieses berühmten Opernhauses, das für seine exzellente Akustik bekannt ist, und buchen Sie Tickets für Vorstellungen am besten weit im Voraus.",
             "hu": "Tapasztalja meg e híres operaház modern építészetét, amely kiváló akusztikájáról ismert, és érdemes jó előre jegyet foglalni a népszerű esti előadásokra.",
             "ro": "Experimentați arhitectura modernă a acestei celebre opere, cunoscută pentru acustica sa excelentă, și rezervați biletele cu mult timp înainte pentru spectacole.",
-            "en": "Experience the modern architecture of this renowned opera house, famous for its excellent acoustics, and book your tickets well in advance for popular evening performances."
+            "en": "Experience the modern architecture of this renowned opera house, famous for its excellent acoustics, and book your tickets well in advance for popular evening performances.",
+            "tr": "Mükemmel akustiğiyle ünlü bu tanınmış opera binasının modern mimarisini deneyimleyin ve popüler akşam gösterileri için biletlerinizi erkenden alın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Savignyplatz",
             "hu": "Savignyplatz",
             "ro": "Piața Savigny",
-            "en": "Savignyplatz"
+            "en": "Savignyplatz",
+            "tr": "Savignyplatz"
           },
           "coords": [
             13.319066,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie an diesem belebten Platz, der das literarische und künstlerische Herz des Viertels bildet, und genießen Sie einen Kaffee in einem der vielen traditionellen Cafés.",
             "hu": "Pihenjen meg ezen a nyüzsgő téren, amely a negyed irodalmi és művészeti központja, és élvezze a kávézást a számos hagyományos teraszos kávézó egyikében.",
             "ro": "Relaxați-vă în această piață animată care reprezintă inima literară și artistică a cartierului și savurați o cafea la una dintre numeroasele cafenele tradiționale.",
-            "en": "Relax in this bustling square that forms the literary and artistic heart of the neighborhood, and enjoy a coffee at one of the many traditional sidewalk cafes."
+            "en": "Relax in this bustling square that forms the literary and artistic heart of the neighborhood, and enjoy a coffee at one of the many traditional sidewalk cafes.",
+            "tr": "Mahallenin edebi ve sanatsal kalbini oluşturan bu hareketli meydanda dinlenin ve birçok geleneksel kaldırım kafesinden birinde kahvenizin tadını çıkarın."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kurfürstendamm",
             "hu": "Kurfürstendamm",
             "ro": "Kurfürstendamm",
-            "en": "Kurfürstendamm"
+            "en": "Kurfürstendamm",
+            "tr": "Kurfürstendamm"
           },
           "coords": [
             13.312778,
@@ -128,7 +137,8 @@
             "de": "Schlendern Sie über diesen berühmten Boulevard, der Berlins westliches Zentrum prägt, und werfen Sie einen Blick in die eleganten Boutiquen und historischen Schaufenster.",
             "hu": "Sétáljon végig ezen a híres sugárúton, amely Berlin nyugati központját jelképezi, és vessen egy pillantást az elegáns butikokra, valamint a történelmi kirakatokra.",
             "ro": "Plimbați-vă pe acest bulevard faimos ce definește centrul vestic al Berlinului și aruncați o privire la buticurile elegante și vitrinele istorice.",
-            "en": "Stroll along this famous boulevard that defines Berlin's western center, and take a look at the elegant boutiques and historic window displays along the way."
+            "en": "Stroll along this famous boulevard that defines Berlin's western center, and take a look at the elegant boutiques and historic window displays along the way.",
+            "tr": "Berlin'in batı merkezini tanımlayan bu ünlü bulvar boyunca yürüyün ve yol boyunca zarif butiklere ve tarihi vitrinlere göz atın."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Tag königlich am Schloss Charlottenburg und tauchen Sie in die preußische Geschichte ein. Am Mittag verlagert sich das Flair ins moderne Zentrum, wo architektonische Meisterwerke wie die Deutsche Oper warten. Nachmittags laden belebte Plätze und der legendäre Kurfürstendamm zum Flanieren und Verweilen ein. Der Abend klingt im bunten Trubel Berlins um die Gedächtniskirche aus.",
         "hu": "Kezdje a napot fejedelmien a Charlottenburg kastélynál, és merüljön el a porosz történelemben. Délben a hangulat a modern városközpontba tevődik át, ahol olyan remekművek várják, mint a Deutsche Oper. Délután nyüzsgő terek és a legendás Kurfürstendamm hívogat sétára és pihenésre. Az este a Vilmos császár emléktemplom körüli pezsgő berlini forgatagban ér véget felejthetetlen élményekkel.",
         "ro": "Începeți ziua regal la Palatul Charlottenburg, cufundându-vă în istoria prusacă. La prânz, atmosfera se mută în centrul modern, unde vă așteaptă capodopere precum Deutsche Oper. După-amiaza, piețele animate și legendarul Kurfürstendamm vă invită la o plimbare relaxantă. Seara se încheie în agitația plină de culoare a Berlinului, în jurul impresionantei Biserici Memoriale.",
-        "en": "Start your day royally at Charlottenburg Palace, immersing yourself in Prussian history. By midday, the atmosphere shifts to the modern center, where architectural masterpieces like the Deutsche Oper await. In the afternoon, bustling squares and the legendary Kurfürstendamm invite you to stroll and relax. The evening winds down in the colorful hustle of Berlin around the Memorial Church."
+        "en": "Start your day royally at Charlottenburg Palace, immersing yourself in Prussian history. By midday, the atmosphere shifts to the modern center, where architectural masterpieces like the Deutsche Oper await. In the afternoon, bustling squares and the legendary Kurfürstendamm invite you to stroll and relax. The evening winds down in the colorful hustle of Berlin around the Memorial Church.",
+        "tr": "Gününüzü Charlottenburg Sarayı'nda kraliyet gibi başlayarak Prusya tarihine dalın. Öğleye doğru atmosfer modern merkeze kayar; Deutsche Oper gibi mimari başyapıtlar sizi bekler. Öğleden sonra hareketli meydanlar ve efsanevi Kurfürstendamm dolaşıp dinlenmeniz için sizi davet eder. Akşam, Anıt Kilise çevresindeki renkli hareketlilikte sakinleşir."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen im Schloss Charlottenburg, das perfekten Schutz vor dem Regen bietet. Mittags führt der Weg durch das Keramik-Museum, wo Sie trocken bleiben. Am Nachmittag spazieren Sie zur Deutschen Oper, nutzen Sie die U-Bahn-Passagen. Den Abend lassen Sie am Kurfürstendamm ausklingen, wo beleuchtete Schaufenster und Arkaden Schutz bieten und die nasse Straße stimmungsvoll glänzt.",
             "hu": "Kezdje a reggelt a Charlottenburg kastély pazar termeiben, ahol védve van az esőtől. Délben a Kerámia Múzeum kínál kulturális menedéket. Délután az Operaház környékén sétálunk, érdemes az árkádok alatt haladni. Az estét a Kurfürstendammon zárjuk, ahol a kivilágított kirakatok és a vizes aszfalton megcsillanó fények különleges, melankolikus hangulatot árasztanak a városi forgatagban.",
             "ro": "Începeți dimineața la Palatul Charlottenburg, interiorul oferind un refugiu perfect împotriva ploii. La prânz, vizitați Muzeul de Ceramică pentru a rămâne la adăpost. După-amiaza, mergeți spre Deutsche Oper, folosind pasajele acoperite. Seara se încheie pe Kurfürstendamm, unde vitrinele luminate și arcadele vă protejează de umezeală, oferind o perspectivă strălucitoare asupra orașului ud.",
-            "en": "Start your morning at Charlottenburg Palace, where the grand interiors provide a perfect refuge from the rain. At noon, the Ceramics Museum offers a dry cultural experience. In the afternoon, head towards the Opera House, staying under cover where possible. End the evening at Kurfürstendamm, where the city lights reflect beautifully on the wet pavement and shop arcades offer shelter."
+            "en": "Start your morning at Charlottenburg Palace, where the grand interiors provide a perfect refuge from the rain. At noon, the Ceramics Museum offers a dry cultural experience. In the afternoon, head towards the Opera House, staying under cover where possible. End the evening at Kurfürstendamm, where the city lights reflect beautifully on the wet pavement and shop arcades offer shelter.",
+            "tr": "Sabahınızı yağmurdan kaçınmak için Charlottenburg Sarayı'nda başlayın; görkemli iç mekanlar mükemmel bir sığınaktır. Öğle vakti Porselen Müzesi kuru ve kültürel bir deneyim sunar. Öğleden sonra Opera Binası'na yönelin, mümkün olduğunca örtülü bölgelerden ilerleyin. Akşamı Kurfürstendamm'da bitirin; şehir ışıkları ıslak kaldırımda güzel yansır ve alışveriş pasajları barınak sağlar."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Schloss Charlottenburg",
                 "hu": "Charlottenburg kastély",
                 "ro": "Palatul Charlottenburg",
-                "en": "Charlottenburg Palace"
+                "en": "Charlottenburg Palace",
+                "tr": "Charlottenburg Sarayı"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie die prunkvollen Innenräume und das Porzellankabinett, um dem Regen zu entfliehen. Ein fester Schirm ist für den Weg vom Tor zum Eingang des Schlosses unerlässlich.",
                 "hu": "Fedezze fel a pazar belső termeket és a porcelánkabinetet, így szárazon maradhat. A kaputól a bejáratig tartó rövid sétához mindenképp vigyen magával egy masszív esernyőt.",
                 "ro": "Vizitați interioarele somptuoase și cabinetul de porțelan pentru a scăpa de ploaie. O umbrelă rezistentă este esențială pentru drumul scurt de la poartă până la intrarea palatului.",
-                "en": "Explore the grand interiors and the porcelain cabinet to stay dry. A sturdy umbrella is essential for the short walk from the gate to the palace entrance during a downpour."
+                "en": "Explore the grand interiors and the porcelain cabinet to stay dry. A sturdy umbrella is essential for the short walk from the gate to the palace entrance during a downpour.",
+                "tr": "Geniş iç mekanları ve porselen dolabı keşfederek kuru kalın. Sağanak yağış sırasında kapıdan saray girişine yapılan kısa yürüyüş için sağlam bir şemsiye şart."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Keramik-Museum Berlin",
                 "hu": "Kerámia Múzeum Berlin",
                 "ro": "Muzeul de Ceramică Berlin",
-                "en": "Ceramics Museum Berlin"
+                "en": "Ceramics Museum Berlin",
+                "tr": "Porselen Müzesi Berlin"
               },
               "tip_5lang": {
                 "de": "Dieses kleine Museum ist ein idealer Rückzugsort bei Schmuddelwetter. Bewundern Sie die Exponate im Trockenen und achten Sie auf die rutschigen Fliesen im Eingangsbereich.",
                 "hu": "Ez a kis múzeum ideális menedék a barátságtalan időben. Csodálja meg a kiállítást a melegben, de vigyázzon a bejáratnál, mert a padló csúszóssá válhat a behordott víztől.",
                 "ro": "Acest mic muzeu este un refugiu ideal pe vreme rea. Admirați exponatele la adăpost și aveți grijă la gresia alunecoasă din zona de intrare din cauza umidității de afară.",
-                "en": "This small museum is a perfect retreat during bad weather. Enjoy the exhibits in the dry, and watch out for slippery tiles at the entrance caused by the rain outside."
+                "en": "This small museum is a perfect retreat during bad weather. Enjoy the exhibits in the dry, and watch out for slippery tiles at the entrance caused by the rain outside.",
+                "tr": "Bu küçük müze kötü hava koşullarında mükemmel bir sığınaktır. Sergilerin keyfini kuru ortamda çıkarın ve dışarıdaki yağmur nedeniyle girişteki kaygan fayanslara dikkat edin."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Deutsche Oper Berlin",
                 "hu": "Német Opera Berlin",
                 "ro": "Opera Germană din Berlin",
-                "en": "Deutsche Oper Berlin"
+                "en": "Deutsche Oper Berlin",
+                "tr": "Deutsche Oper Berlin"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das imposante Foyer für eine kurze Pause vom Regen. Das Gebäude bietet Schutz, aber tragen Sie wasserfeste Schuhe, da die umliegenden Gehwege oft tiefe Pfützen bilden.",
                 "hu": "Használja ki az impozáns előcsarnokot egy rövid pihenőre az eső elől. Az épület védelmet nyújt, de viseljen vízálló cipőt, mert a környékbeli járdákon mély tócsák alakulhatnak ki.",
                 "ro": "Folosiți foierul impunător pentru o scurtă pauză de ploaie. Clădirea oferă protecție, dar purtați încălțăminte impermeabilă, deoarece pe trotuarele din jur se pot forma bălți.",
-                "en": "Take advantage of the grand foyer for a short break from the rain. The building provides shelter, but wear waterproof shoes as deep puddles often form on the nearby sidewalks."
+                "en": "Take advantage of the grand foyer for a short break from the rain. The building provides shelter, but wear waterproof shoes as deep puddles often form on the nearby sidewalks.",
+                "tr": "Yağmurdan kısa bir mola için muhteşem fuayeyi kullanın. Bina barınak sağlar, ancak yakın kaldırımda sık sık derin su birikintileri oluştuğu için su geçirmez ayakkabılar giyin."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Savignyplatz",
                 "hu": "Savignyplatz",
                 "ro": "Piața Savigny",
-                "en": "Savignyplatz"
+                "en": "Savignyplatz",
+                "tr": "Savignyplatz"
               },
               "tip_5lang": {
                 "de": "Die S-Bahn-Bögen bieten hier trockene Passagen mit Cafés. Suchen Sie Schutz unter den Brücken und genießen Sie den Blick auf den regennassen Platz bei einem heißen Getränk.",
                 "hu": "Az S-Bahn árkádjai alatt szárazon maradhat a kávézók között. Keressen menedéket a hidak alatt, és élvezze az esőáztatta tér látványát egy forró ital mellől a fedett teraszon.",
                 "ro": "Arcadele S-Bahn oferă pasaje uscate cu cafenele. Căutați adăpost sub poduri și admirați piața udă de ploaie în timp ce savurați o băutură caldă într-un loc protejat.",
-                "en": "The S-Bahn arches provide dry passages lined with cafes. Seek shelter under the bridges and enjoy the view of the rain-soaked square while sipping a hot drink in a cozy spot."
+                "en": "The S-Bahn arches provide dry passages lined with cafes. Seek shelter under the bridges and enjoy the view of the rain-soaked square while sipping a hot drink in a cozy spot.",
+                "tr": "S-Bahn kemerleri kafelerle sıralanmış kuru geçitler sağlar. Köprü altlarında sığınak arayın ve sıcak bir içecekle yağmurla ıslanmış meydanı izleyin."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Kurfürstendamm",
                 "hu": "Kurfürstendamm",
                 "ro": "Kurfürstendamm",
-                "en": "Kurfürstendamm"
+                "en": "Kurfürstendamm",
+                "tr": "Kurfürstendamm"
               },
               "tip_5lang": {
                 "de": "Die zahlreichen Kaufhäuser und Passagen sind perfekt, um trocken zu flanieren. Achten Sie auf Spritzwasser von Autos, wenn Sie die breite Straße überqueren müssen.",
                 "hu": "A számos áruház és passzázs tökéletes a száraz sétához. Vigyázzon az elhaladó autók felcsapó vizére, amikor átkel a széles sugárúton, és maradjon inkább az árkádok védelmében.",
                 "ro": "Numeroasele magazine și pasaje sunt perfecte pentru o plimbare uscată. Atenție la apa stropită de mașinile care trec atunci când trebuie să traversați bulevardul larg.",
-                "en": "Numerous department stores and passages are perfect for dry strolling. Watch out for splashes from passing cars when crossing the wide street, and stick to the covered arcades."
+                "en": "Numerous department stores and passages are perfect for dry strolling. Watch out for splashes from passing cars when crossing the wide street, and stick to the covered arcades.",
+                "tr": "Sayısız mağaza ve pasaj kuru yürüyüşler için idealdir. Geniş caddeden karşıya geçerken geçen araçların sıçrattığı suya dikkat edin ve kapalı pasajlarda kalın."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen beginnt am Schloss, wo der Raureif den Garten verzaubert. Mittags wärmen Sie sich im Keramik-Museum auf. Nachmittags führt der Weg zur Oper, die in der frühen Dämmerung hell erleuchtet ist. Den Abend genießen Sie auf dem Kurfürstendamm, wenn ab 17:00 Uhr die prächtige Weihnachtsbeleuchtung die Dunkelheit vertreibt und die Berliner Winterluft belebt.",
             "hu": "A fagyos reggel a kastélynál kezdődik, ahol a zúzmara varázslatossá teszi a kertet. Délben a Kerámia Múzeumban melegedhet fel. Délután az Operához sétálunk, amely a korai szürkületben fényárban úszik. Az estét a Kurfürstendammon zárjuk, ahol 17 óra után a pazar ünnepi díszkivilágítás elűzi a sötétséget és meghitt téli hangulatot varázsol a városba.",
             "ro": "O dimineață geroasă începe la palat, unde chiciura transformă grădina. La prânz, încălziți-vă în Muzeul de Ceramică. După-amiaza, drumul duce la operă, luminată feeric în amurgul timpuriu. Seara se încheie pe Kurfürstendamm, unde de la ora 17:00 iluminatul festiv alungă întunericul și însuflețește atmosfera de iarnă berlineză.",
-            "en": "A frosty morning begins at the palace, where hoarfrost enchants the gardens. At noon, warm up inside the Ceramics Museum. In the afternoon, head to the Opera House, brightly lit in the early dusk. Spend the evening on Kurfürstendamm, where from 5:00 PM the magnificent holiday lights chase away the darkness and create a cozy winter atmosphere."
+            "en": "A frosty morning begins at the palace, where hoarfrost enchants the gardens. At noon, warm up inside the Ceramics Museum. In the afternoon, head to the Opera House, brightly lit in the early dusk. Spend the evening on Kurfürstendamm, where from 5:00 PM the magnificent holiday lights chase away the darkness and create a cozy winter atmosphere.",
+            "tr": "Donlu bir sabah sarayda başlar; kırağı bahçeleri büyüler. Öğle vakti Porselen Müzesi'nde içinizi ısıtın. Öğleden sonra Opera Binası'na gidin; erken alacakaranlıkta parlakça aydınlanır. Akşamı Kurfürstendamm'da geçirin; 17:00'den itibaren muhteşem tatil ışıkları karanlığı kovar ve sıcak bir kış atmosferi yaratır."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Schloss Charlottenburg",
                 "hu": "Charlottenburg kastély",
                 "ro": "Palatul Charlottenburg",
-                "en": "Charlottenburg Palace"
+                "en": "Charlottenburg Palace",
+                "tr": "Charlottenburg Sarayı"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die winterliche Stille im Schlosspark bei einem kurzen Spaziergang. Tragen Sie dicke Handschuhe, da die Kälte an den exponierten Wasserflächen besonders spürbar ist.",
                 "hu": "Csodálja meg a téli csendet a kastélyparkban egy rövid séta során. Viseljen vastag kesztyűt, mert a nyitott vízfelületek közelében a hideg szél sokkal metszőbbnek érződik.",
                 "ro": "Admirați liniștea iernii în parcul palatului în timpul unei scurte plimbări. Purtați mănuși groase, deoarece frigul este resimțit mai puternic lângă suprafețele de apă expuse.",
-                "en": "Enjoy the winter silence in the palace park during a brief walk. Wear thick gloves, as the cold wind feels much sharper near the open water areas and the canal."
+                "en": "Enjoy the winter silence in the palace park during a brief walk. Wear thick gloves, as the cold wind feels much sharper near the open water areas and the canal.",
+                "tr": "Kısa bir yürüyüş sırasında saray parkında kış sessizliğinin tadını çıkarın. Soğuk rüzgâr açık su alanlarında ve kanal yakınında çok daha keskin hissedildiği için kalın eldiven giyin."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Keramik-Museum Berlin",
                 "hu": "Kerámia Múzeum Berlin",
                 "ro": "Muzeul de Ceramică Berlin",
-                "en": "Ceramics Museum Berlin"
+                "en": "Ceramics Museum Berlin",
+                "tr": "Porselen Müzesi Berlin"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Besuch, um sich gründlich aufzuwärmen. Das Gebäude ist gut beheizt; lassen Sie Ihre nasse Winterkleidung an der Garderobe, um die Ausstellung voll zu genießen.",
                 "hu": "Használja ki a látogatást egy alapos átmelegedésre. A történelmi épület jól fűtött; hagyja a nehéz téli kabátot a ruhatárban, hogy kényelmesen élvezhesse a kiállítást.",
                 "ro": "Profitați de vizită pentru a vă încălzi bine. Clădirea istorică este bine încălzită; lăsați hainele groase de iarnă la garderobă pentru a vă bucura în confort de expoziție.",
-                "en": "Take this opportunity to warm up thoroughly. The historic building is well-heated; leave your heavy winter gear at the cloakroom to enjoy the ceramics exhibition comfortably."
+                "en": "Take this opportunity to warm up thoroughly. The historic building is well-heated; leave your heavy winter gear at the cloakroom to enjoy the ceramics exhibition comfortably.",
+                "tr": "Bu fırsatı iyice ısınmak için değerlendirin. Tarihi bina iyi ısıtılır; porselen sergisinin tadını rahatça çıkarmak için ağır kış giysilerinizi emanet bölümüne bırakın."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Deutsche Oper Berlin",
                 "hu": "Német Opera Berlin",
                 "ro": "Opera Germană din Berlin",
-                "en": "Deutsche Oper Berlin"
+                "en": "Deutsche Oper Berlin",
+                "tr": "Deutsche Oper Berlin"
               },
               "tip_5lang": {
                 "de": "Die beleuchtete Fassade ist in der frühen Dunkelheit ein tolles Fotomotiv. Achten Sie auf festes Schuhwerk, da die Treppen und Vorplätze bei Frost sehr glatt sein können.",
                 "hu": "A kivilágított homlokzat a korai sötétedésben kiváló fotótéma. Viseljen csúszásmentes talpú cipőt, mert a lépcsők és az előtér fagypont alatt rendkívül síkossá válhatnak.",
                 "ro": "Fațada iluminată este un subiect foto excelent în întunericul timpuriu. Purtați încălțăminte cu talpă aderentă, deoarece treptele și piațeta pot fi foarte alunecoase la îngheț.",
-                "en": "The illuminated facade is a great photo spot in the early winter darkness. Wear shoes with good grip, as the stairs and the forecourt can become very slippery when it freezes."
+                "en": "The illuminated facade is a great photo spot in the early winter darkness. Wear shoes with good grip, as the stairs and the forecourt can become very slippery when it freezes.",
+                "tr": "Aydınlatılmış cephe erken kış karanlığında harika bir fotoğraf noktasıdır. Merdivenler ve ön avlu donduğunda çok kaygan olabileceğinden tutuşu iyi ayakkabılar giyin."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Savignyplatz",
                 "hu": "Savignyplatz",
                 "ro": "Piața Savigny",
-                "en": "Savignyplatz"
+                "en": "Savignyplatz",
+                "tr": "Savignyplatz"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die gemütliche Atmosphäre in den Buchläden und Cafés. Die S-Bahn-Bögen bieten Schutz vor Wind; wärmen Sie sich mit einem Punsch an einem Kiosk auf.",
                 "hu": "Élvezze a hangulatos légkört a közeli könyvesboltokban és kávézókban. Az S-Bahn árkádjai védenek a hideg széltől; melegedjen fel egy forró punccsal valamelyik kinti árusnál.",
                 "ro": "Bucurați-vă de atmosfera primitoare din librăriile și cafenelele din jur. Arcadele S-Bahn oferă adăpost împotriva vântului rece; încălziți-vă cu un punch de la un chioșc local.",
-                "en": "Enjoy the cozy atmosphere in the nearby bookstores and cafes. The S-Bahn arches provide shelter from the cold wind; warm up with a hot punch from a local street vendor."
+                "en": "Enjoy the cozy atmosphere in the nearby bookstores and cafes. The S-Bahn arches provide shelter from the cold wind; warm up with a hot punch from a local street vendor.",
+                "tr": "Yakınlardaki kitapçılar ve kafelerdeki samimi atmosferin tadını çıkarın. S-Bahn kemerleri soğuk rüzgârdan korur; yerel bir sokak satıcısından sıcak bir ponç ile ısının."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Kurfürstendamm",
                 "hu": "Kurfürstendamm",
                 "ro": "Kurfürstendamm",
-                "en": "Kurfürstendamm"
+                "en": "Kurfürstendamm",
+                "tr": "Kurfürstendamm"
               },
               "tip_5lang": {
                 "de": "Die Weihnachtsbeleuchtung macht den abendlichen Bummel ab 17 Uhr unvergesslich. Tragen Sie Thermokleidung, damit Sie trotz der Kälte die Schaufenster genießen können.",
                 "hu": "Az ünnepi díszkivilágítás 17 óra után felejthetetlenná teszi az esti korzózást. Viseljen termoruházatot, hogy a hideg ellenére is élvezhesse a kirakatok csillogó pompáját.",
                 "ro": "Iluminatul festiv face plimbarea de seară după ora 17 de neuitat. Purtați haine termice pentru a vă bucura de splendoarea vitrinelor strălucitoare în ciuda frigului de afară.",
-                "en": "The holiday lights make an evening stroll after 5 PM unforgettable. Wear thermal clothing so you can enjoy the glittering window displays despite the biting winter cold."
+                "en": "The holiday lights make an evening stroll after 5 PM unforgettable. Wear thermal clothing so you can enjoy the glittering window displays despite the biting winter cold.",
+                "tr": "Tatil ışıkları 17:00'den sonra akşam yürüyüşünü unutulmaz kılar. Parlak vitrinleri ısrarla izleyebilmek için termal giysiler giyin ve ısırıcı kış soğuğuna karşı korun."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Schloss Charlottenburg",
             "hu": "Charlottenburg kastély",
             "ro": "Palatul Charlottenburg",
-            "en": "Charlottenburg Palace"
+            "en": "Charlottenburg Palace",
+            "tr": "Charlottenburg Sarayı"
           },
           "coords": [
             13.295833,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die prachtvollen Räume dieses barocken Schlosses, das Berlins königliche Geschichte erzählt, und kommen Sie früh, um die weitläufigen Gärten in Ruhe zu genießen.",
             "hu": "Csodálja meg e barokk kastély pompás termeit, melyek Berlin királyi múltját idézik, és érkezzen korán, hogy nyugodtan sétálhasson a tágas kertekben.",
             "ro": "Admirați sălile somptuoase ale acestui palat baroc ce reflectă istoria regală a Berlinului și veniți devreme pentru a vă bucura în liniște de grădinile întinse.",
-            "en": "Admire the sumptuous rooms of this baroque palace that reflects Berlin's royal history, and arrive early to enjoy a peaceful stroll through the expansive gardens."
+            "en": "Admire the sumptuous rooms of this baroque palace that reflects Berlin's royal history, and arrive early to enjoy a peaceful stroll through the expansive gardens.",
+            "tr": "Berlin'in kraliyet tarihini yansıtan bu barok sarayın görkemli odalarına hayran kalın ve geniş bahçelerde huzurlu bir yürüyüşün tadını çıkarmak için erken varın."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Deutsche Oper Berlin",
             "hu": "Német Opera Berlin",
             "ro": "Opera Germană din Berlin",
-            "en": "Deutsche Oper Berlin"
+            "en": "Deutsche Oper Berlin",
+            "tr": "Deutsche Oper Berlin"
           },
           "coords": [
             13.308333,
@@ -352,7 +388,8 @@
             "de": "Erleben Sie die moderne Architektur dieses berühmten Opernhauses, das für seine exzellente Akustik bekannt ist, und buchen Sie Tickets für Vorstellungen am besten weit im Voraus.",
             "hu": "Tapasztalja meg e híres operaház modern építészetét, amely kiváló akusztikájáról ismert, és érdemes jó előre jegyet foglalni a népszerű esti előadásokra.",
             "ro": "Experimentați arhitectura modernă a acestei celebre opere, cunoscută pentru acustica sa excelentă, și rezervați biletele cu mult timp înainte pentru spectacole.",
-            "en": "Experience the modern architecture of this renowned opera house, famous for its excellent acoustics, and book your tickets well in advance for popular evening performances."
+            "en": "Experience the modern architecture of this renowned opera house, famous for its excellent acoustics, and book your tickets well in advance for popular evening performances.",
+            "tr": "Mükemmel akustiğiyle ünlü bu tanınmış opera binasının modern mimarisini deneyimleyin ve popüler akşam gösterileri için biletlerinizi erkenden alın."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Renaissance-Theater Berlin",
             "hu": "Renaissance Színház Berlin",
             "ro": "Teatrul Renașterii din Berlin",
-            "en": "Renaissance Theater Berlin"
+            "en": "Renaissance Theater Berlin",
+            "tr": "Renaissance Tiyatrosu Berlin"
           },
           "coords": [
             13.323503,
@@ -375,7 +413,8 @@
             "de": "Betrachten Sie die beeindruckende Art-déco-Fassade dieses einzigartigen Theaters, das moderne Dramatik bietet, und prüfen Sie den Spielplan für zeitgenössische Stücke.",
             "hu": "Tekintse meg e különleges színház lenyűgöző art deco homlokzatát, amely modern drámákat kínál, és ellenőrizze a műsort a kortárs darabok megtekintéséhez.",
             "ro": "Admirați fațada impresionantă art deco a acestui teatru unic ce oferă drame moderne și verificați programul pentru piese contemporane captivante.",
-            "en": "Admire the impressive Art Deco facade of this unique theater offering modern drama, and check the schedule for captivating contemporary plays and performances."
+            "en": "Admire the impressive Art Deco facade of this unique theater offering modern drama, and check the schedule for captivating contemporary plays and performances.",
+            "tr": "Modern dram sunan bu benzersiz tiyatronun etkileyici Art Deco cephesine hayran kalın ve büyüleyici çağdaş oyunlar için programı kontrol edin."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Kaiser-Wilhelm-Gedächtniskirche",
             "hu": "Vilmos császár emléktemplom",
             "ro": "Biserica Memorială Kaiser Wilhelm",
-            "en": "Kaiser Wilhelm Memorial Church"
+            "en": "Kaiser Wilhelm Memorial Church",
+            "tr": "Kaiser Wilhelm Anıt Kilisesi"
           },
           "coords": [
             13.335278,
@@ -398,7 +438,8 @@
             "de": "Besichtigen Sie die eindrucksvolle Turmruine dieser Kirche, die als Mahnmal für den Frieden dient, und bestaunen Sie das blaue Glaswunder im modernen Neubau daneben.",
             "hu": "Tekintse meg a templom lenyűgöző toronyromját, amely a béke emlékműveként szolgál, és csodálja meg a mellette lévő modern épület kék üvegcsodáját.",
             "ro": "Vizitați ruinele impresionante ale turnului acestei biserici, ce servește ca memorial pentru pace, și admirați vitraliile albastre din clădirea modernă alăturată.",
-            "en": "Visit the impressive ruined tower of this church that serves as a memorial for peace, and marvel at the stunning blue stained glass in the modern building next door."
+            "en": "Visit the impressive ruined tower of this church that serves as a memorial for peace, and marvel at the stunning blue stained glass in the modern building next door.",
+            "tr": "Barış anıtı olarak hizmet eden bu kilisenin etkileyici yıkık kulesini ziyaret edin ve yanındaki modern binadaki çarpıcı mavi vitraylara hayran kalın."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Zoologischer Garten Berlin",
             "hu": "Berlini Állatkert",
             "ro": "Grădina Zoologică din Berlin",
-            "en": "Berlin Zoological Garden"
+            "en": "Berlin Zoological Garden",
+            "tr": "Berlin Zoolojik Bahçesi"
           },
           "coords": [
             13.3375,
@@ -421,7 +463,8 @@
             "de": "Erkunden Sie Deutschlands ältesten Zoo, der eine enorme Artenvielfalt in historischen Gehegen beherbergt, und planen Sie genug Zeit für das faszinierende Flusspferdhaus ein.",
             "hu": "Fedezze fel Németország legrégebbi állatkertjét, amely hatalmas fajgazdagságnak ad otthont történelmi kifutókban, és szánjon elég időt a lenyűgöző vízilóházra.",
             "ro": "Explorați cel mai vechi zoo din Germania, care găzduiește o diversitate enormă de specii în incinte istorice, și planificați suficient timp pentru fascinanta casă a hipopotamilor.",
-            "en": "Explore Germany's oldest zoo, home to an enormous variety of species in historic enclosures, and allocate plenty of time for the fascinating hippopotamus house."
+            "en": "Explore Germany's oldest zoo, home to an enormous variety of species in historic enclosures, and allocate plenty of time for the fascinating hippopotamus house.",
+            "tr": "Alışılagelmiş korular içinde çok çeşitli türlere ev sahipliği yapan Almanya'nın en eski hayvanat bahçesini keşfedin ve hipopotam evine bolca zaman ayırın."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Kurfürstendamm",
             "hu": "Kurfürstendamm",
             "ro": "Kurfürstendamm",
-            "en": "Kurfürstendamm"
+            "en": "Kurfürstendamm",
+            "tr": "Kurfürstendamm"
           },
           "coords": [
             13.312778,
@@ -444,7 +488,8 @@
             "de": "Schlendern Sie über diesen berühmten Boulevard, der Berlins westliches Zentrum prägt, und werfen Sie einen Blick in die eleganten Boutiquen und historischen Schaufenster.",
             "hu": "Sétáljon végig ezen a híres sugárúton, amely Berlin nyugati központját jelképezi, és vessen egy pillantást az elegáns butikokra, valamint a történelmi kirakatokra.",
             "ro": "Plimbați-vă pe acest bulevard faimos ce definește centrul vestic al Berlinului și aruncați o privire la buticurile elegante și vitrinele istorice.",
-            "en": "Stroll along this famous boulevard that defines Berlin's western center, and take a look at the elegant boutiques and historic window displays along the way."
+            "en": "Stroll along this famous boulevard that defines Berlin's western center, and take a look at the elegant boutiques and historic window displays along the way.",
+            "tr": "Berlin'in batı merkezini tanımlayan bu ünlü bulvar boyunca yürüyün ve yol boyunca zarif butiklere ve tarihi vitrinlere göz atın."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie den Tag königlich am Schloss Charlottenburg und tauchen Sie in die preußische Geschichte ein. Am Mittag verlagert sich das Flair ins moderne Zentrum, wo architektonische Meisterwerke wie die Deutsche Oper warten. Nachmittags laden belebte Plätze und der legendäre Kurfürstendamm zum Flanieren und Verweilen ein. Der Abend klingt im bunten Trubel Berlins um die Gedächtniskirche aus.",
         "hu": "Kezdje a napot fejedelmien a Charlottenburg kastélynál, és merüljön el a porosz történelemben. Délben a hangulat a modern városközpontba tevődik át, ahol olyan remekművek várják, mint a Deutsche Oper. Délután nyüzsgő terek és a legendás Kurfürstendamm hívogat sétára és pihenésre. Az este a Vilmos császár emléktemplom körüli pezsgő berlini forgatagban ér véget felejthetetlen élményekkel.",
         "ro": "Începeți ziua regal la Palatul Charlottenburg, cufundându-vă în istoria prusacă. La prânz, atmosfera se mută în centrul modern, unde vă așteaptă capodopere precum Deutsche Oper. După-amiaza, piețele animate și legendarul Kurfürstendamm vă invită la o plimbare relaxantă. Seara se încheie în agitația plină de culoare a Berlinului, în jurul impresionantei Biserici Memoriale.",
-        "en": "Start your day royally at Charlottenburg Palace, immersing yourself in Prussian history. By midday, the atmosphere shifts to the modern center, where architectural masterpieces like the Deutsche Oper await. In the afternoon, bustling squares and the legendary Kurfürstendamm invite you to stroll and relax. The evening winds down in the colorful hustle of Berlin around the Memorial Church."
+        "en": "Start your day royally at Charlottenburg Palace, immersing yourself in Prussian history. By midday, the atmosphere shifts to the modern center, where architectural masterpieces like the Deutsche Oper await. In the afternoon, bustling squares and the legendary Kurfürstendamm invite you to stroll and relax. The evening winds down in the colorful hustle of Berlin around the Memorial Church.",
+        "tr": "Gününüzü Charlottenburg Sarayı'nda kraliyet gibi başlayarak Prusya tarihine dalın. Öğleye doğru atmosfer modern merkeze kayar; Deutsche Oper gibi mimari başyapıtlar sizi bekler. Öğleden sonra hareketli meydanlar ve efsanevi Kurfürstendamm dolaşıp dinlenmeniz için sizi davet eder. Akşam, Anıt Kilise çevresindeki renkli hareketlilikte sona erer."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Starten Sie vorsichtig am Schloss, die Wege können rutschig sein. Mittags führt die Fahrt zur Oper, nutzen Sie Radwege mit gutem Asphalt. Am Nachmittag geht es zum Renaissance-Theater und zur Gedächtniskirche. Der Abend endet im Zoo und am Ku'damm, wo die Lichter auf dem nassen Asphalt leuchten. Tragen Sie eine hochwertige Regenjacke und achten Sie auf Schienen.",
             "hu": "Kezdje óvatosan a kastélynál, az utak csúszósak lehetnek. Délben tekerjen az Operához, aszfaltozott kerékpárutakat használva. Délután látogasson el a Renaissance Színházhoz és az emléktemplomhoz. A nap a Zoo-nál és a Ku'dammon zárul, ahol a fények megcsillannak a vizes aszfalton. Viseljen jó esőkabátot, és figyeljen a villamossínekre a kanyarokban.",
             "ro": "Începeți cu prudență la palat, pistele pot fi alunecoase. La prânz, pedalați spre Operă pe rute asfaltate. După-amiaza, vizitați Teatrul Renaissance și Biserica Memorială. Ziua se încheie la Zoo și pe Ku'damm, unde luminile reflectă pe asfaltul ud. Purtați o pelerină de ploaie de calitate și atenție sporită la șinele de tramvai.",
-            "en": "Start carefully at the palace, as the paths can be slippery. At noon, cycle to the Opera using well-paved bike lanes. In the afternoon, visit the Renaissance Theater and the Memorial Church. The day ends at the Zoo and Ku'damm, where lights reflect on the wet pavement. Wear a high-quality raincoat and watch out for tram tracks in the rain."
+            "en": "Start carefully at the palace, as the paths can be slippery. At noon, cycle to the Opera using well-paved bike lanes. In the afternoon, visit the Renaissance Theater and the Memorial Church. The day ends at the Zoo and Ku'damm, where lights reflect on the wet pavement. Wear a high-quality raincoat and watch out for tram tracks in the rain.",
+            "tr": "Nazikçe başlayın; saray yolları kaygan olabilir. Öğle vakti iyi döşenmiş bisiklet yollarını kullanarak Operaya gidin. Öğleden sonra Renaissance Tiyatrosu ve Anıt Kilise'yi ziyaret edin. Gün, Zoo ve Ku'damm'da sona erer; ışıklar ıslak pavmente yansır. Kaliteli bir yağmurluk giyin ve yağmurda tramvay raylarına dikkat edin."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Schloss Charlottenburg",
                 "hu": "Charlottenburg kastély",
                 "ro": "Palatul Charlottenburg",
-                "en": "Charlottenburg Palace"
+                "en": "Charlottenburg Palace",
+                "tr": "Charlottenburg Sarayı"
               },
               "tip_5lang": {
                 "de": "Die gepflasterten Wege am Schloss sind bei Nässe sehr glatt. Fahren Sie langsam und nutzen Sie kurze Regenpausen, um die Außenarchitektur des Barockbaus zu bewundern.",
                 "hu": "A kastély körüli macskaköves utak nedvesen nagyon csúsznak. Tekerjen lassan, és használja ki a rövidebb esőszüneteket a barokk épület külső díszeinek megcsodálására.",
                 "ro": "Aleile pavate de la palat sunt foarte alunecoase când sunt ude. Pedalați încet și profitați de scurte pauze de ploaie pentru a admira arhitectura exterioară barocă.",
-                "en": "The cobblestone paths around the palace are very slippery when wet. Cycle slowly and use short breaks in the rain to admire the Baroque exterior architecture safely."
+                "en": "The cobblestone paths around the palace are very slippery when wet. Cycle slowly and use short breaks in the rain to admire the Baroque exterior architecture safely.",
+                "tr": "Saray çevresindeki parke taş yollar ıslandığında çok kaygan olur. Yavaşça bisiklet sürün ve yağmur sırasında Barok dış mimariye güvenli bir şekilde hayran kalmak için kısa molalar verin."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Deutsche Oper Berlin",
                 "hu": "Német Opera Berlin",
                 "ro": "Opera Germană din Berlin",
-                "en": "Deutsche Oper Berlin"
+                "en": "Deutsche Oper Berlin",
+                "tr": "Deutsche Oper Berlin"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad nah am Eingang unter dem Vordach. Achten Sie auf den Verkehr, da die Sicht bei Regen für Autofahrer auf der Bismarckstraße oft eingeschränkt ist.",
                 "hu": "Parkolja le a biciklit a bejárat közelében, az előtető alatt. Figyeljen a Bismarckstraße erős forgalmára, mert esőben az autósok látási viszonyai jelentősen romlanak.",
                 "ro": "Parcați bicicleta aproape de intrare sub copertină. Atenție la traficul intens de pe Bismarckstraße, deoarece vizibilitatea șoferilor este adesea redusă în timpul ploii.",
-                "en": "Park your bike near the entrance under the overhang to keep it dry. Watch out for heavy traffic on Bismarckstraße, as driver visibility is often reduced during rain."
+                "en": "Park your bike near the entrance under the overhang to keep it dry. Watch out for heavy traffic on Bismarckstraße, as driver visibility is often reduced during rain.",
+                "tr": "Bisikletinizi girişin yakınında saçak altına park ederek kuru tutun. Bismarckstraße'de yoğun trafiğe dikkat edin; yağmurda sürücü görüşü sıklıkla azalır."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Renaissance-Theater Berlin",
                 "hu": "Renaissance Színház Berlin",
                 "ro": "Teatrul Renașterii din Berlin",
-                "en": "Renaissance Theater Berlin"
+                "en": "Renaissance Theater Berlin",
+                "tr": "Renaissance Tiyatrosu Berlin"
               },
               "tip_5lang": {
                 "de": "Das markante Art-Déco-Gebäude ist ein toller Orientierungspunkt. Suchen Sie bei einem plötzlichen Schauer Schutz unter den Bäumen oder direkt im Eingangsbereich des Theaters.",
                 "hu": "A jellegzetes Art Deco épület kiváló tájékozódási pont. Egy hirtelen zápor esetén keressen menedéket a közeli fák alatt vagy közvetlenül a színház bejárati részénél.",
                 "ro": "Clădirea distinctivă Art Deco este un punct de reper excelent. În caz de aversă bruscă, căutați adăpost sub copaci sau chiar în zona de intrare a teatrului.",
-                "en": "This striking Art Deco building is an excellent landmark. If a sudden shower starts, seek shelter under the nearby trees or directly in the theater's entrance area."
+                "en": "This striking Art Deco building is an excellent landmark. If a sudden shower starts, seek shelter under the nearby trees or directly in the theater's entrance area.",
+                "tr": "Bu çarpıcı Art Deco yapı müthiş bir yerdir. Ani bir sağanak başlarsa, yakındaki ağaçların altına veya doğrudan tiyatronun giriş alanına sığın."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Kaiser-Wilhelm-Gedächtniskirche",
                 "hu": "Vilmos császár emléktemplom",
                 "ro": "Biserica Memorială Kaiser Wilhelm",
-                "en": "Kaiser Wilhelm Memorial Church"
+                "en": "Kaiser Wilhelm Memorial Church",
+                "tr": "Kaiser Wilhelm Anıt Kilisesi"
               },
               "tip_5lang": {
                 "de": "Die blaue Verglasung wirkt bei grauem Regenwetter besonders intensiv. Stellen Sie Ihr Rad sicher ab und genießen Sie die spirituelle Stille im Inneren der Kirche.",
                 "hu": "Az új épület kék üvegablakai szürke esőben különösen intenzív fényt árasztanak. Zárja le biztonságosan a biciklit, és élvezze a belső tér spirituális nyugalmát és csendjét.",
                 "ro": "Vitraliile albastre ale clădirii noi par deosebit de intense pe vreme ploioasă. Parcați bicicleta în siguranță și bucurați-vă de liniștea spirituală din interiorul bisericii.",
-                "en": "The blue glass walls of the new building look especially intense during grey rainy weather. Park your bike securely and enjoy the spiritual silence inside the church."
+                "en": "The blue glass walls of the new building look especially intense during grey rainy weather. Park your bike securely and enjoy the spiritual silence inside the church.",
+                "tr": "Yeni binanın mavi cam duvarları gri yağmurlu havada özellikle yoğun görünür. Bisikletinizi güvenle park edin ve kilisenin içindeki manevi sessizliğin tadını çıkarın."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Zoologischer Garten Berlin",
                 "hu": "Berlini Állatkert",
                 "ro": "Grădina Zoologică din Berlin",
-                "en": "Berlin Zoological Garden"
+                "en": "Berlin Zoological Garden",
+                "tr": "Berlin Zoolojik Bahçesi"
               },
               "tip_5lang": {
                 "de": "Viele Tierhäuser sind überdacht und bieten Schutz. Nutzen Sie die asphaltierten Wege im Park, um Pfützen zu vermeiden, und parken Sie Ihr Rad am Haupteingang.",
                 "hu": "Sok állatház fedett, így kiváló menedéket nyújtanak az eső elől. Használja a parkon belüli aszfaltozott utakat a tócsák elkerülésére, és hagyja a bringát a főbejáratnál.",
                 "ro": "Multe pavilioane pentru animale sunt acoperite și oferă adăpost împotriva ploii. Folosiți potecile asfaltate pentru a evita bălțile și parcați bicicleta la intrarea principală.",
-                "en": "Many animal houses are indoor and offer great shelter from the rain. Use the paved paths inside the park to avoid puddles and leave your bike at the main entrance."
+                "en": "Many animal houses are indoor and offer great shelter from the rain. Use the paved paths inside the park to avoid puddles and leave your bike at the main entrance.",
+                "tr": "Birçok hayvan evi kapalı alanda olduğundan yağmurdan korunmak için idealdir. Su birikintilerinden kaçınmak için park içindeki döşeli yollardan gidin ve bisikletinizi ana girişte bırakın."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Kurfürstendamm",
                 "hu": "Kurfürstendamm",
                 "ro": "Kurfürstendamm",
-                "en": "Kurfürstendamm"
+                "en": "Kurfürstendamm",
+                "tr": "Kurfürstendamm"
               },
               "tip_5lang": {
                 "de": "Radeln Sie vorsichtig über nasse Markierungen, da diese sehr glatt sind. Die breiten Gehwege bieten unter Arkaden Schutz, falls Sie eine Pause vom Regen benötigen.",
                 "hu": "Tekerjen óvatosan a vizes útburkolati jeleken, mert azok ilyenkor rendkívül csúsznak. A széles járdák árkádjai alatt megpihenhet, ha túl intenzívvé válna az esőzés.",
                 "ro": "Pedalați cu atenție peste marcajele rutiere ude, deoarece pot fi alunecoase. Arcadele de pe trotuarele largi oferă adăpost dacă aveți nevoie de o pauză de la ploaie.",
-                "en": "Cycle carefully over wet road markings as they can be extremely slippery. The wide sidewalks have many arcades where you can take a break if the rain becomes too heavy."
+                "en": "Cycle carefully over wet road markings as they can be extremely slippery. The wide sidewalks have many arcades where you can take a break if the rain becomes too heavy.",
+                "tr": "Islak yol işaretleri üzerinde dikkatlice bisiklet sürün; çok kaygan olabilirler. Geniş kaldırımlarda yağmur çok şiddetliyse mola verebileceğiniz birçok arcade (kapalı pasaj) vardır."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein knackig kalter Morgen am Schloss erfordert warme Kleidung. Mittags radeln Sie zur Oper, achten Sie auf überfrierende Nässe im Schatten der Gebäude. Nachmittags geht es zum Renaissance-Theater und zur Gedächtniskirche. Ab 17:00 Uhr wird es dunkel, nutzen Sie eine gute Fahrradbeleuchtung für die Fahrt zum Zoo und zum Ku'damm, wo die Lichterglanz-Atmosphäre Sie begeistern wird.",
             "hu": "A csípős hideg reggel a kastélynál meleg ruhát igényel. Délben tekerjen az Operához, de ügyeljen a jeges foltokra az épületek árnyékában. Délután a Renaissance Színház és az emléktemplom következik. 17 órától sötétedik, használjon erős lámpákat a Zoo és a Ku'damm felé, ahol a kivilágított sugárút látványa kárpótolja a hidegért.",
             "ro": "O dimineață geroasă la palat necesită haine groase. La prânz, pedalați spre Operă, dar atenție la gheața din umbra clădirilor. După-amiaza, vizitați Teatrul Renaissance și Biserica Memorială. De la ora 17 se întunecă, folosiți lumini bune pentru drumul spre Zoo și Ku'damm, unde decorul festiv vă va încânta.",
-            "en": "A crisp cold morning at the palace requires warm layers. At noon, cycle to the Opera, but watch for icy patches in the shade of buildings. In the afternoon, visit the Renaissance Theater and the Memorial Church. It gets dark from 5 PM, so use good bike lights for the trip to the Zoo and Ku'damm, where the festive lights will delight you."
+            "en": "A crisp cold morning at the palace requires warm layers. At noon, cycle to the Opera, but watch for icy patches in the shade of buildings. In the afternoon, visit the Renaissance Theater and the Memorial Church. It gets dark from 5 PM, so use good bike lights for the trip to the Zoo and Ku'damm, where the festive lights will delight you.",
+            "tr": "Sarayda serin bir sabah için sıcak katmanlar gereklidir. Öğle vakti Operaya bisikletle gidin, ancak binaların gölgesindeki buzlanma noktalarına dikkat edin. Öğleden sonra Renaissance Tiyatrosu ve Anıt Kilise'yi ziyaret edin. 17:00'den itibaren hava karardığı için Zoo ve Ku'damm'a giderken iyi bisiklet ışıkları kullanın; şenlik ışıkları sizi memnun edecektir."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Schloss Charlottenburg",
                 "hu": "Charlottenburg kastély",
                 "ro": "Palatul Charlottenburg",
-                "en": "Charlottenburg Palace"
+                "en": "Charlottenburg Palace",
+                "tr": "Charlottenburg Sarayı"
               },
               "tip_5lang": {
                 "de": "Die kühle Winterluft am Spreeufer ist erfrischend, aber windanfällig. Schützen Sie Ihr Gesicht mit einem Schal und genießen Sie das Schloss im fahlen Winterlicht.",
                 "hu": "A Spree-parti hűvös téli levegő frissítő, de a szél könnyen áthűt. Védje arcát sállal, és élvezze a kastély látványát a bágyadt téli napsütésben vagy a ködben.",
                 "ro": "Aerul rece de iarnă de pe malul râului Spree este revigorant, dar vântul bate tare. Protejați-vă fața cu un fular și admirați palatul în lumina palidă a iernii.",
-                "en": "The cool winter air by the Spree is refreshing but prone to wind chill. Protect your face with a scarf and enjoy the view of the palace in the pale winter light."
+                "en": "The cool winter air by the Spree is refreshing but prone to wind chill. Protect your face with a scarf and enjoy the view of the palace in the pale winter light.",
+                "tr": "Spree kıyısındaki serin kış havası ferahlatıcıdır ancak rüzgâr üşütmesi yapar. Yüzünüzü bir atkıyla koruyun ve sarayın soluk kış ışığındaki manzarasının tadını çıkarın."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Deutsche Oper Berlin",
                 "hu": "Német Opera Berlin",
                 "ro": "Opera Germană din Berlin",
-                "en": "Deutsche Oper Berlin"
+                "en": "Deutsche Oper Berlin",
+                "tr": "Deutsche Oper Berlin"
               },
               "tip_5lang": {
                 "de": "Der Vorplatz kann bei Frost tückisch glatt sein. Parken Sie Ihr Rad vorsichtig und nutzen Sie die kurzen Wege, um sich im Inneren des Foyers kurz aufzuwärmen.",
                 "hu": "Az előtér fagy idején csalóka módon csúszós lehet. Parkoljon óvatosan, és használja ki a rövid sétát, hogy az épület előterében egy kicsit felmelegedjen a hideg tekerés után.",
                 "ro": "Piațeta poate fi înșelător de alunecoasă la îngheț. Parcați bicicleta cu atenție și profitați de distanțele scurte pentru a vă încălzi puțin în interiorul foierului.",
-                "en": "The forecourt can be treacherously slippery during frost. Park your bike carefully and take the opportunity to warm up for a few minutes inside the grand foyer."
+                "en": "The forecourt can be treacherously slippery during frost. Park your bike carefully and take the opportunity to warm up for a few minutes inside the grand foyer.",
+                "tr": "Don sırasında ön avlu aldatıcı derecede kaygan olabilir. Bisikletinizi dikkatlice park edin ve muhteşem fuayede birkaç dakika ısınma fırsatını değerlendirin."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Renaissance-Theater Berlin",
                 "hu": "Renaissance Színház Berlin",
                 "ro": "Teatrul Renașterii din Berlin",
-                "en": "Renaissance Theater Berlin"
+                "en": "Renaissance Theater Berlin",
+                "tr": "Renaissance Tiyatrosu Berlin"
               },
               "tip_5lang": {
                 "de": "In der frühen Dämmerung strahlt die Fassade eine besondere Wärme aus. Sorgen Sie für warme Handschuhe, da Metalllenker die Kälte direkt auf die Hände übertragen.",
                 "hu": "A korai szürkületben az Art Deco homlokzat különleges melegséget áraszt. Viseljen vastag kesztyűt, mert a kerékpár fém kormánya ilyenkor szinte égeti a kezet a hidegtől.",
                 "ro": "În amurgul timpuriu, fațada Art Deco emană o căldură specială. Purtați mănuși groase, deoarece ghidonul metalic al bicicletei transmite direct frigul către mâini.",
-                "en": "In the early dusk, the Art Deco facade radiates a special warmth. Ensure you have warm gloves, as the metal handlebars of your bike will transmit the cold directly to your hands."
+                "en": "In the early dusk, the Art Deco facade radiates a special warmth. Ensure you have warm gloves, as the metal handlebars of your bike will transmit the cold directly to your hands.",
+                "tr": "Erken alacakaranlıkta Art Deco cephe özel bir sıcaklık yayar. Bisiklet gidonunuzun metal parçaları soğuğu doğrudan ellerinize ileteceği için kalın eldiven bulundurun."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Kaiser-Wilhelm-Gedächtniskirche",
                 "hu": "Vilmos császár emléktemplom",
                 "ro": "Biserica Memorială Kaiser Wilhelm",
-                "en": "Kaiser Wilhelm Memorial Church"
+                "en": "Kaiser Wilhelm Memorial Church",
+                "tr": "Kaiser Wilhelm Anıt Kilisesi"
               },
               "tip_5lang": {
                 "de": "Der nahegelegene Weihnachtsmarkt sorgt für festliche Stimmung. Achten Sie auf Fußgänger und genießen Sie das blaue Leuchten der Kirche als Ruhepol im Wintertrubel.",
                 "hu": "A közeli karácsonyi vásár ünnepi hangulatot áraszt a környéken. Figyeljen a gyalogosokra, és élvezze a templom kék fényét, amely a téli forgatagban a nyugalom szigete.",
                 "ro": "Târgul de Crăciun din apropiere creează o atmosferă festivă. Atenție la pietoni și bucurați-vă de strălucirea albastră a bisericii ca punct de liniște în agitația iernii.",
-                "en": "The nearby Christmas market creates a wonderful festive atmosphere. Watch out for pedestrians and enjoy the blue glow of the church as a point of calm in the winter bustle."
+                "en": "The nearby Christmas market creates a wonderful festive atmosphere. Watch out for pedestrians and enjoy the blue glow of the church as a point of calm in the winter bustle.",
+                "tr": "Yakındaki Noel pazarı harika bir şenlik atmosferi yaratıyor. Yaya trafiğine dikkat edin ve kış kalabalığında sakin bir nokta olarak kilisenin mavi ışıltısının keyfini çıkarın."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Zoologischer Garten Berlin",
                 "hu": "Berlini Állatkert",
                 "ro": "Grădina Zoologică din Berlin",
-                "en": "Berlin Zoological Garden"
+                "en": "Berlin Zoological Garden",
+                "tr": "Berlin Zoologischer Garten"
               },
               "tip_5lang": {
                 "de": "Das Aquarium nebenan ist perfekt zum Aufwärmen. Sichern Sie Ihr Rad gut und planen Sie den Rückweg vor Einbruch der absoluten Dunkelheit um 17 Uhr.",
                 "hu": "A szomszédos Akvárium meglátogatása tökéletes módja a hideg elöli menekülésnek. Zárja le jól a biciklit, és tervezze meg a hazafelé utat a 17 órakor beálló sötétség előtt.",
                 "ro": "O vizită la Acvariul de alături este perfectă pentru a scăpa de frig. Asigurați bine bicicleta și planificați drumul de întoarcere înainte de lăsarea întunericului la ora 17.",
-                "en": "A visit to the Aquarium next door is perfect for escaping the freezing temperatures. Secure your bike well and plan your return trip before total darkness sets in at 5 PM."
+                "en": "A visit to the Aquarium next door is perfect for escaping the freezing temperatures. Secure your bike well and plan your return trip before total darkness sets in at 5 PM.",
+                "tr": "Yanındaki Akuaryum ziyareti dondurucu sıcaklıklardan kaçmak için idealdir. Bisikletinizi iyi kilitleyin ve akşam 17:00'de tam karanlık çökmeden dönüş yolunuzu planlayın."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Kurfürstendamm",
                 "hu": "Kurfürstendamm",
                 "ro": "Kurfürstendamm",
-                "en": "Kurfürstendamm"
+                "en": "Kurfürstendamm",
+                "tr": "Kurfürstendamm"
               },
               "tip_5lang": {
                 "de": "Die beleuchteten Bäume sind ein Highlight jeder Wintertour. Fahren Sie langsam, um die Deko zu bewundern, und achten Sie auf Eisplatten in den Seitenstraßen.",
                 "hu": "A fák pazar díszkivilágítása minden téli túra fénypontja. Tekerjen lassan, hogy megcsodálhassa a dekorációt, és ügyeljen a mellékutcákban megbújó jeges szakaszokra.",
                 "ro": "Iluminatul superb al copacilor este punctul culminant al oricărei ture de iarnă. Pedalați încet pentru a admira decorațiunile și atenție la porțiunile de gheață de pe străzile laterale.",
-                "en": "The magnificent lighting of the trees is a highlight of any winter bike tour. Cycle slowly to admire the decorations and watch out for icy patches on the side streets."
+                "en": "The magnificent lighting of the trees is a highlight of any winter bike tour. Cycle slowly to admire the decorations and watch out for icy patches on the side streets.",
+                "tr": "Ağaçların muhteşem ışıklandırması herhangi bir kış bisiklet turunun öne çıkan noktasıdır. Süslemeleri izlemek için yavaş sürün ve yan sokaklardaki buzlanmalara dikkat edin."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Schloss Charlottenburg",
             "hu": "Charlottenburg kastély",
             "ro": "Palatul Charlottenburg",
-            "en": "Charlottenburg Palace"
+            "en": "Charlottenburg Palace",
+            "tr": "Charlottenburg Sarayı"
           },
           "coords": [
             13.295833,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die prachtvollen Räume dieses barocken Schlosses, das Berlins königliche Geschichte erzählt, und kommen Sie früh, um die weitläufigen Gärten in Ruhe zu genießen.",
             "hu": "Csodálja meg e barokk kastély pompás termeit, melyek Berlin királyi múltját idézik, és érkezzen korán, hogy nyugodtan sétálhasson a tágas kertekben.",
             "ro": "Admirați sălile somptuoase ale acestui palat baroc ce reflectă istoria regală a Berlinului și veniți devreme pentru a vă bucura în liniște de grădinile întinse.",
-            "en": "Admire the sumptuous rooms of this baroque palace that reflects Berlin's royal history, and arrive early to enjoy a peaceful stroll through the expansive gardens."
+            "en": "Admire the sumptuous rooms of this baroque palace that reflects Berlin's royal history, and arrive early to enjoy a peaceful stroll through the expansive gardens.",
+            "tr": "Berlin'in kraliyet tarihini yansıtan bu barok sarayın görkemli odalarını hayranlıkla izleyin ve geniş bahçelerde sakin bir gezinti için erken gelin."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Die Wühlmäuse",
             "hu": "Die Wühlmäuse Kabaré",
             "ro": "Cabaretul Die Wühlmäuse",
-            "en": "Die Wühlmäuse Cabaret"
+            "en": "Die Wühlmäuse Cabaret",
+            "tr": "Die Wühlmäuse Kabare"
           },
           "coords": [
             13.270751,
@@ -696,7 +771,8 @@
             "de": "Lachen Sie in diesem legendären Kabarett-Theater, das von Dieter Hallervorden gegründet wurde, und sichern Sie sich rechtzeitig Karten für einen humorvollen Abend.",
             "hu": "Nevessen egy jót ebben a legendás kabarészínházban, amelyet Dieter Hallervorden alapított, és időben biztosítsa jegyét egy humorral teli estéhez.",
             "ro": "Râdeți cu poftă în acest legendar teatru de cabaret fondat de Dieter Hallervorden și asigurați-vă biletele din timp pentru o seară plină de umor.",
-            "en": "Have a laugh at this legendary cabaret theater founded by Dieter Hallervorden, and make sure to book your tickets early for a highly entertaining evening."
+            "en": "Have a laugh at this legendary cabaret theater founded by Dieter Hallervorden, and make sure to book your tickets early for a highly entertaining evening.",
+            "tr": "Dieter Hallervorden tarafından kurulan efsanevi bu kabare tiyatrosunda kahkaha atın; son derece eğlenceli bir akşam için biletinizi erken alın."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Schaubühne am Lehniner Platz",
             "hu": "Schaubühne am Lehniner Platz",
             "ro": "Schaubühne am Lehniner Platz",
-            "en": "Schaubühne am Lehniner Platz"
+            "en": "Schaubühne am Lehniner Platz",
+            "tr": "Schaubühne am Lehniner Platz"
           },
           "coords": [
             13.302275,
@@ -719,7 +796,8 @@
             "de": "Erleben Sie avantgardistisches Theater in diesem markanten Gebäude am Kurfürstendamm, und besuchen Sie die Café-Bar für spannende Diskussionen nach der Vorstellung.",
             "hu": "Élvezze az avantgárd színházat ebben a jellegzetes Kurfürstendamm-i épületben, és látogasson el a kávézó-bárba az előadás utáni izgalmas beszélgetésekhez.",
             "ro": "Experimentați teatrul avangardist în această clădire remarcabilă de pe Kurfürstendamm și vizitați cafeneaua pentru discuții interesante după spectacol.",
-            "en": "Experience avant-garde theater in this striking building on the Kurfürstendamm, and head to the cafe-bar for engaging discussions after the performance."
+            "en": "Experience avant-garde theater in this striking building on the Kurfürstendamm, and head to the cafe-bar for engaging discussions after the performance.",
+            "tr": "Kurfürstendamm üzerindeki bu çarpıcı binada avant-garde tiyatroyu deneyimleyin ve gösteri sonrası etkileyici tartışmalar için kafe-barı ziyaret edin."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Kurfürstendamm",
             "hu": "Kurfürstendamm",
             "ro": "Kurfürstendamm",
-            "en": "Kurfürstendamm"
+            "en": "Kurfürstendamm",
+            "tr": "Kurfürstendamm"
           },
           "coords": [
             13.312778,
@@ -742,7 +821,8 @@
             "de": "Schlendern Sie über diesen berühmten Boulevard, der Berlins westliches Zentrum prägt, und werfen Sie einen Blick in die eleganten Boutiquen und historischen Schaufenster.",
             "hu": "Sétáljon végig ezen a híres sugárúton, amely Berlin nyugati központját jelképezi, és vessen egy pillantást az elegáns butikokra, valamint a történelmi kirakatokra.",
             "ro": "Plimbați-vă pe acest bulevard faimos ce definește centrul vestic al Berlinului și aruncați o privire la buticurile elegante și vitrinele istorice.",
-            "en": "Stroll along this famous boulevard that defines Berlin's western center, and take a look at the elegant boutiques and historic window displays along the way."
+            "en": "Stroll along this famous boulevard that defines Berlin's western center, and take a look at the elegant boutiques and historic window displays along the way.",
+            "tr": "Berlin'in batı merkezini tanımlayan bu ünlü bulvar boyunca yürüyün; zarif butiklere ve tarihi vitrinlere göz atın."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Savignyplatz",
             "hu": "Savignyplatz",
             "ro": "Piața Savigny",
-            "en": "Savignyplatz"
+            "en": "Savignyplatz",
+            "tr": "Savignyplatz"
           },
           "coords": [
             13.319066,
@@ -765,7 +846,8 @@
             "de": "Entspannen Sie an diesem belebten Platz, der das literarische und künstlerische Herz des Viertels bildet, und genießen Sie einen Kaffee in einem der vielen traditionellen Cafés.",
             "hu": "Pihenjen meg ezen a nyüzsgő téren, amely a negyed irodalmi és művészeti központja, és élvezze a kávézást a számos hagyományos teraszos kávézó egyikében.",
             "ro": "Relaxați-vă în această piață animată care reprezintă inima literară și artistică a cartierului și savurați o cafea la una dintre numeroasele cafenele tradiționale.",
-            "en": "Relax in this bustling square that forms the literary and artistic heart of the neighborhood, and enjoy a coffee at one of the many traditional sidewalk cafes."
+            "en": "Relax in this bustling square that forms the literary and artistic heart of the neighborhood, and enjoy a coffee at one of the many traditional sidewalk cafes.",
+            "tr": "Mahallenin edebi ve sanatsal kalbini oluşturan bu hareketli meydanda dinlenin ve birçok geleneksel kaldırım kafesinden birinde kahve keyfi yapın."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Kaiser-Wilhelm-Gedächtniskirche",
             "hu": "Vilmos császár emléktemplom",
             "ro": "Biserica Memorială Kaiser Wilhelm",
-            "en": "Kaiser Wilhelm Memorial Church"
+            "en": "Kaiser Wilhelm Memorial Church",
+            "tr": "Kaiser-Wilhelm-Gedächtniskirche"
           },
           "coords": [
             13.335278,
@@ -788,7 +871,8 @@
             "de": "Besichtigen Sie die eindrucksvolle Turmruine dieser Kirche, die als Mahnmal für den Frieden dient, und bestaunen Sie das blaue Glaswunder im modernen Neubau daneben.",
             "hu": "Tekintse meg a templom lenyűgöző toronyromját, amely a béke emlékműveként szolgál, és csodálja meg a mellette lévő modern épület kék üvegcsodáját.",
             "ro": "Vizitați ruinele impresionante ale turnului acestei biserici, ce servește ca memorial pentru pace, și admirați vitraliile albastre din clădirea modernă alăturată.",
-            "en": "Visit the impressive ruined tower of this church that serves as a memorial for peace, and marvel at the stunning blue stained glass in the modern building next door."
+            "en": "Visit the impressive ruined tower of this church that serves as a memorial for peace, and marvel at the stunning blue stained glass in the modern building next door.",
+            "tr": "Barış anıtı olarak hizmet veren bu kilisenin etkileyici harabe kulesini ziyaret edin ve yanındaki modern binadaki çarpıcı mavi vitraylara hayran kalın."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Zoologischer Garten Berlin",
             "hu": "Berlini Állatkert",
             "ro": "Grădina Zoologică din Berlin",
-            "en": "Berlin Zoological Garden"
+            "en": "Berlin Zoological Garden",
+            "tr": "Berlin Zoologischer Garten"
           },
           "coords": [
             13.3375,
@@ -811,7 +896,8 @@
             "de": "Erkunden Sie Deutschlands ältesten Zoo, der eine enorme Artenvielfalt in historischen Gehegen beherbergt, und planen Sie genug Zeit für das faszinierende Flusspferdhaus ein.",
             "hu": "Fedezze fel Németország legrégebbi állatkertjét, amely hatalmas fajgazdagságnak ad otthont történelmi kifutókban, és szánjon elég időt a lenyűgöző vízilóházra.",
             "ro": "Explorați cel mai vechi zoo din Germania, care găzduiește o diversitate enormă de specii în incinte istorice, și planificați suficient timp pentru fascinanta casă a hipopotamilor.",
-            "en": "Explore Germany's oldest zoo, home to an enormous variety of species in historic enclosures, and allocate plenty of time for the fascinating hippopotamus house."
+            "en": "Explore Germany's oldest zoo, home to an enormous variety of species in historic enclosures, and allocate plenty of time for the fascinating hippopotamus house.",
+            "tr": "Almanların en eski hayvanat bahçesini keşfedin; tarihi barınaklarda çok çeşitli türler bulunur ve etkileyici su aygırı evine bolca zaman ayırın."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Beginnen Sie den Tag königlich am Schloss Charlottenburg und tauchen Sie in die preußische Geschichte ein. Am Mittag verlagert sich das Flair ins moderne Zentrum, wo architektonische Meisterwerke wie die Deutsche Oper warten. Nachmittags laden belebte Plätze und der legendäre Kurfürstendamm zum Flanieren und Verweilen ein. Der Abend klingt im bunten Trubel Berlins um die Gedächtniskirche aus.",
         "hu": "Kezdje a napot fejedelmien a Charlottenburg kastélynál, és merüljön el a porosz történelemben. Délben a hangulat a modern városközpontba tevődik át, ahol olyan remekművek várják, mint a Deutsche Oper. Délután nyüzsgő terek és a legendás Kurfürstendamm hívogat sétára és pihenésre. Az este a Vilmos császár emléktemplom körüli pezsgő berlini forgatagban ér véget felejthetetlen élményekkel.",
         "ro": "Începeți ziua regal la Palatul Charlottenburg, cufundându-vă în istoria prusacă. La prânz, atmosfera se mută în centrul modern, unde vă așteaptă capodopere precum Deutsche Oper. După-amiaza, piețele animate și legendarul Kurfürstendamm vă invită la o plimbare relaxantă. Seara se încheie în agitația plină de culoare a Berlinului, în jurul impresionantei Biserici Memoriale.",
-        "en": "Start your day royally at Charlottenburg Palace, immersing yourself in Prussian history. By midday, the atmosphere shifts to the modern center, where architectural masterpieces like the Deutsche Oper await. In the afternoon, bustling squares and the legendary Kurfürstendamm invite you to stroll and relax. The evening winds down in the colorful hustle of Berlin around the Memorial Church."
+        "en": "Start your day royally at Charlottenburg Palace, immersing yourself in Prussian history. By midday, the atmosphere shifts to the modern center, where architectural masterpieces like the Deutsche Oper await. In the afternoon, bustling squares and the legendary Kurfürstendamm invite you to stroll and relax. The evening winds down in the colorful hustle of Berlin around the Memorial Church.",
+        "tr": "Gününüzü Charlottenburg Sarayı'nda Prusya tarihine dalarak kraliyetçe başlatın. Öğleye doğru atmosfer modern merkeze kayar; Deutsche Oper gibi mimari başyapıtlar sizi bekler. Öğleden sonra hareketli meydanlar ve efsanevi Kurfürstendamm sizi gezmeye ve dinlenmeye davet eder. Akşam, Anıt Kilise civarındaki renkli hareketlilikte sakinleşir."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Ein entspannter Morgen beginnt am Schloss Charlottenburg, wo Sie direkt davor parken können. Mittags geht es zum Kabarett 'Die Wühlmäuse' und später zur Schaubühne, beide bieten perfekten Regenschutz. Am Nachmittag folgen der Ku'damm und der Savignyplatz. Der Abend endet an der Gedächtniskirche und im Zoo. Genießen Sie den Komfort Ihres Autos und den Blick auf das verregnete Berlin.",
             "hu": "A kényelmes reggel a kastélynál kezdődik, ahol közvetlenül az épület előtt parkolhat. Délben a Wühlmäuse Kabaré, később a Schaubühne várja, mindkettő kiváló menedék. Délután a Ku'damm és a Savignyplatz következik. A nap az emléktemplomnál és a Zoo-ban zárul. Élvezze az autó kényelmét és az esős Berlin látványát az ablaktáblák mögül.",
             "ro": "O dimineață relaxată începe la palat, unde puteți parca chiar în față. La prânz, vizitați Cabaretul Die Wühlmäuse și Schaubühne, ambele oferind adăpost ideal. După-amiaza urmează Ku'damm și Savignyplatz. Ziua se încheie la Biserica Memorială și Zoo. Bucurați-vă de confortul mașinii și de priveliștea Berlinului ploios prin geamuri.",
-            "en": "A relaxed morning begins at the palace, where you can park right in front. At noon, visit Die Wühlmäuse Cabaret and later Schaubühne, both offering perfect shelter from the rain. In the afternoon, explore Ku'damm and Savignyplatz. The day ends at the Memorial Church and the Zoo. Enjoy the comfort of your car and the view of rainy Berlin through the windows."
+            "en": "A relaxed morning begins at the palace, where you can park right in front. At noon, visit Die Wühlmäuse Cabaret and later Schaubühne, both offering perfect shelter from the rain. In the afternoon, explore Ku'damm and Savignyplatz. The day ends at the Memorial Church and the Zoo. Enjoy the comfort of your car and the view of rainy Berlin through the windows.",
+            "tr": "Rahat bir sabah sarayda başlar; arabanızı tam önüne park edebilirsiniz. Öğle vakti Die Wühlmäuse Kabare'yi, sonrası için Schaubühne'yi ziyaret edin; her ikisi de yağmurdan korunmak için ideal. Öğleden sonra Ku'damm ve Savignyplatz'ı keşfedin. Gün, Anıt Kilise ve Zoologischer Garten'da sona erer. Arabanızın konforunun ve pencerelerden yağmurlu Berlin manzarasının tadını çıkarın."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Schloss Charlottenburg",
                 "hu": "Charlottenburg kastély",
                 "ro": "Palatul Charlottenburg",
-                "en": "Charlottenburg Palace"
+                "en": "Charlottenburg Palace",
+                "tr": "Charlottenburg Sarayı"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie Parkplätze nah am Eingang, um den Weg im Regen kurz zu halten. Das Schlossinnere bietet stundenlangen Schutz und faszinierende barocke Kunstwerke.",
                 "hu": "Használja a bejárathoz közeli parkolókat, hogy minél kevesebbet kelljen az esőben gyalogolnia. A kastély belseje órákig tartó védelmet és lenyűgöző barokk műkincseket kínál.",
                 "ro": "Folosiți locurile de parcare din apropierea intrării pentru a scurta drumul prin ploaie. Interiorul palatului oferă ore întregi de adăpost și opere de artă barocă fascinante.",
-                "en": "Use the parking spaces near the entrance to keep your walk in the rain as short as possible. The palace interior offers hours of shelter and fascinating Baroque masterpieces."
+                "en": "Use the parking spaces near the entrance to keep your walk in the rain as short as possible. The palace interior offers hours of shelter and fascinating Baroque masterpieces.",
+                "tr": "Yürüyüşünüzün yağmurda mümkün olduğunca kısa olması için giriş yakınındaki park yerlerini kullanın. Saray içi saatlerce barınma ve ilgi çekici Barok başyapıtlar sunar."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Die Wühlmäuse",
                 "hu": "Die Wühlmäuse Kabaré",
                 "ro": "Cabaretul Die Wühlmäuse",
-                "en": "Die Wühlmäuse Cabaret"
+                "en": "Die Wühlmäuse Cabaret",
+                "tr": "Die Wühlmäuse Kabare"
               },
               "tip_5lang": {
                 "de": "Parken am Theodor-Heuss-Platz ist bei Regen meist unkompliziert. Das Gebäude ist ein trockener Ort für Kultur; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand.",
                 "hu": "A parkolás a Theodor-Heuss-Platznál esőben is általában zökkenőmentes. A kabaré épülete száraz kulturális helyszín; kiszálláskor ügyeljen az útpadka mellett összegyűlt mély tócsákra.",
                 "ro": "Parcarea la Theodor-Heuss-Platz este de obicei simplă chiar și pe ploaie. Clădirea cabaretului este un loc cultural uscat; atenție la bălțile adânci de la marginea drumului la coborâre.",
-                "en": "Parking at Theodor-Heuss-Platz is usually straightforward even in the rain. The cabaret building is a dry cultural haven; watch out for deep puddles at the curb when getting out of the car."
+                "en": "Parking at Theodor-Heuss-Platz is usually straightforward even in the rain. The cabaret building is a dry cultural haven; watch out for deep puddles at the curb when getting out of the car.",
+                "tr": "Theodor-Heuss-Platz'ta park genellikle yağmurda bile kolaydır. Kabare binası kuru bir kültür sığınağıdır; arabadan inerken kaldırımdaki derin su birikintilerine dikkat edin."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Schaubühne am Lehniner Platz",
                 "hu": "Schaubühne am Lehniner Platz",
                 "ro": "Schaubühne am Lehniner Platz",
-                "en": "Schaubühne am Lehniner Platz"
+                "en": "Schaubühne am Lehniner Platz",
+                "tr": "Schaubühne am Lehniner Platz"
               },
               "tip_5lang": {
                 "de": "Ein modernes Theatergebäude, ideal für regnerische Nachmittage. Suchen Sie Parkplätze in den Seitenstraßen und halten Sie den Schirm für den kurzen Weg bereit.",
                 "hu": "Ez a modern színházépület ideális választás egy esős délutánra. Keressen parkolóhelyet a környező mellékutcákban, és tartsa készenlétben az esernyőjét a rövid gyalogút idejére.",
                 "ro": "O clădire de teatru modernă, ideală pentru după-amiezi ploioase. Căutați locuri de parcare pe străzile laterale și aveți umbrela pregătită pentru distanța scurtă până la intrare.",
-                "en": "This modern theater building is an ideal choice for a rainy afternoon. Look for parking in the nearby side streets and have your umbrella ready for the short walk to the entrance."
+                "en": "This modern theater building is an ideal choice for a rainy afternoon. Look for parking in the nearby side streets and have your umbrella ready for the short walk to the entrance.",
+                "tr": "Bu modern tiyatro binası yağmurlu bir öğleden sonra için ideal bir seçimdir. Yakındaki yan sokaklarda park yeri arayın ve girişe kısa yürüyüş için şemsiyenizi hazır bulundurun."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Kurfürstendamm",
                 "hu": "Kurfürstendamm",
                 "ro": "Kurfürstendamm",
-                "en": "Kurfürstendamm"
+                "en": "Kurfürstendamm",
+                "tr": "Kurfürstendamm"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie Parkhäuser direkt am Ku'damm für trockenen Zugang. Bei Regen ist der Verkehr oft zähflüssig, planen Sie deshalb etwas mehr Zeit für die Fahrt ein.",
                 "hu": "Használja a közvetlenül a Ku'damm mellett található parkolóházakat, így szárazon juthat be a passzázsokba. Esőben a forgalom gyakran lelassul, ezért tervezzen hosszabb menetidővel.",
                 "ro": "Folosiți parcările etajate direct de pe Ku'damm pentru a ajunge uscați în pasajele comerciale. Pe ploaie, traficul este adesea lent, așa că alocați ceva mai mult timp deplasării.",
-                "en": "Use the parking garages directly on Ku'damm to reach the shopping arcades while staying dry. Traffic here is often slow during rain, so allow some extra time for your journey."
+                "en": "Use the parking garages directly on Ku'damm to reach the shopping arcades while staying dry. Traffic here is often slow during rain, so allow some extra time for your journey.",
+                "tr": "Alışveriş pasajlarına kuru ulaşmak için Ku'damm üzerindeki otoparkları kullanın. Buradaki trafik yağmurda genellikle yavaştır; yolculuğunuz için biraz ekstra zaman ayırın."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Savignyplatz",
                 "hu": "Savignyplatz",
                 "ro": "Piața Savigny",
-                "en": "Savignyplatz"
+                "en": "Savignyplatz",
+                "tr": "Savignyplatz"
               },
               "tip_5lang": {
                 "de": "Parkplätze sind begehrt; nutzen Sie die Zeit für eine gemütliche Runde im Auto. Die Brückenbögen der S-Bahn bieten bei der Ankunft Schutz vor plötzlichen Güssen.",
                 "hu": "A parkolóhelyek itt nagyon keresettek; használja ki az időt egy lassú autós körre a negyedben. Az S-Bahn hídjai érkezéskor jó védelmet nyújtanak a hirtelen lezúduló záporok ellen.",
                 "ro": "Locurile de parcare sunt la mare căutare aici; profitați de timp pentru un tur lent cu mașina prin cartier. Arcadele S-Bahn oferă adăpost împotriva rafalelor de ploaie la sosire.",
-                "en": "Parking spaces are in high demand here; take your time for a slow drive through the charming neighborhood. The S-Bahn arches provide good shelter against sudden downpours upon arrival."
+                "en": "Parking spaces are in high demand here; take your time for a slow drive through the charming neighborhood. The S-Bahn arches provide good shelter against sudden downpours upon arrival.",
+                "tr": "Burada park yerleri yüksek talep görür; şirin mahallede yavaş bir sürüş için zaman ayırın. Varışta ani sağanaklara karşı S-Bahn kemerleri iyi bir koruma sağlar."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Kaiser-Wilhelm-Gedächtniskirche",
                 "hu": "Vilmos császár emléktemplom",
                 "ro": "Biserica Memorială Kaiser Wilhelm",
-                "en": "Kaiser Wilhelm Memorial Church"
+                "en": "Kaiser Wilhelm Memorial Church",
+                "tr": "Kaiser-Wilhelm-Gedächtniskirche"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Europa-Center, um fast trockenen Fußes zur Kirche zu gelangen. Das Regenwetter lässt die blauen Fenster im Inneren noch mystischer leuchten.",
                 "hu": "Parkoljon az Europa-Center parkolóházában, onnan szinte száraz lábbal érheti el a templomot. Az esős, sötét időben a belső kék ablakok még misztikusabb fényben tündökölnek.",
                 "ro": "Parcați în garajul de la Europa-Center pentru a ajunge la biserică aproape fără să vă udați. Atmosfera ploioasă face ca ferestrele albastre din interior să strălucească și mai mistic.",
-                "en": "Park in the Europa-Center garage to reach the church almost without getting wet. The dark, rainy atmosphere makes the blue windows inside glow with an even more mystical light."
+                "en": "Park in the Europa-Center garage to reach the church almost without getting wet. The dark, rainy atmosphere makes the blue windows inside glow with an even more mystical light.",
+                "tr": "Kiliseye neredeyse hiç ıslanmadan ulaşmak için Europa-Center otoparkında park edin. Karanlık, yağmurlu atmosfer içteki mavi pencerelerin daha da mistik bir ışıkla parlamasını sağlar."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Zoologischer Garten Berlin",
                 "hu": "Berlini Állatkert",
                 "ro": "Grădina Zoologică din Berlin",
-                "en": "Berlin Zoological Garden"
+                "en": "Berlin Zoological Garden",
+                "tr": "Berlin Zoologischer Garten"
               },
               "tip_5lang": {
                 "de": "Das Parkhaus am Zoo bietet direkten Zugang. Viele Bereiche des Zoos sind überdacht, sodass Sie Tiere beobachten können, ohne im Regen nass zu werden.",
                 "hu": "A Zoo melletti parkolóház közvetlen közelséget biztosít. Az állatkert számos területe fedett, így esőben is kényelmesen, ázás nélkül figyelheti meg az állatokat.",
                 "ro": "Parcarea de la Zoo oferă acces direct. Multe zone ale grădinii zoologice sunt acoperite, astfel încât puteți observa animalele fără să vă udați, chiar și pe ploaie.",
-                "en": "The parking garage at the Zoo provides very close access. Many areas of the zoo are covered, allowing you to observe the animals comfortably without getting wet during the rain."
+                "en": "The parking garage at the Zoo provides very close access. Many areas of the zoo are covered, allowing you to observe the animals comfortably without getting wet during the rain.",
+                "tr": "Hayvanat bahçesindeki otopark garajı çok yakın erişim sağlar. Hayvanat bahçesinin birçok alanı kapalıdır; yağmur esnasında kuru kalıp hayvanları rahatça izleyebilirsiniz."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Ein frostiger Morgen am Schloss Charlottenburg, das Auto ist wohlig warm. Mittags geht es zu den 'Wühlmäusen' und zur Schaubühne, genießen Sie die kurzen Wege von den Parkplätzen. Nachmittags folgen der Ku'damm und der Savignyplatz. Ab 17:00 Uhr leuchten die Lichterkaskaden am Ku'damm. Der Abend endet an der Gedächtniskirche und im Zoo. Die winterliche Stadt wirkt wie eine glitzernde Märchenwelt.",
             "hu": "A fagyos reggel a kastélynál indul, az autó utastere pedig kellemesen meleg. Délben a Wühlmäuse és a Schaubühne következik, élvezze a rövid gyalogutat a parkolóktól. Délután a Ku'damm és a Savignyplatz várja. 17 órától kigyúlnak a fények a sugárúton. A nap az emléktemplomnál és a Zoo-nál zárul. A téli város az autóból nézve olyan, mint egy csillogó mesevilág.",
             "ro": "O dimineață geroasă la palat, cu mașina bine încălzită. La prânz, vizitați Wühlmäuse și Schaubühne, profitând de distanțele scurte de la parcare. După-amiaza urmează Ku'damm și Savignyplatz. De la ora 17 se aprind luminile pe bulevard. Ziua se încheie la Biserica Memorială și la Zoo. Orașul de iarnă pare o lume de basm strălucitoare văzut din mașină.",
-            "en": "A frosty morning at the palace with the car cabin cozily warm. At noon, visit Die Wühlmäuse and Schaubühne, enjoying the short walks from the parking spots. In the afternoon, explore Ku'damm and Savignyplatz. From 5 PM, the lights on the avenue come alive. The day ends at the Memorial Church and the Zoo. Viewed from the car, the winter city looks like a glittering fairytale world."
+            "en": "A frosty morning at the palace with the car cabin cozily warm. At noon, visit Die Wühlmäuse and Schaubühne, enjoying the short walks from the parking spots. In the afternoon, explore Ku'damm and Savignyplatz. From 5 PM, the lights on the avenue come alive. The day ends at the Memorial Church and the Zoo. Viewed from the car, the winter city looks like a glittering fairytale world.",
+            "tr": "Sarayda soğuk bir sabah, arabanın kabini sıcacık. Öğle vakti Die Wühlmäuse ve Schaubühne'yi ziyaret edin; park yerlerinden yapılan kısa yürüyüşlerin tadını çıkarın. Öğleden sonra Ku'damm ve Savignyplatz'ı keşfedin. Saat 17:00'den itibaren caddede ışıklar canlanır. Gün, Anıt Kilise ve Zoologischer Garten'da sona erer. Arabadan bakıldığında kış şehri ışıltılı bir peri masalı dünyası gibidir."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Schloss Charlottenburg",
                 "hu": "Charlottenburg kastély",
                 "ro": "Palatul Charlottenburg",
-                "en": "Charlottenburg Palace"
+                "en": "Charlottenburg Palace",
+                "tr": "Charlottenburg Sarayı"
               },
               "tip_5lang": {
                 "de": "Achten Sie bei Frost auf glatte Stellen auf dem Parkplatz. Die warme Heizung im Auto ist nach einem Spaziergang im kalten Schlosspark eine wahre Wohltat.",
                 "hu": "Fagy esetén ügyeljen a parkoló jeges szakaszaira. Az autó meleg fűtése igazi áldás lesz egy hideg, de látványos kastélyparki séta után.",
                 "ro": "Atenție la porțiunile înghețate din parcare. Încălzirea din mașină va fi o adevărată binecuvântare după o plimbare prin parcul palatului în aerul rece.",
-                "en": "Watch out for icy spots in the parking area during frost. The car's warm heater will be a true blessing after a walk through the cold but beautiful palace park."
+                "en": "Watch out for icy spots in the parking area during frost. The car's warm heater will be a true blessing after a walk through the cold but beautiful palace park.",
+                "tr": "Kırağı sırasında otoparkta buzlu noktalar olabileceğine dikkat edin. Soğuk ama güzel saray parkında yürüyüşten sonra arabanızın sıcak kaloriferi gerçek bir lütuf olacaktır."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Die Wühlmäuse",
                 "hu": "Die Wühlmäuse Kabaré",
                 "ro": "Cabaretul Die Wühlmäuse",
-                "en": "Die Wühlmäuse Cabaret"
+                "en": "Die Wühlmäuse Cabaret",
+                "tr": "Die Wühlmäuse Kabare"
               },
               "tip_5lang": {
                 "de": "Die Sitzheizung ist Ihr bester Freund am Theodor-Heuss-Platz. Das Kabarett bietet eine warme Atmosphäre fernab der winterlichen Kälte Berlins.",
                 "hu": "Az ülésfűtés a legjobb barátja lesz a huzatos Theodor-Heuss-Platz után. A kabaré meleg, szívélyes hangulatot kínál, távol a berlini tél metsző hidegétől.",
                 "ro": "Încălzirea în scaune va fi de mare ajutor după coborârea în zona Theodor-Heuss-Platz. Cabaretul oferă o atmosferă caldă și primitoare, departe de frigul iernii berlineze.",
-                "en": "The seat heating will be your best friend after getting out at the drafty Theodor-Heuss-Platz. The cabaret offers a warm, welcoming atmosphere far from the biting Berlin winter cold."
+                "en": "The seat heating will be your best friend after getting out at the drafty Theodor-Heuss-Platz. The cabaret offers a warm, welcoming atmosphere far from the biting Berlin winter cold.",
+                "tr": "Cereyanlı Theodor-Heuss-Platz'ta indikten sonra koltuk ısıtması en iyi dostunuz olacaktır. Kabare, ısırıcı Berlin kış soğuğundan uzak, sıcak ve davetkar bir atmosfer sunar."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Schaubühne am Lehniner Platz",
                 "hu": "Schaubühne am Lehniner Platz",
                 "ro": "Schaubühne am Lehniner Platz",
-                "en": "Schaubühne am Lehniner Platz"
+                "en": "Schaubühne am Lehniner Platz",
+                "tr": "Schaubühne am Lehniner Platz"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe, um Zeit an kalter Luft zu minimieren. Die moderne Architektur wirkt im klaren Winterlicht besonders scharf und beeindruckend.",
                 "hu": "Parkoljon a közelben, hogy minimalizálja a hideg levegőn töltött időt. A színház modern építészete a tiszta téli fényben különösen élesnek és lenyűgözőnek hat.",
                 "ro": "Parcați în apropiere pentru a minimiza timpul petrecut în aerul rece. Arhitectura modernă a teatrului pare deosebit de clară și impresionantă în lumina rece a iernii.",
-                "en": "Park nearby to minimize your time in the freezing air. The theater's modern architecture looks particularly sharp and impressive in the clear, crisp winter light."
+                "en": "Park nearby to minimize your time in the freezing air. The theater's modern architecture looks particularly sharp and impressive in the clear, crisp winter light.",
+                "tr": "Donuk havada geçireceğiniz zamanı en aza indirmek için yakına park edin. Tiyatronun modern mimarisi, berrak ve keskin kış ışığında özellikle etkileyici görünür."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Kurfürstendamm",
                 "hu": "Kurfürstendamm",
                 "ro": "Kurfürstendamm",
-                "en": "Kurfürstendamm"
+                "en": "Kurfürstendamm",
+                "tr": "Kurfürstendamm"
               },
               "tip_5lang": {
                 "de": "Fahren Sie den Ku'damm entlang, um die Lichter aus dem warmen Auto zu genießen. Planen Sie Zeit für die Parksuche ein, da es abends oft voll wird.",
                 "hu": "Autózzon végig a Ku'dammon, hogy a meleg kocsiból csodálhassa meg a látványos ünnepi díszkivilágítást. Számoljon több idővel a parkolásra, mert az esti órákban nagy a zsúfoltság.",
                 "ro": "Conduceți de-a lungul Ku'damm pentru a admira iluminatul festiv spectaculos din confortul mașinii calde. Alocați timp pentru găsirea unui loc de parcare, fiind foarte aglomerat seara.",
-                "en": "Drive along Ku'damm to enjoy the spectacular holiday lights from the warmth of your car. Plan extra time for finding a parking spot, as it gets very crowded in the evenings."
+                "en": "Drive along Ku'damm to enjoy the spectacular holiday lights from the warmth of your car. Plan extra time for finding a parking spot, as it gets very crowded in the evenings.",
+                "tr": "Arabanızın sıcaklığından tatil ışıklandırmalarını izlemek için Ku'damm boyunca sürün. Akşamları çok kalabalık olduğundan park yeri bulmak için ekstra zaman planlayın."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Savignyplatz",
                 "hu": "Savignyplatz",
                 "ro": "Piața Savigny",
-                "en": "Savignyplatz"
+                "en": "Savignyplatz",
+                "tr": "Savignyplatz"
               },
               "tip_5lang": {
                 "de": "Die beleuchteten Restaurants wirken im Winter besonders einladend. Suchen Sie einen Parkplatz und genießen Sie den kurzen, knackig kalten Weg zum Café.",
                 "hu": "A tér körüli kivilágított éttermek télen különösen hívogatóak. Keressen egy parkolót, és élvezze a rövid, frissítően hideg sétát a hangulatos kávézók egyikéig.",
                 "ro": "Restaurantele iluminate din jurul pieței par deosebit de primitoare iarna. Găsiți un loc de parcare și bucurați-vă de scurtul drum răcoros până la una dintre cafenele.",
-                "en": "The illuminated restaurants around the square look especially inviting in winter. Find a parking spot and enjoy the short, brisk walk to one of the cozy cafes nearby."
+                "en": "The illuminated restaurants around the square look especially inviting in winter. Find a parking spot and enjoy the short, brisk walk to one of the cozy cafes nearby.",
+                "tr": "Meydan etrafındaki ışıklı restoranlar kışın özellikle davetkâr görünür. Bir park yeri bulun ve yakınlardaki rahat kafelerden birine kısa, canlı bir yürüyüş yapın."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Kaiser-Wilhelm-Gedächtniskirche",
                 "hu": "Vilmos császár emléktemplom",
                 "ro": "Biserica Memorială Kaiser Wilhelm",
-                "en": "Kaiser Wilhelm Memorial Church"
+                "en": "Kaiser Wilhelm Memorial Church",
+                "tr": "Kaiser-Wilhelm-Gedächtniskirche"
               },
               "tip_5lang": {
                 "de": "Das Europa-Center Parkhaus ist der ideale Ausgangspunkt. Der Blick auf den hell erleuchteten Breitscheidplatz ist aus der Höhe des Parkhauses oft grandios.",
                 "hu": "Az Europa-Center parkolóháza az ideális kiindulópont. A kivilágított Breitscheidplatz és a karácsonyi vásár látványa a parkolóház emeleteiről gyakran egészen pazar.",
                 "ro": "Parcarea Europa-Center este punctul ideal de plecare. Priveliștea asupra Breitscheidplatz iluminat și a târgului de Crăciun este adesea grandioasă de la înălțimea parcării.",
-                "en": "The Europa-Center parking garage is the ideal starting point. The view of the brightly lit Breitscheidplatz and its Christmas market is often spectacular from the upper levels."
+                "en": "The Europa-Center parking garage is the ideal starting point. The view of the brightly lit Breitscheidplatz and its Christmas market is often spectacular from the upper levels.",
+                "tr": "Europa-Center otoparkı ideal başlangıç noktasıdır. Üst katlardan Breitscheidplatz ve Noel pazarının parlak ışıkları genellikle muhteşem görünür."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Zoologischer Garten Berlin",
                 "hu": "Berlini Állatkert",
                 "ro": "Grădina Zoologică din Berlin",
-                "en": "Berlin Zoological Garden"
+                "en": "Berlin Zoological Garden",
+                "tr": "Berlin Zoologischer Garten"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie im Winter besonders das Aquarium, das wunderbar temperiert ist. Prüfen Sie vor Abfahrt den Frostschutz, da die Temperaturen nachts stark sinken.",
                 "hu": "Télen mindenképpen látogasson el az Akváriumba, ahol kellemes a hőmérséklet. Indulás előtt ellenőrizze autója fagyállóját, mert éjszaka a hőmérséklet jelentősen visszaeshet.",
                 "ro": "Iarna, vizitați în special Acvariul, care are o temperatură foarte plăcută. Verificați antigelul mașinii înainte de plecare, deoarece temperaturile pot scădea mult noaptea.",
-                "en": "In winter, be sure to visit the Aquarium, which is kept at a very pleasant temperature. Check your car's antifreeze before leaving, as temperatures can drop significantly at night."
+                "en": "In winter, be sure to visit the Aquarium, which is kept at a very pleasant temperature. Check your car's antifreeze before leaving, as temperatures can drop significantly at night.",
+                "tr": "Kışın mutlaka Akuaryum'u ziyaret edin; burası çok hoş bir sıcaklıkta tutulur. Gece sıcaklıkların önemli ölçüde düşebileceğini göz önünde bulundurarak aracınızın antifrizini kontrol edin."
               }
             }
           ]

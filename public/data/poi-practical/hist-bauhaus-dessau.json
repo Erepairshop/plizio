@@ -3,55 +3,64 @@
     "de": "Gropiusallee 38, 06846 Dessau-Roßlau",
     "hu": "Gropiusallee 38, 06846 Dessau-Roßlau",
     "ro": "Gropiusallee 38, 06846 Dessau-Roßlau",
-    "en": "Gropiusallee 38, 06846 Dessau-Roßlau"
+    "en": "Gropiusallee 38, 06846 Dessau-Roßlau",
+    "tr": "Gropiusallee 38, 06846 Dessau-Roßlau"
   },
   "openingHours": {
     "de": "Täglich 10:00-18:00",
     "hu": "Naponta 10:00–18:00",
     "ro": "Zilnic 10:00-18:00",
-    "en": "Daily 10:00-18:00"
+    "en": "Daily 10:00-18:00",
+    "tr": "Her gün 10:00-18:00"
   },
   "entranceFee": {
     "de": "€9 Erwachsene (Bauhausgebäude)",
     "hu": "Felnőtt 9 € (Bauhaus-épület)",
     "ro": "9 € adulți (clădirea Bauhaus)",
-    "en": "€9 adults (Bauhaus building)"
+    "en": "€9 adults (Bauhaus building)",
+    "tr": "€9 yetişkin (Bauhaus binası)"
   },
   "website": "https://www.bauhaus-dessau.de",
   "publicTransport": {
     "de": "Buslinie 10 oder 15 Min. Fußweg ab Dessau Hbf",
     "hu": "10-es buszvonal, vagy 15 perc séta a Dessau főpályaudvartól",
     "ro": "Linia de autobuz 10 sau 15 minute de mers pe jos de la gara centrală Dessau",
-    "en": "Bus line 10 or 15 min. walk from Dessau central station"
+    "en": "Bus line 10 or 15 min. walk from Dessau central station",
+    "tr": "Otobüs hattı 10 veya 15 dk. yürüyüşle Dessau merkez istasyonundan"
   },
   "parking": {
     "de": "Parkplatz direkt vor dem Gebäude (begrenzt) oder in der Seminarstraße",
     "hu": "Parkoló közvetlenül az épület előtt (korlátozott) vagy a Seminarstraßén",
     "ro": "Parcare chiar în fața clădirii (limitată) sau pe Seminarstraße",
-    "en": "Parking directly in front of the building (limited) or in Seminarstraße"
+    "en": "Parking directly in front of the building (limited) or in Seminarstraße",
+    "tr": "Binanın hemen önünde otopark (sınırlı) veya Seminarstraße'de"
   },
   "accessibility": {
     "de": "Weitgehend barrierefrei durch Aufzüge",
     "hu": "Liftek segítségével nagyrészt akadálymentes",
     "ro": "În mare parte accesibil prin lifturi",
-    "en": "Largely accessible via elevators"
+    "en": "Largely accessible via elevators",
+    "tr": "Asansörlerle büyük ölçüde erişilebilir"
   },
   "photoRules": {
     "de": "Privatfotos erlaubt, Stativnutzung kostenpflichtig anzumelden",
     "hu": "Magáncélú fotózás szabad, állvány használatát díj ellenében be kell jelenteni",
     "ro": "Fotografii private permise, utilizarea trepiedului trebuie declarată contra cost",
-    "en": "Private photos allowed, tripod use must be registered for a fee"
+    "en": "Private photos allowed, tripod use must be registered for a fee",
+    "tr": "Özel fotoğraflar serbest, tripod kullanımı ücret karşılığında kayıtlı olmalıdır"
   },
   "bestTimeToVisit": {
     "de": "Kombination mit den Meisterhäusern (ca. 10 Min. Fußweg entfernt)",
     "hu": "A Mesterházakkal (Meisterhäuser) kombinálva (kb. 10 perc séta)",
     "ro": "În combinație cu Casele Maeștrilor (aflate la aprox. 10 minute de mers pe jos)",
-    "en": "In combination with the Masters' Houses (approx. 10 min. walk away)"
+    "en": "In combination with the Masters' Houses (approx. 10 min. walk away)",
+    "tr": "Ustaların Evleri ile kombine (yaklaşık 10 dk. yürüme mesafesinde)"
   },
   "audioGuide": {
     "de": "App 'Bauhaus Dessau' kostenlos verfügbar",
     "hu": "A „Bauhaus Dessau” applikáció ingyenesen elérhető",
     "ro": "Aplicația „Bauhaus Dessau” disponibilă gratuit",
-    "en": "App 'Bauhaus Dessau' available for free"
+    "en": "App 'Bauhaus Dessau' available for free",
+    "tr": "'Bauhaus Dessau' uygulaması ücretsiz mevcut"
   }
 }

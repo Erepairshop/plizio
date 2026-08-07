@@ -3,55 +3,64 @@
     "de": "Kehlsteinhaus, 83471 Berchtesgaden",
     "hu": "Kehlsteinhaus, 83471 Berchtesgaden",
     "ro": "Kehlsteinhaus, 83471 Berchtesgaden",
-    "en": "Kehlsteinhaus, 83471 Berchtesgaden"
+    "en": "Kehlsteinhaus, 83471 Berchtesgaden",
+    "tr": "Kehlsteinhaus, 83471 Berchtesgaden"
   },
   "openingHours": {
     "de": "Mo-Su 08:30-16:00 (nur ca. Mai bis Oktober)",
     "hu": "H-V 08:30-16:00 (csak kb. májustól októberig)",
     "ro": "Lu-Du 08:30-16:00 (doar cca. mai până în octombrie)",
-    "en": "Mon-Sun 08:30-16:00 (only approx. May to October)"
+    "en": "Mon-Sun 08:30-16:00 (only approx. May to October)",
+    "tr": "Pzt-Paz 08:30-16:00 (sadece yaklaşık Mayıs-Ekim arası)"
   },
   "entranceFee": {
     "de": "30,80 € (inkl. Busfahrt und Aufzug), Kinder 16,00 €",
     "hu": "30,80 € (autóbuszt és liftet tartalmazza), gyermek 16,00 €",
     "ro": "30,80 € (incl. transport cu autobuzul și liftul), copii 16,00 €",
-    "en": "€ 30.80 (incl. bus trip and elevator), children € 16.00"
+    "en": "€ 30.80 (incl. bus trip and elevator), children € 16.00",
+    "tr": "€ 30,80 (otobüs ve asansör dahil), çocuklar € 16,00"
   },
   "website": "https://www.kehlsteinhaus.de",
   "publicTransport": {
     "de": "Bus 838 ab Berchtesgaden Hbf bis Dokumentation Obersalzberg, dann Spezialbus 849",
     "hu": "838-as busz Berchtesgaden főpályaudvartól a Dokumentation Obersalzberg-ig, majd 849-es különjárat",
     "ro": "Autobuz 838 din gara Berchtesgaden până la Dokumentation Obersalzberg, apoi autobuzul special 849",
-    "en": "Bus 838 from Berchtesgaden station to Dokumentation Obersalzberg, then special bus 849"
+    "en": "Bus 838 from Berchtesgaden station to Dokumentation Obersalzberg, then special bus 849",
+    "tr": "Berchtesgaden istasyonundan otobüs 838 ile Dokumentation Obersalzberg'e, sonra özel otobüs 849"
   },
   "parking": {
     "de": "Großer kostenpflichtiger Parkplatz an der Dokumentation Obersalzberg (ca. 5 €).",
     "hu": "Nagy fizetős parkoló a Dokumentation Obersalzberg-nél (kb. 5 €).",
     "ro": "Parcare mare cu plată la Dokumentation Obersalzberg (cca. 5 €).",
-    "en": "Large paid parking lot at Dokumentation Obersalzberg (approx. € 5)."
+    "en": "Large paid parking lot at Dokumentation Obersalzberg (approx. € 5).",
+    "tr": "Dokumentation Obersalzberg'de büyük ücretli otopark (yaklaşık € 5)."
   },
   "accessibility": {
     "de": "Eingeschränkt; der historische Aufzug ist barrierefrei, der Weg zum Gipfelkreuz steinig.",
     "hu": "Korlátozott; a történelmi lift akadálymentes, de a csúcskereszthez vezető út köves.",
     "ro": "Limitată; liftul istoric este accesibil, dar drumul către crucea din vârf este pietros.",
-    "en": "Limited; the historic elevator is accessible, but the path to the summit cross is rocky."
+    "en": "Limited; the historic elevator is accessible, but the path to the summit cross is rocky.",
+    "tr": "Sınırlı; tarihi asansör erişilebilir, fakat zirve haçına giden yol kayalık."
   },
   "photoRules": {
     "de": "Fotografieren im Außenbereich und Restaurant erlaubt; keine kommerziellen Drohnen.",
     "hu": "Fotózás a kültéren és az étteremben megengedett; kereskedelmi célú drónozás tilos.",
     "ro": "Fotografiatul în exterior și în restaurant este permis; fără drone comerciale.",
-    "en": "Photography allowed outside and in the restaurant; no commercial drones."
+    "en": "Photography allowed outside and in the restaurant; no commercial drones.",
+    "tr": "Dışarda ve restoranda fotoğrafçılık izinli; ticari drone yasak."
   },
   "bestTimeToVisit": {
     "de": "Früh am Morgen (erster Bus 8:30 Uhr), um den extremen Menschenmassen zu entgehen.",
     "hu": "Kora reggel (első busz 8:30-kor), hogy elkerüljük a hatalmas tömeget.",
     "ro": "Dimineața devreme (primul autobuz la 8:30), pentru a evita aglomerația extremă.",
-    "en": "Early morning (first bus 8:30 AM) to avoid the extreme crowds."
+    "en": "Early morning (first bus 8:30 AM) to avoid the extreme crowds.",
+    "tr": "Aşırı kalabalıktan kaçınmak için erken sabah (ilk otobüs 08:30)."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

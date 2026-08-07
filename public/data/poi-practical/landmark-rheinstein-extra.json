@@ -3,55 +3,64 @@
     "de": "Burg Rheinstein, 55413 Trechtingshausen",
     "hu": "Burg Rheinstein, 55413 Trechtingshausen",
     "ro": "Burg Rheinstein, 55413 Trechtingshausen",
-    "en": "Burg Rheinstein, 55413 Trechtingshausen"
+    "en": "Burg Rheinstein, 55413 Trechtingshausen",
+    "tr": "Burg Rheinstein, 55413 Trechtingshausen"
   },
   "openingHours": {
     "de": "Mo-Su 10:00-18:00 (Mär-Nov)",
     "hu": "Hé-Va 10:00-18:00 (márc.-nov.)",
     "ro": "Lu-Du 10:00-18:00 (Mar-Noi)",
-    "en": "Mon-Sun 10:00-18:00 (Mar-Nov)"
+    "en": "Mon-Sun 10:00-18:00 (Mar-Nov)",
+    "tr": "Pzt-Paz 10:00-18:00 (Mar-Kas)"
   },
   "entranceFee": {
     "de": "€6.50 Erwachsene, €5.00 Kinder",
     "hu": "6,50 € felnőtt, 5,00 € gyerek",
     "ro": "6,50 € adulți, 5,00 € copii",
-    "en": "€6.50 adults, €5.00 children"
+    "en": "€6.50 adults, €5.00 children",
+    "tr": "€6,50 yetişkinler, €5,00 çocuklar"
   },
   "website": "https://www.burg-rheinstein.de",
   "publicTransport": {
     "de": "Regionalbahn bis Trechtingshausen, dann Fußweg",
     "hu": "Regionális vonat Trechtingshausenig, majd séta",
     "ro": "Tren regional până la Trechtingshausen, apoi pe jos",
-    "en": "Regional train to Trechtingshausen, then walk"
+    "en": "Regional train to Trechtingshausen, then walk",
+    "tr": "Trechtingshausen yönüne bölgesel tren, ardından yürüyüş"
   },
   "parking": {
     "de": "Parkplatz am Fuße des Berges",
     "hu": "Parkoló a hegy lábánál",
     "ro": "Parcare la poalele muntelui",
-    "en": "Parking at the foot of the hill"
+    "en": "Parking at the foot of the hill",
+    "tr": "Tepenin eteklerinde otopark"
   },
   "accessibility": {
     "de": "Aufgrund der Lage am Hang nicht barrierefrei; viele Treppen",
     "hu": "A hegyoldali fekvés miatt nem akadálymentes; sok lépcső",
     "ro": "Datorită amplasării pe versant nu este accesibil; multe trepte",
-    "en": "Due to hillside location not accessible; many stairs"
+    "en": "Due to hillside location not accessible; many stairs",
+    "tr": "Yamaç konumu nedeniyle erişilemez; birçok merdiven"
   },
   "photoRules": {
     "de": "Privat erlaubt",
     "hu": "Magáncélra engedélyezett",
     "ro": "Permis pentru uz privat",
-    "en": "Allowed for private use"
+    "en": "Allowed for private use",
+    "tr": "Özel kullanım için izinli"
   },
   "bestTimeToVisit": {
     "de": "Herbst für die Färbung des Mittelrheintals",
     "hu": "Ősz a Közép-Rajna-völgy őszi színeiért",
     "ro": "Toamna pentru culorile văii Rinului Mijlociu",
-    "en": "Autumn for the colors of the Middle Rhine Valley"
+    "en": "Autumn for the colors of the Middle Rhine Valley",
+    "tr": "Orta Ren Vadisi renkleri için sonbahar"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

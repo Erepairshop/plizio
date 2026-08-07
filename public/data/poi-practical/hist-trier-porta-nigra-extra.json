@@ -3,55 +3,64 @@
     "de": "Porta-Nigra-Platz, 54290 Trier",
     "hu": "Porta-Nigra-Platz, 54290 Trier, Németország",
     "ro": "Porta-Nigra-Platz, 54290 Trier, Germania",
-    "en": "Porta-Nigra-Platz, 54290 Trier, Germany"
+    "en": "Porta-Nigra-Platz, 54290 Trier, Germany",
+    "tr": "Porta-Nigra-Platz, 54290 Trier, Almanya"
   },
   "openingHours": {
     "de": "Mo-So 09:00-18:00 (Saison), Winter bis 16:00",
     "hu": "H-V 09:00-18:00 (szezonban), télen 16:00-ig",
     "ro": "L-D 09:00-18:00 (în sezon), iarna până la 16:00",
-    "en": "Mon-Sun 09:00-18:00 (season), winter until 16:00"
+    "en": "Mon-Sun 09:00-18:00 (season), winter until 16:00",
+    "tr": "Pzt-Paz 09:00-18:00 (sezon), kışın 16:00’ya kadar"
   },
   "entranceFee": {
     "de": "4 € Erwachsene, 2,50 € Kinder",
     "hu": "Felnőtt: 4 €, gyerek: 2,50 €",
     "ro": "4 € adulți, 2,50 € copii",
-    "en": "4 € adults, 2.50 € children"
+    "en": "4 € adults, 2.50 € children",
+    "tr": "4 € yetişkin, 2,50 € çocuk"
   },
   "website": "https://www.trier-info.de",
   "publicTransport": {
     "de": "Zentrale Bushaltestelle Porta Nigra (alle Linien)",
     "hu": "Porta Nigra központi buszmegálló (minden vonal érinti)",
     "ro": "Stația centrală de autobuz Porta Nigra (toate liniile)",
-    "en": "Central bus stop Porta Nigra (all lines)"
+    "en": "Central bus stop Porta Nigra (all lines)",
+    "tr": "Porta Nigra merkezi otobüs durağı (tüm hatlar)"
   },
   "parking": {
     "de": "Parkhaus Porta Nigra, ca. 2,20 €/Std.",
     "hu": "Porta Nigra parkolóház, kb. 2,20 €/óra",
     "ro": "Parcarea etajată Porta Nigra, aprox. 2,20 €/oră",
-    "en": "Porta Nigra parking garage, approx. 2.20 €/hour"
+    "en": "Porta Nigra parking garage, approx. 2.20 €/hour",
+    "tr": "Porta Nigra otopark garajı, yaklaşık 2,20 €/saat"
   },
   "accessibility": {
     "de": "Erdgeschoss barrierefrei, Obergeschosse nur über enge Treppen.",
     "hu": "A földszint akadálymentes, a felsőbb szintek csak szűk lépcsőn érhetők el.",
     "ro": "Parterul este accesibil, etajele superioare doar prin scări înguste.",
-    "en": "Ground floor is accessible, upper floors only via narrow stairs."
+    "en": "Ground floor is accessible, upper floors only via narrow stairs.",
+    "tr": "Zemin kat erişilebilir, üst katlara sadece dar merdivenlerle çıkılabilir."
   },
   "photoRules": {
     "de": "Erlaubt ohne Blitz.",
     "hu": "Vaku nélkül engedélyezett.",
     "ro": "Permis fără bliț.",
-    "en": "Allowed without flash."
+    "en": "Allowed without flash.",
+    "tr": "Flaşsız izinli."
   },
   "bestTimeToVisit": {
     "de": "Abends, wenn das Tor von außen beleuchtet wird.",
     "hu": "Este, amikor a kapu kívülről ki van világítva.",
     "ro": "Seara, când poarta este iluminată din exterior.",
-    "en": "In the evening, when the gate is illuminated from the outside."
+    "en": "In the evening, when the gate is illuminated from the outside.",
+    "tr": "Akşamları, kapı dışarıdan aydınlatıldığında."
   },
   "audioGuide": {
     "de": "ja",
     "hu": "igen",
     "ro": "da",
-    "en": "yes"
+    "en": "yes",
+    "tr": "evet"
   }
 }

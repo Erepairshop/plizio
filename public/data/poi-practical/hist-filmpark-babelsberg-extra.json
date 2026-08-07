@@ -3,55 +3,64 @@
     "de": "Großbeerenstraße 200, 14482 Potsdam",
     "hu": "Großbeerenstraße 200, 14482 Potsdam",
     "ro": "Großbeerenstraße 200, 14482 Potsdam",
-    "en": "Großbeerenstraße 200, 14482 Potsdam"
+    "en": "Großbeerenstraße 200, 14482 Potsdam",
+    "tr": "Großbeerenstraße 200, 14482 Potsdam"
   },
   "openingHours": {
     "de": "Täglich 10:00-18:00 (Saisonbetrieb von April bis November)",
     "hu": "Naponta 10:00-18:00 (szezonális működés áprilistól novemberig)",
     "ro": "Zilnic 10:00-18:00 (sezonier, aprilie-noiembrie)",
-    "en": "Daily 10:00-18:00 (seasonal, April-November)"
+    "en": "Daily 10:00-18:00 (seasonal, April-November)",
+    "tr": "Günlük 10:00-18:00 (mevsimsel, Nisan-Kasım)"
   },
   "entranceFee": {
     "de": "€23 Erwachsene, €16 Kinder",
     "hu": "23 € felnőtteknek, 16 € gyerekeknek",
     "ro": "23 € adulți, 16 € copii",
-    "en": "€23 adults, €16 children"
+    "en": "€23 adults, €16 children",
+    "tr": "€23 yetişkin, €16 çocuk"
   },
   "website": "https://www.filmpark-babelsberg.de",
   "publicTransport": {
     "de": "S-Bahn S7 bis Griebnitzsee, weiter mit Bus 696",
     "hu": "S7-es S-Bahn Griebnitzsee-ig, tovább a 696-os busszal",
     "ro": "S-Bahn S7 până la Griebnitzsee, apoi autobuzul 696",
-    "en": "S-Bahn S7 to Griebnitzsee, then bus 696"
+    "en": "S-Bahn S7 to Griebnitzsee, then bus 696",
+    "tr": "S-Bahn S7 ile Griebnitzsee, ardından 696 numaralı otobüs"
   },
   "parking": {
     "de": "Besucherparkplatz direkt am Haupteingang (€5 pro Tag).",
     "hu": "Látogatói parkoló közvetlenül a főbejáratnál (5 €/nap).",
     "ro": "Parcare pentru vizitatori la intrarea principală (5 €/zi).",
-    "en": "Visitor parking right at the main entrance (€5 per day)."
+    "en": "Visitor parking right at the main entrance (€5 per day).",
+    "tr": "Ana girişte ziyaretçi otoparkı (€5/gün)."
   },
   "accessibility": {
     "de": "Vollständig barrierefrei, alle Shows verfügen über Rollstuhlplätze.",
     "hu": "Teljesen akadálymentes, minden show-műsor rendelkezik kerekesszékes hellyel.",
     "ro": "Complet accesibil, toate spectacolele au locuri pentru scaune cu rotile.",
-    "en": "Fully barrier-free, all shows have wheelchair spots."
+    "en": "Fully barrier-free, all shows have wheelchair spots.",
+    "tr": "Tamamen engelsiz, tüm gösteriler için tekerlekli sandalye alanları mevcut."
   },
   "photoRules": {
     "de": "Fotografieren auf dem gesamten Gelände für private Zwecke erlaubt.",
     "hu": "A fotózás az egész területen megengedett magáncélra.",
     "ro": "Fotografierea în toată incinta pentru uz privat este permisă.",
-    "en": "Photography throughout the grounds for private use allowed."
+    "en": "Photography throughout the grounds for private use allowed.",
+    "tr": "Alan genelinde özel kullanım için fotoğraf çekimine izin verilir."
   },
   "bestTimeToVisit": {
     "de": "Direkt bei Parköffnung, um Plätze in der ersten Stunt-Show zu sichern.",
     "hu": "Nyitáskor, hogy biztosítsd a helyed az első stunt-show-n.",
     "ro": "La deschiderea parcului pentru a asigura locuri la prima reprezentație de cascadorii.",
-    "en": "Right at park opening to secure spots at the first stunt show."
+    "en": "Right at park opening to secure spots at the first stunt show.",
+    "tr": "İlk gösteri için yer kapmak üzere park açılır açılmaz."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

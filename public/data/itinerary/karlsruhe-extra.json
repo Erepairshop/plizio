@@ -21,7 +21,8 @@
             "de": "Marktplatz mit Pyramide",
             "hu": "Piac tér a piramissal",
             "ro": "Marktplatz cu piramida",
-            "en": "Market Square with Pyramid"
+            "en": "Market Square with Pyramid",
+            "tr": "Market Square with Pyramid"
           },
           "coords": [
             8.404,
@@ -37,7 +38,8 @@
             "de": "Das Wahrzeichen der Stadt besichtigen.",
             "hu": "Nézd meg a város jelképét, a piramist.",
             "ro": "Vizitați simbolul orașului, piramida.",
-            "en": "Visit the city's landmark, the pyramid."
+            "en": "Visit the city's landmark, the pyramid.",
+            "tr": "Şehrin simgesi olan piramidi ziyaret edin."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Schloss Karlsruhe",
             "hu": "Karlsruhei kastély",
             "ro": "Castelul Karlsruhe",
-            "en": "Karlsruhe Palace"
+            "en": "Karlsruhe Palace",
+            "tr": "Karlsruhe Palace"
           },
           "coords": [
             8.401,
@@ -61,7 +64,8 @@
             "de": "Vom Schlossturm hat man die beste Aussicht auf den Stadtfächer.",
             "hu": "A kastélytoronyból látszik legjobban a város legyező alakja.",
             "ro": "Turnul castelului oferă cea mai bună vedere asupra orașului în formă de evantai.",
-            "en": "The palace tower offers the best view of the city's fan layout."
+            "en": "The palace tower offers the best view of the city's fan layout.",
+            "tr": "Saray kulesi, şehrin yelpaze düzeninin en iyi manzarasını sunar."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanical Garden"
           },
           "coords": [
             8.397,
@@ -85,7 +90,8 @@
             "de": "Die historischen Gewächshäuser sind ein Muss.",
             "hu": "A történelmi üvegházakat nem szabad kihagyni.",
             "ro": "Serele istorice sunt de neratat.",
-            "en": "The historical greenhouses are a must-see."
+            "en": "The historical greenhouses are a must-see.",
+            "tr": "Tarihi seralar mutlaka görülmeli."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Staatliche Kunsthalle",
             "hu": "Állami Művészeti Csarnok",
             "ro": "Kunsthalle de Stat",
-            "en": "State Art Gallery"
+            "en": "State Art Gallery",
+            "tr": "State Art Gallery"
           },
           "coords": [
             8.4,
@@ -109,7 +116,8 @@
             "de": "Meisterwerke vom Mittelalter bis zur Moderne.",
             "hu": "Mesterművek a középkortól a modern korig.",
             "ro": "Capodopere din Evul Mediu până în epoca modernă.",
-            "en": "Masterpieces from the Middle Ages to the modern era."
+            "en": "Masterpieces from the Middle Ages to the modern era.",
+            "tr": "Orta Çağ'dan modern çağa kadar başyapıtlar."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the city center"
+            "en": "Lunch in the city center",
+            "tr": "Lunch in the city center"
           },
           "coords": [
             8.402,
@@ -133,7 +142,8 @@
             "de": "Probieren Sie badische Spezialitäten.",
             "hu": "Kóstold meg a bádeni specialitásokat.",
             "ro": "Încercați specialitățile din Baden.",
-            "en": "Try some Baden specialties."
+            "en": "Try some Baden specialties.",
+            "tr": "Baden'e özgü lezzetleri deneyin."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Zoologischer Stadtgarten",
             "hu": "Állatkert és városi kert",
             "ro": "Grădina Zoologică",
-            "en": "Zoological City Garden"
+            "en": "Zoological City Garden",
+            "tr": "Zoological City Garden"
           },
           "coords": [
             8.402,
@@ -157,7 +168,8 @@
             "de": "Die Gondoletta-Fahrt auf den Seen ist sehr entspannend.",
             "hu": "A Gondoletta-csónakázás a tavon nagyon pihentető.",
             "ro": "Plimbarea cu Gondoletta pe lacuri este foarte relaxantă.",
-            "en": "The Gondoletta boat trip on the lakes is very relaxing."
+            "en": "The Gondoletta boat trip on the lakes is very relaxing.",
+            "tr": "Göllerdeki Gondoletta tekne gezisi çok dinlendirici."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Der Tag beginnt am zentralen Marktplatz, wo die berühmte Pyramide an den Stadtgründer erinnert. Von dort führt der Weg direkt zum prachtvollen Barockschloss, dem Mittelpunkt des Stadtfächers. Nach der Besichtigung lädt der benachbarte Botanische Garten mit seinen exotischen Pflanzen zum Verweilen ein.\n\nMittags erkunden Sie die Kunstschätze der Staatlichen Kunsthalle, bevor Sie in der belebten Kaiserstraße ein typisch badisches Mittagessen genießen. Der Nachmittag gehört dem Zoologischen Stadtgarten, einer einzigartigen Kombination aus Tierpark und prachtvoller Parkanlage. Den Abend lassen Sie gemütlich bei einem Spaziergang am See ausklingen.",
         "hu": "A nap a központi Marktplatzon kezdődik, ahol a híres piramis áll. Innen az út egyenesen a pompás barokk kastélyhoz vezet, amely a legyező alakú város középpontja. A látogatás után a szomszédos Botanikus kert egzotikus növényei kínálnak pihenést.\n\nDélben az Állami Művészeti Csarnok kincseit fedezzük fel, majd a forgalmas Kaiserstraßén fogyasztunk el egy tipikus bádeni ebédet. A délután az Állatkert és Városi kerté, amely az állatpark és a parképítészet különleges ötvözete. Az estét a tóparti sétányon, nyugodt környezetben zárjuk.",
         "ro": "Ziua începe în piața centrală Marktplatz, unde celebra piramidă amintește de fondatorul orașului. De acolo, drumul duce direct la magnificul palat baroc, centrul evantaiului urban. După vizită, Grădina Botanică vecină vă invită să vă relaxați printre plante exotice.\n\nLa prânz veți explora comorile artistice de la Kunsthalle, înainte de a savura un prânz tipic din Baden pe strada comercială Kaiserstraße. După-amiaza este dedicată Grădinii Zoologice, o combinație unică de parc de animale și grădină peisagistică. Seara se încheie plăcut cu o plimbare pe malul lacului.",
-        "en": "The day starts at the central Market Square, where the famous pyramid stands. From there, the path leads directly to the magnificent Baroque palace, the center of the city's fan layout. After the tour, the adjacent Botanical Garden invites you to linger among its exotic plants.\n\nAt noon, explore the artistic treasures of the State Art Gallery before enjoying a typical Baden lunch in the busy Kaiserstraße. The afternoon is dedicated to the Zoological City Garden, a unique combination of a zoo and a magnificent park. The evening ends comfortably with a stroll by the lake."
+        "en": "The day starts at the central Market Square, where the famous pyramid stands. From there, the path leads directly to the magnificent Baroque palace, the center of the city's fan layout. After the tour, the adjacent Botanical Garden invites you to linger among its exotic plants.\n\nAt noon, explore the artistic treasures of the State Art Gallery before enjoying a typical Baden lunch in the busy Kaiserstraße. The afternoon is dedicated to the Zoological City Garden, a unique combination of a zoo and a magnificent park. The evening ends comfortably with a stroll by the lake.",
+        "tr": "Gün, ünlü piramidin bulunduğu merkezi Market Square'de başlar. Oradan yol doğrudan muhteşem Barok saraya, şehrin yelpaze düzeninin merkezine çıkar. Turdan sonra bitişikteki Botanik Bahçe egzotik bitkiler arasında dinlenmeye davet eder.\n\nÖğle vakti, Devlet Sanat Galerisi'nin sanatsal hazinelerini keşfedin ve sonra kalabalık Kaiserstraße'de tipik bir Baden öğle yemeğinin tadını çıkarın. Öğleden sonra Zoological City Garden'a, bir hayvanat bahçesi ile muhteşem bir parkın benzersiz birleşimine ayrılmıştır. Akşam göl kenarında rahat bir yürüyüşle sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -321,6 +334,11 @@
           "Use 'Kombi-Ticket' options for museums.",
           "The city center is mostly a pedestrian zone.",
           "Karlsruhe is a very flat city, ideal for walking."
+        ],
+        "tr": [
+          "Müzeler için 'Kombi-Ticket' seçeneklerini kullanın.",
+          "Şehir merkezi büyük ölçüde yayalaştırılmıştır.",
+          "Karlsruhe çok düz bir şehir, yürümek için ideal."
         ]
       }
     },
@@ -337,7 +355,8 @@
             "de": "Schloss Karlsruhe",
             "hu": "Karlsruhei kastély",
             "ro": "Castelul Karlsruhe",
-            "en": "Karlsruhe Palace"
+            "en": "Karlsruhe Palace",
+            "tr": "Karlsruhe Palace"
           },
           "coords": [
             8.401,
@@ -353,7 +372,8 @@
             "de": "Fahrradparkplätze direkt vor dem Schloss.",
             "hu": "Kerékpárparkolók közvetlenül a kastély előtt.",
             "ro": "Parcare pentru biciclete direct în fața castelului.",
-            "en": "Bicycle parking directly in front of the palace."
+            "en": "Bicycle parking directly in front of the palace.",
+            "tr": "Sarayın hemen önünde bisiklet park yeri."
           }
         },
         {
@@ -361,7 +381,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanical Garden"
           },
           "coords": [
             8.397,
@@ -377,7 +398,8 @@
             "de": "Schöner Stop im Grünen.",
             "hu": "Szép megálló a zöldben.",
             "ro": "O oprire frumoasă în natură.",
-            "en": "Nice stop in the greenery."
+            "en": "Nice stop in the greenery.",
+            "tr": "Yeşillikler içinde hoş bir mola."
           }
         },
         {
@@ -385,7 +407,8 @@
             "de": "Schloss Gottesaue",
             "hu": "Gottesaue kastély",
             "ro": "Castelul Gottesaue",
-            "en": "Gottesaue Palace"
+            "en": "Gottesaue Palace",
+            "tr": "Gottesaue Palace"
           },
           "coords": [
             8.428,
@@ -401,7 +424,8 @@
             "de": "Heute Sitz der Musikhochschule.",
             "hu": "Ma a zeneművészeti főiskola székhelye.",
             "ro": "Astăzi este sediul universității de muzică.",
-            "en": "Today it houses the University of Music."
+            "en": "Today it houses the University of Music.",
+            "tr": "Bugün burada Müzik Üniversitesi bulunuyor."
           }
         },
         {
@@ -409,7 +433,8 @@
             "de": "Turmberg (Durlach)",
             "hu": "Turmberg (Durlach)",
             "ro": "Turmberg (Durlach)",
-            "en": "Turmberg (Durlach)"
+            "en": "Turmberg (Durlach)",
+            "tr": "Turmberg (Durlach)"
           },
           "coords": [
             8.483,
@@ -425,7 +450,8 @@
             "de": "Sportliche Auffahrt oder mit der Turmbergbahn.",
             "hu": "Sportos tekerés fel, vagy válaszd a siklót.",
             "ro": "Urcare sportivă sau cu funicularul Turmbergbahn.",
-            "en": "Sporty climb up or take the funicular."
+            "en": "Sporty climb up or take the funicular.",
+            "tr": "Sporcu bir tırmanış yapın ya da füniküleri tercih edin."
           }
         },
         {
@@ -433,7 +459,8 @@
             "de": "Mittagessen in Durlach",
             "hu": "Ebéd Durlachban",
             "ro": "Prânz în Durlach",
-            "en": "Lunch in Durlach"
+            "en": "Lunch in Durlach",
+            "tr": "Lunch in Durlach"
           },
           "coords": [
             8.471,
@@ -449,7 +476,8 @@
             "de": "Durlach ist der älteste Stadtteil von Karlsruhe.",
             "hu": "Durlach Karlsruhe legrégebbi városrésze.",
             "ro": "Durlach este cel mai vechi cartier din Karlsruhe.",
-            "en": "Durlach is the oldest district of Karlsruhe."
+            "en": "Durlach is the oldest district of Karlsruhe.",
+            "tr": "Durlach, Karlsruhe'nin en eski semtidir."
           }
         },
         {
@@ -457,7 +485,8 @@
             "de": "ZKM | Zentrum für Kunst und Medien",
             "hu": "ZKM | Művészeti és Médiatechnológiai Központ",
             "ro": "ZKM | Centrul pentru Artă și Media",
-            "en": "ZKM | Center for Art and Media"
+            "en": "ZKM | Center for Art and Media",
+            "tr": "ZKM | Center for Art and Media"
           },
           "coords": [
             8.384,
@@ -473,7 +502,8 @@
             "de": "Einzigartiges Museum für digitale Kunst.",
             "hu": "Egyedülálló digitális művészeti múzeum.",
             "ro": "Muzeu unic pentru artă digitală.",
-            "en": "Unique museum for digital art."
+            "en": "Unique museum for digital art.",
+            "tr": "Dijital sanat için benzersiz bir müze."
           }
         }
       ],
@@ -481,7 +511,8 @@
         "de": "Karlsruhe ist eine Fahrradstadt! Wir starten am Schloss und radeln durch den Schlossgarten zum Botanischen Garten. Danach geht es ostwärts zum Renaissance-Schloss Gottesaue, einem architektonischen Juwel.\n\nDer Höhepunkt des Mittags ist die Fahrt nach Durlach und der Aufstieg zum Turmberg. Belohnt werden Sie mit einem weiten Blick über die Rheinebene bis zu den Vogesen. Nach einem gemütlichen Mittagessen in der historischen Altstadt von Durlach führt die Tour quer durch die Stadt nach Westen zum ZKM. In dieser ehemaligen Munitionsfabrik erleben Sie modernste Medienkunst, bevor der Tag endet.",
         "hu": "Karlsruhe a kerékpárosok városa! A kastélynál kezdünk, majd a kastélyparkon át a Botanikus kertig tekerünk. Ezután kelet felé vesszük az irányt a reneszánsz Gottesaue kastélyhoz, amely egy építészeti gyöngyszem.\n\nA dél környéki csúcspont a Durlachba való eljutás és a Turmberg megmászása. A jutalom: pazar kilátás a Rajna-völgyre egészen a Vogézekig. Egy hangulatos durlachi ebéd után a túra a városon át nyugat felé, a ZKM-hez vezet. Ebben az egykori lőszergyárban a legmodernebb médiaművészetet ismerheted meg, mielőtt véget ér a nap.",
         "ro": "Karlsruhe este un oraș al bicicletelor! Începem la castel și pedalăm prin grădina castelului până la Grădina Botanică. Apoi ne îndreptăm spre est către castelul renascentist Gottesaue, o bijuterie arhitecturală.\n\nPunctul culminant al amiezii este drumul spre Durlach și urcarea pe Turmberg. Veți fi răsplătiți cu o vedere largă peste valea Rinului până la Vosgi. După un prânz plăcut în centrul istoric al orașului Durlach, turul traversează orașul spre vest până la ZKM. În această fostă fabrică de muniții veți experimenta cea mai modernă artă media înainte de încheierea zilei.",
-        "en": "Karlsruhe is a city of bicycles! We start at the palace and cycle through the palace gardens to the Botanical Garden. Then we head east to the Renaissance Gottesaue Palace, an architectural gem.\n\nThe highlight of the midday is the ride to Durlach and the climb to Turmberg. You will be rewarded with a wide view over the Rhine valley to the Vosges mountains. After a cozy lunch in the historical old town of Durlach, the tour leads across the city to the west to ZKM. In this former munitions factory, you will experience state-of-the-art media art before the day ends."
+        "en": "Karlsruhe is a city of bicycles! We start at the palace and cycle through the palace gardens to the Botanical Garden. Then we head east to the Renaissance Gottesaue Palace, an architectural gem.\n\nThe highlight of the midday is the ride to Durlach and the climb to Turmberg. You will be rewarded with a wide view over the Rhine valley to the Vosges mountains. After a cozy lunch in the historical old town of Durlach, the tour leads across the city to the west to ZKM. In this former munitions factory, you will experience state-of-the-art media art before the day ends.",
+        "tr": "Karlsruhe bisiklet şehridir! Tur, sarayda başlar ve saray bahçelerinden Botanik Bahçe'ye kadar bisikletle devam eder. Ardından doğuya, Rönesans Gottesaue Sarayı'na, mimari bir başyapıta yöneliriz.\n\nÖğlenin en önemli noktası Durlach'a yapılan sürüş ve Turmberg'e tırmanıştır. Buradan Ren vadisi ve Vosges dağlarına kadar geniş bir görüş sizi bekler. Durlach'ın tarihi kent merkezinde keyifli bir öğle yemeğinin ardından tur, şehir boyunca batıya, ZKM'ye doğru ilerler. Bu eski cephane fabrikasında çağdaş medya sanatının en yenisini deneyimleyeceksiniz ve gün bitmeden önce sergilerle tanışacaksınız."
       },
       "gastro_picks": {
         "de": [
@@ -637,6 +668,11 @@
           "Karlsruhe has an excellent bike-sharing system (Nextbike).",
           "Pay attention to the bike paths – they are often separated from traffic.",
           "The ride to Turmberg is steep, downshift in time."
+        ],
+        "tr": [
+          "Karlsruhe'de mükemmel bir bisiklet paylaşım sistemi (Nextbike) var.",
+          "Bisiklet yollarına dikkat edin – genellikle trafiğe ayrılmıştır.",
+          "Turmberg'e gidiş dik; vitesleri zamanında küçültün."
         ]
       }
     },
@@ -653,7 +689,8 @@
             "de": "Marktplatz (Parkhaus)",
             "hu": "Piac tér (parkolóház)",
             "ro": "Marktplatz (parcare)",
-            "en": "Market Square (Parking)"
+            "en": "Market Square (Parking)",
+            "tr": "Market Square (Parking)"
           },
           "coords": [
             8.404,
@@ -669,7 +706,8 @@
             "de": "Parken Sie zentral im Parkhaus Marktplatz.",
             "hu": "Parkolj a központi Marktplatz parkolóházban.",
             "ro": "Parcați central în parcarea Marktplatz.",
-            "en": "Park centrally in the Market Square parking garage."
+            "en": "Park centrally in the Market Square parking garage.",
+            "tr": "Market Square otoparkında merkezi şekilde park edin."
           }
         },
         {
@@ -677,7 +715,8 @@
             "de": "Schloss Karlsruhe",
             "hu": "Karlsruhei kastély",
             "ro": "Castelul Karlsruhe",
-            "en": "Karlsruhe Palace"
+            "en": "Karlsruhe Palace",
+            "tr": "Karlsruhe Palace"
           },
           "coords": [
             8.401,
@@ -693,7 +732,8 @@
             "de": "Zu Fuß vom Marktplatz zum Schloss.",
             "hu": "Gyalog a Piac térről a kastélyhoz.",
             "ro": "Pe jos de la Marktplatz la castel.",
-            "en": "On foot from the Market Square to the palace."
+            "en": "On foot from the Market Square to the palace.",
+            "tr": "Market Square'den saraya yürüyerek ulaşılır."
           }
         },
         {
@@ -701,7 +741,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanical Garden"
           },
           "coords": [
             8.397,
@@ -717,7 +758,8 @@
             "de": "Ein kurzer Spaziergang durch den Park.",
             "hu": "Rövid séta a parkon keresztül.",
             "ro": "O scurtă plimbare prin parc.",
-            "en": "A short walk through the park."
+            "en": "A short walk through the park.",
+            "tr": "Parkın içinden kısa bir yürüyüş."
           }
         },
         {
@@ -725,7 +767,8 @@
             "de": "ZKM | Zentrum für Kunst und Medien",
             "hu": "ZKM | Művészeti és Médiatechnológiai Központ",
             "ro": "ZKM | Centrul pentru Artă și Media",
-            "en": "ZKM | Center for Art and Media"
+            "en": "ZKM | Center for Art and Media",
+            "tr": "ZKM | Center for Art and Media"
           },
           "coords": [
             8.384,
@@ -741,7 +784,8 @@
             "de": "Parkplätze direkt am Museum vorhanden.",
             "hu": "Parkolók közvetlenül a múzeumnál.",
             "ro": "Locuri de parcare disponibile direct la muzeu.",
-            "en": "Parking spaces available directly at the museum."
+            "en": "Parking spaces available directly at the museum.",
+            "tr": "Müzenin hemen önünde otopark yerleri mevcut."
           }
         },
         {
@@ -749,7 +793,8 @@
             "de": "Mittagessen (Brauhaus 2.0)",
             "hu": "Ebéd (Brauhaus 2.0)",
             "ro": "Prânz (Brauhaus 2.0)",
-            "en": "Lunch (Brauhaus 2.0)"
+            "en": "Lunch (Brauhaus 2.0)",
+            "tr": "Lunch (Brauhaus 2.0)"
           },
           "coords": [
             8.385,
@@ -765,7 +810,8 @@
             "de": "Direkt neben dem ZKM.",
             "hu": "Közvetlenül a ZKM mellett.",
             "ro": "Direct lângă ZKM.",
-            "en": "Directly next to the ZKM."
+            "en": "Directly next to the ZKM.",
+            "tr": "ZKM'nin hemen yanında."
           }
         },
         {
@@ -773,7 +819,8 @@
             "de": "Turmberg (Aussichtspunkt)",
             "hu": "Turmberg (kilátópont)",
             "ro": "Turmberg (punct de belvedere)",
-            "en": "Turmberg (Viewpoint)"
+            "en": "Turmberg (Viewpoint)",
+            "tr": "Turmberg (Viewpoint)"
           },
           "coords": [
             8.483,
@@ -789,7 +836,8 @@
             "de": "Parken Sie oben auf dem Turmberg-Parkplatz.",
             "hu": "Parkolj fent a Turmberg parkolóban.",
             "ro": "Parcați sus în parcarea de pe Turmberg.",
-            "en": "Park up at the Turmberg parking lot."
+            "en": "Park up at the Turmberg parking lot.",
+            "tr": "Turmberg otoparkında park edin."
           }
         }
       ],
@@ -797,7 +845,8 @@
         "de": "Mit dem Auto erkunden wir Karlsruhe in drei Clustern. Zuerst parken wir im Zentrum und besichtigen den Marktplatz, das Schloss und den Botanischen Garten bequem zu Fuß. So erleben wir die historische Mitte stressfrei.\n\nDanach führt eine kurze Fahrt zum ZKM im Westen der Stadt. Dieses weltweit führende Medienmuseum bietet faszinierende Einblicke in die digitale Welt. Direkt nebenan genießen wir ein herzhaftes Mittagessen. Den Abschluss bildet die Fahrt nach Durlach auf den Turmberg. Der dortige Parkplatz ermöglicht einen schnellen Zugang zum Aussichtspunkt, von dem aus man den perfekten Blick über die gesamte Region hat.",
         "hu": "Autóval három zónára osztva fedezzük fel Karlsruhét. Először a központban parkolunk, és kényelmesen, gyalog nézzük meg a Piac teret, a kastélyt és a Botanikus kertet. Így stresszmentesen élhetjük át a történelmi városmagot.\n\nEzután egy rövid autózás következik a város nyugati részén található ZKM-hez. Ez a világviszonylatban is kiemelkedő médiamúzeum lenyűgöző betekintést nyújt a digitális világba. Közvetlenül mellette fogyasztunk el egy bőséges ebédet. A napot a durlachi Turmberg koronázza meg. A fenti parkoló gyors hozzáférést biztosít a kilátóponthoz, ahonnan tökéletes panoráma nyílik az egész régióra.",
         "ro": "Cu mașina explorăm Karlsruhe în trei clustere. Mai întâi parcăm în centru și vizităm Marktplatz, castelul și Grădina Botanică comod, pe jos. Astfel experimentăm centrul istoric fără stres.\n\nApoi, o scurtă călătorie ne duce la ZKM, în vestul orașului. Acest muzeu media de top la nivel mondial oferă perspective fascinante asupra lumii digitale. Chiar alături ne bucurăm de un prânz consistent. Finalul este reprezentat de drumul spre Durlach, pe Turmberg. Parcarea de acolo permite accesul rapid la punctul de belvedere, de unde aveți o vedere perfectă asupra întregii regiuni.",
-        "en": "By car, we explore Karlsruhe in three clusters. First, we park in the center and visit the Market Square, the palace, and the Botanical Garden conveniently on foot. This way, we experience the historical center stress-free.\n\nThen, a short drive leads to the ZKM in the west of the city. This world-leading media museum offers fascinating insights into the digital world. Right next door, we enjoy a hearty lunch. The conclusion is the drive to Durlach up the Turmberg. The parking lot there allows quick access to the viewpoint, from which you have the perfect view over the entire region."
+        "en": "By car, we explore Karlsruhe in three clusters. First, we park in the center and visit the Market Square, the palace, and the Botanical Garden conveniently on foot. This way, we experience the historical center stress-free.\n\nThen, a short drive leads to the ZKM in the west of the city. This world-leading media museum offers fascinating insights into the digital world. Right next door, we enjoy a hearty lunch. The conclusion is the drive to Durlach up the Turmberg. The parking lot there allows quick access to the viewpoint, from which you have the perfect view over the entire region.",
+        "tr": "Arabayla, Karlsruhe'yi üç küme halinde geziyoruz. İlk olarak merkezde park edip Market Square, saray ve Botanik Bahçe'yi rahatça yürüyerek ziyaret ediyoruz. Bu şekilde tarihi merkezi stressiz deneyimliyoruz.\n\nArdından kısa bir sürüşle şehrin batısındaki ZKM'ye gidiyoruz. Bu dünya çapında medya müzesi dijital dünyaya ilginç bakışlar sunuyor. Hemen yanında doyurucu bir öğle yemeği yiyoruz. Sonuç olarak Durlach'a, Turmberg'e doğru sürüş yapıyoruz. Oradaki otopark, seyir noktasına hızlı erişim sağlar; tüm bölgeyi mükemmel şekilde görebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -953,6 +1002,11 @@
           "Avoid rush hour around Kriegsstraße.",
           "Parking garages in the center are often full on weekends.",
           "Use Park-and-Ride lots outside if the center is closed."
+        ],
+        "tr": [
+          "Kriegsstraße civarındaki yoğun saatlerden kaçının.",
+          "Merkezdeki otoparklar hafta sonları sıklıkla doludur.",
+          "Merkez kapalıysa şehir dışındaki Park-and-Ride alanlarını kullanın."
         ]
       }
     },
@@ -969,7 +1023,8 @@
             "de": "Marktplatz (Kombi-Lösung)",
             "hu": "Piac tér (Kombi-Lösung)",
             "ro": "Marktplatz (soluția combinată)",
-            "en": "Market Square (Kombi-Lösung)"
+            "en": "Market Square (Kombi-Lösung)",
+            "tr": "Market Square (Kombi-Lösung)"
           },
           "coords": [
             8.404,
@@ -985,7 +1040,8 @@
             "de": "Karlsruhes neue U-Bahn-Stationen sind architektonisch spannend.",
             "hu": "Karlsruhe új földalatti állomásai építészetileg is izgalmasak.",
             "ro": "Noile stații de metrou din Karlsruhe sunt interesante arhitectural.",
-            "en": "Karlsruhe's new subway stations are architecturally exciting."
+            "en": "Karlsruhe's new subway stations are architecturally exciting.",
+            "tr": "Karlsruhe'nin yeni metro istasyonları mimari açıdan ilginçtir."
           }
         },
         {
@@ -993,7 +1049,8 @@
             "de": "Schloss Karlsruhe",
             "hu": "Karlsruhei kastély",
             "ro": "Castelul Karlsruhe",
-            "en": "Karlsruhe Palace"
+            "en": "Karlsruhe Palace",
+            "tr": "Karlsruhe Palace"
           },
           "coords": [
             8.401,
@@ -1009,7 +1066,8 @@
             "de": "Kurzer Spaziergang von der Haltestelle Marktplatz.",
             "hu": "Rövid séta a Marktplatz megállótól.",
             "ro": "Scurtă plimbare de la stația Marktplatz.",
-            "en": "Short walk from the Marktplatz stop."
+            "en": "Short walk from the Marktplatz stop.",
+            "tr": "Marktplatz durağından kısa yürüyüş."
           }
         },
         {
@@ -1017,7 +1075,8 @@
             "de": "Zoologischer Stadtgarten",
             "hu": "Állatkert és városi kert",
             "ro": "Grădina Zoologică",
-            "en": "Zoological City Garden"
+            "en": "Zoological City Garden",
+            "tr": "Zoological City Garden"
           },
           "coords": [
             8.402,
@@ -1033,7 +1092,8 @@
             "de": "Direkt am Hauptbahnhof gelegen.",
             "hu": "Közvetlenül a főpályaudvarnál található.",
             "ro": "Situat direct lângă gara centrală.",
-            "en": "Located directly at the main station."
+            "en": "Located directly at the main station.",
+            "tr": "Ana istasyona doğrudan konumlanmış."
           }
         },
         {
@@ -1041,7 +1101,8 @@
             "de": "Mittagessen (Hauptbahnhof Region)",
             "hu": "Ebéd (Főpályaudvar környéke)",
             "ro": "Prânz (zona gării centrale)",
-            "en": "Lunch (Main Station area)"
+            "en": "Lunch (Main Station area)",
+            "tr": "Lunch (Main Station area)"
           },
           "coords": [
             8.401,
@@ -1057,7 +1118,8 @@
             "de": "Viele internationale Optionen.",
             "hu": "Számos nemzetközi választék.",
             "ro": "Multe opțiuni internaționale.",
-            "en": "Many international options."
+            "en": "Many international options.",
+            "tr": "Çok sayıda uluslararası seçenek var."
           }
         },
         {
@@ -1065,7 +1127,8 @@
             "de": "ZKM | Zentrum für Kunst und Medien",
             "hu": "ZKM | Művészeti és Médiatechnológiai Központ",
             "ro": "ZKM | Centrul pentru Artă și Media",
-            "en": "ZKM | Center for Art and Media"
+            "en": "ZKM | Center for Art and Media",
+            "tr": "ZKM | Center for Art and Media"
           },
           "coords": [
             8.384,
@@ -1081,7 +1144,8 @@
             "de": "Haltestelle 'ZKM' direkt vor der Tür.",
             "hu": "A 'ZKM' megálló közvetlenül a bejáratnál van.",
             "ro": "Stația 'ZKM' este chiar în fața ușii.",
-            "en": "Stop 'ZKM' is right in front of the door."
+            "en": "Stop 'ZKM' is right in front of the door.",
+            "tr": "'ZKM' durağı kapının hemen önünde."
           }
         }
       ],
@@ -1089,7 +1153,8 @@
         "de": "Karlsruhe ist berühmt für sein Straßenbahnsystem. Wir nutzen die neue 'Kombi-Lösung' (U-Bahn im Zentrum) und starten am Marktplatz. Von dort laufen wir zum Schloss. Die nächste Etappe führt uns mit der Tram zum Hauptbahnhof, direkt zum Eingang des Zoologischen Stadtgartens.\n\nNach dem Zoobesuch und einem Mittagessen in der Nähe des Bahnhofs bringt uns die Straßenbahn nach Westen zum ZKM. Das weltbekannte Zentrum für Medienkunst ist perfekt an den ÖPNV angebunden. Mit der Tageskarte der KVV können Sie flexibel zwischen den Vierteln pendeln und die Stadt wie ein Einheimischer erleben.",
         "hu": "Karlsruhe híres a villamoshálózatáról. Kihasználjuk az új 'Kombi-Lösung' (belvárosi földalatti) előnyeit, és a Piac téren kezdünk. Innen sétálunk a kastélyhoz. A következő szakasz villamossal a főpályaudvarhoz vezet, egyenesen az Állatkert bejáratához.\n\nAz állatkerti látogatás és a vasútállomás környéki ebéd után villamossal nyugat felé, a ZKM-hez indulunk. A világhírű médiaművészeti központ tökéletesen elérhető tömegközlekedéssel. A KVV napijeggyel rugalmasan ingázhatsz a városrészek között, és úgy élheted át a várost, mint egy helyi.",
         "ro": "Karlsruhe este renumit pentru sistemul său de tramvai. Folosim noua 'Kombi-Lösung' (metroul din centru) și începem în Marktplatz. De acolo mergem pe jos la castel. Următoarea etapă ne duce cu tramvaiul la gara centrală, direct la intrarea în Grădina Zoologică.\n\nDupă vizita la grădina zoologică și un prânz în apropierea gării, tramvaiul ne duce spre vest la ZKM. Centrul de artă media, cunoscut în întreaga lume, este perfect conectat la transportul public. Cu biletul de o zi KVV puteți face naveta flexibil între cartiere și puteți experimenta orașul ca un localnic.",
-        "en": "Karlsruhe is famous for its tram system. We use the new 'Kombi-Lösung' (subway in the center) and start at the Market Square. From there, we walk to the palace. The next stage takes us by tram to the main station, directly to the entrance of the Zoological City Garden.\n\nAfter the zoo visit and lunch near the station, the tram takes us west to the ZKM. The world-famous center for media art is perfectly connected to public transport. With a KVV day ticket, you can flexibly commute between districts and experience the city like a local."
+        "en": "Karlsruhe is famous for its tram system. We use the new 'Kombi-Lösung' (subway in the center) and start at the Market Square. From there, we walk to the palace. The next stage takes us by tram to the main station, directly to the entrance of the Zoological City Garden.\n\nAfter the zoo visit and lunch near the station, the tram takes us west to the ZKM. The world-famous center for media art is perfectly connected to public transport. With a KVV day ticket, you can flexibly commute between districts and experience the city like a local.",
+        "tr": "Karlsruhe tramvay sistemiyle ünlüdür. Yeni 'Kombi-Lösung'ü (merkezde metro) kullanıyoruz ve Market Square'de başlıyoruz. Oradan saraya yürünüyor. Sonraki etap bizi tramvayla ana istasyona, doğrudan Zoological City Garden girişine götürüyor.\n\nHayvanat bahçesi ziyareti ve istasyon yakınında öğle yemeğinin ardından tramvay bizi batıya, ZKM'ye taşıyor. Dünya çapında tanınan medya sanatı merkezi toplu ulaşımla mükemmel bağlı. Bir KVV günlük biletiyle bölge arasında esnekçe seyahat edebilir ve şehri bir yerli gibi deneyimleyebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1245,6 +1310,11 @@
           "Buy a KVV day ticket for zone 100.",
           "Trams run every minute in the center.",
           "Watch out for the white lines – they separate the tram from pedestrians."
+        ],
+        "tr": [
+          "100 bölgesi için KVV günlük bileti alın.",
+          "Tramvaylar merkezde her dakikada çalışmaz, sık sefer vardır.",
+          "Beyaz çizgilere dikkat edin – tramvayı yayalardan ayırırlar."
         ]
       }
     }

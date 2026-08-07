@@ -3,55 +3,64 @@
     "de": "Domplatz 1, 67346 Speyer",
     "hu": "Domplatz 1, 67346 Speyer",
     "ro": "Domplatz 1, 67346 Speyer",
-    "en": "Domplatz 1, 67346 Speyer"
+    "en": "Domplatz 1, 67346 Speyer",
+    "tr": "Domplatz 1, 67346 Speyer"
   },
   "openingHours": {
     "de": "Mo-Sa 09:00-19:00, So 11:30-17:30",
     "hu": "H-Szo 09:00-19:00, V 11:30-17:30",
     "ro": "Lu-Sâ 09:00-19:00, Du 11:30-17:30",
-    "en": "Mon-Sat 09:00-19:00, Sun 11:30-17:30"
+    "en": "Mon-Sat 09:00-19:00, Sun 11:30-17:30",
+    "tr": "Pzt-Cum 09:00-19:00, Pazar 11:30-17:30"
   },
   "entranceFee": {
     "de": "kostenlos (Dom), Ausstellungen/Krypta kostenpflichtig",
     "hu": "ingyenes (dóm), kiállítások/kripta díjköteles",
     "ro": "gratuit (domul), expozițiile/cripta contra cost",
-    "en": "free (cathedral), exhibitions/crypt require a fee"
+    "en": "free (cathedral), exhibitions/crypt require a fee",
+    "tr": "ücretsiz (katedral), sergiler/kripta ücretli"
   },
   "website": "https://www.dom-zu-speyer.de",
   "publicTransport": {
     "de": "Bus 561, 568 (Postplatz/Domplatz)",
     "hu": "561, 568-as busz (Postplatz/Domplatz)",
     "ro": "Autobuzul 561, 568 (Postplatz/Domplatz)",
-    "en": "Bus 561, 568 (Postplatz/Domplatz)"
+    "en": "Bus 561, 568 (Postplatz/Domplatz)",
+    "tr": "561, 568 numaralı otobüsler (Postplatz/Domplatz)"
   },
   "parking": {
     "de": "Parkhaus am Dom (Körtscher-Parkhaus), ca. 2 €/Std.",
     "hu": "Parkolóház a dómnál (Körtscher-Parkhaus), kb. 2 €/óra",
     "ro": "Parcarea de la dom (Körtscher-Parkhaus), aprox. 2 €/oră",
-    "en": "Cathedral parking garage (Körtscher-Parkhaus), approx. 2 €/hr"
+    "en": "Cathedral parking garage (Körtscher-Parkhaus), approx. 2 €/hr",
+    "tr": "Katedral otopark garajı (Körtscher-Parkhaus), yaklaşık 2 €/saat"
   },
   "accessibility": {
     "de": "Hauptschiff barrierefrei zugänglich.",
     "hu": "A főhajó akadálymentesen megközelíthető.",
     "ro": "Nava principală este accesibilă persoanelor cu dizabilități.",
-    "en": "Main nave barrier-free accessible."
+    "en": "Main nave barrier-free accessible.",
+    "tr": "Ana nef engelsiz erişime sahip."
   },
   "photoRules": {
     "de": "Erlaubt für private Zwecke, kein Blitz.",
     "hu": "Magáncélra engedélyezett, vaku nélkül.",
     "ro": "Permis pentru uz privat, fără bliț.",
-    "en": "Allowed for private purposes, no flash."
+    "en": "Allowed for private purposes, no flash.",
+    "tr": "Özel amaçlı fotoğrafçılık için izinli, flaş yok."
   },
   "bestTimeToVisit": {
     "de": "Sonntagnachmittag nach den Gottesdiensten.",
     "hu": "Vasárnap délután az istentiszteletek után.",
     "ro": "Duminică după-amiază după slujbe.",
-    "en": "Sunday afternoon after the services."
+    "en": "Sunday afternoon after the services.",
+    "tr": "İbadetlerden sonra Pazar öğleden sonra."
   },
   "audioGuide": {
     "de": "ja",
     "hu": "igen",
     "ro": "da",
-    "en": "yes"
+    "en": "yes",
+    "tr": "evet"
   }
 }

@@ -21,7 +21,8 @@
             "de": "Darß-Museum",
             "hu": "Darß-Múzeum",
             "ro": "Muzeul Darß",
-            "en": "Darß Museum"
+            "en": "Darß Museum",
+            "tr": "Darß Müzesi"
           },
           "coords": [
             12.558393,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie die lokale Geschichte und maritime Kultur in diesem charmanten Museum, in dem Sie sich am besten gleich morgens in Ruhe die historischen Exponate ansehen.",
             "hu": "Fedezze fel a helyi történelmet és a tengeri kultúrát ebben a bájos múzeumban, ahol érdemes rögtön reggel, nyugodtan megtekinteni a történelmi kiállításokat.",
             "ro": "Descoperiți istoria locală și cultura maritimă în acest muzeu fermecător, unde este cel mai bine să admirați exponatele istorice în liniște, încă de dimineață.",
-            "en": "Discover local history and maritime culture in this charming museum, where it is best to view the historical exhibits peacefully first thing in the morning."
+            "en": "Discover local history and maritime culture in this charming museum, where it is best to view the historical exhibits peacefully first thing in the morning.",
+            "tr": "Bu çekici müzede yerel tarih ve denizcilik kültürünü keşfedin; tarihî sergileri sabahın erken saatlerinde sakin bir şekilde gezmek en iyisidir."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Heimatgalerie u Bernsteinmuseum",
             "hu": "Heimatgalerie és Borostyánmúzeum",
             "ro": "Heimatgalerie și Muzeul Chihlimbarului",
-            "en": "Heimatgalerie and Amber Museum"
+            "en": "Heimatgalerie and Amber Museum",
+            "tr": "Heimatgalerie ve Kehribar Müzesi"
           },
           "coords": [
             12.557421,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die faszinierenden Bernsteinexponate und regionale Kunstwerke, wobei das natürliche Licht am späten Vormittag die Details der Steine besonders hervorhebt.",
             "hu": "Csodálja meg a lenyűgöző borostyán kiállításokat és regionális műalkotásokat, mivel a késő délelőtti természetes fény különösen kiemeli a kövek apró részleteit.",
             "ro": "Admirați expozițiile fascinante de chihlimbar și operele de artă regionale, lumina naturală a dimineții târzii evidențiind în mod deosebit detaliile pietrelor.",
-            "en": "Admire the fascinating amber exhibits and regional artworks, as the natural late morning light particularly highlights the intricate details of the stones."
+            "en": "Admire the fascinating amber exhibits and regional artworks, as the natural late morning light particularly highlights the intricate details of the stones.",
+            "tr": "Büyüleyici kehribar sergilerini ve bölgesel sanat eserlerini hayranlıkla izleyin; öğleden sonraki doğal ışık taşların ayrıntılarını özellikle vurgular."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kutsch- & Kremserfahrten Ralf-Dieter Bergmann",
             "hu": "Ralf-Dieter Bergmann Lovaskocsizás",
             "ro": "Plimbări cu trăsura Ralf-Dieter Bergmann",
-            "en": "Carriage Rides Ralf-Dieter Bergmann"
+            "en": "Carriage Rides Ralf-Dieter Bergmann",
+            "tr": "Ralf-Dieter Bergmann At Arabası Turları"
           },
           "coords": [
             12.555972,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie eine traditionelle Kutschfahrt durch die malerische Landschaft, für die Sie vorab reservieren sollten, um sich einen bequemen Platz zu sichern.",
             "hu": "Élvezze a hagyományos lovaskocsis utazást a festői tájon keresztül, amelyre érdemes előre asztalt foglalni, hogy kényelmes helyet biztosítson magának.",
             "ro": "Bucurați-vă de o plimbare tradițională cu trăsura prin peisajul pitoresc, pentru care ar trebui să faceți o rezervare în prealabil pentru a vă asigura un loc confortabil.",
-            "en": "Enjoy a traditional carriage ride through the picturesque landscape, for which you should book in advance to ensure you get a comfortable seat for the journey."
+            "en": "Enjoy a traditional carriage ride through the picturesque landscape, for which you should book in advance to ensure you get a comfortable seat for the journey.",
+            "tr": "Pitoresk manzara içinde geleneksel bir at arabası turunun keyfini çıkarın; yolculuk için rahat bir yer garantilemek üzere önceden rezervasyon yaptırmanız gerekir."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Freilichtbühne",
             "hu": "Szabadtéri Színpad",
             "ro": "Teatru în aer liber",
-            "en": "Open-Air Stage"
+            "en": "Open-Air Stage",
+            "tr": "Açıkhava Sahnesi"
           },
           "coords": [
             12.566036,
@@ -105,7 +112,8 @@
             "de": "Erleben Sie die besondere Atmosphäre dieses Open-Air-Theaters mitten in der Natur, und prüfen Sie vorab den Spielplan auf aktuelle lokale Veranstaltungen.",
             "hu": "Tapasztalja meg ennek a természet lágyén elterülő szabadtéri színháznak a különleges hangulatát, és érdemes előzetesen ellenőrizni a programot az aktuális eseményekért.",
             "ro": "Experimentați atmosfera specială a acestui teatru în aer liber din mijlocul naturii și verificați în prealabil programul pentru evenimentele locale actuale.",
-            "en": "Experience the special atmosphere of this open-air theater surrounded by nature, and check the schedule in advance for any current local events or performances."
+            "en": "Experience the special atmosphere of this open-air theater surrounded by nature, and check the schedule in advance for any current local events or performances.",
+            "tr": "Doğa ile çevrili bu açıkhava tiyatrosunun özel atmosferini yaşayın ve mevcut yerel etkinlikler veya gösteriler için programı önceden kontrol edin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Seemannskirche",
             "hu": "Tengerésztemplom",
             "ro": "Biserica Marinarilor",
-            "en": "Seemannskirche"
+            "en": "Seemannskirche",
+            "tr": "Denizci Kilisesi"
           },
           "coords": [
             12.582544,
@@ -128,7 +137,8 @@
             "de": "Besichtigen Sie diese historische Kirche mit ihren maritimen Details und alten Modellschiffen, und achten Sie besonders auf den friedlichen, sehenswerten Kirchhof.",
             "hu": "Látogassa meg ezt a történelmi templomot tengeri részleteivel és régi hajómodelljeivel, és fordítson különös figyelmet a békés, figyelemre méltó templomkertre.",
             "ro": "Vizitați această biserică istorică cu detaliile sale maritime și vechile corăbii în miniatură, acordând o atenție deosebită cimitirului liniștit și pitoresc.",
-            "en": "Visit this historic church with its maritime details and old model ships, paying special attention to the peaceful and remarkable churchyard during your stay."
+            "en": "Visit this historic church with its maritime details and old model ships, paying special attention to the peaceful and remarkable churchyard during your stay.",
+            "tr": "Denizcilik detaylarına ve eski maket gemilere sahip bu tarihî kiliseyi ziyaret edin; konaklamanız sırasında huzurlu ve dikkat çekici mezarlığa özel ilgi gösterin."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Hohe Düne",
             "hu": "Hohe Düne",
             "ro": "Hohe Düne",
-            "en": "Hohe Düne"
+            "en": "Hohe Düne",
+            "tr": "Yüksek Kumtepe (Hohe Düne)"
           },
           "coords": [
             12.591839,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie den weiten Blick von dieser natürlichen Sandformation, wofür festes Schuhwerk empfohlen wird, um den sandigen Aufstieg mühelos zu meistern.",
             "hu": "Élvezze a széles kilátást ebből a természetes homokképződményből, amelyhez erős cipő viselése ajánlott, hogy könnyedén megbirkózzon a homokos emelkedővel.",
             "ro": "Bucurați-vă de priveliștea vastă de pe această formațiune naturală de nisip, pentru care se recomandă încălțăminte solidă pentru a face față cu ușurință urcușului.",
-            "en": "Enjoy the expansive view from this natural sand formation, for which sturdy footwear is highly recommended to easily tackle the somewhat sandy ascent."
+            "en": "Enjoy the expansive view from this natural sand formation, for which sturdy footwear is highly recommended to easily tackle the somewhat sandy ascent.",
+            "tr": "Bu doğal kum oluşumundan geniş manzaranın tadını çıkarın; biraz kumlu olan tırmanışı kolayca aşabilmek için sağlam ayakkabı giymeniz şiddetle tavsiye edilir."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag in Prerow beginnt mit maritimer Geschichte im Darß-Museum. Danach bewundern Sie Bernstein in der Heimatgalerie und genießen eine traditionelle Kutschfahrt. Am Nachmittag erleben Sie die Natur an der Freilichtbühne und besichtigen die alte Seemannskirche. Der Abend klingt mit einem herrlichen Blick von der Hohen Düne auf die Ostsee und die umliegende Küstenlandschaft friedlich aus.",
         "hu": "A prerowi nap a Darß-Múzeum tengeri történelmével kezdődik. Ezután borostyánt csodálhat a Heimatgalerie-ben, és élvezhet egy hagyományos lovaskocsikázást. Délután a szabadtéri színpadnál élvezheti a természetet, és meglátogathatja a régi tengerésztemplomot. Az este a Hohe Düne-ről a Balti-tengerre és a környező partvidékre nyíló csodálatos kilátással, békésen ér véget.",
         "ro": "Ziua dvs. în Prerow începe cu istoria maritimă la Muzeul Darß. Apoi veți admira chihlimbarul la Heimatgalerie și vă veți bucura de o plimbare cu trăsura. După-amiaza veți experimenta natura la teatrul în aer liber și veți vizita vechea biserică a marinarilor. Seara se încheie liniștit cu o vedere minunată asupra Mării Baltice și a peisajului de coastă de pe Hohe Düne.",
-        "en": "Your day in Prerow begins with maritime history at the Darß Museum. You will then admire amber at the Heimatgalerie and enjoy a traditional carriage ride. In the afternoon, experience nature at the open-air stage and visit the old Seemannskirche. The evening ends peacefully with a magnificent view of the Baltic Sea and the surrounding coastal landscape from the Hohe Düne."
+        "en": "Your day in Prerow begins with maritime history at the Darß Museum. You will then admire amber at the Heimatgalerie and enjoy a traditional carriage ride. In the afternoon, experience nature at the open-air stage and visit the old Seemannskirche. The evening ends peacefully with a magnificent view of the Baltic Sea and the surrounding coastal landscape from the Hohe Düne.",
+        "tr": "Prerow'daki gününüz Darß Müzesi'nde denizcilik tarihiyle başlar. Ardından Heimatgalerie'de kehribarı hayranlıkla izleyip geleneksel bir at arabası turunun keyfini çıkaracaksınız. Öğleden sonra açıkhava sahnesinde doğayı deneyimleyip eski Denizci Kilisesi'ni ziyaret edin. Akşam, Hohe Düne'den Baltık Denizi ve çevresindeki kıyı manzarasının muhteşem görüntüsüyle huzur içinde sona erer."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Prerow zeigt sich bei Regen von seiner gemütlichen Seite. Der Vormittag gehört den Museen, wo Sie trocken in die Regionalgeschichte eintauchen können. Mittags bietet die überdachte Kutsche Schutz vor den Elementen. Am Nachmittag finden Sie in der Seemannskirche Besinnung, bevor der Tag mit einem erfrischenden, windigen Deichspaziergang in wasserfester Kleidung an den Dünen endet.",
             "hu": "Prerow esőben is tartogat látnivalót, ha megfelelően rétegesen öltözünk. A délelőttöt a múzeumok fedett tereiben töltjük, védve az elemektől. Délben a fedeles lovaskocsi nyújt menedéket a táj felfedezése közben. Délután a templom csendje vár, majd a napot egy frissítő, szeles dűnesétával zárjuk, ahol az eső illata és a tenger morajlása különleges hangulatot áraszt.",
             "ro": "Prerow oferă un farmec aparte chiar și pe ploaie. Dimineața este dedicată muzeelor, oferind un refugiu cultural uscat. La prânz, trăsura acoperită vă protejează în timp ce explorați împrejurimile. După-amiaza aduce liniște în biserica marinarilor, iar seara se încheie cu o plimbare revigorantă pe dig, echipați cu pelerine, admirând spectacolul naturii la dune.",
-            "en": "Prerow reveals a cozy side during rainy weather. Spend your morning exploring indoor museums, staying dry while learning local history. At noon, a covered carriage ride offers a sheltered way to see the landscape. The afternoon is perfect for the quiet Seemannskirche, followed by a refreshing walk to the dunes where the rainy sea breeze creates a unique, moody atmosphere."
+            "en": "Prerow reveals a cozy side during rainy weather. Spend your morning exploring indoor museums, staying dry while learning local history. At noon, a covered carriage ride offers a sheltered way to see the landscape. The afternoon is perfect for the quiet Seemannskirche, followed by a refreshing walk to the dunes where the rainy sea breeze creates a unique, moody atmosphere.",
+            "tr": "Prerow yağmurlu havada samimi bir yüzünü gösterir. Sabahınızı kapalı müzeleri keşfederek geçirin; yerel tarihi öğrenirken kuru kalırsınız. Öğle vakti, örtülü bir at arabası turu manzarayı yağmurdan korunarak görmenin yolunu sunar. Öğleden sonra sakin Denizci Kilisesi için mükemmeldir, ardından yağmurlu deniz esintisinin benzersiz, kasvetli bir atmosfer yarattığı kumullara ferahlatıcı bir yürüyüş yapın."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Darß-Museum",
                 "hu": "Darß-Múzeum",
                 "ro": "Muzeul Darß",
-                "en": "Darß Museum"
+                "en": "Darß Museum",
+                "tr": "Darß Müzesi"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die Flora und Fauna der Region im Trockenen; nutzen Sie die Schließfächer für Ihre nassen Regenjacken beim Eingang.",
                 "hu": "Fedezze fel a régió élővilágát a száraz kiállítóterekben; használja a bejárati szekrényeket a vizes esőkabátok tárolására.",
                 "ro": "Explorați flora și fauna regiunii la adăpost; folosiți dulapurile de la intrare pentru a lăsa pelerinele de ploaie ude.",
-                "en": "Explore the region's flora and fauna in the dry halls; use the lockers at the entrance to store your wet rain gear."
+                "en": "Explore the region's flora and fauna in the dry halls; use the lockers at the entrance to store your wet rain gear.",
+                "tr": "Kuru salonlarda bölgenin flora ve faunasını keşfedin; ıslak yağmurluğunuzu depolamak için girişteki kilitli dolapları kullanın."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Heimatgalerie u Bernsteinmuseum",
                 "hu": "Heimatgalerie és Borostyánmúzeum",
                 "ro": "Heimatgalerie și Muzeul Chihlimbarului",
-                "en": "Heimatgalerie and Amber Museum"
+                "en": "Heimatgalerie and Amber Museum",
+                "tr": "Heimatgalerie ve Kehribar Müzesi"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie glänzenden Bernstein, während es draußen stürmt; die hellen Vitrinen lassen das graue Wetter schnell vergessen.",
                 "hu": "Csodálja meg a csillogó borostyánokat, miközben kint tombol a vihar; a fényes vitrinek feledtetik a szürke, borús időjárást.",
                 "ro": "Admirați chihlimbarul strălucitor în timp ce afară plouă; vitrinele luminate vă vor face să uitați de vremea mohorâtă.",
-                "en": "Admire the glowing amber while it storms outside; the bright displays will make you quickly forget the grey weather."
+                "en": "Admire the glowing amber while it storms outside; the bright displays will make you quickly forget the grey weather.",
+                "tr": "Dışarıda fırtına eserken parlayan kehribarı hayranlıkla izleyin; parlak vitrinler gri havayı çabucak unutturur."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Kutsch- & Kremserfahrten Ralf-Dieter Bergmann",
                 "hu": "Ralf-Dieter Bergmann Lovaskocsizás",
                 "ro": "Plimbări cu trăsura Ralf-Dieter Bergmann",
-                "en": "Carriage Rides Ralf-Dieter Bergmann"
+                "en": "Carriage Rides Ralf-Dieter Bergmann",
+                "tr": "Ralf-Dieter Bergmann At Arabası Turları"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Fahrt in einer überdachten Kutsche; fragen Sie nach einer Decke, um sich vor dem feuchten Wind zu schützen.",
                 "hu": "Élvezze az utazást egy fedett lovaskocsin; kérjen plédet a hajtótól, hogy védekezzen a nedves, hűvös tengeri szél ellen.",
                 "ro": "Bucurați-vă de drum într-o trăsură acoperită; cereți o pătură pentru a vă proteja de vântul umed și răcoros de coastă.",
-                "en": "Enjoy the ride in a covered carriage; ask for a blanket to shield yourself from the damp and chilly coastal wind."
+                "en": "Enjoy the ride in a covered carriage; ask for a blanket to shield yourself from the damp and chilly coastal wind.",
+                "tr": "Kapalı bir arabada yolculuğun keyfini çıkarın; nemli ve serin kıyı rüzgarından korunmak için bir battaniye isteyin."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Freilichtbühne",
                 "hu": "Szabadtéri Színpad",
                 "ro": "Teatru în aer liber",
-                "en": "Open-Air Stage"
+                "en": "Open-Air Stage",
+                "tr": "Açıkhava Sahnesi"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Blick auf die Bühne im Regen wirkt melancholisch; achten Sie auf rutschige Holzbänke und festes Schuhwerk.",
                 "hu": "Egy rövid pillantás a színpadra esőben különös hangulatú; vigyázzon a csúszós fapadokra és viseljen stabil talpú cipőt.",
                 "ro": "O privire scurtă spre scenă pe ploaie are un aer melancolic; atenție la băncile de lemn alunecoase și purtați încălțăminte adecvată.",
-                "en": "A brief look at the stage in the rain feels quite atmospheric; watch out for slippery wooden benches and wear sturdy shoes."
+                "en": "A brief look at the stage in the rain feels quite atmospheric; watch out for slippery wooden benches and wear sturdy shoes.",
+                "tr": "Yağmur altındaki kısa bir sahne ziyareti oldukça atmosferik hissettirir; kaygan tahta sıralara dikkat edin ve sağlam ayakkabılar giyin."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Seemannskirche",
                 "hu": "Tengerésztemplom",
                 "ro": "Biserica Marinarilor",
-                "en": "Seemannskirche"
+                "en": "Seemannskirche",
+                "tr": "Denizci Kilisesi"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen stillen, trockenen Rückzugsort; bewundern Sie die Votivschiffe, Symbole für Schutz auf stürmischer See.",
                 "hu": "A templom csendes és száraz menedéket nyújt; csodálja meg a fogadalmi hajómodelleket, a viharos tengeri oltalom jelképeit.",
                 "ro": "Biserica oferă un refugiu liniștit și uscat; admirați navele votive, simboluri ale protecției pe mările învolburate.",
-                "en": "The church provides a quiet, dry sanctuary; admire the votive ships, symbols of protection on the stormy seas."
+                "en": "The church provides a quiet, dry sanctuary; admire the votive ships, symbols of protection on the stormy seas.",
+                "tr": "Kilise sessiz, kuru bir sığınak sağlar; fırtınalı denizlerde koruma sembolü olan adak gemilerini hayranlıkla izleyin."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Hohe Düne",
                 "hu": "Hohe Düne",
                 "ro": "Hohe Düne",
-                "en": "Hohe Düne"
+                "en": "Hohe Düne",
+                "tr": "Hohe Düne"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die raue Ostsee von der Aussichtsplattform; halten Sie Ihre Kapuze fest, da der Wind hier oben stark zunehmen kann.",
                 "hu": "Tapasztalja meg a vad Keleti-tengert a kilátóból; fogja erősen a kapucniját, mert a szél itt fent jelentősen felerősödhet.",
                 "ro": "Experimentați marea agitată de pe platforma de observație; țineți bine gluga, deoarece vântul se poate înteți considerabil.",
-                "en": "Experience the wild Baltic Sea from the viewpoint; hold your hood tight as the wind can pick up significantly up here."
+                "en": "Experience the wild Baltic Sea from the viewpoint; hold your hood tight as the wind can pick up significantly up here.",
+                "tr": "Seyir noktasından vahşi Baltık Denizi'ni deneyimleyin; rüzgâr burada önemli ölçüde hızlanabileceğinden başlığınızı sıkıca tutun."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Der Winter in Prerow ist ruhig und klar. Vormittags wärmen Sie sich in den Museen auf, während die Wintersonne tief steht. Mittags gleiten Sie dick eingepackt per Kutsche durch die verschneite Landschaft. Nachmittags bietet die Kirche Wärme, bevor Sie die Hohe Düne rechtzeitig zum frühen Sonnenuntergang gegen 16:30 Uhr erreichen, wenn der Himmel oft spektakulär brennt.",
             "hu": "A tél Prerow-ban csendes és tiszta levegővel vár. Délelőtt a múzeumok melegében kezdünk, élvezve a laposan beeső téli napsütést. Délben vastag ruhában kocsikázunk a falu szélén. Délután a templom meghittsége után a dűnékhez sietünk, hogy elcsípjük a korai, 17 óra előtti naplementét, amely ilyenkor gyakran drámai színekben pompázik.",
             "ro": "Iarna în Prerow este liniștită și revigorantă. Dimineața vă încălziți în muzee, admirând soarele palid de iarnă. La prânz, înfofoliți bine, parcurgeți peisajul înghețat cu trăsura. După-amiaza vizitați biserica, apoi grăbiți-vă spre dune pentru a prinde apusul timpuriu de la ora 17:00, când cerul capătă nuanțe spectaculoase de foc.",
-            "en": "Winter in Prerow is peaceful and crisp. Warm up in the museums during the morning while the sun stays low. At noon, bundle up for a carriage ride through the frosty landscape. After a cozy visit to the church, reach the dunes in time for the early sunset around 5 PM, when the winter sky often displays spectacular fiery colors."
+            "en": "Winter in Prerow is peaceful and crisp. Warm up in the museums during the morning while the sun stays low. At noon, bundle up for a carriage ride through the frosty landscape. After a cozy visit to the church, reach the dunes in time for the early sunset around 5 PM, when the winter sky often displays spectacular fiery colors.",
+            "tr": "Prerow'da kış sakin ve ferahlatıcıdır. Sabahları müzelerde ısının; güneş alçakta kalır. Öğle vakti, kırağıyla kaplı manzara boyunca bir at arabası turu için kalın giyinin. Rahat bir kilise ziyaretinin ardından kumullara ulaşın ve saat yaklaşık 17:00 civarında erken gün batımının tadını çıkarın; kış gökyüzü genellikle muhteşem ateşli renkler sergiler."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Darß-Museum",
                 "hu": "Darß-Múzeum",
                 "ro": "Muzeul Darß",
-                "en": "Darß Museum"
+                "en": "Darß Museum",
+                "tr": "Darß Müzesi"
               },
               "tip_5lang": {
                 "de": "Die beheizten Räume sind ideal, um der Kälte zu entfliehen; bewundern Sie die traditionellen Darßer Türen im Winterlicht.",
                 "hu": "A fűtött termek ideálisak a hideg elöli menekülésre; csodálja meg a hagyományos Darß-i ajtókat a tiszta téli fényben.",
                 "ro": "Sălile încălzite sunt ideale pentru a scăpa de frig; admirați ușile tradiționale din Darß în lumina clară de iarnă.",
-                "en": "The heated rooms are ideal for escaping the cold; admire the traditional Darß doors in the crisp winter light."
+                "en": "The heated rooms are ideal for escaping the cold; admire the traditional Darß doors in the crisp winter light.",
+                "tr": "Isıtmalı salonlar soğuktan kaçmak için idealdir; keskin kış ışığında geleneksel Darß kapılarına hayran kalın."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Heimatgalerie u Bernsteinmuseum",
                 "hu": "Heimatgalerie és Borostyánmúzeum",
                 "ro": "Heimatgalerie și Muzeul Chihlimbarului",
-                "en": "Heimatgalerie and Amber Museum"
+                "en": "Heimatgalerie and Amber Museum",
+                "tr": "Heimatgalerie ve Kehribar Müzesi"
               },
               "tip_5lang": {
                 "de": "Bernstein wirkt im Winter besonders warm und einladend; ein perfekter Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
                 "hu": "A borostyán télen különösen melegnek és hívogatónak tűnik; tökéletes hely a felmelegedésre két kinti séta között.",
                 "ro": "Chihlimbarul pare deosebit de cald și primitor iarna; un loc perfect pentru a vă încălzi între două plimbări lungi.",
-                "en": "Amber looks especially warm and inviting in winter; it is a perfect spot to warm up between outdoor walks."
+                "en": "Amber looks especially warm and inviting in winter; it is a perfect spot to warm up between outdoor walks.",
+                "tr": "Kehribar kışın özellikle sıcak ve davetkâr görünür; dış yürüyüşler arasında ısınmak için mükemmel bir nokta."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Kutsch- & Kremserfahrten Ralf-Dieter Bergmann",
                 "hu": "Ralf-Dieter Bergmann Lovaskocsizás",
                 "ro": "Plimbări cu trăsura Ralf-Dieter Bergmann",
-                "en": "Carriage Rides Ralf-Dieter Bergmann"
+                "en": "Carriage Rides Ralf-Dieter Bergmann",
+                "tr": "Ralf-Dieter Bergmann At Arabası Turları"
               },
               "tip_5lang": {
                 "de": "In Wolldecken gehüllt ist die winterliche Fahrt magisch; ziehen Sie sich nach dem Zwiebelprinzip an, um warm zu bleiben.",
                 "hu": "Gyapjúplédekbe burkolózva a téli kocsikázás varázslatos; öltözzön rétegesen, hogy a menetszélben is megőrizze teste melegét.",
                 "ro": "Înfășurați în pături de lână, plimbarea de iarnă este magică; îmbrăcați-vă în straturi pentru a vă menține căldura.",
-                "en": "Wrapped in wool blankets, the winter ride is magical; dress in layers to keep your body heat during the breezy journey."
+                "en": "Wrapped in wool blankets, the winter ride is magical; dress in layers to keep your body heat during the breezy journey.",
+                "tr": "Yün battaniyelere sarılı kış yolculuğu büyüleyicidir; rüzgârlı yolculuk sırasında vücut ısınızı korumak için katmanlı giyinin."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Freilichtbühne",
                 "hu": "Szabadtéri Színpad",
                 "ro": "Teatru în aer liber",
-                "en": "Open-Air Stage"
+                "en": "Open-Air Stage",
+                "tr": "Açıkhava Sahnesi"
               },
               "tip_5lang": {
                 "de": "Die leere Bühne im Winter wirkt fast skulptural; tragen Sie Schuhe mit isolierter Sohle gegen den kalten Boden beim Stehen.",
                 "hu": "Az üres színpad télen szinte szoborszerűnek hat; viseljen hőszigetelt talpú cipőt a fagyos talaj elleni védekezésül.",
                 "ro": "Scena goală iarna pare aproape o sculptură; purtați încălțăminte cu talpă izolatoare împotriva pământului înghețat.",
-                "en": "The empty stage in winter looks almost sculptural; wear shoes with insulated soles against the frozen ground."
+                "en": "The empty stage in winter looks almost sculptural; wear shoes with insulated soles against the frozen ground.",
+                "tr": "Kışın boş sahne neredeyse heykelsi görünür; donmuş zemine karşı yalıtımlı tabanlı ayakkabılar giyin."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Seemannskirche",
                 "hu": "Tengerésztemplom",
                 "ro": "Biserica Marinarilor",
-                "en": "Seemannskirche"
+                "en": "Seemannskirche",
+                "tr": "Denizci Kilisesi"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe in der frostfreien Kirche; das sanfte Licht der kurzen Tage verleiht dem Innenraum eine besondere Aura.",
                 "hu": "Élvezze a nyugalmat a fagymentes templomban; a rövid nappalok lágy fénye különleges aurát kölcsönöz a belső térnek.",
                 "ro": "Bucurați-vă de liniște în biserica ferită de îngheț; lumina blândă a zilelor scurte oferă interiorului o aură aparte.",
-                "en": "Enjoy the peace in the frost-free church; the soft light of the short days gives the interior a special aura."
+                "en": "Enjoy the peace in the frost-free church; the soft light of the short days gives the interior a special aura.",
+                "tr": "Don olmayan kilisede huzurun tadını çıkarın; kısa günlerin yumuşak ışığı iç mekâna özel bir aura verir."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Hohe Düne",
                 "hu": "Hohe Düne",
                 "ro": "Hohe Düne",
-                "en": "Hohe Düne"
+                "en": "Hohe Düne",
+                "tr": "Hohe Düne"
               },
               "tip_5lang": {
                 "de": "Suchen Sie die Düne vor 16:30 Uhr auf; die kalte Winterluft macht die Fernsicht über die Ostsee oft extrem klar und weit.",
                 "hu": "Keresse fel a dűnét 16:30 előtt; a hideg téli levegő gyakran rendkívül tisztává és messzire nyúlóvá teszi a kilátást.",
                 "ro": "Vizitați duna înainte de ora 16:30; aerul rece de iarnă face ca vizibilitatea peste mare să fie extrem de clară și lungă.",
-                "en": "Visit the dune before 4:30 PM; the cold winter air often makes the view across the Baltic Sea extremely clear and far."
+                "en": "Visit the dune before 4:30 PM; the cold winter air often makes the view across the Baltic Sea extremely clear and far.",
+                "tr": "Kumu saat 16:30'dan önce ziyaret edin; soğuk kış havası genellikle Baltık Denizi boyunca görünümü son derece net ve uzak hale getirir."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Seemannskirche",
             "hu": "Tengerésztemplom",
             "ro": "Biserica Marinarilor",
-            "en": "Seemannskirche"
+            "en": "Seemannskirche",
+            "tr": "Denizci Kilisesi"
           },
           "coords": [
             12.582544,
@@ -380,7 +420,8 @@
             "de": "Besichtigen Sie diese historische Kirche mit ihren maritimen Details und alten Modellschiffen, und achten Sie besonders auf den friedlichen, sehenswerten Kirchhof.",
             "hu": "Látogassa meg ezt a történelmi templomot tengeri részleteivel és régi hajómodelljeivel, és fordítson különös figyelmet a békés, figyelemre méltó templomkertre.",
             "ro": "Vizitați această biserică istorică cu detaliile sale maritime și vechile corăbii în miniatură, acordând o atenție deosebită cimitirului liniștit și pitoresc.",
-            "en": "Visit this historic church with its maritime details and old model ships, paying special attention to the peaceful and remarkable churchyard during your stay."
+            "en": "Visit this historic church with its maritime details and old model ships, paying special attention to the peaceful and remarkable churchyard during your stay.",
+            "tr": "Denizcilik detaylarına ve eski maket gemilere sahip bu tarihî kiliseyi ziyaret edin; konaklamanız sırasında huzurlu ve dikkat çekici mezarlığa özel ilgi gösterin."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Kunst formt Garten",
             "hu": "Kunst formt Garten",
             "ro": "Kunst formt Garten",
-            "en": "Kunst formt Garten"
+            "en": "Kunst formt Garten",
+            "tr": "Sanat Bahçesi (Kunst formt Garten)"
           },
           "coords": [
             12.572084,
@@ -403,7 +445,8 @@
             "de": "Schlendern Sie durch diese kunstvoll gestaltete Anlage, in der Skulpturen und Pflanzen harmonieren, und nehmen Sie sich ausreichend Zeit für die verborgenen Details.",
             "hu": "Sétáljon végig ezen a művészien kialakított területen, ahol a szobrok és a növények harmonizálnak, és szánjon elegendő időt a rejtett részletek felfedezésére.",
             "ro": "Plimbați-vă prin această zonă cu design artistic, unde sculpturile și plantele se armonizează perfect, și faceți-vă suficient timp pentru detaliile ascunse.",
-            "en": "Stroll through this artistically designed area where sculptures and plants perfectly harmonize, taking plenty of time to discover all the hidden intricate details."
+            "en": "Stroll through this artistically designed area where sculptures and plants perfectly harmonize, taking plenty of time to discover all the hidden intricate details.",
+            "tr": "Heykeller ve bitkilerin kusursuz uyum içinde olduğu bu sanatsal tasarımlı alanda gezin; tüm gizli ince detayları keşfetmek için bolca zaman ayırın."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Darß-Museum",
             "hu": "Darß-Múzeum",
             "ro": "Muzeul Darß",
-            "en": "Darß Museum"
+            "en": "Darß Museum",
+            "tr": "Darß Müzesi"
           },
           "coords": [
             12.558393,
@@ -426,7 +470,8 @@
             "de": "Entdecken Sie die lokale Geschichte und maritime Kultur in diesem charmanten Museum, in dem Sie sich am besten gleich morgens in Ruhe die historischen Exponate ansehen.",
             "hu": "Fedezze fel a helyi történelmet és a tengeri kultúrát ebben a bájos múzeumban, ahol érdemes rögtön reggel, nyugodtan megtekinteni a történelmi kiállításokat.",
             "ro": "Descoperiți istoria locală și cultura maritimă în acest muzeu fermecător, unde este cel mai bine să admirați exponatele istorice în liniște, încă de dimineață.",
-            "en": "Discover local history and maritime culture in this charming museum, where it is best to view the historical exhibits peacefully first thing in the morning."
+            "en": "Discover local history and maritime culture in this charming museum, where it is best to view the historical exhibits peacefully first thing in the morning.",
+            "tr": "Bu çekici müzede yerel tarih ve denizcilik kültürünü keşfedin; tarihî sergileri sabahın erken saatlerinde sakin bir şekilde gezmek en iyisidir."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Heimatgalerie u Bernsteinmuseum",
             "hu": "Heimatgalerie és Borostyánmúzeum",
             "ro": "Heimatgalerie și Muzeul Chihlimbarului",
-            "en": "Heimatgalerie and Amber Museum"
+            "en": "Heimatgalerie and Amber Museum",
+            "tr": "Heimatgalerie ve Kehribar Müzesi"
           },
           "coords": [
             12.557421,
@@ -449,7 +495,8 @@
             "de": "Bewundern Sie die faszinierenden Bernsteinexponate und regionale Kunstwerke, wobei das natürliche Licht am späten Vormittag die Details der Steine besonders hervorhebt.",
             "hu": "Csodálja meg a lenyűgöző borostyán kiállításokat és regionális műalkotásokat, mivel a késő délelőtti természetes fény különösen kiemeli a kövek apró részleteit.",
             "ro": "Admirați expozițiile fascinante de chihlimbar și operele de artă regionale, lumina naturală a dimineții târzii evidențiind în mod deosebit detaliile pietrelor.",
-            "en": "Admire the fascinating amber exhibits and regional artworks, as the natural late morning light particularly highlights the intricate details of the stones."
+            "en": "Admire the fascinating amber exhibits and regional artworks, as the natural late morning light particularly highlights the intricate details of the stones.",
+            "tr": "Büyüleyici kehribar sergilerini ve bölgesel sanat eserlerini hayranlıkla izleyin; öğleden sonraki doğal ışık taşların ayrıntılarını özellikle vurgular."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Wald Spa",
             "hu": "Wald Spa",
             "ro": "Wald Spa",
-            "en": "Wald Spa"
+            "en": "Wald Spa",
+            "tr": "Orman Spa (Wald Spa)"
           },
           "coords": [
             12.556263,
@@ -472,7 +520,8 @@
             "de": "Entspannen Sie in dieser ruhigen Wellnessoase inmitten der Natur, und bringen Sie Ihre eigenen Badesachen mit, um nach einem aktiven Tag bestens zu regenerieren.",
             "hu": "Pihenjen meg ebben a csendes, természet lágyén fekvő wellness oázisban, és hozzon magával saját fürdőruhát, hogy egy aktív nap után a legjobban regenerálódhasson.",
             "ro": "Relaxați-vă în această oază de wellness liniștită din mijlocul naturii și aduceți-vă propriul costum de baie pentru a vă recupera cel mai bine după o zi activă.",
-            "en": "Relax in this quiet wellness oasis surrounded by nature, and be sure to bring your own swimwear to recover perfectly after an active day exploring the area."
+            "en": "Relax in this quiet wellness oasis surrounded by nature, and be sure to bring your own swimwear to recover perfectly after an active day exploring the area.",
+            "tr": "Doğa ile çevrili bu sakin wellness vahasında dinlenin; bölgeyi keşfettikten sonra tam olarak toparlanmak için kendi mayo veya deniz giysilerinizi getirmeniz gerektiğini unutmayın."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Hohe Düne",
             "hu": "Hohe Düne",
             "ro": "Hohe Düne",
-            "en": "Hohe Düne"
+            "en": "Hohe Düne",
+            "tr": "Hohe Düne"
           },
           "coords": [
             12.591839,
@@ -495,7 +545,8 @@
             "de": "Genießen Sie den weiten Blick von dieser natürlichen Sandformation, wofür festes Schuhwerk empfohlen wird, um den sandigen Aufstieg mühelos zu meistern.",
             "hu": "Élvezze a széles kilátást ebből a természetes homokképződményből, amelyhez erős cipő viselése ajánlott, hogy könnyedén megbirkózzon a homokos emelkedővel.",
             "ro": "Bucurați-vă de priveliștea vastă de pe această formațiune naturală de nisip, pentru care se recomandă încălțăminte solidă pentru a face față cu ușurință urcușului.",
-            "en": "Enjoy the expansive view from this natural sand formation, for which sturdy footwear is highly recommended to easily tackle the somewhat sandy ascent."
+            "en": "Enjoy the expansive view from this natural sand formation, for which sturdy footwear is highly recommended to easily tackle the somewhat sandy ascent.",
+            "tr": "Bu doğal kum oluşumundan geniş manzaranın tadını çıkarın; biraz kumlu olan tırmanışı kolayca aşabilmek için sağlam ayakkabı giymeniz şiddetle tavsiye edilir."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Mit dem Fahrrad erkunden Sie morgens die friedliche Seemannskirche und die Skulpturen bei Kunst formt Garten. Mittags tauchen Sie im Darß-Museum und in der Heimatgalerie in die lokale Kunst und Geschichte ein. Der Nachmittag lädt zur tiefen Entspannung im Wald Spa ein, bevor Sie abends zur Hohen Düne weiterradeln, um den Sonnenuntergang über der weiten Ostseeküste zu genießen.",
         "hu": "Reggel kerékpárral fedezze fel a békés Seemannskirche-t és a Kunst formt Garten szobrait. Délben merüljön el a helyi művészetben és történelemben a Darß-Múzeumban és a Heimatgalerie-ben. A délután mély relaxációra csábít a Wald Spa-ban, mielőtt este tovább tekerne a Hohe Düne-hez, hogy élvezze a balti tengerpart felett lenyugvó napot.",
         "ro": "Explorați dimineața cu bicicleta biserica liniștită a marinarilor și sculpturile de la Kunst formt Garten. La prânz, scufundați-vă în arta și istoria locală la Muzeul Darß și Heimatgalerie. După-amiaza vă invită la o relaxare profundă la Wald Spa, înainte de a pedala seara spre Hohe Düne pentru a vă bucura de apusul soarelui peste coasta baltică.",
-        "en": "Explore the peaceful Seemannskirche and the sculptures at Kunst formt Garten by bike in the morning. At noon, immerse yourself in local art and history at the Darß Museum and the Heimatgalerie. The afternoon invites deep relaxation at the Wald Spa, before cycling on to the Hohe Düne in the evening to enjoy the sunset over the vast Baltic coast."
+        "en": "Explore the peaceful Seemannskirche and the sculptures at Kunst formt Garten by bike in the morning. At noon, immerse yourself in local art and history at the Darß Museum and the Heimatgalerie. The afternoon invites deep relaxation at the Wald Spa, before cycling on to the Hohe Düne in the evening to enjoy the sunset over the vast Baltic coast.",
+        "tr": "Sabah bisikletle huzurlu Denizci Kilisesi ve Kunst formt Garten'daki heykelleri keşfedin. Öğle vakti Darß Müzesi ve Heimatgalerie'de yerel sanat ve tarihe dalın. Öğleden sonra Wald Spa'da derin bir rahatlama sizi bekler; akşamüstü geniş Baltık kıyısına karşı gün batımını izlemek için Hohe Düne'ye doğru pedal çevirin."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Radfahren in Prerow bei Regen erfordert gute Planung. Starten Sie bei der Kirche und dem Gartenmuseum, um die ersten Schauer drinnen abzuwarten. Die Museen im Ort bieten perfekte Pausen. Achten Sie auf nasse Waldwege, die rutschig sein können. Ein Nachmittag im Spa lässt Sie den Regen vergessen, bevor Sie kurz vor Schluss die Dünen im Küstennebel erleben.",
             "hu": "A kerékpározás Prerow-ban esőben jó tervezést igényel. Kezdjen a templomnál és a kertmúzeumnál, hogy az első záporokat bent vészelje át. A faluban lévő múzeumok tökéletes pihenőhelyek. Vigyázzon a vizes erdei utakra, mert csúszósak lehetnek. Egy délután a spában elfeledteti az esőt, mielőtt a ködös dűnéket megnézné.",
             "ro": "Ciclismul în Prerow pe ploaie necesită o planificare bună. Începeți la biserică și muzeul grădinii pentru a aștepta trecerea primelor averse. Muzeele din sat oferă pauze perfecte. Atenție la drumurile forestiere umede, care pot fi alunecoase. O după-amiază la spa vă va face să uitați de ploaie înainte de a vedea dunele în ceață.",
-            "en": "Cycling in Prerow during rain requires good planning. Start at the church and garden museum to wait out the first showers indoors. The village museums provide perfect shelter breaks. Be careful on wet forest paths as they can be slippery. An afternoon at the spa will make you forget the rain before visiting the misty dunes at the end."
+            "en": "Cycling in Prerow during rain requires good planning. Start at the church and garden museum to wait out the first showers indoors. The village museums provide perfect shelter breaks. Be careful on wet forest paths as they can be slippery. An afternoon at the spa will make you forget the rain before visiting the misty dunes at the end.",
+            "tr": "Yağmurda Prerow'da bisiklet sürmek iyi planlama gerektirir. İlk sağanakları kapalı mekânlarda beklemek için kilise ve bahçe müzesinden başlayın. Köy müzeleri mükemmel korunaklı molalar sağlar. Islak orman yollarında dikkatli olun; kaygan olabilirler. Öğleden sonra spa sizi yağmuru unutacak şekilde ısıtacak, ardından son olarak sisli kumulları ziyaret edin."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Seemannskirche",
                 "hu": "Tengerésztemplom",
                 "ro": "Biserica Marinarilor",
-                "en": "Seemannskirche"
+                "en": "Seemannskirche",
+                "tr": "Denizci Kilisesi"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad unter den Bäumen; nutzen Sie den Kirchenraum als ersten trockenen Stopp Ihrer Tour durch den Ort.",
                 "hu": "Parkolja le kerékpárját a fák alá; használja a templom belső terét túrája első száraz megállójaként a faluban.",
                 "ro": "Parcați bicicleta sub copaci; folosiți interiorul bisericii ca primă oprire uscată a turului prin localitate.",
-                "en": "Park your bike under the trees; use the church interior as the first dry stop of your tour through the village."
+                "en": "Park your bike under the trees; use the church interior as the first dry stop of your tour through the village.",
+                "tr": "Bisikletinizi ağaçların altında park edin; köy turunuzda ilk kuru mola olarak kilise içini kullanın."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Kunst formt Garten",
                 "hu": "Kunst formt Garten",
                 "ro": "Kunst formt Garten",
-                "en": "Kunst formt Garten"
+                "en": "Kunst formt Garten",
+                "tr": "Kunst formt Garten"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Skulpturen zwischen den Regenschauern; bei starkem Regen bietet das Atelierhaus einen sicheren Zufluchtsort.",
                 "hu": "Nézze meg a szobrokat a záporok közötti szünetekben; heves esőzés esetén az műteremház biztos menedéket nyújt.",
                 "ro": "Admirați sculpturile în pauzele dintre averse; în caz de ploaie torențială, atelierul oferă un refugiu sigur.",
-                "en": "View the sculptures during breaks between showers; in case of heavy rain, the studio house provides a safe shelter."
+                "en": "View the sculptures during breaks between showers; in case of heavy rain, the studio house provides a safe shelter.",
+                "tr": "Sağanaklar arasındaki molalarda heykelleri görün; şiddetli yağmur durumunda stüdyo evi güvenli bir sığınak sağlar."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Darß-Museum",
                 "hu": "Darß-Múzeum",
                 "ro": "Muzeul Darß",
-                "en": "Darß Museum"
+                "en": "Darß Museum",
+                "tr": "Darß Müzesi"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften; nutzen Sie die Zeit für eine ausführliche Indoor-Besichtigung.",
                 "hu": "Ideális hely az esőruházat rövid szellőztetésére; használja ki az időt egy alapos benti tárlatvezetésre vagy nézelődésre.",
                 "ro": "Un loc ideal pentru a aerisi puțin hainele de ploaie; profitați de timp pentru o vizită interioară detaliată.",
-                "en": "An ideal spot to briefly air out your rain gear; use the time for a thorough indoor tour while waiting for better weather."
+                "en": "An ideal spot to briefly air out your rain gear; use the time for a thorough indoor tour while waiting for better weather.",
+                "tr": "Yağmurluğunuzu kısa süreliğine kurutmak için ideal bir nokta; daha iyi hava için beklerken kapsamlı bir iç tur yapın."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Heimatgalerie u Bernsteinmuseum",
                 "hu": "Heimatgalerie és Borostyánmúzeum",
                 "ro": "Heimatgalerie și Muzeul Chihlimbarului",
-                "en": "Heimatgalerie and Amber Museum"
+                "en": "Heimatgalerie and Amber Museum",
+                "tr": "Heimatgalerie ve Kehribar Müzesi"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie vor der Weiterfahrt den Reifendruck; nasse Straßen verlangen nach etwas weniger Luft für besseren Grip.",
                 "hu": "Továbbindulás előtt ellenőrizze a guminyomást; a vizes utakhoz valamivel kisebb nyomás ajánlott a jobb tapadás érdekében.",
                 "ro": "Verificați presiunea în pneuri înainte de plecare; drumurile umede necesită o presiune puțin mai mică pentru aderență.",
-                "en": "Check your tire pressure before continuing; wet roads require slightly lower pressure for better grip and safety."
+                "en": "Check your tire pressure before continuing; wet roads require slightly lower pressure for better grip and safety.",
+                "tr": "Devam etmeden önce lastik basıncınızı kontrol edin; ıslak yollar daha iyi yol tutuşu ve güvenlik için biraz daha düşük basınç gerektirebilir."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Wald Spa",
                 "hu": "Wald Spa",
                 "ro": "Wald Spa",
-                "en": "Wald Spa"
+                "en": "Wald Spa",
+                "tr": "Wald Spa"
               },
               "tip_5lang": {
                 "de": "Der ultimative Regen-Stopp; lassen Sie das Rad stehen und wärmen Sie Ihre Muskeln in der Sauna nach der nassen Fahrt auf.",
                 "hu": "A végső eső-megálló; hagyja ott a bringát és melegítse fel izmait a szaunában a vizes, hűvös tekerés után.",
                 "ro": "Oprirea supremă pe ploaie; lăsați bicicleta și încălziți-vă mușchii în saună după drumul ud și răcoros.",
-                "en": "The ultimate rainy-day stop; leave your bike and warm up your muscles in the sauna after the wet and chilly ride."
+                "en": "The ultimate rainy-day stop; leave your bike and warm up your muscles in the sauna after the wet and chilly ride.",
+                "tr": "En mükemmel yağmurlu gün durağı; bisikletinizi bırakarak ıslak ve serin sürüşün ardından saunada kaslarınızı ısıtın."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Hohe Düne",
                 "hu": "Hohe Düne",
                 "ro": "Hohe Düne",
-                "en": "Hohe Düne"
+                "en": "Hohe Düne",
+                "tr": "Hohe Düne"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf den hölzernen Stegen auf Rutschgefahr; das Fahrrad muss am Eingang der Dünenzone geparkt werden.",
                 "hu": "Ügyeljen a fapadlókon a csúszásveszélyre; a kerékpárt a dűnezóna bejáratánál lévő tárolókban kell hagynia.",
                 "ro": "Atenție la riscul de alunecare pe podurile de lemn; bicicleta trebuie parcată la intrarea în zona dunelor.",
-                "en": "Watch out for slippery wooden planks; bicycles must be parked in the racks at the entrance to the dune zone."
+                "en": "Watch out for slippery wooden planks; bicycles must be parked in the racks at the entrance to the dune zone.",
+                "tr": "Kaygan tahta güvertelere dikkat edin; bisikletler kumul alanına girişteki park raflarına bırakılmalıdır."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Winterliches Radeln in Prerow bietet klare Luft und leere Wege. Beginnen Sie früh, um das Tageslicht zu nutzen. Die Museen bieten nötige Aufwärmpausen für eingefrorene Finger. Ein Besuch im Wald Spa am Nachmittag ist die perfekte Belohnung für die Fahrt durch die Kälte. Planen Sie die Rückfahrt vor 17:00 Uhr ein, da die Waldwege unbeleuchtet sind.",
             "hu": "A téli bringázás Prerow-ban friss levegőt és üres utakat kínál. Kezdjen korán, hogy kihasználja a nappali fényt. A múzeumok biztosítják a szükséges melegedő szüneteket az átfagyott ujjaknak. A délutáni spa-látogatás tökéletes jutalom a hideg tekerés után. Tervezze meg a visszautat 17 óra előtt, mert az erdei utak nem világítottak.",
             "ro": "Ciclismul de iarnă în Prerow oferă aer curat și drumuri libere. Începeți devreme pentru a profita de lumina zilei. Muzeele oferă pauze necesare pentru a vă încălzi mâinile înghețate. O vizită la spa după-amiaza este recompensa perfectă. Planificați întoarcerea înainte de ora 17:00, deoarece drumurile nu sunt iluminate.",
-            "en": "Winter cycling in Prerow offers crisp air and empty paths. Start early to make the most of the daylight. Museums provide essential warm-up breaks for frozen fingers. An afternoon visit to the spa is the perfect reward for riding through the cold. Plan your return before 5 PM as the forest paths are unlit."
+            "en": "Winter cycling in Prerow offers crisp air and empty paths. Start early to make the most of the daylight. Museums provide essential warm-up breaks for frozen fingers. An afternoon visit to the spa is the perfect reward for riding through the cold. Plan your return before 5 PM as the forest paths are unlit.",
+            "tr": "Kışın Prerow'da bisiklete binmek keskin hava ve boş yollar sunar. Gün ışığından en iyi şekilde yararlanmak için erken başlayın. Müzeler donmuş parmaklar için gerekli ısınma molalarını sağlar. Soğukta sürmenin ödülü olarak öğleden sonra spa ziyareti mükemmeldir. Orman yolları ışıksız olduğundan dönüş planınızı 17:00'dan önce yapın."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Seemannskirche",
                 "hu": "Tengerésztemplom",
                 "ro": "Biserica Marinarilor",
-                "en": "Seemannskirche"
+                "en": "Seemannskirche",
+                "tr": "Denizci Kilisesi"
               },
               "tip_5lang": {
                 "de": "Tragen Sie winddichte Handschuhe für die Fahrt; die Kirche ist ein windstiller Ort, um kurz die Route zu prüfen.",
                 "hu": "Viseljen szélálló kesztyűt a tekeréshez; a templom szélvédett hely, ahol nyugodtan átnézheti a további útvonalat.",
                 "ro": "Purtați mănuși rezistente la vânt pentru drum; biserica este un loc ferit de vânt unde puteți verifica traseul.",
-                "en": "Wear windproof gloves for the ride; the church is a wind-still spot where you can briefly check your route."
+                "en": "Wear windproof gloves for the ride; the church is a wind-still spot where you can briefly check your route.",
+                "tr": "Sürüş için rüzgâr geçirmez eldivenler giyin; kilise rüzgârın durduğu bir nokta olup rota kontrolü için kısa bir mola yeri sunar."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Kunst formt Garten",
                 "hu": "Kunst formt Garten",
                 "ro": "Kunst formt Garten",
-                "en": "Kunst formt Garten"
+                "en": "Kunst formt Garten",
+                "tr": "Kunst formt Garten"
               },
               "tip_5lang": {
                 "de": "Die Skulpturen im Frost wirken besonders markant; bewegen Sie sich zügig durch den Garten, um nicht auszukühlen.",
                 "hu": "A zúzmarás szobrok különösen látványosak; mozogjon tempósan a kertben, hogy elkerülje a test kihűlését.",
                 "ro": "Sculpturile acoperite de brumă par spectaculoase; mișcați-vă energic prin grădină pentru a nu vă răci.",
-                "en": "The frosted sculptures look particularly striking; move briskly through the garden to keep your body warm."
+                "en": "The frosted sculptures look particularly striking; move briskly through the garden to keep your body warm.",
+                "tr": "Donmuş heykeller özellikle çarpıcı görünür; vücut ısınızı korumak için bahçede hızlı adımlarla ilerleyin."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Darß-Museum",
                 "hu": "Darß-Múzeum",
                 "ro": "Muzeul Darß",
-                "en": "Darß Museum"
+                "en": "Darß Museum",
+                "tr": "Darß Müzesi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Heizung im Museum, um Ihre Akkus zu schonen; Kälte lässt Handy- und E-Bike-Batterien schneller leeren.",
                 "hu": "Használja a múzeum fűtését az eszközei kímélésére; a hideg gyorsabban meríti a mobilokat és az e-bike akkumulátorokat.",
                 "ro": "Folosiți căldura din muzeu pentru a proteja bateriile; frigul descarcă mai repede telefoanele și e-bike-urile.",
-                "en": "Use the museum's warmth to save your battery life; cold drains phone and e-bike batteries much faster than usual."
+                "en": "Use the museum's warmth to save your battery life; cold drains phone and e-bike batteries much faster than usual.",
+                "tr": "Müzenin sıcaklığını kullanarak pil ömrünü koruyun; soğuk telefon ve pedelec pillerini normalden çok daha hızlı tüketir."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Heimatgalerie u Bernsteinmuseum",
                 "hu": "Heimatgalerie és Borostyánmúzeum",
                 "ro": "Heimatgalerie și Muzeul Chihlimbarului",
-                "en": "Heimatgalerie and Amber Museum"
+                "en": "Heimatgalerie and Amber Museum",
+                "tr": "Heimatgalerie ve Kehribar Müzesi"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, warmer Stopp vor dem Waldabschnitt; prüfen Sie Ihre Beleuchtung, da es im Winter früh dunkel wird.",
                 "hu": "Egy rövid, meleg megálló az erdei szakasz előtt; ellenőrizze a világítást, mert télen nagyon korán sötétedik.",
                 "ro": "O oprire scurtă și caldă înainte de porțiunea prin pădure; verificați luminile, căci se întunecă devreme iarna.",
-                "en": "A short, warm stop before the forest section; check your bike lights as it gets dark very early in winter."
+                "en": "A short, warm stop before the forest section; check your bike lights as it gets dark very early in winter.",
+                "tr": "Orman bölümünden önce kısa ve sıcak bir mola; kışın çok erken karardığı için bisiklet ışıklarınızı kontrol edin."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Wald Spa",
                 "hu": "Wald Spa",
                 "ro": "Wald Spa",
-                "en": "Wald Spa"
+                "en": "Wald Spa",
+                "tr": "Wald Spa"
               },
               "tip_5lang": {
                 "de": "Ideal nach einer kalten Radtour; die Wärme der Sauna fördert die Durchblutung der Beine nach der Belastung.",
                 "hu": "Ideális egy hideg kerékpártúra után; a szauna melege javítja a lábak vérkeringését a fizikai terhelés után.",
                 "ro": "Ideal după o tură rece cu bicicleta; căldura saunei îmbunătățește circulația picioarelor după efortul depus.",
-                "en": "Ideal after a cold bike tour; the sauna's heat improves blood circulation in your legs after the physical exertion."
+                "en": "Ideal after a cold bike tour; the sauna's heat improves blood circulation in your legs after the physical exertion.",
+                "tr": "Soğuk bir bisiklet turunun ardından ideal; saunanın ısısı fiziksel çabanın ardından bacaklarınızdaki kan dolaşımını iyileştirir."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Hohe Düne",
                 "hu": "Hohe Düne",
                 "ro": "Hohe Düne",
-                "en": "Hohe Düne"
+                "en": "Hohe Düne",
+                "tr": "Hohe Düne"
               },
               "tip_5lang": {
                 "de": "Der Strandbesuch ist im Winter sehr windig; stellen Sie sicher, dass Ihr Fahrradschloss bei Frost nicht einfriert.",
                 "hu": "A tengerparti látogatás télen rendkívül szeles; ügyeljen rá, hogy a kerékpárzár ne fagyjon be a nagy hidegben.",
                 "ro": "Vizita la plajă este foarte vântoasă iarna; asigurați-vă că antifurtul bicicletei nu îngheață la temperaturi scăzute.",
-                "en": "The beach visit is very windy in winter; make sure your bike lock doesn't freeze in the sub-zero temperatures."
+                "en": "The beach visit is very windy in winter; make sure your bike lock doesn't freeze in the sub-zero temperatures.",
+                "tr": "Kışın plaj ziyareti çok rüzgârlıdır; kilidinizi sıfırın altındaki sıcaklıklarda donmaması için koruyun."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Kunst formt Garten",
             "hu": "Kunst formt Garten",
             "ro": "Kunst formt Garten",
-            "en": "Kunst formt Garten"
+            "en": "Kunst formt Garten",
+            "tr": "Kunst formt Garten"
           },
           "coords": [
             12.572084,
@@ -724,7 +803,8 @@
             "de": "Schlendern Sie durch diese kunstvoll gestaltete Anlage, in der Skulpturen und Pflanzen harmonieren, und nehmen Sie sich ausreichend Zeit für die verborgenen Details.",
             "hu": "Sétáljon végig ezen a művészien kialakított területen, ahol a szobrok és a növények harmonizálnak, és szánjon elegendő időt a rejtett részletek felfedezésére.",
             "ro": "Plimbați-vă prin această zonă cu design artistic, unde sculpturile și plantele se armonizează perfect, și faceți-vă suficient timp pentru detaliile ascunse.",
-            "en": "Stroll through this artistically designed area where sculptures and plants perfectly harmonize, taking plenty of time to discover all the hidden intricate details."
+            "en": "Stroll through this artistically designed area where sculptures and plants perfectly harmonize, taking plenty of time to discover all the hidden intricate details.",
+            "tr": "Heykeller ve bitkilerin mükemmel uyum sağladığı bu sanatsal alanda gezin; tüm gizli ince ayrıntıları keşfetmek için bolca zaman ayırın."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Darß-Museum",
             "hu": "Darß-Múzeum",
             "ro": "Muzeul Darß",
-            "en": "Darß Museum"
+            "en": "Darß Museum",
+            "tr": "Darß Museum"
           },
           "coords": [
             12.558393,
@@ -747,7 +828,8 @@
             "de": "Entdecken Sie die lokale Geschichte und maritime Kultur in diesem charmanten Museum, in dem Sie sich am besten gleich morgens in Ruhe die historischen Exponate ansehen.",
             "hu": "Fedezze fel a helyi történelmet és a tengeri kultúrát ebben a bájos múzeumban, ahol érdemes rögtön reggel, nyugodtan megtekinteni a történelmi kiállításokat.",
             "ro": "Descoperiți istoria locală și cultura maritimă în acest muzeu fermecător, unde este cel mai bine să admirați exponatele istorice în liniște, încă de dimineață.",
-            "en": "Discover local history and maritime culture in this charming museum, where it is best to view the historical exhibits peacefully first thing in the morning."
+            "en": "Discover local history and maritime culture in this charming museum, where it is best to view the historical exhibits peacefully first thing in the morning.",
+            "tr": "Bu şirin müzede yerel tarih ve denizcilik kültürünü keşfedin; tarihî eserleri en iyi sabahın erken saatlerinde sakin şekilde görmek olur."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Heimatgalerie u Bernsteinmuseum",
             "hu": "Heimatgalerie és Borostyánmúzeum",
             "ro": "Heimatgalerie și Muzeul Chihlimbarului",
-            "en": "Heimatgalerie and Amber Museum"
+            "en": "Heimatgalerie and Amber Museum",
+            "tr": "Heimatgalerie and Amber Museum"
           },
           "coords": [
             12.557421,
@@ -770,7 +853,8 @@
             "de": "Bewundern Sie die faszinierenden Bernsteinexponate und regionale Kunstwerke, wobei das natürliche Licht am späten Vormittag die Details der Steine besonders hervorhebt.",
             "hu": "Csodálja meg a lenyűgöző borostyán kiállításokat és regionális műalkotásokat, mivel a késő délelőtti természetes fény különösen kiemeli a kövek apró részleteit.",
             "ro": "Admirați expozițiile fascinante de chihlimbar și operele de artă regionale, lumina naturală a dimineții târzii evidențiind în mod deosebit detaliile pietrelor.",
-            "en": "Admire the fascinating amber exhibits and regional artworks, as the natural late morning light particularly highlights the intricate details of the stones."
+            "en": "Admire the fascinating amber exhibits and regional artworks, as the natural late morning light particularly highlights the intricate details of the stones.",
+            "tr": "Etkileyici kehribar sergilerini ve bölgesel sanat eserlerini hayranlıkla izleyin; doğal geç sabah ışığı taşların ince detaylarını özellikle öne çıkarır."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Wald Spa",
             "hu": "Wald Spa",
             "ro": "Wald Spa",
-            "en": "Wald Spa"
+            "en": "Wald Spa",
+            "tr": "Wald Spa"
           },
           "coords": [
             12.556263,
@@ -793,7 +878,8 @@
             "de": "Entspannen Sie in dieser ruhigen Wellnessoase inmitten der Natur, und bringen Sie Ihre eigenen Badesachen mit, um nach einem aktiven Tag bestens zu regenerieren.",
             "hu": "Pihenjen meg ebben a csendes, természet lágyén fekvő wellness oázisban, és hozzon magával saját fürdőruhát, hogy egy aktív nap után a legjobban regenerálódhasson.",
             "ro": "Relaxați-vă în această oază de wellness liniștită din mijlocul naturii și aduceți-vă propriul costum de baie pentru a vă recupera cel mai bine după o zi activă.",
-            "en": "Relax in this quiet wellness oasis surrounded by nature, and be sure to bring your own swimwear to recover perfectly after an active day exploring the area."
+            "en": "Relax in this quiet wellness oasis surrounded by nature, and be sure to bring your own swimwear to recover perfectly after an active day exploring the area.",
+            "tr": "Doğa ile çevrili bu sessiz wellness vahasında dinlenin ve bölgeyi aktif bir günün ardından mükemmel şekilde toparlamak için kendi mayo/şortunuzu getirdiğinizden emin olun."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Seemannskirche",
             "hu": "Tengerésztemplom",
             "ro": "Biserica Marinarilor",
-            "en": "Seemannskirche"
+            "en": "Seemannskirche",
+            "tr": "Seemannskirche"
           },
           "coords": [
             12.582544,
@@ -816,7 +903,8 @@
             "de": "Besichtigen Sie diese historische Kirche mit ihren maritimen Details und alten Modellschiffen, und achten Sie besonders auf den friedlichen, sehenswerten Kirchhof.",
             "hu": "Látogassa meg ezt a történelmi templomot tengeri részleteivel és régi hajómodelljeivel, és fordítson különös figyelmet a békés, figyelemre méltó templomkertre.",
             "ro": "Vizitați această biserică istorică cu detaliile sale maritime și vechile corăbii în miniatură, acordând o atenție deosebită cimitirului liniștit și pitoresc.",
-            "en": "Visit this historic church with its maritime details and old model ships, paying special attention to the peaceful and remarkable churchyard during your stay."
+            "en": "Visit this historic church with its maritime details and old model ships, paying special attention to the peaceful and remarkable churchyard during your stay.",
+            "tr": "Denizcilik detayları ve eski maket gemilerle dolu bu tarihî kiliseyi ziyaret edin; kalışınız sırasında huzurlu ve dikkat çekici mezarlığa özellikle dikkat edin."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Hohe Düne",
             "hu": "Hohe Düne",
             "ro": "Hohe Düne",
-            "en": "Hohe Düne"
+            "en": "Hohe Düne",
+            "tr": "Hohe Düne"
           },
           "coords": [
             12.591839,
@@ -839,7 +928,8 @@
             "de": "Genießen Sie den weiten Blick von dieser natürlichen Sandformation, wofür festes Schuhwerk empfohlen wird, um den sandigen Aufstieg mühelos zu meistern.",
             "hu": "Élvezze a széles kilátást ebből a természetes homokképződményből, amelyhez erős cipő viselése ajánlott, hogy könnyedén megbirkózzon a homokos emelkedővel.",
             "ro": "Bucurați-vă de priveliștea vastă de pe această formațiune naturală de nisip, pentru care se recomandă încălțăminte solidă pentru a face față cu ușurință urcușului.",
-            "en": "Enjoy the expansive view from this natural sand formation, for which sturdy footwear is highly recommended to easily tackle the somewhat sandy ascent."
+            "en": "Enjoy the expansive view from this natural sand formation, for which sturdy footwear is highly recommended to easily tackle the somewhat sandy ascent.",
+            "tr": "Bu doğal kum oluşumundan geniş manzaranın keyfini çıkarın; nispeten kumlu olan tırmanışı kolayca aşmak için sağlam ayakkabı giymeniz şiddetle tavsiye edilir."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Beginnen Sie Ihre Autotour entspannt im Skulpturenpark Kunst formt Garten, gefolgt von historischen Einblicken im Darß-Museum. Ein kurzer Spaziergang führt Sie zur Heimatgalerie. Nachmittags erwartet Sie erholsame Ruhe im Wald Spa, bevor Sie die charmante Seemannskirche besuchen. Der erlebnisreiche Tag endet schließlich auf der Hohen Düne mit einem fantastischen Panoramaausblick.",
         "hu": "Kezdje autós túráját lazán a Kunst formt Garten szoborparkban, majd tekintse meg a Darß-Múzeum történelmi kiállításait. Egy rövid sétával eljuthat a Heimatgalerie-hez. Délután pihentető nyugalom várja a Wald Spa-ban, mielőtt meglátogatná a hangulatos Seemannskirche-t. Az eseménydús nap végül a Hohe Düne-n ér véget egy fantasztikus panorámával.",
         "ro": "Începeți turul cu mașina relaxat în parcul de sculpturi Kunst formt Garten, urmat de perspective istorice la Muzeul Darß. O scurtă plimbare vă duce la Heimatgalerie. După-amiaza vă așteaptă o liniște odihnitoare la Wald Spa, înainte de a vizita fermecătoarea biserică a marinarilor. Ziua plină de evenimente se încheie în cele din urmă pe Hohe Düne cu o priveliște panoramică fantastică.",
-        "en": "Start your car tour relaxed in the Kunst formt Garten sculpture park, followed by historical insights at the Darß Museum. A short walk takes you to the Heimatgalerie. In the afternoon, restful peace awaits you at the Wald Spa before you visit the charming Seemannskirche. The eventful day finally ends on the Hohe Düne with a fantastic panoramic view."
+        "en": "Start your car tour relaxed in the Kunst formt Garten sculpture park, followed by historical insights at the Darß Museum. A short walk takes you to the Heimatgalerie. In the afternoon, restful peace awaits you at the Wald Spa before you visit the charming Seemannskirche. The eventful day finally ends on the Hohe Düne with a fantastic panoramic view.",
+        "tr": "Kunst formt Garten heykel parkında sakin bir şekilde başlayın, ardından Darß Museum'da tarihî bilgiler edinin. Kısa bir yürüyüş sizi Heimatgalerie'ye götürür. Öğleden sonra dinlendirici huzur için Wald Spa sizi bekler; ardından Seemannskirche'yi ziyaret edin. Hareketli gün sonunda Hohe Düne'de muhteşem bir panoramik manzara ile gün bitirir."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Mit dem Auto ist Prerow auch bei Dauerregen komfortabel. Pendeln Sie bequem zwischen den Museen und dem Gartenhaus. Das Spa bietet den perfekten Rückzugsort für den Nachmittag. Die Kirche und die Dünen lassen sich auch bei Schauern gut erreichen, da Sie jederzeit schnell ins trockene Fahrzeug zurückkehren können, um zum nächsten Punkt zu fahren.",
             "hu": "Autóval Prerow tartós esőben is kényelmesen felfedezhető. Ingyázzon egyszerűen a múzeumok és a kertművészet között. A spa tökéletes délutáni menedéket kínál. A templom és a dűnék záporok idején is jól megközelíthetők, hiszen bármikor gyorsan visszatérhet a száraz járműbe a következő megállóig.",
             "ro": "Cu mașina, Prerow este confortabil chiar și pe ploaie continuă. Navetați ușor între muzee și grădină. Spa-ul oferă refugiul perfect pentru după-amiază. Biserica și dunele sunt accesibile chiar și în timpul averselor, deoarece vă puteți întoarce rapid în vehiculul uscat spre următoarea destinație.",
-            "en": "By car, Prerow is comfortable even during persistent rain. Shuttle easily between museums and the garden gallery. The spa provides the perfect afternoon retreat. The church and dunes remain accessible during showers as you can always return quickly to your dry vehicle before driving to the next stop."
+            "en": "By car, Prerow is comfortable even during persistent rain. Shuttle easily between museums and the garden gallery. The spa provides the perfect afternoon retreat. The church and dunes remain accessible during showers as you can always return quickly to your dry vehicle before driving to the next stop.",
+            "tr": "Arabayla Prerow yağmurlu havalarda bile konforludur. Müzeler ve galeri arasında kolayca servis yapın. Spa öğleden sonra için mükemmel bir kaçamak sunar. Kilise ve kumullar yağış sırasında da erişilebilir; bir sonraki durağa gitmeden önce her zaman hızla kuru aracınıza dönebilirsiniz."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Kunst formt Garten",
                 "hu": "Kunst formt Garten",
                 "ro": "Kunst formt Garten",
-                "en": "Kunst formt Garten"
+                "en": "Kunst formt Garten",
+                "tr": "Kunst formt Garten"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahen Parkplatz; bei Regen ist das kleine Café im Innenbereich ein gemütlicher Ort zum Warten.",
                 "hu": "Használja a közeli parkolót; esőben a benti kis kávézó hangulatos hely a várakozásra vagy pihenésre.",
                 "ro": "Folosiți parcarea din apropiere; pe ploaie, mica cafenea din interior este un loc primitor pentru a aștepta.",
-                "en": "Use the nearby parking lot; during rain, the small indoor café area is a cozy place to wait out the weather."
+                "en": "Use the nearby parking lot; during rain, the small indoor café area is a cozy place to wait out the weather.",
+                "tr": "Yakındaki otoparkı kullanın; yağmur sırasında küçük iç kafe alanı havayı beklemek için sıcak bir yerdir."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Darß-Museum",
                 "hu": "Darß-Múzeum",
                 "ro": "Muzeul Darß",
-                "en": "Darß Museum"
+                "en": "Darß Museum",
+                "tr": "Darß Museum"
               },
               "tip_5lang": {
                 "de": "Parkplätze sind direkt am Museum vorhanden; ideal, um auch bei starkem Regen trockenen Fußes hineinzukommen.",
                 "hu": "Közvetlenül a múzeumnál vannak parkolók; ideális, hogy heves esőben is száraz lábbal juthasson be az épületbe.",
                 "ro": "Parcările sunt disponibile chiar lângă muzeu; ideal pentru a intra uscat chiar și pe ploaie torențială.",
-                "en": "Parking is available directly at the museum; ideal for entering the building dry even during heavy rainfall."
+                "en": "Parking is available directly at the museum; ideal for entering the building dry even during heavy rainfall.",
+                "tr": "Müzede doğrudan otopark mevcuttur; yoğun yağışta bile binaya kuru girmeniz için ideal."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Heimatgalerie u Bernsteinmuseum",
                 "hu": "Heimatgalerie és Borostyánmúzeum",
                 "ro": "Heimatgalerie și Muzeul Chihlimbarului",
-                "en": "Heimatgalerie and Amber Museum"
+                "en": "Heimatgalerie and Amber Museum",
+                "tr": "Heimatgalerie and Amber Museum"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihren Regenschirm im Auto, falls es nur nieselt; die Distanz vom Parkplatz zum Eingang ist sehr kurz.",
                 "hu": "Hagyja az esernyőt a kocsiban, ha csak szitál az eső; a parkoló és a bejárat közötti távolság nagyon rövid.",
                 "ro": "Lăsați umbrela în mașină dacă doar burnițează; distanța de la parcare la intrare este foarte scurtă.",
-                "en": "Leave your umbrella in the car if it's only drizzling; the distance from the parking lot to the entry is very short."
+                "en": "Leave your umbrella in the car if it's only drizzling; the distance from the parking lot to the entry is very short.",
+                "tr": "Sadece çiseleme varsa şemsiyenizi arabada bırakın; otoparktan girişe olan mesafe çok kısadır."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Wald Spa",
                 "hu": "Wald Spa",
                 "ro": "Wald Spa",
-                "en": "Wald Spa"
+                "en": "Wald Spa",
+                "tr": "Wald Spa"
               },
               "tip_5lang": {
                 "de": "Perfekt für regnerische Tage; Parken Sie direkt davor und verbringen Sie die nasseste Zeit des Tages im Wellnessbereich.",
                 "hu": "Tökéletes esős napokra; parkoljon közvetlenül előtte, és töltse a nap legvizesebb óráit a wellness részlegben.",
                 "ro": "Perfect pentru zile ploioase; parcați chiar în față și petreceți orele cele mai umede ale zilei în zona de wellness.",
-                "en": "Perfect for rainy days; park directly in front and spend the wettest part of the day in the wellness area."
+                "en": "Perfect for rainy days; park directly in front and spend the wettest part of the day in the wellness area.",
+                "tr": "Yağmurlu günler için mükemmel; doğrudan önüne park edin ve günün en yağışlı bölümünü wellness alanında geçirin."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Seemannskirche",
                 "hu": "Tengerésztemplom",
                 "ro": "Biserica Marinarilor",
-                "en": "Seemannskirche"
+                "en": "Seemannskirche",
+                "tr": "Seemannskirche"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz an der Kirche bietet eine gute Basis; nutzen Sie das Auto als mobilen Unterstand zwischen den Besichtigungen.",
                 "hu": "A templom melletti parkoló jó bázis; használja az autót mobil menedékként a falun belüli rövid séták között.",
                 "ro": "Parcarea de lângă biserică este o bază bună; folosiți mașina ca adăpost mobil între scurtele vizite prin sat.",
-                "en": "The parking lot by the church is a good base; use the car as a mobile shelter between short village walks."
+                "en": "The parking lot by the church is a good base; use the car as a mobile shelter between short village walks.",
+                "tr": "Kilise yanındaki otopark iyi bir üs sağlar; kısa köy yürüyüşleri arasında aracı mobil sığınak olarak kullanın."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Hohe Düne",
                 "hu": "Hohe Düne",
                 "ro": "Hohe Düne",
-                "en": "Hohe Düne"
+                "en": "Hohe Düne",
+                "tr": "Hohe Düne"
               },
               "tip_5lang": {
                 "de": "Vom Parkplatz am Deich ist es nur ein kurzer Fußweg; behalten Sie die Regenjacke für den windigen Dünenkamm an.",
                 "hu": "A gát melletti parkolótól csak rövid séta az út; tartsa magán az esőkabátot a szeles dűnegerincen is.",
                 "ro": "De la parcarea de lângă dig este doar o scurtă plimbare; păstrați pelerina pe dvs. pe creasta dunelor vântoase.",
-                "en": "It is only a short walk from the parking lot at the dike; keep your rain jacket on for the windy dune ridge."
+                "en": "It is only a short walk from the parking lot at the dike; keep your rain jacket on for the windy dune ridge.",
+                "tr": "Set üzerindeki otoparktan sadece kısa bir yürüyüş mesafesindedir; rüzgârlı kum sırtı için yağmurluğunuzu üzerinde tutun."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Im Winter genießen Sie in Prerow den Komfort eines warmen Fahrzeugs. Die Museen sind schnell und warm zu erreichen. Ein Highlight ist das Wald Spa am Nachmittag, um die Kälte aus den Knochen zu vertreiben. Achten Sie auf die kurzen Tage und erreichen Sie die Dünen spätestens um 16:15 Uhr für den Sonnenuntergang, bevor Sie im Dunkeln sicher zum Auto zurückkehren.",
             "hu": "Télen élvezze a fűtött autó kényelmét Prerow-ban. A múzeumok gyorsan és melegen elérhetők. A délutáni spa látogatása segít elűzni a hideget a csontjaiból. Figyeljen a rövid nappalokra, és érjen a dűnékhez legkésőbb 16:15-ig a naplementéhez, mielőtt sötétben térne vissza biztonságosan a kocsihoz.",
             "ro": "Iarna, bucurați-vă de confortul unei mașini încălzite în Prerow. Muzeele sunt accesibile rapid și la căldură. Vizita la spa după-amiaza alungă frigul din oase. Atenție la zilele scurte; ajungeți la dune cel târziu la 16:15 pentru apus, apoi reveniți în siguranță la mașină pe întuneric.",
-            "en": "In winter, enjoy the comfort of a heated vehicle in Prerow. The museums are reached quickly and warmly. A highlight is the afternoon spa visit to drive the cold from your bones. Mind the short days and reach the dunes by 4:15 PM at the latest for the sunset before returning safely to your car in the dark."
+            "en": "In winter, enjoy the comfort of a heated vehicle in Prerow. The museums are reached quickly and warmly. A highlight is the afternoon spa visit to drive the cold from your bones. Mind the short days and reach the dunes by 4:15 PM at the latest for the sunset before returning safely to your car in the dark.",
+            "tr": "Kışın Prerow'da ısınmış bir aracın rahatlığının tadını çıkarın. Müzelere hızlı ve sıcak şekilde ulaşılır. Öğleden sonra yapılan spa ziyareti soğuğu üzerinizden atmak için bir ayrıcalıktır. Kısa gündüz sürelerini göz önünde bulundurun ve gün batımını görmek için en geç 16:15'te kumullara ulaşın; ardından karanlıkta güvenle aracınıza dönün."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Kunst formt Garten",
                 "hu": "Kunst formt Garten",
                 "ro": "Kunst formt Garten",
-                "en": "Kunst formt Garten"
+                "en": "Kunst formt Garten",
+                "tr": "Kunst formt Garten"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Sitzheizung auf der kurzen Fahrt zum nächsten Stopp; der Garten ist im Winter oft schneebedeckt und glatt.",
                 "hu": "Használja az ülésfűtést a következő megállóig tartó rövid úton; a kert télen gyakran havas és csúszós lehet.",
                 "ro": "Folosiți încălzirea în scaune pe drumul scurt spre următoarea oprire; grădina este adesea înzăpezită și alunecoasă.",
-                "en": "Use your seat heating on the short drive to the next stop; the garden is often snow-covered and slippery in winter."
+                "en": "Use your seat heating on the short drive to the next stop; the garden is often snow-covered and slippery in winter.",
+                "tr": "Bir sonraki durağa kısa sürüşte koltuk ısıtmanızı kullanın; bahçe kışın sıklıkla karla kaplı ve kaygan olur."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Darß-Museum",
                 "hu": "Darß-Múzeum",
                 "ro": "Muzeul Darß",
-                "en": "Darß Museum"
+                "en": "Darß Museum",
+                "tr": "Darß Museum"
               },
               "tip_5lang": {
                 "de": "Die Wärme im Museum ist herrlich nach der Kälte draußen; idealer Ort, um die Winterstimmung ohne Frieren zu genießen.",
                 "hu": "A múzeumi meleg csodás a kinti hideg után; ideális hely a téli hangulat élvezetére fagyoskodás nélkül.",
                 "ro": "Căldura din muzeu este minunată după frigul de afară; locul ideal pentru a savura atmosfera de iarnă fără a îngheța.",
-                "en": "The museum's warmth is wonderful after the outdoor cold; an ideal spot to enjoy the winter mood without freezing."
+                "en": "The museum's warmth is wonderful after the outdoor cold; an ideal spot to enjoy the winter mood without freezing.",
+                "tr": "Dışarıdaki soğuktan sonra müzenin sıcaklığı harikadır; kış havasını üşümeden yaşamak için ideal bir nokta."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Heimatgalerie u Bernsteinmuseum",
                 "hu": "Heimatgalerie és Borostyánmúzeum",
                 "ro": "Heimatgalerie și Muzeul Chihlimbarului",
-                "en": "Heimatgalerie and Amber Museum"
+                "en": "Heimatgalerie and Amber Museum",
+                "tr": "Heimatgalerie and Amber Museum"
               },
               "tip_5lang": {
                 "de": "Verstauen Sie dicke Jacken kurz im Auto beim Parken; das Museum ist gut beheizt und bietet eine behagliche Atmosphäre.",
                 "hu": "A parkolásnál hagyja a vastag kabátokat az autóban; a múzeum jól fűtött és kellemes, meghitt hangulatot áraszt.",
                 "ro": "Lăsați haina groasă în mașină când parcați; muzeul este bine încălzit și oferă o atmosferă foarte primitoare.",
-                "en": "Leave your heavy jackets in the car while parked; the museum is well-heated and provides a very cozy atmosphere."
+                "en": "Leave your heavy jackets in the car while parked; the museum is well-heated and provides a very cozy atmosphere.",
+                "tr": "Ağır montlarınızı park halindeki arabada bırakın; müze iyi ısıtılmıştır ve çok sıcak bir atmosfer sağlar."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Wald Spa",
                 "hu": "Wald Spa",
                 "ro": "Wald Spa",
-                "en": "Wald Spa"
+                "en": "Wald Spa",
+                "tr": "Wald Spa"
               },
               "tip_5lang": {
                 "de": "Das Auto ist der perfekte Ort, um nach der Entspannung im Warmen nicht auszukühlen; fahren Sie direkt zur nächsten Kirche.",
                 "hu": "Az autó tökéletes hely, hogy a meleg ellazulás után ne hűljön ki; hajtson közvetlenül a következő megállóhoz, a templomhoz.",
                 "ro": "Mașina este locul perfect pentru a nu vă răci după relaxarea la cald; conduceți direct spre următoarea oprire, biserica.",
-                "en": "The car is the perfect place to stay warm after your spa relaxation; drive directly to the next stop, the church."
+                "en": "The car is the perfect place to stay warm after your spa relaxation; drive directly to the next stop, the church.",
+                "tr": "Spa rahatlamasının ardından araç içinde kalmak ısınmak için mükemmeldir; doğrudan bir sonraki durağa, kiliseye gidin."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Seemannskirche",
                 "hu": "Tengerésztemplom",
                 "ro": "Biserica Marinarilor",
-                "en": "Seemannskirche"
+                "en": "Seemannskirche",
+                "tr": "Seemannskirche"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet Schutz vor dem Winterwind; das gedämpfte Licht im Inneren wirkt in der Winterzeit besonders feierlich.",
                 "hu": "A templom védelmet nyújt a téli szél ellen; a belső tér tompa fényei a téli időszakban különösen ünnepélyesnek hatnak.",
                 "ro": "Biserica oferă protecție împotriva vântului de iarnă; lumina difuză din interior pare deosebit de solemnă în acest sezon.",
-                "en": "The church provides shelter from the winter wind; the dim interior lighting feels especially solemn during wintertime."
+                "en": "The church provides shelter from the winter wind; the dim interior lighting feels especially solemn during wintertime.",
+                "tr": "Kilise kış rüzgârından koruma sağlar; loş iç aydınlatma kışın özellikle etkilidir."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Hohe Düne",
                 "hu": "Hohe Düne",
                 "ro": "Hohe Düne",
-                "en": "Hohe Düne"
+                "en": "Hohe Düne",
+                "tr": "Hohe Düne"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Glatteis auf den Parkplätzen; der frühe Sonnenuntergang am Meer ist vom Auto aus gesehen oft noch schöner.",
                 "hu": "Ügyeljen a jegesedésre a parkolókban; a korai tengerparti naplemente az autóból nézve is gyakran lenyűgöző látvány.",
                 "ro": "Atenție la polei în parcări; apusul timpuriu de la malul mării este adesea superb chiar și privit din mașină.",
-                "en": "Watch out for black ice in the parking lots; the early seaside sunset is often stunning even when viewed from the car."
+                "en": "Watch out for black ice in the parking lots; the early seaside sunset is often stunning even when viewed from the car.",
+                "tr": "Otoparklarda siyah buz için dikkatli olun; sahil kenarındaki erken gün batımı, arabadan izlendiğinde bile sıklıkla etkileyicidir."
               }
             }
           ]

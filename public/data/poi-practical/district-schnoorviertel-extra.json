@@ -3,55 +3,64 @@
     "de": "Schnoor, 28195 Bremen",
     "hu": "Schnoor, 28195 Bréma",
     "ro": "Schnoor, 28195 Bremen",
-    "en": "Schnoor, 28195 Bremen"
+    "en": "Schnoor, 28195 Bremen",
+    "tr": "Schnoor, 28195 Bremen"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "0-24",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "7/24"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.bremen-schnoor.de",
   "publicTransport": {
     "de": "Straßenbahn 2, 3 bis Haltestelle 'Domsheide'",
     "hu": "2, 3-as villamos 'Domsheide' megállóig",
     "ro": "Tramvaiul 2, 3 până la stația 'Domsheide'",
-    "en": "Tram 2, 3 to 'Domsheide' stop"
+    "en": "Tram 2, 3 to 'Domsheide' stop",
+    "tr": "Tramvay 2, 3 ile 'Domsheide' durağına"
   },
   "parking": {
     "de": "Parkhaus Ostertor/Kulturmeile, ca. 5-10 Minuten Fußweg",
     "hu": "Ostertor/Kulturmeile parkolóház, kb. 5-10 perc gyalog",
     "ro": "Parcarea Ostertor/Kulturmeile, aprox. 5-10 minute de mers pe jos",
-    "en": "Ostertor/Kulturmeile parking garage, approx. 5-10 minute walk"
+    "en": "Ostertor/Kulturmeile parking garage, approx. 5-10 minute walk",
+    "tr": "Ostertor/Kulturmeile otoparkı, yaklaşık 5–10 dakikalık yürüme mesafesi"
   },
   "accessibility": {
     "de": "Eingeschränkt; sehr schmale Gassen und unebenes historisches Pflaster",
     "hu": "Korlátozott; nagyon szűk utcák és egyenetlen történelmi burkolat",
     "ro": "Limitată; străzi foarte înguste și pavaj istoric denivelat",
-    "en": "Limited; very narrow alleys and uneven historic paving"
+    "en": "Limited; very narrow alleys and uneven historic paving",
+    "tr": "Sınırlı; çok dar sokaklar ve düzensiz tarihi döşeme"
   },
   "photoRules": {
     "de": "Erlaubt; Stativ in den engen Gassen oft hinderlich",
     "hu": "Engedélyezett; az állvány a szűk utcákban gyakran akadályozó tényező",
     "ro": "Permis; trepiedul în străzile înguste este adesea un obstacol",
-    "en": "Allowed; tripods are often a hindrance in the narrow alleys"
+    "en": "Allowed; tripods are often a hindrance in the narrow alleys",
+    "tr": "İzinli; tripodlar dar sokaklarda genellikle engel olur"
   },
   "bestTimeToVisit": {
     "de": "Früh am Morgen für Fotos ohne Touristenmassen",
     "hu": "Kora reggel, ha turistaáradat nélküli fotókat szeretne",
     "ro": "Dimineața devreme pentru fotografii fără mase de turiști",
-    "en": "Early morning for photos without tourist crowds"
+    "en": "Early morning for photos without tourist crowds",
+    "tr": "Turist kalabalığı olmadan fotoğraflar için erken sabah"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

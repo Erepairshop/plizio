@@ -21,7 +21,8 @@
             "de": "Kreismuseum Bitterfeld",
             "hu": "Bitterfeldi Járási Múzeum",
             "ro": "Muzeul Districtual Bitterfeld",
-            "en": "Bitterfeld District Museum"
+            "en": "Bitterfeld District Museum",
+            "tr": "Bitterfeld Bölge Müzesi"
           },
           "coords": [
             12.328,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie die Geschichte des Bernsteins.",
             "hu": "Fedezze fel a borostyán történetét.",
             "ro": "Descoperiți istoria chihlimbarului.",
-            "en": "Discover the history of amber."
+            "en": "Discover the history of amber.",
+            "tr": "kehribarın tarihini keşfedin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stadthafen Bitterfeld",
             "hu": "Bitterfeldi Városi Kikötő",
             "ro": "Portul orașului Bitterfeld",
-            "en": "Bitterfeld City Port"
+            "en": "Bitterfeld City Port",
+            "tr": "Bitterfeld Şehir Limanı"
           },
           "coords": [
             12.338,
@@ -59,7 +62,8 @@
             "de": "Perfekt für einen Kaffee am Wasser.",
             "hu": "Tökéletes egy kávéhoz a vízparton.",
             "ro": "Perfect pentru o cafea pe malul apei.",
-            "en": "Perfect for a coffee by the water."
+            "en": "Perfect for a coffee by the water.",
+            "tr": "Suyun kenarında kahve için mükemmel."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Wasserzentrum Bitterfeld",
             "hu": "Bitterfeldi Víziközpont",
             "ro": "Centrul de Apă Bitterfeld",
-            "en": "Bitterfeld Water Centre"
+            "en": "Bitterfeld Water Centre",
+            "tr": "Bitterfeld Su Merkezi"
           },
           "coords": [
             12.312,
@@ -82,7 +87,8 @@
             "de": "Industriegeschichte im alten Wasserturm.",
             "hu": "Ipari történelem a régi víztoronyban.",
             "ro": "Istoria industrială în vechiul turn de apă.",
-            "en": "Industrial history in the old water tower."
+            "en": "Industrial history in the old water tower.",
+            "tr": "Eski su kulesinde sanayi tarihi."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kulturpalast Bitterfeld",
             "hu": "Bitterfeldi Kulturpalota",
             "ro": "Palatul Culturii Bitterfeld",
-            "en": "Bitterfeld Culture Palace"
+            "en": "Bitterfeld Culture Palace",
+            "tr": "Bitterfeld Kültür Sarayı"
           },
           "coords": [
             12.316,
@@ -105,7 +112,8 @@
             "de": "Ein architektonisches Erbe der DDR-Zeit.",
             "hu": "Az NDK korszak építészeti öröksége.",
             "ro": "O moștenire arhitecturală a epocii RDG.",
-            "en": "An architectural legacy of the GDR era."
+            "en": "An architectural legacy of the GDR era.",
+            "tr": "Doğu Almanya döneminden bir mimari miras."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Bernsteinvilla",
             "hu": "Borostyán-villa",
             "ro": "Vila de Chihlimbar",
-            "en": "Amber Villa"
+            "en": "Amber Villa",
+            "tr": "Kehribar Villa"
           },
           "coords": [
             12.35,
@@ -128,7 +137,8 @@
             "de": "Prächtige Villa direkt am Seeufer.",
             "hu": "Pompás villa közvetlenül a tóparton.",
             "ro": "Vilă magnifică chiar pe malul lacului.",
-            "en": "Magnificent villa right on the lakeshore."
+            "en": "Magnificent villa right on the lakeshore.",
+            "tr": "Göl kıyısında muhteşem villa."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Pegelturm Goitzschesee",
             "hu": "Goitzsche-tó Pegelturm",
             "ro": "Turnul Pegelturm Goitzschesee",
-            "en": "Pegelturm Goitzschesee"
+            "en": "Pegelturm Goitzschesee",
+            "tr": "Pegelturm Goitzschesee"
           },
           "coords": [
             12.355,
@@ -151,7 +162,8 @@
             "de": "Der schwimmende Turm bietet tolle Aussichten.",
             "hu": "Az úszó torony nagyszerű kilátást nyújt.",
             "ro": "Turnul plutitor oferă vederi minunate.",
-            "en": "The floating tower offers great views."
+            "en": "The floating tower offers great views.",
+            "tr": "Yüzen kule harika manzaralar sunuyor."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag beginnt im historischen Zentrum von Bitterfeld mit Einblicken in die Bernsteingeschichte. Mittags spazieren Sie zum modernen Stadthafen am Goitzschesee, wo die Transformation von der Industrie zur Erholung sichtbar wird. Der Nachmittag führt Sie zum Wasserzentrum und zum beeindruckenden Kulturpalast. Zum Abschluss genießen Sie die frische Brise am See und steigen auf den schwimmenden Pegelturm für einen Panoramablick.",
         "hu": "A napot Bitterfeld történelmi központjában kezdi, betekintést nyerve a borostyánbányászat múltjába. Délben a modern városi kikötőhöz sétál a Goitzsche-tónál, ahol látható az ipari táj átalakulása. Délután a Víziközpontot és a lenyűgöző Kulturpalotát keresi fel. A napot a tóparton zárja, megmászva az úszó Pegelturmot a panorámáért.",
         "ro": "Ziua începe în centrul istoric al orașului Bitterfeld, cu incursiuni în istoria chihlimbarului. La prânz, vă plimbați spre portul modern de pe lacul Goitzsche, unde transformarea industrială este evidentă. După-amiaza vizitați Centrul de Apă și impresionantul Palat al Culturii. Încheiați ziua pe malul lacului, urcând în turnul plutitor Pegelturm pentru o vedere panoramică.",
-        "en": "Your day starts in the historic center of Bitterfeld with insights into amber history. At noon, walk to the modern city port at Goitzsche Lake, where the industrial transformation is clearly visible. The afternoon takes you to the Water Centre and the impressive Culture Palace. End your journey with a fresh lake breeze and climb the floating Pegelturm for a panoramic view."
+        "en": "Your day starts in the historic center of Bitterfeld with insights into amber history. At noon, walk to the modern city port at Goitzsche Lake, where the industrial transformation is clearly visible. The afternoon takes you to the Water Centre and the impressive Culture Palace. End your journey with a fresh lake breeze and climb the floating Pegelturm for a panoramic view.",
+        "tr": "Gününüze Bitterfeld'in tarihi merkezinde kehribar tarihiyle başlayın. Öğleye doğru Goitzsche Gölü'ndeki modern şehir limanına yürüyün; burada sanayinin dönüşümü açıkça görülür. Öğleden sonra Su Merkezi ve etkileyici Kültür Sarayı sizi bekliyor. Yolculuğunuzu taze göl esintisi eşliğinde bitirin ve panoramik görüş için yüzen Pegelturm'a tırmanın."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "Visit the Pegelturm at sunset for great photos.",
           "The city port is the modern heart of the town.",
           "Look out for information boards about industrial history."
+        ],
+        "tr": [
+          "Bitterfeld düz ve yürüyerek keşfetmesi çok kolay.",
+          "Harika fotoğraflar için günbatımında Pegelturm'u ziyaret edin.",
+          "Şehir limanı kasabanın modern kalbidir.",
+          "Sanayi tarihiyle ilgili bilgilendirme panolarına dikkat edin."
         ]
       }
     },
@@ -335,7 +354,8 @@
             "de": "Industrie- und Filmmuseum Wolfen",
             "hu": "Wolfeni Ipari és Filmmúzeum",
             "ro": "Muzeul Industriei și Filmului Wolfen",
-            "en": "Industry and Film Museum Wolfen"
+            "en": "Industry and Film Museum Wolfen",
+            "tr": "Wolfen Sanayi ve Film Müzesi"
           },
           "coords": [
             12.268,
@@ -350,7 +370,8 @@
             "de": "Heimat des ersten Farbfilms der Welt.",
             "hu": "A világ első színes filmjének szülőhelye.",
             "ro": "Locul unde a apărut primul film color din lume.",
-            "en": "Home of the world's first color film."
+            "en": "Home of the world's first color film.",
+            "tr": "Dünyanın ilk renkli filminin evi."
           }
         },
         {
@@ -358,7 +379,8 @@
             "de": "Bitterfelder Bogen",
             "hu": "Bitterfeldi ív",
             "ro": "Arcul Bitterfeld",
-            "en": "Bitterfeld Arch"
+            "en": "Bitterfeld Arch",
+            "tr": "Bitterfeld Kemeri"
           },
           "coords": [
             12.302,
@@ -373,7 +395,8 @@
             "de": "Stählerner Aussichtspunkt auf einer Anhöhe.",
             "hu": "Acél kilátópont egy dombtetőn.",
             "ro": "Punct de observație din oțel pe o colină.",
-            "en": "Steel viewpoint on a hill."
+            "en": "Steel viewpoint on a hill.",
+            "tr": "Tepedeki çelik seyir noktası."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Wasserzentrum Bitterfeld",
             "hu": "Bitterfeldi Víziközpont",
             "ro": "Centrul de Apă Bitterfeld",
-            "en": "Bitterfeld Water Centre"
+            "en": "Bitterfeld Water Centre",
+            "tr": "Bitterfeld Su Merkezi"
           },
           "coords": [
             12.312,
@@ -396,7 +420,8 @@
             "de": "Interessante Technik im historischen Turm.",
             "hu": "Érdekes technika a történelmi toronyban.",
             "ro": "Tehnică interesantă în turnul istoric.",
-            "en": "Interesting technology in the historic tower."
+            "en": "Interesting technology in the historic tower.",
+            "tr": "Tarihi kulenin ilginç teknolojisi."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Stadthafen Bitterfeld",
             "hu": "Bitterfeldi Városi Kikötő",
             "ro": "Portul orașului Bitterfeld",
-            "en": "Bitterfeld City Port"
+            "en": "Bitterfeld City Port",
+            "tr": "Bitterfeld Şehir Limanı"
           },
           "coords": [
             12.338,
@@ -419,7 +445,8 @@
             "de": "Ideal für eine Mittagspause am See.",
             "hu": "Ideális egy tavi ebédszünethez.",
             "ro": "Ideal pentru o pauză de prânz la lac.",
-            "en": "Ideal for a lunch break by the lake."
+            "en": "Ideal for a lunch break by the lake.",
+            "tr": "Göl kenarında yemek molası için ideal."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Pegelturm Goitzschesee",
             "hu": "Goitzsche-tó Pegelturm",
             "ro": "Turnul Pegelturm Goitzschesee",
-            "en": "Pegelturm Goitzschesee"
+            "en": "Pegelturm Goitzschesee",
+            "tr": "Pegelturm Goitzschesee"
           },
           "coords": [
             12.355,
@@ -442,7 +470,8 @@
             "de": "Ein Wahrzeichen der Region.",
             "hu": "A régió egyik jelképe.",
             "ro": "Un simbol al regiunii.",
-            "en": "A landmark of the region."
+            "en": "A landmark of the region.",
+            "tr": "Bölgenin simgesi."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Bernsteinvilla",
             "hu": "Borostyán-villa",
             "ro": "Vila de Chihlimbar",
-            "en": "Amber Villa"
+            "en": "Amber Villa",
+            "tr": "Kehribar Villa"
           },
           "coords": [
             12.35,
@@ -465,7 +495,8 @@
             "de": "Architekturperle am See.",
             "hu": "Építészeti gyöngyszem a tónál.",
             "ro": "O bijuterie arhitecturală la lac.",
-            "en": "Architectural gem by the lake."
+            "en": "Architectural gem by the lake.",
+            "tr": "Göl kenarında bir mimari mücevher."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Kreismuseum Bitterfeld",
             "hu": "Bitterfeldi Járási Múzeum",
             "ro": "Muzeul Districtual Bitterfeld",
-            "en": "Bitterfeld District Museum"
+            "en": "Bitterfeld District Museum",
+            "tr": "Bitterfeld İlçe Müzesi"
           },
           "coords": [
             12.328,
@@ -488,7 +520,8 @@
             "de": "Abschluss im historischen Stadtkern.",
             "hu": "Zárás a történelmi városmagban.",
             "ro": "Final în centrul istoric al orașului.",
-            "en": "Conclusion in the historic city center."
+            "en": "Conclusion in the historic city center.",
+            "tr": "Tarihi şehir merkezinde kapanış."
           }
         }
       ],
@@ -496,7 +529,8 @@
         "de": "Mit dem Rad erkunden Sie die Verbindung zwischen Wolfen und Bitterfeld. Startpunkt ist das Filmmuseum in Wolfen, bevor es über den Bitterfelder Bogen mit weiter Sicht zum Wasserzentrum geht. Die Route führt Sie entlang des Goitzschesees zum Stadthafen und zum Pegelturm. Genießen Sie die flachen Wege und die frische Luft, bevor Sie im Kreismuseum Bitterfeld ankommen.",
         "hu": "Kerékpárral fedezheti fel a Wolfen és Bitterfeld közötti kapcsolatot. A kiindulópont a wolfeni Filmmúzeum, majd a Bitterfeldi íven keresztül, pazar kilátással teker a Víziközponthoz. Az útvonal a Goitzsche-tó mentén halad a kikötőhöz és a Pegelturmhoz. Élvezze a sík utakat és a friss levegőt, mielőtt megérkezik a Bitterfeldi Járási Múzeumba.",
         "ro": "Cu bicicleta explorați legătura dintre Wolfen și Bitterfeld. Punctul de plecare este Muzeul Filmului din Wolfen, după care treceți pe la Arcul Bitterfeld cu vederi largi spre Centrul de Apă. Traseul vă poartă de-a lungul lacului Goitzsche către port și Pegelturm. Bucurați-vă de drumurile plate și aerul curat înainte de a ajunge la Muzeul Districtual Bitterfeld.",
-        "en": "By bike, explore the connection between Wolfen and Bitterfeld. Starting at the Film Museum in Wolfen, head via the Bitterfeld Arch with wide views to the Water Centre. The route takes you along Goitzsche Lake to the city port and the Pegelturm. Enjoy the flat paths and fresh air before arriving at the Bitterfeld District Museum."
+        "en": "By bike, explore the connection between Wolfen and Bitterfeld. Starting at the Film Museum in Wolfen, head via the Bitterfeld Arch with wide views to the Water Centre. The route takes you along Goitzsche Lake to the city port and the Pegelturm. Enjoy the flat paths and fresh air before arriving at the Bitterfeld District Museum.",
+        "tr": "Bisikletle Wolfen ve Bitterfeld arasındaki bağı keşfedin. Wolfen'deki Film Müzesi'nden başlayıp geniş manzaralar sunan Bitterfeld Kemeri üzerinden Su Merkezi'ne gidin. Rota Goitzsche Gölü boyunca şehir limanı ve Pegelturm'a götürür. Düz yolların ve temiz havanın tadını çıkarıp sonunda Bitterfeld İlçe Müzesi'ne varın."
       },
       "gastro_picks": {
         "de": [
@@ -640,6 +674,12 @@
           "The section between Bitterfeld and Wolfen is well-developed.",
           "Take enough water for the lake circuit.",
           "The Bitterfeld Arch requires a small climb."
+        ],
+        "tr": [
+          "Goitzsche etrafındaki dairesel yol yaklaşık 25 km uzunluğunda.",
+          "Bitterfeld ile Wolfen arasındaki bölüm iyi gelişmiş.",
+          "Göl turu için yeterince su alın.",
+          "Bitterfeld Kemeri küçük bir tırmanış gerektirir."
         ]
       }
     },
@@ -656,7 +696,8 @@
             "de": "Industrie- und Filmmuseum Wolfen",
             "hu": "Wolfeni Ipari és Filmmúzeum",
             "ro": "Muzeul Industriei și Filmului Wolfen",
-            "en": "Industry and Film Museum Wolfen"
+            "en": "Industry and Film Museum Wolfen",
+            "tr": "Wolfen Sanayi ve Film Müzesi"
           },
           "coords": [
             12.268,
@@ -672,7 +713,8 @@
             "de": "Parkplatz direkt vor dem Museum.",
             "hu": "Parkoló közvetlenül a múzeum előtt.",
             "ro": "Parcare chiar în fața muzeului.",
-            "en": "Parking right in front of the museum."
+            "en": "Parking right in front of the museum.",
+            "tr": "Müzenin hemen önünde park yeri."
           }
         },
         {
@@ -680,7 +722,8 @@
             "de": "Kulturpalast Bitterfeld",
             "hu": "Bitterfeldi Kulturpalota",
             "ro": "Palatul Culturii Bitterfeld",
-            "en": "Bitterfeld Culture Palace"
+            "en": "Bitterfeld Culture Palace",
+            "tr": "Bitterfeld Kültür Sarayı"
           },
           "coords": [
             12.316,
@@ -696,7 +739,8 @@
             "de": "Beeindruckende Architektur.",
             "hu": "Lenyűgöző építészet.",
             "ro": "Arhitectură impresionantă.",
-            "en": "Impressive architecture."
+            "en": "Impressive architecture.",
+            "tr": "Etkileyici mimari."
           }
         },
         {
@@ -704,7 +748,8 @@
             "de": "Wasserzentrum Bitterfeld",
             "hu": "Bitterfeldi Víziközpont",
             "ro": "Centrul de Apă Bitterfeld",
-            "en": "Bitterfeld Water Centre"
+            "en": "Bitterfeld Water Centre",
+            "tr": "Bitterfeld Su Merkezi"
           },
           "coords": [
             12.312,
@@ -720,7 +765,8 @@
             "de": "Kurzer Spaziergang vom Palast.",
             "hu": "Rövid séta a palotától.",
             "ro": "Scurtă plimbare de la palat.",
-            "en": "Short walk from the palace."
+            "en": "Short walk from the palace.",
+            "tr": "Saraydan kısa bir yürüyüş mesafesinde."
           }
         },
         {
@@ -728,7 +774,8 @@
             "de": "Bitterfelder Bogen",
             "hu": "Bitterfeldi ív",
             "ro": "Arcul Bitterfeld",
-            "en": "Bitterfeld Arch"
+            "en": "Bitterfeld Arch",
+            "tr": "Bitterfeld Kemeri"
           },
           "coords": [
             12.302,
@@ -744,7 +791,8 @@
             "de": "Parkplatz am Fuße des Bogens.",
             "hu": "Parkoló az ív lábánál.",
             "ro": "Parcare la baza arcului.",
-            "en": "Parking at the foot of the arch."
+            "en": "Parking at the foot of the arch.",
+            "tr": "Kemerin ayağında park yeri."
           }
         },
         {
@@ -752,7 +800,8 @@
             "de": "Stadthafen Bitterfeld",
             "hu": "Bitterfeldi Városi Kikötő",
             "ro": "Portul orașului Bitterfeld",
-            "en": "Bitterfeld City Port"
+            "en": "Bitterfeld City Port",
+            "tr": "Bitterfeld Şehir Limanı"
           },
           "coords": [
             12.338,
@@ -768,7 +817,8 @@
             "de": "Perfekt für das Mittagessen.",
             "hu": "Tökéletes ebédhez.",
             "ro": "Perfect pentru prânz.",
-            "en": "Perfect for lunch."
+            "en": "Perfect for lunch.",
+            "tr": "Öğle yemeği için mükemmel."
           }
         },
         {
@@ -776,7 +826,8 @@
             "de": "Kreismuseum Bitterfeld",
             "hu": "Bitterfeldi Járási Múzeum",
             "ro": "Muzeul Districtual Bitterfeld",
-            "en": "Bitterfeld District Museum"
+            "en": "Bitterfeld District Museum",
+            "tr": "Bitterfeld İlçe Müzesi"
           },
           "coords": [
             12.328,
@@ -792,7 +843,8 @@
             "de": "Bernsteinsammlung besuchen.",
             "hu": "Nézze meg a borostyángyűjteményt.",
             "ro": "Vizitați colecția de chihlimbar.",
-            "en": "Visit the amber collection."
+            "en": "Visit the amber collection.",
+            "tr": "Kehribar koleksiyonunu ziyaret edin."
           }
         },
         {
@@ -800,7 +852,8 @@
             "de": "Pegelturm Goitzschesee",
             "hu": "Goitzsche-tó Pegelturm",
             "ro": "Turnul Pegelturm Goitzschesee",
-            "en": "Pegelturm Goitzschesee"
+            "en": "Pegelturm Goitzschesee",
+            "tr": "Pegelturm Goitzschesee"
           },
           "coords": [
             12.355,
@@ -816,7 +869,8 @@
             "de": "Spaziergang über die Seebrücke.",
             "hu": "Séta a mólón keresztül.",
             "ro": "Plimbare pe podul de peste lac.",
-            "en": "Walk across the lake bridge."
+            "en": "Walk across the lake bridge.",
+            "tr": "Göl köprüsünden yürüyün."
           }
         },
         {
@@ -824,7 +878,8 @@
             "de": "Bernsteinvilla",
             "hu": "Borostyán-villa",
             "ro": "Vila de Chihlimbar",
-            "en": "Amber Villa"
+            "en": "Amber Villa",
+            "tr": "Kehribar Villa"
           },
           "coords": [
             12.35,
@@ -840,7 +895,8 @@
             "de": "Abschluss am See.",
             "hu": "Zárás a tónál.",
             "ro": "Final la lac.",
-            "en": "Final stop by the lake."
+            "en": "Final stop by the lake.",
+            "tr": "Göldeki son durak."
           }
         }
       ],
@@ -848,7 +904,8 @@
         "de": "Mit dem Auto verbinden Sie bequem die Highlights von Wolfen und Bitterfeld. Vormittags steht die Filmgeschichte im Fokus. Nach einem Stopp am Kulturpalast erkunden Sie den Bitterfelder Bogen. Den Nachmittag verbringen Sie am Goitzschesee zwischen Stadthafen, Pegelturm und der eleganten Bernsteinvilla. Die Cluster-Strategie erlaubt kurze Spaziergänge an den schönsten Orten.",
         "hu": "Autóval kényelmesen összekötheti Wolfen és Bitterfeld legfontosabb látnivalóit. Délelőtt a filmtörténet áll a középpontban. A Kulturpalota után a Bitterfeldi ívet fedezi fel. A délutánt a Goitzsche-tónál tölti a kikötő, a Pegelturm és az elegáns Borostyán-villa között. A klaszter-stratégia lehetővé teszi a rövid sétákat a legszebb helyeken.",
         "ro": "Cu mașina conectați confortabil atracțiile principale din Wolfen și Bitterfeld. Dimineața se concentrează pe istoria filmului. După o oprire la Palatul Culturii, explorați Arcul Bitterfeld. După-amiaza o petreceți la lacul Goitzsche, între port, turnul Pegelturm și eleganta Vilă de Chihlimbar. Strategia de clustere permite scurte plimbări în cele mai frumoase locuri.",
-        "en": "By car, you can comfortably combine the highlights of Wolfen and Bitterfeld. The morning focuses on film history. After a stop at the Culture Palace, explore the Bitterfeld Arch. Spend the afternoon at Goitzsche Lake between the city port, the Pegelturm, and the elegant Amber Villa. The cluster strategy allows for short walks at the most beautiful locations."
+        "en": "By car, you can comfortably combine the highlights of Wolfen and Bitterfeld. The morning focuses on film history. After a stop at the Culture Palace, explore the Bitterfeld Arch. Spend the afternoon at Goitzsche Lake between the city port, the Pegelturm, and the elegant Amber Villa. The cluster strategy allows for short walks at the most beautiful locations.",
+        "tr": "Arabayla Wolfen ve Bitterfeld'in öne çıkan noktalarını rahatça birleştirebilirsiniz. Sabah film tarihine odaklanın. Kültür Sarayı'nda bir duraktan sonra Bitterfeld Kemeri'ni keşfedin. Öğleden sonrayı Goitzsche Gölü'nde şehir limanı, Pegelturm ve zarif Kehribar Villa arasında geçirin. Kümeleme stratejisi en güzel yerlerde kısa yürüyüşlere izin verir."
       },
       "gastro_picks": {
         "de": [
@@ -972,6 +1029,12 @@
           "B184 is the fastest connection between Wolfen and Bitterfeld.",
           "Goitzsche is a popular excursion destination on weekends.",
           "Parking at the Bitterfeld Arch is usually free."
+        ],
+        "tr": [
+          "Göl kümesi için şehir limanındaki otoparkları kullanın.",
+          "B184, Wolfen ile Bitterfeld arasındaki en hızlı bağlantıdır.",
+          "Goitzsche hafta sonları popüler bir gezi yeridir.",
+          "Bitterfeld Kemeri'nde park genellikle ücretsizdir."
         ]
       }
     },
@@ -988,7 +1051,8 @@
             "de": "Industrie- und Filmmuseum Wolfen",
             "hu": "Wolfeni Ipari és Filmmúzeum",
             "ro": "Muzeul Industriei și Filmului Wolfen",
-            "en": "Industry and Film Museum Wolfen"
+            "en": "Industry and Film Museum Wolfen",
+            "tr": "Wolfen Sanayi ve Film Müzesi"
           },
           "coords": [
             12.268,
@@ -1004,7 +1068,8 @@
             "de": "Buslinie 403 hält in der Nähe.",
             "hu": "A 403-as busz megáll a közelben.",
             "ro": "Linia de autobuz 403 oprește în apropiere.",
-            "en": "Bus line 403 stops nearby."
+            "en": "Bus line 403 stops nearby.",
+            "tr": "403 numaralı otobüs yakında durur."
           }
         },
         {
@@ -1012,7 +1077,8 @@
             "de": "Kulturpalast Bitterfeld",
             "hu": "Bitterfeldi Kulturpalota",
             "ro": "Palatul Culturii Bitterfeld",
-            "en": "Bitterfeld Culture Palace"
+            "en": "Bitterfeld Culture Palace",
+            "tr": "Bitterfeld Kültür Sarayı"
           },
           "coords": [
             12.316,
@@ -1028,7 +1094,8 @@
             "de": "Zentraler Umsteigepunkt Bitterfeld.",
             "hu": "Központi átszállóhely Bitterfeldben.",
             "ro": "Punct central de transfer în Bitterfeld.",
-            "en": "Central transfer point in Bitterfeld."
+            "en": "Central transfer point in Bitterfeld.",
+            "tr": "Bitterfeld'de merkezi aktarma noktası."
           }
         },
         {
@@ -1036,7 +1103,8 @@
             "de": "Stadthafen Bitterfeld",
             "hu": "Bitterfeldi Városi Kikötő",
             "ro": "Portul orașului Bitterfeld",
-            "en": "Bitterfeld City Port"
+            "en": "Bitterfeld City Port",
+            "tr": "Bitterfeld Şehir Limanı"
           },
           "coords": [
             12.338,
@@ -1052,7 +1120,8 @@
             "de": "Vom Bahnhof Bitterfeld gut erreichbar.",
             "hu": "Könnyen elérhető a bitterfeldi vasútállomástól.",
             "ro": "Ușor accesibil de la gara Bitterfeld.",
-            "en": "Easily accessible from Bitterfeld station."
+            "en": "Easily accessible from Bitterfeld station.",
+            "tr": "Bitterfeld istasyonundan kolay erişilebilir."
           }
         },
         {
@@ -1060,7 +1129,8 @@
             "de": "Pegelturm Goitzschesee",
             "hu": "Goitzsche-tó Pegelturm",
             "ro": "Turnul Pegelturm Goitzschesee",
-            "en": "Pegelturm Goitzschesee"
+            "en": "Pegelturm Goitzschesee",
+            "tr": "Pegelturm Goitzschesee"
           },
           "coords": [
             12.355,
@@ -1076,7 +1146,8 @@
             "de": "Schöner Spazierweg am See.",
             "hu": "Szép sétaút a tónál.",
             "ro": "Frumos traseu de plimbare la lac.",
-            "en": "Nice walking path by the lake."
+            "en": "Nice walking path by the lake.",
+            "tr": "Göl kenarında hoş bir yürüyüş yolu."
           }
         },
         {
@@ -1084,7 +1155,8 @@
             "de": "Kreismuseum Bitterfeld",
             "hu": "Bitterfeldi Járási Múzeum",
             "ro": "Muzeul Districtual Bitterfeld",
-            "en": "Bitterfeld District Museum"
+            "en": "Bitterfeld District Museum",
+            "tr": "Bitterfeld İlçe Müzesi"
           },
           "coords": [
             12.328,
@@ -1100,7 +1172,8 @@
             "de": "Nahe dem Marktplatz.",
             "hu": "A piactér közelében.",
             "ro": "Lângă piața centrală.",
-            "en": "Near the market square."
+            "en": "Near the market square.",
+            "tr": "Pazar meydanın yakınında."
           }
         }
       ],
@@ -1108,7 +1181,8 @@
         "de": "Nutzen Sie das lokale Busnetz, um zwischen den industriellen Erbe-Stätten von Wolfen und Bitterfeld zu pendeln. Nach dem Filmmuseum führt Sie der Weg zum Kulturpalast und weiter zum Stadthafen. Ein entspannter Spaziergang bringt Sie zum Pegelturm am See. Den Abschluss bildet der historische Stadtkern von Bitterfeld mit dem Kreismuseum.",
         "hu": "Használja a helyi autóbusz-hálózatot a wolfeni és bitterfeldi ipari örökségi helyszínek közötti közlekedéshez. A Filmmúzeum után az út a Kulturpalotához, majd a városi kikötőhöz vezet. Egy pihentető séta elviszi a tóparti Pegelturmhoz. A napot Bitterfeld történelmi városközpontja és a Járási Múzeum zárja.",
         "ro": "Folosiți rețeaua locală de autobuze pentru a naviga între siturile patrimoniului industrial din Wolfen și Bitterfeld. După Muzeul Filmului, drumul vă duce la Palatul Culturii și apoi la port. O plimbare relaxantă vă poartă la turnul Pegelturm de pe lac. Finalul zilei aparține centrului istoric al orașului Bitterfeld și Muzeului Districtual.",
-        "en": "Use the local bus network to commute between the industrial heritage sites of Wolfen and Bitterfeld. After the Film Museum, the path leads to the Culture Palace and on to the city port. A relaxed walk takes you to the Pegelturm by the lake. The day concludes with Bitterfeld's historic town center and the District Museum."
+        "en": "Use the local bus network to commute between the industrial heritage sites of Wolfen and Bitterfeld. After the Film Museum, the path leads to the Culture Palace and on to the city port. A relaxed walk takes you to the Pegelturm by the lake. The day concludes with Bitterfeld's historic town center and the District Museum.",
+        "tr": "Yerel otobüs ağını kullanarak Wolfen ve Bitterfeld'in sanayi mirası alanları arasında gidip gelin. Film Müzesi'nden sonra rota Kültür Sarayı'na ve oradan şehir limanına gider. Rahat bir yürüyüş sizi göl kenarındaki Pegelturm'a götürür. Gün, Bitterfeld'in tarihi şehir merkezi ve İlçe Müzesi ile sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -1216,6 +1290,12 @@
           "A day ticket from Vetter GmbH is worthwhile.",
           "Check departure times in advance.",
           "Bitterfeld station is an important transport hub."
+        ],
+        "tr": [
+          "403 numaralı otobüs düzenli olarak Bitterfeld ve Wolfen'i bağlar.",
+          "Vetter GmbH'den günlük bilet almaya değer.",
+          "Kalkış saatlerini önceden kontrol edin.",
+          "Bitterfeld istasyonu önemli bir ulaşım merkezidir."
         ]
       }
     }

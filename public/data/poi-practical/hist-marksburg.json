@@ -3,55 +3,64 @@
     "de": "Marksburg, 56338 Braubach",
     "hu": "Marksburg, 56338 Braubach",
     "ro": "Marksburg, 56338 Braubach",
-    "en": "Marksburg, 56338 Braubach"
+    "en": "Marksburg, 56338 Braubach",
+    "tr": "Marksburg, 56338 Braubach"
   },
   "openingHours": {
     "de": "Mo-Su 10:00-18:00",
     "hu": "H-V 10:00-18:00",
     "ro": "Lu-Du 10:00-18:00",
-    "en": "Mon-Sun 10:00-18:00"
+    "en": "Mon-Sun 10:00-18:00",
+    "tr": "Pzt-Paz 10:00-18:00"
   },
   "entranceFee": {
     "de": "€ 11,00 inklusive Führung",
     "hu": "11,00 € idegenvezetéssel együtt",
     "ro": "11,00 € inclusiv tur ghidat",
-    "en": "€ 11.00 including guided tour"
+    "en": "€ 11.00 including guided tour",
+    "tr": "€11,00 rehberli tur dahil"
   },
   "website": "https://www.marksburg.de",
   "publicTransport": {
     "de": "Bahn bis Braubach, dann ca. 20 Min. steiler Fußweg",
     "hu": "Vonattal Braubachig, majd kb. 20 perc meredek gyalogút",
     "ro": "Tren până la Braubach, apoi cca. 20 minute de mers pe jos la deal",
-    "en": "Train to Braubach, then approx. 20-min steep walk"
+    "en": "Train to Braubach, then approx. 20-min steep walk",
+    "tr": "Braubach’a tren, sonra yaklaşık 20 dk dik yürüyüş"
   },
   "parking": {
     "de": "Parkplatz direkt unterhalb der Burg, ca. 4,00 €.",
     "hu": "Parkoló közvetlenül a vár alatt, kb. 4,00 €.",
     "ro": "Parcare direct sub castel, cca. 4,00 €.",
-    "en": "Parking directly below the castle, approx. € 4.00."
+    "en": "Parking directly below the castle, approx. € 4.00.",
+    "tr": "Kalenin hemen altında otopark, yaklaşık €4,00."
   },
   "accessibility": {
     "de": "Nicht barrierefrei aufgrund vieler Treppen und steiler Felswege.",
     "hu": "Nem akadálymentes a sok lépcső és a meredek sziklás utak miatt.",
     "ro": "Nu este accesibil din cauza multor trepte și a drumurilor stâncoase abrupte.",
-    "en": "Not accessible due to many stairs and steep rocky paths."
+    "en": "Not accessible due to many stairs and steep rocky paths.",
+    "tr": "Birçok merdiven ve dik kayalık yollar nedeniyle erişilemez."
   },
   "photoRules": {
     "de": "Nur im Außenbereich erlaubt, nicht während der Führung.",
     "hu": "Csak kültéren engedélyezett, az idegenvezetés alatt nem.",
     "ro": "Permis doar la exterior, nu în timpul turului ghidat.",
-    "en": "Only allowed outside, not during the guided tour."
+    "en": "Only allowed outside, not during the guided tour.",
+    "tr": "Sadece dışarıda izinli, rehberli tur sırasında değil."
   },
   "bestTimeToVisit": {
     "de": "Früh am Morgen, um die erste Führung zu nehmen.",
     "hu": "Kora reggel, hogy az első idegenvezetésen részt vehessünk.",
     "ro": "Dimineața devreme, pentru a prinde primul tur ghidat.",
-    "en": "Early morning to catch the first guided tour."
+    "en": "Early morning to catch the first guided tour.",
+    "tr": "İlk rehberli turu yakalamak için erken sabah."
   },
   "audioGuide": {
     "de": "nein (Führungen in diversen Sprachen)",
     "hu": "nincs (vezetés különböző nyelveken elérhető)",
     "ro": "nu (tururi ghidate în diverse limbi)",
-    "en": "no (guided tours available in various languages)"
+    "en": "no (guided tours available in various languages)",
+    "tr": "hayır (rehberli turlar çeşitli dillerde mevcut)"
   }
 }

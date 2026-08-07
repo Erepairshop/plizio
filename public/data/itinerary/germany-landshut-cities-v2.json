@@ -21,7 +21,8 @@
             "de": "Martinskirche",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sf. Martin",
-            "en": "St. Martin's Church"
+            "en": "St. Martin's Church",
+            "tr": "St. Martin Kilisesi"
           },
           "coords": [
             12.1511,
@@ -36,7 +37,8 @@
             "de": "Bestaunen Sie den höchsten Backsteinturm der Welt.",
             "hu": "Csodáld meg a világ legmagasabb téglaépítésű tornyát.",
             "ro": "Admirați cel mai înalt turn de cărămidă din lume.",
-            "en": "Marvel at the world's tallest brick tower."
+            "en": "Marvel at the world's tallest brick tower.",
+            "tr": "Dünyanın en yüksek tuğla kulesine hayran kalın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stadtresidenz Landshut",
             "hu": "Landshuti Városi Rezidencia",
             "ro": "Rezidența de Stat Landshut",
-            "en": "Landshut City Residence"
+            "en": "Landshut City Residence",
+            "tr": "Landshut Şehir Sarayı"
           },
           "coords": [
             12.1516,
@@ -59,7 +62,8 @@
             "de": "Der erste italienische Renaissance-Palast nördlich der Alpen.",
             "hu": "Az első itáliai reneszánsz palota az Alpoktól északra.",
             "ro": "Primul palat renascentist italian la nord de Alpi.",
-            "en": "The first Italian Renaissance palace north of the Alps."
+            "en": "The first Italian Renaissance palace north of the Alps.",
+            "tr": "Alplerin kuzeyindeki ilk İtalyan Rönesans sarayı."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Landshuter Rathaus",
             "hu": "Landshuti Városháza",
             "ro": "Primăria Landshut",
-            "en": "Landshut Town Hall"
+            "en": "Landshut Town Hall",
+            "tr": "Landshut Belediye Binası"
           },
           "coords": [
             12.1522,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie den Prunksaal mit Fresken der Landshuter Hochzeit.",
             "hu": "Nézd meg a Landshuti Esküvő freskóit a díszteremben.",
             "ro": "Vizitați sala de bal cu fresce despre Nunta din Landshut.",
-            "en": "Visit the ceremonial hall with Landshut Wedding frescoes."
+            "en": "Visit the ceremonial hall with Landshut Wedding frescoes.",
+            "tr": "Landshut Düğünü freskleriyle tören salonunu ziyaret edin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Ländtor",
             "hu": "Ländtor városkapu",
             "ro": "Poarta Ländtor",
-            "en": "Ländtor Gate"
+            "en": "Ländtor Gate",
+            "tr": "Ländtor Kapısı"
           },
           "coords": [
             12.1472,
@@ -105,7 +112,8 @@
             "de": "Das einzige erhaltene Stadttor zur Isarseite hin.",
             "hu": "Az egyetlen megmaradt városkapu az Isar felőli oldalon.",
             "ro": "Singura poartă a orașului care s-a păstrat spre râul Isar.",
-            "en": "The only surviving city gate facing the Isar river."
+            "en": "The only surviving city gate facing the Isar river.",
+            "tr": "Isar nehrine bakan tek ayakta kalan şehir kapısı."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Heilig-Geist-Kirche",
             "hu": "Szentlélek-templom",
             "ro": "Biserica Sfântul Duh",
-            "en": "Holy Ghost Church"
+            "en": "Holy Ghost Church",
+            "tr": "Kutsal Ruh Kilisesi"
           },
           "coords": [
             12.1465,
@@ -128,7 +137,8 @@
             "de": "Eine spätgotische Hallenkirche direkt an der Isarbrücke.",
             "hu": "Késő gótikus csarnoktemplom közvetlenül az Isar-hídnál.",
             "ro": "O biserică-hală gotică târzie chiar lângă podul Isar.",
-            "en": "A late Gothic hall church right by the Isar bridge."
+            "en": "A late Gothic hall church right by the Isar bridge.",
+            "tr": "Isar köprüsünün hemen yanında geç Gotik bir salon kilise."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Isarpromenade",
             "hu": "Isar-sétány",
             "ro": "Promenada Isar",
-            "en": "Isar Promenade"
+            "en": "Isar Promenade",
+            "tr": "Isar Promenadı"
           },
           "coords": [
             12.145,
@@ -151,7 +162,8 @@
             "de": "Perfekt für eine Pause am Wasser zwischen den Brücken.",
             "hu": "Tökéletes hely egy vizes pihenőre a hidak között.",
             "ro": "Perfect pentru o pauză lângă apă între poduri.",
-            "en": "Perfect for a break by the water between the bridges."
+            "en": "Perfect for a break by the water between the bridges.",
+            "tr": "Köprüler arasındaki su kenarında mola için ideal."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Skulpturenmuseum im Hofberg",
             "hu": "Szobormúzeum a Hofbergben",
             "ro": "Muzeul de Sculptură din Hofberg",
-            "en": "Sculpture Museum in Hofberg"
+            "en": "Sculpture Museum in Hofberg",
+            "tr": "Hofberg Heykel Müzesi"
           },
           "coords": [
             12.152,
@@ -174,7 +187,8 @@
             "de": "Einzigartige Architektur, die direkt in den Berg gebaut wurde.",
             "hu": "Különleges építészet, közvetlenül a hegybe vájva.",
             "ro": "Arhitectură unică, construită direct în munte.",
-            "en": "Unique architecture built directly into the mountain."
+            "en": "Unique architecture built directly into the mountain.",
+            "tr": "Doğrudan dağın içine inşa edilmiş benzersiz mimari."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Burg Trausnitz",
             "hu": "Trausnitz vára",
             "ro": "Castelul Trausnitz",
-            "en": "Trausnitz Castle"
+            "en": "Trausnitz Castle",
+            "tr": "Trausnitz Kalesi"
           },
           "coords": [
             12.1525,
@@ -197,7 +212,8 @@
             "de": "Genießen Sie den Panoramablick über die gesamte Altstadt.",
             "hu": "Élvezd a panorámát az egész óvárosra.",
             "ro": "Bucurați-vă de panorama asupra întregului oraș vechi.",
-            "en": "Enjoy the panoramic view over the entire old town."
+            "en": "Enjoy the panoramic view over the entire old town.",
+            "tr": "Tüm eski kentin üzerinde panoramik manzaranın tadını çıkarın."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Morgens erkunden Sie die prächtige Altstadt mit der Martinskirche und der Stadtresidenz. Mittags schlendern Sie am Isarufer entlang und genießen die entspannte Atmosphäre. Der Nachmittag gehört der Kultur im Skulpturenmuseum, bevor Sie zum Sonnenuntergang die Burg Trausnitz erklimmen und den Blick über die Dächer der niederbayerischen Hauptstadt schweifen lassen.",
         "hu": "Reggel a pompás óvárost fedezzük fel a Szent Márton-templommal és a Rezidenciával. Délben az Isar partján sétálunk, élvezve a nyugodt légkört. A délután a kultúráé a Szobormúzeumban, mielőtt naplementekor felkapaszkodnánk Trausnitz várába, hogy megcsodáljuk az alsó-bajor főváros háztetőire nyíló kilátást.",
         "ro": "Dimineața explorați centrul vechi magnific, cu Biserica Sf. Martin și Rezidența. La prânz vă plimbați pe malul râului Isar, bucurându-vă de atmosfera relaxată. După-amiaza este dedicată culturii la Muzeul de Sculptură, înainte de a urca la Castelul Trausnitz la apus, pentru a admira vederea peste acoperișurile capitalei Bavariei de Jos.",
-        "en": "In the morning, explore the magnificent old town with St. Martin's Church and the Residence. At noon, stroll along the Isar banks and enjoy the relaxed atmosphere. The afternoon is dedicated to culture at the Sculpture Museum before climbing to Trausnitz Castle at sunset to admire the view over the rooftops of the Lower Bavarian capital."
+        "en": "In the morning, explore the magnificent old town with St. Martin's Church and the Residence. At noon, stroll along the Isar banks and enjoy the relaxed atmosphere. The afternoon is dedicated to culture at the Sculpture Museum before climbing to Trausnitz Castle at sunset to admire the view over the rooftops of the Lower Bavarian capital.",
+        "tr": "Sabah St. Martin Kilisesi ve Saray ile muhteşem eski kenti keşfedin. Öğle vakti Isar kıyısında gezintiye çıkıp rahat atmosferin tadını çıkarın. Öğleden sonra Heykel Müzesi'nde kültüre zaman ayırın, gün batımında Trausnitz Kalesi'ne çıkarak Aşağı Bavyera başkentinin çatıları üzerinde manzarayı seyredin."
       },
       "gastro_picks": {
         "de": [
@@ -365,6 +382,12 @@
           "Sturdy shoes are recommended for the climb to the castle.",
           "St. Martin's Church has the highest brick tower in the world.",
           "Look for symbols of the Landshut Wedding throughout the city."
+        ],
+        "tr": [
+          "Eski kent neredeyse tamamen yaya bölgesidir.",
+          "Kaleye tırmanış için sağlam ayakkabılar tavsiye edilir.",
+          "St. Martin Kilisesi dünyanın en yüksek tuğla kulesine sahiptir.",
+          "Şehirde Landshut Düğünü'nün simgelerini arayın."
         ]
       }
     },
@@ -381,7 +404,8 @@
             "de": "Ländtor",
             "hu": "Ländtor",
             "ro": "Poarta Ländtor",
-            "en": "Ländtor Gate"
+            "en": "Ländtor Gate",
+            "tr": "Ländtor Kapısı"
           },
           "coords": [
             12.1472,
@@ -396,7 +420,8 @@
             "de": "Startpunkt an der Isar.",
             "hu": "Kiindulópont az Isarnál.",
             "ro": "Punct de plecare la Isar.",
-            "en": "Starting point by the Isar."
+            "en": "Starting point by the Isar.",
+            "tr": "Isar kıyısındaki başlangıç noktası."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Isarpromenade",
             "hu": "Isar-sétány",
             "ro": "Promenada Isar",
-            "en": "Isar Promenade"
+            "en": "Isar Promenade",
+            "tr": "Isar Promenadı"
           },
           "coords": [
             12.145,
@@ -419,7 +445,8 @@
             "de": "Entspanntes Radeln am Flussufer.",
             "hu": "Kényelmes tekerés a folyóparton.",
             "ro": "Ciclism relaxat pe malul râului.",
-            "en": "Relaxed cycling along the riverbank."
+            "en": "Relaxed cycling along the riverbank.",
+            "tr": "Nehir kıyısında sakin bisiklet sürüşü."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Martinskirche",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sf. Martin",
-            "en": "St. Martin's Church"
+            "en": "St. Martin's Church",
+            "tr": "St. Martin Kilisesi"
           },
           "coords": [
             12.1511,
@@ -442,7 +470,8 @@
             "de": "Fahrradständer direkt am Postplatz.",
             "hu": "Kerékpártárolók a Postplatznál.",
             "ro": "Suporturi pentru biciclete la Postplatz.",
-            "en": "Bicycle racks right at Postplatz."
+            "en": "Bicycle racks right at Postplatz.",
+            "tr": "Postplatz'da hemen önünde bisiklet park yerleri."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Stadtresidenz Landshut",
             "hu": "Városi Rezidencia",
             "ro": "Rezidența de Stat",
-            "en": "City Residence"
+            "en": "City Residence",
+            "tr": "Şehir Sarayı"
           },
           "coords": [
             12.1516,
@@ -465,7 +495,8 @@
             "de": "Renaissance-Hof im Stadtzentrum.",
             "hu": "Reneszánsz udvar a belvárosban.",
             "ro": "Curte renascentistă în centrul orașului.",
-            "en": "Renaissance courtyard in the city center."
+            "en": "Renaissance courtyard in the city center.",
+            "tr": "Şehir merkezinde Rönesans avlusu."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Heilig-Geist-Kirche",
             "hu": "Szentlélek-templom",
             "ro": "Biserica Sfântul Duh",
-            "en": "Holy Ghost Church"
+            "en": "Holy Ghost Church",
+            "tr": "Kutsal Ruh Kilisesi"
           },
           "coords": [
             12.1465,
@@ -488,7 +520,8 @@
             "de": "Kurzer Stopp vor der Isarüberquerung.",
             "hu": "Rövid megálló az Isaron való átkelés előtt.",
             "ro": "Scurtă oprire înainte de traversarea Isarului.",
-            "en": "Short stop before crossing the Isar."
+            "en": "Short stop before crossing the Isar.",
+            "tr": "Isar'ı geçmeden önce kısa bir mola."
           }
         },
         {
@@ -496,7 +529,8 @@
             "de": "Mühleninsel",
             "hu": "Malom-sziget",
             "ro": "Insula Morii",
-            "en": "Mühleninsel"
+            "en": "Mühleninsel",
+            "tr": "Mühleninsel"
           },
           "coords": [
             12.148,
@@ -511,7 +545,8 @@
             "de": "Grüne Oase auf einer Isarinsel.",
             "hu": "Zöld oázis egy Isar-szigeten.",
             "ro": "Oază verde pe o insulă de pe Isar.",
-            "en": "Green oasis on an Isar island."
+            "en": "Green oasis on an Isar island.",
+            "tr": "Isar adasında yeşil bir vaha."
           }
         },
         {
@@ -519,7 +554,8 @@
             "de": "Burg Trausnitz",
             "hu": "Trausnitz vára",
             "ro": "Castelul Trausnitz",
-            "en": "Trausnitz Castle"
+            "en": "Trausnitz Castle",
+            "tr": "Trausnitz Kalesi"
           },
           "coords": [
             12.1525,
@@ -534,7 +570,8 @@
             "de": "Steiler Aufstieg, aber die Mühe wert.",
             "hu": "Meredek emelkedő, de megéri a fáradtságot.",
             "ro": "Urcare abruptă, dar merită efortul.",
-            "en": "Steep climb, but worth the effort."
+            "en": "Steep climb, but worth the effort.",
+            "tr": "Dik tırmanış, ama çabaya değer."
           }
         }
       ],
@@ -542,7 +579,8 @@
         "de": "Diese Radtour verbindet die historische Altstadt mit der natürlichen Schönheit der Isarauen. Sie starten am Ländtor und folgen dem Flusslauf, bevor Sie das kulturelle Erbe im Zentrum besichtigen. Den Abschluss bildet die sportliche Herausforderung zur Burg Trausnitz.",
         "hu": "Ez a kerékpártúra összeköti a történelmi óvárost az Isar-part természeti szépségével. A Ländtortól indulunk a folyó mentén, majd megtekintjük a központ kulturális örökségét. A túrát a Trausnitz várába való sportos feljutás zárja.",
         "ro": "Acest tur cu bicicleta îmbină centrul istoric cu frumusețea naturală a luncii Isarului. Începeți la Ländtor și urmați cursul râului înainte de a vizita moștenirea culturală din centru. Finalul este reprezentat de provocarea sportivă de a urca la Castelul Trausnitz.",
-        "en": "This bike tour combines the historic old town with the natural beauty of the Isar floodplains. Start at the Ländtor and follow the river course before visiting the cultural heritage in the center. The tour concludes with the athletic challenge of climbing to Trausnitz Castle."
+        "en": "This bike tour combines the historic old town with the natural beauty of the Isar floodplains. Start at the Ländtor and follow the river course before visiting the cultural heritage in the center. The tour concludes with the athletic challenge of climbing to Trausnitz Castle.",
+        "tr": "Bu bisiklet turu tarihle Isar taşkın ovalarının doğal güzelliğini birleştiriyor. Ländtor'da başlayın ve nehir yatağını takip ettikten sonra merkezdeki kültürel mirası ziyaret edin. Tur, Trausnitz Kalesi'ne yapılan atletik tırmanışla sona eriyor."
       },
       "gastro_picks": {
         "de": [
@@ -650,6 +688,12 @@
           "Cycling in the old town is only permitted with restrictions.",
           "Use the Isar bridges for a circular route.",
           "An e-bike makes the climb to Hofberg much easier."
+        ],
+        "tr": [
+          "Isar boyunca birçok bisiklet yolu iyi gelişmiştir.",
+          "Eski kentte bisiklet kullanımı kısıtlamalarla izinlidir.",
+          "Dairesel güzergah için Isar köprülerini kullanın.",
+          "E-bisiklet Hofberg'e tırmanışı çok daha kolaylaştırır."
         ]
       }
     },
@@ -666,7 +710,8 @@
             "de": "Kloster Seligenthal",
             "hu": "Seligenthal kolostor",
             "ro": "Mănăstirea Seligenthal",
-            "en": "Seligenthal Abbey"
+            "en": "Seligenthal Abbey",
+            "tr": "Seligenthal Manastırı"
           },
           "coords": [
             12.1485,
@@ -681,7 +726,8 @@
             "de": "Historisches Zisterzienserinnenkloster.",
             "hu": "Történelmi ciszterci apácakolostor.",
             "ro": "Mănăstire istorică de călugărițe cisterciene.",
-            "en": "Historic Cistercian nunnery."
+            "en": "Historic Cistercian nunnery.",
+            "tr": "Tarihi Sitrüzyen rahibe manastırı."
           }
         },
         {
@@ -689,7 +735,8 @@
             "de": "Ländtor",
             "hu": "Ländtor",
             "ro": "Poarta Ländtor",
-            "en": "Ländtor Gate"
+            "en": "Ländtor Gate",
+            "tr": "Ländtor Kapısı"
           },
           "coords": [
             12.1472,
@@ -704,7 +751,8 @@
             "de": "Parkhaus am Ländtor nutzen.",
             "hu": "Használd a Ländtor melletti parkolóházat.",
             "ro": "Folosiți parcarea de la Ländtor.",
-            "en": "Use the parking garage at Ländtor."
+            "en": "Use the parking garage at Ländtor.",
+            "tr": "Ländtor otoparkını kullanın."
           }
         },
         {
@@ -712,7 +760,8 @@
             "de": "Stadtresidenz Landshut",
             "hu": "Városi Rezidencia",
             "ro": "Rezidența de Stat",
-            "en": "City Residence"
+            "en": "City Residence",
+            "tr": "Şehir Sarayı"
           },
           "coords": [
             12.1516,
@@ -727,7 +776,8 @@
             "de": "Kurzer Spaziergang vom Parkhaus.",
             "hu": "Rövid séta a parkolóháztól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking garage."
+            "en": "Short walk from the parking garage.",
+            "tr": "Otoparktan kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -735,7 +785,8 @@
             "de": "Martinskirche",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sf. Martin",
-            "en": "St. Martin's Church"
+            "en": "St. Martin's Church",
+            "tr": "St. Martin Kilisesi"
           },
           "coords": [
             12.1511,
@@ -750,7 +801,8 @@
             "de": "Herzstück der Landshuter Altstadt.",
             "hu": "A landshuti óváros szíve.",
             "ro": "Inima centrului vechi din Landshut.",
-            "en": "The heart of Landshut's old town."
+            "en": "The heart of Landshut's old town.",
+            "tr": "Landshut'un eski kentinin kalbi."
           }
         },
         {
@@ -758,7 +810,8 @@
             "de": "Landshuter Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "tr": "Belediye Sarayı"
           },
           "coords": [
             12.1522,
@@ -773,7 +826,8 @@
             "de": "Prächtige Fassade in der Fußgängerzone.",
             "hu": "Pompás homlokzat a sétálóövezetben.",
             "ro": "Fațadă magnifică în zona pietonală.",
-            "en": "Magnificent facade in the pedestrian zone."
+            "en": "Magnificent facade in the pedestrian zone.",
+            "tr": "Yaya bölgesinde görkemli cephe."
           }
         },
         {
@@ -781,7 +835,8 @@
             "de": "Burg Trausnitz",
             "hu": "Trausnitz vára",
             "ro": "Castelul Trausnitz",
-            "en": "Trausnitz Castle"
+            "en": "Trausnitz Castle",
+            "tr": "Trausnitz Kalesi"
           },
           "coords": [
             12.1525,
@@ -796,7 +851,8 @@
             "de": "Großer Parkplatz direkt an der Burg.",
             "hu": "Nagy parkoló közvetlenül a várnál.",
             "ro": "Parcare mare chiar lângă castel.",
-            "en": "Large parking lot directly at the castle."
+            "en": "Large parking lot directly at the castle.",
+            "tr": "Kalede doğrudan büyük otopark."
           }
         },
         {
@@ -804,7 +860,8 @@
             "de": "Skulpturenmuseum im Hofberg",
             "hu": "Szobormúzeum",
             "ro": "Muzeul de Sculptură",
-            "en": "Sculpture Museum"
+            "en": "Sculpture Museum",
+            "tr": "Heykel Müzesi"
           },
           "coords": [
             12.152,
@@ -819,7 +876,8 @@
             "de": "Vom Burgparkplatz zu Fuß erreichbar.",
             "hu": "A várparkolótól gyalogosan elérhető.",
             "ro": "Accesibil pe jos din parcarea castelului.",
-            "en": "Accessible on foot from the castle parking lot."
+            "en": "Accessible on foot from the castle parking lot.",
+            "tr": "Kale otoparkından yaya olarak ulaşılabilir."
           }
         },
         {
@@ -827,7 +885,8 @@
             "de": "Isarpromenade",
             "hu": "Isar-sétány",
             "ro": "Promenada Isar",
-            "en": "Isar Promenade"
+            "en": "Isar Promenade",
+            "tr": "Isar Yürüyüş Yolu"
           },
           "coords": [
             12.145,
@@ -842,7 +901,8 @@
             "de": "Abschluss am Flussufer.",
             "hu": "Zárás a folyóparton.",
             "ro": "Final pe malul râului.",
-            "en": "Wrap up by the riverbank."
+            "en": "Wrap up by the riverbank.",
+            "tr": "Günü nehir kıyısında tamamlayın."
           }
         }
       ],
@@ -850,7 +910,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Facetten Landshuts. Vom ehrwürdigen Kloster Seligenthal geht es in die Altstadt-Cluster. Nach der Besichtigung der Prachtbauten parken Sie direkt oben an der Burg Trausnitz und genießen die Aussicht ohne anstrengenden Aufstieg. Den Tag lassen Sie entspannt an der Isar ausklingen.",
         "hu": "Autóval kényelmesen elérhetjük Landshut különböző arcait. A tekintélyes Seligenthal kolostortól indulva az óvárosi klasztereket látogatjuk meg. A pompás épületek megtekintése után közvetlenül fent, a Trausnitz váránál parkolunk le, így megerőltető mászás nélkül élvezhetjük a kilátást. A napot az Isar partján fejezzük be.",
         "ro": "Cu mașina puteți ajunge confortabil la diferitele fațete ale orașului Landshut. De la venerabila Mănăstire Seligenthal mergem spre zonele centrale. După vizitarea clădirilor magnifice, parcați direct sus la Castelul Trausnitz și vă bucurați de priveliște fără o urcare obositoare. Încheiați ziua relaxat pe malul râului Isar.",
-        "en": "By car, you can comfortably reach the various facets of Landshut. From the venerable Seligenthal Abbey, head to the old town clusters. After visiting the magnificent buildings, park directly up at Trausnitz Castle and enjoy the view without a strenuous climb. End the day relaxed by the Isar."
+        "en": "By car, you can comfortably reach the various facets of Landshut. From the venerable Seligenthal Abbey, head to the old town clusters. After visiting the magnificent buildings, park directly up at Trausnitz Castle and enjoy the view without a strenuous climb. End the day relaxed by the Isar.",
+        "tr": "Arabayla Landshut'un çeşitli yüzlerine rahatça ulaşabilirsiniz. Törensel Seligenthal Manastırı'ndan eski kent kümelerine ilerleyin. Görkemli binaları ziyaret ettikten sonra doğrudan Trausnitz Kalesi'ne park edin ve zahmetli bir tırmanış olmadan manzilenin tadını çıkarın. Günü Isar kıyısında dinlenerek sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -958,6 +1019,12 @@
           "Parking lots at Trausnitz Castle are often full.",
           "Watch out for one-way street regulations in the city center.",
           "Parking at Grieserwöhr is often cheaper."
+        ],
+        "tr": [
+          "'An der Länd' veya 'Zentrum' otoparklarını kullanın.",
+          "Trausnitz Kalesi'ndeki otoparklar sık sık doludur.",
+          "Şehir merkezinde tek yönlü sokak düzenlemelerine dikkat edin.",
+          "Grieserwöhr'de park genellikle daha ucuzdur."
         ]
       }
     },
@@ -974,7 +1041,8 @@
             "de": "Ländtor",
             "hu": "Ländtor",
             "ro": "Poarta Ländtor",
-            "en": "Ländtor Gate"
+            "en": "Ländtor Gate",
+            "tr": "Ländtor Kapısı"
           },
           "coords": [
             12.1472,
@@ -989,7 +1057,8 @@
             "de": "Vom Hauptbahnhof mit Linie 3 oder 6.",
             "hu": "A főpályaudvartól a 3-as vagy 6-os busszal.",
             "ro": "De la gara centrală cu linia 3 sau 6.",
-            "en": "From the main station with line 3 or 6."
+            "en": "From the main station with line 3 or 6.",
+            "tr": "Ana istasyondan 3 veya 6 numaralı hatla."
           }
         },
         {
@@ -997,7 +1066,8 @@
             "de": "Martinskirche",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sf. Martin",
-            "en": "St. Martin's Church"
+            "en": "St. Martin's Church",
+            "tr": "St. Martin Kilisesi"
           },
           "coords": [
             12.1511,
@@ -1012,7 +1082,8 @@
             "de": "Zentraler Umsteigepunkt Postplatz.",
             "hu": "Központi átszállóhely a Postplatz.",
             "ro": "Punct central de transfer Postplatz.",
-            "en": "Central transfer point Postplatz."
+            "en": "Central transfer point Postplatz.",
+            "tr": "Postplatz aktarma noktasında merkezi konum."
           }
         },
         {
@@ -1020,7 +1091,8 @@
             "de": "Stadtresidenz Landshut",
             "hu": "Városi Rezidencia",
             "ro": "Rezidența de Stat",
-            "en": "City Residence"
+            "en": "City Residence",
+            "tr": "Şehir Sarayı"
           },
           "coords": [
             12.1516,
@@ -1035,7 +1107,8 @@
             "de": "Inmitten der Altstadt gelegen.",
             "hu": "Az óváros közepén található.",
             "ro": "Situată în inima centrului vechi.",
-            "en": "Located in the heart of the old town."
+            "en": "Located in the heart of the old town.",
+            "tr": "Eski kentin kalbinde yer alır."
           }
         },
         {
@@ -1043,7 +1116,8 @@
             "de": "Landshuter Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "tr": "Belediye Sarayı"
           },
           "coords": [
             12.1522,
@@ -1058,7 +1132,8 @@
             "de": "Einfach zu Fuß von der Residenz.",
             "hu": "Könnyen elérhető gyalog a Rezidenciától.",
             "ro": "Ușor de ajuns pe jos de la Rezidență.",
-            "en": "Easy walk from the Residence."
+            "en": "Easy walk from the Residence.",
+            "tr": "Şehir Sarayından kolay yürüyüş mesafesinde."
           }
         },
         {
@@ -1066,7 +1141,8 @@
             "de": "Burg Trausnitz",
             "hu": "Trausnitz vára",
             "ro": "Castelul Trausnitz",
-            "en": "Trausnitz Castle"
+            "en": "Trausnitz Castle",
+            "tr": "Trausnitz Kalesi"
           },
           "coords": [
             12.1525,
@@ -1081,7 +1157,8 @@
             "de": "Buslinie 7 Richtung Hofberg.",
             "hu": "7-es busz Hofberg felé.",
             "ro": "Linia de autobuz 7 spre Hofberg.",
-            "en": "Bus line 7 towards Hofberg."
+            "en": "Bus line 7 towards Hofberg.",
+            "tr": "Hofberg yönüne giden 7 numaralı otobüs."
           }
         },
         {
@@ -1089,7 +1166,8 @@
             "de": "Skulpturenmuseum im Hofberg",
             "hu": "Szobormúzeum",
             "ro": "Muzeul de Sculptură",
-            "en": "Sculpture Museum"
+            "en": "Sculpture Museum",
+            "tr": "Heykel Müzesi"
           },
           "coords": [
             12.152,
@@ -1104,7 +1182,8 @@
             "de": "Kurzer Fußweg oberhalb der Altstadt.",
             "hu": "Rövid séta az óváros felett.",
             "ro": "Scurtă plimbare deasupra centrului vechi.",
-            "en": "Short walk above the old town."
+            "en": "Short walk above the old town.",
+            "tr": "Eski kentin yukarısında kısa bir yürüyüş."
           }
         }
       ],
@@ -1112,7 +1191,8 @@
         "de": "Dank des dichten Busnetzes erkunden Sie Landshut stressfrei ohne Parkplatzsuche. Vom Bahnhof gelangen Sie direkt ins Herz der Altstadt. Nach einem ausgiebigen Rundgang bringt Sie der 'Hofberg-Bus' hinauf zur Burg, wo Sie die Geschichte der Wittelsbacher hautnah erleben können.",
         "hu": "A sűrű buszhálózatnak köszönhetően Landshutot stresszmentesen, parkolóhely-keresés nélkül fedezhetjük fel. A pályaudvartól közvetlenül az óváros szívébe jutunk. Egy alapos körséta után a 'Hofberg-busz' visz fel a várba, ahol testközelből élhetjük át a Wittelsbachok történelmét.",
         "ro": "Datorită rețelei dense de autobuze, explorați Landshut fără stres și fără a căuta loc de parcare. De la gară ajungeți direct în inima centrului vechi. După un tur amănunțit, autobuzul 'Hofberg' vă duce sus la castel, unde puteți experimenta istoria familiei Wittelsbach.",
-        "en": "Thanks to the dense bus network, you can explore Landshut stress-free without searching for parking. From the station, you reach the heart of the old town directly. After an extensive tour, the 'Hofberg bus' takes you up to the castle, where you can experience the history of the Wittelsbachs firsthand."
+        "en": "Thanks to the dense bus network, you can explore Landshut stress-free without searching for parking. From the station, you reach the heart of the old town directly. After an extensive tour, the 'Hofberg bus' takes you up to the castle, where you can experience the history of the Wittelsbachs firsthand.",
+        "tr": "Yoğun otobüs ağı sayesinde Landshut'u park yeri aramak zorunda kalmadan stressiz gezebilirsiniz. İstasyondan eski kent merkezine doğrudan ulaşırsınız. Uzun bir turun ardından 'Hofberg otobüsü' sizi kaleye çıkarır; burada Wittelsbachların tarihini yakından deneyimleyebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1220,6 +1300,12 @@
           "The central bus station is at Postplatz.",
           "Buses run less frequently on Saturdays.",
           "Line 7 is the best connection to the castle."
+        ],
+        "tr": [
+          "Yerel enerji şirketinin günlük bileti kullanın.",
+          "Merkezi otobüs durağı Postplatz'dadır.",
+          "Cumartesi günleri otobüsler daha seyrek çalışır.",
+          "Hattı 7 kale için en iyi bağlantıdır."
         ]
       }
     }

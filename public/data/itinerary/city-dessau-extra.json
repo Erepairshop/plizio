@@ -21,7 +21,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Aziz Meryem Kilisesi"
           },
           "coords": [
             12.247,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die restaurierten Altarbilder von Lucas Cranach d. J.",
             "hu": "Keresd az ifjabb Lucas Cranach restaurált oltárképeit.",
             "ro": "Observați picturile de altar restaurate ale lui Lucas Cranach cel Tânăr.",
-            "en": "Look for the restored altar paintings by Lucas Cranach the Younger."
+            "en": "Look for the restored altar paintings by Lucas Cranach the Younger.",
+            "tr": "Lucas Cranach the Younger'ın restore edilmiş sunak tablolarını arayın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Bauhaus Museum Dessau",
             "hu": "Bauhaus Múzeum Dessau",
             "ro": "Muzeul Bauhaus Dessau",
-            "en": "Bauhaus Museum Dessau"
+            "en": "Bauhaus Museum Dessau",
+            "tr": "Bauhaus Müzesi Dessau"
           },
           "coords": [
             12.244,
@@ -59,7 +62,8 @@
             "de": "Das gläserne Foyer bietet einen tollen Blick auf den Stadtpark.",
             "hu": "Az üvegezett aula remek kilátást nyújt a városi parkra.",
             "ro": "Foaierul de sticlă oferă o vedere excelentă spre parcul orașului.",
-            "en": "The glass foyer offers a great view of the city park."
+            "en": "The glass foyer offers a great view of the city park.",
+            "tr": "Cam fuaye şehir parkına harika bir manzara sunar."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Bauhausgebäude",
             "hu": "Bauhaus-épület",
             "ro": "Clădirea Bauhaus",
-            "en": "Bauhaus Building"
+            "en": "Bauhaus Building",
+            "tr": "Bauhaus Binası"
           },
           "coords": [
             12.227,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie die Mensa für ein authentisches Kantinen-Erlebnis der Moderne.",
             "hu": "Ebédelj a menzán az autentikus modernista kantin-élményért.",
             "ro": "Vizitați cantina pentru o experiență modernistă autentică.",
-            "en": "Visit the cafeteria for an authentic modernist canteen experience."
+            "en": "Visit the cafeteria for an authentic modernist canteen experience.",
+            "tr": "Otantik bir modernist kantin deneyimi için kafeteryayı ziyaret edin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Meisterhäuser",
             "hu": "Mesterházak",
             "ro": "Casele Maeștrilor",
-            "en": "Masters' Houses"
+            "en": "Masters' Houses",
+            "tr": "Ustalar Evleri"
           },
           "coords": [
             12.222,
@@ -105,7 +112,8 @@
             "de": "Das Haus Gropius wurde als abstrakte Rekonstruktion neu errichtet.",
             "hu": "A Gropius-házat absztrakt rekonstrukcióként építették újjá.",
             "ro": "Casa Gropius a fost reconstruită ca o reconstrucție abstractă.",
-            "en": "The Gropius House was rebuilt as an abstract reconstruction."
+            "en": "The Gropius House was rebuilt as an abstract reconstruction.",
+            "tr": "Gropius Evi soyut bir rekonstrüksiyon olarak yeniden inşa edildi."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schloss Georgium",
             "hu": "Georgium-kastély",
             "ro": "Castelul Georgium",
-            "en": "Georgium Palace"
+            "en": "Georgium Palace",
+            "tr": "Georgium Sarayı"
           },
           "coords": [
             12.233,
@@ -128,7 +137,8 @@
             "de": "Der weitläufige Park gehört zum UNESCO-Welterbe Gartenreich.",
             "hu": "A kiterjedt park a világörökségi Kertbirodalom része.",
             "ro": "Parcul vast face parte din patrimoniul mondial UNESCO.",
-            "en": "The extensive park is part of the UNESCO World Heritage Garden Kingdom."
+            "en": "The extensive park is part of the UNESCO World Heritage Garden Kingdom.",
+            "tr": "Geniş park UNESCO Dünya Mirası Bahçe Krallığı'nın parçasıdır."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kornhaus",
             "hu": "Kornhaus",
             "ro": "Kornhaus",
-            "en": "Kornhaus"
+            "en": "Kornhaus",
+            "tr": "Kornhaus"
           },
           "coords": [
             12.223,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie den Sonnenuntergang auf der Terrasse direkt an der Elbe.",
             "hu": "Élvezd a naplementét a közvetlenül az Elba partján lévő teraszon.",
             "ro": "Bucurați-vă de apusul de soare pe terasa de pe malul Elbei.",
-            "en": "Enjoy the sunset on the terrace right on the banks of the Elbe."
+            "en": "Enjoy the sunset on the terrace right on the banks of the Elbe.",
+            "tr": "Elbe kıyısındaki terasta gün batımının tadını çıkarın."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Vormittag steht im Zeichen des Stadtzentrums, wo die Marienkirche und das neue Bauhaus Museum den Kontrast zwischen Tradition und Moderne verdeutlichen. Mittags wandern Sie zur Wiege des Funktionalismus, dem ikonischen Bauhausgebäude von Walter Gropius. Der Nachmittag führt durch die Kiefernwälder zu den Meisterhäusern und dem weitläufigen Georgium. Den Tag lassen Sie am Elbufer im Kornhaus ausklingen, einem weiteren Meisterwerk der klassischen Moderne.",
         "hu": "A délelőtt a városközponté, ahol a Mária-templom és az új Bauhaus Múzeum mutatja be a tradíció és a modernitás kontrasztját. Délben a funkcionalizmus bölcsőjéhez, Walter Gropius ikonikus Bauhaus-épületéhez sétálunk. A délután fenyveseken keresztül vezet a Mesterházakhoz és a tágas Georgium parkhoz. A napot az Elba partján, a klasszikus modernista Kornhaus étteremben zárjuk, festői folyóparti környezetben.",
         "ro": "Dimineața este dedicată centrului orașului, unde Biserica Maria și noul Muzeu Bauhaus ilustrează contrastul dintre tradiție și modernitate. La prânz, mergeți spre leagănul funcționalismului, emblematica clădire Bauhaus a lui Walter Gropius. După-amiaza vă poartă prin pădurile de pini către Casele Maeștrilor și vastul parc Georgium. Încheiați ziua pe malul Elbei, la Kornhaus, o altă capodoperă a modernismului clasic.",
-        "en": "The morning is dedicated to the city center, where St. Mary's Church and the new Bauhaus Museum illustrate the contrast between tradition and modernity. At noon, walk to the cradle of functionalism, Walter Gropius's iconic Bauhaus building. The afternoon takes you through pine woods to the Masters' Houses and the spacious Georgium park. End the day on the banks of the Elbe at Kornhaus, another masterpiece of classical modernism."
+        "en": "The morning is dedicated to the city center, where St. Mary's Church and the new Bauhaus Museum illustrate the contrast between tradition and modernity. At noon, walk to the cradle of functionalism, Walter Gropius's iconic Bauhaus building. The afternoon takes you through pine woods to the Masters' Houses and the spacious Georgium park. End the day on the banks of the Elbe at Kornhaus, another masterpiece of classical modernism.",
+        "tr": "Sabah şehir merkezine ayrılmıştır; burada Aziz Meryem Kilisesi ve yeni Bauhaus Müzesi gelenek ile modernlik arasındaki karşıtlığı gösterir. Öğle vakti, işlevselliğin beşiği olan Walter Gropius'un ikonik Bauhaus binasına yürüyün. Öğleden sonra çam ormanlarıyla ustalar evlerine ve geniş Georgium parkına doğru ilerleyin. Günü Elbe kıyısındaki Kornhaus'ta, başka bir klasik modernizm başyapıtında sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -315,6 +328,11 @@
           "Bauhaus sites often have limited access on Mondays.",
           "A combined ticket for all Bauhaus buildings is worth it financially.",
           "Wear comfortable shoes as the distances between museums can be long."
+        ],
+        "tr": [
+          "Bauhaus mekanlarının pazartesi günleri erişimi sık sık sınırlıdır.",
+          "Tüm Bauhaus binalarını kapsayan kombine bilet finansal olarak değerlidir.",
+          "Müzeler arasındaki mesafeler uzun olabileceğinden rahat ayakkabı giyin."
         ]
       }
     },
@@ -331,7 +349,8 @@
             "de": "Bauhaus Museum",
             "hu": "Bauhaus Múzeum",
             "ro": "Muzeul Bauhaus",
-            "en": "Bauhaus Museum"
+            "en": "Bauhaus Museum",
+            "tr": "Bauhaus Müzesi"
           },
           "coords": [
             12.244,
@@ -346,7 +365,8 @@
             "de": "Zentraler Startpunkt mit Fahrradverleih in der Nähe.",
             "hu": "Központi indulópont kerékpárkölcsönzővel a közelben.",
             "ro": "Punct central de plecare cu închirieri de biciclete în apropiere.",
-            "en": "Central starting point with bike rentals nearby."
+            "en": "Central starting point with bike rentals nearby.",
+            "tr": "Yakınlarda bisiklet kiralama imkânı olan merkezi başlangıç noktası."
           }
         },
         {
@@ -354,7 +374,8 @@
             "de": "Bauhausgebäude",
             "hu": "Bauhaus-épület",
             "ro": "Clădirea Bauhaus",
-            "en": "Bauhaus Building"
+            "en": "Bauhaus Building",
+            "tr": "Bauhaus Binası"
           },
           "coords": [
             12.227,
@@ -369,7 +390,8 @@
             "de": "Parken Sie Ihr Rad direkt vor dem Nordflügel.",
             "hu": "Parkolj közvetlenül az északi szárny előtt.",
             "ro": "Parcați bicicleta direct în fața aripii de nord.",
-            "en": "Park your bike directly in front of the north wing."
+            "en": "Park your bike directly in front of the north wing.",
+            "tr": "Bisikletinizi doğrudan kuzey kanadının önüne park edin."
           }
         },
         {
@@ -377,7 +399,8 @@
             "de": "Technikmuseum Hugo Junkers",
             "hu": "Hugo Junkers Technikai Múzeum",
             "ro": "Muzeul Tehnic Hugo Junkers",
-            "en": "Hugo Junkers Technical Museum"
+            "en": "Hugo Junkers Technical Museum",
+            "tr": "Hugo Junkers Teknik Müzesi"
           },
           "coords": [
             12.209,
@@ -392,7 +415,8 @@
             "de": "Bestaunen Sie die legendäre 'Tante Ju' (Ju 52).",
             "hu": "Csodáld meg a legendás 'Ju nénit' (Ju 52 repülőgép).",
             "ro": "Admirați legendara 'Tanti Ju' (Ju 52).",
-            "en": "Admire the legendary 'Auntie Ju' (Ju 52 aircraft)."
+            "en": "Admire the legendary 'Auntie Ju' (Ju 52 aircraft).",
+            "tr": "Efsanevi 'Teyze Ju'yu (Ju 52 uçağı) hayranlıkla izleyin."
           }
         },
         {
@@ -400,7 +424,8 @@
             "de": "Meisterhäuser",
             "hu": "Mesterházak",
             "ro": "Casele Maeștrilor",
-            "en": "Masters' Houses"
+            "en": "Masters' Houses",
+            "tr": "Ustalar Evleri"
           },
           "coords": [
             12.222,
@@ -415,7 +440,8 @@
             "de": "Der Radweg führt idyllisch durch das Villenviertel.",
             "hu": "A kerékpárút idilli környezetben vezet a villanegyeden át.",
             "ro": "Pista de biciclete trece idilic prin cartierul de vile.",
-            "en": "The bike path leads idyllically through the villa district."
+            "en": "The bike path leads idyllically through the villa district.",
+            "tr": "Bisiklet yolu villa bölgesinden huzurlu bir şekilde geçer."
           }
         },
         {
@@ -423,7 +449,8 @@
             "de": "Schloss Georgium",
             "hu": "Georgium-kastély",
             "ro": "Castelul Georgium",
-            "en": "Georgium Palace"
+            "en": "Georgium Palace",
+            "tr": "Georgium Sarayı"
           },
           "coords": [
             12.233,
@@ -438,7 +465,8 @@
             "de": "Fahrräder müssen im inneren Schlossgarten geschoben werden.",
             "hu": "A belső kastélykertben tolni kell a kerékpárt.",
             "ro": "Bicicletele trebuie împinse în grădina interioară a castelului.",
-            "en": "Bicycles must be pushed in the inner palace garden."
+            "en": "Bicycles must be pushed in the inner palace garden.",
+            "tr": "İç saray bahçesinde bisikletler itilmek zorundadır."
           }
         },
         {
@@ -446,7 +474,8 @@
             "de": "Kornhaus",
             "hu": "Kornhaus",
             "ro": "Kornhaus",
-            "en": "Kornhaus"
+            "en": "Kornhaus",
+            "tr": "Kornhaus"
           },
           "coords": [
             12.223,
@@ -461,7 +490,8 @@
             "de": "Direkter Anschluss an den Elberadweg.",
             "hu": "Közvetlen csatlakozás az Elba-menti kerékpárúthoz.",
             "ro": "Conexiune directă la pista de biciclete de pe malul Elbei.",
-            "en": "Direct connection to the Elbe Cycle Route."
+            "en": "Direct connection to the Elbe Cycle Route.",
+            "tr": "Elbe Bisiklet Rotası ile doğrudan bağlantı."
           }
         },
         {
@@ -469,7 +499,8 @@
             "de": "Luisium",
             "hu": "Luisium",
             "ro": "Luisium",
-            "en": "Luisium"
+            "en": "Luisium",
+            "tr": "Luisium"
           },
           "coords": [
             12.276,
@@ -484,7 +515,8 @@
             "de": "Eine ruhige Oase am östlichen Stadtrand.",
             "hu": "Csendes oázis a város keleti szélén.",
             "ro": "O oază de liniște la marginea de est a orașului.",
-            "en": "A quiet oasis on the eastern outskirts of the city."
+            "en": "A quiet oasis on the eastern outskirts of the city.",
+            "tr": "Şehrin doğu kenarındaki sakin bir vaha."
           }
         }
       ],
@@ -492,7 +524,8 @@
         "de": "Mit dem Rad erkunden Sie Dessau weitläufiger: Vom Zentrum geht es zum Junkers-Museum und den Bauhaus-Ikonen. Danach radeln Sie durch das UNESCO-Gartenreich zum Luisium.",
         "hu": "Kerékpárral tágabb körben fedezzük fel Dessaut: a központból a Junkers-múzeumhoz és a Bauhaus ikonokhoz tekerünk, majd az UNESCO Kertbirodalmon át a Luisiumhoz.",
         "ro": "Cu bicicleta explorați Dessau mai pe larg: din centru mergeți la muzeul Junkers și pictogramele Bauhaus, apoi pedalați prin regatul grădinilor UNESCO spre Luisium.",
-        "en": "Explore Dessau more extensively by bike: from the center to the Junkers Museum and Bauhaus icons, then cycle through the UNESCO Garden Kingdom to Luisium."
+        "en": "Explore Dessau more extensively by bike: from the center to the Junkers Museum and Bauhaus icons, then cycle through the UNESCO Garden Kingdom to Luisium.",
+        "tr": "Dessau'yu bisikletle daha genişçe keşfedin: merkezden Junkers Müzesi ve Bauhaus simgelerine, ardından UNESCO Bahçe Krallığı boyunca Luisium'a doğru pedal çevirin."
       },
       "gastro_picks": {
         "de": [
@@ -592,6 +625,10 @@
         "en": [
           "Use the well-signposted paths of the Garden Kingdom.",
           "Watch out for roots on forest paths."
+        ],
+        "tr": [
+          "Bahçe Krallığı'nın iyi işaretlenmiş yollarını kullanın.",
+          "Orman yollarında köklere dikkat edin."
         ]
       }
     },
@@ -608,7 +645,8 @@
             "de": "Bauhaus Museum",
             "hu": "Bauhaus Múzeum",
             "ro": "Muzeul Bauhaus",
-            "en": "Bauhaus Museum"
+            "en": "Bauhaus Museum",
+            "tr": "Bauhaus Müzesi"
           },
           "coords": [
             12.244,
@@ -623,7 +661,8 @@
             "de": "Parkhaus am Rathaus-Center direkt gegenüber.",
             "hu": "Városháza-Center parkolóház közvetlenül szemben.",
             "ro": "Parcare supraetajată la Rathaus-Center chiar vizavi.",
-            "en": "Multi-storey car park at Rathaus-Center directly opposite."
+            "en": "Multi-storey car park at Rathaus-Center directly opposite.",
+            "tr": "Rathaus-Center karşısında çok katlı otopark doğrudan karşısında."
           }
         },
         {
@@ -631,7 +670,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Aziz Meryem Kilisesi"
           },
           "coords": [
             12.247,
@@ -646,7 +686,8 @@
             "de": "Kurzer Fußweg vom Museumsparkplatz.",
             "hu": "Rövid séta a múzeum parkolójától.",
             "ro": "Scurtă plimbare de la parcarea muzeului.",
-            "en": "Short walk from the museum parking lot."
+            "en": "Short walk from the museum parking lot.",
+            "tr": "Müze otoparkından kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -654,7 +695,8 @@
             "de": "Bauhausgebäude",
             "hu": "Bauhaus-épület",
             "ro": "Clădirea Bauhaus",
-            "en": "Bauhaus Building"
+            "en": "Bauhaus Building",
+            "tr": "Bauhaus Binası"
           },
           "coords": [
             12.227,
@@ -669,7 +711,8 @@
             "de": "Kostenfreie Parkplätze in der Gropiusallee.",
             "hu": "Ingyenes parkolóhelyek a Gropiusallee-n.",
             "ro": "Locuri de parcare gratuite pe Gropiusallee.",
-            "en": "Free parking spaces on Gropiusallee."
+            "en": "Free parking spaces on Gropiusallee.",
+            "tr": "Gropiusallee'de ücretsiz park yerleri."
           }
         },
         {
@@ -677,7 +720,8 @@
             "de": "Meisterhäuser",
             "hu": "Mesterházak",
             "ro": "Casele Maeștrilor",
-            "en": "Masters' Houses"
+            "en": "Masters' Houses",
+            "tr": "Ustalar Evleri"
           },
           "coords": [
             12.222,
@@ -692,7 +736,8 @@
             "de": "Zu Fuß vom Bauhausgebäude erreichbar (Parkplatz beibehalten).",
             "hu": "Gyalog elérhető a Bauhaus-épülettől (maradj ugyanabban a parkolóban).",
             "ro": "Accesibil pe jos de la clădirea Bauhaus.",
-            "en": "Accessible on foot from the Bauhaus building (keep your parking spot)."
+            "en": "Accessible on foot from the Bauhaus building (keep your parking spot).",
+            "tr": "Bauhaus binasından yürüyerek ulaşılabilir (otopark yerinizi koruyun)."
           }
         },
         {
@@ -700,7 +745,8 @@
             "de": "Technikmuseum Hugo Junkers",
             "hu": "Hugo Junkers Technikai Múzeum",
             "ro": "Muzeul Tehnic Hugo Junkers",
-            "en": "Hugo Junkers Technical Museum"
+            "en": "Hugo Junkers Technical Museum",
+            "tr": "Hugo Junkers Teknik Müzesi"
           },
           "coords": [
             12.209,
@@ -715,7 +761,8 @@
             "de": "Großer eigener Parkplatz am Museum.",
             "hu": "Nagy saját parkoló a múzeumnál.",
             "ro": "Parcare proprie mare la muzeu.",
-            "en": "Large private parking lot at the museum."
+            "en": "Large private parking lot at the museum.",
+            "tr": "Müzede geniş özel otopark."
           }
         },
         {
@@ -723,7 +770,8 @@
             "de": "Kornhaus",
             "hu": "Kornhaus",
             "ro": "Kornhaus",
-            "en": "Kornhaus"
+            "en": "Kornhaus",
+            "tr": "Kornhaus"
           },
           "coords": [
             12.223,
@@ -738,7 +786,8 @@
             "de": "Parkplätze direkt am Deich vorhanden.",
             "hu": "Parkolási lehetőség közvetlenül a gátnál.",
             "ro": "Locuri de parcare disponibile direct la dig.",
-            "en": "Parking spaces available directly at the dike."
+            "en": "Parking spaces available directly at the dike.",
+            "tr": "Setin hemen yanında doğrudan park yerleri mevcut."
           }
         }
       ],
@@ -746,7 +795,8 @@
         "de": "Das Auto erlaubt eine effiziente Verbindung der drei Dessauer Cluster: Stadtmitte, Bauhausviertel und Elbufer. Sie starten im Zentrum und fahren dann zu den Architektur-Ikonen im Westen, bevor Sie den Tag am Fluss beschließen.",
         "hu": "Az autó lehetővé teszi Dessau három klaszterének hatékony összekapcsolását: belváros, Bauhaus-negyed és Elba-part. A központban kezdünk, majd a nyugati építészeti ikonokhoz hajtunk, mielőtt a folyóparton zárnánk a napot.",
         "ro": "Mașina permite conectarea eficientă a celor trei clustere din Dessau: centrul orașului, cartierul Bauhaus și malul Elbei. Începeți în centru și apoi conduceți spre pictogramele arhitecturale din vest înainte de a încheia ziua la râu.",
-        "en": "The car allows an efficient connection of Dessau's three clusters: city center, Bauhaus district, and Elbe banks. Start in the center and then drive to the architectural icons in the west before ending the day at the river."
+        "en": "The car allows an efficient connection of Dessau's three clusters: city center, Bauhaus district, and Elbe banks. Start in the center and then drive to the architectural icons in the west before ending the day at the river.",
+        "tr": "Araba, Dessau'nun üç kümesini verimli şekilde bağlamanızı sağlar: şehir merkezi, Bauhaus semti ve Elbe kıyıları. Merkezde başlayıp batıdaki mimari simgelere sürün ve günü nehirde bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -846,6 +896,10 @@
         "en": [
           "Park in the city center multi-storey car park to avoid tickets.",
           "Dessau's streets are often one-way."
+        ],
+        "tr": [
+          "Ceza almamak için şehir merkezindeki çok katlı otoparka park edin.",
+          "Dessau'nun sokakları sık sık tek yönlüdür."
         ]
       }
     },
@@ -862,7 +916,8 @@
             "de": "Bauhaus Museum",
             "hu": "Bauhaus Múzeum",
             "ro": "Muzeul Bauhaus",
-            "en": "Bauhaus Museum"
+            "en": "Bauhaus Museum",
+            "tr": "Bauhaus Müzesi"
           },
           "coords": [
             12.244,
@@ -877,7 +932,8 @@
             "de": "Haltestelle 'Bauhaus Museum' direkt vor der Tür.",
             "hu": "'Bauhaus Museum' megálló közvetlenül az ajtó előtt.",
             "ro": "Stația 'Bauhaus Museum' chiar în fața ușii.",
-            "en": "Stop 'Bauhaus Museum' right in front of the door."
+            "en": "Stop 'Bauhaus Museum' right in front of the door.",
+            "tr": "'Bauhaus Museum' durağı tam kapının önünde."
           }
         },
         {
@@ -885,7 +941,8 @@
             "de": "Marienkirche",
             "hu": "Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "St. Mary's Church"
+            "en": "St. Mary's Church",
+            "tr": "Aziz Meryem Kilisesi"
           },
           "coords": [
             12.247,
@@ -900,7 +957,8 @@
             "de": "Zu Fuß vom Museum durch die Fußgängerzone.",
             "hu": "Gyalog a múzeumtól a sétálóutcán át.",
             "ro": "Pe jos de la muzeu prin zona pietonală.",
-            "en": "On foot from the museum through the pedestrian zone."
+            "en": "On foot from the museum through the pedestrian zone.",
+            "tr": "Müzeden yaya bölgesinden yürüyerek ulaşılır."
           }
         },
         {
@@ -908,7 +966,8 @@
             "de": "Bauhausgebäude",
             "hu": "Bauhaus-épület",
             "ro": "Clădirea Bauhaus",
-            "en": "Bauhaus Building"
+            "en": "Bauhaus Building",
+            "tr": "Bauhaus Binası"
           },
           "coords": [
             12.227,
@@ -923,7 +982,8 @@
             "de": "Nutzen Sie die 'Bauhaus-Linie' (Bus 10).",
             "hu": "Használd a 10-es 'Bauhaus-buszjáratot'.",
             "ro": "Folosiți 'linia Bauhaus' (autobuzul 10).",
-            "en": "Use the 'Bauhaus Line' (Bus 10)."
+            "en": "Use the 'Bauhaus Line' (Bus 10).",
+            "tr": "'Bauhaus Hattı'nı (Otobüs 10) kullanın."
           }
         },
         {
@@ -931,7 +991,8 @@
             "de": "Meisterhäuser",
             "hu": "Mesterházak",
             "ro": "Casele Maeștrilor",
-            "en": "Masters' Houses"
+            "en": "Masters' Houses",
+            "tr": "Ustalar Evleri"
           },
           "coords": [
             12.222,
@@ -946,7 +1007,8 @@
             "de": "Eine Haltestelle weiter mit der Linie 10 oder kurzer Fußweg.",
             "hu": "Egy megállóval tovább a 10-essel vagy rövid séta.",
             "ro": "O stație mai departe cu linia 10 sau o scurtă plimbare.",
-            "en": "One stop further with line 10 or a short walk."
+            "en": "One stop further with line 10 or a short walk.",
+            "tr": "10 numaralı hattla bir durak daha ya da kısa bir yürüyüş."
           }
         },
         {
@@ -954,7 +1016,8 @@
             "de": "Schloss Georgium",
             "hu": "Georgium-kastély",
             "ro": "Castelul Georgium",
-            "en": "Georgium Palace"
+            "en": "Georgium Palace",
+            "tr": "Georgium Sarayı"
           },
           "coords": [
             12.233,
@@ -969,7 +1032,8 @@
             "de": "Bus 10 bis Haltestelle 'Georgenallee'.",
             "hu": "10-es busz a 'Georgenallee' megállóig.",
             "ro": "Autobuzul 10 până la stația 'Georgenallee'.",
-            "en": "Bus 10 to stop 'Georgenallee'."
+            "en": "Bus 10 to stop 'Georgenallee'.",
+            "tr": "'Georgenallee' durağına giden 10 numaralı otobüs."
           }
         },
         {
@@ -977,7 +1041,8 @@
             "de": "Kornhaus",
             "hu": "Kornhaus",
             "ro": "Kornhaus",
-            "en": "Kornhaus"
+            "en": "Kornhaus",
+            "tr": "Kornhaus"
           },
           "coords": [
             12.223,
@@ -992,7 +1057,8 @@
             "de": "Bus 11 oder 12 Richtung Roßlau/Kühnau.",
             "hu": "11-es vagy 12-es busz Roßlau/Kühnau irányába.",
             "ro": "Autobuzul 11 sau 12 spre Roßlau/Kühnau.",
-            "en": "Bus 11 or 12 towards Roßlau/Kühnau."
+            "en": "Bus 11 or 12 towards Roßlau/Kühnau.",
+            "tr": "Roßlau/Kühnau yönüne giden 11 veya 12 numaralı otobüs."
           }
         }
       ],
@@ -1000,7 +1066,8 @@
         "de": "Dessau lässt sich hervorragend mit dem Bus erschließen, besonders mit der touristischen Linie 10, die fast alle Bauhaus-Highlights verbindet. Sie pendeln bequem zwischen dem lebendigen Zentrum und den ruhigeren Architektur-Denkmälern im Park.",
         "hu": "Dessau kiválóan bejárható busszal, különösen a 10-es turista-járattal, amely szinte minden Bauhaus-látnivalót összeköt. Kényelmesen ingázhatunk a nyüzsgő központ és a parkokban fekvő nyugodtabb építészeti műemlékek között.",
         "ro": "Dessau poate fi explorat excelent cu autobuzul, în special cu linia turistică 10, care conectează aproape toate punctele de atracție Bauhaus. Navetați confortabil între centrul plin de viață și monumentele arhitecturale mai liniștite din parc.",
-        "en": "Dessau can be explored excellently by bus, especially with the tourist line 10, which connects almost all Bauhaus highlights. Travel comfortably between the lively center and the quieter architectural monuments in the park."
+        "en": "Dessau can be explored excellently by bus, especially with the tourist line 10, which connects almost all Bauhaus highlights. Travel comfortably between the lively center and the quieter architectural monuments in the park.",
+        "tr": "Dessau, özellikle neredeyse tüm Bauhaus noktalarını bağlayan turist hattı 10 ile otobüsle mükemmel şekilde keşfedilebilir. Canlı merkez ile park içindeki daha sakin mimari anıtlar arasında konforlu seyahat edin."
       },
       "gastro_picks": {
         "de": [
@@ -1100,6 +1167,10 @@
         "en": [
           "Buy a day ticket for Dessau's public transport.",
           "The timetables for line 10 are coordinated with museum opening hours."
+        ],
+        "tr": [
+          "Dessau toplu taşımacılığı için günlük bilet alın.",
+          "10 numaralı hattın tarifeleri müze açılış saatleriyle koordine edilmiştir."
         ]
       }
     }

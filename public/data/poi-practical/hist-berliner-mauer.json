@@ -3,55 +3,64 @@
     "de": "Bernauer Straße 111, 13355 Berlin",
     "hu": "Bernauer Straße 111, 13355 Berlin",
     "ro": "Bernauer Straße 111, 13355 Berlin",
-    "en": "Bernauer Straße 111, 13355 Berlin"
+    "en": "Bernauer Straße 111, 13355 Berlin",
+    "tr": "Bernauer Straße 111, 13355 Berlin"
   },
   "openingHours": {
     "de": "Außengelände 24/7; Besucherzentrum Di-So 10:00-18:00",
     "hu": "Kültéri terület 0–24; látogatóközpont Ke–Va 10:00–18:00",
     "ro": "Zona exterioară non-stop; centrul pentru vizitatori Ma-Du 10:00-18:00",
-    "en": "Outdoor grounds 24/7; visitor center Tue-Sun 10:00-18:00"
+    "en": "Outdoor grounds 24/7; visitor center Tue-Sun 10:00-18:00",
+    "tr": "Açık alanlar 24/7; ziyaretçi merkezi Salı-Pazar 10:00-18:00"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.stiftung-berliner-mauer.de",
   "publicTransport": {
     "de": "S-Bahn S1, S2, S25 bis Haltestelle 'Nordbahnhof'",
     "hu": "S1, S2, S25 vonat Nordbahnhof megállóig",
     "ro": "S-Bahn S1, S2, S25 până la stația „Nordbahnhof”",
-    "en": "S-Bahn S1, S2, S25 to 'Nordbahnhof' stop"
+    "en": "S-Bahn S1, S2, S25 to 'Nordbahnhof' stop",
+    "tr": "S-Bahn S1, S2, S25 ile 'Nordbahnhof' durağı"
   },
   "parking": {
     "de": "Sehr schwierig; Parkhaus Nordbahnhof (kostenpflichtig)",
     "hu": "Nagyon nehéz; fizetős parkolás a Nordbahnhof parkolóházban",
     "ro": "Foarte dificil; parcarea Nordbahnhof (contra cost)",
-    "en": "Very difficult; Nordbahnhof parking garage (paid)"
+    "en": "Very difficult; Nordbahnhof parking garage (paid)",
+    "tr": "Çok zor; Nordbahnhof otoparkı (ücretli)"
   },
   "accessibility": {
     "de": "Außengelände voll barrierefrei befahrbar",
     "hu": "A kültéri terület teljes mértékben akadálymentes",
     "ro": "Zona exterioară complet accesibilă",
-    "en": "Outdoor grounds fully accessible"
+    "en": "Outdoor grounds fully accessible",
+    "tr": "Açık alanlar tamamen erişilebilir"
   },
   "photoRules": {
     "de": "Erlaubt; Stativ auf dem Gehweg unproblematisch",
     "hu": "Megengedett; állvány használata a járdán nem okoz gondot",
     "ro": "Permis; utilizarea trepiedului pe trotuar nu este o problemă",
-    "en": "Allowed; tripod on the sidewalk is not a problem"
+    "en": "Allowed; tripod on the sidewalk is not a problem",
+    "tr": "İzinli; kaldırımdaki tripoda genellikle sorun yok"
   },
   "bestTimeToVisit": {
     "de": "Später Nachmittag für weiches Licht auf den Roststahl-Stelen",
     "hu": "Késő délután, a rozsdás acéloszlopokra eső lágy fények miatt",
     "ro": "După-amiaza târziu pentru o lumină caldă pe coloanele de oțel ruginit",
-    "en": "Late afternoon for soft light on the rusted steel steles"
+    "en": "Late afternoon for soft light on the rusted steel steles",
+    "tr": "Paslanmış çelik anıtlarda yumuşak ışık için öğleden sonra geç saatler"
   },
   "audioGuide": {
     "de": "App verfügbar; im Dokumentationszentrum ausleihbar",
     "hu": "Applikáció elérhető; a dokumentációs központban is kölcsönözhető",
     "ro": "Aplicație disponibilă; dispozitive de împrumutat la centrul de documentare",
-    "en": "App available; devices available for loan at the documentation center"
+    "en": "App available; devices available for loan at the documentation center",
+    "tr": "Uygulama mevcut; cihazlar dokümantasyon merkezinde ödünç alınabilir"
   }
 }

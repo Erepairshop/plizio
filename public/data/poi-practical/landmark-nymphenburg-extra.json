@@ -3,55 +3,64 @@
     "de": "Schloss Nymphenburg 1, 80638 München",
     "hu": "Schloss Nymphenburg 1, 80638 München",
     "ro": "Schloss Nymphenburg 1, 80638 München",
-    "en": "Schloss Nymphenburg 1, 80638 München"
+    "en": "Schloss Nymphenburg 1, 80638 München",
+    "tr": "Schloss Nymphenburg 1, 80638 München"
   },
   "openingHours": {
     "de": "Schloss 09:00-18:00 (Apr-Oct), Park 06:00-20:00",
     "hu": "Kastély 09:00-18:00 (ápr-okt), park 06:00-20:00",
     "ro": "Castel 09:00-18:00 (apr-oct), parc 06:00-20:00",
-    "en": "Castle 09:00-18:00 (Apr-Oct), park 06:00-20:00"
+    "en": "Castle 09:00-18:00 (Apr-Oct), park 06:00-20:00",
+    "tr": "Şato 09:00-18:00 (Nis-Eki), park 06:00-20:00"
   },
   "entranceFee": {
     "de": "Schloss €8, Gesamtticket (Schloss+Museen) €15",
     "hu": "Kastély 8 €, kombinált jegy (kastély+múzeumok) 15 €",
     "ro": "Castel 8 €, bilet combinat (castel+muzee) 15 €",
-    "en": "Castle €8, combi ticket (castle+museums) €15"
+    "en": "Castle €8, combi ticket (castle+museums) €15",
+    "tr": "Şato €8, kombi bilet (şato+müzeler) €15"
   },
   "website": "https://www.schloss-nymphenburg.de",
   "publicTransport": {
     "de": "Tram 17 bis Haltestelle Schloss Nymphenburg",
     "hu": "17-es villamos a Schloss Nymphenburg megállóig",
     "ro": "Tramvaiul 17 până la stația Schloss Nymphenburg",
-    "en": "Tram 17 to station Schloss Nymphenburg"
+    "en": "Tram 17 to station Schloss Nymphenburg",
+    "tr": "Tramvay 17 ile Schloss Nymphenburg durağına"
   },
   "parking": {
     "de": "Kostenlose Parkplätze direkt vor dem Schloss (begrenzt)",
     "hu": "Ingyenes parkolóhelyek közvetlenül a kastély előtt (korlátozott)",
     "ro": "Locuri de parcare gratuite chiar în fața castelului (limitate)",
-    "en": "Free parking directly in front of the castle (limited)"
+    "en": "Free parking directly in front of the castle (limited)",
+    "tr": "Şatonun önünde sınırlı sayıda ücretsiz otopark"
   },
   "accessibility": {
     "de": "Schloss mit Aufzug barrierefrei, Parkwege teils Kies",
     "hu": "Kastély lifttel akadálymentes, a parki utak részben kavicsosak",
     "ro": "Castel accesibil cu liftul, aleile parcului parțial pietruite",
-    "en": "Castle accessible with elevator, park paths partly gravel"
+    "en": "Castle accessible with elevator, park paths partly gravel",
+    "tr": "Şato asansörle erişilebilir, park yolları kısmen çakıllı"
   },
   "photoRules": {
     "de": "Im Schloss ohne Blitz/Stativ erlaubt, Park frei",
     "hu": "A kastélyban vaku/állvány nélkül megengedett, a park ingyenes",
     "ro": "Permis în castel fără bliț/trepied, parc gratuit",
-    "en": "Allowed inside the castle without flash/tripod, park free"
+    "en": "Allowed inside the castle without flash/tripod, park free",
+    "tr": "Şatonun içinde flaş/tripod olmadan izinli, park ücretsiz"
   },
   "bestTimeToVisit": {
     "de": "Früh morgens für Spaziergänge im Park ohne Touristenströme",
     "hu": "Korán reggel a parki sétákhoz turistatömegek nélkül",
     "ro": "Devreme dimineața pentru plimbări în parc fără fluxuri de turiști",
-    "en": "Early morning for walks in the park without tourist crowds"
+    "en": "Early morning for walks in the park without tourist crowds",
+    "tr": "Turist kalabalığı olmadan sabah erken park yürüyüşleri için"
   },
   "audioGuide": {
     "de": "de, en, fr, es, it, ru, zh, ja",
     "hu": "német, angol, francia, spanyol, olasz, orosz, kínai, japán",
     "ro": "germană, engleză, franceză, spaniolă, italiană, rusă, chineză, japoneză",
-    "en": "German, English, French, Spanish, Italian, Russian, Chinese, Japanese"
+    "en": "German, English, French, Spanish, Italian, Russian, Chinese, Japanese",
+    "tr": "Almanca, İngilizce, Fransızca, İspanyolca, İtalyanca, Rusça, Çince, Japonca"
   }
 }

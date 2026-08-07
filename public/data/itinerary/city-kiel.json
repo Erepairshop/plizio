@@ -21,7 +21,8 @@
             "de": "Kieler Rathaus",
             "hu": "Kieli Városháza",
             "ro": "Primăria Kiel",
-            "en": "Kiel City Hall"
+            "en": "Kiel City Hall",
+            "tr": "Kiel Belediye Binası"
           },
           "coords": [
             10.132472,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie den ikonischen 106 Meter hohen Turm des Rathauses, der Kiels Skyline prägt, und nehmen Sie an einer Führung zur Aussichtsplattform teil.",
             "hu": "Csodálja meg a városháza Kiel sziluettjét meghatározó, ikonikus tornyát, és vegyen részt egy vezetett túrán a kilátóteraszon a panorámáért.",
             "ro": "Admirați turnul iconic al Primăriei care conturează orizontul orașului Kiel și luați un tur ghidat către platforma de observație pentru vederi panoramice.",
-            "en": "Admire the iconic 106-meter tower of the City Hall that shapes Kiel's skyline, and take a guided tour to the observation deck for panoramic views."
+            "en": "Admire the iconic 106-meter tower of the City Hall that shapes Kiel's skyline, and take a guided tour to the observation deck for panoramic views.",
+            "tr": "Kiel'in siluetini şekillendiren ikonik 106 metrelik Belediye Binası kulesine hayran kalın ve panoramik manzaralar için gözlem güvertesine rehberli turla çıkın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Nikolaikirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nikolai Church"
+            "en": "St. Nikolai Church",
+            "tr": "Aziz Nikolai Kilisesi"
           },
           "coords": [
             10.140175,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie Kiels ältestes Gebäude mit seinem gotischen Innenraum und verpassen Sie nicht die berühmte Bronzeskulptur Geistkämpfer am Eingang.",
             "hu": "Fedezze fel Kiel legrégebbi épületének gótikus belső terét, és ne hagyja ki a főbejáratnál található híres Geistkämpfer bronzszobrot.",
             "ro": "Explorați cea mai veche clădire din Kiel pentru interiorul său gotic și nu ratați faimoasa sculptură Geistkämpfer de la intrarea principală.",
-            "en": "Explore Kiel's oldest standing building to see its Gothic interior, and don't miss the famous bronze sculpture Geistkämpfer at the main entrance."
+            "en": "Explore Kiel's oldest standing building to see its Gothic interior, and don't miss the famous bronze sculpture Geistkämpfer at the main entrance.",
+            "tr": "Kiel'in ayakta kalan en eski yapısını keşfedin, gotik iç mekanını görün ve ana girişteki ünlü bronz heykel Geistkämpfer'i kaçırmayın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schifffahrtsmuseum",
             "hu": "Tengerészeti Múzeum",
             "ro": "Muzeul Maritim",
-            "en": "Maritime Museum"
+            "en": "Maritime Museum",
+            "tr": "Denizcilik Müzesi"
           },
           "coords": [
             10.143675,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie Kiels Marinegeschichte in dieser ehemaligen Fischauktionshalle und gehen Sie nach draußen, um die Museumsschiffe am Pier zu erkunden.",
             "hu": "Fedezze fel a tengerészeti történelmet az egykori halárverési csarnokban, és mindenképpen tegyen egy sétát a mólónál horgonyzó múzeumhajókhoz.",
             "ro": "Descoperiți istoria navală în această fostă hală de pește și asigurați-vă că ieșiți pentru a explora navele muzeu ancorate la debarcader.",
-            "en": "Discover Kiel's rich naval history inside this former fish auction hall, and step outside to explore the vintage museum ships moored right at the pier."
+            "en": "Discover Kiel's rich naval history inside this former fish auction hall, and step outside to explore the vintage museum ships moored right at the pier.",
+            "tr": "Kiel'in zengin deniz tarihini bu eski balık müzayede salonunda keşfedin ve iskelede demirlemiş vintage müze gemilerini dışarıda gezin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kieler Schloss",
             "hu": "Kieli Kastély",
             "ro": "Castelul Kiel",
-            "en": "Kiel Castle"
+            "en": "Kiel Castle",
+            "tr": "Kiel Kalesi"
           },
           "coords": [
             10.1434,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie den erhaltenen Flügel dieses historischen Schlosses und spazieren Sie für eine ruhige Pause durch den friedlichen Innenhof.",
             "hu": "Látogasson el a hercegek egykori kastélyának megmaradt szárnyába, és sétáljon egyet a csendes belső udvarban, ha egy kis nyugalomra vágyik.",
             "ro": "Vizitați aripa rămasă a acestui castel istoric și plimbați-vă prin curtea interioară liniștită pentru o pauză relaxantă de la agitația orașului.",
-            "en": "Visit the remaining wing of this historic castle, and walk around the quiet inner courtyard for a peaceful break from the bustling city streets."
+            "en": "Visit the remaining wing of this historic castle, and walk around the quiet inner courtyard for a peaceful break from the bustling city streets.",
+            "tr": "Bu tarihi kalenin kalan kanadını ziyaret edin ve hareketli şehir sokaklarından uzak, sakin iç avluda yürüyün."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kunsthalle zu Kiel",
             "hu": "Kieli Műcsarnok",
             "ro": "Galeria de Artă Kiel",
-            "en": "Kunsthalle zu Kiel"
+            "en": "Kunsthalle zu Kiel",
+            "tr": "Kunsthalle zu Kiel"
           },
           "coords": [
             10.146111,
@@ -128,7 +137,8 @@
             "de": "Tauchen Sie ein in eine bemerkenswerte Sammlung europäischer Kunst und schauen Sie sich unbedingt die Antikensammlung im Erdgeschoss an.",
             "hu": "Merüljön el az európai művészet lenyűgöző gyűjteményében, és feltétlenül tekintse meg a csodálatos antik szoborcsarnokot a földszinten.",
             "ro": "Cufundați-vă într-o colecție de artă europeană și asigurați-vă că vizitați uluitoarea sală de sculpturi antice situată chiar la parter.",
-            "en": "Immerse yourself in a remarkable collection of European art, and be sure to check out the stunning antique sculpture hall on the ground floor."
+            "en": "Immerse yourself in a remarkable collection of European art, and be sure to check out the stunning antique sculpture hall on the ground floor.",
+            "tr": "Olağanüstü bir Avrupa sanat koleksiyonuna dalın ve zemin kattaki etkileyici antik heykel salonunu mutlaka görün."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Aquarium Kiel",
             "hu": "Kieli Akvárium",
             "ro": "Acvariul Kiel",
-            "en": "Aquarium Kiel"
+            "en": "Aquarium Kiel",
+            "tr": "Kiel Akvaryumu"
           },
           "coords": [
             10.148361,
@@ -151,7 +162,8 @@
             "de": "Erleben Sie die Unterwasserwelt der Ost- und Nordsee und versuchen Sie, Ihren Besuch auf die unterhaltsamen Seehundfütterungen im Freien abzustimmen.",
             "hu": "Tapasztalja meg a tenger változatos víz alatti világát, és próbálja úgy időzíteni a látogatását, hogy megnézhesse a szabadtéri fókákatések egyikét.",
             "ro": "Experimentați viața subacvatică din Marea Baltică și încercați să vă programați vizita pentru a urmări sesiunile distractive de hrănire a focilor.",
-            "en": "Experience the diverse underwater life of the Baltic Sea, and try to time your visit to watch the entertaining outdoor seal feeding sessions."
+            "en": "Experience the diverse underwater life of the Baltic Sea, and try to time your visit to watch the entertaining outdoor seal feeding sessions.",
+            "tr": "Baltık Denizi'nin çeşitli su altı yaşamını deneyimleyin ve açık alandaki eğlenceli fok besleme seanslarını izlemeye zaman ayırmaya çalışın."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Morgen: Beginnen Sie am ikonischen Kieler Rathaus und bewundern Sie den Turm, bevor Sie zur historischen Nikolaikirche gehen.\n\nMittag: Tauchen Sie im Schifffahrtsmuseum in die Marinegeschichte ein und ruhen Sie sich dann am Kieler Schloss aus.\n\nNachmittag: Erkunden Sie europäische Meisterwerke in der Kunsthalle.\n\nAbend: Schließen Sie Ihren Spaziergang mit dem Ostseeleben im Aquarium Kiel ab.",
         "hu": "Reggel: Kezdje az ikonikus kieli városházánál, majd induljon a történelmi Szent Miklós-templom felé.\n\nDélben: Merüljön el a történelemben a Tengerészeti Múzeumban, majd pihenjen meg a Kieli Kastélynál.\n\nDélután: Fedezze fel az európai remekműveket a Kunsthalle épületében.\n\nEste: A sétát a Balti-tenger élővilágának felfedezésével zárhatja az Akváriumban.",
         "ro": "Dimineața: Începeți la emblematica Primărie, admirând turnul înainte de a vă îndrepta spre biserica Sf. Nicolae.\n\nPrânz: Pătrundeți în istoria navală la Muzeul Maritim, apoi odihniți-vă la rămășițele Castelului Kiel.\n\nDupă-amiază: Explorați capodoperele europene la Galeria de Artă Kunsthalle.\n\nSeara: Încheiați plimbarea cu viața Mării Baltice la Acvariul Kiel, pe măsură ce se lasă amurgul.",
-        "en": "Morning: Begin at the iconic Kiel City Hall, admiring its tower before heading to the historic St. Nikolai Church.\n\nMidday: Dive into naval history at the Maritime Museum, then rest at Kiel Castle's peaceful remains.\n\nAfternoon: Explore beautiful European art masterpieces at the Kunsthalle.\n\nEvening: Conclude your walk with Baltic Sea life at Aquarium Kiel as twilight settles over the coast."
+        "en": "Morning: Begin at the iconic Kiel City Hall, admiring its tower before heading to the historic St. Nikolai Church.\n\nMidday: Dive into naval history at the Maritime Museum, then rest at Kiel Castle's peaceful remains.\n\nAfternoon: Explore beautiful European art masterpieces at the Kunsthalle.\n\nEvening: Conclude your walk with Baltic Sea life at Aquarium Kiel as twilight settles over the coast.",
+        "tr": "Sabah: İkonik Kiel Belediye Binası'nda başlayın, kulesine hayran kalın ve sonra tarihi Aziz Nikolai Kilisesi'ne gidin.\n\nÖğle: Denizcilik Müzesi'nde deniz tarihine dalın, ardından Kiel Kalesi'nin huzurlu kalıntılarında dinlenin.\n\nÖğleden sonra: Kunsthalle'de güzel Avrupa sanat başyapıtlarını keşfedin.\n\nAkşam: Gün batarken kıyıda yürürken Aquarium Kiel'de Baltık Denizi yaşamıyla turu sonlandırın."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Ein verregneter Vormittag am Rathausplatz beginnt mit dem Blick auf den markanten Turm, bevor man Schutz in der nahen Nikolaikirche sucht. Mittags bietet das Schifffahrtsmuseum im alten Fischauktionshaus perfekten trockenen Unterschlupf. Nachmittags führen kurze Wege zwischen Kunsthalle und Aquarium durch den Nieselregen. Der Abend klingt gemütlich in den beleuchteten Gassen der Altstadt aus.",
             "hu": "A kieli városházánál kezdjük az esős reggelt, ahol a díszes homlokzatot a kapualjak védelméből csodálhatjuk meg. Délben a Tengerészeti Múzeum hatalmas csarnoka nyújt tökéletes menedéket a záporok elől. Délután a Műcsarnok és az Akvárium fedett terei között csak rövid sétákra van szükség. Estére a kikötő környéki fények a víztükrön és a vizes aszfalton is gyönyörűen csillognak.",
             "ro": "O dimineață ploioasă la Primărie începe cu admirarea turnului din zonele acoperite, urmată de un refugiu în Biserica Sf. Nicolae. La prânz, Muzeul Maritim oferă adăpostul perfect în vechea hală de pește. După-amiaza, distanțele scurte între Galeria de Artă și Acvariu minimizează expunerea la ploaie. Seara se încheie confortabil în interior, privind luminile orașului reflectate pe trotuarul ud.",
-            "en": "A rainy morning at City Hall starts with views of the tower from sheltered spots before heading to St. Nikolai Church. At noon, the Maritime Museum provides the perfect indoor escape within its historic walls. In the afternoon, the short walks between the Kunsthalle and Aquarium keep you mostly dry. The evening ends with the cozy glow of city lights reflecting on the damp harbor streets."
+            "en": "A rainy morning at City Hall starts with views of the tower from sheltered spots before heading to St. Nikolai Church. At noon, the Maritime Museum provides the perfect indoor escape within its historic walls. In the afternoon, the short walks between the Kunsthalle and Aquarium keep you mostly dry. The evening ends with the cozy glow of city lights reflecting on the damp harbor streets.",
+            "tr": "Yağmurlu bir sabah Belediye Binası'nda, kule manzaralarını korunaklı noktalardan izlemekle başlar, sonra Aziz Nikolai Kilisesi'ne gidilir. Öğle vakti, Denizcilik Müzesi tarihi duvarları içinde mükemmel bir kapalı kaçamak sağlar. Öğleden sonra Kunsthalle ile Akvaryum arasındaki kısa yürüyüşler sizi büyük ölçüde kuru tutar. Akşam, ıslak liman sokaklarında şehir ışıklarının sıcak parıltısıyla sona erer."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Kieler Rathaus",
                 "hu": "Kieli Városháza",
                 "ro": "Primăria Kiel",
-                "en": "Kiel City Hall"
+                "en": "Kiel City Hall",
+                "tr": "Kiel Belediye Binası"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Architektur vom trockenen Foyer aus und nutzen Sie den Paternosteraufzug, um das Gebäude wettergeschützt zu erkunden.",
                 "hu": "Csodálja meg az épület belső tereit és próbálja ki a különleges páternosztert, így az eső elől menekülve is felfedezheti a városházát.",
                 "ro": "Admirați arhitectura din foierul uscat și folosiți liftul paternoster pentru a explora clădirea fără a vă expune ploii de afară.",
-                "en": "Admire the architecture from the dry foyer and try the unique paternoster elevator to explore the building while staying protected from the rain."
+                "en": "Admire the architecture from the dry foyer and try the unique paternoster elevator to explore the building while staying protected from the rain.",
+                "tr": "Kuru fuayeden mimariye hayran kalın ve yağmurdan korunarak binayı keşfetmek için benzersiz paternoster asansörü deneyin."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Nikolaikirche",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sf. Nicolae",
-                "en": "St. Nikolai Church"
+                "en": "St. Nikolai Church",
+                "tr": "Aziz Nikolai Kilisesi"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen ruhigen Rückzugsort vor dem Regen; bewundern Sie den 'Geistkämpfer' von Ernst Barlach im geschützten Eingangsbereich.",
                 "hu": "A templom csendes menedéket nyújt a záporok elől; nézze meg Ernst Barlach híres szobrát a védett bejárati résznél.",
                 "ro": "Biserica oferă un refugiu liniștit împotriva ploii; admirați sculptura lui Ernst Barlach în zona protejată a intrării.",
-                "en": "The church offers a peaceful retreat from the rain; admire Ernst Barlach's famous sculpture in the sheltered entrance area."
+                "en": "The church offers a peaceful retreat from the rain; admire Ernst Barlach's famous sculpture in the sheltered entrance area.",
+                "tr": "Kilise yağmurdan kaçmak için huzurlu bir sığınak sunar; korunaklı giriş alanında Ernst Barlach'ın ünlü heykelini inceleyin."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Schifffahrtsmuseum",
                 "hu": "Tengerészeti Múzeum",
                 "ro": "Muzeul Maritim",
-                "en": "Maritime Museum"
+                "en": "Maritime Museum",
+                "tr": "Denizcilik Müzesi"
               },
               "tip_5lang": {
                 "de": "In der ehemaligen Fischauktionshalle bleiben Sie garantiert trocken, während Sie die beeindruckenden Schiffsmodelle und Exponate studieren.",
                 "hu": "Az egykori halárverési csarnokban garantáltan szárazon maradhat, miközben az impozáns hajómodelleket és kiállítási tárgyakat böngészi.",
                 "ro": "În fosta hală de licitații de pește veți rămâne garantat uscat în timp ce studiați modelele impresionante de nave și exponatele.",
-                "en": "In the former fish auction hall, you are guaranteed to stay dry while studying the impressive ship models and maritime exhibits."
+                "en": "In the former fish auction hall, you are guaranteed to stay dry while studying the impressive ship models and maritime exhibits.",
+                "tr": "Eski balık müzayede salonunda etkileyici gemi modellerini ve denizcilik eserlerini incelerken kuru kalacağınızdan emin olabilirsiniz."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Kieler Schloss",
                 "hu": "Kieli Kastély",
                 "ro": "Castelul Kiel",
-                "en": "Kiel Castle"
+                "en": "Kiel Castle",
+                "tr": "Kiel Kalesi"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das moderne Kulturzentrum im Schlossflügel, um Ausstellungen ohne Regenschirm genießen zu können.",
                 "hu": "Látogasson el a kastélyszárny modern kulturális központjába, ahol esernyő nélkül is élvezheti az aktuális kiállításokat.",
                 "ro": "Vizitați centrul cultural modern din aripa castelului pentru a vă bucura de expoziții fără a avea nevoie de umbrelă.",
-                "en": "Visit the modern cultural center in the castle wing to enjoy exhibitions without needing to carry an umbrella around."
+                "en": "Visit the modern cultural center in the castle wing to enjoy exhibitions without needing to carry an umbrella around.",
+                "tr": "Kale kanadındaki modern kültür merkezini ziyaret ederek sergilerin keyfini şemsiyesiz çıkarabilirsiniz."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Kunsthalle zu Kiel",
                 "hu": "Kieli Műcsarnok",
                 "ro": "Galeria de Artă Kiel",
-                "en": "Kunsthalle zu Kiel"
+                "en": "Kunsthalle zu Kiel",
+                "tr": "Kunsthalle zu Kiel"
               },
               "tip_5lang": {
                 "de": "Das Museumscafé bietet durch die großen Glasfronten einen dramatischen Blick auf die verregnete Förde bei einem heißen Getränk.",
                 "hu": "A múzeum kávézójának hatalmas üvegablakai mögül egy forró ital mellett csodálhatja meg az eső áztatta öböl drámai látványát.",
                 "ro": "Cafeneaua muzeului oferă prin ferestrele mari de sticlă o vedere dramatică asupra fiordului plouat, alături de o băutură caldă.",
-                "en": "The museum café offers dramatic views of the rainy fjord through its large glass windows while you enjoy a hot beverage."
+                "en": "The museum café offers dramatic views of the rainy fjord through its large glass windows while you enjoy a hot beverage.",
+                "tr": "Müze kafesi, büyük cam pencerelerinden yağmurlu fjordu izlerken sıcak bir içeceğin tadını çıkarmanız için çarpıcı manzaralar sunar."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Aquarium Kiel",
                 "hu": "Kieli Akvárium",
                 "ro": "Acvariul Kiel",
-                "en": "Aquarium Kiel"
+                "en": "Aquarium Kiel",
+                "tr": "Aquarium Kiel"
               },
               "tip_5lang": {
                 "de": "Die Innenbecken sind das ideale Ziel bei Schietwetter; beobachten Sie die Fische, während es draußen stürmt.",
                 "hu": "A beltéri medencék ideális célpontot jelentenek rossz időben; figyelje meg a halakat, miközben kint tombol a vihar.",
                 "ro": "Bazinele interioare sunt destinația ideală pe vreme rea; observați peștii în timp ce afară plouă torențial.",
-                "en": "The indoor tanks are the ideal destination for bad weather; watch the fish peacefully while it storms outside."
+                "en": "The indoor tanks are the ideal destination for bad weather; watch the fish peacefully while it storms outside.",
+                "tr": "Kapalı akvaryum tankları kötü hava için ideal; dışarı fırtına koparken balıkları huzur içinde izleyin."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frostiger Morgen beginnt am Rathausplatz, wo die klare Winterluft die Sicht schärft. Mittags wärmt man sich in der Nikolaikirche oder im Schifffahrtsmuseum auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollte man die Kunsthalle am frühen Nachmittag besuchen. Der Abend wird früh dunkel, was die beleuchtete Kiellinie und das Aquarium besonders stimmungsvoll macht.",
             "hu": "A jeges téli reggel a városházánál indul, ahol a csípős északi szél ellen meleg ruházatra lesz szükség. Délben a templom és a múzeumok belső tereiben melegedhetünk fel. Mivel a nap már 17 óra körül lemegy, a Műcsarnokot érdemes kora délutánra időzíteni. A korai sötétedés után az Akvárium fényei és a kikötő esti hangulata zárja a napot.",
             "ro": "O dimineață geroasă începe la Primărie, unde aerul curat de iarnă ascute privirea asupra detaliilor arhitecturale. La prânz, ne încălzim în biserică sau în muzee. Deoarece soarele apune deja în jurul orei 17:00, vizitați galeria de artă devreme. Seara se lasă repede, transformând portul într-un spectacol de lumini de iarnă.",
-            "en": "A frosty winter morning starts at City Hall, where the crisp Baltic air sharpens the views. Warm up at noon inside the church or the Maritime Museum. Since the sun sets around 5:00 PM, aim to visit the Kunsthalle in the early afternoon. As darkness falls early, the illuminated harbor and the Aquarium take on a special, cozy winter atmosphere."
+            "en": "A frosty winter morning starts at City Hall, where the crisp Baltic air sharpens the views. Warm up at noon inside the church or the Maritime Museum. Since the sun sets around 5:00 PM, aim to visit the Kunsthalle in the early afternoon. As darkness falls early, the illuminated harbor and the Aquarium take on a special, cozy winter atmosphere.",
+            "tr": "Buzlu bir kış sabahı Belediye Binası'nda başlar; keskin Baltık havası manzaraları netleştirir. Öğlen kilise ya da Denizcilik Müzesi'nde ısının. Güneş yaklaşık 17:00 civarında battığından, Kunsthalle'yi öğleden sonra erken saatlerde ziyaret etmeye çalışın. Hava erken karardığı için ışıklandırılmış liman ve Akvaryum kışın özel, samimi bir atmosfere bürünür."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Kieler Rathaus",
                 "hu": "Kieli Városháza",
                 "ro": "Primăria Kiel",
-                "en": "Kiel City Hall"
+                "en": "Kiel City Hall",
+                "tr": "Kiel Belediye Binası"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe für den Blick auf den Turm; im Winter ist der Platz oft festlich beleuchtet.",
                 "hu": "Viseljen meleg kesztyűt a torony megtekintéséhez; télen a tér gyakran ünnepi díszkivilágítást kap.",
                 "ro": "Purtați mănuși groase pentru a admira turnul; iarna, piața este adesea iluminată festiv.",
-                "en": "Wear warm gloves while admiring the tower; in winter, the square is often festively illuminated."
+                "en": "Wear warm gloves while admiring the tower; in winter, the square is often festively illuminated.",
+                "tr": "Kulenin tadını çıkarırken sıcak eldiven giyin; kışın meydan sık sık süslü ışıklarla donatılır."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Nikolaikirche",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sf. Nicolae",
-                "en": "St. Nikolai Church"
+                "en": "St. Nikolai Church",
+                "tr": "St. Nikolai Kilisesi"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern halten die Kälte ab; nutzen Sie die Stille für eine kurze Aufwärmpause im historischen Kirchenschiff.",
                 "hu": "A vastag falak távol tartják a hideget; használja ki a csendet egy rövid melegedő pihenőre a történelmi hajóban.",
                 "ro": "Zidurile groase țin frigul la distanță; profitați de liniște pentru o scurtă pauză de încălzire în naosul istoric.",
-                "en": "The thick walls keep the chill away; use the silence for a brief warming break inside the historic nave."
+                "en": "The thick walls keep the chill away; use the silence for a brief warming break inside the historic nave.",
+                "tr": "Kalın duvarlar soğuğu uzak tutar; tarihi naos içinde kısa bir ısınma molası verin."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Schifffahrtsmuseum",
                 "hu": "Tengerészeti Múzeum",
                 "ro": "Muzeul Maritim",
-                "en": "Maritime Museum"
+                "en": "Maritime Museum",
+                "tr": "Denizcilik Müzesi"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die maritime Geschichte in den beheizten Räumen und lassen Sie den eisigen Wind der Förde kurzzeitig hinter sich.",
                 "hu": "Élvezze a tengerészeti történelmet a fűtött termekben, és hagyja maga mögött egy időre az öböl jeges szelét.",
                 "ro": "Bucurați-vă de istoria maritimă în sălile încălzite și lăsați în urmă, pentru scurt timp, vântul înghețat al fiordului.",
-                "en": "Enjoy maritime history in the heated rooms and leave the icy wind of the fjord behind for a while."
+                "en": "Enjoy maritime history in the heated rooms and leave the icy wind of the fjord behind for a while.",
+                "tr": "Isıtmalı salonlarda denizcilik tarihinin keyfini çıkarın ve fiyordun buz gibi rüzgârını bir süre geride bırakın."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Kieler Schloss",
                 "hu": "Kieli Kastély",
                 "ro": "Castelul Kiel",
-                "en": "Kiel Castle"
+                "en": "Kiel Castle",
+                "tr": "Kiel Kalesi"
               },
               "tip_5lang": {
                 "de": "Die modernen Glasanbauten wirken im bläulichen Winterlicht besonders kühl und elegant; perfekt für ein schnelles Foto vor Sonnenuntergang.",
                 "hu": "A modern üvegszárnyak a kékes téli fényben különösen elegánsak; tökéletes egy gyors fotóhoz a korai naplemente előtt.",
                 "ro": "Extensiile moderne de sticlă par deosebit de elegante în lumina albăstruie de iarnă; ideal pentru o fotografie rapidă înainte de apus.",
-                "en": "The modern glass sections look particularly elegant in the bluish winter light; perfect for a quick photo before sunset."
+                "en": "The modern glass sections look particularly elegant in the bluish winter light; perfect for a quick photo before sunset.",
+                "tr": "Modern cam bölümler mavimsi kış ışığında özellikle zarif görünür; gün batımından önce hızlı bir fotoğraf için ideal."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Kunsthalle zu Kiel",
                 "hu": "Kieli Műcsarnok",
                 "ro": "Galeria de Artă Kiel",
-                "en": "Kunsthalle zu Kiel"
+                "en": "Kunsthalle zu Kiel",
+                "tr": "Kunsthalle zu Kiel"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ausstellungen spätestens um 15 Uhr, um das natürliche Licht in den Galerien vor der frühen Dämmerung zu nutzen.",
                 "hu": "Látogasson el a kiállításokra legkésőbb 15 órakor, hogy a korai sötétedés előtt még természetes fénynél láthassa a műveket.",
                 "ro": "Vizitați expozițiile cel târziu la ora 15:00 pentru a profita de lumina naturală din galerii înainte de amurgul timpuriu.",
-                "en": "Visit the galleries by 3:00 PM at the latest to make use of the natural light before the early winter dusk sets in."
+                "en": "Visit the galleries by 3:00 PM at the latest to make use of the natural light before the early winter dusk sets in.",
+                "tr": "Erken kış alacakaranlığı gelmeden doğal ışıktan yararlanmak için en geç 15:00'e kadar galerileri ziyaret edin."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Aquarium Kiel",
                 "hu": "Kieli Akvárium",
                 "ro": "Acvariul Kiel",
-                "en": "Aquarium Kiel"
+                "en": "Aquarium Kiel",
+                "tr": "Aquarium Kiel"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Seehunde im Außenbecken bei der Fütterung; die winterliche Kälte macht den Tieren gar nichts aus.",
                 "hu": "Figyelje meg a fókákat a külső medencénél etetéskor; a téli hideg egyáltalán nem zavarja ezeket a tengeri emlősöket.",
                 "ro": "Observați focile în bazinul exterior în timpul hrănirii; frigul iernii nu deranjează deloc aceste animale marine.",
-                "en": "Watch the seals in the outdoor pool during feeding time; the winter cold doesn't bother these marine animals at all."
+                "en": "Watch the seals in the outdoor pool during feeding time; the winter cold doesn't bother these marine animals at all.",
+                "tr": "Dış havuzdaki fokları beslenme saatinde izleyin; kış soğuğu bu deniz hayvanlarını hiç rahatsız etmez."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Kieler Rathaus",
             "hu": "Kieli Városháza",
             "ro": "Primăria Kiel",
-            "en": "Kiel City Hall"
+            "en": "Kiel City Hall",
+            "tr": "Kiel Belediye Binası"
           },
           "coords": [
             10.132472,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie den ikonischen 106 Meter hohen Turm des Rathauses, der Kiels Skyline prägt, und nehmen Sie an einer Führung zur Aussichtsplattform teil.",
             "hu": "Csodálja meg a városháza Kiel sziluettjét meghatározó, ikonikus tornyát, és vegyen részt egy vezetett túrán a kilátóteraszon a panorámáért.",
             "ro": "Admirați turnul iconic al Primăriei care conturează orizontul orașului Kiel și luați un tur ghidat către platforma de observație pentru vederi panoramice.",
-            "en": "Admire the iconic 106-meter tower of the City Hall that shapes Kiel's skyline, and take a guided tour to the observation deck for panoramic views."
+            "en": "Admire the iconic 106-meter tower of the City Hall that shapes Kiel's skyline, and take a guided tour to the observation deck for panoramic views.",
+            "tr": "Kiel silüetini şekillendiren ikonik 106 metrelik Belediye Binası kulesini hayranlıkla izleyin ve panoramik manzaralar için rehberli bir turla seyir terasına çıkın."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Nikolaikirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nikolai Church"
+            "en": "St. Nikolai Church",
+            "tr": "St. Nikolai Kilisesi"
           },
           "coords": [
             10.140175,
@@ -403,7 +445,8 @@
             "de": "Erkunden Sie Kiels ältestes Gebäude mit seinem gotischen Innenraum und verpassen Sie nicht die berühmte Bronzeskulptur Geistkämpfer am Eingang.",
             "hu": "Fedezze fel Kiel legrégebbi épületének gótikus belső terét, és ne hagyja ki a főbejáratnál található híres Geistkämpfer bronzszobrot.",
             "ro": "Explorați cea mai veche clădire din Kiel pentru interiorul său gotic și nu ratați faimoasa sculptură Geistkämpfer de la intrarea principală.",
-            "en": "Explore Kiel's oldest standing building to see its Gothic interior, and don't miss the famous bronze sculpture Geistkämpfer at the main entrance."
+            "en": "Explore Kiel's oldest standing building to see its Gothic interior, and don't miss the famous bronze sculpture Geistkämpfer at the main entrance.",
+            "tr": "Kiel'in ayakta kalan en eski binasını ziyarete gidin, Gotik iç mekânını görün ve ana girişteki ünlü bronz heykel Geistkämpfer'i kaçırmayın."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Schifffahrtsmuseum",
             "hu": "Tengerészeti Múzeum",
             "ro": "Muzeul Maritim",
-            "en": "Maritime Museum"
+            "en": "Maritime Museum",
+            "tr": "Denizcilik Müzesi"
           },
           "coords": [
             10.143675,
@@ -426,7 +470,8 @@
             "de": "Entdecken Sie Kiels Marinegeschichte in dieser ehemaligen Fischauktionshalle und gehen Sie nach draußen, um die Museumsschiffe am Pier zu erkunden.",
             "hu": "Fedezze fel a tengerészeti történelmet az egykori halárverési csarnokban, és mindenképpen tegyen egy sétát a mólónál horgonyzó múzeumhajókhoz.",
             "ro": "Descoperiți istoria navală în această fostă hală de pește și asigurați-vă că ieșiți pentru a explora navele muzeu ancorate la debarcader.",
-            "en": "Discover Kiel's rich naval history inside this former fish auction hall, and step outside to explore the vintage museum ships moored right at the pier."
+            "en": "Discover Kiel's rich naval history inside this former fish auction hall, and step outside to explore the vintage museum ships moored right at the pier.",
+            "tr": "Bu eski balık ihale salonunda Kiel'in zengin denizcilik tarihini keşfedin ve iskeleyi süsleyen nostaljik müze gemilerini dışarıda gezmeyi ihmal etmeyin."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Aquarium Kiel",
             "hu": "Kieli Akvárium",
             "ro": "Acvariul Kiel",
-            "en": "Aquarium Kiel"
+            "en": "Aquarium Kiel",
+            "tr": "Aquarium Kiel"
           },
           "coords": [
             10.148361,
@@ -449,7 +495,8 @@
             "de": "Erleben Sie die Unterwasserwelt der Ost- und Nordsee und versuchen Sie, Ihren Besuch auf die unterhaltsamen Seehundfütterungen im Freien abzustimmen.",
             "hu": "Tapasztalja meg a tenger változatos víz alatti világát, és próbálja úgy időzíteni a látogatását, hogy megnézhesse a szabadtéri fókákatések egyikét.",
             "ro": "Experimentați viața subacvatică din Marea Baltică și încercați să vă programați vizita pentru a urmări sesiunile distractive de hrănire a focilor.",
-            "en": "Experience the diverse underwater life of the Baltic Sea, and try to time your visit to watch the entertaining outdoor seal feeding sessions."
+            "en": "Experience the diverse underwater life of the Baltic Sea, and try to time your visit to watch the entertaining outdoor seal feeding sessions.",
+            "tr": "Baltık Denizi'nin çeşitli su altı yaşamını deneyimleyin ve ziyaretinizi eğlenceli açık hava fok besleme seanslarına denk getirmeye çalışın."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Kiellinie",
             "hu": "Kiellinie Sétány",
             "ro": "Promenada Kiellinie",
-            "en": "Kiellinie Promenade"
+            "en": "Kiellinie Promenade",
+            "tr": "Kiellinie Promenade"
           },
           "coords": [
             10.153642,
@@ -472,7 +520,8 @@
             "de": "Schlendern Sie die Uferpromenade entlang, um den Hafen zu genießen, und holen Sie sich ein Fischbrötchen von einem der lokalen Verkäufer am Ufer.",
             "hu": "Sétáljon végig a vízparti sétányon, élvezze a kikötőre nyíló kilátást, és kóstoljon meg egy friss halas szendvicset a part menti árusoknál.",
             "ro": "Plimbați-vă de-a lungul promenadei de la malul mării pentru a vă bucura de port și luați un sandviș cu pește de la vânzătorii locali.",
-            "en": "Stroll along the waterfront promenade to enjoy harbor views, and grab a freshly made fish sandwich from one of the many local vendors dotting the shoreline."
+            "en": "Stroll along the waterfront promenade to enjoy harbor views, and grab a freshly made fish sandwich from one of the many local vendors dotting the shoreline.",
+            "tr": "Sahil boyunca yürüyerek liman manzaralarının tadını çıkarın ve kıyı boyunca dizilmiş yerel satıcılardan birinden taze yapılmış balık sandviçi kapın."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus Kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanik Bahçesi"
           },
           "coords": [
             10.11719,
@@ -495,7 +545,8 @@
             "de": "Schlendern Sie durch diese Oase mit exotischen Pflanzenarten und tragen Sie bequeme Schuhe, um die weitläufigen Arboretumwege zu erkunden.",
             "hu": "Barangoljon a lenyűgöző üvegházakat felvonultató oázisban, és viseljen kényelmes cipőt a hatalmas arborétumi ösvények bejárásához.",
             "ro": "Plimbați-vă prin această oază verde care găzduiește plante exotice și purtați pantofi confortabili pentru a explora aleile arboretumului.",
-            "en": "Wander through this expansive green oasis featuring exotic plant species, and wear comfortable walking shoes to fully explore the extensive arboretum paths."
+            "en": "Wander through this expansive green oasis featuring exotic plant species, and wear comfortable walking shoes to fully explore the extensive arboretum paths.",
+            "tr": "Egzotik bitki türleriyle dolu bu geniş yeşil vaha içinde dolaşın ve kapsamlı arboretum yollarını tam anlamıyla keşfetmek için rahat yürüyüş ayakkabıları giyin."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Morgen: Radeln Sie vom Rathaus ins Herz der Altstadt und halten Sie an der historischen Nikolaikirche.\n\nMittag: Fahren Sie am Wasser entlang zum Schifffahrtsmuseum und dann zum Aquarium Kiel.\n\nNachmittag: Genießen Sie eine luftige Fahrt an der Küste entlang der berühmten Kiellinie mit Blick auf den Hafen.\n\nAbend: Entfliehen Sie zum Botanischen Garten und entspannen Sie sich zwischen den Pflanzen.",
         "hu": "Reggel: Kerékpározzon a fenséges Városházától az óváros szívébe, és álljon meg a Szent Miklós-templomnál.\n\nDélben: Tekerjen a víz mentén a Tengerészeti Múzeumhoz, majd az Akváriumhoz.\n\nDélután: Élvezze a tengerparti utat a híres Kiellinie sétányon, és csodálja meg a kikötőt.\n\nEste: Meneküljön el a Botanikus Kertbe, és pihenjen az egzotikus növények között, ahogy a nap véget ér.",
         "ro": "Dimineața: Pedalați de la măreața Primărie în inima orașului vechi, oprindu-vă la biserica istorică Sf. Nicolae.\n\nPrânz: Mergeți de-a lungul apei până la Muzeul Maritim, apoi la Acvariu.\n\nDupă-amiază: Bucurați-vă de o plimbare de-a lungul Promenadei Kiellinie, admirând portul.\n\nSeara: Evadați în Grădina Botanică, relaxându-vă printre plantele exotice la finalul zilei.",
-        "en": "Morning: Cycle from the majestic City Hall into the heart of the old town, stopping at the historic St. Nikolai Church.\n\nMidday: Ride along the water to the Maritime Museum, then pedal to Aquarium Kiel, balancing history with science.\n\nAfternoon: Enjoy a breezy coastal ride along the famous Kiellinie Promenade, taking in harbor views.\n\nEvening: Escape to the Botanical Garden to unwind among exotic plants."
+        "en": "Morning: Cycle from the majestic City Hall into the heart of the old town, stopping at the historic St. Nikolai Church.\n\nMidday: Ride along the water to the Maritime Museum, then pedal to Aquarium Kiel, balancing history with science.\n\nAfternoon: Enjoy a breezy coastal ride along the famous Kiellinie Promenade, taking in harbor views.\n\nEvening: Escape to the Botanical Garden to unwind among exotic plants.",
+        "tr": "Sabah: Görkemli Belediye Binası'ndan eski şehrin kalbine bisikletle gidin, tarihi St. Nikolai Kilisesi'nde duraklayın.\n\nÖğle: Deniz kenarı boyunca Denizcilik Müzesi'ne sürün, sonra tarih ile bilimi dengelemek için Aquarium Kiel'e pedal çevirin.\n\nÖğleden sonra: Ünlü Kiellinie Promenade boyunca rüzgârlı bir kıyı sürüşünün tadını çıkarın ve liman manzaralarını seyredin.\n\nAkşam: Egzotik bitkiler arasında gevşemek için Botanik Bahçesi'ne kaçış yapın."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Radfahren in Kiel bei Regen erfordert gute Kleidung und Vorsicht auf rutschigen Hafenwegen. Morgens geht es vom Rathaus zur Nikolaikirche, wobei man Kopfsteinpflaster meiden sollte. Mittags bietet das Schifffahrtsmuseum eine Pause im Trockenen. Nachmittags führt die Fahrt entlang der Kiellinie zum Aquarium, wobei die Gischt der Förde den Regen fast vergessen lässt.",
             "hu": "Az esős kieli biciklizés jó felszerelést és óvatosságot igényel a csúszós kikötői utakon. Reggel a Városházától a templomig tekerünk, kerülve a síkos macskaköveket. Délben a Tengerészeti Múzeumban tarthatunk száraz szünetet. Délután a Kiellinie mentén az Akvárium felé vesszük az irányt, ahol az öböl hullámai közt az eső is más hangulatot áraszt.",
             "ro": "Ciclismul în Kiel pe ploaie necesită echipament bun și prudență pe pistele alunecoase din port. Dimineața pedalăm de la Primărie la biserică, evitând pavajul ud. La prânz, Muzeul Maritim oferă o pauză binemeritată la adăpost. După-amiaza, drumul pe Kiellinie spre Acvariu este spectaculos chiar și sub stropii de ploaie.",
-            "en": "Cycling in Kiel in the rain requires good gear and caution on slippery harbor paths. In the morning, ride from City Hall to St. Nikolai, avoiding slick cobblestones. At noon, the Maritime Museum offers a welcome dry break. In the afternoon, the ride along Kiellinie toward the Aquarium makes the rain feel like part of the authentic Baltic experience."
+            "en": "Cycling in Kiel in the rain requires good gear and caution on slippery harbor paths. In the morning, ride from City Hall to St. Nikolai, avoiding slick cobblestones. At noon, the Maritime Museum offers a welcome dry break. In the afternoon, the ride along Kiellinie toward the Aquarium makes the rain feel like part of the authentic Baltic experience.",
+            "tr": "Kiel'de yağmurda bisiklet sürmek iyi ekipman ve kaygan liman yollarında dikkat gerektirir. Sabah Belediye Binası'ndan St. Nikolai'ye sürün, kaygan kaldırım taşlarından kaçının. Öğlen Denizcilik Müzesi kuru bir mola sunar. Öğleden sonra Kiellinie boyunca Akvaryum'a yapılan sürüş, yağmuru otantik Baltık deneyiminin bir parçası gibi hissettirir."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Kieler Rathaus",
                 "hu": "Kieli Városháza",
                 "ro": "Primăria Kiel",
-                "en": "Kiel City Hall"
+                "en": "Kiel City Hall",
+                "tr": "Kiel Belediye Binası"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an den überdachten Ständern und nutzen Sie den Turmblick als kurzen Stopp, bevor der nächste Schauer kommt.",
                 "hu": "Parkoljon a fedett tárolóknál, és használja ki a városházi megállót egy rövid pihenőre a következő zápor előtt.",
                 "ro": "Parcați bicicleta la suporturile acoperite și profitați de oprirea la Primărie pentru un scurt răgaz înainte de următoarea ploaie.",
-                "en": "Park your bike at the covered racks and use the City Hall stop as a quick break before the next shower arrives."
+                "en": "Park your bike at the covered racks and use the City Hall stop as a quick break before the next shower arrives.",
+                "tr": "Bisikletinizi kapalı parklara kilitleyin ve bir sonraki yağmurdan önce kısa bir mola için Belediye Binası durağını kullanın."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Nikolaikirche",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sf. Nicolae",
-                "en": "St. Nikolai Church"
+                "en": "St. Nikolai Church",
+                "tr": "St. Nikolai Kilisesi"
               },
               "tip_5lang": {
                 "de": "Vorsicht beim Absteigen auf dem nassen Kirchplatz; das Innere der Kirche ist der perfekte Ort, um kurz die Regenjacke zu lüften.",
                 "hu": "Vigyázzon a leszálláskor a vizes templomtéren; a templom belseje tökéletes hely a rövid száradáshoz és pihenéshez.",
                 "ro": "Atenție la coborâre pe platoul ud al bisericii; interiorul este locul perfect pentru a vă usca puțin hainele de ploaie.",
-                "en": "Be careful when dismounting on the wet church square; the interior is the perfect place to dry off your rain gear for a moment."
+                "en": "Be careful when dismounting on the wet church square; the interior is the perfect place to dry off your rain gear for a moment.",
+                "tr": "Islak kilise meydanında inerken dikkatli olun; iç mekân yağmurlu ekipmanınızı kısa süreliğine kurutmak için mükemmeldir."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Schifffahrtsmuseum",
                 "hu": "Tengerészeti Múzeum",
                 "ro": "Muzeul Maritim",
-                "en": "Maritime Museum"
+                "en": "Maritime Museum",
+                "tr": "Denizcilik Müzesi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch für eine längere Trockenpause; Ihre Fahrradschuhe können hier kurz auslüften.",
                 "hu": "Használja ki a múzeumi látogatást egy hosszabb száraz szünetre; a kerékpáros cipők és ruhák itt kicsit fellélegezhetnek.",
                 "ro": "Folosiți vizita la muzeu pentru o pauză mai lungă de uscare; echipamentul de ciclism se poate aerisi puțin aici.",
-                "en": "Use the museum visit for a longer dry break; your cycling shoes and gear can air out briefly in the sheltered hall."
+                "en": "Use the museum visit for a longer dry break; your cycling shoes and gear can air out briefly in the sheltered hall.",
+                "tr": "Müze ziyaretini daha uzun bir kuru mola için kullanın; bisiklet ayakkabılarınız ve ekipmanınız serin, korunaklı salonda kısa süre havalanabilir."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Aquarium Kiel",
                 "hu": "Kieli Akvárium",
                 "ro": "Acvariul Kiel",
-                "en": "Aquarium Kiel"
+                "en": "Aquarium Kiel",
+                "tr": "Aquarium Kiel"
               },
               "tip_5lang": {
                 "de": "Das Aquarium liegt direkt am Radweg; der Eintritt lohnt sich besonders, wenn ein kräftiger Regenschauer vorbeizieht.",
                 "hu": "Az akvárium közvetlenül a kerékpárút mellett található; a belépés különösen megéri, ha épp egy nagyobb zápor vonul át.",
                 "ro": "Acvariul este situat chiar lângă pista de biciclete; intrarea merită mai ales atunci când trece o aversă puternică de ploaie.",
-                "en": "The aquarium is located right on the bike path; visiting is especially worthwhile when a heavy rain shower passes by."
+                "en": "The aquarium is located right on the bike path; visiting is especially worthwhile when a heavy rain shower passes by.",
+                "tr": "Akvaryum tam bisiklet yolunun üzerindedir; yoğun bir yağmur sağanağı geçtiğinde ziyaret etmek özellikle değerlidir."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Kiellinie",
                 "hu": "Kiellinie Sétány",
                 "ro": "Promenada Kiellinie",
-                "en": "Kiellinie Promenade"
+                "en": "Kiellinie Promenade",
+                "tr": "Kiellinie Promenade"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig bei starkem Wind von der See; eine gute Regenbrille hilft, die Sicht auf die Schiffe zu behalten.",
                 "hu": "Tekerjen óvatosan az erős tengeri szélben; egy jó szemüveg sokat segít, hogy esőben is lássa az elhaladó hajókat.",
                 "ro": "Pedalați cu atenție în condiții de vânt puternic dinspre mare; ochelarii de protecție vă ajută să vedeți navele prin ploaie.",
-                "en": "Ride carefully in strong winds from the sea; good rain goggles will help you keep a clear view of the passing ships."
+                "en": "Ride carefully in strong winds from the sea; good rain goggles will help you keep a clear view of the passing ships.",
+                "tr": "Denizden gelen kuvvetli rüzgârlarda dikkatli sürün; iyi bir yağmur gözlüğü geçen gemileri net görmenize yardımcı olur."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Botanischer Garten",
                 "hu": "Botanikus Kert",
                 "ro": "Grădina Botanică",
-                "en": "Botanical Garden"
+                "en": "Botanical Garden",
+                "tr": "Botanik Bahçesi"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad ab und flüchten Sie in die Gewächshäuser; dort herrscht tropisches Klima statt kühlem norddeutschen Regen.",
                 "hu": "Tegye le a bringát és meneküljön az üvegházakba; ott trópusi klíma várja a hűvös északnémet eső helyett.",
                 "ro": "Lăsați bicicleta și refugiați-vă în sere; acolo vă așteaptă o climă tropicală în locul ploii reci din nordul Germaniei.",
-                "en": "Park your bike and escape into the greenhouses; a tropical climate awaits you there instead of the cool North German rain."
+                "en": "Park your bike and escape into the greenhouses; a tropical climate awaits you there instead of the cool North German rain.",
+                "tr": "Bisikletinizi park edin ve yeşil evlere kaçın; soğuk Kuzey Alman yağmuru yerine tropikal bir iklim sizi bekler."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Winterliches Radeln in Kiel bietet klare Luft und leere Wege. Morgens startet die Tour am Rathausplatz bei frostigen Temperaturen. Mittags bieten die Museen willkommene Wärme. Da es ab 16:30 Uhr dämmert, sollte man die Kiellinie rechtzeitig befahren, um den Sonnenuntergang über der Förde zu erleben. Der Tag endet im Botanischen Garten, bevor die Kälte des Abends einsetzt.",
             "hu": "A téli biciklizés Kielben friss levegőt és üres utakat ígér. Reggel a Városháza teréről indulunk fagyos hőmérsékletben. Délben a múzeumok kínálnak várva várt meleget. Mivel 16:30 körül már sötétedik, a Kiellinie sétányt érdemes időben bejárni a naplemente miatt. A nap a Botanikus Kertben zárul, mielőtt beállna az esti dermesztő hideg.",
             "ro": "Ciclismul de iarnă în Kiel oferă aer curat și piste libere. Dimineața turul începe la Primărie pe temperaturi de îngheț. La prânz, muzeele oferă căldură binevenită. Deoarece se întunecă de la 16:30, parcurgeți Kiellinie la timp pentru apus. Ziua se încheie la Grădina Botanică, înainte de instalarea gerului de seară.",
-            "en": "Winter cycling in Kiel offers crisp air and empty paths. Start your tour at City Hall in freezing temperatures. At noon, the museums provide a welcome chance to warm up. Since dusk begins at 4:30 PM, make sure to ride along Kiellinie in time for the sunset over the fjord. The day ends at the Botanical Garden before the evening chill sets in."
+            "en": "Winter cycling in Kiel offers crisp air and empty paths. Start your tour at City Hall in freezing temperatures. At noon, the museums provide a welcome chance to warm up. Since dusk begins at 4:30 PM, make sure to ride along Kiellinie in time for the sunset over the fjord. The day ends at the Botanical Garden before the evening chill sets in.",
+            "tr": "Kiel'de kış bisikleti temiz hava ve boş yollar sunar. Turunuza Belediye Binası'nda donuk sıcaklıklarda başlayın. Öğlen müzeler ısınmak için hoş bir fırsat sağlar. Alacakaranlık 16:30'da başladığından, Kiellinie boyunca gün batımı için zamanında sürün. Gün, akşam serinliği başlamadan önce Botanik Bahçesi'nde sona erer."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Kieler Rathaus",
                 "hu": "Kieli Városháza",
                 "ro": "Primăria Kiel",
-                "en": "Kiel City Hall"
+                "en": "Kiel City Hall",
+                "tr": "Kiel Belediye Binası"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen auf dem Marktplatz; warme Lenkerstulpen machen die winterliche Fahrt deutlich angenehmer.",
                 "hu": "Ügyeljen a jeges foltokra a piacon; a meleg kormánykesztyűk sokkal kényelmesebbé teszik a téli tekerést.",
                 "ro": "Atenție la porțiunile înghețate din piață; mănușile speciale pentru ghidon fac plimbarea de iarnă mult mai plăcută.",
-                "en": "Watch out for icy patches on the square; warm handlebar mitts make the winter ride significantly more comfortable."
+                "en": "Watch out for icy patches on the square; warm handlebar mitts make the winter ride significantly more comfortable.",
+                "tr": "Meydandaki buzlu bölgeler için dikkatli olun; sıcak gidon eldivenleri kış sürüşünü önemli ölçüde daha konforlu kılar."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Nikolaikirche",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sf. Nicolae",
-                "en": "St. Nikolai Church"
+                "en": "St. Nikolai Church",
+                "tr": "St. Nikolai Kilisesi"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp im Inneren hilft gegen eingefrorene Finger; bewundern Sie die Kunstwerke in der stillen Winteratmosphäre.",
                 "hu": "Egy rövid megálló bent segít az átfagyott ujjakon; csodálja meg a műalkotásokat a csendes téli hangulatban.",
                 "ro": "O scurtă oprire în interior ajută la încălzirea degetelor înghețate; admirați operele de artă în atmosfera liniștită de iarnă.",
-                "en": "A short stop inside helps warm up frozen fingers; admire the artworks in the quiet, reflective winter atmosphere."
+                "en": "A short stop inside helps warm up frozen fingers; admire the artworks in the quiet, reflective winter atmosphere.",
+                "tr": "Kısa bir içeride duraklama donmuş parmakları ısıtır; sessiz, düşünceli kış atmosferinde eserleri izleyin."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Schifffahrtsmuseum",
                 "hu": "Tengerészeti Múzeum",
                 "ro": "Muzeul Maritim",
-                "en": "Maritime Museum"
+                "en": "Maritime Museum",
+                "tr": "Denizcilik Müzesi"
               },
               "tip_5lang": {
                 "de": "Lassen Sie das Rad draußen sicher stehen und genießen Sie die maritime Geschichte in wohliger Wärme.",
                 "hu": "Zárja le biztonságosan a bringát kint, és élvezze a tengerészeti történelmet a múzeum barátságos melegében.",
                 "ro": "Lăsați bicicleta securizată afară și bucurați-vă de istoria maritimă la o temperatură confortabilă în interior.",
-                "en": "Secure your bike outside and enjoy the maritime history in the cozy warmth of the museum's exhibition hall."
+                "en": "Secure your bike outside and enjoy the maritime history in the cozy warmth of the museum's exhibition hall.",
+                "tr": "Bisikletinizi dışarıda güvenle bırakın ve müzenin sergi salonunun rahat sıcaklığında denizcilik tarihinin tadını çıkarın."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Aquarium Kiel",
                 "hu": "Kieli Akvárium",
                 "ro": "Acvariul Kiel",
-                "en": "Aquarium Kiel"
+                "en": "Aquarium Kiel",
+                "tr": "Aquarium Kiel"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Fahrt kurz zu unterbrechen; die bunten Fische lassen einen die graue Winterkälte draußen vergessen.",
                 "hu": "Ideális hely a túra megszakítására; a színes halak látványa elfeledteti a kinti szürke téli hideget.",
                 "ro": "Un loc ideal pentru a întrerupe scurt plimbarea; peștii colorați vă fac să uitați de frigul cenușiu de afară.",
-                "en": "An ideal place to interrupt your ride; the colorful fish make you forget the gray winter chill outside."
+                "en": "An ideal place to interrupt your ride; the colorful fish make you forget the gray winter chill outside.",
+                "tr": "Sürüşünüzü kesmek için ideal bir yer; renkli balıklar dışarıdaki gri kış üşümesini unutturur."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Kiellinie",
                 "hu": "Kiellinie Sétány",
                 "ro": "Promenada Kiellinie",
-                "en": "Kiellinie Promenade"
+                "en": "Kiellinie Promenade",
+                "tr": "Kiellinie Promenade"
               },
               "tip_5lang": {
                 "de": "Warm einpacken gegen den scharfen Ostwind; der Blick auf die beleuchteten Schiffe zur blauen Stunde ist unbezahlbar.",
                 "hu": "Öltözzön fel rétegesen az éles keleti szél ellen; a kivilágított hajók látványa a kék órában felbecsülhetetlen.",
                 "ro": "Îmbrăcați-vă bine împotriva vântului tăios; vederea navelor iluminate în timpul orei albastre este de neprețuit.",
-                "en": "Bundle up against the sharp east wind; the view of the illuminated ships during the blue hour is priceless."
+                "en": "Bundle up against the sharp east wind; the view of the illuminated ships during the blue hour is priceless.",
+                "tr": "Keskin doğu rüzgârına karşı kalın giyinin; mavi saate ışıklandırılmış gemilerin manzarası paha biçilemez."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Botanischer Garten",
                 "hu": "Botanikus Kert",
                 "ro": "Grădina Botanică",
-                "en": "Botanical Garden"
+                "en": "Botanical Garden",
+                "tr": "Botanik Bahçesi"
               },
               "tip_5lang": {
                 "de": "Die Schaugewächshäuser sind im Winter eine Rettung; genießen Sie die tropische Wärme, bevor Sie den Heimweg antreten.",
                 "hu": "A bemutató üvegházak télen igazi mentőövek; élvezze a trópusi meleget, mielőtt hazaindulna a sötétben.",
                 "ro": "Serele expoziționale sunt o salvare iarna; bucurați-vă de căldura tropicală înainte de a porni spre casă prin ger.",
-                "en": "The display greenhouses are a lifesaver in winter; enjoy the tropical warmth before starting your ride home in the cold."
+                "en": "The display greenhouses are a lifesaver in winter; enjoy the tropical warmth before starting your ride home in the cold.",
+                "tr": "Sergi seraları kışın adeta kurtarıcıdır; soğukta evinize dönmeden önce tropikal sıcaklığın tadını çıkarın."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Botanischer Garten",
             "hu": "Botanikus Kert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "tr": "Botanik Bahçesi"
           },
           "coords": [
             10.11719,
@@ -724,7 +803,8 @@
             "de": "Schlendern Sie durch diese Oase mit exotischen Pflanzenarten und tragen Sie bequeme Schuhe, um die weitläufigen Arboretumwege zu erkunden.",
             "hu": "Barangoljon a lenyűgöző üvegházakat felvonultató oázisban, és viseljen kényelmes cipőt a hatalmas arborétumi ösvények bejárásához.",
             "ro": "Plimbați-vă prin această oază verde care găzduiește plante exotice și purtați pantofi confortabili pentru a explora aleile arboretumului.",
-            "en": "Wander through this expansive green oasis featuring exotic plant species, and wear comfortable walking shoes to fully explore the extensive arboretum paths."
+            "en": "Wander through this expansive green oasis featuring exotic plant species, and wear comfortable walking shoes to fully explore the extensive arboretum paths.",
+            "tr": "Egzotik bitki türleriyle dolu bu geniş yeşil vaha içinde dolaşın ve kapsamlı arboretum yollarını tam anlamıyla keşfetmek için rahat yürüyüş ayakkabıları giyin."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Kieler Rathaus",
             "hu": "Kieli Városháza",
             "ro": "Primăria Kiel",
-            "en": "Kiel City Hall"
+            "en": "Kiel City Hall",
+            "tr": "Kiel Belediye Binası"
           },
           "coords": [
             10.132472,
@@ -747,7 +828,8 @@
             "de": "Bewundern Sie den ikonischen 106 Meter hohen Turm des Rathauses, der Kiels Skyline prägt, und nehmen Sie an einer Führung zur Aussichtsplattform teil.",
             "hu": "Csodálja meg a városháza Kiel sziluettjét meghatározó, ikonikus tornyát, és vegyen részt egy vezetett túrán a kilátóteraszon a panorámáért.",
             "ro": "Admirați turnul iconic al Primăriei care conturează orizontul orașului Kiel și luați un tur ghidat către platforma de observație pentru vederi panoramice.",
-            "en": "Admire the iconic 106-meter tower of the City Hall that shapes Kiel's skyline, and take a guided tour to the observation deck for panoramic views."
+            "en": "Admire the iconic 106-meter tower of the City Hall that shapes Kiel's skyline, and take a guided tour to the observation deck for panoramic views.",
+            "tr": "Kiel silüetini şekillendiren ikonik 106 metrelik Belediye Binası kulesini hayranlıkla izleyin ve panoramik manzaralar için rehberli bir turla seyir terasına çıkın."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Schifffahrtsmuseum",
             "hu": "Tengerészeti Múzeum",
             "ro": "Muzeul Maritim",
-            "en": "Maritime Museum"
+            "en": "Maritime Museum",
+            "tr": "Denizcilik Müzesi"
           },
           "coords": [
             10.143675,
@@ -770,7 +853,8 @@
             "de": "Entdecken Sie Kiels Marinegeschichte in dieser ehemaligen Fischauktionshalle und gehen Sie nach draußen, um die Museumsschiffe am Pier zu erkunden.",
             "hu": "Fedezze fel a tengerészeti történelmet az egykori halárverési csarnokban, és mindenképpen tegyen egy sétát a mólónál horgonyzó múzeumhajókhoz.",
             "ro": "Descoperiți istoria navală în această fostă hală de pește și asigurați-vă că ieșiți pentru a explora navele muzeu ancorate la debarcader.",
-            "en": "Discover Kiel's rich naval history inside this former fish auction hall, and step outside to explore the vintage museum ships moored right at the pier."
+            "en": "Discover Kiel's rich naval history inside this former fish auction hall, and step outside to explore the vintage museum ships moored right at the pier.",
+            "tr": "Bu eski balık ihale salonunda Kiel'in zengin denizcilik tarihini keşfedin ve iskeleyi süsleyen nostaljik müze gemilerini dışarıda gezmeyi ihmal etmeyin."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Aquarium Kiel",
             "hu": "Kieli Akvárium",
             "ro": "Acvariul Kiel",
-            "en": "Aquarium Kiel"
+            "en": "Aquarium Kiel",
+            "tr": "Aquarium Kiel"
           },
           "coords": [
             10.148361,
@@ -793,7 +878,8 @@
             "de": "Erleben Sie die Unterwasserwelt der Ost- und Nordsee und versuchen Sie, Ihren Besuch auf die unterhaltsamen Seehundfütterungen im Freien abzustimmen.",
             "hu": "Tapasztalja meg a tenger változatos víz alatti világát, és próbálja úgy időzíteni a látogatását, hogy megnézhesse a szabadtéri fókákatések egyikét.",
             "ro": "Experimentați viața subacvatică din Marea Baltică și încercați să vă programați vizita pentru a urmări sesiunile distractive de hrănire a focilor.",
-            "en": "Experience the diverse underwater life of the Baltic Sea, and try to time your visit to watch the entertaining outdoor seal feeding sessions."
+            "en": "Experience the diverse underwater life of the Baltic Sea, and try to time your visit to watch the entertaining outdoor seal feeding sessions.",
+            "tr": "Baltık Denizi'nin çeşitli su altı yaşamını deneyimleyin ve ziyaretinizi eğlenceli açık hava fok besleme seanslarına denk getirmeye çalışın."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Kieler Förde",
             "hu": "Kieli-öböl",
             "ro": "Fjordul Kiel",
-            "en": "Kiel Fjord"
+            "en": "Kiel Fjord",
+            "tr": "Kiel Fiyordu"
           },
           "coords": [
             10.173056,
@@ -816,7 +903,8 @@
             "de": "Bewundern Sie die natürliche Schönheit dieses Meeresarms und buchen Sie eine Fährfahrt, um die Meeresbrise und den Schiffsverkehr hautnah zu erleben.",
             "hu": "Csodálja meg a Balti-tengerbe vezető öböl szépségét, és érdemes egy kompjáratot foglalni, hogy testközelből élvezze a hajóforgalmat.",
             "ro": "Admirați frumusețea acestui golf lung și îngust și luați în considerare rezervarea unei plimbări cu feribotul pentru a experimenta briza coastei.",
-            "en": "Marvel at the spectacular natural beauty of this long inlet, and consider booking a short ferry ride to experience the coastal breeze and maritime traffic up close."
+            "en": "Marvel at the spectacular natural beauty of this long inlet, and consider booking a short ferry ride to experience the coastal breeze and maritime traffic up close.",
+            "tr": "Bu uzun koyun muazzam doğal güzelliğine hayran kalın ve kıyı esintisini ve deniz trafiğini yakından deneyimlemek için kısa bir feribot turu ayarlamayı düşünün."
           }
         }
       ],
@@ -824,7 +912,8 @@
         "de": "Morgen: Beginnen Sie Ihren Tag zwischen den üppigen Gewächshäusern des Botanischen Gartens.\n\nMittag: Fahren Sie in die Innenstadt, um das hoch aufragende Rathaus zu bewundern, bevor Sie im Schifffahrtsmuseum Marinegeschichte entdecken.\n\nNachmittag: Besuchen Sie das Aquarium Kiel für ein spannendes Meeresabenteuer.\n\nAbend: Fahren Sie zur Kieler Förde und beobachten Sie die einlaufenden Schiffe im Sonnenuntergang.",
         "hu": "Reggel: Kezdje a napot a kiterjedt Botanikus Kert buja üvegházai között.\n\nDélben: Vezessen a belvárosba, csodálja meg a tornyosuló Városházát, majd fedezze fel a Tengerészeti Múzeum hajózási történelmét.\n\nDélután: Ugorjon át a Kieli Akváriumba egy tengeri kalandra.\n\nEste: Vezessen a fenséges Kieli-öbölhöz, és nézze meg, ahogy a hajók befutnak a lenyűgöző naplemente hátterében.",
         "ro": "Dimineața: Începeți ziua printre serele luxuriante ale vastei Grădini Botanice.\n\nPrânz: Mergeți în centru pentru a admira Primăria înainte de a descoperi istoria nautică la Muzeul Maritim.\n\nDupă-amiază: Vizitați Acvariul pentru o aventură marină fascinantă.\n\nSeara: Conduceți către maiestuosul Fjord Kiel, urmărind navele cum sosesc pe fundalul unui apus spectaculos pe apă.",
-        "en": "Morning: Drive out to start your day amidst the lush greenhouses of the expansive Botanical Garden.\n\nMidday: Head into the city center to admire the towering City Hall before discovering nautical history at the Maritime Museum.\n\nAfternoon: Hop over to Aquarium Kiel for a fun marine adventure.\n\nEvening: Finally, drive to the majestic Kiel Fjord, watching the ships roll in against a spectacular sunset sky."
+        "en": "Morning: Drive out to start your day amidst the lush greenhouses of the expansive Botanical Garden.\n\nMidday: Head into the city center to admire the towering City Hall before discovering nautical history at the Maritime Museum.\n\nAfternoon: Hop over to Aquarium Kiel for a fun marine adventure.\n\nEvening: Finally, drive to the majestic Kiel Fjord, watching the ships roll in against a spectacular sunset sky.",
+        "tr": "Sabah: Geniş Botanik Bahçe'nin yemyeşil seralarında gününüze başlayın.\n\nÖğle: Şehir merkezine dönüp görkemli Belediye Binası'nı hayranlıkla izleyin, sonra Denizcilik Müzesi'nde denizcilik tarihini keşfedin.\n\nÖğleden sonra: Eğlenceli bir deniz macerası için Aquarium Kiel'e uğrayın.\n\nAkşam: Son olarak görkemli Kiel Fiyordu'na sürün, gemoların güneş batarken kıyıya yanaşmasını izleyin."
       },
       "variants": {
         "rainy": {
@@ -832,7 +921,8 @@
             "de": "Mit dem Auto lässt sich Kiel auch bei Dauerregen komfortabel erkunden. Morgens startet man am Botanischen Garten, wobei die Gewächshäuser Schutz bieten. Mittags geht es zum Rathaus und Schifffahrtsmuseum, wo nahegelegene Parkhäuser trockene Wege ermöglichen. Der Nachmittag im Aquarium und an der Kieler Förde erlaubt es, die stürmische See sicher aus dem warmen Wagen zu beobachten.",
             "hu": "Autóval Kiel még tartós esőben is kényelmesen felfedezhető. Reggel a Botanikus Kertnél kezdünk, ahol az üvegházak nyújtanak menedéket. Délben a Városháza és a Tengerészeti Múzeum következik, a közeli parkolóházakból pedig szárazon juthatunk be. Délután az Akvárium és az öböl látványa a fűtött autóból is élvezhető, biztonságban a viharos tengerparttól.",
             "ro": "Cu mașina, Kiel poate fi explorat confortabil chiar și pe ploaie continuă. Dimineața începe la Grădina Botanică, unde serele oferă protecție. La prânz vizităm Primăria și Muzeul Maritim, parcările din apropiere asigurând acces uscat. După-amiaza la Acvariu și pe malul fiordului permite observarea mării agitate din interiorul cald al mașinii.",
-            "en": "By car, Kiel remains comfortable to explore even during persistent rain. Start the morning at the Botanical Garden, where the greenhouses offer shelter. At noon, visit the City Hall and Maritime Museum, using nearby parking garages for dry access. The afternoon at the Aquarium and Kiel Fjord allows you to watch the stormy Baltic Sea safely from your warm vehicle."
+            "en": "By car, Kiel remains comfortable to explore even during persistent rain. Start the morning at the Botanical Garden, where the greenhouses offer shelter. At noon, visit the City Hall and Maritime Museum, using nearby parking garages for dry access. The afternoon at the Aquarium and Kiel Fjord allows you to watch the stormy Baltic Sea safely from your warm vehicle.",
+            "tr": "Arabayla Kiel, sürekli yağmurda bile rahatça keşfedilebilir. Sabah Botanik Bahçe'nde seralar korunaklı bir başlangıç sağlar. Öğlen Belediye Binası ve Denizcilik Müzesi'ni ziyaret edin; yakınlardaki otoparklar kuru erişim sunar. Öğleden sonra Akvaryum ve Kiel Fiyordu, fırtınalı Baltık Denizi'ni sıcak aracınızdan güvenle izleme imkânı verir."
           },
           "stops": [
             {
@@ -840,13 +930,15 @@
                 "de": "Botanischer Garten",
                 "hu": "Botanikus Kert",
                 "ro": "Grădina Botanică",
-                "en": "Botanical Garden"
+                "en": "Botanical Garden",
+                "tr": "Botanik Bahçesi"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Eingang und flüchten Sie schnell in die Tropenhäuser, um dem norddeutschen Regen zu entkommen.",
                 "hu": "Parkoljon közvetlenül a bejáratnál, és siessen a trópusi házakba, hogy elmeneküljön az északnémet eső elől.",
                 "ro": "Parcați chiar la intrare și refugiați-vă rapid în serele tropicale pentru a scăpa de ploaia specifică nordului Germaniei.",
-                "en": "Park directly at the entrance and head straight for the tropical houses to escape the North German rain."
+                "en": "Park directly at the entrance and head straight for the tropical houses to escape the North German rain.",
+                "tr": "Girişin hemen önüne park edin ve Kuzey Alman yağmurundan kaçmak için doğrudan tropik evlere yönelin."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Kieler Rathaus",
                 "hu": "Kieli Városháza",
                 "ro": "Primăria Kiel",
-                "en": "Kiel City Hall"
+                "en": "Kiel City Hall",
+                "tr": "Kiel Belediye Binası"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das nahegelegene Parkhaus am Rathausplatz; so kommen Sie fast trockenen Fußes zur Besichtigung des Turms.",
                 "hu": "Használja a városházi téri közeli parkolóházat; így szinte száraz lábbal juthat el a torony megtekintéséhez.",
                 "ro": "Folosiți parcarea etajată din apropierea Primăriei; astfel veți ajunge aproape uscat pentru a vizita turnul.",
-                "en": "Use the nearby parking garage at City Hall Square; this way you can reach the tower visit almost without getting wet."
+                "en": "Use the nearby parking garage at City Hall Square; this way you can reach the tower visit almost without getting wet.",
+                "tr": "Belediye Binası Meydanı'ndaki yakın otoparkı kullanın; böylece kule ziyaretine neredeyse ıslanmeden ulaşabilirsiniz."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Schifffahrtsmuseum",
                 "hu": "Tengerészeti Múzeum",
                 "ro": "Muzeul Maritim",
-                "en": "Maritime Museum"
+                "en": "Maritime Museum",
+                "tr": "Denizcilik Müzesi"
               },
               "tip_5lang": {
                 "de": "Parken Sie am Wall; das Museum ist nur einen kurzen Sprint entfernt und bietet stundenlangen Schutz vor dem Schietwetter.",
                 "hu": "Parkoljon a Wall mentén; a múzeum csak egy rövid sprintre van, és órákig tartó védelmet nyújt a rossz idő ellen.",
                 "ro": "Parcați pe Wall; muzeul este la doar un scurt sprint distanță și oferă ore întregi de protecție împotriva vremii rele.",
-                "en": "Park along the Wall; the museum is just a short sprint away and offers hours of protection from the rainy weather."
+                "en": "Park along the Wall; the museum is just a short sprint away and offers hours of protection from the rainy weather.",
+                "tr": "Wall boyunca park edin; müze kısa bir koşu mesafesindedir ve yağmurlu havadan uzun saatler koruma sağlar."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Aquarium Kiel",
                 "hu": "Kieli Akvárium",
                 "ro": "Acvariul Kiel",
-                "en": "Aquarium Kiel"
+                "en": "Aquarium Kiel",
+                "tr": "Aquarium Kiel"
               },
               "tip_5lang": {
                 "de": "Direkt an der Kiellinie gibt es Parkmöglichkeiten; ideal, um direkt vom Auto in die faszinierende Unterwelt zu springen.",
                 "hu": "Közvetlenül a Kiellinie mentén vannak parkolóhelyek; ideális, hogy az autóból egyből a lenyűgöző vízi világba ugorjunk.",
                 "ro": "Există locuri de parcare chiar pe Kiellinie; ideal pentru a sări direct din mașină în lumea subacvatică fascinantă.",
-                "en": "There are parking spots right on Kiellinie; ideal for jumping straight from your car into the fascinating underwater world."
+                "en": "There are parking spots right on Kiellinie; ideal for jumping straight from your car into the fascinating underwater world.",
+                "tr": "Kiellinie üzerinde doğrudan park yerleri var; arabadan çıkar çıkmaz etkileyici su altı dünyasına atlamak için ideal."
               }
             },
             {
@@ -896,13 +994,15 @@
                 "de": "Kieler Förde",
                 "hu": "Kieli-öböl",
                 "ro": "Fjordul Kiel",
-                "en": "Kiel Fjord"
+                "en": "Kiel Fjord",
+                "tr": "Kiel Fiyordu"
               },
               "tip_5lang": {
                 "de": "Suchen Sie sich einen Parkplatz mit Blick aufs Wasser; genießen Sie das Schauspiel der Wellen und Fähren gemütlich im Trockenen.",
                 "hu": "Keressen egy parkolóhelyet kilátással a vízre; élvezze a hullámok és a kompok játékát kényelmesen, szárazon.",
                 "ro": "Căutați un loc de parcare cu vedere la apă; bucurați-vă de spectacolul valurilor și al feriboturilor din interiorul uscat.",
-                "en": "Find a parking spot with a water view; enjoy the spectacle of the waves and ferries from the comfort of your dry car."
+                "en": "Find a parking spot with a water view; enjoy the spectacle of the waves and ferries from the comfort of your dry car.",
+                "tr": "Deniz manzaralı bir park yeri bulun; kuru arabanızın konforunda dalgaların ve feribotların gösterisini izleyin."
               }
             }
           ]
@@ -912,7 +1012,8 @@
             "de": "Eine winterliche Autotour durch Kiel schützt vor dem beißenden Wind der Ostsee. Der Tag beginnt am Botanischen Garten, wo die Gewächshäuser eine tropische Flucht ermöglichen. Mittags führt die Fahrt zum Rathaus und Museum, wobei die Heizung im Wagen für ständige Wärme sorgt. Da es um 17:00 Uhr bereits dunkel ist, bietet der Abschluss an der Förde die Chance, die Lichter der Stadt sicher zu genießen.",
             "hu": "A téli autós túra Kielben megvéd a Balti-tenger metsző szelétől. A nap a Botanikus Kertben indul, ahol az üvegházak trópusi menekülést kínálnak a hideg elől. Délben a Városháza és a múzeum felé vesszük az irányt, az autó fűtése pedig folyamatos meleget ad. Mivel 17:00-kor már sötét van, az öbölparti befejezésnél a város fényeit élvezhetjük biztonságban.",
             "ro": "Un tur cu mașina prin Kiel iarna vă protejează de vântul tăios al Mării Baltice. Ziua începe la Grădina Botanică, unde serele oferă o evadare tropicală. La prânz, drumul continuă spre Primărie și muzeu, căldura din mașină fiind constantă. Deoarece la ora 17:00 este deja întuneric, finalul la fiord oferă șansa de a admira luminile orașului în siguranță.",
-            "en": "A winter car tour through Kiel protects you from the biting Baltic wind. The day starts at the Botanical Garden, where the greenhouses provide a tropical escape. At noon, head to the City Hall and museum, with the car's heater keeping you warm between stops. Since it's dark by 5:00 PM, the finale at the fjord offers a chance to safely enjoy the city lights."
+            "en": "A winter car tour through Kiel protects you from the biting Baltic wind. The day starts at the Botanical Garden, where the greenhouses provide a tropical escape. At noon, head to the City Hall and museum, with the car's heater keeping you warm between stops. Since it's dark by 5:00 PM, the finale at the fjord offers a chance to safely enjoy the city lights.",
+            "tr": "Kiel'de kışın yapılan araba turu sizi keskin Baltık rüzgârından korur. Gün Botanik Bahçe'nde başlar; seralar tropikal bir kaçış sunar. Öğlen Belediye Binası ve müzeye yönelin; duraklar arasında arabanızın ısıtıcısı sizi sıcak tutar. Saat 17:00'de hava karardığı için final fiyorda şehir ışıklarının tadını güvenle çıkarma fırsatı verir."
           },
           "stops": [
             {
@@ -920,13 +1021,15 @@
                 "de": "Botanischer Garten",
                 "hu": "Botanikus Kert",
                 "ro": "Grădina Botanică",
-                "en": "Botanical Garden"
+                "en": "Botanical Garden",
+                "tr": "Botanik Bahçesi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz direkt davor; die winterliche Kälte draußen vergessen Sie schnell in den warmen Schauhäusern.",
                 "hu": "Használja a közvetlen parkolót; a kinti téli hideget gyorsan elfelejti a meleg bemutatóházakban.",
                 "ro": "Folosiți parcarea de lângă intrare; veți uita repede de gerul de afară odată ce intrați în serele încălzite.",
-                "en": "Use the parking lot right in front; you'll quickly forget the winter cold once you step into the warm display houses."
+                "en": "Use the parking lot right in front; you'll quickly forget the winter cold once you step into the warm display houses.",
+                "tr": "Tam önündeki otoparkı kullanın; sıcak seralara adım attığınızda kış soğuğunu çabucak unutacaksınız."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Kieler Rathaus",
                 "hu": "Kieli Városháza",
                 "ro": "Primăria Kiel",
-                "en": "Kiel City Hall"
+                "en": "Kiel City Hall",
+                "tr": "Kiel Belediye Binası"
               },
               "tip_5lang": {
                 "de": "Parken Sie im warmen Parkhaus; der kurze Weg zum Rathausplatz ist im Winter oft wunderschön beleuchtet.",
                 "hu": "Parkoljon egy fűtött parkolóházban; a Városháza térre vezető rövid út télen gyakran gyönyörű díszkivilágítást kap.",
                 "ro": "Parcați într-o parcare etajată; drumul scurt spre piața Primăriei este adesea iluminat superb în timpul iernii.",
-                "en": "Park in a nearby garage; the short walk to City Hall Square is often beautifully lit up during the winter months."
+                "en": "Park in a nearby garage; the short walk to City Hall Square is often beautifully lit up during the winter months.",
+                "tr": "Yakındaki bir garaja park edin; Belediye Binası Meydanı'na kısa yürüyüş kış aylarında sık sık güzel ışıklarla süslüdür."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Schifffahrtsmuseum",
                 "hu": "Tengerészeti Múzeum",
                 "ro": "Muzeul Maritim",
-                "en": "Maritime Museum"
+                "en": "Maritime Museum",
+                "tr": "Denizcilik Müzesi"
               },
               "tip_5lang": {
                 "de": "Das beheizte Museum ist der perfekte Ort für die Mittagszeit, während Ihr Auto draußen in der Wintersonne parkt.",
                 "hu": "A fűtött múzeum tökéletes hely a délidő eltöltésére, miközben autója kint a téli napsütésben várakozik.",
                 "ro": "Muzeul încălzit este locul perfect pentru prânz, în timp ce mașina dvs. este parcată afară în soarele de iarnă.",
-                "en": "The heated museum is the perfect place for midday, while your car is parked outside in the crisp winter sun."
+                "en": "The heated museum is the perfect place for midday, while your car is parked outside in the crisp winter sun.",
+                "tr": "Isıtmalı müze öğle saatleri için mükemmeldir, arabanız temiz kış güneşinde dışarıda park halinde beklesin."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Aquarium Kiel",
                 "hu": "Kieli Akvárium",
                 "ro": "Acvariul Kiel",
-                "en": "Aquarium Kiel"
+                "en": "Aquarium Kiel",
+                "tr": "Aquarium Kiel"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Gebäude, um die Kältebrücke kurz zu halten; drinnen erwartet Sie eine warme Meereswelt.",
                 "hu": "Parkoljon az épület közelében, hogy ne kelljen sokat fagyoskodnia; odabent meleg tengeri világ várja.",
                 "ro": "Parcați aproape de clădire pentru a minimiza expunerea la frig; în interior vă așteaptă o lume marină caldă.",
-                "en": "Park close to the building to keep the walk in the cold short; a warm marine world awaits you inside."
+                "en": "Park close to the building to keep the walk in the cold short; a warm marine world awaits you inside.",
+                "tr": "Binaya yakın park edin; soğukta yürümeyi kısa tutun; içinde sizi sıcak bir deniz dünyası bekliyor."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Kieler Förde",
                 "hu": "Kieli-öböl",
                 "ro": "Fjordul Kiel",
-                "en": "Kiel Fjord"
+                "en": "Kiel Fjord",
+                "tr": "Kiel Fiyordu"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie im Wagen, um die Lichter der Förde nach 17 Uhr zu bewundern; die Heizung macht den Ausblick erst richtig gemütlich.",
                 "hu": "Maradjon az autóban, hogy 17 óra után megcsodálja az öböl fényeit; a fűtés teszi igazán hangulatossá a kilátást.",
                 "ro": "Rămâneți în mașină pentru a admira luminile fiordului după ora 17:00; căldura face priveliștea cu adevărat confortabilă.",
-                "en": "Stay in the car to admire the fjord lights after 5 PM; the heater makes the view truly cozy and enjoyable."
+                "en": "Stay in the car to admire the fjord lights after 5 PM; the heater makes the view truly cozy and enjoyable.",
+                "tr": "Akşam 17:00’den sonra fiyord ışıklarını seyretmek için arabada kalın; kalorifer manzarayı gerçekten sıcak ve keyifli kılar."
               }
             }
           ]

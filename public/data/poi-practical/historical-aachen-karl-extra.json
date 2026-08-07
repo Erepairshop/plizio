@@ -3,55 +3,64 @@
     "de": "Domhof 1, 52062 Aachen",
     "hu": "Domhof 1, 52062 Aachen, Németország",
     "ro": "Domhof 1, 52062 Aachen, Germania",
-    "en": "Domhof 1, 52062 Aachen, Germany"
+    "en": "Domhof 1, 52062 Aachen, Germany",
+    "tr": "Domhof 1, 52062 Aachen, Almanya"
   },
   "openingHours": {
     "de": "Mo-Sa 11:00-19:00, So 12:30-19:00",
     "hu": "H-Szo 11:00-19:00, V 12:30-19:00",
     "ro": "L-S 11:00-19:00, D 12:30-19:00",
-    "en": "Mon-Sat 11:00-19:00, Sun 12:30-19:00"
+    "en": "Mon-Sat 11:00-19:00, Sun 12:30-19:00",
+    "tr": "Pzt-Cum 11:00-19:00, Pazar 12:30-19:00"
   },
   "entranceFee": {
     "de": "kostenlos (Dom), Schatzkammer 5 €",
     "hu": "Ingyenes (dóm), kincstár: 5 €",
     "ro": "Gratuit (dom), tezaur: 5 €",
-    "en": "Free (cathedral), treasury 5 €"
+    "en": "Free (cathedral), treasury 5 €",
+    "tr": "Ücretsiz (katedral), hazinede 5 €"
   },
   "website": "https://www.aachenerdom.de",
   "publicTransport": {
     "de": "Bus Haltestelle Elisenbrunnen, ca. 5 Min Fußweg.",
     "hu": "Elisenbrunnen buszmegálló, onnan kb. 5 perc séta.",
     "ro": "Stația de autobuz Elisenbrunnen, aprox. 5 min. pe jos.",
-    "en": "Bus stop Elisenbrunnen, approx. 5 min walk."
+    "en": "Bus stop Elisenbrunnen, approx. 5 min walk.",
+    "tr": "Elisenbrunnen otobüs durağı, yaklaşık 5 dk yürüme."
   },
   "parking": {
     "de": "Parkhaus am Dom, Jesuitenstraße, ca. 2,20 €/Std.",
     "hu": "Dom parkolóház, Jesuitenstraße, kb. 2,20 €/óra",
     "ro": "Parcare etajată lângă dom, Jesuitenstraße, aprox. 2,20 €/oră",
-    "en": "Parking garage at the cathedral, Jesuitenstraße, approx. 2.20 €/hour"
+    "en": "Parking garage at the cathedral, Jesuitenstraße, approx. 2.20 €/hour",
+    "tr": "Katedralde otopark, Jesuitenstraße, yaklaşık 2,20 €/saat"
   },
   "accessibility": {
     "de": "Erdgeschoss barrierefrei, Obergeschosse nur per Führung (Treppen).",
     "hu": "A földszint akadálymentes, az emeletek csak vezetéssel (lépcsőn) érhetők el.",
     "ro": "Parterul este accesibil, etajele doar prin tur ghidat (scări).",
-    "en": "Ground floor is accessible, upper floors only via guided tour (stairs)."
+    "en": "Ground floor is accessible, upper floors only via guided tour (stairs).",
+    "tr": "Zemin kat erişilebilir, üst katlar yalnızca rehberli turla (merdiven)."
   },
   "photoRules": {
     "de": "Fotogenehmigung für 3 € vor Ort erhältlich.",
     "hu": "3 €-s fotójegy a helyszínen váltható.",
     "ro": "Permis foto disponibil la fața locului pentru 3 €.",
-    "en": "Photo permit available on-site for 3 €."
+    "en": "Photo permit available on-site for 3 €.",
+    "tr": "3 € karşılığında yerinde fotoğraf izni temin edilebilir."
   },
   "bestTimeToVisit": {
     "de": "Werktags direkt zur Öffnung um 11 Uhr.",
     "hu": "Hétköznap közvetlenül a 11 órai nyitáskor.",
     "ro": "În zilele lucrătoare, imediat la deschidere, la ora 11.",
-    "en": "Weekdays directly at opening at 11 AM."
+    "en": "Weekdays directly at opening at 11 AM.",
+    "tr": "Hafta içi doğrudan açılışta saat 11:00'de."
   },
   "audioGuide": {
     "de": "Deutsch, Englisch, Französisch",
     "hu": "német, angol, francia",
     "ro": "germană, engleză, franceză",
-    "en": "German, English, French"
+    "en": "German, English, French",
+    "tr": "Almanca, İngilizce, Fransızca"
   }
 }

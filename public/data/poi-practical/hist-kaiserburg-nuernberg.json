@@ -3,55 +3,64 @@
     "de": "Auf der Burg 17, 90403 Nürnberg",
     "hu": "Auf der Burg 17, 90403 Nürnberg",
     "ro": "Auf der Burg 17, 90403 Nürnberg",
-    "en": "Auf der Burg 17, 90403 Nürnberg"
+    "en": "Auf der Burg 17, 90403 Nürnberg",
+    "tr": "Auf der Burg 17, 90403 Nürnberg"
   },
   "openingHours": {
     "de": "Mo-Su 09:00-18:00",
     "hu": "Hé-Va 09:00-18:00",
     "ro": "Lu-Du 09:00-18:00",
-    "en": "Mon-Sun 09:00-18:00"
+    "en": "Mon-Sun 09:00-18:00",
+    "tr": "Pzt-Paz 09:00-18:00"
   },
   "entranceFee": {
     "de": "€ 7,00 Erwachsene, unter 18 Jahren frei",
     "hu": "7,00 € felnőtteknek, 18 év alatt ingyenes",
     "ro": "7,00 € adulți, sub 18 ani gratuit",
-    "en": "€7.00 adults, under 18 free"
+    "en": "€7.00 adults, under 18 free",
+    "tr": "Yetişkinler €7.00, 18 yaş altı ücretsiz"
   },
   "website": "https://www.kaiserburg-nuernberg.de",
   "publicTransport": {
     "de": "U-Bahn U1 bis Lorenzkirche oder Bus 36 bis Burgstraße",
     "hu": "U1 metró Lorenzkirche-ig vagy 36-os busz Burgstraße-ig",
     "ro": "Metrou U1 până la Lorenzkirche sau autobuzul 36 până la Burgstraße",
-    "en": "Subway U1 to Lorenzkirche or bus 36 to Burgstraße"
+    "en": "Subway U1 to Lorenzkirche or bus 36 to Burgstraße",
+    "tr": "U-Bahn U1 ile Lorenzkirche veya 36 numaralı otobüsle Burgstraße"
   },
   "parking": {
     "de": "Parkhaus Hauptmarkt, Fußweg ca. 10 Min, ca. 3,00 €/Std.",
     "hu": "Hauptmarkt parkolóház, kb. 10 perc séta, kb. 3,00 €/óra",
     "ro": "Parcare Hauptmarkt, aprox. 10 min de mers pe jos, cca. 3,00 €/oră",
-    "en": "Parking garage Hauptmarkt, 10 min walk, approx. €3.00/hr"
+    "en": "Parking garage Hauptmarkt, 10 min walk, approx. €3.00/hr",
+    "tr": "Hauptmarkt otoparkı, 10 dk yürüyüş, yaklaşık €3.00/saat"
   },
   "accessibility": {
     "de": "Steile Wege und Kopfsteinpflaster, eingeschränkt barrierefrei.",
     "hu": "Meredek utak és macskakövek, korlátozottan akadálymentes.",
     "ro": "Drumuri abrupte și pavaje, accesibilitate limitată.",
-    "en": "Steep paths and cobblestones, limited accessibility."
+    "en": "Steep paths and cobblestones, limited accessibility.",
+    "tr": "Dik yollar ve kaldırım taşları, sınırlı erişilebilirlik."
   },
   "photoRules": {
     "de": "Privataufnahmen ohne Blitz/Stativ erlaubt.",
     "hu": "Magáncélú fotózás vaku/állvány nélkül szabad.",
     "ro": "Fotografii private fără bliț/trepied permise.",
-    "en": "Private photos without flash/tripod allowed."
+    "en": "Private photos without flash/tripod allowed.",
+    "tr": "Flaş/ tripod olmadan özel fotoğraflara izin verilir."
   },
   "bestTimeToVisit": {
     "de": "Spätnachmittag für den Blick über die Stadt im Abendlicht.",
     "hu": "Késő délután a városra nyíló kilátásért esti fényben.",
     "ro": "După-amiaza târziu pentru vederea asupra orașului în lumina serii.",
-    "en": "Late afternoon for the view over the city in the evening light."
+    "en": "Late afternoon for the view over the city in the evening light.",
+    "tr": "Şehir üzerine akşam ışığında manzara için akşamüstü geç saatler."
   },
   "audioGuide": {
     "de": "ja, in mehreren Sprachen",
     "hu": "igen, több nyelven",
     "ro": "da, în mai multe limbi",
-    "en": "yes, in several languages"
+    "en": "yes, in several languages",
+    "tr": "evet, birkaç dilde"
   }
 }

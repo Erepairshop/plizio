@@ -21,7 +21,8 @@
             "de": "Ulmer Münster",
             "hu": "Ulmi székesegyház",
             "ro": "Catedrala din Ulm",
-            "en": "Ulm Minster"
+            "en": "Ulm Minster",
+            "tr": "Ulm Katedrali"
           },
           "coords": [
             48.3986,
@@ -36,7 +37,8 @@
             "de": "Besteigen Sie den höchsten Kirchturm der Welt für eine Alpenfernsicht.",
             "hu": "Mássz fel a világ legmagasabb templomtornyába az alpesi panorámáért.",
             "ro": "Urcați în cel mai înalt turn de biserică din lume pentru o vedere spre Alpi.",
-            "en": "Climb the world's tallest church steeple for views reaching the Alps."
+            "en": "Climb the world's tallest church steeple for views reaching the Alps.",
+            "tr": "Alplere kadar uzanan manzaralar için dünyanın en yüksek kilise kulesine tırmanın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Rathaus Ulm",
             "hu": "Ulmi városháza",
             "ro": "Primăria din Ulm",
-            "en": "Ulm City Hall"
+            "en": "Ulm City Hall",
+            "tr": "Ulm Belediye Binası"
           },
           "coords": [
             48.3969,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die astronomische Uhr an der reich verzierten Fassade.",
             "hu": "Csodáld meg a csillagászati órát a gazdagon díszített homlokzaton.",
             "ro": "Admirați ceasul astronomic de pe fațada bogat decorată.",
-            "en": "Admire the astronomical clock on the richly decorated facade."
+            "en": "Admire the astronomical clock on the richly decorated facade.",
+            "tr": "Zengin süslü cephedeki astronomik saate hayran kalın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museum Ulm",
             "hu": "Ulmi Múzeum",
             "ro": "Muzeul Ulm",
-            "en": "Ulm Museum"
+            "en": "Ulm Museum",
+            "tr": "Ulm Müzesi"
           },
           "coords": [
             48.398,
@@ -82,7 +87,8 @@
             "de": "Sehen Sie den 40.000 Jahre alten Löwenmenschen aus Mammutelfenbein.",
             "hu": "Nézd meg a 40 000 éves oroszlánembert, amely mamutagyarból készült.",
             "ro": "Vedeți Omul-Leu vechi de 40.000 de ani, sculptat în fildeș de mamut.",
-            "en": "See the 40,000-year-old Lion Man carved from mammoth ivory."
+            "en": "See the 40,000-year-old Lion Man carved from mammoth ivory.",
+            "tr": "Mamut fildişinden oyulmuş 40.000 yıllık Aslan Adam'ı görün."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Fischerviertel",
             "hu": "Halásznegyed",
             "ro": "Cartierul Pescarilor",
-            "en": "Fishermen's Quarter"
+            "en": "Fishermen's Quarter",
+            "tr": "Balıkçılar Mahallesi"
           },
           "coords": [
             48.396,
@@ -105,7 +112,8 @@
             "de": "Perfekter Ort für eine Mittagspause direkt an den Blau-Kanälen.",
             "hu": "Tökéletes hely egy ebédszünethez közvetlenül a Blau-csatornák partján.",
             "ro": "Locul perfect pentru o pauză de prânz chiar pe canalele râului Blau.",
-            "en": "The perfect spot for a lunch break right by the Blau canals."
+            "en": "The perfect spot for a lunch break right by the Blau canals.",
+            "tr": "Blau kanallarının kenarında öğle molası için mükemmel nokta."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schiefes Haus",
             "hu": "Ferde Ház",
             "ro": "Casa Strâmbă",
-            "en": "Crooked House"
+            "en": "Crooked House",
+            "tr": "Eğri Ev"
           },
           "coords": [
             48.3963,
@@ -128,7 +137,8 @@
             "de": "Dieses spätgotische Fachwerkhaus hält den Weltrekord als schiefstes Hotel.",
             "hu": "Ez a késő gótikus fachwerk ház a világ legferdébb szállodája.",
             "ro": "Această casă gotică târzie deține recordul mondial pentru cel mai strâmb hotel.",
-            "en": "This late-Gothic timber-framed house is the world's most crooked hotel."
+            "en": "This late-Gothic timber-framed house is the world's most crooked hotel.",
+            "tr": "Bu geç Gotik ahşap karkas ev dünyanın en eğri otelidir."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Metzgerturm",
             "hu": "Mészáros-torony",
             "ro": "Turnul Măcelarilor",
-            "en": "Butcher's Tower"
+            "en": "Butcher's Tower",
+            "tr": "Kasaplar Kulesi"
           },
           "coords": [
             48.396,
@@ -151,7 +162,8 @@
             "de": "Ein schiefer Turm der alten Stadtbefestigung direkt an der Donau.",
             "hu": "A régi városfal ferde tornya közvetlenül a Duna partján.",
             "ro": "Un turn înclinat al vechii fortificații, situat chiar pe Dunăre.",
-            "en": "A leaning tower of the old city wall located right on the Danube."
+            "en": "A leaning tower of the old city wall located right on the Danube.",
+            "tr": "Tuna Nehri üzerinde, eski şehir duvarının eğik bir kulesi."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Donaupromenade",
             "hu": "Duna-sétány",
             "ro": "Promenada Dunării",
-            "en": "Danube Promenade"
+            "en": "Danube Promenade",
+            "tr": "Tuna Promenadı"
           },
           "coords": [
             48.395,
@@ -174,7 +187,8 @@
             "de": "Spazieren Sie auf der alten Stadtmauer mit Blick auf Neu-Ulm.",
             "hu": "Sétálj a régi városfalon, kilátással Neu-Ulmra.",
             "ro": "Plimbați-vă pe vechiul zid al orașului cu vedere spre Neu-Ulm.",
-            "en": "Walk along the old city wall with views over to Neu-Ulm."
+            "en": "Walk along the old city wall with views over to Neu-Ulm.",
+            "tr": "Neu-Ulm manzaralarına karşı eski şehir duvarı boyunca yürüyün."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Einstein-Brunnen",
             "hu": "Einstein-kút",
             "ro": "Fântâna Einstein",
-            "en": "Einstein Fountain"
+            "en": "Einstein Fountain",
+            "tr": "Einstein Çeşmesi"
           },
           "coords": [
             48.4,
@@ -197,7 +212,8 @@
             "de": "Ein originelles Denkmal für den berühmtesten Sohn der Stadt.",
             "hu": "Eredeti emlékmű a város leghíresebb szülöttének.",
             "ro": "Un monument original dedicat celui mai faimos fiu al orașului.",
-            "en": "A quirky monument dedicated to the city's most famous son."
+            "en": "A quirky monument dedicated to the city's most famous son.",
+            "tr": "Şehrin en ünlü oğluna adanmış esprili bir anıt."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Ihre Stadterkundung beginnt am imposanten Ulmer Münster, dessen Turmspitze den Himmel kratzt. Nach dem Aufstieg führt der Weg zum farbenfrohen Rathaus und in die Tiefen der Geschichte im Museum Ulm. Der Mittag gehört dem idyllischen Fischerviertel, wo Sie zwischen Fachwerkhäusern direkt am Wasser speisen. Den Nachmittag verbringen Sie entspannt an der Donaupromenade, bevor Sie den Tag am humorvollen Einstein-Brunnen ausklingen lassen.",
         "hu": "A városnézés az impozáns ulmi székesegyháznál kezdődik, melynek tornya az eget súrolja. A toronymászás után a színes városháza és az Ulmi Múzeum történelmi kincsei következnek. A délutánt az idilli Halásznegyedben töltheti, fachwerk házak között a vízparton ebédelve. Ezután a Duna-sétányon lazíthat, majd a napot a humoros Einstein-kútnál zárhatja, mely a város híres szülöttének állít emléket.",
         "ro": "Explorarea orașului începe la impunătoarea Catedrală din Ulm, al cărei turn zgârie norii. După urcare, drumul duce la primăria colorată și în adâncurile istoriei la Muzeul Ulm. Prânzul aparține idilicului Cartier al Pescarilor, unde puteți lua masa între case medievale chiar pe apă. După-amiaza o veți petrece relaxat pe promenada Dunării, înainte de a încheia ziua la fântâna plină de umor a lui Einstein.",
-        "en": "Your city exploration begins at the imposing Ulm Minster, whose spire scrapes the sky. After the climb, head to the colorful Town Hall and dive into history at the Ulm Museum. Midday is reserved for the idyllic Fishermen's Quarter, dining among timber-framed houses right by the water. Spend the afternoon relaxing on the Danube Promenade before ending your day at the humorous Einstein Fountain, dedicated to the city's most famous son."
+        "en": "Your city exploration begins at the imposing Ulm Minster, whose spire scrapes the sky. After the climb, head to the colorful Town Hall and dive into history at the Ulm Museum. Midday is reserved for the idyllic Fishermen's Quarter, dining among timber-framed houses right by the water. Spend the afternoon relaxing on the Danube Promenade before ending your day at the humorous Einstein Fountain, dedicated to the city's most famous son.",
+        "tr": "Şehir keşfiniz gökyüzüne uzanan Ulm Katedrali'nden başlar. Tırmanıştan sonra renkli Belediye Binası'na gidin ve Ulm Müzesi'nde tarihe dalın. Öğle vakti, su kenarındaki ahşap evler arasında öğle yemeği için idiliktir. Öğleden sonra Tuna Promenadı'nda dinlenin ve günü şehrin en ünlü oğluna adanmış eğlenceli Einstein Çeşmesi'nde bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -365,6 +382,12 @@
           "Climbing the Minster tower requires good fitness (768 steps).",
           "Cross the bridge to Neu-Ulm for the best skyline views of the old town.",
           "Keep an eye out for the 'Ulm Sparrows' – the city's symbol is everywhere."
+        ],
+        "tr": [
+          "Balıkçılar Mahallesi'ndeki parke taşları için rahat ayakkabılar giyin.",
+          "Katedral kulesine tırmanmak iyi bir kondisyon gerektirir (768 basamak).",
+          "Eski kentin en iyi silüet görüntüleri için köprüyü geçip Neu-Ulm'a gidin.",
+          "'Ulm Serçeleri'ne dikkat edin – şehrin simgesi her yerde karşınıza çıkar."
         ]
       }
     },
@@ -381,7 +404,8 @@
             "de": "Ulmer Münster",
             "hu": "Ulmi székesegyház",
             "ro": "Catedrala din Ulm",
-            "en": "Ulm Minster"
+            "en": "Ulm Minster",
+            "tr": "Ulm Katedrali"
           },
           "coords": [
             48.3986,
@@ -396,7 +420,8 @@
             "de": "Startpunkt im Herzen der Stadt.",
             "hu": "Kiindulópont a város szívében.",
             "ro": "Punctul de plecare în inima orașului.",
-            "en": "Starting point in the heart of the city."
+            "en": "Starting point in the heart of the city.",
+            "tr": "Şehrin kalbinde başlangıç noktası."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Schwörhaus",
             "hu": "Schwörhaus",
             "ro": "Schwörhaus",
-            "en": "Schwörhaus"
+            "en": "Schwörhaus",
+            "tr": "Schwörhaus"
           },
           "coords": [
             48.3965,
@@ -419,7 +445,8 @@
             "de": "Historisches Haus, von dem der Bürgermeister jährlich seinen Eid ablegt.",
             "hu": "Történelmi ház, ahonnan a polgármester évente leteszi esküjét.",
             "ro": "Casă istorică de unde primarul depune jurământul anual.",
-            "en": "Historic house from where the mayor takes his annual oath."
+            "en": "Historic house from where the mayor takes his annual oath.",
+            "tr": "Belediye başkanının yıllık yeminini ettiği tarihi ev."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Kloster Wiblingen",
             "hu": "Wiblingeni kolostor",
             "ro": "Mănăstirea Wiblingen",
-            "en": "Wiblingen Abbey"
+            "en": "Wiblingen Abbey",
+            "tr": "Wiblingen Manastırı"
           },
           "coords": [
             48.36,
@@ -442,7 +470,8 @@
             "de": "Besuchen Sie den prunkvollen Bibliothekssaal des Rokoko.",
             "hu": "Látogasd meg a pazar rokokó könyvtártermet.",
             "ro": "Vizitați sala bibliotecii în stil rococo, de o splendoare rară.",
-            "en": "Visit the magnificent Rococo library hall."
+            "en": "Visit the magnificent Rococo library hall.",
+            "tr": "Muhteşem Rokoko kütüphane salonunu ziyaret edin."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Donaupromenade",
             "hu": "Duna-sétány",
             "ro": "Promenada Dunării",
-            "en": "Danube Promenade"
+            "en": "Danube Promenade",
+            "tr": "Tuna Promenadı"
           },
           "coords": [
             48.394,
@@ -465,7 +495,8 @@
             "de": "Entspanntes Radeln direkt am Flussufer zurück ins Zentrum.",
             "hu": "Kényelmes tekerés a folyóparton vissza a központba.",
             "ro": "Ciclism relaxat pe malul râului înapoi spre centru.",
-            "en": "Relaxed cycling along the riverbank back to the center."
+            "en": "Relaxed cycling along the riverbank back to the center.",
+            "tr": "Nehir kıyısında merkeze rahat bir bisiklet sürüşü."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Fischerviertel",
             "hu": "Halásznegyed",
             "ro": "Cartierul Pescarilor",
-            "en": "Fishermen's Quarter"
+            "en": "Fishermen's Quarter",
+            "tr": "Balıkçılar Mahallesi"
           },
           "coords": [
             48.396,
@@ -488,7 +520,8 @@
             "de": "Schieben Sie das Rad durch die engen Gassen.",
             "hu": "Told a biciklit a szűk utcákon.",
             "ro": "Mergeți pe lângă bicicletă prin străzile înguste.",
-            "en": "Walk your bike through the narrow alleys."
+            "en": "Walk your bike through the narrow alleys.",
+            "tr": "Bisikletinizi dar sokaklarda yürüyün."
           }
         },
         {
@@ -496,7 +529,8 @@
             "de": "Einstein-Brunnen",
             "hu": "Einstein-kút",
             "ro": "Fântâna Einstein",
-            "en": "Einstein Fountain"
+            "en": "Einstein Fountain",
+            "tr": "Einstein Çeşmesi"
           },
           "coords": [
             48.4,
@@ -511,7 +545,8 @@
             "de": "Fotostopp beim lustigen Einstein-Denkmal.",
             "hu": "Fotómegálló a mókás Einstein-emlékműnél.",
             "ro": "Popas foto la monumentul amuzant al lui Einstein.",
-            "en": "Photo stop at the funny Einstein monument."
+            "en": "Photo stop at the funny Einstein monument.",
+            "tr": "Komik Einstein anıtında fotoğraf molası."
           }
         },
         {
@@ -519,7 +554,8 @@
             "de": "Friedrichsau Park",
             "hu": "Friedrichsau park",
             "ro": "Parcul Friedrichsau",
-            "en": "Friedrichsau Park"
+            "en": "Friedrichsau Park",
+            "tr": "Friedrichsau Parkı"
           },
           "coords": [
             48.405,
@@ -534,7 +570,8 @@
             "de": "Ulms größter Stadtpark mit See und Biergarten.",
             "hu": "Ulm legnagyobb parkja tóval és sörözővel.",
             "ro": "Cel mai mare parc din Ulm, cu lac și terasă.",
-            "en": "Ulm's largest city park with a lake and beer garden."
+            "en": "Ulm's largest city park with a lake and beer garden.",
+            "tr": "Gölü ve bira bahçesi olan Ulm'un en büyük şehir parkı."
           }
         }
       ],
@@ -542,7 +579,8 @@
         "de": "Diese Radtour kombiniert das historische Zentrum mit der barocken Pracht vor den Toren der Stadt. Nach dem Münsterbesuch radeln Sie entlang der Iller zum Kloster Wiblingen, wo einer der schönsten Bibliothekssäle der Welt wartet. Der Rückweg führt Sie über den Donauradweg direkt in das malerische Fischerviertel. Zum Abschluss genießen Sie die weiten Grünflächen des Friedrichsau Parks, einem beliebten Treffpunkt der Ulmer.",
         "hu": "Ez a kerékpártúra ötvözi a történelmi belvárost a városkapun kívüli barokk pompával. A dóm után az Iller mentén a wiblingeni kolostorhoz tekerünk, ahol a világ egyik legszebb könyvtárterme vár ránk. A visszaút a dunai kerékpárúton vezet az elbűvölő Halásznegyedbe. Végezetül a Friedrichsau park tágas zöldterületeit élvezhetjük, amely az ulmiak kedvelt találkozóhelye.",
         "ro": "Acest tur cu bicicleta combină centrul istoric cu splendoarea barocă de la porțile orașului. După vizita la catedrală, pedalați de-a lungul râului Iller până la mănăstirea Wiblingen, unde vă așteaptă una dintre cele mai frumoase săli de bibliotecă din lume. Drumul de întoarcere vă poartă pe pista de biciclete a Dunării direct în pitorescul Cartier al Pescarilor. La final, bucurați-vă de spațiile verzi vaste ale parcului Friedrichsau.",
-        "en": "This bike tour combines the historic center with Baroque splendor just outside the city gates. After visiting the Minster, cycle along the Iller river to Wiblingen Abbey, home to one of the world's most beautiful library halls. The return journey takes you along the Danube cycle path directly into the picturesque Fishermen's Quarter. Finally, enjoy the wide green spaces of Friedrichsau Park, a popular local hangout."
+        "en": "This bike tour combines the historic center with Baroque splendor just outside the city gates. After visiting the Minster, cycle along the Iller river to Wiblingen Abbey, home to one of the world's most beautiful library halls. The return journey takes you along the Danube cycle path directly into the picturesque Fishermen's Quarter. Finally, enjoy the wide green spaces of Friedrichsau Park, a popular local hangout.",
+        "tr": "Bu bisiklet turu tarihi merkezi şehir kapılarının hemen dışındaki Barok ihtişamıyla birleştirir. Katedrali ziyaret ettikten sonra Iller Nehri boyunca Wiblingen Manastırı'na pedal çevirin; burası dünyadaki en güzel kütüphane salonlarından birine ev sahipliği yapar. Dönüş yolunda Tuna bisiklet yolunu kullanarak resmedilmeye değer Balıkçılar Mahallesi'ne doğrudan ulaşırsınız. Son olarak, yerel halkın favorisi olan geniş yeşil alanlarıyla Friedrichsau Parkı'nın tadını çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -662,6 +700,11 @@
           "The Danube Cycle Path is flat and very well maintained.",
           "Cycling is partially restricted in the old town; it's better to walk your bike.",
           "Rental bikes are available at the main station."
+        ],
+        "tr": [
+          "Tuna Bisiklet Yolu düzdür ve çok iyi bakımlıdır.",
+          "Eski şehirde bisiklete binme kısmen kısıtlanmıştır; bisikletinizi yürütmek daha iyidir.",
+          "Ana istasyonda kiralık bisikletler mevcuttur."
         ]
       }
     },
@@ -678,7 +721,8 @@
             "de": "Ulmer Münster (Cluster A)",
             "hu": "Ulmi székesegyház",
             "ro": "Catedrala din Ulm",
-            "en": "Ulm Minster"
+            "en": "Ulm Minster",
+            "tr": "Ulm Katedrali"
           },
           "coords": [
             48.3986,
@@ -693,7 +737,8 @@
             "de": "Parken Sie im Parkhaus am Rathaus.",
             "hu": "Parkolj a Városháza melletti parkolóházban.",
             "ro": "Parcați în parcarea supraetajată de lângă primărie.",
-            "en": "Park at the Rathaus parking garage."
+            "en": "Park at the Rathaus parking garage.",
+            "tr": "Rathaus otopark garajına park edin."
           }
         },
         {
@@ -701,7 +746,8 @@
             "de": "Rathaus Ulm (Cluster A)",
             "hu": "Ulmi városháza",
             "ro": "Primăria din Ulm",
-            "en": "Ulm City Hall"
+            "en": "Ulm City Hall",
+            "tr": "Ulm Belediye Binası"
           },
           "coords": [
             48.3969,
@@ -716,7 +762,8 @@
             "de": "Nur wenige Gehminuten vom Münster entfernt.",
             "hu": "Csak pár perc séta a dómtól.",
             "ro": "La doar câteva minute de mers pe jos de catedrală.",
-            "en": "Just a few minutes' walk from the Minster."
+            "en": "Just a few minutes' walk from the Minster.",
+            "tr": "Minster'a sadece birkaç dakikalık yürüme mesafesinde."
           }
         },
         {
@@ -724,7 +771,8 @@
             "de": "Metzgerturm (Cluster A)",
             "hu": "Mészáros-torony",
             "ro": "Turnul Măcelarilor",
-            "en": "Butcher's Tower"
+            "en": "Butcher's Tower",
+            "tr": "Kasap Kulesi"
           },
           "coords": [
             48.396,
@@ -739,7 +787,8 @@
             "de": "Teil der alten Stadtmauer-Tour zu Fuß.",
             "hu": "A gyalogos városfal-túra része.",
             "ro": "Parte din turul pietonal al zidului orașului.",
-            "en": "Part of the old city wall walking tour."
+            "en": "Part of the old city wall walking tour.",
+            "tr": "Eski şehir surları yürüyüş turunun bir parçası."
           }
         },
         {
@@ -747,7 +796,8 @@
             "de": "Kloster Wiblingen (Cluster B)",
             "hu": "Wiblingeni kolostor",
             "ro": "Mănăstirea Wiblingen",
-            "en": "Wiblingen Abbey"
+            "en": "Wiblingen Abbey",
+            "tr": "Wiblingen Manastırı"
           },
           "coords": [
             48.36,
@@ -762,7 +812,8 @@
             "de": "Fahrt in den Vorort Wiblingen, Parkplatz direkt am Kloster.",
             "hu": "Utazás Wiblingenbe, parkoló közvetlenül a kolostornál.",
             "ro": "Deplasare în suburbia Wiblingen, parcare chiar la mănăstire.",
-            "en": "Drive to the Wiblingen suburb, parking available at the abbey."
+            "en": "Drive to the Wiblingen suburb, parking available at the abbey.",
+            "tr": "Wiblingen semtine arabayla gidin, manastırda park yeri mevcut."
           }
         },
         {
@@ -770,7 +821,8 @@
             "de": "Fischerviertel (Cluster C)",
             "hu": "Halásznegyed",
             "ro": "Cartierul Pescarilor",
-            "en": "Fishermen's Quarter"
+            "en": "Fishermen's Quarter",
+            "tr": "Balıkçılar Mahallesi"
           },
           "coords": [
             48.396,
@@ -785,7 +837,8 @@
             "de": "Rückfahrt ins Zentrum, Parken im Fischerviertel-Parkhaus.",
             "hu": "Visszatérés a központba, parkolás a Halásznegyed parkolóházában.",
             "ro": "Întoarcere în centru, parcare în garajul Cartierului Pescarilor.",
-            "en": "Return to center, park at the Fischerviertel garage."
+            "en": "Return to center, park at the Fischerviertel garage.",
+            "tr": "Merkeze dönün, Fischerviertel otoparkına park edin."
           }
         },
         {
@@ -793,7 +846,8 @@
             "de": "Schiefes Haus (Cluster C)",
             "hu": "Ferde Ház",
             "ro": "Casa Strâmbă",
-            "en": "Crooked House"
+            "en": "Crooked House",
+            "tr": "Eğri Ev"
           },
           "coords": [
             48.3963,
@@ -808,7 +862,8 @@
             "de": "Zu Fuß im Fischerviertel erkunden.",
             "hu": "Gyalogosan felfedezhető a Halásznegyedben.",
             "ro": "Explorați pe jos în Cartierul Pescarilor.",
-            "en": "Explore on foot within the Fishermen's Quarter."
+            "en": "Explore on foot within the Fishermen's Quarter.",
+            "tr": "Balıkçılar Mahallesi içinde yürüyerek keşfedin."
           }
         },
         {
@@ -816,7 +871,8 @@
             "de": "Donaupromenade (Cluster C)",
             "hu": "Duna-sétány",
             "ro": "Promenada Dunării",
-            "en": "Danube Promenade"
+            "en": "Danube Promenade",
+            "tr": "Donau (Tuna) Yürüyüş Yolu"
           },
           "coords": [
             48.395,
@@ -831,7 +887,8 @@
             "de": "Direkter Zugang vom Fischerviertel.",
             "hu": "Közvetlen lejáró a Halásznegyedből.",
             "ro": "Acces direct din Cartierul Pescarilor.",
-            "en": "Direct access from the Fishermen's Quarter."
+            "en": "Direct access from the Fishermen's Quarter.",
+            "tr": "Balıkçılar Mahallesi'nden doğrudan erişim."
           }
         },
         {
@@ -839,7 +896,8 @@
             "de": "Einstein-Brunnen",
             "hu": "Einstein-kút",
             "ro": "Fântâna Einstein",
-            "en": "Einstein Fountain"
+            "en": "Einstein Fountain",
+            "tr": "Einstein Çeşmesi"
           },
           "coords": [
             48.4,
@@ -854,7 +912,8 @@
             "de": "Kurzer Stopp auf dem Weg aus der Stadt.",
             "hu": "Rövid megálló a városból kifelé menet.",
             "ro": "Scurt popas în drum spre ieșirea din oraș.",
-            "en": "Quick stop on the way out of town."
+            "en": "Quick stop on the way out of town.",
+            "tr": "Şehirden çıkarken hızlı bir durak."
           }
         }
       ],
@@ -862,7 +921,8 @@
         "de": "Mit dem Auto entdecken Sie Ulm in komfortablen Etappen. Zuerst erkunden Sie das Münster-Cluster im Zentrum zu Fuß. Ein kurzer Sprung bringt Sie zur prachtvollen Klosteranlage Wiblingen im Süden. Am Nachmittag kehren Sie zurück ins Herz der Stadt, um das malerische Fischerviertel und die Donaupromenade ohne Parkplatzsuche für jeden Stopp zu genießen. Den Abschluss bildet ein Besuch am Einstein-Denkmal.",
         "hu": "Autóval kényelmes szakaszokban fedezheti fel Ulmot. Először a központban található dóm-klasztert járjuk be gyalog. Egy rövid autózás után a déli városrészben fekvő pazar wiblingeni kolostoregyüttest látogatjuk meg. Délután visszatérünk a város szívébe, hogy a festői Halásznegyedet és a Duna-sétányt élvezzük, anélkül, hogy minden megállónál parkolót kellene keresni. A napot az Einstein-emlékmű zárja.",
         "ro": "Cu mașina, descoperiți Ulm în etape confortabile. Mai întâi, explorați pe jos zona catedralei din centru. O scurtă deplasare vă duce la complexul mănăstiresc Wiblingen din sud. După-amiaza vă întoarceți în inima orașului pentru a vă bucura de pitorescul Cartier al Pescarilor și de promenada Dunării, fără a căuta parcare la fiecare obiectiv. Finalul este marcat de o vizită la monumentul lui Einstein.",
-        "en": "Discover Ulm in comfortable stages by car. First, explore the Minster cluster in the center on foot. A short drive takes you to the magnificent Wiblingen Abbey in the south. In the afternoon, return to the city heart to enjoy the picturesque Fishermen's Quarter and the Danube Promenade without needing to find parking for every single stop. The day concludes with a visit to the Einstein monument."
+        "en": "Discover Ulm in comfortable stages by car. First, explore the Minster cluster in the center on foot. A short drive takes you to the magnificent Wiblingen Abbey in the south. In the afternoon, return to the city heart to enjoy the picturesque Fishermen's Quarter and the Danube Promenade without needing to find parking for every single stop. The day concludes with a visit to the Einstein monument.",
+        "tr": "Ulm'u rahat aşamalar halinde arabayla keşfedin. Önce merkezdeki Minster kümesini yürüyerek gezin. Kısa bir sürüş sizi güneye, görkemli Wiblingen Manastırı'na götürür. Öğleden sonra şehir merkezine dönüp her durak için park yeri aramanıza gerek kalmadan resmedilmeye değer Balıkçılar Mahallesi ve Tuna Yürüyüş Yolu'nun keyfini çıkarın. Gün, Einstein anıtını ziyaretle sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -966,6 +1026,11 @@
           "Use the parking guidance system; parking garages are well-signposted.",
           "Most of the inner city is a pedestrian zone.",
           "Parking at Wiblingen Abbey is usually free."
+        ],
+        "tr": [
+          "Otopark yönlendirme sistemini kullanın; otoparklar iyi işaretlenmiştir.",
+          "Şehir merkezinin çoğu yayalaştırılmış bölgedir.",
+          "Wiblingen Manastırı'nda park genellikle ücretsizdir."
         ]
       }
     },
@@ -982,7 +1047,8 @@
             "de": "Ulmer Münster",
             "hu": "Ulmi székesegyház",
             "ro": "Catedrala din Ulm",
-            "en": "Ulm Minster"
+            "en": "Ulm Minster",
+            "tr": "Ulm Minsteri"
           },
           "coords": [
             48.3986,
@@ -997,7 +1063,8 @@
             "de": "Haltestelle Münsterplatz.",
             "hu": "Münsterplatz megálló.",
             "ro": "Stația Münsterplatz.",
-            "en": "Münsterplatz stop."
+            "en": "Münsterplatz stop.",
+            "tr": "Münsterplatz durağı."
           }
         },
         {
@@ -1005,7 +1072,8 @@
             "de": "Rathaus Ulm",
             "hu": "Ulmi városháza",
             "ro": "Primăria din Ulm",
-            "en": "Ulm City Hall"
+            "en": "Ulm City Hall",
+            "tr": "Ulm Belediye Binası"
           },
           "coords": [
             48.3969,
@@ -1020,7 +1088,8 @@
             "de": "Kurzer Fußweg vom Münster.",
             "hu": "Rövid séta a dómtól.",
             "ro": "Scurtă plimbare de la catedrală.",
-            "en": "Short walk from the Minster."
+            "en": "Short walk from the Minster.",
+            "tr": "Minster'dan kısa yürüyüş mesafesinde."
           }
         },
         {
@@ -1028,7 +1097,8 @@
             "de": "Museum Ulm",
             "hu": "Ulmi Múzeum",
             "ro": "Muzeul Ulm",
-            "en": "Ulm Museum"
+            "en": "Ulm Museum",
+            "tr": "Ulm Müzesi"
           },
           "coords": [
             48.398,
@@ -1043,7 +1113,8 @@
             "de": "In der Nähe der Haltestelle Rathaus.",
             "hu": "A városházi megálló közelében.",
             "ro": "În apropiere de stația Primărie (Rathaus).",
-            "en": "Near the Rathaus stop."
+            "en": "Near the Rathaus stop.",
+            "tr": "Rathaus durağı yakınında."
           }
         },
         {
@@ -1051,7 +1122,8 @@
             "de": "Kloster Wiblingen",
             "hu": "Wiblingeni kolostor",
             "ro": "Mănăstirea Wiblingen",
-            "en": "Wiblingen Abbey"
+            "en": "Wiblingen Abbey",
+            "tr": "Wiblingen Manastırı"
           },
           "coords": [
             48.36,
@@ -1066,7 +1138,8 @@
             "de": "Buslinie 4 ab Zentrum bis Pranger.",
             "hu": "4-es busz a központból a Pranger megállóig.",
             "ro": "Autobuzul linia 4 din centru până la stația Pranger.",
-            "en": "Bus line 4 from the center to Pranger."
+            "en": "Bus line 4 from the center to Pranger.",
+            "tr": "Merkezden Pranger'e giden 4 numaralı otobüs hattı."
           }
         },
         {
@@ -1074,7 +1147,8 @@
             "de": "Fischerviertel",
             "hu": "Halásznegyed",
             "ro": "Cartierul Pescarilor",
-            "en": "Fishermen's Quarter"
+            "en": "Fishermen's Quarter",
+            "tr": "Balıkçılar Mahallesi"
           },
           "coords": [
             48.396,
@@ -1089,7 +1163,8 @@
             "de": "Bus zurück ins Zentrum, Haltestelle Steinerne Brücke.",
             "hu": "Busz vissza a központba, Steinerne Brücke megálló.",
             "ro": "Autobuz înapoi spre centru, stația Steinerne Brücke.",
-            "en": "Bus back to center, stop at Steinerne Brücke."
+            "en": "Bus back to center, stop at Steinerne Brücke.",
+            "tr": "Merkeze dönüş otobüsü, Steinerne Brücke durağı."
           }
         },
         {
@@ -1097,7 +1172,8 @@
             "de": "Schiefes Haus",
             "hu": "Ferde Ház",
             "ro": "Casa Strâmbă",
-            "en": "Crooked House"
+            "en": "Crooked House",
+            "tr": "Eğri Ev"
           },
           "coords": [
             48.3963,
@@ -1112,7 +1188,8 @@
             "de": "Mitten im Fischerviertel zu Fuß erreichbar.",
             "hu": "A Halásznegyed közepén, gyalog elérhető.",
             "ro": "Accesibil pe jos în mijlocul Cartierului Pescarilor.",
-            "en": "Within walking distance in the Fishermen's Quarter."
+            "en": "Within walking distance in the Fishermen's Quarter.",
+            "tr": "Balıkçılar Mahallesi içinde yürüyüş mesafesinde."
           }
         },
         {
@@ -1120,7 +1197,8 @@
             "de": "Donaupromenade",
             "hu": "Duna-sétány",
             "ro": "Promenada Dunării",
-            "en": "Danube Promenade"
+            "en": "Danube Promenade",
+            "tr": "Donau (Tuna) Yürüyüş Yolu"
           },
           "coords": [
             48.395,
@@ -1135,7 +1213,8 @@
             "de": "Schöner Abschluss direkt am Wasser.",
             "hu": "Szép lezárás közvetlenül a vízparton.",
             "ro": "Un final frumos chiar lângă apă.",
-            "en": "A nice conclusion right by the water."
+            "en": "A nice conclusion right by the water.",
+            "tr": "Su kenarında keyifli bir son."
           }
         }
       ],
@@ -1143,7 +1222,8 @@
         "de": "Ulm lässt sich hervorragend mit dem dichten Bus- und Straßenbahnnetz erkunden. Starten Sie zentral am Münster und entdecken Sie die Highlights der Altstadt bequem zu Fuß. Eine kurze Busfahrt führt Sie zur beeindruckenden Klosteranlage Wiblingen. Zurück im Zentrum tauchen Sie in die verwinkelten Gassen des Fischerviertels ein und lassen den Tag entspannt an der Donau ausklingen, bevor Sie mit dem Nahverkehr zurückkehren.",
         "hu": "Ulm kiválóan felfedezhető a sűrű busz- és villamoshálózattal. Kezdjen a dóm közelében, és járja be az óváros látnivalóit kényelmesen gyalog. Egy rövid buszút után látogassa meg az impozáns wiblingeni kolostort. A központba visszatérve merüljön el a Halásznegyed kanyargós utcáiban, majd zárja a napot pihentető sétával a Duna-parton, mielőtt tömegközlekedéssel visszatérne szállására.",
         "ro": "Ulm poate fi explorat excelent cu rețeaua densă de autobuze și tramvaie. Începeți central, la catedrală, și descoperiți atracțiile orașului vechi pe jos. O scurtă călătorie cu autobuzul vă duce la impresionanta mănăstire Wiblingen. Întorși în centru, pătrundeți pe străzile întortocheate ale Cartierului Pescarilor și încheiați ziua relaxat pe malul Dunării.",
-        "en": "Ulm is easy to explore using its efficient bus and tram network. Start centrally at the Minster and discover the old town highlights on foot. A short bus ride takes you to the impressive Wiblingen Abbey. Back in the center, dive into the winding alleys of the Fishermen's Quarter and end your day with a relaxing walk along the Danube before heading back by transit."
+        "en": "Ulm is easy to explore using its efficient bus and tram network. Start centrally at the Minster and discover the old town highlights on foot. A short bus ride takes you to the impressive Wiblingen Abbey. Back in the center, dive into the winding alleys of the Fishermen's Quarter and end your day with a relaxing walk along the Danube before heading back by transit.",
+        "tr": "Ulm'u verimli otobüs ve tramvay ağıyla keşfetmek kolaydır. Minster'da başlayıp eski kentin önemli noktalarını yürüyerek görün. Kısa bir otobüs yolculuğu sizi etkileyici Wiblingen Manastırı'na götürür. Merkeze döndüğünüzde Balıkçılar Mahallesi'nin dolambaçlı sokaklarına dalın ve günü Tuna boyunca rahat bir yürüyüşle sonlandırıp toplu taşımayla geri dönün."
       },
       "gastro_picks": {
         "de": [
@@ -1247,6 +1327,11 @@
           "Buy a day ticket for the entire city area.",
           "The 'DING' app provides real-time schedule information.",
           "On Saturdays, traffic is often restricted due to events, making transit the best option."
+        ],
+        "tr": [
+          "Tüm şehir alanı için günlük bilet alın.",
+          "'DING' uygulaması gerçek zamanlı sefer bilgisi sağlar.",
+          "Cumartesileri etkinlikler nedeniyle trafik sık sık kısıtlanır; toplu taşıma en iyi seçenektir."
         ]
       }
     }

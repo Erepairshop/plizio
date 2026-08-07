@@ -21,7 +21,8 @@
             "de": "Phaeno",
             "hu": "Phaeno",
             "ro": "Phaeno",
-            "en": "Phaeno"
+            "en": "Phaeno",
+            "tr": "Phaeno"
           },
           "coords": [
             10.7902,
@@ -36,7 +37,8 @@
             "de": "Interaktives Science Center in spektakulärer Architektur von Zaha Hadid.",
             "hu": "Interaktív tudományos központ Zaha Hadid látványos épületében.",
             "ro": "Centru de știință interactiv într-o clădire spectaculoasă de Zaha Hadid.",
-            "en": "Interactive science center in spectacular architecture by Zaha Hadid."
+            "en": "Interactive science center in spectacular architecture by Zaha Hadid.",
+            "tr": "Zaha Hadid tarafından tasarlanmış etkileyici mimaride etkileşimli bilim merkezi."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Autostadt",
             "hu": "Autostadt",
             "ro": "Autostadt",
-            "en": "Autostadt"
+            "en": "Autostadt",
+            "tr": "Autostadt"
           },
           "coords": [
             10.7925,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie die gläsernen Autotürme und den ZeitHaus-Pavillon.",
             "hu": "Nézze meg az üveg autótornyokat és a ZeitHaus pavilont.",
             "ro": "Vizitați turnurile de mașini din sticlă și pavilionul ZeitHaus.",
-            "en": "Visit the glass car towers and the ZeitHaus pavilion."
+            "en": "Visit the glass car towers and the ZeitHaus pavilion.",
+            "tr": "Cam araba kulelerini ve ZeitHaus pavilyonunu ziyaret edin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Mittagessen am Mittellandkanal",
             "hu": "Ebéd a Mittelland-csatornánál",
             "ro": "Prânz la Canalul Mittelland",
-            "en": "Lunch by the Mittelland Canal"
+            "en": "Lunch by the Mittelland Canal",
+            "tr": "Mittelland Kanalı kenarında öğle yemeği"
           },
           "coords": [
             10.7912,
@@ -82,7 +87,8 @@
             "de": "Probieren Sie die berühmte Volkswagen-Currywurst.",
             "hu": "Kóstolja meg a híres Volkswagen-Currywurstot.",
             "ro": "Încercați celebrul Currywurst de la Volkswagen.",
-            "en": "Try the famous Volkswagen Currywurst."
+            "en": "Try the famous Volkswagen Currywurst.",
+            "tr": "Ünlü Volkswagen Currywurst'u deneyin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kunstmuseum Wolfsburg",
             "hu": "Wolfsburgi Művészeti Múzeum",
             "ro": "Muzeul de Artă Wolfsburg",
-            "en": "Wolfsburg Art Museum"
+            "en": "Wolfsburg Art Museum",
+            "tr": "Wolfsburg Sanat Müzesi"
           },
           "coords": [
             10.7852,
@@ -105,7 +112,8 @@
             "de": "Moderne Kunst in einer der bedeutendsten Galerien Norddeutschlands.",
             "hu": "Modern művészet Észak-Németország egyik legjelentősebb galériájában.",
             "ro": "Artă modernă într-una dintre cele mai importante galerii din nordul Germaniei.",
-            "en": "Modern art in one of North Germany's most important galleries."
+            "en": "Modern art in one of North Germany's most important galleries.",
+            "tr": "Kuzey Almanya'nın en önemli galerilerinden birinde modern sanat."
           }
         }
       ],
@@ -113,7 +121,8 @@
         "de": "Vormittags erkunden Sie die futuristische Architektur des Phaeno und tauchen in die Welt der Mobilität in der Autostadt ein. Nach einem Mittagessen am Kanal spazieren Sie durch das moderne Stadtzentrum zum Kunstmuseum, wo zeitgenössische Werke warten. Der Tag endet im entspannten Ambiente der Fußgängerzone.",
         "hu": "Délelőtt a Phaeno futurista építészetét és az Autostadt mobilitási világát fedezzük fel. A csatornaparti ebéd után a modern városközponton keresztül sétálunk a Művészeti Múzeumhoz, ahol kortárs alkotások várnak. A nap a sétálóutca hangulatos részén zárul.",
         "ro": "Dimineața explorați arhitectura futuristă a Phaeno și vă imersați în lumea mobilității la Autostadt. După un prânz pe malul canalului, vă plimbați prin centrul modern către Muzeul de Artă, unde vă așteaptă lucrări contemporane. Ziua se încheie în ambianța relaxată a zonei pietonale.",
-        "en": "In the morning, explore the futuristic architecture of Phaeno and dive into the world of mobility at Autostadt. After lunch by the canal, walk through the modern city center to the Art Museum, where contemporary works await. The day ends in the relaxed atmosphere of the pedestrian zone."
+        "en": "In the morning, explore the futuristic architecture of Phaeno and dive into the world of mobility at Autostadt. After lunch by the canal, walk through the modern city center to the Art Museum, where contemporary works await. The day ends in the relaxed atmosphere of the pedestrian zone.",
+        "tr": "Sabah Phaeno'nun fütüristik mimarisini keşfedin ve Autostadt'ta mobilite dünyasına dalın. Kanal kenarında öğle yemeğinin ardından modern şehir merkezinde yürüyün ve çağdaş eserlerin sergilendiği Sanat Müzesi'ne gidin. Gün, yayalaştırılmış bölgenin rahat atmosferinde sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -229,6 +238,10 @@
         "en": [
           "Use the bridges over the canal for great photos of the VW factory.",
           "The Autostadt requires at least 2-3 hours of your time."
+        ],
+        "tr": [
+          "VW fabrikasının harika fotoğrafları için kanal üzerindeki köprüleri kullanın.",
+          "Autostadt en az 2-3 saat gerektirir."
         ]
       }
     },
@@ -245,7 +258,8 @@
             "de": "Schloss Fallersleben",
             "hu": "Fallersleben kastély",
             "ro": "Castelul Fallersleben",
-            "en": "Fallersleben Palace"
+            "en": "Fallersleben Palace",
+            "tr": "Fallersleben Sarayı"
           },
           "coords": [
             10.7165,
@@ -260,7 +274,8 @@
             "de": "Heimatmuseum und Geburtsort des Dichters der deutschen Nationalhymne.",
             "hu": "Helytörténeti múzeum és a német himnusz költőjének szülőhelye.",
             "ro": "Muzeu de istorie locală și locul de naștere al autorului imnului național german.",
-            "en": "Local history museum and birthplace of the German national anthem's poet."
+            "en": "Local history museum and birthplace of the German national anthem's poet.",
+            "tr": "Yerel tarih müzesi ve Alman milli marş şairinin doğum yeri."
           }
         },
         {
@@ -268,7 +283,8 @@
             "de": "Phaeno",
             "hu": "Phaeno",
             "ro": "Phaeno",
-            "en": "Phaeno"
+            "en": "Phaeno",
+            "tr": "Phaeno"
           },
           "coords": [
             10.7902,
@@ -283,7 +299,8 @@
             "de": "Fahrradparkplätze direkt vor dem Eingang vorhanden.",
             "hu": "Kerékpártárolók közvetlenül a bejárat előtt találhatók.",
             "ro": "Parcare pentru biciclete disponibilă chiar în fața intrării.",
-            "en": "Bicycle parking available directly in front of the entrance."
+            "en": "Bicycle parking available directly in front of the entrance.",
+            "tr": "Girişin hemen önünde bisiklet park yeri mevcut."
           }
         },
         {
@@ -291,7 +308,8 @@
             "de": "Schloss Wolfsburg",
             "hu": "Wolfsburgi kastély",
             "ro": "Castelul Wolfsburg",
-            "en": "Wolfsburg Castle"
+            "en": "Wolfsburg Castle",
+            "tr": "Wolfsburg Kalesi"
           },
           "coords": [
             10.8015,
@@ -306,7 +324,8 @@
             "de": "Prachtvolles Weserrenaissance-Schloss mit schönem Schlosspark.",
             "hu": "Pompás Weser-reneszánsz kastély szép parkkal.",
             "ro": "Castel magnific în stilul Renașterii Weser cu un parc frumos.",
-            "en": "Magnificent Weser Renaissance castle with a beautiful park."
+            "en": "Magnificent Weser Renaissance castle with a beautiful park.",
+            "tr": "Güzel bir parkla çevrili muhteşem Weser Rönesans kalesi."
           }
         },
         {
@@ -314,7 +333,8 @@
             "de": "Allerpark",
             "hu": "Allerpark",
             "ro": "Allerpark",
-            "en": "Allerpark"
+            "en": "Allerpark",
+            "tr": "Allerpark"
           },
           "coords": [
             10.8105,
@@ -329,7 +349,8 @@
             "de": "Perfekt für eine Radrunde um den Allersee.",
             "hu": "Tökéletes hely egy kerékpáros körre az Aller-tó körül.",
             "ro": "Perfect pentru o tură cu bicicleta în jurul lacului Aller.",
-            "en": "Perfect for a bike ride around the Aller Lake."
+            "en": "Perfect for a bike ride around the Aller Lake.",
+            "tr": "Aller Gölü etrafında bisiklet turu için ideal."
           }
         },
         {
@@ -337,7 +358,8 @@
             "de": "Volkswagen AutoMuseum",
             "hu": "Volkswagen Autómúzeum",
             "ro": "Muzeul Auto Volkswagen",
-            "en": "Volkswagen AutoMuseum"
+            "en": "Volkswagen AutoMuseum",
+            "tr": "Volkswagen Otomobil Müzesi"
           },
           "coords": [
             10.8115,
@@ -352,7 +374,8 @@
             "de": "Die Geschichte des VW Käfer und Bulli erleben.",
             "hu": "A VW Bogár és a Bulli történetének megismerése.",
             "ro": "Experimentați istoria modelelor VW Beetle și Bulli.",
-            "en": "Experience the history of the VW Beetle and Bulli."
+            "en": "Experience the history of the VW Beetle and Bulli.",
+            "tr": "VW Beetle ve Bulli tarihini deneyimleyin."
           }
         }
       ],
@@ -360,7 +383,8 @@
         "de": "Diese Tour verbindet Geschichte und Moderne. Wir starten im historischen Fallersleben, radeln dann ins Zentrum zum Phaeno und weiter zum Renaissance-Schloss. Der Nachmittag gehört dem Allerpark und dem klassischen AutoMuseum, bevor wir am Seeufer den Tag ausklingen lassen.",
         "hu": "Ez a túra ötvözi a történelmet és a modern kort. A történelmi Fallerslebenben kezdünk, majd a központba tekerünk a Phaenóhoz, és tovább a reneszánsz kastélyhoz. A délután az Allerparké és a klasszikus Autómúzeumé, mielőtt a tóparton zárnánk a napot.",
         "ro": "Acest tur îmbină istoria și modernitatea. Începem în istoricul Fallersleben, apoi pedalăm spre centru la Phaeno și mai departe la castelul renascentist. După-amiaza aparține Allerpark și muzeului auto clasic, înainte de a încheia ziua pe malul lacului.",
-        "en": "This tour combines history and modernity. We start in historic Fallersleben, then cycle to the center to Phaeno and further to the Renaissance castle. The afternoon is dedicated to Allerpark and the classic AutoMuseum before ending the day by the lakeside."
+        "en": "This tour combines history and modernity. We start in historic Fallersleben, then cycle to the center to Phaeno and further to the Renaissance castle. The afternoon is dedicated to Allerpark and the classic AutoMuseum before ending the day by the lakeside.",
+        "tr": "Bu tur tarih ve modernliği birleştiriyor. Tarihi Fallersleben’de başlıyoruz, sonra Phaeno’ya ve oradan Rönesans kalesine bisikletle gidiyoruz. Öğleden sonra Allerpark ve klasik AutoMuseum’a ayrılmış, gün göl kenarında sona eriyor."
       },
       "gastro_picks": {
         "de": [
@@ -460,6 +484,10 @@
         "en": [
           "The paths through Allerpark are wide and very bike-friendly.",
           "Wolfsburg has many well-developed bike paths along the main roads."
+        ],
+        "tr": [
+          "Allerpark içindeki yollar geniş ve bisiklete çok uygun.",
+          "Wolfsburg’da ana yollar boyunca birçok iyi geliştirilmiş bisiklet yolu var."
         ]
       }
     },
@@ -476,7 +504,8 @@
             "de": "Schloss Fallersleben",
             "hu": "Fallersleben kastély",
             "ro": "Castelul Fallersleben",
-            "en": "Fallersleben Palace"
+            "en": "Fallersleben Palace",
+            "tr": "Fallersleben Sarayı"
           },
           "coords": [
             10.7165,
@@ -491,7 +520,8 @@
             "de": "Parken am Schlosshof möglich.",
             "hu": "Parkolás a kastélyudvarnál lehetséges.",
             "ro": "Parcare disponibilă la curtea castelului.",
-            "en": "Parking possible at the castle courtyard."
+            "en": "Parking possible at the castle courtyard.",
+            "tr": "Kale avlusunda park imkânı."
           }
         },
         {
@@ -499,7 +529,8 @@
             "de": "Phaeno (Cluster City)",
             "hu": "Phaeno (Városi klaszter)",
             "ro": "Phaeno (Cluster Oraș)",
-            "en": "Phaeno (City Cluster)"
+            "en": "Phaeno (City Cluster)",
+            "tr": "Phaeno (Şehir Kümelenmesi)"
           },
           "coords": [
             10.7902,
@@ -514,7 +545,8 @@
             "de": "Auto im Parkhaus am Hauptbahnhof abstellen.",
             "hu": "Parkoljon a főpályaudvarnál lévő parkolóházban.",
             "ro": "Lăsați mașina în parcarea de la gara centrală.",
-            "en": "Park the car in the parking garage at the main station."
+            "en": "Park the car in the parking garage at the main station.",
+            "tr": "Arabayı ana istasyondaki otoparka park edin."
           }
         },
         {
@@ -522,7 +554,8 @@
             "de": "Autostadt (Cluster City)",
             "hu": "Autostadt (Városi klaszter)",
             "ro": "Autostadt (Cluster Oraș)",
-            "en": "Autostadt (City Cluster)"
+            "en": "Autostadt (City Cluster)",
+            "tr": "Autostadt (Şehir Kümelenmesi)"
           },
           "coords": [
             10.7925,
@@ -537,7 +570,8 @@
             "de": "Zu Fuß vom Phaeno über die Stadtbrücke erreichbar.",
             "hu": "A Phaenótól gyalogosan elérhető a városi hídon át.",
             "ro": "Accesibil pe jos de la Phaeno peste podul orașului.",
-            "en": "Accessible on foot from Phaeno via the city bridge."
+            "en": "Accessible on foot from Phaeno via the city bridge.",
+            "tr": "Şehir köprüsü üzerinden Phaeno’dan yürüyerek ulaşılabilir."
           }
         },
         {
@@ -545,7 +579,8 @@
             "de": "Schloss Wolfsburg (Cluster Park)",
             "hu": "Wolfsburgi kastély (Park klaszter)",
             "ro": "Castelul Wolfsburg (Cluster Parc)",
-            "en": "Wolfsburg Castle (Park Cluster)"
+            "en": "Wolfsburg Castle (Park Cluster)",
+            "tr": "Wolfsburg Kalesi (Park Kümelenmesi)"
           },
           "coords": [
             10.8015,
@@ -560,7 +595,8 @@
             "de": "Kurze Fahrt zum Parkplatz am Schloss.",
             "hu": "Rövid autóút a kastély melletti parkolóig.",
             "ro": "Drum scurt cu mașina până la parcarea de la castel.",
-            "en": "Short drive to the parking lot at the castle."
+            "en": "Short drive to the parking lot at the castle.",
+            "tr": "Kaleye giden kısa sürüş sonrası otoparka."
           }
         },
         {
@@ -568,7 +604,8 @@
             "de": "Allerpark (Cluster Park)",
             "hu": "Allerpark (Park klaszter)",
             "ro": "Allerpark (Cluster Parc)",
-            "en": "Allerpark (Park Cluster)"
+            "en": "Allerpark (Park Cluster)",
+            "tr": "Allerpark (Park Kümelenmesi)"
           },
           "coords": [
             10.8105,
@@ -583,7 +620,8 @@
             "de": "Vom Schloss zu Fuß durch den Park erreichbar.",
             "hu": "A kastélytól gyalogosan elérhető a parkon keresztül.",
             "ro": "Accesibil pe jos de la castel prin parc.",
-            "en": "Accessible on foot from the castle through the park."
+            "en": "Accessible on foot from the castle through the park.",
+            "tr": "Kaleden park içinden yürüyerek ulaşılabilir."
           }
         }
       ],
@@ -591,7 +629,8 @@
         "de": "Diese Autotour kombiniert drei Cluster. Zuerst das historische Fallersleben, dann der große City-Cluster mit Phaeno und Autostadt (einmal parken, beides zu Fuß). Zum Abschluss fahren wir zum Allerpark-Cluster, um das Schloss und den See zu genießen.",
         "hu": "Ez az autós túra három klasztert ötvöz. Először a történelmi Fallerslebent, majd a nagy városi klasztert a Phaenóval és az Autostadttal (egyszeri parkolás, mindkettő gyalog). Végül az Allerpark klaszterhez hajtunk, hogy élvezzük a kastélyt és a tavat.",
         "ro": "Acest tur cu mașina combină trei clustere. Mai întâi istoricul Fallersleben, apoi marele cluster al orașului cu Phaeno și Autostadt (parcați o singură dată, ambele pe jos). La final, mergem la clusterul Allerpark pentru a ne bucura de castel și lac.",
-        "en": "This car tour combines three clusters. First historic Fallersleben, then the large city cluster with Phaeno and Autostadt (park once, visit both on foot). Finally, we drive to the Allerpark cluster to enjoy the castle and the lake."
+        "en": "This car tour combines three clusters. First historic Fallersleben, then the large city cluster with Phaeno and Autostadt (park once, visit both on foot). Finally, we drive to the Allerpark cluster to enjoy the castle and the lake.",
+        "tr": "Bu araba turu üç kümeyi birleştiriyor. Önce tarihi Fallersleben, sonra Phaeno ve Autostadt ile büyük şehir kümesi (bir kez park edip her ikisini de yürüyerek ziyaret edin). Son olarak kale ve gölden keyif almak için Allerpark kümesine gidiyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -691,6 +730,10 @@
         "en": [
           "Use the parking garages in the center, as street parking is often full.",
           "Parking in Autostadt is often discounted for visitors."
+        ],
+        "tr": [
+          "Cadde üzeri park yerleri sık dolu olduğundan merkezdeki otoparkları kullanın.",
+          "Autostadt’ta ziyaretçiler için sık sık indirimli park sunuluyor."
         ]
       }
     },
@@ -707,7 +750,8 @@
             "de": "Kunstmuseum Wolfsburg",
             "hu": "Wolfsburgi Művészeti Múzeum",
             "ro": "Muzeul de Artă Wolfsburg",
-            "en": "Wolfsburg Art Museum"
+            "en": "Wolfsburg Art Museum",
+            "tr": "Wolfsburg Sanat Müzesi"
           },
           "coords": [
             10.7852,
@@ -722,7 +766,8 @@
             "de": "Buslinie 201 vom Hauptbahnhof bis Haltestelle Hollerplatz.",
             "hu": "201-es busz a főpályaudvartól a Hollerplatz megállóig.",
             "ro": "Linia de autobuz 201 de la gara centrală până la stația Hollerplatz.",
-            "en": "Bus line 201 from the main station to the Hollerplatz stop."
+            "en": "Bus line 201 from the main station to the Hollerplatz stop.",
+            "tr": "Ana istasyondan Hollerplatz durağına giden 201 numaralı otobüs hattı."
           }
         },
         {
@@ -730,7 +775,8 @@
             "de": "Planetarium Wolfsburg",
             "hu": "Wolfsburgi Planetárium",
             "ro": "Planetariul Wolfsburg",
-            "en": "Planetarium Wolfsburg"
+            "en": "Planetarium Wolfsburg",
+            "tr": "Wolfsburg Planetaryumu"
           },
           "coords": [
             10.7955,
@@ -745,7 +791,8 @@
             "de": "In der Nähe des Rathauses, bequem zu Fuß vom Kunstmuseum.",
             "hu": "A városháza közelében, kényelmes sétára a Művészeti Múzeumtól.",
             "ro": "În apropierea primăriei, la o plimbare ușoară de Muzeul de Artă.",
-            "en": "Near the town hall, an easy walk from the Art Museum."
+            "en": "Near the town hall, an easy walk from the Art Museum.",
+            "tr": "Belediye binası yakınında, Sanat Müzesi’nden kolay yürüme mesafesinde."
           }
         },
         {
@@ -753,7 +800,8 @@
             "de": "Phaeno",
             "hu": "Phaeno",
             "ro": "Phaeno",
-            "en": "Phaeno"
+            "en": "Phaeno",
+            "tr": "Phaeno"
           },
           "coords": [
             10.7902,
@@ -768,7 +816,8 @@
             "de": "Direkt am Hauptbahnhof gelegen, dem Verkehrsknotenpunkt.",
             "hu": "Közvetlenül a főpályaudvarnál, a közlekedési csomópontnál található.",
             "ro": "Situat chiar lângă gara centrală, nodul principal de transport.",
-            "en": "Located right at the main station, the main transport hub."
+            "en": "Located right at the main station, the main transport hub.",
+            "tr": "Ana ulaşım merkezi olan ana istasyonun hemen yanında yer alır."
           }
         },
         {
@@ -776,7 +825,8 @@
             "de": "Autostadt",
             "hu": "Autostadt",
             "ro": "Autostadt",
-            "en": "Autostadt"
+            "en": "Autostadt",
+            "tr": "Autostadt"
           },
           "coords": [
             10.7925,
@@ -791,7 +841,8 @@
             "de": "Ganz nah am Bahnhof über die gläserne Brücke.",
             "hu": "Nagyon közel az állomáshoz az üveghídon át.",
             "ro": "Foarte aproape de gară prin podul de sticlă.",
-            "en": "Very close to the station via the glass bridge."
+            "en": "Very close to the station via the glass bridge.",
+            "tr": "Cam köprü ile istasyona çok yakın."
           }
         }
       ],
@@ -799,7 +850,8 @@
         "de": "Wolfsburg ist per Transit sehr effizient. Wir nutzen den zentralen Hollerplatz für Kunst und Kultur, fahren dann zurück zum Bahnhofs-Hub für das Phaeno und die Autostadt. Alle Ziele sind durch Hauptbuslinien eng getaktet verbunden.",
         "hu": "Wolfsburg tömegközlekedéssel nagyon hatékony. A központi Hollerplatzot használjuk művészetre és kultúrára, majd visszatérünk a vasútállomási csomóponthoz a Phaenóhoz és az Autostadtba. Minden célpontot sűrűn közlekedő buszjáratok kötnek össze.",
         "ro": "Wolfsburg este foarte eficient prin transportul public. Folosim piața centrală Hollerplatz pentru artă și cultură, apoi ne întoarcem la nodul gării pentru Phaeno și Autostadt. Toate destinațiile sunt conectate prin linii de autobuz principale cu frecvență mare.",
-        "en": "Wolfsburg is very efficient via transit. We use the central Hollerplatz for art and culture, then return to the station hub for Phaeno and Autostadt. All destinations are closely linked by main bus lines with high frequency."
+        "en": "Wolfsburg is very efficient via transit. We use the central Hollerplatz for art and culture, then return to the station hub for Phaeno and Autostadt. All destinations are closely linked by main bus lines with high frequency.",
+        "tr": "Wolfsburg toplu taşıma ile çok verimli. Sanat ve kültür için merkezi Hollerplatz’ı kullanıyoruz, sonra Phaeno ve Autostadt için istasyon merkezine dönüyoruz. Tüm destinasyonlar, yüksek frekanslı ana otobüs hatlarıyla yakından bağlı."
       },
       "gastro_picks": {
         "de": [
@@ -899,6 +951,10 @@
         "en": [
           "The WVG app helps with real-time bus departures.",
           "A day ticket is worth it starting from the third ride."
+        ],
+        "tr": [
+          "WVG uygulaması otobüslerin gerçek zamanlı kalkışlarına yardımcı olur.",
+          "Üçüncü yolculuktan itibaren günlük bileti kârlı olur."
         ]
       }
     }

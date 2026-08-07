@@ -3,55 +3,64 @@
     "de": "Alte Römerstraße 75, 85221 Dachau",
     "hu": "Alte Römerstraße 75, 85221 Dachau",
     "ro": "Alte Römerstraße 75, 85221 Dachau",
-    "en": "Alte Römerstraße 75, 85221 Dachau"
+    "en": "Alte Römerstraße 75, 85221 Dachau",
+    "tr": "Alte Römerstraße 75, 85221 Dachau"
   },
   "openingHours": {
     "de": "Täglich 09:00-17:00",
     "hu": "Naponta 09:00-17:00",
     "ro": "Zilnic 09:00-17:00",
-    "en": "Daily 09:00-17:00"
+    "en": "Daily 09:00-17:00",
+    "tr": "Günlük 09:00-17:00"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.kz-gedenkstaette-dachau.de",
   "publicTransport": {
     "de": "S-Bahn S2 bis Dachau Bahnhof, dann Buslinie 726",
     "hu": "S2-es gyorsvasút Dachau állomásig, majd a 726-os busz",
     "ro": "S-Bahn S2 până la gara Dachau, apoi linia de autobuz 726",
-    "en": "S-Bahn S2 to Dachau station, then bus line 726"
+    "en": "S-Bahn S2 to Dachau station, then bus line 726",
+    "tr": "S-Bahn S2 ile Dachau istasyonuna, ardından 726 numaralı otobüse"
   },
   "parking": {
     "de": "Besucherparkplatz an der Gedenkstätte (€3 pro PKW).",
     "hu": "Látogatói parkoló az emlékhelynél (3 € autónként).",
     "ro": "Parcare pentru vizitatori la memorial (3 € per autoturism).",
-    "en": "Visitor parking at the memorial site (€3 per car)."
+    "en": "Visitor parking at the memorial site (€3 per car).",
+    "tr": "Anma alanında ziyaretçi otoparkı (€3 araç başına)."
   },
   "accessibility": {
     "de": "Größtenteils barrierefrei, Wege auf dem Gelände bestehen aus Kies.",
     "hu": "Nagyrészt akadálymentesített, az utak kavicsosak.",
     "ro": "În mare parte accesibil, drumurile din incintă sunt cu pietriș.",
-    "en": "Mostly accessible, but paths on the grounds are gravel."
+    "en": "Mostly accessible, but paths on the grounds are gravel.",
+    "tr": "Çoğunlukla erişilebilir, ancak alanlardaki yollar çakıl kaplı."
   },
   "photoRules": {
     "de": "Erlaubt, Pietät wahren; keine Fotos von religiösen Gedenkstätten.",
     "hu": "Megengedett, a kegyelet megtartása mellett; vallási emlékhelyeknél tilos a fotózás.",
     "ro": "Permis, cu respectarea solemnității; fără fotografii la locurile de cult.",
-    "en": "Permitted, maintain respect; no photography of religious memorials."
+    "en": "Permitted, maintain respect; no photography of religious memorials.",
+    "tr": "İzinli, saygıyı koruyun; dini anıtlarda fotoğraf çekimi yasak."
   },
   "bestTimeToVisit": {
     "de": "Früh am Morgen für eine ruhige und würdevolle Besichtigung.",
     "hu": "Kora reggel, a csendes és méltóságteljes látogatás érdekében.",
     "ro": "Dimineața devreme pentru o vizită liniștită și demnă.",
-    "en": "Early morning for a quiet and dignified visit."
+    "en": "Early morning for a quiet and dignified visit.",
+    "tr": "Sessiz ve saygılı bir ziyaret için erken sabah."
   },
   "audioGuide": {
     "de": "ja (Mietgebühr €4, diverse Sprachen)",
     "hu": "igen (bérleti díj 4 €, több nyelven)",
     "ro": "da (taxă de închiriere 4 €, diverse limbi)",
-    "en": "yes (rental fee €4, various languages)"
+    "en": "yes (rental fee €4, various languages)",
+    "tr": "evet (kiralama ücreti €4, çeşitli diller)"
   }
 }

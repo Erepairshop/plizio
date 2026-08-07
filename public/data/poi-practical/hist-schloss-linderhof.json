@@ -3,55 +3,64 @@
     "de": "Linderhof 12, 82488 Ettal",
     "hu": "Linderhof 12, 82488 Ettal",
     "ro": "Linderhof 12, 82488 Ettal",
-    "en": "Linderhof 12, 82488 Ettal"
+    "en": "Linderhof 12, 82488 Ettal",
+    "tr": "Linderhof 12, 82488 Ettal"
   },
   "openingHours": {
     "de": "Mo-Su 09:00-18:00 (Apr-Okt), 10:00-16:30 (Nov-März)",
     "hu": "H-V 09:00-18:00 (ápr-okt), 10:00-16:30 (nov-márc)",
     "ro": "Lu-Du 09:00-18:00 (apr-oct), 10:00-16:30 (nov-mar)",
-    "en": "Mon-Sun 09:00-18:00 (Apr-Oct), 10:00-16:30 (Nov-Mar)"
+    "en": "Mon-Sun 09:00-18:00 (Apr-Oct), 10:00-16:30 (Nov-Mar)",
+    "tr": "Pzt-Paz 09:00-18:00 (Nis-Eki), 10:00-16:30 (Kas-Mar)"
   },
   "entranceFee": {
     "de": "10,00 € Schloss (nur Führung); Parkbauten extra",
     "hu": "10,00 € kastély (csak vezetéssel); a park építményei külön fizetősek",
     "ro": "10,00 € castelul (doar cu tur ghidat); pavilioanele din parc se plătesc separat",
-    "en": "10.00 € castle (guided tour only); park buildings extra"
+    "en": "10.00 € castle (guided tour only); park buildings extra",
+    "tr": "10,00 € saray (sadece rehberli tur); park yapılarına ekstra ücret"
   },
   "website": "https://www.schlosslinderhof.de",
   "publicTransport": {
     "de": "Regionalbahn bis Oberammergau, dann Bus 9622 bis Linderhof",
     "hu": "Regionális vonat Oberammergauig, onnan 9622-es busz Linderhofig",
     "ro": "Tren regional până la Oberammergau, apoi autobuzul 9622 până la Linderhof",
-    "en": "Regional train to Oberammergau, then bus 9622 to Linderhof"
+    "en": "Regional train to Oberammergau, then bus 9622 to Linderhof",
+    "tr": "Oberammergau'ya bölgesel tren, sonra Linderhof'a giden 9622 numaralı otobüs"
   },
   "parking": {
     "de": "Großer kostenpflichtiger Parkplatz direkt am Schlossgelände.",
     "hu": "Nagy fizetős parkoló közvetlenül a kastély területénél.",
     "ro": "Parcare mare cu plată direct la domeniul castelului.",
-    "en": "Large paid parking lot directly at the castle grounds."
+    "en": "Large paid parking lot directly at the castle grounds.",
+    "tr": "Saray arazisinin hemen yanında büyük ücretli otopark."
   },
   "accessibility": {
     "de": "Parkwege teilweise steil; Schlossbesuch für Rollstuhlfahrer nur nach Anmeldung möglich.",
     "hu": "A park útjai helyenként meredekek; kerekesszékes látogatás a kastélyban csak előzetes bejelentkezéssel lehetséges.",
     "ro": "Aleile din parc parțial abrupte; vizita la castel pentru utilizatorii de scaune cu rotile posibilă doar cu programare.",
-    "en": "Park paths partially steep; castle visit for wheelchair users only possible by prior appointment."
+    "en": "Park paths partially steep; castle visit for wheelchair users only possible by prior appointment.",
+    "tr": "Park yolları kısmen dik; tekerlekli sandalye ile saray ziyareti yalnızca önceden randevu ile mümkün."
   },
   "photoRules": {
     "de": "Fotografieren im Schloss streng verboten; im Park uneingeschränkt erlaubt.",
     "hu": "A kastélyban a fotózás szigorúan tilos; a parkban korlátozás nélkül engedélyezett.",
     "ro": "Fotografierea în castel strict interzisă; în parc este permisă fără restricții.",
-    "en": "Photography inside the castle strictly prohibited; allowed without restrictions in the park."
+    "en": "Photography inside the castle strictly prohibited; allowed without restrictions in the park.",
+    "tr": "Saray içinde fotoğraf çekmek kesinlikle yasak; parkta sınırlama olmadan izinli."
   },
   "bestTimeToVisit": {
     "de": "Mai/Juni wenn die Brunnen (alle 30 Min) und Blumenrabatten voll in Blüte stehen.",
     "hu": "Május/június, amikor a szökőkutak (30 percenként) és a virágágyások teljes pompájukban láthatók.",
     "ro": "Mai/Iunie, când fântânile (la fiecare 30 min) și rondurile de flori sunt în plină floare.",
-    "en": "May/June when the fountains (every 30 min) and flower beds are in full bloom."
+    "en": "May/June when the fountains (every 30 min) and flower beds are in full bloom.",
+    "tr": "Çiçek yatakları ve her 30 dakikada bir çalışan fıskiyeler tam çiçeklendiğinde, Mayıs/Haziran."
   },
   "audioGuide": {
     "de": "nein (Führungen in DE/EN)",
     "hu": "nem (vezetések németül és angolul)",
     "ro": "nu (tururi ghidate în DE/EN)",
-    "en": "no (tours in DE/EN)"
+    "en": "no (tours in DE/EN)",
+    "tr": "hayır (turlar DE/EN olarak)"
   }
 }

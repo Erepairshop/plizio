@@ -3,55 +3,64 @@
     "de": "Schloßhof 2, 63875 Mespelbrunn",
     "hu": "Schloßhof 2, 63875 Mespelbrunn",
     "ro": "Schloßhof 2, 63875 Mespelbrunn",
-    "en": "Schloßhof 2, 63875 Mespelbrunn"
+    "en": "Schloßhof 2, 63875 Mespelbrunn",
+    "tr": "Schloßhof 2, 63875 Mespelbrunn"
   },
   "openingHours": {
     "de": "Mo-Su 10:00-17:00 (nur Karfreitag bis Anfang November)",
     "hu": "H-V 10:00-17:00 (Nagypéntektől november elejéig)",
     "ro": "Lu-Du 10:00-17:00 (doar din Vinerea Mare până la începutul lunii noiembrie)",
-    "en": "Mon-Sun 10:00-17:00 (only from Good Friday to early November)"
+    "en": "Mon-Sun 10:00-17:00 (only from Good Friday to early November)",
+    "tr": "Pzt-Paz 10:00-17:00 (Sadece Kutsal Cuma'dan erken Kasım'a kadar)"
   },
   "entranceFee": {
     "de": "5,00 € Erwachsene (nur mit Führung)",
     "hu": "Felnőtt: 5,00 € (csak vezetéssel)",
     "ro": "5,00 € adulți (doar cu ghid)",
-    "en": "5.00 € adults (only with guided tour)"
+    "en": "5.00 € adults (only with guided tour)",
+    "tr": "5,00 € yetişkinler (yalnızca rehberli tur ile)"
   },
   "website": "https://www.schloss-mespelbrunn.de",
   "publicTransport": {
     "de": "Bus 40 ab Aschaffenburg Hbf bis Haltestelle Mespelbrunn Schloss",
     "hu": "40-es busz Aschaffenburg főpályaudvartól Mespelbrunn Schloss megállóig",
     "ro": "Autobuzul 40 de la Gara Centrală Aschaffenburg până la stația Mespelbrunn Schloss",
-    "en": "Bus 40 from Aschaffenburg Hbf to Mespelbrunn Schloss stop"
+    "en": "Bus 40 from Aschaffenburg Hbf to Mespelbrunn Schloss stop",
+    "tr": "Aschaffenburg Hbf'den 40 numaralı otobüs ile Mespelbrunn Schloss durağına"
   },
   "parking": {
     "de": "Gebührenpflichtiger Parkplatz ca. 5 Min Fußweg vom Schloss entfernt.",
     "hu": "Fizetős parkoló kb. 5 perc sétára a kastélytól.",
     "ro": "Parcare cu plată la aproximativ 5 minute de mers pe jos de castel.",
-    "en": "Paid parking approx. 5 mins walk from the castle."
+    "en": "Paid parking approx. 5 mins walk from the castle.",
+    "tr": "Saraydan yaklaşık 5 dakikalık yürüyüş mesafesinde ücretli otopark."
   },
   "accessibility": {
     "de": "Eingeschränkt; Schlosshof zugänglich, Innenräume nur über historische Treppen.",
     "hu": "Korlátozott; a kastélyudvar akadálymentes, a belső terek csak történelmi lépcsőkön érhetők el.",
     "ro": "Limitat; curtea castelului este accesibilă, interioarele doar prin scări istorice.",
-    "en": "Limited; castle courtyard accessible, interiors only via historic stairs."
+    "en": "Limited; castle courtyard accessible, interiors only via historic stairs.",
+    "tr": "Sınırlı erişim; saray avlusu erişilebilir, iç mekanlar yalnızca tarihi merdivenlerle."
   },
   "photoRules": {
     "de": "Fotografieren im Schlossinneren verboten; Außenaufnahmen erlaubt.",
     "hu": "A kastély belsejében fotózni tilos; kültéri felvételek engedélyezettek.",
     "ro": "Fotografiatul interzis în interiorul castelului; fotografii exterioare permise.",
-    "en": "Photography inside the castle forbidden; outdoor shots allowed."
+    "en": "Photography inside the castle forbidden; outdoor shots allowed.",
+    "tr": "Saray içinde fotoğraf çekmek yasak; dış mekan çekimlerine izin var."
   },
   "bestTimeToVisit": {
     "de": "Wochentags am Vormittag, um dem starken Ausflugsverkehr am Wochenende zu entgehen.",
     "hu": "Hétköznap délelőtt, hogy elkerülje a hétvégi nagy tömeget.",
     "ro": "În zilele lucrătoare dimineața, pentru a evita traficul intens de excursioniști din weekend.",
-    "en": "Weekdays in the morning to avoid the heavy weekend excursion traffic."
+    "en": "Weekdays in the morning to avoid the heavy weekend excursion traffic.",
+    "tr": "Yoğun hafta sonu gezi trafiğinden kaçınmak için hafta içi sabahları."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

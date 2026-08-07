@@ -3,55 +3,64 @@
     "de": "Am Markt, 28195 Bremen",
     "hu": "Am Markt, 28195 Bréma",
     "ro": "Am Markt, 28195 Bremen",
-    "en": "Am Markt, 28195 Bremen"
+    "en": "Am Markt, 28195 Bremen",
+    "tr": "Am Markt, 28195 Bremen"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "24/7"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "",
   "publicTransport": {
     "de": "Straßenbahn Domsheide",
     "hu": "Domsheide villamos",
     "ro": "Tramvai Domsheide",
-    "en": "Tram Domsheide"
+    "en": "Tram Domsheide",
+    "tr": "Domsheide tramvayı"
   },
   "parking": {
     "de": "Parkhaus Mitte",
     "hu": "Parkhaus Mitte",
     "ro": "Parcare Mitte",
-    "en": "Parking Mitte"
+    "en": "Parking Mitte",
+    "tr": "Parking Mitte"
   },
   "accessibility": {
     "de": "Barrierefrei auf dem Marktplatz",
     "hu": "A piactér akadálymentes",
     "ro": "Piața centrală este accesibilă",
-    "en": "Accessible at the market square"
+    "en": "Accessible at the market square",
+    "tr": "Pazar meydanında erişilebilir"
   },
   "photoRules": {
     "de": "Erlaubt",
     "hu": "Engedélyezett",
     "ro": "Permis",
-    "en": "Allowed"
+    "en": "Allowed",
+    "tr": "İzinli"
   },
   "bestTimeToVisit": {
     "de": "Vormittags für beste Lichtverhältnisse",
     "hu": "Délelőtt a legjobb fényviszonyokért",
     "ro": "Dimineața pentru cele mai bune condiții de lumină",
-    "en": "Mornings for the best lighting conditions"
+    "en": "Mornings for the best lighting conditions",
+    "tr": "En iyi ışık koşulları için sabahlar"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

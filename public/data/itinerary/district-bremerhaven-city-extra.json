@@ -21,7 +21,8 @@
             "de": "Deutsches Auswandererhaus",
             "hu": "Német Kivándorlási Központ",
             "ro": "Centrul German de Emigrare",
-            "en": "German Emigration Center"
+            "en": "German Emigration Center",
+            "tr": "Alman Göç Merkezi"
           },
           "coords": [
             53.545,
@@ -36,7 +37,8 @@
             "de": "Interaktive Zeitreise mit persönlichen Schicksalen.",
             "hu": "Interaktív időutazás személyes élettörténetekkel.",
             "ro": "O călătorie interactivă în timp cu povești personale.",
-            "en": "Interactive time travel with personal life stories."
+            "en": "Interactive time travel with personal life stories.",
+            "tr": "Kişisel yaşam öyküleriyle etkileşimli zaman yolculuğu."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Museumshafen",
             "hu": "Múzeumi Kikötő",
             "ro": "Portul Muzeu",
-            "en": "Museum Harbor"
+            "en": "Museum Harbor",
+            "tr": "Müze Limanı"
           },
           "coords": [
             53.542,
@@ -59,7 +62,8 @@
             "de": "Historische Schiffe wie die 'Seute Deern' bewundern.",
             "hu": "Csodáld meg a történelmi hajókat, mint a Seute Deern.",
             "ro": "Admirați navele istorice precum Seute Deern.",
-            "en": "Admire historical ships like the Seute Deern."
+            "en": "Admire historical ships like the Seute Deern.",
+            "tr": "Seute Deern gibi tarihi gemilere hayran kalın."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Klimahaus Bremerhaven 8° Ost",
             "hu": "Klímaház 8° Kelet",
             "ro": "Casa Climei 8° Est",
-            "en": "Klimahaus Bremerhaven 8° Ost"
+            "en": "Klimahaus Bremerhaven 8° Ost",
+            "tr": "Klimahaus Bremerhaven 8° Doğu"
           },
           "coords": [
             53.543,
@@ -82,7 +87,8 @@
             "de": "Alle Klimazonen der Erde an einem Tag erleben.",
             "hu": "Éld át a Föld összes éghajlati övét egy nap alatt.",
             "ro": "Experimentați toate zonele climatice ale lumii într-o zi.",
-            "en": "Experience all the Earth's climate zones in one day."
+            "en": "Experience all the Earth's climate zones in one day.",
+            "tr": "Bir günde dünyanın tüm iklim kuşaklarını deneyimleyin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Zoo am Meer",
             "hu": "Tengeri Állatkert",
             "ro": "Grădina Zoologică de la Mare",
-            "en": "Zoo at the Sea"
+            "en": "Zoo at the Sea",
+            "tr": "Deniz Kenarındaki Hayvanat Bahçesi"
           },
           "coords": [
             53.544,
@@ -105,7 +112,8 @@
             "de": "Eisbären und Pinguine direkt an der Weser.",
             "hu": "Jegesmedvék és pingvinek közvetlenül a Weser partján.",
             "ro": "Urși polari și pinguini chiar pe malul râului Weser.",
-            "en": "Polar bears and penguins right on the Weser river."
+            "en": "Polar bears and penguins right on the Weser river.",
+            "tr": "Weser nehri kıyısında kutup ayıları ve penguenler."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Großer Leuchtturm",
             "hu": "Nagy Világítótorony",
             "ro": "Farul Mare",
-            "en": "Great Lighthouse"
+            "en": "Great Lighthouse",
+            "tr": "Büyük Deniz Feneri"
           },
           "coords": [
             53.546,
@@ -128,7 +137,8 @@
             "de": "Der älteste Festland-Leuchtturm an der deutschen Küste.",
             "hu": "A német tengerpart legrégebbi szárazföldi világítótornya.",
             "ro": "Cel mai vechi far de pe coasta germană continentală.",
-            "en": "The oldest mainland lighthouse on the German coast."
+            "en": "The oldest mainland lighthouse on the German coast.",
+            "tr": "Alman kıyısının ana karasındaki en eski deniz feneri."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Deutsches Schifffahrtsmuseum",
             "hu": "Német Hajózási Múzeum",
             "ro": "Muzeul Maritim German",
-            "en": "German Maritime Museum"
+            "en": "German Maritime Museum",
+            "tr": "Alman Denizcilik Müzesi"
           },
           "coords": [
             53.54,
@@ -151,7 +162,8 @@
             "de": "Sehenswert: Die Hansekogge von 1380.",
             "hu": "Látnivaló: Az 1380-ból származó Hanza-kogge.",
             "ro": "De vizitat: Hanseatic Kogge din 1380.",
-            "en": "Must see: The Hanseatic Kogge from 1380."
+            "en": "Must see: The Hanseatic Kogge from 1380.",
+            "tr": "Mutlaka görülmeli: 1380 tarihli Hansa Koggesi."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Bremerhaven empfängt Sie mit salziger Meeresluft und dem Flair einer traditionsreichen Hafenstadt. Der Morgen beginnt im Auswandererhaus, wo die berührenden Geschichten von Millionen Menschen lebendig werden. Mittags schlendern Sie durch den Museumshafen, vorbei an stolzen Traditionsschiffen. Der Nachmittag gehört der Weltreise im Klimahaus, bevor Sie den Tag entspannt am Großen Leuchtturm ausklingen lassen.",
         "hu": "Bremerhaven sós tengeri levegővel és egy hagyományőrző kikötőváros hangulatával várja Önt. A reggel a Kivándorlási Központban kezdődik, ahol milliók megható történetei elevenednek meg. Délben a Múzeumi Kikötőben sétálhat büszke történelmi hajók között. A délután a Klímaház világkörüli utazásáé, mielőtt a napot a Nagy Világítótoronynál zárná.",
         "ro": "Bremerhaven vă întâmpină cu aer sărat de mare și atmosfera unui oraș portuar bogat în tradiții. Dimineața începe la Centrul de Emigrare, unde prind viață poveștile emoționante ale milioanelor de oameni. La prânz, vă plimbați prin Portul Muzeu pe lângă nave istorice mândre. După-amiaza este dedicată călătoriei în jurul lumii la Casa Climei, înainte de a încheia ziua la Farul Mare.",
-        "en": "Bremerhaven welcomes you with salty sea air and the flair of a traditional port city. The morning begins at the Emigration Center, where the touching stories of millions come to life. At noon, stroll through the Museum Harbor past proud historic ships. The afternoon is dedicated to a world tour in the Klimahaus before ending the day relaxed at the Great Lighthouse."
+        "en": "Bremerhaven welcomes you with salty sea air and the flair of a traditional port city. The morning begins at the Emigration Center, where the touching stories of millions come to life. At noon, stroll through the Museum Harbor past proud historic ships. The afternoon is dedicated to a world tour in the Klimahaus before ending the day relaxed at the Great Lighthouse.",
+        "tr": "Bremerhaven sizi tuzlu deniz havası ve geleneksel bir liman kentinin atmosferiyle karşılar. Sabah Göç Merkezi’nde milyonların dokunaklı hikâyeleri canlanır. Öğle vakti Müze Limanı’nda gururlu tarihi gemiler arasında dolaşın. Öğleden sonra Klimahaus’ta bir dünya turuna çıkın ve günü Büyük Deniz Feneri’nde dinlenerek bitirin."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "Buy combined tickets for museums to save money.",
           "A fish bun (Fischbrötchen) at the harbor is a must.",
           "Check the tides if you plan to walk on the dike."
+        ],
+        "tr": [
+          "Havenwelten bölgesi çok kompakt ve yürüyerek keşfetmesi kolay.",
+          "Müzeler için kombine biletler alarak tasarruf edin.",
+          "Liman kenarında bir balık sandviçi (Fischbrötchen) şart.",
+          "Set üzerinde yürümeyi planlıyorsanız gelgitleri kontrol edin."
         ]
       }
     },
@@ -335,7 +354,8 @@
             "de": "Container-Aussichtsturm",
             "hu": "Konténer-kilátó",
             "ro": "Turnul de observație Container",
-            "en": "Container Lookout Tower"
+            "en": "Container Lookout Tower",
+            "tr": "Konteyner Seyir Kulesi"
           },
           "coords": [
             53.54,
@@ -350,7 +370,8 @@
             "de": "Blick über den Containerterminal und die Schleusen.",
             "hu": "Kilátás a konténerterminálra és a zsilipekre.",
             "ro": "Vedere asupra terminalului de containere și a ecluzelor.",
-            "en": "View over the container terminal and the locks."
+            "en": "View over the container terminal and the locks.",
+            "tr": "Konteyner terminali ve kilitlere bakış."
           }
         },
         {
@@ -358,7 +379,8 @@
             "de": "Museumshafen",
             "hu": "Múzeumi Kikötő",
             "ro": "Portul Muzeu",
-            "en": "Museum Harbor"
+            "en": "Museum Harbor",
+            "tr": "Müze Limanı"
           },
           "coords": [
             53.542,
@@ -373,7 +395,8 @@
             "de": "Kurzer Stopp bei den historischen Seglern.",
             "hu": "Rövid megálló a történelmi vitorlásoknál.",
             "ro": "O scurtă oprire la velierele istorice.",
-            "en": "Short stop at the historic sailing ships."
+            "en": "Short stop at the historic sailing ships.",
+            "tr": "Tarihi yelkenlilerde kısa durak."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Deutsches Schifffahrtsmuseum",
             "hu": "Német Hajózási Múzeum",
             "ro": "Muzeul Maritim German",
-            "en": "German Maritime Museum"
+            "en": "German Maritime Museum",
+            "tr": "Alman Denizcilik Müzesi"
           },
           "coords": [
             53.54,
@@ -396,7 +420,8 @@
             "de": "Maritime Geschichte zum Anfassen.",
             "hu": "Kézzel fogható tengerészeti történelem.",
             "ro": "Istoria maritimă pe care o poți atinge.",
-            "en": "Maritime history you can touch."
+            "en": "Maritime history you can touch.",
+            "tr": "Dokunabileceğiniz denizcilik tarihi."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "U-Boot Wilhelm Bauer",
             "hu": "Wilhelm Bauer tengeralattjáró",
             "ro": "Submarinul Wilhelm Bauer",
-            "en": "U-Boot Wilhelm Bauer"
+            "en": "U-Boot Wilhelm Bauer",
+            "tr": "U-Boot Wilhelm Bauer"
           },
           "coords": [
             53.541,
@@ -419,7 +445,8 @@
             "de": "Einziges erhaltenes U-Boot des Typs XXI.",
             "hu": "Az egyetlen megmaradt XXI-es típusú tengeralattjáró.",
             "ro": "Singurul submarin de tip XXI păstrat.",
-            "en": "The only preserved Type XXI submarine."
+            "en": "The only preserved Type XXI submarine.",
+            "tr": "Korunmuş tek Tip XXI denizaltı."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Klimahaus Bremerhaven 8° Ost",
             "hu": "Klímaház 8° Kelet",
             "ro": "Casa Climei 8° Est",
-            "en": "Klimahaus Bremerhaven 8° Ost"
+            "en": "Klimahaus Bremerhaven 8° Ost",
+            "tr": "Klimahaus Bremerhaven 8° Doğu"
           },
           "coords": [
             53.543,
@@ -442,7 +470,8 @@
             "de": "Faszinierende Reise durch die Klimazonen.",
             "hu": "Lenyűgöző utazás az éghajlati öveken át.",
             "ro": "Călătorie fascinantă prin zonele climatice.",
-            "en": "Fascinating journey through climate zones."
+            "en": "Fascinating journey through climate zones.",
+            "tr": "İklim kuşakları arasında büyüleyici bir yolculuk."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Zoo am Meer",
             "hu": "Tengeri Állatkert",
             "ro": "Grădina Zoologică de la Mare",
-            "en": "Zoo at the Sea"
+            "en": "Zoo at the Sea",
+            "tr": "Deniz Kenarındaki Hayvanat Bahçesi"
           },
           "coords": [
             53.544,
@@ -465,7 +495,8 @@
             "de": "Nordische Tiere in moderner Anlage.",
             "hu": "Északi állatok modern környezetben.",
             "ro": "Animale nordice într-un cadru modern.",
-            "en": "Nordic animals in a modern facility."
+            "en": "Nordic animals in a modern facility.",
+            "tr": "Modern bir tesiste kuzey hayvanları."
           }
         }
       ],
@@ -473,7 +504,8 @@
         "de": "Mit dem Rad erkunden Sie Bremerhaven flexibel und weitläufig. Starten Sie im Süden am Container-Aussichtsturm mit Blick auf den Welthandel. Entlang der Weser geht es zurück in die Havenwelten zum Schifffahrtsmuseum und dem beeindruckenden U-Boot. Nach der Weltreise im Klimahaus beenden Sie Ihre Tour bei den Seehunden im Zoo am Meer.",
         "hu": "Kerékpárral rugalmasan és tágabb körben fedezheti fel Bremerhavent. Kezdjen délen, a Konténer-kilátónál, rálátással a világkereskedelemre. A Weser mentén tekerjen vissza a Havenwelten negyedbe a Hajózási Múzeumhoz és a lenyűgöző tengeralattjáróhoz. A Klímaház után zárja túráját a fókáknál a Tengeri Állatkertben.",
         "ro": "Cu bicicleta explorați Bremerhaven flexibil și pe o arie mai extinsă. Începeți în sud, la Turnul Container, cu vedere la comerțul mondial. De-a lungul râului Weser reveniți în Havenwelten la Muzeul Maritim și la submarinul impresionant. După călătoria la Casa Climei, încheiați turul la focile de la Grădina Zoologică.",
-        "en": "By bike, you explore Bremerhaven flexibly and extensively. Start in the south at the Container Lookout Tower with a view of global trade. Along the Weser, ride back to the Havenwelten to the Maritime Museum and the impressive submarine. After the journey in the Klimahaus, end your tour at the seals in the Zoo at the Sea."
+        "en": "By bike, you explore Bremerhaven flexibly and extensively. Start in the south at the Container Lookout Tower with a view of global trade. Along the Weser, ride back to the Havenwelten to the Maritime Museum and the impressive submarine. After the journey in the Klimahaus, end your tour at the seals in the Zoo at the Sea.",
+        "tr": "Bisikletle Bremerhaven’i esnek ve kapsamlı şekilde keşfedebilirsiniz. Güne küresel ticareti gören Konteyner Seyir Kulesi’nden başlayın. Weser boyunca Havenwelten’e, Denizcilik Müzesi ve etkileyici denizaltıya doğru geri sürün. Klimahaus gezisinin ardından turunuzu Deniz Kenarındaki Hayvanat Bahçesi’ndeki fokları izleyerek sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -577,6 +609,11 @@
           "Use the well-developed bike paths on the Weser dike.",
           "Lock your bike at the designated areas in the Havenwelten.",
           "The wind can be very strong on the coast."
+        ],
+        "tr": [
+          "Weser setindeki iyi gelişmiş bisiklet yollarını kullanın.",
+          "Havenwelten’de belirlenmiş alanlarda bisikletinizi kilitleyin.",
+          "Kıyıda rüzgâr çok güçlü olabilir."
         ]
       }
     },
@@ -593,7 +630,8 @@
             "de": "Deutsches Auswandererhaus (Cluster A)",
             "hu": "Német Kivándorlási Központ (A klaszter)",
             "ro": "Centrul German de Emigrare (Cluster A)",
-            "en": "German Emigration Center (Cluster A)"
+            "en": "German Emigration Center (Cluster A)",
+            "tr": "Alman Göç Merkezi (Küme A)"
           },
           "coords": [
             53.545,
@@ -609,7 +647,8 @@
             "de": "Parken im Parkhaus Havenwelten.",
             "hu": "Parkolás a Havenwelten parkolóházban.",
             "ro": "Parcare în parcarea Havenwelten.",
-            "en": "Park at the Havenwelten parking garage."
+            "en": "Park at the Havenwelten parking garage.",
+            "tr": "Havenwelten otopark garajına park edin."
           }
         },
         {
@@ -617,7 +656,8 @@
             "de": "Klimahaus Bremerhaven 8° Ost",
             "hu": "Klímaház 8° Kelet",
             "ro": "Casa Climei 8° Est",
-            "en": "Klimahaus Bremerhaven 8° Ost"
+            "en": "Klimahaus Bremerhaven 8° Ost",
+            "tr": "Klimahaus Bremerhaven 8° Doğu"
           },
           "coords": [
             53.543,
@@ -633,7 +673,8 @@
             "de": "Fußläufig vom Auswandererhaus erreichbar.",
             "hu": "Gyalogosan elérhető a Kivándorlási Központtól.",
             "ro": "Accesibil pe jos de la Centrul de Emigrare.",
-            "en": "Within walking distance from the Emigration Center."
+            "en": "Within walking distance from the Emigration Center.",
+            "tr": "Göç Merkezi’ne yürüyüş mesafesinde."
           }
         },
         {
@@ -641,7 +682,8 @@
             "de": "Zoo am Meer",
             "hu": "Tengeri Állatkert",
             "ro": "Grădina Zoologică de la Mare",
-            "en": "Zoo at the Sea"
+            "en": "Zoo at the Sea",
+            "tr": "Deniz Kenarındaki Hayvanat Bahçesi"
           },
           "coords": [
             53.544,
@@ -657,7 +699,8 @@
             "de": "Einzigartige Lage am Deich.",
             "hu": "Egyedülálló elhelyezkedés a gáton.",
             "ro": "Locație unică pe dig.",
-            "en": "Unique location on the dike."
+            "en": "Unique location on the dike.",
+            "tr": "Set üzerindeki benzersiz konum."
           }
         },
         {
@@ -665,7 +708,8 @@
             "de": "Museumshafen (Cluster B)",
             "hu": "Múzeumi Kikötő (B klaszter)",
             "ro": "Portul Muzeu (Cluster B)",
-            "en": "Museum Harbor (Cluster B)"
+            "en": "Museum Harbor (Cluster B)",
+            "tr": "Müze Limanı (Küme B)"
           },
           "coords": [
             53.542,
@@ -681,7 +725,8 @@
             "de": "Kurze Fahrt zum nächsten Parkplatz.",
             "hu": "Rövid út a következő parkolóig.",
             "ro": "Scurtă călătorie până la următoarea parcare.",
-            "en": "Short drive to the next parking lot."
+            "en": "Short drive to the next parking lot.",
+            "tr": "Bir sonraki otoparka kısa sürüş."
           }
         },
         {
@@ -689,7 +734,8 @@
             "de": "Deutsches Schifffahrtsmuseum",
             "hu": "Német Hajózási Múzeum",
             "ro": "Muzeul Maritim German",
-            "en": "German Maritime Museum"
+            "en": "German Maritime Museum",
+            "tr": "Alman Denizcilik Müzesi"
           },
           "coords": [
             53.54,
@@ -705,7 +751,8 @@
             "de": "Wichtiger Ankerpunkt der maritimen Geschichte.",
             "hu": "A tengerészeti történelem fontos horgonypontja.",
             "ro": "Un punct important al istoriei maritime.",
-            "en": "Important anchor point of maritime history."
+            "en": "Important anchor point of maritime history.",
+            "tr": "Denizcilik tarihinin önemli bir demirbaşı."
           }
         }
       ],
@@ -713,7 +760,8 @@
         "de": "Mit dem Auto nutzen Sie die bequemen Parkmöglichkeiten der Havenwelten. Der Tag beginnt mit einer Zeitreise im Auswandererhaus, gefolgt von einer Weltreise im Klimahaus und einem Besuch bei den Tieren im Zoo. Alle drei liegen nah beieinander. Nach einem kurzen Fahrzeugwechsel erkunden Sie den Museumshafen und das Schifffahrtsmuseum im südlichen Cluster.",
         "hu": "Autóval használja ki a Havenwelten kényelmes parkolási lehetőségeit. A nap egy időutazással kezdődik a Kivándorlási Központban, amelyet a Klímaház világkörüli útja és az állatkert látogatása követ. Mindhárom közel fekszik egymáshoz. Egy rövid autós áthelyezkedés után a déli klaszterben a Múzeumi Kikötőt és a Hajózási Múzeumot fedezheti fel.",
         "ro": "Cu mașina, profitați de locurile de parcare convenabile din Havenwelten. Ziua începe cu o călătorie în timp la Centrul de Emigrare, urmată de o călătorie în jurul lumii la Casa Climei și o vizită la animalele de la grădina zoologică. Toate trei sunt situate aproape una de alta. După o scurtă deplasare cu mașina, explorați Portul Muzeu și Muzeul Maritim în clusterul sudic.",
-        "en": "By car, take advantage of the convenient parking in Havenwelten. The day begins with time travel at the Emigration Center, followed by a world tour in the Klimahaus and a visit to the animals at the zoo. All three are located close to each other. After a short drive, explore the Museum Harbor and the Maritime Museum in the southern cluster."
+        "en": "By car, take advantage of the convenient parking in Havenwelten. The day begins with time travel at the Emigration Center, followed by a world tour in the Klimahaus and a visit to the animals at the zoo. All three are located close to each other. After a short drive, explore the Museum Harbor and the Maritime Museum in the southern cluster.",
+        "tr": "Arabayla Havenwelten’deki uygun park imkanlarından faydalanın. Gün, Göç Merkezi’nde zaman yolculuğuyla başlar; ardından Klimahaus’ta bir dünya turu ve hayvanat bahçesindeki ziyaret gelir. Bu üçü birbirine yakın konumdadır. Kısa bir sürüşün ardından güney kümesindeki Müze Limanı ve Denizcilik Müzesi’ni keşfedin."
       },
       "gastro_picks": {
         "de": [
@@ -817,6 +865,11 @@
           "Park centrally in the Havenwelten parking garage.",
           "Everything within Havenwelten is accessible on foot.",
           "Use parking apps for easy payment."
+        ],
+        "tr": [
+          "Havenwelten otopark garajına merkezi olarak park edin.",
+          "Havenwelten içindeki her yere yürüyerek ulaşılabilir.",
+          "Kolay ödeme için park uygulamalarını kullanın."
         ]
       }
     },
@@ -833,7 +886,8 @@
             "de": "Deutsches Auswandererhaus",
             "hu": "Német Kivándorlási Központ",
             "ro": "Centrul German de Emigrare",
-            "en": "German Emigration Center"
+            "en": "German Emigration Center",
+            "tr": "Alman Göç Merkezi"
           },
           "coords": [
             53.545,
@@ -849,7 +903,8 @@
             "de": "Bushaltestelle 'Havenwelten' direkt vor der Tür.",
             "hu": "A Havenwelten buszmegálló közvetlenül az ajtó előtt.",
             "ro": "Stația de autobuz 'Havenwelten' chiar în față.",
-            "en": "Havenwelten bus stop right in front of the door."
+            "en": "Havenwelten bus stop right in front of the door.",
+            "tr": "Havenwelten otobüs durağı tam kapı önünde."
           }
         },
         {
@@ -857,7 +912,8 @@
             "de": "Klimahaus Bremerhaven 8° Ost",
             "hu": "Klímaház 8° Kelet",
             "ro": "Casa Climei 8° Est",
-            "en": "Klimahaus Bremerhaven 8° Ost"
+            "en": "Klimahaus Bremerhaven 8° Ost",
+            "tr": "Klimahaus Bremerhaven 8° Doğu"
           },
           "coords": [
             53.543,
@@ -873,7 +929,8 @@
             "de": "Ein kurzer Spaziergang durch die Havenwelten.",
             "hu": "Rövid séta a Havenwelten negyeden át.",
             "ro": "O scurtă plimbare prin Havenwelten.",
-            "en": "A short walk through the Havenwelten."
+            "en": "A short walk through the Havenwelten.",
+            "tr": "Havenwelten içinde kısa bir yürüyüş."
           }
         },
         {
@@ -881,7 +938,8 @@
             "de": "Zoo am Meer",
             "hu": "Tengeri Állatkert",
             "ro": "Grădina Zoologică de la Mare",
-            "en": "Zoo at the Sea"
+            "en": "Zoo at the Sea",
+            "tr": "Denizde Hayvanat Bahçesi"
           },
           "coords": [
             53.544,
@@ -897,7 +955,8 @@
             "de": "Pinguinfütterung nicht verpassen.",
             "hu": "Ne hagyja ki a pingvinetetést.",
             "ro": "Nu ratați hrănirea pinguinilor.",
-            "en": "Don't miss the penguin feeding."
+            "en": "Don't miss the penguin feeding.",
+            "tr": "Penguen beslemesini kaçırmayın."
           }
         },
         {
@@ -905,7 +964,8 @@
             "de": "Deutsches Schifffahrtsmuseum",
             "hu": "Német Hajózási Múzeum",
             "ro": "Muzeul Maritim German",
-            "en": "German Maritime Museum"
+            "en": "German Maritime Museum",
+            "tr": "Alman Denizcilik Müzesi"
           },
           "coords": [
             53.54,
@@ -921,7 +981,8 @@
             "de": "Mit dem Hafen-Bus schnell erreichbar.",
             "hu": "A kikötői busszal gyorsan elérhető.",
             "ro": "Accesibil rapid cu autobuzul portuar.",
-            "en": "Quickly accessible with the harbor bus."
+            "en": "Quickly accessible with the harbor bus.",
+            "tr": "Haber otobüsüyle hızlıca ulaşılabilir."
           }
         },
         {
@@ -929,7 +990,8 @@
             "de": "Museumshafen",
             "hu": "Múzeumi Kikötő",
             "ro": "Portul Muzeu",
-            "en": "Museum Harbor"
+            "en": "Museum Harbor",
+            "tr": "Müze Limanı"
           },
           "coords": [
             53.542,
@@ -945,7 +1007,8 @@
             "de": "Abendstimmung im Hafen genießen.",
             "hu": "Élvezze a kikötői esti hangulatot.",
             "ro": "Bucurați-vă de atmosfera de seară în port.",
-            "en": "Enjoy the evening atmosphere in the harbor."
+            "en": "Enjoy the evening atmosphere in the harbor.",
+            "tr": "Akşam atmosferinin keyfini limanda çıkarın."
           }
         }
       ],
@@ -953,7 +1016,8 @@
         "de": "Bremerhaven lässt sich hervorragend mit dem Bus erkunden. Vom Hauptbahnhof bringt Sie die Linie 502 oder der Hafenbus direkt in die Havenwelten. Dort erleben Sie das Auswandererhaus, das Klimahaus und den Zoo in unmittelbarer Nähe. Ein weiterer Bus-Sprung führt Sie zum Schifffahrtsmuseum und dem Museumshafen, wo der Tag maritim endet.",
         "hu": "Bremerhaven kiválóan felfedezhető busszal. A főpályaudvarról az 502-es járat vagy a kikötői busz viszi közvetlenül a Havenwelten negyedbe. Ott a Kivándorlási Központ, a Klímaház és az állatkert közvetlen közelben látogatható. Egy további buszozással a Hajózási Múzeumhoz és a Múzeumi Kikötőhöz juthat, ahol a nap tengeri hangulatban zárul.",
         "ro": "Bremerhaven poate fi explorat excelent cu autobuzul. De la gara centrală, linia 502 sau autobuzul portuar vă duce direct în Havenwelten. Acolo puteți vizita Centrul de Emigrare, Casa Climei și grădina zoologică în imediata apropiere. O altă scurtă călătorie cu autobuzul vă duce la Muzeul Maritim și Portul Muzeu, unde ziua se încheie în stil maritim.",
-        "en": "Bremerhaven can be excellently explored by bus. From the main station, line 502 or the harbor bus takes you directly to the Havenwelten. There you can experience the Emigration Center, the Klimahaus, and the zoo in close proximity. Another bus ride takes you to the Maritime Museum and the Museum Harbor, where the day ends with a maritime vibe."
+        "en": "Bremerhaven can be excellently explored by bus. From the main station, line 502 or the harbor bus takes you directly to the Havenwelten. There you can experience the Emigration Center, the Klimahaus, and the zoo in close proximity. Another bus ride takes you to the Maritime Museum and the Museum Harbor, where the day ends with a maritime vibe.",
+        "tr": "Bremerhaven otobüsle mükemmel şekilde keşfedilebilir. Merkez istasyondan 502 numaralı hat veya liman otobüsü sizi doğrudan Havenwelten'e götürür. Orada Göç Merkezi, Klimahaus ve hayvanat bahçesini yakın mesafede deneyimleyebilirsiniz. Bir başka otobüs yolculuğu sizi Denizcilik Müzesi ve Müze Limanı'na götürür; gün denizcilik havası eşliğinde burada sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -1057,6 +1121,11 @@
           "Use the harbor bus for a quick connection between museums.",
           "A day ticket is worth it for multiple rides.",
           "Buses run every 10 minutes."
+        ],
+        "tr": [
+          "Müzeler arasında hızlı bağlantı için liman otobüsünü kullanın.",
+          "Birden fazla yolculuk için günlük bilet kârlıdır.",
+          "Otobüsler her 10 dakikada bir çalışır."
         ]
       }
     }

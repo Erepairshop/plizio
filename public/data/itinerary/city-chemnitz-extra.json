@@ -21,7 +21,8 @@
             "de": "Altes Rathaus & Markt",
             "hu": "Régi Városháza és Piac tér",
             "ro": "Primăria Veche și Piața",
-            "en": "Old Town Hall & Market"
+            "en": "Old Town Hall & Market",
+            "tr": "Eski Belediye Binası & Pazar"
           },
           "coords": [
             12.9205,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf das Renaissance-Portal.",
             "hu": "Figyelje meg a reneszánsz kapuzatot.",
             "ro": "Observați portalul renascentist.",
-            "en": "Look for the Renaissance portal."
+            "en": "Look for the Renaissance portal.",
+            "tr": "Rönesans portalını arayın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Roter Turm",
             "hu": "Vörös torony",
             "ro": "Turnul Roșu",
-            "en": "Red Tower"
+            "en": "Red Tower",
+            "tr": "Kırmızı Kule"
           },
           "coords": [
             12.9228,
@@ -59,7 +62,8 @@
             "de": "Das älteste Wahrzeichen der Stadt.",
             "hu": "A város legrégebbi jelképe.",
             "ro": "Cel mai vechi simbol al orașului.",
-            "en": "The oldest landmark in the city."
+            "en": "The oldest landmark in the city.",
+            "tr": "Şehrin en eski simgesi."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Karl-Marx-Monument",
             "hu": "Karl Marx-emlékmű",
             "ro": "Monumentul Karl Marx",
-            "en": "Karl Marx Monument"
+            "en": "Karl Marx Monument",
+            "tr": "Karl Marx Anıtı"
           },
           "coords": [
             12.9238,
@@ -82,7 +87,8 @@
             "de": "Einheimische nennen ihn liebevoll 'Nischel'.",
             "hu": "A helyiek csak 'Nischel'-nek hívják.",
             "ro": "Localnicii îl numesc 'Nischel'.",
-            "en": "Locals call it 'Nischel'."
+            "en": "Locals call it 'Nischel'.",
+            "tr": "Yerel halk ona 'Nischel' diyor."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Opernhaus Chemnitz",
             "hu": "Chemnitzi Operaház",
             "ro": "Opera din Chemnitz",
-            "en": "Chemnitz Opera House"
+            "en": "Chemnitz Opera House",
+            "tr": "Chemnitz Opera Binası"
           },
           "coords": [
             12.9272,
@@ -105,7 +112,8 @@
             "de": "Wunderschöne Architektur am Theaterplatz.",
             "hu": "Gyönyörű építészet a Theaterplatzon.",
             "ro": "Arhitectură superbă în Theaterplatz.",
-            "en": "Beautiful architecture at Theaterplatz."
+            "en": "Beautiful architecture at Theaterplatz.",
+            "tr": "Theaterplatz’da güzel mimari."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Staatliches Museum für Archäologie (smac)",
             "hu": "Állami Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "State Museum of Archaeology"
+            "en": "State Museum of Archaeology",
+            "tr": "Devlet Arkeoloji Müzesi"
           },
           "coords": [
             12.9248,
@@ -128,7 +137,8 @@
             "de": "Im ehemaligen Kaufhaus Schocken untergebracht.",
             "hu": "Az egykori Schocken áruházban található.",
             "ro": "Găzduit în fostul magazin Schocken.",
-            "en": "Housed in the former Schocken department store."
+            "en": "Housed in the former Schocken department store.",
+            "tr": "Eski Schocken mağazasında sergileniyor."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the city center"
+            "en": "Lunch in the city center",
+            "tr": "Şehir merkezinde öğle yemeği"
           },
           "coords": [
             12.9215,
@@ -151,7 +162,8 @@
             "de": "Probieren Sie sächsische Kartoffelsuppe.",
             "hu": "Kóstolja meg a szász burgonyalevest.",
             "ro": "Încercați supa de cartofi saxonă.",
-            "en": "Try the Saxon potato soup."
+            "en": "Try the Saxon potato soup.",
+            "tr": "Sakson patates çorbasını deneyin."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Rathaus Passagen",
             "hu": "Városháza Passzázs",
             "ro": "Pasajele Primăriei",
-            "en": "Rathaus Passagen"
+            "en": "Rathaus Passagen",
+            "tr": "Rathaus Passagen"
           },
           "coords": [
             12.9208,
@@ -174,7 +187,8 @@
             "de": "Perfekt für Souvenirs und regionale Produkte.",
             "hu": "Tökéletes szuvenírekhez és helyi termékekhez.",
             "ro": "Perfect pentru suveniruri și produse locale.",
-            "en": "Perfect for souvenirs and regional products."
+            "en": "Perfect for souvenirs and regional products.",
+            "tr": "Hediyelik eşya ve yöresel ürünler için ideal."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Entdecken Sie das moderne Herz von Chemnitz zu Fuß. Der Vormittag steht im Zeichen der Geschichte und monumentaler Kunst, vom Roten Turm bis zum berühmten Marx-Monument. Nachmittags tauchen Sie im smac in die Archäologie ein und genießen sächsische Kulinarik direkt am Markt.",
         "hu": "Fedezze fel Chemnitz modern szívét gyalogosan. A délelőtt a történelem és a monumentális művészet jegyében telik, a Vörös toronytól a híres Marx-emlékműig. Délután a smac múzeumban merülhet el a régészetben, majd a piacon kóstolhat szász finomságokat.",
         "ro": "Explorați inima modernă a orașului Chemnitz la pas. Dimineața este dedicată istoriei și artei monumentale, de la Turnul Roșu la celebrul monument Marx. După-amiaza, pătrundeți în arheologie la smac și bucurați-vă de gastronomia saxonă chiar în piață.",
-        "en": "Discover the modern heart of Chemnitz on foot. The morning is dedicated to history and monumental art, from the Red Tower to the famous Marx monument. In the afternoon, dive into archaeology at the smac and enjoy Saxon culinary delights right at the market."
+        "en": "Discover the modern heart of Chemnitz on foot. The morning is dedicated to history and monumental art, from the Red Tower to the famous Marx monument. In the afternoon, dive into archaeology at the smac and enjoy Saxon culinary delights right at the market.",
+        "tr": "Chemnitz’in modern kalbini yürüyerek keşfedin. Sabah Kırmızı Kule’den ünlü Marx anıtına kadar tarih ve anıtsal sanatla geçer. Öğleden sonra smac’ta arkeolojiye dalın ve pazar yerinde Sakson lezzetlerinin tadını çıkarın."
       },
       "gastro_picks": {
         "de": [
@@ -286,6 +301,11 @@
           "The city center is compact and very walkable.",
           "Look out for the modern architecture of the new city center.",
           "The market is the best starting point."
+        ],
+        "tr": [
+          "Şehir merkezi kompakt ve yürümeye çok uygun.",
+          "Yeni şehir merkezinin modern mimarisine dikkat edin.",
+          "Başlangıç için en iyi nokta pazar yeridir."
         ]
       }
     },
@@ -302,7 +322,8 @@
             "de": "Karl-Marx-Monument",
             "hu": "Karl Marx-emlékmű",
             "ro": "Monumentul Karl Marx",
-            "en": "Karl Marx Monument"
+            "en": "Karl Marx Monument",
+            "tr": "Karl Marx Anıtı"
           },
           "coords": [
             12.9238,
@@ -317,7 +338,8 @@
             "de": "Ideal für ein schnelles Foto am Morgen.",
             "hu": "Ideális egy gyors reggeli fotóhoz.",
             "ro": "Ideal pentru o fotografie rapidă de dimineață.",
-            "en": "Ideal for a quick morning photo."
+            "en": "Ideal for a quick morning photo.",
+            "tr": "Hızlı bir sabah fotoğrafı için ideal."
           }
         },
         {
@@ -325,7 +347,8 @@
             "de": "Schloßbergmuseum",
             "hu": "Schloßberg Múzeum",
             "ro": "Muzeul Schloßberg",
-            "en": "Schloßbergmuseum"
+            "en": "Schloßbergmuseum",
+            "tr": "Schloßberg Müzesi"
           },
           "coords": [
             12.9155,
@@ -340,7 +363,8 @@
             "de": "Toller Blick über den Schloßteich.",
             "hu": "Pazar kilátás a várkastély tavára.",
             "ro": "Vedere superbă spre iazul castelului.",
-            "en": "Great view over the castle pond."
+            "en": "Great view over the castle pond.",
+            "tr": "Kale göletine karşı harika manzara."
           }
         },
         {
@@ -348,7 +372,8 @@
             "de": "Industriemuseum Chemnitz",
             "hu": "Ipari Múzeum",
             "ro": "Muzeul Industriei",
-            "en": "Chemnitz Industrial Museum"
+            "en": "Chemnitz Industrial Museum",
+            "tr": "Chemnitz Sanayi Müzesi"
           },
           "coords": [
             12.9038,
@@ -363,7 +388,8 @@
             "de": "Erleben Sie die Geschichte der 'Sächsischen Manchester'.",
             "hu": "Ismerje meg a 'Szász Manchester' történetét.",
             "ro": "Descoperiți istoria 'Manchesterului saxon'.",
-            "en": "Experience the history of 'Saxon Manchester'."
+            "en": "Experience the history of 'Saxon Manchester'.",
+            "tr": "'Sakson Manchester' tarihini yaşayın."
           }
         },
         {
@@ -371,7 +397,8 @@
             "de": "Mittagspause am Kappelbach",
             "hu": "Ebédszünet a Kappelbachnál",
             "ro": "Pauză de prânz la Kappelbach",
-            "en": "Lunch break at Kappelbach"
+            "en": "Lunch break at Kappelbach",
+            "tr": "Kappelbach’ta öğle molası"
           },
           "coords": [
             12.895,
@@ -386,7 +413,8 @@
             "de": "Entspanntes Essen am Radweg.",
             "hu": "Pihentető étkezés a kerékpárút mentén.",
             "ro": "Masă relaxantă lângă pista de biciclete.",
-            "en": "Relaxed dining along the bike path."
+            "en": "Relaxed dining along the bike path.",
+            "tr": "Bisiklet yolu boyunca rahat yemek imkanı."
           }
         },
         {
@@ -394,7 +422,8 @@
             "de": "Wasserschloß Klaffenbach",
             "hu": "Klaffenbachi vízikastély",
             "ro": "Castelul pe apă Klaffenbach",
-            "en": "Wasserschloß Klaffenbach"
+            "en": "Wasserschloß Klaffenbach",
+            "tr": "Wasserschloß Klaffenbach"
           },
           "coords": [
             12.8885,
@@ -409,7 +438,8 @@
             "de": "Ein Renaissance-Juwel im Grünen.",
             "hu": "Reneszánsz ékszerdoboz a zöldben.",
             "ro": "O bijuterie renascentistă în mijlocul naturii.",
-            "en": "A Renaissance gem in the countryside."
+            "en": "A Renaissance gem in the countryside.",
+            "tr": "Kırda bir Rönesans incisi."
           }
         },
         {
@@ -417,7 +447,8 @@
             "de": "Rückfahrt ins Zentrum",
             "hu": "Visszaút a központba",
             "ro": "Retur spre centru",
-            "en": "Return to center"
+            "en": "Return to center",
+            "tr": "Merkeze dönüş"
           },
           "coords": [
             12.9214,
@@ -432,7 +463,8 @@
             "de": "Abendstimmung in der Stadt genießen.",
             "hu": "Élvezze a város esti hangulatát.",
             "ro": "Bucurați-vă de atmosfera de seară a orașului.",
-            "en": "Enjoy the evening atmosphere of the city."
+            "en": "Enjoy the evening atmosphere of the city.",
+            "tr": "Şehrin akşam atmosferinin tadını çıkarın."
           }
         }
       ],
@@ -440,7 +472,8 @@
         "de": "Erfahren Sie Chemnitz und sein Umland auf zwei Rädern. Von den industriellen Wurzeln im Westen bis zum idyllischen Wasserschloß Klaffenbach im Süden bietet diese Tour eine perfekte Mischung aus Kultur und Natur. Der Weg führt entlang von Flüssen und durch grüne Parks.",
         "hu": "Fedezze fel Chemnitzet és környékét két keréken. A nyugati ipari gyökerektől a déli, idilli Klaffenbach vízikastélyig ez a túra a kultúra és a természet tökéletes keverékét kínálja. Az út folyópartokon és zöld parkokon vezet keresztül.",
         "ro": "Descoperiți Chemnitz și împrejurimile pe două roți. De la rădăcinile industriale din vest până la idilicul castel Klaffenbach din sud, acest tur oferă un amestec perfect de cultură și natură. Traseul urmează cursurile râurilor și trece prin parcuri verzi.",
-        "en": "Experience Chemnitz and its surroundings on two wheels. From the industrial roots in the west to the idyllic Klaffenbach moated castle in the south, this tour offers a perfect mix of culture and nature. The path leads along rivers and through green parks."
+        "en": "Experience Chemnitz and its surroundings on two wheels. From the industrial roots in the west to the idyllic Klaffenbach moated castle in the south, this tour offers a perfect mix of culture and nature. The path leads along rivers and through green parks.",
+        "tr": "Chemnitz’i ve çevresini iki teker üzerinde keşfedin. Batıdaki sanayi kökenlerinden güneydeki Klaffenbach su köşkü manzarasına kadar bu tur kültür ve doğanın mükemmel bir karışımını sunar. Rota nehirler boyunca ve yeşil parklardan geçer."
       },
       "gastro_picks": {
         "de": [
@@ -544,6 +577,11 @@
           "Use the Kappelbach bike path for the ride south.",
           "The route to the moated castle is mostly flat.",
           "Helmets are recommended as some sections use public roads."
+        ],
+        "tr": [
+          "Güney yönlü sürüş için Kappelbach bisiklet yolunu kullanın.",
+          "Su köşküne giden rota çoğunlukla düz.",
+          "Bazı bölümler kamu yollarını kullandığı için kask takılması önerilir."
         ]
       }
     },
@@ -560,7 +598,8 @@
             "de": "Zentrum: Altes Rathaus",
             "hu": "Központ: Régi Városháza",
             "ro": "Centru: Primăria Veche",
-            "en": "Center: Old Town Hall"
+            "en": "Center: Old Town Hall",
+            "tr": "Merkez: Eski Belediye Binası"
           },
           "coords": [
             12.9205,
@@ -575,7 +614,8 @@
             "de": "Parkhaus am Markt nutzen (Cluster A).",
             "hu": "Használja a piaci parkolóházat (A klaszter).",
             "ro": "Folosiți parcarea de la piață (Cluster A).",
-            "en": "Use the parking garage at the market (Cluster A)."
+            "en": "Use the parking garage at the market (Cluster A).",
+            "tr": "Pazar yerindeki otopark katını kullanın (Küme A)."
           }
         },
         {
@@ -583,7 +623,8 @@
             "de": "Zentrum: Karl-Marx-Monument",
             "hu": "Központ: Karl Marx-emlékmű",
             "ro": "Centru: Monumentul Karl Marx",
-            "en": "Center: Karl Marx Monument"
+            "en": "Center: Karl Marx Monument",
+            "tr": "Merkez: Karl Marx Anıtı"
           },
           "coords": [
             12.9238,
@@ -598,7 +639,8 @@
             "de": "Kurzer Fußweg vom Parkhaus.",
             "hu": "Rövid séta a parkolóháztól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking garage."
+            "en": "Short walk from the parking garage.",
+            "tr": "Otopark katından kısa yürüyüş."
           }
         },
         {
@@ -606,7 +648,8 @@
             "de": "Industriemuseum (Cluster B)",
             "hu": "Ipari Múzeum (B klaszter)",
             "ro": "Muzeul Industriei (Cluster B)",
-            "en": "Industrial Museum (Cluster B)"
+            "en": "Industrial Museum (Cluster B)",
+            "tr": "Sanayi Müzesi (Küme B)"
           },
           "coords": [
             12.9038,
@@ -621,7 +664,8 @@
             "de": "Eigene Parkplätze direkt vor dem Museum.",
             "hu": "Saját parkoló közvetlenül a múzeum előtt.",
             "ro": "Parcare proprie chiar în fața muzeului.",
-            "en": "Private parking right in front of the museum."
+            "en": "Private parking right in front of the museum.",
+            "tr": "Müzenin hemen önünde özel otopark."
           }
         },
         {
@@ -629,7 +673,8 @@
             "de": "Kappelbach Spaziergang",
             "hu": "Kappelbachi séta",
             "ro": "Plimbare pe Kappelbach",
-            "en": "Kappelbach Walk"
+            "en": "Kappelbach Walk",
+            "tr": "Kappelbach Yürüyüşü"
           },
           "coords": [
             12.898,
@@ -644,7 +689,8 @@
             "de": "Zu Fuß vom Industriemuseum aus.",
             "hu": "Gyalog az Ipari Múzeumtól.",
             "ro": "Pe jos de la Muzeul Industriei.",
-            "en": "On foot from the Industrial Museum."
+            "en": "On foot from the Industrial Museum.",
+            "tr": "Endüstri Müzesi'nden yaya."
           }
         },
         {
@@ -652,7 +698,8 @@
             "de": "Wasserschloß Klaffenbach (Cluster C)",
             "hu": "Klaffenbachi vízikastély (C klaszter)",
             "ro": "Castelul Klaffenbach (Cluster C)",
-            "en": "Klaffenbach Moated Castle (Cluster C)"
+            "en": "Klaffenbach Moated Castle (Cluster C)",
+            "tr": "Klaffenbach Su Kalesi (Küme C)"
           },
           "coords": [
             12.8885,
@@ -667,7 +714,8 @@
             "de": "Großer Besucherparkplatz vorhanden.",
             "hu": "Nagy látogatói parkoló áll rendelkezésre.",
             "ro": "Parcare mare pentru vizitatori disponibilă.",
-            "en": "Large visitor parking available."
+            "en": "Large visitor parking available.",
+            "tr": "Geniş ziyaretçi otoparkı mevcut."
           }
         },
         {
@@ -675,7 +723,8 @@
             "de": "Schloßhof Gastronomie",
             "hu": "Kastélyudvari vendéglátás",
             "ro": "Gastronomie în curtea castelului",
-            "en": "Castle Courtyard Dining"
+            "en": "Castle Courtyard Dining",
+            "tr": "Kale Avlusu Yemekleri"
           },
           "coords": [
             12.889,
@@ -690,7 +739,8 @@
             "de": "Regionale Spezialitäten im Freien.",
             "hu": "Helyi specialitások a szabadban.",
             "ro": "Specialități regionale în aer liber.",
-            "en": "Regional specialties outdoors."
+            "en": "Regional specialties outdoors.",
+            "tr": "Açık havada bölgesel lezzetler."
           }
         },
         {
@@ -698,7 +748,8 @@
             "de": "Golfclub Chemnitz Aussicht",
             "hu": "Chemnitzi Golfklub kilátó",
             "ro": "Panorama Golf Club Chemnitz",
-            "en": "Chemnitz Golf Club View"
+            "en": "Chemnitz Golf Club View",
+            "tr": "Chemnitz Golf Kulübü Manzarası"
           },
           "coords": [
             12.885,
@@ -713,7 +764,8 @@
             "de": "Zu Fuß vom Schloß Klaffenbach erreichbar.",
             "hu": "Gyalogosan elérhető a Klaffenbach kastélytól.",
             "ro": "Accesibil pe jos de la castelul Klaffenbach.",
-            "en": "Accessible on foot from Klaffenbach Castle."
+            "en": "Accessible on foot from Klaffenbach Castle.",
+            "tr": "Klaffenbach Kalesi'nden yaya ulaşılabilir."
           }
         },
         {
@@ -721,7 +773,8 @@
             "de": "Rückfahrt & Abschluss am Theaterplatz",
             "hu": "Visszaút és zárás a Theaterplatzon",
             "ro": "Retur și final în Theaterplatz",
-            "en": "Return & Finale at Theaterplatz"
+            "en": "Return & Finale at Theaterplatz",
+            "tr": "Dönüş ve Final: Theaterplatz"
           },
           "coords": [
             12.9272,
@@ -736,7 +789,8 @@
             "de": "Ausklang der Tour am Opernhaus.",
             "hu": "A túra lezárása az Operaháznál.",
             "ro": "Încheierea turului la Operă.",
-            "en": "End the tour at the Opera House."
+            "en": "End the tour at the Opera House.",
+            "tr": "Turunuzu Opera Binası'nda sonlandırın."
           }
         }
       ],
@@ -744,7 +798,8 @@
         "de": "Diese Auto-Tour verbindet die Highlights der Stadt mit der malerischen Umgebung. Dank effizientem Clustering parken Sie nur dreimal und erkunden die Viertel zu Fuß. Vom urbanen Zentrum über das Industriemuseum bis hin zum romantischen Wasserschloß Klaffenbach erleben Sie alle Facetten von Chemnitz.",
         "hu": "Ez az autós túra összeköti a város nevezetességeit a festői környékkel. A hatékony klaszterezésnek köszönhetően csak háromszor kell parkolnia, a negyedeket pedig gyalog fedezheti fel. A városi központtól az Ipari Múzeumon át a romantikus Klaffenbach vízikastélyig Chemnitz minden arcát megismerheti.",
         "ro": "Acest tur auto îmbină atracțiile orașului cu împrejurimile pitorești. Datorită grupării eficiente, parcați doar de trei ori și explorați cartierele la pas. De la centrul urban la Muzeul Industriei și până la romanticul castel Klaffenbach, veți vedea toate fețele orașului Chemnitz.",
-        "en": "This car tour combines the city's highlights with the picturesque surroundings. Thanks to efficient clustering, you only park three times and explore the districts on foot. From the urban center to the Industrial Museum and the romantic Klaffenbach moated castle, you will experience all facets of Chemnitz."
+        "en": "This car tour combines the city's highlights with the picturesque surroundings. Thanks to efficient clustering, you only park three times and explore the districts on foot. From the urban center to the Industrial Museum and the romantic Klaffenbach moated castle, you will experience all facets of Chemnitz.",
+        "tr": "Bu araba turu, şehrin öne çıkanları ile kartpostallık çevresini birleştirir. Verimli kümelendirme sayesinde sadece üç kez park eder ve semtleri yaya keşfedersiniz. Kentsel merkezden Endüstri Müzesi'ne ve romantik Klaffenbach su kalesine kadar Chemnitz'in tüm yüzlerini deneyimleyeceksiniz."
       },
       "gastro_picks": {
         "de": [
@@ -848,6 +903,11 @@
           "Use the P+R parking lots on the periphery.",
           "Parking in the center is paid but usually available.",
           "The B95 leads you directly to Klaffenbach."
+        ],
+        "tr": [
+          "Çevredeki P+R otoparklarını kullanın.",
+          "Merkezde ücretli park var ama genellikle yer bulunuyor.",
+          "B95 sizi doğrudan Klaffenbach'a götürür."
         ]
       }
     },
@@ -864,7 +924,8 @@
             "de": "Zentralhaltestelle",
             "hu": "Központi megálló",
             "ro": "Stația Centrală",
-            "en": "Central Transit Station"
+            "en": "Central Transit Station",
+            "tr": "Merkezi Aktarma İstasyonu"
           },
           "coords": [
             12.9205,
@@ -879,7 +940,8 @@
             "de": "Dreh- und Angelpunkt des Nahverkehrs.",
             "hu": "A helyi közlekedés csomópontja.",
             "ro": "Nodul principal al transportului local.",
-            "en": "The hub of local transport."
+            "en": "The hub of local transport.",
+            "tr": "Yerel ulaşımın merkezi."
           }
         },
         {
@@ -887,7 +949,8 @@
             "de": "Roter Turm",
             "hu": "Vörös torony",
             "ro": "Turnul Roșu",
-            "en": "Red Tower"
+            "en": "Red Tower",
+            "tr": "Kırmızı Kule"
           },
           "coords": [
             12.9228,
@@ -902,7 +965,8 @@
             "de": "Zu Fuß von der Zentralhaltestelle.",
             "hu": "Gyalog a központi megállótól.",
             "ro": "Pe jos de la stația centrală.",
-            "en": "On foot from the central station."
+            "en": "On foot from the central station.",
+            "tr": "Merkez istasyondan yaya."
           }
         },
         {
@@ -910,7 +974,8 @@
             "de": "Schloßberg (Tram 4)",
             "hu": "Schloßberg (4-es villamos)",
             "ro": "Schloßberg (Tramvaiul 4)",
-            "en": "Schloßberg (Tram 4)"
+            "en": "Schloßberg (Tram 4)",
+            "tr": "Schloßberg (Tramvay 4)"
           },
           "coords": [
             12.9155,
@@ -925,7 +990,8 @@
             "de": "Tram 4 fährt direkt vom Zentrum zum Schloßberg.",
             "hu": "A 4-es villamos közvetlenül a központból a Schloßberghez megy.",
             "ro": "Tramvaiul 4 merge direct din centru la Schloßberg.",
-            "en": "Tram 4 goes directly from the center to Schloßberg."
+            "en": "Tram 4 goes directly from the center to Schloßberg.",
+            "tr": "Tramvay 4 merkezden Schloßberg'e doğrudan gider."
           }
         },
         {
@@ -933,7 +999,8 @@
             "de": "Theaterplatz",
             "hu": "Színház tér",
             "ro": "Piața Teatrului",
-            "en": "Theaterplatz"
+            "en": "Theaterplatz",
+            "tr": "Theaterplatz"
           },
           "coords": [
             12.9272,
@@ -948,7 +1015,8 @@
             "de": "Historisches Ensemble aus Oper, Museum und Kirche.",
             "hu": "Opera, múzeum és templom történelmi együttese.",
             "ro": "Ansamblu istoric format din operă, muzeu și biserică.",
-            "en": "Historical ensemble of opera, museum, and church."
+            "en": "Historical ensemble of opera, museum, and church.",
+            "tr": "Opera, müze ve kilisenin tarihi topluluğu."
           }
         },
         {
@@ -956,7 +1024,8 @@
             "de": "Mittagessen nahe Smac",
             "hu": "Ebéd a Smac közelében",
             "ro": "Prânz lângă Smac",
-            "en": "Lunch near Smac"
+            "en": "Lunch near Smac",
+            "tr": "Smac yakınında öğle yemeği"
           },
           "coords": [
             12.9248,
@@ -971,7 +1040,8 @@
             "de": "Viele Cafés in den umliegenden Straßen.",
             "hu": "Számos kávézó a környező utcákban.",
             "ro": "Multe cafenele în străzile adiacente.",
-            "en": "Many cafes in the surrounding streets."
+            "en": "Many cafes in the surrounding streets.",
+            "tr": "Çevre sokaklarda birçok kafe var."
           }
         },
         {
@@ -979,7 +1049,8 @@
             "de": "Industriemuseum (Bus 31)",
             "hu": "Ipari Múzeum (31-es busz)",
             "ro": "Muzeul Industriei (Autobuzul 31)",
-            "en": "Industrial Museum (Bus 31)"
+            "en": "Industrial Museum (Bus 31)",
+            "tr": "Endüstri Müzesi (Otobüs 31)"
           },
           "coords": [
             12.9038,
@@ -994,7 +1065,8 @@
             "de": "Bushaltestelle 'Industriemuseum' direkt davor.",
             "hu": "Az 'Industriemuseum' buszmegálló közvetlenül előtte van.",
             "ro": "Stația de autobuz 'Industriemuseum' chiar în față.",
-            "en": "Bus stop 'Industriemuseum' right in front."
+            "en": "Bus stop 'Industriemuseum' right in front.",
+            "tr": "'Industriemuseum' durağı tam önünde."
           }
         },
         {
@@ -1002,7 +1074,8 @@
             "de": "Kulturkaufhaus Tietz",
             "hu": "Tietz Kulturális Áruház",
             "ro": "Centrul Cultural Tietz",
-            "en": "DAStietz Culture House"
+            "en": "DAStietz Culture House",
+            "tr": "DAStietz Kültür Evi"
           },
           "coords": [
             12.922,
@@ -1017,7 +1090,8 @@
             "de": "Sehen Sie den Versteinerten Wald im Atrium.",
             "hu": "Nézze meg a megkövült erdőt az átriumban.",
             "ro": "Vedeți pădurea pietrificată din atrium.",
-            "en": "See the Petrified Forest in the atrium."
+            "en": "See the Petrified Forest in the atrium.",
+            "tr": "Atriumda Taşlaşmış Ormanı görün."
           }
         }
       ],
@@ -1025,7 +1099,8 @@
         "de": "Erkunden Sie Chemnitz bequem mit dem ausgezeichneten Nahverkehr. Diese Route führt Sie zu den wichtigsten Kulturdenkmälern und Museen. Dank Tram und Bus erreichen Sie mühelos den Schloßberg und das Industriemuseum, während Sie dazwischen das moderne Zentrum zu Fuß genießen.",
         "hu": "Fedezze fel Chemnitzet kényelmesen a kiváló tömegközlekedéssel. Ez az útvonal a legfontosabb kulturális műemlékekhez és múzeumokhoz kalauzolja el. A villamosnak és busznak köszönhetően könnyedén elérheti a Schloßberget és az Ipari Múzeumot, miközben a köztes időben gyalog élvezheti a modern központot.",
         "ro": "Explorați Chemnitz confortabil folosind transportul public excelent. Acest traseu vă duce la cele mai importante monumente culturale și muzee. Datorită tramvaiului și autobuzului, ajungeți fără efort la Schloßberg și la Muzeul Industriei, savurând între timp centrul modern la pas.",
-        "en": "Explore Chemnitz comfortably with the excellent local public transport. This route takes you to the most important cultural monuments and museums. Thanks to tram and bus, you can easily reach Schloßberg and the Industrial Museum, while enjoying the modern center on foot in between."
+        "en": "Explore Chemnitz comfortably with the excellent local public transport. This route takes you to the most important cultural monuments and museums. Thanks to tram and bus, you can easily reach Schloßberg and the Industrial Museum, while enjoying the modern center on foot in between.",
+        "tr": "Mükemmel yerel toplu taşıma ile Chemnitz'i rahatça keşfedin. Bu rota sizi en önemli kültürel anıtlar ve müzelere götürür. Tramvay ve otobüs sayesinde Schloßberg'e ve Endüstri Müzesi'ne kolayca ulaşırken arada modern merkezi yürüyerek gezebilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1129,6 +1204,11 @@
           "Buy a day ticket for the entire city area.",
           "The schedules are very reliable.",
           "The 'Chemnitzer Modell' connects tram and regional rail."
+        ],
+        "tr": [
+          "Tüm şehir alanı için günlük bilet alın.",
+          "Sefer saatleri çok güvenilirdir.",
+          "'Chemnitzer Modell' tramvay ile bölgesel demiryolunu birleştirir."
         ]
       }
     }

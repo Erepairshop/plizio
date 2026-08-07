@@ -3,55 +3,64 @@
     "de": "Mercedesstraße 100, 70372 Stuttgart",
     "hu": "Mercedesstraße 100, 70372 Stuttgart",
     "ro": "Mercedesstraße 100, 70372 Stuttgart",
-    "en": "Mercedesstraße 100, 70372 Stuttgart"
+    "en": "Mercedesstraße 100, 70372 Stuttgart",
+    "tr": "Mercedesstraße 100, 70372 Stuttgart"
   },
   "openingHours": {
     "de": "Di-So 09:00-18:00, Mo geschlossen",
     "hu": "K-V 09:00-18:00, hétfőn zárva",
     "ro": "Marți-duminică 09:00-18:00, luni închis",
-    "en": "Tue-Sun 09:00-18:00, Mon closed"
+    "en": "Tue-Sun 09:00-18:00, Mon closed",
+    "tr": "Salı-Pazar 09:00-18:00, Pazartesi kapalı"
   },
   "entranceFee": {
     "de": "€12 Erwachsene, €6 Ermäßigt",
     "hu": "12 € felnőtteknek, 6 € kedvezményes",
     "ro": "12 € adulți, 6 € redus",
-    "en": "€12 adults, €6 reduced"
+    "en": "€12 adults, €6 reduced",
+    "tr": "€12 yetişkin, €6 indirimli"
   },
   "website": "https://www.mercedes-benz.com/museum",
   "publicTransport": {
     "de": "S-Bahn S1 bis Haltestelle Neckarpark (Mercedes-Benz)",
     "hu": "S1 S-Bahn a Neckarpark (Mercedes-Benz) megállóig",
     "ro": "S-Bahn S1 până la stația Neckarpark (Mercedes-Benz)",
-    "en": "S-Bahn S1 to station Neckarpark (Mercedes-Benz)"
+    "en": "S-Bahn S1 to station Neckarpark (Mercedes-Benz)",
+    "tr": "S-Bahn S1 ile Neckarpark (Mercedes-Benz) istasyonuna"
   },
   "parking": {
     "de": "Museums-Parkhaus, €2/Std. (erste 3 Std.)",
     "hu": "Múzeumi parkolóház, 2 €/óra (első 3 óra)",
     "ro": "Parcare muzeu, 2 €/oră (primele 3 ore)",
-    "en": "Museum parking garage, €2/hour (first 3 hours)"
+    "en": "Museum parking garage, €2/hour (first 3 hours)",
+    "tr": "Müze otoparkı, €2/saat (ilk 3 saat)"
   },
   "accessibility": {
     "de": "Vollständig barrierefrei, Aufzüge zu allen Ebenen",
     "hu": "Teljesen akadálymentes, liftek minden szintre",
     "ro": "Complet accesibil, lifturi către toate nivelurile",
-    "en": "Completely barrier-free, elevators to all levels"
+    "en": "Completely barrier-free, elevators to all levels",
+    "tr": "Tamamen engelsiz, tüm katlara asansörler"
   },
   "photoRules": {
     "de": "Erlaubt für private Zwecke, kein Blitz",
     "hu": "Megengedett magáncélra, vaku tilos",
     "ro": "Permis pentru uz privat, fără bliț",
-    "en": "Allowed for private use, no flash"
+    "en": "Allowed for private use, no flash",
+    "tr": "Özel kullanım için izinli, flaş yok"
   },
   "bestTimeToVisit": {
     "de": "Dienstag oder Mittwoch Vormittag für weniger Andrang",
     "hu": "Kedd vagy szerda délelőtt a kisebb tömegért",
     "ro": "Marți sau miercuri dimineața pentru mai puțină aglomerație",
-    "en": "Tuesday or Wednesday morning for fewer crowds"
+    "en": "Tuesday or Wednesday morning for fewer crowds",
+    "tr": "Daha az kalabalık için Salı veya Çarşamba sabahı"
   },
   "audioGuide": {
     "de": "de, en, fr, es, it, zh, ru, ja",
     "hu": "német, angol, francia, spanyol, olasz, kínai, orosz, japán",
     "ro": "germană, engleză, franceză, spaniolă, italiană, chineză, rusă, japoneză",
-    "en": "German, English, French, Spanish, Italian, Chinese, Russian, Japanese"
+    "en": "German, English, French, Spanish, Italian, Chinese, Russian, Japanese",
+    "tr": "Almanca, İngilizce, Fransızca, İspanyolca, İtalyanca, Çince, Rusça, Japonca"
   }
 }

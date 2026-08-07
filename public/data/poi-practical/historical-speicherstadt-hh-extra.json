@@ -3,55 +3,64 @@
     "de": "Am Sandtorkai / Alter Wandrahm, 20457 Hamburg",
     "hu": "Am Sandtorkai / Alter Wandrahm, 20457 Hamburg",
     "ro": "Am Sandtorkai / Alter Wandrahm, 20457 Hamburg",
-    "en": "Am Sandtorkai / Alter Wandrahm, 20457 Hamburg"
+    "en": "Am Sandtorkai / Alter Wandrahm, 20457 Hamburg",
+    "tr": "Am Sandtorkai / Alter Wandrahm, 20457 Hamburg"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "0-24",
     "ro": "Non-stop",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "7/24"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.hamburg.de/speicherstadt/",
   "publicTransport": {
     "de": "U3 bis Baumwall oder U4 bis Überseequartier",
     "hu": "U3 a Baumwallig vagy U4 az Überseequartierig",
     "ro": "U3 până la Baumwall sau U4 până la Überseequartier",
-    "en": "U3 to Baumwall or U4 to Überseequartier"
+    "en": "U3 to Baumwall or U4 to Überseequartier",
+    "tr": "U3 ile Baumwall veya U4 ile Überseequartier"
   },
   "parking": {
     "de": "Parkhäuser in der Hafencity (ca. 3,50€/Std.), kaum öffentliche Parkplätze.",
     "hu": "Parkolóházak a Hafencityben (kb. 3,50 €/óra), alig van közterületi parkoló.",
     "ro": "Parcări în Hafencity (aprox. 3,50 €/oră), puține locuri de parcare publice.",
-    "en": "Parking garages in Hafencity (approx. €3.50/hr), hardly any public parking."
+    "en": "Parking garages in Hafencity (approx. €3.50/hr), hardly any public parking.",
+    "tr": "Hafencity’de otoparklar (yakl. €3,50/sa), kamusal park yeri neredeyse yok."
   },
   "accessibility": {
     "de": "Kopfsteinpflaster erschwert den Zugang für Rollstühle, Brücken meist mit Rampen.",
     "hu": "A macskakő nehezíti a kerekesszékesek közlekedését, a hidak általában rámpákkal ellátottak.",
     "ro": "Pietrișul îngreunează accesul cu scaune cu rotile, podurile sunt de obicei prevăzute cu rampe.",
-    "en": "Cobblestones hinder wheelchair access, bridges mostly have ramps."
+    "en": "Cobblestones hinder wheelchair access, bridges mostly have ramps.",
+    "tr": "Arnavut kaldırımı tekerlekli sandalye erişimini zorlaştırır, köprülerin çoğunda rampalar var."
   },
   "photoRules": {
     "de": "Öffentlich uneingeschränkt erlaubt, Stativnutzung auf Brücken oft nötig.",
     "hu": "Nyilvánosan korlátozás nélkül megengedett, állvány használata a hidakon gyakran szükséges.",
     "ro": "Public și fără restricții, utilizarea trepiedului pe poduri este adesea necesară.",
-    "en": "Publicly allowed without restrictions, tripod use on bridges often necessary."
+    "en": "Publicly allowed without restrictions, tripod use on bridges often necessary.",
+    "tr": "Genel kullanım için kısıtlama yok, köprülerde tripod kullanımı sıklıkla gerekli."
   },
   "bestTimeToVisit": {
     "de": "Blaue Stunde oder nachts, wenn die Fassaden illuminiert sind.",
     "hu": "Kék óra vagy éjszaka, amikor a homlokzatok kivilágítottak.",
     "ro": "Ora albastră sau noaptea, când fațadele sunt iluminate.",
-    "en": "Blue hour or at night when the facades are illuminated."
+    "en": "Blue hour or at night when the facades are illuminated.",
+    "tr": "Mavi saat veya cepheler aydınlatıldığında gece."
   },
   "audioGuide": {
     "de": "nein (diverse Apps und geführte Rundgänge verfügbar)",
     "hu": "nem (számos alkalmazás és vezetett séta elérhető)",
     "ro": "nu (diverse aplicații și tururi ghidate disponibile)",
-    "en": "no (various apps and guided tours available)"
+    "en": "no (various apps and guided tours available)",
+    "tr": "hayır (çeşitli uygulamalar ve rehberli turlar mevcut)"
   }
 }

@@ -3,55 +3,64 @@
     "de": "Pariser Platz, 10117 Berlin",
     "hu": "Pariser Platz, 10117 Berlin",
     "ro": "Pariser Platz, 10117 Berlin",
-    "en": "Pariser Platz, 10117 Berlin"
+    "en": "Pariser Platz, 10117 Berlin",
+    "tr": "Pariser Platz, 10117 Berlin"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "24/7"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.berlin.de",
   "publicTransport": {
     "de": "S/U Brandenburger Tor (Linien S1, S2, S25, U5).",
     "hu": "S/U Brandenburger Tor (S1, S2, S25, U5 vonalak).",
     "ro": "S/U Brandenburger Tor (liniile S1, S2, S25, U5).",
-    "en": "S/U Brandenburger Tor (lines S1, S2, S25, U5)."
+    "en": "S/U Brandenburger Tor (lines S1, S2, S25, U5).",
+    "tr": "S/U Brandenburger Tor (S1, S2, S25, U5 hatları)."
   },
   "parking": {
     "de": "Parkhaus Unter den Linden oder Adlon (sehr teuer, ca. 4€/Std.).",
     "hu": "Unter den Linden vagy Adlon parkolóház (nagyon drága, kb. 4 €/óra).",
     "ro": "Parcarea subterană Unter den Linden sau Adlon (foarte scumpă, aprox. 4 €/oră).",
-    "en": "Unter den Linden or Adlon parking garage (very expensive, approx. €4/h)."
+    "en": "Unter den Linden or Adlon parking garage (very expensive, approx. €4/h).",
+    "tr": "Unter den Linden veya Adlon otoparkı (çok pahalı, yaklaşık €4/sa.)."
   },
   "accessibility": {
     "de": "Vollständig barrierefrei, ebenerdiger Platz.",
     "hu": "Teljesen akadálymentesített, szintbeli tér.",
     "ro": "Complet accesibil, piață la nivelul solului.",
-    "en": "Fully accessible, level square."
+    "en": "Fully accessible, level square.",
+    "tr": "Tam erişilebilir, düz meydan."
   },
   "photoRules": {
     "de": "Uneingeschränkt erlaubt, Stativnutzung auf dem Platz meist kein Problem.",
     "hu": "Korlátozás nélkül engedélyezett, az állvány használata a téren általában nem probléma.",
     "ro": "Permis nelimitat, utilizarea trepiedului în piață nu este de obicei o problemă.",
-    "en": "Unrestricted, tripod use on the square is usually not a problem."
+    "en": "Unrestricted, tripod use on the square is usually not a problem.",
+    "tr": "Kısıtlama yok, meydanda tripod kullanımı genellikle sorun olmaz."
   },
   "bestTimeToVisit": {
     "de": "Früh morgens vor 08:00 Uhr für Fotos ohne Menschenmassen.",
     "hu": "Kora reggel 8 óra előtt a tömegmentes fotókért.",
     "ro": "Dimineața devreme înainte de ora 08:00 pentru fotografii fără mulțimi.",
-    "en": "Early morning before 8 am for photos without crowds."
+    "en": "Early morning before 8 am for photos without crowds.",
+    "tr": "Kalabalıksız fotoğraflar için sabah 8’den önce erken saatler."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

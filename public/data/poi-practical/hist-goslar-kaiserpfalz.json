@@ -3,55 +3,64 @@
     "de": "Kaiserbleek 6, 38640 Goslar",
     "hu": "Kaiserbleek 6, 38640 Goslar",
     "ro": "Kaiserbleek 6, 38640 Goslar",
-    "en": "Kaiserbleek 6, 38640 Goslar"
+    "en": "Kaiserbleek 6, 38640 Goslar",
+    "tr": "Kaiserbleek 6, 38640 Goslar"
   },
   "openingHours": {
     "de": "Täglich 10:00-17:00 (Apr-Okt), 10:00-16:00 (Nov-Mär)",
     "hu": "Naponta 10:00-17:00 (ápr-okt), 10:00-16:00 (nov-márc)",
     "ro": "Zilnic 10:00-17:00 (apr-oct), 10:00-16:00 (nov-mar)",
-    "en": "Daily 10:00-17:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)"
+    "en": "Daily 10:00-17:00 (Apr-Oct), 10:00-16:00 (Nov-Mar)",
+    "tr": "Her gün 10:00-17:00 (Nis-Eki), 10:00-16:00 (Kas-Mar)"
   },
   "entranceFee": {
     "de": "€7,50 Erwachsene",
     "hu": "7,50 € felnőtteknek",
     "ro": "7,50 € adulți",
-    "en": "€7.50 adults"
+    "en": "€7.50 adults",
+    "tr": "Yetişkinler €7.50"
   },
   "website": "https://www.goslar.de",
   "publicTransport": {
     "de": "15 Min. Fußweg vom Bahnhof oder mit dem Citybus",
     "hu": "15 perc séta az állomástól vagy városi busszal",
     "ro": "15 minute de mers pe jos de la gară sau cu autobuzul local",
-    "en": "15 min walk from station or by city bus"
+    "en": "15 min walk from station or by city bus",
+    "tr": "İstasyondan 15 dk yürüyüş veya şehir otobüsü ile"
   },
   "parking": {
     "de": "Großparkplatz Kaiserpfalz Nord/Süd (~1,50 €/Std.).",
     "hu": "Kaiserpfalz Észak/Dél nagyparkoló (~1,50 €/óra).",
     "ro": "Parcare mare Kaiserpfalz Nord/Sud (~1,50 €/oră).",
-    "en": "Large parking Kaiserpfalz North/South (~€1.50/hr)."
+    "en": "Large parking Kaiserpfalz North/South (~€1.50/hr).",
+    "tr": "Kaiserpfalz Kuzey/Güney büyük otopark (~€1.50/saat)."
   },
   "accessibility": {
     "de": "Erdgeschoss barrierefrei, Rittersaal über einen Aufzug erreichbar.",
     "hu": "Földszint akadálymentes, a Lovagterem lifttel elérhető.",
     "ro": "Parter accesibil, Sala Cavalerilor accesibilă cu liftul.",
-    "en": "Ground floor barrier-free, knight's hall reachable by elevator."
+    "en": "Ground floor barrier-free, knight's hall reachable by elevator.",
+    "tr": "Zemin kat engelli erişimli, şövalye salonuna asansörle ulaşım."
   },
   "photoRules": {
     "de": "Fotografieren im prachtvollen Rittersaal ist nicht gestattet.",
     "hu": "A fotózás a díszes Lovagteremben nem engedélyezett.",
     "ro": "Fotografierea în splendida Sală a Cavalerilor nu este permisă.",
-    "en": "Photography in the magnificent knight's hall is not permitted."
+    "en": "Photography in the magnificent knight's hall is not permitted.",
+    "tr": "Muhteşem şövalye salonunda fotoğraf çekimine izin yok."
   },
   "bestTimeToVisit": {
     "de": "Vormittags an Wochentagen, um großen Reisegruppen auszuweichen.",
     "hu": "Hétköznap délelőtt, a nagy turistacsoportok elkerülése végett.",
     "ro": "Dimineața în timpul săptămânii pentru a evita grupurile mari de turiști.",
-    "en": "Mornings on weekdays to avoid large tour groups."
+    "en": "Mornings on weekdays to avoid large tour groups.",
+    "tr": "Büyük tur gruplarından kaçınmak için hafta içi sabahları."
   },
   "audioGuide": {
     "de": "ja",
     "hu": "igen",
     "ro": "da",
-    "en": "yes"
+    "en": "yes",
+    "tr": "evet"
   }
 }

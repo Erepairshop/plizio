@@ -3,55 +3,64 @@
     "de": "Externsteiner Str. 33, 32802 Horn-Bad Meinberg",
     "hu": "Externsteiner Str. 33, 32802 Horn-Bad Meinberg",
     "ro": "Externsteiner Str. 33, 32802 Horn-Bad Meinberg",
-    "en": "Externsteiner Str. 33, 32802 Horn-Bad Meinberg"
+    "en": "Externsteiner Str. 33, 32802 Horn-Bad Meinberg",
+    "tr": "Externsteiner Str. 33, 32802 Horn-Bad Meinberg"
   },
   "openingHours": {
     "de": "Felsbesteigung täglich 10:00-18:00 (Saison), Areal frei",
     "hu": "Sziklamászás naponta 10:00-18:00 (szezon), a terület ingyenes",
     "ro": "Urcarea pe stânci zilnic 10:00-18:00 (sezon), zona liberă",
-    "en": "Rock climbing daily 10:00-18:00 (season), area free"
+    "en": "Rock climbing daily 10:00-18:00 (season), area free",
+    "tr": "Mevsimde kaya tırmanışı günlük 10:00-18:00, alan serbest"
   },
   "entranceFee": {
     "de": "Felsaufstieg 4€ Erwachsene, 2€ Kinder; Gelände frei",
     "hu": "Sziklamászás 4 € felnőtt, 2 € gyermek; a terület ingyenes",
     "ro": "Urcare pe stânci 4 € adulți, 2 € copii; terenul liber",
-    "en": "Rock ascent €4 adults, €2 children; area free"
+    "en": "Rock ascent €4 adults, €2 children; area free",
+    "tr": "Kaya çıkışı yetişkin €4, çocuk €2; alan ücretsiz"
   },
   "website": "https://www.externsteine-info.de",
   "publicTransport": {
     "de": "Vom Bahnhof Horn-Bad Meinberg mit der Buslinie 782.",
     "hu": "A Horn-Bad Meinberg pályaudvarról a 782-es busszal.",
     "ro": "De la gara Horn-Bad Meinberg cu linia de autobuz 782.",
-    "en": "From Horn-Bad Meinberg station with bus line 782."
+    "en": "From Horn-Bad Meinberg station with bus line 782.",
+    "tr": "Horn-Bad Meinberg istasyonundan 782 numaralı otobüs ile."
   },
   "parking": {
     "de": "Großer kostenpflichtiger Parkplatz (ca. 4€/Tag) vorhanden.",
     "hu": "Nagy fizetős parkoló (kb. 4 €/nap) rendelkezésre áll.",
     "ro": "Parcare mare cu plată (aprox. 4 €/zi) disponibilă.",
-    "en": "Large paid parking (approx. €4/day) available."
+    "en": "Large paid parking (approx. €4/day) available.",
+    "tr": "Büyük ücretli otopark (yakl. €4/gün) mevcut."
   },
   "accessibility": {
     "de": "Waldwege barrierefrei, Besteigung der Felsen nicht barrierefrei.",
     "hu": "Az erdei utak akadálymentesítettek, a sziklák megmászása nem.",
     "ro": "Drumurile forestiere sunt accesibile, urcarea pe stânci nu.",
-    "en": "Forest paths accessible, rock climbing not accessible."
+    "en": "Forest paths accessible, rock climbing not accessible.",
+    "tr": "Orman patikaları erişilebilir, kaya tırmanışı erişilemez."
   },
   "photoRules": {
     "de": "Privat erlaubt, Drohnen wegen Naturschutzgebiet streng verboten.",
     "hu": "Magáncélú engedélyezett, drónok a természetvédelmi terület miatt szigorúan tilos.",
     "ro": "Permis în scop privat, dronele strict interzise din cauza rezervației naturale.",
-    "en": "Private use allowed, drones strictly forbidden due to nature reserve."
+    "en": "Private use allowed, drones strictly forbidden due to nature reserve.",
+    "tr": "Özel kullanım izinli, doğa koruma alanı nedeniyle drone kesinlikle yasak."
   },
   "bestTimeToVisit": {
     "de": "Früh morgens unter der Woche, um die Mystik in Ruhe zu erleben.",
     "hu": "Hétköznap kora reggel, hogy nyugodtan átérezhesd a misztikát.",
     "ro": "Dimineața devreme în timpul săptămânii, pentru a experimenta mistica în liniște.",
-    "en": "Early morning during the week to experience the mystery in peace."
+    "en": "Early morning during the week to experience the mystery in peace.",
+    "tr": "Hafta içi erken sabah, gizemi sakin yaşamak için."
   },
   "audioGuide": {
     "de": "nein (Ausstellung im Infozentrum vorhanden)",
     "hu": "nincs (kiállítás elérhető az információs központban)",
     "ro": "nu (expoziție disponibilă în centrul de informare)",
-    "en": "no (exhibition available in the info center)"
+    "en": "no (exhibition available in the info center)",
+    "tr": "hayır (bilgi merkezinde sergi mevcut)"
   }
 }

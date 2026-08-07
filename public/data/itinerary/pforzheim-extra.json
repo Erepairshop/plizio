@@ -21,7 +21,8 @@
             "de": "Schlosskirche St. Michael",
             "hu": "Szent Mihály-vártemplom",
             "ro": "Biserica Castelului Sf. Mihail",
-            "en": "St. Michael's Castle Church"
+            "en": "St. Michael's Castle Church",
+            "tr": "St. Michael's Kale Kilisesi"
           },
           "coords": [
             8.7022,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie die Grablege der badischen Markgrafen.",
             "hu": "Nézze meg a badeni őrgrófok sírhelyeit.",
             "ro": "Vizitați mormintele margrafilor de Baden.",
-            "en": "Visit the burial site of the Baden margraves."
+            "en": "Visit the burial site of the Baden margraves.",
+            "tr": "Baden landgraf ve margravlarının mezarını ziyaret edin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Schmuckmuseum Pforzheim",
             "hu": "Pforzheimi Ékszermúzeum",
             "ro": "Muzeul Bijuteriilor Pforzheim",
-            "en": "Pforzheim Jewelry Museum"
+            "en": "Pforzheim Jewelry Museum",
+            "tr": "Pforzheim Mücevher Müzesi"
           },
           "coords": [
             8.6991,
@@ -59,7 +62,8 @@
             "de": "Einzigartige Sammlung von der Antike bis zur Moderne.",
             "hu": "Egyedülálló gyűjtemény az ókortól a modern korig.",
             "ro": "Colecție unică din antichitate până în epoca modernă.",
-            "en": "Unique collection from antiquity to the modern era."
+            "en": "Unique collection from antiquity to the modern era.",
+            "tr": "Antik çağdan modern döneme benzersiz koleksiyon."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Reuchlinhaus",
             "hu": "Reuchlin-ház",
             "ro": "Casa Reuchlin",
-            "en": "Reuchlin House"
+            "en": "Reuchlin House",
+            "tr": "Reuchlin Evi"
           },
           "coords": [
             8.6993,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die Architektur der 1950er Jahre.",
             "hu": "Csodálja meg az 1950-es évek modern építészetét.",
             "ro": "Admirați arhitectura modernă din anii 1950.",
-            "en": "Admire the modern architecture of the 1950s."
+            "en": "Admire the modern architecture of the 1950s.",
+            "tr": "1950'lerin modern mimarisini hayranlıkla izleyin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Marktplatz Mittagessen",
             "hu": "Ebéd a piactéren",
             "ro": "Prânz în Piața Centrală",
-            "en": "Lunch at the Marketplace"
+            "en": "Lunch at the Marketplace",
+            "tr": "Pazar Yerinde Öğle Yemeği"
           },
           "coords": [
             8.7005,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie Pforzheimer Dreck als Dessert.",
             "hu": "Kóstolja meg a 'Pforzheimer Dreck' nevű édességet.",
             "ro": "Încercați desertul local 'Pforzheimer Dreck'.",
-            "en": "Try the 'Pforzheimer Dreck' as dessert."
+            "en": "Try the 'Pforzheimer Dreck' as dessert.",
+            "tr": "Tatlı olarak 'Pforzheimer Dreck' deneyin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Enzauenpark",
             "hu": "Enzauen-park",
             "ro": "Parcul Enzauen",
-            "en": "Enzauen Park"
+            "en": "Enzauen Park",
+            "tr": "Enzauen Parkı"
           },
           "coords": [
             8.715,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie entlang der Enz zum Biergarten.",
             "hu": "Sétáljon az Enz folyó mentén a sörkertig.",
             "ro": "Plimbați-vă de-a lungul râului Enz până la terasa de bere.",
-            "en": "Walk along the Enz river to the beer garden."
+            "en": "Walk along the Enz river to the beer garden.",
+            "tr": "Bira bahçesine kadar Enz nehri boyunca yürüyün."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Gasometer Pforzheim",
             "hu": "Pforzheimi Gázométer",
             "ro": "Gazometrul Pforzheim",
-            "en": "Pforzheim Gasometer"
+            "en": "Pforzheim Gasometer",
+            "tr": "Pforzheim Gazometresi"
           },
           "coords": [
             8.7205,
@@ -151,7 +162,8 @@
             "de": "Das 360-Grad-Panorama von Yadegar Asisi ist magisch.",
             "hu": "Yadegar Asisi 360 fokos panorámája lenyűgöző.",
             "ro": "Panorama de 360 de grade a lui Yadegar Asisi este magică.",
-            "en": "Yadegar Asisi's 360-degree panorama is magical."
+            "en": "Yadegar Asisi's 360-degree panorama is magical.",
+            "tr": "Yadegar Asisi'nin 360 derecelik panoraması büyüleyici."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag beginnt im historischen Herzen von Pforzheim an der Schlosskirche, bevor Sie in die funkelnde Welt der Goldstadt im Schmuckmuseum eintauchen. Nach einem Mittagessen am Marktplatz führt Sie ein entspannter Spaziergang durch den Enzauenpark, das grüne Wohnzimmer der Stadt. Den krönenden Abschluss bildet das gigantische Rundgemälde im Gasometer, das Sie in ferne Welten oder vergangene Epochen entführt.",
         "hu": "A napot Pforzheim történelmi szívében, a vártemplomnál kezdi, majd elmerül az Aranyváros csillogó világában az Ékszermúzeumban. A piactéren elköltött ebéd után egy pihentető séta következik az Enzauen-parkban, a város zöld oázisában. A napot a Gázométer monumentális körpanorámája koronázza meg, amely távoli világokba vagy letűnt korokba repíti a látogatót.",
         "ro": "Ziua începe în inima istorică a orașului Pforzheim la Biserica Castelului, înainte de a pătrunde în lumea strălucitoare a 'Orașului Aurului' la Muzeul Bijuteriilor. După un prânz în Piața Centrală, o plimbare relaxantă prin Parcul Enzauen vă oferă liniște în mijlocul naturii. Finalul perfect este marcat de panorama gigantică de la Gazometru, care vă transportă în lumi îndepărtate sau epoci trecute.",
-        "en": "Your day starts in the historical heart of Pforzheim at the Castle Church, before diving into the sparkling world of the Gold City at the Jewelry Museum. After lunch at the marketplace, a relaxed walk through Enzauen Park offers a green escape. The day concludes with the monumental 360-degree panorama at the Gasometer, transporting you to distant worlds or bygone eras."
+        "en": "Your day starts in the historical heart of Pforzheim at the Castle Church, before diving into the sparkling world of the Gold City at the Jewelry Museum. After lunch at the marketplace, a relaxed walk through Enzauen Park offers a green escape. The day concludes with the monumental 360-degree panorama at the Gasometer, transporting you to distant worlds or bygone eras.",
+        "tr": "Gününüz, Pforzheim'in tarihi kalbi olan Kale Kilisesi'nde başlar; ardından Mücevher Müzesi'nde Parıltılı Şehir'e dalarsınız. Pazar yerinde öğle yemeğinden sonra Enzauen Parkı'nda rahat bir yürüyüşle yeşil bir kaçamak yapabilirsiniz. Gün, Gazometre'deki dev 360 derecelik panoramayla sona erer; sizi uzak dünyalara veya geçmiş çağa taşır."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "The Tourist Info at the marketplace offers good city maps.",
           "Book Gasometer tickets in advance on weekends.",
           "Most museums in Pforzheim are closed on Mondays."
+        ],
+        "tr": [
+          "Parklarda yürüyüş için rahat ayakkabılar giyin.",
+          "Pazar yerindeki Turist Bilgi ofisi iyi şehir haritaları sunar.",
+          "Hafta sonları Gazometre biletlerini önceden ayırtın.",
+          "Pforzheim'deki çoğu müze Pazartesi günleri kapalıdır."
         ]
       }
     },
@@ -335,7 +354,8 @@
             "de": "Schlosskirche",
             "hu": "Vártemplom",
             "ro": "Biserica Castelului",
-            "en": "Castle Church"
+            "en": "Castle Church",
+            "tr": "Kale Kilisesi"
           },
           "coords": [
             8.7022,
@@ -350,7 +370,8 @@
             "de": "Startpunkt im historischen Zentrum.",
             "hu": "Kiindulópont a történelmi központban.",
             "ro": "Punct de plecare în centrul istoric.",
-            "en": "Starting point in the historic center."
+            "en": "Starting point in the historic center.",
+            "tr": "Tarihi merkezde başlangıç noktası."
           }
         },
         {
@@ -358,7 +379,8 @@
             "de": "Schmuckmuseum",
             "hu": "Ékszermúzeum",
             "ro": "Muzeul Bijuteriilor",
-            "en": "Jewelry Museum"
+            "en": "Jewelry Museum",
+            "tr": "Mücevher Müzesi"
           },
           "coords": [
             8.6991,
@@ -373,7 +395,8 @@
             "de": "Parken Sie das Rad sicher vor dem Reuchlinhaus.",
             "hu": "Parkolja le a bringát a Reuchlin-ház előtt.",
             "ro": "Parcați bicicleta în siguranță în fața Casei Reuchlin.",
-            "en": "Park your bike safely in front of the Reuchlin House."
+            "en": "Park your bike safely in front of the Reuchlin House.",
+            "tr": "Bisikletinizi Reuchlin Evi önünde güvenli şekilde park edin."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Technikmuseum",
             "hu": "Technikai Múzeum",
             "ro": "Muzeul Tehnic",
-            "en": "Technical Museum"
+            "en": "Technical Museum",
+            "tr": "Teknik Müzesi"
           },
           "coords": [
             8.6955,
@@ -396,7 +420,8 @@
             "de": "Erfahren Sie mehr über die Uhrenindustrie.",
             "hu": "Ismerje meg az óragyártás történetét.",
             "ro": "Aflați mai multe despre industria ceasornicăriei.",
-            "en": "Learn more about the watchmaking industry."
+            "en": "Learn more about the watchmaking industry.",
+            "tr": "Saat yapımı endüstrisi hakkında daha fazla bilgi edinin."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Wildpark Pforzheim",
             "hu": "Pforzheimi Vadaspark",
             "ro": "Parcul de Animale Pforzheim",
-            "en": "Pforzheim Wildlife Park"
+            "en": "Pforzheim Wildlife Park",
+            "tr": "Pforzheim Vahşi Yaşam Parkı"
           },
           "coords": [
             8.7125,
@@ -419,7 +445,8 @@
             "de": "Idyllischer Park mit Streichelzoo.",
             "hu": "Idilli park állatsimogatóval.",
             "ro": "Parc idilic cu zoo pentru copii.",
-            "en": "Idyllic park with a petting zoo."
+            "en": "Idyllic park with a petting zoo.",
+            "tr": "Sevimli hayvanat bahçesi olan ılık park."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Gasometer",
             "hu": "Gázométer",
             "ro": "Gazometru",
-            "en": "Gasometer"
+            "en": "Gasometer",
+            "tr": "Gazometre"
           },
           "coords": [
             8.7205,
@@ -442,7 +470,8 @@
             "de": "Spektakuläre Panorama-Show.",
             "hu": "Látványos körpanoráma-show.",
             "ro": "Spectacol panoramic spectaculos.",
-            "en": "Spectacular panorama show."
+            "en": "Spectacular panorama show.",
+            "tr": "Sinematik panorama gösterisi."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Wallberg Aussicht",
             "hu": "Wallberg-kilátó",
             "ro": "Belvedere Wallberg",
-            "en": "Wallberg Viewpoint"
+            "en": "Wallberg Viewpoint",
+            "tr": "Wallberg Seyir Noktası"
           },
           "coords": [
             8.6655,
@@ -465,7 +495,8 @@
             "de": "Bester Blick über die Goldstadt.",
             "hu": "A legjobb kilátás az Aranyvárosra.",
             "ro": "Cea mai bună vedere asupra Orașului Aurului.",
-            "en": "Best view over the Gold City."
+            "en": "Best view over the Gold City.",
+            "tr": "Parıltılı Şehir'e en iyi bakış."
           }
         }
       ],
@@ -473,7 +504,8 @@
         "de": "Mit dem Rad erkunden Sie Pforzheim vom Zentrum bis in die Höhenlagen. Nach Kultur und Technik im Tal führt der Weg hinauf zum Wildpark und schließlich zum geschichtsträchtigen Wallberg, wo Sie den Sonnenuntergang über der Stadt genießen.",
         "hu": "Kerékpárral Pforzheimet a központtól a magaslatokig fedezheti fel. A völgyben tett kulturális és technikai látogatás után az út felvezet a Vadasparkhoz, majd a történelmi Wallberghez, ahonnan csodás a naplemente.",
         "ro": "Cu bicicleta explorați Pforzheim de la centru până la înălțimi. După cultura și tehnica din vale, drumul urcă spre Parcul de Animale și în final spre istoricul Wallberg, pentru un apus superb.",
-        "en": "By bike, explore Pforzheim from the center to the highlands. After culture and tech in the valley, the path leads up to the Wildlife Park and finally to the historic Wallberg for sunset views."
+        "en": "By bike, explore Pforzheim from the center to the highlands. After culture and tech in the valley, the path leads up to the Wildlife Park and finally to the historic Wallberg for sunset views.",
+        "tr": "Bisikletle, Pforzheim'i merkezden yüksek kesimlere keşfedin. Vadi boyunca kültür ve teknolojiye baktıktan sonra yol sizi Vahşi Yaşam Parkı'na çıkartır ve nihayet günbatımı manzaraları için tarihi Wallberg'e ulaştırır."
       },
       "gastro_picks": {
         "de": [
@@ -573,6 +605,10 @@
         "en": [
           "Use the bike paths along the Enz and Nagold.",
           "The climb to the Wildlife Park requires some fitness."
+        ],
+        "tr": [
+          "Enz ve Nagold boyunca bisiklet yollarını kullanın.",
+          "Vahşi Yaşam Parkı'na tırmanış biraz kondisyon gerektirir."
         ]
       }
     },
@@ -589,7 +625,8 @@
             "de": "Parkhaus Zentrum (Cluster A)",
             "hu": "Belvárosi parkolóház",
             "ro": "Parcare Centru",
-            "en": "City Center Parking"
+            "en": "City Center Parking",
+            "tr": "Şehir Merkezi Otoparkı"
           },
           "coords": [
             8.7015,
@@ -605,7 +642,8 @@
             "de": "Idealer Ausgangspunkt für den Stadtkern.",
             "hu": "Ideális kiindulópont a városmaghoz.",
             "ro": "Punct ideal de plecare pentru centru.",
-            "en": "Ideal starting point for the city core."
+            "en": "Ideal starting point for the city core.",
+            "tr": "Şehir merkezinin çekirdeği için ideal başlangıç noktası."
           }
         },
         {
@@ -613,7 +651,8 @@
             "de": "Schlosskirche",
             "hu": "Vártemplom",
             "ro": "Biserica Castelului",
-            "en": "Castle Church"
+            "en": "Castle Church",
+            "tr": "Kale Kilisesi"
           },
           "coords": [
             8.7022,
@@ -629,7 +668,8 @@
             "de": "Kurzer Fußweg vom Parkhaus.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking garage."
+            "en": "Short walk from the parking garage.",
+            "tr": "Otopark garajına kısa yürüme mesafesi."
           }
         },
         {
@@ -637,7 +677,8 @@
             "de": "Schmuckmuseum",
             "hu": "Ékszermúzeum",
             "ro": "Muzeul Bijuteriilor",
-            "en": "Jewelry Museum"
+            "en": "Jewelry Museum",
+            "tr": "Mücevher Müzesi"
           },
           "coords": [
             8.6991,
@@ -653,7 +694,8 @@
             "de": "In der Nähe des Reuchlinhauses.",
             "hu": "A Reuchlin-ház közelében.",
             "ro": "În apropierea Casei Reuchlin.",
-            "en": "Near the Reuchlin House."
+            "en": "Near the Reuchlin House.",
+            "tr": "Reuchlin Evi'ne yakın."
           }
         },
         {
@@ -661,7 +703,8 @@
             "de": "Wildpark (Cluster C)",
             "hu": "Vadaspark",
             "ro": "Parcul de Animale",
-            "en": "Wildlife Park"
+            "en": "Wildlife Park",
+            "tr": "Vahşi Yaşam Parkı"
           },
           "coords": [
             8.7125,
@@ -677,7 +720,8 @@
             "de": "Großer kostenloser Parkplatz vorhanden.",
             "hu": "Nagy ingyenes parkoló áll rendelkezésre.",
             "ro": "Parcare mare gratuită disponibilă.",
-            "en": "Large free parking available."
+            "en": "Large free parking available.",
+            "tr": "Büyük ücretsiz otopark mevcut."
           }
         },
         {
@@ -685,7 +729,8 @@
             "de": "Gasometer (Cluster B)",
             "hu": "Gázométer",
             "ro": "Gazometru",
-            "en": "Gasometer"
+            "en": "Gasometer",
+            "tr": "Gazometre"
           },
           "coords": [
             8.7205,
@@ -701,7 +746,8 @@
             "de": "Eigene Parkflächen am Gasometer.",
             "hu": "Saját parkoló a Gázométernél.",
             "ro": "Locuri de parcare proprii la Gazometru.",
-            "en": "Dedicated parking at the Gasometer."
+            "en": "Dedicated parking at the Gasometer.",
+            "tr": "Gazometre için ayrılmış otopark."
           }
         },
         {
@@ -709,7 +755,8 @@
             "de": "Wallberg Monument",
             "hu": "Wallberg-emlékmű",
             "ro": "Monumentul Wallberg",
-            "en": "Wallberg Monument"
+            "en": "Wallberg Monument",
+            "tr": "Wallberg Anıtı"
           },
           "coords": [
             8.6655,
@@ -725,7 +772,8 @@
             "de": "Aussichtspunkt bequem per Pkw erreichbar.",
             "hu": "A kilátópont autóval kényelmesen elérhető.",
             "ro": "Punct de belvedere accesibil ușor cu mașina.",
-            "en": "Viewpoint easily accessible by car."
+            "en": "Viewpoint easily accessible by car.",
+            "tr": "Seyir noktasına araba ile kolay erişim."
           }
         }
       ],
@@ -733,7 +781,8 @@
         "de": "Mit dem Auto verbinden Sie die Highlights Pforzheims mühelos. Sie parken zentral für die Altstadt und das Schmuckmuseum, fahren dann hinaus ins Grüne zum Wildpark und beenden die Tour mit der beeindruckenden Gasometer-Show und dem Panorama am Wallberg.",
         "hu": "Autóval kényelmesen összekötheti Pforzheim legfőbb látnivalóit. A belvárosban parkolva megnézi az óvárost és az Ékszermúzeumot, majd kikocsikázik a Vadasparkba, végül a Gázométer és a Wallberg panorámája zárja a napot.",
         "ro": "Cu mașina conectați ușor punctele de interes din Pforzheim. Parcați central pentru centrul vechi și Muzeul Bijuteriilor, apoi conduceți spre Parcul de Animale și încheiați turul cu Gazometrul și panorama de la Wallberg.",
-        "en": "By car, you can effortlessly link Pforzheim's highlights. Park centrally for the old town and Jewelry Museum, then drive out to the Wildlife Park, ending with the Gasometer show and Wallberg panorama."
+        "en": "By car, you can effortlessly link Pforzheim's highlights. Park centrally for the old town and Jewelry Museum, then drive out to the Wildlife Park, ending with the Gasometer show and Wallberg panorama.",
+        "tr": "Arabayla Pforzheim'in öne çıkan noktalarını zahmetsizce bağlayabilirsiniz. Eski kent ve Mücevher Müzesi için merkezi park edin, ardından Vahşi Yaşam Parkı'na gidin ve Gazometre gösterisi ile Wallberg panoramasıyla günü sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -833,6 +882,10 @@
         "en": [
           "Parking fees in the center are moderate.",
           "Avoid rush hour traffic on the B10 road."
+        ],
+        "tr": [
+          "Merkezdeki otopark ücretleri ılımlıdır.",
+          "B10 yolunda yoğun saat trafiğinden kaçının."
         ]
       }
     },
@@ -849,7 +902,8 @@
             "de": "Leopoldplatz (Zentrum)",
             "hu": "Leopoldplatz (Központ)",
             "ro": "Leopoldplatz (Centru)",
-            "en": "Leopoldplatz (Center)"
+            "en": "Leopoldplatz (Center)",
+            "tr": "Leopoldplatz (Merkez)"
           },
           "coords": [
             8.7005,
@@ -865,7 +919,8 @@
             "de": "Zentraler Busknotenpunkt.",
             "hu": "Központi buszcsomópont.",
             "ro": "Nod central de autobuze.",
-            "en": "Central bus hub."
+            "en": "Central bus hub.",
+            "tr": "Merkezi otobüs merkezi."
           }
         },
         {
@@ -873,7 +928,8 @@
             "de": "Schmuckmuseum",
             "hu": "Ékszermúzeum",
             "ro": "Muzeul Bijuteriilor",
-            "en": "Jewelry Museum"
+            "en": "Jewelry Museum",
+            "tr": "Mücevher Müzesi"
           },
           "coords": [
             8.6991,
@@ -889,7 +945,8 @@
             "de": "Wenige Minuten zu Fuß vom Leopoldplatz.",
             "hu": "Pár perc séta a Leopoldplatztól.",
             "ro": "Câteva minute pe jos de la Leopoldplatz.",
-            "en": "A few minutes walk from Leopoldplatz."
+            "en": "A few minutes walk from Leopoldplatz.",
+            "tr": "Leopoldplatz'tan birkaç dakikalık yürüme mesafesinde."
           }
         },
         {
@@ -897,7 +954,8 @@
             "de": "Gasometer",
             "hu": "Gázométer",
             "ro": "Gazometru",
-            "en": "Gasometer"
+            "en": "Gasometer",
+            "tr": "Gazometre"
           },
           "coords": [
             8.7205,
@@ -913,7 +971,8 @@
             "de": "Buslinie 6 bis Haltestelle Gasometer.",
             "hu": "6-os busz a Gázométer megállóig.",
             "ro": "Linia 6 de autobuz până la stația Gasometer.",
-            "en": "Bus line 6 to the Gasometer stop."
+            "en": "Bus line 6 to the Gasometer stop.",
+            "tr": "Gazometre durağına giden 6 numaralı otobüs hattı."
           }
         },
         {
@@ -921,7 +980,8 @@
             "de": "Wildpark",
             "hu": "Vadaspark",
             "ro": "Parcul de Animale",
-            "en": "Wildlife Park"
+            "en": "Wildlife Park",
+            "tr": "Vahşi Yaşam Parkı"
           },
           "coords": [
             8.7125,
@@ -937,7 +997,8 @@
             "de": "Buslinie 5 hält direkt am Wildpark.",
             "hu": "5-ös busz közvetlenül a Vadasparknál áll meg.",
             "ro": "Linia 5 oprește chiar la Parcul de Animale.",
-            "en": "Bus line 5 stops right at the Wildlife Park."
+            "en": "Bus line 5 stops right at the Wildlife Park.",
+            "tr": "5 numaralı otobüs hattı Vahşi Yaşam Parkı durağında durur."
           }
         },
         {
@@ -945,7 +1006,8 @@
             "de": "Enzauenpark",
             "hu": "Enzauen-park",
             "ro": "Parcul Enzauen",
-            "en": "Enzauen Park"
+            "en": "Enzauen Park",
+            "tr": "Enzauen Parkı"
           },
           "coords": [
             8.715,
@@ -961,7 +1023,8 @@
             "de": "Rückfahrt Richtung Zentrum.",
             "hu": "Visszautazás a központ felé.",
             "ro": "Întoarcere spre centru.",
-            "en": "Return journey towards the center."
+            "en": "Return journey towards the center.",
+            "tr": "Geri dönüş yolculuğu merkeze doğru."
           }
         }
       ],
@@ -969,7 +1032,8 @@
         "de": "Das dichte Busnetz bringt Sie bequem zu allen Sights. Vom zentralen Leopoldplatz erreichen Sie Museen, den faszinierenden Gasometer und den Wildpark ohne Parkplatzsorgen.",
         "hu": "A sűrű buszhálózat kényelmesen elviszi minden látnivalóhoz. A központi Leopoldplatztól elérheti a múzeumokat, a Gázométert és a Vadasparkot anélkül, hogy parkolóért aggódna.",
         "ro": "Rețeaua densă de autobuze vă duce confortabil la toate obiectivele. De la Leopoldplatz central ajungeți la muzee, Gazometru și Parcul de Animale fără grija parcării.",
-        "en": "The dense bus network takes you comfortably to all sights. From the central Leopoldplatz, you can reach museums, the fascinating Gasometer, and the Wildlife Park without parking worries."
+        "en": "The dense bus network takes you comfortably to all sights. From the central Leopoldplatz, you can reach museums, the fascinating Gasometer, and the Wildlife Park without parking worries.",
+        "tr": "Yoğun otobüs ağı sizi tüm turistik noktalara konforlu bir şekilde götürür. Merkezi Leopoldplatz'tan müzelere, etkileyici Gazometre'ye ve Vahşi Yaşam Parkı'na park yeri derdi olmadan ulaşabilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1069,6 +1133,10 @@
         "en": [
           "Use a day ticket for Pforzheim's public transport.",
           "Buses run less frequently on weekends."
+        ],
+        "tr": [
+          "Pforzheim'in toplu taşımasında günlük bilet kullanın.",
+          "Hafta sonları otobüsler daha seyrek çalışır."
         ]
       }
     }

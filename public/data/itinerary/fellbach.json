@@ -21,7 +21,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi Városháza",
             "ro": "Vechea Primărie",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "tr": "Eski Belediye Binası"
           },
           "coords": [
             9.2758,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie das historische Alte Rathaus als Zeugnis der Stadtgeschichte, bewundern Sie die Architektur und achten Sie auf die Öffnungszeiten des Bürgerbüros.",
             "hu": "Fedezze fel a történelmi régi városházát, amely a város múltjáról tanúskodik, csodálja meg az építészetet, és figyeljen a nyitvatartási időkre.",
             "ro": "Descoperiți vechea primărie istorică drept o mărturie a istoriei orașului, admirați arhitectura și fiți atenți la orele de deschidere ale biroului.",
-            "en": "Discover the historic old town hall as a testament to the city's past, admire its architecture, and check the opening hours if you need local information."
+            "en": "Discover the historic old town hall as a testament to the city's past, admire its architecture, and check the opening hours if you need local information.",
+            "tr": "Şehrin geçmişine tanıklık eden tarihi eski belediye binasını keşfedin, mimarisine hayran kalın ve yerel bilgiye ihtiyacınız varsa açılış saatlerini kontrol edin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Lutherkirche",
             "hu": "Luther-templom",
             "ro": "Biserica Luther",
-            "en": "Lutherkirche"
+            "en": "Lutherkirche",
+            "tr": "Lutherkirche"
           },
           "coords": [
             9.276277,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die imposante Lutherkirche, deren Architektur die lokale Religionsgeschichte widerspiegelt, und besuchen Sie den ruhigen Innenraum für eine kurze Pause.",
             "hu": "Csodálja meg az impozáns evangélikus templomot, melynek építészete a helyi vallástörténetet tükrözi, és térjen be egy rövid, csendes pihenőre.",
             "ro": "Admirați impunătoarea biserică luterană, a cărei arhitectură reflectă istoria religioasă locală, și intrați în spațiul liniștit pentru o scurtă pauză.",
-            "en": "Admire the imposing Lutherkirche, whose architecture reflects the local religious history, and step inside the tranquil interior for a moment of quiet reflection."
+            "en": "Admire the imposing Lutherkirche, whose architecture reflects the local religious history, and step inside the tranquil interior for a moment of quiet reflection.",
+            "tr": "Yerel dini tarihi yansıtan etkileyici Lutherkirche’yi hayranlıkla izleyin ve kısa bir süre için huzurlu iç mekâna girin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Glockenturm",
             "hu": "Harangtorony",
             "ro": "Turnul cu clopot",
-            "en": "Bell Tower"
+            "en": "Bell Tower",
+            "tr": "Çan Kulesi"
           },
           "coords": [
             9.274309,
@@ -82,7 +87,8 @@
             "de": "Besichtigen Sie den markanten Glockenturm, ein unverzichtbares Wahrzeichen von Fellbach, und bringen Sie eine Kamera für die interessanten Perspektiven mit.",
             "hu": "Tekintse meg a jellegzetes harangtornyot, Fellbach kihagyhatatlan nevezetességét, és hozzon magával fényképezőgépet az érdekes perspektívákhoz.",
             "ro": "Vizitați turnul cu clopot, un punct de reper esențial al orașului Fellbach, și aduceți o cameră pentru a surprinde perspective interesante ale împrejurimilor.",
-            "en": "Visit the striking bell tower, an essential landmark of Fellbach, and be sure to bring a camera to capture the interesting architectural perspectives."
+            "en": "Visit the striking bell tower, an essential landmark of Fellbach, and be sure to bring a camera to capture the interesting architectural perspectives.",
+            "tr": "Çarpıcı çan kulesini ziyaret edin; Fellbach'ın vazgeçilmez simgelerinden biridir. İlginç mimari açıları yakalamak için fotoğraf makinenizi alın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Stadtmuseum Fellbach",
             "hu": "Fellbachi Városi Múzeum",
             "ro": "Muzeul Orașului Fellbach",
-            "en": "Fellbach City Museum"
+            "en": "Fellbach City Museum",
+            "tr": "Fellbach Şehir Müzesi"
           },
           "coords": [
             9.27548,
@@ -105,7 +112,8 @@
             "de": "Tauchen Sie im Stadtmuseum tief in die reiche Geschichte Fellbachs ein und nutzen Sie die informativen Audioguides, um keine der faszinierenden Ausstellungen zu verpassen.",
             "hu": "Merüljön el Fellbach gazdag történelmében a Városi Múzeumban, és használja az informatív audioguide-okat, hogy egyetlen lenyűgöző kiállítást se hagyjon ki.",
             "ro": "Cufundați-vă în istoria bogată a orașului Fellbach la Muzeul Orașului și folosiți ghidurile audio pentru a nu rata nicio expoziție fascinantă.",
-            "en": "Delve deep into the rich history of Fellbach at the City Museum and make use of the informative audio guides to ensure you do not miss any fascinating exhibits."
+            "en": "Delve deep into the rich history of Fellbach at the City Museum and make use of the informative audio guides to ensure you do not miss any fascinating exhibits.",
+            "tr": "Fellbach’ın zengin tarihini Şehir Müzesi’nde keşfedin ve hiçbir ilgi çekici sergiyi kaçırmamak için bilgilendirici sesli rehberleri kullanın."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schwabenlandhalle",
             "hu": "Schwabenlandhalle",
             "ro": "Schwabenlandhalle",
-            "en": "Schwabenlandhalle"
+            "en": "Schwabenlandhalle",
+            "tr": "Schwabenlandhalle"
           },
           "coords": [
             9.272716,
@@ -128,7 +137,8 @@
             "de": "Erleben Sie die kulturelle Bedeutung der Schwabenlandhalle bei einem Rundgang und überprüfen Sie das aktuelle Veranstaltungsprogramm für abendliche Unterhaltungsmöglichkeiten.",
             "hu": "Tapasztalja meg a Schwabenlandhalle kulturális jelentőségét egy séta során, és ellenőrizze az aktuális programokat az esti szórakozási lehetőségekért.",
             "ro": "Experimentați importanța culturală a Schwabenlandhalle în timpul unui tur și verificați programul actual de evenimente pentru opțiuni de divertisment de seară.",
-            "en": "Experience the cultural significance of the Schwabenlandhalle during a stroll around the venue, and check the current event program for evening entertainment options."
+            "en": "Experience the cultural significance of the Schwabenlandhalle during a stroll around the venue, and check the current event program for evening entertainment options.",
+            "tr": "Schwabenlandhalle’nin kültürel önemini mekan çevresinde dolaşarak hissedin ve akşam etkinlikleri için güncel programı kontrol edin."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "F.3 Familien- und Freizeitbad",
             "hu": "F.3 Családi és Szabadidőközpont",
             "ro": "Centrul de Agrement F.3",
-            "en": "F.3 Family and Leisure Pool"
+            "en": "F.3 Family and Leisure Pool",
+            "tr": "F.3 Aile ve Eğlence Havuzu"
           },
           "coords": [
             9.26876,
@@ -151,7 +162,8 @@
             "de": "Entspannen Sie sich in den modernen Pools des F.3 Freizeitbades nach einem langen Tag und denken Sie daran, Ihr eigenes Handtuch mitzubringen, um Leihgebühren zu sparen.",
             "hu": "Pihenjen az F.3 szabadidőközpont modern medencéiben egy hosszú nap után, és ne felejtsen el saját törölközőt hozni, hogy megspórolja a kölcsönzési díjat.",
             "ro": "Relaxați-vă în piscinele moderne ale centrului de agrement F.3 după o zi lungă și nu uitați să vă aduceți propriul prosop pentru a economisi taxele de închiriere.",
-            "en": "Relax in the modern pools of the F.3 leisure center after a long day exploring, and remember to bring your own towel to save on rental fees."
+            "en": "Relax in the modern pools of the F.3 leisure center after a long day exploring, and remember to bring your own towel to save on rental fees.",
+            "tr": "Uzun bir keşif gününün ardından F.3 eğlence merkezinin modern havuzlarında dinlenin; kira ücretinden tasarruf etmek için kendi havlunuzun gelmesini unutmayın."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Spaziergang im Herzen von Fellbach am historischen Alten Rathaus. Die Atmosphäre am Morgen ist ruhig, ideal um die Architektur der Lutherkirche und des markanten Glockenturms im goldenen Licht zu bewundern.\nZur Mittagszeit tauchen Sie im Stadtmuseum in die reiche Geschichte ein. Danach bietet die Umgebung der Schwabenlandhalle eine großartige Kulisse für eine entspannte Pause.\nDer Nachmittag steht ganz im Zeichen der Erholung. Ein gemütlicher Spaziergang führt Sie durch das kulturelle Zentrum der Stadt, bevor Sie sich auf das Freizeitbad vorbereiten.\nLassen Sie den Tag im F.3 Familien- und Freizeitbad ausklingen. Die modernen Pools bieten die perfekte Entspannung, bevor Sie in einem nahen Restaurant den Abend genießen.",
         "hu": "Kezdje sétáját Fellbach szívében, a történelmi Régi Városházánál. A reggeli hangulat nyugodt, ideális a Luther-templom és a harangtorony építészetének megcsodálására.\nDélben merüljön el a gazdag történelemben a Városi Múzeumban. Ezt követően a Schwabenlandhalle környéke nagyszerű hátteret biztosít egy pihentető, kényelmes szünethez.\nA délután a pihenésről szól. Egy kellemes séta vezet át a város kulturális központján, mielőtt felkészülne a szabadidőközpont nyújtotta wellness élményekre.\nZárja a napot az F.3 szabadidőközpontban. A modern medencék tökéletes kikapcsolódást nyújtanak, mielőtt elfogyasztana egy finom vacsorát a közeli éttermek egyikében.",
         "ro": "Începeți plimbarea în inima orașului Fellbach la vechea primărie. Atmosfera dimineții este liniștită, ideală pentru a admira arhitectura bisericii Luther și a turnului cu clopot.\nLa amiază, cufundați-vă în istoria bogată la Muzeul Orașului. Ulterior, împrejurimile Schwabenlandhalle oferă un cadru excelent pentru o pauză relaxantă și revigorantă.\nDupă-amiaza este dedicată relaxării. O plimbare confortabilă vă poartă prin centrul cultural al orașului, înainte de a vă pregăti pentru centrul de agrement.\nÎncheiați ziua la centrul de agrement F.3. Piscinele moderne oferă relaxarea perfectă înainte de a vă bucura de o cină delicioasă într-un restaurant din apropiere.",
-        "en": "Begin your walk in the heart of Fellbach at the historic Old Town Hall. The morning atmosphere is quiet, ideal for admiring the architecture of the Lutherkirche and the bell tower.\nAt midday, delve into the rich history at the City Museum. Afterwards, the surroundings of the Schwabenlandhalle provide a great backdrop for a relaxing and well-deserved break.\nThe afternoon is all about relaxation. A comfortable stroll leads you through the city's cultural center before preparing for the fun at the local leisure center.\nEnd the day at the F.3 leisure center. The modern pools offer the perfect relaxation before enjoying a delicious dinner in one of the fantastic nearby restaurants."
+        "en": "Begin your walk in the heart of Fellbach at the historic Old Town Hall. The morning atmosphere is quiet, ideal for admiring the architecture of the Lutherkirche and the bell tower.\nAt midday, delve into the rich history at the City Museum. Afterwards, the surroundings of the Schwabenlandhalle provide a great backdrop for a relaxing and well-deserved break.\nThe afternoon is all about relaxation. A comfortable stroll leads you through the city's cultural center before preparing for the fun at the local leisure center.\nEnd the day at the F.3 leisure center. The modern pools offer the perfect relaxation before enjoying a delicious dinner in one of the fantastic nearby restaurants.",
+        "tr": "Yürüyüşünüze Fellbach’ın kalbinde, tarihi Eski Belediye Binası’nda başlayın. Sabah atmosferi sakindir; Lutherkirche ve çan kulesinin mimarisini hayranlıkla izlemek için idealdir.\nÖğle vakti, Şehir Müzesi’nde Fellbach’ın zengin tarihine dalın. Ardından Schwabenlandhalle çevresi, dinlenmek için harika bir ortam sunar.\nÖğleden sonra tamamen dinlenmeye ayrılmıştır. Şehrin kültür merkezinden rahat bir yürüyüş yapıp yerel eğlence merkezinde eğlenceye hazırlanabilirsiniz.\nGünü F.3 eğlence merkezinde sonlandırın. Modern havuzlar mükemmel bir rahatlama sunar; ardından çevredeki harika restoranlardan birinde lezzetli bir akşam yemeğinin tadını çıkarın."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Starten Sie am Rathaus unter den schützenden Arkaden. Der Regen lässt die Altstadt glänzen; nutzen Sie die kurzen Wege zwischen den Kirchen. Mittags bietet das Museum einen trockenen Unterschlupf. Der Nachmittag in der Schwabenlandhalle bleibt gemütlich, bevor Sie den Tag im warmen Wasser des F.3 ausklingen lassen. Perfekt für trübe Tage.",
             "hu": "Kezdje a városházánál az árkádok védelmében. Az eső fényessé teszi az óvárost; használja ki a templomok közötti rövid távokat. Délben a múzeum nyújt száraz menedéket a zápor elől. A délután a Schwabenlandhalle falai között telik, végül az F.3 fürdő meleg vizében fejezheti be a napot, biztonságban az elemektől.",
             "ro": "Începeți la primărie sub arcadele protectoare. Ploaia face centrul vechi să strălucească; profitați de distanțele scurte dintre biserici. La prânz, muzeul oferă un adăpost uscat. După-amiaza în Schwabenlandhalle rămâne confortabilă, înainte de a încheia ziua în apa caldă de la F.3, departe de vremea neprietenoasă.",
-            "en": "Start at the town hall under the protective arcades. The rain makes the old town glisten; take advantage of the short distances between churches. At noon, the museum provides a dry shelter. The afternoon stays cozy inside Schwabenlandhalle before finishing the day in the warm water of F.3, perfectly shielded from the rain."
+            "en": "Start at the town hall under the protective arcades. The rain makes the old town glisten; take advantage of the short distances between churches. At noon, the museum provides a dry shelter. The afternoon stays cozy inside Schwabenlandhalle before finishing the day in the warm water of F.3, perfectly shielded from the rain.",
+            "tr": "Korunaklı revakların altındaki belediye binasından başlayın. Yağmur eski şehri parlatarak kısa kilise mesafelerinden faydalanmayı sağlar. Öğle vakti müze kuru bir sığınak sunar. Öğleden sonra Schwabenlandhalle iç mekanında sıcak kalın; günü F.3’ün sıcak suyunda sonlandırın."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Altes Rathaus",
                 "hu": "Régi Városháza",
                 "ro": "Vechea Primărie",
-                "en": "Old Town Hall"
+                "en": "Old Town Hall",
+                "tr": "Eski Belediye Binası"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das Fachwerk unter dem Schutz der Arkaden; die Fassade wirkt im Regen besonders kontrastreich und historisch. Nutzen Sie den Platz für einen Schirm-Check.",
                 "hu": "Csodálja meg a fagerendás homlokzatot az árkádok védelméből; az esőben a falak színei még kontrasztosabbak. Ideális hely az esernyő kinyitásához.",
                 "ro": "Admirați fațada cu bârne de lemn sub protecția arcadelor; în ploaie, culorile par mai contrastante. Un loc excelent pentru a verifica umbrela.",
-                "en": "Admire the half-timbered facade from the shelter of the arcades; the rain makes the colors appear more contrasty. Perfect spot for an umbrella check."
+                "en": "Admire the half-timbered facade from the shelter of the arcades; the rain makes the colors appear more contrasty. Perfect spot for an umbrella check.",
+                "tr": "Revakların sunduğu korumadan yararlanarak yarı ahşap cepheyi hayranlıkla izleyin; yağmur renklerin daha kontrast görünmesini sağlar. Şemsiye kontrolü için mükemmel bir nokta."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Lutherkirche",
                 "hu": "Luther-templom",
                 "ro": "Biserica Luther",
-                "en": "Lutherkirche"
+                "en": "Lutherkirche",
+                "tr": "Lutherkirche"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um dem Prasseln des Regens zu entkommen; das stille Innere bietet eine perfekte, trockene Pause. Achten Sie auf nasse Stufen am Eingang.",
                 "hu": "Lépjen be, hogy elmeneküljön az eső kopogása elől; a csendes belső tér tökéletes, száraz pihenőt kínál. Vigyázzon a bejáratnál a nedves lépcsőkre.",
                 "ro": "Intrați pentru a scăpa de ropotul ploii; interiorul liniștit oferă o pauză perfectă și uscată. Atenție la treptele umede de la intrare.",
-                "en": "Step inside to escape the patter of the rain; the quiet interior offers a perfect, dry break. Watch out for wet steps at the entrance."
+                "en": "Step inside to escape the patter of the rain; the quiet interior offers a perfect, dry break. Watch out for wet steps at the entrance.",
+                "tr": "Yağmurun sesiyle baş etmek için içeri girin; sakin iç mekan kuru bir mola için idealdir. Girişte ıslak basamaklara dikkat edin."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Glockenturm",
                 "hu": "Harangtorony",
                 "ro": "Turnul cu clopot",
-                "en": "Bell Tower"
+                "en": "Bell Tower",
+                "tr": "Çan Kulesi"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Halt am Turm lohnt sich auch bei Schmuddelwetter; achten Sie auf die glatten Kopfsteinpflaster in der direkten Umgebung. Tragen Sie rutschfeste Sohlen.",
                 "hu": "Egy rövid megálló a toronynál rossz időben is megéri; figyeljen a környező csúszós macskakövekre. Viseljen tapadós talpú cipőt a sétához.",
                 "ro": "O scurtă oprire la turn merită chiar și pe vreme rea; aveți grijă la pavajul alunecos din jur. Purtați încălțăminte cu talpă aderentă.",
-                "en": "A quick stop at the tower is worth it even in bad weather; watch out for slippery cobblestones in the area. Wear non-slip soles for safety."
+                "en": "A quick stop at the tower is worth it even in bad weather; watch out for slippery cobblestones in the area. Wear non-slip soles for safety.",
+                "tr": "Kuleye kısa bir uğrama kötü havada bile değer; çevrede kaygan kaldırım taşlarına dikkat edin. Güvenlik için kaymaz tabanlı ayakkabı giyin."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Stadtmuseum Fellbach",
                 "hu": "Fellbachi Városi Múzeum",
                 "ro": "Muzeul Orașului Fellbach",
-                "en": "Fellbach City Museum"
+                "en": "Fellbach City Museum",
+                "tr": "Fellbach Şehir Müzesi"
               },
               "tip_5lang": {
                 "de": "Das Museum ist der ideale Rückzugsort vor dem Guss; vertiefen Sie sich in die Geschichte, während es draußen regnet. Ein großer Schirmständer steht bereit.",
                 "hu": "A múzeum ideális búvóhely a felhőszakadás elől; merüljön el a történelemben, miközben odakint esik. Tágas esernyőtartó várja a látogatókat.",
                 "ro": "Muzeul este refugiul ideal împotriva ploii; aprofundați istoria în timp ce afară plouă. Există un suport mare pentru umbrele la intrare.",
-                "en": "The museum is the ideal retreat from the downpour; immerse yourself in history while it rains outside. A large umbrella stand is available."
+                "en": "The museum is the ideal retreat from the downpour; immerse yourself in history while it rains outside. A large umbrella stand is available.",
+                "tr": "Müze sağanak yağıştan kaçmak için ideal bir sığınaktır; dışarı yağmur yağarken tarihe dalabilirsiniz. Büyük bir şemsiye standı mevcuttur."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Schwabenlandhalle",
                 "hu": "Schwabenlandhalle",
                 "ro": "Schwabenlandhalle",
-                "en": "Schwabenlandhalle"
+                "en": "Schwabenlandhalle",
+                "tr": "Schwabenlandhalle"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das großzügige Foyer als trockenen Treffpunkt; hier sind Sie sicher vor Wind und Wetter. Perfekt, um die Regenjacke kurz auszuschütteln.",
                 "hu": "Használja a tágas előcsarnokot száraz találkozóhelyként; itt védve van a széltől és az esőtől. Ideális hely a vizes kabát lerázásához.",
                 "ro": "Folosiți foierul generos ca loc de întâlnire uscat; aici sunteți ferit de vânt și ploaie. Perfect pentru a scutura puțin pelerina de ploaie.",
-                "en": "Use the spacious foyer as a dry meeting point; here you are safe from the wind and weather. Great spot to shake off your raincoat."
+                "en": "Use the spacious foyer as a dry meeting point; here you are safe from the wind and weather. Great spot to shake off your raincoat.",
+                "tr": "Geniş fuayeyi kuru bir buluşma noktası olarak kullanın; rüzgâr ve kötü hava koşullarından korunursunuz. Yağmurluğunuzu silkelemek için harika bir yer."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "F.3 Familien- und Freizeitbad",
                 "hu": "F.3 Családi és Szabadidőközpont",
                 "ro": "Centrul de Agrement F.3",
-                "en": "F.3 Family and Leisure Pool"
+                "en": "F.3 Family and Leisure Pool",
+                "tr": "F.3 Aile ve Eğlence Havuzu"
               },
               "tip_5lang": {
                 "de": "Entspannen Sie in den Thermalbecken, während der Regen gegen die Glasfronten peitscht. Die heiße Sauna ist der beste Schutz gegen feuchte Kälte.",
                 "hu": "Lazítson a termálmedencékben, miközben az eső a hatalmas üvegfelületeket veri. A forró szauna a legjobb védelem a nyirkos hideg ellen.",
                 "ro": "Relaxați-vă în bazinele termale în timp ce ploaia bate în geamuri. Sauna fierbinte este cea mai bună protecție împotriva frigului umed.",
-                "en": "Relax in the thermal pools while the rain lashes against the glass. The hot sauna is the best protection against the damp cold."
+                "en": "Relax in the thermal pools while the rain lashes against the glass. The hot sauna is the best protection against the damp cold.",
+                "tr": "Yağmur camlara vururken termal havuzlarda dinlenin. Sıcak sauna, nemli soğuğa karşı en iyi korumadır."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Morgens glitzert der Frost auf dem Rathausplatz. Wärmen Sie sich in der Kirche auf, bevor Sie zum Museum spazieren. Die kurzen Wege verhindern das Auskühlen. Nachmittags lockt die Kultur in der Schwabenlandhalle. Da es um 17 Uhr dunkel wird, ist das beleuchtete F.3-Bad der ideale Ort für einen gemütlichen Winterabend in wohliger Wärme.",
             "hu": "Reggel fagy csillog a városháza terén. Melegedjen fel a templomban, mielőtt a múzeumhoz sétálna. A rövid távok megvédik a kihűléstől. Délután a Schwabenlandhalle kulturális programjai várják. Mivel 5-kor sötétedik, a kivilágított F.3 fürdő ideális hely egy hangulatos téli estéhez a meleg vízben.",
             "ro": "Dimineața, gerul strălucește în piața primăriei. Încălziți-vă în biserică înainte de a merge la muzeu. Distanțele scurte previn răceala. După-amiaza, cultura vă atrage la Schwabenlandhalle. Deoarece se întunecă la ora 17, baia F.3 iluminată este locul ideal pentru o seară de iarnă confortabilă și caldă.",
-            "en": "In the morning, frost glistens on the town hall square. Warm up in the church before walking to the museum. Short distances prevent getting too cold. In the afternoon, culture beckons at Schwabenlandhalle. Since it gets dark at 5 PM, the illuminated F.3 pool is the ideal place for a cozy and warm winter evening."
+            "en": "In the morning, frost glistens on the town hall square. Warm up in the church before walking to the museum. Short distances prevent getting too cold. In the afternoon, culture beckons at Schwabenlandhalle. Since it gets dark at 5 PM, the illuminated F.3 pool is the ideal place for a cozy and warm winter evening.",
+            "tr": "Sabah, belediye meydanında kırağı parıldar. Kilisede ısınarak müzeye doğru yürüyün. Kısa mesafeler üşümenizi engeller. Öğleden sonra Schwabenlandhalle’de kültür sizi bekler. Saat 17:00’de hava karardığı için aydınlatılmış F.3 havuzu sıcak ve samimi bir kış akşamı için idealdir."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Altes Rathaus",
                 "hu": "Régi Városháza",
                 "ro": "Vechea Primărie",
-                "en": "Old Town Hall"
+                "en": "Old Town Hall",
+                "tr": "Eski Belediye Binası"
               },
               "tip_5lang": {
                 "de": "Die historische Kulisse wirkt im Winterlicht magisch; tragen Sie warme Schichten für den Aufenthalt auf dem oft zugigen Rathausplatz.",
                 "hu": "A történelmi díszlet varázslatos a téli fényben; öltözzön rétegesen a sokszor huzatos városháza téren való tartózkodáshoz.",
                 "ro": "Cadrul istoric pare magic în lumina iernii; purtați haine groase pentru șederea în piața primăriei, unde bate vântul.",
-                "en": "The historical backdrop looks magical in the winter light; wear warm layers for your stay on the often drafty town hall square."
+                "en": "The historical backdrop looks magical in the winter light; wear warm layers for your stay on the often drafty town hall square.",
+                "tr": "Tarihi fon kış ışığında büyüleyici görünür; genellikle rüzgârlı olan belediye meydanında kalmak için sıcak katmanlar giyin."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Lutherkirche",
                 "hu": "Luther-templom",
                 "ro": "Biserica Luther",
-                "en": "Lutherkirche"
+                "en": "Lutherkirche",
+                "tr": "Lutherkirche"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Stille für eine kurze Aufwärmpause; das dicke Mauerwerk schützt gut vor dem eisigen Winterwind draußen. Warme Socken sind ratsam.",
                 "hu": "Használja ki a csendet egy rövid melegedőre; a vastag falak jól védenek a jeges téli szél ellen. A meleg zokni viselése ajánlott a kövön.",
                 "ro": "Profitați de liniște pentru o scurtă pauză de încălzire; zidăria groasă protejează bine de vântul înghețat. Se recomandă șosete groase.",
-                "en": "Use the silence for a short warming break; the thick masonry protects well against the icy winter wind. Warm socks are advisable on the stone."
+                "en": "Use the silence for a short warming break; the thick masonry protects well against the icy winter wind. Warm socks are advisable on the stone.",
+                "tr": "Kısa bir ısınma molası için sessizliği kullanın; kalın duvarlar soğuk kış rüzgârına karşı iyi korur. Taş zeminde kalın çorap önerilir."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Glockenturm",
                 "hu": "Harangtorony",
                 "ro": "Turnul cu clopot",
-                "en": "Bell Tower"
+                "en": "Bell Tower",
+                "tr": "Çan Kulesi"
               },
               "tip_5lang": {
                 "de": "Der Turm steht markant im fahlen Winterhimmel; achten Sie auf gefrorene Stellen auf dem Boden rund um das Monument. Handschuhe sind beim Fotografieren wichtig.",
                 "hu": "A torony markánsan emelkedik a sápadt téli ég felé; ügyeljen a jeges foltokra a talajon az emlékmű körül. A kesztyű fontos fotózás közben.",
                 "ro": "Turnul se ridică impunător pe cerul palid de iarnă; aveți grijă la porțiunile înghețate de pe sol. Mănușile sunt esențiale pentru fotografii.",
-                "en": "The tower stands out strikingly against the pale winter sky; watch out for frozen patches on the ground. Gloves are essential for taking photos."
+                "en": "The tower stands out strikingly against the pale winter sky; watch out for frozen patches on the ground. Gloves are essential for taking photos.",
+                "tr": "Kule soluk kış göğüne karşı çarpıcı bir görüntü sunar; yerde donmuş bölgeler olabilir. Fotoğraf çekerken eldivenler şart."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Stadtmuseum Fellbach",
                 "hu": "Fellbachi Városi Múzeum",
                 "ro": "Muzeul Orașului Fellbach",
-                "en": "Fellbach City Museum"
+                "en": "Fellbach City Museum",
+                "tr": "Fellbach Şehir Müzesi"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie der Kälte in die beheizten Räume; die Exponate lassen sich ohne dicke Jacke viel entspannter erkunden. Nutzen Sie die warme Garderobe.",
                 "hu": "Meneküljön a hideg elől a fűtött termekbe; a tárlatokat sokkal kényelmesebb kabát nélkül felfedezni. Használja a benti meleg ruhatárat.",
                 "ro": "Evadați de frig în sălile încălzite; exponatele pot fi explorate mult mai relaxat fără geaca groasă. Folosiți garderoba primitoare.",
-                "en": "Escape the cold into the heated rooms; the exhibits can be explored much more relaxedly without a jacket. Use the warm cloakroom."
+                "en": "Escape the cold into the heated rooms; the exhibits can be explored much more relaxedly without a jacket. Use the warm cloakroom.",
+                "tr": "Sıcağa kaçmak için ısıtmalı odalara girin; sergileri ceket olmadan daha rahat gezebilirsiniz. Sıcak emanet dolabını kullanın."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Schwabenlandhalle",
                 "hu": "Schwabenlandhalle",
                 "ro": "Schwabenlandhalle",
-                "en": "Schwabenlandhalle"
+                "en": "Schwabenlandhalle",
+                "tr": "Schwabenlandhalle"
               },
               "tip_5lang": {
                 "de": "Drinnen ist es herrlich warm; genießen Sie die Kultur im Winter, wenn es draußen früh dunkel wird. Ein perfekter Ort für die späte Nachmittagsstunde.",
                 "hu": "Odabent kellemes meleg van; élvezze a kultúrát télen, amikor odakint korán sötétedik. Tökéletes helyszín a késő délutáni órákhoz.",
                 "ro": "În interior este minunat de cald; bucurați-vă de cultură iarna, când se întunecă devreme. Un loc perfect pentru orele târzii de după-amiază.",
-                "en": "It is wonderfully warm inside; enjoy the culture in winter, when it gets dark early outside. A perfect place for the late afternoon hours."
+                "en": "It is wonderfully warm inside; enjoy the culture in winter, when it gets dark early outside. A perfect place for the late afternoon hours.",
+                "tr": "İçerisi harika şekilde sıcaktır; dışarıda erken karardığında kültürün tadını çıkarın. Öğleden sonraları için mükemmel bir mekandır."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "F.3 Familien- und Freizeitbad",
                 "hu": "F.3 Családi és Szabadidőközpont",
                 "ro": "Centrul de Agrement F.3",
-                "en": "F.3 Family and Leisure Pool"
+                "en": "F.3 Family and Leisure Pool",
+                "tr": "F.3 Aile ve Eğlence Havuzu"
               },
               "tip_5lang": {
                 "de": "Das warme Thermalwasser ist bei Minusgraden besonders wohltuend, besonders im beleuchteten Außenbecken. Föhnen Sie Ihre Haare vor dem Gehen gründlich.",
                 "hu": "A meleg termálvíz különösen jólesik a mínuszokban, főleg a kivilágított külső medencében. Távozás előtt alaposan szárítsa meg a haját.",
                 "ro": "Apa termală caldă este deosebit de plăcută la temperaturi negative, mai ales afară. Uscați-vă bine părul înainte de a pleca în frig.",
-                "en": "The warm thermal water is especially pleasant in sub-zero temperatures, especially outdoors. Dry your hair thoroughly before leaving."
+                "en": "The warm thermal water is especially pleasant in sub-zero temperatures, especially outdoors. Dry your hair thoroughly before leaving.",
+                "tr": "Soğuk hava koşullarında özellikle dışarıdaki sıcak termal su çok keyiflidir. Ayrılırken saçınızı iyice kurulayın."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Lutherkirche",
             "hu": "Luther-templom",
             "ro": "Biserica Luther",
-            "en": "Lutherkirche"
+            "en": "Lutherkirche",
+            "tr": "Lutherkirche"
           },
           "coords": [
             9.276277,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie die imposante Lutherkirche, deren Architektur die lokale Religionsgeschichte widerspiegelt, und besuchen Sie den ruhigen Innenraum für eine kurze Pause.",
             "hu": "Csodálja meg az impozáns evangélikus templomot, melynek építészete a helyi vallástörténetet tükrözi, és térjen be egy rövid, csendes pihenőre.",
             "ro": "Admirați impunătoarea biserică luterană, a cărei arhitectură reflectă istoria religioasă locală, și intrați în spațiul liniștit pentru o scurtă pauză.",
-            "en": "Admire the imposing Lutherkirche, whose architecture reflects the local religious history, and step inside the tranquil interior for a moment of quiet reflection."
+            "en": "Admire the imposing Lutherkirche, whose architecture reflects the local religious history, and step inside the tranquil interior for a moment of quiet reflection.",
+            "tr": "Bölgenin dini tarihini yansıtan görkemli Lutherkirche’ye hayran kalın ve sakin iç mekânda kısa bir sessizlik anı yaşayın."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Stadtmuseum Fellbach",
             "hu": "Fellbachi Városi Múzeum",
             "ro": "Muzeul Orașului Fellbach",
-            "en": "Fellbach City Museum"
+            "en": "Fellbach City Museum",
+            "tr": "Fellbach Şehir Müzesi"
           },
           "coords": [
             9.27548,
@@ -403,7 +445,8 @@
             "de": "Tauchen Sie im Stadtmuseum tief in die reiche Geschichte Fellbachs ein und nutzen Sie die informativen Audioguides, um keine der faszinierenden Ausstellungen zu verpassen.",
             "hu": "Merüljön el Fellbach gazdag történelmében a Városi Múzeumban, és használja az informatív audioguide-okat, hogy egyetlen lenyűgöző kiállítást se hagyjon ki.",
             "ro": "Cufundați-vă în istoria bogată a orașului Fellbach la Muzeul Orașului și folosiți ghidurile audio pentru a nu rata nicio expoziție fascinantă.",
-            "en": "Delve deep into the rich history of Fellbach at the City Museum and make use of the informative audio guides to ensure you do not miss any fascinating exhibits."
+            "en": "Delve deep into the rich history of Fellbach at the City Museum and make use of the informative audio guides to ensure you do not miss any fascinating exhibits.",
+            "tr": "Fellbach’ın zengin tarihine Şehir Müzesi’nde derinlemesine dalın ve hiçbir ilgi çekici sergiyi kaçırmamak için bilgilendirici sesli rehberleri kullanın."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Kappelberg",
             "hu": "Kappelberg",
             "ro": "Kappelberg",
-            "en": "Kappelberg"
+            "en": "Kappelberg",
+            "tr": "Kappelberg"
           },
           "coords": [
             9.28417,
@@ -426,7 +470,8 @@
             "de": "Genießen Sie die atemberaubende Aussicht über die Weinberge vom Kappelberg aus und tragen Sie festes Schuhwerk für die teils steilen, aber lohnenden Wanderwege.",
             "hu": "Élvezze a lélegzetelállító kilátást a szőlőültetvényekre a Kappelbergről, és viseljen masszív cipőt a helyenként meredek, de nagyon is megéri túraútvonalakhoz.",
             "ro": "Bucurați-vă de vederea uluitoare peste podgorii de pe Kappelberg și purtați încălțăminte rezistentă pentru traseele de drumeție uneori abrupte, dar pline de satisfacții.",
-            "en": "Enjoy the breathtaking views over the vineyards from Kappelberg, and wear sturdy shoes for the occasionally steep but highly rewarding hiking trails."
+            "en": "Enjoy the breathtaking views over the vineyards from Kappelberg, and wear sturdy shoes for the occasionally steep but highly rewarding hiking trails.",
+            "tr": "Kappelberg’den bağların üzerindeki nefes kesici manzaraların tadını çıkarın; ara sıra dik ama oldukça ödüllendirici yürüyüş yolları için sağlam ayakkabılar giyin."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Spielplatz Maicklerhof",
             "hu": "Maicklerhof Játszótér",
             "ro": "Locul de joacă Maicklerhof",
-            "en": "Maicklerhof Playground"
+            "en": "Maicklerhof Playground",
+            "tr": "Maicklerhof Oyun Alanı"
           },
           "coords": [
             9.277783,
@@ -449,7 +495,8 @@
             "de": "Lassen Sie die Kinder auf dem gut ausgestatteten Spielplatz Maicklerhof toben und bringen Sie ein paar Snacks für ein gemütliches Picknick im Grünen mit.",
             "hu": "Hagyja, hogy a gyerekek a jól felszerelt Maicklerhof játszótéren játsszanak, és hozzon magával néhány rágcsálnivalót egy hangulatos piknikhez a szabadban.",
             "ro": "Lăsați copiii să se joace pe terenul de joacă bine dotat Maicklerhof și aduceți câteva gustări pentru un picnic confortabil în aer liber.",
-            "en": "Let the children play on the well-equipped Maicklerhof playground, and bring along some snacks to enjoy a cozy outdoor picnic in the green surroundings."
+            "en": "Let the children play on the well-equipped Maicklerhof playground, and bring along some snacks to enjoy a cozy outdoor picnic in the green surroundings.",
+            "tr": "Çocukların iyi donanımlı Maicklerhof oyun alanında oynamalarına izin verin; yeşil çevrede rahat bir açık hava pikniği için atıştırmalıklar getirin."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "TobiDu",
             "hu": "TobiDu Játszóház",
             "ro": "TobiDu",
-            "en": "TobiDu"
+            "en": "TobiDu",
+            "tr": "TobiDu"
           },
           "coords": [
             9.262932,
@@ -472,7 +520,8 @@
             "de": "Besuchen Sie das TobiDu für wetterunabhängigen Familienspaß und buchen Sie die Eintrittskarten am besten im Voraus online, um Wartezeiten an der Kasse zu vermeiden.",
             "hu": "Látogasson el a TobiDu-ba, ahol az időjárástól függetlenül élvezheti a családi szórakozást, és a legjobb, ha előre online foglalja le a jegyeket, hogy elkerülje a sorban állást.",
             "ro": "Vizitați TobiDu pentru distracție în familie indiferent de vreme și cel mai bine este să rezervați biletele online în avans pentru a evita cozile.",
-            "en": "Visit TobiDu for weather-independent family fun, and it is best to book your admission tickets online in advance to avoid waiting in line at the entrance."
+            "en": "Visit TobiDu for weather-independent family fun, and it is best to book your admission tickets online in advance to avoid waiting in line at the entrance.",
+            "tr": "Hava şartlarından bağımsız aile eğlencesi için TobiDu’yu ziyaret edin; girişte sıra beklememek için biletlerinizi önceden çevrimiçi almanız en iyisidir."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "F.3 Familien- und Freizeitbad",
             "hu": "F.3 Családi és Szabadidőközpont",
             "ro": "Centrul de Agrement F.3",
-            "en": "F.3 Family and Leisure Pool"
+            "en": "F.3 Family and Leisure Pool",
+            "tr": "F.3 Aile ve Eğlence Havuzu"
           },
           "coords": [
             9.26876,
@@ -495,7 +545,8 @@
             "de": "Entspannen Sie sich in den modernen Pools des F.3 Freizeitbades nach einem langen Tag und denken Sie daran, Ihr eigenes Handtuch mitzubringen, um Leihgebühren zu sparen.",
             "hu": "Pihenjen az F.3 szabadidőközpont modern medencéiben egy hosszú nap után, és ne felejtsen el saját törölközőt hozni, hogy megspórolja a kölcsönzési díjat.",
             "ro": "Relaxați-vă în piscinele moderne ale centrului de agrement F.3 după o zi lungă și nu uitați să vă aduceți propriul prosop pentru a economisi taxele de închiriere.",
-            "en": "Relax in the modern pools of the F.3 leisure center after a long day exploring, and remember to bring your own towel to save on rental fees."
+            "en": "Relax in the modern pools of the F.3 leisure center after a long day exploring, and remember to bring your own towel to save on rental fees.",
+            "tr": "Uzun bir keşif gününün ardından F.3 eğlence merkezinin modern havuzlarında dinlenin; kira ücretinden tasarruf etmek için kendi havlunuzun gelmesini unutmayın."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Starten Sie Ihre Fahrradtour entspannt an der Lutherkirche, bevor Sie das Stadtmuseum besuchen. Die frische Morgenluft und die ruhigen Straßen machen den Auftakt besonders angenehm.\nMittags erwartet Sie die Herausforderung des Kappelbergs. Die Fahrt hinauf in die Weinberge belohnt Sie mit einer herrlichen Aussicht und ist der perfekte Ort für ein Picknick.\nNachmittags radeln Sie gemütlich zum Spielplatz Maicklerhof und zum TobiDu. Diese familienfreundlichen Stopps bieten Abwechslung und Spaß für alle Altersgruppen.\nZum Abschluss der Tour entspannen Sie im F.3 Freizeitbad. Die warmen Becken sind eine Wohltat für die Muskeln nach einem aktiven Tag auf dem Fahrrad rund um Fellbach.",
         "hu": "Kezdje kerékpártúráját lazán a Luther-templomnál, mielőtt meglátogatná a Városi Múzeumot. A friss reggeli levegő és a csendes utcák különösen kellemessé teszik az indulást.\nDélben a Kappelberg kihívása várja. A szőlőhegyekbe vezető út csodálatos kilátással jutalmazza, és tökéletes helyszín egy pihentető piknikhez.\nDélután kényelmesen eltekerhet a Maicklerhof játszótérre és a TobiDu-ba. Ezek a családbarát megállók változatosságot és szórakozást kínálnak minden korosztálynak.\nA túra végén pihenjen az F.3 szabadidőközpontban. A meleg medencék igazi felüdülést jelentenek az izmoknak egy aktív, kerékpározással töltött nap után.",
         "ro": "Începeți turul cu bicicleta la biserica Luther, înainte de a vizita Muzeul Orașului. Aerul proaspăt al dimineții și străzile liniștite fac un început deosebit de plăcut.\nLa amiază, vă așteaptă provocarea Kappelberg. Plimbarea spre podgorii vă răsplătește cu vederi magnifice și este locul perfect pentru un picnic la iarbă verde.\nDupă-amiaza, pedalați spre locul de joacă Maicklerhof și TobiDu. Aceste opriri prietenoase cu familiile oferă varietate și multă distracție pentru toate vârstele.\nLa sfârșitul turului, relaxați-vă în centrul de agrement F.3. Piscinele calde sunt un răsfăț pentru mușchi după o zi activă petrecută pe bicicletă.",
-        "en": "Start your bike tour smoothly at the Lutherkirche before visiting the City Museum. The fresh morning air and quiet streets make for a particularly pleasant beginning.\nAt midday, the challenge of the Kappelberg awaits. The ride up into the vineyards rewards you with magnificent views and is the perfect spot for a scenic picnic.\nIn the afternoon, pedal comfortably to the Maicklerhof playground and TobiDu. These family-friendly stops offer variety and fantastic entertainment for all ages.\nAt the end of the tour, relax in the F.3 leisure center. The warm pools are a real treat for tired muscles after an active day exploring the city on a bicycle."
+        "en": "Start your bike tour smoothly at the Lutherkirche before visiting the City Museum. The fresh morning air and quiet streets make for a particularly pleasant beginning.\nAt midday, the challenge of the Kappelberg awaits. The ride up into the vineyards rewards you with magnificent views and is the perfect spot for a scenic picnic.\nIn the afternoon, pedal comfortably to the Maicklerhof playground and TobiDu. These family-friendly stops offer variety and fantastic entertainment for all ages.\nAt the end of the tour, relax in the F.3 leisure center. The warm pools are a real treat for tired muscles after an active day exploring the city on a bicycle.",
+        "tr": "Bisiklet turunuza Lutherkirche önünde sakin bir başlangıç yapın, ardından Şehir Müzesi’ni ziyaret edin. Taze sabah havası ve sessiz sokaklar özellikle hoş bir başlangıç sağlar.\nÖğle vakti Kappelberg’in meydan okuması sizi bekliyor. Bağlara çıkan yol muhteşem manzaralar sunar ve manzaralı bir piknik için mükemmeldir.\nÖğleden sonra Maicklerhof oyun alanı ve TobiDu’ya rahatça pedal çevirin. Bu aile dostu duraklar çeşitlilik ve her yaş için eğlence sunar.\nTurun sonunda F.3 eğlence merkezinde dinlenin. Sıcak havuzlar, bisikletle aktif geçen bir günün ardından yorgun kaslar için gerçek bir şifadır."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Eine Radtour im Regen erfordert gute Kleidung. Starten Sie an der Lutherkirche und nutzen Sie asphaltierte Wege zum Museum. Der Anstieg zum Kappelberg kann rutschig sein; fahren Sie vorsichtig. Nachmittags bietet das TobiDu trockenen Spaß für Kinder, bevor Sie sich im F.3-Bad wieder aufwärmen und die nasse Kleidung vergessen.",
             "hu": "Az esős bringázáshoz vízálló ruházat kell. Kezdjen a templomnál, és használja az aszfaltozott utakat a múzeumig. A Kappelberg emelkedője csúszós lehet; óvatosan hajtson lefelé. Délután a TobiDu nyújt száraz szórakozást, mielőtt az F.3 fürdőben végleg felmelegedne a forró szaunában.",
             "ro": "O tură cu bicicleta prin ploaie necesită haine impermeabile. Începeți la biserică și folosiți drumurile asfaltate. Urcarea pe Kappelberg poate fi alunecoasă; conduceți cu prudență. După-amiaza, TobiDu oferă distracție uscată, înainte de a vă încălzi definitiv la F.3 în apa termală.",
-            "en": "A bike tour in the rain requires waterproof clothing. Start at the church and use paved paths to the museum. The climb to Kappelberg can be slippery; ride carefully. In the afternoon, TobiDu offers dry fun for kids before you finally warm up at the F.3 pool and forget the wet weather."
+            "en": "A bike tour in the rain requires waterproof clothing. Start at the church and use paved paths to the museum. The climb to Kappelberg can be slippery; ride carefully. In the afternoon, TobiDu offers dry fun for kids before you finally warm up at the F.3 pool and forget the wet weather.",
+            "tr": "Yağmurlu havada bisiklet turu su geçirmez giysi gerektirir. Kiliseden başlayın ve müzeye kadar asfalt yollardan gidin. Kappelberg’e tırmanış kaygan olabilir; dikkatli sürün. Öğleden sonra TobiDu çocuklar için kuru eğlence sunar; sonunda F.3 havuzunda ısının ve ıslak havayı unutun."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Lutherkirche",
                 "hu": "Luther-templom",
                 "ro": "Biserica Luther",
-                "en": "Lutherkirche"
+                "en": "Lutherkirche",
+                "tr": "Lutherkirche"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Vordach für einen trockenen Check Ihrer Ausrüstung; bei Regen sind die Wege zur Kirche oft pfützig. Prüfen Sie Ihre Bremsen vor dem Start.",
                 "hu": "Használja az előtetőt a felszerelés ellenőrzéséhez; esőben a templom körüli utak tócsásak lehetnek. Indulás előtt ellenőrizze a fékeket.",
                 "ro": "Folosiți copertina pentru o verificare a echipamentului; pe ploaie, drumurile din jur pot avea bălți. Verificați frânele înainte de a porni.",
-                "en": "Use the canopy to check your equipment; in the rain, the paths around the church can be puddly. Check your brakes before setting off."
+                "en": "Use the canopy to check your equipment; in the rain, the paths around the church can be puddly. Check your brakes before setting off.",
+                "tr": "Gölgeli alanı ekipmanınızı kontrol etmek için kullanın; yağmurda kilise çevresindeki yollar su birikintili olabilir. Yola çıkmadan önce frenlerinizi kontrol edin."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Stadtmuseum Fellbach",
                 "hu": "Fellbachi Városi Múzeum",
                 "ro": "Muzeul Orașului Fellbach",
-                "en": "Fellbach City Museum"
+                "en": "Fellbach City Museum",
+                "tr": "Fellbach Şehir Müzesi"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad nah am Eingang und nutzen Sie die Zeit drinnen, um Ihre Kleidung etwas trocknen zu lassen. Reflektoren sind bei Regen wichtig.",
                 "hu": "Parkoljon a bejárat közelében, és használja ki a benti időt a ruházata megszárítására. Esőben a fényvisszaverők életmentőek lehetnek.",
                 "ro": "Parcați aproape de intrare și folosiți timpul din interior pentru a vă usca hainele. Reflectoarele sunt esențiale pe timp de ploaie.",
-                "en": "Park close to the entrance and use the time inside to let your clothes dry. Reflectors are very important when riding in the rain."
+                "en": "Park close to the entrance and use the time inside to let your clothes dry. Reflectors are very important when riding in the rain.",
+                "tr": "Girişe yakın park edin ve içeride kıyafetlerinizin kurumasına zaman verin. Yağmurda sürüş yaparken reflektörler çok önemlidir."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Kappelberg",
                 "hu": "Kappelberg",
                 "ro": "Kappelberg",
-                "en": "Kappelberg"
+                "en": "Kappelberg",
+                "tr": "Kappelberg"
               },
               "tip_5lang": {
                 "de": "Der Ausblick ist auch wolkenverhangen mystisch; achten Sie bei der Abfahrt auf nasses Laub und rutschige Kurven. Fahren Sie langsam und vorausschauend.",
                 "hu": "A kilátás felhős időben is misztikus; a lejtőn ügyeljen a nedves levelekre és a csúszós kanyarokra. Hajtson lassan és nézzen messze előre.",
                 "ro": "Vederea este mistică chiar și cu nori; la coborâre, aveți grijă la frunzele ude și curbele alunecoase. Conduceți încet și cu anticipare.",
-                "en": "The view is mystical even when cloudy; watch out for wet leaves and slippery curves on the descent. Ride slowly and look far ahead."
+                "en": "The view is mystical even when cloudy; watch out for wet leaves and slippery curves on the descent. Ride slowly and look far ahead.",
+                "tr": "Bulutlu havada bile manzara mistik görünür; inişte ıslak yapraklara ve kaygan virajlara dikkat edin. Yavaş sürün ve ileriyi izleyin."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Spielplatz Maicklerhof",
                 "hu": "Maicklerhof Játszótér",
                 "ro": "Locul de joacă Maicklerhof",
-                "en": "Maicklerhof Playground"
+                "en": "Maicklerhof Playground",
+                "tr": "Maicklerhof Oyun Alanı"
               },
               "tip_5lang": {
                 "de": "Bei Regen sind die Geräte nass; suchen Sie unter den Bäumen Schutz oder planen Sie nur einen kurzen Stopp. Ein Handtuch zum Trocknen der Sitze hilft.",
                 "hu": "Esőben az eszközök nedvesek; keressen menedéket a fák alatt, vagy csak röviden álljon meg. Egy törölköző jól jöhet az ülések letörléséhez.",
                 "ro": "Pe ploaie, aparatele sunt ude; căutați adăpost sub copaci sau faceți doar o scurtă oprire. Un prosop pentru ștersul șeii este util.",
-                "en": "In the rain, the equipment is wet; seek shelter under the trees or just stop briefly. A towel to dry the bike seat is very helpful."
+                "en": "In the rain, the equipment is wet; seek shelter under the trees or just stop briefly. A towel to dry the bike seat is very helpful.",
+                "tr": "Yağmurda oyun ekipmanı ıslaktır; ağaçların altına sığınıp kısa bir mola verin. Bisiklet selemesini kurulamak için bir havlu çok faydalıdır."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "TobiDu",
                 "hu": "TobiDu Játszóház",
                 "ro": "TobiDu",
-                "en": "TobiDu"
+                "en": "TobiDu",
+                "tr": "TobiDu"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort, um dem Regen auf zwei Rädern zu entkommen; drinnen können Kinder trocken toben. Sichern Sie Ihr Rad an einem festen Gegenstand.",
                 "hu": "Tökéletes hely, hogy elmeneküljön a bringás eső elől; odabent a gyerekek szárazon tombolhatnak. Zárja le a biciklit egy fix tárgyhoz.",
                 "ro": "Locul perfect pentru a scăpa de ploaie; în interior, copiii se pot juca uscați. Asigurați-vă bicicleta de un obiect fix afară.",
-                "en": "The perfect place to escape the rain; inside, children can romp around dry. Secure your bike to a fixed object outside."
+                "en": "The perfect place to escape the rain; inside, children can romp around dry. Secure your bike to a fixed object outside.",
+                "tr": "Yağmurdan kaçmak için mükemmel bir yer; içeride çocuklar kuru bir şekilde oyun oynayabilir. Dışarıda bisikletinizi sabit bir nesneye bağlayın."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "F.3 Familien- und Freizeitbad",
                 "hu": "F.3 Családi és Szabadidőközpont",
                 "ro": "Centrul de Agrement F.3",
-                "en": "F.3 Family and Leisure Pool"
+                "en": "F.3 Family and Leisure Pool",
+                "tr": "F.3 Aile ve Eğlence Havuzu"
               },
               "tip_5lang": {
                 "de": "Sichern Sie Ihr Rad gut und springen Sie ins warme Wasser; die Sauna ist die beste Belohnung. Denken Sie an Licht für den Rückweg im Regen.",
                 "hu": "Zárja le jól a biciklit, és ugorjon a meleg vízbe; a szauna a legjobb jutalom. Ne feledje a világítást az esős hazatéréshez.",
                 "ro": "Asigurați bine bicicleta și săriți în apa caldă; sauna este cea mai bună recompensă. Nu uitați luminile pentru drumul de întoarcere.",
-                "en": "Secure your bike well and jump into the warm water; the sauna is the best reward. Don't forget lights for the rainy ride home."
+                "en": "Secure your bike well and jump into the warm water; the sauna is the best reward. Don't forget lights for the rainy ride home.",
+                "tr": "Bisikletinizi iyi sabitleyin ve sıcacık suya atlayın; sauna en iyi ödüldür. Yağmurlu dönüş için ışıklarını unutmayın."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Radfahren im Winter braucht warme Handschuhe und Licht. Die Tour führt von der Kirche zum Museum, wo es angenehm warm ist. Auf dem Kappelberg weht ein eisiger Wind, aber die klare Luft ist herrlich. Besuchen Sie das TobiDu, um sich zwischendurch aufzuwärmen. Denken Sie an den frühen Sonnenuntergang um 17 Uhr auf dem Weg zum entspannenden F.3-Bad.",
             "hu": "A téli kerékpározáshoz meleg kesztyű és jó világítás kell. A túra a templomtól a múzeumig tart, ahol kellemes meleg várja. A Kappelbergen jeges szél fújhat, de a tiszta levegő fenséges. Melegedjen fel a TobiDu-ban útközben. Gondoljon a korai sötétedésre délután 5-kor az F.3 felé menet.",
             "ro": "Mersul cu bicicleta iarna necesită mănuși calde și lumini bune. Turul duce de la biserică la muzeu, unde este plăcut de cald. Pe Kappelberg vântul poate fi tăios, dar aerul e curat. Încălziți-vă la TobiDu pe traseu. Rețineți că se întunecă la ora 17 în drum spre baia F.3.",
-            "en": "Cycling in winter requires warm gloves and good lights. The tour goes from the church to the museum, where it's pleasantly warm. On Kappelberg, the wind can be biting, but the air is clear. Warm up at TobiDu along the way. Keep the early sunset at 5 PM in mind while heading to the relaxing F.3 pool."
+            "en": "Cycling in winter requires warm gloves and good lights. The tour goes from the church to the museum, where it's pleasantly warm. On Kappelberg, the wind can be biting, but the air is clear. Warm up at TobiDu along the way. Keep the early sunset at 5 PM in mind while heading to the relaxing F.3 pool.",
+            "tr": "Kışın bisiklete binmek sıcak eldiven ve iyi ışıklar gerektirir. Tur kiliseden müzeye gider; orası hoşça sıcaktır. Kappelberg’de rüzgâr keskin olabilir ama hava temizdir. Yol boyunca TobiDu’da ısının. Saat 17:00’de erken gün batımını göz önünde bulundurarak rahatlatıcı F.3 havuzuna yönelin."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Lutherkirche",
                 "hu": "Luther-templom",
                 "ro": "Biserica Luther",
-                "en": "Lutherkirche"
+                "en": "Lutherkirche",
+                "tr": "Lutherkirche"
               },
               "tip_5lang": {
                 "de": "Achsen Sie beim Abstellen des Rades auf vereiste Flächen; das Kircheninnere bietet eine windgeschützte Pause. Wärmen Sie Ihre Hände kurz auf.",
                 "hu": "A bicikli leállításakor ügyeljen a jeges foltokra; a templombelső szélvédett helyet kínál. Melegítse fel egy kicsit a kezeit odabent.",
                 "ro": "Aveți grijă la gheață când lăsați bicicleta; interiorul bisericii oferă o pauză ferită de vânt. Încălziți-vă puțin mâinile înăuntru.",
-                "en": "Watch out for icy patches when parking; the church interior offers a wind-sheltered break. Take a moment to warm your hands inside."
+                "en": "Watch out for icy patches when parking; the church interior offers a wind-sheltered break. Take a moment to warm your hands inside.",
+                "tr": "Park ederken donlu bölgeler için dikkatli olun; kilisenin içi rüzgârdan korunmalı bir mola sunar. İçeride ellerinizi ısıtmak için kısa bir an ayırın."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Stadtmuseum Fellbach",
                 "hu": "Fellbachi Városi Múzeum",
                 "ro": "Muzeul Orașului Fellbach",
-                "en": "Fellbach City Museum"
+                "en": "Fellbach City Museum",
+                "tr": "Fellbach Şehir Müzesi"
               },
               "tip_5lang": {
                 "de": "Ein idealer Stopp, um eingefrorene Glieder aufzuwärmen; nutzen Sie die Garderobe für Helm und Handschuhe. Nehmen Sie sich Zeit für die warme Schau.",
                 "hu": "Ideális megálló a lefagyott végtagok felmelegítésére; használja a ruhatárat a sisaknak és kesztyűnek. Szánjon időt a fűtött kiállításra.",
                 "ro": "O oprire ideală pentru a vă încălzi; folosiți garderoba pentru cască și mănuși. Alocați timp pentru expoziția bine încălzită.",
-                "en": "An ideal stop to warm up frozen limbs; use the cloakroom for your helmet and gloves. Take your time in the heated exhibition."
+                "en": "An ideal stop to warm up frozen limbs; use the cloakroom for your helmet and gloves. Take your time in the heated exhibition.",
+                "tr": "Donmuş uzuvları ısıtmak için ideal bir duraktır; kask ve eldivenlerinizi emanet dolabına bırakın. Isıtmalı sergilerde sakin sakin gezin."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Kappelberg",
                 "hu": "Kappelberg",
                 "ro": "Kappelberg",
-                "en": "Kappelberg"
+                "en": "Kappelberg",
+                "tr": "Kappelberg"
               },
               "tip_5lang": {
                 "de": "Die Fernsicht ist im Winter oft klarer; ziehen Sie sich für den exponierten Hügel winddicht an. Achten Sie auf Reifglätte auf den Fahrwegen.",
                 "hu": "A kilátás télen gyakran tisztább; vegyen fel szélálló ruhát a nyitott dombtetőn. Ügyeljen a zúzmarás, csúszós utakra tekerés közben.",
                 "ro": "Vizibilitatea este adesea mai clară iarna; purtați haine rezistente la vânt pe deal. Atenție la drumurile acoperite de chiciură.",
-                "en": "The view is often clearer in winter; wear windproof clothing on the exposed hill. Watch out for frosty, slippery roads while riding."
+                "en": "The view is often clearer in winter; wear windproof clothing on the exposed hill. Watch out for frosty, slippery roads while riding.",
+                "tr": "Kışın manzara genellikle daha nettir; açık tepede rüzgâra karşı rüzgârlık giyin. Sürüş sırasında donlu, kaygan yollara dikkat edin."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Spielplatz Maicklerhof",
                 "hu": "Maicklerhof Játszótér",
                 "ro": "Locul de joacă Maicklerhof",
-                "en": "Maicklerhof Playground"
+                "en": "Maicklerhof Playground",
+                "tr": "Maicklerhof Oyun Alanı"
               },
               "tip_5lang": {
                 "de": "Metallgerüste können extrem kalt sein; ein kurzer Aufenthalt reicht, bevor die Fahrt weitergeht. Tragen Sie dicke Handschuhe beim Festhalten.",
                 "hu": "A fémvázak rendkívül hidegek lehetnek; egy rövid látogatás is elég a téli levegőben. Viseljen vastag kesztyűt a játékoknál.",
                 "ro": "Cadrele metalice pot fi extrem de reci; o vizită scurtă e suficientă în aerul rece. Purtați mănuși groase când atingeți aparatele.",
-                "en": "Metal frames can be extremely cold; a short visit is enough in the winter air. Wear thick gloves when touching the playground equipment."
+                "en": "Metal frames can be extremely cold; a short visit is enough in the winter air. Wear thick gloves when touching the playground equipment.",
+                "tr": "Metal iskeletler çok soğuk olabilir; kış havasında kısa bir ziyaret yeterlidir. Oyun ekipmanına dokunurken kalın eldiven giyin."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "TobiDu",
                 "hu": "TobiDu Játszóház",
                 "ro": "TobiDu",
-                "en": "TobiDu"
+                "en": "TobiDu",
+                "tr": "TobiDu"
               },
               "tip_5lang": {
                 "de": "Hier können Kinder im Warmen toben; perfekt, wenn es draußen zu kalt für langes Radeln wird. Nutzen Sie die Pause für ein warmes Getränk.",
                 "hu": "Itt a gyerekek a melegben tombolhatnak; tökéletes, ha odakint túl hideg van a bringázáshoz. Használja ki a szünetet egy meleg italra.",
                 "ro": "Aici copiii se pot juca în căldură; perfect când afară e prea frig pentru bicicletă. Savurați o băutură caldă în timpul pauzei.",
-                "en": "Here kids can play in the warmth; perfect when it's too cold for long cycling sessions. Use the break to enjoy a warm drink."
+                "en": "Here kids can play in the warmth; perfect when it's too cold for long cycling sessions. Use the break to enjoy a warm drink.",
+                "tr": "Çocuklar burada sıcacık oynayabilir; uzun bisiklet seansları için çok soğuk olduğunda mükemmeldir. Molada sıcak bir içecek alın."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "F.3 Familien- und Freizeitbad",
                 "hu": "F.3 Családi és Szabadidőközpont",
                 "ro": "Centrul de Agrement F.3",
-                "en": "F.3 Family and Leisure Pool"
+                "en": "F.3 Family and Leisure Pool",
+                "tr": "F.3 Aile ve Eğlence Havuzu"
               },
               "tip_5lang": {
                 "de": "Nach der kalten Fahrt ist das Thermalbad ein Segen; achten Sie auf gute Beleuchtung für den Rückweg im Dunkeln. Ein Schal schützt danach den Hals.",
                 "hu": "A hideg tekerés után a termálfürdő valóságos áldás; ügyeljen a világításra a sötétben való hazatéréshez. Egy sál jól jön majd kifelé.",
                 "ro": "După tura rece, baia termală e o binecuvântare; asigurați iluminarea pentru drumul pe întuneric. Un fular vă va proteja la ieșire.",
-                "en": "After the cold ride, the thermal bath is a blessing; ensure good lighting for the dark ride home. A scarf will protect you afterwards."
+                "en": "After the cold ride, the thermal bath is a blessing; ensure good lighting for the dark ride home. A scarf will protect you afterwards.",
+                "tr": "Soğuk sürüşün ardından termal havuz bir nimettir; karanlık dönüş için iyi aydınlatma sağlayın. Ayrılırken bir atkı korur."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Max-Eyth-See",
             "hu": "Max-Eyth-tó",
             "ro": "Lacul Max-Eyth",
-            "en": "Max-Eyth-See"
+            "en": "Max-Eyth-See",
+            "tr": "Max-Eyth-Gölü"
           },
           "coords": [
             9.214877,
@@ -724,7 +803,8 @@
             "de": "Spazieren Sie gemütlich um den malerischen Max-Eyth-See, beobachten Sie die zahlreichen Wasservögel und mieten Sie ein Tretboot für eine entspannte Zeit auf dem Wasser.",
             "hu": "Tegyen egy kellemes sétát a festői Max-Eyth-See körül, figyelje meg a számos vízimadarat, és béreljen vízibiciklit egy pihentető vízi programhoz.",
             "ro": "Faceți o plimbare pe îndelete în jurul pitorescului lac Max-Eyth, observați numeroasele păsări de apă și închiriați o hidrobicicletă pentru un timp relaxant pe apă.",
-            "en": "Take a leisurely stroll around the picturesque Max-Eyth-See, observe the numerous water birds, and rent a paddleboat for a relaxing time on the water."
+            "en": "Take a leisurely stroll around the picturesque Max-Eyth-See, observe the numerous water birds, and rent a paddleboat for a relaxing time on the water.",
+            "tr": "Pitoresk Max-Eyth-Gölü çevresinde keyifli bir yürüyüş yapın, çok sayıda su kuşunu gözlemleyin ve su üzerinde dinlendirici bir zaman için pedalbot kiralayın."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Stadtmuseum Fellbach",
             "hu": "Fellbachi Városi Múzeum",
             "ro": "Muzeul Orașului Fellbach",
-            "en": "Fellbach City Museum"
+            "en": "Fellbach City Museum",
+            "tr": "Fellbach Şehir Müzesi"
           },
           "coords": [
             9.27548,
@@ -747,7 +828,8 @@
             "de": "Tauchen Sie im Stadtmuseum tief in die reiche Geschichte Fellbachs ein und nutzen Sie die informativen Audioguides, um keine der faszinierenden Ausstellungen zu verpassen.",
             "hu": "Merüljön el Fellbach gazdag történelmében a Városi Múzeumban, és használja az informatív audioguide-okat, hogy egyetlen lenyűgöző kiállítást se hagyjon ki.",
             "ro": "Cufundați-vă în istoria bogată a orașului Fellbach la Muzeul Orașului și folosiți ghidurile audio pentru a nu rata nicio expoziție fascinantă.",
-            "en": "Delve deep into the rich history of Fellbach at the City Museum and make use of the informative audio guides to ensure you do not miss any fascinating exhibits."
+            "en": "Delve deep into the rich history of Fellbach at the City Museum and make use of the informative audio guides to ensure you do not miss any fascinating exhibits.",
+            "tr": "Fellbach’ın zengin tarihini Şehir Müzesi’nde derinlemesine keşfedin ve hiçbir ilgi çekici sergiyi kaçırmamak için bilgilendirici sesli rehberleri kullanın."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Kappelberg",
             "hu": "Kappelberg",
             "ro": "Kappelberg",
-            "en": "Kappelberg"
+            "en": "Kappelberg",
+            "tr": "Kappelberg"
           },
           "coords": [
             9.28417,
@@ -770,7 +853,8 @@
             "de": "Genießen Sie die atemberaubende Aussicht über die Weinberge vom Kappelberg aus und tragen Sie festes Schuhwerk für die teils steilen, aber lohnenden Wanderwege.",
             "hu": "Élvezze a lélegzetelállító kilátást a szőlőültetvényekre a Kappelbergről, és viseljen masszív cipőt a helyenként meredek, de nagyon is megéri túraútvonalakhoz.",
             "ro": "Bucurați-vă de vederea uluitoare peste podgorii de pe Kappelberg și purtați încălțăminte rezistentă pentru traseele de drumeție uneori abrupte, dar pline de satisfacții.",
-            "en": "Enjoy the breathtaking views over the vineyards from Kappelberg, and wear sturdy shoes for the occasionally steep but highly rewarding hiking trails."
+            "en": "Enjoy the breathtaking views over the vineyards from Kappelberg, and wear sturdy shoes for the occasionally steep but highly rewarding hiking trails.",
+            "tr": "Kappelberg’den bağların üzerindeki nefes kesici manzaraların tadını çıkarın; ara sıra dik ama oldukça ödüllendirici yürüyüş yolları için sağlam ayakkabılar giyin."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Riesenbachklinge",
             "hu": "Riesenbachklinge",
             "ro": "Riesenbachklinge",
-            "en": "Riesenbachklinge"
+            "en": "Riesenbachklinge",
+            "tr": "Riesenbachklinge"
           },
           "coords": [
             9.280608,
@@ -793,7 +878,8 @@
             "de": "Erforschen Sie die unberührte Natur der Riesenbachklinge auf einem Spaziergang und achten Sie besonders nach Regenfällen auf rutschige Stellen auf den schmalen Pfaden.",
             "hu": "Fedezze fel a Riesenbachklinge érintetlen természetét egy séta során, és esőzések után különösen ügyeljen a keskeny ösvények csúszós részeire.",
             "ro": "Explorați natura neatinsă a Riesenbachklinge în timpul unei plimbări și acordați o atenție deosebită zonelor alunecoase de pe potecile înguste după ploaie.",
-            "en": "Explore the untouched nature of the Riesenbachklinge on a peaceful walk, and be particularly careful of slippery spots on the narrow paths after it has rained."
+            "en": "Explore the untouched nature of the Riesenbachklinge on a peaceful walk, and be particularly careful of slippery spots on the narrow paths after it has rained.",
+            "tr": "Riesenbachklinge’nin el değmemiş doğasını sakin bir yürüyüşle keşfedin; yağmur sonrası dar patikalarda kaygan noktalara özellikle dikkat edin."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Heimatgeschichtliche Ausstellung - Ortsmuseum Untertürkheim/Rotenberg",
             "hu": "Helytörténeti Múzeum Untertürkheim/Rotenberg",
             "ro": "Muzeul de Istorie Locală Untertürkheim/Rotenberg",
-            "en": "Local History Museum Untertürkheim/Rotenberg"
+            "en": "Local History Museum Untertürkheim/Rotenberg",
+            "tr": "Untertürkheim/Rotenberg Yerel Tarih Müzesi"
           },
           "coords": [
             9.27062,
@@ -816,7 +903,8 @@
             "de": "Entdecken Sie im Ortsmuseum die faszinierende Heimatgeschichte der Region und fragen Sie das ehrenamtliche Personal nach den spannenden lokalen Anekdoten.",
             "hu": "Fedezze fel a régió lenyűgöző helytörténetét a helyi múzeumban, és kérdezze meg az önkéntes személyzetet az izgalmas helyi anekdotákról.",
             "ro": "Descoperiți istoria locală fascinantă a regiunii în muzeul satului și întrebați personalul voluntar despre cele mai captivante anecdote locale.",
-            "en": "Discover the fascinating local history of the region at the village museum, and be sure to ask the volunteer staff about the most engaging local anecdotes."
+            "en": "Discover the fascinating local history of the region at the village museum, and be sure to ask the volunteer staff about the most engaging local anecdotes.",
+            "tr": "Bölgenin ilgi çekici yerel tarihini köy müzesinde keşfedin ve en ilginç yerel anekdotları gönüllü personele sormayı unutmayın."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Kleine Tieranlage der Aquarien und Vogelfreunde Fellbach",
             "hu": "Kis Állatkert",
             "ro": "Mica Grădină Zoologică",
-            "en": "Small Animal Enclosure"
+            "en": "Small Animal Enclosure",
+            "tr": "Küçük Hayvan Barınağı"
           },
           "coords": [
             9.306101,
@@ -839,7 +928,8 @@
             "de": "Beobachten Sie die vielfältige Vogelwelt in der Kleinen Tieranlage, die besonders für Kinder spannend ist, und bringen Sie etwas Kleingeld für eventuelle Spendenboxen mit.",
             "hu": "Figyelje meg a változatos madárvilágot a Kis Állatkertben, amely különösen izgalmas a gyerekek számára, és hozzon magával egy kis aprópénzt az adománygyűjtő dobozokhoz.",
             "ro": "Observați viața diversă a păsărilor din Mica Grădină Zoologică, care este deosebit de interesantă pentru copii, și aduceți niște mărunțiș pentru cutiile de donații.",
-            "en": "Observe the diverse birdlife in the Small Animal Enclosure, which is especially exciting for children, and bring some small change for the donation boxes."
+            "en": "Observe the diverse birdlife in the Small Animal Enclosure, which is especially exciting for children, and bring some small change for the donation boxes.",
+            "tr": "Küçük Hayvan Barınağı'ndaki çeşitli kuşları gözlemleyin; çocuklar için özellikle heyecan vericidir ve bağış kutuları için birkaç bozukluk bulundurun."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Starten Sie den Tag mit einem Ausflug zum malerischen Max-Eyth-See. Die friedliche Morgenstimmung am Wasser bietet einen wunderbaren Kontrast zur geschäftigen Stadt.\nFahren Sie mittags zurück nach Fellbach zum Stadtmuseum und weiter zum Kappelberg. Die Flexibilität des Autos ermöglicht es, Geschichte und Natur nahtlos zu verbinden.\nDer Nachmittag führt Sie in die Riesenbachklinge und zum Heimatmuseum in Untertürkheim. Diese versteckten Juwelen sind mit dem Auto bequem und ohne Stress erreichbar.\nBeenden Sie die Fahrt bei der Kleinen Tieranlage. Hier können Sie die Abenddämmerung bei den Tieren genießen, bevor Sie komfortabel den Heimweg antreten.",
         "hu": "Kezdje a napot egy kirándulással a festői Max-Eyth-See-hez. A békés reggeli hangulat a vízparton csodálatos kontrasztot nyújt a nyüzsgő városi élettel.\nDélben utazzon vissza a Városi Múzeumhoz, majd a Kappelberghez. Az autó rugalmassága lehetővé teszi, hogy zökkenőmentesen kösse össze a történelmet a természettel.\nA délután a Riesenbachklinge-hez és a helytörténeti múzeumhoz vezet. Ezek a rejtett gyöngyszemek kényelmesen és stresszmentesen elérhetők gépjárművel.\nZárja az utat a Kis Állatkertnél. Itt élvezheti a szürkületet az állatok között, mielőtt kényelmesen hazaindulna a hosszú és tartalmas nap után.",
         "ro": "Începeți ziua cu o excursie la pitorescul lac Max-Eyth. Atmosfera liniștită a dimineții pe apă oferă un contrast minunat cu agitația orașului central.\nConduceți înapoi la Fellbach la Muzeul Orașului și apoi la Kappelberg. Flexibilitatea mașinii vă permite să combinați perfect istoria cu minunata natură locală.\nDupă-amiaza vă duce la Riesenbachklinge și la muzeul de istorie din Untertürkheim. Aceste bijuterii ascunse sunt ușor și confortabil de accesat folosind mașina.\nÎncheiați excursia la Mica Grădină Zoologică. Aici vă puteți bucura de amurg printre animale, înainte de a vă îndrepta confortabil spre casă după o zi plină.",
-        "en": "Start the day with a trip to the picturesque Max-Eyth-See. The peaceful morning atmosphere by the water provides a wonderful contrast to the bustling city center.\nDrive back to Fellbach at midday for the City Museum and the Kappelberg. The flexibility of the car allows you to seamlessly combine history and beautiful nature.\nThe afternoon takes you to the Riesenbachklinge and the local history museum. These hidden gems are easily and stress-free to reach when traveling by car.\nEnd the trip at the Small Animal Enclosure. Here you can enjoy the dusk among the animals before comfortably heading home after a long and rewarding day."
+        "en": "Start the day with a trip to the picturesque Max-Eyth-See. The peaceful morning atmosphere by the water provides a wonderful contrast to the bustling city center.\nDrive back to Fellbach at midday for the City Museum and the Kappelberg. The flexibility of the car allows you to seamlessly combine history and beautiful nature.\nThe afternoon takes you to the Riesenbachklinge and the local history museum. These hidden gems are easily and stress-free to reach when traveling by car.\nEnd the trip at the Small Animal Enclosure. Here you can enjoy the dusk among the animals before comfortably heading home after a long and rewarding day.",
+        "tr": "Güne manzaralı Max-Eyth-See gezisiyle başlayın. Suyun kenarındaki huzurlu sabah atmosferi, hareketli şehir merkezine harika bir tezat sunar.\nÖğle saatlerinde Fellbach'a dönün; Şehir Müzesi ve Kappelberg'i gezin. Arabanın esnekliği tarihle güzel doğayı sorunsuzca birleştirmenizi sağlar.\nÖğleden sonra sizi Riesenbachklinge ve yerel tarih müzesi bekliyor. Bu saklı güzelliklere araba ile kolay ve stressiz ulaşılır.\nGezinin sonunu Küçük Hayvan Barınağı'nda yapın. Burada alacakaranlıkta hayvanların arasında keyif yapabilir ve uzun, verimli bir günün ardından rahatça eve dönebilirsiniz."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Mit dem Auto ist Regen kein Problem. Starten Sie am Max-Eyth-See und genießen Sie den Blick aus dem trockenen Fahrzeug. Das Stadtmuseum bietet Kultur ohne nass zu werden. Der Kappelberg wirkt im Nebel fast mystisch. Nach dem Ortsmuseum endet der Tag sicher und trocken bei den Tieren oder direkt im gemütlichen Wagen auf dem Heimweg.",
             "hu": "Autóval az eső nem akadály. Kezdjen a Max-Eyth-tónál, élvezze a kilátást a száraz járműből. A városi múzeum kulturális élményt nyújt ázás nélkül. A Kappelberg ködben szinte misztikus látvány. A helytörténeti múzeum után a nap biztonságban és szárazon ér véget az állatkertnél vagy a kényelmes kocsiban.",
             "ro": "Cu mașina, ploaia nu e un obstacol. Începeți la Lacul Max-Eyth; admirați vederea din vehiculul uscat. Muzeul oferă cultură fără să vă udați. Kappelberg pare mistic în ceață. După muzeul local, ziua se încheie sigur și uscat la mini-zoo sau direct în mașina confortabilă spre casă.",
-            "en": "By car, rain is no obstacle. Start at Max-Eyth-See and enjoy the view from the dry vehicle. The city museum offers culture without getting wet. Kappelberg looks almost mystical in the fog. After the local museum, the day ends safely and dryly at the small zoo or in your cozy car on the way home."
+            "en": "By car, rain is no obstacle. Start at Max-Eyth-See and enjoy the view from the dry vehicle. The city museum offers culture without getting wet. Kappelberg looks almost mystical in the fog. After the local museum, the day ends safely and dryly at the small zoo or in your cozy car on the way home.",
+            "tr": "Arabayla yağmur engel değildir. Max-Eyth-See'de başlayın ve kuru aracınızdan manzaranın tadını çıkarın. Şehir müzesi ıslanmadan kültür sunar. Kappelberg sisli havada neredeyse mistik görünür. Yerel müzeyi ziyaret ettikten sonra gün, küçük hayvanat bahçesinde veya konforlu arabanızda eve dönerken güvenli ve kuru bir şekilde sona erer."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Max-Eyth-See",
                 "hu": "Max-Eyth-tó",
                 "ro": "Lacul Max-Eyth",
-                "en": "Max-Eyth-See"
+                "en": "Max-Eyth-See",
+                "tr": "Max-Eyth-See"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den See vom Uferparkplatz aus; bei starkem Regen ist die Sicht aus dem Auto am gemütlichsten. Achten Sie auf Pfützen beim Aussteigen.",
                 "hu": "Élvezze a tó látványát a parti parkolóból; erős esőben az autóból a legkényelmesebb a nézelődés. Vigyázzon a tócsákra kiszálláskor.",
                 "ro": "Admirați lacul din parcarea de pe mal; pe ploaie torențială, vederea din mașină e cea mai plăcută. Atenție la bălți când coborâți.",
-                "en": "Enjoy the lake view from the shore parking; in heavy rain, watching from the car is most comfortable. Watch out for puddles when exiting."
+                "en": "Enjoy the lake view from the shore parking; in heavy rain, watching from the car is most comfortable. Watch out for puddles when exiting.",
+                "tr": "Kıyı otoparkından göl manzarasının tadını çıkarın; şiddetli yağmurda arabadan izlemek en konforlusudur. İnerken su birikintilerine dikkat edin."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Stadtmuseum Fellbach",
                 "hu": "Fellbachi Városi Múzeum",
                 "ro": "Muzeul Orașului Fellbach",
-                "en": "Fellbach City Museum"
+                "en": "Fellbach City Museum",
+                "tr": "Fellbach Şehir Müzesi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie nahen Parkplätze, um schnell ins Trockene zu kommen; das Museum bietet ein tolles Schlechtwetterprogramm. Ein Schirm im Auto ist Pflicht.",
                 "hu": "Használja a közeli parkolókat, hogy gyorsan száraz helyre érjen; a múzeum remek program rossz időben is. Legyen esernyő az autóban.",
                 "ro": "Folosiți parcările apropiate pentru a ajunge rapid la adăpost; muzeul e o opțiune excelentă pe ploaie. Umbrela în mașină e obligatorie.",
-                "en": "Use nearby parking to get inside quickly; the museum is a great bad-weather option. Always keep an umbrella in the car."
+                "en": "Use nearby parking to get inside quickly; the museum is a great bad-weather option. Always keep an umbrella in the car.",
+                "tr": "Hızlı içeri girmek için yakındaki otoparkları kullanın; müze kötü hava için harika bir seçenektir. Arabada her zaman bir şemsiye bulundurun."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Kappelberg",
                 "hu": "Kappelberg",
                 "ro": "Kappelberg",
-                "en": "Kappelberg"
+                "en": "Kappelberg",
+                "tr": "Kappelberg"
               },
               "tip_5lang": {
                 "de": "Fahren Sie bis zum Aussichtspunkt hoch; so können Sie die Weinberge beobachten, ohne durchnässt zu werden. Die Straßen können bei Nässe glatt sein.",
                 "hu": "Hajtson fel egészen a kilátópontig; így megfigyelheti a szőlőültetvényeket anélkül, hogy bőrig ázna. Az utak vizesen csúszósak lehetnek.",
                 "ro": "Conduceți până la punctul de belvedere; astfel vedeți podgoriile fără să vă udați. Atenție, drumurile pot fi alunecoase pe ploaie.",
-                "en": "Drive up to the viewpoint; this way you can see the vineyards without getting soaked. Be careful, roads can be slippery when wet."
+                "en": "Drive up to the viewpoint; this way you can see the vineyards without getting soaked. Be careful, roads can be slippery when wet.",
+                "tr": "Manzara noktasına araçla çıkın; böylece bağları ıslanmadan görebilirsiniz. Dikkatli olun, yağışta yollar kaygan olabilir."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Riesenbachklinge",
                 "hu": "Riesenbachklinge",
                 "ro": "Riesenbachklinge",
-                "en": "Riesenbachklinge"
+                "en": "Riesenbachklinge",
+                "tr": "Riesenbachklinge"
               },
               "tip_5lang": {
                 "de": "Der Waldweg kann matschig sein; wasserdichtes Schuhwerk ist ratsam, wenn Sie den Wagen kurz verlassen. Genießen Sie die frische Waldluft nach dem Guss.",
                 "hu": "Az erdei út sáros lehet; vízálló lábbeli tanácsos, ha rövid időre kiszáll az autóból. Élvezze a friss erdei levegőt a zápor után.",
                 "ro": "Drumul forestier poate fi noroios; se recomandă încălțăminte impermeabilă dacă coborâți. Bucurați-vă de aerul proaspăt după ploaie.",
-                "en": "The forest path can be muddy; waterproof footwear is advised if you step out. Enjoy the fresh forest air after the downpour."
+                "en": "The forest path can be muddy; waterproof footwear is advised if you step out. Enjoy the fresh forest air after the downpour.",
+                "tr": "Orman yolu çamurlu olabilir; dışarı çıkacaksanız su geçirmez ayakkabı tavsiye edilir. Sağanak sonrası temiz orman havasının tadını çıkarın."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Heimatgeschichtliche Ausstellung - Ortsmuseum Untertürkheim/Rotenberg",
                 "hu": "Helytörténeti Múzeum Untertürkheim/Rotenberg",
                 "ro": "Muzeul de Istorie Locală Untertürkheim/Rotenberg",
-                "en": "Local History Museum Untertürkheim/Rotenberg"
+                "en": "Local History Museum Untertürkheim/Rotenberg",
+                "tr": "Untertürkheim/Rotenberg Yerel Tarih Müzesi"
               },
               "tip_5lang": {
                 "de": "Ein wunderbarer Ort, um mehr über die Region zu erfahren, während es draußen regnet. Parkplätze gibt es meist direkt vor der Tür.",
                 "hu": "Csodálatos hely a régió megismeréséhez, miközben odakint esik az eső. Parkolóhelyek általában közvetlenül az ajtó előtt találhatók.",
                 "ro": "Un loc minunat pentru a învăța despre regiune în timp ce afară plouă. Locurile de parcare sunt de obicei chiar în fața ușii.",
-                "en": "A wonderful place to learn about the region while it's raining outside. Parking is usually available right in front of the door."
+                "en": "A wonderful place to learn about the region while it's raining outside. Parking is usually available right in front of the door.",
+                "tr": "Dışarıda yağmur yağarken bölgeyi öğrenmek için harika bir yer. Kapı önünde genellikle park yeri bulunur."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Kleine Tieranlage der Aquarien und Vogelfreunde Fellbach",
                 "hu": "Kis Állatkert",
                 "ro": "Mica Grădină Zoologică",
-                "en": "Small Animal Enclosure"
+                "en": "Small Animal Enclosure",
+                "tr": "Küçük Hayvan Barınağı"
               },
               "tip_5lang": {
                 "de": "Manche Gehege sind überdacht; ein kurzer Rundgang mit Schirm lohnt sich, da Tiere bei Regen oft aktiv sind. Die Fenster im Auto können beschlagen.",
                 "hu": "Néhány kifutó fedett; egy rövid esernyős körséta megéri, az állatok esőben gyakran aktívak. Az autó ablakai belülről bepárásodhatnak.",
                 "ro": "Unele țarcuri sunt acoperite; o plimbare cu umbrela merită, animalele sunt active pe ploaie. Atenție la aburirea geamurilor mașinii.",
-                "en": "Some enclosures are covered; a short walk with an umbrella is worth it, animals are active in the rain. Watch for foggy windows in the car."
+                "en": "Some enclosures are covered; a short walk with an umbrella is worth it, animals are active in the rain. Watch for foggy windows in the car.",
+                "tr": "Bazı barınaklar örtülüdür; kısa bir şemsiye yürüyüşü buna değer, hayvanlar yağmurda hareketlidir. Arabadaki buğulanmış camlara dikkat edin."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Winterliche Autofahrten bieten Komfort und Wärme. Starten Sie am frostigen Max-Eyth-See und fahren Sie dann zum beheizten Stadtmuseum. Der Kappelberg bietet tolle Aussichten auf die verschneite Region. Nach dem Besuch der Riesenbachklinge und des Ortsmuseums können Sie den Tag gemütlich ausklingen lassen, bevor es um 17 Uhr dunkel wird.",
             "hu": "A téli autózás kényelmet és meleget ad. Kezdjen a fagyos Max-Eyth-tónál, majd hajtson a fűtött városi múzeumhoz. A Kappelbergről remek kilátás nyílik a havas vidékre a szélvédő mögül. A Riesenbachklinge és a múzeum után kellemesen zárhatja a napot, mielőtt délután 5-kor besötétedik.",
             "ro": "Călătoriile cu mașina iarna oferă confort. Începeți la Lacul Max-Eyth înghețat, apoi mergeți la muzeul încălzit. Kappelberg oferă priveliști minunate asupra regiunii înzăpezite. După vizitarea Riesenbachklinge și a muzeului local, încheiați ziua plăcut, înainte de a se întuneca la ora 17.",
-            "en": "Winter car trips offer comfort and warmth. Start at the frosty Max-Eyth-See, then drive to the heated city museum. Kappelberg offers great views of the snowy region from behind the windshield. After visiting Riesenbachklinge and the local museum, you can end the day comfortably before it gets dark at 5 PM."
+            "en": "Winter car trips offer comfort and warmth. Start at the frosty Max-Eyth-See, then drive to the heated city museum. Kappelberg offers great views of the snowy region from behind the windshield. After visiting Riesenbachklinge and the local museum, you can end the day comfortably before it gets dark at 5 PM.",
+            "tr": "Kış araba gezileri rahatlık ve sıcaklık sunar. Donmuş Max-Eyth-See'de başlayın, sonra ısıtmalı şehir müzesine sürün. Kappelberg, ön camın arkasından karlı bölgenin harika manzaralarını sunar. Riesenbachklinge ve yerel müzeyi ziyaret ettikten sonra günün bitiminde, saat 17:00'den önce rahatça günü sonlandırabilirsiniz."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Max-Eyth-See",
                 "hu": "Max-Eyth-tó",
                 "ro": "Lacul Max-Eyth",
-                "en": "Max-Eyth-See"
+                "en": "Max-Eyth-See",
+                "tr": "Max-Eyth-See"
               },
               "tip_5lang": {
                 "de": "Der See wirkt im Winterlicht oft starr und ruhig; nutzen Sie die Sitzheizung, während Sie den Frost beobachten. Eiskratzer griffbereit halten.",
                 "hu": "A tó a téli fényben gyakran dermedt és nyugodt; használja az ülésfűtést, miközben a fagyot figyeli. Tartsa kéznél a jégkaparót a parkolóban.",
                 "ro": "Lacul pare încremenit și liniștit în lumina iernii; folosiți încălzirea în scaune în timp ce observați gerul. Țineți racleta la îndemână.",
-                "en": "The lake often appears still and calm in winter; use your seat heating while watching the frost. Keep an ice scraper handy in the car."
+                "en": "The lake often appears still and calm in winter; use your seat heating while watching the frost. Keep an ice scraper handy in the car.",
+                "tr": "Göl kışın genellikle durgun ve sakin görünür; buzlu havayı izlerken koltuk ısıtmasını kullanın. Arabada buz kazıyıcı bulundurun."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Stadtmuseum Fellbach",
                 "hu": "Fellbachi Városi Múzeum",
                 "ro": "Muzeul Orașului Fellbach",
-                "en": "Fellbach City Museum"
+                "en": "Fellbach City Museum",
+                "tr": "Fellbach Şehir Müzesi"
               },
               "tip_5lang": {
                 "de": "Tauen Sie in den gut temperierten Räumen auf; achten Sie beim Parken auf geräumte Flächen. Eine warme Thermoskanne im Auto ist ein Plus.",
                 "hu": "Melegedjen fel a jól temperált termekben; parkoláskor ügyeljen a letakarított területekre. Egy meleg termosz az autóban sokat segít.",
                 "ro": "Încălziți-vă în sălile bine temperate; la parcare, căutați zonele curățate de zăpadă. Un termos cald în mașină este un mare plus.",
-                "en": "Warm up in the well-tempered rooms; look for cleared areas when parking. A warm thermos in the car is a great addition to the trip."
+                "en": "Warm up in the well-tempered rooms; look for cleared areas when parking. A warm thermos in the car is a great addition to the trip.",
+                "tr": "Ilımlı odalarda ısının; park ederken temizlenmiş alanları arayın. Arabada sıcak bir termos bulundurmak geziye iyi bir katkıdır."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Kappelberg",
                 "hu": "Kappelberg",
                 "ro": "Kappelberg",
-                "en": "Kappelberg"
+                "en": "Kappelberg",
+                "tr": "Kappelberg"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das Winterpanorama aus der Wärme des Autos; bei Schnee sind Winterreifen für den Hügel unerlässlich. Die Auffahrt kann glatt sein.",
                 "hu": "Élvezze a téli panorámát az autó melegéből; hó esetén a téli gumi elengedhetetlen a dombra jutáshoz. Az emelkedő csúszós lehet.",
                 "ro": "Bucurați-vă de panorama de iarnă din căldura mașinii; anvelopele de iarnă sunt esențiale pentru deal. Urcarea poate fi alunecoasă.",
-                "en": "Enjoy the winter panorama from the warmth of the car; winter tires are essential for the hill. The drive up can be quite slippery."
+                "en": "Enjoy the winter panorama from the warmth of the car; winter tires are essential for the hill. The drive up can be quite slippery.",
+                "tr": "Arabanın sıcaklığından kış panoramasının keyfini çıkarın; tepe için kış lastikleri şarttır. Yukarı çıkış oldukça kaygan olabilir."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Riesenbachklinge",
                 "hu": "Riesenbachklinge",
                 "ro": "Riesenbachklinge",
-                "en": "Riesenbachklinge"
+                "en": "Riesenbachklinge",
+                "tr": "Riesenbachklinge"
               },
               "tip_5lang": {
                 "de": "Die Schlucht wirkt mit Eiszapfen besonders wild; tragen Sie griffige Winterschuhe für ein Foto. Lassen Sie den Motor nicht unnötig laufen.",
                 "hu": "A szurdok a jégcsapokkal különösen vadnak tűnik; viseljen tapadós téli cipőt egy fotó erejéig. Ne járassa feleslegesen a motort állóhelyben.",
                 "ro": "Cheile par sălbatice cu țurțuri de gheață; purtați pantofi de iarnă aderenți pentru poze. Nu lăsați motorul pornit inutil în staționare.",
-                "en": "The gorge looks wild with icicles; wear grippy winter shoes for a photo. Avoid idling the engine unnecessarily while stopped."
+                "en": "The gorge looks wild with icicles; wear grippy winter shoes for a photo. Avoid idling the engine unnecessarily while stopped.",
+                "tr": "Vadi, buz sarkıtlarıyla vahşi görünür; fotoğraf için kaymaz kış ayakkabıları giyin. Dururken motoru gereksiz yere rölantide bırakmaktan kaçının."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Heimatgeschichtliche Ausstellung - Ortsmuseum Untertürkheim/Rotenberg",
                 "hu": "Helytörténeti Múzeum Untertürkheim/Rotenberg",
                 "ro": "Muzeul de Istorie Locală Untertürkheim/Rotenberg",
-                "en": "Local History Museum Untertürkheim/Rotenberg"
+                "en": "Local History Museum Untertürkheim/Rotenberg",
+                "tr": "Untertürkheim/Rotenberg Yerel Tarih Müzesi"
               },
               "tip_5lang": {
                 "de": "Das Museum ist eine gemütliche Zeitkapsel an kalten Tagen; nutzen Sie die kurzen Wege vom Parkplatz. Achten Sie auf festgefrorenes Laub am Boden.",
                 "hu": "A múzeum egy hangulatos időkapszula a hideg napokon; használja ki a rövid távokat a parkolótól. Ügyeljen a földre fagyott levelekre.",
                 "ro": "Muzeul este o capsulă a timpului primitoare în zilele reci; profitați de distanța scurtă de la parcare. Atenție la frunzele înghețate.",
-                "en": "The museum is a cozy time capsule on cold days; take advantage of the short distance from parking. Watch for frozen leaves on the ground."
+                "en": "The museum is a cozy time capsule on cold days; take advantage of the short distance from parking. Watch for frozen leaves on the ground.",
+                "tr": "Müze soğuk günlerde sıcak bir zaman kapsülüdür; parkla aradaki kısa mesafeyi değerlendirin. Zemindeki donmuş yapraklara dikkat edin."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Kleine Tieranlage der Aquarien und Vogelfreunde Fellbach",
                 "hu": "Kis Állatkert",
                 "ro": "Mica Grădină Zoologică",
-                "en": "Small Animal Enclosure"
+                "en": "Small Animal Enclosure",
+                "tr": "Küçük Hayvan Barınağı"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Tiere im fahlen Abendlicht; da es um 17 Uhr dunkel wird, bietet die Anlage eine stimmungsvolle Atmosphäre. Prüfen Sie den Frostschutz.",
                 "hu": "Látogassa meg az állatokat az esti fényben; mivel 5-kor sötétedik, a telep hangulatos „kék órát” kínál. Ellenőrizze a fagyállót a kocsiban.",
                 "ro": "Vizitați animalele în lumina serii; deoarece se întunecă la ora 17, locația e plină de atmosferă. Verificați antigelul înainte de plecare.",
-                "en": "Visit the animals in the evening light; since it gets dark at 5 PM, it's very atmospheric. Check your car's antifreeze level before you go."
+                "en": "Visit the animals in the evening light; since it gets dark at 5 PM, it's very atmospheric. Check your car's antifreeze level before you go.",
+                "tr": "Hayvanları akşam ışığında ziyaret edin; saat 17:00'de karardığı için çok atmosferiktir. Gitmeden önce aracınızın antifriz seviyesini kontrol edin."
               }
             }
           ]

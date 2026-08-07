@@ -21,7 +21,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             47.6301,
@@ -36,7 +37,8 @@
             "de": "Frühstücken Sie bei einer lokalen Bäckerei.",
             "hu": "Reggelizz egy helyi pékségben.",
             "ro": "Luați micul dejun la o brutărie locală.",
-            "en": "Have breakfast at a local bakery."
+            "en": "Have breakfast at a local bakery.",
+            "tr": "Yerel bir fırında kahvaltı yapın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Königliches Schloss",
             "hu": "Királyi kastély",
             "ro": "Castelul Regal",
-            "en": "Royal Castle"
+            "en": "Royal Castle",
+            "tr": "Kraliyet Kalesi"
           },
           "coords": [
             47.6305,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie die Waffenkammer.",
             "hu": "Nézd meg a fegyvertárat.",
             "ro": "Vizitați sala de arme.",
-            "en": "Visit the armory."
+            "en": "Visit the armory.",
+            "tr": "Zırh koleksiyonunu ziyaret edin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stiftskirche",
             "hu": "Apátsági templom",
             "ro": "Biserica abației",
-            "en": "Abbey Church"
+            "en": "Abbey Church",
+            "tr": "Manastır Kilisesi"
           },
           "coords": [
             47.6308,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf das romanische Portal.",
             "hu": "Figyeld meg a román stílusú kaput.",
             "ro": "Observați portalul romanic.",
-            "en": "Notice the Romanesque portal."
+            "en": "Notice the Romanesque portal.",
+            "tr": "Romanesk portalı fark edin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen im Gasthof",
             "hu": "Ebéd egy helyi fogadóban",
             "ro": "Prânz la un han local",
-            "en": "Lunch at a local inn"
+            "en": "Lunch at a local inn",
+            "tr": "Öğle yemeği yerel bir han"
           },
           "coords": [
             47.6295,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie bayerische Knödel.",
             "hu": "Kóstold meg a bajor gombócot.",
             "ro": "Încercați găluștele bavareze.",
-            "en": "Try the Bavarian dumplings."
+            "en": "Try the Bavarian dumplings.",
+            "tr": "Bavyera knedlini deneyin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Haus der Berge",
             "hu": "A Hegyek Háza",
             "ro": "Casa Munților",
-            "en": "House of the Mountains"
+            "en": "House of the Mountains",
+            "tr": "Dağlar Evi"
           },
           "coords": [
             47.6288,
@@ -128,7 +137,8 @@
             "de": "Interaktive Ausstellung über die Alpen.",
             "hu": "Interaktív kiállítás az Alpokról.",
             "ro": "Expoziție interactivă despre Alpi.",
-            "en": "Interactive exhibition about the Alps."
+            "en": "Interactive exhibition about the Alps.",
+            "tr": "Alpler hakkında etkileşimli sergi."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Luitpoldpark",
             "hu": "Luitpold park",
             "ro": "Parcul Luitpold",
-            "en": "Luitpold Park"
+            "en": "Luitpold Park",
+            "tr": "Luitpold Parkı"
           },
           "coords": [
             47.6275,
@@ -151,7 +162,8 @@
             "de": "Bester Blick auf den Watzmann.",
             "hu": "A legjobb kilátás a Watzmannra.",
             "ro": "Cea mai bună vedere spre Watzmann.",
-            "en": "Best view of the Watzmann mountain."
+            "en": "Best view of the Watzmann mountain.",
+            "tr": "Watzmann dağının en iyi manzarası."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Morgens erkunden Sie das historische Herz von Berchtesgaden am Marktplatz und besichtigen das herrschaftliche Schloss. Mittags genießen Sie rustikale bayerische Küche in einem traditionellen Gasthof. Der Nachmittag steht im Zeichen der Natur im modernen Museum 'Haus der Berge', gefolgt von einem entspannten Spaziergang im Luitpoldpark mit Blick auf die Alpenriesen.",
         "hu": "A reggelt Berchtesgaden történelmi szívében, a Piactéren kezdjük, majd meglátogatjuk a fejedelmi kastélyt. Ebédre egy hagyományos fogadó rusztikus bajor ételeit élvezhetjük. A délután a természeté: a modern 'Haus der Berge' múzeum után egy pihentető séta vár ránk a Luitpold parkban, ahonnan pazar kilátás nyílik az Alpok óriásaira.",
         "ro": "Dimineața explorați inima istorică a orașului Berchtesgaden în Piața Centrală și vizitați castelul impunător. La prânz, savurați bucătăria bavareză rustică într-un han tradițional. După-amiaza este dedicată naturii la muzeul modern 'Casa Munților', urmată de o plimbare relaxantă în Parcul Luitpold, cu vedere spre giganții Alpilor.",
-        "en": "Start your morning in the historical heart of Berchtesgaden at the Market Square and visit the stately castle. For lunch, enjoy rustic Bavarian cuisine in a traditional inn. The afternoon is dedicated to nature at the modern 'House of the Mountains' museum, followed by a relaxing stroll in Luitpold Park with views of the Alpine giants."
+        "en": "Start your morning in the historical heart of Berchtesgaden at the Market Square and visit the stately castle. For lunch, enjoy rustic Bavarian cuisine in a traditional inn. The afternoon is dedicated to nature at the modern 'House of the Mountains' museum, followed by a relaxing stroll in Luitpold Park with views of the Alpine giants.",
+        "tr": "Sabahınızı Berchtesgaden’in tarihî kalbi Pazar Meydanı’nda başlatın ve görkemli kaleyi ziyaret edin. Öğle yemeği için geleneksel bir handa rustik Bavyera mutfağının tadını çıkarın. Öğleden sonra modern 'Dağlar Evi' müzesinde doğaya zaman ayırın, ardından Alp devlerinin manzaraları eşliğinde Luitpold Parkı’nda rahatlatıcı bir yürüyüş yapın."
       },
       "gastro_picks": {
         "de": [
@@ -311,6 +324,10 @@
         "en": [
           "Wear comfortable shoes as the town is steep.",
           "The castle is only accessible via guided tour."
+        ],
+        "tr": [
+          "Kasaba dik olduğundan rahat ayakkabılar giyin.",
+          "Kale yalnızca rehberli turla gezilebilir."
         ]
       }
     },
@@ -327,7 +344,8 @@
             "de": "Salzbergwerk",
             "hu": "Sóbánya",
             "ro": "Salina Berchtesgaden",
-            "en": "Salt Mine"
+            "en": "Salt Mine",
+            "tr": "Tuz Madeni"
           },
           "coords": [
             47.6378,
@@ -342,7 +360,8 @@
             "de": "Buchen Sie Tickets vorab online.",
             "hu": "Foglalj jegyet előre online.",
             "ro": "Rezervați bilete online în avans.",
-            "en": "Book tickets online in advance."
+            "en": "Book tickets online in advance.",
+            "tr": "Biletleri önceden çevrimiçi alın."
           }
         },
         {
@@ -350,7 +369,8 @@
             "de": "Marktplatz (Cluster Altstadt)",
             "hu": "Piactér (Óváros klaszter)",
             "ro": "Piața Centrală (Cluster Centrul Vechi)",
-            "en": "Market Square (Old Town Cluster)"
+            "en": "Market Square (Old Town Cluster)",
+            "tr": "Pazar Meydanı (Eski Şehir Kümesi)"
           },
           "coords": [
             47.6301,
@@ -365,7 +385,8 @@
             "de": "Parken Sie im Parkhaus am Markt.",
             "hu": "Parkolj a piaci parkolóházban.",
             "ro": "Parcați în parcarea de la piață.",
-            "en": "Park in the market parking garage."
+            "en": "Park in the market parking garage.",
+            "tr": "Pazar otopark garajında park edin."
           }
         },
         {
@@ -373,7 +394,8 @@
             "de": "Königliches Schloss",
             "hu": "Királyi kastély",
             "ro": "Castelul Regal",
-            "en": "Royal Castle"
+            "en": "Royal Castle",
+            "tr": "Kraliyet Kalesi"
           },
           "coords": [
             47.6305,
@@ -388,7 +410,8 @@
             "de": "Zu Fuß vom Marktplatz erreichbar.",
             "hu": "Gyalog elérhető a piactérről.",
             "ro": "Accesibil pe jos din piață.",
-            "en": "Walking distance from market square."
+            "en": "Walking distance from market square.",
+            "tr": "Pazar meydanına yürüme mesafesinde."
           }
         },
         {
@@ -396,7 +419,8 @@
             "de": "Mittagessen",
             "hu": "Ebéd",
             "ro": "Prânz",
-            "en": "Lunch"
+            "en": "Lunch",
+            "tr": "Öğle yemeği"
           },
           "coords": [
             47.6308,
@@ -411,7 +435,8 @@
             "de": "Cluster-Walking: Auto bleibt stehen.",
             "hu": "Gyalogos körút: az autó a parkolóban marad.",
             "ro": "Cluster-walking: mașina rămâne în parcare.",
-            "en": "Cluster walking: leave the car parked."
+            "en": "Cluster walking: leave the car parked.",
+            "tr": "Küme yürüyüşü: arabayı park halinde bırakın."
           }
         },
         {
@@ -419,7 +444,8 @@
             "de": "Dokumentation Obersalzberg",
             "hu": "Obersalzberg Dokumentációs Központ",
             "ro": "Centrul de Documentare Obersalzberg",
-            "en": "Documentation Obersalzberg"
+            "en": "Documentation Obersalzberg",
+            "tr": "Obersalzberg Dokümantasyon Merkezi"
           },
           "coords": [
             47.6315,
@@ -434,7 +460,8 @@
             "de": "Wichtiger Ort der Zeitgeschichte.",
             "hu": "Fontos történelmi emlékhely.",
             "ro": "Loc important al istoriei contemporane.",
-            "en": "Important site of contemporary history."
+            "en": "Important site of contemporary history.",
+            "tr": "Çağdaş tarihin önemli bir yeri."
           }
         },
         {
@@ -442,7 +469,8 @@
             "de": "Kehlsteinhaus Busabfahrt",
             "hu": "Sasfészek buszindulás",
             "ro": "Plecare autocar Kehlsteinhaus",
-            "en": "Eagle's Nest Bus Departure"
+            "en": "Eagle's Nest Bus Departure",
+            "tr": "Kartal Yuvası Otobüs Kalkışı"
           },
           "coords": [
             47.6318,
@@ -457,7 +485,8 @@
             "de": "Nur mit Spezialbussen erreichbar.",
             "hu": "Csak speciális busszal érhető el.",
             "ro": "Accesibil doar cu autobuze speciale.",
-            "en": "Only accessible via special buses."
+            "en": "Only accessible via special buses.",
+            "tr": "Sadece özel otobüslerle ulaşılabilir."
           }
         },
         {
@@ -465,7 +494,8 @@
             "de": "Panorama-Blick Obersalzberg",
             "hu": "Obersalzberg panoráma",
             "ro": "Panoramă Obersalzberg",
-            "en": "Obersalzberg Panorama"
+            "en": "Obersalzberg Panorama",
+            "tr": "Obersalzberg Panorama"
           },
           "coords": [
             47.6325,
@@ -480,7 +510,8 @@
             "de": "Kurzer Spaziergang zum Aussichtspunkt.",
             "hu": "Rövid séta a kilátóponthoz.",
             "ro": "Scurtă plimbare până la punctul de belvedere.",
-            "en": "Short walk to the viewpoint."
+            "en": "Short walk to the viewpoint.",
+            "tr": "Manzara noktası için kısa yürüyüş."
           }
         }
       ],
@@ -488,7 +519,8 @@
         "de": "Diese Autotour kombiniert Technik, Geschichte und alpine Pracht. Wir beginnen unter Tage im Salzbergwerk. Danach parken wir in Berchtesgaden für einen Rundgang durch die Altstadt und das Schloss. Zum Abschluss fahren wir hinauf zum Obersalzberg, um uns mit der Geschichte auseinanderzusetzen und die spektakuläre Aussicht zu genießen.",
         "hu": "Ez az autós túra egyesíti a technikát, a történelmet és az alpesi pompát. A föld alatt kezdünk a sóbányában, majd Berchtesgadenben parkolunk, hogy gyalog fedezzük fel az óvárost és a kastélyt. Végül felautózunk az Obersalzbergre, ahol a történelem mellett a látványos panoráma vár ránk.",
         "ro": "Acest tur auto combină tehnologia, istoria și splendoarea alpină. Începem în subteran la salină, apoi parcăm în Berchtesgaden pentru un tur pietonal al centrului vechi și al castelului. La final, urcăm la Obersalzberg pentru a explora istoria locului și a ne bucura de vederile spectaculoase.",
-        "en": "This car tour combines technology, history, and Alpine splendor. We begin underground at the salt mine, then park in Berchtesgaden for a walking tour of the old town and the castle. Finally, we drive up to Obersalzberg to engage with history and enjoy the spectacular views."
+        "en": "This car tour combines technology, history, and Alpine splendor. We begin underground at the salt mine, then park in Berchtesgaden for a walking tour of the old town and the castle. Finally, we drive up to Obersalzberg to engage with history and enjoy the spectacular views.",
+        "tr": "Bu araba turu teknoloji, tarih ve Alp ihtişamını birleştirir. Tuz madeninde yerin altında başlıyoruz, sonra Berchtesgaden’de yürüyüş için park ediyor ve eski şehir ile kaleyi geziyoruz. Son olarak Obersalzberg’e tırmanıp tarihle yüzleşiyor ve muhteşem manzaraların tadını çıkarıyoruz."
       },
       "gastro_picks": {
         "de": [
@@ -640,6 +672,10 @@
         "en": [
           "The drive to Obersalzberg is steep and winding.",
           "Use cluster parking areas to save on fees."
+        ],
+        "tr": [
+          "Obersalzberg’e giden yol dik ve virajlıdır.",
+          "Ücretlerden tasarruf için küme otopark alanlarını kullanın."
         ]
       }
     },
@@ -656,7 +692,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața Centrală",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             47.6301,
@@ -671,7 +708,8 @@
             "de": "Starten Sie im Zentrum.",
             "hu": "Indulás a központból.",
             "ro": "Start din centru.",
-            "en": "Start in the center."
+            "en": "Start in the center.",
+            "tr": "Merkezde başlayın."
           }
         },
         {
@@ -679,7 +717,8 @@
             "de": "Salzbergwerk",
             "hu": "Sóbánya",
             "ro": "Salina",
-            "en": "Salt Mine"
+            "en": "Salt Mine",
+            "tr": "Tuz Madeni"
           },
           "coords": [
             47.6378,
@@ -694,7 +733,8 @@
             "de": "Flacher Radweg entlang der Ache.",
             "hu": "Lapos kerékpárút az Ache mentén.",
             "ro": "Pistă de biciclete plată de-a lungul râului Ache.",
-            "en": "Flat bike path along the Ache river."
+            "en": "Flat bike path along the Ache river.",
+            "tr": "Ache nehrinin boyunca düz bisiklet yolu."
           }
         },
         {
@@ -702,7 +742,8 @@
             "de": "Königssee Ache Weg",
             "hu": "Königssee Ache út",
             "ro": "Drumul Königssee Ache",
-            "en": "Königssee Ache Path"
+            "en": "Königssee Ache Path",
+            "tr": "Königssee Ache Yolu"
           },
           "coords": [
             47.615,
@@ -717,7 +758,8 @@
             "de": "Wunderschöner Weg am Fluss.",
             "hu": "Gyönyörű út a folyó mentén.",
             "ro": "Drum superb pe lângă râu.",
-            "en": "Beautiful path along the river."
+            "en": "Beautiful path along the river.",
+            "tr": "Nehir boyunca güzel bir patika."
           }
         },
         {
@@ -725,7 +767,8 @@
             "de": "Königssee Ufer",
             "hu": "Königssee part",
             "ro": "Țărmul Königssee",
-            "en": "Königssee Shore"
+            "en": "Königssee Shore",
+            "tr": "Königssee Kıyısı"
           },
           "coords": [
             47.592,
@@ -740,7 +783,8 @@
             "de": "Stellen Sie die Fahrräder sicher ab.",
             "hu": "Zárd le biztonságosan a biciklit.",
             "ro": "Parcați bicicletele în siguranță.",
-            "en": "Park your bikes securely."
+            "en": "Park your bikes securely.",
+            "tr": "Bisikletlerinizi güvenle park edin."
           }
         },
         {
@@ -748,7 +792,8 @@
             "de": "St. Bartholomä (mit Boot)",
             "hu": "Szt. Bertalan templom (hajóval)",
             "ro": "St. Bartholomä (cu barca)",
-            "en": "St. Bartholomä (via Boat)"
+            "en": "St. Bartholomä (via Boat)",
+            "tr": "St. Bartholomä (vapurla)"
           },
           "coords": [
             47.544,
@@ -763,7 +808,8 @@
             "de": "Fahrräder bleiben am Ufer.",
             "hu": "A biciklik a parton maradnak.",
             "ro": "Bicicletele rămân la țărm.",
-            "en": "Bikes stay at the shore."
+            "en": "Bikes stay at the shore.",
+            "tr": "Bisikletler kıyıda kalır."
           }
         },
         {
@@ -771,7 +817,8 @@
             "de": "Berchtesgaden Zentrum",
             "hu": "Berchtesgaden központ",
             "ro": "Centru Berchtesgaden",
-            "en": "Berchtesgaden Center"
+            "en": "Berchtesgaden Center",
+            "tr": "Berchtesgaden Merkezi"
           },
           "coords": [
             47.629,
@@ -786,7 +833,8 @@
             "de": "Rückfahrt leicht bergauf.",
             "hu": "Visszaút enyhén emelkedőn.",
             "ro": "Întoarcere ușor în pantă.",
-            "en": "Return trip slightly uphill."
+            "en": "Return trip slightly uphill.",
+            "tr": "Gidiş dönüşte hafif yokuş yukarı."
           }
         }
       ],
@@ -794,7 +842,8 @@
         "de": "Erfahren Sie das Berchtesgadener Land auf zwei Rädern. Von der Altstadt radeln wir entspannt am Fluss Ache entlang zum Salzbergwerk. Danach führt uns ein herrlicher Naturweg direkt zum glasklaren Königssee. Ein Bootstrip zur Wallfahrtskirche St. Bartholomä rundet das Erlebnis ab, bevor wir gemütlich zurück ins Zentrum strampeln.",
         "hu": "Fedezd fel a Berchtesgadeni vidéket két keréken! Az óvárosból indulva kényelmesen kerekezünk az Ache folyó mentén a sóbányáig, majd egy csodás természeti ösvényen jutunk el a kristálytiszta Königssee-ig. Egy hajókirándulás a Szt. Bertalan templomhoz koronázza meg a napot, mielőtt visszatekernénk a központba.",
         "ro": "Explorați regiunea Berchtesgaden pe două roți. Din centrul vechi pedalăm relaxat de-a lungul râului Ache până la salină. Apoi, un drum natural superb ne duce direct la lacul Königssee. O excursie cu barca la biserica St. Bartholomä completează experiența, înainte de a pedala înapoi spre centru.",
-        "en": "Experience the Berchtesgaden region on two wheels. From the old town, we cycle relaxed along the Ache river to the salt mine. Then, a beautiful nature path leads us directly to the crystal-clear Lake Königssee. A boat trip to St. Bartholomä church tops off the experience before we cycle back to the center."
+        "en": "Experience the Berchtesgaden region on two wheels. From the old town, we cycle relaxed along the Ache river to the salt mine. Then, a beautiful nature path leads us directly to the crystal-clear Lake Königssee. A boat trip to St. Bartholomä church tops off the experience before we cycle back to the center.",
+        "tr": "Berchtesgaden bölgesini iki teker üzerinde keşfedin. Eski şehirden Ache nehri boyunca rahatça bisikletle tuz madenine gidiyoruz. Ardından, güzel bir doğa patikası bizi doğrudan kristal berraklığındaki Königssee Gölü'ne götürüyor. St. Bartholomä kilisine yapılan tekne gezisi, merkeze geri dönmeden önce deneyimi tamamlıyor."
       },
       "gastro_picks": {
         "de": [
@@ -946,6 +995,10 @@
         "en": [
           "E-bikes are recommended for the slopes.",
           "Take rain gear, the weather changes quickly."
+        ],
+        "tr": [
+          "Yamaçlar için e-bisiklet önerilir.",
+          "Yağmurluk alın, hava çabuk değişir."
         ]
       }
     },
@@ -962,7 +1015,8 @@
             "de": "Berchtesgaden Bahnhof",
             "hu": "Berchtesgaden vasútállomás",
             "ro": "Gara Berchtesgaden",
-            "en": "Berchtesgaden Train Station"
+            "en": "Berchtesgaden Train Station",
+            "tr": "Berchtesgaden Tren İstasyonu"
           },
           "coords": [
             47.6258,
@@ -977,7 +1031,8 @@
             "de": "Zentraler Knotenpunkt für alle Busse.",
             "hu": "Minden busz központi csomópontja.",
             "ro": "Nod central pentru toate autobuzele.",
-            "en": "Central hub for all buses."
+            "en": "Central hub for all buses.",
+            "tr": "Tüm otobüsler için merkezi aktarma noktası."
           }
         },
         {
@@ -985,7 +1040,8 @@
             "de": "Königssee (Bus 841)",
             "hu": "Königssee (841-es busz)",
             "ro": "Königssee (Autobuz 841)",
-            "en": "Königssee (Bus 841)"
+            "en": "Königssee (Bus 841)",
+            "tr": "Königssee (Otobüs 841)"
           },
           "coords": [
             47.592,
@@ -1000,7 +1056,8 @@
             "de": "Inklusive Schifffahrt einplanen.",
             "hu": "Tervezz be egy hajóutat is.",
             "ro": "Planificați și o plimbare cu barca.",
-            "en": "Plan for a boat trip too."
+            "en": "Plan for a boat trip too.",
+            "tr": "Tekne gezisini de planlayın."
           }
         },
         {
@@ -1008,7 +1065,8 @@
             "de": "Salzbergwerk (Bus 840)",
             "hu": "Sóbánya (840-es busz)",
             "ro": "Salina (Autobuz 840)",
-            "en": "Salt Mine (Bus 840)"
+            "en": "Salt Mine (Bus 840)",
+            "tr": "Tuz Madeni (Otobüs 840)"
           },
           "coords": [
             47.6378,
@@ -1023,7 +1081,8 @@
             "de": "Direkte Haltestelle vor dem Eingang.",
             "hu": "Megálló közvetlenül a bejáratnál.",
             "ro": "Stație direct în fața intrării.",
-            "en": "Direct stop in front of the entrance."
+            "en": "Direct stop in front of the entrance.",
+            "tr": "Girişin hemen önünde doğrudan durak."
           }
         },
         {
@@ -1031,7 +1090,8 @@
             "de": "Marktplatz Berchtesgaden",
             "hu": "Berchtesgaden Piactér",
             "ro": "Piața Berchtesgaden",
-            "en": "Berchtesgaden Market Square"
+            "en": "Berchtesgaden Market Square",
+            "tr": "Berchtesgaden Pazar Meydanı"
           },
           "coords": [
             47.6301,
@@ -1046,7 +1106,8 @@
             "de": "Vom Bergwerk zum Markt spazieren.",
             "hu": "Séta a bányától a piacig.",
             "ro": "Plimbare de la salină până în piață.",
-            "en": "Walk from the mine to the market."
+            "en": "Walk from the mine to the market.",
+            "tr": "Madenden pazara yürüyün."
           }
         },
         {
@@ -1054,7 +1115,8 @@
             "de": "Königliches Schloss",
             "hu": "Királyi kastély",
             "ro": "Castelul Regal",
-            "en": "Royal Castle"
+            "en": "Royal Castle",
+            "tr": "Kraliyet Kalesi"
           },
           "coords": [
             47.6305,
@@ -1069,7 +1131,8 @@
             "de": "Direkt neben dem Marktplatz.",
             "hu": "Közvetlenül a piactér mellett.",
             "ro": "Chiar lângă piață.",
-            "en": "Right next to the market square."
+            "en": "Right next to the market square.",
+            "tr": "Tam pazar meydanının yanında."
           }
         },
         {
@@ -1077,7 +1140,8 @@
             "de": "Haus der Berge (Zentrum)",
             "hu": "A Hegyek Háza",
             "ro": "Casa Munților",
-            "en": "House of the Mountains"
+            "en": "House of the Mountains",
+            "tr": "Dağların Evi"
           },
           "coords": [
             47.6288,
@@ -1092,7 +1156,8 @@
             "de": "Bequem zu Fuß vom Zentrum.",
             "hu": "Kényelmes séta a központból.",
             "ro": "Plimbare comodă din centru.",
-            "en": "Easy walk from the center."
+            "en": "Easy walk from the center.",
+            "tr": "Merkezden kolay yürüyüş mesafesinde."
           }
         }
       ],
@@ -1100,7 +1165,8 @@
         "de": "Nutzen Sie das effiziente Bussystem von Berchtesgaden. Wir starten am Bahnhof und fahren zuerst zum Königssee für eine unvergessliche Schifffahrt. Danach geht es mit dem Bus zum Salzbergwerk. Den Nachmittag verbringen wir in der Altstadt bei Schloss und Marktplatz, bevor wir den Tag im Naturmuseum 'Haus der Berge' ausklingen lassen.",
         "hu": "Használd ki Berchtesgaden hatékony buszhálózatát! A vasútállomástól indulva először a Königssee-hez megyünk egy felejthetetlen hajózásra, majd busszal a sóbányához látogatunk el. A délutánt az óvárosban, a kastélynál és a piactéren töltjük, a napot pedig a 'Haus der Berge' természetrajzi múzeumban zárjuk.",
         "ro": "Folosiți sistemul eficient de autobuze din Berchtesgaden. Începem de la gară și mergem mai întâi la Königssee pentru o croazieră de neuitat. Apoi, luăm autobuzul spre salină. După-amiaza o petrecem în centrul vechi, vizitând castelul și piața, înainte de a încheia ziua la muzeul 'Casa Munților'.",
-        "en": "Use Berchtesgaden's efficient bus system. We start at the train station and head first to Lake Königssee for an unforgettable boat trip. Then, we take the bus to the salt mine. Spend the afternoon in the old town exploring the castle and market square, before finishing the day at the 'House of the Mountains' museum."
+        "en": "Use Berchtesgaden's efficient bus system. We start at the train station and head first to Lake Königssee for an unforgettable boat trip. Then, we take the bus to the salt mine. Spend the afternoon in the old town exploring the castle and market square, before finishing the day at the 'House of the Mountains' museum.",
+        "tr": "Berchtesgaden'in verimli otobüs sistemini kullanın. Tren istasyonundan başlayıp unutulmaz bir tekne gezisi için önce Königssee Gölü'ne gidiyoruz. Ardından otobüsle tuz madenine geçiyoruz. Öğleden sonrayı kalede ve pazar meydanında geçirip günü 'Dağların Evi' müzesinde tamamlayın."
       },
       "gastro_picks": {
         "de": [
@@ -1252,6 +1318,10 @@
         "en": [
           "With the guest card (Kurkarte), you can travel for free on many lines.",
           "Check the frequency of buses 840/841."
+        ],
+        "tr": [
+          "Konuk kartı (Kurkarte) ile birçok hatta ücretsiz seyahat edebilirsiniz.",
+          "840/841 numaralı otobüslerin sefer sıklığını kontrol edin."
         ]
       }
     }

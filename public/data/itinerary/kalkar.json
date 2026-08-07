@@ -21,7 +21,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața de chihlimbar",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Pazar Meydanı"
           },
           "coords": [
             6.291874,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag im pulsierenden Herzen der Stadt, um die historischen Fassaden zu bewundern, aber kommen Sie früh, um die friedliche Atmosphäre zu genießen.",
             "hu": "Kezdje a napot a város nyüzsgő szívében, hogy megcsodálja a történelmi homlokzatokat, de érdemes kora reggel érkezni, mielőtt a kávézók megtelnek élettel.",
             "ro": "Începeți ziua în inima vibrantă a orașului pentru a admira fațadele istorice, dar asigurați-vă că sosiți devreme dimineața pentru a evita aglomerația de la cafenele.",
-            "en": "Start your day at the vibrant heart of the city to admire the historic facades, but ensure you visit early morning to enjoy the peaceful atmosphere before the cafes fill up."
+            "en": "Start your day at the vibrant heart of the city to admire the historic facades, but ensure you visit early morning to enjoy the peaceful atmosphere before the cafes fill up.",
+            "tr": "Gününüze şehrin canlı kalbinde başlayarak tarihi cephelere hayran kalın; ancak kafeler dolmadan huzurlu atmosferin tadını çıkarmak için sabah erken gelin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi Városháza",
             "ro": "Primăria Istorică",
-            "en": "Historic Town Hall"
+            "en": "Historic Town Hall",
+            "tr": "Tarihî Belediye Binası"
           },
           "coords": [
             6.293035,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die beeindruckende Backsteinarchitektur dieses gotischen Meisterwerks und werfen Sie unbedingt einen kurzen Blick hinein, um die mittelalterlichen Details zu sehen.",
             "hu": "Csodálja meg ennek a gótikus remekműnek a lenyűgöző téglaépítészetét, és ne felejtsen el bepillantani az előcsarnokban szépen megőrzött középkori részletekre.",
             "ro": "Admirați arhitectura impresionantă din cărămidă a acestei capodopere gotice și nu uitați să intrați scurt pentru a vedea detaliile medievale bine conservate din foaier.",
-            "en": "Marvel at the impressive brick architecture of this Gothic masterpiece, and remember to step inside briefly to see the striking medieval details well-preserved in the foyer."
+            "en": "Marvel at the impressive brick architecture of this Gothic masterpiece, and remember to step inside briefly to see the striking medieval details well-preserved in the foyer.",
+            "tr": "Bu Gotik başyapıtın etkileyici tuğla mimarisine hayran kalın ve lobiye kısa bir adım atarak oradaki iyi korunmuş ortaçağ detaylarını görün."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "St. Nicolai Kirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicolai Church"
+            "en": "St. Nicolai Church",
+            "tr": "Aziz Nikolai Kilisesi"
           },
           "coords": [
             6.291886,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die berühmten geschnitzten Holzaltäre, die diese Kirche zu einem regionalen Schatz machen, und bringen Sie ein Fernglas mit für die Details im Kirchenschiff.",
             "hu": "Fedezze fel a híres faragott faoltárokat, amelyek ezt a templomot regionális kinccsé teszik, és hozzon magával egy kis távcsövet a magasban lévő finom részletekhez.",
             "ro": "Explorați celebrele altare din lemn sculptat care fac din această biserică o comoară regională și aduceți un mic binoclu pentru a aprecia detaliile complicate de la înălțime.",
-            "en": "Explore the famous carved wooden altars that make this church a regional treasure, and bring a small pair of binoculars to appreciate the intricate details high up in the nave."
+            "en": "Explore the famous carved wooden altars that make this church a regional treasure, and bring a small pair of binoculars to appreciate the intricate details high up in the nave.",
+            "tr": "Bu kiliseyi bölgesel bir hazine yapan ünlü oymalı ahşap sunakları keşfedin; nefin yüksek yerlerindeki ince ayrıntıları görmek için küçük bir dürbün getirin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Spielplatz am Stadtpark",
             "hu": "Játszótér a Városligetnél",
             "ro": "Teren de joacă la Parcul Orașului",
-            "en": "Spielplatz am Stadtpark"
+            "en": "Spielplatz am Stadtpark",
+            "tr": "Şehir Parkı Oyun Alanı"
           },
           "coords": [
             6.292193,
@@ -105,7 +112,8 @@
             "de": "Machen Sie eine entspannende Pause in diesem gepflegten Familienbereich mit viel Schatten, der sich perfekt als Ort für ein kurzes Picknick in der Mittagssonne eignet.",
             "hu": "Tartson egy pihentető szünetet ezen a jól karbantartott, árnyékos családi területen, amely tökéletes hely a lábak pihentetésére egy gyors déli piknik keretében.",
             "ro": "Luați o pauză relaxantă în această zonă de familie bine întreținută, care oferă multă umbră, fiind locul perfect pentru a vă odihni picioarele în timpul unui mic dejun târziu.",
-            "en": "Take a relaxing break in this well-maintained family area which offers plenty of shade, making it a perfect spot to rest your legs while enjoying a quick mid-day picnic."
+            "en": "Take a relaxing break in this well-maintained family area which offers plenty of shade, making it a perfect spot to rest your legs while enjoying a quick mid-day picnic.",
+            "tr": "Gölgelik alanları olan bu bakımlı aile alanında rahatlayın; hızlı bir öğle pikniği yaparken bacaklarınızı dinlendirmek için ideal bir yer."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mühlenstumpf",
             "hu": "Malomrom",
             "ro": "Ruina Morii",
-            "en": "Mühlenstumpf"
+            "en": "Mühlenstumpf",
+            "tr": "Mühlenstumpf"
           },
           "coords": [
             6.287276,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie die robusten Überreste dieser historischen Mühle, die einst die lokale Industrie antrieb, und gehen Sie um die Basis herum, um die massive Ingenieurskunst zu sehen.",
             "hu": "Fedezze fel ennek a történelmi malomnak az erős maradványait, és sétáljon körbe az alapzatánál, hogy igazán megértse a tizenkilencedik századi mérnöki munka hatalmas léptékét.",
             "ro": "Descoperiți rămășițele robuste ale acestei mori istorice care a alimentat cândva industria locală și plimbați-vă în jurul bazei sale pentru a înțelege scara ingineriei de atunci.",
-            "en": "Discover the sturdy remains of this historic mill which once powered local industry, and walk around its base to truly grasp the massive scale of 19th-century engineering."
+            "en": "Discover the sturdy remains of this historic mill which once powered local industry, and walk around its base to truly grasp the massive scale of 19th-century engineering.",
+            "tr": "Bir zamanlar yerel sanayiyi çalıştıran bu tarihî değirmenin sağlam kalıntılarını keşfedin ve 19. yüzyıl mühendisliğinin muazzam ölçeğini tam olarak kavramak için tabanı etrafında yürüyün."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Morgen beginnt im historischen Zentrum, wo Sie die mittelalterliche Atmosphäre am Marktplatz, dem Rathaus und der prächtigen Nikolaikirche in vollen Zügen genießen können.\nAm Mittag machen Sie einen kurzen Spaziergang zum Park für etwas Entspannung und genießen die ruhigen Gassen von Kalkar.\nDer Nachmittag führt Sie ein Stück aus dem direkten Zentrum heraus zum historischen Mühlenstumpf, um die alten Stadtgrenzen zu erkunden.\nAm späten Nachmittag lassen Sie die Eindrücke in den Gassen langsam ausklingen und bewundern das späte Licht auf den wunderschönen Backsteinfassaden.",
         "hu": "A reggele a történelmi központban kezdődik, ahol teljes mértékben átérezheti a középkori hangulatot a Piactéren, a Városházánál és a Szent Miklós-templom lenyűgöző terében.\nDélben tegyen egy rövid sétát a park felé egy kis pihenésért, élvezve Kalkar csendes és békés utcáit.\nDélután kissé távolabb merészkedik, hogy felfedezze a történelmi malomromot, megismerve a város régi határait.\nKéső délután lassan visszatér a városközpont közelébe, hogy megcsodálja a téglaépületeken megcsillanó késői napsugarakat.",
         "ro": "Dimineața începe în centrul istoric, unde veți simți din plin atmosfera medievală la Piață, Primărie și magnifica Biserică Sf. Nicolae.\nLa prânz, faceți o scurtă plimbare spre parc pentru a vă relaxa, bucurându-vă de străzile liniștite și pitorești din Kalkar.\nDupă-amiaza vă îndepărtați puțin de centru pentru a vedea ruinele istoricei mori, explorând vechile limite ale așezării.\nSpre seară, încheiați ziua relaxant aproape de centrul orașului, admirând lumina caldă pe fațadele frumoase din cărămidă.",
-        "en": "Your morning starts in the historical center, feeling the rich medieval vibe at the central Market Square, the grand Town Hall, and St. Nicolai Church.\nBy midday, take a short, pleasant walk towards the local park for some relaxation, enjoying the quiet streets of Kalkar.\nThe afternoon heads out slightly to see the historical Mühlenstumpf, exploring the city's old industrial boundaries.\nIn the late afternoon, wind down as you slowly make your way back near the city center, admiring the late light on the brick facades."
+        "en": "Your morning starts in the historical center, feeling the rich medieval vibe at the central Market Square, the grand Town Hall, and St. Nicolai Church.\nBy midday, take a short, pleasant walk towards the local park for some relaxation, enjoying the quiet streets of Kalkar.\nThe afternoon heads out slightly to see the historical Mühlenstumpf, exploring the city's old industrial boundaries.\nIn the late afternoon, wind down as you slowly make your way back near the city center, admiring the late light on the brick facades.",
+        "tr": "Sabahınız tarihî merkezde başlar; merkezi Pazar Meydanı, görkemli Belediye Binası ve Aziz Nikolai Kilisesi'nde zengin ortaçağ havasını hissedersiniz. Öğle vakti, Kalkar'ın sessiz sokaklarında keyifli kısa bir yürüyüşle yerel parka gidip dinlenin. Öğleden sonra şehir dışına biraz çıkarak tarihî Mühlenstumpf'u görün; şehrin eski sanayi sınırlarını keşfedin. Akşamüstü, tuğla cepheler üzerindeki geç ışığı hayranlıkla izleyerek yavaşça şehir merkezine yakın bölgeye geri dönün."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Ein regnerischer Morgen beginnt am Marktplatz, wo die historischen Fassaden im nassen Glanz schimmern. Mittags bieten das Rathaus und die Kirche St. Nicolai perfekten Schutz vor den Tropfen. Nachmittags führt der Weg durch den Stadtpark; achten Sie unbedingt auf rutschige Pfade bei den Spielplätzen. Der Tag endet an der Mühle, während der Regen sanft auf das alte, mystische Mauerwerk prasselt.",
             "hu": "Az esős reggel a Piactéren indul, ahol a történelmi homlokzatok nedves csillogása különleges hangulatot áraszt. Délben a Városháza és a Szent Miklós-templom nyújt menedéket a zápor elől. Délután a városligeti séta során ügyeljünk a csúszós utakra a játszótér környékén. A nap a Malomromnál zárul, miközben az eső halkan kopog az ódon, misztikus téglafalakon.",
             "ro": "O dimineață ploioasă începe în Piața de Chihlimbar, unde fațadele istorice strălucesc sub picăturile de apă. La prânz, Primăria și Biserica Sf. Nicolae oferă un adăpost perfect împotriva ploii. După-amiaza, plimbarea prin parc necesită atenție la potecile alunecoase de lângă locul de joacă. Ziua se încheie la Ruina Morii, în sunetul ritmic al ploii care cade pe zidurile vechi.",
-            "en": "A rainy morning starts at Market Square, where historical facades glisten in the wet light. At noon, the Town Hall and St. Nicolai Church provide perfect shelter from the downpour. In the afternoon, watch your step on slippery paths near the city park playground. The day concludes at the Mühlenstumpf, with rain tapping gently on the ancient, mystical brickwork of the ruins."
+            "en": "A rainy morning starts at Market Square, where historical facades glisten in the wet light. At noon, the Town Hall and St. Nicolai Church provide perfect shelter from the downpour. In the afternoon, watch your step on slippery paths near the city park playground. The day concludes at the Mühlenstumpf, with rain tapping gently on the ancient, mystical brickwork of the ruins.",
+            "tr": "Yağmurlu bir sabah Pazar Meydanı'nda başlar; tarihi cepheler ıslak ışıkta parlar. Öğle vakti Belediye Binası ve Aziz Nikolai Kilisesi sağanaklardan korunmak için ideal sığınak sağlar. Öğleden sonra şehir parkı oyun alanı yakınlarındaki kaygan yollara dikkat edin. Gün, Mühlenstumpf'ta sona erer; yağmur eski ve mistik tuğla yapıtların üzerinde nazikçe tıkırdar."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Marktplatz",
                 "hu": "Piactér",
                 "ro": "Piața de chihlimbar",
-                "en": "Market Square"
+                "en": "Market Square",
+                "tr": "Pazar Meydanı"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die prächtigen Giebelhäuser entspannt unter dem Regenschirm und nutzen Sie die umliegenden Arkaden als idealen trockenen Unterstand.",
                 "hu": "Csodálja meg az oromzatos házakat az esernyő alól, és használja a közeli árkádokat száraz menedékként a nézelődéshez és a történelmi környezet élvezetéhez.",
                 "ro": "Admirați casele cu frontoane sub umbrelă și folosiți arcadele din jur ca adăpost uscat pentru a observa detaliile pieței fără a vă uda prea tare.",
-                "en": "Admire the gabled houses from under your umbrella and use the nearby arcades as a dry shelter to observe the square and enjoy the historic atmosphere."
+                "en": "Admire the gabled houses from under your umbrella and use the nearby arcades as a dry shelter to observe the square and enjoy the historic atmosphere.",
+                "tr": "Şemsiyenizin altında sıralı çatı evlerine hayran kalın ve meydanı izlemek, tarihi atmosferin tadını çıkarmak için yakınlardaki revakları kuru bir sığınak olarak kullanın."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Historisches Rathaus",
                 "hu": "Történelmi Városháza",
                 "ro": "Primăria Istorică",
-                "en": "Historic Town Hall"
+                "en": "Historic Town Hall",
+                "tr": "Tarihî Belediye Binası"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein in das beeindruckende Backsteingebäude, um die prachtvollen Säle trocken zu erkunden und dem Regen für eine Weile gemütlich zu entfliehen.",
                 "hu": "Lépjen be a lenyűgöző téglaépületbe, hogy szárazon fedezze fel a pompás belső termeket, és elmeneküljön a kinti felhőszakadás elől egy kis időre.",
                 "ro": "Intrați în clădirea impresionantă de cărămidă pentru a explora sălile magnifice la adăpost și pentru a scăpa confortabil de ploaia de afară.",
-                "en": "Step inside the impressive brick building to explore the magnificent halls while staying dry and escaping the heavy rain for a pleasant duration."
+                "en": "Step inside the impressive brick building to explore the magnificent halls while staying dry and escaping the heavy rain for a pleasant duration.",
+                "tr": "Ağır yağıştan kaçınmak ve hoş bir süre geçirmek için etkileyici tuğla binanın içine girip muhteşem salonları keşfedin."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "St. Nicolai Kirche",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sf. Nicolae",
-                "en": "St. Nicolai Church"
+                "en": "St. Nicolai Church",
+                "tr": "Aziz Nikolai Kilisesi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Zeit für die weltberühmten Schnitzaltäre im Inneren, während draußen der Regen gegen die hohen, kunstvollen Gotikfenster peitscht.",
                 "hu": "Szánjon időt a világhírű faragott oltárok megtekintésére a belső térben, miközben kint az eső veri a templom magas, díszes gótikus ablakait.",
                 "ro": "Vizitați altarele sculptate de renume mondial din interior, în timp ce afară ploaia bate în ferestrele gotice înalte ale acestei biserici istorice.",
-                "en": "Take your time to view the world-famous carved altars inside while the rain beats against the high, ornate Gothic windows of this historic church."
+                "en": "Take your time to view the world-famous carved altars inside while the rain beats against the high, ornate Gothic windows of this historic church.",
+                "tr": "Yağmur yüksek, süslü Gotik pencerelere vururken içerdeki dünyaca ünlü oyma sunakları keyifle izlemek için zaman ayırın."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Spielplatz am Stadtpark",
                 "hu": "Játszótér a Városligetnél",
                 "ro": "Teren de joacă la Parcul Orașului",
-                "en": "Spielplatz am Stadtpark"
+                "en": "Spielplatz am Stadtpark",
+                "tr": "Şehir Parkı Oyun Alanı"
               },
               "tip_5lang": {
                 "de": "Die Spielgeräte können bei Regen rutschig sein; tragen Sie wasserfeste Kleidung und suchen Sie unter den großen, dichten Bäumen kurzzeitig Schutz.",
                 "hu": "A játékok esőben csúszósak lehetnek; viseljen vízálló ruházatot, és keressen menedéket a park hatalmas fáinak sűrű lombjai alatt a zápor idején.",
                 "ro": "Echipamentele de joacă pot fi alunecoase; purtați haine impermeabile și căutați adăpost sub copacii mari din parc în timpul averselor trecătoare.",
-                "en": "The playground equipment can be slippery in the rain; wear waterproof clothing and seek shelter under the large trees during passing showers."
+                "en": "The playground equipment can be slippery in the rain; wear waterproof clothing and seek shelter under the large trees during passing showers.",
+                "tr": "Oyuncaklar yağmurda kaygan olabilir; su geçirmez giysi giyin ve geçici sağanaklarda büyük ağaçların altına sığının."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Mühlenstumpf",
                 "hu": "Malomrom",
                 "ro": "Ruina Morii",
-                "en": "Mühlenstumpf"
+                "en": "Mühlenstumpf",
+                "tr": "Mühlenstumpf"
               },
               "tip_5lang": {
                 "de": "Das alte Mauerwerk wirkt bei grauem Himmel besonders mystisch; ein kurzer Sprint bringt Sie nach der Besichtigung schnell zum nächsten Café.",
                 "hu": "Az ódon falak szürke égbolt alatt különösen misztikusak; a látogatás után egy gyors sprinttel hamar elérheti a legközelebbi fedett kávézót.",
                 "ro": "Zidăria veche pare deosebit de mistică sub cerul gri; un scurt sprint vă va duce rapid la cea mai apropiată cafenea acoperită din vecinătate.",
-                "en": "The old masonry looks particularly mystical under grey skies; a short sprint after your visit will quickly take you to the nearest covered cafe."
+                "en": "The old masonry looks particularly mystical under grey skies; a short sprint after your visit will quickly take you to the nearest covered cafe.",
+                "tr": "Eski duvar işçiliği gri gökyüzü altında özellikle mistik görünür; ziyaret sonrası kısa bir koşu sizi en yakın kapalı kafeye hızla ulaştırır."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Wintertag beginnt am Marktplatz, wo der Duft von heißem Tee in der kalten Luft hängt. Mittags wärmen die dicken Mauern des Rathauses und der Kirche auf. Nachmittags ist die Luft im Stadtpark klar und belebend. Da die Sonne bereits gegen 17:00 Uhr untergeht, hüllt die frühe Abenddämmerung die Mühle in ein besonders romantisches, fahles Licht.",
             "hu": "A fagyos téli nap a Piactéren indul, ahol a forró tea illata lengi be a hideg levegőt. Délben a Városháza és a templom vastag falai között melegedhetünk fel. Délután a Városliget tiszta levegője tökéletes egy frissítő sétához. Mivel a nap 17:00 körül lebukik, az alkonyat korán romantikus fénybe vonja a Malomromot.",
             "ro": "O zi geroasă de iarnă începe în Piața de Chihlimbar, unde mirosul de ceai fierbinte plutește în aerul rece. La prânz, zidurile groase ale Primăriei vă vor încălzi. După-amiaza, aerul din parc este curat, perfect pentru o plimbare revigorantă. Deoarece soarele apune la 17:00, amurgul scaldă Ruina Morii într-o lumină romantică.",
-            "en": "A frosty winter day begins at Market Square, where the scent of hot tea lingers in the cold air. At noon, the thick walls of the Town Hall and church provide a warm refuge. In the afternoon, the park's crisp air is perfect for an invigorating walk. As the sun sets around 17:00, the early twilight wraps the Mühlenstumpf in romantic light."
+            "en": "A frosty winter day begins at Market Square, where the scent of hot tea lingers in the cold air. At noon, the thick walls of the Town Hall and church provide a warm refuge. In the afternoon, the park's crisp air is perfect for an invigorating walk. As the sun sets around 17:00, the early twilight wraps the Mühlenstumpf in romantic light.",
+            "tr": "Donlu bir kış günü Pazar Meydanı'nda başlar; soğuk havada sıcak çay kokusu dolanır. Öğle vakti Belediye Binası ve kilisenin kalın duvarları sıcak bir sığınak sağlar. Öğleden sonra parkın sert havası canlandırıcı bir yürüyüş için idealdir. Güneş yaklaşık 17:00 civarında battıkça erken alacakaranlık Mühlenstumpf'u romantik bir ışıkla sarar."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Marktplatz",
                 "hu": "Piactér",
                 "ro": "Piața de chihlimbar",
-                "en": "Market Square"
+                "en": "Market Square",
+                "tr": "Pazar Meydanı"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Schichten, um den Platz zu genießen, und wärmen Sie sich zwischendurch in einer der gemütlichen Backstuben auf.",
                 "hu": "Öltözzön rétegesen a tér felfedezéséhez, és melegedjen fel a környék egyik hangulatos pékségében egy forró ital és sütemény mellett.",
                 "ro": "Purtați haine groase pentru a vă bucura de piață și încălziți-vă ocazional într-una dintre brutăriile primitoare cu o băutură fierbinte.",
-                "en": "Wear warm layers to enjoy the square and warm up in one of the cozy local bakeries with a hot drink and a pastry in between."
+                "en": "Wear warm layers to enjoy the square and warm up in one of the cozy local bakeries with a hot drink and a pastry in between.",
+                "tr": "Meydanın tadını çıkarmak için sıcak katlar giyin ve aralarda sıcak bir içecek ve hamur işi için yerel fırınlardan birine girin."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Historisches Rathaus",
                 "hu": "Történelmi Városháza",
                 "ro": "Primăria Istorică",
-                "en": "Historic Town Hall"
+                "en": "Historic Town Hall",
+                "tr": "Tarihî Belediye Binası"
               },
               "tip_5lang": {
                 "de": "Die historischen Innenräume sind im Winter angenehm temperiert und bieten eine ideale Flucht vor dem beißenden, kalten Wind draußen.",
                 "hu": "A történelmi belső terek télen kellemes hőmérsékletűek, és ideális menekülést kínálnak a kinti metsző, hideg szél elől a látogatóknak.",
                 "ro": "Interioarele istorice sunt încălzite plăcut iarna, oferind o evadare ideală din calea vântului tăios și rece de afară.",
-                "en": "The historical interiors are pleasantly tempered in winter, offering an ideal escape from the biting, cold wind outside for all visitors."
+                "en": "The historical interiors are pleasantly tempered in winter, offering an ideal escape from the biting, cold wind outside for all visitors.",
+                "tr": "Tarihî iç mekanlar kışın hoş bir şekilde ılıktır ve dışarıdaki keskin soğuk rüzgardan kaçmak için ideal bir sığınak sunar."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "St. Nicolai Kirche",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sf. Nicolae",
-                "en": "St. Nicolai Church"
+                "en": "St. Nicolai Church",
+                "tr": "Aziz Nikolai Kilisesi"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Kunstwerke in der stillen Wärme der Kirche; die Akustik ist an klaren Wintertagen besonders beeindruckend und klar.",
                 "hu": "Csodálja meg a műalkotásokat a templom csendes melegében; az akusztika a tiszta téli napokon különösen lenyűgöző és tiszta hangzású.",
                 "ro": "Admirați operele de artă în căldura liniștită a bisericii; acustica este deosebit de impresionantă și clară în zilele senine de iarnă.",
-                "en": "Admire the artworks in the quiet warmth of the church; the acoustics are particularly impressive and clear on crisp winter days."
+                "en": "Admire the artworks in the quiet warmth of the church; the acoustics are particularly impressive and clear on crisp winter days.",
+                "tr": "Kilisenin sakin sıcaklığında sanat eserlerine hayran kalın; akustik kısa ve keskin kış günlerinde özellikle etkileyicidir."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Spielplatz am Stadtpark",
                 "hu": "Játszótér a Városligetnél",
                 "ro": "Teren de joacă la Parcul Orașului",
-                "en": "Spielplatz am Stadtpark"
+                "en": "Spielplatz am Stadtpark",
+                "tr": "Şehir Parkı Oyun Alanı"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp für Bewegung ist gut, aber achten Sie auf gefrorene Pfützen und den sehr frühen Sonnenuntergang im Stadtpark.",
                 "hu": "Egy rövid mozgás jót tesz, de ügyeljen a fagyott tócsákra és a nagyon korai naplementére a Városliget fái között sétálva.",
                 "ro": "O scurtă oprire pentru mișcare este binevenită, dar atenție la bălțile înghețate și la apusul soarelui foarte timpuriu din parc.",
-                "en": "A quick stop for movement is good, but watch out for frozen puddles and the very early sunset while walking through the city park."
+                "en": "A quick stop for movement is good, but watch out for frozen puddles and the very early sunset while walking through the city park.",
+                "tr": "Kısa bir hareket molası için iyi bir durak, ancak donmuş su birikintilerine ve çok erken batmaya başlayan güneş ışığına dikkat edin."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Mühlenstumpf",
                 "hu": "Malomrom",
                 "ro": "Ruina Morii",
-                "en": "Mühlenstumpf"
+                "en": "Mühlenstumpf",
+                "tr": "Mühlenstumpf"
               },
               "tip_5lang": {
                 "de": "Der Backsteinturm wirkt im Winterlicht besonders markant; beenden Sie die Tour vor 17:00 Uhr, um noch etwas Tageslicht zu haben.",
                 "hu": "A téglatorony a téli fényben különösen karakteres; fejezze be a túrát 17:00 óra előtt, hogy még lásson a természetes fénynél.",
                 "ro": "Turnul de cărămidă arată spectaculos în lumina iernii; terminați turul înainte de ora 17:00 pentru a mai prinde lumină naturală.",
-                "en": "The brick tower looks particularly striking in winter light; finish your tour before 5 PM to still have some natural daylight."
+                "en": "The brick tower looks particularly striking in winter light; finish your tour before 5 PM to still have some natural daylight.",
+                "tr": "Tuğla kule kış ışığında özellikle çarpıcı görünür; hâlâ biraz doğal gün ışığı varken turunuza saat 17:00'den önce son verin."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața de chihlimbar",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Marktplatz"
           },
           "coords": [
             6.291874,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihren Tag im pulsierenden Herzen der Stadt, um die historischen Fassaden zu bewundern, aber kommen Sie früh, um die friedliche Atmosphäre zu genießen.",
             "hu": "Kezdje a napot a város nyüzsgő szívében, hogy megcsodálja a történelmi homlokzatokat, de érdemes kora reggel érkezni, mielőtt a kávézók megtelnek élettel.",
             "ro": "Începeți ziua în inima vibrantă a orașului pentru a admira fațadele istorice, dar asigurați-vă că sosiți devreme dimineața pentru a evita aglomerația de la cafenele.",
-            "en": "Start your day at the vibrant heart of the city to admire the historic facades, but ensure you visit early morning to enjoy the peaceful atmosphere before the cafes fill up."
+            "en": "Start your day at the vibrant heart of the city to admire the historic facades, but ensure you visit early morning to enjoy the peaceful atmosphere before the cafes fill up.",
+            "tr": "Gününüzü şehrin canlı merkezinde tarihi cepheleri seyrederek başlatın, ancak kafeler dolmadan önce huzurlu atmosferin tadını çıkarmak için sabah erken ziyaret etmeyi unutmayın."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Historisches Rathaus",
             "hu": "Történelmi Városháza",
             "ro": "Primăria Istorică",
-            "en": "Historic Town Hall"
+            "en": "Historic Town Hall",
+            "tr": "Historisches Rathaus"
           },
           "coords": [
             6.293035,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die beeindruckende Backsteinarchitektur dieses gotischen Meisterwerks und werfen Sie unbedingt einen kurzen Blick hinein, um die mittelalterlichen Details zu sehen.",
             "hu": "Csodálja meg ennek a gótikus remekműnek a lenyűgöző téglaépítészetét, és ne felejtsen el bepillantani az előcsarnokban szépen megőrzött középkori részletekre.",
             "ro": "Admirați arhitectura impresionantă din cărămidă a acestei capodopere gotice și nu uitați să intrați scurt pentru a vedea detaliile medievale bine conservate din foaier.",
-            "en": "Marvel at the impressive brick architecture of this Gothic masterpiece, and remember to step inside briefly to see the striking medieval details well-preserved in the foyer."
+            "en": "Marvel at the impressive brick architecture of this Gothic masterpiece, and remember to step inside briefly to see the striking medieval details well-preserved in the foyer.",
+            "tr": "Bu Gotik başyapıtın etkileyici tuğla mimarisine hayran kalın ve holde iyi korunmuş çarpıcı ortaçağ detaylarını görmek için kısa bir süre içeri girin."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "St. Nicolai Kirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicolai Church"
+            "en": "St. Nicolai Church",
+            "tr": "St. Nicolai Kirche"
           },
           "coords": [
             6.291886,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die berühmten geschnitzten Holzaltäre, die diese Kirche zu einem regionalen Schatz machen, und bringen Sie ein Fernglas mit für die Details im Kirchenschiff.",
             "hu": "Fedezze fel a híres faragott faoltárokat, amelyek ezt a templomot regionális kinccsé teszik, és hozzon magával egy kis távcsövet a magasban lévő finom részletekhez.",
             "ro": "Explorați celebrele altare din lemn sculptat care fac din această biserică o comoară regională și aduceți un mic binoclu pentru a aprecia detaliile complicate de la înălțime.",
-            "en": "Explore the famous carved wooden altars that make this church a regional treasure, and bring a small pair of binoculars to appreciate the intricate details high up in the nave."
+            "en": "Explore the famous carved wooden altars that make this church a regional treasure, and bring a small pair of binoculars to appreciate the intricate details high up in the nave.",
+            "tr": "Bu kiliseyi bölgesel bir hazine yapan ünlü oyma ahşap sunakları keşfedin ve nefin yükseklerindeki ayrıntıları takdir etmek için küçük bir dürbün getirmenizi öneririz."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Mühlenstumpf",
             "hu": "Malomrom",
             "ro": "Ruina Morii",
-            "en": "Mühlenstumpf"
+            "en": "Mühlenstumpf",
+            "tr": "Mühlenstumpf"
           },
           "coords": [
             6.287276,
@@ -398,7 +438,8 @@
             "de": "Entdecken Sie die robusten Überreste dieser historischen Mühle, die einst die lokale Industrie antrieb, und gehen Sie um die Basis herum, um die massive Ingenieurskunst zu sehen.",
             "hu": "Fedezze fel ennek a történelmi malomnak az erős maradványait, és sétáljon körbe az alapzatánál, hogy igazán megértse a tizenkilencedik századi mérnöki munka hatalmas léptékét.",
             "ro": "Descoperiți rămășițele robuste ale acestei mori istorice care a alimentat cândva industria locală și plimbați-vă în jurul bazei sale pentru a înțelege scara ingineriei de atunci.",
-            "en": "Discover the sturdy remains of this historic mill which once powered local industry, and walk around its base to truly grasp the massive scale of 19th-century engineering."
+            "en": "Discover the sturdy remains of this historic mill which once powered local industry, and walk around its base to truly grasp the massive scale of 19th-century engineering.",
+            "tr": "Bir zamanlar yerel sanayiyi çalıştıran bu tarihi değirmenin sağlam kalıntılarını keşfedin ve 19. yüzyıl mühendisliğinin devasa ölçeğini gerçekten kavramak için tabanının etrafında yürüyün."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Wisseler See",
             "hu": "Wissel-tó",
             "ro": "Lacul Wissel",
-            "en": "Wisseler See"
+            "en": "Wisseler See",
+            "tr": "Wisseler See"
           },
           "coords": [
             6.292088,
@@ -421,7 +463,8 @@
             "de": "Genießen Sie das ruhige Wasser an diesem wunderschönen lokalen See und überlegen Sie, für eine Stunde ein Tretboot zu mieten, um die malerische Küste vom Wasser aus zu sehen.",
             "hu": "Élvezze a nyugodt vizeket és a szabadidős lehetőségeket ezen a gyönyörű helyi tavon, és érdemes egy órára vízibiciklit bérelni, hogy a festői partvonalat új szemszögből lássa.",
             "ro": "Bucurați-vă de apele calme și de oportunitățile de recreere de la acest frumos lac local și luați în considerare închirierea unei hidrobiciclete pentru a vedea țărmul din larg.",
-            "en": "Enjoy the calm waters and recreational opportunities at this beautiful local lake, and consider renting a pedal boat for an hour to see the scenic shoreline from a new perspective."
+            "en": "Enjoy the calm waters and recreational opportunities at this beautiful local lake, and consider renting a pedal boat for an hour to see the scenic shoreline from a new perspective.",
+            "tr": "Bu güzel yerel gölde sakin suların ve rekreasyon olanaklarının tadını çıkarın; manzaralı kıyıyı yeni bir açıdan görmek için bir saatliğine pedal bot kiralamayı düşünebilirsiniz."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Wunderland Kalkar",
             "hu": "Wunderland Kalkar",
             "ro": "Wunderland Kalkar",
-            "en": "Wunderland Kalkar"
+            "en": "Wunderland Kalkar",
+            "tr": "Wunderland Kalkar"
           },
           "coords": [
             6.32611,
@@ -444,7 +488,8 @@
             "de": "Erleben Sie die einzigartige Verwandlung eines nie genutzten Kernkraftwerks in einen Freizeitpark und fahren Sie unbedingt mit dem Kettenkarussell direkt im Kühlturm.",
             "hu": "Tapasztalja meg egy soha nem használt atomerőmű vidámparkká történő egyedi átalakulását, és mindenképpen próbálja ki a hatalmas hűtőtorony belsejében található körhintát.",
             "ro": "Experimentați transformarea unică a unei centrale nucleare nefolosite într-un parc de distracții și asigurați-vă că vă dați în caruselul situat chiar în interiorul turnului de răcire.",
-            "en": "Experience the unique transformation of a never-used nuclear power plant into an amusement park, and make sure to ride the swing carousel located right inside the massive cooling tower."
+            "en": "Experience the unique transformation of a never-used nuclear power plant into an amusement park, and make sure to ride the swing carousel located right inside the massive cooling tower.",
+            "tr": "Hiç kullanılmamış bir nükleer santralin eğlence parkına dönüşümünü deneyimleyin ve dev soğutma kulesinin tam içinde bulunan salıncaklı atlıkarıncaya binmeyi unutmayın."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Burg Boetzelaer",
             "hu": "Boetzelaer Vár",
             "ro": "Castelul Boetzelaer",
-            "en": "Burg Boetzelaer"
+            "en": "Burg Boetzelaer",
+            "tr": "Burg Boetzelaer"
           },
           "coords": [
             6.348053,
@@ -467,7 +513,8 @@
             "de": "Machen Sie eine Zeitreise in dieser wunderschön restaurierten Wasserburg und spazieren Sie durch die ruhigen Außengärten, um atemberaubende Fotos der Reflexion im Wasser zu machen.",
             "hu": "Lépjen vissza az időben ennél a gyönyörűen felújított vízivárnál, és sétáljon egyet a nyugodt külső kertekben, hogy lenyűgöző fényképeket készítsen a vízi tükröződésről.",
             "ro": "Întoarceți-vă în timp la acest castel cu șanț frumos restaurat și faceți o plimbare prin grădinile exterioare liniștite pentru a surprinde fotografii uimitoare ale reflexiei sale.",
-            "en": "Step back in time at this beautifully restored moated castle, and take a stroll around the tranquil exterior gardens to capture stunning photographs of the reflection in the water."
+            "en": "Step back in time at this beautifully restored moated castle, and take a stroll around the tranquil exterior gardens to capture stunning photographs of the reflection in the water.",
+            "tr": "Bu güzel restore edilmiş hendekli kalede zamanda yolculuk yapın ve suyun yansımasında muhteşem fotoğraflar yakalamak için dış bahçelerde huzurlu bir yürüyüş yapın."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Am Morgen erkunden Sie das historische Herz von Kalkar mit dem Fahrrad und konzentrieren sich auf die wichtigsten architektonischen Highlights im Zentrum.\nZur Mittagszeit radeln Sie aus der Stadt hinaus zum historischen Mühlenstumpf und fahren dann zügig weiter zum wunderschönen Wisseler See.\nDer Nachmittag bietet eine abenteuerliche Fahrt zum einzigartigen Wunderland Kalkar, dessen imposante Silhouette schon von weitem sichtbar ist.\nAm Abend erwartet Sie eine malerische Radtour zur ruhigen Burg Boetzelaer, um vor der Rückfahrt die herrliche Abendstimmung einzufangen.",
         "hu": "Reggel kerékpárral gyorsan felfedezi Kalkar városközpontját, a legfontosabb építészeti látványosságokra és a középkori hangulatra összpontosítva.\nDélben kiteker a városból a történelmi malomromhoz, majd folytatja útját a gyönyörű Wissel-tó partjára, ahol megpihenhet.\nDélután izgalmas út várja a különleges Wunderland Kalkar felé, melynek impozáns sziluettje már messziről jól látható az úton.\nEste egy festői, hosszabb kerékpározás következik a békés Boetzelaer Várhoz, hogy elcsípje a naplementét a visszaindulás előtt.",
         "ro": "Dimineața faceți o explorare rapidă pe bicicletă a centrului orașului Kalkar, concentrându-vă pe principalele atracții arhitecturale din zona veche.\nLa prânz ieșiți din oraș cu bicicleta spre ruinele istoricei mori și apoi mai departe spre frumosul și relaxantul Lac Wissel.\nDupă-amiaza vă aduce o plimbare aventuroasă către ineditul Wunderland Kalkar, văzându-i silueta impunătoare de la mare distanță.\nSeara, vă bucurați de o lungă și pitorească plimbare cu bicicleta spre seninul Castel Boetzelaer pentru a prinde apusul înainte de întoarcere.",
-        "en": "Your morning begins with a quick, breezy exploration of Kalkar's town center, focusing on the main architectural highlights on two wheels.\nBy midday, cycle just outside the city bounds to the historic Mühlenstumpf, and then onwards to relax by the beautiful Wisseler See.\nThe afternoon turns into an adventurous ride towards the unique Wunderland Kalkar, seeing its imposing silhouette from afar.\nYour evening is reserved for a long, scenic cycle to the serene Burg Boetzelaer to catch the magical sunset reflections before heading back."
+        "en": "Your morning begins with a quick, breezy exploration of Kalkar's town center, focusing on the main architectural highlights on two wheels.\nBy midday, cycle just outside the city bounds to the historic Mühlenstumpf, and then onwards to relax by the beautiful Wisseler See.\nThe afternoon turns into an adventurous ride towards the unique Wunderland Kalkar, seeing its imposing silhouette from afar.\nYour evening is reserved for a long, scenic cycle to the serene Burg Boetzelaer to catch the magical sunset reflections before heading back.",
+        "tr": "Sabahınız Kalkar'ın kent merkezinde hızlı, ferah bir keşifle başlar; iki teker üzerinde ana mimari vurgulara odaklanın.\nÖğlene doğru, şehrin sınırlarının hemen dışına pedal çevirip tarihi Mühlenstumpf'a ulaşın, ardından güzel Wisseler See'nin kıyısında dinlenin.\nÖğleden sonra, uzaktan etkileyici siluetini görerek eşsiz Wunderland Kalkar'a doğru maceralı bir sürüşe dönüşür.\nAkşamınız, büyülü gün batımı yansımalarını yakalamak için sakin Burg Boetzelaer'e uzun, manzaralı bir bisiklet sürüşü için ayrılır ve ardından geri dönersiniz."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Ein regnerischer Radtag erfordert Vorsicht auf den Pflastersteinen des Marktplatzes. Mittags bieten Rathaus und Kirche trockene Pausenstationen. Die Fahrt zur Mühle und zum See führt über nasse Radwege; achten Sie auf verlängerte Bremswege. Nachmittags im Wunderland und an der Burg ist das Licht dramatisch, perfekt für Fotos zwischen den Regenschauern und kurzen Aufhellungen.",
             "hu": "Az esős bringás nap óvatosságot igényel a Piactér macskakövein. Délben a Városháza és a templom száraz pihenőhelyet kínál a túrához. A Malomromhoz és a Wissel-tóhoz vezető út vizes kerékpárutakon halad; ügyeljen a megnövekedett féktávolságra. Délután a Wunderland és a vár környékén drámaiak a fények, tökéletesek a fotózáshoz két zápor között.",
             "ro": "O zi de ciclism pe ploaie necesită prudență pe pavajul din piață. La prânz, Primăria și biserica oferă stații de odihnă uscate. Drumul spre moară și Lacul Wissel trece pe piste umede; atenție la distanța de frânare. După-amiaza, la Wunderland și castel, luminile sunt dramatice, perfecte pentru fotografii între aversele de ploaie.",
-            "en": "A rainy cycling day requires caution on the cobblestones of Market Square. At noon, the Town Hall and church offer dry resting spots. The ride to the mill and Wisseler See follows wet bike paths; mind your increased braking distance. In the afternoon, the light around Wunderland and the castle is dramatic, perfect for photos between rain showers."
+            "en": "A rainy cycling day requires caution on the cobblestones of Market Square. At noon, the Town Hall and church offer dry resting spots. The ride to the mill and Wisseler See follows wet bike paths; mind your increased braking distance. In the afternoon, the light around Wunderland and the castle is dramatic, perfect for photos between rain showers.",
+            "tr": "Yağmurlu bir bisiklet günü, Market Square'in parke taşlarında dikkat gerektirir. Öğlen Town Hall ve kilise kuru dinlenme alanları sunar. Değirmene ve Wisseler See'ye giden yol ıslak bisiklet yollarını takip eder; fren mesafenizin arttığını unutmayın. Öğleden sonra Wunderland ve kalenin çevresindeki ışık yağmur arasındaki fotoğraflar için dramatiktir."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Marktplatz",
                 "hu": "Piactér",
                 "ro": "Piața de chihlimbar",
-                "en": "Market Square"
+                "en": "Market Square",
+                "tr": "Marktplatz"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf das rutschige Kopfsteinpflaster; parken Sie Ihr Rad unter einem Vordach, um die Fassaden in Ruhe trocken zu bewundern.",
                 "hu": "Vigyázzon a csúszós macskakövekre; parkoljon le egy előtető alatt, hogy nyugodtan, szárazon csodálhassa meg a történelmi homlokzatokat.",
                 "ro": "Atenție la pavajul alunecos; parcați bicicleta sub o streașină pentru a admira fațadele în liniște fără a vă uda prea tare.",
-                "en": "Watch out for slippery cobblestones; park your bike under a canopy to admire the historical facades peacefully while staying dry."
+                "en": "Watch out for slippery cobblestones; park your bike under a canopy to admire the historical facades peacefully while staying dry.",
+                "tr": "Kaygan parke taşlarına dikkat edin; bisikletinizi bir sundurmanın altına park ederek tarihi cepheleri rahatsız edilmeden ve kuru kalarak izleyin."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Historisches Rathaus",
                 "hu": "Történelmi Városháza",
                 "ro": "Primăria Istorică",
-                "en": "Historic Town Hall"
+                "en": "Historic Town Hall",
+                "tr": "Historisches Rathaus"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Innenbesuch für eine längere Pause vom Regen und lassen Sie Ihre Regenbekleidung im Eingangsbereich kurz abtropfen.",
                 "hu": "Használja ki a belső látogatást egy hosszabb esőpihenőre, és hagyja a vízálló ruházatát a bejáratnál egy kicsit lecsepegni.",
                 "ro": "Folosiți vizita în interior pentru o pauză mai lungă de ploaie și lăsați pelerina la intrare pentru a se scurge de apă.",
-                "en": "Use the indoor visit for a longer break from the rain and let your waterproof gear drip dry briefly in the entrance area."
+                "en": "Use the indoor visit for a longer break from the rain and let your waterproof gear drip dry briefly in the entrance area.",
+                "tr": "İç mekân ziyareti yağmurdan daha uzun bir mola vermek için kullanılabilir; su geçirmez donanımınızı giriş bölümünde kısa süre kurumaya bırakın."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "St. Nicolai Kirche",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sf. Nicolae",
-                "en": "St. Nicolai Church"
+                "en": "St. Nicolai Church",
+                "tr": "St. Nicolai Kirche"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um das Rad sicher abzustellen und die Ruhe des gotischen Innenraums fernab der nassen, grauen Straßen zu genießen.",
                 "hu": "Ideális hely a kerékpár biztonságos leállítására, miközben élvezi a gótikus belső tér nyugalmát, távol a vizes, szürke utcáktól.",
                 "ro": "Un loc ideal pentru a lăsa bicicleta în siguranță și pentru a vă bucura de liniștea interiorului gotic, departe de străzile ude.",
-                "en": "An ideal spot to safely park your bike and enjoy the tranquility of the Gothic interior away from the wet, grey streets."
+                "en": "An ideal spot to safely park your bike and enjoy the tranquility of the Gothic interior away from the wet, grey streets.",
+                "tr": "Bisikletinizi güvenle park edip Gotik iç mekânın huzurunun tadını çıkarmak için ideal bir nokta; dışarıdaki ıslak, gri sokaklardan uzak kalın."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Mühlenstumpf",
                 "hu": "Malomrom",
                 "ro": "Ruina Morii",
-                "en": "Mühlenstumpf"
+                "en": "Mühlenstumpf",
+                "tr": "Mühlenstumpf"
               },
               "tip_5lang": {
                 "de": "Die Radwege hierher können Pfützen bilden; tragen Sie Schutzbleche an Ihrem Fahrrad, um trocken am Malomrom anzukommen.",
                 "hu": "Az idevezető úton tócsák alakulhatnak ki; használjon sárvédőt a kerékpárján, hogy szárazon érkezzen meg a történelmi Malomromhoz.",
                 "ro": "Pistele spre moară pot avea bălți; folosiți apărători la bicicletă pentru a ajunge uscat la ruinele istorice ale morii.",
-                "en": "The bike paths here can form puddles; use mudguards on your bike to arrive dry at the historic mill ruins site."
+                "en": "The bike paths here can form puddles; use mudguards on your bike to arrive dry at the historic mill ruins site.",
+                "tr": "Buradaki bisiklet yollarında su birikintileri oluşabilir; tarihe ait değirmen kalıntılarına kuru varmak için bisikletinize çamurluk takın."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Wisseler See",
                 "hu": "Wissel-tó",
                 "ro": "Lacul Wissel",
-                "en": "Wisseler See"
+                "en": "Wisseler See",
+                "tr": "Wisseler See"
               },
               "tip_5lang": {
                 "de": "Der See wirkt bei Regen melancholisch schön; suchen Sie Schutz in einem der Restaurants für einen heißen Kakao oder Tee.",
                 "hu": "A tó esőben melankolikusan szép; keressen menedéket a tóparti éttermek egyikében egy forró kakaó vagy tea mellett.",
                 "ro": "Lacul pare melancolic și frumos pe ploaie; căutați adăpost într-unul dintre restaurante pentru o ciocolată caldă sau un ceai.",
-                "en": "The lake looks melancholically beautiful in the rain; seek shelter in one of the restaurants for a hot cocoa or tea."
+                "en": "The lake looks melancholically beautiful in the rain; seek shelter in one of the restaurants for a hot cocoa or tea.",
+                "tr": "Göl yağmur altında melankolik bir güzellik sunar; sıcak kakao veya çay için restoranlardan birinde sığınak arayın."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Wunderland Kalkar",
                 "hu": "Wunderland Kalkar",
                 "ro": "Wunderland Kalkar",
-                "en": "Wunderland Kalkar"
+                "en": "Wunderland Kalkar",
+                "tr": "Wunderland Kalkar"
               },
               "tip_5lang": {
                 "de": "Viele Attraktionen sind überdacht; nutzen Sie die Fahrradständer nahe der Eingänge, um schnell ins schützende Trockene zu gelangen.",
                 "hu": "Számos látnivaló fedett; használja a bejáratokhoz közeli kerékpártárolókat, hogy gyorsan a száraz, védett területre kerülhessen.",
                 "ro": "Multe atracții sunt acoperite; folosiți rastelele de biciclete de lângă intrări pentru a ajunge rapid la adăpostul uscat.",
-                "en": "Many attractions are covered; use the bike racks near the entrances to quickly get undercover and stay dry during the visit."
+                "en": "Many attractions are covered; use the bike racks near the entrances to quickly get undercover and stay dry during the visit.",
+                "tr": "Çok sayıda atraksiyon kapalı alanlarda; ziyaret sırasında çabucak korunmak ve kuru kalmak için girişlerin yakınındaki bisiklet park yerlerini kullanın."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Burg Boetzelaer",
                 "hu": "Boetzelaer Vár",
                 "ro": "Castelul Boetzelaer",
-                "en": "Burg Boetzelaer"
+                "en": "Burg Boetzelaer",
+                "tr": "Burg Boetzelaer"
               },
               "tip_5lang": {
                 "de": "Das Ziel der Tour belohnt mit historischer Atmosphäre; wischen Sie den Sattel vor der Rückfahrt im Regen gründlich trocken.",
                 "hu": "A túra célpontja történelmi hangulattal jutalmazza; alaposan törölje szárazra a nyerget az esőben történő visszaút megkezdése előtt.",
                 "ro": "Destinația turului vă răsplătește cu o atmosferă istorică; ștergeți bine șaua înainte de drumul de întoarcere prin ploaie.",
-                "en": "The tour's destination rewards you with a historic atmosphere; wipe your saddle dry before starting the ride back in the rain."
+                "en": "The tour's destination rewards you with a historic atmosphere; wipe your saddle dry before starting the ride back in the rain.",
+                "tr": "Turun varış noktası size tarihi bir atmosferle ödüllendirir; dönüş sürüşüne başlamadan önce eyerinizi kuru bir bezle silin."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Eine winterliche Radtour erfordert warme Handschuhe gegen den Fahrtwind. Am Marktplatz glänzt der Frost auf den Dächern. Mittags bieten das Rathaus und die Kirche willkommene Aufwärmpausen. Die Fahrt zum See und zum Wunderland ist bei klarer Luft erfrischend. Beenden Sie Ihre Tour an der Burg Boetzelaer, bevor die Dunkelheit gegen 17:00 Uhr mit frostiger Kälte einsetzt.",
             "hu": "A téli kerékpártúra Kalkarban meleg kesztyűt igényel a menetszél ellen. A Piactéren dér csillog a háztetőkön. Délben a Városháza és a templom hívogató melegedőhelyek. A tóhoz és a Wunderlandhoz vezető út frissítő a tiszta levegőben. Fejezze be a túrát a várnál, mielőtt 17:00 körül leszáll az éj a fagyos hideggel.",
             "ro": "Un tur cu bicicleta iarna necesită mănuși groase împotriva vântului. În piață, chiciura strălucește pe acoperișuri. La prânz, Primăria și biserica oferă pauze pentru încălzire. Drumul spre lac și Wunderland este revigorant. Încheiați turul la Castelul Boetzelaer înainte de întunecarea de la ora 17:00 cu gerul aferent.",
-            "en": "A winter bike tour through Kalkar requires warm gloves against the wind chill. Frost glistens on the roofs at Market Square. At noon, the Town Hall and church offer welcome warming breaks. The ride to the lake and Wunderland is refreshing. Finish your tour at Burg Boetzelaer before darkness sets in around 5 PM with frosty cold."
+            "en": "A winter bike tour through Kalkar requires warm gloves against the wind chill. Frost glistens on the roofs at Market Square. At noon, the Town Hall and church offer welcome warming breaks. The ride to the lake and Wunderland is refreshing. Finish your tour at Burg Boetzelaer before darkness sets in around 5 PM with frosty cold.",
+            "tr": "Kalkar'da kış bisiklet turu rüzgâr soğuğuna karşı sıcak eldiven gerektirir. Market Square'de çatılarda kırağı parlar. Öğlen Town Hall ve kilise hoş ısınma molaları sunar. Göl ve Wunderland'a yapılan sürüş ferahlatıcıdır. Turunuzu Burg Boetzelaer'de karanlık saat 17:00 civarında çökmeden önce bitirin; soğuk don hissedilir."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Marktplatz",
                 "hu": "Piactér",
                 "ro": "Piața de chihlimbar",
-                "en": "Market Square"
+                "en": "Market Square",
+                "tr": "Marktplatz"
               },
               "tip_5lang": {
                 "de": "Tragen Sie winddichte Kleidung; die weite Fläche des Marktplatzes kann im Winter sehr zugig und unangenehm kalt sein.",
                 "hu": "Viseljen szélálló ruházatot; a Piactér tágas tere télen nagyon huzatos és kellemetlenül hideg lehet a kerékpárosoknak.",
                 "ro": "Purtați haine rezistente la vânt; spațiul deschis al pieței poate fi foarte geros și curentat în timpul iernii aspre.",
-                "en": "Wear windproof clothing; the wide area of the Market Square can be very drafty and unpleasantly cold in the winter months."
+                "en": "Wear windproof clothing; the wide area of the Market Square can be very drafty and unpleasantly cold in the winter months.",
+                "tr": "Rüzgâra dayanıklı giysi giyin; Market Square'in geniş alanı kış aylarında çok esintili ve rahatsız edici derecede soğuk olabilir."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Historisches Rathaus",
                 "hu": "Történelmi Városháza",
                 "ro": "Primăria Istorică",
-                "en": "Historic Town Hall"
+                "en": "Historic Town Hall",
+                "tr": "Historisches Rathaus"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Besichtigung, um Ihre Finger und Zehen aufzuwärmen, bevor Sie die Fahrt durch die Winterlandschaft fortsetzen.",
                 "hu": "Használja ki a látogatást az ujjai és lábujjai felmelegítésére, mielőtt folytatná az utat a fagyos téli tájon keresztül.",
                 "ro": "Folosiți vizita pentru a vă încălzi extremitățile înainte de a continua drumul prin peisajul hibernal deosebit de frumos.",
-                "en": "Use the visit to warm up your fingers and toes before continuing your ride through the beautiful winter landscape."
+                "en": "Use the visit to warm up your fingers and toes before continuing your ride through the beautiful winter landscape.",
+                "tr": "Gezinizi sürdürecekten önce parmaklarınızı ve ayak parmaklarınızı ısıtmak için ziyareti kullanın."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "St. Nicolai Kirche",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sf. Nicolae",
-                "en": "St. Nicolai Church"
+                "en": "St. Nicolai Church",
+                "tr": "St. Nicolai Kirche"
               },
               "tip_5lang": {
                 "de": "Die Ruhe im Inneren ist ein perfekter Kontrast zum kalten Wind; bewundern Sie die Altäre in der geschützten Stille.",
                 "hu": "A belső nyugalom tökéletes kontrasztot alkot a hideg széllel; csodálja meg az oltárokat a szélvédett, csendes melegben.",
                 "ro": "Liniștea din interior este un contrast perfect cu vântul rece; admirați altarele în liniștea deplină a bisericii protejate.",
-                "en": "The peace inside is a perfect contrast to the cold wind; admire the altars in the quiet, sheltered atmosphere of the church."
+                "en": "The peace inside is a perfect contrast to the cold wind; admire the altars in the quiet, sheltered atmosphere of the church.",
+                "tr": "İçerdeki dinginlik soğuk rüzgara mükemmel bir karşıtlık sağlar; kilisenin sığınaklı atmosferinde sunaklara hayran kalın."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Mühlenstumpf",
                 "hu": "Malomrom",
                 "ro": "Ruina Morii",
-                "en": "Mühlenstumpf"
+                "en": "Mühlenstumpf",
+                "tr": "Mühlenstumpf"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen auf dem Radweg zur Mühle; ein gemäßigtes Tempo sorgt für eine sichere Ankunft am Ziel.",
                 "hu": "Ügyeljen a jeges foltokra a malomhoz vezető kerékpárúton; a mérsékelt tempó garantálja a biztonságos megérkezést a romhoz.",
                 "ro": "Atenție la porțiunile înghețate de pe pista de biciclete spre moară; un ritm moderat asigură o sosire în siguranță la destinație.",
-                "en": "Watch out for icy patches on the bike path to the mill; a moderate pace ensures a safe arrival at the historic ruins site."
+                "en": "Watch out for icy patches on the bike path to the mill; a moderate pace ensures a safe arrival at the historic ruins site.",
+                "tr": "Değirmene giden bisiklet yolunda buzlu alanlara dikkat edin; ılımlı bir hız güvenli varış sağlar."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Wisseler See",
                 "hu": "Wissel-tó",
                 "ro": "Lacul Wissel",
-                "en": "Wisseler See"
+                "en": "Wisseler See",
+                "tr": "Wisseler See"
               },
               "tip_5lang": {
                 "de": "Die gefrorene Uferlandschaft bietet tolle Fotomotive; packen Sie eine Thermoskanne mit einem Heißgetränk für die Pause ein.",
                 "hu": "A fagyos tópart nagyszerű fotótémákat kínál; csomagoljon termoszt forró itallal a pihenőhöz a jeges tóparti padon.",
                 "ro": "Peisajul înghețat de pe mal oferă motive foto grozave; luați un termos cu o băutură caldă pentru pauza de pe malul lacului.",
-                "en": "The frozen shoreline offers great photo opportunities; pack a thermos with a hot drink for your break by the icy water."
+                "en": "The frozen shoreline offers great photo opportunities; pack a thermos with a hot drink for your break by the icy water.",
+                "tr": "Donmuş kıyı harika fotoğraf fırsatları sunar; donmuş su kenarında mola için termosunuza sıcak bir içecek koyun."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Wunderland Kalkar",
                 "hu": "Wunderland Kalkar",
                 "ro": "Wunderland Kalkar",
-                "en": "Wunderland Kalkar"
+                "en": "Wunderland Kalkar",
+                "tr": "Wunderland Kalkar"
               },
               "tip_5lang": {
                 "de": "Im Winter sind die Lichterketten besonders stimmungsvoll; planen Sie Ihren Besuch so, dass Sie vor der Dämmerung da sind.",
                 "hu": "Télen a fényfüzérek különösen hangulatosak; tervezze úgy a látogatást, hogy még a szürkület beállta előtt megérkezzen a helyszínre.",
                 "ro": "Iarna, ghirlandele de lumini sunt foarte atmosferice; planificați vizita astfel încât să ajungeți înainte de lăsarea întunericului.",
-                "en": "In winter, the fairy lights are particularly atmospheric; plan your visit to arrive before the early darkness begins to fall."
+                "en": "In winter, the fairy lights are particularly atmospheric; plan your visit to arrive before the early darkness begins to fall.",
+                "tr": "Kışın peri ışıkları özellikle atmosferiktir; erken kararmadan önce varacak şekilde ziyaret planlayın."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Burg Boetzelaer",
                 "hu": "Boetzelaer Vár",
                 "ro": "Castelul Boetzelaer",
-                "en": "Burg Boetzelaer"
+                "en": "Burg Boetzelaer",
+                "tr": "Burg Boetzelaer"
               },
               "tip_5lang": {
                 "de": "Ein herrschaftlicher Abschluss im Winterlicht; sorgen Sie für gute Beleuchtung an Ihrem Fahrrad für den Heimweg im Dunkeln.",
                 "hu": "Fenséges befejezés a téli fényekben; gondoskodjon a kerékpár jó világításáról a sötétben történő hazaúthoz a vár után.",
                 "ro": "Un final grandios în lumina iernii; asigurați-vă că aveți lumini bune la bicicletă pentru drumul de întoarcere pe întuneric.",
-                "en": "A majestic conclusion in the winter light; ensure your bike has good lights for the ride home in the dark after the castle."
+                "en": "A majestic conclusion in the winter light; ensure your bike has good lights for the ride home in the dark after the castle.",
+                "tr": "Kış ışığında görkemli bir son; kaleden sonra eve dönüş sürüşü için bisikletinizin iyi ışıklara sahip olduğundan emin olun."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Marktplatz",
             "hu": "Piactér",
             "ro": "Piața de chihlimbar",
-            "en": "Market Square"
+            "en": "Market Square",
+            "tr": "Marktplatz"
           },
           "coords": [
             6.291874,
@@ -724,7 +803,8 @@
             "de": "Beginnen Sie Ihren Tag im pulsierenden Herzen der Stadt, um die historischen Fassaden zu bewundern, aber kommen Sie früh, um die friedliche Atmosphäre zu genießen.",
             "hu": "Kezdje a napot a város nyüzsgő szívében, hogy megcsodálja a történelmi homlokzatokat, de érdemes kora reggel érkezni, mielőtt a kávézók megtelnek élettel.",
             "ro": "Începeți ziua în inima vibrantă a orașului pentru a admira fațadele istorice, dar asigurați-vă că sosiți devreme dimineața pentru a evita aglomerația de la cafenele.",
-            "en": "Start your day at the vibrant heart of the city to admire the historic facades, but ensure you visit early morning to enjoy the peaceful atmosphere before the cafes fill up."
+            "en": "Start your day at the vibrant heart of the city to admire the historic facades, but ensure you visit early morning to enjoy the peaceful atmosphere before the cafes fill up.",
+            "tr": "Gününüzü şehrin canlı merkezinde tarihi cepheleri seyrederek başlatın, ancak kafeler dolmadan önce huzurlu atmosferin tadını çıkarmak için sabah erken ziyaret etmeyi unutmayın."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "St. Nicolai Kirche",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "St. Nicolai Church"
+            "en": "St. Nicolai Church",
+            "tr": "St. Nicolai Kirche"
           },
           "coords": [
             6.291886,
@@ -747,7 +828,8 @@
             "de": "Erkunden Sie die berühmten geschnitzten Holzaltäre, die diese Kirche zu einem regionalen Schatz machen, und bringen Sie ein Fernglas mit für die Details im Kirchenschiff.",
             "hu": "Fedezze fel a híres faragott faoltárokat, amelyek ezt a templomot regionális kinccsé teszik, és hozzon magával egy kis távcsövet a magasban lévő finom részletekhez.",
             "ro": "Explorați celebrele altare din lemn sculptat care fac din această biserică o comoară regională și aduceți un mic binoclu pentru a aprecia detaliile complicate de la înălțime.",
-            "en": "Explore the famous carved wooden altars that make this church a regional treasure, and bring a small pair of binoculars to appreciate the intricate details high up in the nave."
+            "en": "Explore the famous carved wooden altars that make this church a regional treasure, and bring a small pair of binoculars to appreciate the intricate details high up in the nave.",
+            "tr": "Bu kiliseyi bölgesel bir hazine yapan ünlü oyma ahşap sunakları keşfedin ve nefin yükseklerindeki ayrıntıları takdir etmek için küçük bir dürbün getirmenizi öneririz."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Wunderland Kalkar",
             "hu": "Wunderland Kalkar",
             "ro": "Wunderland Kalkar",
-            "en": "Wunderland Kalkar"
+            "en": "Wunderland Kalkar",
+            "tr": "Wunderland Kalkar"
           },
           "coords": [
             6.32611,
@@ -770,7 +853,8 @@
             "de": "Erleben Sie die einzigartige Verwandlung eines nie genutzten Kernkraftwerks in einen Freizeitpark und fahren Sie unbedingt mit dem Kettenkarussell direkt im Kühlturm.",
             "hu": "Tapasztalja meg egy soha nem használt atomerőmű vidámparkká történő egyedi átalakulását, és mindenképpen próbálja ki a hatalmas hűtőtorony belsejében található körhintát.",
             "ro": "Experimentați transformarea unică a unei centrale nucleare nefolosite într-un parc de distracții și asigurați-vă că vă dați în caruselul situat chiar în interiorul turnului de răcire.",
-            "en": "Experience the unique transformation of a never-used nuclear power plant into an amusement park, and make sure to ride the swing carousel located right inside the massive cooling tower."
+            "en": "Experience the unique transformation of a never-used nuclear power plant into an amusement park, and make sure to ride the swing carousel located right inside the massive cooling tower.",
+            "tr": "Hiç kullanılmamış bir nükleer santralin eğlence parkına dönüşümünü deneyimleyin ve dev soğutma kulesinin tam içinde bulunan salıncaklı atlıkarıncaya binmeyi unutmayın."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Wisseler Dünen",
             "hu": "Wissel-dűnék",
             "ro": "Dunele Wissel",
-            "en": "Wisseler Dünen"
+            "en": "Wisseler Dünen",
+            "tr": "Wisseler Dünen"
           },
           "coords": [
             6.301088,
@@ -793,7 +878,8 @@
             "de": "Wandern Sie durch diese seltenen Binnendünen, die eine überraschende Sandlandschaft bieten, und tragen Sie feste Wanderschuhe, da die wechselnden Pfade herausfordernd sein können.",
             "hu": "Barangoljon ezeken a ritka szárazföldi dűnéken, amelyek meglepő homokos tájat kínálnak, és viseljen masszív túracipőt, mivel a változó ösvények meglehetősen kihívást jelenthetnek.",
             "ro": "Plimbați-vă prin aceste dune de nisip interioare rare, care oferă un peisaj surprinzător, și purtați pantofi rezistenți la mers, deoarece traseele pot fi destul de solicitante.",
-            "en": "Wander through these rare inland dunes which offer a surprising sandy landscape, and wear sturdy walking shoes as the shifting trails can be quite challenging for casual strolls."
+            "en": "Wander through these rare inland dunes which offer a surprising sandy landscape, and wear sturdy walking shoes as the shifting trails can be quite challenging for casual strolls.",
+            "tr": "Sürprizli kumlu bir manzara sunan bu nadir iç kumullarda gezin; kaygan patikalar gündelik yürüyüşler için zorlayıcı olabileceğinden sağlam yürüyüş ayakkabıları giyin."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Wisseler See",
             "hu": "Wissel-tó",
             "ro": "Lacul Wissel",
-            "en": "Wisseler See"
+            "en": "Wisseler See",
+            "tr": "Wisseler See"
           },
           "coords": [
             6.292088,
@@ -816,7 +903,8 @@
             "de": "Genießen Sie das ruhige Wasser an diesem wunderschönen lokalen See und überlegen Sie, für eine Stunde ein Tretboot zu mieten, um die malerische Küste vom Wasser aus zu sehen.",
             "hu": "Élvezze a nyugodt vizeket és a szabadidős lehetőségeket ezen a gyönyörű helyi tavon, és érdemes egy órára vízibiciklit bérelni, hogy a festői partvonalat új szemszögből lássa.",
             "ro": "Bucurați-vă de apele calme și de oportunitățile de recreere de la acest frumos lac local și luați în considerare închirierea unei hidrobiciclete pentru a vedea țărmul din larg.",
-            "en": "Enjoy the calm waters and recreational opportunities at this beautiful local lake, and consider renting a pedal boat for an hour to see the scenic shoreline from a new perspective."
+            "en": "Enjoy the calm waters and recreational opportunities at this beautiful local lake, and consider renting a pedal boat for an hour to see the scenic shoreline from a new perspective.",
+            "tr": "Bu güzel yerel gölde sakin suların ve rekreasyon olanaklarının tadını çıkarın; manzaralı kıyıyı yeni bir açıdan görmek için bir saatliğine pedal bot kiralamayı düşünebilirsiniz."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Burg Boetzelaer",
             "hu": "Boetzelaer Vár",
             "ro": "Castelul Boetzelaer",
-            "en": "Burg Boetzelaer"
+            "en": "Burg Boetzelaer",
+            "tr": "Burg Boetzelaer"
           },
           "coords": [
             6.348053,
@@ -839,7 +928,8 @@
             "de": "Machen Sie eine Zeitreise in dieser wunderschön restaurierten Wasserburg und spazieren Sie durch die ruhigen Außengärten, um atemberaubende Fotos der Reflexion im Wasser zu machen.",
             "hu": "Lépjen vissza az időben ennél a gyönyörűen felújított vízivárnál, és sétáljon egyet a nyugodt külső kertekben, hogy lenyűgöző fényképeket készítsen a vízi tükröződésről.",
             "ro": "Întoarceți-vă în timp la acest castel cu șanț frumos restaurat și faceți o plimbare prin grădinile exterioare liniștite pentru a surprinde fotografii uimitoare ale reflexiei sale.",
-            "en": "Step back in time at this beautifully restored moated castle, and take a stroll around the tranquil exterior gardens to capture stunning photographs of the reflection in the water."
+            "en": "Step back in time at this beautifully restored moated castle, and take a stroll around the tranquil exterior gardens to capture stunning photographs of the reflection in the water.",
+            "tr": "Bu güzel restore edilmiş hendekli kalede zamanda yolculuk yapın ve suyun yansımasında muhteşem fotoğraflar yakalamak için dış bahçelerde huzurlu bir yürüyüş yapın."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Botzelaer Meer",
             "hu": "Botzelaer-tó",
             "ro": "Marea Botzelaer",
-            "en": "Botzelaer Meer"
+            "en": "Botzelaer Meer",
+            "tr": "Botzelaer Meer"
           },
           "coords": [
             6.355294,
@@ -862,7 +953,8 @@
             "de": "Beobachten Sie die lebhafte lokale Vogelwelt an diesem friedlichen Naturschutzsee und bringen Sie in den Sommermonaten Mückenschutzmittel mit, um die Natur ungestört zu genießen.",
             "hu": "Figyelje meg a nyüzsgő helyi madárvilágot ennél a békés természetvédelmi tónál, és hozzon magával szúnyogriasztót a nyári hónapokban, hogy kényelmesen élvezhesse a látványt.",
             "ro": "Urmăriți avifauna locală vibrantă la acest lac de rezervație naturală liniștit și aduceți un repelent de țânțari în timpul verii pentru a vă bucura de observarea naturii.",
-            "en": "Watch the vibrant local birdlife at this peaceful natural reserve lake, and bring mosquito repellent during the summer months to enjoy your nature observation comfortably."
+            "en": "Watch the vibrant local birdlife at this peaceful natural reserve lake, and bring mosquito repellent during the summer months to enjoy your nature observation comfortably.",
+            "tr": "Bu huzurlu doğal koruma gölünde canlı yerel kuş hayatını izleyin; yaz aylarında doğa gözleminizi konforlu geçirmek için sinek kovucu getirin."
           }
         }
       ],
@@ -870,7 +962,8 @@
         "de": "Der Morgen bietet einen effizienten Besuch im kompakten Herzen von Kalkar, bevor Sie mit dem Auto zum spektakulären und einzigartigen Wunderland aufbrechen.\nZur Mittagszeit machen Sie eine kurze Fahrt zur natürlichen Seite der Region und erkunden die überraschenden Wisseler Dünen und den nahegelegenen See.\nAm Nachmittag gleiten Sie bequem durch die ländliche Umgebung, um die wunderschön restaurierte Anlage von Burg Boetzelaer zu erreichen.\nDer Abend endet mit einem entspannenden Halt am Botzelaer Meer, wo Sie in Ruhe die reiche Geschichte und unberührte Natur der Region reflektieren können.",
         "hu": "A reggel egy hatékony városnézéssel indul Kalkar szívében, mielőtt autóval a látványos és egyedülálló Wunderland vidámpark felé veszi az irányt.\nDélben egy rövid autózással a régió természetesebb arca felé fordul, felfedezve a meglepő Wissel-dűnéket és a közeli tavat.\nDélután kényelmesen utazhat a vidéki utakon, hogy elérje a gyönyörűen felújított, történelmi atmoszférájú Boetzelaer Várat.\nAz este egy pihentető megállóval zárul a Botzelaer-tó partján, ahol csendben visszagondolhat a régió gazdag történelmére és csodás természetére.",
         "ro": "Dimineața oferă o vizită eficientă în inima compactă a orașului Kalkar, înainte de a porni cu mașina spre spectaculosul și ineditul parc Wunderland.\nLa prânz, faceți o scurtă călătorie spre latura naturală a regiunii, explorând surprinzătoarele dune Wissel și lacul din imediata apropiere.\nDupă-amiaza conduceți confortabil prin peisajul rural pentru a ajunge la castelul frumos restaurat, Burg Boetzelaer.\nSeara se încheie cu o oprire relaxantă la Botzelaer Meer, reflectând în liniște asupra istoriei bogate și a naturii nealterate din această regiune.",
-        "en": "Your morning allows for an efficient and rewarding visit to the heart of Kalkar before hitting the road to the spectacular Wunderland amusement park.\nBy midday, take a very short drive to the natural side of the region, exploring the surprising landscape of the Wisseler Dünen and Lake.\nThe afternoon lets you cruise comfortably through the calm countryside to reach the beautifully restored historic grounds of Burg Boetzelaer.\nYour evening ends perfectly with a relaxing stop at Botzelaer Meer, reflecting on the region's rich combination of history and serene nature."
+        "en": "Your morning allows for an efficient and rewarding visit to the heart of Kalkar before hitting the road to the spectacular Wunderland amusement park.\nBy midday, take a very short drive to the natural side of the region, exploring the surprising landscape of the Wisseler Dünen and Lake.\nThe afternoon lets you cruise comfortably through the calm countryside to reach the beautifully restored historic grounds of Burg Boetzelaer.\nYour evening ends perfectly with a relaxing stop at Botzelaer Meer, reflecting on the region's rich combination of history and serene nature.",
+        "tr": "Sabahınız, muhteşem Wunderland eğlence parkına gitmeden önce Kalkar'ın kalbinde verimli ve ödüllendirici bir ziyaret yapmanıza olanak tanır.\nÖğlene doğru, bölgenin doğal tarafına çok kısa bir sürüş yaparak Wisseler Dünenlerinin ve gölün şaşırtıcı manzarasını keşfedin.\nÖğleden sonra, sakin kırsal alanlarda rahatça dolaşıp güzelce restore edilmiş Burg Boetzelaer'ın tarihi alanlarına ulaşmanızı sağlar.\nAkşamınız, bölgenin tarih ve huzurlu doğanın zengin birleşimini düşünerek Botzelaer Meer'de rahatlatıcı bir mola ile mükemmel şekilde sona erer."
       },
       "variants": {
         "rainy": {
@@ -878,7 +971,8 @@
             "de": "Ein regnerischer Tag in Kalkar lässt sich komfortabel mit dem Auto erkunden. Starten Sie am Marktplatz und flüchten Sie in die Kirche St. Nicolai. Das Wunderland bietet viele überdachte Bereiche. Die Fahrt zu den Dünen und zum See ist trotz Regen reizvoll, da man sich im Auto aufwärmen kann. Der Tag endet gemütlich an der Burg Boetzelaer und dem See bei einer entspannten Pause.",
             "hu": "Kalkar esős napjait kényelmesen felfedezheti autóval. Kezdjen a Piactéren, majd meneküljön a Szent Miklós-templom védelmébe. A Wunderland számos fedett résszel várja. A dűnék és a tó látványa esőben is lenyűgöző az autó ablakából. A nap a Boetzelaer Várnál és a tónál zárul egy kellemes, esőmentes pihenővel.",
             "ro": "O zi ploioasă în Kalkar poate fi explorată confortabil cu mașina. Începeți în piață și adăpostiți-vă în Biserica Sf. Nicolae. Wunderland oferă multe zone acoperite. Drumul spre dune și lac este atractiv chiar și pe ploaie din interiorul vehiculului. Ziua se încheie plăcut la Castelul Boetzelaer și lacul din apropiere.",
-            "en": "A rainy day in Kalkar can be explored comfortably by car. Start at the Market Square and take refuge in St. Nicolai Church. Wunderland offers many covered areas to enjoy. The drive to the dunes and lake is charming even in the rain from inside the car. The day ends cozily at Burg Boetzelaer and the lake with a relaxed break."
+            "en": "A rainy day in Kalkar can be explored comfortably by car. Start at the Market Square and take refuge in St. Nicolai Church. Wunderland offers many covered areas to enjoy. The drive to the dunes and lake is charming even in the rain from inside the car. The day ends cozily at Burg Boetzelaer and the lake with a relaxed break.",
+            "tr": "Kalkar'da yağmurlu bir gün arabayla rahatça keşfedilebilir. Market Square'te başlayın ve St. Nicolai Kirche'de sığınak bulun. Wunderland birçok kapalı alan sunar. Kumullar ve göle yapılan sürüş, arabadan yağmur altında bile çekicidir. Gün, Burg Boetzelaer ve gölde sakin bir mola ile rahatça sona erer."
           },
           "stops": [
             {
@@ -886,13 +980,15 @@
                 "de": "Marktplatz",
                 "hu": "Piactér",
                 "ro": "Piața de chihlimbar",
-                "en": "Market Square"
+                "en": "Market Square",
+                "tr": "Marktplatz"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie Parkplätze nah am Zentrum, um die historischen Gebäude mit nur kurzen Sprints durch den Regen trocken zu erreichen.",
                 "hu": "Használja a központhoz közeli parkolókat, hogy csak rövid sprinteket kelljen megtennie az esőben a történelmi épületek eléréséig.",
                 "ro": "Folosiți parcările din apropierea centrului pentru a ajunge la clădirile istorice cu doar câteva sprinturi prin ploaie.",
-                "en": "Use the parking lots near the center to reach the historical buildings with only short sprints through the rain to stay dry."
+                "en": "Use the parking lots near the center to reach the historical buildings with only short sprints through the rain to stay dry.",
+                "tr": "Merkeze yakın otoparkları kullanarak tarihi binalara kısa koşularla ulaşın ve kuru kalın."
               }
             },
             {
@@ -900,13 +996,15 @@
                 "de": "St. Nicolai Kirche",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sf. Nicolae",
-                "en": "St. Nicolai Church"
+                "en": "St. Nicolai Church",
+                "tr": "St. Nicolai Kirche"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Regenschirm im Auto, wenn Sie nah parken, und genießen Sie die trocken-warme Atmosphäre der gotischen Kirche.",
                 "hu": "Hagyja az esernyőt az autóban, ha közvetlenül a közelben parkol, és élvezze a gótikus templom száraz és méltóságteljes belső terét.",
                 "ro": "Lăsați umbrela în mașină dacă parcați aproape și bucurați-vă de atmosfera caldă și uscată a bisericii gotice istorice.",
-                "en": "Leave your umbrella in the car if you park nearby and enjoy the dry, dignified atmosphere of the historic Gothic church."
+                "en": "Leave your umbrella in the car if you park nearby and enjoy the dry, dignified atmosphere of the historic Gothic church.",
+                "tr": "Yakınlara park ederseniz şemsiyenizi arabada bırakın ve tarihi Gotik kilisenin kuru, saygılı atmosferinin tadını çıkarın."
               }
             },
             {
@@ -914,13 +1012,15 @@
                 "de": "Wunderland Kalkar",
                 "hu": "Wunderland Kalkar",
                 "ro": "Wunderland Kalkar",
-                "en": "Wunderland Kalkar"
+                "en": "Wunderland Kalkar",
+                "tr": "Wunderland Kalkar"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf befestigten Flächen; das Wunderland bietet viele Indoor-Attraktionen, perfekt für einen verregneten Vormittag.",
                 "hu": "Parkoljon a szilárd burkolatú helyeken; a Wunderland számos fedett attrakciót kínál, melyek tökéletesek egy esős délelőtti programhoz.",
                 "ro": "Parcați pe suprafețele pavate; Wunderland oferă multe atracții interioare, perfecte pentru o dimineață cu vreme ploioasă.",
-                "en": "Park on the paved areas; Wunderland offers many indoor attractions that are perfect for a rainy morning sightseeing program."
+                "en": "Park on the paved areas; Wunderland offers many indoor attractions that are perfect for a rainy morning sightseeing program.",
+                "tr": "Asfaltlanmış alanlara park edin; Wunderland yağmurlu bir sabah gezi programı için mükemmel olan birçok kapalı atraksiyon sunar."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Wisseler Dünen",
                 "hu": "Wissel-dűnék",
                 "ro": "Dunele Wissel",
-                "en": "Wisseler Dünen"
+                "en": "Wisseler Dünen",
+                "tr": "Wisseler Dünen"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Ausblick auf die Dünen bei Regen aus dem Auto oder machen Sie einen kurzen Gang mit wasserfesten Schuhen.",
                 "hu": "Élvezze a dűnék látványát az autó kényelméből, vagy tegyen egy rövid sétát a homokos ösvényeken vízálló lábbelit viselve.",
                 "ro": "Admirați peisajul dunelor pe ploaie din mașină sau faceți o scurtă plimbare folosind neapărat încălțăminte rezistentă la apă.",
-                "en": "Enjoy the view of the dunes in the rain from the car or take a short walk wearing waterproof footwear on the sandy paths."
+                "en": "Enjoy the view of the dunes in the rain from the car or take a short walk wearing waterproof footwear on the sandy paths.",
+                "tr": "Kumulların manzarasının yağmur altında arabadan tadını çıkarın veya su geçirmez ayakkabılarla kumlu patikalarda kısa bir yürüyüş yapın."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Wisseler See",
                 "hu": "Wissel-tó",
                 "ro": "Lacul Wissel",
-                "en": "Wisseler See"
+                "en": "Wisseler See",
+                "tr": "Wisseler See"
               },
               "tip_5lang": {
                 "de": "Fahren Sie zum Parkplatz am Ufer; der Blick auf den verregneten See hat durch die Scheibe eine ganz eigene, ruhige Ästhetik.",
                 "hu": "Hajtson közvetlenül a tóparti parkolóhoz; az eső áztatta tó látványa az ablakon keresztül különleges, nyugodt esztétikát nyújt a látogatónak.",
                 "ro": "Conduceți spre parcarea de pe mal; vederea lacului ploios prin parbriz are o estetică liniștitoare și aparte în această zi.",
-                "en": "Drive to the lakeside parking lot; the view of the rainy lake through the window has its own calm aesthetic for the visitor."
+                "en": "Drive to the lakeside parking lot; the view of the rainy lake through the window has its own calm aesthetic for the visitor.",
+                "tr": "Göl kenarındaki otoparka gidin; pencereden görülen yağmurlu göl ziyaretçi için kendi sakin estetiğini sunar."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Burg Boetzelaer",
                 "hu": "Boetzelaer Vár",
                 "ro": "Castelul Boetzelaer",
-                "en": "Burg Boetzelaer"
+                "en": "Burg Boetzelaer",
+                "tr": "Burg Boetzelaer"
               },
               "tip_5lang": {
                 "de": "Das massive Mauerwerk schützt vor Wind; ein idealer Ort für eine Kaffeepause, während es draußen ununterbrochen regnet.",
                 "hu": "A masszív falak védenek a széltől; ideális hely egy kávészünetre a várban, miközben kint szakadatlanul esik az eső.",
                 "ro": "Zidurile masive vă protejează de vânt; un loc ideal pentru o pauză de cafea în timp ce afară plouă continuu peste castel.",
-                "en": "The massive masonry protects you from the wind; an ideal spot for a coffee break while it rains continuously outside the castle."
+                "en": "The massive masonry protects you from the wind; an ideal spot for a coffee break while it rains continuously outside the castle.",
+                "tr": "Massif taş duvarlar rüzgârdan korur; dışarıda sürekli yağmur yağarken kahve molası için ideal bir noktadır."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Botzelaer Meer",
                 "hu": "Botzelaer-tó",
                 "ro": "Marea Botzelaer",
-                "en": "Botzelaer Meer"
+                "en": "Botzelaer Meer",
+                "tr": "Botzelaer Meer"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Regentropfen auf der Wasseroberfläche vom trockenen Auto aus und genießen Sie die stille Natur zum Abschluss.",
                 "hu": "Figyelje az esőcseppek táncát a víz felszínén a száraz autóból, és élvezze a csendes természetet a túra befejezéseként.",
                 "ro": "Observați picăturile de ploaie pe suprafața apei din mașina uscată și bucurați-vă de liniștea naturii la finalul acestui tur.",
-                "en": "Watch the raindrops on the water's surface from the dry car and enjoy the silent nature at the conclusion of your car tour."
+                "en": "Watch the raindrops on the water's surface from the dry car and enjoy the silent nature at the conclusion of your car tour.",
+                "tr": "Kuru arabadan su yüzeyindeki yağmur damlalarını izleyin ve araba turunuzun sonunda sessiz doğanın tadını çıkarın."
               }
             }
           ]
@@ -986,7 +1094,8 @@
             "de": "Kalkar im Winter lässt sich wunderbar mit dem Auto erfahren, während die Heizung für Wärme sorgt. Am Markt und in St. Nicolai erleben Sie historische Stille. Das Wunderland erstrahlt im Winterlicht. Die Dünen und der See bieten weite, frostige Ausblicke. Da es gegen 17:00 Uhr dunkel wird, bietet die Burg Boetzelaer einen stimmungsvollen, beleuchteten Abschluss im Frost.",
             "hu": "Kalkar télen csodásan felfedezhető autóval, miközben a fűtés meleget ad. A Piactéren és a templomban történelmi csendet tapasztalhat. A Wunderland téli fényben tündököl. A dűnék és a tó tágas, fagyos kilátást nyújtanak. Mivel 17:00 körül sötétedik, a Boetzelaer Vár hangulatos, kivilágított befejezést kínál a fagyos túra végén.",
             "ro": "Kalkar poate fi descoperit minunat cu mașina iarna, cu căldura din interior. În piață și la biserică veți simți o liniște istorică. Wunderland strălucește în lumina iernii. Dunele și lacul oferă vederi înghețate vaste. Deoarece se întunecă la 17:00, Castelul Boetzelaer oferă un final luminat plin de atmosferă în gerul iernii.",
-            "en": "Kalkar in winter is wonderful to explore by car while the heater keeps you warm. Experience historical silence at the Market Square and the church. Wunderland shines in the winter light. The dunes and lake offer wide, frosty views. Since it gets dark around 5 PM, Burg Boetzelaer provides an atmospheric, illuminated conclusion in the frost."
+            "en": "Kalkar in winter is wonderful to explore by car while the heater keeps you warm. Experience historical silence at the Market Square and the church. Wunderland shines in the winter light. The dunes and lake offer wide, frosty views. Since it gets dark around 5 PM, Burg Boetzelaer provides an atmospheric, illuminated conclusion in the frost.",
+            "tr": "Kalkar kışın arabanızla keşfetmek için harikadır; ısıtıcı sizi sıcak tutar. Market Square ve kilisede tarihi sessizliği deneyimleyin. Wunderland kış ışığında parlar. Kumullar ve göl geniş, kırağı kaplı manzaralar sunar. Saat 17:00 civarında karardığı için Burg Boetzelaer kırağıyla aydınlatılmış atmosferik bir son sağlar."
           },
           "stops": [
             {
@@ -994,13 +1103,15 @@
                 "de": "Marktplatz",
                 "hu": "Piactér",
                 "ro": "Piața de chihlimbar",
-                "en": "Market Square"
+                "en": "Market Square",
+                "tr": "Marktplatz"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Glatteis in den Gassen; nutzen Sie die kurzen Wege vom Auto zu den Sehenswürdigkeiten, um draußen nicht auszukühlen.",
                 "hu": "Ügyeljen a jegesedésre a szűk utcákban; használja ki az autó és a látnivalók közötti rövid távolságot, hogy ne fázzon meg a szabadban.",
                 "ro": "Atenție la polei pe străzile înguste; profitați de distanțele scurte de la mașină la obiective pentru a nu vă răci în aerul geros.",
-                "en": "Watch out for black ice in the narrow streets; take advantage of the short walks from the car to the sights to stay warm outside."
+                "en": "Watch out for black ice in the narrow streets; take advantage of the short walks from the car to the sights to stay warm outside.",
+                "tr": "Dar sokaklarda siyah buzlanmaya dikkat edin; dışarıda kalmak için cazibe noktalarına arabadan kısa yürüyüşler yapın."
               }
             },
             {
@@ -1008,13 +1119,15 @@
                 "de": "St. Nicolai Kirche",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sf. Nicolae",
-                "en": "St. Nicolai Church"
+                "en": "St. Nicolai Church",
+                "tr": "St. Nicolai Kirche"
               },
               "tip_5lang": {
                 "de": "Die Kirche ist ein wunderbarer Ort der Einkehr; genießen Sie die winterliche Stille und die Altäre im geschützten, weiten Raum.",
                 "hu": "A templom a nyugalom szigete; élvezze a téli csendet és a művészi oltárokat a szélvédett, fenséges és tágas belső térben.",
                 "ro": "Biserica este un loc minunat de reculegere; bucurați-vă de liniștea iernii și de altarele artistice în spațiul protejat și vast.",
-                "en": "The church is a wonderful place for reflection; enjoy the winter silence and the artistic altars in the sheltered, vast interior space."
+                "en": "The church is a wonderful place for reflection; enjoy the winter silence and the artistic altars in the sheltered, vast interior space.",
+                "tr": "Kilise, düşünmek için harika bir yerdir; kış sessizliğinin ve sığıntılı, geniş iç mekanın sunduğu sanatsal sunakların tadını çıkarın."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Wunderland Kalkar",
                 "hu": "Wunderland Kalkar",
                 "ro": "Wunderland Kalkar",
-                "en": "Wunderland Kalkar"
+                "en": "Wunderland Kalkar",
+                "tr": "Wunderland Kalkar"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Gelände am Vormittag, um das Beste aus dem kurzen Tageslicht zu machen und die winterlichen Dekorationen zu sehen.",
                 "hu": "Látogasson el a területre délelőtt, hogy a legtöbbet hozza ki a rövid nappali fényből, és megcsodálja a szép téli dekorációkat.",
                 "ro": "Vizitați locația dimineața pentru a profita la maximum de lumina scurtă a zilei și pentru a vedea decorațiunile de iarnă din incintă.",
-                "en": "Visit the grounds in the morning to make the most of the short daylight and see the beautiful winter decorations throughout the area."
+                "en": "Visit the grounds in the morning to make the most of the short daylight and see the beautiful winter decorations throughout the area.",
+                "tr": "Kısa gündüz ışığından en iyi şekilde yararlanmak ve alandaki güzel kış süslemelerini görmek için sabah saatlerinde alanı ziyaret edin."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Wisseler Dünen",
                 "hu": "Wissel-dűnék",
                 "ro": "Dunele Wissel",
-                "en": "Wisseler Dünen"
+                "en": "Wisseler Dünen",
+                "tr": "Wisseler Dünen"
               },
               "tip_5lang": {
                 "de": "Die Dünenlandschaft wirkt mit Frost überzogen verzaubert; ein kurzer Fotostopp lohnt sich auch bei sehr kalten Temperaturen.",
                 "hu": "A dűnék látványa dérrel borítva egészen varázslatos; egy rövid fotómegálló a hidegben is megéri a lenyűgöző panoráma miatt.",
                 "ro": "Peisajul dunelor acoperit de chiciură pare fermecat; o scurtă oprire pentru fotografii merită chiar și la temperaturi foarte scăzute.",
-                "en": "The dune landscape looks enchanted when covered in frost; a short photo stop is worth it even in very cold winter temperatures."
+                "en": "The dune landscape looks enchanted when covered in frost; a short photo stop is worth it even in very cold winter temperatures.",
+                "tr": "Kumul manzarası donla kaplandığında büyülü görünür; çok soğuk kış sıcaklıklarında bile kısa bir fotoğraf molası buna değer."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Wisseler See",
                 "hu": "Wissel-tó",
                 "ro": "Lacul Wissel",
-                "en": "Wisseler See"
+                "en": "Wisseler See",
+                "tr": "Wisseler See"
               },
               "tip_5lang": {
                 "de": "Die weite Wasserfläche reflektiert das klare Winterlicht; bleiben Sie im warmen Auto und genießen Sie den friedlichen Ausblick ufernah.",
                 "hu": "A hatalmas vízfelület visszaveri a tiszta téli fényt; maradjon a meleg autóban, és élvezze a békés kilátást közvetlenül a tóparton.",
                 "ro": "Suprafața vastă a apei reflectă lumina clară a iernii; rămâneți în mașina caldă și bucurați-vă de priveliștea liniștită de pe mal.",
-                "en": "The vast water surface reflects the clear winter light; stay in the warm car and enjoy the peaceful view directly by the shoreline."
+                "en": "The vast water surface reflects the clear winter light; stay in the warm car and enjoy the peaceful view directly by the shoreline.",
+                "tr": "Geniş su yüzeyi temiz kış ışığını yansıtır; sıcak arabada kalın ve kıyıdaki huzurlu manzilin tadını çıkarın."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Burg Boetzelaer",
                 "hu": "Boetzelaer Vár",
                 "ro": "Castelul Boetzelaer",
-                "en": "Burg Boetzelaer"
+                "en": "Burg Boetzelaer",
+                "tr": "Burg Boetzelaer"
               },
               "tip_5lang": {
                 "de": "Die Burg wirkt im frühen Abendlicht besonders herrschaftlich; planen Sie Ihre Ankunft vor dem Sonnenuntergang gegen 17:00 Uhr.",
                 "hu": "A vár a kora esti fényekben különösen fenséges; tervezze meg érkezését még a 17:00 óra körüli naplemente beállta előtt.",
                 "ro": "Castelul arată impunător în lumina serii; planificați sosirea înainte de apusul soarelui de la ora 17:00 pentru atmosfera deplină.",
-                "en": "The castle looks particularly majestic in the early evening light; plan your arrival before the 5 PM sunset for the full atmosphere."
+                "en": "The castle looks particularly majestic in the early evening light; plan your arrival before the 5 PM sunset for the full atmosphere.",
+                "tr": "Kale özellikle akşamüstü ışığında görkemli görünür; tam atmosfer için gelişinizi 17:00 güneş batımından önce planlayın."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Botzelaer Meer",
                 "hu": "Botzelaer-tó",
                 "ro": "Marea Botzelaer",
-                "en": "Botzelaer Meer"
+                "en": "Botzelaer Meer",
+                "tr": "Botzelaer Meer"
               },
               "tip_5lang": {
                 "de": "Ein stiller winterlicher Abschluss; genießen Sie die gefrorene Naturlandschaft vom Komfort Ihres beheizten Fahrzeugs aus zum Tagesschluss.",
                 "hu": "Csendes téli befejezés; élvezze a fagyos természeti tájat fűtött gépjárműve kényelméből a nap végén, a túra lezárásaként.",
                 "ro": "Un final de iarnă liniștit; bucurați-vă de peisajul natural înghețat din confortul vehiculului încălzit la sfârșitul acestei zile.",
-                "en": "A quiet winter conclusion; enjoy the frozen natural landscape from the comfort of your heated vehicle at the end of the day."
+                "en": "A quiet winter conclusion; enjoy the frozen natural landscape from the comfort of your heated vehicle at the end of the day.",
+                "tr": "Sessiz bir kış sonu; günün sonunda ısıtmalı aracınızın konforundan donmuş doğal manzarayı izleyin."
               }
             }
           ]

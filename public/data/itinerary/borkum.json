@@ -21,7 +21,8 @@
             "de": "Alter Leuchtturm",
             "hu": "Régi Világítótorony",
             "ro": "Vechiul Far",
-            "en": "Old Lighthouse"
+            "en": "Old Lighthouse",
+            "tr": "Eski Deniz Feneri"
           },
           "coords": [
             6.67056,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie den ältesten Leuchtturm der Insel, der einst ein Kirchturm war, und achten Sie auf die robusten Ziegelmauern, ideal für erste Fotos.",
             "hu": "Csodálja meg a sziget legrégebbi világítótornyát, amely egykor templomtorony volt, és figyelje meg a vastag téglafalakat a legjobb fotókért.",
             "ro": "Admirați cel mai vechi far al insulei, fost turn de biserică, și observați zidurile masive de cărămidă, fiind un loc ideal pentru primele fotografii.",
-            "en": "Admire the island's oldest lighthouse, once a church tower, and notice the sturdy brick walls which make a perfect backdrop for your morning photos."
+            "en": "Admire the island's oldest lighthouse, once a church tower, and notice the sturdy brick walls which make a perfect backdrop for your morning photos.",
+            "tr": "Sabah fotoğraflarınız için mükemmel bir fon oluşturan sağlam tuğla duvarlarıyla bir zamanlar kilise kulesi olan adanın en eski deniz fenerini hayranlıkla izleyin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Heimatmuseum Dykhus",
             "hu": "Dykhus Helytörténeti Múzeum",
             "ro": "Muzeul de Istorie Dykhus",
-            "en": "Dykhus History Museum"
+            "en": "Dykhus History Museum",
+            "tr": "Dykhus Tarih Müzesi"
           },
           "coords": [
             6.67112,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie die spannende maritime Geschichte Borkums durch die beeindruckenden Walfischskelette, wobei Sie am besten eine Stunde einplanen.",
             "hu": "Fedezze fel Borkum izgalmas tengerészeti történetét a lenyűgöző bálnacsontvázak révén, és szánjon legalább egy órát a részletes kiállításra.",
             "ro": "Descoperiți istoria maritimă fascinantă a insulei prin scheletele impresionante de balenă, alocând cel puțin o oră pentru a explora exponatele.",
-            "en": "Discover Borkum's fascinating maritime history through the impressive whale skeletons, making sure to allocate at least an hour to fully enjoy it."
+            "en": "Discover Borkum's fascinating maritime history through the impressive whale skeletons, making sure to allocate at least an hour to fully enjoy it.",
+            "tr": "En az bir saat ayırarak etkileyici balina iskeletleriyle Borkum'un büyüleyici denizcilik tarihini keşfedin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Neuer Leuchtturm",
             "hu": "Új Világítótorony",
             "ro": "Noul Far",
-            "en": "New Lighthouse"
+            "en": "New Lighthouse",
+            "tr": "Yeni Deniz Feneri"
           },
           "coords": [
             6.6621,
@@ -82,7 +87,8 @@
             "de": "Steigen Sie die Stufen des neuen Leuchtturms hinauf, um einen fantastischen Panoramablick über die Nordsee bei klarem Wetter zu genießen.",
             "hu": "Mássza meg az új világítótorony lépcsőit, hogy fantasztikus panorámát élvezhessen az Északi-tengerre, amit érdemes tiszta időben megtenni.",
             "ro": "Urcați treptele noului far pentru a vă bucura de o vedere panoramică fantastică asupra Mării Nordului, preferabil într-o zi senină pentru poze clare.",
-            "en": "Climb the steps of the new lighthouse to enjoy a fantastic panoramic view over the North Sea, an activity best done when the weather is clear."
+            "en": "Climb the steps of the new lighthouse to enjoy a fantastic panoramic view over the North Sea, an activity best done when the weather is clear.",
+            "tr": "Hava açık olduğunda Kuzey Denizi'ne harika bir panoramik manzara için yeni deniz fenerinin basamaklarını tırmanın."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Musikpavillon",
             "hu": "Zenei Pavilon",
             "ro": "Pavilionul de Muzică",
-            "en": "Music Pavilion"
+            "en": "Music Pavilion",
+            "tr": "Müzik Pavyonu"
           },
           "coords": [
             6.657253,
@@ -105,7 +112,8 @@
             "de": "Lauschen Sie den sanften Klängen der täglichen Kurkonzerte in diesem historischen Pavillon, wo Sie entspannt auf den bereitgestellten Bänken verweilen.",
             "hu": "Hallgassa meg a napi koncertek lágy dallamait ebben a történelmi pavilonban, ahol kényelmesen megpihenhet az odakészített padokon.",
             "ro": "Ascultați sunetele plăcute ale concertelor zilnice în acest pavilion istoric, unde vă puteți relaxa confortabil pe băncile din jurul structurii.",
-            "en": "Listen to the gentle sounds of daily spa concerts in this historic pavilion, where you can easily relax on the provided benches to rest your feet."
+            "en": "Listen to the gentle sounds of daily spa concerts in this historic pavilion, where you can easily relax on the provided benches to rest your feet.",
+            "tr": "Günlük spa konserlerinin nazik tınılarını dinleyin; dinlenmek için sağlanan banklarda kolayca rahatlayabilirsiniz."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Bewachter Badestrand",
             "hu": "Őrzött Strand",
             "ro": "Plajă Supravegheată",
-            "en": "Guarded Beach"
+            "en": "Guarded Beach",
+            "tr": "Gözetimli Plaj"
           },
           "coords": [
             6.656495,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie entlang des feinen Sandes am Strand, spüren Sie die Meeresbrise und mieten Sie sich einen typischen Strandkorb zum Entspannen.",
             "hu": "Sétáljon a finom homokban az őrzött strandon, érezze a friss tengeri szellőt, és béreljen egy tipikus strandkosarat a tökéletes kikapcsolódáshoz.",
             "ro": "Plimbați-vă pe nisipul fin al plajei supravegheate, simțiți briza proaspătă a mării și închiriați un coș de plajă tipic pentru o relaxare profundă.",
-            "en": "Walk along the fine sand of the guarded beach, feel the fresh sea breeze, and rent a typical beach chair to thoroughly relax by the water."
+            "en": "Walk along the fine sand of the guarded beach, feel the fresh sea breeze, and rent a typical beach chair to thoroughly relax by the water.",
+            "tr": "Gözetimli plajın ince kumları boyunca yürüyün, taze deniz esintisini hissedin ve su kenarında tamamen rahatlamak için tipik bir plaj sandalyesi kiralayın."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Seewasserbecken für kleine Seeleute",
             "hu": "Tengervizes Medence Kis Matrózoknak",
             "ro": "Bazin cu Apă de Mare",
-            "en": "Seawater Pool for Little Sailors"
+            "en": "Seawater Pool for Little Sailors",
+            "tr": "Küçük Denizciler için Deniz Suyu Havuzu"
           },
           "coords": [
             6.658289,
@@ -151,7 +162,8 @@
             "de": "Lassen Sie den Tag an diesem sicheren Becken ausklingen, wo kleine Matrosen gefahrlos im Meerwasser planschen und Sie den Sonnenuntergang sehen.",
             "hu": "Zárja a napot ennél a biztonságos medencénél, ahol a kis matrózok veszélytelenül pancsolhatnak a tengervízben, miközben ön a naplementét figyeli.",
             "ro": "Încheiați ziua la acest bazin sigur, unde micii marinari se pot bălăci fără grijă în apa mării în timp ce admirați apusul spectaculos.",
-            "en": "End your day at this safe children's pool, where little sailors can splash around safely in the seawater while you watch the beautiful sunset."
+            "en": "End your day at this safe children's pool, where little sailors can splash around safely in the seawater while you watch the beautiful sunset.",
+            "tr": "Gününüzü, küçük denizcilerin deniz suyunda güvenle sıçrayabileceği bu güvenli çocuk havuzunda günbatımını izleyerek bitirin."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Morgen beginnt historisch am Alten Leuchtturm und im beeindruckenden Museum Dykhus. Mittags genießen wir die weite Aussicht vom Neuen Leuchtturm und die Musik am Pavillon. Am Nachmittag lockt der feine Sand des bewachten Badestrandes zur Erholung. Den Tag lassen wir dann gemütlich am sicheren Seewasserbecken im Sonnenuntergang ausklingen.",
         "hu": "A reggelt a történelmi Régi Világítótoronynál és a Dykhus Múzeumnál kezdjük. Délben csodás kilátás nyílik az Új Világítótoronyból, majd zene vár a pavilonnál. Délután az őrzött strand finom homokja csábít pihenésre. A napot végül a tengervizes medence partján zárjuk, ahol békésen figyelhetjük a lenyűgöző naplementét a tenger felett.",
         "ro": "Dimineața începe istoric la Vechiul Far și impresionantul Muzeu Dykhus. La prânz ne bucurăm de priveliștile vaste de la Noul Far și de muzică la pavilion. După-amiaza, nisipul fin al plajei supravegheate ne invită la relaxare completă. Încheiem ziua liniștit la bazinul cu apă de mare, admirând un apus pitoresc de neuitat.",
-        "en": "The morning starts historically at the Old Lighthouse and the fascinating Dykhus Museum. Midday offers sweeping views from the New Lighthouse and relaxing tunes at the pavilion. In the afternoon, the fine sand of the guarded beach invites total relaxation. We peacefully conclude the day by the seawater pool, watching a memorable sunset unfold."
+        "en": "The morning starts historically at the Old Lighthouse and the fascinating Dykhus Museum. Midday offers sweeping views from the New Lighthouse and relaxing tunes at the pavilion. In the afternoon, the fine sand of the guarded beach invites total relaxation. We peacefully conclude the day by the seawater pool, watching a memorable sunset unfold.",
+        "tr": "Gün, Eski Deniz Feneri ve etkileyici Dykhus Müzesi'nde tarihi bir başlangıçla başlar. Öğle vakti Yeni Deniz Feneri'nden geniş manzaralar ve pavyonda dinlendirici ezgiler sunulur. Öğleden sonra gözetimli plajın ince kumu tam bir rahatlama davet eder. Günü, deniz suyu havuzunda huzur içinde oturup unutulmaz bir günbatımını izleyerek sonlandırıyoruz."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Ein regnerischer Morgen führt Sie zum historischen Leuchtturm unter grauem Himmel. Mittags bietet das Dykhus Museum trockenen Unterschlupf und tiefe Einblicke in die Walfangzeit. Nachmittags ist die frische, nasse Meeresluft am Strand belebend für Geist und Körper. Abends reflektieren die Pfützen die Lichter der Promenade, während Sie den Tag geschützt in einer Teestube ausklingen lassen.",
             "hu": "Az esős reggel a szürke égbolt alatt álló patinás világítótoronyhoz vezet. Délben a Dykhus Múzeum kínál száraz menedéket és izgalmas betekintést a bálnavadászat múltjába. Délután a friss, párás tengeri levegő a parton élénkítően hat a testre és lélekre. Este a pocsolyákban tükröződnek a sétány fényei, miközben a napot egy hangulatos, fedett teázóban zárhatod le.",
             "ro": "O dimineață ploioasă vă conduce spre farul istoric sub un cer gri plumburiu. La prânz, Muzeul Dykhus oferă un adăpost uscat și o incursiune în epoca vânătorii de balene. După-amiaza, aerul proaspăt și umed al mării pe plajă este revigorant pentru minte și corp. Seara, bălțile reflectă luminile falezei în timp ce încheiați ziua confortabil într-o ceainărie ferită de ploaie.",
-            "en": "A rainy morning leads you to the historic lighthouse standing tall under grey skies. At midday, the Dykhus Museum provides dry shelter and deep insights into the whaling era. In the afternoon, the fresh, damp sea air on the beach is invigorating for both mind and body. In the evening, the puddles reflect the promenade lights while you end the day in a cozy, sheltered tea room."
+            "en": "A rainy morning leads you to the historic lighthouse standing tall under grey skies. At midday, the Dykhus Museum provides dry shelter and deep insights into the whaling era. In the afternoon, the fresh, damp sea air on the beach is invigorating for both mind and body. In the evening, the puddles reflect the promenade lights while you end the day in a cozy, sheltered tea room.",
+            "tr": "Yağmurlu bir sabah sizi gri gökyüzü altında dimdik duran tarihi deniz fenerine götürür. Öğle vakti Dykhus Müzesi kuru bir sığınak ve balina avcılığı dönemine dair derin içgörüler sunar. Öğleden sonra sahildeki taze, nemli deniz havası beden ve zihni canlandırır. Akşamüstü ise su birikintileri promenad ışıklarını yansıtırken günü sıcak, korunaklı bir çay evinde sonlandırırsınız."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Alter Leuchtturm",
                 "hu": "Régi Világítótorony",
                 "ro": "Vechiul Far",
-                "en": "Old Lighthouse"
+                "en": "Old Lighthouse",
+                "tr": "Eski Deniz Feneri"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das Mauerwerk im Regen und nutzen Sie den Turm als markanten Orientierungspunkt; feste Schuhe verhindern das Ausrutschen auf dem nassen Kopfsteinpflaster.",
                 "hu": "Csodáld meg a téglafalakat az esőben, és használd a tornyot biztos tájékozódási pontként; a csúszós macskaköveken egy kényelmes, vízálló bakancs elengedhetetlen.",
                 "ro": "Admirați zidăria veche în ploaie și folosiți farul ca punct de reper; încălțămintea aderentă este necesară pe pavajul umed și alunecos din jurul turnului.",
-                "en": "Admire the historic brickwork in the rain and use the tower as a landmark; sturdy waterproof shoes are essential for the slippery cobblestones in the area."
+                "en": "Admire the historic brickwork in the rain and use the tower as a landmark; sturdy waterproof shoes are essential for the slippery cobblestones in the area.",
+                "tr": "Tarihi tuğla işçiliğine yağmur altında hayran kalın ve kuleyi bir işaret olarak kullanın; bölgede kaygan kaldırım taşları için sağlam su geçirmez ayakkabılar şart."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Heimatmuseum Dykhus",
                 "hu": "Dykhus Helytörténeti Múzeum",
                 "ro": "Muzeul de Istorie Dykhus",
-                "en": "Dykhus History Museum"
+                "en": "Dykhus History Museum",
+                "tr": "Dykhus Tarih Müzesi"
               },
               "tip_5lang": {
                 "de": "Das Museum ist der perfekte Ort, um dem Schietwetter zu entkommen; bestaunen Sie die riesigen Walskelette im Trockenen und nehmen Sie sich Zeit für die Exponate.",
                 "hu": "A múzeum tökéletes helyszín az eső elől való menekülésre; csodáld meg a hatalmas bálnacsontvázakat a szárazban, és szánj bőséges időt a belső kiállításokra.",
                 "ro": "Muzeul este locul perfect pentru a scăpa de vremea rea; admirați scheletele uriașe de balenă la adăpost și acordați-vă timp pentru a explora exponatele.",
-                "en": "The museum is the perfect place to escape the bad weather; marvel at the massive whale skeletons while dry and take your time to explore the indoor exhibits."
+                "en": "The museum is the perfect place to escape the bad weather; marvel at the massive whale skeletons while dry and take your time to explore the indoor exhibits.",
+                "tr": "Müze kötü havadan kaçmak için mükemmel bir yer; dev balina iskeletlerine kuru şekilde hayran kalın ve kapalı sergileri sakin sakin keşfedin."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Neuer Leuchtturm",
                 "hu": "Új Világítótorony",
                 "ro": "Noul Far",
-                "en": "New Lighthouse"
+                "en": "New Lighthouse",
+                "tr": "Yeni Deniz Feneri"
               },
               "tip_5lang": {
                 "de": "Bei Regen wirkt der Leuchtturm besonders imposant gegen den grauen Himmel; ein Ostfriesennerz hält Sie trocken, während Sie die Architektur von außen bewundern.",
                 "hu": "Esőben a torony különösen impozáns látványt nyújt a szürke égbolt előtt; egy klasszikus sárga esőkabát megvéd a víztől, miközben kívülről fotózod az épületet.",
                 "ro": "În ploaie, farul arată deosebit de impunător pe fundalul cerului gri; o pelerină impermeabilă vă va menține uscat în timp ce admirați arhitectura din exterior.",
-                "en": "In the rain, the lighthouse looks particularly imposing against the grey sky; a classic raincoat will keep you dry while you admire the architecture from outside."
+                "en": "In the rain, the lighthouse looks particularly imposing against the grey sky; a classic raincoat will keep you dry while you admire the architecture from outside.",
+                "tr": "Yağmurda deniz feneri gri gökyüzüne karşı özellikle heybetli görünür; klasik bir yağmurluk dışarıdan mimariye bakarken sizi kuru tutar."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Musikpavillon",
                 "hu": "Zenei Pavilon",
                 "ro": "Pavilionul de Muzică",
-                "en": "Music Pavilion"
+                "en": "Music Pavilion",
+                "tr": "Müzik Pavyonu"
               },
               "tip_5lang": {
                 "de": "Suchen Sie kurz Schutz unter dem Dach des Pavillons und genießen Sie den Blick auf das raue Meer; der Wind kann hier oben an der Promenade recht kräftig sein.",
                 "hu": "Keress rövid menedéket a pavilon teteje alatt, és élvezd a kilátást a viharos tengerre; a szél itt a sétányon esőben igen erőssé válhat, öltözz szélállóan.",
                 "ro": "Căutați un scurt adăpost sub acoperișul pavilionului și admirați marea agitată; vântul poate fi destul de puternic aici pe faleză, deci purtați haine rezistente.",
-                "en": "Seek brief shelter under the pavilion roof and enjoy the view of the rough sea; the wind can get quite strong here on the promenade, so wear windproof gear."
+                "en": "Seek brief shelter under the pavilion roof and enjoy the view of the rough sea; the wind can get quite strong here on the promenade, so wear windproof gear.",
+                "tr": "Pavyon çatısının altına kısa süreli sığınak arayın ve kabaran denizin manzarasının tadını çıkarın; promenadda rüzgâr oldukça kuvvetli olabilir, rüzgâra dayanıklı giysi giyin."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Bewachter Badestrand",
                 "hu": "Őrzött Strand",
                 "ro": "Plajă Supravegheată",
-                "en": "Guarded Beach"
+                "en": "Guarded Beach",
+                "tr": "Gözetimli Plaj"
               },
               "tip_5lang": {
                 "de": "Ein Strandspaziergang im Regen ist purer Wellness für die Atemwege; nutzen Sie eine der überdachten Strandburgen als windgeschützten Rückzugsort für eine Pause.",
                 "hu": "Egy tengerparti séta az esőben igazi wellness a légutaknak; pihenésképpen használj egyet a fedett strandkosarak közül, hogy szélvédett helyen maradhass.",
                 "ro": "O plimbare pe plajă în ploaie este relaxare pură pentru căile respiratorii; folosiți un coș de plajă acoperit ca refugiu protejat de vânt pentru o scurtă pauză.",
-                "en": "A beach walk in the rain is pure wellness for your respiratory system; use a covered beach chair as a wind-protected retreat for a quick break."
+                "en": "A beach walk in the rain is pure wellness for your respiratory system; use a covered beach chair as a wind-protected retreat for a quick break.",
+                "tr": "Yağmur altında plaj yürüyüşü solunum sistemi için gerçek bir wellness; hızlı bir mola için rüzgârdan korunmuş bir plaj şemsiyesi/kapalı plaj koltuğu kullanın."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Seewasserbecken für kleine Seeleute",
                 "hu": "Tengervizes Medence Kis Matrózoknak",
                 "ro": "Bazin cu Apă de Mare",
-                "en": "Seawater Pool for Little Sailors"
+                "en": "Seawater Pool for Little Sailors",
+                "tr": "Küçük Denizciler İçin Deniz Suyu Havuzu"
               },
               "tip_5lang": {
                 "de": "Kinder stören sich selten am Regen, solange sie in Pfützen springen können; Matschhosen sind hier Pflicht, um das maritime Spielareal auch nass zu genießen.",
                 "hu": "A gyerekeket ritkán zavarja az eső, amíg pocsolyákba ugorhatnak; a vízhatlan nadrág kötelező, hogy a vizes játéktéren is önfeledten szórakozhassanak.",
                 "ro": "Copiilor rareori le pasă de ploaie cât timp pot sări în bălți; pantalonii impermeabili sunt obligatorii aici pentru a se bucura de zona de joacă umedă.",
-                "en": "Children rarely mind the rain as long as they can jump in puddles; waterproof trousers are a must here to enjoy the maritime play area even when it's wet."
+                "en": "Children rarely mind the rain as long as they can jump in puddles; waterproof trousers are a must here to enjoy the maritime play area even when it's wet.",
+                "tr": "Çocuklar genellikle su birikintilerine zıpladıkları sürece yağmuru umursamazlar; denizcilik oyun alanının tadını yağmurda da çıkarmak için su geçirmez pantolon şart."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Der frostige Morgenwind weht kräftig um den Alten Leuchtturm, was dicke Kleidung unerlässlich macht. Mittags bietet das Dykhus Museum eine warme Zuflucht voller Inselgeschichte. Nachmittags taucht die tiefstehende Sonne den Strand in ein magisches Licht, bevor es früh dunkel wird. Der Abend endet bei Kerzenschein und heißem Sanddornsaft in einer gemütlichen Stube.",
             "hu": "A fagyos reggeli szél erősen fúj a Régi Világítótorony körül, így a vastag réteges öltözet elengedhetetlen. Délben a Dykhus Múzeum kínál meleg menedéket és gazdag szigettörténeti tárlatot. Délután az alacsonyan járó nap varázslatos fénybe vonja a partot a korai sötétedés előtt. Az este gyertyafény és forró homoktövislé mellett ér véget.",
             "ro": "Vântul înghețat de dimineață suflă cu putere în jurul Vechiului Far, făcând hainele groase indispensabile. La prânz, Muzeul Dykhus oferă un refugiu cald plin de istoria insulei. După-amiaza, soarele jos scaldă plaja într-o lumină magică înainte de înserarea timpurie. Seara se încheie la lumina lumânărilor cu un suc cald de cătină.",
-            "en": "The frosty morning wind blows strongly around the Old Lighthouse, making warm layers essential. At midday, the Dykhus Museum offers a warm sanctuary filled with island history. In the afternoon, the low winter sun bathes the beach in magical light before the early sunset. The evening ends by candlelight with hot sea buckthorn juice in a cozy room."
+            "en": "The frosty morning wind blows strongly around the Old Lighthouse, making warm layers essential. At midday, the Dykhus Museum offers a warm sanctuary filled with island history. In the afternoon, the low winter sun bathes the beach in magical light before the early sunset. The evening ends by candlelight with hot sea buckthorn juice in a cozy room.",
+            "tr": "Eski Deniz Feneri etrafında dondurucu sabah rüzgârı sert eser, bu yüzden sıcak katmanlar şarttır. Öğleye doğru Dykhus Müzesi ada tarihinin doldurduğu sıcak bir sığınak sunar. Öğleden sonra alçak kış güneşi gün batımından önce sahili büyülü bir ışıkla yıkar. Akşam mum ışığında sıcak deniz dutu suyu ile samimi bir odada son bulur."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Alter Leuchtturm",
                 "hu": "Régi Világítótorony",
                 "ro": "Vechiul Far",
-                "en": "Old Lighthouse"
+                "en": "Old Lighthouse",
+                "tr": "Eski Deniz Feneri"
               },
               "tip_5lang": {
                 "de": "Die Backsteine strahlen im Winterlicht eine besondere Ruhe aus; schützen Sie Ihr Gesicht mit einem Schal vor dem schneidenden Ostwind, der hier oft weht.",
                 "hu": "A téglák különös nyugalmat árasztanak a téli fényben; óvd az arcodat egy meleg sállal a metsző keleti széltől, amely itt gyakran fúj ilyenkor.",
                 "ro": "Cărămizile emană o liniște deosebită în lumina iernii; protejați-vă fața cu un fular împotriva vântului tăios de est care suflă adesea pe aici.",
-                "en": "The bricks radiate a special calm in the winter light; protect your face with a scarf from the biting east wind that often blows around here."
+                "en": "The bricks radiate a special calm in the winter light; protect your face with a scarf from the biting east wind that often blows around here.",
+                "tr": "Tuğlalar kış ışığında özel bir dinginlik yayar; burada sıkça esen ısırıcı doğu rüzgârından yüzünüzü bir atkıyla koruyun."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Heimatmuseum Dykhus",
                 "hu": "Dykhus Helytörténeti Múzeum",
                 "ro": "Muzeul de Istorie Dykhus",
-                "en": "Dykhus History Museum"
+                "en": "Dykhus History Museum",
+                "tr": "Dykhus Tarih Müzesi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause zwischen den Spaziergängen; die historischen Räume sind angenehm temperiert und laden zum langen Verweilen ein.",
                 "hu": "Használd a múzeumlátogatást melegedő szünetként a séták között; a történelmi termek kellemes hőmérsékletűek, és hosszas nézelődésre hívogatnak a hideg elől.",
                 "ro": "Folosiți vizita la muzeu ca o pauză de încălzire între plimbări; încăperile istorice au o temperatură plăcută și vă invită să zăboviți mai mult timp.",
-                "en": "Use the museum visit as a warming break between your walks; the historic rooms are pleasantly tempered and invite you to stay longer out of the cold."
+                "en": "Use the museum visit as a warming break between your walks; the historic rooms are pleasantly tempered and invite you to stay longer out of the cold.",
+                "tr": "Müze ziyaretini yürüyüşleriniz arasında ısınma molası olarak kullanın; tarihi odalar hoş bir şekilde ısıtılmıştır ve soğuktan kaçıp daha uzun kalmaya davet eder."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Neuer Leuchtturm",
                 "hu": "Új Világítótorony",
                 "ro": "Noul Far",
-                "en": "New Lighthouse"
+                "en": "New Lighthouse",
+                "tr": "Yeni Deniz Feneri"
               },
               "tip_5lang": {
                 "de": "Der Leuchtturm dient im Winter als klares Symbol der Beständigkeit; achten Sie auf glatte Stellen auf den Wegen, da Gischt auf dem Boden gefrieren kann.",
                 "hu": "A torony télen az állandóság tiszta szimbólumaként áll a parton; figyelj a járdán az esetleges jegesedésre, mivel a tengeri pára ráfagyhat a kőre.",
                 "ro": "Farul servește iarna ca un simbol clar al constanței; atenție la porțiunile alunecoase de pe drum, deoarece vaporii de apă pot îngheța pe pavaj.",
-                "en": "The lighthouse serves as a clear symbol of permanence in winter; watch out for slippery spots on the paths as sea spray can freeze on the ground."
+                "en": "The lighthouse serves as a clear symbol of permanence in winter; watch out for slippery spots on the paths as sea spray can freeze on the ground.",
+                "tr": "Kışın deniz feneri kalıcılığın açık bir simgesi olarak durur; deniz püskürtüsü zeminde donabileceğinden yollardaki kaygan noktalara dikkat edin."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Musikpavillon",
                 "hu": "Zenei Pavilon",
                 "ro": "Pavilionul de Muzică",
-                "en": "Music Pavilion"
+                "en": "Music Pavilion",
+                "tr": "Müzik Pavyonu"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick über die einsame Wintersee; da es ab 16 Uhr dämmert, ist dies der perfekte Ort, um das letzte Tageslicht einzufangen.",
                 "hu": "Élvezd a kilátást a néptelen téli tengerre; mivel délután négykor már szürkül, ez a tökéletes hely, hogy elkapd a nap utolsó sugarait a parton.",
                 "ro": "Bucurați-vă de priveliștea largă asupra mării pustii de iarnă; deoarece se înserează de la ora 16, acesta este locul perfect pentru ultima lumină a zilei.",
-                "en": "Enjoy the wide view over the lonely winter sea; since twilight begins at 4 PM, this is the perfect spot to catch the last daylight on the coast."
+                "en": "Enjoy the wide view over the lonely winter sea; since twilight begins at 4 PM, this is the perfect spot to catch the last daylight on the coast.",
+                "tr": "Issız kış denizinin geniş manzarasının tadını çıkarın; alacakaranlık saat 16:00'da başladığı için burada kıyıda son gün ışığını yakalamak için ideal bir noktadır."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Bewachter Badestrand",
                 "hu": "Őrzött Strand",
                 "ro": "Plajă Supravegheată",
-                "en": "Guarded Beach"
+                "en": "Guarded Beach",
+                "tr": "Gözetimli Plaj"
               },
               "tip_5lang": {
                 "de": "Der Strand ist im Winter fast menschenleer und ideal für einsame Meditation; festes Schuhwerk ist nötig, um über den gefrorenen Sand sicher zu wandern.",
                 "hu": "A strand télen szinte teljesen üres, ideális a csendes elvonuláshoz; masszív lábbeli szükséges, hogy a fagyott homokban is biztonságosan sétálhass.",
                 "ro": "Plaja este aproape pustie iarna și ideală pentru meditație solitară; încălțămintea robustă este necesară pentru a merge în siguranță pe nisipul înghețat.",
-                "en": "The beach is almost deserted in winter and ideal for solitary meditation; sturdy footwear is needed to walk safely over the frozen sand."
+                "en": "The beach is almost deserted in winter and ideal for solitary meditation; sturdy footwear is needed to walk safely over the frozen sand.",
+                "tr": "Plaj kışın neredeyse ıssızdır ve yalnız meditasyon için idealdir; donmuş kum üzerinde güvenli yürüyüş için sağlam ayakkabılar gereklidir."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Seewasserbecken für kleine Seeleute",
                 "hu": "Tengervizes Medence Kis Matrózoknak",
                 "ro": "Bazin cu Apă de Mare",
-                "en": "Seawater Pool for Little Sailors"
+                "en": "Seawater Pool for Little Sailors",
+                "tr": "Küçük Denizciler İçin Deniz Suyu Havuzu"
               },
               "tip_5lang": {
                 "de": "Die Spielgeräte können im Winter sehr kalt oder reifbedeckt sein; ziehen Sie den Kindern warme, isolierte Handschuhe an, bevor sie das Areal erkunden.",
                 "hu": "A játékok télen nagyon hidegek vagy zúzmarásak lehetnek; adj a gyerekekre meleg, bélelt kesztyűt, mielőtt felfedeznék a befagyott játékelemeket.",
                 "ro": "Echipamentele de joacă pot fi foarte reci sau acoperite cu chiciură iarna; puneți-le copiilor mănuși groase înainte de a explora zona de joacă.",
-                "en": "The play equipment can be very cold or frost-covered in winter; put warm, insulated gloves on children before they explore the playground area."
+                "en": "The play equipment can be very cold or frost-covered in winter; put warm, insulated gloves on children before they explore the playground area.",
+                "tr": "Oyun ekipmanları kışın çok soğuk veya kırağı kaplı olabilir; çocuklar oyun alanını keşfetmeden önce onlara sıcak, yalıtımlı eldiven giydirin."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Borkumer Kleinbahn",
             "hu": "Borkumi Kisvasút",
             "ro": "Mocănița din Borkum",
-            "en": "Borkum Light Railway"
+            "en": "Borkum Light Railway",
+            "tr": "Borkum Hafif Demiryolu"
           },
           "coords": [
             6.70517,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie die historischen Waggons der historischen Inselbahn und sichern Sie sich ein schönes Fotomotiv direkt an den Gleisanlagen.",
             "hu": "Csodálja meg a történelmi szigetvasút régi kocsijait, és készítsen egy nagyszerű fényképet közvetlenül a sínek mellett a reggeli fényben.",
             "ro": "Admirați vagoanele istorice ale trenulețului insular și asigurați-vă că prindeți o fotografie excelentă direct lângă liniile pitorești de cale ferată.",
-            "en": "Admire the historic carriages of the island's light railway and be sure to capture a great photo right next to the charming traditional tracks."
+            "en": "Admire the historic carriages of the island's light railway and be sure to capture a great photo right next to the charming traditional tracks.",
+            "tr": "Adanın hafif demiryolunun tarihi vagonlarına hayran kalın ve büyüleyici geleneksel rayların hemen yanından harika bir fotoğraf çekmeyi unutmayın."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Südstrand",
             "hu": "Déli Strand",
             "ro": "Plaja de Sud",
-            "en": "South Beach"
+            "en": "South Beach",
+            "tr": "Güney Plajı"
           },
           "coords": [
             6.669038,
@@ -403,7 +445,8 @@
             "de": "Fahren Sie mit dem Rad bis zur Promenade und genießen Sie das ruhigere Flair dieses Strandabschnitts abseits des großen Trubels.",
             "hu": "Biciklizzen el a sétányig, és élvezze ennek a partszakasznak a csendesebb hangulatát, távol a nagy tömegtől és a nyüzsgéstől.",
             "ro": "Mergeți cu bicicleta până la promenadă și bucurați-vă de atmosfera mai liniștită a acestei porțiuni de plajă, departe de agitația mare.",
-            "en": "Ride your bike right up to the promenade and enjoy the quieter atmosphere of this beach section, comfortably away from the biggest crowds."
+            "en": "Ride your bike right up to the promenade and enjoy the quieter atmosphere of this beach section, comfortably away from the biggest crowds.",
+            "tr": "Bisikletinizi doğrudan promenada sürün ve en büyük kalabalıklardan rahatça uzak, bu plaj kesiminin daha sakin atmosferinin tadını çıkarın."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Alter Leuchtturm",
             "hu": "Régi Világítótorony",
             "ro": "Vechiul Far",
-            "en": "Old Lighthouse"
+            "en": "Old Lighthouse",
+            "tr": "Eski Deniz Feneri"
           },
           "coords": [
             6.67056,
@@ -426,7 +470,8 @@
             "de": "Parken Sie Ihr Fahrrad sicher am Vorplatz und tauchen Sie in die tiefgreifende Walfänger-Geschichte rund um das massive Backsteinbauwerk ein.",
             "hu": "Parkolja le kerékpárját a téren, és merüljön el a masszív téglaépületet körülvevő mélyreható bálnavadász-történelemben.",
             "ro": "Parcați bicicleta în siguranță în piațetă și scufundați-vă în istoria profundă a vânătorilor de balene legată de această clădire masivă.",
-            "en": "Park your bike safely at the square and dive into the profound whaling history surrounding this massive and impressive brick structure."
+            "en": "Park your bike safely at the square and dive into the profound whaling history surrounding this massive and impressive brick structure.",
+            "tr": "Bisikletinizi meydana güvenli bir şekilde park edin ve bu görkemli ve etkileyici tuğla yapıyı çevreleyen derin balina avcılığı tarihine dalın."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Neuer Leuchtturm",
             "hu": "Új Világítótorony",
             "ro": "Noul Far",
-            "en": "New Lighthouse"
+            "en": "New Lighthouse",
+            "tr": "Yeni Deniz Feneri"
           },
           "coords": [
             6.6621,
@@ -449,7 +495,8 @@
             "de": "Erklimmen Sie die 315 Stufen zur Aussichtsplattform, um von oben Ihr nächstes Ziel an der weitläufigen Küstenlinie auszumachen.",
             "hu": "Mássza meg a 315 lépcsőfokot a kilátóteraszig, hogy felülről felfedezhesse következő úti célját a tágas partvonalon.",
             "ro": "Urcați cele 315 trepte până la platforma de observare pentru a identifica următoarea destinație pe linia extinsă a coastei.",
-            "en": "Climb the 315 steps to the observation deck to easily spot your next scenic destination along the expansive coastline from above."
+            "en": "Climb the 315 steps to the observation deck to easily spot your next scenic destination along the expansive coastline from above.",
+            "tr": "315 basamağı gözlem güvertesine tırmanın ve geniş kıyı şeridinin üzerinden bir sonraki manzaralı rotanızı yukarıdan kolayca seçin."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Spielplatz Nordstrand",
             "hu": "Északi Strand Játszótér",
             "ro": "Loc de Joacă Plaja de Nord",
-            "en": "North Beach Playground"
+            "en": "North Beach Playground",
+            "tr": "Kuzey Plajı Oyun Alanı"
           },
           "coords": [
             6.657775,
@@ -472,7 +520,8 @@
             "de": "Nutzen Sie den weiten Platz für eine kurze Pause im Grünen, während die hervorragend angelegten Spielgeräte eine ideale Abwechslung bieten.",
             "hu": "Használja ki a tágas teret egy rövid pihenőre a zöldben, miközben a kiválóan kialakított játékok ideális kikapcsolódást nyújtanak.",
             "ro": "Folosiți spațiul larg pentru o scurtă pauză în natură, în timp ce echipamentele de joacă excelent amenajate oferă o distracție ideală.",
-            "en": "Use the wide space for a short break in the green surroundings while the excellently designed playground equipment provides ideal fun."
+            "en": "Use the wide space for a short break in the green surroundings while the excellently designed playground equipment provides ideal fun.",
+            "tr": "Geniş alanı kısa bir mola için yeşil çevre içinde kullanın; son derece iyi tasarlanmış oyun ekipmanı ideal eğlence sunar."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Drachensport am Strand",
             "hu": "Sárkányeregető Strand",
             "ro": "Plaja de Zmeie",
-            "en": "Kite Sports Beach"
+            "en": "Kite Sports Beach",
+            "tr": "Uçurtma Sporları Plajı"
           },
           "coords": [
             6.656756,
@@ -495,7 +545,8 @@
             "de": "Beobachten Sie die bunten Drachen am Himmel oder probieren Sie es selbst aus, da der stetige Wind hier perfekte Bedingungen garantiert.",
             "hu": "Figyelje meg a színes sárkányokat az égen, vagy próbálja ki maga is, mivel az egyenletes szél itt tökéletes feltételeket garantál.",
             "ro": "Priviți zmeiele colorate pe cer sau încercați și dumneavoastră, deoarece vântul constant de aici garantează condiții perfecte de zbor.",
-            "en": "Watch the colorful kites in the sky or try it out yourself, as the steady and reliable wind here guarantees absolutely perfect conditions."
+            "en": "Watch the colorful kites in the sky or try it out yourself, as the steady and reliable wind here guarantees absolutely perfect conditions.",
+            "tr": "Gökyüzündeki renkli uçurtmaları izleyin veya kendiniz deneyin; burada sürekli ve güvenilir rüzgâr koşulları mükemmel şartları garanti eder."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Hohes Riff",
             "hu": "Magas Zátony",
             "ro": "Reciful Înalt",
-            "en": "High Reef"
+            "en": "High Reef",
+            "tr": "Yüksek Resif"
           },
           "coords": [
             6.645266,
@@ -518,7 +570,8 @@
             "de": "Radeln Sie bis zum nördlichsten Punkt und genießen Sie bei Ebbe den Spaziergang auf der riesigen Sandbank, wo oft Robben zu sehen sind.",
             "hu": "Tekerjen el a legészakibb pontig, és élvezze a sétát apálykor a hatalmas homokpadon, ahol gyakran fókákat is megfigyelhet.",
             "ro": "Pedalați până la cel mai nordic punct și bucurați-vă de o plimbare la reflux pe uriașul banc de nisip, unde deseori se pot vedea foci.",
-            "en": "Cycle to the northernmost point and enjoy a low-tide walk on the massive sandbank, where you can frequently spot resting seals."
+            "en": "Cycle to the northernmost point and enjoy a low-tide walk on the massive sandbank, where you can frequently spot resting seals.",
+            "tr": "En kuzey noktasına bisikletle gidin ve alçak gelgitte sıkça dinlenen fokları görebileceğiniz devasa sığlıkta yürüyüşün tadını çıkarın."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Unsere Radtour beginnt an den Schienen der historischen Inselbahn und führt uns schnell zum entspannten Südstrand. Zur Mittagszeit tauchen wir am Alten und Neuen Leuchtturm in die Inselgeschichte ein. Der Nachmittag wird aktiv: Vom Spielplatz Nordstrand geht es zum bunten Drachensport. Wir beenden die Tour am Hohes Riff, wo die Weite des Meeres atemberaubend ist.",
         "hu": "Kerékpártúránk a történelmi kisvasút sínjeinél indul, majd a nyugodt Déli Strandhoz vezet. Délben a Régi és Új Világítótoronynál fedezzük fel a sziget múltját. A délután aktív lesz: az Északi Strand játszóterétől a színes sárkányeregetőkig tekerünk. A túrát a Magas Zátonynál zárjuk, ahol a végtelen tenger látványa egyszerűen lélegzetelállító és felejthetetlen.",
         "ro": "Turul cu bicicleta începe la șinele trenulețului istoric și ne duce rapid la plaja liniștită de sud. La prânz explorăm istoria insulei la Vechiul și Noul Far. După-amiaza devine activă: de la locul de joacă trecem la sporturile cu zmeie colorate. Încheiem turul la Reciful Înalt, unde imensitatea mării deschise este pur și simplu uluitoare și perfectă pentru relaxare.",
-        "en": "Our bike tour begins at the tracks of the historic railway and quickly takes us to the relaxed South Beach. At midday, we dive into island history at the Old and New Lighthouses. The afternoon turns active as we pedal from the playground to the colorful kite sports area. We wrap up at the High Reef, where the endless expanse of the sea is absolutely breathtaking."
+        "en": "Our bike tour begins at the tracks of the historic railway and quickly takes us to the relaxed South Beach. At midday, we dive into island history at the Old and New Lighthouses. The afternoon turns active as we pedal from the playground to the colorful kite sports area. We wrap up at the High Reef, where the endless expanse of the sea is absolutely breathtaking.",
+        "tr": "Bisiklet turumuz tarihi demiryolu raylarında başlar ve hızla rahat Güney Plajı'na götürür. Öğleye doğru Eski ve Yeni Deniz Fenerleri'nde ada tarihine dalıyoruz. Öğleden sonra oyun alanından renkli uçurtma sporları alanına pedal çevirerek aktifleşiyoruz. Günün sonunda denizin sonsuz genişliğinin nefes kesici olduğu Yüksek Resif'te toparlanıyoruz."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Ein regnerischer Start bei der Kleinbahn erfordert gute Regenbekleidung für die Radtour. Mittags geht es trotz Nässe zum Südstrand, wo die Wellen kraftvoll ans Ufer schlagen. Nachmittags bieten die Leuchttürme Orientierung bei eingeschränkter Sicht durch den Regen. Der Abend klingt beim Trocknen der Ausrüstung und einem warmen Getränk in der Unterkunft gemütlich aus.",
             "hu": "Az esős kezdés a kisvasútnál komoly vízhatlan ruházatot igényel a biciklitúrához. Délben a nedves idő ellenére is látványos a Déli Strand a morajló hullámokkal. Délután a világítótornyok nyújtanak biztos támpontot a korlátozott látási viszonyok között. Az este a felszerelés szárításával és egy forró itallal zárul a szálláson.",
             "ro": "Un început ploios la trenuleț necesită îmbrăcăminte impermeabilă bună pentru tura cu bicicleta. La prânz, în ciuda umezelii, Plaja de Sud oferă un spectacol al valurilor puternice. După-amiaza, farurile oferă orientare în vizibilitatea redusă cauzată de ploaie. Seara se încheie confortabil cu uscarea echipamentului și o băutură caldă la cazare.",
-            "en": "A rainy start at the light railway requires good waterproof gear for your cycling tour. At midday, despite the wetness, the South Beach offers a powerful display of crashing waves. In the afternoon, the lighthouses provide guidance in the limited visibility caused by rain. The evening ends cozily by drying your gear and enjoying a warm drink at your stay."
+            "en": "A rainy start at the light railway requires good waterproof gear for your cycling tour. At midday, despite the wetness, the South Beach offers a powerful display of crashing waves. In the afternoon, the lighthouses provide guidance in the limited visibility caused by rain. The evening ends cozily by drying your gear and enjoying a warm drink at your stay.",
+            "tr": "Hafif demiryolunda yağmurlu bir başlangıç bisiklet turun için iyi su geçirmez ekipman gerektirir. Öğleye doğru ıslak olmasına rağmen Güney Plajı çarpıcı kıran dalgalarını sergiler. Öğleden sonra deniz fenerleri yağmurun neden olduğu sınırlı görüşte rehberlik sağlar. Akşam ekipmanınızı kurutup kurutmak ve konaklamanızda sıcak bir içecek keyfiyle tatlı bir son bulur."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Borkumer Kleinbahn",
                 "hu": "Borkumi Kisvasút",
                 "ro": "Mocănița din Borkum",
-                "en": "Borkum Light Railway"
+                "en": "Borkum Light Railway",
+                "tr": "Borkum Hafif Demiryolu"
               },
               "tip_5lang": {
                 "de": "Decken Sie Ihren Fahrradsattel während der Zugfahrt ab, damit er trocken bleibt; die historischen Waggons bieten Schutz vor dem ersten Regenschauer des Tages.",
                 "hu": "Takarod le a bicikli nyergét az utazás alatt, hogy száraz maradjon; a történelmi vagonok védelmet nyújtanak a nap első esőzései elől a vonatozás közben.",
                 "ro": "Acoperiți șaua bicicletei în timpul călătoriei cu trenul pentru a rămâne uscată; vagoanele istorice oferă protecție împotriva primei averse a zilei.",
-                "en": "Cover your bike saddle during the train ride to keep it dry; the historic carriages offer protection from the day's first rain showers."
+                "en": "Cover your bike saddle during the train ride to keep it dry; the historic carriages offer protection from the day's first rain showers.",
+                "tr": "Tren yolculuğu sırasında bisiklet seleinizi örtün ki kuru kalsın; tarihi vagonlar günün ilk yağmur sağanaklarından koruma sağlar."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Südstrand",
                 "hu": "Déli Strand",
                 "ro": "Plaja de Sud",
-                "en": "South Beach"
+                "en": "South Beach",
+                "tr": "Güney Plajı"
               },
               "tip_5lang": {
                 "de": "Der Sandweg kann bei Regen weich und rutschig sein; fahren Sie vorsichtig und nutzen Sie Schutzbleche, um sich vor aufgewirbeltem Schlamm zu schützen.",
                 "hu": "A homokos út esőben puha és csúszós lehet; tekerj óvatosan, és használj sárvédőt, hogy megvédd magad a felcsapódó sártól és vizes homoktól.",
                 "ro": "Drumul cu nisip poate fi moale și alunecos pe ploaie; pedalați cu atenție și folosiți apărători pentru a vă proteja de noroiul împroșcat.",
-                "en": "The sandy path can be soft and slippery in the rain; cycle carefully and use mudguards to protect yourself from splashing mud and wet sand."
+                "en": "The sandy path can be soft and slippery in the rain; cycle carefully and use mudguards to protect yourself from splashing mud and wet sand.",
+                "tr": "Kumlu patika yağmurda yumuşak ve kaygan olabilir; dikkatli sürün ve sıçrayan çamur ile ıslak kumdan korunmak için çamurluk kullanın."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Alter Leuchtturm",
                 "hu": "Régi Világítótorony",
                 "ro": "Vechiul Far",
-                "en": "Old Lighthouse"
+                "en": "Old Lighthouse",
+                "tr": "Eski Deniz Feneri"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad unter und nutzen Sie die Mauern als Windschutz; das nasse Kopfsteinpflaster rund um den Turm erfordert beim Absteigen besondere Vorsicht.",
                 "hu": "Támaszd le a biciklit egy védettebb helyen, és használd a falakat szélfogónak; a vizes macskakő a torony körül óvatosságot igényel a leszálláskor.",
                 "ro": "Parcați bicicleta într-un loc ferit și folosiți zidurile ca paravânt; pavajul umed din jurul turnului necesită prudență sporită la descălecare.",
-                "en": "Park your bike in a sheltered spot and use the walls as a windbreak; the wet cobblestones around the tower require extra caution when dismounting."
+                "en": "Park your bike in a sheltered spot and use the walls as a windbreak; the wet cobblestones around the tower require extra caution when dismounting.",
+                "tr": "Bisikletinizi korunaklı bir yere park edin ve duvarları rüzgârdan korunma amacıyla kullanın; kule etrafındaki ıslak kaldırım taşlarından inerken ekstra dikkat gereklidir."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Neuer Leuchtturm",
                 "hu": "Új Világítótorony",
                 "ro": "Noul Far",
-                "en": "New Lighthouse"
+                "en": "New Lighthouse",
+                "tr": "Yeni Deniz Feneri"
               },
               "tip_5lang": {
                 "de": "Überprüfen Sie Ihre Bremsen, da die Felgen bei Nässe länger brauchen, um zu greifen; die asphaltierten Wege hier sind bei Regen die sicherere Wahl.",
                 "hu": "Ellenőrizd a fékeket, mert a vizes felniken lassabb a lassulás; az aszfaltozott utak itt a legbiztonságosabbak az esős tekeréshez a városban.",
                 "ro": "Verificați frânele, deoarece jantele umede necesită mai mult timp pentru a opri; drumurile asfaltate de aici sunt alegerea cea mai sigură pe ploaie.",
-                "en": "Check your brakes as wet rims take longer to stop; the paved paths around here are the safest choice for cycling in rainy conditions."
+                "en": "Check your brakes as wet rims take longer to stop; the paved paths around here are the safest choice for cycling in rainy conditions.",
+                "tr": "Islak jantlar daha uzun sürede durdurur, frenlerinizi kontrol edin; burada çevredeki asfalt yollar yağmur koşullarında bisiklet için en güvenli seçimdir."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Spielplatz Nordstrand",
                 "hu": "Északi Strand Játszótér",
                 "ro": "Loc de Joacă Plaja de Nord",
-                "en": "North Beach Playground"
+                "en": "North Beach Playground",
+                "tr": "Kuzey Plajı Oyun Alanı"
               },
               "tip_5lang": {
                 "de": "Nasse Rutschen und Gerüste sind sehr glatt; achten Sie darauf, dass Kinder beim Spielen auf festen Halt achten und wasserfeste Handschuhe tragen.",
                 "hu": "A vizes csúszdák és mászókák nagyon csúszósak; ügyelj rá, hogy a gyerekek stabilan kapaszkodjanak, és viseljenek vízálló kesztyűt a játék során.",
                 "ro": "Toboganele și cadrele umede sunt foarte alunecoase; asigurați-vă că micuții au o priză bună și poartă mănuși impermeabile în timp ce se joacă.",
-                "en": "Wet slides and climbing frames are very slippery; make sure children have a firm grip and wear waterproof gloves while playing in the rain."
+                "en": "Wet slides and climbing frames are very slippery; make sure children have a firm grip and wear waterproof gloves while playing in the rain.",
+                "tr": "Islak kaydıraklar ve tırmanma çerçeveleri çok kaygandır; çocukların sağlam bir tutuşa sahip olduğundan ve yağmurda oynarken su geçirmez eldiven taktığından emin olun."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Drachensport am Strand",
                 "hu": "Sárkányeregető Strand",
                 "ro": "Plaja de Zmeie",
-                "en": "Kite Sports Beach"
+                "en": "Kite Sports Beach",
+                "tr": "Uçurtma Sporları Plajı"
               },
               "tip_5lang": {
                 "de": "Bei Regen und böigem Wind ist Drachensteigen schwierig, aber die Atmosphäre ist dramatisch; sichern Sie Ihr Rad gut gegen Umkippen im Sand.",
                 "hu": "Esőben és lökéses szélben a sárkányeregetés nehéz, de a látvány drámai; rögzítsd jól a biciklidet a homokban, nehogy a szél felborítsa.",
                 "ro": "Zborul zmeielor este dificil pe ploaie și vânt puternic, dar atmosfera este dramatică; asigurați bine bicicleta în nisip pentru a nu fi răsturnată.",
-                "en": "Kite flying is difficult in rain and gusty winds, but the atmosphere is dramatic; secure your bike well in the sand so it doesn't blow over."
+                "en": "Kite flying is difficult in rain and gusty winds, but the atmosphere is dramatic; secure your bike well in the sand so it doesn't blow over.",
+                "tr": "Yağmur ve sert rüzgârda uçurtma uçurmak zordur ancak atmosfer dramatiktir; bisikletinizin kumda devrilmemesi için iyice sabitleyin."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Hohes Riff",
                 "hu": "Magas Zátony",
                 "ro": "Reciful Înalt",
-                "en": "High Reef"
+                "en": "High Reef",
+                "tr": "Yüksek Resif"
               },
               "tip_5lang": {
                 "de": "Der Weg zum Riff kann sehr windanfällig sein; achten Sie auf eine funktionierende Beleuchtung an Ihrem Rad, falls der Regen die Sicht stark trübt.",
                 "hu": "A zátonyhoz vezető út nagyon szeles lehet; ügyelj a bicikli lámpáira, mert az erős esőben a látási viszonyok hirtelen leromolhatnak a parton.",
                 "ro": "Drumul spre recif poate fi foarte expus vântului; asigurați-vă că luminile bicicletei funcționează dacă ploaia reduce mult vizibilitatea pe coastă.",
-                "en": "The path to the reef can be very exposed to wind; ensure your bike lights are working if the rain significantly reduces visibility along the coast."
+                "en": "The path to the reef can be very exposed to wind; ensure your bike lights are working if the rain significantly reduces visibility along the coast.",
+                "tr": "Resife giden yol rüzgâra çok açık olabilir; yağmur görüşü önemli ölçüde azaltıyorsa bisiklet ışıklarınızın çalıştığından emin olun."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Ein kühler Morgen bei der Kleinbahn erfordert warme Schichten für die winterliche Radtour. Mittags erreichen Sie den einsamen Südstrand, wo die klare Luft die Sinne schärft. Nachmittags leuchten die Leuchttürme bereits in der frühen Dämmerung und weisen den Weg zurück. Der Abend endet nach der Rückgabe der Räder bei einem gemütlichen Abendessen in wohliger Wärme.",
             "hu": "A hűvös reggel a kisvasútnál réteges öltözködést kíván a téli bringázáshoz. Délben eléred a néptelen Déli Strandot, ahol a tiszta, hideg levegő felfrissít. Délután a világítótornyok fényei már a korai szürkületben felgyulladnak, mutatva a hazautat. Az este a biciklik leadása után egy meleg vacsorával zárul a fűtött szobában.",
             "ro": "O dimineață răcoroasă la trenuleț necesită straturi calde pentru tura de iarnă cu bicicleta. La prânz ajungeți pe Plaja de Sud pustie, unde aerul rece vă împrospătează. După-amiaza, farurile se aprind deja în amurgul timpuriu, indicând drumul de întoarcere. Seara se încheie cu o cină caldă după ce returnați bicicletele.",
-            "en": "A cool morning at the light railway requires warm layers for your winter cycling trip. At midday, you reach the deserted South Beach, where the crisp air sharpens your senses. In the afternoon, the lighthouses already glow in the early twilight, guiding your way back. The evening ends with a warm dinner in cozy heat after returning your bikes."
+            "en": "A cool morning at the light railway requires warm layers for your winter cycling trip. At midday, you reach the deserted South Beach, where the crisp air sharpens your senses. In the afternoon, the lighthouses already glow in the early twilight, guiding your way back. The evening ends with a warm dinner in cozy heat after returning your bikes.",
+            "tr": "Hafif demiryolunda serin bir sabah kış bisiklet turun için sıcak katmanlar gerektirir. Öğleye doğru ıssız Güney Plajı'na ulaşırsınız, kıtır hava duyularınızı keskinleştirir. Öğleden sonra deniz fenerleri erken alacakaranlıkta zaten parlamaya başlar ve sizi geri yönde yönlendirir. Akşam bisikletleri teslim ettikten sonra sıcacık bir akşam yemeğiyle samimi bir ısıda son bulur."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Borkumer Kleinbahn",
                 "hu": "Borkumi Kisvasút",
                 "ro": "Mocănița din Borkum",
-                "en": "Borkum Light Railway"
+                "en": "Borkum Light Railway",
+                "tr": "Borkum Hafif Demiryolu"
               },
               "tip_5lang": {
                 "de": "Tragen Sie beim Radfahren dicke Handschuhe, da der Fahrtwind bei winterlichen Temperaturen die Finger sehr schnell auskühlen lässt.",
                 "hu": "Viselj vastag kesztyűt tekerés közben, mert a menetszél téli hőmérséklet mellett pillanatok alatt lefagyasztja az ujjaidat a kormányon.",
                 "ro": "Purtați mănuși groase când pedalați, deoarece vântul de iarnă vă va răci degetele foarte repede la temperaturi scăzute.",
-                "en": "Wear thick gloves while cycling, as the wind chill at winter temperatures will cool your fingers down very quickly on the handlebars."
+                "en": "Wear thick gloves while cycling, as the wind chill at winter temperatures will cool your fingers down very quickly on the handlebars.",
+                "tr": "Bisiklet sürerken kalın eldivenler giyin; kış sıcaklıklarındaki rüzgâr üşütmesi gidonları çabucak soğutacaktır."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Südstrand",
                 "hu": "Déli Strand",
                 "ro": "Plaja de Sud",
-                "en": "South Beach"
+                "en": "South Beach",
+                "tr": "Güney Plajı"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe am winterlichen Strand; meiden Sie tiefe Sandpassagen, da diese bei Frost hart und sehr uneben sein können.",
                 "hu": "Élvezd a téli strand nyugalmát; kerüld a mély homokos szakaszokat, mert fagyban ezek keménnyé és nagyon egyenetlenné válhatnak.",
                 "ro": "Bucurați-vă de liniștea plajei de iarnă; evitați zonele cu nisip adânc, deoarece acestea pot fi dure și foarte denivelate din cauza înghețului.",
-                "en": "Enjoy the tranquility of the winter beach; avoid deep sandy sections as these can become hard and very uneven when frozen."
+                "en": "Enjoy the tranquility of the winter beach; avoid deep sandy sections as these can become hard and very uneven when frozen.",
+                "tr": "Kış plajının sakinliğinin tadını çıkarın; donduğunda sertleşip çok düzensiz hale gelebilen derin kum kısımlarından kaçının."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Alter Leuchtturm",
                 "hu": "Régi Világítótorony",
                 "ro": "Vechiul Far",
-                "en": "Old Lighthouse"
+                "en": "Old Lighthouse",
+                "tr": "Eski Deniz Feneri"
               },
               "tip_5lang": {
                 "de": "Die Ziegelmauern bieten einen guten Schutz vor dem kalten Wind; machen Sie hier eine kurze Pause, um sich etwas zu dehnen und warm zu bleiben.",
                 "hu": "A téglafalak jó szélfogót jelentenek a hideg fuvallatok ellen; tarts itt egy rövid szünetet, mozgasd át a tagjaidat, hogy ne hűlj ki tekerés közben.",
                 "ro": "Zidurile de cărămidă oferă o protecție bună împotriva vântului rece; faceți o scurtă pauză aici pentru a vă dezmorți și a rămâne cald.",
-                "en": "The brick walls provide good protection against the cold wind; take a short break here to stretch and keep your body temperature up."
+                "en": "The brick walls provide good protection against the cold wind; take a short break here to stretch and keep your body temperature up.",
+                "tr": "Tuğla duvarlar soğuk rüzgâra karşı iyi bir koruma sağlar; kısa bir mola verip esneme yaparak vücut ısınızı yüksek tutun."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Neuer Leuchtturm",
                 "hu": "Új Világítótorony",
                 "ro": "Noul Far",
-                "en": "New Lighthouse"
+                "en": "New Lighthouse",
+                "tr": "Yeni Deniz Feneri"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig, da Wege im Schatten oft länger glatt bleiben; nutzen Sie die sonnigen Abschnitte für eine sicherere Fahrt durch die Stadt.",
                 "hu": "Tekerj óvatosan, mert az árnyékos utak sokáig jegesek maradhatnak; válaszd a naposabb szakaszokat a biztonságosabb haladás érdekében a városban.",
                 "ro": "Pedalați cu atenție, deoarece porțiunile umbrite rămân adesea alunecoase mai mult timp; folosiți secțiunile însorite pentru o călătorie mai sigură.",
-                "en": "Cycle carefully as shaded paths often remain slippery for longer; use the sunny sections for a safer ride through the town."
+                "en": "Cycle carefully as shaded paths often remain slippery for longer; use the sunny sections for a safer ride through the town.",
+                "tr": "Gölgelik yollar genellikle daha uzun süre kaygan kalır; kasabanın güneşli bölümlerini daha güvenli bir sürüş için kullanın."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Spielplatz Nordstrand",
                 "hu": "Északi Strand Játszótér",
                 "ro": "Loc de Joacă Plaja de Nord",
-                "en": "North Beach Playground"
+                "en": "North Beach Playground",
+                "tr": "Kuzey Plajı Oyun Alanı"
               },
               "tip_5lang": {
                 "de": "Die Spielgeräte sind oft gefroren und sehr kalt; stellen Sie sicher, dass Kinder gut isolierte Kleidung tragen, bevor sie sich auf dem Radweg austoben.",
                 "hu": "A játékok gyakran fagyosak és rendkívül hidegek ilyenkor; ügyelj rá, hogy a gyerekek hőszigetelt ruhát viseljenek a kinti mozgáshoz.",
                 "ro": "Echipamentele de joacă sunt adesea înghețate și foarte reci; asigurați-vă că micuții poartă haine bine izolate înainte de a se juca afară.",
-                "en": "The play equipment is often frozen and very cold; ensure children wear well-insulated clothing before they run around the playground."
+                "en": "The play equipment is often frozen and very cold; ensure children wear well-insulated clothing before they run around the playground.",
+                "tr": "Oyun ekipmanı sık sık donmuş ve çok soğuktur; çocuklar koşmadan önce iyi yalıtımlı kıyafetler giymelidir."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Drachensport am Strand",
                 "hu": "Sárkányeregető Strand",
                 "ro": "Plaja de Zmeie",
-                "en": "Kite Sports Beach"
+                "en": "Kite Sports Beach",
+                "tr": "Uçurtma Sporları Plajı"
               },
               "tip_5lang": {
                 "de": "Im Winter weht oft ein stetiger Wind, ideal für Profi-Drachenflieger; schützen Sie Ihre Ohren mit einem Stirnband vor dem eisigen Strandwind.",
                 "hu": "Télen gyakran fúj állandó szél, ami ideális a sárkányeregetéshez; védd a füleidet egy meleg pánttal vagy sapkával a jeges tengerparti szél ellen.",
                 "ro": "Iarna suflă adesea un vânt constant, ideal pentru zmeie; protejați-vă urechile cu o bentiță împotriva vântului înghețat de pe plajă.",
-                "en": "In winter, a steady wind often blows, ideal for professional kite flying; protect your ears with a headband against the icy beach wind."
+                "en": "In winter, a steady wind often blows, ideal for professional kite flying; protect your ears with a headband against the icy beach wind.",
+                "tr": "Kışın genellikle sürekli bir rüzgâr eser, profesyonel uçurtma uçurmak için ideal; buz gibi sahil rüzgârına karşı kulaklarınızı bir saç bandıyla koruyun."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Hohes Riff",
                 "hu": "Magas Zátony",
                 "ro": "Reciful Înalt",
-                "en": "High Reef"
+                "en": "High Reef",
+                "tr": "Yüksek Resif"
               },
               "tip_5lang": {
                 "de": "Planen Sie die Rückkehr vor Einbruch der Dunkelheit um 16:30 Uhr ein; die Wege zum Riff sind unbeleuchtet und bei Frost schwer befahrbar.",
                 "hu": "Tervezd meg a visszautat a sötétedés előtt, fél ötig; a zátonyhoz vezető utak nincsenek kivilágítva, és fagyban nehezen járhatóak biciklivel.",
                 "ro": "Planificați întoarcerea înainte de lăsarea întunericului, la ora 16:30; drumurile spre recif nu sunt iluminate și pot fi greu de parcurs pe îngheț.",
-                "en": "Plan to return before darkness falls at 4:30 PM; the paths to the reef are unlit and can be difficult to cycle on when frozen."
+                "en": "Plan to return before darkness falls at 4:30 PM; the paths to the reef are unlit and can be difficult to cycle on when frozen.",
+                "tr": "Karanlık düşmeden önce saat 16:30'da dönmeyi planlayın; resife giden yollar aydınlatılmamıştır ve donduğunda bisikletle zor olabilir."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Jugendbad",
             "hu": "Ifjúsági Fürdőhely",
             "ro": "Băile pentru Tineret",
-            "en": "Youth Bathing Area"
+            "en": "Youth Bathing Area",
+            "tr": "Gençler için Yüzme Alanı"
           },
           "coords": [
             6.670652,
@@ -775,7 +860,8 @@
             "de": "Starten Sie den Tag erfrischt im Norden, wo ausreichend Parkplätze vorhanden sind und der Wellengang ideal für ein morgendliches Bad ist.",
             "hu": "Kezdje a napot felfrissülve északon, ahol elegendő parkolóhely áll rendelkezésre, és a hullámok ideálisak egy reggeli fürdőzéshez.",
             "ro": "Începeți ziua revigorați în nord, unde sunt suficiente locuri de parcare, iar valurile sunt pur și simplu ideale pentru o baie matinală.",
-            "en": "Start your day refreshed in the north, where ample parking is available and the ocean waves are absolutely ideal for a morning swim."
+            "en": "Start your day refreshed in the north, where ample parking is available and the ocean waves are absolutely ideal for a morning swim.",
+            "tr": "Güne kuzeyde ferahlamış olarak başlayın; bol park yeri vardır ve okyanus dalgaları sabah yüzmeleri için mükemmeldir."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Heimatmuseum Dykhus",
             "hu": "Dykhus Helytörténeti Múzeum",
             "ro": "Muzeul de Istorie Dykhus",
-            "en": "Dykhus History Museum"
+            "en": "Dykhus History Museum",
+            "tr": "Dykhus Tarih Müzesi"
           },
           "coords": [
             6.67112,
@@ -798,7 +885,8 @@
             "de": "Fahren Sie bequem ins Zentrum, um in diesem malerischen Friesenhaus tief in die lokale Seefahrts- und Walfanggeschichte einzutauchen.",
             "hu": "Kocsikázzon kényelmesen a központba, hogy ebben a festői fríz házban elmerüljön a helyi tengerészeti és bálnavadász történelemben.",
             "ro": "Conduceți confortabil în centru pentru a vă scufunda în istoria locală a navigației și vânătorii de balene în această casă pitorească.",
-            "en": "Drive comfortably into the center to immerse yourself deeply in the local maritime and whaling history within this picturesque Frisian house."
+            "en": "Drive comfortably into the center to immerse yourself deeply in the local maritime and whaling history within this picturesque Frisian house.",
+            "tr": "Merkeze rahatça sürün ve bu resmedilmeye değer Frisian evinde yerel denizcilik ve balina avcılığı tarihine derinlemesine dalın."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Neuer Leuchtturm",
             "hu": "Új Világítótorony",
             "ro": "Noul Far",
-            "en": "New Lighthouse"
+            "en": "New Lighthouse",
+            "tr": "Yeni Deniz Feneri"
           },
           "coords": [
             6.6621,
@@ -821,7 +910,8 @@
             "de": "Machen Sie einen kurzen Stopp für das obligatorische Foto am majestätischen Turm, der nachts über 20 Seemeilen weit leuchtet.",
             "hu": "Tegyen egy rövid megállót a kötelező fotóért a fenséges toronynál, amely éjszaka több mint 20 tengeri mérföldre is elvilágít.",
             "ro": "Faceți o scurtă oprire pentru fotografia obligatorie la turnul maiestuos, care luminează noaptea la peste 20 de mile marine distanță.",
-            "en": "Make a quick stop for the mandatory photo at the majestic tower, which impressively shines over 20 nautical miles away during the night."
+            "en": "Make a quick stop for the mandatory photo at the majestic tower, which impressively shines over 20 nautical miles away during the night.",
+            "tr": "Geceleri 20 deniz milinden fazla mesafeye kadar etkileyici şekilde parlayan görkemli kulede zorunlu fotoğraf durağı yapın."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Iglu-Strand",
             "hu": "Iglu Strand",
             "ro": "Plaja Iglu",
-            "en": "Igloo Beach"
+            "en": "Igloo Beach",
+            "tr": "İglu Plajı"
           },
           "coords": [
             6.656397,
@@ -844,7 +935,8 @@
             "de": "Stellen Sie das Auto ab und entdecken Sie die charmanten kleinen Strandzelte, die perfekt Schutz vor der stetigen Brise bieten.",
             "hu": "Parkolja le az autót, és fedezze fel a bájos kis strandsátrakat, amelyek tökéletes védelmet nyújtanak az állandó tengeri szellő ellen.",
             "ro": "Parcați mașina și descoperiți micile și fermecătoarele corturi de plajă, care oferă o protecție perfectă împotriva brizei constante.",
-            "en": "Park the car and discover the charming little beach tents, which provide absolutely perfect shelter from the constant ocean breeze."
+            "en": "Park the car and discover the charming little beach tents, which provide absolutely perfect shelter from the constant ocean breeze.",
+            "tr": "Arabayı park edin ve sürekli okyanus melteminden mükemmel şekilde koruma sağlayan sevimli küçük plaj çadırlarını keşfedin."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Südstrand",
             "hu": "Déli Strand",
             "ro": "Plaja de Sud",
-            "en": "South Beach"
+            "en": "South Beach",
+            "tr": "Güney Plajı"
           },
           "coords": [
             6.669038,
@@ -867,7 +960,8 @@
             "de": "Beenden Sie Ihre Inselausfahrt am ruhigen Südstrand, wo Sie die letzten Sonnenstrahlen bei einem entspannten Strandspaziergang einfangen.",
             "hu": "Fejezze be szigeti autózását a csendes Déli Strandon, ahol egy pihentető tengerparti séta során befoghatja az utolsó napsugarakat.",
             "ro": "Încheiați plimbarea pe insulă la plaja liniștită de sud, unde puteți prinde ultimele raze de soare în timpul unei plimbări relaxante.",
-            "en": "End your island drive at the tranquil South Beach, where you can easily catch the last warming rays of sun during a relaxing walk."
+            "en": "End your island drive at the tranquil South Beach, where you can easily catch the last warming rays of sun during a relaxing walk.",
+            "tr": "Ada sürüşünüzü huzurlu Güney Plajı'nda sonlandırın; rahat bir yürüyüş sırasında son ısındıran güneş ışınlarını kolayca yakalayabilirsiniz."
           }
         }
       ],
@@ -875,7 +969,8 @@
         "de": "Der Tag startet mit dem Auto bequem im Norden am Jugendbad. Gegen Mittag widmen wir uns der Geschichte im Museum Dykhus und dem imposanten Neuen Leuchtturm. Nachmittags geht es an die Küste: Wir entspannen uns zuerst am windgeschützten Iglu-Strand und fahren anschließend weiter zum ruhigen Südstrand, um den Tag entspannt ausklingen zu lassen.",
         "hu": "A napot kényelmesen, autóval indítjuk északon, az Ifjúsági Fürdőnél. Délben a Dykhus Múzeum történelmének és az Új Világítótoronynak szenteljük időnket. Délután a part felé vesszük az irányt: először a szélvédett Iglu Strandon pihenünk, majd továbbhajtunk a csendes Déli Strandra, hogy nyugalomban zárjuk a szigeti napot.",
         "ro": "Ziua începe confortabil cu mașina în nord, la Băile pentru Tineret. La prânz ne dedicăm istoriei la Muzeul Dykhus și admirăm Noul Far. După-amiaza mergem pe coastă: ne relaxăm mai întâi la Plaja Iglu, protejată de vânt, și apoi conducem spre Plaja de Sud liniștită pentru a încheia ziua într-o atmosferă de pace totală.",
-        "en": "The day begins comfortably by car in the north at the Youth Bathing Area. Around midday, we delve into history at the Dykhus Museum and admire the New Lighthouse. The afternoon takes us to the coast: we first relax at the wind-sheltered Igloo Beach, then drive onwards to the tranquil South Beach to end our day in absolute serenity."
+        "en": "The day begins comfortably by car in the north at the Youth Bathing Area. Around midday, we delve into history at the Dykhus Museum and admire the New Lighthouse. The afternoon takes us to the coast: we first relax at the wind-sheltered Igloo Beach, then drive onwards to the tranquil South Beach to end our day in absolute serenity.",
+        "tr": "Gün kuzeyde Gençler için Yüzme Alanı'nda konforlu bir araba yolculuğuyla başlar. Öğle civarında Dykhus Müzesi'nde tarihe dalar ve Yeni Deniz Feneri'ne hayran kalırız. Öğleden sonra kıyıya gideriz: önce rüzgârdan korunmuş İglu Plajı'nda dinlenir, sonra günü mutlak huzur içinde bitirmek için Güney Plajı'na süreriz."
       },
       "variants": {
         "rainy": {
@@ -883,7 +978,8 @@
             "de": "Der Regentag beginnt entspannt mit der Fahrt zum Jugendbad, während die Wischer stetig arbeiten. Mittags bietet das Dykhus Museum eine trockene und informative Pause. Nachmittags bewundern Sie den Leuchtturm und den Iglu-Strand aus dem Komfort Ihres Autos. Der Abend endet bei einer gemütlichen Fahrt durch das beleuchtete Borkum, während draußen der Regen prasselt.",
             "hu": "Az esős nap kényelmesen indul az autóban az Ifjúsági Fürdőhely felé, miközben az ablaktörlők folyamatosan járnak. Délben a Dykhus Múzeum kínál száraz és informatív pihenőt. Délután az Új Világítótornyot és az Iglu Strandot az autó kényelméből csodálhatod meg. Az este egy autós kocsikázással zárul a kivilágított Borkumban, hallgatva a kopogó esőt.",
             "ro": "Ziua ploioasă începe relaxat cu un drum spre zona Jugendbad, în timp ce ștergătoarele lucrează constant. La prânz, Muzeul Dykhus oferă o pauză uscată și informativă. După-amiaza admirați farul și Plaja Iglu din confortul mașinii. Seara se încheie cu o plimbare prin Borkumul iluminat, în timp ce ploaia bate în parbriz.",
-            "en": "The rainy day starts relaxed with a drive to the Youth Bathing Area while the wipers work steadily. At midday, the Dykhus Museum provides a dry and informative break. In the afternoon, you can admire the lighthouse and Igloo Beach from the comfort of your car. The evening ends with a cozy drive through illuminated Borkum while the rain patters outside."
+            "en": "The rainy day starts relaxed with a drive to the Youth Bathing Area while the wipers work steadily. At midday, the Dykhus Museum provides a dry and informative break. In the afternoon, you can admire the lighthouse and Igloo Beach from the comfort of your car. The evening ends with a cozy drive through illuminated Borkum while the rain patters outside.",
+            "tr": "Yağmurlu gün cam silecekleri düzenli çalışırken Gençler için Yüzme Alanı'na arabayla rahat bir başlangıçla başlar. Öğle civarında Dykhus Müzesi kuru ve bilgilendirici bir mola sağlar. Öğleden sonra deniz fenerine ve İglu Plajı'na arabanızın konforundan hayran kalabilirsiniz. Akşam yağmur dışarıda tıngırdarken ışıklı Borkum'da samimi bir sürüşle sona erer."
           },
           "stops": [
             {
@@ -891,13 +987,15 @@
                 "de": "Jugendbad",
                 "hu": "Ifjúsági Fürdőhely",
                 "ro": "Băile pentru Tineret",
-                "en": "Youth Bathing Area"
+                "en": "Youth Bathing Area",
+                "tr": "Gençler için Yüzme Alanı"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Strandzugang, um den Weg durch den Regen kurz zu halten; genießen Sie die wilde Brandung geschützt im Fahrzeug.",
                 "hu": "Parkolj minél közelebb a strandbejárathoz, hogy lerövidítsd az esőben megtett utat; élvezd a vad hullámzást az autó védelméből.",
                 "ro": "Parcați cât mai aproape de accesul pe plajă pentru a scurta drumul prin ploaie; admirați valurile sălbatice protejat în interiorul vehiculului.",
-                "en": "Park as close as possible to the beach access to keep your walk through the rain short; enjoy the wild surf from the safety of your vehicle."
+                "en": "Park as close as possible to the beach access to keep your walk through the rain short; enjoy the wild surf from the safety of your vehicle.",
+                "tr": "Yağmurda yürüyüşünüzü kısa tutmak için plaja erişime mümkün olduğunca yakın park edin; aracınızın güvenliğinden vahşi kıranların tadını çıkarın."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Heimatmuseum Dykhus",
                 "hu": "Dykhus Helytörténeti Múzeum",
                 "ro": "Muzeul de Istorie Dykhus",
-                "en": "Dykhus History Museum"
+                "en": "Dykhus History Museum",
+                "tr": "Dykhus Tarih Müzesi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch als längeren Stopp im Trockenen; direkt am Museum gibt es Parkmöglichkeiten, die den Zugang auch bei Starkregen erleichtern.",
                 "hu": "Használd a múzeumlátogatást egy hosszabb szárazföldi pihenőre; közvetlenül a múzeumnál vannak parkolók, így szakadó esőben is könnyen bejuthatsz.",
                 "ro": "Folosiți vizita la muzeu ca o oprire prelungită la uscat; există locuri de parcare chiar lângă muzeu, facilitând accesul chiar și pe ploaie torențială.",
-                "en": "Use the museum visit as a longer dry-land break; there are parking spots right by the museum, making access easy even during heavy rain."
+                "en": "Use the museum visit as a longer dry-land break; there are parking spots right by the museum, making access easy even during heavy rain.",
+                "tr": "Müze ziyaretini uzun bir kuru ara olarak kullanın; müzenin hemen yanında park yerleri var, bu da yoğun yağmurda bile erişimi kolaylaştırır."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Neuer Leuchtturm",
                 "hu": "Új Világítótorony",
                 "ro": "Noul Far",
-                "en": "New Lighthouse"
+                "en": "New Lighthouse",
+                "tr": "Yeni Deniz Feneri"
               },
               "tip_5lang": {
                 "de": "Der Leuchtturm ist ein tolles Fotomotiv aus dem Autofenster heraus; achten Sie beim Einparken auf große Pfützen, die die Markierungen verdecken könnten.",
                 "hu": "A világítótorony nagyszerű fotótéma az autóablakon keresztül is; parkoláskor ügyelj a mély pocsolyákra, amik elfedhetik az útburkolati jeleket.",
                 "ro": "Farul este un subiect excelent pentru fotografii direct din geamul mașinii; atenție la bălțile mari când parcați, deoarece pot ascunde marcajele.",
-                "en": "The lighthouse is a great photo subject even through the car window; watch out for large puddles when parking as they might hide road markings."
+                "en": "The lighthouse is a great photo subject even through the car window; watch out for large puddles when parking as they might hide road markings.",
+                "tr": "Deniz feneri, araç camından bile harika bir fotoğraf konusu; park ederken büyük su birikintilerine dikkat edin, yol işaretlerini gizleyebilirler."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Iglu-Strand",
                 "hu": "Iglu Strand",
                 "ro": "Plaja Iglu",
-                "en": "Igloo Beach"
+                "en": "Igloo Beach",
+                "tr": "Igloo Plajı"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den verregneten Strand bequem vom Beifahrersitz; ein kurzer Sprint zum Wasser lohnt sich für die frische Meeresluft.",
                 "hu": "Élvezd az esős strand látványát kényelmesen az anyósülésről; egy rövid sprint a vízig megéri a friss tengeri levegőért, de legyen nálad esernyő.",
                 "ro": "Bucurați-vă de vederea plajei ploioase din confortul scaunului pasagerului; merită un scurt sprint până la apă pentru aerul curat al mării.",
-                "en": "Enjoy the view of the rainy beach comfortably from the passenger seat; a quick sprint to the water is worth it for the fresh sea air."
+                "en": "Enjoy the view of the rainy beach comfortably from the passenger seat; a quick sprint to the water is worth it for the fresh sea air.",
+                "tr": "Yağmurlu plaj manzarasının keyfini yolcu koltuğundan rahatça çıkarın; suya kısa bir koşu, taze deniz havası için değer."
               }
             },
             {
@@ -947,13 +1051,15 @@
                 "de": "Südstrand",
                 "hu": "Déli Strand",
                 "ro": "Plaja de Sud",
-                "en": "South Beach"
+                "en": "South Beach",
+                "tr": "Güney Plajı"
               },
               "tip_5lang": {
                 "de": "Der Südstrand bietet auch im Regen eine weite Sicht; lassen Sie das Auto kurz stehen und nutzen Sie die überdachten Bereiche für einen Blick aufs Meer.",
                 "hu": "A Déli Strand esőben is tágas kilátást nyújt; hagyd az autót a parkolóban, és használd a fedett részeket a tengeri panoráma megtekintéséhez.",
                 "ro": "Plaja de Sud oferă o vedere largă chiar și pe ploaie; lăsați mașina pentru scurt timp și folosiți zonele acoperite pentru o privire asupra mării.",
-                "en": "South Beach offers a wide view even in the rain; leave the car for a moment and use the covered areas to get a good look at the sea."
+                "en": "South Beach offers a wide view even in the rain; leave the car for a moment and use the covered areas to get a good look at the sea.",
+                "tr": "Güney Plajı yağmurda bile geniş bir görüş sunar; arabayı bir anlığına bırakın ve denize iyi bir bakış için örtülü alanları kullanın."
               }
             }
           ]
@@ -963,7 +1069,8 @@
             "de": "An einem frostigen Morgen bringt Sie das Auto warm und sicher zum Jugendbad. Mittags wärmen Sie sich im Dykhus Museum auf, bevor die Fahrt zum Leuchtturm fortgesetzt wird. Nachmittags ist die Fahrt zum Iglu-Strand besonders schön, wenn die tiefstehende Wintersonne alles golden färbt. Der Abend endet bei einer gemütlichen Rückfahrt im beheizten Wagen.",
             "hu": "A fagyos reggelen az autó melegében és biztonságban juthatsz el az Ifjúsági Fürdőhelyhez. Délben a Dykhus Múzeumban melegedhetsz fel, mielőtt folytatnád az utat a toronyhoz. Délután az Iglu Strand felé vezető út különösen szép, ahogy az alacsony téli nap mindent aranyba von. Az este egy kellemes kocsikázással zárul a fűtött kocsiban.",
             "ro": "Într-o dimineață geroasă, mașina vă duce la căldură și în siguranță spre zona Jugendbad. La prânz vă încălziți în Muzeul Dykhus înainte de a continua drumul spre far. După-amiaza, drumul spre Plaja Iglu este deosebit de frumos când soarele de iarnă colorează totul în auriu. Seara se încheie cu o plimbare plăcută în mașina încălzită.",
-            "en": "On a frosty morning, the car takes you warmly and safely to the Youth Bathing Area. At midday, warm up in the Dykhus Museum before continuing your drive to the lighthouse. In the afternoon, the drive to Igloo Beach is especially beautiful as the low winter sun turns everything golden. The evening ends with a cozy drive in the heated car."
+            "en": "On a frosty morning, the car takes you warmly and safely to the Youth Bathing Area. At midday, warm up in the Dykhus Museum before continuing your drive to the lighthouse. In the afternoon, the drive to Igloo Beach is especially beautiful as the low winter sun turns everything golden. The evening ends with a cozy drive in the heated car.",
+            "tr": "Donlu bir sabahta araba sizi Youth Bathing Area'ya sıcak ve güvenli bir şekilde götürür. Öğleye doğru Dykhus History Museum'da ısının, ardından deniz fenerine doğru sürüşe devam edin. Öğleden sonra, alçak kış güneşi her şeyi altın rengine çevirdiği için Igloo Plajı'na yapılan sürüş özellikle güzeldir. Akşam, ısıtmalı arabayla keyifli bir sürüşle sona erer."
           },
           "stops": [
             {
@@ -971,13 +1078,15 @@
                 "de": "Jugendbad",
                 "hu": "Ifjúsági Fürdőhely",
                 "ro": "Băile pentru Tineret",
-                "en": "Youth Bathing Area"
+                "en": "Youth Bathing Area",
+                "tr": "Youth Bathing Area"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Sitzheizung nach einem kurzen Strandspaziergang in der Kälte; die Wintersonne bietet hier oft spektakuläre Fotomöglichkeiten.",
                 "hu": "Használd az ülésfűtést egy rövid, hideg tengerparti séta után; a téli naplemente gyakran lenyűgöző fotótémákat kínál ezen a partszakaszon.",
                 "ro": "Folosiți încălzirea în scaune după o scurtă plimbare prin frig pe plajă; soarele de iarnă oferă adesea oportunități spectaculoase pentru fotografii.",
-                "en": "Use the seat heating after a quick beach walk in the cold; the winter sun often provides spectacular photo opportunities here."
+                "en": "Use the seat heating after a quick beach walk in the cold; the winter sun often provides spectacular photo opportunities here.",
+                "tr": "Soğukta kısa bir plaj yürüyüşünden sonra koltuk ısıtmasını kullanın; kış güneşi burada sık sık muhteşem fotoğraf olanakları sunar."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Heimatmuseum Dykhus",
                 "hu": "Dykhus Helytörténeti Múzeum",
                 "ro": "Muzeul de Istorie Dykhus",
-                "en": "Dykhus History Museum"
+                "en": "Dykhus History Museum",
+                "tr": "Dykhus History Museum"
               },
               "tip_5lang": {
                 "de": "Die Wärme des Museums ist im Winter eine Wohltat; achten Sie beim Aussteigen auf glatte Stellen auf dem Parkplatz direkt vor dem Eingang.",
                 "hu": "A múzeum belső melege télen igazi áldás; kiszálláskor ügyelj a parkoló esetlegesen jeges foltjaira közvetlenül a bejárat előtt.",
                 "ro": "Căldura muzeului este o binecuvântare iarna; fiți atenți la porțiunile alunecoase din parcare chiar înainte de a intra în clădire.",
-                "en": "The museum's warmth is a blessing in winter; watch out for slippery spots in the parking lot right in front of the entrance when getting out."
+                "en": "The museum's warmth is a blessing in winter; watch out for slippery spots in the parking lot right in front of the entrance when getting out.",
+                "tr": "Müzenin sıcaklığı kışın bir nimettir; dışarı çıkarken girişin hemen önündeki otoparktaki kaygan noktalara dikkat edin."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Neuer Leuchtturm",
                 "hu": "Új Világítótorony",
                 "ro": "Noul Far",
-                "en": "New Lighthouse"
+                "en": "New Lighthouse",
+                "tr": "Yeni Deniz Feneri"
               },
               "tip_5lang": {
                 "de": "Im Winter ist es hier deutlich ruhiger, was die Parkplatzsuche erleichtert; genießen Sie den Blick auf das Wahrzeichen ohne den sommerlichen Trubel.",
                 "hu": "Télen itt sokkal nyugodtabb a környék, így könnyebb parkolót találni; élvezd a sziget jelképének látványát a nyári tömeg és a hőség nélkül.",
                 "ro": "Iarna este mult mai liniște aici, ceea ce facilitează găsirea unui loc de parcare; admirați simbolul insulei fără agitația tipică verii.",
-                "en": "It's much quieter here in winter, making it easier to find a parking spot; enjoy the view of this landmark without the typical summer crowds."
+                "en": "It's much quieter here in winter, making it easier to find a parking spot; enjoy the view of this landmark without the typical summer crowds.",
+                "tr": "Kışın burada çok daha sakindir, bu da park yeri bulmayı kolaylaştırır; bu simge yapının manzarasının tadını tipik yaz kalabalığı olmadan çıkarın."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Iglu-Strand",
                 "hu": "Iglu Strand",
                 "ro": "Plaja Iglu",
-                "en": "Igloo Beach"
+                "en": "Igloo Beach",
+                "tr": "Igloo Plajı"
               },
               "tip_5lang": {
                 "de": "Der Name passt perfekt zur Jahreszeit; beobachten Sie die gefrorene Gischt am Strand direkt aus dem warmen Auto bei laufender Heizung.",
                 "hu": "A név tökéletesen illik az évszakhoz; figyeld meg a partra vetett, megfagyott tengeri habot közvetlenül a meleg autóból, járó fűtés mellett.",
                 "ro": "Numele se potrivește perfect cu sezonul; observați spuma înghețată de pe plajă direct din mașina caldă cu încălzirea pornită.",
-                "en": "The name fits the season perfectly; observe the frozen sea spray on the beach directly from your warm car with the heater running."
+                "en": "The name fits the season perfectly; observe the frozen sea spray on the beach directly from your warm car with the heater running.",
+                "tr": "İsim mevsime mükemmel uyuyor; ısıtıcı çalışırken sıcak aracınızdan plajdaki donmuş deniz spreyi gözlemleyin."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Südstrand",
                 "hu": "Déli Strand",
                 "ro": "Plaja de Sud",
-                "en": "South Beach"
+                "en": "South Beach",
+                "tr": "Güney Plajı"
               },
               "tip_5lang": {
                 "de": "Da es um 17 Uhr bereits dunkel ist, bietet die Rückfahrt vom Südstrand einen schönen Blick auf die winterliche Beleuchtung der kleinen Inselstraßen.",
                 "hu": "Mivel ötkor már sötét van, a Déli Strandról való visszatéréskor csodás látványt nyújtanak a kis szigeti utcák hangulatos téli fényei.",
                 "ro": "Deoarece se întunecă deja la ora 17, drumul de întoarcere oferă o vedere frumoasă asupra iluminatului de iarnă de pe străzile insulei.",
-                "en": "As it gets dark by 5 PM, the return drive from South Beach offers a lovely view of the winter lighting along the island's small streets."
+                "en": "As it gets dark by 5 PM, the return drive from South Beach offers a lovely view of the winter lighting along the island's small streets.",
+                "tr": "Saat 17:00'de kararmaya başladığı için Güney Plajı'ndan dönüş sürüşü adanın küçük sokaklarındaki kış aydınlatmasının hoş bir manzarasını sunar."
               }
             }
           ]

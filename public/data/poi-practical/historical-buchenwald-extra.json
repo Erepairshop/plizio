@@ -3,55 +3,64 @@
     "de": "Gedenkstätte Buchenwald, 99427 Weimar",
     "hu": "Buchenwald Emlékhely, 99427 Weimar",
     "ro": "Memorialul Buchenwald, 99427 Weimar",
-    "en": "Buchenwald Memorial, 99427 Weimar"
+    "en": "Buchenwald Memorial, 99427 Weimar",
+    "tr": "Buchenwald Anıtı, 99427 Weimar"
   },
   "openingHours": {
     "de": "Gelände 08:00 bis Einbruch Dunkelheit, Museen Di-So 10:00-18:00 (Sommer)",
     "hu": "Terület 08:00-tól sötétedésig, múzeumok K-V 10:00-18:00 (nyár)",
     "ro": "Teren 08:00 până la lăsarea întunericului, muzee Ma-Du 10:00-18:00 (vară)",
-    "en": "Grounds 08:00 until nightfall, museums Tue-Sun 10:00-18:00 (summer)"
+    "en": "Grounds 08:00 until nightfall, museums Tue-Sun 10:00-18:00 (summer)",
+    "tr": "Alan 08:00'den karanlığa kadar, müzeler Salı-Pazar 10:00-18:00 (yaz)"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.buchenwald.de",
   "publicTransport": {
     "de": "Bus 6 vom Goetheplatz Weimar direkt zur Gedenkstätte.",
     "hu": "6-os busz a weimari Goetheplatztól közvetlenül az emlékhelyig.",
     "ro": "Autobuzul 6 din Goetheplatz Weimar direct până la memorial.",
-    "en": "Bus 6 from Goetheplatz Weimar directly to the memorial."
+    "en": "Bus 6 from Goetheplatz Weimar directly to the memorial.",
+    "tr": "Goetheplatz Weimar'dan 6 numaralı otobüs doğrudan anıta gider."
   },
   "parking": {
     "de": "Großer kostenloser Parkplatz direkt vor dem Eingang.",
     "hu": "Nagy ingyenes parkoló közvetlenül a bejárat előtt.",
     "ro": "Parcare mare gratuită chiar în fața intrării.",
-    "en": "Large free parking directly in front of the entrance."
+    "en": "Large free parking directly in front of the entrance.",
+    "tr": "Girişin hemen önünde büyük ücretsiz otopark."
   },
   "accessibility": {
     "de": "Gelände weitläufig und teils uneben, Museen barrierefrei.",
     "hu": "A terület nagy és részben egyenetlen, a múzeumok akadálymentesek.",
     "ro": "Terenul este vast și parțial denivelat, muzeele sunt accesibile.",
-    "en": "Grounds are vast and partly uneven, museums are accessible."
+    "en": "Grounds are vast and partly uneven, museums are accessible.",
+    "tr": "Alan geniş ve kısmen engebeli, müzeler erişilebilir."
   },
   "photoRules": {
     "de": "Erlaubt für private Zwecke, Pietät wahren.",
     "hu": "Engedélyezett privát célokra, kegyeletteljesen.",
     "ro": "Permis pentru scopuri private, respectând solemnitatea.",
-    "en": "Allowed for private use, maintain decorum."
+    "en": "Allowed for private use, maintain decorum.",
+    "tr": "Özel kullanım için izinli, saygı kurallarına uyun."
   },
   "bestTimeToVisit": {
     "de": "Vormittags unter der Woche, Zeit für den 2-3 km Rundweg einplanen.",
     "hu": "Hétköznap délelőtt, tervezzen időt a 2-3 km-es körútra.",
     "ro": "În timpul săptămânii dimineața, planificați timp pentru traseul circular de 2-3 km.",
-    "en": "Weekday mornings, plan time for the 2-3 km circular route."
+    "en": "Weekday mornings, plan time for the 2-3 km circular route.",
+    "tr": "Hafta içi sabahları, 2-3 km'lik çevre rotası için zaman ayırın."
   },
   "audioGuide": {
     "de": "Deutsch, Englisch, Französisch (gegen Gebühr)",
     "hu": "Német, angol, francia (díj ellenében)",
     "ro": "Germană, engleză, franceză (contra cost)",
-    "en": "German, English, French (for a fee)"
+    "en": "German, English, French (for a fee)",
+    "tr": "Almanca, İngilizce, Fransızca (ücretli)"
   }
 }

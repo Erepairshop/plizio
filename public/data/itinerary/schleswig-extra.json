@@ -21,7 +21,8 @@
             "de": "Schleswiger Dom",
             "hu": "Schleswigi dóm",
             "ro": "Catedrala din Schleswig",
-            "en": "Schleswig Cathedral"
+            "en": "Schleswig Cathedral",
+            "tr": "Schleswig Katedrali"
           },
           "coords": [
             9.5693,
@@ -36,7 +37,8 @@
             "de": "Bestunern Sie den berühmten Bordesholmer Altar von Hans Brüggemann.",
             "hu": "Nézze meg Hans Brüggemann híres Bordesholm-oltárát.",
             "ro": "Admirați celebrul Altar Bordesholm realizat de Hans Brüggemann.",
-            "en": "Marvel at the famous Bordesholm Altar by Hans Brüggemann."
+            "en": "Marvel at the famous Bordesholm Altar by Hans Brüggemann.",
+            "tr": "Hans Brüggemann'in ünlü Bordesholm Sunağı'na hayran kalın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Fischersiedlung Holm",
             "hu": "Holm halásznegyed",
             "ro": "Cartierul pescăresc Holm",
-            "en": "Holm Fishermen's Settlement"
+            "en": "Holm Fishermen's Settlement",
+            "tr": "Holm Balıkçı Yerleşkesi"
           },
           "coords": [
             9.5746,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie den kleinen Friedhof in der Mitte der Siedlung.",
             "hu": "Látogasson el a település közepén található kis temetőhöz.",
             "ro": "Vizitați micul cimitir din centrul așezării.",
-            "en": "Visit the small cemetery in the middle of the settlement."
+            "en": "Visit the small cemetery in the middle of the settlement.",
+            "tr": "Yerleşkenin ortasındaki küçük mezarlığı ziyaret edin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Königswiesen",
             "hu": "Királyrétek park",
             "ro": "Parcul Königswiesen",
-            "en": "Königswiesen Park"
+            "en": "Königswiesen Park",
+            "tr": "Königswiesen Parkı"
           },
           "coords": [
             9.557,
@@ -82,7 +87,8 @@
             "de": "Perfekter Ort für ein Picknick direkt am Schlei-Ufer.",
             "hu": "Tökéletes hely egy piknikhez közvetlenül a Schlei partján.",
             "ro": "Locul perfect pentru un picnic chiar pe malul Schlei.",
-            "en": "Perfect spot for a picnic right on the Schlei shore."
+            "en": "Perfect spot for a picnic right on the Schlei shore.",
+            "tr": "Schlei kıyısında piknik için mükemmel nokta."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Schloss Gottorf",
             "hu": "Gottorf-kastély",
             "ro": "Castelul Gottorf",
-            "en": "Gottorf Castle"
+            "en": "Gottorf Castle",
+            "tr": "Gottorf Sarayı"
           },
           "coords": [
             9.5414,
@@ -105,7 +112,8 @@
             "de": "Besichtigen Sie den berühmten Riesenglobus im Barockgarten.",
             "hu": "Tekintse meg a barokk kert híres óriásglóbuszát.",
             "ro": "Vedeți celebrul glob uriaș din grădina barocă.",
-            "en": "See the famous giant globe in the Baroque garden."
+            "en": "See the famous giant globe in the Baroque garden.",
+            "tr": "Barok bahçedeki ünlü dev küreyi görün."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Archäologisches Landesmuseum",
             "hu": "Tartományi Régészeti Múzeum",
             "ro": "Muzeul Arheologic de Stat",
-            "en": "State Archaeological Museum"
+            "en": "State Archaeological Museum",
+            "tr": "Eyalet Arkeoloji Müzesi"
           },
           "coords": [
             9.542,
@@ -128,7 +137,8 @@
             "de": "Die Moorleichen und das Nydam-Schiff sind absolute Highlights.",
             "hu": "A lápi hullák és a Nydam-hajó a legfontosabb látnivalók.",
             "ro": "Mumiile din mlaștină și nava Nydam sunt atracții de top.",
-            "en": "The bog bodies and the Nydam ship are absolute highlights."
+            "en": "The bog bodies and the Nydam ship are absolute highlights.",
+            "tr": "Bataklık cesetleri ve Nydam gemisi kesinlikle öne çıkanlar."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Luisenbad",
             "hu": "Luisenbad strand",
             "ro": "Ștrandul Luisenbad",
-            "en": "Luisenbad Beach"
+            "en": "Luisenbad Beach",
+            "tr": "Luisenbad Plajı"
           },
           "coords": [
             9.551,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie den Blick auf die Schlei zum Abschluss des Tages.",
             "hu": "Élvezze a Schlei-re nyíló kilátást a nap zárásaként.",
             "ro": "Bucurați-vă de priveliștea asupra Schlei la finalul zilei.",
-            "en": "Enjoy the view over the Schlei to end your day."
+            "en": "Enjoy the view over the Schlei to end your day.",
+            "tr": "Günü yelkenlilere bakarak bitirin."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Entdecken Sie Schleswig zu Fuß, angefangen beim imposanten Dom bis zur idyllischen Fischersiedlung Holm. Mittags entspannen Sie in den Königswiesen am Wasser, bevor Sie am Nachmittag die kulturellen Schätze von Schloss Gottorf und die faszinierenden Moorleichen im Archäologischen Museum erkunden. Der Tag endet entspannt am Luisenbad mit Blick auf die Segelboote.",
         "hu": "Fedezze fel Schleswiget gyalogosan, az impozáns dómtól az idilli Holm halásznegyedig. Délben pihenjen a vízparti Királyréteken, majd délután fedezze fel a Gottorf-kastély kulturális kincseit és a Régészeti Múzeum lenyűgöző lápi múmiáit. A napot a Luisenbad strandján zárhatja, a vitorlások látványával.",
         "ro": "Explorați Schleswig la pas, începând de la catedrala impunătoare până la idilicul cartier pescăresc Holm. La prânz, relaxați-vă pe pajiștile Königswiesen de lângă apă, înainte de a explora comorile culturale ale Castelului Gottorf și mumiile fascinante din Muzeul Arheologic. Ziua se încheie relaxat la Luisenbad, privind bărcile cu pânze.",
-        "en": "Discover Schleswig on foot, starting from the imposing cathedral to the idyllic Holm fishing village. At noon, relax at the waterfront Königswiesen before exploring the cultural treasures of Gottorf Castle and the fascinating bog bodies in the Archaeological Museum. The day ends peacefully at Luisenbad with a view of the sailboats."
+        "en": "Discover Schleswig on foot, starting from the imposing cathedral to the idyllic Holm fishing village. At noon, relax at the waterfront Königswiesen before exploring the cultural treasures of Gottorf Castle and the fascinating bog bodies in the Archaeological Museum. The day ends peacefully at Luisenbad with a view of the sailboats.",
+        "tr": "Schleswig'i yürüyerek keşfedin; görkemli katedralden pastoral Holm balıkçı köyüne kadar. Öğle vakti, kıyıdaki Königswiesen'de dinlenin; ardından Gottorf Sarayı'nın kültürel hazinelerini ve Arkeoloji Müzesi'ndeki büyüleyici bataklık cesetlerini keşfedin. Gün, yelkenlilere karşı manzarayla Luisenbad'de huzur içinde sona erer."
       },
       "gastro_picks": {
         "de": [
@@ -303,6 +316,12 @@
           "Wear comfortable shoes for the cobblestones in Holm.",
           "A combined ticket for the Gottorf museums is worth it.",
           "Pay attention to the opening hours of the cathedral."
+        ],
+        "tr": [
+          "Yollar düz ve yürüyüş için kolay.",
+          "Holm'daki kaldırım taşları için rahat ayakkabılar giyin.",
+          "Gottorf müzeleri için kombin bilet değerli olabilir.",
+          "Katedralin açılış saatlerine dikkat edin."
         ]
       }
     },
@@ -319,7 +338,8 @@
             "de": "Wikinger Museum Haithabu",
             "hu": "Haithabu Viking Múzeum",
             "ro": "Muzeul Viking Haithabu",
-            "en": "Haithabu Viking Museum"
+            "en": "Haithabu Viking Museum",
+            "tr": "Haithabu Viking Müzesi"
           },
           "coords": [
             9.5694,
@@ -334,7 +354,8 @@
             "de": "Besuchen Sie die rekonstruierten Wikingerhäuser am Ufer.",
             "hu": "Látogassa meg a rekonstruált viking házakat a parton.",
             "ro": "Vizitați casele vikinge reconstruite pe mal.",
-            "en": "Visit the reconstructed Viking houses on the shore."
+            "en": "Visit the reconstructed Viking houses on the shore.",
+            "tr": "Kıyıda yeniden inşa edilmiş Viking evlerini ziyaret edin."
           }
         },
         {
@@ -342,7 +363,8 @@
             "de": "Schleswiger Dom",
             "hu": "Schleswigi dóm",
             "ro": "Catedrala din Schleswig",
-            "en": "Schleswig Cathedral"
+            "en": "Schleswig Cathedral",
+            "tr": "Schleswig Katedrali"
           },
           "coords": [
             9.5693,
@@ -357,7 +379,8 @@
             "de": "Der Turm bietet einen tollen Blick über die Stadt.",
             "hu": "A toronyból remek kilátás nyílik a városra.",
             "ro": "Turnul oferă o vedere panoramică asupra orașului.",
-            "en": "The tower offers a great view over the city."
+            "en": "The tower offers a great view over the city.",
+            "tr": "Kule şehir üzerinde harika bir manzara sunar."
           }
         },
         {
@@ -365,7 +388,8 @@
             "de": "Fischersiedlung Holm",
             "hu": "Holm halásznegyed",
             "ro": "Cartierul pescăresc Holm",
-            "en": "Holm Fishermen's Settlement"
+            "en": "Holm Fishermen's Settlement",
+            "tr": "Holm Balıkçı Yerleşkesi"
           },
           "coords": [
             9.5746,
@@ -380,7 +404,8 @@
             "de": "Fahrräder am Eingang der Siedlung abstellen.",
             "hu": "A kerékpárokat a település bejáratánál hagyja.",
             "ro": "Lăsați bicicletele la intrarea în cartier.",
-            "en": "Leave bicycles at the entrance of the settlement."
+            "en": "Leave bicycles at the entrance of the settlement.",
+            "tr": "Bisikletleri yerleşkenin girişinde bırakın."
           }
         },
         {
@@ -388,7 +413,8 @@
             "de": "Königswiesen",
             "hu": "Királyrétek park",
             "ro": "Parcul Königswiesen",
-            "en": "Königswiesen Park"
+            "en": "Königswiesen Park",
+            "tr": "Königswiesen Parkı"
           },
           "coords": [
             9.557,
@@ -403,7 +429,8 @@
             "de": "Radweg führt direkt am Wasser entlang.",
             "hu": "A kerékpárút közvetlenül a víz mentén halad.",
             "ro": "Pista de biciclete trece chiar pe lângă apă.",
-            "en": "The cycle path runs right along the water."
+            "en": "The cycle path runs right along the water.",
+            "tr": "Bisiklet yolu su boyunca uzanır."
           }
         },
         {
@@ -411,7 +438,8 @@
             "de": "Schloss Gottorf",
             "hu": "Gottorf-kastély",
             "ro": "Castelul Gottorf",
-            "en": "Gottorf Castle"
+            "en": "Gottorf Castle",
+            "tr": "Gottorf Sarayı"
           },
           "coords": [
             9.5414,
@@ -426,7 +454,8 @@
             "de": "Besuch des Barockgartens ist auch mit dem Rad ein Genuss.",
             "hu": "A barokk kert kerékpárral is élvezetes.",
             "ro": "Vizita în grădina barocă este o plăcere și cu bicicleta.",
-            "en": "A visit to the Baroque garden is also a joy by bike."
+            "en": "A visit to the Baroque garden is also a joy by bike.",
+            "tr": "Barok bahçeyi bisikletle gezmek de zevklidir."
           }
         },
         {
@@ -434,7 +463,8 @@
             "de": "Landesmuseum für Kunst",
             "hu": "Tartományi Művészeti Múzeum",
             "ro": "Muzeul de Stat pentru Artă",
-            "en": "State Museum for Art"
+            "en": "State Museum for Art",
+            "tr": "Eyalet Sanat Müzesi"
           },
           "coords": [
             9.542,
@@ -449,7 +479,8 @@
             "de": "Wichtige Sammlung norddeutscher Kunst.",
             "hu": "Észak-német művészet fontos gyűjteménye.",
             "ro": "O colecție importantă de artă din nordul Germaniei.",
-            "en": "Important collection of North German art."
+            "en": "Important collection of North German art.",
+            "tr": "Kuzey Alman sanatının önemli koleksiyonu."
           }
         },
         {
@@ -457,7 +488,8 @@
             "de": "Luisenbad",
             "hu": "Luisenbad strand",
             "ro": "Ștrandul Luisenbad",
-            "en": "Luisenbad Beach"
+            "en": "Luisenbad Beach",
+            "tr": "Luisenbad Plajı"
           },
           "coords": [
             9.551,
@@ -472,7 +504,8 @@
             "de": "Kurze Erfrischung vor der Rückfahrt.",
             "hu": "Rövid felfrissülés a visszaút előtt.",
             "ro": "O scurtă răcorire înainte de plecare.",
-            "en": "Quick refreshment before the ride back."
+            "en": "Quick refreshment before the ride back.",
+            "tr": "Dönüş yolculuğu öncesi kısa bir serinleme."
           }
         }
       ],
@@ -480,7 +513,8 @@
         "de": "Diese Radtour führt Sie einmal um die Bucht der Kleinen Breite. Starten Sie im Süden bei den Wikingern in Haithabu, bevor Sie über den Dom und den Holm zum Schloss Gottorf radeln. Die flachen Wege entlang der Schlei bieten herrliche Ausblicke und machen das Radfahren hier zum reinen Vergnügen. Ein Sprung ins Wasser am Luisenbad rundet das Erlebnis ab.",
         "hu": "Ez a kerékpártúra a Kleine Breite öböl köré kalauzolja. Kezdjen délen, a haithabui vikingeknél, majd a dóm és a Holm érintésével tekerjen a Gottorf-kastélyig. A Schlei menti sík utak csodás kilátást nyújtanak, és igazi élménnyé teszik a biciklizést. A napot egy csobbanás koronázza meg a Luisenbadnál.",
         "ro": "Acest tur cu bicicleta vă poartă în jurul golfului Kleine Breite. Începeți în sud, la vikingii din Haithabu, înainte de a pedala spre castelul Gottorf trecând pe la catedrală și Holm. Traseele plate de-a lungul Schlei oferă priveliști superbe și fac din ciclism o plăcere pură. O baie la Luisenbad completează experiența.",
-        "en": "This bike tour takes you around the Kleine Breite bay. Start south with the Vikings in Haithabu before cycling via the Cathedral and Holm to Gottorf Castle. The flat paths along the Schlei offer wonderful views and make cycling here a pure joy. A dip in the water at Luisenbad rounds off the experience."
+        "en": "This bike tour takes you around the Kleine Breite bay. Start south with the Vikings in Haithabu before cycling via the Cathedral and Holm to Gottorf Castle. The flat paths along the Schlei offer wonderful views and make cycling here a pure joy. A dip in the water at Luisenbad rounds off the experience.",
+        "tr": "Bu bisiklet turu sizi Kleine Breite koyu etrafında dolaştırır. Güneyde Haithabu’daki Vikinglerle başlayın, ardından Katedral ve Holm üzerinden Gottorf Kalesi’ne bisikletle gidin. Schlei boyunca uzanan düz yollar muhteşem manzaralar sunar ve burada bisiklet sürmeyi gerçek bir zevk haline getirir. Luisenbad’da suya bir dalış deneyimi tamamlar."
       },
       "gastro_picks": {
         "de": [
@@ -604,6 +638,12 @@
           "A bike lock is absolutely necessary in the city.",
           "The stretch around Haddebyer Noor is particularly beautiful.",
           "Be careful with wind directly from the water."
+        ],
+        "tr": [
+          "Bisiklet yolları çok iyi işaretlenmiştir (Viking-Frisian-Way).",
+          "Şehirde mutlaka bir bisiklet kilidi gereklidir.",
+          "Haddebyer Noor çevresi özellikle güzeldir.",
+          "Sudan doğrudan gelen rüzgara dikkat edin."
         ]
       }
     },
@@ -620,7 +660,8 @@
             "de": "Wikinger Museum Haithabu",
             "hu": "Haithabu Viking Múzeum",
             "ro": "Muzeul Viking Haithabu",
-            "en": "Haithabu Viking Museum"
+            "en": "Haithabu Viking Museum",
+            "tr": "Haithabu Viking Müzesi"
           },
           "coords": [
             9.5694,
@@ -635,7 +676,8 @@
             "de": "Großer Parkplatz direkt am Museumseingang.",
             "hu": "Nagy parkoló közvetlenül a múzeumbemenetnél.",
             "ro": "Parcare mare chiar la intrarea în muzeu.",
-            "en": "Large parking lot directly at the museum entrance."
+            "en": "Large parking lot directly at the museum entrance.",
+            "tr": "Müze girişinin hemen yanında büyük otopark."
           }
         },
         {
@@ -643,7 +685,8 @@
             "de": "Haddebyer Kirche",
             "hu": "Haddeby-templom",
             "ro": "Biserica din Haddeby",
-            "en": "Haddeby Church"
+            "en": "Haddeby Church",
+            "tr": "Haddeby Kilisesi"
           },
           "coords": [
             9.562,
@@ -658,7 +701,8 @@
             "de": "Historische Feldsteinkirche ganz in der Nähe.",
             "hu": "Történelmi terméskő templom a közelben.",
             "ro": "Biserică istorică din piatră de câmp, foarte aproape.",
-            "en": "Historical fieldstone church nearby."
+            "en": "Historical fieldstone church nearby.",
+            "tr": "Yakınlarda tarihi taş kilise."
           }
         },
         {
@@ -666,7 +710,8 @@
             "de": "Schleswiger Dom (Parken am Hafen)",
             "hu": "Schleswigi dóm (parkolás a kikötőben)",
             "ro": "Catedrala Schleswig (parcare în port)",
-            "en": "Schleswig Cathedral (Port Parking)"
+            "en": "Schleswig Cathedral (Port Parking)",
+            "tr": "Schleswig Katedrali (Liman Parkı)"
           },
           "coords": [
             9.5693,
@@ -681,7 +726,8 @@
             "de": "Am Stadthafen gibt es meist gute Parkmöglichkeiten.",
             "hu": "A városi kikötőben általában jók a parkolási lehetőségek.",
             "ro": "În portul orașului există de obicei locuri bune de parcare.",
-            "en": "There are usually good parking options at the city port."
+            "en": "There are usually good parking options at the city port.",
+            "tr": "Şehir limanında genellikle iyi park seçenekleri vardır."
           }
         },
         {
@@ -689,7 +735,8 @@
             "de": "Fischersiedlung Holm",
             "hu": "Holm halásznegyed",
             "ro": "Cartierul pescăresc Holm",
-            "en": "Holm Fishermen's Settlement"
+            "en": "Holm Fishermen's Settlement",
+            "tr": "Holm Balıkçı Yerleşimi"
           },
           "coords": [
             9.5746,
@@ -704,7 +751,8 @@
             "de": "Zu Fuß vom Hafen-Parkplatz erreichbar.",
             "hu": "Gyalogosan elérhető a kikötői parkolótól.",
             "ro": "Accesibil pe jos de la parcarea din port.",
-            "en": "Accessible on foot from the port parking lot."
+            "en": "Accessible on foot from the port parking lot.",
+            "tr": "Liman otoparkından yürüyerek ulaşılabilir."
           }
         },
         {
@@ -712,7 +760,8 @@
             "de": "Schloss Gottorf (Parkplatz)",
             "hu": "Gottorf-kastély (parkoló)",
             "ro": "Castelul Gottorf (parcare)",
-            "en": "Gottorf Castle (Parking)"
+            "en": "Gottorf Castle (Parking)",
+            "tr": "Gottorf Kalesi (Park)"
           },
           "coords": [
             9.5414,
@@ -727,7 +776,8 @@
             "de": "Nutzen Sie den Hauptparkplatz auf der Schlossinsel.",
             "hu": "Használja a kastélyszigeti főparkolót.",
             "ro": "Utilizați parcarea principală de pe insula castelului.",
-            "en": "Use the main parking lot on the castle island."
+            "en": "Use the main parking lot on the castle island.",
+            "tr": "Kale adasındaki ana otoparkı kullanın."
           }
         },
         {
@@ -735,7 +785,8 @@
             "de": "Barockgarten & Globushaus",
             "hu": "Barokk kert és Glóbuszház",
             "ro": "Grădina barocă și casa globului",
-            "en": "Baroque Garden & Globe House"
+            "en": "Baroque Garden & Globe House",
+            "tr": "Barok Bahçe & Küre Evi"
           },
           "coords": [
             9.545,
@@ -750,7 +801,8 @@
             "de": "Spaziergang vom Schloss zum Garten.",
             "hu": "Séta a kastélytól a kertig.",
             "ro": "Plimbare de la castel la grădină.",
-            "en": "Walk from the castle to the garden."
+            "en": "Walk from the castle to the garden.",
+            "tr": "Kaledan bahçeye yürüyün."
           }
         },
         {
@@ -758,7 +810,8 @@
             "de": "Luisenbad",
             "hu": "Luisenbad strand",
             "ro": "Ștrandul Luisenbad",
-            "en": "Luisenbad Beach"
+            "en": "Luisenbad Beach",
+            "tr": "Luisenbad Plajı"
           },
           "coords": [
             9.551,
@@ -773,7 +826,8 @@
             "de": "Parken Sie an den Königswiesen.",
             "hu": "Parkoljon a Királyréteknél.",
             "ro": "Parcați la Königswiesen.",
-            "en": "Park at Königswiesen."
+            "en": "Park at Königswiesen.",
+            "tr": "Königswiesen’de park edin."
           }
         },
         {
@@ -781,7 +835,8 @@
             "de": "Hafengastro",
             "hu": "Kikötői gasztro",
             "ro": "Gastronomie în port",
-            "en": "Port Gastronomy"
+            "en": "Port Gastronomy",
+            "tr": "Liman Gastronomisi"
           },
           "coords": [
             9.565,
@@ -796,7 +851,8 @@
             "de": "Abendessen mit Blick auf die Marina.",
             "hu": "Vacsora a marina látványával.",
             "ro": "Cină cu vedere la marină.",
-            "en": "Dinner with a view of the marina."
+            "en": "Dinner with a view of the marina.",
+            "tr": "Marinayı gören bir akşam yemeği."
           }
         }
       ],
@@ -804,7 +860,8 @@
         "de": "Mit dem Auto verbinden Sie bequem die weit verstreuten Highlights von Schleswig. Starten Sie südlich der Schlei bei den Wikingern in Haithabu. Danach parken Sie am Hafen, um den Dom und den Holm zu Fuß zu erkunden. Am Nachmittag widmen Sie sich der Schlossinsel Gottorf mit ihrem Barockgarten, bevor Sie den Tag entspannt am Stadthafen ausklingen lassen.",
         "hu": "Autóval kényelmesen összekötheti Schleswig egymástól távolabb eső nevezetességeit. Kezdjen a Schlei déli partján, a haithabui vikingeknél. Ezután parkoljon a kikötőben, hogy gyalog fedezze fel a dómot és a Holmot. Délután látogasson el a Gottorf-kastélyszigetre és a barokk kertbe, majd zárja a napot a városi kikötőben.",
         "ro": "Cu mașina puteți conecta ușor atracțiile mai îndepărtate din Schleswig. Începeți la sud de Schlei, la vikingii din Haithabu. Apoi parcați în port pentru a explora pe jos catedrala și Holm. După-amiaza vizitați insula castelului Gottorf cu grădina sa barocă, înainte de a încheia ziua relaxat în portul orașului.",
-        "en": "By car, you can easily connect the scattered highlights of Schleswig. Start south of the Schlei with the Vikings in Haithabu. Then park at the harbor to explore the Cathedral and Holm on foot. In the afternoon, dedicate time to Gottorf Castle island and its Baroque garden before ending the day at the city port."
+        "en": "By car, you can easily connect the scattered highlights of Schleswig. Start south of the Schlei with the Vikings in Haithabu. Then park at the harbor to explore the Cathedral and Holm on foot. In the afternoon, dedicate time to Gottorf Castle island and its Baroque garden before ending the day at the city port.",
+        "tr": "Arabayla, Schleswig’in dağınık önemli noktalarını kolayca birbirine bağlayabilirsiniz. Schlei’nin güneyinde Haithabu’daki Vikinglerle başlayın. Ardından Katedrali ve Holm’ü keşfetmek için limana park edin. Öğleden sonra Gottorf Kale adasına ve Barok bahçesine zaman ayırın, günü şehir limanında sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -912,6 +969,12 @@
           "Some parking lots require a parking disc.",
           "Avoid rush hour around the Schlei bridge.",
           "Gottorf Castle has a very large visitor parking lot."
+        ],
+        "tr": [
+          "Liman’daki park ücretleri ılımlıdır.",
+          "Bazı otoparklar parkmatik (park diski) gerektirir.",
+          "Schlei köprüsü çevresindeki yoğun saatlerden kaçının.",
+          "Gottorf Kalesi’nin çok büyük bir ziyaretçi otoparkı vardır."
         ]
       }
     },
@@ -928,7 +991,8 @@
             "de": "Bahnhof Schleswig",
             "hu": "Schleswig vasútállomás",
             "ro": "Gara Schleswig",
-            "en": "Schleswig Station"
+            "en": "Schleswig Station",
+            "tr": "Schleswig Garı"
           },
           "coords": [
             9.537,
@@ -943,7 +1007,8 @@
             "de": "Startpunkt für Busse in die Innenstadt.",
             "hu": "Kiindulópont a belvárosi buszokhoz.",
             "ro": "Punct de plecare pentru autobuzele spre centru.",
-            "en": "Starting point for buses to the city center."
+            "en": "Starting point for buses to the city center.",
+            "tr": "Şehir merkezine giden otobüslerin başlangıç noktası."
           }
         },
         {
@@ -951,7 +1016,8 @@
             "de": "Schloss Gottorf",
             "hu": "Gottorf-kastély",
             "ro": "Castelul Gottorf",
-            "en": "Gottorf Castle"
+            "en": "Gottorf Castle",
+            "tr": "Gottorf Kalesi"
           },
           "coords": [
             9.5414,
@@ -966,7 +1032,8 @@
             "de": "Buslinie 1 direkt vor das Schloss.",
             "hu": "Az 1-es busz közvetlenül a kastély előtt áll meg.",
             "ro": "Linia 1 de autobuz oprește chiar în fața castelului.",
-            "en": "Bus line 1 stops directly in front of the castle."
+            "en": "Bus line 1 stops directly in front of the castle.",
+            "tr": "1 numaralı otobüs hattı doğrudan kalenin önünde durur."
           }
         },
         {
@@ -974,7 +1041,8 @@
             "de": "Schleswiger Dom",
             "hu": "Schleswigi dóm",
             "ro": "Catedrala din Schleswig",
-            "en": "Schleswig Cathedral"
+            "en": "Schleswig Cathedral",
+            "tr": "Schleswig Katedrali"
           },
           "coords": [
             9.5693,
@@ -989,7 +1057,8 @@
             "de": "Zentraler Umsteigepunkt 'ZOB' in der Nähe.",
             "hu": "A központi buszpályaudvar (ZOB) a közelben van.",
             "ro": "Autogara centrală (ZOB) se află în apropiere.",
-            "en": "The central bus station (ZOB) is nearby."
+            "en": "The central bus station (ZOB) is nearby.",
+            "tr": "Merkezi otobüs durağı (ZOB) yakındadır."
           }
         },
         {
@@ -997,7 +1066,8 @@
             "de": "Fischersiedlung Holm",
             "hu": "Holm halásznegyed",
             "ro": "Cartierul pescăresc Holm",
-            "en": "Holm Fishermen's Settlement"
+            "en": "Holm Fishermen's Settlement",
+            "tr": "Holm Balıkçı Yerleşimi"
           },
           "coords": [
             9.5746,
@@ -1012,7 +1082,8 @@
             "de": "Vom ZOB bequem zu Fuß erreichbar.",
             "hu": "A buszpályaudvartól kényelmesen elérhető gyalog.",
             "ro": "Accesibil pe jos de la autogară.",
-            "en": "Easily accessible on foot from the bus station."
+            "en": "Easily accessible on foot from the bus station.",
+            "tr": "Otobüs durağından yürüyerek kolayca ulaşılabilir."
           }
         },
         {
@@ -1020,7 +1091,8 @@
             "de": "Wikinger Museum Haithabu",
             "hu": "Haithabu Viking Múzeum",
             "ro": "Muzeul Viking Haithabu",
-            "en": "Haithabu Viking Museum"
+            "en": "Haithabu Viking Museum",
+            "tr": "Haithabu Viking Müzesi"
           },
           "coords": [
             9.5694,
@@ -1035,7 +1107,8 @@
             "de": "Bus 1511 fährt nach Haithabu.",
             "hu": "Az 1511-es busz megy Haithabuba.",
             "ro": "Autobuzul 1511 merge spre Haithabu.",
-            "en": "Bus 1511 goes to Haithabu."
+            "en": "Bus 1511 goes to Haithabu.",
+            "tr": "1511 numaralı otobüs Haithabu’ya gider."
           }
         },
         {
@@ -1043,7 +1116,8 @@
             "de": "Königswiesen",
             "hu": "Királyrétek park",
             "ro": "Parcul Königswiesen",
-            "en": "Königswiesen Park"
+            "en": "Königswiesen Park",
+            "tr": "Königswiesen Parkı"
           },
           "coords": [
             9.557,
@@ -1058,7 +1132,8 @@
             "de": "Rückweg zum Bahnhof über den Stadtbus.",
             "hu": "Visszaút az állomásra városi busszal.",
             "ro": "Întoarcerea la gară cu autobuzul urban.",
-            "en": "Return to the station via city bus."
+            "en": "Return to the station via city bus.",
+            "tr": "Kent otobüsüyle gara dönüş."
           }
         }
       ],
@@ -1066,7 +1141,8 @@
         "de": "Schleswig lässt sich gut mit dem Stadtbus erkunden. Vom Bahnhof gelangen Sie schnell zum Schloss Gottorf und zum zentralen Busbahnhof (ZOB). Von dort aus liegen der Dom und der Holm in Laufnähe. Eine separate Busverbindung bringt Sie in den Süden zum Wikinger Museum Haithabu, einem der absoluten Highlights der Region.",
         "hu": "Schleswig jól felfedezhető városi busszal. Az állomástól gyorsan elérheti a Gottorf-kastélyt és a központi buszpályaudvart (ZOB). Innen a dóm és a Holm gyalogosan is megközelíthető. Egy külön buszjárat visz délre, a Haithabu Viking Múzeumhoz, amely a régió egyik legfontosabb látnivalója.",
         "ro": "Schleswig poate fi explorat bine cu autobuzul urban. De la gară ajungeți rapid la castelul Gottorf și la autogara centrală (ZOB). De acolo, catedrala și Holm sunt la mică distanță de mers pe jos. O conexiune separată de autobuz vă duce în sud, la Muzeul Viking Haithabu, una dintre cele mai importante atracții ale regiunii.",
-        "en": "Schleswig can be easily explored by city bus. From the station, you can quickly reach Gottorf Castle and the central bus station (ZOB). From there, the Cathedral and Holm are within walking distance. A separate bus connection takes you south to the Haithabu Viking Museum, one of the region's top highlights."
+        "en": "Schleswig can be easily explored by city bus. From the station, you can quickly reach Gottorf Castle and the central bus station (ZOB). From there, the Cathedral and Holm are within walking distance. A separate bus connection takes you south to the Haithabu Viking Museum, one of the region's top highlights.",
+        "tr": "Schleswig, şehir içi otobüslerle kolayca keşfedilebilir. Gar’dan hızlıca Gottorf Kalesi ve merkezi otobüs durağına (ZOB) ulaşabilirsiniz. Buradan Katedral ve Holm yürüyüş mesafesindedir. Ayrı bir otobüs bağlantısı sizi güneydeki Haithabu Viking Müzesi’ne götürür; bölgenin en önemli cazibe merkezlerinden biridir."
       },
       "gastro_picks": {
         "de": [
@@ -1174,6 +1250,12 @@
           "A day ticket is usually cheaper than individual trips.",
           "Buses run less frequently on weekends.",
           "Almost all lines start from the ZOB."
+        ],
+        "tr": [
+          "Gerçek zamanlı bilgiler için mobilite uygulamasını indirin.",
+          "Günlük bilet genellikle tekli yolculuklardan daha ucuzdur.",
+          "Hafta sonları otobüsler daha seyrek çalışır.",
+          "Neredeyse tüm hatlar ZOB’dan başlar."
         ]
       }
     }

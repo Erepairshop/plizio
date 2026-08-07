@@ -3,55 +3,64 @@
     "de": "Speicherstadt, 20457 Hamburg",
     "hu": "Speicherstadt, 20457 Hamburg",
     "ro": "Speicherstadt, 20457 Hamburg",
-    "en": "Speicherstadt, 20457 Hamburg"
+    "en": "Speicherstadt, 20457 Hamburg",
+    "tr": "Speicherstadt, 20457 Hamburg"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "24/7",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "tr": "7/24"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "tr": "ücretsiz"
   },
   "website": "https://www.hamburg.de/speicherstadt",
   "publicTransport": {
     "de": "U3 (Baumwall), U4 (Überseequartier)",
     "hu": "U3 metró (Baumwall), U4 metró (Überseequartier)",
     "ro": "U3 (Baumwall), U4 (Überseequartier)",
-    "en": "U3 (Baumwall), U4 (Überseequartier)"
+    "en": "U3 (Baumwall), U4 (Überseequartier)",
+    "tr": "U3 (Baumwall), U4 (Überseequartier)"
   },
   "parking": {
     "de": "Parkhaus Speicherstadt (Am Sandtorkai), ca. 3 €/Std.",
     "hu": "Speicherstadt parkolóház (Am Sandtorkai), kb. 3 €/óra",
     "ro": "Parcarea Speicherstadt (Am Sandtorkai), aprox. 3 €/oră",
-    "en": "Speicherstadt parking garage (Am Sandtorkai), approx. 3 €/hr"
+    "en": "Speicherstadt parking garage (Am Sandtorkai), approx. 3 €/hr",
+    "tr": "Speicherstadt otopark (Am Sandtorkai), yaklaşık 3 €/saat"
   },
   "accessibility": {
     "de": "Größtenteils barrierefrei, teils Kopfsteinpflaster auf Brücken.",
     "hu": "Nagyrészt akadálymentes, a hidakon néhol macskakő.",
     "ro": "În mare parte accesibil, parțial pavaj cu piatră cubică pe poduri.",
-    "en": "Mostly barrier-free, some cobblestones on bridges."
+    "en": "Mostly barrier-free, some cobblestones on bridges.",
+    "tr": "Çoğunlukla engelsiz, köprülerde bazı kaldırım taşları var."
   },
   "photoRules": {
     "de": "Erlaubt, Stative auf Brücken oft geduldet.",
     "hu": "Engedélyezett, a hidakon az állványhasználatot gyakran megtűrik.",
     "ro": "Permis, trepiedele pe poduri sunt adesea tolerate.",
-    "en": "Allowed, tripods on bridges are often tolerated."
+    "en": "Allowed, tripods on bridges are often tolerated.",
+    "tr": "İzinli, köprülerde tripodlar sıkça hoşgörüyle karşılanır."
   },
   "bestTimeToVisit": {
     "de": "In der blauen Stunde, wenn die Gebäude beleuchtet werden.",
     "hu": "A kék órában, amikor az épületek kivilágítása megkezdődik.",
     "ro": "În ora albastră, când clădirile sunt iluminate.",
-    "en": "During the blue hour when the buildings are illuminated."
+    "en": "During the blue hour when the buildings are illuminated.",
+    "tr": "Binaların aydınlatıldığı mavi saatte."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "tr": "hayır"
   }
 }

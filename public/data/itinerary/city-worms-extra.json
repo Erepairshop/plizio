@@ -21,7 +21,8 @@
             "de": "Wormser Dom St. Peter",
             "hu": "Szent Péter-dóm",
             "ro": "Catedrala Sf. Petru",
-            "en": "Worms Cathedral"
+            "en": "Worms Cathedral",
+            "tr": "Worms Katedrali"
           },
           "coords": [
             8.358,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die romanische Architektur.",
             "hu": "Csodálja meg a román stílusú építészetet.",
             "ro": "Admirați arhitectura romanică.",
-            "en": "Admire the Romanesque architecture."
+            "en": "Admire the Romanesque architecture.",
+            "tr": "Romanesk mimariye hayran kalın."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Lutherdenkmal",
             "hu": "Luther-emlékmű",
             "ro": "Monumentul lui Luther",
-            "en": "Luther Monument"
+            "en": "Luther Monument",
+            "tr": "Luther Anıtı"
           },
           "coords": [
             8.36,
@@ -59,7 +62,8 @@
             "de": "Das größte Reformationsdenkmal der Welt.",
             "hu": "A világ legnagyobb reformációs emlékműve.",
             "ro": "Cel mai mare monument al Reformei din lume.",
-            "en": "The largest Reformation monument in the world."
+            "en": "The largest Reformation monument in the world.",
+            "tr": "Dünyanın en büyük Reform anıtı."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Synagoge Worms",
             "hu": "Wormsi zsinagóga",
             "ro": "Sinagoga din Worms",
-            "en": "Worms Synagogue"
+            "en": "Worms Synagogue",
+            "tr": "Worms Sinagogu"
           },
           "coords": [
             8.366,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie das jüdische Viertel.",
             "hu": "Látogasson el a zsidó negyedbe.",
             "ro": "Vizitați cartierul evreiesc.",
-            "en": "Visit the Jewish quarter."
+            "en": "Visit the Jewish quarter.",
+            "tr": "Yahudi mahallesini ziyaret edin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Nibelungenmuseum",
             "hu": "Nibelung-múzeum",
             "ro": "Muzeul Nibelungilor",
-            "en": "Nibelungen Museum"
+            "en": "Nibelungen Museum",
+            "tr": "Nibelungen Müzesi"
           },
           "coords": [
             8.366,
@@ -105,7 +112,8 @@
             "de": "Multimedia-Erlebnis zur Heldensage.",
             "hu": "Multimédiás élmény a hősregéről.",
             "ro": "Experiență multimedia despre saga eroică.",
-            "en": "Multimedia experience of the heroic saga."
+            "en": "Multimedia experience of the heroic saga.",
+            "tr": "Kahramanlık destanının multimedya deneyimi."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Jüdischer Friedhof Heiliger Sand",
             "hu": "Heiliger Sand zsidó temető",
             "ro": "Cimitirul Evreiesc Heiliger Sand",
-            "en": "Jewish Cemetery Heiliger Sand"
+            "en": "Jewish Cemetery Heiliger Sand",
+            "tr": "Heiliger Sand Yahudi Mezarlığı"
           },
           "coords": [
             8.356,
@@ -128,7 +137,8 @@
             "de": "Der älteste jüdische Friedhof Europas.",
             "hu": "Európa legrégebbi zsidó temetője.",
             "ro": "Cel mai vechi cimitir evreiesc din Europa.",
-            "en": "Europe's oldest Jewish cemetery."
+            "en": "Europe's oldest Jewish cemetery.",
+            "tr": "Avrupa’nın en eski Yahudi mezarlığı."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Nibelungenbrücke",
             "hu": "Nibelung-híd",
             "ro": "Podul Nibelungilor",
-            "en": "Nibelungen Bridge"
+            "en": "Nibelungen Bridge",
+            "tr": "Nibelungen Köprüsü"
           },
           "coords": [
             8.378,
@@ -151,7 +162,8 @@
             "de": "Schöner Blick auf den Rhein.",
             "hu": "Szép kilátás a Rajnára.",
             "ro": "Vedere frumoasă spre Rin.",
-            "en": "Beautiful view of the Rhine."
+            "en": "Beautiful view of the Rhine.",
+            "tr": "Ren Nehri’nin güzel manzarası."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Liebfrauenkirche",
             "hu": "Liebfrauenkirche",
             "ro": "Biserica Liebfrauen",
-            "en": "Liebfrauenkirche"
+            "en": "Liebfrauenkirche",
+            "tr": "Liebfrauenkirche"
           },
           "coords": [
             8.368,
@@ -174,7 +187,8 @@
             "de": "Umgeben von Weinbergen.",
             "hu": "Szőlőültetvényekkel körülvéve.",
             "ro": "Înconjurată de podgorii.",
-            "en": "Surrounded by vineyards."
+            "en": "Surrounded by vineyards.",
+            "tr": "Bağlarla çevrili."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Worms empfängt Sie mit seiner über 2000-jährigen Geschichte. Der Vormittag steht im Zeichen des Doms und Luthers. Nachmittags tauchen Sie in die Nibelungensage und das reiche jüdische Erbe ein. Den Tag lassen Sie bei einem Spaziergang am Rhein oder in den Weinbergen ausklingen.",
         "hu": "Worms több mint 2000 éves történelemmel várja Önt. A délelőtt a dóm és Luther jegyében telik. Délután a Nibelung-regébe és a gazdag zsidó örökségbe merülhet el. A napot egy rajnai sétával vagy a szőlőskertek között zárhatja.",
         "ro": "Worms vă întâmpină cu o istorie de peste 2000 de ani. Dimineața este marcată de Catedrală și de Luther. După-amiaza vă scufundați în saga Nibelungilor și în bogata moștenire evreiască. Încheiați ziua cu o plimbare pe Rin sau printre podgorii.",
-        "en": "Worms welcomes you with over 2000 years of history. The morning is dedicated to the Cathedral and Luther. In the afternoon, dive into the Nibelungen saga and the rich Jewish heritage. End the day with a walk along the Rhine or among the vineyards."
+        "en": "Worms welcomes you with over 2000 years of history. The morning is dedicated to the Cathedral and Luther. In the afternoon, dive into the Nibelungen saga and the rich Jewish heritage. End the day with a walk along the Rhine or among the vineyards.",
+        "tr": "Worms sizi 2000 yılı aşkın tarihiyle karşılıyor. Sabah Katedral ve Luther’e ayrılmış. Öğleden sonra Nibelungen destanına ve zengin Yahudi mirasına dalın. Günü Ren kıyısında veya bağlar arasında yürüyüşle sonlandırın."
       },
       "gastro_picks": {
         "de": [
@@ -282,6 +297,10 @@
         "en": [
           "The old town is very compact and easy to explore on foot.",
           "Try the famous Liebfrauenmilch wine directly at the vineyard."
+        ],
+        "tr": [
+          "Eski şehir çok kompakt ve yürüyerek keşfetmesi kolay.",
+          "Ünlü Liebfrauenmilch şarabını doğrudan bağda deneyin."
         ]
       }
     },
@@ -298,7 +317,8 @@
             "de": "Wormser Dom St. Peter",
             "hu": "Szent Péter-dóm",
             "ro": "Catedrala Sf. Petru",
-            "en": "Worms Cathedral"
+            "en": "Worms Cathedral",
+            "tr": "Worms Katedrali"
           },
           "coords": [
             8.358,
@@ -313,7 +333,8 @@
             "de": "Fahrradabstellplätze direkt am Dom.",
             "hu": "Kerékpártárolók közvetlenül a dómnál.",
             "ro": "Parcare pentru biciclete chiar la catedrală.",
-            "en": "Bicycle parking right at the cathedral."
+            "en": "Bicycle parking right at the cathedral.",
+            "tr": "Katedralin hemen yanında bisiklet parkı."
           }
         },
         {
@@ -321,7 +342,8 @@
             "de": "Lutherdenkmal",
             "hu": "Luther-emlékmű",
             "ro": "Monumentul lui Luther",
-            "en": "Luther Monument"
+            "en": "Luther Monument",
+            "tr": "Luther Anıtı"
           },
           "coords": [
             8.36,
@@ -336,7 +358,8 @@
             "de": "Kurzer Stopp im Zentrum.",
             "hu": "Rövid megálló a központban.",
             "ro": "Scurtă oprire în centru.",
-            "en": "Short stop in the center."
+            "en": "Short stop in the center.",
+            "tr": "Merkezde kısa mola."
           }
         },
         {
@@ -344,7 +367,8 @@
             "de": "Synagoge Worms",
             "hu": "Wormsi zsinagóga",
             "ro": "Sinagoga din Worms",
-            "en": "Worms Synagogue"
+            "en": "Worms Synagogue",
+            "tr": "Worms Sinagogu"
           },
           "coords": [
             8.366,
@@ -359,7 +383,8 @@
             "de": "Ruhiges Viertel, ideal für Räder.",
             "hu": "Csendes negyed, ideális bringázáshoz.",
             "ro": "Cartier liniștit, ideal pentru biciclete.",
-            "en": "Quiet quarter, ideal for bikes."
+            "en": "Quiet quarter, ideal for bikes.",
+            "tr": "Sakin bir mahalle, bisiklet için ideal."
           }
         },
         {
@@ -367,7 +392,8 @@
             "de": "Nibelungenbrücke",
             "hu": "Nibelung-híd",
             "ro": "Podul Nibelungilor",
-            "en": "Nibelungen Bridge"
+            "en": "Nibelungen Bridge",
+            "tr": "Nibelungen Köprüsü"
           },
           "coords": [
             8.378,
@@ -382,7 +408,8 @@
             "de": "Überqueren Sie den Rhein per Rad.",
             "hu": "Kerekezzen át a Rajnán.",
             "ro": "Traversați Rinul cu bicicleta.",
-            "en": "Cross the Rhine by bike."
+            "en": "Cross the Rhine by bike.",
+            "tr": "Ren’i bisikletle geçin."
           }
         },
         {
@@ -390,7 +417,8 @@
             "de": "Liebfrauenkirche",
             "hu": "Liebfrauenkirche",
             "ro": "Biserica Liebfrauen",
-            "en": "Liebfrauenkirche"
+            "en": "Liebfrauenkirche",
+            "tr": "Liebfrauenkirche"
           },
           "coords": [
             8.368,
@@ -405,7 +433,8 @@
             "de": "Schöner Weg durch die Reben.",
             "hu": "Szép út a szőlőtőkék között.",
             "ro": "Drum frumos prin vii.",
-            "en": "Beautiful path through the vines."
+            "en": "Beautiful path through the vines.",
+            "tr": "Bağlar arasından güzel bir yol."
           }
         },
         {
@@ -413,7 +442,8 @@
             "de": "Schloss Herrnsheim",
             "hu": "Herrnsheimi kastély",
             "ro": "Castelul Herrnsheim",
-            "en": "Herrnsheim Castle"
+            "en": "Herrnsheim Castle",
+            "tr": "Herrnsheim Kalesi"
           },
           "coords": [
             8.337,
@@ -428,7 +458,8 @@
             "de": "Besuchen Sie den Schlosspark.",
             "hu": "Látogasson el a kastélyparkba.",
             "ro": "Vizitați parcul castelului.",
-            "en": "Visit the castle park."
+            "en": "Visit the castle park.",
+            "tr": "Kale parkını ziyaret edin."
           }
         },
         {
@@ -436,7 +467,8 @@
             "de": "Jüdischer Friedhof Heiliger Sand",
             "hu": "Heiliger Sand zsidó temető",
             "ro": "Cimitirul Evreiesc Heiliger Sand",
-            "en": "Jewish Cemetery Heiliger Sand"
+            "en": "Jewish Cemetery Heiliger Sand",
+            "tr": "Heiliger Sand Yahudi Mezarlığı"
           },
           "coords": [
             8.356,
@@ -451,7 +483,8 @@
             "de": "Ein Ort der Stille.",
             "hu": "A csend helyszíne.",
             "ro": "Un loc al liniștii.",
-            "en": "A place of silence."
+            "en": "A place of silence.",
+            "tr": "Sessizlik mekânı."
           }
         }
       ],
@@ -459,7 +492,8 @@
         "de": "Per Rad erkunden Sie nicht nur das Zentrum, sondern auch das prächtige Schloss Herrnsheim im Norden. Die Tour führt entlang des Rheins und durch die berühmten Weinlagen von Worms.",
         "hu": "Kerékpárral nemcsak a központot, hanem a tőle északra fekvő pompás Herrnsheim-kastélyt is felfedezheti. A túra a Rajna mentén és Worms híres szőlőültetvényein keresztül vezet.",
         "ro": "Cu bicicleta explorați nu doar centrul, ci și magnificul Castel Herrnsheim din nord. Turul vă poartă de-a lungul Rinului și prin faimoasele podgorii din Worms.",
-        "en": "By bike, you explore not only the center but also the magnificent Herrnsheim Castle in the north. The tour leads along the Rhine and through the famous vineyards of Worms."
+        "en": "By bike, you explore not only the center but also the magnificent Herrnsheim Castle in the north. The tour leads along the Rhine and through the famous vineyards of Worms.",
+        "tr": "Bisikletle sadece merkezi değil, kuzeydeki muhteşem Herrnsheim Kalesi’ni de keşfediyorsunuz. Tur Ren boyunca ve Worms’un ünlü bağları arasından geçiyor."
       },
       "gastro_picks": {
         "de": [
@@ -559,6 +593,10 @@
         "en": [
           "The Rhine cycle path offers a great view of the city.",
           "Watch out for cobblestones in the old town."
+        ],
+        "tr": [
+          "Ren bisiklet yolu şehrin harika bir manzarasını sunuyor.",
+          "Eski şehirdeki kaldırım taşlarına dikkat edin."
         ]
       }
     },
@@ -575,7 +613,8 @@
             "de": "Wormser Dom (Cluster Altstadt)",
             "hu": "Szent Péter-dóm (Óváros)",
             "ro": "Catedrala Worms (Centrul Vechi)",
-            "en": "Worms Cathedral (Old Town Cluster)"
+            "en": "Worms Cathedral (Old Town Cluster)",
+            "tr": "Worms Katedrali (Eski Şehir Kümelenmesi)"
           },
           "coords": [
             8.358,
@@ -590,7 +629,8 @@
             "de": "Parkhaus am Dom nutzen.",
             "hu": "Használja a dóm melletti parkolóházat.",
             "ro": "Folosiți parcarea de la catedrală.",
-            "en": "Use the parking garage at the cathedral."
+            "en": "Use the parking garage at the cathedral.",
+            "tr": "Katedral otoparkını kullanın."
           }
         },
         {
@@ -598,7 +638,8 @@
             "de": "Lutherdenkmal",
             "hu": "Luther-emlékmű",
             "ro": "Monumentul lui Luther",
-            "en": "Luther Monument"
+            "en": "Luther Monument",
+            "tr": "Luther Anıtı"
           },
           "coords": [
             8.36,
@@ -613,7 +654,8 @@
             "de": "Kurzer Fußweg vom Dom.",
             "hu": "Rövid séta a dómtól.",
             "ro": "Scurtă plimbare de la catedrală.",
-            "en": "Short walk from the cathedral."
+            "en": "Short walk from the cathedral.",
+            "tr": "Katedrale kısa yürüme mesafesinde."
           }
         },
         {
@@ -621,7 +663,8 @@
             "de": "Nibelungenmuseum",
             "hu": "Nibelung-múzeum",
             "ro": "Muzeul Nibelungilor",
-            "en": "Nibelungen Museum"
+            "en": "Nibelungen Museum",
+            "tr": "Nibelungen Müzesi"
           },
           "coords": [
             8.366,
@@ -636,7 +679,8 @@
             "de": "Highlight für Fans der Sage.",
             "hu": "A saga kedvelőinek kötelező.",
             "ro": "Punct culminant pentru fanii sagi.",
-            "en": "Highlight for fans of the saga."
+            "en": "Highlight for fans of the saga.",
+            "tr": "Destan tutkunları için öne çıkan yer."
           }
         },
         {
@@ -644,7 +688,8 @@
             "de": "Synagoge Worms",
             "hu": "Wormsi zsinagóga",
             "ro": "Sinagoga din Worms",
-            "en": "Worms Synagogue"
+            "en": "Worms Synagogue",
+            "tr": "Worms Sinagogu"
           },
           "coords": [
             8.366,
@@ -659,7 +704,8 @@
             "de": "Abschluss des Altstadt-Spaziergangs.",
             "hu": "Az óvárosi séta lezárása.",
             "ro": "Finalul plimbării în orașul vechi.",
-            "en": "Completion of the old town walk."
+            "en": "Completion of the old town walk.",
+            "tr": "Eski şehir yürüyüşünün tamamlanması."
           }
         },
         {
@@ -667,7 +713,8 @@
             "de": "Nibelungenbrücke (Cluster Rhein)",
             "hu": "Nibelung-híd (Rajna negyed)",
             "ro": "Podul Nibelungilor (Cluster Rin)",
-            "en": "Nibelungen Bridge (Rhine Cluster)"
+            "en": "Nibelungen Bridge (Rhine Cluster)",
+            "tr": "Nibelungen Köprüsü (Ren Kümelenmesi)"
           },
           "coords": [
             8.378,
@@ -682,7 +729,8 @@
             "de": "Parken am Rheinufer.",
             "hu": "Parkolás a Rajna-parton.",
             "ro": "Parcare pe malul Rinului.",
-            "en": "Parking on the Rhine bank."
+            "en": "Parking on the Rhine bank.",
+            "tr": "Ren kıyısında park yeri."
           }
         },
         {
@@ -690,7 +738,8 @@
             "de": "Schloss Herrnsheim",
             "hu": "Herrnsheimi kastély",
             "ro": "Castelul Herrnsheim",
-            "en": "Herrnsheim Castle"
+            "en": "Herrnsheim Castle",
+            "tr": "Herrnsheim Kalesi"
           },
           "coords": [
             8.337,
@@ -705,7 +754,8 @@
             "de": "Großer Parkplatz vorhanden.",
             "hu": "Nagy parkoló áll rendelkezésre.",
             "ro": "Parcare mare disponibilă.",
-            "en": "Large parking lot available."
+            "en": "Large parking lot available.",
+            "tr": "Geniş otopark mevcut."
           }
         }
       ],
@@ -713,7 +763,8 @@
         "de": "Mit dem Auto verbinden Sie bequem die historische Altstadt mit dem weitläufigen Schloss Herrnsheim. Parken Sie zentral für die Domanlagen und später direkt am Rhein für eine Pause am Wasser.",
         "hu": "Autóval kényelmesen összekötheti a történelmi óvárost a tágas Herrnsheim-kastéllyal. Parkoljon a központban a dóm környékén, később pedig közvetlenül a Rajnánál egy vízparti pihenőhöz.",
         "ro": "Cu mașina conectați confortabil centrul vechi istoric cu vastul Castel Herrnsheim. Parcați central pentru zona Catedralei și ulterior direct la Rin pentru o pauză la malul apei.",
-        "en": "By car, you conveniently connect the historic old town with the spacious Herrnsheim Castle. Park centrally for the cathedral grounds and later directly at the Rhine for a break by the water."
+        "en": "By car, you conveniently connect the historic old town with the spacious Herrnsheim Castle. Park centrally for the cathedral grounds and later directly at the Rhine for a break by the water.",
+        "tr": "Arabayla tarihi eski şehri geniş Herrnsheim Kalesi ile rahatça bağlarsınız. Katedral arazisi için merkezde park edin ve daha sonra su kenarında mola için doğrudan Ren kıyısına park edin."
       },
       "gastro_picks": {
         "de": [
@@ -813,6 +864,10 @@
         "en": [
           "Use the parking guidance system in the city center.",
           "Worms is a good starting point for excursions into the Palatinate."
+        ],
+        "tr": [
+          "Şehir merkezindeki park yönlendirme sistemini kullanın.",
+          "Worms, Pfalz’a (Palatinate) yapılacak geziler için iyi bir başlangıç noktasıdır."
         ]
       }
     },
@@ -829,7 +884,8 @@
             "de": "Worms Hauptbahnhof",
             "hu": "Wormsi főpályaudvar",
             "ro": "Gara Centrală Worms",
-            "en": "Worms Central Station"
+            "en": "Worms Central Station",
+            "tr": "Worms Merkez İstasyonu"
           },
           "coords": [
             8.358,
@@ -844,7 +900,8 @@
             "de": "Startpunkt für Busse und Züge.",
             "hu": "A buszok és vonatok kiindulópontja.",
             "ro": "Punct de plecare pentru autobuze și trenuri.",
-            "en": "Starting point for buses and trains."
+            "en": "Starting point for buses and trains.",
+            "tr": "Otobüs ve trenlerin başlangıç noktası."
           }
         },
         {
@@ -852,7 +909,8 @@
             "de": "Wormser Dom",
             "hu": "Szent Péter-dóm",
             "ro": "Catedrala Sf. Petru",
-            "en": "Worms Cathedral"
+            "en": "Worms Cathedral",
+            "tr": "Worms Katedrali"
           },
           "coords": [
             8.358,
@@ -867,7 +925,8 @@
             "de": "Linienbus 401 hält in der Nähe.",
             "hu": "A 401-es busz megáll a közelben.",
             "ro": "Linia 401 oprește în apropiere.",
-            "en": "Bus line 401 stops nearby."
+            "en": "Bus line 401 stops nearby.",
+            "tr": "401 numaralı otobüs yakında durur."
           }
         },
         {
@@ -875,7 +934,8 @@
             "de": "Jüdischer Friedhof",
             "hu": "Heiliger Sand temető",
             "ro": "Cimitirul Evreiesc",
-            "en": "Jewish Cemetery"
+            "en": "Jewish Cemetery",
+            "tr": "Yahudi Mezarlığı"
           },
           "coords": [
             8.356,
@@ -890,7 +950,8 @@
             "de": "Zu Fuß vom Dom erreichbar.",
             "hu": "Gyalogosan elérhető a dómtól.",
             "ro": "Accesibil pe jos de la catedrală.",
-            "en": "Accessible on foot from the cathedral."
+            "en": "Accessible on foot from the cathedral.",
+            "tr": "Katedrallerden yürüyerek ulaşılabilir."
           }
         },
         {
@@ -898,7 +959,8 @@
             "de": "Nibelungenmuseum",
             "hu": "Nibelung-múzeum",
             "ro": "Muzeul Nibelungilor",
-            "en": "Nibelungen Museum"
+            "en": "Nibelungen Museum",
+            "tr": "Nibelungen Müzesi"
           },
           "coords": [
             8.366,
@@ -913,7 +975,8 @@
             "de": "Kultur-Spaziergang durch die Stadt.",
             "hu": "Kulturális séta a városon keresztül.",
             "ro": "Plimbare culturală prin oraș.",
-            "en": "Cultural walk through the city."
+            "en": "Cultural walk through the city.",
+            "tr": "Şehirde kültürel yürüyüş."
           }
         },
         {
@@ -921,7 +984,8 @@
             "de": "Nibelungenbrücke",
             "hu": "Nibelung-híd",
             "ro": "Podul Nibelungilor",
-            "en": "Nibelungen Bridge"
+            "en": "Nibelungen Bridge",
+            "tr": "Nibelungen Köprüsü"
           },
           "coords": [
             8.378,
@@ -936,7 +1000,8 @@
             "de": "Buslinie zum Rheinufer nutzen.",
             "hu": "Használja a Rajna-parti buszt.",
             "ro": "Utilizați linia de autobuz spre Rin.",
-            "en": "Use the bus line to the Rhine bank."
+            "en": "Use the bus line to the Rhine bank.",
+            "tr": "Ren kıyısına giden otobüs hattını kullanın."
           }
         },
         {
@@ -944,7 +1009,8 @@
             "de": "Schloss Herrnsheim",
             "hu": "Herrnsheimi kastély",
             "ro": "Castelul Herrnsheim",
-            "en": "Herrnsheim Castle"
+            "en": "Herrnsheim Castle",
+            "tr": "Herrnsheim Kalesi"
           },
           "coords": [
             8.337,
@@ -959,7 +1025,8 @@
             "de": "Bus 431 ab HBF Richtung Herrnsheim.",
             "hu": "431-es busz a főpályaudvarról Herrnsheim felé.",
             "ro": "Autobuzul 431 de la gară spre Herrnsheim.",
-            "en": "Bus 431 from central station towards Herrnsheim."
+            "en": "Bus 431 from central station towards Herrnsheim.",
+            "tr": "Merkez istasyondan Herrnsheim yönüne 431 numaralı otobüs."
           }
         }
       ],
@@ -967,7 +1034,8 @@
         "de": "Worms lässt sich hervorragend mit dem dichten Busnetz erkunden. Vom Hauptbahnhof aus erreichen Sie alle wichtigen Sehenswürdigkeiten, einschließlich des Schlosses Herrnsheim, das direkt mit dem Bus angebunden ist.",
         "hu": "Worms kiválóan felfedezhető a sűrű autóbusz-hálózattal. A főpályaudvarról minden fontos látnivaló elérhető, beleértve a Herrnsheim-kastélyt is, amely közvetlen buszjárattal rendelkezik.",
         "ro": "Worms poate fi explorat excelent cu rețeaua densă de autobuze. De la gara centrală puteți ajunge la toate obiectivele importante, inclusiv la Castelul Herrnsheim, care este conectat direct prin autobuz.",
-        "en": "Worms can be explored excellently with the dense bus network. From the central station, you can reach all important sights, including Herrnsheim Castle, which is directly connected by bus."
+        "en": "Worms can be explored excellently with the dense bus network. From the central station, you can reach all important sights, including Herrnsheim Castle, which is directly connected by bus.",
+        "tr": "Worms, yoğun otobüs ağıyla mükemmel keşfedilebilir. Merkez istasyondan Herrnsheim Kalesi dahil tüm önemli görülecek yerlere, doğrudan otobüsle ulaşabilirsiniz."
       },
       "gastro_picks": {
         "de": [
@@ -1067,6 +1135,10 @@
         "en": [
           "The VRN day ticket is ideal for tourists.",
           "Buses run less frequently on weekends."
+        ],
+        "tr": [
+          "VRN günlük bileti turistler için idealdir.",
+          "Hafta sonları otobüsler daha seyrek çalışır."
         ]
       }
     }
